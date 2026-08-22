@@ -1,0 +1,368 @@
+{
+  "date": "2026-08-22",
+  "capturedAt": "2026-08-22T04:34:37.814Z",
+  "editorial": "Bei Modellen der künstlichen Intelligenz stehen heute effizienzorientierte Versionen der Qwen 27B-Serie und sich selbst entwickelnde Agentenarchitekturen im Mittelpunkt der technischen Agenda. Themen wie die Möglichkeit, Paywall-Links aus Suchmaschinenergebnissen zu entfernen, und die Datensicherheit an Grenzübergängen definieren die rechtlichen Grenzen der digitalen Privatsphäre neu.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "„Skills“ wird von Matt Pocock geteilt und umfasst maßgeschneiderte Kompetenzpakete, die von Softwareentwicklern für Agenten der künstlichen Intelligenz erstellt wurden. Diese Sammlung bietet vorgefertigte Skripte und Workflow-Vorlagen für Ingenieure, die komplexe Aufgaben automatisieren möchten.",
+          "meta": "Shell · ★ 229.866 · +3.362 heute"
+        },
+        {
+          "title": "mahlernim/google-timeline-visualizer",
+          "url": "https://github.com/mahlernim/google-timeline-visualizer",
+          "summary": "Google Timeline Visualizer, ein Open-Source-Tool zur Visualisierung von Google-Standortverlaufsdaten, bietet Nutzern die Möglichkeit, ihre Reisen das ganze Jahr über auf einer Karte anzuzeigen. Diese mit der Kotlin-Sprache entwickelte Software wandelt persönliche Standortdaten in eine aussagekräftige Reisezusammenfassung um.",
+          "meta": "Kotlin · ★ 2.285 · +1.053 heute"
+        },
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo erstellt hochauflösende Kurzvideos mithilfe von Modellen der künstlichen Intelligenz und automatischen Workflows basierend auf dem eingegebenen Thema oder den eingegebenen Schlüsselwörtern. Dieses Python-basierte Tool macht die mühsame Vorbereitung von Videos überflüssig, indem es den Content-Produktionsprozess durchgängig automatisiert.",
+          "meta": "Python · ★ 114.059 · +1.201 heute"
+        },
+        {
+          "title": "AprilNEA/OpenLogi",
+          "url": "https://github.com/AprilNEA/OpenLogi",
+          "summary": "OpenLogi ist eine Local-First-Alternativsoftware, die zur Verwaltung von Logitech-Peripheriegeräten entwickelt wurde. Dieses in Rust geschriebene Tool ermöglicht es Benutzern, Tastenkombinationen, DPI-Einstellungen und SmartShift-Funktionen zu konfigurieren, ohne ein Konto erstellen oder Daten teilen zu müssen.",
+          "meta": "Rust · ★ 13.076 · +1.380 heute"
+        },
+        {
+          "title": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "summary": "PostHog ist eine umfassende Datenanalyseplattform zur Überwachung und Optimierung von Produktentwicklungsprozessen. Es bietet Softwareteams die Möglichkeit, Benutzerverhalten zu analysieren und technische Probleme mit Tools wie Observability mit künstlicher Intelligenz, Sitzungsaufzeichnung und Fehlerverfolgung zu lösen.",
+          "meta": "Python · ★ 38.330 · +335 heute"
+        },
+        {
+          "title": "microsoft/TypeScript",
+          "url": "https://github.com/microsoft/TypeScript",
+          "summary": "TypeScript wurde von Microsoft entwickelt und ist eine Obermenge einer Programmiersprache, die der JavaScript-Sprache eine statische Typprüfung hinzufügt. Es ermöglicht die Erstellung zuverlässigerer und skalierbarerer Anwendungen, indem es Codefehler im Voraus während des Softwareentwicklungsprozesses erkennt.",
+          "meta": "Go · ★ 110.407 · +65 heute"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers bietet ein Framework für Agentenfähigkeiten und eine Softwareentwicklungsmethodik für Agenten der künstlichen Intelligenz. Mit diesem Tool können agentenbasierte Systeme in einer Standardstruktur konfiguriert werden, um komplexe Arbeitsabläufe zu verwalten.",
+          "meta": "Shell · ★ 275.719 · +790 heute"
+        },
+        {
+          "title": "santifer/career-ops",
+          "url": "https://github.com/santifer/career-ops",
+          "summary": "Career-ops ist ein Open-Source-Tool für die Jobsuche, das Stellenausschreibungen scannt, sie nach bestimmten Kriterien bewertet und Ihren Lebenslauf entsprechend dieser Ausschreibungen organisiert. Diese Software läuft auf nativen Befehlszeilenschnittstellen (CLI), automatisiert Bewerbungsprozesse und bündelt die Jobsuche in einem strukturierten System.",
+          "meta": "JavaScript · ★ 67.521 · +921 heute"
+        },
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "Der Code-Editor Cursor hat eine neue Plugin-Spezifikation veröffentlicht, die es Entwicklern ermöglicht, ihre eigenen Plugins zu erstellen. Dieser Standard ermöglicht die Entwicklung maßgeschneiderter Workflows auf der durch künstliche Intelligenz unterstützten Codierungsplattform Cursor.",
+          "meta": "TypeScript · ★ 4.446 · +388 heute"
+        },
+        {
+          "title": "modular/modular",
+          "url": "https://github.com/modular/modular",
+          "summary": "Die Modular-Plattform umfasst die Programmiersprache Mojo und die MAX-Beschleunigungs-Engine, die darauf ausgelegt ist, Entwicklungsprozesse für künstliche Intelligenz zu beschleunigen. Diese mit Python kompatible Struktur zielt darauf ab, die Leistung von Modellen der künstlichen Intelligenz durch eine effizientere Nutzung von Hardware-Ressourcen zu steigern.",
+          "meta": "Mojo · ★ 28.710 · +913 heute"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC ist ein Leistungssystem, das die Leistungsfähigkeit, den Speicher und die Sicherheitsebenen für Agenten der künstlichen Intelligenz optimiert. Es bietet eine Infrastruktur zur Verbesserung der Arbeitsprozesse von Tools wie Codierungsassistenten (Cursor, Claude Code).",
+          "meta": "JavaScript · ★ 241.839 · +357 heute"
+        },
+        {
+          "title": "TryGhost/Ghost",
+          "url": "https://github.com/TryGhost/Ghost",
+          "summary": "Ghost ist ein Open-Source-Content-Management-System (CMS), das für modernes Publishing, Mitgliederverwaltung und Newsletter-Versand entwickelt wurde. Dabei handelt es sich um eine JavaScript-basierte Plattform, die Content-Erstellern die notwendige Infrastruktur zur Erstellung abonnementbasierter Einnahmemodelle bietet.",
+          "meta": "JavaScript · ★ 54.930 · +32 heute"
+        },
+        {
+          "title": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "summary": "Ruflo ist eine Framework-Software, die den Aufbau von Multiplayer-Schwärmen bestehend aus autonomen Agenten der künstlichen Intelligenz ermöglicht. Es ermöglicht die Entwicklung von Systemen, die komplexe Arbeitsabläufe mit Funktionen wie adaptivem Speicher, Selbstlernen und datenbankgestützter Inhaltsgenerierung (RAG) verwalten.",
+          "meta": "TypeScript · ★ 68.689 · +140 heute"
+        },
+        {
+          "title": "apache/maka",
+          "url": "https://github.com/apache/maka",
+          "summary": "Apache Maka ist ein lokaler Arbeitsbereich, der für Agenten der künstlichen Intelligenz entwickelt wurde. Es sorgt für die Rückverfolgbarkeit von Agentenprozessen, indem es Nachrichten, Fahrzeuganrufe und Berechtigungsentscheidungen in einem anhangorientierten Protokoll aufzeichnet.",
+          "meta": "TypeScript · ★ 2.062 · +148 heute"
+        },
+        {
+          "title": "protocolbuffers/protobuf",
+          "url": "https://github.com/protocolbuffers/protobuf",
+          "summary": "Protocol Buffers wurde von Google entwickelt und ist ein sprachunabhängiges Datenaustauschformat, das zur Serialisierung strukturierter Daten verwendet wird. Es überträgt Daten im Binärformat, um eine effiziente und schnelle Kommunikation zwischen Softwaresystemen sicherzustellen.",
+          "meta": "C++ · ★ 71.782 · +4 heute"
+        },
+        {
+          "title": "elder-plinius/OBLITERATUS",
+          "url": "https://github.com/elder-plinius/OBLITERATUS",
+          "summary": "Als Python-basiertes Softwareentwicklungstool zielt OBLITERATUS darauf ab, unnötige Abhängigkeiten und komplexe Strukturen in Codebasen zu bereinigen. Dieses Tool wurde entwickelt, um die technischen Schulden in Entwicklerprojekten zu reduzieren und trägt dazu bei, den Code schlanker und besser verwaltbar zu machen.",
+          "meta": "Python · ★ 7.838 · +63 heute"
+        },
+        {
+          "title": "microsoft/onnxruntime",
+          "url": "https://github.com/microsoft/onnxruntime",
+          "summary": "ONNX Runtime wurde von Microsoft entwickelt und ist ein Beschleuniger, der es ermöglicht, Modelle für maschinelles Lernen mit hoher Leistung auf verschiedenen Plattformen auszuführen und zu trainieren. Es beschleunigt Anwendungsentwicklungsprozesse durch die Optimierung von Modellinferenzprozessen auf verschiedenen Hardwarearchitekturen.",
+          "meta": "C++ · ★ 21.492 · +5 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Kagi added a setting for removing paywalled links from search results",
+          "url": "https://kagi.com/changelog#11296",
+          "summary": "Die Suchmaschine Kagi hat eine neue Einstellung hinzugefügt, die es Benutzern ermöglicht, Inhalte hinter einer kostenpflichtigen Abonnementwand (Paywall) in den Suchergebnissen zu verbergen. Mit dieser Funktion können Benutzer ihre Sucherfahrung personalisieren, indem sie sich nur auf Webseiten konzentrieren, auf die sie direkt zugreifen können.",
+          "meta": "1.045 Punkte · 349 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49388154",
+              "popularity": 1045,
+              "engagementCount": 349
+            }
+          ]
+        },
+        {
+          "title": "Felony charges for citizen deleting phone data at US Border",
+          "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+          "summary": "Gegen einen Passagier, der an der US-Grenze die Daten auf seinem Telefon löschte, drohte ein schweres Strafverfahren wegen Manipulation von Beweismitteln. Diese Situation führte zu einer Diskussion über gesetzliche Grenzen der digitalen Privatsphäre und des Schutzes personenbezogener Daten an Grenzübergängen.",
+          "meta": "636 Punkte · 794 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49386895",
+              "popularity": 636,
+              "engagementCount": 794
+            }
+          ]
+        },
+        {
+          "title": "Felony Bench",
+          "url": "https://www.felonybench.com/",
+          "summary": "Felony Bench ist ein Bewertungstool zum Testen der juristischen Argumentationsfähigkeiten großer Sprachmodelle. Ziel ist es, die Fähigkeit des Modells zu messen, kriminelle Situationen zu analysieren und sie im rechtlichen Rahmen richtig zu interpretieren.",
+          "meta": "583 Punkte · 242 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49389430",
+              "popularity": 583,
+              "engagementCount": 242
+            }
+          ]
+        },
+        {
+          "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+          "url": "https://lina.sh/blog/hijacking-e164-arpa",
+          "summary": "Die Sicherheitsforscherin Lina entdeckte, dass Hunderttausende Telefonanrufe von Militärstützpunkten aufgrund eines falsch konfigurierten DNS-Eintrags (Domain Name System) an einen öffentlichen Server weitergeleitet wurden. Dies zeigt, wie anfällig Telefonnummernabgleichsprotokolle (E.164), die zum Schutz sensibler Kommunikationsdaten eingesetzt werden, gegen Fehlkonfigurationen sein können.",
+          "meta": "478 Punkte · 53 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49387570",
+              "popularity": 478,
+              "engagementCount": 53
+            },
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/dyswyz/i_accidentally_logged_hundreds",
+              "popularity": 122,
+              "engagementCount": 5
+            }
+          ]
+        },
+        {
+          "title": "Kobo can run apps now",
+          "url": "https://bandarlabs.github.io/Cobalt/",
+          "summary": "Cobalt bietet eine Softwareschicht, die es ermöglicht, Anwendungen von Drittanbietern auf E-Book-Readern von Kobo auszuführen. Dieses Projekt ermöglicht es Benutzern, über die Standard-Leseoberfläche hinauszugehen und einfache Anwendungen auf dem Gerät auszuführen.",
+          "meta": "466 Punkte · 164 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49390427",
+              "popularity": 466,
+              "engagementCount": 164
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Qwen2.5-27B wurde von Alibaba entwickelt und ist ein multimodales Modell der künstlichen Intelligenz, das sowohl visuelle als auch Textdaten verarbeiten kann. Dieses Modell bietet mit seiner Fähigkeit, durch die Analyse komplexer Bilder textbasierte Antworten zu generieren, vielfältige Einsatzmöglichkeiten.",
+          "meta": "♥ 11.985 · 1.726.651 Downloads"
+        },
+        {
+          "title": "unsloth/Qwen3.8-27B-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "summary": "Unsloth ist eine Optimierungsbibliothek, die es ermöglicht, große Sprachmodelle schneller und mit geringerem Speicherverbrauch zu trainieren. Diese Version des Qwen2.5-27B-Modells wurde dank des GGUF-Formats für eine effizientere Ausführung auf nativer Hardware optimiert.",
+          "meta": "♥ 2.524 · 5.804.917 Downloads"
+        },
+        {
+          "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+          "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
+          "summary": "orcarouter/Qwen3.8-27B-Uncensored-FP8 ist ein Bild-Text-zu-Text-Modell der künstlichen Intelligenz, das zur Bild- und Textverarbeitung geeignet ist und darauf trainiert ist, eine uneingeschränkte Ausgabe zu erzeugen. Das Modell bietet eine optimierte Struktur im Low Precision (FP8)-Format für Hochleistungsrechnen.",
+          "meta": "♥ 846 · 107.520 Downloads"
+        },
+        {
+          "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "summary": "Qwen3.8-27B-Uncensored-MLX ist ein Bild-zu-Text-Konvertierungsmodell, das Bild- und Textdaten verarbeiten kann. Dieses Modell ist für die native Ausführung auf Apple-Geräten optimiert und bietet eine Struktur ohne inhaltliche Einschränkungen.",
+          "meta": "♥ 829 · 18.193 Downloads"
+        },
+        {
+          "title": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+          "url": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+          "summary": "Qwen3.8-27B-Uncensored, geteilt von JonathanColetti, ist eine unzensierte Version des Textgenerierungsmodells Qwen. Das Modell wurde durch Komprimierung im GGUF-Format optimiert, sodass es auf lokalen Computern ausgeführt werden kann.",
+          "meta": "♥ 575 · 1.126.222 Downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
+          "url": "https://huggingface.co/papers/2607.21596",
+          "summary": "FlowEvo ist ein Framework, das erfolgreiche Workflows, die von Agenten großer Sprachmodelle zur Laufzeit erstellt wurden, in aufrufbare Funktionen umwandelt. Diese Methode ermöglicht es dem Agenten, aus seinen eigenen Erfahrungen zu lernen und eine Kompetenzbibliothek zu erstellen, die sich im Laufe der Zeit weiterentwickelt.",
+          "meta": "2 Likes · 2 Kommentare"
+        },
+        {
+          "title": "TinyCast: Probabilistic Zero-Shot Forecasting with Computed Periodicity",
+          "url": "https://huggingface.co/papers/2608.15767",
+          "summary": "TinyCast ist ein Vorhersagemodell, das keinen Aufmerksamkeitsmechanismus verwendet und mit 146.000 Parametern arbeitet. Es bietet eine hohe Effizienz bei Zero-Shot-Vorhersageprozessen, indem es periodische Strukturen in den Daten berechnet, anstatt sie zu lernen.",
+          "meta": "8 Likes · 2 Kommentare"
+        },
+        {
+          "title": "The Embedder's Dilemma: LLMs Are Better, but at What Cost?",
+          "url": "https://huggingface.co/papers/2608.12875",
+          "summary": "Der Leistungsunterschied zwischen herkömmlichen Texteinbettungsmodellen und großen Sprachmodellen bleibt aufgrund von Vergleichen verschiedener Aufgaben nahezu gleich. Bei der Auswahl spielen betriebliche Anforderungen wie Transaktionskosten und -geschwindigkeit und nicht die Genauigkeitsraten der Modelle eine entscheidende Rolle.",
+          "meta": "6 Likes · 2 Kommentare"
+        },
+        {
+          "title": "τ_0-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation",
+          "url": "https://huggingface.co/papers/2608.16885",
+          "summary": "τ_0-VLA ist ein hierarchisches Basismodell, das komplexe Teilaufgaben in Robotermanipulationsaufgaben unter Anleitung des Weltmodells plant. Es ermöglicht Robotern, langfristige Arbeitsabläufe konsistenter zu verwalten, indem die Rechenleistung zum Testzeitpunkt für anspruchsvolle Entscheidungen skaliert wird.",
+          "meta": "7 Likes · 2 Kommentare"
+        },
+        {
+          "title": "QuoteBench: How Matched Scores Can Hide Command-Path Failures",
+          "url": "https://huggingface.co/papers/2608.13547",
+          "summary": "QuoteBench ist ein Bewertungsframework, das Fehler im Ausführungsprozess von Befehlen erkennt, die von Codierungsagenten großer Sprachmodelle generiert werden. Anstatt sich ausschließlich auf Übereinstimmungswerte zu konzentrieren, misst es technische Unterbrechungen zwischen dem Befehlsgenerierungsprozess und der Verarbeitung dieser Befehle durch das System mit präziser Zustandsüberprüfung.",
+          "meta": "6 Likes · 2 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Enabling the next-generation trait solver on nightly",
+          "url": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
+          "summary": "Der neue Trait Solver, der für die Programmiersprache Rust entwickelt wurde, ist jetzt auf Nightly, der Entwicklungsversion der Sprache, verfügbar. Ziel dieses Updates ist es, die Kompilierungsprozesse zu verbessern, indem komplexe Typsysteme schneller und konsistenter verarbeitet werden.",
+          "meta": "56 Punkte · 12 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/3giezs/enabling_next_generation_trait_solver_on",
+              "popularity": 56,
+              "engagementCount": 12
+            }
+          ]
+        },
+        {
+          "title": "Japan tried to build an operating system for the entire world, then the US government intervened",
+          "url": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+          "summary": "Japan entwickelte in den 1980er Jahren ein Betriebssystem namens TRON (The Real-time Operating System Nucleus), das weltweit zum Standard werden sollte. Die US-Regierung stoppte diese Initiative mit Handelshemmnissen mit der Begründung, sie gefährde den Marktanteil ihrer Technologieunternehmen.",
+          "meta": "62 Punkte · 10 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/mfo0fd/japan_tried_build_operating_system_for",
+              "popularity": 62,
+              "engagementCount": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI agents",
+      "explanation": "Autonome Software, die selbstständig Entscheidungen treffen und Tools nutzen kann, um Ziele zu erreichen."
+    },
+    {
+      "term": "skills",
+      "explanation": "Besondere Fähigkeiten oder Funktionen, die KI-Modelle nutzen, um bestimmte Aufgaben auszuführen."
+    },
+    {
+      "term": "local-first",
+      "explanation": "Ein Software-Ansatz, bei dem Daten direkt auf Ihrem Gerät gespeichert und verarbeitet werden, ohne dass eine Internetverbindung erforderlich ist."
+    },
+    {
+      "term": "AI observability",
+      "explanation": "Der Prozess der Überwachung und Analyse, wie Systeme der künstlichen Intelligenz funktionieren und warum sie bestimmte Entscheidungen treffen."
+    },
+    {
+      "term": "static type checking",
+      "explanation": "Ein automatischer Prüfmechanismus, der Datenfehler im Code erkennt, bevor er ausgeführt wird."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "Die Infrastruktur, die die Fähigkeiten organisiert und verwaltet, die künstliche Intelligenz zur Ausführung komplexer Aufgaben benötigt."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Textbasierte Schnittstelle, die es Ihnen ermöglicht, Programme durch die Eingabe schriftlicher Befehle statt mit der Maus zu verwalten."
+    },
+    {
+      "term": "plugins",
+      "explanation": "Kleine, unabhängige Plug-in-Dateien, die zum Hinzufügen neuer Funktionen zur Hauptsoftware verwendet werden."
+    },
+    {
+      "term": "CMS",
+      "explanation": "Ein System, mit dem Sie Websites erstellen und Ihre Inhalte einfach verwalten können, ohne Programmierkenntnisse zu benötigen."
+    },
+    {
+      "term": "multi-player swarms",
+      "explanation": "Künstliche Intelligenzgruppen, die miteinander kommunizieren und auf ein gemeinsames Ziel hinarbeiten."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Dabei handelt es sich um eine Methode, bei der künstliche Intelligenz Daten aus externen Quellen scannt und diese zu ihren Antworten hinzufügt, um aktuelle Informationen zu erhalten."
+    },
+    {
+      "term": "binary",
+      "explanation": "Eine Maschinensprachendatei, die nur aus Nullen und Einsen besteht, die der Computer direkt verstehen und ausführen kann."
+    },
+    {
+      "term": "inference",
+      "explanation": "Die Phase, in der ein trainiertes Modell der künstlichen Intelligenz anhand der neuen Daten, die es erhält, Vorhersagen trifft oder Ergebnisse liefert."
+    },
+    {
+      "term": "paywall",
+      "explanation": "Eine digitale Barriere, die die Zahlung einer Gebühr für den Zugriff auf Inhalte im Internet erfordert."
+    },
+    {
+      "term": "digital privacy",
+      "explanation": "Ihr Recht zu kontrollieren, wer Ihre persönlichen Daten im Internet einsehen kann."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Mit riesigen Datenmengen trainierte Modelle der künstlichen Intelligenz, die menschliche Sprache verstehen und Texte produzieren können."
+    }
+  ]
+}

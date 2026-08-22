@@ -1,0 +1,272 @@
+{
+  "date": "2026-08-22",
+  "capturedAt": "2026-08-22T04:34:39.448Z",
+  "editorial": "Dieser Bericht berücksichtigt zum ersten Mal die Trends, die sich heute abzeichneten, ohne zu wiederholen, was wir in den letzten Tagen mitgeteilt haben.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "microsoft/TypeScript",
+          "url": "https://github.com/microsoft/TypeScript",
+          "summary": "TypeScript wurde von Microsoft entwickelt und ist eine Obermenge einer Programmiersprache, die der JavaScript-Sprache eine statische Typprüfung hinzufügt. Es ermöglicht die Erstellung zuverlässigerer und skalierbarerer Anwendungen, indem es Codefehler im Voraus während des Softwareentwicklungsprozesses erkennt.",
+          "meta": "Go · ★ 110.407 · +65 heute",
+          "returning": true
+        },
+        {
+          "title": "TryGhost/Ghost",
+          "url": "https://github.com/TryGhost/Ghost",
+          "summary": "Ghost ist ein Open-Source-Content-Management-System (CMS), das für modernes Publishing, Mitgliederverwaltung und Newsletter-Versand entwickelt wurde. Dabei handelt es sich um eine JavaScript-basierte Plattform, die Content-Erstellern die notwendige Infrastruktur zur Erstellung abonnementbasierter Einnahmemodelle bietet.",
+          "meta": "JavaScript · ★ 54.930 · +32 heute"
+        },
+        {
+          "title": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "summary": "Ruflo ist eine Framework-Software, die den Aufbau von Multiplayer-Schwärmen bestehend aus autonomen Agenten der künstlichen Intelligenz ermöglicht. Es ermöglicht die Entwicklung von Systemen, die komplexe Arbeitsabläufe mit Funktionen wie adaptivem Speicher, Selbstlernen und datenbankgestützter Inhaltsgenerierung (RAG) verwalten.",
+          "meta": "TypeScript · ★ 68.689 · +140 heute"
+        },
+        {
+          "title": "apache/maka",
+          "url": "https://github.com/apache/maka",
+          "summary": "Apache Maka ist ein lokaler Arbeitsbereich, der für Agenten der künstlichen Intelligenz entwickelt wurde. Es sorgt für die Rückverfolgbarkeit von Agentenprozessen, indem es Nachrichten, Fahrzeuganrufe und Berechtigungsentscheidungen in einem anhangorientierten Protokoll aufzeichnet.",
+          "meta": "TypeScript · ★ 2.062 · +148 heute"
+        },
+        {
+          "title": "protocolbuffers/protobuf",
+          "url": "https://github.com/protocolbuffers/protobuf",
+          "summary": "Protocol Buffers wurde von Google entwickelt und ist ein sprachunabhängiges Datenaustauschformat, das zur Serialisierung strukturierter Daten verwendet wird. Es überträgt Daten im Binärformat, um eine effiziente und schnelle Kommunikation zwischen Softwaresystemen sicherzustellen.",
+          "meta": "C++ · ★ 71.782 · +4 heute",
+          "returning": true
+        },
+        {
+          "title": "elder-plinius/OBLITERATUS",
+          "url": "https://github.com/elder-plinius/OBLITERATUS",
+          "summary": "Als Python-basiertes Softwareentwicklungstool zielt OBLITERATUS darauf ab, unnötige Abhängigkeiten und komplexe Strukturen in Codebasen zu bereinigen. Dieses Tool wurde entwickelt, um die technischen Schulden in Entwicklerprojekten zu reduzieren und trägt dazu bei, den Code schlanker und besser verwaltbar zu machen.",
+          "meta": "Python · ★ 7.838 · +63 heute"
+        },
+        {
+          "title": "microsoft/onnxruntime",
+          "url": "https://github.com/microsoft/onnxruntime",
+          "summary": "ONNX Runtime wurde von Microsoft entwickelt und ist ein Beschleuniger, der es ermöglicht, Modelle für maschinelles Lernen mit hoher Leistung auf verschiedenen Plattformen auszuführen und zu trainieren. Es beschleunigt Anwendungsentwicklungsprozesse durch die Optimierung von Modellinferenzprozessen auf verschiedenen Hardwarearchitekturen.",
+          "meta": "C++ · ★ 21.492 · +5 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Kagi added a setting for removing paywalled links from search results",
+          "url": "https://kagi.com/changelog#11296",
+          "summary": "Die Suchmaschine Kagi hat eine neue Einstellung hinzugefügt, die es Benutzern ermöglicht, Inhalte hinter einer kostenpflichtigen Abonnementwand (Paywall) in den Suchergebnissen zu verbergen. Mit dieser Funktion können Benutzer ihre Sucherfahrung personalisieren, indem sie sich nur auf Webseiten konzentrieren, auf die sie direkt zugreifen können.",
+          "meta": "1.045 Punkte · 349 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49388154",
+              "popularity": 1045,
+              "engagementCount": 349
+            }
+          ]
+        },
+        {
+          "title": "Felony charges for citizen deleting phone data at US Border",
+          "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+          "summary": "Gegen einen Passagier, der an der US-Grenze die Daten auf seinem Telefon löschte, drohte ein schweres Strafverfahren wegen Manipulation von Beweismitteln. Diese Situation führte zu einer Diskussion über gesetzliche Grenzen der digitalen Privatsphäre und des Schutzes personenbezogener Daten an Grenzübergängen.",
+          "meta": "636 Punkte · 794 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49386895",
+              "popularity": 636,
+              "engagementCount": 794
+            }
+          ]
+        },
+        {
+          "title": "Felony Bench",
+          "url": "https://www.felonybench.com/",
+          "summary": "Felony Bench ist ein Bewertungstool zum Testen der juristischen Argumentationsfähigkeiten großer Sprachmodelle. Ziel ist es, die Fähigkeit des Modells zu messen, kriminelle Situationen zu analysieren und sie im rechtlichen Rahmen richtig zu interpretieren.",
+          "meta": "583 Punkte · 242 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49389430",
+              "popularity": 583,
+              "engagementCount": 242
+            }
+          ]
+        },
+        {
+          "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+          "url": "https://lina.sh/blog/hijacking-e164-arpa",
+          "summary": "Die Sicherheitsforscherin Lina entdeckte, dass Hunderttausende Telefonanrufe von Militärstützpunkten aufgrund eines falsch konfigurierten DNS-Eintrags (Domain Name System) an einen öffentlichen Server weitergeleitet wurden. Dies zeigt, wie anfällig Telefonnummernabgleichsprotokolle (E.164), die zum Schutz sensibler Kommunikationsdaten eingesetzt werden, gegen Fehlkonfigurationen sein können.",
+          "meta": "478 Punkte · 53 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49387570",
+              "popularity": 478,
+              "engagementCount": 53
+            },
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/dyswyz/i_accidentally_logged_hundreds",
+              "popularity": 122,
+              "engagementCount": 5
+            }
+          ]
+        },
+        {
+          "title": "Kobo can run apps now",
+          "url": "https://bandarlabs.github.io/Cobalt/",
+          "summary": "Cobalt bietet eine Softwareschicht, die es ermöglicht, Anwendungen von Drittanbietern auf E-Book-Readern von Kobo auszuführen. Dieses Projekt ermöglicht es Benutzern, über die Standard-Leseoberfläche hinauszugehen und einfache Anwendungen auf dem Gerät auszuführen.",
+          "meta": "466 Punkte · 164 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49390427",
+              "popularity": 466,
+              "engagementCount": 164
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+          "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
+          "summary": "orcarouter/Qwen3.8-27B-Uncensored-FP8 ist ein Bild-Text-zu-Text-Modell der künstlichen Intelligenz, das zur Bild- und Textverarbeitung geeignet ist und darauf trainiert ist, eine uneingeschränkte Ausgabe zu erzeugen. Das Modell bietet eine optimierte Struktur im Low Precision (FP8)-Format für Hochleistungsrechnen.",
+          "meta": "♥ 846 · 107.520 Downloads"
+        },
+        {
+          "title": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+          "url": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+          "summary": "Qwen3.8-27B-Uncensored, geteilt von JonathanColetti, ist eine unzensierte Version des Textgenerierungsmodells Qwen. Das Modell wurde durch Komprimierung im GGUF-Format optimiert, sodass es auf lokalen Computern ausgeführt werden kann.",
+          "meta": "♥ 575 · 1.126.222 Downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
+          "url": "https://huggingface.co/papers/2607.21596",
+          "summary": "FlowEvo ist ein Framework, das erfolgreiche Workflows, die von Agenten großer Sprachmodelle zur Laufzeit erstellt wurden, in aufrufbare Funktionen umwandelt. Diese Methode ermöglicht es dem Agenten, aus seinen eigenen Erfahrungen zu lernen und eine Kompetenzbibliothek zu erstellen, die sich im Laufe der Zeit weiterentwickelt.",
+          "meta": "2 Likes · 2 Kommentare"
+        },
+        {
+          "title": "TinyCast: Probabilistic Zero-Shot Forecasting with Computed Periodicity",
+          "url": "https://huggingface.co/papers/2608.15767",
+          "summary": "TinyCast ist ein Vorhersagemodell, das keinen Aufmerksamkeitsmechanismus verwendet und mit 146.000 Parametern arbeitet. Es bietet eine hohe Effizienz bei Zero-Shot-Vorhersageprozessen, indem es periodische Strukturen in den Daten berechnet, anstatt sie zu lernen.",
+          "meta": "8 Likes · 2 Kommentare"
+        },
+        {
+          "title": "The Embedder's Dilemma: LLMs Are Better, but at What Cost?",
+          "url": "https://huggingface.co/papers/2608.12875",
+          "summary": "Der Leistungsunterschied zwischen herkömmlichen Texteinbettungsmodellen und großen Sprachmodellen bleibt aufgrund von Vergleichen verschiedener Aufgaben nahezu gleich. Bei der Auswahl spielen betriebliche Anforderungen wie Transaktionskosten und -geschwindigkeit und nicht die Genauigkeitsraten der Modelle eine entscheidende Rolle.",
+          "meta": "6 Likes · 2 Kommentare"
+        },
+        {
+          "title": "τ_0-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation",
+          "url": "https://huggingface.co/papers/2608.16885",
+          "summary": "τ_0-VLA ist ein hierarchisches Basismodell, das komplexe Teilaufgaben in Robotermanipulationsaufgaben unter Anleitung des Weltmodells plant. Es ermöglicht Robotern, langfristige Arbeitsabläufe konsistenter zu verwalten, indem die Rechenleistung zum Testzeitpunkt für anspruchsvolle Entscheidungen skaliert wird.",
+          "meta": "7 Likes · 2 Kommentare"
+        },
+        {
+          "title": "QuoteBench: How Matched Scores Can Hide Command-Path Failures",
+          "url": "https://huggingface.co/papers/2608.13547",
+          "summary": "QuoteBench ist ein Bewertungsframework, das Fehler im Ausführungsprozess von Befehlen erkennt, die von Codierungsagenten großer Sprachmodelle generiert werden. Anstatt sich ausschließlich auf Übereinstimmungswerte zu konzentrieren, misst es technische Unterbrechungen zwischen dem Befehlsgenerierungsprozess und der Verarbeitung dieser Befehle durch das System mit präziser Zustandsüberprüfung.",
+          "meta": "6 Likes · 2 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Enabling the next-generation trait solver on nightly",
+          "url": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
+          "summary": "Der neue Trait Solver, der für die Programmiersprache Rust entwickelt wurde, ist jetzt auf Nightly, der Entwicklungsversion der Sprache, verfügbar. Ziel dieses Updates ist es, die Kompilierungsprozesse zu verbessern, indem komplexe Typsysteme schneller und konsistenter verarbeitet werden.",
+          "meta": "56 Punkte · 12 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/3giezs/enabling_next_generation_trait_solver_on",
+              "popularity": 56,
+              "engagementCount": 12
+            }
+          ]
+        },
+        {
+          "title": "Japan tried to build an operating system for the entire world, then the US government intervened",
+          "url": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+          "summary": "Japan entwickelte in den 1980er Jahren ein Betriebssystem namens TRON (The Real-time Operating System Nucleus), das weltweit zum Standard werden sollte. Die US-Regierung stoppte diese Initiative mit Handelshemmnissen mit der Begründung, sie gefährde den Marktanteil ihrer Technologieunternehmen.",
+          "meta": "62 Punkte · 10 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/mfo0fd/japan_tried_build_operating_system_for",
+              "popularity": 62,
+              "engagementCount": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "Besondere Fähigkeiten oder Funktionen, die KI-Modelle nutzen, um bestimmte Aufgaben auszuführen."
+    },
+    {
+      "term": "local-first",
+      "explanation": "Ein Software-Ansatz, bei dem Daten direkt auf Ihrem Gerät gespeichert und verarbeitet werden, ohne dass eine Internetverbindung erforderlich ist."
+    },
+    {
+      "term": "static type checking",
+      "explanation": "Ein automatischer Prüfmechanismus, der Datenfehler im Code erkennt, bevor er ausgeführt wird."
+    },
+    {
+      "term": "CMS",
+      "explanation": "Ein System, mit dem Sie Websites erstellen und Ihre Inhalte einfach verwalten können, ohne Programmierkenntnisse zu benötigen."
+    },
+    {
+      "term": "multi-player swarms",
+      "explanation": "Künstliche Intelligenzgruppen, die miteinander kommunizieren und auf ein gemeinsames Ziel hinarbeiten."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Dabei handelt es sich um eine Methode, bei der künstliche Intelligenz Daten aus externen Quellen scannt und diese zu ihren Antworten hinzufügt, um aktuelle Informationen zu erhalten."
+    },
+    {
+      "term": "binary",
+      "explanation": "Eine Maschinensprachendatei, die nur aus Nullen und Einsen besteht, die der Computer direkt verstehen und ausführen kann."
+    },
+    {
+      "term": "inference",
+      "explanation": "Die Phase, in der ein trainiertes Modell der künstlichen Intelligenz anhand der neuen Daten, die es erhält, Vorhersagen trifft oder Ergebnisse liefert."
+    },
+    {
+      "term": "paywall",
+      "explanation": "Eine digitale Barriere, die die Zahlung einer Gebühr für den Zugriff auf Inhalte im Internet erfordert."
+    },
+    {
+      "term": "digital privacy",
+      "explanation": "Ihr Recht zu kontrollieren, wer Ihre persönlichen Daten im Internet einsehen kann."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Mit riesigen Datenmengen trainierte Modelle der künstlichen Intelligenz, die menschliche Sprache verstehen und Texte produzieren können."
+    }
+  ]
+}

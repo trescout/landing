@@ -1,0 +1,368 @@
+{
+  "date": "2026-08-22",
+  "capturedAt": "2026-08-22T04:34:37.814Z",
+  "editorial": "Yapay zekâ modellerinde Qwen 27B serisinin verimlilik (efficiency) odaklı sürümleri ve kendi kendini geliştiren ajan (self-evolving agent) mimarileri bugün teknik gündemin merkezinde yer alıyor. Arama motoru sonuçlarından ücretli duvarları (paywalled links) ayıklama özelliği ve sınır geçişlerinde veri güvenliği gibi konular ise dijital mahremiyetin hukuki sınırlarını yeniden tanımlıyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Matt Pocock tarafından paylaşılan Skills, yazılım geliştiricilerin yapay zekâ ajanları (AI agents) için hazırladığı özelleştirilmiş yetenek paketlerini (skills) içeriyor. Bu koleksiyon, karmaşık görevleri otomatize etmek isteyen mühendisler için hazır komut dosyaları ve iş akışı şablonları sunuyor.",
+          "meta": "Shell · ★ 229.866 · +3.362 bugün"
+        },
+        {
+          "title": "mahlernim/google-timeline-visualizer",
+          "url": "https://github.com/mahlernim/google-timeline-visualizer",
+          "summary": "Google Konum Geçmişi verilerini görselleştiren açık kaynaklı bir araç olan Google Timeline Visualizer, kullanıcılara yıl boyunca yaptıkları seyahatleri harita üzerinde görme imkânı sunuyor. Kotlin diliyle geliştirilen bu yazılım, kişisel konum verilerini anlamlı bir seyahat özetine dönüştürüyor.",
+          "meta": "Kotlin · ★ 2.285 · +1.053 bugün"
+        },
+        {
+          "title": "harry0703/MoneyPrinterTurbo",
+          "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "summary": "MoneyPrinterTurbo, girilen konu veya anahtar kelimeler üzerinden yapay zekâ modelleri ve otomatik iş akışları kullanarak yüksek çözünürlüklü kısa videolar oluşturuyor. Python tabanlı bu araç, içerik üretim sürecini uçtan uca otomatize ederek video hazırlama zahmetini ortadan kaldırıyor.",
+          "meta": "Python · ★ 114.059 · +1.201 bugün"
+        },
+        {
+          "title": "AprilNEA/OpenLogi",
+          "url": "https://github.com/AprilNEA/OpenLogi",
+          "summary": "OpenLogi, Logitech çevre birimlerini yönetmek için geliştirilen, yerel odaklı (local-first) bir alternatif yazılımdır. Rust diliyle yazılan bu araç, kullanıcıların hesap oluşturmasına veya veri paylaşmasına gerek kalmadan tuş atamalarını, DPI ayarlarını ve SmartShift özelliklerini yapılandırmasına olanak tanır.",
+          "meta": "Rust · ★ 13.076 · +1.380 bugün"
+        },
+        {
+          "title": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "summary": "PostHog, ürün geliştirme süreçlerini izlemek ve optimize etmek için kullanılan kapsamlı bir veri analitiği platformu. Yapay zekâ gözlemlenebilirliği (AI observability), oturum kaydı ve hata takibi gibi araçlarıyla yazılım ekiplerine kullanıcı davranışlarını analiz etme ve teknik sorunları çözme imkânı sunuyor.",
+          "meta": "Python · ★ 38.330 · +335 bugün"
+        },
+        {
+          "title": "microsoft/TypeScript",
+          "url": "https://github.com/microsoft/TypeScript",
+          "summary": "Microsoft tarafından geliştirilen TypeScript, JavaScript diline statik tür denetimi (static type checking) ekleyen bir programlama dili üst kümesidir. Yazılım geliştirme sürecinde kod hatalarını önceden tespit ederek daha güvenilir ve ölçeklenebilir uygulamalar oluşturulmasını sağlar.",
+          "meta": "Go · ★ 110.407 · +65 bugün"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers, yapay zekâ ajanları için yetenek çerçevesi (agentic skills framework) ve yazılım geliştirme metodolojisi sunuyor. Bu araç, karmaşık iş akışlarını yönetmek için ajan tabanlı sistemlerin standart bir yapıda kurgulanmasını sağlıyor.",
+          "meta": "Shell · ★ 275.719 · +790 bugün"
+        },
+        {
+          "title": "santifer/career-ops",
+          "url": "https://github.com/santifer/career-ops",
+          "summary": "Career-ops, iş ilanlarını tarayıp belirli kriterlere göre puanlayan ve özgeçmişinizi bu ilanlara göre düzenleyen açık kaynaklı bir iş arama aracıdır. Yerel komut satırı arayüzlerinde (CLI) çalışan bu yazılım, başvuru süreçlerini otomatize ederek iş arama deneyimini yapılandırılmış bir sisteme oturtur.",
+          "meta": "JavaScript · ★ 67.521 · +921 bugün"
+        },
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "Kod editörü Cursor, geliştiricilerin kendi eklentilerini (plugins) oluşturmasına olanak tanıyan yeni bir eklenti spesifikasyonu yayınladı. Bu standart, yapay zekâ destekli kodlama platformu Cursor üzerinde özelleştirilmiş iş akışları geliştirilmesini mümkün kılıyor.",
+          "meta": "TypeScript · ★ 4.446 · +388 bugün"
+        },
+        {
+          "title": "modular/modular",
+          "url": "https://github.com/modular/modular",
+          "summary": "Modular platformu, yapay zekâ geliştirme süreçlerini hızlandırmak için tasarlanan Mojo programlama dilini ve MAX hızlandırma motorunu içeriyor. Python ile uyumlu çalışan bu yapı, donanım kaynaklarını daha verimli kullanarak yapay zekâ modellerinin performansını artırmayı hedefliyor.",
+          "meta": "Mojo · ★ 28.710 · +913 bugün"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC, yapay zekâ ajanları için yetenek, bellek ve güvenlik katmanlarını optimize eden bir performans sistemi. Kod yazma asistanları (Cursor, Claude Code) gibi araçların çalışma süreçlerini geliştirmek amacıyla tasarlanmış bir altyapı sunuyor.",
+          "meta": "JavaScript · ★ 241.839 · +357 bugün"
+        },
+        {
+          "title": "TryGhost/Ghost",
+          "url": "https://github.com/TryGhost/Ghost",
+          "summary": "Ghost, modern yayıncılık, üyelik yönetimi ve bülten gönderimi için geliştirilmiş açık kaynaklı bir içerik yönetim sistemi (CMS). İçerik üreticilerine abonelik tabanlı gelir modelleri oluşturmaları için gerekli altyapıyı sunan JavaScript tabanlı bir platformdur.",
+          "meta": "JavaScript · ★ 54.930 · +32 bugün"
+        },
+        {
+          "title": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "summary": "Ruflo, otonom yapay zekâ ajanlarından oluşan çok oyunculu sürü sistemleri (multi-player swarms) kurmayı sağlayan bir çerçeve yazılımı. Adaptif bellek, kendi kendine öğrenme ve veri tabanı destekli içerik üretimi (RAG) gibi özelliklerle karmaşık iş akışlarını yöneten sistemler geliştirilmesine olanak tanıyor.",
+          "meta": "TypeScript · ★ 68.689 · +140 bugün"
+        },
+        {
+          "title": "apache/maka",
+          "url": "https://github.com/apache/maka",
+          "summary": "Apache Maka, yapay zekâ ajanları için geliştirilen yerel öncelikli (local-first) bir çalışma alanı. Mesajları, araç çağrılarını ve izin kararlarını ekleme odaklı bir günlükte kaydederek ajan süreçlerinin izlenebilirliğini sağlıyor.",
+          "meta": "TypeScript · ★ 2.062 · +148 bugün"
+        },
+        {
+          "title": "protocolbuffers/protobuf",
+          "url": "https://github.com/protocolbuffers/protobuf",
+          "summary": "Google tarafından geliştirilen Protocol Buffers, yapılandırılmış verileri serileştirmek için kullanılan dilden bağımsız bir veri değişim formatıdır. Yazılım sistemleri arasında verimli ve hızlı iletişim sağlamak amacıyla ikili (binary) formatta veri aktarımı gerçekleştirir.",
+          "meta": "C++ · ★ 71.782 · +4 bugün"
+        },
+        {
+          "title": "elder-plinius/OBLITERATUS",
+          "url": "https://github.com/elder-plinius/OBLITERATUS",
+          "summary": "OBLITERATUS, Python tabanlı bir yazılım geliştirme aracı olarak kod tabanlarındaki gereksiz bağımlılıkları ve karmaşık yapıları temizlemeyi amaçlıyor. Geliştiricilerin projelerindeki teknik borcu azaltmak için tasarlanan bu araç, kodun daha yalın ve yönetilebilir hale getirilmesine yardımcı oluyor.",
+          "meta": "Python · ★ 7.838 · +63 bugün"
+        },
+        {
+          "title": "microsoft/onnxruntime",
+          "url": "https://github.com/microsoft/onnxruntime",
+          "summary": "Microsoft tarafından geliştirilen ONNX Runtime, makine öğrenimi modellerinin farklı platformlarda yüksek performansla çalıştırılmasını ve eğitilmesini sağlayan bir hızlandırıcıdır. Çeşitli donanım mimarileri üzerinde model çıkarımı (inference) süreçlerini optimize ederek uygulama geliştirme süreçlerini hızlandırır.",
+          "meta": "C++ · ★ 21.492 · +5 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Kagi added a setting for removing paywalled links from search results",
+          "url": "https://kagi.com/changelog#11296",
+          "summary": "Arama motoru Kagi, kullanıcıların ücretli abonelik duvarı (paywall) arkasındaki içerikleri arama sonuçlarından gizlemesine olanak tanıyan yeni bir ayar ekledi. Bu özellik, kullanıcıların yalnızca doğrudan erişebilecekleri web sayfalarına odaklanarak arama deneyimlerini kişiselleştirmelerini sağlıyor.",
+          "meta": "1.045 oy · 349 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49388154",
+              "popularity": 1045,
+              "engagementCount": 349
+            }
+          ]
+        },
+        {
+          "title": "Felony charges for citizen deleting phone data at US Border",
+          "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+          "summary": "ABD sınırında telefonundaki verileri silen bir yolcu, delil karartma suçlamasıyla ağır ceza davasıyla karşı karşıya kaldı. Bu durum, sınır geçişlerinde dijital mahremiyet (digital privacy) ve kişisel verilerin korunması konusundaki yasal sınırların tartışılmasına yol açtı.",
+          "meta": "636 oy · 794 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49386895",
+              "popularity": 636,
+              "engagementCount": 794
+            }
+          ]
+        },
+        {
+          "title": "Felony Bench",
+          "url": "https://www.felonybench.com/",
+          "summary": "Felony Bench, büyük dil modellerinin (large language models) hukuki muhakeme yeteneklerini test etmek için tasarlanmış bir değerlendirme aracıdır. Modelin suç teşkil eden durumları analiz etme ve yasal çerçevede doğru yorumlama becerisini ölçmeyi hedefler.",
+          "meta": "583 oy · 242 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49389430",
+              "popularity": 583,
+              "engagementCount": 242
+            }
+          ]
+        },
+        {
+          "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+          "url": "https://lina.sh/blog/hijacking-e164-arpa",
+          "summary": "Güvenlik araştırmacısı Lina, yanlış yapılandırılmış bir alan adı sistemi (DNS) kaydı nedeniyle yüz binlerce askeri üs telefon görüşmesinin halka açık bir sunucuya yönlendirildiğini keşfetti. Bu durum, hassas iletişim verilerinin korunmasında kullanılan telefon numarası eşleme protokollerinin (E.164) yanlış yapılandırmalar karşısında ne kadar savunmasız kalabildiğini gösteriyor.",
+          "meta": "478 oy · 53 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49387570",
+              "popularity": 478,
+              "engagementCount": 53
+            },
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/dyswyz/i_accidentally_logged_hundreds",
+              "popularity": 122,
+              "engagementCount": 5
+            }
+          ]
+        },
+        {
+          "title": "Kobo can run apps now",
+          "url": "https://bandarlabs.github.io/Cobalt/",
+          "summary": "Cobalt, e-kitap okuyucu Kobo cihazlarında üçüncü taraf uygulamaların çalıştırılmasına olanak tanıyan bir yazılım katmanı sunuyor. Bu proje, kullanıcıların standart okuma arayüzünün ötesine geçerek cihaz üzerinde basit uygulamalar çalıştırmasını sağlıyor.",
+          "meta": "466 oy · 164 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49390427",
+              "popularity": 466,
+              "engagementCount": 164
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Alibaba tarafından geliştirilen Qwen2.5-27B, hem görsel hem de metin verilerini işleyebilen çok modlu (multimodal) bir yapay zekâ modeli. Bu model, karmaşık görüntüleri analiz ederek metin tabanlı yanıtlar üretme yeteneğiyle geniş bir kullanım alanı sunuyor.",
+          "meta": "♥ 11.985 · 1.726.651 indirme"
+        },
+        {
+          "title": "unsloth/Qwen3.8-27B-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "summary": "Unsloth, büyük dil modellerini (large language models) daha hızlı ve düşük bellek kullanımıyla eğitmeyi sağlayan bir optimizasyon kütüphanesi. Qwen2.5-27B modelinin bu sürümü, GGUF formatı sayesinde yerel donanımlarda daha verimli çalışacak şekilde optimize edildi.",
+          "meta": "♥ 2.524 · 5.804.917 indirme"
+        },
+        {
+          "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+          "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
+          "summary": "Görüntü ve metin işleme yeteneğine sahip orcarouter/Qwen3.8-27B-Uncensored-FP8, kısıtlamasız çıktı üretmek üzere eğitilmiş bir görsel-metinsel (image-text-to-text) yapay zekâ modeli. Model, yüksek performanslı hesaplama için düşük hassasiyetli (FP8) formatta optimize edilmiş bir yapı sunuyor.",
+          "meta": "♥ 846 · 107.520 indirme"
+        },
+        {
+          "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "summary": "Qwen3.8-27B-Uncensored-MLX, görsel ve metin verilerini işleyebilen bir görüntüden metne (image-to-text) dönüştürme modeli. Apple cihazlarında yerel olarak çalışması için optimize edilen bu model, içerik kısıtlaması bulunmayan bir yapı sunuyor.",
+          "meta": "♥ 829 · 18.193 indirme"
+        },
+        {
+          "title": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+          "url": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+          "summary": "JonathanColetti tarafından paylaşılan Qwen3.8-27B-Uncensored, metin oluşturma modeli (text-generation model) Qwen'in sansürsüz bir sürümüdür. Model, yerel bilgisayarlarda çalışabilmesi için GGUF formatında sıkıştırılarak optimize edilmiştir.",
+          "meta": "♥ 575 · 1.126.222 indirme"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
+          "url": "https://huggingface.co/papers/2607.21596",
+          "summary": "FlowEvo, büyük dil modeli ajanlarının çalışma anında oluşturdukları başarılı iş akışlarını (workflows) çağrılabilir yeteneklere (skills) dönüştüren bir çerçeve. Bu yöntem, ajanın kendi deneyimlerinden öğrenerek zamanla gelişen bir yetenek kütüphanesi oluşturmasını sağlıyor.",
+          "meta": "2 beğeni · 2 yorum"
+        },
+        {
+          "title": "TinyCast: Probabilistic Zero-Shot Forecasting with Computed Periodicity",
+          "url": "https://huggingface.co/papers/2608.15767",
+          "summary": "TinyCast, dikkat mekanizması (attention) kullanmayan ve 146 bin parametre ile çalışan bir tahmin modeli. Veri içindeki periyodik yapıları öğrenmek yerine hesaplayarak, sıfır örnekli (zero-shot) tahmin süreçlerinde yüksek verimlilik sunuyor.",
+          "meta": "8 beğeni · 2 yorum"
+        },
+        {
+          "title": "The Embedder's Dilemma: LLMs Are Better, but at What Cost?",
+          "url": "https://huggingface.co/papers/2608.12875",
+          "summary": "Geleneksel metin gömme (text-embedding) modelleri ile büyük dil modelleri (large language models) arasındaki performans farkı, çeşitli görevlerde yapılan karşılaştırmalar sonucunda neredeyse eşit düzeyde seyrediyor. Seçim yaparken modellerin doğruluk oranlarından ziyade, işlem maliyeti ve hız gibi operasyonel ihtiyaçlar belirleyici rol oynuyor.",
+          "meta": "6 beğeni · 2 yorum"
+        },
+        {
+          "title": "τ_0-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation",
+          "url": "https://huggingface.co/papers/2608.16885",
+          "summary": "τ_0-VLA, robotik manipülasyon görevlerinde karmaşık alt görevleri dünya modeli rehberliğinde planlayan hiyerarşik bir temel model (foundation model). Zorlu kararlar için test anında hesaplama gücünü ölçeklendirerek robotların uzun süreli iş akışlarını daha tutarlı yönetmesini sağlıyor.",
+          "meta": "7 beğeni · 2 yorum"
+        },
+        {
+          "title": "QuoteBench: How Matched Scores Can Hide Command-Path Failures",
+          "url": "https://huggingface.co/papers/2608.13547",
+          "summary": "QuoteBench, büyük dil modellerinin (large language models) kodlama ajanları tarafından üretilen komutların yürütülme sürecindeki hataları tespit eden bir değerlendirme çerçevesidir. Sadece eşleşme skorlarına odaklanmak yerine, komut oluşturma süreci ile sistemin bu komutları işleme aşaması arasındaki teknik kopuklukları kesin durum doğrulamasıyla ölçer.",
+          "meta": "6 beğeni · 2 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Enabling the next-generation trait solver on nightly",
+          "url": "https://blog.rust-lang.org/2026/08/21/enabling-next-solver-on-nightly/",
+          "summary": "Rust programlama dili için geliştirilen yeni özellik çözücü (trait solver), dilin geliştirme sürümü olan nightly üzerinde kullanıma sunuldu. Bu güncelleme, karmaşık tür sistemlerini daha hızlı ve tutarlı bir şekilde işleyerek derleme süreçlerini iyileştirmeyi amaçlıyor.",
+          "meta": "56 oy · 12 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/3giezs/enabling_next_generation_trait_solver_on",
+              "popularity": 56,
+              "engagementCount": 12
+            }
+          ]
+        },
+        {
+          "title": "Japan tried to build an operating system for the entire world, then the US government intervened",
+          "url": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+          "summary": "Japonya, 1980'lerde dünya genelinde standart olması hedeflenen TRON (The Real-time Operating System Nucleus) adlı bir işletim sistemi geliştirdi. Amerika Birleşik Devletleri hükümeti, bu girişimi kendi teknoloji şirketlerinin pazar payını tehdit ettiği gerekçesiyle ticari engellerle durdurdu.",
+          "meta": "62 oy · 10 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/mfo0fd/japan_tried_build_operating_system_for",
+              "popularity": 62,
+              "engagementCount": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI agents",
+      "explanation": "Kendi başına karar verip hedeflere ulaşmak için araçları kullanabilen otonom yazılımlar."
+    },
+    {
+      "term": "skills",
+      "explanation": "Yapay zekâ modellerinin belirli görevleri yerine getirmek için kullandığı özel yetenekler veya işlevler."
+    },
+    {
+      "term": "local-first",
+      "explanation": "Verilerin internete ihtiyaç duymadan doğrudan cihazınızda saklanıp işlendiği yazılım yaklaşımı."
+    },
+    {
+      "term": "AI observability",
+      "explanation": "Yapay zekâ sistemlerinin nasıl çalıştığını ve neden belirli kararlar aldığını izleyip analiz etme süreci."
+    },
+    {
+      "term": "static type checking",
+      "explanation": "Kod henüz çalıştırılmadan önce içindeki veri hatalarını tespit eden otomatik denetim mekanizması."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "Yapay zekâların karmaşık işleri yapmak için ihtiyaç duyduğu yetenekleri düzenleyen ve yöneten altyapı."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Programları fareyle değil, yazılı komutlar girerek yönetmenizi sağlayan metin tabanlı arayüz."
+    },
+    {
+      "term": "plugins",
+      "explanation": "Ana yazılıma yeni özellikler eklemek için kullanılan küçük ve bağımsız eklenti dosyaları."
+    },
+    {
+      "term": "CMS",
+      "explanation": "Kodlama bilmeden web siteleri oluşturmanızı ve içeriklerinizi kolayca yönetmenizi sağlayan sistem."
+    },
+    {
+      "term": "multi-player swarms",
+      "explanation": "Birbirleriyle iletişim kurarak ortak bir hedef doğrultusunda iş birliği yapan yapay zekâ grupları."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Yapay zekânın güncel bilgilere ulaşması için dış kaynaklardaki verileri tarayıp cevaplarına eklemesi yöntemi."
+    },
+    {
+      "term": "binary",
+      "explanation": "Bilgisayarın doğrudan anlayıp çalıştırabildiği, sadece sıfır ve birlerden oluşan makine dili dosyası."
+    },
+    {
+      "term": "inference",
+      "explanation": "Eğitilmiş bir yapay zekâ modelinin, aldığı yeni verilerle tahmin yürütme veya sonuç üretme aşaması."
+    },
+    {
+      "term": "paywall",
+      "explanation": "İnternet üzerindeki içeriklere erişmek için ücret ödenmesini zorunlu kılan dijital engel."
+    },
+    {
+      "term": "digital privacy",
+      "explanation": "İnternet üzerindeki kişisel bilgilerinizin kimler tarafından görülebileceğini kontrol etme hakkınız."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    }
+  ]
+}
