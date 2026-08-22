@@ -19494,7 +19494,7 @@
     "slug": "diagram-design",
     "title": "Diagram Design",
     "tagline": "Cathryn Lavery tarafından geliştirilen diagram-design, yapay zekâ destekli kodlama aracı Claude Code için hazırlanan 29 farklı…",
-    "meta": "★ 23.886 · HTML",
+    "meta": "★ 25.103 · HTML",
     "image": "/assets/discover/og/diagram-design.webp",
     "source": "GitHub",
     "date": "2026-08-13",
@@ -19502,7 +19502,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 23886,
+    "stars": 25103,
     "lite": false,
     "headline": "Yapay zekâ ile profesyonel diyagramlar oluşturun",
     "tagline_en": "Diagram-design, developed by Cathryn Lavery, consists of 29 different models prepared for the artificial intelligence-supported coding tool Claude Code.",
@@ -19536,6 +19536,11 @@
         "tarih": "2026-08-20",
         "yildiz": 23886,
         "onceki_yildiz": 22596
+      },
+      {
+        "tarih": "2026-08-22",
+        "yildiz": 25103,
+        "onceki_yildiz": 23886
       }
     ],
     "last_seen": "2026-08-16"
@@ -20792,7 +20797,8 @@
     "tagline_fr": "Ghost est un système de gestion de contenu (CMS) de code ouvert conçu pour la publication moderne, gestion de…",
     "tagline_pt": "Ghost é um sistema de gerenciamento de conteúdo (CMS) de código aberto desenvolvido para publicação moderna, gerenciamento de…",
     "tagline_es": "Ghost es un sistema de gestión de contenido (CMS) de código abierto diseñado para publicación moderna, gestión de…",
-    "tagline_de": "Ghost ist ein System zur Verwaltung von Inhalten (CMS), das jedoch für die Veröffentlichung moderner Inhalte entwickelt wurde, die Verwaltung von…"
+    "tagline_de": "Ghost ist ein System zur Verwaltung von Inhalten (CMS), das jedoch für die Veröffentlichung moderner Inhalte entwickelt wurde, die Verwaltung von…",
+    "last_seen": "2026-08-22"
   },
   {
     "slug": "ruflo",
@@ -20822,7 +20828,8 @@
     "tagline_fr": "Ruflo est un logiciel de construction qui permet de construire des composteurs multijoueurs par des agents autonomes de…",
     "tagline_pt": "Ruflo é um software de estrutura que permite a construção de enxames multijogador compostos por agentes independentes de…",
     "tagline_es": "Ruflo es un software de estructura que permite la construcción de enxames multijogador compostos por agentes autónomos de…",
-    "tagline_de": "Ruflo ist eine Struktursoftware, die den Aufbau von Mehrspieler-Kompositionen durch autonome Agenten ermöglicht."
+    "tagline_de": "Ruflo ist eine Struktursoftware, die den Aufbau von Mehrspieler-Kompositionen durch autonome Agenten ermöglicht.",
+    "last_seen": "2026-08-22"
   },
   {
     "slug": "maka",
@@ -20852,7 +20859,8 @@
     "tagline_fr": "Apache Maka est un espace de travail local développé pour les agents de renseignement artificiel.",
     "tagline_pt": "Apache Maka é um espaço de trabalho local desenvolvido para agentes de inteligência artificial.",
     "tagline_es": "Apache Maka es un espacio de trabajo local diseñado para agentes de inteligencia artificial.",
-    "tagline_de": "Apache Maka ist ein lokaler Arbeitsraum, der für künstliche Intelligenzagenten entwickelt wurde."
+    "tagline_de": "Apache Maka ist ein lokaler Arbeitsraum, der für künstliche Intelligenzagenten entwickelt wurde.",
+    "last_seen": "2026-08-22"
   },
   {
     "slug": "obliteratus",
@@ -20873,7 +20881,8 @@
     "tagline_fr": "Comme un outil de développement de logiciels basés sur Python, OBLIGATOIRE peut éliminer les dépendances nécessaires et…",
     "tagline_pt": "Como uma ferramenta de desenvolvimento de software baseada em Python, OBLITERATUS visa limpar dependências desnecessárias e…",
     "tagline_es": "Como una herramienta de desarrollo de software basado en Python, OBLITERATUS visa limpiar dependencias desnecesarias e…",
-    "tagline_de": "Als eine Entwicklungsstufe für die Entwicklung von Software auf Python-Basis, werden die Abhängigkeiten, die erforderlich sind, ausgelöscht …"
+    "tagline_de": "Als eine Entwicklungsstufe für die Entwicklung von Software auf Python-Basis, werden die Abhängigkeiten, die erforderlich sind, ausgelöscht …",
+    "last_seen": "2026-08-22"
   },
   {
     "slug": "onnxruntime",
@@ -20906,6 +20915,7 @@
     "tagline_fr": "Conçu par Microsoft, ONNX Runtime est un outil qui permet aux modèles d'apprentissage automatique d'être exécutés et…",
     "tagline_pt": "Desenvolvido pela Microsoft, o ONNX Runtime é um acelerador que permite que modelos de machine learning sejam executados e…",
     "tagline_es": "Desarrollado por Microsoft, ONNX Runtime es un acelerador que permite que los modelos de aprendizaje automático se ejecuten e…",
-    "tagline_de": "Entworfen von Microsoft und ONNX Runtime ist ein Entwickler, der es ermöglicht, Modelle von Machine-Learning-Sequenzen auszuführen …"
+    "tagline_de": "Entworfen von Microsoft und ONNX Runtime ist ein Entwickler, der es ermöglicht, Modelle von Machine-Learning-Sequenzen auszuführen …",
+    "last_seen": "2026-08-22"
   }
 ]
