@@ -34,6 +34,7 @@ Yes, every software that can run needs a working environment.
 - [Deno](/en/discover/deno/)
 - [BUN](/en/discover/bun/)
 - [Svelte](/en/discover/svelte/)
+- [Onnxruntime](/en/discover/onnxruntime/)
 - [Flue](/en/discover/flue/)
 - [Switchyard](/en/discover/switchyard/)
 - [Substrate](/en/discover/substrate/)

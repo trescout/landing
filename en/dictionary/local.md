@@ -27,6 +27,7 @@ Its biggest advantage is privacy; Your data never leaves your device.
 
 ## Related tools
 - [OpenLogi](/en/discover/openlogi/)
+- [Maka](/en/discover/maka/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/local/

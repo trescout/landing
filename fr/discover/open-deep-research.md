@@ -2,7 +2,7 @@
 
 Développé par LangChain, open-deep-research est un système autonome qui effectue des recherches en plusieurs étapes sur Internet pour répondre à des questions complexes. Il facilite les processus de recherche approfondis en automatisant le processus de recherche à travers les étapes de planification, de collecte de données et de synthèse.
 
-- ★ 12 307
+- ★ 12 655
 - Python
 - GitHub Trending · 2026-07-22
 

@@ -2,7 +2,7 @@
 
 Desarrollado por LangChain, la investigación abierta y profunda es un sistema autónomo que realiza búsquedas de varios pasos en Internet para responder preguntas complejas. Facilita procesos de investigación profundos al automatizar el proceso de investigación a través de etapas de planificación, recopilación de datos y síntesis.
 
-- ★ 12.307
+- ★ 12.655
 - Python
 - GitHub Trending · 2026-07-22
 

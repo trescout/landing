@@ -2,7 +2,7 @@
 
 Cordis is a meta-framework that combines spatial and temporal components. This TypeScript-based tool, which enables the development of complex systems in a modular structure, allows different application parts to work in harmony with each other.
 
-- ★ 5,981
+- ★ 6,995
 - TypeScript
 - GitHub Trending · 2026-08-16
 

@@ -30,6 +30,7 @@ WordPress é o exemplo de CMS mais utilizado em todo o mundo.
 - [Application](/pt/dictionary/application/)
 
 ## Ferramentas relacionadas
+- [Ghost](/pt/discover/ghost/)
 - [Instatic](/pt/discover/instatic/)
 
 ---

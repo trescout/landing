@@ -32,8 +32,8 @@ Na maioria dos sistemas você pode excluir esses dados com o comando ‘clear me
 - [Codebase Memory MCP](/pt/discover/codebase-memory-mcp/)
 - [Cognee](/pt/discover/cognee/)
 - [TencentDB-Agent-Memory](/pt/discover/tencentdb-agent-memory/)
-- [Pgrust](/pt/discover/pgrust/)
 - [AI Memory](/pt/discover/ai-memory/)
+- [Pgrust](/pt/discover/pgrust/)
 - [Hivemind](/pt/discover/hivemind/)
 
 ---

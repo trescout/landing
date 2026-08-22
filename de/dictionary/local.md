@@ -25,6 +25,7 @@ Sein größter Vorteil ist die Privatsphäre; Ihre Daten verlassen niemals Ihr G
 
 ## Verwandte Werkzeuge
 - [OpenLogi](/de/discover/openlogi/)
+- [Maka](/de/discover/maka/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/local/

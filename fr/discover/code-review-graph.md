@@ -2,7 +2,7 @@
 
 Code-review-graph analyse la base de code et crée une carte d'intelligence de code ciblée localement pour les outils d'intelligence artificielle. Cette structure rend les processus de révision de code basés sur l'intelligence artificielle plus efficaces en utilisant des méthodes de réduction de contexte dans les grands projets.
 
-- ★ 29 487
+- ★ 30 676
 - Python
 - GitHub Trending · 2026-07-18
 

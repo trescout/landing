@@ -32,8 +32,8 @@ En la mayoría de los sistemas, puede eliminar estos datos con el comando "borra
 - [Codebase Memory MCP](/es/discover/codebase-memory-mcp/)
 - [Cognee](/es/discover/cognee/)
 - [TencentDB-Agent-Memory](/es/discover/tencentdb-agent-memory/)
-- [Pgrust](/es/discover/pgrust/)
 - [AI Memory](/es/discover/ai-memory/)
+- [Pgrust](/es/discover/pgrust/)
 - [Hivemind](/es/discover/hivemind/)
 
 ---

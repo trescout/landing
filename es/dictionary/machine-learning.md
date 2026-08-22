@@ -30,6 +30,7 @@ Porque puede realizar tareas complejas en segundos, utilizando datos que la gent
 ## Herramientas relacionadas
 - [Opencv](/es/discover/opencv/)
 - [Cs249r Book](/es/discover/cs249r-book/)
+- [Onnxruntime](/es/discover/onnxruntime/)
 - [Machine Learning for Trading](/es/discover/machine-learning-for-trading/)
 - [Maths Cs AI Compendium](/es/discover/maths-cs-ai-compendium/)
 - [Bonsai-demo](/es/discover/bonsai-demo/)

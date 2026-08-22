@@ -32,6 +32,7 @@ Sí, todo software que pueda ejecutarse necesita un entorno de trabajo.
 - [Deno](/es/discover/deno/)
 - [BUN](/es/discover/bun/)
 - [Svelte](/es/discover/svelte/)
+- [Onnxruntime](/es/discover/onnxruntime/)
 - [Flue](/es/discover/flue/)
 - [Switchyard](/es/discover/switchyard/)
 - [Substrate](/es/discover/substrate/)

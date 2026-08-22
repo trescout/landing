@@ -32,6 +32,7 @@ Oui, tout logiciel pouvant fonctionner a besoin d’un environnement de travail.
 - [Deno](/fr/discover/deno/)
 - [BUN](/fr/discover/bun/)
 - [Svelte](/fr/discover/svelte/)
+- [Onnxruntime](/fr/discover/onnxruntime/)
 - [Flue](/fr/discover/flue/)
 - [Switchyard](/fr/discover/switchyard/)
 - [Substrate](/fr/discover/substrate/)

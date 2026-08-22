@@ -34,8 +34,8 @@ On most systems you can delete this data with the 'clear memory' or 'forget' com
 - [Codebase Memory MCP](/en/discover/codebase-memory-mcp/)
 - [Cognee](/en/discover/cognee/)
 - [TencentDB-Agent-Memory](/en/discover/tencentdb-agent-memory/)
-- [Pgrust](/en/discover/pgrust/)
 - [AI Memory](/en/discover/ai-memory/)
+- [Pgrust](/en/discover/pgrust/)
 - [Hivemind](/en/discover/hivemind/)
 
 ---

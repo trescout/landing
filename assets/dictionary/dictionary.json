@@ -6849,5 +6849,57 @@
     "kisa_pt": "É uma caixa portátil que contém tudo o que é necessário para o funcionamento de um software e garante que funcione da mesma forma em todos os computadores.",
     "kisa_es": "Es una caja portátil que contiene todo lo necesario para que se ejecute un software y garantiza que funcione igual en todas las computadoras.",
     "kisa_de": "Dabei handelt es sich um eine tragbare Box, die alles enthält, was für die Ausführung einer Software erforderlich ist, und dafür sorgt, dass sie auf jedem Computer gleich funktioniert."
+  },
+  {
+    "slug": "static-type-checking",
+    "en": "Static Type Checking",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Kod henüz çalıştırılmadan önce veri hatalarını otomatik olarak bulan bir güvenlik mekanizmasıdır.",
+    "date": "2026-08-22",
+    "kisa_en": "It is a security mechanism that automatically finds data errors before the code is even run.",
+    "kisa_fr": "Il s’agit d’un mécanisme de sécurité qui détecte automatiquement les erreurs de données avant même que le code ne soit exécuté.",
+    "kisa_pt": "É um mecanismo de segurança que encontra automaticamente erros de dados antes mesmo de o código ser executado.",
+    "kisa_es": "Es un mecanismo de seguridad que encuentra automáticamente errores de datos incluso antes de ejecutar el código.",
+    "kisa_de": "Dabei handelt es sich um einen Sicherheitsmechanismus, der Datenfehler automatisch findet, bevor der Code überhaupt ausgeführt wird."
+  },
+  {
+    "slug": "multi-player-swarms",
+    "en": "Multi-player Swarms",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Ortak bir hedef için birbirleriyle iletişim kurarak iş birliği yapan yapay zekâ gruplarıdır.",
+    "date": "2026-08-22",
+    "kisa_en": "They are artificial intelligence groups that communicate and cooperate with each other for a common goal.",
+    "kisa_fr": "Ce sont des groupes d’intelligence artificielle qui communiquent et coopèrent entre eux pour un objectif commun.",
+    "kisa_pt": "São grupos de inteligência artificial que se comunicam e cooperam entre si para um objetivo comum.",
+    "kisa_es": "Son grupos de inteligencia artificial que se comunican y cooperan entre sí para un objetivo común.",
+    "kisa_de": "Dabei handelt es sich um Gruppen künstlicher Intelligenz, die für ein gemeinsames Ziel miteinander kommunizieren und kooperieren."
+  },
+  {
+    "slug": "paywall",
+    "en": "Paywall",
+    "full": "",
+    "cat": "data",
+    "kisa": "İnternet üzerindeki içeriklere erişmek için ücret ödenmesini zorunlu kılan dijital bir engeldir.",
+    "date": "2026-08-22",
+    "kisa_en": "It is a digital barrier that requires payment of a fee to access content on the internet.",
+    "kisa_fr": "Il s’agit d’une barrière numérique qui nécessite le paiement d’une redevance pour accéder aux contenus sur Internet.",
+    "kisa_pt": "É uma barreira digital que exige o pagamento de uma taxa para acessar conteúdos na internet.",
+    "kisa_es": "Es una barrera digital que requiere el pago de una tarifa para acceder a contenidos en Internet.",
+    "kisa_de": "Es handelt sich um eine digitale Barriere, die die Zahlung einer Gebühr für den Zugriff auf Inhalte im Internet erfordert."
+  },
+  {
+    "slug": "digital-privacy",
+    "en": "Digital Privacy",
+    "full": "",
+    "cat": "data",
+    "kisa": "İnternet üzerindeki kişisel verilerinizin kimler tarafından görülebileceğini kontrol etme hakkınızdır.",
+    "date": "2026-08-22",
+    "kisa_en": "It is your right to control who can view your personal data on the Internet.",
+    "kisa_fr": "Vous avez le droit de contrôler qui peut consulter vos données personnelles sur Internet.",
+    "kisa_pt": "É seu direito controlar quem pode visualizar seus dados pessoais na Internet.",
+    "kisa_es": "Es su derecho controlar quién puede ver sus datos personales en Internet.",
+    "kisa_de": "Sie haben das Recht zu kontrollieren, wer Ihre personenbezogenen Daten im Internet einsehen kann."
   }
 ]

@@ -2,7 +2,7 @@
 
 Code-Review-Graph analysiert die Codebasis und erstellt eine lokal fokussierte Code-Intelligence-Map für Tools der künstlichen Intelligenz. Diese Struktur macht durch künstliche Intelligenz unterstützte Code-Review-Prozesse durch den Einsatz von Kontextreduktionsmethoden in großen Projekten effizienter.
 
-- ★ 29.487
+- ★ 30.676
 - Python
 - GitHub Trending · 2026-07-18
 

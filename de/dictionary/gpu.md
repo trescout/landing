@@ -37,7 +37,7 @@ Ja, aber für KI werden in der Regel professionelle Modelle verwendet, die mit m
 - [Cupy](/de/discover/cupy/)
 - [Train LLM from Scratch](/de/discover/train-llm-from-scratch/)
 - [Terax AI](/de/discover/terax-ai/)
-- [optimizerDuck](/de/discover/optimizerduck/)
+- [Needle](/de/discover/needle/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/gpu/

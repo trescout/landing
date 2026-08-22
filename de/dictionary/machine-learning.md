@@ -30,6 +30,7 @@ Weil es komplexe Aufgaben in Sekundenschnelle erledigen kann und dabei Daten ver
 ## Verwandte Werkzeuge
 - [Opencv](/de/discover/opencv/)
 - [Cs249r Book](/de/discover/cs249r-book/)
+- [Onnxruntime](/de/discover/onnxruntime/)
 - [Machine Learning for Trading](/de/discover/machine-learning-for-trading/)
 - [Maths Cs AI Compendium](/de/discover/maths-cs-ai-compendium/)
 - [Bonsai-demo](/de/discover/bonsai-demo/)

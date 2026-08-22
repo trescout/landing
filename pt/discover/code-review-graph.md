@@ -2,7 +2,7 @@
 
 O gráfico de revisão de código analisa a base de código e cria um mapa de inteligência de código com foco local para ferramentas de inteligência artificial. Essa estrutura torna os processos de revisão de código apoiados por inteligência artificial mais eficientes, usando métodos de redução de contexto em grandes projetos.
 
-- ★ 29.487
+- ★ 30.676
 - Python
 - GitHub Trending · 2026-07-18
 

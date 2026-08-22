@@ -2,7 +2,7 @@
 
 Code-review-graph analiza la base del código y crea un mapa de inteligencia de código enfocado localmente para herramientas de inteligencia artificial. Esta estructura hace que los procesos de revisión de código respaldados por inteligencia artificial sean más eficientes mediante el uso de métodos de reducción de contexto en proyectos grandes.
 
-- ★ 29.487
+- ★ 30.676
 - Python
 - GitHub Trending · 2026-07-18
 

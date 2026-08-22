@@ -32,8 +32,8 @@ Sur la plupart des systèmes, vous pouvez supprimer ces données avec la command
 - [Codebase Memory MCP](/fr/discover/codebase-memory-mcp/)
 - [Cognee](/fr/discover/cognee/)
 - [TencentDB-Agent-Memory](/fr/discover/tencentdb-agent-memory/)
-- [Pgrust](/fr/discover/pgrust/)
 - [AI Memory](/fr/discover/ai-memory/)
+- [Pgrust](/fr/discover/pgrust/)
 - [Hivemind](/fr/discover/hivemind/)
 
 ---

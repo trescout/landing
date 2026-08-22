@@ -39,7 +39,7 @@ Yes, but those used for AI are usually professional models equipped with more me
 - [Cupy](/en/discover/cupy/)
 - [Train LLM from Scratch](/en/discover/train-llm-from-scratch/)
 - [Terax AI](/en/discover/terax-ai/)
-- [optimizerDuck](/en/discover/optimizerduck/)
+- [Needle](/en/discover/needle/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/gpu/

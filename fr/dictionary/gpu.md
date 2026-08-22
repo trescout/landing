@@ -37,7 +37,7 @@ Oui, mais ceux utilisés pour l’IA sont généralement des modèles profession
 - [Cupy](/fr/discover/cupy/)
 - [Train LLM from Scratch](/fr/discover/train-llm-from-scratch/)
 - [Terax AI](/fr/discover/terax-ai/)
-- [optimizerDuck](/fr/discover/optimizerduck/)
+- [Needle](/fr/discover/needle/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/gpu/

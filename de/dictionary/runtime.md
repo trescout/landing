@@ -32,6 +32,7 @@ Ja, jede lauffähige Software benötigt eine Arbeitsumgebung.
 - [Deno](/de/discover/deno/)
 - [BUN](/de/discover/bun/)
 - [Svelte](/de/discover/svelte/)
+- [Onnxruntime](/de/discover/onnxruntime/)
 - [Flue](/de/discover/flue/)
 - [Switchyard](/de/discover/switchyard/)
 - [Substrate](/de/discover/substrate/)

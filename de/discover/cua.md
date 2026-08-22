@@ -2,7 +2,7 @@
 
 CUA bietet eine Open-Source-Infrastruktur für computerfähige Agenten der künstlichen Intelligenz. Es vereint Sandbox, Software Development Kit (SDK) und Benchmark-Tools unter einem Dach, um Agenten zu schulen und zu evaluieren, die Desktop-Betriebssysteme steuern können.
 
-- ★ 21.592
+- ★ 21.780
 - HTML
 - GitHub Trending · 2026-06-16
 

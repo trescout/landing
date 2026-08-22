@@ -2,11 +2,12 @@
 
 Modly, görsellerden üç boyutlu modeller (3D models) oluşturan ve tüm işlemleri yerel ekran kartı (GPU) üzerinde gerçekleştiren bir masaüstü uygulamasıdır. İnternet bağlantısına ihtiyaç duymadan çalışan bu araç, yapay zekâ destekli modelleme sürecini kişisel bilgisayarlara taşır.
 
-- ★ 6.115
+- ★ 7.132
 - TypeScript
 - GitHub Trending · 2026-08-14
 
 ## Güncelleme
+- 22 Ağustos 2026: Yıldız 6.115 → 7.132, son sürüm v0.4.1 (16 Temmuz 2026).
 - 15 Ağustos 2026: Yıldız 5.550 → 6.115, son sürüm v0.4.1 (16 Temmuz 2026).
 
 ## Ne kazandırır?

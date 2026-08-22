@@ -2,9 +2,12 @@
 
 LangChain tarafından geliştirilen open-deep-research, karmaşık soruları yanıtlamak için internet üzerinde çok adımlı araştırmalar yapan otonom bir sistemdir. Araştırma sürecini planlama, veri toplama ve sentezleme aşamalarıyla otomatize ederek derinlemesine analiz (deep research) süreçlerini kolaylaştırır.
 
-- ★ 12.307
+- ★ 12.655
 - Python
 - GitHub Trending · 2026-07-22
+
+## Güncelleme
+- 22 Ağustos 2026: Yıldız 12.307 → 12.655, depo arşivlendi, geliştirme durdu.
 
 ## Ne kazandırır?
 - Karmaşık sorular için çok adımlı otonom araştırma

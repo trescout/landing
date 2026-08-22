@@ -30,6 +30,7 @@ Parce qu’il peut effectuer des tâches complexes en quelques secondes, en util
 ## Outils liés
 - [Opencv](/fr/discover/opencv/)
 - [Cs249r Book](/fr/discover/cs249r-book/)
+- [Onnxruntime](/fr/discover/onnxruntime/)
 - [Machine Learning for Trading](/fr/discover/machine-learning-for-trading/)
 - [Maths Cs AI Compendium](/fr/discover/maths-cs-ai-compendium/)
 - [Bonsai-demo](/fr/discover/bonsai-demo/)
