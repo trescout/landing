@@ -21187,7 +21187,8 @@
     "tagline_fr": "Desenvolvido com a linguagem Rust, Codex é um agente de codificação leve que roda no terminal.",
     "tagline_pt": "Desenvolvido com a linguagem Rust, Codex é um agente de codificação leve que roda no terminal.",
     "tagline_es": "Desenvolvido com a linguagem Rust, Codex é um agente de codificação leve que roda no terminal.",
-    "tagline_de": "Desenvolvido com a linguagem Rust, Codex é um agente de codificação leve que roda no terminal."
+    "tagline_de": "Desenvolvido com a linguagem Rust, Codex é um agente de codificação leve que roda no terminal.",
+    "last_seen": "2026-08-23"
   },
   {
     "slug": "sub2api",
@@ -21217,7 +21218,8 @@
     "tagline_fr": "Sub2API é um serviço de migração de código aberto que combina diferentes assinaturas de IA, como Claude, OpenAI, Gemini e…",
     "tagline_pt": "Sub2API é um serviço de migração de código aberto que combina diferentes assinaturas de IA, como Claude, OpenAI, Gemini e…",
     "tagline_es": "Sub2API é um serviço de migração de código aberto que combina diferentes assinaturas de IA, como Claude, OpenAI, Gemini e…",
-    "tagline_de": "Sub2API é um serviço de migração de código aberto que combina diferentes assinaturas de IA, como Claude, OpenAI, Gemini e…"
+    "tagline_de": "Sub2API é um serviço de migração de código aberto que combina diferentes assinaturas de IA, como Claude, OpenAI, Gemini e…",
+    "last_seen": "2026-08-23"
   },
   {
     "slug": "n8n",
@@ -21247,7 +21249,8 @@
     "tagline_fr": "n8n é uma plataforma de automação de fluxo de trabalho que flui dados entre diferentes aplicativos e automatiza processos de…",
     "tagline_pt": "n8n é uma plataforma de automação de fluxo de trabalho que flui dados entre diferentes aplicativos e automatiza processos de…",
     "tagline_es": "n8n é uma plataforma de automação de fluxo de trabalho que flui dados entre diferentes aplicativos e automatiza processos de…",
-    "tagline_de": "n8n é uma plataforma de automação de fluxo de trabalho que flui dados entre diferentes aplicativos e automatiza processos de…"
+    "tagline_de": "n8n é uma plataforma de automação de fluxo de trabalho que flui dados entre diferentes aplicativos e automatiza processos de…",
+    "last_seen": "2026-08-23"
   },
   {
     "slug": "andrej-karpathy-skills",
@@ -21269,6 +21272,7 @@
     "tagline_fr": "Com base nas observações de Andrej Karpathy sobre erros encontrados ao codificar com grandes modelos de linguagem (LLM)…",
     "tagline_pt": "Com base nas observações de Andrej Karpathy sobre erros encontrados ao codificar com grandes modelos de linguagem (LLM)…",
     "tagline_es": "Com base nas observações de Andrej Karpathy sobre erros encontrados ao codificar com grandes modelos de linguagem (LLM)…",
-    "tagline_de": "Com base nas observações de Andrej Karpathy sobre erros encontrados ao codificar com grandes modelos de linguagem (LLM)…"
+    "tagline_de": "Com base nas observações de Andrej Karpathy sobre erros encontrados ao codificar com grandes modelos de linguagem (LLM)…",
+    "last_seen": "2026-08-23"
   }
 ]
