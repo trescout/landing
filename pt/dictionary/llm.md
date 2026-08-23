@@ -32,6 +32,7 @@ Não, ele está apenas fazendo previsões baseadas em probabilidades matemática
 - [Generative AI](/pt/dictionary/generative-ai/)
 
 ## Ferramentas relacionadas
+- [Andrej Karpathy Skills](/pt/discover/andrej-karpathy-skills/)
 - [Awesome LLM Apps](/pt/discover/awesome-llm-apps/)
 - [MoneyPrinterTurbo](/pt/discover/moneyprinterturbo/)
 - [TradingAgents](/pt/discover/tradingagents/)
@@ -39,7 +40,6 @@ Não, ele está apenas fazendo previsões baseadas em probabilidades matemática
 - [Deer Flow](/pt/discover/deer-flow/)
 - [Crawl4AI](/pt/discover/crawl4ai/)
 - [Unsloth](/pt/discover/unsloth/)
-- [MiroFish](/pt/discover/mirofish/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/llm/

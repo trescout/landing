@@ -2,11 +2,12 @@
 
 Cloudflare altyapısını kullanarak ücretsiz geçici e-posta (temporary email) hizmeti oluşturmayı sağlayan bu araç, e-posta alıp gönderme işlemlerini destekliyor. Proje, eklerin yönetimi, IMAP ve SMTP protokolleri ile Telegram botu entegrasyonu gibi özellikler sunuyor.
 
-- ★ 11.332
+- ★ 11.391
 - TypeScript
 - GitHub Trending · 2026-07-23
 
 ## Güncelleme
+- 23 Ağustos 2026: Yıldız 11.332 → 11.391, son sürüm v1.11.1 (22 Ağustos 2026).
 - 19 Ağustos 2026: Yıldız 11.156 → 11.332, son sürüm v1.11.0 (19 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 10.884 → 11.156, son sürüm v1.10.0 (31 Temmuz 2026).
 

@@ -2,11 +2,12 @@
 
 Ruflo é um software de estrutura que permite a construção de enxames multijogador compostos por agentes autônomos de inteligência artificial. Ele permite o desenvolvimento de sistemas que gerenciam fluxos de trabalho complexos com recursos como memória adaptativa, autoaprendizagem e geração de conteúdo assistida por banco de dados (RAG).
 
-- ★ 68.698
+- ★ 68.873
 - TypeScript
 - GitHub Trending · 2026-08-22
 
 ## Güncelleme
+- 23 Ağustos 2026: Yıldız 68.698 → 68.873, son sürüm v3.38.19 (22 Ağustos 2026).
 - 22 Ağustos 2026: Yıldız 68.689 → 68.698, son sürüm v3.38.16 (21 Ağustos 2026).
 
 ## Ne kazandırır?

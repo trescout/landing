@@ -51,7 +51,7 @@ Lisans: GitHub bu repo için standart bir lisans tespit etmedi. Anthropic'in res
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Plugin Skill AI Skills PDF Artificial Intelligence
+Plugin Skill PDF AI Skills Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/anthropic-skills/

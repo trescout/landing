@@ -34,6 +34,7 @@ No, he's just making predictions based on mathematical probabilities; It has no 
 - [Generative AI](/en/dictionary/generative-ai/)
 
 ## Related tools
+- [Andrej Karpathy Skills](/en/discover/andrej-karpathy-skills/)
 - [Awesome LLM Apps](/en/discover/awesome-llm-apps/)
 - [MoneyPrinterTurbo](/en/discover/moneyprinterturbo/)
 - [TradingAgents](/en/discover/tradingagents/)
@@ -41,7 +42,6 @@ No, he's just making predictions based on mathematical probabilities; It has no 
 - [Deer Flow](/en/discover/deer-flow/)
 - [Crawl4AI](/en/discover/crawl4ai/)
 - [Unsloth](/en/discover/unsloth/)
-- [MiroFish](/en/discover/mirofish/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/llm/

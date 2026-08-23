@@ -33,6 +33,7 @@ Yes, new capabilities can be added to a model with the appropriate infrastructur
 - [AI Agent](/en/dictionary/ai-agent/)
 
 ## Related tools
+- [Andrej Karpathy Skills](/en/discover/andrej-karpathy-skills/)
 - [Anthropic Skills](/en/discover/anthropic-skills/)
 - [Agent Skills](/en/discover/agent-skills/)
 - [Taste Skill](/en/discover/taste-skill/)
@@ -40,7 +41,6 @@ Yes, new capabilities can be added to a model with the appropriate infrastructur
 - [Awesome Claude Code](/en/discover/awesome-claude-code/)
 - [OpenMontage](/en/discover/openmontage/)
 - [Obsidian Skills](/en/discover/obsidian-skills/)
-- [OpenViking](/en/discover/openviking/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/ai-skills/

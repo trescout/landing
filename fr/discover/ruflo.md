@@ -2,7 +2,7 @@
 
 Logiciel de construction Ruflo qui permet de construire des composteurs multijoueurs par agents autonomes d'intelligence artificielle. Cela permet le développement de systèmes qui gèrent des flux de travail complexes avec des ressources en mémoire adaptative, un auto-apprentissage et une gestion du contenu assistée par le banc de données (RAG).
 
-- ★ 68 698
+- ★ 68 873
 - TypeScript
 - GitHub Trending · 2026-08-22
 

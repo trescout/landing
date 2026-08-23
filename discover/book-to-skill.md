@@ -2,15 +2,15 @@
 
 Book-to-skill projesi, teknik kitapların taşınabilir belge biçimlerini (PDF) Claude Code için kullanılabilir yetenek paketlerine (skills) dönüştürüyor. Bu araç, teknik kaynakların çalışma süreçlerinde doğrudan referans alınmasını ve uygulanmasını sağlıyor.
 
-- ★ 22.934
+- ★ 24.231
 - Python
 - GitHub Trending · 2026-07-29
 
 ## Güncelleme
+- 23 Ağustos 2026: Yıldız 22.934 → 24.231, son sürüm v1.4.0 (10 Ağustos 2026).
 - 19 Ağustos 2026: Yıldız 21.816 → 22.934, son sürüm v1.4.0 (10 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 20.129 → 21.816, son sürüm v1.4.0 (10 Ağustos 2026).
 - 11 Ağustos 2026: Yıldız 19.562 → 20.129, son sürüm v1.4.0 (10 Ağustos 2026).
-- 10 Ağustos 2026: Yıldız 18.272 → 19.562, son sürüm v1.3.0 (30 Temmuz 2026).
 
 ## Ne kazandırır?
 - Kitapları ve belgeleri doğrudan yapay zekâ ajanınızın çalışma belleğine aktarır.
@@ -48,7 +48,7 @@ book-to-skill --check # report which extractors are installed
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-29 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Token Markdown Skill AI Skills PDF Artificial Intelligence
+Token Markdown Skill PDF AI Skills Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/book-to-skill/

@@ -2,7 +2,7 @@
 
 Code-Graph-Rag kombiniert Wissensgraphen und Fetch-Assisted Generation (RAG), um komplexe Strukturen in großen Code-Repositories zu verstehen und abzufragen. Es ermöglicht Entwicklern, mithilfe künstlicher Intelligenz Codebasen in verschiedenen Sprachen zu analysieren und zu bearbeiten.
 
-- ★ 4.593
+- ★ 4.782
 - Python
 - GitHub Trending · 2026-08-10
 

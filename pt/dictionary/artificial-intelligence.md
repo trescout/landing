@@ -36,9 +36,9 @@ A inteligência artificial mudará a forma como muitos trabalhos são realizados
 - [Superpowers](/pt/discover/superpowers/)
 - [ECC](/pt/discover/ecc/)
 - [Hermes Agent](/pt/discover/hermes-agent/)
+- [Andrej Karpathy Skills](/pt/discover/andrej-karpathy-skills/)
+- [N8n](/pt/discover/n8n/)
 - [Opencode](/pt/discover/opencode/)
-- [FreeDomain](/pt/discover/free-domain/)
-- [AutoGPT](/pt/discover/autogpt/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/artificial-intelligence/

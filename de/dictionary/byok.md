@@ -30,8 +30,8 @@ Um den Datenschutz zu erhöhen und den Zugriff von Dienstanbietern auf Daten ein
 - [Secrets](/de/dictionary/secrets/)
 
 ## Verwandte Werkzeuge
-- [Copilot SDK](/de/discover/copilot-sdk/)
 - [holaOS](/de/discover/holaos/)
+- [Copilot SDK](/de/discover/copilot-sdk/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/byok/

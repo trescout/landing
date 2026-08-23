@@ -2,7 +2,7 @@
 
 Plugins de curseur ; Il comprend la spécification officielle du plugin et des plugins officiels prêts à l'emploi pour l'éditeur de code Cursor. Il permet aux développeurs de créer leurs propres plugins.
 
-- ★ 3 572
+- ★ 4 695
 - TypeScript
 - Lisans: kontrol et
 - GitHub Trending · 30 May 2026

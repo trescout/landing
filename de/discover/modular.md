@@ -2,7 +2,7 @@
 
 Eine modulare Plattform mit der Engine MAX, entwickelt für die Entwicklung künstlicher Intelligenzmodelle und einer Mojo-Programmiersprache, die die Python-Sprachfähigkeiten mit der Systemprogrammiergeschwindigkeit kombiniert. Dies ist ein Technologieprojekt für eine schnelle künstliche Intelligenzinfrastruktur und die Vereinfachung komplexer Softwareprozesse.
 
-- ★ 27.449
+- ★ 28.875
 - Mojo
 - GitHub Trending · 2026-08-20
 

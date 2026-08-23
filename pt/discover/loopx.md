@@ -2,7 +2,7 @@
 
 Loopx é um kernel de estado leve desenvolvido para equipes de agentes de inteligência artificial de longo prazo. Funciona de forma compatível com agentes de codificação (Codex, Claude Code) e padroniza processos como rastreamento de tarefas, gerenciamento de cotas e transferência de trabalho verificável.
 
-- ★ 4.979
+- ★ 5.024
 - Python
 - GitHub Trending · 2026-08-06
 

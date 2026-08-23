@@ -32,8 +32,8 @@ To increase data privacy and restrict service provider access to data.
 - [Secrets](/en/dictionary/secrets/)
 
 ## Related tools
-- [Copilot SDK](/en/discover/copilot-sdk/)
 - [holaOS](/en/discover/holaos/)
+- [Copilot SDK](/en/discover/copilot-sdk/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/byok/

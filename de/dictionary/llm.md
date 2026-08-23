@@ -32,6 +32,7 @@ Nein, er macht nur Vorhersagen, die auf mathematischen Wahrscheinlichkeiten basi
 - [Generative AI](/de/dictionary/generative-ai/)
 
 ## Verwandte Werkzeuge
+- [Andrej Karpathy Skills](/de/discover/andrej-karpathy-skills/)
 - [Awesome LLM Apps](/de/discover/awesome-llm-apps/)
 - [MoneyPrinterTurbo](/de/discover/moneyprinterturbo/)
 - [TradingAgents](/de/discover/tradingagents/)
@@ -39,7 +40,6 @@ Nein, er macht nur Vorhersagen, die auf mathematischen Wahrscheinlichkeiten basi
 - [Deer Flow](/de/discover/deer-flow/)
 - [Crawl4AI](/de/discover/crawl4ai/)
 - [Unsloth](/de/discover/unsloth/)
-- [MiroFish](/de/discover/mirofish/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/llm/

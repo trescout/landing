@@ -2,7 +2,7 @@
 
 Esta ferramenta, que permite criar um serviço de e-mail temporário gratuito utilizando a infraestrutura Cloudflare, oferece suporte ao envio e recebimento de e-mails. O projeto oferece recursos como gerenciamento de anexos, protocolos IMAP e SMTP e integração de bots Telegram.
 
-- ★ 11.332
+- ★ 11.391
 - TypeScript
 - GitHub Trending · 2026-07-23
 

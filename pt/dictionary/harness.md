@@ -30,8 +30,8 @@ Para reduzir o erro humano e garantir que o código não seja quebrado a cada al
 ## Ferramentas relacionadas
 - [Jcode](/pt/discover/jcode/)
 - [Harness · Ajan Ekip Fabrikası](/pt/discover/harness/)
-- [Claude Code Harness](/pt/discover/claude-code-harness/)
 - [Munder Difflin](/pt/discover/munder-difflin/)
+- [Claude Code Harness](/pt/discover/claude-code-harness/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/harness/

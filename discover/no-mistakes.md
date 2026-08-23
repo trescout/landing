@@ -2,15 +2,15 @@
 
 Go diliyle geliştirilen no-mistakes, yazılım geliştiricilerin hatalı kod gönderimlerini (git push) engellemek için tasarlanmış bir komut satırı aracıdır. Yerel geliştirme ortamında çalışarak, kod tabanına istenmeyen değişikliklerin aktarılmasını önleyen bir güvenlik katmanı sağlar.
 
-- ★ 7.719
+- ★ 7.795
 - Go
 - GitHub Trending · 2026-06-25
 
 ## Güncelleme
+- 23 Ağustos 2026: Yıldız 7.719 → 7.795, son sürüm v1.57.0 (22 Ağustos 2026).
 - 19 Ağustos 2026: Yıldız 7.589 → 7.719, son sürüm v1.53.0 (16 Ağustos 2026).
 - 12 Ağustos 2026: Yıldız 7.475 → 7.589, son sürüm v1.48.0 (8 Ağustos 2026).
 - 9 Ağustos 2026: Yıldız 7.424 → 7.475, son sürüm v1.46.0 (6 Ağustos 2026).
-- 6 Ağustos 2026: Yıldız 7.334 → 7.424, son sürüm v1.45.4 (4 Ağustos 2026).
 
 ## Ne kazandırır?
 - Hatalı kodların uzak sunucuya ulaşmasını engeller

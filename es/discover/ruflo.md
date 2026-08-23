@@ -2,7 +2,7 @@
 
 Ruflo software de estructura que permite la construcción de enxames multijogador compostos por agentes autónomos de inteligencia artificial. Ele permite el desarrollo de sistemas que gerencian flujos de trabajo complejos con recursos como memoria adaptativa, autoaprendizaje y gestión de contabilidad asistida por el banco de datos (RAG).
 
-- ★ 68.698
+- ★ 68.873
 - TypeScript
 - GitHub Trending · 2026-08-22
 

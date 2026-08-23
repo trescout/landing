@@ -4,12 +4,13 @@ MoneyPrinterTurbo , verdiğiniz bir konu veya anahtar kelimeden büyük dil mode
 
 _Görsel: MoneyPrinterTurbo (proje deposundan)_
 
-- ★ 108.989
+- ★ 114.747
 - Python
 - MIT
 - GitHub Trending · 28 May 2026
 
 ## Güncelleme
+- 23 Ağustos 2026: Yıldız 108.989 → 114.747, son sürüm v1.3.5 (22 Ağustos 2026).
 - 19 Ağustos 2026: Yıldız 102.680 → 108.989, son sürüm v1.3.4 (12 Ağustos 2026).
 - 12 Ağustos 2026: Yıldız 101.070 → 102.680, son sürüm v1.3.4 (12 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 62.104 → 101.070, son sürüm v1.3.3 (24 Temmuz 2026).

@@ -30,8 +30,8 @@ Para aumentar la privacidad de los datos y restringir el acceso de los proveedor
 - [Secrets](/es/dictionary/secrets/)
 
 ## Herramientas relacionadas
-- [Copilot SDK](/es/discover/copilot-sdk/)
 - [holaOS](/es/discover/holaos/)
+- [Copilot SDK](/es/discover/copilot-sdk/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/byok/

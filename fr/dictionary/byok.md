@@ -30,8 +30,8 @@ Pour accroître la confidentialité des données et restreindre l’accès des f
 - [Secrets](/fr/dictionary/secrets/)
 
 ## Outils liés
-- [Copilot SDK](/fr/discover/copilot-sdk/)
 - [holaOS](/fr/discover/holaos/)
+- [Copilot SDK](/fr/discover/copilot-sdk/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/byok/

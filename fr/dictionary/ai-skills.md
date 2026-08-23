@@ -31,6 +31,7 @@ Oui, de nouvelles fonctionnalités peuvent être ajoutées à un modèle avec l�
 - [AI Agent](/fr/dictionary/ai-agent/)
 
 ## Outils liés
+- [Andrej Karpathy Skills](/fr/discover/andrej-karpathy-skills/)
 - [Anthropic Skills](/fr/discover/anthropic-skills/)
 - [Agent Skills](/fr/discover/agent-skills/)
 - [Taste Skill](/fr/discover/taste-skill/)
@@ -38,7 +39,6 @@ Oui, de nouvelles fonctionnalités peuvent être ajoutées à un modèle avec l�
 - [Awesome Claude Code](/fr/discover/awesome-claude-code/)
 - [OpenMontage](/fr/discover/openmontage/)
 - [Obsidian Skills](/fr/discover/obsidian-skills/)
-- [OpenViking](/fr/discover/openviking/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/ai-skills/

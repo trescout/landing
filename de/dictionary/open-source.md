@@ -33,8 +33,8 @@ Ja, aber die Aufnahme von Änderungen in das Hauptprojekt hängt in der Regel vo
 - [MarkItDown](/de/discover/markitdown/)
 - [Claude Code](/de/discover/claude-code/)
 - [MoneyPrinterTurbo](/de/discover/moneyprinterturbo/)
-- [claude-mem](/de/discover/claude-mem/)
 - [RuView](/de/discover/ruview/)
+- [claude-mem](/de/discover/claude-mem/)
 - [Opencv](/de/discover/opencv/)
 
 ---

@@ -31,6 +31,7 @@ Ja, mit der entsprechenden Infrastruktur und API-Verbindungen können einem Mode
 - [AI Agent](/de/dictionary/ai-agent/)
 
 ## Verwandte Werkzeuge
+- [Andrej Karpathy Skills](/de/discover/andrej-karpathy-skills/)
 - [Anthropic Skills](/de/discover/anthropic-skills/)
 - [Agent Skills](/de/discover/agent-skills/)
 - [Taste Skill](/de/discover/taste-skill/)
@@ -38,7 +39,6 @@ Ja, mit der entsprechenden Infrastruktur und API-Verbindungen können einem Mode
 - [Awesome Claude Code](/de/discover/awesome-claude-code/)
 - [OpenMontage](/de/discover/openmontage/)
 - [Obsidian Skills](/de/discover/obsidian-skills/)
-- [OpenViking](/de/discover/openviking/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/ai-skills/

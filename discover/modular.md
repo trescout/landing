@@ -2,11 +2,12 @@
 
 A plataforma Modular inclui o motor MAX, desenvolvido para rodar modelos de inteligência artificial, e a linguagem de programação Mojo, que combina as capacidades da linguagem Python com a velocidade de programação de sistemas. Esta tecnologia foi projetada para acelerar a infraestrutura de inteligência artificial e simplificar processos complexos de software.
 
-- ★ 27.449
+- ★ 28.875
 - Mojo
 - GitHub Trending · 2026-08-20
 
 ## Güncelleme
+- 23 Ağustos 2026: Yıldız 27.449 → 28.875, son sürüm max/v26.5.0 (11 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 27.442 → 27.449, son sürüm max/v26.5.0 (11 Ağustos 2026).
 
 ## Ne kazandırır?

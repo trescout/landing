@@ -31,6 +31,7 @@ Sim, novos recursos podem ser adicionados a um modelo com infraestrutura apropri
 - [AI Agent](/pt/dictionary/ai-agent/)
 
 ## Ferramentas relacionadas
+- [Andrej Karpathy Skills](/pt/discover/andrej-karpathy-skills/)
 - [Anthropic Skills](/pt/discover/anthropic-skills/)
 - [Agent Skills](/pt/discover/agent-skills/)
 - [Taste Skill](/pt/discover/taste-skill/)
@@ -38,7 +39,6 @@ Sim, novos recursos podem ser adicionados a um modelo com infraestrutura apropri
 - [Awesome Claude Code](/pt/discover/awesome-claude-code/)
 - [OpenMontage](/pt/discover/openmontage/)
 - [Obsidian Skills](/pt/discover/obsidian-skills/)
-- [OpenViking](/pt/discover/openviking/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/ai-skills/

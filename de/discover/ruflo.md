@@ -2,7 +2,7 @@
 
 Die Ruflo-Struktursoftware ermöglicht die Konstruktion von Mehrspielerkompositionen durch künstliche Intelligenz-Agenten. Er ermöglicht die Entwicklung von Systemen, die komplexe Arbeitsflüsse mit Rekursen wie adaptivem Speicher, automatischem Lernen und der Bereitstellung von Inhaltsunterstützung durch die Dados-Bank (RAG) ermöglichen.
 
-- ★ 68.698
+- ★ 68.873
 - TypeScript
 - GitHub Trending · 2026-08-22
 

@@ -28,13 +28,13 @@ If you want to get into the world of software, yes, because many tools only work
 
 ## Related tools
 - [Claude Code](/en/discover/claude-code/)
+- [Codex](/en/discover/codex/)
 - [Terminal](/en/discover/terminal/)
 - [Openinterpreter](/en/discover/openinterpreter/)
 - [Career Ops](/en/discover/career-ops/)
 - [Free Claude Code](/en/discover/free-claude-code/)
 - [DeepSeek-Reasonix](/en/discover/deepseek-reasonix/)
 - [Mise](/en/discover/mise/)
-- [Omarchy](/en/discover/omarchy/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/terminal/

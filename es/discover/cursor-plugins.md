@@ -2,7 +2,7 @@
 
 Complementos de cursor; Incluye la especificación oficial del complemento y complementos oficiales listos para usar para el editor de código del cursor. Permite a los desarrolladores crear sus propios complementos.
 
-- ★ 3.572
+- ★ 4.695
 - TypeScript
 - Lisans: kontrol et
 - GitHub Trending · 30 May 2026

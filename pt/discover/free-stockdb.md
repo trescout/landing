@@ -2,7 +2,7 @@
 
 Free-stockdb é um mecanismo nativo de análise quantitativa que lida com dados diários e minuciosos para ações A e fundos negociados em bolsa (ETFs). O sistema combina funções como sincronização incremental de dados, cache local, correção de preços, backtesting e cálculos de indicadores técnicos.
 
-- ★ 1.866
+- ★ 2.207
 - HTML
 - GitHub Trending · 2026-07-29
 

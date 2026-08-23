@@ -2,15 +2,15 @@
 
 Cognee, yapay zekâ ajanlarına oturumlar arası kalıcı uzun süreli bellek (long-term memory) sağlayan açık kaynaklı bir platformdur. Kendi kendine barındırılan bir bilgi grafiği motoru (knowledge graph engine) kullanarak ajanların verileri yapılandırılmış şekilde saklamasına ve geri çağırmasına olanak tanır.
 
-- ★ 30.175
+- ★ 30.190
 - Python
 - GitHub Trending · 2026-06-22
 
 ## Güncelleme
+- 23 Ağustos 2026: Yıldız 30.175 → 30.190, son sürüm v1.5.2 (22 Ağustos 2026).
 - 22 Ağustos 2026: Yıldız 30.057 → 30.175, son sürüm v1.5.1 (21 Ağustos 2026).
 - 16 Ağustos 2026: Yıldız 30.046 → 30.057, son sürüm v1.5.0 (15 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 29.883 → 30.046, son sürüm v1.5.0.dev2 (14 Ağustos 2026).
-- 9 Ağustos 2026: Yıldız 29.804 → 29.883, son sürüm v1.4.2 (8 Ağustos 2026).
 
 ## Ne kazandırır?
 - Ajanlar için oturumlar arası kalıcı uzun süreli bellek
