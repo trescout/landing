@@ -1,0 +1,376 @@
+{
+  "date": "2026-08-23",
+  "capturedAt": "2026-08-23T04:39:30.411Z",
+  "editorial": "En el mundo del software actual, las herramientas basadas en Rust (LSP) orientadas a la eficiencia de la memoria y los agentes autónomos de desarrollo propio están a la vanguardia. Los nuevos modelos de la serie Qwen y los posibles efectos de las guerras comerciales en la cadena de suministro de tecnología destacan como los principales factores que determinan la agenda actual de la industria.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "summary": "Desarrollado con el lenguaje Rust, Codex es un agente de codificación liviano que se ejecuta en la terminal. Ofrece sugerencias de código y ediciones directamente a través de la línea de comandos para acelerar los procesos de desarrollo de software.",
+          "meta": "Rust · ★ 113.793 · +1.544 hoy"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Este repositorio, compartido por Matt Pocock, contiene paquetes de habilidades personalizados que los desarrolladores de software utilizan para entrenar agentes de inteligencia artificial. Estos conjuntos de comandos ya preparados, que los desarrolladores utilizan en sus propios entornos de trabajo, tienen como objetivo acelerar los procesos de automatización.",
+          "meta": "Shell · ★ 232.397 · +2.683 hoy"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC es un sistema de mejora del rendimiento que optimiza la capacidad, la memoria y las capas de seguridad para los agentes de IA. Plataformas como Claude Code y la herramienta de edición de código Cursor están diseñadas para aumentar la eficiencia de los flujos de trabajo basados ​​en agentes.",
+          "meta": "JavaScript · ★ 242.232 · +411 hoy"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers es un marco de habilidades de agente y una metodología de desarrollo de software desarrollado para agentes de inteligencia artificial. Permite que los flujos de trabajo basados ​​en agentes se ejecuten de manera más eficiente al estandarizar los procesos de software.",
+          "meta": "Shell · ★ 276.259 · +592 hoy"
+        },
+        {
+          "title": "Wei-Shaw/sub2api",
+          "url": "https://github.com/Wei-Shaw/sub2api",
+          "summary": "Sub2API es un servicio de migración de código abierto que combina diferentes suscripciones de IA, como Claude, OpenAI, Gemini y Grok, en una única interfaz. Si bien permite a los usuarios compartir los costos de suscripción, brinda la oportunidad de utilizar estos servicios de manera integrada con las herramientas existentes.",
+          "meta": "Go · ★ 38.838 · +278 hoy"
+        },
+        {
+          "title": "makeplane/plane",
+          "url": "https://github.com/makeplane/plane",
+          "summary": "Plane es una plataforma de gestión de proyectos de código abierto que permite gestionar tareas, procesos de sprint y documentación. Ofrece una alternativa a las herramientas populares de seguimiento de empleos como Jira, Linear, Monday y ClickUp que puedes alojar en tu propio servidor.",
+          "meta": "TypeScript · ★ 57.275 · +263 hoy"
+        },
+        {
+          "title": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "summary": "n8n es una plataforma de automatización del flujo de trabajo que fluye datos entre diferentes aplicaciones y automatiza los procesos comerciales. Combinando una interfaz visual con escritura de código personalizado, esta herramienta puede ejecutarse tanto en la nube como en su propio servidor, con soporte para más de 400 integraciones.",
+          "meta": "TypeScript · ★ 201.890 · +149 hoy"
+        },
+        {
+          "title": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "summary": "Desarrollado por Anthropics, Claude Code es un agente de inteligencia artificial que se ejecuta en el terminal y acelera los procesos de desarrollo de software con comandos de lenguaje natural. La herramienta realiza tareas de rutina analizando la base del código, automatiza procesos como anotar bloques de código complejos y administrar los flujos de trabajo del sistema de control de versiones Git.",
+          "meta": "Python · ★ 142.597 · +127 hoy"
+        },
+        {
+          "title": "AprilNEA/OpenLogi",
+          "url": "https://github.com/AprilNEA/OpenLogi",
+          "summary": "OpenLogi ofrece una alternativa nativa de código abierto al software Logitech Options+ que se utiliza para administrar los periféricos de Logitech. Desarrollada con el lenguaje Rust, esta herramienta le permite configurar asignaciones de teclas, ajustes de sensibilidad (DPI) y funciones SmartShift directamente en el hardware sin rastrear los datos del usuario.",
+          "meta": "Rust · ★ 14.077 · +959 hoy"
+        },
+        {
+          "title": "modular/modular",
+          "url": "https://github.com/modular/modular",
+          "summary": "Modular ofrece una infraestructura que incluye la plataforma MAX y el lenguaje de programación Mojo basado en Python, desarrollado para ejecutar modelos de inteligencia artificial. Esta plataforma proporciona un entorno de trabajo acelerado por hardware para desarrollar aplicaciones de inteligencia artificial de alto rendimiento.",
+          "meta": "Mojo · ★ 28.873 · +395 hoy"
+        },
+        {
+          "title": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "summary": "Basado en las observaciones de Andrej Karpathy sobre los errores encontrados al codificar con modelos de lenguaje grandes (LLM), CLAUDE.md tiene como objetivo optimizar el rendimiento de Claude Code, una herramienta de codificación respaldada por inteligencia artificial. Este archivo de configuración sirve como guía para que los desarrolladores obtengan una salida de código más consistente y sin errores de la inteligencia artificial.",
+          "meta": "★ 205.391 · +315 hoy"
+        },
+        {
+          "title": "mahlernim/google-timeline-visualizer",
+          "url": "https://github.com/mahlernim/google-timeline-visualizer",
+          "summary": "Google Timeline Visualizer es una herramienta que visualiza viajes durante todo el año en un mapa utilizando datos del historial de ubicaciones de Google. Esta aplicación, desarrollada en lenguaje Kotlin, ofrece a los usuarios la oportunidad de analizar y visualizar rutas de viaje personales.",
+          "meta": "Kotlin · ★ 2.595 · +441 hoy"
+        },
+        {
+          "title": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "summary": "Free-for-dev es una lista completa que ayuda a los desarrolladores de software y administradores de sistemas a encontrar servicios de software (SaaS), servicios de plataforma (PaaS) y servicios de infraestructura (IaaS) que ofrecen un nivel gratuito. Recopila herramientas que los desarrolladores pueden utilizar al gestionar los costos en una única fuente.",
+          "meta": "HTML · ★ 133.988 · +829 hoy"
+        },
+        {
+          "title": "microsoft/TypeScript",
+          "url": "https://github.com/microsoft/TypeScript",
+          "summary": "Desarrollado por Microsoft, TypeScript es un superconjunto que agrega verificación de tipos estáticos al lenguaje JavaScript. Transforma el código JavaScript en una estructura más segura y escalable para detectar errores en una etapa temprana del proceso de desarrollo de software.",
+          "meta": "Go · ★ 110.561 · +104 hoy"
+        },
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "La herramienta de edición de código Cursor ha lanzado una especificación de complemento oficial que permite a los desarrolladores crear sus propios complementos. Esta estructura ofrece un marco basado en TypeScript que permite a los usuarios personalizar la experiencia de codificación impulsada por IA.",
+          "meta": "TypeScript · ★ 4.695 · +286 hoy"
+        },
+        {
+          "title": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "summary": "PostHog es una herramienta de desarrollo de software que combina herramientas como análisis, grabación de sesiones y seguimiento de errores en una única plataforma para acelerar los procesos de desarrollo de productos. Gracias a sus funciones de observabilidad de IA, permite a los equipos de software monitorear el rendimiento del producto y mejorar la experiencia del usuario.",
+          "meta": "Python · ★ 38.665 · +286 hoy"
+        },
+        {
+          "title": "Tencent/AI-Infra-Guard",
+          "url": "https://github.com/Tencent/AI-Infra-Guard",
+          "summary": "Desarrollada por Tencent, AI-Infra-Guard es una plataforma integral de equipos rojos que tiene como objetivo proteger los ecosistemas de inteligencia artificial contra vulnerabilidades. El sistema evalúa posibles amenazas a la seguridad escaneando las capacidades del agente, los componentes de la infraestructura y los grandes modelos de lenguaje.",
+          "meta": "Python · ★ 5.552 · +150 hoy"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+          "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+          "summary": "Canadá anunció que tomaría represalias con la misma cantidad en respuesta a los derechos de aduana impuestos por Estados Unidos tras el fracaso de las negociaciones comerciales. Esta decisión demuestra que la tensión en las relaciones comerciales entre ambos países está aumentando.",
+          "meta": "549 puntos · 1.328 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49397074",
+              "popularity": 549,
+              "engagementCount": 1328
+            }
+          ]
+        },
+        {
+          "title": "Rust Glancer: Rust LSP using 100x less RAM",
+          "url": "https://rust-glancer.github.io/blog/hello-world/",
+          "summary": "Rust Glancer es una herramienta de análisis de código desarrollada para el lenguaje Rust y consume 100 veces menos memoria que las aplicaciones de protocolo de servidor de lenguaje estándar. Esta solución, que optimiza el uso de la memoria, tiene como objetivo aumentar el rendimiento de los entornos de desarrollo en grandes proyectos.",
+          "meta": "407 puntos · 99 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49393052",
+              "popularity": 407,
+              "engagementCount": 99
+            }
+          ]
+        },
+        {
+          "title": "Scrap (2006)",
+          "url": "https://twitter.com/moxie/status/2091218652133732491",
+          "summary": "El proyecto Scrap de 2006, compartido por Moxie Marlinspike, es una herramienta que automatiza el proceso de extracción de datos de páginas web (web scraping). Facilita el acceso a los datos simplificando el proceso de extracción de información de sitios web complejos.",
+          "meta": "342 puntos · 185 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49402189",
+              "popularity": 342,
+              "engagementCount": 185
+            }
+          ]
+        },
+        {
+          "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+          "url": "https://quantumi.sh/public/labs.html",
+          "summary": "Empresas como ElevenLabs, TwelveLabs y ThirteenLabs se centran en tecnologías de generación de contenidos basadas en inteligencia artificial (IA generativa) en procesos de procesamiento de audio y vídeo. Estas startups están desarrollando herramientas de creación de contenido digital con modelos especializados que analizan y transforman datos de medios.",
+          "meta": "342 puntos · 108 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49400408",
+              "popularity": 342,
+              "engagementCount": 108
+            }
+          ]
+        },
+        {
+          "title": "Hister – A private, full content search index that you control",
+          "url": "https://hister.org/",
+          "summary": "Hister es un índice privado de búsqueda de contenido completo que le brinda control total sobre sus datos personales. Al indexar sus datos en Internet de forma local, le permite realizar búsquedas rápidas y orientadas a la privacidad sin necesidad de servidores de terceros.",
+          "meta": "276 puntos · 73 comentarios",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49351802",
+              "popularity": 276,
+              "engagementCount": 73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Desarrollado por Alibaba, Qwen2.5-VL es un modelo de inteligencia artificial multimodal que puede procesar y analizar datos visuales y de texto. Gracias a su capacidad de conversión de imagen a texto, responde a las preguntas de los usuarios al dar sentido a contenido visual complejo.",
+          "meta": "♥ 12.174 · 2.090.699 descargas"
+        },
+        {
+          "title": "unsloth/Qwen3.8-27B-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "summary": "Unsloth ofrece una versión optimizada (GGUF) para entrenar y ejecutar el modelo de lenguaje Qwen2.5-27B más rápido. Este formato utiliza recursos de hardware de manera eficiente, lo que permite ejecutar modelos de lenguaje grandes en dispositivos locales con menor consumo de memoria.",
+          "meta": "♥ 2.643 · 6.320.542 descargas"
+        },
+        {
+          "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "summary": "Qwen3.8-27B-Uncensored-MLX, compartido en Hugging Face, es un modelo de inteligencia artificial que produce resultados de texto procesando entradas visuales y de texto. Optimizado con la biblioteca MLX, que proporciona un rápido funcionamiento en dispositivos Apple, este modelo ofrece una estructura sin restricciones de contenido.",
+          "meta": "♥ 889 · 34.909 descargas"
+        },
+        {
+          "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+          "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
+          "summary": "Qwen3.8-27B-Uncensored-FP8, compartido en Hugging Face, es un modelo de inteligencia artificial multimodal que puede procesar datos visuales y de texto. El modelo destaca por su estructura libre de contenido y precisión de punto flotante de 8 bits (FP8) que proporciona un bajo uso de memoria.",
+          "meta": "♥ 996 · 142.846 descargas"
+        },
+        {
+          "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+          "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+          "summary": "Qwen3.8-27B-OBLITERATED es una versión del modelo de generación de texto Qwen sin restricciones de seguridad. El modelo proporciona una gama más amplia de respuestas al evitar los filtros de contenido y los mecanismos de rechazo implementados por los modelos de lenguaje estándar.",
+          "meta": "♥ 550 · 164.950 descargas"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
+          "url": "https://huggingface.co/papers/2607.21596",
+          "summary": "FlowEvo es un marco que permite a los agentes de inteligencia artificial desarrollar juntos sus flujos de trabajo y habilidades ejecutables en la inferencia. Convierte los flujos de trabajo exitosos en capacidades duraderas, lo que permite a los agentes aprender de sus experiencias y utilizar ese conocimiento en tareas posteriores.",
+          "meta": "2 me gusta · 2 comentarios"
+        },
+        {
+          "title": "TinyCast: Probabilistic Zero-Shot Forecasting with Computed Periodicity",
+          "url": "https://huggingface.co/papers/2608.15767",
+          "summary": "TinyCast es un modelo de pronóstico de tiro cero que no utiliza un mecanismo de atención y funciona con solo 146 mil parámetros. Este método, que calcula estructuras periódicas en los datos en lugar de aprenderlas, produce predicciones probabilísticas al consumir menos recursos que otros modelos de escala similar.",
+          "meta": "8 me gusta · 2 comentarios"
+        },
+        {
+          "title": "The Embedder's Dilemma: LLMs Are Better, but at What Cost?",
+          "url": "https://huggingface.co/papers/2608.12875",
+          "summary": "La comparación de rendimiento entre los modelos tradicionales de incrustación de texto y los modelos de lenguaje grande muestra que los dos enfoques proporcionan resultados similares en diferentes tareas. Al hacer una selección, se deben tener en cuenta los criterios de eficiencia y costos operativos, así como el equilibrio del desempeño.",
+          "meta": "8 me gusta · 3 comentarios"
+        },
+        {
+          "title": "τ_0-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation",
+          "url": "https://huggingface.co/papers/2608.16885",
+          "summary": "τ_0-VLA es un modelo básico de robot jerárquico que aumenta la potencia computacional en el momento de la prueba para decisiones complejas en tareas de manipulación robótica. Este modelo realiza operaciones a largo plazo de manera más consistente al planificar subtareas de alto nivel bajo la guía del modelo mundial.",
+          "meta": "9 me gusta · 2 comentarios"
+        },
+        {
+          "title": "QuoteBench: How Matched Scores Can Hide Command-Path Failures",
+          "url": "https://huggingface.co/papers/2608.13547",
+          "summary": "QuoteBench es un marco de evaluación que detecta errores durante la fase de ejecución de comandos producidos por grandes modelos de lenguaje que escriben código. En lugar de centrarse únicamente en las puntuaciones de coincidencia, aísla las fuentes de error midiendo las discrepancias entre los comandos que genera el modelo y la forma en que el sistema los procesa.",
+          "meta": "7 me gusta · 2 comentarios"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "You should never be angry at work",
+          "url": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
+          "summary": "Este enfoque, que sostiene que el enojo que se siente en el trabajo perjudica los procesos profesionales, recomienda una comunicación lógica orientada a soluciones en lugar de reacciones emocionales. La capacidad de los empleados para gestionar sus emociones y resolver conflictos de manera profesional tiene como objetivo preservar tanto la productividad individual como la colaboración en equipo.",
+          "meta": "73 puntos · 43 comentarios",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/mbmn1f/you_should_never_be_angry_at_work",
+              "popularity": 73,
+              "engagementCount": 43
+            }
+          ]
+        },
+        {
+          "title": "There continue to be reasons for software to be slow",
+          "url": "https://typesanitizer.com/blog/performance-issues.html",
+          "summary": "Las principales razones del bajo rendimiento del software están asociadas con el uso ineficiente de los recursos de hardware y arquitecturas de software complejas. Los desarrolladores afirman que centrarse en la funcionalidad y la mantenibilidad en lugar de en la velocidad conduce a la lentitud del sistema a largo plazo.",
+          "meta": "20 puntos · 16 comentarios",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/zibquu/there_continue_be_reasons_for_software_be",
+              "popularity": 20,
+              "engagementCount": 16
+            }
+          ]
+        },
+        {
+          "title": "NetBSD and my life (2005)",
+          "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+          "summary": "El sistema operativo NetBSD ofrece un entorno operativo consistente en diferentes arquitecturas de hardware con su estructura altamente orientada a la portabilidad. El proceso de desarrollo del software refleja un enfoque que se centra en la experiencia del usuario en la gestión del sistema y el soporte de hardware.",
+          "meta": "24 puntos · 2 comentarios",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/a23bk3/netbsd_my_life_2005",
+              "popularity": 24,
+              "engagementCount": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "Las capacidades que tiene un software o inteligencia artificial para realizar una tarea específica."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "Un conjunto de capacidades estructurales que permiten a los sistemas de inteligencia artificial tomar decisiones por sí solos y realizar tareas complejas."
+    },
+    {
+      "term": "DPI",
+      "explanation": "El número de puntos por pulgada que determina la calidad de imagen de una pantalla o impresora."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Modelos avanzados de inteligencia artificial entrenados para aprender el lenguaje humano y transcribir, resumir o traducir texto."
+    },
+    {
+      "term": "SaaS",
+      "explanation": "Un modelo de servicio que le permite utilizar el software directamente con una suscripción a través de Internet en lugar de instalarlo en su computadora."
+    },
+    {
+      "term": "PaaS",
+      "explanation": "Proporcionar infraestructura preparada a través de Internet para que los desarrolladores de software desarrollen y publiquen sus propias aplicaciones."
+    },
+    {
+      "term": "IaaS",
+      "explanation": "Utilizar recursos básicos de hardware como servidor, almacenamiento y red para alquilar a través de Internet."
+    },
+    {
+      "term": "static typing",
+      "explanation": "Determinar y verificar el tipo de datos en un lenguaje de programación antes de ejecutar el código."
+    },
+    {
+      "term": "plugins",
+      "explanation": "Pequeñas utilidades que añaden nuevas funciones a un programa principal."
+    },
+    {
+      "term": "specification",
+      "explanation": "Una lista detallada de reglas y requisitos técnicos que especifican cómo debe funcionar un software o producto."
+    },
+    {
+      "term": "AI observability",
+      "explanation": "El proceso de monitorear cómo funcionan los sistemas de inteligencia artificial y rastrear sus errores y comportamiento."
+    },
+    {
+      "term": "red teaming",
+      "explanation": "El intento de encontrar vulnerabilidades haciéndose pasar por un atacante malicioso para probar la seguridad de un sistema."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligencia artificial entrenados con enormes datos que pueden comprender el lenguaje humano y producir texto."
+    },
+    {
+      "term": "Language Server Protocol",
+      "explanation": "Un método de comunicación estándar que permite que las herramientas codificadas funcionen de forma compatible con diferentes lenguajes de programación."
+    },
+    {
+      "term": "web scraping",
+      "explanation": "El proceso de copiar y recopilar datos de sitios web utilizando herramientas automatizadas."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Tecnología de inteligencia artificial que puede producir contenido nuevo, como texto, imágenes o audio, utilizando datos existentes."
+    }
+  ]
+}

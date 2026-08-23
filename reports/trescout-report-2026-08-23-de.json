@@ -1,0 +1,376 @@
+{
+  "date": "2026-08-23",
+  "capturedAt": "2026-08-23T04:39:30.411Z",
+  "editorial": "In der heutigen Softwarewelt stehen speichereffizienzorientierte Rust-basierte Tools (LSP) und sich selbst entwickelnde autonome Agenten im Vordergrund. Die neuen Modelle der Qwen-Serie und die möglichen Auswirkungen von Handelskriegen auf die Technologielieferkette sind die Hauptfaktoren, die die aktuelle Agenda der Branche bestimmen.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "summary": "Codex wurde mit der Rust-Sprache entwickelt und ist ein einfacher Codierungsagent, der auf dem Terminal ausgeführt wird. Es bietet Codevorschläge und -bearbeitungen direkt über die Befehlszeile, um Softwareentwicklungsprozesse zu beschleunigen.",
+          "meta": "Rust · ★ 113.793 · +1.544 heute"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Dieses von Matt Pocock geteilte Repository enthält maßgeschneiderte Kompetenzpakete, mit denen Softwareentwickler Agenten für künstliche Intelligenz trainieren. Ziel dieser vorgefertigten Befehlssätze, die Entwickler in ihren eigenen Arbeitsumgebungen nutzen, ist die Beschleunigung von Automatisierungsprozessen.",
+          "meta": "Shell · ★ 232.397 · +2.683 heute"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC ist ein System zur Leistungssteigerung, das die Leistungsfähigkeit, den Speicher und die Sicherheitsebenen für KI-Agenten optimiert. Plattformen wie Claude Code und das Codebearbeitungstool Cursor sollen die Effizienz agentenbasierter Workflows steigern.",
+          "meta": "JavaScript · ★ 242.232 · +411 heute"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers ist ein Framework für Agentenfähigkeiten und eine Softwareentwicklungsmethodik, die für Agenten der künstlichen Intelligenz entwickelt wurde. Durch die Standardisierung von Softwareprozessen können agentenbasierte Arbeitsabläufe effizienter ausgeführt werden.",
+          "meta": "Shell · ★ 276.259 · +592 heute"
+        },
+        {
+          "title": "Wei-Shaw/sub2api",
+          "url": "https://github.com/Wei-Shaw/sub2api",
+          "summary": "Sub2API ist ein Open-Source-Migrationsdienst, der verschiedene KI-Abonnements wie Claude, OpenAI, Gemini und Grok in einer einzigen Schnittstelle vereint. Während es Benutzern ermöglicht, die Abonnementkosten zu teilen, bietet es die Möglichkeit, diese Dienste auf integrierte Weise mit vorhandenen Tools zu nutzen.",
+          "meta": "Go · ★ 38.838 · +278 heute"
+        },
+        {
+          "title": "makeplane/plane",
+          "url": "https://github.com/makeplane/plane",
+          "summary": "Plane ist eine Open-Source-Projektmanagementplattform, die die Verwaltung von Aufgaben, Sprintprozessen und Dokumentation ermöglicht. Es bietet eine Alternative zu beliebten Job-Tracking-Tools wie Jira, Linear, Monday und ClickUp, die Sie auf Ihrem eigenen Server hosten können.",
+          "meta": "TypeScript · ★ 57.275 · +263 heute"
+        },
+        {
+          "title": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "summary": "n8n ist eine Workflow-Automatisierungsplattform, die Daten zwischen verschiedenen Anwendungen überträgt und Geschäftsprozesse automatisiert. Durch die Kombination einer visuellen Benutzeroberfläche mit dem Schreiben von benutzerdefiniertem Code kann dieses Tool sowohl in der Cloud als auch auf Ihrem eigenen Server ausgeführt werden und unterstützt mehr als 400 Integrationen.",
+          "meta": "TypeScript · ★ 201.890 · +149 heute"
+        },
+        {
+          "title": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "summary": "Claude Code wurde von Anthropics entwickelt und ist ein Agent für künstliche Intelligenz, der auf dem Terminal läuft und Softwareentwicklungsprozesse mit Befehlen in natürlicher Sprache beschleunigt. Das Tool führt Routineaufgaben aus, indem es die Codebasis analysiert, Prozesse wie das Kommentieren komplexer Codeblöcke und die Verwaltung der Git-Workflows des Versionskontrollsystems automatisiert.",
+          "meta": "Python · ★ 142.597 · +127 heute"
+        },
+        {
+          "title": "AprilNEA/OpenLogi",
+          "url": "https://github.com/AprilNEA/OpenLogi",
+          "summary": "OpenLogi bietet eine native Open-Source-Alternative zur Logitech Options+-Software zur Verwaltung von Logitech-Peripheriegeräten. Dieses mit der Rust-Sprache entwickelte Tool ermöglicht es Ihnen, Tastenzuweisungen, Empfindlichkeitseinstellungen (DPI) und SmartShift-Funktionen direkt auf der Hardware zu konfigurieren, ohne Benutzerdaten zu verfolgen.",
+          "meta": "Rust · ★ 14.077 · +959 heute"
+        },
+        {
+          "title": "modular/modular",
+          "url": "https://github.com/modular/modular",
+          "summary": "Modular bietet eine Infrastruktur, die die MAX-Plattform und die Python-basierte Programmiersprache Mojo umfasst, die für die Ausführung von Modellen der künstlichen Intelligenz entwickelt wurde. Diese Plattform bietet eine hardwarebeschleunigte Arbeitsumgebung für die Entwicklung leistungsstarker Anwendungen für künstliche Intelligenz.",
+          "meta": "Mojo · ★ 28.873 · +395 heute"
+        },
+        {
+          "title": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "summary": "Basierend auf Andrej Karpathys Beobachtungen zu Fehlern beim Codieren mit großen Sprachmodellen (LLM) zielt CLAUDE.md darauf ab, die Leistung von Claude Code, einem durch künstliche Intelligenz unterstützten Codierungstool, zu optimieren. Diese Konfigurationsdatei dient Entwicklern als Leitfaden, um mithilfe künstlicher Intelligenz eine konsistentere und fehlerfreiere Codeausgabe zu erzielen.",
+          "meta": "★ 205.391 · +315 heute"
+        },
+        {
+          "title": "mahlernim/google-timeline-visualizer",
+          "url": "https://github.com/mahlernim/google-timeline-visualizer",
+          "summary": "Google Timeline Visualizer ist ein Tool, das das ganze Jahr über Reisen auf einer Karte mithilfe von Google-Standortverlaufsdaten visualisiert. Diese in der Kotlin-Sprache entwickelte Anwendung bietet Benutzern die Möglichkeit, persönliche Reiserouten zu analysieren und anzuzeigen.",
+          "meta": "Kotlin · ★ 2.595 · +441 heute"
+        },
+        {
+          "title": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "summary": "„Free-for-dev“ ist eine umfassende Liste, die Softwareentwicklern und Systemadministratoren dabei hilft, Softwaredienste (SaaS), Plattformdienste (PaaS) und Infrastrukturdienste (IaaS) zu finden, die ein kostenloses Kontingent bieten. Es sammelt Tools, die Entwickler bei der Kostenverwaltung aus einer einzigen Quelle nutzen können.",
+          "meta": "HTML · ★ 133.988 · +829 heute"
+        },
+        {
+          "title": "microsoft/TypeScript",
+          "url": "https://github.com/microsoft/TypeScript",
+          "summary": "TypeScript wurde von Microsoft entwickelt und ist eine Obermenge, die der JavaScript-Sprache eine statische Typprüfung hinzufügt. Es wandelt JavaScript-Code in eine sicherere und skalierbarere Struktur um, um Fehler in einem frühen Stadium des Softwareentwicklungsprozesses zu erkennen.",
+          "meta": "Go · ★ 110.561 · +104 heute"
+        },
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "Das Codebearbeitungstool Cursor hat eine offizielle Plugin-Spezifikation veröffentlicht, die es Entwicklern ermöglicht, ihre eigenen Plugins zu erstellen. Diese Struktur bietet ein TypeScript-basiertes Framework, das es Benutzern ermöglicht, das KI-gestützte Codierungserlebnis anzupassen.",
+          "meta": "TypeScript · ★ 4.695 · +286 heute"
+        },
+        {
+          "title": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "summary": "PostHog ist ein Softwareentwicklungstool, das Tools wie Analyse, Sitzungsaufzeichnung und Fehlerverfolgung in einer einzigen Plattform vereint, um Produktentwicklungsprozesse zu beschleunigen. Dank seiner KI-Beobachtbarkeitsfunktionen ermöglicht es Softwareteams, die Produktleistung zu überwachen und die Benutzererfahrung zu verbessern.",
+          "meta": "Python · ★ 38.665 · +286 heute"
+        },
+        {
+          "title": "Tencent/AI-Infra-Guard",
+          "url": "https://github.com/Tencent/AI-Infra-Guard",
+          "summary": "AI-Infra-Guard wurde von Tencent entwickelt und ist eine umfassende Red-Teaming-Plattform, die darauf abzielt, Ökosysteme der künstlichen Intelligenz vor Schwachstellen zu schützen. Das System bewertet mögliche Sicherheitsbedrohungen, indem es Agentenfunktionen, Infrastrukturkomponenten und große Sprachmodelle scannt.",
+          "meta": "Python · ★ 5.552 · +150 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+          "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+          "summary": "Kanada kündigte an, als Reaktion auf die von den USA nach dem Scheitern der Handelsverhandlungen erhobenen Zölle in gleicher Höhe zurückzuschlagen. Diese Entscheidung zeigt, dass die Spannungen in den Handelsbeziehungen zwischen den beiden Ländern eskalieren.",
+          "meta": "549 Punkte · 1.328 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49397074",
+              "popularity": 549,
+              "engagementCount": 1328
+            }
+          ]
+        },
+        {
+          "title": "Rust Glancer: Rust LSP using 100x less RAM",
+          "url": "https://rust-glancer.github.io/blog/hello-world/",
+          "summary": "Rust Glancer ist ein Code-Analysetool, das für die Rust-Sprache entwickelt wurde und 100-mal weniger Speicher verbraucht als Standard-Sprachserverprotokollanwendungen. Diese Lösung zur Optimierung der Speichernutzung zielt darauf ab, die Leistung von Entwicklungsumgebungen in großen Projekten zu steigern.",
+          "meta": "407 Punkte · 99 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49393052",
+              "popularity": 407,
+              "engagementCount": 99
+            }
+          ]
+        },
+        {
+          "title": "Scrap (2006)",
+          "url": "https://twitter.com/moxie/status/2091218652133732491",
+          "summary": "Das von Moxie Marlinspike geteilte Scrap-Projekt aus dem Jahr 2006 ist ein Tool, das den Prozess des Extrahierens von Daten aus Webseiten (Web-Scraping) automatisiert. Es erleichtert den Zugriff auf Daten, indem es den Prozess der Informationsextraktion aus komplexen Websites vereinfacht.",
+          "meta": "342 Punkte · 185 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49402189",
+              "popularity": 342,
+              "engagementCount": 185
+            }
+          ]
+        },
+        {
+          "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+          "url": "https://quantumi.sh/public/labs.html",
+          "summary": "Unternehmen wie ElevenLabs, TwelveLabs und ThirteenLabs konzentrieren sich auf auf künstlicher Intelligenz basierende Technologien zur Inhaltsgenerierung (generative KI) in Audio- und Videoverarbeitungsprozessen. Diese Startups entwickeln Tools zur Erstellung digitaler Inhalte mit speziellen Modellen, die Mediendaten analysieren und transformieren.",
+          "meta": "342 Punkte · 108 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49400408",
+              "popularity": 342,
+              "engagementCount": 108
+            }
+          ]
+        },
+        {
+          "title": "Hister – A private, full content search index that you control",
+          "url": "https://hister.org/",
+          "summary": "Hister ist ein privater, vollständiger Suchindex, der Ihnen die volle Kontrolle über Ihre persönlichen Daten gibt. Durch die lokale Indizierung Ihrer Daten im Internet können Sie schnelle und datenschutzorientierte Suchen durchführen, ohne dass Server von Drittanbietern erforderlich sind.",
+          "meta": "276 Punkte · 73 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49351802",
+              "popularity": 276,
+              "engagementCount": 73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Qwen2.5-VL wurde von Alibaba entwickelt und ist ein multimodales Modell der künstlichen Intelligenz, das visuelle und Textdaten verarbeiten und analysieren kann. Dank seiner Bild-zu-Text-Fähigkeit beantwortet es Benutzerfragen, indem es komplexe visuelle Inhalte versteht.",
+          "meta": "♥ 12.174 · 2.090.699 Downloads"
+        },
+        {
+          "title": "unsloth/Qwen3.8-27B-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "summary": "Unsloth bietet eine optimierte Version (GGUF) an, um das Sprachmodell Qwen2.5-27B schneller zu trainieren und auszuführen. Dieses Format nutzt Hardwareressourcen effizient und ermöglicht die Ausführung großer Sprachmodelle auf lokalen Geräten mit geringerem Speicherverbrauch.",
+          "meta": "♥ 2.643 · 6.320.542 Downloads"
+        },
+        {
+          "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "summary": "Qwen3.8-27B-Uncensored-MLX, geteilt auf Hugging Face, ist ein Modell der künstlichen Intelligenz, das Textausgaben durch die Verarbeitung von visuellen und Texteingaben erzeugt. Optimiert mit der MLX-Bibliothek, die eine schnelle Bedienung auf Apple-Geräten ermöglicht, bietet dieses Modell eine Struktur ohne inhaltliche Einschränkungen.",
+          "meta": "♥ 889 · 34.909 Downloads"
+        },
+        {
+          "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+          "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
+          "summary": "Qwen3.8-27B-Uncensored-FP8, geteilt auf Hugging Face, ist ein multimodales Modell der künstlichen Intelligenz, das visuelle und Textdaten verarbeiten kann. Das Modell zeichnet sich durch seine inhaltsfreie Struktur und die Gleitkomma-8-Bit-Präzision (FP8) aus, die für eine geringe Speichernutzung sorgt.",
+          "meta": "♥ 996 · 142.846 Downloads"
+        },
+        {
+          "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+          "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+          "summary": "Qwen3.8-27B-OBLITERATED ist eine Version des Textgenerierungsmodells Qwen ohne Sicherheitseinschränkungen. Das Modell bietet eine größere Bandbreite an Antworten, indem es die Inhaltsfilter und Ablehnungsmechanismen umgeht, die von Standard-Sprachmodellen implementiert werden.",
+          "meta": "♥ 550 · 164.950 Downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
+          "url": "https://huggingface.co/papers/2607.21596",
+          "summary": "FlowEvo ist ein Framework, das es Agenten der künstlichen Intelligenz ermöglicht, ihre Arbeitsabläufe und ausführbaren Fähigkeiten gemeinsam bei der Inferenz zu entwickeln. Es verwandelt erfolgreiche Arbeitsabläufe in dauerhafte Fähigkeiten und ermöglicht es Agenten, aus ihren Erfahrungen zu lernen und dieses Wissen bei nachfolgenden Aufgaben zu nutzen.",
+          "meta": "2 Likes · 2 Kommentare"
+        },
+        {
+          "title": "TinyCast: Probabilistic Zero-Shot Forecasting with Computed Periodicity",
+          "url": "https://huggingface.co/papers/2608.15767",
+          "summary": "TinyCast ist ein Zero-Shot-Prognosemodell, das keinen Aufmerksamkeitsmechanismus verwendet und mit nur 146.000 Parametern arbeitet. Diese Methode, die periodische Strukturen in den Daten berechnet, anstatt sie zu lernen, erzeugt probabilistische Vorhersagen, indem sie weniger Ressourcen verbraucht als andere Modelle ähnlicher Größenordnung.",
+          "meta": "8 Likes · 2 Kommentare"
+        },
+        {
+          "title": "The Embedder's Dilemma: LLMs Are Better, but at What Cost?",
+          "url": "https://huggingface.co/papers/2608.12875",
+          "summary": "Der Leistungsvergleich zwischen herkömmlichen Texteinbettungsmodellen und großen Sprachmodellen zeigt, dass die beiden Ansätze bei unterschiedlichen Aufgaben ähnliche Ergebnisse liefern. Bei der Auswahl müssen Betriebskosten- und Effizienzkriterien sowie die Leistungsbilanz berücksichtigt werden.",
+          "meta": "8 Likes · 3 Kommentare"
+        },
+        {
+          "title": "τ_0-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation",
+          "url": "https://huggingface.co/papers/2608.16885",
+          "summary": "τ_0-VLA ist ein hierarchisches Roboterfundamentmodell, das die Rechenleistung während der Testzeit für komplexe Entscheidungen bei Robotermanipulationsaufgaben erhöht. Dieses Modell führt langfristige Operationen konsistenter durch, indem es Unteraufgaben auf hoher Ebene unter Anleitung des Weltmodells plant.",
+          "meta": "9 Likes · 2 Kommentare"
+        },
+        {
+          "title": "QuoteBench: How Matched Scores Can Hide Command-Path Failures",
+          "url": "https://huggingface.co/papers/2608.13547",
+          "summary": "QuoteBench ist ein Bewertungsframework, das Fehler während der Ausführungsphase von Befehlen erkennt, die von großen Sprachmodellen erstellt werden, die Code schreiben. Anstatt sich ausschließlich auf Übereinstimmungswerte zu konzentrieren, werden Fehlerquellen isoliert, indem Abweichungen zwischen den vom Modell generierten Befehlen und der Art und Weise, wie das System sie verarbeitet, gemessen werden.",
+          "meta": "7 Likes · 2 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "You should never be angry at work",
+          "url": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
+          "summary": "Dieser Ansatz, der argumentiert, dass Wut am Arbeitsplatz berufliche Prozesse beeinträchtigt, empfiehlt eine logische, lösungsorientierte Kommunikation anstelle emotionaler Reaktionen. Die Fähigkeit der Mitarbeiter, mit ihren Emotionen umzugehen und Konflikte professionell zu lösen, zielt darauf ab, sowohl die individuelle Produktivität als auch die Zusammenarbeit im Team zu erhalten.",
+          "meta": "73 Punkte · 43 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/mbmn1f/you_should_never_be_angry_at_work",
+              "popularity": 73,
+              "engagementCount": 43
+            }
+          ]
+        },
+        {
+          "title": "There continue to be reasons for software to be slow",
+          "url": "https://typesanitizer.com/blog/performance-issues.html",
+          "summary": "Die Hauptgründe für eine geringe Softwareleistung liegen in der ineffizienten Nutzung von Hardwareressourcen und komplexen Softwarearchitekturen. Entwickler geben an, dass die Konzentration auf Funktionalität und Wartbarkeit statt auf Geschwindigkeit auf lange Sicht zu einer Verlangsamung des Systems führt.",
+          "meta": "20 Punkte · 16 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/zibquu/there_continue_be_reasons_for_software_be",
+              "popularity": 20,
+              "engagementCount": 16
+            }
+          ]
+        },
+        {
+          "title": "NetBSD and my life (2005)",
+          "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+          "summary": "Das NetBSD-Betriebssystem bietet mit seiner stark portabilitätsorientierten Struktur eine konsistente Betriebsumgebung über verschiedene Hardwarearchitekturen hinweg. Der Entwicklungsprozess der Software spiegelt einen Ansatz wider, der sich auf die Benutzererfahrung bei der Systemverwaltung und Hardwareunterstützung konzentriert.",
+          "meta": "24 Punkte · 2 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/a23bk3/netbsd_my_life_2005",
+              "popularity": 24,
+              "engagementCount": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "Die Fähigkeiten, über die eine Software oder künstliche Intelligenz verfügt, um eine bestimmte Aufgabe auszuführen."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "Eine Reihe struktureller Fähigkeiten, die es Systemen der künstlichen Intelligenz ermöglichen, selbstständig Entscheidungen zu treffen und komplexe Aufgaben auszuführen."
+    },
+    {
+      "term": "DPI",
+      "explanation": "Die Anzahl der Punkte pro Zoll, die die Bildqualität eines Displays oder Druckers bestimmt."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Fortgeschrittene Modelle künstlicher Intelligenz, die darauf trainiert sind, menschliche Sprache zu lernen und Texte zu transkribieren, zusammenzufassen oder zu übersetzen."
+    },
+    {
+      "term": "SaaS",
+      "explanation": "Ein Servicemodell, das es Ihnen ermöglicht, die Software direkt mit einem Abonnement über das Internet zu nutzen, anstatt sie auf Ihrem Computer zu installieren."
+    },
+    {
+      "term": "PaaS",
+      "explanation": "Bereitstellung einer vorgefertigten Infrastruktur über das Internet für Softwareentwickler zur Entwicklung und Veröffentlichung eigener Anwendungen."
+    },
+    {
+      "term": "IaaS",
+      "explanation": "Nutzung grundlegender Hardwareressourcen wie Server, Speicher und Netzwerk zur Miete über das Internet."
+    },
+    {
+      "term": "static typing",
+      "explanation": "Bestimmen und Überprüfen des Datentyps in einer Programmiersprache, bevor der Code ausgeführt wird."
+    },
+    {
+      "term": "plugins",
+      "explanation": "Kleine Dienstprogramme, die einem Hauptprogramm neue Funktionen hinzufügen."
+    },
+    {
+      "term": "specification",
+      "explanation": "Eine detaillierte Liste technischer Regeln und Anforderungen, die festlegen, wie eine Software oder ein Produkt funktionieren soll."
+    },
+    {
+      "term": "AI observability",
+      "explanation": "Der Prozess der Überwachung der Funktionsweise künstlicher Intelligenzsysteme und der Verfolgung ihrer Fehler und ihres Verhaltens."
+    },
+    {
+      "term": "red teaming",
+      "explanation": "Der Versuch, Schwachstellen zu finden, indem man sich als böswilliger Angreifer ausgibt, um die Sicherheit eines Systems zu testen."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Mit riesigen Datenmengen trainierte Modelle der künstlichen Intelligenz, die menschliche Sprache verstehen und Texte produzieren können."
+    },
+    {
+      "term": "Language Server Protocol",
+      "explanation": "Eine Standardkommunikationsmethode, die es codierten Tools ermöglicht, kompatibel mit verschiedenen Programmiersprachen zu arbeiten."
+    },
+    {
+      "term": "web scraping",
+      "explanation": "Der Prozess des Kopierens und Sammelns von Daten von Websites mithilfe automatisierter Tools."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Künstliche Intelligenz-Technologie, die unter Verwendung bestehender Daten neue Inhalte wie Texte, Bilder oder Audio erzeugen kann."
+    }
+  ]
+}

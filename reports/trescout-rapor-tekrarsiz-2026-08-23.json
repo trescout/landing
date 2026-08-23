@@ -1,0 +1,225 @@
+{
+  "date": "2026-08-23",
+  "capturedAt": "2026-08-23T04:39:32.479Z",
+  "editorial": "Bu rapor, son günlerde paylaştıklarımızı tekrarlamadan bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "summary": "Rust diliyle geliştirilen Codex, terminal üzerinde çalışan hafif bir kodlama ajanıdır. Yazılım geliştirme süreçlerini hızlandırmak için komut satırı üzerinden doğrudan kod önerileri ve düzenlemeleri sunar.",
+          "meta": "Rust · ★ 113.793 · +1.544 bugün"
+        },
+        {
+          "title": "Wei-Shaw/sub2api",
+          "url": "https://github.com/Wei-Shaw/sub2api",
+          "summary": "Sub2API, Claude, OpenAI, Gemini ve Grok gibi farklı yapay zekâ aboneliklerini tek bir arayüzde birleştiren açık kaynaklı bir geçiş servisidir. Kullanıcıların abonelik maliyetlerini paylaşmasına olanak tanırken, bu servisleri mevcut araçlarla entegre bir şekilde kullanma imkânı sağlar.",
+          "meta": "Go · ★ 38.838 · +278 bugün"
+        },
+        {
+          "title": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "summary": "n8n, farklı uygulamalar arasında veri akışı sağlayan ve iş süreçlerini otomatikleştiren bir iş akışı otomasyon platformudur. Görsel bir arayüz ile özel kod yazımını birleştiren bu araç, 400'den fazla entegrasyon desteğiyle hem bulut üzerinde hem de kendi sunucunuzda çalışabilir.",
+          "meta": "TypeScript · ★ 201.890 · +149 bugün"
+        },
+        {
+          "title": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "summary": "Anthropics tarafından geliştirilen Claude Code, terminal üzerinde çalışan ve doğal dil komutlarıyla yazılım geliştirme süreçlerini hızlandıran bir yapay zekâ ajanıdır. Kod tabanını analiz ederek rutin görevleri yerine getiren araç, karmaşık kod bloklarını açıklama ve sürüm kontrol sistemi Git iş akışlarını yönetme gibi işlemleri otomatikleştirir.",
+          "meta": "Python · ★ 142.597 · +127 bugün",
+          "returning": true
+        },
+        {
+          "title": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "summary": "Andrej Karpathy'nin büyük dil modelleriyle (LLM) kodlama yaparken karşılaşılan hatalara dair gözlemlerini temel alan CLAUDE.md dosyası, yapay zekâ destekli kod yazma aracı Claude Code'un performansını optimize etmeyi amaçlıyor. Bu yapılandırma dosyası, geliştiricilerin yapay zekâdan daha tutarlı ve hatasız kod çıktıları alması için bir rehber görevi görüyor.",
+          "meta": "★ 205.391 · +315 bugün"
+        },
+        {
+          "title": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "summary": "Free-for-dev, yazılım geliştiricilerin ve sistem yöneticilerinin ücretsiz katman sunan yazılım hizmetlerini (SaaS), platform hizmetlerini (PaaS) ve altyapı hizmetlerini (IaaS) bulmasını sağlayan kapsamlı bir liste. Geliştiricilerin maliyet yönetimi yaparken kullanabileceği araçları tek bir kaynakta topluyor.",
+          "meta": "HTML · ★ 133.988 · +829 bugün",
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+          "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+          "summary": "Kanada, ticaret görüşmelerinin sonuçsuz kalması üzerine Amerika Birleşik Devletleri'nin uyguladığı gümrük vergilerine karşılık olarak aynı tutarda misilleme yapacağını duyurdu. Bu karar, iki ülke arasındaki ticari ilişkilerde yaşanan gerilimin tırmandığını gösteriyor.",
+          "meta": "549 oy · 1.328 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49397074",
+              "popularity": 549,
+              "engagementCount": 1328
+            }
+          ]
+        },
+        {
+          "title": "Rust Glancer: Rust LSP using 100x less RAM",
+          "url": "https://rust-glancer.github.io/blog/hello-world/",
+          "summary": "Rust Glancer, Rust dili için geliştirilen ve standart dil sunucusu protokolü (Language Server Protocol) uygulamalarına kıyasla 100 kat daha az bellek tüketen bir kod analiz aracı. Bellek kullanımını optimize eden bu çözüm, büyük projelerde geliştirme ortamlarının performansını artırmayı hedefliyor.",
+          "meta": "407 oy · 99 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49393052",
+              "popularity": 407,
+              "engagementCount": 99
+            }
+          ]
+        },
+        {
+          "title": "Scrap (2006)",
+          "url": "https://twitter.com/moxie/status/2091218652133732491",
+          "summary": "Moxie Marlinspike tarafından paylaşılan 2006 tarihli Scrap projesi, web sayfalarından veri çekme (web scraping) işlemini otomatikleştiren bir araçtır. Karmaşık yapıdaki internet sitelerinden bilgi ayıklama sürecini basitleştirerek veriye erişimi kolaylaştırır.",
+          "meta": "342 oy · 185 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49402189",
+              "popularity": 342,
+              "engagementCount": 185
+            }
+          ]
+        },
+        {
+          "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+          "url": "https://quantumi.sh/public/labs.html",
+          "summary": "ElevenLabs, TwelveLabs ve ThirteenLabs gibi şirketler, ses ve video işleme süreçlerinde yapay zekâ tabanlı içerik üretimi (generative AI) teknolojilerine odaklanıyor. Bu girişimler, medya verilerini analiz eden ve dönüştüren özelleşmiş modellerle dijital içerik oluşturma araçlarını geliştiriyor.",
+          "meta": "342 oy · 108 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49400408",
+              "popularity": 342,
+              "engagementCount": 108
+            }
+          ]
+        },
+        {
+          "title": "Hister – A private, full content search index that you control",
+          "url": "https://hister.org/",
+          "summary": "Hister, kişisel verileriniz üzerinde tam kontrol sağlayan özel bir tam metin arama dizini (full content search index). İnternet üzerindeki verilerinizi yerel olarak indeksleyerek, üçüncü taraf sunuculara ihtiyaç duymadan hızlı ve gizlilik odaklı arama yapmanıza olanak tanıyor.",
+          "meta": "276 oy · 73 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49351802",
+              "popularity": 276,
+              "engagementCount": 73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+          "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+          "summary": "Qwen3.8-27B-OBLITERATED, metin üretim modeli (text-generation model) Qwen'in güvenlik kısıtlamalarından arındırılmış bir sürümüdür. Model, standart dil modellerinin uyguladığı içerik filtrelerini ve reddetme mekanizmalarını devre dışı bırakarak daha geniş bir yanıt yelpazesi sunar.",
+          "meta": "♥ 550 · 164.950 indirme"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": []
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "You should never be angry at work",
+          "url": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
+          "summary": "İş yerinde hissedilen öfkenin profesyonel süreçlere zarar verdiğini savunan bu yaklaşım, duygusal tepkiler yerine mantıksal çözüm odaklı iletişimi öneriyor. Çalışanların duygularını yöneterek çatışmaları profesyonel bir çerçevede çözmesi, hem bireysel verimliliği hem de ekip içi iş birliğini korumayı hedefliyor.",
+          "meta": "73 oy · 43 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/mbmn1f/you_should_never_be_angry_at_work",
+              "popularity": 73,
+              "engagementCount": 43
+            }
+          ]
+        },
+        {
+          "title": "There continue to be reasons for software to be slow",
+          "url": "https://typesanitizer.com/blog/performance-issues.html",
+          "summary": "Yazılım performansının düşük kalmasının temel nedenleri, donanım kaynaklarının verimsiz kullanımı ve karmaşık yazılım mimarileriyle ilişkilendiriliyor. Geliştiriciler, hızdan ziyade işlevsellik ve bakım kolaylığına odaklanmanın uzun vadede sistem yavaşlıklarına yol açtığını belirtiyor.",
+          "meta": "20 oy · 16 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/zibquu/there_continue_be_reasons_for_software_be",
+              "popularity": 20,
+              "engagementCount": 16
+            }
+          ]
+        },
+        {
+          "title": "NetBSD and my life (2005)",
+          "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+          "summary": "NetBSD işletim sistemi, yüksek taşınabilirlik (portability) odaklı yapısıyla farklı donanım mimarilerinde tutarlı bir çalışma ortamı sunuyor. Yazılımın geliştirilme süreci, sistem yönetimi ve donanım desteği konularında kullanıcı deneyimini merkeze alan bir yaklaşımı yansıtıyor.",
+          "meta": "24 oy · 2 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/a23bk3/netbsd_my_life_2005",
+              "popularity": 24,
+              "engagementCount": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "Bir yazılımın veya yapay zekânın belirli bir görevi yerine getirmek için sahip olduğu yetenekler."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnsan dilini öğrenip metin yazma, özetleme veya çeviri yapma konusunda eğitilmiş gelişmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "SaaS",
+      "explanation": "Yazılımı bilgisayarınıza kurmak yerine internet üzerinden bir abonelikle doğrudan kullanmanızı sağlayan hizmet modeli."
+    },
+    {
+      "term": "PaaS",
+      "explanation": "Yazılımcıların kendi uygulamalarını geliştirmeleri ve yayınlamaları için gereken altyapının internet üzerinden hazır sunulması."
+    },
+    {
+      "term": "IaaS",
+      "explanation": "Sunucu, depolama ve ağ gibi temel donanım kaynaklarının internet üzerinden kiralık olarak kullanılması."
+    },
+    {
+      "term": "Language Server Protocol",
+      "explanation": "Kod yazılan araçların farklı programlama dilleriyle uyumlu çalışmasını sağlayan standart bir iletişim yöntemi."
+    },
+    {
+      "term": "web scraping",
+      "explanation": "İnternet sitelerindeki verileri otomatik araçlar kullanarak kopyalayıp toplama işlemi."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Var olan verileri kullanarak yeni metin, görsel veya ses gibi içerikler üretebilen yapay zekâ teknolojisi."
+    }
+  ]
+}

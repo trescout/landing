@@ -1,0 +1,225 @@
+{
+  "date": "2026-08-23",
+  "capturedAt": "2026-08-23T04:39:32.479Z",
+  "editorial": "This report includes the trends that emerged today for the first time, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "summary": "Developed with the Rust language, Codex is a lightweight coding agent that runs on the terminal. It offers code suggestions and edits directly via the command line to speed up software development processes.",
+          "meta": "Rust · ★ 113,793 · +1,544 today"
+        },
+        {
+          "title": "Wei-Shaw/sub2api",
+          "url": "https://github.com/Wei-Shaw/sub2api",
+          "summary": "Sub2API is an open source migration service that combines different AI subscriptions such as Claude, OpenAI, Gemini and Grok into a single interface. While it allows users to share subscription costs, it provides the opportunity to use these services in an integrated manner with existing tools.",
+          "meta": "Go · ★ 38,838 · +278 today"
+        },
+        {
+          "title": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "summary": "n8n is a workflow automation platform that flows data between different applications and automates business processes. Combining a visual interface with custom code writing, this tool can run both on the cloud and on your own server, with support for more than 400 integrations.",
+          "meta": "TypeScript · ★ 201,890 · +149 today"
+        },
+        {
+          "title": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "summary": "Developed by Anthropics, Claude Code is an artificial intelligence agent that runs on the terminal and accelerates software development processes with natural language commands. The tool performs routine tasks by analyzing the code base, automates processes such as annotating complex code blocks and managing version control system Git workflows.",
+          "meta": "Python · ★ 142,597 · +127 today",
+          "returning": true
+        },
+        {
+          "title": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "summary": "Based on Andrej Karpathy's observations about errors encountered when coding with large language models (LLM), CLAUDE.md aims to optimize the performance of Claude Code, an artificial intelligence-supported coding tool. This configuration file serves as a guide for developers to get more consistent and error-free code output from artificial intelligence.",
+          "meta": "★ 205,391 · +315 today"
+        },
+        {
+          "title": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "summary": "Free-for-dev is a comprehensive list that helps software developers and system administrators find software services (SaaS), platform services (PaaS), and infrastructure services (IaaS) that offer a free tier. It collects tools that developers can use when managing costs in a single source.",
+          "meta": "HTML · ★ 133,988 · +829 today",
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+          "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+          "summary": "Canada announced that it would retaliate with the same amount in response to the customs duties imposed by the United States after trade negotiations failed. This decision shows that the tension in commercial relations between the two countries is escalating.",
+          "meta": "549 points · 1,328 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49397074",
+              "popularity": 549,
+              "engagementCount": 1328
+            }
+          ]
+        },
+        {
+          "title": "Rust Glancer: Rust LSP using 100x less RAM",
+          "url": "https://rust-glancer.github.io/blog/hello-world/",
+          "summary": "Rust Glancer is a code analysis tool developed for the Rust language and consumes 100 times less memory than standard language server protocol applications. This solution, which optimizes memory usage, aims to increase the performance of development environments in large projects.",
+          "meta": "407 points · 99 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49393052",
+              "popularity": 407,
+              "engagementCount": 99
+            }
+          ]
+        },
+        {
+          "title": "Scrap (2006)",
+          "url": "https://twitter.com/moxie/status/2091218652133732491",
+          "summary": "The 2006 Scrap project, shared by Moxie Marlinspike, is a tool that automates the process of extracting data from web pages (web scraping). It facilitates access to data by simplifying the process of extracting information from complex websites.",
+          "meta": "342 points · 185 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49402189",
+              "popularity": 342,
+              "engagementCount": 185
+            }
+          ]
+        },
+        {
+          "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+          "url": "https://quantumi.sh/public/labs.html",
+          "summary": "Companies such as ElevenLabs, TwelveLabs and ThirteenLabs focus on artificial intelligence-based content generation (generative AI) technologies in audio and video processing processes. These startups are developing digital content creation tools with specialized models that analyze and transform media data.",
+          "meta": "342 points · 108 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49400408",
+              "popularity": 342,
+              "engagementCount": 108
+            }
+          ]
+        },
+        {
+          "title": "Hister – A private, full content search index that you control",
+          "url": "https://hister.org/",
+          "summary": "Hister is a private full content search index that gives you full control over your personal data. By indexing your data on the Internet locally, it allows you to make fast and privacy-oriented searches without the need for third-party servers.",
+          "meta": "276 points · 73 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49351802",
+              "popularity": 276,
+              "engagementCount": 73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+          "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+          "summary": "Qwen3.8-27B-OBLITERATED is a version of the text-generation model Qwen without security restrictions. The model provides a wider range of responses by bypassing the content filters and rejection mechanisms implemented by standard language models.",
+          "meta": "♥ 550 · 164,950 downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": []
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "You should never be angry at work",
+          "url": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
+          "summary": "This approach, which argues that anger felt at work harms professional processes, recommends logical solution-oriented communication instead of emotional reactions. Employees' ability to manage their emotions and resolve conflicts in a professional manner aims to preserve both individual productivity and team collaboration.",
+          "meta": "73 points · 43 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/mbmn1f/you_should_never_be_angry_at_work",
+              "popularity": 73,
+              "engagementCount": 43
+            }
+          ]
+        },
+        {
+          "title": "There continue to be reasons for software to be slow",
+          "url": "https://typesanitizer.com/blog/performance-issues.html",
+          "summary": "The main reasons for low software performance are associated with inefficient use of hardware resources and complex software architectures. Developers state that focusing on functionality and maintainability rather than speed leads to system slowness in the long run.",
+          "meta": "20 points · 16 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/zibquu/there_continue_be_reasons_for_software_be",
+              "popularity": 20,
+              "engagementCount": 16
+            }
+          ]
+        },
+        {
+          "title": "NetBSD and my life (2005)",
+          "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+          "summary": "NetBSD operating system offers a consistent operating environment across different hardware architectures with its highly portability-oriented structure. The development process of the software reflects an approach that focuses on user experience in system management and hardware support.",
+          "meta": "24 points · 2 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/a23bk3/netbsd_my_life_2005",
+              "popularity": 24,
+              "engagementCount": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "The capabilities that a software or artificial intelligence has to perform a specific task."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Advanced artificial intelligence models trained to learn human language and transcribe, summarize or translate text."
+    },
+    {
+      "term": "SaaS",
+      "explanation": "A service model that allows you to use the software directly with a subscription over the internet instead of installing it on your computer."
+    },
+    {
+      "term": "PaaS",
+      "explanation": "Providing ready-made infrastructure over the internet for software developers to develop and publish their own applications."
+    },
+    {
+      "term": "IaaS",
+      "explanation": "Using basic hardware resources such as server, storage and network for rent over the internet."
+    },
+    {
+      "term": "Language Server Protocol",
+      "explanation": "A standard communication method that enables coded tools to work compatible with different programming languages."
+    },
+    {
+      "term": "web scraping",
+      "explanation": "The process of copying and collecting data from websites using automated tools."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Artificial intelligence technology that can produce new content such as text, visuals or audio using existing data."
+    }
+  ]
+}

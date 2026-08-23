@@ -1,0 +1,225 @@
+{
+  "date": "2026-08-23",
+  "capturedAt": "2026-08-23T04:39:32.479Z",
+  "editorial": "Dieser Bericht berücksichtigt zum ersten Mal die Trends, die sich heute abzeichneten, ohne zu wiederholen, was wir in den letzten Tagen mitgeteilt haben.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "summary": "Codex wurde mit der Rust-Sprache entwickelt und ist ein einfacher Codierungsagent, der auf dem Terminal ausgeführt wird. Es bietet Codevorschläge und -bearbeitungen direkt über die Befehlszeile, um Softwareentwicklungsprozesse zu beschleunigen.",
+          "meta": "Rust · ★ 113.793 · +1.544 heute"
+        },
+        {
+          "title": "Wei-Shaw/sub2api",
+          "url": "https://github.com/Wei-Shaw/sub2api",
+          "summary": "Sub2API ist ein Open-Source-Migrationsdienst, der verschiedene KI-Abonnements wie Claude, OpenAI, Gemini und Grok in einer einzigen Schnittstelle vereint. Während es Benutzern ermöglicht, die Abonnementkosten zu teilen, bietet es die Möglichkeit, diese Dienste auf integrierte Weise mit vorhandenen Tools zu nutzen.",
+          "meta": "Go · ★ 38.838 · +278 heute"
+        },
+        {
+          "title": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "summary": "n8n ist eine Workflow-Automatisierungsplattform, die Daten zwischen verschiedenen Anwendungen überträgt und Geschäftsprozesse automatisiert. Durch die Kombination einer visuellen Benutzeroberfläche mit dem Schreiben von benutzerdefiniertem Code kann dieses Tool sowohl in der Cloud als auch auf Ihrem eigenen Server ausgeführt werden und unterstützt mehr als 400 Integrationen.",
+          "meta": "TypeScript · ★ 201.890 · +149 heute"
+        },
+        {
+          "title": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "summary": "Claude Code wurde von Anthropics entwickelt und ist ein Agent für künstliche Intelligenz, der auf dem Terminal läuft und Softwareentwicklungsprozesse mit Befehlen in natürlicher Sprache beschleunigt. Das Tool führt Routineaufgaben aus, indem es die Codebasis analysiert, Prozesse wie das Kommentieren komplexer Codeblöcke und die Verwaltung der Git-Workflows des Versionskontrollsystems automatisiert.",
+          "meta": "Python · ★ 142.597 · +127 heute",
+          "returning": true
+        },
+        {
+          "title": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "summary": "Basierend auf Andrej Karpathys Beobachtungen zu Fehlern beim Codieren mit großen Sprachmodellen (LLM) zielt CLAUDE.md darauf ab, die Leistung von Claude Code, einem durch künstliche Intelligenz unterstützten Codierungstool, zu optimieren. Diese Konfigurationsdatei dient Entwicklern als Leitfaden, um mithilfe künstlicher Intelligenz eine konsistentere und fehlerfreiere Codeausgabe zu erzielen.",
+          "meta": "★ 205.391 · +315 heute"
+        },
+        {
+          "title": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "summary": "„Free-for-dev“ ist eine umfassende Liste, die Softwareentwicklern und Systemadministratoren dabei hilft, Softwaredienste (SaaS), Plattformdienste (PaaS) und Infrastrukturdienste (IaaS) zu finden, die ein kostenloses Kontingent bieten. Es sammelt Tools, die Entwickler bei der Kostenverwaltung aus einer einzigen Quelle nutzen können.",
+          "meta": "HTML · ★ 133.988 · +829 heute",
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+          "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+          "summary": "Kanada kündigte an, als Reaktion auf die von den USA nach dem Scheitern der Handelsverhandlungen erhobenen Zölle in gleicher Höhe zurückzuschlagen. Diese Entscheidung zeigt, dass die Spannungen in den Handelsbeziehungen zwischen den beiden Ländern eskalieren.",
+          "meta": "549 Punkte · 1.328 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49397074",
+              "popularity": 549,
+              "engagementCount": 1328
+            }
+          ]
+        },
+        {
+          "title": "Rust Glancer: Rust LSP using 100x less RAM",
+          "url": "https://rust-glancer.github.io/blog/hello-world/",
+          "summary": "Rust Glancer ist ein Code-Analysetool, das für die Rust-Sprache entwickelt wurde und 100-mal weniger Speicher verbraucht als Standard-Sprachserverprotokollanwendungen. Diese Lösung zur Optimierung der Speichernutzung zielt darauf ab, die Leistung von Entwicklungsumgebungen in großen Projekten zu steigern.",
+          "meta": "407 Punkte · 99 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49393052",
+              "popularity": 407,
+              "engagementCount": 99
+            }
+          ]
+        },
+        {
+          "title": "Scrap (2006)",
+          "url": "https://twitter.com/moxie/status/2091218652133732491",
+          "summary": "Das von Moxie Marlinspike geteilte Scrap-Projekt aus dem Jahr 2006 ist ein Tool, das den Prozess des Extrahierens von Daten aus Webseiten (Web-Scraping) automatisiert. Es erleichtert den Zugriff auf Daten, indem es den Prozess der Informationsextraktion aus komplexen Websites vereinfacht.",
+          "meta": "342 Punkte · 185 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49402189",
+              "popularity": 342,
+              "engagementCount": 185
+            }
+          ]
+        },
+        {
+          "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+          "url": "https://quantumi.sh/public/labs.html",
+          "summary": "Unternehmen wie ElevenLabs, TwelveLabs und ThirteenLabs konzentrieren sich auf auf künstlicher Intelligenz basierende Technologien zur Inhaltsgenerierung (generative KI) in Audio- und Videoverarbeitungsprozessen. Diese Startups entwickeln Tools zur Erstellung digitaler Inhalte mit speziellen Modellen, die Mediendaten analysieren und transformieren.",
+          "meta": "342 Punkte · 108 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49400408",
+              "popularity": 342,
+              "engagementCount": 108
+            }
+          ]
+        },
+        {
+          "title": "Hister – A private, full content search index that you control",
+          "url": "https://hister.org/",
+          "summary": "Hister ist ein privater, vollständiger Suchindex, der Ihnen die volle Kontrolle über Ihre persönlichen Daten gibt. Durch die lokale Indizierung Ihrer Daten im Internet können Sie schnelle und datenschutzorientierte Suchen durchführen, ohne dass Server von Drittanbietern erforderlich sind.",
+          "meta": "276 Punkte · 73 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49351802",
+              "popularity": 276,
+              "engagementCount": 73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+          "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+          "summary": "Qwen3.8-27B-OBLITERATED ist eine Version des Textgenerierungsmodells Qwen ohne Sicherheitseinschränkungen. Das Modell bietet eine größere Bandbreite an Antworten, indem es die Inhaltsfilter und Ablehnungsmechanismen umgeht, die von Standard-Sprachmodellen implementiert werden.",
+          "meta": "♥ 550 · 164.950 Downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": []
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "You should never be angry at work",
+          "url": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
+          "summary": "Dieser Ansatz, der argumentiert, dass Wut am Arbeitsplatz berufliche Prozesse beeinträchtigt, empfiehlt eine logische, lösungsorientierte Kommunikation anstelle emotionaler Reaktionen. Die Fähigkeit der Mitarbeiter, mit ihren Emotionen umzugehen und Konflikte professionell zu lösen, zielt darauf ab, sowohl die individuelle Produktivität als auch die Zusammenarbeit im Team zu erhalten.",
+          "meta": "73 Punkte · 43 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/mbmn1f/you_should_never_be_angry_at_work",
+              "popularity": 73,
+              "engagementCount": 43
+            }
+          ]
+        },
+        {
+          "title": "There continue to be reasons for software to be slow",
+          "url": "https://typesanitizer.com/blog/performance-issues.html",
+          "summary": "Die Hauptgründe für eine geringe Softwareleistung liegen in der ineffizienten Nutzung von Hardwareressourcen und komplexen Softwarearchitekturen. Entwickler geben an, dass die Konzentration auf Funktionalität und Wartbarkeit statt auf Geschwindigkeit auf lange Sicht zu einer Verlangsamung des Systems führt.",
+          "meta": "20 Punkte · 16 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/zibquu/there_continue_be_reasons_for_software_be",
+              "popularity": 20,
+              "engagementCount": 16
+            }
+          ]
+        },
+        {
+          "title": "NetBSD and my life (2005)",
+          "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+          "summary": "Das NetBSD-Betriebssystem bietet mit seiner stark portabilitätsorientierten Struktur eine konsistente Betriebsumgebung über verschiedene Hardwarearchitekturen hinweg. Der Entwicklungsprozess der Software spiegelt einen Ansatz wider, der sich auf die Benutzererfahrung bei der Systemverwaltung und Hardwareunterstützung konzentriert.",
+          "meta": "24 Punkte · 2 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/a23bk3/netbsd_my_life_2005",
+              "popularity": 24,
+              "engagementCount": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "Die Fähigkeiten, über die eine Software oder künstliche Intelligenz verfügt, um eine bestimmte Aufgabe auszuführen."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Fortgeschrittene Modelle künstlicher Intelligenz, die darauf trainiert sind, menschliche Sprache zu lernen und Texte zu transkribieren, zusammenzufassen oder zu übersetzen."
+    },
+    {
+      "term": "SaaS",
+      "explanation": "Ein Servicemodell, das es Ihnen ermöglicht, die Software direkt mit einem Abonnement über das Internet zu nutzen, anstatt sie auf Ihrem Computer zu installieren."
+    },
+    {
+      "term": "PaaS",
+      "explanation": "Bereitstellung einer vorgefertigten Infrastruktur über das Internet für Softwareentwickler zur Entwicklung und Veröffentlichung eigener Anwendungen."
+    },
+    {
+      "term": "IaaS",
+      "explanation": "Nutzung grundlegender Hardwareressourcen wie Server, Speicher und Netzwerk zur Miete über das Internet."
+    },
+    {
+      "term": "Language Server Protocol",
+      "explanation": "Eine Standardkommunikationsmethode, die es codierten Tools ermöglicht, kompatibel mit verschiedenen Programmiersprachen zu arbeiten."
+    },
+    {
+      "term": "web scraping",
+      "explanation": "Der Prozess des Kopierens und Sammelns von Daten von Websites mithilfe automatisierter Tools."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Künstliche Intelligenz-Technologie, die unter Verwendung bestehender Daten neue Inhalte wie Texte, Bilder oder Audio erzeugen kann."
+    }
+  ]
+}

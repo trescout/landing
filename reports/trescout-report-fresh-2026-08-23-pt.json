@@ -1,0 +1,225 @@
+{
+  "date": "2026-08-23",
+  "capturedAt": "2026-08-23T04:39:32.479Z",
+  "editorial": "Este relatório inclui as tendências que surgiram hoje pela primeira vez, sem repetir o que partilhámos nos últimos dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "summary": "Desenvolvido com a linguagem Rust, Codex é um agente de codificação leve que roda no terminal. Oferece sugestões e edições de código diretamente pela linha de comando para agilizar os processos de desenvolvimento de software.",
+          "meta": "Rust · ★ 113.793 · +1.544 hoje"
+        },
+        {
+          "title": "Wei-Shaw/sub2api",
+          "url": "https://github.com/Wei-Shaw/sub2api",
+          "summary": "Sub2API é um serviço de migração de código aberto que combina diferentes assinaturas de IA, como Claude, OpenAI, Gemini e Grok, em uma única interface. Embora permita aos utilizadores partilhar os custos de subscrição, oferece a oportunidade de utilizar estes serviços de forma integrada com as ferramentas existentes.",
+          "meta": "Go · ★ 38.838 · +278 hoje"
+        },
+        {
+          "title": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "summary": "n8n é uma plataforma de automação de fluxo de trabalho que flui dados entre diferentes aplicativos e automatiza processos de negócios. Combinando uma interface visual com escrita de código customizada, esta ferramenta pode rodar tanto na nuvem quanto em seu próprio servidor, com suporte para mais de 400 integrações.",
+          "meta": "TypeScript · ★ 201.890 · +149 hoje"
+        },
+        {
+          "title": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "summary": "Desenvolvido pela Anthropics, Claude Code é um agente de inteligência artificial que roda no terminal e acelera processos de desenvolvimento de software com comandos em linguagem natural. A ferramenta executa tarefas rotineiras analisando a base de código, automatizando processos como anotação de blocos de código complexos e gerenciamento de fluxos de trabalho Git do sistema de controle de versão.",
+          "meta": "Python · ★ 142.597 · +127 hoje",
+          "returning": true
+        },
+        {
+          "title": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "summary": "Com base nas observações de Andrej Karpathy sobre erros encontrados ao codificar com grandes modelos de linguagem (LLM), CLAUDE.md visa otimizar o desempenho do Claude Code, uma ferramenta de codificação suportada por inteligência artificial. Este arquivo de configuração serve como um guia para os desenvolvedores obterem saída de código mais consistente e livre de erros da inteligência artificial.",
+          "meta": "★ 205.391 · +315 hoje"
+        },
+        {
+          "title": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "summary": "Free-for-dev é uma lista abrangente que ajuda desenvolvedores de software e administradores de sistema a encontrar serviços de software (SaaS), serviços de plataforma (PaaS) e serviços de infraestrutura (IaaS) que oferecem um nível gratuito. Ele reúne ferramentas que os desenvolvedores podem usar ao gerenciar custos em uma única fonte.",
+          "meta": "HTML · ★ 133.988 · +829 hoje",
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+          "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+          "summary": "O Canadá anunciou que retaliaria com o mesmo montante em resposta aos direitos aduaneiros impostos pelos Estados Unidos após o fracasso das negociações comerciais. Esta decisão mostra que a tensão nas relações comerciais entre os dois países está a aumentar.",
+          "meta": "549 pontos · 1.328 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49397074",
+              "popularity": 549,
+              "engagementCount": 1328
+            }
+          ]
+        },
+        {
+          "title": "Rust Glancer: Rust LSP using 100x less RAM",
+          "url": "https://rust-glancer.github.io/blog/hello-world/",
+          "summary": "Rust Glancer é uma ferramenta de análise de código desenvolvida para a linguagem Rust e consome 100 vezes menos memória do que aplicativos de protocolo de servidor de linguagem padrão. Esta solução, que otimiza o uso de memória, visa aumentar o desempenho de ambientes de desenvolvimento em grandes projetos.",
+          "meta": "407 pontos · 99 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49393052",
+              "popularity": 407,
+              "engagementCount": 99
+            }
+          ]
+        },
+        {
+          "title": "Scrap (2006)",
+          "url": "https://twitter.com/moxie/status/2091218652133732491",
+          "summary": "O projeto Scrap 2006, compartilhado por Moxie Marlinspike, é uma ferramenta que automatiza o processo de extração de dados de páginas web (web scraping). Facilita o acesso aos dados, simplificando o processo de extração de informações de sites complexos.",
+          "meta": "342 pontos · 185 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49402189",
+              "popularity": 342,
+              "engagementCount": 185
+            }
+          ]
+        },
+        {
+          "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+          "url": "https://quantumi.sh/public/labs.html",
+          "summary": "Empresas como ElevenLabs, TwelveLabs e ThirteenLabs concentram-se em tecnologias de geração de conteúdo baseadas em inteligência artificial (IA generativa) em processos de processamento de áudio e vídeo. Essas startups estão desenvolvendo ferramentas de criação de conteúdo digital com modelos especializados que analisam e transformam dados de mídia.",
+          "meta": "342 pontos · 108 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49400408",
+              "popularity": 342,
+              "engagementCount": 108
+            }
+          ]
+        },
+        {
+          "title": "Hister – A private, full content search index that you control",
+          "url": "https://hister.org/",
+          "summary": "Hister é um índice privado de pesquisa de conteúdo completo que oferece controle total sobre seus dados pessoais. Ao indexar localmente seus dados na Internet, permite que você faça pesquisas rápidas e voltadas para a privacidade, sem a necessidade de servidores de terceiros.",
+          "meta": "276 pontos · 73 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49351802",
+              "popularity": 276,
+              "engagementCount": 73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+          "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+          "summary": "Qwen3.8-27B-OBLITERATED é uma versão do modelo de geração de texto Qwen sem restrições de segurança. O modelo fornece uma gama mais ampla de respostas, contornando os filtros de conteúdo e os mecanismos de rejeição implementados pelos modelos de linguagem padrão.",
+          "meta": "♥ 550 · 164.950 downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": []
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "You should never be angry at work",
+          "url": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
+          "summary": "Esta abordagem, que argumenta que a raiva sentida no trabalho prejudica os processos profissionais, recomenda uma comunicação lógica orientada para soluções em vez de reações emocionais. A capacidade dos colaboradores de gerirem as suas emoções e resolverem conflitos de forma profissional visa preservar tanto a produtividade individual como a colaboração em equipa.",
+          "meta": "73 pontos · 43 comentários",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/mbmn1f/you_should_never_be_angry_at_work",
+              "popularity": 73,
+              "engagementCount": 43
+            }
+          ]
+        },
+        {
+          "title": "There continue to be reasons for software to be slow",
+          "url": "https://typesanitizer.com/blog/performance-issues.html",
+          "summary": "As principais razões para o baixo desempenho do software estão associadas ao uso ineficiente de recursos de hardware e arquiteturas de software complexas. Os desenvolvedores afirmam que focar na funcionalidade e na facilidade de manutenção, em vez da velocidade, leva à lentidão do sistema no longo prazo.",
+          "meta": "20 pontos · 16 comentários",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/zibquu/there_continue_be_reasons_for_software_be",
+              "popularity": 20,
+              "engagementCount": 16
+            }
+          ]
+        },
+        {
+          "title": "NetBSD and my life (2005)",
+          "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+          "summary": "O sistema operacional NetBSD oferece um ambiente operacional consistente em diferentes arquiteturas de hardware com sua estrutura altamente orientada para portabilidade. O processo de desenvolvimento do software reflete uma abordagem que foca na experiência do usuário no gerenciamento do sistema e no suporte de hardware.",
+          "meta": "24 pontos · 2 comentários",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/a23bk3/netbsd_my_life_2005",
+              "popularity": 24,
+              "engagementCount": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "As capacidades que um software ou inteligência artificial possui para executar uma tarefa específica."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Modelos avançados de inteligência artificial treinados para aprender a linguagem humana e transcrever, resumir ou traduzir textos."
+    },
+    {
+      "term": "SaaS",
+      "explanation": "Um modelo de serviço que permite usar o software diretamente com uma assinatura pela internet em vez de instalá-lo no computador."
+    },
+    {
+      "term": "PaaS",
+      "explanation": "Fornecer infraestrutura pronta pela Internet para desenvolvedores de software desenvolverem e publicarem seus próprios aplicativos."
+    },
+    {
+      "term": "IaaS",
+      "explanation": "Utilizando recursos básicos de hardware como servidor, armazenamento e rede para aluguel pela internet."
+    },
+    {
+      "term": "Language Server Protocol",
+      "explanation": "Um método de comunicação padrão que permite que ferramentas codificadas funcionem de forma compatível com diferentes linguagens de programação."
+    },
+    {
+      "term": "web scraping",
+      "explanation": "O processo de cópia e coleta de dados de sites usando ferramentas automatizadas."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Tecnologia de inteligência artificial que pode produzir novos conteúdos, como texto, imagens ou áudio, usando dados existentes."
+    }
+  ]
+}

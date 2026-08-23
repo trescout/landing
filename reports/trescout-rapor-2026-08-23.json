@@ -1,0 +1,376 @@
+{
+  "date": "2026-08-23",
+  "capturedAt": "2026-08-23T04:39:30.411Z",
+  "editorial": "Yazılım dünyasında bugün bellek verimliliği odaklı Rust tabanlı araçlar (LSP) ve kendi kendini geliştiren otonom ajanlar (self-evolving agents) ön planda. Qwen serisinin yeni modelleri ve ticaret savaşlarının teknoloji tedarik zincirine olası etkileri, sektörün mevcut gündemini belirleyen temel unsurlar olarak öne çıkıyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "summary": "Rust diliyle geliştirilen Codex, terminal üzerinde çalışan hafif bir kodlama ajanıdır. Yazılım geliştirme süreçlerini hızlandırmak için komut satırı üzerinden doğrudan kod önerileri ve düzenlemeleri sunar.",
+          "meta": "Rust · ★ 113.793 · +1.544 bugün"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Matt Pocock tarafından paylaşılan bu depo, yazılım geliştiricilerin yapay zekâ ajanlarını eğitmek için kullandığı özelleştirilmiş yetenek paketlerini (skills) içeriyor. Geliştiricilerin kendi çalışma ortamlarında kullandığı bu hazır komut setleri, otomasyon süreçlerini hızlandırmayı amaçlıyor.",
+          "meta": "Shell · ★ 232.397 · +2.683 bugün"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC, yapay zekâ ajanları için yetenek, bellek ve güvenlik katmanlarını optimize eden bir performans geliştirme sistemidir. Claude Code ve kod düzenleme aracı Cursor gibi platformlarda, ajan tabanlı iş akışlarının verimliliğini artırmak için tasarlanmıştır.",
+          "meta": "JavaScript · ★ 242.232 · +411 bugün"
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers, yapay zekâ ajanları için geliştirilen bir yetenek çatısı (agentic skills framework) ve yazılım geliştirme metodolojisidir. Yazılım süreçlerini standartlaştırarak ajan tabanlı iş akışlarının daha verimli çalışmasını sağlar.",
+          "meta": "Shell · ★ 276.259 · +592 bugün"
+        },
+        {
+          "title": "Wei-Shaw/sub2api",
+          "url": "https://github.com/Wei-Shaw/sub2api",
+          "summary": "Sub2API, Claude, OpenAI, Gemini ve Grok gibi farklı yapay zekâ aboneliklerini tek bir arayüzde birleştiren açık kaynaklı bir geçiş servisidir. Kullanıcıların abonelik maliyetlerini paylaşmasına olanak tanırken, bu servisleri mevcut araçlarla entegre bir şekilde kullanma imkânı sağlar.",
+          "meta": "Go · ★ 38.838 · +278 bugün"
+        },
+        {
+          "title": "makeplane/plane",
+          "url": "https://github.com/makeplane/plane",
+          "summary": "Plane, görevleri, sprint süreçlerini ve dokümantasyonu yönetmeye olanak tanıyan açık kaynaklı bir proje yönetim platformu. Jira, Linear, Monday ve ClickUp gibi popüler iş takibi araçlarına kendi sunucunuzda barındırabileceğiniz bir alternatif sunuyor.",
+          "meta": "TypeScript · ★ 57.275 · +263 bugün"
+        },
+        {
+          "title": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "summary": "n8n, farklı uygulamalar arasında veri akışı sağlayan ve iş süreçlerini otomatikleştiren bir iş akışı otomasyon platformudur. Görsel bir arayüz ile özel kod yazımını birleştiren bu araç, 400'den fazla entegrasyon desteğiyle hem bulut üzerinde hem de kendi sunucunuzda çalışabilir.",
+          "meta": "TypeScript · ★ 201.890 · +149 bugün"
+        },
+        {
+          "title": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "summary": "Anthropics tarafından geliştirilen Claude Code, terminal üzerinde çalışan ve doğal dil komutlarıyla yazılım geliştirme süreçlerini hızlandıran bir yapay zekâ ajanıdır. Kod tabanını analiz ederek rutin görevleri yerine getiren araç, karmaşık kod bloklarını açıklama ve sürüm kontrol sistemi Git iş akışlarını yönetme gibi işlemleri otomatikleştirir.",
+          "meta": "Python · ★ 142.597 · +127 bugün"
+        },
+        {
+          "title": "AprilNEA/OpenLogi",
+          "url": "https://github.com/AprilNEA/OpenLogi",
+          "summary": "OpenLogi, Logitech çevre birimlerini yönetmek için kullanılan Logitech Options+ yazılımına yerel ve açık kaynaklı bir alternatif sunuyor. Rust diliyle geliştirilen bu araç, kullanıcı verilerini takip etmeden tuş atamalarını, hassasiyet (DPI) ayarlarını ve SmartShift özelliklerini doğrudan donanım üzerinden yapılandırmanıza olanak tanıyor.",
+          "meta": "Rust · ★ 14.077 · +959 bugün"
+        },
+        {
+          "title": "modular/modular",
+          "url": "https://github.com/modular/modular",
+          "summary": "Modular, yapay zekâ modellerini çalıştırmak için geliştirilen MAX platformunu ve Python tabanlı programlama dili Mojo'yu içeren bir altyapı sunuyor. Bu platform, yüksek performanslı yapay zekâ uygulamaları geliştirmek için donanım hızlandırmalı bir çalışma ortamı sağlıyor.",
+          "meta": "Mojo · ★ 28.873 · +395 bugün"
+        },
+        {
+          "title": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "summary": "Andrej Karpathy'nin büyük dil modelleriyle (LLM) kodlama yaparken karşılaşılan hatalara dair gözlemlerini temel alan CLAUDE.md dosyası, yapay zekâ destekli kod yazma aracı Claude Code'un performansını optimize etmeyi amaçlıyor. Bu yapılandırma dosyası, geliştiricilerin yapay zekâdan daha tutarlı ve hatasız kod çıktıları alması için bir rehber görevi görüyor.",
+          "meta": "★ 205.391 · +315 bugün"
+        },
+        {
+          "title": "mahlernim/google-timeline-visualizer",
+          "url": "https://github.com/mahlernim/google-timeline-visualizer",
+          "summary": "Google Timeline Visualizer, Google Konum Geçmişi verilerini kullanarak yıl boyu yapılan seyahatleri harita üzerinde görselleştiren bir araçtır. Kotlin diliyle geliştirilen bu uygulama, kullanıcılara kişisel seyahat rotalarını analiz etme ve görüntüleme imkânı sunar.",
+          "meta": "Kotlin · ★ 2.595 · +441 bugün"
+        },
+        {
+          "title": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "summary": "Free-for-dev, yazılım geliştiricilerin ve sistem yöneticilerinin ücretsiz katman sunan yazılım hizmetlerini (SaaS), platform hizmetlerini (PaaS) ve altyapı hizmetlerini (IaaS) bulmasını sağlayan kapsamlı bir liste. Geliştiricilerin maliyet yönetimi yaparken kullanabileceği araçları tek bir kaynakta topluyor.",
+          "meta": "HTML · ★ 133.988 · +829 bugün"
+        },
+        {
+          "title": "microsoft/TypeScript",
+          "url": "https://github.com/microsoft/TypeScript",
+          "summary": "Microsoft tarafından geliştirilen TypeScript, JavaScript diline statik tür denetimi (static typing) ekleyen bir üst kümedir. Yazılım geliştirme sürecinde hataları erken aşamada yakalamak için JavaScript kodunu daha güvenli ve ölçeklenebilir bir yapıya dönüştürür.",
+          "meta": "Go · ★ 110.561 · +104 bugün"
+        },
+        {
+          "title": "cursor/plugins",
+          "url": "https://github.com/cursor/plugins",
+          "summary": "Kod düzenleme aracı Cursor, geliştiricilerin kendi eklentilerini (plugins) oluşturmasına olanak tanıyan resmi bir eklenti belirtimi (specification) yayımladı. Bu yapı, kullanıcıların yapay zekâ destekli kod yazma deneyimini özelleştirmesini sağlayan TypeScript tabanlı bir çerçeve sunuyor.",
+          "meta": "TypeScript · ★ 4.695 · +286 bugün"
+        },
+        {
+          "title": "PostHog/posthog",
+          "url": "https://github.com/PostHog/posthog",
+          "summary": "PostHog, ürün geliştirme süreçlerini hızlandırmak için analitik, oturum kaydı ve hata takibi gibi araçları tek bir platformda birleştiren bir yazılım geliştirme aracıdır. Yapay zekâ gözlemlenebilirliği (AI observability) özellikleri sayesinde, yazılım ekiplerinin ürün performansını izlemesine ve kullanıcı deneyimini iyileştirmesine olanak tanır.",
+          "meta": "Python · ★ 38.665 · +286 bugün"
+        },
+        {
+          "title": "Tencent/AI-Infra-Guard",
+          "url": "https://github.com/Tencent/AI-Infra-Guard",
+          "summary": "Tencent tarafından geliştirilen AI-Infra-Guard, yapay zekâ ekosistemlerini güvenlik açıklarına karşı korumayı amaçlayan kapsamlı bir kırmızı takım (red teaming) platformu. Sistem, ajan yeteneklerini, altyapı bileşenlerini ve büyük dil modellerini (large language models) tarayarak olası güvenlik tehditlerini değerlendiriyor.",
+          "meta": "Python · ★ 5.552 · +150 bugün"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
+          "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+          "summary": "Kanada, ticaret görüşmelerinin sonuçsuz kalması üzerine Amerika Birleşik Devletleri'nin uyguladığı gümrük vergilerine karşılık olarak aynı tutarda misilleme yapacağını duyurdu. Bu karar, iki ülke arasındaki ticari ilişkilerde yaşanan gerilimin tırmandığını gösteriyor.",
+          "meta": "549 oy · 1.328 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49397074",
+              "popularity": 549,
+              "engagementCount": 1328
+            }
+          ]
+        },
+        {
+          "title": "Rust Glancer: Rust LSP using 100x less RAM",
+          "url": "https://rust-glancer.github.io/blog/hello-world/",
+          "summary": "Rust Glancer, Rust dili için geliştirilen ve standart dil sunucusu protokolü (Language Server Protocol) uygulamalarına kıyasla 100 kat daha az bellek tüketen bir kod analiz aracı. Bellek kullanımını optimize eden bu çözüm, büyük projelerde geliştirme ortamlarının performansını artırmayı hedefliyor.",
+          "meta": "407 oy · 99 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49393052",
+              "popularity": 407,
+              "engagementCount": 99
+            }
+          ]
+        },
+        {
+          "title": "Scrap (2006)",
+          "url": "https://twitter.com/moxie/status/2091218652133732491",
+          "summary": "Moxie Marlinspike tarafından paylaşılan 2006 tarihli Scrap projesi, web sayfalarından veri çekme (web scraping) işlemini otomatikleştiren bir araçtır. Karmaşık yapıdaki internet sitelerinden bilgi ayıklama sürecini basitleştirerek veriye erişimi kolaylaştırır.",
+          "meta": "342 oy · 185 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49402189",
+              "popularity": 342,
+              "engagementCount": 185
+            }
+          ]
+        },
+        {
+          "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+          "url": "https://quantumi.sh/public/labs.html",
+          "summary": "ElevenLabs, TwelveLabs ve ThirteenLabs gibi şirketler, ses ve video işleme süreçlerinde yapay zekâ tabanlı içerik üretimi (generative AI) teknolojilerine odaklanıyor. Bu girişimler, medya verilerini analiz eden ve dönüştüren özelleşmiş modellerle dijital içerik oluşturma araçlarını geliştiriyor.",
+          "meta": "342 oy · 108 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49400408",
+              "popularity": 342,
+              "engagementCount": 108
+            }
+          ]
+        },
+        {
+          "title": "Hister – A private, full content search index that you control",
+          "url": "https://hister.org/",
+          "summary": "Hister, kişisel verileriniz üzerinde tam kontrol sağlayan özel bir tam metin arama dizini (full content search index). İnternet üzerindeki verilerinizi yerel olarak indeksleyerek, üçüncü taraf sunuculara ihtiyaç duymadan hızlı ve gizlilik odaklı arama yapmanıza olanak tanıyor.",
+          "meta": "276 oy · 73 yorum",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49351802",
+              "popularity": 276,
+              "engagementCount": 73
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Alibaba tarafından geliştirilen Qwen2.5-VL, görsel ve metin verilerini işleyerek analiz edebilen çok modlu bir yapay zekâ modelidir. Görüntüleri metne dönüştürme (image-to-text) yeteneği sayesinde karmaşık görsel içerikleri anlamlandırarak kullanıcı sorularını yanıtlar.",
+          "meta": "♥ 12.174 · 2.090.699 indirme"
+        },
+        {
+          "title": "unsloth/Qwen3.8-27B-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "summary": "Unsloth, Qwen2.5-27B dil modelini daha hızlı eğitmek ve çalıştırmak için optimize edilmiş bir sürüm (GGUF) sunuyor. Bu format, donanım kaynaklarını verimli kullanarak büyük dil modellerinin (large language models) yerel cihazlarda daha düşük bellek tüketimiyle çalışmasını sağlıyor.",
+          "meta": "♥ 2.643 · 6.320.542 indirme"
+        },
+        {
+          "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "summary": "Hugging Face üzerinde paylaşılan Qwen3.8-27B-Uncensored-MLX, görsel ve metin girdilerini işleyerek metin çıktısı üreten bir yapay zekâ modeli. Apple cihazlarında hızlı çalışma sağlayan MLX kütüphanesiyle optimize edilen bu model, içerik kısıtlaması bulunmayan bir yapı sunuyor.",
+          "meta": "♥ 889 · 34.909 indirme"
+        },
+        {
+          "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+          "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
+          "summary": "Hugging Face üzerinde paylaşılan Qwen3.8-27B-Uncensored-FP8, görsel ve metin verilerini işleyebilen bir çok modlu (multimodal) yapay zekâ modelidir. Model, içerik kısıtlaması bulunmayan yapısı ve düşük bellek kullanımı sağlayan kayan noktalı 8 bit (FP8) hassasiyetiyle öne çıkıyor.",
+          "meta": "♥ 996 · 142.846 indirme"
+        },
+        {
+          "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+          "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+          "summary": "Qwen3.8-27B-OBLITERATED, metin üretim modeli (text-generation model) Qwen'in güvenlik kısıtlamalarından arındırılmış bir sürümüdür. Model, standart dil modellerinin uyguladığı içerik filtrelerini ve reddetme mekanizmalarını devre dışı bırakarak daha geniş bir yanıt yelpazesi sunar.",
+          "meta": "♥ 550 · 164.950 indirme"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
+          "url": "https://huggingface.co/papers/2607.21596",
+          "summary": "FlowEvo, yapay zekâ ajanlarının çalışma akışlarını (workflows) ve çalıştırılabilir yeteneklerini (executable skills) çıkarım anında birlikte geliştirmesini sağlayan bir çerçevedir. Başarılı olan iş akışlarını kalıcı yeteneklere dönüştürerek, ajanların deneyimlerinden öğrenmesini ve bu bilgileri sonraki görevlerde kullanmasını mümkün kılar.",
+          "meta": "2 beğeni · 2 yorum"
+        },
+        {
+          "title": "TinyCast: Probabilistic Zero-Shot Forecasting with Computed Periodicity",
+          "url": "https://huggingface.co/papers/2608.15767",
+          "summary": "TinyCast, dikkat mekanizması kullanmayan ve sadece 146 bin parametre ile çalışan bir sıfır örnekli tahmin (zero-shot forecasting) modelidir. Veri içindeki periyodik yapıları öğrenmek yerine hesaplayan bu yöntem, benzer ölçekteki diğer modellere göre daha az kaynak tüketerek olasılıksal tahminler üretir.",
+          "meta": "8 beğeni · 2 yorum"
+        },
+        {
+          "title": "The Embedder's Dilemma: LLMs Are Better, but at What Cost?",
+          "url": "https://huggingface.co/papers/2608.12875",
+          "summary": "Geleneksel metin gömme (text-embedding) modelleri ile büyük dil modelleri (large language models) arasındaki performans karşılaştırması, iki yaklaşımın farklı görevlerde birbirine yakın sonuçlar verdiğini gösteriyor. Seçim yaparken performans dengesinin yanı sıra operasyonel maliyet ve verimlilik kriterlerinin göz önünde bulundurulması gerekiyor.",
+          "meta": "8 beğeni · 3 yorum"
+        },
+        {
+          "title": "τ_0-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation",
+          "url": "https://huggingface.co/papers/2608.16885",
+          "summary": "τ_0-VLA, robotik manipülasyon görevlerinde karmaşık kararlar için test anında hesaplama gücünü artıran hiyerarşik bir robot temel modeli (robot foundation model). Bu model, dünya modeli (world model) rehberliğinde yüksek seviyeli alt görevleri planlayarak uzun süreli işlemleri daha tutarlı şekilde gerçekleştiriyor.",
+          "meta": "9 beğeni · 2 yorum"
+        },
+        {
+          "title": "QuoteBench: How Matched Scores Can Hide Command-Path Failures",
+          "url": "https://huggingface.co/papers/2608.13547",
+          "summary": "QuoteBench, kod yazan büyük dil modellerinin (large language models) ürettiği komutların yürütme aşamasındaki hatalarını tespit eden bir değerlendirme çerçevesidir. Sadece eşleşme skorlarına odaklanmak yerine, modelin oluşturduğu komutlar ile sistemin bunları işleme biçimi arasındaki uyumsuzlukları ölçerek hata kaynaklarını ayrıştırır.",
+          "meta": "7 beğeni · 2 yorum"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "You should never be angry at work",
+          "url": "https://www.seangoedecke.com/you-should-never-be-angry-at-work/",
+          "summary": "İş yerinde hissedilen öfkenin profesyonel süreçlere zarar verdiğini savunan bu yaklaşım, duygusal tepkiler yerine mantıksal çözüm odaklı iletişimi öneriyor. Çalışanların duygularını yöneterek çatışmaları profesyonel bir çerçevede çözmesi, hem bireysel verimliliği hem de ekip içi iş birliğini korumayı hedefliyor.",
+          "meta": "73 oy · 43 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/mbmn1f/you_should_never_be_angry_at_work",
+              "popularity": 73,
+              "engagementCount": 43
+            }
+          ]
+        },
+        {
+          "title": "There continue to be reasons for software to be slow",
+          "url": "https://typesanitizer.com/blog/performance-issues.html",
+          "summary": "Yazılım performansının düşük kalmasının temel nedenleri, donanım kaynaklarının verimsiz kullanımı ve karmaşık yazılım mimarileriyle ilişkilendiriliyor. Geliştiriciler, hızdan ziyade işlevsellik ve bakım kolaylığına odaklanmanın uzun vadede sistem yavaşlıklarına yol açtığını belirtiyor.",
+          "meta": "20 oy · 16 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/zibquu/there_continue_be_reasons_for_software_be",
+              "popularity": 20,
+              "engagementCount": 16
+            }
+          ]
+        },
+        {
+          "title": "NetBSD and my life (2005)",
+          "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+          "summary": "NetBSD işletim sistemi, yüksek taşınabilirlik (portability) odaklı yapısıyla farklı donanım mimarilerinde tutarlı bir çalışma ortamı sunuyor. Yazılımın geliştirilme süreci, sistem yönetimi ve donanım desteği konularında kullanıcı deneyimini merkeze alan bir yaklaşımı yansıtıyor.",
+          "meta": "24 oy · 2 yorum",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/a23bk3/netbsd_my_life_2005",
+              "popularity": 24,
+              "engagementCount": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "Bir yazılımın veya yapay zekânın belirli bir görevi yerine getirmek için sahip olduğu yetenekler."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "Yapay zekâ sistemlerinin kendi başlarına karar verip karmaşık işleri yürütmesini sağlayan yapısal yetenekler bütünü."
+    },
+    {
+      "term": "DPI",
+      "explanation": "Bir ekranın veya yazıcının görüntü kalitesini belirleyen, inç başına düşen nokta sayısı."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnsan dilini öğrenip metin yazma, özetleme veya çeviri yapma konusunda eğitilmiş gelişmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "SaaS",
+      "explanation": "Yazılımı bilgisayarınıza kurmak yerine internet üzerinden bir abonelikle doğrudan kullanmanızı sağlayan hizmet modeli."
+    },
+    {
+      "term": "PaaS",
+      "explanation": "Yazılımcıların kendi uygulamalarını geliştirmeleri ve yayınlamaları için gereken altyapının internet üzerinden hazır sunulması."
+    },
+    {
+      "term": "IaaS",
+      "explanation": "Sunucu, depolama ve ağ gibi temel donanım kaynaklarının internet üzerinden kiralık olarak kullanılması."
+    },
+    {
+      "term": "static typing",
+      "explanation": "Bir programlama dilinde verilerin türünün kod çalıştırılmadan önce belirlenmesi ve kontrol edilmesi."
+    },
+    {
+      "term": "plugins",
+      "explanation": "Ana bir programa eklenerek ona yeni özellikler kazandıran küçük yardımcı yazılımlar."
+    },
+    {
+      "term": "specification",
+      "explanation": "Bir yazılımın veya ürünün nasıl çalışması gerektiğini belirten detaylı teknik kurallar ve gereksinimler listesi."
+    },
+    {
+      "term": "AI observability",
+      "explanation": "Yapay zekâ sistemlerinin nasıl çalıştığını izleyerek hatalarını ve davranışlarını takip etme süreci."
+    },
+    {
+      "term": "red teaming",
+      "explanation": "Bir sistemin güvenliğini test etmek için kötü niyetli bir saldırgan gibi davranarak açıkları bulma çalışması."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "Language Server Protocol",
+      "explanation": "Kod yazılan araçların farklı programlama dilleriyle uyumlu çalışmasını sağlayan standart bir iletişim yöntemi."
+    },
+    {
+      "term": "web scraping",
+      "explanation": "İnternet sitelerindeki verileri otomatik araçlar kullanarak kopyalayıp toplama işlemi."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Var olan verileri kullanarak yeni metin, görsel veya ses gibi içerikler üretebilen yapay zekâ teknolojisi."
+    }
+  ]
+}
