@@ -336,6 +336,9 @@ const form = (kaynak) => `<form class="cta-form disc-cta-form js-subscribe" data
 const hreflang = (trYol, hedefYol) => `<link rel="alternate" hreflang="tr" href="${BASE_URL}${trYol}">
 <link rel="alternate" hreflang="en" href="${BASE_URL}/en${hedefYol}">
 <link rel="alternate" hreflang="fr" href="${BASE_URL}/fr${hedefYol}">
+<link rel="alternate" hreflang="pt-BR" href="${BASE_URL}/pt${hedefYol}">
+<link rel="alternate" hreflang="es" href="${BASE_URL}/es${hedefYol}">
+<link rel="alternate" hreflang="de" href="${BASE_URL}/de${hedefYol}">
 <link rel="alternate" hreflang="x-default" href="${BASE_URL}/en${hedefYol}">`;
 
 // ── 3. Sözlük dizini ────────────────────────────────────────────────────────

@@ -283,6 +283,12 @@ jobs:
       - name: hreflang kontrolü
         run: python3 scripts/check-hreflang.py
 
+      # SEO/GEO · metadata, hreflang, katalog iddiaları, rapor açıklamaları
+      # ve erken erişim endpoint'inin kayıt + sahip bildirimi sözleşmesi.
+      # Guard yalnız dosya okur; hiçbir form veya e-posta isteği yapmaz.
+      - name: SEO/GEO guard
+        run: python3 scripts/check-seo-geo.py
+
       - name: Değişiklik varsa commit'le
         run: |
           if [ -n "$(git status --porcelain)" ]; then

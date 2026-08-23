@@ -419,6 +419,17 @@ def build(slug, cat, chrome):
     ogimg = (f"{BASE}/assets/discover/og/{slug}-{LANG}.webp"
              if os.path.exists(_kapak) else f"{BASE}/assets/discover/og/{slug}.webp")
     tagline_en = c.get("tagline_en") or lead
+    # Bazı kaynaklar tek cümlelik tagline ile gelir. Arama ve AI özetleyicileri
+    # için açıklamayı ürün adıyla bağla; kısa/bağlamsız metadata geri dönmesin.
+    if len(tagline_en.strip()) < 90:
+        meta_tail = {
+            "en": "Explore this open-source project on TreScout.",
+            "fr": "Découvrez ce projet open source sur TreScout.",
+            "pt": "Explore este projeto open source na TreScout.",
+            "es": "Descubra este proyecto de código abierto en TreScout.",
+            "de": "Entdecken Sie dieses Open-Source-Projekt auf TreScout.",
+        }.get(LANG, "Explore this open-source project on TreScout.")
+        tagline_en = f"{tagline_en.strip().rstrip('…').strip()} · {title} · {meta_tail}"
     ld = json.dumps({
         "@context": "https://schema.org", "@type": "Article", "headline": title, "inLanguage": "en",
         "description": tagline_en,
@@ -447,6 +458,7 @@ def build(slug, cat, chrome):
             '<meta name="twitter:card" content="summary_large_image">\n'
             '<meta name="twitter:site" content="@GetTreScout">\n'
             f'<meta name="twitter:title" content="{esc(title)}">\n'
+            f'<meta name="twitter:description" content="{esc(tagline_en)}">\n'
             f'<meta name="twitter:image" content="{ogimg}">\n'
             f'<script type="application/ld+json">\n{ld}\n</script>\n'
             '<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>\n'

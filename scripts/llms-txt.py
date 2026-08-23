@@ -18,7 +18,7 @@ def clip(s, n=90):
     return s if len(s) <= n else s[:n - 1].rstrip() + "…"
 
 L = ["# TreScout", "",
-     "> TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve PDF rapor olarak gönderir. Açık kaynak ve teknoloji trendlerini Türkçe takip etmek isteyenler için.", "",
+     "> TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve web/PDF rapor olarak yayımlar. E-posta teslimatı erken erişim aşamasında hazırlanıyor.", "",
      f"Son güncelleme: {TODAY} · {len(cat)} araç · {len(man)} terim", "",
      "## Teknoloji Sözlüğü", "",
      "Yapay zekâ ve yazılım terimlerinin sade Türkçe açıklamaları. Her terimin ham Markdown sürümü URL sonuna `.md` eklenerek alınır (örn. " + B + "/dictionary/rag.md).", "",
@@ -30,7 +30,7 @@ L += ["", "## Keşif", "",
       f"- [Keşif dizini]({B}/discover/)"]
 for c in sorted(cat, key=lambda x: -(x.get("stars") or 0)):
     L.append(f"- [{c['title']}]({B}/discover/{c['slug']}/) (ham: {B}/discover/{c['slug']}.md): {clip(c.get('tagline', ''))}")
-L += ["", "## Raporlar", "", "Günlük teknoloji raporlarının arşivi (PDF).", "", f"- [Raporlar]({B}/reports/)", ""]
+L += ["", "## Raporlar", "", "Günlük teknoloji raporlarının arşivi (PDF).", "", f"- [Raporlar]({B}/reports/)", "", "## TreScout", "", "TreScout'un kaynak tarama, özetleme ve erken erişim modelini açıklayan sayfalar.", "", f"- [TreScout nasıl çalışır]({B}/#how-it-works)", f"- [Manuel takip ile karşılaştırma]({B}/compare/rss-vs-ai/)", ""]
 
 # İngilizce taraf · 2026-08-07'ye kadar llms.txt yalnız Türkçe sayfaları listeliyordu,
 # yani 397 keşif + 481 sözlük + rapor arşivinin İngilizcesi yapay zekâ tarayıcılarına
@@ -106,7 +106,7 @@ print(f"llms.txt güncellendi · {len(man)} terim + {len(cat)} araç indekslendi
 
 # llms-full.txt üreteci (tam içerik birleştirmesi)
 F = ["# TreScout Full Knowledge Base (llms-full.txt)", "",
-     "> TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve PDF rapor olarak gönderir.", "",
+     "> TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve web/PDF rapor olarak yayımlar. E-posta teslimatı erken erişim aşamasında hazırlanıyor.", "",
      f"Son güncelleme: {TODAY} · {len(cat)} araç · {len(man)} terim", "", "---", "",
      "# TEKNOLOJİ SÖZLÜĞÜ (TAM İÇERİK)", ""]
 for t in sorted(man, key=lambda x: x["en"].lower()):
@@ -127,7 +127,7 @@ print(f"llms-full.txt güncellendi · {len(F)} satır tam içerik haritalandı."
 
 # llms-en.txt üreteci (İngilizce dinamik indeks)
 E = ["# TreScout (English Index)", "",
-     "> TreScout scans GitHub, Hacker News, HuggingFace and Lobsters every day, summarizes the highlights and collects them in one daily report (web + PDF, Turkish and English).", "",
+     "> TreScout scans GitHub, Hacker News, HuggingFace and Lobsters every day, summarizes the highlights and publishes one daily report on the web and as a PDF. Email delivery is being prepared for early access.", "",
      f"Last updated: {TODAY} · {len(cat)} tools · {len(man)} terms", "",
      "## Tech Dictionary", "",
      "Plain-language definitions of AI and software terms. Append `.md` to any URL for raw Markdown (e.g. " + B + "/en/dictionary/rag.md).", "",
@@ -140,7 +140,7 @@ E += ["", "## Discover", "",
       f"- [Discover index]({B}/en/discover/)"]
 for c in sorted(cat, key=lambda x: -(x.get("stars") or 0)):
     E.append(f"- [{c['title']}]({B}/en/discover/{c['slug']}/) (raw: {B}/en/discover/{c['slug']}.md): {clip(c.get('tagline_en') or c.get('tagline', ''))}")
-E += ["", "## Reports", "", "Archive of daily tech reports (PDF).", "", f"- [Reports]({B}/reports/)", "",
+E += ["", "## Reports", "", "Archive of daily tech reports (PDF).", "", f"- [Reports]({B}/en/reports/)", "", "## About TreScout", "", "TreScout scans sources, summarizes the signal, and is preparing email delivery for early access.", "", f"- [How TreScout works]({B}/en/#how-it-works)", f"- [Manual tracking comparison]({B}/en/compare/rss-vs-ai/)", "",
       "## AI Crawlers & API Access", "",
       "Every dictionary term and open-source project page is served as both HTML and plain Markdown:",
       f"- Append `.md` to any dictionary or discover URL to fetch raw Markdown.",

@@ -1,6 +1,6 @@
 # TreScout
 
-> TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve PDF rapor olarak gönderir. Açık kaynak ve teknoloji trendlerini Türkçe takip etmek isteyenler için.
+> TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve web/PDF rapor olarak yayımlar. E-posta teslimatı erken erişim aşamasında hazırlanıyor.
 
 Son güncelleme: 2026-08-23 · 463 araç · 531 terim
 
@@ -1015,6 +1015,13 @@ Her gün öne çıkan açık kaynak projelerinin Türkçe tanıtımları; gerçe
 Günlük teknoloji raporlarının arşivi (PDF).
 
 - [Raporlar](https://trescout.com/reports/)
+
+## TreScout
+
+TreScout'un kaynak tarama, özetleme ve erken erişim modelini açıklayan sayfalar.
+
+- [TreScout nasıl çalışır](https://trescout.com/#how-it-works)
+- [Manuel takip ile karşılaştırma](https://trescout.com/compare/rss-vs-ai/)
 
 ## English
 

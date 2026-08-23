@@ -1,6 +1,6 @@
 # TreScout Full Knowledge Base (llms-full.txt)
 
-> TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve PDF rapor olarak gönderir.
+> TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve web/PDF rapor olarak yayımlar. E-posta teslimatı erken erişim aşamasında hazırlanıyor.
 
 Son güncelleme: 2026-08-23 · 463 araç · 531 terim
 

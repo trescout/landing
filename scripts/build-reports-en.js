@@ -77,6 +77,24 @@ function tarihYaz(dateStr) {
 }
 
 /**
+ * Rapor meta açıklaması · tarihin yanına günlük editöryel bağlam ekler.
+ * Böylece arşiv sayfaları yalnız aynı kalıp cümleyi tekrarlamaz; 155 karakter
+ * civarında tutulur ve kaynak JSON'daki sayfa dili korunur.
+ */
+function metaAciklama(tarih, editorial, kind) {
+  const variant = kind === 'fresh' ? `${D.rapor_varyant.fresh.baslik}. ` : '';
+  const base = `${variant}${D.rapor_sayfa_aciklama.replace('{tarih}', tarih)}`.replace(/\s+/g, ' ').trim();
+  const detail = String(editorial || '').replace(/\s+/g, ' ').trim();
+  if (!detail) return base;
+  const limit = 155;
+  const separator = ' ';
+  const available = limit - base.length - separator.length;
+  if (available <= 12) return base.slice(0, limit - 1).trimEnd() + '…';
+  if (detail.length <= available) return `${base}${separator}${detail}`;
+  return `${base}${separator}${detail.slice(0, available - 1).trimEnd()}…`;
+}
+
+/**
  * Nav + footer · o dilin ÜRETİLMİŞ bir sayfasından. Kanonik kaynak İngilizcede
  * fix-all-headers-and-footers.js, diğer dillerde diller.py · her iki hâlde de
  * bu betiğin kendi kabuğunu yazması guard'ları kırardı.
@@ -162,6 +180,7 @@ function buildVariant(V) {
 
     const arsiv = dateStr <= D.rapor_arsiv_esigi;
     const badgeTag = arsiv ? `<span class="chip chip-en">${D.rapor_rozet}</span>` : '';
+    const metaDesc = metaAciklama(tarih, editorial, V.kind);
     const enYol = V.kind === 'fresh' ? 'reports/fresh' : 'reports';
     const { nav, footer } = kabuk({
       TR: `${V.trUrlBase}/${dateStr}/`,
@@ -178,13 +197,17 @@ function buildVariant(V) {
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${D.rapor_sayfa_baslik.replace('{tarih}', tarih)}</title>
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-<meta name="description" content="${D.rapor_sayfa_aciklama.replace('{tarih}', tarih)}">
+<meta name="description" content="${esc(metaDesc)}">
 <link rel="canonical" href="https://trescout.com${V.urlBase}/${dateStr}/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com${V.trUrlBase}/${dateStr}/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en${V.urlBase.slice(PRE.length)}/${dateStr}/">
+<link rel="alternate" hreflang="fr" href="https://trescout.com/fr${V.urlBase.slice(PRE.length)}/${dateStr}/">
+<link rel="alternate" hreflang="pt-BR" href="https://trescout.com/pt${V.urlBase.slice(PRE.length)}/${dateStr}/">
+<link rel="alternate" hreflang="es" href="https://trescout.com/es${V.urlBase.slice(PRE.length)}/${dateStr}/">
+<link rel="alternate" hreflang="de" href="https://trescout.com/de${V.urlBase.slice(PRE.length)}/${dateStr}/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en${V.urlBase.slice(PRE.length)}/${dateStr}/">
 <meta property="og:title" content="${D.rapor_sayfa_baslik.replace('{tarih}', tarih)}">
-<meta property="og:description" content="${D.rapor_sayfa_og.replace('{tarih}', tarih)}">
+<meta property="og:description" content="${esc(metaDesc)}">
 <meta property="og:url" content="https://trescout.com${V.urlBase}/${dateStr}/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="${D.og_locale}">
@@ -197,7 +220,7 @@ function buildVariant(V) {
   "datePublished": "${dateStr}",
   "dateModified": "${dateStr}",
   "inLanguage": "${D.html_lang}",
-  "description": "${D.rapor_sayfa_aciklama.replace('{tarih}', tarih)}",
+  "description": "${esc(metaDesc)}",
   "url": "https://trescout.com${V.urlBase}/${dateStr}/",
   "author": {
     "@type": "Organization",

@@ -1,6 +1,6 @@
 # TreScout (English Index)
 
-> TreScout scans GitHub, Hacker News, HuggingFace and Lobsters every day, summarizes the highlights and collects them in one daily report (web + PDF, Turkish and English).
+> TreScout scans GitHub, Hacker News, HuggingFace and Lobsters every day, summarizes the highlights and publishes one daily report on the web and as a PDF. Email delivery is being prepared for early access.
 
 Last updated: 2026-08-23 · 463 tools · 531 terms
 
@@ -1014,7 +1014,14 @@ Daily highlights of trending open-source projects with setup commands and AI-pow
 
 Archive of daily tech reports (PDF).
 
-- [Reports](https://trescout.com/reports/)
+- [Reports](https://trescout.com/en/reports/)
+
+## About TreScout
+
+TreScout scans sources, summarizes the signal, and is preparing email delivery for early access.
+
+- [How TreScout works](https://trescout.com/en/#how-it-works)
+- [Manual tracking comparison](https://trescout.com/en/compare/rss-vs-ai/)
 
 ## AI Crawlers & API Access
 
