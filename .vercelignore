@@ -1,0 +1,22 @@
+# Yayına ÇIKMAYACAK dosyalar · ziyaretçiye servis edilmelerinin bir gerekçesi yok.
+#
+# 2026-08-23 denetimi: /scripts/diller.py, /scripts/dict-sync.py,
+# /.github/workflows/*.yml gibi dosyalar 200 dönüyordu. İçlerinde sır YOK
+# (kontrol edildi · secrets.* referansları değer değil isim), yani sızıntı
+# değildi. Ama derleme betiklerini ve CI yapılandırmasını okura servis etmenin
+# faydası yok, gereksiz yere iç yapıyı gösteriyor. .yml dosyalarında noindex
+# başlığı da yoktu.
+#
+# Site içinden bu yollara HİÇ bağlantı verilmiyor (doğrulandı: /scripts/
+# eşleşmeleri içerik metnindeki komut örnekleri, .github eşleşmeleri regex
+# yanılması). Vercel bir derleme çalıştırmıyor · vercel.json'da build komutu
+# yok, package.json'da scripts bölümü yok. Bu yüzden dışlamak güvenli.
+#
+# DİKKAT · .md dosyaları GENEL OLARAK dışlanmaz. discover/ ve dictionary/
+# altındaki .md'ler llms.txt stratejisinin parçası, KASTEN yayında (llms.txt
+# 4910 tanesine referans veriyor). Yalnız kökteki iki iç doküman çıkarılıyor.
+
+scripts/
+.github/
+/CLAUDE.md
+/AGENTS.md
