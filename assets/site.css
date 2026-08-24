@@ -31,12 +31,48 @@
   --brand: #1B4965;
   --brand-light: #5FA8D3;
   --accent: #F4D35E;
+  --accent-light: #F8DC72;
+  --accent-dark: #E5C24B;
+  --accent-deep: #D4B040;
+  --on-accent: #15202B;
   --bg: #0F1929;
   --bg-elevated: #1B2A40;
   --border: #1B4965;
   --ink: #E8F1F5;
   --ink-muted: #A8C0D0;
-  --success: #4DBE89;
+  --success: #2EA043;
+  --danger-soft: #FFB3B3;
+  /* Product-format mockup tokens stay scoped by usage, not added to the brand palette. */
+  --mockup-paper: #FFFFFF;
+  --mockup-surface: #F2F4F7;
+  --mockup-surface-end: #E8EBEF;
+  --mockup-surface-alt: #ECEEF1;
+  --mockup-surface-alt-end: #DFE4EA;
+  --mockup-muted: #6B7785;
+  --mockup-muted-soft: #8B95A0;
+  --mockup-ink-muted: #4F6577;
+  --mockup-accent-paper: #FFF8E1;
+  --mockup-accent-ink: #806A1F;
+  --mockup-accent-deep: #9B8424;
+  --mockup-accent-label: #B8941F;
+  --mockup-window-red: #FF5F57;
+  --mockup-window-yellow: #FEBC2E;
+  --mockup-window-green: #28C840;
+  --font-body: 'Inter', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+  --font-display: Georgia, 'Times New Roman', serif;
+  --font-mono: ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace;
+  --text-micro: 10px;
+  --text-label: 11px;
+  --text-meta: 12px;
+  --text-caption: 13px;
+  --text-small: 14px;
+  --text-body-sm: 15px;
+  --text-body: 16px;
+  --text-lead: 18px;
+  --text-heading: 20px;
+  --text-h2: clamp(24px, 3vw, 32px);
+  --text-h1: clamp(30px, 4.2vw, 44px);
+  --text-hero: clamp(40px, 5.4vw, 64px);
 }
 
 /* ---------- RESET ---------- */
@@ -52,7 +88,7 @@ html { scroll-behavior: smooth; overflow-x: hidden; max-width: 100vw; }
   color: var(--bg);
   padding: 8px 16px;
   border-radius: 6px;
-  font-size: 14px;
+  font-size: var(--text-small);
   font-weight: 600;
   text-decoration: none;
   z-index: 1000;
@@ -67,7 +103,7 @@ html { scroll-behavior: smooth; overflow-x: hidden; max-width: 100vw; }
 body {
   background: var(--bg);
   color: var(--ink);
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+  font-family: var(--font-body);
   font-feature-settings: 'cv11', 'ss01', 'ss03', 'kern';
   font-variation-settings: 'opsz' 32;
   line-height: 1.6;
@@ -134,8 +170,8 @@ nav.scrolled {
   display: flex;
   align-items: center;
   gap: 10px;
-  font-family: Georgia, serif;
-  font-size: 20px;
+  font-family: var(--font-display);
+  font-size: var(--text-heading);
   font-weight: 700;
   color: var(--ink);
   transition: opacity 0.18s ease;
@@ -163,7 +199,7 @@ nav.scrolled {
   gap: 8px;
   padding: 10px 20px;
   border-radius: 10px;
-  font-size: 14px;
+  font-size: var(--text-small);
   font-weight: 600;
   transition: transform 0.18s cubic-bezier(0.2, 0.8, 0.2, 1),
               box-shadow 0.18s ease,
@@ -208,7 +244,7 @@ nav.scrolled {
   gap: 18px;
   flex-wrap: wrap;
 }
-.signup-cta p { margin: 0; font-size: 15.5px; line-height: 1.5; color: var(--ink); max-width: 58ch; }
+.signup-cta p { margin: 0; font-size: var(--text-body-sm); line-height: 1.5; color: var(--ink); max-width: 58ch; }
 .signup-cta strong { color: var(--accent); font-weight: 700; }
 
 /* ---------- FOOTER ---------- */
@@ -217,7 +253,7 @@ footer {
   background: linear-gradient(180deg, transparent 0%, rgba(15, 25, 41, 0.4) 100%);
   padding: 64px 0 32px;
   color: var(--ink-muted);
-  font-size: 14px;
+  font-size: var(--text-small);
 }
 .footer-grid {
   display: grid;
@@ -230,19 +266,19 @@ footer {
   display: flex;
   align-items: center;
   gap: 10px;
-  font-family: Georgia, serif;
-  font-size: 20px;
+  font-family: var(--font-display);
+  font-size: var(--text-heading);
   font-weight: 700;
   color: var(--ink);
   margin-bottom: 14px;
 }
 .footer-tagline {
-  font-size: 14px;
+  font-size: var(--text-small);
   line-height: 1.55;
   color: var(--ink-muted);
 }
 .footer-col-title {
-  font-size: 11px;
+  font-size: var(--text-label);
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.14em;
@@ -253,7 +289,7 @@ footer {
 .footer-col li { margin-bottom: 11px; }
 .footer-col a {
   color: var(--ink-muted);
-  font-size: 14px;
+  font-size: var(--text-small);
   text-decoration: none;
   transition: color 0.15s;
   display: inline-flex;
@@ -267,7 +303,7 @@ footer {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  font-size: 12.5px;
+  font-size: var(--text-meta);
   color: var(--ink-muted);
   gap: 16px;
   flex-wrap: wrap;

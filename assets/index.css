@@ -64,7 +64,7 @@
       filter: drop-shadow(0 8px 24px rgba(244, 211, 94, 0.15));
     }
     .hero h1 {
-      font-family: Georgia, serif;
+      font-family: var(--font-display);
       font-size: clamp(40px, 5.4vw, 64px);
       font-weight: 700;
       line-height: 1.06;
@@ -74,7 +74,7 @@
     .hero h1 .accent,
     .section-title .accent {
       color: var(--accent);
-      background: linear-gradient(180deg, #F4D35E 0%, #E5C24B 100%);
+      background: linear-gradient(180deg, var(--accent) 0%, var(--accent-dark) 100%);
       -webkit-background-clip: text;
       background-clip: text;
       -webkit-text-fill-color: transparent;
@@ -89,7 +89,7 @@
       html { scroll-behavior: auto; }
     }
     .hero .mid-line {
-      font-family: Georgia, serif;
+      font-family: var(--font-display);
       font-style: italic;
       font-size: clamp(18px, 2vw, 22px);
       color: var(--brand-light);
@@ -98,7 +98,7 @@
       line-height: 1.4;
     }
     .hero .sub-line {
-      font-size: 16px;
+      font-size: var(--text-body);
       color: var(--ink-muted);
       max-width: 520px;
       margin: 0 0 36px;
@@ -121,7 +121,7 @@
       column-gap: 10px;
       row-gap: 4px;
       align-items: start;
-      font-size: 13px;
+      font-size: var(--text-caption);
       color: var(--ink-muted);
       cursor: pointer;
       line-height: 1.5;
@@ -148,7 +148,7 @@
       grid-column: 1 / -1;
       margin-left: 26px;
       margin-top: 2px;
-      font-size: 11.5px;
+      font-size: var(--text-label);
       color: var(--ink-muted);
       font-style: italic;
       letter-spacing: 0.01em;
@@ -207,7 +207,7 @@
     }
     .hero-visual-label {
       text-align: center;
-      font-family: Georgia, 'Times New Roman', serif;
+      font-family: var(--font-display);
       font-size: 18px;
       font-style: italic;
       color: var(--ink-muted);
@@ -219,7 +219,7 @@
       .hero-visual-label { font-size: 17px; }
     }
     .email-client {
-      background: #FFFFFF;
+      background: var(--mockup-paper);
       border: 1px solid rgba(15, 25, 41, 0.08);
       border-radius: 14px;
       overflow: hidden;
@@ -242,7 +242,7 @@
       align-items: center;
       gap: 12px;
       padding: 10px 14px;
-      background: linear-gradient(180deg, #F2F4F7 0%, #E8EBEF 100%);
+      background: linear-gradient(180deg, var(--mockup-surface) 0%, var(--mockup-surface-end) 100%);
       border-bottom: 1px solid rgba(15, 25, 41, 0.08);
     }
     .email-client-dots {
@@ -255,27 +255,27 @@
       border-radius: 50%;
       box-shadow: 0 0 0 0.5px rgba(0, 0, 0, 0.1);
     }
-    .email-client-dots .dot.r { background: #FF5F57; }
-    .email-client-dots .dot.y { background: #FEBC2E; }
-    .email-client-dots .dot.g { background: #28C840; }
+    .email-client-dots .dot.r { background: var(--mockup-window-red); }
+    .email-client-dots .dot.y { background: var(--mockup-window-yellow); }
+    .email-client-dots .dot.g { background: var(--mockup-window-green); }
     .email-client-tab {
       flex: 1;
       text-align: center;
-      font-size: 12px;
+      font-size: var(--text-meta);
       font-weight: 600;
-      color: #4F6577;
+      color: var(--mockup-ink-muted);
       letter-spacing: -0.005em;
     }
     .email-client-actions {
       display: flex;
       gap: 12px;
-      color: #8B95A0;
-      font-size: 14px;
+      color: var(--mockup-muted-soft);
+      font-size: var(--text-small);
     }
 
     /* Mail content area */
     .email-client-body {
-      background: #FFFFFF;
+      background: var(--mockup-paper);
     }
 
     /* Sender bar · avatar + meta + time */
@@ -310,13 +310,13 @@
     }
     .email-sender-name {
       font-weight: 700;
-      font-size: 14px;
+      font-size: var(--text-small);
       color: #1B2A40;
       line-height: 1.3;
     }
     .email-sender-address {
-      font-size: 11.5px;
-      color: #6B7785;
+      font-size: var(--text-label);
+      color: var(--mockup-muted);
       line-height: 1.3;
     }
     .email-time-block {
@@ -326,12 +326,12 @@
       gap: 4px;
     }
     .email-time {
-      font-size: 11.5px;
-      color: #6B7785;
+      font-size: var(--text-label);
+      color: var(--mockup-muted);
     }
     .email-star {
       color: #F4D35E;
-      font-size: 14px;
+      font-size: var(--text-small);
     }
 
     /* Subject line · with label */
@@ -349,14 +349,14 @@
       padding: 3px 8px;
       background: rgba(95, 168, 211, 0.14);
       color: #1B4965;
-      font-size: 11px;
+      font-size: var(--text-label);
       font-weight: 600;
       border-radius: 100px;
       letter-spacing: 0.02em;
     }
     .email-subject {
       font-weight: 600;
-      font-size: 15px;
+      font-size: var(--text-body-sm);
       color: #1B2A40;
       line-height: 1.3;
     }
@@ -368,18 +368,18 @@
     .mini-more {
       margin-top: 10px;
       padding: 12px 14px;
-      background: #FFF8E1;
+      background: var(--mockup-accent-paper);
       border: 1px solid rgba(244, 211, 94, 0.45);
       border-radius: 8px;
-      color: #806A1F;
-      font-size: 12.5px;
+      color: var(--mockup-accent-ink);
+      font-size: var(--text-meta);
       font-weight: 500;
       display: flex;
       align-items: center;
       gap: 10px;
     }
-    .mini-more-icon { font-size: 16px; }
-    .mini-more-text em { font-style: normal; color: #9B8424; }
+    .mini-more-icon { font-size: var(--text-body); }
+    .mini-more-text em { font-style: normal; color: var(--mockup-accent-deep); }
 
     /* Birkaç Yudum kutusu · gerçek e-postadaki editorial bloğunun aynası */
     .mini-yudum {
@@ -389,15 +389,15 @@
       border-radius: 4px;
     }
     .mini-yudum-label {
-      font-size: 10px;
-      color: #B8941F;
+      font-size: var(--text-micro);
+      color: var(--mockup-accent-label);
       text-transform: uppercase;
       letter-spacing: 0.18em;
       font-weight: 700;
       margin-bottom: 6px;
     }
     .mini-yudum-body {
-      font-size: 13px;
+      font-size: var(--text-caption);
       line-height: 1.55;
       color: #1B2A40;
       font-style: italic;
@@ -405,9 +405,9 @@
     }
     .mini-cta {
       margin: 12px 0 0;
-      font-size: 12.5px;
+      font-size: var(--text-meta);
       line-height: 1.5;
-      color: #4F6577;
+      color: var(--mockup-ink-muted);
     }
 
     /* Hero responsive · 968px altında stacklenir */
@@ -453,7 +453,7 @@
       border-radius: 12px;
       color: var(--ink);
       text-align: center;
-      font-size: 15px;
+      font-size: var(--text-body-sm);
       line-height: 1.55;
     }
     .form-success strong { color: var(--accent); }
@@ -465,8 +465,8 @@
       background: rgba(255, 120, 120, 0.08);
       border: 1px solid rgba(255, 120, 120, 0.35);
       border-radius: 8px;
-      color: #ffb3b3;
-      font-size: 13px;
+      color: var(--danger-soft);
+      font-size: var(--text-caption);
       text-align: center;
     }
     .input {
@@ -479,7 +479,7 @@
       border: 1px solid rgba(95, 168, 211, 0.3);
       border-radius: 12px;
       color: var(--ink);
-      font-size: 15px;
+      font-size: var(--text-body-sm);
       font-family: inherit;
       outline: none;
       transition: border-color 0.18s ease, box-shadow 0.18s ease, background 0.18s ease;
@@ -494,12 +494,12 @@
     .input::placeholder { color: var(--ink-muted); }
     .btn-large {
       padding: 16px 30px;
-      font-size: 15px;
+      font-size: var(--text-body-sm);
       border-radius: 12px;
     }
     .hero-note {
       margin-top: 16px;
-      font-size: 13px;
+      font-size: var(--text-caption);
       color: var(--ink-muted);
     }
     .hero-note a {
@@ -519,7 +519,7 @@
       margin-top: 10px;
       padding-left: 12px;
       border-left: 2px solid rgba(244, 211, 94, 0.45);
-      font-size: 13px;
+      font-size: var(--text-caption);
       line-height: 1.6;
       color: var(--ink-muted);
     }
@@ -586,7 +586,7 @@
       flex-shrink: 0;
     }
     .privacy-modal-head h2 {
-      font-family: Georgia, serif;
+      font-family: var(--font-display);
       font-size: 18px;
       font-weight: 700;
       color: var(--ink);
@@ -637,7 +637,7 @@
       background: rgba(15, 25, 41, 0.4);
     }
     .privacy-modal-status {
-      font-size: 13px;
+      font-size: var(--text-caption);
       color: var(--ink-muted);
       display: flex;
       align-items: center;
@@ -663,7 +663,7 @@
       padding: 9px 18px;
       border-radius: 10px;
       font: inherit;
-      font-size: 13.5px;
+      font-size: var(--text-caption);
       font-weight: 600;
       cursor: pointer;
       transition: opacity 0.2s ease, transform 0.18s ease;
@@ -715,7 +715,7 @@
       padding: 5px 14px;
       background: rgba(244, 211, 94, 0.08);
       color: var(--accent);
-      font-size: 12px;
+      font-size: var(--text-meta);
       font-weight: 600;
       letter-spacing: 0.12em;
       text-transform: uppercase;
@@ -724,7 +724,7 @@
       margin-bottom: 20px;
     }
     .section-title {
-      font-family: Georgia, serif;
+      font-family: var(--font-display);
       font-size: clamp(30px, 4.2vw, 44px);
       font-weight: 700;
       line-height: 1.18;
@@ -761,7 +761,7 @@
       border: none;
       color: var(--ink-muted);
       font: inherit;
-      font-size: 14px;
+      font-size: var(--text-small);
       font-weight: 500;
       padding: 10px 18px;
       border-radius: 10px;
@@ -791,7 +791,7 @@
       margin-right: auto;
     }
     .panel-title {
-      font-family: Georgia, serif;
+      font-family: var(--font-display);
       font-size: clamp(24px, 3vw, 32px);
       font-weight: 700;
       line-height: 1.22;
@@ -801,7 +801,7 @@
       text-align: center;
     }
     .panel-lead {
-      font-size: 16px;
+      font-size: var(--text-body);
       color: var(--ink-muted);
       line-height: 1.65;
       max-width: 720px;
@@ -826,7 +826,7 @@
         border-radius: 12px;
       }
       .tabs::-webkit-scrollbar { display: none; }
-      .tab { padding: 9px 14px; font-size: 13px; min-height: 44px; }   /* dokunma hedefi */
+      .tab { padding: 9px 14px; font-size: var(--text-caption); min-height: 44px; }   /* dokunma hedefi */
     }
 
     /* ---------- PIPELINE ---------- */
@@ -894,19 +894,19 @@
       position: absolute;
       top: 14px;
       right: 18px;
-      font-family: ui-monospace, 'SF Mono', 'JetBrains Mono', monospace;
-      font-size: 11px;
+      font-family: var(--font-mono);
+      font-size: var(--text-label);
       color: var(--ink-muted);
       letter-spacing: 0.12em;
       opacity: 0.7;
     }
     .step h3 {
-      font-size: 16px;
+      font-size: var(--text-body);
       font-weight: 600;
       margin-bottom: 6px;
     }
     .step p {
-      font-size: 14px;
+      font-size: var(--text-small);
       color: var(--ink-muted);
     }
     /* Adım ikonu · emoji yerine markanın kendi işareti (logodaki üç yay + accent) */
@@ -928,7 +928,7 @@
       gap: 6px;
     }
     .step-chips span {
-      font-size: 11.5px;
+      font-size: var(--text-label);
       line-height: 1;
       padding: 5px 9px;
       border-radius: 999px;
@@ -941,22 +941,22 @@
       color: var(--accent);
       background: rgba(244, 211, 94, 0.1);
       border-color: rgba(244, 211, 94, 0.3);
-      font-family: ui-monospace, 'SF Mono', 'JetBrains Mono', monospace;
+      font-family: var(--font-mono);
     }
     .step-sample {
       padding: 10px 12px;
       border-radius: 10px;
       background: rgba(95, 168, 211, 0.06);
       border: 1px solid rgba(95, 168, 211, 0.14);
-      font-family: Georgia, serif;
+      font-family: var(--font-display);
       font-style: italic;
-      font-size: 13px;
+      font-size: var(--text-caption);
       line-height: 1.5;
     }
     .step-sample-term {
-      font-family: ui-monospace, 'SF Mono', 'JetBrains Mono', monospace;
+      font-family: var(--font-mono);
       font-style: normal;
-      font-size: 12px;
+      font-size: var(--text-meta);
       color: var(--accent);
     }
 
@@ -979,7 +979,7 @@
       display: flex;
       gap: 14px;
       margin-bottom: 18px;
-      font-size: 15px;
+      font-size: var(--text-body-sm);
       line-height: 1.5;
       color: var(--ink-muted);
     }
@@ -994,7 +994,7 @@
       display: flex;
       align-items: center;
       justify-content: center;
-      font-size: 16px;
+      font-size: var(--text-body);
     }
 
     .pdf-card {
@@ -1029,7 +1029,7 @@
     .pdf-action-info { min-width: 0; flex: 1; }
     .pdf-action-title {
       font-weight: 600;
-      font-size: 13.5px;
+      font-size: var(--text-caption);
       color: var(--ink);
       margin-bottom: 2px;
       overflow: hidden;
@@ -1044,7 +1044,7 @@
       color: var(--accent);
       border: 1px solid rgba(244, 211, 94, 0.45);
       border-radius: 4px;
-      font-size: 10px;
+      font-size: var(--text-micro);
       font-weight: 700;
       text-transform: uppercase;
       letter-spacing: 0.1em;
@@ -1057,26 +1057,26 @@
       border: 1px dashed rgba(95, 168, 211, 0.4);
       border-radius: 3px;
       color: var(--brand-light);
-      font-family: ui-monospace, 'SF Mono', monospace;
+      font-family: var(--font-mono);
       letter-spacing: 0.04em;
     }
     .mini-more-text .pdf-date-token {
       background: rgba(155, 132, 36, 0.15);
       border-color: rgba(155, 132, 36, 0.5);
-      color: #9B8424;
-      font-size: 11px;
+      color: var(--mockup-accent-deep);
+      font-size: var(--text-label);
     }
     .pdf-action-meta {
-      font-size: 11.5px;
+      font-size: var(--text-label);
       color: var(--ink-muted);
     }
     .pdf-action-btn {
-      background: linear-gradient(180deg, #F8DC72 0%, #F4D35E 100%);
+      background: linear-gradient(180deg, var(--accent-light) 0%, var(--accent) 100%);
       color: var(--bg);
       padding: 9px 18px;
       border-radius: 8px;
       font-weight: 600;
-      font-size: 13px;
+      font-size: var(--text-caption);
       flex-shrink: 0;
       text-decoration: none;
       display: inline-flex;
@@ -1104,7 +1104,7 @@
 
     /* ---------- PDF CAROUSEL · gerçek 21 Mayıs 2026 raporunun 6 sayfası ---------- */
     .pdf-carousel {
-      background: linear-gradient(135deg, #ECEEF1 0%, #DFE4EA 100%);
+      background: linear-gradient(135deg, var(--mockup-surface-alt) 0%, var(--mockup-surface-alt-end) 100%);
       padding: 28px 0 22px;
       position: relative;
     }
@@ -1116,7 +1116,7 @@
       color: var(--bg);
       padding: 5px 11px;
       border-radius: 100px;
-      font-size: 11px;
+      font-size: var(--text-label);
       font-weight: 700;
       letter-spacing: 0.04em;
       z-index: 5;
@@ -1171,7 +1171,7 @@
       color: #F4D35E;
       padding: 4px 10px;
       border-radius: 100px;
-      font-size: 10.5px;
+      font-size: var(--text-micro);
       font-weight: 700;
       letter-spacing: 0.06em;
       -webkit-backdrop-filter: blur(4px);
@@ -1179,7 +1179,7 @@
     }
     .pdf-carousel-hint {
       text-align: center;
-      font-size: 11.5px;
+      font-size: var(--text-label);
       color: rgba(27, 73, 101, 0.6);
       font-weight: 500;
       letter-spacing: 0.02em;
@@ -1194,15 +1194,15 @@
     @media (min-width: 901px) {
       .pdf-carousel-track { gap: 18px; padding: 40px 32px 10px; }
       .pdf-carousel-slide { width: 300px; }
-      .pdf-carousel-badge { font-size: 11.5px; padding: 6px 12px; }
-      .pdf-carousel-pageno { font-size: 11.5px; padding: 5px 12px; bottom: 12px; right: 12px; }
-      .pdf-carousel-hint { font-size: 12.5px; padding-top: 6px; }
+      .pdf-carousel-badge { font-size: var(--text-label); padding: 6px 12px; }
+      .pdf-carousel-pageno { font-size: var(--text-label); padding: 5px 12px; bottom: 12px; right: 12px; }
+      .pdf-carousel-hint { font-size: var(--text-meta); padding-top: 6px; }
     }
 
     /* ---------- INLINE TERM · parantezli teknik terim vurgusu ---------- */
     .term {
       color: var(--accent);
-      font-family: ui-monospace, 'SF Mono', monospace;
+      font-family: var(--font-mono);
       font-size: 0.94em;
       font-weight: 500;
     }
@@ -1222,14 +1222,14 @@
       padding: 16px 24px;
       border-bottom: 1px solid var(--border);
       align-items: center;
-      font-size: 14px;
+      font-size: var(--text-small);
     }
     .diff-table .row:last-child { border-bottom: none; }
     .diff-table .row.head {
       background: var(--bg);
       font-weight: 600;
       color: var(--ink-muted);
-      font-size: 12px;
+      font-size: var(--text-meta);
       text-transform: uppercase;
       letter-spacing: 0.05em;
     }
@@ -1247,14 +1247,14 @@
       }
       .diff-table .row > div:first-child {
         font-weight: 700;
-        font-size: 15px;
+        font-size: var(--text-body-sm);
         color: var(--ink);
         margin-bottom: 8px;
       }
       .diff-table .row .cross::before,
       .diff-table .row .check::before {
         display: block;
-        font-size: 11px;
+        font-size: var(--text-label);
         font-weight: 600;
         text-transform: uppercase;
         letter-spacing: 0.05em;
@@ -1294,7 +1294,7 @@
       width: 52px;
       height: 52px;
       border-radius: 14px;
-      background: linear-gradient(135deg, var(--accent) 0%, #D4B040 100%);
+      background: linear-gradient(135deg, var(--accent) 0%, var(--accent-deep) 100%);
       display: flex;
       align-items: center;
       justify-content: center;
@@ -1305,12 +1305,12 @@
                   0 1px 0 rgba(255, 255, 255, 0.2) inset;
     }
     .feature h3 {
-      font-family: Georgia, serif;
+      font-family: var(--font-display);
       font-size: 20px;
       margin-bottom: 8px;
     }
     .feature p {
-      font-size: 14px;
+      font-size: var(--text-small);
       color: var(--ink-muted);
     }
 
@@ -1356,7 +1356,7 @@
       letter-spacing: -0.01em;
     }
     .feature-hero p {
-      font-size: 15px;
+      font-size: var(--text-body-sm);
       line-height: 1.6;
       margin-bottom: 28px;
       flex: 1;
@@ -1392,8 +1392,8 @@
       transform: translate(-50%, -50%);
       background: var(--accent);
       color: var(--bg);
-      font-family: ui-monospace, 'SF Mono', monospace;
-      font-size: 12px;
+      font-family: var(--font-mono);
+      font-size: var(--text-meta);
       font-weight: 600;
       padding: 6px 12px;
       border-radius: 100px;
@@ -1407,14 +1407,14 @@
       justify-content: space-between;
       margin-top: 8px;
       padding: 0 4px;
-      font-family: ui-monospace, 'SF Mono', monospace;
-      font-size: 10.5px;
+      font-family: var(--font-mono);
+      font-size: var(--text-micro);
       color: var(--ink-muted);
       letter-spacing: 0.04em;
     }
     .time-strip-note {
       margin-top: 14px;
-      font-size: 12.5px;
+      font-size: var(--text-meta);
       color: var(--ink-muted);
       font-style: italic;
     }
@@ -1428,7 +1428,7 @@
       padding: 10px 12px;
       background: rgba(15, 25, 41, 0.4);
       border-radius: 8px;
-      font-size: 12.5px;
+      font-size: var(--text-meta);
       line-height: 1.5;
       display: grid;
       grid-template-columns: auto auto 1fr;
@@ -1436,14 +1436,14 @@
       align-items: start;
     }
     .term-row code {
-      font-family: ui-monospace, 'SF Mono', monospace;
+      font-family: var(--font-mono);
       color: var(--accent);
       font-weight: 600;
       white-space: nowrap;
     }
     .term-row .term-arrow {
       color: var(--ink-muted);
-      font-family: ui-monospace, monospace;
+      font-family: var(--font-mono);
     }
     .term-row .term-def {
       color: var(--ink-muted);
@@ -1501,8 +1501,8 @@
     }
     .roadmap-stage {
       display: inline-block;
-      font-family: ui-monospace, 'SF Mono', monospace;
-      font-size: 10px;
+      font-family: var(--font-mono);
+      font-size: var(--text-micro);
       font-weight: 700;
       color: var(--accent);
       background: rgba(244, 211, 94, 0.08);
@@ -1514,14 +1514,14 @@
       margin-bottom: 10px;
     }
     .roadmap-title {
-      font-family: Georgia, serif;
+      font-family: var(--font-display);
       font-size: 19px;
       font-weight: 700;
       margin-bottom: 8px;
       color: var(--ink);
     }
     .roadmap-item p {
-      font-size: 14px;
+      font-size: var(--text-small);
       color: var(--ink-muted);
       line-height: 1.55;
     }
@@ -1530,11 +1530,11 @@
       display: inline-block;
       vertical-align: 3px;
       margin-left: 8px;
-      font-family: Inter, system-ui, sans-serif;
-      font-size: 10px;
+      font-family: var(--font-body);
+      font-size: var(--text-micro);
       font-weight: 700;
       letter-spacing: .1em;
-      color: #15202B;
+      color: var(--on-accent);
       background: var(--accent);
       padding: 3px 8px;
       border-radius: 999px;
@@ -1611,13 +1611,13 @@
       margin-bottom: 14px;
     }
     .vertical-card h3 {
-      font-family: Georgia, serif;
+      font-family: var(--font-display);
       font-size: 18px;
       margin-bottom: 6px;
       color: var(--ink);
     }
     .vertical-card p {
-      font-size: 13px;
+      font-size: var(--text-caption);
       line-height: 1.55;
       color: var(--ink-muted);
     }
@@ -1633,7 +1633,7 @@
       text-align: left;
     }
     .vertical-cta p {
-      font-size: 15px;
+      font-size: var(--text-body-sm);
       line-height: 1.65;
       color: var(--ink);
       margin: 0;
@@ -1690,7 +1690,7 @@
     .section-center .section-title + .community-grid { margin-top: 12px; }
     .community-eyebrow {
       display: inline-block;
-      font-size: 11px;
+      font-size: var(--text-label);
       font-weight: 600;
       letter-spacing: 0.12em;
       text-transform: uppercase;
@@ -1698,22 +1698,22 @@
       margin-bottom: 8px;
     }
     .community-card h3 {
-      font-family: Georgia, serif;
+      font-family: var(--font-display);
       font-size: 22px;
       margin-bottom: 8px;
       color: var(--ink);
     }
     .community-card p {
-      font-size: 14px;
+      font-size: var(--text-small);
       line-height: 1.6;
       color: var(--ink-muted);
       margin-bottom: 14px;
     }
     .community-cta {
-      font-size: 13px;
+      font-size: var(--text-caption);
       font-weight: 600;
       color: var(--accent);
-      font-family: ui-monospace, 'SF Mono', monospace;
+      font-family: var(--font-mono);
       transition: gap 0.15s ease;
     }
     .community-card:hover .community-cta {
@@ -1750,7 +1750,7 @@
     }
     .final-cta > * { position: relative; z-index: 1; }
     .final-cta h2 {
-      font-family: Georgia, serif;
+      font-family: var(--font-display);
       font-size: clamp(32px, 4.5vw, 44px);
       margin-bottom: 16px;
       letter-spacing: -0.015em;
@@ -1763,7 +1763,7 @@
       font-size: 17px;
     }
     .final-cta-btn {
-      font-size: 16px !important;
+      font-size: var(--text-body) !important;
       padding: 16px 36px !important;
     }
     .final-cta-form { margin: 0 auto; text-align: left; }
@@ -1777,8 +1777,8 @@
 /* ---------- ÖRNEK RAPOR · CANLI ARŞİV CTA (eski body-içi <style>'dan taşındı) ---------- */
             .preview-archive-cta { display: flex; align-items: center; gap: 13px; margin-top: 26px; padding: 14px 18px; background: var(--bg-elevated); border: 1px solid rgba(244, 211, 94, .28); border-radius: 12px; text-decoration: none; transition: border-color .15s, transform .12s; }
             .preview-archive-cta:hover { border-color: var(--accent); transform: translateY(-1px); }
-            .pac-live { flex-shrink: 0; font-size: 11px; font-weight: 700; letter-spacing: .1em; color: #15202B; background: var(--accent); padding: 4px 10px; border-radius: 999px; white-space: nowrap; }
-            .pac-msg { font-size: 14.5px; line-height: 1.5; color: var(--ink-muted); }
+            .pac-live { flex-shrink: 0; font-size: var(--text-label); font-weight: 700; letter-spacing: .1em; color: var(--on-accent); background: var(--accent); padding: 4px 10px; border-radius: 999px; white-space: nowrap; }
+            .pac-msg { font-size: var(--text-small); line-height: 1.5; color: var(--ink-muted); }
             .pac-msg strong { color: var(--ink); }
             .pac-go { color: var(--accent); font-weight: 600; white-space: nowrap; }
 
@@ -1795,7 +1795,7 @@
   background: rgba(95, 168, 211, 0.08);
   border-left: 3px solid var(--brand-light);
   border-radius: 0 10px 10px 0;
-  font-size: 14px;
+  font-size: var(--text-small);
   line-height: 1.65;
 }
 .hero-value-promise::first-line { color: var(--ink); }
@@ -1822,7 +1822,7 @@
 .report-tasting-kicker {
   margin-bottom: 8px;
   color: var(--accent);
-  font-size: 11px;
+  font-size: var(--text-label);
   font-weight: 800;
   letter-spacing: 0.14em;
   text-transform: uppercase;
@@ -1830,7 +1830,7 @@
 .report-tasting h3 {
   margin: 0;
   color: #fff;
-  font-family: Georgia, 'Times New Roman', serif;
+  font-family: var(--font-display);
   font-size: clamp(22px, 3vw, 30px);
   line-height: 1.12;
 }
@@ -1838,7 +1838,7 @@
   max-width: 62ch;
   margin: 11px 0 18px;
   color: var(--ink-muted);
-  font-size: 15px;
+  font-size: var(--text-body-sm);
   line-height: 1.6;
 }
 .tasting-tabs {
@@ -1857,7 +1857,7 @@
   border-radius: 999px;
   cursor: pointer;
   font: inherit;
-  font-size: 13px;
+  font-size: var(--text-caption);
   font-weight: 700;
   transition: color 0.16s ease, background 0.16s ease, border-color 0.16s ease, transform 0.16s ease;
 }
@@ -1871,7 +1871,7 @@
   outline-offset: 2px;
 }
 .tasting-tabs [role="tab"][aria-selected="true"] {
-  color: #15202B;
+  color: var(--on-accent);
   background: var(--accent);
   border-color: var(--accent);
 }
@@ -1888,7 +1888,7 @@
   display: block;
   margin-bottom: 10px;
   color: var(--brand-light);
-  font-size: 11.5px;
+  font-size: var(--text-label);
   font-weight: 700;
   letter-spacing: 0.03em;
 }
@@ -1896,31 +1896,31 @@
   display: block;
   margin-bottom: 8px;
   color: var(--ink);
-  font-family: 'SF Mono', ui-monospace, Menlo, Consolas, monospace;
-  font-size: 15px;
+  font-family: var(--font-mono);
+  font-size: var(--text-body-sm);
 }
 .tasting-panel p {
   max-width: 68ch;
   margin: 0 0 12px;
   color: var(--ink-muted);
-  font-size: 15px;
+  font-size: var(--text-body-sm);
   line-height: 1.65;
 }
 .tasting-panel a {
   color: var(--accent);
-  font-size: 13px;
+  font-size: var(--text-caption);
   font-weight: 700;
 }
 .tasting-note {
   margin: 12px 0 0;
   color: var(--ink-muted);
-  font-size: 12px;
+  font-size: var(--text-meta);
   line-height: 1.5;
   opacity: 0.82;
 }
 
 @media (max-width: 640px) {
-  .hero-value-promise { margin-top: -10px; font-size: 13.5px; }
+  .hero-value-promise { margin-top: -10px; font-size: var(--text-caption); }
   .hero-archive-link { display: block; white-space: normal; }
   .report-tasting { padding: 19px 16px; }
   .tasting-panel { min-height: 165px; padding: 15px; }
@@ -1955,7 +1955,7 @@
   border-radius: 999px;
   cursor: pointer;
   font: inherit;
-  font-size: 13px;
+  font-size: var(--text-caption);
   font-weight: 700;
 }
 .radar-filters [role="tab"]:hover,
@@ -1964,7 +1964,7 @@
 .radar-card-link:focus-visible,
 .radar-all-link:focus-visible,
 .radar-cta:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
-.radar-filters [role="tab"][aria-selected="true"] { color: #15202B; background: var(--accent); border-color: var(--accent); }
+.radar-filters [role="tab"][aria-selected="true"] { color: var(--on-accent); background: var(--accent); border-color: var(--accent); }
 .radar-all-link { flex: 0 0 auto; white-space: nowrap; }
 .radar-grid {
   display: grid;
@@ -1979,7 +1979,7 @@
   justify-self: center;
   margin: 0;
   color: var(--ink-muted);
-  font-size: 15px;
+  font-size: var(--text-body-sm);
 }
 .radar-card {
   display: flex;
@@ -1995,7 +1995,7 @@
 .radar-card-meta {
   margin-bottom: 10px;
   color: var(--brand-light);
-  font-size: 11px;
+  font-size: var(--text-label);
   font-weight: 700;
   letter-spacing: 0.04em;
   text-transform: uppercase;
@@ -2003,24 +2003,24 @@
 .radar-card h3 {
   margin: 0 0 9px;
   color: var(--ink);
-  font-family: Georgia, 'Times New Roman', serif;
+  font-family: var(--font-display);
   font-size: 21px;
   line-height: 1.15;
 }
-.radar-card p { margin: 0; color: var(--ink-muted); font-size: 14px; line-height: 1.6; }
+.radar-card p { margin: 0; color: var(--ink-muted); font-size: var(--text-small); line-height: 1.6; }
 .radar-card-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 15px; }
 .radar-card-tags span {
   padding: 4px 7px;
   color: var(--ink-muted);
   background: rgba(95, 168, 211, 0.08);
   border-radius: 5px;
-  font-size: 11px;
+  font-size: var(--text-label);
 }
 .radar-card-link {
   margin-top: auto;
   padding-top: 17px;
   color: var(--accent);
-  font-size: 13px;
+  font-size: var(--text-caption);
   font-weight: 800;
   text-decoration: none;
 }
@@ -2032,8 +2032,8 @@
   gap: 16px;
   margin-top: 18px;
 }
-.radar-note { color: var(--ink-muted); font-size: 12px; line-height: 1.5; }
-.radar-cta { color: var(--accent); font-size: 13px; font-weight: 800; text-decoration: none; }
+.radar-note { color: var(--ink-muted); font-size: var(--text-meta); line-height: 1.5; }
+.radar-cta { color: var(--accent); font-size: var(--text-caption); font-weight: 800; text-decoration: none; }
 .radar-cta:hover { text-decoration: underline; }
 @media (max-width: 800px) {
   .radar-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
@@ -2069,7 +2069,7 @@
 .daily-flow-control { display: grid; gap: 10px; }
 .daily-flow-label {
   color: var(--brand-light);
-  font-size: 11px;
+  font-size: var(--text-label);
   font-weight: 800;
   letter-spacing: 0.12em;
   text-transform: uppercase;
@@ -2083,7 +2083,7 @@
   border-radius: 999px;
   cursor: pointer;
   font: inherit;
-  font-size: 13px;
+  font-size: var(--text-caption);
   font-weight: 700;
   transition: color 0.16s ease, background 0.16s ease, border-color 0.16s ease, transform 0.16s ease;
 }
@@ -2091,13 +2091,13 @@
 .daily-flow-options button:focus-visible { color: var(--ink); border-color: var(--brand-light); }
 .daily-flow-options button:focus-visible,
 .daily-flow-cta:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
-.daily-flow-options button[aria-pressed="true"] { color: #15202B; background: var(--accent); border-color: var(--accent); }
+.daily-flow-options button[aria-pressed="true"] { color: var(--on-accent); background: var(--accent); border-color: var(--accent); }
 .daily-flow-options button:active { transform: scale(0.97); }
 .daily-flow-output { box-shadow: 0 18px 44px rgba(0, 0, 0, 0.14); }
 .daily-flow-output-meta {
   margin-bottom: 8px;
   color: var(--accent);
-  font-size: 11px;
+  font-size: var(--text-label);
   font-weight: 800;
   letter-spacing: 0.1em;
   text-transform: uppercase;
@@ -2105,7 +2105,7 @@
 .daily-flow-output h3 {
   margin: 0 0 18px;
   color: #fff;
-  font-family: Georgia, 'Times New Roman', serif;
+  font-family: var(--font-display);
   font-size: clamp(22px, 3vw, 30px);
   line-height: 1.12;
 }
@@ -2115,7 +2115,7 @@
   align-self: center;
   margin: 0;
   color: var(--ink-muted);
-  font-size: 14px;
+  font-size: var(--text-small);
   line-height: 1.6;
 }
 .daily-flow-step {
@@ -2134,11 +2134,11 @@
   width: 34px;
   height: 34px;
   place-items: center;
-  color: #15202B;
+  color: var(--on-accent);
   background: var(--accent);
   border-radius: 9px;
-  font-family: 'SF Mono', ui-monospace, Menlo, Consolas, monospace;
-  font-size: 12px;
+  font-family: var(--font-mono);
+  font-size: var(--text-meta);
   font-weight: 800;
 }
 .daily-flow-step-body { min-width: 0; }
@@ -2146,7 +2146,7 @@
   display: block;
   margin-bottom: 4px;
   color: var(--brand-light);
-  font-size: 10px;
+  font-size: var(--text-micro);
   font-weight: 800;
   letter-spacing: 0.1em;
   text-transform: uppercase;
@@ -2154,14 +2154,14 @@
 .daily-flow-step h4 {
   margin: 0 0 5px;
   color: var(--ink);
-  font-family: Georgia, 'Times New Roman', serif;
+  font-family: var(--font-display);
   font-size: 17px;
   line-height: 1.2;
 }
-.daily-flow-step p { margin: 0 0 7px; color: var(--ink-muted); font-size: 13px; line-height: 1.5; }
-.daily-flow-step-meta { color: var(--ink-muted); font-size: 11px; opacity: 0.86; }
-.daily-flow-note { margin: 15px 0 0; color: var(--ink-muted); font-size: 12px; line-height: 1.55; }
-.daily-flow-cta { display: inline-block; margin-top: 12px; color: var(--accent); font-size: 13px; font-weight: 800; text-decoration: none; }
+.daily-flow-step p { margin: 0 0 7px; color: var(--ink-muted); font-size: var(--text-caption); line-height: 1.5; }
+.daily-flow-step-meta { color: var(--ink-muted); font-size: var(--text-label); opacity: 0.86; }
+.daily-flow-note { margin: 15px 0 0; color: var(--ink-muted); font-size: var(--text-meta); line-height: 1.55; }
+.daily-flow-cta { display: inline-block; margin-top: 12px; color: var(--accent); font-size: var(--text-caption); font-weight: 800; text-decoration: none; }
 .daily-flow-cta:hover { text-decoration: underline; }
 @media (max-width: 800px) {
   .daily-flow-builder { grid-template-columns: 1fr; }
