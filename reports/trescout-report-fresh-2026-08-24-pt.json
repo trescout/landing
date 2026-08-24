@@ -1,0 +1,184 @@
+{
+  "date": "2026-08-24",
+  "capturedAt": "2026-08-24T04:45:43.529Z",
+  "editorial": "Este relatório inclui tendências que se destacam pela primeira vez hoje, sem repetir o que compartilhamos nos últimos dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "freestylefly/awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "summary": "GPT-Image2 é uma biblioteca de prompt engineering (Prompt as Code) que define processos de geração de imagens como código. Com mais de 470 exemplos obtidos por engenharia reversa e mais de 20 templates industriais, facilita obter resultados consistentes de modelos de IA.",
+          "meta": "JavaScript · ★ 13.526 · +401 hoje"
+        },
+        {
+          "title": "tinyhumansai/openhuman",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "summary": "OpenHuman, desenvolvido em Rust, é um assistente pessoal de IA que cria uma memória local-first da vida do usuário. O software funciona como um orquestrador que gere frotas de agentes de IA e como uma ferramenta de análise para investigação aprofundada.",
+          "meta": "Rust · ★ 36.852 · +39 hoje"
+        },
+        {
+          "title": "VoltAgent/awesome-agent-skills",
+          "url": "https://github.com/VoltAgent/awesome-agent-skills",
+          "summary": "O awesome-agent-skills, compilado por VoltAgent, reúne mais de 1000 habilidades de IA (agent skills) criadas por equipes de desenvolvedores e pela comunidade. Essa coleção é projetada para ser compatível com plataformas como o assistente de codificação Cursor e ferramentas de linha de comando com suporte de IA (Claude Code, Gemini CLI).",
+          "meta": "★ 31.405 · +156 hoje"
+        },
+        {
+          "title": "dani-garcia/vaultwarden",
+          "url": "https://github.com/dani-garcia/vaultwarden",
+          "summary": "O resumo deste item não pôde ser gerado hoje · consulte o link da fonte para mais detalhes.",
+          "meta": "Rust · ★ 65.983 · +78 hoje"
+        },
+        {
+          "title": "anthropics/claude-plugins-community",
+          "url": "https://github.com/anthropics/claude-plugins-community",
+          "summary": "O diretório de plugins da comunidade criado para Claude Cowork e Claude Code, desenvolvido pela Anthropic, oferece uma arquitetura extensível que automatiza processos de desenvolvimento de software. Com esses plugins baseados em Python, os usuários podem personalizar as capacidades dos assistentes de codificação assistidos por IA.",
+          "meta": "Python · ★ 1.046 · +225 hoje"
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "summary": "Hermes Agent, desenvolvido pela NousResearch, é um agente autônomo de IA que aprende com as interações dos usuários e aprimora suas habilidades ao longo do tempo. Escrito em Python, o projeto oferece uma estrutura que aprende continuamente (agent) para criar fluxos de trabalho personalizados.",
+          "meta": "Python · ★ 235.142 · +454 hoje",
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Why your local LLM feels dumber than it is",
+          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "summary": "A principal razão pela qual modelos de grande porte executados localmente (large language models) têm desempenho aquém do esperado é, geralmente, templates de prompt mal configurados e gestão de contexto insuficiente. Os usuários podem evitar perda de desempenho executando os modelos com comandos de sistema otimizados e parâmetros corretos.",
+          "meta": "417 pontos · 171 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49402232",
+              "popularity": 417,
+              "engagementCount": 171
+            }
+          ]
+        },
+        {
+          "title": "typ.ing",
+          "url": "https://typ.ing/",
+          "summary": "typ.ing é uma ferramenta minimalista de prática de teclado que permite aos usuários medir velocidade e precisão de digitação. Sua interface simples elimina distrações para oferecer uma experiência de escrita focada.",
+          "meta": "321 pontos · 102 comentários",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49346854",
+              "popularity": 321,
+              "engagementCount": 102
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs",
+          "url": "https://huggingface.co/papers/2608.21360",
+          "summary": "OmniAssistBench é um quadro de avaliação que mede o desempenho de modelos multimodais (omni-modal large language models) como assistentes de vídeo em tempo real. Ao analisar processos de interação dinâmica em que as respostas do modelo influenciam as ações subsequentes do usuário, testa a capacidade dos modelos de integrar dados visuais e objetivos do usuário.",
+          "meta": "14 curtidas · 1 comentários"
+        },
+        {
+          "title": "AgentMercury: Your Agent Can Synthesize Verifiable Environments for Business Scenarios at scale",
+          "url": "https://huggingface.co/papers/2608.20634",
+          "summary": "AgentMercury é um framework escalável que sintetiza ambientes executáveis a partir de cenários de alto nível. Em vez de criar manualmente os ambientes usados para treinar agentes de IA (AI agents), ele gera simulações dinâmicas baseadas em fluxos de trabalho realistas.",
+          "meta": "3 curtidas · 1 comentários"
+        },
+        {
+          "title": "Hadith computational science in the age of large language models: a critical narrative review",
+          "url": "https://huggingface.co/papers/2608.20364",
+          "summary": "Estudos sobre hadith estão passando por uma transformação digital com a integração de modelos de linguagem de grande porte (large language models) e sistemas baseados em recuperação de informação (retrieval-grounded). Esta revisão avalia a validade metodológica dessas tecnologias, suas limitações no uso acadêmico e lacunas na literatura atual.",
+          "meta": "0 curtidas · 1 comentários"
+        },
+        {
+          "title": "Towards Faithful Simulation of Human Shopping Behavior",
+          "url": "https://huggingface.co/papers/2608.20707",
+          "summary": "Simular o comportamento de usuários de e‑commerce com modelos de linguagem de grande porte (large language models) e modelos vision-language models enfrenta desafios técnicos na gestão de dados de sessões passadas e no uso eficiente da janela de contexto. Este trabalho propõe um novo método que processa o histórico do usuário e mudanças nas preferências de forma mais consistente para reconstruir experiências de compra realistas.",
+          "meta": "2 curtidas · 1 comentários"
+        },
+        {
+          "title": "Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence",
+          "url": "https://huggingface.co/papers/2608.21156",
+          "summary": "Modelos de linguagem de grande porte (large language models) estão evoluindo de tarefas singulares para inteligência de sistemas complexos, tornando-se agentes autônomos. Nesse processo, técnicas como prompt engineering, gestão de contexto e autoaperfeiçoamento cíclico são usadas para padronizar fluxos de trabalho dos agentes.",
+          "meta": "5 curtidas · 1 comentários"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
+          "url": "https://ericpardee.github.io/fire-hd-ownership/",
+          "summary": "Um usuário alterou o software do seu tablet com o auxílio de quatro modelos de IA diferentes (LLM) para libertar o dispositivo devido às restrições da Amazon. Esse processo mostra como a IA pode ser usada para resolver problemas técnicos com o objetivo de recuperar controle sobre o hardware.",
+          "meta": "40 pontos · 12 comentários",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/fadbev/amazon_kept_shutting_down_my_tablet_so_i",
+              "popularity": 40,
+              "engagementCount": 12
+            }
+          ]
+        },
+        {
+          "title": "An Introduction to Canvas in GNU Emacs",
+          "url": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
+          "summary": "A interface Canvas, que permite desenhar gráficos dentro do editor de texto GNU Emacs (text editor), viabiliza a criação de conteúdo visual em ambientes baseados em texto. Esse recurso permite que desenvolvedores projetem gráficos simples sem precisar de uma ferramenta externa durante a edição de código ou documentos.",
+          "meta": "57 pontos · 10 comentários",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/9xglf3/introduction_canvas_gnu_emacs",
+              "popularity": 57,
+              "engagementCount": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Prompt as Code",
+      "explanation": "Método de gerenciar comandos dados à IA versionando e testando-os como se fossem código de software."
+    },
+    {
+      "term": "prompt engineering",
+      "explanation": "A arte de escrever comandos de forma mais eficaz para obter da IA respostas mais corretas e de maior qualidade."
+    },
+    {
+      "term": "skills",
+      "explanation": "Habilidades ou ferramentas específicas que permitem aos modelos de IA executar tarefas determinadas."
+    },
+    {
+      "term": "local-first",
+      "explanation": "Abordagem de software em que os dados são armazenados e processados no dispositivo do usuário antes de dependerem da internet."
+    },
+    {
+      "term": "IDE",
+      "explanation": "Ambiente de desenvolvimento que reúne em um só lugar todas as ferramentas de que os programadores precisam ao escrever código."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Habilidades que permitem que agentes de IA interfiram no mundo externo, como realizar buscas na web ou manipular arquivos."
+    }
+  ]
+}

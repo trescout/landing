@@ -1,0 +1,382 @@
+{
+  "date": "2026-08-24",
+  "capturedAt": "2026-08-24T04:45:41.905Z",
+  "editorial": "Today the developer ecosystem highlights local control of large language models (LLMs) and private search indexing tools. Discussions on Hacker News clearly reflect users' desire for control over their own data and a growing critical perspective toward AI infrastructure.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "summary": "Codex, developed in Rust, is a lightweight coding agent that runs in the terminal. It provides direct code generation and editing support via the command line to speed up software development workflows.",
+          "meta": "Rust · ★ 115,863 · +2,715 today"
+        },
+        {
+          "title": "freestylefly/awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "summary": "GPT-Image2 is a prompt engineering library that defines image generation processes as code (Prompt as Code). With over 470 reverse-engineered examples and more than 20 industrial templates, it makes it easier to get consistent results from AI models.",
+          "meta": "JavaScript · ★ 13,526 · +401 today"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Skills, shared by Matt Pocock, aggregates customized skill packages used by software developers for AI agents. The collection offers ready-made scripts as a resource for engineers who want to accelerate code-based automation workflows.",
+          "meta": "Shell · ★ 234,157 · +2,447 today"
+        },
+        {
+          "title": "basecamp/omarchy",
+          "url": "https://github.com/basecamp/omarchy",
+          "summary": "Omarchy, developed by Basecamp, is a visually modern and easy-to-use configuration tool for Linux systems. It aims to standardize and customize system settings via the command line.",
+          "meta": "Shell · ★ 29,300 · +750 today"
+        },
+        {
+          "title": "AprilNEA/OpenLogi",
+          "url": "https://github.com/AprilNEA/OpenLogi",
+          "summary": "OpenLogi is a local-first alternative software for managing Logitech peripherals. Written in Rust, the tool lets users configure key mappings, sensitivity (DPI) settings, and SmartShift features without creating accounts or sharing data.",
+          "meta": "Rust · ★ 15,118 · +1,009 today"
+        },
+        {
+          "title": "block/buzz",
+          "url": "https://github.com/block/buzz",
+          "summary": "Buzz, developed by Block, is a hive mind communication platform written in Rust. It aims to optimize real-time data streams and collective decision-making processes across distributed systems.",
+          "meta": "Rust · ★ 30,198 · +410 today"
+        },
+        {
+          "title": "apache/maka",
+          "url": "https://github.com/apache/maka",
+          "summary": "Apache Maka provides a local-first workspace for AI agents. It records messages, tool calls, and permission decisions in an append-only log structure to ensure traceability of processes.",
+          "meta": "TypeScript · ★ 2,424 · +51 today"
+        },
+        {
+          "title": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "summary": "free-claude-code, developed by Alishahryar1, is a tool that provides free access to various AI models via the terminal or an integrated development environment (IDE). It eases development by offering voice command support and a large free token quota to users.",
+          "meta": "Python · ★ 48,113 · +1,081 today"
+        },
+        {
+          "title": "tinyhumansai/openhuman",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "summary": "OpenHuman, developed in Rust, is a personal AI assistant that builds a local-first memory of a user's life. The software acts as an orchestrator managing fleets of AI agents and as an analysis tool for in-depth research.",
+          "meta": "Rust · ★ 36,852 · +39 today"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC is a performance engineering system that optimizes skill, memory, and security layers for AI agents. It provides a research-oriented infrastructure for AI coding agents such as Claude Code and Cursor.",
+          "meta": "JavaScript · ★ 242,638 · +427 today"
+        },
+        {
+          "title": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "summary": "Ruflo, a TypeScript-based meta-framework, is designed to manage multiplayer swarms of autonomous AI agents. The system enables building conversational AI models that coordinate complex workflows with features like adaptable memory and retrieval-augmented generation (RAG) for using external data sources.",
+          "meta": "TypeScript · ★ 69,131 · +131 today"
+        },
+        {
+          "title": "VoltAgent/awesome-agent-skills",
+          "url": "https://github.com/VoltAgent/awesome-agent-skills",
+          "summary": "awesome-agent-skills, compiled by VoltAgent, aggregates over 1,000 agent skills contributed by developer teams and the community. The collection is designed to work with platforms like the coding assistant Cursor and AI-powered CLI tools such as Claude Code and Gemini CLI.",
+          "meta": "★ 31,405 · +156 today"
+        },
+        {
+          "title": "virgiliojr94/book-to-skill",
+          "url": "https://github.com/virgiliojr94/book-to-skill",
+          "summary": "Book-to-skill is a Python tool that converts technical books into learnable skill packages for the AI coding assistant Claude Code. The software turns book content into an on-demand reference resource, integrating technical knowledge into workflows.",
+          "meta": "Python · ★ 24,795 · +417 today"
+        },
+        {
+          "title": "dani-garcia/vaultwarden",
+          "url": "https://github.com/dani-garcia/vaultwarden",
+          "summary": "The summary for this item could not be generated today · please check the source link for details.",
+          "meta": "Rust · ★ 65,983 · +78 today"
+        },
+        {
+          "title": "anthropics/claude-plugins-community",
+          "url": "https://github.com/anthropics/claude-plugins-community",
+          "summary": "The community plugin directory for Anthropic's Claude Cowork and Claude Code tools offers an extensible system that automates software development workflows. Users can customize the capabilities of AI-assisted coding assistants via these Python-based plugins.",
+          "meta": "Python · ★ 1,046 · +225 today"
+        },
+        {
+          "title": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "summary": "Free-for-dev is a curated list that aggregates software (SaaS), platform (PaaS), and infrastructure (IaaS) services offering free tiers for developers and sysadmins. The project provides an up-to-date resource for those looking to reduce costs in development and operations.",
+          "meta": "HTML · ★ 134,557 · +615 today"
+        },
+        {
+          "title": "Comfy-Org/ComfyUI",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "summary": "ComfyUI is a modular graph editor that provides a node-based interface for image generation models. It allows users to design complex AI workflows with visual blocks and manage them via an API.",
+          "meta": "Python · ★ 129,497 · +201 today"
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "summary": "Hermes Agent, developed by NousResearch, is an autonomous AI agent that learns from user interactions and improves its capabilities over time. Written in Python, the project offers a continuously learning agent for building personalized workflows.",
+          "meta": "Python · ★ 235,142 · +454 today"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+          "url": "https://quantumi.sh/public/labs.html",
+          "summary": "Services like ElevenLabs (voice cloning and text-to-speech), video analysis platform TwelveLabs, and other similarly named ventures highlight the importance of brand identity and naming strategies in the AI market. This raises questions about how similar names affect user perception and brand recognition in the tech world.",
+          "meta": "438 points · 132 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49400408",
+              "popularity": 438,
+              "engagementCount": 132
+            }
+          ]
+        },
+        {
+          "title": "Hister – A private, full content search index that you control",
+          "url": "https://hister.org/",
+          "summary": "Hister is a private search engine that fully indexes content and gives you complete control over your personal data. Hostable on users' own servers, the tool lets you build a local search index without exporting data.",
+          "meta": "423 points · 94 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49351802",
+              "popularity": 423,
+              "engagementCount": 94
+            }
+          ]
+        },
+        {
+          "title": "Why your local LLM feels dumber than it is",
+          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "summary": "A primary reason locally run large language models underperform is often poorly constructed prompt templates and inadequate context management. Users can prevent performance degradation by running models with optimized system prompts and correct parameter settings.",
+          "meta": "417 points · 171 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49402232",
+              "popularity": 417,
+              "engagementCount": 171
+            }
+          ]
+        },
+        {
+          "title": "Scrap (2006)",
+          "url": "https://twitter.com/moxie/status/2091218652133732491",
+          "summary": "Scrap, shared by Moxie Marlinspike in 2006, is a web scraping tool for extracting structured data from the web. It is considered one of the early examples of automation-focused data collection methods that have become common today.",
+          "meta": "386 points · 212 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49402189",
+              "popularity": 386,
+              "engagementCount": 212
+            }
+          ]
+        },
+        {
+          "title": "typ.ing",
+          "url": "https://typ.ing/",
+          "summary": "typ.ing is a minimalist typing practice tool that lets users measure typing speed and accuracy. Its clean interface removes distractions to provide a focused writing experience.",
+          "meta": "321 points · 102 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49346854",
+              "popularity": 321,
+              "engagementCount": 102
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Qwen2.5-27B, developed by Alibaba, is a multimodal language model that can process both visual and text inputs. With advanced reasoning capabilities, it delivers high performance on text- and image-based tasks.",
+          "meta": "♥ 12,349 · 2,358,347 downloads"
+        },
+        {
+          "title": "unsloth/Qwen3.8-27B-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "summary": "Unsloth is an optimization library that enables faster training of large language models (LLMs) with lower memory usage. This GGUF-format release of the Qwen2.5-32B model allows more efficient inference on local hardware.",
+          "meta": "♥ 2,747 · 6,674,515 downloads"
+        },
+        {
+          "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "summary": "Qwen3.8-27B-Uncensored-MLX is a multimodal AI model that processes visual and text inputs to produce text outputs. Optimized for local execution on Apple devices, the uncensored model aims to provide unrestricted responses.",
+          "meta": "♥ 969 · 47,098 downloads"
+        },
+        {
+          "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+          "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+          "summary": "Qwen3.8-27B-OBLITERATED is a de-censored release of the Qwen text-generation model series, stripped of its safety filters. This modification is based on a content filter removal process that enables the model to respond without restrictions.",
+          "meta": "♥ 646 · 244,834 downloads"
+        },
+        {
+          "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+          "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
+          "summary": "Qwen3.8-27B-Uncensored-FP8, shared on Hugging Face, is a multimodal AI model that processes both visual and textual data. The model is notable for being uncensored and for using the floating-point 8-bit (FP8) format to reduce memory usage.",
+          "meta": "♥ 1,052 · 190,062 downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs",
+          "url": "https://huggingface.co/papers/2608.21360",
+          "summary": "OmniAssistBench is an evaluation framework that measures the performance of omni-modal large language models as real-time video assistants. By analyzing dynamic interactions where a model's responses influence a user's next steps, it tests the models' ability to combine visual data with user goals.",
+          "meta": "14 likes · 1 comments"
+        },
+        {
+          "title": "AgentMercury: Your Agent Can Synthesize Verifiable Environments for Business Scenarios at scale",
+          "url": "https://huggingface.co/papers/2608.20634",
+          "summary": "AgentMercury is a scalable framework that synthesizes executable environments from high-level business scenarios. Instead of manually creating environments used to train AI agents, it generates dynamic simulations based on realistic workflows.",
+          "meta": "3 likes · 1 comments"
+        },
+        {
+          "title": "Hadith computational science in the age of large language models: a critical narrative review",
+          "url": "https://huggingface.co/papers/2608.20364",
+          "summary": "Hadith studies are undergoing a digital transformation through integration with large language models and retrieval-grounded systems. This review assesses the methodological validity of these technologies, their limitations in academic use, and gaps in the existing literature.",
+          "meta": "0 likes · 1 comments"
+        },
+        {
+          "title": "Towards Faithful Simulation of Human Shopping Behavior",
+          "url": "https://huggingface.co/papers/2608.20707",
+          "summary": "Simulating e-commerce user behavior with large language models and vision-language models faces technical challenges around managing past session data and efficiently using the context window. This work proposes a new method that more consistently handles user history and shifting preference states to recreate realistic shopping experiences.",
+          "meta": "2 likes · 1 comments"
+        },
+        {
+          "title": "Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence",
+          "url": "https://huggingface.co/papers/2608.21156",
+          "summary": "Large language models are evolving from single-task systems toward complex system intelligence, becoming autonomous agents. In this transition, techniques like prompt engineering, context management, and iterative self-improvement are used to standardize agents' workflows.",
+          "meta": "5 likes · 1 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "And then the men with guns tell you to do it anyway",
+          "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+          "summary": "Technology companies' legal efforts to resist government data access requests can be ineffective against law enforcement's coercive powers. This highlights the structural conflict between companies' commitments to user privacy and legal compliance obligations.",
+          "meta": "84 points · 17 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/u7v2sn/then_men_with_guns_tell_you_do_it_anyway",
+              "popularity": 84,
+              "engagementCount": 17
+            }
+          ]
+        },
+        {
+          "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
+          "url": "https://ericpardee.github.io/fire-hd-ownership/",
+          "summary": "A user modified their tablet's software with help from four different large language models (LLMs) to bypass Amazon's restrictions. The process demonstrates how AI can be used to regain control over hardware by solving technical problems.",
+          "meta": "40 points · 12 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/fadbev/amazon_kept_shutting_down_my_tablet_so_i",
+              "popularity": 40,
+              "engagementCount": 12
+            }
+          ]
+        },
+        {
+          "title": "An Introduction to Canvas in GNU Emacs",
+          "url": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
+          "summary": "Canvas, a graphical interface within the GNU Emacs text editor that allows drawing graphics, enables visual content creation in text-based environments. The feature lets developers design simple graphics without needing an external tool during code or document editing.",
+          "meta": "57 points · 10 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/9xglf3/introduction_canvas_gnu_emacs",
+              "popularity": 57,
+              "engagementCount": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Prompt as Code",
+      "explanation": "The method of managing commands given to AI by versioning and testing them like software code."
+    },
+    {
+      "term": "prompt engineering",
+      "explanation": "The art of writing prompts most effectively to get the most accurate and high-quality responses from AI."
+    },
+    {
+      "term": "skills",
+      "explanation": "Special capabilities or tools that AI models have to perform specific tasks."
+    },
+    {
+      "term": "local-first",
+      "explanation": "A software approach where data is stored and processed on the user's own device before needing the internet."
+    },
+    {
+      "term": "DPI",
+      "explanation": "A measure of dot density that determines how sharp and detailed an image a screen or printer can produce."
+    },
+    {
+      "term": "hive mind",
+      "explanation": "Many interconnected AI units acting together like a single center to form a collective intelligence."
+    },
+    {
+      "term": "append-only",
+      "explanation": "A record system where existing information cannot be changed or deleted and only new data can be appended."
+    },
+    {
+      "term": "IDE",
+      "explanation": "An integrated development environment where developers can find all the tools they need while writing code in one place."
+    },
+    {
+      "term": "token",
+      "explanation": "The smallest unit the AI uses when processing text, corresponding to words or sub-word pieces."
+    },
+    {
+      "term": "AI coding agents",
+      "explanation": "Autonomous AI assistants that can write code on their own, fix bugs, and manage software projects."
+    },
+    {
+      "term": "swarms",
+      "explanation": "Many small AI units that communicate and coordinate with each other to solve complex problems."
+    },
+    {
+      "term": "RAG",
+      "explanation": "A method that enables AI to produce more accurate answers by fetching data from current or private documents outside of its own knowledge."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Capabilities that allow AI agents to interact with the outside world, such as searching the web or manipulating files."
+    },
+    {
+      "term": "SaaS",
+      "explanation": "A service model where you use software via monthly or annual subscription over the internet instead of installing it on your computer."
+    },
+    {
+      "term": "PaaS",
+      "explanation": "The delivery of infrastructure and tools over the internet needed for developers to build their own applications."
+    },
+    {
+      "term": "IaaS",
+      "explanation": "The virtual rental over the internet of fundamental hardware resources like servers, storage, and networking."
+    }
+  ]
+}

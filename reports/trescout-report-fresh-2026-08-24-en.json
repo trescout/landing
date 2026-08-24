@@ -1,0 +1,184 @@
+{
+  "date": "2026-08-24",
+  "capturedAt": "2026-08-24T04:45:43.529Z",
+  "editorial": "This report includes trends that are appearing for the first time today, without repeating what we have shared in recent days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "freestylefly/awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "summary": "GPT-Image2 is a prompt engineering library that defines image-generation processes as code (Prompt as Code). With more than 470 reverse-engineered examples and over 20 industry templates, it makes it easier to obtain consistent results from AI models.",
+          "meta": "JavaScript · ★ 13,526 · +401 today"
+        },
+        {
+          "title": "tinyhumansai/openhuman",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "summary": "OpenHuman, developed in Rust, is a personal AI assistant that builds a local-first memory of the user's life. The software acts as an orchestrator that manages fleets of AI agents and as an analysis tool that conducts in-depth research.",
+          "meta": "Rust · ★ 36,852 · +39 today"
+        },
+        {
+          "title": "VoltAgent/awesome-agent-skills",
+          "url": "https://github.com/VoltAgent/awesome-agent-skills",
+          "summary": "awesome-agent-skills, compiled by VoltAgent, aggregates over 1,000 AI abilities (agent skills) created by developer teams and the community. This collection is designed to work with platforms like the code-writing assistant Cursor and AI-powered CLI tools (Claude Code, Gemini CLI).",
+          "meta": "★ 31,405 · +156 today"
+        },
+        {
+          "title": "dani-garcia/vaultwarden",
+          "url": "https://github.com/dani-garcia/vaultwarden",
+          "summary": "A summary for this item could not be produced today · see the source link for details.",
+          "meta": "Rust · ★ 65,983 · +78 today"
+        },
+        {
+          "title": "anthropics/claude-plugins-community",
+          "url": "https://github.com/anthropics/claude-plugins-community",
+          "summary": "The community plugin registry created for Anthropic's Claude Cowork and Claude Code tools offers an extensible framework that automates software development workflows. Users can customize the capabilities of AI-assisted coding assistants via these Python-based plugins.",
+          "meta": "Python · ★ 1,046 · +225 today"
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "summary": "Hermes Agent, developed by NousResearch, is an autonomous AI agent that learns from user interactions and improves its skills over time. Written in Python, this project provides a continuously learning agent for building personalized workflows.",
+          "meta": "Python · ★ 235,142 · +454 today",
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Why your local LLM feels dumber than it is",
+          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "summary": "The primary reason locally run large language models underperform is often misconfigured prompt templates and insufficient context management. Users can prevent performance losses by running models with optimized system prompts and correct parameter settings.",
+          "meta": "417 points · 171 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49402232",
+              "popularity": 417,
+              "engagementCount": 171
+            }
+          ]
+        },
+        {
+          "title": "typ.ing",
+          "url": "https://typ.ing/",
+          "summary": "typ.ing is a minimalist keyboard practice tool that lets users measure typing speed and accuracy. Its simple interface removes distractions to provide a focused typing experience.",
+          "meta": "321 points · 102 comments",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49346854",
+              "popularity": 321,
+              "engagementCount": 102
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs",
+          "url": "https://huggingface.co/papers/2608.21360",
+          "summary": "OmniAssistBench is an evaluation framework that measures the performance of omni-modal large language models as real-time video assistants. By analyzing dynamic interaction processes where a model's responses affect the user's next steps, it tests models' ability to integrate visual data and user goals.",
+          "meta": "14 likes · 1 comments"
+        },
+        {
+          "title": "AgentMercury: Your Agent Can Synthesize Verifiable Environments for Business Scenarios at scale",
+          "url": "https://huggingface.co/papers/2608.20634",
+          "summary": "AgentMercury is a scalable framework that synthesizes executable environments from high-level business scenarios. Instead of manually creating environments used to train AI agents, it generates dynamic simulations based on realistic workflows.",
+          "meta": "3 likes · 1 comments"
+        },
+        {
+          "title": "Hadith computational science in the age of large language models: a critical narrative review",
+          "url": "https://huggingface.co/papers/2608.20364",
+          "summary": "Hadith studies are undergoing a digital transformation through the integration of large language models and retrieval-grounded systems. This review evaluates the methodological validity of these technologies, their limitations in academic use, and gaps in the current literature.",
+          "meta": "0 likes · 1 comments"
+        },
+        {
+          "title": "Towards Faithful Simulation of Human Shopping Behavior",
+          "url": "https://huggingface.co/papers/2608.20707",
+          "summary": "Simulating e-commerce user behavior with large language models and vision-language models faces technical challenges around managing past session data and using the context window efficiently. This work proposes a new method that more consistently handles user history and changing preference states to recreate realistic shopping experiences.",
+          "meta": "2 likes · 1 comments"
+        },
+        {
+          "title": "Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence",
+          "url": "https://huggingface.co/papers/2608.21156",
+          "summary": "Large language models are transitioning from single tasks to complex system intelligence, becoming autonomous agents. In this process, methods like prompt engineering, context management, and cyclical self-improvement are used to standardize agents' workflows.",
+          "meta": "5 likes · 1 comments"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
+          "url": "https://ericpardee.github.io/fire-hd-ownership/",
+          "summary": "A user modified their device's software to free their tablet from Amazon's restrictions by leveraging four different LLMs. This process demonstrates how AI can be used to solve technical problems to regain control over hardware.",
+          "meta": "40 points · 12 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/fadbev/amazon_kept_shutting_down_my_tablet_so_i",
+              "popularity": 40,
+              "engagementCount": 12
+            }
+          ]
+        },
+        {
+          "title": "An Introduction to Canvas in GNU Emacs",
+          "url": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
+          "summary": "The Canvas interface, which enables graphical drawings inside the GNU Emacs text editor, makes it possible to create visual content in text-based environments. This feature allows developers to design simple graphics without needing an external tool during code or document editing.",
+          "meta": "57 points · 10 comments",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/9xglf3/introduction_canvas_gnu_emacs",
+              "popularity": 57,
+              "engagementCount": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Prompt as Code",
+      "explanation": "Prompt as Code: The practice of managing AI prompts like software code — versioning and testing them."
+    },
+    {
+      "term": "prompt engineering",
+      "explanation": "prompt engineering: the craft of writing prompts in the most effective way to obtain the most accurate and high-quality responses from an AI."
+    },
+    {
+      "term": "skills",
+      "explanation": "skills: the specific abilities or tools that allow AI models to perform particular tasks."
+    },
+    {
+      "term": "local-first",
+      "explanation": "local-first: a software approach where data is stored and processed on the user's device before requiring the internet."
+    },
+    {
+      "term": "IDE",
+      "explanation": "IDE: a development environment where developers can find all the tools they need while writing code in one place."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "agent skills: abilities that allow AI agents to interact with the outside world, such as searching the web or manipulating files."
+    }
+  ]
+}

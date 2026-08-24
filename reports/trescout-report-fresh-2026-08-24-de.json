@@ -1,0 +1,184 @@
+{
+  "date": "2026-08-24",
+  "capturedAt": "2026-08-24T04:45:43.529Z",
+  "editorial": "Dieser Bericht enthält Trends, die heute erstmals auffallen, ohne bereits in den letzten Tagen Geteiltes zu wiederholen.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "freestylefly/awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "summary": "GPT-Image2 ist eine Bibliothek für prompt engineering, die visuelle Erstellungsprozesse als Code definiert (Prompt as Code). Mit mehr als 470 rückentwickelten Beispielen und über 20 industriellen Vorlagen erleichtert sie es, konsistente Ergebnisse aus KI-Modellen zu erzielen.",
+          "meta": "JavaScript · ★ 13.526 · +401 heute"
+        },
+        {
+          "title": "tinyhumansai/openhuman",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "summary": "OpenHuman, in Rust entwickelt, ist ein persönlicher KI-Assistent, der ein lokal-prioritäres (local-first) Gedächtnis über das Leben des Nutzers anlegt. Die Software fungiert als Orchestrator, der Flotten von KI-Agenten verwaltet, und als Analysetool für tiefgehende Recherchen.",
+          "meta": "Rust · ★ 36.852 · +39 heute"
+        },
+        {
+          "title": "VoltAgent/awesome-agent-skills",
+          "url": "https://github.com/VoltAgent/awesome-agent-skills",
+          "summary": "Das von VoltAgent kuratierte awesome-agent-skills vereint über 1000 von Entwicklerteams und der Community erstellte KI‑Fähigkeiten (agent skills). Diese Sammlung ist so gestaltet, dass sie mit Plattformen wie dem Code‑Assistenten Cursor und KI-gestützten Kommandozeilenwerkzeugen (Claude Code, Gemini CLI) kompatibel arbeitet.",
+          "meta": "★ 31.405 · +156 heute"
+        },
+        {
+          "title": "dani-garcia/vaultwarden",
+          "url": "https://github.com/dani-garcia/vaultwarden",
+          "summary": "Die Zusammenfassung dieses Eintrags konnte heute nicht erstellt werden · Details finden Sie im Quellenlink.",
+          "meta": "Rust · ★ 65.983 · +78 heute"
+        },
+        {
+          "title": "anthropics/claude-plugins-community",
+          "url": "https://github.com/anthropics/claude-plugins-community",
+          "summary": "Das von Anthropic entwickelte Community‑Plugin‑Repository für Claude Cowork und Claude Code bietet eine erweiterbare Architektur zur Automatisierung von Softwareentwicklungsprozessen. Nutzer können die Fähigkeiten KI‑gestützter Code‑Assistenten mittels dieser Python‑basierten Plugins anpassen.",
+          "meta": "Python · ★ 1.046 · +225 heute"
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "summary": "Hermes Agent von NousResearch ist ein autonomer KI‑Agent, der aus Nutzerinteraktionen lernt und seine Fähigkeiten im Laufe der Zeit verbessert. Das in Python geschriebene Projekt bietet eine kontinuierlich lernende Agent‑Struktur zum Erstellen personalisierter Workflows.",
+          "meta": "Python · ★ 235.142 · +454 heute",
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Why your local LLM feels dumber than it is",
+          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "summary": "Der Hauptgrund dafür, dass lokal ausgeführte große Sprachmodelle (large language models) unter den Erwartungen bleiben, sind meist falsch konfigurierte Prompt‑Vorlagen und unzureichendes Kontextmanagement. Nutzer können Leistungsverluste vermeiden, indem sie Modelle mit optimierten Systembefehlen und korrekten Parameter‑Einstellungen betreiben.",
+          "meta": "417 Punkte · 171 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49402232",
+              "popularity": 417,
+              "engagementCount": 171
+            }
+          ]
+        },
+        {
+          "title": "typ.ing",
+          "url": "https://typ.ing/",
+          "summary": "typ.ing ist ein minimalistisches Keyboard‑Trainingstool, das die Schreibgeschwindigkeit und -genauigkeit der Nutzer misst. Mit seiner schlichten Oberfläche eliminiert es Ablenkungen und bietet so ein fokussiertes Schreiberlebnis.",
+          "meta": "321 Punkte · 102 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49346854",
+              "popularity": 321,
+              "engagementCount": 102
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs",
+          "url": "https://huggingface.co/papers/2608.21360",
+          "summary": "OmniAssistBench ist ein Evaluationsframework, das die Leistung multimodaler großer Sprachmodelle (omni-modal large language models) als Echtzeit‑Videoassistenten misst. Es analysiert dynamische Interaktionsprozesse, bei denen die Antworten des Modells die nächsten Schritte des Nutzers beeinflussen, und prüft so die Fähigkeit der Modelle, visuelle Daten und Nutzerziele zu integrieren.",
+          "meta": "14 Likes · 1 Kommentare"
+        },
+        {
+          "title": "AgentMercury: Your Agent Can Synthesize Verifiable Environments for Business Scenarios at scale",
+          "url": "https://huggingface.co/papers/2608.20634",
+          "summary": "AgentMercury ist ein skalierbares Framework, das aus hochstufigen Geschäftsszenarien ausführbare Umgebungen synthetisiert. Statt Umgebungen für das Training von KI‑Agenten (AI agents) manuell zu erstellen, ermöglicht es die Generierung dynamischer Simulationen basierend auf realistischen Workflows.",
+          "meta": "3 Likes · 1 Kommentare"
+        },
+        {
+          "title": "Hadith computational science in the age of large language models: a critical narrative review",
+          "url": "https://huggingface.co/papers/2608.20364",
+          "summary": "Hadith‑Studien durchlaufen mit der Integration großer Sprachmodelle (large language models) und retrieval‑grounded Systemen einen digitalen Wandel. Diese Untersuchung bewertet die methodische Validität der Technologien, Beschränkungen in der akademischen Nutzung und Lücken in der vorhandenen Literatur.",
+          "meta": "0 Likes · 1 Kommentare"
+        },
+        {
+          "title": "Towards Faithful Simulation of Human Shopping Behavior",
+          "url": "https://huggingface.co/papers/2608.20707",
+          "summary": "Die Simulation von E‑Commerce‑Nutzerverhalten mit großen Sprachmodellen (large language models) und vision‑language models stößt auf technische Herausforderungen beim Umgang mit vergangenen Sitzungdaten und bei der effizienten Nutzung des Kontextfensters. Diese Arbeit schlägt eine neue Methode vor, die Nutzerhistorie und sich ändernde Präferenzen kohärenter verarbeitet, um realistische Einkaufserlebnisse nachzubilden.",
+          "meta": "2 Likes · 1 Kommentare"
+        },
+        {
+          "title": "Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence",
+          "url": "https://huggingface.co/papers/2608.21156",
+          "summary": "Große Sprachmodelle (large language models) wandeln sich von singulären Aufgaben hin zu komplexer Systemintelligenz und werden zu autonomen Agenten. Dabei werden Methoden wie prompt engineering, Kontextmanagement und zyklische Selbstverbesserung genutzt, um die Workflows der Agenten zu standardisieren.",
+          "meta": "5 Likes · 1 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
+          "url": "https://ericpardee.github.io/fire-hd-ownership/",
+          "summary": "Ein Nutzer hat die Software seines Tablets mithilfe von vier verschiedenen KI‑Modellen (LLM) modifiziert, um das Gerät angesichts von Einschränkungen durch Amazon zu befreien. Dieser Vorgang zeigt, wie KI zur Lösung technischer Probleme eingesetzt werden kann, um Kontrolle über Hardware zurückzugewinnen.",
+          "meta": "40 Punkte · 12 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/fadbev/amazon_kept_shutting_down_my_tablet_so_i",
+              "popularity": 40,
+              "engagementCount": 12
+            }
+          ]
+        },
+        {
+          "title": "An Introduction to Canvas in GNU Emacs",
+          "url": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
+          "summary": "Die Canvas‑Oberfläche, die grafische Zeichnungen innerhalb des GNU Emacs Texteditors ermöglicht, macht die Erstellung visueller Inhalte in textbasierten Umgebungen möglich. Diese Funktion erlaubt es Entwicklern, einfache Grafiken zu entwerfen, ohne für Code‑ oder Dokumentbearbeitung auf ein externes Werkzeug zurückgreifen zu müssen.",
+          "meta": "57 Punkte · 10 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/9xglf3/introduction_canvas_gnu_emacs",
+              "popularity": 57,
+              "engagementCount": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Prompt as Code",
+      "explanation": "Prompt as Code: Die Methode, KI‑Anweisungen wie Software‑Code zu versionieren und durch Tests zu verwalten."
+    },
+    {
+      "term": "prompt engineering",
+      "explanation": "prompt engineering: Die Kunst, Anweisungen so zu formulieren, dass die KI die genauesten und qualitativ besten Antworten liefert."
+    },
+    {
+      "term": "skills",
+      "explanation": "skills: Spezielle Fähigkeiten oder Werkzeuge, die es KI‑Modellen ermöglichen, bestimmte Aufgaben auszuführen."
+    },
+    {
+      "term": "local-first",
+      "explanation": "local-first: Ein Softwareansatz, bei dem Daten zunächst auf dem Gerät des Nutzers gespeichert und verarbeitet werden, ohne auf das Internet angewiesen zu sein."
+    },
+    {
+      "term": "IDE",
+      "explanation": "IDE: Eine Entwicklungsumgebung, in der Entwickler alle Werkzeuge an einem Ort finden, die sie beim Programmieren benötigen."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "agent skills: Fähigkeiten, die es KI‑Agenten ermöglichen, in der Außenwelt zu agieren, z. B. im Internet zu suchen oder Dateien zu verwalten."
+    }
+  ]
+}
