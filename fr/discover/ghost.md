@@ -1,6 +1,6 @@
 # Plateforme moderne de contenu et de newsletter
 
-Ghost est un système de gestion de contenu (CMS) de code ouvert conçu pour la publication moderne, la gestion des membres et l'envoi de bolets informatifs. Il s'agit d'une plate-forme basée sur JavaScript qui fournit aux créateurs de contenu l'infrastructure nécessaire pour créer des modèles de recettes basés sur l'assistanat.
+Ghost, modern yayıncılık, üyelikler, abonelikler ve e-posta bültenleri için bağımsız bir teknoloji platformudur.
 
 - ★ 54 933
 - JavaScript

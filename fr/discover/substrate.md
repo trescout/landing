@@ -1,6 +1,6 @@
 # Infrastructure évolutive pour les agents d'intelligence artificielle
 
-Conçu avec le langage Go, l'agent Substrate offre un runtime de base pour les agents d'intelligence artificielle. Cette infrastructure, qui prend en charge différentes architectures d'agents, doit protéger les ressources du système et les flux de travail nécessaires aux agents.
+Agent Substrate, yapay zekâ ajanları için ölçeklenebilir altyapı sağlayan temel sistemdir.
 
 - ★ 1 276
 - Go

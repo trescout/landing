@@ -1,6 +1,6 @@
 # Yapay zekâ kodlama asistanına disiplin kazandırın
 
-Com base nas observações de Andrej Karpathy sobre erros encontrados ao codificar com grandes modelos de linguagem (LLM), CLAUDE.md visa otimizar o desempenho do Claude Code, uma ferramenta de codificação suportada por inteligência artificial. Este arquivo de configuração serve como um guia para os desenvolvedores obterem saída de código mais consistente e livre de erros da inteligência artificial.
+Andrej Karpathy Skills, Andrej Karpathy'nin LLM'lerle kodlamanın olası sorunlarına ilişkin gözlemlerinden türetilen tek bir CLAUDE.md dosyasıyla Claude Code davranışını iyileştirmeyi amaçlar.
 
 - ★ 205.391
 - GitHub Trending · 2026-08-23

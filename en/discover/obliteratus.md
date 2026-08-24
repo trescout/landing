@@ -1,6 +1,6 @@
 # Clean up unnecessary dependencies
 
-Como uma ferramenta de desenvolvimento de software baseada em Python, OBLITERATUS visa limpar dependências desnecessárias e estruturas complexas em bases de código. In the project, there is no reduzir, it is not a problem, it is a matter of time.
+OBLITERATUS, açık kaynaklı bir projedir.
 
 - ★ 7,994
 - Python

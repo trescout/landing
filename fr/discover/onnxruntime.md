@@ -1,6 +1,6 @@
 # Plateforme qui accélère les modèles d'intelligence artificielle
 
-Conçu par Microsoft, ONNX Runtime est un outil qui permet aux modèles d'apprentissage automatique d'être exécutés et formés avec une grande utilité sur diverses plates-formes. Il se précipitera sur les processus de développement d'applications, en optimisant les processus d'inférence de modèles dans diverses architectures de matériel.
+ONNX Runtime, makine öğrenimi çıkarımı ve eğitimi için platformlar arası çalışan yüksek performanslı bir hızlandırıcıdır.
 
 - ★ 21 495
 - C++

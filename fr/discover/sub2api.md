@@ -1,6 +1,6 @@
 # Gérez les abonnements IA à partir d’un seul centre
 
-Sub2API est un service de migration de code ouvert qui combine différentes entités d'IA, comme Claude, OpenAI, Gemini et Grok, dans une interface unique. En permettant aux utilisateurs partageant le service d'abonnement, d'offrir la possibilité d'utiliser ces services de forme intégrés avec les ferramentas existants.
+Sub2API, Claude, OpenAI, Gemini ve Grok aboneliklerine tek noktadan erişim ve maliyet paylaşımı sağlayan açık kaynaklı bir aracı hizmettir.
 
 - ★ 38 841
 - Go

@@ -1,6 +1,6 @@
 # Codage basé sur l'intelligence artificielle via un terminal
 
-Développé dans le langage Rust, le Codex est un agent de codification élevé qui ne rentre pas dans le terminal. Nous proposons des suggestions et des éditions de code directement depuis la ligne de commande pour améliorer les processus de développement du logiciel.
+Codex, doğrudan terminalde çalışan hafif bir kodlama ajanıdır.
 
 - ★ 115 876
 - Rust

@@ -289,6 +289,13 @@ jobs:
       - name: SEO/GEO guard
         run: python3 scripts/check-seo-geo.py
 
+      # Kaynak katalog veya üretilmiş TR/çok dilli keşif sayfalarında Portekizce
+      # tagline sızıntısını engeller. Guard yalnız dosya okur; ağ/çeviri/e-posta
+      # çağrısı yapmaz ve normal teknoloji terimlerini yanlış alarm vermemesi için
+      # birden fazla ayırt edici işaret ister.
+      - name: Keşif dil kalite guard’ı
+        run: python3 scripts/check-discovery-language.py
+
       - name: Değişiklik varsa commit'le
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
