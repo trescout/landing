@@ -209,6 +209,7 @@ DILLER = {
         "ceviri_notu": ("This explanation was written in plain language for TreScout and <strong>machine-translated</strong> from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to "),
         "rapor_cekim": "Data captured {an}",
         "rapor_cekim_not": "Sources are snapshots · this report reflects the moment above, not the whole calendar day.",
+        "rapor_snapshot_notu": "Report counts and item metadata are a snapshot from the capture time above. Discovery pages may show newer live source values.",
         "rapor_dil_adi": "English",
         "rapor_not": ("Full report PDF: every item with its summary, source links and the glossary of "
                       "terms. Translated from the original Turkish edition."),
@@ -223,6 +224,7 @@ DILLER = {
             "Günün Modelleri": "Daily Models",
             "Günün Makaleleri": "Daily Papers",
             "öne çıkan": "highlights",
+            "yeni": "new",
         },
         "rapor_varyant": {
             "normal": {
@@ -381,6 +383,7 @@ DILLER = {
         "ceviri_notu": ("Cette explication a été rédigée en langage clair pour TreScout puis <strong>traduite automatiquement</strong> depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à "),
         "rapor_cekim": "Données collectées le {an}",
         "rapor_cekim_not": "Les sources sont des instantanés · ce rapport reflète le moment ci-dessus, pas la journée entière.",
+        "rapor_snapshot_notu": "Les nombres et métadonnées de ce rapport sont l’instantané du moment indiqué ci-dessus. Les pages Découverte peuvent afficher des valeurs sources en direct plus récentes.",
         "rapor_dil_adi": "français",
         "rapor_not": ("Le PDF complet : chaque élément avec son résumé, ses liens sources et le glossaire "
                       "des termes. Traduit de l'édition turque originale."),
@@ -394,6 +397,7 @@ DILLER = {
             "Günün Modelleri": "modèles du jour",
             "Günün Makaleleri": "articles du jour",
             "öne çıkan": "à retenir",
+            "yeni": "nouveaux",
         },
         "rapor_varyant": {
             "normal": {
@@ -600,6 +604,7 @@ DILLER = {
         "ceviri_notu": ("Esta explicação foi escrita em linguagem simples para a TreScout e <strong>traduzida automaticamente</strong> do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para "),
         "rapor_cekim": "Dados coletados em {an}",
         "rapor_cekim_not": "As fontes são instantâneos · este relatório reflete o momento acima, não o dia inteiro.",
+        "rapor_snapshot_notu": "As contagens e os metadados dos itens deste relatório são o instantâneo do momento indicado acima. As páginas de Descoberta podem mostrar valores de fontes ao vivo mais recentes.",
         "rapor_dil_adi": "português",
         "rapor_not": ("PDF completo: cada item com seu resumo, os links das fontes e o glossário de termos. "
                       "Traduzido da edição original em turco."),
@@ -613,6 +618,7 @@ DILLER = {
             "Günün Modelleri": "modelos do dia",
             "Günün Makaleleri": "artigos do dia",
             "öne çıkan": "em destaque",
+            "yeni": "novos",
         },
         "rapor_varyant": {
             "normal": {
@@ -787,6 +793,7 @@ DILLER = {
         "ceviri_notu": ("Esta explicación se redactó en lenguaje sencillo para TreScout y se <strong>tradujo automáticamente</strong> del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a "),
         "rapor_cekim": "Datos recogidos el {an}",
         "rapor_cekim_not": "Las fuentes son instantáneas · este informe refleja el momento indicado, no el día entero.",
+        "rapor_snapshot_notu": "Los recuentos y metadatos de los elementos de este informe corresponden al instante indicado arriba. Las páginas de Descubrimiento pueden mostrar valores de fuentes en vivo más recientes.",
         "rapor_dil_adi": "español",
         "rapor_not": ("PDF completo: cada elemento con su resumen, los enlaces de las fuentes y el glosario "
                       "de términos. Traducido de la edición original en turco."),
@@ -801,6 +808,7 @@ DILLER = {
             "Günün Modelleri": "modelos del día",
             "Günün Makaleleri": "artículos del día",
             "öne çıkan": "destacados",
+            "yeni": "nuevos",
         },
         "rapor_varyant": {
             "normal": {
@@ -977,6 +985,7 @@ DILLER = {
         "ceviri_notu": ("Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und <strong>maschinell übersetzt</strong> aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an "),
         "rapor_cekim": "Daten erfasst am {an}",
         "rapor_cekim_not": "Die Quellen sind Momentaufnahmen · dieser Bericht gibt den oben genannten Zeitpunkt wieder, nicht den ganzen Kalendertag.",
+        "rapor_snapshot_notu": "Die Zählungen und Metadaten dieses Berichts sind eine Momentaufnahme des oben genannten Zeitpunkts. Die Entdeckungsseiten können neuere Live-Werte der Quellen anzeigen.",
         "rapor_dil_adi": "Deutsch",
         "rapor_not": ("Vollständiges PDF: jeder Eintrag mit Zusammenfassung, die Links zu den Quellen und "
                       "das Glossar der Begriffe. Übersetzt aus der türkischen Originalausgabe."),
@@ -991,6 +1000,7 @@ DILLER = {
             "Günün Modelleri": "Modelle des Tages",
             "Günün Makaleleri": "Beiträge des Tages",
             "öne çıkan": "hervorgehoben",
+            "yeni": "neu",
         },
         "rapor_varyant": {
             "normal": {
