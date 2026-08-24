@@ -2,7 +2,7 @@
 
 Developed by Alibaba, zvec is a lightweight and high-speed in-process vector database solution written in C++. It aims to increase system performance by allowing applications to process vector data directly in memory.
 
-- ★ 15,356
+- ★ 15,504
 - C++
 - GitHub Trending · 2026-06-17
 

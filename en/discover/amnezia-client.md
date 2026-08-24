@@ -2,7 +2,7 @@
 
 Amnesia VPN client is an open source networking tool that allows users to provide uncensored internet access through its own servers. Developed in C++, this software offers customizable tunneling protocols that protect personal privacy on desktop and mobile platforms.
 
-- ★ 14,262
+- ★ 14,617
 - C++
 - GitHub Trending · 2026-07-27
 

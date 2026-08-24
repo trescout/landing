@@ -1,25 +1,25 @@
 # Was ist Swarms?
 
-Karmaşık görevleri çözmek için koordineli şekilde çalışan küçük yapay zekâ birimleri topluluğudur.
+Dabei handelt es sich um eine Ansammlung kleiner Einheiten künstlicher Intelligenz, die koordiniert zusammenarbeiten, um komplexe Aufgaben zu lösen.
 
 ## Definition
-Birçok küçük ve özelleşmiş yapay zekâ biriminin, büyük ve hantal bir model yerine küçük görevleri paylaşarak çalışmasıdır. Bu birimler birbirleriyle sürekli haberleşerek karmaşık sorunları parçalara ayırır ve her parçayı en uygun birim çözer. Bu yapı, sistemin esnekliğini ve hızını artırır.
+Es funktioniert, indem viele kleine, spezialisierte KI-Einheiten kleine Aufgaben teilen, anstatt in einem großen, umständlichen Modell. Diese Einheiten kommunizieren ständig miteinander, zerlegen komplexe Probleme in Teile und die am besten geeignete Einheit löst jeden Teil. Diese Struktur erhöht die Flexibilität und Geschwindigkeit des Systems.
 
 ## So funktioniert es
-Bir ana kontrolcü veya merkezi olmayan bir protokol ile görevler dağıtılır. Her birim kendi çıktısını diğerine ileterek nihai sonuca ulaşılır.
+Die Aufgabenverteilung erfolgt über einen übergeordneten Controller oder ein dezentrales Protokoll. Das Endergebnis wird dadurch erreicht, dass jede Einheit ihre Ergebnisse an die andere übermittelt.
 
 ## Wo es eingesetzt wird
-Otonom araçlar, lojistik planlama ve karmaşık yazılım geliştirme süreçlerinde kullanılır.
+Autonome Fahrzeuge werden in der Logistikplanung und in komplexen Softwareentwicklungsprozessen eingesetzt.
 
 ## Häufig verwechselt mit
-Hive mind ile benzerdir; ancak swarm daha çok görev odaklı ve dinamik bir iş birliğini ifade eder.
+Es ähnelt dem Schwarmgeist; Schwarm bezieht sich jedoch auf eine eher aufgabenorientierte und dynamische Zusammenarbeit.
 
 ## Häufige Fragen
-**Swarms neden verimlidir?**
-Her birim kendi alanında uzmanlaştığı için kaynak kullanımı daha optimize olur.
+**Warum sind Schwärme produktiv?**
+Da sich jede Einheit auf ihr eigenes Fachgebiet spezialisiert, wird die Ressourcennutzung optimiert.
 
-**Bir birim hata yaparsa sistem çöker mi?**
-Hayır, diğer birimler bu hatayı telafi edebilir veya görevi devralabilir.
+**Wenn eine Einheit einen Fehler macht, stürzt das System ab?**
+Nein, andere Einheiten können diesen Fehler ausgleichen oder übernehmen.
 
 
 ## Verwandte Begriffe

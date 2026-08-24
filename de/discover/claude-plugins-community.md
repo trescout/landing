@@ -1,15 +1,15 @@
-# Yapay zekâ kodlama asistanına eklentiler ekleyin
+# Fügen Sie Plugins zum KI-Codierungsassistenten hinzu
 
-Anthropic tarafından geliştirilen Claude Cowork ve Claude Code araçları için oluşturulan topluluk eklenti dizini, yazılım geliştirme süreçlerini otomatikleştiren genişletilebilir bir yapı sunuyor. Kullanıcılar, Python tabanlı bu eklentiler sayesinde yapay zekâ destekli kodlama asistanlarının yeteneklerini özelleştirebiliyor.
+Das von Anthropic entwickelte Community-Plugin-Verzeichnis für die Tools Claude Cowork und Claude Code bietet eine erweiterbare Struktur, die Softwareentwicklungsprozesse automatisiert. Dank dieser Python-basierten Plug-Ins können Benutzer die Funktionen von durch künstliche Intelligenz unterstützten Codierungsassistenten anpassen.
 
 - ★ 1.046
 - Python
 - GitHub Trending · 2026-08-24
 
 ## Was es bringt
-- Kodlama süreçlerini otomatikleştiren eklentilere erişim sağlar
-- Güvenlik taramasından geçmiş onaylı araçları listeler
-- Yapay zekâ destekli asistanların yeteneklerini özelleştirir
+- Bietet Zugriff auf Plugins, die Codierungsprozesse automatisieren
+- Listet zugelassene Fahrzeuge auf, die die Sicherheitskontrolle bestanden haben
+- Passt die Fähigkeiten von KI-gestützten Assistenten an
 
 ## So fangen Sie an
 - Offizielle Quelle →

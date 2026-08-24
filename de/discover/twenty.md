@@ -2,7 +2,7 @@
 
 Twenty ist eine Open-Source-Salesforce-Alternative, die es technischen Teams ermöglicht, ein modernes CRM aufzubauen, das an ihre Geschäftsprozesse angepasst werden kann. Sie können dieses System, das auf künstliche Intelligenz-gestützte Workflows setzt, auf Ihrem eigenen Server hosten.
 
-- ★ 54.772
+- ★ 55.436
 - TypeScript
 - Lisans: özel
 - GitHub Trending · 26 May 2026

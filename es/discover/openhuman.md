@@ -1,15 +1,15 @@
-# Kişisel yapay zekâ için yerel bellek
+# Memoria local para IA personal
 
-Rust diliyle geliştirilen OpenHuman, kullanıcının yaşamına dair yerel öncelikli (local-first) bir bellek oluşturan kişisel yapay zekâ asistanıdır. Yazılım, yapay zekâ ajanlarından oluşan filoları yöneten bir orkestratör ve derinlemesine araştırma yapan bir analiz aracı olarak işlev görür.
+OpenHuman, desarrollado con el lenguaje Rust, es un asistente personal de inteligencia artificial que crea un primer recuerdo local de la vida del usuario. El software funciona como un orquestador que gestiona flotas de agentes de IA y una herramienta de análisis de sondeo.
 
 - ★ 36.855
 - Rust
 - GitHub Trending · 2026-08-24
 
 ## Qué aporta
-- Tüm verilerinizi SQLite veritabanında yerel olarak saklar
-- Gmail ve Notion gibi araçlarla otomatik entegrasyon sağlar
-- Karmaşık görevleri yönetmek için yapay zekâ ajanlarını koordine eder
+- Almacena todos sus datos localmente en la base de datos SQLite
+- Proporciona integración automática con herramientas como Gmail y Notion.
+- Coordina a los agentes de IA para gestionar tareas complejas.
 
 ## Cómo empezar
 - Fuente oficial →

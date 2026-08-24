@@ -1,25 +1,25 @@
 # Was ist Append-only?
 
-Verilerin sadece sona eklenebildiği, değiştirilemediği veya silinemediği bir kayıt yöntemidir.
+Es handelt sich um eine Aufzeichnungsmethode, bei der Daten nur angehängt, nicht verändert oder gelöscht werden können.
 
 ## Definition
-Bir veri tabanına veya dosyaya bilgi eklerken, eski verileri değiştirmek yerine her yeni bilgiyi listenin sonuna ekleme prensibidir. Bu yöntem, verinin geçmişini korumak ve güvenliğini sağlamak için kritiktir. Hiçbir veri silinmediği için sistemdeki tüm hareketlerin izini sürmek mümkündür.
+Beim Hinzufügen von Informationen zu einer Datenbank oder Datei gilt das Prinzip, jede neue Information am Ende der Liste hinzuzufügen, anstatt alte Daten zu ersetzen. Diese Methode ist für die Wahrung des Verlaufs und der Sicherheit der Daten von entscheidender Bedeutung. Da keine Daten gelöscht werden, ist eine Nachvollziehbarkeit aller Bewegungen im System möglich.
 
 ## So funktioniert es
-Sistem, veriyi güncelleyen bir komut yerine sadece 'ekle' komutunu kabul eder. Bu sayede verinin tarihçesi her zaman korunmuş olur.
+Das System akzeptiert nur einen „Hinzufügen“-Befehl und keinen Befehl, der die Daten aktualisiert. Auf diese Weise bleibt der Verlauf der Daten stets erhalten.
 
 ## Wo es eingesetzt wird
-Blokzincir teknolojilerinde, günlük (log) tutma sistemlerinde ve denetlenebilir veri tabanlarında kullanılır.
+Es wird in Blockchain-Technologien, Protokollierungssystemen und überprüfbaren Datenbanken verwendet.
 
 ## Häufig verwechselt mit
-Geleneksel veri tabanları ile karıştırılabilir; geleneksel olanlar veriyi güncelleyebilir, bu yöntem ise asla izin vermez.
+Kann mit herkömmlichen Datenbanken verwechselt werden; Herkömmliche Methoden können die Daten aktualisieren, diese Methode erlaubt dies jedoch nicht.
 
 ## Häufige Fragen
 **Was passiert, wenn ich einen Fehler mache?**
-Hatalı veriyi silmek yerine, hatayı düzelten yeni bir kayıt daha eklersiniz.
+Anstatt die fehlerhaften Daten zu löschen, fügen Sie einen neuen Datensatz hinzu, der den Fehler korrigiert.
 
-**Neden bu kadar güvenli?**
-Veri değiştirilemediği için geçmişe dönük manipülasyon yapmak imkansıza yakındır.
+**Warum ist es so sicher?**
+Da die Daten nicht verändert werden können, ist eine Manipulation der Vergangenheit nahezu unmöglich.
 
 
 ## Verwandte Begriffe

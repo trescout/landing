@@ -1,4 +1,4 @@
-# Kendi sunucunuzda parola yönetimi
+# Gestión de contraseñas en tu propio servidor
 
 No se pudo producir un resumen de este artículo hoy; consulte el enlace fuente para obtener más detalles.
 
@@ -7,12 +7,12 @@ No se pudo producir un resumen de este artículo hoy; consulte el enlace fuente 
 - GitHub Trending · 2026-08-24
 
 ## Qué aporta
-- Resmî Bitwarden istemcileriyle tam uyumlu çalışır
-- Düşük kaynak tüketimiyle kendi sunucunuzda barındırılabilir
-- İki faktörlü doğrulama ve acil durum erişimi sunar
+- Totalmente compatible con los clientes oficiales de Bitwarden
+- Puede alojarse en su propio servidor con bajo consumo de recursos.
+- Ofrece autenticación de dos factores y acceso de emergencia.
 
 ## Instalación
-**Kapsayıcıyı indirme ve çalıştırma**
+**Descargue y ejecute el contenedor**
 
 ```
 docker pull vaultwarden/server:latest
@@ -26,7 +26,7 @@ docker run --detach --name vaultwarden \
 
 
 ## Si no programa
-Benim için kendi sunucumda parola yönetimi sağlayan Vaultwarden aracını kurmama yardımcı ol. Bu araç, Bitwarden istemcileriyle uyumlu bir sunucu yazılımıdır. Docker kullanarak kurulum yapacağım için gerekli olan imajı çekme ve çalıştırma komutlarını, verilerimin kalıcı olması için bir birim (volume) bağlayarak ve HTTPS gereksinimlerini göz önünde bulundurarak nasıl yapılandıracağımı adım adım açıkla.
+Ayúdame a instalar Vaultwarden, una herramienta que proporciona administración de contraseñas en mi propio servidor. Esta herramienta es un software de servidor compatible con los clientes Bitwarden. Dado que realizaré la instalación usando Docker, explico paso a paso cómo configurar los comandos de imagen para extraer y ejecutar, montar un volumen para conservar mis datos y tener en cuenta los requisitos de HTTPS.
 
 ## Términos relacionados del glosario
 

@@ -2,7 +2,7 @@
 
 This Python-based tool that automates Bilibili membership purchasing processes is a ticket purchasing assistant designed to speed up ticket purchasing processes. It allows users to grab limited stock products on the platform faster.
 
-- ★ 4,173
+- ★ 4,195
 - GitHub Trending · 2026-06-22
 
 ## What you get

@@ -2,11 +2,12 @@
 
 Amnezia VPN istemcisi, kullanıcıların kendi sunucuları üzerinden sansürsüz internet erişimi sağlamasına olanak tanıyan açık kaynaklı bir ağ aracıdır. C++ diliyle geliştirilen bu yazılım, masaüstü ve mobil platformlarda kişisel gizliliği koruyan özelleştirilebilir tünelleme protokolleri sunar.
 
-- ★ 14.262
+- ★ 14.617
 - C++
 - GitHub Trending · 2026-07-27
 
 ## Güncelleme
+- 24 Ağustos 2026: Yıldız 14.262 → 14.617, son sürüm 5.0.1.5 (21 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 13.457 → 14.262, son sürüm 5.0.0.5 (26 Temmuz 2026).
 
 ## Ne kazandırır?

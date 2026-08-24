@@ -2,7 +2,7 @@
 
 O cliente Amnesia VPN é uma ferramenta de rede de código aberto que permite aos usuários fornecer acesso não censurado à Internet por meio de seus próprios servidores. Desenvolvido em C++, este software oferece protocolos de tunelamento personalizáveis ​​que protegem a privacidade pessoal em plataformas desktop e móveis.
 
-- ★ 14.262
+- ★ 14.617
 - C++
 - GitHub Trending · 2026-07-27
 
