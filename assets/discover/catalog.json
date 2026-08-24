@@ -1523,17 +1523,90 @@
   {
     "slug": "ruview",
     "title": "RuView",
-    "tagline": "Sıradan WiFi sinyallerini kamera olmadan gerçek zamanlı mekânsal zekâya dönüştürün.",
-    "meta": "★ 91.322 · MIT",
+    "tagline": "WiFi CSI ile kablosuz sensing ve sinyal analizi için açık kaynaklı platform.",
+    "meta": "★ 91.322",
+    "image": "/assets/discover/og/ruview.webp",
     "source": "GitHub",
     "date": "2026-05-30",
     "tags": [
       "Geliştirici aracı"
     ],
     "stars": 91322,
-    "image": "/assets/discover/og/ruview.webp",
-    "headline": "WiFi Sinyalleriyle Mekansal Zeka Kazanın",
-    "last_review": "2026-08-24",
+    "summary": "WiFi Channel State Information (CSI) kullanarak ortam değişimlerini incelemenize yardımcı olur. ESP32 veya araştırma NIC’leriyle çalışabilir; donanımınız yoksa simüle edilmiş verilerle değerlendirme yapabilirsiniz.",
+    "headline": "WiFi Sinyalleriyle Kablosuz Algılama Platformu",
+    "lite": false,
+    "headline_locked": true,
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Docker imajını çekin",
+          "komut": "docker pull ruvnet/wifi-densepose:latest"
+        },
+        {
+          "baslik": "Kaynak kodunu alın",
+          "komut": "git clone https://github.com/ruvnet/RuView.git"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Donanımsız demo sunucusu",
+          "komut": "docker run -p 3000:3000 ruvnet/wifi-densepose:latest"
+        },
+        {
+          "baslik": "Deterministik doğrulama",
+          "komut": "./verify"
+        }
+      ],
+      "kaynak": "Komutlar RuView resmî kullanıcı ve build rehberlerinden 24 Ağustos 2026’da kontrol edildi; Docker varsayılan olarak simüle edilmiş verilerle çalışabilir."
+    },
+    "editorial": {
+      "overview": "RuView, WiFi Channel State Information (CSI) verileriyle sensing çalışmaları için kullanılan MIT lisanslı bir platformdur. ESP32 ve araştırma NIC’leriyle çalışabilir; Docker veya kaynak kodu yoluyla kurulabilir. Donanım olmadan simüle edilmiş verilerle değerlendirme yapabilirsiniz. Yetenekler kullanılan donanıma göre değişir: laptopta yalnızca RSSI kullanımı kaba varlık ve hareket algılama içindir; gelişmiş sensing için tam CSI destekli donanım gerekir.",
+      "best_for": "WiFi sinyalleriyle varlık, hareket veya ortam değişimi üzerine sensing denemeleri yapmak isteyen araştırmacılar ve geliştiriciler için uygundur.",
+      "not_for": "Tıbbi izleme amacıyla doğruluk beklentisi olan çalışmalar veya standart laptopun RSSI modunda pose kestirimi bekleyenler için uygun değildir.",
+      "wins": [
+        "ESP32 ve araştırma NIC’leriyle CSI tabanlı sensing seçenekleri sunar.",
+        "Donanımınız olmadan simüle edilmiş verilerle değerlendirme yapabilirsiniz.",
+        "Resmî build rehberinde deterministik referans sinyal doğrulaması için `./verify` adımı belgelenir.",
+        "Laptop RSSI modu ile tam CSI donanımının sunduğu sensing kapsamı birbirinden ayrılır."
+      ],
+      "first_run_steps": [
+        "Docker veya kaynak kodu yolundan, resmî kurulum belgelerine göre ortamınızı hazırlayın.",
+        "Donanımınız yoksa simüle edilmiş verilerle değerlendirme akışını inceleyin.",
+        "Build rehberinde açıklanan deterministik referans sinyal doğrulaması için `./verify` adımını çalıştırın.",
+        "Kullandığınız donanıma göre RSSI-only veya tam CSI sensing akışını seçin."
+      ],
+      "safety_note": "Laptopta RSSI-only mod, kaba varlık ve hareket algılama içindir; pose desteği sunmaz. Pose ve bazı benchmark yetenekleri deneysel, ilk sürüm niteliğinde veya açık sınırlılıklarla belgelenir; sonuçları kullandığınız donanım moduna göre değerlendirin.",
+      "first_prompt": "WiFi CSI verileriyle basit bir hareket algılama senaryosunu simüle edilmiş veri üzerinden nasıl değerlendirebilirsiniz?"
+    },
+    "sources": [
+      {
+        "url": "https://github.com/ruvnet/RuView",
+        "label": "RuView resmî GitHub deposu",
+        "label_en": "Official RuView GitHub repository",
+        "label_fr": "Dépôt GitHub officiel de RuView",
+        "label_pt": "Repositório GitHub oficial do RuView",
+        "label_es": "Repositorio oficial de GitHub de RuView",
+        "label_de": "Offizielles RuView-GitHub-Repository"
+      },
+      {
+        "url": "https://github.com/ruvnet/RuView/blob/main/docs/user-guide.md",
+        "label": "RuView kullanıcı rehberi",
+        "label_en": "RuView user guide",
+        "label_fr": "Guide utilisateur de RuView",
+        "label_pt": "Guia do usuário do RuView",
+        "label_es": "Guía de usuario de RuView",
+        "label_de": "RuView-Benutzerhandbuch"
+      },
+      {
+        "url": "https://github.com/ruvnet/RuView/blob/main/docs/build-guide.md",
+        "label": "RuView build rehberi",
+        "label_en": "RuView build guide",
+        "label_fr": "Guide de compilation de RuView",
+        "label_pt": "Guia de build do RuView",
+        "label_es": "Guía de compilación de RuView",
+        "label_de": "RuView-Bauanleitung"
+      }
+    ],
     "guncellemeler": [
       {
         "tarih": "2026-08-02",
@@ -1599,12 +1672,144 @@
         "surum_tarihi": "2026-08-22"
       }
     ],
-    "tagline_en": "Turn ordinary WiFi signals into real-time spatial intelligence without a camera.",
-    "tagline_fr": "Transformez les signaux WiFi ordinaires en intelligence spatiale en temps réel sans caméra.",
-    "tagline_pt": "Transforme sinais WiFi comuns em inteligência espacial em tempo real sem câmera.",
-    "tagline_es": "Convierta las señales WiFi ordinarias en inteligencia espacial en tiempo real sin cámara.",
-    "tagline_de": "Verwandeln Sie gewöhnliche WLAN-Signale ohne Kamera in räumliche Intelligenz in Echtzeit.",
-    "last_seen": "2026-08-11"
+    "last_review": "2026-08-24",
+    "localized": {
+      "en": {
+        "headline": "Wireless Sensing with WiFi Signals",
+        "lead": "RuView is a sensing platform that uses WiFi Channel State Information (CSI) to study environmental changes. It can run with ESP32 or research NIC hardware, while simulated data is available for evaluation without hardware.",
+        "overview": "RuView is an MIT-licensed platform for sensing experiments with WiFi Channel State Information. It can be installed with Docker or from source, and it can be evaluated with simulated data without hardware. Capabilities depend on the hardware mode: laptop RSSI-only sensing is for coarse presence and motion, while advanced sensing requires full CSI hardware.",
+        "best_for": "Researchers and developers who want to experiment with presence, motion or environmental sensing from WiFi signals.",
+        "not_for": "Medical monitoring claims or pose estimation expectations from a standard laptop in RSSI-only mode.",
+        "wins": [
+          "Offers CSI-based sensing paths with ESP32 and research NIC hardware.",
+          "Can be evaluated with simulated data without hardware.",
+          "Documents a deterministic reference-signal check with `./verify`.",
+          "Separates the capabilities of laptop RSSI-only mode from full CSI hardware."
+        ],
+        "first_run_steps": [
+          "Prepare your environment with the Docker or source path in the official installation guides.",
+          "If you have no hardware, start by examining the simulated-data evaluation path.",
+          "Run the deterministic reference-signal check described in the build guide with `./verify`.",
+          "Choose the RSSI-only or full-CSI path according to your hardware."
+        ],
+        "safety_note": "Laptop RSSI-only mode is intended for coarse presence and motion detection and does not provide pose support. Pose and some benchmark capabilities are documented as experimental, first-cut or limited; evaluate results according to the hardware mode you use.",
+        "first_prompt": "How can I evaluate a simple motion-detection scenario from WiFi CSI data using simulated data?",
+        "commands": {
+          "Docker imajını çekin": "Pull the Docker image",
+          "Kaynak kodunu alın": "Clone the source code",
+          "Donanımsız demo sunucusu": "Demo server without hardware",
+          "Deterministik doğrulama": "Deterministic verification"
+        }
+      },
+      "fr": {
+        "headline": "Détection sans fil avec les signaux WiFi",
+        "lead": "RuView est une plateforme de détection qui utilise les informations d’état du canal WiFi (CSI) pour étudier les changements d’un environnement. Elle peut fonctionner avec du matériel ESP32 ou une carte réseau de recherche, et des données simulées sont disponibles pour une évaluation sans matériel.",
+        "overview": "RuView est une plateforme sous licence MIT destinée aux expériences de détection avec les informations d’état du canal WiFi. Elle peut être installée avec Docker ou depuis les sources et évaluée avec des données simulées sans matériel. Les capacités dépendent du mode matériel : la détection RSSI seule sur ordinateur portable vise une présence et des mouvements grossiers, tandis que la détection avancée exige du matériel CSI complet.",
+        "best_for": "Les chercheurs et développeurs qui souhaitent expérimenter la présence, les mouvements ou les changements d’environnement à partir de signaux WiFi.",
+        "not_for": "Les usages de suivi médical ou les attentes de détection de pose avec un ordinateur portable standard en mode RSSI seul.",
+        "wins": [
+          "Propose des chemins de détection CSI avec du matériel ESP32 et des cartes réseau de recherche.",
+          "Peut être évaluée avec des données simulées sans matériel.",
+          "Documente une vérification déterministe par signal de référence avec `./verify`.",
+          "Sépare les capacités du mode RSSI seul sur ordinateur portable de celles du matériel CSI complet."
+        ],
+        "first_run_steps": [
+          "Préparez votre environnement avec la méthode Docker ou la méthode source des guides officiels.",
+          "Sans matériel, commencez par examiner le parcours d’évaluation avec données simulées.",
+          "Lancez la vérification déterministe par signal de référence décrite dans le guide de compilation avec `./verify`.",
+          "Choisissez le parcours RSSI seul ou CSI complet selon votre matériel."
+        ],
+        "safety_note": "Le mode RSSI seul sur ordinateur portable vise une détection grossière de présence et de mouvement et ne fournit pas de pose. La pose et certains benchmarks sont documentés comme expérimentaux, de première génération ou limités ; évaluez les résultats selon le mode matériel utilisé.",
+        "first_prompt": "Comment évaluer un scénario simple de détection de mouvement avec des données WiFi CSI simulées ?",
+        "commands": {
+          "Docker imajını çekin": "Télécharger l’image Docker",
+          "Kaynak kodunu alın": "Cloner le code source",
+          "Donanımsız demo sunucusu": "Serveur de démonstration sans matériel",
+          "Deterministik doğrulama": "Vérification déterministe"
+        }
+      },
+      "pt": {
+        "headline": "Sensing sem fio com sinais WiFi",
+        "lead": "RuView é uma plataforma de sensing que usa Channel State Information (CSI) do WiFi para estudar mudanças no ambiente. Ela pode funcionar com hardware ESP32 ou NIC de pesquisa, enquanto dados simulados permitem avaliação sem hardware.",
+        "overview": "RuView é uma plataforma com licença MIT para experimentos de sensing usando Channel State Information do WiFi. Pode ser instalada com Docker ou a partir do código-fonte e avaliada com dados simulados sem hardware. As capacidades dependem do modo de hardware: o sensing RSSI-only em laptops serve para presença e movimento grosseiros, enquanto o sensing avançado exige hardware com CSI completo.",
+        "best_for": "Pesquisadores e desenvolvedores que querem experimentar presença, movimento ou mudanças ambientais a partir de sinais WiFi.",
+        "not_for": "Monitoramento médico ou expectativas de estimativa de pose em um laptop comum no modo RSSI-only.",
+        "wins": [
+          "Oferece caminhos de sensing com CSI usando ESP32 e NICs de pesquisa.",
+          "Pode ser avaliada com dados simulados sem hardware.",
+          "Documenta uma verificação determinística com sinal de referência usando `./verify`.",
+          "Distingue o que o modo RSSI-only de um laptop oferece do hardware com CSI completo."
+        ],
+        "first_run_steps": [
+          "Prepare o ambiente seguindo o caminho Docker ou código-fonte dos guias oficiais.",
+          "Sem hardware, comece examinando o caminho de avaliação com dados simulados.",
+          "Execute a verificação determinística descrita no build guide com `./verify`.",
+          "Escolha o caminho RSSI-only ou CSI completo de acordo com seu hardware."
+        ],
+        "safety_note": "O modo RSSI-only em laptop serve para detecção grosseira de presença e movimento e não oferece pose. Pose e alguns benchmarks são documentados como experimentais, de primeira versão ou limitados; avalie os resultados de acordo com o modo de hardware usado.",
+        "first_prompt": "Como posso avaliar um cenário simples de detecção de movimento usando dados CSI simulados do WiFi?",
+        "commands": {
+          "Docker imajını çekin": "Baixe a imagem Docker",
+          "Kaynak kodunu alın": "Clone o código-fonte",
+          "Donanımsız demo sunucusu": "Servidor de demonstração sem hardware",
+          "Deterministik doğrulama": "Verificação determinística"
+        }
+      },
+      "es": {
+        "headline": "Detección inalámbrica con señales WiFi",
+        "lead": "RuView es una plataforma de detección que utiliza Channel State Information (CSI) de WiFi para estudiar cambios en el entorno. Puede funcionar con hardware ESP32 o NIC de investigación, y ofrece datos simulados para evaluarla sin hardware.",
+        "overview": "RuView es una plataforma con licencia MIT para experimentar con detección basada en Channel State Information de WiFi. Puede instalarse con Docker o desde el código fuente y evaluarse con datos simulados sin hardware. Las capacidades dependen del modo de hardware: la detección RSSI-only en un portátil sirve para presencia y movimiento aproximados, mientras que la detección avanzada requiere hardware con CSI completo.",
+        "best_for": "Investigadores y desarrolladores que quieren experimentar con presencia, movimiento o cambios ambientales a partir de señales WiFi.",
+        "not_for": "Monitorización médica o expectativas de estimación de pose desde un portátil estándar en modo RSSI-only.",
+        "wins": [
+          "Ofrece rutas de detección CSI con hardware ESP32 y NIC de investigación.",
+          "Se puede evaluar con datos simulados sin hardware.",
+          "Documenta una comprobación determinista con una señal de referencia mediante `./verify`.",
+          "Distingue las capacidades del modo RSSI-only de un portátil de las del hardware con CSI completo."
+        ],
+        "first_run_steps": [
+          "Prepara el entorno siguiendo la ruta de Docker o de código fuente de las guías oficiales.",
+          "Si no tienes hardware, empieza por la ruta de evaluación con datos simulados.",
+          "Ejecuta la comprobación determinista descrita en la guía de compilación mediante `./verify`.",
+          "Elige la ruta RSSI-only o CSI completo según tu hardware."
+        ],
+        "safety_note": "El modo RSSI-only de un portátil está pensado para detectar de forma aproximada la presencia y el movimiento, y no ofrece pose. La pose y algunas capacidades de benchmark se documentan como experimentales, de primera versión o limitadas; evalúa los resultados según el modo de hardware utilizado.",
+        "first_prompt": "¿Cómo puedo evaluar un escenario sencillo de detección de movimiento con datos CSI simulados de WiFi?",
+        "commands": {
+          "Docker imajını çekin": "Descarga la imagen de Docker",
+          "Kaynak kodunu alın": "Clona el código fuente",
+          "Donanımsız demo sunucusu": "Servidor de demostración sin hardware",
+          "Deterministik doğrulama": "Comprobación determinista"
+        }
+      },
+      "de": {
+        "headline": "Drahtlose Erfassung mit WiFi-Signalen",
+        "lead": "RuView ist eine Sensing-Plattform, die WiFi Channel State Information (CSI) verwendet, um Veränderungen in der Umgebung zu untersuchen. Sie kann mit ESP32- oder Forschungs-NIC-Hardware betrieben werden; für eine Bewertung ohne Hardware stehen simulierte Daten zur Verfügung.",
+        "overview": "RuView ist eine MIT-lizenzierte Plattform für Sensing-Experimente mit WiFi Channel State Information. Sie kann mit Docker oder aus dem Quellcode installiert und ohne Hardware mit simulierten Daten bewertet werden. Die Fähigkeiten hängen vom Hardwaremodus ab: RSSI-only-Sensing auf einem Laptop dient der groben Erkennung von Anwesenheit und Bewegung, während erweitertes Sensing vollständige CSI-Hardware erfordert.",
+        "best_for": "Forscher und Entwickler, die Anwesenheit, Bewegung oder Umgebungsveränderungen anhand von WiFi-Signalen untersuchen möchten.",
+        "not_for": "Medizinische Überwachung oder Erwartungen an Pose-Schätzung mit einem gewöhnlichen Laptop im RSSI-only-Modus.",
+        "wins": [
+          "Bietet CSI-basierte Sensing-Wege mit ESP32- und Forschungs-NIC-Hardware.",
+          "Kann ohne Hardware mit simulierten Daten bewertet werden.",
+          "Dokumentiert eine deterministische Referenzsignalprüfung mit `./verify`.",
+          "Trennt die Fähigkeiten des RSSI-only-Laptopmodus von denen vollständiger CSI-Hardware."
+        ],
+        "first_run_steps": [
+          "Bereiten Sie die Umgebung mit dem Docker- oder Quellcode-Weg der offiziellen Anleitungen vor.",
+          "Wenn keine Hardware vorhanden ist, beginnen Sie mit der Bewertung anhand simulierter Daten.",
+          "Führen Sie die in der Bauanleitung beschriebene deterministische Referenzsignalprüfung mit `./verify` aus.",
+          "Wählen Sie den RSSI-only- oder vollständigen CSI-Weg passend zu Ihrer Hardware."
+        ],
+        "safety_note": "Der RSSI-only-Modus auf einem Laptop ist für die grobe Erkennung von Anwesenheit und Bewegung gedacht und unterstützt keine Pose. Pose und einige Benchmark-Funktionen sind als experimentell, als erste Version oder mit Einschränkungen dokumentiert; bewerten Sie Ergebnisse passend zum verwendeten Hardwaremodus.",
+        "first_prompt": "Wie kann ich ein einfaches Szenario zur Bewegungserkennung mit simulierten WiFi-CSI-Daten bewerten?",
+        "commands": {
+          "Docker imajını çekin": "Docker-Image abrufen",
+          "Kaynak kodunu alın": "Quellcode klonen",
+          "Donanımsız demo sunucusu": "Demo-Server ohne Hardware",
+          "Deterministik doğrulama": "Deterministische Prüfung"
+        }
+      }
+    }
   },
   {
     "slug": "data-engineering-zoomcamp",
@@ -18109,8 +18314,8 @@
   {
     "slug": "invidious",
     "title": "Invidious",
-    "tagline": "Invidious, YouTube platformuna alternatif olarak geliştirilen açık kaynaklı bir arayüzdür.",
-    "meta": "★ 22.400 · Crystal",
+    "tagline": "Invidious, reklam ve takip olmadan YouTube için alternatif açık kaynaklı bir arayüz sunar; herkese açık instance veya self-host kurulum seçeneklerini inceleyin.",
+    "meta": "★ 22.400",
     "image": "/assets/discover/og/invidious.webp",
     "source": "GitHub",
     "date": "2026-08-02",
@@ -18118,9 +18323,209 @@
       "Geliştirici aracı"
     ],
     "stars": 22400,
+    "summary": "Invidious, YouTube için açık kaynaklı alternatif bir arayüzdür. Resmî README; reklam ve takip olmadan kullanım, JavaScript gerektirmeme, Google’dan bağımsız abonelikler ile veri içe ve dışa aktarma özelliklerini listeler.",
+    "headline": "YouTube için Açık Kaynaklı Alternatif Arayüz",
     "lite": false,
-    "headline": "Reklamsız ve takipsiz video izleme",
-    "last_review": "2026-08-24",
+    "headline_locked": true,
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Depoyu alın",
+          "komut": "git clone https://github.com/iv-org/invidious.git"
+        },
+        {
+          "baslik": "Proje dizinine geçin",
+          "komut": "cd invidious"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Docker Compose’u başlatın",
+          "komut": "docker compose up -d"
+        }
+      ],
+      "kaynak": "Komutlar Invidious resmî kurulum belgesinden 24 Ağustos 2026’da kontrol edildi; Docker kurulumu PostgreSQL, Companion ve yapılandırma gerektirir."
+    },
+    "editorial": {
+      "overview": "Invidious, YouTube için alternatif bir arayüz sunar ve resmî YouTube API’lerini kullanmaz. Herkese açık bir instance seçerek kullanabilir ya da ayrı kurulum belgelerini izleyerek kendi instance’ınızı barındırabilirsiniz. Proje AGPL-3.0 lisanslıdır ve geliştiriciler için belgelenmiş bir API sunar.",
+      "best_for": "YouTube’a alternatif bir arayüz kullanmak, Google’dan bağımsız abonelikleri yönetmek veya kendi instance’ınızı barındırmak isteyenler.",
+      "not_for": "Resmî YouTube API’lerini kullanan bir çözüm arıyorsanız.",
+      "wins": [
+        "Reklam, takip ve JavaScript gerektirmeme özelliklerini resmî README’de listeler.",
+        "Google’dan bağımsız abonelik yönetimini destekler.",
+        "Verileri içe ve dışa aktarma seçenekleri sunar.",
+        "Belgelenmiş geliştirici API’si içerir."
+      ],
+      "first_run_steps": [
+        "Kullanım için herkese açık bir Invidious instance seçin.",
+        "Kendi instance’ınızı barındıracaksanız resmî kurulum belgelerini inceleyin.",
+        "Güncel Docker kurulumu için PostgreSQL ve Invidious Companion bileşenlerini hazırlayın.",
+        "Kendi kurulumunuz için en az 20 GB disk alanı ve 2 GB boş RAM gereksinimini göz önünde bulundurun."
+      ],
+      "safety_note": "Projeyi geçerli düzenlemelere uygun kullanın. Resmî liability metni, yasa dışı indirme gibi uygunsuz kullanımlardan proje tarafının sorumlu olmadığını belirtir.",
+      "first_prompt": "Herkese açık bir Invidious instance kullanmak ile kendi instance’ınızı barındırmak arasındaki farklar nelerdir?"
+    },
+    "sources": [
+      {
+        "url": "https://github.com/iv-org/invidious",
+        "label": "Invidious resmî GitHub deposu",
+        "label_en": "Official Invidious GitHub repository",
+        "label_fr": "Dépôt GitHub officiel d’Invidious",
+        "label_pt": "Repositório GitHub oficial do Invidious",
+        "label_es": "Repositorio oficial de GitHub de Invidious",
+        "label_de": "Offizielles Invidious-GitHub-Repository"
+      },
+      {
+        "url": "https://docs.invidious.io/installation/",
+        "label": "Invidious kurulum belgeleri",
+        "label_en": "Invidious installation documentation",
+        "label_fr": "Documentation d’installation d’Invidious",
+        "label_pt": "Documentação de instalação do Invidious",
+        "label_es": "Documentación de instalación de Invidious",
+        "label_de": "Invidious-Installationsdokumentation"
+      },
+      {
+        "url": "https://invidious.io/",
+        "label": "Invidious resmî sitesi",
+        "label_en": "Official Invidious website",
+        "label_fr": "Site officiel d’Invidious",
+        "label_pt": "Site oficial do Invidious",
+        "label_es": "Sitio oficial de Invidious",
+        "label_de": "Offizielle Invidious-Website"
+      }
+    ],
+    "localized": {
+      "en": {
+        "headline": "Open-Source Alternative Interface for YouTube",
+        "lead": "Invidious is an open-source alternative interface for YouTube. The official README lists use without ads or tracking, no JavaScript requirement, subscriptions independent from Google, and data import and export.",
+        "overview": "Invidious provides an alternative interface to YouTube and does not use the official YouTube APIs. You can choose a public instance or host your own by following the separate installation documentation. The project is licensed under AGPL-3.0 and provides a documented developer API.",
+        "best_for": "People who want an alternative YouTube interface, subscriptions independent from Google or a self-hosted instance.",
+        "not_for": "People who specifically need a solution built on the official YouTube APIs.",
+        "wins": [
+          "Lists use without ads or tracking and without requiring JavaScript.",
+          "Supports subscriptions independent from Google.",
+          "Provides data import and export options.",
+          "Includes a documented developer API."
+        ],
+        "first_run_steps": [
+          "Choose a public Invidious instance if you only want to use the service.",
+          "If you plan to self-host it, read the official installation documentation first.",
+          "For the current Docker path, prepare PostgreSQL and Invidious Companion.",
+          "Plan for at least 20 GB of disk space and 2 GB of free RAM for your own installation."
+        ],
+        "safety_note": "Use the project in accordance with applicable regulations. The official liability text states that the project is not responsible for inappropriate use such as illegal downloading.",
+        "first_prompt": "What are the differences between using a public Invidious instance and hosting my own instance?",
+        "commands": {
+          "Depoyu alın": "Clone the repository",
+          "Proje dizinine geçin": "Enter the project directory",
+          "Docker Compose’u başlatın": "Start Docker Compose"
+        }
+      },
+      "fr": {
+        "headline": "Interface open source alternative à YouTube",
+        "lead": "Invidious est une interface open source alternative à YouTube. Le README officiel mentionne une utilisation sans publicité ni suivi, sans exigence de JavaScript, avec des abonnements indépendants de Google et des options d’importation et d’exportation des données.",
+        "overview": "Invidious propose une interface alternative à YouTube et n’utilise pas les API YouTube officielles. Vous pouvez choisir une instance publique ou héberger la vôtre en suivant la documentation d’installation. Le projet est sous licence AGPL-3.0 et fournit une API documentée pour les développeurs.",
+        "best_for": "Les personnes qui souhaitent une interface YouTube alternative, des abonnements indépendants de Google ou une instance auto-hébergée.",
+        "not_for": "Les personnes qui ont spécifiquement besoin d’une solution fondée sur les API YouTube officielles.",
+        "wins": [
+          "Mentionne une utilisation sans publicité ni suivi et sans exigence de JavaScript.",
+          "Prend en charge des abonnements indépendants de Google.",
+          "Propose des options d’importation et d’exportation des données.",
+          "Fournit une API documentée pour les développeurs."
+        ],
+        "first_run_steps": [
+          "Choisissez une instance Invidious publique si vous souhaitez simplement utiliser le service.",
+          "Si vous voulez l’auto-héberger, consultez d’abord la documentation officielle d’installation.",
+          "Pour la méthode Docker actuelle, préparez PostgreSQL et Invidious Companion.",
+          "Prévoyez au moins 20 Go d’espace disque et 2 Go de RAM libre pour votre installation."
+        ],
+        "safety_note": "Utilisez le projet conformément aux réglementations applicables. Le texte officiel de responsabilité indique que le projet n’est pas responsable des usages inappropriés, comme le téléchargement illégal.",
+        "first_prompt": "Quelles sont les différences entre l’utilisation d’une instance Invidious publique et l’hébergement de ma propre instance ?",
+        "commands": {
+          "Depoyu alın": "Cloner le dépôt",
+          "Proje dizinine geçin": "Entrer dans le répertoire du projet",
+          "Docker Compose’u başlatın": "Démarrer Docker Compose"
+        }
+      },
+      "pt": {
+        "headline": "Interface alternativa de código aberto para o YouTube",
+        "lead": "Invidious é uma interface alternativa de código aberto para o YouTube. O README oficial lista uso sem anúncios ou rastreamento, sem exigir JavaScript, com inscrições independentes do Google e opções de importação e exportação de dados.",
+        "overview": "Invidious oferece uma interface alternativa ao YouTube e não usa as APIs oficiais do YouTube. Você pode escolher uma instância pública ou hospedar a sua própria seguindo a documentação de instalação. O projeto usa a licença AGPL-3.0 e fornece uma API documentada para desenvolvedores.",
+        "best_for": "Pessoas que querem uma interface alternativa ao YouTube, inscrições independentes do Google ou uma instância auto-hospedada.",
+        "not_for": "Pessoas que precisam especificamente de uma solução baseada nas APIs oficiais do YouTube.",
+        "wins": [
+          "Lista uso sem anúncios ou rastreamento e sem exigir JavaScript.",
+          "Oferece inscrições independentes do Google.",
+          "Fornece opções de importação e exportação de dados.",
+          "Inclui uma API documentada para desenvolvedores."
+        ],
+        "first_run_steps": [
+          "Escolha uma instância pública do Invidious se quiser apenas usar o serviço.",
+          "Se pretende hospedar o serviço, leia primeiro a documentação oficial de instalação.",
+          "Para o caminho atual com Docker, prepare o PostgreSQL e o Invidious Companion.",
+          "Considere pelo menos 20 GB de espaço em disco e 2 GB de RAM livre para sua instalação."
+        ],
+        "safety_note": "Use o projeto de acordo com as regulamentações aplicáveis. O texto oficial de responsabilidade afirma que o projeto não se responsabiliza por usos inadequados, como download ilegal.",
+        "first_prompt": "Quais são as diferenças entre usar uma instância pública do Invidious e hospedar minha própria instância?",
+        "commands": {
+          "Depoyu alın": "Clone o repositório",
+          "Proje dizinine geçin": "Entre no diretório do projeto",
+          "Docker Compose’u başlatın": "Inicie o Docker Compose"
+        }
+      },
+      "es": {
+        "headline": "Interfaz alternativa de código abierto para YouTube",
+        "lead": "Invidious es una interfaz alternativa de código abierto para YouTube. El README oficial menciona el uso sin anuncios ni seguimiento, sin requerir JavaScript, con suscripciones independientes de Google y opciones de importación y exportación de datos.",
+        "overview": "Invidious ofrece una interfaz alternativa para YouTube y no utiliza las API oficiales de YouTube. Puedes elegir una instancia pública o alojar la tuya siguiendo la documentación de instalación. El proyecto utiliza la licencia AGPL-3.0 y ofrece una API documentada para desarrolladores.",
+        "best_for": "Personas que quieren una interfaz alternativa para YouTube, suscripciones independientes de Google o una instancia autoalojada.",
+        "not_for": "Personas que necesitan específicamente una solución basada en las API oficiales de YouTube.",
+        "wins": [
+          "Menciona el uso sin anuncios ni seguimiento y sin requerir JavaScript.",
+          "Admite suscripciones independientes de Google.",
+          "Ofrece opciones para importar y exportar datos.",
+          "Incluye una API documentada para desarrolladores."
+        ],
+        "first_run_steps": [
+          "Elige una instancia pública de Invidious si solo quieres utilizar el servicio.",
+          "Si quieres autoalojarlo, consulta primero la documentación oficial de instalación.",
+          "Para el método actual con Docker, prepara PostgreSQL e Invidious Companion.",
+          "Reserva al menos 20 GB de espacio en disco y 2 GB de RAM libre para tu instalación."
+        ],
+        "safety_note": "Utiliza el proyecto de acuerdo con la normativa aplicable. El texto oficial de responsabilidad indica que el proyecto no se responsabiliza de usos inadecuados, como las descargas ilegales.",
+        "first_prompt": "¿Qué diferencias hay entre utilizar una instancia pública de Invidious y alojar mi propia instancia?",
+        "commands": {
+          "Depoyu alın": "Clona el repositorio",
+          "Proje dizinine geçin": "Entra en el directorio del proyecto",
+          "Docker Compose’u başlatın": "Inicia Docker Compose"
+        }
+      },
+      "de": {
+        "headline": "Open-Source-Alternative zu YouTube",
+        "lead": "Invidious ist eine Open-Source-Alternative zu YouTube. Die offizielle README nennt die Nutzung ohne Werbung oder Tracking, ohne JavaScript-Pflicht, mit von Google unabhängigen Abonnements sowie Optionen zum Import und Export von Daten.",
+        "overview": "Invidious bietet eine alternative Oberfläche für YouTube und verwendet nicht die offiziellen YouTube-APIs. Sie können eine öffentliche Instanz auswählen oder anhand der Installationsdokumentation eine eigene Instanz betreiben. Das Projekt steht unter der AGPL-3.0-Lizenz und stellt eine dokumentierte Entwickler-API bereit.",
+        "best_for": "Menschen, die eine alternative YouTube-Oberfläche, von Google unabhängige Abonnements oder eine selbst betriebene Instanz möchten.",
+        "not_for": "Menschen, die ausdrücklich eine Lösung auf Basis der offiziellen YouTube-APIs benötigen.",
+        "wins": [
+          "Nennt die Nutzung ohne Werbung oder Tracking und ohne JavaScript-Pflicht.",
+          "Unterstützt von Google unabhängige Abonnements.",
+          "Bietet Optionen für den Import und Export von Daten.",
+          "Enthält eine dokumentierte Entwickler-API."
+        ],
+        "first_run_steps": [
+          "Wählen Sie eine öffentliche Invidious-Instanz, wenn Sie den Dienst nur nutzen möchten.",
+          "Wenn Sie den Dienst selbst betreiben möchten, lesen Sie zuerst die offizielle Installationsdokumentation.",
+          "Bereiten Sie für den aktuellen Docker-Weg PostgreSQL und Invidious Companion vor.",
+          "Planen Sie für eine eigene Installation mindestens 20 GB Speicherplatz und 2 GB freien RAM ein."
+        ],
+        "safety_note": "Nutzen Sie das Projekt im Einklang mit den geltenden Vorschriften. Der offizielle Haftungstext erklärt, dass das Projekt für unangemessene Nutzung wie illegale Downloads nicht verantwortlich ist.",
+        "first_prompt": "Welche Unterschiede gibt es zwischen der Nutzung einer öffentlichen Invidious-Instanz und dem Betrieb einer eigenen Instanz?",
+        "commands": {
+          "Depoyu alın": "Repository klonen",
+          "Proje dizinine geçin": "In das Projektverzeichnis wechseln",
+          "Docker Compose’u başlatın": "Docker Compose starten"
+        }
+      }
+    },
     "guncellemeler": [
       {
         "tarih": "2026-08-02",
@@ -18137,27 +18542,7 @@
         "surum_tarihi": "2026-08-05"
       }
     ],
-    "tagline_en": "Invidious is an open source interface developed as an alternative to the YouTube platform.",
-    "cmds": {
-      "kurulum": [
-        {
-          "baslik": "Depoyu ve compose dosyasını al",
-          "komut": "git clone --depth 1 https://github.com/iv-org/invidious.git && cd invidious"
-        }
-      ],
-      "calistirma": [
-        {
-          "baslik": "Başlat",
-          "komut": "docker compose up -d"
-        }
-      ],
-      "kaynak": "Depodaki resmî docker-compose.yml"
-    },
-    "tagline_fr": "Invidious est une interface open source développée comme alternative à la plateforme YouTube.",
-    "tagline_pt": "Invidious é uma interface de código aberto desenvolvida como alternativa à plataforma YouTube.",
-    "tagline_es": "Invidious es una interfaz de código abierto desarrollada como alternativa a la plataforma YouTube.",
-    "tagline_de": "Invidious ist eine Open-Source-Schnittstelle, die als Alternative zur YouTube-Plattform entwickelt wurde.",
-    "last_seen": "2026-08-04"
+    "last_review": "2026-08-24"
   },
   {
     "slug": "trellis-2",
@@ -19502,8 +19887,8 @@
   {
     "slug": "ladybird",
     "title": "Ladybird",
-    "tagline": "Ladybird, mevcut büyük tarayıcı motorlarından bağımsız olarak geliştirilen yeni bir web tarayıcısı.",
-    "meta": "★ 65.040 · C++",
+    "tagline": "Web standartlarını temel alan bağımsız tarayıcı projesi.",
+    "meta": "★ 65.040",
     "image": "/assets/discover/og/ladybird.webp",
     "source": "GitHub",
     "date": "2026-08-09",
@@ -19511,17 +19896,204 @@
       "Geliştirici aracı"
     ],
     "stars": 65040,
+    "summary": "Ladybird, web standartlarını temel alan bağımsız bir web tarayıcısı ve tarayıcı motoru geliştirme projesidir. Resmî README’ye göre pre-alpha aşamasındadır ve yalnızca geliştiricilere yöneliktir. Çok süreçli mimarisinde ağ bağlantıları ve görüntü çözme ayrı süreçlerde yürütülür; sekme renderer süreçleri sandbox içinde çalışır.",
+    "headline": "Bağımsız Web Tarayıcısı ve Motoru Projesi",
     "lite": false,
-    "headline": "Bağımsız web tarayıcısı Ladybird",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
-    "tagline_en": "Ladybird is a new web browser developed independently of the existing major browser engines.",
-    "tagline_fr": "Ladybird est un nouveau navigateur Web développé indépendamment des principaux moteurs de navigation existants.",
+    "headline_locked": true,
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Kaynak kodunu alın",
+          "komut": "git clone https://github.com/LadybirdBrowser/ladybird.git"
+        },
+        {
+          "baslik": "Proje dizinine geçin",
+          "komut": "cd ladybird"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Derleyin ve çalıştırın",
+          "komut": "./Meta/ladybird.py run"
+        }
+      ],
+      "kaynak": "Komutlar Ladybird resmî sitesi ve BuildInstructionsLadybird.md belgesinden 24 Ağustos 2026’da kontrol edildi."
+    },
+    "editorial": {
+      "overview": "Ladybird açık kaynaklı bir tarayıcı ve tarayıcı motoru projesidir. Linux, macOS, Windows üzerinde WSL2 ve diğer Unix benzeri sistemlerde çalışır. Projenin ilk Alpha sürümü için belirtilen hedef, 2026’da Linux ve macOS’tur. Derleme yönergeleri Qt 6.9+, C++23 uyumlu bir derleyici, Rust ve CMake 3.30+ gerektirir.",
+      "best_for": "Tarayıcı teknolojilerine katkı sunmak veya projenin kaynak kodunu geliştirme ortamında incelemek isteyen geliştiriciler.",
+      "not_for": "Kararlı bir son kullanıcı tarayıcısı arayanlar.",
+      "wins": [
+        "Web standartlarını temel alan bağımsız tarayıcı ve motor projesi",
+        "Ağ bağlantıları ve görüntü çözme için ayrı süreçler kullanan çok süreçli mimari",
+        "Sandbox içinde çalışan sekme renderer süreçleri",
+        "BSD-2-Clause lisansı"
+      ],
+      "first_run_steps": [
+        "Resmî derleme yönergelerini açın ve sisteminizin desteklenen platformlar arasında olup olmadığını kontrol edin.",
+        "Qt 6.9+, C++23 uyumlu derleyici, Rust ve CMake 3.30+ gereksinimlerini hazırlayın.",
+        "Kaynak kodunu resmî GitHub deposundan alın ve resmî derleme dokümanındaki adımları izleyin."
+      ],
+      "safety_note": "Ladybird resmî README’ye göre pre-alpha aşamasındadır ve yalnızca geliştiricilere yöneliktir.",
+      "first_prompt": "Resmî derleme yönergelerine göre sistemimde Qt 6.9+, C++23 derleyicisi, Rust ve CMake 3.30+ gereksinimlerini nasıl kontrol edebilirim?"
+    },
+    "sources": [
+      {
+        "url": "https://github.com/LadybirdBrowser/ladybird",
+        "label": "Ladybird resmî GitHub deposu",
+        "label_en": "Official Ladybird GitHub repository",
+        "label_fr": "Dépôt GitHub officiel de Ladybird",
+        "label_pt": "Repositório GitHub oficial do Ladybird",
+        "label_es": "Repositorio oficial de GitHub de Ladybird",
+        "label_de": "Offizielles Ladybird-GitHub-Repository"
+      },
+      {
+        "url": "https://github.com/LadybirdBrowser/ladybird/blob/master/Documentation/BuildInstructionsLadybird.md",
+        "label": "Ladybird derleme belgeleri",
+        "label_en": "Ladybird build instructions",
+        "label_fr": "Instructions de compilation de Ladybird",
+        "label_pt": "Instruções de compilação do Ladybird",
+        "label_es": "Instrucciones de compilación de Ladybird",
+        "label_de": "Ladybird-Bauanleitung"
+      },
+      {
+        "url": "https://ladybird.org/",
+        "label": "Ladybird resmî sitesi",
+        "label_en": "Official Ladybird website",
+        "label_fr": "Site officiel de Ladybird",
+        "label_pt": "Site oficial do Ladybird",
+        "label_es": "Sitio oficial de Ladybird",
+        "label_de": "Offizielle Ladybird-Website"
+      }
+    ],
     "last_review": "2026-08-24",
-    "tagline_pt": "Ladybird é um novo navegador desenvolvido independentemente dos principais mecanismos de navegador existentes.",
-    "tagline_es": "Ladybird es un nuevo navegador web desarrollado independientemente de los principales motores de navegador existentes.",
-    "tagline_de": "Ladybird ist ein neuer Webbrowser, der unabhängig von den bestehenden großen Browser-Engines entwickelt wurde.",
-    "last_seen": "2026-08-11"
+    "localized": {
+      "en": {
+        "headline": "Independent Browser and Engine Project",
+        "lead": "Ladybird is an independent web browser and browser-engine project based on web standards. The official README describes it as pre-alpha and intended only for developers; its multi-process design keeps network connections and image decoding in separate processes.",
+        "overview": "Ladybird is an open-source browser and browser-engine project. It runs on Linux, macOS, Windows with WSL2 and other Unix-like systems. The project website lists a first Alpha target for 2026 on Linux and macOS, while the build guide requires Qt 6.9+, a C++23-capable compiler, Rust and CMake 3.30+.",
+        "best_for": "Developers who want to study browser technology, contribute to the project or build the source in a development environment.",
+        "not_for": "People looking for a stable, general-purpose end-user browser.",
+        "wins": [
+          "An independent browser and engine project based on web standards.",
+          "A multi-process architecture with separate processes for network connections and image decoding.",
+          "Sandboxed renderer processes for tabs.",
+          "BSD-2-Clause license."
+        ],
+        "first_run_steps": [
+          "Open the official build instructions and check whether your platform is supported.",
+          "Prepare Qt 6.9+, a C++23-capable compiler, Rust and CMake 3.30+.",
+          "Clone the official repository and follow the project build instructions."
+        ],
+        "safety_note": "The official README describes Ladybird as pre-alpha and suitable only for developers.",
+        "first_prompt": "According to the official build instructions, how can I check whether my system has Qt 6.9+, a C++23 compiler, Rust and CMake 3.30+?",
+        "commands": {
+          "Kaynak kodunu alın": "Clone the source code",
+          "Proje dizinine geçin": "Enter the project directory",
+          "Derleyin ve çalıştırın": "Build and run"
+        }
+      },
+      "fr": {
+        "headline": "Projet de navigateur et de moteur indépendant",
+        "lead": "Ladybird est un projet indépendant de navigateur web et de moteur de navigateur fondé sur les standards du Web. Le README officiel le décrit comme pré-alpha et destiné uniquement aux développeurs ; son architecture multiprocessus sépare notamment les connexions réseau et le décodage des images.",
+        "overview": "Ladybird est un projet open source de navigateur et de moteur de navigateur. Il fonctionne sous Linux, macOS, Windows avec WSL2 et d’autres systèmes de type Unix. Le site du projet vise une première version Alpha en 2026 pour Linux et macOS, tandis que le guide de compilation exige Qt 6.9+, un compilateur compatible C++23, Rust et CMake 3.30+.",
+        "best_for": "Les développeurs qui souhaitent étudier les technologies des navigateurs, contribuer au projet ou compiler le code source dans un environnement de développement.",
+        "not_for": "Les personnes qui recherchent un navigateur stable pour un usage quotidien.",
+        "wins": [
+          "Projet indépendant de navigateur et de moteur fondé sur les standards du Web.",
+          "Architecture multiprocessus avec des processus séparés pour les connexions réseau et le décodage des images.",
+          "Processus renderer sandboxés pour les onglets.",
+          "Licence BSD-2-Clause."
+        ],
+        "first_run_steps": [
+          "Ouvrez les instructions officielles de compilation et vérifiez que votre plateforme est prise en charge.",
+          "Préparez Qt 6.9+, un compilateur compatible C++23, Rust et CMake 3.30+.",
+          "Clonez le dépôt officiel et suivez les instructions de compilation du projet."
+        ],
+        "safety_note": "Le README officiel décrit Ladybird comme pré-alpha et adapté uniquement aux développeurs.",
+        "first_prompt": "Selon les instructions officielles, comment vérifier que mon système dispose de Qt 6.9+, d’un compilateur C++23, de Rust et de CMake 3.30+ ?",
+        "commands": {
+          "Kaynak kodunu alın": "Cloner le code source",
+          "Proje dizinine geçin": "Entrer dans le répertoire du projet",
+          "Derleyin ve çalıştırın": "Compiler et exécuter"
+        }
+      },
+      "pt": {
+        "headline": "Projeto de navegador e mecanismo independente",
+        "lead": "Ladybird é um projeto independente de navegador e mecanismo web baseado nos padrões da web. O README oficial o descreve como pré-alpha e destinado apenas a desenvolvedores; sua arquitetura multiprocessos separa as conexões de rede e a decodificação de imagens.",
+        "overview": "Ladybird é um projeto de código aberto de navegador e mecanismo de navegador. Ele funciona em Linux, macOS, Windows com WSL2 e outros sistemas semelhantes ao Unix. O site do projeto indica como meta uma primeira versão Alpha em 2026 para Linux e macOS, enquanto o guia de build exige Qt 6.9+, um compilador compatível com C++23, Rust e CMake 3.30+.",
+        "best_for": "Desenvolvedores que querem estudar tecnologias de navegadores, contribuir com o projeto ou compilar o código-fonte em um ambiente de desenvolvimento.",
+        "not_for": "Pessoas que procuram um navegador estável para uso diário.",
+        "wins": [
+          "Projeto independente de navegador e mecanismo baseado nos padrões da web.",
+          "Arquitetura multiprocessos com processos separados para conexões de rede e decodificação de imagens.",
+          "Processos renderer de abas executados em sandbox.",
+          "Licença BSD-2-Clause."
+        ],
+        "first_run_steps": [
+          "Abra as instruções oficiais de build e verifique se sua plataforma é compatível.",
+          "Prepare Qt 6.9+, um compilador compatível com C++23, Rust e CMake 3.30+.",
+          "Clone o repositório oficial e siga as instruções de build do projeto."
+        ],
+        "safety_note": "O README oficial descreve o Ladybird como pré-alpha e adequado apenas para desenvolvedores.",
+        "first_prompt": "De acordo com as instruções oficiais, como verifico se meu sistema possui Qt 6.9+, um compilador C++23, Rust e CMake 3.30+?",
+        "commands": {
+          "Kaynak kodunu alın": "Clone o código-fonte",
+          "Proje dizinine geçin": "Entre no diretório do projeto",
+          "Derleyin ve çalıştırın": "Compile e execute"
+        }
+      },
+      "es": {
+        "headline": "Proyecto de navegador y motor independiente",
+        "lead": "Ladybird es un proyecto independiente de navegador web y motor de navegador basado en los estándares web. El README oficial lo describe como pre-alpha y destinado únicamente a desarrolladores; su arquitectura multiproceso separa las conexiones de red y la decodificación de imágenes.",
+        "overview": "Ladybird es un proyecto de código abierto de navegador y motor de navegador. Funciona en Linux, macOS, Windows con WSL2 y otros sistemas similares a Unix. El sitio del proyecto señala como objetivo una primera versión Alpha en 2026 para Linux y macOS, mientras que la guía de compilación requiere Qt 6.9+, un compilador compatible con C++23, Rust y CMake 3.30+.",
+        "best_for": "Desarrolladores que quieren estudiar tecnologías de navegadores, contribuir al proyecto o compilar el código fuente en un entorno de desarrollo.",
+        "not_for": "Personas que buscan un navegador estable para el uso diario.",
+        "wins": [
+          "Proyecto independiente de navegador y motor basado en los estándares web.",
+          "Arquitectura multiproceso con procesos separados para conexiones de red y decodificación de imágenes.",
+          "Procesos renderer de pestañas ejecutados en sandbox.",
+          "Licencia BSD-2-Clause."
+        ],
+        "first_run_steps": [
+          "Abre las instrucciones oficiales de compilación y comprueba si tu plataforma es compatible.",
+          "Prepara Qt 6.9+, un compilador compatible con C++23, Rust y CMake 3.30+.",
+          "Clona el repositorio oficial y sigue las instrucciones de compilación del proyecto."
+        ],
+        "safety_note": "El README oficial describe Ladybird como pre-alpha y adecuado únicamente para desarrolladores.",
+        "first_prompt": "Según las instrucciones oficiales, ¿cómo puedo comprobar si mi sistema tiene Qt 6.9+, un compilador C++23, Rust y CMake 3.30+?",
+        "commands": {
+          "Kaynak kodunu alın": "Clona el código fuente",
+          "Proje dizinine geçin": "Entra en el directorio del proyecto",
+          "Derleyin ve çalıştırın": "Compila y ejecuta"
+        }
+      },
+      "de": {
+        "headline": "Unabhängiges Browser- und Engine-Projekt",
+        "lead": "Ladybird ist ein unabhängiges Webbrowser- und Browser-Engine-Projekt auf Grundlage von Webstandards. Die offizielle README beschreibt es als Pre-Alpha und ausschließlich für Entwickler geeignet; die Multiprozess-Architektur trennt unter anderem Netzwerkverbindungen und Bilddekodierung.",
+        "overview": "Ladybird ist ein Open-Source-Projekt für einen Browser und eine Browser-Engine. Es läuft unter Linux, macOS, Windows mit WSL2 und anderen Unix-ähnlichen Systemen. Die Projektwebsite nennt eine erste Alpha-Version für 2026 unter Linux und macOS als Ziel, während die Bauanleitung Qt 6.9+, einen C++23-fähigen Compiler, Rust und CMake 3.30+ voraussetzt.",
+        "best_for": "Entwickler, die Browsertechnologien untersuchen, zum Projekt beitragen oder den Quellcode in einer Entwicklungsumgebung bauen möchten.",
+        "not_for": "Menschen, die einen stabilen Browser für den täglichen Endanwenderbetrieb suchen.",
+        "wins": [
+          "Unabhängiges Browser- und Engine-Projekt auf Grundlage von Webstandards.",
+          "Multiprozess-Architektur mit getrennten Prozessen für Netzwerkverbindungen und Bilddekodierung.",
+          "Sandbox-Prozesse für die Renderer der Tabs.",
+          "BSD-2-Clause-Lizenz."
+        ],
+        "first_run_steps": [
+          "Öffnen Sie die offizielle Bauanleitung und prüfen Sie, ob Ihre Plattform unterstützt wird.",
+          "Bereiten Sie Qt 6.9+, einen C++23-fähigen Compiler, Rust und CMake 3.30+ vor.",
+          "Klonen Sie das offizielle Repository und folgen Sie der Bauanleitung des Projekts."
+        ],
+        "safety_note": "Die offizielle README beschreibt Ladybird als Pre-Alpha und ausschließlich für Entwickler geeignet.",
+        "first_prompt": "Wie kann ich laut der offiziellen Bauanleitung prüfen, ob mein System Qt 6.9+, einen C++23-Compiler, Rust und CMake 3.30+ besitzt?",
+        "commands": {
+          "Kaynak kodunu alın": "Quellcode klonen",
+          "Proje dizinine geçin": "In das Projektverzeichnis wechseln",
+          "Derleyin ve çalıştırın": "Bauen und ausführen"
+        }
+      }
+    }
   },
   {
     "slug": "devops-interview-guide",
@@ -19869,8 +20441,8 @@
   {
     "slug": "manim",
     "title": "Manim",
-    "tagline": "Manim, matematiksel kavramları görselleştirmek için kullanılan Python tabanlı bir animasyon motoru.",
-    "meta": "★ 90.309 · Python",
+    "tagline": "Açıklayıcı matematik videoları için programatik animasyon motoru.",
+    "meta": "★ 90.309",
     "image": "/assets/discover/og/manim.webp",
     "source": "GitHub",
     "date": "2026-08-12",
@@ -19878,11 +20450,73 @@
       "Geliştirici aracı"
     ],
     "stars": 90309,
+    "summary": "Matematik videoları için kesin ve programatik animasyonlar üretmenize yardımcı olan bir animasyon motorudur. Animasyonları Python ile tanımlayabilir ve örnek sahneler üzerinden başlayabilirsiniz.",
+    "headline": "Açıklayıcı Matematik Animasyonlarını Programlayın",
     "lite": false,
-    "headline": "Matematiksel kavramları animasyonla görselleştirin",
-    "tagline_en": "Manim is a Python-based animation engine used to visualize mathematical concepts.",
-    "tagline_fr": "Manim est un moteur d'animation basé sur Python utilisé pour visualiser des concepts mathématiques.",
-    "last_review": "2026-08-24",
+    "headline_locked": true,
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "ManimGL’yi yükleyin",
+          "komut": "pip install manimgl"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Örnek sahneyi çalıştırın",
+          "komut": "manimgl example_scenes.py OpeningManimExample"
+        }
+      ],
+      "kaynak": "Komutlar 3b1b/manim README’sinden 24 Ağustos 2026’da kontrol edildi; bu kayıt ManimGL içindir."
+    },
+    "editorial": {
+      "overview": "Bu kayıt, 3b1b deposundaki ManimGL sürümünü kapsar. Matematiksel kavramları açıklayan animasyonları kodla oluşturmak için kullanabilirsiniz. Manim Community Edition, ManimGL’den ayrı bir fork ve projedir; kurulum yönergelerini birbirine karıştırmamalısınız.",
+      "best_for": "Matematiksel kavramları animasyonla anlatmak isteyen eğitimciler, öğrenciler ve içerik üreticileri.",
+      "not_for": "Sürükle-bırak arayüzüyle çalışan bir animasyon aracı arayanlar veya Manim Community Edition kullanmak isteyenler.",
+      "wins": [
+        "Açıklayıcı matematik videoları için programatik animasyon üretimi",
+        "Python 3.10+ ile çalışma",
+        "OpenGL desteği",
+        "MIT lisansı"
+      ],
+      "first_run_steps": [
+        "Python 3.10 veya daha yeni bir sürümü, FFmpeg’i ve OpenGL gereksinimlerini hazırlayın.",
+        "LaTeX kullanacaksanız kurun; Linux’ta Pango geliştirme başlıklarını da ekleyin.",
+        "Terminalde `pip install manimgl` komutunu çalıştırın.",
+        "Kurulumu denemek için `manimgl example_scenes.py OpeningManimExample` komutunu çalıştırın."
+      ],
+      "safety_note": "Bu kayıt ManimGL içindir. Paket adı `manimgl`’dir; ayrı bir proje olan Manim Community Edition’ın kurulum yönergelerini kullanmayın.",
+      "first_prompt": "Bir çemberin kareye dönüştüğü basit bir ManimGL animasyon sahnesi yazmama yardımcı olur musun?"
+    },
+    "sources": [
+      {
+        "url": "https://github.com/3b1b/manim",
+        "label": "3b1b ManimGL GitHub deposu",
+        "label_en": "3b1b ManimGL GitHub repository",
+        "label_fr": "Dépôt GitHub ManimGL de 3b1b",
+        "label_pt": "Repositório GitHub ManimGL do 3b1b",
+        "label_es": "Repositorio GitHub de ManimGL de 3b1b",
+        "label_de": "3b1b-ManimGL-GitHub-Repository"
+      },
+      {
+        "url": "https://3b1b.github.io/manim/",
+        "label": "ManimGL resmî belgeleri",
+        "label_en": "Official ManimGL documentation",
+        "label_fr": "Documentation officielle de ManimGL",
+        "label_pt": "Documentação oficial do ManimGL",
+        "label_es": "Documentación oficial de ManimGL",
+        "label_de": "Offizielle ManimGL-Dokumentation"
+      },
+      {
+        "url": "https://docs.manim.community/en/stable/index.html",
+        "label": "Manim Community belgeleri",
+        "label_en": "Manim Community documentation",
+        "label_fr": "Documentation de Manim Community",
+        "label_pt": "Documentação do Manim Community",
+        "label_es": "Documentación de Manim Community",
+        "label_de": "Manim-Community-Dokumentation"
+      }
+    ],
     "guncellemeler": [
       {
         "tarih": "2026-08-12",
@@ -19892,10 +20526,134 @@
         "surum_tarihi": "2024-12-13"
       }
     ],
-    "tagline_pt": "Manim é um mecanismo de animação baseado em Python usado para visualizar conceitos matemáticos.",
-    "tagline_es": "Manim es un motor de animación basado en Python que se utiliza para visualizar conceptos matemáticos.",
-    "tagline_de": "Manim ist eine Python-basierte Animations-Engine zur Visualisierung mathematischer Konzepte.",
-    "last_seen": "2026-08-14"
+    "last_review": "2026-08-24",
+    "localized": {
+      "en": {
+        "headline": "Program Explanatory Math Animations",
+        "lead": "Manim is an animation engine for precise, programmatic explanatory math videos. You can define animations in Python and start with the example scenes in the selected 3b1b repository.",
+        "overview": "This entry covers ManimGL from the 3b1b repository. It is used to create explanatory animations for mathematical concepts in code. Manim Community Edition is a separate fork and project, so its installation instructions must not be mixed with ManimGL.",
+        "best_for": "Educators, students and content creators who want to explain mathematical concepts with programmed animations.",
+        "not_for": "People looking for a drag-and-drop animation tool or specifically wanting to install Manim Community Edition.",
+        "wins": [
+          "Programmatic animation for explanatory math videos.",
+          "Runs with Python 3.10+.",
+          "Uses OpenGL as part of its system requirements.",
+          "MIT license."
+        ],
+        "first_run_steps": [
+          "Prepare Python 3.10 or newer, FFmpeg and the OpenGL requirements.",
+          "Install LaTeX if you plan to use it; on Linux, also install the Pango development headers.",
+          "Run `pip install manimgl` in your terminal.",
+          "Test the installation with `manimgl example_scenes.py OpeningManimExample`."
+        ],
+        "safety_note": "This entry is for ManimGL. The package name is `manimgl`; do not use the installation instructions for the separate Manim Community Edition project.",
+        "first_prompt": "Can you help me write a simple ManimGL scene in which a circle transforms into a square?",
+        "commands": {
+          "ManimGL’yi yükleyin": "Install ManimGL",
+          "Örnek sahneyi çalıştırın": "Run the example scene"
+        }
+      },
+      "fr": {
+        "headline": "Programmer des animations mathématiques explicatives",
+        "lead": "Manim est un moteur d’animation pour créer par programmation des vidéos mathématiques explicatives et précises. Vous pouvez définir les animations en Python et commencer avec les scènes d’exemple du dépôt 3b1b sélectionné.",
+        "overview": "Cette fiche concerne ManimGL du dépôt 3b1b. Il sert à créer en code des animations qui expliquent des concepts mathématiques. Manim Community Edition est un fork et un projet distincts ; ses instructions d’installation ne doivent pas être mélangées avec celles de ManimGL.",
+        "best_for": "Les enseignants, étudiants et créateurs de contenu qui souhaitent expliquer des concepts mathématiques avec des animations programmées.",
+        "not_for": "Les personnes qui recherchent un outil d’animation par glisser-déposer ou qui souhaitent installer spécifiquement Manim Community Edition.",
+        "wins": [
+          "Animation programmatique pour des vidéos mathématiques explicatives.",
+          "Fonctionne avec Python 3.10 ou une version ultérieure.",
+          "OpenGL fait partie des exigences système.",
+          "Licence MIT."
+        ],
+        "first_run_steps": [
+          "Préparez Python 3.10 ou une version ultérieure, FFmpeg et les exigences OpenGL.",
+          "Installez LaTeX si vous comptez l’utiliser ; sous Linux, installez également les en-têtes de développement Pango.",
+          "Exécutez `pip install manimgl` dans votre terminal.",
+          "Testez l’installation avec `manimgl example_scenes.py OpeningManimExample`."
+        ],
+        "safety_note": "Cette fiche concerne ManimGL. Le nom du paquet est `manimgl` ; n’utilisez pas les instructions d’installation du projet distinct Manim Community Edition.",
+        "first_prompt": "Pouvez-vous m’aider à écrire une scène ManimGL simple dans laquelle un cercle se transforme en carré ?",
+        "commands": {
+          "ManimGL’yi yükleyin": "Installer ManimGL",
+          "Örnek sahneyi çalıştırın": "Exécuter la scène d’exemple"
+        }
+      },
+      "pt": {
+        "headline": "Programe animações matemáticas explicativas",
+        "lead": "Manim é um mecanismo de animação para criar vídeos matemáticos explicativos precisos por meio de programação. Você pode definir as animações em Python e começar com as cenas de exemplo do repositório 3b1b selecionado.",
+        "overview": "Esta página trata do ManimGL do repositório 3b1b. Ele é usado para criar em código animações que explicam conceitos matemáticos. O Manim Community Edition é um fork e projeto separado, portanto suas instruções de instalação não devem ser misturadas com as do ManimGL.",
+        "best_for": "Educadores, estudantes e criadores de conteúdo que querem explicar conceitos matemáticos com animações programadas.",
+        "not_for": "Pessoas que procuram uma ferramenta de animação com interface de arrastar e soltar ou que querem instalar especificamente o Manim Community Edition.",
+        "wins": [
+          "Animação programática para vídeos matemáticos explicativos.",
+          "Funciona com Python 3.10 ou mais recente.",
+          "OpenGL faz parte dos requisitos do sistema.",
+          "Licença MIT."
+        ],
+        "first_run_steps": [
+          "Prepare Python 3.10 ou mais recente, FFmpeg e os requisitos de OpenGL.",
+          "Instale LaTeX se for usá-lo; no Linux, instale também os headers de desenvolvimento do Pango.",
+          "Execute `pip install manimgl` no terminal.",
+          "Teste a instalação com `manimgl example_scenes.py OpeningManimExample`."
+        ],
+        "safety_note": "Esta página é sobre o ManimGL. O nome do pacote é `manimgl`; não use as instruções de instalação do projeto separado Manim Community Edition.",
+        "first_prompt": "Você pode me ajudar a escrever uma cena simples do ManimGL em que um círculo se transforma em um quadrado?",
+        "commands": {
+          "ManimGL’yi yükleyin": "Instale o ManimGL",
+          "Örnek sahneyi çalıştırın": "Execute a cena de exemplo"
+        }
+      },
+      "es": {
+        "headline": "Programa animaciones matemáticas explicativas",
+        "lead": "Manim es un motor de animación para crear por programación vídeos matemáticos explicativos y precisos. Puedes definir las animaciones en Python y empezar con las escenas de ejemplo del repositorio 3b1b seleccionado.",
+        "overview": "Esta ficha corresponde a ManimGL del repositorio 3b1b. Se utiliza para crear mediante código animaciones que explican conceptos matemáticos. Manim Community Edition es un fork y proyecto independiente, por lo que sus instrucciones de instalación no deben mezclarse con las de ManimGL.",
+        "best_for": "Educadores, estudiantes y creadores de contenido que quieren explicar conceptos matemáticos con animaciones programadas.",
+        "not_for": "Personas que buscan una herramienta de animación de arrastrar y soltar o que quieren instalar específicamente Manim Community Edition.",
+        "wins": [
+          "Animación programática para vídeos matemáticos explicativos.",
+          "Funciona con Python 3.10 o posterior.",
+          "OpenGL forma parte de sus requisitos del sistema.",
+          "Licencia MIT."
+        ],
+        "first_run_steps": [
+          "Prepara Python 3.10 o posterior, FFmpeg y los requisitos de OpenGL.",
+          "Instala LaTeX si piensas utilizarlo; en Linux instala también las cabeceras de desarrollo de Pango.",
+          "Ejecuta `pip install manimgl` en el terminal.",
+          "Prueba la instalación con `manimgl example_scenes.py OpeningManimExample`."
+        ],
+        "safety_note": "Esta ficha es para ManimGL. El nombre del paquete es `manimgl`; no utilices las instrucciones de instalación del proyecto independiente Manim Community Edition.",
+        "first_prompt": "¿Puedes ayudarme a escribir una escena sencilla de ManimGL en la que un círculo se transforme en un cuadrado?",
+        "commands": {
+          "ManimGL’yi yükleyin": "Instala ManimGL",
+          "Örnek sahneyi çalıştırın": "Ejecuta la escena de ejemplo"
+        }
+      },
+      "de": {
+        "headline": "Erklärende Mathematikanimationen programmieren",
+        "lead": "Manim ist eine Animations-Engine für präzise, programmatisch erstellte erklärende Mathematikvideos. Sie können Animationen in Python definieren und mit den Beispielszenen des ausgewählten 3b1b-Repositories beginnen.",
+        "overview": "Dieser Eintrag behandelt ManimGL aus dem 3b1b-Repository. Damit lassen sich mathematische Konzepte durch programmierten Code erklären. Manim Community Edition ist ein eigener Fork und ein separates Projekt; die Installationsanleitungen dürfen nicht mit denen von ManimGL vermischt werden.",
+        "best_for": "Lehrkräfte, Studierende und Content-Ersteller, die mathematische Konzepte mit programmierten Animationen erklären möchten.",
+        "not_for": "Menschen, die ein Animationswerkzeug mit Drag-and-drop-Oberfläche suchen oder ausdrücklich Manim Community Edition installieren möchten.",
+        "wins": [
+          "Programmatische Animation für erklärende Mathematikvideos.",
+          "Funktioniert mit Python 3.10 oder neuer.",
+          "OpenGL gehört zu den Systemanforderungen.",
+          "MIT-Lizenz."
+        ],
+        "first_run_steps": [
+          "Bereiten Sie Python 3.10 oder neuer, FFmpeg und die OpenGL-Anforderungen vor.",
+          "Installieren Sie LaTeX, wenn Sie es verwenden möchten; unter Linux zusätzlich die Pango-Entwicklungs-Header.",
+          "Führen Sie `pip install manimgl` im Terminal aus.",
+          "Testen Sie die Installation mit `manimgl example_scenes.py OpeningManimExample`."
+        ],
+        "safety_note": "Dieser Eintrag gilt für ManimGL. Der Paketname lautet `manimgl`; verwenden Sie nicht die Installationsanleitungen des separaten Projekts Manim Community Edition.",
+        "first_prompt": "Können Sie mir helfen, eine einfache ManimGL-Szene zu schreiben, in der sich ein Kreis in ein Quadrat verwandelt?",
+        "commands": {
+          "ManimGL’yi yükleyin": "ManimGL installieren",
+          "Örnek sahneyi çalıştırın": "Beispielszene ausführen"
+        }
+      }
+    }
   },
   {
     "slug": "transformers",
@@ -20224,8 +20982,8 @@
   {
     "slug": "localsend",
     "title": "Localsend",
-    "tagline": "LocalSend, farklı işletim sistemleri arasında dosya paylaşımına olanak tanıyan açık kaynaklı bir uygulama.",
-    "meta": "★ 88.882 · Dart",
+    "tagline": "LocalSend, aynı yerel ağdaki Windows, macOS, Linux, Android ve iOS cihazlar arasında hesap veya üçüncü taraf sunucu gerektirmeden dosya ve mesaj paylaşır.",
+    "meta": "★ 88.882",
     "image": "/assets/discover/og/localsend.webp",
     "source": "GitHub",
     "date": "2026-08-13",
@@ -20233,16 +20991,156 @@
       "Geliştirici aracı"
     ],
     "stars": 88882,
+    "summary": "Yakındaki cihazlar arasında yerel ağ üzerinden dosya ve mesaj paylaşın. LocalSend, internet bağlantısı veya üçüncü taraf sunucu gerektirmeden çalışır ve HTTPS şifrelemesi kullanır.",
+    "headline": "Yerel Ağda Dosya ve Mesaj Paylaşımı",
     "lite": false,
-    "headline": "Cihazlar arası güvenli dosya paylaşımı",
-    "needs_enrichment": true,
-    "enrich_reason": "komutsuz",
-    "tagline_en": "LocalSend is an open source application that allows file sharing between different operating systems.",
-    "tagline_fr": "LocalSend est une application open source qui permet le partage de fichiers entre différents systèmes d'exploitation.",
-    "tagline_pt": "LocalSend é um aplicativo de código aberto que permite o compartilhamento de arquivos entre diferentes sistemas operacionais.",
-    "tagline_es": "LocalSend es una aplicación de código abierto que permite compartir archivos entre diferentes sistemas operativos.",
-    "tagline_de": "LocalSend ist eine Open-Source-Anwendung, die die gemeinsame Nutzung von Dateien zwischen verschiedenen Betriebssystemen ermöglicht.",
-    "last_review": "2026-08-24",
+    "headline_locked": true,
+    "editorial": {
+      "overview": "LocalSend; Windows, macOS, Linux, Android ve iOS cihazlar arasında yerel ağ üzerinden dosya ve mesaj paylaşımı sağlayan ücretsiz, açık kaynaklı bir uygulamadır. REST API ve HTTPS şifrelemesi kullanır; hesap veya giriş istemez.",
+      "best_for": "Aynı yerel ağdaki farklı işletim sistemlerine sahip cihazlar arasında dosya ya da mesaj paylaşmak isteyenler.",
+      "not_for": "İnternet üzerinden farklı ağlardaki cihazlara aktarım yapmak veya uygulama içi otomatik güncelleme bekleyenler.",
+      "wins": [
+        "İnternet bağlantısı veya üçüncü taraf sunucu gerektirmez.",
+        "Windows, macOS, Linux, Android ve iOS’u destekler.",
+        "Hesap oluşturma ya da giriş yapma zorunluluğu yoktur.",
+        "Yerel iletişimde REST API ve HTTPS şifrelemesi kullanır."
+      ],
+      "first_run_steps": [
+        "Cihazınız için uygun sürümü resmî web sitesi, uygulama mağazası veya paket yöneticisi üzerinden yükleyin.",
+        "Paylaşım yapacağınız cihazları aynı yerel ağa bağlayın.",
+        "Bağlantı sorunu yaşarsanız güvenlik duvarında TCP ve UDP 53317 için gelen trafiği kontrol edin.",
+        "Uygulamada paylaşmak istediğiniz dosya veya mesajı seçerek gönderim işlemini başlatın."
+      ],
+      "safety_note": "LocalSend internet veya üçüncü taraf sunucu gerektirmeden yerel ağda çalışır ve HTTPS şifrelemesi kullanır. Ağınızda AP isolation etkinse cihazlar birbirini göremeyebilir; güvenlik duvarı kuralları da bağlantıyı etkileyebilir.",
+      "first_prompt": "Aynı yerel ağdaki bilgisayarımdan telefonuma fotoğraf nasıl gönderirim?"
+    },
+    "sources": [
+      {
+        "url": "https://github.com/localsend/localsend",
+        "label": "LocalSend resmî README",
+        "label_en": "Official LocalSend README",
+        "label_fr": "README officiel de LocalSend",
+        "label_pt": "README oficial do LocalSend",
+        "label_es": "README oficial de LocalSend",
+        "label_de": "Offizielle LocalSend-README"
+      },
+      {
+        "url": "https://localsend.org/",
+        "label": "LocalSend resmî sitesi",
+        "label_en": "Official LocalSend website",
+        "label_fr": "Site officiel de LocalSend",
+        "label_pt": "Site oficial do LocalSend",
+        "label_es": "Sitio oficial de LocalSend",
+        "label_de": "Offizielle LocalSend-Website"
+      }
+    ],
+    "localized": {
+      "en": {
+        "headline": "Share Files and Messages on a Local Network",
+        "lead": "Share files and messages between nearby devices on a local network. LocalSend works without an internet connection or third-party server and uses HTTPS encryption.",
+        "overview": "LocalSend is a free, open-source app for sharing files and messages across Windows, macOS, Linux, Android and iOS devices on a local network. It uses a REST API and HTTPS encryption and does not require an account or login.",
+        "best_for": "People who want to share files or messages between devices on the same local network, including devices with different operating systems.",
+        "not_for": "People who need to transfer files between different networks over the internet or expect automatic in-app updates.",
+        "wins": [
+          "Works without an internet connection or third-party server.",
+          "Supports Windows, macOS, Linux, Android and iOS.",
+          "Does not require an account or login.",
+          "Uses a REST API and HTTPS encryption for local communication."
+        ],
+        "first_run_steps": [
+          "Install the version for your device from the official website, an app store or a package manager.",
+          "Connect the devices you want to use to the same local network.",
+          "If a connection fails, check incoming TCP and UDP traffic on port 53317 in your firewall.",
+          "Choose a file or message in the app and start the transfer."
+        ],
+        "safety_note": "LocalSend works on the local network without an internet connection or third-party server and uses HTTPS encryption. AP isolation can prevent devices from seeing one another, and firewall rules can affect connectivity.",
+        "first_prompt": "How can I send a photo from my computer to my phone on the same local network?"
+      },
+      "fr": {
+        "headline": "Partager des fichiers et des messages sur un réseau local",
+        "lead": "Partagez des fichiers et des messages entre des appareils proches sur un réseau local. LocalSend fonctionne sans connexion Internet ni serveur tiers et utilise le chiffrement HTTPS.",
+        "overview": "LocalSend est une application gratuite et open source qui permet de partager des fichiers et des messages entre des appareils Windows, macOS, Linux, Android et iOS sur un réseau local. Elle utilise une API REST et le chiffrement HTTPS, sans exiger de compte ni de connexion.",
+        "best_for": "Les personnes qui souhaitent partager des fichiers ou des messages entre des appareils connectés au même réseau local, même avec des systèmes différents.",
+        "not_for": "Les personnes qui doivent transférer des fichiers entre des réseaux différents via Internet ou qui attendent des mises à jour automatiques dans l’application.",
+        "wins": [
+          "Fonctionne sans connexion Internet ni serveur tiers.",
+          "Prend en charge Windows, macOS, Linux, Android et iOS.",
+          "Ne nécessite ni compte ni connexion.",
+          "Utilise une API REST et le chiffrement HTTPS pour les communications locales."
+        ],
+        "first_run_steps": [
+          "Installez la version adaptée à votre appareil depuis le site officiel, une boutique d’applications ou un gestionnaire de paquets.",
+          "Connectez les appareils concernés au même réseau local.",
+          "En cas de problème, vérifiez dans le pare-feu le trafic entrant TCP et UDP sur le port 53317.",
+          "Sélectionnez un fichier ou un message dans l’application et lancez le transfert."
+        ],
+        "safety_note": "LocalSend fonctionne sur le réseau local sans connexion Internet ni serveur tiers et utilise le chiffrement HTTPS. L’isolation des points d’accès peut empêcher les appareils de se voir, et les règles du pare-feu peuvent affecter la connexion.",
+        "first_prompt": "Comment envoyer une photo de mon ordinateur vers mon téléphone sur le même réseau local ?"
+      },
+      "pt": {
+        "headline": "Compartilhe arquivos e mensagens na rede local",
+        "lead": "Compartilhe arquivos e mensagens entre dispositivos próximos em uma rede local. O LocalSend funciona sem conexão com a internet ou servidor de terceiros e usa criptografia HTTPS.",
+        "overview": "LocalSend é um aplicativo gratuito e de código aberto para compartilhar arquivos e mensagens entre dispositivos Windows, macOS, Linux, Android e iOS na mesma rede local. Ele usa uma API REST e criptografia HTTPS, sem exigir conta ou login.",
+        "best_for": "Pessoas que querem compartilhar arquivos ou mensagens entre dispositivos na mesma rede local, inclusive com sistemas operacionais diferentes.",
+        "not_for": "Pessoas que precisam transferir arquivos entre redes diferentes pela internet ou esperam atualizações automáticas no aplicativo.",
+        "wins": [
+          "Funciona sem conexão com a internet ou servidor de terceiros.",
+          "Oferece suporte a Windows, macOS, Linux, Android e iOS.",
+          "Não exige criação de conta ou login.",
+          "Usa uma API REST e criptografia HTTPS para a comunicação local."
+        ],
+        "first_run_steps": [
+          "Instale a versão adequada ao seu dispositivo pelo site oficial, por uma loja de aplicativos ou por um gerenciador de pacotes.",
+          "Conecte os dispositivos que você quer usar à mesma rede local.",
+          "Se houver falha de conexão, verifique no firewall o tráfego de entrada TCP e UDP na porta 53317.",
+          "Escolha um arquivo ou uma mensagem no aplicativo e inicie a transferência."
+        ],
+        "safety_note": "O LocalSend funciona na rede local sem conexão com a internet ou servidor de terceiros e usa criptografia HTTPS. O isolamento de ponto de acesso pode impedir que os dispositivos se vejam, e as regras do firewall podem afetar a conectividade.",
+        "first_prompt": "Como envio uma foto do meu computador para o celular na mesma rede local?"
+      },
+      "es": {
+        "headline": "Comparte archivos y mensajes en una red local",
+        "lead": "Comparte archivos y mensajes entre dispositivos cercanos en una red local. LocalSend funciona sin conexión a internet ni servidor de terceros y utiliza cifrado HTTPS.",
+        "overview": "LocalSend es una aplicación gratuita y de código abierto para compartir archivos y mensajes entre dispositivos Windows, macOS, Linux, Android e iOS en una red local. Utiliza una API REST y cifrado HTTPS, sin exigir una cuenta ni inicio de sesión.",
+        "best_for": "Personas que quieren compartir archivos o mensajes entre dispositivos conectados a la misma red local, incluso con sistemas operativos distintos.",
+        "not_for": "Personas que necesitan transferir archivos entre redes diferentes por internet o esperan actualizaciones automáticas dentro de la aplicación.",
+        "wins": [
+          "Funciona sin conexión a internet ni servidor de terceros.",
+          "Es compatible con Windows, macOS, Linux, Android e iOS.",
+          "No requiere crear una cuenta ni iniciar sesión.",
+          "Utiliza una API REST y cifrado HTTPS para la comunicación local."
+        ],
+        "first_run_steps": [
+          "Instala la versión adecuada para tu dispositivo desde el sitio oficial, una tienda de aplicaciones o un gestor de paquetes.",
+          "Conecta los dispositivos que quieras usar a la misma red local.",
+          "Si hay problemas de conexión, comprueba en el firewall el tráfico entrante TCP y UDP en el puerto 53317.",
+          "Elige un archivo o mensaje en la aplicación e inicia la transferencia."
+        ],
+        "safety_note": "LocalSend funciona en la red local sin conexión a internet ni servidor de terceros y utiliza cifrado HTTPS. El aislamiento del punto de acceso puede impedir que los dispositivos se vean, y las reglas del firewall pueden afectar a la conectividad.",
+        "first_prompt": "¿Cómo puedo enviar una foto de mi ordenador a mi teléfono en la misma red local?"
+      },
+      "de": {
+        "headline": "Dateien und Nachrichten im lokalen Netzwerk teilen",
+        "lead": "Teilen Sie Dateien und Nachrichten zwischen Geräten in der Nähe über ein lokales Netzwerk. LocalSend funktioniert ohne Internetverbindung oder Server eines Drittanbieters und verwendet HTTPS-Verschlüsselung.",
+        "overview": "LocalSend ist eine kostenlose Open-Source-App zum Teilen von Dateien und Nachrichten zwischen Windows-, macOS-, Linux-, Android- und iOS-Geräten im lokalen Netzwerk. Die App verwendet eine REST-API und HTTPS-Verschlüsselung und benötigt kein Konto und keine Anmeldung.",
+        "best_for": "Menschen, die Dateien oder Nachrichten zwischen Geräten im selben lokalen Netzwerk teilen möchten, auch wenn diese unterschiedliche Betriebssysteme verwenden.",
+        "not_for": "Menschen, die Dateien über das Internet zwischen verschiedenen Netzwerken übertragen oder automatische Updates in der App erwarten.",
+        "wins": [
+          "Funktioniert ohne Internetverbindung oder Server eines Drittanbieters.",
+          "Unterstützt Windows, macOS, Linux, Android und iOS.",
+          "Erfordert kein Konto und keine Anmeldung.",
+          "Verwendet eine REST-API und HTTPS-Verschlüsselung für die lokale Kommunikation."
+        ],
+        "first_run_steps": [
+          "Installieren Sie die passende Version für Ihr Gerät über die offizielle Website, einen App-Store oder einen Paketmanager.",
+          "Verbinden Sie die gewünschten Geräte mit demselben lokalen Netzwerk.",
+          "Wenn die Verbindung fehlschlägt, prüfen Sie in der Firewall eingehenden TCP- und UDP-Verkehr auf Port 53317.",
+          "Wählen Sie in der App eine Datei oder Nachricht aus und starten Sie die Übertragung."
+        ],
+        "safety_note": "LocalSend arbeitet ohne Internetverbindung oder Server eines Drittanbieters im lokalen Netzwerk und verwendet HTTPS-Verschlüsselung. Eine aktivierte AP-Isolation kann verhindern, dass Geräte einander sehen, und Firewall-Regeln können die Verbindung beeinflussen.",
+        "first_prompt": "Wie kann ich ein Foto von meinem Computer an mein Telefon im selben lokalen Netzwerk senden?"
+      }
+    },
     "guncellemeler": [
       {
         "tarih": "2026-08-15",
@@ -20259,7 +21157,7 @@
         "surum_tarihi": "2026-08-21"
       }
     ],
-    "last_seen": "2026-08-13"
+    "last_review": "2026-08-24"
   },
   {
     "slug": "embabel-agent",
@@ -21846,8 +22744,8 @@
   {
     "slug": "n8n",
     "title": "N8n",
-    "tagline": "n8n, görsel iş akışı oluşturmayı özel kod, yerleşik yapay zekâ özellikleri ve 400'den fazla entegrasyonla birleştiren bir otomasyon platformudur.",
-    "meta": "★ 201.895 · TypeScript",
+    "tagline": "n8n, görsel canvas, özel kod ve AI ajanlarıyla self-host veya cloud iş akışı otomasyonu kurmanıza yardımcı olan fair-code bir platformdur.",
+    "meta": "★ 201.895",
     "image": "/assets/discover/og/n8n.webp",
     "source": "GitHub",
     "date": "2026-08-23",
@@ -21855,9 +22753,200 @@
       "Geliştirici aracı"
     ],
     "stars": 201895,
+    "summary": "n8n, görsel canvas, özel kod, AI ajanları ve iş akışlarını bir araya getiren fair-code bir otomasyon platformudur. Self-host veya cloud dağıtım seçenekleriyle çalışabilir; farklı model sağlayıcılarını iş akışlarınıza dahil etmenizi destekler.",
+    "headline": "Görsel İş Akışları ve AI Otomasyonu",
     "lite": false,
-    "headline": "Uygulamalar arası iş akışlarını otomatize edin",
-    "last_review": "2026-08-24",
+    "headline_locked": true,
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Veri volume’ünü oluşturun",
+          "komut": "docker volume create n8n_data"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "n8n Docker container’ını başlatın",
+          "komut": "docker run -it --rm --name n8n -p 5678:5678 -v n8n_data:/home/node/.n8n docker.n8n.io/n8nio/n8n"
+        }
+      ],
+      "kaynak": "Komutlar n8n resmî README’sinden 24 Ağustos 2026’da kontrol edildi; editör 5678 portunda açılır."
+    },
+    "editorial": {
+      "overview": "n8n ile iş akışlarını görsel canvas üzerinde oluşturabilir, JavaScript, Python ve npm paketleriyle genişletebilirsiniz. Resmî kaynaklar OpenAI, Anthropic, Google ve açık kaynak modelleriyle model esnekliğini; ayrıca insan onayı, gözlemlenebilirlik, rol tabanlı erişim ve audit trail özelliklerini listeler. Platform self-host veya cloud olarak dağıtılabilir.",
+      "best_for": "İş akışlarında görsel tasarımı özel kod ve AI ajanlarıyla birleştirmek isteyen ekipler.",
+      "not_for": "Yalnızca kapalı kaynak lisanslı ürünler arayan veya iş akışlarını kod ya da yapılandırma ile genişletmek istemeyen kullanıcılar.",
+      "wins": [
+        "Görsel canvas, özel kod ve AI ajanlarını aynı iş akışında birleştirme",
+        "JavaScript, Python ve npm paketleriyle genişletilebilir yapı",
+        "Self-host veya cloud dağıtım seçenekleri",
+        "İnsan onayı, gözlemlenebilirlik, rol tabanlı erişim ve audit trail özellikleri"
+      ],
+      "first_run_steps": [
+        "Docker ile resmî hızlı başlangıç yönergelerini izleyerek n8n’i çalıştırın.",
+        "Tarayıcınızda 5678 portundan editörü açın.",
+        "Görsel canvas üzerinde ilk iş akışınızı oluşturun.",
+        "Gereksiniminize göre özel kod veya desteklenen bir model sağlayıcısı ekleyin."
+      ],
+      "safety_note": "n8n, Sustainable Use License altında source-available olarak dağıtılır. Kullanım ve dağıtım koşullarını resmî lisans metninden inceleyin; self-host kurulumunuzun erişim ve işletim ayarlarını kendi gereksinimlerinize göre yapılandırın.",
+      "first_prompt": "Görsel canvas üzerinde, bir girdiyi alan, bir AI modeliyle işleyen ve sonucu sonraki adıma aktaran örnek bir iş akışı tasarlamama yardımcı olun."
+    },
+    "sources": [
+      {
+        "url": "https://github.com/n8n-io/n8n",
+        "label": "n8n resmî GitHub deposu",
+        "label_en": "Official n8n GitHub repository",
+        "label_fr": "Dépôt GitHub officiel de n8n",
+        "label_pt": "Repositório GitHub oficial do n8n",
+        "label_es": "Repositorio oficial de GitHub de n8n",
+        "label_de": "Offizielles n8n-GitHub-Repository"
+      },
+      {
+        "url": "https://docs.n8n.io/",
+        "label": "n8n resmî belgeleri",
+        "label_en": "Official n8n documentation",
+        "label_fr": "Documentation officielle de n8n",
+        "label_pt": "Documentação oficial do n8n",
+        "label_es": "Documentación oficial de n8n",
+        "label_de": "Offizielle n8n-Dokumentation"
+      },
+      {
+        "url": "https://github.com/n8n-io/n8n-docs",
+        "label": "n8n belgeleri deposu",
+        "label_en": "n8n documentation repository",
+        "label_fr": "Dépôt de documentation n8n",
+        "label_pt": "Repositório de documentação do n8n",
+        "label_es": "Repositorio de documentación de n8n",
+        "label_de": "n8n-Dokumentations-Repository"
+      }
+    ],
+    "localized": {
+      "en": {
+        "headline": "Visual Workflows and AI Automation",
+        "lead": "n8n combines a visual canvas, custom code, AI agents and workflows in a fair-code automation platform. It supports self-hosted or cloud deployment and can include different model providers in your workflows.",
+        "overview": "With n8n, you can build workflows on a visual canvas and extend them with JavaScript, Python and npm packages. Official sources list model flexibility across OpenAI, Anthropic, Google and open-source models, along with human approvals, observability, role-based access and audit trails. The platform can be deployed self-hosted or in the cloud.",
+        "best_for": "Teams that want to combine visual workflow design with custom code and AI agents.",
+        "not_for": "People who only want closed-source licensed products or do not want to extend workflows with code or configuration.",
+        "wins": [
+          "Combines a visual canvas, custom code and AI agents in workflows.",
+          "Can be extended with JavaScript, Python and npm packages.",
+          "Offers self-hosted and cloud deployment options.",
+          "Lists human approvals, observability, role-based access and audit trails."
+        ],
+        "first_run_steps": [
+          "Follow the official quick start with Docker to run n8n.",
+          "Open the editor on port 5678 in your browser.",
+          "Create your first workflow on the visual canvas.",
+          "Add custom code or a supported model provider according to your needs."
+        ],
+        "safety_note": "n8n is source-available under the Sustainable Use License. Review the official license terms and configure access and operation for your self-hosted deployment.",
+        "first_prompt": "Help me design a workflow on the visual canvas that accepts an input, processes it with an AI model and passes the result to the next step.",
+        "commands": {
+          "Veri volume’ünü oluşturun": "Create the data volume",
+          "n8n Docker container’ını başlatın": "Start the n8n Docker container"
+        }
+      },
+      "fr": {
+        "headline": "Workflows visuels et automatisation avec l’IA",
+        "lead": "n8n associe un canvas visuel, du code personnalisé, des agents d’IA et des workflows dans une plateforme d’automatisation fair-code. La plateforme prend en charge un déploiement auto-hébergé ou cloud et plusieurs fournisseurs de modèles.",
+        "overview": "Avec n8n, vous pouvez créer des workflows sur un canvas visuel et les étendre avec JavaScript, Python et des paquets npm. Les sources officielles mentionnent la flexibilité entre les modèles OpenAI, Anthropic, Google et open source, ainsi que les validations humaines, l’observabilité, le contrôle d’accès par rôle et les pistes d’audit. La plateforme peut être auto-hébergée ou utilisée dans le cloud.",
+        "best_for": "Les équipes qui souhaitent combiner la conception visuelle de workflows avec du code personnalisé et des agents d’IA.",
+        "not_for": "Les personnes qui recherchent uniquement des produits sous licence propriétaire ou qui ne souhaitent pas étendre les workflows avec du code ou de la configuration.",
+        "wins": [
+          "Associe canvas visuel, code personnalisé et agents d’IA dans les workflows.",
+          "Peut être étendu avec JavaScript, Python et des paquets npm.",
+          "Propose un déploiement auto-hébergé ou cloud.",
+          "Mentionne les validations humaines, l’observabilité, le contrôle d’accès par rôle et les pistes d’audit."
+        ],
+        "first_run_steps": [
+          "Suivez le démarrage rapide officiel avec Docker pour lancer n8n.",
+          "Ouvrez l’éditeur dans votre navigateur sur le port 5678.",
+          "Créez votre premier workflow sur le canvas visuel.",
+          "Ajoutez du code personnalisé ou un fournisseur de modèles pris en charge selon vos besoins."
+        ],
+        "safety_note": "n8n est disponible avec le code source sous la Sustainable Use License. Consultez les conditions officielles et configurez les accès et le fonctionnement de votre déploiement auto-hébergé.",
+        "first_prompt": "Aidez-moi à concevoir sur le canvas visuel un workflow qui reçoit une entrée, la traite avec un modèle d’IA et transmet le résultat à l’étape suivante.",
+        "commands": {
+          "Veri volume’ünü oluşturun": "Créer le volume de données",
+          "n8n Docker container’ını başlatın": "Démarrer le conteneur Docker n8n"
+        }
+      },
+      "pt": {
+        "headline": "Workflows visuais e automação com IA",
+        "lead": "O n8n combina canvas visual, código personalizado, agentes de IA e workflows em uma plataforma de automação fair-code. Ele oferece implantação self-hosted ou cloud e pode incluir diferentes provedores de modelos nos workflows.",
+        "overview": "Com o n8n, você pode criar workflows em um canvas visual e estendê-los com JavaScript, Python e pacotes npm. As fontes oficiais listam flexibilidade de modelos entre OpenAI, Anthropic, Google e modelos de código aberto, além de aprovações humanas, observabilidade, acesso baseado em funções e trilhas de auditoria. A plataforma pode ser implantada de forma self-hosted ou na nuvem.",
+        "best_for": "Equipes que querem combinar o desenho visual de workflows com código personalizado e agentes de IA.",
+        "not_for": "Pessoas que procuram apenas produtos de licença proprietária ou não querem ampliar workflows com código ou configuração.",
+        "wins": [
+          "Combina canvas visual, código personalizado e agentes de IA nos workflows.",
+          "Pode ser estendido com JavaScript, Python e pacotes npm.",
+          "Oferece implantação self-hosted e cloud.",
+          "Lista aprovações humanas, observabilidade, acesso baseado em funções e trilhas de auditoria."
+        ],
+        "first_run_steps": [
+          "Siga o início rápido oficial com Docker para executar o n8n.",
+          "Abra o editor no navegador pela porta 5678.",
+          "Crie seu primeiro workflow no canvas visual.",
+          "Adicione código personalizado ou um provedor de modelos compatível conforme a sua necessidade."
+        ],
+        "safety_note": "O n8n é source-available sob a Sustainable Use License. Consulte os termos oficiais da licença e configure o acesso e a operação da sua implantação self-hosted.",
+        "first_prompt": "Ajude-me a criar no canvas visual um workflow que receba uma entrada, a processe com um modelo de IA e passe o resultado para a próxima etapa.",
+        "commands": {
+          "Veri volume’ünü oluşturun": "Crie o volume de dados",
+          "n8n Docker container’ını başlatın": "Inicie o container Docker do n8n"
+        }
+      },
+      "es": {
+        "headline": "Workflows visuales y automatización con IA",
+        "lead": "n8n combina un canvas visual, código personalizado, agentes de IA y workflows en una plataforma de automatización fair-code. Admite despliegues autoalojados o en la nube y puede incluir distintos proveedores de modelos en los workflows.",
+        "overview": "Con n8n puedes crear workflows en un canvas visual y ampliarlos con JavaScript, Python y paquetes npm. Las fuentes oficiales mencionan flexibilidad entre modelos de OpenAI, Anthropic, Google y de código abierto, además de aprobaciones humanas, observabilidad, acceso basado en roles y registros de auditoría. La plataforma puede desplegarse de forma autoalojada o en la nube.",
+        "best_for": "Equipos que quieren combinar el diseño visual de workflows con código personalizado y agentes de IA.",
+        "not_for": "Personas que solo buscan productos con licencia propietaria o que no quieren ampliar los workflows con código o configuración.",
+        "wins": [
+          "Combina canvas visual, código personalizado y agentes de IA en los workflows.",
+          "Se puede ampliar con JavaScript, Python y paquetes npm.",
+          "Ofrece despliegue autoalojado y en la nube.",
+          "Menciona aprobaciones humanas, observabilidad, acceso basado en roles y registros de auditoría."
+        ],
+        "first_run_steps": [
+          "Sigue el inicio rápido oficial con Docker para ejecutar n8n.",
+          "Abre el editor en tu navegador mediante el puerto 5678.",
+          "Crea tu primer workflow en el canvas visual.",
+          "Añade código personalizado o un proveedor de modelos compatible según tus necesidades."
+        ],
+        "safety_note": "n8n ofrece su código fuente bajo la Sustainable Use License. Revisa las condiciones oficiales y configura el acceso y la operación de tu despliegue autoalojado.",
+        "first_prompt": "Ayúdame a diseñar en el canvas visual un workflow que reciba una entrada, la procese con un modelo de IA y pase el resultado al siguiente paso.",
+        "commands": {
+          "Veri volume’ünü oluşturun": "Crea el volumen de datos",
+          "n8n Docker container’ını başlatın": "Inicia el contenedor Docker de n8n"
+        }
+      },
+      "de": {
+        "headline": "Visuelle Workflows und KI-Automatisierung",
+        "lead": "n8n verbindet eine visuelle Arbeitsfläche, eigenen Code, KI-Agenten und Workflows in einer Fair-Code-Automatisierungsplattform. Die Plattform unterstützt selbst betriebene oder Cloud-Bereitstellungen und kann verschiedene Modellanbieter in Workflows einbinden.",
+        "overview": "Mit n8n können Sie Workflows auf einer visuellen Arbeitsfläche erstellen und sie mit JavaScript, Python und npm-Paketen erweitern. Offizielle Quellen nennen Modellflexibilität über OpenAI, Anthropic, Google und Open-Source-Modelle sowie menschliche Freigaben, Beobachtbarkeit, rollenbasierten Zugriff und Audit-Trails. Die Plattform kann selbst betrieben oder in der Cloud eingesetzt werden.",
+        "best_for": "Teams, die visuelles Workflow-Design mit eigenem Code und KI-Agenten verbinden möchten.",
+        "not_for": "Menschen, die ausschließlich Produkte mit proprietärer Lizenz suchen oder Workflows nicht mit Code oder Konfiguration erweitern möchten.",
+        "wins": [
+          "Verbindet visuelle Arbeitsfläche, eigenen Code und KI-Agenten in Workflows.",
+          "Kann mit JavaScript, Python und npm-Paketen erweitert werden.",
+          "Bietet selbst betriebene und Cloud-Bereitstellungen.",
+          "Nennt menschliche Freigaben, Beobachtbarkeit, rollenbasierten Zugriff und Audit-Trails."
+        ],
+        "first_run_steps": [
+          "Folgen Sie dem offiziellen Schnellstart mit Docker, um n8n auszuführen.",
+          "Öffnen Sie den Editor in Ihrem Browser über Port 5678.",
+          "Erstellen Sie Ihren ersten Workflow auf der visuellen Arbeitsfläche.",
+          "Fügen Sie nach Bedarf eigenen Code oder einen unterstützten Modellanbieter hinzu."
+        ],
+        "safety_note": "n8n ist unter der Sustainable Use License mit einsehbarem Quellcode verfügbar. Prüfen Sie die offiziellen Lizenzbedingungen und konfigurieren Sie Zugriff und Betrieb Ihrer selbst betriebenen Installation.",
+        "first_prompt": "Helfen Sie mir, auf der visuellen Arbeitsfläche einen Workflow zu entwerfen, der eine Eingabe annimmt, sie mit einem KI-Modell verarbeitet und das Ergebnis an den nächsten Schritt weitergibt.",
+        "commands": {
+          "Veri volume’ünü oluşturun": "Daten-Volume erstellen",
+          "n8n Docker container’ını başlatın": "n8n-Docker-Container starten"
+        }
+      }
+    },
     "guncellemeler": [
       {
         "tarih": "2026-08-23",
@@ -21867,19 +22956,12 @@
         "surum_tarihi": "2026-08-21"
       }
     ],
-    "tagline_en": "n8n is a workflow automation platform that combines visual building, custom code, native AI capabilities, and more than 400 integrations.",
-    "tagline_fr": "n8n est une plateforme d'automatisation des workflows qui associe création visuelle, code personnalisé, fonctionnalités d'IA natives et plus de 400 intégrations.",
-    "tagline_pt": "n8n é uma plataforma de automação de fluxos de trabalho que combina criação visual, código personalizado, recursos nativos de IA e mais de 400 integrações.",
-    "tagline_es": "n8n es una plataforma de automatización de flujos de trabajo que combina creación visual, código personalizado, capacidades nativas de IA y más de 400 integraciones.",
-    "tagline_de": "n8n ist eine Workflow-Automatisierungsplattform, die visuelle Erstellung, eigenen Code, native KI-Funktionen und mehr als 400 Integrationen kombiniert.",
-    "last_seen": "2026-08-23",
-    "tagline_reviewed": true,
-    "tagline_reviewed_at": "2026-08-24"
+    "last_review": "2026-08-24"
   },
   {
     "slug": "andrej-karpathy-skills",
     "title": "Andrej Karpathy Skills",
-    "tagline": "Andrej Karpathy Skills, Andrej Karpathy'nin LLM'lerle kodlamanın olası sorunlarına ilişkin gözlemlerinden türetilen tek bir CLAUDE.md dosyasıyla Claude Code davranışını iyileştirmeyi amaçlar.",
+    "tagline": "Kodlama ajanları için dört ilkeye dayalı yönerge paketi.",
     "meta": "★ 205.391",
     "image": "/assets/discover/og/andrej-karpathy-skills.webp",
     "source": "GitHub",
@@ -21889,17 +22971,160 @@
       "Geliştirici aracı"
     ],
     "stars": 205391,
+    "summary": "Andrej Karpathy’nin LLM’lerin kodlama hatalarına ilişkin gözlemlerinden türetildiği belirtilen bu yönerge paketi, kodlama ajanlarının çalışma biçimine rehberlik eder. Claude Code plugin’i, proje başına CLAUDE.md ve Cursor kuralları için seçenekler sunar.",
+    "headline": "Kodlama Ajanları için Karpathy Yönergeleri",
     "lite": false,
-    "headline": "Yapay zekâ kodlama asistanına disiplin kazandırın",
+    "headline_locked": true,
+    "editorial": {
+      "overview": "Andrej Karpathy Skills, bağımsız bir model veya coding agent runtime’ı değildir. Mevcut kodlama ajanlarını yönlendirmek için tek bir CLAUDE.md ve plugin tarzı yönergeler içerir. Paket; Kodlamadan Önce Düşünme, Önce Sadelik, Cerrahi Değişiklikler ve Hedef Odaklı Yürütme ilkelerine dayanır.",
+      "best_for": "Claude Code ya da Cursor kullanan ve kodlama ajanlarına proje veya araç düzeyinde ek yönergeler vermek isteyen geliştiriciler.",
+      "not_for": "Bağımsız bir LLM, kod editörü, coding agent runtime’ı veya hazır bir uygulama arıyorsanız size uygun değildir.",
+      "wins": [
+        "Kodlama ajanlarını yönlendirmek için tek bir CLAUDE.md ve plugin tarzı yönerge yaklaşımı sunar.",
+        "Dört ilkeyi açıkça tanımlar: Kodlamadan Önce Düşünme, Önce Sadelik, Cerrahi Değişiklikler ve Hedef Odaklı Yürütme.",
+        "Claude Code plugin’i, proje başına CLAUDE.md ve Cursor kuralları için kurulum seçenekleri içerir.",
+        "README’de MIT lisansı belirtilir."
+      ],
+      "first_run_steps": [
+        "Depodaki README’yi inceleyerek kullandığınız araca uygun seçeneği belirleyin: Claude Code plugin’i, proje başına CLAUDE.md veya Cursor kuralı.",
+        "Proje başına kullanım için depodaki yönergeleri projenizin CLAUDE.md dosyasına ekleyin.",
+        "Yönergeleri kullanmadan önce projenizin ihtiyaçlarına göre gözden geçirin."
+      ],
+      "safety_note": "Bu paket ajanlara yönerge verir; üretilen kodu, değişikliklerin kapsamını ve test sonuçlarını siz doğrulamalısınız.",
+      "first_prompt": "Bu görev için önce planı, belirsizlikleri ve etkilenecek dosyaları çıkarın. Ardından en basit yaklaşımı önerin ve yalnızca hedef için gerekli değişiklikleri yapın."
+    },
+    "sources": [
+      {
+        "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+        "label": "Andrej Karpathy Skills README",
+        "label_en": "Andrej Karpathy Skills README",
+        "label_fr": "README d’Andrej Karpathy Skills",
+        "label_pt": "README do Andrej Karpathy Skills",
+        "label_es": "README de Andrej Karpathy Skills",
+        "label_de": "Andrej-Karpathy-Skills-README"
+      },
+      {
+        "url": "https://github.com/multica-ai/andrej-karpathy-skills/blob/main/skills/karpathy-guidelines/SKILL.md",
+        "label": "Karpathy yönergeleri",
+        "label_en": "Karpathy guidelines",
+        "label_fr": "Principes de Karpathy",
+        "label_pt": "Diretrizes de Karpathy",
+        "label_es": "Directrices de Karpathy",
+        "label_de": "Karpathy-Richtlinien"
+      },
+      {
+        "url": "https://github.com/multica-ai/andrej-karpathy-skills/blob/main/EXAMPLES.md",
+        "label": "Karpathy örnekleri",
+        "label_en": "Karpathy examples",
+        "label_fr": "Exemples de Karpathy",
+        "label_pt": "Exemplos de Karpathy",
+        "label_es": "Ejemplos de Karpathy",
+        "label_de": "Karpathy-Beispiele"
+      }
+    ],
     "last_review": "2026-08-24",
-    "tagline_en": "Andrej Karpathy Skills is a single CLAUDE.md file intended to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-    "tagline_fr": "Andrej Karpathy Skills est un fichier CLAUDE.md unique destiné à améliorer le comportement de Claude Code, dérivé des observations d'Andrej Karpathy sur les pièges du codage avec les LLM.",
-    "tagline_pt": "Andrej Karpathy Skills é um único arquivo CLAUDE.md destinado a melhorar o comportamento do Claude Code, derivado das observações de Andrej Karpathy sobre armadilhas de programação com LLMs.",
-    "tagline_es": "Andrej Karpathy Skills es un único archivo CLAUDE.md destinado a mejorar el comportamiento de Claude Code, derivado de las observaciones de Andrej Karpathy sobre los problemas de programar con LLM.",
-    "tagline_de": "Andrej Karpathy Skills ist eine einzelne CLAUDE.md-Datei zur Verbesserung des Verhaltens von Claude Code, abgeleitet aus Andrej Karpathys Beobachtungen zu Fallstricken beim Programmieren mit LLMs.",
-    "last_seen": "2026-08-23",
-    "tagline_reviewed": true,
-    "tagline_reviewed_at": "2026-08-24"
+    "localized": {
+      "en": {
+        "headline": "Karpathy Guidelines for Coding Agents",
+        "lead": "This guideline package is described as being derived from Andrej Karpathy’s observations about coding failures by LLMs. It offers Claude Code plugin, per-project CLAUDE.md and Cursor rule options.",
+        "overview": "Andrej Karpathy Skills is not an independent model or coding-agent runtime. It provides a CLAUDE.md and plugin-style guidelines for directing existing coding agents, organized around Think Before Coding, Simplicity First, Surgical Changes and Goal-Driven Execution.",
+        "best_for": "Developers using Claude Code or Cursor who want to add project- or tool-level guidance for coding agents.",
+        "not_for": "People looking for an independent LLM, code editor, coding-agent runtime or ready-to-run application.",
+        "wins": [
+          "Uses one CLAUDE.md and a plugin-style approach to guide coding agents.",
+          "Defines four principles for deliberate and verifiable work.",
+          "Includes setup options for Claude Code and Cursor.",
+          "The README states an MIT license."
+        ],
+        "first_run_steps": [
+          "Read the repository README and choose the option for your tool: Claude Code plugin, project CLAUDE.md or Cursor rule.",
+          "For project-level use, add the guidelines to your project’s CLAUDE.md as described in the repository.",
+          "Review the guidelines against your project needs before using them."
+        ],
+        "safety_note": "This package gives agents guidance; you should still verify generated code, change scope and test results.",
+        "first_prompt": "First state the plan, uncertainties and affected files for this task. Then suggest the simplest approach and make only the changes required for the goal."
+      },
+      "fr": {
+        "headline": "Principes de Karpathy pour les agents de code",
+        "lead": "Ce paquet de principes est présenté comme dérivé des observations d’Andrej Karpathy sur les erreurs de codage des LLM. Il propose des options sous forme de plugin Claude Code, de CLAUDE.md par projet et de règle Cursor.",
+        "overview": "Andrej Karpathy Skills n’est ni un modèle indépendant ni un runtime d’agent de code. Il fournit un fichier CLAUDE.md et des principes de type plugin pour guider des agents de code existants, autour de quatre idées : réfléchir avant de coder, privilégier la simplicité, effectuer des changements chirurgicaux et exécuter en fonction de l’objectif.",
+        "best_for": "Les développeurs qui utilisent Claude Code ou Cursor et souhaitent ajouter des principes au niveau du projet ou de l’outil.",
+        "not_for": "Les personnes qui recherchent un LLM indépendant, un éditeur de code, un runtime d’agent ou une application prête à l’emploi.",
+        "wins": [
+          "Utilise un CLAUDE.md et une approche de type plugin pour guider les agents de code.",
+          "Définit quatre principes pour un travail réfléchi et vérifiable.",
+          "Propose des options d’installation pour Claude Code et Cursor.",
+          "Le README indique une licence MIT."
+        ],
+        "first_run_steps": [
+          "Lisez le README du dépôt et choisissez l’option adaptée à votre outil : plugin Claude Code, CLAUDE.md de projet ou règle Cursor.",
+          "Pour un usage au niveau du projet, ajoutez les principes au CLAUDE.md de votre projet selon les indications du dépôt.",
+          "Relisez les principes en fonction des besoins de votre projet avant de les utiliser."
+        ],
+        "safety_note": "Ce paquet donne des indications aux agents ; vous devez toujours vérifier le code généré, la portée des changements et les résultats des tests.",
+        "first_prompt": "Commencez par exposer le plan, les incertitudes et les fichiers concernés par cette tâche. Proposez ensuite l’approche la plus simple et ne faites que les changements nécessaires."
+      },
+      "pt": {
+        "headline": "Diretrizes de Karpathy para agentes de código",
+        "lead": "Este pacote de diretrizes é descrito como derivado das observações de Andrej Karpathy sobre falhas de codificação de LLMs. Ele oferece opções de plugin para Claude Code, CLAUDE.md por projeto e regra para Cursor.",
+        "overview": "Andrej Karpathy Skills não é um modelo independente nem um runtime de agente de código. Ele fornece um CLAUDE.md e diretrizes no estilo de plugin para orientar agentes de código existentes, organizadas em quatro princípios: pensar antes de codificar, priorizar a simplicidade, fazer mudanças cirúrgicas e executar orientado pelo objetivo.",
+        "best_for": "Desenvolvedores que usam Claude Code ou Cursor e querem adicionar diretrizes no nível do projeto ou da ferramenta.",
+        "not_for": "Pessoas que procuram um LLM independente, editor de código, runtime de agente ou aplicativo pronto para execução.",
+        "wins": [
+          "Usa um CLAUDE.md e uma abordagem de plugin para orientar agentes de código.",
+          "Define quatro princípios para um trabalho deliberado e verificável.",
+          "Inclui opções de configuração para Claude Code e Cursor.",
+          "O README informa a licença MIT."
+        ],
+        "first_run_steps": [
+          "Leia o README do repositório e escolha a opção adequada à sua ferramenta: plugin do Claude Code, CLAUDE.md do projeto ou regra do Cursor.",
+          "Para uso no nível do projeto, adicione as diretrizes ao CLAUDE.md do seu projeto conforme descrito no repositório.",
+          "Revise as diretrizes de acordo com as necessidades do projeto antes de usá-las."
+        ],
+        "safety_note": "Este pacote orienta agentes; ainda é necessário verificar o código gerado, o escopo das alterações e os resultados dos testes.",
+        "first_prompt": "Primeiro apresente o plano, as incertezas e os arquivos afetados por esta tarefa. Depois sugira a abordagem mais simples e faça apenas as alterações necessárias para o objetivo."
+      },
+      "es": {
+        "headline": "Directrices de Karpathy para agentes de código",
+        "lead": "Este paquete de directrices se describe como derivado de las observaciones de Andrej Karpathy sobre los fallos de codificación de los LLM. Ofrece opciones como plugin de Claude Code, CLAUDE.md por proyecto y regla para Cursor.",
+        "overview": "Andrej Karpathy Skills no es un modelo independiente ni un runtime de agente de código. Proporciona un CLAUDE.md y directrices con formato de plugin para orientar a agentes de código existentes, organizadas en cuatro principios: pensar antes de programar, priorizar la sencillez, hacer cambios quirúrgicos y ejecutar con objetivos verificables.",
+        "best_for": "Desarrolladores que utilizan Claude Code o Cursor y quieren añadir directrices a nivel de proyecto o de herramienta.",
+        "not_for": "Personas que buscan un LLM independiente, un editor de código, un runtime de agente o una aplicación lista para usar.",
+        "wins": [
+          "Utiliza un CLAUDE.md y un enfoque de plugin para orientar a agentes de código.",
+          "Define cuatro principios para un trabajo deliberado y verificable.",
+          "Incluye opciones de configuración para Claude Code y Cursor.",
+          "El README indica una licencia MIT."
+        ],
+        "first_run_steps": [
+          "Lee el README del repositorio y elige la opción adecuada para tu herramienta: plugin de Claude Code, CLAUDE.md del proyecto o regla de Cursor.",
+          "Para usarlo a nivel de proyecto, añade las directrices al CLAUDE.md de tu proyecto según las indicaciones del repositorio.",
+          "Revisa las directrices según las necesidades de tu proyecto antes de utilizarlas."
+        ],
+        "safety_note": "Este paquete orienta a los agentes; aun así debes verificar el código generado, el alcance de los cambios y los resultados de las pruebas.",
+        "first_prompt": "Primero indica el plan, las incertidumbres y los archivos afectados por esta tarea. Después propone el enfoque más sencillo y realiza solo los cambios necesarios para el objetivo."
+      },
+      "de": {
+        "headline": "Karpathy-Richtlinien für Coding-Agenten",
+        "lead": "Dieses Richtlinienpaket wird als Ableitung von Andrej Karpathys Beobachtungen zu Fehlern von LLMs beim Programmieren beschrieben. Es bietet Optionen als Claude-Code-Plugin, projektbezogene CLAUDE.md und Cursor-Regel.",
+        "overview": "Andrej Karpathy Skills ist weder ein eigenständiges Modell noch eine Coding-Agent-Runtime. Es stellt eine CLAUDE.md und Plugin-artige Richtlinien bereit, um vorhandene Coding-Agenten zu steuern. Die vier Grundsätze sind: vor dem Programmieren denken, Einfachheit zuerst, chirurgische Änderungen und zielorientierte Ausführung.",
+        "best_for": "Entwickler, die Claude Code oder Cursor verwenden und Coding-Agenten zusätzliche Richtlinien auf Projekt- oder Werkzeugebene geben möchten.",
+        "not_for": "Menschen, die ein eigenständiges LLM, einen Code-Editor, eine Coding-Agent-Runtime oder eine fertige Anwendung suchen.",
+        "wins": [
+          "Verwendet eine CLAUDE.md und einen Plugin-Ansatz zur Steuerung von Coding-Agenten.",
+          "Definiert vier Grundsätze für bewusstes und überprüfbares Arbeiten.",
+          "Enthält Einrichtungsoptionen für Claude Code und Cursor.",
+          "Die README nennt die MIT-Lizenz."
+        ],
+        "first_run_steps": [
+          "Lesen Sie die Repository-README und wählen Sie die Option für Ihr Werkzeug: Claude-Code-Plugin, projektbezogene CLAUDE.md oder Cursor-Regel.",
+          "Für die Verwendung auf Projektebene fügen Sie die Richtlinien wie im Repository beschrieben in die CLAUDE.md Ihres Projekts ein.",
+          "Prüfen Sie die Richtlinien vor der Nutzung anhand der Anforderungen Ihres Projekts."
+        ],
+        "safety_note": "Dieses Paket gibt Agenten Richtlinien; generierten Code, Änderungsumfang und Testergebnisse müssen Sie weiterhin selbst prüfen.",
+        "first_prompt": "Nennen Sie zuerst den Plan, Unsicherheiten und betroffene Dateien für diese Aufgabe. Schlagen Sie danach den einfachsten Ansatz vor und nehmen Sie nur die für das Ziel erforderlichen Änderungen vor."
+      }
+    }
   },
   {
     "slug": "awesome-gpt-image-2",

@@ -1,30 +1,42 @@
-# Discipline your AI coding assistant
+# Karpathy Guidelines for Coding Agents
 
-Andrej Karpathy Skills, Andrej Karpathy'nin LLM'lerle kodlamanın olası sorunlarına ilişkin gözlemlerinden türetilen tek bir CLAUDE.md dosyasıyla Claude Code davranışını iyileştirmeyi amaçlar.
+This guideline package is described as being derived from Andrej Karpathy’s observations about coding failures by LLMs. It offers Claude Code plugin, per-project CLAUDE.md and Cursor rule options.
 
 - ★ 205,391
 - GitHub Trending · 2026-08-23
 
-## What you get
-- Prevents AI from making incorrect assumptions
-- Prevents unnecessary complexity of the code
-- Provides only targeted, clean changes
+## What does this tool do?
+Andrej Karpathy Skills is not an independent model or coding-agent runtime. It provides a CLAUDE.md and plugin-style guidelines for directing existing coding agents, organized around Think Before Coding, Simplicity First, Surgical Changes and Goal-Driven Execution.
 
-## Installation
-**Add to new project**
+## Who it is for
+Developers using Claude Code or Cursor who want to add project- or tool-level guidance for coding agents.
 
-```
-curl -o CLAUDE.md https://raw.githubusercontent.com/forrestchang/andrej-karpathy-skills/main/CLAUDE.md
-```
+## What not to expect
+People looking for an independent LLM, code editor, coding-agent runtime or ready-to-run application.
 
+## Highlights
+- Uses one CLAUDE.md and a plugin-style approach to guide coding agents.
+- Defines four principles for deliberate and verifiable work.
+- Includes setup options for Claude Code and Cursor.
+- The README states an MIT license.
 
-## If you don't write code
-From now on, apply the four basic principles suggested by Andrej Karpathy when coding: Think before coding, explain your assumptions and ask for uncertainties, avoid unnecessary complexity by always choosing the simplest solution, make changes only to the requested parts, and proceed by setting testable success criteria instead of saying 'run' the job.
+## First-use flow
+- Read the repository README and choose the option for your tool: Claude Code plugin, project CLAUDE.md or Cursor rule.
+- For project-level use, add the guidelines to your project’s CLAUDE.md as described in the repository.
+- Review the guidelines against your project needs before using them.
+
+## Safe start
+
+## First task prompt
+First state the plan, uncertainties and affected files for this task. Then suggest the simplest approach and make only the changes required for the goal.
 
 ## Related dictionary terms
 
 ## Links
 - GitHub repository →
+- Andrej Karpathy Skills README →
+- Karpathy guidelines →
+- Karpathy examples →
 - Read in Turkish →
 
 ---

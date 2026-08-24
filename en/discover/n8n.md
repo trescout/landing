@@ -1,46 +1,57 @@
-# Automate cross-application workflows
+# Visual Workflows and AI Automation
 
-n8n, görsel iş akışı oluşturmayı özel kod, yerleşik yapay zekâ özellikleri ve 400'den fazla entegrasyonla birleştiren bir otomasyon platformudur.
+n8n combines a visual canvas, custom code, AI agents and workflows in a fair-code automation platform. It supports self-hosted or cloud deployment and can include different model providers in your workflows.
 
 - ★ 201,895
-- TypeScript
 - GitHub Trending · 2026-08-23
 
-## What you get
-- Design complex business processes with a visual interface
-- Connect over 1500 different apps and services
-- Run securely on your own server or in the cloud
+## What does this tool do?
+With n8n, you can build workflows on a visual canvas and extend them with JavaScript, Python and npm packages. Official sources list model flexibility across OpenAI, Anthropic, Google and open-source models, along with human approvals, observability, role-based access and audit trails. The platform can be deployed self-hosted or in the cloud.
+
+## Who it is for
+Teams that want to combine visual workflow design with custom code and AI agents.
+
+## What not to expect
+People who only want closed-source licensed products or do not want to extend workflows with code or configuration.
+
+## Highlights
+- Combines a visual canvas, custom code and AI agents in workflows.
+- Can be extended with JavaScript, Python and npm packages.
+- Offers self-hosted and cloud deployment options.
+- Lists human approvals, observability, role-based access and audit trails.
+
+## First-use flow
+- Follow the official quick start with Docker to run n8n.
+- Open the editor on port 5678 in your browser.
+- Create your first workflow on the visual canvas.
+- Add custom code or a supported model provider according to your needs.
+
+## Safe start
+
+## First task prompt
+Help me design a workflow on the visual canvas that accepts an input, processes it with an AI model and passes the result to the next step.
 
 ## Installation
-**Quick installation script**
-
-```
-curl -fsSL https://get.n8n.io | sh
-```
-
-**Manual installation with Docker**
+**Create the data volume**
 
 ```
 docker volume create n8n_data
-docker run -it --rm --name n8n -p 5678:5678 -v n8n_data:/home/node/.n8n docker.n8n.io/n8nio/n8n
 ```
 
 
 ## Running it
-**Access to interface**
+**Start the n8n Docker container**
 
 ```
-http://localhost:5678
+docker run -it --rm --name n8n -p 5678:5678 -v n8n_data:/home/node/.n8n docker.n8n.io/n8nio/n8n
 ```
 
-
-## If you don't write code
-You are an automation expert. You work on a visual canvas to manage data flow between applications and create AI-powered business processes. Your job is to design multi-stage workflows that connect different services, have logical steps, and require human approval. I've completed the setup, now help me create my first workflow.
-
-## Related dictionary terms
 
 ## Links
 - GitHub repository →
+- Official n8n GitHub repository →
+- Official n8n documentation →
+- n8n documentation repository →
 - Read in Turkish →
 
 ---

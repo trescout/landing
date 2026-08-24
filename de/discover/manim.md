@@ -1,45 +1,57 @@
-# Visualisieren Sie mathematische Konzepte mit Animationen
+# Erklärende Mathematikanimationen programmieren
 
-Manim ist eine Python-basierte Animations-Engine zur Visualisierung mathematischer Konzepte. Es bietet eine programmatische Lösung für Content-Ersteller, die komplexe Theorien in Erklärvideos umwandeln möchten.
+Manim ist eine Animations-Engine für präzise, programmatisch erstellte erklärende Mathematikvideos. Sie können Animationen in Python definieren und mit den Beispielszenen des ausgewählten 3b1b-Repositories beginnen.
 
 - ★ 90.309
-- Python
 - GitHub Trending · 2026-08-12
 
-## Was es bringt
-- Erstellt präzise Animationen, die mathematische Theorien visualisieren
-- Ermöglicht die Erstellung von Erklärvideos durch das Schreiben von Code
-- Bietet anpassbare Szenen- und Bildeinstellungen
+## Was macht dieses Werkzeug?
+Dieser Eintrag behandelt ManimGL aus dem 3b1b-Repository. Damit lassen sich mathematische Konzepte durch programmierten Code erklären. Manim Community Edition ist ein eigener Fork und ein separates Projekt; die Installationsanleitungen dürfen nicht mit denen von ManimGL vermischt werden.
+
+## Für wen ist es?
+Lehrkräfte, Studierende und Content-Ersteller, die mathematische Konzepte mit programmierten Animationen erklären möchten.
+
+## Was Sie nicht erwarten sollten
+Menschen, die ein Animationswerkzeug mit Drag-and-drop-Oberfläche suchen oder ausdrücklich Manim Community Edition installieren möchten.
+
+## Höhepunkte
+- Programmatische Animation für erklärende Mathematikvideos.
+- Funktioniert mit Python 3.10 oder neuer.
+- OpenGL gehört zu den Systemanforderungen.
+- MIT-Lizenz.
+
+## Ablauf für die erste Nutzung
+- Bereiten Sie Python 3.10 oder neuer, FFmpeg und die OpenGL-Anforderungen vor.
+- Installieren Sie LaTeX, wenn Sie es verwenden möchten; unter Linux zusätzlich die Pango-Entwicklungs-Header.
+- Führen Sie `pip install manimgl` im Terminal aus.
+- Testen Sie die Installation mit `manimgl example_scenes.py OpeningManimExample`.
+
+## Sicherer Start
+
+## Erster Prompt
+Können Sie mir helfen, eine einfache ManimGL-Szene zu schreiben, in der sich ein Kreis in ein Quadrat verwandelt?
 
 ## Installation
-**Direkte Installation**
+**ManimGL installieren**
 
 ```
 pip install manimgl
 ```
 
-**Installation im Entwicklermodus**
-
-```
-pip install -e .
-```
-
 
 ## Ausführung
-**Beginn der Beispielszene**
+**Beispielszene ausführen**
 
 ```
 manimgl example_scenes.py OpeningManimExample
 ```
 
 
-## Wenn Sie nicht programmieren
-Ich muss eine präzise in Python geschriebene Animation erstellen, die ein mathematisches Konzept erklärt. Erstellen Sie mithilfe der Manim-Bibliothek Szenencode, der komplexe Theorien Schritt für Schritt visualisiert und erklärt. Stellen Sie sicher, dass der Code mit dem FFmpeg-Video-Rendering-Tool und dem LaTeX-Satzsystem kompatibel ist.
-
-## Verwandte Begriffe aus dem Glossar
-
 ## Links
 - GitHub-Repository →
+- 3b1b-ManimGL-GitHub-Repository →
+- Offizielle ManimGL-Dokumentation →
+- Manim-Community-Dokumentation →
 - Auf Türkisch lesen →
 
 ---

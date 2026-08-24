@@ -1,37 +1,63 @@
-# Regarder des vidéos sans publicité ni suivi
+# Interface open source alternative à YouTube
 
-Invidious est une interface open source développée comme alternative à la plateforme YouTube. Il offre aux utilisateurs une expérience de visionnage de vidéos sans publicité et sans suivi des données.
+Invidious est une interface open source alternative à YouTube. Le README officiel mentionne une utilisation sans publicité ni suivi, sans exigence de JavaScript, avec des abonnements indépendants de Google et des options d’importation et d’exportation des données.
 
 - ★ 22 400
-- Crystal
 - GitHub Trending · 2026-08-02
 
-## Ce que ça vous apporte
-- Regardez des vidéos YouTube sans publicité ni suivi des données
-- Abonnez-vous aux chaînes sans avoir besoin d'un compte Google
-- Lire de l'audio en arrière-plan avec une faible consommation de données
+## Que fait cet outil ?
+Invidious propose une interface alternative à YouTube et n’utilise pas les API YouTube officielles. Vous pouvez choisir une instance publique ou héberger la vôtre en suivant la documentation d’installation. Le projet est sous licence AGPL-3.0 et fournit une API documentée pour les développeurs.
+
+## Pour qui ?
+Les personnes qui souhaitent une interface YouTube alternative, des abonnements indépendants de Google ou une instance auto-hébergée.
+
+## À quoi ne faut-il pas s’attendre ?
+Les personnes qui ont spécifiquement besoin d’une solution fondée sur les API YouTube officielles.
+
+## Points forts
+- Mentionne une utilisation sans publicité ni suivi et sans exigence de JavaScript.
+- Prend en charge des abonnements indépendants de Google.
+- Propose des options d’importation et d’exportation des données.
+- Fournit une API documentée pour les développeurs.
+
+## Premiers pas
+- Choisissez une instance Invidious publique si vous souhaitez simplement utiliser le service.
+- Si vous voulez l’auto-héberger, consultez d’abord la documentation officielle d’installation.
+- Pour la méthode Docker actuelle, préparez PostgreSQL et Invidious Companion.
+- Prévoyez au moins 20 Go d’espace disque et 2 Go de RAM libre pour votre installation.
+
+## Démarrage prudent
+
+## Premier prompt
+Quelles sont les différences entre l’utilisation d’une instance Invidious publique et l’hébergement de ma propre instance ?
 
 ## Installation
-**Obtenez le référentiel et composez le fichier**
+**Cloner le dépôt**
 
 ```
-git clone --depth 1 https://github.com/iv-org/invidious.git && cd invidious
+git clone https://github.com/iv-org/invidious.git
+```
+
+**Entrer dans le répertoire du projet**
+
+```
+cd invidious
 ```
 
 
 ## Exécution
-**commencer**
+**Démarrer Docker Compose**
 
 ```
 docker compose up -d
 ```
 
 
-## Pour commencer
-- Source officielle →
-
 ## Liens
 - Dépôt GitHub →
+- Dépôt GitHub officiel d’Invidious →
+- Documentation d’installation d’Invidious →
+- Site officiel d’Invidious →
 - Lire en turc →
 
 ---

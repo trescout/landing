@@ -1,30 +1,42 @@
-# Disciplinez votre assistant de codage IA
+# Principes de Karpathy pour les agents de code
 
-Andrej Karpathy Skills, Andrej Karpathy'nin LLM'lerle kodlamanın olası sorunlarına ilişkin gözlemlerinden türetilen tek bir CLAUDE.md dosyasıyla Claude Code davranışını iyileştirmeyi amaçlar.
+Ce paquet de principes est présenté comme dérivé des observations d’Andrej Karpathy sur les erreurs de codage des LLM. Il propose des options sous forme de plugin Claude Code, de CLAUDE.md par projet et de règle Cursor.
 
 - ★ 205 391
 - GitHub Trending · 2026-08-23
 
-## Ce que ça vous apporte
-- Empêche l'IA de faire des hypothèses incorrectes
-- Évite une complexité inutile du code
-- Fournit uniquement des changements ciblés et propres
+## Que fait cet outil ?
+Andrej Karpathy Skills n’est ni un modèle indépendant ni un runtime d’agent de code. Il fournit un fichier CLAUDE.md et des principes de type plugin pour guider des agents de code existants, autour de quatre idées : réfléchir avant de coder, privilégier la simplicité, effectuer des changements chirurgicaux et exécuter en fonction de l’objectif.
 
-## Installation
-**Ajouter au nouveau projet**
+## Pour qui ?
+Les développeurs qui utilisent Claude Code ou Cursor et souhaitent ajouter des principes au niveau du projet ou de l’outil.
 
-```
-curl -o CLAUDE.md https://raw.githubusercontent.com/forrestchang/andrej-karpathy-skills/main/CLAUDE.md
-```
+## À quoi ne faut-il pas s’attendre ?
+Les personnes qui recherchent un LLM indépendant, un éditeur de code, un runtime d’agent ou une application prête à l’emploi.
 
+## Points forts
+- Utilise un CLAUDE.md et une approche de type plugin pour guider les agents de code.
+- Définit quatre principes pour un travail réfléchi et vérifiable.
+- Propose des options d’installation pour Claude Code et Cursor.
+- Le README indique une licence MIT.
 
-## Si vous ne codez pas
-Désormais, appliquez les quatre principes de base suggérés par Andrej Karpathy lors du codage : réfléchissez avant de coder, expliquez vos hypothèses et posez des questions sur les incertitudes, évitez toute complexité inutile en choisissant toujours la solution la plus simple, apportez des modifications uniquement aux parties demandées et procédez en définissant des critères de réussite testables au lieu de dire "exécuter" le travail.
+## Premiers pas
+- Lisez le README du dépôt et choisissez l’option adaptée à votre outil : plugin Claude Code, CLAUDE.md de projet ou règle Cursor.
+- Pour un usage au niveau du projet, ajoutez les principes au CLAUDE.md de votre projet selon les indications du dépôt.
+- Relisez les principes en fonction des besoins de votre projet avant de les utiliser.
+
+## Démarrage prudent
+
+## Premier prompt
+Commencez par exposer le plan, les incertitudes et les fichiers concernés par cette tâche. Proposez ensuite l’approche la plus simple et ne faites que les changements nécessaires.
 
 ## Termes liés du glossaire
 
 ## Liens
 - Dépôt GitHub →
+- README d’Andrej Karpathy Skills →
+- Principes de Karpathy →
+- Exemples de Karpathy →
 - Lire en turc →
 
 ---

@@ -1,45 +1,57 @@
-# Visualiza conceptos matemáticos con animación.
+# Programa animaciones matemáticas explicativas
 
-Manim es un motor de animación basado en Python que se utiliza para visualizar conceptos matemáticos. Ofrece una solución programática para creadores de contenido que desean convertir teorías complejas en videos explicativos.
+Manim es un motor de animación para crear por programación vídeos matemáticos explicativos y precisos. Puedes definir las animaciones en Python y empezar con las escenas de ejemplo del repositorio 3b1b seleccionado.
 
 - ★ 90.309
-- Python
 - GitHub Trending · 2026-08-12
 
-## Qué aporta
-- Crea animaciones precisas que visualizan teorías matemáticas.
-- Permite producir vídeos explicativos escribiendo código.
-- Ofrece configuraciones de escena e imagen personalizables.
+## ¿Qué hace esta herramienta?
+Esta ficha corresponde a ManimGL del repositorio 3b1b. Se utiliza para crear mediante código animaciones que explican conceptos matemáticos. Manim Community Edition es un fork y proyecto independiente, por lo que sus instrucciones de instalación no deben mezclarse con las de ManimGL.
+
+## ¿Para quién es?
+Educadores, estudiantes y creadores de contenido que quieren explicar conceptos matemáticos con animaciones programadas.
+
+## Qué no esperar
+Personas que buscan una herramienta de animación de arrastrar y soltar o que quieren instalar específicamente Manim Community Edition.
+
+## Aspectos destacados
+- Animación programática para vídeos matemáticos explicativos.
+- Funciona con Python 3.10 o posterior.
+- OpenGL forma parte de sus requisitos del sistema.
+- Licencia MIT.
+
+## Primer flujo de uso
+- Prepara Python 3.10 o posterior, FFmpeg y los requisitos de OpenGL.
+- Instala LaTeX si piensas utilizarlo; en Linux instala también las cabeceras de desarrollo de Pango.
+- Ejecuta `pip install manimgl` en el terminal.
+- Prueba la instalación con `manimgl example_scenes.py OpeningManimExample`.
+
+## Inicio seguro
+
+## Primer prompt
+¿Puedes ayudarme a escribir una escena sencilla de ManimGL en la que un círculo se transforme en un cuadrado?
 
 ## Instalación
-**Instalación directa**
+**Instala ManimGL**
 
 ```
 pip install manimgl
 ```
 
-**Instalación en modo desarrollador**
-
-```
-pip install -e .
-```
-
 
 ## Ejecución
-**Comenzando la escena de muestra**
+**Ejecuta la escena de ejemplo**
 
 ```
 manimgl example_scenes.py OpeningManimExample
 ```
 
 
-## Si no programa
-Necesito crear una animación precisa escrita en Python que explique un concepto matemático. Utilizando la biblioteca Manim, cree un código de escena que visualice y explique teorías complejas paso a paso. Asegúrese de que el código sea compatible con la herramienta de renderizado de video FFmpeg y el sistema de composición tipográfica LaTeX.
-
-## Términos relacionados del glosario
-
 ## Enlaces
 - Repositorio en GitHub →
+- Repositorio GitHub de ManimGL de 3b1b →
+- Documentación oficial de ManimGL →
+- Documentación de Manim Community →
 - Leer en turco →
 
 ---

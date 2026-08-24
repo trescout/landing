@@ -1,55 +1,70 @@
-# Matematiksel kavramları animasyonla görselleştirin
+# Açıklayıcı Matematik Animasyonlarını Programlayın
 
-Manim, matematiksel kavramları görselleştirmek için kullanılan Python tabanlı bir animasyon motoru. Karmaşık teorileri açıklayıcı videolara dönüştürmek isteyen içerik üreticileri için programatik bir çözüm sunuyor.
+Matematik videoları için kesin ve programatik animasyonlar üretmenize yardımcı olan bir animasyon motorudur. Animasyonları Python ile tanımlayabilir ve örnek sahneler üzerinden başlayabilirsiniz.
 
 - ★ 90.309
-- Python
 - GitHub Trending · 2026-08-12
 
 ## Güncelleme
 - 12 Ağustos 2026: Yıldız 90.306 → 90.309, son sürüm v1.7.2 (13 Aralık 2024).
 
-## Ne kazandırır?
-- Matematiksel teorileri görselleştiren hassas animasyonlar oluşturur
-- Kod yazarak açıklayıcı videolar üretilmesini sağlar
-- Özelleştirilebilir sahne ve görüntü ayarları sunar
+## Bu araç ne yapar?
+
+Bu kayıt, 3b1b deposundaki ManimGL sürümünü kapsar. Matematiksel kavramları açıklayan animasyonları kodla oluşturmak için kullanabilirsiniz. Manim Community Edition, ManimGL’den ayrı bir fork ve projedir; kurulum yönergelerini birbirine karıştırmamalısınız.
+
+## Kimin için?
+
+Matematiksel kavramları animasyonla anlatmak isteyen eğitimciler, öğrenciler ve içerik üreticileri.
+
+## Ne beklememeli?
+
+Sürükle-bırak arayüzüyle çalışan bir animasyon aracı arayanlar veya Manim Community Edition kullanmak isteyenler.
+
+## Öne çıkanlar
+- Açıklayıcı matematik videoları için programatik animasyon üretimi
+- Python 3.10+ ile çalışma
+- OpenGL desteği
+- MIT lisansı
+
+## İlk kullanım akışı
+- Python 3.10 veya daha yeni bir sürümü, FFmpeg’i ve OpenGL gereksinimlerini hazırlayın.
+- LaTeX kullanacaksanız kurun; Linux’ta Pango geliştirme başlıklarını da ekleyin.
+- Terminalde `pip install manimgl` komutunu çalıştırın.
+- Kurulumu denemek için `manimgl example_scenes.py OpeningManimExample` komutunu çalıştırın.
+
+## Güvenli başlangıç
+
+Bu kayıt ManimGL içindir. Paket adı `manimgl`’dir; ayrı bir proje olan Manim Community Edition’ın kurulum yönergelerini kullanmayın.
+
+## İlk görev istemi
+İlk adım için hazır istem
+Bir çemberin kareye dönüştüğü basit bir ManimGL animasyon sahnesi yazmama yardımcı olur musun?
 
 ## Kurulum
 
-**Doğrudan kurulum**
+**ManimGL’yi yükleyin**
 
 ```
 pip install manimgl
 ```
 
-**Geliştirici modu kurulumu**
-
-```
-pip install -e .
-```
-
 ## Çalıştırma
 
-**Örnek sahneyi başlatma**
+**Örnek sahneyi çalıştırın**
 
 ```
 manimgl example_scenes.py OpeningManimExample
 ```
 
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Matematiksel bir kavramı açıklayan, Python diliyle yazılmış hassas bir animasyon hazırlamam gerekiyor. Manim kütüphanesini kullanarak, karmaşık teorileri görselleştiren ve adım adım açıklayan bir sahne kodu oluştur. Kodun, FFmpeg video işleme aracı ve LaTeX dizgi sistemi ile uyumlu çalışmasını sağla.
-
-- **Kimin için:** Matematiksel konuları görselleştirerek açıklayıcı videolar hazırlamak isteyen içerik üreticileri içindir. 
-- **Lisans:** MIT 
+Kaynak: Komutlar 3b1b/manim README’sinden 24 Ağustos 2026’da kontrol edildi; bu kayıt ManimGL içindir.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/3b1b/manim)
+- [3b1b ManimGL GitHub deposu →](https://github.com/3b1b/manim)
+- [ManimGL resmî belgeleri →](https://3b1b.github.io/manim/)
+- [Manim Community belgeleri →](https://docs.manim.community/en/stable/index.html)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/manim/

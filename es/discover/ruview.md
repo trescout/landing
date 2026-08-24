@@ -1,36 +1,61 @@
-# Obtenga inteligencia espacial con señales WiFi
+# Detección inalámbrica con señales WiFi
 
-RuView proporciona inteligencia espacial en tiempo real, seguimiento de signos vitales y detección de presencia sin cámara, utilizando señales WiFi ordinarias. Es un proyecto de código abierto desarrollado con Rust.
+RuView es una plataforma de detección que utiliza Channel State Information (CSI) de WiFi para estudiar cambios en el entorno. Puede funcionar con hardware ESP32 o NIC de investigación, y ofrece datos simulados para evaluarla sin hardware.
 
 - ★ 91.322
-- Rust
-- MIT
-- GitHub Trending · 30 May 2026
+- GitHub Trending · 2026-05-30
 
-## ¿Qué ofrece?
-- Detección de presencia y movimiento sin necesidad de utilizar cámara.
-- Monitorización de signos vitales (respiración y pulso).
-- Inteligencia espacial en tiempo real.
+## ¿Qué hace esta herramienta?
+RuView es una plataforma con licencia MIT para experimentar con detección basada en Channel State Information de WiFi. Puede instalarse con Docker o desde el código fuente y evaluarse con datos simulados sin hardware. Las capacidades dependen del modo de hardware: la detección RSSI-only en un portátil sirve para presencia y movimiento aproximados, mientras que la detección avanzada requiere hardware con CSI completo.
 
-## nota de responsabilidad
+## ¿Para quién es?
+Investigadores y desarrolladores que quieren experimentar con presencia, movimiento o cambios ambientales a partir de señales WiFi.
 
-## ¿Cómo instalar, cómo utilizar?
-**Extraiga la imagen de Docker**
+## Qué no esperar
+Monitorización médica o expectativas de estimación de pose desde un portátil estándar en modo RSSI-only.
+
+## Aspectos destacados
+- Ofrece rutas de detección CSI con hardware ESP32 y NIC de investigación.
+- Se puede evaluar con datos simulados sin hardware.
+- Documenta una comprobación determinista con una señal de referencia mediante `./verify`.
+- Distingue las capacidades del modo RSSI-only de un portátil de las del hardware con CSI completo.
+
+## Primer flujo de uso
+- Prepara el entorno siguiendo la ruta de Docker o de código fuente de las guías oficiales.
+- Si no tienes hardware, empieza por la ruta de evaluación con datos simulados.
+- Ejecuta la comprobación determinista descrita en la guía de compilación mediante `./verify`.
+- Elige la ruta RSSI-only o CSI completo según tu hardware.
+
+## Inicio seguro
+
+## Primer prompt
+¿Cómo puedo evaluar un escenario sencillo de detección de movimiento con datos CSI simulados de WiFi?
+
+## Instalación
+**Descarga la imagen de Docker**
 
 ```
 docker pull ruvnet/wifi-densepose:latest
 ```
 
-**Ejecutar con Docker (simulación, no requiere hardware)**
+**Clona el código fuente**
+
+```
+git clone https://github.com/ruvnet/RuView.git
+```
+
+
+## Ejecución
+**Servidor de demostración sin hardware**
 
 ```
 docker run -p 3000:3000 ruvnet/wifi-densepose:latest
 ```
 
-**Paquete de Python (PyPI)**
+**Comprobación determinista**
 
 ```
-pip install ruview
+./verify
 ```
 
 
@@ -38,6 +63,9 @@ pip install ruview
 
 ## Enlaces
 - Repositorio en GitHub →
+- Repositorio oficial de GitHub de RuView →
+- Guía de usuario de RuView →
+- Guía de compilación de RuView →
 - Leer en turco →
 
 ---
