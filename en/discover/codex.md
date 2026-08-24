@@ -1,45 +1,63 @@
-# Artificial intelligence-supported coding via terminal
+# AI-assisted coding in the terminal
 
-Codex, doğrudan terminalde çalışan hafif bir kodlama ajanıdır.
+Codex CLI is a coding agent that runs in the terminal on your local computer. It can review code, make changes to files, and run commands.
 
 - ★ 115,876
-- Rust
 - GitHub Trending · 2026-08-23
 
-## What you get
-- Offers code suggestions and edits directly on the command line
-- Works integrated with ChatGPT subscription plans
-- Provides easy installation options for different operating systems
+## What does this tool do?
+Codex CLI is a coding agent that runs in the terminal on your local computer. It can review code in a project directory, make changes to files, run commands, and help automate repetitive tasks.
+
+## Who it is for
+Developers who want to work in the terminal, review the codebase, edit files, and automate repetitive development tasks.
+
+## What not to expect
+It may not be suitable for those who do not want to use the terminal.
+
+## Highlights
+- It can review code and make changes to files.
+- It can run commands and automate repetitive tasks.
+- The model, reasoning effort, permissions, and command approvals can be managed by the user.
+- The GitHub repository is licensed under Apache-2.0.
+
+## First-use flow
+- Choose the official installation method suitable for your operating system.
+- Start Codex CLI after installation.
+- Log in with ChatGPT or another available login method.
+- Start from the project directory. Create a Git checkpoint before and after changes.
+
+## Safe start
+
+## First task prompt
+For your first use, you can start with a review request that explains the project's purpose and file structure.
 
 ## Installation
-**Installation for Mac or Linux**
+**macOS or Linux**
 
 ```
 curl -fsSL https://chatgpt.com/codex/install.sh | sh
 ```
 
-**Installation with Homebrew package manager**
+**Windows PowerShell**
 
 ```
-brew install --cask codex
+powershell -ExecutionPolicy ByPass -c "irm https://chatgpt.com/codex/install.ps1 | iex"
 ```
 
 
 ## Running it
-**Starting the tool**
+**Start Codex CLI**
 
 ```
 codex
 ```
 
 
-## If you don't write code
-How can I speed up my software development processes by using this artificial intelligence tool running on the terminal? What commands should I use to get code suggestions and make edits to my existing files after logging in with my ChatGPT account?
-
 ## Related dictionary terms
 
 ## Links
 - GitHub repository →
+- Official Codex CLI documentation →
 - Read in Turkish →
 
 ---

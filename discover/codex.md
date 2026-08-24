@@ -1,56 +1,74 @@
-# Terminal üzerinden yapay zekâ destekli kodlama
+# Terminalde yapay zekâ destekli kodlama
 
-Codex, doğrudan terminalde çalışan hafif bir kodlama ajanıdır.
+Codex CLI, yerel bilgisayarınızda terminalde çalışan bir kodlama ajanıdır. Kodları inceleyebilir, dosyalarda değişiklik yapabilir ve komut çalıştırabilir.
 
 - ★ 115.876
-- Rust
 - GitHub Trending · 2026-08-23
 
-## Güncelleme
-- 24 Ağustos 2026: Yıldız 113.813 → 115.876, son sürüm rust-v0.149.1 (24 Ağustos 2026).
-- 23 Ağustos 2026: Yıldız 113.793 → 113.813, son sürüm rust-v0.149.0 (20 Ağustos 2026).
+## Bu araç ne yapar?
 
-## Ne kazandırır?
-- Komut satırında doğrudan kod önerileri ve düzenlemeleri sunar
-- ChatGPT abonelik planları ile entegre çalışır
-- Farklı işletim sistemleri için kolay kurulum seçenekleri sağlar
+Codex CLI, yerel bilgisayarınızda terminalde çalışan bir kodlama ajanıdır. Bir proje dizinindeki kodu inceleyebilir, dosyalarda değişiklik yapabilir, komut çalıştırabilir ve tekrarlanan işleri otomatikleştirmeye yardımcı olabilir.
+
+## Kimin için?
+
+Terminalde çalışan, kod tabanını incelemek, dosyaları düzenlemek ve tekrarlanan geliştirme işlerini otomatikleştirmek isteyen geliştiriciler.
+
+## Ne beklememeli?
+
+Terminal kullanmak istemeyenler için uygun olmayabilir.
+
+## Öne çıkanlar
+- Kodları inceleyebilir ve dosyalarda değişiklik yapabilir.
+- Komut çalıştırabilir ve tekrarlanan işleri otomatikleştirebilir.
+- Model, reasoning effort, izinler ve komut onayları kullanıcı tarafından yönetilebilir.
+- GitHub deposu Apache-2.0 lisanslıdır.
+
+## İlk kullanım akışı
+- İşletim sisteminize uygun resmî kurulum yöntemini seçin.
+- Kurulumdan sonra Codex CLI’ı terminalden başlatın.
+- ChatGPT ile veya mevcut başka bir oturum açma yöntemiyle giriş yapın.
+- Proje dizininden başlayın. Değişikliklerden önce ve sonra Git checkpoint oluşturun.
+
+## Güvenli başlangıç
+
+Değişikliklerden önce ve sonra Git checkpoint oluşturmanız önerilir. İzinleri /permissions ile, mevcut durumu /status ile inceleyebilirsiniz.
+
+## İlk görev istemi
+İlk adım için hazır istem
+İlk kullanımda, projenin amacını ve dosya yapısını açıklayan bir inceleme talebiyle başlayabilirsiniz.
 
 ## Kurulum
 
-**Mac veya Linux için kurulum**
+**macOS veya Linux**
 
 ```
 curl -fsSL https://chatgpt.com/codex/install.sh | sh
 ```
 
-**Homebrew paket yöneticisi ile kurulum**
+**Windows PowerShell**
 
 ```
-brew install --cask codex
+powershell -ExecutionPolicy ByPass -c "irm https://chatgpt.com/codex/install.ps1 | iex"
 ```
 
 ## Çalıştırma
 
-**Aracı başlatma**
+**Codex CLI başlatma**
 
 ```
 codex
 ```
 
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Terminal üzerinde çalışan bu yapay zekâ aracını kullanarak yazılım geliştirme süreçlerimi nasıl hızlandırabilirim? ChatGPT hesabımla giriş yaptıktan sonra kod önerileri almak ve mevcut dosyalarım üzerinde düzenlemeler yapmak için hangi komutları kullanmalıyım?
+Kaynak: OpenAI’nin Codex CLI belgeleri ve openai/codex README’si, 24 Ağustos 2026’da kontrol edildi.
 
-- **Kimin için:** Kod yazma süreçlerini terminal üzerinden yönetmek isteyen yazılım geliştiriciler için uygundur. 
-- **Lisans:** Apache-2.0 
+## İlgili sözlük terimleri
+CLI
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/openai/codex)
+- [Codex CLI resmî belgeleri →](https://learn.chatgpt.com/docs/codex/cli)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-23 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Terminal Rust Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/codex/

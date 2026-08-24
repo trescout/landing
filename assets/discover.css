@@ -78,6 +78,26 @@
 }
 .disc-prompts-note { font-size: 14px; color: var(--ink-muted); opacity: .85; margin-top: 6px; }
 
+/* exemplar editoryal katmanı · kısa cevap + uygunluk + ilk kullanım */
+.disc-editorial { scroll-margin-top: 88px; }
+.disc-editorial p { max-width: 66ch; }
+.disc-not-for .disc-sec,
+.disc-safety .disc-note { border-left-color: rgba(244, 211, 94, .72); }
+.disc-steps {
+  list-style: none; padding: 0; margin: 0; counter-reset: disc-step;
+  display: grid; gap: 12px;
+}
+.disc-steps li {
+  counter-increment: disc-step; position: relative; padding: 15px 16px 15px 54px;
+  font-size: 16px; line-height: 1.55; color: var(--ink-muted);
+  background: var(--bg-elevated); border: 1px solid rgba(95, 168, 211, .15); border-radius: 12px;
+}
+.disc-steps li::before {
+  content: counter(disc-step, decimal-leading-zero); position: absolute; left: 16px; top: 14px;
+  color: var(--accent); font-size: 12px; font-weight: 800; letter-spacing: .04em;
+}
+.disc-first-prompt .disc-ai { margin-top: 0; }
+
 /* dürüstlük notu */
 .disc-note {
   margin-top: 20px; padding: 16px 18px; font-size: 14.5px; line-height: 1.6;
@@ -300,6 +320,9 @@
 
 @media (max-width: 560px) {
   .disc { padding: 30px 18px 44px; }
+  .disc-steps li { padding-left: 48px; font-size: 15.5px; }
+  .disc-steps li::before { left: 14px; }
+
   .disc-lead { font-size: 17px; }
   .disc-wins li { font-size: 16px; }
   .disc-fact { flex-direction: column; gap: 4px; }

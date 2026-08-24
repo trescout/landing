@@ -48,6 +48,7 @@ def page_md(t, canon):
     # liste + paragraf (linkleri koru)
     s = re.sub(r'<li>(.*?)</li>', lambda x: f'- {linktxt(x.group(1))}\n', s, flags=re.S)
     s = re.sub(r'<p[^>]*>(.*?)</p>', lambda x: f'\n{linktxt(x.group(1))}\n', s, flags=re.S)
+    s = re.sub(r'<div class="disc-note">(.*?)</div>', lambda x: f'\n{linktxt(x.group(1))}\n', s, flags=re.S)
     # kalan tüm etiketleri temizle
     s = H.unescape(re.sub(r'<[^>]+>', ' ', s))
     s = re.sub(r'[ \t]+', ' ', s)

@@ -167,12 +167,14 @@ def sayi_en(s):
 BASLIK_MAP = D["bolumler"]
 
 
-def cmd_bloklari(sec_html):
+def cmd_bloklari(sec_html, localized=None):
     """disc-cmd blokları · başlık çevrilir, KOD olduğu gibi kalır."""
     out = ""
+    command_labels = (localized or {}).get("commands") or {}
     for m in re.finditer(r'<div class="disc-cmd">.*?<span>(.*?)</span>.*?<pre><code>(.*?)</code></pre>\s*</div>',
                          sec_html, re.S):
-        baslik = tr2en(metin(m.group(1)))
+        original = metin(m.group(1))
+        baslik = command_labels.get(original) or tr2en(original)
         kod = m.group(2)  # zaten kaçışlı · dokunma
         out += ('<div class="disc-cmd"><div class="disc-cmd-head"><span>' + esc(baslik) + '</span>'
                 f'<button type="button" class="disc-copy" aria-label="{D["kopyala_komut"]}">{D["kopyala"]}</button></div>'
@@ -180,8 +182,17 @@ def cmd_bloklari(sec_html):
     return out
 
 
-def bolumler(t):
-    """Türkçe sayfadaki disc-sec bölümlerini İngilizceye çevirerek yeniden kur."""
+def bolumler(t, localized=None):
+    """Türkçe sayfadaki disc-sec bölümlerini hedef dile çevirerek yeniden kur."""
+    localized = localized or {}
+    labels = localized.get("labels") or {}
+    field_map = {
+        "Bu araç ne yapar?": "overview", "Kimin için?": "best_for", "Ne beklememeli?": "not_for",
+        "Öne çıkanlar": "wins", "İlk kullanım akışı": "first_run_steps",
+        "Güvenli başlangıç": "safety_note", "İlk görev istemi": "first_prompt",
+    }
+    def value(key, fallback=""):
+        return localized.get(key) or fallback
     out = ""
     # Desen "disc-sec" ile BAŞLAYAN sınıfı kabul eder · tam eşleşme aranırken
     # `class="disc-sec disc-how"` taşıyan 46 Türkçe bölüm ("Nasıl kurulur, nasıl
@@ -201,30 +212,36 @@ def bolumler(t):
             # (tablodan, doğru etiket ve sayı biçimi) ile "Update" (buradan,
             # makine çevirisi) yan yana duruyordu · beş dilde 1850 sayfa.
             continue
-        yeni_h2 = BASLIK_MAP.get(h2) or tr2en(h2)
+        key = field_map.get(h2)
+        yeni_h2 = labels.get(key) or BASLIK_MAP.get(h2) or tr2en(h2)
         # Madde listeleri · SINIF ADINA BAKMADAN. Eskiden yalnız "disc-wins"
         # tanınıyordu; aynı yapıdaki "disc-prompts" ve "disc-list" bölümleri
         # else dalına düşüp <p> aranıyordu, bulunamayınca SESSİZCE atılıyordu
         # (2026-08-15). Yeni bir liste sınıfı gelirse burası kendiliğinden alır.
-        liste = re.search(r'<ul class="(disc-[a-z-]+)">(.*?)</ul>', govde, re.S)
+        liste = re.search(r'<(ul|ol) class="(disc-[a-z-]+)">(.*?)</\1>', govde, re.S)
         if liste and 'class="disc-cmd"' not in govde and 'class="disc-related"' not in govde:
-            maddeler = "".join(f"<li>{esc(tr2en(metin(x)))}</li>"
-                               for x in re.findall(r"<li>(.*?)</li>", liste.group(2), re.S))
+            override = value(key)
+            if isinstance(override, list):
+                maddeler = "".join(f"<li>{esc(str(x))}</li>" for x in override)
+            else:
+                maddeler = "".join(f"<li>{esc(tr2en(metin(x)))}</li>"
+                                   for x in re.findall(r"<li>(.*?)</li>", liste.group(3), re.S))
             out += (f'<section class="disc-sec"><h2>{esc(yeni_h2)}</h2>'
-                    f'<ul class="{liste.group(1)}">{maddeler}</ul></section>\n      ')
+                    f'<{liste.group(1)} class="{liste.group(2)}">{maddeler}</{liste.group(1)}></section>\n      ')
         elif 'class="disc-cmd"' in govde or 'class="disc-ai"' in govde:
             # Bir bölüm İKİSİNİ BİRDEN taşıyabiliyor (disc-how böyle: önce ajan
             # istemi, sonra komutlar). Eskiden elif zinciriydi · ikisi bir arada
             # olduğunda komut blokları düşüyordu.
             ic = ""
             if 'class="disc-ai"' in govde:
-                istem = tr2en(metin(blok(r'<p class="disc-ai-text">(.*?)</p>', govde)))
+                istem = value("first_prompt") or tr2en(metin(blok(r'<p class="disc-ai-text">(.*?)</p>', govde)))
+                ajan_label = labels.get("prompt_label") or D["ajan_istem"]
                 ic += ('<div class="disc-ai"><div class="disc-ai-head">'
-                       f'<span>{D["ajan_istem"]}</span>'
+                       f'<span>{esc(ajan_label)}</span>'
                        f'<button type="button" class="disc-copy" aria-label="{D["kopyala_istem"]}">{D["kopyala"]}</button></div>'
                        '<p class="disc-ai-text">' + esc(istem) + '</p></div>')
             if 'class="disc-cmd"' in govde:
-                ic += cmd_bloklari(govde)
+                ic += cmd_bloklari(govde, localized)
             out += f'<section class="disc-sec"><h2>{esc(yeni_h2)}</h2>{ic}</section>\n      '
         elif 'class="disc-related"' in govde:
             cips = "".join(f'<a href="{D["onek"]}/dictionary/{s}/">{esc(metin(a))}</a>'
@@ -239,7 +256,7 @@ def bolumler(t):
             # "gizlilik ve rıza sizin sorumluluğunuzda" uyarısı da bunlardan
             # biri (2026-08-15).
             ic = blok(r'(<div class="disc-note">.*?</div>)', govde)
-            duz = tr2en(metin(ic))
+            duz = (value("safety_note") or tr2en(metin(ic))) if h2 == "Güvenli başlangıç" else tr2en(metin(ic))
             # <strong> vurgusu kaynakta varsa koru · yoksa düz metin
             out += (f'<section class="disc-sec"><h2>{esc(yeni_h2)}</h2>'
                     f'<div class="disc-note">{esc(duz)}</div></section>\n      ')
@@ -248,7 +265,8 @@ def bolumler(t):
             link = blok(r'(<ul class="disc-links">.*?</ul>)', govde)
             link = link.replace("Resmî kaynak →", D["resmi_kaynak"])
             if p:
-                out += f'<section class="disc-sec"><h2>{esc(yeni_h2)}</h2><p>{esc(tr2en(p))}</p>{link}</section>\n      '
+                translated = value(key) or tr2en(p)
+                out += f'<section class="disc-sec"><h2>{esc(yeni_h2)}</h2><p>{esc(translated)}</p>{link}</section>\n      '
     return out
 
 
@@ -386,14 +404,17 @@ def build(slug, cat, chrome):
     if not os.path.exists(tp):
         return None
     t = open(tp, encoding="utf-8").read()
-    toplu_isit(sayfa_metinleri(t))   # sayfanın çevirilerini tek istekte ısıt
     c = cat.get(slug, {})
+    localized = c.get("localized", {}).get(LANG) or {}
+    if not localized:
+        toplu_isit(sayfa_metinleri(t))   # sayfanın çevirilerini tek istekte ısıt
     # Başlık katalogdan · sayfa <title>'ı eski üretimlerde kalıp dışı olabiliyor
     # (bir sayfada başlık yerine editöryel cümle vardı, İngilizce eyebrow'a Türkçe düşüyordu).
     title = c.get("title") or metin(blok(r"<title>(.*?)</title>", t)).split(" · ")[0]
-    headline = tr2en(metin(blok(r'<h1 class="disc-title">(.*?)</h1>', t)))
-    lead = tr2en(metin(blok(r'<p class="disc-lead">(.*?)</p>', t)))
+    headline = localized.get("headline") or tr2en(metin(blok(r'<h1 class="disc-title">(.*?)</h1>', t)))
+    lead = localized.get("lead") or tr2en(metin(blok(r'<p class="disc-lead">(.*?)</p>', t)))
     url = blok(r'<ul class="disc-links"><li><a href="([^"]+)"', t)
+    sources = [source for source in (c.get("sources") or []) if isinstance(source, dict) and source.get("url")]
     date = c.get("date", "")
     mom = metin(blok(r'<span class="disc-momentum">(.*?)</span>', t))
     mom_en = sayi_en(mom).replace("bugün", D["bugun"])
@@ -476,10 +497,10 @@ def build(slug, cat, chrome):
              + (f'<span class="disc-momentum">{esc(mom_en)}</span>' if mom_en else "") + '</div>\n'
              f'<h1 class="disc-title">{esc(headline)}</h1>\n<p class="disc-lead">{esc(lead)}</p>\n'
              f'<ul class="disc-meta">{metas}</ul>\n      '
-             + not_html + guncelleme_en(c.get("guncellemeler")) + shot + bolumler(t) + olgular(t) + lisans_notu(t) +
-             f'<section class="disc-sec"><h2>{D["baglantilar"]}</h2><ul class="disc-links">'
+             + not_html + guncelleme_en(c.get("guncellemeler")) + shot + bolumler(t, localized) + olgular(t) + lisans_notu(t)              + f'<section class="disc-sec"><h2>{D["baglantilar"]}</h2><ul class="disc-links">'
              f'<li><a href="{esc(url)}" target="_blank" rel="noopener">{D["depo"]}</a></li>'
-             f'<li><a href="{canon_tr}">{D["turkce_oku"]}</a></li></ul></section>\n'
+             + ''.join(f'<li><a href="{esc(source["url"])}" target="_blank" rel="noopener">{esc(source.get("label_" + LANG) or source.get("label") or D["resmi_kaynak"])} →</a></li>' for source in sources)
+             + f'<li><a href="{canon_tr}">{D["turkce_oku"]}</a></li></ul></section>\n'
              # Sorumluluk notunun yanına ÇEVİRİ notu · keşif sayfalarında hiç
              # yoktu (2026-08-21 denetimi). Okur "TreScout bu aracı geliştirmedi"
              # uyarısını görüyordu ama metnin makineden geçtiğini görmüyordu.
