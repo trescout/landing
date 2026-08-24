@@ -1,0 +1,382 @@
+{
+  "date": "2026-08-24",
+  "capturedAt": "2026-08-24T04:45:41.905Z",
+  "editorial": "Heute stehen im Entwickler-Ökosystem die lokale Kontrolle großer Sprachmodelle (large language models) und spezialisierte Werkzeuge zur Erstellung von Suchindizes im Vordergrund. Die Diskussionen auf Hacker News spiegeln deutlich das Bestreben der Nutzer wider, die Kontrolle über ihre eigenen Daten zurückzugewinnen, sowie die zunehmende kritische Haltung gegenüber KI-Infrastrukturen.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "openai/codex",
+          "url": "https://github.com/openai/codex",
+          "summary": "Codex, in Rust entwickelt, ist ein leichter Code-Agent, der im Terminal läuft. Er bietet direkte Codeerzeugung und -bearbeitung über die Kommandozeile, um Entwicklungsabläufe zu beschleunigen.",
+          "meta": "Rust · ★ 115.863 · +2.715 heute"
+        },
+        {
+          "title": "freestylefly/awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "summary": "GPT-Image2 ist eine Prompt-as-Code-Bibliothek zur Beschreibung von Bildgenerationsabläufen als Code. Mit über 470 rückentwickelten Beispielen und mehr als 20 industriellen Vorlagen erleichtert sie konsistente Ergebnisse aus KI-Modellen.",
+          "meta": "JavaScript · ★ 13.526 · +401 heute"
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Skills, geteilt von Matt Pocock, fasst benutzerdefinierte Fähigkeits-Pakete (skills) zusammen, die Entwickler für KI-Agenten verwenden. Die Sammlung bietet fertige Skripte als Ressource für Ingenieure, die kodbasierte Automatisierung beschleunigen wollen.",
+          "meta": "Shell · ★ 234.157 · +2.447 heute"
+        },
+        {
+          "title": "basecamp/omarchy",
+          "url": "https://github.com/basecamp/omarchy",
+          "summary": "Omarchy von Basecamp ist ein optisch modernes und benutzerfreundliches Konfigurationstool für Linux. Es zielt darauf ab, Systemeinstellungen über die Kommandozeile zu standardisieren und anzupassen.",
+          "meta": "Shell · ★ 29.300 · +750 heute"
+        },
+        {
+          "title": "AprilNEA/OpenLogi",
+          "url": "https://github.com/AprilNEA/OpenLogi",
+          "summary": "OpenLogi ist eine lokal-orientierte (local-first) Alternative zur Verwaltung von Logitech-Peripheriegeräten. Das in Rust geschriebene Tool erlaubt das Konfigurieren von Tastenbelegungen, DPI-Einstellungen und SmartShift-Funktionen ohne Benutzerkonto oder Datenaustausch.",
+          "meta": "Rust · ★ 15.118 · +1.009 heute"
+        },
+        {
+          "title": "block/buzz",
+          "url": "https://github.com/block/buzz",
+          "summary": "Buzz, von Block in Rust entwickelt, ist eine Kommunikationsplattform für einen kovan zihni (hive mind). Sie zielt darauf ab, nebenläufige Datenströme und kollektive Entscheidungsprozesse in verteilten Systemen zu optimieren.",
+          "meta": "Rust · ★ 30.198 · +410 heute"
+        },
+        {
+          "title": "apache/maka",
+          "url": "https://github.com/apache/maka",
+          "summary": "Apache Maka bietet eine lokal-priorisierte (local-first) Arbeitsumgebung für KI-Agenten. Nachrichten, Tool-Aufrufe und Erlaubnisentscheidungen werden in einem nur-appendierbaren (append-only) Log gespeichert, um Nachvollziehbarkeit sicherzustellen.",
+          "meta": "TypeScript · ★ 2.424 · +51 heute"
+        },
+        {
+          "title": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "summary": "free-claude-code von Alishahryar1 ist ein Tool, das über Terminal oder IDE kostenlosen Zugriff auf verschiedene KI-Modelle ermöglicht. Es bietet umfangreiche freie Token-Kontingente und unterstützt Sprachsteuerung, um Entwicklungsprozesse zu erleichtern.",
+          "meta": "Python · ★ 48.113 · +1.081 heute"
+        },
+        {
+          "title": "tinyhumansai/openhuman",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "summary": "OpenHuman, in Rust geschrieben, ist ein persönlicher KI-Assistent, der eine lokal-priorisierte (local-first) Gedächtnisstruktur über das Leben eines Nutzers aufbaut. Die Software fungiert als Orchestrator für Agenten-Flotten und als Analyse-Werkzeug für tiefgehende Recherchen.",
+          "meta": "Rust · ★ 36.852 · +39 heute"
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC ist ein Performance-Engineering-System, das Fähigkeiten, Gedächtnis und Sicherheitslayer für KI-Agenten optimiert. Es bietet forschungsorientierte Infrastruktur für KI-Coding-Tools wie Claude Code und Cursor.",
+          "meta": "JavaScript · ★ 242.638 · +427 heute"
+        },
+        {
+          "title": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "summary": "Ruflo, auf TypeScript basierend, ist ein Meta-Framework zur Verwaltung von Mehrspieler-Schwärmen (swarms) autonomer KI-Agenten. Das System ermöglicht dialogbasierte KI-Modelle, die adaptive Speicher- und RAG-Funktionen nutzen, um komplexe Workflows zu koordinieren.",
+          "meta": "TypeScript · ★ 69.131 · +131 heute"
+        },
+        {
+          "title": "VoltAgent/awesome-agent-skills",
+          "url": "https://github.com/VoltAgent/awesome-agent-skills",
+          "summary": "awesome-agent-skills, kuratiert von VoltAgent, vereint über 1000 Agent-Fähigkeiten (agent skills) aus Entwickler- und Community-Beiträgen. Die Sammlung ist so ausgelegt, dass sie mit Kodierassistenten wie Cursor und KI-unterstützten CLI-Tools (Claude Code, Gemini CLI) kompatibel ist.",
+          "meta": "★ 31.405 · +156 heute"
+        },
+        {
+          "title": "virgiliojr94/book-to-skill",
+          "url": "https://github.com/virgiliojr94/book-to-skill",
+          "summary": "Book-to-skill ist ein Python-Werkzeug, das technische Bücher in lernbare Fähigkeits-Pakete (skills) für den KI-Coding-Assistenten Claude Code umwandelt. Die Software macht Buchinhalte als während der Arbeit abrufbare Referenz verfügbar und integriert so technisches Wissen in Arbeitsabläufe.",
+          "meta": "Python · ★ 24.795 · +417 heute"
+        },
+        {
+          "title": "dani-garcia/vaultwarden",
+          "url": "https://github.com/dani-garcia/vaultwarden",
+          "summary": "Für dieses Element konnte heute keine Zusammenfassung erstellt werden · Details finden Sie im Quellenlink.",
+          "meta": "Rust · ★ 65.983 · +78 heute"
+        },
+        {
+          "title": "anthropics/claude-plugins-community",
+          "url": "https://github.com/anthropics/claude-plugins-community",
+          "summary": "Das Community-Plugin-Verzeichnis für Claude Cowork und Claude Code von Anthropic bietet eine erweiterbare Struktur zur Automatisierung von Entwicklungsprozessen. Anwender können die Fähigkeiten von KI-Coding-Assistenten mittels Python-basierter Plugins anpassen.",
+          "meta": "Python · ★ 1.046 · +225 heute"
+        },
+        {
+          "title": "ripienaar/free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "summary": "Free-for-dev ist eine Liste von Software-, Plattform- und Infrastruktur‑Anbietern (SaaS, PaaS, IaaS), die kostenfreie Stufen für Entwickler und Systemadministratoren anbieten. Das Projekt dient als aktuelles Nachschlagewerk für kostenbewusste Entwicklungs- und Betriebsabläufe.",
+          "meta": "HTML · ★ 134.557 · +615 heute"
+        },
+        {
+          "title": "Comfy-Org/ComfyUI",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "summary": "ComfyUI ist ein modulares grafisches Editierwerkzeug mit node-basierter Oberfläche für Bildgenerationsmodelle. Nutzer können komplexe KI-Workflows mit visuellen Blöcken entwerfen und über eine API verwalten.",
+          "meta": "Python · ★ 129.497 · +201 heute"
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "summary": "Hermes Agent von NousResearch ist ein autonomer KI-Agent, der aus Nutzerinteraktionen lernt und seine Fähigkeiten im Laufe der Zeit verbessert. Das in Python geschriebene Projekt bietet eine kontinuierlich lernende Struktur zur Erstellung personalisierter Workflows.",
+          "meta": "Python · ★ 235.142 · +454 heute"
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+          "url": "https://quantumi.sh/public/labs.html",
+          "summary": "Dienste wie ElevenLabs für Stimmmodellierung und TTS sowie TwelveLabs für Videoanalyse und ähnliche Startups zeigen die Bedeutung von Markenidentität und Namensgebung im KI‑Markt. Die Häufung ähnlicher Namen beeinflusst Wahrnehmung und Bekanntheit von Produkten.",
+          "meta": "438 Punkte · 132 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49400408",
+              "popularity": 438,
+              "engagementCount": 132
+            }
+          ]
+        },
+        {
+          "title": "Hister – A private, full content search index that you control",
+          "url": "https://hister.org/",
+          "summary": "Hister ist eine private Suchmaschine, die vollständige Indizierung Ihrer persönlichen Daten ermöglicht und volle Kontrolle über diese Daten bietet. Das Tool lässt sich auf eigenen Servern hosten und erstellt lokale Suchindizes, ohne Daten auszulagern.",
+          "meta": "423 Punkte · 94 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49351802",
+              "popularity": 423,
+              "engagementCount": 94
+            }
+          ]
+        },
+        {
+          "title": "Why your local LLM feels dumber than it is",
+          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "summary": "Der Hauptgrund für enttäuschende lokale Leistungen großer Sprachmodelle (large language models) ist oft fehlerhaft konfigurierte Prompt-Vorlagen und unzureichendes Kontextmanagement. Nutzer können Leistungsverluste vermeiden, indem sie Modelle mit optimierten Systembefehlen und korrekten Parametereinstellungen betreiben.",
+          "meta": "417 Punkte · 171 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49402232",
+              "popularity": 417,
+              "engagementCount": 171
+            }
+          ]
+        },
+        {
+          "title": "Scrap (2006)",
+          "url": "https://twitter.com/moxie/status/2091218652133732491",
+          "summary": "Scrap von Moxie Marlinspike aus dem Jahr 2006 ist ein Web-Scraping-Tool zum strukturierten Extrahieren von Webdaten. Es gilt als frühes Beispiel automatisierter Datensammelmethoden, die heute weit verbreitet sind.",
+          "meta": "386 Punkte · 212 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49402189",
+              "popularity": 386,
+              "engagementCount": 212
+            }
+          ]
+        },
+        {
+          "title": "typ.ing",
+          "url": "https://typ.ing/",
+          "summary": "typ.ing ist ein minimalistisches Keyboard-Trainingstool, das Schreibgeschwindigkeit und Genauigkeit misst. Die schlichte Oberfläche eliminiert Ablenkungen und ermöglicht ein fokussiertes Tipp-Erlebnis.",
+          "meta": "321 Punkte · 102 Kommentare",
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49346854",
+              "popularity": 321,
+              "engagementCount": 102
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Qwen2.5-27B von Alibaba ist ein multimodales Modell, das sowohl Bild- als auch Texteingaben verarbeiten kann. Mit erweiterten Reasoning-Fähigkeiten liefert es starke Leistungen bei text- und bildbasierten Aufgaben.",
+          "meta": "♥ 12.349 · 2.358.347 Downloads"
+        },
+        {
+          "title": "unsloth/Qwen3.8-27B-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "summary": "Unsloth ist eine Optimierungsbibliothek, die das Training großer Sprachmodelle schneller und speichereffizienter macht. Diese GGUF-Version des Qwen2.5-32B ermöglicht effizientere Inferenz auf lokaler Hardware.",
+          "meta": "♥ 2.747 · 6.674.515 Downloads"
+        },
+        {
+          "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "summary": "Qwen3.8-27B-Uncensored-MLX ist ein multimodales Modell, das Bild- und Texteingaben verarbeitet und Text ausgibt. Für Apple-Geräte optimiert, zielt die unzensierte (uncensored) Version darauf ab, uneingeschränkte Antworten zu liefern.",
+          "meta": "♥ 969 · 47.098 Downloads"
+        },
+        {
+          "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+          "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+          "summary": "Qwen3.8-27B-OBLITERATED ist eine auf Textgenerierung ausgerichtete Qwen-Variante, bei der die Sicherheitsfilter entfernt wurden. Diese Modifikation basiert auf dem Entfernen von Inhaltsfiltern (de-censoring), sodass das Modell ohne Einschränkungen antwortet.",
+          "meta": "♥ 646 · 244.834 Downloads"
+        },
+        {
+          "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+          "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
+          "summary": "Auf Hugging Face geteilt, ist Qwen3.8-27B-Uncensored-FP8 ein multimodales Modell, das Bild- und Textdaten verarbeiten kann. Es fällt durch eine unzensierte Auslegung und die speichersparende FP8-Gleitkommadarstellung auf.",
+          "meta": "♥ 1.052 · 190.062 Downloads"
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs",
+          "url": "https://huggingface.co/papers/2608.21360",
+          "summary": "OmniAssistBench ist ein Evaluationsrahmen, der die Leistung omni-modaler großer Sprachmodelle als Echtzeit‑Videoassistenten misst. Er analysiert dynamische Interaktionen, bei denen Modellantworten die nächsten Schritte des Nutzers beeinflussen, und testet die Fähigkeit, visuelle Daten mit Nutzerzielen zu verknüpfen.",
+          "meta": "14 Likes · 1 Kommentare"
+        },
+        {
+          "title": "AgentMercury: Your Agent Can Synthesize Verifiable Environments for Business Scenarios at scale",
+          "url": "https://huggingface.co/papers/2608.20634",
+          "summary": "AgentMercury ist ein skalierbares Framework, das aus hohen Szenarien ausführbare Umgebungen synthetisiert. Statt Umgebungen manuell zu erstellen, erzeugt es dynamische Simulationen, die auf realistischen Workflows basieren, für das Training von KI-Agenten.",
+          "meta": "3 Likes · 1 Kommentare"
+        },
+        {
+          "title": "Hadith computational science in the age of large language models: a critical narrative review",
+          "url": "https://huggingface.co/papers/2608.20364",
+          "summary": "Hadis-Forschungen durchlaufen eine digitale Transformation durch die Integration großer Sprachmodelle und Retrieval-grounded Systeme. Die Untersuchung bewertet die methodologische Validität, Einschränkungen im akademischen Einsatz und Lücken in der bestehenden Literatur.",
+          "meta": "0 Likes · 1 Kommentare"
+        },
+        {
+          "title": "Towards Faithful Simulation of Human Shopping Behavior",
+          "url": "https://huggingface.co/papers/2608.20707",
+          "summary": "Die Simulation von E‑Commerce‑Nutzerverhalten mit großen Sprach- und vision-language-Modellen stößt auf technische Herausforderungen beim Umgang mit historischen Sitzungsdaten und der effizienten Nutzung des Kontextfensters. Die Arbeit schlägt eine Methode vor, die Nutzerhistorie und wechselnde Präferenzen konsistenter berücksichtigt, um realistischere Einkaufserlebnisse nachzubilden.",
+          "meta": "2 Likes · 1 Kommentare"
+        },
+        {
+          "title": "Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence",
+          "url": "https://huggingface.co/papers/2608.21156",
+          "summary": "Große Sprachmodelle (large language models) entwickeln sich von einzelnen Aufgaben hin zu systemischer Intelligenz und werden so zu autonomen Agenten. Prompt engineering, Kontextmanagement und zyklische Selbstoptimierung sind Methoden, um Arbeitsabläufe dieser Agenten zu standardisieren.",
+          "meta": "5 Likes · 1 Kommentare"
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "And then the men with guns tell you to do it anyway",
+          "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+          "summary": "Versuche von Technologieunternehmen, sich rechtlich gegen staatliche Datenzugriffsanforderungen zu wehren, können gegenüber behördlichen Zwangsbefugnissen wirkungslos bleiben. Das macht den strukturellen Konflikt zwischen dem Datenschutzversprechen der Unternehmen und rechtlichen Compliance‑Pflichten deutlich.",
+          "meta": "84 Punkte · 17 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/u7v2sn/then_men_with_guns_tell_you_do_it_anyway",
+              "popularity": 84,
+              "engagementCount": 17
+            }
+          ]
+        },
+        {
+          "title": "Amazon kept shutting down my tablet, so I spent $266 on four AI models to own it",
+          "url": "https://ericpardee.github.io/fire-hd-ownership/",
+          "summary": "Ein Nutzer nutzte vier verschiedene KI-Modelle (LLM), um Amazons Beschränkungen zu umgehen und sein Tablet freizuschalten. Der Vorgang zeigt, wie KI zum Lösen technischer Probleme eingesetzt werden kann, um Kontrolle über Hardware zurückzugewinnen.",
+          "meta": "40 Punkte · 12 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/fadbev/amazon_kept_shutting_down_my_tablet_so_i",
+              "popularity": 40,
+              "engagementCount": 12
+            }
+          ]
+        },
+        {
+          "title": "An Introduction to Canvas in GNU Emacs",
+          "url": "https://monadicsheep.org/blog/an-introduction-to-canvas-in-emacs.html",
+          "summary": "Die Canvas-Oberfläche im GNU Emacs Texteditor ermöglicht grafische Zeichnungen innerhalb des Editors und schafft so die Möglichkeit, visuelle Inhalte in textbasierten Umgebungen zu erstellen. Diese Funktion erlaubt Entwicklern, einfache Grafiken ohne externe Tools direkt beim Codieren oder Dokumentieren zu entwerfen.",
+          "meta": "57 Punkte · 10 Kommentare",
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/9xglf3/introduction_canvas_gnu_emacs",
+              "popularity": 57,
+              "engagementCount": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Prompt as Code",
+      "explanation": "Methode, bei der KI-Anweisungen wie Softwarecode versioniert, getestet und verwaltet werden."
+    },
+    {
+      "term": "prompt engineering",
+      "explanation": "Die Kunst, Eingaben so zu formulieren, dass die KI die genauesten und qualitativ hochwertigsten Antworten liefert."
+    },
+    {
+      "term": "skills",
+      "explanation": "Spezielle Fähigkeiten oder Werkzeuge, die KI‑Modelle benötigen, um bestimmte Aufgaben auszuführen."
+    },
+    {
+      "term": "local-first",
+      "explanation": "Ein Softwareansatz, bei dem Daten zuerst auf dem Gerät des Nutzers gespeichert und verarbeitet werden, ohne auf das Internet angewiesen zu sein."
+    },
+    {
+      "term": "DPI",
+      "explanation": "Maß für die Punktdichte, die bestimmt, wie scharf und detailreich eine Darstellung auf Bildschirm oder Drucker ist."
+    },
+    {
+      "term": "hive mind",
+      "explanation": "Viele miteinander verbundene KI‑Einheiten, die zusammen wie eine einzige Intelligenz agieren und gemeinschaftliche Entscheidungen treffen."
+    },
+    {
+      "term": "append-only",
+      "explanation": "Ein Aufzeichnungssystem, bei dem vorhandene Daten nicht verändert oder gelöscht werden können und nur neue Einträge angehängt werden."
+    },
+    {
+      "term": "IDE",
+      "explanation": "Eine integrierte Entwicklungsumgebung, die Entwicklerwerkzeuge wie Editor, Debugger und Build‑Tools an einem Ort zusammenführt."
+    },
+    {
+      "term": "token",
+      "explanation": "Die kleinste Einheit, die KI bei der Verarbeitung von Text verwendet und die einem Wort oder einer Silbe entsprechen kann."
+    },
+    {
+      "term": "AI coding agents",
+      "explanation": "Autonome Assistenten, die eigenständig Code schreiben, Fehler beheben und Softwareprojekte verwalten können."
+    },
+    {
+      "term": "swarms",
+      "explanation": "Viele kleine, koordinierte KI‑Einheiten, die zusammenarbeiten, um komplexe Probleme zu lösen."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Eine Methode, bei der die KI zusätzliche Informationen aus externen, aktuellen oder proprietären Dokumenten holt, um genauere Antworten zu liefern."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Fähigkeiten von Agenten, die es ihnen erlauben, mit der Außenwelt zu interagieren, etwa im Internet zu suchen oder Dateien zu verwalten."
+    },
+    {
+      "term": "SaaS",
+      "explanation": "Ein Service-Modell, bei dem Software nicht lokal installiert, sondern über das Internet per Abonnement genutzt wird."
+    },
+    {
+      "term": "PaaS",
+      "explanation": "Ein Modell, das Entwicklern Infrastruktur und Werkzeuge online zur Verfügung stellt, damit sie Anwendungen entwickeln können."
+    },
+    {
+      "term": "IaaS",
+      "explanation": "Die Bereitstellung grundlegender Hardware-Ressourcen wie Server, Speicher und Netzwerk über das Internet zur Miete."
+    }
+  ]
+}
