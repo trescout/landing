@@ -7,6 +7,7 @@ subscription endpoint without invoking any network endpoint.
 """
 from __future__ import annotations
 
+import html
 import json
 import re
 from pathlib import Path
@@ -23,6 +24,12 @@ def fail(errors: list[str], message: str) -> None:
 def first(pattern: str, text: str) -> str | None:
     match = re.search(pattern, text, re.IGNORECASE | re.DOTALL)
     return match.group(1).strip() if match else None
+
+
+def visible_text(value: str | None) -> str:
+    if not value:
+        return ""
+    return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", value))).strip()
 
 
 def route_for(path: Path) -> str:
@@ -72,6 +79,39 @@ def main() -> int:
         if not re.search(r"<h1\b", text, re.IGNORECASE):
             fail(errors, f"{rel}: h1 missing")
 
+        # Social metadata is also a machine-readable preview contract. Keep
+        # it present on every indexable HTML page so localized/index routes do
+        # not silently lose their share preview during generation.
+        for marker in (
+            'property="og:image"',
+            'name="twitter:card"',
+            'name="twitter:title"',
+            'name="twitter:description"',
+            'name="twitter:image"',
+        ):
+            if marker not in text:
+                fail(errors, f"{rel}: social metadata {marker} missing")
+
+        # Discovery detail pages expose an Article entity. Its fields must
+        # describe the visible page, not only the underlying repository record.
+        if "/discover/" in route and not route.endswith("/discover/"):
+            articles = [item for item in scripts_jsonld(text) if item.get("@type") == "Article"]
+            if not articles:
+                fail(errors, f"{rel}: discovery Article JSON-LD missing")
+            else:
+                article = articles[0]
+                visible_headline = visible_text(first(r'<h1 class="disc-title">(.*?)</h1>', text))
+                visible_lead = visible_text(first(r'<p class="disc-lead">(.*?)</p>', text))
+                if article.get("headline") != visible_headline:
+                    fail(errors, f"{rel}: Article headline does not match visible H1")
+                if article.get("description") != visible_lead:
+                    fail(errors, f"{rel}: Article description does not match visible lead")
+                article_lang = str(article.get("inLanguage", ""))
+                if article_lang.split("-")[0].lower() != (lang or "").split("-")[0].lower():
+                    fail(errors, f"{rel}: Article inLanguage is {article_lang!r}, expected {lang!r}")
+                if article.get("url") != canonical:
+                    fail(errors, f"{rel}: Article url does not match canonical")
+
         if "/reports/" in route and re.search(r"/reports/(?:fresh/)?\d{4}-\d{2}-\d{2}/$", route):
             if description:
                 report_descriptions.append((rel, description))
@@ -108,6 +148,11 @@ def main() -> int:
     home = (ROOT / "index.html").read_text(encoding="utf-8")
     if "HuggingFace ve daha fazlası yakında" in home:
         fail(errors, "index.html: stale 'HuggingFace yakında' claim remains")
+
+    robots = (ROOT / "robots.txt").read_text(encoding="utf-8")
+    for agent in ("OAI-SearchBot", "Claude-SearchBot", "Claude-User", "PerplexityBot"):
+        if not re.search(rf"^User-agent:\s*{re.escape(agent)}\s*$", robots, re.MULTILINE):
+            fail(errors, f"robots.txt: official AI search agent {agent} missing")
 
     catalog = json.loads((ROOT / "assets/discover/catalog.json").read_text(encoding="utf-8"))
     dictionary = json.loads((ROOT / "assets/dictionary/dictionary.json").read_text(encoding="utf-8"))

@@ -288,7 +288,7 @@ def build(term, chrome):
     canon_tr = f"{BASE}/dictionary/{slug}/"
     ld = json.dumps({
         "@context": "https://schema.org", "@type": "DefinedTerm", "name": baslik,
-        "description": lead, "inLanguage": LANG, "url": canon_en,
+        "description": lead, "inLanguage": D["html_lang"], "url": canon_en,
         "inDefinedTermSet": {"@type": "DefinedTermSet", "name": "TreScout Tech Dictionary",
                              "url": f"{BASE}{D['onek']}/dictionary/"},
     }, ensure_ascii=False, indent=2)
@@ -300,7 +300,7 @@ def build(term, chrome):
             '<link rel="icon" type="image/svg+xml" href="/favicon.svg">\n'
             f'<link rel="canonical" href="{canon_en}">\n'
             f'<link rel="alternate" hreflang="tr" href="{canon_tr}">\n'
-            f'<link rel="alternate" hreflang="{LANG}" href="{canon_en}">\n'
+            f'<link rel="alternate" hreflang="{D.get("hreflang", LANG)}" href="{canon_en}">\n'
             f'<link rel="alternate" hreflang="x-default" href="{canon_en}">\n'
             f'<link rel="alternate" type="text/markdown" href="{D["onek"]}/dictionary/{slug}.md">\n'
             f'<meta property="og:title" content="{D["nedir"].format(terim=esc(baslik))}">\n'
@@ -308,7 +308,13 @@ def build(term, chrome):
             f'<meta property="og:url" content="{canon_en}">\n<meta property="og:type" content="article">\n'
             f'<meta property="og:locale" content="{D["og_locale"]}">\n'
             f'<meta property="og:image" content="{BASE}/og-image.png">\n'
+            '<meta property="og:image:width" content="1200">\n<meta property="og:image:height" content="630">\n'
+            f'<meta property="og:image:alt" content="{esc(D["nedir"].format(terim=baslik))}">\n'
             '<meta name="twitter:card" content="summary_large_image">\n'
+            '<meta name="twitter:site" content="@GetTreScout">\n'
+            f'<meta name="twitter:title" content="{esc(D["nedir"].format(terim=baslik))}">\n'
+            f'<meta name="twitter:description" content="{esc(lead[:155])}">\n'
+            f'<meta name="twitter:image" content="{BASE}/og-image.png">\n'
             f'<script type="application/ld+json">\n{ld}\n</script>\n'
             '<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>\n'
             '<link rel="stylesheet" href="/assets/site.css">\n'

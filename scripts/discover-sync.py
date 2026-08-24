@@ -347,8 +347,8 @@ def build_page(e, rich=None):
     eyebrow_repo=f" · {esc(title)}" if headline.strip().lower()!=title.strip().lower() else ""
     lang=e["lang"];stars=e["stars"];momentum=e["momentum"];date=e["date"]
     canon=f"https://trescout.com/discover/{slug}/";ogimg=f"https://trescout.com/assets/discover/og/{slug}.webp"
-    ld=json.dumps({"@context":"https://schema.org","@type":"Article","headline":title,"inLanguage":"tr",
-        "description":tagline,"author":{"@type":"Organization","name":"TreScout","url":"https://trescout.com"},
+    ld=json.dumps({"@context":"https://schema.org","@type":"Article","headline":headline,"inLanguage":"tr",
+        "description":summary,"author":{"@type":"Organization","name":"TreScout","url":"https://trescout.com"},
         "publisher":{"@type":"Organization","name":"TreScout"},"image":ogimg,"url":canon,
         "about":{"@type":"SoftwareSourceCode","name":title,"codeRepository":url,**({"programmingLanguage":lang} if lang else {})}},ensure_ascii=False,indent=2)
     metas="".join(f"<li>{esc(x)}</li>" for x in ([f"★ {stars:,}".replace(',','.')] if stars else [])+([lang] if lang else [])+[f"GitHub Trending · {date}"] if x)
@@ -373,7 +373,8 @@ def build_page(e, rich=None):
       f'<link rel="alternate" type="text/markdown" href="/discover/{slug}.md">\n<link rel="canonical" href="{canon}">\n<meta property="og:title" content="{esc(title)}">\n<meta property="og:description" content="{esc(tagline)}">\n'
       f'<meta property="og:url" content="{canon}">\n<meta property="og:type" content="article">\n<meta property="og:locale" content="tr_TR">\n'
       f'<meta property="og:image" content="{ogimg}">\n<meta property="og:image:width" content="1200">\n<meta property="og:image:height" content="630">\n'
-      f'<meta name="twitter:card" content="summary_large_image">\n<meta name="twitter:site" content="@GetTreScout">\n<meta name="twitter:title" content="{esc(title)}">\n<meta name="twitter:image" content="{ogimg}">\n'
+      f'<meta property="og:image:alt" content="{esc(title)}">\n'
+      f'<meta name="twitter:card" content="summary_large_image">\n<meta name="twitter:site" content="@GetTreScout">\n<meta name="twitter:title" content="{esc(title)}">\n<meta name="twitter:description" content="{esc(tagline)}">\n<meta name="twitter:image" content="{ogimg}">\n'
       f'<script type="application/ld+json">\n{ld}\n</script>\n'+PRE+
       '<link rel="stylesheet" href="/assets/site.css">\n<link rel="stylesheet" href="/assets/discover.css">\n</head>\n')
     body=('<body>\n<a class="skip-link" href="#main">Ana içeriğe atla</a>\n'+NAV+'\n<main id="main">\n<article class="disc">\n'

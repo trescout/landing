@@ -172,6 +172,9 @@ function buildVariant(V) {
     const pdfPath = path.join(ROOT, 'reports', V.ciktiPdf(dateStr));
     const pdfVar = fs.existsSync(pdfPath);
     const pdfUrl = pdfVar ? `/reports/${V.ciktiPdf(dateStr)}` : `/reports/${V.trPdf(dateStr)}`;
+    // Report cards are currently rendered from the Turkish source report. Keep
+    // the image URL stable for localized pages until localized report cards exist.
+    const ogImage = `https://trescout.com${V.trUrlBase}/${dateStr}/og.png`;
 
     const chips = snapshotChips(ham, V.kind, D.rapor_cipler, esc);
 
@@ -208,6 +211,15 @@ function buildVariant(V) {
 <meta property="og:url" content="https://trescout.com${V.urlBase}/${dateStr}/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="${D.og_locale}">
+<meta property="og:image" content="${ogImage}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="${esc(D.rapor_sayfa_baslik.replace('{tarih}', tarih))}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@GetTreScout">
+<meta name="twitter:title" content="${esc(D.rapor_sayfa_baslik.replace('{tarih}', tarih))}">
+<meta name="twitter:description" content="${esc(metaDesc)}">
+<meta name="twitter:image" content="${ogImage}">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -257,8 +269,8 @@ function buildVariant(V) {
         <a class="act act-read" href="${pdfUrl}" target="_blank" rel="noopener">${D.rapor_ac.replace('{dil}', D.rapor_dil_adi)}</a>
         <a class="act act-dl" href="${pdfUrl}" download>${D.rapor_indir}</a>
       </div>
-      ${cekim ? `<p class="rep-captured" title="${esc(D.rapor_cekim_not)}">${esc(D.rapor_cekim.replace('{an}', cekim))}</p>` : ''}
-      ${snapshotNote(cekim, D.rapor_snapshot_notu, esc)}
+${cekim ? `      <p class="rep-captured" title="${esc(D.rapor_cekim_not)}">${esc(D.rapor_cekim.replace('{an}', cekim))}</p>` : ''}
+${cekim ? `      ${snapshotNote(cekim, D.rapor_snapshot_notu, esc)}` : ''}
       <p class="rep-note">${D.rapor_not}</p>
       <aside class="signup-cta">
         <p>${D.rapor_cta}</p>
@@ -314,12 +326,25 @@ function buildVariant(V) {
 <link rel="canonical" href="https://trescout.com${V.urlBase}/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com${V.trUrlBase}/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en${V.urlBase.slice(PRE.length)}/">
+<link rel="alternate" hreflang="fr" href="https://trescout.com/fr${V.urlBase.slice(PRE.length)}/">
+<link rel="alternate" hreflang="pt-BR" href="https://trescout.com/pt${V.urlBase.slice(PRE.length)}/">
+<link rel="alternate" hreflang="es" href="https://trescout.com/es${V.urlBase.slice(PRE.length)}/">
+<link rel="alternate" hreflang="de" href="https://trescout.com/de${V.urlBase.slice(PRE.length)}/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en${V.urlBase.slice(PRE.length)}/">
 <meta property="og:title" content="${T.dizin_baslik}">
 <meta property="og:description" content="${T.dizin_aciklama}">
 <meta property="og:url" content="https://trescout.com${V.urlBase}/">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="${D.og_locale}">
+<meta property="og:image" content="https://trescout.com/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="${esc(T.dizin_baslik)}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@GetTreScout">
+<meta name="twitter:title" content="${esc(T.dizin_baslik)}">
+<meta name="twitter:description" content="${esc(T.dizin_aciklama)}">
+<meta name="twitter:image" content="https://trescout.com/og-image.png">
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/report-archive.css">
 </head>

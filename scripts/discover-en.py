@@ -431,8 +431,8 @@ def build(slug, cat, chrome):
         }.get(LANG, "Explore this open-source project on TreScout.")
         tagline_en = f"{tagline_en.strip().rstrip('…').strip()} · {title} · {meta_tail}"
     ld = json.dumps({
-        "@context": "https://schema.org", "@type": "Article", "headline": title, "inLanguage": "en",
-        "description": tagline_en,
+        "@context": "https://schema.org", "@type": "Article", "headline": headline,
+        "inLanguage": D["html_lang"], "description": lead,
         "author": {"@type": "Organization", "name": "TreScout", "url": BASE},
         "publisher": {"@type": "Organization", "name": "TreScout"},
         "image": ogimg, "url": canon_en,
@@ -447,14 +447,16 @@ def build(slug, cat, chrome):
             f'<link rel="alternate" type="text/markdown" href="{D["onek"]}/discover/{slug}.md">\n'
             f'<link rel="canonical" href="{canon_en}">\n'
             f'<link rel="alternate" hreflang="tr" href="{canon_tr}">\n'
-            f'<link rel="alternate" hreflang="{LANG}" href="{canon_en}">\n'
+            f'<link rel="alternate" hreflang="{D.get("hreflang", LANG)}" href="{canon_en}">\n'
             f'<link rel="alternate" hreflang="x-default" href="{canon_en}">\n'
             f'<meta property="og:title" content="{esc(title)}">\n'
             f'<meta property="og:description" content="{esc(tagline_en)}">\n'
             f'<meta property="og:url" content="{canon_en}">\n<meta property="og:type" content="article">\n'
             f'<meta property="og:locale" content="{D["og_locale"]}">\n'
-            f'<meta property="og:image" content="{ogimg}">\n'
-            '<meta property="og:image:width" content="1200">\n<meta property="og:image:height" content="630">\n'
+                         f'<meta property="og:image" content="{ogimg}">\n'
+             '<meta property="og:image:width" content="1200">\n<meta property="og:image:height" content="630">\n'
+             f'<meta property="og:image:alt" content="{esc(title)}">\n'
+
             '<meta name="twitter:card" content="summary_large_image">\n'
             '<meta name="twitter:site" content="@GetTreScout">\n'
             f'<meta name="twitter:title" content="{esc(title)}">\n'
