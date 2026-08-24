@@ -6,6 +6,8 @@ set -Eeuo pipefail
 ROOT="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$ROOT"
 
+git config user.name "TreScout Bot"
+git config user.email "hello@trescout.com"
 export GH_TOKEN="${GH_TOKEN:-${GITHUB_TOKEN:-}}"
 
 python3 scripts/dict-sync.py
@@ -76,3 +78,10 @@ python3 scripts/check-birlesmis-terimler.py
 python3 scripts/ikiz-tara.py || true
 python3 scripts/check-hreflang.py
 python3 scripts/check-seo-geo.py
+
+if [[ -n "$(git status --porcelain)" ]]; then
+  git add -A
+  git commit -m "chore(content-sync): rapordan yeni sözlük/keşif içeriği eklendi [skip ci]"
+else
+  echo "No generated changes after recovery."
+fi
