@@ -1,7 +1,7 @@
 /*
  * TreScout · homepage interactions
  *
- * Manual · report source/summary/glossary tabs and catalog discovery radar.
+ * Manual · report source/summary/glossary tabs, catalog discovery radar, and daily flow preview.
  * All data stays in the page: no email, signup, analytics, or third-party call.
  * Future measurement can listen to `trescout:interaction`.
  */
@@ -16,6 +16,14 @@
 
   function language() {
     return (document.documentElement.lang || 'tr').toLowerCase();
+  }
+
+  function contentLanguage(lang) {
+    return lang === 'pt-br' ? 'pt' : lang;
+  }
+
+  function routeLanguage(lang) {
+    return contentLanguage(lang);
   }
 
   function initReportTasting(root) {
@@ -75,7 +83,8 @@
   };
 
   function entryText(entry, lang) {
-    return [entry.title, entry.tagline, entry['tagline_' + lang], entry.slug]
+    var locale = contentLanguage(lang);
+    return [entry.title, entry.tagline, entry['tagline_' + locale], entry.slug]
       .concat(entry.tags || []).join(' ').toLowerCase();
   }
 
@@ -97,6 +106,8 @@
   }
 
   function makeCard(entry, lang) {
+    var locale = contentLanguage(lang);
+    var route = routeLanguage(lang);
     var card = document.createElement('article');
     card.className = 'radar-card';
     var eyebrow = document.createElement('span');
@@ -105,7 +116,7 @@
     var title = document.createElement('h3');
     title.textContent = entry.title || entry.slug;
     var text = document.createElement('p');
-    text.textContent = entry['tagline_' + lang] || entry.tagline || '';
+    text.textContent = entry['tagline_' + locale] || entry.tagline || '';
     var tags = document.createElement('div');
     tags.className = 'radar-card-tags';
     (entry.tags || []).slice(0, 2).forEach(function (tag) {
@@ -115,8 +126,8 @@
     });
     var link = document.createElement('a');
     link.className = 'radar-card-link';
-    link.href = (lang === 'tr' ? '' : '/' + lang) + '/discover/' + encodeURIComponent(entry.slug) + '/';
-    link.textContent = lang === 'tr' ? 'Ayrıntıyı aç →' : (lang === 'fr' ? 'Voir le détail →' : lang === 'pt' ? 'Ver detalhes →' : lang === 'es' ? 'Ver detalle →' : lang === 'de' ? 'Details ansehen →' : 'Open details →');
+    link.href = (route === 'tr' ? '' : '/' + route) + '/discover/' + encodeURIComponent(entry.slug) + '/';
+    link.textContent = locale === 'tr' ? 'Ayrıntıyı aç →' : (locale === 'fr' ? 'Voir le détail →' : locale === 'pt' ? 'Ver detalhes →' : locale === 'es' ? 'Ver detalle →' : locale === 'de' ? 'Details ansehen →' : 'Open details →');
     link.addEventListener('click', function () {
       emit('discovery_card_click', { slug: entry.slug, language: lang });
     });
@@ -126,6 +137,130 @@
     if (tags.childNodes.length) card.appendChild(tags);
     card.appendChild(link);
     return card;
+  }
+
+  var FLOW_TEXT = {
+    tr: { step: ['Kaynağı seç', 'Kısa özete indir', 'Ayrıntıya geç'], loading: 'Gerçek katalog kayıtları yükleniyor…', empty: 'Bu örnek konu için henüz kayıt bulunamadı.' },
+    en: { step: ['Choose a source', 'Turn it into a short summary', 'Open the detail'], loading: 'Loading real catalog entries…', empty: 'There are no entries for this example topic yet.' },
+    fr: { step: ['Choisir une source', 'La réduire à un résumé', 'Ouvrir le détail'], loading: 'Chargement des entrées réelles du catalogue…', empty: 'Aucune entrée pour ce sujet d’exemple pour le moment.' },
+    pt: { step: ['Escolher uma fonte', 'Transformar em um resumo curto', 'Abrir os detalhes'], loading: 'Carregando registros reais do catálogo…', empty: 'Ainda não há registros para este tema de exemplo.' },
+    es: { step: ['Elegir una fuente', 'Convertirla en un resumen breve', 'Abrir el detalle'], loading: 'Cargando entradas reales del catálogo…', empty: 'Todavía no hay entradas para este tema de ejemplo.' },
+    de: { step: ['Quelle auswählen', 'Kurz zusammenfassen', 'Details öffnen'], loading: 'Echte Katalogeinträge werden geladen…', empty: 'Für dieses Beispielthema gibt es noch keine Einträge.' }
+  };
+
+  function initDailyFlow(root) {
+    var list = root.querySelector('[data-flow-list]');
+    var topicButtons = Array.prototype.slice.call(root.querySelectorAll('[data-flow-topic]'));
+    var timeButtons = Array.prototype.slice.call(root.querySelectorAll('[data-flow-time]'));
+    var selection = root.querySelector('[data-flow-selection]');
+    if (!list || !topicButtons.length || !timeButtons.length || !selection) return;
+
+    var lang = language();
+    var locale = contentLanguage(lang);
+    var copy = FLOW_TEXT[locale] || FLOW_TEXT.en;
+    var catalog = [];
+    var activeTopic = topicButtons[0].getAttribute('data-flow-topic');
+    var activeTime = timeButtons[0].getAttribute('data-flow-time');
+
+    function setPressed(buttons, value) {
+      buttons.forEach(function (button) {
+        button.setAttribute('aria-pressed', button.getAttribute('data-flow-topic') === value || button.getAttribute('data-flow-time') === value ? 'true' : 'false');
+      });
+    }
+
+    function topicLabel() {
+      var button = topicButtons.find(function (item) { return item.getAttribute('data-flow-topic') === activeTopic; });
+      return button ? button.textContent.trim() : activeTopic;
+    }
+
+    function render() {
+      setPressed(topicButtons, activeTopic);
+      setPressed(timeButtons, activeTime);
+      selection.textContent = activeTime + ' · ' + topicLabel();
+      list.replaceChildren();
+      var selected = catalog.filter(function (entry) { return matches(entry, activeTopic, lang); }).slice(0, 3);
+      if (!selected.length) {
+        var empty = document.createElement('p');
+        empty.className = 'daily-flow-empty';
+        empty.textContent = copy.empty;
+        list.appendChild(empty);
+        list.setAttribute('aria-busy', 'false');
+        return;
+      }
+      selected.forEach(function (entry, index) {
+        var step = document.createElement('article');
+        step.className = 'daily-flow-step';
+        var number = document.createElement('span');
+        number.className = 'daily-flow-step-number';
+        number.textContent = String(index + 1).padStart(2, '0');
+        var body = document.createElement('div');
+        body.className = 'daily-flow-step-body';
+        var label = document.createElement('span');
+        label.className = 'daily-flow-step-label';
+        label.textContent = copy.step[index];
+        var title = document.createElement('h4');
+        title.textContent = entry.title || entry.slug;
+        var description = document.createElement('p');
+        description.textContent = entry['tagline_' + locale] || entry.tagline || '';
+        var meta = document.createElement('span');
+        meta.className = 'daily-flow-step-meta';
+        meta.textContent = (entry.source || 'GitHub') + ' · ' + displayDate(entry.last_review || entry.date, lang);
+        body.appendChild(label);
+        body.appendChild(title);
+        body.appendChild(description);
+        body.appendChild(meta);
+        step.appendChild(number);
+        step.appendChild(body);
+        list.appendChild(step);
+      });
+      list.setAttribute('aria-busy', 'false');
+      emit('daily_flow_preview_rendered', { language: lang, topic: activeTopic, time: activeTime, count: selected.length });
+    }
+
+    topicButtons.forEach(function (button) {
+      button.addEventListener('click', function () {
+        activeTopic = button.getAttribute('data-flow-topic');
+        render();
+        emit('daily_flow_topic_select', { language: lang, topic: activeTopic });
+      });
+    });
+    timeButtons.forEach(function (button) {
+      button.addEventListener('click', function () {
+        activeTime = button.getAttribute('data-flow-time');
+        render();
+        emit('daily_flow_time_select', { language: lang, time: activeTime });
+      });
+    });
+    root.querySelectorAll('[data-flow-cta]').forEach(function (link) {
+      link.addEventListener('click', function () {
+        emit('daily_flow_cta', { language: lang, topic: activeTopic, time: activeTime });
+      });
+    });
+
+    fetch('/assets/discover/catalog.json', { credentials: 'same-origin' })
+      .then(function (response) {
+        if (!response.ok) throw new Error('catalog ' + response.status);
+        return response.json();
+      })
+      .then(function (entries) {
+        catalog = Array.isArray(entries) ? entries.slice() : [];
+        catalog.sort(function (a, b) {
+          return String(b.last_review || b.date || '').localeCompare(String(a.last_review || a.date || '')) || Number(b.stars || 0) - Number(a.stars || 0);
+        });
+        render();
+        emit('daily_flow_catalog_loaded', { language: lang, count: catalog.length });
+      })
+      .catch(function () {
+        list.replaceChildren();
+        var empty = document.createElement('p');
+        empty.className = 'daily-flow-empty';
+        empty.textContent = copy.loading;
+        list.appendChild(empty);
+        list.setAttribute('aria-busy', 'false');
+        emit('daily_flow_error', { language: lang });
+      });
+
+    emit('daily_flow_view', { language: lang });
   }
 
   function initRadar(root) {
@@ -155,7 +290,7 @@
       if (!selected.length) {
         var empty = document.createElement('p');
         empty.className = 'radar-empty';
-        empty.textContent = EMPTY_TEXT[lang] || EMPTY_TEXT.en;
+        empty.textContent = EMPTY_TEXT[contentLanguage(lang)] || EMPTY_TEXT.en;
         grid.appendChild(empty);
         return;
       }
@@ -202,7 +337,7 @@
         grid.replaceChildren();
         var empty = document.createElement('p');
         empty.className = 'radar-empty';
-        empty.textContent = EMPTY_TEXT[lang] || EMPTY_TEXT.en;
+        empty.textContent = EMPTY_TEXT[contentLanguage(lang)] || EMPTY_TEXT.en;
         grid.appendChild(empty);
         grid.setAttribute('aria-busy', 'false');
         emit('discovery_radar_error', { language: lang });
@@ -214,6 +349,7 @@
   function init() {
     document.querySelectorAll('[data-report-tasting]').forEach(initReportTasting);
     document.querySelectorAll('[data-discovery-radar]').forEach(initRadar);
+    document.querySelectorAll('[data-daily-flow]').forEach(initDailyFlow);
   }
 
   if (document.readyState === 'loading') {

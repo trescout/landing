@@ -2048,3 +2048,130 @@
 @media (prefers-reduced-motion: reduce) {
   .radar-card { transition: none; }
 }
+
+
+/* ---------- günlük akış önizlemesi · yalnız client-side örnek ---------- */
+.daily-flow-heading { max-width: 760px; margin: 0 auto 28px; text-align: center; }
+.daily-flow-builder {
+  display: grid;
+  grid-template-columns: minmax(220px, 0.72fr) minmax(0, 1.28fr);
+  gap: 18px;
+  align-items: start;
+}
+.daily-flow-controls,
+.daily-flow-output {
+  padding: 22px;
+  background: var(--bg-elevated);
+  border: 1px solid rgba(95, 168, 211, 0.18);
+  border-radius: 16px;
+}
+.daily-flow-controls { display: grid; gap: 22px; }
+.daily-flow-control { display: grid; gap: 10px; }
+.daily-flow-label {
+  color: var(--brand-light);
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+.daily-flow-options { display: flex; flex-wrap: wrap; gap: 8px; }
+.daily-flow-options button {
+  padding: 8px 11px;
+  color: var(--ink-muted);
+  background: transparent;
+  border: 1px solid rgba(95, 168, 211, 0.24);
+  border-radius: 999px;
+  cursor: pointer;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 700;
+  transition: color 0.16s ease, background 0.16s ease, border-color 0.16s ease, transform 0.16s ease;
+}
+.daily-flow-options button:hover,
+.daily-flow-options button:focus-visible { color: var(--ink); border-color: var(--brand-light); }
+.daily-flow-options button:focus-visible,
+.daily-flow-cta:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+.daily-flow-options button[aria-pressed="true"] { color: #15202B; background: var(--accent); border-color: var(--accent); }
+.daily-flow-options button:active { transform: scale(0.97); }
+.daily-flow-output { box-shadow: 0 18px 44px rgba(0, 0, 0, 0.14); }
+.daily-flow-output-meta {
+  margin-bottom: 8px;
+  color: var(--accent);
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+.daily-flow-output h3 {
+  margin: 0 0 18px;
+  color: #fff;
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: clamp(22px, 3vw, 30px);
+  line-height: 1.12;
+}
+.daily-flow-list { display: grid; gap: 10px; min-height: 218px; }
+.daily-flow-loading,
+.daily-flow-empty {
+  align-self: center;
+  margin: 0;
+  color: var(--ink-muted);
+  font-size: 14px;
+  line-height: 1.6;
+}
+.daily-flow-step {
+  display: grid;
+  grid-template-columns: 38px minmax(0, 1fr);
+  gap: 13px;
+  padding: 14px;
+  background: rgba(15, 25, 41, 0.48);
+  border: 1px solid rgba(95, 168, 211, 0.14);
+  border-radius: 12px;
+  transition: border-color 0.18s ease, transform 0.18s ease;
+}
+.daily-flow-step:hover { border-color: rgba(244, 211, 94, 0.38); transform: translateY(-1px); }
+.daily-flow-step-number {
+  display: grid;
+  width: 34px;
+  height: 34px;
+  place-items: center;
+  color: #15202B;
+  background: var(--accent);
+  border-radius: 9px;
+  font-family: 'SF Mono', ui-monospace, Menlo, Consolas, monospace;
+  font-size: 12px;
+  font-weight: 800;
+}
+.daily-flow-step-body { min-width: 0; }
+.daily-flow-step-label {
+  display: block;
+  margin-bottom: 4px;
+  color: var(--brand-light);
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+.daily-flow-step h4 {
+  margin: 0 0 5px;
+  color: var(--ink);
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 17px;
+  line-height: 1.2;
+}
+.daily-flow-step p { margin: 0 0 7px; color: var(--ink-muted); font-size: 13px; line-height: 1.5; }
+.daily-flow-step-meta { color: var(--ink-muted); font-size: 11px; opacity: 0.86; }
+.daily-flow-note { margin: 15px 0 0; color: var(--ink-muted); font-size: 12px; line-height: 1.55; }
+.daily-flow-cta { display: inline-block; margin-top: 12px; color: var(--accent); font-size: 13px; font-weight: 800; text-decoration: none; }
+.daily-flow-cta:hover { text-decoration: underline; }
+@media (max-width: 800px) {
+  .daily-flow-builder { grid-template-columns: 1fr; }
+}
+@media (max-width: 560px) {
+  .daily-flow-controls,
+  .daily-flow-output { padding: 18px 16px; }
+  .daily-flow-list { min-height: 245px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .daily-flow-options button,
+  .daily-flow-step { transition: none; }
+}
