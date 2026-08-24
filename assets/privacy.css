@@ -26,7 +26,9 @@
     }
     .back-link {
       color: var(--ink-muted);
-      text-decoration: none;
+      text-decoration: underline;
+      text-underline-offset: 0.18em;
+      text-decoration-thickness: 0.08em;
       font-size: 14px;
       display: inline-block;
       margin-bottom: 40px;
@@ -65,7 +67,9 @@
     }
     a {
       color: var(--accent);
-      text-decoration: none;
+      text-decoration: underline;
+      text-underline-offset: 0.18em;
+      text-decoration-thickness: 0.08em;
     }
     a:hover { text-decoration: underline; }
     strong {
