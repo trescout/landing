@@ -85,8 +85,8 @@
 
         <form class="cta-form js-subscribe" data-source="hero" novalidate>
           <div class="form-row">
-            <input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required>
-            <button class="btn btn-primary btn-large" type="submit">Erken erişim listesine katılın</button>
+            <input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" aria-label="E-posta adresiniz" required>
+            <button class="btn btn-primary btn-large" type="submit">Yayına çıkınca ilk haberdar olun</button>
           </div>
           <label class="form-consent">
             <input type="checkbox" name="consent" required aria-describedby="consent-hint" data-needs-consent>
@@ -99,6 +99,7 @@
         <p class="hero-note">Erken erişim listesine kayıt olun. TreScout yayına alındığında bilgilendirme yapılacaktır. Gereksiz ileti gönderilmez.</p>
         <!-- DURUM · sayfadaki gelecek zamanlı anlatımı bugüne bağlar (ne çalışıyor / ne erken erişimle) -->
         <p class="hero-status">Bugün: Raporları her gün üretip <a href="/reports/">arşivde</a> yayımlıyoruz. E-posta teslimi, saat seçimi ve konu filtreleri erken erişimle başlayacak.</p>
+        <p class="hero-value-promise">Bugün: Gerçek teknoloji raporlarını canlı arşivde inceleyin. Erken erişimle e-posta teslimi, saat seçimi ve konu filtreleri açıldığında ilk haberdar olun. Gereksiz ileti gönderilmez. <a href="/reports/" class="hero-archive-link">Canlı arşivi inceleyin →</a></p>
       </div>
 
       <aside class="hero-visual" aria-hidden="true">
@@ -215,6 +216,34 @@
             <span class="pac-live" id="js-arch-badge">CANLI</span>
             <span class="pac-msg"><strong>Bu bir örnek.</strong> Gerçek raporları her gün üretiyoruz · <span class="pac-go">arşivi görün →</span></span>
           </a>
+
+
+          <div class="report-tasting" data-report-tasting>
+            <div class="report-tasting-kicker">İnteraktif rapor tadımı</div>
+            <h3>Bir raporun içinden: kaynak, özet ve sözlük</h3>
+            <p class="report-tasting-intro">TreScout’un bir kaynağı nasıl kısa bir özete ve anlaşılır bir terim açıklamasına dönüştürdüğünü görün.</p>
+            <div class="tasting-tabs" role="tablist" aria-label="Bir raporun içinden: kaynak, özet ve sözlük">
+              <button type="button" role="tab" aria-selected="true" aria-controls="tasting-source" id="tasting-tab-source" data-tasting-tab="source">Kaynak</button>
+              <button type="button" role="tab" aria-selected="false" aria-controls="tasting-summary" id="tasting-tab-summary" data-tasting-tab="summary" tabindex="-1">TreScout özeti</button>
+              <button type="button" role="tab" aria-selected="false" aria-controls="tasting-glossary" id="tasting-tab-glossary" data-tasting-tab="glossary" tabindex="-1">Sözlük</button>
+            </div>
+            <div class="tasting-panel" role="tabpanel" id="tasting-source" aria-labelledby="tasting-tab-source" data-tasting-panel="source">
+              <span class="tasting-meta">GitHub Trending · 21 Mayıs 2026 raporundan örnek</span>
+              <strong class="tasting-source-title">colbymchenry/codegraph</strong>
+              <p>Geliştirme araçları için önceden dizinlenmiş bir kod bilgi çizgesi sunuyor.</p>
+              <a href="https://github.com/colbymchenry/codegraph" target="_blank" rel="noopener noreferrer">Kaynağı aç ↗</a>
+            </div>
+            <div class="tasting-panel" role="tabpanel" id="tasting-summary" aria-labelledby="tasting-tab-summary" data-tasting-panel="summary" hidden>
+              <span class="tasting-meta">TreScout özeti</span>
+              <p>Geliştirme araçları için kod bilgi çizgesi sunan bu proje, yapay zekâ destekli araçların yerel ortamda daha az belirteç ve araç çağrısıyla çalışmasına yardımcı olmayı hedefliyor.</p>
+            </div>
+            <div class="tasting-panel" role="tabpanel" id="tasting-glossary" aria-labelledby="tasting-tab-glossary" data-tasting-panel="glossary" hidden>
+              <span class="tasting-meta">Sözlük</span>
+              <strong class="tasting-source-title">Bilgi çizgesi (knowledge graph)</strong>
+              <p>Kod, dosya ve bileşenler arasındaki ilişkileri birlikte temsil eden veri yapısı.</p>
+            </div>
+            <p class="tasting-note">Örnek içerik · kaynak bağlantısı raporun ilgili kaydına aittir.</p>
+          </div>
         </div>
 
         <div class="pdf-card">
@@ -470,8 +499,8 @@
       <p>Erken erişim listesi açık. Yayına geçtiğimizde ilk siz haberdar olun.</p>
       <form class="cta-form final-cta-form js-subscribe" data-source="final-cta" novalidate>
         <div class="form-row">
-          <input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required>
-          <button class="btn btn-primary btn-large" type="submit">Erken erişim listesine katılın</button>
+          <input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" aria-label="E-posta adresiniz" required>
+          <button class="btn btn-primary btn-large" type="submit">Yayına çıkınca ilk haberdar olun</button>
         </div>
         <label class="form-consent">
           <input type="checkbox" name="consent" required>
@@ -557,6 +586,7 @@
   <!-- ============== SCROLL REVEAL (subtle fade-in) ============== -->
 
   <script src="/assets/index.js" defer></script>
+  <script src="/assets/home-interactions.js" defer></script>
 
   <!-- ============== VERCEL ANALYTICS · cookieless, KVKK uyumlu ============== -->
   <script defer src="/_vercel/insights/script.js"></script>

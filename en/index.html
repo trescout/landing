@@ -84,8 +84,8 @@
 
         <form class="cta-form js-subscribe" data-source="hero-en" novalidate>
           <div class="form-row">
-            <input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required>
-            <button class="btn btn-primary btn-large" type="submit">Join Early Access</button>
+            <input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" aria-label="Your email address" required>
+            <button class="btn btn-primary btn-large" type="submit">Be first to know when we launch</button>
           </div>
           <label class="form-consent">
             <input type="checkbox" name="consent" required aria-describedby="consent-hint" data-needs-consent>
@@ -97,6 +97,7 @@
         <p class="hero-note">Join the early access list. You will be notified when TreScout launches. Zero clutter.</p>
         <!-- STATUS · ties the future-tense copy below to what actually runs today -->
         <p class="hero-status">Today: We build and publish a report every day in the <a href="/en/reports/">archive</a>. Email delivery, hour selection and topic filters arrive with early access.</p>
+        <p class="hero-value-promise">Today: Explore real technology reports in the live archive. Early access will unlock email delivery, hour selection, and topic filters. No unnecessary messages. <a href="/en/reports/" class="hero-archive-link">Explore the live archive →</a></p>
       </div>
 
       <aside class="hero-visual" aria-hidden="true">
@@ -211,6 +212,34 @@
             <span class="pac-live" id="js-arch-badge">LIVE</span>
             <span class="pac-msg"><strong>This is a sample.</strong> We generate reports daily · <span class="pac-go">view archive →</span></span>
           </a>
+
+
+          <div class="report-tasting" data-report-tasting>
+            <div class="report-tasting-kicker">Interactive report tasting</div>
+            <h3>Inside a report: source, summary, and glossary</h3>
+            <p class="report-tasting-intro">See how TreScout turns one source into a concise summary and a clear term explanation.</p>
+            <div class="tasting-tabs" role="tablist" aria-label="Inside a report: source, summary, and glossary">
+              <button type="button" role="tab" aria-selected="true" aria-controls="tasting-source" id="tasting-tab-source" data-tasting-tab="source">Source</button>
+              <button type="button" role="tab" aria-selected="false" aria-controls="tasting-summary" id="tasting-tab-summary" data-tasting-tab="summary" tabindex="-1">TreScout summary</button>
+              <button type="button" role="tab" aria-selected="false" aria-controls="tasting-glossary" id="tasting-tab-glossary" data-tasting-tab="glossary" tabindex="-1">Glossary</button>
+            </div>
+            <div class="tasting-panel" role="tabpanel" id="tasting-source" aria-labelledby="tasting-tab-source" data-tasting-panel="source">
+              <span class="tasting-meta">GitHub Trending · sample from the May 21, 2026 report</span>
+              <strong class="tasting-source-title">colbymchenry/codegraph</strong>
+              <p>An indexed code knowledge graph for development tools.</p>
+              <a href="https://github.com/colbymchenry/codegraph" target="_blank" rel="noopener noreferrer">Open source ↗</a>
+            </div>
+            <div class="tasting-panel" role="tabpanel" id="tasting-summary" aria-labelledby="tasting-tab-summary" data-tasting-panel="summary" hidden>
+              <span class="tasting-meta">TreScout summary</span>
+              <p>This project provides a code knowledge graph for development tools, helping AI-assisted tools work locally with fewer tokens and tool calls.</p>
+            </div>
+            <div class="tasting-panel" role="tabpanel" id="tasting-glossary" aria-labelledby="tasting-tab-glossary" data-tasting-panel="glossary" hidden>
+              <span class="tasting-meta">Glossary</span>
+              <strong class="tasting-source-title">Knowledge graph</strong>
+              <p>A data structure that represents the relationships between code, files, and components together.</p>
+            </div>
+            <p class="tasting-note">Sample content · the source link belongs to the related report item.</p>
+          </div>
         </div>
 
         <div class="pdf-card">
@@ -443,8 +472,8 @@
       <p>Early access list is open. Be the first to get notified at launch.</p>
       <form class="cta-form final-cta-form js-subscribe" data-source="final-cta-en" novalidate>
         <div class="form-row">
-          <input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required>
-          <button class="btn btn-primary btn-large" type="submit">Join Early Access</button>
+          <input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" aria-label="Your email address" required>
+          <button class="btn btn-primary btn-large" type="submit">Be first to know when we launch</button>
         </div>
         <label class="form-consent">
           <input type="checkbox" name="consent" required>
@@ -500,6 +529,7 @@
 </footer>
 
   <script src="/assets/index.js" defer></script>
+  <script src="/assets/home-interactions.js" defer></script>
 
   <!-- VERCEL ANALYTICS -->
   <script defer src="/_vercel/insights/script.js"></script>

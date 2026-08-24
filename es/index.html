@@ -84,8 +84,8 @@
 
         <form class="cta-form js-subscribe" data-source="hero-es" novalidate>
           <div class="form-row">
-            <input class="input" type="email" name="email" placeholder="Su correo electrónico" autocomplete="email" required>
-            <button class="btn btn-primary btn-large" type="submit">Acceso anticipado</button>
+            <input class="input" type="email" name="email" placeholder="Su correo electrónico" autocomplete="email" aria-label="Su dirección de correo electrónico" required>
+            <button class="btn btn-primary btn-large" type="submit">Sea de los primeros en saberlo</button>
           </div>
           <label class="form-consent">
             <input type="checkbox" name="consent" required aria-describedby="consent-hint" data-needs-consent>
@@ -97,6 +97,7 @@
         <p class="hero-note">Únase a la lista de acceso temprano. Se le notificará cuando se lance TreScout. Cero desorden.</p>
         <!-- STATUS · ties the future-tense copy below to what actually runs today -->
         <p class="hero-status">Hoy: Creamos y publicamos un informe todos los días en el <a href="/es/reports/">archivo</a>. La entrega de correo electrónico, la selección de horarios y los filtros de temas llegan con acceso temprano.</p>
+        <p class="hero-value-promise">Hoy: consulte informes tecnológicos reales en el archivo activo. El acceso anticipado activará la entrega por correo, la elección de hora y los filtros por tema. No enviaremos mensajes innecesarios. <a href="/es/reports/" class="hero-archive-link">Explorar el archivo activo →</a></p>
       </div>
 
       <aside class="hero-visual" aria-hidden="true">
@@ -211,6 +212,34 @@
             <span class="pac-live" id="js-arch-badge">EN VIVO</span>
             <span class="pac-msg"><strong>Esta es una muestra.</strong> Generamos informes diariamente ·<span class="pac-go">ver archivo →</span></span>
           </a>
+
+
+          <div class="report-tasting" data-report-tasting>
+            <div class="report-tasting-kicker">Muestra interactiva del informe</div>
+            <h3>Dentro de un informe: fuente, resumen y glosario</h3>
+            <p class="report-tasting-intro">Vea cómo TreScout convierte una fuente en un resumen breve y una explicación clara de un término.</p>
+            <div class="tasting-tabs" role="tablist" aria-label="Dentro de un informe: fuente, resumen y glosario">
+              <button type="button" role="tab" aria-selected="true" aria-controls="tasting-source" id="tasting-tab-source" data-tasting-tab="source">Fuente</button>
+              <button type="button" role="tab" aria-selected="false" aria-controls="tasting-summary" id="tasting-tab-summary" data-tasting-tab="summary" tabindex="-1">Resumen de TreScout</button>
+              <button type="button" role="tab" aria-selected="false" aria-controls="tasting-glossary" id="tasting-tab-glossary" data-tasting-tab="glossary" tabindex="-1">Glosario</button>
+            </div>
+            <div class="tasting-panel" role="tabpanel" id="tasting-source" aria-labelledby="tasting-tab-source" data-tasting-panel="source">
+              <span class="tasting-meta">GitHub Trending · ejemplo del informe del 21 de mayo de 2026</span>
+              <strong class="tasting-source-title">colbymchenry/codegraph</strong>
+              <p>Un grafo de conocimiento del código indexado para herramientas de desarrollo.</p>
+              <a href="https://github.com/colbymchenry/codegraph" target="_blank" rel="noopener noreferrer">Abrir fuente ↗</a>
+            </div>
+            <div class="tasting-panel" role="tabpanel" id="tasting-summary" aria-labelledby="tasting-tab-summary" data-tasting-panel="summary" hidden>
+              <span class="tasting-meta">Resumen de TreScout</span>
+              <p>Este proyecto ofrece un grafo de conocimiento del código para herramientas de desarrollo y ayuda a las herramientas asistidas por IA a trabajar localmente con menos tokens y llamadas.</p>
+            </div>
+            <div class="tasting-panel" role="tabpanel" id="tasting-glossary" aria-labelledby="tasting-tab-glossary" data-tasting-panel="glossary" hidden>
+              <span class="tasting-meta">Glosario</span>
+              <strong class="tasting-source-title">Grafo de conocimiento</strong>
+              <p>Una estructura de datos que representa conjuntamente las relaciones entre código, archivos y componentes.</p>
+            </div>
+            <p class="tasting-note">Contenido de ejemplo · el enlace de la fuente pertenece al elemento correspondiente del informe.</p>
+          </div>
         </div>
 
         <div class="pdf-card">
@@ -443,8 +472,8 @@
       <p>La lista de acceso temprano está abierta. Sea el primero en recibir una notificación durante el lanzamiento.</p>
       <form class="cta-form final-cta-form js-subscribe" data-source="final-cta-es" novalidate>
         <div class="form-row">
-          <input class="input" type="email" name="email" placeholder="Su correo electrónico" autocomplete="email" required>
-          <button class="btn btn-primary btn-large" type="submit">Acceso anticipado</button>
+          <input class="input" type="email" name="email" placeholder="Su correo electrónico" autocomplete="email" aria-label="Su dirección de correo electrónico" required>
+          <button class="btn btn-primary btn-large" type="submit">Sea de los primeros en saberlo</button>
         </div>
         <label class="form-consent">
           <input type="checkbox" name="consent" required>
@@ -458,7 +487,8 @@
   </main>
 
   <!-- ============== FOOTER ============== -->
-  <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">TreScout rastrea, resume y entrega. Usted solo lee.</p></div><div class="footer-col"><div class="footer-col-title">Producto</div><ul><li><a href="/es/discover/">Descubrir</a></li><li><a href="/es/dictionary/">Glosario</a></li><li><a href="/es/reports/">Archivo de informes</a></li><li><a href="/es/compare/rss-vs-ai/">Comparar</a></li><li><a href="/es/#top">Acceso anticipado</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Contacto</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/es/privacy.html" target="_blank" rel="noopener">Aviso de privacidad</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Redes</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Todos los derechos reservados.</span></div></div></footer><script src="/assets/index.js" defer></script><!-- VERCEL ANALYTICS --><script defer src="/_vercel/insights/script.js"></script>
+  <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">TreScout rastrea, resume y entrega. Usted solo lee.</p></div><div class="footer-col"><div class="footer-col-title">Producto</div><ul><li><a href="/es/discover/">Descubrir</a></li><li><a href="/es/dictionary/">Glosario</a></li><li><a href="/es/reports/">Archivo de informes</a></li><li><a href="/es/compare/rss-vs-ai/">Comparar</a></li><li><a href="/es/#top">Acceso anticipado</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Contacto</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/es/privacy.html" target="_blank" rel="noopener">Aviso de privacidad</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Redes</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Todos los derechos reservados.</span></div></div></footer><script src="/assets/index.js" defer></script>
+  <script src="/assets/home-interactions.js" defer></script><!-- VERCEL ANALYTICS --><script defer src="/_vercel/insights/script.js"></script>
   <script defer src="/_vercel/speed-insights/script.js"></script><div class="privacy-modal" id="privacy-modal" role="dialog" aria-modal="true" aria-labelledby="privacy-modal-title" aria-hidden="true">
     <div class="privacy-modal-card">
       <div class="privacy-modal-head">
