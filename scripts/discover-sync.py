@@ -339,6 +339,46 @@ def rich_sections(g, cmds=None):
     if facts: s+=f'<div class="disc-facts">{facts}</div>\n      '
     return s
 
+def editorial_sections(editorial):
+    """Elle doğrulanmış exemplar içeriği · kaynaklı, kısa ve taranabilir."""
+    if not editorial:
+        return ""
+    s = ""
+    if editorial.get("overview"):
+        s += '<section class="disc-sec disc-editorial disc-overview"><h2>Bu araç ne yapar?</h2><p>' + esc(editorial["overview"]) + '</p></section>\n      '
+    if editorial.get("best_for"):
+        s += '<section class="disc-sec disc-editorial disc-best-for"><h2>Kimin için?</h2><p>' + esc(editorial["best_for"]) + '</p></section>\n      '
+    if editorial.get("not_for"):
+        s += '<section class="disc-sec disc-editorial disc-not-for"><h2>Ne beklememeli?</h2><p>' + esc(editorial["not_for"]) + '</p></section>\n      '
+    wins = [str(x).strip() for x in (editorial.get("wins") or []) if str(x).strip()]
+    if wins:
+        s += '<section class="disc-sec disc-editorial disc-wins-section"><h2>Öne çıkanlar</h2><ul class="disc-wins">' + ''.join('<li>' + esc(x) + '</li>' for x in wins[:4]) + '</ul></section>\n      '
+    steps = [str(x).strip() for x in (editorial.get("first_run_steps") or []) if str(x).strip()]
+    if steps:
+        s += '<section class="disc-sec disc-editorial disc-first-run"><h2>İlk kullanım akışı</h2><ol class="disc-steps">' + ''.join('<li>' + esc(x) + '</li>' for x in steps[:5]) + '</ol></section>\n      '
+    if editorial.get("safety_note"):
+        s += '<section class="disc-sec disc-editorial disc-safety"><h2>Güvenli başlangıç</h2><div class="disc-note">' + esc(editorial["safety_note"]) + '</div></section>\n      '
+    if editorial.get("first_prompt"):
+        s += ('<section class="disc-sec disc-editorial disc-first-prompt"><h2>İlk görev istemi</h2>'
+              '<div class="disc-ai"><div class="disc-ai-head"><span>İlk adım için hazır istem</span>'
+              '<button type="button" class="disc-copy" aria-label="İstemi kopyala">Kopyala</button></div>'
+              '<p class="disc-ai-text">' + esc(editorial["first_prompt"]) + '</p></div></section>\n      ')
+    return s
+
+
+def source_links(e, url):
+    """GitHub ve katalogda doğrulanmış resmî kaynaklar."""
+    items = []
+    if url:
+        items.append(f'<li><a href="{esc(url)}" target="_blank" rel="noopener">GitHub deposu →</a></li>')
+    for source in (e.get("sources") or []):
+        if not isinstance(source, dict) or not source.get("url"):
+            continue
+        label = source.get("label") or "Resmî kaynak"
+        items.append(f'<li><a href="{esc(source["url"])}" target="_blank" rel="noopener">{esc(label)} →</a></li>')
+    return '<section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links">' + ''.join(items) + '</ul></section>' if items else ""
+
+
 def build_page(e, rich=None):
     slug=e["slug"];title=e["title"];tagline=e["tagline"];summary=e["summary"];url=e["url"]
     # Detay sayfası H1 · Gemini'nin yazdığı editöryel başlık (varsa); yoksa repo adı.
@@ -359,7 +399,8 @@ def build_page(e, rich=None):
         if chips: relsec=f'<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related">{chips}</div></section>'
     # ↑ · marka kuralı 🚀'yi yasaklıyor (hype). Aynı bilgiyi tipografik işaretle veriyoruz.
     mom=f'<span class="disc-momentum">↑ {esc(momentum)}</span>' if momentum else ''
-    rich_html=rich_sections(rich, e.get("cmds")) if rich else ''
+    editorial_html=editorial_sections(e.get("editorial"))
+    rich_html=rich_sections(rich or {}, e.get("cmds")) if (rich or e.get("cmds")) else ''
     notu=(e.get("trescout_notu") or "").strip()   # elle yazılan editöryel yargı · README özetinden farkımız
     not_html=f'<aside class="disc-note"><p><strong>TreScout notu:</strong> {esc(notu)}</p></aside>\n      ' if notu else ''
     guncelleme_html=update_section(e.get("guncellemeler"))
@@ -381,8 +422,8 @@ def build_page(e, rich=None):
       '<a class="disc-back" href="/discover/">← Keşif</a>\n'
       f'<div class="disc-top"><span class="disc-eyebrow">Keşif · GitHub{eyebrow_repo}</span>{mom}</div>\n'
       f'<h1 class="disc-title">{esc(headline)}</h1>\n<p class="disc-lead">{esc(summary)}</p>\n'
-      f'<ul class="disc-meta">{metas}</ul>\n      {not_html}{guncelleme_html}{shot_html}{rich_html}{relsec}\n'
-      f'<section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links"><li><a href="{esc(url)}" target="_blank" rel="noopener">GitHub deposu →</a></li></ul></section>\n'
+      f'<ul class="disc-meta">{metas}</ul>\n      {not_html}{guncelleme_html}{shot_html}{editorial_html}{rich_html}{relsec}\n'
+      f'{source_links(e, url)}\n'
       f'<p class="disc-disclaimer">TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun {date} tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.</p>\n'
       '<aside class="disc-cta"><p><strong>Bunun gibi araçları her gün TreScout yakalıyor.</strong> GitHub, Hacker News ve HuggingFace taranır, öne çıkanlar Türkçe özetlenir.</p>'
       +FORM+'<a class="btn btn-ghost disc-cta-all" href="/discover/">Tüm keşifler →</a></aside>\n'
@@ -416,21 +457,29 @@ def base_entry(n, rich, reason, key=None):
     c={"slug":n["slug"],"title":n["title"],"tagline":n["tagline"],"meta":meta,
        "image":f"/assets/discover/og/{n['slug']}.webp","source":"GitHub","date":n["date"],
        "tags":n["tags"],"stars":n["stars"]}
-    if rich:
+    if n.get("summary"):
+        c["summary"] = n["summary"]
+    curated = bool(rich or n.get("editorial") or n.get("cmds"))
+    if n.get("headline"):
+        c["headline"] = n["headline"]
+    if curated:
         c["lite"]=False
         if n.get("headline_locked") and n.get("headline"):  # elle yazılmış başlık · model üzerine yazamaz
             c["headline"]=n["headline"]; c["headline_locked"]=True
-        elif rich.get("baslik"):  # detay sayfası editöryel H1
+        elif rich and rich.get("baslik"):  # detay sayfası editöryel H1
             nb=vet_headline(normalize_headline(rich["baslik"].strip()), n, key)
             eski=n.get("headline")
             if nb: c["headline"]=nb
             elif eski and not _ai_iddiasi(eski): c["headline"]=eski  # reddedildi · mevcut başlık temizse korunur
         if n.get("shot"): c["shot"]=n["shot"]
         if n.get("cmds"): c["cmds"]=n["cmds"]
+        if n.get("editorial"): c["editorial"]=n["editorial"]
+        if n.get("sources"): c["sources"]=n["sources"]
+        if n.get("localized"): c["localized"]=n["localized"]
         if n.get("trescout_notu"): c["trescout_notu"]=n["trescout_notu"]
         for k in ("guncellemeler","last_review","arsivlendi"):
             if n.get(k): c[k]=n[k]
-        if not (rich.get("kurulum") or rich.get("calistirma") or n.get("cmds")):  # hiç komut yok → kuyrukta (insan komut bulur/ekler, --done ile kapatır)
+        if not (rich and (rich.get("kurulum") or rich.get("calistirma")) or n.get("cmds") or n.get("editorial")):  # hiç komut/kürasyon yok → kuyrukta
             c["needs_enrichment"]=True; c["enrich_reason"]="komutsuz"
     else:
         c.update({"lite":True,"needs_enrichment":True,"enrich_reason":reason})
@@ -569,12 +618,15 @@ def _basligi_denetle(n, rich, key):
     else: rich.pop("baslik",None)   # temiz başlık yok · sayfa repo adına düşsün
 
 
-def process_one(n, key):
-    """Entry'i zenginleştir + sayfa & kart yaz. Döner: (rich|None, reason|None)."""
-    rich,reason=enrich_entry(n["url"],n["title"],n.get("summary",""),key)
+def process_one(n, key, editorial=None):
+    """Entry'i zenginleştir + sayfa & kart yaz. Elle editorial varsa dış model çağrılmaz."""
+    rich,reason=(None,None) if editorial else enrich_entry(n["url"],n["title"],n.get("summary",""),key)
     _basligi_denetle(n, rich, key)
+    page_data=dict(n)
+    if editorial:
+        page_data["editorial"]=editorial
     os.makedirs(os.path.join(DISC,n["slug"]),exist_ok=True)
-    open(os.path.join(DISC,n["slug"],"index.html"),"w",encoding="utf-8").write(build_page(n,rich))
+    open(os.path.join(DISC,n["slug"],"index.html"),"w",encoding="utf-8").write(build_page(page_data,rich))
     card=os.path.join(OGDIR,n["slug"]+".webp")
     if not os.path.exists(card):   # kart başlık/tagline'a bağlı · varsa yeniden üretme (gereksiz binary churn yok)
         make_card(n["slug"],n["title"],n["tagline"],n["stars"],n["lang"],card)
@@ -589,11 +641,11 @@ def reprocess(cat, by_slug, key, targets, label):
         m=re.search(r'"codeRepository":\s*"([^"]+)"',t) or re.search(r'href="(https://github\.com/[^"]+?)"',t)
         lang,stars,momentum=parse_meta(c.get("meta",""))
         ls=re.search(r'<p class="disc-lead">(.*?)</p>',t,re.S)
-        summary=html.unescape(re.sub(r'<[^>]+>','',ls.group(1))).strip() if ls else c.get("tagline","")
+        summary=c.get("summary") or (html.unescape(re.sub(r'<[^>]+>','',ls.group(1))).strip() if ls else c.get("tagline",""))
         rows.append({"slug":c["slug"],"title":c["title"],"tagline":c["tagline"],"summary":summary,"headline":c.get("headline"),
                      "url":m.group(1) if m else "","lang":lang,"stars":c.get("stars",stars),
                      "momentum":momentum,"date":c.get("date",TODAY),"tags":c.get("tags") or infer_tags(summary),
-                     "shot":c.get("shot"),"cmds":c.get("cmds"),"trescout_notu":c.get("trescout_notu"),
+                     "shot":c.get("shot"),"cmds":c.get("cmds"),"editorial":c.get("editorial"),"sources":c.get("sources"),"localized":c.get("localized"),"trescout_notu":c.get("trescout_notu"),
                      "headline_locked":c.get("headline_locked"),
                      "guncellemeler":c.get("guncellemeler"),"last_review":c.get("last_review"),
                      "arsivlendi":c.get("arsivlendi")})
@@ -603,7 +655,10 @@ def reprocess(cat, by_slug, key, targets, label):
         print("[--dry] yazılmadı."); return
     nrich=nlite=0
     for n in rows:
-        rich,reason=process_one(n,key)
+        if not key and not (n.get("editorial") or n.get("cmds") or n.get("trescout_notu") or n.get("shot")):
+            print(f"  ! {n['slug']}: model anahtarı yok · mevcut sayfa korunuyor")
+            continue
+        rich,reason=process_one(n,key,n.get("editorial"))
         by_slug[n["slug"]].clear(); by_slug[n["slug"]].update(base_entry(n,rich,reason,key))
         if rich: nrich+=1; print(f"  ✅ zengin: {n['slug']} · kurulum {len(rich['kurulum'])} · çalıştırma {len(rich['calistirma'])} · prompt {'var' if rich['ai_prompt'] else 'yok'}")
         else: nlite+=1; print(f"  ◦ lite kaldı: {n['slug']} ({reason})")
@@ -832,7 +887,7 @@ def main():
         return
     nrich=nlite=0
     for n in new:
-        rich,reason=process_one(n,key)
+        rich,reason=process_one(n,key,n.get("editorial"))
         cat.append(base_entry(n,rich,reason,key))
         if rich: nrich+=1; print(f"  ✅ zengin: {n['slug']}")
         else: nlite+=1; print(f"  ◦ lite: {n['slug']} ({reason})")

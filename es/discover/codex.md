@@ -1,45 +1,63 @@
-# Codificación basada en inteligencia artificial a través de terminal
+# Programación asistida por IA en la terminal
 
-Desarrollado con el lenguaje Rust, Codex es un agente de codificación leve que roda en la terminal. Oferece sugerencias y ediciones de código directamente en la línea de comando para agilizar los procesos de desarrollo de software.
+Codex CLI es un agente de programación que se ejecuta en la terminal de su computadora local. Puede revisar código, realizar cambios en archivos y ejecutar comandos.
 
 - ★ 115.876
-- Rust
 - GitHub Trending · 2026-08-23
 
-## Qué aporta
-- Ofrece sugerencias de código y ediciones directamente en la línea de comando.
-- Funciona integrado con planes de suscripción ChatGPT
-- Proporciona opciones de instalación sencillas para diferentes sistemas operativos.
+## ¿Qué hace esta herramienta?
+Codex CLI es un agente de programación que se ejecuta en la terminal de su computadora local. Puede revisar el código en un directorio de proyecto, realizar cambios en archivos, ejecutar comandos y ayudar a automatizar tareas repetitivas.
+
+## ¿Para quién es?
+Desarrolladores que quieran trabajar en la terminal, revisar la base de código, editar archivos y automatizar tareas repetitivas de desarrollo.
+
+## Qué no esperar
+Puede que no sea adecuado para quienes no quieran utilizar la terminal.
+
+## Aspectos destacados
+- Puede revisar código y realizar cambios en archivos.
+- Puede ejecutar comandos y automatizar tareas repetitivas.
+- El modelo, el reasoning effort, los permisos y las aprobaciones de comandos pueden ser gestionados por el usuario.
+- El repositorio de GitHub tiene licencia Apache-2.0.
+
+## Primer flujo de uso
+- Elija el método de instalación oficial adecuado para su sistema operativo.
+- Inicie Codex CLI después de la instalación.
+- Inicie sesión con ChatGPT u otro método de inicio de sesión disponible.
+- Comience en el directorio del proyecto. Cree un checkpoint de Git antes y después de los cambios.
+
+## Inicio seguro
+
+## Primer prompt
+En el primer uso, puede comenzar con una solicitud de revisión que explique el propósito del proyecto y la estructura de los archivos.
 
 ## Instalación
-**Instalación para Mac o Linux**
+**macOS o Linux**
 
 ```
 curl -fsSL https://chatgpt.com/codex/install.sh | sh
 ```
 
-**Instalación con el administrador de paquetes Homebrew**
+**Windows PowerShell**
 
 ```
-brew install --cask codex
+powershell -ExecutionPolicy ByPass -c "irm https://chatgpt.com/codex/install.ps1 | iex"
 ```
 
 
 ## Ejecución
-**Iniciando la herramienta**
+**Iniciar Codex CLI**
 
 ```
 codex
 ```
 
 
-## Si no programa
-¿Cómo puedo acelerar mis procesos de desarrollo de software utilizando esta herramienta de inteligencia artificial ejecutándose en el terminal? ¿Qué comandos debo usar para obtener sugerencias de código y editar mis archivos existentes después de iniciar sesión con mi cuenta ChatGPT?
-
 ## Términos relacionados del glosario
 
 ## Enlaces
 - Repositorio en GitHub →
+- Documentación oficial de Codex CLI →
 - Leer en turco →
 
 ---
