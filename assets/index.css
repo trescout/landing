@@ -1784,3 +1784,147 @@
 
 /* ---------- TIME-STRIP THUMB · eski inline style="left:37.5%" ---------- */
 .time-strip-thumb--0900 { left: 37.5%; }
+
+
+/* ---------- dönüşüm P0 · canlı değeri formdan önce göster ---------- */
+.hero-value-promise {
+  max-width: 560px;
+  margin: -18px 0 24px;
+  padding: 13px 16px;
+  color: var(--ink-muted);
+  background: rgba(95, 168, 211, 0.08);
+  border-left: 3px solid var(--brand-light);
+  border-radius: 0 10px 10px 0;
+  font-size: 14px;
+  line-height: 1.65;
+}
+.hero-value-promise::first-line { color: var(--ink); }
+.hero-archive-link {
+  display: inline-block;
+  margin-top: 5px;
+  color: var(--accent);
+  font-weight: 700;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.hero-archive-link:hover,
+.hero-archive-link:focus-visible { text-decoration: underline; }
+
+/* ---------- interaktif rapor tadımı ---------- */
+.report-tasting {
+  margin-top: 34px;
+  padding: 24px;
+  background: var(--bg-elevated);
+  border: 1px solid rgba(244, 211, 94, 0.22);
+  border-radius: 16px;
+  box-shadow: 0 18px 44px rgba(0, 0, 0, 0.18);
+}
+.report-tasting-kicker {
+  margin-bottom: 8px;
+  color: var(--accent);
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+.report-tasting h3 {
+  margin: 0;
+  color: #fff;
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: clamp(22px, 3vw, 30px);
+  line-height: 1.12;
+}
+.report-tasting-intro {
+  max-width: 62ch;
+  margin: 11px 0 18px;
+  color: var(--ink-muted);
+  font-size: 15px;
+  line-height: 1.6;
+}
+.tasting-tabs {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 14px;
+  overflow-x: auto;
+  scrollbar-width: thin;
+}
+.tasting-tabs [role="tab"] {
+  flex: 0 0 auto;
+  padding: 8px 13px;
+  color: var(--ink-muted);
+  background: transparent;
+  border: 1px solid rgba(95, 168, 211, 0.24);
+  border-radius: 999px;
+  cursor: pointer;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 700;
+  transition: color 0.16s ease, background 0.16s ease, border-color 0.16s ease, transform 0.16s ease;
+}
+.tasting-tabs [role="tab"]:hover,
+.tasting-tabs [role="tab"]:focus-visible {
+  color: var(--ink);
+  border-color: var(--brand-light);
+}
+.tasting-tabs [role="tab"]:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+.tasting-tabs [role="tab"][aria-selected="true"] {
+  color: #15202B;
+  background: var(--accent);
+  border-color: var(--accent);
+}
+.tasting-tabs [role="tab"]:active { transform: scale(0.97); }
+.tasting-panel {
+  min-height: 145px;
+  padding: 17px 18px;
+  background: rgba(15, 25, 41, 0.48);
+  border: 1px solid rgba(95, 168, 211, 0.16);
+  border-radius: 12px;
+}
+.tasting-panel[hidden] { display: none; }
+.tasting-meta {
+  display: block;
+  margin-bottom: 10px;
+  color: var(--brand-light);
+  font-size: 11.5px;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+.tasting-source-title {
+  display: block;
+  margin-bottom: 8px;
+  color: var(--ink);
+  font-family: 'SF Mono', ui-monospace, Menlo, Consolas, monospace;
+  font-size: 15px;
+}
+.tasting-panel p {
+  max-width: 68ch;
+  margin: 0 0 12px;
+  color: var(--ink-muted);
+  font-size: 15px;
+  line-height: 1.65;
+}
+.tasting-panel a {
+  color: var(--accent);
+  font-size: 13px;
+  font-weight: 700;
+}
+.tasting-note {
+  margin: 12px 0 0;
+  color: var(--ink-muted);
+  font-size: 12px;
+  line-height: 1.5;
+  opacity: 0.82;
+}
+
+@media (max-width: 640px) {
+  .hero-value-promise { margin-top: -10px; font-size: 13.5px; }
+  .hero-archive-link { display: block; white-space: normal; }
+  .report-tasting { padding: 19px 16px; }
+  .tasting-panel { min-height: 165px; padding: 15px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .tasting-tabs [role="tab"] { transition: none; }
+}
