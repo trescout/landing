@@ -178,8 +178,8 @@ def render_page(e, en_map):
       f'<title>{esc(title)}</title>\n<meta name="description" content="{esc(kisa)}">\n<link rel="icon" type="image/svg+xml" href="/favicon.svg">\n'
       f'<link rel="canonical" href="{canon}">\n<meta property="og:title" content="{esc(en+" nedir?")}">\n<meta property="og:description" content="{esc(kisa)}">\n'
       f'<meta property="og:url" content="{canon}">\n<meta property="og:type" content="article">\n<meta property="og:locale" content="tr_TR">\n'
-      f'<meta property="og:image" content="{ogimg}">\n<meta property="og:image:width" content="1200">\n<meta property="og:image:height" content="630">\n'
-      f'<meta name="twitter:card" content="summary_large_image">\n<meta name="twitter:site" content="@GetTreScout">\n<meta name="twitter:title" content="{esc(en+" nedir?")}">\n<meta name="twitter:image" content="{ogimg}">\n'
+      f'<meta property="og:image" content="{ogimg}">\n<meta property="og:image:width" content="1200">\n<meta property="og:image:height" content="630">\n<meta property="og:image:alt" content="{esc(en+" nedir?")}">\n'
+      f'<meta name="twitter:card" content="summary_large_image">\n<meta name="twitter:site" content="@GetTreScout">\n<meta name="twitter:title" content="{esc(en+" nedir?")}">\n<meta name="twitter:description" content="{esc(kisa[:155])}">\n<meta name="twitter:image" content="{ogimg}">\n'
       f'<script type="application/ld+json">\n{dt}\n</script>\n{faqjson}<link rel="alternate" type="text/markdown" href="/dictionary/{slug}.md">\n'
       '<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>\n      <link rel="preload" href="/assets/fonts/inter-latin-ext.woff2" as="font" type="font/woff2" crossorigin>\n'
       '<link rel="stylesheet" href="/assets/site.css">\n<link rel="stylesheet" href="/assets/discover.css">\n<link rel="stylesheet" href="/assets/dictionary.css">\n</head>\n')
@@ -227,7 +227,8 @@ def render_index(manifest):
       '<meta property="og:title" content="Teknoloji Sözlüğü · TreScout">\n<meta property="og:description" content="Yapay zekâ ve yazılım terimlerinin sade Türkçe açıklamaları.">\n'
       '<meta property="og:url" content="https://trescout.com/dictionary/">\n<meta property="og:type" content="website">\n<meta property="og:locale" content="tr_TR">\n'
       '<meta property="og:image" content="https://trescout.com/assets/dictionary/og-default.webp">\n<meta property="og:image:width" content="1200">\n<meta property="og:image:height" content="630">\n'
-      '<meta name="twitter:card" content="summary_large_image">\n<meta name="twitter:site" content="@GetTreScout">\n<meta name="twitter:image" content="https://trescout.com/assets/dictionary/og-default.webp">\n'
+      '<meta property="og:image:alt" content="Teknoloji Sözlüğü · TreScout">\n'
+      '<meta name="twitter:card" content="summary_large_image">\n<meta name="twitter:site" content="@GetTreScout">\n<meta name="twitter:title" content="Teknoloji Sözlüğü · TreScout">\n<meta name="twitter:description" content="Yapay zekâ ve yazılım terimlerinin sade Türkçe açıklamaları.">\n<meta name="twitter:image" content="https://trescout.com/assets/dictionary/og-default.webp">\n'
       f'<script type="application/ld+json">\n{jl}\n</script>\n'
       '<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>\n'
       '<link rel="stylesheet" href="/assets/site.css">\n<link rel="stylesheet" href="/assets/discover.css">\n<link rel="stylesheet" href="/assets/dictionary.css">\n</head>\n')

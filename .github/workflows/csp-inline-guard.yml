@@ -64,3 +64,9 @@ jobs:
       # düzeltmesi: python3 scripts/hreflang-normalize.py
       - name: hreflang kontrolü
         run: python3 scripts/check-hreflang.py
+
+      # Metadata, visible content ↔ JSON-LD doğruluğu, resmi AI crawler izinleri
+      # ve erken erişim endpoint sözleşmesi. Guard yalnız dosya okur; ağ/e-posta
+      # isteği göndermez.
+      - name: SEO/GEO kontrolü
+        run: python3 scripts/check-seo-geo.py

@@ -9,12 +9,13 @@ dict-sync ekliyordu, İngilizce tarafı ise tek seferlik bir betik doldurmuştu 
 o günden sonra güncellenmedi. 2026-08-06 denetiminde 154 sayfa (İngilizce
 raporlar, tekrarsız arşiv, yeni sözlük ve keşif sayfaları) sitemap dışındaydı.
 
-Mevcut girdilerin lastmod'una DOKUNMAZ · yalnız eksikleri ekler, ölüleri siler.
-Böylece her çalıştırmada tüm arşivin tarihi tazelenmiş gibi görünmez.
+Mevcut girdilerin lastmod'una yalnız ilgili HTML veya aydınlatma sayfası gerçekten
+HEAD'e göre değişmişse dokunur. Böylece her çalıştırmada tüm arşivin tarihi
+tazelenmiş gibi görünmez.
 
 Kullanım: python3 scripts/sitemap-sync.py [--dry]
 """
-import os, re, sys, glob, datetime
+import os, re, sys, glob, datetime, subprocess
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from diller import DILLER  # noqa: E402
@@ -23,7 +24,37 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITEMAP = os.path.join(ROOT, "sitemap.xml")
 BASE = "https://trescout.com"
 TODAY = os.environ.get("DICT_DATE") or datetime.date.today().isoformat()
-DRY = "--dry" in sys.argv
+DRY="--dry" in sys.argv
+
+
+def changed_urls():
+    """HEAD'e göre gerçekten değişen veya yeni eklenen HTML URL'lerini çıkar."""
+    names = set()
+    try:
+        names.update(subprocess.check_output(
+            ["git", "diff", "--name-only", "HEAD"], cwd=ROOT, text=True
+        ).splitlines())
+        names.update(subprocess.check_output(
+            ["git", "ls-files", "--others", "--exclude-standard"], cwd=ROOT, text=True
+        ).splitlines())
+    except (OSError, subprocess.CalledProcessError):
+        return set()
+
+    out = set()
+    for name in names:
+        name = name.strip().replace(os.sep, "/")
+        if name == "index.html":
+            url = "/"
+        elif name.endswith("/index.html"):
+            url = f"/{name[:-len('/index.html')]}/"
+        elif name == "privacy.html" or name.endswith("/privacy.html"):
+            url = f"/{name}"
+        else:
+            continue
+        if url not in ATLA:
+            out.add(url)
+    return out
+
 
 # Yayına girmeyen sayfalar · 404 ve gizlilik metni sitemap'te olmasın diye ayrı tutulur
 ATLA = {"/404/", "/en/404/", "/fr/404/"}
@@ -81,6 +112,16 @@ def main():
     hedef = disk_urls()
     eksik = sorted(hedef - set(mevcut))
     olu = sorted(set(mevcut) - hedef)
+    degisen = changed_urls()
+    tazelenen = []
+
+    for u in sorted(degisen & set(mevcut)):
+        blok = mevcut[u]
+        if re.search(r"<lastmod>[^<]+</lastmod>", blok):
+            yeni_blok = re.sub(r"<lastmod>[^<]+</lastmod>", f"<lastmod>{TODAY}</lastmod>", blok, count=1)
+            if yeni_blok != blok:
+                mevcut[u] = yeni_blok
+                tazelenen.append(u)
 
     for u in eksik:
         cf, pr = oncelik(u)
@@ -100,7 +141,7 @@ def main():
         if "--force" not in sys.argv:
             sys.exit(1)
 
-    print(f"sitemap · disk {len(hedef)} sayfa · eklenen {len(eksik)} · silinen {len(olu)}")
+    print(f"sitemap · disk {len(hedef)} sayfa · eklenen {len(eksik)} · silinen {len(olu)} · lastmod yenilenen {len(tazelenen)}")
     if eksik:
         print("  eklenen örnek:", eksik[:4])
     if olu:
@@ -108,7 +149,7 @@ def main():
     if DRY:
         print("[--dry] yazılmadı.")
         return
-    if not eksik and not olu:
+    if not eksik and not olu and not tazelenen:
         return
 
     def sirala(u):

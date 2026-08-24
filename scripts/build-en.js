@@ -30,6 +30,8 @@ const CAT_JSON = path.join(ROOT, 'assets', 'discover', 'catalog.json');
 const SITEMAP = path.join(ROOT, 'sitemap.xml');
 const TODAY = new Date().toISOString().split('T')[0];
 const BASE_URL = process.env.SITE_URL || 'https://trescout.com';
+const esc = (value) => String(value ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;')
+  .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 
 let dictionary, catalog;
 try {
@@ -373,6 +375,15 @@ ${hreflang('/dictionary/', '/dictionary/')}
 <meta property="og:url" content="${BASE_URL}${PRE}/dictionary/">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="${D.og_locale}">
+<meta property="og:image" content="${BASE_URL}/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="${esc(D.sozluk_dizin_baslik)}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@GetTreScout">
+<meta name="twitter:title" content="${esc(D.sozluk_dizin_baslik)}">
+<meta name="twitter:description" content="${esc(D.sozluk_dizin_aciklama)}">
+<meta name="twitter:image" content="${BASE_URL}/og-image.png">
 ${kafa()}
 <link rel="stylesheet" href="/assets/dictionary.css">
 </head>
@@ -445,6 +456,15 @@ ${hreflang('/discover/', '/discover/')}
 <meta property="og:url" content="${BASE_URL}${PRE}/discover/">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="${D.og_locale}">
+<meta property="og:image" content="${BASE_URL}/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="${esc(D.kesif_dizin_baslik)}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@GetTreScout">
+<meta name="twitter:title" content="${esc(D.kesif_dizin_baslik)}">
+<meta name="twitter:description" content="${esc(D.kesif_dizin_aciklama)}">
+<meta name="twitter:image" content="${BASE_URL}/og-image.png">
 ${kafa()}
 </head>
 <body>
