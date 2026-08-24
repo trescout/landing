@@ -8,3 +8,4 @@
 | 2026-08-23 | Manus | SEO/GEO metadata, hreflang, llms index, rapor açıklamaları ve read-only guard · erken erişim kayıt/bildirim akışı korundu | Manus AI | Plan Agent + Manual | `fix/seo-geo-early-access-safe` |
 | 2026-08-24 | Manus | Oto-büyüme workflow'unda stale generated tree rebase çatışması recovery düzeltmesi · e-posta akışına dokunulmadı | Manus AI | Plan Agent + Manual | `fix/dict-sync-stale-main` |
 | 2026-08-24 | Manus | Keşif katalog tagline dil kirliliği düzeltmesi · 14 kayıt × 6 dil, Türkçe lead/meta/JSON-LD ve OG kartları · dil kalite guard’ı | Gemini + Claude + Manus | Türkçe İçerik + Denetim + Manual | `fix/discovery-language-quality` |
+| 2026-08-24 | Manus | Discovery “En yeni” sıralamasını son görülmeden ilk keşif tarihine düzeltme · ECC denetimi ve 6 dil sort guard’ı | Manus AI | Denetim + Manual | `fix/discovery-newest-sort` |

@@ -98,8 +98,11 @@
     });
     if (state.sort === 'stars') list.sort(function (a, b) { return (b.stars || 0) - (a.stars || 0); });
     else if (state.sort === 'date') list.sort(function (a, b) {
-      var ad = a.last_seen || a.date || '';
-      var bd = b.last_seen || b.date || '';
+      // “Newest” means first discovery, not the last report in which an
+      // existing project appeared again. `last_seen` remains available in the
+      // catalog for freshness analytics and future UI filters.
+      var ad = a.date || '';
+      var bd = b.date || '';
       return bd.localeCompare(ad) || (b.stars || 0) - (a.stars || 0);
     });
     else list.sort(function (a, b) { return (a.title || '').localeCompare(b.title || '', M.dizi); });
