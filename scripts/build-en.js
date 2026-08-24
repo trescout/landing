@@ -405,7 +405,9 @@ const discIndexDir = path.join(ROOT, LANG, 'discover');
 fs.mkdirSync(discIndexDir, { recursive: true });
 const discKabuk = kabuk('discover', { TR: '/discover/', EN: '/en/discover/', FR: '/fr/discover/' });
 
-const discCards = catalog.map(c => {
+const discCards = [...catalog].sort((a, b) =>
+  String(b.date || '').localeCompare(String(a.date || '')) || (b.stars || 0) - (a.stars || 0),
+).map(c => {
   const tagline = c[D.tagline_alan] || c.tagline || '';
   const searchAttr = `${c.title} ${tagline} ${c.slug}`.replace(/"/g, '&quot;');
   // Kapak metni görsele gömülü · o dilin kapağı varsa onu kullan (kapak-gorselleri.py)

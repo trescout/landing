@@ -79,6 +79,7 @@ python3 scripts/ikiz-tara.py || true
 python3 scripts/check-hreflang.py
 python3 scripts/check-seo-geo.py
 python3 scripts/check-discovery-language.py
+python3 scripts/check-discovery-sort.py
 
 if [[ -n "$(git status --porcelain)" ]]; then
   git add -A

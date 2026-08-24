@@ -789,8 +789,9 @@ def main():
         reprocess(cat, by_slug, key, [c for c in cat if c["slug"] in slugs], "--reprocess="+",".join(sorted(slugs))); return
     ex=existing_urls(); items=report_items(); cat_slugs=set(by_slug)
     # Mevcut entry'lerde ilk keşif tarihi korunur; son raporda yeniden
-    # görüldüğü tarih ayrı tutulur. Böylece "En yeni" görünümü gerçekten
-    # günlük raporu yansıtır ve tarih geriye sabitlenmez.
+    # görüldüğü tarih ayrı tutulur. “En yeni” görünümü ilk keşif tarihini
+    # gösterir; son görülme bilgisi ileride ayrı bir freshness filtresinde
+    # kullanılabilir ve ilk keşif tarihini geriye çekmez.
     url_to_entry={}
     for c in cat:
         f=os.path.join(DISC,c["slug"],"index.html")
