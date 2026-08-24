@@ -2,7 +2,7 @@
 
 Supported by large language models, this system analyzes multi-source market data and real-time news and offers visualized panels for investment decisions. It standardizes analysis processes for different exchanges with automatic notifications and free scheduled study support.
 
-- ★ 61,388
+- ★ 63,731
 - Python
 - GitHub Trending · 2026-06-22
 

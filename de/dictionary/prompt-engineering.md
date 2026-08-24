@@ -28,5 +28,8 @@ Nein, im Gegenteil, es wird zu einer wichtigeren Fähigkeit für die Verwaltung 
 - [LLM](/de/dictionary/llm/)
 - [AI Skills](/de/dictionary/ai-skills/)
 
+## Verwandte Werkzeuge
+- [Awesome Gpt Image 2](/de/discover/awesome-gpt-image-2/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/prompt-engineering/

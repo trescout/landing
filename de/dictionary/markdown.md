@@ -32,8 +32,8 @@ Sie können es mit jedem Texteditor öffnen, aber mit speziellen Viewern können
 - [Firecrawl](/de/discover/firecrawl/)
 - [PaddleOCR](/de/discover/paddleocr/)
 - [MinerU](/de/discover/mineru/)
-- [Crawl4AI](/de/discover/crawl4ai/)
 - [Scrapling](/de/discover/scrapling/)
+- [Crawl4AI](/de/discover/crawl4ai/)
 - [Obsidian Skills](/de/discover/obsidian-skills/)
 - [Opendataloader PDF](/de/discover/opendataloader-pdf/)
 

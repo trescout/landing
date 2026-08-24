@@ -2,7 +2,7 @@
 
 Développé dans le langage Rust, le Codex est un agent de codification élevé qui ne rentre pas dans le terminal. Nous proposons des suggestions et des éditions de code directement depuis la ligne de commande pour améliorer les processus de développement du logiciel.
 
-- ★ 113 813
+- ★ 115 876
 - Rust
 - GitHub Trending · 2026-08-23
 

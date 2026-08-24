@@ -32,6 +32,7 @@ Nein, seine Fähigkeiten werden je nach Verwendungszweck des Agenten angepasst (
 - [Agent Skills](/de/discover/agent-skills/)
 - [Taste Skill](/de/discover/taste-skill/)
 - [OpenMontage](/de/discover/openmontage/)
+- [Awesome Agent Skills](/de/discover/awesome-agent-skills/)
 - [Agentskills](/de/discover/agentskills/)
 - [Text to Cad](/de/discover/text-to-cad/)
 - [Stitch Skills](/de/discover/stitch-skills/)

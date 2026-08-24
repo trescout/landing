@@ -25,6 +25,7 @@ Les applications locales peuvent souvent être sauvegardées dans le cloud de ma
 - [Personal Cloud](/fr/dictionary/personal-cloud/)
 
 ## Outils liés
+- [Openhuman](/fr/discover/openhuman/)
 - [Agentsview](/fr/discover/agentsview/)
 - [Wigolo](/fr/discover/wigolo/)
 

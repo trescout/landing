@@ -2,7 +2,7 @@
 
 Comme un outil de développement de logiciels basés sur Python, OBLITERATUS élimine les dépendances nécessaires et les structures complexes des bases de code. Dans le projet, il n'y a pas de réduction, ce n'est pas un problème, c'est une question de temps.
 
-- ★ 7 838
+- ★ 7 994
 - Python
 - GitHub Trending · 2026-08-22
 

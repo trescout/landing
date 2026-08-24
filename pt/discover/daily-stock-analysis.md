@@ -2,7 +2,7 @@
 
 Apoiado em grandes modelos de linguagem, este sistema analisa dados de mercado de múltiplas fontes e notícias em tempo real e oferece painéis visualizados para decisões de investimento. Padroniza processos de análise para diferentes exchanges com notificações automáticas e suporte gratuito para estudos agendados.
 
-- ★ 61.388
+- ★ 63.731
 - Python
 - GitHub Trending · 2026-06-22
 

@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve web/PDF rapor olarak yayımlar. E-posta teslimatı erken erişim aşamasında hazırlanıyor.
 
-Son güncelleme: 2026-08-23 · 463 araç · 531 terim
+Son güncelleme: 2026-08-24 · 468 araç · 535 terim
 
 ---
 
@@ -2088,6 +2088,47 @@ Her bir servisi tek tek dış dünyaya açmak yerine, tek bir noktadan yönetmek
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/api-gateway/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Append-only nedir?
+
+**Kategori:** Veri & Altyapı  
+**Son güncelleme:** 2026-08-24
+
+Verilerin sadece sona eklenebildiği, değiştirilemediği veya silinemediği bir kayıt yöntemidir.
+
+## Tanım
+Bir veri tabanına veya dosyaya bilgi eklerken, eski verileri değiştirmek yerine her yeni bilgiyi listenin sonuna ekleme prensibidir. Bu yöntem, verinin geçmişini korumak ve güvenliğini sağlamak için kritiktir. Hiçbir veri silinmediği için sistemdeki tüm hareketlerin izini sürmek mümkündür.
+
+## Bir benzetmeyle
+Bir muhasebe defterine kurşun kalemle yazmak yerine, tükenmez kalemle her işlemi bir alt satıra yazmak gibidir; eski sayfaları karalayamazsınız.
+
+## Nasıl çalışır?
+Sistem, veriyi güncelleyen bir komut yerine sadece 'ekle' komutunu kabul eder. Bu sayede verinin tarihçesi her zaman korunmuş olur.
+
+## Nerede kullanılır?
+Blokzincir teknolojilerinde, günlük (log) tutma sistemlerinde ve denetlenebilir veri tabanlarında kullanılır.
+
+## Sık karıştırılanlar
+Geleneksel veri tabanları ile karıştırılabilir; geleneksel olanlar veriyi güncelleyebilir, bu yöntem ise asla izin vermez.
+
+## Sıkça sorulanlar
+
+**Hata yaparsam ne olur?**  
+Hatalı veriyi silmek yerine, hatayı düzelten yeni bir kayıt daha eklersiniz.
+
+**Neden bu kadar güvenli?**  
+Veri değiştirilemediği için geçmişe dönük manipülasyon yapmak imkansıza yakındır.
+
+## İlgili terimler
+- [Database](/dictionary/database/)
+- [Logs](/dictionary/logs/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/append-only/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -9492,6 +9533,48 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Hive Mind nedir?
+
+**Kategori:** Yapay Zekâ  
+**Son güncelleme:** 2026-08-24
+
+Birbirine bağlı birçok yapay zekâ biriminin ortak bir zeka gibi hareket etmesidir.
+
+## Tanım
+Doğadaki karınca kolonileri gibi, çok sayıda bağımsız yapay zekâ biriminin bir araya gelerek tek bir büyük zeka gibi davranmasıdır. Her birim kendi uzmanlığına sahiptir ancak ortak bir amaç için sürekli iletişim halindedirler. Bu yapı, tek bir güçlü modelden ziyade, iş birliği yapan bir topluluğun gücünden yararlanır.
+
+## Bir benzetmeyle
+Bir orkestradaki her müzisyenin kendi enstrümanını çalarken, bir bütün olarak tek bir senfoniyi oluşturması gibidir.
+
+## Nasıl çalışır?
+Farklı görevlere atanmış yapay zekâ ajanları, bir iletişim protokolü üzerinden birbirlerine veri aktarır ve ortak bir hedefe doğru kararlar alırlar.
+
+## Nerede kullanılır?
+Karmaşık problem çözme, büyük ölçekli veri analizi ve otonom robotik sistemlerde kullanılır.
+
+## Sık karıştırılanlar
+Multi-agent sistemlerle benzerdir ancak burada vurgu, birimlerin tek bir zihin gibi hareket etmesindedir.
+
+## Sıkça sorulanlar
+
+**Hive mind neden daha iyidir?**  
+Tek bir modelin kapasitesini aşan karmaşık sorunları, iş bölümü yaparak çok daha hızlı çözebilir.
+
+**Birimler nasıl haberleşir?**  
+Genellikle ortak bir mesajlaşma protokolü veya paylaşılan bir bellek alanı üzerinden haberleşirler.
+
+## İlgili terimler
+- [Multi-agent](/dictionary/multi-agent/)
+- [Swarm Intelligence](/dictionary/swarm-intelligence/)
+- [AI Agent](/dictionary/ai-agent/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/hive-mind/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Hive Mind Communication nedir?
 
 **Kategori:** Yapay Zekâ  
@@ -15025,6 +15108,46 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Prompt as Code nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-08-24
+
+Yapay zekâ komutlarının yazılım kodu gibi yönetilmesi, versiyonlanması ve test edilmesidir.
+
+## Tanım
+Yazılım dünyasında kodlarımızı nasıl versiyon kontrol sistemlerinde saklıyorsak, yapay zekâya verdiğimiz komutları da aynı disiplinle yönetme yaklaşımıdır. Bu yöntem, komutların geçmişini takip etmenizi, hatalı bir değişiklikte eskiye dönmenizi ve komutların performansını test etmenizi sağlar. Böylece yapay zekâdan aldığınız sonuçlar daha tutarlı ve güvenilir hale gelir.
+
+## Bir benzetmeyle
+Bir yemek tarifini deftere karalamak yerine, her denemeyi not alıp en iyi tarifi bir kitapta arşivlemek gibidir.
+
+## Nasıl çalışır?
+Komutlarınızı metin dosyaları olarak saklayın ve bu dosyaları Git gibi araçlarla takip edin. Her yeni komut değişikliğini bir 'commit' olarak kaydedin ve bu komutların yapay zekâ üzerindeki etkisini otomatik testlerle kontrol edin.
+
+## Nerede kullanılır?
+Yazılım geliştirme süreçlerinde, özellikle yapay zekâ destekli otomasyonlarda ve karmaşık sistemlerin yönetildiği projelerde kullanılır.
+
+## Sık karıştırılanlar
+Prompt engineering ile karıştırılabilir; ancak bu, işin teknik yönetim ve süreç kısmıdır.
+
+## Sıkça sorulanlar
+
+**Neden komutları kod gibi yönetmeliyim?**  
+Çünkü karmaşık sistemlerde hangi komutun neden çalıştığını veya neden bozulduğunu takip etmek bu sayede kolaylaşır.
+
+**Test etmek ne anlama geliyor?**  
+Komutun farklı girdilerle beklenen sonucu verip vermediğini otomatik olarak kontrol etmek demektir.
+
+## İlgili terimler
+- [Prompt Engineering](/dictionary/prompt-engineering/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/prompt-as-code/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Prompt Engineering nedir?
 
 **Kategori:** Yapay Zekâ  
@@ -18558,6 +18681,48 @@ Evet, genellikle birbirlerinin başarısından ders çıkararak zamanla daha ver
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/swarm-intelligence-engine/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Swarms nedir?
+
+**Kategori:** Yapay Zekâ  
+**Son güncelleme:** 2026-08-24
+
+Karmaşık görevleri çözmek için koordineli şekilde çalışan küçük yapay zekâ birimleri topluluğudur.
+
+## Tanım
+Birçok küçük ve özelleşmiş yapay zekâ biriminin, büyük ve hantal bir model yerine küçük görevleri paylaşarak çalışmasıdır. Bu birimler birbirleriyle sürekli haberleşerek karmaşık sorunları parçalara ayırır ve her parçayı en uygun birim çözer. Bu yapı, sistemin esnekliğini ve hızını artırır.
+
+## Bir benzetmeyle
+Büyük bir taşı tek başına kaldırmaya çalışan bir dev yerine, aynı taşı binlerce karıncanın iş birliğiyle taşıması gibidir.
+
+## Nasıl çalışır?
+Bir ana kontrolcü veya merkezi olmayan bir protokol ile görevler dağıtılır. Her birim kendi çıktısını diğerine ileterek nihai sonuca ulaşılır.
+
+## Nerede kullanılır?
+Otonom araçlar, lojistik planlama ve karmaşık yazılım geliştirme süreçlerinde kullanılır.
+
+## Sık karıştırılanlar
+Hive mind ile benzerdir; ancak swarm daha çok görev odaklı ve dinamik bir iş birliğini ifade eder.
+
+## Sıkça sorulanlar
+
+**Swarms neden verimlidir?**  
+Her birim kendi alanında uzmanlaştığı için kaynak kullanımı daha optimize olur.
+
+**Bir birim hata yaparsa sistem çöker mi?**  
+Hayır, diğer birimler bu hatayı telafi edebilir veya görevi devralabilir.
+
+## İlgili terimler
+- [Multi-agent](/dictionary/multi-agent/)
+- [Hive Mind](/dictionary/hive-mind/)
+- [AI Agent](/dictionary/ai-agent/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/swarms/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -23637,6 +23802,67 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Terminal üzerinden yapay zekâ destekli kodlama
+
+Desenvolvido com a linguagem Rust, Codex é um agente de codificação leve que roda no terminal. Oferece sugestões e edições de código diretamente pela linha de comando para agilizar os processos de desenvolvimento de software.
+
+- ★ 115.876
+- Rust
+- GitHub Trending · 2026-08-23
+
+## Güncelleme
+- 24 Ağustos 2026: Yıldız 113.813 → 115.876, son sürüm rust-v0.149.1 (24 Ağustos 2026).
+- 23 Ağustos 2026: Yıldız 113.793 → 113.813, son sürüm rust-v0.149.0 (20 Ağustos 2026).
+
+## Ne kazandırır?
+- Komut satırında doğrudan kod önerileri ve düzenlemeleri sunar
+- ChatGPT abonelik planları ile entegre çalışır
+- Farklı işletim sistemleri için kolay kurulum seçenekleri sağlar
+
+## Kurulum
+
+**Mac veya Linux için kurulum**
+
+```
+curl -fsSL https://chatgpt.com/codex/install.sh | sh
+```
+
+**Homebrew paket yöneticisi ile kurulum**
+
+```
+brew install --cask codex
+```
+
+## Çalıştırma
+
+**Aracı başlatma**
+
+```
+codex
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Terminal üzerinde çalışan bu yapay zekâ aracını kullanarak yazılım geliştirme süreçlerimi nasıl hızlandırabilirim? ChatGPT hesabımla giriş yaptıktan sonra kod önerileri almak ve mevcut dosyalarım üzerinde düzenlemeler yapmak için hangi komutları kullanmalıyım?
+
+- **Kimin için:** Kod yazma süreçlerini terminal üzerinden yönetmek isteyen yazılım geliştiriciler için uygundur. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/openai/codex)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-23 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Terminal Rust Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/codex/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Açık kaynaklı oyun geliştirme motoru
 
 Godot Motoru (Godot Engine), iki ve üç boyutlu oyun geliştirme süreçleri için kullanılan açık kaynaklı bir oyun motorudur. C++ diliyle geliştirilen bu platform, geliştiricilere farklı işletim sistemlerinde çalışabilen oyunlar üretme imkânı tanır.
@@ -23797,66 +24023,6 @@ Generative AI Jupyter Notebooks Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/generative-ai-for-beginners/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Terminal üzerinden yapay zekâ destekli kodlama
-
-Desenvolvido com a linguagem Rust, Codex é um agente de codificação leve que roda no terminal. Oferece sugestões e edições de código diretamente pela linha de comando para agilizar os processos de desenvolvimento de software.
-
-- ★ 113.813
-- Rust
-- GitHub Trending · 2026-08-23
-
-## Güncelleme
-- 23 Ağustos 2026: Yıldız 113.793 → 113.813, son sürüm rust-v0.149.0 (20 Ağustos 2026).
-
-## Ne kazandırır?
-- Komut satırında doğrudan kod önerileri ve düzenlemeleri sunar
-- ChatGPT abonelik planları ile entegre çalışır
-- Farklı işletim sistemleri için kolay kurulum seçenekleri sağlar
-
-## Kurulum
-
-**Mac veya Linux için kurulum**
-
-```
-curl -fsSL https://chatgpt.com/codex/install.sh | sh
-```
-
-**Homebrew paket yöneticisi ile kurulum**
-
-```
-brew install --cask codex
-```
-
-## Çalıştırma
-
-**Aracı başlatma**
-
-```
-codex
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Terminal üzerinde çalışan bu yapay zekâ aracını kullanarak yazılım geliştirme süreçlerimi nasıl hızlandırabilirim? ChatGPT hesabımla giriş yaptıktan sonra kod önerileri almak ve mevcut dosyalarım üzerinde düzenlemeler yapmak için hangi komutları kullanmalıyım?
-
-- **Kimin için:** Kod yazma süreçlerini terminal üzerinden yönetmek isteyen yazılım geliştiriciler için uygundur. 
-- **Lisans:** Apache-2.0 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/openai/codex)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-23 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Terminal Rust Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/codex/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -24489,15 +24655,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Caveman, Claude Code için geliştirilen ve yapay zekâ modelinin dil kullanımını basitleştirerek belirteç (token) tüketimini yüzde 65 oranında azaltan bir yetenek paketidir. Bu araç, karmaşık komutları ilkel bir dil yapısına indirgeyerek işlem maliyetlerini düşürmeyi hedefler.
 
-- ★ 99.496
+- ★ 100.541
 - JavaScript
 - GitHub Trending · 2026-07-03
 
 ## Güncelleme
+- 24 Ağustos 2026: Yıldız 99.496 → 100.541, son sürüm v2.3.1 (23 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 99.057 → 99.496, son sürüm v2.2.0 (20 Ağustos 2026).
 - 19 Ağustos 2026: Yıldız 98.567 → 99.057, son sürüm bin-v1.1.1 (18 Ağustos 2026).
 - 17 Ağustos 2026: Yıldız 97.574 → 98.567, son sürüm bin-v1.1.0 (16 Ağustos 2026).
-- 12 Ağustos 2026: Yıldız 95.589 → 97.574, son sürüm v2.0.0 (11 Ağustos 2026).
 
 ## Ne kazandırır?
 - Yapay zekâ yanıtlarında %65'e varan belirteç tasarrufu sağlar.
@@ -24941,7 +25107,7 @@ Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsini
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-WiFi Rust Open Source Artificial Intelligence
+WiFi Open Source Rust Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ruview/
@@ -26269,6 +26435,59 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Esnek web kazıma ile verilerinizi çekin
+
+Scrapling , tek bir istekten geniş kapsamlı tarama işlerine kadar her ölçeği yönetebilen uyarlanabilir bir web kazıma (scraping) çerçevesidir . Sayfa yapısı değişse dahi yüksek uyum sağlamayı hedefler. Python tabanlıdır.
+
+- ★ 76.147
+- Python
+- BSD-3-Clause
+- GitHub Trending · 1 Haziran 2026
+
+## Güncelleme
+- 24 Ağustos 2026: Yıldız 73.439 → 76.147, son sürüm v0.4.15 (23 Ağustos 2026).
+- 11 Ağustos 2026: Yıldız 73.309 → 73.439, son sürüm v0.4.14 (10 Ağustos 2026).
+- 10 Ağustos 2026: Yıldız 72.180 → 73.309, son sürüm v0.4.13 (9 Ağustos 2026).
+- 2 Ağustos 2026: Yıldız 57.333 → 72.180, son sürüm v0.4.12 (26 Temmuz 2026).
+
+- **Kimin için:** Veri kazıyan geliştiriciler 
+- **Zorluk:** Orta · Python 
+- **Ne sunar:** Uyarlanabilir, ölçeklenir scraping 
+- **Ücret:** Ücretsiz · açık kaynak (BSD-3) 
+- **Lisans:** BSD-3-Clause · ayrıntı aşağıda 
+
+## Ne kazandırır?
+- Tek bir istekle geniş çaplı tarama yapabilen kapsamlı araç.
+- Sayfa değişimlerine otomatik uyum sağlama.
+- Hızlı ve açık kaynaklı yapı.
+
+## Kurulum (tek komut)
+🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Scrapling adlı açık kaynaklı web kazıma kütüphanesini kurmama yardım et; 'pip install "scrapling[fetchers]"' ile yükleyip 'scrapling install' komutunu çalıştır, sonra 'scrapling extract get https://example.com content.md' komutuyla bir web sayfasının içeriğini Markdown dosyasına çıkaralım.
+
+**Python (pip)**
+
+```
+pip install scrapling
+```
+
+Lisans: BSD-3-Clause · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (telif bildirimini koruyun). 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/D4Vinci/Scrapling)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Web Scraping Markdown Open Source Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/scrapling/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Web Verilerini yapay zekâya Hazırlayın
 
 Crawl4AI ; büyük dil modelleri için optimize edilmiş, açık kaynak bir web tarayıcı ve kazıyıcıdır . Web sayfalarını, yapay zekâ modellerinin kolayca işleyebileceği temiz ve yapılandırılmış formatlara (Markdown vb.) dönüştürür.
@@ -26447,58 +26666,6 @@ Fine-tuning LLM Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/unsloth/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Esnek web kazıma ile verilerinizi çekin
-
-Scrapling , tek bir istekten geniş kapsamlı tarama işlerine kadar her ölçeği yönetebilen uyarlanabilir bir web kazıma (scraping) çerçevesidir . Sayfa yapısı değişse dahi yüksek uyum sağlamayı hedefler. Python tabanlıdır.
-
-- ★ 73.439
-- Python
-- BSD-3-Clause
-- GitHub Trending · 1 Haziran 2026
-
-## Güncelleme
-- 11 Ağustos 2026: Yıldız 73.309 → 73.439, son sürüm v0.4.14 (10 Ağustos 2026).
-- 10 Ağustos 2026: Yıldız 72.180 → 73.309, son sürüm v0.4.13 (9 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 57.333 → 72.180, son sürüm v0.4.12 (26 Temmuz 2026).
-
-- **Kimin için:** Veri kazıyan geliştiriciler 
-- **Zorluk:** Orta · Python 
-- **Ne sunar:** Uyarlanabilir, ölçeklenir scraping 
-- **Ücret:** Ücretsiz · açık kaynak (BSD-3) 
-- **Lisans:** BSD-3-Clause · ayrıntı aşağıda 
-
-## Ne kazandırır?
-- Tek bir istekle geniş çaplı tarama yapabilen kapsamlı araç.
-- Sayfa değişimlerine otomatik uyum sağlama.
-- Hızlı ve açık kaynaklı yapı.
-
-## Kurulum (tek komut)
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Scrapling adlı açık kaynaklı web kazıma kütüphanesini kurmama yardım et; 'pip install "scrapling[fetchers]"' ile yükleyip 'scrapling install' komutunu çalıştır, sonra 'scrapling extract get https://example.com content.md' komutuyla bir web sayfasının içeriğini Markdown dosyasına çıkaralım.
-
-**Python (pip)**
-
-```
-pip install scrapling
-```
-
-Lisans: BSD-3-Clause · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (telif bildirimini koruyun). 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/D4Vinci/Scrapling)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Web Scraping Markdown Open Source Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/scrapling/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -27040,6 +27207,58 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Kendi sunucunuzda parola yönetimi
+
+Bu öğenin özeti bugün üretilemedi · detaylar için kaynak bağlantısını inceleyebilirsiniz.
+
+- ★ 65.982
+- Rust
+- GitHub Trending · 2026-08-24
+
+## Güncelleme
+- 24 Ağustos 2026: Yıldız 65.983 → 65.982, son sürüm 1.37.2 (22 Ağustos 2026).
+
+## Ne kazandırır?
+- Resmî Bitwarden istemcileriyle tam uyumlu çalışır
+- Düşük kaynak tüketimiyle kendi sunucunuzda barındırılabilir
+- İki faktörlü doğrulama ve acil durum erişimi sunar
+
+## Kurulum
+
+**Kapsayıcıyı indirme ve çalıştırma**
+
+```
+docker pull vaultwarden/server:latest
+docker run --detach --name vaultwarden \
+--env DOMAIN="https://vw.domain.tld" \
+--volume /vw-data/:/data/ \
+--restart unless-stopped \
+--publish 127.0.0.1:8000:80 \
+vaultwarden/server:latest
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Benim için kendi sunucumda parola yönetimi sağlayan Vaultwarden aracını kurmama yardımcı ol. Bu araç, Bitwarden istemcileriyle uyumlu bir sunucu yazılımıdır. Docker kullanarak kurulum yapacağım için gerekli olan imajı çekme ve çalıştırma komutlarını, verilerimin kalıcı olması için bir birim (volume) bağlayarak ve HTTPS gereksinimlerini göz önünde bulundurarak nasıl yapılandıracağımı adım adım açıkla.
+
+- **Kimin için:** Kendi şifrelerini ve hassas verilerini üçüncü taraf bulut hizmetlerine güvenmek yerine, kendi sunucusunda barındırmak isteyen kullanıcılar içindir. 
+- **Lisans:** AGPL-3.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/dani-garcia/vaultwarden)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-24 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Rust Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/vaultwarden/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Yapay zekâ projelerinde standart geliştirme
 
 OpenSpec, yapay zekâ kod asistanları için şartname odaklı geliştirme (spec-driven development) süreçlerini destekleyen bir TypeScript kütüphanesidir. Yazılım geliştirme aşamalarında teknik gereksinimlerin standartlaştırılmasını ve kod üretim süreçlerinin daha kontrollü ilerlemesini sağlar.
@@ -27204,6 +27423,54 @@ Vibe Coding Agentic Engineering Agentic Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/claude-code-best-practice/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Yapay zekâ ile otomatik borsa analizi
+
+Büyük dil modelleri (large language models) ile desteklenen bu sistem, çok kaynaklı piyasa verilerini ve gerçek zamanlı haberleri analiz ederek yatırım kararları için görselleştirilmiş paneller sunuyor. Otomatik bildirimler ve ücretsiz zamanlanmış çalışma desteğiyle farklı borsalar için analiz süreçlerini standartlaştırıyor.
+
+- ★ 63.731
+- Python
+- GitHub Trending · 2026-06-22
+
+## Güncelleme
+- 24 Ağustos 2026: Yıldız 61.388 → 63.731, son sürüm v3.31.0 (23 Ağustos 2026).
+- 10 Ağustos 2026: Yıldız 59.863 → 61.388, son sürüm v3.30.0 (9 Ağustos 2026).
+- 2 Ağustos 2026: Yıldız 45.304 → 59.863, son sürüm v3.29.0 (2 Ağustos 2026).
+
+## Ne kazandırır?
+- Çok kaynaklı piyasa verileriyle otomatik yatırım raporları
+- Mesajlaşma uygulamalarına anlık bildirim desteği
+- Kişiselleştirilmiş portföy için görselleştirilmiş paneller
+
+## Çalıştırma
+
+**Analizi başlatma**
+
+```
+python main.py
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Sen profesyonel bir finansal analiz asistanısın. Paylaştığım borsa verilerini, teknik göstergeleri ve güncel haber akışlarını kullanarak yatırım kararlarını destekleyecek bir rapor hazırla. Analizinde; temel verileri, piyasa trendlerini, olası riskleri ve büyüme potansiyeli taşıyan katalizörleri belirgin bir şekilde vurgula. Çıktıyı, yatırımcının hızlıca aksiyon alabileceği şekilde net, objektif ve görselleştirilmiş bir tablo formatında sun.
+
+- **Kimin için:** Yatırım süreçlerini otomatikleştirmek ve yapay zekâ destekli piyasa özetlerine hızlıca ulaşmak isteyen bireysel yatırımcılar içindir. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/ZhuLinsen/daily_stock_analysis)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Large Language Models Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/daily-stock-analysis/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -27421,53 +27688,6 @@ System Prompts Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/system-prompts-leaks/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Yapay zekâ ile otomatik borsa analizi
-
-Büyük dil modelleri (large language models) ile desteklenen bu sistem, çok kaynaklı piyasa verilerini ve gerçek zamanlı haberleri analiz ederek yatırım kararları için görselleştirilmiş paneller sunuyor. Otomatik bildirimler ve ücretsiz zamanlanmış çalışma desteğiyle farklı borsalar için analiz süreçlerini standartlaştırıyor.
-
-- ★ 61.388
-- Python
-- GitHub Trending · 2026-06-22
-
-## Güncelleme
-- 10 Ağustos 2026: Yıldız 59.863 → 61.388, son sürüm v3.30.0 (9 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 45.304 → 59.863, son sürüm v3.29.0 (2 Ağustos 2026).
-
-## Ne kazandırır?
-- Çok kaynaklı piyasa verileriyle otomatik yatırım raporları
-- Mesajlaşma uygulamalarına anlık bildirim desteği
-- Kişiselleştirilmiş portföy için görselleştirilmiş paneller
-
-## Çalıştırma
-
-**Analizi başlatma**
-
-```
-python main.py
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Sen profesyonel bir finansal analiz asistanısın. Paylaştığım borsa verilerini, teknik göstergeleri ve güncel haber akışlarını kullanarak yatırım kararlarını destekleyecek bir rapor hazırla. Analizinde; temel verileri, piyasa trendlerini, olası riskleri ve büyüme potansiyeli taşıyan katalizörleri belirgin bir şekilde vurgula. Çıktıyı, yatırımcının hızlıca aksiyon alabileceği şekilde net, objektif ve görselleştirilmiş bir tablo formatında sun.
-
-- **Kimin için:** Yatırım süreçlerini otomatikleştirmek ve yapay zekâ destekli piyasa özetlerine hızlıca ulaşmak isteyen bireysel yatırımcılar içindir. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/ZhuLinsen/daily_stock_analysis)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Large Language Models Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/daily-stock-analysis/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -27723,11 +27943,12 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 MemPalace, yapay zekâ modelleri için açık kaynaklı bir bellek sistemi (memory system) sunuyor. Sistem, geniş dil modellerinin (large language models) bağlamsal hafıza performansını ölçümlemek ve geliştirmek amacıyla optimize edilmiş araçlar içeriyor.
 
-- ★ 58.390
+- ★ 58.584
 - Python
 - GitHub Trending · 2026-06-06
 
 ## Güncelleme
+- 24 Ağustos 2026: Yıldız 58.390 → 58.584, son sürüm v3.8.0 (23 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 58.311 → 58.390, son sürüm v3.7.1 (14 Ağustos 2026).
 - 12 Ağustos 2026: Yıldız 57.977 → 58.311, son sürüm v3.7.0 (11 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 53.981 → 57.977, son sürüm v3.6.0 (17 Temmuz 2026).
@@ -27770,6 +27991,71 @@ Memory System Memory Large Language Models Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/mempalace/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Açık kaynaklı proje yönetim platformu
+
+Plane, görev yönetimi, sprint planlama ve dokümantasyon süreçlerini bir araya getiren açık kaynaklı bir proje yönetim platformudur. Jira ve Linear gibi kurumsal araçlara alternatif olarak geliştirilen bu platform, ekiplerin iş akışlarını merkezi bir arayüz üzerinden düzenlemesine olanak tanır.
+
+- ★ 57.579
+- TypeScript
+- GitHub Trending · 2026-06-18
+
+## Güncelleme
+- 24 Ağustos 2026: Yıldız 55.693 → 57.579, son sürüm v1.4.2 (23 Ağustos 2026).
+- 7 Ağustos 2026: Yıldız 55.364 → 55.693, son sürüm v1.4.1 (7 Ağustos 2026).
+- 2 Ağustos 2026: Yıldız 51.506 → 55.364, son sürüm v1.4.0 (31 Temmuz 2026).
+
+## Ne kazandırır?
+- Görevleri ve ürün yol haritalarını merkezi bir arayüzde takip etme
+- Karmaşık projeleri yönetilebilir modüllere ve döngülere bölme
+- Yapay zekâ destekli dokümantasyon ve analiz araçları
+
+## Kurulum
+
+**Kurulum betiğini indir**
+
+```
+curl -fsSL -o setup.sh https://github.com/makeplane/plane/releases/latest/download/setup.sh
+```
+
+**Çalıştırılabilir yap**
+
+```
+chmod +x setup.sh
+```
+
+## Çalıştırma
+
+**Kurulumu başlat (menüden 2)**
+
+```
+./setup.sh
+```
+
+Kaynak: Plane self-hosting kılavuzu · developers.plane.so
+
+## Nasıl başlanır?
+
+Hızlıca başlamak için Plane Cloud üzerinden ücretsiz bir hesap oluşturabilirsiniz. Eğer kendi altyapınızda barındırmak isterseniz, resmî dokümantasyon sayfasındaki Docker veya Kubernetes kurulum rehberlerini takip ederek kendi sunucunuza kurulum yapabilirsiniz.
+- [Resmî kaynak →](http://plane.so)
+
+- **Kimin için:** Projelerini merkezi bir platform üzerinden takip etmek, sprintlerini planlamak ve dokümantasyon süreçlerini yönetmek isteyen ekipler için uygundur. 
+- **Lisans:** AGPL-3.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/makeplane/plane)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Self-hosting Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/plane/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -27932,70 +28218,6 @@ AI Security Tool CI/CD API Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/strix/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Açık kaynaklı proje yönetim platformu
-
-Plane, görev yönetimi, sprint planlama ve dokümantasyon süreçlerini bir araya getiren açık kaynaklı bir proje yönetim platformudur. Jira ve Linear gibi kurumsal araçlara alternatif olarak geliştirilen bu platform, ekiplerin iş akışlarını merkezi bir arayüz üzerinden düzenlemesine olanak tanır.
-
-- ★ 55.693
-- TypeScript
-- GitHub Trending · 2026-06-18
-
-## Güncelleme
-- 7 Ağustos 2026: Yıldız 55.364 → 55.693, son sürüm v1.4.1 (7 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 51.506 → 55.364, son sürüm v1.4.0 (31 Temmuz 2026).
-
-## Ne kazandırır?
-- Görevleri ve ürün yol haritalarını merkezi bir arayüzde takip etme
-- Karmaşık projeleri yönetilebilir modüllere ve döngülere bölme
-- Yapay zekâ destekli dokümantasyon ve analiz araçları
-
-## Kurulum
-
-**Kurulum betiğini indir**
-
-```
-curl -fsSL -o setup.sh https://github.com/makeplane/plane/releases/latest/download/setup.sh
-```
-
-**Çalıştırılabilir yap**
-
-```
-chmod +x setup.sh
-```
-
-## Çalıştırma
-
-**Kurulumu başlat (menüden 2)**
-
-```
-./setup.sh
-```
-
-Kaynak: Plane self-hosting kılavuzu · developers.plane.so
-
-## Nasıl başlanır?
-
-Hızlıca başlamak için Plane Cloud üzerinden ücretsiz bir hesap oluşturabilirsiniz. Eğer kendi altyapınızda barındırmak isterseniz, resmî dokümantasyon sayfasındaki Docker veya Kubernetes kurulum rehberlerini takip ederek kendi sunucunuza kurulum yapabilirsiniz.
-- [Resmî kaynak →](http://plane.so)
-
-- **Kimin için:** Projelerini merkezi bir platform üzerinden takip etmek, sprintlerini planlamak ve dokümantasyon süreçlerini yönetmek isteyen ekipler için uygundur. 
-- **Lisans:** AGPL-3.0 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/makeplane/plane)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Self-hosting Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/plane/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -28235,6 +28457,71 @@ Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/win11debloat/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Tüm yapay zekâ sağlayıcılarını birleştirin
+
+OmniRoute, 231'den fazla yapay zekâ sağlayıcısını tek bir uç noktada (endpoint) birleştirerek ücretsiz erişim imkânı sunan bir ağ geçididir (gateway). Gelişmiş sıkıştırma teknikleriyle jeton (token) kullanımını azaltırken, akıllı yedekleme ve çok modlu arayüz desteğiyle geliştirici araçlarını optimize eder.
+
+- ★ 53.963
+- TypeScript
+- GitHub Trending · 2026-07-01
+
+## Güncelleme
+- 24 Ağustos 2026: Yıldız 51.059 → 53.963, son sürüm v3.8.49 (30 Temmuz 2026).
+- 19 Ağustos 2026: Yıldız 48.542 → 51.059, son sürüm v3.8.49 (30 Temmuz 2026).
+- 15 Ağustos 2026: Yıldız 46.052 → 48.542, son sürüm v3.8.49 (30 Temmuz 2026).
+- 12 Ağustos 2026: Yıldız 43.582 → 46.052, son sürüm v3.8.49 (30 Temmuz 2026).
+
+## Ne kazandırır?
+- 231 farklı yapay zekâ sağlayıcısına tek noktadan erişim
+- Gelişmiş sıkıştırma ile %95'e varan jeton tasarrufu
+- 50'den fazla ücretsiz katman desteği
+
+## Kurulum
+
+**NPM ile kurulum**
+
+```
+npm install -g omniroute
+omniroute
+```
+
+**Docker ile kurulum**
+
+```
+docker run -d --name omniroute --restart unless-stopped --stop-timeout 40 \
+-p 20128:20128 -v omniroute-data:/app/data diegosouzapw/omniroute:latest
+```
+
+## Çalıştırma
+
+**Bağlantı testi**
+
+```
+curl http://localhost:20128/v1/models -H "Authorization: Bearer YOUR_KEY"
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+OmniRoute kullanarak 231 farklı yapay zekâ sağlayıcısını tek bir uç noktada birleştirmek istiyorum. Jeton kullanımımı optimize etmek ve ücretsiz katmanlardan faydalanmak için bu aracı nasıl yapılandırabilirim? Claude Code, Cursor veya Copilot gibi araçlarımı bu ağ geçidine bağlayarak maliyetlerimi düşürmek ve kesintisiz erişim sağlamak için izlemem gereken adımları açıkla.
+
+- **Kimin için:** Yapay zekâ modellerini sık kullanan ve jeton maliyetlerini optimize etmek isteyen geliştiriciler için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/diegosouzapw/OmniRoute)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Endpoint Gateway Token Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/omniroute/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -28568,71 +28855,6 @@ Agent Development Environment Agent Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/orca/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Tüm yapay zekâ sağlayıcılarını birleştirin
-
-OmniRoute, 231'den fazla yapay zekâ sağlayıcısını tek bir uç noktada (endpoint) birleştirerek ücretsiz erişim imkânı sunan bir ağ geçididir (gateway). Gelişmiş sıkıştırma teknikleriyle jeton (token) kullanımını azaltırken, akıllı yedekleme ve çok modlu arayüz desteğiyle geliştirici araçlarını optimize eder.
-
-- ★ 51.059
-- TypeScript
-- GitHub Trending · 2026-07-01
-
-## Güncelleme
-- 19 Ağustos 2026: Yıldız 48.542 → 51.059, son sürüm v3.8.49 (30 Temmuz 2026).
-- 15 Ağustos 2026: Yıldız 46.052 → 48.542, son sürüm v3.8.49 (30 Temmuz 2026).
-- 12 Ağustos 2026: Yıldız 43.582 → 46.052, son sürüm v3.8.49 (30 Temmuz 2026).
-- 9 Ağustos 2026: Yıldız 41.023 → 43.582, son sürüm v3.8.49 (30 Temmuz 2026).
-
-## Ne kazandırır?
-- 231 farklı yapay zekâ sağlayıcısına tek noktadan erişim
-- Gelişmiş sıkıştırma ile %95'e varan jeton tasarrufu
-- 50'den fazla ücretsiz katman desteği
-
-## Kurulum
-
-**NPM ile kurulum**
-
-```
-npm install -g omniroute
-omniroute
-```
-
-**Docker ile kurulum**
-
-```
-docker run -d --name omniroute --restart unless-stopped --stop-timeout 40 \
--p 20128:20128 -v omniroute-data:/app/data diegosouzapw/omniroute:latest
-```
-
-## Çalıştırma
-
-**Bağlantı testi**
-
-```
-curl http://localhost:20128/v1/models -H "Authorization: Bearer YOUR_KEY"
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-OmniRoute kullanarak 231 farklı yapay zekâ sağlayıcısını tek bir uç noktada birleştirmek istiyorum. Jeton kullanımımı optimize etmek ve ücretsiz katmanlardan faydalanmak için bu aracı nasıl yapılandırabilirim? Claude Code, Cursor veya Copilot gibi araçlarımı bu ağ geçidine bağlayarak maliyetlerimi düşürmek ve kesintisiz erişim sağlamak için izlemem gereken adımları açıkla.
-
-- **Kimin için:** Yapay zekâ modellerini sık kullanan ve jeton maliyetlerini optimize etmek isteyen geliştiriciler için uygundur. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/diegosouzapw/OmniRoute)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Endpoint Gateway Token Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/omniroute/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -29095,6 +29317,62 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Belgeleri düzenlenebilir sunumlara dönüştüren yapay zekâ
+
+PPT-Master, belgeleri doğrudan düzenlenebilir sunum dosyalarına (PPTX) dönüştüren yapay zekâ destekli bir araçtır. Sistem, metinleri yerel şekiller, animasyonlar ve sesli konuşmacı notları içeren özelleştirilebilir sunumlara çevirir.
+
+- ★ 48.860
+- Python
+- GitHub Trending · 2026-06-28
+
+## Güncelleme
+- 24 Ağustos 2026: Yıldız 47.318 → 48.860, son sürüm v5.0.0 (24 Ağustos 2026).
+- 17 Ağustos 2026: Yıldız 47.062 → 47.318, son sürüm v4.8.0 (16 Ağustos 2026).
+- 15 Ağustos 2026: Yıldız 44.162 → 47.062, son sürüm v4.7.0 (13 Ağustos 2026).
+- 10 Ağustos 2026: Yıldız 43.374 → 44.162, son sürüm v4.5.0 (9 Ağustos 2026).
+
+## Ne kazandırır?
+- Metinleri yerel şekiller ve animasyonlar içeren PPTX dosyalarına çevirir.
+- Sunum slaytlarına otomatik sesli konuşmacı notları ekler.
+- Düzenlenebilir yapısı sayesinde sunum üzerinde sonradan değişiklik yapmanıza olanak tanır.
+
+## Kurulum
+
+**Projeyi bilgisayarınıza indirme**
+
+```
+git clone https://github.com/hugohe3/ppt-master.git
+cd ppt-master
+```
+
+**Gerekli kütüphaneleri yükleme**
+
+```
+pip install -r requirements.txt
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Elimdeki belgeyi PPT-Master kullanarak düzenlenebilir bir sunum dosyasına dönüştürmek istiyorum. Belgenin içeriğini analiz et, slayt yapısını oluştur, gerekli animasyonları ve konuşmacı notlarını ekleyerek profesyonel bir PPTX dosyası hazırla. Sonuçta ortaya çıkan sunumun üzerinde PowerPoint içerisinde değişiklik yapabileceğimden emin ol.
+
+- **Kimin için:** Belgelerini hızlıca sunum formatına dönüştürüp üzerinde düzenleme yapmaya devam etmek isteyen herkes için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/hugohe3/ppt-master)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+PPTX PowerPoint Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/ppt-master/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Mac üzerinde hızlı Linux sanallaştırma
 
 Apple tarafından geliştirilen container, Mac üzerinde hafif sanal makineler (virtual machines) kullanarak Linux kapsayıcıları (containers) oluşturmaya ve çalıştırmaya olanak tanıyor. Swift diliyle yazılan araç, Apple silikon (Apple silicon) mimarisi için optimize edilmiş bir performans sunuyor.
@@ -29316,62 +29594,6 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Belgeleri düzenlenebilir sunumlara dönüştüren yapay zekâ
-
-PPT-Master, belgeleri doğrudan düzenlenebilir sunum dosyalarına (PPTX) dönüştüren yapay zekâ destekli bir araçtır. Sistem, metinleri yerel şekiller, animasyonlar ve sesli konuşmacı notları içeren özelleştirilebilir sunumlara çevirir.
-
-- ★ 47.318
-- Python
-- GitHub Trending · 2026-06-28
-
-## Güncelleme
-- 17 Ağustos 2026: Yıldız 47.062 → 47.318, son sürüm v4.8.0 (16 Ağustos 2026).
-- 15 Ağustos 2026: Yıldız 44.162 → 47.062, son sürüm v4.7.0 (13 Ağustos 2026).
-- 10 Ağustos 2026: Yıldız 43.374 → 44.162, son sürüm v4.5.0 (9 Ağustos 2026).
-- 6 Ağustos 2026: Yıldız 42.557 → 43.374, son sürüm v4.4.0 (6 Ağustos 2026).
-
-## Ne kazandırır?
-- Metinleri yerel şekiller ve animasyonlar içeren PPTX dosyalarına çevirir.
-- Sunum slaytlarına otomatik sesli konuşmacı notları ekler.
-- Düzenlenebilir yapısı sayesinde sunum üzerinde sonradan değişiklik yapmanıza olanak tanır.
-
-## Kurulum
-
-**Projeyi bilgisayarınıza indirme**
-
-```
-git clone https://github.com/hugohe3/ppt-master.git
-cd ppt-master
-```
-
-**Gerekli kütüphaneleri yükleme**
-
-```
-pip install -r requirements.txt
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Elimdeki belgeyi PPT-Master kullanarak düzenlenebilir bir sunum dosyasına dönüştürmek istiyorum. Belgenin içeriğini analiz et, slayt yapısını oluştur, gerekli animasyonları ve konuşmacı notlarını ekleyerek profesyonel bir PPTX dosyası hazırla. Sonuçta ortaya çıkan sunumun üzerinde PowerPoint içerisinde değişiklik yapabileceğimden emin ol.
-
-- **Kimin için:** Belgelerini hızlıca sunum formatına dönüştürüp üzerinde düzenleme yapmaya devam etmek isteyen herkes için uygundur. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/hugohe3/ppt-master)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-PPTX PowerPoint Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/ppt-master/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
 # Sıfırdan yapay zekâ Mühendisliği Eğitimi
 
 Yapay zekâ mühendisliğine sıfırdan giriş: 485 ders, 20 faz ve yaklaşık 320 saatlik içerik. Lineer cebirden otonom ajanlara kadar her algoritmayı önce matematiğiyle, ardından elle kod yazarak öğretir. Python, TypeScript, Rust ve Julia dillerini kapsayan bu kurs tamamen ücretsiz ve açık kaynaklıdır.
@@ -29414,7 +29636,7 @@ Lisans: MIT · içeriği ve kodu özgürce kullanabilir, uyarlayabilir, paylaşa
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Tokenizer AI Engineering Prompt Attention MCP Rust
+Tokenizer AI Engineering Attention Prompt MCP Open Source
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ai-engineering-from-scratch/
@@ -29657,6 +29879,60 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yapay zekâ ajanınıza pazarlama becerileri kazandırın
+
+Claude Code ve yapay zekâ ajanları için geliştirilen marketingskills kütüphanesi, dönüşüm oranı optimizasyonu (CRO), metin yazarlığı, arama motoru optimizasyonu (SEO), analitik ve büyüme mühendisliği gibi alanlarda özelleşmiş yetenekler sunuyor. Bu araç seti, yapay zekâ modellerinin pazarlama odaklı görevleri daha profesyonel ve veriye dayalı şekilde yürütmesini sağlıyor.
+
+- ★ 45.397
+- JavaScript
+- GitHub Trending · 2026-07-06
+
+## Güncelleme
+- 24 Ağustos 2026: Yıldız 44.894 → 45.397, son sürüm v2.11.0 (23 Ağustos 2026).
+- 19 Ağustos 2026: Yıldız 42.728 → 44.894, son sürüm v2.10.0 (27 Temmuz 2026).
+- 2 Ağustos 2026: Yıldız 36.679 → 42.728, son sürüm v2.10.0 (27 Temmuz 2026).
+
+## Ne kazandırır?
+- Pazarlama odaklı görevlerde yapay zekâ performansını artırır
+- SEO, metin yazarlığı ve CRO gibi alanlarda uzmanlaşmış iş akışları sunar
+- Claude Code ve benzeri kodlama ajanlarıyla tam uyumlu çalışır
+
+## Kurulum
+
+**Tüm becerileri yükleme**
+
+```
+npx skills add coreyhaines31/marketingskills
+```
+
+**Belirli becerileri seçerek yükleme**
+
+```
+npx skills add coreyhaines31/marketingskills --skill cro copywriting
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Sen artık pazarlama konusunda uzmanlaşmış bir asistansın. Projemize eklediğimiz marketingskills kütüphanesindeki yetenekleri kullanarak, ürünümüzün hedef kitlesine uygun stratejiler geliştirmeni, SEO uyumlu içerikler üretmeni ve dönüşüm oranlarını artıracak optimizasyon önerileri sunmanı istiyorum. İlk olarak ürünümüzün konumlandırmasını anlamak için product-marketing becerisini incele ve ardından belirlediğimiz pazarlama görevlerini bu çerçeveye göre profesyonelce yürüt.
+
+- **Kimin için:** Yapay zekâ kodlama ajanlarını pazarlama süreçlerinde verimli bir şekilde kullanmak isteyen teknik pazarlamacılar ve kurucular içindir. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/coreyhaines31/marketingskills)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+CRO SEO Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/marketingskills/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Farklı diller arası hızlı iletişim
 
 gRPC, farklı programlama dilleri arasında yüksek performanslı iletişim sağlayan açık kaynaklı bir uzaktan yordam çağrısı (remote procedure call) çerçevesidir. C++ tabanlı altyapısı sayesinde Python, Ruby, C# ve PHP gibi diller için ölçeklenebilir ağ hizmetleri geliştirilmesine olanak tanır.
@@ -29698,59 +29974,6 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/grpc/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Yapay zekâ ajanınıza pazarlama becerileri kazandırın
-
-Claude Code ve yapay zekâ ajanları için geliştirilen marketingskills kütüphanesi, dönüşüm oranı optimizasyonu (CRO), metin yazarlığı, arama motoru optimizasyonu (SEO), analitik ve büyüme mühendisliği gibi alanlarda özelleşmiş yetenekler sunuyor. Bu araç seti, yapay zekâ modellerinin pazarlama odaklı görevleri daha profesyonel ve veriye dayalı şekilde yürütmesini sağlıyor.
-
-- ★ 44.894
-- JavaScript
-- GitHub Trending · 2026-07-06
-
-## Güncelleme
-- 19 Ağustos 2026: Yıldız 42.728 → 44.894, son sürüm v2.10.0 (27 Temmuz 2026).
-- 2 Ağustos 2026: Yıldız 36.679 → 42.728, son sürüm v2.10.0 (27 Temmuz 2026).
-
-## Ne kazandırır?
-- Pazarlama odaklı görevlerde yapay zekâ performansını artırır
-- SEO, metin yazarlığı ve CRO gibi alanlarda uzmanlaşmış iş akışları sunar
-- Claude Code ve benzeri kodlama ajanlarıyla tam uyumlu çalışır
-
-## Kurulum
-
-**Tüm becerileri yükleme**
-
-```
-npx skills add coreyhaines31/marketingskills
-```
-
-**Belirli becerileri seçerek yükleme**
-
-```
-npx skills add coreyhaines31/marketingskills --skill cro copywriting
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Sen artık pazarlama konusunda uzmanlaşmış bir asistansın. Projemize eklediğimiz marketingskills kütüphanesindeki yetenekleri kullanarak, ürünümüzün hedef kitlesine uygun stratejiler geliştirmeni, SEO uyumlu içerikler üretmeni ve dönüşüm oranlarını artıracak optimizasyon önerileri sunmanı istiyorum. İlk olarak ürünümüzün konumlandırmasını anlamak için product-marketing becerisini incele ve ardından belirlediğimiz pazarlama görevlerini bu çerçeveye göre profesyonelce yürüt.
-
-- **Kimin için:** Yapay zekâ kodlama ajanlarını pazarlama süreçlerinde verimli bir şekilde kullanmak isteyen teknik pazarlamacılar ve kurucular içindir. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/coreyhaines31/marketingskills)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-CRO SEO Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/marketingskills/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -29804,15 +30027,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor. Yapay zekâ ajanlarının görsel içerik üretmesini kolaylaştırmak amacıyla tasarlanan bu araç, web tabanlı arayüzleri video formatına çeviriyor.
 
-- ★ 42.133
+- ★ 42.348
 - TypeScript
 - GitHub Trending · 2026-06-23
 
 ## Güncelleme
+- 24 Ağustos 2026: Yıldız 42.133 → 42.348, son sürüm v0.8.12 (24 Ağustos 2026).
 - 23 Ağustos 2026: Yıldız 41.999 → 42.133, son sürüm v0.8.10 (22 Ağustos 2026).
 - 22 Ağustos 2026: Yıldız 41.879 → 41.999, son sürüm v0.8.8 (22 Ağustos 2026).
 - 21 Ağustos 2026: Yıldız 41.838 → 41.879, son sürüm v0.8.6 (21 Ağustos 2026).
-- 21 Ağustos 2026: Yıldız 41.723 → 41.838, son sürüm v0.8.5 (20 Ağustos 2026).
 
 ## Ne kazandırır?
 - HTML ve CSS ile video üretimi
@@ -30403,15 +30626,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 PostHog, ürün geliştirme süreçleri için yapay zekâ gözlemlenebilirliği (AI observability), analiz ve oturum tekrarı (session replay) gibi araçları bir araya getiren kapsamlı bir platformdur. Yazılım geliştiricilerin hata takibi, deney yönetimi ve kullanıcı verilerini analiz ederek otonom ürünler oluşturmasını sağlar.
 
-- ★ 38.667
+- ★ 38.791
 - Python
 - GitHub Trending · 2026-07-17
 
 ## Güncelleme
+- 24 Ağustos 2026: Yıldız 38.667 → 38.791, son sürüm desktop-v0.60.393 (24 Ağustos 2026).
 - 23 Ağustos 2026: Yıldız 38.332 → 38.667, son sürüm desktop-v0.60.382 (22 Ağustos 2026).
 - 22 Ağustos 2026: Yıldız 38.180 → 38.332, son sürüm desktop-v0.60.377 (22 Ağustos 2026).
 - 21 Ağustos 2026: Yıldız 38.045 → 38.180, son sürüm desktop-v0.60.360 (21 Ağustos 2026).
-- 21 Ağustos 2026: Yıldız 37.995 → 38.045, son sürüm desktop-v0.60.349 (21 Ağustos 2026).
 
 ## Ne kazandırır?
 - Kullanıcı davranışlarını analiz ederek hataları otomatik tespit edin.
@@ -30916,6 +31139,45 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Kişisel yapay zekâ için yerel bellek
+
+Rust diliyle geliştirilen OpenHuman, kullanıcının yaşamına dair yerel öncelikli (local-first) bir bellek oluşturan kişisel yapay zekâ asistanıdır. Yazılım, yapay zekâ ajanlarından oluşan filoları yöneten bir orkestratör ve derinlemesine araştırma yapan bir analiz aracı olarak işlev görür.
+
+- ★ 36.855
+- Rust
+- GitHub Trending · 2026-08-24
+
+## Güncelleme
+- 24 Ağustos 2026: Yıldız 36.852 → 36.855, son sürüm v0.63.12 (7 Ağustos 2026).
+
+## Ne kazandırır?
+- Tüm verilerinizi SQLite veritabanında yerel olarak saklar
+- Gmail ve Notion gibi araçlarla otomatik entegrasyon sağlar
+- Karmaşık görevleri yönetmek için yapay zekâ ajanlarını koordine eder
+
+## Nasıl başlanır?
+
+Kurulum dosyalarını indirmek için tinyhumans.ai/openhuman adresini ziyaret edebilir veya GitHub üzerindeki en güncel sürüm sayfasını kullanabilirsiniz. Terminal üzerinden kurulum yapmak isterseniz, detaylı platform notları ve yöntemler için projenin dokümantasyonunda yer alan INSTALL.md dosyasını inceleyebilirsiniz.
+- [Resmî kaynak →](https://tinyhumans.ai/openhuman)
+
+- **Kimin için:** Kendi verileri üzerinde tam kontrole sahip, kişisel yapay zekâ asistanı ile iş süreçlerini otomatize etmek isteyen kullanıcılar içindir. 
+- **Lisans:** GPL-3.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/tinyhumansai/openhuman)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-24 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Local-first Terminal Rust Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/openhuman/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Yapılandırılmış müfredatla İngilizce öğrenin
 
 Everyone-can-use-english, İngilizce öğrenme sürecini yapılandırılmış bir müfredatla destekleyen açık kaynaklı bir eğitim projesi. Dil becerilerini geliştirmek isteyen kullanıcılar için pratik yöntemler ve çalışma kaynakları sunuyor.
@@ -31167,6 +31429,53 @@ Omni-channel Desk Omni-channel Deployment Self-hosted Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/chatwoot/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# İnternetsiz iletişim için Bluetooth ağı
+
+Bitchat, Bluetooth ağ (mesh) teknolojisini kullanarak internet bağlantısı gerektirmeyen, yerel bir sohbet ortamı sunuyor. Swift diliyle geliştirilen uygulama, kullanıcıların yakın mesafede doğrudan iletişim kurmasını sağlayan IRC benzeri bir deneyim vadediyor.
+
+- ★ 35.851
+- Swift
+- GitHub Trending · 2026-07-26
+
+## Güncelleme
+- 24 Ağustos 2026: Yıldız 34.123 → 35.851, son sürüm v1.7.1 (31 Temmuz 2026).
+- 2 Ağustos 2026: Yıldız 28.892 → 34.123, son sürüm v1.7.1 (31 Temmuz 2026).
+
+## Ne kazandırır?
+- Bluetooth üzerinden internetsiz yerel sohbet
+- Nostr protokolü ile küresel erişim
+- Hesap veya telefon numarası gerektirmez
+
+## Kurulum
+
+**Just aracını yükleyin**
+
+```
+brew install just
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Bitchat uygulamasının sunduğu Bluetooth mesh ve Nostr protokolü hibrit yapısını kullanarak, internetin olmadığı durumlarda yakın çevremle nasıl güvenli bir şekilde mesajlaşabilirim? Uygulamanın sunduğu IRC tarzı komutları ve konum tabanlı kanal özelliklerini kullanarak yerel bir topluluk sohbetini nasıl başlatacağımı adım adım açıkla.
+
+- **Kimin için:** İnternet bağlantısının kısıtlı olduğu veya gizliliğin ön planda tutulduğu durumlarda doğrudan iletişim kurmak isteyen kullanıcılar içindir. 
+- **Lisans:** Unlicense 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/permissionlesstech/bitchat)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Bluetooth Mesh IRC Mesh Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/bitchat/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -31662,52 +31971,6 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# İnternetsiz iletişim için Bluetooth ağı
-
-Bitchat, Bluetooth ağ (mesh) teknolojisini kullanarak internet bağlantısı gerektirmeyen, yerel bir sohbet ortamı sunuyor. Swift diliyle geliştirilen uygulama, kullanıcıların yakın mesafede doğrudan iletişim kurmasını sağlayan IRC benzeri bir deneyim vadediyor.
-
-- ★ 34.123
-- Swift
-- GitHub Trending · 2026-07-26
-
-## Güncelleme
-- 2 Ağustos 2026: Yıldız 28.892 → 34.123, son sürüm v1.7.1 (31 Temmuz 2026).
-
-## Ne kazandırır?
-- Bluetooth üzerinden internetsiz yerel sohbet
-- Nostr protokolü ile küresel erişim
-- Hesap veya telefon numarası gerektirmez
-
-## Kurulum
-
-**Just aracını yükleyin**
-
-```
-brew install just
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Bitchat uygulamasının sunduğu Bluetooth mesh ve Nostr protokolü hibrit yapısını kullanarak, internetin olmadığı durumlarda yakın çevremle nasıl güvenli bir şekilde mesajlaşabilirim? Uygulamanın sunduğu IRC tarzı komutları ve konum tabanlı kanal özelliklerini kullanarak yerel bir topluluk sohbetini nasıl başlatacağımı adım adım açıkla.
-
-- **Kimin için:** İnternet bağlantısının kısıtlı olduğu veya gizliliğin ön planda tutulduğu durumlarda doğrudan iletişim kurmak isteyen kullanıcılar içindir. 
-- **Lisans:** Unlicense 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/permissionlesstech/bitchat)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Bluetooth Mesh IRC Mesh Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/bitchat/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
 # Yapay zekâ ile otomatik diyagram oluşturma
 
 Next.js tabanlı bu uygulama, diyagram oluşturma aracı draw.io ile üretken yapay zekâ (generative AI) yeteneklerini birleştiriyor. Kullanıcılar, doğal dil komutları aracılığıyla görsel şemalar oluşturabiliyor ve mevcut diyagramlarını yapay zekâ desteğiyle düzenleyebiliyor.
@@ -31808,15 +32071,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Mise, yazılım geliştirme araçlarını, ortam değişkenlerini (environment variables) ve görev çalıştırıcılarını (task runner) tek bir çatı altında yönetmeyi sağlayan bir araçtır. Rust diliyle geliştirilen bu yazılım, farklı projeler için gerekli olan çalışma ortamlarını standartlaştırmayı ve hızlandırmayı hedefler.
 
-- ★ 32.755
+- ★ 32.893
 - Rust
 - GitHub Trending · 2026-08-08
 
 ## Güncelleme
+- 24 Ağustos 2026: Yıldız 32.755 → 32.893, son sürüm v2026.8.11 (23 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 32.716 → 32.755, son sürüm v2026.8.10 (20 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 32.641 → 32.716, son sürüm v2026.8.9 (19 Ağustos 2026).
 - 18 Ağustos 2026: Yıldız 32.445 → 32.641, son sürüm v2026.8.8 (17 Ağustos 2026).
-- 15 Ağustos 2026: Yıldız 32.258 → 32.445, son sürüm v2026.8.6 (14 Ağustos 2026).
 
 ## Ne kazandırır?
 - Proje araçlarını ve sürümlerini otomatik yönetir
@@ -32277,6 +32540,41 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yapay zekâ ajanları için hazır yetenekler
+
+VoltAgent tarafından derlenen awesome-agent-skills, geliştirici ekiplerin ve topluluğun oluşturduğu 1000'den fazla yapay zekâ yeteneğini (agent skills) bir araya getiriyor. Bu koleksiyon, kod yazma asistanı Cursor ve yapay zekâ destekli komut satırı araçları (Claude Code, Gemini CLI) gibi platformlarla uyumlu çalışacak şekilde tasarlanıyor.
+
+- ★ 31.405
+- GitHub Trending · 2026-08-24
+
+## Ne kazandırır?
+- 1000'den fazla doğrulanmış yapay zekâ yeteneğine erişim sağlar.
+- Claude Code ve Cursor gibi popüler geliştirme araçlarıyla uyumlu çalışır.
+- Mühendislik ekipleri tarafından oluşturulan gerçek dünya çözümlerini içerir.
+
+## Nasıl başlanır?
+
+Bu koleksiyonu kullanmak için GitHub üzerindeki Awesome Agent Skills sayfasını ziyaret edin. İhtiyacınız olan yeteneği tablodan seçerek ilgili bağlantı üzerinden dokümantasyonuna ulaşabilir ve kullandığınız yapay zekâ asistanına entegre edebilirsiniz.
+- [Resmî kaynak →](https://officialskills.sh/)
+
+- **Kimin için:** Yapay zekâ destekli geliştirme araçlarını kullanan ve projelerine hazır yetenekler eklemek isteyen yazılım geliştiriciler ve teknik ekipler içindir. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/VoltAgent/awesome-agent-skills)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-24 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Agent Skills AI Skills Agent CLI Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/awesome-agent-skills/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Yapay zekâ ile kişisel alım satım
 
 Vibe-Trading, finansal piyasalarda işlem yapmak amacıyla geliştirilmiş kişisel bir alım satım ajanı (trading agent) sunuyor. Proje, Python tabanlı yapısıyla kullanıcıların otomatik ticaret stratejilerini yönetmelerine olanak tanıyor.
@@ -32533,15 +32831,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Cognee, yapay zekâ ajanlarına oturumlar arası kalıcı uzun süreli bellek (long-term memory) sağlayan açık kaynaklı bir platformdur. Kendi kendine barındırılan bir bilgi grafiği motoru (knowledge graph engine) kullanarak ajanların verileri yapılandırılmış şekilde saklamasına ve geri çağırmasına olanak tanır.
 
-- ★ 30.190
+- ★ 30.203
 - Python
 - GitHub Trending · 2026-06-22
 
 ## Güncelleme
+- 24 Ağustos 2026: Yıldız 30.190 → 30.203, son sürüm v1.5.3 (23 Ağustos 2026).
 - 23 Ağustos 2026: Yıldız 30.175 → 30.190, son sürüm v1.5.2 (22 Ağustos 2026).
 - 22 Ağustos 2026: Yıldız 30.057 → 30.175, son sürüm v1.5.1 (21 Ağustos 2026).
 - 16 Ağustos 2026: Yıldız 30.046 → 30.057, son sürüm v1.5.0 (15 Ağustos 2026).
-- 15 Ağustos 2026: Yıldız 29.883 → 30.046, son sürüm v1.5.0.dev2 (14 Ağustos 2026).
 
 ## Ne kazandırır?
 - Ajanlar için oturumlar arası kalıcı uzun süreli bellek
@@ -32797,7 +33095,7 @@ Buzz platformunda bir yapay zekâ ajanı olarak görev yapıyorsun. İnsan takı
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-24 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Hive Mind Communication Platform Hive Mind Communication Rust Artificial Intelligence
+Hive Mind Communication Platform Hive Mind Communication Hive Mind Rust Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/buzz/
@@ -33603,6 +33901,75 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Terminalde yapay zekâ destekli kodlama
+
+Oh-my-pi, terminal ortamında çalışan ve kod düzenleme süreçlerini otomatikleştiren bir yapay zekâ kodlama ajanıdır (AI coding agent). Araç, dil sunucusu protokolü (LSP), tarayıcı entegrasyonu ve alt ajan yönetimi gibi özelliklerle yazılım geliştirme iş akışlarını optimize etmeyi hedefler.
+
+- ★ 26.877
+- GitHub Trending · 2026-06-02
+
+## Güncelleme
+- 24 Ağustos 2026: Yıldız 26.573 → 26.877, son sürüm v18.0.4 (24 Ağustos 2026).
+- 23 Ağustos 2026: Yıldız 26.347 → 26.573, son sürüm v18.0.1 (23 Ağustos 2026).
+- 22 Ağustos 2026: Yıldız 25.996 → 26.347, son sürüm v17.4.2 (21 Ağustos 2026).
+- 20 Ağustos 2026: Yıldız 25.804 → 25.996, son sürüm v17.4.0 (20 Ağustos 2026).
+
+## Ne kazandırır?
+- IDE özelliklerini terminale taşıyarak kod düzenleme süreçlerini otomatikleştirir.
+- LSP entegrasyonu ile yeniden adlandırma ve referans takibi gibi işlemleri hatasız yapar.
+- Hata ayıklama araçlarıyla doğrudan etkileşime girerek sorunları yerinde çözer.
+
+## Kurulum
+
+**macOS ve Linux için kurulum**
+
+```
+curl -fsSL https://omp.sh/install | sh
+```
+
+**Bun üzerinden kurulum**
+
+```
+bun install -g @oh-my-pi/pi-coding-agent
+```
+
+## Çalıştırma
+
+**Kabuk tamamlayıcılarını yapılandırma**
+
+```
+# zsh — add to ~/.zshrc (or write the output into a file on your $fpath)
+eval "$(omp completions zsh)"
+
+# bash — add to ~/.bashrc
+eval "$(omp completions bash)"
+
+# fish
+omp completions fish > ~/.config/fish/completions/omp.fish
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Oh My Pi aracını terminalimde kullanmaya başladım. Bu yapay zekâ kodlama ajanı ile projelerimde LSP desteği, hata ayıklama ve alt ajan yönetimi gibi gelişmiş özellikleri kullanarak iş akışımı nasıl optimize edebilirim? Özellikle kod düzenleme, dosya okuma ve hata ayıklama süreçlerinde bu aracın sunduğu yerleşik araçları en verimli şekilde nasıl kullanacağımı adım adım açıkla.
+
+- **Kimin için:** Terminal üzerinden kod geliştirme süreçlerini otomatikleştirmek ve yapay zekâ destekli bir kodlama ajanı ile iş akışını hızlandırmak isteyen yazılım geliştiriciler için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/can1357/oh-my-pi)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+LSP AI Coding Agent IDE Coding Agent Terminal Agent
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/oh-my-pi/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Tasarım sistemlerini yapay zekâya tanıtın
 
 Google Labs tarafından geliştirilen DESIGN.md, görsel kimlik bilgilerini kodlama ajanlarına aktarmak için yapılandırılmış bir format spesifikasyonu sunuyor. Bu standart, tasarım sistemlerinin (design systems) yapay zekâ ajanları tarafından tutarlı ve kalıcı bir şekilde anlaşılmasını sağlıyor.
@@ -33760,75 +34127,6 @@ Self-hosted Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/open-generative-ai/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Terminalde yapay zekâ destekli kodlama
-
-Oh-my-pi, terminal ortamında çalışan ve kod düzenleme süreçlerini otomatikleştiren bir yapay zekâ kodlama ajanıdır (AI coding agent). Araç, dil sunucusu protokolü (LSP), tarayıcı entegrasyonu ve alt ajan yönetimi gibi özelliklerle yazılım geliştirme iş akışlarını optimize etmeyi hedefler.
-
-- ★ 26.573
-- GitHub Trending · 2026-06-02
-
-## Güncelleme
-- 23 Ağustos 2026: Yıldız 26.347 → 26.573, son sürüm v18.0.1 (23 Ağustos 2026).
-- 22 Ağustos 2026: Yıldız 25.996 → 26.347, son sürüm v17.4.2 (21 Ağustos 2026).
-- 20 Ağustos 2026: Yıldız 25.804 → 25.996, son sürüm v17.4.0 (20 Ağustos 2026).
-- 19 Ağustos 2026: Yıldız 25.590 → 25.804, son sürüm v17.3.8 (19 Ağustos 2026).
-
-## Ne kazandırır?
-- IDE özelliklerini terminale taşıyarak kod düzenleme süreçlerini otomatikleştirir.
-- LSP entegrasyonu ile yeniden adlandırma ve referans takibi gibi işlemleri hatasız yapar.
-- Hata ayıklama araçlarıyla doğrudan etkileşime girerek sorunları yerinde çözer.
-
-## Kurulum
-
-**macOS ve Linux için kurulum**
-
-```
-curl -fsSL https://omp.sh/install | sh
-```
-
-**Bun üzerinden kurulum**
-
-```
-bun install -g @oh-my-pi/pi-coding-agent
-```
-
-## Çalıştırma
-
-**Kabuk tamamlayıcılarını yapılandırma**
-
-```
-# zsh — add to ~/.zshrc (or write the output into a file on your $fpath)
-eval "$(omp completions zsh)"
-
-# bash — add to ~/.bashrc
-eval "$(omp completions bash)"
-
-# fish
-omp completions fish > ~/.config/fish/completions/omp.fish
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Oh My Pi aracını terminalimde kullanmaya başladım. Bu yapay zekâ kodlama ajanı ile projelerimde LSP desteği, hata ayıklama ve alt ajan yönetimi gibi gelişmiş özellikleri kullanarak iş akışımı nasıl optimize edebilirim? Özellikle kod düzenleme, dosya okuma ve hata ayıklama süreçlerinde bu aracın sunduğu yerleşik araçları en verimli şekilde nasıl kullanacağımı adım adım açıkla.
-
-- **Kimin için:** Terminal üzerinden kod geliştirme süreçlerini otomatikleştirmek ve yapay zekâ destekli bir kodlama ajanı ile iş akışını hızlandırmak isteyen yazılım geliştiriciler için uygundur. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/can1357/oh-my-pi)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-LSP AI Coding Agent IDE Coding Agent Terminal Agent
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/oh-my-pi/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -34139,6 +34437,84 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yapay zekâ kodlama ajanlarına uzmanlık kazandırın
+
+Claude Code ve çeşitli kodlama ajanları için geliştirilen bu kütüphane, mühendislikten pazarlamaya kadar farklı alanlarda 330'dan fazla yetenek paketi (skills) ve 70'in üzerinde özel komut sunuyor. Python tabanlı bu araç seti, yapay zekâ tabanlı iş akışlarını standartlaştırmak ve üretkenliği artırmak amacıyla özelleştirilebilir betikler sağlıyor.
+
+- ★ 24.867
+- Python
+- GitHub Trending · 2026-07-05
+
+## Güncelleme
+- 24 Ağustos 2026: Yıldız 23.654 → 24.867, son sürüm v2.9.0 (28 Mayıs 2026).
+- 2 Ağustos 2026: Yıldız 20.244 → 23.654, son sürüm v2.9.0 (28 Mayıs 2026).
+
+## Ne kazandırır?
+- 350'den fazla hazır yetenek paketi
+- Mühendislikten pazarlamaya geniş uzmanlık alanı
+- 13 farklı kodlama aracıyla uyumlu çalışma
+
+## Kurulum
+
+**Gemini CLI kurulumu**
+
+```
+# Clone the repository
+git clone https://github.com/alirezarezvani/claude-skills.git
+cd claude-skills
+
+# Run the setup script
+./scripts/gemini-install.sh
+
+# Start using skills
+> activate_skill(name="senior-architect")
+```
+
+**OpenClaw kurulumu**
+
+```
+bash 
+
+## Çalıştırma
+
+**Cursor için yetenekleri dönüştürme**
+
+```
+# 1. Convert all skills to all tools (takes ~15 seconds)
+./scripts/convert.sh --tool all
+
+# 2. Install into your project (with confirmation)
+./scripts/install.sh --tool cursor --target /path/to/project
+
+# Or use --force to skip confirmation:
+./scripts/install.sh --tool aider --target . --force
+
+# 3. Verify
+find .cursor/rules -name "*.mdc" | wc -l # Should show 346
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Claude Code veya kullandığın kodlama ajanı için bu kütüphanedeki yetenek paketlerini aktif et. Mühendislik, pazarlama veya C-seviyesi danışmanlık gibi alanlarda uzmanlaşmış betikleri kullanarak iş akışımı standartlaştır ve üretkenliğimi artır. İhtiyacım olan spesifik yetenekleri (örneğin güvenlik denetimi veya ürün geliştirme) projeme entegre et.
+
+- **Kimin için:** Yapay zekâ destekli kodlama araçlarını profesyonel iş akışlarında daha verimli ve uzman bir şekilde kullanmak isteyen yazılımcılar ve teknik ekipler içindir. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/alirezarezvani/claude-skills)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+AI Skills CLI Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/claude-skills/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Ürün yönetimi için yapay zekâ yetenekleri
 
 PM Skills Marketplace, ürün yönetimi süreçleri için geliştirilmiş 100'den fazla otonom yetenek (agentic skills), komut ve eklenti sunuyor. Bu kaynak, keşif aşamasından büyüme evresine kadar tüm ürün yaşam döngüsü boyunca yapay zekâ destekli iş akışlarını standartlaştırmayı amaçlıyor.
@@ -34243,16 +34619,16 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Compound Engineering ; Claude Code, Codex ve Cursor için geliştirilmiş resmi bir eklentidir. Temel felsefesi nettir: her mühendislik işi bir sonrakini zorlaştırmamalı, aksine kolaylaştırmalıdır. Bu amaçla, geliştirme sürecini iyileştiren yapay zekâ becerileri ve ajanları sunar.
 
-- ★ 24.448
+- ★ 24.485
 - TypeScript
 - MIT
 - GitHub Trending · 29 May 2026
 
 ## Güncelleme
+- 24 Ağustos 2026: Yıldız 24.448 → 24.485, son sürüm compound-engineering-v3.23.2 (23 Ağustos 2026).
 - 23 Ağustos 2026: Yıldız 24.349 → 24.448, son sürüm compound-engineering-v3.23.1 (22 Ağustos 2026).
 - 18 Ağustos 2026: Yıldız 24.316 → 24.349, son sürüm compound-engineering-v3.22.4 (18 Ağustos 2026).
 - 17 Ağustos 2026: Yıldız 24.300 → 24.316, son sürüm compound-engineering-v3.22.1 (17 Ağustos 2026).
-- 16 Ağustos 2026: Yıldız 24.046 → 24.300, son sürüm compound-engineering-v3.22.0 (16 Ağustos 2026).
 
 - **Kimin için:** AI ile geliştirme yapan ekipler 
 - **Zorluk:** Orta · AI asistanına eklenir 
@@ -34498,83 +34874,6 @@ Interoperability Agent Skills AI Skills Agent Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agentskills/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Yapay zekâ kodlama ajanlarına uzmanlık kazandırın
-
-Claude Code ve çeşitli kodlama ajanları için geliştirilen bu kütüphane, mühendislikten pazarlamaya kadar farklı alanlarda 330'dan fazla yetenek paketi (skills) ve 70'in üzerinde özel komut sunuyor. Python tabanlı bu araç seti, yapay zekâ tabanlı iş akışlarını standartlaştırmak ve üretkenliği artırmak amacıyla özelleştirilebilir betikler sağlıyor.
-
-- ★ 23.654
-- Python
-- GitHub Trending · 2026-07-05
-
-## Güncelleme
-- 2 Ağustos 2026: Yıldız 20.244 → 23.654, son sürüm v2.9.0 (28 Mayıs 2026).
-
-## Ne kazandırır?
-- 350'den fazla hazır yetenek paketi
-- Mühendislikten pazarlamaya geniş uzmanlık alanı
-- 13 farklı kodlama aracıyla uyumlu çalışma
-
-## Kurulum
-
-**Gemini CLI kurulumu**
-
-```
-# Clone the repository
-git clone https://github.com/alirezarezvani/claude-skills.git
-cd claude-skills
-
-# Run the setup script
-./scripts/gemini-install.sh
-
-# Start using skills
-> activate_skill(name="senior-architect")
-```
-
-**OpenClaw kurulumu**
-
-```
-bash 
-
-## Çalıştırma
-
-**Cursor için yetenekleri dönüştürme**
-
-```
-# 1. Convert all skills to all tools (takes ~15 seconds)
-./scripts/convert.sh --tool all
-
-# 2. Install into your project (with confirmation)
-./scripts/install.sh --tool cursor --target /path/to/project
-
-# Or use --force to skip confirmation:
-./scripts/install.sh --tool aider --target . --force
-
-# 3. Verify
-find .cursor/rules -name "*.mdc" | wc -l # Should show 346
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Claude Code veya kullandığın kodlama ajanı için bu kütüphanedeki yetenek paketlerini aktif et. Mühendislik, pazarlama veya C-seviyesi danışmanlık gibi alanlarda uzmanlaşmış betikleri kullanarak iş akışımı standartlaştır ve üretkenliğimi artır. İhtiyacım olan spesifik yetenekleri (örneğin güvenlik denetimi veya ürün geliştirme) projeme entegre et.
-
-- **Kimin için:** Yapay zekâ destekli kodlama araçlarını profesyonel iş akışlarında daha verimli ve uzman bir şekilde kullanmak isteyen yazılımcılar ve teknik ekipler içindir. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/alirezarezvani/claude-skills)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-AI Skills CLI Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/claude-skills/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -34889,15 +35188,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Openwork, Claude Cowork platformuna açık kaynaklı bir alternatif olarak geliştirilen ve opencode altyapısını kullanan bir yazılım projesidir. TypeScript diliyle yazılan bu araç, yazılım geliştirme süreçlerini otomatize etmeyi hedefleyen yapay zekâ destekli bir çalışma ortamı sunar.
 
-- ★ 22.809
+- ★ 22.984
 - TypeScript
 - GitHub Trending · 2026-07-30
 
 ## Güncelleme
+- 24 Ağustos 2026: Yıldız 22.809 → 22.984, son sürüm v0.18.36 (24 Ağustos 2026).
 - 21 Ağustos 2026: Yıldız 22.673 → 22.809, son sürüm v0.18.35 (20 Ağustos 2026).
 - 19 Ağustos 2026: Yıldız 22.647 → 22.673, son sürüm v0.18.33 (19 Ağustos 2026).
 - 19 Ağustos 2026: Yıldız 22.640 → 22.647, son sürüm v0.18.32 (19 Ağustos 2026).
-- 19 Ağustos 2026: Yıldız 22.609 → 22.640, son sürüm v0.18.31 (19 Ağustos 2026).
 
 ## Ne kazandırır?
 - Yapay zekâ araçları arasında yetenekleri paylaşma
@@ -35303,6 +35602,55 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yapay zekâ destekli hassas kod inceleme
+
+Alibaba tarafından geliştirilen açık kaynaklı kod inceleme aracı, deterministik işlem hatları (pipelines) ile büyük dil modeli (LLM) ajanlarını hibrit bir yapıda birleştiriyor. Yazılım güvenliği kuralları ve satır bazlı yorumlama yetenekleriyle donatılan araç, Go diliyle yazılmış olup OpenAI ve Anthropic uyumlu bir altyapı sunuyor.
+
+- ★ 21.276
+- Go
+- GitHub Trending · 2026-07-24
+
+## Güncelleme
+- 24 Ağustos 2026: Yıldız 21.044 → 21.276, son sürüm v1.9.10 (23 Ağustos 2026).
+- 21 Ağustos 2026: Yıldız 20.891 → 21.044, son sürüm v1.9.9 (21 Ağustos 2026).
+- 20 Ağustos 2026: Yıldız 20.813 → 20.891, son sürüm v1.9.8 (20 Ağustos 2026).
+- 19 Ağustos 2026: Yıldız 20.761 → 20.813, son sürüm v1.9.7 (19 Ağustos 2026).
+
+## Ne kazandırır?
+- Satır bazlı hassas hata tespiti
+- Düşük token tüketimi ile yüksek verimlilik
+- Deterministik işlem hatları ile kararlı sonuçlar
+
+## Kurulum
+
+**CLI aracını küresel olarak yükleyin**
+
+```
+npm install -g @alibaba-group/open-code-review
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Open Code Review aracını kullanarak mevcut Git değişikliklerimi incele. Kod tabanındaki dosyaları analiz et, satır bazlı hata tespiti yap ve yapılandırılmış geri bildirimler oluştur. İnceleme sürecinde deterministik kuralları takip ederek yanlış pozitifleri en aza indir ve sadece kritik güvenlik veya mantık hatalarına odaklan.
+
+- **Kimin için:** Kod kalitesini artırmak ve büyük ölçekli projelerde güvenli kod incelemesi yapmak isteyen yazılım geliştiriciler için uygundur. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/alibaba/open-code-review)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-24 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Code Review Token LLM CLI Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/open-code-review/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Yerel donanımda DeepSeek çalıştırma motoru
 
 Redis'in yaratıcısı Salvatore Sanfilippo tarafından geliştirilen ds4, DeepSeek modellerini yerel donanımlar üzerinde çalıştırmayı sağlayan bir çıkarım motoru (inference engine). C diliyle yazılan bu araç, Metal, CUDA ve ROCm desteği sayesinde farklı grafik işlemcilerinde yüksek performanslı model çalıştırma imkânı sunuyor.
@@ -35445,55 +35793,6 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Yapay zekâ destekli hassas kod inceleme
-
-Alibaba tarafından geliştirilen açık kaynaklı kod inceleme aracı, deterministik işlem hatları (pipelines) ile büyük dil modeli (LLM) ajanlarını hibrit bir yapıda birleştiriyor. Yazılım güvenliği kuralları ve satır bazlı yorumlama yetenekleriyle donatılan araç, Go diliyle yazılmış olup OpenAI ve Anthropic uyumlu bir altyapı sunuyor.
-
-- ★ 21.044
-- Go
-- GitHub Trending · 2026-07-24
-
-## Güncelleme
-- 21 Ağustos 2026: Yıldız 20.891 → 21.044, son sürüm v1.9.9 (21 Ağustos 2026).
-- 20 Ağustos 2026: Yıldız 20.813 → 20.891, son sürüm v1.9.8 (20 Ağustos 2026).
-- 19 Ağustos 2026: Yıldız 20.761 → 20.813, son sürüm v1.9.7 (19 Ağustos 2026).
-- 19 Ağustos 2026: Yıldız 20.626 → 20.761, son sürüm v1.9.6 (18 Ağustos 2026).
-
-## Ne kazandırır?
-- Satır bazlı hassas hata tespiti
-- Düşük token tüketimi ile yüksek verimlilik
-- Deterministik işlem hatları ile kararlı sonuçlar
-
-## Kurulum
-
-**CLI aracını küresel olarak yükleyin**
-
-```
-npm install -g @alibaba-group/open-code-review
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Open Code Review aracını kullanarak mevcut Git değişikliklerimi incele. Kod tabanındaki dosyaları analiz et, satır bazlı hata tespiti yap ve yapılandırılmış geri bildirimler oluştur. İnceleme sürecinde deterministik kuralları takip ederek yanlış pozitifleri en aza indir ve sadece kritik güvenlik veya mantık hatalarına odaklan.
-
-- **Kimin için:** Kod kalitesini artırmak ve büyük ölçekli projelerde güvenli kod incelemesi yapmak isteyen yazılım geliştiriciler için uygundur. 
-- **Lisans:** Apache-2.0 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/alibaba/open-code-review)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-24 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Code Review Token LLM CLI Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/open-code-review/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
 # Sistem süreçlerinin kökenini keşfedin
 
 Witr, sistemdeki süreçleri, portları, konteynerleri veya dosyaları izleyerek bunların hangi kaynak tarafından başlatıldığını tespit eden bir komut satırı aracıdır. Kullanıcıların sistem üzerindeki etkinlikleri takip etmesini sağlayan bu yazılım, hem komut satırı (CLI) hem de metin tabanlı kullanıcı arayüzü (TUI) desteği sunar.
@@ -35605,6 +35904,45 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Çok dilli fitness egzersiz veri seti
+
+Hasaneyldrm tarafından paylaşılan egzersiz veri seti (exercises-dataset), 433 farklı fitness hareketini isim, hedef kas grubu, ekipman ve görsel talimatlarla birlikte sunuyor. Bu kapsamlı kaynak, spor teknolojileri uygulamaları geliştirenler için yapılandırılmış bir veri altyapısı sağlıyor.
+
+- ★ 20.717
+- HTML
+- GitHub Trending · 2026-07-01
+
+## Güncelleme
+- 24 Ağustos 2026: Yıldız 19.692 → 20.717.
+- 15 Ağustos 2026: Yıldız 18.515 → 19.692.
+- 2 Ağustos 2026: Yıldız 7.552 → 18.515.
+
+## Ne kazandırır?
+- 1.324 farklı fitness egzersizi için yapılandırılmış veri
+- Türkçe dahil 6 dilde adım adım uygulama talimatları
+- Veritabanı ve API entegrasyonu için hazır rehber
+
+## Nasıl başlanır?
+
+Bu araç bir kurulum gerektirmez. GitHub sayfasındaki dosyaları bilgisayarınıza indirdikten sonra 'index.html' dosyasını herhangi bir internet tarayıcısı ile açarak egzersizleri inceleyebilir, 'setup.html' dosyasını açarak ise veritabanı ve API kurulum rehberine ulaşabilirsiniz.
+
+- **Kimin için:** Spor teknolojileri alanında uygulama geliştiren yazılımcılar ve fitness odaklı araştırmacılar için uygundur. 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/hasaneyldrm/exercises-dataset)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Exercises Dataset API
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/exercises-dataset/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Web tabanlı 3 boyutlu mimari düzenleyici
 
 TypeScript tabanlı pascalorg/editor, kullanıcıların tarayıcı üzerinden üç boyutlu mimari projeler oluşturmasına ve bu projeleri paylaşmasına olanak tanıyor. Yazılım, mimari tasarım süreçlerini web tabanlı bir arayüzle erişilebilir kılmayı hedefliyor.
@@ -35707,15 +36045,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 CodexBar, OpenAI Codex ve Claude Code kullanım verilerini oturum açma zorunluluğu olmadan görüntülemeyi sağlayan bir araçtır. Swift diliyle geliştirilen bu uygulama, geliştiricilerin yapay zekâ destekli kodlama araçlarındaki tüketim istatistiklerini izlemelerini kolaylaştırır.
 
-- ★ 20.386
+- ★ 20.508
 - Swift
 - GitHub Trending · 2026-07-06
 
 ## Güncelleme
+- 24 Ağustos 2026: Yıldız 20.386 → 20.508, son sürüm v0.54.1 (23 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 20.280 → 20.386, son sürüm v0.54.0 (20 Ağustos 2026).
 - 18 Ağustos 2026: Yıldız 20.191 → 20.280, son sürüm v0.53.0 (18 Ağustos 2026).
 - 17 Ağustos 2026: Yıldız 20.131 → 20.191, son sürüm v0.51.0 (16 Ağustos 2026).
-- 15 Ağustos 2026: Yıldız 19.899 → 20.131, son sürüm v0.50.0 (15 Ağustos 2026).
 
 ## Ne kazandırır?
 - Tüm yapay zekâ servislerinin kullanım limitlerini menü çubuğunda anlık görün
@@ -35897,44 +36235,6 @@ User Experience Interoperability
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/wand-enhancer/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Çok dilli fitness egzersiz veri seti
-
-Hasaneyldrm tarafından paylaşılan egzersiz veri seti (exercises-dataset), 433 farklı fitness hareketini isim, hedef kas grubu, ekipman ve görsel talimatlarla birlikte sunuyor. Bu kapsamlı kaynak, spor teknolojileri uygulamaları geliştirenler için yapılandırılmış bir veri altyapısı sağlıyor.
-
-- ★ 19.692
-- HTML
-- GitHub Trending · 2026-07-01
-
-## Güncelleme
-- 15 Ağustos 2026: Yıldız 18.515 → 19.692.
-- 2 Ağustos 2026: Yıldız 7.552 → 18.515.
-
-## Ne kazandırır?
-- 1.324 farklı fitness egzersizi için yapılandırılmış veri
-- Türkçe dahil 6 dilde adım adım uygulama talimatları
-- Veritabanı ve API entegrasyonu için hazır rehber
-
-## Nasıl başlanır?
-
-Bu araç bir kurulum gerektirmez. GitHub sayfasındaki dosyaları bilgisayarınıza indirdikten sonra 'index.html' dosyasını herhangi bir internet tarayıcısı ile açarak egzersizleri inceleyebilir, 'setup.html' dosyasını açarak ise veritabanı ve API kurulum rehberine ulaşabilirsiniz.
-
-- **Kimin için:** Spor teknolojileri alanında uygulama geliştiren yazılımcılar ve fitness odaklı araştırmacılar için uygundur. 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/hasaneyldrm/exercises-dataset)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Exercises Dataset API
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/exercises-dataset/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -36285,7 +36585,7 @@ Lisans: ⚠️ Repo'da bir lisans belirtilmemiş; bu varsayılan olarak 'tüm ha
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Observability Sandbox SDK Rust Open Source Artificial Intelligence
+Observability Sandbox SDK Open Source Rust Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/iii/
@@ -37453,6 +37753,62 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Logitech cihazlar için açık kaynaklı yönetim
+
+OpenLogi é um software alternativo local e de código aberto desenvolvido para gerenciar periféricos Logitech. Ele permite que os usuários definam atalhos de teclado, configurações de sensibilidade (DPI) e recursos SmartShift sem a necessidade de criar uma conta ou compartilhar dados.
+
+- ★ 15.122
+- Rust
+- GitHub Trending · 2026-08-20
+
+## Güncelleme
+- 24 Ağustos 2026: Yıldız 14.083 → 15.122, son sürüm v0.7.10 (23 Ağustos 2026).
+- 23 Ağustos 2026: Yıldız 12.579 → 14.083, son sürüm v0.7.4 (21 Ağustos 2026).
+- 21 Ağustos 2026: Yıldız 11.574 → 12.579, son sürüm v0.7.4 (21 Ağustos 2026).
+- 20 Ağustos 2026: Yıldız 11.535 → 11.574, son sürüm v0.7.3 (20 Ağustos 2026).
+
+## Ne kazandırır?
+- Hesap oluşturmadan yerel kontrol sağlar
+- Tüm tuşlara özel kısayollar atar
+- Linux dahil çoklu platform desteği sunar
+
+## Kurulum
+
+**Homebrew ile standart kurulum**
+
+```
+brew install --cask openlogi
+```
+
+**En güncel sürümü takip etme**
+
+```
+brew tap aprilnea/tap
+brew install --cask aprilnea/tap/openlogi@latest
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Logitech farem, klavyem ve web kameram üzerinde tam kontrol sağlamak istiyorum. OpenLogi kullanarak tuş atamalarımı, DPI hassasiyet ayarlarımı ve kamera görüntü kontrollerimi nasıl yapılandırabilirim? Özellikle TOML formatındaki yapılandırma dosyası ile cihazlarımı nasıl özelleştirebileceğimi ve uygulama bazlı profilleri nasıl oluşturabileceğimi adım adım açıkla.
+
+- **Kimin için:** Logitech çevre birimlerini hesap zorunluluğu olmadan, daha hafif ve kişiselleştirilebilir bir yazılımla yönetmek isteyen kullanıcılar içindir. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/AprilNEA/OpenLogi)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+DPI Local Rust Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/openlogi/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Kişisel yapay zekâ altyapınızı kurun
 
 Kişisel yapay zekâ altyapısı (Personal AI Infrastructure), insan yeteneklerini artırmak amacıyla tasarlanmış ajan tabanlı yapay zekâ (agentic AI) sistemleri oluşturmaya yönelik bir çerçeve sunuyor. TypeScript ile geliştirilen bu yapı, kullanıcıların kendi otonom iş akışlarını yönetmelerini sağlayan modüler bir mimariyi destekliyor.
@@ -37952,62 +38308,6 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Logitech cihazlar için açık kaynaklı yönetim
-
-OpenLogi é um software alternativo local e de código aberto desenvolvido para gerenciar periféricos Logitech. Ele permite que os usuários definam atalhos de teclado, configurações de sensibilidade (DPI) e recursos SmartShift sem a necessidade de criar uma conta ou compartilhar dados.
-
-- ★ 14.083
-- Rust
-- GitHub Trending · 2026-08-20
-
-## Güncelleme
-- 23 Ağustos 2026: Yıldız 12.579 → 14.083, son sürüm v0.7.4 (21 Ağustos 2026).
-- 21 Ağustos 2026: Yıldız 11.574 → 12.579, son sürüm v0.7.4 (21 Ağustos 2026).
-- 20 Ağustos 2026: Yıldız 11.535 → 11.574, son sürüm v0.7.3 (20 Ağustos 2026).
-- 20 Ağustos 2026: Yıldız 10.999 → 11.535, son sürüm v0.7.2 (20 Ağustos 2026).
-
-## Ne kazandırır?
-- Hesap oluşturmadan yerel kontrol sağlar
-- Tüm tuşlara özel kısayollar atar
-- Linux dahil çoklu platform desteği sunar
-
-## Kurulum
-
-**Homebrew ile standart kurulum**
-
-```
-brew install --cask openlogi
-```
-
-**En güncel sürümü takip etme**
-
-```
-brew tap aprilnea/tap
-brew install --cask aprilnea/tap/openlogi@latest
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Logitech farem, klavyem ve web kameram üzerinde tam kontrol sağlamak istiyorum. OpenLogi kullanarak tuş atamalarımı, DPI hassasiyet ayarlarımı ve kamera görüntü kontrollerimi nasıl yapılandırabilirim? Özellikle TOML formatındaki yapılandırma dosyası ile cihazlarımı nasıl özelleştirebileceğimi ve uygulama bazlı profilleri nasıl oluşturabileceğimi adım adım açıkla.
-
-- **Kimin için:** Logitech çevre birimlerini hesap zorunluluğu olmadan, daha hafif ve kişiselleştirilebilir bir yazılımla yönetmek isteyen kullanıcılar içindir. 
-- **Lisans:** Apache-2.0 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/AprilNEA/OpenLogi)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-DPI Local Rust Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/openlogi/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
 # Borsa Verilerini Ücretsiz Takip Edin
 
 OpenStock , pahalı borsa platformlarına karşı geliştirilmiş açık kaynaklı bir alternatiftir. Gerçek zamanlı fiyat takibi, kişiselleştirilmiş uyarılar ve şirket analizleri sunar. Herkes için erişilebilir ve sonsuza dek ücretsizdir.
@@ -38142,15 +38442,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Metinden bilgisayar destekli tasarım (text-to-cad) araçları, robotik ve donanım tasarımı süreçlerini otomatikleştirmek için geliştirilen bir yetenek paketi (agent skills) koleksiyonudur. JavaScript tabanlı bu kütüphane, karmaşık mühendislik modellerinin doğal dil komutlarıyla oluşturulmasına olanak tanır.
 
-- ★ 13.730
+- ★ 13.814
 - JavaScript
 - GitHub Trending · 2026-07-22
 
 ## Güncelleme
+- 24 Ağustos 2026: Yıldız 13.730 → 13.814, son sürüm 0.4.25 (23 Ağustos 2026).
 - 21 Ağustos 2026: Yıldız 13.684 → 13.730, son sürüm 0.4.21 (21 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 13.626 → 13.684, son sürüm 0.4.20 (19 Ağustos 2026).
 - 19 Ağustos 2026: Yıldız 13.591 → 13.626, son sürüm 0.4.19 (19 Ağustos 2026).
-- 18 Ağustos 2026: Yıldız 13.520 → 13.591, son sürüm 0.4.17 (17 Ağustos 2026).
 
 ## Ne kazandırır?
 - Doğal dille karmaşık CAD modelleri oluşturma
@@ -38351,6 +38651,57 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yapay zekâ görsel üretimi için şablonlar
+
+GPT-Image2, görsel oluşturma süreçlerini kod olarak tanımlayan (Prompt as Code) bir istem mühendisliği (prompt engineering) kütüphanesi. 470'ten fazla tersine mühendislik yapılmış örnek ve 20'den fazla endüstriyel şablon ile yapay zekâ modellerinden tutarlı sonuçlar almayı kolaylaştırıyor.
+
+- ★ 13.526
+- JavaScript
+- GitHub Trending · 2026-08-24
+
+## Ne kazandırır?
+- 500'den fazla tersine mühendislik yapılmış görsel istemi
+- 20'den fazla endüstriyel görsel oluşturma şablonu
+- Görsel süreçlerini kod olarak tanımlayan yapısal protokoller
+
+## Kurulum
+
+**Tüm stilleri bilgisayara yükleme**
+
+```
+npx gpt-image-2-style-library install all
+```
+
+## Çalıştırma
+
+**Yapay zekâ ajanına yetenek ekleme**
+
+```
+npx skills add freestylefly/awesome-gpt-image-2 --skill gpt-image-2-style-library --agent claude-code codex --global --yes --copy
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Sen bir görsel istem mühendisisin. Awesome GPT Image 2 kütüphanesindeki yapısal protokolleri kullanarak, belirttiğim görsel konusunu; ışıklandırma, malzeme, düzen ve görsel detaylar gibi atomik parçalara ayır. Ürettiğin istemin yapay zekâ modelleri tarafından tutarlı ve kontrol edilebilir sonuçlar vermesini sağla.
+
+- **Kimin için:** Yapay zekâ modellerinden daha tutarlı, profesyonel ve tekrarlanabilir görseller elde etmek isteyen tasarımcılar ve otomasyon geliştiricileri içindir. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/freestylefly/awesome-gpt-image-2)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-24 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Prompt Engineering Prompt as Code Prompt Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/awesome-gpt-image-2/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Sistematik alım satım kaynak kütüphanesi
 
 Sistematik alım satım (systematic trading) alanındaki kütüphaneleri, stratejileri ve eğitim kaynaklarını bir araya getiren bu liste, Python tabanlı finansal modelleme süreçlerini destekliyor. Algoritmik ticaret (algorithmic trading) dünyasına giriş yapmak isteyenler için gerekli araçları ve literatürü tek bir merkezde topluyor.
@@ -38385,6 +38736,97 @@ Algorithmic Trading Systematic Trading Backtesting
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/awesome-systematic-trading/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# WhatsApp için açık kaynaklı ağ geçidi
+
+OpenWA, WhatsApp mesajlaşma protokolü için ücretsiz ve açık kaynaklı bir ağ geçidi (API gateway) çözümü sunuyor. TypeScript diliyle geliştirilen bu araç, kullanıcıların kendi sunucularında (self-hosted) WhatsApp entegrasyonlarını yönetmelerine olanak tanıyor.
+
+- ★ 13.128
+- TypeScript
+- GitHub Trending · 2026-06-17
+
+## Güncelleme
+- 24 Ağustos 2026: Yıldız 13.033 → 13.128, son sürüm v0.23.2 (23 Ağustos 2026).
+- 21 Ağustos 2026: Yıldız 12.991 → 13.033, son sürüm v0.23.1 (21 Ağustos 2026).
+- 20 Ağustos 2026: Yıldız 12.953 → 12.991, son sürüm v0.23.0 (20 Ağustos 2026).
+- 19 Ağustos 2026: Yıldız 12.919 → 12.953, son sürüm v0.22.0 (19 Ağustos 2026).
+
+## Ne kazandırır?
+- WhatsApp mesajlaşma altyapısı üzerinde tam kontrol
+- Modern arayüz ile oturum ve webhook yönetimi
+- Docker desteği ile hızlı ve kolay kurulum
+
+## Kurulum
+
+**Docker ile hızlı kurulum**
+
+```
+# Clone and start
+git clone https://github.com/rmyndharis/OpenWA.git
+cd OpenWA
+docker compose -f docker-compose.dev.yml up -d
+
+# Access
+# Dashboard: http://localhost:2886
+# API: http://localhost:2785/api
+# Swagger: http://localhost:2785/api/docs
+```
+
+**Yerel geliştirme ortamı**
+
+```
+# Clone repository
+git clone https://github.com/rmyndharis/OpenWA.git
+cd OpenWA
+
+# Install dependencies (includes dashboard)
+npm install
+
+# Start API + Dashboard (config is auto-generated on first run)
+npm run dev
+
+# Access
+# Dashboard: http://localhost:2886
+# API: http://localhost:2785/api
+# Swagger: http://localhost:2785/api/docs
+```
+
+## Çalıştırma
+
+**Üretim ortamında başlatma**
+
+```
+# Basic production (SQLite, local storage)
+docker compose up -d
+
+# With PostgreSQL database
+docker compose --profile postgres up -d
+
+# Full stack (PostgreSQL, Redis, Dashboard, Traefik)
+docker compose --profile full up -d
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+OpenWA aracını kullanarak WhatsApp üzerinden mesajlaşma süreçlerimi otomatize etmek istiyorum. REST API uç noktalarını kullanarak yeni bir oturum oluşturmak, mesaj göndermek ve gelen mesajları webhook üzerinden dinlemek için gerekli temel yapılandırma adımlarını bana açıkla. Özellikle çoklu oturum yönetimi ve API anahtarı güvenliği konularında dikkat etmem gerekenleri belirt.
+
+- **Kimin için:** Kendi WhatsApp entegrasyonlarını geliştirmek isteyen ve mesajlaşma altyapısı üzerinde tam kontrol sahibi olmayı hedefleyen yazılımcılar içindir. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/rmyndharis/OpenWA)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-17 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+API Gateway Gateway Self-hosted API Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/openwa/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -38541,92 +38983,58 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# WhatsApp için açık kaynaklı ağ geçidi
+# Yapay zekâ ajanları için eş zamanlı tarayıcı
 
-OpenWA, WhatsApp mesajlaşma protokolü için ücretsiz ve açık kaynaklı bir ağ geçidi (API gateway) çözümü sunuyor. TypeScript diliyle geliştirilen bu araç, kullanıcıların kendi sunucularında (self-hosted) WhatsApp entegrasyonlarını yönetmelerine olanak tanıyor.
+Ego-lite, kullanıcılar ve yapay zekâ ajanları (AI agents) için eş zamanlı çalışma imkânı sunan bir tarayıcıdır. JavaScript tabanlı bu araç, insan ve makine etkileşimini aynı tarayıcı ortamında paralel şekilde yürütmeyi hedefler.
 
-- ★ 13.033
-- TypeScript
-- GitHub Trending · 2026-06-17
+- ★ 13.023
+- JavaScript
+- GitHub Trending · 2026-07-24
 
 ## Güncelleme
-- 21 Ağustos 2026: Yıldız 12.991 → 13.033, son sürüm v0.23.1 (21 Ağustos 2026).
-- 20 Ağustos 2026: Yıldız 12.953 → 12.991, son sürüm v0.23.0 (20 Ağustos 2026).
-- 19 Ağustos 2026: Yıldız 12.919 → 12.953, son sürüm v0.22.0 (19 Ağustos 2026).
-- 18 Ağustos 2026: Yıldız 12.815 → 12.919, son sürüm v0.21.0 (18 Ağustos 2026).
+- 24 Ağustos 2026: Yıldız 11.904 → 13.023, son sürüm v1.2.3 (11 Ağustos 2026).
+- 19 Ağustos 2026: Yıldız 10.888 → 11.904, son sürüm v1.2.3 (11 Ağustos 2026).
+- 15 Ağustos 2026: Yıldız 9.541 → 10.888, son sürüm v1.2.3 (11 Ağustos 2026).
+- 11 Ağustos 2026: Yıldız 8.875 → 9.541, son sürüm v1.2.3 (11 Ağustos 2026).
 
 ## Ne kazandırır?
-- WhatsApp mesajlaşma altyapısı üzerinde tam kontrol
-- Modern arayüz ile oturum ve webhook yönetimi
-- Docker desteği ile hızlı ve kolay kurulum
+- Ajanlar ve kullanıcılar aynı tarayıcıda çakışmadan çalışır
+- Chrome verilerini içe aktararak oturumları korur
+- JavaScript tabanlı yapısı ile daha hızlı görev tamamlama
 
 ## Kurulum
 
-**Docker ile hızlı kurulum**
+**Skill ekleme**
 
 ```
-# Clone and start
-git clone https://github.com/rmyndharis/OpenWA.git
-cd OpenWA
-docker compose -f docker-compose.dev.yml up -d
-
-# Access
-# Dashboard: http://localhost:2886
-# API: http://localhost:2785/api
-# Swagger: http://localhost:2785/api/docs
-```
-
-**Yerel geliştirme ortamı**
-
-```
-# Clone repository
-git clone https://github.com/rmyndharis/OpenWA.git
-cd OpenWA
-
-# Install dependencies (includes dashboard)
-npm install
-
-# Start API + Dashboard (config is auto-generated on first run)
-npm run dev
-
-# Access
-# Dashboard: http://localhost:2886
-# API: http://localhost:2785/api
-# Swagger: http://localhost:2785/api/docs
+npx skills add citrolabs/ego-lite
 ```
 
 ## Çalıştırma
 
-**Üretim ortamında başlatma**
+**Görev başlatma**
 
 ```
-# Basic production (SQLite, local storage)
-docker compose up -d
-
-# With PostgreSQL database
-docker compose --profile postgres up -d
-
-# Full stack (PostgreSQL, Redis, Dashboard, Traefik)
-docker compose --profile full up -d
+ego-browser follow @ego_agent on x.com for me
 ```
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-OpenWA aracını kullanarak WhatsApp üzerinden mesajlaşma süreçlerimi otomatize etmek istiyorum. REST API uç noktalarını kullanarak yeni bir oturum oluşturmak, mesaj göndermek ve gelen mesajları webhook üzerinden dinlemek için gerekli temel yapılandırma adımlarını bana açıkla. Özellikle çoklu oturum yönetimi ve API anahtarı güvenliği konularında dikkat etmem gerekenleri belirt.
+Set up ego lite for me: https://github.com/citrolabs/ego-lite. Read `skills/ego-browser/references/install.md` and follow the steps to install ego lite.
 
-- **Kimin için:** Kendi WhatsApp entegrasyonlarını geliştirmek isteyen ve mesajlaşma altyapısı üzerinde tam kontrol sahibi olmayı hedefleyen yazılımcılar içindir. 
+- **Kimin için:** Kendi tarayıcı sekmelerini bölmeden yapay zekâ ajanlarına web otomasyon görevleri yaptırmak isteyen macOS kullanıcıları içindir. 
 - **Lisans:** MIT 
 
 ## Bağlantılar
-- [GitHub deposu →](https://github.com/rmyndharis/OpenWA)
+- [GitHub deposu →](https://github.com/citrolabs/ego-lite)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-17 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-24 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-API Gateway Gateway Self-hosted API Artificial Intelligence
+Skill AI Skills Artificial Intelligence
 
 ---
-Kaynak: TreScout Keşif · https://trescout.com/discover/openwa/
+Kaynak: TreScout Keşif · https://trescout.com/discover/ego-lite/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -38827,6 +39235,65 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yapay zekâ uyumlu tasarım sistemi
+
+Meta tarafından geliştirilen Astryx, tamamen özelleştirilebilir ve yapay zekâ ajanlarıyla uyumlu (agent ready) bir tasarım sistemi (design system) sunuyor. TypeScript tabanlı bu açık kaynaklı kütüphane, arayüz bileşenlerini otonom sistemlerin kullanımına uygun şekilde yapılandırıyor.
+
+- ★ 12.284
+- TypeScript
+- GitHub Trending · 2026-07-01
+
+## Güncelleme
+- 24 Ağustos 2026: Yıldız 12.253 → 12.284, son sürüm v0.4.7 (23 Ağustos 2026).
+- 23 Ağustos 2026: Yıldız 12.147 → 12.253, son sürüm v0.4.6 (22 Ağustos 2026).
+- 19 Ağustos 2026: Yıldız 12.124 → 12.147, son sürüm v0.4.5 (19 Ağustos 2026).
+- 19 Ağustos 2026: Yıldız 12.053 → 12.124, son sürüm v0.4.4 (18 Ağustos 2026).
+
+## Ne kazandırır?
+- 150'den fazla erişilebilir bileşen
+- Yapay zekâ asistanlarıyla uyumlu API
+- Stil kısıtlaması olmayan esnek yapı
+
+## Kurulum
+
+**Paketleri yükleme**
+
+```
+# npm
+npm install @astryxdesign/core @astryxdesign/theme-neutral
+npm install -D @astryxdesign/cli
+
+# pnpm
+pnpm add @astryxdesign/core @astryxdesign/theme-neutral
+pnpm add -D @astryxdesign/cli
+
+# yarn
+yarn add @astryxdesign/core @astryxdesign/theme-neutral
+yarn add -D @astryxdesign/cli
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Astryx tasarım sistemini kullanarak bir arayüz bileşeni oluşturmak istiyorum. Projemde halihazırda kullandığım stil yöntemlerini bozmadan, @astryxdesign/core paketindeki bileşenleri nasıl yapılandırabilirim? Bileşenleri özelleştirmek ve CLI aracını kullanarak dokümantasyon veya şablonlara erişmek için izlemem gereken standart yöntemler nelerdir?
+
+- **Kimin için:** Hem insanlar hem de yapay zekâ asistanları tarafından ortaklaşa geliştirilen, ölçeklenebilir arayüzler tasarlamak isteyen yazılım ekipleri için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/facebook/astryx)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Agent Ready Design System Agent CLI API Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/astryx/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # GPU destekli sayısal hesaplama kütüphanesi
 
 CuPy, sayısal hesaplama kütüphanesi NumPy ve SciPy arayüzlerini grafik işlem birimi (GPU) hızlandırmasıyla birleştiriyor. Python tabanlı bu kütüphane, CUDA çekirdeklerini kullanarak karmaşık matematiksel işlemleri hızlandırıyor.
@@ -38869,65 +39336,6 @@ GPU Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/cupy/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Yapay zekâ uyumlu tasarım sistemi
-
-Meta tarafından geliştirilen Astryx, tamamen özelleştirilebilir ve yapay zekâ ajanlarıyla uyumlu (agent ready) bir tasarım sistemi (design system) sunuyor. TypeScript tabanlı bu açık kaynaklı kütüphane, arayüz bileşenlerini otonom sistemlerin kullanımına uygun şekilde yapılandırıyor.
-
-- ★ 12.253
-- TypeScript
-- GitHub Trending · 2026-07-01
-
-## Güncelleme
-- 23 Ağustos 2026: Yıldız 12.147 → 12.253, son sürüm v0.4.6 (22 Ağustos 2026).
-- 19 Ağustos 2026: Yıldız 12.124 → 12.147, son sürüm v0.4.5 (19 Ağustos 2026).
-- 19 Ağustos 2026: Yıldız 12.053 → 12.124, son sürüm v0.4.4 (18 Ağustos 2026).
-- 17 Ağustos 2026: Yıldız 12.024 → 12.053, son sürüm v0.4.3 (16 Ağustos 2026).
-
-## Ne kazandırır?
-- 150'den fazla erişilebilir bileşen
-- Yapay zekâ asistanlarıyla uyumlu API
-- Stil kısıtlaması olmayan esnek yapı
-
-## Kurulum
-
-**Paketleri yükleme**
-
-```
-# npm
-npm install @astryxdesign/core @astryxdesign/theme-neutral
-npm install -D @astryxdesign/cli
-
-# pnpm
-pnpm add @astryxdesign/core @astryxdesign/theme-neutral
-pnpm add -D @astryxdesign/cli
-
-# yarn
-yarn add @astryxdesign/core @astryxdesign/theme-neutral
-yarn add -D @astryxdesign/cli
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Astryx tasarım sistemini kullanarak bir arayüz bileşeni oluşturmak istiyorum. Projemde halihazırda kullandığım stil yöntemlerini bozmadan, @astryxdesign/core paketindeki bileşenleri nasıl yapılandırabilirim? Bileşenleri özelleştirmek ve CLI aracını kullanarak dokümantasyon veya şablonlara erişmek için izlemem gereken standart yöntemler nelerdir?
-
-- **Kimin için:** Hem insanlar hem de yapay zekâ asistanları tarafından ortaklaşa geliştirilen, ölçeklenebilir arayüzler tasarlamak isteyen yazılım ekipleri için uygundur. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/facebook/astryx)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Agent Ready Design System Agent CLI API Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/astryx/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -39053,7 +39461,7 @@ Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabi
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Output Pipeline RAG PDF Rust Open Source
+Output Pipeline RAG PDF Open Source Rust
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/liteparse/
@@ -39169,63 +39577,6 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Yapay zekâ ajanları için eş zamanlı tarayıcı
-
-Ego-lite, kullanıcılar ve yapay zekâ ajanları (AI agents) için eş zamanlı çalışma imkânı sunan bir tarayıcıdır. JavaScript tabanlı bu araç, insan ve makine etkileşimini aynı tarayıcı ortamında paralel şekilde yürütmeyi hedefler.
-
-- ★ 11.904
-- JavaScript
-- GitHub Trending · 2026-07-24
-
-## Güncelleme
-- 19 Ağustos 2026: Yıldız 10.888 → 11.904, son sürüm v1.2.3 (11 Ağustos 2026).
-- 15 Ağustos 2026: Yıldız 9.541 → 10.888, son sürüm v1.2.3 (11 Ağustos 2026).
-- 11 Ağustos 2026: Yıldız 8.875 → 9.541, son sürüm v1.2.3 (11 Ağustos 2026).
-- 6 Ağustos 2026: Yıldız 7.602 → 8.875, son sürüm v1.2.5 (17 Temmuz 2026).
-
-## Ne kazandırır?
-- Ajanlar ve kullanıcılar aynı tarayıcıda çakışmadan çalışır
-- Chrome verilerini içe aktararak oturumları korur
-- JavaScript tabanlı yapısı ile daha hızlı görev tamamlama
-
-## Kurulum
-
-**Skill ekleme**
-
-```
-npx skills add citrolabs/ego-lite
-```
-
-## Çalıştırma
-
-**Görev başlatma**
-
-```
-ego-browser follow @ego_agent on x.com for me
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Set up ego lite for me: https://github.com/citrolabs/ego-lite. Read `skills/ego-browser/references/install.md` and follow the steps to install ego lite.
-
-- **Kimin için:** Kendi tarayıcı sekmelerini bölmeden yapay zekâ ajanlarına web otomasyon görevleri yaptırmak isteyen macOS kullanıcıları içindir. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/citrolabs/ego-lite)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-24 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Skill AI Skills Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/ego-lite/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
 # NASA uçuş yazılımları geliştirme çerçevesi
 
 NASA tarafından geliştirilen F´, uçuş yazılımları ve gömülü sistemler (embedded systems) için tasarlanmış açık kaynaklı bir çerçevedir (framework). C++ diliyle yazılan bu yapı, uzay araçları ve karmaşık sistemler için modüler bir geliştirme ortamı sunar.
@@ -39285,15 +39636,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Meshery, bulut yerlisi (cloud native) altyapıların yönetimi için tasarlanmış bir hizmet ağı (service mesh) yönetim platformudur. Platform, karmaşık bulut ortamlarında yapılandırma, yaşam döngüsü yönetimi ve performans analizi süreçlerini tek bir merkezden yürütmeyi sağlar.
 
-- ★ 11.488
+- ★ 11.558
 - TypeScript
 - GitHub Trending · 2026-06-15
 
 ## Güncelleme
+- 24 Ağustos 2026: Yıldız 11.488 → 11.558, son sürüm v1.0.68 (24 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 11.439 → 11.488, son sürüm v1.0.66 (13 Ağustos 2026).
 - 7 Ağustos 2026: Yıldız 11.427 → 11.439, son sürüm v1.0.65 (7 Ağustos 2026).
 - 4 Ağustos 2026: Yıldız 11.417 → 11.427, son sürüm v1.0.64 (3 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 10.384 → 11.417, son sürüm v1.0.63 (26 Temmuz 2026).
 
 ## Ne kazandırır?
 - Kubernetes tabanlı altyapı ve uygulamaların merkezi yönetimi
@@ -40487,6 +40838,65 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Tesla verilerinizi kendi sunucunuzda izleyin
+
+Tesla araç sahipleri için geliştirilen Teslamate, verileri kendi sunucunuzda barındırmanıza olanak tanıyan bir veri kaydedici (data logger) uygulamasıdır. Elixir diliyle yazılan bu açık kaynaklı araç, sürüş geçmişi ve şarj verileri gibi detaylı istatistikleri görselleştirerek kullanıcıya sunar.
+
+- ★ 8.907
+- Elixir
+- GitHub Trending · 2026-06-16
+
+## Güncelleme
+- 24 Ağustos 2026: Yıldız 8.844 → 8.907, son sürüm v4.2.0 (23 Ağustos 2026).
+- 15 Ağustos 2026: Yıldız 8.798 → 8.844, son sürüm v4.1.1 (14 Ağustos 2026).
+- 2 Ağustos 2026: Yıldız 8.326 → 8.798, son sürüm v4.0.1 (14 Haziran 2026).
+
+## Ne kazandırır?
+- Sürüş ve şarj verilerini detaylı analiz edin
+- Batarya sağlığını ve verimliliğini takip edin
+- Kişisel sunucunuzda tam veri kontrolü sağlayın
+
+## Kurulum
+
+**Resmî kılavuzdaki docker-compose.yml dosyasını oluşturun (veritabanı parolası ve şifreleme anahtarı sizin)**
+
+```
+docker compose pull
+```
+
+## Çalıştırma
+
+**Başlat (http://localhost:4000)**
+
+```
+docker compose up -d
+```
+
+Kaynak: TeslaMate dokümanı · docs.teslamate.org/docs/installation/docker
+
+## Nasıl başlanır?
+
+Kurulum ve kullanım için resmî dokümantasyon sayfasını ziyaret etmeniz gerekmektedir. Tüm kurulum adımları, yapılandırma rehberleri ve güncel talimatlar için https://docs.teslamate.org adresindeki resmî dokümanları inceleyerek başlayabilirsiniz.
+- [Resmî kaynak →](https://docs.teslamate.org)
+
+- **Kimin için:** Tesla aracının verilerini üçüncü taraf uygulamalara güvenmek yerine kendi sunucusunda saklamak ve detaylı analiz etmek isteyen araç sahipleri içindir. 
+- **Lisans:** AGPL-3.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/teslamate-org/teslamate)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-16 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Data Logger
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/teslamate/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Wi-Fi sinyalleri ile hareket algılama
 
 ESPectre, Wi-Fi kanal durum bilgisi (CSI) analizi üzerinden hareket algılama gerçekleştiren bir sistemdir. Ev otomasyon platformu Ev Asistanı (Home Assistant) ile entegre çalışarak kablosuz ağ sinyallerini izleme yeteneği sunar.
@@ -40575,64 +40985,6 @@ Transformer Jupyter Notebooks GPU LLM Open Source Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/train-llm-from-scratch/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Tesla verilerinizi kendi sunucunuzda izleyin
-
-Tesla araç sahipleri için geliştirilen Teslamate, verileri kendi sunucunuzda barındırmanıza olanak tanıyan bir veri kaydedici (data logger) uygulamasıdır. Elixir diliyle yazılan bu açık kaynaklı araç, sürüş geçmişi ve şarj verileri gibi detaylı istatistikleri görselleştirerek kullanıcıya sunar.
-
-- ★ 8.844
-- Elixir
-- GitHub Trending · 2026-06-16
-
-## Güncelleme
-- 15 Ağustos 2026: Yıldız 8.798 → 8.844, son sürüm v4.1.1 (14 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 8.326 → 8.798, son sürüm v4.0.1 (14 Haziran 2026).
-
-## Ne kazandırır?
-- Sürüş ve şarj verilerini detaylı analiz edin
-- Batarya sağlığını ve verimliliğini takip edin
-- Kişisel sunucunuzda tam veri kontrolü sağlayın
-
-## Kurulum
-
-**Resmî kılavuzdaki docker-compose.yml dosyasını oluşturun (veritabanı parolası ve şifreleme anahtarı sizin)**
-
-```
-docker compose pull
-```
-
-## Çalıştırma
-
-**Başlat (http://localhost:4000)**
-
-```
-docker compose up -d
-```
-
-Kaynak: TeslaMate dokümanı · docs.teslamate.org/docs/installation/docker
-
-## Nasıl başlanır?
-
-Kurulum ve kullanım için resmî dokümantasyon sayfasını ziyaret etmeniz gerekmektedir. Tüm kurulum adımları, yapılandırma rehberleri ve güncel talimatlar için https://docs.teslamate.org adresindeki resmî dokümanları inceleyerek başlayabilirsiniz.
-- [Resmî kaynak →](https://docs.teslamate.org)
-
-- **Kimin için:** Tesla aracının verilerini üçüncü taraf uygulamalara güvenmek yerine kendi sunucusunda saklamak ve detaylı analiz etmek isteyen araç sahipleri içindir. 
-- **Lisans:** AGPL-3.0 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/teslamate-org/teslamate)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-16 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Data Logger
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/teslamate/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -41341,6 +41693,60 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Gereksiz bağımlılıkları temizleyin
+
+Como uma ferramenta de desenvolvimento de software baseada em Python, OBLITERATUS visa limpar dependências desnecessárias e estruturas complexas em bases de código. Projetada para reduzir o débito técnico nos projetos dos desenvolvedores, essa ferramenta ajuda a tornar o código mais enxuto e gerenciável.
+
+- ★ 7.994
+- Python
+- GitHub Trending · 2026-08-22
+
+## Güncelleme
+- 24 Ağustos 2026: Yıldız 7.838 → 7.994, son sürüm v0.1.3 (23 Ağustos 2026).
+
+## Ne kazandırır?
+- Yapay zekâ modellerindeki reddetme davranışlarını cerrahi yöntemle temizler.
+- Modelin temel dil yeteneklerini koruyarak kısıtlamaları devre dışı bırakır.
+- Katmanlar arası analizle kısıtlamaların nasıl çalıştığını görselleştirir.
+
+## Kurulum
+
+**Temel arayüz kurulumu**
+
+```
+pip install -e ".[spaces]"
+```
+
+## Çalıştırma
+
+**Arayüzü başlatma**
+
+```
+obliteratus ui
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Bir yapay zekâ modelindeki reddetme davranışlarını analiz et ve bu davranışları tetikleyen içsel yapıları, modelin genel dil yeteneklerine zarar vermeden cerrahi bir yöntemle temizle. İşlem sırasında SVD ayrıştırması gibi teknikleri kullanarak kısıtlamaları belirle ve modelin yapay engeller olmadan yanıt vermesini sağla.
+
+- **Kimin için:** Yapay zekâ modellerinin güvenlik mekanizmalarını ve reddetme davranışlarını bilimsel olarak incelemek isteyen araştırmacılar ve geliştiriciler içindir. 
+- **Lisans:** AGPL-3.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/elder-plinius/OBLITERATUS)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/obliteratus/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Yapay zekâ ajanları için tasarım yetenekleri
 
 Google Labs tarafından geliştirilen Stitch Skills, Stitch MCP sunucusuyla uyumlu çalışmak üzere tasarlanmış bir ajan yetenekleri (agent skills) kütüphanesidir. Açık standartları takip eden bu kütüphane, Gemini CLI ve Cursor gibi kodlama ajanları (coding agents) için iş akışlarını standartlaştırmayı amaçlar.
@@ -41445,57 +41851,6 @@ CMS Self-hosted Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/instatic/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Gereksiz bağımlılıkları temizleyin
-
-Como uma ferramenta de desenvolvimento de software baseada em Python, OBLITERATUS visa limpar dependências desnecessárias e estruturas complexas em bases de código. Projetada para reduzir o débito técnico nos projetos dos desenvolvedores, essa ferramenta ajuda a tornar o código mais enxuto e gerenciável.
-
-- ★ 7.838
-- Python
-- GitHub Trending · 2026-08-22
-
-## Ne kazandırır?
-- Yapay zekâ modellerindeki reddetme davranışlarını cerrahi yöntemle temizler.
-- Modelin temel dil yeteneklerini koruyarak kısıtlamaları devre dışı bırakır.
-- Katmanlar arası analizle kısıtlamaların nasıl çalıştığını görselleştirir.
-
-## Kurulum
-
-**Temel arayüz kurulumu**
-
-```
-pip install -e ".[spaces]"
-```
-
-## Çalıştırma
-
-**Arayüzü başlatma**
-
-```
-obliteratus ui
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Bir yapay zekâ modelindeki reddetme davranışlarını analiz et ve bu davranışları tetikleyen içsel yapıları, modelin genel dil yeteneklerine zarar vermeden cerrahi bir yöntemle temizle. İşlem sırasında SVD ayrıştırması gibi teknikleri kullanarak kısıtlamaları belirle ve modelin yapay engeller olmadan yanıt vermesini sağla.
-
-- **Kimin için:** Yapay zekâ modellerinin güvenlik mekanizmalarını ve reddetme davranışlarını bilimsel olarak incelemek isteyen araştırmacılar ve geliştiriciler içindir. 
-- **Lisans:** AGPL-3.0 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/elder-plinius/OBLITERATUS)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/obliteratus/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -42781,15 +43136,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Yıkıcı Komut Koruması (destructive command guard), yapay zekâ ajanları tarafından çalıştırılan tehlikeli git ve kabuk (shell) komutlarını engellemek için geliştirilmiş bir güvenlik katmanıdır. Rust diliyle yazılan bu araç, sistem seviyesinde komut yürütme süreçlerini denetleyerek istenmeyen veri kaybı veya sistem hasarı risklerini azaltır.
 
-- ★ 5.813
+- ★ 5.815
 - Rust
 - GitHub Trending · 2026-07-13
 
 ## Güncelleme
+- 24 Ağustos 2026: Yıldız 5.813 → 5.815, son sürüm v0.12.5 (23 Ağustos 2026).
 - 23 Ağustos 2026: Yıldız 5.804 → 5.813, son sürüm v0.12.4 (23 Ağustos 2026).
 - 21 Ağustos 2026: Yıldız 5.792 → 5.804, son sürüm v0.12.0 (20 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 5.761 → 5.792, son sürüm v0.11.1 (20 Ağustos 2026).
-- 15 Ağustos 2026: Yıldız 5.678 → 5.761, son sürüm v0.11.0 (14 Ağustos 2026).
 
 ## Ne kazandırır?
 - Tehlikeli komutları yürütülmeden önce engeller
@@ -43896,6 +44251,47 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yapay zekâ kodlama ajanlarına kalıcı hafıza
+
+Rust diliyle yazılan ai-memory, yapay zekâ ajanları için uzun süreli bellek (long term memory) çözümü sunuyor. Farklı ajan sağlayıcıları arasında veri aktarımını kolaylaştırarak yazılım geliştirme süreçlerinde kullanılan komut satırı arayüzlerinin (CLI) sürekliliğini destekliyor.
+
+- ★ 4.262
+- Rust
+- GitHub Trending · 2026-08-18
+
+## Güncelleme
+- 24 Ağustos 2026: Yıldız 4.116 → 4.262, son sürüm v1.31.1 (23 Ağustos 2026).
+- 23 Ağustos 2026: Yıldız 3.969 → 4.116, son sürüm v1.31.0 (22 Ağustos 2026).
+- 22 Ağustos 2026: Yıldız 3.262 → 3.969, son sürüm v1.30.0 (21 Ağustos 2026).
+- 20 Ağustos 2026: Yıldız 2.888 → 3.262, son sürüm v1.29.0 (19 Ağustos 2026).
+
+## Ne kazandırır?
+- Farklı yapay zekâ ajanları arasında bağlamı korur
+- Geliştirme süreçlerinde süreklilik sağlar
+- Çok sayıda kodlama aracıyla uyumlu çalışır
+
+## Nasıl başlanır?
+
+Aracı kullanmaya başlamak için GitHub üzerindeki resmî sayfayı ziyaret ederek işletim sisteminize uygun olan sürümü indirin. Kurulum ve yapılandırma detayları için ilgili dokümantasyon dosyalarını inceleyerek aracın desteklediği kodlama ajanlarıyla nasıl entegre edileceğini öğrenebilirsiniz.
+
+- **Kimin için:** Birden fazla yapay zekâ kodlama aracı kullanan ve projeler arası geçişlerde bağlam kaybı yaşamak istemeyen yazılım geliştiriciler için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/akitaonrails/ai-memory)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Memory CLI Rust Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/ai-memory/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Web sitelerini yerel diske indirin
 
 AhmadIbrahiim tarafından geliştirilen Website-downloader, Node.js kullanarak bir web sitesinin tüm kaynak kodlarını ve varlıklarını (assets) yerel bilgisayara indirmeye olanak tanıyor. Araç, JavaScript dosyaları, stil sayfaları ve görseller dahil olmak üzere sitenin tamamını arşivlemek için kullanılıyor.
@@ -43987,47 +44383,6 @@ Ticket Purchasing Assistant Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/bilitickerbuy/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Yapay zekâ kodlama ajanlarına kalıcı hafıza
-
-Rust diliyle yazılan ai-memory, yapay zekâ ajanları için uzun süreli bellek (long term memory) çözümü sunuyor. Farklı ajan sağlayıcıları arasında veri aktarımını kolaylaştırarak yazılım geliştirme süreçlerinde kullanılan komut satırı arayüzlerinin (CLI) sürekliliğini destekliyor.
-
-- ★ 4.116
-- Rust
-- GitHub Trending · 2026-08-18
-
-## Güncelleme
-- 23 Ağustos 2026: Yıldız 3.969 → 4.116, son sürüm v1.31.0 (22 Ağustos 2026).
-- 22 Ağustos 2026: Yıldız 3.262 → 3.969, son sürüm v1.30.0 (21 Ağustos 2026).
-- 20 Ağustos 2026: Yıldız 2.888 → 3.262, son sürüm v1.29.0 (19 Ağustos 2026).
-- 19 Ağustos 2026: Yıldız 2.467 → 2.888, son sürüm v1.28.1 (18 Ağustos 2026).
-
-## Ne kazandırır?
-- Farklı yapay zekâ ajanları arasında bağlamı korur
-- Geliştirme süreçlerinde süreklilik sağlar
-- Çok sayıda kodlama aracıyla uyumlu çalışır
-
-## Nasıl başlanır?
-
-Aracı kullanmaya başlamak için GitHub üzerindeki resmî sayfayı ziyaret ederek işletim sisteminize uygun olan sürümü indirin. Kurulum ve yapılandırma detayları için ilgili dokümantasyon dosyalarını inceleyerek aracın desteklediği kodlama ajanlarıyla nasıl entegre edileceğini öğrenebilirsiniz.
-
-- **Kimin için:** Birden fazla yapay zekâ kodlama aracı kullanan ve projeler arası geçişlerde bağlam kaybı yaşamak istemeyen yazılım geliştiriciler için uygundur. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/akitaonrails/ai-memory)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Memory CLI Rust Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/ai-memory/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -44469,118 +44824,16 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Otonom Robotik Dünyasına Giriş Yapın
-
-Otonom robotlara giriş (Introduction to Autonomous Robots) projesi, robotik sistemlerin temel prensiplerini ve algoritmik yapılarını akademik bir yaklaşımla sunuyor. TeX dilinde hazırlanan bu kaynak, otonom hareket ve sistem tasarımı konularında teknik bir rehberlik sağlıyor.
-
-- ★ 3.301
-- TeX
-- GitHub Trending · 2026-06-15
-
-## Güncelleme
-- 2 Ağustos 2026: Yıldız 2.681 → 3.301, son sürüm v3.0 (1 Aralık 2021).
-
-## Ne kazandırır?
-- Otonom robotik sistemlerin temel mekanizma ve algoritmalarını öğrenme.
-- Robotik sensörler ve aktüatörler hakkında teknik bilgi edinme.
-- Akademik düzeyde robotik sistem tasarımı prensiplerini kavrama.
-
-## Nasıl başlanır?
-
-Bu proje otonom robotlar üzerine yazılmış bir ders kitabının kaynak kodlarını içerir. Kitabın PDF halini oluşturmak için GitHub sayfasındaki yeşil 'Code' butonuna tıklayıp 'Download ZIP' seçeneğiyle dosyaları bilgisayarınıza indirebilir veya projeyi Overleaf gibi çevrimiçi bir LaTeX düzenleyicisine aktararak çalışabilirsiniz.
-- [Resmî kaynak →](https://introduction-to-autonomous-robots.github.io/)
-
-- **Kimin için:** Otonom robotik sistemlerin teorik altyapısını ve algoritmik prensiplerini öğrenmek isteyen öğrenciler ve araştırmacılar içindir. 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-15 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Introduction to Autonomous Robots PDF
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/introduction-to-autonomous-robots/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Yapay zekâ ile asenkron görev yönetimi
-
-pi-subagents , Pi platformu üzerinde asenkron alt-ajan delegasyonu süreçlerini yönetmek için geliştirilmiş bir TypeScript kütüphanesidir. Karmaşık iş yüklerini alt-ajanlara dağıtmayı kolaylaştırır.
-
-- ★ 3.242
-- TypeScript
-- Lisans: yok
-- GitHub Trending · 1 Haziran 2026
-
-## Güncelleme
-- 22 Ağustos 2026: Yıldız 3.230 → 3.242, son sürüm v0.54.0 (21 Ağustos 2026).
-- 21 Ağustos 2026: Yıldız 3.216 → 3.230, son sürüm v0.53.0 (20 Ağustos 2026).
-- 20 Ağustos 2026: Yıldız 3.214 → 3.216, son sürüm v0.52.1 (20 Ağustos 2026).
-- 20 Ağustos 2026: Yıldız 3.200 → 3.214, son sürüm v0.52.0 (19 Ağustos 2026).
-
-- **Kimin için:** Pi platformunda ajan geliştirenler 
-- **Zorluk:** İleri · geliştirici kütüphanesi 
-- **Ne sunar:** Asenkron alt-ajan delegasyonu 
-- **Ücret:** Açık kaynak (lisans notuna bakın) 
-- **Lisans:** Belirtilmemiş · ayrıntı aşağıda 
-
-## Ne kazandırır?
-- İş yükünü alt ajanlara dağıtır.
-- Asenkron ve paralel yürütme sağlar.
-- Pi platformu ile tam entegre çalışır.
-
-## Nasıl kurulur, nasıl kullanılır?
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-'pi install npm:pi-subagents' komutuyla bu paketi kur, sonra '/run reviewer' ile bir kod incelemesi yaptır ya da '/parallel' ile birden çok uzman alt-ajanı (örn. inceleyici, planlayıcı) aynı anda çalıştırarak işi onlara dağıt.
-
-**Pi ile kur**
-
-```
-pi install npm:pi-subagents
-```
-
-**Bir alt-ajanı çalıştır**
-
-```
-/run [görev]
-```
-
-**Ajanları paralel çalıştır**
-
-```
-/parallel ajan1 "görev1" -> ajan2 "görev2"
-```
-
-Lisans: ⚠️ Repo'da bir lisans belirtilmemiş; varsayılan olarak 'tüm hakları saklı'. Denemek için bakabilirsiniz, ancak yeniden kullanım için yazarın açık izni gerekir. 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/nicobailon/pi-subagents)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Subagents Open Source Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/pi-subagents/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
 # Üç boyutlu modeller için otomatik dörtgenleştirme
 
 Autoremesher, üç boyutlu modellerdeki düzensiz yüzey yapılarını otomatik olarak dörtgen ağlara (quad remeshing) dönüştüren bir araçtır. C++ diliyle geliştirilen bu yazılım, karmaşık geometrileri animasyon ve modelleme süreçlerine uygun hale getirmek için optimize edilmiştir.
 
-- ★ 3.225
+- ★ 3.322
 - C++
 - GitHub Trending · 2026-07-09
 
 ## Güncelleme
+- 24 Ağustos 2026: Yıldız 3.225 → 3.322, son sürüm 1.2.0 (23 Ağustos 2026).
 - 17 Ağustos 2026: Yıldız 3.087 → 3.225, son sürüm 1.1.0 (16 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 2.123 → 3.087, son sürüm 1.0.0 (6 Temmuz 2026).
 
@@ -44646,19 +44899,122 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Otonom Robotik Dünyasına Giriş Yapın
+
+Otonom robotlara giriş (Introduction to Autonomous Robots) projesi, robotik sistemlerin temel prensiplerini ve algoritmik yapılarını akademik bir yaklaşımla sunuyor. TeX dilinde hazırlanan bu kaynak, otonom hareket ve sistem tasarımı konularında teknik bir rehberlik sağlıyor.
+
+- ★ 3.301
+- TeX
+- GitHub Trending · 2026-06-15
+
+## Güncelleme
+- 2 Ağustos 2026: Yıldız 2.681 → 3.301, son sürüm v3.0 (1 Aralık 2021).
+
+## Ne kazandırır?
+- Otonom robotik sistemlerin temel mekanizma ve algoritmalarını öğrenme.
+- Robotik sensörler ve aktüatörler hakkında teknik bilgi edinme.
+- Akademik düzeyde robotik sistem tasarımı prensiplerini kavrama.
+
+## Nasıl başlanır?
+
+Bu proje otonom robotlar üzerine yazılmış bir ders kitabının kaynak kodlarını içerir. Kitabın PDF halini oluşturmak için GitHub sayfasındaki yeşil 'Code' butonuna tıklayıp 'Download ZIP' seçeneğiyle dosyaları bilgisayarınıza indirebilir veya projeyi Overleaf gibi çevrimiçi bir LaTeX düzenleyicisine aktararak çalışabilirsiniz.
+- [Resmî kaynak →](https://introduction-to-autonomous-robots.github.io/)
+
+- **Kimin için:** Otonom robotik sistemlerin teorik altyapısını ve algoritmik prensiplerini öğrenmek isteyen öğrenciler ve araştırmacılar içindir. 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-15 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Introduction to Autonomous Robots PDF
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/introduction-to-autonomous-robots/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Yapay zekâ ile asenkron görev yönetimi
+
+pi-subagents , Pi platformu üzerinde asenkron alt-ajan delegasyonu süreçlerini yönetmek için geliştirilmiş bir TypeScript kütüphanesidir. Karmaşık iş yüklerini alt-ajanlara dağıtmayı kolaylaştırır.
+
+- ★ 3.264
+- TypeScript
+- Lisans: yok
+- GitHub Trending · 1 Haziran 2026
+
+## Güncelleme
+- 24 Ağustos 2026: Yıldız 3.242 → 3.264, son sürüm v0.56.0 (23 Ağustos 2026).
+- 22 Ağustos 2026: Yıldız 3.230 → 3.242, son sürüm v0.54.0 (21 Ağustos 2026).
+- 21 Ağustos 2026: Yıldız 3.216 → 3.230, son sürüm v0.53.0 (20 Ağustos 2026).
+- 20 Ağustos 2026: Yıldız 3.214 → 3.216, son sürüm v0.52.1 (20 Ağustos 2026).
+
+- **Kimin için:** Pi platformunda ajan geliştirenler 
+- **Zorluk:** İleri · geliştirici kütüphanesi 
+- **Ne sunar:** Asenkron alt-ajan delegasyonu 
+- **Ücret:** Açık kaynak (lisans notuna bakın) 
+- **Lisans:** Belirtilmemiş · ayrıntı aşağıda 
+
+## Ne kazandırır?
+- İş yükünü alt ajanlara dağıtır.
+- Asenkron ve paralel yürütme sağlar.
+- Pi platformu ile tam entegre çalışır.
+
+## Nasıl kurulur, nasıl kullanılır?
+🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+'pi install npm:pi-subagents' komutuyla bu paketi kur, sonra '/run reviewer' ile bir kod incelemesi yaptır ya da '/parallel' ile birden çok uzman alt-ajanı (örn. inceleyici, planlayıcı) aynı anda çalıştırarak işi onlara dağıt.
+
+**Pi ile kur**
+
+```
+pi install npm:pi-subagents
+```
+
+**Bir alt-ajanı çalıştır**
+
+```
+/run [görev]
+```
+
+**Ajanları paralel çalıştır**
+
+```
+/parallel ajan1 "görev1" -> ajan2 "görev2"
+```
+
+Lisans: ⚠️ Repo'da bir lisans belirtilmemiş; varsayılan olarak 'tüm hakları saklı'. Denemek için bakabilirsiniz, ancak yeniden kullanım için yazarın açık izni gerekir. 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/nicobailon/pi-subagents)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Subagents Open Source Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/pi-subagents/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Açık kaynaklı masaüstü video düzenleyici
 
 Clypra, Tauri, React ve TypeScript kullanılarak geliştirilen açık kaynak kodlu bir video düzenleyici (video editor) uygulamasıdır. Yazılım, ücretli video düzenleme araçlarında bulunan gelişmiş özellikleri ücretsiz bir alternatif olarak sunmayı hedefler.
 
-- ★ 3.129
+- ★ 3.134
 - TypeScript
 - GitHub Trending · 2026-07-15
 
 ## Güncelleme
+- 24 Ağustos 2026: Yıldız 3.129 → 3.134, son sürüm v1.4.2 (24 Ağustos 2026).
 - 23 Ağustos 2026: Yıldız 3.102 → 3.129, son sürüm v1.4.0 (23 Ağustos 2026).
 - 17 Ağustos 2026: Yıldız 2.965 → 3.102, son sürüm v1.3.0 (16 Ağustos 2026).
 - 6 Ağustos 2026: Yıldız 2.952 → 2.965, son sürüm v1.2.2 (6 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 2.729 → 2.952, son sürüm v1.2.1 (30 Temmuz 2026).
 
 ## Ne kazandırır?
 - Donanım hızlandırmalı yüksek performanslı video işleme
@@ -44902,11 +45258,12 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Microsoft tarafından geliştirilen pg_durable, PostgreSQL üzerinde dayanıklı yürütme (durable execution) süreçlerini yönetmek için tasarlanmış bir kütüphanedir. Rust diliyle yazılan araç, karmaşık iş akışlarını veritabanı içerisinde hata toleranslı ve kalıcı bir şekilde çalıştırmayı sağlar.
 
-- ★ 2.716
+- ★ 2.781
 - Rust
 - GitHub Trending · 2026-06-08
 
 ## Güncelleme
+- 24 Ağustos 2026: Yıldız 2.716 → 2.781, son sürüm v0.2.6 (24 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 1.580 → 2.716, son sürüm v0.2.5 (30 Temmuz 2026).
 
 ## Ne kazandırır?
@@ -44949,6 +45306,65 @@ Durable Execution Rust Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/pg-durable/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Konum geçmişinizi hareketli videoya dönüştürün
+
+O Google Timeline Visualizer, que visualiza os dados do Histórico de localização do Google, permite analisar rotas de viagem ao longo do ano em um mapa. Desenvolvido com a linguagem Kotlin, esta ferramenta cria resumos pessoais de viagens convertendo dados do histórico de localização em gráficos significativos.
+
+- ★ 2.712
+- Kotlin
+- GitHub Trending · 2026-08-20
+
+## Güncelleme
+- 24 Ağustos 2026: Yıldız 2.596 → 2.712, son sürüm v2.4.1 (24 Ağustos 2026).
+- 23 Ağustos 2026: Yıldız 2.286 → 2.596, son sürüm v2.3.2 (22 Ağustos 2026).
+- 22 Ağustos 2026: Yıldız 2.075 → 2.286, son sürüm v2.2.13 (22 Ağustos 2026).
+- 21 Ağustos 2026: Yıldız 1.753 → 2.075, son sürüm v2.2.10 (21 Ağustos 2026).
+
+## Ne kazandırır?
+- Google Haritalar geçmiş verisini MP4 videoya çevirir
+- Seyahat rotalarını harita üzerinde animasyonla gösterir
+- Kişisel verileri cihazda işleyerek gizliliği korur
+
+## Kurulum
+
+**Gerekli bağımlılıkları yükleme ve çalışt**
+
+```
+python -m pip install -r requirements.txt
+python visualizer.py --input Timeline.json --year 2025 --camera-movement steady \
+--long-trip-compression balanced --output my_trip_2025.mp4
+```
+
+**Geliştirme araçlarını yapılandırma**
+
+```
+./gradlew test lint assembleGithubDebug assemblePlayDebug
+python -m pip install -r requirements-dev.txt
+python -m pytest
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Elimdeki Timeline.json dosyasını kullanarak seyahatlerimi gösteren bir video oluşturmak istiyorum. Python ortamında gerekli bağımlılıkları yükledikten sonra, 2025 yılı verilerimi 'steady' kamera hareketi ve 'balanced' sıkıştırma ayarlarıyla 'my_trip_2025.mp4' adında bir dosyaya dönüştürmek için hangi komutu kullanmalıyım?
+
+- **Kimin için:** Google Haritalar'daki konum geçmişini görselleştirmek ve seyahat anılarını video formatında saklamak isteyen herkes için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/mahlernim/google-timeline-visualizer)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/google-timeline-visualizer/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -45019,65 +45435,6 @@ Model Context Protocol Model Context Protocol Context MCP Artificial Intelligenc
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/vulnclaw/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Konum geçmişinizi hareketli videoya dönüştürün
-
-O Google Timeline Visualizer, que visualiza os dados do Histórico de localização do Google, permite analisar rotas de viagem ao longo do ano em um mapa. Desenvolvido com a linguagem Kotlin, esta ferramenta cria resumos pessoais de viagens convertendo dados do histórico de localização em gráficos significativos.
-
-- ★ 2.596
-- Kotlin
-- GitHub Trending · 2026-08-20
-
-## Güncelleme
-- 23 Ağustos 2026: Yıldız 2.286 → 2.596, son sürüm v2.3.2 (22 Ağustos 2026).
-- 22 Ağustos 2026: Yıldız 2.075 → 2.286, son sürüm v2.2.13 (22 Ağustos 2026).
-- 21 Ağustos 2026: Yıldız 1.753 → 2.075, son sürüm v2.2.10 (21 Ağustos 2026).
-- 21 Ağustos 2026: Yıldız 1.359 → 1.753, son sürüm v2.2.6 (21 Ağustos 2026).
-
-## Ne kazandırır?
-- Google Haritalar geçmiş verisini MP4 videoya çevirir
-- Seyahat rotalarını harita üzerinde animasyonla gösterir
-- Kişisel verileri cihazda işleyerek gizliliği korur
-
-## Kurulum
-
-**Gerekli bağımlılıkları yükleme ve çalışt**
-
-```
-python -m pip install -r requirements.txt
-python visualizer.py --input Timeline.json --year 2025 --camera-movement steady \
---long-trip-compression balanced --output my_trip_2025.mp4
-```
-
-**Geliştirme araçlarını yapılandırma**
-
-```
-./gradlew test lint assembleGithubDebug assemblePlayDebug
-python -m pip install -r requirements-dev.txt
-python -m pytest
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Elimdeki Timeline.json dosyasını kullanarak seyahatlerimi gösteren bir video oluşturmak istiyorum. Python ortamında gerekli bağımlılıkları yükledikten sonra, 2025 yılı verilerimi 'steady' kamera hareketi ve 'balanced' sıkıştırma ayarlarıyla 'my_trip_2025.mp4' adında bir dosyaya dönüştürmek için hangi komutu kullanmalıyım?
-
-- **Kimin için:** Google Haritalar'daki konum geçmişini görselleştirmek ve seyahat anılarını video formatında saklamak isteyen herkes için uygundur. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/mahlernim/google-timeline-visualizer)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/google-timeline-visualizer/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -46272,6 +46629,42 @@ Framework Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/adr/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Yapay zekâ kodlama asistanına eklentiler ekleyin
+
+Anthropic tarafından geliştirilen Claude Cowork ve Claude Code araçları için oluşturulan topluluk eklenti dizini, yazılım geliştirme süreçlerini otomatikleştiren genişletilebilir bir yapı sunuyor. Kullanıcılar, Python tabanlı bu eklentiler sayesinde yapay zekâ destekli kodlama asistanlarının yeteneklerini özelleştirebiliyor.
+
+- ★ 1.046
+- Python
+- GitHub Trending · 2026-08-24
+
+## Ne kazandırır?
+- Kodlama süreçlerini otomatikleştiren eklentilere erişim sağlar
+- Güvenlik taramasından geçmiş onaylı araçları listeler
+- Yapay zekâ destekli asistanların yeteneklerini özelleştirir
+
+## Nasıl başlanır?
+
+Claude Cowork için eklentileri claude.com/plugins adresinden kurabilirsiniz. Claude Code için ise ilgili dokümantasyonda belirtilen komut satırı araçlarını kullanarak marketplace üzerinden eklenti ekleme ve yükleme işlemlerini gerçekleştirebilirsiniz.
+- [Resmî kaynak →](https://claude.com/product/cowork)
+
+- **Kimin için:** Claude Cowork ve Claude Code yazılım geliştirme araçlarını kullanan ve yapay zekâ asistanlarının işlevselliğini artırmak isteyen geliştiriciler için uygundur. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/anthropics/claude-plugins-community)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-24 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/claude-plugins-community/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 

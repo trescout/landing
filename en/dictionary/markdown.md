@@ -34,8 +34,8 @@ You can open it with any text editor, but you can read it formatted more easily 
 - [Firecrawl](/en/discover/firecrawl/)
 - [PaddleOCR](/en/discover/paddleocr/)
 - [MinerU](/en/discover/mineru/)
-- [Crawl4AI](/en/discover/crawl4ai/)
 - [Scrapling](/en/discover/scrapling/)
+- [Crawl4AI](/en/discover/crawl4ai/)
 - [Obsidian Skills](/en/discover/obsidian-skills/)
 - [Opendataloader PDF](/en/discover/opendataloader-pdf/)
 

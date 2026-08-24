@@ -2,7 +2,7 @@
 
 El conjunto de datos de ejercicios (conjunto de datos de ejercicios) compartido por Hasaneyldrm ofrece 433 movimientos físicos diferentes con nombres, grupos de músculos objetivo, equipos e instrucciones visuales. Este recurso integral proporciona una infraestructura de datos estructurada para quienes desarrollan aplicaciones de tecnología deportiva.
 
-- ★ 19.692
+- ★ 20.717
 - HTML
 - GitHub Trending · 2026-07-01
 

@@ -2,7 +2,7 @@
 
 Entworfen mit der Sprache Rust, ist der Codex ein Kodifizierungsagent, der kein Ende findet. Wir bieten direkt von der Befehlszeile aus Codevorschläge und -bearbeitungen an, um Softwareentwicklungsprozesse zu verbessern.
 
-- ★ 113.813
+- ★ 115.876
 - Rust
 - GitHub Trending · 2026-08-23
 

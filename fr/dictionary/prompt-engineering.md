@@ -28,5 +28,8 @@ Non, au contraire, elle deviendra une capacité plus critique pour gérer des sy
 - [LLM](/fr/dictionary/llm/)
 - [AI Skills](/fr/dictionary/ai-skills/)
 
+## Outils liés
+- [Awesome Gpt Image 2](/fr/discover/awesome-gpt-image-2/)
+
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/prompt-engineering/

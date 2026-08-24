@@ -2,7 +2,7 @@
 
 OpenLogi and software alternativo local e de código aberto desenvolvido para gerenciar periféricos Logitech. Ele permite que os usuários definam atalhos de teclado, configurações de sensibilidade (DPI) e recursos SmartShift sem a necessidade de criar uma conta ou compartilhar dados.
 
-- ★ 14,083
+- ★ 15,122
 - Rust
 - GitHub Trending · 2026-08-20
 

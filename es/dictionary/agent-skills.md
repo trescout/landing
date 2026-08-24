@@ -32,6 +32,7 @@ No, sus capacidades se personalizan según el uso previsto del agente (por ejemp
 - [Agent Skills](/es/discover/agent-skills/)
 - [Taste Skill](/es/discover/taste-skill/)
 - [OpenMontage](/es/discover/openmontage/)
+- [Awesome Agent Skills](/es/discover/awesome-agent-skills/)
 - [Agentskills](/es/discover/agentskills/)
 - [Text to Cad](/es/discover/text-to-cad/)
 - [Stitch Skills](/es/discover/stitch-skills/)

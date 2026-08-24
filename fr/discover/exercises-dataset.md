@@ -2,7 +2,7 @@
 
 L'ensemble de données d'exercices (ensemble de données d'exercices) partagé par Hasaneyldrm propose 433 mouvements de fitness différents avec des noms, des groupes musculaires cibles, des équipements et des instructions visuelles. Cette ressource complète fournit une infrastructure de données structurée pour ceux qui développent des applications technologiques sportives.
 
-- ★ 19 692
+- ★ 20 717
 - HTML
 - GitHub Trending · 2026-07-01
 

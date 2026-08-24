@@ -30,5 +30,8 @@ No, on the contrary, it will become a more critical capability for managing more
 - [LLM](/en/dictionary/llm/)
 - [AI Skills](/en/dictionary/ai-skills/)
 
+## Related tools
+- [Awesome Gpt Image 2](/en/discover/awesome-gpt-image-2/)
+
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/prompt-engineering/

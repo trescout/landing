@@ -2,7 +2,7 @@
 
 Plane ist eine Open-Source-Projektmanagementplattform, die Aufgabenverwaltung, Sprintplanung und Dokumentationsprozesse kombiniert. Diese Plattform wurde als Alternative zu Unternehmenstools wie Jira und Linear entwickelt und ermöglicht es Teams, Arbeitsabläufe über eine zentrale Schnittstelle zu organisieren.
 
-- ★ 55.693
+- ★ 57.579
 - TypeScript
 - GitHub Trending · 2026-06-18
 

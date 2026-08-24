@@ -31,8 +31,8 @@ Si vous souhaitez vous lancer dans le monde du logiciel, oui, car de nombreux ou
 - [Openinterpreter](/fr/discover/openinterpreter/)
 - [Career Ops](/fr/discover/career-ops/)
 - [Free Claude Code](/fr/discover/free-claude-code/)
+- [Openhuman](/fr/discover/openhuman/)
 - [DeepSeek-Reasonix](/fr/discover/deepseek-reasonix/)
-- [Mise](/fr/discover/mise/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/terminal/

@@ -2,7 +2,7 @@
 
 O conjunto de dados de exercícios (conjunto de dados de exercícios) compartilhado por Hasaneyldrm oferece 433 movimentos de condicionamento físico diferentes com nomes, grupos musculares alvo, equipamentos e instruções visuais. Este recurso abrangente fornece uma infraestrutura de dados estruturada para quem desenvolve aplicações de tecnologia esportiva.
 
-- ★ 19.692
+- ★ 20.717
 - HTML
 - GitHub Trending · 2026-07-01
 

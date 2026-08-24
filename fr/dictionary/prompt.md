@@ -26,6 +26,7 @@ Ce sont des instructions très courtes, vagues ou manquant de contexte. Par exem
 
 ## Outils liés
 - [AI Engineering from Scratch](/fr/discover/ai-engineering-from-scratch/)
+- [Awesome Gpt Image 2](/fr/discover/awesome-gpt-image-2/)
 - [Flue](/fr/discover/flue/)
 
 ---

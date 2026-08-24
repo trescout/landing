@@ -32,6 +32,7 @@ Non, ses fonctionnalités sont personnalisées en fonction de l'utilisation pré
 - [Agent Skills](/fr/discover/agent-skills/)
 - [Taste Skill](/fr/discover/taste-skill/)
 - [OpenMontage](/fr/discover/openmontage/)
+- [Awesome Agent Skills](/fr/discover/awesome-agent-skills/)
 - [Agentskills](/fr/discover/agentskills/)
 - [Text to Cad](/fr/discover/text-to-cad/)
 - [Stitch Skills](/fr/discover/stitch-skills/)

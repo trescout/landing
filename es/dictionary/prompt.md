@@ -26,6 +26,7 @@ Son instrucciones muy breves, vagas o carentes de contexto. Por ejemplo, simplem
 
 ## Herramientas relacionadas
 - [AI Engineering from Scratch](/es/discover/ai-engineering-from-scratch/)
+- [Awesome Gpt Image 2](/es/discover/awesome-gpt-image-2/)
 - [Flue](/es/discover/flue/)
 
 ---

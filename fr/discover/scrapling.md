@@ -2,7 +2,7 @@
 
 Scrapling est un framework de web scraping adaptable qui peut gérer l'évolution d'une simple requête jusqu'à des tâches d'exploration à grande échelle. Il vise à garantir une grande adaptabilité même si la structure des pages change. Il est basé sur Python.
 
-- ★ 73 439
+- ★ 76 147
 - Python
 - BSD-3-Clause
 - GitHub Trending · 1 Haziran 2026

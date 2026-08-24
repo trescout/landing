@@ -27,6 +27,7 @@ Local-first applications can often back up to the cloud in an encrypted manner, 
 - [Personal Cloud](/en/dictionary/personal-cloud/)
 
 ## Related tools
+- [Openhuman](/en/discover/openhuman/)
 - [Agentsview](/en/discover/agentsview/)
 - [Wigolo](/en/discover/wigolo/)
 

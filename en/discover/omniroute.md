@@ -2,7 +2,7 @@
 
 OmniRoute is a gateway that offers free access by combining more than 231 artificial intelligence providers into a single endpoint. It reduces token usage with advanced compression techniques, while optimizing developer tools with smart backup and multi-modal interface support.
 
-- ★ 51,059
+- ★ 53,963
 - TypeScript
 - GitHub Trending · 2026-07-01
 

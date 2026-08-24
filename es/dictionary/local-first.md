@@ -25,6 +25,7 @@ Las aplicaciones locales a menudo pueden realizar copias de seguridad en la nube
 - [Personal Cloud](/es/dictionary/personal-cloud/)
 
 ## Herramientas relacionadas
+- [Openhuman](/es/discover/openhuman/)
 - [Agentsview](/es/discover/agentsview/)
 - [Wigolo](/es/discover/wigolo/)
 

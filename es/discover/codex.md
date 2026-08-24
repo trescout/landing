@@ -2,7 +2,7 @@
 
 Desarrollado con el lenguaje Rust, Codex es un agente de codificación leve que roda en la terminal. Oferece sugerencias y ediciones de código directamente en la línea de comando para agilizar los procesos de desarrollo de software.
 
-- ★ 113.813
+- ★ 115.876
 - Rust
 - GitHub Trending · 2026-08-23
 

@@ -6901,5 +6901,57 @@
     "kisa_pt": "É seu direito controlar quem pode visualizar seus dados pessoais na Internet.",
     "kisa_es": "Es su derecho controlar quién puede ver sus datos personales en Internet.",
     "kisa_de": "Sie haben das Recht zu kontrollieren, wer Ihre personenbezogenen Daten im Internet einsehen kann."
+  },
+  {
+    "slug": "prompt-as-code",
+    "en": "Prompt as Code",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yapay zekâ komutlarının yazılım kodu gibi yönetilmesi, versiyonlanması ve test edilmesidir.",
+    "date": "2026-08-24",
+    "kisa_en": "Yapay zekâ komutlarının yazılım kodu gibi yönetilmesi, versiyonlanması ve test edilmesidir.",
+    "kisa_fr": "Yapay zekâ komutlarının yazılım kodu gibi yönetilmesi, versiyonlanması ve test edilmesidir.",
+    "kisa_pt": "Yapay zekâ komutlarının yazılım kodu gibi yönetilmesi, versiyonlanması ve test edilmesidir.",
+    "kisa_es": "Yapay zekâ komutlarının yazılım kodu gibi yönetilmesi, versiyonlanması ve test edilmesidir.",
+    "kisa_de": "Yapay zekâ komutlarının yazılım kodu gibi yönetilmesi, versiyonlanması ve test edilmesidir."
+  },
+  {
+    "slug": "hive-mind",
+    "en": "Hive Mind",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Birbirine bağlı birçok yapay zekâ biriminin ortak bir zeka gibi hareket etmesidir.",
+    "date": "2026-08-24",
+    "kisa_en": "Birbirine bağlı birçok yapay zekâ biriminin ortak bir zeka gibi hareket etmesidir.",
+    "kisa_fr": "Birbirine bağlı birçok yapay zekâ biriminin ortak bir zeka gibi hareket etmesidir.",
+    "kisa_pt": "Birbirine bağlı birçok yapay zekâ biriminin ortak bir zeka gibi hareket etmesidir.",
+    "kisa_es": "Birbirine bağlı birçok yapay zekâ biriminin ortak bir zeka gibi hareket etmesidir.",
+    "kisa_de": "Birbirine bağlı birçok yapay zekâ biriminin ortak bir zeka gibi hareket etmesidir."
+  },
+  {
+    "slug": "append-only",
+    "en": "Append-only",
+    "full": "",
+    "cat": "data",
+    "kisa": "Verilerin sadece sona eklenebildiği, değiştirilemediği veya silinemediği bir kayıt yöntemidir.",
+    "date": "2026-08-24",
+    "kisa_en": "Verilerin sadece sona eklenebildiği, değiştirilemediği veya silinemediği bir kayıt yöntemidir.",
+    "kisa_fr": "Verilerin sadece sona eklenebildiği, değiştirilemediği veya silinemediği bir kayıt yöntemidir.",
+    "kisa_pt": "Verilerin sadece sona eklenebildiği, değiştirilemediği veya silinemediği bir kayıt yöntemidir.",
+    "kisa_es": "Verilerin sadece sona eklenebildiği, değiştirilemediği veya silinemediği bir kayıt yöntemidir.",
+    "kisa_de": "Verilerin sadece sona eklenebildiği, değiştirilemediği veya silinemediği bir kayıt yöntemidir."
+  },
+  {
+    "slug": "swarms",
+    "en": "Swarms",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Karmaşık görevleri çözmek için koordineli şekilde çalışan küçük yapay zekâ birimleri topluluğudur.",
+    "date": "2026-08-24",
+    "kisa_en": "Karmaşık görevleri çözmek için koordineli şekilde çalışan küçük yapay zekâ birimleri topluluğudur.",
+    "kisa_fr": "Karmaşık görevleri çözmek için koordineli şekilde çalışan küçük yapay zekâ birimleri topluluğudur.",
+    "kisa_pt": "Karmaşık görevleri çözmek için koordineli şekilde çalışan küçük yapay zekâ birimleri topluluğudur.",
+    "kisa_es": "Karmaşık görevleri çözmek için koordineli şekilde çalışan küçük yapay zekâ birimleri topluluğudur.",
+    "kisa_de": "Karmaşık görevleri çözmek için koordineli şekilde çalışan küçük yapay zekâ birimleri topluluğudur."
   }
 ]

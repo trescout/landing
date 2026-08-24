@@ -32,6 +32,7 @@ Não, seus recursos são customizados dependendo do uso pretendido do agente (po
 - [Agent Skills](/pt/discover/agent-skills/)
 - [Taste Skill](/pt/discover/taste-skill/)
 - [OpenMontage](/pt/discover/openmontage/)
+- [Awesome Agent Skills](/pt/discover/awesome-agent-skills/)
 - [Agentskills](/pt/discover/agentskills/)
 - [Text to Cad](/pt/discover/text-to-cad/)
 - [Stitch Skills](/pt/discover/stitch-skills/)

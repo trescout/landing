@@ -2,11 +2,12 @@
 
 Autoremesher, üç boyutlu modellerdeki düzensiz yüzey yapılarını otomatik olarak dörtgen ağlara (quad remeshing) dönüştüren bir araçtır. C++ diliyle geliştirilen bu yazılım, karmaşık geometrileri animasyon ve modelleme süreçlerine uygun hale getirmek için optimize edilmiştir.
 
-- ★ 3.225
+- ★ 3.322
 - C++
 - GitHub Trending · 2026-07-09
 
 ## Güncelleme
+- 24 Ağustos 2026: Yıldız 3.225 → 3.322, son sürüm 1.2.0 (23 Ağustos 2026).
 - 17 Ağustos 2026: Yıldız 3.087 → 3.225, son sürüm 1.1.0 (16 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 2.123 → 3.087, son sürüm 1.0.0 (6 Temmuz 2026).
 

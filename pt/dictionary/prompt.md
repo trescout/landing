@@ -26,6 +26,7 @@ São instruções muito curtas, vagas ou sem contexto. Por exemplo, apenas dizer
 
 ## Ferramentas relacionadas
 - [AI Engineering from Scratch](/pt/discover/ai-engineering-from-scratch/)
+- [Awesome Gpt Image 2](/pt/discover/awesome-gpt-image-2/)
 - [Flue](/pt/discover/flue/)
 
 ---

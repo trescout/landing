@@ -2,7 +2,7 @@
 
 Como una herramienta de desarrollo de software basado en Python, OBLITERÁTUS visa limpiar dependencias innecesarias y estructuras complejas en bases de código. En el proyecto no hay reducción, no es un problema, es cuestión de tiempo.
 
-- ★ 7.838
+- ★ 7.994
 - Python
 - GitHub Trending · 2026-08-22
 

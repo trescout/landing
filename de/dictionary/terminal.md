@@ -31,8 +31,8 @@ Wenn Sie in die Welt der Software einsteigen möchten, ja, denn viele Tools funk
 - [Openinterpreter](/de/discover/openinterpreter/)
 - [Career Ops](/de/discover/career-ops/)
 - [Free Claude Code](/de/discover/free-claude-code/)
+- [Openhuman](/de/discover/openhuman/)
 - [DeepSeek-Reasonix](/de/discover/deepseek-reasonix/)
-- [Mise](/de/discover/mise/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/terminal/

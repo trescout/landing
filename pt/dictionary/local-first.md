@@ -25,6 +25,7 @@ Muitas vezes, os aplicativos locais podem fazer backup na nuvem de maneira cript
 - [Personal Cloud](/pt/dictionary/personal-cloud/)
 
 ## Ferramentas relacionadas
+- [Openhuman](/pt/discover/openhuman/)
 - [Agentsview](/pt/discover/agentsview/)
 - [Wigolo](/pt/discover/wigolo/)
 

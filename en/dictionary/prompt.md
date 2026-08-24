@@ -28,6 +28,7 @@ They are instructions that are very short, vague, or lack context. For example, 
 
 ## Related tools
 - [AI Engineering from Scratch](/en/discover/ai-engineering-from-scratch/)
+- [Awesome Gpt Image 2](/en/discover/awesome-gpt-image-2/)
 - [Flue](/en/discover/flue/)
 
 ---

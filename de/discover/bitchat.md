@@ -2,7 +2,7 @@
 
 Bitchat bietet mithilfe der Bluetooth-Mesh-Technologie eine lokale Chat-Umgebung, die keine Internetverbindung erfordert. Die in der Swift-Sprache entwickelte Anwendung verspricht ein IRC-ähnliches Erlebnis, das es Benutzern ermöglicht, direkt aus nächster Nähe zu kommunizieren.
 
-- ★ 34.123
+- ★ 35.851
 - Swift
 - GitHub Trending · 2026-07-26
 

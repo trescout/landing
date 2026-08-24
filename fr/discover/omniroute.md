@@ -2,7 +2,7 @@
 
 OmniRoute est une passerelle qui offre un accès gratuit en combinant plus de 231 fournisseurs d'intelligence artificielle en un seul point de terminaison. Il réduit l'utilisation des jetons grâce à des techniques de compression avancées, tout en optimisant les outils de développement avec une sauvegarde intelligente et une prise en charge de l'interface multimodale.
 
-- ★ 51 059
+- ★ 53 963
 - TypeScript
 - GitHub Trending · 2026-07-01
 

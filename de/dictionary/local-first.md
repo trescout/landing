@@ -25,6 +25,7 @@ Local-First-Anwendungen können häufig verschlüsselt in der Cloud gesichert we
 - [Personal Cloud](/de/dictionary/personal-cloud/)
 
 ## Verwandte Werkzeuge
+- [Openhuman](/de/discover/openhuman/)
 - [Agentsview](/de/discover/agentsview/)
 - [Wigolo](/de/discover/wigolo/)
 

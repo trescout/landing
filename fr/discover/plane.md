@@ -2,7 +2,7 @@
 
 Plane est une plateforme de gestion de projet open source qui regroupe les processus de gestion des tâches, de planification de sprint et de documentation. Développée comme alternative aux outils d'entreprise tels que Jira et Linear, cette plateforme permet aux équipes d'organiser les flux de travail via une interface centrale.
 
-- ★ 55 693
+- ★ 57 579
 - TypeScript
 - GitHub Trending · 2026-06-18
 

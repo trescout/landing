@@ -2,7 +2,7 @@
 
 Plane é uma plataforma de gerenciamento de projetos de código aberto que reúne processos de gerenciamento de tarefas, planejamento de sprint e documentação. Desenvolvido como uma alternativa a ferramentas empresariais como Jira e Linear, esta plataforma permite que as equipes organizem fluxos de trabalho por meio de uma interface central.
 
-- ★ 55.693
+- ★ 57.579
 - TypeScript
 - GitHub Trending · 2026-06-18
 

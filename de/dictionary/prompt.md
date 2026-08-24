@@ -26,6 +26,7 @@ Es handelt sich um Anweisungen, die sehr kurz, vage oder ohne Kontext sind. Wenn
 
 ## Verwandte Werkzeuge
 - [AI Engineering from Scratch](/de/discover/ai-engineering-from-scratch/)
+- [Awesome Gpt Image 2](/de/discover/awesome-gpt-image-2/)
 - [Flue](/de/discover/flue/)
 
 ---
