@@ -19,6 +19,7 @@
 const fs = require('fs');
 const path = require('path');
 const { execFileSync } = require('child_process');
+const { snapshotChips, snapshotNote } = require('./report-snapshot.js');
 
 const ROOT = path.dirname(__dirname);
 const REPORTS_DIR = path.join(ROOT, 'reports');
@@ -148,8 +149,9 @@ function buildVariant(V) {
 
     let editorial = '';
     let cekim = '';
+    let ham = null;
     try {
-      const ham = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
+      ham = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
       editorial = ham.editorial || '';
       // capturedAt · verinin GERÇEKTEN çekildiği an. Rapordaki tarih bir takvim
       // etiketi; enstantane kaynaklarda (GitHub Trending) içeriğin penceresi
@@ -165,18 +167,13 @@ function buildVariant(V) {
     } catch { /* bozuk JSON · aşağıda eleniyor */ }
     if (!editorial) { atlanan++; return; }
 
-    const trHtml = fs.readFileSync(trHtmlPath, 'utf8');
-    const chipsMatch = trHtml.match(/<div class="rep-chips">(.*?)<\/div>/s);
     const tarih = tarihYaz(dateStr);
 
     const pdfPath = path.join(ROOT, 'reports', V.ciktiPdf(dateStr));
     const pdfVar = fs.existsSync(pdfPath);
     const pdfUrl = pdfVar ? `/reports/${V.ciktiPdf(dateStr)}` : `/reports/${V.trPdf(dateStr)}`;
 
-    let chips = chipsMatch ? chipsMatch[1] : '';
-    for (const [tr, hedef] of Object.entries(D.rapor_cipler)) {
-      chips = chips.split(tr).join(hedef);
-    }
+    const chips = snapshotChips(ham, V.kind, D.rapor_cipler, esc);
 
     const arsiv = dateStr <= D.rapor_arsiv_esigi;
     const badgeTag = arsiv ? `<span class="chip chip-en">${D.rapor_rozet}</span>` : '';
@@ -261,6 +258,7 @@ function buildVariant(V) {
         <a class="act act-dl" href="${pdfUrl}" download>${D.rapor_indir}</a>
       </div>
       ${cekim ? `<p class="rep-captured" title="${esc(D.rapor_cekim_not)}">${esc(D.rapor_cekim.replace('{an}', cekim))}</p>` : ''}
+      ${snapshotNote(cekim, D.rapor_snapshot_notu, esc)}
       <p class="rep-note">${D.rapor_not}</p>
       <aside class="signup-cta">
         <p>${D.rapor_cta}</p>

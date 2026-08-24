@@ -27,6 +27,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Rapor snapshot helper testi
+        run: node --test scripts/report-snapshot.test.js
       - name: Inline CSS/JS kontrolü
         run: python3 scripts/check-no-inline-csp.py
       - name: Nav tutarlılık kontrolü
