@@ -287,6 +287,40 @@
 
 
 
+  <!-- ============== DAILY FLOW PREVIEW ============== -->
+  <section class="section reveal" id="daily-flow" data-daily-flow>
+    <div class="container">
+      <div class="daily-flow-heading">
+        <span class="eyebrow">Vorschau auf den täglichen Ablauf</span>
+        <h2 class="section-title">Wie könnte Ihr Bericht aussehen?</h2>
+        <p class="section-lead">Wählen Sie ein Beispielthema und eine Uhrzeit, um drei Schritte eines täglichen Ablaufs mit echten Einträgen aus dem TreScout-Katalog zu sehen.</p>
+      </div>
+      <div class="daily-flow-builder">
+        <div class="daily-flow-controls">
+          <div class="daily-flow-control">
+            <span class="daily-flow-label">Beispielthema</span>
+            <div class="daily-flow-options" role="group" aria-label="Beispielthema">
+              <button type="button" data-flow-topic="ai" aria-pressed="true">KI</button><button type="button" data-flow-topic="dev" aria-pressed="false">Entwicklung</button><button type="button" data-flow-topic="learn" aria-pressed="false">Lernen</button><button type="button" data-flow-topic="selfhost" aria-pressed="false">Self-host</button>
+            </div>
+          </div>
+          <div class="daily-flow-control">
+            <span class="daily-flow-label">Beispielzeit</span>
+            <div class="daily-flow-options" role="group" aria-label="Beispielzeit">
+              <button type="button" data-flow-time="07:00" aria-pressed="true">07:00</button><button type="button" data-flow-time="12:00" aria-pressed="false">12:00</button><button type="button" data-flow-time="18:00" aria-pressed="false">18:00</button>
+            </div>
+          </div>
+        </div>
+        <div class="daily-flow-output" aria-live="polite">
+          <div class="daily-flow-output-meta">Beispielablauf · <span data-flow-selection>07:00 · KI</span></div>
+          <h3 data-flow-title>Drei kurze Schritte für den Tag</h3>
+          <div class="daily-flow-list" data-flow-list aria-busy="true"><p class="daily-flow-loading">Echte Katalogeinträge werden geladen…</p></div>
+          <p class="daily-flow-note">Dies ist nur ein Beispielablauf. Die Auswahl ändert die Vorschau, nicht einen echten Zeitplan oder eine Themenauswahl, die heute noch nicht verfügbar sind.</p>
+          <a class="daily-flow-cta" href="#early-access-hero" data-flow-cta>Gehören Sie zu den Ersten, die diesen Ablauf lesen ↗</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <!-- ============== DISCOVERY RADAR ============== -->
   <section class="section reveal" id="discovery-radar" data-discovery-radar>
     <div class="container">
