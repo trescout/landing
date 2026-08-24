@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>RuView · Descubrir · TreScout</title>
-<meta name="description" content="Turn ordinary WiFi signals into real-time spatial intelligence without a camera. · RuView · Descubra este proyecto de código abierto en TreScout.">
+<meta name="description" content="RuView es una plataforma de detección que utiliza Channel State Information (CSI) de WiFi para estudiar cambios en el entorno. Puede funcionar con hardware ESP32 o NIC de investigación, y ofrece datos simulados para evaluarla sin hardware.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/es/discover/ruview.md">
 <link rel="canonical" href="https://trescout.com/es/discover/ruview/">
@@ -16,25 +16,26 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/ruview/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/ruview/">
 <meta property="og:title" content="RuView">
-<meta property="og:description" content="Turn ordinary WiFi signals into real-time spatial intelligence without a camera. · RuView · Descubra este proyecto de código abierto en TreScout.">
+<meta property="og:description" content="RuView es una plataforma de detección que utiliza Channel State Information (CSI) de WiFi para estudiar cambios en el entorno. Puede funcionar con hardware ESP32 o NIC de investigación, y ofrece datos simulados para evaluarla sin hardware.">
 <meta property="og:url" content="https://trescout.com/es/discover/ruview/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="es_ES">
 <meta property="og:image" content="https://trescout.com/assets/discover/og/ruview-es.webp">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="RuView">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="RuView">
-<meta name="twitter:description" content="Turn ordinary WiFi signals into real-time spatial intelligence without a camera. · RuView · Descubra este proyecto de código abierto en TreScout.">
+<meta name="twitter:description" content="RuView es una plataforma de detección que utiliza Channel State Information (CSI) de WiFi para estudiar cambios en el entorno. Puede funcionar con hardware ESP32 o NIC de investigación, y ofrece datos simulados para evaluarla sin hardware.">
 <meta name="twitter:image" content="https://trescout.com/assets/discover/og/ruview-es.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Obtenga inteligencia espacial con señales WiFi",
+  "headline": "Detección inalámbrica con señales WiFi",
   "inLanguage": "es",
-  "description": "RuView proporciona inteligencia espacial en tiempo real, seguimiento de signos vitales y detección de presencia sin cámara, utilizando señales WiFi ordinarias. Es un proyecto de código abierto desarrollado con Rust.",
+  "description": "RuView es una plataforma de detección que utiliza Channel State Information (CSI) de WiFi para estudiar cambios en el entorno. Puede funcionar con hardware ESP32 o NIC de investigación, y ofrece datos simulados para evaluarla sin hardware.",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -56,8 +57,6 @@
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
-
-<meta property="og:image:alt" content="RuView">
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
@@ -65,19 +64,22 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/es/discover/">← Descubrir</a>
-<div class="disc-top"><span class="disc-eyebrow">Descubrir · GitHub · RuView</span><span class="disc-momentum">↑ +656 hoy</span></div>
-<h1 class="disc-title">Obtenga inteligencia espacial con señales WiFi</h1>
-<p class="disc-lead">RuView proporciona inteligencia espacial en tiempo real, seguimiento de signos vitales y detección de presencia sin cámara, utilizando señales WiFi ordinarias. Es un proyecto de código abierto desarrollado con Rust.</p>
-<ul class="disc-meta"><li>★ 91.322</li><li>Rust</li><li>MIT</li><li>GitHub Trending · 30 May 2026</li></ul>
+<div class="disc-top"><span class="disc-eyebrow">Descubrir · GitHub · RuView</span></div>
+<h1 class="disc-title">Detección inalámbrica con señales WiFi</h1>
+<p class="disc-lead">RuView es una plataforma de detección que utiliza Channel State Information (CSI) de WiFi para estudiar cambios en el entorno. Puede funcionar con hardware ESP32 o NIC de investigación, y ofrece datos simulados para evaluarla sin hardware.</p>
+<ul class="disc-meta"><li>★ 91.322</li><li>GitHub Trending · 2026-05-30</li></ul>
       <section class="disc-sec disc-updates"><h2>Actualizaciones</h2><ul class="disc-update-list"><li><strong>23 de agosto de 2026:</strong> Estrellas 90,995 → 91,322, última versión v2331 (22 de agosto de 2026).</li><li><strong>20 de agosto de 2026:</strong> Estrellas 90,940 → 90,995, última versión v2301 (19 de agosto de 2026).</li><li><strong>19 de agosto de 2026:</strong> Estrellas 90,838 → 90,940, última versión v2297 (19 de agosto de 2026).</li><li><strong>19 de agosto de 2026:</strong> Estrellas 90,395 → 90,838, última versión v2288 (19 de agosto de 2026).</li></ul></section>
-      <figure class="disc-shot"><img src="/assets/discover/ruview.webp" width="1440" height="1193" loading="lazy" decoding="async" alt="Una vista desde la interfaz RuView"><figcaption>Görsel: RuView (proje deposundan)</figcaption></figure>
-      <section class="disc-sec"><h2>¿Qué ofrece?</h2><ul class="disc-wins"><li>Detección de presencia y movimiento sin necesidad de utilizar cámara.</li><li>Monitorización de signos vitales (respiración y pulso).</li><li>Inteligencia espacial en tiempo real.</li></ul></section>
-      <section class="disc-sec"><h2>nota de responsabilidad</h2><div class="disc-note">Es una tecnología que detecta la presencia/movimiento de personas. El uso cuidadoso y legal en términos de privacidad y consentimiento es su responsabilidad.</div></section>
-      <section class="disc-sec"><h2>¿Cómo instalar, cómo utilizar?</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Copiar instrucción">Copiar</button></div><p class="disc-ai-text">Para probarlo sin hardware, ejecute &#39;docker pull ruvnet/wifi-densepose:latest&#39; en la terminal, luego comience con &#39;docker run -p 3000:3000 ruvnet/wifi-densepose:latest&#39; y abra http://localhost:3000 desde el navegador; Esto muestra la interfaz de detección de movimiento/presencia de RuView con señales WiFi con datos simulados.</p></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Extraiga la imagen de Docker</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>docker pull ruvnet/wifi-densepose:latest</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Ejecutar con Docker (simulación, no requiere hardware)</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>docker run -p 3000:3000 ruvnet/wifi-densepose:latest</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Paquete de Python (PyPI)</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>pip install ruview</code></pre></div></section>
-      <section class="disc-sec"><h2>Términos relacionados del glosario</h2><div class="disc-related"><a href="/es/dictionary/wifi/">WiFi</a><a href="/es/dictionary/open-source/">Open Source</a><a href="/es/dictionary/rust/">Rust</a><a href="/es/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
-      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Para quién es</span><span class="disc-fact-v">Aquellos interesados en IoT/detección/investigación</span></div><div class="disc-fact"><span class="disc-fact-k">dificultad</span><span class="disc-fact-v">Técnico/equipo avanzado</span></div><div class="disc-fact"><span class="disc-fact-k">Que ofertas</span><span class="disc-fact-v">Sensores e inteligencia espacial basados en WiFi</span></div><div class="disc-fact"><span class="disc-fact-k">Tarifa</span><span class="disc-fact-v">Gratis · código abierto (MIT)</span></div><div class="disc-fact"><span class="disc-fact-k">Licencia</span><span class="disc-fact-v">MIT · ayrıntı aşağıda</span></div></div>
-      <div class="disc-note"><strong>Licencia:</strong> MIT · Puedes usarlo libremente, modificarlo y utilizarlo comercialmente.</div>
-      <section class="disc-sec"><h2>Enlaces</h2><ul class="disc-links"><li><a href="https://github.com/ruvnet/RuView" target="_blank" rel="noopener">Repositorio en GitHub →</a></li><li><a href="https://trescout.com/discover/ruview/">Leer en turco →</a></li></ul></section>
+      <section class="disc-sec"><h2>¿Qué hace esta herramienta?</h2><p>RuView es una plataforma con licencia MIT para experimentar con detección basada en Channel State Information de WiFi. Puede instalarse con Docker o desde el código fuente y evaluarse con datos simulados sin hardware. Las capacidades dependen del modo de hardware: la detección RSSI-only en un portátil sirve para presencia y movimiento aproximados, mientras que la detección avanzada requiere hardware con CSI completo.</p></section>
+      <section class="disc-sec"><h2>¿Para quién es?</h2><p>Investigadores y desarrolladores que quieren experimentar con presencia, movimiento o cambios ambientales a partir de señales WiFi.</p></section>
+      <section class="disc-sec"><h2>Qué no esperar</h2><p>Monitorización médica o expectativas de estimación de pose desde un portátil estándar en modo RSSI-only.</p></section>
+      <section class="disc-sec"><h2>Aspectos destacados</h2><ul class="disc-wins"><li>Ofrece rutas de detección CSI con hardware ESP32 y NIC de investigación.</li><li>Se puede evaluar con datos simulados sin hardware.</li><li>Documenta una comprobación determinista con una señal de referencia mediante `./verify`.</li><li>Distingue las capacidades del modo RSSI-only de un portátil de las del hardware con CSI completo.</li></ul></section>
+      <section class="disc-sec"><h2>Primer flujo de uso</h2><ol class="disc-steps"><li>Prepara el entorno siguiendo la ruta de Docker o de código fuente de las guías oficiales.</li><li>Si no tienes hardware, empieza por la ruta de evaluación con datos simulados.</li><li>Ejecuta la comprobación determinista descrita en la guía de compilación mediante `./verify`.</li><li>Elige la ruta RSSI-only o CSI completo según tu hardware.</li></ol></section>
+      <section class="disc-sec"><h2>Inicio seguro</h2><div class="disc-note">El modo RSSI-only de un portátil está pensado para detectar de forma aproximada la presencia y el movimiento, y no ofrece pose. La pose y algunas capacidades de benchmark se documentan como experimentales, de primera versión o limitadas; evalúa los resultados según el modo de hardware utilizado.</div></section>
+      <section class="disc-sec"><h2>Primer prompt</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Copiar instrucción">Copiar</button></div><p class="disc-ai-text">¿Cómo puedo evaluar un escenario sencillo de detección de movimiento con datos CSI simulados de WiFi?</p></div></section>
+      <section class="disc-sec"><h2>Instalación</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Descarga la imagen de Docker</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>docker pull ruvnet/wifi-densepose:latest</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Clona el código fuente</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>git clone https://github.com/ruvnet/RuView.git</code></pre></div></section>
+      <section class="disc-sec"><h2>Ejecución</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Servidor de demostración sin hardware</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>docker run -p 3000:3000 ruvnet/wifi-densepose:latest</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Comprobación determinista</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>./verify</code></pre></div></section>
+      <section class="disc-sec"><h2>Términos relacionados del glosario</h2><div class="disc-related"><a href="/es/dictionary/wifi/">WiFi</a></div></section>
+      <section class="disc-sec"><h2>Enlaces</h2><ul class="disc-links"><li><a href="https://github.com/ruvnet/RuView" target="_blank" rel="noopener">Repositorio en GitHub →</a></li><li><a href="https://github.com/ruvnet/RuView" target="_blank" rel="noopener">Repositorio oficial de GitHub de RuView →</a></li><li><a href="https://github.com/ruvnet/RuView/blob/main/docs/user-guide.md" target="_blank" rel="noopener">Guía de usuario de RuView →</a></li><li><a href="https://github.com/ruvnet/RuView/blob/main/docs/build-guide.md" target="_blank" rel="noopener">Guía de compilación de RuView →</a></li><li><a href="https://trescout.com/discover/ruview/">Leer en turco →</a></li></ul></section>
 <p class="disc-disclaimer">TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-05-30: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se <strong>tradujo automáticamente</strong> del original en turco · prevalece la versión turca.</p>
 <aside class="disc-cta"><p><strong>TreScout encuentra herramientas como esta todos los días.</strong> Rastreamos GitHub, Hacker News y HuggingFace, y le resumimos lo esencial.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-es" novalidate><div class="form-row"><input class="input" type="email" name="email" placeholder="Su correo electrónico" autocomplete="email" required><button class="btn btn-primary" type="submit">Acceso anticipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>He leído el <a href="/es/privacy.html" target="_blank" rel="noopener">aviso de privacidad</a> y acepto que mi correo se trate con esta finalidad.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/es/discover/">Todos los descubrimientos →</a></aside>
 </article>

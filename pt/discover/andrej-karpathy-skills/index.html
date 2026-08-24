@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Andrej Karpathy Skills · Descobrir · TreScout</title>
-<meta name="description" content="Andrej Karpathy Skills é um único arquivo CLAUDE.md destinado a melhorar o comportamento do Claude Code, derivado das observações de Andrej Karpathy sobre armadilhas de programação com LLMs.">
+<meta name="description" content="Este pacote de diretrizes é descrito como derivado das observações de Andrej Karpathy sobre falhas de codificação de LLMs. Ele oferece opções de plugin para Claude Code, CLAUDE.md por projeto e regra para Cursor.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/pt/discover/andrej-karpathy-skills.md">
 <link rel="canonical" href="https://trescout.com/pt/discover/andrej-karpathy-skills/">
@@ -16,25 +16,26 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/andrej-karpathy-skills/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/andrej-karpathy-skills/">
 <meta property="og:title" content="Andrej Karpathy Skills">
-<meta property="og:description" content="Andrej Karpathy Skills é um único arquivo CLAUDE.md destinado a melhorar o comportamento do Claude Code, derivado das observações de Andrej Karpathy sobre armadilhas de programação com LLMs.">
+<meta property="og:description" content="Este pacote de diretrizes é descrito como derivado das observações de Andrej Karpathy sobre falhas de codificação de LLMs. Ele oferece opções de plugin para Claude Code, CLAUDE.md por projeto e regra para Cursor.">
 <meta property="og:url" content="https://trescout.com/pt/discover/andrej-karpathy-skills/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="pt_BR">
 <meta property="og:image" content="https://trescout.com/assets/discover/og/andrej-karpathy-skills-pt.webp">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Andrej Karpathy Skills">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Andrej Karpathy Skills">
-<meta name="twitter:description" content="Andrej Karpathy Skills é um único arquivo CLAUDE.md destinado a melhorar o comportamento do Claude Code, derivado das observações de Andrej Karpathy sobre armadilhas de programação com LLMs.">
+<meta name="twitter:description" content="Este pacote de diretrizes é descrito como derivado das observações de Andrej Karpathy sobre falhas de codificação de LLMs. Ele oferece opções de plugin para Claude Code, CLAUDE.md por projeto e regra para Cursor.">
 <meta name="twitter:image" content="https://trescout.com/assets/discover/og/andrej-karpathy-skills-pt.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Discipline seu assistente de codificação de IA",
+  "headline": "Diretrizes de Karpathy para agentes de código",
   "inLanguage": "pt-BR",
-  "description": "Andrej Karpathy Skills é um único arquivo CLAUDE.md destinado a melhorar o comportamento do Claude Code, derivado das observações de Andrej Karpathy sobre armadilhas de programação com LLMs.",
+  "description": "Este pacote de diretrizes é descrito como derivado das observações de Andrej Karpathy sobre falhas de codificação de LLMs. Ele oferece opções de plugin para Claude Code, CLAUDE.md por projeto e regra para Cursor.",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -56,8 +57,6 @@
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
-
-<meta property="og:image:alt" content="Andrej Karpathy Skills">
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
@@ -66,15 +65,18 @@
 <article class="disc">
 <a class="disc-back" href="/pt/discover/">← Descobrir</a>
 <div class="disc-top"><span class="disc-eyebrow">Descobrir · GitHub · Andrej Karpathy Skills</span></div>
-<h1 class="disc-title">Discipline seu assistente de codificação de IA</h1>
-<p class="disc-lead">Andrej Karpathy Skills é um único arquivo CLAUDE.md destinado a melhorar o comportamento do Claude Code, derivado das observações de Andrej Karpathy sobre armadilhas de programação com LLMs.</p>
+<h1 class="disc-title">Diretrizes de Karpathy para agentes de código</h1>
+<p class="disc-lead">Este pacote de diretrizes é descrito como derivado das observações de Andrej Karpathy sobre falhas de codificação de LLMs. Ele oferece opções de plugin para Claude Code, CLAUDE.md por projeto e regra para Cursor.</p>
 <ul class="disc-meta"><li>★ 205.391</li><li>GitHub Trending · 2026-08-23</li></ul>
-      <section class="disc-sec"><h2>O que você ganha</h2><ul class="disc-wins"><li>Impede que a IA faça suposições incorretas</li><li>Evita complexidade desnecessária do código</li><li>Fornece apenas alterações direcionadas e limpas</li></ul></section>
-      <section class="disc-sec"><h2>Instalação</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Adicionar ao novo projeto</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>curl -o CLAUDE.md https://raw.githubusercontent.com/forrestchang/andrej-karpathy-skills/main/CLAUDE.md</code></pre></div></section>
-      <section class="disc-sec"><h2>Se você não programa</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Copiar prompt">Copiar</button></div><p class="disc-ai-text">A partir de agora, aplique os quatro princípios básicos sugeridos por Andrej Karpathy ao codificar: Pense antes de codificar, explique suas suposições e questione as incertezas, evite complexidades desnecessárias escolhendo sempre a solução mais simples, faça alterações apenas nas partes solicitadas e prossiga definindo critérios de sucesso testáveis em vez de dizer &#39;executar&#39; o trabalho.</p></div></section>
-      <section class="disc-sec"><h2>Termos relacionados do glossário</h2><div class="disc-related"><a href="/pt/dictionary/ai-skills/">AI Skills</a><a href="/pt/dictionary/llm/">LLM</a><a href="/pt/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
-      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Para quem é</span><span class="disc-fact-v">É para desenvolvedores de software que usam ferramentas de codificação suportadas por inteligência artificial, como Claude Code, e desejam obter resultados mais consistentes e livres de erros.</span></div></div>
-      <section class="disc-sec"><h2>Links</h2><ul class="disc-links"><li><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank" rel="noopener">Repositório no GitHub →</a></li><li><a href="https://trescout.com/discover/andrej-karpathy-skills/">Ler em turco →</a></li></ul></section>
+      <section class="disc-sec"><h2>O que esta ferramenta faz?</h2><p>Andrej Karpathy Skills não é um modelo independente nem um runtime de agente de código. Ele fornece um CLAUDE.md e diretrizes no estilo de plugin para orientar agentes de código existentes, organizadas em quatro princípios: pensar antes de codificar, priorizar a simplicidade, fazer mudanças cirúrgicas e executar orientado pelo objetivo.</p></section>
+      <section class="disc-sec"><h2>Para quem é?</h2><p>Desenvolvedores que usam Claude Code ou Cursor e querem adicionar diretrizes no nível do projeto ou da ferramenta.</p></section>
+      <section class="disc-sec"><h2>O que não esperar</h2><p>Pessoas que procuram um LLM independente, editor de código, runtime de agente ou aplicativo pronto para execução.</p></section>
+      <section class="disc-sec"><h2>Destaques</h2><ul class="disc-wins"><li>Usa um CLAUDE.md e uma abordagem de plugin para orientar agentes de código.</li><li>Define quatro princípios para um trabalho deliberado e verificável.</li><li>Inclui opções de configuração para Claude Code e Cursor.</li><li>O README informa a licença MIT.</li></ul></section>
+      <section class="disc-sec"><h2>Primeiro fluxo de uso</h2><ol class="disc-steps"><li>Leia o README do repositório e escolha a opção adequada à sua ferramenta: plugin do Claude Code, CLAUDE.md do projeto ou regra do Cursor.</li><li>Para uso no nível do projeto, adicione as diretrizes ao CLAUDE.md do seu projeto conforme descrito no repositório.</li><li>Revise as diretrizes de acordo com as necessidades do projeto antes de usá-las.</li></ol></section>
+      <section class="disc-sec"><h2>Início seguro</h2><div class="disc-note">Este pacote orienta agentes; ainda é necessário verificar o código gerado, o escopo das alterações e os resultados dos testes.</div></section>
+      <section class="disc-sec"><h2>Primeiro prompt</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Copiar prompt">Copiar</button></div><p class="disc-ai-text">Primeiro apresente o plano, as incertezas e os arquivos afetados por esta tarefa. Depois sugira a abordagem mais simples e faça apenas as alterações necessárias para o objetivo.</p></div></section>
+      <section class="disc-sec"><h2>Termos relacionados do glossário</h2><div class="disc-related"><a href="/pt/dictionary/llm/">LLM</a><a href="/pt/dictionary/plugin/">Plugin</a></div></section>
+      <section class="disc-sec"><h2>Links</h2><ul class="disc-links"><li><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank" rel="noopener">Repositório no GitHub →</a></li><li><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank" rel="noopener">README do Andrej Karpathy Skills →</a></li><li><a href="https://github.com/multica-ai/andrej-karpathy-skills/blob/main/skills/karpathy-guidelines/SKILL.md" target="_blank" rel="noopener">Diretrizes de Karpathy →</a></li><li><a href="https://github.com/multica-ai/andrej-karpathy-skills/blob/main/EXAMPLES.md" target="_blank" rel="noopener">Exemplos de Karpathy →</a></li><li><a href="https://trescout.com/discover/andrej-karpathy-skills/">Ler em turco →</a></li></ul></section>
 <p class="disc-disclaimer">A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-23: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi <strong>traduzida automaticamente</strong> do original em turco · a versão turca é a que vale.</p>
 <aside class="disc-cta"><p><strong>A TreScout encontra ferramentas assim todos os dias.</strong> GitHub, Hacker News e HuggingFace são vasculhados e o essencial é resumido para você.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-pt" novalidate><div class="form-row"><input class="input" type="email" name="email" placeholder="Seu e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Acesso antecipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Li o <a href="/pt/privacy.html" target="_blank" rel="noopener">aviso de privacidade</a> e concordo com o tratamento do meu e-mail para esta finalidade.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/pt/discover/">Todas as descobertas →</a></aside>
 </article>

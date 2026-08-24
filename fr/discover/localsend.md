@@ -1,21 +1,40 @@
-# Partage de fichiers sécurisé entre appareils
+# Partager des fichiers et des messages sur un réseau local
 
-LocalSend est une application open source qui permet le partage de fichiers entre différents systèmes d'exploitation. Il crée une alternative indépendante de la plate-forme à la fonctionnalité AirDrop proposée par les appareils Apple.
+Partagez des fichiers et des messages entre des appareils proches sur un réseau local. LocalSend fonctionne sans connexion Internet ni serveur tiers et utilise le chiffrement HTTPS.
 
 - ★ 88 882
-- Dart
 - GitHub Trending · 2026-08-13
 
-## Ce que ça vous apporte
-- Transfert de fichiers rapide sans nécessiter de connexion Internet
-- Communication transparente entre les différents systèmes d'exploitation
-- Transfert de données sécurisé avec cryptage HTTPS
+## Que fait cet outil ?
+LocalSend est une application gratuite et open source qui permet de partager des fichiers et des messages entre des appareils Windows, macOS, Linux, Android et iOS sur un réseau local. Elle utilise une API REST et le chiffrement HTTPS, sans exiger de compte ni de connexion.
 
-## Pour commencer
-- Source officielle →
+## Pour qui ?
+Les personnes qui souhaitent partager des fichiers ou des messages entre des appareils connectés au même réseau local, même avec des systèmes différents.
+
+## À quoi ne faut-il pas s’attendre ?
+Les personnes qui doivent transférer des fichiers entre des réseaux différents via Internet ou qui attendent des mises à jour automatiques dans l’application.
+
+## Points forts
+- Fonctionne sans connexion Internet ni serveur tiers.
+- Prend en charge Windows, macOS, Linux, Android et iOS.
+- Ne nécessite ni compte ni connexion.
+- Utilise une API REST et le chiffrement HTTPS pour les communications locales.
+
+## Premiers pas
+- Installez la version adaptée à votre appareil depuis le site officiel, une boutique d’applications ou un gestionnaire de paquets.
+- Connectez les appareils concernés au même réseau local.
+- En cas de problème, vérifiez dans le pare-feu le trafic entrant TCP et UDP sur le port 53317.
+- Sélectionnez un fichier ou un message dans l’application et lancez le transfert.
+
+## Démarrage prudent
+
+## Premier prompt
+Comment envoyer une photo de mon ordinateur vers mon téléphone sur le même réseau local ?
 
 ## Liens
 - Dépôt GitHub →
+- README officiel de LocalSend →
+- Site officiel de LocalSend →
 - Lire en turc →
 
 ---
