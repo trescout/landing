@@ -1,6 +1,6 @@
 # Infraestrutura de alto desempenho para projetos de inteligência artificial
 
-A plataforma Modular inclui o motor MAX, desenvolvido para rodar modelos de inteligência artificial, e a linguagem de programação Mojo, que combina as capacidades da linguagem Python com a velocidade de programação de sistemas. Este é um projeto de tecnologia para uma rápida infraestrutura de inteligência artificial e simplificação de processos complexos de software.
+Modular Platformu, yapay zekâ projeleri için yüksek performanslı altyapı sunar ve MAX ile Mojo'yu içerir.
 
 - ★ 28.875
 - Mojo

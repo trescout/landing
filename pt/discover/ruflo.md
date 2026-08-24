@@ -1,6 +1,6 @@
 # Camada de orquestração para agentes de IA
 
-Ruflo software de estrutura que permite a construção de enxames multijogador compostos por agentes independentes de inteligência artificial. Ele permite o desenvolvimento de sistemas que gerenciam fluxos de trabalho complexos com recursos como memória adaptativa, autoaprendizagem e geração de conteúdo assistido por banco de dados (RAG).
+Ruflo, akıllı ajan sürülerini devreye almak, otonom iş akışlarını koordine etmek ve diyalogsal yapay zekâ sistemleri oluşturmak için bir ajan orkestrasyon katmanıdır.
 
 - ★ 68.873
 - TypeScript

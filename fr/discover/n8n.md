@@ -1,6 +1,6 @@
 # Automatisez les flux de travail inter-applications
 
-n8n est une plate-forme d'automatisation des flux de travail qui fluidifie les données entre différentes applications et automatise les processus commerciaux. En combinant une interface visuelle avec un écrit de code personnalisé, cela peut réellement fonctionner jusqu'à maintenant dans votre propre serveur, avec un support pour plus de 400 intégrations.
+n8n, görsel iş akışı oluşturmayı özel kod, yerleşik yapay zekâ özellikleri ve 400'den fazla entegrasyonla birleştiren bir otomasyon platformudur.
 
 - ★ 201 895
 - TypeScript

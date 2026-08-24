@@ -76,9 +76,13 @@ async function main() {
   fs.writeFileSync(DICT_JSON, JSON.stringify(dictionary, null, 2), 'utf8');
   console.log('Dictionary translation saved.');
 
-  console.log(`Translating ${catalog.length} catalog items...`);
+  const translatableCatalog = catalog.filter(item => !item.tagline_reviewed);
+  console.log(`Translating ${translatableCatalog.length}/${catalog.length} catalog items...`);
+  // Human-reviewed multilingual taglines are explicit overrides. Keep them
+  // stable across daily syncs; remove tagline_reviewed only when a fresh source
+  // translation is intentionally requested.
   await batchProcess(
-    catalog,
+    translatableCatalog,
     item => item.tagline,
     (item, val) => item[`tagline_${LANG}`] = val
   );

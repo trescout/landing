@@ -22452,7 +22452,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 # Yapay zekâ kodlama asistanına disiplin kazandırın
 
-Com base nas observações de Andrej Karpathy sobre erros encontrados ao codificar com grandes modelos de linguagem (LLM), CLAUDE.md visa otimizar o desempenho do Claude Code, uma ferramenta de codificação suportada por inteligência artificial. Este arquivo de configuração serve como um guia para os desenvolvedores obterem saída de código mais consistente e livre de erros da inteligência artificial.
+Andrej Karpathy Skills, Andrej Karpathy'nin LLM'lerle kodlamanın olası sorunlarına ilişkin gözlemlerinden türetilen tek bir CLAUDE.md dosyasıyla Claude Code davranışını iyileştirmeyi amaçlar.
 
 - ★ 205.391
 - GitHub Trending · 2026-08-23
@@ -22493,7 +22493,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 # Uygulamalar arası iş akışlarını otomatize edin
 
-n8n é uma plataforma de automação de fluxo de trabalho que flui dados entre diferentes aplicativos e automatiza processos de negócios. Combinando uma interface visual com escrita de código customizada, esta ferramenta pode rodar tanto na nuvem quanto em seu próprio servidor, com suporte para mais de 400 integrações.
+n8n, görsel iş akışı oluşturmayı özel kod, yerleşik yapay zekâ özellikleri ve 400'den fazla entegrasyonla birleştiren bir otomasyon platformudur.
 
 - ★ 201.895
 - TypeScript
@@ -23804,7 +23804,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 # Terminal üzerinden yapay zekâ destekli kodlama
 
-Desenvolvido com a linguagem Rust, Codex é um agente de codificação leve que roda no terminal. Oferece sugestões e edições de código diretamente pela linha de comando para agilizar os processos de desenvolvimento de software.
+Codex, doğrudan terminalde çalışan hafif bir kodlama ajanıdır.
 
 - ★ 115.876
 - Rust
@@ -26983,7 +26983,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 # Yapay zekâ ajanları için orkestrasyon katmanı
 
-Ruflo é um software de estrutura que permite a construção de enxames multijogador compostos por agentes autônomos de inteligência artificial. Ele permite o desenvolvimento de sistemas que gerenciam fluxos de trabalho complexos com recursos como memória adaptativa, autoaprendizagem e geração de conteúdo assistida por banco de dados (RAG).
+Ruflo, akıllı ajan sürülerini devreye almak, otonom iş akışlarını koordine etmek ve diyalogsal yapay zekâ sistemleri oluşturmak için bir ajan orkestrasyon katmanıdır.
 
 - ★ 68.873
 - TypeScript
@@ -28347,7 +28347,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 # Modern içerik ve bülten platformu
 
-Ghost é um sistema de gerenciamento de conteúdo (CMS) de código aberto desenvolvido para publicação moderna, gerenciamento de membros e envio de boletins informativos. É uma plataforma baseada em JavaScript que fornece aos criadores de conteúdo a infraestrutura necessária para criar modelos de receita baseados em assinatura.
+Ghost, modern yayıncılık, üyelikler, abonelikler ve e-posta bültenleri için bağımsız bir teknoloji platformudur.
 
 - ★ 54.933
 - JavaScript
@@ -30512,7 +30512,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 # Yapay zekâ aboneliklerini tek merkezden yönetin
 
-Sub2API é um serviço de migração de código aberto que combina diferentes assinaturas de IA, como Claude, OpenAI, Gemini e Grok, em uma única interface. Embora permita aos utilizadores partilhar os custos de subscrição, oferece a oportunidade de utilizar estes serviços de forma integrada com as ferramentas existentes.
+Sub2API, Claude, OpenAI, Gemini ve Grok aboneliklerine tek noktadan erişim ve maliyet paylaşımı sağlayan açık kaynaklı bir aracı hizmettir.
 
 - ★ 38.841
 - Go
@@ -33211,7 +33211,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 # Yapay zekâ projeleri için yüksek performanslı altyapı
 
-A plataforma Modular inclui o motor MAX, desenvolvido para rodar modelos de inteligência artificial, e a linguagem de programação Mojo, que combina as capacidades da linguagem Python com a velocidade de programação de sistemas. Esta tecnologia foi projetada para acelerar a infraestrutura de inteligência artificial e simplificar processos complexos de software.
+Modular Platformu, yapay zekâ projeleri için yüksek performanslı altyapı sunar ve MAX ile Mojo'yu içerir.
 
 - ★ 28.875
 - Mojo
@@ -35473,7 +35473,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 # Yapay zekâ modellerini hızlandıran platform
 
-Desenvolvido pela Microsoft, o ONNX Runtime é um acelerador que permite que modelos de machine learning sejam executados e treinados com alto desempenho em diversas plataformas. Ele acelera os processos de desenvolvimento de aplicativos, otimizando os processos de inferência de modelos em diversas arquiteturas de hardware.
+ONNX Runtime, makine öğrenimi çıkarımı ve eğitimi için platformlar arası çalışan yüksek performanslı bir hızlandırıcıdır.
 
 - ★ 21.495
 - C++
@@ -37760,7 +37760,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 # Logitech cihazlar için açık kaynaklı yönetim
 
-OpenLogi é um software alternativo local e de código aberto desenvolvido para gerenciar periféricos Logitech. Ele permite que os usuários definam atalhos de teclado, configurações de sensibilidade (DPI) e recursos SmartShift sem a necessidade de criar uma conta ou compartilhar dados.
+OpenLogi, Logitech Options+ için Rust ile yazılmış, yerel öncelikli ve açık kaynaklı bir alternatiftir. Hesap veya telemetri gerektirmeden düğmeleri, DPI'ı ve SmartShift'i yapılandırır.
 
 - ★ 15.122
 - Rust
@@ -41704,7 +41704,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 # Gereksiz bağımlılıkları temizleyin
 
-Como uma ferramenta de desenvolvimento de software baseada em Python, OBLITERATUS visa limpar dependências desnecessárias e estruturas complexas em bases de código. Projetada para reduzir o débito técnico nos projetos dos desenvolvedores, essa ferramenta ajuda a tornar o código mais enxuto e gerenciável.
+OBLITERATUS, güvenlik bariyeri yönlerinin analizini, hizalama izlerinin tespitini, savunma dayanıklılığının değerlendirilmesini ve dil modellerinden ret ile güvenlik bariyeri sinyallerini kaldırma tekniklerini ele alır.
 
 - ★ 7.994
 - Python
@@ -43887,7 +43887,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 # Yapay zekâ altyapınız için güvenlik denetimi
 
-Desenvolvido pela Tencent, o AI-Infra-Guard é uma plataforma abrangente de red teaming que protege ecossistemas de inteligência artificial contra vulnerabilidades. Sistema; Ele monitora a segurança da infraestrutura por meio de métodos como verificação de agentes, análise de habilidades e avaliações de segurança de grandes modelos de linguagem.
+AI-Infra-Guard, ajanları, becerileri, MCP'yi ve yapay zekâ altyapısını tarayan, ayrıca LLM jailbreak değerlendirmeleri yapan uçtan uca bir yapay zekâ kırmızı ekip platformudur.
 
 - ★ 4.746
 - Python
@@ -45323,7 +45323,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 # Konum geçmişinizi hareketli videoya dönüştürün
 
-O Google Timeline Visualizer, que visualiza os dados do Histórico de localização do Google, permite analisar rotas de viagem ao longo do ano em um mapa. Desenvolvido com a linguagem Kotlin, esta ferramenta cria resumos pessoais de viagens convertendo dados do histórico de localização em gráficos significativos.
+Google Timeline Visualizer, Google Konum Geçmişi verilerinizle bir yıllık seyahatlerinizi görselleştirir.
 
 - ★ 2.712
 - Kotlin
@@ -45713,7 +45713,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 # Yapay zekâ ajanları için yerel çalışma alanı
 
-Apache Maka é um espaço de trabalho local desenvolvido para agentes de inteligência artificial. Ele fornece rastreabilidade dos processos do agente gravando mensagens, chamadas de veículos e decisões de permissão em um log orientado a anexos.
+Apache Maka, model mesajlarını, araç etkileşimlerini, izin kararlarını ve sonlandırma olaylarını yalnızca yeni kayıt eklenebilen bir günlükte tutan yerel öncelikli bir yapay zekâ ajanı çalışma alanıdır.
 
 - ★ 2.064
 - TypeScript
@@ -46552,7 +46552,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 # Yapay zekâ ajanları için ölçeklenebilir altyapı
 
-Desenvolvido com a linguagem Go, o Agent Substrate oferece um runtime básico para agentes de inteligência artificial. Esta infraestrutura, que suporta diferentes arquiteturas de agentes, visa padronizar os recursos do sistema e os fluxos de trabalho necessários aos agentes.
+Agent Substrate, yapay zekâ ajanları için ölçeklenebilir altyapı sağlayan temel sistemdir.
 
 - ★ 1.276
 - Go

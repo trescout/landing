@@ -1,6 +1,6 @@
 # Disciplinez votre assistant de codage IA
 
-Sur la base des observations d'Andrej Karpathy sur les erreurs trouvées dans la codification des grands modèles de langage (LLM), CLAUDE.md a permis d'optimiser l'emploi du Code Claude, un outil de codification soutenu par l'intelligence artificielle. Cet archivage de configuration sert de guide aux développeurs pour obtenir un code plus cohérent et un livre d'erreurs d'intelligence artificielle.
+Andrej Karpathy Skills, Andrej Karpathy'nin LLM'lerle kodlamanın olası sorunlarına ilişkin gözlemlerinden türetilen tek bir CLAUDE.md dosyasıyla Claude Code davranışını iyileştirmeyi amaçlar.
 
 - ★ 205 391
 - GitHub Trending · 2026-08-23

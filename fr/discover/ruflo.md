@@ -1,6 +1,6 @@
 # Couche d'orchestration pour les agents IA
 
-Logiciel de construction Ruflo qui permet de construire des composteurs multijoueurs par agents autonomes d'intelligence artificielle. Cela permet le développement de systèmes qui gèrent des flux de travail complexes avec des ressources en mémoire adaptative, un auto-apprentissage et une gestion du contenu assistée par le banc de données (RAG).
+Ruflo, akıllı ajan sürülerini devreye almak, otonom iş akışlarını koordine etmek ve diyalogsal yapay zekâ sistemleri oluşturmak için bir ajan orkestrasyon katmanıdır.
 
 - ★ 68 873
 - TypeScript

@@ -1,6 +1,6 @@
 # Infrastructure performante pour les projets d’intelligence artificielle
 
-Une plate-forme modulaire comprend le moteur MAX, conçu pour les modèles d'intelligence artificielle, et le langage de programmation Mojo, qui combine les capacités du langage Python avec la vitesse de programmation des systèmes. Il s'agit d'un projet technologique pour une infrastructure d'intelligence artificielle rapide et des processus complexes de logiciels simplifiés.
+Modular Platformu, yapay zekâ projeleri için yüksek performanslı altyapı sunar ve MAX ile Mojo'yu içerir.
 
 - ★ 28 875
 - Mojo

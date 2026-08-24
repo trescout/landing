@@ -21101,7 +21101,7 @@
   {
     "slug": "modular",
     "title": "Modular",
-    "tagline": "A plataforma Modular inclui o motor MAX, desenvolvido para rodar modelos de inteligência artificial, e a linguagem de…",
+    "tagline": "Modular Platformu, yapay zekâ projeleri için yüksek performanslı altyapı sunar ve MAX ile Mojo'yu içerir.",
     "meta": "★ 28.875 · Mojo",
     "image": "/assets/discover/og/modular.webp",
     "source": "GitHub",
@@ -21115,11 +21115,11 @@
     "headline": "Yapay zekâ projeleri için yüksek performanslı altyapı",
     "needs_enrichment": true,
     "enrich_reason": "komutsuz",
-    "tagline_en": "A plataforma Modular inclui o motor MAX, desenvolvido para rodar modelos de inteligência artificial, e a linguagem de…",
-    "tagline_fr": "Une plate-forme modulaire comprenant le moteur MAX, conçue pour les modèles d'intelligence artificielle, et un langage de…",
-    "tagline_pt": "A plataforma Modular inclui o motor MAX, desenvolvida para rodar modelos de inteligência artificial, e a linguagem de…",
-    "tagline_es": "Una plataforma Modular que incluye el motor MAX, diseñada para rodar modelos de inteligencia artificial, y un lenguaje de…",
-    "tagline_de": "Eine modulare Plattform mit MAX-Motor, gelenkt zum Fahren künstlicher Intelligenzmodelle und einer Sprache, die…",
+    "tagline_en": "The Modular Platform provides high-performance infrastructure for AI projects and includes MAX and Mojo.",
+    "tagline_fr": "La plateforme Modular fournit une infrastructure haute performance pour les projets d'IA et inclut MAX et Mojo.",
+    "tagline_pt": "A plataforma Modular oferece infraestrutura de alto desempenho para projetos de IA e inclui MAX e Mojo.",
+    "tagline_es": "La plataforma Modular ofrece infraestructura de alto rendimiento para proyectos de IA e incluye MAX y Mojo.",
+    "tagline_de": "Die Modular-Plattform bietet eine leistungsstarke Infrastruktur für KI-Projekte und umfasst MAX und Mojo.",
     "last_review": "2026-08-24",
     "guncellemeler": [
       {
@@ -21137,12 +21137,14 @@
         "surum_tarihi": "2026-08-11"
       }
     ],
-    "last_seen": "2026-08-23"
+    "last_seen": "2026-08-23",
+    "tagline_reviewed": true,
+    "tagline_reviewed_at": "2026-08-24"
   },
   {
     "slug": "openlogi",
     "title": "OpenLogi",
-    "tagline": "OpenLogi é um software alternativo local e de código aberto desenvolvido para gerenciar periféricos Logitech.",
+    "tagline": "OpenLogi, Logitech Options+ için Rust ile yazılmış, yerel öncelikli ve açık kaynaklı bir alternatiftir. Hesap veya telemetri gerektirmeden düğmeleri, DPI'ı ve SmartShift'i yapılandırır.",
     "meta": "★ 15.122 · Rust",
     "image": "/assets/discover/og/openlogi.webp",
     "source": "GitHub",
@@ -21153,11 +21155,11 @@
     "stars": 15122,
     "lite": false,
     "headline": "Logitech cihazlar için açık kaynaklı yönetim",
-    "tagline_en": "OpenLogi and software alternativo local e de código aberto desenvolvido para gerenciar periféricos Logitech.",
-    "tagline_fr": "OpenLogi et logiciels alternatifs locaux et code ouvert développés pour la gestion des périphériques Logitech.",
-    "tagline_pt": "OpenLogi e software alternativo local e de código aberto desenvolvido para gerenciamento periféricos Logitech.",
-    "tagline_es": "OpenLogi y software alternativo local y de código abierto diseñado para gerenciar periféricos Logitech.",
-    "tagline_de": "OpenLogi und alternative lokale Software und Code wurden jedoch für die Verwendung mit Logitech-Peripheriegeräten entwickelt.",
+    "tagline_en": "OpenLogi is a native, local-first, open-source alternative to Logitech Options+, written in Rust. It configures buttons, DPI, and SmartShift without accounts or telemetry.",
+    "tagline_fr": "OpenLogi est une alternative native, open source et axée sur le stockage local à Logitech Options+, écrite en Rust. Elle configure les boutons, le DPI et SmartShift sans compte ni télémétrie.",
+    "tagline_pt": "OpenLogi é uma alternativa nativa, de código aberto e com prioridade ao uso local ao Logitech Options+, escrita em Rust. Permite configurar botões, DPI e SmartShift sem conta nem telemetria.",
+    "tagline_es": "OpenLogi es una alternativa nativa, de código abierto y centrada en el uso local a Logitech Options+, escrita en Rust. Permite configurar botones, DPI y SmartShift sin cuenta ni telemetría.",
+    "tagline_de": "OpenLogi ist eine in Rust geschriebene, native und lokal ausgerichtete Open-Source-Alternative zu Logitech Options+. Tasten, DPI und SmartShift lassen sich ohne Konto oder Telemetrie konfigurieren.",
     "last_review": "2026-08-24",
     "guncellemeler": [
       {
@@ -21203,12 +21205,14 @@
         "surum_tarihi": "2026-08-23"
       }
     ],
-    "last_seen": "2026-08-24"
+    "last_seen": "2026-08-24",
+    "tagline_reviewed": true,
+    "tagline_reviewed_at": "2026-08-24"
   },
   {
     "slug": "substrate",
     "title": "Substrate",
-    "tagline": "Desenvolvido com a linguagem Go, o Agent Substrate oferece um runtime básico para agentes de inteligência artificial.",
+    "tagline": "Agent Substrate, yapay zekâ ajanları için ölçeklenebilir altyapı sağlayan temel sistemdir.",
     "meta": "★ 1.276 · Go",
     "image": "/assets/discover/og/substrate.webp",
     "source": "GitHub",
@@ -21219,11 +21223,11 @@
     "stars": 1276,
     "lite": false,
     "headline": "Yapay zekâ ajanları için ölçeklenebilir altyapı",
-    "tagline_en": "Desenvolvido com a linguagem Go, o Agent Substrate oferece um runtime básico para agentes de inteligência artificial.",
-    "tagline_fr": "Conçu avec le langage Go, l'agent Substrate offre un runtime de base pour les agents d'intelligence artificielle.",
-    "tagline_pt": "Desenvolvido com a linguagem Go, o Agent Substrate oferece um runtime básico para agentes de inteligência artificial.",
-    "tagline_es": "Desarrollado con el lenguaje Go, el Agent Substrate ofrece un tiempo de ejecución básico para agentes de inteligencia artificial.",
-    "tagline_de": "Entworfen mit der Go-Sprache, bietet Agent Substrate eine grundlegende Laufzeit für künstliche Intelligenz-Agenten.",
+    "tagline_en": "Agent Substrate is the core system for scalable AI agent infrastructure.",
+    "tagline_fr": "Agent Substrate est le système central d'une infrastructure évolutive destinée aux agents d'IA.",
+    "tagline_pt": "Agent Substrate é o sistema central de uma infraestrutura escalável para agentes de IA.",
+    "tagline_es": "Agent Substrate es el sistema central de una infraestructura escalable para agentes de IA.",
+    "tagline_de": "Agent Substrate ist das Kernsystem für eine skalierbare Infrastruktur für KI-Agenten.",
     "last_review": "2026-08-24",
     "guncellemeler": [
       {
@@ -21234,12 +21238,14 @@
         "surum_tarihi": "2026-05-19"
       }
     ],
-    "last_seen": "2026-08-21"
+    "last_seen": "2026-08-21",
+    "tagline_reviewed": true,
+    "tagline_reviewed_at": "2026-08-24"
   },
   {
     "slug": "google-timeline-visualizer",
     "title": "Google Timeline Visualizer",
-    "tagline": "O Google Timeline Visualizer, que visualiza os dados do Histórico de localização do Google, permite analisar rotas de viagem…",
+    "tagline": "Google Timeline Visualizer, Google Konum Geçmişi verilerinizle bir yıllık seyahatlerinizi görselleştirir.",
     "meta": "★ 2.712 · Kotlin",
     "image": "/assets/discover/og/google-timeline-visualizer.webp",
     "source": "GitHub",
@@ -21250,11 +21256,11 @@
     "stars": 2712,
     "lite": false,
     "headline": "Konum geçmişinizi hareketli videoya dönüştürün",
-    "tagline_en": "O Google Timeline Visualizer, que visualiza os dados do Histórico de localização do Google, permite analisar routes de viagem…",
-    "tagline_fr": "Le Google Timeline Visualizer, qui visualise les données de l'historique de localisation de Google, permet d'analyser les itinéraires de voyage…",
-    "tagline_pt": "O Google Timeline Visualizer, que visualiza os dados do Histórico de localização do Google, permite analisar rotas de viagem…",
-    "tagline_es": "El Google Timeline Visualizer, que visualiza los datos históricos de localización de Google, permite analizar rutas de viaje…",
-    "tagline_de": "Der Google Timeline Visualizer ermöglicht die Visualisierung von Google-Lokalisierungsdaten und die Analyse von Reiserouten …",
+    "tagline_en": "Google Timeline Visualizer uses your Google Location History data to visualize a year of travel.",
+    "tagline_fr": "Google Timeline Visualizer utilise les données de votre historique des positions Google pour visualiser une année de voyages.",
+    "tagline_pt": "O Google Timeline Visualizer usa os dados do seu Histórico de localização do Google para visualizar um ano de viagens.",
+    "tagline_es": "Google Timeline Visualizer utiliza los datos de tu Historial de ubicaciones de Google para visualizar un año de viajes.",
+    "tagline_de": "Google Timeline Visualizer nutzt Ihre Google-Standortverlaufsdaten, um ein Reisejahr zu visualisieren.",
     "last_review": "2026-08-24",
     "guncellemeler": [
       {
@@ -21307,12 +21313,14 @@
         "surum_tarihi": "2026-08-24"
       }
     ],
-    "last_seen": "2026-08-23"
+    "last_seen": "2026-08-23",
+    "tagline_reviewed": true,
+    "tagline_reviewed_at": "2026-08-24"
   },
   {
     "slug": "ai-infra-guard",
     "title": "AI-Infra-Guard",
-    "tagline": "Desenvolvido pela Tencent, o AI-Infra-Guard é uma plataforma abrangente de red teaming que protege ecossistemas de…",
+    "tagline": "AI-Infra-Guard, ajanları, becerileri, MCP'yi ve yapay zekâ altyapısını tarayan, ayrıca LLM jailbreak değerlendirmeleri yapan uçtan uca bir yapay zekâ kırmızı ekip platformudur.",
     "meta": "★ 4.746 · Python",
     "image": "/assets/discover/og/ai-infra-guard.webp",
     "source": "GitHub",
@@ -21324,11 +21332,11 @@
     "stars": 4746,
     "lite": false,
     "headline": "Yapay zekâ altyapınız için güvenlik denetimi",
-    "tagline_en": "Desenvolvido pela Tencent, o AI-Infra-Guard e uma plataforma abragente de red teaming que protege ecossistemas de…",
-    "tagline_fr": "Développé par Tencent, ou AI-Infra-Guard et une plate-forme exclusive de Red Teaming qui protège les écosystèmes de…",
-    "tagline_pt": "Desenvolvido pela Tencent, o AI-Infra-Guard e uma plataforma abragente de red teaming que protege ecossistemas de…",
-    "tagline_es": "Desarrollado por Tencent, AI-Infra-Guard y una plataforma abragente de red teaming que protege los ecosistemas de…",
-    "tagline_de": "Entworfen von Tencent, dem AI-Infra-Guard und einer abtragenden Plattform für Red Teaming, die die Umweltschützer von… schützt.",
+    "tagline_en": "AI-Infra-Guard is a full-stack AI red teaming platform for scanning agents, skills, MCP, and AI infrastructure, as well as evaluating LLM jailbreaks.",
+    "tagline_fr": "AI-Infra-Guard est une plateforme complète de red teaming pour l'IA qui analyse les agents, les skills, MCP et l'infrastructure d'IA, et évalue les jailbreaks de LLM.",
+    "tagline_pt": "AI-Infra-Guard é uma plataforma completa de red teaming de IA que verifica agentes, skills, MCP e infraestrutura de IA, além de avaliar jailbreaks de LLM.",
+    "tagline_es": "AI-Infra-Guard es una plataforma integral de red teaming de IA que analiza agentes, skills, MCP e infraestructura de IA, además de evaluar jailbreaks de LLM.",
+    "tagline_de": "AI-Infra-Guard ist eine umfassende KI-Red-Teaming-Plattform zum Scannen von Agenten, Skills, MCP und KI-Infrastruktur sowie zur Bewertung von LLM-Jailbreaks.",
     "last_review": "2026-08-24",
     "guncellemeler": [
       {
@@ -21339,12 +21347,14 @@
         "surum_tarihi": "2026-08-17"
       }
     ],
-    "last_seen": "2026-08-23"
+    "last_seen": "2026-08-23",
+    "tagline_reviewed": true,
+    "tagline_reviewed_at": "2026-08-24"
   },
   {
     "slug": "ghost",
     "title": "Ghost",
-    "tagline": "Ghost é um sistema de gerenciamento de conteúdo (CMS) de código aberto desenvolvido para publicação moderna, gerenciamento de…",
+    "tagline": "Ghost, modern yayıncılık, üyelikler, abonelikler ve e-posta bültenleri için bağımsız bir teknoloji platformudur.",
     "meta": "★ 54.933 · JavaScript",
     "image": "/assets/discover/og/ghost.webp",
     "source": "GitHub",
@@ -21366,17 +21376,19 @@
         "surum_tarihi": "2026-08-19"
       }
     ],
-    "tagline_en": "Ghost is a system of gerenciamento de conteúdo (CMS) de código aberto desenvolvido para publicação moderna, gerenciamento de…",
-    "tagline_fr": "Ghost est un système de gestion de contenu (CMS) de code ouvert conçu pour la publication moderne, gestion de…",
-    "tagline_pt": "Ghost é um sistema de gerenciamento de conteúdo (CMS) de código aberto desenvolvido para publicação moderna, gerenciamento de…",
-    "tagline_es": "Ghost es un sistema de gestión de contenido (CMS) de código abierto diseñado para publicación moderna, gestión de…",
-    "tagline_de": "Ghost ist ein System zur Verwaltung von Inhalten (CMS), das jedoch für die Veröffentlichung moderner Inhalte entwickelt wurde, die Verwaltung von…",
-    "last_seen": "2026-08-22"
+    "tagline_en": "Ghost is an independent technology platform for modern publishing, memberships, subscriptions, and newsletters.",
+    "tagline_fr": "Ghost est une plateforme technologique indépendante pour la publication moderne, les adhésions, les abonnements et les newsletters.",
+    "tagline_pt": "Ghost é uma plataforma tecnológica independente para publicação moderna, associações, assinaturas e newsletters.",
+    "tagline_es": "Ghost es una plataforma tecnológica independiente para la publicación moderna, las membresías, las suscripciones y los boletines informativos.",
+    "tagline_de": "Ghost ist eine unabhängige Technologieplattform für modernes Publizieren, Mitgliedschaften, Abonnements und Newsletter.",
+    "last_seen": "2026-08-22",
+    "tagline_reviewed": true,
+    "tagline_reviewed_at": "2026-08-24"
   },
   {
     "slug": "ruflo",
     "title": "Ruflo",
-    "tagline": "Ruflo é um software de estrutura que permite a construção de enxames multijogador compostos por agentes autônomos de…",
+    "tagline": "Ruflo, akıllı ajan sürülerini devreye almak, otonom iş akışlarını koordine etmek ve diyalogsal yapay zekâ sistemleri oluşturmak için bir ajan orkestrasyon katmanıdır.",
     "meta": "★ 68.873 · TypeScript",
     "image": "/assets/discover/og/ruflo.webp",
     "source": "GitHub",
@@ -21404,17 +21416,19 @@
         "surum_tarihi": "2026-08-22"
       }
     ],
-    "tagline_en": "Ruflo é um software de estrutura que permite a construção de enxames multijogador compostos por agentes autônomos de…",
-    "tagline_fr": "Ruflo est un logiciel de construction qui permet de construire des composteurs multijoueurs par des agents autonomes de…",
-    "tagline_pt": "Ruflo é um software de estrutura que permite a construção de enxames multijogador compostos por agentes independentes de…",
-    "tagline_es": "Ruflo es un software de estructura que permite la construcción de enxames multijogador compostos por agentes autónomos de…",
-    "tagline_de": "Ruflo ist eine Struktursoftware, die den Aufbau von Mehrspieler-Kompositionen durch autonome Agenten ermöglicht.",
-    "last_seen": "2026-08-24"
+    "tagline_en": "Ruflo is an agent orchestration layer for deploying intelligent agent swarms, coordinating autonomous workflows, and building conversational AI systems.",
+    "tagline_fr": "Ruflo est une couche d'orchestration d'agents permettant de déployer des essaims d'agents intelligents, de coordonner des workflows autonomes et de créer des systèmes d'IA conversationnelle.",
+    "tagline_pt": "Ruflo é uma camada de orquestração de agentes para implantar enxames de agentes inteligentes, coordenar fluxos de trabalho autônomos e criar sistemas de IA conversacional.",
+    "tagline_es": "Ruflo es una capa de orquestación de agentes para desplegar enjambres de agentes inteligentes, coordinar flujos de trabajo autónomos y crear sistemas de IA conversacional.",
+    "tagline_de": "Ruflo ist eine Orchestrierungsschicht für Agenten, mit der sich intelligente Agentenschwärme bereitstellen, autonome Workflows koordinieren und dialogorientierte KI-Systeme entwickeln lassen.",
+    "last_seen": "2026-08-24",
+    "tagline_reviewed": true,
+    "tagline_reviewed_at": "2026-08-24"
   },
   {
     "slug": "maka",
     "title": "Maka",
-    "tagline": "Apache Maka é um espaço de trabalho local desenvolvido para agentes de inteligência artificial.",
+    "tagline": "Apache Maka, model mesajlarını, araç etkileşimlerini, izin kararlarını ve sonlandırma olaylarını yalnızca yeni kayıt eklenebilen bir günlükte tutan yerel öncelikli bir yapay zekâ ajanı çalışma alanıdır.",
     "meta": "★ 2.064 · TypeScript",
     "image": "/assets/discover/og/maka.webp",
     "source": "GitHub",
@@ -21435,17 +21449,19 @@
         "surum_tarihi": "2026-08-18"
       }
     ],
-    "tagline_en": "Apache Maka é um espaço de trabalho local desenvolvido para agentes de inteligência artificial.",
-    "tagline_fr": "Apache Maka est un espace de travail local développé pour les agents de renseignement artificiel.",
-    "tagline_pt": "Apache Maka é um espaço de trabalho local desenvolvido para agentes de inteligência artificial.",
-    "tagline_es": "Apache Maka es un espacio de trabajo local diseñado para agentes de inteligencia artificial.",
-    "tagline_de": "Apache Maka ist ein lokaler Arbeitsraum, der für künstliche Intelligenzagenten entwickelt wurde.",
-    "last_seen": "2026-08-24"
+    "tagline_en": "Apache Maka is a local-first AI agent workspace that stores model messages, tool interactions, permission decisions, and termination events in an append-only log.",
+    "tagline_fr": "Apache Maka est un espace de travail local pour agents d'IA qui consigne les messages des modèles, les interactions avec les outils, les décisions d'autorisation et les événements de fin dans un journal en ajout uniquement.",
+    "tagline_pt": "Apache Maka é um espaço de trabalho local para agentes de IA que registra mensagens de modelos, interações com ferramentas, decisões de permissão e eventos de encerramento em um log somente de acréscimo.",
+    "tagline_es": "Apache Maka es un espacio de trabajo local para agentes de IA que guarda mensajes de modelos, interacciones con herramientas, decisiones de permisos y eventos de finalización en un registro de solo adición.",
+    "tagline_de": "Apache Maka ist ein lokal ausgerichteter Arbeitsbereich für KI-Agenten, der Modellnachrichten, Werkzeuginteraktionen, Berechtigungsentscheidungen und Beendigungsereignisse in einem Append-only-Protokoll speichert.",
+    "last_seen": "2026-08-24",
+    "tagline_reviewed": true,
+    "tagline_reviewed_at": "2026-08-24"
   },
   {
     "slug": "obliteratus",
     "title": "OBLITERATUS",
-    "tagline": "Como uma ferramenta de desenvolvimento de software baseada em Python, OBLITERATUS visa limpar dependências desnecessárias e…",
+    "tagline": "OBLITERATUS, güvenlik bariyeri yönlerinin analizini, hizalama izlerinin tespitini, savunma dayanıklılığının değerlendirilmesini ve dil modellerinden ret ile güvenlik bariyeri sinyallerini kaldırma tekniklerini ele alır.",
     "meta": "★ 7.994 · Python",
     "image": "/assets/discover/og/obliteratus.webp",
     "source": "GitHub",
@@ -21457,11 +21473,11 @@
     "lite": false,
     "headline": "Gereksiz bağımlılıkları temizleyin",
     "last_review": "2026-08-24",
-    "tagline_en": "Como uma ferramenta de desenvolvimento de software baseada em Python, OBLITERATUS visa limpar dependências desnecessárias e…",
-    "tagline_fr": "Comme un outil de développement de logiciels basés sur Python, OBLIGATOIRE peut éliminer les dépendances nécessaires et…",
-    "tagline_pt": "Como uma ferramenta de desenvolvimento de software baseada em Python, OBLITERATUS visa limpar dependências desnecessárias e…",
-    "tagline_es": "Como una herramienta de desarrollo de software basado en Python, OBLITERATUS visa limpiar dependencias desnecesarias e…",
-    "tagline_de": "Als eine Entwicklungsstufe für die Entwicklung von Software auf Python-Basis, werden die Abhängigkeiten, die erforderlich sind, ausgelöscht …",
+    "tagline_en": "OBLITERATUS covers the analysis of guardrail directions, alignment imprint detection, defense robustness evaluation, and techniques for removing refusal and guardrail signals from language models.",
+    "tagline_fr": "OBLITERATUS traite de l’analyse des directions des garde-fous, de la détection des empreintes d’alignement, de l’évaluation de la robustesse des défenses et des techniques de suppression des signaux de refus et de garde-fou dans les modèles de langage.",
+    "tagline_pt": "OBLITERATUS aborda a análise das direções dos mecanismos de proteção, a detecção de marcas de alinhamento, a avaliação da robustez das defesas e técnicas para remover sinais de recusa e de proteção de modelos de linguagem.",
+    "tagline_es": "OBLITERATUS aborda el análisis de las direcciones de las barreras de seguridad, la detección de huellas de alineación, la evaluación de la robustez de las defensas y las técnicas para eliminar señales de rechazo y de protección de los modelos de lenguaje.",
+    "tagline_de": "OBLITERATUS behandelt die Analyse der Richtungen von Schutzmechanismen, die Erkennung von Alignment-Spuren, die Bewertung der Robustheit von Abwehrmaßnahmen und Techniken zum Entfernen von Ablehnungs- und Schutzsignalen aus Sprachmodellen.",
     "last_seen": "2026-08-22",
     "guncellemeler": [
       {
@@ -21471,12 +21487,14 @@
         "surum": "v0.1.3",
         "surum_tarihi": "2026-08-23"
       }
-    ]
+    ],
+    "tagline_reviewed": true,
+    "tagline_reviewed_at": "2026-08-24"
   },
   {
     "slug": "onnxruntime",
     "title": "Onnxruntime",
-    "tagline": "Desenvolvido pela Microsoft, o ONNX Runtime é um acelerador que permite que modelos de machine learning sejam executados e…",
+    "tagline": "ONNX Runtime, makine öğrenimi çıkarımı ve eğitimi için platformlar arası çalışan yüksek performanslı bir hızlandırıcıdır.",
     "meta": "★ 21.495 · C++",
     "image": "/assets/discover/og/onnxruntime.webp",
     "source": "GitHub",
@@ -21500,17 +21518,19 @@
         "surum_tarihi": "2026-08-12"
       }
     ],
-    "tagline_en": "Desenvolvido pela Microsoft, o ONNX Runtime é um acerador que permite que modelos de machine learning sejam executados e…",
-    "tagline_fr": "Conçu par Microsoft, ONNX Runtime est un outil qui permet aux modèles d'apprentissage automatique d'être exécutés et…",
-    "tagline_pt": "Desenvolvido pela Microsoft, o ONNX Runtime é um acelerador que permite que modelos de machine learning sejam executados e…",
-    "tagline_es": "Desarrollado por Microsoft, ONNX Runtime es un acelerador que permite que los modelos de aprendizaje automático se ejecuten e…",
-    "tagline_de": "Entworfen von Microsoft und ONNX Runtime ist ein Entwickler, der es ermöglicht, Modelle von Machine-Learning-Sequenzen auszuführen …",
-    "last_seen": "2026-08-22"
+    "tagline_en": "ONNX Runtime is a cross-platform, high-performance accelerator for machine learning inference and training.",
+    "tagline_fr": "ONNX Runtime est un accélérateur multiplateforme haute performance pour l'inférence et l'entraînement des modèles de machine learning.",
+    "tagline_pt": "ONNX Runtime é um acelerador multiplataforma de alto desempenho para inferência e treinamento de modelos de machine learning.",
+    "tagline_es": "ONNX Runtime es un acelerador multiplataforma de alto rendimiento para la inferencia y el entrenamiento de modelos de machine learning.",
+    "tagline_de": "ONNX Runtime ist ein plattformübergreifender Hochleistungsbeschleuniger für die Inferenz und das Training von Machine-Learning-Modellen.",
+    "last_seen": "2026-08-22",
+    "tagline_reviewed": true,
+    "tagline_reviewed_at": "2026-08-24"
   },
   {
     "slug": "codex",
     "title": "Codex",
-    "tagline": "Desenvolvido com a linguagem Rust, Codex é um agente de codificação leve que roda no terminal.",
+    "tagline": "Codex, doğrudan terminalde çalışan hafif bir kodlama ajanıdır.",
     "meta": "★ 115.876 · Rust",
     "image": "/assets/discover/og/codex.webp",
     "source": "GitHub",
@@ -21538,17 +21558,19 @@
         "surum_tarihi": "2026-08-24"
       }
     ],
-    "tagline_en": "Desenvolvido com a linguagem Rust, Codex é um agente de codificação leve que roda no terminal.",
-    "tagline_fr": "Desenvolvido com a linguagem Rust, Codex é um agente de codificação leve que roda no terminal.",
-    "tagline_pt": "Desenvolvido com a linguagem Rust, Codex é um agente de coincidência leve que roda no terminal.",
-    "tagline_es": "Desenvolvido com a linguagem Rust, Codex é um agente de codificação leve que roda no terminal.",
-    "tagline_de": "Desenvolvido com a linguagem Rust, Codex é um agente de codificação leve que roda no terminal.",
-    "last_seen": "2026-08-24"
+    "tagline_en": "Codex is a lightweight coding agent that runs in the terminal.",
+    "tagline_fr": "Codex est un agent de programmation léger qui s'exécute dans le terminal.",
+    "tagline_pt": "Codex é um agente de programação leve executado no terminal.",
+    "tagline_es": "Codex es un agente de programación ligero que se ejecuta en el terminal.",
+    "tagline_de": "Codex ist ein leichtgewichtiger Programmieragent, der im Terminal ausgeführt wird.",
+    "last_seen": "2026-08-24",
+    "tagline_reviewed": true,
+    "tagline_reviewed_at": "2026-08-24"
   },
   {
     "slug": "sub2api",
     "title": "Sub2api",
-    "tagline": "Sub2API é um serviço de migração de código aberto que combina diferentes assinaturas de IA, como Claude, OpenAI, Gemini e…",
+    "tagline": "Sub2API, Claude, OpenAI, Gemini ve Grok aboneliklerine tek noktadan erişim ve maliyet paylaşımı sağlayan açık kaynaklı bir aracı hizmettir.",
     "meta": "★ 38.841 · Go",
     "image": "/assets/discover/og/sub2api.webp",
     "source": "GitHub",
@@ -21569,17 +21591,19 @@
         "surum_tarihi": "2026-08-20"
       }
     ],
-    "tagline_en": "Sub2API for services such as IA, como Claude, OpenAI, Gemini e…",
-    "tagline_fr": "Sub2API é um serviço de migração de código aberto que combina diferentes assinaturas de IA, como Claude, OpenAI, Gemini e…",
-    "tagline_pt": "Sub2API para serviços como IA, como Claude, OpenAI, Gemini e…",
-    "tagline_es": "Sub2API é um serviço de migração de código aberto que combina diferentes assinaturas de IA, como Claude, OpenAI, Gemini e…",
-    "tagline_de": "Sub2API é um serviço de migração de código aberto que combina diferentes assinaturas de IA, como Claude, OpenAI, Gemini e…",
-    "last_seen": "2026-08-23"
+    "tagline_en": "Sub2API is an open-source relay service that provides unified access to Claude, OpenAI, Gemini, and Grok subscriptions, with support for cost sharing.",
+    "tagline_fr": "Sub2API est un service relais open source qui centralise l'accès aux abonnements Claude, OpenAI, Gemini et Grok, avec prise en charge du partage des coûts.",
+    "tagline_pt": "Sub2API é um serviço intermediário de código aberto que centraliza o acesso a assinaturas do Claude, OpenAI, Gemini e Grok, com suporte ao compartilhamento de custos.",
+    "tagline_es": "Sub2API es un servicio intermediario de código abierto que centraliza el acceso a suscripciones de Claude, OpenAI, Gemini y Grok, con soporte para compartir costes.",
+    "tagline_de": "Sub2API ist ein Open-Source-Vermittlungsdienst, der den Zugriff auf Abonnements von Claude, OpenAI, Gemini und Grok bündelt und die Kostenteilung unterstützt.",
+    "last_seen": "2026-08-23",
+    "tagline_reviewed": true,
+    "tagline_reviewed_at": "2026-08-24"
   },
   {
     "slug": "n8n",
     "title": "N8n",
-    "tagline": "n8n é uma plataforma de automação de fluxo de trabalho que flui dados entre diferentes aplicativos e automatiza processos de…",
+    "tagline": "n8n, görsel iş akışı oluşturmayı özel kod, yerleşik yapay zekâ özellikleri ve 400'den fazla entegrasyonla birleştiren bir otomasyon platformudur.",
     "meta": "★ 201.895 · TypeScript",
     "image": "/assets/discover/og/n8n.webp",
     "source": "GitHub",
@@ -21600,17 +21624,19 @@
         "surum_tarihi": "2026-08-21"
       }
     ],
-    "tagline_en": "n8n é uma plataforma de automação de fluxo de trabalho que flui dados entre diferentes aplicativos e automatiza processos de…",
-    "tagline_fr": "n8n é uma plataforma de automação de fluxo de trabalho que flui dados entre diferentes aplicativos e automatiza processos de…",
-    "tagline_pt": "n8n é uma plataforma de automação de fluxo de trabalho que flui dados entre diferentes aplicativos e automatiza processos de…",
-    "tagline_es": "n8n é uma plataforma de automação de fluxo de trabalho que flui dados entre diferentes aplicativos e automatiza processos de…",
-    "tagline_de": "n8n é uma plataforma de automação de fluxo de trabalho que flui dados entre diferentes aplicativos e automatiza processos de…",
-    "last_seen": "2026-08-23"
+    "tagline_en": "n8n is a workflow automation platform that combines visual building, custom code, native AI capabilities, and more than 400 integrations.",
+    "tagline_fr": "n8n est une plateforme d'automatisation des workflows qui associe création visuelle, code personnalisé, fonctionnalités d'IA natives et plus de 400 intégrations.",
+    "tagline_pt": "n8n é uma plataforma de automação de fluxos de trabalho que combina criação visual, código personalizado, recursos nativos de IA e mais de 400 integrações.",
+    "tagline_es": "n8n es una plataforma de automatización de flujos de trabajo que combina creación visual, código personalizado, capacidades nativas de IA y más de 400 integraciones.",
+    "tagline_de": "n8n ist eine Workflow-Automatisierungsplattform, die visuelle Erstellung, eigenen Code, native KI-Funktionen und mehr als 400 Integrationen kombiniert.",
+    "last_seen": "2026-08-23",
+    "tagline_reviewed": true,
+    "tagline_reviewed_at": "2026-08-24"
   },
   {
     "slug": "andrej-karpathy-skills",
     "title": "Andrej Karpathy Skills",
-    "tagline": "Com base nas observações de Andrej Karpathy sobre erros encontrados ao codificar com grandes modelos de linguagem (LLM)…",
+    "tagline": "Andrej Karpathy Skills, Andrej Karpathy'nin LLM'lerle kodlamanın olası sorunlarına ilişkin gözlemlerinden türetilen tek bir CLAUDE.md dosyasıyla Claude Code davranışını iyileştirmeyi amaçlar.",
     "meta": "★ 205.391",
     "image": "/assets/discover/og/andrej-karpathy-skills.webp",
     "source": "GitHub",
@@ -21623,12 +21649,14 @@
     "lite": false,
     "headline": "Yapay zekâ kodlama asistanına disiplin kazandırın",
     "last_review": "2026-08-24",
-    "tagline_en": "Com base nas observações de Andrej Karpathy sobre erros encontrados ao codificar com grandes modelos de linguagem (LLM)…",
-    "tagline_fr": "Com base nas observações de Andrej Karpathy sobre erros encontrados ao codificar com grandes modelos de linguagem (LLM)…",
-    "tagline_pt": "Com base nas observações de Andrej Karpathy sobre erros encontrados ao codificar com grandes modelos de linguagem (LLM)…",
-    "tagline_es": "Com base nas observações de Andrej Karpathy sobre erros encontrados ao codificar com grandes modelos de linguagem (LLM)…",
-    "tagline_de": "Com base nas observações de Andrej Karpathy sobre erros encontrados ao codificar com grandes modelos de linguagem (LLM)…",
-    "last_seen": "2026-08-23"
+    "tagline_en": "Andrej Karpathy Skills is a single CLAUDE.md file intended to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "tagline_fr": "Andrej Karpathy Skills est un fichier CLAUDE.md unique destiné à améliorer le comportement de Claude Code, dérivé des observations d'Andrej Karpathy sur les pièges du codage avec les LLM.",
+    "tagline_pt": "Andrej Karpathy Skills é um único arquivo CLAUDE.md destinado a melhorar o comportamento do Claude Code, derivado das observações de Andrej Karpathy sobre armadilhas de programação com LLMs.",
+    "tagline_es": "Andrej Karpathy Skills es un único archivo CLAUDE.md destinado a mejorar el comportamiento de Claude Code, derivado de las observaciones de Andrej Karpathy sobre los problemas de programar con LLM.",
+    "tagline_de": "Andrej Karpathy Skills ist eine einzelne CLAUDE.md-Datei zur Verbesserung des Verhaltens von Claude Code, abgeleitet aus Andrej Karpathys Beobachtungen zu Fallstricken beim Programmieren mit LLMs.",
+    "last_seen": "2026-08-23",
+    "tagline_reviewed": true,
+    "tagline_reviewed_at": "2026-08-24"
   },
   {
     "slug": "awesome-gpt-image-2",
