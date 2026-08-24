@@ -82,7 +82,7 @@
         <p class="mid-line">TreScout durchsucht, fasst zusammen und liefert. Sie lesen nur.</p>
         <p class="sub-line">GitHub, Hacker News, HuggingFace und mehr. In Ihrem Tempo, zu Ihrer Zeit.</p>
 
-        <form class="cta-form js-subscribe" data-source="hero-de" novalidate>
+        <form class="cta-form js-subscribe" data-source="hero-de" novalidate id="early-access-hero">
           <div class="form-row">
             <input class="input" type="email" name="email" placeholder="Ihre E-Mail-Adresse" autocomplete="email" aria-label="Ihre E-Mail-Adresse" required>
             <button class="btn btn-primary btn-large" type="submit">Beim Start zuerst informiert werden</button>
@@ -281,6 +281,32 @@
             <a class="pdf-action-btn" href="/sample-report.pdf" download="trescout-report-sample.pdf" aria-label="Beispielbericht herunterladen">Herunterladen</a>
           </div>
         </div>
+      </div>
+    </div>
+  </section>
+
+
+
+  <!-- ============== DISCOVERY RADAR ============== -->
+  <section class="section reveal" id="discovery-radar" data-discovery-radar>
+    <div class="container">
+      <div class="radar-heading">
+        <span class="eyebrow">Aus den neuesten Entdeckungen</span>
+        <h2 class="section-title">Was können Sie heute entdecken?</h2>
+        <p class="section-lead">Filtern Sie echte Projekte aus dem TreScout-Katalog nach Thema. Jede Karte öffnet detaillierte Quellen- und Nutzungshinweise.</p>
+      </div>
+      <div class="radar-toolbar">
+        <div class="radar-filters" role="tablist" aria-label="Was können Sie heute entdecken?">
+          <button type="button" role="tab" aria-selected="true" data-radar-filter="all">Alle</button><button type="button" role="tab" aria-selected="false" data-radar-filter="ai" tabindex="-1">KI</button><button type="button" role="tab" aria-selected="false" data-radar-filter="dev" tabindex="-1">Entwicklung</button><button type="button" role="tab" aria-selected="false" data-radar-filter="learn" tabindex="-1">Lernen</button><button type="button" role="tab" aria-selected="false" data-radar-filter="selfhost" tabindex="-1">Self-host</button>
+        </div>
+        <a class="btn btn-ghost radar-all-link" href="/de/discover/">Alle Entdeckungen ansehen →</a>
+      </div>
+      <div class="radar-grid" data-radar-grid aria-live="polite" aria-busy="true">
+        <p class="radar-loading">Aktuelle Entdeckungen werden geladen…</p>
+      </div>
+      <div class="radar-footer">
+        <span class="radar-note">Aus dem Katalog geladen · Inhalt und Daten stammen aus den Quellen.</span>
+        <a class="radar-cta" href="#early-access-hero" data-radar-cta>Diese Inhalte mit dem Vorabzugang verfolgen ↗</a>
       </div>
     </div>
   </section>
