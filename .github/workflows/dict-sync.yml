@@ -290,26 +290,33 @@ jobs:
         run: python3 scripts/check-seo-geo.py
 
       - name: Değişiklik varsa commit'le
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GITHUB_TOKEN: ${{ github.token }}
+          REPROCESS_SLUGS: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.reprocess_slugs || '' }}
+          HEADLINES_LIMIT: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.headlines_limit || '0' }}
         run: |
           if [ -n "$(git status --porcelain)" ]; then
             git config user.name "TreScout Bot"
             git config user.email "hello@trescout.com"
             git add -A
             git commit -m "chore(content-sync): rapordan yeni sözlük/keşif içeriği eklendi [skip ci]"
-            # PUSH YARIŞI · bu depoya İKİ hat yazıyor: içerik büyümesi (burası)
-            # ve app'teki rapor yayını. Aynı dakikaya denk gelirlerse ikincinin
-            # push'u "fetch first" ile reddediliyor ve O KOŞUNUN TÜM İŞİ ÇÖPE
-            # GİDİYOR · sayfalar üretilmiş, commit atılmış, push düşmüş.
-            # 2026-08-19 ve 2026-08-20'de yaşandı. Rebase edip tekrar dene.
+            # Generated sayfaların üretimi uzun sürebiliyor. Bu sırada main ilerlerse
+            # eski generated ağacı rebase etmek yerine latest main üstünde baştan üret.
+            # Böylece başka bir writer'ın içeriği ezilmez, generated sayfalar da stale kalmaz.
             for deneme in 1 2 3 4 5; do
               if git push; then
                 echo "Yeni içerik eklendi ve push edildi (deneme $deneme)."
                 exit 0
               fi
-              echo "→ push reddedildi · rebase edip tekrar deniyorum ($deneme/5)"
-              git pull --rebase --autostash origin main || {
-                echo "✗ rebase başarısız · elle bakılmalı."; exit 1;
-              }
+              if [ "$deneme" -eq 5 ]; then
+                break
+              fi
+              echo "→ push reddedildi · latest main çekilip generated tree yeniden basılıyor ($deneme/5)"
+              git fetch origin main
+              git reset --hard origin/main
+              git clean -fd
+              bash scripts/recover-content-sync.sh
               sleep $((deneme * 5))
             done
             echo "✗ beş denemede push edilemedi."
