@@ -82,6 +82,20 @@
     es: 'Todavía no hay entradas para este filtro.', de: 'Für diesen Filter gibt es noch keine Einträge.'
   };
 
+  var TAG_LABELS = {
+    'Geliştirici aracı': { en: 'Developer tool', fr: 'Outil pour développeurs', pt: 'Ferramenta para desenvolvedores', es: 'Herramienta para desarrolladores', de: 'Entwickler-Tool' },
+    'Kod bilmeyenler için': { en: 'For non-coders', fr: 'Pour les non-développeurs', pt: 'Para quem não programa', es: 'Para no programadores', de: 'Für Nicht-Programmierer' },
+    'Yapay zekâ araçları': { en: 'AI tools', fr: 'Outils d’IA', pt: 'Ferramentas de IA', es: 'Herramientas de IA', de: 'KI-Tools' },
+    'Öğrenme': { en: 'Learning', fr: 'Apprentissage', pt: 'Aprendizado', es: 'Aprendizaje', de: 'Lernen' },
+    'Üretkenlik': { en: 'Productivity', fr: 'Productivité', pt: 'Produtividade', es: 'Productividad', de: 'Produktivität' }
+  };
+
+  function tagLabel(tag, lang) {
+    var labels = TAG_LABELS[tag];
+    var locale = contentLanguage(lang);
+    return labels && labels[locale] ? labels[locale] : tag;
+  }
+
   function entryText(entry, lang) {
     var locale = contentLanguage(lang);
     return [entry.title, entry.tagline, entry['tagline_' + locale], entry.slug]
@@ -121,7 +135,7 @@
     tags.className = 'radar-card-tags';
     (entry.tags || []).slice(0, 2).forEach(function (tag) {
       var chip = document.createElement('span');
-      chip.textContent = tag;
+      chip.textContent = tagLabel(tag, lang);
       tags.appendChild(chip);
     });
     var link = document.createElement('a');
