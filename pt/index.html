@@ -82,7 +82,7 @@
         <p class="mid-line">A TreScout busca, resume e entrega. Você só precisa ler.</p>
         <p class="sub-line">GitHub, Hacker News, HuggingFace e muito mais. No seu próprio ritmo, quando você quiser.</p>
 
-        <form class="cta-form js-subscribe" data-source="hero-pt" novalidate>
+        <form class="cta-form js-subscribe" data-source="hero-pt" novalidate id="early-access-hero">
           <div class="form-row">
             <input class="input" type="email" name="email" placeholder="Seu e-mail" autocomplete="email" aria-label="Seu endereço de e-mail" required>
             <button class="btn btn-primary btn-large" type="submit">Saiba primeiro quando lançarmos</button>
@@ -281,6 +281,32 @@
             <a class="pdf-action-btn" href="/sample-report.pdf" download="trescout-report-sample.pdf" aria-label="Baixar exemplo de relatório">Download</a>
           </div>
         </div>
+      </div>
+    </div>
+  </section>
+
+
+
+  <!-- ============== DISCOVERY RADAR ============== -->
+  <section class="section reveal" id="discovery-radar" data-discovery-radar>
+    <div class="container">
+      <div class="radar-heading">
+        <span class="eyebrow">Entre as descobertas recentes</span>
+        <h2 class="section-title">O que você pode descobrir hoje?</h2>
+        <p class="section-lead">Filtre projetos reais do catálogo TreScout por tema. Cada cartão abre notas detalhadas sobre a fonte e o uso.</p>
+      </div>
+      <div class="radar-toolbar">
+        <div class="radar-filters" role="tablist" aria-label="O que você pode descobrir hoje?">
+          <button type="button" role="tab" aria-selected="true" data-radar-filter="all">Todos</button><button type="button" role="tab" aria-selected="false" data-radar-filter="ai" tabindex="-1">IA</button><button type="button" role="tab" aria-selected="false" data-radar-filter="dev" tabindex="-1">Desenvolvimento</button><button type="button" role="tab" aria-selected="false" data-radar-filter="learn" tabindex="-1">Aprendizado</button><button type="button" role="tab" aria-selected="false" data-radar-filter="selfhost" tabindex="-1">Self-host</button>
+        </div>
+        <a class="btn btn-ghost radar-all-link" href="/pt/discover/">Ver todas as descobertas →</a>
+      </div>
+      <div class="radar-grid" data-radar-grid aria-live="polite" aria-busy="true">
+        <p class="radar-loading">Carregando descobertas atuais…</p>
+      </div>
+      <div class="radar-footer">
+        <span class="radar-note">Carregado do catálogo · conteúdo e datas pertencem aos registros das fontes.</span>
+        <a class="radar-cta" href="#early-access-hero" data-radar-cta>Acompanhe esse tipo de conteúdo com o acesso antecipado ↗</a>
       </div>
     </div>
   </section>

@@ -83,7 +83,7 @@
         <p class="mid-line">TreScout tarar, özetler, gönderir. Siz sadece okursunuz.</p>
         <p class="sub-line">GitHub, Hacker News, HuggingFace ve daha fazlası. Kendi temponuzda, istediğiniz saatte.</p>
 
-        <form class="cta-form js-subscribe" data-source="hero" novalidate>
+        <form class="cta-form js-subscribe" data-source="hero" novalidate id="early-access-hero">
           <div class="form-row">
             <input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" aria-label="E-posta adresiniz" required>
             <button class="btn btn-primary btn-large" type="submit">Yayına çıkınca ilk haberdar olun</button>
@@ -285,6 +285,32 @@
             <a class="pdf-action-btn" href="sample-report.pdf" download="trescout-rapor-2026-05-21.pdf" aria-label="Örnek raporu indir">İndir</a>
           </div>
         </div>
+      </div>
+    </div>
+  </section>
+
+
+
+  <!-- ============== DISCOVERY RADAR ============== -->
+  <section class="section reveal" id="discovery-radar" data-discovery-radar>
+    <div class="container">
+      <div class="radar-heading">
+        <span class="eyebrow">Güncel keşiflerden seçmeler</span>
+        <h2 class="section-title">Bugün neleri keşfedebilirsiniz?</h2>
+        <p class="section-lead">TreScout kataloğundan seçilen gerçek projeleri konuya göre filtreleyin. Her kart, ayrıntılı kaynak ve kullanım notlarına açılır.</p>
+      </div>
+      <div class="radar-toolbar">
+        <div class="radar-filters" role="tablist" aria-label="Bugün neleri keşfedebilirsiniz?">
+          <button type="button" role="tab" aria-selected="true" data-radar-filter="all">Tümü</button><button type="button" role="tab" aria-selected="false" data-radar-filter="ai" tabindex="-1">Yapay zekâ</button><button type="button" role="tab" aria-selected="false" data-radar-filter="dev" tabindex="-1">Geliştirici</button><button type="button" role="tab" aria-selected="false" data-radar-filter="learn" tabindex="-1">Öğrenme</button><button type="button" role="tab" aria-selected="false" data-radar-filter="selfhost" tabindex="-1">Self-host</button>
+        </div>
+        <a class="btn btn-ghost radar-all-link" href="/discover/">Tüm keşifleri görün →</a>
+      </div>
+      <div class="radar-grid" data-radar-grid aria-live="polite" aria-busy="true">
+        <p class="radar-loading">Güncel keşifler yükleniyor…</p>
+      </div>
+      <div class="radar-footer">
+        <span class="radar-note">Katalogdan yüklenir · içerik ve tarihler kaynak kayıtlarına aittir.</span>
+        <a class="radar-cta" href="#early-access-hero" data-radar-cta>Bu tür içerikleri erken erişimde takip edin ↗</a>
       </div>
     </div>
   </section>
