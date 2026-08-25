@@ -31,7 +31,7 @@ try { cache = JSON.parse(fs.readFileSync(CACHE_PATH, 'utf8')); } catch { cache =
 let yeniCeviri = 0;
 let basarisizCeviri = 0;
 
-async function batchProcess(items, textGetter, textSetter, batchSize = 25) {
+async function batchProcess(items, textGetter, textSetter, batchSize = 3) {
   let completed = 0;
   for (let i = 0; i < items.length; i += batchSize) {
     const chunk = items.slice(i, i + batchSize);
@@ -50,6 +50,9 @@ async function batchProcess(items, textGetter, textSetter, batchSize = 25) {
     }));
     completed += chunk.length;
     console.log(`  Processed ${completed}/${items.length}...`);
+    if (i + batchSize < items.length) {
+      await new Promise(resolve => setTimeout(resolve, 5000));
+    }
   }
 }
 
