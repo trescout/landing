@@ -52,12 +52,12 @@ const DISPOSABLE_DOMAINS = new Set([
 
 /**
  * Kullanıcıya dönen hata metinleri · sayfanın dili neyse o.
- * İstemci `lang` gönderiyor (document.documentElement.lang). Gönderilmezse
- * Türkçe · site Türkçe doğdu, varsayılan o.
+ * Dil, istek body'sine güvenmeden referer yolundan seçilir; `code` alanı istemci
+ * için locale-bağımsız hata sözleşmesidir. Referer yoksa Türkçe varsayılandır.
  */
 const MESAJ = {
   tr: {
-    method: 'Method not allowed',
+    method: 'Bu yöntem desteklenmiyor',
     istek: 'İstek geçersiz',
     limit: 'Çok fazla deneme · birkaç dakika sonra tekrar deneyin',
     format: 'Geçersiz istek formatı',
@@ -80,7 +80,61 @@ const MESAJ = {
     kayit: 'Could not sign you up, please try again',
     baglanti: 'Connection error, please try again',
   },
+  fr: {
+    method: 'Méthode non autorisée',
+    istek: 'Requête invalide',
+    limit: 'Trop de tentatives · réessayez dans quelques minutes',
+    format: 'Format de requête invalide',
+    onay: 'Veuillez accepter la notice de confidentialité pour continuer',
+    eposta: 'Saisissez une adresse e-mail valide',
+    gecici: 'Veuillez utiliser une adresse e-mail permanente',
+    sunucu: 'La configuration du serveur est incomplète',
+    kayit: 'Inscription impossible, veuillez réessayer',
+    baglanti: 'Erreur de connexion, veuillez réessayer',
+  },
+  pt: {
+    method: 'Método não permitido',
+    istek: 'Solicitação inválida',
+    limit: 'Muitas tentativas · tente novamente em alguns minutos',
+    format: 'Formato de solicitação inválido',
+    onay: 'Aceite o aviso de privacidade para continuar',
+    eposta: 'Digite um endereço de e-mail válido',
+    gecici: 'Use um endereço de e-mail permanente',
+    sunucu: 'A configuração do servidor está incompleta',
+    kayit: 'Não foi possível fazer sua inscrição; tente novamente',
+    baglanti: 'Erro de conexão; tente novamente',
+  },
+  es: {
+    method: 'Método no permitido',
+    istek: 'Solicitud no válida',
+    limit: 'Demasiados intentos · inténtelo de nuevo en unos minutos',
+    format: 'Formato de solicitud no válido',
+    onay: 'Acepte el aviso de privacidad para continuar',
+    eposta: 'Introduzca una dirección de correo válida',
+    gecici: 'Utilice una dirección de correo permanente',
+    sunucu: 'Falta la configuración del servidor',
+    kayit: 'No se pudo completar el registro; inténtelo de nuevo',
+    baglanti: 'Error de conexión; inténtelo de nuevo',
+  },
+  de: {
+    method: 'Methode nicht erlaubt',
+    istek: 'Ungültige Anfrage',
+    limit: 'Zu viele Versuche · versuchen Sie es in einigen Minuten erneut',
+    format: 'Ungültiges Anfrageformat',
+    onay: 'Stimmen Sie dem Datenschutzhinweis zu, um fortzufahren',
+    eposta: 'Geben Sie eine gültige E-Mail-Adresse ein',
+    gecici: 'Verwenden Sie bitte eine dauerhafte E-Mail-Adresse',
+    sunucu: 'Die Serverkonfiguration fehlt',
+    kayit: 'Die Anmeldung konnte nicht abgeschlossen werden; bitte erneut versuchen',
+    baglanti: 'Verbindungsfehler; bitte erneut versuchen',
+  },
 };
+
+const SUPPORTED_LANGS = new Set(Object.keys(MESAJ));
+
+function errorResponse(messages, code, status) {
+  return jsonResponse({ error: messages[code], code }, status);
+}
 
 function jsonResponse(body, status = 200) {
   return new Response(JSON.stringify(body), {
@@ -153,14 +207,15 @@ function clientIp(req) {
 }
 
 /**
- * Sayfanın dili · Referer yolundan okunur (/en/... → İngilizce).
+ * Sayfanın dili · Referer yolundan okunur (/en/... → İngilizce, /fr/... → Fransızca).
  * Gövde daha ayrıştırılmadan da hata dönebiliyoruz (yöntem, origin, hız sınırı) ·
- * bu yüzden dili başlıktan alıyoruz, gövdedeki `lang` alanına bağlamıyoruz.
+ * bu yüzden dili başlıktan alıyoruz ve gövdedeki herhangi bir `lang` alanına güvenmiyoruz.
  */
 function dilSec(req) {
   const ref = req.headers.get('referer') || '';
   try {
-    return new URL(ref).pathname.startsWith('/en/') ? 'en' : 'tr';
+    const firstSegment = new URL(ref).pathname.split('/').filter(Boolean)[0] || 'tr';
+    return SUPPORTED_LANGS.has(firstSegment) ? firstSegment : 'tr';
   } catch {
     return 'tr';
   }
@@ -170,28 +225,28 @@ export default async function handler(req) {
   const M = MESAJ[dilSec(req)];
 
   if (req.method !== 'POST') {
-    return jsonResponse({ error: M.method }, 405);
+    return errorResponse(M, 'method', 405);
   }
 
   // CSRF · origin check
   const origin = req.headers.get('origin');
   if (!isOriginAllowed(origin)) {
     console.warn('Blocked origin:', origin);
-    return jsonResponse({ error: M.istek }, 403);
+    return errorResponse(M, 'istek', 403);
   }
 
   // Rate limit · pahalı Resend çağrılarından önce
   const ip = clientIp(req);
   if (isRateLimited(ip, Date.now())) {
     console.warn('Rate limited:', ip);
-    return jsonResponse({ error: M.limit }, 429);
+    return errorResponse(M, 'limit', 429);
   }
 
   let body;
   try {
     body = await req.json();
   } catch {
-    return jsonResponse({ error: M.format }, 400);
+    return errorResponse(M, 'format', 400);
   }
 
   // Honeypot · bot filtresi · görünmez input, dolu gelirse bot
@@ -210,18 +265,18 @@ export default async function handler(req) {
   const consent = body.consent === true || body.consent === 'true';
 
   if (!consent) {
-    return jsonResponse({ error: M.onay }, 400);
+    return errorResponse(M, 'onay', 400);
   }
 
   if (!email || email.length > MAX_EMAIL_LENGTH || !EMAIL_REGEX.test(email)) {
-    return jsonResponse({ error: M.eposta }, 400);
+    return errorResponse(M, 'eposta', 400);
   }
 
   // Disposable email check
   const domain = email.split('@')[1];
   if (DISPOSABLE_DOMAINS.has(domain)) {
     return jsonResponse(
-      { error: 'Lütfen kalıcı bir e-posta adresi kullanın' },
+      { error: M.gecici, code: 'gecici' },
       400
     );
   }
@@ -231,7 +286,7 @@ export default async function handler(req) {
 
   if (!apiKey || !audienceId) {
     console.error('Missing env vars: RESEND_API_KEY or RESEND_AUDIENCE_ID');
-    return jsonResponse({ error: M.sunucu }, 500);
+    return errorResponse(M, 'sunucu', 500);
   }
 
   try {
@@ -252,7 +307,7 @@ export default async function handler(req) {
       // 409 = contact zaten var · sorun değil, devam et
       const errText = await audienceRes.text();
       console.error('Resend audience add failed:', audienceRes.status, errText);
-      return jsonResponse({ error: M.kayit }, 502);
+      return errorResponse(M, 'kayit', 502);
     }
 
     // 2. hello@'a bildirim e-postası
@@ -296,6 +351,6 @@ export default async function handler(req) {
     return jsonResponse({ ok: true, duplicate: isDuplicate });
   } catch (err) {
     console.error('Subscribe error:', err);
-    return jsonResponse({ error: M.baglanti }, 502);
+    return errorResponse(M, 'baglanti', 502);
   }
 }

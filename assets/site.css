@@ -199,10 +199,30 @@ nav.scrolled {
 }
 @media (max-width: 640px) {
   .container { padding: 0 16px; }
+  .nav-inner {
+    flex-wrap: wrap;
+    gap: 10px 16px;
+    padding: 14px 0 10px;
+  }
   .logo-link { gap: 8px; }
-  /* Mobilde nav taşmasın: bölüm linkleri (ghost) gizlenir, birincil CTA kalır · tüm bölümler footer'da */
-  .nav-actions { gap: 6px; }
-  .nav-actions .btn-ghost { display: none; }
+  /* Mobilde menü linklerini gizlemek yerine ikinci satırda kaydırılabilir tut.
+     Böylece ana bölümlere footer'a kadar inmeden ulaşılabilir. */
+  .nav-actions {
+    flex: 1 1 100%;
+    min-width: 0;
+    width: 100%;
+    gap: 6px;
+    overflow-x: auto;
+    justify-content: flex-start;
+    scrollbar-width: none;
+  }
+  .nav-actions::-webkit-scrollbar { display: none; }
+  .nav-actions .btn-ghost {
+    display: inline-flex;
+    flex: 0 0 auto;
+    padding: 8px 12px;
+    font-size: 12px;
+  }
 }
 
 /* ---------- BUTTONS ---------- */
