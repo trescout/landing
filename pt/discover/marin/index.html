@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Marin · Descobrir · TreScout</title>
-<meta name="description" content="Marin is an open-source Python framework designed for the research and development of base models (foundation models).">
+<meta name="description" content="An open development platform and research program for foundational model work. · Marin · Explore este projeto open source na TreScout.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/pt/discover/marin.md">
 <link rel="canonical" href="https://trescout.com/pt/discover/marin/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/marin/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/marin/">
 <meta property="og:title" content="Marin">
-<meta property="og:description" content="Marin is an open-source Python framework designed for the research and development of base models (foundation models).">
+<meta property="og:description" content="An open development platform and research program for foundational model work. · Marin · Explore este projeto open source na TreScout.">
 <meta property="og:url" content="https://trescout.com/pt/discover/marin/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="pt_BR">
@@ -27,15 +27,15 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Marin">
-<meta name="twitter:description" content="Marin is an open-source Python framework designed for the research and development of base models (foundation models).">
+<meta name="twitter:description" content="An open development platform and research program for foundational model work. · Marin · Explore este projeto open source na TreScout.">
 <meta name="twitter:image" content="https://trescout.com/assets/discover/og/marin.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Marin",
+  "headline": "Plataforma Aberta de Desenvolvimento para Pesquisa de Modelos de Base",
   "inLanguage": "pt-BR",
-  "description": "Marin é uma estrutura Python de código aberto projetada para a pesquisa e desenvolvimento de modelos de base (foundation models). Seu objetivo é facilitar os processos de treinamento e otimização de modelos de inteligência artificial em larga escala.",
+  "description": "Programa de pesquisa, plataforma de software e comunidade para investigar e desenvolver modelos de base. Documenta o escopo desde o processamento de dados até pré-treinamento, fine-tuning e avaliação.",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -64,11 +64,21 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/pt/discover/">← Descobrir</a>
-<div class="disc-top"><span class="disc-eyebrow">Descobrir · GitHub</span></div>
-<h1 class="disc-title">Marin</h1>
-<p class="disc-lead">Marin é uma estrutura Python de código aberto projetada para a pesquisa e desenvolvimento de modelos de base (foundation models). Seu objetivo é facilitar os processos de treinamento e otimização de modelos de inteligência artificial em larga escala.</p>
+<div class="disc-top"><span class="disc-eyebrow">Descobrir · GitHub · Marin</span></div>
+<h1 class="disc-title">Plataforma Aberta de Desenvolvimento para Pesquisa de Modelos de Base</h1>
+<p class="disc-lead">Programa de pesquisa, plataforma de software e comunidade para investigar e desenvolver modelos de base. Documenta o escopo desde o processamento de dados até pré-treinamento, fine-tuning e avaliação.</p>
 <ul class="disc-meta"><li>★ 1.967</li><li>Python</li><li>GitHub Trending · 2026-08-25</li></ul>
-      <section class="disc-sec"><h2>Links</h2><ul class="disc-links"><li><a href="https://github.com/marin-community/marin" target="_blank" rel="noopener">Repositório no GitHub →</a></li><li><a href="https://trescout.com/discover/marin/">Ler em turco →</a></li></ul></section>
+      <section class="disc-sec"><h2>O que esta ferramenta faz?</h2><p>Executa experimentos como passos dependentes em ordem topológica. O experimento inicial oficial demonstra tokenização do TinyStories e o treinamento de um pequeno modelo de linguagem; a abordagem de desenvolvimento aberto documenta código, dados, decisões e experimentos malsucedidos.</p></section>
+      <section class="disc-sec"><h2>Para quem é?</h2><p>Equipes que pesquisam curadoria, transformação, filtragem de dados, tokenização, treinamento de modelos e avaliação.</p></section>
+      <section class="disc-sec"><h2>O que não esperar</h2><p>Trabalhos de desenvolvimento de aplicações simples que não fazem parte de pesquisa de modelos de base ou para quem não quer configurar o ambiente Python e de desenvolvimento necessário.</p></section>
+      <section class="disc-sec"><h2>Destaques</h2><ul class="disc-wins"><li>Cobertura de pesquisa do processamento de dados ao pré-treinamento, fine-tuning e avaliação</li><li>Fluxo de trabalho de experimentos que executa passos dependentes em ordem topológica</li><li>Documentação aberta que inclui experimentos fracassados e decisões de desenvolvimento</li></ul></section>
+      <section class="disc-sec"><h2>Primeiro fluxo de uso</h2><ol class="disc-steps"><li>Clone o repositório oficial e crie um ambiente virtual Python 3.12 ou superior</li><li>Sincronize dependências com uv</li><li>Configure a variável de ambiente MARIN_PREFIX</li><li>Execute o teste rápido (smoke test) offline do TinyStories na CPU</li></ol></section>
+      <section class="disc-sec"><h2>Início seguro</h2><div class="disc-note">O teste rápido na CPU é apenas para verificação inicial. Dependências para CPU, GPU e TPU podem exigir anexos de hardware separados. WANDB_API_KEY e HF_TOKEN são necessários somente para fluxos de monitoramento ou modelos fechados correspondentes.</div></section>
+      <section class="disc-sec"><h2>Primeiro prompt</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Copiar prompt">Copiar</button></div><p class="disc-ai-text">Execute como verificação inicial o fluxo TinyStories offline treinando um pequeno modelo na CPU.</p></div></section>
+      <section class="disc-sec"><h2>Instalação</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Clonar repositório oficial</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>git clone https://github.com/marin-community/marin.git</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Criar ambiente Python</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>uv venv --python 3.12</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Instalar dependências</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>uv sync --all-packages</code></pre></div></section>
+      <section class="disc-sec"><h2>Execução</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Executar smoke test na CPU</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>wandb offline
+uv run python experiments/tutorials/train_tiny_model.py --device cpu --dataset tinystories --version dev --run</code></pre></div></section>
+      <section class="disc-sec"><h2>Links</h2><ul class="disc-links"><li><a href="https://github.com/marin-community/marin" target="_blank" rel="noopener">Repositório no GitHub →</a></li><li><a href="https://marin.readthedocs.io/en/latest/tutorials/installation/" target="_blank" rel="noopener">Documentação de instalação →</a></li><li><a href="https://marin.readthedocs.io/en/latest/tutorials/first-experiment/" target="_blank" rel="noopener">Primeiro experimento →</a></li><li><a href="https://github.com/marin-community/marin" target="_blank" rel="noopener">README oficial →</a></li><li><a href="https://trescout.com/discover/marin/">Ler em turco →</a></li></ul></section>
 <p class="disc-disclaimer">A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-25: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi <strong>traduzida automaticamente</strong> do original em turco · a versão turca é a que vale.</p>
 <aside class="disc-cta"><p><strong>A TreScout encontra ferramentas assim todos os dias.</strong> GitHub, Hacker News e HuggingFace são vasculhados e o essencial é resumido para você.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-pt" novalidate><div class="form-row"><input class="input" type="email" name="email" placeholder="Seu e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Acesso antecipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Li o <a href="/pt/privacy.html" target="_blank" rel="noopener">aviso de privacidade</a> e concordo com o tratamento do meu e-mail para esta finalidade.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/pt/discover/">Todas as descobertas →</a></aside>
 </article>

@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Ponytail · Découvrir · TreScout</title>
-<meta name="description" content="Tool that reduces coding for AI agents · Ponytail · Découvrez ce projet open source sur TreScout.">
+<meta name="description" content="An MIT-licensed rule set and plugin system for AI coding agents. · Ponytail · Découvrez ce projet open source sur TreScout.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/fr/discover/ponytail.md">
 <link rel="canonical" href="https://trescout.com/fr/discover/ponytail/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/ponytail/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/ponytail/">
 <meta property="og:title" content="Ponytail">
-<meta property="og:description" content="Tool that reduces coding for AI agents · Ponytail · Découvrez ce projet open source sur TreScout.">
+<meta property="og:description" content="An MIT-licensed rule set and plugin system for AI coding agents. · Ponytail · Découvrez ce projet open source sur TreScout.">
 <meta property="og:url" content="https://trescout.com/fr/discover/ponytail/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="fr_FR">
@@ -27,15 +27,15 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Ponytail">
-<meta name="twitter:description" content="Tool that reduces coding for AI agents · Ponytail · Découvrez ce projet open source sur TreScout.">
+<meta name="twitter:description" content="An MIT-licensed rule set and plugin system for AI coding agents. · Ponytail · Découvrez ce projet open source sur TreScout.">
 <meta name="twitter:image" content="https://trescout.com/assets/discover/og/ponytail.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Ponytail",
+  "headline": "Jeu de règles pour agents de codage IA",
   "inLanguage": "fr",
-  "description": "Ponytail est un outil JavaScript qui réduit le processus d'écriture de code des agents d'intelligence artificielle, évitant ainsi les charges de travail inutiles. Adoptant la philosophie selon laquelle le meilleur code est celui qui n'a jamais été écrit, cet outil permet aux agents de produire des solutions avec moins de code.",
+  "description": "Ensemble de règles et système de plugins conçus pour appliquer la validation, la gestion des erreurs, la sécurité et l'accessibilité dans les flux de codage assistés par IA.",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -64,12 +64,21 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/fr/discover/">← Découvrir</a>
-<div class="disc-top"><span class="disc-eyebrow">Découvrir · GitHub</span></div>
-<h1 class="disc-title">Ponytail</h1>
-<p class="disc-lead">Ponytail est un outil JavaScript qui réduit le processus d&#39;écriture de code des agents d&#39;intelligence artificielle, évitant ainsi les charges de travail inutiles. Adoptant la philosophie selon laquelle le meilleur code est celui qui n&#39;a jamais été écrit, cet outil permet aux agents de produire des solutions avec moins de code.</p>
-<ul class="disc-meta"><li>★ 110 483</li><li>GitHub Trending · 2026-08-25</li></ul>
+<div class="disc-top"><span class="disc-eyebrow">Découvrir · GitHub · Ponytail</span></div>
+<h1 class="disc-title">Jeu de règles pour agents de codage IA</h1>
+<p class="disc-lead">Ensemble de règles et système de plugins conçus pour appliquer la validation, la gestion des erreurs, la sécurité et l&#39;accessibilité dans les flux de codage assistés par IA.</p>
+<ul class="disc-meta"><li>★ 110 483</li><li>JavaScript</li><li>GitHub Trending · 2026-08-25</li></ul>
+      <section class="disc-sec"><h2>Que fait cet outil ?</h2><p>L&#39;escalier de règles est appliqué après lecture du code affecté par une modification. Le benchmark agentic corrigé a rapporté, sur 12 tâches d&#39;un dépôt réel FastAPI et React avec Haiku 4.5 versus la ligne de base no‑skill, en moyenne 54 % de lignes de code en moins, 22 % de tokens en moins, 20 % de coût en moins et 27 % de durée en moins. Ces résultats sont limités à des conditions de test spécifiques.</p></section>
+      <section class="disc-sec"><h2>Pour qui ?</h2><p>Ceux qui souhaitent ajouter des règles de validation, sécurité et accessibilité aux flux de codage sur Claude Code, Codex, Gemini CLI et autres hôtes d&#39;agents pris en charge.</p></section>
+      <section class="disc-sec"><h2>À quoi ne faut-il pas s’attendre ?</h2><p>Ne doit pas être utilisé pour généraliser des résultats de benchmark à tous les projets ni pour appliquer des modifications critiques en production sans revue humaine.</p></section>
+      <section class="disc-sec"><h2>Points forts</h2><ul class="disc-wins"><li>Règles ciblées sur la tâche visant à réduire le code inutile</li><li>Approche de revue qui préserve la validation, la gestion des erreurs, la sécurité et l&#39;accessibilité</li><li>Plugins ou adaptateurs d&#39;instructions pour Claude Code, Codex, Gemini CLI et autres hôtes</li></ul></section>
+      <section class="disc-sec"><h2>Premiers pas</h2><ol class="disc-steps"><li>Installez l&#39;intégration Ponytail pour votre hôte d&#39;agent</li><li>Vérifiez que l&#39;installation est active dans l&#39;hôte</li><li>Sélectionnez le niveau Ponytail approprié</li><li>Exécutez le flux de revue ou d&#39;audit sur les modifications</li></ol></section>
+      <section class="disc-sec"><h2>Démarrage prudent</h2><div class="disc-note">Les pourcentages sont des moyennes du benchmark agentic corrigé sur 12 tâches d&#39;un dépôt réel FastAPI et React, avec Haiku 4.5 et n=4. Une couche adversariale distincte a rapporté une sécurité à 100 %. La fourchette 80–94 % du mode one‑shot antérieur n&#39;est pas une moyenne générale.</div></section>
+      <section class="disc-sec"><h2>Premier prompt</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Copier l'invite">Copier</button></div><p class="disc-ai-text">Écris seulement le code nécessaire à la tâche, puis révise les modifications pour validation, gestion des erreurs, sécurité et accessibilité.</p></div></section>
+      <section class="disc-sec"><h2>Installation</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Ajouter le marketplace Claude Code</span><button type="button" class="disc-copy" aria-label="Copier la commande">Copier</button></div><pre><code>/plugin marketplace add DietrichGebert/ponytail</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Installer le plugin Claude Code</span><button type="button" class="disc-copy" aria-label="Copier la commande">Copier</button></div><pre><code>/plugin install ponytail@ponytail</code></pre></div></section>
+      <section class="disc-sec"><h2>Exécution</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Sélectionner le niveau Ponytail</span><button type="button" class="disc-copy" aria-label="Copier la commande">Copier</button></div><pre><code>/ponytail full</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Démarrer la revue de diff</span><button type="button" class="disc-copy" aria-label="Copier la commande">Copier</button></div><pre><code>/ponytail-review</code></pre></div></section>
       <section class="disc-sec"><h2>Termes liés du glossaire</h2><div class="disc-related"><a href="/fr/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
-      <section class="disc-sec"><h2>Liens</h2><ul class="disc-links"><li><a href="https://github.com/DietrichGebert/ponytail" target="_blank" rel="noopener">Dépôt GitHub →</a></li><li><a href="https://trescout.com/discover/ponytail/">Lire en turc →</a></li></ul></section>
+      <section class="disc-sec"><h2>Liens</h2><ul class="disc-links"><li><a href="https://github.com/DietrichGebert/ponytail" target="_blank" rel="noopener">Dépôt GitHub →</a></li><li><a href="https://github.com/DietrichGebert/ponytail" target="_blank" rel="noopener">README officiel →</a></li><li><a href="https://github.com/DietrichGebert/ponytail/blob/main/benchmarks/results/2026-06-18-agentic.md" target="_blank" rel="noopener">Méthode du benchmark agentique →</a></li><li><a href="https://trescout.com/discover/ponytail/">Lire en turc →</a></li></ul></section>
 <p class="disc-disclaimer">TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-08-25 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été <strong>traduite automatiquement</strong> depuis l’original turc · la version turque fait foi.</p>
 <aside class="disc-cta"><p><strong>TreScout repère des outils comme celui-ci chaque jour.</strong> GitHub, Hacker News et HuggingFace sont analysés, l'essentiel vous est résumé.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-fr" novalidate><div class="form-row"><input class="input" type="email" name="email" placeholder="Votre adresse e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Accès anticipé</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>J'ai lu <a href="/fr/privacy.html" target="_blank" rel="noopener">la notice de confidentialité</a> et je consens au traitement de mon adresse e-mail à cette fin.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/fr/discover/">Toutes les découvertes →</a></aside>
 </article>
