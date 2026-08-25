@@ -1,0 +1,50 @@
+name: "📖 Yeni Sözlük Terimi / Analoji Öner"
+description: "TreScout Teknoloji Sözlüğüne yeni bir kavram ekleyin veya mevcut tanımı zenginleştirin."
+title: "📖 Terim Önerisi: [Terim Adı]"
+labels: ["community-term", "sozluk"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        TreScout Sözlüğüne katkıda bulunarak binlerce geliştiricinin teknik kavramları Türkçe olarak kolayca öğrenmesine yardımcı olduğunuz için teşekkürler!
+  - type: input
+    id: term_name
+    attributes:
+      label: "Terim Adı (İngilizce / Global İsim)"
+      placeholder: "Örn: Model Context Protocol, Local-First, Vector DB"
+    validations:
+      required: true
+  - type: input
+    id: full_name
+    attributes:
+      label: "Açılımı / Tam Adı (Varsa)"
+      placeholder: "Örn: Retrieval-Augmented Generation"
+    validations:
+      required: false
+  - type: dropdown
+    id: category
+    attributes:
+      label: "Kategori"
+      options:
+        - "Yapay Zekâ (AI / LLM)"
+        - "Geliştirici Araçları (DevTools)"
+        - "Yazılım Mimarisi (Architecture)"
+        - "Veri & Veritabanı (Data / DB)"
+        - "Siber Güvenlik (Security)"
+        - "Bulut & DevOps (Cloud / DevOps)"
+    validations:
+      required: true
+  - type: textarea
+    id: short_def
+    attributes:
+      label: "Kısa ve Net Türkçe Tanım (1-2 Cümle)"
+      placeholder: "Teknik jargona boğmadan, bir mühendisin veya meraklının ilk okuyuşta anlayacağı yalın bir açıklama."
+    validations:
+      required: true
+  - type: textarea
+    id: analogy
+    attributes:
+      label: "Günlük Hayattan Analoji / Benzetme (İsteğe Bağlı ama Çok Değerli)"
+      placeholder: "Örn: 'RAG'i açık kitap sınavına benzetebiliriz; model ezberinden değil, masadaki kitaba bakıp cevap verir.'"
+    validations:
+      required: false
