@@ -112,6 +112,24 @@ SYS=("Sen TreScout için Türkçe teknoloji sözlüğü editörüsün; kod bilme
  '"cat"("ai"|"dev"|"data"),"kisa"(verilen açıklamayı temel al, tek cümle),"tanim"(2-4 cümle),"analoji"(günlük benzetme 1-2 cümle),'
  '"nasil"(2-4 cümle),"nerede"(2-3 cümle),"karistirilan"(1-2 cümle veya ""),"sss"([{"soru","cevap"}] 2-3 adet),'
  '"related"(mevcut/yeni slug listesinden 3-5)}. ÇIKTI: SADECE YENİ terimlerin JSON dizisi, başka metin yok.')
+def _http_retry_delay(error, attempt):
+    """Provider'ın Retry-After/retryDelay bilgisini kullan; response body loglama."""
+    header = error.headers.get("Retry-After") if error.headers else None
+    if header:
+        try:
+            return min(max(float(header), 1.0), 90.0)
+        except ValueError:
+            pass
+    try:
+        body = error.read().decode("utf-8", errors="replace")
+        m = re.search(r'"retryDelay"\s*:\s*"([0-9.]+)s"', body)
+        if m:
+            return min(max(float(m.group(1)), 1.0), 90.0)
+    except Exception:
+        pass
+    return min((attempt + 1) * 5.0, 60.0)
+
+
 def gemini(existing, candidates, key):
     payload=("MEVCUT terimler:\n"+json.dumps([{"slug":s,"ad":n} for s,n in existing],ensure_ascii=False)+
              "\n\nADAY terimler:\n"+json.dumps(candidates,ensure_ascii=False))
@@ -127,7 +145,9 @@ def gemini(existing, candidates, key):
             return json.loads(raw)
         except urllib.error.HTTPError as e:
             last=e
-            if e.code in (429,500,502,503) and attempt<4: time.sleep((attempt+1)*5); continue
+            if e.code in (429,500,502,503) and attempt<4:
+                time.sleep(_http_retry_delay(e, attempt))
+                continue
             raise
         except Exception as e:
             last=e
