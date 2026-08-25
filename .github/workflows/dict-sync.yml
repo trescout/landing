@@ -23,6 +23,14 @@ on:
         description: "Recovery only · skip search-engine IndexNow notification for this manual run"
         required: false
         default: 'false'
+      dictionary_slugs:
+        description: "Recovery only · comma-separated dictionary slugs to render; empty = all"
+        required: false
+        default: ''
+      discovery_slugs:
+        description: "Recovery only · comma-separated discovery slugs to render; empty = all"
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -161,11 +169,33 @@ jobs:
       - name: Sayfaları üret · her dilde sözlük SONRA keşif
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          DICTIONARY_SLUGS: ${{ github.event.inputs.dictionary_slugs }}
+          DISCOVERY_SLUGS: ${{ github.event.inputs.discovery_slugs }}
+          IS_MANUAL: ${{ github.event_name == 'workflow_dispatch' }}
         run: |
+          IFS=',' read -ra DICT_ONLY <<< "$DICTIONARY_SLUGS"
+          IFS=',' read -ra DISC_ONLY <<< "$DISCOVERY_SLUGS"
+          targeted=false
+          if [ "$IS_MANUAL" = "true" ] && [ -n "$DICTIONARY_SLUGS$DISCOVERY_SLUGS" ]; then
+            targeted=true
+          fi
           for d in ${{ steps.diller.outputs.kodlar }}; do
             echo "── $d"
-            python3 scripts/dictionary-en.py --lang=$d
-            python3 scripts/discover-en.py   --lang=$d
+            if [ "$targeted" = "true" ]; then
+              if [ -n "$DICTIONARY_SLUGS" ]; then
+                for slug in "${DICT_ONLY[@]}"; do
+                  [ -n "$slug" ] && python3 scripts/dictionary-en.py --lang=$d --slug="$slug"
+                done
+              fi
+              if [ -n "$DISCOVERY_SLUGS" ]; then
+                for slug in "${DISC_ONLY[@]}"; do
+                  [ -n "$slug" ] && python3 scripts/discover-en.py --lang=$d --slug="$slug"
+                done
+              fi
+            else
+              python3 scripts/dictionary-en.py --lang=$d
+              python3 scripts/discover-en.py --lang=$d
+            fi
           done
 
       # İKİNCİ TUR · çapraz bağlantı kuralı İKİ YÖNLÜ:
@@ -179,9 +209,18 @@ jobs:
       - name: Sözlük ikinci tur (keşif sayfaları artık diskte)
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          DICTIONARY_SLUGS: ${{ github.event.inputs.dictionary_slugs }}
+          IS_MANUAL: ${{ github.event_name == 'workflow_dispatch' }}
         run: |
+          IFS=',' read -ra DICT_ONLY <<< "$DICTIONARY_SLUGS"
           for d in ${{ steps.diller.outputs.kodlar }}; do
-            python3 scripts/dictionary-en.py --lang=$d
+            if [ -n "$DICTIONARY_SLUGS" ]; then
+              for slug in "${DICT_ONLY[@]}"; do
+                [ -n "$slug" ] && python3 scripts/dictionary-en.py --lang=$d --slug="$slug"
+              done
+            elif [ "$IS_MANUAL" != "true" ]; then
+              python3 scripts/dictionary-en.py --lang=$d
+            fi
           done
 
       # Dizin sayfaları · kart ızgarası + arama/sıralama. Detay sayfalarından
