@@ -1107,7 +1107,7 @@
       .bullet-list li { text-align: left; }
     }
 
-    /* ---------- PDF CAROUSEL · gerçek 21 Mayıs 2026 raporunun 6 sayfası ---------- */
+    /* ---------- PDF CAROUSEL · gerçek 25 Ağustos 2026 raporunun 10 sayfası ---------- */
     .pdf-carousel {
       background: linear-gradient(135deg, var(--mockup-surface-alt) 0%, var(--mockup-surface-alt-end) 100%);
       padding: 28px 0 22px;
@@ -1166,7 +1166,7 @@
       display: block;
       width: 100%;
       height: auto;
-      aspect-ratio: 1192 / 1686;
+      aspect-ratio: 909 / 1287;
     }
     .pdf-carousel-pageno {
       position: absolute;
