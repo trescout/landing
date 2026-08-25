@@ -95,3 +95,69 @@ async function translateText(text, lang) {
 }
 
 module.exports = { translateText };
+
+
+async function geminiBatch(texts, lang) {
+  const key = (process.env.GEMINI_API_KEY || '').trim();
+  if (!key || !texts.length) return null;
+  const body = JSON.stringify({
+    systemInstruction: { parts: [{ text:
+      'You are a precise professional translator. Output valid JSON only. Translate each Turkish item into the requested language. ' +
+      'Preserve every id exactly, do not summarize, omit, merge, or add items. Preserve proper nouns, URLs, numbers, and technical meaning.' }] },
+    contents: [{ parts: [{ text:
+      `Translate every item into ${lang}. Return a JSON array with exactly one object per input, using the same id and the translated text in the text field.\n\n` +
+      JSON.stringify(texts.map((text, index) => ({ id: String(index), text }))) }] }],
+    generationConfig: { temperature: 0.1, maxOutputTokens: 8192, responseMimeType: 'application/json' },
+  });
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent`;
+  for (let attempt = 0; attempt < 3; attempt += 1) {
+    try {
+      const data = await requestJson(url, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'x-goog-api-key': key },
+      }, body, 90000);
+      const raw = clean((data?.candidates?.[0]?.content?.parts || []).map(part => part?.text || '').join(''));
+      const parsed = JSON.parse(raw);
+      const rows = Array.isArray(parsed) ? parsed : parsed?.translations;
+      if (!Array.isArray(rows) || rows.length !== texts.length) throw new Error('Gemini batch shape mismatch');
+      const result = new Map();
+      for (const row of rows) {
+        const index = Number(row?.id);
+        const value = clean(row?.text);
+        if (!Number.isInteger(index) || index < 0 || index >= texts.length || !value) throw new Error('Gemini batch row invalid');
+        result.set(texts[index], value);
+      }
+      if (result.size !== texts.length) throw new Error('Gemini batch ids are not unique');
+      return result;
+    } catch (error) {
+      const msg = String(error?.message || error);
+      const retryable = /HTTP (429|500|502|503)|timeout|ECONNRESET|UNAVAILABLE|RESOURCE_EXHAUSTED/i.test(msg);
+      if (!retryable || attempt === 2) return null;
+      await sleep(Math.min(1500 * (2 ** attempt), 12000));
+    }
+  }
+  return null;
+}
+
+async function translateTexts(texts, lang) {
+  const unique = [...new Set(texts.map(text => String(text || '').trim()).filter(Boolean))];
+  const result = new Map();
+  const batchSize = 12;
+  for (let start = 0; start < unique.length; start += batchSize) {
+    const batch = unique.slice(start, start + batchSize);
+    const translated = await geminiBatch(batch, lang);
+    if (translated) {
+      for (const [source, value] of translated) result.set(source, value);
+    } else {
+      // A failed Gemini batch falls back to bounded GTX calls, never to source text.
+      for (const source of batch) {
+        const value = await gtx(source, lang);
+        if (value) result.set(source, value);
+      }
+    }
+    if (start + batchSize < unique.length) await sleep(5000);
+  }
+  return result;
+}
+
+module.exports = { translateText, translateTexts };
