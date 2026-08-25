@@ -2,7 +2,7 @@
   "snapshotVersion": 1,
   "date": "2026-08-25",
   "capturedAt": "2026-08-25T14:42:45.901Z",
-  "editorial": "Bugün teknoloji gündeminde yüksek performanslı işlemci mimarileri (CPU architectures) ve açık kaynaklı dil modellerinin (large language models) verimlilik optimizasyonları öne çıkıyor. Donanım tarafında Xiaomi’nin yeni işlemci verileri dikkat çekerken, yazılım dünyasında içerik yönetimi ve uzun iş akışı (long-workflow) değerlendirme metrikleri üzerine yoğun akademik çalışmalar yayınlandı.",
+  "editorial": "Aujourd'hui, l'actualité technologique est dominée par les architectures de processeurs (CPU architectures) haute performance et les optimisations d'efficacité des modèles de langage open source (large language models). Côté matériel, les nouvelles données sur les processeurs de Xiaomi attirent l'attention, tandis que dans le monde du logiciel, des études académiques approfondies ont été publiées sur la gestion de contenu et les métriques d'évaluation des flux de travail longs (long-workflow).",
   "sections": [
     {
       "sourceName": "github",
@@ -10,8 +10,8 @@
         {
           "title": "freestylefly/awesome-gpt-image-2",
           "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-          "summary": "Awesome-gpt-image-2, görsel oluşturma modelleri için kod olarak istem (prompt as code) yaklaşımını benimseyen bir kütüphane. 530'dan fazla tersine mühendislik yapılmış örnek ve 20'den fazla endüstriyel şablon ile yapay zekâ görselleştirme süreçlerinde standart yetenekler (skills) sunuyor.",
-          "meta": "JavaScript · ★ 16.814 · +1.698 bugün",
+          "summary": "Awesome-gpt-image-2 est une bibliothèque qui adopte l'approche « prompt as code » pour les modèles de génération d'images. Avec plus de 530 exemples issus de l'ingénierie inverse et plus de 20 modèles industriels, elle offre des compétences standard dans les processus de visualisation par intelligence artificielle.",
+          "meta": "JavaScript · ★ 16 814 · +1 698 aujourd'hui",
           "snapshot": {
             "sourceId": "freestylefly/awesome-gpt-image-2",
             "capturedAt": "2026-08-25T14:42:47.129Z",
@@ -29,8 +29,8 @@
         {
           "title": "anthropics/claude-plugins-community",
           "url": "https://github.com/anthropics/claude-plugins-community",
-          "summary": "Anthropics tarafından paylaşılan Claude Plugins Community, yapay zekâ asistanları Claude Cowork ve Claude Code için geliştirilen topluluk eklentilerini bir araya getiriyor. Bu dizin, kullanıcıların kendi yazdıkları eklentileri (plugins) paylaşarak yapay zekâ araçlarının yeteneklerini genişletmelerine olanak tanıyor.",
-          "meta": "Python · ★ 1.579 · +350 bugün",
+          "summary": "Claude Plugins Community, partagé par Anthropics, rassemble les plugins communautaires développés pour les assistants d'intelligence artificielle Claude Cowork et Claude Code. Ce répertoire permet aux utilisateurs d'étendre les capacités des outils d'IA en partageant leurs propres plugins.",
+          "meta": "Python · ★ 1 579 · +350 aujourd'hui",
           "snapshot": {
             "sourceId": "anthropics/claude-plugins-community",
             "capturedAt": "2026-08-25T14:42:47.129Z",
@@ -48,8 +48,8 @@
         {
           "title": "MadsLorentzen/ai-job-search",
           "url": "https://github.com/MadsLorentzen/ai-job-search",
-          "summary": "MadsLorentzen tarafından geliştirilen ai-job-search, iş ilanlarını değerlendiren, özgeçmişleri (CV) özelleştiren ve ön yazı hazırlayan yerel bir yapay zekâ iş arama çerçevesidir. Claude Code altyapısını kullanan bu Python tabanlı araç, kullanıcıların iş başvuru süreçlerini kendi bilgisayarlarında otomatize etmelerine olanak tanır.",
-          "meta": "Python · ★ 34.881 · +1.266 bugün",
+          "summary": "Développé par MadsLorentzen, ai-job-search est un cadre de recherche d'emploi local basé sur l'IA qui évalue les offres d'emploi, personnalise les CV et prépare des lettres de motivation. Utilisant l'infrastructure de Claude Code, cet outil basé sur Python permet aux utilisateurs d'automatiser leurs processus de candidature sur leur propre ordinateur.",
+          "meta": "Python · ★ 34 881 · +1 266 aujourd'hui",
           "snapshot": {
             "sourceId": "MadsLorentzen/ai-job-search",
             "capturedAt": "2026-08-25T14:42:47.129Z",
@@ -67,8 +67,8 @@
         {
           "title": "apache/maka",
           "url": "https://github.com/apache/maka",
-          "summary": "Apache Maka, yapay zekâ ajanları için verilerin yerel öncelikli (local-first) bir yapıda tutulduğu çalışma alanıdır. Mesajları, araç çağrılarını ve izin kararlarını yalnızca eklenebilir bir günlük (append-only log) formatında kaydederek süreç takibini şeffaflaştırır.",
-          "meta": "TypeScript · ★ 3.172 · +538 bugün",
+          "summary": "Apache Maka est un espace de travail pour les agents d'IA où les données sont conservées dans une structure « local-first ». Il rend le suivi des processus transparent en enregistrant les messages, les appels d'outils et les décisions d'autorisation uniquement dans un format de journal ajoutable (append-only log).",
+          "meta": "TypeScript · ★ 3 172 · +538 aujourd'hui",
           "snapshot": {
             "sourceId": "apache/maka",
             "capturedAt": "2026-08-25T14:42:47.129Z",
@@ -86,8 +86,8 @@
         {
           "title": "TauricResearch/TradingAgents",
           "url": "https://github.com/TauricResearch/TradingAgents",
-          "summary": "TradingAgents, finansal piyasalarda işlem yapmak üzere tasarlanmış çoklu yapay zekâ ajanı (multi-agent) tabanlı bir Python çerçevesidir. Büyük dil modellerini (large language models) kullanarak piyasa verilerini analiz eden ve otomatik alım satım stratejileri geliştiren bir altyapı sunar.",
-          "meta": "Python · ★ 99.937 · +191 bugün",
+          "summary": "TradingAgents est un cadre Python basé sur des agents d'IA multiples (multi-agent) conçu pour effectuer des transactions sur les marchés financiers. Il propose une infrastructure qui utilise des modèles de langage étendus (large language models) pour analyser les données de marché et développer des stratégies de trading automatisées.",
+          "meta": "Python · ★ 99 937 · +191 aujourd'hui",
           "snapshot": {
             "sourceId": "TauricResearch/TradingAgents",
             "capturedAt": "2026-08-25T14:42:47.129Z",
@@ -105,8 +105,8 @@
         {
           "title": "AgriciDaniel/claude-obsidian",
           "url": "https://github.com/AgriciDaniel/claude-obsidian",
-          "summary": "Claude-obsidian, not alma uygulaması Obsidian üzerinde çalışan ve yapay zekâ destekli kişisel bilgi yönetimi (personal knowledge management) sağlayan bir araçtır. Claude Code ile entegre olarak verileri analiz eder, bağlantı kurar ve bunları düzenli bir bilgi grafiğine dönüştürerek Notion gibi platformlara açık kaynaklı bir alternatif sunar.",
-          "meta": "Python · ★ 12.404 · +810 bugün",
+          "summary": "Claude-obsidian est un outil fonctionnant sur l'application de prise de notes Obsidian, offrant une gestion des connaissances personnelles assistée par l'IA. Intégré à Claude Code, il analyse les données, établit des connexions et les transforme en un graphe de connaissances organisé, offrant une alternative open source à des plateformes comme Notion.",
+          "meta": "Python · ★ 12 404 · +810 aujourd'hui",
           "snapshot": {
             "sourceId": "AgriciDaniel/claude-obsidian",
             "capturedAt": "2026-08-25T14:42:47.129Z",
@@ -124,8 +124,8 @@
         {
           "title": "rohitg00/ai-engineering-from-scratch",
           "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-          "summary": "Yapay zekâ mühendisliği (AI engineering) alanına yeni başlayanlar için hazırlanan bu kaynak, temelden başlayarak uygulama geliştirme ve yayına alma süreçlerini Python diliyle öğretiyor. Teorik bilgiyi pratik projelerle birleştiren içerik, kullanıcıların kendi yapay zekâ tabanlı ürünlerini uçtan uca inşa etmelerini sağlıyor.",
-          "meta": "Python · ★ 48.689 · +572 bugün",
+          "summary": "Conçue pour les débutants dans le domaine de l'ingénierie de l'IA (AI engineering), cette ressource enseigne les processus de développement d'applications et de déploiement en Python, en partant des bases. Combinant connaissances théoriques et projets pratiques, le contenu permet aux utilisateurs de construire leurs propres produits basés sur l'IA de bout en bout.",
+          "meta": "Python · ★ 48 689 · +572 aujourd'hui",
           "snapshot": {
             "sourceId": "rohitg00/ai-engineering-from-scratch",
             "capturedAt": "2026-08-25T14:42:47.129Z",
@@ -143,8 +143,8 @@
         {
           "title": "tinyhumansai/openhuman",
           "url": "https://github.com/tinyhumansai/openhuman",
-          "summary": "OpenHuman, kişisel verileri yerel cihazda depolayarak kullanıcıya özel bir hafıza oluşturan yapay zekâ tabanlı bir kişisel asistan. Rust diliyle geliştirilen bu araç, karmaşık iş akışlarını yöneten yapay zekâ ajanlarını (AI agents) koordine ediyor ve derinlemesine araştırma süreçlerini yürütüyor.",
-          "meta": "Rust · ★ 37.585 · +541 bugün",
+          "summary": "OpenHuman est un assistant personnel basé sur l'IA qui crée une mémoire spécifique à l'utilisateur en stockant les données personnelles sur l'appareil local. Développé en Rust, cet outil coordonne des agents d'IA qui gèrent des flux de travail complexes et mènent des processus de recherche approfondis.",
+          "meta": "Rust · ★ 37 585 · +541 aujourd'hui",
           "snapshot": {
             "sourceId": "tinyhumansai/openhuman",
             "capturedAt": "2026-08-25T14:42:47.129Z",
@@ -162,8 +162,8 @@
         {
           "title": "basecamp/omarchy",
           "url": "https://github.com/basecamp/omarchy",
-          "summary": "Basecamp tarafından geliştirilen Omarchy, Linux işletim sistemleri için modern ve özgün bir yapılandırma deneyimi sunan bir araçtır. Sistem ayarlarını yönetmek için kullanılan bu yazılım, kullanıcıların işletim sistemi tercihlerini standartlaştırmayı amaçlar.",
-          "meta": "Shell · ★ 30.854 · +1.080 bugün",
+          "summary": "Omarchy, développé par Basecamp, est un outil offrant une expérience de configuration moderne et unique pour les systèmes d'exploitation Linux. Utilisé pour gérer les paramètres système, ce logiciel vise à standardiser les préférences des utilisateurs en matière de système d'exploitation.",
+          "meta": "Shell · ★ 30 854 · +1 080 aujourd'hui",
           "snapshot": {
             "sourceId": "basecamp/omarchy",
             "capturedAt": "2026-08-25T14:42:47.129Z",
@@ -181,8 +181,8 @@
         {
           "title": "Shubhamsaboo/awesome-llm-apps",
           "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-          "summary": "Awesome-llm-apps, yüzün üzerinde yapay zekâ ajanı (AI agent), yetenek paketi ve getirme destekli üretim (RAG) uygulamasını içeren açık kaynaklı bir Python kütüphanesi. Geliştiricilerin kendi projelerinde kullanabileceği ücretsiz ve hazır kod örnekleri sunarak yapay zekâ tabanlı iş akışlarının oluşturulmasını kolaylaştırıyor.",
-          "meta": "Python · ★ 134.052 · +161 bugün",
+          "summary": "Awesome-llm-apps est une bibliothèque Python open source contenant plus d'une centaine d'agents d'IA, de packs de compétences et d'applications de génération augmentée par récupération (RAG). Elle facilite la création de flux de travail basés sur l'IA en proposant des exemples de code gratuits et prêts à l'emploi que les développeurs peuvent utiliser dans leurs propres projets.",
+          "meta": "Python · ★ 134 052 · +161 aujourd'hui",
           "snapshot": {
             "sourceId": "Shubhamsaboo/awesome-llm-apps",
             "capturedAt": "2026-08-25T14:42:47.129Z",
@@ -200,8 +200,8 @@
         {
           "title": "multica-ai/andrej-karpathy-skills",
           "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-          "summary": "Andrej Karpathy'nin büyük dil modelleri (LLM) ile kodlama süreçlerindeki hatalara dair gözlemlerini temel alan bu dosya, yapay zekâ destekli kodlama aracı Claude Code'un performansını optimize etmeyi amaçlıyor. Geliştiriciler, CLAUDE.md yapılandırma dosyasını kullanarak yapay zekânın kod yazma alışkanlıklarını iyileştirebiliyor.",
-          "meta": "★ 206.978 · +828 bugün",
+          "summary": "Basé sur les observations d'Andrej Karpathy concernant les erreurs dans les processus de codage avec les modèles de langage (LLM), ce fichier vise à optimiser les performances de l'outil de codage assisté par IA, Claude Code. Les développeurs peuvent améliorer les habitudes de codage de l'IA en utilisant le fichier de configuration CLAUDE.md.",
+          "meta": "★ 206 978 · +828 aujourd'hui",
           "snapshot": {
             "sourceId": "multica-ai/andrej-karpathy-skills",
             "capturedAt": "2026-08-25T14:42:47.129Z",
@@ -218,8 +218,8 @@
         {
           "title": "openai/codex",
           "url": "https://github.com/openai/codex",
-          "summary": "Rust diliyle yazılan Codex, terminal üzerinde çalışan hafif bir kodlama ajanıdır (coding agent). Yazılım geliştirme süreçlerini hızlandırmak için komut satırı üzerinden doğrudan etkileşimli destek sağlar.",
-          "meta": "Rust · ★ 117.882 · +1.183 bugün",
+          "summary": "Codex, écrit en Rust, est un agent de codage léger fonctionnant dans le terminal. Il fournit une assistance interactive directement via la ligne de commande pour accélérer les processus de développement logiciel.",
+          "meta": "Rust · ★ 117 882 · +1 183 aujourd'hui",
           "snapshot": {
             "sourceId": "openai/codex",
             "capturedAt": "2026-08-25T14:42:47.129Z",
@@ -237,8 +237,8 @@
         {
           "title": "marin-community/marin",
           "url": "https://github.com/marin-community/marin",
-          "summary": "Marin, temel modellerin (foundation models) araştırılması ve geliştirilmesi için tasarlanmış açık kaynaklı bir Python çerçevesidir. Büyük ölçekli yapay zekâ modellerinin eğitilmesi ve optimize edilmesi süreçlerini kolaylaştırmayı amaçlar.",
-          "meta": "Python · ★ 1.967 · +214 bugün",
+          "summary": "Marin est un framework Python open source conçu pour la recherche et le développement de modèles de base (foundation models). Il vise à faciliter les processus d'entraînement et d'optimisation des modèles d'intelligence artificielle à grande échelle.",
+          "meta": "Python · ★ 1 967 · +214 aujourd'hui",
           "snapshot": {
             "sourceId": "marin-community/marin",
             "capturedAt": "2026-08-25T14:42:47.129Z",
@@ -256,8 +256,8 @@
         {
           "title": "DietrichGebert/ponytail",
           "url": "https://github.com/DietrichGebert/ponytail",
-          "summary": "Ponytail, yapay zekâ ajanlarının kod yazma sürecini en aza indirerek gereksiz iş yükünü engelleyen bir JavaScript aracıdır. Yazılım geliştirme süreçlerinde en iyi kodun hiç yazılmamış kod olduğu felsefesini benimseyerek, ajanların daha az kodla çözüm üretmesini sağlar.",
-          "meta": "JavaScript · ★ 110.483 · +944 bugün",
+          "summary": "Ponytail est un outil JavaScript qui empêche les charges de travail inutiles en minimisant le processus d'écriture de code par les agents d'intelligence artificielle. Adoptant la philosophie selon laquelle le meilleur code est celui qui n'est jamais écrit, il permet aux agents de générer des solutions avec moins de code.",
+          "meta": "JavaScript · ★ 110 483 · +944 aujourd'hui",
           "snapshot": {
             "sourceId": "DietrichGebert/ponytail",
             "capturedAt": "2026-08-25T14:42:47.129Z",
@@ -275,8 +275,8 @@
         {
           "title": "anthropics/claude-plugins-official",
           "url": "https://github.com/anthropics/claude-plugins-official",
-          "summary": "Anthropic tarafından paylaşılan Claude eklentileri (Claude Plugins), yapay zekâ destekli kodlama aracı Claude Code'un yeteneklerini genişleten resmi bir dizin sunuyor. Bu Python tabanlı eklentiler, geliştiricilerin yazılım geliştirme süreçlerini otomatikleştirmesine ve özelleştirmesine olanak tanıyor.",
-          "meta": "Python · ★ 33.971 · +47 bugün",
+          "summary": "Les plugins Claude partagés par Anthropic proposent un répertoire officiel étendant les capacités de Claude Code, l'outil de codage assisté par IA. Ces plugins basés sur Python permettent aux développeurs d'automatiser et de personnaliser leurs processus de développement logiciel.",
+          "meta": "Python · ★ 33 971 · +47 aujourd'hui",
           "snapshot": {
             "sourceId": "anthropics/claude-plugins-official",
             "capturedAt": "2026-08-25T14:42:47.129Z",
@@ -294,8 +294,8 @@
         {
           "title": "asciimoo/hister",
           "url": "https://github.com/asciimoo/hister",
-          "summary": "Hister, Go programlama diliyle geliştirilmiş kişisel bir arama motoru altyapısıdır. Kullanıcıların kendi dizinlerini oluşturarak web üzerinde bağımsız arama yapmalarına olanak tanır.",
-          "meta": "Go · ★ 2.620 · +142 bugün",
+          "summary": "Hister est une infrastructure de moteur de recherche personnel développée avec le langage de programmation Go. Elle permet aux utilisateurs de créer leurs propres index pour effectuer des recherches indépendantes sur le Web.",
+          "meta": "Go · ★ 2 620 · +142 aujourd'hui",
           "snapshot": {
             "sourceId": "asciimoo/hister",
             "capturedAt": "2026-08-25T14:42:47.129Z",
@@ -318,8 +318,8 @@
         {
           "title": "How Europe is killing makers and micro-entrepreneurs",
           "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-          "summary": "Avrupa Birliği'nin yürürlüğe koyduğu yeni ürün güvenliği ve uyumluluk düzenlemeleri, küçük ölçekli donanım üreticileri ve mikro girişimciler için ağır maliyetler yaratıyor. Bu katı bürokratik süreçler, bireysel tasarımcıların ve küçük işletmelerin faaliyetlerini sürdürmesini zorlaştırarak pazardaki rekabeti kısıtlıyor.",
-          "meta": "1.517 oy · 951 yorum",
+          "summary": "Les nouvelles réglementations de l'Union européenne sur la sécurité et la conformité des produits engendrent des coûts élevés pour les petits fabricants de matériel et les micro-entrepreneurs. Ces processus bureaucratiques stricts rendent difficile la poursuite des activités pour les concepteurs individuels et les petites entreprises, limitant ainsi la concurrence sur le marché.",
+          "meta": "1 517 votes · 951 commentaires",
           "snapshot": {
             "sourceId": "49419237",
             "capturedAt": "2026-08-25T14:42:46.238Z",
@@ -354,8 +354,8 @@
         {
           "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
           "url": "https://twitter.com/lemire/status/2091894299289874926",
-          "summary": "Xiaomi tarafından geliştirilen yeni işlemci çekirdekleri, tek çekirdekli performans tarafında Apple işlemcileriyle benzer seviyelere ulaşırken çoklu çekirdek performansında daha yüksek hızlar sunuyor. Bu gelişme, akıllı telefon işlemcisi pazarındaki rekabetin donanım mimarisi düzeyinde yeni bir aşamaya geçtiğini gösteriyor.",
-          "meta": "933 oy · 669 yorum",
+          "summary": "Les nouveaux cœurs de processeur développés par Xiaomi atteignent des niveaux similaires à ceux des processeurs Apple en termes de performances monocœur, tout en offrant des vitesses plus élevées en performances multicœurs. Cette avancée montre que la concurrence sur le marché des processeurs pour smartphones a atteint une nouvelle étape au niveau de l'architecture matérielle.",
+          "meta": "933 votes · 669 commentaires",
           "snapshot": {
             "sourceId": "49420873",
             "capturedAt": "2026-08-25T14:42:46.238Z",
@@ -390,8 +390,8 @@
         {
           "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
           "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-          "summary": "Microsoft Paint ve Fotoğraflar uygulaması, yerel olarak oluşturulan görsellere küresel benzersiz tanımlayıcı (GUID) içeren görünmez dijital filigranlar ekliyor. Bu yöntem, görüntülerin kökenini ve düzenleme geçmişini takip etmek için kullanılan bir izleme mekanizması işlevi görüyor.",
-          "meta": "791 oy · 390 yorum",
+          "summary": "Microsoft Paint et l'application Photos ajoutent des filigranes numériques invisibles contenant un identifiant unique global (GUID) aux images générées localement. Cette méthode sert de mécanisme de suivi pour retracer l'origine et l'historique de modification des images.",
+          "meta": "791 votes · 390 commentaires",
           "snapshot": {
             "sourceId": "49421158",
             "capturedAt": "2026-08-25T14:42:46.238Z",
@@ -426,8 +426,8 @@
         {
           "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
           "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-          "summary": "Apple, E-postamı Gizle (Hide My Email) özelliğinin oluşturulan adreslerini icloud.com alan adıyla sınırlı tutmaya devam edeceğini duyurdu. Bu karar, kullanıcıların özel alan adları üzerinden oluşturduğu gizli e-posta adreslerinin mevcut altyapı üzerinden yönetilmesini zorunlu kılıyor.",
-          "meta": "547 oy · 173 yorum",
+          "summary": "Apple a annoncé que les adresses générées par la fonctionnalité « Masquer mon adresse e-mail » (Hide My Email) resteraient limitées au nom de domaine icloud.com. Cette décision impose que les adresses e-mail masquées créées par les utilisateurs via des noms de domaine personnalisés soient gérées via l'infrastructure existante.",
+          "meta": "547 votes · 173 commentaires",
           "snapshot": {
             "sourceId": "49426564",
             "capturedAt": "2026-08-25T14:42:46.238Z",
@@ -462,8 +462,8 @@
         {
           "title": "The entire city of San Francisco as a video game",
           "url": "https://sf.thijs.gg/",
-          "summary": "San Francisco şehrinin tamamını tarayıcı tabanlı bir video oyununa dönüştüren bu proje, coğrafi verileri etkileşimli bir dijital dünyaya aktarıyor. Kullanıcılar, şehir haritası üzerinde gezinebildikleri bu platformda kentsel alanları oyun mekanikleriyle keşfedebiliyor.",
-          "meta": "542 oy · 157 yorum",
+          "summary": "Ce projet, qui transforme toute la ville de San Francisco en un jeu vidéo basé sur navigateur, transfère des données géographiques dans un monde numérique interactif. Les utilisateurs peuvent explorer les zones urbaines avec des mécaniques de jeu sur cette plateforme où ils peuvent naviguer sur la carte de la ville.",
+          "meta": "542 votes · 157 commentaires",
           "snapshot": {
             "sourceId": "49422784",
             "capturedAt": "2026-08-25T14:42:46.238Z",
@@ -503,8 +503,8 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "summary": "Alibaba tarafından geliştirilen Qwen2.5-27B, metin ve görsel verilerini işleyebilen çok modlu bir büyük dil modeli (large language model). Açık ağırlıklarla sunulan bu model, karmaşık mantık yürütme ve içerik analiz süreçlerinde yüksek performans sergiliyor.",
-          "meta": "♥ 12.639 · 2.945.415 indirme",
+          "summary": "Qwen2.5-27B, développé par Alibaba, est un grand modèle de langage multimodal (large language model) capable de traiter des données textuelles et visuelles. Proposé avec des poids ouverts, ce modèle affiche des performances élevées dans les processus de raisonnement complexe et d'analyse de contenu.",
+          "meta": "♥ 12 639 · 2 945 415 téléchargements",
           "snapshot": {
             "sourceId": "Qwen/Qwen3.8-27B",
             "capturedAt": "2026-08-25T14:42:46.101Z",
@@ -535,8 +535,8 @@
         {
           "title": "unsloth/Qwen3.8-27B-GGUF",
           "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-          "summary": "Unsloth, büyük dil modellerini (large language models) daha hızlı ve düşük bellek kullanımıyla eğitmeye odaklanan bir optimizasyon kütüphanesi. Qwen2.5-27B modelinin bu sürümü, yerel cihazlarda çalıştırmayı kolaylaştıran GGUF formatında sunularak donanım gereksinimlerini düşürüyor.",
-          "meta": "♥ 2.884 · 7.334.695 indirme",
+          "summary": "Unsloth est une bibliothèque d'optimisation axée sur l'entraînement des grands modèles de langage (large language models) de manière plus rapide et avec une consommation de mémoire réduite. Cette version du modèle Qwen2.5-27B est proposée au format GGUF, facilitant son exécution sur des appareils locaux et réduisant les exigences matérielles.",
+          "meta": "♥ 2 884 · 7 334 695 téléchargements",
           "snapshot": {
             "sourceId": "unsloth/Qwen3.8-27B-GGUF",
             "capturedAt": "2026-08-25T14:42:46.101Z",
@@ -565,8 +565,8 @@
         {
           "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
           "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
-          "summary": "Görsel ve metin tabanlı girdi işleme yeteneğine sahip olan Qwen3.8-27B-Uncensored-MLX, sansürsüz bir dil modeli (large language model) olarak öne çıkıyor. Apple cihazlarda verimli çalışması için optimize edilen bu model, görüntü ve metin verilerini analiz ederek metin tabanlı çıktılar üretiyor.",
-          "meta": "♥ 1.069 · 68.855 indirme",
+          "summary": "Doté de capacités de traitement d'entrées visuelles et textuelles, Qwen3.8-27B-Uncensored-MLX se distingue comme un modèle de langage (large language model) non censuré. Optimisé pour fonctionner efficacement sur les appareils Apple, ce modèle analyse les données d'image et de texte pour produire des sorties textuelles.",
+          "meta": "♥ 1 069 · 68 855 téléchargements",
           "snapshot": {
             "sourceId": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
             "capturedAt": "2026-08-25T14:42:46.101Z",
@@ -610,8 +610,8 @@
         {
           "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
           "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-          "summary": "Qwen3.8-27B-OBLITERATED, açık kaynaklı yapay zekâ modellerini barındıran platform HuggingFace üzerinde paylaşılan bir metin üretme modeli (text-generation model). Model, güvenlik kısıtlamaları kaldırılmış bir yapı sunarak kullanıcıların daha az filtrelenmiş içerik üretmesine olanak tanıyor.",
-          "meta": "♥ 726 · 389.747 indirme",
+          "summary": "Qwen3.8-27B-OBLITERATED est un modèle de génération de texte (text-generation model) partagé sur HuggingFace, la plateforme hébergeant des modèles d'intelligence artificielle open source. Le modèle propose une structure dont les restrictions de sécurité ont été supprimées, permettant aux utilisateurs de générer du contenu moins filtré.",
+          "meta": "♥ 726 · 389 747 téléchargements",
           "snapshot": {
             "sourceId": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
             "capturedAt": "2026-08-25T14:42:46.101Z",
@@ -649,8 +649,8 @@
         {
           "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
           "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
-          "summary": "Qwen3.8-27B-Uncensored-FP8, görsel ve metin tabanlı verileri işleyerek yanıt üreten bir çok modlu yapay zekâ (multimodal AI) modelidir. Model, ağırlık değerlerini sıkıştıran düşük hassasiyetli hesaplama (FP8) yöntemiyle daha az bellek kullanarak çalışır.",
-          "meta": "♥ 1.130 · 249.744 indirme",
+          "summary": "Qwen3.8-27B-Uncensored-FP8 est un modèle d'intelligence artificielle multimodale (multimodal AI) qui génère des réponses en traitant des données visuelles et textuelles. Le modèle fonctionne en utilisant moins de mémoire grâce à la méthode de calcul basse précision (FP8) qui compresse les valeurs des poids.",
+          "meta": "♥ 1 130 · 249 744 téléchargements",
           "snapshot": {
             "sourceId": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
             "capturedAt": "2026-08-25T14:42:46.101Z",
@@ -698,8 +698,8 @@
         {
           "title": "The Laws of Context Allocation: Causal Measurement and Closed-Loop Orchestration in Generative Search",
           "url": "https://huggingface.co/papers/2608.23252",
-          "summary": "Üretken arama (generative search) süreçlerinde kullanılan bağlam (context) bütçesinin verimli yönetimi ve kanıt kullanımının ölçülmesi üzerine yeni bir yöntem geliştirildi. Bu çalışma, mevcut alaka düzeyi ölçümlerindeki hataları gidererek yapay zekânın bilgiye dayalı üretim performansını artıran nedensel bir analiz yaklaşımı sunuyor.",
-          "meta": "0 beğeni · 1 yorum",
+          "summary": "Une nouvelle méthode a été développée pour la gestion efficace du budget de contexte (context) et la mesure de l'utilisation des preuves dans les processus de recherche générative (generative search). Cette étude propose une approche d'analyse causale qui corrige les erreurs dans les mesures de pertinence actuelles, améliorant ainsi les performances de production basées sur les connaissances de l'intelligence artificielle.",
+          "meta": "0 j'aime · 1 commentaires",
           "snapshot": {
             "sourceId": "2608.23252",
             "capturedAt": "2026-08-25T14:42:46.110Z",
@@ -719,8 +719,8 @@
         {
           "title": "LongWoF-Bench: Evaluating EvoMap Genes for Verifiable Long-Workflow Tasks",
           "url": "https://huggingface.co/papers/2608.23200",
-          "summary": "LongWoF-Bench, büyük dil modellerinin (large language models) karmaşık iş akışlarında karşılaştığı kısıtlamaları ve doğrulama süreçlerini değerlendiren yeni bir kıyaslama aracıdır. EvoMap adı verilen yöntemle, daha önce doğrulanmış başarılı işlem yollarını dışsallaştırarak modellerin aynı hataları tekrarlamasını engellemeyi amaçlar.",
-          "meta": "3 beğeni · 1 yorum",
+          "summary": "LongWoF-Bench est un nouvel outil d'évaluation qui examine les contraintes et les processus de vérification rencontrés par les grands modèles de langage (large language models) dans des flux de travail complexes. Avec la méthode appelée EvoMap, il vise à empêcher les modèles de répéter les mêmes erreurs en externalisant les chemins de traitement réussis et vérifiés précédemment.",
+          "meta": "3 j'aime · 1 commentaires",
           "snapshot": {
             "sourceId": "2608.23200",
             "capturedAt": "2026-08-25T14:42:46.110Z",
@@ -738,8 +738,8 @@
         {
           "title": "AutoResearch: Insight In, Hallucination Out",
           "url": "https://huggingface.co/papers/2608.17906",
-          "summary": "AutoResearch, fikir üretimi ve deneysel uygulama aşamalarını birleştirerek otonom araştırma süreçlerinde bilimsel tutarlılığı sağlamayı amaçlıyor. Sistem, sürekli güncellenen araştırma verilerini kullanarak yapay zekâ modellerindeki halüsinasyon (hallucination) sorununu minimize etmeyi hedefliyor.",
-          "meta": "5 beğeni · 1 yorum",
+          "summary": "AutoResearch vise à assurer la cohérence scientifique dans les processus de recherche autonomes en combinant les étapes de génération d'idées et d'application expérimentale. Le système cherche à minimiser le problème d'hallucination (hallucination) dans les modèles d'intelligence artificielle en utilisant des données de recherche continuellement mises à jour.",
+          "meta": "5 j'aime · 1 commentaires",
           "snapshot": {
             "sourceId": "2608.17906",
             "capturedAt": "2026-08-25T14:42:46.110Z",
@@ -759,8 +759,8 @@
         {
           "title": "Quantization-Aware Healing: A Practical Recipe for Recovering Compressed, 4-Bit LLMs",
           "url": "https://huggingface.co/papers/2608.20953",
-          "summary": "Sıkıştırma ve nicemleme (quantization) işlemleri, büyük dil modellerinin (large language models) mantık yürütme ve kodlama gibi yeteneklerinde performans kaybına yol açıyor. Nicemleme farkındalıklı iyileştirme (quantization-aware healing) yöntemi, bu modellerin dağıtım öncesinde orijinal yeteneklerini geri kazanmalarını sağlayan yeni bir süreç sunuyor.",
-          "meta": "5 beğeni · 3 yorum",
+          "summary": "Les processus de compression et de quantification (quantization) entraînent une perte de performance dans les capacités de raisonnement et de codage des grands modèles de langage (large language models). La méthode de guérison consciente de la quantification (quantization-aware healing) offre un nouveau processus permettant à ces modèles de retrouver leurs capacités d'origine avant le déploiement.",
+          "meta": "5 j'aime · 3 commentaires",
           "snapshot": {
             "sourceId": "2608.20953",
             "capturedAt": "2026-08-25T14:42:46.110Z",
@@ -778,8 +778,8 @@
         {
           "title": "EXPL-FR: Explaining Face Recognition Models via Vision-Language Alignment",
           "url": "https://huggingface.co/papers/2608.21486",
-          "summary": "EXPL-FR, derin yüz tanıma (deep face recognition) modellerinin karar süreçlerini şeffaflaştıran bir yöntem sunuyor. Görsel-dil modeli (vision-language model) ile yüz tanıma uzayını hizalayan bu hafif adaptör, sistemin hangi semantik özelliklere dayanarak benzerlik puanı verdiğini metin tabanlı sorgularla açıklanabilir kılıyor.",
-          "meta": "1 beğeni · 1 yorum",
+          "summary": "EXPL-FR propose une méthode qui rend transparents les processus de décision des modèles de reconnaissance faciale profonde (deep face recognition). Cet adaptateur léger, qui aligne l'espace de reconnaissance faciale avec un modèle vision-langage (vision-language model), permet d'expliquer par des requêtes textuelles sur quelles caractéristiques sémantiques le système se base pour attribuer un score de similarité.",
+          "meta": "1 j'aime · 1 commentaires",
           "snapshot": {
             "sourceId": "2608.21486",
             "capturedAt": "2026-08-25T14:42:46.110Z",
@@ -804,8 +804,8 @@
         {
           "title": "I cannot survive from burnout",
           "url": "https://lobste.rs/s/0typpq/i_cannot_survive_from_burnout",
-          "summary": "Yazılım geliştiricilerin yaşadığı tükenmişlik (burnout) sendromu, iş odaklı verimliliği sürdürmeyi zorlaştırarak bireylerin hem profesyonel hem de kişisel yaşamlarını olumsuz etkiliyor. Kişisel projelerle meşgul olma isteği ile zorunlu çalışma disiplini arasındaki çatışma, özellikle uzun süreli toparlanma süreçlerinde ciddi bir engel oluşturuyor.",
-          "meta": "190 oy · 74 yorum",
+          "summary": "Le syndrome d'épuisement professionnel (burnout) chez les développeurs de logiciels rend difficile le maintien de la productivité axée sur le travail, affectant négativement la vie professionnelle et personnelle des individus. Le conflit entre le désir de s'occuper de projets personnels et la discipline de travail obligatoire constitue un obstacle sérieux, en particulier lors des processus de récupération à long terme.",
+          "meta": "190 votes · 74 commentaires",
           "snapshot": {
             "sourceId": "0typpq",
             "capturedAt": "2026-08-25T14:42:46.424Z",
@@ -841,8 +841,8 @@
         {
           "title": "MNT Station - A modular, open hardware desktop computer and server",
           "url": "https://www.crowdsupply.com/mnt-research/mnt-station",
-          "summary": "MNT Station, kullanıcıların donanım bileşenlerini özgürce değiştirebildiği modüler ve açık kaynaklı bir masaüstü bilgisayar ile sunucu platformu. Donanım tasarımı şeffaflığına odaklanan bu sistem, kullanıcıların kendi ihtiyaçlarına göre yapılandırabileceği esnek bir bilgi işlem ortamı sunuyor.",
-          "meta": "21 oy · 12 yorum",
+          "summary": "MNT Station est une plateforme de serveur et d'ordinateur de bureau modulaire et open source où les utilisateurs peuvent changer librement les composants matériels. Axé sur la transparence de la conception matérielle, ce système offre un environnement informatique flexible que les utilisateurs peuvent configurer selon leurs propres besoins.",
+          "meta": "21 votes · 12 commentaires",
           "snapshot": {
             "sourceId": "jjspxh",
             "capturedAt": "2026-08-25T14:42:46.424Z",
@@ -878,8 +878,8 @@
         {
           "title": "An interactive introduction to the spanning tree protocol",
           "url": "https://vincent.bernat.ch/en/blog/2026-spanning-tree",
-          "summary": "Spanning Tree Protokolü (STP), ağ anahtarlarının (switch) döngü oluşturmasını engelleyerek yedekli bağlantılarda ağ trafiğini yöneten bir mekanizmadır. Vincent Bernat tarafından hazırlanan bu etkileşimli rehber, protokolün çalışma mantığını görselleştirmelerle adım adım açıklar.",
-          "meta": "12 oy · 3 yorum",
+          "summary": "Le protocole Spanning Tree (STP) est un mécanisme qui gère le trafic réseau sur les connexions redondantes en empêchant les commutateurs (switch) de créer des boucles. Ce guide interactif préparé par Vincent Bernat explique étape par étape la logique de fonctionnement du protocole avec des visualisations.",
+          "meta": "12 votes · 3 commentaires",
           "snapshot": {
             "sourceId": "ivr1bw",
             "capturedAt": "2026-08-25T14:42:46.424Z",
@@ -922,67 +922,67 @@
   "glossary": [
     {
       "term": "prompt as code",
-      "explanation": "Yapay zekaya verilen komutların, yazılım kodları gibi versiyonlanarak ve düzenli bir şekilde saklanması."
+      "explanation": "Le versionnage et le stockage régulier des commandes données à l'intelligence artificielle, à l'instar des codes logiciels."
     },
     {
       "term": "skills",
-      "explanation": "Yapay zeka modellerinin belirli bir görevi yerine getirmek için kullandığı özel yetenekler veya araçlar."
+      "explanation": "Capacités ou outils spécifiques utilisés par les modèles d'intelligence artificielle pour accomplir une tâche donnée."
     },
     {
       "term": "plugins",
-      "explanation": "Bir yazılımın mevcut özelliklerini genişletmek veya ona yeni işlevler eklemek için kullanılan küçük yardımcı programlar."
+      "explanation": "Petits utilitaires utilisés pour étendre les fonctionnalités existantes d'un logiciel ou pour lui ajouter de nouvelles fonctions."
     },
     {
       "term": "CV",
-      "explanation": "Bilgisayarların dijital görüntüleri ve videoları analiz ederek içindeki nesneleri veya durumları anlamasını sağlayan teknoloji."
+      "explanation": "Technologie permettant aux ordinateurs d'analyser des images numériques et des vidéos afin de comprendre les objets ou les situations qu'elles contiennent."
     },
     {
       "term": "local-first",
-      "explanation": "Verilerin internete ihtiyaç duymadan doğrudan kullanıcının kendi cihazında saklanmasını ve yönetilmesini öncelikleyen yazılım yaklaşımı."
+      "explanation": "Approche logicielle qui privilégie le stockage et la gestion des données directement sur l'appareil de l'utilisateur, sans nécessiter de connexion Internet."
     },
     {
       "term": "append-only log",
-      "explanation": "Üzerindeki eski verilerin değiştirilemediği, sadece yeni bilgilerin en sona eklenebildiği güvenli kayıt defteri."
+      "explanation": "Registre sécurisé où les anciennes données ne peuvent pas être modifiées, et où seules de nouvelles informations peuvent être ajoutées à la fin."
     },
     {
       "term": "multi-agent",
-      "explanation": "Birbirleriyle iletişim kurarak karmaşık bir görevi paylaşan birden fazla yapay zeka biriminin birlikte çalışması."
+      "explanation": "Collaboration de plusieurs unités d'intelligence artificielle communiquant entre elles pour partager une tâche complexe."
     },
     {
       "term": "large language models",
-      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zeka modelleri."
+      "explanation": "Modèles d'intelligence artificielle entraînés sur de très grandes quantités de données, capables de comprendre le langage humain et de générer du texte."
     },
     {
       "term": "personal knowledge management",
-      "explanation": "Kişinin öğrendiği bilgileri, fikirleri ve notları dijital araçlar kullanarak düzenli bir şekilde saklama ve geri çağırma yöntemi."
+      "explanation": "Méthode consistant à stocker et à récupérer de manière organisée les connaissances, idées et notes apprises par une personne à l'aide d'outils numériques."
     },
     {
       "term": "AI engineering",
-      "explanation": "Yapay zeka modellerini kullanarak gerçek dünya problemlerine çözüm üreten sistemler tasarlama ve geliştirme süreci."
+      "explanation": "Processus de conception et de développement de systèmes qui utilisent des modèles d'intelligence artificielle pour résoudre des problèmes du monde réel."
     },
     {
       "term": "AI agents",
-      "explanation": "Kendi başına karar verip hedefe ulaşmak için çeşitli araçları kullanarak görevleri yerine getiren otonom yazılımlar."
+      "explanation": "Logiciels autonomes capables de prendre leurs propres décisions et d'utiliser divers outils pour accomplir des tâches afin d'atteindre un objectif."
     },
     {
       "term": "AI agent",
-      "explanation": "Belirli bir hedef doğrultusunda çevresini algılayıp kendi kararlarıyla aksiyon alabilen akıllı yazılım birimi."
+      "explanation": "Unité logicielle intelligente capable de percevoir son environnement et d'agir selon ses propres décisions en vue d'un objectif spécifique."
     },
     {
       "term": "RAG",
-      "explanation": "Yapay zekanın cevap üretirken kendi hafızası yerine dışarıdaki güncel belgelerden bilgi çekmesini sağlayan yöntem."
+      "explanation": "Méthode permettant à l'intelligence artificielle d'extraire des informations de documents externes à jour plutôt que de se fier uniquement à sa propre mémoire lors de la génération de réponses."
     },
     {
       "term": "LLM",
-      "explanation": "Devasa miktarda metin verisini işleyerek insan gibi doğal cümleler kurabilen gelişmiş yapay zeka modeli."
+      "explanation": "Modèle d'intelligence artificielle avancé capable de construire des phrases naturelles comme un humain en traitant des quantités massives de données textuelles."
     },
     {
       "term": "coding agent",
-      "explanation": "Yazılımcının verdiği görevleri anlayıp kendi başına kod yazabilen, hata ayıklayabilen ve projeleri geliştirebilen yapay zeka."
+      "explanation": "Intelligence artificielle capable de comprendre les tâches confiées par le développeur, d'écrire du code de manière autonome, de déboguer et de développer des projets."
     },
     {
       "term": "foundation models",
-      "explanation": "Çok geniş veri setleriyle eğitilmiş, üzerine farklı birçok uygulama geliştirilebilen temel yapay zeka modelleri."
+      "explanation": "Modèles d'intelligence artificielle fondamentaux entraînés sur de très vastes ensembles de données, sur lesquels de nombreuses applications différentes peuvent être développées."
     }
   ]
 }
