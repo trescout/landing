@@ -11,26 +11,20 @@ TradingAgents es un marco basado en LLM de múltiples agentes desarrollado para 
 - Evalúa datos de mercado con el apoyo de múltiples modelos de inteligencia artificial.
 
 ## Instalación
-**Clonación del repositorio y configuración del entorno**
+****
 
 ```
 git clone https://github.com/TauricResearch/TradingAgents.git
 cd TradingAgents
-```
-
-**Instalación del paquete**
-
-```
 pip install .
 ```
 
 
 ## Ejecución
-**Uso de la línea de comando**
+****
 
 ```
-tradingagents          # installed command
-python -m cli.main     # alternative: run directly from source
+python -m cli.main
 ```
 
 

@@ -12,16 +12,10 @@ CopilotKit oferece uma pilha de front-end baseada em React e Angular para o dese
 - Ele permite a criação de fluxos de trabalho aprovados por humanos e agentes de autoaprendizagem.
 
 ## Instalação
-**Para novos projetos**
+****
 
 ```
-npx copilotkit@latest create -f <framework>
-```
-
-**Para projetos existentes**
-
-```
-npx copilotkit@latest init
+npm install @copilotkit/react-core
 ```
 
 

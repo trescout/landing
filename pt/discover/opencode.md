@@ -11,6 +11,14 @@ OpenCode é um agente de codificação de código aberto projetado para automati
 - Oferece modos especiais para revisão e planejamento de código
 - Fornece capacidade de pesquisa global para tarefas de várias etapas
 
+## Instalação
+****
+
+```
+npm install -g opencode
+```
+
+
 ## Se você não programa
 Gostaria que você analisasse os códigos do meu projeto de software atual usando a ferramenta OpenCode e ajudasse a automatizar os processos de desenvolvimento. Você pode desenvolver com acesso total durante o tempo de execução usando o agente de construção ou pode revisar os códigos e planejar alterações usando o agente de planejamento. Para pesquisas complexas ou tarefas de várias etapas, espero que você use @general.
 

@@ -7,6 +7,14 @@ Heretic es una herramienta técnica que elimina las restricciones de alineación
 - AGPL-3.0
 - GitHub Trending · 28 May 2026
 
+## Instalación
+****
+
+```
+git clone https://github.com/p-e-w/heretic.git
+```
+
+
 ## ¿Qué hace?
 - Elimina las restricciones en el modelo con la técnica de 'Abliteración'.
 - No requiere un reentrenamiento costoso.

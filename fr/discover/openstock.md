@@ -13,29 +13,29 @@ OpenStock est une alternative open source aux plateformes d'échange coûteuses.
 - Il fournit une analyse détaillée aux entreprises.
 - Cela élimine le besoin de plates-formes coûteuses.
 
-## Comment utiliser ?
-Vous pouvez utiliser le site prêt à l'emploi (openstock-ods.vercel.app) directement ou l'installer sur votre propre serveur.
-
-## Comment installer, comment utiliser ?
-**Cloner le référentiel**
+## Installation
+****
 
 ```
 git clone https://github.com/Open-Dev-Society/OpenStock.git
 cd OpenStock
-```
-
-**Installer les dépendances**
-
-```
 pnpm install
 ```
 
+
+## Exécution
 **Démarrer le serveur de développement**
 
 ```
 pnpm dev
 ```
 
+
+## Comment utiliser ?
+Vous pouvez utiliser le site prêt à l'emploi (openstock-ods.vercel.app) directement ou l'installer sur votre propre serveur.
+
+## Comment installer, comment utiliser ?
+Aidez-moi à installer une application open source de suivi des stocks appelée OpenStock ; Téléchargez le référentiel avec 'git clone https://github.com/Open-Dev-Society/OpenStock.git', 'cd OpenStock' et exécutez 'pnpm install', définissez les variables .env nécessaires et démarrez le serveur de développement avec 'pnpm dev' et ouvrez-le sur http://localhost:3000.
 
 ## Termes liés du glossaire
 

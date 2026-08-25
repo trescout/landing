@@ -12,8 +12,8 @@ Hermes WebUI est une interface qui vous permet de gérer les agents Hermes AI vi
 - Surveillez toutes les interactions à partir d’un point central.
 - Profitez de l'interface simple et conviviale.
 
-## Comment installer, comment utiliser ?
-**Cloner et exécuter le bootstrap**
+## Installation
+****
 
 ```
 git clone https://github.com/nesquena/hermes-webui.git hermes-webui
@@ -21,12 +21,17 @@ cd hermes-webui
 python3 bootstrap.py
 ```
 
-**Exécuter avec le script de démarrage**
+
+## Exécution
+****
 
 ```
 ./start.sh
 ```
 
+
+## Comment installer, comment utiliser ?
+Installez Hermes WebUI : téléchargez avec 'git clone https://github.com/nesquena/hermes-webui.git hermes-webui', entrez dans le répertoire et exécutez 'python3 bootstrap.py' ; Utilisez ensuite l'agent Hermes depuis l'interface du navigateur ouvert.
 
 ## Termes liés du glossaire
 

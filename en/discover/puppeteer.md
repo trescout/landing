@@ -17,6 +17,12 @@ Puppeteer is a browser automation library used to control Chrome and Firefox bro
 npm i puppeteer
 ```
 
+****
+
+```
+npm install puppeteer
+```
+
 
 ## If you don't write code
 You are a web automation expert. Using the Puppeteer library, create a simple JavaScript script that opens a web page, writes text in a specified field, and prints the results to the screen. Provide a code example that includes steps that launch the browser, create a new page, navigate to a URL, and print the page title to the console.

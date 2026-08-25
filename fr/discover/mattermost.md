@@ -11,10 +11,18 @@ Mattermost est une plateforme open source conçue pour permettre une collaborati
 - Augmente l’efficacité grâce à l’intégration de l’intelligence artificielle
 
 ## Installation
-**Docker (aperçu)**
+****
 
 ```
-docker run --name mattermost-preview -d --publish 8065:8065 mattermost/mattermost-preview
+docker run --name mattermost-preview -d --publish 127.0.0.1:8065:8065 mattermost/mattermost-preview
+```
+
+
+## Exécution
+****
+
+```
+http://localhost:8065
 ```
 
 

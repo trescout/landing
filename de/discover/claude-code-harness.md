@@ -12,32 +12,19 @@ Claude Code Harness führt die Disziplin des Planens, Ausführens, Überprüfens
 - Die Qualität wird durch die Einschränkung von Tests erhöht.
 - Es werden vorhersehbarere und konsistentere Ergebnisse erzielt.
 
+## Installation
+****
+
+```
+npm install -g claude-code-harness
+```
+
+
 ## So fangen Sie an
 Integriert in Claude Code mit Installation im Repository; Anschließend wird der Zyklus „Planen, Ausführen, Überprüfen“ umgesetzt.
 
 ## Wie installiere ich, wie verwende ich?
-**Claude Code · Marktplatz + Installation**
-
-```
-/plugin marketplace add Chachamaru127/claude-code-harness
-/plugin install claude-code-harness@claude-code-harness-marketplace
-```
-
-**Starten Sie die Installation**
-
-```
-/harness-setup
-```
-
-**Ablauf: Planen → Arbeiten → Überprüfen → Veröffentlichen**
-
-```
-/harness-plan
-/harness-work
-/harness-review
-/harness-release
-```
-
+Richten Sie diesen disziplinierten Workflow in Claude Code ein, indem Sie „/plugin marketplace add Chachamaru127/claude-code-harness“, dann „/plugin install claude-code-harness@claude-code-harness-marketplace“ und „/harness-setup“ ausführen und dann mit „/harness-plan“ beginnen.
 
 ## Verwandte Begriffe aus dem Glossar
 

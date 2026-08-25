@@ -13,16 +13,27 @@ Jellyfin ist ein kostenloser Medienserver, mit dem Sie Ihre eigene Film-, Fernse
 - Ihre Daten bleiben bei Ihnen und werden nicht an Dritte weitergegeben.
 - Eine Alternative zu Plex und Emby, die völlige Freiheit bietet.
 
-## Wie installiere ich?
-Docker wird auf einem Server oder NAS installiert. Die Installationsanleitung finden Sie unter jellyfin.org. Nach der Installation stellen Sie Ihre Medienordner vor.
-
-## Wie installiere ich, wie verwende ich?
-**Mit Docker ausführen**
+## Installation
+**mit Docker**
 
 ```
 docker run -d --name jellyfin -p 8096:8096 jellyfin/jellyfin
 ```
 
+
+## Ausführung
+****
+
+```
+http://localhost:8096
+```
+
+
+## Wie installiere ich?
+Docker wird auf einem Server oder NAS installiert. Die Installationsanleitung finden Sie unter jellyfin.org. Nach der Installation stellen Sie Ihre Medienordner vor.
+
+## Wie installiere ich, wie verwende ich?
+Ich möchte den Jellyfin-Medienserver installieren. Laden Sie die für mein Betriebssystem geeignete Version von der offiziellen Seite jellyfin.org/downloads herunter und installieren Sie sie, oder helfen Sie mir, sie mit dem Image „jellyfin/jellyfin“ auszuführen, wenn ich Docker verwende.
 
 ## Verwandte Begriffe aus dem Glossar
 

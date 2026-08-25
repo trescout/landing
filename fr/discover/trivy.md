@@ -11,11 +11,25 @@ Trivy est un outil d'analyse de sécurité complet qui détecte les vulnérabili
 - Vérifie les dépendances logicielles et les erreurs de configuration.
 - Empêche les fuites en analysant les clés privées et les informations sensibles.
 
-## Exécution
-**Analyse d'une image Python**
+## Installation
+**macOS (Homebrew)**
 
 ```
-trivy image python:3.4-alpine
+brew install trivy
+```
+
+**Fenêtres (winget)**
+
+```
+winget install AquaSecurity.Trivy
+```
+
+
+## Exécution
+****
+
+```
+trivy image imaj-adi:etiket
 ```
 
 

@@ -12,21 +12,18 @@ social-auto-upload es una herramienta de Python que carga automáticamente sus v
 - Automatización de procesos de distribución de contenidos.
 - Flujo de trabajo eficiente que ahorra tiempo.
 
+## Instalación
+**vía pip (PyPI)**
+
+```
+pip install social-auto-upload
+```
+
+
 ## nota de responsabilidad
 
 ## ¿Cómo instalar, cómo utilizar?
-**Iniciar sesión en una plataforma**
-
-```
-sau douyin login --account <hesap_adi>
-```
-
-**Subir vídeo**
-
-```
-sau douyin upload-video --account <hesap_adi> --file videos/demo.mp4 --title "Başlık" --desc "Açıklama"
-```
-
+Instale el repositorio de carga automática social (github.com/dreammis/social-auto-upload) y use su herramienta de línea de comando 'sau' para iniciar sesión primero en mi cuenta con 'sau douyin login', luego cargue automáticamente un video con título y descripción con el comando 'sau douyin upload-video'.
 
 ## Términos relacionados del glosario
 

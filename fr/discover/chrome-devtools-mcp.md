@@ -12,16 +12,10 @@ Développé pour Chrome DevTools, ce serveur permet aux agents de codage d'intel
 - Examiner les requêtes réseau et les erreurs de la console
 
 ## Installation
-**Installation avec Claude Code**
+****
 
 ```
-claude mcp add chrome-devtools --scope user npx chrome-devtools-mcp@latest
-```
-
-**Installation avec Codex**
-
-```
-codex mcp add chrome-devtools -- npx chrome-devtools-mcp@latest
+npm install -g chrome-devtools-mcp
 ```
 
 

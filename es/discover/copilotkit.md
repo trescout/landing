@@ -12,16 +12,10 @@ CopilotKit ofrece una pila de interfaz basada en React y Angular para desarrolla
 - Permite la creación de flujos de trabajo aprobados por humanos y agentes de autoaprendizaje.
 
 ## Instalación
-**Para nuevos proyectos**
+****
 
 ```
-npx copilotkit@latest create -f <framework>
-```
-
-**Para proyectos existentes**
-
-```
-npx copilotkit@latest init
+npm install @copilotkit/react-core
 ```
 
 

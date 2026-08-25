@@ -11,16 +11,24 @@ Desarrollado con el lenguaje Go, Restic ofrece un programa de copia de seguridad
 - Compatible con diferentes sistemas de almacenamiento local y en la nube
 
 ## Instalación
-**macOS (hecho en casa)**
+****
 
 ```
 brew install restic
 ```
 
-**Debian/Ubuntu**
+****
 
 ```
-apt install restic
+winget install restic.restic
+```
+
+
+## Ejecución
+****
+
+```
+restic init --repo /path/to/repo
 ```
 
 

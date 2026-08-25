@@ -7,6 +7,14 @@ Heretic ist ein technisches Tool, das Einschränkungen bei der Sicherheitsausric
 - AGPL-3.0
 - GitHub Trending · 28 May 2026
 
+## Installation
+****
+
+```
+git clone https://github.com/p-e-w/heretic.git
+```
+
+
 ## Was macht es?
 - Mit der „Abliteration“-Technik werden die Einschränkungen im Modell entfernt.
 - Erfordert keine teure Umschulung.

@@ -24,6 +24,14 @@ winget install GoLang.Go
 ```
 
 
+## Ausführung
+**Version überprüfen**
+
+```
+go version
+```
+
+
 ## Wenn Sie nicht programmieren
 Ich möchte mit der Programmiersprache Go einfache, zuverlässige und effiziente Software entwickeln. Erklären Sie einem unerfahrenen Entwickler die grundlegende Syntax dieser Sprache, ihr Parallelitätsmanagement und wie sie in modernen Cloud-Computing-Projekten verwendet wird.
 

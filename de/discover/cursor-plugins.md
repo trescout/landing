@@ -12,6 +12,14 @@ Cursor-Plugins; Es enthält die offizielle Plugin-Spezifikation und vorgefertigt
 - Bietet Aufwärtskompatibilität dank seiner offiziellen Spezifikationsstruktur.
 - Sie können Ihre eigenen Lösungen entwickeln, indem Sie sich von vorgefertigten Plugins inspirieren lassen.
 
+## Installation
+****
+
+```
+git clone https://github.com/cursor-plugins/cursor-plugins.git
+```
+
+
 ## Wie nutzt man es mit KI?
 Helfen Sie mir, die offiziellen Cursor-Plugins aus diesem Repository (z. B. Plugins, die Codeüberprüfungen oder Sicherheitsüberprüfungen durchführen) vom Cursor-Plugin-Markt für das Projekt, an dem ich arbeite, im Cursor-Editor zu installieren, und erklären Sie Schritt für Schritt, wie Sie sie verwenden.
 

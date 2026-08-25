@@ -12,13 +12,16 @@ Scrapling est un framework de web scraping adaptable qui peut gérer l'évolutio
 - Adaptation automatique aux changements de pages.
 - Structure rapide et open source.
 
-## Installation (commande unique)
-**Python (pépin)**
+## Installation
+**via pip (PyPI)**
 
 ```
 pip install scrapling
 ```
 
+
+## Installation (commande unique)
+Aidez-moi à installer la bibliothèque de scraping Web open source appelée Scrapling ; Installez-le avec 'pip install "scrapling[fetchers]"' et exécutez la commande 'scrapling install', puis extrayons le contenu d'une page Web dans un fichier Markdown avec la commande 'scrapling extract get https://example.com content.md'.
 
 ## Termes liés du glossaire
 

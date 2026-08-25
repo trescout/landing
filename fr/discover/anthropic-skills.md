@@ -1,6 +1,6 @@
 # Développer des compétences dynamiques pour Claude
 
-Compétences anthropiques ; Il s'agit du référentiel officiel des packs de compétences que Claude charge dynamiquement pour mieux performer dans des missions spécifiques. Ces dossiers d'instructions, de scripts et de ressources apprennent à Claude comment effectuer certaines tâches.
+Compétences anthropiques ; Il s'agit du référentiel officiel des packs de compétences que Claude charge dynamiquement pour mieux performer dans des missions spécifiques. Ces dossiers d'instructions, de scripts et de ressources apprennent à Claude comment effectuer certaines tâches.
 
 - ★ 165 785
 - Python
@@ -12,22 +12,20 @@ Compétences anthropiques ; Il s'agit du référentiel officiel des packs de co
 - Chargement dynamique : n’intervient que lorsque cela est nécessaire.
 - Entièrement conforme à la norme de compétences des agents.
 
+## Installation
+****
+
+```
+/plugin marketplace add anthropics/skills
+/plugin install document-skills@anthropic-agent-skills
+```
+
+
 ## Comment utiliser ?
 Vous définissez la compétence pertinente comme une compétence pour Claude (ex. Claude Code ou Cowork) ; De cette façon, vos performances dans des tâches spéciales augmentent.
 
 ## Comment installer, comment utiliser ?
-**Ajouter une place de marché (Claude Code)**
-
-```
-/plugin marketplace add anthropics/skills
-```
-
-**Développez vos compétences documentaires**
-
-```
-/plugin install document-skills@anthropic-agent-skills
-```
-
+Dans Claude Code, ajoutez le référentiel de compétences d'Anthropic en tant que marketplace avec la commande '/plugin marketplace add anthropics/skills', puis installez document skills avec '/plugin install document-skills@anthropic-agent-skills' ; Demandez-lui ensuite d'utiliser la compétence pertinente pour extraire les champs d'un formulaire d'un PDF, par exemple.
 
 ## Termes liés du glossaire
 

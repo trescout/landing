@@ -12,19 +12,24 @@ Supermemory propose un moteur de mémoire et une API hautement évolutifs conçu
 - Prise en charge de l'architecture évolutive.
 - Intégration facile via API.
 
-## Comment installer, comment utiliser ?
-**Installer le SDK (Node ou Python)**
+## Installation
+****
 
 ```
-npm install supermemory    # ya da: pip install supermemory
+npm install supermemory
 ```
 
-**Connectez le serveur MCP au client AI**
+
+## Exécution
+****
 
 ```
 npx -y install-mcp@latest https://mcp.supermemory.ai/mcp --client claude --oauth=yes
 ```
 
+
+## Comment installer, comment utiliser ?
+Installez supermemory pour ajouter de la mémoire persistante à mon assistant IA : Connectez le serveur MCP à Claude avec la commande 'npx -y install-mcp@latest https://mcp.supermemory.ai/mcp --client claude --oauth=yes' et vérifiez qu'il fonctionne.
 
 ## Termes liés du glossaire
 

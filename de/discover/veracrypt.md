@@ -18,6 +18,12 @@ VeraCrypt ist ein Festplattenverschlüsselungstool, das auf TrueCrypt basiert un
 brew install --cask veracrypt
 ```
 
+**Windows (Winget)**
+
+```
+winget install IDRIX.VeraCrypt
+```
+
 
 ## So fangen Sie an
 - Offizielle Quelle →

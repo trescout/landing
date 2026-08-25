@@ -73,37 +73,8 @@
 <ul class="disc-meta"><li>★ 31.598</li><li>Jupyter Notebook</li><li>GitHub Trending · 2026-06-04</li></ul>
       <section class="disc-sec"><h2>Güncelleme</h2><ul class="disc-wins"><li><strong>19 Ağustos 2026:</strong> Yıldız 30.796 → 31.598, son sürüm v3.2.0 (18 Ağustos 2026).</li><li><strong>12 Ağustos 2026:</strong> Yıldız 29.265 → 30.796, son sürüm v3.1.0 (29 Temmuz 2026).</li><li><strong>6 Ağustos 2026:</strong> Yıldız 27.522 → 29.265, son sürüm v3.1.0 (29 Temmuz 2026).</li><li><strong>4 Ağustos 2026:</strong> Yıldız 25.416 → 27.522, son sürüm v3.1.0 (29 Temmuz 2026).</li></ul></section>
       <section class="disc-sec"><h2>Ne kazandırır?</h2><ul class="disc-wins"><li>70B parametreli modelleri 4GB VRAM ile çalıştırma imkanı.</li><li>405B Llama3.1 modellerini 8GB VRAM üzerinde kullanabilme.</li><li>Blok tabanlı sıkıştırma ile 3 kata kadar hız artışı.</li></ul></section>
-      <section class="disc-sec"><h2>Kurulum</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Paket kurulumu</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>pip install airllm</code></pre></div></section>
-      <section class="disc-sec"><h2>Çalıştırma</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Modeli yükleme ve çalıştırma</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>from airllm import AutoModel
-
-MAX_LENGTH = 128
-# could use hugging face model repo id:
-model = AutoModel.from_pretrained(&quot;garage-bAInd/Platypus2-70B-instruct&quot;)
-
-# or use model&#x27;s local path...
-#model = AutoModel.from_pretrained(&quot;/home/ubuntu/.cache/huggingface/hub/models--garage-bAInd--Platypus2-70B-instruct/snapshots/b585e74bcaae02e52665d9ac6d23f4d0dbc81a0f&quot;)
-
-input_text = [
-        &#x27;What is the capital of United States?&#x27;,
-        #&#x27;I like&#x27;,
-    ]
-
-input_tokens = model.tokenizer(input_text,
-    return_tensors=&quot;pt&quot;, 
-    return_attention_mask=False, 
-    truncation=True, 
-    max_length=MAX_LENGTH, 
-    padding=False)
-           
-generation_output = model.generate(
-    input_tokens[&#x27;input_ids&#x27;].cuda(), 
-    max_new_tokens=20,
-    use_cache=True,
-    return_dict_in_generate=True)
-
-output = model.tokenizer.decode(generation_output.sequences[0])
-
-print(output)</code></pre></div></section>
+      <section class="disc-sec"><h2>Kurulum</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>pip ile (PyPI)</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>pip install airllm</code></pre></div></section>
+      <p class="disc-note"><strong>Kaynak:</strong> Resmî kaynak: https://github.com/lyogavin/airllm</p>
       <section class="disc-sec"><h2>Kod bilmiyorsanız</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın</span><button type="button" class="disc-copy" aria-label="İstemi kopyala">Kopyala</button></div><p class="disc-ai-text">AirLLM kütüphanesini kullanarak 70B parametreli bir modeli düşük VRAM kapasitesine sahip ekran kartımda çalıştırmak istiyorum. Kurulum için pip install airllm komutunu kullandım. Modelimi yüklemek ve basit bir metin girdisiyle çıktı almak için gerekli olan Python kod yapısını, AutoModel sınıfını kullanarak nasıl oluşturabilirim? İşlem sırasında disk alanımın yeterli olduğundan emin olmam gerektiğini biliyorum, süreci başlatmak için izlemem gereken temel adımları açıklar mısın?</p></div></section>
       <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Kimin için</span><span class="disc-fact-v">Sınırlı donanım kaynaklarına sahip olup yüksek kapasiteli büyük dil modellerini yerel olarak çalıştırmak isteyen kullanıcılar içindir.</span></div><div class="disc-fact"><span class="disc-fact-k">Lisans</span><span class="disc-fact-v">Apache-2.0</span></div></div>
       

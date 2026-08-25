@@ -11,11 +11,25 @@ Trivy ist ein umfassendes Sicherheitsscan-Tool, das Schwachstellen, Fehlkonfigur
 - Prüft auf Softwareabhängigkeiten und Fehlkonfigurationen.
 - Verhindert Lecks durch das Scannen privater Schlüssel und vertraulicher Informationen.
 
-## Ausführung
-**Scannen eines Python-Bildes**
+## Installation
+**macOS (Homebrew)**
 
 ```
-trivy image python:3.4-alpine
+brew install trivy
+```
+
+**Windows (Winget)**
+
+```
+winget install AquaSecurity.Trivy
+```
+
+
+## Ausführung
+****
+
+```
+trivy image imaj-adi:etiket
 ```
 
 

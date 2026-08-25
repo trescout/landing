@@ -12,24 +12,31 @@ Rocket.Chat offers a secure communications operating system designed for mission
 - Broad integration and application support
 
 ## Installation
-**Linux · Snap package (publisher of Rocket.Chat)**
+****
 
 ```
-sudo snap install rocketchat-server
+git clone --depth 1 https://github.com/RocketChat/rocketchat-compose.git
 ```
 
-**Docker official compose repository**
+****
 
 ```
-git clone --depth 1 https://github.com/RocketChat/rocketchat-compose.git && cd rocketchat-compose && cp .env.example .env
+cd rocketchat-compose
+cp .env.example .env
+```
+
+****
+
+```
+docker compose -f compose.database.yml -f compose.yml -f compose.nats.yml up -d
 ```
 
 
 ## Running it
-**Launch with Docker**
+****
 
 ```
-docker compose -f compose.database.yml -f compose.yml -f compose.nats.yml -f docker.yml up -d
+http://localhost:3000
 ```
 
 

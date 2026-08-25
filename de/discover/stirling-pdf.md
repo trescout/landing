@@ -12,15 +12,15 @@ Stirling-PDF ist ein Open-Source-Dokumentverarbeitungstool, mit dem Benutzer PDF
 - Einfacher Zugriff über Browser oder Desktop
 
 ## Installation
-**Schnelle Installation mit Docker**
+****
 
 ```
-docker run -p 8080:8080 docker.stirlingpdf.com/stirlingtools/stirling-pdf
+docker run -d --name stirling-pdf -p 127.0.0.1:8080:8080 -v ./stirling-data:/configs --restart unless-stopped docker.stirlingpdf.com/stirlingtools/stirling-pdf:latest
 ```
 
 
 ## Ausführung
-**Zugriff auf die Schnittstelle**
+****
 
 ```
 http://localhost:8080

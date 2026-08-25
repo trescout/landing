@@ -23,6 +23,7 @@
 <meta property="og:image" content="https://trescout.com/assets/discover/og/ppf-contact-solver-fr.webp">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="PPF Contact Solver">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="PPF Contact Solver">
@@ -56,8 +57,6 @@
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
-
-<meta property="og:image:alt" content="PPF Contact Solver">
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
@@ -70,12 +69,10 @@
 <p class="disc-lead">PPF Contact Solver, en tant que moteur physique de ZOZO, est conçu pour résoudre les contacts entre le tissu, le solide et la corde dans des simulations basées sur la physique. Il augmente la cohérence physique des simulations en calculant l&#39;interaction de différentes géométries. Il peut également être exécuté à distance grâce au plug-in Blender.</p>
 <ul class="disc-meta"><li>★ 4 427</li><li>Python</li><li>Apache-2.0</li><li>GitHub Trending · 26 May 2026</li></ul>
       <section class="disc-sec disc-updates"><h2>Mises à jour</h2><ul class="disc-update-list"><li><strong>15 août 2026:</strong> Étoiles 4,404 → 4,427, dernière version addon-2026-08-12-1733 (12 août 2026).</li><li><strong>7 août 2026:</strong> Étoiles 4,380 → 4,404, dernière version addon-2026-08-08-0540 (7 août 2026).</li><li><strong>3 août 2026:</strong> Étoiles 4,378 → 4,380, dernière version addon-2026-08-03-0714 (2 août 2026).</li><li><strong>2 août 2026:</strong> Étoiles 3,389 → 4,378, dernière version addon-2026-07-27-0038 (26 juillet 2026).</li></ul></section>
-      <figure class="disc-shot"><img src="/assets/discover/ppf-contact-solver.webp" width="1440" height="483" loading="lazy" decoding="async" alt="Une vue de l&#39;interface PPF Contact Solver"><figcaption>Görsel: ppf-contact-solver · ZOZO (proje deposundan)</figcaption></figure>
+      <section class="disc-sec"><h2>Installation</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Démarrer le conteneur GPU</span><button type="button" class="disc-copy" aria-label="Copier la commande">Copier</button></div><pre><code>docker run --rm -it --name ppf-contact-solver --gpus all -p 127.0.0.1:8080:8080 -p 127.0.0.1:9090:9090 -e WEB_PORT=8080 ghcr.io/st-tech/ppf-contact-solver-compiled:latest</code></pre></div></section>
       <section class="disc-sec"><h2>Qu&#39;est-ce que ça fait ?</h2><ul class="disc-wins"><li>Il effectue des simulations réalistes de tissus, d&#39;objets solides et de cordes.</li><li>Augmente la cohérence physique dans les simulations.</li><li>Il peut être piloté à distance via Blender.</li><li>Il s&#39;agit d&#39;une solution axée sur la recherche (le propre moteur physique de ZOZO).</li></ul></section>
       <section class="disc-sec"><h2>À qui ne convient-il pas ?</h2><p>Ce n&#39;est pas une application pour utilisateur final. Des connaissances en programmation et en simulation physique sont requises pour pouvoir les utiliser ; Il fait davantage appel au domaine du graphisme/recherche.</p></section>
-      <section class="disc-sec"><h2>Comment installer, comment utiliser ?</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Copier l'invite">Copier</button></div><p class="disc-ai-text">Exécutez le solveur de contacts physiques ppf-contact-solver de ZOZO avec Docker (GPU NVIDIA requis) : exécutez la commande docker suivante, puis ouvrez http://localhost:8080 dans le navigateur et essayez les exemples JupyterLab prêts à l&#39;emploi.</p></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Lancement avec Docker (GPU NVIDIA requis)</span><button type="button" class="disc-copy" aria-label="Copier la commande">Copier</button></div><pre><code>docker run --rm -it --name ppf-contact-solver --gpus all \
-  -p 8080:8080 -p 9090:9090 -e WEB_PORT=8080 \
-  ghcr.io/st-tech/ppf-contact-solver-compiled:latest</code></pre></div></section>
+      <section class="disc-sec"><h2>Comment installer, comment utiliser ?</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Copier l'invite">Copier</button></div><p class="disc-ai-text">Exécutez le solveur de contacts physiques ppf-contact-solver de ZOZO avec Docker (GPU NVIDIA requis) : exécutez la commande docker suivante, puis ouvrez http://localhost:8080 dans le navigateur et essayez les exemples JupyterLab prêts à l&#39;emploi.</p></div></section>
       <section class="disc-sec"><h2>Termes liés du glossaire</h2><div class="disc-related"><a href="/fr/dictionary/gpu/">GPU</a><a href="/fr/dictionary/open-source/">Open Source</a><a href="/fr/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
       <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Pour qui</span><span class="disc-fact-v">Utilisateurs techniques, chercheurs qui effectuent des simulations graphiques/physiques</span></div><div class="disc-fact"><span class="disc-fact-k">Difficulté</span><span class="disc-fact-v">Axé sur la technique avancée/la recherche</span></div><div class="disc-fact"><span class="disc-fact-k">Quelles offres</span><span class="disc-fact-v">Solution de contact tissu/solide/corde</span></div><div class="disc-fact"><span class="disc-fact-k">Ça marche</span><span class="disc-fact-v">Plugin Python + Blender</span></div><div class="disc-fact"><span class="disc-fact-k">Frais</span><span class="disc-fact-v">Gratuit · open source (Apache-2.0)</span></div></div>
       <div class="disc-note"><strong>Licence:</strong> Apache-2.0 · vous pouvez l&#39;utiliser librement, le modifier, en faire un usage commercial (inclut également la protection par brevet).</div>

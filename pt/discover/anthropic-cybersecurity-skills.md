@@ -13,16 +13,19 @@
 - 26 áreas de segurança diferentes, desde análise forense até segurança na nuvem.
 - Ele pode ser usado em mais de 20 plataformas de IA sem estar vinculado a uma única ferramenta.
 
+## Instalação
+****
+
+```
+git clone https://github.com/mukul975/Anthropic-Cybersecurity-Skills.git
+```
+
+
 ## Como começar
 Empacotado no padrão agentskills.io; Você pode adicioná-lo como uma habilidade ao seu assistente de IA. As etapas de início rápido estão disponíveis no repositório. Valide cada recurso em seu contexto antes da produção.
 
 ## Como instalar, como usar?
-**adicionar com npx (recomendado)**
-
-```
-npx skills add mukul975/Anthropic-Cybersecurity-Skills
-```
-
+Adicione esta biblioteca comunitária de habilidades de segurança cibernética ao Claude Code executando 'npx skills add mukul975/Anthropic-Cybersecurity-Skills' no terminal (observe que este não é o projeto oficial da Anthropic) e liste quais habilidades de segurança estão prontas para uso.
 
 ## Termos relacionados do glossário
 

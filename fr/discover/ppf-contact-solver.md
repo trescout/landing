@@ -7,6 +7,14 @@ PPF Contact Solver, en tant que moteur physique de ZOZO, est conçu pour résoud
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
+## Installation
+****
+
+```
+docker run --rm -it --name ppf-contact-solver --gpus all -p 127.0.0.1:8080:8080 -p 127.0.0.1:9090:9090 -e WEB_PORT=8080 ghcr.io/st-tech/ppf-contact-solver-compiled:latest
+```
+
+
 ## Qu'est-ce que ça fait ?
 - Il effectue des simulations réalistes de tissus, d'objets solides et de cordes.
 - Augmente la cohérence physique dans les simulations.
@@ -17,14 +25,7 @@ PPF Contact Solver, en tant que moteur physique de ZOZO, est conçu pour résoud
 Ce n'est pas une application pour utilisateur final. Des connaissances en programmation et en simulation physique sont requises pour pouvoir les utiliser ; Il fait davantage appel au domaine du graphisme/recherche.
 
 ## Comment installer, comment utiliser ?
-**Lancement avec Docker (GPU NVIDIA requis)**
-
-```
-docker run --rm -it --name ppf-contact-solver --gpus all \
-  -p 8080:8080 -p 9090:9090 -e WEB_PORT=8080 \
-  ghcr.io/st-tech/ppf-contact-solver-compiled:latest
-```
-
+Exécutez le solveur de contacts physiques ppf-contact-solver de ZOZO avec Docker (GPU NVIDIA requis) : exécutez la commande docker suivante, puis ouvrez http://localhost:8080 dans le navigateur et essayez les exemples JupyterLab prêts à l'emploi.
 
 ## Termes liés du glossaire
 

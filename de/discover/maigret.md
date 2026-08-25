@@ -12,25 +12,18 @@ Maigret durchsucht mehr als 3000 Websites anhand von Benutzernamen und erstellt 
 - Es visualisiert die gewonnenen Daten und stellt Berichte bereit.
 
 ## Installation
-**Installation mit Python**
+****
 
 ```
 pip install maigret
-maigret YOUR_USERNAME
-```
-
-**Installation mit Docker**
-
-```
-docker pull soxoj/maigret
 ```
 
 
 ## Ausführung
-**einfache Suche**
+****
 
 ```
-maigret username
+maigret kullanici-adi
 ```
 
 

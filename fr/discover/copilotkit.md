@@ -12,16 +12,10 @@ CopilotKit propose une pile frontale basée sur React et Angular pour développe
 - Il permet la création de flux de travail approuvés par l'homme et d'agents d'auto-apprentissage.
 
 ## Installation
-**Pour les nouveaux projets**
+****
 
 ```
-npx copilotkit@latest create -f <framework>
-```
-
-**Pour les projets existants**
-
-```
-npx copilotkit@latest init
+npm install @copilotkit/react-core
 ```
 
 

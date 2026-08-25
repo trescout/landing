@@ -23,6 +23,12 @@ cargo add iroh
 cargo install iroh
 ```
 
+**macOS (Homebrew)**
+
+```
+brew install nogo/tap/iroh
+```
+
 
 ## Exécution
 **Afficher l'ID du nœud (CLI)**

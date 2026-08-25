@@ -1,6 +1,6 @@
 # Compétences en cybersécurité pour l'IA
 
-754 compétences prêtes à l'emploi en matière de cybersécurité développées pour les agents d'intelligence artificielle ; Il couvre 26 domaines de sécurité différents et est mappé sur 5 frameworks principaux tels que MITRE ATT&CK, NIST CSF, MITRE ATLAS. Claude Code fonctionne sur plus de 20 plateformes telles que GitHub Copilot, Codex, Cursor et Gemini CLI. (Malgré son nom, il ne s'agit pas d'un projet officiel d'Anthropic, mais d'un effort communautaire indépendant.)
+754 compétences prêtes à l'emploi en matière de cybersécurité développées pour les agents d'intelligence artificielle ; Il couvre 26 domaines de sécurité différents et est mappé sur 5 frameworks principaux tels que MITRE ATT&CK, NIST CSF, MITRE ATLAS. Claude Code fonctionne sur plus de 20 plateformes telles que GitHub Copilot, Codex, Cursor et Gemini CLI. (Malgré son nom, il ne s'agit pas d'un projet officiel d'Anthropic, mais d'un effort communautaire indépendant.)
 
 - ★ 30 300
 - Python
@@ -13,16 +13,19 @@
 - 26 domaines de sécurité différents, de l'analyse médico-légale à la sécurité du cloud.
 - Il peut être utilisé sur plus de 20 plateformes d’IA sans être lié à un seul outil.
 
+## Installation
+****
+
+```
+git clone https://github.com/mukul975/Anthropic-Cybersecurity-Skills.git
+```
+
+
 ## Pour commencer
 Emballé dans la norme agentskills.io ; Vous pouvez l'ajouter en tant que compétence à votre assistant IA. Les étapes de démarrage rapide sont disponibles dans le référentiel. Validez chaque fonctionnalité dans votre contexte avant la production.
 
 ## Comment installer, comment utiliser ?
-**ajouter avec npx (recommandé)**
-
-```
-npx skills add mukul975/Anthropic-Cybersecurity-Skills
-```
-
+Ajoutez cette bibliothèque communautaire de compétences en cybersécurité à Claude Code en exécutant « npx skills add mukul975/Anthropic-Cybersecurity-Skills » dans le terminal (notez qu'il ne s'agit pas du projet officiel d'Anthropic), puis indiquez-moi quelles compétences de sécurité sont prêtes à être utilisées.
 
 ## Termes liés du glossaire
 

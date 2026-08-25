@@ -12,25 +12,18 @@ Maigret verifica mais de 3.000 sites com base em nomes de usuário e cria um dos
 - Visualiza os dados obtidos e fornece relatórios.
 
 ## Instalação
-**Instalação com Python**
+****
 
 ```
 pip install maigret
-maigret YOUR_USERNAME
-```
-
-**Instalação com Docker**
-
-```
-docker pull soxoj/maigret
 ```
 
 
 ## Execução
-**pesquisa básica**
+****
 
 ```
-maigret username
+maigret kullanici-adi
 ```
 
 

@@ -23,6 +23,7 @@
 <meta property="og:image" content="https://trescout.com/assets/discover/og/keycloak-fr.webp">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Keycloak">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Keycloak">
@@ -56,8 +57,6 @@
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
-
-<meta property="og:image:alt" content="Keycloak">
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
@@ -71,8 +70,8 @@
 <ul class="disc-meta"><li>★ 36 268</li><li>Java</li><li>GitHub Trending · 2026-06-28</li></ul>
       <section class="disc-sec disc-updates"><h2>Mises à jour</h2><ul class="disc-update-list"><li><strong>19 août 2026:</strong> Étoiles 36,028 → 36,268, dernière version 26.7.2 (19 août 2026).</li><li><strong>6 août 2026:</strong> Étoiles 35,953 → 36,028, dernière version 26.7.1 (5 août 2026).</li><li><strong>2 août 2026:</strong> Étoiles 35,354 → 35,953, dernière version 26.7.0 (9 juillet 2026).</li></ul></section>
       <section class="disc-sec"><h2>Ce que ça vous apporte</h2><ul class="disc-wins"><li>Standardise les processus d’authentification des utilisateurs.</li><li>Fournit une gestion et une autorisation solides des identités.</li><li>Augmente sans effort la sécurité des applications.</li></ul></section>
-      <section class="disc-sec"><h2>Installation</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Prenez l&#39;image officielle</span><button type="button" class="disc-copy" aria-label="Copier la commande">Copier</button></div><pre><code>docker pull quay.io/keycloak/keycloak</code></pre></div></section>
-      <section class="disc-sec"><h2>Exécution</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Démarrer en mode développement</span><button type="button" class="disc-copy" aria-label="Copier la commande">Copier</button></div><pre><code>docker run -p 8080:8080 -e KC_BOOTSTRAP_ADMIN_USERNAME=admin -e KC_BOOTSTRAP_ADMIN_PASSWORD=admin quay.io/keycloak/keycloak start-dev</code></pre></div></section>
+      <section class="disc-sec"><h2>Installation</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Démarrer le conteneur de développement local</span><button type="button" class="disc-copy" aria-label="Copier la commande">Copier</button></div><pre><code>docker run --name keycloak -p 127.0.0.1:8080:8080 -e KC_BOOTSTRAP_ADMIN_USERNAME=admin -e KC_BOOTSTRAP_ADMIN_PASSWORD=change_me quay.io/keycloak/keycloak:latest start-dev</code></pre></div></section>
+      <section class="disc-sec"><h2>Exécution</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Accéder à l&#39;interface locale</span><button type="button" class="disc-copy" aria-label="Copier la commande">Copier</button></div><pre><code>http://localhost:8080</code></pre></div></section>
       <section class="disc-sec"><h2>Pour commencer</h2><ul class="disc-links"><li>Source officielle →</li></ul></section>
       <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Pour qui</span><span class="disc-fact-v">Il s&#39;adresse aux développeurs de logiciels et aux administrateurs système qui souhaitent gérer de manière centralisée et sécurisée les processus d&#39;authentification des utilisateurs et de gestion des accès dans leurs applications.</span></div><div class="disc-fact"><span class="disc-fact-k">Licence</span><span class="disc-fact-v">Apache-2.0</span></div></div>
       <section class="disc-sec"><h2>Liens</h2><ul class="disc-links"><li><a href="https://www.keycloak.org" target="_blank" rel="noopener">Dépôt GitHub →</a></li><li><a href="https://trescout.com/discover/keycloak/">Lire en turc →</a></li></ul></section>

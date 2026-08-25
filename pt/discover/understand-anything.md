@@ -7,6 +7,23 @@ Você tem uma base de código de 200.000 linhas ou um enorme arquivo de document
 - MIT
 - GitHub Trending · 26 May 2026
 
+## Instalação
+****
+
+```
+/plugin marketplace add Lum1104/Understand-Anything
+/plugin install understand-anything
+```
+
+
+## Execução
+****
+
+```
+/understand
+```
+
+
 ## O que você ganha
 - Você pode resolver um projeto com o qual não está familiarizado em minutos.
 - Você pode produzir conteúdo instantaneamente com o comando “Preparar um guia para iniciantes”.
@@ -22,19 +39,7 @@ Você tem uma base de código de 200.000 linhas ou um enorme arquivo de document
 O que este projeto faz e onde devo procurar para fazer alterações?
 
 ## Experimente em 2 minutos
-**Código Claude**
-
-```
-/plugin marketplace add Lum1104/Understand-Anything
-/plugin install understand-anything
-```
-
-**Codex · Antigravidade · Gemini CLI · Cursor…**
-
-```
-curl -fsSL https://raw.githubusercontent.com/Lum1104/Understand-Anything/main/install.sh | bash
-```
-
+Instale o plugin Understanding Anything no Claude Code com os comandos '/plugin marketplace add Lum1104/Understand-Anything' e '/plugin install Understanding-anything', depois no meu projeto execute '/understand' para analisar a base de código e abrir o painel interativo do gráfico de conhecimento com '/understand-dashboard'.
 
 ## Por que isso está na agenda?
 Porque está no centro da tendência de “compreender o código e as informações perguntando à IA”. Além de ser um aplicativo independente, ele está incluído como um complemento aos assistentes que você usa (como Claude Code, Codex, Gemini CLI). O fato de ter sido estrelado por mais de 4.700 desenvolvedores em um dia é uma prova do intenso interesse que recebeu.

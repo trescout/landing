@@ -12,28 +12,33 @@ MoneyPrinterTurbo produz automaticamente vídeos curtos usando modelos de lingua
 - É fácil de usar graças à sua interface web.
 - Ele permite a produção de vídeos em lote e múltiplos.
 
-## nota honesta
-
-## Como instalar, como usar?
-**Clonar repositório**
+## Instalação
+****
 
 ```
 git clone https://github.com/harry0703/MoneyPrinterTurbo.git
-```
-
-**Lançar com Docker**
-
-```
 cd MoneyPrinterTurbo
+```
+
+
+## Execução
+****
+
+```
 docker-compose up
 ```
 
-**Execute a interface web (com uv)**
+****
 
 ```
 uv run streamlit run ./webui/Main.py --browser.gatherUsageStats=False
 ```
 
+
+## nota honesta
+
+## Como instalar, como usar?
+Instale e execute MoneyPrinterTurbo: Baixe o repositório com 'git clone https://github.com/harry0703/MoneyPrinterTurbo.git', entre no diretório e inicie-o com o comando 'docker-compose up' e abra a interface web do navegador em http://127.0.0.1:8501.
 
 ## Termos relacionados do glossário
 

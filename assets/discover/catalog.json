@@ -30,7 +30,22 @@
     "tagline_pt": "Torne seus códigos ou documentos interativos com inteligência artificial.",
     "tagline_es": "Haz que tus códigos o documentos sean interactivos con inteligencia artificial.",
     "tagline_de": "Machen Sie Ihre Codes oder Dokumente mit künstlicher Intelligenz interaktiv.",
-    "last_seen": "2026-05-29"
+    "last_seen": "2026-05-29",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Claude Code eklentisi ekle",
+          "komut": "/plugin marketplace add Lum1104/Understand-Anything\n/plugin install understand-anything"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Kod tabanını analiz et",
+          "komut": "/understand"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/Lum1104/Understand-Anything"
+    }
   },
   {
     "slug": "ecc",
@@ -61,7 +76,22 @@
     "tagline_pt": "Adicione uma camada de habilidade, memória e segurança a agentes de IA como Claude Code, Codex e Cursor.",
     "tagline_es": "Agregue una capa de habilidad, memoria y seguridad a agentes de IA como Claude Code, Codex y Cursor.",
     "tagline_de": "Fügen Sie KI-Agenten wie Claude Code, Codex und Cursor eine Ebene an Fähigkeiten, Speicher und Sicherheit hinzu.",
-    "last_seen": "2026-08-24"
+    "last_seen": "2026-08-24",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Claude Code ile eklenti ekle",
+          "komut": "/plugin marketplace add https://github.com/affaan-m/ECC\n/plugin install ecc@ecc"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Güvenlik taraması çalıştır",
+          "komut": "/security-scan"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/affaan-m/ECC"
+    }
   },
   {
     "slug": "ai-engineering-from-scratch",
@@ -129,7 +159,22 @@
     "tagline_pt": "Plug-ins de código aberto que transformam Claude em um assistente especialista.",
     "tagline_es": "Complementos de código abierto que convierten a Claude en un asistente experto.",
     "tagline_de": "Open-Source-Plugins, die Claude zu einem Expertenassistenten machen.",
-    "last_seen": "2026-05-28"
+    "last_seen": "2026-05-28",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Claude Code marketplace’ini ekle",
+          "komut": "claude plugin marketplace add anthropics/knowledge-work-plugins\nclaude plugin install sales@knowledge-work-plugins"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Satış hazırlık akışını çalıştır",
+          "komut": "/sales:call-prep"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/anthropics/knowledge-work-plugins"
+    }
   },
   {
     "slug": "anthropic-cybersecurity-skills",
@@ -174,7 +219,16 @@
     "tagline_pt": "754 habilidades de segurança cibernética prontas para agentes de IA · Antrópico não oficial.",
     "tagline_es": "754 habilidades de ciberseguridad listas para usar para agentes de IA · Antrópico no oficial.",
     "tagline_de": "754 vorgefertigte Cybersicherheitskompetenzen für KI-Agenten · Anthropic inoffiziell.",
-    "last_seen": "2026-08-19"
+    "last_seen": "2026-08-19",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Resmî depoyu klonla",
+          "komut": "git clone https://github.com/mukul975/Anthropic-Cybersecurity-Skills.git"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+    }
   },
   {
     "slug": "stop-slop",
@@ -309,7 +363,22 @@
     "tagline_pt": "Servidor de mídia gratuito que leva sua coleção de filmes, séries de TV e músicas para todos os seus dispositivos.",
     "tagline_es": "Servidor multimedia gratuito que lleva tu colección de películas, series de televisión y música a todos tus dispositivos.",
     "tagline_de": "Kostenloser Medienserver, der Ihre Film-, Fernsehserien- und Musiksammlung auf alle Ihre Geräte bringt.",
-    "last_seen": "2026-07-24"
+    "last_seen": "2026-07-24",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Docker ile",
+          "komut": "docker run -d --name jellyfin -p 8096:8096 jellyfin/jellyfin"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Tarayıcıdan erişin",
+          "komut": "http://localhost:8096"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/jellyfin/jellyfin"
+    }
   },
   {
     "slug": "awesome-free-apps",
@@ -390,7 +459,34 @@
     "tagline_pt": "Uma alternativa moderna, de código aberto e orientada por IA ao Salesforce.",
     "tagline_es": "Una alternativa moderna, de código abierto y basada en IA a Salesforce.",
     "tagline_de": "Eine Open-Source-, KI-gesteuerte und moderne Alternative zu Salesforce.",
-    "last_seen": "2026-06-21"
+    "last_seen": "2026-06-21",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Ortam şablonunu indir",
+          "komut": "curl -o .env https://raw.githubusercontent.com/twentyhq/twenty/refs/heads/main/packages/twenty-docker/.env.example"
+        },
+        {
+          "baslik": "Compose dosyasını indir",
+          "komut": "curl -o docker-compose.yml https://raw.githubusercontent.com/twentyhq/twenty/refs/heads/main/packages/twenty-docker/docker-compose.yml"
+        },
+        {
+          "baslik": "Şifreleme anahtarı üret",
+          "komut": "openssl rand -base64 32"
+        },
+        {
+          "baslik": "Servisleri başlat",
+          "komut": "docker compose up -d"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Yerel arayüze eriş",
+          "komut": "http://localhost:3000"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://docs.twenty.com/developers/self-host/capabilities/docker-compose"
+    }
   },
   {
     "slug": "openstock",
@@ -419,7 +515,22 @@
     "tagline_pt": "Alternativa de código aberto e em tempo real para plataformas de troca caras.",
     "tagline_es": "Alternativa de código abierto y en tiempo real a las costosas plataformas de intercambio.",
     "tagline_de": "Open-Source-Echtzeitalternative zu teuren Austauschplattformen.",
-    "last_seen": "2026-05-27"
+    "last_seen": "2026-05-27",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "GitHub deposunu klonla",
+          "komut": "git clone https://github.com/Open-Dev-Society/OpenStock.git\ncd OpenStock\npnpm install"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Geliştirme sunucusunu başlat",
+          "komut": "pnpm dev"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/Open-Dev-Society/OpenStock"
+    }
   },
   {
     "slug": "claude-mem",
@@ -492,7 +603,16 @@
     "tagline_pt": "Memória persistente para seu agente de IA: lembra o contexto de sessão cruzada e é configurada com um único comando.",
     "tagline_es": "Memoria persistente para su agente de IA: recuerda el contexto entre sesiones y se configura con un solo comando.",
     "tagline_de": "Permanenter Speicher für Ihren KI-Agenten: Erinnert sich an den sitzungsübergreifenden Kontext und wird mit einem einzigen Befehl eingerichtet.",
-    "last_seen": "2026-05-27"
+    "last_seen": "2026-05-27",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Kurulum yardımcısını çalıştır",
+          "komut": "npx claude-mem install"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/thedotmack/claude-mem"
+    }
   },
   {
     "slug": "ppf-contact-solver",
@@ -543,7 +663,16 @@
     "tagline_pt": "Solucionador de contato para simulações de física: mecanismo de física da ZOZO para interações de tecido, sólidos e cordas.",
     "tagline_es": "Solucionador de contactos para simulaciones físicas: el motor de física de ZOZO para interacciones entre tejidos, sólidos y cuerdas.",
     "tagline_de": "Kontaktlöser für Physiksimulationen: ZOZOs Physik-Engine für Stoff-, Festkörper- und Seilinteraktionen.",
-    "last_seen": "2026-05-27"
+    "last_seen": "2026-05-27",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "GPU container’ını başlat",
+          "komut": "docker run --rm -it --name ppf-contact-solver --gpus all -p 127.0.0.1:8080:8080 -p 127.0.0.1:9090:9090 -e WEB_PORT=8080 ghcr.io/st-tech/ppf-contact-solver-compiled:latest"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/st-tech/ppf-contact-solver"
+    }
   },
   {
     "slug": "moneyprinterturbo",
@@ -595,7 +724,26 @@
     "tagline_pt": "Insira um tópico e a IA produzirá vídeos curtos com legendas com um clique.",
     "tagline_es": "Ingrese un tema y la IA producirá videos cortos con subtítulos con un solo clic.",
     "tagline_de": "Geben Sie ein Thema ein und die KI erstellt mit einem Klick kurze Videos mit Untertiteln.",
-    "last_seen": "2026-08-22"
+    "last_seen": "2026-08-22",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Resmî depoyu klonla",
+          "komut": "git clone https://github.com/harry0703/MoneyPrinterTurbo.git\ncd MoneyPrinterTurbo"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Docker Compose ile başlat",
+          "komut": "docker-compose up"
+        },
+        {
+          "baslik": "Web arayüzünü başlat",
+          "komut": "uv run streamlit run ./webui/Main.py --browser.gatherUsageStats=False"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/harry0703/MoneyPrinterTurbo"
+    }
   },
   {
     "slug": "heretic",
@@ -625,7 +773,16 @@
     "tagline_pt": "Ferramenta avançada que remove restrições de segurança em modelos de linguagem.",
     "tagline_es": "Herramienta avanzada que elimina restricciones de seguridad en modelos de lenguaje.",
     "tagline_de": "Erweitertes Tool, das Sicherheitsbeschränkungen in Sprachmodellen beseitigt.",
-    "last_seen": "2026-06-02"
+    "last_seen": "2026-06-02",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Resmî depoyu klonla",
+          "komut": "git clone https://github.com/p-e-w/heretic.git"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/p-e-w/heretic"
+    }
   },
   {
     "slug": "kronos",
@@ -658,7 +815,22 @@
     "tagline_pt": "Um modelo básico de código aberto desenvolvido para decifrar a linguagem dos mercados financeiros.",
     "tagline_es": "Un modelo básico de código abierto desarrollado para descifrar el lenguaje de los mercados financieros.",
     "tagline_de": "Ein Open-Source-Grundmodell, das entwickelt wurde, um die Sprache der Finanzmärkte zu entschlüsseln.",
-    "last_seen": "2026-08-13"
+    "last_seen": "2026-08-13",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Resmî depoyu klonla",
+          "komut": "git clone https://github.com/shiyu-coder/Kronos.git\ncd Kronos\npip install -r requirements.txt"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Örnek tahmini çalıştır",
+          "komut": "python examples/prediction_example.py"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/shiyu-coder/Kronos"
+    }
   },
   {
     "slug": "claude-code-harness",
@@ -717,7 +889,16 @@
     "tagline_pt": "Um ciclo disciplinado de 'Planejar, Fazer, Revisar' para Claude Code.",
     "tagline_es": "Un ciclo disciplinado de 'Planificar, Hacer, Revisar' para Claude Code.",
     "tagline_de": "Ein disziplinierter „Plan, Do, Review“-Zyklus für Claude Code.",
-    "last_seen": "2026-05-28"
+    "last_seen": "2026-05-28",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "npm ile global",
+          "komut": "npm install -g claude-code-harness"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/Chachamaru127/claude-code-harness"
+    }
   },
   {
     "slug": "superpowers",
@@ -755,7 +936,16 @@
     "tagline_pt": "Habilidades compostas e metodologia de desenvolvimento de software para agentes de codificação.",
     "tagline_es": "Habilidades compuestas y metodología de desarrollo de software para agentes de codificación.",
     "tagline_de": "Zusammengesetzte Fähigkeiten und Softwareentwicklungsmethodik für Codierungsagenten.",
-    "last_seen": "2026-08-23"
+    "last_seen": "2026-08-23",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Claude Code eklentisini kur",
+          "komut": "/plugin install superpowers@claude-plugins-official"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/obra/superpowers"
+    }
   },
   {
     "slug": "english-level-up-tips",
@@ -853,7 +1043,16 @@
     "tagline_pt": "Personagem AI hospedado em seu próprio servidor, capaz de conversar por voz e jogar.",
     "tagline_es": "Personaje de IA alojado en tu propio servidor, capaz de chatear por voz y jugar.",
     "tagline_de": "KI-Charakter, der auf Ihrem eigenen Server gehostet wird und Voice-Chat und Spiele spielen kann.",
-    "last_seen": "2026-07-30"
+    "last_seen": "2026-07-30",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Git ile depoyu klonla",
+          "komut": "git clone https://github.com/AIRI-institute/airi.git"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/moeru-ai/airi"
+    }
   },
   {
     "slug": "markitdown",
@@ -885,7 +1084,22 @@
     "tagline_pt": "Converte documentos Word, PDF, Excel e PowerPoint em formato Markdown compatível com IA · Microsoft.",
     "tagline_es": "Convierte documentos de Word, PDF, Excel y PowerPoint a formato Markdown compatible con IA · Microsoft.",
     "tagline_de": "Konvertiert Word-, PDF-, Excel- und PowerPoint-Dokumente in das KI-freundliche Markdown-Format · Microsoft.",
-    "last_seen": "2026-06-04"
+    "last_seen": "2026-06-04",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Tüm özelliklerle PyPI üzerinden kur",
+          "komut": "pip install 'markitdown[all]'"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Dosyayı Markdown’a dönüştür",
+          "komut": "markitdown belge.pdf > belge.md"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/microsoft/markitdown"
+    }
   },
   {
     "slug": "harness",
@@ -975,7 +1189,22 @@
     "tagline_pt": "Navegador da web de código aberto compatível com LLM: transforme dados da web em informações limpas para IA.",
     "tagline_es": "Navegador web de código abierto compatible con LLM: transforme los datos web en información limpia para la IA.",
     "tagline_de": "LLM-freundlicher Open-Source-Webbrowser: Verwandeln Sie Webdaten in saubere Informationen für die KI.",
-    "last_seen": "2026-07-10"
+    "last_seen": "2026-07-10",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "pip ile (PyPI)",
+          "komut": "pip install crawl4ai"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Web sayfasını tara ve yapay zekâ için hazırla",
+          "komut": "crawl4ai-download"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/unclecode/crawl4ai"
+    }
   },
   {
     "slug": "moss-tts",
@@ -1003,7 +1232,16 @@
     "tagline_pt": "Uma família de modelos de conversão de texto em fala (TTS) de código aberto e de alta qualidade.",
     "tagline_es": "Una familia de modelos de conversión de texto a voz (TTS) de código abierto y de alta calidad.",
     "tagline_de": "Eine hochwertige und quelloffene TTS-Modellfamilie (Text-to-Speech).",
-    "last_seen": "2026-05-31"
+    "last_seen": "2026-05-31",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "pip ile (PyPI)",
+          "komut": "pip install moss-tts"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/OpenMOSS/MOSS-TTS"
+    }
   },
   {
     "slug": "compound-engineering-plugin",
@@ -1097,7 +1335,22 @@
     "tagline_pt": "Plugin de engenharia baseado em IA (Claude Code/Codex/Cursor) onde cada trabalho torna o próximo mais fácil.",
     "tagline_es": "Complemento de ingeniería impulsado por IA (Claude Code/Codex/Cursor) donde cada trabajo facilita el siguiente.",
     "tagline_de": "KI-gestütztes Engineering-Plugin (Claude Code/Codex/Cursor), bei dem jede Aufgabe die nächste einfacher macht.",
-    "last_seen": "2026-08-05"
+    "last_seen": "2026-08-05",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Claude Code marketplace’ini ekle",
+          "komut": "/plugin marketplace add EveryInc/compound-engineering-plugin\n/plugin install compound-engineering"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Kurulum sihirbazını başlat",
+          "komut": "/ce-setup"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/EveryInc/compound-engineering-plugin"
+    }
   },
   {
     "slug": "anthropic-skills",
@@ -1127,7 +1380,16 @@
     "tagline_pt": "Repositório oficial de habilidades de agente da Anthropic: pacotes de habilidades carregados dinamicamente de Claude.",
     "tagline_es": "Repositorio oficial de habilidades de agentes de Anthropic: paquetes de habilidades cargados dinámicamente de Claude.",
     "tagline_de": "Anthropics offizielles Agent-Skills-Repository: Claudes dynamisch geladene Skill-Packs.",
-    "last_seen": "2026-08-14"
+    "last_seen": "2026-08-14",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Claude Code marketplace’ini ekle",
+          "komut": "/plugin marketplace add anthropics/skills\n/plugin install document-skills@anthropic-agent-skills"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/anthropics/skills"
+    }
   },
   {
     "slug": "claude-code",
@@ -1250,7 +1512,22 @@
     "tagline_pt": "Ferramenta de codificação de agente AI (produto da Anthropic) que roda no terminal e entende sua base de código.",
     "tagline_es": "Herramienta de codificación de agente de IA (producto de Anthropic) que se ejecuta en la terminal y comprende su código base.",
     "tagline_de": "KI-Agent-Codierungstool (Produkt von Anthropic), das im Terminal ausgeführt wird und Ihre Codebasis versteht.",
-    "last_seen": "2026-08-23"
+    "last_seen": "2026-08-23",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "npm ile global kurulum",
+          "komut": "npm install -g @anthropic-ai/claude-code"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Terminalde Claude Code başlat",
+          "komut": "claude"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/anthropics/claude-code"
+    }
   },
   {
     "slug": "cursor-plugins",
@@ -1288,7 +1565,16 @@
     "tagline_pt": "Especificação oficial de plugins e plugins prontos para o editor de código Cursor.",
     "tagline_es": "Especificación oficial de complementos y complementos listos para usar para el editor de código de cursor.",
     "tagline_de": "Offizielle Plugin-Spezifikation und vorgefertigte Plugins für den Cursor-Code-Editor.",
-    "last_seen": "2026-08-23"
+    "last_seen": "2026-08-23",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Git ile eklentileri klonla",
+          "komut": "git clone https://github.com/cursor-plugins/cursor-plugins.git"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/cursor/plugins"
+    }
   },
   {
     "slug": "voxcpm",
@@ -1318,7 +1604,22 @@
     "tagline_pt": "TTS multilíngue sem tokenizador: solução de design de som e transcrição de áudio.",
     "tagline_es": "TTS multilingüe sin Tokenizer: solución de diseño de sonido y transcripción de audio.",
     "tagline_de": "Mehrsprachiges TTS ohne Tokenizer: Lösung für Sounddesign und Audiotranskription.",
-    "last_seen": "2026-06-17"
+    "last_seen": "2026-06-17",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "PyPI ile kur",
+          "komut": "pip install voxcpm"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Metinden ses üret",
+          "komut": "voxcpm design --text \"VoxCPM2 brings studio-quality multilingual speech synthesis.\" --output out.wav"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/OpenBMB/VoxCPM"
+    }
   },
   {
     "slug": "stable-worldmodel",
@@ -1444,7 +1745,16 @@
     "tagline_pt": "Analisador de documentos rápido e de código aberto desenvolvido com Rust.",
     "tagline_es": "Analizador de documentos rápido y de código abierto desarrollado con Rust.",
     "tagline_de": "Schneller und Open-Source-Dokumentparser, entwickelt mit Rust.",
-    "last_seen": "2026-05-31"
+    "last_seen": "2026-05-31",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "pip ile (PyPI)",
+          "komut": "pip install liteparse"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/run-llama/liteparse"
+    }
   },
   {
     "slug": "flclash",
@@ -1868,7 +2178,16 @@
     "tagline_pt": "Envie automaticamente seus vídeos para plataformas como TikTok, YouTube e Bilibili.",
     "tagline_es": "Sube automáticamente tus videos a plataformas como TikTok, YouTube y Bilibili.",
     "tagline_de": "Laden Sie Ihre Videos automatisch auf Plattformen wie TikTok, YouTube und Bilibili hoch.",
-    "last_seen": "2026-05-31"
+    "last_seen": "2026-05-31",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "pip ile (PyPI)",
+          "komut": "pip install social-auto-upload"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/dreammis/social-auto-upload"
+    }
   },
   {
     "slug": "scrapling",
@@ -1919,7 +2238,16 @@
     "tagline_pt": "Estrutura adaptável de web scraping, desde solicitações únicas até verificações abrangentes.",
     "tagline_es": "Marco de web scraping adaptable desde solicitudes únicas hasta escaneos completos.",
     "tagline_de": "Adaptives Web-Scraping-Framework von einzelnen Anfragen bis hin zu umfassenden Scans.",
-    "last_seen": "2026-06-04"
+    "last_seen": "2026-06-04",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "pip ile (PyPI)",
+          "komut": "pip install scrapling"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/D4Vinci/Scrapling"
+    }
   },
   {
     "slug": "hermes-webui",
@@ -1957,7 +2285,22 @@
     "tagline_pt": "Gerencie facilmente seus agentes Hermes AI a partir de seu navegador ou dispositivo móvel.",
     "tagline_es": "Administre fácilmente sus agentes Hermes AI desde su navegador web o dispositivo móvil.",
     "tagline_de": "Verwalten Sie Ihre Hermes AI-Agenten ganz einfach über Ihren Webbrowser oder Ihr Mobilgerät.",
-    "last_seen": "2026-06-04"
+    "last_seen": "2026-06-04",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Resmî depoyu klonla ve başlat",
+          "komut": "git clone https://github.com/nesquena/hermes-webui.git hermes-webui\ncd hermes-webui\npython3 bootstrap.py"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Sunucuyu başlat",
+          "komut": "./start.sh"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/nesquena/hermes-webui"
+    }
   },
   {
     "slug": "github-docs",
@@ -2033,7 +2376,22 @@
     "tagline_pt": "Mecanismo de memória escalável e API projetados para a era da inteligência artificial.",
     "tagline_es": "Motor de memoria escalable y API diseñados para la era de la inteligencia artificial.",
     "tagline_de": "Skalierbare Speicher-Engine und API, entwickelt für das Zeitalter der künstlichen Intelligenz.",
-    "last_seen": "2026-06-04"
+    "last_seen": "2026-06-04",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "npm ile kur",
+          "komut": "npm install supermemory"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Claude için MCP sunucusunu ekle",
+          "komut": "npx -y install-mcp@latest https://mcp.supermemory.ai/mcp --client claude --oauth=yes"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/supermemoryai/supermemory"
+    }
   },
   {
     "slug": "babysitter",
@@ -2300,7 +2658,22 @@
     "tagline_pt": "TradingAgents é baseado no modelo de linguagem grande multiagente (LLM multiagente) desenvolvido para fins de negociação em mercados financeiros.",
     "tagline_es": "TradingAgents se basa en el modelo de lenguaje grande de múltiples agentes (LLM de múltiples agentes) desarrollado con el propósito de operar en los mercados financieros.",
     "tagline_de": "TradingAgents basiert auf dem Multi-Agent-Large-Language-Modell (Multi-Agent-LLM), das für den Handel auf Finanzmärkten entwickelt wurde.",
-    "last_seen": "2026-08-11"
+    "last_seen": "2026-08-11",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Resmî depoyu klonla ve kur",
+          "komut": "git clone https://github.com/TauricResearch/TradingAgents.git\ncd TradingAgents\npip install ."
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Örnek CLI’ı çalıştır",
+          "komut": "python -m cli.main"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/TauricResearch/TradingAgents"
+    }
   },
   {
     "slug": "godot",
@@ -2334,7 +2707,7 @@
           "komut": "winget install GodotEngine.GodotEngine"
         }
       ],
-      "kaynak": "Homebrew · winget (resmî paket yöneticileri) · veya godotengine.org'dan indirin"
+      "kaynak": "Resmî kaynak: https://github.com/godotengine/godot"
     },
     "last_review": "2026-08-24",
     "guncellemeler": [
@@ -2745,7 +3118,26 @@
     "tagline_pt": "Trivy detecta vulnerabilidades, configurações incorretas e segredos em contêineres, clusters Kubernetes e infraestruturas em nuvem.",
     "tagline_es": "Trivy detecta vulnerabilidades, configuraciones erróneas y secretos en contenedores, clústeres de Kubernetes e infraestructuras de nube.",
     "tagline_de": "Trivy erkennt Schwachstellen, Fehlkonfigurationen und Geheimnisse in Containern, Kubernetes-Clustern und Cloud-Infrastrukturen.",
-    "last_seen": "2026-06-07"
+    "last_seen": "2026-06-07",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install trivy"
+        },
+        {
+          "baslik": "Windows (winget)",
+          "komut": "winget install AquaSecurity.Trivy"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Konteyner imajını tara",
+          "komut": "trivy image imaj-adi:etiket"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/aquasecurity/trivy"
+    }
   },
   {
     "slug": "hermes-agent",
@@ -2888,7 +3280,26 @@
     "tagline_pt": "Odoo é um recurso empresarial de código aberto que permite às empresas gerenciar todos os seus processos operacionais sob o mesmo teto.",
     "tagline_es": "Odoo es un recurso empresarial de código abierto que permite a las empresas gestionar todos sus procesos operativos bajo un mismo techo.",
     "tagline_de": "Odoo ist eine Open-Source-Unternehmensressource, die es Unternehmen ermöglicht, alle ihre betrieblichen Prozesse unter einem Dach zu verwalten.",
-    "last_seen": "2026-06-04"
+    "last_seen": "2026-06-04",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "PostgreSQL veritabanını başlat",
+          "komut": "docker run -d --name odoo-db -e POSTGRES_DB=postgres -e POSTGRES_USER=odoo -e POSTGRES_PASSWORD=change_me postgres:15"
+        },
+        {
+          "baslik": "Odoo’yu veritabanına bağlayarak başlat",
+          "komut": "docker run -d --name odoo --link odoo-db:db -p 127.0.0.1:8069:8069 odoo:latest"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Yerel arayüze eriş",
+          "komut": "http://localhost:8069"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://hub.docker.com/_/odoo"
+    }
   },
   {
     "slug": "coding-interview-university",
@@ -2971,7 +3382,16 @@
     "tagline_pt": "AirLLM é uma solução gráfica para modelos de linguagem grande com 70 bilhões de parâmetros, com apenas 4 GB de memória de vídeo (VRAM).",
     "tagline_es": "AirLLM es una solución gráfica para modelos de lenguajes grandes con 70 mil millones de parámetros, con solo 4 GB de memoria de video (VRAM).",
     "tagline_de": "AirLLM ist eine grafische Lösung für große Sprachmodelle mit 70 Milliarden Parametern und nur 4 GB Videospeicher (VRAM).",
-    "last_seen": "2026-08-06"
+    "last_seen": "2026-08-06",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "pip ile (PyPI)",
+          "komut": "pip install airllm"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/lyogavin/airllm"
+    }
   },
   {
     "slug": "vibe-trading",
@@ -3041,7 +3461,7 @@
           "komut": "pip install paddleocr"
         }
       ],
-      "kaynak": "PyPI · paddleocr (resmî paket)"
+      "kaynak": "Resmî kaynak: https://github.com/PaddlePaddle/PaddleOCR"
     },
     "trescout_notu": "Taranmış belgedeki ve görseldeki yazıyı düzenlenebilir metne çevirir, tabloları da tanır. Ücretsiz seçenekler arasında en yetkinlerinden, ama kurulumun ağır tarafı altındaki hesaplama kütüphanesidir · ayrı bir çalışma alanında kurun, ekran kartı olmadan da çalışır ama yavaşlar. Türkçe belgelerde iş görür, yine de kendi örneklerinizle deneyin: Sonuç belgenin tarama kalitesine çok bağlı.",
     "last_review": "2026-08-24",
@@ -3453,7 +3873,16 @@
     "tagline_pt": "CopilotKit é um frontend baseado em React e Angular para o desenvolvimento de agentes de inteligência artificial e UIs generativas.",
     "tagline_es": "CopilotKit es una interfaz basada en React y Angular para desarrollar agentes de inteligencia artificial y UI generativas.",
     "tagline_de": "CopilotKit ist ein auf React und Angular basierendes Frontend für die Entwicklung von Agenten für künstliche Intelligenz und generativen Benutzeroberflächen.",
-    "last_seen": "2026-06-09"
+    "last_seen": "2026-06-09",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "npm ile ekle",
+          "komut": "npm install @copilotkit/react-core"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/CopilotKit/CopilotKit"
+    }
   },
   {
     "slug": "agent-reach",
@@ -3712,11 +4141,17 @@
     "cmds": {
       "kurulum": [
         {
-          "baslik": "Yeni proje (resmî CLI)",
-          "komut": "npx sv create"
+          "baslik": "Svelte projesi oluştur",
+          "komut": "npx sv create my-app\ncd my-app\nnpm install"
         }
       ],
-      "kaynak": "svelte.dev (resmî CLI)"
+      "calistirma": [
+        {
+          "baslik": "Geliştirme sunucusunu başlat",
+          "komut": "npm run dev"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/sveltejs/svelte"
     },
     "trescout_notu": "Web arayüzü yazarken kullanılan çerçevelerden biri. İşin çoğunu siz kodu yazarken hallettiği için ziyaretçinin tarayıcısına daha az kod iner, sayfa hızlı açılır. Bedeli topluluk büyüklüğü: En yaygın seçenek olan React'e göre hazır parça, örnek ve iş ilanı azdır.",
     "last_review": "2026-08-24",
@@ -3787,7 +4222,26 @@
     "tagline_pt": "NGINX é um repositório de código-fonte aberto, um servidor web de alto desempenho e proxy reverso, baseado na linguagem C.",
     "tagline_es": "NGINX es un repositorio de código fuente abierto, un servidor web de alto rendimiento y proxy inverso, basado en el lenguaje C.",
     "tagline_de": "NGINX ist ein Open-Source-Code-Repository, ein Hochleistungs-Webserver und Reverse-Proxy, basierend auf der C-Sprache.",
-    "last_seen": "2026-06-07"
+    "last_seen": "2026-06-07",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install nginx"
+        },
+        {
+          "baslik": "Ubuntu / Debian",
+          "komut": "sudo apt update && sudo apt install -y nginx"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Web sunucusunu başlat",
+          "komut": "sudo systemctl start nginx"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/nginx/nginx"
+    }
   },
   {
     "slug": "go",
@@ -3814,7 +4268,13 @@
           "komut": "winget install GoLang.Go"
         }
       ],
-      "kaynak": "go.dev/doc/install (resmî) · veya go.dev/dl'den indirin"
+      "kaynak": "Resmî kaynak: https://github.com/golang/go",
+      "calistirma": [
+        {
+          "baslik": "Sürümü doğrula",
+          "komut": "go version"
+        }
+      ]
     },
     "trescout_notu": "Yazdığınız program tek bir dosya olarak çıkar, o dosyayı sunucuya kopyalayıp çalıştırırsınız, yanına başka bir şey kurmanız gerekmez. Karşılığında dil kasıtlı olarak sade tutulmuş: Aynı hata kontrolünü tekrar tekrar yazarsınız. Sunucu servisi ve komut satırı aracı yazmak için iyi, karmaşık iş kurallarını modellemek için zorlar.",
     "last_review": "2026-08-24",
@@ -3915,7 +4375,30 @@
     "tagline_pt": "Desenvolvido pela OpenAI, Whisper é um programa treinado usando o método de aprendizagem por supervisão fraca em larga escala.",
     "tagline_es": "Desarrollado por OpenAI, Whisper es un programa entrenado utilizando un método de aprendizaje de supervisión débil a gran escala.",
     "tagline_de": "Whisper wurde von OpenAI entwickelt und ist ein Programm, das mithilfe einer groß angelegten Lernmethode mit schwacher Aufsicht trainiert wird.",
-    "last_seen": "2026-06-07"
+    "last_seen": "2026-06-07",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "FFmpeg’i kur",
+          "komut": "sudo apt update && sudo apt install ffmpeg"
+        },
+        {
+          "baslik": "Python bağımlılıklarını kur",
+          "komut": "pip install setuptools-rust"
+        },
+        {
+          "baslik": "Whisper’ı kur",
+          "komut": "pip install openai-whisper"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Ses dosyasını dönüştür",
+          "komut": "whisper audio.flac --model turbo"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/openai/whisper"
+    }
   },
   {
     "slug": "vite",
@@ -3934,11 +4417,17 @@
     "cmds": {
       "kurulum": [
         {
-          "baslik": "Yeni proje (npm)",
-          "komut": "npm create vite@latest"
+          "baslik": "Vite projesi oluştur",
+          "komut": "npm create vite@latest my-app\ncd my-app\nnpm install"
         }
       ],
-      "kaynak": "vite.dev (resmî dokümantasyon)"
+      "calistirma": [
+        {
+          "baslik": "Geliştirme sunucusunu başlat",
+          "komut": "npm run dev"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/vitejs/vite"
     },
     "trescout_notu": "Geliştirme sırasında kaydettiğiniz değişikliği anında ekrana yansıtır, büyük projede dakikalara çıkan beklemeyi saniyeye indirir. Eski araçlardan geçiyorsanız kullandığınız eklentilerin burada karşılığı var mı diye bakın. Yeni bir web projesine başlıyorsanız varsayılan tercih sayılabilir.",
     "last_review": "2026-08-24",
@@ -4074,7 +4563,7 @@
           "komut": "pip install opencv-python"
         }
       ],
-      "kaynak": "PyPI · opencv-python (resmî paket)"
+      "kaynak": "Resmî kaynak: https://github.com/opencv/opencv"
     },
     "trescout_notu": "Yapay zekâ modeli eğitmek için değil, görüntünün kendisiyle uğraşmak için: Kırpma, renk düzeltme, kenar bulma, kameradan görüntü okuma. Model eğitmek gerektiğinde bu iş için ayrı kütüphaneler kullanılır, bu onların yerine geçmez. Kurulumu tek komut, video biçimleri için ek paket isteyebilir.",
     "last_review": "2026-08-24",
@@ -4399,7 +4888,22 @@
     "tagline_pt": "Llama.cpp permite que grandes modelos de linguagem sejam executados com eficiência em hardware padrão.",
     "tagline_es": "Llama.cpp permite que modelos de lenguaje grandes se ejecuten de manera eficiente en hardware estándar.",
     "tagline_de": "Llama.cpp ermöglicht die effiziente Ausführung großer Sprachmodelle auf Standardhardware.",
-    "last_seen": "2026-06-08"
+    "last_seen": "2026-06-08",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Kaynak kodunu klonla",
+          "komut": "git clone https://github.com/ggml-org/llama.cpp.git\ncd llama.cpp"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "GGUF modeli çalıştır",
+          "komut": "llama-cli -m my_model.gguf"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/ggml-org/llama.cpp"
+    }
   },
   {
     "slug": "turbovec",
@@ -4966,7 +5470,22 @@
     "tagline_pt": "Maigret verifica mais de 3.000 sites com base em nomes de usuário e cria um arquivo de pessoas.",
     "tagline_es": "Maigret escanea más de 3000 sitios web basándose en nombres de usuario y crea un archivo de personas.",
     "tagline_de": "Maigret scannt mehr als 3000 Websites anhand von Benutzernamen und erstellt eine Personendatei.",
-    "last_seen": "2026-06-30"
+    "last_seen": "2026-06-30",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "PyPI ile kur",
+          "komut": "pip install maigret"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Kullanıcı adını tara",
+          "komut": "maigret kullanici-adi"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/soxoj/maigret"
+    }
   },
   {
     "slug": "masterdnsvpn",
@@ -5196,15 +5715,21 @@
     "cmds": {
       "kurulum": [
         {
-          "baslik": "macOS (Homebrew)",
+          "baslik": "macOS · Homebrew",
           "komut": "brew install restic"
         },
         {
-          "baslik": "Debian/Ubuntu",
-          "komut": "apt install restic"
+          "baslik": "Windows · winget",
+          "komut": "winget install restic.restic"
         }
       ],
-      "kaynak": "restic.readthedocs.io (resmî)"
+      "calistirma": [
+        {
+          "baslik": "Yedek deposu oluştur",
+          "komut": "restic init --repo /path/to/repo"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/restic/restic"
     },
     "trescout_notu": "Yedeklerinizi şifreleyerek saklar ve aynı dosyayı iki kez yazmadığı için yer kaplamaz. Tıklanacak bir arayüzü yok, komut satırından çalışır ve eski yedekleri temizleme işini siz ayarlarsınız, ayarlamazsanız depolama zamanla şişer. Kurduğunuz gün bir dosyayı geri yüklemeyi deneyin: Yedeğin gerçekten çalıştığını başka türlü anlayamazsınız.",
     "last_review": "2026-08-24",
@@ -5276,11 +5801,25 @@
     "cmds": {
       "kurulum": [
         {
-          "baslik": "Docker Compose (self-hosted)",
-          "komut": "git clone https://github.com/chatwoot/chatwoot.git && cd chatwoot && docker compose up -d"
+          "baslik": "Ortam dosyasını indir",
+          "komut": "wget -O .env https://raw.githubusercontent.com/chatwoot/chatwoot/develop/.env.example"
+        },
+        {
+          "baslik": "Docker Compose dosyasını indir",
+          "komut": "wget -O docker-compose.yaml https://raw.githubusercontent.com/chatwoot/chatwoot/develop/docker-compose.production.yaml"
+        },
+        {
+          "baslik": "Veritabanını hazırla",
+          "komut": "docker compose run --rm rails bundle exec rails db:chatwoot_prepare"
         }
       ],
-      "kaynak": "developers.chatwoot.com/self-hosted/deployment/docker (resmî)"
+      "calistirma": [
+        {
+          "baslik": "Servisleri başlat",
+          "komut": "docker compose up -d"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://developers.chatwoot.com/self-hosted/deployment/docker"
     },
     "trescout_notu": "Müşterilerden gelen mesajları tek ekranda toplar: Site sohbeti, e-posta, WhatsApp. Aynı işi yapan hazır servisler kişi başına aylık ücret alır, bu kendi sunucunuzda çalıştığı için o ücret yoktur, karşılığında sunucu ve bakım sizin işiniz olur. Kurulumu tek parça değildir, yanında birkaç yardımcı program ister ve en ucuz sunucu paketlerinde zorlanır.",
     "last_review": "2026-08-24",
@@ -5437,11 +5976,17 @@
     "cmds": {
       "kurulum": [
         {
-          "baslik": "Docker (önizleme)",
-          "komut": "docker run --name mattermost-preview -d --publish 8065:8065 mattermost/mattermost-preview"
+          "baslik": "Yerel preview container’ını başlat",
+          "komut": "docker run --name mattermost-preview -d --publish 127.0.0.1:8065:8065 mattermost/mattermost-preview"
         }
       ],
-      "kaynak": "docs.mattermost.com (resmî · önizleme imajı)"
+      "calistirma": [
+        {
+          "baslik": "Yerel arayüze eriş",
+          "komut": "http://localhost:8065"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/mattermost/mattermost"
     },
     "trescout_notu": "Ekip içi mesajlaşma aracı. Hazır servislerden farkı kendi sunucunuzda çalışması, yazışmalar sizde kalır. Sayfadaki komut deneme kurulumudur, gerçek kullanımda ayrı bir veri tabanıyla kurulur. Telefon bildirimleri ek ayar ister, ekibe söz vermeden önce oraya bakın.",
     "last_review": "2026-08-24",
@@ -5660,7 +6205,7 @@
           "komut": "winget install Microsoft.PowerToys"
         }
       ],
-      "kaynak": "Microsoft Learn (resmî)"
+      "kaynak": "Resmî kaynak: https://github.com/microsoft/PowerToys"
     },
     "trescout_notu": "Tek bir program değil, Windows'a eklenen küçük araçlar paketi. Çoğu kişi ikisi için kuruyor: Pencereleri ekrana ızgara düzeninde yerleştiren araç ve klavyeden hızlı arama. Şirket bilgisayarında kurulum yönetici izni isteyebilir.",
     "last_review": "2026-08-24",
@@ -5739,9 +6284,19 @@
         {
           "baslik": "Proje bağımlılığı (npm)",
           "komut": "npm i -D @swc/core"
+        },
+        {
+          "baslik": "npm ile global",
+          "komut": "npm install -g @swc/cli @swc/core"
         }
       ],
-      "kaynak": "swc.rs (resmî dokümantasyon)"
+      "kaynak": "Resmî kaynak: https://github.com/swc-project/swc",
+      "calistirma": [
+        {
+          "baslik": "TypeScript dosyasını derle",
+          "komut": "swc index.ts -o index.js"
+        }
+      ]
     },
     "trescout_notu": "Yazdığınız modern JavaScript kodunu tarayıcıların anladığı biçime çevirir, aynı işi yapan eski araçlara göre çok daha hızlıdır. Hata denetimi yapmaz, yalnızca çevirir. Bazı popüler çerçeveler bunu zaten içeride kullanıyor, farkında olmadan kullanıyor olabilirsiniz.",
     "last_review": "2026-08-24",
@@ -5827,7 +6382,22 @@
     "tagline_pt": "Pytest oferece uma ampla gama de testes em projetos Python, desde testes unitários de pequena escala até testes funcionais complexos.",
     "tagline_es": "Pytest ofrece una amplia gama de pruebas en proyectos Python, desde pruebas unitarias a pequeña escala hasta pruebas funcionales complejas.",
     "tagline_de": "Pytest bietet eine breite Palette von Tests in Python-Projekten, von kleinen Unit-Tests bis hin zu komplexen Funktionstests.",
-    "last_seen": "2026-06-15"
+    "last_seen": "2026-06-15",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "pip ile (PyPI)",
+          "komut": "pip install pytest"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Testleri çalıştır",
+          "komut": "pytest"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/pytest-dev/pytest"
+    }
   },
   {
     "slug": "meshery",
@@ -5953,7 +6523,22 @@
     "tagline_pt": "Cypress é uma ferramenta que acelera e facilita processos de teste ponta a ponta para aplicativos baseados em navegador.",
     "tagline_es": "Cypress es una herramienta que acelera y facilita los procesos de prueba de un extremo a otro para aplicaciones basadas en navegador.",
     "tagline_de": "Cypress ist ein Tool, das End-to-End-Testprozesse für browserbasierte Anwendungen beschleunigt und erleichtert.",
-    "last_seen": "2026-08-05"
+    "last_seen": "2026-08-05",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "npm ile ekle",
+          "komut": "npm install cypress --save-dev"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Cypress arayüzünü aç",
+          "komut": "npx cypress open"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/cypress-io/cypress"
+    }
   },
   {
     "slug": "clone-wars",
@@ -6027,9 +6612,13 @@
         {
           "baslik": "npm ile (Node.js)",
           "komut": "npm i puppeteer"
+        },
+        {
+          "baslik": "npm ile ekle",
+          "komut": "npm install puppeteer"
         }
       ],
-      "kaynak": "npm (resmî paket yöneticisi) · pnpm / yarn"
+      "kaynak": "Resmî kaynak: https://github.com/puppeteer/puppeteer"
     },
     "trescout_notu": "Tarayıcıyı elle değil kodla kullanmanızı sağlar: Sayfayı açar, tıklar, form doldurur, ekran görüntüsü ya da PDF alır. Aynı işi yapan Playwright daha geniş kapsamlıdır, birden çok tarayıcı gerekiyorsa oraya bakın. Kurulum tarayıcının bir kopyasını da indirir, yer kaplar.",
     "last_review": "2026-08-24",
@@ -6302,17 +6891,21 @@
     "cmds": {
       "kurulum": [
         {
-          "baslik": "PowerShell ile doğrudan çalıştırma (Windows)",
-          "komut": "& ([scriptblock]::Create((irm \"https://debloat.raphi.re/\")))"
+          "baslik": "GitHub arşivini indir",
+          "komut": "Invoke-WebRequest -Uri https://github.com/Raphire/Win11Debloat/archive/refs/heads/master.zip -OutFile Win11Debloat.zip"
+        },
+        {
+          "baslik": "Arşivi aç",
+          "komut": "Expand-Archive -Path .\\Win11Debloat.zip -DestinationPath .\\Win11Debloat"
         }
       ],
       "calistirma": [
         {
-          "baslik": "Sessiz modda çalıştır",
-          "komut": "& ([scriptblock]::Create((irm \"https://debloat.raphi.re/\"))) -Silent"
+          "baslik": "Scripti inceleyerek çalıştır",
+          "komut": "Set-Location .\\Win11Debloat\\Win11Debloat-master\n.\\Win11Debloat.ps1"
         }
       ],
-      "kaynak": "Resmî Win11Debloat README (Raphire/Win11Debloat)"
+      "kaynak": "Resmî kaynak: https://github.com/Raphire/Win11Debloat"
     },
     "trescout_notu": "Windows'la birlikte gelen istemediğiniz uygulamaları kaldırır, arka planda veri toplayan ayarları kapatır. Çalıştırmadan önce ne yaptığını okuyun: Kaldırılan bazı parçaları geri getirmek kolay değildir. Kişisel bilgisayarda pratik, şirket cihazında ya da başkasıyla paylaştığınız bilgisayarda kullanmayın.",
     "last_review": "2026-08-24",
@@ -6629,6 +7222,10 @@
         {
           "baslik": "iroh CLI aracını kur",
           "komut": "cargo install iroh"
+        },
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install nogo/tap/iroh"
         }
       ],
       "calistirma": [
@@ -6637,7 +7234,7 @@
           "komut": "iroh node id"
         }
       ],
-      "kaynak": "crates.io (iroh) · resmî dokümantasyon (iroh.computer)"
+      "kaynak": "Resmî kaynak: https://github.com/n0-computer/iroh"
     },
     "last_review": "2026-08-24",
     "guncellemeler": [
@@ -6721,7 +7318,16 @@
     "tagline_pt": "Codebase-memory-mcp fornece codificação de alto desempenho, transformando bases de código em um gráfico de conhecimento permanente.",
     "tagline_es": "Codebase-memory-mcp proporciona codificación de alto rendimiento al transformar las bases de código en un gráfico de conocimiento permanente.",
     "tagline_de": "Codebase-memory-mcp bietet leistungsstarke Codierung durch die Umwandlung von Codebasen in einen permanenten Wissensgraphen.",
-    "last_seen": "2026-06-29"
+    "last_seen": "2026-06-29",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "npm ile global",
+          "komut": "npm install -g codebase-memory-mcp"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/DeusData/codebase-memory-mcp"
+    }
   },
   {
     "slug": "timesfm",
@@ -6797,21 +7403,25 @@
     "cmds": {
       "kurulum": [
         {
-          "baslik": "Linux · Snap paketi (Rocket.Chat yayımcısı)",
-          "komut": "sudo snap install rocketchat-server"
+          "baslik": "Resmî compose deposunu klonla",
+          "komut": "git clone --depth 1 https://github.com/RocketChat/rocketchat-compose.git"
         },
         {
-          "baslik": "Docker · resmî compose deposu",
-          "komut": "git clone --depth 1 https://github.com/RocketChat/rocketchat-compose.git && cd rocketchat-compose && cp .env.example .env"
+          "baslik": "Ortam dosyasını oluştur",
+          "komut": "cd rocketchat-compose\ncp .env.example .env"
+        },
+        {
+          "baslik": "MongoDB ve Rocket.Chat servislerini başlat",
+          "komut": "docker compose -f compose.database.yml -f compose.yml -f compose.nats.yml up -d"
         }
       ],
       "calistirma": [
         {
-          "baslik": "Docker ile başlat",
-          "komut": "docker compose -f compose.database.yml -f compose.yml -f compose.nats.yml -f docker.yml up -d"
+          "baslik": "Yerel arayüze eriş",
+          "komut": "http://localhost:3000"
         }
       ],
-      "kaynak": "Rocket.Chat dokümanı · docs.rocket.chat/docs/deploy-with-docker-docker-compose"
+      "kaynak": "Resmî kaynak: https://docs.rocket.chat/docs/deploy-with-docker-docker-compose"
     },
     "tagline_fr": "Rocket.Chat est un système d'exploitation de communications sécurisé conçu pour les opérations critiques.",
     "tagline_pt": "Rocket.Chat é um sistema operacional de comunicação seguro projetado para operações de missão crítica.",
@@ -6843,6 +7453,10 @@
         {
           "baslik": "VS Code eklentisi olarak kurulum",
           "komut": "code --install-extension Continue.continue"
+        },
+        {
+          "baslik": "npm ile global",
+          "komut": "npm install -g continue"
         }
       ],
       "calistirma": [
@@ -6851,7 +7465,7 @@
           "komut": "cn"
         }
       ],
-      "kaynak": "npm (@continuedev/cli) · VS Code Marketplace (Continue.continue)"
+      "kaynak": "Resmî kaynak: https://github.com/continuedev/continue"
     },
     "trescout_notu": "Kod yazarken yardımcı olan yapay zekâ asistanı. Hazır asistanlardan farkı, hangi modeli kullanacağınıza sizin karar vermeniz: Kendi anahtarınızı ya da bilgisayarınızda çalışan bir modeli bağlarsınız, kodunuz dışarı çıkmaz. Karşılığında kurulum ve model seçimi sizin işiniz olur, deneyim hazır ürünler kadar cilalı değildir.",
     "last_review": "2026-08-24",
@@ -7404,7 +8018,7 @@
           "komut": "sudo snap install insomnia"
         }
       ],
-      "kaynak": "Homebrew cask · formulae.brew.sh/cask/insomnia · Snap Store"
+      "kaynak": "Resmî kaynak: https://insomnia.rest"
     },
     "tagline_fr": "Insomnia est une interface de programmation d'applications open source qui prend en charge les protocoles GraphQL, REST, WebSockets, SSE et gRPC.",
     "tagline_pt": "Insomnia é uma interface de programação de aplicativos de código aberto que oferece suporte aos protocolos GraphQL, REST, WebSockets, SSE e gRPC.",
@@ -7586,9 +8200,13 @@
         {
           "baslik": "Çeviri sunucusunu başlat",
           "komut": "libretranslate"
+        },
+        {
+          "baslik": "Çeviri sunucusunu başlat",
+          "komut": "libretranslate --port 5000"
         }
       ],
-      "kaynak": "PyPI (libretranslate) · Docker Hub (libretranslate/libretranslate)"
+      "kaynak": "Resmî kaynak: https://github.com/LibreTranslate/LibreTranslate"
     },
     "last_review": "2026-08-24",
     "guncellemeler": [
@@ -8529,7 +9147,22 @@
     "tagline_pt": "Stirling-PDF é um documento de código aberto que permite aos usuários editar arquivos PDF em qualquer dispositivo.",
     "tagline_es": "Stirling-PDF es un documento de código abierto que permite a los usuarios editar archivos PDF en cualquier dispositivo.",
     "tagline_de": "Stirling-PDF ist ein Open-Source-Dokument, mit dem Benutzer PDF-Dateien auf jedem Gerät bearbeiten können.",
-    "last_seen": "2026-06-23"
+    "last_seen": "2026-06-23",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Persistent Docker container’ı başlat",
+          "komut": "docker run -d --name stirling-pdf -p 127.0.0.1:8080:8080 -v ./stirling-data:/configs --restart unless-stopped docker.stirlingpdf.com/stirlingtools/stirling-pdf:latest"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Yerel arayüze eriş",
+          "komut": "http://localhost:8080"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://docs.stirlingpdf.com/Installation/Docker%20Install/"
+    }
   },
   {
     "slug": "gstack",
@@ -8764,7 +9397,16 @@
     "tagline_pt": "Firecrawl é uma ferramenta para rastrear e extrair dados de sites em grande escala e gerar texto limpo que modelos de inteligência artificial podem processar.",
     "tagline_es": "Firecrawl es una herramienta para rastrear y extraer datos de sitios web a escala y generar texto limpio que los modelos de inteligencia artificial puedan procesar.",
     "tagline_de": "Firecrawl ist ein Tool zum Crawlen und Extrahieren von Daten aus Websites in großem Maßstab und zum Generieren von sauberem Text, den Modelle der künstlichen Intelligenz verarbeiten können.",
-    "last_seen": "2026-08-11"
+    "last_seen": "2026-08-11",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "npm ile ekle",
+          "komut": "npm install @mendable/firecrawl-js"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/firecrawl/firecrawl"
+    }
   },
   {
     "slug": "ai-website-cloner-template",
@@ -8936,7 +9578,7 @@
           "komut": "flutter create my_app\ncd my_app\nflutter run"
         }
       ],
-      "kaynak": "Homebrew Cask (flutter) · resmî Flutter dokümantasyonu (docs.flutter.dev)"
+      "kaynak": "Resmî kaynak: https://flutter.dev"
     },
     "tagline_fr": "Développée par Google, Flutter est une application rapide pour les plateformes mobiles, Web et de bureau utilisant une base de code unique.",
     "tagline_pt": "Desenvolvido pelo Google, o Flutter é um aplicativo rápido para plataformas móveis, web e desktop que usa uma única base de código.",
@@ -9650,7 +10292,7 @@
           "komut": "brew services start grafana"
         }
       ],
-      "kaynak": "Homebrew (grafana) · Docker Hub (grafana/grafana) · resmî Grafana dokümantasyonu (grafana.com/docs)"
+      "kaynak": "Resmî kaynak: https://grafana.com"
     },
     "tagline_fr": "Grafana combine les métriques, les journaux et les traces de différentes sources de données dans une seule interface.",
     "tagline_pt": "Grafana combina métricas, logs e rastreamentos de diferentes fontes de dados em uma única interface.",
@@ -9852,7 +10494,7 @@
           "komut": "dbt run"
         }
       ],
-      "kaynak": "PyPI · dbt-core"
+      "kaynak": "Resmî kaynak: https://getdbt.com"
     },
     "tagline_fr": "L'outil de transformation des données (dbt-core) permet aux analystes de données et aux ingénieurs d'utiliser les processus de développement logiciel de manière similaire.",
     "tagline_pt": "A ferramenta de transformação de dados (dbt-core) permite que analistas e engenheiros de dados usem processos de desenvolvimento de software de maneiras semelhantes.",
@@ -9940,7 +10582,16 @@
     "tagline_pt": "OpenCode é um agente de codificação de código aberto projetado para automatizar processos de desenvolvimento de software.",
     "tagline_es": "OpenCode es un agente de codificación de código abierto diseñado para automatizar los procesos de desarrollo de software.",
     "tagline_de": "OpenCode ist ein Open-Source-Coding-Agent zur Automatisierung von Softwareentwicklungsprozessen.",
-    "last_seen": "2026-06-28"
+    "last_seen": "2026-06-28",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "npm ile global",
+          "komut": "npm install -g opencode"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/anomalyco/opencode"
+    }
   },
   {
     "slug": "openspec",
@@ -10037,17 +10688,17 @@
     "cmds": {
       "kurulum": [
         {
-          "baslik": "Resmî imajı çek",
-          "komut": "docker pull quay.io/keycloak/keycloak"
+          "baslik": "Yerel geliştirme container’ını başlat",
+          "komut": "docker run --name keycloak -p 127.0.0.1:8080:8080 -e KC_BOOTSTRAP_ADMIN_USERNAME=admin -e KC_BOOTSTRAP_ADMIN_PASSWORD=change_me quay.io/keycloak/keycloak:latest start-dev"
         }
       ],
       "calistirma": [
         {
-          "baslik": "Geliştirme kipinde başlat",
-          "komut": "docker run -p 8080:8080 -e KC_BOOTSTRAP_ADMIN_USERNAME=admin -e KC_BOOTSTRAP_ADMIN_PASSWORD=admin quay.io/keycloak/keycloak start-dev"
+          "baslik": "Yerel arayüze eriş",
+          "komut": "http://localhost:8080"
         }
       ],
-      "kaynak": "Keycloak resmî imaj deposu · quay.io/keycloak/keycloak"
+      "kaynak": "Resmî kaynak: https://www.keycloak.org/server/containers"
     },
     "tagline_fr": "Keycloak est une solution open source de gestion des identités et des accès pour les applications et services modernes.",
     "tagline_pt": "Keycloak é uma solução de gerenciamento de identidade e acesso de código aberto para aplicativos e serviços modernos.",
@@ -10465,9 +11116,13 @@
         {
           "baslik": "macOS (Homebrew)",
           "komut": "brew install --cask veracrypt"
+        },
+        {
+          "baslik": "Windows (winget)",
+          "komut": "winget install IDRIX.VeraCrypt"
         }
       ],
-      "kaynak": "Homebrew cask · veracrypt.io"
+      "kaynak": "Resmî kaynak: https://veracrypt.jp"
     },
     "tagline_fr": "VeraCrypt est un système de cryptage de disque basé sur TrueCrypt et offre des normes de sécurité strictes.",
     "tagline_pt": "VeraCrypt é um sistema de criptografia de disco baseado em TrueCrypt e oferece fortes padrões de segurança.",
@@ -11069,7 +11724,16 @@
     "tagline_pt": "Este servidor, desenvolvido para Chrome DevTools, permite codificar agentes de inteligência artificial (codificação…",
     "tagline_es": "Este servidor, desarrollado para Chrome DevTools, permite codificar agentes de inteligencia artificial (codificación…",
     "tagline_de": "Dieser für Chrome DevTools entwickelte Server ermöglicht die Codierung von Agenten für künstliche Intelligenz (Codierung…)",
-    "last_seen": "2026-07-31"
+    "last_seen": "2026-07-31",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "npm ile global",
+          "komut": "npm install -g chrome-devtools-mcp"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/ChromeDevTools/chrome-devtools-mcp"
+    }
   },
   {
     "slug": "checkout",
@@ -11216,7 +11880,22 @@
     "tagline_pt": "Langflow é uma ferramenta de desenvolvimento baseada em Python que oferece uma interface visual para a criação de agentes e fluxos de trabalho com tecnologia de IA.",
     "tagline_es": "Langflow es una herramienta de desarrollo basada en Python que ofrece una interfaz visual para crear agentes y flujos de trabajo con tecnología de inteligencia artificial.",
     "tagline_de": "Langflow ist ein Python-basiertes Entwicklungstool, das eine visuelle Schnittstelle zum Erstellen KI-gestützter Agenten und Workflows bietet.",
-    "last_seen": "2026-07-03"
+    "last_seen": "2026-07-03",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "pip ile (PyPI)",
+          "komut": "pip install langflow"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Langflow Arayüzünü Başlat",
+          "komut": "langflow run"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/langflow-ai/langflow"
+    }
   },
   {
     "slug": "pytorch",

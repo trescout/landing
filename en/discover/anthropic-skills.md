@@ -12,22 +12,20 @@ Anthropic Skills; It is the official repository of skill packs that Claude dynam
 - Dynamic loading: comes into play only when necessary.
 - Fully compliant with agentskills standard.
 
+## Installation
+****
+
+```
+/plugin marketplace add anthropics/skills
+/plugin install document-skills@anthropic-agent-skills
+```
+
+
 ## How to use?
 You define the relevant skill as a skill to Claude (e.g. Claude Code or Cowork); In this way, your performance in special tasks increases.
 
 ## How to install, how to use?
-**Add Marketplace (Claude Code)**
-
-```
-/plugin marketplace add anthropics/skills
-```
-
-**Build your document skills**
-
-```
-/plugin install document-skills@anthropic-agent-skills
-```
-
+While in Claude Code, add Anthropic's skills repository as a marketplace with the command '/plugin marketplace add anthropics/skills', then install document skills with '/plugin install document-skills@anthropic-agent-skills'; Then ask him to use the relevant skill to extract form fields from a PDF, for example.
 
 ## Related dictionary terms
 

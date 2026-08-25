@@ -23,6 +23,12 @@ npm i -g @continuedev/cli
 code --install-extension Continue.continue
 ```
 
+****
+
+```
+npm install -g continue
+```
+
 
 ## Ejecución
 **Ejecute el agente Continuar a través de CLI**

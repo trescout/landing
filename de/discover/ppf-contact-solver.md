@@ -7,6 +7,14 @@ PPF Contact Solver ist als Physik-Engine von ZOZO darauf ausgelegt, Kontakte zwi
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
+## Installation
+****
+
+```
+docker run --rm -it --name ppf-contact-solver --gpus all -p 127.0.0.1:8080:8080 -p 127.0.0.1:9090:9090 -e WEB_PORT=8080 ghcr.io/st-tech/ppf-contact-solver-compiled:latest
+```
+
+
 ## Was macht es?
 - Es führt realistische Stoff-, Festkörper- und Seilsimulationen durch.
 - Erhöht die physikalische Konsistenz in Simulationen.
@@ -17,14 +25,7 @@ PPF Contact Solver ist als Physik-Engine von ZOZO darauf ausgelegt, Kontakte zwi
 Dies ist keine Endbenutzeranwendung. Für die Nutzung sind Kenntnisse in Programmierung und physikalischer Simulation erforderlich. Es spricht eher den Grafik-/Forschungsbereich an.
 
 ## Wie installiere ich, wie verwende ich?
-**Mit Docker starten (NVIDIA-GPU erforderlich)**
-
-```
-docker run --rm -it --name ppf-contact-solver --gpus all \
-  -p 8080:8080 -p 9090:9090 -e WEB_PORT=8080 \
-  ghcr.io/st-tech/ppf-contact-solver-compiled:latest
-```
-
+Führen Sie den physikalischen Kontaktlöser ppf-contact-solver von ZOZO mit Docker aus (NVIDIA-GPU erforderlich): Führen Sie den folgenden Docker-Befehl aus, öffnen Sie dann http://localhost:8080 im Browser und probieren Sie die vorgefertigten JupyterLab-Beispiele aus.
 
 ## Verwandte Begriffe aus dem Glossar
 

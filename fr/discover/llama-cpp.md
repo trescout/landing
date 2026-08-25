@@ -11,6 +11,23 @@ Llama.cpp est une bibliothèque d'inférence basée sur C et C++ qui permet d'ex
 - Fournit des performances élevées avec une faible utilisation de la mémoire.
 - Facilite l’exécution de modèles d’IA sur des appareils locaux.
 
+## Installation
+****
+
+```
+git clone https://github.com/ggml-org/llama.cpp.git
+cd llama.cpp
+```
+
+
+## Exécution
+****
+
+```
+llama-cli -m my_model.gguf
+```
+
+
 ## Si vous ne codez pas
 Je souhaite exécuter de grands modèles de langage localement sur mon ordinateur. Comment puis-je exécuter mon propre fichier de modèle à l'aide de l'outil llama.cpp avec la commande «llama-cli -m my_model.gguf» ou télécharger et lancer un modèle directement depuis Hugging Face avec la commande «llama-cli -hf ggml-org/gemma-3-1b-it-GGUF» ? Pouvez-vous m'aider avec la configuration matérielle requise ou la sélection du modèle auquel je dois prêter attention dans ce processus ?
 

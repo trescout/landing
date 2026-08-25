@@ -10,6 +10,28 @@ Odoo es una plataforma de planificación de recursos empresariales de código ab
 - Ofrece aplicaciones empresariales modulares que son compatibles entre sí.
 - Proporciona una infraestructura de código abierto que se puede personalizar según las necesidades.
 
+## Instalación
+****
+
+```
+docker run -d --name odoo-db -e POSTGRES_DB=postgres -e POSTGRES_USER=odoo -e POSTGRES_PASSWORD=change_me postgres:15
+```
+
+****
+
+```
+docker run -d --name odoo --link odoo-db:db -p 127.0.0.1:8069:8069 odoo:latest
+```
+
+
+## Ejecución
+****
+
+```
+http://localhost:8069
+```
+
+
 ## Cómo empezar
 - Fuente oficial →
 

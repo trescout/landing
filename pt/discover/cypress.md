@@ -12,16 +12,18 @@ Cypress é uma estrutura de automação que acelera e facilita processos de test
 - Ele fornece testes ponta a ponta para aumentar a confiabilidade dos aplicativos da web.
 
 ## Instalação
-**Instalação usando NPM**
+****
 
 ```
 npm install cypress --save-dev
 ```
 
-**Instalação usando Yarn**
+
+## Execução
+****
 
 ```
-yarn add cypress --dev
+npx cypress open
 ```
 
 

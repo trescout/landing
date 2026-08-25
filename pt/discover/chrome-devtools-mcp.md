@@ -12,16 +12,10 @@ Desenvolvido para Chrome DevTools, este servidor permite a codificação de agen
 - Revise solicitações de rede e erros de console
 
 ## Instalação
-**Instalação com Código Claude**
+****
 
 ```
-claude mcp add chrome-devtools --scope user npx chrome-devtools-mcp@latest
-```
-
-**Instalação com Codex**
-
-```
-codex mcp add chrome-devtools -- npx chrome-devtools-mcp@latest
+npm install -g chrome-devtools-mcp
 ```
 
 

@@ -12,6 +12,14 @@ Complementos de cursor; Incluye la especificación oficial del complemento y com
 - Proporciona compatibilidad futura gracias a su estructura de especificaciones oficial.
 - Puede desarrollar sus propias soluciones inspirándose en complementos ya preparados.
 
+## Instalación
+****
+
+```
+git clone https://github.com/cursor-plugins/cursor-plugins.git
+```
+
+
 ## ¿Cómo usarlo con IA?
 Ayúdame a instalar los complementos oficiales de Cursor de este repositorio (por ejemplo, complementos que revisan el código o controles de seguridad) del mercado de complementos de Cursor para el proyecto en el que estoy trabajando en el editor de Cursor, y explícame paso a paso cómo usarlos.
 

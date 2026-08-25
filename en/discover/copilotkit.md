@@ -12,16 +12,10 @@ CopilotKit offers a React and Angular-based frontend stack for developing artifi
 - It enables the creation of human-approved workflows and self-learning agents.
 
 ## Installation
-**For new projects**
+****
 
 ```
-npx copilotkit@latest create -f <framework>
-```
-
-**For existing projects**
-
-```
-npx copilotkit@latest init
+npm install @copilotkit/react-core
 ```
 
 

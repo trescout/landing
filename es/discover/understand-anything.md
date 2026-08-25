@@ -7,6 +7,23 @@
 - MIT
 - GitHub Trending · 26 May 2026
 
+## Instalación
+****
+
+```
+/plugin marketplace add Lum1104/Understand-Anything
+/plugin install understand-anything
+```
+
+
+## Ejecución
+****
+
+```
+/understand
+```
+
+
 ## Qué aporta
 - Puede resolver un proyecto con el que no está familiarizado en cuestión de minutos.
 - Puede producir contenido instantáneamente con el comando "Preparar una guía para principiantes".
@@ -22,19 +39,7 @@
 ¿Qué hace este proyecto y dónde debo buscar para realizar cambios?
 
 ## Pruébalo en 2 minutos
-**Código Claude**
-
-```
-/plugin marketplace add Lum1104/Understand-Anything
-/plugin install understand-anything
-```
-
-**Codex · Antigravedad · Gemini CLI · Cursor…**
-
-```
-curl -fsSL https://raw.githubusercontent.com/Lum1104/Understand-Anything/main/install.sh | bash
-```
-
+Instale el complemento Understand Anything en Claude Code con los comandos '/plugin Marketplace add Lum1104/Understand-Anything' y '/plugin install learn-anything', luego en mi proyecto ejecute '/understand' para analizar el código base y abra el panel de gráfico de conocimiento interactivo con '/understand-dashboard'.
 
 ## ¿Por qué está en la agenda?
 Porque está en el centro de la tendencia de "comprender el código y la información preguntando a la IA". Más allá de ser una aplicación independiente, se incluye como complemento de los asistentes que utiliza (como Claude Code, Codex, Gemini CLI). El hecho de que haya sido protagonizado por más de 4.700 desarrolladores en un día es testimonio del intenso interés que ha despertado.

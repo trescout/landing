@@ -11,16 +11,24 @@ Desenvolvido com a linguagem Go, o Restic oferece um programa de backup de códi
 - Compatível com diferentes sistemas de armazenamento local e em nuvem
 
 ## Instalação
-**macOS (homebrew)**
+****
 
 ```
 brew install restic
 ```
 
-**Debian/Ubuntu**
+****
 
 ```
-apt install restic
+winget install restic.restic
+```
+
+
+## Execução
+****
+
+```
+restic init --repo /path/to/repo
 ```
 
 

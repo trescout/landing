@@ -11,10 +11,20 @@ A diferencia de los marcos tradicionales, Svelte utiliza un enfoque en tiempo de
 - Actualiza quirúrgicamente la estructura DOM para mantener las páginas web actualizadas
 
 ## Instalación
-**Nuevo proyecto (CLI oficial)**
+****
 
 ```
-npx sv create
+npx sv create my-app
+cd my-app
+npm install
+```
+
+
+## Ejecución
+**Iniciar servidor de desarrollo**
+
+```
+npm run dev
 ```
 
 

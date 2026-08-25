@@ -17,6 +17,20 @@ Desenvolvido com a linguagem Rust, SWC oferece uma plataforma rápida de compila
 npm i -D @swc/core
 ```
 
+****
+
+```
+npm install -g @swc/cli @swc/core
+```
+
+
+## Execução
+**Compilar arquivo TypeScript**
+
+```
+swc index.ts -o index.js
+```
+
 
 ## Se você não programa
 Tenho um projeto de desenvolvimento web e quero agilizar meus processos de compilação. Como posso processar meus arquivos JavaScript e TypeScript com mais eficiência usando a ferramenta SWC (Speedy Web Compiler) escrita em Rust? Como posso configurar esta ferramenta de acordo com a necessidade do meu projeto e o que devo considerar ao mudar de outras ferramentas como o Babel?

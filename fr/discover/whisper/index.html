@@ -23,6 +23,7 @@
 <meta property="og:image" content="https://trescout.com/assets/discover/og/whisper-fr.webp">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Whisper">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Whisper">
@@ -56,8 +57,6 @@
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
-
-<meta property="og:image:alt" content="Whisper">
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
@@ -71,8 +70,8 @@
 <ul class="disc-meta"><li>★ 106 452</li><li>Python</li><li>GitHub Trending · 2026-06-07</li></ul>
       <section class="disc-sec disc-updates"><h2>Mises à jour</h2><ul class="disc-update-list"><li><strong>2 août 2026:</strong> Étoiles 101,952 → 106,452, dernière version v20250625 (26 juin 2025).</li></ul></section>
       <section class="disc-sec"><h2>Ce que ça vous apporte</h2><ul class="disc-wins"><li>Convertissez des fichiers audio en texte avec une grande précision.</li><li>Traduire des conversations de différentes langues vers l&#39;anglais.</li><li>Identification de la langue et détection de l&#39;activité vocale dans le contenu audio.</li></ul></section>
-      <section class="disc-sec"><h2>Installation</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Dépendances du système</span><button type="button" class="disc-copy" aria-label="Copier la commande">Copier</button></div><pre><code>sudo apt update &amp;&amp; sudo apt install ffmpeg</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Exigence d&#39;installation supplémentaire</span><button type="button" class="disc-copy" aria-label="Copier la commande">Copier</button></div><pre><code>pip install setuptools-rust</code></pre></div></section>
-      <section class="disc-sec"><h2>Exécution</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Convertir un fichier audio en texte</span><button type="button" class="disc-copy" aria-label="Copier la commande">Copier</button></div><pre><code>whisper audio.flac audio.mp3 audio.wav --model turbo</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Transcription dans une langue spécifique</span><button type="button" class="disc-copy" aria-label="Copier la commande">Copier</button></div><pre><code>whisper japanese.wav --language Japanese</code></pre></div></section>
+      <section class="disc-sec"><h2>Installation</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Installer FFmpeg</span><button type="button" class="disc-copy" aria-label="Copier la commande">Copier</button></div><pre><code>sudo apt update &amp;&amp; sudo apt install ffmpeg</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Installer les dépendances Python</span><button type="button" class="disc-copy" aria-label="Copier la commande">Copier</button></div><pre><code>pip install setuptools-rust</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Installer Whisper</span><button type="button" class="disc-copy" aria-label="Copier la commande">Copier</button></div><pre><code>pip install openai-whisper</code></pre></div></section>
+      <section class="disc-sec"><h2>Exécution</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Convertir le fichier audio</span><button type="button" class="disc-copy" aria-label="Copier la commande">Copier</button></div><pre><code>whisper audio.flac --model turbo</code></pre></div></section>
       <section class="disc-sec"><h2>Si vous ne codez pas</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Copier l'invite">Copier</button></div><p class="disc-ai-text">Je souhaite convertir mon fichier audio en texte à l&#39;aide de l&#39;outil Whisper. J&#39;ai effectué les installations nécessaires sur mon système. Quelle est la structure de commande de base que je dois saisir dans le terminal pour traduire le contenu de mon fichier audio en texte, et comment dois-je utiliser le paramètre de spécification de langue pour les fichiers audio dans différentes langues ?</p></div></section>
       <section class="disc-sec"><h2>Termes liés du glossaire</h2><div class="disc-related"><a href="/fr/dictionary/whisper/">Whisper</a><a href="/fr/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
       <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Pour qui</span><span class="disc-fact-v">Pour les développeurs et les chercheurs qui souhaitent automatiser le processus de conversion des données audio en texte, d&#39;exécution de traductions ou d&#39;identification de langue.</span></div><div class="disc-fact"><span class="disc-fact-k">Licence</span><span class="disc-fact-v">MIT</span></div></div>

@@ -12,13 +12,24 @@ Crawl4AI; ist ein Open-Source-Webcrawler und -Scraper, der für große Sprachmod
 - Speziell optimiert für LLM-Prozesse.
 - Es ist schnell und Open Source.
 
-## Installation (einzelner Befehl)
-**Python (Pip)**
+## Installation
+**über Pip (PyPI)**
 
 ```
 pip install crawl4ai
 ```
 
+
+## Ausführung
+****
+
+```
+crawl4ai-download
+```
+
+
+## Installation (einzelner Befehl)
+Helfen Sie mir, den Open-Source-Webcrawler Crawl4AI zu installieren; Versuchen wir es, indem wir es mit „pip install -U crawl4ai“ installieren, dann „crawl4ai-setup“ ausführen und eine Webseite mit dem Befehl „crwl https://www.nbcnews.com/business -o markdown“ in LLM-freundliches Markdown konvertieren.
 
 ## Verwandte Begriffe aus dem Glossar
 

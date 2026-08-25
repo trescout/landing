@@ -11,18 +11,25 @@ Win11Debloat is a PowerShell script that allows removing pre-installed apps and 
 - Turns off AI-powered features and ads.
 
 ## Installation
-**Direct execution with PowerShell (Windows)**
+****
 
 ```
-& ([scriptblock]::Create((irm "https://debloat.raphi.re/")))
+Invoke-WebRequest -Uri https://github.com/Raphire/Win11Debloat/archive/refs/heads/master.zip -OutFile Win11Debloat.zip
+```
+
+****
+
+```
+Expand-Archive -Path .\Win11Debloat.zip -DestinationPath .\Win11Debloat
 ```
 
 
 ## Running it
-**Run in silent mode**
+****
 
 ```
-& ([scriptblock]::Create((irm "https://debloat.raphi.re/"))) -Silent
+Set-Location .\Win11Debloat\Win11Debloat-master
+.\Win11Debloat.ps1
 ```
 
 

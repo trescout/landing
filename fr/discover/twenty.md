@@ -13,22 +13,45 @@ Twenty est une alternative open source à Salesforce qui permet aux équipes tec
 - Des flux de travail modernes alimentés par l’IA.
 - Des éléments de base flexibles qui peuvent être adaptés aux besoins de votre entreprise.
 
+## Installation
+****
+
+```
+curl -o .env https://raw.githubusercontent.com/twentyhq/twenty/refs/heads/main/packages/twenty-docker/.env.example
+```
+
+****
+
+```
+curl -o docker-compose.yml https://raw.githubusercontent.com/twentyhq/twenty/refs/heads/main/packages/twenty-docker/docker-compose.yml
+```
+
+****
+
+```
+openssl rand -base64 32
+```
+
+****
+
+```
+docker compose up -d
+```
+
+
+## Exécution
+****
+
+```
+http://localhost:3000
+```
+
+
 ## Comment installer ?
 Il est généralement installé sur votre propre serveur avec Docker ; les étapes d'installation sont dans la documentation. Sa gestion nécessite quelques connaissances techniques.
 
 ## Comment installer, comment utiliser ?
-**Créer un nouveau squelette d'application**
-
-```
-npx create-twenty-app my-app
-```
-
-**Publier sur l'espace de travail**
-
-```
-npx twenty app:publish --private
-```
-
+Je souhaite installer un CRM open source appelé Twenty ; créez une nouvelle application dans le terminal avec la commande 'npx create-twenty-app my-app', puis publiez-la sur mon espace de travail avec 'npx Twenty app:publish --private'. Dites-moi également comment l'exécuter avec Docker Compose pour l'auto-hébergement.
 
 ## Termes liés du glossaire
 

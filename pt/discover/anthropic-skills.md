@@ -12,22 +12,20 @@ Habilidades Antrópicas; É o repositório oficial de pacotes de habilidades que
 - Carregamento dinâmico: entra em ação somente quando necessário.
 - Totalmente compatível com o padrão Agentskills.
 
+## Instalação
+****
+
+```
+/plugin marketplace add anthropics/skills
+/plugin install document-skills@anthropic-agent-skills
+```
+
+
 ## Como usar?
 Você define a habilidade relevante como uma habilidade para Claude (por exemplo, Claude Code ou Cowork); Desta forma, aumenta o seu desempenho em tarefas especiais.
 
 ## Como instalar, como usar?
-**Adicionar Marketplace (Código Claude)**
-
-```
-/plugin marketplace add anthropics/skills
-```
-
-**Desenvolva suas habilidades documentais**
-
-```
-/plugin install document-skills@anthropic-agent-skills
-```
-
+Enquanto estiver no Claude Code, adicione o repositório de habilidades da Anthropic como um mercado com o comando '/plugin marketplace add anthropics/skills' e, em seguida, instale as habilidades do documento com '/plugin install document-skills@anthropic-agent-skills'; Em seguida, peça a ele para usar a habilidade relevante para extrair campos de formulário de um PDF, por exemplo.
 
 ## Termos relacionados do glossário
 

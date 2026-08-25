@@ -7,6 +7,14 @@ Heretic is a technical tool that removes security alignment constraints from tra
 - AGPL-3.0
 - GitHub Trending · 28 May 2026
 
+## Installation
+****
+
+```
+git clone https://github.com/p-e-w/heretic.git
+```
+
+
 ## What does it do?
 - It removes the constraints in the model with the 'Abliteration' technique.
 - Does not require expensive retraining.

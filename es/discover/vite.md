@@ -11,10 +11,20 @@ Vite ofrece un entorno de desarrollo rápido y una herramienta de creación para
 - Empaquetado de código optimizado para producción
 
 ## Instalación
-**Nuevo proyecto (npm)**
+****
 
 ```
-npm create vite@latest
+npm create vite@latest my-app
+cd my-app
+npm install
+```
+
+
+## Ejecución
+**Iniciar servidor de desarrollo**
+
+```
+npm run dev
 ```
 
 

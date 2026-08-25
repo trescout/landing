@@ -13,22 +13,19 @@ AIRI ist eine KI-basierte Plattform für virtuelle Charaktere, die Sie auf Ihrem
 - Möglichkeit, Spiele wie Minecraft und Factorio zu spielen.
 - Ihre Daten verbleiben vollständig bei Ihnen (Selbsthoster).
 
+## Installation
+****
+
+```
+git clone https://github.com/AIRI-institute/airi.git
+```
+
+
 ## So fangen Sie an
 Sie können es ganz einfach auf Ihrem eigenen System installieren, indem Sie der Dokumentation folgen (airi.moeru.ai/docs). Web-, macOS- und Windows-Plattformen werden unterstützt.
 
 ## Wie installiere ich, wie verwende ich?
-**macOS · Mit Homebrew installieren**
-
-```
-brew install --cask airi
-```
-
-**Windows · Mit Winget installieren**
-
-```
-winget install MoeruAI.AIRI
-```
-
+Installieren Sie die virtuelle Zeichenanwendung für künstliche Intelligenz namens AIRI auf meinem Computer: Wenn ich macOS verwende, führen Sie den Befehl „brew install --cask airi“ aus. Wenn ich Windows verwende, führen Sie den Befehl „winget install MoeruAI.AIRI“ aus und öffnen Sie die Anwendung.
 
 ## Verwandte Begriffe aus dem Glossar
 

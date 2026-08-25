@@ -13,23 +13,28 @@ ECC; Claude Code is a comprehensive system that brings skills, instincts, memory
 - It detects risky steps in advance with its security scanning (agentshield) feature.
 - It is not limited to a single tool, it works compatible with multiple environments (Claude Code, Codex, Cursor…).
 
-## Getting started
-You can install it as an npm package (ecc-universal) or as a GitHub application. All the steps are in the installation section of the repository. Once installed, your agent begins using TreScout's layer of capabilities and security.
-
-## How to install, how to use?
-**Claude Code · add + install marketplace**
+## Installation
+****
 
 ```
 /plugin marketplace add https://github.com/affaan-m/ECC
 /plugin install ecc@ecc
 ```
 
+
+## Running it
 **Run security scan**
 
 ```
 /security-scan
 ```
 
+
+## Getting started
+You can install it as an npm package (ecc-universal) or as a GitHub application. All the steps are in the installation section of the repository. Once installed, your agent begins using TreScout's layer of capabilities and security.
+
+## How to install, how to use?
+Install the ECC operator system by running the commands '/plugin marketplace add https://github.com/affaan-m/ECC' and then '/plugin install ecc@ecc' in Claude Code; then use the /security-scan command to run a security scan on my project.
 
 ## Related dictionary terms
 

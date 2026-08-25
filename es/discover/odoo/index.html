@@ -23,6 +23,7 @@
 <meta property="og:image" content="https://trescout.com/assets/discover/og/odoo-es.webp">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Odoo">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Odoo">
@@ -56,8 +57,6 @@
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
-
-<meta property="og:image:alt" content="Odoo">
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
@@ -70,6 +69,8 @@
 <p class="disc-lead">Odoo es una plataforma de planificación de recursos empresariales de código abierto que permite a las empresas gestionar todos sus procesos operativos bajo un mismo techo. Desarrollado con lenguaje Python, este sistema ofrece una amplia gama de aplicaciones comerciales modulares, desde ventas hasta contabilidad.</p>
 <ul class="disc-meta"><li>★ 52.082</li><li>GitHub Trending · 2026-06-04</li></ul>
       <section class="disc-sec"><h2>Qué aporta</h2><ul class="disc-wins"><li>Gestiona procesos de negocio como ventas, contabilidad y almacén desde un único centro.</li><li>Ofrece aplicaciones empresariales modulares que son compatibles entre sí.</li><li>Proporciona una infraestructura de código abierto que se puede personalizar según las necesidades.</li></ul></section>
+      <section class="disc-sec"><h2>Instalación</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Iniciar base de datos PostgreSQL</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>docker run -d --name odoo-db -e POSTGRES_DB=postgres -e POSTGRES_USER=odoo -e POSTGRES_PASSWORD=change_me postgres:15</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Iniciar Odoo conectado a la base de datos</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>docker run -d --name odoo --link odoo-db:db -p 127.0.0.1:8069:8069 odoo:latest</code></pre></div></section>
+      <section class="disc-sec"><h2>Ejecución</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Acceder a la interfaz local</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>http://localhost:8069</code></pre></div></section>
       <section class="disc-sec"><h2>Cómo empezar</h2><ul class="disc-links"><li>Fuente oficial →</li></ul></section>
       <section class="disc-sec"><h2>Términos relacionados del glosario</h2><div class="disc-related"><a href="/es/dictionary/enterprise-resource-planning/">Enterprise Resource Planning</a></div></section>
       <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Para quién es</span><span class="disc-fact-v">Es adecuado para empresas que desean gestionar todos sus procesos operativos en una única plataforma.</span></div></div>

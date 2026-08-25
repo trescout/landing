@@ -41,6 +41,8 @@ DRY = "--dry" in sys.argv
 LIMIT = next((int(a.split("=")[1]) for a in sys.argv if a.startswith("--limit=")), None)
 ONLY = next((a.split("=")[1] for a in sys.argv if a.startswith("--slug=")), None)
 CACHE = os.path.join(ROOT, "assets", "discover", f"{LANG}-cache.json")
+COMMAND_LABELS_PATH = os.path.join(ROOT, "assets", "discover", "command-labels.json")
+COMMAND_LABELS = json.load(open(COMMAND_LABELS_PATH, encoding="utf-8")) if os.path.exists(COMMAND_LABELS_PATH) else {}
 
 # ── çeviri ────────────────────────────────────────────────────────────────────
 _cache = json.load(open(CACHE, encoding="utf-8")) if os.path.exists(CACHE) else {}
@@ -55,6 +57,12 @@ def tr2en(s):
     s = (s or "").strip()
     if not s:
         return ""
+    # Technical command labels and source notes are deterministic assets. They
+    # must not consume a provider request during targeted recovery.
+    if s in (COMMAND_LABELS.get(LANG) or {}):
+        return (COMMAND_LABELS.get(LANG) or {}).get(s, s)
+    if s.startswith("Resmî kaynak:"):
+        return s
     if s in _cache:
         return _cache[s]
     if s in _basarisiz_metni:
@@ -91,7 +99,9 @@ def toplu_isit(metinler):
     eksik = []
     for s in metinler:
         s = (s or "").strip()
-        if s and s not in _cache and "\n" not in s and s not in eksik:
+        if (s and s not in _cache and "\n" not in s and s not in eksik
+                and s not in (COMMAND_LABELS.get(LANG) or {})
+                and not s.startswith("Resmî kaynak:")):
             eksik.append(s)
     if not eksik:
         return
@@ -157,10 +167,11 @@ def cmd_bloklari(sec_html, localized=None):
     """disc-cmd blokları · başlık çevrilir, KOD olduğu gibi kalır."""
     out = ""
     command_labels = (localized or {}).get("commands") or {}
+    fallback_labels = COMMAND_LABELS.get(LANG) or {}
     for m in re.finditer(r'<div class="disc-cmd">.*?<span>(.*?)</span>.*?<pre><code>(.*?)</code></pre>\s*</div>',
                          sec_html, re.S):
         original = metin(m.group(1))
-        baslik = command_labels.get(original) or tr2en(original)
+        baslik = command_labels.get(original) or fallback_labels.get(original) or tr2en(original) or original
         kod = m.group(2)  # zaten kaçışlı · dokunma
         out += ('<div class="disc-cmd"><div class="disc-cmd-head"><span>' + esc(baslik) + '</span>'
                 f'<button type="button" class="disc-copy" aria-label="{D["kopyala_komut"]}">{D["kopyala"]}</button></div>'

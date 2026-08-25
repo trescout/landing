@@ -11,10 +11,30 @@ Chatwoot is an open source platform that offers live chat, email support and omn
 - It gives you full control over your customer data by hosting it on your own server.
 
 ## Installation
-**Docker Compose (self-hosted)**
+****
 
 ```
-git clone https://github.com/chatwoot/chatwoot.git && cd chatwoot && docker compose up -d
+wget -O .env https://raw.githubusercontent.com/chatwoot/chatwoot/develop/.env.example
+```
+
+****
+
+```
+wget -O docker-compose.yaml https://raw.githubusercontent.com/chatwoot/chatwoot/develop/docker-compose.production.yaml
+```
+
+****
+
+```
+docker compose run --rm rails bundle exec rails db:chatwoot_prepare
+```
+
+
+## Running it
+****
+
+```
+docker compose up -d
 ```
 
 

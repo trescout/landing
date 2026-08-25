@@ -7,6 +7,22 @@ VoxCPM; Es handelt sich um ein tokenizerfreies Open-Source-TTS-Modell, das für 
 - Apache-2.0
 - GitHub Trending · 30 May 2026
 
+## Installation
+****
+
+```
+pip install voxcpm
+```
+
+
+## Ausführung
+****
+
+```
+voxcpm design --text "VoxCPM2 brings studio-quality multilingual speech synthesis." --output out.wav
+```
+
+
 ## Was bietet es?
 - Mehrsprachige und natürliche Sprachproduktion.
 - Kreatives und originelles Sounddesign.
@@ -15,24 +31,7 @@ VoxCPM; Es handelt sich um ein tokenizerfreies Open-Source-TTS-Modell, das für 
 ## Haftungshinweis
 
 ## Wie installiere ich, wie verwende ich?
-**mit pip installieren**
-
-```
-pip install voxcpm
-```
-
-**Audiodesign (keine Referenzen erforderlich)**
-
-```
-voxcpm design --text "VoxCPM2 brings studio-quality multilingual speech synthesis." --output out.wav
-```
-
-**Stimmenklonen (mit Referenzstimme)**
-
-```
-voxcpm clone --text "This is a voice cloning demo." --reference-audio path/to/voice.wav --output out.wav
-```
-
+Führen Sie „pip install voxcpm“ aus, um das Text-to-Speech-Tool VoxCPM zu installieren, und generieren Sie dann eine Audiodatei mit dem Befehl „voxcpm design --text „Hello world“ --output out.wav“; Wenn ich möchte, klone ich diesen Sound mit „voxcpm clone“ mit einer Referenz-Sounddatei.
 
 ## Verwandte Begriffe aus dem Glossar
 

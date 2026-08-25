@@ -11,6 +11,14 @@ Firecrawl oferece uma interface (API) para rastrear dados de sites em grande esc
 - Coleta dados para agentes de inteligência artificial
 - Interage com páginas da web complexas
 
+## Instalação
+****
+
+```
+npm install @mendable/firecrawl-js
+```
+
+
 ## Se você não programa
 Usando o Firecrawl, verifique os dados no site que especifiquei e converta-os em um formato Markdown limpo que os modelos de inteligência artificial possam processar facilmente. Ao capturar o conteúdo da página, limpe estruturas complexas e extraia apenas texto significativo, dados estruturados ou informações visuais essenciais.
 

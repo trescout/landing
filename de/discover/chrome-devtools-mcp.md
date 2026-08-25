@@ -12,16 +12,10 @@ Dieser für Chrome DevTools entwickelte Server ermöglicht es Codierungs-Agenten
 - Überprüfen Sie Netzwerkanfragen und Konsolenfehler
 
 ## Installation
-**Installation mit Claude Code**
+****
 
 ```
-claude mcp add chrome-devtools --scope user npx chrome-devtools-mcp@latest
-```
-
-**Installation mit Codex**
-
-```
-codex mcp add chrome-devtools -- npx chrome-devtools-mcp@latest
+npm install -g chrome-devtools-mcp
 ```
 
 

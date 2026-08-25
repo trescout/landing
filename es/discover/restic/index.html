@@ -23,6 +23,7 @@
 <meta property="og:image" content="https://trescout.com/assets/discover/og/restic-es.webp">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Restic">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Restic">
@@ -56,8 +57,6 @@
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
-
-<meta property="og:image:alt" content="Restic">
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
@@ -72,7 +71,8 @@
       <aside class="disc-note"><p><strong>Nota de TreScout:</strong> Almacena tus copias de seguridad cifrándolas y no ocupa espacio porque no escribe el mismo archivo dos veces. No tiene una interfaz en la que se puede hacer clic, se ejecuta desde la línea de comandos y usted establece la tarea de limpiar las copias de seguridad antiguas; de lo contrario, el almacenamiento aumentará con el tiempo. Intente restaurar un archivo el mismo día que lo instaló: de lo contrario, no podrá saber si la copia de seguridad realmente funcionó.</p></aside>
       <section class="disc-sec disc-updates"><h2>Actualizaciones</h2><ul class="disc-update-list"><li><strong>2 de agosto de 2026:</strong> Estrellas 34,273 → 35,302, última versión v0.19.1 (5 de julio de 2026).</li></ul></section>
       <section class="disc-sec"><h2>Qué aporta</h2><ul class="disc-wins"><li>Proporciona alta seguridad al cifrar los datos.</li><li>Ahorra espacio de almacenamiento con copia de seguridad incremental</li><li>Compatible con diferentes sistemas de almacenamiento local y en la nube</li></ul></section>
-      <section class="disc-sec"><h2>Instalación</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>macOS (hecho en casa)</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>brew install restic</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Debian/Ubuntu</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>apt install restic</code></pre></div></section>
+      <section class="disc-sec"><h2>Instalación</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>macOS · Homebrew</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>brew install restic</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Windows · winget</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>winget install restic.restic</code></pre></div></section>
+      <section class="disc-sec"><h2>Ejecución</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Crear repositorio de respaldo</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>restic init --repo /path/to/repo</code></pre></div></section>
       <section class="disc-sec"><h2>Si no programa</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Copiar instrucción">Copiar</button></div><p class="disc-ai-text">Quiero hacer una copia de seguridad de mis datos de forma segura usando Restic. ¿Cómo puedo exportar una carpeta local o un directorio específico a un almacenamiento de respaldo cifrado? ¿Puede explicar paso a paso cómo crear el repositorio de respaldo e iniciar el proceso de respaldo inicial para que mis datos estén cifrados?</p></div></section>
       <section class="disc-sec"><h2>Términos relacionados del glosario</h2><div class="disc-related"><a href="/es/dictionary/backup-program/">Backup Program</a><a href="/es/dictionary/incremental-backup/">Incremental Backup</a><a href="/es/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
       <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Para quién es</span><span class="disc-fact-v">Es adecuado para todos los usuarios que quieran realizar una copia de seguridad de sus datos de forma rápida y eficaz cifrándolos.</span></div><div class="disc-fact"><span class="disc-fact-k">Licencia</span><span class="disc-fact-v">BSD-2-Clause</span></div></div>

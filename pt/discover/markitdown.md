@@ -12,22 +12,27 @@ MarkItDown (Microsoft); É uma ferramenta Python leve que converte Word, PDF, Po
 - Ele preserva estruturas de cabeçalho, lista e tabela.
 - Ideal para seus processos de RAG e análise de texto.
 
-## Exemplo de uso
-relatório.pdf · apresentação.pptx · tabela.xlsx
-
-## Instalação + uso
-**Instalação (Python)**
+## Instalação
+****
 
 ```
 pip install 'markitdown[all]'
 ```
 
-**Uso (linha de comando)**
+
+## Execução
+****
 
 ```
 markitdown belge.pdf > belge.md
 ```
 
+
+## Exemplo de uso
+relatório.pdf · apresentação.pptx · tabela.xlsx
+
+## Instalação + uso
+Instale o MarkItDown usando o comando pip install 'markitdown[all]' no terminal e, em seguida, converta um arquivo PDF, Word, Excel ou PowerPoint em Markdown executando o comando 'markitdown filename.pdf > document.md'.
 
 ## Termos relacionados do glossário
 

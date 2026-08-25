@@ -12,6 +12,14 @@ Cursor Plugins; It includes the official plugin specification and ready-made off
 - Provides forward compatibility thanks to its official specification structure.
 - You can develop your own solutions by taking inspiration from ready-made plugins.
 
+## Installation
+****
+
+```
+git clone https://github.com/cursor-plugins/cursor-plugins.git
+```
+
+
 ## How to use it with AI?
 Help me install the official Cursor plugins from this repository (for example, plugins that do code review or security checks) from the Cursor plugin market for the project I am working on in the Cursor editor, and explain step by step how to use them.
 
