@@ -106,3 +106,97 @@ def translate_text(text: str, lang: str) -> str | None:
         if translated:
             return translated
     return _gtx(clean, lang)
+
+
+def _gemini_batch(texts: list[str], lang: str, key: str) -> dict[str, str] | None:
+    items = [{"id": str(index), "text": text} for index, text in enumerate(texts)]
+    body = {
+        "systemInstruction": {
+            "parts": [{
+                "text": (
+                    "You are a precise professional translator. Output valid JSON only. Translate each Turkish "
+                    "item into the requested language. Preserve every id exactly, do not summarize, omit, merge, "
+                    "or add items, and preserve proper nouns, URLs, numbers, and technical meaning."
+                )
+            }]
+        },
+        "contents": [{
+            "parts": [{
+                "text": (
+                    f"Translate every item into {lang}. Return a JSON array with exactly one object per input, "
+                    "using the same id and the translated text in the text field.\n\n" + json.dumps(items, ensure_ascii=False)
+                )
+            }]
+        }],
+        "generationConfig": {
+            "temperature": 0.1,
+            "maxOutputTokens": 8192,
+            "responseMimeType": "application/json",
+        },
+    }
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
+    request = urllib.request.Request(
+        url,
+        data=json.dumps(body, ensure_ascii=False).encode("utf-8"),
+        headers={"Content-Type": "application/json", "x-goog-api-key": key},
+        method="POST",
+    )
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(request, timeout=90) as response:
+                payload = json.loads(response.read().decode("utf-8"))
+            candidates = payload.get("candidates") or []
+            parts = (candidates[0].get("content") or {}).get("parts") or []
+            raw = "".join(str(part.get("text") or "") for part in parts).strip()
+            if raw.startswith("```"):
+                raw = raw.split("\n", 1)[-1].removesuffix("```").strip()
+            parsed = json.loads(raw)
+            rows = parsed if isinstance(parsed, list) else parsed.get("translations")
+            if not isinstance(rows, list) or len(rows) != len(items):
+                raise ValueError("Gemini batch translation shape mismatch")
+            result: dict[str, str] = {}
+            for row in rows:
+                if not isinstance(row, dict):
+                    raise ValueError("Gemini batch row is not an object")
+                index = int(str(row.get("id", "")))
+                if index < 0 or index >= len(items):
+                    raise ValueError("Gemini batch id is invalid")
+                value = str(row.get("text") or "").strip()
+                if not value:
+                    raise ValueError("Gemini batch item is empty")
+                result[items[index]["text"]] = value
+            if len(result) != len(items):
+                raise ValueError("Gemini batch ids are not unique")
+            return result
+        except urllib.error.HTTPError as error:
+            if error.code not in (429, 500, 502, 503) or attempt == 2:
+                return None
+        except Exception:
+            if attempt == 2:
+                return None
+        time.sleep(_retry_delay(attempt))
+    return None
+
+
+def translate_texts(texts: list[str], lang: str) -> dict[str, str | None]:
+    """Translate passages in paced batches; never return source text on failure."""
+    unique = list(dict.fromkeys((text or "").strip() for text in texts if (text or "").strip()))
+    result: dict[str, str | None] = {}
+    key = os.environ.get("GEMINI_API_KEY", "").strip()
+    batch_size = 12
+    for start in range(0, len(unique), batch_size):
+        batch = unique[start:start + batch_size]
+        translated = _gemini_batch(batch, lang, key) if key else None
+        if translated is None:
+            # Do not immediately fire Gemini once per item after a batch quota
+            # failure. GTX is bounded and failures remain explicit as None.
+            translated = {}
+            for text in batch:
+                value = _gtx(text, lang)
+                if value:
+                    translated[text] = value
+        for text in batch:
+            result[text] = translated.get(text)
+        if start + batch_size < len(unique):
+            time.sleep(5.0)
+    return result

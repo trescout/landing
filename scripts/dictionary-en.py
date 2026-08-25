@@ -21,7 +21,7 @@ import os, re, sys, json, html, time, urllib.parse, urllib.request
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from diller import dil, tarih_yaz, chrome as chrome_kur, dil_dugmeleri_yaz, dil_hedefleri
-from translation_service import translate_text
+from translation_service import translate_text, translate_texts
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TR_DIR = os.path.join(ROOT, "dictionary")
@@ -39,6 +39,7 @@ ONLY = next((a.split("=")[1] for a in sys.argv if a.startswith("--slug=")), None
 _cache = json.load(open(CACHE, encoding="utf-8")) if os.path.exists(CACHE) else {}
 _yeni = 0
 _basarisiz = 0
+_basarisiz_metni = set()
 
 BASLIK = D["bolumler"]
 KATEGORI = {"ai": "AI", "web": "Web", "devops": "DevOps", "mobil": "Mobile",
@@ -52,6 +53,8 @@ def tr2en(s):
         return ""
     if s in _cache:
         return _cache[s]
+    if s in _basarisiz_metni:
+        return None
     out = translate_text(s, LANG)
     if out:
         _cache[s] = out
@@ -59,6 +62,7 @@ def tr2en(s):
         time.sleep(0.15)
         return out
     _basarisiz += 1
+    _basarisiz_metni.add(s)
     print(f"  ! çeviri başarısız (önbelleğe yazılmadı, sayfa korunacak): {s[:60]}")
     return None
 
@@ -78,7 +82,7 @@ def toplu_isit(metinler):
     tr2en tek tek devam eder · yanlış hizalanmış çeviri yazmaktansa yavaş olmak
     yeğdir.
     """
-    global _yeni
+    global _yeni, _basarisiz
     eksik = []
     for s in metinler:
         s = (s or "").strip()
@@ -86,29 +90,16 @@ def toplu_isit(metinler):
             eksik.append(s)
     if not eksik:
         return
-    BLOK = 25          # satır · daha büyüğünde uç nokta segmentleri birleştiriyor
-    for i in range(0, len(eksik), BLOK):
-        grup = eksik[i:i + BLOK]
-        blok = "\n".join(grup)
-        if len(blok) > 4000:            # URL sınırı · grubu ikiye böl
-            toplu_isit(grup[:len(grup) // 2]); toplu_isit(grup[len(grup) // 2:])
-            continue
-        url = (f"https://translate.googleapis.com/translate_a/single?client=gtx&sl=tr&tl={LANG}&dt=t&q="
-               + urllib.parse.quote(blok))
-        try:
-            with urllib.request.urlopen(url, timeout=25) as r:
-                d = json.loads(r.read().decode())
-            satirlar = "".join(p[0] for p in d[0]).split("\n")
-        except Exception:
-            continue                     # tr2en tek tek halleder
-        if len(satirlar) != len(grup):
-            continue                     # hizalama bozuk · bloğu at
-        for kaynak, cevrilen in zip(grup, satirlar):
-            cevrilen = cevrilen.strip()
-            if cevrilen:
-                _cache[kaynak] = cevrilen
-                _yeni += 1
-        time.sleep(0.3)
+    translated = translate_texts(eksik, LANG)
+    for kaynak in eksik:
+        cevrilen = translated.get(kaynak)
+        if cevrilen:
+            _cache[kaynak] = cevrilen
+            _yeni += 1
+        else:
+            _basarisiz += 1
+            _basarisiz_metni.add(kaynak)
+            print(f"  ! batch çeviri başarısız (önbelleğe yazılmadı, sayfa korunacak): {kaynak[:60]}")
 
 
 def sayfa_metinleri(tr_html):
