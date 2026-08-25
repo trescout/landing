@@ -14,6 +14,7 @@ import urllib.request
 import re
 
 GEMINI_MODEL = os.environ.get("TREESCOUT_TRANSLATION_MODEL", "gemini-3.1-flash-lite")
+_GEMINI_PAUSED_UNTIL = 0.0
 
 
 def _retry_delay(attempt: int) -> float:
@@ -38,7 +39,18 @@ def _http_retry_delay(error: urllib.error.HTTPError, attempt: int) -> float:
     return _retry_delay(attempt)
 
 
+def _pause_gemini(delay: float) -> None:
+    global _GEMINI_PAUSED_UNTIL
+    _GEMINI_PAUSED_UNTIL = max(_GEMINI_PAUSED_UNTIL, time.time() + delay)
+
+
+def _gemini_is_paused() -> bool:
+    return time.time() < _GEMINI_PAUSED_UNTIL
+
+
 def _gemini(text: str, lang: str, key: str) -> str | None:
+    if _gemini_is_paused():
+        return None
     body = {
         "systemInstruction": {
             "parts": [{
@@ -82,7 +94,10 @@ def _gemini(text: str, lang: str, key: str) -> str | None:
                 return result or None
             raise ValueError("Gemini empty translation response")
         except urllib.error.HTTPError as error:
-            if error.code not in (429, 500, 502, 503) or attempt == 3:
+            if error.code == 429:
+                _pause_gemini(_http_retry_delay(error, attempt))
+                return None
+            if error.code not in (500, 502, 503) or attempt == 3:
                 return None
             time.sleep(_http_retry_delay(error, attempt))
             continue
@@ -108,6 +123,9 @@ def _gtx(text: str, lang: str) -> str | None:
             result = "".join(str(part[0]) for part in payload[0] if isinstance(part, list) and part).strip()
             return result or None
         except urllib.error.HTTPError as error:
+            if error.code == 429:
+                _pause_gemini(_http_retry_delay(error, attempt))
+                return None
             if error.code not in (429, 500, 502, 503) or attempt == 2:
                 return None
             time.sleep(_http_retry_delay(error, attempt))
@@ -192,6 +210,9 @@ def _gemini_batch(texts: list[str], lang: str, key: str) -> dict[str, str] | Non
                 raise ValueError("Gemini batch ids are not unique")
             return result
         except urllib.error.HTTPError as error:
+            if error.code == 429:
+                _pause_gemini(_http_retry_delay(error, attempt))
+                return None
             if error.code not in (429, 500, 502, 503) or attempt == 2:
                 return None
             time.sleep(_http_retry_delay(error, attempt))

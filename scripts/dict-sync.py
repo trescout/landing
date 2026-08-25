@@ -274,8 +274,60 @@ def update_sitemap(new_slugs):
         lines+=["  <url>",f"    <loc>{u}</loc>",f"    <lastmod>{TODAY_ISO}</lastmod>","    <changefreq>monthly</changefreq>","    <priority>0.6</priority>","  </url>"]
     if lines: open(SITEMAP,"w",encoding="utf-8").write(sm.replace("</urlset>","\n".join(lines)+"\n</urlset>"))
 
+# ---------- manual source-only recovery ----------
+def seed_source_terms(slugs):
+    """Manual-only recovery: render trusted report glossary text without Gemini."""
+    wanted = [slugify(s.strip()) for s in slugs.split(",") if s.strip()]
+    if not wanted:
+        raise SystemExit("--seed requires at least one slug")
+    terms = {slugify(t["term"]): t for t in collect_glossary()}
+    manifest = json.load(open(MANIFEST, encoding="utf-8"))
+    existing = {m["slug"] for m in manifest}
+    missing = [s for s in wanted if s not in terms]
+    if missing:
+        print(f"HATA: rapor glossary kaynağında bulunmayan seed: {', '.join(missing)}")
+        raise SystemExit(1)
+    specs = {
+        "append-only-log": ("Append-only log", "data"),
+        "personal-knowledge-management": ("Personal knowledge management", "data"),
+    }
+    new = []
+    for slug in wanted:
+        if slug in existing:
+            print(f"  · {slug}: manifestte zaten var")
+            continue
+        term = terms[slug]
+        en, cat = specs.get(slug, (term["term"], "data"))
+        source = term["explanation"].strip()
+        new.append({
+            "slug": slug, "en": en, "full": "", "cat": cat,
+            "kisa": source, "tanim": source, "analoji": "", "nasil": "",
+            "nerede": "", "karistirilan": "", "sss": [], "related": [],
+        })
+    if not new:
+        print("kaynak seed’i zaten yayınlanmış · sözlük güncel")
+        return
+    if DRY:
+        print(f"[--dry] source-only seed: {', '.join(n['slug'] for n in new)}")
+        return
+    en_map = {m["slug"]: m["en"] for m in manifest}
+    en_map.update({n["slug"]: n["en"] for n in new})
+    for n in new:
+        render_page(n, en_map)
+    manifest += [{"slug": n["slug"], "en": n["en"], "full": "", "cat": n["cat"],
+                  "kisa": n["kisa"], "date": TODAY_ISO} for n in new]
+    json.dump(manifest, open(MANIFEST, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+    render_index(manifest)
+    update_sitemap([n["slug"] for n in new])
+    print(f"✅ {len(new)} source-only sözlük terimi eklendi · sonraki zenginleştirme kuyruğuna hazır")
+
+
 # ---------- main ----------
 def main():
+    seed = next((a for a in sys.argv if a.startswith("--seed=")), None)
+    if seed:
+        seed_source_terms(seed.split("=", 1)[1])
+        return
     terms=collect_glossary()
     print(f"raporlardan toplanan glossary terimi: {len(terms)}")
     if not terms: print("glossary bulunamadı (rapor JSON'unda 'glossary' yok, PDF de yok)."); return

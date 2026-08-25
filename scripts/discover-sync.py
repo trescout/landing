@@ -836,7 +836,66 @@ def refresh(cat, by_slug, limit):
     if not DRY: json.dump(cat,open(CATALOG,"w",encoding="utf-8"),ensure_ascii=False,indent=2)
     print(f"✅ {n} sayfaya güncelleme katmanı eklendi · {len(aday)} kayıt incelendi")
 
+def seed_source_discovery(slugs):
+    """Manual-only recovery: add report-sourced repos as safe lite entries."""
+    wanted = [slugify(s.strip()) for s in slugs.split(",") if s.strip()]
+    if not wanted:
+        raise SystemExit("--seed requires at least one slug")
+    cat = json.load(open(CATALOG, encoding="utf-8"))
+    existing = {c["slug"] for c in cat}
+    items = {slugify(it.get("title", "")): it for it in report_items()}
+    missing = [s for s in wanted if s not in items]
+    if missing:
+        print(f"HATA: rapor discovery kaynağında bulunmayan seed: {', '.join(missing)}")
+        raise SystemExit(1)
+    new = []
+    for slug in wanted:
+        if slug in existing:
+            print(f"  · {slug}: catalogda zaten var")
+            continue
+        it = items[slug]
+        title = nice_title(it.get("title", "").split("/")[-1] or it.get("title", ""))
+        lang, stars, momentum = parse_meta(it.get("meta", ""))
+        summary = (it.get("summary") or "").strip()
+        new.append({
+            "slug": slug, "title": title,
+            "tagline": make_tagline(summary, title), "summary": summary,
+            "url": it.get("url", ""), "lang": lang, "stars": stars,
+            "momentum": momentum, "date": it.get("_date", TODAY),
+            "last_seen": it.get("_date", TODAY), "tags": infer_tags(summary),
+        })
+    if not new:
+        print("kaynak seed’i zaten yayınlanmış · keşif güncel")
+        return
+    if DRY:
+        print(f"[--dry] source-only discovery: {', '.join(n['slug'] for n in new)}")
+        return
+    for n in new:
+        os.makedirs(os.path.join(DISC, n["slug"]), exist_ok=True)
+        open(os.path.join(DISC, n["slug"], "index.html"), "w", encoding="utf-8").write(build_page(n, None))
+        card = os.path.join(OGDIR, n["slug"] + ".webp")
+        if not os.path.exists(card):
+            make_card(n["slug"], n["title"], n["tagline"], n["stars"], n["lang"], card)
+    cat.extend(base_entry(n, None, "source_only", None) for n in new)
+    json.dump(cat, open(CATALOG, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+    sm = open(SITEMAP, encoding="utf-8").read()
+    lines = []
+    for n in new:
+        u = f"https://trescout.com/discover/{n['slug']}/"
+        if u in sm:
+            continue
+        lines += ["  <url>", f"    <loc>{u}</loc>", f"    <lastmod>{n['date']}</lastmod>",
+                  "    <changefreq>monthly</changefreq>", "    <priority>0.6</priority>", "  </url>"]
+    if lines:
+        open(SITEMAP, "w", encoding="utf-8").write(sm.replace("</urlset>", "\n".join(lines) + "\n</urlset>"))
+    print(f"✅ {len(new)} source-only discovery eklendi · lite + zenginleştirme kuyruğu")
+
+
 def main():
+    seed = next((a for a in sys.argv if a.startswith("--seed=")), None)
+    if seed:
+        seed_source_discovery(seed.split("=", 1)[1])
+        return
     key=gemini_key()
     cat=json.load(open(CATALOG,encoding="utf-8"))
     by_slug={c["slug"]:c for c in cat}
