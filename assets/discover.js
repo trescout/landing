@@ -74,8 +74,9 @@
   var state = { q: "", tag: null, sort: "date" };
   var items = [];
 
-  function card(it) {
-    var img = it.image ? '<img class="disc-card-img" src="' + esc(it.image) + '" alt="" loading="lazy" decoding="async">' : '';
+  function card(it, index) {
+    var imageLoading = index === 0 ? 'loading="eager" fetchpriority="high"' : 'loading="lazy"';
+    var img = it.image ? '<img class="disc-card-img" src="' + esc(it.image) + '" alt="" ' + imageLoading + ' decoding="async">' : '';
     var meta = it.meta ? '<span class="disc-card-meta">' + esc(it.meta) + '</span>' : '';
     var tags = (it.tags || []).map(function (t) { return '<span class="disc-card-tagchip">' + esc(etiket(t)) + '</span>'; }).join('');
     return '<a class="disc-card" href="' + yol(esc(it.slug)) + '">' + img +
