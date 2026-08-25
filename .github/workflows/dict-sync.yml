@@ -129,6 +129,7 @@ jobs:
       # akışında değildi, elle çalıştırılıyordu (2026-08-07 bulgusu).
       # Önbellekli: değişmeyen metin çeviri harcamaz.
       - name: İngilizce tanıtım metinleri (tagline_en · kisa_en)
+        if: ${{ github.event_name != 'workflow_dispatch' || (github.event.inputs.dictionary_slugs == '' && github.event.inputs.discovery_slugs == '') }}
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: node scripts/translate-i18n.js
@@ -144,6 +145,7 @@ jobs:
         run: echo "kodlar=$(python3 scripts/diller.py --liste)" >> "$GITHUB_OUTPUT"
 
       - name: Tanıtım metinleri (tagline_XX · kisa_XX)
+        if: ${{ github.event_name != 'workflow_dispatch' || (github.event.inputs.dictionary_slugs == '' && github.event.inputs.discovery_slugs == '') }}
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
