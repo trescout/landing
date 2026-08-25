@@ -33,11 +33,8 @@ Bağımsız bir LLM, kod editörü, coding agent runtime’ı veya hazır bir uy
 Bu paket ajanlara yönerge verir; üretilen kodu, değişikliklerin kapsamını ve test sonuçlarını siz doğrulamalısınız.
 
 ## İlk görev istemi
-İlk adım için hazır istem
+İlk adım için hazır istem 
 Bu görev için önce planı, belirsizlikleri ve etkilenecek dosyaları çıkarın. Ardından en basit yaklaşımı önerin ve yalnızca hedef için gerekli değişiklikleri yapın.
-
-## İlgili sözlük terimleri
-LLM Plugin
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/multica-ai/andrej-karpathy-skills)
@@ -46,6 +43,9 @@ LLM Plugin
 - [Karpathy örnekleri →](https://github.com/multica-ai/andrej-karpathy-skills/blob/main/EXAMPLES.md)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-23 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Coding Agent Runtime Plugin AI Skills LLM Agent
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/andrej-karpathy-skills/

@@ -22,7 +22,8 @@ VoxCPM ; çok dilli konuşma üretimi, yaratıcı ses tasarımı ve gerçekçi s
 - Yüksek doğrulukta ses kopyalama (voice cloning).
 
 ## Sorumluluk notu
-Ses kopyalama (voice cloning) içerir. Bir kişinin sesini izni olmadan taklit etmek yasal ve etik sorun yaratır; sorumluluk kullanıcıya aittir. 
+
+Ses kopyalama (voice cloning) içerir. Bir kişinin sesini izni olmadan taklit etmek yasal ve etik sorun yaratır; sorumluluk kullanıcıya aittir.
 
 ## Nasıl kurulur, nasıl kullanılır?
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
@@ -46,7 +47,7 @@ voxcpm design --text "VoxCPM2 brings studio-quality multilingual speech synthesi
 voxcpm clone --text "This is a voice cloning demo." --reference-audio path/to/voice.wav --output out.wav
 ```
 
-Lisans: Apache-2.0 · kod özgürce kullanılabilir/ticari. Model çıktısı ve ses kopyalama için yasal/etik sorumluluk size aittir. 
+Lisans: Apache-2.0 · kod özgürce kullanılabilir/ticari. Model çıktısı ve ses kopyalama için yasal/etik sorumluluk size aittir.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/OpenBMB/VoxCPM)

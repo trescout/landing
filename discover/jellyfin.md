@@ -36,7 +36,7 @@ Jellyfin medya sunucusunu kurmak istiyorum; resmi jellyfin.org/downloads sayfas�
 docker run -d --name jellyfin -p 8096:8096 jellyfin/jellyfin
 ```
 
-Lisans: GPL-2.0 · Kullanması tamamen serbest ve ücretsiz. Yazılımı değiştirip dağıtırsanız, değişikliklerinizi de aynı GPL lisansıyla ve kaynak koduyla paylaşmanız gerekir (copyleft). Sadece kendiniz kullanıyorsanız bir yükümlülük yok. 
+Lisans: GPL-2.0 · Kullanması tamamen serbest ve ücretsiz. Yazılımı değiştirip dağıtırsanız, değişikliklerinizi de aynı GPL lisansıyla ve kaynak koduyla paylaşmanız gerekir (copyleft). Sadece kendiniz kullanıyorsanız bir yükümlülük yok.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/jellyfin/jellyfin)

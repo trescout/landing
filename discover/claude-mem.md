@@ -47,7 +47,7 @@ Terminalde 'npx claude-mem install' komutunu çalıştırarak Claude-Mem'i kur, 
 npx claude-mem install
 ```
 
-Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir). 
+Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir).
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/thedotmack/claude-mem)

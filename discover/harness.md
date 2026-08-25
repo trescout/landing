@@ -38,7 +38,7 @@ Claude Code'da '/plugin marketplace add revfactory/harness' ve ardından '/plugi
 /plugin install harness@harness-marketplace
 ```
 
-Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir). 
+Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir).
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/revfactory/harness)

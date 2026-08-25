@@ -45,7 +45,7 @@ Claude Code'da '/plugin marketplace add https://github.com/affaan-m/ECC' ve ard�
 /security-scan
 ```
 
-Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari projede kullanabilirsiniz (yalnızca telif/lisans bildirimini koruyun). 
+Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari projede kullanabilirsiniz (yalnızca telif/lisans bildirimini koruyun).
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/affaan-m/ECC)

@@ -5,6 +5,36 @@ WiFi Channel State Information (CSI) kullanarak ortam değişimlerini incelemeni
 - ★ 91.322
 - GitHub Trending · 2026-05-30
 
+## Kurulum
+
+**Docker imajını çekin**
+
+```
+docker pull ruvnet/wifi-densepose:latest
+```
+
+**Kaynak kodunu alın**
+
+```
+git clone https://github.com/ruvnet/RuView.git
+```
+
+## Çalıştırma
+
+**Donanımsız demo sunucusu**
+
+```
+docker run -p 3000:3000 ruvnet/wifi-densepose:latest
+```
+
+**Deterministik doğrulama**
+
+```
+./verify
+```
+
+Kaynak: Komutlar RuView resmî kullanıcı ve build rehberlerinden 24 Ağustos 2026’da kontrol edildi; Docker varsayılan olarak simüle edilmiş verilerle çalışabilir.
+
 ## Güncelleme
 - 23 Ağustos 2026: Yıldız 90.995 → 91.322, son sürüm v2331 (22 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 90.940 → 90.995, son sürüm v2301 (19 Ağustos 2026).
@@ -40,41 +70,8 @@ Tıbbi izleme amacıyla doğruluk beklentisi olan çalışmalar veya standart la
 Laptopta RSSI-only mod, kaba varlık ve hareket algılama içindir; pose desteği sunmaz. Pose ve bazı benchmark yetenekleri deneysel, ilk sürüm niteliğinde veya açık sınırlılıklarla belgelenir; sonuçları kullandığınız donanım moduna göre değerlendirin.
 
 ## İlk görev istemi
-İlk adım için hazır istem
+İlk adım için hazır istem 
 WiFi CSI verileriyle basit bir hareket algılama senaryosunu simüle edilmiş veri üzerinden nasıl değerlendirebilirsiniz?
-
-## Kurulum
-
-**Docker imajını çekin**
-
-```
-docker pull ruvnet/wifi-densepose:latest
-```
-
-**Kaynak kodunu alın**
-
-```
-git clone https://github.com/ruvnet/RuView.git
-```
-
-## Çalıştırma
-
-**Donanımsız demo sunucusu**
-
-```
-docker run -p 3000:3000 ruvnet/wifi-densepose:latest
-```
-
-**Deterministik doğrulama**
-
-```
-./verify
-```
-
-Kaynak: Komutlar RuView resmî kullanıcı ve build rehberlerinden 24 Ağustos 2026’da kontrol edildi; Docker varsayılan olarak simüle edilmiş verilerle çalışabilir.
-
-## İlgili sözlük terimleri
-WiFi
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/ruvnet/RuView)
@@ -83,6 +80,9 @@ WiFi
 - [RuView build rehberi →](https://github.com/ruvnet/RuView/blob/main/docs/build-guide.md)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-05-30 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+WiFi Benchmark
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ruview/

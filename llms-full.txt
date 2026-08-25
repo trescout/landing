@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve web/PDF rapor olarak yayımlar. E-posta teslimatı erken erişim aşamasında hazırlanıyor.
 
-Son güncelleme: 2026-08-24 · 468 araç · 535 terim
+Son güncelleme: 2026-08-25 · 472 araç · 537 terim
 
 ---
 
@@ -2129,6 +2129,23 @@ Veri değiştirilemediği için geçmişe dönük manipülasyon yapmak imkansız
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/append-only/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Append-only log nedir?
+
+**Kategori:** Veri & Altyapı  
+**Son güncelleme:** 2026-08-25
+
+Registre sécurisé où les anciennes données ne peuvent pas être modifiées, et où seules de nouvelles informations peuvent être ajoutées à la fin.
+
+## Tanım
+Registre sécurisé où les anciennes données ne peuvent pas être modifiées, et où seules de nouvelles informations peuvent être ajoutées à la fin.
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/append-only-log/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -14392,6 +14409,23 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Personal knowledge management nedir?
+
+**Kategori:** Veri & Altyapı  
+**Son güncelleme:** 2026-08-25
+
+Méthode consistant à stocker et à récupérer de manière organisée les connaissances, idées et notes apprises par une personne à l'aide d'outils numériques.
+
+## Tanım
+Méthode consistant à stocker et à récupérer de manière organisée les connaissances, idées et notes apprises par une personne à l'aide d'outils numériques.
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/personal-knowledge-management/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Personalized Tutoring nedir?
 
 **Kategori:** Yapay Zekâ  
@@ -22007,7 +22041,7 @@ GitHub sayfasında ilgilendiğiniz teknolojiyi seçebilir ve adım adım hazırl
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Sana 'build-your-own-x' adlı, sıfırdan kendi teknolojini (veritabanı, işletim sistemi, programlama dili, web sunucusu gibi) yapmayı öğreten adım adım rehber bağlantılarından oluşan bir liste vereceğim. Bu listeyi incele ve mevcut seviyeme ve hedefime göre hangi projelerden başlamam gerektiğini sırala, bana haftalık bir çalışma planı çıkar. Seviyem: [örn. yeni başlayan]. Hedefim: [örn. kendi web sunucumu yapmak].
 
-Lisans: ⚠️ Bir lisans belirtilmemiş. Telif gereği 'tüm hakları saklı': okumak ve takip etmek serbest , ama içeriği kopyalayıp yeniden yayınlamak izin gerektirir. 
+Lisans: ⚠️ Bir lisans belirtilmemiş. Telif gereği 'tüm hakları saklı': okumak ve takip etmek serbest , ama içeriği kopyalayıp yeniden yayınlamak izin gerektirir.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/codecrafters-io/build-your-own-x)
@@ -22272,7 +22306,7 @@ Claude Code'da '/plugin install superpowers@claude-plugins-official' komutunu ç
 /plugin install superpowers@claude-plugins-official
 ```
 
-Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz. 
+Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/obra/superpowers)
@@ -22336,7 +22370,7 @@ Claude Code'da '/plugin marketplace add https://github.com/affaan-m/ECC' ve ard�
 /security-scan
 ```
 
-Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari projede kullanabilirsiniz (yalnızca telif/lisans bildirimini koruyun). 
+Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari projede kullanabilirsiniz (yalnızca telif/lisans bildirimini koruyun).
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/affaan-m/ECC)
@@ -22450,39 +22484,54 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Yapay zekâ kodlama asistanına disiplin kazandırın
+# Kodlama Ajanları için Karpathy Yönergeleri
 
-Andrej Karpathy Skills, Andrej Karpathy'nin LLM'lerle kodlamanın olası sorunlarına ilişkin gözlemlerinden türetilen tek bir CLAUDE.md dosyasıyla Claude Code davranışını iyileştirmeyi amaçlar.
+Andrej Karpathy’nin LLM’lerin kodlama hatalarına ilişkin gözlemlerinden türetildiği belirtilen bu yönerge paketi, kodlama ajanlarının çalışma biçimine rehberlik eder. Claude Code plugin’i, proje başına CLAUDE.md ve Cursor kuralları için seçenekler sunar.
 
 - ★ 205.391
 - GitHub Trending · 2026-08-23
 
-## Ne kazandırır?
-- Yapay zekânın hatalı varsayımlar yapmasını engeller
-- Kodun gereksiz karmaşıklaşmasının önüne geçer
-- Yalnızca hedefe yönelik, temiz değişiklikler sağlar
+## Bu araç ne yapar?
 
-## Kurulum
+Andrej Karpathy Skills, bağımsız bir model veya coding agent runtime’ı değildir. Mevcut kodlama ajanlarını yönlendirmek için tek bir CLAUDE.md ve plugin tarzı yönergeler içerir. Paket; Kodlamadan Önce Düşünme, Önce Sadelik, Cerrahi Değişiklikler ve Hedef Odaklı Yürütme ilkelerine dayanır.
 
-**Yeni projeye ekleme**
+## Kimin için?
 
-```
-curl -o CLAUDE.md https://raw.githubusercontent.com/forrestchang/andrej-karpathy-skills/main/CLAUDE.md
-```
+Claude Code ya da Cursor kullanan ve kodlama ajanlarına proje veya araç düzeyinde ek yönergeler vermek isteyen geliştiriciler.
 
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Bundan sonra kod yazarken Andrej Karpathy'nin önerdiği dört temel ilkeyi uygula: Kodlamadan önce düşünerek varsayımlarını açıkla ve belirsizlikleri sor, her zaman en basit çözümü tercih ederek gereksiz karmaşıklıktan kaçın, sadece talep edilen kısımlarda değişiklik yap ve işi 'çalıştır' demek yerine test edilebilir başarı kriterleri belirleyerek ilerle.
+## Ne beklememeli?
 
-- **Kimin için:** Claude Code gibi yapay zekâ destekli kodlama araçlarını kullanan ve daha tutarlı, hatasız sonuçlar almak isteyen yazılımcılar içindir. 
+Bağımsız bir LLM, kod editörü, coding agent runtime’ı veya hazır bir uygulama arıyorsanız size uygun değildir.
+
+## Öne çıkanlar
+- Kodlama ajanlarını yönlendirmek için tek bir CLAUDE.md ve plugin tarzı yönerge yaklaşımı sunar.
+- Dört ilkeyi açıkça tanımlar: Kodlamadan Önce Düşünme, Önce Sadelik, Cerrahi Değişiklikler ve Hedef Odaklı Yürütme.
+- Claude Code plugin’i, proje başına CLAUDE.md ve Cursor kuralları için kurulum seçenekleri içerir.
+- README’de MIT lisansı belirtilir.
+
+## İlk kullanım akışı
+- Depodaki README’yi inceleyerek kullandığınız araca uygun seçeneği belirleyin: Claude Code plugin’i, proje başına CLAUDE.md veya Cursor kuralı.
+- Proje başına kullanım için depodaki yönergeleri projenizin CLAUDE.md dosyasına ekleyin.
+- Yönergeleri kullanmadan önce projenizin ihtiyaçlarına göre gözden geçirin.
+
+## Güvenli başlangıç
+
+Bu paket ajanlara yönerge verir; üretilen kodu, değişikliklerin kapsamını ve test sonuçlarını siz doğrulamalısınız.
+
+## İlk görev istemi
+İlk adım için hazır istem 
+Bu görev için önce planı, belirsizlikleri ve etkilenecek dosyaları çıkarın. Ardından en basit yaklaşımı önerin ve yalnızca hedef için gerekli değişiklikleri yapın.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/multica-ai/andrej-karpathy-skills)
+- [Andrej Karpathy Skills README →](https://github.com/multica-ai/andrej-karpathy-skills)
+- [Karpathy yönergeleri →](https://github.com/multica-ai/andrej-karpathy-skills/blob/main/skills/karpathy-guidelines/SKILL.md)
+- [Karpathy örnekleri →](https://github.com/multica-ai/andrej-karpathy-skills/blob/main/EXAMPLES.md)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-23 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-AI Skills LLM Artificial Intelligence
+Coding Agent Runtime Plugin AI Skills LLM Agent
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/andrej-karpathy-skills/
@@ -22491,58 +22540,76 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Uygulamalar arası iş akışlarını otomatize edin
+# Görsel İş Akışları ve AI Otomasyonu
 
-n8n, görsel iş akışı oluşturmayı özel kod, yerleşik yapay zekâ özellikleri ve 400'den fazla entegrasyonla birleştiren bir otomasyon platformudur.
+n8n, görsel canvas, özel kod, AI ajanları ve iş akışlarını bir araya getiren fair-code bir otomasyon platformudur. Self-host veya cloud dağıtım seçenekleriyle çalışabilir; farklı model sağlayıcılarını iş akışlarınıza dahil etmenizi destekler.
 
 - ★ 201.895
-- TypeScript
 - GitHub Trending · 2026-08-23
-
-## Güncelleme
-- 23 Ağustos 2026: Yıldız 201.890 → 201.895, son sürüm n8n@2.35.7 (21 Ağustos 2026).
-
-## Ne kazandırır?
-- Görsel arayüzle karmaşık iş süreçlerini tasarlayın
-- 1500'den fazla farklı uygulama ve servisi birbirine bağlayın
-- Kendi sunucunuzda veya bulut üzerinde güvenle çalıştırın
 
 ## Kurulum
 
-**Hızlı kurulum betiği**
-
-```
-curl -fsSL https://get.n8n.io | sh
-```
-
-**Docker ile manuel kurulum**
+**Veri volume’ünü oluşturun**
 
 ```
 docker volume create n8n_data
-docker run -it --rm --name n8n -p 5678:5678 -v n8n_data:/home/node/.n8n docker.n8n.io/n8nio/n8n
 ```
 
 ## Çalıştırma
 
-**Arayüze erişim**
+**n8n Docker container’ını başlatın**
 
 ```
-http://localhost:5678
+docker run -it --rm --name n8n -p 5678:5678 -v n8n_data:/home/node/.n8n docker.n8n.io/n8nio/n8n
 ```
 
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Sen bir otomasyon uzmanısın. Uygulamalar arası veri akışını yönetmek ve yapay zekâ destekli iş süreçleri oluşturmak için görsel bir tuval üzerinde çalışıyorsun. Görevin, farklı servisleri birbirine bağlayan, mantıksal adımları olan ve insan onayı gerektiren çok aşamalı iş akışları tasarlamak. Kurulumu tamamladım, şimdi ilk iş akışımı oluşturmama yardımcı ol.
+Kaynak: Komutlar n8n resmî README’sinden 24 Ağustos 2026’da kontrol edildi; editör 5678 portunda açılır.
 
-- **Kimin için:** İş süreçlerini otomatikleştirmek isteyen ancak kod yazmakla görsel tasarımı bir arada kullanmayı tercih eden profesyoneller içindir. 
+## Güncelleme
+- 23 Ağustos 2026: Yıldız 201.890 → 201.895, son sürüm n8n@2.35.7 (21 Ağustos 2026).
+
+## Bu araç ne yapar?
+
+n8n ile iş akışlarını görsel canvas üzerinde oluşturabilir, JavaScript, Python ve npm paketleriyle genişletebilirsiniz. Resmî kaynaklar OpenAI, Anthropic, Google ve açık kaynak modelleriyle model esnekliğini; ayrıca insan onayı, gözlemlenebilirlik, rol tabanlı erişim ve audit trail özelliklerini listeler. Platform self-host veya cloud olarak dağıtılabilir.
+
+## Kimin için?
+
+İş akışlarında görsel tasarımı özel kod ve AI ajanlarıyla birleştirmek isteyen ekipler.
+
+## Ne beklememeli?
+
+Yalnızca kapalı kaynak lisanslı ürünler arayan veya iş akışlarını kod ya da yapılandırma ile genişletmek istemeyen kullanıcılar.
+
+## Öne çıkanlar
+- Görsel canvas, özel kod ve AI ajanlarını aynı iş akışında birleştirme
+- JavaScript, Python ve npm paketleriyle genişletilebilir yapı
+- Self-host veya cloud dağıtım seçenekleri
+- İnsan onayı, gözlemlenebilirlik, rol tabanlı erişim ve audit trail özellikleri
+
+## İlk kullanım akışı
+- Docker ile resmî hızlı başlangıç yönergelerini izleyerek n8n’i çalıştırın.
+- Tarayıcınızda 5678 portundan editörü açın.
+- Görsel canvas üzerinde ilk iş akışınızı oluşturun.
+- Gereksiniminize göre özel kod veya desteklenen bir model sağlayıcısı ekleyin.
+
+## Güvenli başlangıç
+
+n8n, Sustainable Use License altında source-available olarak dağıtılır. Kullanım ve dağıtım koşullarını resmî lisans metninden inceleyin; self-host kurulumunuzun erişim ve işletim ayarlarını kendi gereksinimlerinize göre yapılandırın.
+
+## İlk görev istemi
+İlk adım için hazır istem 
+Görsel canvas üzerinde, bir girdiyi alan, bir AI modeliyle işleyen ve sonucu sonraki adıma aktaran örnek bir iş akışı tasarlamama yardımcı olun.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/n8n-io/n8n)
+- [n8n resmî GitHub deposu →](https://github.com/n8n-io/n8n)
+- [n8n resmî belgeleri →](https://docs.n8n.io/)
+- [n8n belgeleri deposu →](https://github.com/n8n-io/n8n-docs)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-23 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Artificial Intelligence
+Container Self-hosting Open Source
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/n8n/
@@ -22628,7 +22695,7 @@ Repo'daki yönergeyle başvurursunuz: domain'i seçer, DNS'inize bağlarsınız.
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 DigitalPlat FreeDomain ücretsiz bir alan adı servisidir, kurulacak bir yazılım değil. https://dash.domain.digitalplat.org/ adresine gidip .dpdns.org, .us.kg, .qzz.io gibi uzantılardan ücretsiz bir alan adı kaydetmem için bana adım adım rehberlik et ve Cloudflare DNS ile nasıl bağlayacağımı anlat.
 
-Lisans: AGPL-3.0 · Hizmeti kullanmak (ücretsiz domain almak) serbesttir. Ancak platformun KODUNU alıp kendiniz barındırır veya değiştirirseniz, AGPL gereği kendi sürümünüzün kaynak kodunu da (ağ üzerinden sunsanız bile) açmanız gerekir. 
+Lisans: AGPL-3.0 · Hizmeti kullanmak (ücretsiz domain almak) serbesttir. Ancak platformun KODUNU alıp kendiniz barındırır veya değiştirirseniz, AGPL gereği kendi sürümünüzün kaynak kodunu da (ağ üzerinden sunsanız bile) açmanız gerekir.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/DigitalPlatDev/FreeDomain)
@@ -22806,7 +22873,7 @@ pip install 'markitdown[all]'
 markitdown belge.pdf > belge.md
 ```
 
-Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz. 
+Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/microsoft/markitdown)
@@ -22909,7 +22976,7 @@ Claude Code içindeyken '/plugin marketplace add anthropics/skills' komutuyla An
 /plugin install document-skills@anthropic-agent-skills
 ```
 
-Lisans: GitHub bu repo için standart bir lisans tespit etmedi. Anthropic'in resmi deposu olsa da, yeniden kullanım/dağıtım öncesi repo'daki LICENSE dosyasını kontrol edin. 
+Lisans: GitHub bu repo için standart bir lisans tespit etmedi. Anthropic'in resmi deposu olsa da, yeniden kullanım/dağıtım öncesi repo'daki LICENSE dosyasını kontrol edin.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/anthropics/skills)
@@ -23134,7 +23201,7 @@ irm https://claude.ai/install.ps1 | iex
 claude
 ```
 
-Lisans: ⚠️ Açık kaynak değildir ; Anthropic'in bir ürünüdür ve Ticari Kullanım Şartları'na tabidir. Aracı kullanmak serbesttir (hesap/plan gerekir), ancak kodunu serbestçe yeniden kullanıp dağıtamazsınız. 
+Lisans: ⚠️ Açık kaynak değildir ; Anthropic'in bir ürünüdür ve Ticari Kullanım Şartları'na tabidir. Aracı kullanmak serbesttir (hesap/plan gerekir), ancak kodunu serbestçe yeniden kullanıp dağıtamazsınız.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/anthropics/claude-code)
@@ -23802,59 +23869,77 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Terminal üzerinden yapay zekâ destekli kodlama
+# Terminalde yapay zekâ destekli kodlama
 
-Codex, doğrudan terminalde çalışan hafif bir kodlama ajanıdır.
+Codex CLI, yerel bilgisayarınızda terminalde çalışan bir kodlama ajanıdır. Kodları inceleyebilir, dosyalarda değişiklik yapabilir ve komut çalıştırabilir.
 
 - ★ 115.876
-- Rust
 - GitHub Trending · 2026-08-23
-
-## Güncelleme
-- 24 Ağustos 2026: Yıldız 113.813 → 115.876, son sürüm rust-v0.149.1 (24 Ağustos 2026).
-- 23 Ağustos 2026: Yıldız 113.793 → 113.813, son sürüm rust-v0.149.0 (20 Ağustos 2026).
-
-## Ne kazandırır?
-- Komut satırında doğrudan kod önerileri ve düzenlemeleri sunar
-- ChatGPT abonelik planları ile entegre çalışır
-- Farklı işletim sistemleri için kolay kurulum seçenekleri sağlar
 
 ## Kurulum
 
-**Mac veya Linux için kurulum**
+**macOS veya Linux**
 
 ```
 curl -fsSL https://chatgpt.com/codex/install.sh | sh
 ```
 
-**Homebrew paket yöneticisi ile kurulum**
+**Windows PowerShell**
 
 ```
-brew install --cask codex
+powershell -ExecutionPolicy ByPass -c "irm https://chatgpt.com/codex/install.ps1 | iex"
 ```
 
 ## Çalıştırma
 
-**Aracı başlatma**
+**Codex CLI başlatma**
 
 ```
 codex
 ```
 
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Terminal üzerinde çalışan bu yapay zekâ aracını kullanarak yazılım geliştirme süreçlerimi nasıl hızlandırabilirim? ChatGPT hesabımla giriş yaptıktan sonra kod önerileri almak ve mevcut dosyalarım üzerinde düzenlemeler yapmak için hangi komutları kullanmalıyım?
+Kaynak: OpenAI’nin Codex CLI belgeleri ve openai/codex README’si, 24 Ağustos 2026’da kontrol edildi.
 
-- **Kimin için:** Kod yazma süreçlerini terminal üzerinden yönetmek isteyen yazılım geliştiriciler için uygundur. 
-- **Lisans:** Apache-2.0 
+## Bu araç ne yapar?
+
+Codex CLI, yerel bilgisayarınızda terminalde çalışan bir kodlama ajanıdır. Bir proje dizinindeki kodu inceleyebilir, dosyalarda değişiklik yapabilir, komut çalıştırabilir ve tekrarlanan işleri otomatikleştirmeye yardımcı olabilir.
+
+## Kimin için?
+
+Terminalde çalışan, kod tabanını incelemek, dosyaları düzenlemek ve tekrarlanan geliştirme işlerini otomatikleştirmek isteyen geliştiriciler.
+
+## Ne beklememeli?
+
+Terminal kullanmak istemeyenler için uygun olmayabilir.
+
+## Öne çıkanlar
+- Kodları inceleyebilir ve dosyalarda değişiklik yapabilir.
+- Komut çalıştırabilir ve tekrarlanan işleri otomatikleştirebilir.
+- Model, reasoning effort, izinler ve komut onayları kullanıcı tarafından yönetilebilir.
+- GitHub deposu Apache-2.0 lisanslıdır.
+
+## İlk kullanım akışı
+- İşletim sisteminize uygun resmî kurulum yöntemini seçin.
+- Kurulumdan sonra Codex CLI’ı terminalden başlatın.
+- ChatGPT ile veya mevcut başka bir oturum açma yöntemiyle giriş yapın.
+- Proje dizininden başlayın. Değişikliklerden önce ve sonra Git checkpoint oluşturun.
+
+## Güvenli başlangıç
+
+Değişikliklerden önce ve sonra Git checkpoint oluşturmanız önerilir. İzinleri /permissions ile, mevcut durumu /status ile inceleyebilirsiniz.
+
+## İlk görev istemi
+İlk adım için hazır istem 
+İlk kullanımda, projenin amacını ve dosya yapısını açıklayan bir inceleme talebiyle başlayabilirsiniz.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/openai/codex)
+- [Codex CLI resmî belgeleri →](https://learn.chatgpt.com/docs/codex/cli)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-23 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Terminal Rust Artificial Intelligence
+Terminal CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/codex/
@@ -23950,7 +24035,8 @@ _Görsel: MoneyPrinterTurbo (proje deposundan)_
 - Toplu ve çoklu video üretimine olanak tanır.
 
 ## Dürüst not
-Çalışması için bir AI model API anahtarı + kurulum gerekir; API kullanımı ücretli olabilir. Üretilen videoların telif ve platform kurallarına uygunluğu kullanıcının sorumluluğundadır. 
+
+Çalışması için bir AI model API anahtarı + kurulum gerekir; API kullanımı ücretli olabilir. Üretilen videoların telif ve platform kurallarına uygunluğu kullanıcının sorumluluğundadır.
 
 ## Nasıl kurulur, nasıl kullanılır?
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
@@ -23975,7 +24061,7 @@ docker-compose up
 uv run streamlit run ./webui/Main.py --browser.gatherUsageStats=False
 ```
 
-Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz. 
+Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/harry0703/MoneyPrinterTurbo)
@@ -24059,6 +24145,28 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/awesome-mac/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Ponytail
+
+Ponytail, yapay zekâ ajanlarının kod yazma sürecini azaltarak gereksiz iş yüklerini önleyen bir JavaScript aracıdır. En iyi kodun hiç yazılmamış kod olduğu felsefesini benimseyen bu araç, ajanların daha az kodla çözümler üretmesini sağlar.
+
+- ★ 110.483
+- GitHub Trending · 2026-08-25
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/DietrichGebert/ponytail)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/ponytail/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -25046,16 +25154,42 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# WiFi Sinyalleriyle Mekansal Zeka Kazanın
+# WiFi Sinyalleriyle Kablosuz Algılama Platformu
 
-RuView , sıradan WiFi sinyallerini kullanarak kamera olmadan gerçek zamanlı mekânsal zekâ, hayati bulgu takibi ve varlık algılama işlemleri gerçekleştirir. Rust ile geliştirilmiş açık kaynak bir projedir.
-
-_Görsel: RuView (proje deposundan)_
+WiFi Channel State Information (CSI) kullanarak ortam değişimlerini incelemenize yardımcı olur. ESP32 veya araştırma NIC’leriyle çalışabilir; donanımınız yoksa simüle edilmiş verilerle değerlendirme yapabilirsiniz.
 
 - ★ 91.322
-- Rust
-- MIT
-- GitHub Trending · 30 May 2026
+- GitHub Trending · 2026-05-30
+
+## Kurulum
+
+**Docker imajını çekin**
+
+```
+docker pull ruvnet/wifi-densepose:latest
+```
+
+**Kaynak kodunu alın**
+
+```
+git clone https://github.com/ruvnet/RuView.git
+```
+
+## Çalıştırma
+
+**Donanımsız demo sunucusu**
+
+```
+docker run -p 3000:3000 ruvnet/wifi-densepose:latest
+```
+
+**Deterministik doğrulama**
+
+```
+./verify
+```
+
+Kaynak: Komutlar RuView resmî kullanıcı ve build rehberlerinden 24 Ağustos 2026’da kontrol edildi; Docker varsayılan olarak simüle edilmiş verilerle çalışabilir.
 
 ## Güncelleme
 - 23 Ağustos 2026: Yıldız 90.995 → 91.322, son sürüm v2331 (22 Ağustos 2026).
@@ -25063,51 +25197,48 @@ _Görsel: RuView (proje deposundan)_
 - 19 Ağustos 2026: Yıldız 90.838 → 90.940, son sürüm v2297 (19 Ağustos 2026).
 - 19 Ağustos 2026: Yıldız 90.395 → 90.838, son sürüm v2288 (19 Ağustos 2026).
 
-- **Kimin için:** IoT/algılama/araştırma ile ilgilenenler 
-- **Zorluk:** İleri · teknik/donanım 
-- **Ne sunar:** WiFi tabanlı algılama ve mekânsal zekâ 
-- **Ücret:** Ücretsiz · açık kaynak (MIT) 
-- **Lisans:** MIT · ayrıntı aşağıda 
+## Bu araç ne yapar?
 
-## Ne sunar?
-- Kamera kullanmadan varlık ve hareket algılama.
-- Hayati bulguların (nefes ve nabız) takibi.
-- Gerçek zamanlı mekânsal zekâ.
+RuView, WiFi Channel State Information (CSI) verileriyle sensing çalışmaları için kullanılan MIT lisanslı bir platformdur. ESP32 ve araştırma NIC’leriyle çalışabilir; Docker veya kaynak kodu yoluyla kurulabilir. Donanım olmadan simüle edilmiş verilerle değerlendirme yapabilirsiniz. Yetenekler kullanılan donanıma göre değişir: laptopta yalnızca RSSI kullanımı kaba varlık ve hareket algılama içindir; gelişmiş sensing için tam CSI destekli donanım gerekir.
 
-## Sorumluluk notu
-İnsanların varlığını/hareketini algılayan bir teknolojidir. Gizlilik ve rıza açısından dikkatli, yasalara uygun kullanım sizin sorumluluğunuzdadır. 
+## Kimin için?
 
-## Nasıl kurulur, nasıl kullanılır?
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Donanım olmadan denemek için terminalde 'docker pull ruvnet/wifi-densepose:latest' çalıştır, ardından 'docker run -p 3000:3000 ruvnet/wifi-densepose:latest' ile başlat ve tarayıcıdan http://localhost:3000 adresini aç; bu, RuView'in WiFi sinyalleriyle hareket/varlık algılama arayüzünü simülasyon veriyle gösterir.
+WiFi sinyalleriyle varlık, hareket veya ortam değişimi üzerine sensing denemeleri yapmak isteyen araştırmacılar ve geliştiriciler için uygundur.
 
-**Docker imajını çek**
+## Ne beklememeli?
 
-```
-docker pull ruvnet/wifi-densepose:latest
-```
+Tıbbi izleme amacıyla doğruluk beklentisi olan çalışmalar veya standart laptopun RSSI modunda pose kestirimi bekleyenler için uygun değildir.
 
-**Docker ile çalıştır (simülasyon, donanım gerekmez)**
+## Öne çıkanlar
+- ESP32 ve araştırma NIC’leriyle CSI tabanlı sensing seçenekleri sunar.
+- Donanımınız olmadan simüle edilmiş verilerle değerlendirme yapabilirsiniz.
+- Resmî build rehberinde deterministik referans sinyal doğrulaması için `./verify` adımı belgelenir.
+- Laptop RSSI modu ile tam CSI donanımının sunduğu sensing kapsamı birbirinden ayrılır.
 
-```
-docker run -p 3000:3000 ruvnet/wifi-densepose:latest
-```
+## İlk kullanım akışı
+- Docker veya kaynak kodu yolundan, resmî kurulum belgelerine göre ortamınızı hazırlayın.
+- Donanımınız yoksa simüle edilmiş verilerle değerlendirme akışını inceleyin.
+- Build rehberinde açıklanan deterministik referans sinyal doğrulaması için `./verify` adımını çalıştırın.
+- Kullandığınız donanıma göre RSSI-only veya tam CSI sensing akışını seçin.
 
-**Python paketi (PyPI)**
+## Güvenli başlangıç
 
-```
-pip install ruview
-```
+Laptopta RSSI-only mod, kaba varlık ve hareket algılama içindir; pose desteği sunmaz. Pose ve bazı benchmark yetenekleri deneysel, ilk sürüm niteliğinde veya açık sınırlılıklarla belgelenir; sonuçları kullandığınız donanım moduna göre değerlendirin.
 
-Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz. 
+## İlk görev istemi
+İlk adım için hazır istem 
+WiFi CSI verileriyle basit bir hareket algılama senaryosunu simüle edilmiş veri üzerinden nasıl değerlendirebilirsiniz?
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/ruvnet/RuView)
+- [RuView resmî GitHub deposu →](https://github.com/ruvnet/RuView)
+- [RuView kullanıcı rehberi →](https://github.com/ruvnet/RuView/blob/main/docs/user-guide.md)
+- [RuView build rehberi →](https://github.com/ruvnet/RuView/blob/main/docs/build-guide.md)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-05-30 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-WiFi Open Source Rust Artificial Intelligence
+WiFi Benchmark
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ruview/
@@ -25165,7 +25296,7 @@ Terminalde 'npx claude-mem install' komutunu çalıştırarak Claude-Mem'i kur, 
 npx claude-mem install
 ```
 
-Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir). 
+Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir).
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/thedotmack/claude-mem)
@@ -25183,58 +25314,73 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Matematiksel kavramları animasyonla görselleştirin
+# Açıklayıcı Matematik Animasyonlarını Programlayın
 
-Manim, matematiksel kavramları görselleştirmek için kullanılan Python tabanlı bir animasyon motoru. Karmaşık teorileri açıklayıcı videolara dönüştürmek isteyen içerik üreticileri için programatik bir çözüm sunuyor.
+Matematik videoları için kesin ve programatik animasyonlar üretmenize yardımcı olan bir animasyon motorudur. Animasyonları Python ile tanımlayabilir ve örnek sahneler üzerinden başlayabilirsiniz.
 
 - ★ 90.309
-- Python
 - GitHub Trending · 2026-08-12
-
-## Güncelleme
-- 12 Ağustos 2026: Yıldız 90.306 → 90.309, son sürüm v1.7.2 (13 Aralık 2024).
-
-## Ne kazandırır?
-- Matematiksel teorileri görselleştiren hassas animasyonlar oluşturur
-- Kod yazarak açıklayıcı videolar üretilmesini sağlar
-- Özelleştirilebilir sahne ve görüntü ayarları sunar
 
 ## Kurulum
 
-**Doğrudan kurulum**
+**ManimGL’yi yükleyin**
 
 ```
 pip install manimgl
 ```
 
-**Geliştirici modu kurulumu**
-
-```
-pip install -e .
-```
-
 ## Çalıştırma
 
-**Örnek sahneyi başlatma**
+**Örnek sahneyi çalıştırın**
 
 ```
 manimgl example_scenes.py OpeningManimExample
 ```
 
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Matematiksel bir kavramı açıklayan, Python diliyle yazılmış hassas bir animasyon hazırlamam gerekiyor. Manim kütüphanesini kullanarak, karmaşık teorileri görselleştiren ve adım adım açıklayan bir sahne kodu oluştur. Kodun, FFmpeg video işleme aracı ve LaTeX dizgi sistemi ile uyumlu çalışmasını sağla.
+Kaynak: Komutlar 3b1b/manim README’sinden 24 Ağustos 2026’da kontrol edildi; bu kayıt ManimGL içindir.
 
-- **Kimin için:** Matematiksel konuları görselleştirerek açıklayıcı videolar hazırlamak isteyen içerik üreticileri içindir. 
-- **Lisans:** MIT 
+## Güncelleme
+- 12 Ağustos 2026: Yıldız 90.306 → 90.309, son sürüm v1.7.2 (13 Aralık 2024).
+
+## Bu araç ne yapar?
+
+Bu kayıt, 3b1b deposundaki ManimGL sürümünü kapsar. Matematiksel kavramları açıklayan animasyonları kodla oluşturmak için kullanabilirsiniz. Manim Community Edition, ManimGL’den ayrı bir fork ve projedir; kurulum yönergelerini birbirine karıştırmamalısınız.
+
+## Kimin için?
+
+Matematiksel kavramları animasyonla anlatmak isteyen eğitimciler, öğrenciler ve içerik üreticileri.
+
+## Ne beklememeli?
+
+Sürükle-bırak arayüzüyle çalışan bir animasyon aracı arayanlar veya Manim Community Edition kullanmak isteyenler.
+
+## Öne çıkanlar
+- Açıklayıcı matematik videoları için programatik animasyon üretimi
+- Python 3.10+ ile çalışma
+- OpenGL desteği
+- MIT lisansı
+
+## İlk kullanım akışı
+- Python 3.10 veya daha yeni bir sürümü, FFmpeg’i ve OpenGL gereksinimlerini hazırlayın.
+- LaTeX kullanacaksanız kurun; Linux’ta Pango geliştirme başlıklarını da ekleyin.
+- Terminalde `pip install manimgl` komutunu çalıştırın.
+- Kurulumu denemek için `manimgl example_scenes.py OpeningManimExample` komutunu çalıştırın.
+
+## Güvenli başlangıç
+
+Bu kayıt ManimGL içindir. Paket adı `manimgl`’dir; ayrı bir proje olan Manim Community Edition’ın kurulum yönergelerini kullanmayın.
+
+## İlk görev istemi
+İlk adım için hazır istem 
+Bir çemberin kareye dönüştüğü basit bir ManimGL animasyon sahnesi yazmama yardımcı olur musun?
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/3b1b/manim)
+- [3b1b ManimGL GitHub deposu →](https://github.com/3b1b/manim)
+- [ManimGL resmî belgeleri →](https://3b1b.github.io/manim/)
+- [Manim Community belgeleri →](https://docs.manim.community/en/stable/index.html)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/manim/
@@ -25412,35 +25558,58 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Cihazlar arası güvenli dosya paylaşımı
+# Yerel Ağda Dosya ve Mesaj Paylaşımı
 
-LocalSend, farklı işletim sistemleri arasında dosya paylaşımına olanak tanıyan açık kaynaklı bir uygulama. Apple cihazların sunduğu AirDrop özelliğine platform bağımsız bir alternatif oluşturuyor.
+Yakındaki cihazlar arasında yerel ağ üzerinden dosya ve mesaj paylaşın. LocalSend, internet bağlantısı veya üçüncü taraf sunucu gerektirmeden çalışır ve HTTPS şifrelemesi kullanır.
 
 - ★ 88.882
-- Dart
 - GitHub Trending · 2026-08-13
 
 ## Güncelleme
 - 21 Ağustos 2026: Yıldız 88.401 → 88.882, son sürüm v1.18.2 (21 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 87.961 → 88.401, son sürüm v1.18.1 (12 Ağustos 2026).
 
-## Ne kazandırır?
-- İnternet bağlantısı gerektirmeden hızlı dosya aktarımı
-- Farklı işletim sistemleri arasında kesintisiz iletişim
-- HTTPS şifreleme ile güvenli veri transferi
+## Bu araç ne yapar?
 
-## Nasıl başlanır?
+LocalSend; Windows, macOS, Linux, Android ve iOS cihazlar arasında yerel ağ üzerinden dosya ve mesaj paylaşımı sağlayan ücretsiz, açık kaynaklı bir uygulamadır. REST API ve HTTPS şifrelemesi kullanır; hesap veya giriş istemez.
 
-Uygulamayı kullanmaya başlamak için resmi internet sitesi olan localsend.org adresine gidin. Buradaki indirme bölümünden kullandığınız işletim sistemine uygun sürümü seçerek cihazınıza yükleyin ve uygulamayı çalıştırın.
-- [Resmî kaynak →](https://localsend.org)
+## Kimin için?
 
-- **Kimin için:** Farklı işletim sistemine sahip cihazları arasında internete ihtiyaç duymadan hızlı ve güvenli bir şekilde dosya aktarmak isteyen herkes için uygundur. 
-- **Lisans:** Apache-2.0 
+Aynı yerel ağdaki farklı işletim sistemlerine sahip cihazlar arasında dosya ya da mesaj paylaşmak isteyenler.
+
+## Ne beklememeli?
+
+İnternet üzerinden farklı ağlardaki cihazlara aktarım yapmak veya uygulama içi otomatik güncelleme bekleyenler.
+
+## Öne çıkanlar
+- İnternet bağlantısı veya üçüncü taraf sunucu gerektirmez.
+- Windows, macOS, Linux, Android ve iOS’u destekler.
+- Hesap oluşturma ya da giriş yapma zorunluluğu yoktur.
+- Yerel iletişimde REST API ve HTTPS şifrelemesi kullanır.
+
+## İlk kullanım akışı
+- Cihazınız için uygun sürümü resmî web sitesi, uygulama mağazası veya paket yöneticisi üzerinden yükleyin.
+- Paylaşım yapacağınız cihazları aynı yerel ağa bağlayın.
+- Bağlantı sorunu yaşarsanız güvenlik duvarında TCP ve UDP 53317 için gelen trafiği kontrol edin.
+- Uygulamada paylaşmak istediğiniz dosya veya mesajı seçerek gönderim işlemini başlatın.
+
+## Güvenli başlangıç
+
+LocalSend internet veya üçüncü taraf sunucu gerektirmeden yerel ağda çalışır ve HTTPS şifrelemesi kullanır. Ağınızda AP isolation etkinse cihazlar birbirini göremeyebilir; güvenlik duvarı kuralları da bağlantıyı etkileyebilir.
+
+## İlk görev istemi
+İlk adım için hazır istem 
+Aynı yerel ağdaki bilgisayarımdan telefonuma fotoğraf nasıl gönderirim?
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/localsend/localsend)
+- [LocalSend resmî README →](https://github.com/localsend/localsend)
+- [LocalSend resmî sitesi →](https://localsend.org/)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+API
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/localsend/
@@ -26234,7 +26403,7 @@ npx skills add https://github.com/Leonxlnx/taste-skill
 npx skills add https://github.com/Leonxlnx/taste-skill --skill "design-taste-frontend"
 ```
 
-Lisans: MIT · özgürce kullanabilir, uyarlayabilir, ticari işte kullanabilirsiniz. 
+Lisans: MIT · özgürce kullanabilir, uyarlayabilir, ticari işte kullanabilirsiniz.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/Leonxlnx/taste-skill)
@@ -26334,7 +26503,7 @@ curl -fsSL https://raw.githubusercontent.com/Lum1104/Understand-Anything/main/in
 
 Kurduktan sonra asistana dosyalarınızı işaret edip düz cümleyle sorun.
 
-Gerçekçi olalım: "tek tıkla çalışır" değil. Çalışan bir AI asistanı (ve çoğu zaman bir hesap) gerekir. Hiç kurulum istemeyen tek yol yukarıdaki canlı demo. 
+Gerçekçi olalım: "tek tıkla çalışır" değil. Çalışan bir AI asistanı (ve çoğu zaman bir hesap) gerekir. Hiç kurulum istemeyen tek yol yukarıdaki canlı demo.
 
 ## Neden gündemde?
 
@@ -26472,7 +26641,7 @@ Scrapling adlı açık kaynaklı web kazıma kütüphanesini kurmama yardım et;
 pip install scrapling
 ```
 
-Lisans: BSD-3-Clause · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (telif bildirimini koruyun). 
+Lisans: BSD-3-Clause · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (telif bildirimini koruyun).
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/D4Vinci/Scrapling)
@@ -26522,7 +26691,7 @@ Crawl4AI adlı açık kaynaklı web tarayıcısını kurmama yardım et; 'pip in
 pip install crawl4ai
 ```
 
-Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir). 
+Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir).
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/unclecode/crawl4ai)
@@ -27025,7 +27194,7 @@ Ruflo ile entegre bir çalışma ortamındasın. Görevleri yerine getirirken Ru
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-RAG Artificial Intelligence
+Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ruflo/
@@ -27357,31 +27526,78 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Bağımsız web tarayıcısı Ladybird
+# Bağımsız Web Tarayıcısı ve Motoru Projesi
 
-Ladybird, mevcut büyük tarayıcı motorlarından bağımsız olarak geliştirilen yeni bir web tarayıcısı. C++ diliyle yazılan bu proje, internet standartlarını temel alan açık kaynaklı bir alternatif sunmayı amaçlıyor.
+Ladybird, web standartlarını temel alan bağımsız bir web tarayıcısı ve tarayıcı motoru geliştirme projesidir. Resmî README’ye göre pre-alpha aşamasındadır ve yalnızca geliştiricilere yöneliktir. Çok süreçli mimarisinde ağ bağlantıları ve görüntü çözme ayrı süreçlerde yürütülür; sekme renderer süreçleri sandbox içinde çalışır.
 
 - ★ 65.040
-- C++
 - GitHub Trending · 2026-08-09
 
-## Ne kazandırır?
-- Mevcut tarayıcı motorlarından bağımsız yeni bir yapı sunar
-- İnternet standartlarını temel alan açık kaynaklı bir alternatif sağlar
-- Çoklu işlem mimarisiyle güvenli ve dayanıklı bir tarama deneyimi hedefler
+## Kurulum
 
-## Nasıl başlanır?
+**Kaynak kodunu alın**
 
-Ladybird henüz geliştirme aşamasında olan bir tarayıcıdır. Kurulum ve çalıştırma adımları için resmî web sitesindeki dokümantasyon bölümünde yer alan derleme talimatlarını inceleyebilirsiniz.
-- [Resmî kaynak →](https://ladybird.org)
+```
+git clone https://github.com/LadybirdBrowser/ladybird.git
+```
 
-- **Kimin için:** Yeni nesil bir tarayıcı motorunu denemek isteyen geliştiriciler ve açık kaynaklı yazılım projelerine katkı sağlamayı hedefleyenler için uygundur. 
-- **Lisans:** BSD-2-Clause 
+**Proje dizinine geçin**
+
+```
+cd ladybird
+```
+
+## Çalıştırma
+
+**Derleyin ve çalıştırın**
+
+```
+./Meta/ladybird.py run
+```
+
+Kaynak: Komutlar Ladybird resmî sitesi ve BuildInstructionsLadybird.md belgesinden 24 Ağustos 2026’da kontrol edildi.
+
+## Bu araç ne yapar?
+
+Ladybird açık kaynaklı bir tarayıcı ve tarayıcı motoru projesidir. Linux, macOS, Windows üzerinde WSL2 ve diğer Unix benzeri sistemlerde çalışır. Projenin ilk Alpha sürümü için belirtilen hedef, 2026’da Linux ve macOS’tur. Derleme yönergeleri Qt 6.9+, C++23 uyumlu bir derleyici, Rust ve CMake 3.30+ gerektirir.
+
+## Kimin için?
+
+Tarayıcı teknolojilerine katkı sunmak veya projenin kaynak kodunu geliştirme ortamında incelemek isteyen geliştiriciler.
+
+## Ne beklememeli?
+
+Kararlı bir son kullanıcı tarayıcısı arayanlar.
+
+## Öne çıkanlar
+- Web standartlarını temel alan bağımsız tarayıcı ve motor projesi
+- Ağ bağlantıları ve görüntü çözme için ayrı süreçler kullanan çok süreçli mimari
+- Sandbox içinde çalışan sekme renderer süreçleri
+- BSD-2-Clause lisansı
+
+## İlk kullanım akışı
+- Resmî derleme yönergelerini açın ve sisteminizin desteklenen platformlar arasında olup olmadığını kontrol edin.
+- Qt 6.9+, C++23 uyumlu derleyici, Rust ve CMake 3.30+ gereksinimlerini hazırlayın.
+- Kaynak kodunu resmî GitHub deposundan alın ve resmî derleme dokümanındaki adımları izleyin.
+
+## Güvenli başlangıç
+
+Ladybird resmî README’ye göre pre-alpha aşamasındadır ve yalnızca geliştiricilere yöneliktir.
+
+## İlk görev istemi
+İlk adım için hazır istem 
+Resmî derleme yönergelerine göre sistemimde Qt 6.9+, C++23 derleyicisi, Rust ve CMake 3.30+ gereksinimlerini nasıl kontrol edebilirim?
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/LadybirdBrowser/ladybird)
+- [Ladybird resmî GitHub deposu →](https://github.com/LadybirdBrowser/ladybird)
+- [Ladybird derleme belgeleri →](https://github.com/LadybirdBrowser/ladybird/blob/master/Documentation/BuildInstructionsLadybird.md)
+- [Ladybird resmî sitesi →](https://ladybird.org/)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-09 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Sandbox Rust
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ladybird/
@@ -28150,7 +28366,7 @@ GitHub sayfasındaki rehberi inceleyerek önerilen planı kendinize göre uyarla
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Sana 'English level-up tips' adlı, İngilizceyi ileri seviyede öğrenmek için kelime, dinleme, okuma, konuşma, yazma ve yapay zekâ destekli çalışma yöntemlerini anlatan kapsamlı bir rehber vereceğim. Bu rehberi incele ve seviyeme ile hedefime göre kişisel bir çalışma planı ve yol haritası çıkar. Seviyem: [örn. orta]. Hedefim: [örn. akıcı konuşmak].
 
-Lisans: ⚠️ Bir lisans belirtilmemiş. Telif yasası gereği bu 'tüm hakları saklı' demektir: okumak ve kişisel kullanım serbest , ama içeriği kopyalayıp yeniden yayınlamak için yazarın izni gerekir. 
+Lisans: ⚠️ Bir lisans belirtilmemiş. Telif yasası gereği bu 'tüm hakları saklı' demektir: okumak ve kişisel kullanım serbest , ama içeriği kopyalayıp yeniden yayınlamak için yazarın izni gerekir.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/byoungd/English-level-up-tips)
@@ -28271,7 +28487,7 @@ npx create-twenty-app my-app
 npx twenty app:publish --private
 ```
 
-Lisans: ⚠️ Lisansı standart değil (GitHub 'NOASSERTION'). 'Açık kaynak' olarak anılır ama kendi başına/self-host kullanım ile ticari/SaaS olarak yeniden sunum farklı şartlara tabi olabilir. Ticari kullanımdan önce repo'daki LICENSE dosyasını mutlaka okuyun. 
+Lisans: ⚠️ Lisansı standart değil (GitHub 'NOASSERTION'). 'Açık kaynak' olarak anılır ama kendi başına/self-host kullanım ile ticari/SaaS olarak yeniden sunum farklı şartlara tabi olabilir. Ticari kullanımdan önce repo'daki LICENSE dosyasını mutlaka okuyun.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/twentyhq/twenty)
@@ -28327,7 +28543,7 @@ Jellyfin medya sunucusunu kurmak istiyorum; resmi jellyfin.org/downloads sayfas�
 docker run -d --name jellyfin -p 8096:8096 jellyfin/jellyfin
 ```
 
-Lisans: GPL-2.0 · Kullanması tamamen serbest ve ücretsiz. Yazılımı değiştirip dağıtırsanız, değişikliklerinizi de aynı GPL lisansıyla ve kaynak koduyla paylaşmanız gerekir (copyleft). Sadece kendiniz kullanıyorsanız bir yükümlülük yok. 
+Lisans: GPL-2.0 · Kullanması tamamen serbest ve ücretsiz. Yazılımı değiştirip dağıtırsanız, değişikliklerinizi de aynı GPL lisansıyla ve kaynak koduyla paylaşmanız gerekir (copyleft). Sadece kendiniz kullanıyorsanız bir yükümlülük yok.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/jellyfin/jellyfin)
@@ -29231,13 +29447,14 @@ _Görsel: FlClash (proje deposundan)_
 - Açık kaynaklı ClashMeta gücü.
 
 ## Kullanım notu
-Bir proxy istemcisi yalnızca araçtır; bulunduğunuz ülkenin yasalarına ve kullandığınız servislerin şartlarına uygun kullanmak sizin sorumluluğunuzdadır. 
+
+Bir proxy istemcisi yalnızca araçtır; bulunduğunuz ülkenin yasalarına ve kullandığınız servislerin şartlarına uygun kullanmak sizin sorumluluğunuzdadır.
 
 ## Nasıl kurulur, nasıl kullanılır?
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 FlClash adlı çok platformlu açık kaynaklı proxy istemcisini kullanmak istiyorum; GitHub Releases sayfasından (https://github.com/chen08209/FlClash/releases) işletim sistemime (Android, Windows, macOS ya da Linux) uygun kurulum dosyasını indirip kurmama ve bir abonelik bağlantısı ekleyerek yapılandırmama yardım et.
 
-Lisans: GPL-3.0 · kullanımı serbest; yazılımı değiştirip dağıtırsanız değişikliklerinizi de aynı GPL lisansıyla, kaynak koduyla paylaşmanız gerekir (copyleft). 
+Lisans: GPL-3.0 · kullanımı serbest; yazılımı değiştirip dağıtırsanız değişikliklerinizi de aynı GPL lisansıyla, kaynak koduyla paylaşmanız gerekir (copyleft).
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/chen08209/FlClash)
@@ -29630,7 +29847,7 @@ Her ders aynı döngüyle ilerler: problemi analiz edin, matematiğini çıkarı
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Sana 'ai-engineering-from-scratch' adlı, sıfırdan yapay zekâ mühendisliği öğreten 20 fazlı, 500'den fazla derslik açık kaynaklı bir müfredatın içeriğini vereceğim. README ve yol haritasını incele ve bana Türkçe, haftalara bölünmüş kişisel bir çalışma planı çıkar: hangi fazdan başlamalıyım, ön koşullar neler ve hangi sırayla ilerlemeliyim. Seviyem: [örn. yeni başlayan].
 
-Lisans: MIT · içeriği ve kodu özgürce kullanabilir, uyarlayabilir, paylaşabilirsiniz. 
+Lisans: MIT · içeriği ve kodu özgürce kullanabilir, uyarlayabilir, paylaşabilirsiniz.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/rohitg00/ai-engineering-from-scratch)
@@ -29639,7 +29856,7 @@ Lisans: MIT · içeriği ve kodu özgürce kullanabilir, uyarlayabilir, paylaşa
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Tokenizer AI Engineering Attention Prompt MCP Open Source
+Tokenizer AI Engineering Attention Prompt MCP Rust
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ai-engineering-from-scratch/
@@ -29692,7 +29909,7 @@ brew install --cask airi
 winget install MoeruAI.AIRI
 ```
 
-Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz. 
+Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/moeru-ai/airi)
@@ -30009,7 +30226,7 @@ Data Engineering Zoomcamp , üretime hazır veri hatları (data pipelines) oluş
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Sana 'Data Engineering Zoomcamp' adlı, veri mühendisliğini Docker, Terraform, BigQuery, dbt, Spark ve Kafka gibi araçlarla öğreten 9 haftalık ücretsiz bir kursun içeriğini vereceğim. Müfredatı incele ve bilgi düzeyime göre hangi modülden başlamam gerektiğini belirle, bana haftalık bir çalışma planı çıkar. Seviyem: [örn. yeni başlayan]. Hedefim: [örn. veri mühendisi olmak].
 
-Lisans: GitHub standart bir lisans tespit etmedi. İçeriği takip etmek/öğrenmek serbest; yeniden yayın öncesi repo'daki şartları kontrol edin. 
+Lisans: GitHub standart bir lisans tespit etmedi. İçeriği takip etmek/öğrenmek serbest; yeniden yayın öncesi repo'daki şartları kontrol edin.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/DataTalksClub/data-engineering-zoomcamp)
@@ -30929,7 +31146,8 @@ _Görsel: Kronos (proje deposundan)_
 - Finansal NLP ve araştırmalar için sağlam bir altyapı sunar.
 
 ## Dürüst not
-Bu bir araştırma modelidir; yatırım tavsiyesi ya da hazır kazanç aracı değildir. Finansal kararların sorumluluğu size aittir. 
+
+Bu bir araştırma modelidir; yatırım tavsiyesi ya da hazır kazanç aracı değildir. Finansal kararların sorumluluğu size aittir.
 
 ## Nasıl kurulur, nasıl kullanılır?
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
@@ -30947,7 +31165,7 @@ pip install -r requirements.txt
 python examples/prediction_example.py
 ```
 
-Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz. 
+Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/shiyu-coder/Kronos)
@@ -31568,7 +31786,7 @@ sudo bash install_nomad.sh
 sudo bash /opt/project-nomad/start_nomad.sh
 ```
 
-Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir). 
+Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir).
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/Crosstalk-Solutions/project-nomad)
@@ -31882,7 +32100,8 @@ VoxCPM ; çok dilli konuşma üretimi, yaratıcı ses tasarımı ve gerçekçi s
 - Yüksek doğrulukta ses kopyalama (voice cloning).
 
 ## Sorumluluk notu
-Ses kopyalama (voice cloning) içerir. Bir kişinin sesini izni olmadan taklit etmek yasal ve etik sorun yaratır; sorumluluk kullanıcıya aittir. 
+
+Ses kopyalama (voice cloning) içerir. Bir kişinin sesini izni olmadan taklit etmek yasal ve etik sorun yaratır; sorumluluk kullanıcıya aittir.
 
 ## Nasıl kurulur, nasıl kullanılır?
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
@@ -31906,7 +32125,7 @@ voxcpm design --text "VoxCPM2 brings studio-quality multilingual speech synthesi
 voxcpm clone --text "This is a voice cloning demo." --reference-audio path/to/voice.wav --output out.wav
 ```
 
-Lisans: Apache-2.0 · kod özgürce kullanılabilir/ticari. Model çıktısı ve ses kopyalama için yasal/etik sorumluluk size aittir. 
+Lisans: Apache-2.0 · kod özgürce kullanılabilir/ticari. Model çıktısı ve ses kopyalama için yasal/etik sorumluluk size aittir.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/OpenBMB/VoxCPM)
@@ -32812,7 +33031,7 @@ Terminalde 'npx skills add mukul975/Anthropic-Cybersecurity-Skills' komutunu ça
 npx skills add mukul975/Anthropic-Cybersecurity-Skills
 ```
 
-Lisans: Apache-2.0 · özgürce/ticari kullanılabilir. ⚠️ Ad benzerliğine rağmen Anthropic'in resmi/onaylı projesi değildir. 
+Lisans: Apache-2.0 · özgürce/ticari kullanılabilir. ⚠️ Ad benzerliğine rağmen Anthropic'in resmi/onaylı projesi değildir.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
@@ -33192,7 +33411,7 @@ npm install supermemory # ya da: pip install supermemory
 npx -y install-mcp@latest https://mcp.supermemory.ai/mcp --client claude --oauth=yes
 ```
 
-Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz. 
+Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/supermemoryai/supermemory)
@@ -33866,8 +34085,10 @@ Heretic , transformer tabanlı dil modellerinden güvenlik hizalaması (safety a
 - Yöntem açık kaynak ve otomatiktir.
 
 ## Sorumluluk notu
-Bu araç modelin güvenlik korumalarını kaldırır. Üretilecek çıktıların yasal ve etik sorumluluğu tamamen kullanıcıya aittir; zararlı veya yasa dışı kullanım önerilmez. Araştırma/ileri düzey amaçlıdır. 
-Lisans: AGPL-3.0 · kullanımı serbest; ancak kodu değiştirip dağıtır ya da bir servis olarak sunarsanız kendi kaynağınızı da açmanız gerekir (copyleft). 
+
+Bu araç modelin güvenlik korumalarını kaldırır. Üretilecek çıktıların yasal ve etik sorumluluğu tamamen kullanıcıya aittir; zararlı veya yasa dışı kullanım önerilmez. Araştırma/ileri düzey amaçlıdır.
+
+Lisans: AGPL-3.0 · kullanımı serbest; ancak kodu değiştirip dağıtır ya da bir servis olarak sunarsanız kendi kaynağınızı da açmanız gerekir (copyleft).
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/p-e-w/heretic)
@@ -34332,7 +34553,7 @@ Developer Portfolios , yazılımcıların kişisel projelerini ve yetkinliklerin
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Sana 'developer-portfolios' adlı, yazılım geliştiricilerin ilham verici kişisel portföy sitelerinin bağlantılarından oluşan bir liste vereceğim. Listeyi incele ve mesleğime göre örnek alabileceğim en uygun portföyleri seç, kendi portföy sitemi nasıl kuracağıma dair bir yol haritası çıkar. Alanım: [örn. frontend geliştirici]. Hedefim: [örn. iş başvurusu için etkileyici bir portföy].
 
-Lisans: ⚠️ Liste için bir lisans belirtilmemiş. Göz atmak/ilham almak serbest; listeyi kopyalayıp yeniden yayınlamadan önce sahibine danışın. (Örnek portfolyolar kendi sahiplerine aittir.) 
+Lisans: ⚠️ Liste için bir lisans belirtilmemiş. Göz atmak/ilham almak serbest; listeyi kopyalayıp yeniden yayınlamadan önce sahibine danışın. (Örnek portfolyolar kendi sahiplerine aittir.)
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/emmabostian/developer-portfolios)
@@ -34666,7 +34887,7 @@ Claude Code'da çalışıyorsan şu iki komutu sırayla çalıştırarak Compoun
 /ce-setup
 ```
 
-Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz. 
+Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/EveryInc/compound-engineering-plugin)
@@ -35092,7 +35313,7 @@ claude plugin install sales@knowledge-work-plugins
 /sales:call-prep
 ```
 
-Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir). 
+Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir).
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/anthropics/knowledge-work-plugins)
@@ -35236,53 +35457,83 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Reklamsız ve takipsiz video izleme
+# YouTube için Açık Kaynaklı Alternatif Arayüz
 
-Invidious, YouTube platformuna alternatif olarak geliştirilen açık kaynaklı bir arayüzdür. Kullanıcılara reklam içermeyen ve veri takibi yapmayan bir video izleme deneyimi sunar.
+Invidious, YouTube için açık kaynaklı alternatif bir arayüzdür. Resmî README; reklam ve takip olmadan kullanım, JavaScript gerektirmeme, Google’dan bağımsız abonelikler ile veri içe ve dışa aktarma özelliklerini listeler.
 
 - ★ 22.400
-- Crystal
 - GitHub Trending · 2026-08-02
-
-## Güncelleme
-- 6 Ağustos 2026: Yıldız 21.884 → 22.400, son sürüm v2.20260804.1 (5 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 21.676 → 21.884, son sürüm v2.20260723.0 (23 Temmuz 2026).
-
-## Ne kazandırır?
-- YouTube videolarını reklam ve veri takibi olmadan izleyin
-- Google hesabına ihtiyaç duymadan kanallara abone olun
-- Düşük veri kullanımıyla arka planda sesli oynatma yapın
 
 ## Kurulum
 
-**Depoyu ve compose dosyasını al**
+**Depoyu alın**
 
 ```
-git clone --depth 1 https://github.com/iv-org/invidious.git && cd invidious
+git clone https://github.com/iv-org/invidious.git
+```
+
+**Proje dizinine geçin**
+
+```
+cd invidious
 ```
 
 ## Çalıştırma
 
-**Başlat**
+**Docker Compose’u başlatın**
 
 ```
 docker compose up -d
 ```
 
-Kaynak: Depodaki resmî docker-compose.yml
+Kaynak: Komutlar Invidious resmî kurulum belgesinden 24 Ağustos 2026’da kontrol edildi; Docker kurulumu PostgreSQL, Companion ve yapılandırma gerektirir.
 
-## Nasıl başlanır?
+## Güncelleme
+- 6 Ağustos 2026: Yıldız 21.884 → 22.400, son sürüm v2.20260804.1 (5 Ağustos 2026).
+- 2 Ağustos 2026: Yıldız 21.676 → 21.884, son sürüm v2.20260723.0 (23 Temmuz 2026).
 
-Invidious kullanmaya başlamak için herhangi bir kurulum yapmanıza gerek yoktur. İnternet tarayıcınız üzerinden herkese açık örnek listesine giderek bir sunucu seçebilir ve hemen video izlemeye başlayabilirsiniz. Kendi sunucunuzu kurmak isterseniz resmî dokümantasyon sayfasındaki kurulum adımlarını takip edebilirsiniz.
-- [Resmî kaynak →](https://invidious.io)
+## Bu araç ne yapar?
 
-- **Kimin için:** Veri gizliliğine önem veren, reklamsız ve hafif bir video izleme arayüzü arayan tüm kullanıcılar için uygundur. 
-- **Lisans:** AGPL-3.0 
+Invidious, YouTube için alternatif bir arayüz sunar ve resmî YouTube API’lerini kullanmaz. Herkese açık bir instance seçerek kullanabilir ya da ayrı kurulum belgelerini izleyerek kendi instance’ınızı barındırabilirsiniz. Proje AGPL-3.0 lisanslıdır ve geliştiriciler için belgelenmiş bir API sunar.
+
+## Kimin için?
+
+YouTube’a alternatif bir arayüz kullanmak, Google’dan bağımsız abonelikleri yönetmek veya kendi instance’ınızı barındırmak isteyenler.
+
+## Ne beklememeli?
+
+Resmî YouTube API’lerini kullanan bir çözüm arıyorsanız.
+
+## Öne çıkanlar
+- Reklam, takip ve JavaScript gerektirmeme özelliklerini resmî README’de listeler.
+- Google’dan bağımsız abonelik yönetimini destekler.
+- Verileri içe ve dışa aktarma seçenekleri sunar.
+- Belgelenmiş geliştirici API’si içerir.
+
+## İlk kullanım akışı
+- Kullanım için herkese açık bir Invidious instance seçin.
+- Kendi instance’ınızı barındıracaksanız resmî kurulum belgelerini inceleyin.
+- Güncel Docker kurulumu için PostgreSQL ve Invidious Companion bileşenlerini hazırlayın.
+- Kendi kurulumunuz için en az 20 GB disk alanı ve 2 GB boş RAM gereksinimini göz önünde bulundurun.
+
+## Güvenli başlangıç
+
+Projeyi geçerli düzenlemelere uygun kullanın. Resmî liability metni, yasa dışı indirme gibi uygunsuz kullanımlardan proje tarafının sorumlu olmadığını belirtir.
+
+## İlk görev istemi
+İlk adım için hazır istem 
+Herkese açık bir Invidious instance kullanmak ile kendi instance’ınızı barındırmak arasındaki farklar nelerdir?
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/iv-org/invidious)
+- [Invidious resmî GitHub deposu →](https://github.com/iv-org/invidious)
+- [Invidious kurulum belgeleri →](https://docs.invidious.io/installation/)
+- [Invidious resmî sitesi →](https://invidious.io/)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Companion RAM API
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/invidious/
@@ -35501,7 +35752,7 @@ Resmî internet sitesi olan onnxruntime.ai adresini ziyaret ederek kullanım dok
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Machine Learning Runtime Artificial Intelligence
+Runtime Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/onnxruntime/
@@ -36028,7 +36279,7 @@ GitHub Docs , docs.github.com adresindeki belgelerin kaynak kodlarını içeren 
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Bu depo (github/docs), GitHub'ın resmi açık kaynaklı dokümantasyonunun kaynak deposudur. İçerik yapısını ve katkı rehberini incele ve bana Türkçe bir yol haritası çıkar: bu dokümantasyona nasıl katkı yapabilirim, içerik dosyaları nerede bulunur ve ilk katkım için izlemem gereken adımlar nelerdir.
 
-Lisans: İçerik CC-BY-4.0 · özgürce kullanıp uyarlayabilirsiniz, ancak kaynağı (GitHub'a atıf) belirtmeniz gerekir . Koddaki ayrı lisanslar için repo'ya bakın. 
+Lisans: İçerik CC-BY-4.0 · özgürce kullanıp uyarlayabilirsiniz, ancak kaynağı (GitHub'a atıf) belirtmeniz gerekir . Koddaki ayrı lisanslar için repo'ya bakın.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/github/docs)
@@ -36580,7 +36831,7 @@ iii worker add queue
 npm install iii-sdk
 ```
 
-Lisans: ⚠️ Repo'da bir lisans belirtilmemiş; bu varsayılan olarak 'tüm hakları saklı' demektir. Denemek için bakabilirsiniz, ancak net bir lisans eklenene kadar kod yeniden kullanımı ve ticari kullanım için yazarın açık izni gerekir. 
+Lisans: ⚠️ Repo'da bir lisans belirtilmemiş; bu varsayılan olarak 'tüm hakları saklı' demektir. Denemek için bakabilirsiniz, ancak net bir lisans eklenene kadar kod yeniden kullanımı ve ticari kullanım için yazarın açık izni gerekir.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/iii-hq/iii)
@@ -36589,7 +36840,7 @@ Lisans: ⚠️ Repo'da bir lisans belirtilmemiş; bu varsayılan olarak 'tüm ha
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Observability Sandbox SDK Open Source Rust Artificial Intelligence
+Observability Sandbox SDK Rust Open Source Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/iii/
@@ -37033,7 +37284,7 @@ python3 bootstrap.py
 ./start.sh
 ```
 
-Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz. 
+Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/nesquena/hermes-webui)
@@ -37362,7 +37613,7 @@ SKILL.md'yi AI asistanınıza beceri olarak verirsiniz, sonra metni bu kurallard
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Bu depoyu (https://github.com/hardikpandya/stop-slop) indirip stop-slop becerisini Claude Code'a beceri olarak ekle; sonra yazdığım metinlerden yapay zekâya özgü klişe kalıpları temizlemek için bu beceriyi kullan.
 
-Lisans: MIT · özgürce kullanabilir, uyarlayabilir, ticari işte kullanabilirsiniz. 
+Lisans: MIT · özgürce kullanabilir, uyarlayabilir, ticari işte kullanabilirsiniz.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/hardikpandya/stop-slop)
@@ -37805,7 +38056,7 @@ Logitech farem, klavyem ve web kameram üzerinde tam kontrol sağlamak istiyorum
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-DPI Local Rust Artificial Intelligence
+DPI Rust Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openlogi/
@@ -38421,7 +38672,7 @@ pnpm install
 pnpm dev
 ```
 
-Lisans: AGPL-3.0 · Hazır siteyi kullanmak serbest. Ancak projeyi değiştirir, yeniden dağıtır ya da bir web hizmeti olarak yayına alırsanız, geliştiricilerin de açıkça belirttiği gibi kendi kaynak kodunuzu açmanız gerekir. 
+Lisans: AGPL-3.0 · Hazır siteyi kullanmak serbest. Ancak projeyi değiştirir, yeniden dağıtır ya da bir web hizmeti olarak yayına alırsanız, geliştiricilerin de açıkça belirttiği gibi kendi kaynak kodunuzu açmanız gerekir.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/Open-Dev-Society/OpenStock)
@@ -38463,7 +38714,8 @@ social-auto-upload , videolarınızı TikTok, YouTube, Bilibili, Douyin ve Xiaoh
 - Zaman tasarrufu sağlayan verimli iş akışı.
 
 ## Sorumluluk notu
-Otomatik yükleme, platformların kullanım şartlarına takılabilir (spam/otomasyon kuralları). Hesabınızın güvenliği ve ToS uyumu sizin sorumluluğunuzdadır. 
+
+Otomatik yükleme, platformların kullanım şartlarına takılabilir (spam/otomasyon kuralları). Hesabınızın güvenliği ve ToS uyumu sizin sorumluluğunuzdadır.
 
 ## Nasıl kurulur, nasıl kullanılır?
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
@@ -38481,7 +38733,7 @@ sau douyin login --account
 sau douyin upload-video --account --file videos/demo.mp4 --title "Başlık" --desc "Açıklama"
 ```
 
-Lisans: ⚠️ Repo'da bir lisans belirtilmemiş; varsayılan olarak 'tüm hakları saklı'. Denemek için bakabilirsiniz, ancak yeniden kullanım için yazarın açık izni gerekir. 
+Lisans: ⚠️ Repo'da bir lisans belirtilmemiş; varsayılan olarak 'tüm hakları saklı'. Denemek için bakabilirsiniz, ancak yeniden kullanım için yazarın açık izni gerekir.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/dreammis/social-auto-upload)
@@ -39171,6 +39423,29 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Claude Obsidian
+
+Claude-obsidian é uma ferramenta que funciona no aplicativo de notas Obsidian e fornece gestão de conhecimento pessoal (personal knowledge management) com suporte de inteligência artificial. Integrado ao Claude Code, ele analisa dados, estabelece conexões e os transforma em um gráfico de conhecimento organizado, oferecendo uma alternativa de código aberto a plataformas como o Notion.
+
+- ★ 12.404
+- Python
+- GitHub Trending · 2026-08-25
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/AgriciDaniel/claude-obsidian)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Personal knowledge management
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/claude-obsidian/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Açık kaynaklı yerel sesli ajanlar
 
 Hugging Face tarafından geliştirilen speech-to-speech kütüphanesi, açık kaynaklı modeller kullanarak yerel sesli ajanlar (voice agents) oluşturulmasına olanak tanıyor. Python tabanlı bu araç, geliştiricilerin cihaz üzerinde çalışan gerçek zamanlı sesli etkileşim sistemleri kurmasını sağlıyor.
@@ -39462,7 +39737,7 @@ lit parse document.pdf
 lit parse document.pdf --format json -o output.json
 ```
 
-Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir). 
+Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir).
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/run-llama/liteparse)
@@ -39470,7 +39745,7 @@ Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabi
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Output Pipeline RAG PDF Open Source Rust
+Output Pipeline RAG PDF Rust Open Source
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/liteparse/
@@ -40982,7 +41257,7 @@ cd train-llm-from-scratch
 pip install -r requirements.txt
 ```
 
-Lisans: MIT · içeriği ve kodu özgürce kullanabilir, uyarlayabilir, paylaşabilirsiniz. 
+Lisans: MIT · içeriği ve kodu özgürce kullanabilir, uyarlayabilir, paylaşabilirsiniz.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/FareedKhan-dev/train-llm-from-scratch)
@@ -41226,7 +41501,7 @@ Claude Code'da '/plugin marketplace add revfactory/harness' ve ardından '/plugi
 /plugin install harness@harness-marketplace
 ```
 
-Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir). 
+Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir).
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/revfactory/harness)
@@ -42039,7 +42314,7 @@ Flue framework'ünü kullanarak bir yapay zekâ ajanı geliştirmek istiyorum. P
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Sandbox Agent Framework Prompt CI/CD Sandbox Runtime Framework
+Sandbox Agent Framework Prompt CI/CD Runtime Sandbox Framework
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/flue/
@@ -42437,7 +42712,7 @@ GitHub sayfamızda platformunuza göre gezinebilir ve ihtiyacınız olan uygulam
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Sana 'awesome-free-apps' adlı, Windows, macOS ve Linux için ücretsiz uygulamaların kategorilere ayrılmış bir listesini vereceğim. Listeyi incele ve ihtiyaçlarıma göre (örn. ses, tarayıcı, geliştirici araçları, güvenlik) hangi ücretsiz ve mümkünse açık kaynaklı uygulamaları kullanmam gerektiğini, her biri için kısa açıklama ve hangi platformda çalıştığıyla birlikte öner.
 
-Lisans: ⚠️ Standart bir lisans tanımlanmamış (GitHub 'NOASSERTION' diyor). Listeyi okumak ve kullanmak serbest ; ancak içeriği kopyalayıp kendi yerinizde yeniden yayınlamadan önce sahibine danışın · yeniden kullanım hakları net değil. 
+Lisans: ⚠️ Standart bir lisans tanımlanmamış (GitHub 'NOASSERTION' diyor). Listeyi okumak ve kullanmak serbest ; ancak içeriği kopyalayıp kendi yerinizde yeniden yayınlamadan önce sahibine danışın · yeniden kullanım hakları net değil.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/Axorax/awesome-free-apps)
@@ -43931,7 +44206,7 @@ AI-Infra-Guard platformunu kullanarak yapay zekâ altyapımdaki güvenlik açık
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Red Teaming Artificial Intelligence
+MCP LLM Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ai-infra-guard/
@@ -43969,7 +44244,7 @@ Cursor Plugins ; Cursor kod editörü için hazırlanan resmi eklenti spesifikas
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Cursor editöründe çalıştığım projeye bu depodaki resmi Cursor eklentilerini (örneğin kod incelemesi ya da güvenlik denetimi yapan eklentileri) Cursor eklenti pazarından kurmama ve nasıl kullanacağımı adım adım anlatmana yardım et.
 
-Lisans: GitHub standart bir lisans tespit etmedi. Yeniden kullanım/dağıtım öncesi repo'daki LICENSE/şartları kontrol edin. 
+Lisans: GitHub standart bir lisans tespit etmedi. Yeniden kullanım/dağıtım öncesi repo'daki LICENSE/şartları kontrol edin.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/cursor/plugins)
@@ -44139,7 +44414,7 @@ docker run --rm -it --name ppf-contact-solver --gpus all \
 ghcr.io/st-tech/ppf-contact-solver-compiled:latest
 ```
 
-Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir). 
+Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir).
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/st-tech/ppf-contact-solver)
@@ -44605,7 +44880,7 @@ pip install --extra-index-url https://download.pytorch.org/whl/cu128 -e ".[torch
 python clis/moss_tts_app.py
 ```
 
-Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir). Model çıktısı için ilgili model kartını da inceleyin. 
+Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir). Model çıktısı için ilgili model kartını da inceleyin.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/OpenMOSS/MOSS-TTS)
@@ -44995,7 +45270,7 @@ pi install npm:pi-subagents
 /parallel ajan1 "görev1" -> ajan2 "görev2"
 ```
 
-Lisans: ⚠️ Repo'da bir lisans belirtilmemiş; varsayılan olarak 'tüm hakları saklı'. Denemek için bakabilirsiniz, ancak yeniden kullanım için yazarın açık izni gerekir. 
+Lisans: ⚠️ Repo'da bir lisans belirtilmemiş; varsayılan olarak 'tüm hakları saklı'. Denemek için bakabilirsiniz, ancak yeniden kullanım için yazarın açık izni gerekir.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/nicobailon/pi-subagents)
@@ -45119,7 +45394,7 @@ Claude Code'da '/plugin marketplace add Chachamaru127/claude-code-harness', ard�
 /harness-release
 ```
 
-Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz. 
+Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/Chachamaru127/claude-code-harness)
@@ -45450,6 +45725,25 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Hister
+
+Hister, Go programlama diliyle geliştirilmiş bir kişisel arama motoru altyapısıdır. Kullanıcıların web üzerinde bağımsız aramalar yapabilmesi için kendi dizinlerini oluşturmalarına olanak tanır.
+
+- ★ 2.620
+- GitHub Trending · 2026-08-25
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/asciimoo/hister)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/hister/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Otonom yazılım geliştiren yapay zekâ ajanları
 
 ColeMurray tarafından geliştirilen background-agents, TypeScript tabanlı açık kaynaklı bir arka plan ajanları kodlama sistemidir. Geliştiricilerin uygulamalar içerisinde otonom süreçler yürüten yapay zekâ ajanları (AI agents) oluşturmasına olanak tanır.
@@ -45694,7 +45988,7 @@ pip install 'stable-worldmodel[all]'
 swm datasets
 ```
 
-Lisans: GitHub standart bir lisans tespit etmedi. Yeniden kullanım öncesi repo'daki LICENSE'ı kontrol edin. 
+Lisans: GitHub standart bir lisans tespit etmedi. Yeniden kullanım öncesi repo'daki LICENSE'ı kontrol edin.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/galilai-group/stable-worldmodel)
@@ -45765,7 +46059,7 @@ Maka çalışma alanında bir projeyi analiz etmen, gerekli araçları kullanara
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-22 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Local Terminal Artificial Intelligence
+Terminal Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/maka/
@@ -45822,6 +46116,26 @@ CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openclaw-windows-node/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Marin
+
+Marin é uma estrutura Python de código aberto projetada para a pesquisa e desenvolvimento de modelos de base (foundation models). O seu objetivo é facilitar os processos de treinamento e otimização de modelos de inteligência artificial em larga escala.
+
+- ★ 1.967
+- Python
+- GitHub Trending · 2026-08-25
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/marin-community/marin)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/marin/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -46063,7 +46377,7 @@ claude plugin install --scope user babysitter@a5c.ai
 claude "/babysitter:call implement user authentication with TDD"
 ```
 
-Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz. 
+Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/a5c-ai/babysitter)
@@ -46587,7 +46901,7 @@ Yapay zekâ ajanlarını ölçekli bir şekilde çalıştırmak için Substrate 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Runtime Agent Artificial Intelligence
+Agent Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/substrate/

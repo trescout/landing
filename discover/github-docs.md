@@ -25,7 +25,7 @@ GitHub Docs , docs.github.com adresindeki belgelerin kaynak kodlarını içeren 
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Bu depo (github/docs), GitHub'ın resmi açık kaynaklı dokümantasyonunun kaynak deposudur. İçerik yapısını ve katkı rehberini incele ve bana Türkçe bir yol haritası çıkar: bu dokümantasyona nasıl katkı yapabilirim, içerik dosyaları nerede bulunur ve ilk katkım için izlemem gereken adımlar nelerdir.
 
-Lisans: İçerik CC-BY-4.0 · özgürce kullanıp uyarlayabilirsiniz, ancak kaynağı (GitHub'a atıf) belirtmeniz gerekir . Koddaki ayrı lisanslar için repo'ya bakın. 
+Lisans: İçerik CC-BY-4.0 · özgürce kullanıp uyarlayabilirsiniz, ancak kaynağı (GitHub'a atıf) belirtmeniz gerekir . Koddaki ayrı lisanslar için repo'ya bakın.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/github/docs)

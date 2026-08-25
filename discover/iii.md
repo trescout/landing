@@ -56,7 +56,7 @@ iii worker add queue
 npm install iii-sdk
 ```
 
-Lisans: ⚠️ Repo'da bir lisans belirtilmemiş; bu varsayılan olarak 'tüm hakları saklı' demektir. Denemek için bakabilirsiniz, ancak net bir lisans eklenene kadar kod yeniden kullanımı ve ticari kullanım için yazarın açık izni gerekir. 
+Lisans: ⚠️ Repo'da bir lisans belirtilmemiş; bu varsayılan olarak 'tüm hakları saklı' demektir. Denemek için bakabilirsiniz, ancak net bir lisans eklenene kadar kod yeniden kullanımı ve ticari kullanım için yazarın açık izni gerekir.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/iii-hq/iii)
@@ -65,7 +65,7 @@ Lisans: ⚠️ Repo'da bir lisans belirtilmemiş; bu varsayılan olarak 'tüm ha
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Observability Sandbox SDK Open Source Rust Artificial Intelligence
+Observability Sandbox SDK Rust Open Source Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/iii/

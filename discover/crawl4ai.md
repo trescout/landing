@@ -31,7 +31,7 @@ Crawl4AI adlı açık kaynaklı web tarayıcısını kurmama yardım et; 'pip in
 pip install crawl4ai
 ```
 
-Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir). 
+Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir).
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/unclecode/crawl4ai)

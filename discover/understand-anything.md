@@ -80,7 +80,7 @@ curl -fsSL https://raw.githubusercontent.com/Lum1104/Understand-Anything/main/in
 
 Kurduktan sonra asistana dosyalarınızı işaret edip düz cümleyle sorun.
 
-Gerçekçi olalım: "tek tıkla çalışır" değil. Çalışan bir AI asistanı (ve çoğu zaman bir hesap) gerekir. Hiç kurulum istemeyen tek yol yukarıdaki canlı demo. 
+Gerçekçi olalım: "tek tıkla çalışır" değil. Çalışan bir AI asistanı (ve çoğu zaman bir hesap) gerekir. Hiç kurulum istemeyen tek yol yukarıdaki canlı demo.
 
 ## Neden gündemde?
 

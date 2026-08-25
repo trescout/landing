@@ -6953,5 +6953,31 @@
     "kisa_pt": "Karmaşık görevleri çözmek için koordineli şekilde çalışan küçük yapay zekâ birimleri topluluğudur.",
     "kisa_es": "Karmaşık görevleri çözmek için koordineli şekilde çalışan küçük yapay zekâ birimleri topluluğudur.",
     "kisa_de": "Karmaşık görevleri çözmek için koordineli şekilde çalışan küçük yapay zekâ birimleri topluluğudur."
+  },
+  {
+    "slug": "append-only-log",
+    "en": "Append-only log",
+    "full": "",
+    "cat": "data",
+    "kisa": "Registre sécurisé où les anciennes données ne peuvent pas être modifiées, et où seules de nouvelles informations peuvent être ajoutées à la fin.",
+    "date": "2026-08-25",
+    "kisa_en": "Secure ledger where old data cannot be modified and only new information can be appended at the end.",
+    "kisa_fr": "Registre sécurisé où les anciennes données ne peuvent pas être modifiées, et où seules de nouvelles informations peuvent être ajoutées à la fin.",
+    "kisa_pt": "Registro seguro onde os dados antigos não podem ser modificados, e onde somente novas informações podem ser adicionadas ao final.",
+    "kisa_es": "Registro seguro en el que los datos anteriores no se pueden modificar y en el que solo se puede añadir nueva información al final.",
+    "kisa_de": "Sicheres Register, in dem frühere Daten nicht geändert werden können und in das nur neue Informationen am Ende hinzugefügt werden können."
+  },
+  {
+    "slug": "personal-knowledge-management",
+    "en": "Personal knowledge management",
+    "full": "",
+    "cat": "data",
+    "kisa": "Méthode consistant à stocker et à récupérer de manière organisée les connaissances, idées et notes apprises par une personne à l'aide d'outils numériques.",
+    "date": "2026-08-25",
+    "kisa_en": "A method of storing and retrieving a person's learned knowledge, ideas, and notes in an organized way using digital tools.",
+    "kisa_fr": "Méthode consistant à stocker et à récupérer de manière organisée les connaissances, idées et notes apprises par une personne à l'aide d'outils numériques.",
+    "kisa_pt": "Método que consiste em armazenar e recuperar de forma organizada os conhecimentos, ideias e anotações aprendidos por uma pessoa com a ajuda de ferramentas digitais.",
+    "kisa_es": "Método que consiste en almacenar y recuperar de manera organizada los conocimientos, las ideas y las notas adquiridos por una persona con la ayuda de herramientas digitales.",
+    "kisa_de": "Methode, Wissen, Ideen und Notizen, die eine Person erlernt hat, mithilfe digitaler Werkzeuge geordnet zu speichern und abzurufen."
   }
 ]

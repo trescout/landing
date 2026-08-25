@@ -47,7 +47,7 @@ pip install 'markitdown[all]'
 markitdown belge.pdf > belge.md
 ```
 
-Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz. 
+Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/microsoft/markitdown)

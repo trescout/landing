@@ -5,6 +5,30 @@ Invidious, YouTube için açık kaynaklı alternatif bir arayüzdür. Resmî REA
 - ★ 22.400
 - GitHub Trending · 2026-08-02
 
+## Kurulum
+
+**Depoyu alın**
+
+```
+git clone https://github.com/iv-org/invidious.git
+```
+
+**Proje dizinine geçin**
+
+```
+cd invidious
+```
+
+## Çalıştırma
+
+**Docker Compose’u başlatın**
+
+```
+docker compose up -d
+```
+
+Kaynak: Komutlar Invidious resmî kurulum belgesinden 24 Ağustos 2026’da kontrol edildi; Docker kurulumu PostgreSQL, Companion ve yapılandırma gerektirir.
+
 ## Güncelleme
 - 6 Ağustos 2026: Yıldız 21.884 → 22.400, son sürüm v2.20260804.1 (5 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 21.676 → 21.884, son sürüm v2.20260723.0 (23 Temmuz 2026).
@@ -38,32 +62,8 @@ Resmî YouTube API’lerini kullanan bir çözüm arıyorsanız.
 Projeyi geçerli düzenlemelere uygun kullanın. Resmî liability metni, yasa dışı indirme gibi uygunsuz kullanımlardan proje tarafının sorumlu olmadığını belirtir.
 
 ## İlk görev istemi
-İlk adım için hazır istem
+İlk adım için hazır istem 
 Herkese açık bir Invidious instance kullanmak ile kendi instance’ınızı barındırmak arasındaki farklar nelerdir?
-
-## Kurulum
-
-**Depoyu alın**
-
-```
-git clone https://github.com/iv-org/invidious.git
-```
-
-**Proje dizinine geçin**
-
-```
-cd invidious
-```
-
-## Çalıştırma
-
-**Docker Compose’u başlatın**
-
-```
-docker compose up -d
-```
-
-Kaynak: Komutlar Invidious resmî kurulum belgesinden 24 Ağustos 2026’da kontrol edildi; Docker kurulumu PostgreSQL, Companion ve yapılandırma gerektirir.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/iv-org/invidious)
@@ -72,6 +72,9 @@ Kaynak: Komutlar Invidious resmî kurulum belgesinden 24 Ağustos 2026’da kont
 - [Invidious resmî sitesi →](https://invidious.io/)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Companion RAM API
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/invidious/

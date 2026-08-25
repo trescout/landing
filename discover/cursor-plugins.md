@@ -27,7 +27,7 @@ Cursor Plugins ; Cursor kod editörü için hazırlanan resmi eklenti spesifikas
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Cursor editöründe çalıştığım projeye bu depodaki resmi Cursor eklentilerini (örneğin kod incelemesi ya da güvenlik denetimi yapan eklentileri) Cursor eklenti pazarından kurmama ve nasıl kullanacağımı adım adım anlatmana yardım et.
 
-Lisans: GitHub standart bir lisans tespit etmedi. Yeniden kullanım/dağıtım öncesi repo'daki LICENSE/şartları kontrol edin. 
+Lisans: GitHub standart bir lisans tespit etmedi. Yeniden kullanım/dağıtım öncesi repo'daki LICENSE/şartları kontrol edin.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/cursor/plugins)

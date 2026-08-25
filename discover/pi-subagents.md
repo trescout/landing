@@ -46,7 +46,7 @@ pi install npm:pi-subagents
 /parallel ajan1 "görev1" -> ajan2 "görev2"
 ```
 
-Lisans: ⚠️ Repo'da bir lisans belirtilmemiş; varsayılan olarak 'tüm hakları saklı'. Denemek için bakabilirsiniz, ancak yeniden kullanım için yazarın açık izni gerekir. 
+Lisans: ⚠️ Repo'da bir lisans belirtilmemiş; varsayılan olarak 'tüm hakları saklı'. Denemek için bakabilirsiniz, ancak yeniden kullanım için yazarın açık izni gerekir.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/nicobailon/pi-subagents)

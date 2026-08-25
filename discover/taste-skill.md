@@ -45,7 +45,7 @@ npx skills add https://github.com/Leonxlnx/taste-skill
 npx skills add https://github.com/Leonxlnx/taste-skill --skill "design-taste-frontend"
 ```
 
-Lisans: MIT · özgürce kullanabilir, uyarlayabilir, ticari işte kullanabilirsiniz. 
+Lisans: MIT · özgürce kullanabilir, uyarlayabilir, ticari işte kullanabilirsiniz.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/Leonxlnx/taste-skill)

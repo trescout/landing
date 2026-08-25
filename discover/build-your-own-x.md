@@ -31,7 +31,7 @@ GitHub sayfasında ilgilendiğiniz teknolojiyi seçebilir ve adım adım hazırl
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Sana 'build-your-own-x' adlı, sıfırdan kendi teknolojini (veritabanı, işletim sistemi, programlama dili, web sunucusu gibi) yapmayı öğreten adım adım rehber bağlantılarından oluşan bir liste vereceğim. Bu listeyi incele ve mevcut seviyeme ve hedefime göre hangi projelerden başlamam gerektiğini sırala, bana haftalık bir çalışma planı çıkar. Seviyem: [örn. yeni başlayan]. Hedefim: [örn. kendi web sunucumu yapmak].
 
-Lisans: ⚠️ Bir lisans belirtilmemiş. Telif gereği 'tüm hakları saklı': okumak ve takip etmek serbest , ama içeriği kopyalayıp yeniden yayınlamak izin gerektirir. 
+Lisans: ⚠️ Bir lisans belirtilmemiş. Telif gereği 'tüm hakları saklı': okumak ve takip etmek serbest , ama içeriği kopyalayıp yeniden yayınlamak izin gerektirir.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/codecrafters-io/build-your-own-x)

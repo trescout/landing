@@ -43,7 +43,7 @@ claude plugin install sales@knowledge-work-plugins
 /sales:call-prep
 ```
 
-Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir). 
+Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir).
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/anthropics/knowledge-work-plugins)

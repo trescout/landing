@@ -43,7 +43,7 @@ docker run --rm -it --name ppf-contact-solver --gpus all \
 ghcr.io/st-tech/ppf-contact-solver-compiled:latest
 ```
 
-Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir). 
+Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir).
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/st-tech/ppf-contact-solver)

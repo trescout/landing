@@ -51,7 +51,7 @@ pnpm install
 pnpm dev
 ```
 
-Lisans: AGPL-3.0 · Hazır siteyi kullanmak serbest. Ancak projeyi değiştirir, yeniden dağıtır ya da bir web hizmeti olarak yayına alırsanız, geliştiricilerin de açıkça belirttiği gibi kendi kaynak kodunuzu açmanız gerekir. 
+Lisans: AGPL-3.0 · Hazır siteyi kullanmak serbest. Ancak projeyi değiştirir, yeniden dağıtır ya da bir web hizmeti olarak yayına alırsanız, geliştiricilerin de açıkça belirttiği gibi kendi kaynak kodunuzu açmanız gerekir.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/Open-Dev-Society/OpenStock)

@@ -37,7 +37,7 @@ pip install 'stable-worldmodel[all]'
 swm datasets
 ```
 
-Lisans: GitHub standart bir lisans tespit etmedi. Yeniden kullanım öncesi repo'daki LICENSE'ı kontrol edin. 
+Lisans: GitHub standart bir lisans tespit etmedi. Yeniden kullanım öncesi repo'daki LICENSE'ı kontrol edin.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/galilai-group/stable-worldmodel)

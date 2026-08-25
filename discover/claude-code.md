@@ -48,7 +48,7 @@ irm https://claude.ai/install.ps1 | iex
 claude
 ```
 
-Lisans: ⚠️ Açık kaynak değildir ; Anthropic'in bir ürünüdür ve Ticari Kullanım Şartları'na tabidir. Aracı kullanmak serbesttir (hesap/plan gerekir), ancak kodunu serbestçe yeniden kullanıp dağıtamazsınız. 
+Lisans: ⚠️ Açık kaynak değildir ; Anthropic'in bir ürünüdür ve Ticari Kullanım Şartları'na tabidir. Aracı kullanmak serbesttir (hesap/plan gerekir), ancak kodunu serbestçe yeniden kullanıp dağıtamazsınız.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/anthropics/claude-code)

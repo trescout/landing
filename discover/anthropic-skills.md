@@ -43,7 +43,7 @@ Claude Code içindeyken '/plugin marketplace add anthropics/skills' komutuyla An
 /plugin install document-skills@anthropic-agent-skills
 ```
 
-Lisans: GitHub bu repo için standart bir lisans tespit etmedi. Anthropic'in resmi deposu olsa da, yeniden kullanım/dağıtım öncesi repo'daki LICENSE dosyasını kontrol edin. 
+Lisans: GitHub bu repo için standart bir lisans tespit etmedi. Anthropic'in resmi deposu olsa da, yeniden kullanım/dağıtım öncesi repo'daki LICENSE dosyasını kontrol edin.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/anthropics/skills)

@@ -25,7 +25,7 @@ Developer Portfolios , yazılımcıların kişisel projelerini ve yetkinliklerin
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Sana 'developer-portfolios' adlı, yazılım geliştiricilerin ilham verici kişisel portföy sitelerinin bağlantılarından oluşan bir liste vereceğim. Listeyi incele ve mesleğime göre örnek alabileceğim en uygun portföyleri seç, kendi portföy sitemi nasıl kuracağıma dair bir yol haritası çıkar. Alanım: [örn. frontend geliştirici]. Hedefim: [örn. iş başvurusu için etkileyici bir portföy].
 
-Lisans: ⚠️ Liste için bir lisans belirtilmemiş. Göz atmak/ilham almak serbest; listeyi kopyalayıp yeniden yayınlamadan önce sahibine danışın. (Örnek portfolyolar kendi sahiplerine aittir.) 
+Lisans: ⚠️ Liste için bir lisans belirtilmemiş. Göz atmak/ilham almak serbest; listeyi kopyalayıp yeniden yayınlamadan önce sahibine danışın. (Örnek portfolyolar kendi sahiplerine aittir.)
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/emmabostian/developer-portfolios)

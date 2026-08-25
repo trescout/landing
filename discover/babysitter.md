@@ -38,7 +38,7 @@ claude plugin install --scope user babysitter@a5c.ai
 claude "/babysitter:call implement user authentication with TDD"
 ```
 
-Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz. 
+Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/a5c-ai/babysitter)

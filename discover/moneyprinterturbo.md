@@ -27,7 +27,8 @@ _Görsel: MoneyPrinterTurbo (proje deposundan)_
 - Toplu ve çoklu video üretimine olanak tanır.
 
 ## Dürüst not
-Çalışması için bir AI model API anahtarı + kurulum gerekir; API kullanımı ücretli olabilir. Üretilen videoların telif ve platform kurallarına uygunluğu kullanıcının sorumluluğundadır. 
+
+Çalışması için bir AI model API anahtarı + kurulum gerekir; API kullanımı ücretli olabilir. Üretilen videoların telif ve platform kurallarına uygunluğu kullanıcının sorumluluğundadır.
 
 ## Nasıl kurulur, nasıl kullanılır?
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
@@ -52,7 +53,7 @@ docker-compose up
 uv run streamlit run ./webui/Main.py --browser.gatherUsageStats=False
 ```
 
-Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz. 
+Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/harry0703/MoneyPrinterTurbo)

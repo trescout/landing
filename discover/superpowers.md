@@ -37,7 +37,7 @@ Claude Code'da '/plugin install superpowers@claude-plugins-official' komutunu ç
 /plugin install superpowers@claude-plugins-official
 ```
 
-Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz. 
+Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/obra/superpowers)

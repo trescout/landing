@@ -25,7 +25,7 @@ Data Engineering Zoomcamp , üretime hazır veri hatları (data pipelines) oluş
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Sana 'Data Engineering Zoomcamp' adlı, veri mühendisliğini Docker, Terraform, BigQuery, dbt, Spark ve Kafka gibi araçlarla öğreten 9 haftalık ücretsiz bir kursun içeriğini vereceğim. Müfredatı incele ve bilgi düzeyime göre hangi modülden başlamam gerektiğini belirle, bana haftalık bir çalışma planı çıkar. Seviyem: [örn. yeni başlayan]. Hedefim: [örn. veri mühendisi olmak].
 
-Lisans: GitHub standart bir lisans tespit etmedi. İçeriği takip etmek/öğrenmek serbest; yeniden yayın öncesi repo'daki şartları kontrol edin. 
+Lisans: GitHub standart bir lisans tespit etmedi. İçeriği takip etmek/öğrenmek serbest; yeniden yayın öncesi repo'daki şartları kontrol edin.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/DataTalksClub/data-engineering-zoomcamp)

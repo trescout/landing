@@ -49,7 +49,7 @@ pip install --extra-index-url https://download.pytorch.org/whl/cu128 -e ".[torch
 python clis/moss_tts_app.py
 ```
 
-Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir). Model çıktısı için ilgili model kartını da inceleyin. 
+Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir). Model çıktısı için ilgili model kartını da inceleyin.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/OpenMOSS/MOSS-TTS)
