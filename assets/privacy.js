@@ -9,7 +9,7 @@
         return sh - st - ch < 80;
       }
       function notify() {
-        try { window.parent.postMessage({ type: 'trescout-privacy-read' }, '*'); } catch (e) {}
+        try { window.parent.postMessage({ type: 'trescout-privacy-read' }, window.location.origin); } catch (e) {}
       }
       window.addEventListener('scroll', function () {
         if (nearBottom()) notify();

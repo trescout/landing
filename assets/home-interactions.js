@@ -69,6 +69,16 @@
     emit('report_tasting_view', { language: language() });
   }
 
+  var FILTER_TAGS = {
+    ai: ['yapay zekâ araçları'],
+    dev: ['geliştirici aracı'],
+    learn: ['öğrenme'],
+    selfhost: ['self-host']
+  };
+
+  // Eski veya eksik katalog kaydı için geriye dönük fallback. Yeni kayıtlarda
+  // filtreleme yalnızca kanonik `tags` alanına dayanır; serbest metin araması
+  // yanlış pozitif üretebildiği için ikinci seçenek olarak tutulur.
   var FILTER_TERMS = {
     ai: ['yapay zek', 'artificial intelligence', 'ai ', 'ia ', 'intelligence artificielle', 'inteligência artificial', 'inteligencia artificial', 'künstliche intelligenz'],
     dev: ['geliştirici', 'developer', 'développeur', 'développement', 'desenvolvedor', 'desenvolvimento', 'desarrollo', 'entwickler', 'entwicklung', 'kod', 'code', 'cli', 'program'],
@@ -102,8 +112,17 @@
       .concat(entry.tags || []).join(' ').toLowerCase();
   }
 
+  function normalizeTag(value) {
+    return String(value || '').trim().toLocaleLowerCase('tr-TR');
+  }
+
   function matches(entry, filter, lang) {
     if (filter === 'all') return true;
+    var tags = Array.isArray(entry.tags) ? entry.tags.map(normalizeTag) : [];
+    var wantedTags = (FILTER_TAGS[filter] || []).map(normalizeTag);
+    if (tags.length) {
+      return tags.some(function (tag) { return wantedTags.indexOf(tag) !== -1; });
+    }
     var text = entryText(entry, lang);
     return (FILTER_TERMS[filter] || []).some(function (term) { return text.indexOf(term) !== -1; });
   }
@@ -117,6 +136,36 @@
       var date = catalogDate(entry);
       return date > latest ? date : latest;
     }, '');
+  }
+
+  var catalogPromise = null;
+
+  function loadCatalog() {
+    if (!catalogPromise) {
+      catalogPromise = fetch('/assets/discover/catalog.json', { credentials: 'same-origin' })
+        .then(function (response) {
+          if (!response.ok) throw new Error('catalog ' + response.status);
+          return response.json();
+        })
+        .then(function (entries) {
+          return Array.isArray(entries) ? entries.slice() : [];
+        });
+    }
+    return catalogPromise;
+  }
+
+  function whenVisible(root, callback) {
+    if (!('IntersectionObserver' in window)) {
+      callback();
+      return;
+    }
+    var observer = new IntersectionObserver(function (entries) {
+      if (entries.some(function (entry) { return entry.isIntersecting; })) {
+        observer.disconnect();
+        callback();
+      }
+    }, { rootMargin: '300px 0px' });
+    observer.observe(root);
   }
 
   function displayDate(value, lang) {
@@ -165,12 +214,12 @@
   }
 
   var FLOW_TEXT = {
-    tr: { step: ['Günün seçkisinden', 'Kısa özet', 'Kaynak bilgisi'], loading: 'Gerçek katalog kayıtları yükleniyor…', empty: 'Bu örnek konu için henüz kayıt bulunamadı.' },
-    en: { step: ['From today’s selection', 'Short summary', 'Source details'], loading: 'Loading real catalog entries…', empty: 'There are no entries for this example topic yet.' },
-    fr: { step: ['Dans la sélection du jour', 'Résumé court', 'Informations sur la source'], loading: 'Chargement des entrées réelles du catalogue…', empty: 'Aucune entrée pour ce sujet d’exemple pour le moment.' },
-    pt: { step: ['Na seleção do dia', 'Resumo curto', 'Informações da fonte'], loading: 'Carregando registros reais do catálogo…', empty: 'Ainda não há registros para este tema de exemplo.' },
-    es: { step: ['En la selección del día', 'Resumen breve', 'Datos de la fuente'], loading: 'Cargando entradas reales del catálogo…', empty: 'Todavía no hay entradas para este tema de ejemplo.' },
-    de: { step: ['Aus der Tagesauswahl', 'Kurze Zusammenfassung', 'Quellenangaben'], loading: 'Echte Katalogeinträge werden geladen…', empty: 'Für dieses Beispielthema gibt es noch keine Einträge.' }
+    tr: { step: ['Günün seçkisinden', 'Kısa özet', 'Kaynak bilgisi'], loading: 'Gerçek katalog kayıtları yükleniyor…', error: 'Katalog şu anda yüklenemedi. Lütfen daha sonra tekrar deneyin.', empty: 'Bu örnek konu için henüz kayıt bulunamadı.' },
+    en: { step: ['From today’s selection', 'Short summary', 'Source details'], loading: 'Loading real catalog entries…', error: 'The catalog could not be loaded right now. Please try again later.', empty: 'There are no entries for this example topic yet.' },
+    fr: { step: ['Dans la sélection du jour', 'Résumé court', 'Informations sur la source'], loading: 'Chargement des entrées réelles du catalogue…', error: 'Le catalogue est indisponible pour le moment. Veuillez réessayer plus tard.', empty: 'Aucune entrée pour ce sujet d’exemple pour le moment.' },
+    pt: { step: ['Na seleção do dia', 'Resumo curto', 'Informações da fonte'], loading: 'Carregando registros reais do catálogo…', error: 'O catálogo não pôde ser carregado agora. Tente novamente mais tarde.', empty: 'Ainda não há registros para este tema de exemplo.' },
+    es: { step: ['En la selección del día', 'Resumen breve', 'Datos de la fuente'], loading: 'Cargando entradas reales del catálogo…', error: 'El catálogo no se pudo cargar ahora. Inténtelo de nuevo más tarde.', empty: 'Todavía no hay entradas para este tema de ejemplo.' },
+    de: { step: ['Aus der Tagesauswahl', 'Kurze Zusammenfassung', 'Quellenangaben'], loading: 'Echte Katalogeinträge werden geladen…', error: 'Der Katalog konnte gerade nicht geladen werden. Bitte versuchen Sie es später erneut.', empty: 'Für dieses Beispielthema gibt es noch keine Einträge.' }
   };
 
   function initDailyFlow(root) {
@@ -264,29 +313,27 @@
       });
     });
 
-    fetch('/assets/discover/catalog.json', { credentials: 'same-origin' })
-      .then(function (response) {
-        if (!response.ok) throw new Error('catalog ' + response.status);
-        return response.json();
-      })
-      .then(function (entries) {
-        catalog = Array.isArray(entries) ? entries.slice() : [];
-        latestDate = latestCatalogDate(catalog);
-        catalog.sort(function (a, b) {
-          return catalogDate(b).localeCompare(catalogDate(a)) || Number(b.stars || 0) - Number(a.stars || 0);
+    whenVisible(root, function () {
+      loadCatalog()
+        .then(function (entries) {
+          catalog = entries;
+          latestDate = latestCatalogDate(catalog);
+          catalog.sort(function (a, b) {
+            return catalogDate(b).localeCompare(catalogDate(a)) || Number(b.stars || 0) - Number(a.stars || 0);
+          });
+          render();
+          emit('daily_flow_catalog_loaded', { language: lang, count: catalog.length });
+        })
+        .catch(function () {
+          list.replaceChildren();
+          var empty = document.createElement('p');
+          empty.className = 'daily-flow-empty';
+          empty.textContent = copy.error || copy.loading;
+          list.appendChild(empty);
+          list.setAttribute('aria-busy', 'false');
+          emit('daily_flow_error', { language: lang });
         });
-        render();
-        emit('daily_flow_catalog_loaded', { language: lang, count: catalog.length });
-      })
-      .catch(function () {
-        list.replaceChildren();
-        var empty = document.createElement('p');
-        empty.className = 'daily-flow-empty';
-        empty.textContent = copy.loading;
-        list.appendChild(empty);
-        list.setAttribute('aria-busy', 'false');
-        emit('daily_flow_error', { language: lang });
-      });
+    });
 
     emit('daily_flow_view', { language: lang });
   }
@@ -350,29 +397,27 @@
       });
     });
 
-    fetch('/assets/discover/catalog.json', { credentials: 'same-origin' })
-      .then(function (response) {
-        if (!response.ok) throw new Error('catalog ' + response.status);
-        return response.json();
-      })
-      .then(function (entries) {
-        catalog = Array.isArray(entries) ? entries.slice() : [];
-        latestDate = latestCatalogDate(catalog);
-        catalog.sort(function (a, b) {
-          return catalogDate(b).localeCompare(catalogDate(a)) || Number(b.stars || 0) - Number(a.stars || 0);
+    whenVisible(root, function () {
+      loadCatalog()
+        .then(function (entries) {
+          catalog = entries;
+          latestDate = latestCatalogDate(catalog);
+          catalog.sort(function (a, b) {
+            return catalogDate(b).localeCompare(catalogDate(a)) || Number(b.stars || 0) - Number(a.stars || 0);
+          });
+          render();
+          emit('discovery_radar_view', { language: lang, count: catalog.length });
+        })
+        .catch(function () {
+          grid.replaceChildren();
+          var empty = document.createElement('p');
+          empty.className = 'radar-empty';
+          empty.textContent = EMPTY_TEXT[contentLanguage(lang)] || EMPTY_TEXT.en;
+          grid.appendChild(empty);
+          grid.setAttribute('aria-busy', 'false');
+          emit('discovery_radar_error', { language: lang });
         });
-        render();
-        emit('discovery_radar_view', { language: lang, count: catalog.length });
-      })
-      .catch(function () {
-        grid.replaceChildren();
-        var empty = document.createElement('p');
-        empty.className = 'radar-empty';
-        empty.textContent = EMPTY_TEXT[contentLanguage(lang)] || EMPTY_TEXT.en;
-        grid.appendChild(empty);
-        grid.setAttribute('aria-busy', 'false');
-        emit('discovery_radar_error', { language: lang });
-      });
+    });
 
     if (loading) loading.setAttribute('aria-live', 'polite');
   }

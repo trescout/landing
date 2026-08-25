@@ -85,7 +85,7 @@
     var l = (document.documentElement.lang || 'tr');
     return tablo[l] || tablo[l.split('-')[0]] || tablo.tr;
   }
-  var T = _dilSec(METIN);
+      var T = _dilSec(METIN);
 
 
 /* ---------- abone formu · /api/subscribe ---------- */
@@ -157,7 +157,8 @@
             } else {
               button.disabled = false;
               button.textContent = originalText;
-              showError(form, data.error || T.genel);
+              var localError = data.code === 'onay' ? T.onay : data.code === 'baglanti' ? T.baglanti : '';
+              showError(form, localError || data.error || T.genel);
             }
           } catch (err) {
             button.disabled = false;
@@ -204,6 +205,26 @@
       var activeCheckbox = null;
       var activeHint = null;
       var lastFocus = null;
+      var backgroundRoots = [
+        document.querySelector('nav'),
+        document.querySelector('main'),
+        document.querySelector('footer')
+      ].filter(Boolean);
+
+      function setBackgroundInert(inert) {
+        backgroundRoots.forEach(function (root) {
+          if (inert) root.setAttribute('inert', '');
+          else root.removeAttribute('inert');
+        });
+      }
+
+      function focusableElements() {
+        return Array.prototype.slice.call(modal.querySelectorAll(
+          'a[href], button:not([disabled]), input:not([disabled]), select:not([disabled]), textarea:not([disabled]), iframe, [tabindex]:not([tabindex="-1"])'
+        )).filter(function (el) {
+          return !el.hidden && el.getAttribute('aria-hidden') !== 'true' && el.offsetParent !== null;
+        });
+      }
 
       function setRead() {
         if (hasRead) return;
@@ -229,6 +250,7 @@
         // zorunda kalmasın (2026-08-07).
         iframe.src = T.metinYolu + '?embed=1&t=' + Date.now();
         modal.setAttribute('aria-hidden', 'false');
+        setBackgroundInert(true);
         // BODY SCROLL LOCK KASTEN YOK · modal zaten position:fixed inset:0
         // ile viewport'u tam kaplıyor; pointer-events:auto ile body
         // dokunulamaz. iOS Safari'de body position:fixed pattern viewport
@@ -238,6 +260,7 @@
 
       function closeModal() {
         modal.setAttribute('aria-hidden', 'true');
+        setBackgroundInert(false);
         // Eski state'ler (önceki version'lardan kalmış olabilir) defensive cleanup
         ['position', 'top', 'left', 'right', 'width', 'overflow'].forEach(function (p) {
           document.body.style.removeProperty(p);
@@ -254,6 +277,8 @@
 
       // Iframe'den "okundu" mesajını dinle
       window.addEventListener('message', function (e) {
+        if (e.origin !== window.location.origin) return;
+        if (e.source !== iframe.contentWindow) return;
         if (e.data && e.data.type === 'trescout-privacy-read') {
           setRead();
         }
@@ -286,10 +311,28 @@
         if (e.target === modal) closeModal();
       });
 
-      // ESC ile kapat
+      // ESC ile kapat + modal içinde focus trap
       document.addEventListener('keydown', function (e) {
-        if (e.key === 'Escape' && modal.getAttribute('aria-hidden') === 'false') {
+        if (modal.getAttribute('aria-hidden') !== 'false') return;
+        if (e.key === 'Escape') {
           closeModal();
+          return;
+        }
+        if (e.key !== 'Tab') return;
+        var focusables = focusableElements();
+        if (!focusables.length) {
+          e.preventDefault();
+          closeX.focus();
+          return;
+        }
+        var first = focusables[0];
+        var last = focusables[focusables.length - 1];
+        if (e.shiftKey && document.activeElement === first) {
+          e.preventDefault();
+          last.focus();
+        } else if (!e.shiftKey && document.activeElement === last) {
+          e.preventDefault();
+          first.focus();
         }
       });
 
