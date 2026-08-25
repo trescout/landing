@@ -1,30 +1,15 @@
 #!/usr/bin/env node
 const fs = require('fs');
 const path = require('path');
-const https = require('https');
+const { translateText: translateWithProviders } = require('./translation-service');
 
 const ROOT = path.dirname(__dirname);
 const DICT_JSON = path.join(ROOT, 'assets', 'dictionary', 'dictionary.json');
 const CAT_JSON = path.join(ROOT, 'assets', 'discover', 'catalog.json');
 
-function translateText(text) {
-  if (!text) return Promise.resolve('');
-  return new Promise((resolve) => {
-    const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=tr&tl=${LANG}&dt=t&q=${encodeURIComponent(text)}`;
-    https.get(url, { headers: { 'User-Agent': 'Mozilla/5.0' } }, (res) => {
-      let data = '';
-      res.on('data', chunk => data += chunk);
-      res.on('end', () => {
-        try {
-          const parsed = JSON.parse(data);
-          const translated = parsed[0].map(sentence => sentence[0]).join('');
-          resolve(translated || text);
-        } catch (e) {
-          resolve(text);
-        }
-      });
-    }).on('error', () => resolve(text));
-  });
+async function translateText(text) {
+  if (!text) return '';
+  return translateWithProviders(text, LANG);
 }
 
 /* Çeviri önbelleği · scripts/discover-en.py ve dictionary-en.py ile AYNI dosya.
@@ -44,6 +29,7 @@ const CACHE_PATH = path.join(ROOT, 'assets', 'discover', `${LANG}-cache.json`);
 let cache = {};
 try { cache = JSON.parse(fs.readFileSync(CACHE_PATH, 'utf8')); } catch { cache = {}; }
 let yeniCeviri = 0;
+let basarisizCeviri = 0;
 
 async function batchProcess(items, textGetter, textSetter, batchSize = 25) {
   let completed = 0;
@@ -54,7 +40,12 @@ async function batchProcess(items, textGetter, textSetter, batchSize = 25) {
       if (!srcText) return;
       if (cache[srcText]) { textSetter(item, cache[srcText]); return; }
       const translated = await translateText(srcText);
-      if (translated && translated !== srcText) { cache[srcText] = translated; yeniCeviri++; }
+      if (!translated) {
+        basarisizCeviri++;
+        console.warn(`  Translation failed; source text was not written: ${srcText.slice(0, 60)}`);
+        return;
+      }
+      if (translated !== srcText) { cache[srcText] = translated; yeniCeviri++; }
       textSetter(item, translated);
     }));
     completed += chunk.length;
@@ -90,6 +81,9 @@ async function main() {
   console.log('Catalog translation saved.');
 
   fs.writeFileSync(CACHE_PATH, JSON.stringify(cache, null, 1), 'utf8');
+  if (basarisizCeviri) {
+    throw new Error(`${basarisizCeviri} translation(s) failed; no source-language fallback was written.`);
+  }
   console.log(`All translations completed · ${yeniCeviri} new, cache ${Object.keys(cache).length} entries.`);
 }
 
