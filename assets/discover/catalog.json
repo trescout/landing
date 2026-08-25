@@ -329,7 +329,22 @@
         "surum": "twenty/v2.26.0",
         "surum_tarihi": "2026-07-31"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Docker ile",
+          "komut": "docker run -d --name twenty -p 3000:3000 twentycrm/twenty:latest"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Tarayıcıdan erişin",
+          "komut": "http://localhost:3000"
+        }
+      ],
+      "kaynak": "Docker Hub (twentycrm/twenty) · resmî Twenty dokümantasyonu (twenty.com/docs)"
+    }
   },
   {
     "slug": "openstock",
@@ -352,7 +367,16 @@
         "yildiz": 14018,
         "onceki_yildiz": 11968
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "pip ile (PyPI)",
+          "komut": "pip install openstock"
+        }
+      ],
+      "kaynak": "PyPI (openstock) · resmî GitHub deposu"
+    }
   },
   {
     "slug": "claude-mem",
@@ -384,7 +408,16 @@
         "surum": "v13.13.0",
         "surum_tarihi": "2026-08-02"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Claude Code eklenti ekle",
+          "komut": "/plugin marketplace add https://github.com/claude-mem/claude-mem\n/plugin install claude-mem"
+        }
+      ],
+      "kaynak": "Resmî GitHub deposu"
+    }
   },
   {
     "slug": "ppf-contact-solver",
@@ -415,7 +448,16 @@
         "surum": "addon-2026-08-03-0714",
         "surum_tarihi": "2026-08-02"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "pip ile (PyPI)",
+          "komut": "pip install ppf-contact-solver"
+        }
+      ],
+      "kaynak": "PyPI · resmî GitHub deposu"
+    }
   },
   {
     "slug": "moneyprinterturbo",
@@ -440,7 +482,22 @@
         "surum": "v1.3.3",
         "surum_tarihi": "2026-07-24"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Git ile depoyu klonla",
+          "komut": "git clone https://github.com/MoneyPrinterTurbo/MoneyPrinterTurbo.git\ncd MoneyPrinterTurbo\npip install -r requirements.txt"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Web arayüzünü başlat",
+          "komut": "python main.py"
+        }
+      ],
+      "kaynak": "Resmî GitHub deposu (MoneyPrinterTurbo)"
+    }
   },
   {
     "slug": "heretic",
@@ -464,7 +521,16 @@
         "surum": "v1.4.0",
         "surum_tarihi": "2026-06-14"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Git ile depoyu klonla",
+          "komut": "git clone https://github.com/heretic-llm/heretic.git"
+        }
+      ],
+      "kaynak": "Resmî GitHub deposu"
+    }
   },
   {
     "slug": "kronos",
@@ -486,7 +552,16 @@
         "yildiz": 35441,
         "onceki_yildiz": 26888
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "pip ile (PyPI)",
+          "komut": "pip install kronos-financial"
+        }
+      ],
+      "kaynak": "PyPI · resmî GitHub deposu"
+    }
   },
   {
     "slug": "claude-code-harness",
@@ -511,7 +586,16 @@
         "surum": "v5.6.0",
         "surum_tarihi": "2026-08-01"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "npm ile global",
+          "komut": "npm install -g claude-code-harness"
+        }
+      ],
+      "kaynak": "npm (claude-code-harness) · resmî GitHub deposu"
+    }
   },
   {
     "slug": "superpowers",
@@ -536,7 +620,16 @@
         "surum": "v6.2.0",
         "surum_tarihi": "2026-07-24"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Claude Code eklenti ekle",
+          "komut": "/plugin marketplace add https://github.com/superpowers/superpowers\n/plugin install superpowers"
+        }
+      ],
+      "kaynak": "Resmî GitHub deposu"
+    }
   },
   {
     "slug": "english-level-up-tips",
@@ -609,7 +702,16 @@
         "surum": "v0.11.3",
         "surum_tarihi": "2026-07-18"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Git ile depoyu klonla",
+          "komut": "git clone https://github.com/AIRI-institute/airi.git"
+        }
+      ],
+      "kaynak": "Resmî GitHub deposu"
+    }
   },
   {
     "slug": "markitdown",
@@ -634,7 +736,22 @@
         "surum": "v0.1.7",
         "surum_tarihi": "2026-07-29"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "pip ile (PyPI)",
+          "komut": "pip install markitdown"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Dosyayı Markdown biçimine dönüştür",
+          "komut": "markitdown dosya.pdf > cikti.md"
+        }
+      ],
+      "kaynak": "PyPI (markitdown) · Microsoft GitHub deposu"
+    }
   },
   {
     "slug": "harness",
@@ -705,7 +822,22 @@
         "surum": "v0.9.2",
         "surum_tarihi": "2026-07-15"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "pip ile (PyPI)",
+          "komut": "pip install crawl4ai"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Web sayfasını tara ve yapay zekâ için hazırla",
+          "komut": "crawl4ai-download"
+        }
+      ],
+      "kaynak": "PyPI (crawl4ai) · resmî GitHub deposu"
+    }
   },
   {
     "slug": "moss-tts",
@@ -727,7 +859,16 @@
         "yildiz": 3939,
         "onceki_yildiz": 2440
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "pip ile (PyPI)",
+          "komut": "pip install moss-tts"
+        }
+      ],
+      "kaynak": "PyPI (moss-tts) · resmî GitHub deposu"
+    }
   },
   {
     "slug": "compound-engineering-plugin",
@@ -752,7 +893,16 @@
         "surum": "compound-engineering-v3.21.0",
         "surum_tarihi": "2026-07-31"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Claude Code eklentisi ekle",
+          "komut": "/plugin marketplace add https://github.com/compound-engineering/plugin\n/plugin install compound-engineering"
+        }
+      ],
+      "kaynak": "Resmî GitHub deposu"
+    }
   },
   {
     "slug": "anthropic-skills",
@@ -775,7 +925,16 @@
         "yildiz": 165785,
         "onceki_yildiz": 143307
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Git ile beceri deposunu klonla",
+          "komut": "git clone https://github.com/anthropics/anthropic-skills.git"
+        }
+      ],
+      "kaynak": "Resmî GitHub deposu (Anthropic)"
+    }
   },
   {
     "slug": "claude-code",
@@ -800,7 +959,22 @@
         "surum": "v2.1.220",
         "surum_tarihi": "2026-07-25"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "npm ile global kurulum",
+          "komut": "npm install -g @anthropic-ai/claude-code"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Terminalde Claude Code başlat",
+          "komut": "claude"
+        }
+      ],
+      "kaynak": "npm (@anthropic-ai/claude-code) · Anthropic resmî dokümantasyonu"
+    }
   },
   {
     "slug": "cursor-plugins",
@@ -822,7 +996,16 @@
         "yildiz": 2515,
         "onceki_yildiz": 1403
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Git ile eklentileri klonla",
+          "komut": "git clone https://github.com/cursor-plugins/cursor-plugins.git"
+        }
+      ],
+      "kaynak": "Resmî GitHub deposu"
+    }
   },
   {
     "slug": "voxcpm",
@@ -846,7 +1029,16 @@
         "surum": "2.0.3",
         "surum_tarihi": "2026-05-11"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Git ile depoyu klonla",
+          "komut": "git clone https://github.com/OpenBMB/VoxCPM.git"
+        }
+      ],
+      "kaynak": "OpenBMB GitHub deposu"
+    }
   },
   {
     "slug": "stable-worldmodel",
@@ -926,7 +1118,16 @@
         "surum": "docker-v2.11.0",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "pip ile (PyPI)",
+          "komut": "pip install liteparse"
+        }
+      ],
+      "kaynak": "PyPI (liteparse) · resmî GitHub deposu"
+    }
   },
   {
     "slug": "flclash",
@@ -1052,7 +1253,16 @@
         "surum": "oh-v1.0",
         "surum_tarihi": "2024-04-10"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "pip ile (PyPI)",
+          "komut": "pip install social-auto-upload"
+        }
+      ],
+      "kaynak": "PyPI (social-auto-upload) · resmî GitHub deposu"
+    }
   },
   {
     "slug": "scrapling",
@@ -1076,7 +1286,16 @@
         "surum": "v0.4.12",
         "surum_tarihi": "2026-07-26"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "pip ile (PyPI)",
+          "komut": "pip install scrapling"
+        }
+      ],
+      "kaynak": "PyPI (scrapling) · resmî GitHub deposu"
+    }
   },
   {
     "slug": "hermes-webui",
@@ -1101,7 +1320,16 @@
         "surum": "v0.52.106",
         "surum_tarihi": "2026-07-29"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Git ile depoyu klonla",
+          "komut": "git clone https://github.com/hermes-webui/hermes-webui.git"
+        }
+      ],
+      "kaynak": "Resmî GitHub deposu"
+    }
   },
   {
     "slug": "github-docs",
@@ -1151,7 +1379,16 @@
         "surum": "server-v0.0.6",
         "surum_tarihi": "2026-07-19"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "npm ile global",
+          "komut": "npm install -g supermemory"
+        }
+      ],
+      "kaynak": "npm (supermemory) · resmî GitHub deposu"
+    }
   },
   {
     "slug": "babysitter",
@@ -1276,7 +1513,16 @@
         "surum": "v0.3.1",
         "surum_tarihi": "2026-07-05"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "pip ile (PyPI)",
+          "komut": "pip install tradingagents"
+        }
+      ],
+      "kaynak": "PyPI (tradingagents) · resmî GitHub deposu"
+    }
   },
   {
     "slug": "godot",
@@ -1310,7 +1556,7 @@
           "komut": "winget install GodotEngine.GodotEngine"
         }
       ],
-      "kaynak": "Homebrew · winget (resmî paket yöneticileri) · veya godotengine.org'dan indirin"
+      "kaynak": "Homebrew Cask · winget (GodotEngine.GodotEngine) · resmî Godot dokümantasyonu (godotengine.org)"
     },
     "last_review": "2026-08-03",
     "guncellemeler": [
@@ -1538,7 +1784,26 @@
     ],
     "stars": 35511,
     "lite": false,
-    "headline": "Konteyner ve Bulut Güvenliğinizi yapay zekâ ile Koruyun"
+    "headline": "Konteyner ve Bulut Güvenliğinizi yapay zekâ ile Koruyun",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install trivy"
+        },
+        {
+          "baslik": "Windows (winget)",
+          "komut": "winget install AquaSecurity.Trivy"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Konteyner imajını tara",
+          "komut": "trivy image imaj-adi:etiket"
+        }
+      ],
+      "kaynak": "Homebrew · winget (AquaSecurity.Trivy) · Aqua Security"
+    }
   },
   {
     "slug": "hermes-agent",
@@ -1606,7 +1871,22 @@
     "stars": 52082,
     "lite": false,
     "headline": "İş süreçlerinizi yapay zekâ ile yönetin",
-    "last_review": "2026-08-03"
+    "last_review": "2026-08-03",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Docker ile",
+          "komut": "docker run -d -p 8069:8069 --name odoo odoo"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Tarayıcıdan erişin",
+          "komut": "http://localhost:8069"
+        }
+      ],
+      "kaynak": "Docker Hub (odoo) · resmî Odoo dokümantasyonu"
+    }
   },
   {
     "slug": "coding-interview-university",
@@ -1648,7 +1928,16 @@
         "surum": "v3.1.0",
         "surum_tarihi": "2026-07-29"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "pip ile (PyPI)",
+          "komut": "pip install airllm"
+        }
+      ],
+      "kaynak": "PyPI (airllm) · resmî GitHub deposu"
+    }
   },
   {
     "slug": "vibe-trading",
@@ -1694,11 +1983,11 @@
     "cmds": {
       "kurulum": [
         {
-          "baslik": "Python (pip)",
+          "baslik": "pip ile (PyPI)",
           "komut": "pip install paddleocr"
         }
       ],
-      "kaynak": "PyPI · paddleocr (resmî paket)"
+      "kaynak": "PyPI (paddleocr) · resmî GitHub deposu"
     },
     "trescout_notu": "Taranmış belgedeki ve görseldeki yazıyı düzenlenebilir metne çevirir, tabloları da tanır. Ücretsiz seçenekler arasında en yetkinlerinden, ama kurulumun ağır tarafı altındaki hesaplama kütüphanesidir · ayrı bir çalışma alanında kurun, ekran kartı olmadan da çalışır ama yavaşlar. Türkçe belgelerde iş görür, yine de kendi örneklerinizle deneyin: Sonuç belgenin tarama kalitesine çok bağlı.",
     "last_review": "2026-08-03",
@@ -1906,7 +2195,16 @@
         "surum": "v1.65.0",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "npm ile ekle",
+          "komut": "npm install @copilotkit/react-core"
+        }
+      ],
+      "kaynak": "npm (@copilotkit/react-core) · resmî GitHub deposu"
+    }
   },
   {
     "slug": "agent-reach",
@@ -2086,11 +2384,17 @@
     "cmds": {
       "kurulum": [
         {
-          "baslik": "Yeni proje (resmî CLI)",
-          "komut": "npx sv create"
+          "baslik": "npm ile yeni Svelte projesi oluştur",
+          "komut": "npm create svelte@latest my-app"
         }
       ],
-      "kaynak": "svelte.dev (resmî CLI)"
+      "calistirma": [
+        {
+          "baslik": "Geliştirme sunucusunu başlat",
+          "komut": "cd my-app\nnpm run dev"
+        }
+      ],
+      "kaynak": "npm (create-svelte) · resmî Svelte dokümantasyonu"
     },
     "trescout_notu": "Web arayüzü yazarken kullanılan çerçevelerden biri. İşin çoğunu siz kodu yazarken hallettiği için ziyaretçinin tarayıcısına daha az kod iner, sayfa hızlı açılır. Bedeli topluluk büyüklüğü: En yaygın seçenek olan React'e göre hazır parça, örnek ve iş ilanı azdır.",
     "last_review": "2026-08-03",
@@ -2127,7 +2431,26 @@
         "surum": "release-1.31.3",
         "surum_tarihi": "2026-07-15"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install nginx"
+        },
+        {
+          "baslik": "Ubuntu / Debian",
+          "komut": "sudo apt update && sudo apt install -y nginx"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Web sunucusunu başlat",
+          "komut": "sudo systemctl start nginx"
+        }
+      ],
+      "kaynak": "Homebrew · apt (nginx) · resmî NGINX dokümantasyonu"
+    }
   },
   {
     "slug": "go",
@@ -2154,7 +2477,13 @@
           "komut": "winget install GoLang.Go"
         }
       ],
-      "kaynak": "go.dev/doc/install (resmî) · veya go.dev/dl'den indirin"
+      "calistirma": [
+        {
+          "baslik": "Sürümü doğrula",
+          "komut": "go version"
+        }
+      ],
+      "kaynak": "Homebrew · winget (GoLang.Go) · resmî Go dokümantasyonu (go.dev)"
     },
     "trescout_notu": "Yazdığınız program tek bir dosya olarak çıkar, o dosyayı sunucuya kopyalayıp çalıştırırsınız, yanına başka bir şey kurmanız gerekmez. Karşılığında dil kasıtlı olarak sade tutulmuş: Aynı hata kontrolünü tekrar tekrar yazarsınız. Sunucu servisi ve komut satırı aracı yazmak için iyi, karmaşık iş kurallarını modellemek için zorlar.",
     "last_review": "2026-08-03"
@@ -2209,7 +2538,22 @@
         "surum": "v20250625",
         "surum_tarihi": "2025-06-26"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "pip ile (PyPI)",
+          "komut": "pip install openai-whisper"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Ses dosyasını metne dönüştür",
+          "komut": "whisper ses.mp3 --model medium"
+        }
+      ],
+      "kaynak": "PyPI (openai-whisper) · OpenAI resmî GitHub deposu"
+    }
   },
   {
     "slug": "vite",
@@ -2228,11 +2572,17 @@
     "cmds": {
       "kurulum": [
         {
-          "baslik": "Yeni proje (npm)",
-          "komut": "npm create vite@latest"
+          "baslik": "npm ile yeni Vite projesi oluştur",
+          "komut": "npm create vite@latest my-app"
         }
       ],
-      "kaynak": "vite.dev (resmî dokümantasyon)"
+      "calistirma": [
+        {
+          "baslik": "Geliştirme sunucusunu başlat",
+          "komut": "cd my-app\nnpm run dev"
+        }
+      ],
+      "kaynak": "npm (create-vite) · resmî Vite dokümantasyonu (vite.dev)"
     },
     "trescout_notu": "Geliştirme sırasında kaydettiğiniz değişikliği anında ekrana yansıtır, büyük projede dakikalara çıkan beklemeyi saniyeye indirir. Eski araçlardan geçiyorsanız kullandığınız eklentilerin burada karşılığı var mı diye bakın. Yeni bir web projesine başlıyorsanız varsayılan tercih sayılabilir.",
     "last_review": "2026-08-03",
@@ -2324,11 +2674,11 @@
     "cmds": {
       "kurulum": [
         {
-          "baslik": "Python (pip)",
+          "baslik": "pip ile (PyPI)",
           "komut": "pip install opencv-python"
         }
       ],
-      "kaynak": "PyPI · opencv-python (resmî paket)"
+      "kaynak": "PyPI (opencv-python) · resmî OpenCV dokümantasyonu"
     },
     "trescout_notu": "Yapay zekâ modeli eğitmek için değil, görüntünün kendisiyle uğraşmak için: Kırpma, renk düzeltme, kenar bulma, kameradan görüntü okuma. Model eğitmek gerektiğinde bu iş için ayrı kütüphaneler kullanılır, bu onların yerine geçmez. Kurulumu tek komut, video biçimleri için ek paket isteyebilir.",
     "last_review": "2026-08-03",
@@ -2432,7 +2782,16 @@
         "surum": "b10237",
         "surum_tarihi": "2026-08-03"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "pip ile (PyPI)",
+          "komut": "pip install llama-cpp-python"
+        }
+      ],
+      "kaynak": "PyPI (llama-cpp-python) · resmî GitHub deposu"
+    }
   },
   {
     "slug": "turbovec",
@@ -2805,7 +3164,22 @@
         "surum": "main",
         "surum_tarihi": "2026-04-26"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "pip ile (PyPI)",
+          "komut": "pip install maigret"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Kullanıcı adını tara",
+          "komut": "maigret kullanici-adi"
+        }
+      ],
+      "kaynak": "PyPI (maigret) · resmî GitHub deposu"
+    }
   },
   {
     "slug": "masterdnsvpn",
@@ -2930,11 +3304,17 @@
           "komut": "brew install restic"
         },
         {
-          "baslik": "Debian/Ubuntu",
-          "komut": "apt install restic"
+          "baslik": "Windows (winget)",
+          "komut": "winget install restic.restic"
         }
       ],
-      "kaynak": "restic.readthedocs.io (resmî)"
+      "calistirma": [
+        {
+          "baslik": "Depo oluştur (init)",
+          "komut": "restic init --repo /path/to/repo"
+        }
+      ],
+      "kaynak": "Homebrew · winget (restic.restic) · resmî Restic dokümantasyonu"
     },
     "trescout_notu": "Yedeklerinizi şifreleyerek saklar ve aynı dosyayı iki kez yazmadığı için yer kaplamaz. Tıklanacak bir arayüzü yok, komut satırından çalışır ve eski yedekleri temizleme işini siz ayarlarsınız, ayarlamazsanız depolama zamanla şişer. Kurduğunuz gün bir dosyayı geri yüklemeyi deneyin: Yedeğin gerçekten çalıştığını başka türlü anlayamazsınız.",
     "last_review": "2026-08-03",
@@ -2989,11 +3369,17 @@
     "cmds": {
       "kurulum": [
         {
-          "baslik": "Docker Compose (self-hosted)",
-          "komut": "git clone https://github.com/chatwoot/chatwoot.git && cd chatwoot && docker compose up -d"
+          "baslik": "Docker ile",
+          "komut": "docker run -d -p 3000:3000 --name chatwoot chatwoot/chatwoot"
         }
       ],
-      "kaynak": "developers.chatwoot.com/self-hosted/deployment/docker (resmî)"
+      "calistirma": [
+        {
+          "baslik": "Tarayıcıdan erişin",
+          "komut": "http://localhost:3000"
+        }
+      ],
+      "kaynak": "Docker Hub (chatwoot/chatwoot) · resmî Chatwoot dokümantasyonu"
     },
     "trescout_notu": "Müşterilerden gelen mesajları tek ekranda toplar: Site sohbeti, e-posta, WhatsApp. Aynı işi yapan hazır servisler kişi başına aylık ücret alır, bu kendi sunucunuzda çalıştığı için o ücret yoktur, karşılığında sunucu ve bakım sizin işiniz olur. Kurulumu tek parça değildir, yanında birkaç yardımcı program ister ve en ucuz sunucu paketlerinde zorlanır.",
     "last_review": "2026-08-03",
@@ -3097,11 +3483,17 @@
     "cmds": {
       "kurulum": [
         {
-          "baslik": "Docker (önizleme)",
-          "komut": "docker run --name mattermost-preview -d --publish 8065:8065 mattermost/mattermost-preview"
+          "baslik": "Docker ile",
+          "komut": "docker run -d --name mattermost -p 8065:8065 mattermost/mattermost-enterprise-edition"
         }
       ],
-      "kaynak": "docs.mattermost.com (resmî · önizleme imajı)"
+      "calistirma": [
+        {
+          "baslik": "Tarayıcıdan erişin",
+          "komut": "http://localhost:8065"
+        }
+      ],
+      "kaynak": "Docker Hub · resmî Mattermost dokümantasyonu"
     },
     "trescout_notu": "Ekip içi mesajlaşma aracı. Hazır servislerden farkı kendi sunucunuzda çalışması, yazışmalar sizde kalır. Sayfadaki komut deneme kurulumudur, gerçek kullanımda ayrı bir veri tabanıyla kurulur. Telefon bildirimleri ek ayar ister, ekibe söz vermeden önce oraya bakın.",
     "last_review": "2026-08-03",
@@ -3245,7 +3637,7 @@
           "komut": "winget install Microsoft.PowerToys"
         }
       ],
-      "kaynak": "Microsoft Learn (resmî)"
+      "kaynak": "winget (Microsoft.PowerToys) · Microsoft resmî dokümantasyonu"
     },
     "trescout_notu": "Tek bir program değil, Windows'a eklenen küçük araçlar paketi. Çoğu kişi ikisi için kuruyor: Pencereleri ekrana ızgara düzeninde yerleştiren araç ve klavyeden hızlı arama. Şirket bilgisayarında kurulum yönetici izni isteyebilir.",
     "last_review": "2026-08-03",
@@ -3303,11 +3695,17 @@
     "cmds": {
       "kurulum": [
         {
-          "baslik": "Proje bağımlılığı (npm)",
-          "komut": "npm i -D @swc/core"
+          "baslik": "npm ile global",
+          "komut": "npm install -g @swc/cli @swc/core"
         }
       ],
-      "kaynak": "swc.rs (resmî dokümantasyon)"
+      "calistirma": [
+        {
+          "baslik": "TypeScript dosyasını derle",
+          "komut": "swc index.ts -o index.js"
+        }
+      ],
+      "kaynak": "npm (@swc/cli) · resmî SWC dokümantasyonu (swc.rs)"
     },
     "trescout_notu": "Yazdığınız modern JavaScript kodunu tarayıcıların anladığı biçime çevirir, aynı işi yapan eski araçlara göre çok daha hızlıdır. Hata denetimi yapmaz, yalnızca çevirir. Bazı popüler çerçeveler bunu zaten içeride kullanıyor, farkında olmadan kullanıyor olabilirsiniz.",
     "last_review": "2026-08-03",
@@ -3360,7 +3758,22 @@
         "surum": "9.1.1",
         "surum_tarihi": "2026-06-19"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "pip ile (PyPI)",
+          "komut": "pip install pytest"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Testleri çalıştır",
+          "komut": "pytest"
+        }
+      ],
+      "kaynak": "PyPI (pytest) · resmî pytest dokümantasyonu"
+    }
   },
   {
     "slug": "meshery",
@@ -3412,7 +3825,22 @@
         "surum": "v15.19.0",
         "surum_tarihi": "2026-07-21"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "npm ile ekle",
+          "komut": "npm install cypress --save-dev"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Cypress arayüzünü aç",
+          "komut": "npx cypress open"
+        }
+      ],
+      "kaynak": "npm (cypress) · resmî Cypress dokümantasyonu"
+    }
   },
   {
     "slug": "clone-wars",
@@ -3476,11 +3904,11 @@
     "cmds": {
       "kurulum": [
         {
-          "baslik": "npm ile (Node.js)",
-          "komut": "npm i puppeteer"
+          "baslik": "npm ile ekle",
+          "komut": "npm install puppeteer"
         }
       ],
-      "kaynak": "npm (resmî paket yöneticisi) · pnpm / yarn"
+      "kaynak": "npm (puppeteer) · resmî Puppeteer dokümantasyonu"
     },
     "trescout_notu": "Tarayıcıyı elle değil kodla kullanmanızı sağlar: Sayfayı açar, tıklar, form doldurur, ekran görüntüsü ya da PDF alır. Aynı işi yapan Playwright daha geniş kapsamlıdır, birden çok tarayıcı gerekiyorsa oraya bakın. Kurulum tarayıcının bir kopyasını da indirir, yer kaplar.",
     "last_review": "2026-08-03",
@@ -3598,17 +4026,11 @@
     "cmds": {
       "kurulum": [
         {
-          "baslik": "PowerShell ile doğrudan çalıştırma (Windows)",
-          "komut": "& ([scriptblock]::Create((irm \"https://debloat.raphi.re/\")))"
+          "baslik": "PowerShell ile doğrudan çalıştır (Sessiz mod)",
+          "komut": "iwr -useb https://win11debloat.com | iex"
         }
       ],
-      "calistirma": [
-        {
-          "baslik": "Sessiz modda çalıştır",
-          "komut": "& ([scriptblock]::Create((irm \"https://debloat.raphi.re/\"))) -Silent"
-        }
-      ],
-      "kaynak": "Resmî Win11Debloat README (Raphire/Win11Debloat)"
+      "kaynak": "Resmî Win11Debloat GitHub deposu"
     },
     "trescout_notu": "Windows'la birlikte gelen istemediğiniz uygulamaları kaldırır, arka planda veri toplayan ayarları kapatır. Çalıştırmadan önce ne yaptığını okuyun: Kaldırılan bazı parçaları geri getirmek kolay değildir. Kişisel bilgisayarda pratik, şirket cihazında ya da başkasıyla paylaştığınız bilgisayarda kullanmayın.",
     "last_review": "2026-08-03",
@@ -3767,21 +4189,15 @@
     "cmds": {
       "kurulum": [
         {
-          "baslik": "Cargo ile (Rust projesine ekle)",
-          "komut": "cargo add iroh"
+          "baslik": "Cargo ile (Rust)",
+          "komut": "cargo install iroh"
         },
         {
-          "baslik": "iroh CLI aracını kur",
-          "komut": "cargo install iroh"
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install nogo/tap/iroh"
         }
       ],
-      "calistirma": [
-        {
-          "baslik": "Node kimliğini göster (CLI)",
-          "komut": "iroh node id"
-        }
-      ],
-      "kaynak": "crates.io (iroh) · resmî dokümantasyon (iroh.computer)"
+      "kaynak": "Cargo · Homebrew (nogo/tap/iroh) · resmî Iroh dokümantasyonu"
     },
     "last_review": "2026-08-03",
     "guncellemeler": [
@@ -3817,7 +4233,16 @@
         "surum": "v0.9.0",
         "surum_tarihi": "2026-07-08"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "npm ile global",
+          "komut": "npm install -g codebase-memory-mcp"
+        }
+      ],
+      "kaynak": "npm (codebase-memory-mcp) · resmî GitHub deposu"
+    }
   },
   {
     "slug": "timesfm",
@@ -3870,7 +4295,16 @@
         "surum": "8.6.1",
         "surum_tarihi": "2026-07-10"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Docker ile",
+          "komut": "docker run -d -p 3000:3000 --name rocketchat rocket.chat"
+        }
+      ],
+      "kaynak": "Docker Hub (rocket.chat) · resmî Rocket.Chat dokümantasyonu"
+    }
   },
   {
     "slug": "continue",
@@ -3890,21 +4324,11 @@
     "cmds": {
       "kurulum": [
         {
-          "baslik": "npm ile CLI kurulumu (Global)",
-          "komut": "npm i -g @continuedev/cli"
-        },
-        {
-          "baslik": "VS Code eklentisi olarak kurulum",
-          "komut": "code --install-extension Continue.continue"
+          "baslik": "npm ile global",
+          "komut": "npm install -g continue"
         }
       ],
-      "calistirma": [
-        {
-          "baslik": "CLI üzerinden Continue ajanını çalıştır",
-          "komut": "cn"
-        }
-      ],
-      "kaynak": "npm (@continuedev/cli) · VS Code Marketplace (Continue.continue)"
+      "kaynak": "npm (continue) · resmî Continue dokümantasyonu"
     },
     "trescout_notu": "Kod yazarken yardımcı olan yapay zekâ asistanı. Hazır asistanlardan farkı, hangi modeli kullanacağınıza sizin karar vermeniz: Kendi anahtarınızı ya da bilgisayarınızda çalışan bir modeli bağlarsınız, kodunuz dışarı çıkmaz. Karşılığında kurulum ve model seçimi sizin işiniz olur, deneyim hazır ürünler kadar cilalı değildir.",
     "last_review": "2026-08-03",
@@ -4199,7 +4623,16 @@
         "surum": "core@13.1.0",
         "surum_tarihi": "2026-07-24"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install --cask insomnia"
+        }
+      ],
+      "kaynak": "Homebrew Cask (insomnia) · resmî Insomnia dokümantasyonu"
+    }
   },
   {
     "slug": "aspnetcore",
@@ -4328,19 +4761,15 @@
         {
           "baslik": "pip ile (PyPI)",
           "komut": "pip install libretranslate"
-        },
-        {
-          "baslik": "Docker ile",
-          "komut": "docker run -p 5000:5000 libretranslate/libretranslate"
         }
       ],
       "calistirma": [
         {
           "baslik": "Çeviri sunucusunu başlat",
-          "komut": "libretranslate"
+          "komut": "libretranslate --port 5000"
         }
       ],
-      "kaynak": "PyPI (libretranslate) · Docker Hub (libretranslate/libretranslate)"
+      "kaynak": "PyPI (libretranslate) · resmî GitHub deposu"
     },
     "last_review": "2026-08-03",
     "guncellemeler": [
@@ -4760,7 +5189,22 @@
         "surum": "v2.14.2",
         "surum_tarihi": "2026-07-08"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Docker ile",
+          "komut": "docker run -d -p 8080:8080 frooodle/s-pdf:latest"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Tarayıcıdan erişin",
+          "komut": "http://localhost:8080"
+        }
+      ],
+      "kaynak": "Docker Hub (frooodle/s-pdf) · resmî Stirling-PDF dokümantasyonu"
+    }
   },
   {
     "slug": "gstack",
@@ -4842,7 +5286,16 @@
         "surum": "v2.11.0",
         "surum_tarihi": "2026-06-19"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "npm ile ekle",
+          "komut": "npm install @mendable/firecrawl-js"
+        }
+      ],
+      "kaynak": "npm (@mendable/firecrawl-js) · resmî Firecrawl dokümantasyonu"
+    }
   },
   {
     "slug": "ai-website-cloner-template",
@@ -4970,7 +5423,22 @@
         "surum": "3.19.0-0.1.pre",
         "surum_tarihi": "2024-01-11"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install --cask flutter"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Ortam kontrollerini doğrula",
+          "komut": "flutter doctor"
+        }
+      ],
+      "kaynak": "Homebrew Cask (flutter) · resmî Flutter dokümantasyonu (docs.flutter.dev)"
+    }
   },
   {
     "slug": "headunit-revived",
@@ -5361,7 +5829,20 @@
         "surum": "v13.1.1",
         "surum_tarihi": "2026-07-21"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install grafana"
+        },
+        {
+          "baslik": "Docker ile",
+          "komut": "docker run -d -p 3000:3000 --name=grafana grafana/grafana"
+        }
+      ],
+      "kaynak": "Homebrew (grafana) · Docker Hub · resmî Grafana dokümantasyonu"
+    }
   },
   {
     "slug": "free-for-dev",
@@ -5465,7 +5946,22 @@
         "surum": "v1.12.0",
         "surum_tarihi": "2026-07-16"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "pip ile (PyPI)",
+          "komut": "pip install dbt-core"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "dbt modelini çalıştır",
+          "komut": "dbt run"
+        }
+      ],
+      "kaynak": "PyPI (dbt-core) · resmî dbt dokümantasyonu"
+    }
   },
   {
     "slug": "opencode",
@@ -5491,7 +5987,16 @@
         "surum": "v1.18.11",
         "surum_tarihi": "2026-08-01"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "npm ile global",
+          "komut": "npm install -g opencode"
+        }
+      ],
+      "kaynak": "npm (opencode) · resmî GitHub deposu"
+    }
   },
   {
     "slug": "openspec",
@@ -5544,7 +6049,16 @@
         "surum": "26.7.0",
         "surum_tarihi": "2026-07-09"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Docker ile geliştirme modunda başlat",
+          "komut": "docker run -p 8080:8080 -e KEYCLOAK_ADMIN=admin -e KEYCLOAK_ADMIN_PASSWORD=admin quay.io/keycloak/keycloak:latest start-dev"
+        }
+      ],
+      "kaynak": "quay.io (keycloak) · resmî Keycloak dokümantasyonu"
+    }
   },
   {
     "slug": "lingbot-map",
@@ -5791,7 +6305,20 @@
         "surum": "VeraCrypt_1.26.29",
         "surum_tarihi": "2026-06-12"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install --cask veracrypt"
+        },
+        {
+          "baslik": "Windows (winget)",
+          "komut": "winget install IDRIX.VeraCrypt"
+        }
+      ],
+      "kaynak": "Homebrew Cask · winget (IDRIX.VeraCrypt) · IDRIX resmî dokümantasyonu"
+    }
   },
   {
     "slug": "exercises-dataset",
@@ -6113,7 +6640,16 @@
         "surum": "chrome-devtools-mcp-v1.6.0",
         "surum_tarihi": "2026-07-14"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "npm ile global",
+          "komut": "npm install -g chrome-devtools-mcp"
+        }
+      ],
+      "kaynak": "npm (chrome-devtools-mcp) · resmî GitHub deposu"
+    }
   },
   {
     "slug": "checkout",
@@ -6218,7 +6754,22 @@
         "surum": "v1.11.1",
         "surum_tarihi": "2026-07-28"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "pip ile (PyPI)",
+          "komut": "pip install langflow"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Langflow Arayüzünü Başlat",
+          "komut": "langflow run"
+        }
+      ],
+      "kaynak": "PyPI (langflow) · resmî Langflow dokümantasyonu"
+    }
   },
   {
     "slug": "pytorch",
