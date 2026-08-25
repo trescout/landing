@@ -1,0 +1,9 @@
+Merhaba! TreScout ile bir dakikada günün teknoloji özetine hoş geldiniz.
+
+Bugün 25 Ağustos 2026, Salı.
+
+Bugün teknoloji gündeminde yüksek performanslı işlemci mimarileri (CPU architectures) ve açık kaynaklı dil modellerinin (large language models) verimlilik optimizasyonları öne çıkıyor. Donanım tarafında Xiaomi’nin yeni işlemci verileri dikkat çekerken, yazılım dünyasında içerik yönetimi ve uzun iş akışı (long-workflow) değerlendirme metrikleri üzerine yoğun akademik çalışmalar yayınlandı.
+
+Bugün açık kaynak trendlerinde öne çıkan üç proje: awesome-gpt-image-2, claude-plugins-community ve ai-job-search.
+
+Tüm projelerin kurulum komutları ve tam PDF rapor trescout.com arşivinde. Yarın sabah görüşmek üzere!
