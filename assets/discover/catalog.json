@@ -23270,5 +23270,94 @@
     "tagline_es": "Directorio de complementos comunitarios creado para las herramientas Claude Cowork y Claude Code desarrolladas por Anthropic, software…",
     "tagline_de": "Community-Plugin-Verzeichnis, erstellt für die Tools Claude Cowork und Claude Code, entwickelt von Anthropic, Software…",
     "last_seen": "2026-08-24"
+  },
+  {
+    "slug": "claude-obsidian",
+    "title": "Claude Obsidian",
+    "tagline": "Claude-obsidian é uma ferramenta que funciona no aplicativo de notas Obsidian e fornece gestão de conhecimento pessoal…",
+    "meta": "★ 12.404 · Python",
+    "image": "/assets/discover/og/claude-obsidian.webp",
+    "source": "GitHub",
+    "date": "2026-08-25",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 12404,
+    "summary": "Claude-obsidian é uma ferramenta que funciona no aplicativo de notas Obsidian e fornece gestão de conhecimento pessoal (personal knowledge management) com suporte de inteligência artificial. Integrado ao Claude Code, ele analisa dados, estabelece conexões e os transforma em um gráfico de conhecimento organizado, oferecendo uma alternativa de código aberto a plataformas como o Notion.",
+    "lite": true,
+    "needs_enrichment": true,
+    "enrich_reason": "source_only",
+    "tagline_en": "Claude-obsidian is a tool that runs in the Obsidian note-taking app and provides personal knowledge management…",
+    "tagline_fr": "Claude-obsidian est un outil qui fonctionne dans l'application de notes Obsidian et fournit la gestion des connaissances personnelles…",
+    "tagline_pt": "Claude-obsidian é uma ferramenta que funciona no aplicativo de notas Obsidian e fornece gerenciamento de conhecimento pessoal…",
+    "tagline_es": "Claude-obsidian es una herramienta que funciona en la aplicación de notas Obsidian y ofrece gestión del conocimiento personal…",
+    "tagline_de": "Claude-obsidian ist ein Tool, das in der Notiz-App Obsidian läuft und persönliches Wissensmanagement bietet…"
+  },
+  {
+    "slug": "marin",
+    "title": "Marin",
+    "tagline": "Marin é uma estrutura Python de código aberto projetada para a pesquisa e desenvolvimento de modelos de base (foundation models).",
+    "meta": "★ 1.967 · Python",
+    "image": "/assets/discover/og/marin.webp",
+    "source": "GitHub",
+    "date": "2026-08-25",
+    "tags": [
+      "Yapay zekâ araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 1967,
+    "summary": "Marin é uma estrutura Python de código aberto projetada para a pesquisa e desenvolvimento de modelos de base (foundation models). O seu objetivo é facilitar os processos de treinamento e otimização de modelos de inteligência artificial em larga escala.",
+    "lite": true,
+    "needs_enrichment": true,
+    "enrich_reason": "source_only",
+    "tagline_en": "Marin is an open-source Python framework designed for the research and development of base models (foundation models).",
+    "tagline_fr": "Marin est un framework Python open source conçu pour la recherche et le développement de modèles de base (foundation models).",
+    "tagline_pt": "Marin é uma estrutura Python de código aberto projetada para a pesquisa e desenvolvimento de modelos de base (foundation models).",
+    "tagline_es": "Marin es un framework Python de código abierto diseñado para la investigación y el desarrollo de modelos base (foundation models).",
+    "tagline_de": "Marin ist ein Open-Source-Python-Framework, das für Forschung und Entwicklung von Basismodellen (foundation models) entwickelt wurde."
+  },
+  {
+    "slug": "ponytail",
+    "title": "Ponytail",
+    "tagline": "Yapay zekâ ajanları için kod yazımını azaltan araç",
+    "meta": "★ 110.483 · JavaScript",
+    "image": "/assets/discover/og/ponytail.webp",
+    "source": "GitHub",
+    "date": "2026-08-25",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 110483,
+    "summary": "Ponytail, yapay zekâ ajanlarının kod yazma sürecini azaltarak gereksiz iş yüklerini önleyen bir JavaScript aracıdır. En iyi kodun hiç yazılmamış kod olduğu felsefesini benimseyen bu araç, ajanların daha az kodla çözümler üretmesini sağlar.",
+    "lite": true,
+    "needs_enrichment": true,
+    "enrich_reason": "source_only",
+    "tagline_en": "Tool that reduces coding for AI agents",
+    "tagline_fr": "Outil qui réduit la rédaction de code pour les agents d'intelligence artificielle",
+    "tagline_pt": "Ferramenta que reduz a escrita de código para agentes de IA",
+    "tagline_es": "Herramienta que reduce la escritura de código para agentes de inteligencia artificial",
+    "tagline_de": "Ein Werkzeug, das den Codeaufwand für KI-Agenten reduziert"
+  },
+  {
+    "slug": "hister",
+    "title": "Hister",
+    "tagline": "Go ile geliştirilmiş kişisel arama motoru altyapısı",
+    "meta": "★ 2.620 · Go",
+    "image": "/assets/discover/og/hister.webp",
+    "source": "GitHub",
+    "date": "2026-08-25",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 2620,
+    "summary": "Hister, Go programlama diliyle geliştirilmiş bir kişisel arama motoru altyapısıdır. Kullanıcıların web üzerinde bağımsız aramalar yapabilmesi için kendi dizinlerini oluşturmalarına olanak tanır.",
+    "lite": true,
+    "needs_enrichment": true,
+    "enrich_reason": "source_only",
+    "tagline_en": "Personal search engine infrastructure built with Go",
+    "tagline_fr": "Infrastructure de moteur de recherche personnel développée en Go",
+    "tagline_pt": "Infraestrutura de mecanismo de busca pessoal desenvolvida em Go",
+    "tagline_es": "Infraestructura para motor de búsqueda personal desarrollada en Go",
+    "tagline_de": "In Go entwickelte Infrastruktur für eine persönliche Suchmaschine"
   }
 ]

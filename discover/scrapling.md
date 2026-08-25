@@ -34,7 +34,7 @@ Scrapling adlı açık kaynaklı web kazıma kütüphanesini kurmama yardım et;
 pip install scrapling
 ```
 
-Lisans: BSD-3-Clause · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (telif bildirimini koruyun). 
+Lisans: BSD-3-Clause · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (telif bildirimini koruyun).
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/D4Vinci/Scrapling)

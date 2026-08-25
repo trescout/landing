@@ -38,7 +38,7 @@ Terminalde 'npx skills add mukul975/Anthropic-Cybersecurity-Skills' komutunu ça
 npx skills add mukul975/Anthropic-Cybersecurity-Skills
 ```
 
-Lisans: Apache-2.0 · özgürce/ticari kullanılabilir. ⚠️ Ad benzerliğine rağmen Anthropic'in resmi/onaylı projesi değildir. 
+Lisans: Apache-2.0 · özgürce/ticari kullanılabilir. ⚠️ Ad benzerliğine rağmen Anthropic'in resmi/onaylı projesi değildir.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)

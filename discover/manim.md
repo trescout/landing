@@ -5,6 +5,24 @@ Matematik videoları için kesin ve programatik animasyonlar üretmenize yardım
 - ★ 90.309
 - GitHub Trending · 2026-08-12
 
+## Kurulum
+
+**ManimGL’yi yükleyin**
+
+```
+pip install manimgl
+```
+
+## Çalıştırma
+
+**Örnek sahneyi çalıştırın**
+
+```
+manimgl example_scenes.py OpeningManimExample
+```
+
+Kaynak: Komutlar 3b1b/manim README’sinden 24 Ağustos 2026’da kontrol edildi; bu kayıt ManimGL içindir.
+
 ## Güncelleme
 - 12 Ağustos 2026: Yıldız 90.306 → 90.309, son sürüm v1.7.2 (13 Aralık 2024).
 
@@ -37,26 +55,8 @@ Sürükle-bırak arayüzüyle çalışan bir animasyon aracı arayanlar veya Man
 Bu kayıt ManimGL içindir. Paket adı `manimgl`’dir; ayrı bir proje olan Manim Community Edition’ın kurulum yönergelerini kullanmayın.
 
 ## İlk görev istemi
-İlk adım için hazır istem
+İlk adım için hazır istem 
 Bir çemberin kareye dönüştüğü basit bir ManimGL animasyon sahnesi yazmama yardımcı olur musun?
-
-## Kurulum
-
-**ManimGL’yi yükleyin**
-
-```
-pip install manimgl
-```
-
-## Çalıştırma
-
-**Örnek sahneyi çalıştırın**
-
-```
-manimgl example_scenes.py OpeningManimExample
-```
-
-Kaynak: Komutlar 3b1b/manim README’sinden 24 Ağustos 2026’da kontrol edildi; bu kayıt ManimGL içindir.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/3b1b/manim)

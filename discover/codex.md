@@ -5,6 +5,30 @@ Codex CLI, yerel bilgisayarınızda terminalde çalışan bir kodlama ajanıdır
 - ★ 115.876
 - GitHub Trending · 2026-08-23
 
+## Kurulum
+
+**macOS veya Linux**
+
+```
+curl -fsSL https://chatgpt.com/codex/install.sh | sh
+```
+
+**Windows PowerShell**
+
+```
+powershell -ExecutionPolicy ByPass -c "irm https://chatgpt.com/codex/install.ps1 | iex"
+```
+
+## Çalıştırma
+
+**Codex CLI başlatma**
+
+```
+codex
+```
+
+Kaynak: OpenAI’nin Codex CLI belgeleri ve openai/codex README’si, 24 Ağustos 2026’da kontrol edildi.
+
 ## Bu araç ne yapar?
 
 Codex CLI, yerel bilgisayarınızda terminalde çalışan bir kodlama ajanıdır. Bir proje dizinindeki kodu inceleyebilir, dosyalarda değişiklik yapabilir, komut çalıştırabilir ve tekrarlanan işleri otomatikleştirmeye yardımcı olabilir.
@@ -34,41 +58,17 @@ Terminal kullanmak istemeyenler için uygun olmayabilir.
 Değişikliklerden önce ve sonra Git checkpoint oluşturmanız önerilir. İzinleri /permissions ile, mevcut durumu /status ile inceleyebilirsiniz.
 
 ## İlk görev istemi
-İlk adım için hazır istem
+İlk adım için hazır istem 
 İlk kullanımda, projenin amacını ve dosya yapısını açıklayan bir inceleme talebiyle başlayabilirsiniz.
-
-## Kurulum
-
-**macOS veya Linux**
-
-```
-curl -fsSL https://chatgpt.com/codex/install.sh | sh
-```
-
-**Windows PowerShell**
-
-```
-powershell -ExecutionPolicy ByPass -c "irm https://chatgpt.com/codex/install.ps1 | iex"
-```
-
-## Çalıştırma
-
-**Codex CLI başlatma**
-
-```
-codex
-```
-
-Kaynak: OpenAI’nin Codex CLI belgeleri ve openai/codex README’si, 24 Ağustos 2026’da kontrol edildi.
-
-## İlgili sözlük terimleri
-CLI
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/openai/codex)
 - [Codex CLI resmî belgeleri →](https://learn.chatgpt.com/docs/codex/cli)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-23 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Terminal CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/codex/

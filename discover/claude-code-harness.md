@@ -56,7 +56,7 @@ Claude Code'da '/plugin marketplace add Chachamaru127/claude-code-harness', ard�
 /harness-release
 ```
 
-Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz. 
+Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/Chachamaru127/claude-code-harness)

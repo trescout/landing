@@ -38,7 +38,7 @@ cd train-llm-from-scratch
 pip install -r requirements.txt
 ```
 
-Lisans: MIT · içeriği ve kodu özgürce kullanabilir, uyarlayabilir, paylaşabilirsiniz. 
+Lisans: MIT · içeriği ve kodu özgürce kullanabilir, uyarlayabilir, paylaşabilirsiniz.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/FareedKhan-dev/train-llm-from-scratch)

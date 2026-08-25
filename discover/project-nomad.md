@@ -39,7 +39,7 @@ sudo bash install_nomad.sh
 sudo bash /opt/project-nomad/start_nomad.sh
 ```
 
-Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir). 
+Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir).
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/Crosstalk-Solutions/project-nomad)

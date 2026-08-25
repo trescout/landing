@@ -45,7 +45,7 @@ npx create-twenty-app my-app
 npx twenty app:publish --private
 ```
 
-Lisans: ⚠️ Lisansı standart değil (GitHub 'NOASSERTION'). 'Açık kaynak' olarak anılır ama kendi başına/self-host kullanım ile ticari/SaaS olarak yeniden sunum farklı şartlara tabi olabilir. Ticari kullanımdan önce repo'daki LICENSE dosyasını mutlaka okuyun. 
+Lisans: ⚠️ Lisansı standart değil (GitHub 'NOASSERTION'). 'Açık kaynak' olarak anılır ama kendi başına/self-host kullanım ile ticari/SaaS olarak yeniden sunum farklı şartlara tabi olabilir. Ticari kullanımdan önce repo'daki LICENSE dosyasını mutlaka okuyun.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/twentyhq/twenty)

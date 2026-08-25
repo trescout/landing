@@ -45,7 +45,7 @@ Claude Code'da çalışıyorsan şu iki komutu sırayla çalıştırarak Compoun
 /ce-setup
 ```
 
-Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz. 
+Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/EveryInc/compound-engineering-plugin)

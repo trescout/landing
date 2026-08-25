@@ -29,7 +29,7 @@ GitHub sayfamızda platformunuza göre gezinebilir ve ihtiyacınız olan uygulam
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Sana 'awesome-free-apps' adlı, Windows, macOS ve Linux için ücretsiz uygulamaların kategorilere ayrılmış bir listesini vereceğim. Listeyi incele ve ihtiyaçlarıma göre (örn. ses, tarayıcı, geliştirici araçları, güvenlik) hangi ücretsiz ve mümkünse açık kaynaklı uygulamaları kullanmam gerektiğini, her biri için kısa açıklama ve hangi platformda çalıştığıyla birlikte öner.
 
-Lisans: ⚠️ Standart bir lisans tanımlanmamış (GitHub 'NOASSERTION' diyor). Listeyi okumak ve kullanmak serbest ; ancak içeriği kopyalayıp kendi yerinizde yeniden yayınlamadan önce sahibine danışın · yeniden kullanım hakları net değil. 
+Lisans: ⚠️ Standart bir lisans tanımlanmamış (GitHub 'NOASSERTION' diyor). Listeyi okumak ve kullanmak serbest ; ancak içeriği kopyalayıp kendi yerinizde yeniden yayınlamadan önce sahibine danışın · yeniden kullanım hakları net değil.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/Axorax/awesome-free-apps)

@@ -22,7 +22,8 @@ social-auto-upload , videolarınızı TikTok, YouTube, Bilibili, Douyin ve Xiaoh
 - Zaman tasarrufu sağlayan verimli iş akışı.
 
 ## Sorumluluk notu
-Otomatik yükleme, platformların kullanım şartlarına takılabilir (spam/otomasyon kuralları). Hesabınızın güvenliği ve ToS uyumu sizin sorumluluğunuzdadır. 
+
+Otomatik yükleme, platformların kullanım şartlarına takılabilir (spam/otomasyon kuralları). Hesabınızın güvenliği ve ToS uyumu sizin sorumluluğunuzdadır.
 
 ## Nasıl kurulur, nasıl kullanılır?
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
@@ -40,7 +41,7 @@ sau douyin login --account
 sau douyin upload-video --account --file videos/demo.mp4 --title "Başlık" --desc "Açıklama"
 ```
 
-Lisans: ⚠️ Repo'da bir lisans belirtilmemiş; varsayılan olarak 'tüm hakları saklı'. Denemek için bakabilirsiniz, ancak yeniden kullanım için yazarın açık izni gerekir. 
+Lisans: ⚠️ Repo'da bir lisans belirtilmemiş; varsayılan olarak 'tüm hakları saklı'. Denemek için bakabilirsiniz, ancak yeniden kullanım için yazarın açık izni gerekir.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/dreammis/social-auto-upload)

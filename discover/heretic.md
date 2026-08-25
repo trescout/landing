@@ -22,8 +22,10 @@ Heretic , transformer tabanlı dil modellerinden güvenlik hizalaması (safety a
 - Yöntem açık kaynak ve otomatiktir.
 
 ## Sorumluluk notu
-Bu araç modelin güvenlik korumalarını kaldırır. Üretilecek çıktıların yasal ve etik sorumluluğu tamamen kullanıcıya aittir; zararlı veya yasa dışı kullanım önerilmez. Araştırma/ileri düzey amaçlıdır. 
-Lisans: AGPL-3.0 · kullanımı serbest; ancak kodu değiştirip dağıtır ya da bir servis olarak sunarsanız kendi kaynağınızı da açmanız gerekir (copyleft). 
+
+Bu araç modelin güvenlik korumalarını kaldırır. Üretilecek çıktıların yasal ve etik sorumluluğu tamamen kullanıcıya aittir; zararlı veya yasa dışı kullanım önerilmez. Araştırma/ileri düzey amaçlıdır.
+
+Lisans: AGPL-3.0 · kullanımı serbest; ancak kodu değiştirip dağıtır ya da bir servis olarak sunarsanız kendi kaynağınızı da açmanız gerekir (copyleft).
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/p-e-w/heretic)

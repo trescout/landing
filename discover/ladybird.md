@@ -5,6 +5,30 @@ Ladybird, web standartlarını temel alan bağımsız bir web tarayıcısı ve t
 - ★ 65.040
 - GitHub Trending · 2026-08-09
 
+## Kurulum
+
+**Kaynak kodunu alın**
+
+```
+git clone https://github.com/LadybirdBrowser/ladybird.git
+```
+
+**Proje dizinine geçin**
+
+```
+cd ladybird
+```
+
+## Çalıştırma
+
+**Derleyin ve çalıştırın**
+
+```
+./Meta/ladybird.py run
+```
+
+Kaynak: Komutlar Ladybird resmî sitesi ve BuildInstructionsLadybird.md belgesinden 24 Ağustos 2026’da kontrol edildi.
+
 ## Bu araç ne yapar?
 
 Ladybird açık kaynaklı bir tarayıcı ve tarayıcı motoru projesidir. Linux, macOS, Windows üzerinde WSL2 ve diğer Unix benzeri sistemlerde çalışır. Projenin ilk Alpha sürümü için belirtilen hedef, 2026’da Linux ve macOS’tur. Derleme yönergeleri Qt 6.9+, C++23 uyumlu bir derleyici, Rust ve CMake 3.30+ gerektirir.
@@ -33,35 +57,8 @@ Kararlı bir son kullanıcı tarayıcısı arayanlar.
 Ladybird resmî README’ye göre pre-alpha aşamasındadır ve yalnızca geliştiricilere yöneliktir.
 
 ## İlk görev istemi
-İlk adım için hazır istem
+İlk adım için hazır istem 
 Resmî derleme yönergelerine göre sistemimde Qt 6.9+, C++23 derleyicisi, Rust ve CMake 3.30+ gereksinimlerini nasıl kontrol edebilirim?
-
-## Kurulum
-
-**Kaynak kodunu alın**
-
-```
-git clone https://github.com/LadybirdBrowser/ladybird.git
-```
-
-**Proje dizinine geçin**
-
-```
-cd ladybird
-```
-
-## Çalıştırma
-
-**Derleyin ve çalıştırın**
-
-```
-./Meta/ladybird.py run
-```
-
-Kaynak: Komutlar Ladybird resmî sitesi ve BuildInstructionsLadybird.md belgesinden 24 Ağustos 2026’da kontrol edildi.
-
-## İlgili sözlük terimleri
-Sandbox
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/LadybirdBrowser/ladybird)
@@ -70,6 +67,9 @@ Sandbox
 - [Ladybird resmî sitesi →](https://ladybird.org/)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-09 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Sandbox Rust
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ladybird/

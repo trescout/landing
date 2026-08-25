@@ -25,7 +25,8 @@ _Görsel: Kronos (proje deposundan)_
 - Finansal NLP ve araştırmalar için sağlam bir altyapı sunar.
 
 ## Dürüst not
-Bu bir araştırma modelidir; yatırım tavsiyesi ya da hazır kazanç aracı değildir. Finansal kararların sorumluluğu size aittir. 
+
+Bu bir araştırma modelidir; yatırım tavsiyesi ya da hazır kazanç aracı değildir. Finansal kararların sorumluluğu size aittir.
 
 ## Nasıl kurulur, nasıl kullanılır?
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
@@ -43,7 +44,7 @@ pip install -r requirements.txt
 python examples/prediction_example.py
 ```
 
-Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz. 
+Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/shiyu-coder/Kronos)

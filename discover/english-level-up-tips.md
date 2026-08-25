@@ -29,7 +29,7 @@ GitHub sayfasındaki rehberi inceleyerek önerilen planı kendinize göre uyarla
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Sana 'English level-up tips' adlı, İngilizceyi ileri seviyede öğrenmek için kelime, dinleme, okuma, konuşma, yazma ve yapay zekâ destekli çalışma yöntemlerini anlatan kapsamlı bir rehber vereceğim. Bu rehberi incele ve seviyeme ile hedefime göre kişisel bir çalışma planı ve yol haritası çıkar. Seviyem: [örn. orta]. Hedefim: [örn. akıcı konuşmak].
 
-Lisans: ⚠️ Bir lisans belirtilmemiş. Telif yasası gereği bu 'tüm hakları saklı' demektir: okumak ve kişisel kullanım serbest , ama içeriği kopyalayıp yeniden yayınlamak için yazarın izni gerekir. 
+Lisans: ⚠️ Bir lisans belirtilmemiş. Telif yasası gereği bu 'tüm hakları saklı' demektir: okumak ve kişisel kullanım serbest , ama içeriği kopyalayıp yeniden yayınlamak için yazarın izni gerekir.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/byoungd/English-level-up-tips)

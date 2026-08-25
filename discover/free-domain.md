@@ -32,7 +32,7 @@ Repo'daki yönergeyle başvurursunuz: domain'i seçer, DNS'inize bağlarsınız.
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 DigitalPlat FreeDomain ücretsiz bir alan adı servisidir, kurulacak bir yazılım değil. https://dash.domain.digitalplat.org/ adresine gidip .dpdns.org, .us.kg, .qzz.io gibi uzantılardan ücretsiz bir alan adı kaydetmem için bana adım adım rehberlik et ve Cloudflare DNS ile nasıl bağlayacağımı anlat.
 
-Lisans: AGPL-3.0 · Hizmeti kullanmak (ücretsiz domain almak) serbesttir. Ancak platformun KODUNU alıp kendiniz barındırır veya değiştirirseniz, AGPL gereği kendi sürümünüzün kaynak kodunu da (ağ üzerinden sunsanız bile) açmanız gerekir. 
+Lisans: AGPL-3.0 · Hizmeti kullanmak (ücretsiz domain almak) serbesttir. Ancak platformun KODUNU alıp kendiniz barındırır veya değiştirirseniz, AGPL gereği kendi sürümünüzün kaynak kodunu da (ağ üzerinden sunsanız bile) açmanız gerekir.
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/DigitalPlatDev/FreeDomain)
