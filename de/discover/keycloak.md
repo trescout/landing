@@ -12,18 +12,18 @@ Keycloak bietet Open-Source-Identitäts- und Zugriffsmanagementlösungen für mo
 - Erhöht mühelos die Anwendungssicherheit.
 
 ## Installation
-**Nehmen Sie das offizielle Bild**
+****
 
 ```
-docker pull quay.io/keycloak/keycloak
+docker run --name keycloak -p 127.0.0.1:8080:8080 -e KC_BOOTSTRAP_ADMIN_USERNAME=admin -e KC_BOOTSTRAP_ADMIN_PASSWORD=change_me quay.io/keycloak/keycloak:latest start-dev
 ```
 
 
 ## Ausführung
-**Beginnen Sie im Entwicklungsmodus**
+****
 
 ```
-docker run -p 8080:8080 -e KC_BOOTSTRAP_ADMIN_USERNAME=admin -e KC_BOOTSTRAP_ADMIN_PASSWORD=admin quay.io/keycloak/keycloak start-dev
+http://localhost:8080
 ```
 
 

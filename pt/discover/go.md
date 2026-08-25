@@ -24,6 +24,14 @@ winget install GoLang.Go
 ```
 
 
+## Execução
+**Verifique a versão**
+
+```
+go version
+```
+
+
 ## Se você não programa
 Quero desenvolver software simples, confiável e eficiente com a linguagem de programação Go. Explique a um desenvolvedor iniciante a sintaxe básica desta linguagem, seu gerenciamento de simultaneidade e como ela é usada em projetos modernos de computação em nuvem.
 

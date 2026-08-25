@@ -13,16 +13,19 @@ Superpowers is a comprehensive software development methodology of composite ski
 - Standardize agent workflows.
 - Full compatibility with multiple platforms.
 
-## Getting started
-Give your agent super powers with TreScout; Quickstart steps for Claude Code, Codex and Gemini are waiting for you in the repository.
-
-## How to install, how to use?
-**Claude Code · install from official marketplace**
+## Installation
+****
 
 ```
 /plugin install superpowers@claude-plugins-official
 ```
 
+
+## Getting started
+Give your agent super powers with TreScout; Quickstart steps for Claude Code, Codex and Gemini are waiting for you in the repository.
+
+## How to install, how to use?
+Install the Superpowers plugin by running the command '/plugin install superpowers@claude-plugins-official' in Claude Code; From now on, when I want to improve something, the skills come into play automatically.
 
 ## Related dictionary terms
 

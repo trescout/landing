@@ -12,31 +12,16 @@ Liteparse (run-lama); ist ein in Rust geschriebener Open-Source-Dokumentparser z
 - Es macht komplexe Strukturen bearbeitbar.
 - Vollständig kompatibel mit AI- und RAG-Pipelines.
 
-## Wie installiere ich, wie verwende ich?
-**Mit Python (pip) installieren**
+## Installation
+**über Pip (PyPI)**
 
 ```
 pip install liteparse
 ```
 
-**Mit Node.js/TypeScript installieren**
 
-```
-npm i @llamaindex/liteparse
-```
-
-**Analysieren Sie ein PDF**
-
-```
-lit parse document.pdf
-```
-
-**als JSON speichern**
-
-```
-lit parse document.pdf --format json -o output.json
-```
-
+## Wie installiere ich, wie verwende ich?
+Installieren Sie das PDF-Parsing-Tool LiteParse mit „pip install liteparse“, extrahieren Sie dann den Text einer PDF-Datei mit dem Befehl „lit parse document.pdf“ oder speichern Sie ihn als strukturiertes JSON mit Begrenzungsrahmen mit „lit parse document.pdf --format json -o output.json“.
 
 ## Verwandte Begriffe aus dem Glossar
 

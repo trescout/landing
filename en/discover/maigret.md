@@ -12,25 +12,18 @@ Maigret scans more than 3000 websites based on usernames and creates a dossier o
 - It visualizes the obtained data and provides reports.
 
 ## Installation
-**Installation with Python**
+****
 
 ```
 pip install maigret
-maigret YOUR_USERNAME
-```
-
-**Installation with Docker**
-
-```
-docker pull soxoj/maigret
 ```
 
 
 ## Running it
-**basic search**
+****
 
 ```
-maigret username
+maigret kullanici-adi
 ```
 
 

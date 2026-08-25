@@ -24,6 +24,14 @@ winget install GoLang.Go
 ```
 
 
+## Running it
+**Verify version**
+
+```
+go version
+```
+
+
 ## If you don't write code
 I want to develop simple, reliable and efficient software with the Go programming language. Explain to a beginner developer the basic syntax of this language, its concurrency management, and how it is used in modern cloud computing projects.
 

@@ -12,24 +12,24 @@ Das Open-Source-Repository NGINX wird in C als leistungsstarker Webserver und Re
 - Flexible und skalierbare Infrastrukturinstallation dank modularem Aufbau.
 
 ## Installation
-**Abhängigkeiten installieren**
+**macOS (Homebrew)**
 
 ```
-sudo apt install gcc make
+brew install nginx
 ```
 
-**Installation der erforderlichen Bibliotheken**
+****
 
 ```
-sudo apt install libpcre3-dev zlib1g-dev
+sudo apt update && sudo apt install -y nginx
 ```
 
 
 ## Ausführung
-**Statische Modulsteuerung**
+****
 
 ```
-nginx -V
+sudo systemctl start nginx
 ```
 
 

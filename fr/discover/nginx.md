@@ -12,24 +12,24 @@ Le référentiel open source NGINX continue d'être développé en C en tant que
 - Installation d'infrastructure flexible et évolutive grâce à sa structure modulaire.
 
 ## Installation
-**Installation des dépendances**
+**macOS (Homebrew)**
 
 ```
-sudo apt install gcc make
+brew install nginx
 ```
 
-**Installation des bibliothèques requises**
+****
 
 ```
-sudo apt install libpcre3-dev zlib1g-dev
+sudo apt update && sudo apt install -y nginx
 ```
 
 
 ## Exécution
-**Contrôle du module statique**
+****
 
 ```
-nginx -V
+sudo systemctl start nginx
 ```
 
 

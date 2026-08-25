@@ -17,6 +17,12 @@ Puppeteer es una biblioteca de automatización del navegador que se utiliza para
 npm i puppeteer
 ```
 
+****
+
+```
+npm install puppeteer
+```
+
 
 ## Si no programa
 Eres un experto en automatización web. Usando la biblioteca Puppeteer, cree un script JavaScript simple que abra una página web, escriba texto en un campo específico e imprima los resultados en la pantalla. Proporcione un ejemplo de código que incluya pasos para iniciar el navegador, crear una nueva página, navegar a una URL e imprimir el título de la página en la consola.

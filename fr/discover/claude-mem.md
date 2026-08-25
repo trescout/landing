@@ -12,16 +12,19 @@ claude-mem permet à vos agents IA d'effectuer des rappels inter-sessions. Il ca
 - L'historique de la session est résumé grâce à l'intelligence artificielle et les parties pertinentes sont rappelées.
 - Il ne se limite pas à un seul outil, il fonctionne de manière compatible avec de nombreux agents.
 
-## Comment ça marche
-Il enregistre automatiquement les actions entreprises par l'agent pendant la session.
-
-## Installation (commande unique)
-**Installation (commande unique)**
+## Installation
+****
 
 ```
 npx claude-mem install
 ```
 
+
+## Comment ça marche
+Il enregistre automatiquement les actions entreprises par l'agent pendant la session.
+
+## Installation (commande unique)
+Installez Claude-Mem en exécutant 'npx claude-mem install' dans le terminal, puis redémarrez Claude Code ; Après cela, la mémoire des sessions précédentes sera automatiquement déplacée vers les nouvelles sessions.
 
 ## Termes liés du glossaire
 

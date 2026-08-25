@@ -13,22 +13,19 @@ AIRI is an AI-based virtual character platform that you can host on your own ser
 - Ability to play games like Minecraft and Factorio.
 - Your data remains entirely with you (self-host).
 
+## Installation
+****
+
+```
+git clone https://github.com/AIRI-institute/airi.git
+```
+
+
 ## Getting started
 You can easily install it on your own system by following the documentation (airi.moeru.ai/docs). Web, macOS and Windows platforms are supported.
 
 ## How to install, how to use?
-**macOS · Install with Homebrew**
-
-```
-brew install --cask airi
-```
-
-**Windows · Install with winget**
-
-```
-winget install MoeruAI.AIRI
-```
-
+Install the artificial intelligence virtual character application called AIRI on my computer: If I am on macOS, run the command 'brew install --cask airi', if I am on Windows, run the command 'winget install MoeruAI.AIRI' and open the application.
 
 ## Related dictionary terms
 

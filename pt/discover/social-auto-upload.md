@@ -12,21 +12,18 @@ social-auto-upload é uma ferramenta Python que envia automaticamente seus víde
 - Automatizando processos de distribuição de conteúdo.
 - Fluxo de trabalho eficiente que economiza tempo.
 
+## Instalação
+**via pip (PyPI)**
+
+```
+pip install social-auto-upload
+```
+
+
 ## Nota de responsabilidade
 
 ## Como instalar, como usar?
-**Faça login em uma plataforma**
-
-```
-sau douyin login --account <hesap_adi>
-```
-
-**Enviar vídeo**
-
-```
-sau douyin upload-video --account <hesap_adi> --file videos/demo.mp4 --title "Başlık" --desc "Açıklama"
-```
-
+Instale o repositório social-auto-upload (github.com/dreammis/social-auto-upload) e use sua ferramenta de linha de comando 'sau' para primeiro fazer login em minha conta com 'sau douyin login' e, em seguida, faça upload automático de um vídeo com título e descrição com o comando 'sau douyin upload-video'.
 
 ## Termos relacionados do glossário
 

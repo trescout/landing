@@ -11,10 +11,20 @@ Vite bietet eine schnelle Entwicklungsumgebung und ein Build-Tool für moderne W
 - Für die Produktion optimierte Codeverpackung
 
 ## Installation
-**Neues Projekt (npm)**
+****
 
 ```
-npm create vite@latest
+npm create vite@latest my-app
+cd my-app
+npm install
+```
+
+
+## Ausführung
+**Starten Sie den Entwicklungsserver**
+
+```
+npm run dev
 ```
 
 

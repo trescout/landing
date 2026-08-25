@@ -7,6 +7,24 @@ Kronos ist ein Grundlagenmodell zur Analyse der einzigartigen Muster der Finanzm
 - MIT
 - GitHub Trending · 28 May 2026
 
+## Installation
+****
+
+```
+git clone https://github.com/shiyu-coder/Kronos.git
+cd Kronos
+pip install -r requirements.txt
+```
+
+
+## Ausführung
+****
+
+```
+python examples/prediction_example.py
+```
+
+
 ## Was macht es?
 - Es bietet die Grundlage für die Modellierung von Marktmustern.
 - Es kann als Grundlagenmodell verfeinert werden.
@@ -15,18 +33,7 @@ Kronos ist ein Grundlagenmodell zur Analyse der einzigartigen Muster der Finanzm
 ## ehrliche Anmerkung
 
 ## Wie installiere ich, wie verwende ich?
-**Abhängigkeiten installieren**
-
-```
-pip install -r requirements.txt
-```
-
-**Führen Sie ein Beispielvorhersageskript aus**
-
-```
-python examples/prediction_example.py
-```
-
+Installieren Sie das Kronos-Finanzprognosemodell: Laden Sie das Repository herunter und führen Sie darin „pip install -r require.txt“ aus. Führen Sie dann das Skript „python examples/prediction_example.py“ aus, um eine Preisprognose für K-Line-Daten (Kerzendiagramm) zu generieren und das Ergebnis grafisch darzustellen.
 
 ## Verwandte Begriffe aus dem Glossar
 

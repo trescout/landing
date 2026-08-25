@@ -11,8 +11,16 @@ Pytest ist ein Testframework, das eine breite Palette von Tests in Python-Projek
 - Es hilft bei der schnellen Analyse von Tests, indem detaillierte Informationen zum Zeitpunkt des Fehlers bereitgestellt werden.
 - Dank der breiten Plug-in-Unterstützung und der modularen Struktur lässt es sich problemlos an unterschiedliche Anforderungen anpassen.
 
+## Installation
+**über Pip (PyPI)**
+
+```
+pip install pytest
+```
+
+
 ## Ausführung
-**Ausführen von Tests**
+****
 
 ```
 pytest

@@ -11,6 +11,22 @@ Langflow es una plataforma de desarrollo basada en Python que ofrece una interfa
 - Publicar flujos de trabajo como servidor API o MCP
 - Integración con grandes modelos de lenguaje y bases de datos vectoriales.
 
+## Instalación
+**vía pip (PyPI)**
+
+```
+pip install langflow
+```
+
+
+## Ejecución
+****
+
+```
+langflow run
+```
+
+
 ## Si no programa
 Quiero crear un agente de inteligencia artificial usando Langflow. Guíame en el diseño de un flujo de modelo de lenguaje básico utilizando la interfaz visual. Explique paso a paso qué componentes necesito arrastrar, cómo conectar estos componentes y cómo puedo exportar el flujo que creé como una API.
 

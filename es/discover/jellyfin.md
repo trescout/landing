@@ -13,16 +13,27 @@ Jellyfin es un servidor multimedia gratuito que le permite administrar y transmi
 - Sus datos permanecen con usted y no se comparten con terceros.
 - Una alternativa a Plex y Emby que ofrece total libertad.
 
-## ¿Cómo instalar?
-Docker está instalado en un servidor o NAS. La guía de instalación está en jellyfin.org; Después de instalarlo, introduces tus carpetas multimedia.
-
-## ¿Cómo instalar, cómo utilizar?
-**Ejecutar con Docker**
+## Instalación
+**con ventana acoplable**
 
 ```
 docker run -d --name jellyfin -p 8096:8096 jellyfin/jellyfin
 ```
 
+
+## Ejecución
+****
+
+```
+http://localhost:8096
+```
+
+
+## ¿Cómo instalar?
+Docker está instalado en un servidor o NAS. La guía de instalación está en jellyfin.org; Después de instalarlo, introduces tus carpetas multimedia.
+
+## ¿Cómo instalar, cómo utilizar?
+Quiero instalar el servidor de medios Jellyfin; Descargue e instale la versión adecuada para mi sistema operativo desde la página oficial jellyfin.org/downloads, o ayúdeme a ejecutarla con la imagen 'jellyfin/jellyfin' si uso Docker.
 
 ## Términos relacionados del glosario
 

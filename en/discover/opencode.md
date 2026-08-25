@@ -11,6 +11,14 @@ OpenCode is an open source coding agent designed to automate software developmen
 - Offers special modes for code review and planning
 - Provides global search capability for multi-step tasks
 
+## Installation
+****
+
+```
+npm install -g opencode
+```
+
+
 ## If you don't write code
 I would like you to analyze the codes in my current software project using the OpenCode tool and help automate the development processes. You can develop with full access during runtime using the build agent, or you can review the codes and plan changes using the plan agent. For complex searches or multi-step tasks, I expect you to use @general.
 

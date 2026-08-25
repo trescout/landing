@@ -12,31 +12,16 @@ Liteparse (ejecutar-llama); es un analizador de documentos de código abierto es
 - Hace mecanizables estructuras complejas.
 - Totalmente compatible con tuberías AI y RAG.
 
-## ¿Cómo instalar, cómo utilizar?
-**Instalar con Python (pip)**
+## Instalación
+**vía pip (PyPI)**
 
 ```
 pip install liteparse
 ```
 
-**Instalar con Node.js/TypeScript**
 
-```
-npm i @llamaindex/liteparse
-```
-
-**Analizar un PDF**
-
-```
-lit parse document.pdf
-```
-
-**guardar como JSON**
-
-```
-lit parse document.pdf --format json -o output.json
-```
-
+## ¿Cómo instalar, cómo utilizar?
+Instale la herramienta de análisis de PDF LiteParse con 'pip install liteparse', luego extraiga el texto de un PDF con el comando 'lit parse document.pdf' o guárdelo como JSON estructurado con cuadros delimitadores con 'lit parse document.pdf --format json -o output.json'.
 
 ## Términos relacionados del glosario
 

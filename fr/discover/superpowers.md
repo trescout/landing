@@ -13,16 +13,19 @@ Superpowers est une méthodologie complète de développement logiciel de compé
 - Standardisez les flux de travail des agents.
 - Compatibilité totale avec plusieurs plateformes.
 
-## Pour commencer
-Donnez des super pouvoirs à votre agent avec TreScout ; Des étapes de démarrage rapide pour Claude Code, Codex et Gemini vous attendent dans le référentiel.
-
-## Comment installer, comment utiliser ?
-**Claude Code · installer depuis le marché officiel**
+## Installation
+****
 
 ```
 /plugin install superpowers@claude-plugins-official
 ```
 
+
+## Pour commencer
+Donnez des super pouvoirs à votre agent avec TreScout ; Des étapes de démarrage rapide pour Claude Code, Codex et Gemini vous attendent dans le référentiel.
+
+## Comment installer, comment utiliser ?
+Installez le plugin Superpowers en exécutant la commande '/plugin install superpowers@claude-plugins-official' dans Claude Code ; Désormais, lorsque je souhaite améliorer quelque chose, les compétences entrent automatiquement en jeu.
 
 ## Termes liés du glossaire
 

@@ -7,6 +7,23 @@ Do you have a 200,000-line code base or a huge document archive that you don't r
 - MIT
 - GitHub Trending · 26 May 2026
 
+## Installation
+****
+
+```
+/plugin marketplace add Lum1104/Understand-Anything
+/plugin install understand-anything
+```
+
+
+## Running it
+****
+
+```
+/understand
+```
+
+
 ## What you get
 - You can solve a project you are unfamiliar with within minutes.
 - You can instantly produce content with the "Prepare a guide for beginners" command.
@@ -22,19 +39,7 @@ Do you have a 200,000-line code base or a huge document archive that you don't r
 What does this project do and where should I look to make changes?
 
 ## Try it in 2 minutes
-**Claude Code**
-
-```
-/plugin marketplace add Lum1104/Understand-Anything
-/plugin install understand-anything
-```
-
-**Codex · Antigravity · Gemini CLI · Cursor…**
-
-```
-curl -fsSL https://raw.githubusercontent.com/Lum1104/Understand-Anything/main/install.sh | bash
-```
-
+Install the Understand Anything plugin in Claude Code with the commands '/plugin marketplace add Lum1104/Understand-Anything' and '/plugin install understand-anything', then in my project run '/understand' to analyze the codebase and open the interactive knowledge graph panel with '/understand-dashboard'.
 
 ## Why is it on the agenda?
 Because it is at the center of the "understanding code and information by asking AI" trend. Beyond being a standalone application, it is included as an add-on to the assistants you use (such as Claude Code, Codex, Gemini CLI). The fact that it was starred by more than 4,700 developers in one day is a testament to the intense interest it has received.

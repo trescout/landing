@@ -12,19 +12,24 @@ Supermemory bietet eine hoch skalierbare Speicher-Engine und API, die für das Z
 - Skalierbare Architekturunterstützung.
 - Einfache Integration über API.
 
-## Wie installiere ich, wie verwende ich?
-**SDK installieren (Node oder Python)**
+## Installation
+****
 
 ```
-npm install supermemory    # ya da: pip install supermemory
+npm install supermemory
 ```
 
-**Verbinden Sie den MCP-Server mit dem AI-Client**
+
+## Ausführung
+****
 
 ```
 npx -y install-mcp@latest https://mcp.supermemory.ai/mcp --client claude --oauth=yes
 ```
 
+
+## Wie installiere ich, wie verwende ich?
+Installieren Sie supermemory, um meinem KI-Assistenten persistenten Speicher hinzuzufügen: Verbinden Sie den MCP-Server mit Claude mit dem Befehl „npx -y install-mcp@latest https://mcp.supermemory.ai/mcp --client claude --oauth=yes“ und überprüfen Sie, ob es funktioniert.
 
 ## Verwandte Begriffe aus dem Glossar
 

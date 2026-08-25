@@ -12,24 +12,10 @@ Codebase-memory-mcp offre une intelligence de code haute performance en transfor
 - Réduit l'utilisation des pièces jusqu'à 120x
 
 ## Installation
-**Installation MacOS et Linux**
+****
 
 ```
-curl -fsSL https://raw.githubusercontent.com/DeusData/codebase-memory-mcp/main/install.sh | bash
-```
-
-**Installation via l'interface visuelle**
-
-```
-curl -fsSL https://raw.githubusercontent.com/DeusData/codebase-memory-mcp/main/install.sh | bash -s -- --ui
-```
-
-
-## Exécution
-**Lancement de l'interface visuelle**
-
-```
-codebase-memory-mcp --ui=true --port=9749
+npm install -g codebase-memory-mcp
 ```
 
 

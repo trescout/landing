@@ -11,8 +11,16 @@ Pytest is a testing framework that supports a wide range of tests in Python proj
 - It helps to analyze tests quickly by providing detailed information at the time of error.
 - It easily adapts to different needs with its wide plug-in support and modular structure.
 
+## Installation
+**via pip (PyPI)**
+
+```
+pip install pytest
+```
+
+
 ## Running it
-**Running Tests**
+****
 
 ```
 pytest

@@ -11,10 +11,30 @@ Chatwoot es una plataforma de código abierto que ofrece chat en vivo, soporte p
 - Le brinda control total sobre los datos de sus clientes al alojarlos en su propio servidor.
 
 ## Instalación
-**Docker Compose (autohospedado)**
+****
 
 ```
-git clone https://github.com/chatwoot/chatwoot.git && cd chatwoot && docker compose up -d
+wget -O .env https://raw.githubusercontent.com/chatwoot/chatwoot/develop/.env.example
+```
+
+****
+
+```
+wget -O docker-compose.yaml https://raw.githubusercontent.com/chatwoot/chatwoot/develop/docker-compose.production.yaml
+```
+
+****
+
+```
+docker compose run --rm rails bundle exec rails db:chatwoot_prepare
+```
+
+
+## Ejecución
+****
+
+```
+docker compose up -d
 ```
 
 

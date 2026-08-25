@@ -11,6 +11,22 @@ Langflow ist eine Python-basierte Entwicklungsplattform, die eine visuelle Schni
 - Workflows als API- oder MCP-Server veröffentlichen
 - Integration mit großen Sprachmodellen und Vektordatenbanken
 
+## Installation
+**über Pip (PyPI)**
+
+```
+pip install langflow
+```
+
+
+## Ausführung
+****
+
+```
+langflow run
+```
+
+
 ## Wenn Sie nicht programmieren
 Ich möchte mit Langflow einen Agenten für künstliche Intelligenz erstellen. Leiten Sie mich beim Entwerfen eines grundlegenden Sprachmodellflusses mithilfe der visuellen Schnittstelle. Erklären Sie Schritt für Schritt, welche Komponenten ich ziehen muss, wie ich diese Komponenten miteinander verbinde und wie ich den von mir erstellten Flow als API exportieren kann.
 

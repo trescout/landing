@@ -11,11 +11,25 @@ Trivy es una herramienta integral de escaneo de seguridad que detecta vulnerabil
 - Comprueba si hay dependencias de software y configuraciones incorrectas.
 - Previene fugas mediante el escaneo de claves privadas e información confidencial.
 
-## Ejecución
-**Escaneando la imagen de Python**
+## Instalación
+**macOS (hecho en casa)**
 
 ```
-trivy image python:3.4-alpine
+brew install trivy
+```
+
+**Ventanas (ala)**
+
+```
+winget install AquaSecurity.Trivy
+```
+
+
+## Ejecución
+****
+
+```
+trivy image imaj-adi:etiket
 ```
 
 

@@ -7,6 +7,24 @@ Kronos is a foundation model designed to analyze the unique patterns of financia
 - MIT
 - GitHub Trending · 28 May 2026
 
+## Installation
+****
+
+```
+git clone https://github.com/shiyu-coder/Kronos.git
+cd Kronos
+pip install -r requirements.txt
+```
+
+
+## Running it
+****
+
+```
+python examples/prediction_example.py
+```
+
+
 ## What does it do?
 - It provides the basis for modeling market patterns.
 - It can be fine-tuned as a foundation model.
@@ -15,18 +33,7 @@ Kronos is a foundation model designed to analyze the unique patterns of financia
 ## honest note
 
 ## How to install, how to use?
-**Install dependencies**
-
-```
-pip install -r requirements.txt
-```
-
-**Run sample prediction script**
-
-```
-python examples/prediction_example.py
-```
-
+Install the Kronos financial forecast model: download the repository and run 'pip install -r requirements.txt' in it, then run the script 'python examples/prediction_example.py' to generate a price forecast on K-line (candle chart) data and graph the result.
 
 ## Related dictionary terms
 

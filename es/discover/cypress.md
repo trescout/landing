@@ -12,16 +12,18 @@ Cypress es un marco de automatización que acelera y facilita los procesos de pr
 - Proporciona pruebas de un extremo a otro para aumentar la confiabilidad de las aplicaciones web.
 
 ## Instalación
-**Instalación usando NPM**
+****
 
 ```
 npm install cypress --save-dev
 ```
 
-**Instalación usando hilo**
+
+## Ejecución
+****
 
 ```
-yarn add cypress --dev
+npx cypress open
 ```
 
 

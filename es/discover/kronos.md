@@ -7,6 +7,24 @@ Kronos es un modelo básico diseñado para analizar los patrones únicos de los 
 - MIT
 - GitHub Trending · 28 May 2026
 
+## Instalación
+****
+
+```
+git clone https://github.com/shiyu-coder/Kronos.git
+cd Kronos
+pip install -r requirements.txt
+```
+
+
+## Ejecución
+****
+
+```
+python examples/prediction_example.py
+```
+
+
 ## ¿Qué hace?
 - Proporciona la base para modelar patrones de mercado.
 - Se puede ajustar como modelo básico.
@@ -15,18 +33,7 @@ Kronos es un modelo básico diseñado para analizar los patrones únicos de los 
 ## nota honesta
 
 ## ¿Cómo instalar, cómo utilizar?
-**Instalar dependencias**
-
-```
-pip install -r requirements.txt
-```
-
-**Ejecutar script de predicción de muestra**
-
-```
-python examples/prediction_example.py
-```
-
+Instale el modelo de pronóstico financiero de Kronos: descargue el repositorio y ejecute 'pip install -r requisitos.txt' en él, luego ejecute el script 'python ejemplos/prediction_example.py' para generar un pronóstico de precios en datos de línea K (gráfico de velas) y graficar el resultado.
 
 ## Términos relacionados del glosario
 

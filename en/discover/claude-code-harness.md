@@ -12,32 +12,19 @@ Claude Code Harness introduces the discipline of plan, do, review and deliver, c
 - Quality is increased by limiting tests.
 - More predictable and consistent results are obtained.
 
+## Installation
+****
+
+```
+npm install -g claude-code-harness
+```
+
+
 ## Getting started
 Integrated into Claude Code with installation in the repository; then implements the plan, do, review cycle.
 
 ## How to install, how to use?
-**Claude Code · marketplace + installation**
-
-```
-/plugin marketplace add Chachamaru127/claude-code-harness
-/plugin install claude-code-harness@claude-code-harness-marketplace
-```
-
-**Start installation**
-
-```
-/harness-setup
-```
-
-**Flow: plan → work → review → publish**
-
-```
-/harness-plan
-/harness-work
-/harness-review
-/harness-release
-```
-
+Set up this disciplined workflow in Claude Code by running '/plugin marketplace add Chachamaru127/claude-code-harness', then '/plugin install claude-code-harness@claude-code-harness-marketplace' and '/harness-setup', then get started with '/harness-plan'.
 
 ## Related dictionary terms
 

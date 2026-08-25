@@ -12,24 +12,24 @@ O repositório de código aberto NGINX continua a ser desenvolvido em C como um 
 - Instalação de infraestrutura flexível e escalável graças à sua estrutura modular.
 
 ## Instalação
-**Instalando Dependências**
+**macOS (homebrew)**
 
 ```
-sudo apt install gcc make
+brew install nginx
 ```
 
-**Instalação das bibliotecas necessárias**
+****
 
 ```
-sudo apt install libpcre3-dev zlib1g-dev
+sudo apt update && sudo apt install -y nginx
 ```
 
 
 ## Execução
-**Controle de módulo estático**
+****
 
 ```
-nginx -V
+sudo systemctl start nginx
 ```
 
 

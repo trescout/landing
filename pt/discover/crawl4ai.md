@@ -12,13 +12,24 @@ Crawl4AI; é um rastreador e raspador da web de código aberto otimizado para mo
 - Especialmente otimizado para processos LLM.
 - É rápido e de código aberto.
 
-## Instalação (comando único)
-**Python (pip)**
+## Instalação
+**via pip (PyPI)**
 
 ```
 pip install crawl4ai
 ```
 
+
+## Execução
+****
+
+```
+crawl4ai-download
+```
+
+
+## Instalação (comando único)
+Ajude-me a instalar o rastreador da web de código aberto chamado Crawl4AI; Vamos tentar instalá-lo com 'pip install -U crawl4ai', executando 'crawl4ai-setup' e convertendo uma página da web em Markdown compatível com LLM com o comando 'crwl https://www.nbcnews.com/business -o markdown'.
 
 ## Termos relacionados do glossário
 

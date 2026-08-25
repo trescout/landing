@@ -12,23 +12,28 @@ Engenharia de Compostos; Claude Code é um complemento oficial para Codex e Curs
 - Fornece habilidades e agentes prontos.
 - Adapta-se facilmente a vários ambientes de IA.
 
-## Como começar
-Você pode instalá-lo como um complemento ao seu assistente de IA e, em seguida, incorporar as habilidades e os agentes ao seu fluxo de trabalho.
-
-## Como instalar, como usar?
-**Código Claude · marketplace + instalação**
+## Instalação
+****
 
 ```
 /plugin marketplace add EveryInc/compound-engineering-plugin
 /plugin install compound-engineering
 ```
 
-**Prepare o projeto após a instalação**
+
+## Execução
+****
 
 ```
 /ce-setup
 ```
 
+
+## Como começar
+Você pode instalá-lo como um complemento ao seu assistente de IA e, em seguida, incorporar as habilidades e os agentes ao seu fluxo de trabalho.
+
+## Como instalar, como usar?
+Se você estiver trabalhando no Claude Code, instale o plugin Compound Engineering executando estes dois comandos em sequência: '/plugin marketplace add EveryInc/compound-engineering-plugin' seguido por '/plugin install compound-engineering'; Terminada a instalação, prepare o ambiente executando o comando '/ce-setup' em qualquer projeto.
 
 ## Termos relacionados do glossário
 

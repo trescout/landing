@@ -18,6 +18,12 @@ VeraCrypt is a disk encryption tool developed based on TrueCrypt and offers stro
 brew install --cask veracrypt
 ```
 
+**Windows (winget)**
+
+```
+winget install IDRIX.VeraCrypt
+```
+
 
 ## Getting started
 - Official source →

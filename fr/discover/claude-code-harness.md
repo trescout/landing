@@ -12,32 +12,19 @@ Claude Code Harness introduit la discipline de planifier, réaliser, réviser et
 - La qualité est augmentée en limitant les tests.
 - Des résultats plus prévisibles et cohérents sont obtenus.
 
+## Installation
+****
+
+```
+npm install -g claude-code-harness
+```
+
+
 ## Pour commencer
 Intégré à Claude Code avec installation dans le référentiel; met ensuite en œuvre le cycle de planification, d'exécution et de révision.
 
 ## Comment installer, comment utiliser ?
-**Claude Code · place de marché + installation**
-
-```
-/plugin marketplace add Chachamaru127/claude-code-harness
-/plugin install claude-code-harness@claude-code-harness-marketplace
-```
-
-**Commencer l'installation**
-
-```
-/harness-setup
-```
-
-**Flux : planifier → travailler → réviser → publier**
-
-```
-/harness-plan
-/harness-work
-/harness-review
-/harness-release
-```
-
+Configurez ce flux de travail discipliné dans Claude Code en exécutant « /plugin marketplace add Chachamaru127/claude-code-harness », puis « /plugin install claude-code-harness@claude-code-harness-marketplace » et « /harness-setup », puis commencez avec « /harness-plan ».
 
 ## Termes liés du glossaire
 

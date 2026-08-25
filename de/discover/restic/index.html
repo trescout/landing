@@ -23,6 +23,7 @@
 <meta property="og:image" content="https://trescout.com/assets/discover/og/restic-de.webp">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Restic">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Restic">
@@ -56,8 +57,6 @@
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
-
-<meta property="og:image:alt" content="Restic">
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
@@ -72,7 +71,8 @@
       <aside class="disc-note"><p><strong>Hinweis von TreScout:</strong> Es speichert Ihre Backups, indem es sie verschlüsselt, und nimmt keinen Speicherplatz ein, da dieselbe Datei nicht zweimal geschrieben wird. Es verfügt über keine anklickbare Oberfläche, es wird über die Befehlszeile ausgeführt und Sie legen die Aufgabe fest, alte Backups zu bereinigen, da sonst der Speicher mit der Zeit anschwillt. Versuchen Sie, eine Datei am selben Tag wiederherzustellen, an dem Sie sie installiert haben. Andernfalls können Sie nicht erkennen, dass die Sicherung tatsächlich funktioniert hat.</p></aside>
       <section class="disc-sec disc-updates"><h2>Aktualisierungen</h2><ul class="disc-update-list"><li><strong>2. August 2026:</strong> Sterne 34,273 → 35,302, neueste Version v0.19.1 (5. Juli 2026).</li></ul></section>
       <section class="disc-sec"><h2>Was es bringt</h2><ul class="disc-wins"><li>Bietet hohe Sicherheit durch Verschlüsselung der Daten</li><li>Spart Speicherplatz durch inkrementelles Backup</li><li>Kompatibel mit verschiedenen Cloud- und lokalen Speichersystemen</li></ul></section>
-      <section class="disc-sec"><h2>Installation</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>macOS (Homebrew)</span><button type="button" class="disc-copy" aria-label="Befehl kopieren">Kopieren</button></div><pre><code>brew install restic</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Debian/Ubuntu</span><button type="button" class="disc-copy" aria-label="Befehl kopieren">Kopieren</button></div><pre><code>apt install restic</code></pre></div></section>
+      <section class="disc-sec"><h2>Installation</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>macOS · Homebrew</span><button type="button" class="disc-copy" aria-label="Befehl kopieren">Kopieren</button></div><pre><code>brew install restic</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Windows · winget</span><button type="button" class="disc-copy" aria-label="Befehl kopieren">Kopieren</button></div><pre><code>winget install restic.restic</code></pre></div></section>
+      <section class="disc-sec"><h2>Ausführung</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Backup-Repository erstellen</span><button type="button" class="disc-copy" aria-label="Befehl kopieren">Kopieren</button></div><pre><code>restic init --repo /path/to/repo</code></pre></div></section>
       <section class="disc-sec"><h2>Wenn Sie nicht programmieren</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Anweisung kopieren">Kopieren</button></div><p class="disc-ai-text">Ich möchte meine Daten mit Restic sicher sichern. Wie kann ich einen lokalen Ordner oder ein bestimmtes Verzeichnis in einen verschlüsselten Backup-Speicher exportieren? Können Sie bitte Schritt für Schritt erklären, wie das Backup-Repository erstellt und der erste Backup-Prozess gestartet wird, damit meine Daten verschlüsselt werden?</p></div></section>
       <section class="disc-sec"><h2>Verwandte Begriffe aus dem Glossar</h2><div class="disc-related"><a href="/de/dictionary/backup-program/">Backup Program</a><a href="/de/dictionary/incremental-backup/">Incremental Backup</a><a href="/de/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
       <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Für wen es gedacht ist</span><span class="disc-fact-v">Es eignet sich für alle Nutzer, die ihre Daten schnell und effizient durch Verschlüsselung sichern möchten.</span></div><div class="disc-fact"><span class="disc-fact-k">Lizenz</span><span class="disc-fact-v">BSD-2-Clause</span></div></div>

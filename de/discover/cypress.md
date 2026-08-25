@@ -12,16 +12,18 @@ Cypress ist ein Automatisierungsframework, das End-to-End-Testprozesse für brow
 - Es bietet End-to-End-Tests, um die Zuverlässigkeit von Webanwendungen zu erhöhen.
 
 ## Installation
-**Installation mit NPM**
+****
 
 ```
 npm install cypress --save-dev
 ```
 
-**Installation mit Garn**
+
+## Ausführung
+****
 
 ```
-yarn add cypress --dev
+npx cypress open
 ```
 
 

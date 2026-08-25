@@ -17,6 +17,12 @@ Puppeteer ist eine Browser-Automatisierungsbibliothek zur Steuerung von Chrome- 
 npm i puppeteer
 ```
 
+****
+
+```
+npm install puppeteer
+```
+
 
 ## Wenn Sie nicht programmieren
 Sie sind Experte für Webautomatisierung. Erstellen Sie mithilfe der Puppeteer-Bibliothek ein einfaches JavaScript-Skript, das eine Webseite öffnet, Text in ein bestimmtes Feld schreibt und die Ergebnisse auf dem Bildschirm ausgibt. Stellen Sie ein Codebeispiel bereit, das Schritte zum Starten des Browsers, zum Erstellen einer neuen Seite, zum Navigieren zu einer URL und zum Drucken des Seitentitels in der Konsole enthält.

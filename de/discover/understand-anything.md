@@ -7,6 +7,23 @@ Haben Sie eine Codebasis mit 200.000 Zeilen oder ein riesiges Dokumentenarchiv, 
 - MIT
 - GitHub Trending · 26 May 2026
 
+## Installation
+****
+
+```
+/plugin marketplace add Lum1104/Understand-Anything
+/plugin install understand-anything
+```
+
+
+## Ausführung
+****
+
+```
+/understand
+```
+
+
 ## Was es bringt
 - Sie können ein Projekt, mit dem Sie nicht vertraut sind, innerhalb von Minuten lösen.
 - Mit dem Befehl „Leitfaden für Anfänger vorbereiten“ können Sie sofort Inhalte erstellen.
@@ -22,19 +39,7 @@ Haben Sie eine Codebasis mit 200.000 Zeilen oder ein riesiges Dokumentenarchiv, 
 Was macht dieses Projekt und wo sollte ich suchen, um Änderungen vorzunehmen?
 
 ## Probieren Sie es in 2 Minuten aus
-**Claude Code**
-
-```
-/plugin marketplace add Lum1104/Understand-Anything
-/plugin install understand-anything
-```
-
-**Codex · Antigravity · Gemini CLI · Cursor…**
-
-```
-curl -fsSL https://raw.githubusercontent.com/Lum1104/Understand-Anything/main/install.sh | bash
-```
-
+Installieren Sie das Understand Anything-Plugin in Claude Code mit den Befehlen „/plugin marketplace add Lum1104/Understand-Anything“ und „/plugin install verstehen-anything“. Führen Sie dann in meinem Projekt „/understand“ aus, um die Codebasis zu analysieren, und öffnen Sie das interaktive Knowledge-Graph-Panel mit „/understand-dashboard“.
 
 ## Warum steht es auf der Tagesordnung?
 Denn es steht im Mittelpunkt des Trends „Code und Informationen verstehen, indem man KI fragt“. Es ist nicht nur eine eigenständige Anwendung, sondern ist auch als Add-on zu den von Ihnen verwendeten Assistenten enthalten (z. B. Claude Code, Codex, Gemini CLI). Die Tatsache, dass mehr als 4.700 Entwickler an einem Tag die Hauptrolle spielten, ist ein Beweis für das große Interesse, das es gefunden hat.

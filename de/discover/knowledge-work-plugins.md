@@ -13,23 +13,28 @@ Dieser Open-Source-Plugin-Satz von Anthropic vereint Fähigkeiten, Konnektoren, 
 - Bringen Sie Claude bei, wie Sie die Arbeit lieben und steigern Sie Ihre Produktivität.
 - Sie müssen keinen Code schreiben, es läuft direkt auf Cowork.
 
-## So fangen Sie an
-Sie können es über den Plugin-Markt von Claude Cowork installieren. Die Liste der 11 Plugins und ihrer Funktionen ist in einer Tabelle im Repo enthalten. Nach der Installation beginnt Claude, sich wie ein Experte für die jeweilige Geschäftsfunktion zu verhalten.
-
-## Wie installiere ich, wie verwende ich?
-**Fügen Sie Marketplace hinzu und installieren Sie ein Rollen-Plugin**
+## Installation
+****
 
 ```
 claude plugin marketplace add anthropics/knowledge-work-plugins
 claude plugin install sales@knowledge-work-plugins
 ```
 
-**Beispiel: Vorbereitung eines Verkaufsgesprächs**
+
+## Ausführung
+****
 
 ```
 /sales:call-prep
 ```
 
+
+## So fangen Sie an
+Sie können es über den Plugin-Markt von Claude Cowork installieren. Die Liste der 11 Plugins und ihrer Funktionen ist in einer Tabelle im Repo enthalten. Nach der Installation beginnt Claude, sich wie ein Experte für die jeweilige Geschäftsfunktion zu verhalten.
+
+## Wie installiere ich, wie verwende ich?
+Installieren Sie das meiner Rolle entsprechende Plugin, indem Sie die Befehle „claude Plugin Marketplace Add Anthropics/Knowledge-Work-Plugins“ und dann „Claude Plugin Install Sales@Knowledge-Work-Plugins“ in Claude Code ausführen (ich kann die gewünschte Rolle schreiben, z. B. Finanzen oder Marketing, anstelle von Vertrieb).
 
 ## Verwandte Begriffe aus dem Glossar
 

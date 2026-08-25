@@ -12,25 +12,24 @@ Código Cláudio; É uma ferramenta de codificação baseada em agente que fica 
 - Basta dizer 'adicione ou corrija' em linguagem natural.
 - Muitas habilidades e plugins deste catálogo são usados ​​com ele.
 
-## Como instalar, como usar?
-**macOS/Linux (recomendado)**
+## Instalação
+**instalação global com npm**
 
 ```
-curl -fsSL https://claude.ai/install.sh | bash
+npm install -g @anthropic-ai/claude-code
 ```
 
-**Windows (PowerShell)**
 
-```
-irm https://claude.ai/install.ps1 | iex
-```
-
-**Comece no diretório do projeto**
+## Execução
+****
 
 ```
 claude
 ```
 
+
+## Como instalar, como usar?
+Digitei em meu terminal 'curl -fsSL https://claude.ai/install.sh | Instale a ferramenta oficial Claude Code da Anthropic com o comando 'bash', vá para a pasta do meu projeto e digite 'claude' para iniciá-la e peça para me ajudar a escrever o código.
 
 ## Termos relacionados do glossário
 

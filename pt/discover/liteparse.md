@@ -12,31 +12,16 @@ Liteparse (run-lhama); é um analisador de documentos de código aberto escrito 
 - Torna estruturas complexas usináveis.
 - Totalmente compatível com pipelines AI e RAG.
 
-## Como instalar, como usar?
-**Instalar com Python (pip)**
+## Instalação
+**via pip (PyPI)**
 
 ```
 pip install liteparse
 ```
 
-**Instalar com Node.js/TypeScript**
 
-```
-npm i @llamaindex/liteparse
-```
-
-**Analisar um PDF**
-
-```
-lit parse document.pdf
-```
-
-**salvar como JSON**
-
-```
-lit parse document.pdf --format json -o output.json
-```
-
+## Como instalar, como usar?
+Instale a ferramenta de análise de PDF LiteParse com 'pip install liteparse' e extraia o texto de um PDF com o comando 'lit parse document.pdf' ou salve como JSON estruturado com caixas delimitadoras com 'lit parse document.pdf --format json -o output.json'.
 
 ## Termos relacionados do glossário
 

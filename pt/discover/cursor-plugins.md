@@ -12,6 +12,14 @@ Plug-ins de cursor; Inclui a especificação oficial do plugin e plugins oficiai
 - Fornece compatibilidade futura graças à sua estrutura de especificações oficiais.
 - Você pode desenvolver suas próprias soluções inspirando-se em plug-ins prontos.
 
+## Instalação
+****
+
+```
+git clone https://github.com/cursor-plugins/cursor-plugins.git
+```
+
+
 ## Como usá-lo com IA?
 Ajude-me a instalar os plug-ins oficiais do Cursor deste repositório (por exemplo, plug-ins que fazem revisão de código ou verificações de segurança) do mercado de plug-ins Cursor para o projeto em que estou trabalhando no editor Cursor e explique passo a passo como usá-los.
 

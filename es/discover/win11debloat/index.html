@@ -23,6 +23,7 @@
 <meta property="og:image" content="https://trescout.com/assets/discover/og/win11debloat-es.webp">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Win11Debloat">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Win11Debloat">
@@ -56,8 +57,6 @@
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
-
-<meta property="og:image:alt" content="Win11Debloat">
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
@@ -73,8 +72,9 @@
       <section class="disc-sec disc-updates"><h2>Actualizaciones</h2><ul class="disc-update-list"><li><strong>2 de agosto de 2026:</strong> Estrellas 48,210 → 54,506, última versión 2026.07.11 (11 de julio de 2026).</li></ul></section>
       <figure class="disc-shot"><img src="/assets/discover/shots/win11debloat.webp" width="1280" height="888" loading="lazy" decoding="async" alt="Menú de línea de comando del script Win11Debloat · pantalla donde se seleccionan las aplicaciones que se eliminarán"><figcaption>Kaynak: github.com/Raphire/Win11Debloat · MIT</figcaption></figure>
       <section class="disc-sec"><h2>Qué aporta</h2><ul class="disc-wins"><li>Elimina rápidamente aplicaciones preinstaladas innecesarias.</li><li>Desactiva la telemetría y los datos de seguimiento.</li><li>Desactiva las funciones y los anuncios basados ​​en IA.</li></ul></section>
-      <section class="disc-sec"><h2>Instalación</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Ejecución directa con PowerShell (Windows)</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>&amp; ([scriptblock]::Create((irm &quot;https://debloat.raphi.re/&quot;)))</code></pre></div></section>
-      <section class="disc-sec"><h2>Ejecución</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Ejecutar en modo silencioso</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>&amp; ([scriptblock]::Create((irm &quot;https://debloat.raphi.re/&quot;))) -Silent</code></pre></div></section>
+      <section class="disc-sec"><h2>Instalación</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Descargar archivo de GitHub</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>Invoke-WebRequest -Uri https://github.com/Raphire/Win11Debloat/archive/refs/heads/master.zip -OutFile Win11Debloat.zip</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Abrir archivo</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>Expand-Archive -Path .\Win11Debloat.zip -DestinationPath .\Win11Debloat</code></pre></div></section>
+      <section class="disc-sec"><h2>Ejecución</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Ejecutar script revisándolo</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>Set-Location .\Win11Debloat\Win11Debloat-master
+.\Win11Debloat.ps1</code></pre></div></section>
       <section class="disc-sec"><h2>Si no programa</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Copiar instrucción">Copiar</button></div><p class="disc-ai-text">Quiero desinstalar aplicaciones innecesarias en mi sistema operativo Windows 11, desactivar los datos de telemetría y desactivar funciones como Copilot con tecnología de IA. ¿Cómo puedo hacer que mi sistema sea más liviano y centrado en la privacidad usando la herramienta Win11Debloat? Explique paso a paso a qué debo prestar atención para mantener la estabilidad del sistema cuando uso esta herramienta y cómo puedo personalizarla de forma segura.</p></div></section>
       <section class="disc-sec"><h2>Términos relacionados del glosario</h2><div class="disc-related"><a href="/es/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
       <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Para quién es</span><span class="disc-fact-v">Es para usuarios que utilizan el sistema operativo Windows 10 u 11 y desean limpiar su sistema de componentes innecesarios y controlar su configuración de privacidad.</span></div><div class="disc-fact"><span class="disc-fact-k">Licencia</span><span class="disc-fact-v">MIT</span></div></div>

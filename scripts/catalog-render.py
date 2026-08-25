@@ -68,11 +68,34 @@ def meta_sonrasi(sayfa, c):
     if not yeni:
         return sayfa
     m = re.search(r'<ul class="disc-meta">.*?</ul>\s*', sayfa, re.S)
-    return sayfa[:m.end()] + "      " + yeni + sayfa[m.end():] if m else sayfa
+    return sayfa[:m.end()] + yeni + sayfa[m.end():] if m else sayfa
+
+
+def temizle_eski_komut_bloklari(sayfa):
+    """Yeni catalog komutları basılmadan önce stale embedded command bloklarını kaldır.
+
+    Bazı legacy sayfalarda aynı komutlar `disc-how` içindeki AI prompt’unun altında,
+    ayrıca catalog-render’ın eklediği Kurulum/Çalıştırma bölümlerinde bulunuyordu.
+    Yeni catalog komutları güncellenirken eski bloklar kalırsa Turkish ve locale
+    sayfalarda iki farklı kurulum akışı görünür. AI prompt korunur.
+    """
+    def temizle(m):
+        sec = m.group(0)
+        if 'class="disc-cmd"' not in sec:
+            return sec
+        sec = re.sub(r'<div class="disc-cmd">.*?<pre><code>.*?</code></pre>\s*</div>\s*', '', sec, flags=re.S)
+        # Komut dışında anlamlı bir içerik veya AI prompt yoksa boş başlık bırakma.
+        if 'class="disc-ai"' not in sec and not re.search(r'<(?:p|ul|ol|aside|figure)\b', sec):
+            return ''
+        return sec
+    return re.sub(r'<section class="disc-sec[^"]*">.*?</section>\s*', temizle, sayfa, flags=re.S)
 
 
 def yaz(sayfa, cmds):
     """Mevcut komut bölümlerini kaldır, yenilerini doğru yere koy."""
+    # Yeni catalog komutu varsa legacy embedded blokları da temizle.
+    if cmds.get("kurulum") or cmds.get("calistirma"):
+        sayfa = temizle_eski_komut_bloklari(sayfa)
     # 1. eski komut bölümleri + kaynak notu
     sayfa = re.sub(r'<section class="disc-sec"><h2>(?:Kurulum|Çalıştırma)</h2>.*?</section>\s*', "", sayfa, flags=re.S)
     sayfa = re.sub(r'<p class="disc-note"><strong>Kaynak:</strong>.*?</p>\s*', "", sayfa, flags=re.S)
@@ -82,11 +105,11 @@ def yaz(sayfa, cmds):
     # 2. "Ne kazandırır?" bölümünün ardına
     m = re.search(r'<section class="disc-sec"><h2>Ne kazandırır\?</h2>.*?</section>\s*', sayfa, re.S)
     if m:
-        return sayfa[:m.end()] + "      " + yeni + sayfa[m.end():]
+        return sayfa[:m.end()] + yeni + sayfa[m.end():]
     # 3. yoksa meta listesinin ardına
     m = re.search(r'<ul class="disc-meta">.*?</ul>\s*', sayfa, re.S)
     if m:
-        return sayfa[:m.end()] + "      " + yeni + sayfa[m.end():]
+        return sayfa[:m.end()] + yeni + sayfa[m.end():]
     return sayfa
 
 

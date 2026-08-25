@@ -11,10 +11,20 @@ Im Gegensatz zu herkömmlichen Frameworks verwendet Svelte einen Ansatz zur Komp
 - Aktualisiert die DOM-Struktur chirurgisch, um Webseiten auf dem neuesten Stand zu halten
 
 ## Installation
-**Neues Projekt (offizielle CLI)**
+****
 
 ```
-npx sv create
+npx sv create my-app
+cd my-app
+npm install
+```
+
+
+## Ausführung
+**Starten Sie den Entwicklungsserver**
+
+```
+npm run dev
 ```
 
 

@@ -12,16 +12,19 @@ claude-mem ermöglicht Ihren KI-Agenten einen sitzungsübergreifenden Rückruf. 
 - Der Sitzungsverlauf wird mit künstlicher Intelligenz zusammengefasst und relevante Teile werden abgerufen.
 - Es ist nicht auf ein einzelnes Tool beschränkt, sondern funktioniert mit vielen Agenten kompatibel.
 
-## So funktioniert es
-Es zeichnet automatisch die vom Agenten während der Sitzung durchgeführten Aktionen auf.
-
-## Installation (einzelner Befehl)
-**Installation (einzelner Befehl)**
+## Installation
+****
 
 ```
 npx claude-mem install
 ```
 
+
+## So funktioniert es
+Es zeichnet automatisch die vom Agenten während der Sitzung durchgeführten Aktionen auf.
+
+## Installation (einzelner Befehl)
+Installieren Sie Claude-Mem, indem Sie „npx claude-mem install“ im Terminal ausführen und dann Claude Code neu starten. Danach wird der Speicher früherer Sitzungen automatisch auf neue Sitzungen übertragen.
 
 ## Verwandte Begriffe aus dem Glossar
 

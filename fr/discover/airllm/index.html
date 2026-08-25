@@ -23,6 +23,7 @@
 <meta property="og:image" content="https://trescout.com/assets/discover/og/airllm-fr.webp">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Airllm">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Airllm">
@@ -56,8 +57,6 @@
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
-
-<meta property="og:image:alt" content="Airllm">
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
@@ -66,42 +65,12 @@
 <article class="disc">
 <a class="disc-back" href="/fr/discover/">← Découvrir</a>
 <div class="disc-top"><span class="disc-eyebrow">Découvrir · GitHub · Airllm</span><span class="disc-momentum">↑ +208 aujourd&#39;hui</span></div>
-<h1 class="disc-title">Exécutez des modèles d&#39;IA géants avec 4 Go de VRAM</h1>
+<h1 class="disc-title">Exécutez des modèles d&#39;IA géants avec 4 Go de VRAM</h1>
 <p class="disc-lead">AirLLM permet d&#39;exécuter de grands modèles de langage avec 70 milliards de paramètres sur des unités de traitement graphique avec seulement 4 Go de mémoire vidéo (VRAM). Cette bibliothèque utilise des techniques d&#39;optimisation de la mémoire pour permettre l&#39;utilisation de modèles haute capacité avec de faibles exigences matérielles.</p>
 <ul class="disc-meta"><li>★ 31 598</li><li>Jupyter Notebook</li><li>GitHub Trending · 2026-06-04</li></ul>
       <section class="disc-sec disc-updates"><h2>Mises à jour</h2><ul class="disc-update-list"><li><strong>19 août 2026:</strong> Étoiles 30,796 → 31,598, dernière version v3.2.0 (18 août 2026).</li><li><strong>12 août 2026:</strong> Étoiles 29,265 → 30,796, dernière version v3.1.0 (29 juillet 2026).</li><li><strong>6 août 2026:</strong> Étoiles 27,522 → 29,265, dernière version v3.1.0 (29 juillet 2026).</li><li><strong>4 août 2026:</strong> Étoiles 25,416 → 27,522, dernière version v3.1.0 (29 juillet 2026).</li></ul></section>
       <section class="disc-sec"><h2>Ce que ça vous apporte</h2><ul class="disc-wins"><li>Possibilité d&#39;exécuter des modèles avec des paramètres 70B avec 4 Go de VRAM.</li><li>Possibilité d&#39;utiliser des modèles 405B Llama3.1 avec 8 Go de VRAM.</li><li>Augmentation de la vitesse jusqu&#39;à 3 fois avec la compression basée sur les blocs.</li></ul></section>
-      <section class="disc-sec"><h2>Installation</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Installation du paquet</span><button type="button" class="disc-copy" aria-label="Copier la commande">Copier</button></div><pre><code>pip install airllm</code></pre></div></section>
-      <section class="disc-sec"><h2>Exécution</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Charger et exécuter le modèle</span><button type="button" class="disc-copy" aria-label="Copier la commande">Copier</button></div><pre><code>from airllm import AutoModel
-
-MAX_LENGTH = 128
-# could use hugging face model repo id:
-model = AutoModel.from_pretrained(&quot;garage-bAInd/Platypus2-70B-instruct&quot;)
-
-# or use model&#x27;s local path...
-#model = AutoModel.from_pretrained(&quot;/home/ubuntu/.cache/huggingface/hub/models--garage-bAInd--Platypus2-70B-instruct/snapshots/b585e74bcaae02e52665d9ac6d23f4d0dbc81a0f&quot;)
-
-input_text = [
-        &#x27;What is the capital of United States?&#x27;,
-        #&#x27;I like&#x27;,
-    ]
-
-input_tokens = model.tokenizer(input_text,
-    return_tensors=&quot;pt&quot;, 
-    return_attention_mask=False, 
-    truncation=True, 
-    max_length=MAX_LENGTH, 
-    padding=False)
-           
-generation_output = model.generate(
-    input_tokens[&#x27;input_ids&#x27;].cuda(), 
-    max_new_tokens=20,
-    use_cache=True,
-    return_dict_in_generate=True)
-
-output = model.tokenizer.decode(generation_output.sequences[0])
-
-print(output)</code></pre></div></section>
+      <section class="disc-sec"><h2>Installation</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>via pip (PyPI)</span><button type="button" class="disc-copy" aria-label="Copier la commande">Copier</button></div><pre><code>pip install airllm</code></pre></div></section>
       <section class="disc-sec"><h2>Si vous ne codez pas</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Copier l'invite">Copier</button></div><p class="disc-ai-text">Je souhaite exécuter un modèle avec des paramètres 70B en utilisant la bibliothèque AirLLM sur ma carte graphique avec une faible capacité VRAM. J&#39;ai utilisé la commande pip install airllm pour l&#39;installation. Comment puis-je créer la structure de code Python nécessaire pour charger mon modèle et le générer avec une simple saisie de texte, à l&#39;aide de la classe AutoModel ? Je sais que je dois m&#39;assurer de disposer de suffisamment d&#39;espace disque pendant le processus. Pouvez-vous expliquer les étapes de base que je dois suivre pour démarrer le processus ?</p></div></section>
       <section class="disc-sec"><h2>Termes liés du glossaire</h2><div class="disc-related"><a href="/fr/dictionary/vram/">VRAM</a><a href="/fr/dictionary/jupyter-notebooks/">Jupyter Notebooks</a><a href="/fr/dictionary/large-language-models/">Large Language Models</a><a href="/fr/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
       <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Pour qui</span><span class="disc-fact-v">Pour les utilisateurs disposant de ressources matérielles limitées et souhaitant exécuter localement des modèles de langage volumineux de grande capacité.</span></div><div class="disc-fact"><span class="disc-fact-k">Licence</span><span class="disc-fact-v">Apache-2.0</span></div></div>

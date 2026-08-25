@@ -12,25 +12,18 @@ Maigret scanne plus de 3000 sites Web à partir des noms d'utilisateurs et crée
 - Il visualise les données obtenues et fournit des rapports.
 
 ## Installation
-**Installation avec Python**
+****
 
 ```
 pip install maigret
-maigret YOUR_USERNAME
-```
-
-**Installation avec Docker**
-
-```
-docker pull soxoj/maigret
 ```
 
 
 ## Exécution
-**recherche de base**
+****
 
 ```
-maigret username
+maigret kullanici-adi
 ```
 
 

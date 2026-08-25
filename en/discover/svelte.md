@@ -11,10 +11,20 @@ Unlike traditional frameworks, Svelte uses a compile-time approach that reduces 
 - Surgically updates the DOM structure to keep web pages up to date
 
 ## Installation
-**New project (official CLI)**
+****
 
 ```
-npx sv create
+npx sv create my-app
+cd my-app
+npm install
+```
+
+
+## Running it
+**Start development server**
+
+```
+npm run dev
 ```
 
 

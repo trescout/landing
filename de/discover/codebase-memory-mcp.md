@@ -12,24 +12,10 @@ Codebase-memory-mcp bietet leistungsstarke Code-Intelligenz, indem es Codebasen 
 - Reduziert den Münzverbrauch um das bis zu 120-fache
 
 ## Installation
-**macOS- und Linux-Installation**
+****
 
 ```
-curl -fsSL https://raw.githubusercontent.com/DeusData/codebase-memory-mcp/main/install.sh | bash
-```
-
-**Installation über visuelle Schnittstelle**
-
-```
-curl -fsSL https://raw.githubusercontent.com/DeusData/codebase-memory-mcp/main/install.sh | bash -s -- --ui
-```
-
-
-## Ausführung
-**Starten der visuellen Schnittstelle**
-
-```
-codebase-memory-mcp --ui=true --port=9749
+npm install -g codebase-memory-mcp
 ```
 
 

@@ -18,6 +18,12 @@ VeraCrypt es una herramienta de cifrado de disco desarrollada en base a TrueCryp
 brew install --cask veracrypt
 ```
 
+**Ventanas (ala)**
+
+```
+winget install IDRIX.VeraCrypt
+```
+
 
 ## Cómo empezar
 - Fuente oficial →

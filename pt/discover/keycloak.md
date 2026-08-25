@@ -12,18 +12,18 @@ Keycloak oferece soluções de gerenciamento de identidade e acesso de código a
 - Aumenta sem esforço a segurança do aplicativo.
 
 ## Instalação
-**Pegue a imagem oficial**
+****
 
 ```
-docker pull quay.io/keycloak/keycloak
+docker run --name keycloak -p 127.0.0.1:8080:8080 -e KC_BOOTSTRAP_ADMIN_USERNAME=admin -e KC_BOOTSTRAP_ADMIN_PASSWORD=change_me quay.io/keycloak/keycloak:latest start-dev
 ```
 
 
 ## Execução
-**Comece no modo de desenvolvimento**
+****
 
 ```
-docker run -p 8080:8080 -e KC_BOOTSTRAP_ADMIN_USERNAME=admin -e KC_BOOTSTRAP_ADMIN_PASSWORD=admin quay.io/keycloak/keycloak start-dev
+http://localhost:8080
 ```
 
 

@@ -12,16 +12,10 @@ CopilotKit bietet einen auf React und Angular basierenden Frontend-Stack für di
 - Es ermöglicht die Erstellung von von Menschen genehmigten Arbeitsabläufen und selbstlernenden Agenten.
 
 ## Installation
-**Für neue Projekte**
+****
 
 ```
-npx copilotkit@latest create -f <framework>
-```
-
-**Für bestehende Projekte**
-
-```
-npx copilotkit@latest init
+npm install @copilotkit/react-core
 ```
 
 

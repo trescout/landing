@@ -23,6 +23,7 @@
 <meta property="og:image" content="https://trescout.com/assets/discover/og/chatwoot-de.webp">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Chatwoot">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Chatwoot">
@@ -56,8 +57,6 @@
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
-
-<meta property="og:image:alt" content="Chatwoot">
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
@@ -72,7 +71,8 @@
       <aside class="disc-note"><p><strong>Hinweis von TreScout:</strong> Es sammelt Nachrichten von Kunden auf einem einzigen Bildschirm: Site-Chat, E-Mail, WhatsApp. Für vorgefertigte Dienste, die die gleiche Aufgabe erfüllen, wird eine monatliche Gebühr pro Person erhoben. Da sie jedoch auf Ihrem eigenen Server ausgeführt werden, fällt keine solche Gebühr an. Im Gegenzug werden der Server und die Wartung zu Ihrer Aufgabe. Die Installation ist nicht monolithisch, erfordert mehrere Dienstprogramme und hat mit den günstigsten Serverpaketen Schwierigkeiten.</p></aside>
       <section class="disc-sec disc-updates"><h2>Aktualisierungen</h2><ul class="disc-update-list"><li><strong>20. August 2026:</strong> Sterne 35,290 → 36,001, neueste Version v4.17.0 (20. August 2026).</li><li><strong>1. August 2026:</strong> Sterne 30,493 → 35,290, neueste Version v4.16.2 (27. Juli 2026).</li></ul></section>
       <section class="disc-sec"><h2>Was es bringt</h2><ul class="disc-wins"><li>Es vereint alle Kundenkanäle in einem einzigen Posteingang.</li><li>Beantwortet automatisch Routinefragen mit einem durch künstliche Intelligenz unterstützten Assistenten.</li><li>Sie haben die volle Kontrolle über Ihre Kundendaten, indem Sie diese auf Ihrem eigenen Server hosten.</li></ul></section>
-      <section class="disc-sec"><h2>Installation</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Docker Compose (selbst gehostet)</span><button type="button" class="disc-copy" aria-label="Befehl kopieren">Kopieren</button></div><pre><code>git clone https://github.com/chatwoot/chatwoot.git &amp;&amp; cd chatwoot &amp;&amp; docker compose up -d</code></pre></div></section>
+      <section class="disc-sec"><h2>Installation</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Umgebungsdatei herunterladen</span><button type="button" class="disc-copy" aria-label="Befehl kopieren">Kopieren</button></div><pre><code>wget -O .env https://raw.githubusercontent.com/chatwoot/chatwoot/develop/.env.example</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Docker Compose-Datei herunterladen</span><button type="button" class="disc-copy" aria-label="Befehl kopieren">Kopieren</button></div><pre><code>wget -O docker-compose.yaml https://raw.githubusercontent.com/chatwoot/chatwoot/develop/docker-compose.production.yaml</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Datenbank vorbereiten</span><button type="button" class="disc-copy" aria-label="Befehl kopieren">Kopieren</button></div><pre><code>docker compose run --rm rails bundle exec rails db:chatwoot_prepare</code></pre></div></section>
+      <section class="disc-sec"><h2>Ausführung</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Dienste starten</span><button type="button" class="disc-copy" aria-label="Befehl kopieren">Kopieren</button></div><pre><code>docker compose up -d</code></pre></div></section>
       <section class="disc-sec"><h2>Wenn Sie nicht programmieren</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Anweisung kopieren">Kopieren</button></div><p class="disc-ai-text">Beantworten Sie Fragen, indem Sie sich als Kundendienstmitarbeiter ausgeben. Lösen Sie als Captain AI-Assistent auf Chatwoot automatisch häufig gestellte Fragen und leiten Sie komplexe Probleme an relevante Teamkollegen weiter. Verbessern Sie die Erfahrung des Kundensupports, indem Sie stets höfliche, schnelle und genaue Informationen bereitstellen.</p></div></section>
       <section class="disc-sec"><h2>Verwandte Begriffe aus dem Glossar</h2><div class="disc-related"><a href="/de/dictionary/omni-channel-desk/">Omni-channel Desk</a><a href="/de/dictionary/omni-channel/">Omni-channel</a><a href="/de/dictionary/deployment/">Deployment</a><a href="/de/dictionary/self-hosted/">Self-hosted</a><a href="/de/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
       <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Für wen es gedacht ist</span><span class="disc-fact-v">Es eignet sich für Unternehmen, die Kundeninteraktionen von einem einzigen Zentrum aus verwalten und Supportprozesse automatisieren möchten.</span></div></div>

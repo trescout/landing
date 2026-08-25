@@ -23,6 +23,7 @@
 <meta property="og:image" content="https://trescout.com/assets/discover/og/trivy-de.webp">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Trivy">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Trivy">
@@ -56,8 +57,6 @@
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
-
-<meta property="og:image:alt" content="Trivy">
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
@@ -70,7 +69,8 @@
 <p class="disc-lead">Trivy ist ein umfassendes Sicherheitsscan-Tool, das Schwachstellen, Fehlkonfigurationen und Geheimnisse in Containern, Kubernetes-Clustern und Cloud-Infrastrukturen erkennt. Es automatisiert Sicherheitsüberprüfungen in Entwicklungsprozessen mit der Möglichkeit, Software-Stücklisten (SBOM) zu erstellen.</p>
 <ul class="disc-meta"><li>★ 35.511</li><li>Go</li><li>GitHub Trending · 2026-06-04</li></ul>
       <section class="disc-sec"><h2>Was es bringt</h2><ul class="disc-wins"><li>Erkennt Sicherheitslücken in Container-Images.</li><li>Prüft auf Softwareabhängigkeiten und Fehlkonfigurationen.</li><li>Verhindert Lecks durch das Scannen privater Schlüssel und vertraulicher Informationen.</li></ul></section>
-      <section class="disc-sec"><h2>Ausführung</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Scannen eines Python-Bildes</span><button type="button" class="disc-copy" aria-label="Befehl kopieren">Kopieren</button></div><pre><code>trivy image python:3.4-alpine</code></pre></div></section>
+      <section class="disc-sec"><h2>Installation</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>macOS (Homebrew)</span><button type="button" class="disc-copy" aria-label="Befehl kopieren">Kopieren</button></div><pre><code>brew install trivy</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Windows (Winget)</span><button type="button" class="disc-copy" aria-label="Befehl kopieren">Kopieren</button></div><pre><code>winget install AquaSecurity.Trivy</code></pre></div></section>
+      <section class="disc-sec"><h2>Ausführung</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Container-Image scannen</span><button type="button" class="disc-copy" aria-label="Befehl kopieren">Kopieren</button></div><pre><code>trivy image imaj-adi:etiket</code></pre></div></section>
       <section class="disc-sec"><h2>Wenn Sie nicht programmieren</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Fügen Sie dies in Ihren Agenten ein (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Anweisung kopieren">Kopieren</button></div><p class="disc-ai-text">Wie kann ich mit dem Trivy-Tool nach Schwachstellen, Fehlkonfigurationen und geheimen Schlüsseln in einem Container-Image suchen? Können Sie mir bitte, ähnlich wie beim Befehl „trivy image python:3.4-alpine“, die grundlegende Befehlsstruktur und die Scanoptionen erläutern, damit ich eine Sicherheitsüberprüfung meiner eigenen Projekte oder lokalen Dateien durchführen kann?</p></div></section>
       <section class="disc-sec"><h2>Verwandte Begriffe aus dem Glossar</h2><div class="disc-related"><a href="/de/dictionary/secrets/">Secrets</a><a href="/de/dictionary/sbom/">SBOM</a><a href="/de/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
       <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Für wen es gedacht ist</span><span class="disc-fact-v">Es richtet sich an Entwickler und Systemadministratoren, die Sicherheitsüberprüfungen in ihren Softwareentwicklungsprozessen automatisieren möchten.</span></div><div class="disc-fact"><span class="disc-fact-k">Lizenz</span><span class="disc-fact-v">Apache-2.0</span></div></div>

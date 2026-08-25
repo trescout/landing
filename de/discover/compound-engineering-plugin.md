@@ -12,23 +12,28 @@ Verbundtechnik; Claude Code ist ein offizielles Add-on für Codex und Cursor. Di
 - Bietet vorgefertigte Fähigkeiten und Agenten.
 - Passt sich problemlos an mehrere KI-Umgebungen an.
 
-## So fangen Sie an
-Sie können es als Add-on zu Ihrem KI-Assistenten installieren und die Fähigkeiten und Agenten dann in Ihren Workflow integrieren.
-
-## Wie installiere ich, wie verwende ich?
-**Claude Code · Marktplatz + Installation**
+## Installation
+****
 
 ```
 /plugin marketplace add EveryInc/compound-engineering-plugin
 /plugin install compound-engineering
 ```
 
-**Bereiten Sie das Projekt nach der Installation vor**
+
+## Ausführung
+****
 
 ```
 /ce-setup
 ```
 
+
+## So fangen Sie an
+Sie können es als Add-on zu Ihrem KI-Assistenten installieren und die Fähigkeiten und Agenten dann in Ihren Workflow integrieren.
+
+## Wie installiere ich, wie verwende ich?
+Wenn Sie an Claude Code arbeiten, installieren Sie das Compound Engineering-Plugin, indem Sie diese beiden Befehle nacheinander ausführen: „/plugin marketplace add EveryInc/compound-engineering-plugin“ gefolgt von „/plugin install Compound-engineering“; Wenn die Installation abgeschlossen ist, bereiten Sie die Umgebung vor, indem Sie den Befehl „/ce-setup“ in einem beliebigen Projekt ausführen.
 
 ## Verwandte Begriffe aus dem Glossar
 

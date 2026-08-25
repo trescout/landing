@@ -31,6 +31,12 @@ docker run -p 5000:5000 libretranslate/libretranslate
 libretranslate
 ```
 
+**Start translation server**
+
+```
+libretranslate --port 5000
+```
+
 
 ## If you don't write code
 I want to host the LibreTranslate tool on my own server. Could you please explain, as a step-by-step guide, the steps I need to follow to install this open source translation engine based on the Argos Translate library on my system and make it ready for offline use, without getting bogged down in technical details?

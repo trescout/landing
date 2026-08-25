@@ -12,16 +12,19 @@ claude-mem permite a sus agentes de IA realizar recuperación de sesiones cruzad
 - El historial de la sesión se resume con inteligencia artificial y se recuerdan las partes relevantes.
 - No se limita a una sola herramienta, funciona de forma compatible con muchos agentes.
 
-## Cómo funciona
-Registra automáticamente las acciones realizadas por el agente durante la sesión.
-
-## Instalación (comando único)
-**Instalación (comando único)**
+## Instalación
+****
 
 ```
 npx claude-mem install
 ```
 
+
+## Cómo funciona
+Registra automáticamente las acciones realizadas por el agente durante la sesión.
+
+## Instalación (comando único)
+Instale Claude-Mem ejecutando 'npx claude-mem install' en la terminal, luego reinicie Claude Code; Después de eso, la memoria de sesiones anteriores se trasladará automáticamente a sesiones nuevas.
 
 ## Términos relacionados del glosario
 

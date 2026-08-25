@@ -12,16 +12,18 @@ Cypress est un framework d'automatisation qui accélère et facilite les process
 - Il fournit des tests de bout en bout pour augmenter la fiabilité des applications Web.
 
 ## Installation
-**Installation à l'aide de NPM**
+****
 
 ```
 npm install cypress --save-dev
 ```
 
-**Installation à l'aide de fil**
+
+## Exécution
+****
 
 ```
-yarn add cypress --dev
+npx cypress open
 ```
 
 

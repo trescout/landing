@@ -12,16 +12,10 @@ Developed for Chrome DevTools, this server enables coding artificial intelligenc
 - Review network requests and console errors
 
 ## Installation
-**Installation with Claude Code**
+****
 
 ```
-claude mcp add chrome-devtools --scope user npx chrome-devtools-mcp@latest
-```
-
-**Installation with Codex**
-
-```
-codex mcp add chrome-devtools -- npx chrome-devtools-mcp@latest
+npm install -g chrome-devtools-mcp
 ```
 
 

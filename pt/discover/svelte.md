@@ -11,10 +11,20 @@ Ao contrário dos frameworks tradicionais, o Svelte usa uma abordagem de tempo d
 - Atualiza cirurgicamente a estrutura do DOM para manter as páginas da web atualizadas
 
 ## Instalação
-**Novo projeto (CLI oficial)**
+****
 
 ```
-npx sv create
+npx sv create my-app
+cd my-app
+npm install
+```
+
+
+## Execução
+**Iniciar servidor de desenvolvimento**
+
+```
+npm run dev
 ```
 
 

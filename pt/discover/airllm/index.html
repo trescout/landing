@@ -23,6 +23,7 @@
 <meta property="og:image" content="https://trescout.com/assets/discover/og/airllm-pt.webp">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Airllm">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Airllm">
@@ -56,8 +57,6 @@
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
-
-<meta property="og:image:alt" content="Airllm">
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
@@ -71,37 +70,7 @@
 <ul class="disc-meta"><li>★ 31.598</li><li>Jupyter Notebook</li><li>GitHub Trending · 2026-06-04</li></ul>
       <section class="disc-sec disc-updates"><h2>Atualizações</h2><ul class="disc-update-list"><li><strong>19 de agosto de 2026:</strong> Estrelas 30,796 → 31,598, versão mais recente v3.2.0 (18 de agosto de 2026).</li><li><strong>12 de agosto de 2026:</strong> Estrelas 29,265 → 30,796, versão mais recente v3.1.0 (29 de julho de 2026).</li><li><strong>6 de agosto de 2026:</strong> Estrelas 27,522 → 29,265, versão mais recente v3.1.0 (29 de julho de 2026).</li><li><strong>4 de agosto de 2026:</strong> Estrelas 25,416 → 27,522, versão mais recente v3.1.0 (29 de julho de 2026).</li></ul></section>
       <section class="disc-sec"><h2>O que você ganha</h2><ul class="disc-wins"><li>Possibilidade de rodar modelos com parâmetros de 70B com 4GB VRAM.</li><li>Capacidade de usar modelos 405B Llama3.1 com 8 GB VRAM.</li><li>Aumento de velocidade de até 3x com compactação baseada em bloco.</li></ul></section>
-      <section class="disc-sec"><h2>Instalação</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Instalação do pacote</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>pip install airllm</code></pre></div></section>
-      <section class="disc-sec"><h2>Execução</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Carregar e executar o modelo</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>from airllm import AutoModel
-
-MAX_LENGTH = 128
-# could use hugging face model repo id:
-model = AutoModel.from_pretrained(&quot;garage-bAInd/Platypus2-70B-instruct&quot;)
-
-# or use model&#x27;s local path...
-#model = AutoModel.from_pretrained(&quot;/home/ubuntu/.cache/huggingface/hub/models--garage-bAInd--Platypus2-70B-instruct/snapshots/b585e74bcaae02e52665d9ac6d23f4d0dbc81a0f&quot;)
-
-input_text = [
-        &#x27;What is the capital of United States?&#x27;,
-        #&#x27;I like&#x27;,
-    ]
-
-input_tokens = model.tokenizer(input_text,
-    return_tensors=&quot;pt&quot;, 
-    return_attention_mask=False, 
-    truncation=True, 
-    max_length=MAX_LENGTH, 
-    padding=False)
-           
-generation_output = model.generate(
-    input_tokens[&#x27;input_ids&#x27;].cuda(), 
-    max_new_tokens=20,
-    use_cache=True,
-    return_dict_in_generate=True)
-
-output = model.tokenizer.decode(generation_output.sequences[0])
-
-print(output)</code></pre></div></section>
+      <section class="disc-sec"><h2>Instalação</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>via pip (PyPI)</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>pip install airllm</code></pre></div></section>
       <section class="disc-sec"><h2>Se você não programa</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Copiar prompt">Copiar</button></div><p class="disc-ai-text">Quero rodar um modelo com parâmetros de 70B usando a biblioteca AirLLM na minha placa gráfica com baixa capacidade de VRAM. Usei o comando pip install airllm para instalação. Como posso criar a estrutura de código Python necessária para carregar meu modelo e produzi-lo com uma entrada de texto simples, usando a classe AutoModel? Eu sei que preciso ter espaço em disco suficiente durante o processo. Você pode explicar as etapas básicas que preciso seguir para iniciar o processo?</p></div></section>
       <section class="disc-sec"><h2>Termos relacionados do glossário</h2><div class="disc-related"><a href="/pt/dictionary/vram/">VRAM</a><a href="/pt/dictionary/jupyter-notebooks/">Jupyter Notebooks</a><a href="/pt/dictionary/large-language-models/">Large Language Models</a><a href="/pt/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
       <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Para quem é</span><span class="disc-fact-v">Para usuários com recursos de hardware limitados que desejam executar localmente modelos de linguagem grande e de alta capacidade.</span></div><div class="disc-fact"><span class="disc-fact-k">Licença</span><span class="disc-fact-v">Apache-2.0</span></div></div>
