@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Hister · Descobrir · TreScout</title>
-<meta name="description" content="Personal search engine infrastructure built with Go · Hister · Explore este projeto open source na TreScout.">
+<meta name="description" content="An AGPLv3 private search engine for pages you visit and files you store. · Hister · Explore este projeto open source na TreScout.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/pt/discover/hister.md">
 <link rel="canonical" href="https://trescout.com/pt/discover/hister/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/hister/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/hister/">
 <meta property="og:title" content="Hister">
-<meta property="og:description" content="Personal search engine infrastructure built with Go · Hister · Explore este projeto open source na TreScout.">
+<meta property="og:description" content="An AGPLv3 private search engine for pages you visit and files you store. · Hister · Explore este projeto open source na TreScout.">
 <meta property="og:url" content="https://trescout.com/pt/discover/hister/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="pt_BR">
@@ -27,15 +27,15 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Hister">
-<meta name="twitter:description" content="Personal search engine infrastructure built with Go · Hister · Explore este projeto open source na TreScout.">
+<meta name="twitter:description" content="An AGPLv3 private search engine for pages you visit and files you store. · Hister · Explore este projeto open source na TreScout.">
 <meta name="twitter:image" content="https://trescout.com/assets/discover/og/hister.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Hister",
+  "headline": "Motor de Busca Privado para Páginas e Arquivos Pessoais",
   "inLanguage": "pt-BR",
-  "description": "Hister é uma infraestrutura de mecanismo de busca pessoal desenvolvida na linguagem de programação Go. Permite que os usuários criem seus próprios índices para realizar buscas independentes na web.",
+  "description": "Motor de busca privado com licença AGPLv3 para páginas visitadas e arquivos guardados pelo usuário. Oferece indexação full-text, filtros de consulta avançados e busca semântica opcional.",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -64,11 +64,20 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/pt/discover/">← Descobrir</a>
-<div class="disc-top"><span class="disc-eyebrow">Descobrir · GitHub</span></div>
-<h1 class="disc-title">Hister</h1>
-<p class="disc-lead">Hister é uma infraestrutura de mecanismo de busca pessoal desenvolvida na linguagem de programação Go. Permite que os usuários criem seus próprios índices para realizar buscas independentes na web.</p>
-<ul class="disc-meta"><li>★ 2.620</li><li>GitHub Trending · 2026-08-25</li></ul>
-      <section class="disc-sec"><h2>Links</h2><ul class="disc-links"><li><a href="https://github.com/asciimoo/hister" target="_blank" rel="noopener">Repositório no GitHub →</a></li><li><a href="https://trescout.com/discover/hister/">Ler em turco →</a></li></ul></section>
+<div class="disc-top"><span class="disc-eyebrow">Descobrir · GitHub · Hister</span></div>
+<h1 class="disc-title">Motor de Busca Privado para Páginas e Arquivos Pessoais</h1>
+<p class="disc-lead">Motor de busca privado com licença AGPLv3 para páginas visitadas e arquivos guardados pelo usuário. Oferece indexação full-text, filtros de consulta avançados e busca semântica opcional.</p>
+<ul class="disc-meta"><li>★ 2.620</li><li>Go</li><li>GitHub Trending · 2026-08-25</li></ul>
+      <section class="disc-sec"><h2>O que esta ferramenta faz?</h2><p>O Hister pode rodar localmente ou na infraestrutura que você controla; não exige serviço em nuvem ou telemetria obrigatória. Indexa páginas via extensões Chrome e Firefox, oferece opções de rastreamento de sites e importação do histórico do navegador. Se a busca semântica estiver ativada, o texto do documento é enviado ao endpoint de embeddings selecionado.</p></section>
+      <section class="disc-sec"><h2>Para quem é?</h2><p>Quem quer consultar páginas web e arquivos pessoais em uma infraestrutura de busca sob seu controle.</p></section>
+      <section class="disc-sec"><h2>O que não esperar</h2><p>Cenários que exigem serviço em nuvem obrigatório ou telemetria, ou fluxos de indexação do navegador que não permitem enviar conteúdo ao servidor Hister configurado.</p></section>
+      <section class="disc-sec"><h2>Destaques</h2><ul class="disc-wins"><li>Opera localmente ou em infraestrutura controlada, sem telemetria ou serviço em nuvem obrigatório</li><li>Consultas com full-text, filtros por campo, frases, curingas, negações e prioridades</li><li>Busca opcional semântica com clientes web, terminal, TUI, CLI e MCP</li></ul></section>
+      <section class="disc-sec"><h2>Primeiro fluxo de uso</h2><ol class="disc-steps"><li>Baixe o binário apropriado para sua plataforma e torne-o executável no Linux ou macOS</li><li>Inicie o servidor Hister em modo de escuta local</li><li>Abra a interface web local</li><li>Instale a extensão do Chrome ou Firefox e selecione as páginas a serem indexadas</li></ol></section>
+      <section class="disc-sec"><h2>Início seguro</h2><div class="disc-note">A extensão do navegador envia o conteúdo indexado ao servidor Hister configurado, exceto pelo download de favicons. A busca semântica opcional envia o texto do documento ao endpoint de embeddings selecionado.</div></section>
+      <section class="disc-sec"><h2>Primeiro prompt</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Cole isto no seu agente (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Copiar prompt">Copiar</button></div><p class="disc-ai-text">Abra a interface local, indexe as páginas selecionadas com a extensão do navegador e verifique as pesquisas usando filtros de consulta.</p></div></section>
+      <section class="disc-sec"><h2>Instalação</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Tornar o binário executável</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>chmod +x hister</code></pre></div></section>
+      <section class="disc-sec"><h2>Execução</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Iniciar o servidor hister</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>./hister listen</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Acessar interface local</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>http://127.0.0.1:4433</code></pre></div></section>
+      <section class="disc-sec"><h2>Links</h2><ul class="disc-links"><li><a href="https://github.com/asciimoo/hister" target="_blank" rel="noopener">Repositório no GitHub →</a></li><li><a href="https://hister.org/docs/quickstart" target="_blank" rel="noopener">Início rápido →</a></li><li><a href="https://github.com/asciimoo/hister" target="_blank" rel="noopener">README de privacidade e uso →</a></li><li><a href="https://hister.org/posts/how-i-use-hister" target="_blank" rel="noopener">Fluxo de uso →</a></li><li><a href="https://trescout.com/discover/hister/">Ler em turco →</a></li></ul></section>
 <p class="disc-disclaimer">A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-25: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi <strong>traduzida automaticamente</strong> do original em turco · a versão turca é a que vale.</p>
 <aside class="disc-cta"><p><strong>A TreScout encontra ferramentas assim todos os dias.</strong> GitHub, Hacker News e HuggingFace são vasculhados e o essencial é resumido para você.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-pt" novalidate><div class="form-row"><input class="input" type="email" name="email" placeholder="Seu e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Acesso antecipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Li o <a href="/pt/privacy.html" target="_blank" rel="noopener">aviso de privacidade</a> e concordo com o tratamento do meu e-mail para esta finalidade.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/pt/discover/">Todas as descobertas →</a></aside>
 </article>

@@ -23953,7 +23953,7 @@
   {
     "slug": "claude-obsidian",
     "title": "Claude Obsidian",
-    "tagline": "Claude-obsidian é uma ferramenta que funciona no aplicativo de notas Obsidian e fornece gestão de conhecimento pessoal…",
+    "tagline": "Claude Code ve uyumlu Agent Skills sunucuları için yerel öncelikli bir bilgi sistemidir.",
     "meta": "★ 12.404 · Python",
     "image": "/assets/discover/og/claude-obsidian.webp",
     "source": "GitHub",
@@ -23962,20 +23962,228 @@
       "Geliştirici aracı"
     ],
     "stars": 12404,
-    "summary": "Claude-obsidian é uma ferramenta que funciona no aplicativo de notas Obsidian e fornece gestão de conhecimento pessoal (personal knowledge management) com suporte de inteligência artificial. Integrado ao Claude Code, ele analisa dados, estabelece conexões e os transforma em um gráfico de conhecimento organizado, oferecendo uma alternativa de código aberto a plataformas como o Notion.",
-    "lite": true,
-    "needs_enrichment": true,
-    "enrich_reason": "source_only",
-    "tagline_en": "Claude-obsidian is a tool that runs in the Obsidian note-taking app and provides personal knowledge management…",
-    "tagline_fr": "Claude-obsidian est un outil qui fonctionne dans l'application de notes Obsidian et fournit la gestion des connaissances personnelles…",
-    "tagline_pt": "Claude-obsidian é uma ferramenta que funciona no aplicativo de notas Obsidian e fornece gerenciamento de conhecimento pessoal…",
-    "tagline_es": "Claude-obsidian es una herramienta que funciona en la aplicación de notas Obsidian y ofrece gestión del conocimiento personal…",
-    "tagline_de": "Claude-obsidian ist ein Tool, das in der Notiz-App Obsidian läuft und persönliches Wissensmanagement bietet…"
+    "summary": "Claude Code ve uyumlu Agent Skills sunucuları için yerel öncelikli bir bilgi sistemidir. Kaynak materyallerini kaynak gösteren, bağlantılı Obsidian sayfalarına dönüştürür.",
+    "lite": false,
+    "tagline_en": "A local-first knowledge system for Claude Code and compatible Agent Skills servers.",
+    "tagline_fr": "Système d'information local privilégiant les sources pour les serveurs Claude Code et Agent Skills compatibles, convertissant les documents sources en pages Obsidian liées et sourcées.",
+    "tagline_pt": "Base de conhecimento local em Obsidian que preserva citações das fontes.",
+    "tagline_es": "Sistema de conocimiento local centrado en Claude Code y servidores Agent Skills compatibles; convierte materiales fuente en páginas enlazadas de Obsidian que citan las fuentes.",
+    "tagline_de": "Ein lokal-priorisiertes Wissenssystem für Claude Code und kompatible Agent Skills-Server; wandelt Quelldokumente in zitierende, verlinkte Obsidian-Seiten um.",
+    "headline": "Claude Code İçin Yerel Bilgi Sistemi",
+    "last_review": "2026-08-25",
+    "editorial": {
+      "overview": "Kaynak ve iddia defterleri, bağlantılı sayfalar ve bilgi haritalarıyla araştırma içeriğini düzenler. Paralel aracılar taslaklar üretir, bir orkestratör ise geri alınabilir bir işlemle onaylanan değişiklikleri uygular.",
+      "best_for": "Claude Code ile yerel, kaynak gösteren bir Obsidian bilgi tabanı oluşturmak isteyenler.",
+      "not_for": "Otomatik transkript kaydı, bulut senkronizasyonu, doğruluk garantisi veya yedekleme ve kaynak kontrolü yerine kullanım.",
+      "wins": [
+        "Yerel varsayılan çalışma ve açık ağ çıkışı yaklaşımı",
+        "Kaynak ve iddia defterleriyle kaynak gösteren, bağlantılı sayfalar",
+        "Onaylanmış değişiklikleri geri alınabilir işlemlerle uygulama"
+      ],
+      "first_run_steps": [
+        "Depoyu klonlayın ve Python 3.11 veya üzeri bir ortam hazırlayın",
+        "Ayrı bir vault için başlangıç planını oluşturun ve JSON planını inceleyin",
+        "approved_plan_sha256 değerini kontrol edip tam işlemi onaylayın",
+        "Vault'u Obsidian'da açın ve yerel eklentiyle Claude Code'u çalıştırın",
+        "Wiki akışını başlatıp kaynak ekleme, sorgulama ve açıkça kaydetme adımlarını kullanın"
+      ],
+      "safety_note": "Sistem bir doğruluk kaynağı değildir. Veriler için ayrıca yedekleme ve kaynak kontrolü kullanın; ağ çıkışı ve uygulanan planı gözden geçirin.",
+      "first_prompt": "Kaynakları kaynak ve iddia defterleriyle ilişkilendirerek yerel bir Obsidian wiki akışı başlat."
+    },
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Claude Code marketplace’ini ekle",
+          "komut": "claude plugin marketplace add AgriciDaniel/claude-obsidian"
+        },
+        {
+          "baslik": "Claude-obsidian eklentisini kur",
+          "komut": "claude plugin install claude-obsidian@agricidaniel-claude-obsidian"
+        },
+        {
+          "baslik": "Ayrı vault planını oluştur",
+          "komut": "python3 scripts/claude-obsidian.py init <new-vault> --generated-at <ISO-UTC> --operation-id init-reviewed"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Eklenti kurulumunu doğrula",
+          "komut": "claude plugin list"
+        },
+        {
+          "baslik": "Wiki akışını başlat",
+          "komut": "/claude-obsidian:wiki"
+        }
+      ],
+      "kaynak": "Resmî README ve dokümantasyon kaynakları: https://github.com/AgriciDaniel/claude-obsidian/blob/main/docs/install-guide.md, https://github.com/AgriciDaniel/claude-obsidian"
+    },
+    "sources": [
+      {
+        "url": "https://github.com/AgriciDaniel/claude-obsidian/blob/main/docs/install-guide.md",
+        "label": "Kurulum rehberi",
+        "label_en": "Installation guide",
+        "label_fr": "Guide d’installation",
+        "label_pt": "Guia de instalação",
+        "label_es": "Guía de instalación",
+        "label_de": "Installationsanleitung"
+      },
+      {
+        "url": "https://github.com/AgriciDaniel/claude-obsidian",
+        "label": "Resmî README",
+        "label_en": "Official README",
+        "label_fr": "README officiel",
+        "label_pt": "README oficial",
+        "label_es": "README oficial",
+        "label_de": "Offizielle README"
+      }
+    ],
+    "localized": {
+      "en": {
+        "headline": "Local Knowledge System for Claude Code",
+        "lead": "A local-first knowledge system for Claude Code and compatible Agent Skills servers. It converts source materials into citation-backed, linked Obsidian pages.",
+        "overview": "Organizes research content with source and claims ledgers, linked pages, and knowledge maps. Parallel agents generate drafts, while an orchestrator applies approved changes as reversible transactions.",
+        "best_for": "Anyone who wants to build a local, citation-backed Obsidian knowledge base with Claude Code.",
+        "not_for": "Not for automatic transcript logging, cloud synchronization, a guarantee of factual correctness, or as a replacement for backups and source control.",
+        "wins": [
+          "Local-first operation model and explicit network egress approach",
+          "Citation-backed, linked pages with source and claims ledgers",
+          "Apply approved changes via reversible transactions"
+        ],
+        "first_run_steps": [
+          "Clone the repository and prepare a Python 3.11 or newer environment",
+          "Create an init plan for a separate vault and review the JSON plan",
+          "Check the approved_plan_sha256 value and confirm the full operation",
+          "Open the vault in Obsidian and run Claude Code with the local plugin",
+          "Start the wiki flow and use the steps to add sources, query, and explicitly commit changes"
+        ],
+        "safety_note": "The system is not a source of truth. Use backups and source control for data; review network egress and the applied plan.",
+        "first_prompt": "Start a local Obsidian wiki workflow by associating sources with the source and claims ledgers.",
+        "commands": {
+          "Claude Code marketplace’ini ekle": "Add the Claude Code marketplace",
+          "Claude-obsidian eklentisini kur": "Install the claude-obsidian plugin",
+          "Ayrı vault planını oluştur": "Create an init plan for a separate vault",
+          "Eklenti kurulumunu doğrula": "Verify plugin installation",
+          "Wiki akışını başlat": "Start the wiki workflow"
+        }
+      },
+      "fr": {
+        "headline": "Système d'information local pour Claude Code",
+        "lead": "Crée une base Obsidian locale référencée à partir de documents sources et applique les modifications approuvées via des opérations réversibles.",
+        "overview": "Organise le contenu de recherche avec registres de sources et d'affirmations, pages liées et cartes de connaissances. Des agents parallèles produisent des ébauches, et un orchestrateur applique les modifications approuvées via une opération réversible.",
+        "best_for": "Ceux qui souhaitent créer une base de connaissances Obsidian locale et sourcée pour Claude Code.",
+        "not_for": "Ne remplace pas l'enregistrement automatique des transcriptions, la synchronisation cloud, une garantie d'exactitude ni les sauvegardes et le contrôle de version.",
+        "wins": [
+          "Fonctionnement local par défaut et approche explicite de sortie réseau",
+          "Pages liées et sourcées avec registres de sources et d'affirmations",
+          "Application des modifications approuvées via des opérations réversibles"
+        ],
+        "first_run_steps": [
+          "Clonez le dépôt et préparez un environnement Python 3.11 ou supérieur",
+          "Générez un plan initial pour un vault distinct et examinez le fichier JSON du plan",
+          "Vérifiez la valeur approved_plan_sha256 et approuvez l'opération complète",
+          "Ouvrez le vault dans Obsidian et exécutez Claude Code avec le plugin local",
+          "Démarrez le flux wiki et utilisez les étapes d'ajout de source, d'interrogation et d'enregistrement explicite"
+        ],
+        "safety_note": "Ce système n'est pas une source d'exactitude garantie. Utilisez des sauvegardes et le contrôle de version pour vos données; vérifiez les sorties réseau et le plan appliqué.",
+        "first_prompt": "Démarrez un flux wiki Obsidian local en liant les sources aux registres de sources et d'affirmations.",
+        "commands": {
+          "Claude Code marketplace’ini ekle": "Ajouter le marketplace Claude Code",
+          "Claude-obsidian eklentisini kur": "Installer le plugin claude-obsidian",
+          "Ayrı vault planını oluştur": "Générer le plan pour un vault distinct",
+          "Eklenti kurulumunu doğrula": "Vérifier l'installation du plugin",
+          "Wiki akışını başlat": "Démarrer le flux wiki"
+        }
+      },
+      "pt": {
+        "headline": "Sistema de Conhecimento Local para Claude Code",
+        "lead": "Sistema de conhecimento com prioridade local para Claude Code e servidores Agent Skills compatíveis. Converte materiais de referência em páginas interligadas do Obsidian que citam as fontes.",
+        "overview": "Organiza conteúdo de pesquisa com livros de fontes e alegações, páginas conectadas e mapas de conhecimento. Agentes paralelos geram rascunhos e um orquestrador aplica alterações aprovadas por meio de transações reversíveis.",
+        "best_for": "Pessoas que querem criar uma base de conhecimento Obsidian local e referenciada para uso com Claude Code.",
+        "not_for": "Registro automático de transcrições, sincronização em nuvem, garantia de veracidade ou substituição de backup e controle de versão.",
+        "wins": [
+          "Operação local por padrão e abordagem de saída de rede explícita",
+          "Páginas interligadas com citação de fontes usando livros de fontes e alegações",
+          "Aplicação de alterações aprovadas via transações reversíveis"
+        ],
+        "first_run_steps": [
+          "Clone o repositório e prepare um ambiente Python 3.11 ou superior",
+          "Crie um plano inicial para um vault separado e revise o plano JSON",
+          "Verifique o valor approved_plan_sha256 e confirme todo o procedimento",
+          "Abra o vault no Obsidian e execute Claude Code com o plugin local",
+          "Inicie o fluxo wiki usando etapas para adicionar fontes, consultar e salvar explicitamente"
+        ],
+        "safety_note": "O sistema não é uma fonte de verdade única. Use backup e controle de versão para seus dados; revise a saída de rede e o plano aplicado.",
+        "first_prompt": "Inicie um fluxo wiki local no Obsidian associando fontes aos livros de fontes e alegações.",
+        "commands": {
+          "Claude Code marketplace’ini ekle": "Adicionar o marketplace do Claude Code",
+          "Claude-obsidian eklentisini kur": "Instalar o plugin claude-obsidian",
+          "Ayrı vault planını oluştur": "Criar plano para vault separado",
+          "Eklenti kurulumunu doğrula": "Verificar instalação do plugin",
+          "Wiki akışını başlat": "Iniciar fluxo do wiki"
+        }
+      },
+      "es": {
+        "headline": "Sistema de información local para Claude Code",
+        "lead": "Organiza contenido de investigación en un vault de Obsidian enlazando fuentes y aplicando cambios aprobados mediante transacciones reversibles. Diseñado para priorizar el funcionamiento local y minimizar la dependencia de la nube.",
+        "overview": "Organiza el contenido de investigación con libros de fuentes y de reclamaciones, páginas enlazadas y mapas de conocimiento. Agentes paralelos generan borradores y un orquestador aplica los cambios aprobados mediante una operación reversible.",
+        "best_for": "Quienes quieran construir una base de conocimiento local y citada en Obsidian para uso con Claude Code.",
+        "not_for": "No es adecuado como sistema de registro automático de transcripciones, para sincronización en la nube, como garantía de exactitud ni como sustituto de copias de seguridad o control de versiones.",
+        "wins": [
+          "Diseñado para funcionar por defecto de forma local y con un enfoque de salida de red explícita",
+          "Genera páginas enlazadas que citan fuentes mediante libros de fuentes y de reclamaciones",
+          "Aplica cambios aprobados mediante operaciones que pueden revertirse"
+        ],
+        "first_run_steps": [
+          "Clona el repositorio y prepara un entorno con Python 3.11 o superior",
+          "Crea el plan inicial para un vault separado y revisa el plan JSON",
+          "Comprueba el valor approved_plan_sha256 y confirma el proceso completo",
+          "Abre el vault en Obsidian y ejecuta Claude Code con el plugin local",
+          "Inicia el flujo wiki y usa los pasos de agregar fuentes, consultar y guardar explícitamente"
+        ],
+        "safety_note": "El sistema no es una fuente de verdad. Usa además copias de seguridad y control de versiones para tus datos; revisa la salida de red y el plan aplicado.",
+        "first_prompt": "Inicia un flujo wiki local en Obsidian asociando las fuentes con libros de fuentes y de reclamaciones.",
+        "commands": {
+          "Claude Code marketplace’ini ekle": "Agregar el marketplace de Claude Code",
+          "Claude-obsidian eklentisini kur": "Instalar el plugin claude-obsidian",
+          "Ayrı vault planını oluştur": "Crear el plan para un vault separado",
+          "Eklenti kurulumunu doğrula": "Verificar la instalación del plugin",
+          "Wiki akışını başlat": "Iniciar el flujo wiki"
+        }
+      },
+      "de": {
+        "headline": "Lokales Wissenssystem für Claude Code",
+        "lead": "Organisiert Forschungsinhalte als Quellen- und Anspruchsbücher, verlinkte Seiten und Wissenskarten. Genehmigte Änderungen werden von einem Orchestrator in rückrollbaren Transaktionen angewendet.",
+        "overview": "Organisiert Forschungsinhalte mit Quellen- und Anspruchsregistern, verlinkten Seiten und Wissenskarten. Parallele Agenten generieren Entwürfe, während ein Orchestrator bestätigte Änderungen als rückrollbare Transaktionen anwendet, sodass Änderungen geprüft und zurückgenommen werden können.",
+        "best_for": "Alle, die mit Claude Code eine lokal gehostete, nach Quellen zitierende Wissensbasis in Obsidian aufbauen möchten.",
+        "not_for": "Automatische Transkriptaufzeichnung, Cloud-Synchronisation, Garantie der inhaltlichen Richtigkeit oder Ersatz für Backup- und Source-Control-Workflows.",
+        "wins": [
+          "Lokal-priorisiertes Arbeitsmodell und explizite Ausgabekontrolle über das Netzwerk",
+          "Quellen- und Anspruchsregister mit zitierenden, verlinkten Seiten",
+          "Angewandte, bestätigte Änderungen werden als rückrollbare Transaktionen ausgeführt"
+        ],
+        "first_run_steps": [
+          "Repository klonen und eine Python 3.11+-Umgebung einrichten",
+          "Einen Initialplan für ein separates Vault erstellen und die JSON-Plan-Datei prüfen",
+          "Den Wert approved_plan_sha256 kontrollieren und den vollständigen Ablauf bestätigen",
+          "Das Vault in Obsidian öffnen und das lokale Plugin mit Claude Code ausführen",
+          "Den Wiki-Workflow starten und die Schritte Hinzufügen von Quellen, Abfragen und explizitem Speichern verwenden"
+        ],
+        "safety_note": "Dieses System ist keine einzige Quelle der Wahrheit. Verwenden Sie zusätzliche Backups und Source-Control für Ihre Daten; prüfen Sie Netzwerk-Ausgaben und den angewendeten Plan.",
+        "first_prompt": "Starte einen lokalen Obsidian-Wiki-Workflow, wobei Quellen mit Quellen- und Anspruchsregistern verknüpft werden.",
+        "commands": {
+          "Claude Code marketplace’ini ekle": "Claude Code Marketplace hinzufügen",
+          "Claude-obsidian eklentisini kur": "Das Claude-obsidian-Plugin installieren",
+          "Ayrı vault planını oluştur": "Einen separaten Vault-Plan erstellen",
+          "Eklenti kurulumunu doğrula": "Plugin-Installation überprüfen",
+          "Wiki akışını başlat": "Wiki-Workflow starten"
+        }
+      }
+    }
   },
   {
     "slug": "marin",
     "title": "Marin",
-    "tagline": "Marin é uma estrutura Python de código aberto projetada para a pesquisa e desenvolvimento de modelos de base (foundation models).",
+    "tagline": "Temel modellerin araştırılması ve geliştirilmesi için bir araştırma programı, yazılım platformu ve topluluktur.",
     "meta": "★ 1.967 · Python",
     "image": "/assets/discover/og/marin.webp",
     "source": "GitHub",
@@ -23985,20 +24193,222 @@
       "Geliştirici aracı"
     ],
     "stars": 1967,
-    "summary": "Marin é uma estrutura Python de código aberto projetada para a pesquisa e desenvolvimento de modelos de base (foundation models). O seu objetivo é facilitar os processos de treinamento e otimização de modelos de inteligência artificial em larga escala.",
-    "lite": true,
-    "needs_enrichment": true,
-    "enrich_reason": "source_only",
-    "tagline_en": "Marin is an open-source Python framework designed for the research and development of base models (foundation models).",
-    "tagline_fr": "Marin est un framework Python open source conçu pour la recherche et le développement de modèles de base (foundation models).",
-    "tagline_pt": "Marin é uma estrutura Python de código aberto projetada para a pesquisa e desenvolvimento de modelos de base (foundation models).",
-    "tagline_es": "Marin es un framework Python de código abierto diseñado para la investigación y el desarrollo de modelos base (foundation models).",
-    "tagline_de": "Marin ist ein Open-Source-Python-Framework, das für Forschung und Entwicklung von Basismodellen (foundation models) entwickelt wurde."
+    "summary": "Temel modellerin araştırılması ve geliştirilmesi için bir araştırma programı, yazılım platformu ve topluluktur. Veri işlemeden ön eğitim, son eğitim ve değerlendirmeye uzanan kapsamı belgeler.",
+    "lite": false,
+    "tagline_en": "An open development platform and research program for foundational model work.",
+    "tagline_fr": "Programme, plateforme logicielle et communauté pour la recherche et le développement de modèles fondamentaux, couvrant du prétraitement des données à l'évaluation.",
+    "tagline_pt": "Plataforma aberta para pesquisa e desenvolvimento de modelos de base.",
+    "tagline_es": "Plataforma abierta de desarrollo y comunidad para la investigación y el desarrollo de modelos base, que documenta desde el procesamiento de datos hasta el preentrenamiento, fine-tuning y evaluación.",
+    "tagline_de": "Offene Entwicklungsplattform, Software und Community für Grundlagenmodellforschung; deckt Datenverarbeitung, Vortraining, Finetuning und Evaluierung ab.",
+    "headline": "Temel Model Araştırması İçin Açık Geliştirme Platformu",
+    "last_review": "2026-08-25",
+    "editorial": {
+      "overview": "Deneyleri bağımlı adımlar olarak topolojik sırada yürütür. Resmî ilk deney, TinyStories verisini tokenleştirip küçük bir dil modeli eğitmeyi gösterir; açık geliştirme yaklaşımı kodu, veriyi, kararları ve başarısız deneyleri de belgeler.",
+      "best_for": "Veri kürasyonu, dönüşümü, filtreleme, tokenleştirme, model eğitimi ve değerlendirme araştırmaları yapan ekipler.",
+      "not_for": "Temel model araştırması kapsamına girmeyen basit uygulama geliştirme işleri veya gerekli Python ve geliştirme ortamını kurmak istemeyenler.",
+      "wins": [
+        "Veri işlemeden ön eğitim, son eğitim ve değerlendirmeye uzanan araştırma kapsamı",
+        "Bağımlı adımları topolojik sırada yürüten deney iş akışı",
+        "Başarısız deneyleri ve geliştirme kararlarını da kapsayan açık dokümantasyon"
+      ],
+      "first_run_steps": [
+        "Resmî depoyu klonlayın ve Python 3.12 veya üzeri bir sanal ortam oluşturun",
+        "uv ile bağımlılıkları senkronize edin",
+        "MARIN_PREFIX ortam değişkenini yapılandırın",
+        "CPU üzerinde çevrimdışı TinyStories smoke testini çalıştırın"
+      ],
+      "safety_note": "CPU smoke testi yalnızca ilk doğrulama içindir. CPU, GPU ve TPU bağımlılıkları ayrı donanım ekleri gerektirebilir. WANDB_API_KEY ve HF_TOKEN yalnızca ilgili izleme veya kapalı model iş akışlarında gerekir.",
+      "first_prompt": "Çevrimdışı TinyStories akışıyla CPU üzerinde küçük bir model eğitimini ilk doğrulama olarak çalıştır."
+    },
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Resmî depoyu klonla",
+          "komut": "git clone https://github.com/marin-community/marin.git"
+        },
+        {
+          "baslik": "Python ortamını oluştur",
+          "komut": "uv venv --python 3.12"
+        },
+        {
+          "baslik": "Bağımlılıkları kur",
+          "komut": "uv sync --all-packages"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "CPU smoke testini çalıştır",
+          "komut": "wandb offline\nuv run python experiments/tutorials/train_tiny_model.py --device cpu --dataset tinystories --version dev --run"
+        }
+      ],
+      "kaynak": "Resmî README ve dokümantasyon kaynakları: https://marin.readthedocs.io/en/latest/tutorials/installation/, https://marin.readthedocs.io/en/latest/tutorials/first-experiment/, https://github.com/marin-community/marin"
+    },
+    "sources": [
+      {
+        "url": "https://marin.readthedocs.io/en/latest/tutorials/installation/",
+        "label": "Kurulum dokümantasyonu",
+        "label_en": "Installation documentation",
+        "label_fr": "Documentation d’installation",
+        "label_pt": "Documentação de instalação",
+        "label_es": "Documentación de instalación",
+        "label_de": "Installationsdokumentation"
+      },
+      {
+        "url": "https://marin.readthedocs.io/en/latest/tutorials/first-experiment/",
+        "label": "İlk deney",
+        "label_en": "First experiment",
+        "label_fr": "Première expérience",
+        "label_pt": "Primeiro experimento",
+        "label_es": "Primer experimento",
+        "label_de": "Erstes Experiment"
+      },
+      {
+        "url": "https://github.com/marin-community/marin",
+        "label": "Resmî README",
+        "label_en": "Official README",
+        "label_fr": "README officiel",
+        "label_pt": "README oficial",
+        "label_es": "README oficial",
+        "label_de": "Offizielle README"
+      }
+    ],
+    "localized": {
+      "en": {
+        "headline": "Open Development Platform for Foundational Model Research",
+        "lead": "A research program, software platform, and community for researching and developing foundation models. It documents scope from data processing through pretraining, finetuning, and evaluation.",
+        "overview": "Runs experiments as dependent steps in topological order. The official first experiment demonstrates tokenizing TinyStories data and training a small language model; the open development approach documents code, data, decisions, and failed experiments.",
+        "best_for": "Teams researching data curation, transformation, filtering, tokenization, model training, and evaluation.",
+        "not_for": "Not for simple application development outside foundational model research, or for those unwilling to set up the required Python and development environment.",
+        "wins": [
+          "Research scope spanning data processing through pretraining, finetuning, and evaluation",
+          "Experiment workflow that executes dependent steps in topological order",
+          "Open documentation covering failed experiments and development decisions"
+        ],
+        "first_run_steps": [
+          "Clone the official repository and create a virtual environment with Python 3.12 or newer",
+          "Synchronize dependencies with uv",
+          "Configure the MARIN_PREFIX environment variable",
+          "Run the offline TinyStories smoke test on CPU"
+        ],
+        "safety_note": "The CPU smoke test is only for initial validation. CPU, GPU, and TPU dependencies may require separate hardware add-ons. WANDB_API_KEY and HF_TOKEN are needed only for respective tracking or closed-model workflows.",
+        "first_prompt": "Run training of a small model on CPU with the offline TinyStories flow as an initial validation.",
+        "commands": {
+          "Resmî depoyu klonla": "Clone the official repository",
+          "Python ortamını oluştur": "Create the Python virtual environment",
+          "Bağımlılıkları kur": "Sync dependencies with uv",
+          "CPU smoke testini çalıştır": "Run the CPU smoke test"
+        }
+      },
+      "fr": {
+        "headline": "Plateforme de développement ouverte pour la recherche sur les modèles fondamentaux",
+        "lead": "Plateforme et ensemble d'outils pour expérimenter les étapes allant du traitement des données à l'entraînement et à l'évaluation des modèles fondamentaux.",
+        "overview": "Exécute les expériences comme une séquence d'étapes dépendantes dans un ordre topologique. L'exemple officiel montre la tokenisation de TinyStories et l'entraînement d'un petit modèle de langage; l'approche de développement ouverte documente aussi le code, les données, les décisions et les essais infructueux.",
+        "best_for": "Équipes menant des recherches sur la curation, la transformation et le filtrage de données, la tokenisation, l'entraînement de modèles et l'évaluation.",
+        "not_for": "Pas destiné au développement d'applications simples hors du périmètre de la recherche sur les modèles fondamentaux, ni aux utilisateurs qui ne veulent pas configurer Python et l'environnement de développement requis.",
+        "wins": [
+          "Portée de recherche couvrant le traitement des données, le pré‑entraînement, le fine‑tuning et l'évaluation",
+          "Flux d'expérimentation qui exécute les étapes dépendantes dans un ordre topologique",
+          "Documentation ouverte couvrant également les expériences infructueuses et les décisions de développement"
+        ],
+        "first_run_steps": [
+          "Clonez le dépôt officiel et créez un environnement virtuel Python 3.12 ou supérieur",
+          "Synchronisez les dépendances avec uv",
+          "Configurez la variable d'environnement MARIN_PREFIX",
+          "Exécutez le test smoke TinyStories hors ligne sur le CPU"
+        ],
+        "safety_note": "Le test smoke CPU sert uniquement à la validation initiale. Les dépendances CPU, GPU et TPU peuvent nécessiter des matériels additionnels distincts. WANDB_API_KEY et HF_TOKEN ne sont nécessaires que pour le suivi ou les workflows avec modèles fermés.",
+        "first_prompt": "Lancez comme première validation l'entraînement d'un petit modèle sur CPU avec le flux TinyStories hors ligne.",
+        "commands": {
+          "Resmî depoyu klonla": "Cloner le dépôt officiel",
+          "Python ortamını oluştur": "Créer l'environnement Python",
+          "Bağımlılıkları kur": "Installer les dépendances",
+          "CPU smoke testini çalıştır": "Exécuter le test smoke CPU"
+        }
+      },
+      "pt": {
+        "headline": "Plataforma Aberta de Desenvolvimento para Pesquisa de Modelos de Base",
+        "lead": "Programa de pesquisa, plataforma de software e comunidade para investigar e desenvolver modelos de base. Documenta o escopo desde o processamento de dados até pré-treinamento, fine-tuning e avaliação.",
+        "overview": "Executa experimentos como passos dependentes em ordem topológica. O experimento inicial oficial demonstra tokenização do TinyStories e o treinamento de um pequeno modelo de linguagem; a abordagem de desenvolvimento aberto documenta código, dados, decisões e experimentos malsucedidos.",
+        "best_for": "Equipes que pesquisam curadoria, transformação, filtragem de dados, tokenização, treinamento de modelos e avaliação.",
+        "not_for": "Trabalhos de desenvolvimento de aplicações simples que não fazem parte de pesquisa de modelos de base ou para quem não quer configurar o ambiente Python e de desenvolvimento necessário.",
+        "wins": [
+          "Cobertura de pesquisa do processamento de dados ao pré-treinamento, fine-tuning e avaliação",
+          "Fluxo de trabalho de experimentos que executa passos dependentes em ordem topológica",
+          "Documentação aberta que inclui experimentos fracassados e decisões de desenvolvimento"
+        ],
+        "first_run_steps": [
+          "Clone o repositório oficial e crie um ambiente virtual Python 3.12 ou superior",
+          "Sincronize dependências com uv",
+          "Configure a variável de ambiente MARIN_PREFIX",
+          "Execute o teste rápido (smoke test) offline do TinyStories na CPU"
+        ],
+        "safety_note": "O teste rápido na CPU é apenas para verificação inicial. Dependências para CPU, GPU e TPU podem exigir anexos de hardware separados. WANDB_API_KEY e HF_TOKEN são necessários somente para fluxos de monitoramento ou modelos fechados correspondentes.",
+        "first_prompt": "Execute como verificação inicial o fluxo TinyStories offline treinando um pequeno modelo na CPU.",
+        "commands": {
+          "Resmî depoyu klonla": "Clonar repositório oficial",
+          "Python ortamını oluştur": "Criar ambiente Python",
+          "Bağımlılıkları kur": "Instalar dependências",
+          "CPU smoke testini çalıştır": "Executar smoke test na CPU"
+        }
+      },
+      "es": {
+        "headline": "Plataforma de desarrollo abierta para investigación de modelos base",
+        "lead": "Ejecuta experimentos como pasos dependientes en orden topológico y documenta código, datos, decisiones y experimentos fallidos. La primera guía oficial muestra cómo tokenizar TinyStories y entrenar un modelo de lenguaje pequeño.",
+        "overview": "Ejecuta experimentos como pasos dependientes en orden topológico. El primer experimento oficial demuestra la tokenización de TinyStories y el entrenamiento de un modelo de lenguaje pequeño; el enfoque de desarrollo abierto también documenta el código, los datos, las decisiones y los experimentos fallidos.",
+        "best_for": "Equipos que investigan curación, transformación y filtrado de datos, tokenización, entrenamiento de modelos y evaluación.",
+        "not_for": "Tareas de desarrollo de aplicaciones simples que no forman parte de la investigación de modelos base, o quienes no quieran configurar el entorno de Python y las herramientas de desarrollo necesarias.",
+        "wins": [
+          "Cobertura de investigación desde el procesamiento de datos hasta el preentrenamiento, fine-tuning y evaluación",
+          "Flujo de experimentos que ejecuta pasos dependientes en orden topológico",
+          "Documentación abierta que incluye experimentos fallidos y decisiones de desarrollo"
+        ],
+        "first_run_steps": [
+          "Clona el repositorio oficial y crea un entorno virtual con Python 3.12 o superior",
+          "Sincroniza las dependencias con uv",
+          "Configura la variable de entorno MARIN_PREFIX",
+          "Ejecuta la prueba smoke offline de TinyStories en CPU"
+        ],
+        "safety_note": "La prueba smoke en CPU es sólo para la verificación inicial. Las dependencias para CPU, GPU y TPU pueden requerir hardware adicional. WANDB_API_KEY y HF_TOKEN sólo son necesarios para flujos de monitorización o modelos cerrados correspondientes.",
+        "first_prompt": "Ejecuta como verificación inicial el flujo offline de TinyStories entrenando un modelo pequeño en CPU.",
+        "commands": {
+          "Resmî depoyu klonla": "Clonar el repositorio oficial",
+          "Python ortamını oluştur": "Crear el entorno Python",
+          "Bağımlılıkları kur": "Instalar las dependencias",
+          "CPU smoke testini çalıştır": "Ejecutar la prueba smoke en CPU"
+        }
+      },
+      "de": {
+        "headline": "Offene Entwicklungsplattform für Grundlagenmodellforschung",
+        "lead": "Führt Experimente als abhängige Schritte in topologischer Reihenfolge aus und demonstriert mit TinyStories ein vollständiges Einstiegsbeispiel. Die offene Entwicklungsphilosophie dokumentiert Code, Daten, Entscheidungen und fehlgeschlagene Experimente.",
+        "overview": "Führt Experimente als abhängige Schritte in topologischer Reihenfolge durch. Das offizielle erste Experiment zeigt das Tokenisieren der TinyStories-Daten und das Trainieren eines kleinen Sprachmodells; die offene Entwicklungsweise dokumentiert dabei Code, Daten, Entscheidungen und auch gescheiterte Läufe.",
+        "best_for": "Teams, die Forschung zu Datenkuration, -transformation, Filterung, Tokenisierung, Modelltraining und Evaluierung durchführen.",
+        "not_for": "Einfache Anwendungsentwicklung außerhalb der Grundlagenmodellforschung oder Nutzer, die keine Python- und Entwicklungsumgebung einrichten möchten.",
+        "wins": [
+          "Forschungsumfang von Datenverarbeitung über Vortraining, Finetuning bis zur Evaluierung",
+          "Experiment-Workflow, der abhängige Schritte in topologischer Reihenfolge ausführt",
+          "Offene Dokumentation, die auch fehlgeschlagene Experimente und Entwicklungsentscheidungen einschließt"
+        ],
+        "first_run_steps": [
+          "Das offizielle Repository klonen und eine virtuelle Python-Umgebung mit Python 3.12+ erstellen",
+          "Abhängigkeiten mit uv synchronisieren",
+          "Die Umgebungsvariable MARIN_PREFIX konfigurieren",
+          "Den TinyStories-CPU-Offline-Smoketest ausführen"
+        ],
+        "safety_note": "Der CPU-Smoketest dient nur der ersten Validierung. CPU-, GPU- und TPU-Abhängigkeiten können jeweils zusätzliche Hardware-Setups erfordern. WANDB_API_KEY und HF_TOKEN werden nur für zugehörige Monitoring- oder geschlossene Modell-Workflows benötigt.",
+        "first_prompt": "Führe zur ersten Validierung den TinyStories-Offline-Workflow aus, um auf CPU ein kleines Modell zu trainieren.",
+        "commands": {
+          "Resmî depoyu klonla": "Offizielles Repository klonen",
+          "Python ortamını oluştur": "Python-Umgebung erstellen",
+          "Bağımlılıkları kur": "Abhängigkeiten installieren",
+          "CPU smoke testini çalıştır": "CPU Smoke-Test ausführen"
+        }
+      }
+    }
   },
   {
     "slug": "ponytail",
     "title": "Ponytail",
-    "tagline": "Yapay zekâ ajanları için kod yazımını azaltan araç",
+    "tagline": "Yapay zekâ kodlama aracıları için MIT lisanslı bir kural seti ve eklenti sistemidir.",
     "meta": "★ 110.483 · JavaScript",
     "image": "/assets/discover/og/ponytail.webp",
     "source": "GitHub",
@@ -24007,20 +24417,213 @@
       "Geliştirici aracı"
     ],
     "stars": 110483,
-    "summary": "Ponytail, yapay zekâ ajanlarının kod yazma sürecini azaltarak gereksiz iş yüklerini önleyen bir JavaScript aracıdır. En iyi kodun hiç yazılmamış kod olduğu felsefesini benimseyen bu araç, ajanların daha az kodla çözümler üretmesini sağlar.",
-    "lite": true,
-    "needs_enrichment": true,
-    "enrich_reason": "source_only",
-    "tagline_en": "Tool that reduces coding for AI agents",
-    "tagline_fr": "Outil qui réduit la rédaction de code pour les agents d'intelligence artificielle",
-    "tagline_pt": "Ferramenta que reduz a escrita de código para agentes de IA",
-    "tagline_es": "Herramienta que reduce la escritura de código para agentes de inteligencia artificial",
-    "tagline_de": "Ein Werkzeug, das den Codeaufwand für KI-Agenten reduziert"
+    "summary": "Yapay zekâ kodlama aracıları için MIT lisanslı bir kural seti ve eklenti sistemidir. Amaç, görev için gereken kodu yazarken doğrulama, hata yönetimi, güvenlik ve erişilebilirliği korumaktır.",
+    "lite": false,
+    "tagline_en": "An MIT-licensed rule set and plugin system for AI coding agents.",
+    "tagline_fr": "Jeu de règles sous licence MIT et système de plugins pour agents de codage IA visant à préserver validation, gestion des erreurs, sécurité et accessibilité.",
+    "tagline_pt": "Conjunto de regras MIT para agentes de codificação com foco em verificação e segurança.",
+    "tagline_es": "Conjunto de reglas con licencia MIT y sistema de plugins para agentes de codificación con IA; busca preservar validación, manejo de errores, seguridad y accesibilidad al generar código.",
+    "tagline_de": "MIT-lizenzierter Regelsatz und Plugin-System für KI-Codieragenten, entwickelt, um Validierung, Fehlerbehandlung, Sicherheit und Zugänglichkeit beim Codieren zu bewahren.",
+    "headline": "Yapay Zekâ Kodlama Aracıları İçin Kural Seti",
+    "last_review": "2026-08-25",
+    "editorial": {
+      "overview": "Kural merdiveni, değişiklikten etkilenen kod okunduktan sonra uygulanır. Düzeltilmiş agentic benchmark, gerçek bir FastAPI ve React deposundaki 12 görevde Haiku 4.5 ile no-skill temel çizgisine göre ortalama yüzde 54 daha az kod satırı, yüzde 22 daha az token, yüzde 20 daha düşük maliyet ve yüzde 27 daha kısa süre bildirmiştir. Bu sonuçlar belirli test koşullarıyla sınırlıdır.",
+      "best_for": "Claude Code, Codex, Gemini CLI ve desteklenen diğer agent host'larında kodlama akışına doğrulama, güvenlik ve erişilebilirlik kuralları eklemek isteyenler.",
+      "not_for": "Belirli benchmark sonuçlarını tüm projelere genellemek veya kritik üretim değişikliklerini insan incelemesi olmadan uygulamak.",
+      "wins": [
+        "Gereksiz kodu azaltmayı hedefleyen görev odaklı kurallar",
+        "Doğrulama, hata yönetimi, güvenlik ve erişilebilirliği koruyan inceleme yaklaşımı",
+        "Claude Code, Codex, Gemini CLI ve diğer host'lar için eklenti veya talimat adaptörleri"
+      ],
+      "first_run_steps": [
+        "Kullandığınız agent host için Ponytail entegrasyonunu kurun",
+        "Kurulumun host içinde etkin olduğunu doğrulayın",
+        "Uygun Ponytail düzeyini seçin",
+        "Değişiklikler üzerinde inceleme veya denetim akışını çalıştırın"
+      ],
+      "safety_note": "Yüzdeler, gerçek bir FastAPI ve React deposundaki 12 görev, Haiku 4.5 ve n=4 koşullarındaki düzeltilmiş agentic benchmark ortalamalarıdır. Ayrı adversarial katmanda yüzde 100 güvenlik bildirilmiştir. Eski tek atımlı yüzde 80 ile 94 aralığı genel ortalama değildir.",
+      "first_prompt": "Görevin gerektirdiği kadar kod yaz, ardından değişiklikleri doğrulama, hata yönetimi, güvenlik ve erişilebilirlik açısından incele."
+    },
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Claude Code marketplace’ini ekle",
+          "komut": "/plugin marketplace add DietrichGebert/ponytail"
+        },
+        {
+          "baslik": "Claude Code eklentisini kur",
+          "komut": "/plugin install ponytail@ponytail"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Ponytail düzeyini seç",
+          "komut": "/ponytail full"
+        },
+        {
+          "baslik": "Diff incelemesini başlat",
+          "komut": "/ponytail-review"
+        }
+      ],
+      "kaynak": "Resmî README ve dokümantasyon kaynakları: https://github.com/DietrichGebert/ponytail, https://github.com/DietrichGebert/ponytail/blob/main/benchmarks/results/2026-06-18-agentic.md"
+    },
+    "sources": [
+      {
+        "url": "https://github.com/DietrichGebert/ponytail",
+        "label": "Resmî README",
+        "label_en": "Official README",
+        "label_fr": "README officiel",
+        "label_pt": "README oficial",
+        "label_es": "README oficial",
+        "label_de": "Offizielle README"
+      },
+      {
+        "url": "https://github.com/DietrichGebert/ponytail/blob/main/benchmarks/results/2026-06-18-agentic.md",
+        "label": "Agentic benchmark yöntemi",
+        "label_en": "Agentic benchmark method",
+        "label_fr": "Méthode du benchmark agentique",
+        "label_pt": "Método do benchmark agêntico",
+        "label_es": "Método del benchmark agéntico",
+        "label_de": "Methode des agentischen Benchmarks"
+      }
+    ],
+    "localized": {
+      "en": {
+        "headline": "Rule Set for AI Coding Agents",
+        "lead": "An MIT-licensed rule set and plugin system for AI coding agents. Its aim is to preserve validation, error handling, security, and accessibility while writing only the code required for a task.",
+        "overview": "The rule ladder is applied after reading the code affected by a change. The adjusted agentic benchmark reported, on 12 tasks in a real FastAPI and React repository with Haiku 4.5 versus a no-skill baseline, an average of 54% fewer lines of code, 22% fewer tokens, 20% lower cost, and 27% shorter time. These results are limited to specific test conditions.",
+        "best_for": "Those who want to add validation, security, and accessibility rules to coding workflows on Claude Code, Codex, Gemini CLI, and other supported agent hosts.",
+        "not_for": "Not for generalizing specific benchmark results to all projects or for applying critical production changes without human review.",
+        "wins": [
+          "Task-focused rules aimed at reducing unnecessary code",
+          "A review approach that preserves validation, error handling, security, and accessibility",
+          "Plugins or instruction adapters for Claude Code, Codex, Gemini CLI, and other hosts"
+        ],
+        "first_run_steps": [
+          "Install the Ponytail integration for your agent host",
+          "Verify that the installation is active inside the host",
+          "Choose the appropriate Ponytail level",
+          "Run review or audit flows on changes"
+        ],
+        "safety_note": "Percentages are the adjusted agentic benchmark averages on 12 tasks in a real FastAPI and React repository, with Haiku 4.5 and n=4. A separate adversarial tier reported 100% safety. The previous single-shot 80–94% range is not a general average.",
+        "first_prompt": "Write only the code required by the task, then review changes for validation, error handling, security, and accessibility.",
+        "commands": {
+          "Claude Code marketplace’ini ekle": "Add the Claude Code marketplace",
+          "Claude Code eklentisini kur": "Install the Claude Code plugin",
+          "Ponytail düzeyini seç": "Select the Ponytail level",
+          "Diff incelemesini başlat": "Start diff review"
+        }
+      },
+      "fr": {
+        "headline": "Jeu de règles pour agents de codage IA",
+        "lead": "Ensemble de règles et système de plugins conçus pour appliquer la validation, la gestion des erreurs, la sécurité et l'accessibilité dans les flux de codage assistés par IA.",
+        "overview": "L'escalier de règles est appliqué après lecture du code affecté par une modification. Le benchmark agentic corrigé a rapporté, sur 12 tâches d'un dépôt réel FastAPI et React avec Haiku 4.5 versus la ligne de base no‑skill, en moyenne 54 % de lignes de code en moins, 22 % de tokens en moins, 20 % de coût en moins et 27 % de durée en moins. Ces résultats sont limités à des conditions de test spécifiques.",
+        "best_for": "Ceux qui souhaitent ajouter des règles de validation, sécurité et accessibilité aux flux de codage sur Claude Code, Codex, Gemini CLI et autres hôtes d'agents pris en charge.",
+        "not_for": "Ne doit pas être utilisé pour généraliser des résultats de benchmark à tous les projets ni pour appliquer des modifications critiques en production sans revue humaine.",
+        "wins": [
+          "Règles ciblées sur la tâche visant à réduire le code inutile",
+          "Approche de revue qui préserve la validation, la gestion des erreurs, la sécurité et l'accessibilité",
+          "Plugins ou adaptateurs d'instructions pour Claude Code, Codex, Gemini CLI et autres hôtes"
+        ],
+        "first_run_steps": [
+          "Installez l'intégration Ponytail pour votre hôte d'agent",
+          "Vérifiez que l'installation est active dans l'hôte",
+          "Sélectionnez le niveau Ponytail approprié",
+          "Exécutez le flux de revue ou d'audit sur les modifications"
+        ],
+        "safety_note": "Les pourcentages sont des moyennes du benchmark agentic corrigé sur 12 tâches d'un dépôt réel FastAPI et React, avec Haiku 4.5 et n=4. Une couche adversariale distincte a rapporté une sécurité à 100 %. La fourchette 80–94 % du mode one‑shot antérieur n'est pas une moyenne générale.",
+        "first_prompt": "Écris seulement le code nécessaire à la tâche, puis révise les modifications pour validation, gestion des erreurs, sécurité et accessibilité.",
+        "commands": {
+          "Claude Code marketplace’ini ekle": "Ajouter le marketplace Claude Code",
+          "Claude Code eklentisini kur": "Installer le plugin Claude Code",
+          "Ponytail düzeyini seç": "Sélectionner le niveau Ponytail",
+          "Diff incelemesini başlat": "Démarrer la revue de diff"
+        }
+      },
+      "pt": {
+        "headline": "Conjunto de Regras para Agentes de Codificação com IA",
+        "lead": "Conjunto de regras e sistema de plugins com licença MIT para agentes de codificação por IA. Destina-se a preservar verificação, tratamento de erros, segurança e acessibilidade enquanto os agentes escrevem código necessário.",
+        "overview": "A escada de regras é aplicada depois que o código afetado pela mudança é lido. Um benchmark agentic corrigido reportou, em um repositório real FastAPI + React com 12 tarefas usando Haiku 4.5, médias como 54% menos linhas de código, 22% menos tokens, 20% menor custo e 27% menor duração em relação à linha de base no-skill; esses resultados são limitados às condições de teste especificadas.",
+        "best_for": "Quem quer adicionar regras de verificação, segurança e acessibilidade a fluxos de codificação em Claude Code, Codex, Gemini CLI e outros hosts de agentes suportados.",
+        "not_for": "Generalizar resultados específicos de benchmark para todos os projetos ou aplicar mudanças críticas de produção sem revisão humana.",
+        "wins": [
+          "Regras orientadas a tarefas que visam reduzir código desnecessário",
+          "Abordagem de revisão que preserva verificação, tratamento de erros, segurança e acessibilidade",
+          "Plugins ou adaptadores de instrução para Claude Code, Codex, Gemini CLI e outros hosts"
+        ],
+        "first_run_steps": [
+          "Instale a integração Ponytail para o host de agente que você usa",
+          "Verifique que a instalação está ativa dentro do host",
+          "Selecione o nível apropriado do Ponytail",
+          "Execute o fluxo de revisão ou auditoria sobre as alterações"
+        ],
+        "safety_note": "As porcentagens são médias do benchmark agentic corrigido em 12 tarefas de um repositório FastAPI + React com Haiku 4.5 e n=4. Uma camada adversarial separada relatou 100% de segurança. As faixas únicas históricas de 80% a 94% não representam uma média geral.",
+        "first_prompt": "Escreva apenas o código necessário para a tarefa, então revise as alterações quanto à verificação, tratamento de erros, segurança e acessibilidade.",
+        "commands": {
+          "Claude Code marketplace’ini ekle": "Adicionar o marketplace do Claude Code",
+          "Claude Code eklentisini kur": "Instalar o plugin do Claude Code",
+          "Ponytail düzeyini seç": "Selecionar nível do Ponytail",
+          "Diff incelemesini başlat": "Iniciar revisão de diff"
+        }
+      },
+      "es": {
+        "headline": "Conjunto de reglas para agentes de codificación con IA",
+        "lead": "Aplica reglas orientadas a tareas para reducir código innecesario y garantizar validación, seguridad y accesibilidad durante el flujo de codificación agentic. Está pensado para integrarse como plugin o adaptador en varios host de agentes.",
+        "overview": "La escalera de reglas se aplica después de leer el código afectado por un cambio. Un benchmark agentic corregido informó que, en 12 tareas sobre un repositorio real de FastAPI y React con Haiku 4.5, el promedio fue un 54% menos de líneas de código, un 22% menos de tokens, un 20% menos de coste y un 27% menos de tiempo frente a la línea base sin habilidades; estos resultados están limitados a condiciones de prueba específicas.",
+        "best_for": "Quienes quieran añadir reglas de validación, seguridad y accesibilidad al flujo de codificación en Claude Code, Codex, Gemini CLI y otros host de agentes compatibles.",
+        "not_for": "Generalizar resultados de benchmarks específicos a todos los proyectos o aplicar cambios críticos de producción sin revisión humana.",
+        "wins": [
+          "Reglas centradas en tareas para reducir código innecesario",
+          "Enfoque de revisión que preserva validación, manejo de errores, seguridad y accesibilidad",
+          "Plugins o adaptadores de instrucciones para Claude Code, Codex, Gemini CLI y otros host"
+        ],
+        "first_run_steps": [
+          "Instala la integración de Ponytail para el host de agentes que utilices",
+          "Verifica que la instalación esté activa dentro del host",
+          "Elige el nivel de Ponytail adecuado",
+          "Ejecuta un flujo de revisión o auditoría sobre los cambios"
+        ],
+        "safety_note": "Los porcentajes provienen de promedios de un benchmark agentic corregido en 12 tareas sobre un repositorio real de FastAPI y React, con Haiku 4.5 y n=4. Se informó seguridad del 100% en una capa adversarial separada. El rango único antiguo del 80% al 94% no representa una media general.",
+        "first_prompt": "Escribe sólo el código necesario para la tarea y luego revisa los cambios en términos de validación, manejo de errores, seguridad y accesibilidad.",
+        "commands": {
+          "Claude Code marketplace’ini ekle": "Agregar el marketplace de Claude Code",
+          "Claude Code eklentisini kur": "Instalar el plugin de Claude Code",
+          "Ponytail düzeyini seç": "Seleccionar el nivel de Ponytail",
+          "Diff incelemesini başlat": "Iniciar la revisión de diffs"
+        }
+      },
+      "de": {
+        "headline": "Regelsatz für KI-Codieragenten",
+        "lead": "Ein MIT-lizenziertes Regelwerk und Plugin-System, das bei Agenten-gesteuerten Codieraufgaben Validierung, Fehlerbehandlung, Sicherheit und Barrierefreiheit sicherstellen soll. Regeln werden angewendet, nachdem der betroffene Code gelesen wurde.",
+        "overview": "Die Regel-Hierarchie wird angewendet, nachdem der von Änderungen betroffene Code gelesen wurde. Ein korrigierter agentic Benchmark berichtete in einem realen FastAPI- und React-Repository über 12 Aufgaben im Vergleich zur no-skill-Baseline mit Haiku 4.5 im Mittel 54 % weniger Codezeilen, 22 % weniger Tokens, 20 % geringere Kosten und 27 % kürzere Laufzeit. Diese Ergebnisse sind auf die angegebenen Testbedingungen beschränkt.",
+        "best_for": "Nutzer, die in Claude Code, Codex, Gemini CLI und unterstützten Agent-Host-Umgebungen Validierungs-, Sicherheits- und Zugänglichkeitsregeln in Codier-Workflows integrieren möchten.",
+        "not_for": "Die Verallgemeinerung spezifischer Benchmark-Ergebnisse auf alle Projekte oder das Anwenden kritischer Produktionsänderungen ohne menschliche Review.",
+        "wins": [
+          "Aufgabenorientierte Regeln, die unnötigen Code reduzieren sollen",
+          "Review-Ansatz, der Validierung, Fehlerbehandlung, Sicherheit und Zugänglichkeit schützt",
+          "Plugins oder Instruction-Adapter für Claude Code, Codex, Gemini CLI und andere Host-Umgebungen"
+        ],
+        "first_run_steps": [
+          "Die Ponytail-Integration für den verwendeten Agent-Host einrichten",
+          "Bestätigen, dass die Installation innerhalb des Hosts aktiv ist",
+          "Das passende Ponytail-Level auswählen",
+          "Review- oder Audit-Workflows über Änderungen ausführen"
+        ],
+        "safety_note": "Die Prozentangaben stammen von einem korrigierten agentic Benchmark über 12 Aufgaben in einem realen FastAPI- und React-Repository mit Haiku 4.5 und n=4. In einer separaten adversarial-Schicht wurde 100% Sicherheit berichtet. Die früher berichteten Einzeldurchläufe im Bereich 80–94% sind kein allgemeiner Mittelwert.",
+        "first_prompt": "Schreibe so viel Code, wie die Aufgabe verlangt, und überprüfe anschließend die Änderungen auf Validierung, Fehlerbehandlung, Sicherheit und Zugänglichkeit.",
+        "commands": {
+          "Claude Code marketplace’ini ekle": "Claude Code Marketplace hinzufügen",
+          "Claude Code eklentisini kur": "Claude Code-Plugin installieren",
+          "Ponytail düzeyini seç": "Ponytail-Stufe wählen",
+          "Diff incelemesini başlat": "Diff-Überprüfung starten"
+        }
+      }
+    }
   },
   {
     "slug": "hister",
     "title": "Hister",
-    "tagline": "Go ile geliştirilmiş kişisel arama motoru altyapısı",
+    "tagline": "Kullanıcının ziyaret ettiği sayfalar ve sakladığı dosyalar için AGPLv3 lisanslı özel bir arama motorudur.",
     "meta": "★ 2.620 · Go",
     "image": "/assets/discover/og/hister.webp",
     "source": "GitHub",
@@ -24029,14 +24632,207 @@
       "Geliştirici aracı"
     ],
     "stars": 2620,
-    "summary": "Hister, Go programlama diliyle geliştirilmiş bir kişisel arama motoru altyapısıdır. Kullanıcıların web üzerinde bağımsız aramalar yapabilmesi için kendi dizinlerini oluşturmalarına olanak tanır.",
-    "lite": true,
-    "needs_enrichment": true,
-    "enrich_reason": "source_only",
-    "tagline_en": "Personal search engine infrastructure built with Go",
-    "tagline_fr": "Infrastructure de moteur de recherche personnel développée en Go",
-    "tagline_pt": "Infraestrutura de mecanismo de busca pessoal desenvolvida em Go",
-    "tagline_es": "Infraestructura para motor de búsqueda personal desarrollada en Go",
-    "tagline_de": "In Go entwickelte Infrastruktur für eine persönliche Suchmaschine"
+    "summary": "Kullanıcının ziyaret ettiği sayfalar ve sakladığı dosyalar için AGPLv3 lisanslı özel bir arama motorudur. Tam metin indeksleme, gelişmiş sorgu filtreleri ve isteğe bağlı anlamsal arama sunar.",
+    "lite": false,
+    "tagline_en": "An AGPLv3 private search engine for pages you visit and files you store.",
+    "tagline_fr": "Moteur de recherche privé AGPLv3 pour les pages visitées et les fichiers stockés, avec indexation pleine‑texte, filtres avancés et recherche sémantique optionnelle.",
+    "tagline_pt": "Busca privada AGPLv3 para páginas visitadas e arquivos pessoais.",
+    "tagline_es": "Motor de búsqueda privado con licencia AGPLv3 para las páginas visitadas y archivos guardados por el usuario; ofrece indexación de texto completo, filtros avanzados y búsqueda semántica opcional.",
+    "tagline_de": "AGPLv3-lizenzierter privater Suchmotor für besuchte Seiten und persönliche Dateien mit Volltextindexierung, erweiterten Filtern und optionaler semantischer Suche.",
+    "headline": "Kişisel Sayfa ve Dosyalar İçin Özel Arama Motoru",
+    "last_review": "2026-08-25",
+    "editorial": {
+      "overview": "Hister yerel olarak veya kontrol ettiğiniz altyapıda çalışabilir; zorunlu bir bulut servisi ve telemetri gerektirmez. Chrome ve Firefox eklentileriyle sayfaları indeksler, web sitesi tarama ve tarayıcı geçmişi içe aktarma seçenekleri sunar. Anlamsal arama etkinleştirilirse metin, seçilen embeddings uç noktasına gönderilir.",
+      "best_for": "Web sayfalarını ve kişisel dosyaları kendi kontrolündeki bir arama altyapısında sorgulamak isteyenler.",
+      "not_for": "Zorunlu bulut hizmeti veya telemetri isteyen kullanım senaryoları ya da içeriğin yapılandırılmış Hister sunucusuna gönderilmesine izin verilmeyen tarayıcı indeksleme akışları.",
+      "wins": [
+        "Yerel veya kontrol edilen altyapıda, telemetri ve zorunlu bulut hizmeti olmadan çalışma",
+        "Tam metin, alan filtreleri, ifadeler, joker karakterler, olumsuzlama ve önceliklerle sorgulama",
+        "Web, terminal, TUI, CLI ve MCP istemcileri ile isteğe bağlı anlamsal arama"
+      ],
+      "first_run_steps": [
+        "Platformunuza uygun ikili dosyayı indirin ve Linux veya macOS'ta çalıştırılabilir yapın",
+        "Hister sunucusunu yerel dinleme modunda başlatın",
+        "Yerel web arayüzünü açın",
+        "Chrome veya Firefox eklentisini kurup indekslenecek sayfaları seçin"
+      ],
+      "safety_note": "Tarayıcı eklentisi, favicon indirme dışında indekslenen sayfa içeriğini yapılandırılmış Hister sunucusuna gönderir. İsteğe bağlı anlamsal arama, doküman metnini seçilen embeddings uç noktasına gönderir.",
+      "first_prompt": "Yerel arayüzü açıp tarayıcı eklentisiyle seçtiğim sayfaları indeksle ve sorgu filtrelerini kullanarak aramayı doğrula."
+    },
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Binary’yi çalıştırılabilir yap",
+          "komut": "chmod +x hister"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Hister sunucusunu başlat",
+          "komut": "./hister listen"
+        },
+        {
+          "baslik": "Yerel arayüze eriş",
+          "komut": "http://127.0.0.1:4433"
+        }
+      ],
+      "kaynak": "Resmî README ve dokümantasyon kaynakları: https://hister.org/docs/quickstart, https://github.com/asciimoo/hister, https://hister.org/posts/how-i-use-hister"
+    },
+    "sources": [
+      {
+        "url": "https://hister.org/docs/quickstart",
+        "label": "Quickstart",
+        "label_en": "Quickstart",
+        "label_fr": "Démarrage rapide",
+        "label_pt": "Início rápido",
+        "label_es": "Inicio rápido",
+        "label_de": "Schnellstart"
+      },
+      {
+        "url": "https://github.com/asciimoo/hister",
+        "label": "Privacy ve kullanım README",
+        "label_en": "Privacy and usage README",
+        "label_fr": "README sur la confidentialité et l’utilisation",
+        "label_pt": "README de privacidade e uso",
+        "label_es": "README de privacidad y uso",
+        "label_de": "README zu Datenschutz und Nutzung"
+      },
+      {
+        "url": "https://hister.org/posts/how-i-use-hister",
+        "label": "Kullanım akışı",
+        "label_en": "Usage workflow",
+        "label_fr": "Flux d’utilisation",
+        "label_pt": "Fluxo de uso",
+        "label_es": "Flujo de uso",
+        "label_de": "Nutzungsablauf"
+      }
+    ],
+    "localized": {
+      "en": {
+        "headline": "Private Search Engine for Personal Pages and Files",
+        "lead": "An AGPLv3-licensed private search engine for pages you visit and files you store. It provides full-text indexing, advanced query filters, and optional semantic search.",
+        "overview": "Hister can run locally or on infrastructure you control; it does not require a mandatory cloud service or telemetry. It indexes pages via Chrome and Firefox extensions and offers website crawling and browser history import options. If semantic search is enabled, document text is sent to the selected embeddings endpoint.",
+        "best_for": "Those who want to query web pages and personal files on a search infrastructure they control.",
+        "not_for": "Not for use cases that require mandatory cloud service or telemetry, or for browser-indexing flows where sending content to a configured Hister server is not permitted.",
+        "wins": [
+          "Runs on local or controlled infrastructure without telemetry or mandatory cloud services",
+          "Querying with full-text, field filters, phrases, wildcards, negation, and boosting",
+          "Optional semantic search with web, terminal, TUI, CLI, and MCP clients"
+        ],
+        "first_run_steps": [
+          "Download the binary for your platform and make it executable on Linux or macOS",
+          "Start the Hister server in local listen mode",
+          "Open the local web interface",
+          "Install the Chrome or Firefox extension and choose pages to index"
+        ],
+        "safety_note": "The browser extension sends indexed page content to the configured Hister server (favicon downloading is excluded). Optional semantic search sends document text to the selected embeddings endpoint.",
+        "first_prompt": "Open the local interface, index selected pages with the browser extension, and verify searches using query filters.",
+        "commands": {
+          "Binary’yi çalıştırılabilir yap": "Make the binary executable",
+          "Hister sunucusunu başlat": "Start the Hister server",
+          "Yerel arayüze eriş": "Access the local interface"
+        }
+      },
+      "fr": {
+        "headline": "Moteur de recherche privé pour pages et fichiers personnels",
+        "lead": "Moteur de recherche privé AGPLv3 pour interroger les pages web consultées et les fichiers personnels, avec indexation en texte intégral et recherche sémantique optionnelle.",
+        "overview": "Hister peut fonctionner localement ou sur une infrastructure que vous contrôlez ; il n'exige pas de service cloud obligatoire ni de télémétrie. Il indexe les pages via des extensions Chrome et Firefox, propose le crawling de sites et l'import de l'historique du navigateur. Si la recherche sémantique est activée, le texte du document est envoyé au point de terminaison d'embeddings sélectionné.",
+        "best_for": "Ceux qui veulent interroger des pages web et des fichiers personnels dans une infrastructure de recherche qu'ils contrôlent.",
+        "not_for": "Pas pour les scénarios nécessitant un service cloud obligatoire ou de la télémétrie, ni pour les flux d'indexation de navigateur qui n'autorisent pas l'envoi du contenu vers un serveur Hister configuré.",
+        "wins": [
+          "Fonctionne localement ou sur une infrastructure que vous contrôlez, sans télémétrie ni service cloud obligatoire",
+          "Requêtes en texte intégral avec filtres de champs, expressions, jokers, négation et priorisation",
+          "Recherche sémantique optionnelle et clients Web, terminal, TUI, CLI et MCP"
+        ],
+        "first_run_steps": [
+          "Téléchargez le binaire adapté à votre plateforme et rendez‑le exécutable sur Linux ou macOS",
+          "Démarrez le serveur Hister en mode écoute locale",
+          "Ouvrez l'interface Web locale",
+          "Installez l'extension Chrome ou Firefox et choisissez les pages à indexer"
+        ],
+        "safety_note": "L'extension du navigateur envoie le contenu des pages indexées au serveur Hister configuré, à l'exception du téléchargement de favicon. La recherche sémantique optionnelle envoie le texte des documents au point de terminaison d'embeddings sélectionné.",
+        "first_prompt": "Ouvrez l'interface locale, indexez les pages sélectionnées via l'extension du navigateur et vérifiez la recherche en utilisant les filtres de requête.",
+        "commands": {
+          "Binary’yi çalıştırılabilir yap": "Rendre le binaire exécutable",
+          "Hister sunucusunu başlat": "Démarrer le serveur Hister",
+          "Yerel arayüze eriş": "Accéder à l'interface locale"
+        }
+      },
+      "pt": {
+        "headline": "Motor de Busca Privado para Páginas e Arquivos Pessoais",
+        "lead": "Motor de busca privado com licença AGPLv3 para páginas visitadas e arquivos guardados pelo usuário. Oferece indexação full-text, filtros de consulta avançados e busca semântica opcional.",
+        "overview": "O Hister pode rodar localmente ou na infraestrutura que você controla; não exige serviço em nuvem ou telemetria obrigatória. Indexa páginas via extensões Chrome e Firefox, oferece opções de rastreamento de sites e importação do histórico do navegador. Se a busca semântica estiver ativada, o texto do documento é enviado ao endpoint de embeddings selecionado.",
+        "best_for": "Quem quer consultar páginas web e arquivos pessoais em uma infraestrutura de busca sob seu controle.",
+        "not_for": "Cenários que exigem serviço em nuvem obrigatório ou telemetria, ou fluxos de indexação do navegador que não permitem enviar conteúdo ao servidor Hister configurado.",
+        "wins": [
+          "Opera localmente ou em infraestrutura controlada, sem telemetria ou serviço em nuvem obrigatório",
+          "Consultas com full-text, filtros por campo, frases, curingas, negações e prioridades",
+          "Busca opcional semântica com clientes web, terminal, TUI, CLI e MCP"
+        ],
+        "first_run_steps": [
+          "Baixe o binário apropriado para sua plataforma e torne-o executável no Linux ou macOS",
+          "Inicie o servidor Hister em modo de escuta local",
+          "Abra a interface web local",
+          "Instale a extensão do Chrome ou Firefox e selecione as páginas a serem indexadas"
+        ],
+        "safety_note": "A extensão do navegador envia o conteúdo indexado ao servidor Hister configurado, exceto pelo download de favicons. A busca semântica opcional envia o texto do documento ao endpoint de embeddings selecionado.",
+        "first_prompt": "Abra a interface local, indexe as páginas selecionadas com a extensão do navegador e verifique as pesquisas usando filtros de consulta.",
+        "commands": {
+          "Binary’yi çalıştırılabilir yap": "Tornar o binário executável",
+          "Hister sunucusunu başlat": "Iniciar o servidor hister",
+          "Yerel arayüze eriş": "Acessar interface local"
+        }
+      },
+      "es": {
+        "headline": "Motor de búsqueda privado para páginas y archivos personales",
+        "lead": "Indexa páginas y archivos en infraestructura controlada por el usuario sin requerir un servicio en la nube ni telemetría obligatoria. Ofrece indexación de texto completo, filtros avanzados y búsqueda semántica opcional que envía textos al endpoint de embeddings seleccionado.",
+        "overview": "Hister puede ejecutarse localmente o en la infraestructura que controles; no requiere un servicio en la nube ni telemetría obligatoria. Indexa páginas mediante extensiones para Chrome y Firefox, y ofrece opciones de rastreo de sitios y de importación del historial del navegador. Si se activa la búsqueda semántica, el texto del documento se envía al endpoint de embeddings seleccionado.",
+        "best_for": "Quienes quieran consultar páginas web y archivos personales en una infraestructura de búsqueda que controlen.",
+        "not_for": "Casos que exijan un servicio en la nube obligatorio o telemetría, o flujos de indexación del navegador que no permitan enviar contenido al servidor Hister configurado.",
+        "wins": [
+          "Funciona localmente o en infraestructura controlada sin telemetría ni servicios en la nube obligatorios",
+          "Consultas con texto completo, filtros por campo, frases, comodines, negaciones y prioridades",
+          "Clientes web, terminal, TUI, CLI y MCP, con búsqueda semántica opcional"
+        ],
+        "first_run_steps": [
+          "Descarga el binario adecuado para tu plataforma y hazlo ejecutable en Linux o macOS",
+          "Inicia el servidor Hister en modo escucha local",
+          "Abre la interfaz web local",
+          "Instala la extensión de Chrome o Firefox y selecciona las páginas que quieres indexar"
+        ],
+        "safety_note": "La extensión del navegador envía el contenido de las páginas indexadas al servidor Hister configurado, aparte de descargar favicons. La búsqueda semántica opcional envía el texto del documento al endpoint de embeddings seleccionado.",
+        "first_prompt": "Abre la interfaz local y, usando la extensión del navegador, indexa las páginas seleccionadas y valida la búsqueda usando filtros de consulta.",
+        "commands": {
+          "Binary’yi çalıştırılabilir yap": "Hacer el binario ejecutable",
+          "Hister sunucusunu başlat": "Iniciar el servidor Hister",
+          "Yerel arayüze eriş": "Acceder a la interfaz local"
+        }
+      },
+      "de": {
+        "headline": "Privater Suchmotor für persönliche Seiten und Dateien",
+        "lead": "Indiziert lokal besuchte Webseiten und gespeicherte Dateien und bietet Volltextsuche sowie erweiterte Abfragefilter. Optionales semantisches Suchen sendet Dokumenttext an die gewählte Embeddings-Endpoint.",
+        "overview": "Hister kann lokal oder auf von Ihnen kontrollierter Infrastruktur betrieben werden; ein Cloud-Service oder Telemetrie sind nicht zwingend erforderlich. Mit Chrome- und Firefox-Erweiterungen indiziert es Seiten, bietet Website-Crawling und das Importieren des Browserverlaufs. Wenn semantische Suche aktiviert ist, wird Dokumenttext an die ausgewählte Embeddings-Schnittstelle gesendet.",
+        "best_for": "Nutzer, die Webseiten und persönliche Dateien in einer von ihnen kontrollierten Suchinfrastruktur durchsuchen möchten.",
+        "not_for": "Szenarien, die zwingend Cloud-Dienste oder Telemetrie erfordern, oder Browserverläufe/Indexing-Flows, bei denen das Senden von Inhalten an einen konfigurierten Hister-Server nicht erlaubt ist.",
+        "wins": [
+          "Betrieb lokal oder auf kontrollierter Infrastruktur ohne Telemetrie und verpflichtende Cloud-Dienste",
+          "Volltextsuche mit Feldfiltern, Phrasen, Wildcards, Negation und Priorisierungen",
+          "Web-, Terminal-, TUI-, CLI- und MCP-Clients sowie optionale semantische Suche"
+        ],
+        "first_run_steps": [
+          "Die passende Binärdatei für Ihre Plattform herunterladen und unter Linux/macOS ausführbar machen",
+          "Den Hister-Server im lokalen Listen-Modus starten",
+          "Die lokale Weboberfläche öffnen",
+          "Die Chrome- oder Firefox-Erweiterung installieren und die zu indexierenden Seiten auswählen"
+        ],
+        "safety_note": "Die Browser-Erweiterung sendet Seiteninhalte (abgesehen von Favicon-Downloads) an den konfigurierten Hister-Server. Optionale semantische Suche übermittelt Dokumenttext an die gewählte Embeddings-Endpoint.",
+        "first_prompt": "Öffne die lokale Oberfläche, indiziere mit der Browser-Erweiterung ausgewählte Seiten und verifiziere Suchen mit Abfragefiltern.",
+        "commands": {
+          "Binary’yi çalıştırılabilir yap": "Binary ausführbar machen",
+          "Hister sunucusunu başlat": "Hister-Server starten",
+          "Yerel arayüze eriş": "Auf die lokale Benutzeroberfläche zugreifen"
+        }
+      }
+    }
   }
 ]
