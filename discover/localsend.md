@@ -38,7 +38,7 @@ Aynı yerel ağdaki farklı işletim sistemlerine sahip cihazlar arasında dosya
 LocalSend internet veya üçüncü taraf sunucu gerektirmeden yerel ağda çalışır ve HTTPS şifrelemesi kullanır. Ağınızda AP isolation etkinse cihazlar birbirini göremeyebilir; güvenlik duvarı kuralları da bağlantıyı etkileyebilir.
 
 ## İlk görev istemi
-İlk adım için hazır istem 
+İlk adım için hazır istem
 Aynı yerel ağdaki bilgisayarımdan telefonuma fotoğraf nasıl gönderirim?
 
 ## Bağlantılar
@@ -47,9 +47,6 @@ Aynı yerel ağdaki bilgisayarımdan telefonuma fotoğraf nasıl gönderirim?
 - [LocalSend resmî sitesi →](https://localsend.org/)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-API
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/localsend/

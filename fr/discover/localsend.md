@@ -31,8 +31,6 @@ Les personnes qui doivent transférer des fichiers entre des réseaux différent
 ## Premier prompt
 Comment envoyer une photo de mon ordinateur vers mon téléphone sur le même réseau local ?
 
-## Termes liés du glossaire
-
 ## Liens
 - Dépôt GitHub →
 - README officiel de LocalSend →

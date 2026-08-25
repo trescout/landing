@@ -31,8 +31,6 @@ People who need to transfer files between different networks over the internet o
 ## First task prompt
 How can I send a photo from my computer to my phone on the same local network?
 
-## Related dictionary terms
-
 ## Links
 - GitHub repository →
 - Official LocalSend README →

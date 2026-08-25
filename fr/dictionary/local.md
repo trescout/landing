@@ -23,5 +23,9 @@ Son plus grand avantage est la confidentialité ; Vos données ne quittent jamai
 - [Self-hosted](/fr/dictionary/self-hosted/)
 - [Offline](/fr/dictionary/offline/)
 
+## Outils liés
+- [OpenLogi](/fr/discover/openlogi/)
+- [Maka](/fr/discover/maka/)
+
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/local/

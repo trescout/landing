@@ -5,22 +5,6 @@ n8n associe un canvas visuel, du code personnalisé, des agents d’IA et des wo
 - ★ 201 895
 - GitHub Trending · 2026-08-23
 
-## Installation
-**Créer le volume de données**
-
-```
-docker volume create n8n_data
-```
-
-
-## Exécution
-**Démarrer le conteneur Docker n8n**
-
-```
-docker run -it --rm --name n8n -p 5678:5678 -v n8n_data:/home/node/.n8n docker.n8n.io/n8nio/n8n
-```
-
-
 ## Que fait cet outil ?
 Avec n8n, vous pouvez créer des workflows sur un canvas visuel et les étendre avec JavaScript, Python et des paquets npm. Les sources officielles mentionnent la flexibilité entre les modèles OpenAI, Anthropic, Google et open source, ainsi que les validations humaines, l’observabilité, le contrôle d’accès par rôle et les pistes d’audit. La plateforme peut être auto-hébergée ou utilisée dans le cloud.
 
@@ -47,7 +31,21 @@ Les personnes qui recherchent uniquement des produits sous licence propriétaire
 ## Premier prompt
 Aidez-moi à concevoir sur le canvas visuel un workflow qui reçoit une entrée, la traite avec un modèle d’IA et transmet le résultat à l’étape suivante.
 
-## Termes liés du glossaire
+## Installation
+**Créer le volume de données**
+
+```
+docker volume create n8n_data
+```
+
+
+## Exécution
+**Démarrer le conteneur Docker n8n**
+
+```
+docker run -it --rm --name n8n -p 5678:5678 -v n8n_data:/home/node/.n8n docker.n8n.io/n8nio/n8n
+```
+
 
 ## Liens
 - Dépôt GitHub →
