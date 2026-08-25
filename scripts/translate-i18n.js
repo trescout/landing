@@ -1,16 +1,11 @@
 #!/usr/bin/env node
 const fs = require('fs');
 const path = require('path');
-const { translateText: translateWithProviders } = require('./translation-service');
+const { translateTexts: translateWithProviders } = require('./translation-service');
 
 const ROOT = path.dirname(__dirname);
 const DICT_JSON = path.join(ROOT, 'assets', 'dictionary', 'dictionary.json');
 const CAT_JSON = path.join(ROOT, 'assets', 'discover', 'catalog.json');
-
-async function translateText(text) {
-  if (!text) return '';
-  return translateWithProviders(text, LANG);
-}
 
 /* Çeviri önbelleği · scripts/discover-en.py ve dictionary-en.py ile AYNI dosya.
    Anahtar kaynak metnin kendisi olduğu için: metin değişmemişse çeviri
@@ -31,28 +26,30 @@ try { cache = JSON.parse(fs.readFileSync(CACHE_PATH, 'utf8')); } catch { cache =
 let yeniCeviri = 0;
 let basarisizCeviri = 0;
 
-async function batchProcess(items, textGetter, textSetter, batchSize = 3) {
+async function batchProcess(items, textGetter, textSetter, batchSize = 12) {
   let completed = 0;
   for (let i = 0; i < items.length; i += batchSize) {
     const chunk = items.slice(i, i + batchSize);
-    await Promise.all(chunk.map(async (item) => {
+    const pending = [];
+    for (const item of chunk) {
       const srcText = (textGetter(item) || '').trim();
-      if (!srcText) return;
-      if (cache[srcText]) { textSetter(item, cache[srcText]); return; }
-      const translated = await translateText(srcText);
-      if (!translated) {
+      if (srcText && !cache[srcText]) pending.push(srcText);
+    }
+    const translated = await translateWithProviders(pending, LANG);
+    for (const item of chunk) {
+      const srcText = (textGetter(item) || '').trim();
+      if (!srcText) continue;
+      const value = cache[srcText] || translated.get(srcText);
+      if (!value) {
         basarisizCeviri++;
         console.warn(`  Translation failed; source text was not written: ${srcText.slice(0, 60)}`);
-        return;
+        continue;
       }
-      if (translated !== srcText) { cache[srcText] = translated; yeniCeviri++; }
-      textSetter(item, translated);
-    }));
+      if (!cache[srcText] && value !== srcText) { cache[srcText] = value; yeniCeviri++; }
+      textSetter(item, value);
+    }
     completed += chunk.length;
     console.log(`  Processed ${completed}/${items.length}...`);
-    if (i + batchSize < items.length) {
-      await new Promise(resolve => setTimeout(resolve, 5000));
-    }
   }
 }
 
