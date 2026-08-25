@@ -11,12 +11,31 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
+import re
 
 GEMINI_MODEL = os.environ.get("TREESCOUT_TRANSLATION_MODEL", "gemini-3.1-flash-lite")
 
 
 def _retry_delay(attempt: int) -> float:
     return min(2.0 * (2**attempt), 12.0)
+
+
+def _http_retry_delay(error: urllib.error.HTTPError, attempt: int) -> float:
+    """Honor provider Retry-After/retryDelay without exposing response bodies."""
+    header = error.headers.get('Retry-After') if error.headers else None
+    if header:
+        try:
+            return min(max(float(header), 1.0), 90.0)
+        except ValueError:
+            pass
+    try:
+        body = error.read().decode('utf-8', errors='replace')
+        match = re.search(r'"retryDelay"\s*:\s*"([0-9.]+)s"', body)
+        if match:
+            return min(max(float(match.group(1)), 1.0), 90.0)
+    except Exception:
+        pass
+    return _retry_delay(attempt)
 
 
 def _gemini(text: str, lang: str, key: str) -> str | None:
@@ -65,6 +84,8 @@ def _gemini(text: str, lang: str, key: str) -> str | None:
         except urllib.error.HTTPError as error:
             if error.code not in (429, 500, 502, 503) or attempt == 3:
                 return None
+            time.sleep(_http_retry_delay(error, attempt))
+            continue
         except Exception:
             if attempt == 3:
                 return None
@@ -89,6 +110,8 @@ def _gtx(text: str, lang: str) -> str | None:
         except urllib.error.HTTPError as error:
             if error.code not in (429, 500, 502, 503) or attempt == 2:
                 return None
+            time.sleep(_http_retry_delay(error, attempt))
+            continue
         except Exception:
             if attempt == 2:
                 return None
@@ -171,6 +194,8 @@ def _gemini_batch(texts: list[str], lang: str, key: str) -> dict[str, str] | Non
         except urllib.error.HTTPError as error:
             if error.code not in (429, 500, 502, 503) or attempt == 2:
                 return None
+            time.sleep(_http_retry_delay(error, attempt))
+            continue
         except Exception:
             if attempt == 2:
                 return None

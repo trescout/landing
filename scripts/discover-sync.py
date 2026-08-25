@@ -264,6 +264,24 @@ def start_url(md):
         u=(g[0] or g[1]).rstrip('"\'/.,);]>')
         if u and not BAD.search(u): return u
     return ""
+def _http_retry_delay(error, attempt):
+    """Provider'ın Retry-After/retryDelay bilgisini kullan; response body loglama."""
+    header = error.headers.get("Retry-After") if error.headers else None
+    if header:
+        try:
+            return min(max(float(header), 1.0), 90.0)
+        except ValueError:
+            pass
+    try:
+        body = error.read().decode("utf-8", errors="replace")
+        m = re.search(r'"retryDelay"\s*:\s*"([0-9.]+)s"', body)
+        if m:
+            return min(max(float(m.group(1)), 1.0), 90.0)
+    except Exception:
+        pass
+    return min((attempt + 1) * 4.0, 60.0)
+
+
 def gemini_enrich(title,summary,readme,blocks,key):
     payload=("ARAÇ: "+title+"\nÖZET: "+(summary or "")+"\n\nREADME:\n"+readme[:8000]+
              "\n\nAYIKLANAN GERÇEK KOMUTLAR (komutu yalnızca bunlardan, birebir seç):\n"+json.dumps(blocks,ensure_ascii=False))
@@ -277,7 +295,9 @@ def gemini_enrich(title,summary,readme,blocks,key):
             raw=json.loads(urllib.request.urlopen(req,timeout=120).read().decode())["candidates"][0]["content"]["parts"][0]["text"]
             return json.loads(raw)
         except urllib.error.HTTPError as e:
-            if e.code in (429,500,502,503) and attempt<3: time.sleep((attempt+1)*4); continue
+            if e.code in (429,500,502,503) and attempt<3:
+                time.sleep(_http_retry_delay(e, attempt))
+                continue
             return None
         except Exception:
             if attempt<3: time.sleep((attempt+1)*4); continue
@@ -524,7 +544,9 @@ def gemini_headline(title,tagline,key,extra=""):
             b=normalize_headline((json.loads(raw).get("baslik") or "").strip())
             return b or None
         except urllib.error.HTTPError as e:
-            if e.code in (429,500,502,503) and attempt<3: time.sleep((attempt+1)*4); continue
+            if e.code in (429,500,502,503) and attempt<3:
+                time.sleep(_http_retry_delay(e, attempt))
+                continue
             return None
         except Exception:
             if attempt<3: time.sleep((attempt+1)*4); continue
