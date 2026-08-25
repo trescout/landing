@@ -31,6 +31,14 @@ on:
         description: "Recovery only · comma-separated discovery slugs to render; empty = all"
         required: false
         default: ''
+      dictionary_seed_terms:
+        description: "Recovery only · comma-separated report glossary slugs to seed without Gemini"
+        required: false
+        default: ''
+      discovery_seed_slugs:
+        description: "Recovery only · comma-separated report discovery slugs to seed as lite without Gemini"
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -59,7 +67,13 @@ jobs:
       - name: Sözlüğü büyüt (yeni rapor terimleri)
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python3 scripts/dict-sync.py
+          DICTIONARY_SEED_TERMS: ${{ github.event.inputs.dictionary_seed_terms }}
+        run: |
+          if [ -n "$DICTIONARY_SEED_TERMS" ]; then
+            python3 scripts/dict-sync.py --seed="$DICTIONARY_SEED_TERMS"
+          else
+            python3 scripts/dict-sync.py
+          fi
 
       - name: Sözlük kartlarını üret (yeni terimler · marka OG)
         run: python3 scripts/dict-cards.py
@@ -68,7 +82,13 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GITHUB_TOKEN: ${{ github.token }}
-        run: python3 scripts/discover-sync.py
+          DISCOVERY_SEED_SLUGS: ${{ github.event.inputs.discovery_seed_slugs }}
+        run: |
+          if [ -n "$DISCOVERY_SEED_SLUGS" ]; then
+            python3 scripts/discover-sync.py --seed="$DISCOVERY_SEED_SLUGS"
+          else
+            python3 scripts/discover-sync.py
+          fi
 
       # Elle tetiklenirse · catalog'a eklenen cmds'leri sayfaya render et + komutsuz flag'i temizle.
       # Slug listesi env üzerinden geçer (komut enjeksiyonu önlemek için inline interpolasyon yok).
