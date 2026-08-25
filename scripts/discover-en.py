@@ -149,6 +149,11 @@ def metin(h):
     return html.unescape(re.sub(r"<[^>]+>", "", h)).strip()
 
 
+def schema_text(s):
+    """Use one text representation for visible copy and Article JSON-LD."""
+    return re.sub(r"\s+", " ", html.unescape(str(s or ""))).strip()
+
+
 def esc(s):
     return (html.escape(s or "", quote=True).replace("&#x27;", "&#39;"))
 
@@ -411,8 +416,8 @@ def build(slug, cat, chrome):
     # Başlık katalogdan · sayfa <title>'ı eski üretimlerde kalıp dışı olabiliyor
     # (bir sayfada başlık yerine editöryel cümle vardı, İngilizce eyebrow'a Türkçe düşüyordu).
     title = c.get("title") or metin(blok(r"<title>(.*?)</title>", t)).split(" · ")[0]
-    headline = localized.get("headline") or tr2en(metin(blok(r'<h1 class="disc-title">(.*?)</h1>', t)))
-    lead = localized.get("lead") or tr2en(metin(blok(r'<p class="disc-lead">(.*?)</p>', t)))
+    headline = schema_text(localized.get("headline") or tr2en(metin(blok(r'<h1 class="disc-title">(.*?)</h1>', t))))
+    lead = schema_text(localized.get("lead") or tr2en(metin(blok(r'<p class="disc-lead">(.*?)</p>', t))))
     url = blok(r'<ul class="disc-links"><li><a href="([^"]+)"', t)
     sources = [source for source in (c.get("sources") or []) if isinstance(source, dict) and source.get("url")]
     date = c.get("date", "")
