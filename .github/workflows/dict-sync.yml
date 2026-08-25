@@ -19,6 +19,10 @@ on:
         description: "Başlık backfill · başlığı olmayan KAÇ girdiye editöryel H1 üretilsin (0 = atla). Batch için ör. 40."
         required: false
         default: '0'
+      skip_indexnow:
+        description: "Recovery only · skip search-engine IndexNow notification for this manual run"
+        required: false
+        default: 'false'
 
 permissions:
   contents: write
@@ -338,6 +342,11 @@ jobs:
           fi
 
       - name: IndexNow ile arama motorlarına anında bildirim (Bing, Yandex)
+        if: ${{ github.event_name != 'workflow_dispatch' || github.event.inputs.skip_indexnow != 'true' }}
         continue-on-error: true
         run: node scripts/indexnow.js
+
+      - name: IndexNow recovery için atlandı
+        if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.skip_indexnow == 'true' }}
+        run: echo "IndexNow skipped for approved report recovery; no search-engine notification sent."
 
