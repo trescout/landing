@@ -108,6 +108,17 @@
     return (FILTER_TERMS[filter] || []).some(function (term) { return text.indexOf(term) !== -1; });
   }
 
+  function catalogDate(entry) {
+    return String(entry && (entry.date || entry.last_review) || '').slice(0, 10);
+  }
+
+  function latestCatalogDate(entries) {
+    return entries.reduce(function (latest, entry) {
+      var date = catalogDate(entry);
+      return date > latest ? date : latest;
+    }, '');
+  }
+
   function displayDate(value, lang) {
     if (!value) return '';
     var date = new Date(value + 'T00:00:00Z');
@@ -126,7 +137,7 @@
     card.className = 'radar-card';
     var eyebrow = document.createElement('span');
     eyebrow.className = 'radar-card-meta';
-    eyebrow.textContent = (entry.source || 'GitHub') + ' · ' + displayDate(entry.last_review || entry.date, lang);
+    eyebrow.textContent = (entry.source || 'GitHub') + ' · ' + displayDate(entry.date || entry.last_review, lang);
     var title = document.createElement('h3');
     title.textContent = entry.title || entry.slug;
     var text = document.createElement('p');
@@ -154,12 +165,12 @@
   }
 
   var FLOW_TEXT = {
-    tr: { step: ['Kaynağı seç', 'Kısa özete indir', 'Ayrıntıya geç'], loading: 'Gerçek katalog kayıtları yükleniyor…', empty: 'Bu örnek konu için henüz kayıt bulunamadı.' },
-    en: { step: ['Choose a source', 'Turn it into a short summary', 'Open the detail'], loading: 'Loading real catalog entries…', empty: 'There are no entries for this example topic yet.' },
-    fr: { step: ['Choisir une source', 'La réduire à un résumé', 'Ouvrir le détail'], loading: 'Chargement des entrées réelles du catalogue…', empty: 'Aucune entrée pour ce sujet d’exemple pour le moment.' },
-    pt: { step: ['Escolher uma fonte', 'Transformar em um resumo curto', 'Abrir os detalhes'], loading: 'Carregando registros reais do catálogo…', empty: 'Ainda não há registros para este tema de exemplo.' },
-    es: { step: ['Elegir una fuente', 'Convertirla en un resumen breve', 'Abrir el detalle'], loading: 'Cargando entradas reales del catálogo…', empty: 'Todavía no hay entradas para este tema de ejemplo.' },
-    de: { step: ['Quelle auswählen', 'Kurz zusammenfassen', 'Details öffnen'], loading: 'Echte Katalogeinträge werden geladen…', empty: 'Für dieses Beispielthema gibt es noch keine Einträge.' }
+    tr: { step: ['Günün seçkisinden', 'Kısa özet', 'Kaynak bilgisi'], loading: 'Gerçek katalog kayıtları yükleniyor…', empty: 'Bu örnek konu için henüz kayıt bulunamadı.' },
+    en: { step: ['From today’s selection', 'Short summary', 'Source details'], loading: 'Loading real catalog entries…', empty: 'There are no entries for this example topic yet.' },
+    fr: { step: ['Dans la sélection du jour', 'Résumé court', 'Informations sur la source'], loading: 'Chargement des entrées réelles du catalogue…', empty: 'Aucune entrée pour ce sujet d’exemple pour le moment.' },
+    pt: { step: ['Na seleção do dia', 'Resumo curto', 'Informações da fonte'], loading: 'Carregando registros reais do catálogo…', empty: 'Ainda não há registros para este tema de exemplo.' },
+    es: { step: ['En la selección del día', 'Resumen breve', 'Datos de la fuente'], loading: 'Cargando entradas reales del catálogo…', empty: 'Todavía no hay entradas para este tema de ejemplo.' },
+    de: { step: ['Aus der Tagesauswahl', 'Kurze Zusammenfassung', 'Quellenangaben'], loading: 'Echte Katalogeinträge werden geladen…', empty: 'Für dieses Beispielthema gibt es noch keine Einträge.' }
   };
 
   function initDailyFlow(root) {
@@ -173,6 +184,7 @@
     var locale = contentLanguage(lang);
     var copy = FLOW_TEXT[locale] || FLOW_TEXT.en;
     var catalog = [];
+    var latestDate = '';
     var activeTopic = topicButtons[0].getAttribute('data-flow-topic');
     var activeTime = timeButtons[0].getAttribute('data-flow-time');
 
@@ -192,7 +204,8 @@
       setPressed(timeButtons, activeTime);
       selection.textContent = activeTime + ' · ' + topicLabel();
       list.replaceChildren();
-      var selected = catalog.filter(function (entry) { return matches(entry, activeTopic, lang); }).slice(0, 3);
+      var current = latestDate ? catalog.filter(function (entry) { return catalogDate(entry) === latestDate; }) : catalog;
+      var selected = current.filter(function (entry) { return matches(entry, activeTopic, lang); }).slice(0, 3);
       if (!selected.length) {
         var empty = document.createElement('p');
         empty.className = 'daily-flow-empty';
@@ -218,7 +231,7 @@
         description.textContent = entry['tagline_' + locale] || entry.tagline || '';
         var meta = document.createElement('span');
         meta.className = 'daily-flow-step-meta';
-        meta.textContent = (entry.source || 'GitHub') + ' · ' + displayDate(entry.last_review || entry.date, lang);
+        meta.textContent = (entry.source || 'GitHub') + ' · ' + displayDate(entry.date || entry.last_review, lang);
         body.appendChild(label);
         body.appendChild(title);
         body.appendChild(description);
@@ -258,8 +271,9 @@
       })
       .then(function (entries) {
         catalog = Array.isArray(entries) ? entries.slice() : [];
+        latestDate = latestCatalogDate(catalog);
         catalog.sort(function (a, b) {
-          return String(b.last_review || b.date || '').localeCompare(String(a.last_review || a.date || '')) || Number(b.stars || 0) - Number(a.stars || 0);
+          return catalogDate(b).localeCompare(catalogDate(a)) || Number(b.stars || 0) - Number(a.stars || 0);
         });
         render();
         emit('daily_flow_catalog_loaded', { language: lang, count: catalog.length });
@@ -283,6 +297,7 @@
     if (!grid || !filters.length) return;
     var lang = language();
     var catalog = [];
+    var latestDate = '';
     var activeFilter = 'all';
     var loading = grid.querySelector('.radar-loading');
 
@@ -300,7 +315,8 @@
 
     function render() {
       grid.replaceChildren();
-      var selected = catalog.filter(function (entry) { return matches(entry, activeFilter, lang); }).slice(0, 6);
+      var current = latestDate ? catalog.filter(function (entry) { return catalogDate(entry) === latestDate; }) : catalog;
+      var selected = current.filter(function (entry) { return matches(entry, activeFilter, lang); }).slice(0, 6);
       if (!selected.length) {
         var empty = document.createElement('p');
         empty.className = 'radar-empty';
@@ -341,8 +357,9 @@
       })
       .then(function (entries) {
         catalog = Array.isArray(entries) ? entries.slice() : [];
+        latestDate = latestCatalogDate(catalog);
         catalog.sort(function (a, b) {
-          return String(b.last_review || b.date || '').localeCompare(String(a.last_review || a.date || '')) || Number(b.stars || 0) - Number(a.stars || 0);
+          return catalogDate(b).localeCompare(catalogDate(a)) || Number(b.stars || 0) - Number(a.stars || 0);
         });
         render();
         emit('discovery_radar_view', { language: lang, count: catalog.length });

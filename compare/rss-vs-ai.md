@@ -1,45 +1,53 @@
-# Geleneksel RSS & Manuel Takip vs. Yapay Zekâ Filtreli Teknoloji Radarı (TreScout)
+# Manuel takip ve TreScout Teknoloji Radarı: farklar
 
-**Kategori:** Karşılaştırma & Konumlandırma  
-**Son güncelleme:** 2026-08-04
+**Kategori:** Karşılaştırma ve konumlandırma
+**Son güncelleme:** 2026-08-25
 
-Günümüzde teknoloji takibi bir bilgilenme süreci olmaktan çıkıp ciddi bir iş yüküne dönüştü. Her gün binlerce yeni GitHub deposu, Hacker News tartışması ve HuggingFace yapay zekâ modeli yayınlanıyor. Bu içerikleri takip etmek için iki temel yaklaşım var: Geleneksel Manuel Takip (RSS/Bültenler) ve Yapay Zekâ Filtreli Teknoloji Radarı (TreScout).
+Teknoloji takibinde iki farklı yaklaşım vardır. Birincisi, kaynakları ve haber akışlarını tek tek açıp seçmektir. İkincisi, birden fazla kaynaktan gelen öne çıkanları düzenli bir raporda okuyup gerektiğinde ayrıntılı kaynak sayfasına geçmektir. TreScout ikinci yaklaşımı hedefler; ancak güncel arşivdeki kaynak bağlantılarını ve raporun nasıl oluşturulduğuna ilişkin açıklamaları korur.
 
----
+## Karşılaştırma özeti
 
-## Karşılaştırma Özeti
-
-| Özellik | Geleneksel RSS & Manuel Takip | TreScout (AI Filtreli Radar) |
+| Özellik | Manuel takip | TreScout Teknoloji Radarı |
 | :--- | :--- | :--- |
-| **İçerik Hacmi** | Günde yüzlerce ham makale ve bildirim | Günde filtrelenmiş 5-15 kritik gelişme |
-| **Bilişsel Yük** | Yüksek (Ne okunacağını seçme sorumluluğu sizde) | Sıfır (TreScout tarar, eler, özetler) |
-| **Dil Desteği** | Çoğunlukla İngilizce ham metinler | Akıcı, anlaşılır Türkçe özetler ("Siz" formel) |
-| **Tekrarlayan İçerik (Dedup)** | Aynı haber 10 farklı kaynakta tekrar eder | Akıllı dedup ile tekrar gönderim engellenir |
-| **Format** | Karışık web sayfaları, kalabalık okuyucular | Kişiselleştirilmiş e-posta, PDF ve Markdown API |
+| **Kaynak kapsamı** | Seçtiğiniz kaynakları siz tek tek gezersiniz | GitHub Trending, Hacker News, Hugging Face model ve günlük makale akışları, Lobsters ve sürüm notlarından seçki |
+| **Günlük okuma süresi** | Takip ettiğiniz kaynakların hacmine göre değişir | Raporun kelime hacminden hesaplanan yaklaşık okuma süresi |
+| **Tekrar yönetimi** | Kendi filtrelerinize bağlıdır | Son 30 gündeki normal raporlarda yer alan kayıtlar tekrarsız raporda yeniden gösterilmez |
+| **Erişim biçimi** | Ham bağlantılar ve ayrı sayfalar | Web arşivi, kaynak bağlantıları ve PDF rapor |
+| **Dil** | Kaynağın sunduğu dile bağlıdır | Rapor dili seçilebilir; Türkçe, İngilizce, Fransızca, Portekizce, İspanyolca ve Almanca sayfalar bulunur |
+| **Bağlam** | Açıklamayı farklı sayfalardan kendiniz toplarsınız | Kısa özet, kaynak bağlantısı, terim açıklaması ve ilgili keşif sayfası birlikte sunulur |
+
+## 1. Gürültü ve sinyal
+
+Manuel takipte her kaynağın kendi sıralaması, bildirimleri ve tekrarları vardır. Bu yaklaşım ayrıntılı kontrol sağlar; karşılığında hangi kayıtların önemli olduğunu her gün yeniden değerlendirmeniz gerekir.
+
+TreScout’un amacı tüm içeriği yeniden yayınlamak değildir. Kaynak akışlarından bir günlük seçki oluşturur, kayıtları kısa ve okunabilir özetlere dönüştürür, kaynak bağlantısını korur ve daha fazla bilgi gereken yerde arşiv, sözlük veya keşif sayfasına yönlendirir.
+
+## 2. Zaman ve okuma yükü
+
+TreScout için sabit bir “iki dakika” veya “yedi-sekiz dakika” vaadi kullanılmamalıdır. Raporların içeriği her gün değişir. Bu nedenle raporun yaklaşık okuma süresi, açılış metni, madde başlıkları, özetler ve sözlük girdilerinin kelime hacminden hesaplanır.
+
+Bu ölçüm, kullanıcının günlük yükünü olduğundan küçük göstermeden raporun kapsamı hakkında daha gerçekçi bir beklenti oluşturur. Günün ayrıntılarını isteyen okur kaynak bağlantılarından devam edebilir; yalnızca hızlı bir yön bulmak isteyen okur ise kısa özetle yetinebilir.
+
+## 3. Tekrar filtresi ve yeniden gündeme gelme
+
+Normal raporlarda son 30 gün içinde yer alan URL’ler, tekrarsız raporun aday listesinden çıkarılır. Böylece tekrarsız raporun amacı, aynı kaydı her gün yeniden göstermek yerine yeni keşifleri öne çıkarmaktır.
+
+30 günlük pencerenin dışındaki bir kayıt yeniden trend olursa tekrar aday olabilir. Bu durum, kaydın daha önce öne çıkıp bir süre görünmediğini belirten **“yeniden gündemde”** işaretiyle ayrıştırılır. Tekrar filtresi yeni sürüm veya içerik değişikliğinin anlamını tek başına kanıtlamaz; kaynak sayfası kontrol edilmelidir.
+
+## 4. Kaynak ve bağlam
+
+TreScout arşivi, günün seçkisini kaynak grupları altında gösterir. Kullanıcı, kaydın özetini okuduktan sonra doğrudan GitHub deposuna, Hacker News tartışmasına, Hugging Face model veya makale sayfasına, Lobsters tartışmasına ya da ilgili sürüm kaynağına geçebilir.
+
+Raporlarda geçen teknik terimler sözlük bölümüyle açıklanır. Ayrıntılı keşif sayfaları ise özellikle araçların kullanım amacı, resmi kaynakları ve dikkat edilmesi gereken noktaları için ikinci bir okuma katmanı sağlar.
+
+## 5. Dil ve erişim biçimi
+
+Web arşivi ve PDF çıktısı, rapor diline göre hazırlanır. Teknik adlar, depo adları, komutlar ve kaynak URL’leri korunurken açıklamalar seçilen dile göre sunulur. Bu ayrım, teknik doğruluğu korurken okuma yükünü azaltmayı amaçlar.
+
+## Sonuç
+
+Manuel takip, kaynak seçimi üzerinde doğrudan kontrol isteyenler için uygundur. TreScout ise farklı kaynaklardan gelen öne çıkanları düzenli bir rapor, tekrar filtresi, sözlük ve keşif bağlantılarıyla birlikte okumak isteyenler için tasarlanmıştır. TreScout’un iddiası tüm gündemi eksiksiz kapsamak değil, günlük teknoloji takibini daha düzenli ve kaynakları görünür bir okuma deneyimine dönüştürmektir.
 
 ---
 
-## 1. Gürültü vs. Sinyal (Signal vs. Noise)
-
-**Geleneksel RSS:** RSS okuyucuları (Feedly, Inoreader vb.) veya bültenler, kaynakların ürettiği tüm ham veriyi önünüze yığar. Bu sistemlerde "her şeyi görme" garantisi vardır; ancak bu durum kısa sürede **bilgi yorgunluğuna (information overload)** ve okunmamış yüzlerce makale birikmesine yol açar.
-
-**TreScout Yaklaşımı:** TreScout, ham veriyi doğrudan kullanıcının önüne atmak yerine arka planda çalışır. Cerebras ile trend skorlaması yapar, Claude ile mimari ve geliştirici etkilerini analiz eder, Gemini ile Türkçe özet çıkarır. Size gürültüyü değil, sadece **sinyali** ulaştırır.
-
----
-
-## 2. Zaman ve Bilişsel Maliyet
-
-Bir yazılımcı veya teknoloji lideri için her gün 30-45 dakikayı RSS akışlarını taramaya ayırmak yıllık yüzlerce saatlik zaman kaybıdır. TreScout, bu 45 dakikalık iş yükünü 2 dakikalık sade bir okuma deneyimine indirger.
-
----
-
-## 3. Yapay Zekâ ve Geliştirici Uyumlu Yapı
-
-* **Ham Markdown ve API Desteği:** TreScout sadece insan okuyucuları değil, yapay zekâ ajanlarınızı da düşünür. Üretilen raporlar `.md` ve `text/markdown` formatında dışa aktarılabilir.
-* **LLM Dostu Altyapı:** `llms.txt` indeksi ve açık web standartları sayesinde TreScout verileri kendi geliştirici ortamlarınıza (Cursor, Claude Code) anında entegre edilebilir.
-
----
-
----
-Kaynak: TreScout Karşılaştırma Rehberi · https://trescout.com/compare/rss-vs-ai/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Kaynak: [TreScout karşılaştırma sayfası](https://trescout.com/compare/rss-vs-ai/)

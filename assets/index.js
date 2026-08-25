@@ -200,12 +200,10 @@
       var statusEl = modal.querySelector('.privacy-modal-status');
       var statusText = modal.querySelector('.privacy-modal-status-text');
       var links = document.querySelectorAll('a[data-privacy-modal]');
-      var checkbox = document.querySelector('input[name="consent"]');
-      var hint = document.getElementById('consent-hint');
-
       var hasRead = false;
+      var activeCheckbox = null;
+      var activeHint = null;
       var lastFocus = null;
-      var savedScrollY = 0;
 
       function setRead() {
         if (hasRead) return;
@@ -216,9 +214,15 @@
         statusText.textContent = T.onayaDokun;
       }
 
-      function openModal() {
+      function openModal(checkbox, hint) {
         // Guard · zaten açıksa tekrar çalışma (double-fire koruması)
         if (modal.getAttribute('aria-hidden') === 'false') return;
+        activeCheckbox = checkbox || null;
+        activeHint = hint || null;
+        hasRead = false;
+        confirmBtn.disabled = true;
+        statusEl.classList.remove('read');
+        statusText.textContent = '';
         lastFocus = document.activeElement;
         // Iframe'i her açılışta yeniden yükle → scroll tepesinden başlasın
         // Sayfanın dilindeki metin · İngilizce ziyaretçi Türkçe KVKK metnini okumak
@@ -241,6 +245,8 @@
         document.documentElement.style.removeProperty('overflow');
         document.body.classList.remove('modal-open');
         document.documentElement.classList.remove('modal-open');
+        activeCheckbox = null;
+        activeHint = null;
         if (lastFocus && typeof lastFocus.focus === 'function') {
           lastFocus.focus();
         }
@@ -257,17 +263,20 @@
       links.forEach(function (link) {
         link.addEventListener('click', function (e) {
           e.preventDefault();
-          openModal();
+          var form = link.closest('form');
+          var checkbox = form ? form.querySelector('input[name="consent"]') : null;
+          var hint = form ? form.querySelector('.form-consent-hint') : null;
+          openModal(checkbox, hint);
         });
       });
 
       closeX.addEventListener('click', closeModal);
       confirmBtn.addEventListener('click', function () {
         // "Okudum, onaylıyorum" · eksplisit onay · checkbox aktif + işaretli + hint gizle
-        if (hasRead && checkbox) {
-          checkbox.removeAttribute('data-needs-consent');
-          checkbox.checked = true;
-          if (hint) hint.style.display = 'none';
+        if (hasRead && activeCheckbox) {
+          activeCheckbox.removeAttribute('data-needs-consent');
+          activeCheckbox.checked = true;
+          if (activeHint) activeHint.style.display = 'none';
         }
         closeModal();
       });
@@ -284,32 +293,27 @@
         }
       });
 
-      // Consent gerektiren durumda: label tıklaması (checkbox dahil bubble) → modal
-      // Label'a TEK listener · click bubble'ı zaten checkbox'tan label'a gelir
-      // İki ayrı listener double-fire'a sebep oluyordu (savedScrollY = 0 bug)
-      if (checkbox) {
+      // Consent gerektiren durumda: her formun kendi label'ı → aynı formun modal'ı
+      // Böylece hero ve final CTA arasında ilk checkbox'a yanlışlıkla yazılmaz.
+      document.querySelectorAll('input[name="consent"]').forEach(function (checkbox) {
         var consentLabel = checkbox.closest('.form-consent');
+        var hint = consentLabel ? consentLabel.querySelector('.form-consent-hint') : null;
+        if (!consentLabel) return;
 
-        function needsConsent() {
-          return checkbox.hasAttribute('data-needs-consent');
-        }
-
-        if (consentLabel) {
-          consentLabel.addEventListener('click', function (e) {
-            if (!needsConsent()) return;
-            // Aydınlatma Metni link'i kendi handler'ında açıyor · skip
-            if (e.target.closest('a[data-privacy-modal]')) return;
-            e.preventDefault();
-            if (hint) {
-              hint.classList.remove('shake');
-              void hint.offsetWidth;
-              hint.classList.add('shake');
-              setTimeout(function () { hint.classList.remove('shake'); }, 700);
-            }
-            openModal();
-          });
-        }
-      }
+        consentLabel.addEventListener('click', function (e) {
+          if (!checkbox.hasAttribute('data-needs-consent')) return;
+          // Aydınlatma Metni link'i kendi handler'ında açıyor · skip
+          if (e.target.closest('a[data-privacy-modal]')) return;
+          e.preventDefault();
+          if (hint) {
+            hint.classList.remove('shake');
+            void hint.offsetWidth;
+            hint.classList.add('shake');
+            setTimeout(function () { hint.classList.remove('shake'); }, 700);
+          }
+          openModal(checkbox, hint);
+        });
+      });
 
       // Defensive cleanup · sayfa görünür olduğunda stuck scroll lock'u temizle
       // (Modal açıkken tab değişip dönüldüğünde body fixed kalmış olabilir)
