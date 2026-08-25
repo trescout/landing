@@ -121,6 +121,8 @@ jobs:
       # akışında değildi, elle çalıştırılıyordu (2026-08-07 bulgusu).
       # Önbellekli: değişmeyen metin çeviri harcamaz.
       - name: İngilizce tanıtım metinleri (tagline_en · kisa_en)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: node scripts/translate-i18n.js
 
       # Fransızca · 2026-08-07'de eklendi. Aynı betikler --lang ile çalışıyor,
@@ -134,6 +136,8 @@ jobs:
         run: echo "kodlar=$(python3 scripts/diller.py --liste)" >> "$GITHUB_OUTPUT"
 
       - name: Tanıtım metinleri (tagline_XX · kisa_XX)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           for d in ${{ steps.diller.outputs.kodlar }}; do
             [ "$d" = "en" ] && continue   # İngilizce çevirisi ayrı adımda
@@ -155,6 +159,8 @@ jobs:
       # (2026-08-13'te Portekizce'de yaşandı · sonraki günler kendiliğinden
       # düzeliyordu, o yüzden görülmemişti).
       - name: Sayfaları üret · her dilde sözlük SONRA keşif
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           for d in ${{ steps.diller.outputs.kodlar }}; do
             echo "── $d"
@@ -171,6 +177,8 @@ jobs:
       # Almanca eklenirken de 353 sözlük sayfası aynı sebeple eksikti).
       # Çeviriler önbellekli · ikinci tur birkaç saniye.
       - name: Sözlük ikinci tur (keşif sayfaları artık diskte)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           for d in ${{ steps.diller.outputs.kodlar }}; do
             python3 scripts/dictionary-en.py --lang=$d

@@ -27,6 +27,7 @@ import os, re, sys, json, html, time, urllib.parse, urllib.request
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from diller import dil, tarih_yaz, chrome as chrome_kur, dil_dugmeleri_yaz, dil_hedefleri
+from translation_service import translate_text
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TR_DIR = os.path.join(ROOT, "discover")
@@ -44,37 +45,26 @@ CACHE = os.path.join(ROOT, "assets", "discover", f"{LANG}-cache.json")
 # ── çeviri ────────────────────────────────────────────────────────────────────
 _cache = json.load(open(CACHE, encoding="utf-8")) if os.path.exists(CACHE) else {}
 _yeni = 0
+_basarisiz = 0
 
 
 def tr2en(s):
-    """Türkçeden hedef dile · ücretsiz uç nokta, önbellekli, hata olursa Türkçesini bırakır."""
-    global _yeni
+    """Türkçeden hedef dile · Gemini birincil, GTX ikincil; başarısızlıkta None."""
+    global _yeni, _basarisiz
     s = (s or "").strip()
     if not s:
         return ""
     if s in _cache:
         return _cache[s]
-    url = (f"https://translate.googleapis.com/translate_a/single?client=gtx&sl=tr&tl={LANG}&dt=t&q="
-           + urllib.parse.quote(s))
-    out, oldu = s, False
-    for deneme in range(3):
-        try:
-            with urllib.request.urlopen(url, timeout=25) as r:
-                d = json.loads(r.read().decode())
-            out = "".join(p[0] for p in d[0])
-            oldu = True
-            break
-        except Exception:
-            time.sleep(1 + deneme * 2)
-    # Başarısız çeviriyi ÖNBELLEĞE YAZMA · yoksa Türkçe metin kalıcı olarak
-    # İngilizce sayfaya yapışır, sonraki çalıştırmalar da onu kullanır.
-    if oldu:
+    out = translate_text(s, LANG)
+    if out:
         _cache[s] = out
         _yeni += 1
-    else:
-        print(f"  ! çeviri başarısız (önbelleğe yazılmadı): {s[:60]}")
-    time.sleep(0.15)  # uç noktaya nazik ol
-    return out
+        time.sleep(0.15)
+        return out
+    _basarisiz += 1
+    print(f"  ! çeviri başarısız (önbelleğe yazılmadı, sayfa korunacak): {s[:60]}")
+    return None
 
 
 # ── Türkçe sayfadan blok çıkarma ──────────────────────────────────────────────
