@@ -259,6 +259,9 @@ export default async function handler(req) {
 
   const email = (body.email || '').toString().trim().toLowerCase();
   const source = (body.source || 'unknown').toString().slice(0, 32);
+  const pageType = (body.pageType || '').toString().slice(0, 32).replace(/[^\w-]/g, '');
+  const contentSlug = (body.contentSlug || '').toString().slice(0, 64).replace(/[^\w-]/g, '');
+  const placement = (body.placement || '').toString().slice(0, 32).replace(/[^\w-]/g, '');
   // Kayıt hangi sayfadan geldi · data-source sayfa TİPİNİ veriyor (ör. tüm
   // 488 İngilizce sözlük sayfası 'dictionary-en'), path tek girdiyi veriyor.
   const path = (body.path || '').toString().slice(0, 120).replace(/[^\w\-/.]/g, '');
@@ -329,6 +332,9 @@ export default async function handler(req) {
         text: [
           `E-posta: ${email}`,
           `Kaynak: ${source}`,
+          pageType ? `Sayfa Tipi: ${pageType}` : '',
+          contentSlug ? `İçerik: ${contentSlug}` : '',
+          placement ? `Yerleşim: ${placement}` : '',
           path ? `Sayfa: https://trescout.com${path}` : '',
           `Tarih: ${new Date().toISOString()}`,
           isDuplicate ? 'Not: Bu e-posta listede zaten kayıtlıydı.' : ''

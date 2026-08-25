@@ -272,7 +272,7 @@ function buildVariant(V) {
 ${cekim ? `      <p class="rep-captured" title="${esc(D.rapor_cekim_not)}">${esc(D.rapor_cekim.replace('{an}', cekim))}</p>` : ''}
 ${cekim ? `      ${snapshotNote(cekim, D.rapor_snapshot_notu, esc)}` : ''}
       <p class="rep-note">${D.rapor_not}</p>
-      <aside class="signup-cta">
+      <aside class="signup-cta" data-page-type="report" data-content-slug="${dateStr}" data-cta-placement="report_detail">
         <p>${D.rapor_cta}</p>
         <a class="btn btn-primary" href="${PRE}/#top">${D.rapor_cta_dugme}</a>
       </aside>
@@ -280,6 +280,7 @@ ${cekim ? `      ${snapshotNote(cekim, D.rapor_snapshot_notu, esc)}` : ''}
   </main>
 
   ${footer}
+  <script src="/assets/telemetry.js" defer></script>
 </body>
 </html>`;
 
@@ -375,6 +376,7 @@ ${cekim ? `      ${snapshotNote(cekim, D.rapor_snapshot_notu, esc)}` : ''}
   </main>
 
   ${footer}
+  <script src="/assets/telemetry.js" defer></script>
 </body>
 </html>`;
 

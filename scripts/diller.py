@@ -142,8 +142,8 @@ DILLER = {
         "kimin_icin": "Who it is for",
         "lisans": "License",
         "bugun": "today",
-        "cta_baslik": "TreScout catches tools like this every day.",
-        "cta_metin": "GitHub, Hacker News and HuggingFace are scanned, the highlights are summarized for you.",
+        "cta_baslik": "Get similar discoveries in the daily report.",
+        "cta_metin": "TreScout scouts GitHub, Hacker News and HuggingFace trends daily, delivering curated summaries.",
         "sorumluluk": ("TreScout did not build this tool · we found it in GitHub trends and wrote it up. "
                        "This page describes the repository as of {date}: The star count and our text belong "
                        "to that day, the repository may have changed since. Check the repository link for "
@@ -156,8 +156,8 @@ DILLER = {
         "nedir": "What is {terim}?",
         "son_guncelleme": "Last updated: {tarih}",
         "analoji": "Analogy:",
-        "sozluk_cta_baslik": "New tech terms in your inbox every morning.",
-        "sozluk_cta_metin": "Join TreScout early access for the daily digest.",
+        "sozluk_cta_baslik": "Explore related tools and daily reports.",
+        "sozluk_cta_metin": "Stay on top of emerging tech terms and tools. Receive TreScout's daily summary in your inbox.",
         # ── bölüm başlıkları (Türkçe → hedef dil)
         "bolumler": {
             "Ne kazandırır?": "What you get",
@@ -329,8 +329,8 @@ DILLER = {
         "kimin_icin": "Pour qui",
         "lisans": "Licence",
         "bugun": "aujourd'hui",
-        "cta_baslik": "TreScout repère des outils comme celui-ci chaque jour.",
-        "cta_metin": "GitHub, Hacker News et HuggingFace sont analysés, l'essentiel vous est résumé.",
+        "cta_baslik": "Recevez des découvertes similaires dans le rapport quotidien.",
+        "cta_metin": "TreScout repère des outils comme celui-ci chaque jour sur GitHub, Hacker News et HuggingFace.",
         "sorumluluk": ("TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub "
                        "et présenté. Cette page décrit le dépôt tel qu'il était le {date} : Le nombre d'étoiles "
                        "et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du "
@@ -342,8 +342,8 @@ DILLER = {
         "nedir": "Qu'est-ce que {terim} ?",
         "son_guncelleme": "Dernière mise à jour : {tarih}",
         "analoji": "Analogie :",
-        "sozluk_cta_baslik": "De nouveaux termes techniques chaque matin.",
-        "sozluk_cta_metin": "Rejoignez l'accès anticipé de TreScout pour le résumé quotidien.",
+        "sozluk_cta_baslik": "Explorez les outils associés et les rapports quotidiens.",
+        "sozluk_cta_metin": "Suivez les nouveaux termes et outils technologiques chaque matin dans votre boîte de réception.",
         "bolumler": {
             "Ne kazandırır?": "Ce que ça vous apporte",
             "Kurulum": "Installation",
@@ -525,8 +525,8 @@ DILLER = {
         "kimin_icin": "Para quem é",
         "lisans": "Licença",
         "bugun": "hoje",
-        "cta_baslik": "A TreScout encontra ferramentas assim todos os dias.",
-        "cta_metin": "GitHub, Hacker News e HuggingFace são vasculhados e o essencial é resumido para você.",
+        "cta_baslik": "Receba descobertas semelhantes no relatório diário.",
+        "cta_metin": "A TreScout vasculha o GitHub, Hacker News e HuggingFace todos os dias e resume o essencial.",
         "sorumluluk": ("A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do "
                        "GitHub e a apresentamos. Esta página descreve o repositório em {date}: A contagem "
                        "de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde "
@@ -538,8 +538,8 @@ DILLER = {
         "nedir": "O que é {terim}?",
         "son_guncelleme": "Última atualização: {tarih}",
         "analoji": "Analogia:",
-        "sozluk_cta_baslik": "Novos termos técnicos na sua caixa de entrada toda manhã.",
-        "sozluk_cta_metin": "Entre no acesso antecipado da TreScout para receber o resumo diário.",
+        "sozluk_cta_baslik": "Explore ferramentas relacionadas e relatórios diários.",
+        "sozluk_cta_metin": "Novos termos e ferramentas surgem todos os dias · junte-se ao acesso antecipado da TreScout.",
         "bolumler": {
             "Ne kazandırır?": "O que você ganha",
             "Kurulum": "Instalação",
@@ -719,8 +719,8 @@ DILLER = {
         "kimin_icin": "Para quién es",
         "lisans": "Licencia",
         "bugun": "hoy",
-        "cta_baslik": "TreScout encuentra herramientas como esta todos los días.",
-        "cta_metin": "Rastreamos GitHub, Hacker News y HuggingFace, y le resumimos lo esencial.",
+        "cta_baslik": "Reciba descubrimientos similares en el informe diario.",
+        "cta_metin": "TreScout rastrea GitHub, Hacker News y HuggingFace cada día y le resume lo esencial.",
         "sorumluluk": ("TreScout no desarrolló esta herramienta · la encontramos en las tendencias de "
                        "GitHub y la presentamos. Esta página describe el repositorio tal como estaba el "
                        "{date}: El número de estrellas y nuestro texto son de ese día, el repositorio "
@@ -733,8 +733,8 @@ DILLER = {
         "nedir": "¿Qué es {terim}?",
         "son_guncelleme": "Última actualización: {tarih}",
         "analoji": "Analogía:",
-        "sozluk_cta_baslik": "Nuevos términos técnicos en su bandeja de entrada cada mañana.",
-        "sozluk_cta_metin": "Únase al acceso anticipado de TreScout para recibir el resumen diario.",
+        "sozluk_cta_baslik": "Descubra herramientas relacionadas e informes diarios.",
+        "sozluk_cta_metin": "Cada día surgen nuevos términos y herramientas · únase al acceso anticipado de TreScout.",
         "bolumler": {
             "Ne kazandırır?": "Qué aporta",
             "Kurulum": "Instalación",
@@ -916,8 +916,8 @@ DILLER = {
         "kimin_icin": "Für wen es gedacht ist",
         "lisans": "Lizenz",
         "bugun": "heute",
-        "cta_baslik": "TreScout findet jeden Tag Werkzeuge wie dieses.",
-        "cta_metin": "Wir durchsuchen GitHub, Hacker News und HuggingFace und fassen das Wesentliche für Sie zusammen.",
+        "cta_baslik": "Erhalten Sie ähnliche Entdeckungen im täglichen Bericht.",
+        "cta_metin": "TreScout durchsucht täglich GitHub, Hacker News und HuggingFace und fasst das Wesentliche zusammen.",
         "sorumluluk": ("TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends "
                        "gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am "
                        "{date} war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das "
@@ -930,8 +930,8 @@ DILLER = {
         "nedir": "Was ist {terim}?",
         "son_guncelleme": "Zuletzt aktualisiert: {tarih}",
         "analoji": "Analogie:",
-        "sozluk_cta_baslik": "Jeden Morgen neue Fachbegriffe in Ihrem Postfach.",
-        "sozluk_cta_metin": "Sichern Sie sich den Vorabzugang zu TreScout und erhalten Sie die tägliche Zusammenfassung.",
+        "sozluk_cta_baslik": "Entdecken Sie passende Werkzeuge und tägliche Berichte.",
+        "sozluk_cta_metin": "Jeden Tag entstehen neue Fachbegriffe und Tools · sichern Sie sich den Vorabzugang zu TreScout.",
         "bolumler": {
             "Ne kazandırır?": "Was es bringt",
             "Kurulum": "Installation",

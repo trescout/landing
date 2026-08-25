@@ -83,7 +83,7 @@
         <p class="mid-line">TreScout kaynak akışlarını tarar, öne çıkanları özetler ve tek raporda bir araya getirir.</p>
         <p class="sub-line">GitHub Trending, Hacker News, Hugging Face’in model ve günlük makale akışları, Lobsters ve diğer herkese açık kaynak akışları.</p>
 
-        <form class="cta-form js-subscribe" data-source="hero" novalidate id="early-access-hero">
+        <form class="cta-form js-subscribe" data-source="hero" data-page-type="home" data-cta-placement="hero" id="early-access-hero" novalidate>
           <div class="form-row">
             <label class="visually-hidden" for="email-hero-tr">E-posta adresi</label><input class="input" type="email" name="email" id="email-hero-tr" placeholder="E-postanızı yazın" autocomplete="email" aria-label="E-posta adresiniz" required>
             <button class="btn btn-primary btn-large" type="submit">Erken erişime davet edilince haberdar olun</button>
@@ -669,6 +669,7 @@
 
   <script src="/assets/index.js" defer></script>
   <script src="/assets/home-interactions.js" defer></script>
+  <script src="/assets/telemetry.js" defer></script>
 
   <!-- ============== VERCEL ANALYTICS · cookieless, KVKK uyumlu ============== -->
   <script defer src="/_vercel/insights/script.js"></script>

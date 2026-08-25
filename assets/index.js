@@ -140,12 +140,19 @@
 
           try {
             var honeypot = form.querySelector('input[name="website"]');
+            var pageType = form.dataset.pageType || 'home';
+            var contentSlug = form.dataset.contentSlug || '';
+            var placement = form.dataset.ctaPlacement || form.dataset.source || 'hero';
+
             var res = await fetch(ENDPOINT, {
               method: 'POST',
               headers: { 'Content-Type': 'application/json' },
               body: JSON.stringify({
                 email: email,
                 source: form.dataset.source || 'unknown',
+                pageType: pageType,
+                contentSlug: contentSlug,
+                placement: placement,
                 consent: true,
                 website: honeypot ? honeypot.value : ''
               })
@@ -153,6 +160,14 @@
             var data = await res.json().catch(function () { return {}; });
 
             if (res.ok && data.ok) {
+              if (window.TreScoutTelemetry && typeof window.TreScoutTelemetry.track === 'function') {
+                window.TreScoutTelemetry.track('early_access_submit', {
+                  pageType: pageType,
+                  contentSlug: contentSlug,
+                  placement: placement,
+                  isDuplicate: data.duplicate === true
+                });
+              }
               showSuccess(form, data.duplicate === true);
             } else {
               button.disabled = false;

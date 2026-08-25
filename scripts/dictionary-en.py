@@ -128,6 +128,18 @@ def esc(s):
     return html.escape(s or "", quote=True).replace("&#x27;", "&#39;")
 
 
+def make_dict_form(slug=""):
+    slug_attr = f' data-content-slug="{esc(slug)}"' if slug else ''
+    return (f'<form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-{LANG}" data-page-type="dictionary"{slug_attr} data-cta-placement="dictionary_detail" novalidate>'
+            '<div class="form-row">'
+            f'<input class="input" type="email" name="email" placeholder="{D["form_yer_tutucu"]}" autocomplete="email" required>'
+            f'<button class="btn btn-primary" type="submit">{D["form_dugme"]}</button></div>'
+            '<label class="form-consent"><input type="checkbox" name="consent" required>'
+            f'<span>{D["form_onay"].format(gizlilik=D["gizlilik_yolu"])}</span></label>'
+            '<input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field">'
+            '</form>')
+
+
 def en_chrome():
     """nav/footer/form · guard'lar kanonik seti bekliyor.
 
@@ -147,14 +159,7 @@ def en_chrome():
         tt = open(tr_ornek, encoding="utf-8").read()
         logo = re.search(r"<svg[^>]*>.*?</svg>", tt, re.S).group(0)
         nav, footer = chrome_kur(D, logo)
-        form = (f'<form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-{LANG}" novalidate>'
-                '<div class="form-row">'
-                f'<input class="input" type="email" name="email" placeholder="{D["form_yer_tutucu"]}" autocomplete="email" required>'
-                f'<button class="btn btn-primary" type="submit">{D["form_dugme"]}</button></div>'
-                '<label class="form-consent"><input type="checkbox" name="consent" required>'
-                f'<span>{D["form_onay"].format(gizlilik=D["gizlilik_yolu"])}</span></label>'
-                '<input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field">'
-                '</form>')
+        form = make_dict_form()
         vercel = "".join(re.findall(r'<script[^>]*src="/_vercel[^>]*></script>', tt))
         print(f"  · {LANG}: ilk üretim · chrome ve form diller.py tablosundan kuruldu")
         return nav, footer, form, vercel
@@ -302,15 +307,17 @@ def build(term, chrome):
             '<link rel="stylesheet" href="/assets/discover.css">\n'
             '<link rel="stylesheet" href="/assets/dictionary.css">\n</head>\n')
 
+    terim_accent = f'<span class="disc-accent">{esc(baslik)}</span>'
+    h1_baslik = D["nedir"].format(terim=terim_accent)
     govde = (f'<body>\n<a class="skip-link" href="#main">{D["atla"]}</a>\n' + nav +
              '\n<main id="main">\n<article class="disc">\n'
              f'<a class="disc-back" href="{D["onek"]}/dictionary/">{D["sozluk_geri"]}</a>\n'
              f'<div class="disc-top"><span class="disc-eyebrow">{D["sozluk"]} · {esc(kat)}</span>{zaman}</div>\n'
-             f'<h1 class="disc-title">{D["nedir"].format(terim=f'<span class="disc-accent">{esc(baslik)}</span>')}</h1>\n'
+             f'<h1 class="disc-title">{h1_baslik}</h1>\n'
              + (f'<p class="dict-en">{esc(full)}</p>\n' if full else "")
              + f'<p class="disc-lead">{esc(lead)}</p>\n'
              + (lambda s: (s[0] + analoji_html + "".join(s[1:])) if s else analoji_html)(bolumler(b))
-             + f'<aside class="disc-cta"><p><strong>{D["sozluk_cta_baslik"]}</strong> {D["sozluk_cta_metin"]}</p>' + form +
+             + f'<aside class="disc-cta"><p><strong>{D["sozluk_cta_baslik"]}</strong> {D["sozluk_cta_metin"]}</p>' + make_dict_form(slug) +
              f'<a class="btn btn-ghost disc-cta-all" href="{D["onek"]}/dictionary/">{D["sozluk_tumu"]}</a></aside>\n'
              # Çeviri notu · SAYFANIN DİLİNDE ve "makine çevirisi" diyerek.
              # 2026-08-21'e kadar bu cümle betikte İNGİLİZCE gömülüydü: Fransız,
@@ -322,6 +329,7 @@ def build(term, chrome):
              '<a href="mailto:hello@trescout.com">hello@trescout.com</a>. '
              f'<a href="{canon_tr}">{D["turkce_oku"]}</a></p>\n'
              '</article>\n</main>\n' + footer + '\n<script src="/assets/subscribe.js" defer></script>\n'
+             + '<script src="/assets/telemetry.js" defer></script>\n'
              + vercel + '</body>\n</html>\n')
     return head + govde
 

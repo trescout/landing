@@ -374,6 +374,13 @@ jobs:
       - name: Keşif sıralama guard’ı
         run: python3 scripts/check-discovery-sort.py
 
+      # İçerik Snapshot & Manifest sözleşmesi (PR A)
+      # Her yayın manifest'i ve SHA256 bütünlük özetlerini günceller ve denetler.
+      - name: İçerik manifestini üret (PR A)
+        run: python3 scripts/generate-manifest.py
+      - name: İçerik manifesti doğrulaması (PR A guard)
+        run: python3 scripts/check-content-manifest.py
+
       - name: Değişiklik varsa commit'le
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}

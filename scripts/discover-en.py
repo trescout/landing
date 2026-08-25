@@ -332,19 +332,20 @@ def guncelleme_en(gs):
 # Kayıt formu · BETİKTE tanımlı, sayfadan kopyalanmıyor.
 # Önce en_chrome() formu mevcut bir {LANG} keşif sayfasından çekiyordu · o
 # sayfalarda hiç form olmadığı için boş dönüyordu ve 397 İngilizce keşif
-# sayfasında kaydolma yolu yoktu (2026-08-07). Kısır döngüyü kırmak için
-# kanonik hâli burada duruyor.
-CTA_FORM = (
-    f'<form class="cta-form disc-cta-form js-subscribe" data-source="discover-{LANG}" novalidate>'
-    '<div class="form-row">'
-    f'<input class="input" type="email" name="email" placeholder="{D["form_yer_tutucu"]}" '
-    'autocomplete="email" required>'
-    f'<button class="btn btn-primary" type="submit">{D["form_dugme"]}</button></div>'
-    '<label class="form-consent"><input type="checkbox" name="consent" required>'
-    f'<span>{D["form_onay"].format(gizlilik=D["gizlilik_yolu"])}</span></label>'
-    '<input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field">'
-    '</form>'
-)
+def make_cta_form(slug=""):
+    slug_attr = f' data-content-slug="{esc(slug)}"' if slug else ''
+    return (
+        f'<form class="cta-form disc-cta-form js-subscribe" data-source="discover-{LANG}" data-page-type="discover"{slug_attr} data-cta-placement="discover_detail" novalidate>'
+        '<div class="form-row">'
+        f'<input class="input" type="email" name="email" placeholder="{D["form_yer_tutucu"]}" '
+        'autocomplete="email" required>'
+        f'<button class="btn btn-primary" type="submit">{D["form_dugme"]}</button></div>'
+        '<label class="form-consent"><input type="checkbox" name="consent" required>'
+        f'<span>{D["form_onay"].format(gizlilik=D["gizlilik_yolu"])}</span></label>'
+        '<input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field">'
+        '</form>'
+    )
+CTA_FORM = make_cta_form()
 
 
 def en_chrome():
@@ -504,9 +505,9 @@ def build(slug, cat, chrome):
              f'<p class="disc-disclaimer">{D["sorumluluk"].format(date=date)} '
              f'{D["ceviri_notu_kisa"]}</p>\n'
              f'<aside class="disc-cta"><p><strong>{D["cta_baslik"]}</strong> {D["cta_metin"]}</p>'
-             + form + f'<a class="btn btn-ghost disc-cta-all" href="{D["onek"]}/discover/">{D["kesif_tumu"]}</a></aside>\n'
+             + make_cta_form(slug) + f'<a class="btn btn-ghost disc-cta-all" href="{D["onek"]}/discover/">{D["kesif_tumu"]}</a></aside>\n'
              '</article>\n</main>\n' + footer + '\n<script src="/assets/discover.js" defer></script>\n'
-             '<script src="/assets/subscribe.js" defer></script>\n' + vercel + '</body>\n</html>\n')
+             '<script src="/assets/subscribe.js" defer></script>\n<script src="/assets/telemetry.js" defer></script>\n' + vercel + '</body>\n</html>\n')
     return head + govde
 
 
