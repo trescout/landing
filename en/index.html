@@ -85,7 +85,7 @@
         <form class="cta-form js-subscribe" data-source="hero-en" novalidate id="early-access-hero">
           <div class="form-row">
             <label class="visually-hidden" for="email-hero-en">Email address</label><input class="input" type="email" name="email" id="email-hero-en" placeholder="Enter your email" autocomplete="email" aria-label="Your email address" required>
-            <button class="btn btn-primary btn-large" type="submit">Be first to know when we launch</button>
+            <button class="btn btn-primary btn-large" type="submit">Be notified when early access opens</button>
           </div>
           <label class="form-consent">
             <input type="checkbox" name="consent" required aria-describedby="consent-hint" data-needs-consent>
@@ -533,11 +533,12 @@
       <form class="cta-form final-cta-form js-subscribe" data-source="final-cta-en" novalidate>
         <div class="form-row">
           <label class="visually-hidden" for="email-final-en">Email address</label><input class="input" type="email" name="email" id="email-final-en" placeholder="Enter your email" autocomplete="email" aria-label="Your email address" required>
-          <button class="btn btn-primary btn-large" type="submit">Be first to know when we launch</button>
+          <button class="btn btn-primary btn-large" type="submit">Be notified when early access opens</button>
         </div>
         <label class="form-consent">
-          <input type="checkbox" name="consent" required>
-          <span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span>
+          <input type="checkbox" name="consent" required aria-describedby="consent-hint-final-en" data-needs-consent>
+          <span>I have read the <a href="/en/privacy.html" data-privacy-modal>Privacy Notice</a> and consent to my email being processed for this purpose.</span>
+          <span id="consent-hint-final-en" class="form-consent-hint">Please read the Privacy Notice to give consent.</span>
         </label>
         <input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field">
       </form>
@@ -565,7 +566,7 @@
           <li><a href="/en/dictionary/">Dictionary</a></li>
           <li><a href="/en/reports/">Reports Archive</a></li>
           <li><a href="/en/compare/rss-vs-ai/">Compare</a></li>
-          <li><a href="/en/#top">Early Access</a></li>
+          <li><a href="/en/#early-access-hero">Early Access</a></li>
         </ul>
       </div>
       <div class="footer-col">

@@ -16,6 +16,8 @@
     /* Modal açık · body scroll lock iOS-safe position:fixed ile inline yapılır
        (openModal/closeModal JS'te); class sadece marker, ek CSS gerektirmez */
     /* ---------- HERO ---------- */
+    /* Sticky nav, hash ile gelen hedefin ilk satırlarını kapatmasın. */
+    #early-access-hero { scroll-margin-top: 100px; }
     .hero {
       position: relative;
       padding: 96px 0 100px;
@@ -431,6 +433,9 @@
       .hero-visual:hover .email-client { transform: rotateY(-1deg); }
     }
     @media (max-width: 540px) {
+      #early-access-hero { scroll-margin-top: 88px; }
+      .hero .cta-form .form-row { align-items: stretch; }
+      .hero .cta-form .btn-large { white-space: normal; }
       .email-client { transform: none; }
       .hero-visual:hover .email-client { transform: none; }
     }
