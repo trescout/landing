@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "TreScout New Tab · Daily Tech & Tool Discovery",
+  "version": "1.0.0",
+  "description": "Discover trending open-source projects, CLI tools, and daily tech intelligence on every new tab.",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "icons": {
+    "128": "icon.png"
+  },
+  "action": {
+    "default_title": "TreScout New Tab"
+  }
+}

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TreScout New Tab</title>
+  <link rel="stylesheet" href="newtab.css">
+</head>
+<body>
+  <div class="nt-container">
+    <!-- Header: Clock & Greeting -->
+    <header class="nt-header">
+      <div class="nt-clock" id="js-clock">12:00</div>
+      <div class="nt-date" id="js-date">26 Ağustos 2026, Çarşamba</div>
+    </header>
+
+    <!-- Search / Command Box -->
+    <div class="nt-search-wrap">
+      <div class="nt-search-box">
+        <span class="nt-search-icon">🔍</span>
+        <input type="text" id="js-search-input" placeholder="Açık kaynak aracı veya terim ara (örn: rust, agent, rag)..." autocomplete="off">
+        <kbd class="nt-search-kbd">Enter ↵</kbd>
+      </div>
+    </div>
+
+    <!-- Featured Tool Card -->
+    <main class="nt-main">
+      <div class="nt-card" id="js-tool-card">
+        <div class="nt-card-eyebrow">
+          <span class="nt-badge-featured">GÜNÜN KEŞFİ</span>
+          <span class="nt-stars" id="js-tool-stars">★ 142.599</span>
+        </div>
+        
+        <h1 class="nt-title" id="js-tool-title">Claude Code</h1>
+        <p class="nt-lead" id="js-tool-desc">Terminalde çalışan ve kod tabanınızı anlayan AI ajan kodlama aracı (Anthropic ürünü).</p>
+        
+        <div class="nt-cmd-box">
+          <code id="js-tool-cmd">npm install -g @anthropic-ai/claude-code</code>
+          <button type="button" class="nt-btn-copy" id="js-btn-copy">Kopyala</button>
+        </div>
+
+        <div class="nt-tags" id="js-tool-tags">
+          <span class="nt-tag">Yapay zekâ araçları</span>
+          <span class="nt-tag">Geliştirici aracı</span>
+          <span class="nt-tag">Terminal</span>
+        </div>
+
+        <div class="nt-actions">
+          <a class="nt-btn-primary" id="js-tool-link" href="https://trescout.com/discover/claude-code/" target="_blank" rel="noopener">TreScout'ta İncele →</a>
+          <button type="button" class="nt-btn-shuffle" id="js-btn-shuffle">🎲 Başka Bir Araç Göster</button>
+        </div>
+      </div>
+    </main>
+
+    <!-- Footer Quick Links -->
+    <footer class="nt-footer">
+      <div class="nt-quick-links">
+        <a href="https://trescout.com/reports/" target="_blank" rel="noopener">📰 Günlük Teknoloji Raporları</a>
+        <a href="https://trescout.com/discover/" target="_blank" rel="noopener">🚀 470+ Açık Kaynak Keşfi</a>
+        <a href="https://trescout.com/dictionary/" target="_blank" rel="noopener">📖 Teknoloji Sözlüğü</a>
+      </div>
+      <div class="nt-brand">
+        <span>© 2026 TreScout · Sıfır Takip, Çerezsiz</span>
+      </div>
+    </footer>
+  </div>
+
+  <script src="newtab.js"></script>
+</body>
+</html>
