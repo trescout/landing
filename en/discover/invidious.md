@@ -5,6 +5,28 @@ Invidious is an open-source alternative interface for YouTube. The official READ
 - ★ 22,400
 - GitHub Trending · 2026-08-02
 
+## Installation
+**Clone the repository**
+
+```
+git clone https://github.com/iv-org/invidious.git
+```
+
+**Enter the project directory**
+
+```
+cd invidious
+```
+
+
+## Running it
+**Start Docker Compose**
+
+```
+docker compose up -d
+```
+
+
 ## What does this tool do?
 Invidious provides an alternative interface to YouTube and does not use the official YouTube APIs. You can choose a public instance or host your own by following the separate installation documentation. The project is licensed under AGPL-3.0 and provides a documented developer API.
 
@@ -31,27 +53,7 @@ People who specifically need a solution built on the official YouTube APIs.
 ## First task prompt
 What are the differences between using a public Invidious instance and hosting my own instance?
 
-## Installation
-**Clone the repository**
-
-```
-git clone https://github.com/iv-org/invidious.git
-```
-
-**Enter the project directory**
-
-```
-cd invidious
-```
-
-
-## Running it
-**Start Docker Compose**
-
-```
-docker compose up -d
-```
-
+## Related dictionary terms
 
 ## Links
 - GitHub repository →

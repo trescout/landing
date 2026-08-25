@@ -5,6 +5,22 @@ n8n verbindet eine visuelle Arbeitsfläche, eigenen Code, KI-Agenten und Workflo
 - ★ 201.895
 - GitHub Trending · 2026-08-23
 
+## Installation
+**Daten-Volume erstellen**
+
+```
+docker volume create n8n_data
+```
+
+
+## Ausführung
+**n8n-Docker-Container starten**
+
+```
+docker run -it --rm --name n8n -p 5678:5678 -v n8n_data:/home/node/.n8n docker.n8n.io/n8nio/n8n
+```
+
+
 ## Was macht dieses Werkzeug?
 Mit n8n können Sie Workflows auf einer visuellen Arbeitsfläche erstellen und sie mit JavaScript, Python und npm-Paketen erweitern. Offizielle Quellen nennen Modellflexibilität über OpenAI, Anthropic, Google und Open-Source-Modelle sowie menschliche Freigaben, Beobachtbarkeit, rollenbasierten Zugriff und Audit-Trails. Die Plattform kann selbst betrieben oder in der Cloud eingesetzt werden.
 
@@ -31,21 +47,7 @@ Menschen, die ausschließlich Produkte mit proprietärer Lizenz suchen oder Work
 ## Erster Prompt
 Helfen Sie mir, auf der visuellen Arbeitsfläche einen Workflow zu entwerfen, der eine Eingabe annimmt, sie mit einem KI-Modell verarbeitet und das Ergebnis an den nächsten Schritt weitergibt.
 
-## Installation
-**Daten-Volume erstellen**
-
-```
-docker volume create n8n_data
-```
-
-
-## Ausführung
-**n8n-Docker-Container starten**
-
-```
-docker run -it --rm --name n8n -p 5678:5678 -v n8n_data:/home/node/.n8n docker.n8n.io/n8nio/n8n
-```
-
+## Verwandte Begriffe aus dem Glossar
 
 ## Links
 - GitHub-Repository →
