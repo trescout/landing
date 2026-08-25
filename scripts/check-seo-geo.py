@@ -26,10 +26,15 @@ def first(pattern: str, text: str) -> str | None:
     return match.group(1).strip() if match else None
 
 
+def schema_text(value: object | None) -> str:
+    """Compare schema and visible copy after HTML/entity/whitespace normalization."""
+    return re.sub(r"\s+", " ", html.unescape(str(value or ""))).strip()
+
+
 def visible_text(value: str | None) -> str:
     if not value:
         return ""
-    return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", value))).strip()
+    return schema_text(re.sub(r"<[^>]+>", " ", value))
 
 
 def route_for(path: Path) -> str:
@@ -102,9 +107,9 @@ def main() -> int:
                 article = articles[0]
                 visible_headline = visible_text(first(r'<h1 class="disc-title">(.*?)</h1>', text))
                 visible_lead = visible_text(first(r'<p class="disc-lead">(.*?)</p>', text))
-                if article.get("headline") != visible_headline:
+                if schema_text(article.get("headline")) != schema_text(visible_headline):
                     fail(errors, f"{rel}: Article headline does not match visible H1")
-                if article.get("description") != visible_lead:
+                if schema_text(article.get("description")) != schema_text(visible_lead):
                     fail(errors, f"{rel}: Article description does not match visible lead")
                 article_lang = str(article.get("inLanguage", ""))
                 if article_lang.split("-")[0].lower() != (lang or "").split("-")[0].lower():
