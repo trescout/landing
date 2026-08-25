@@ -1,0 +1,20 @@
+{
+  "name": "trescout",
+  "version": "1.0.0",
+  "description": "TreScout CLI - Daily Tech Intelligence & Open Source Discovery in your Terminal",
+  "main": "index.js",
+  "bin": {
+    "trescout": "./bin/trescout.js"
+  },
+  "type": "commonjs",
+  "keywords": [
+    "trescout",
+    "cli",
+    "developer-tools",
+    "open-source",
+    "tech-news",
+    "ai"
+  ],
+  "author": "TreScout Team <hello@trescout.com>",
+  "license": "MIT"
+}
