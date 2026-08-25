@@ -24,7 +24,22 @@
         "surum_tarihi": "2026-07-10",
         "tasindi": "Egonex-AI/Understand-Anything"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Claude Code eklentisi ekle",
+          "komut": "/plugin marketplace add Lum1104/Understand-Anything\n/plugin install understand-anything"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Kod tabanını analiz et",
+          "komut": "/understand"
+        }
+      ],
+      "kaynak": "Resmî GitHub deposu (Lum1104/Understand-Anything)"
+    }
   },
   {
     "slug": "ecc",
@@ -49,7 +64,22 @@
         "surum": "v2.1.0",
         "surum_tarihi": "2026-07-27"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Claude Code ile eklenti ekle",
+          "komut": "/plugin marketplace add https://github.com/affaan-m/ECC\n/plugin install ecc@ecc"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Güvenlik taraması çalıştır",
+          "komut": "/security-scan"
+        }
+      ],
+      "kaynak": "Resmî GitHub deposu (affaan-m/ECC) · ecc.tools"
+    }
   },
   {
     "slug": "ai-engineering-from-scratch",
@@ -98,7 +128,16 @@
         "yildiz": 23222,
         "onceki_yildiz": 16517
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Git ile depoyu klonla",
+          "komut": "git clone https://github.com/alexeygrobov/knowledge-work-plugins.git"
+        }
+      ],
+      "kaynak": "Resmî GitHub deposu (alexeygrobov/knowledge-work-plugins)"
+    }
   },
   {
     "slug": "anthropic-cybersecurity-skills",
@@ -123,7 +162,16 @@
         "surum": "v1.3.0",
         "surum_tarihi": "2026-06-22"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Git ile beceri deposunu klonla",
+          "komut": "git clone https://github.com/cybersecurity-skills/anthropic-cybersecurity-skills.git"
+        }
+      ],
+      "kaynak": "Resmî GitHub deposu"
+    }
   },
   {
     "slug": "stop-slop",
@@ -218,7 +266,22 @@
         "surum": "v10.11.11",
         "surum_tarihi": "2026-06-06"
       }
-    ]
+    ],
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Docker ile",
+          "komut": "docker run -d --name jellyfin -p 8096:8096 jellyfin/jellyfin"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Tarayıcıdan erişin",
+          "komut": "http://localhost:8096"
+        }
+      ],
+      "kaynak": "Docker Hub (jellyfin/jellyfin) · resmî Jellyfin dokümantasyonu (jellyfin.org)"
+    }
   },
   {
     "slug": "awesome-free-apps",
