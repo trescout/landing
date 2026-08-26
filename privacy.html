@@ -82,11 +82,9 @@
 
     <h2>7. Çerezler ve analitik</h2>
     <p>
-      TreScout landing sayfası tarayıcınıza <strong>hiçbir tracking çerezi yerleştirmez</strong>. Form bir doğrudan API çağrısıyla çalışır, üçüncü taraf reklam veya davranış izleme widget'ı yüklenmez.
+      Vercel Web Analytics ve Vercel Speed Insights, yalnızca “Anonim ürün ölçümü” tercihinizi açıkça etkinleştirdiğinizde yüklenir. Bu tercihten önce provider scriptleri çalıştırılmaz; tercihi kaldırdığınızda sonraki sayfa yüklemelerinde provider scriptleri yeniden yüklenmez. Bu hizmetlerin çerez, fingerprint ve veri saklama davranışı sağlayıcıların güncel belgelerine tabidir; bu paragraf yalnızca teknik kullanım amacını açıklar. Ayrıca, yalnızca seçtiğiniz isteğe bağlı <strong>anonim ürün ölçümü (telemetry)</strong> etkinleştirildiğinde sayfa türü, içerik bağlantısı, yerleşim ve sınırlı kampanya parametreleri gibi bağlamsal event verileri gönderilir. E-posta adresi ve isim telemetry event’lerine dahil edilmez. Tercih verilmeden telemetry event’i gönderilmez ve tarayıcının <code>localStorage</code> alanına retention durumu yazılmaz; tercihinizi <strong>Anonim ürün ölçümü</strong> panelinden istediğiniz zaman değiştirebilirsiniz.
     </p>
-    <p>
-      Sayfa ziyaretçi sayımı için <strong>Vercel Web Analytics</strong> ve <strong>Vercel Speed Insights</strong> kullanılır. Bu hizmetlerin çerez, fingerprint ve veri saklama davranışı sağlayıcıların güncel belgelerine tabidir; burada yalnızca teknik kullanım amacı açıklanmaktadır. Ayrıca, yalnızca açıkça seçilen isteğe bağlı <strong>anonim ürün ölçümü (telemetry)</strong> etkinleştirilirse sayfa türü, içerik bağlantısı, yerleşim ve sınırlı kampanya parametreleri gibi bağlamsal event verileri gönderilir. E-posta adresi ve isim telemetry event’lerine dahil edilmez. Tercih verilmeden telemetry event’i gönderilmez ve tarayıcının <code>localStorage</code> alanına retention durumu yazılmaz; tercih <strong>Anonim ürün ölçümü</strong> panelinden istenildiği zaman değiştirilebilir.
-    </p>
+
     <p>
       Sayfa tipografisinde <strong>Inter yazı tipi</strong> kullanılır. Yazı tipi dosyaları, Google Fonts gibi üçüncü bir font hizmetine bağlanılmadan, ziyaret ettiğiniz sitenin kendi alan adından (trescout.com) sunulur. Böylece yazı tipi yüklenirken IP adresiniz Google gibi ayrı bir tarafa gönderilmez; tarayıcınıza çerez de yerleştirilmez. (IP adresiniz yalnızca, 5. maddede belirtilen barındırma altyapımıza ulaşır.)
     </p>
@@ -169,7 +167,8 @@
   <script src="/assets/privacy.js" defer></script>
 
   <!-- Vercel Analytics · cookieless, KVKK uyumlu -->
-  <script defer src="/_vercel/insights/script.js"></script>
-  <script defer src="/_vercel/speed-insights/script.js"></script>
+  <script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>
+  <script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>
+  <script src="/assets/provider-consent.js" defer></script>
 </body>
 </html>

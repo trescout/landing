@@ -7,6 +7,7 @@ const root = new URL('..', import.meta.url);
 const reportSources = [
   '/_vercel/insights/script.js',
   '/_vercel/speed-insights/script.js',
+  '/assets/provider-consent.js',
   '/assets/telemetry.js',
 ];
 
@@ -42,6 +43,13 @@ test('report detail pages have one canonical analytics/runtime block', async () 
     for (const source of reportSources) {
       assert.equal(text.split(source).length - 1, 1, `${relativePath}: expected exactly one ${source}`);
     }
+    assert.doesNotMatch(
+      text,
+      /<script\b(?=[^>]*\bsrc=["']\/_vercel\/(?:insights|speed-insights)\/script\.js["'])(?![^>]*\bdata-consent-src=)/i,
+      `${relativePath}: provider script must not execute before consent`,
+    );
+    assert.match(text, /data-consent-src="\/_vercel\/insights\/script\.js"/);
+    assert.match(text, /data-consent-src="\/_vercel\/speed-insights\/script\.js"/);
     const positions = reportSources.map(source => text.indexOf(source));
     assert.deepEqual(
       positions,

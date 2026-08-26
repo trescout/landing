@@ -119,6 +119,9 @@ function normalizeReportScripts(html) {
   const tagPatterns = [
     /\s*<script\b(?=[^>]*\bsrc=["']\/_vercel\/insights\/script\.js["'])[^>]*><\/script>\s*/gi,
     /\s*<script\b(?=[^>]*\bsrc=["']\/_vercel\/speed-insights\/script\.js["'])[^>]*><\/script>\s*/gi,
+    /\s*<script\b(?=[^>]*\bdata-consent-src=["']\/_vercel\/insights\/script\.js["'])[^>]*><\/script>\s*/gi,
+    /\s*<script\b(?=[^>]*\bdata-consent-src=["']\/_vercel\/speed-insights\/script\.js["'])[^>]*><\/script>\s*/gi,
+    /\s*<script\b(?=[^>]*\bsrc=["']\/assets\/provider-consent\.js["'])[^>]*><\/script>\s*/gi,
     /\s*<script\b(?=[^>]*\bsrc=["']\/assets\/telemetry\.js["'])[^>]*><\/script>\s*/gi
   ];
   let normalized = html;
@@ -130,8 +133,9 @@ function normalizeReportScripts(html) {
   normalized = normalized.replace(/[ \t]*<!--\s*Vercel Analytics[^\n]*-->[ \t]*\n?/gi, '');
 
   const canonicalBlock = [
-    '  <script defer src="/_vercel/insights/script.js"></script>',
-    '  <script defer src="/_vercel/speed-insights/script.js"></script>',
+    '  <script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>',
+    '  <script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>',
+    '  <script src="/assets/provider-consent.js" defer></script>',
     '  <script src="/assets/telemetry.js" defer></script>'
   ].join('\n');
   normalized = normalized.replace(/<\/body>/i, `${canonicalBlock}\n</body>`);

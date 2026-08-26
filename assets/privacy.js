@@ -79,6 +79,14 @@
     try { return window.localStorage.getItem('ts_telemetry_consent') === 'granted'; } catch (e) { return false; }
   }
 
+  function notifyConsentChange(value) {
+    try {
+      window.dispatchEvent(new CustomEvent('trescout:telemetry-consent', {
+        detail: { value: value ? 'granted' : 'denied' }
+      }));
+    } catch (e) {}
+  }
+
   function writeConsent(value) {
     try {
       if (value) window.localStorage.setItem('ts_telemetry_consent', 'granted');
@@ -87,6 +95,7 @@
         window.localStorage.removeItem('ts_first_seen');
         window.localStorage.removeItem('ts_retention_w2');
       }
+      notifyConsentChange(value);
       return true;
     } catch (e) { return false; }
   }

@@ -140,6 +140,10 @@ html = f"""<!DOCTYPE html>
 </main>
 {footer}
 {modal}
+<!-- Vercel provider’ları yalnızca consent sonrası provider-consent.js yükler. -->
+<script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>
+<script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>
+<script src="/assets/provider-consent.js" defer></script>
 <!-- index.js · form + scroll-gate modal. Her bölümü kendi elemanını bulamazsa
      erken çıkıyor, bu yüzden ana sayfanın tamamı olmadan da güvenli. -->
 <script src="/assets/index.js" defer></script>

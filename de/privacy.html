@@ -90,20 +90,9 @@
 
     <h2>7. Cookies und Reichweitenmessung</h2>
     <p>
-      Die Seiten von TreScout setzen <strong>kein Cookie zur Nachverfolgung</strong> in Ihrem Browser. Das
-      Formular arbeitet über einen direkten Aufruf unserer API; es wird kein Werbe- oder
-      Verhaltensnachverfolgungs-Widget Dritter geladen.
+      Vercel Web Analytics und Vercel Speed Insights werden erst geladen, nachdem Sie die Präferenz „Anonyme Produktmessung“ ausdrücklich aktiviert haben. Vor dieser Entscheidung werden die Provider-Skripte nicht ausgeführt; nach dem Widerruf werden sie bei späteren Seitenaufrufen nicht erneut geladen. Für das Verhalten dieser Dienste in Bezug auf Cookies, Fingerprinting und Datenspeicherung gilt die aktuelle Dokumentation der Anbieter; dieser Absatz beschreibt nur den technischen Zweck. Zusätzlich sendet nur die <strong>optionale anonyme Produktmessung (Telemetrie)</strong> kontextbezogene Eventdaten wie Seitentyp, Inhaltslink, Platzierung und begrenzte Kampagnenparameter. E-Mail-Adressen und Namen sind nicht in Telemetrie-Events enthalten. Vor einer Entscheidung wird kein Telemetrie-Event gesendet und kein Aufbewahrungsstatus in <code>localStorage</code> geschrieben; Sie können die Auswahl jederzeit im Panel <strong>Anonyme Produktmessung</strong> ändern.
     </p>
-    <p>
-      Für die Zählung der Besuche nutzen wir Vercel Web Analytics und Vercel Speed Insights. Das Verhalten dieser
-      Dienste in Bezug auf Cookies, Fingerabdrücke und Datenspeicherung richtet sich nach der aktuellen
-      Dokumentation der Anbieter; dieser Absatz beschreibt nur den technischen Zweck. Zusätzlich sendet die
-      <strong>optionale anonyme Produktmessung (Telemetrie)</strong> kontextbezogene Eventdaten wie Seitentyp,
-      Inhaltslink, Platzierung und begrenzte Kampagnenparameter nur, wenn Sie sie ausdrücklich aktivieren.
-      E-Mail-Adressen und Namen sind nicht in Telemetrie-Events enthalten. Vor einer Auswahl wird kein Telemetrie-
-      Event gesendet und kein Aufbewahrungsstatus in <code>localStorage</code> des Browsers gespeichert. Sie können
-      diese Auswahl jederzeit im Panel <strong>Anonyme Produktmessung</strong> ändern.
-    </p>
+
     <p>
       Die Seiten verwenden die Schrift Inter. Die Schriftdateien werden von unserer eigenen Domain
       (trescout.com) ausgeliefert und nicht von einem Dienst Dritter wie Google Fonts: Ihre IP-Adresse wird
@@ -132,5 +121,8 @@
     </p>
   </div>
   <script src="/assets/privacy.js" defer></script>
+  <script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>
+  <script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>
+  <script src="/assets/provider-consent.js" defer></script>
 </body>
 </html>

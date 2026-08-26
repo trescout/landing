@@ -674,11 +674,12 @@
 
   <!-- ============== SCROLL REVEAL (subtle fade-in) ============== -->
 
-  <!-- ============== VERCEL ANALYTICS · provider before consent-aware telemetry ============== -->
-  <script defer src="/_vercel/insights/script.js"></script>
-  <script defer src="/_vercel/speed-insights/script.js"></script>
+  <!-- ============== VERCEL PROVIDERS · consent sonrası provider-consent.js yükler ============== -->
+  <script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>
+  <script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>
   <script src="/assets/index.js" defer></script>
   <script src="/assets/home-interactions.js" defer></script>
+  <script src="/assets/provider-consent.js" defer></script>
   <script src="/assets/telemetry.js" defer></script>
 </body>
 </html>

@@ -88,20 +88,9 @@
 
     <h2>7. Cookies y medición de audiencia</h2>
     <p>
-      Las páginas de TreScout no colocan <strong>ninguna cookie de seguimiento</strong> en su navegador. El
-      formulario funciona mediante una llamada directa a nuestra API; no se carga ningún widget publicitario ni
-      de seguimiento del comportamiento de terceros.
+      Vercel Web Analytics y Vercel Speed Insights solo se cargan después de que active explícitamente la preferencia “Medición anónima del producto”. Antes de esa elección, los scripts de los proveedores no se ejecutan; después de retirar la elección, no vuelven a cargarse en las visitas posteriores. La documentación vigente de los proveedores rige su comportamiento respecto a cookies, huellas digitales y conservación; este párrafo describe únicamente la finalidad técnica. Además, solo la <strong>medición anónima opcional del producto (telemetría)</strong> envía datos contextuales como tipo de página, enlace de contenido, posición y parámetros de campaña limitados. Los correos electrónicos y nombres no se incluyen en los eventos de telemetría. No se envía ningún evento antes de una elección ni se escribe el estado de retención en <code>localStorage</code>; puede cambiar la elección en cualquier momento en el panel <strong>Medición anónima del producto</strong>.
     </p>
-    <p>
-      Usamos Vercel Web Analytics y Vercel Speed Insights para contar las visitas. El comportamiento de estos
-      servicios respecto a cookies, huellas digitales y conservación de datos depende de la documentación vigente de
-      los proveedores; este párrafo describe únicamente su finalidad técnica. Además, la <strong>medición anónima
-      opcional del producto (telemetría)</strong> envía datos contextuales, como el tipo de página, el enlace de
-      contenido, la ubicación y parámetros de campaña limitados, solo cuando usted la activa explícitamente. Los
-      correos electrónicos y nombres no se incluyen en los eventos de telemetría. Antes de elegir, no se envía ningún
-      evento de telemetría ni se guarda el estado de retención en el <code>localStorage</code> del navegador. Puede
-      cambiar esta elección en cualquier momento desde el panel <strong>Medición anónima del producto</strong>.
-    </p>
+
     <p>
       Las páginas usan la tipografía Inter. Los archivos de fuente se sirven desde nuestro propio dominio
       (trescout.com) y no desde un servicio de terceros como Google Fonts: su dirección IP no se comparte con un
@@ -130,5 +119,8 @@
     </p>
   </div>
   <script src="/assets/privacy.js" defer></script>
+  <script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>
+  <script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>
+  <script src="/assets/provider-consent.js" defer></script>
 </body>
 </html>

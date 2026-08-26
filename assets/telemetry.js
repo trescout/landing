@@ -119,16 +119,26 @@
     }, PROVIDER_POLL_MS);
   }
 
+  function notifyConsentChange(value) {
+    try {
+      window.dispatchEvent(new CustomEvent('trescout:telemetry-consent', {
+        detail: { value: value }
+      }));
+    } catch (e) {}
+  }
+
   function setConsent(value) {
     var next = value === 'granted' || value === 'denied' ? value : 'unknown';
     if (next === 'granted') {
       storageSet(STORAGE_KEY_CONSENT, next);
+      notifyConsentChange(next);
       providerPollStartedAt = 0;
       ensureFirstSeen();
       flush();
     } else {
       if (next === 'denied') storageSet(STORAGE_KEY_CONSENT, next);
       else storageRemove(STORAGE_KEY_CONSENT);
+      notifyConsentChange(next);
       clearTrackingState();
     }
     return next;
