@@ -97,6 +97,27 @@ async function translateText(text, lang) {
 module.exports = { translateText };
 
 
+function parseJsonPayload(raw) {
+  const trimmed = String(raw || '').trim();
+  try {
+    return JSON.parse(trimmed);
+  } catch {
+    const fenceMatch = trimmed.match(/```(?:json)?\s*([\s\S]*?)\s*```/i);
+    if (fenceMatch) {
+      try {
+        return JSON.parse(fenceMatch[1].trim());
+      } catch {}
+    }
+    const arrayMatch = trimmed.match(/\[\s*\{[\s\S]*\}\s*\]/);
+    if (arrayMatch) {
+      try {
+        return JSON.parse(arrayMatch[0].trim());
+      } catch {}
+    }
+    throw new Error('Could not parse JSON from Gemini response');
+  }
+}
+
 async function geminiBatch(texts, lang) {
   const key = (process.env.GEMINI_API_KEY || '').trim();
   if (!key || !texts.length) return null;
@@ -117,7 +138,7 @@ async function geminiBatch(texts, lang) {
         headers: { 'Content-Type': 'application/json', 'x-goog-api-key': key },
       }, body, 90000);
       const raw = clean((data?.candidates?.[0]?.content?.parts || []).map(part => part?.text || '').join(''));
-      const parsed = JSON.parse(raw);
+      const parsed = parseJsonPayload(raw);
       const rows = Array.isArray(parsed) ? parsed : parsed?.translations;
       if (!Array.isArray(rows) || rows.length !== texts.length) throw new Error('Gemini batch shape mismatch');
       const result = new Map();
@@ -131,7 +152,7 @@ async function geminiBatch(texts, lang) {
       return result;
     } catch (error) {
       const msg = String(error?.message || error);
-      const retryable = /HTTP (429|500|502|503)|timeout|ECONNRESET|UNAVAILABLE|RESOURCE_EXHAUSTED/i.test(msg);
+      const retryable = /HTTP (429|500|502|503)|timeout|ECONNRESET|UNAVAILABLE|RESOURCE_EXHAUSTED|shape mismatch|Could not parse JSON|SyntaxError/i.test(msg);
       if (!retryable || attempt === 2) return null;
       await sleep(Math.min(1500 * (2 ** attempt), 12000));
     }
@@ -149,13 +170,18 @@ async function translateTexts(texts, lang) {
     if (translated) {
       for (const [source, value] of translated) result.set(source, value);
     } else {
-      // A failed Gemini batch falls back to bounded GTX calls, never to source text.
+      // If batch fails, attempt single Gemini calls before falling back to GTX
       for (const source of batch) {
-        const value = await gtx(source, lang);
-        if (value) result.set(source, value);
+        const singleGemini = await gemini(source, lang);
+        if (singleGemini) {
+          result.set(source, singleGemini);
+        } else {
+          const gtxVal = await gtx(source, lang);
+          if (gtxVal) result.set(source, gtxVal);
+        }
       }
     }
-    if (start + batchSize < unique.length) await sleep(5000);
+    if (start + batchSize < unique.length) await sleep(3000);
   }
   return result;
 }
