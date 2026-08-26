@@ -1,0 +1,193 @@
+/* ============================================================
+   TreScout · Açık Kaynak Mahkemesi Stilleri
+   ============================================================ */
+
+.tre-courtroom-container {
+  margin: 2.5rem 0;
+  width: 100%;
+}
+
+.lc-wrap {
+  background: linear-gradient(135deg, rgba(27, 73, 101, 0.05) 0%, rgba(95, 168, 211, 0.08) 100%);
+  border: 1px solid rgba(95, 168, 211, 0.3);
+  border-radius: 20px;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.lc-head {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 0.5rem;
+}
+
+.lc-top-badge {
+  font-size: 0.75rem;
+  font-weight: 800;
+  background: rgba(27, 73, 101, 0.1);
+  color: var(--color-primary, #1B4965);
+  padding: 3px 10px;
+  border-radius: 12px;
+  letter-spacing: 0.05em;
+}
+
+.lc-title {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: #0F172A;
+}
+
+.lc-desc {
+  font-size: 0.95rem;
+  color: #64748B;
+  max-width: 580px;
+}
+
+.lc-tabs {
+  display: flex;
+  gap: 0.6rem;
+  margin-top: 1rem;
+  background: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(95, 168, 211, 0.25);
+  border-radius: 12px;
+  padding: 4px;
+}
+
+.lc-tab-btn {
+  background: transparent;
+  border: none;
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: #64748B;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.lc-tab-btn:hover {
+  color: #1B4965;
+}
+
+.lc-tab-active {
+  background: #1B4965;
+  color: #ffffff !important;
+  box-shadow: 0 4px 12px rgba(27, 73, 101, 0.2);
+}
+
+.lc-court-card {
+  background: #ffffff;
+  border: 1px solid rgba(226, 232, 240, 0.8);
+  border-radius: 16px;
+  padding: 1.75rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.03);
+}
+
+.lc-case-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.lc-gavel {
+  font-size: 2.2rem;
+}
+
+.lc-case-title {
+  font-size: 1.2rem;
+  font-weight: 800;
+  color: #1B4965;
+}
+
+.lc-scenario {
+  font-size: 0.9rem;
+  color: #475569;
+  margin-top: 0.25rem;
+  line-height: 1.4;
+}
+
+.lc-verdict-box {
+  border-radius: 10px;
+  padding: 1rem 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.lc-risk-high {
+  background: rgba(234, 179, 8, 0.12);
+  border: 1px solid rgba(234, 179, 8, 0.3);
+  color: #854D0E;
+}
+
+.lc-risk-critical {
+  background: rgba(239, 68, 68, 0.1);
+  border: 1px solid rgba(239, 68, 68, 0.3);
+  color: #991B1B;
+}
+
+.lc-risk-safe {
+  background: rgba(34, 197, 94, 0.1);
+  border: 1px solid rgba(34, 197, 94, 0.3);
+  color: #166534;
+}
+
+.lc-verdict-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.lc-score-pill {
+  font-size: 0.75rem;
+  font-weight: 800;
+  padding: 2px 8px;
+  border-radius: 6px;
+  background: rgba(0, 0, 0, 0.08);
+}
+
+.lc-ruling-text {
+  font-size: 0.85rem;
+  line-height: 1.4;
+}
+
+.lc-alts-section h4 {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #1E293B;
+  margin-bottom: 0.75rem;
+}
+
+.lc-alts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 0.75rem;
+}
+
+.lc-alt-card {
+  background: #F8FAFC;
+  border: 1px solid #E2E8F0;
+  border-radius: 8px;
+  padding: 0.75rem 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.lc-alt-card strong {
+  font-size: 0.85rem;
+  color: #1B4965;
+}
+
+.lc-alt-card p {
+  font-size: 0.75rem;
+  color: #64748B;
+  line-height: 1.3;
+}
