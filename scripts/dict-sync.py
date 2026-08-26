@@ -213,7 +213,7 @@ def render_page(e, en_map):
       '<aside class="disc-cta"><p><strong>İlgili araçları ve günlük raporları keşfet.</strong> Her gün yeni bir teknoloji terimi ve aracı çıkıyor; geride kalmamak için TreScout bültenine katılın.</p>'
       +make_dict_form(slug)+'<a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>\n'
       '<p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>\n'
-      '</article>\n</main>\n'+FOOTER+'\n<script src="/assets/subscribe.js" defer></script>\n  <script defer src="/_vercel/insights/script.js"></script>\n  <script defer src="/_vercel/speed-insights/script.js"></script>\n<script src="/assets/telemetry.js" defer></script>\n</body>\n</html>\n')
+      '</article>\n</main>\n'+FOOTER+'\n<script src="/assets/subscribe.js" defer></script>\n<script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>\n<script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>\n<script src="/assets/provider-consent.js" defer></script>\n<script src="/assets/telemetry.js" defer></script>\n</body>\n</html>\n')
     os.makedirs(os.path.join(DICT,slug),exist_ok=True)
     open(os.path.join(DICT,slug,"index.html"),"w",encoding="utf-8").write(head+body)
     md=f"# {en} nedir?\n"+(f"\n> {full}\n" if full else "")+f"\n**Kategori:** {cattr}  \n**Son güncelleme:** {TODAY_ISO}\n\n{kisa}\n\n## Tanım\n{tanim}\n"
@@ -265,7 +265,7 @@ def render_index(manifest):
       f'<div class="dict-tags" id="dict-tags">{chips}</div>\n<p class="dict-count" id="dict-count">{len(manifest)} terim</p>\n'
       f'<div class="dict-grid" id="dict-grid">\n{cards}</div>\n<p class="dict-empty" id="dict-empty">Eşleşme yok. Aramayı değiştirin.</p>\n'
       '<aside class="disc-cta"><p><strong>Her sabah yeni terimler e-postanızda.</strong> Sektörden Terimler Sözlüğü ve günlük teknoloji raporu için TreScout\'a katılın.</p>'+FORM+'</aside>\n'
-      '</div>\n</main>\n'+FOOTER+'\n<script src="/assets/dictionary.js" defer></script>\n<script src="/assets/subscribe.js" defer></script>\n  <script defer src="/_vercel/insights/script.js"></script>\n  <script defer src="/_vercel/speed-insights/script.js"></script>\n<script src="/assets/telemetry.js" defer></script>\n</body>\n</html>\n')
+      '</div>\n</main>\n'+FOOTER+'\n<script src="/assets/dictionary.js" defer></script>\n<script src="/assets/subscribe.js" defer></script>\n<script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>\n<script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>\n<script src="/assets/provider-consent.js" defer></script>\n<script src="/assets/telemetry.js" defer></script>\n</body>\n</html>\n')
     open(os.path.join(DICT,"index.html"),"w",encoding="utf-8").write(head+body)
 
 def update_sitemap(new_slugs):

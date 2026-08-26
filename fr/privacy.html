@@ -88,20 +88,9 @@
 
     <h2>7. Cookies et mesure d'audience</h2>
     <p>
-      Les pages de TreScout ne déposent <strong>aucun cookie de suivi</strong> dans votre navigateur. Le formulaire
-      fonctionne par un appel direct à notre API ; aucun widget publicitaire ou de suivi comportemental tiers
-      n'est chargé.
+      Vercel Web Analytics et Vercel Speed Insights ne sont chargés qu’après l’activation explicite de la préférence « Mesure anonyme du produit ». Avant ce choix, les scripts des fournisseurs ne sont pas exécutés ; après le retrait du choix, ils ne sont pas rechargés lors des visites suivantes. Leurs documents actuels régissent les cookies, l’empreinte et la conservation des données ; ce paragraphe décrit uniquement la finalité technique. En outre, seule la <strong>mesure anonyme facultative du produit (télémétrie)</strong> envoie des données contextuelles telles que le type de page, le lien de contenu, la position et des paramètres de campagne limités. Les adresses e-mail et les noms ne sont pas inclus dans les événements de télémétrie. Aucun événement de télémétrie n’est envoyé avant un choix et aucun état de rétention n’est écrit dans <code>localStorage</code> ; vous pouvez modifier ce choix à tout moment dans le panneau <strong>Mesure anonyme du produit</strong>.
     </p>
-    <p>
-      Nous utilisons Vercel Web Analytics et Vercel Speed Insights pour compter les visites. Le comportement de ces
-      services concernant les cookies, les empreintes et la conservation des données dépend de leur documentation
-      actuelle ; ce paragraphe décrit uniquement leur finalité technique. En outre, une <strong>mesure anonyme
-      facultative du produit (télémétrie)</strong> envoie des données contextuelles (type de page, lien de contenu,
-      emplacement et paramètres de campagne limités), uniquement si vous l'activez explicitement. Les adresses
-      e-mail et les noms ne sont pas inclus dans les événements de télémétrie. Avant tout choix, aucun événement de
-      télémétrie n'est envoyé et aucun état de rétention n'est écrit dans le <code>localStorage</code> du navigateur.
-      Vous pouvez modifier ce choix à tout moment depuis le panneau <strong>Mesure anonyme du produit</strong>.
-    </p>
+
     <p>
       Les pages utilisent la police Inter. Les fichiers de police sont servis depuis notre propre domaine
       (trescout.com) et non depuis un service tiers comme Google Fonts : votre adresse IP n'est donc pas
@@ -130,5 +119,8 @@
     </p>
   </div>
   <script src="/assets/privacy.js" defer></script>
+  <script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>
+  <script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>
+  <script src="/assets/provider-consent.js" defer></script>
 </body>
 </html>

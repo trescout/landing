@@ -87,20 +87,9 @@
 
     <h2>7. Cookies e medição de audiência</h2>
     <p>
-      As páginas da TreScout não colocam <strong>nenhum cookie de rastreamento</strong> no seu navegador. O
-      formulário funciona por uma chamada direta à nossa API; nenhum widget de publicidade ou de rastreamento
-      comportamental de terceiros é carregado.
+      O Vercel Web Analytics e o Vercel Speed Insights só são carregados depois que você ativa explicitamente a preferência “Medição anônima do produto”. Antes dessa escolha, os scripts dos provedores não são executados; depois que a preferência é retirada, eles não são carregados novamente nas visitas seguintes. A documentação atual dos provedores rege o comportamento de cookies, impressão digital e retenção; este parágrafo descreve apenas a finalidade técnica. Além disso, somente a <strong>medição anônima opcional do produto (telemetria)</strong> envia dados contextuais, como tipo de página, link de conteúdo, posição e parâmetros de campanha limitados. Endereços de e-mail e nomes não são incluídos nos eventos de telemetria. Nenhum evento é enviado antes de uma escolha e nenhum estado de retenção é gravado no <code>localStorage</code>; você pode alterar a escolha a qualquer momento no painel <strong>Medição anônima do produto</strong>.
     </p>
-    <p>
-      Usamos Vercel Web Analytics e Vercel Speed Insights para contar as visitas. O comportamento desses serviços
-      quanto a cookies, impressão digital e retenção de dados depende da documentação atual dos provedores; este
-      parágrafo descreve apenas sua finalidade técnica. Além disso, a <strong>medição anônima opcional do produto
-      (telemetria)</strong> envia dados contextuais, como tipo de página, link de conteúdo, posição e parâmetros de
-      campanha limitados, somente quando você a ativa explicitamente. Endereços de e-mail e nomes não são incluídos
-      nos eventos de telemetria. Antes de uma escolha, nenhum evento de telemetria é enviado e nenhum estado de
-      retenção é gravado no <code>localStorage</code> do navegador. Você pode alterar essa escolha a qualquer momento
-      no painel <strong>Medição anônima do produto</strong>.
-    </p>
+
     <p>
       As páginas usam a fonte Inter. Os arquivos da fonte são servidos pelo nosso próprio domínio
       (trescout.com), e não por um serviço de terceiros como o Google Fonts: o seu endereço IP não é repassado
@@ -129,5 +118,8 @@
     </p>
   </div>
   <script src="/assets/privacy.js" defer></script>
+  <script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>
+  <script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>
+  <script src="/assets/provider-consent.js" defer></script>
 </body>
 </html>

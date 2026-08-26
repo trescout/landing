@@ -16,6 +16,7 @@ PRIVACY_FILES = (
 REPORT_SOURCES = (
     "/_vercel/insights/script.js",
     "/_vercel/speed-insights/script.js",
+    "/assets/provider-consent.js",
     "/assets/telemetry.js",
 )
 
@@ -72,6 +73,7 @@ def check_form_fallback(errors):
 def main():
     errors = []
     telemetry = (ROOT / "assets/telemetry.js").read_text(encoding="utf-8")
+    provider_consent = (ROOT / "assets/provider-consent.js").read_text(encoding="utf-8")
     privacy_js = (ROOT / "assets/privacy.js").read_text(encoding="utf-8")
     home = (ROOT / "index.html").read_text(encoding="utf-8")
 
@@ -88,18 +90,35 @@ def main():
         "path normalization": r"function safePath\(value\)",
         "campaign value normalization": r"function safeCampaignValue\(value\)",
     }
+    required_provider_patterns = {
+        "provider consent gate": r"if \(!readConsent\(\)\) return;",
+        "provider source allowlist": r"function sameOriginProvider\(src\)",
+        "provider consent event": r"trescout:telemetry-consent",
+    }
     for label, pattern in required_runtime_patterns.items():
         if not re.search(pattern, telemetry):
             errors.append(f"assets/telemetry.js missing {label}")
+    for label, pattern in required_provider_patterns.items():
+        if not re.search(pattern, provider_consent):
+            errors.append(f"assets/provider-consent.js missing {label}")
+
+    direct_provider = re.compile(r'<script\b(?=[^>]*\bsrc=["\']/_vercel/(?:insights|speed-insights)/script\.js["\'])(?![^>]*\bdata-consent-src=)', re.IGNORECASE)
+    if direct_provider.search(home):
+        errors.append("index.html contains an executable Vercel provider tag before consent")
+    if "data-consent-src=\"/_vercel/insights/script.js\"" not in home or "data-consent-src=\"/_vercel/speed-insights/script.js\"" not in home:
+        errors.append("index.html missing inert provider consent sources")
+    if "<script src=\"/assets/provider-consent.js\" defer></script>" not in home:
+        errors.append("index.html missing provider consent loader")
 
     if "privacy-telemetry-preference" not in privacy_js:
         errors.append("assets/privacy.js missing the standalone telemetry preference panel")
     if "privacy-telemetry-checkbox" not in home or "privacy-telemetry-status" not in home:
         errors.append("index.html missing the static telemetry preference controls")
-    provider_pos = home.find('<script defer src="/_vercel/insights/script.js"></script>')
+    provider_pos = home.find('data-consent-src="/_vercel/insights/script.js"')
+    loader_pos = home.find('<script src="/assets/provider-consent.js" defer></script>')
     telemetry_pos = home.find('<script src="/assets/telemetry.js" defer></script>')
-    if provider_pos < 0 or telemetry_pos < 0 or provider_pos > telemetry_pos:
-        errors.append("index.html must load the Vercel provider before telemetry")
+    if provider_pos < 0 or loader_pos < 0 or telemetry_pos < 0 or not (provider_pos < loader_pos < telemetry_pos):
+        errors.append("index.html must keep inert providers, consent loader, then telemetry in order")
     if "ts_telemetry_consent" not in privacy_js or "localStorage" not in privacy_js:
         errors.append("assets/privacy.js missing consent storage handling")
     if "checkbox.checked = readConsent();" not in privacy_js:
@@ -136,7 +155,7 @@ def main():
 
     print(
         "Telemetry consent guard passed: consent gate, bounded/allowlisted runtime, "
-        "canonical report scripts, safe forms and six privacy disclosures are present."
+        "canonical consent-aware provider/runtime scripts, safe forms and six privacy disclosures are present."
     )
     return 0
 

@@ -174,7 +174,7 @@ def make_form(slug=""):
     return f'<form class="cta-form disc-cta-form js-subscribe" data-source="discover" data-page-type="discover"{slug_attr} data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>\'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form>'
 PRE=('<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>\n'
      '<link rel="preload" href="/assets/fonts/inter-latin-ext.woff2" as="font" type="font/woff2" crossorigin>\n')
-VERCEL='  <script defer src="/_vercel/insights/script.js"></script>\n  <script defer src="/_vercel/speed-insights/script.js"></script>\n'
+VERCEL='<script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>\n<script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>\n<script src="/assets/provider-consent.js" defer></script>\n'
 
 # ============ ZENGİN OTO (README'den gerçek komut + Gemini anlatım) ============
 MODEL="gemini-3.1-flash-lite"

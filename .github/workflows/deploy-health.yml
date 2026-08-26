@@ -8,6 +8,8 @@ name: Deploy Health Check
 # Başarısız olursa job fail eder → GitHub repo sahibine otomatik e-posta bildirimi gönderir.
 
 on:
+  push:
+    branches: [main]
   schedule:
     - cron: '30 4 * * *'   # 04:30 UTC · günlük rapor deploy'undan (04:00) hemen sonra
     - cron: '0 */6 * * *'  # her 6 saatte bir · genel kapsama
@@ -25,19 +27,26 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          state=$(gh api "repos/${{ github.repository }}/commits/main/status" --jq '.state')
-          echo "Son main commit Vercel/deploy durumu: $state"
-          case "$state" in
-            success)
-              echo "✅ Son commit başarıyla deploy edilmiş." ;;
-            pending)
-              echo "::warning::Deploy 'pending' · şu an sürüyor olabilir, bu çalışmada atlandı." ;;
-            *)
-              echo "::error::Production deploy 'success' DEĞİL (durum: '$state'). trescout.com güncel olmayabilir!"
+          state="pending"
+          for attempt in $(seq 1 30); do
+            state=$(gh api "repos/${{ github.repository }}/commits/main/status" --jq '.state')
+            echo "Deploy kontrolü $attempt/30: $state"
+            if [ "$state" = "success" ]; then
+              echo "✅ Son main commit başarıyla deploy edilmiş."
+              break
+            fi
+            if [ "$state" != "pending" ]; then
+              echo "::error::Production deploy başarısız (durum: '$state')."
               gh api "repos/${{ github.repository }}/commits/main/status" \
                 --jq '.statuses[] | "  - \(.context): \(.state) · \(.description)"' || true
-              exit 1 ;;
-          esac
+              exit 1
+            fi
+            sleep 20
+          done
+          if [ "$state" != "success" ]; then
+            echo "::error::Production deploy 10 dakika içinde success olmadı. trescout.com güncel olmayabilir!"
+            exit 1
+          fi
 
       - name: Canlı site erişilebilir ve içerik yerinde
         run: |
@@ -52,3 +61,31 @@ jobs:
             exit 1
           fi
           echo "✅ Canlı site 200 ve içerik yerinde."
+
+      - name: Production asset ve form fallback smoke testi
+        run: |
+          for path in /assets/telemetry.js /_vercel/insights/script.js /_vercel/speed-insights/script.js; do
+            code=$(curl -sS -o /tmp/smoke-asset -w '%{http_code}' --max-time 20 "https://trescout.com$path")
+            echo "$path HTTP: $code"
+            if [ "$code" != "200" ]; then
+              echo "::error::Production asset erişilemiyor: $path ($code)"
+              exit 1
+            fi
+          done
+          if ! grep -Eq 'action="/api/subscribe"[[:space:]]+method="post"' /tmp/page.html; then
+            echo "::error::Production homepage form fallback action/method taşımıyor."
+            exit 1
+          fi
+          api_status=$(curl -sS -o /tmp/subscribe-smoke.json -w '%{http_code}' \
+            -X POST https://trescout.com/api/subscribe \
+            -H 'Origin: https://trescout.com' \
+            -H 'Referer: https://trescout.com/' \
+            -H 'Content-Type: application/x-www-form-urlencoded' \
+            --data 'email=healthcheck%40example.invalid&consent=false')
+          echo "Consent-rejection smoke HTTP: $api_status"
+          if [ "$api_status" != "400" ] || ! grep -q '"code":"onay"' /tmp/subscribe-smoke.json; then
+            echo "::error::Production subscribe endpoint consent fallback beklenen 400/onay yanıtını vermedi."
+            cat /tmp/subscribe-smoke.json
+            exit 1
+          fi
+          echo "✅ Production asset, form fallback ve consent rejection smoke testleri başarılı."
