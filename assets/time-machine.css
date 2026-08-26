@@ -1,0 +1,194 @@
+/* ============================================================
+   TreScout · Açık Kaynak Zaman Tüneli Stilleri
+   ============================================================ */
+
+.tre-time-machine-container {
+  margin: 2.5rem 0;
+  width: 100%;
+}
+
+.tm-wrap {
+  background: linear-gradient(135deg, rgba(27, 73, 101, 0.04) 0%, rgba(95, 168, 211, 0.08) 100%);
+  border: 1px solid rgba(95, 168, 211, 0.3);
+  border-radius: 20px;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.tm-head {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 0.5rem;
+}
+
+.tm-badge {
+  font-size: 0.75rem;
+  font-weight: 800;
+  background: rgba(27, 73, 101, 0.1);
+  color: var(--color-primary, #1B4965);
+  padding: 3px 10px;
+  border-radius: 12px;
+  letter-spacing: 0.05em;
+}
+
+.tm-title {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: #0F172A;
+  letter-spacing: -0.02em;
+}
+
+.tm-subtitle {
+  font-size: 0.95rem;
+  color: #64748B;
+  max-width: 580px;
+}
+
+.tm-timeline-nav {
+  display: flex;
+  gap: 0.75rem;
+  margin-top: 1rem;
+  background: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(95, 168, 211, 0.25);
+  border-radius: 12px;
+  padding: 4px;
+}
+
+.tm-year-btn {
+  background: transparent;
+  border: none;
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: #64748B;
+  padding: 0.5rem 1.25rem;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.tm-year-btn:hover {
+  color: #1B4965;
+}
+
+.tm-btn-active {
+  background: #1B4965;
+  color: #ffffff !important;
+  box-shadow: 0 4px 12px rgba(27, 73, 101, 0.2);
+}
+
+.tm-content {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  background: #ffffff;
+  border: 1px solid rgba(226, 232, 240, 0.8);
+  border-radius: 16px;
+  padding: 1.75rem;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.03);
+}
+
+.tm-era-intro {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.tm-era-year {
+  font-size: 0.85rem;
+  font-weight: 800;
+  color: #5FA8D3;
+  letter-spacing: 0.05em;
+}
+
+.tm-era-intro h3 {
+  font-size: 1.3rem;
+  font-weight: 800;
+  color: #1B4965;
+}
+
+.tm-era-lead {
+  font-size: 0.95rem;
+  color: #475569;
+  line-height: 1.5;
+}
+
+.tm-paradigm-box {
+  margin-top: 0.5rem;
+  background: rgba(244, 211, 94, 0.15);
+  border-left: 4px solid #F4D35E;
+  border-radius: 4px;
+  padding: 0.75rem 1rem;
+  font-size: 0.85rem;
+  color: #854D0E;
+}
+
+.tm-tools-grid h4 {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #1E293B;
+  margin-bottom: 0.85rem;
+}
+
+.tm-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 0.85rem;
+}
+
+.tm-tool-card {
+  background: #F8FAFC;
+  border: 1px solid #E2E8F0;
+  border-radius: 10px;
+  padding: 0.85rem 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.tm-tool-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.tm-tool-head strong {
+  font-size: 0.95rem;
+  color: #1B4965;
+}
+
+.tm-stars {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: #D97706;
+}
+
+.tm-tool-card p {
+  font-size: 0.8rem;
+  color: #64748B;
+  line-height: 1.35;
+}
+
+.tm-langs-wrap {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  font-size: 0.85rem;
+  color: #475569;
+  border-top: 1px solid #E2E8F0;
+  padding-top: 1rem;
+}
+
+.tm-lang-pill {
+  background: #F1F5F9;
+  border: 1px solid #CBD5E1;
+  color: #334155;
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 6px;
+}

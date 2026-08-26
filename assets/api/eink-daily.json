@@ -1,0 +1,29 @@
+{
+  "device_target": "Waveshare 2.9inch / 4.2inch E-Paper",
+  "date": "2026-08-25",
+  "display_date": "25 Ağustos 2026, Salı",
+  "refresh_interval_sec": 86400,
+  "editorial": "Bugün teknoloji gündeminde yüksek performanslı işlemci mimarileri (CPU architectures) ve açık kaynaklı dil modellerinin (large language mode...",
+  "top_tools": [
+    {
+      "name": "awesome-gpt-image-2",
+      "stars": "★ 14.719",
+      "summary": "GPT-Image2, görsel oluşturma süreçlerini kod olarak tanımlay...",
+      "cmd": ""
+    },
+    {
+      "name": "claude-plugins-community",
+      "stars": "★ 1.046",
+      "summary": "Anthropic tarafından geliştirilen Claude Cowork ve Claude Co...",
+      "cmd": ""
+    },
+    {
+      "name": "ai-job-search",
+      "stars": "★ 32.405",
+      "summary": "Claude Code altyapısını kullanan ai-job-search, iş arama sür...",
+      "cmd": ""
+    }
+  ],
+  "qr_url": "https://trescout.com/reports/2026-08-25/",
+  "generated_at": "2026-08-26T03:07:59.168034"
+}

@@ -1,0 +1,7 @@
+{
+  "wifi_ssid": "YOUR_WIFI_SSID",
+  "wifi_password": "YOUR_WIFI_PASSWORD",
+  "refresh_interval_hours": 24,
+  "endpoint": "https://trescout.com/assets/api/eink-daily.json",
+  "display_model": "Waveshare_2.9_v2"
+}
