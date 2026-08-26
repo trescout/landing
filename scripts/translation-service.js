@@ -1,6 +1,6 @@
 const https = require('https');
 
-const MODEL = process.env.GEMINI_MODEL || process.env.TREESCOUT_TRANSLATION_MODEL || 'gemini-2.5-flash';
+const MODEL = process.env.GEMINI_MODEL || process.env.TREESCOUT_TRANSLATION_MODEL || 'gemini-3.1-flash-lite';
 
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));

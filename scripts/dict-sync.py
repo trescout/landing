@@ -20,8 +20,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))   # landing r
 REPORTS = os.path.join(ROOT, "reports")
 DICT = os.path.join(ROOT, "dictionary")
 OG = os.path.join(ROOT, "assets", "dictionary")
-MANIFEST = os.path.join(OG, "dictionary.json")
-MODEL = os.environ.get("GEMINI_MODEL") or os.environ.get("TREESCOUT_TRANSLATION_MODEL") or "gemini-2.5-flash"
+MODEL = os.environ.get("GEMINI_MODEL") or os.environ.get("TREESCOUT_TRANSLATION_MODEL") or "gemini-3.1-flash-lite"
 DRY = "--dry" in sys.argv
 CAT_TR = {"ai": "Yapay Zekâ", "dev": "Geliştirme", "data": "Veri & Altyapı"}
 import datetime

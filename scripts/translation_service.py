@@ -13,7 +13,7 @@ import urllib.parse
 import urllib.request
 import re
 
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL") or os.environ.get("TREESCOUT_TRANSLATION_MODEL") or "gemini-2.5-flash"
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL") or os.environ.get("TREESCOUT_TRANSLATION_MODEL") or "gemini-3.1-flash-lite"
 _GEMINI_PAUSED_UNTIL = 0.0
 
 
