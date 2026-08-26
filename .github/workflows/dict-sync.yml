@@ -58,6 +58,16 @@ jobs:
         with:
           python-version: '3.12'
 
+      # Generator syntax hatası varsa API/LLM çağrıları ve içerik yazımı başlamadan
+      # önce fail etsin. Özellikle üretilen Python stringlerinde yarım kalmış
+      # satırlar günlük hattı sessizce durdurmamalı.
+      - name: Generator syntax preflight
+        run: |
+          python3 -m py_compile scripts/*.py
+          for file in scripts/*.js; do node --check "$file"; done
+          cp api/subscribe.js "$RUNNER_TEMP/subscribe-check.mjs"
+          node --check "$RUNNER_TEMP/subscribe-check.mjs"
+
       # PDF yedeği için pdftotext + keşif lite kartları için Pillow
       - name: Bağımlılıklar
         run: |
