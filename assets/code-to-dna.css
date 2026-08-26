@@ -1,0 +1,163 @@
+/* ============================================================
+   TreScout · Kodu Biyolojik DNA Dizilimine Dönüştürücü Stilleri
+   ============================================================ */
+
+.tre-dna-container {
+  margin: 2.5rem 0;
+  width: 100%;
+}
+
+.dna-wrap {
+  background: radial-gradient(circle at 50% 20%, #0F172A 0%, #050811 100%);
+  border: 1px solid rgba(56, 189, 248, 0.3);
+  border-radius: 20px;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  color: #F8FAFC;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.4);
+}
+
+.dna-head {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.dna-top-badge {
+  font-size: 0.75rem;
+  font-weight: 800;
+  background: rgba(16, 185, 129, 0.15);
+  color: #10B981;
+  border: 1px solid rgba(16, 185, 129, 0.3);
+  padding: 3px 10px;
+  border-radius: 12px;
+  letter-spacing: 0.06em;
+}
+
+.dna-title {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: #ffffff;
+}
+
+.dna-desc {
+  font-size: 0.95rem;
+  color: #94A3B8;
+  max-width: 580px;
+}
+
+.dna-main-grid {
+  display: grid;
+  grid-template-columns: 1.2fr 1fr;
+  gap: 1.5rem;
+  align-items: center;
+}
+
+.dna-input-col {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.dna-textarea {
+  width: 100%;
+  background: rgba(15, 23, 42, 0.8);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 10px;
+  padding: 0.85rem;
+  font-family: ui-monospace, SFMono-Regular, monospace;
+  font-size: 0.85rem;
+  color: #38BDF8;
+  outline: none;
+}
+
+.dna-btn-synth {
+  align-self: flex-start;
+  font-size: 0.9rem;
+  font-weight: 800;
+  padding: 0.6rem 1.25rem;
+  border-radius: 8px;
+}
+
+.dna-canvas-col {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(0, 0, 0, 0.3);
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.dna-canvas {
+  display: block;
+}
+
+.dna-results {
+  background: rgba(15, 23, 42, 0.8);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 14px;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.dna-metrics {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+  gap: 1rem;
+}
+
+.dna-metric {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: rgba(0, 0, 0, 0.3);
+  border-radius: 8px;
+  padding: 0.75rem;
+}
+
+.dna-m-val {
+  font-size: 1.3rem;
+  font-weight: 800;
+  color: #F4D35E;
+}
+
+.dna-m-lbl {
+  font-size: 0.75rem;
+  color: #94A3B8;
+}
+
+.dna-seq-box {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.dna-seq-label {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: #94A3B8;
+}
+
+.dna-seq-text {
+  background: #000000;
+  border-radius: 8px;
+  padding: 0.75rem;
+  font-family: ui-monospace, SFMono-Regular, monospace;
+  font-size: 0.85rem;
+  letter-spacing: 2px;
+  word-break: break-all;
+}
+
+.dna-btn-fasta {
+  align-self: flex-start;
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: #38BDF8;
+  border: 1px solid rgba(56, 189, 248, 0.3);
+}
