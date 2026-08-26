@@ -19,7 +19,11 @@
  * Gerekli env vars (Vercel dashboard'da):
  *   - RESEND_API_KEY · Resend'den "Full access" scope'lu API key
  *   - RESEND_AUDIENCE_ID · Resend Audience UUID
+ *   - UPSTASH_REDIS_REST_URL · production dağıtık rate limit REST URL
+ *   - UPSTASH_REDIS_REST_TOKEN · production dağıtık rate limit REST token
  */
+
+import { createRateLimiter } from './rate-limit.mjs';
 
 export const config = { runtime: 'edge' };
 
@@ -175,34 +179,15 @@ function isOriginAllowed(origin) {
 }
 
 /**
- * Best-effort per-IP rate limit · 10 dakikada 5 istek.
+ * Per-IP rate limit · 10 dakikada 5 istek.
  *
- * Form gönderimi insan için seyrek bir işlem; 5/10dk cömert. Amaç tek kaynaktan
- * burst'ü (inbox flood / audience kirletme / Resend kota tüketimi) kesmek.
- *
- * Sınır: edge isolate-bazlı bellek · birden çok isolate/region'a yayılan
- * dağıtık saldırıyı yakalamaz ve isolate geri dönüşümünde sıfırlanır. Honeypot +
- * origin check + Cloudflare üstüne bir KATMAN. Kalıcı/garanti çözüm için Vercel
- * WAF rate-limit kuralı veya Upstash Ratelimit (kalıcı store) — bkz. docs.
+ * Production’da Upstash Redis REST pipeline kalıcı/dağıtık sayaç olarak kullanılır.
+ * Upstash env’leri yoksa yalnız local/preview geliştirmede process-memory fallback
+ * çalışır; Vercel production’da endpoint fail-closed davranır. Böylece dağıtık
+ * koruma yokken varmış gibi davranıp Resend/Audience çağrılarını açık bırakmayız.
+ * Honeypot + origin check + Cloudflare/WAF katmanları ayrıca korunur.
  */
-const RATE_WINDOW_MS = 10 * 60 * 1000;
-const RATE_MAX = 5;
-const rateHits = new Map(); // ip → number[] (istek timestamp'leri)
-
-function isRateLimited(ip, now) {
-  if (!ip) return false; // IP yoksa limitleyemeyiz · diğer katmanlara bırak
-  const cutoff = now - RATE_WINDOW_MS;
-  const hits = (rateHits.get(ip) || []).filter((t) => t > cutoff);
-  hits.push(now);
-  rateHits.set(ip, hits);
-  // Map'in sınırsız büyümesini engelle · pencere dışı IP'leri ara sıra temizle
-  if (rateHits.size > 5000) {
-    for (const [k, v] of rateHits) {
-      if (v.every((t) => t <= cutoff)) rateHits.delete(k);
-    }
-  }
-  return hits.length > RATE_MAX;
-}
+const rateLimiter = createRateLimiter();
 
 function clientIp(req) {
   const xff = req.headers.get('x-forwarded-for');
@@ -241,7 +226,11 @@ export default async function handler(req) {
 
   // Rate limit · pahalı Resend çağrılarından önce
   const ip = clientIp(req);
-  if (isRateLimited(ip, Date.now())) {
+  const rateLimit = await rateLimiter.check(ip);
+  if (rateLimit.unavailable) {
+    return errorResponse(M, 'baglanti', 503);
+  }
+  if (rateLimit.limited) {
     console.warn('Rate limited request');
     return errorResponse(M, 'limit', 429);
   }
