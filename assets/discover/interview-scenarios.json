@@ -1,0 +1,50 @@
+{
+  "claude-code": {
+    "title": "Claude Code · Terminal AI Agent Architecture",
+    "role": "Principal AI Systems Engineer",
+    "context": "Milyonlarca satırlık monorepo kod tabanlarını terminalde okuyup anında patch üreten bir AI ajan sistemi tasarlıyorsunuz.",
+    "questions": [
+      "Soru 1: 100.000 dosyalık bir repoda context window taşmasını önlemek için hangi indeksleme ve bağlam budama (context reduction) stratejilerini uygularsınız?",
+      "Soru 2: Ajanın terminalde komut çalıştırırken sunucuya ve sisteme zarar vermesini engelleyecek bir sandbox / izolasyon mimarisini nasıl kurgularsınız?",
+      "Soru 3: Çok adımlı döngülerde (Multi-step Tool Calling) ajan sonsuz döngüye girdiğinde veya hata aldığında geri sarma (backtracking) mekanizmasını nasıl yönetirsiniz?"
+    ],
+    "evaluation_criteria": [
+      "Context Management",
+      "Sandbox Security",
+      "Agent Backtracking",
+      "Latency Optimization"
+    ]
+  },
+  "vllm": {
+    "title": "vLLM · High-Throughput LLM Serving Engine",
+    "role": "Staff GPU Systems Architect",
+    "context": "Aynı anda 5.000 eşzamanlı istem alan bir açık kaynak LLM inference sunucusu tasarlıyorsunuz.",
+    "questions": [
+      "Soru 1: PagedAttention mantığı ile GPU VRAM parçalanmasını (fragmentation) sıfıra indirmek için bellek tahsisatı (allocation) tablosunu nasıl tasarlarsınız?",
+      "Soru 2: Sürekli batching (Continuous Batching) mekanizmasında erken biten isteklerin yerine yeni istekleri GPU kernel'ına sokma sürecini nasıl yönetirsiniz?",
+      "Soru 3: Dağıtık Tensor Parallelism ve Pipeline Parallelism arasındaki gecikme (latency) ve bant genişliği (bandwidth) ödünleşimlerini (trade-offs) nasıl değerlendirirsiniz?"
+    ],
+    "evaluation_criteria": [
+      "PagedAttention",
+      "Continuous Batching",
+      "Tensor Parallelism",
+      "GPU Memory Alignment"
+    ]
+  },
+  "ripgrep": {
+    "title": "Ripgrep · Ultra-Fast Regex Search Engine",
+    "role": "Senior Systems Engineer (Rust / C++)",
+    "context": "100 GB'lık disk üzerinde 1 saniyenin altında regex araması yapan çok iş parçacıklı bir arama motoru geliştiriyorsunuz.",
+    "questions": [
+      "Soru 1: Bellek haritalı dosyalar (mmap) ile standart tamponlu okuma (buffered I/O) arasındaki performans ve sayfa hatası (page fault) farklarını nasıl dengelersiniz?",
+      "Soru 2: Regex DFA (Deterministic Finite Automaton) motoru oluştururken bellek patlamalarını önlemek için hibrit NFA/DFA yaklaşımını nasıl kurarsınız?",
+      "Soru 3: Çok çekirdekli CPU'larda disk okuma I/O darboğazını aşmak için iş parçacığı iş paylaşımını (work-stealing) nasıl mimarileştirirsiniz?"
+    ],
+    "evaluation_criteria": [
+      "Memory-Mapped Files",
+      "Regex DFA/NFA",
+      "Work-Stealing Threadpool",
+      "SIMD Acceleration"
+    ]
+  }
+}
