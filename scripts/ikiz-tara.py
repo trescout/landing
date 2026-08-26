@@ -6,9 +6,11 @@ Sözlükte YENİ ikiz terim arar · bulursa GitHub issue açar/günceller.
 
 Neden gerekli: `check-birlesmis-terimler.py` yalnız YAPILMIŞ birleşmeleri
 koruyor · yenisini bulmuyor. Günlük hat her gün rapor sözlüğünden yeni terim
-ekliyor ve tekil/çoğul ikizleri kendiliğinden oluşuyor: 2026-08-08'de 19 çift
-birleştirildikten sonra ÜÇ GÜNDE iki tane daha çıktı (diffusion-model,
-knowledge-graph). Google bunlara "standart sayfa olmadan kopya" diyor.
+ekliyor ve tekil/çoğul ikizleri kendiliğinden oluşuyor. Mevcut birleşme tablosu
+canonical kararların kaynağıdır. Benzer görünen her çift aynı anlama gelmeyebilir;
+bağlam incelemesiyle ayrı tutulması kararlaştırılan çiftler
+`assets/dictionary/duplicate-triage.json` içinde kayıtlıdır. Google, gerçekten
+aynı içeriği taşıyan sayfaları "standart sayfa olmadan kopya" olarak işaretleyebilir.
 
 Neden guard değil de issue: birleştirme bir İÇERİK kararı · hangi slug kalacak,
 metin nasıl ayrışacak. Günlük hattı bunun için düşürmek yayını durdurur. Bu
@@ -31,6 +33,7 @@ import sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MANIFEST = os.path.join(ROOT, "assets", "dictionary", "dictionary.json")
 BIRLESMIS = os.path.join(ROOT, "assets", "dictionary", "birlesmis.json")
+TRIAGE = os.path.join(ROOT, "assets", "dictionary", "duplicate-triage.json")
 ESIK = 0.85
 TITLE = "Sözlük · birleştirilmesi gereken ikiz terimler"
 DRY = "--dry" in sys.argv or not os.environ.get("GH_TOKEN")
@@ -51,6 +54,15 @@ if os.path.exists(BIRLESMIS):
     e = json.load(open(BIRLESMIS, encoding="utf-8"))["eslesme"]
     zaten = set(e) | set(e.values())
 
+# İnsan tarafından bağlamı incelenmiş ve ayrı tutulması kararlaştırılmış çiftler.
+# Bu kayıt mapping değildir; URL/canonical davranışını değiştirmez.
+incelenmis = set()
+if os.path.exists(TRIAGE):
+    for kayit in json.load(open(TRIAGE, encoding="utf-8")).get("incelenmis", []):
+        cift = kayit.get("cift", [])
+        if len(cift) == 2:
+            incelenmis.add(tuple(sorted(cift)))
+
 bulunan = []
 gorulen = set()
 for s in sluglar:
@@ -58,7 +70,7 @@ for s in sluglar:
         if aday == s or aday not in sluglar:
             continue
         cift = tuple(sorted((s, aday)))
-        if cift in gorulen:
+        if cift in gorulen or cift in incelenmis:
             continue
         gorulen.add(cift)
         a, b = cift
@@ -97,7 +109,7 @@ satirlar += [
     "**Nasıl birleştirilir**",
     "1. Kalacak slug'ı seçin (iç bağlantı sayısı > gövde zenginliği > kısa slug)",
     "2. `assets/dictionary/birlesmis.json` → `eslesme`'ye `\"giden\": \"kalan\"` ekleyin",
-    "3. Giden slug'ın sayfalarını üç dilde silin (`dictionary/`, `en/`, `fr/` · `.md` dahil)",
+    "3. Giden slug'ın tüm yapılandırılmış dil sayfalarını silin (`dictionary/`, locale dizinleri · `.md` dahil)",
     "4. `python3 scripts/redirect-uret.py` · 301'leri üretir",
     "5. İç bağlantıları kanonik adrese çevirin, sayfaları yeniden basın",
     "6. `python3 scripts/check-birlesmis-terimler.py` yeşil olmalı",

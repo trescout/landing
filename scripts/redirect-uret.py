@@ -5,13 +5,13 @@ Birleştirilmiş sözlük terimlerinin 301 yönlendirmelerini vercel.json'a yaza
     python3 scripts/redirect-uret.py [--dry]
 
 Kaynak: `assets/dictionary/birlesmis.json` · orada "artık yayınlanmayan slug →
-kanonik slug" eşleşmesi duruyor. Her eşleşme için üç dilin sayfası ve ham
-markdown'ı yönlendiriliyor:
+kanonik slug" eşleşmesi duruyor. Her eşleşme için `scripts/diller.py` içindeki
+tüm yapılandırılmış dillerin sayfası ve ham markdown'ı yönlendiriliyor:
 
     /dictionary/agents/        → /dictionary/agent/
     /en/dictionary/agents/     → /en/dictionary/agent/
     /fr/dictionary/agents/     → /fr/dictionary/agent/
-    /dictionary/agents.md      → /dictionary/agent.md          (+ /en/ + /fr/)
+    /dictionary/agents.md      → /dictionary/agent.md          (+ tüm locale'ler)
 
 Neden yönlendirme, neden silme değil: o URL'ler indekslenmiş ve dış bağlantı
 almış olabilir. 301, hem ziyaretçiyi doğru sayfaya götürür hem de arama
@@ -38,7 +38,8 @@ KORUNAN = [
     {"source": "/security.txt", "destination": "/.well-known/security.txt", "permanent": True},
 ]
 
-# Dil önekleri diller.py'den · yeni dil eklenince burası kendiliğinden büyür
+# Dil önekleri diller.py'den · yeni dil eklenince burası kendiliğinden büyür.
+# Her mapping için 6 dil × 3 source biçimi üretilir; `.md` de bu matrise dahildir.
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from diller import DILLER as _DILLER  # noqa: E402
 DILLER = [""] + [d["onek"] for d in _DILLER.values()]
