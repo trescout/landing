@@ -1,0 +1,966 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-08-26",
+  "capturedAt": "2026-08-26T16:57:41.963Z",
+  "editorial": "Versões de nova geração focadas em velocidade (modelos flash) e capacidades de descoberta matemática autônoma em modelos de inteligência artificial dominam a agenda tecnológica hoje. Enquanto o movimento da AWS com o DuckDB sinaliza uma mudança estratégica no lado da análise de dados, a transição para o Python 3 torna obrigatória uma atualização infraestrutural no mundo do software.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "tt-a1i/archify",
+          "url": "https://github.com/tt-a1i/archify",
+          "summary": "Archify é uma habilidade de agente (agent skill) de inteligência artificial que cria esquemas de arquitetura, fluxo de dados e fluxo de trabalho como arquivos HTML verificáveis e interativos. Utilizada para visualizar designs de sistemas complexos, esta ferramenta suporta a exportação de diagramas em alta resolução.",
+          "meta": "HTML · ★ 17.333 · +1.002 hoje",
+          "snapshot": {
+            "sourceId": "tt-a1i/archify",
+            "capturedAt": "2026-08-26T16:57:45.404Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 17333,
+              "engagementCount": 1002,
+              "rank": 1,
+              "extra": {
+                "starsToday": 1002
+              }
+            }
+          }
+        },
+        {
+          "title": "freestylefly/awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "summary": "Awesome-gpt-image-2 é uma biblioteca que adota a abordagem de 'prompt as code' (prompt como código) para modelos de geração visual. Com mais de 530 exemplos de engenharia reversa e mais de 20 modelos industriais, visa padronizar os processos de produção de imagens por inteligência artificial.",
+          "meta": "JavaScript · ★ 21.025 · +4.044 hoje",
+          "snapshot": {
+            "sourceId": "freestylefly/awesome-gpt-image-2",
+            "capturedAt": "2026-08-26T16:57:45.404Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 21025,
+              "engagementCount": 4044,
+              "rank": 2,
+              "extra": {
+                "starsToday": 4044
+              }
+            }
+          }
+        },
+        {
+          "title": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "summary": "Os plugins do Claude, oferecidos pela Anthropic, criam um diretório oficial que expande as capacidades do assistente de inteligência artificial Claude. Este desenvolvimento permite que ferramentas baseadas em Python sejam integradas ao Claude Code para personalizar fluxos de trabalho.",
+          "meta": "Python · ★ 34.295 · +307 hoje",
+          "snapshot": {
+            "sourceId": "anthropics/claude-plugins-official",
+            "capturedAt": "2026-08-26T16:57:45.404Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 34295,
+              "engagementCount": 307,
+              "rank": 3,
+              "extra": {
+                "starsToday": 307
+              }
+            }
+          }
+        },
+        {
+          "title": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "summary": "Free-claude-code é uma ferramenta Python que fornece acesso gratuito ao Claude Code e modelos de inteligência artificial semelhantes através do terminal ou ambientes de desenvolvimento. Oferece aos usuários uma ampla cota de tokens gratuitos, juntamente com suporte a comandos de voz, possibilitando o uso do modelo em diferentes plataformas.",
+          "meta": "Python · ★ 50.207 · +566 hoje",
+          "snapshot": {
+            "sourceId": "Alishahryar1/free-claude-code",
+            "capturedAt": "2026-08-26T16:57:45.404Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 50207,
+              "engagementCount": 566,
+              "rank": 4,
+              "extra": {
+                "starsToday": 566
+              }
+            }
+          }
+        },
+        {
+          "title": "MadsLorentzen/ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "summary": "Desenvolvido por MadsLorentzen, o ai-job-search é um framework Python que automatiza o processo de busca de emprego usando a infraestrutura do Claude Code. Esta ferramenta, que roda no computador local, avalia anúncios de emprego, edita currículos, prepara cartas de apresentação e realiza a preparação para entrevistas.",
+          "meta": "Python · ★ 36.202 · +1.299 hoje",
+          "snapshot": {
+            "sourceId": "MadsLorentzen/ai-job-search",
+            "capturedAt": "2026-08-26T16:57:45.404Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 36202,
+              "engagementCount": 1299,
+              "rank": 5,
+              "extra": {
+                "starsToday": 1299
+              }
+            }
+          }
+        },
+        {
+          "title": "AgriciDaniel/claude-obsidian",
+          "url": "https://github.com/AgriciDaniel/claude-obsidian",
+          "summary": "Claude-obsidian é uma ferramenta que roda no aplicativo de notas Obsidian e fornece gerenciamento de conhecimento pessoal (PKM) com suporte de inteligência artificial. Usando o Claude Code, ele converte dados automaticamente em arquivos de texto interconectados (Markdown) e oferece ao usuário uma rede de conhecimento semelhante ao Notion, que pode ser hospedada em seu próprio servidor.",
+          "meta": "Python · ★ 13.243 · +812 hoje",
+          "snapshot": {
+            "sourceId": "AgriciDaniel/claude-obsidian",
+            "capturedAt": "2026-08-26T16:57:45.404Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 13243,
+              "engagementCount": 812,
+              "rank": 6,
+              "extra": {
+                "starsToday": 812
+              }
+            }
+          }
+        },
+        {
+          "title": "basecamp/omarchy",
+          "url": "https://github.com/basecamp/omarchy",
+          "summary": "Omarchy, desenvolvido pela Basecamp, é uma ferramenta de configuração moderna e visualmente aprimorada para sistemas operacionais Linux. Escrito na linguagem Shell, este projeto visa tornar os processos de gerenciamento de sistemas dos usuários mais organizados e padronizados.",
+          "meta": "Shell · ★ 31.832 · +1.021 hoje",
+          "snapshot": {
+            "sourceId": "basecamp/omarchy",
+            "capturedAt": "2026-08-26T16:57:45.404Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 31832,
+              "engagementCount": 1021,
+              "rank": 7,
+              "extra": {
+                "starsToday": 1021
+              }
+            }
+          }
+        },
+        {
+          "title": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "summary": "Preparado para aqueles que desejam começar do zero na área de engenharia de inteligência artificial (AI engineering), este recurso abrange desde o desenvolvimento básico de modelos com Python até os processos de implantação de aplicações. Combinando conhecimento teórico com projetos práticos, orienta os usuários a criarem seus próprios produtos baseados em inteligência artificial.",
+          "meta": "Python · ★ 49.485 · +837 hoje",
+          "snapshot": {
+            "sourceId": "rohitg00/ai-engineering-from-scratch",
+            "capturedAt": "2026-08-26T16:57:45.404Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 49485,
+              "engagementCount": 837,
+              "rank": 8,
+              "extra": {
+                "starsToday": 837
+              }
+            }
+          }
+        },
+        {
+          "title": "tinyhumansai/openhuman",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "summary": "Desenvolvido com a linguagem Rust, o OpenHuman atua como um assistente pessoal de inteligência artificial, criando uma memória local (local-first memory) sobre a vida do usuário. Este sistema coordena agentes de inteligência artificial (agent fleets) que gerenciam fluxos de trabalho complexos e conduz processos de pesquisa aprofundada.",
+          "meta": "Rust · ★ 38.118 · +522 hoje",
+          "snapshot": {
+            "sourceId": "tinyhumansai/openhuman",
+            "capturedAt": "2026-08-26T16:57:45.404Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 38118,
+              "engagementCount": 522,
+              "rank": 9,
+              "extra": {
+                "starsToday": 522
+              }
+            }
+          }
+        },
+        {
+          "title": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "summary": "Ponytail é uma biblioteca JavaScript que permite que agentes de inteligência artificial produzam soluções com o mínimo de esforço nos processos de desenvolvimento de software. Ao evitar a escrita de código desnecessário, adota uma abordagem que prioriza as soluções mais simples e sustentáveis nos processos de desenvolvimento.",
+          "meta": "JavaScript · ★ 112.175 · +1.598 hoje",
+          "snapshot": {
+            "sourceId": "DietrichGebert/ponytail",
+            "capturedAt": "2026-08-26T16:57:45.404Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 112175,
+              "engagementCount": 1598,
+              "rank": 10,
+              "extra": {
+                "starsToday": 1598
+              }
+            }
+          }
+        },
+        {
+          "title": "anthropics/claude-plugins-community",
+          "url": "https://github.com/anthropics/claude-plugins-community",
+          "summary": "O repositório de plugins do Claude, compartilhado pela Anthropic, reúne extensões desenvolvidas pela comunidade para a ferramenta de codificação com suporte de IA, Claude Code, e para o Claude Cowork. Esta estrutura baseada em Python permite que os usuários enviem seus próprios plugins, aumentando a funcionalidade de seus ambientes de desenvolvimento.",
+          "meta": "Python · ★ 2.106 · +537 hoje",
+          "snapshot": {
+            "sourceId": "anthropics/claude-plugins-community",
+            "capturedAt": "2026-08-26T16:57:45.404Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 2106,
+              "engagementCount": 537,
+              "rank": 11,
+              "extra": {
+                "starsToday": 537
+              }
+            }
+          }
+        },
+        {
+          "title": "ConardLi/garden-skills",
+          "url": "https://github.com/ConardLi/garden-skills",
+          "summary": "garden-skills, desenvolvido por ConardLi, é uma coleção de código aberto que oferece pacotes de habilidades prontos para uso em diversas áreas, como web design, aquisição de informações e criação visual. Esta estrutura modular, que os desenvolvedores podem integrar em seus projetos, permite o uso centralizado de diferentes funções.",
+          "meta": "CSS · ★ 10.836 · +136 hoje",
+          "snapshot": {
+            "sourceId": "ConardLi/garden-skills",
+            "capturedAt": "2026-08-26T16:57:45.404Z",
+            "metadata": {
+              "language": "CSS",
+              "popularity": 10836,
+              "engagementCount": 136,
+              "rank": 12,
+              "extra": {
+                "starsToday": 136
+              }
+            }
+          }
+        },
+        {
+          "title": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "summary": "Browser-use é uma biblioteca Python que permite que agentes de inteligência artificial interajam com sites da mesma forma que os humanos. Ela possibilita a automação de tarefas complexas na internet por meio de operações baseadas em navegador.",
+          "meta": "Python · ★ 110.768 · +135 hoje",
+          "snapshot": {
+            "sourceId": "browser-use/browser-use",
+            "capturedAt": "2026-08-26T16:57:45.404Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 110768,
+              "engagementCount": 135,
+              "rank": 13,
+              "extra": {
+                "starsToday": 135
+              }
+            }
+          }
+        },
+        {
+          "title": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "summary": "Scientific-agent-skills é uma biblioteca de habilidades prontas que adapta agentes de inteligência artificial aos processos de pesquisa científica. Oferecendo 163 habilidades verificadas e mais de 100 bancos de dados nas áreas de biologia, química e medicina, ela funciona de forma integrada com plataformas como o editor de código Cursor ou o assistente de inteligência artificial Claude Code.",
+          "meta": "Python · ★ 34.625 · +130 hoje",
+          "snapshot": {
+            "sourceId": "K-Dense-AI/scientific-agent-skills",
+            "capturedAt": "2026-08-26T16:57:45.404Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 34625,
+              "engagementCount": 130,
+              "rank": 14,
+              "extra": {
+                "starsToday": 130
+              }
+            }
+          }
+        },
+        {
+          "title": "marin-community/marin",
+          "url": "https://github.com/marin-community/marin",
+          "summary": "Marin é uma estrutura (framework) Python de código aberto projetada para a pesquisa e desenvolvimento de modelos fundamentais (foundation models). O software visa padronizar os processos de criação e treinamento de modelos de inteligência artificial em larga escala.",
+          "meta": "Python · ★ 2.393 · +443 hoje",
+          "snapshot": {
+            "sourceId": "marin-community/marin",
+            "capturedAt": "2026-08-26T16:57:45.404Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 2393,
+              "engagementCount": 443,
+              "rank": 15,
+              "extra": {
+                "starsToday": 443
+              }
+            }
+          }
+        },
+        {
+          "title": "VoltAgent/awesome-agent-skills",
+          "url": "https://github.com/VoltAgent/awesome-agent-skills",
+          "summary": "awesome-agent-skills, compilado pela VoltAgent, reúne mais de 1000 habilidades de agentes de inteligência artificial criadas por equipes de desenvolvedores e pela comunidade. Este recurso oferece uma biblioteca estruturada para funcionar de forma compatível com ferramentas populares de inteligência artificial, como Claude Code, Gemini CLI e o editor de código Cursor.",
+          "meta": "★ 32.512 · +305 hoje",
+          "snapshot": {
+            "sourceId": "VoltAgent/awesome-agent-skills",
+            "capturedAt": "2026-08-26T16:57:45.404Z",
+            "metadata": {
+              "popularity": 32512,
+              "engagementCount": 305,
+              "rank": 16,
+              "extra": {
+                "starsToday": 305
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "AWS Acquires DuckDB",
+          "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+          "summary": "A Amazon Web Services (AWS) adquiriu a DuckLabs, desenvolvedora do sistema de gerenciamento de banco de dados analítico DuckDB. Com esta aquisição, a gigante da computação em nuvem AWS visa integrar tecnologias de processamento e consulta de dados em sua própria infraestrutura.",
+          "meta": "675 pontos · 183 comentários",
+          "snapshot": {
+            "sourceId": "49448321",
+            "capturedAt": "2026-08-26T16:57:42.282Z",
+            "metadata": {
+              "popularity": 675,
+              "engagementCount": 183,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49448321",
+                  "popularity": 675,
+                  "engagementCount": 183
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "onderkalaci",
+                "createdAt": "2026-08-26T12:59:26Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49448321"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49448321",
+              "popularity": 675,
+              "engagementCount": 183
+            }
+          ]
+        },
+        {
+          "title": "GLM-5.3-Flash",
+          "url": "https://z.ai/blog/glm-5.3-flash",
+          "summary": "GLM-5.3-Flash, desenvolvido pela Zhipu AI, é um modelo de linguagem grande (large language model) focado em baixa latência e alta eficiência. O modelo otimiza os recursos de hardware, proporcionando um aumento de desempenho, especialmente em aplicações que exigem respostas rápidas.",
+          "meta": "423 pontos · 181 comentários",
+          "snapshot": {
+            "sourceId": "49449507",
+            "capturedAt": "2026-08-26T16:57:42.282Z",
+            "metadata": {
+              "popularity": 423,
+              "engagementCount": 181,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49449507",
+                  "popularity": 423,
+                  "engagementCount": 181
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "Philpax",
+                "createdAt": "2026-08-26T14:08:50Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49449507"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49449507",
+              "popularity": 423,
+              "engagementCount": 181
+            }
+          ]
+        },
+        {
+          "title": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+          "summary": "O modelo de linguagem grande (LLM) Qwen3.8-Flash-Next, desenvolvido pela Alibaba, foca na redução de custos operacionais com um novo design de arquitetura. O modelo visa aumentar a eficiência de recursos em processos de inferência de alto desempenho.",
+          "meta": "388 pontos · 119 comentários",
+          "snapshot": {
+            "sourceId": "49448210",
+            "capturedAt": "2026-08-26T16:57:42.282Z",
+            "metadata": {
+              "popularity": 388,
+              "engagementCount": 119,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49448210",
+                  "popularity": 388,
+                  "engagementCount": 119
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "tosh",
+                "createdAt": "2026-08-26T12:52:12Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49448210"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49448210",
+              "popularity": 388,
+              "engagementCount": 119
+            }
+          ]
+        },
+        {
+          "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+          "summary": "A Z.ai anunciou o modelo Ox Alpha, parte de sua nova geração de séries de modelos de linguagem geral (general language model). A empresa afirmou que compartilhará os pesos (weights) deste modelo, posicionado como um concorrente de grandes modelos de inteligência artificial como o DeepSeek, como código aberto.",
+          "meta": "377 pontos · 132 comentários",
+          "snapshot": {
+            "sourceId": "49446422",
+            "capturedAt": "2026-08-26T16:57:42.282Z",
+            "metadata": {
+              "popularity": 377,
+              "engagementCount": 132,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49446422",
+                  "popularity": 377,
+                  "engagementCount": 132
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "garo-pro",
+                "createdAt": "2026-08-26T10:04:55Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49446422"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49446422",
+              "popularity": 377,
+              "engagementCount": 132
+            }
+          ]
+        },
+        {
+          "title": "RAG Is Simpler Than You Think",
+          "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+          "summary": "O processo de geração aumentada por recuperação (retrieval-augmented generation), que conecta os dados obtidos aos modelos de inteligência artificial, também produz resultados bem-sucedidos com métodos simples de processamento de dados em vez de arquiteturas complexas. Esta abordagem defende que os modelos de linguagem grandes (large language models) devem ser purificados de camadas técnicas desnecessárias ao usar dados de fontes externas.",
+          "meta": "325 pontos · 147 comentários",
+          "snapshot": {
+            "sourceId": "49445727",
+            "capturedAt": "2026-08-26T16:57:42.282Z",
+            "metadata": {
+              "popularity": 325,
+              "engagementCount": 147,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49445727",
+                  "popularity": 325,
+                  "engagementCount": 147
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "j0selit0",
+                "createdAt": "2026-08-26T08:39:17Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49445727"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49445727",
+              "popularity": 325,
+              "engagementCount": 147
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Qwen/Qwen3.8-Flash-Next",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+          "summary": "Qwen3.8-Flash-Next, desenvolvido pela Alibaba, é um modelo de inteligência artificial multimodal capaz de processar dados visuais e de texto. Otimizado para gerar respostas rápidas com baixa latência, este modelo analisa conteúdos visuais para criar saídas baseadas em texto.",
+          "meta": "♥ 3.427 · 2.551 downloads",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-Flash-Next",
+            "capturedAt": "2026-08-26T16:57:42.090Z",
+            "metadata": {
+              "popularity": 3427,
+              "engagementCount": 2551,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 3374,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen4_exp",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:other",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Qwen2.5-27B, desenvolvido pela Alibaba, é um modelo de linguagem multimodal capaz de processar dados visuais e de texto. O modelo oferece a capacidade de analisar conteúdos visuais, além de realizar tarefas baseadas em texto, para produzir saídas de texto.",
+          "meta": "♥ 12.854 · 3.298.569 downloads",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-27B",
+            "capturedAt": "2026-08-26T16:57:42.090Z",
+            "metadata": {
+              "popularity": 12854,
+              "engagementCount": 3298569,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1117,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "deploy:azure",
+                  "deploy:sagemaker",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "unsloth/Qwen3.8-27B-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "summary": "O Unsloth oferece um formato de quantização otimizado para executar o modelo Qwen2.5-27B com mais rapidez e menor uso de memória. Este arquivo no formato GGUF destina-se a usuários que desejam executar grandes modelos de linguagem (large language models) de forma mais eficiente em hardware local.",
+          "meta": "♥ 2.972 · 7.638.591 downloads",
+          "snapshot": {
+            "sourceId": "unsloth/Qwen3.8-27B-GGUF",
+            "capturedAt": "2026-08-26T16:57:42.090Z",
+            "metadata": {
+              "popularity": 2972,
+              "engagementCount": 7638591,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 897,
+                "tags": [
+                  "gguf",
+                  "qwen3_5",
+                  "unsloth",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:quantized:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "imatrix",
+                  "conversational"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+          "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+          "summary": "O Qwen3.8-27B-OBLITERATED é uma versão do modelo de geração de texto (text-generation model) Qwen, livre de filtros de segurança. Esta modificação oferece uma estrutura que permite ao modelo gerar respostas sem restrições.",
+          "meta": "♥ 794 · 468.746 downloads",
+          "snapshot": {
+            "sourceId": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+            "capturedAt": "2026-08-26T16:57:42.090Z",
+            "metadata": {
+              "popularity": 794,
+              "engagementCount": 468746,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 693,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "mlx",
+                  "safetensors",
+                  "gguf",
+                  "qwen3_5",
+                  "abliterated",
+                  "uncensored",
+                  "obliteratus",
+                  "qwen3",
+                  "qwen3.8",
+                  "red-team",
+                  "ai-safety-research",
+                  "text-generation",
+                  "conversational",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:quantized:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "zai-org/GLM-5.3-Flash",
+          "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+          "summary": "O GLM-5.3-Flash, desenvolvido pela Zai-org, é um modelo de inteligência artificial focado em geração de texto (text generation). Otimizado para produzir respostas rápidas com baixa latência, este modelo visa aumentar a eficiência em tarefas baseadas em texto.",
+          "meta": "♥ 561 · 0 downloads",
+          "snapshot": {
+            "sourceId": "zai-org/GLM-5.3-Flash",
+            "capturedAt": "2026-08-26T16:57:42.090Z",
+            "metadata": {
+              "popularity": 561,
+              "engagementCount": 0,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 551,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "glm5_next",
+                  "image-text-to-text",
+                  "text-generation",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "arxiv:2602.15763",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+          "url": "https://huggingface.co/papers/2608.23691",
+          "summary": "O ambiente de mundo aberto chamado Station permite que diferentes modelos de inteligência artificial façam descobertas matemáticas conjuntas sem um administrador central. Os agentes definem seus próprios processos de pesquisa e conduzem experimentos, colaborando para alcançar resultados matemáticos anteriormente desconhecidos.",
+          "meta": "2 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2608.23691",
+            "capturedAt": "2026-08-26T16:57:42.102Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.23691",
+                "publishedAt": "2026-08-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/dualverse-ai/station_data_v2"
+              }
+            }
+          }
+        },
+        {
+          "title": "SecOPD: Mitigating Adaptive Prompt Injections by On-Policy Distillation",
+          "url": "https://huggingface.co/papers/2608.21500",
+          "summary": "O SecOPD é um método de destilação on-policy (on-policy distillation) desenvolvido para prevenir ataques de injeção de prompt (prompt injection) contra agentes de inteligência artificial. Esta abordagem visa aumentar a segurança do modelo contra ataques adaptativos, corrigindo as fraquezas nos processos atuais de ajuste fino (fine-tuning) defensivo.",
+          "meta": "36 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2608.21500",
+            "capturedAt": "2026-08-26T16:57:42.102Z",
+            "metadata": {
+              "popularity": 36,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.21500",
+                "publishedAt": "2026-08-21T00:00:00.000Z",
+                "githubRepo": "https://github.com/pppyb/SecOPD",
+                "githubStars": 3
+              }
+            }
+          }
+        },
+        {
+          "title": "AgentRoom: Concurrent Multi-Agent Coding in a CRDT-Backed Shared Workspace",
+          "url": "https://huggingface.co/papers/2608.23740",
+          "summary": "O AgentRoom oferece um espaço de trabalho que permite que múltiplos agentes de inteligência artificial escrevam código simultaneamente em processos de desenvolvimento de software. Utilizando a tecnologia de Tipos de Dados Replicados Livres de Conflito (Conflict-free Replicated Data Types, CRDT), o sistema garante que os agentes mantenham a consistência dos dados enquanto trabalham simultaneamente.",
+          "meta": "4 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2608.23740",
+            "capturedAt": "2026-08-26T16:57:42.102Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.23740",
+                "publishedAt": "2026-08-24T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Automata from Agent Traces: Failure and Next-Step Prediction",
+          "url": "https://huggingface.co/papers/2608.23670",
+          "summary": "Foi desenvolvido um novo método que analisa fluxos de trabalho complexos de agentes baseados em grandes modelos de linguagem (large language models), convertendo todos os processos em uma única máquina de estados finitos (finite-state machine). Esta abordagem visa tornar a estrutura de comportamento dos agentes visível, padronizando os processos de previsão de erros e monitoramento em tempo de execução.",
+          "meta": "4 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2608.23670",
+            "capturedAt": "2026-08-26T16:57:42.102Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.23670",
+                "publishedAt": "2026-08-24T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture",
+          "url": "https://huggingface.co/papers/2608.15875",
+          "summary": "O GigaBrain-0.7 é um modelo de visão-linguagem-ação (vision-language-action) desenvolvido para sistemas robóticos capazes de se mover no mundo físico. Graças à sua arquitetura de três sistemas, ele visa processar diferentes conjuntos de dados para que os robôs possam realizar tarefas complexas em um ambiente mais amplo.",
+          "meta": "87 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2608.15875",
+            "capturedAt": "2026-08-26T16:57:42.102Z",
+            "metadata": {
+              "popularity": 87,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.15875",
+                "publishedAt": "2026-08-16T00:00:00.000Z",
+                "githubRepo": "https://github.com/open-gigaai/giga-brain-0",
+                "githubStars": 2611
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "The Move to Python 3 Begins",
+          "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+          "summary": "Os desenvolvedores do EVE Online iniciaram o processo de migração da infraestrutura do jogo da versão Python 2, usada há muito tempo, para a versão atual Python 3. Esta transição visa reduzir a dívida técnica do jogo e aumentar a compatibilidade com bibliotecas de software modernas.",
+          "meta": "130 pontos · 38 comentários",
+          "snapshot": {
+            "sourceId": "e1oalq",
+            "capturedAt": "2026-08-26T16:57:42.330Z",
+            "metadata": {
+              "popularity": 130,
+              "engagementCount": 38,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/e1oalq/move_python_3_begins",
+                  "popularity": 130,
+                  "engagementCount": 38
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "python"
+                ],
+                "createdAt": "2026-08-25T11:52:46.126-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/e1oalq/move_python_3_begins",
+              "popularity": 130,
+              "engagementCount": 38
+            }
+          ]
+        },
+        {
+          "title": "Casey Muratori – The Root of The Root of All Evil – BSC 2026",
+          "url": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
+          "summary": "O desenvolvedor de software Casey Muratori critica as abordagens de abstração em camadas que aumentam a complexidade nos processos modernos de desenvolvimento de software. Ele analisa como essas escolhas arquiteturais, que levam à perda de desempenho e eficiência, aprofundam as dívidas técnicas na base do software.",
+          "meta": "41 pontos · 2 comentários",
+          "snapshot": {
+            "sourceId": "p8exgy",
+            "capturedAt": "2026-08-26T16:57:42.330Z",
+            "metadata": {
+              "popularity": 41,
+              "engagementCount": 2,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/p8exgy/casey_muratori_root_root_all_evil_bsc_2026",
+                  "popularity": 41,
+                  "engagementCount": 2
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "historical",
+                  "programming",
+                  "retrocomputing",
+                  "video"
+                ],
+                "createdAt": "2026-08-26T02:55:34.184-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/p8exgy/casey_muratori_root_root_all_evil_bsc_2026",
+              "popularity": 41,
+              "engagementCount": 2
+            }
+          ]
+        },
+        {
+          "title": "I stabilized never type",
+          "url": "https://blog.ihatereality.space/0C-never-type/",
+          "summary": "O tipo 'Never' examina o conceito de tipo vazio (bottom type) usado em linguagens de programação para funções que não retornam nenhum valor. Esta abordagem permite que o compilador detecte partes inalcançáveis do código, melhorando o processo de depuração.",
+          "meta": "132 pontos · 33 comentários",
+          "snapshot": {
+            "sourceId": "gizvfn",
+            "capturedAt": "2026-08-26T16:57:42.330Z",
+            "metadata": {
+              "popularity": 132,
+              "engagementCount": 33,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/gizvfn/i_stabilized_never_type",
+                  "popularity": 132,
+                  "engagementCount": 33
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "rust"
+                ],
+                "createdAt": "2026-08-25T10:11:30.269-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/gizvfn/i_stabilized_never_type",
+              "popularity": 132,
+              "engagementCount": 33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "agent skill",
+      "explanation": "Habilidades especiais que softwares baseados em inteligência artificial utilizam para realizar uma tarefa específica."
+    },
+    {
+      "term": "prompt as code",
+      "explanation": "O armazenamento de comandos dados à inteligência artificial de forma organizada e gerenciável, tal como um código de software."
+    },
+    {
+      "term": "plugins",
+      "explanation": "Pequenas ferramentas auxiliares usadas para expandir os recursos existentes de um software ou adicionar novas funcionalidades a ele."
+    },
+    {
+      "term": "PKM",
+      "explanation": "Um método para armazenar e gerenciar informações pessoais, notas e ideias de forma organizada em um ambiente digital."
+    },
+    {
+      "term": "Markdown",
+      "explanation": "Uma linguagem de marcação simples que permite formatar facilmente seus textos usando apenas caracteres de texto simples."
+    },
+    {
+      "term": "AI engineering",
+      "explanation": "O processo de desenvolvimento de sistemas que utilizam tecnologias de inteligência artificial para criar soluções para problemas do mundo real."
+    },
+    {
+      "term": "local-first memory",
+      "explanation": "Uma abordagem de armazenamento de informações onde os dados são salvos diretamente no seu dispositivo, sem a necessidade de internet, e estão acessíveis a qualquer momento."
+    },
+    {
+      "term": "agent fleets",
+      "explanation": "Um grupo formado por vários softwares de inteligência artificial que trabalham em harmonia para concluir tarefas complexas."
+    },
+    {
+      "term": "skills",
+      "explanation": "As habilidades técnicas que um software ou inteligência artificial possui para conseguir concluir uma operação específica com sucesso."
+    },
+    {
+      "term": "foundation models",
+      "explanation": "Modelos de inteligência artificial abrangentes, treinados com conjuntos de dados muito vastos, capazes de servir como base em muitas áreas diferentes."
+    },
+    {
+      "term": "framework",
+      "explanation": "Uma estrutura de trabalho que oferece um conjunto de estruturas e regras prontas, acelerando o desenvolvimento de software."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Um conjunto de capacidades especializadas que os agentes de inteligência artificial utilizam para realizar tarefas complexas."
+    },
+    {
+      "term": "AWS",
+      "explanation": "Uma enorme plataforma de nuvem onde você pode alugar serviços de computação, como servidores, armazenamento e bancos de dados, via internet."
+    },
+    {
+      "term": "large language model",
+      "explanation": "Modelos de inteligência artificial treinados com grandes volumes de dados, capazes de compreender a linguagem humana e gerar texto."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Abreviação para modelos de linguagem de inteligência artificial de amplo alcance, capazes de processar a linguagem humana e gerar respostas significativas."
+    },
+    {
+      "term": "inference",
+      "explanation": "O processo pelo qual um modelo de inteligência artificial treinado faz previsões ou gera resultados ao encontrar dados que não viu anteriormente."
+    }
+  ]
+}

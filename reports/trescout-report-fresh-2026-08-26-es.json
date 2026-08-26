@@ -1,0 +1,602 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-08-26",
+  "capturedAt": "2026-08-26T16:57:41.963Z",
+  "editorial": "Este informe contiene las tendencias que han destacado por primera vez hoy, sin repetir los registros que aparecen en los informes normales de los últimos 30 días.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "tt-a1i/archify",
+          "url": "https://github.com/tt-a1i/archify",
+          "summary": "Archify es una habilidad de agente de inteligencia artificial que crea esquemas de arquitectura, flujo de datos y flujo de trabajo como archivos HTML verificables y dinámicos. Esta herramienta, utilizada para visualizar diseños de sistemas complejos, admite la exportación de diagramas en alta resolución.",
+          "meta": "HTML · ★ 17.333 · +1.002 hoy",
+          "snapshot": {
+            "sourceId": "tt-a1i/archify",
+            "capturedAt": "2026-08-26T16:57:45.404Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 17333,
+              "engagementCount": 1002,
+              "rank": 1,
+              "extra": {
+                "starsToday": 1002
+              }
+            }
+          }
+        },
+        {
+          "title": "ConardLi/garden-skills",
+          "url": "https://github.com/ConardLi/garden-skills",
+          "summary": "garden-skills, desarrollado por ConardLi, es una colección de código abierto que ofrece paquetes de habilidades (skills) listos para usar en diversas áreas como diseño web, adquisición de información y creación visual. Esta estructura modular, que los desarrolladores pueden integrar en sus proyectos, permite el uso centralizado y organizado de diferentes funciones.",
+          "meta": "CSS · ★ 10.836 · +136 hoy",
+          "snapshot": {
+            "sourceId": "ConardLi/garden-skills",
+            "capturedAt": "2026-08-26T16:57:45.404Z",
+            "metadata": {
+              "language": "CSS",
+              "popularity": 10836,
+              "engagementCount": 136,
+              "rank": 12,
+              "extra": {
+                "starsToday": 136
+              }
+            }
+          }
+        },
+        {
+          "title": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "summary": "Browser-use es una biblioteca de Python que permite a los agentes de inteligencia artificial interactuar con sitios web como lo hacen los humanos. Permite automatizar tareas complejas en Internet mediante operaciones basadas en el navegador.",
+          "meta": "Python · ★ 110.768 · +135 hoy",
+          "snapshot": {
+            "sourceId": "browser-use/browser-use",
+            "capturedAt": "2026-08-26T16:57:45.404Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 110768,
+              "engagementCount": 135,
+              "rank": 13,
+              "extra": {
+                "starsToday": 135
+              }
+            }
+          }
+        },
+        {
+          "title": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "summary": "Scientific-agent-skills es una biblioteca de habilidades lista para usar que adapta a los agentes de inteligencia artificial a los procesos de investigación científica. Ofrece 163 habilidades verificadas y más de 100 bases de datos en los campos de la biología, la química y la medicina, y funciona de forma integrada con plataformas como el editor de código Cursor o el asistente de inteligencia artificial Claude Code.",
+          "meta": "Python · ★ 34.625 · +130 hoy",
+          "snapshot": {
+            "sourceId": "K-Dense-AI/scientific-agent-skills",
+            "capturedAt": "2026-08-26T16:57:45.404Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 34625,
+              "engagementCount": 130,
+              "rank": 14,
+              "extra": {
+                "starsToday": 130
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "AWS Acquires DuckDB",
+          "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+          "summary": "Amazon Web Services (AWS) ha adquirido DuckLabs, el desarrollador del sistema de gestión de bases de datos analíticas DuckDB. Con esta adquisición, el gigante de la computación en la nube, AWS, pretende integrar tecnologías de procesamiento y consulta de datos en su propia infraestructura.",
+          "meta": "675 puntos · 183 comentarios",
+          "snapshot": {
+            "sourceId": "49448321",
+            "capturedAt": "2026-08-26T16:57:42.282Z",
+            "metadata": {
+              "popularity": 675,
+              "engagementCount": 183,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49448321",
+                  "popularity": 675,
+                  "engagementCount": 183
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "onderkalaci",
+                "createdAt": "2026-08-26T12:59:26Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49448321"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49448321",
+              "popularity": 675,
+              "engagementCount": 183
+            }
+          ]
+        },
+        {
+          "title": "GLM-5.3-Flash",
+          "url": "https://z.ai/blog/glm-5.3-flash",
+          "summary": "GLM-5.3-Flash, desarrollado por Zhipu AI, es un modelo de lenguaje grande (large language model) centrado en la baja latencia y la alta eficiencia. El modelo optimiza los recursos de hardware, especialmente en aplicaciones que requieren respuestas rápidas, proporcionando un aumento en el rendimiento.",
+          "meta": "423 puntos · 181 comentarios",
+          "snapshot": {
+            "sourceId": "49449507",
+            "capturedAt": "2026-08-26T16:57:42.282Z",
+            "metadata": {
+              "popularity": 423,
+              "engagementCount": 181,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49449507",
+                  "popularity": 423,
+                  "engagementCount": 181
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "Philpax",
+                "createdAt": "2026-08-26T14:08:50Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49449507"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49449507",
+              "popularity": 423,
+              "engagementCount": 181
+            }
+          ]
+        },
+        {
+          "title": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+          "summary": "Qwen3.8-Flash-Next, el modelo de lenguaje grande (LLM) desarrollado por Alibaba, se centra en reducir los costes de procesamiento con un nuevo diseño de arquitectura. El modelo tiene como objetivo aumentar la eficiencia de los recursos en procesos de inferencia de alto rendimiento.",
+          "meta": "388 puntos · 119 comentarios",
+          "snapshot": {
+            "sourceId": "49448210",
+            "capturedAt": "2026-08-26T16:57:42.282Z",
+            "metadata": {
+              "popularity": 388,
+              "engagementCount": 119,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49448210",
+                  "popularity": 388,
+                  "engagementCount": 119
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "tosh",
+                "createdAt": "2026-08-26T12:52:12Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49448210"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49448210",
+              "popularity": 388,
+              "engagementCount": 119
+            }
+          ]
+        },
+        {
+          "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+          "summary": "Z.ai ha anunciado el modelo Ox Alpha, parte de su nueva generación de modelos de lenguaje general (general language model). La empresa declaró que compartirá los pesos (weights) de este modelo, posicionado como competidor de grandes modelos de inteligencia artificial como DeepSeek, como código abierto.",
+          "meta": "377 puntos · 132 comentarios",
+          "snapshot": {
+            "sourceId": "49446422",
+            "capturedAt": "2026-08-26T16:57:42.282Z",
+            "metadata": {
+              "popularity": 377,
+              "engagementCount": 132,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49446422",
+                  "popularity": 377,
+                  "engagementCount": 132
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "garo-pro",
+                "createdAt": "2026-08-26T10:04:55Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49446422"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49446422",
+              "popularity": 377,
+              "engagementCount": 132
+            }
+          ]
+        },
+        {
+          "title": "RAG Is Simpler Than You Think",
+          "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+          "summary": "El proceso de generación aumentada por recuperación (retrieval-augmented generation), que conecta los datos obtenidos con los modelos de inteligencia artificial, también ofrece resultados exitosos con métodos simples de procesamiento de datos en lugar de arquitecturas complejas. Este enfoque sostiene que los modelos de lenguaje grandes (large language models) deben estar libres de capas técnicas innecesarias al utilizar datos de fuentes externas.",
+          "meta": "325 puntos · 147 comentarios",
+          "snapshot": {
+            "sourceId": "49445727",
+            "capturedAt": "2026-08-26T16:57:42.282Z",
+            "metadata": {
+              "popularity": 325,
+              "engagementCount": 147,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49445727",
+                  "popularity": 325,
+                  "engagementCount": 147
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "j0selit0",
+                "createdAt": "2026-08-26T08:39:17Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49445727"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49445727",
+              "popularity": 325,
+              "engagementCount": 147
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Qwen/Qwen3.8-Flash-Next",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+          "summary": "Qwen3.8-Flash-Next, desarrollado por Alibaba, es un modelo de inteligencia artificial multimodal capaz de procesar datos visuales y de texto. Optimizado para generar respuestas rápidas con baja latencia, este modelo analiza contenidos visuales para crear resultados basados en texto.",
+          "meta": "♥ 3.427 · 2.551 descargas",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-Flash-Next",
+            "capturedAt": "2026-08-26T16:57:42.090Z",
+            "metadata": {
+              "popularity": 3427,
+              "engagementCount": 2551,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 3374,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen4_exp",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:other",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "zai-org/GLM-5.3-Flash",
+          "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+          "summary": "GLM-5.3-Flash, desarrollado por Zai-org, es un modelo de inteligencia artificial centrado en la generación de texto. Optimizado para producir respuestas rápidas con baja latencia, este modelo tiene como objetivo aumentar la eficiencia en tareas basadas en texto.",
+          "meta": "♥ 561 · 0 descargas",
+          "snapshot": {
+            "sourceId": "zai-org/GLM-5.3-Flash",
+            "capturedAt": "2026-08-26T16:57:42.090Z",
+            "metadata": {
+              "popularity": 561,
+              "engagementCount": 0,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 551,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "glm5_next",
+                  "image-text-to-text",
+                  "text-generation",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "arxiv:2602.15763",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+          "url": "https://huggingface.co/papers/2608.23691",
+          "summary": "El entorno de mundo abierto llamado Station permite que diferentes modelos de inteligencia artificial realicen descubrimientos matemáticos conjuntos sin un administrador central. Los agentes determinan sus propios procesos de investigación y realizan experimentos, colaborando para alcanzar resultados matemáticos previamente desconocidos.",
+          "meta": "2 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2608.23691",
+            "capturedAt": "2026-08-26T16:57:42.102Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.23691",
+                "publishedAt": "2026-08-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/dualverse-ai/station_data_v2"
+              }
+            }
+          }
+        },
+        {
+          "title": "SecOPD: Mitigating Adaptive Prompt Injections by On-Policy Distillation",
+          "url": "https://huggingface.co/papers/2608.21500",
+          "summary": "SecOPD es un método de destilación sobre políticas (on-policy distillation) desarrollado para prevenir ataques de inyección de comandos (prompt injection) dirigidos a agentes de inteligencia artificial. Este enfoque tiene como objetivo mejorar la seguridad del modelo contra ataques adaptativos al abordar las debilidades en los procesos actuales de ajuste fino (fine-tuning) defensivo.",
+          "meta": "36 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2608.21500",
+            "capturedAt": "2026-08-26T16:57:42.102Z",
+            "metadata": {
+              "popularity": 36,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.21500",
+                "publishedAt": "2026-08-21T00:00:00.000Z",
+                "githubRepo": "https://github.com/pppyb/SecOPD",
+                "githubStars": 3
+              }
+            }
+          }
+        },
+        {
+          "title": "AgentRoom: Concurrent Multi-Agent Coding in a CRDT-Backed Shared Workspace",
+          "url": "https://huggingface.co/papers/2608.23740",
+          "summary": "AgentRoom ofrece un espacio de trabajo que permite a múltiples agentes de inteligencia artificial escribir código simultáneamente en procesos de desarrollo de software. Utilizando la tecnología de Tipos de Datos Replicados Libres de Conflictos (Conflict-free Replicated Data Types, CRDT), el sistema garantiza que los agentes mantengan la consistencia de los datos mientras trabajan de forma concurrente.",
+          "meta": "4 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2608.23740",
+            "capturedAt": "2026-08-26T16:57:42.102Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.23740",
+                "publishedAt": "2026-08-24T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Automata from Agent Traces: Failure and Next-Step Prediction",
+          "url": "https://huggingface.co/papers/2608.23670",
+          "summary": "Se ha desarrollado un nuevo método que analiza los flujos de trabajo complejos de los agentes basados en modelos de lenguaje grandes (large language models) convirtiendo todos los procesos en una única máquina de estados finitos (finite-state machine). Este enfoque tiene como objetivo estandarizar los procesos de predicción de errores y monitoreo en tiempo de ejecución al hacer visible la estructura de comportamiento de los agentes.",
+          "meta": "4 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2608.23670",
+            "capturedAt": "2026-08-26T16:57:42.102Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.23670",
+                "publishedAt": "2026-08-24T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture",
+          "url": "https://huggingface.co/papers/2608.15875",
+          "summary": "GigaBrain-0.7 es un modelo de visión-lenguaje-acción (vision-language-action) desarrollado para sistemas robóticos capaces de moverse en el mundo físico. Gracias a su arquitectura de tres sistemas, tiene como objetivo procesar diferentes conjuntos de datos para que los robots realicen tareas complejas en entornos más amplios.",
+          "meta": "87 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2608.15875",
+            "capturedAt": "2026-08-26T16:57:42.102Z",
+            "metadata": {
+              "popularity": 87,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.15875",
+                "publishedAt": "2026-08-16T00:00:00.000Z",
+                "githubRepo": "https://github.com/open-gigaai/giga-brain-0",
+                "githubStars": 2611
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "The Move to Python 3 Begins",
+          "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
+          "summary": "Los desarrolladores de EVE Online han iniciado el proceso de migración de la infraestructura del juego desde la versión de Python 2, utilizada durante mucho tiempo, a la versión actual de Python 3. Esta transición tiene como objetivo reducir la deuda técnica del juego y aumentar la compatibilidad con bibliotecas de software modernas.",
+          "meta": "130 puntos · 38 comentarios",
+          "snapshot": {
+            "sourceId": "e1oalq",
+            "capturedAt": "2026-08-26T16:57:42.330Z",
+            "metadata": {
+              "popularity": 130,
+              "engagementCount": 38,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/e1oalq/move_python_3_begins",
+                  "popularity": 130,
+                  "engagementCount": 38
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "python"
+                ],
+                "createdAt": "2026-08-25T11:52:46.126-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/e1oalq/move_python_3_begins",
+              "popularity": 130,
+              "engagementCount": 38
+            }
+          ]
+        },
+        {
+          "title": "Casey Muratori – The Root of The Root of All Evil – BSC 2026",
+          "url": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
+          "summary": "El desarrollador de software Casey Muratori critica los enfoques de abstracción en capas que aumentan la complejidad en los procesos modernos de desarrollo de software. Analiza cómo estas elecciones arquitectónicas, que conducen a una pérdida de rendimiento y eficiencia, profundizan la deuda técnica en la base del software.",
+          "meta": "41 puntos · 2 comentarios",
+          "snapshot": {
+            "sourceId": "p8exgy",
+            "capturedAt": "2026-08-26T16:57:42.330Z",
+            "metadata": {
+              "popularity": 41,
+              "engagementCount": 2,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/p8exgy/casey_muratori_root_root_all_evil_bsc_2026",
+                  "popularity": 41,
+                  "engagementCount": 2
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "historical",
+                  "programming",
+                  "retrocomputing",
+                  "video"
+                ],
+                "createdAt": "2026-08-26T02:55:34.184-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/p8exgy/casey_muratori_root_root_all_evil_bsc_2026",
+              "popularity": 41,
+              "engagementCount": 2
+            }
+          ]
+        },
+        {
+          "title": "I stabilized never type",
+          "url": "https://blog.ihatereality.space/0C-never-type/",
+          "summary": "El tipo 'Never' examina el concepto de tipo vacío (bottom type) utilizado en lenguajes de programación para funciones que no devuelven ningún valor. Este enfoque permite al compilador detectar partes inalcanzables del código, mejorando así el proceso de depuración.",
+          "meta": "132 puntos · 33 comentarios",
+          "snapshot": {
+            "sourceId": "gizvfn",
+            "capturedAt": "2026-08-26T16:57:42.330Z",
+            "metadata": {
+              "popularity": 132,
+              "engagementCount": 33,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/gizvfn/i_stabilized_never_type",
+                  "popularity": 132,
+                  "engagementCount": 33
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "rust"
+                ],
+                "createdAt": "2026-08-25T10:11:30.269-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/gizvfn/i_stabilized_never_type",
+              "popularity": 132,
+              "engagementCount": 33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "agent skill",
+      "explanation": "Habilidades especiales utilizadas por el software impulsado por inteligencia artificial para realizar una tarea específica."
+    },
+    {
+      "term": "skills",
+      "explanation": "Las habilidades técnicas que posee un software o una inteligencia artificial para poder completar con éxito una operación específica."
+    },
+    {
+      "term": "foundation models",
+      "explanation": "Modelos de inteligencia artificial integrales entrenados con conjuntos de datos muy amplios, capaces de establecer una base en muchos campos diferentes."
+    },
+    {
+      "term": "AWS",
+      "explanation": "Una plataforma en la nube masiva donde puede alquilar servicios informáticos como servidores, almacenamiento y bases de datos a través de internet."
+    },
+    {
+      "term": "large language model",
+      "explanation": "Modelos de inteligencia artificial entrenados con grandes volúmenes de datos, capaces de comprender el lenguaje humano y generar texto."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Abreviatura de modelos de lenguaje de inteligencia artificial de amplio alcance, capaces de procesar el lenguaje humano y generar respuestas significativas."
+    },
+    {
+      "term": "inference",
+      "explanation": "El proceso mediante el cual un modelo de inteligencia artificial entrenado realiza predicciones o genera resultados al enfrentarse a datos que no ha visto anteriormente."
+    }
+  ]
+}
