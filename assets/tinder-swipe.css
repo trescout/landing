@@ -1,0 +1,201 @@
+/* ============================================================
+   TreScout · Açık Kaynak Tinder Stilleri
+   ============================================================ */
+
+.tre-tinder-container {
+  margin: 2.5rem 0;
+  width: 100%;
+}
+
+.ts-wrap {
+  background: linear-gradient(135deg, rgba(27, 73, 101, 0.05) 0%, rgba(95, 168, 211, 0.08) 100%);
+  border: 1px solid rgba(95, 168, 211, 0.3);
+  border-radius: 20px;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.ts-head {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.ts-top-badge {
+  font-size: 0.75rem;
+  font-weight: 800;
+  background: rgba(239, 68, 68, 0.1);
+  color: #EF4444;
+  border: 1px solid rgba(239, 68, 68, 0.25);
+  padding: 3px 10px;
+  border-radius: 12px;
+  letter-spacing: 0.05em;
+}
+
+.ts-title {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: #0F172A;
+}
+
+.ts-desc {
+  font-size: 0.9rem;
+  color: #64748B;
+  max-width: 540px;
+}
+
+.ts-counter {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: #94A3B8;
+}
+
+.ts-card-container {
+  width: 100%;
+  max-width: 440px;
+  height: 280px;
+  position: relative;
+  perspective: 1000px;
+}
+
+.ts-card {
+  width: 100%;
+  height: 100%;
+  background: #ffffff;
+  border: 1px solid rgba(226, 232, 240, 0.9);
+  border-radius: 16px;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
+  transition: transform 0.25s ease, opacity 0.25s ease;
+}
+
+.ts-swipe-right {
+  transform: translateX(120px) rotate(15deg);
+  opacity: 0;
+}
+
+.ts-swipe-left {
+  transform: translateX(-120px) rotate(-15deg);
+  opacity: 0;
+}
+
+.ts-swipe-up {
+  transform: translateY(-120px) scale(0.9);
+  opacity: 0;
+}
+
+.ts-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.ts-card-tag {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: #1B4965;
+  background: rgba(27, 73, 101, 0.08);
+  padding: 2px 8px;
+  border-radius: 6px;
+}
+
+.ts-card-stars {
+  font-size: 0.85rem;
+  font-weight: 800;
+  color: #D97706;
+}
+
+.ts-card-title {
+  font-size: 1.4rem;
+  font-weight: 800;
+  color: #0F172A;
+}
+
+.ts-card-tagline {
+  font-size: 0.9rem;
+  color: #475569;
+  line-height: 1.4;
+}
+
+.ts-card-cmd {
+  background: #0F172A;
+  border-radius: 8px;
+  padding: 0.5rem 0.75rem;
+}
+
+.ts-card-cmd code {
+  font-size: 0.8rem;
+  color: #38BDF8;
+  font-family: ui-monospace, SFMono-Regular, monospace;
+}
+
+.ts-actions {
+  display: flex;
+  gap: 1rem;
+}
+
+.ts-btn {
+  border: none;
+  font-size: 0.9rem;
+  font-weight: 800;
+  padding: 0.65rem 1.25rem;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.ts-btn:hover {
+  transform: translateY(-2px);
+}
+
+.ts-btn-pass {
+  background: #FEE2E2;
+  color: #991B1B;
+}
+
+.ts-btn-super {
+  background: #FEF3C7;
+  color: #92400E;
+}
+
+.ts-btn-like {
+  background: #DCFCE7;
+  color: #166534;
+}
+
+.ts-summary-card {
+  background: #ffffff;
+  border: 1px solid rgba(226, 232, 240, 0.9);
+  border-radius: 16px;
+  padding: 2rem;
+  width: 100%;
+  max-width: 500px;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.04);
+}
+
+.ts-summary-group h4 {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #1E293B;
+  margin-bottom: 0.5rem;
+}
+
+.ts-summary-group ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  font-size: 0.85rem;
+  color: #475569;
+}
