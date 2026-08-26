@@ -29,7 +29,7 @@ export function createRateLimiter({
 
   async function checkDistributed(ip) {
     const key = `trescout:subscribe:rate:${encodeURIComponent(ip)}`;
-    const response = await fetchImpl(`${redisUrl}/pipeline`, {
+    const response = await fetchImpl(`${redisUrl}/multi-exec`, {
       method: 'POST',
       headers: {
         'Authorization': `Bearer ${redisToken}`,

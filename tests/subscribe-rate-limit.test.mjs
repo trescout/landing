@@ -40,7 +40,7 @@ test('fails closed in production when distributed protection is not configured',
   });
 });
 
-test('uses Upstash pipeline and enforces the distributed count', async () => {
+test('uses an atomic Upstash transaction and enforces the distributed count', async () => {
   const calls = [];
   const limiter = createRateLimiter({
     env: {
@@ -62,18 +62,18 @@ test('uses Upstash pipeline and enforces the distributed count', async () => {
     unavailable: false,
   });
   assert.equal(calls.length, 1);
-  assert.equal(calls[0].url, 'https://example.upstash.io/pipeline');
+  assert.equal(calls[0].url, 'https://example.upstash.io/multi-exec');
   assert.equal(calls[0].init.method, 'POST');
   assert.equal(calls[0].init.headers.Authorization, 'Bearer test-token');
-  const pipeline = JSON.parse(calls[0].init.body);
-  assert.deepEqual(pipeline[0].slice(0, 5), [
+  const transaction = JSON.parse(calls[0].init.body);
+  assert.deepEqual(transaction[0].slice(0, 5), [
     'SET',
     'trescout:subscribe:rate:203.0.113.22',
     '0',
     'EX',
     '600',
   ]);
-  assert.deepEqual(pipeline[1], [
+  assert.deepEqual(transaction[1], [
     'INCR',
     'trescout:subscribe:rate:203.0.113.22',
   ]);

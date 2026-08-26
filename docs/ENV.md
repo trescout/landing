@@ -8,7 +8,7 @@ Bu repo Vercel'a deploy edildiğinde gerekli olan environment değişkenleri.
 |---|---|---|
 | `RESEND_API_KEY` | ✅ | Resend API key · "Full access" veya minimum `audiences:write` + `emails:send` scope'lu |
 | `RESEND_AUDIENCE_ID` | ✅ | Resend Audience UUID · erken erişim e-postaları buraya kaydedilir |
-| `UPSTASH_REDIS_REST_URL` | ✅ production | Upstash Redis REST URL · dağıtık rate limit için |
+| `UPSTASH_REDIS_REST_URL` | ✅ production | Upstash Redis REST URL · atomik dağıtık rate limit transaction’ı için |
 | `UPSTASH_REDIS_REST_TOKEN` | ✅ production | Upstash Redis REST token · yalnız Vercel server env’de tutulur |
 
 ## Kurulum adımları
@@ -42,7 +42,7 @@ Bu repo Vercel'a deploy edildiğinde gerekli olan environment değişkenleri.
 1. https://console.upstash.com/redis → aynı bölgeye bir Redis database oluşturun.
 2. REST URL ve REST token değerlerini Vercel `trescout-landing` projesinin **Production** ve gerekiyorsa **Preview** environment’larına ekleyin.
 3. `UPSTASH_REDIS_REST_URL` ve `UPSTASH_REDIS_REST_TOKEN` frontend’e, HTML asset’lerine veya GitHub Actions loglarına yazılmamalıdır.
-4. Production’da bu iki değişken yoksa endpoint fail-closed davranır ve yeni kayıtları geçici olarak `503` ile durdurur; bu, dağıtık koruma varmış gibi davranıp rate limit’i sessizce atlatmaktan daha güvenlidir.
+4. Rate limit sayacı Upstash’ın atomik `/multi-exec` transaction endpoint’i üzerinden artırılır. Production’da bu iki değişken yoksa endpoint fail-closed davranır ve yeni kayıtları geçici olarak `503` ile durdurur; bu, dağıtık koruma varmış gibi davranıp rate limit’i sessizce atlatmaktan daha güvenlidir.
 
 5. Redeploy
 
