@@ -1,0 +1,172 @@
+/* ============================================================
+   TreScout · NFC Smart Puck Stilleri
+   ============================================================ */
+
+:root {
+  --bg: #0B1120;
+  --card-bg: #1E293B;
+  --accent: #38BDF8;
+  --accent-gold: #F4D35E;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  background: var(--bg);
+  color: #F8FAFC;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem 1rem;
+}
+
+.puck-container {
+  width: 100%;
+  max-width: 520px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.puck-head {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.puck-badge {
+  font-size: 0.75rem;
+  font-weight: 800;
+  background: rgba(56, 189, 248, 0.15);
+  color: var(--accent);
+  padding: 3px 10px;
+  border-radius: 12px;
+  letter-spacing: 0.05em;
+}
+
+.puck-head h1 {
+  font-size: 1.6rem;
+  font-weight: 800;
+  color: #ffffff;
+}
+
+.puck-head p {
+  font-size: 0.9rem;
+  color: #94A3B8;
+  line-height: 1.4;
+}
+
+.puck-card {
+  width: 100%;
+  background: var(--card-bg);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 18px;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.4);
+}
+
+.puck-illustration {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+
+.puck-disc {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  background: radial-gradient(circle at 35% 35%, #38BDF8 0%, #1B4965 100%);
+  border: 3px solid #F4D35E;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 0 30px rgba(56, 189, 248, 0.4);
+  animation: float 3s ease-in-out infinite alternate;
+}
+
+@keyframes float {
+  0% { transform: translateY(0px); }
+  100% { transform: translateY(-8px); }
+}
+
+.puck-icon {
+  font-size: 2rem;
+}
+
+.puck-label {
+  font-size: 0.65rem;
+  font-weight: 800;
+  color: #ffffff;
+  letter-spacing: 0.05em;
+}
+
+.puck-steps {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  font-size: 0.85rem;
+  color: #CBD5E1;
+  background: rgba(0, 0, 0, 0.2);
+  padding: 1rem;
+  border-radius: 10px;
+  width: 100%;
+}
+
+.btn-puck-write {
+  width: 100%;
+  background: var(--accent);
+  color: #0B1120;
+  border: none;
+  font-size: 1rem;
+  font-weight: 800;
+  padding: 0.85rem 1.5rem;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background 0.15s ease;
+}
+
+.btn-puck-write:hover {
+  background: #7DD3FC;
+}
+
+.puck-status {
+  font-size: 0.85rem;
+  text-align: center;
+  color: #94A3B8;
+}
+
+.status-scanning {
+  color: var(--accent-gold);
+  font-weight: 700;
+}
+
+.status-success {
+  color: #10B981;
+  font-weight: 700;
+}
+
+.status-error {
+  color: #EF4444;
+  font-weight: 700;
+}
+
+.puck-foot {
+  font-size: 0.75rem;
+  color: #64748B;
+  text-align: center;
+}

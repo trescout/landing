@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TreScout NFC Smart Puck Programlayıcı</title>
+  <link rel="stylesheet" href="puck-programmer.css">
+</head>
+<body>
+  <div class="puck-container">
+    <header class="puck-head">
+      <span class="puck-badge">🔲 TRESCOUT HARDWARE LAB</span>
+      <h1>NFC Masaüstü Akıllı Çip Programlayıcısı</h1>
+      <p>Masanızdaki 50 kuruşluk herhangi bir NFC etiketini (NTAG213/215) tek dokunuşla çalışan bir <strong>TreScout 1-Dakikalık Sesli Bülten Diski</strong>'ne dönüştürün.</p>
+    </header>
+
+    <main class="puck-card">
+      <div class="puck-illustration">
+        <div class="puck-disc">
+          <span class="puck-icon">⚡</span>
+          <span class="puck-label">TreScout Puck</span>
+        </div>
+      </div>
+
+      <div class="puck-steps">
+        <div class="puck-step"><strong>1. Adım:</strong> Aşağıdaki butona tıklayın.</div>
+        <div class="puck-step"><strong>2. Adım:</strong> Telefonunuzu masadaki etikete dokundurun.</div>
+        <div class="puck-step"><strong>3. Adım:</strong> Artık her sabah telefonunuzu diske koyduğunuz an günün bülteni başlar!</div>
+      </div>
+
+      <button type="button" class="btn-puck-write" id="js-btn-write">📲 NFC Çipine Yazdır</button>
+      <div class="puck-status" id="js-puck-status">Hazır. Çipe yazdırmak için butona tıklayın.</div>
+    </main>
+
+    <footer class="puck-foot">
+      <span>Gereksinim: Web NFC destekli Android Chrome veya iOS NFC Okuyucu</span>
+    </footer>
+  </div>
+
+  <script src="web-nfc-handler.js"></script>
+  <script>
+    document.getElementById('js-btn-write').addEventListener('click', function () {
+      var statusEl = document.getElementById('js-puck-status');
+      TreScoutNfc.writePuck(function (msg, type) {
+        statusEl.textContent = msg;
+        statusEl.className = 'puck-status status-' + type;
+      });
+    });
+  </script>
+</body>
+</html>

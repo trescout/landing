@@ -1,0 +1,21 @@
+{
+  "tag_type": "NFC Forum Type 2 / NTAG213 / NTAG215",
+  "action": "instant_audio_briefing",
+  "ndef_records": [
+    {
+      "record_type": "url",
+      "uri": "https://trescout.com/reports/?autoplay=audio&utm_source=nfc_puck&date=2026-08-26",
+      "description": "Dokunulduğunda doğrudan günün 1 dakikalık sesli bültenini başlatır."
+    },
+    {
+      "record_type": "mime",
+      "media_type": "application/vnd.trescout.briefing+json",
+      "data": {
+        "source": "TreScout Smart Puck v1",
+        "protocol": "touch_to_brief",
+        "date": "2026-08-26"
+      }
+    }
+  ],
+  "generated_at": "2026-08-26T03:39:08.095988"
+}
