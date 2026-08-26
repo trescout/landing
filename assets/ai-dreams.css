@@ -1,0 +1,158 @@
+/* ============================================================
+   TreScout · Yapay Zekâ Gece Rüyaları Stilleri
+   ============================================================ */
+
+.tre-ai-dreams-container {
+  margin: 2.5rem 0;
+  width: 100%;
+}
+
+.dr-wrap {
+  background: radial-gradient(circle at 50% 10%, #1E1B4B 0%, #09061A 100%);
+  border: 1px solid rgba(167, 139, 250, 0.3);
+  border-radius: 20px;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.5);
+  color: #F8FAFC;
+}
+
+.dr-head {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.dr-top-badge {
+  font-size: 0.75rem;
+  font-weight: 800;
+  background: rgba(167, 139, 250, 0.15);
+  color: #C4B5FD;
+  border: 1px solid rgba(167, 139, 250, 0.3);
+  padding: 3px 10px;
+  border-radius: 12px;
+  letter-spacing: 0.06em;
+}
+
+.dr-title {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: #ffffff;
+}
+
+.dr-desc {
+  font-size: 0.95rem;
+  color: #94A3B8;
+  max-width: 580px;
+}
+
+.dr-tabs {
+  display: flex;
+  gap: 0.6rem;
+  margin-top: 1rem;
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(167, 139, 250, 0.2);
+  border-radius: 12px;
+  padding: 4px;
+}
+
+.dr-tab-btn {
+  background: transparent;
+  border: none;
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: #94A3B8;
+  padding: 0.5rem 1.25rem;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.dr-tab-btn:hover {
+  color: #ffffff;
+}
+
+.dr-tab-active {
+  background: #8B5CF6;
+  color: #ffffff !important;
+  box-shadow: 0 4px 15px rgba(139, 92, 246, 0.4);
+}
+
+.dr-card {
+  background: rgba(15, 12, 35, 0.75);
+  border: 1px solid rgba(167, 139, 250, 0.25);
+  border-radius: 16px;
+  padding: 1.75rem;
+  width: 100%;
+  max-width: 580px;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+}
+
+.dr-card-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.dr-time-label {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: #F4D35E;
+}
+
+.dr-lucid-badge {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: #A78BFA;
+  background: rgba(167, 139, 250, 0.1);
+  padding: 2px 8px;
+  border-radius: 6px;
+}
+
+.dr-dream-title {
+  font-size: 1.35rem;
+  font-weight: 800;
+  color: #ffffff;
+}
+
+.dr-synthesized-tools {
+  font-size: 0.85rem;
+  color: #CBD5E1;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.dr-tool-tag {
+  background: rgba(56, 189, 248, 0.15);
+  color: #38BDF8;
+  border: 1px solid rgba(56, 189, 248, 0.3);
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 2px 8px;
+  border-radius: 6px;
+}
+
+.dr-narrative {
+  font-size: 0.95rem;
+  color: #E2E8F0;
+  line-height: 1.5;
+}
+
+.dr-quote {
+  border-left: 3px solid #8B5CF6;
+  background: rgba(139, 92, 246, 0.08);
+  padding: 0.75rem 1rem;
+  border-radius: 4px;
+  font-style: italic;
+  font-size: 0.9rem;
+  color: #C4B5FD;
+}
