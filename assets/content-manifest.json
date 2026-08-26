@@ -1,7 +1,7 @@
 {
-  "schema_version": "1.0.0",
-  "generated_at": "2026-08-25T23:32:16.494959+00:00",
-  "git_commit": "f1e2f882767f19eeb34a31b16e48afc29dc22109",
+  "schema_version": "1.1.0",
+  "generated_at": "2026-08-26T04:29:12.012597+00:00",
+  "source_git_commit": "cf7e01793951e1e52dbd3f0a97bc6005cd093dbb",
   "content_version": "2026-08-26",
   "locales": [
     "tr",
@@ -14,17 +14,18 @@
   "summary": {
     "discover_tools_count": 472,
     "dictionary_terms_count": 537,
-    "reports_count": 984,
-    "reports_fresh_count": 0,
-    "reports_pdf_count": 984,
-    "total_html_pages": 12981
+    "report_file_variants_count": 984,
+    "canonical_report_dates_count": 92,
+    "fresh_report_pages_count": 72,
+    "report_pdf_file_variants_count": 984,
+    "total_html_pages": 7081
   },
   "locale_breakdown": {
     "tr": {
       "dictionary_html": 538,
       "discover_html": 473,
       "reports_html": 166,
-      "total_html": 7081
+      "total_html": 1181
     },
     "en": {
       "dictionary_html": 538,
