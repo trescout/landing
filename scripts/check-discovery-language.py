@@ -12,8 +12,6 @@ import re
 import sys
 from pathlib import Path
 
-from bs4 import BeautifulSoup
-
 ROOT = Path(__file__).resolve().parents[1]
 LANGS = ["tr", "en", "fr", "pt", "es", "de"]
 NON_PORTUGUESE = ["tr", "en", "fr", "es", "de"]
@@ -50,6 +48,19 @@ def check_catalog(issues: list[str]) -> None:
                 issues.append(f"catalog {slug}: tagline_{lang} duplicates Portuguese source")
 
 
+META_DESC = re.compile(r'<meta\s+name=["\']description["\']\s+content=["\'](.*?)["\']', re.IGNORECASE | re.DOTALL)
+DISC_LEAD = re.compile(r'<p\s+class=["\'][^"\']*disc-lead[^"\']*["\']>(.*?)</p>', re.IGNORECASE | re.DOTALL)
+TAG_STRIP = re.compile(r'<[^>]+>')
+
+
+def extract_content(html: str) -> dict[str, str]:
+    meta_m = META_DESC.search(html)
+    lead_m = DISC_LEAD.search(html)
+    meta = meta_m.group(1).strip() if meta_m else ""
+    lead = TAG_STRIP.sub(" ", lead_m.group(1)).strip() if lead_m else ""
+    return {"meta": meta, "lead": lead}
+
+
 def check_pages(issues: list[str]) -> tuple[int, int]:
     page_count = 0
     checked_fields = 0
@@ -59,11 +70,8 @@ def check_pages(issues: list[str]) -> tuple[int, int]:
             continue
         for page in sorted(base.glob("*/index.html")):
             page_count += 1
-            soup = BeautifulSoup(page.read_text(encoding="utf-8"), "html.parser")
-            fields = {
-                "meta": (soup.find("meta", attrs={"name": "description"}) or {}).get("content", ""),
-                "lead": (soup.find("p", class_="disc-lead") or {}).get_text(" ", strip=True),
-            }
+            html = page.read_text(encoding="utf-8")
+            fields = extract_content(html)
             if lang == "pt":
                 continue
             for field, value in fields.items():
