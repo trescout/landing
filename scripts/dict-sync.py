@@ -21,8 +21,7 @@ REPORTS = os.path.join(ROOT, "reports")
 DICT = os.path.join(ROOT, "dictionary")
 OG = os.path.join(ROOT, "assets", "dictionary")
 MANIFEST = os.path.join(OG, "dictionary.json")
-SITEMAP = os.path.join(ROOT, "sitemap.xml")
-MODEL = "gemini-3.1-flash-lite"
+MODEL = os.environ.get("GEMINI_MODEL") or os.environ.get("TREESCOUT_TRANSLATION_MODEL") or "gemini-2.5-flash"
 DRY = "--dry" in sys.argv
 CAT_TR = {"ai": "Yapay Zekâ", "dev": "Geliştirme", "data": "Veri & Altyapı"}
 import datetime

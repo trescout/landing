@@ -177,7 +177,7 @@ PRE=('<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type=
 VERCEL='<script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>\n<script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>\n<script src="/assets/provider-consent.js" defer></script>\n'
 
 # ============ ZENGİN OTO (README'den gerçek komut + Gemini anlatım) ============
-MODEL="gemini-3.1-flash-lite"
+MODEL=os.environ.get("GEMINI_MODEL") or os.environ.get("TREESCOUT_TRANSLATION_MODEL") or "gemini-2.5-flash"
 def gemini_key():
     k=os.environ.get("GEMINI_API_KEY")
     if k: return k
