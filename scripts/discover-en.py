@@ -108,6 +108,8 @@ def toplu_isit(metinler):
     translated = translate_texts(eksik, LANG)
     for kaynak in eksik:
         cevrilen = translated.get(kaynak)
+        if not cevrilen:
+            cevrilen = translate_text(kaynak, LANG)
         if cevrilen:
             _cache[kaynak] = cevrilen
             _yeni += 1

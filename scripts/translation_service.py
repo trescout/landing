@@ -49,8 +49,6 @@ def _gemini_is_paused() -> bool:
 
 
 def _gemini(text: str, lang: str, key: str) -> str | None:
-    if _gemini_is_paused():
-        return None
     body = {
         "systemInstruction": {
             "parts": [{
@@ -75,14 +73,15 @@ def _gemini(text: str, lang: str, key: str) -> str | None:
         },
     }
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
-    request = urllib.request.Request(
-        url,
-        data=json.dumps(body).encode("utf-8"),
-        headers={"Content-Type": "application/json", "x-goog-api-key": key},
-        method="POST",
-    )
+    encoded_body = json.dumps(body).encode("utf-8")
     for attempt in range(4):
         try:
+            request = urllib.request.Request(
+                url,
+                data=encoded_body,
+                headers={"Content-Type": "application/json", "x-goog-api-key": key},
+                method="POST",
+            )
             with urllib.request.urlopen(request, timeout=60) as response:
                 payload = json.loads(response.read().decode("utf-8"))
             candidates = payload.get("candidates") or []
@@ -95,8 +94,9 @@ def _gemini(text: str, lang: str, key: str) -> str | None:
             raise ValueError("Gemini empty translation response")
         except urllib.error.HTTPError as error:
             if error.code == 429:
-                _pause_gemini(_http_retry_delay(error, attempt))
-                return None
+                delay = max(_http_retry_delay(error, attempt), (attempt + 1) * 3.0)
+                time.sleep(delay)
+                continue
             if error.code not in (500, 502, 503) or attempt == 3:
                 return None
             time.sleep(_http_retry_delay(error, attempt))
@@ -104,7 +104,7 @@ def _gemini(text: str, lang: str, key: str) -> str | None:
         except Exception:
             if attempt == 3:
                 return None
-        time.sleep(_retry_delay(attempt))
+            time.sleep(_retry_delay(attempt))
     return None
 
 
@@ -113,9 +113,9 @@ def _gtx(text: str, lang: str) -> str | None:
         "https://translate.googleapis.com/translate_a/single?client=gtx&sl=tr&"
         f"tl={urllib.parse.quote(lang)}&dt=t&q={urllib.parse.quote(text)}"
     )
-    request = urllib.request.Request(url, headers={"Accept": "application/json", "User-Agent": "TreScout/1.0"})
     for attempt in range(3):
         try:
+            request = urllib.request.Request(url, headers={"Accept": "application/json", "User-Agent": "TreScout/1.0"})
             with urllib.request.urlopen(request, timeout=20) as response:
                 payload = json.loads(response.read().decode("utf-8"))
             if not isinstance(payload, list) or not payload or not isinstance(payload[0], list):
@@ -124,16 +124,17 @@ def _gtx(text: str, lang: str) -> str | None:
             return result or None
         except urllib.error.HTTPError as error:
             if error.code == 429:
-                _pause_gemini(_http_retry_delay(error, attempt))
-                return None
-            if error.code not in (429, 500, 502, 503) or attempt == 2:
+                delay = max(_http_retry_delay(error, attempt), (attempt + 1) * 2.0)
+                time.sleep(delay)
+                continue
+            if error.code not in (500, 502, 503) or attempt == 2:
                 return None
             time.sleep(_http_retry_delay(error, attempt))
             continue
         except Exception:
             if attempt == 2:
                 return None
-        time.sleep(_retry_delay(attempt))
+            time.sleep(_retry_delay(attempt))
     return None
 
 
@@ -176,14 +177,15 @@ def _gemini_batch(texts: list[str], lang: str, key: str) -> dict[str, str] | Non
         },
     }
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
-    request = urllib.request.Request(
-        url,
-        data=json.dumps(body, ensure_ascii=False).encode("utf-8"),
-        headers={"Content-Type": "application/json", "x-goog-api-key": key},
-        method="POST",
-    )
+    encoded_body = json.dumps(body, ensure_ascii=False).encode("utf-8")
     for attempt in range(3):
         try:
+            request = urllib.request.Request(
+                url,
+                data=encoded_body,
+                headers={"Content-Type": "application/json", "x-goog-api-key": key},
+                method="POST",
+            )
             with urllib.request.urlopen(request, timeout=90) as response:
                 payload = json.loads(response.read().decode("utf-8"))
             candidates = payload.get("candidates") or []
@@ -191,7 +193,18 @@ def _gemini_batch(texts: list[str], lang: str, key: str) -> dict[str, str] | Non
             raw = "".join(str(part.get("text") or "") for part in parts).strip()
             if raw.startswith("```"):
                 raw = raw.split("\n", 1)[-1].removesuffix("```").strip()
-            parsed = json.loads(raw)
+            try:
+                parsed = json.loads(raw)
+            except Exception:
+                fence = re.search(r'```(?:json)?\s*([\s\S]*?)\s*```', raw)
+                if fence:
+                    parsed = json.loads(fence.group(1).strip())
+                else:
+                    arr = re.search(r'\[\s*\{[\s\S]*\}\s*\]', raw)
+                    if arr:
+                        parsed = json.loads(arr.group(0).strip())
+                    else:
+                        raise
             rows = parsed if isinstance(parsed, list) else parsed.get("translations")
             if not isinstance(rows, list) or len(rows) != len(items):
                 raise ValueError("Gemini batch translation shape mismatch")
@@ -206,21 +219,20 @@ def _gemini_batch(texts: list[str], lang: str, key: str) -> dict[str, str] | Non
                 if not value:
                     raise ValueError("Gemini batch item is empty")
                 result[items[index]["text"]] = value
-            if len(result) != len(items):
-                raise ValueError("Gemini batch ids are not unique")
             return result
         except urllib.error.HTTPError as error:
             if error.code == 429:
-                _pause_gemini(_http_retry_delay(error, attempt))
-                return None
-            if error.code not in (429, 500, 502, 503) or attempt == 2:
+                delay = max(_http_retry_delay(error, attempt), (attempt + 1) * 5.0)
+                time.sleep(delay)
+                continue
+            if error.code not in (500, 502, 503) or attempt == 2:
                 return None
             time.sleep(_http_retry_delay(error, attempt))
             continue
         except Exception:
             if attempt == 2:
                 return None
-        time.sleep(_retry_delay(attempt))
+            time.sleep(_retry_delay(attempt))
     return None
 
 
@@ -232,17 +244,17 @@ def translate_texts(texts: list[str], lang: str) -> dict[str, str | None]:
     batch_size = 12
     for start in range(0, len(unique), batch_size):
         batch = unique[start:start + batch_size]
-        translated = _gemini_batch(batch, lang, key) if key else None
-        if translated is None:
-            # Do not immediately fire Gemini once per item after a batch quota
-            # failure. GTX is bounded and failures remain explicit as None.
-            translated = {}
-            for text in batch:
-                value = _gtx(text, lang)
-                if value:
-                    translated[text] = value
+        translated = _gemini_batch(batch, lang, key) if key else {}
+        translated = translated or {}
         for text in batch:
-            result[text] = translated.get(text)
+            if text in translated and translated[text]:
+                result[text] = translated[text]
+            else:
+                single_gemini = _gemini(text, lang, key) if key else None
+                if single_gemini:
+                    result[text] = single_gemini
+                else:
+                    result[text] = _gtx(text, lang)
         if start + batch_size < len(unique):
-            time.sleep(5.0)
+            time.sleep(1.0)
     return result
