@@ -1,0 +1,5834 @@
+{
+  "understand-anything": {
+    "slug": "understand-anything",
+    "title": "Understand Anything",
+    "github_repo": "Egonex-AI/Understand-Anything",
+    "good_first_issues_url": "https://github.com/Egonex-AI/Understand-Anything/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22",
+    "help_wanted_url": "https://github.com/Egonex-AI/Understand-Anything/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22",
+    "contribute_hub_url": "https://github.com/Egonex-AI/Understand-Anything/contribute",
+    "fork_url": "https://github.com/Egonex-AI/Understand-Anything/fork",
+    "contributing_guide_url": "https://github.com/Egonex-AI/Understand-Anything/blob/main/CONTRIBUTING.md",
+    "quick_contribute_cmd": "git clone https://github.com/Egonex-AI/Understand-Anything.git && cd Understand-Anything",
+    "license": {
+      "name": "MIT",
+      "type": "Permissive (Oldukça Özgür)",
+      "commercial_use": true,
+      "badge": "Ticari Kullanıma Uygun",
+      "badge_color": "green"
+    }
+  },
+  "ecc": {
+    "slug": "ecc",
+    "title": "ECC",
+    "github_repo": "affaan-m/ECC",
+    "good_first_issues_url": "https://github.com/affaan-m/ECC/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22",
+    "help_wanted_url": "https://github.com/affaan-m/ECC/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22",
+    "contribute_hub_url": "https://github.com/affaan-m/ECC/contribute",
+    "fork_url": "https://github.com/affaan-m/ECC/fork",
+    "contributing_guide_url": "https://github.com/affaan-m/ECC/blob/main/CONTRIBUTING.md",
+    "quick_contribute_cmd": "git clone https://github.com/affaan-m/ECC.git && cd ECC",
+    "license": {
+      "name": "MIT",
+      "type": "Permissive (Oldukça Özgür)",
+      "commercial_use": true,
+      "badge": "Ticari Kullanıma Uygun",
+      "badge_color": "green"
+    }
+  },
+  "ai-engineering-from-scratch": {
+    "slug": "ai-engineering-from-scratch",
+    "title": "AI Engineering from Scratch",
+    "github_repo": null,
+    "license": {
+      "name": "MIT",
+      "type": "Permissive (Oldukça Özgür)",
+      "commercial_use": true,
+      "badge": "Ticari Kullanıma Uygun",
+      "badge_color": "green"
+    }
+  },
+  "knowledge-work-plugins": {
+    "slug": "knowledge-work-plugins",
+    "title": "Knowledge Work Plugins",
+    "github_repo": null,
+    "license": {
+      "name": "Apache 2.0",
+      "type": "Permissive (Patent Korumalı)",
+      "commercial_use": true,
+      "badge": "Ticari Kullanıma Uygun",
+      "badge_color": "green"
+    }
+  },
+  "anthropic-cybersecurity-skills": {
+    "slug": "anthropic-cybersecurity-skills",
+    "title": "Anthropic Cybersecurity Skills",
+    "github_repo": "mukul975/Anthropic-Cybersecurity-Skills",
+    "good_first_issues_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22",
+    "help_wanted_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22",
+    "contribute_hub_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills/contribute",
+    "fork_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills/fork",
+    "contributing_guide_url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills/blob/main/CONTRIBUTING.md",
+    "quick_contribute_cmd": "git clone https://github.com/mukul975/Anthropic-Cybersecurity-Skills.git && cd Anthropic-Cybersecurity-Skills",
+    "license": {
+      "name": "Apache 2.0",
+      "type": "Permissive (Patent Korumalı)",
+      "commercial_use": true,
+      "badge": "Ticari Kullanıma Uygun",
+      "badge_color": "green"
+    }
+  },
+  "stop-slop": {
+    "slug": "stop-slop",
+    "title": "Stop Slop",
+    "github_repo": null,
+    "license": {
+      "name": "MIT",
+      "type": "Permissive (Oldukça Özgür)",
+      "commercial_use": true,
+      "badge": "Ticari Kullanıma Uygun",
+      "badge_color": "green"
+    }
+  },
+  "taste-skill": {
+    "slug": "taste-skill",
+    "title": "Taste Skill",
+    "github_repo": null,
+    "license": {
+      "name": "MIT",
+      "type": "Permissive (Oldukça Özgür)",
+      "commercial_use": true,
+      "badge": "Ticari Kullanıma Uygun",
+      "badge_color": "green"
+    }
+  },
+  "free-domain": {
+    "slug": "free-domain",
+    "title": "FreeDomain",
+    "github_repo": null,
+    "license": {
+      "name": "GPL / AGPL",
+      "type": "Copyleft (Türetilen Kod Açılmalı)",
+      "commercial_use": false,
+      "badge": "Kod Açma Zorunluluğu",
+      "badge_color": "yellow"
+    }
+  },
+  "jellyfin": {
+    "slug": "jellyfin",
+    "title": "Jellyfin",
+    "github_repo": null,
+    "license": {
+      "name": "GPL / AGPL",
+      "type": "Copyleft (Türetilen Kod Açılmalı)",
+      "commercial_use": false,
+      "badge": "Kod Açma Zorunluluğu",
+      "badge_color": "yellow"
+    }
+  },
+  "awesome-free-apps": {
+    "slug": "awesome-free-apps",
+    "title": "Awesome Free Apps",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "twenty": {
+    "slug": "twenty",
+    "title": "Twenty",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "openstock": {
+    "slug": "openstock",
+    "title": "OpenStock",
+    "github_repo": "Open-Dev-Society/OpenStock",
+    "good_first_issues_url": "https://github.com/Open-Dev-Society/OpenStock/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22",
+    "help_wanted_url": "https://github.com/Open-Dev-Society/OpenStock/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22",
+    "contribute_hub_url": "https://github.com/Open-Dev-Society/OpenStock/contribute",
+    "fork_url": "https://github.com/Open-Dev-Society/OpenStock/fork",
+    "contributing_guide_url": "https://github.com/Open-Dev-Society/OpenStock/blob/main/CONTRIBUTING.md",
+    "quick_contribute_cmd": "git clone https://github.com/Open-Dev-Society/OpenStock.git && cd OpenStock",
+    "license": {
+      "name": "GPL / AGPL",
+      "type": "Copyleft (Türetilen Kod Açılmalı)",
+      "commercial_use": false,
+      "badge": "Kod Açma Zorunluluğu",
+      "badge_color": "yellow"
+    }
+  },
+  "claude-mem": {
+    "slug": "claude-mem",
+    "title": "claude-mem",
+    "github_repo": null,
+    "license": {
+      "name": "Apache 2.0",
+      "type": "Permissive (Patent Korumalı)",
+      "commercial_use": true,
+      "badge": "Ticari Kullanıma Uygun",
+      "badge_color": "green"
+    }
+  },
+  "ppf-contact-solver": {
+    "slug": "ppf-contact-solver",
+    "title": "PPF Contact Solver",
+    "github_repo": null,
+    "license": {
+      "name": "Apache 2.0",
+      "type": "Permissive (Patent Korumalı)",
+      "commercial_use": true,
+      "badge": "Ticari Kullanıma Uygun",
+      "badge_color": "green"
+    }
+  },
+  "moneyprinterturbo": {
+    "slug": "moneyprinterturbo",
+    "title": "MoneyPrinterTurbo",
+    "github_repo": "harry0703/MoneyPrinterTurbo",
+    "good_first_issues_url": "https://github.com/harry0703/MoneyPrinterTurbo/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22",
+    "help_wanted_url": "https://github.com/harry0703/MoneyPrinterTurbo/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22",
+    "contribute_hub_url": "https://github.com/harry0703/MoneyPrinterTurbo/contribute",
+    "fork_url": "https://github.com/harry0703/MoneyPrinterTurbo/fork",
+    "contributing_guide_url": "https://github.com/harry0703/MoneyPrinterTurbo/blob/main/CONTRIBUTING.md",
+    "quick_contribute_cmd": "git clone https://github.com/harry0703/MoneyPrinterTurbo.git && cd MoneyPrinterTurbo",
+    "license": {
+      "name": "MIT",
+      "type": "Permissive (Oldukça Özgür)",
+      "commercial_use": true,
+      "badge": "Ticari Kullanıma Uygun",
+      "badge_color": "green"
+    }
+  },
+  "heretic": {
+    "slug": "heretic",
+    "title": "Heretic",
+    "github_repo": "p-e-w/heretic",
+    "good_first_issues_url": "https://github.com/p-e-w/heretic/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22",
+    "help_wanted_url": "https://github.com/p-e-w/heretic/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22",
+    "contribute_hub_url": "https://github.com/p-e-w/heretic/contribute",
+    "fork_url": "https://github.com/p-e-w/heretic/fork",
+    "contributing_guide_url": "https://github.com/p-e-w/heretic/blob/main/CONTRIBUTING.md",
+    "quick_contribute_cmd": "git clone https://github.com/p-e-w/heretic.git && cd heretic",
+    "license": {
+      "name": "GPL / AGPL",
+      "type": "Copyleft (Türetilen Kod Açılmalı)",
+      "commercial_use": false,
+      "badge": "Kod Açma Zorunluluğu",
+      "badge_color": "yellow"
+    }
+  },
+  "kronos": {
+    "slug": "kronos",
+    "title": "Kronos",
+    "github_repo": "shiyu-coder/Kronos",
+    "good_first_issues_url": "https://github.com/shiyu-coder/Kronos/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22",
+    "help_wanted_url": "https://github.com/shiyu-coder/Kronos/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22",
+    "contribute_hub_url": "https://github.com/shiyu-coder/Kronos/contribute",
+    "fork_url": "https://github.com/shiyu-coder/Kronos/fork",
+    "contributing_guide_url": "https://github.com/shiyu-coder/Kronos/blob/main/CONTRIBUTING.md",
+    "quick_contribute_cmd": "git clone https://github.com/shiyu-coder/Kronos.git && cd Kronos",
+    "license": {
+      "name": "MIT",
+      "type": "Permissive (Oldukça Özgür)",
+      "commercial_use": true,
+      "badge": "Ticari Kullanıma Uygun",
+      "badge_color": "green"
+    }
+  },
+  "claude-code-harness": {
+    "slug": "claude-code-harness",
+    "title": "Claude Code Harness",
+    "github_repo": null,
+    "license": {
+      "name": "MIT",
+      "type": "Permissive (Oldukça Özgür)",
+      "commercial_use": true,
+      "badge": "Ticari Kullanıma Uygun",
+      "badge_color": "green"
+    }
+  },
+  "superpowers": {
+    "slug": "superpowers",
+    "title": "Superpowers",
+    "github_repo": null,
+    "license": {
+      "name": "MIT",
+      "type": "Permissive (Oldukça Özgür)",
+      "commercial_use": true,
+      "badge": "Ticari Kullanıma Uygun",
+      "badge_color": "green"
+    }
+  },
+  "english-level-up-tips": {
+    "slug": "english-level-up-tips",
+    "title": "English Level Up Tips",
+    "github_repo": "byoungd/up",
+    "good_first_issues_url": "https://github.com/byoungd/up/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22",
+    "help_wanted_url": "https://github.com/byoungd/up/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22",
+    "contribute_hub_url": "https://github.com/byoungd/up/contribute",
+    "fork_url": "https://github.com/byoungd/up/fork",
+    "contributing_guide_url": "https://github.com/byoungd/up/blob/main/CONTRIBUTING.md",
+    "quick_contribute_cmd": "git clone https://github.com/byoungd/up.git && cd up",
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "iii": {
+    "slug": "iii",
+    "title": "iii",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "airi": {
+    "slug": "airi",
+    "title": "AIRI",
+    "github_repo": "AIRI-institute/air",
+    "good_first_issues_url": "https://github.com/AIRI-institute/air/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22",
+    "help_wanted_url": "https://github.com/AIRI-institute/air/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22",
+    "contribute_hub_url": "https://github.com/AIRI-institute/air/contribute",
+    "fork_url": "https://github.com/AIRI-institute/air/fork",
+    "contributing_guide_url": "https://github.com/AIRI-institute/air/blob/main/CONTRIBUTING.md",
+    "quick_contribute_cmd": "git clone https://github.com/AIRI-institute/air.git && cd air",
+    "license": {
+      "name": "MIT",
+      "type": "Permissive (Oldukça Özgür)",
+      "commercial_use": true,
+      "badge": "Ticari Kullanıma Uygun",
+      "badge_color": "green"
+    }
+  },
+  "markitdown": {
+    "slug": "markitdown",
+    "title": "MarkItDown",
+    "github_repo": null,
+    "license": {
+      "name": "MIT",
+      "type": "Permissive (Oldukça Özgür)",
+      "commercial_use": true,
+      "badge": "Ticari Kullanıma Uygun",
+      "badge_color": "green"
+    }
+  },
+  "harness": {
+    "slug": "harness",
+    "title": "Harness · Ajan Ekip Fabrikası",
+    "github_repo": null,
+    "license": {
+      "name": "Apache 2.0",
+      "type": "Permissive (Patent Korumalı)",
+      "commercial_use": true,
+      "badge": "Ticari Kullanıma Uygun",
+      "badge_color": "green"
+    }
+  },
+  "build-your-own-x": {
+    "slug": "build-your-own-x",
+    "title": "Build Your Own X",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "crawl4ai": {
+    "slug": "crawl4ai",
+    "title": "Crawl4AI",
+    "github_repo": null,
+    "license": {
+      "name": "Apache 2.0",
+      "type": "Permissive (Patent Korumalı)",
+      "commercial_use": true,
+      "badge": "Ticari Kullanıma Uygun",
+      "badge_color": "green"
+    }
+  },
+  "moss-tts": {
+    "slug": "moss-tts",
+    "title": "MOSS-TTS",
+    "github_repo": null,
+    "license": {
+      "name": "Apache 2.0",
+      "type": "Permissive (Patent Korumalı)",
+      "commercial_use": true,
+      "badge": "Ticari Kullanıma Uygun",
+      "badge_color": "green"
+    }
+  },
+  "compound-engineering-plugin": {
+    "slug": "compound-engineering-plugin",
+    "title": "Compound Engineering",
+    "github_repo": null,
+    "license": {
+      "name": "MIT",
+      "type": "Permissive (Oldukça Özgür)",
+      "commercial_use": true,
+      "badge": "Ticari Kullanıma Uygun",
+      "badge_color": "green"
+    }
+  },
+  "anthropic-skills": {
+    "slug": "anthropic-skills",
+    "title": "Anthropic Skills",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "claude-code": {
+    "slug": "claude-code",
+    "title": "Claude Code",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "cursor-plugins": {
+    "slug": "cursor-plugins",
+    "title": "Cursor Plugins",
+    "github_repo": "cursor-plugins/cursor-plugins",
+    "good_first_issues_url": "https://github.com/cursor-plugins/cursor-plugins/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22",
+    "help_wanted_url": "https://github.com/cursor-plugins/cursor-plugins/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22",
+    "contribute_hub_url": "https://github.com/cursor-plugins/cursor-plugins/contribute",
+    "fork_url": "https://github.com/cursor-plugins/cursor-plugins/fork",
+    "contributing_guide_url": "https://github.com/cursor-plugins/cursor-plugins/blob/main/CONTRIBUTING.md",
+    "quick_contribute_cmd": "git clone https://github.com/cursor-plugins/cursor-plugins.git && cd cursor-plugins",
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "voxcpm": {
+    "slug": "voxcpm",
+    "title": "VoxCPM",
+    "github_repo": null,
+    "license": {
+      "name": "Apache 2.0",
+      "type": "Permissive (Patent Korumalı)",
+      "commercial_use": true,
+      "badge": "Ticari Kullanıma Uygun",
+      "badge_color": "green"
+    }
+  },
+  "stable-worldmodel": {
+    "slug": "stable-worldmodel",
+    "title": "stable-worldmodel",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "project-nomad": {
+    "slug": "project-nomad",
+    "title": "Project N.O.M.A.D",
+    "github_repo": null,
+    "license": {
+      "name": "Apache 2.0",
+      "type": "Permissive (Patent Korumalı)",
+      "commercial_use": true,
+      "badge": "Ticari Kullanıma Uygun",
+      "badge_color": "green"
+    }
+  },
+  "liteparse": {
+    "slug": "liteparse",
+    "title": "Liteparse",
+    "github_repo": null,
+    "license": {
+      "name": "Apache 2.0",
+      "type": "Permissive (Patent Korumalı)",
+      "commercial_use": true,
+      "badge": "Ticari Kullanıma Uygun",
+      "badge_color": "green"
+    }
+  },
+  "flclash": {
+    "slug": "flclash",
+    "title": "FlClash",
+    "github_repo": null,
+    "license": {
+      "name": "GPL / AGPL",
+      "type": "Copyleft (Türetilen Kod Açılmalı)",
+      "commercial_use": false,
+      "badge": "Kod Açma Zorunluluğu",
+      "badge_color": "yellow"
+    }
+  },
+  "train-llm-from-scratch": {
+    "slug": "train-llm-from-scratch",
+    "title": "Train LLM from Scratch",
+    "github_repo": null,
+    "license": {
+      "name": "MIT",
+      "type": "Permissive (Oldukça Özgür)",
+      "commercial_use": true,
+      "badge": "Ticari Kullanıma Uygun",
+      "badge_color": "green"
+    }
+  },
+  "ruview": {
+    "slug": "ruview",
+    "title": "RuView",
+    "github_repo": "ruvnet/RuView",
+    "good_first_issues_url": "https://github.com/ruvnet/RuView/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22",
+    "help_wanted_url": "https://github.com/ruvnet/RuView/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22",
+    "contribute_hub_url": "https://github.com/ruvnet/RuView/contribute",
+    "fork_url": "https://github.com/ruvnet/RuView/fork",
+    "contributing_guide_url": "https://github.com/ruvnet/RuView/blob/main/CONTRIBUTING.md",
+    "quick_contribute_cmd": "git clone https://github.com/ruvnet/RuView.git && cd RuView",
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "data-engineering-zoomcamp": {
+    "slug": "data-engineering-zoomcamp",
+    "title": "Data Engineering Zoomcamp",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "social-auto-upload": {
+    "slug": "social-auto-upload",
+    "title": "social-auto-upload",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "scrapling": {
+    "slug": "scrapling",
+    "title": "Scrapling",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "hermes-webui": {
+    "slug": "hermes-webui",
+    "title": "Hermes WebUI",
+    "github_repo": "nesquena/hermes-webu",
+    "good_first_issues_url": "https://github.com/nesquena/hermes-webu/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22",
+    "help_wanted_url": "https://github.com/nesquena/hermes-webu/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22",
+    "contribute_hub_url": "https://github.com/nesquena/hermes-webu/contribute",
+    "fork_url": "https://github.com/nesquena/hermes-webu/fork",
+    "contributing_guide_url": "https://github.com/nesquena/hermes-webu/blob/main/CONTRIBUTING.md",
+    "quick_contribute_cmd": "git clone https://github.com/nesquena/hermes-webu.git && cd hermes-webu",
+    "license": {
+      "name": "MIT",
+      "type": "Permissive (Oldukça Özgür)",
+      "commercial_use": true,
+      "badge": "Ticari Kullanıma Uygun",
+      "badge_color": "green"
+    }
+  },
+  "github-docs": {
+    "slug": "github-docs",
+    "title": "GitHub Docs",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "supermemory": {
+    "slug": "supermemory",
+    "title": "Supermemory",
+    "github_repo": null,
+    "license": {
+      "name": "MIT",
+      "type": "Permissive (Oldukça Özgür)",
+      "commercial_use": true,
+      "badge": "Ticari Kullanıma Uygun",
+      "badge_color": "green"
+    }
+  },
+  "babysitter": {
+    "slug": "babysitter",
+    "title": "Babysitter",
+    "github_repo": null,
+    "license": {
+      "name": "MIT",
+      "type": "Permissive (Oldukça Özgür)",
+      "commercial_use": true,
+      "badge": "Ticari Kullanıma Uygun",
+      "badge_color": "green"
+    }
+  },
+  "pi-subagents": {
+    "slug": "pi-subagents",
+    "title": "Pi Subagents",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "developer-portfolios": {
+    "slug": "developer-portfolios",
+    "title": "Developer Portfolios",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "impeccable": {
+    "slug": "impeccable",
+    "title": "Impeccable",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "tradingagents": {
+    "slug": "tradingagents",
+    "title": "TradingAgents",
+    "github_repo": "TauricResearch/TradingAgents",
+    "good_first_issues_url": "https://github.com/TauricResearch/TradingAgents/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22",
+    "help_wanted_url": "https://github.com/TauricResearch/TradingAgents/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22",
+    "contribute_hub_url": "https://github.com/TauricResearch/TradingAgents/contribute",
+    "fork_url": "https://github.com/TauricResearch/TradingAgents/fork",
+    "contributing_guide_url": "https://github.com/TauricResearch/TradingAgents/blob/main/CONTRIBUTING.md",
+    "quick_contribute_cmd": "git clone https://github.com/TauricResearch/TradingAgents.git && cd TradingAgents",
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "godot": {
+    "slug": "godot",
+    "title": "Godot",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "oh-my-pi": {
+    "slug": "oh-my-pi",
+    "title": "Oh My Pi",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "machine-learning-for-trading": {
+    "slug": "machine-learning-for-trading",
+    "title": "Machine Learning for Trading",
+    "github_repo": "stefan-jansen/machine-learning-for-tradin",
+    "good_first_issues_url": "https://github.com/stefan-jansen/machine-learning-for-tradin/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22",
+    "help_wanted_url": "https://github.com/stefan-jansen/machine-learning-for-tradin/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22",
+    "contribute_hub_url": "https://github.com/stefan-jansen/machine-learning-for-tradin/contribute",
+    "fork_url": "https://github.com/stefan-jansen/machine-learning-for-tradin/fork",
+    "contributing_guide_url": "https://github.com/stefan-jansen/machine-learning-for-tradin/blob/main/CONTRIBUTING.md",
+    "quick_contribute_cmd": "git clone https://github.com/stefan-jansen/machine-learning-for-tradin.git && cd machine-learning-for-tradin",
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "fff": {
+    "slug": "fff",
+    "title": "FFF",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "headroom": {
+    "slug": "headroom",
+    "title": "Headroom",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "flowsint": {
+    "slug": "flowsint",
+    "title": "Flowsint",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "production-agentic-rag-course": {
+    "slug": "production-agentic-rag-course",
+    "title": "Production Agentic RAG Course",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "open-llm-vtuber": {
+    "slug": "open-llm-vtuber",
+    "title": "Open-LLM-VTuber",
+    "github_repo": "Open-LLM-VTuber/Open-LLM-VTuber",
+    "good_first_issues_url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22",
+    "help_wanted_url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22",
+    "contribute_hub_url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/contribute",
+    "fork_url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/fork",
+    "contributing_guide_url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber/blob/main/CONTRIBUTING.md",
+    "quick_contribute_cmd": "git clone https://github.com/Open-LLM-VTuber/Open-LLM-VTuber.git && cd Open-LLM-VTuber",
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "trivy": {
+    "slug": "trivy",
+    "title": "Trivy",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "hermes-agent": {
+    "slug": "hermes-agent",
+    "title": "Hermes Agent",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "opendataloader-pdf": {
+    "slug": "opendataloader-pdf",
+    "title": "Opendataloader PDF",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "odoo": {
+    "slug": "odoo",
+    "title": "Odoo",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "coding-interview-university": {
+    "slug": "coding-interview-university",
+    "title": "Coding Interview University",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "airllm": {
+    "slug": "airllm",
+    "title": "Airllm",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "vibe-trading": {
+    "slug": "vibe-trading",
+    "title": "Vibe-Trading",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "paddleocr": {
+    "slug": "paddleocr",
+    "title": "PaddleOCR",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "spec-kit": {
+    "slug": "spec-kit",
+    "title": "Spec Kit",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "cosmos": {
+    "slug": "cosmos",
+    "title": "Cosmos",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "open-notebook": {
+    "slug": "open-notebook",
+    "title": "Open Notebook",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "copilot-sdk": {
+    "slug": "copilot-sdk",
+    "title": "Copilot SDK",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "openclaw-windows-node": {
+    "slug": "openclaw-windows-node",
+    "title": "Openclaw Windows Node",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "last30days-skill": {
+    "slug": "last30days-skill",
+    "title": "Last30days Skill",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "copilotkit": {
+    "slug": "copilotkit",
+    "title": "CopilotKit",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "agent-reach": {
+    "slug": "agent-reach",
+    "title": "Agent-Reach",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "mirofish": {
+    "slug": "mirofish",
+    "title": "MiroFish",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "plugins": {
+    "slug": "plugins",
+    "title": "Plugins",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "mempalace": {
+    "slug": "mempalace",
+    "title": "Mempalace",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "flue": {
+    "slug": "flue",
+    "title": "Flue",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "personal-ai-infrastructure": {
+    "slug": "personal-ai-infrastructure",
+    "title": "Personal_AI_Infrastructure",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "svelte": {
+    "slug": "svelte",
+    "title": "Svelte",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "nginx": {
+    "slug": "nginx",
+    "title": "Nginx",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "go": {
+    "slug": "go",
+    "title": "GO",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "career-ops": {
+    "slug": "career-ops",
+    "title": "Career Ops",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "whisper": {
+    "slug": "whisper",
+    "title": "Whisper",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "vite": {
+    "slug": "vite",
+    "title": "Vite",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "mxc": {
+    "slug": "mxc",
+    "title": "MXC",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "vibevoice": {
+    "slug": "vibevoice",
+    "title": "VibeVoice",
+    "github_repo": "microsoft/VibeVoice",
+    "good_first_issues_url": "https://github.com/microsoft/VibeVoice/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22",
+    "help_wanted_url": "https://github.com/microsoft/VibeVoice/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22",
+    "contribute_hub_url": "https://github.com/microsoft/VibeVoice/contribute",
+    "fork_url": "https://github.com/microsoft/VibeVoice/fork",
+    "contributing_guide_url": "https://github.com/microsoft/VibeVoice/blob/main/CONTRIBUTING.md",
+    "quick_contribute_cmd": "git clone https://github.com/microsoft/VibeVoice.git && cd VibeVoice",
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "opencv": {
+    "slug": "opencv",
+    "title": "Opencv",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "aitoearn": {
+    "slug": "aitoearn",
+    "title": "AiToEarn",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "goose": {
+    "slug": "goose",
+    "title": "Goose",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "llama-cpp": {
+    "slug": "llama-cpp",
+    "title": "Llama.cpp",
+    "github_repo": "ggml-org/llama.cpp",
+    "good_first_issues_url": "https://github.com/ggml-org/llama.cpp/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22",
+    "help_wanted_url": "https://github.com/ggml-org/llama.cpp/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22",
+    "contribute_hub_url": "https://github.com/ggml-org/llama.cpp/contribute",
+    "fork_url": "https://github.com/ggml-org/llama.cpp/fork",
+    "contributing_guide_url": "https://github.com/ggml-org/llama.cpp/blob/main/CONTRIBUTING.md",
+    "quick_contribute_cmd": "git clone https://github.com/ggml-org/llama.cpp.git && cd llama.cpp",
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "turbovec": {
+    "slug": "turbovec",
+    "title": "Turbovec",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "chinatextbook": {
+    "slug": "chinatextbook",
+    "title": "ChinaTextbook",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "tolaria": {
+    "slug": "tolaria",
+    "title": "Tolaria",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "ghosttrack": {
+    "slug": "ghosttrack",
+    "title": "GhostTrack",
+    "github_repo": "HunxByts/GhostTrack",
+    "good_first_issues_url": "https://github.com/HunxByts/GhostTrack/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22",
+    "help_wanted_url": "https://github.com/HunxByts/GhostTrack/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22",
+    "contribute_hub_url": "https://github.com/HunxByts/GhostTrack/contribute",
+    "fork_url": "https://github.com/HunxByts/GhostTrack/fork",
+    "contributing_guide_url": "https://github.com/HunxByts/GhostTrack/blob/main/CONTRIBUTING.md",
+    "quick_contribute_cmd": "git clone https://github.com/HunxByts/GhostTrack.git && cd GhostTrack",
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "pg-durable": {
+    "slug": "pg-durable",
+    "title": "Pg Durable",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "skills": {
+    "slug": "skills",
+    "title": "Skills",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "pm-skills": {
+    "slug": "pm-skills",
+    "title": "Pm Skills",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "whichllm": {
+    "slug": "whichllm",
+    "title": "Whichllm",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "supervision": {
+    "slug": "supervision",
+    "title": "Supervision",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "claude-howto": {
+    "slug": "claude-howto",
+    "title": "Claude Howto",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "system-prompts-and-models-of-ai-tools": {
+    "slug": "system-prompts-and-models-of-ai-tools",
+    "title": "System Prompts and Models of AI Tools",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "openmed": {
+    "slug": "openmed",
+    "title": "Openmed",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "espectre": {
+    "slug": "espectre",
+    "title": "Espectre",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "agent-skills": {
+    "slug": "agent-skills",
+    "title": "Agent Skills",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "maigret": {
+    "slug": "maigret",
+    "title": "Maigret",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "masterdnsvpn": {
+    "slug": "masterdnsvpn",
+    "title": "MasterDnsVPN",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "hivemind": {
+    "slug": "hivemind",
+    "title": "Hivemind",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "container": {
+    "slug": "container",
+    "title": "Container",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "skillspector": {
+    "slug": "skillspector",
+    "title": "SkillSpector",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "restic": {
+    "slug": "restic",
+    "title": "Restic",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "agency-agents": {
+    "slug": "agency-agents",
+    "title": "Agency Agents",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "chatwoot": {
+    "slug": "chatwoot",
+    "title": "Chatwoot",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "agentsview": {
+    "slug": "agentsview",
+    "title": "Agentsview",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "zhangxuefeng-skill": {
+    "slug": "zhangxuefeng-skill",
+    "title": "Zhangxuefeng Skill",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "sia": {
+    "slug": "sia",
+    "title": "SIA",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "mattermost": {
+    "slug": "mattermost",
+    "title": "Mattermost",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "fanqiang": {
+    "slug": "fanqiang",
+    "title": "Fanqiang",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "server": {
+    "slug": "server",
+    "title": "Server",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "iptv": {
+    "slug": "iptv",
+    "title": "Iptv",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "lmcache": {
+    "slug": "lmcache",
+    "title": "LMCache",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "powertoys": {
+    "slug": "powertoys",
+    "title": "PowerToys",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "aisuite": {
+    "slug": "aisuite",
+    "title": "Aisuite",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "swc": {
+    "slug": "swc",
+    "title": "SWC",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "freecodecamp": {
+    "slug": "freecodecamp",
+    "title": "freeCodeCamp",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "pytest": {
+    "slug": "pytest",
+    "title": "Pytest",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "meshery": {
+    "slug": "meshery",
+    "title": "Meshery",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "cypress": {
+    "slug": "cypress",
+    "title": "Cypress",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "clone-wars": {
+    "slug": "clone-wars",
+    "title": "Clone-Wars",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "introduction-to-autonomous-robots": {
+    "slug": "introduction-to-autonomous-robots",
+    "title": "Introduction-to-Autonomous-Robots",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "puppeteer": {
+    "slug": "puppeteer",
+    "title": "Puppeteer",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "teslamate": {
+    "slug": "teslamate",
+    "title": "Teslamate",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "hello-algo": {
+    "slug": "hello-algo",
+    "title": "Hello Algo",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "cua": {
+    "slug": "cua",
+    "title": "CUA",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "win11debloat": {
+    "slug": "win11debloat",
+    "title": "Win11Debloat",
+    "github_repo": "Raphire/Win11Debloa",
+    "good_first_issues_url": "https://github.com/Raphire/Win11Debloa/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22",
+    "help_wanted_url": "https://github.com/Raphire/Win11Debloa/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22",
+    "contribute_hub_url": "https://github.com/Raphire/Win11Debloa/contribute",
+    "fork_url": "https://github.com/Raphire/Win11Debloa/fork",
+    "contributing_guide_url": "https://github.com/Raphire/Win11Debloa/blob/main/CONTRIBUTING.md",
+    "quick_contribute_cmd": "git clone https://github.com/Raphire/Win11Debloa.git && cd Win11Debloa",
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "self-hosting-guide": {
+    "slug": "self-hosting-guide",
+    "title": "Self-Hosting-Guide",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "optimizerduck": {
+    "slug": "optimizerduck",
+    "title": "optimizerDuck",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "universal-android-debloater-next-generation": {
+    "slug": "universal-android-debloater-next-generation",
+    "title": "Universal Android Debloater Next Generation",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "zvec": {
+    "slug": "zvec",
+    "title": "Zvec",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "openwa": {
+    "slug": "openwa",
+    "title": "OpenWA",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "iroh": {
+    "slug": "iroh",
+    "title": "Iroh",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "codebase-memory-mcp": {
+    "slug": "codebase-memory-mcp",
+    "title": "Codebase Memory MCP",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "timesfm": {
+    "slug": "timesfm",
+    "title": "Timesfm",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "rocket-chat": {
+    "slug": "rocket-chat",
+    "title": "Rocket.Chat",
+    "github_repo": "RocketChat/rocketchat-compose",
+    "good_first_issues_url": "https://github.com/RocketChat/rocketchat-compose/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22",
+    "help_wanted_url": "https://github.com/RocketChat/rocketchat-compose/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22",
+    "contribute_hub_url": "https://github.com/RocketChat/rocketchat-compose/contribute",
+    "fork_url": "https://github.com/RocketChat/rocketchat-compose/fork",
+    "contributing_guide_url": "https://github.com/RocketChat/rocketchat-compose/blob/main/CONTRIBUTING.md",
+    "quick_contribute_cmd": "git clone https://github.com/RocketChat/rocketchat-compose.git && cd rocketchat-compose",
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "continue": {
+    "slug": "continue",
+    "title": "Continue",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "penpot": {
+    "slug": "penpot",
+    "title": "Penpot",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "unciv": {
+    "slug": "unciv",
+    "title": "Unciv",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "ui-tars-desktop": {
+    "slug": "ui-tars-desktop",
+    "title": "UI-TARS-desktop",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "nautilus-trader": {
+    "slug": "nautilus-trader",
+    "title": "Nautilus Trader",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "openmontage": {
+    "slug": "openmontage",
+    "title": "OpenMontage",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "rlm": {
+    "slug": "rlm",
+    "title": "RLM",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "plane": {
+    "slug": "plane",
+    "title": "Plane",
+    "github_repo": "makeplane/plane",
+    "good_first_issues_url": "https://github.com/makeplane/plane/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22",
+    "help_wanted_url": "https://github.com/makeplane/plane/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22",
+    "contribute_hub_url": "https://github.com/makeplane/plane/contribute",
+    "fork_url": "https://github.com/makeplane/plane/fork",
+    "contributing_guide_url": "https://github.com/makeplane/plane/blob/main/CONTRIBUTING.md",
+    "quick_contribute_cmd": "git clone https://github.com/makeplane/plane.git && cd plane",
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "glm-5": {
+    "slug": "glm-5",
+    "title": "GLM 5",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "kilocode": {
+    "slug": "kilocode",
+    "title": "Kilocode",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "insomnia": {
+    "slug": "insomnia",
+    "title": "Insomnia",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "aspnetcore": {
+    "slug": "aspnetcore",
+    "title": "Aspnetcore",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "awesome-artificial-intelligence": {
+    "slug": "awesome-artificial-intelligence",
+    "title": "Awesome Artificial Intelligence",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "ltx-2": {
+    "slug": "ltx-2",
+    "title": "LTX 2",
+    "github_repo": "Lightricks/LTX-2",
+    "good_first_issues_url": "https://github.com/Lightricks/LTX-2/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22",
+    "help_wanted_url": "https://github.com/Lightricks/LTX-2/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22",
+    "contribute_hub_url": "https://github.com/Lightricks/LTX-2/contribute",
+    "fork_url": "https://github.com/Lightricks/LTX-2/fork",
+    "contributing_guide_url": "https://github.com/Lightricks/LTX-2/blob/main/CONTRIBUTING.md",
+    "quick_contribute_cmd": "git clone https://github.com/Lightricks/LTX-2.git && cd LTX-2",
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "libretranslate": {
+    "slug": "libretranslate",
+    "title": "LibreTranslate",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "palmier-pro": {
+    "slug": "palmier-pro",
+    "title": "Palmier Pro",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "worldmonitor": {
+    "slug": "worldmonitor",
+    "title": "Worldmonitor",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "awesome-generative-ai-guide": {
+    "slug": "awesome-generative-ai-guide",
+    "title": "Awesome Generative AI Guide",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "agent-native": {
+    "slug": "agent-native",
+    "title": "Agent Native",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "turso": {
+    "slug": "turso",
+    "title": "Turso",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "voicebox": {
+    "slug": "voicebox",
+    "title": "Voicebox",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "smsforwarder": {
+    "slug": "smsforwarder",
+    "title": "SmsForwarder",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "jcode": {
+    "slug": "jcode",
+    "title": "Jcode",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "daily-stock-analysis": {
+    "slug": "daily-stock-analysis",
+    "title": "Daily Stock Analysis",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "deer-flow": {
+    "slug": "deer-flow",
+    "title": "Deer Flow",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "bilitickerbuy": {
+    "slug": "bilitickerbuy",
+    "title": "biliTickerBuy",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "spiderfoot": {
+    "slug": "spiderfoot",
+    "title": "Spiderfoot",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "cognee": {
+    "slug": "cognee",
+    "title": "Cognee",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "system-prompts-leaks": {
+    "slug": "system-prompts-leaks",
+    "title": "System Prompts Leaks",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "stirling-pdf": {
+    "slug": "stirling-pdf",
+    "title": "Stirling-PDF",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "gstack": {
+    "slug": "gstack",
+    "title": "Gstack",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "hyperframes": {
+    "slug": "hyperframes",
+    "title": "Hyperframes",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "firecrawl": {
+    "slug": "firecrawl",
+    "title": "Firecrawl",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "ai-website-cloner-template": {
+    "slug": "ai-website-cloner-template",
+    "title": "AI Website Cloner Template",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "claude-plugins-official": {
+    "slug": "claude-plugins-official",
+    "title": "Claude Plugins Official",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "claude-code-best-practice": {
+    "slug": "claude-code-best-practice",
+    "title": "Claude Code Best Practice",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "hiring-agent": {
+    "slug": "hiring-agent",
+    "title": "Hiring Agent",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "flutter": {
+    "slug": "flutter",
+    "title": "Flutter",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "headunit-revived": {
+    "slug": "headunit-revived",
+    "title": "Headunit Revived",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "orca": {
+    "slug": "orca",
+    "title": "Orca",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "design-md": {
+    "slug": "design-md",
+    "title": "Design.md",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "zapret-discord-youtube": {
+    "slug": "zapret-discord-youtube",
+    "title": "Zapret Discord Youtube",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "no-mistakes": {
+    "slug": "no-mistakes",
+    "title": "No Mistakes",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "ai-berkshire": {
+    "slug": "ai-berkshire",
+    "title": "AI Berkshire",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "trek": {
+    "slug": "trek",
+    "title": "TREK",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "open-seo": {
+    "slug": "open-seo",
+    "title": "Open Seo",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "agent-toolkit-for-aws": {
+    "slug": "agent-toolkit-for-aws",
+    "title": "Agent Toolkit for Aws",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "page-agent": {
+    "slug": "page-agent",
+    "title": "Page Agent",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "casaos": {
+    "slug": "casaos",
+    "title": "CasaOS",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "mineru": {
+    "slug": "mineru",
+    "title": "MinerU",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "mediacrawler": {
+    "slug": "mediacrawler",
+    "title": "MediaCrawler",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "simplex-chat": {
+    "slug": "simplex-chat",
+    "title": "Simplex Chat",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "openpilot": {
+    "slug": "openpilot",
+    "title": "Openpilot",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "grafana": {
+    "slug": "grafana",
+    "title": "Grafana",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "free-for-dev": {
+    "slug": "free-for-dev",
+    "title": "Free for Dev",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "ppt-master": {
+    "slug": "ppt-master",
+    "title": "Ppt Master",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "open-generative-ai": {
+    "slug": "open-generative-ai",
+    "title": "Open-Generative-AI",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "dbt-core": {
+    "slug": "dbt-core",
+    "title": "Dbt Core",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "opencode": {
+    "slug": "opencode",
+    "title": "Opencode",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "openspec": {
+    "slug": "openspec",
+    "title": "OpenSpec",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "keycloak": {
+    "slug": "keycloak",
+    "title": "Keycloak",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "lingbot-map": {
+    "slug": "lingbot-map",
+    "title": "Lingbot Map",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "cupy": {
+    "slug": "cupy",
+    "title": "Cupy",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "fluidvoice": {
+    "slug": "fluidvoice",
+    "title": "FluidVoice",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "system-design-101": {
+    "slug": "system-design-101",
+    "title": "System Design 101",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "strix": {
+    "slug": "strix",
+    "title": "Strix",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "video-use": {
+    "slug": "video-use",
+    "title": "Video Use",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "logto": {
+    "slug": "logto",
+    "title": "Logto",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "vulnclaw": {
+    "slug": "vulnclaw",
+    "title": "VulnClaw",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "council-of-high-intelligence": {
+    "slug": "council-of-high-intelligence",
+    "title": "Council of High Intelligence",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "veracrypt": {
+    "slug": "veracrypt",
+    "title": "VeraCrypt",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "exercises-dataset": {
+    "slug": "exercises-dataset",
+    "title": "Exercises Dataset",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "omniroute": {
+    "slug": "omniroute",
+    "title": "OmniRoute",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "cupp": {
+    "slug": "cupp",
+    "title": "Cupp",
+    "github_repo": "Mebus/cupp",
+    "good_first_issues_url": "https://github.com/Mebus/cupp/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22",
+    "help_wanted_url": "https://github.com/Mebus/cupp/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22",
+    "contribute_hub_url": "https://github.com/Mebus/cupp/contribute",
+    "fork_url": "https://github.com/Mebus/cupp/fork",
+    "contributing_guide_url": "https://github.com/Mebus/cupp/blob/main/CONTRIBUTING.md",
+    "quick_contribute_cmd": "git clone https://github.com/Mebus/cupp.git && cd cupp",
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "agents-cli": {
+    "slug": "agents-cli",
+    "title": "Agents CLI",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "herdr": {
+    "slug": "herdr",
+    "title": "Herdr",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "instatic": {
+    "slug": "instatic",
+    "title": "Instatic",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "ai-for-beginners": {
+    "slug": "ai-for-beginners",
+    "title": "AI-For-Beginners",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "astryx": {
+    "slug": "astryx",
+    "title": "Astryx",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "olmocr": {
+    "slug": "olmocr",
+    "title": "Olmocr",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "karukan": {
+    "slug": "karukan",
+    "title": "Karukan",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "cubesandbox": {
+    "slug": "cubesandbox",
+    "title": "CubeSandbox",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "caveman": {
+    "slug": "caveman",
+    "title": "Caveman",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "chrome-devtools-mcp": {
+    "slug": "chrome-devtools-mcp",
+    "title": "Chrome Devtools MCP",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "checkout": {
+    "slug": "checkout",
+    "title": "Checkout",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "agentskills": {
+    "slug": "agentskills",
+    "title": "Agentskills",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "codex-plugin-cc": {
+    "slug": "codex-plugin-cc",
+    "title": "Codex Plugin Cc",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "langflow": {
+    "slug": "langflow",
+    "title": "Langflow",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "pytorch": {
+    "slug": "pytorch",
+    "title": "Pytorch",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "cs249r-book": {
+    "slug": "cs249r-book",
+    "title": "Cs249r Book",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "clean-code-javascript": {
+    "slug": "clean-code-javascript",
+    "title": "Clean Code Javascript",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "elasticsearch": {
+    "slug": "elasticsearch",
+    "title": "Elasticsearch",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "ansible": {
+    "slug": "ansible",
+    "title": "Ansible",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "romm": {
+    "slug": "romm",
+    "title": "Romm",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "maven": {
+    "slug": "maven",
+    "title": "Maven",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "supabase": {
+    "slug": "supabase",
+    "title": "Supabase",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "meetily": {
+    "slug": "meetily",
+    "title": "Meetily",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "immich": {
+    "slug": "immich",
+    "title": "Immich",
+    "github_repo": "immich-app/immich",
+    "good_first_issues_url": "https://github.com/immich-app/immich/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22",
+    "help_wanted_url": "https://github.com/immich-app/immich/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22",
+    "contribute_hub_url": "https://github.com/immich-app/immich/contribute",
+    "fork_url": "https://github.com/immich-app/immich/fork",
+    "contributing_guide_url": "https://github.com/immich-app/immich/blob/main/CONTRIBUTING.md",
+    "quick_contribute_cmd": "git clone https://github.com/immich-app/immich.git && cd immich",
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "folia-major": {
+    "slug": "folia-major",
+    "title": "Folia Major",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "unity-mcp": {
+    "slug": "unity-mcp",
+    "title": "Unity MCP",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "claude-skills": {
+    "slug": "claude-skills",
+    "title": "Claude Skills",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "terax-ai": {
+    "slug": "terax-ai",
+    "title": "Terax AI",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "awesome-claude-code": {
+    "slug": "awesome-claude-code",
+    "title": "Awesome Claude Code",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "marketingskills": {
+    "slug": "marketingskills",
+    "title": "Marketingskills",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "gastown": {
+    "slug": "gastown",
+    "title": "Gastown",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "codexbar": {
+    "slug": "codexbar",
+    "title": "CodexBar",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "claude-video": {
+    "slug": "claude-video",
+    "title": "Claude Video",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "karakeep": {
+    "slug": "karakeep",
+    "title": "Karakeep",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "awesome": {
+    "slug": "awesome",
+    "title": "Awesome",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "ai-job-search": {
+    "slug": "ai-job-search",
+    "title": "AI Job Search",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "website-downloader": {
+    "slug": "website-downloader",
+    "title": "Website-downloader",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "officecli": {
+    "slug": "officecli",
+    "title": "OfficeCLI",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "pocket-tts": {
+    "slug": "pocket-tts",
+    "title": "Pocket TTS",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "tencentdb-agent-memory": {
+    "slug": "tencentdb-agent-memory",
+    "title": "TencentDB-Agent-Memory",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "prisma": {
+    "slug": "prisma",
+    "title": "Prisma",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "argo-cd": {
+    "slug": "argo-cd",
+    "title": "Argo Cd",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "photogimp": {
+    "slug": "photogimp",
+    "title": "PhotoGIMP",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "desktopcommandermcp": {
+    "slug": "desktopcommandermcp",
+    "title": "DesktopCommanderMCP",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "autoremesher": {
+    "slug": "autoremesher",
+    "title": "Autoremesher",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "u3-sdk": {
+    "slug": "u3-sdk",
+    "title": "U3 SDK",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "awesome-design-md": {
+    "slug": "awesome-design-md",
+    "title": "Awesome Design Md",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "claude-cookbooks": {
+    "slug": "claude-cookbooks",
+    "title": "Claude Cookbooks",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "pentagi": {
+    "slug": "pentagi",
+    "title": "Pentagi",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "how-to-secure-a-linux-server": {
+    "slug": "how-to-secure-a-linux-server",
+    "title": "How-To-Secure-A-Linux-Server",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "bun": {
+    "slug": "bun",
+    "title": "BUN",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "abseil-cpp": {
+    "slug": "abseil-cpp",
+    "title": "Abseil Cpp",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "yaml-cpp": {
+    "slug": "yaml-cpp",
+    "title": "YAML Cpp",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "typescript": {
+    "slug": "typescript",
+    "title": "TypeScript",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "catch2": {
+    "slug": "catch2",
+    "title": "Catch2",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "asio": {
+    "slug": "asio",
+    "title": "Asio",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "claude-code-templates": {
+    "slug": "claude-code-templates",
+    "title": "Claude Code Templates",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "meshoptimizer": {
+    "slug": "meshoptimizer",
+    "title": "Meshoptimizer",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "tailscale": {
+    "slug": "tailscale",
+    "title": "Tailscale",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "stitch-skills": {
+    "slug": "stitch-skills",
+    "title": "Stitch Skills",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "terraform": {
+    "slug": "terraform",
+    "title": "Terraform",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "grpc": {
+    "slug": "grpc",
+    "title": "Grpc",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "next-js": {
+    "slug": "next-js",
+    "title": "Next.js",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "core": {
+    "slug": "core",
+    "title": "Core",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "next-ai-draw-io": {
+    "slug": "next-ai-draw-io",
+    "title": "Next AI Draw IO",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "pgrust": {
+    "slug": "pgrust",
+    "title": "Pgrust",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "fprime": {
+    "slug": "fprime",
+    "title": "Fprime",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "nuxt": {
+    "slug": "nuxt",
+    "title": "Nuxt",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "destructive-command-guard": {
+    "slug": "destructive-command-guard",
+    "title": "Destructive Command Guard",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "prefect": {
+    "slug": "prefect",
+    "title": "Prefect",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "awesome-llm-apps": {
+    "slug": "awesome-llm-apps",
+    "title": "Awesome LLM Apps",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "background-agents": {
+    "slug": "background-agents",
+    "title": "Background Agents",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "wand-enhancer": {
+    "slug": "wand-enhancer",
+    "title": "Wand-Enhancer",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "t3code": {
+    "slug": "t3code",
+    "title": "T3code",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "ai-hedge-fund": {
+    "slug": "ai-hedge-fund",
+    "title": "AI Hedge Fund",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "sharpemu": {
+    "slug": "sharpemu",
+    "title": "Sharpemu",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "hallmark": {
+    "slug": "hallmark",
+    "title": "Hallmark",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "opencut": {
+    "slug": "opencut",
+    "title": "OpenCut",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "graphify": {
+    "slug": "graphify",
+    "title": "Graphify",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "chinese-independent-developer": {
+    "slug": "chinese-independent-developer",
+    "title": "Chinese Independent Developer",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "clypra": {
+    "slug": "clypra",
+    "title": "Clypra",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "grok2api": {
+    "slug": "grok2api",
+    "title": "Grok2api",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "maths-cs-ai-compendium": {
+    "slug": "maths-cs-ai-compendium",
+    "title": "Maths Cs AI Compendium",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "openinterpreter": {
+    "slug": "openinterpreter",
+    "title": "Openinterpreter",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "deeptutor": {
+    "slug": "deeptutor",
+    "title": "DeepTutor",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "yimmenuv2": {
+    "slug": "yimmenuv2",
+    "title": "YimMenuV2",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "ossie": {
+    "slug": "ossie",
+    "title": "Ossie",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "posthog": {
+    "slug": "posthog",
+    "title": "Posthog",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "bonsai-demo": {
+    "slug": "bonsai-demo",
+    "title": "Bonsai-demo",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "lobehub": {
+    "slug": "lobehub",
+    "title": "Lobehub",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "ui-skills": {
+    "slug": "ui-skills",
+    "title": "UI Skills",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "computer-science": {
+    "slug": "computer-science",
+    "title": "Computer Science",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "cwc-workshops": {
+    "slug": "cwc-workshops",
+    "title": "Cwc Workshops",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "protobuf": {
+    "slug": "protobuf",
+    "title": "Protobuf",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "code-review-graph": {
+    "slug": "code-review-graph",
+    "title": "Code Review Graph",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "docuseal": {
+    "slug": "docuseal",
+    "title": "Docuseal",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "g0dm0d3": {
+    "slug": "g0dm0d3",
+    "title": "G0DM0D3",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "wigolo": {
+    "slug": "wigolo",
+    "title": "Wigolo",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "kimi-cli": {
+    "slug": "kimi-cli",
+    "title": "Kimi CLI",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "ai-agent-book": {
+    "slug": "ai-agent-book",
+    "title": "AI Agent Book",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "ktransformers": {
+    "slug": "ktransformers",
+    "title": "Ktransformers",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "jellium-desktop": {
+    "slug": "jellium-desktop",
+    "title": "Jellium Desktop",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "terminal": {
+    "slug": "terminal",
+    "title": "Terminal",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "astrbot": {
+    "slug": "astrbot",
+    "title": "AstrBot",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "wrenai": {
+    "slug": "wrenai",
+    "title": "WrenAI",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "cs-self-learning": {
+    "slug": "cs-self-learning",
+    "title": "Cs Self Learning",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "fastmcp": {
+    "slug": "fastmcp",
+    "title": "Fastmcp",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "topcoat": {
+    "slug": "topcoat",
+    "title": "Topcoat",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "openship": {
+    "slug": "openship",
+    "title": "Openship",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "ontology-playground": {
+    "slug": "ontology-playground",
+    "title": "Ontology-Playground",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "transcribe-cpp": {
+    "slug": "transcribe-cpp",
+    "title": "Transcribe.cpp",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "moonshine": {
+    "slug": "moonshine",
+    "title": "Moonshine",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "i-have-adhd": {
+    "slug": "i-have-adhd",
+    "title": "I Have Adhd",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "text-to-cad": {
+    "slug": "text-to-cad",
+    "title": "Text to Cad",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "tradingview-mcp": {
+    "slug": "tradingview-mcp",
+    "title": "Tradingview MCP",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "llmfit": {
+    "slug": "llmfit",
+    "title": "Llmfit",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "hyprland": {
+    "slug": "hyprland",
+    "title": "Hyprland",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "apollo-11": {
+    "slug": "apollo-11",
+    "title": "Apollo-11",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "dioxus": {
+    "slug": "dioxus",
+    "title": "Dioxus",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "open-deep-research": {
+    "slug": "open-deep-research",
+    "title": "Open Deep Research",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "pi-web": {
+    "slug": "pi-web",
+    "title": "Pi Web",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "croc": {
+    "slug": "croc",
+    "title": "Croc",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "outlines": {
+    "slug": "outlines",
+    "title": "Outlines",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "likec4": {
+    "slug": "likec4",
+    "title": "Likec4",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "awesome-claude-skills": {
+    "slug": "awesome-claude-skills",
+    "title": "Awesome Claude Skills",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "cloudflare-temp-email": {
+    "slug": "cloudflare-temp-email",
+    "title": "Cloudflare Temp Email",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "pumpkin": {
+    "slug": "pumpkin",
+    "title": "Pumpkin",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "buzz": {
+    "slug": "buzz",
+    "title": "Buzz",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "ego-lite": {
+    "slug": "ego-lite",
+    "title": "Ego Lite",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "open-code-review": {
+    "slug": "open-code-review",
+    "title": "Open Code Review",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "harper": {
+    "slug": "harper",
+    "title": "Harper",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "superfile": {
+    "slug": "superfile",
+    "title": "Superfile",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "dive-into-llms": {
+    "slug": "dive-into-llms",
+    "title": "Dive Into Llms",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "chat2db": {
+    "slug": "chat2db",
+    "title": "Chat2DB",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "bitchat": {
+    "slug": "bitchat",
+    "title": "Bitchat",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "node": {
+    "slug": "node",
+    "title": "Node",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "bitchat-android": {
+    "slug": "bitchat-android",
+    "title": "Bitchat Android",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "jenkins": {
+    "slug": "jenkins",
+    "title": "Jenkins",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "amnezia-client": {
+    "slug": "amnezia-client",
+    "title": "Amnezia Client",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "geolibre": {
+    "slug": "geolibre",
+    "title": "GeoLibre",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "ag-kit": {
+    "slug": "ag-kit",
+    "title": "Ag Kit",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "cassandra": {
+    "slug": "cassandra",
+    "title": "Cassandra",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "imgui": {
+    "slug": "imgui",
+    "title": "Imgui",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "editor": {
+    "slug": "editor",
+    "title": "Editor",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "free-stockdb": {
+    "slug": "free-stockdb",
+    "title": "Free Stockdb",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "speech-to-speech": {
+    "slug": "speech-to-speech",
+    "title": "Speech to Speech",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "book-to-skill": {
+    "slug": "book-to-skill",
+    "title": "Book to Skill",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "awesome-systematic-trading": {
+    "slug": "awesome-systematic-trading",
+    "title": "Awesome Systematic Trading",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "agent-governance-toolkit": {
+    "slug": "agent-governance-toolkit",
+    "title": "Agent Governance Toolkit",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "snipe-it": {
+    "slug": "snipe-it",
+    "title": "Snipe It",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "faceswap": {
+    "slug": "faceswap",
+    "title": "Faceswap",
+    "github_repo": "deepfakes/faceswap",
+    "good_first_issues_url": "https://github.com/deepfakes/faceswap/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22",
+    "help_wanted_url": "https://github.com/deepfakes/faceswap/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22",
+    "contribute_hub_url": "https://github.com/deepfakes/faceswap/contribute",
+    "fork_url": "https://github.com/deepfakes/faceswap/fork",
+    "contributing_guide_url": "https://github.com/deepfakes/faceswap/blob/main/CONTRIBUTING.md",
+    "quick_contribute_cmd": "git clone https://github.com/deepfakes/faceswap.git && cd faceswap",
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "openwork": {
+    "slug": "openwork",
+    "title": "Openwork",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "flashkda": {
+    "slug": "flashkda",
+    "title": "FlashKDA",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "ane": {
+    "slug": "ane",
+    "title": "ANE",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "baileys": {
+    "slug": "baileys",
+    "title": "Baileys",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "tuicr": {
+    "slug": "tuicr",
+    "title": "Tuicr",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "reverse-skill": {
+    "slug": "reverse-skill",
+    "title": "Reverse Skill",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "kaneo": {
+    "slug": "kaneo",
+    "title": "Kaneo",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "esp32-bit-pirate": {
+    "slug": "esp32-bit-pirate",
+    "title": "ESP32-Bit-Pirate",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "generative-ai-for-beginners": {
+    "slug": "generative-ai-for-beginners",
+    "title": "Generative AI for Beginners",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "gh-stack": {
+    "slug": "gh-stack",
+    "title": "Gh Stack",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "voice-pro": {
+    "slug": "voice-pro",
+    "title": "Voice Pro",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "invidious": {
+    "slug": "invidious",
+    "title": "Invidious",
+    "github_repo": "iv-org/invidious",
+    "good_first_issues_url": "https://github.com/iv-org/invidious/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22",
+    "help_wanted_url": "https://github.com/iv-org/invidious/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22",
+    "contribute_hub_url": "https://github.com/iv-org/invidious/contribute",
+    "fork_url": "https://github.com/iv-org/invidious/fork",
+    "contributing_guide_url": "https://github.com/iv-org/invidious/blob/main/CONTRIBUTING.md",
+    "quick_contribute_cmd": "git clone https://github.com/iv-org/invidious.git && cd invidious",
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "trellis-2": {
+    "slug": "trellis-2",
+    "title": "TRELLIS.2",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "k-skill": {
+    "slug": "k-skill",
+    "title": "K Skill",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "lighthouse": {
+    "slug": "lighthouse",
+    "title": "Lighthouse",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "ds4": {
+    "slug": "ds4",
+    "title": "Ds4",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "deepseek-reasonix": {
+    "slug": "deepseek-reasonix",
+    "title": "DeepSeek-Reasonix",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "pdf-inspector": {
+    "slug": "pdf-inspector",
+    "title": "PDF Inspector",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "system-design-primer": {
+    "slug": "system-design-primer",
+    "title": "System Design Primer",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "free-claude-code": {
+    "slug": "free-claude-code",
+    "title": "Free Claude Code",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "agents": {
+    "slug": "agents",
+    "title": "Agents",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "adr": {
+    "slug": "adr",
+    "title": "ADR",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "webpack": {
+    "slug": "webpack",
+    "title": "Webpack",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "spdlog": {
+    "slug": "spdlog",
+    "title": "Spdlog",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "deno": {
+    "slug": "deno",
+    "title": "Deno",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "angular": {
+    "slug": "angular",
+    "title": "Angular",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "tailwindcss": {
+    "slug": "tailwindcss",
+    "title": "Tailwindcss",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "computer": {
+    "slug": "computer",
+    "title": "Computer",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "loopx": {
+    "slug": "loopx",
+    "title": "Loopx",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "authentik": {
+    "slug": "authentik",
+    "title": "Authentik",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "guava": {
+    "slug": "guava",
+    "title": "Guava",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "autogpt": {
+    "slug": "autogpt",
+    "title": "AutoGPT",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "prime-agent": {
+    "slug": "prime-agent",
+    "title": "Prime Agent",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "semantica": {
+    "slug": "semantica",
+    "title": "Semantica",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "mise": {
+    "slug": "mise",
+    "title": "Mise",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "swarm-forge": {
+    "slug": "swarm-forge",
+    "title": "Swarm Forge",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "celld": {
+    "slug": "celld",
+    "title": "Celld",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "legendary-osint": {
+    "slug": "legendary-osint",
+    "title": "Legendary_OSINT",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "witr": {
+    "slug": "witr",
+    "title": "Witr",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "ladybird": {
+    "slug": "ladybird",
+    "title": "Ladybird",
+    "github_repo": "LadybirdBrowser/ladybird",
+    "good_first_issues_url": "https://github.com/LadybirdBrowser/ladybird/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22",
+    "help_wanted_url": "https://github.com/LadybirdBrowser/ladybird/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22",
+    "contribute_hub_url": "https://github.com/LadybirdBrowser/ladybird/contribute",
+    "fork_url": "https://github.com/LadybirdBrowser/ladybird/fork",
+    "contributing_guide_url": "https://github.com/LadybirdBrowser/ladybird/blob/main/CONTRIBUTING.md",
+    "quick_contribute_cmd": "git clone https://github.com/LadybirdBrowser/ladybird.git && cd ladybird",
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "devops-interview-guide": {
+    "slug": "devops-interview-guide",
+    "title": "DevOps-Interview-Guide",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "code-graph-rag": {
+    "slug": "code-graph-rag",
+    "title": "Code Graph RAG",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "weathernext": {
+    "slug": "weathernext",
+    "title": "Weathernext",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "comfyui": {
+    "slug": "comfyui",
+    "title": "ComfyUI",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "harvey-labs": {
+    "slug": "harvey-labs",
+    "title": "Harvey Labs",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "paperclip": {
+    "slug": "paperclip",
+    "title": "Paperclip",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "lifeos": {
+    "slug": "lifeos",
+    "title": "LifeOS",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "dopamine": {
+    "slug": "dopamine",
+    "title": "Dopamine",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "nvm": {
+    "slug": "nvm",
+    "title": "NVM",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "manim": {
+    "slug": "manim",
+    "title": "Manim",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "transformers": {
+    "slug": "transformers",
+    "title": "Transformers",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "awesome-mac": {
+    "slug": "awesome-mac",
+    "title": "Awesome Mac",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "project-based-learning": {
+    "slug": "project-based-learning",
+    "title": "Project Based Learning",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "diagram-design": {
+    "slug": "diagram-design",
+    "title": "Diagram Design",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "macro": {
+    "slug": "macro",
+    "title": "Macro",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "ragflow": {
+    "slug": "ragflow",
+    "title": "Ragflow",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "switchyard": {
+    "slug": "switchyard",
+    "title": "Switchyard",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "everyone-can-use-english": {
+    "slug": "everyone-can-use-english",
+    "title": "Everyone Can Use English",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "localsend": {
+    "slug": "localsend",
+    "title": "Localsend",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "embabel-agent": {
+    "slug": "embabel-agent",
+    "title": "Embabel Agent",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "needle": {
+    "slug": "needle",
+    "title": "Needle",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "unsloth": {
+    "slug": "unsloth",
+    "title": "Unsloth",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "holehe": {
+    "slug": "holehe",
+    "title": "Holehe",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "holaos": {
+    "slug": "holaos",
+    "title": "holaOS",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "obsidian-skills": {
+    "slug": "obsidian-skills",
+    "title": "Obsidian Skills",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "modly": {
+    "slug": "modly",
+    "title": "Modly",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "awesome-deepseek-agent": {
+    "slug": "awesome-deepseek-agent",
+    "title": "Awesome Deepseek Agent",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "rustdesk": {
+    "slug": "rustdesk",
+    "title": "Rustdesk",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "tooljet": {
+    "slug": "tooljet",
+    "title": "ToolJet",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "cordis": {
+    "slug": "cordis",
+    "title": "Cordis",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "public-apis": {
+    "slug": "public-apis",
+    "title": "Public Apis",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "soup": {
+    "slug": "soup",
+    "title": "Soup",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "cli-anything": {
+    "slug": "cli-anything",
+    "title": "CLI-Anything",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "omarchy": {
+    "slug": "omarchy",
+    "title": "Omarchy",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "munder-difflin": {
+    "slug": "munder-difflin",
+    "title": "Munder Difflin",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "ai-memory": {
+    "slug": "ai-memory",
+    "title": "AI Memory",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "openviking": {
+    "slug": "openviking",
+    "title": "OpenViking",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "motrix": {
+    "slug": "motrix",
+    "title": "Motrix",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "plfm-radar": {
+    "slug": "plfm-radar",
+    "title": "PLFM RADAR",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "omlx": {
+    "slug": "omlx",
+    "title": "Omlx",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "genlayer-project-boilerplate": {
+    "slug": "genlayer-project-boilerplate",
+    "title": "Genlayer Project Boilerplate",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "modular": {
+    "slug": "modular",
+    "title": "Modular",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "openlogi": {
+    "slug": "openlogi",
+    "title": "OpenLogi",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "substrate": {
+    "slug": "substrate",
+    "title": "Substrate",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "google-timeline-visualizer": {
+    "slug": "google-timeline-visualizer",
+    "title": "Google Timeline Visualizer",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "ai-infra-guard": {
+    "slug": "ai-infra-guard",
+    "title": "AI-Infra-Guard",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "ghost": {
+    "slug": "ghost",
+    "title": "Ghost",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "ruflo": {
+    "slug": "ruflo",
+    "title": "Ruflo",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "maka": {
+    "slug": "maka",
+    "title": "Maka",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "obliteratus": {
+    "slug": "obliteratus",
+    "title": "OBLITERATUS",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "onnxruntime": {
+    "slug": "onnxruntime",
+    "title": "Onnxruntime",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "codex": {
+    "slug": "codex",
+    "title": "Codex",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "sub2api": {
+    "slug": "sub2api",
+    "title": "Sub2api",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "n8n": {
+    "slug": "n8n",
+    "title": "N8n",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "andrej-karpathy-skills": {
+    "slug": "andrej-karpathy-skills",
+    "title": "Andrej Karpathy Skills",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "awesome-gpt-image-2": {
+    "slug": "awesome-gpt-image-2",
+    "title": "Awesome Gpt Image 2",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "openhuman": {
+    "slug": "openhuman",
+    "title": "Openhuman",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "awesome-agent-skills": {
+    "slug": "awesome-agent-skills",
+    "title": "Awesome Agent Skills",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "vaultwarden": {
+    "slug": "vaultwarden",
+    "title": "Vaultwarden",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "claude-plugins-community": {
+    "slug": "claude-plugins-community",
+    "title": "Claude Plugins Community",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "claude-obsidian": {
+    "slug": "claude-obsidian",
+    "title": "Claude Obsidian",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "marin": {
+    "slug": "marin",
+    "title": "Marin",
+    "github_repo": "marin-community/marin",
+    "good_first_issues_url": "https://github.com/marin-community/marin/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22",
+    "help_wanted_url": "https://github.com/marin-community/marin/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22",
+    "contribute_hub_url": "https://github.com/marin-community/marin/contribute",
+    "fork_url": "https://github.com/marin-community/marin/fork",
+    "contributing_guide_url": "https://github.com/marin-community/marin/blob/main/CONTRIBUTING.md",
+    "quick_contribute_cmd": "git clone https://github.com/marin-community/marin.git && cd marin",
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "ponytail": {
+    "slug": "ponytail",
+    "title": "Ponytail",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  },
+  "hister": {
+    "slug": "hister",
+    "title": "Hister",
+    "github_repo": null,
+    "license": {
+      "name": "Açık Kaynak",
+      "type": "Belirtilmemiş",
+      "commercial_use": true,
+      "badge": "Açık Kaynak",
+      "badge_color": "blue"
+    }
+  }
+}
