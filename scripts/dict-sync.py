@@ -183,14 +183,15 @@ def gemini(existing, candidates, key):
         except urllib.error.HTTPError as e:
             last = e
             if e.code in (429, 500, 502, 503) and attempt < 4:
-                delay = _http_retry_delay(e, attempt)
+                delay = max(_http_retry_delay(e, attempt), (attempt + 1) * 10.0)
+                print(f"Gemini 429/5xx received, waiting {delay:.1f}s before attempt {attempt + 2}/5...")
                 time.sleep(delay)
                 continue
             raise
         except Exception as e:
             last = e
             if attempt < 4:
-                time.sleep((attempt + 1) * 5)
+                time.sleep((attempt + 1) * 10)
                 continue
             raise
     raise last
@@ -414,7 +415,20 @@ def main():
     key=gemini_key()
     if not key: print("HATA: GEMINI_API_KEY yok (ortam değişkeni ya da app/.env.local)."); sys.exit(1)
     existing=[(m["slug"],m["en"]) for m in manifest]
-    new=gemini(existing, [{"term":c["term"],"aciklama":c["explanation"]} for c in candidates], key)
+    try:
+        new=gemini(existing, [{"term":c["term"],"aciklama":c["explanation"]} for c in candidates], key)
+    except Exception as e:
+        print(f"UYARI: Gemini API çağrısı geçici olarak başarısız ({e}). Adaylar kaynak açıklamalarıyla ekleniyor...")
+        new=[]
+        for c in candidates:
+            s=slugify(c["term"])
+            src=(c.get("explanation") or "").strip()
+            if s and s not in existing_slugs and src:
+                new.append({
+                    "slug": s, "en": c["term"], "full": "", "cat": "dev",
+                    "kisa": src, "tanim": src, "analoji": "", "nasil": "",
+                    "nerede": "", "karistirilan": "", "sss": [], "related": [],
+                })
     # güvenlik: Gemini'nin döndürdüğü slug'ı normalize et · ham slug path'e
     # girince "../x" gibi bir değer os.path.join ile dictionary/ dışına yazardı
     for n in new: n["slug"]=slugify(n.get("slug") or "")
