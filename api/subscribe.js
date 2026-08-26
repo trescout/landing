@@ -52,8 +52,8 @@ const DISPOSABLE_DOMAINS = new Set([
 
 /**
  * Kullanıcıya dönen hata metinleri · sayfanın dili neyse o.
- * Dil, istek body'sine güvenmeden referer yolundan seçilir; `code` alanı istemci
- * için locale-bağımsız hata sözleşmesidir. Referer yoksa Türkçe varsayılandır.
+ * İstemci `lang` gönderiyor (document.documentElement.lang). Gönderilmezse
+ * Türkçe · site Türkçe doğdu, varsayılan o.
  */
 const MESAJ = {
   tr: {
@@ -129,9 +129,7 @@ const MESAJ = {
     baglanti: 'Verbindungsfehler; bitte erneut versuchen',
   },
 };
-
 const SUPPORTED_LANGS = new Set(Object.keys(MESAJ));
-
 function errorResponse(messages, code, status) {
   return jsonResponse({ error: messages[code], code }, status);
 }
@@ -207,9 +205,9 @@ function clientIp(req) {
 }
 
 /**
- * Sayfanın dili · Referer yolundan okunur (/en/... → İngilizce, /fr/... → Fransızca).
+ * Sayfanın dili · Referer yolundan okunur (/en/... → İngilizce).
  * Gövde daha ayrıştırılmadan da hata dönebiliyoruz (yöntem, origin, hız sınırı) ·
- * bu yüzden dili başlıktan alıyoruz ve gövdedeki herhangi bir `lang` alanına güvenmiyoruz.
+ * bu yüzden dili başlıktan alıyoruz, gövdedeki `lang` alanına bağlamıyoruz.
  */
 function dilSec(req) {
   const ref = req.headers.get('referer') || '';
@@ -259,9 +257,6 @@ export default async function handler(req) {
 
   const email = (body.email || '').toString().trim().toLowerCase();
   const source = (body.source || 'unknown').toString().slice(0, 32);
-  const pageType = (body.pageType || '').toString().slice(0, 32).replace(/[^\w-]/g, '');
-  const contentSlug = (body.contentSlug || '').toString().slice(0, 64).replace(/[^\w-]/g, '');
-  const placement = (body.placement || '').toString().slice(0, 32).replace(/[^\w-]/g, '');
   // Kayıt hangi sayfadan geldi · data-source sayfa TİPİNİ veriyor (ör. tüm
   // 488 İngilizce sözlük sayfası 'dictionary-en'), path tek girdiyi veriyor.
   const path = (body.path || '').toString().slice(0, 120).replace(/[^\w\-/.]/g, '');
@@ -332,9 +327,6 @@ export default async function handler(req) {
         text: [
           `E-posta: ${email}`,
           `Kaynak: ${source}`,
-          pageType ? `Sayfa Tipi: ${pageType}` : '',
-          contentSlug ? `İçerik: ${contentSlug}` : '',
-          placement ? `Yerleşim: ${placement}` : '',
           path ? `Sayfa: https://trescout.com${path}` : '',
           `Tarih: ${new Date().toISOString()}`,
           isDuplicate ? 'Not: Bu e-posta listede zaten kayıtlıydı.' : ''

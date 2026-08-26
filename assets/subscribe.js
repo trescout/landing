@@ -118,19 +118,12 @@
 
       try {
         var honeypot = form.querySelector('input[name="website"]');
-        var pageType = form.dataset.pageType || '';
-        var contentSlug = form.dataset.contentSlug || '';
-        var placement = form.dataset.ctaPlacement || form.dataset.source || 'default';
-
         var res = await fetch(ENDPOINT, {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({
             email: email,
             source: form.dataset.source || 'unknown',
-            pageType: pageType,
-            contentSlug: contentSlug,
-            placement: placement,
             // Sayfa yolu · data-source tüm sözlük sayfalarında aynı ("dictionary-en"),
             // hangi girdinin kişiyi getirdiğini ancak bu satır gösteriyor.
             path: location.pathname,
@@ -141,14 +134,6 @@
         var data = await res.json().catch(function () { return {}; });
 
         if (res.ok && data.ok) {
-          if (window.TreScoutTelemetry && typeof window.TreScoutTelemetry.track === 'function') {
-            window.TreScoutTelemetry.track('early_access_submit', {
-              pageType: pageType,
-              contentSlug: contentSlug,
-              placement: placement,
-              isDuplicate: data.duplicate === true
-            });
-          }
           showSuccess(form, data.duplicate === true);
         } else {
           button.disabled = false;

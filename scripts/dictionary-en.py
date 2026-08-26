@@ -129,8 +129,8 @@ def esc(s):
 
 
 def make_dict_form(slug=""):
-    slug_attr = f' data-content-slug="{esc(slug)}"' if slug else ''
-    return (f'<form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-{LANG}" data-page-type="dictionary"{slug_attr} data-cta-placement="dictionary_detail" novalidate>'
+    slug_attr = f'' if slug else ''
+    return (f'<form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-{LANG}"{slug_attr} novalidate>'
             '<div class="form-row">'
             f'<input class="input" type="email" name="email" placeholder="{D["form_yer_tutucu"]}" autocomplete="email" required>'
             f'<button class="btn btn-primary" type="submit">{D["form_dugme"]}</button></div>'
@@ -329,7 +329,8 @@ def build(term, chrome):
              '<a href="mailto:hello@trescout.com">hello@trescout.com</a>. '
              f'<a href="{canon_tr}">{D["turkce_oku"]}</a></p>\n'
              '</article>\n</main>\n' + footer + '\n<script src="/assets/subscribe.js" defer></script>\n'
-             + '<script src="/assets/telemetry.js" defer></script>\n'
+             + '
+\n'
              + vercel + '</body>\n</html>\n')
     return head + govde
 
