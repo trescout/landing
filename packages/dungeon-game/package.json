@@ -1,0 +1,19 @@
+{
+  "name": "trescout-dungeon",
+  "version": "1.0.0",
+  "description": "The Open Source Dungeon - A Terminal Roguelike RPG Game by TreScout",
+  "main": "bin/play.js",
+  "bin": {
+    "trescout-play": "./bin/play.js"
+  },
+  "type": "commonjs",
+  "keywords": [
+    "roguelike",
+    "terminal-game",
+    "rpg",
+    "open-source",
+    "trescout"
+  ],
+  "author": "TreScout Team <hello@trescout.com>",
+  "license": "MIT"
+}
