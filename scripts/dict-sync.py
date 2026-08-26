@@ -149,27 +149,49 @@ def _http_retry_delay(error, attempt):
 
 
 def gemini(existing, candidates, key):
-    payload=("MEVCUT terimler:\n"+json.dumps([{"slug":s,"ad":n} for s,n in existing],ensure_ascii=False)+
-             "\n\nADAY terimler:\n"+json.dumps(candidates,ensure_ascii=False))
-    body={"systemInstruction":{"parts":[{"text":SYS}]},"contents":[{"parts":[{"text":payload}]}],
-          "generationConfig":{"temperature":0.5,"responseMimeType":"application/json","maxOutputTokens":8192}}
-    # key header'da taşınır · URL query param'ı log/proxy'lerde sızabilir
-    url=f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
-    req=urllib.request.Request(url,data=json.dumps(body).encode(),headers={"Content-Type":"application/json","x-goog-api-key":key},method="POST")
-    last=None
+    payload = ("MEVCUT terimler:\n" + json.dumps([{"slug": s, "ad": n} for s, n in existing], ensure_ascii=False) +
+               "\n\nADAY terimler:\n" + json.dumps(candidates, ensure_ascii=False))
+    body = {
+        "systemInstruction": {"parts": [{"text": SYS}]},
+        "contents": [{"parts": [{"text": payload}]}],
+        "generationConfig": {"temperature": 0.5, "responseMimeType": "application/json", "maxOutputTokens": 8192}
+    }
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
+    encoded_body = json.dumps(body).encode("utf-8")
+    last = None
     for attempt in range(5):  # geçici 429/500/503/timeout için retry + backoff
         try:
-            raw=json.loads(urllib.request.urlopen(req,timeout=150).read().decode())["candidates"][0]["content"]["parts"][0]["text"]
-            return json.loads(raw)
+            req = urllib.request.Request(
+                url,
+                data=encoded_body,
+                headers={"Content-Type": "application/json", "x-goog-api-key": key},
+                method="POST"
+            )
+            with urllib.request.urlopen(req, timeout=150) as resp:
+                raw_json = json.loads(resp.read().decode("utf-8"))
+            raw_text = raw_json["candidates"][0]["content"]["parts"][0]["text"].strip()
+            try:
+                return json.loads(raw_text)
+            except Exception:
+                fence = re.search(r'```(?:json)?\s*([\s\S]*?)\s*```', raw_text)
+                if fence:
+                    return json.loads(fence.group(1).strip())
+                arr = re.search(r'\[\s*\{[\s\S]*\}\s*\]', raw_text)
+                if arr:
+                    return json.loads(arr.group(0).strip())
+                raise
         except urllib.error.HTTPError as e:
-            last=e
-            if e.code in (429,500,502,503) and attempt<4:
-                time.sleep(_http_retry_delay(e, attempt))
+            last = e
+            if e.code in (429, 500, 502, 503) and attempt < 4:
+                delay = _http_retry_delay(e, attempt)
+                time.sleep(delay)
                 continue
             raise
         except Exception as e:
-            last=e
-            if attempt<4: time.sleep((attempt+1)*5); continue
+            last = e
+            if attempt < 4:
+                time.sleep((attempt + 1) * 5)
+                continue
             raise
     raise last
 
