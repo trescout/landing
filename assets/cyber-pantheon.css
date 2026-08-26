@@ -1,0 +1,220 @@
+/* ============================================================
+   TreScout · Açık Kaynak Mitolojisi & Panteon Stilleri
+   ============================================================ */
+
+.tre-cyber-pantheon-container {
+  margin: 2.5rem 0;
+  width: 100%;
+}
+
+.cp-wrap {
+  background: radial-gradient(circle at 50% 15%, #1C1917 0%, #0C0A09 100%);
+  border: 1px solid rgba(244, 211, 94, 0.35);
+  border-radius: 20px;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.6);
+  color: #F8FAFC;
+}
+
+.cp-head {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.cp-top-badge {
+  font-size: 0.75rem;
+  font-weight: 800;
+  background: rgba(244, 211, 94, 0.15);
+  color: #F4D35E;
+  border: 1px solid rgba(244, 211, 94, 0.3);
+  padding: 3px 10px;
+  border-radius: 12px;
+  letter-spacing: 0.08em;
+}
+
+.cp-title {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: #ffffff;
+}
+
+.cp-desc {
+  font-size: 0.95rem;
+  color: #A8A29E;
+  max-width: 580px;
+}
+
+.cp-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.6rem;
+  margin-top: 1rem;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(244, 211, 94, 0.2);
+  border-radius: 12px;
+  padding: 4px;
+}
+
+.cp-tab-btn {
+  background: transparent;
+  border: none;
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: #A8A29E;
+  padding: 0.5rem 1.1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.cp-tab-btn:hover {
+  color: #ffffff;
+}
+
+.cp-tab-active {
+  background: #F4D35E;
+  color: #1C1917 !important;
+  font-weight: 800;
+  box-shadow: 0 4px 15px rgba(244, 211, 94, 0.3);
+}
+
+.cp-shrine-card {
+  background: rgba(28, 25, 23, 0.8);
+  border: 1px solid rgba(244, 211, 94, 0.25);
+  border-radius: 16px;
+  padding: 1.75rem;
+  width: 100%;
+  max-width: 600px;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4);
+}
+
+.cp-deity-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  padding-bottom: 1rem;
+}
+
+.cp-deity-name {
+  font-size: 1.4rem;
+  font-weight: 800;
+  color: #F4D35E;
+}
+
+.cp-deity-title {
+  font-size: 0.85rem;
+  color: #D6D3D1;
+}
+
+.cp-element-pill {
+  font-size: 0.75rem;
+  font-weight: 700;
+  background: rgba(255, 255, 255, 0.08);
+  color: #F59E0B;
+  padding: 3px 8px;
+  border-radius: 6px;
+  border: 1px solid rgba(245, 158, 11, 0.3);
+}
+
+.cp-doctrine-box {
+  background: rgba(244, 211, 94, 0.08);
+  border-left: 3px solid #F4D35E;
+  border-radius: 4px;
+  padding: 0.75rem 1rem;
+  font-size: 0.95rem;
+  color: #FEF08A;
+  font-style: italic;
+}
+
+.cp-mythos {
+  font-size: 0.9rem;
+  color: #D6D3D1;
+  line-height: 1.45;
+}
+
+.cp-oracle-section {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  padding-top: 1rem;
+}
+
+.cp-query-row {
+  display: flex;
+  gap: 0.6rem;
+}
+
+.cp-input {
+  flex-grow: 1;
+  background: #0C0A09;
+  border: 1px solid rgba(244, 211, 94, 0.3);
+  border-radius: 8px;
+  padding: 0.6rem 0.85rem;
+  color: #F8FAFC;
+  font-size: 0.85rem;
+  outline: none;
+}
+
+.cp-btn-ask {
+  background: #F4D35E;
+  color: #1C1917;
+  font-size: 0.85rem;
+  font-weight: 800;
+  padding: 0.6rem 1rem;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.cp-btn-ask:hover {
+  background: #fde047;
+}
+
+.cp-verdict-box {
+  margin-top: 0.75rem;
+  background: rgba(0, 0, 0, 0.6);
+  border: 1px solid rgba(244, 211, 94, 0.4);
+  border-radius: 10px;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  animation: fadeIn 0.3s ease-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.cp-verdict-head {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: #F4D35E;
+}
+
+.cp-verdict-text {
+  font-size: 0.95rem;
+  color: #ffffff;
+  line-height: 1.45;
+}
+
+.cp-verdict-footer {
+  font-size: 0.75rem;
+  color: #78716C;
+}

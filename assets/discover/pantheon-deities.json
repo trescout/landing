@@ -1,0 +1,42 @@
+[
+  {
+    "id": "linus",
+    "name": "⚡ Linus the Monolithic",
+    "title": "Çekirdek (Kernel) ve Git Nehirlerinin Efendisi",
+    "element": "Metal & C",
+    "domain": "İşletim Sistemleri, Performans, Sıfır Saçmalık",
+    "doctrine": "Konuşmak ucuzdur; bana çalışan kodu göster.",
+    "mythos": "1991 kışında karanlık kapalı kaynak dünyasına karşı tek bir terminal başından monolitik Linux çekirdeğini ve ardından Git zaman kontrolünü dövdü.",
+    "oracle_advice": "Sistemi bölüp parçalamadan önce tek bir makinenin tüm işlemci çekirdeklerini son damlasına kadar zorla. Karmaşıklık tembelliktir."
+  },
+  {
+    "id": "llama",
+    "name": "🦙 Llama the Open Titan",
+    "title": "Açık Ağırlıkların ve Yapay Zekâ Özgürlüğünün Titanyumu",
+    "element": "Matematik & Tensor",
+    "domain": "LLM Ağırlıkları, Açık Model Ekosistemi, Yerel Çıkarım",
+    "doctrine": "Ağırlıklar kapalı duvarlar ardında hapsedilemez.",
+    "mythos": "Tüm yapay zekanın kapalı API tekellerine kilitlendiği çağda, trilyonlarca parametrelik ağırlıklarını dünyaya saçarak açık kaynak AI devrimini başlattı.",
+    "oracle_advice": "Başkasının API'sine bağımlı olma; açık bir modeli kendi donanımında barındır ve egemenliğini koru."
+  },
+  {
+    "id": "ferris",
+    "name": "🦀 Ferris the Memory Guardian",
+    "title": "Bellek Güvenliği ve Paslanmaz Ruhlar Tanrısı",
+    "element": "Rust & Demir",
+    "domain": "Borrow Checker, Korkusuz Eşzamanlılık, Sıfır Maliyetli Soyutlama",
+    "doctrine": "Eğer derlendiyse, bellek güvenlidir.",
+    "mythos": "Null Pointer ve Use-After-Free lanetlerinin kol gezdiği C++ dünyasında, 'Sahiplik ve Ödünç Alma' (Ownership) yasasını getirerek bellek sızıntılarını mühürledi.",
+    "oracle_advice": "Derleyiciyle savaşmayı bırak; onun katı kuralları seni canlıdaki gece yarıları çökmelerinden korumak için var."
+  },
+  {
+    "id": "guido",
+    "name": "🐍 Guido the Zen Sage",
+    "title": "Sadelik ve Okunabilirlik Bilgesi",
+    "element": "Hava & Python",
+    "domain": "Geliştirici Mutluluğu, Veri Bilimi, Hızlı Prototipleme",
+    "doctrine": "Okunabilirlik esastır. Basit, karmaşıktan iyidir.",
+    "mythos": "Süslü parantezlerin ve anlamsız tip törenlerinin mühendisleri boğduğu devirde, insan diline en yakın sözdizimini (The Zen of Python) armağan etti.",
+    "oracle_advice": "Aşırı mühendislik yapma; kodu yazarken harcadığın 1 saat, onu okuyacak 10 kişinin anlayacağı sadelikte olmalı."
+  }
+]
