@@ -8,6 +8,8 @@ Bu repo Vercel'a deploy edildiğinde gerekli olan environment değişkenleri.
 |---|---|---|
 | `RESEND_API_KEY` | ✅ | Resend API key · "Full access" veya minimum `audiences:write` + `emails:send` scope'lu |
 | `RESEND_AUDIENCE_ID` | ✅ | Resend Audience UUID · erken erişim e-postaları buraya kaydedilir |
+| `UPSTASH_REDIS_REST_URL` | ✅ production | Upstash Redis REST URL · atomik dağıtık rate limit transaction’ı için |
+| `UPSTASH_REDIS_REST_TOKEN` | ✅ production | Upstash Redis REST token · yalnız Vercel server env’de tutulur |
 
 ## Kurulum adımları
 
@@ -35,7 +37,14 @@ Bu repo Vercel'a deploy edildiğinde gerekli olan environment değişkenleri.
 4. **Production** + **Preview** environment'larında etkin olduğundan emin ol
 5. Save
 
-### 4. Redeploy
+### 4. Upstash rate limit kurulumu
+
+1. https://console.upstash.com/redis → aynı bölgeye bir Redis database oluşturun.
+2. REST URL ve REST token değerlerini Vercel `trescout-landing` projesinin **Production** ve gerekiyorsa **Preview** environment’larına ekleyin.
+3. `UPSTASH_REDIS_REST_URL` ve `UPSTASH_REDIS_REST_TOKEN` frontend’e, HTML asset’lerine veya GitHub Actions loglarına yazılmamalıdır.
+4. Rate limit sayacı Upstash’ın atomik `/multi-exec` transaction endpoint’i üzerinden artırılır. Production’da bu iki değişken yoksa endpoint fail-closed davranır ve yeni kayıtları geçici olarak `503` ile durdurur; bu, dağıtık koruma varmış gibi davranıp rate limit’i sessizce atlatmaktan daha güvenlidir.
+
+5. Redeploy
 
 Env vars değiştiğinde Vercel otomatik redeploy etmez. Manuel tetikle:
 - Vercel Dashboard → Deployments → en son deploy → "Redeploy"
@@ -62,7 +71,8 @@ npx vercel dev    # local server (api/ route'ları dahil)
 
 ## Güvenlik notları
 
-- `RESEND_API_KEY` sadece sunucu tarafında kullanılır (Edge Function). Frontend'e sızmaz.
+- `RESEND_API_KEY`, `UPSTASH_REDIS_REST_URL` ve `UPSTASH_REDIS_REST_TOKEN` sadece sunucu tarafında kullanılır (Edge Function). Frontend'e sızmaz.
+- Production’da Upstash yoksa process-memory fallback kullanılmaz; endpoint kayıt kabul etmez.
 - Vercel env vars şifrelenmiş saklanır.
 - Key sızdığında: Resend Dashboard'dan **revoke** → yeni key oluştur → Vercel'da güncelle → redeploy.
 - API key rotation: 6 ayda bir.
