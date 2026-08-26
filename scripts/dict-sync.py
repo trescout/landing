@@ -51,6 +51,22 @@ def slugify(t):
 
 # ---------- 1) glossary toplama ----------
 TR = re.compile(r"[çğışöüâÇĞİŞÖÜ]")
+# Enrichment kaynağı yalnız Türkçe canonical rapor JSON/PDF'leridir.
+# Locale raporları aynı glossary'yi farklı dillerde tekrarlar; bunları seçmek
+# Türkçe sayfaya yabancı dil açıklaması taşıyabilir. İsim kalıbı kasıtlı olarak
+# strict tutulur: trescout-report-*-XX dosyaları bu akışa giremez.
+TR_REPORT_JSON = re.compile(r"^trescout-rapor-(?:tekrarsiz-)?\d{4}-\d{2}-\d{2}\.json$")
+TR_REPORT_PDF = re.compile(r"^trescout-rapor-(?:tekrarsiz-)?\d{4}-\d{2}-\d{2}\.pdf$")
+
+def is_turkish_report_file(path, pattern):
+    return bool(pattern.fullmatch(os.path.basename(path)))
+
+def is_turkish_report_json(path):
+    return is_turkish_report_file(path, TR_REPORT_JSON)
+
+def is_turkish_report_pdf(path):
+    return is_turkish_report_file(path, TR_REPORT_PDF)
+
 def parse_pdf_glossary(pdf):
     try:
         txt = subprocess.run(["pdftotext","-layout",pdf,"-"],capture_output=True,text=True).stdout
@@ -83,7 +99,8 @@ def parse_pdf_glossary(pdf):
 
 def collect_glossary():
     seen={}
-    for jp in sorted(glob.glob(os.path.join(REPORTS,"*.json"))):
+    source_jsons = [jp for jp in glob.glob(os.path.join(REPORTS,"*.json")) if is_turkish_report_json(jp)]
+    for jp in sorted(source_jsons):
         try: d=json.load(open(jp,encoding="utf-8"))
         except Exception: continue
         g=d.get("glossary") or []
@@ -94,7 +111,8 @@ def collect_glossary():
                 if k not in seen or len(ex)>len(seen[k][1]): seen[k]=(t,ex)
     # JSON'da yoksa PDF yedeği
     if not seen:
-        for pp in sorted(glob.glob(os.path.join(REPORTS,"*.pdf"))):
+        source_pdfs = [pp for pp in glob.glob(os.path.join(REPORTS,"*.pdf")) if is_turkish_report_pdf(pp)]
+        for pp in sorted(source_pdfs):
             for e in parse_pdf_glossary(pp):
                 k=e["term"].lower()
                 if k not in seen or len(e["explanation"])>len(seen[k][1]): seen[k]=(e["term"],e["explanation"])
@@ -352,8 +370,8 @@ def main():
         render_index(manifest)
         print("✅ eski sözlük kayıtlarının tarih alanı backfill edildi")
     existing_slugs={m["slug"] for m in manifest}
-    # BİRLEŞTİRİLMİŞ terimler · 2026-08-08'de 19 tekil/çoğul ikizi kanonik
-    # sluglarında birleştirildi ve eski URL'ler 301'lendi. O sluglar burada
+    # BİRLEŞTİRİLMİŞ terimler · mapping registry'deki eski slug'lar kanonik
+    # slug'larda birleştirildi ve eski URL'ler 301'lendi. O sluglar burada
     # "zaten var" sayılmazsa hat onları ertesi gün yeniden yaratır ve
     # yönlendirme kırılır. Bkz. assets/dictionary/birlesmis.json
     _birlesmis=os.path.join(os.path.dirname(MANIFEST),"birlesmis.json")
