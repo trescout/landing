@@ -107,6 +107,36 @@ const richEnFooter = `<footer>
 
 let fixedHeaderCount = 0;
 let fixedFooterCount = 0;
+let normalizedReportScriptsCount = 0;
+
+function normalizeReportScripts(html) {
+  const isReportDetail = html.includes('class="signup-cta"') ||
+    html.includes('data-page-type="report"');
+  if (!isReportDetail || !html.includes('</body>')) return html;
+
+  // Provider and telemetry tags are owned by this canonical block. Remove any
+  // existing copies first so repeated generator/normalizer runs are idempotent.
+  const tagPatterns = [
+    /\s*<script\b(?=[^>]*\bsrc=["']\/_vercel\/insights\/script\.js["'])[^>]*><\/script>\s*/gi,
+    /\s*<script\b(?=[^>]*\bsrc=["']\/_vercel\/speed-insights\/script\.js["'])[^>]*><\/script>\s*/gi,
+    /\s*<script\b(?=[^>]*\bsrc=["']\/assets\/telemetry\.js["'])[^>]*><\/script>\s*/gi
+  ];
+  let normalized = html;
+  tagPatterns.forEach(pattern => {
+    normalized = normalized.replace(pattern, '\n');
+  });
+
+  // Remove the old generated comment, which made an unreviewed legal claim.
+  normalized = normalized.replace(/[ \t]*<!--\s*Vercel Analytics[^\n]*-->[ \t]*\n?/gi, '');
+
+  const canonicalBlock = [
+    '  <script defer src="/_vercel/insights/script.js"></script>',
+    '  <script defer src="/_vercel/speed-insights/script.js"></script>',
+    '  <script src="/assets/telemetry.js" defer></script>'
+  ].join('\n');
+  normalized = normalized.replace(/<\/body>/i, `${canonicalBlock}\n</body>`);
+  return normalized;
+}
 
 /* Üreticiden çıkan diller bu normalize edicinin KAPSAMI DIŞINDA.
    Sebep: bu betik TR/EN ikilisine göre yazılmış · tanımadığı bir dil klasörünü
@@ -132,9 +162,20 @@ const DIGER_DILLER = DIL_BILGI.diller.filter(k => k !== 'en');
 
 allHtmls.forEach(relPath => {
   const normPath = relPath.replace(/\\/g, '/');
-  if (URETILEN_DILLER.some(o => normPath.startsWith(o))) return;
-  const isEn = normPath.startsWith('en/');
   let content = fs.readFileSync(relPath, 'utf8');
+  const originalContent = content;
+
+  const normalizedReport = normalizeReportScripts(content);
+  if (normalizedReport !== content) {
+    content = normalizedReport;
+    normalizedReportScriptsCount++;
+  }
+
+  if (URETILEN_DILLER.some(o => normPath.startsWith(o))) {
+    if (content !== originalContent) fs.writeFileSync(relPath, content, 'utf8');
+    return;
+  }
+  const isEn = normPath.startsWith('en/');
 
   // Compute opposite link for language switcher
   let oppLink = '/';
@@ -233,9 +274,9 @@ allHtmls.forEach(relPath => {
     if (newContent !== prev) fixedFooterCount++;
   }
 
-  if (newContent !== content) {
+  if (newContent !== originalContent) {
     fs.writeFileSync(relPath, newContent, 'utf8');
   }
 });
 
-console.log(`Completed! Fixed ${fixedHeaderCount} headers and ${fixedFooterCount} footers across all ${allHtmls.length} HTML files.`);
+console.log(`Completed! Fixed ${fixedHeaderCount} headers, ${fixedFooterCount} footers and normalized report scripts on ${normalizedReportScriptsCount} pages across all ${allHtmls.length} HTML files.`);

@@ -20,7 +20,7 @@
 <body>
   <div class="container">
     <h1>Datenschutzhinweis</h1>
-    <p class="meta">Zuletzt aktualisiert: 2026-08-15</p>
+    <p class="meta">Zuletzt aktualisiert: 2026-08-26</p>
 
     <p>
       <strong>Dieser deutsche Text ist eine Zusammenfassung, die wir Ihnen der Einfachheit halber
@@ -70,12 +70,8 @@
       <li><strong>Benachrichtigungs- und Start-E-Mails:</strong> Resend (Infrastruktur USA/EU)</li>
       <li><strong>Datenbank des Produkts:</strong> Supabase (Frankfurt, Deutschland · speichert nach dem Start Einstellungen, den Versandverlauf und die Entdopplung von Anfragen in PostgreSQL)</li>
     </ul>
-    <p>
-      Diese Anbieter halten internationale Standards des Datenschutzes ein (DSGVO, SOC 2). Supabase hält die
-      Daten innerhalb der Europäischen Union (Deutschland); Resend nutzt eine gemischte Infrastruktur in den
-      USA und der EU. Es findet also eine Übermittlung außerhalb der Türkei statt, die verarbeiteten
-      personenbezogenen Daten beschränken sich aber auf Ihre E-Mail-Adresse und Ihre Einstellungen (Uhrzeit
-      der Zustellung, Filter für Quellen und Ähnliches).
+        <p>
+      Die Sicherheits- und Datenschutzpraktiken dieser Anbieter richten sich nach ihrer jeweils aktuellen Dokumentation; dieser Text ist keine unabhängige pauschale Konformitätsgarantie. Je nach Konfiguration kann Vercel Web Analytics Daten wie Zeitstempel, Seiten-URLs, Referrer, gefilterte Abfrageparameter, ungefähren Standort, Browser-/Betriebssystem-/Geräteinformationen und Leistungsdaten verarbeiten. Supabase hält die Daten innerhalb der Europäischen Union (Deutschland); Resend nutzt eine gemischte Infrastruktur in den USA und der EU. Es findet daher eine Übermittlung außerhalb der Türkei statt, die verarbeiteten personenbezogenen Daten beschränken sich jedoch auf Ihre E-Mail-Adresse und Ihre Einstellungen.
     </p>
 
     <h2>6. Ihre Rechte</h2>
@@ -99,10 +95,14 @@
       Verhaltensnachverfolgungs-Widget Dritter geladen.
     </p>
     <p>
-      Für die Zählung der Besuche nutzen wir Vercel Web Analytics und Vercel Speed Insights. Diese Dienste
-      verwenden <strong>kein Cookie</strong>, erstellen <strong>keinen Fingerabdruck</strong> und speichern
-      <strong>keine personenbezogenen Daten</strong>. Erhoben werden nur Seitenaufrufe und anonyme
-      Messwerte zur Geschwindigkeit. Das entspricht der DSGVO und der KVKK.
+      Für die Zählung der Besuche nutzen wir Vercel Web Analytics und Vercel Speed Insights. Das Verhalten dieser
+      Dienste in Bezug auf Cookies, Fingerabdrücke und Datenspeicherung richtet sich nach der aktuellen
+      Dokumentation der Anbieter; dieser Absatz beschreibt nur den technischen Zweck. Zusätzlich sendet die
+      <strong>optionale anonyme Produktmessung (Telemetrie)</strong> kontextbezogene Eventdaten wie Seitentyp,
+      Inhaltslink, Platzierung und begrenzte Kampagnenparameter nur, wenn Sie sie ausdrücklich aktivieren.
+      E-Mail-Adressen und Namen sind nicht in Telemetrie-Events enthalten. Vor einer Auswahl wird kein Telemetrie-
+      Event gesendet und kein Aufbewahrungsstatus in <code>localStorage</code> des Browsers gespeichert. Sie können
+      diese Auswahl jederzeit im Panel <strong>Anonyme Produktmessung</strong> ändern.
     </p>
     <p>
       Die Seiten verwenden die Schrift Inter. Die Schriftdateien werden von unserer eigenen Domain
@@ -116,7 +116,8 @@
       <li>API-Schlüssel sind Umgebungsvariablen auf dem Server und werden dem Browser nie offengelegt.</li>
       <li>Eine Content Security Policy blockiert fremde Skripte im Browser (Schutz vor XSS).</li>
       <li>Das Formular ist gegen automatisierte Einsendungen geschützt (Prüfung der Herkunft, Honeypot, Ratenbegrenzung).</li>
-    </ul>
+          <li><strong>Datenstandort</strong> · Es gelten die aktuellen Sicherheits- und Datenverarbeitungsdokumentationen von Resend, Vercel und Supabase; dieser Text gibt keine pauschale Konformitätsgarantie in deren Namen.</li>
+</ul>
 
     <h2>9. Kontakt</h2>
     <p>

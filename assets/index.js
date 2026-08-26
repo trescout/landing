@@ -6,8 +6,18 @@
  * ────────────────── */
 
 
-/* ---------- arşiv rozeti · sitemap fetch → CANLI · N rapor ---------- */
-(function(){fetch('/sitemap.xml').then(function(r){return r.text();}).then(function(t){var n=(t.match(/\/reports\/\d{4}-\d{2}-\d{2}\//g)||[]).length;var el=document.getElementById('js-arch-badge');if(n>0&&el)el.textContent='CANLI · '+n+' rapor';}).catch(function(){});})();
+/* ---------- telemetry · eski/yerelleştirilmiş ana sayfalar için yükleyici ---------- */
+(function () {
+  if (!window.TreScoutTelemetry && !document.querySelector('script[src="/assets/telemetry.js"]')) {
+    var script = document.createElement('script');
+    script.src = '/assets/telemetry.js';
+    script.async = true;
+    document.head.appendChild(script);
+  }
+})();
+
+/* ---------- arşiv rozeti · sitemap fetch → CANLI · N benzersiz rapor ---------- */
+(function(){fetch('/sitemap.xml').then(function(r){return r.text();}).then(function(t){var matches=t.match(/\/reports\/\d{4}-\d{2}-\d{2}\//g)||[];var n=new Set(matches).size;var el=document.getElementById('js-arch-badge');if(n>0&&el)el.textContent='CANLI · '+n+' rapor';}).catch(function(){});})();
 
 
 /* ---------- dil · tüm bölümler paylaşıyor ----------
@@ -24,7 +34,10 @@
     genel: 'Something went wrong. Please try again.',
     baglanti: 'Connection error. Please try again.',
     metinYolu: '/en/privacy.html',
-    onayaDokun: 'Tap the button below to give consent'
+          onayaDokun: 'Tap the button below to give consent',
+      telemetryLabel: 'Optional: I agree to anonymous product usage measurement.',
+      telemetrySaved: 'Your telemetry preference has been saved.'
+
     },
     fr: {
       zaten: '<strong>Vous êtes déjà sur la liste.</strong> Nous vous préviendrons au lancement.',
@@ -34,7 +47,9 @@
       genel: 'Une erreur est survenue. Veuillez réessayer.',
       baglanti: 'Erreur de connexion. Veuillez réessayer.',
       metinYolu: '/fr/privacy.html',
-      onayaDokun: 'Touchez le bouton ci-dessous pour donner votre consentement'
+      onayaDokun: 'Touchez le bouton ci-dessous pour donner votre consentement',
+      telemetryLabel: 'Facultatif : j’accepte la mesure anonyme de l’utilisation du produit.',
+      telemetrySaved: 'Votre préférence de télémétrie a été enregistrée.'
     },
     pt: {
       zaten: '<strong>Você já está na lista.</strong> Avisaremos quando entrarmos no ar.',
@@ -44,7 +59,9 @@
       genel: 'Algo deu errado. Tente novamente.',
       baglanti: 'Erro de conexão. Tente novamente.',
       metinYolu: '/pt/privacy.html',
-      onayaDokun: 'Toque no botão abaixo para dar o seu consentimento'
+      onayaDokun: 'Toque no botão abaixo para dar o seu consentimento',
+      telemetryLabel: 'Opcional: concordo com a medição anônima do uso do produto.',
+      telemetrySaved: 'Sua preferência de telemetria foi salva.'
     },
     es: {
       zaten: '<strong>Ya está en la lista.</strong> Le avisaremos cuando estemos en marcha.',
@@ -54,7 +71,9 @@
       genel: 'Algo ha fallado. Inténtelo de nuevo.',
       baglanti: 'Error de conexión. Inténtelo de nuevo.',
       metinYolu: '/es/privacy.html',
-      onayaDokun: 'Toque el botón de abajo para dar su consentimiento'
+      onayaDokun: 'Toque el botón de abajo para dar su consentimiento',
+      telemetryLabel: 'Opcional: acepto la medición anónima del uso del producto.',
+      telemetrySaved: 'Se guardó su preferencia de telemetría.'
     },
     de: {
       zaten: '<strong>Sie stehen bereits auf der Liste.</strong> Wir melden uns, sobald wir starten.',
@@ -64,7 +83,9 @@
       genel: 'Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut.',
       baglanti: 'Verbindungsfehler. Bitte versuchen Sie es erneut.',
       metinYolu: '/de/privacy.html',
-      onayaDokun: 'Tippen Sie unten auf die Schaltfläche, um zuzustimmen'
+      onayaDokun: 'Tippen Sie unten auf die Schaltfläche, um zuzustimmen',
+      telemetryLabel: 'Optional: Ich stimme der anonymen Messung der Produktnutzung zu.',
+      telemetrySaved: 'Ihre Telemetrie-Einstellung wurde gespeichert.'
     },
     tr: {
       zaten: '<strong>Zaten listemizdesiniz.</strong> Yayında olduğumuzda size haber vereceğiz.',
@@ -74,7 +95,9 @@
     genel: 'Bir şeyler ters gitti. Lütfen tekrar deneyin.',
       baglanti: 'Bağlantı hatası. Lütfen tekrar deneyin.',
       metinYolu: '/privacy.html',
-      onayaDokun: 'Aşağıdaki butona dokunarak onaylayın'
+      onayaDokun: 'Aşağıdaki butona dokunarak onaylayın',
+      telemetryLabel: 'İsteğe bağlı: anonim ürün kullanımını ölçmemize izin veriyorum.',
+      telemetrySaved: 'Telemetry tercihiniz kaydedildi.'
     }
   };
   /* Sayfanın dili · <html lang> bölge kodu taşıyabiliyor ("pt-BR"). Sözlük
@@ -85,7 +108,7 @@
     var l = (document.documentElement.lang || 'tr');
     return tablo[l] || tablo[l.split('-')[0]] || tablo.tr;
   }
-  var T = _dilSec(METIN);
+      var T = _dilSec(METIN);
 
 
 /* ---------- abone formu · /api/subscribe ---------- */
@@ -140,12 +163,19 @@
 
           try {
             var honeypot = form.querySelector('input[name="website"]');
+            var pageType = form.dataset.pageType || 'home';
+            var contentSlug = form.dataset.contentSlug || '';
+            var placement = form.dataset.ctaPlacement || form.dataset.source || 'hero';
+
             var res = await fetch(ENDPOINT, {
               method: 'POST',
               headers: { 'Content-Type': 'application/json' },
               body: JSON.stringify({
                 email: email,
                 source: form.dataset.source || 'unknown',
+                pageType: pageType,
+                contentSlug: contentSlug,
+                placement: placement,
                 consent: true,
                 website: honeypot ? honeypot.value : ''
               })
@@ -153,6 +183,14 @@
             var data = await res.json().catch(function () { return {}; });
 
             if (res.ok && data.ok) {
+              if (window.TreScoutTelemetry && typeof window.TreScoutTelemetry.track === 'function') {
+                window.TreScoutTelemetry.track('early_access_submit', {
+                  pageType: pageType,
+                  contentSlug: contentSlug,
+                  placement: placement,
+                  isDuplicate: data.duplicate === true
+                });
+              }
               showSuccess(form, data.duplicate === true);
             } else {
               button.disabled = false;
@@ -200,7 +238,35 @@
       var confirmBtn = modal.querySelector('.privacy-modal-confirm');
       var statusEl = modal.querySelector('.privacy-modal-status');
       var statusText = modal.querySelector('.privacy-modal-status-text');
+      var telemetryCheckbox = modal.querySelector('.privacy-telemetry-checkbox');
+      var telemetryStatus = modal.querySelector('.privacy-telemetry-status');
       var links = document.querySelectorAll('a[data-privacy-modal]');
+
+      // Eski yerelleştirilmiş ana sayfalarda modal markup'ı henüz telemetry
+      // seçeneğini içermeyebilir. Tek kanonik davranış için eksik parçayı
+      // runtime'da ekle; gelecekteki üretimlerde de aynı yapı basılacak.
+      var modalFoot = modal.querySelector('.privacy-modal-foot');
+      var modalOptions = modal.querySelector('.privacy-modal-options');
+      if (!modalOptions && modalFoot) {
+        modalOptions = document.createElement('div');
+        modalOptions.className = 'privacy-modal-options';
+        if (statusEl) modalOptions.appendChild(statusEl);
+        modalFoot.insertBefore(modalOptions, confirmBtn);
+      }
+      if (modalOptions && !telemetryCheckbox) {
+        var telemetryLabel = document.createElement('label');
+        telemetryLabel.className = 'privacy-telemetry-option';
+        telemetryLabel.innerHTML = '<input type="checkbox" class="privacy-telemetry-checkbox"><span></span>';
+        var labelText = telemetryLabel.querySelector('span');
+        if (labelText) labelText.textContent = T.telemetryLabel;
+        telemetryStatus = document.createElement('span');
+        telemetryStatus.className = 'privacy-telemetry-status';
+        telemetryStatus.setAttribute('role', 'status');
+        telemetryStatus.setAttribute('aria-live', 'polite');
+        modalOptions.appendChild(telemetryLabel);
+        modalOptions.appendChild(telemetryStatus);
+        telemetryCheckbox = telemetryLabel.querySelector('.privacy-telemetry-checkbox');
+      }
       var hasRead = false;
       var activeCheckbox = null;
       var activeHint = null;
@@ -244,6 +310,10 @@
         confirmBtn.disabled = true;
         statusEl.classList.remove('read');
         statusText.textContent = '';
+        if (telemetryCheckbox && window.TreScoutTelemetry && typeof window.TreScoutTelemetry.getConsent === 'function') {
+          telemetryCheckbox.checked = window.TreScoutTelemetry.getConsent() === 'granted';
+        }
+        if (telemetryStatus) telemetryStatus.textContent = '';
         lastFocus = document.activeElement;
         // Iframe'i her açılışta yeniden yükle → scroll tepesinden başlasın
         // Sayfanın dilindeki metin · İngilizce ziyaretçi Türkçe KVKK metnini okumak
@@ -302,6 +372,10 @@
           activeCheckbox.removeAttribute('data-needs-consent');
           activeCheckbox.checked = true;
           if (activeHint) activeHint.style.display = 'none';
+        }
+        if (hasRead && telemetryCheckbox && window.TreScoutTelemetry && typeof window.TreScoutTelemetry.setConsent === 'function') {
+          window.TreScoutTelemetry.setConsent(telemetryCheckbox.checked ? 'granted' : 'denied');
+          if (telemetryStatus) telemetryStatus.textContent = T.telemetrySaved;
         }
         closeModal();
       });

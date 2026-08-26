@@ -65,7 +65,7 @@ kartlar = "".join(
 # modal'ı). Alt sayfalardaki sade "yeni sekmede aç" biçimi burada kullanılmıyor ·
 # ilk kaydın aydınlatma eksiğiyle alındığı olay (2026-08-06) tam bu formda oldu.
 form = (
-    f'<form class="cta-form disc-cta-form js-subscribe" data-source="home-{LANG}" novalidate>'
+    f'<form class="cta-form disc-cta-form js-subscribe" data-source="home-{LANG}" action="/api/subscribe" method="post">'
     f'<div class="form-row"><input class="input" type="email" name="email" '
     f'placeholder="{D["form_yer_tutucu"]}" autocomplete="email" required>'
     f'<button class="btn btn-primary" type="submit">{D["form_dugme"]}</button></div>'

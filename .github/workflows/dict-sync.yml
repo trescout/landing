@@ -374,6 +374,14 @@ jobs:
       - name: Keşif sıralama guard’ı
         run: python3 scripts/check-discovery-sort.py
 
+      # Ürün keşfi/erken erişim sayfaları doğrudan telemetry veya ortak loader taşımalı.
+      - name: Rapor sayfası script sözleşme testi
+        run: node --test scripts/report-page-contract.test.mjs
+      - name: Telemetry kapsam kontrolü
+        run: python3 scripts/check-telemetry-coverage.py
+      - name: Telemetry consent ve privacy disclosure kontrolü
+        run: python3 scripts/check-telemetry-consent.py
+
       # İçerik Snapshot & Manifest sözleşmesi (PR A)
       # Her yayın manifest'i ve SHA256 bütünlük özetlerini günceller ve denetler.
       - name: İçerik manifestini üret (PR A)

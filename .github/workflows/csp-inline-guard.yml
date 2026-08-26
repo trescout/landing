@@ -31,6 +31,14 @@ jobs:
         run: node --test scripts/report-snapshot.test.js
       - name: Erken erişim API sözleşme testi
         run: node --test scripts/subscribe-contract.test.mjs
+      - name: Telemetry consent ve queue sözleşme testi
+        run: node --test scripts/telemetry-contract.test.mjs
+      - name: Rapor sayfası script sözleşme testi
+        run: node --test scripts/report-page-contract.test.mjs
+      - name: Telemetry kapsam kontrolü
+        run: python3 scripts/check-telemetry-coverage.py
+      - name: Telemetry consent ve privacy disclosure kontrolü
+        run: python3 scripts/check-telemetry-consent.py
       - name: Inline CSS/JS kontrolü
         run: python3 scripts/check-no-inline-csp.py
       - name: Nav tutarlılık kontrolü

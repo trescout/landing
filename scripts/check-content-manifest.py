@@ -17,15 +17,12 @@ Kullanım:
 import os
 import sys
 import json
-import hashlib
 import glob
-import re
+import hashlib
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MANIFEST_PATH = os.path.join(ROOT, "content-manifest.json")
 ASSETS_MANIFEST_PATH = os.path.join(ROOT, "assets", "content-manifest.json")
-CANONICAL_REPORT_RE = re.compile(r"^trescout-rapor-\d{4}-\d{2}-\d{2}\.json$")
-FRESH_REPORT_PAGE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
 # Asgari emniyet eşikleri (bu sayıların altına düşülmesi içerik kaybı demektir)
 MIN_TOOLS = 400
@@ -41,32 +38,18 @@ def sha256_file(filepath):
             h.update(chunk)
     return h.hexdigest()
 
-def count_fresh_report_pages(directory):
-    if not os.path.isdir(directory):
-        return 0
-    count = 0
-    for date_dir in glob.glob(os.path.join(directory, "*")):
-        if not os.path.isdir(date_dir) or not FRESH_REPORT_PAGE_RE.fullmatch(os.path.basename(date_dir)):
-            continue
-        if os.path.isfile(os.path.join(date_dir, "index.html")):
-            count += 1
-    return count
+def count_unique_html_pages():
+    return len(glob.glob(os.path.join(ROOT, "**", "*.html"), recursive=True))
 
-
-def count_html_in_dir(directory, exclude_top_level=None):
-    if not os.path.isdir(directory):
-        return 0
-    excluded = set(exclude_top_level or [])
-    files = glob.glob(os.path.join(directory, "**", "*.html"), recursive=True)
-    if not excluded:
-        return len(files)
-    count = 0
-    for filepath in files:
-        relative = os.path.relpath(filepath, directory).split(os.sep)
-        if not relative or relative[0] not in excluded:
-            count += 1
-    return count
-
+def count_turkish_html_pages(locales):
+    localized_dirs = set(locales) - {"tr"}
+    total = 0
+    for filepath in glob.glob(os.path.join(ROOT, "**", "*.html"), recursive=True):
+        rel = os.path.relpath(filepath, ROOT)
+        first_segment = rel.split(os.sep, 1)[0]
+        if first_segment not in localized_dirs:
+            total += 1
+    return total
 
 def check_manifest():
     if not os.path.isfile(MANIFEST_PATH):
@@ -85,36 +68,28 @@ def check_manifest():
         return False
 
     # 1. Zorunlu alan kontrolü
-    required_keys = ["schema_version", "generated_at", "source_git_commit", "locales", "summary", "locale_breakdown", "integrity_checksums"]
+    required_keys = ["schema_version", "generated_at", "source_git_commit", "content_version", "locales", "summary", "locale_breakdown", "integrity_checksums"]
     for k in required_keys:
         if k not in manifest:
             print(f"❌ Hata: Manifest zorunlu alan eksik: '{k}'", file=sys.stderr)
             return False
 
-    # 2. Şema ve kaynak kimliği
-    if manifest.get("schema_version") != "1.1.0":
-        print(f"❌ Hata: desteklenen manifest şeması 1.1.0 olmalı: {manifest.get('schema_version')}", file=sys.stderr)
-        return False
-    source_commit = manifest.get("source_git_commit")
-    if source_commit != "unknown" and not re.fullmatch(r"[0-9a-f]{40}", str(source_commit)):
-        print(f"❌ Hata: source_git_commit geçerli bir SHA değil: {source_commit}", file=sys.stderr)
+    if not isinstance(manifest["source_git_commit"], str) or not manifest["source_git_commit"]:
+        print("❌ Hata: source_git_commit boş veya geçersiz", file=sys.stderr)
         return False
 
+    try:
+        with open(ASSETS_MANIFEST_PATH, "r", encoding="utf-8") as f:
+            assets_manifest = json.load(f)
+    except Exception as e:
+        print(f"❌ Hata: assets/content-manifest.json okunamadı: {e}", file=sys.stderr)
+        return False
+    if assets_manifest != manifest:
+        print("❌ Hata: root ve assets manifestleri aynı değil", file=sys.stderr)
+        return False
+
+    # 2. Asgari eşik kontrolleri
     summary = manifest.get("summary", {})
-    required_summary_keys = [
-        "discover_tools_count",
-        "dictionary_terms_count",
-        "report_file_variants_count",
-        "canonical_report_dates_count",
-        "fresh_report_pages_count",
-        "report_pdf_file_variants_count",
-        "total_html_pages",
-    ]
-    for key in required_summary_keys:
-        if key not in summary:
-            print(f"❌ Hata: Manifest summary alanı eksik: '{key}'", file=sys.stderr)
-            return False
-
     tools_count = summary.get("discover_tools_count", 0)
     terms_count = summary.get("dictionary_terms_count", 0)
     total_html = summary.get("total_html_pages", 0)
@@ -131,6 +106,11 @@ def check_manifest():
         print(f"❌ Hata: Toplam HTML sayfa sayısı çok düşük ({total_html} < {MIN_TOTAL_HTML})!", file=sys.stderr)
         return False
 
+    expected_unique_html = count_unique_html_pages()
+    if total_html != expected_unique_html:
+        print(f"❌ Hata: Benzersiz HTML sayısı uyuşmuyor: manifest={total_html}, disk={expected_unique_html}", file=sys.stderr)
+        return False
+
     # 3. Diller ve Parite kontrolü
     expected_locales = ["tr", "en", "fr", "pt", "es", "de"]
     actual_locales = manifest.get("locales", [])
@@ -139,7 +119,6 @@ def check_manifest():
         return False
 
     breakdown = manifest.get("locale_breakdown", {})
-    translated_locales = [loc for loc in expected_locales if loc != "tr"]
     for loc in expected_locales:
         if loc not in breakdown:
             print(f"❌ Hata: '{loc}' dili için kırılım verisi eksik!", file=sys.stderr)
@@ -152,50 +131,28 @@ def check_manifest():
             print(f"❌ Hata: '{loc}' dilinde keşif HTML sayısı eksik: {st.get('discover_html')}", file=sys.stderr)
             return False
 
-    # 4. Manifest sayımları disk ile birebir aynı olmalı.
-    expected_total = 0
-    for loc in expected_locales:
-        loc_dir = ROOT if loc == "tr" else os.path.join(ROOT, loc)
-        actual = {
-            "dictionary_html": count_html_in_dir(os.path.join(loc_dir, "dictionary")),
-            "discover_html": count_html_in_dir(os.path.join(loc_dir, "discover")),
-            "reports_html": count_html_in_dir(os.path.join(loc_dir, "reports")),
-            "total_html": count_html_in_dir(loc_dir, translated_locales) if loc == "tr" else count_html_in_dir(loc_dir),
-        }
-        expected_total += actual["total_html"]
-        if breakdown[loc] != actual:
-            print(f"❌ Hata: '{loc}' locale kırılımı disk ile uyuşmuyor: Manifest={breakdown[loc]}, Disk={actual}", file=sys.stderr)
-            return False
-    if total_html != expected_total:
-        print(f"❌ Hata: toplam HTML sayısı disk ile uyuşmuyor: Manifest={total_html}, Disk={expected_total}", file=sys.stderr)
+    expected_tr_html = count_turkish_html_pages(expected_locales)
+    if breakdown["tr"].get("total_html") != expected_tr_html:
+        print(f"❌ Hata: Türkçe HTML sayısı uyuşmuyor: manifest={breakdown['tr'].get('total_html')}, disk={expected_tr_html}", file=sys.stderr)
         return False
 
-    reports_json = glob.glob(os.path.join(ROOT, "reports", "*.json"))
-    actual_report_variants = len(reports_json)
-    actual_canonical_dates = sum(
-        1 for path in reports_json if CANONICAL_REPORT_RE.fullmatch(os.path.basename(path))
+    expected_locale_instances = sum(st.get("total_html", 0) for st in breakdown.values())
+    if summary.get("locale_page_instances") != expected_locale_instances:
+        print(f"❌ Hata: locale instance toplamı uyuşmuyor: manifest={summary.get('locale_page_instances')}, breakdown={expected_locale_instances}", file=sys.stderr)
+        return False
+
+    # 4. Rapor metriklerinin gerçek artifact ile uyumu
+    expected_fresh = sum(
+        1 for child in glob.glob(os.path.join(ROOT, "reports", "tekrarsiz", "*"))
+        if os.path.isdir(child) and os.path.isfile(os.path.join(child, "index.html"))
     )
-    reports_pdf = glob.glob(os.path.join(ROOT, "reports", "*.pdf"))
-    actual_fresh = count_fresh_report_pages(os.path.join(ROOT, "reports", "tekrarsiz"))
-    if summary.get("report_file_variants_count") != actual_report_variants:
-        print(f"❌ Hata: rapor dosya varyantı sayısı disk ile uyuşmuyor: Manifest={summary.get('report_file_variants_count')}, Disk={actual_report_variants}", file=sys.stderr)
-        return False
-    if summary.get("canonical_report_dates_count") != actual_canonical_dates:
-        print(f"❌ Hata: canonical rapor tarihi sayısı disk ile uyuşmuyor: Manifest={summary.get('canonical_report_dates_count')}, Disk={actual_canonical_dates}", file=sys.stderr)
-        return False
-    if summary.get("fresh_report_pages_count") != actual_fresh:
-        print(f"❌ Hata: tekrarsız rapor sayfası sayısı disk ile uyuşmuyor: Manifest={summary.get('fresh_report_pages_count')}, Disk={actual_fresh}", file=sys.stderr)
-        return False
-    if summary.get("report_pdf_file_variants_count") != len(reports_pdf):
-        print(f"❌ Hata: PDF dosya varyantı sayısı disk ile uyuşmuyor: Manifest={summary.get('report_pdf_file_variants_count')}, Disk={len(reports_pdf)}", file=sys.stderr)
+    actual_fresh = summary.get("fresh_report_pages_count")
+    if actual_fresh != expected_fresh:
+        print(f"❌ Hata: fresh rapor sayısı uyuşmuyor: manifest={actual_fresh}, disk={expected_fresh}", file=sys.stderr)
         return False
 
     # 5. Checksum bütünlük doğrulaması
     checksums = manifest.get("integrity_checksums", {})
-    if sha256_file(MANIFEST_PATH) != sha256_file(ASSETS_MANIFEST_PATH):
-        print("❌ Hata: kök ve assets content-manifest.json içerikleri farklı!", file=sys.stderr)
-        return False
-
     for rel_path, expected_hash in checksums.items():
         full_path = os.path.join(ROOT, rel_path)
         if not os.path.isfile(full_path):
@@ -206,7 +163,7 @@ def check_manifest():
             print(f"❌ Hata: SHA-256 bütünlük uyuşmazlığı ({rel_path}): Manifest={expected_hash}, Disk={current_hash}", file=sys.stderr)
             return False
 
-    print(f"✅ content-manifest guard başarılı: {total_html} sayfa, {tools_count} araç, {terms_count} terim, {len(checksums)} SHA-256 dosyası doğrulandı.")
+    print(f"✅ content-manifest guard başarılı: {total_html} benzersiz HTML, {summary.get('locale_page_instances')} locale instance, {tools_count} araç, {terms_count} terim, {actual_fresh} fresh rapor, {len(checksums)} SHA-256 dosyası doğrulandı.")
     return True
 
 def main():

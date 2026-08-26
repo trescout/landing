@@ -37,9 +37,19 @@ const ALLOWED_ORIGINS = new Set([
   'https://trescout.com',
   'https://www.trescout.com',
   'https://trescout-landing.vercel.app',
-  // Vercel preview deployments
-  // (production check yapılır, preview için origin.endsWith('.vercel.app') kullanılır)
 ]);
+
+function configuredPreviewOrigins() {
+  const values = [];
+  const configured = process.env.TRESCOUT_PREVIEW_ORIGINS || '';
+  configured.split(',').forEach(value => values.push(value.trim()));
+  // Vercel exposes the exact deployment/branch host to the function. Add only
+  // those exact hosts; never trust a hostname prefix or a wildcard domain.
+  [process.env.VERCEL_URL, process.env.VERCEL_BRANCH_URL].forEach(host => {
+    if (host) values.push(`https://${host.trim()}`);
+  });
+  return new Set(values.filter(value => /^https:\/\/[^/]+$/.test(value)));
+}
 
 /** Tek seferlik/disposable email domain'leri · spam koruması */
 const DISPOSABLE_DOMAINS = new Set([
@@ -146,13 +156,9 @@ function isOriginAllowed(origin) {
   if (ALLOWED_ORIGINS.has(origin)) return true;
   try {
     const url = new URL(origin);
-    // Sadece BU projenin preview deploy'ları · ham *.vercel.app herhangi bir
-    // üçüncü taraf Vercel sitesinin CSRF check'ini geçmesine izin verirdi.
-    if (
-      url.protocol === 'https:' &&
-      url.hostname.startsWith('trescout-landing-') &&
-      url.hostname.endsWith('.vercel.app')
-    ) {
+    // Preview yalnızca açıkça yapılandırılmış veya Vercel’in bu deployment için
+    // verdiği exact origin ile kabul edilir.
+    if (process.env.VERCEL_ENV !== 'production' && configuredPreviewOrigins().has(origin)) {
       return true;
     }
     // Local dev · yalnızca production-dışı ortamda
@@ -229,20 +235,29 @@ export default async function handler(req) {
   // CSRF · origin check
   const origin = req.headers.get('origin');
   if (!isOriginAllowed(origin)) {
-    console.warn('Blocked origin:', origin);
+    console.warn('Blocked origin');
     return errorResponse(M, 'istek', 403);
   }
 
   // Rate limit · pahalı Resend çağrılarından önce
   const ip = clientIp(req);
   if (isRateLimited(ip, Date.now())) {
-    console.warn('Rate limited:', ip);
+    console.warn('Rate limited request');
     return errorResponse(M, 'limit', 429);
   }
 
   let body;
   try {
-    body = await req.json();
+    const contentType = (req.headers.get('content-type') || '').toLowerCase();
+    if (contentType.includes('application/json')) {
+      body = await req.json();
+    } else if (contentType.includes('application/x-www-form-urlencoded')) {
+      body = Object.fromEntries(new URLSearchParams(await req.text()));
+    } else if (contentType.includes('multipart/form-data')) {
+      body = Object.fromEntries(await req.formData());
+    } else {
+      return errorResponse(M, 'format', 400);
+    }
   } catch {
     return errorResponse(M, 'format', 400);
   }
@@ -251,7 +266,7 @@ export default async function handler(req) {
   const honeypot = (body.hp || body.website || '').toString().trim();
   if (honeypot.length > 0) {
     // Sessizce başarılı dön · bot kayıt olduğunu sanmasın, sistem girmesin
-    console.warn('Honeypot triggered:', honeypot.slice(0, 50));
+    console.warn('Honeypot triggered');
     return jsonResponse({ ok: true });
   }
 
@@ -260,7 +275,7 @@ export default async function handler(req) {
   // Kayıt hangi sayfadan geldi · data-source sayfa TİPİNİ veriyor (ör. tüm
   // 488 İngilizce sözlük sayfası 'dictionary-en'), path tek girdiyi veriyor.
   const path = (body.path || '').toString().slice(0, 120).replace(/[^\w\-/.]/g, '');
-  const consent = body.consent === true || body.consent === 'true';
+  const consent = body.consent === true || body.consent === 'true' || body.consent === 'on';
 
   if (!consent) {
     return errorResponse(M, 'onay', 400);
@@ -303,8 +318,8 @@ export default async function handler(req) {
 
     if (!audienceRes.ok && audienceRes.status !== 409) {
       // 409 = contact zaten var · sorun değil, devam et
-      const errText = await audienceRes.text();
-      console.error('Resend audience add failed:', audienceRes.status, errText);
+      await audienceRes.text().catch(() => '');
+      console.error('Resend audience add failed:', audienceRes.status);
       return errorResponse(M, 'kayit', 502);
     }
 
@@ -337,18 +352,13 @@ export default async function handler(req) {
     // Notification başarısız olsa da kullanıcıya 'ok' döneriz · audience'a kayıt
     // zaten oldu. Ama hatayı Vercel logs'a basarız, debug için.
     if (!notifyRes.ok) {
-      const errText = await notifyRes.text().catch(() => '');
-      console.error(
-        'Notification email failed:',
-        notifyRes.status,
-        notifyRes.statusText,
-        errText.slice(0, 500),
-      );
+      await notifyRes.text().catch(() => '');
+      console.error('Notification email failed:', notifyRes.status, notifyRes.statusText);
     }
 
     return jsonResponse({ ok: true, duplicate: isDuplicate });
   } catch (err) {
-    console.error('Subscribe error:', err);
+    console.error('Subscribe error:', err instanceof Error ? err.name : 'unknown');
     return errorResponse(M, 'baglanti', 502);
   }
 }

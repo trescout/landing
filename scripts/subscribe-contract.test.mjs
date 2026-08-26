@@ -48,3 +48,33 @@ test('method errors are localized from the referer path', async () => {
   assert.equal(body.code, 'method');
   assert.equal(body.error, 'Méthode non autorisée');
 });
+
+test('lookalike Vercel preview origins are rejected', async () => {
+  const response = await handler(new Request('https://trescout.com/api/subscribe', {
+    method: 'POST',
+    headers: {
+      origin: 'https://trescout-landing-attacker.vercel.app',
+      referer: 'https://trescout.com/',
+      'content-type': 'application/json',
+    },
+    body: JSON.stringify({ consent: false }),
+  }));
+  const body = await response.json();
+  assert.equal(response.status, 403);
+  assert.equal(body.code, 'istek');
+});
+
+test('urlencoded forms still reach consent validation without JSON parsing', async () => {
+  const response = await handler(new Request('https://trescout.com/api/subscribe', {
+    method: 'POST',
+    headers: {
+      origin: 'https://trescout.com',
+      referer: 'https://trescout.com/',
+      'content-type': 'application/x-www-form-urlencoded',
+    },
+    body: 'email=test%40example.com',
+  }));
+  const body = await response.json();
+  assert.equal(response.status, 400);
+  assert.equal(body.code, 'onay');
+});

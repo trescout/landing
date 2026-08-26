@@ -82,7 +82,7 @@
         <p class="mid-line">TreScout prüft Quellen-Feeds, fasst die Höhepunkte zusammen und bündelt sie in einem Bericht.</p>
         <p class="sub-line">GitHub Trending, Hacker News, Hugging Face-Modelle und Daily Papers, Lobsters und weitere öffentliche Quellen-Feeds.</p>
 
-        <form class="cta-form js-subscribe" data-source="hero-de" novalidate id="early-access-hero">
+        <form class="cta-form js-subscribe" data-source="hero-de" id="early-access-hero" action="/api/subscribe" method="post">
           <div class="form-row">
             <label class="visually-hidden" for="email-hero-de">E-Mail-Adresse</label><input class="input" type="email" name="email" id="email-hero-de" placeholder="Ihre E-Mail-Adresse" autocomplete="email" aria-label="Ihre E-Mail-Adresse" required>
             <button class="btn btn-primary btn-large" type="submit">Bei Öffnung des Vorabzugangs benachrichtigen</button>
@@ -551,7 +551,7 @@
     <div class="final-cta">
       <h2>Pünktlich zu Ihrer Zeit. Passt zum Morgenkaffee.</h2>
       <p>Die Liste für den Vorabzugang ist offen. Erfahren Sie als Erste und Erster vom Start.</p>
-      <form class="cta-form final-cta-form js-subscribe" data-source="final-cta-de" novalidate>
+      <form class="cta-form final-cta-form js-subscribe" data-source="final-cta-de" action="/api/subscribe" method="post">
         <div class="form-row">
           <label class="visually-hidden" for="email-final-de">E-Mail-Adresse</label><input class="input" type="email" name="email" id="email-final-de" placeholder="Ihre E-Mail-Adresse" autocomplete="email" aria-label="Ihre E-Mail-Adresse" required>
           <button class="btn btn-primary btn-large" type="submit">Bei Öffnung des Vorabzugangs benachrichtigen</button>

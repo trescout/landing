@@ -20,7 +20,7 @@
 <body>
   <div class="container">
     <h1>Privacy Notice</h1>
-    <p class="meta">Last updated: 2026-08-07</p>
+    <p class="meta">Last updated: 2026-08-26</p>
 
     <p>
       <strong>This English text is a summary provided for convenience.</strong> TreScout operates under Turkish
@@ -66,11 +66,8 @@
       <li><strong>Notification and launch emails:</strong> Resend (US/EU infrastructure)</li>
       <li><strong>Product database:</strong> Supabase (Frankfurt, Germany · after the product launch it stores user preferences, delivery history and request deduplication in PostgreSQL)</li>
     </ul>
-    <p>
-      These providers comply with international data protection standards (GDPR, SOC 2). Supabase keeps data
-      inside the EU (Germany); Resend uses a US/EU hybrid infrastructure. Data is therefore transferred abroad,
-      but the personal data we process is limited to your email address and your preferences (delivery hour,
-      source filters and similar).
+        <p>
+      The security and privacy practices of these providers are governed by their current documentation; this notice is not an independent blanket compliance guarantee. Depending on configuration, Vercel Web Analytics may process data such as event timestamps, page URLs, referrers, filtered query parameters, approximate location, browser/OS/device information and performance measurements. Supabase keeps data inside the EU (Germany); Resend uses a US/EU hybrid infrastructure. Data is therefore transferred abroad, but the personal data we process is limited to your email address and preferences.
     </p>
 
     <h2>6. Your rights</h2>
@@ -93,9 +90,14 @@
       through a direct API call; no third-party advertising or behaviour tracking widget is loaded.
     </p>
     <p>
-      We use Vercel Web Analytics and Vercel Speed Insights to count page visits. These services use
-      <strong>no cookies</strong>, collect <strong>no fingerprint</strong> and store <strong>no personal data</strong>.
-      Only anonymous page views and performance metrics are collected. This is GDPR and KVKK compliant.
+      We use Vercel Web Analytics and Vercel Speed Insights to count page visits. The cookie, fingerprint and
+      data-retention behaviour of these services is subject to the providers’ current documentation; this paragraph
+      describes only their technical purpose. In addition, optional <strong>anonymous product measurement
+      (telemetry)</strong> sends contextual event data such as page type, content link, placement and limited campaign
+      parameters only when you explicitly enable it. Email addresses and names are not included in telemetry events.
+      Before a choice is made, no telemetry event is sent and no retention state is written to browser
+      <code>localStorage</code>. You can change this choice at any time in the <strong>Anonymous product measurement</strong>
+      preference panel.
     </p>
     <p>
       The pages use the Inter typeface. Font files are served from our own domain (trescout.com) rather than a
@@ -108,7 +110,8 @@
       <li>API keys are held as server-side environment variables and are never exposed to the browser.</li>
       <li>A Content Security Policy blocks foreign scripts at browser level (XSS protection).</li>
       <li>The form is protected against automated submissions (origin check, honeypot, rate limiting).</li>
-    </ul>
+          <li><strong>Data location</strong> · The current security and data-processing documentation published by Resend, Vercel and Supabase applies; this notice does not make a blanket compliance claim on their behalf.</li>
+</ul>
 
     <h2>9. Contact</h2>
     <p>
