@@ -76,14 +76,14 @@
   <main id="main">
 
   <!-- ============== HERO ============== -->
-  <section class="hero">
+  <section class="hero" id="early-access-hero">
     <div class="container hero-content">
       <div class="hero-text">
         <h1>Teknoloji takibi <span class="accent">artık bir iş yükü değil.</span></h1>
         <p class="mid-line">TreScout kaynak akışlarını tarar, öne çıkanları özetler ve tek raporda bir araya getirir.</p>
         <p class="sub-line">GitHub Trending, Hacker News, Hugging Face’in model ve günlük makale akışları, Lobsters ve diğer herkese açık kaynak akışları.</p>
 
-        <form class="cta-form js-subscribe" data-source="hero" data-page-type="home" data-cta-placement="hero" id="early-access-hero" action="/api/subscribe" method="post">
+        <form class="cta-form js-subscribe" data-source="hero" data-page-type="home" data-cta-placement="hero" id="hero-subscribe-form" action="/api/subscribe" method="post">
           <div class="form-row">
             <label class="visually-hidden" for="email-hero-tr">E-posta adresi</label><input class="input" type="email" name="email" id="email-hero-tr" placeholder="E-postanızı yazın" autocomplete="email" aria-label="E-posta adresiniz" required>
             <button class="btn btn-primary btn-large" type="submit">Erken erişime davet edilince haberdar olun</button>
@@ -99,7 +99,7 @@
         <p class="hero-note">Şimdilik erken erişim listesi için e-posta topluyoruz. Listeye katılmak doğrudan erişim açıldığı anlamına gelmez; davet ve yayına çıkış zamanı için size ayrıca haber veririz. Gereksiz ileti gönderilmez.</p>
         <!-- DURUM · sayfadaki gelecek zamanlı anlatımı bugüne bağlar (ne çalışıyor / ne erken erişimle) -->
         <p class="hero-status">Bugün: Raporları her gün üretip <a href="/reports/">arşivde</a> yayımlıyoruz. E-posta teslimi, teslim saatini seçme ve konu filtreleri erken erişim sürecinde planlanıyor; bugün herkese açık olarak etkin değil.</p>
-        <p class="hero-value-promise">Bugün: Güncel teknoloji raporlarını canlı arşivde inceleyin. Erken erişim listesine katılırsanız, davet ve yayına çıkış bilgileri için size haber veririz. E-posta teslimi, teslim saati ve konu filtreleri hazır olduğunda ayrıca duyurulacaktır. Gereksiz ileti gönderilmez. <a href="/reports/" class="hero-archive-link">Canlı arşivi inceleyin →</a></p>
+        <p class="hero-value-promise">Bugün: Güncel teknoloji raporlarını canlı arşivde inceleyebilirsiniz. Erken erişim listesine kaydolduğunuzda e-posta teslimi, saat seçimi ve konu filtreleri açıldığında ilk haberdar olanlardan biri olursunuz. Gereksiz ileti gönderilmez. <a href="/reports/" class="hero-archive-link">Canlı arşivi inceleyin →</a></p>
       </div>
 
       <aside class="hero-visual" aria-hidden="true">
@@ -458,7 +458,7 @@
                 <span>18:00</span>
                 <span>24:00</span>
               </div>
-              <div class="time-strip-note">Erken erişimde gönderim saatinizi seçebilirsiniz · tarama zamanı ortak, teslimat zamanı size göre.</div>
+              <div class="time-strip-note">Sizin için uygun olan zaman, TreScout için de uygundur · tarama zamanı ortak, teslimat zamanı size göre.</div>
             </div>
           </div>
 
