@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 const fs = require('fs');
 const path = require('path');
-const { translateTexts: translateWithProviders } = require('./translation-service');
+const { translateTexts: translateWithProviders, translateText } = require('./translation-service');
 
 const ROOT = path.dirname(__dirname);
 const DICT_JSON = path.join(ROOT, 'assets', 'dictionary', 'dictionary.json');
@@ -39,7 +39,10 @@ async function batchProcess(items, textGetter, textSetter, batchSize = 12) {
     for (const item of chunk) {
       const srcText = (textGetter(item) || '').trim();
       if (!srcText) continue;
-      const value = cache[srcText] || translated.get(srcText);
+      let value = cache[srcText] || translated.get(srcText);
+      if (!value) {
+        value = await translateText(srcText, LANG);
+      }
       if (!value) {
         basarisizCeviri++;
         console.warn(`  Translation failed; source text was not written: ${srcText.slice(0, 60)}`);

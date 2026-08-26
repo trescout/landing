@@ -168,10 +168,12 @@ async function translateTexts(texts, lang) {
     const batch = unique.slice(start, start + batchSize);
     const translated = await geminiBatch(batch, lang);
     if (translated) {
-      for (const [source, value] of translated) result.set(source, value);
-    } else {
-      // If batch fails, attempt single Gemini calls before falling back to GTX
-      for (const source of batch) {
+      for (const [source, value] of translated) {
+        if (value) result.set(source, value);
+      }
+    }
+    for (const source of batch) {
+      if (!result.has(source) || !result.get(source)) {
         const singleGemini = await gemini(source, lang);
         if (singleGemini) {
           result.set(source, singleGemini);
@@ -181,7 +183,7 @@ async function translateTexts(texts, lang) {
         }
       }
     }
-    if (start + batchSize < unique.length) await sleep(3000);
+    if (start + batchSize < unique.length) await sleep(2000);
   }
   return result;
 }
