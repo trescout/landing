@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TreScout Live Radio & Tech Stream 24/7</title>
+  <link rel="stylesheet" href="stream.css">
+</head>
+<body>
+  <div class="ls-screen">
+    <!-- Top Bar -->
+    <header class="ls-topbar">
+      <div class="ls-brand">
+        <span class="ls-live-dot"></span>
+        <span class="ls-brand-name">TRESCOUT LIVE STREAM</span>
+        <span class="ls-badge">24/7 OPEN SOURCE RADAR</span>
+      </div>
+      <div class="ls-clock" id="js-clock">00:00:00</div>
+    </header>
+
+    <!-- Main Workspace -->
+    <main class="ls-main">
+      <!-- Left Panel: Terminal Showcase -->
+      <section class="ls-panel ls-panel-left">
+        <div class="ls-panel-head">
+          <span class="ls-prompt">$ trescout --stream --auto-discover</span>
+          <span class="ls-panel-status">LIVE FEED</span>
+        </div>
+        <div class="ls-terminal-body" id="js-terminal-body">
+          <div class="ls-tool-showcase">
+            <div class="ls-tool-header">
+              <span class="ls-tool-chip">ÖNE ÇIKAN KEŞİF</span>
+              <span class="ls-tool-stars" id="js-tool-stars">★ 142.599 STARS</span>
+            </div>
+            <h1 class="ls-tool-title" id="js-tool-title">Claude Code</h1>
+            <p class="ls-tool-desc" id="js-tool-desc">Terminalde çalışan ve kod tabanınızı anlayan AI ajan kodlama aracı (Anthropic ürünü).</p>
+            <div class="ls-tool-cmd">
+              <span class="ls-cmd-prompt">></span>
+              <code id="js-tool-cmd">npm install -g @anthropic-ai/claude-code</code>
+            </div>
+            <div class="ls-tool-meta" id="js-tool-meta">
+              <span>Etiketler: Yapay zekâ, Geliştirici aracı, Terminal</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Right Panel: Audio Player & Activity Matrix -->
+      <aside class="ls-panel ls-panel-right">
+        <div class="ls-panel-head">
+          <span>🎧 LO-FI CODING RADIO</span>
+          <span class="ls-audio-eq">
+            <span></span><span></span><span></span><span></span>
+          </span>
+        </div>
+        <div class="ls-radio-body">
+          <div class="ls-track-info">
+            <span class="ls-track-title" id="js-track-title">Chill Synthwave & Coding Beats</span>
+            <span class="ls-track-artist">TreScout Focus Stream</span>
+          </div>
+          <button type="button" class="ls-btn-audio" id="js-btn-audio">▶ Müzik Başlat / Durdur</button>
+        </div>
+
+        <div class="ls-panel-head ls-head-sub">
+          <span>📡 CANLI AKTİVİTE BANDI</span>
+        </div>
+        <div class="ls-log-stream" id="js-log-stream">
+          <!-- Canlı terminal logları -->
+        </div>
+      </aside>
+    </main>
+
+    <!-- Bottom Ticker -->
+    <footer class="ls-ticker-wrap">
+      <div class="ls-ticker-label">TRENDING REPOS</div>
+      <div class="ls-ticker-track" id="js-ticker-track">
+        <!-- Ticker elemanları -->
+      </div>
+    </footer>
+  </div>
+
+  <script src="stream.js"></script>
+</body>
+</html>

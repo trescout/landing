@@ -1,0 +1,338 @@
+/* ============================================================
+   TreScout Lo-Fi Radio & Tech Stream 24/7 Stilleri
+   ============================================================ */
+
+:root {
+  --bg-dark: #090D16;
+  --panel-bg: rgba(15, 23, 42, 0.85);
+  --border: rgba(95, 168, 211, 0.2);
+  --accent-cyan: #38BDF8;
+  --accent-yellow: #F4D35E;
+  --accent-green: #10B981;
+  --text-main: #F1F5F9;
+  --text-muted: #64748B;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  background: var(--bg-dark);
+  color: var(--text-main);
+  height: 100vh;
+  overflow: hidden;
+}
+
+.ls-screen {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  padding: 1rem;
+  gap: 1rem;
+}
+
+/* Top Bar */
+.ls-topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: var(--panel-bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 0.75rem 1.25rem;
+}
+
+.ls-brand {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.ls-live-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: #EF4444;
+  box-shadow: 0 0 12px #EF4444;
+  animation: pulse 1.5s infinite ease-in-out;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.4; transform: scale(0.85); }
+}
+
+.ls-brand-name {
+  font-size: 1rem;
+  font-weight: 800;
+  color: var(--accent-cyan);
+  letter-spacing: 0.08em;
+}
+
+.ls-badge {
+  font-size: 0.7rem;
+  background: rgba(95, 168, 211, 0.15);
+  color: #7DD3FC;
+  border: 1px solid rgba(95, 168, 211, 0.3);
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+.ls-clock {
+  font-size: 1.25rem;
+  font-weight: 800;
+  color: var(--accent-yellow);
+  letter-spacing: 0.05em;
+}
+
+/* Main Workspace */
+.ls-main {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 1rem;
+  flex-grow: 1;
+  min-height: 0;
+}
+
+.ls-panel {
+  background: var(--panel-bg);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.ls-panel-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: rgba(30, 41, 59, 0.6);
+  border-bottom: 1px solid var(--border);
+  padding: 0.6rem 1rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--text-muted);
+}
+
+.ls-prompt {
+  color: var(--accent-green);
+}
+
+.ls-panel-status {
+  font-size: 0.7rem;
+  color: var(--accent-cyan);
+}
+
+.ls-terminal-body {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-grow: 1;
+}
+
+.ls-tool-showcase {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  animation: fadeIn 0.4s ease-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.ls-tool-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.ls-tool-chip {
+  background: rgba(16, 185, 129, 0.15);
+  color: var(--accent-green);
+  border: 1px solid rgba(16, 185, 129, 0.3);
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 3px 8px;
+  border-radius: 4px;
+}
+
+.ls-tool-stars {
+  font-size: 1rem;
+  font-weight: 800;
+  color: var(--accent-yellow);
+}
+
+.ls-tool-title {
+  font-size: 2.2rem;
+  font-weight: 800;
+  color: #ffffff;
+  letter-spacing: -0.02em;
+}
+
+.ls-tool-desc {
+  font-size: 1.1rem;
+  color: #CBD5E1;
+  line-height: 1.5;
+}
+
+.ls-tool-cmd {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  background: #000000;
+  border: 1px solid rgba(56, 189, 248, 0.3);
+  border-radius: 8px;
+  padding: 0.85rem 1.25rem;
+}
+
+.ls-cmd-prompt {
+  color: var(--accent-cyan);
+  font-weight: 800;
+}
+
+.ls-tool-cmd code {
+  color: var(--accent-cyan);
+  font-size: 1.05rem;
+}
+
+.ls-tool-meta {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+/* Right Panel */
+.ls-radio-body {
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+}
+
+.ls-track-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.ls-track-title {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.ls-track-artist {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+
+.ls-btn-audio {
+  background: var(--accent-cyan);
+  color: #090D16;
+  border: none;
+  border-radius: 6px;
+  padding: 0.6rem;
+  font-weight: 800;
+  font-size: 0.8rem;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.ls-audio-eq {
+  display: flex;
+  align-items: flex-end;
+  gap: 2px;
+  height: 12px;
+}
+
+.ls-audio-eq span {
+  width: 2px;
+  height: 100%;
+  background: var(--accent-cyan);
+  animation: eq 0.8s infinite ease-in-out alternate;
+}
+
+@keyframes eq {
+  0% { height: 2px; }
+  100% { height: 12px; }
+}
+
+.ls-head-sub {
+  margin-top: 0.5rem;
+}
+
+.ls-log-stream {
+  padding: 0.75rem 1rem;
+  overflow-y: auto;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  font-size: 0.75rem;
+  color: #94A3B8;
+}
+
+.ls-log-item {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.ls-log-time {
+  color: var(--text-muted);
+}
+
+.ls-log-text {
+  color: #E2E8F0;
+}
+
+/* Bottom Ticker */
+.ls-ticker-wrap {
+  display: flex;
+  align-items: center;
+  background: var(--panel-bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  overflow: hidden;
+  height: 44px;
+}
+
+.ls-ticker-label {
+  background: var(--accent-cyan);
+  color: #090D16;
+  font-size: 0.75rem;
+  font-weight: 800;
+  padding: 0 1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.ls-ticker-track {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  padding: 0 1rem;
+  white-space: nowrap;
+  animation: ticker 25s linear infinite;
+}
+
+@keyframes ticker {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+.ls-ticker-item {
+  font-size: 0.85rem;
+  color: #E2E8F0;
+}
+
+.ls-ticker-item strong {
+  color: var(--accent-yellow);
+}
