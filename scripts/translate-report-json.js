@@ -160,7 +160,7 @@ targetDates.forEach(dateStr => {
 
       <aside class="signup-cta" style="margin-top: 44px;">
         <p><strong>Get daily technology reports in your inbox.</strong> TreScout scans, summarizes, and delivers. You just read.</p>
-        <form class="cta-form disc-cta-form js-subscribe" data-source="report-detail-en" novalidate>
+        <form class="cta-form disc-cta-form js-subscribe" data-source="report-detail-en" action="/api/subscribe" method="post">
           <div class="form-row">
             <input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required>
             <button class="btn btn-primary" type="submit">Join Early Access</button>

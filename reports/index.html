@@ -41,7 +41,7 @@
       <h1 class="arch-title">Günlük Teknoloji Raporları</h1>
       <div class="arch-tabs"><a class="btn btn-primary" href="/reports/" aria-current="page">Tüm raporlar</a><a class="btn btn-ghost" href="/reports/tekrarsiz/">Tekrarsız</a></div>
       <p class="arch-intro">GitHub, Hacker News ve HuggingFace trendlerinin her güne ait Türkçe özetleri. Her raporu PDF olarak açabilir veya indirebilirsiniz.</p>
-      <aside class="signup-cta">
+      <aside class="signup-cta" data-page-type="report" data-cta-placement="reports_index">
         <p><strong>Günün raporunu e-postanıza isterseniz</strong> TreScout tarar, özetler, gönderir. Siz sadece okursunuz.</p>
         <a class="btn btn-primary" href="/#top">Erken erişim listesine katılın →</a>
       </aside>
@@ -1104,9 +1104,9 @@
   </div>
 </footer>
 
-  <!-- Vercel Analytics · cookieless, KVKK uyumlu -->
+<script src="/assets/report.js" defer></script>
   <script defer src="/_vercel/insights/script.js"></script>
   <script defer src="/_vercel/speed-insights/script.js"></script>
-  <script src="/assets/report.js" defer></script>
+  <script src="/assets/telemetry.js" defer></script>
 </body>
 </html>

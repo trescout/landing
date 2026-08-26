@@ -82,7 +82,7 @@
         <p class="mid-line">TreScout scans source feeds, summarizes the highlights, and brings them together in one report.</p>
         <p class="sub-line">GitHub Trending, Hacker News, Hugging Face models and Daily Papers, Lobsters, and other public source feeds.</p>
 
-        <form class="cta-form js-subscribe" data-source="hero-en" novalidate id="early-access-hero">
+        <form class="cta-form js-subscribe" data-source="hero-en" id="early-access-hero" action="/api/subscribe" method="post">
           <div class="form-row">
             <label class="visually-hidden" for="email-hero-en">Email address</label><input class="input" type="email" name="email" id="email-hero-en" placeholder="Enter your email" autocomplete="email" aria-label="Your email address" required>
             <button class="btn btn-primary btn-large" type="submit">Be notified when early access opens</button>
@@ -551,7 +551,7 @@
     <div class="final-cta">
       <h2>Delivered at your hour. Perfect for morning coffee.</h2>
       <p>Early access list is open. Be the first to get notified at launch.</p>
-      <form class="cta-form final-cta-form js-subscribe" data-source="final-cta-en" novalidate>
+      <form class="cta-form final-cta-form js-subscribe" data-source="final-cta-en" action="/api/subscribe" method="post">
         <div class="form-row">
           <label class="visually-hidden" for="email-final-en">Email address</label><input class="input" type="email" name="email" id="email-final-en" placeholder="Enter your email" autocomplete="email" aria-label="Your email address" required>
           <button class="btn btn-primary btn-large" type="submit">Be notified when early access opens</button>
@@ -587,7 +587,7 @@
           <li><a href="/en/dictionary/">Dictionary</a></li>
           <li><a href="/en/reports/">Reports Archive</a></li>
           <li><a href="/en/compare/rss-vs-ai/">Compare</a></li>
-          <li><a href="/en/#early-access-hero">Early Access</a></li>
+          <li><a href="/en/#top">Early Access</a></li>
         </ul>
       </div>
       <div class="footer-col">

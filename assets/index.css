@@ -641,6 +641,35 @@
       flex-shrink: 0;
       background: rgba(15, 25, 41, 0.4);
     }
+    .privacy-modal-options {
+      display: flex;
+      flex: 1;
+      min-width: 0;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 8px;
+    }
+    .privacy-telemetry-option {
+      display: flex;
+      align-items: flex-start;
+      gap: 8px;
+      color: var(--ink-muted);
+      font-size: var(--text-caption);
+      line-height: 1.4;
+      cursor: pointer;
+    }
+    .privacy-telemetry-checkbox {
+      width: 16px;
+      height: 16px;
+      flex: 0 0 auto;
+      margin-top: 2px;
+      accent-color: var(--accent);
+    }
+    .privacy-telemetry-status {
+      min-height: 1em;
+      color: var(--accent);
+      font-size: var(--text-caption);
+    }
     .privacy-modal-status {
       font-size: var(--text-caption);
       color: var(--ink-muted);
@@ -688,6 +717,7 @@
         align-items: stretch;
         gap: 12px;
       }
+      .privacy-modal-options { align-items: stretch; }
       .privacy-modal-confirm { width: 100%; }
     }
     @media (prefers-reduced-motion: reduce) {

@@ -17,15 +17,12 @@ import glob
 import hashlib
 import datetime
 import subprocess
-import re
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CATALOG_PATH = os.path.join(ROOT, "assets", "discover", "catalog.json")
 DICT_PATH = os.path.join(ROOT, "assets", "dictionary", "dictionary.json")
 MANIFEST_OUT = os.path.join(ROOT, "content-manifest.json")
 MANIFEST_ASSETS_OUT = os.path.join(ROOT, "assets", "content-manifest.json")
-CANONICAL_REPORT_RE = re.compile(r"^trescout-rapor-\d{4}-\d{2}-\d{2}\.json$")
-FRESH_REPORT_PAGE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
 def sha256_file(filepath):
     """Dosyanın SHA-256 hash'ini döndürür."""
@@ -54,33 +51,33 @@ def get_git_commit():
     except Exception:
         return "unknown"
 
-def count_fresh_report_pages(directory):
-    """reports/tekrarsiz/YYYY-MM-DD/index.html sayısını sayar."""
-    if not os.path.isdir(directory):
-        return 0
-    count = 0
-    for date_dir in glob.glob(os.path.join(directory, "*")):
-        if not os.path.isdir(date_dir) or not FRESH_REPORT_PAGE_RE.fullmatch(os.path.basename(date_dir)):
-            continue
-        if os.path.isfile(os.path.join(date_dir, "index.html")):
-            count += 1
-    return count
-
-
-def count_html_in_dir(d, exclude_top_level=None):
-    """Dizindeki HTML dosyalarını sayar; gerekirse alt locale ağaçlarını dışarıda bırakır."""
+def count_html_in_dir(d):
+    """Dizindeki HTML dosyalarını sayar."""
     if not os.path.isdir(d):
         return 0
-    excluded = set(exclude_top_level or [])
-    files = glob.glob(os.path.join(d, "**", "*.html"), recursive=True)
-    if not excluded:
-        return len(files)
-    count = 0
-    for filepath in files:
-        relative = os.path.relpath(filepath, d).split(os.sep)
-        if not relative or relative[0] not in excluded:
-            count += 1
-    return count
+    return len(glob.glob(os.path.join(d, "**", "*.html"), recursive=True))
+
+def count_unique_html_pages():
+    """Repo içindeki benzersiz HTML dosyalarını sayar."""
+    return count_html_in_dir(ROOT)
+
+def count_turkish_html_pages(locales):
+    """Kök Türkçe ağacını diğer locale ağaçlarını dahil etmeden sayar."""
+    localized_dirs = set(locales) - {"tr"}
+    total = 0
+    for filepath in glob.glob(os.path.join(ROOT, "**", "*.html"), recursive=True):
+        rel = os.path.relpath(filepath, ROOT)
+        first_segment = rel.split(os.sep, 1)[0]
+        if first_segment not in localized_dirs:
+            total += 1
+    return total
+
+def count_report_pages(d):
+    """Rapor artifact'ında index.html taşıyan tarih klasörlerini sayar."""
+    if not os.path.isdir(d):
+        return 0
+    return sum(1 for child in glob.glob(os.path.join(d, "*"))
+               if os.path.isdir(child) and os.path.isfile(os.path.join(child, "index.html")))
 
 def build_manifest():
     now_utc = datetime.datetime.now(datetime.timezone.utc).isoformat()
@@ -88,7 +85,6 @@ def build_manifest():
 
     # Diller
     locales = ["tr", "en", "fr", "pt", "es", "de"]
-    translated_locales = [loc for loc in locales if loc != "tr"]
 
     # Katalog / Keşif analizi
     discover_items = []
@@ -110,14 +106,7 @@ def build_manifest():
 
     # Raporlar
     reports_json = glob.glob(os.path.join(ROOT, "reports", "*.json"))
-    # Tekrarsız raporlar tarih klasörlerinde index.html olarak tutulur;
-    # eski *.json glob'u sessizce 0 döndürüyordu.
-    fresh_reports_dir = os.path.join(ROOT, "reports", "tekrarsiz")
-    fresh_report_pages = count_fresh_report_pages(fresh_reports_dir)
-    canonical_report_json = [
-        path for path in reports_json
-        if CANONICAL_REPORT_RE.fullmatch(os.path.basename(path))
-    ]
+    fresh_report_pages = count_report_pages(os.path.join(ROOT, "reports", "tekrarsiz"))
     reports_pdf = glob.glob(os.path.join(ROOT, "reports", "*.pdf"))
 
     # Dil bazında sayfa sayıları
@@ -132,7 +121,7 @@ def build_manifest():
             "dictionary_html": count_html_in_dir(dict_dir),
             "discover_html": count_html_in_dir(disc_dir),
             "reports_html": count_html_in_dir(rep_dir),
-            "total_html": count_html_in_dir(loc_dir, translated_locales) if loc == "tr" else count_html_in_dir(loc_dir)
+            "total_html": count_turkish_html_pages(locales) if loc == "tr" else count_html_in_dir(loc_dir)
         }
 
     # Kritik dosya SHA256 bütünlüğü
@@ -153,8 +142,6 @@ def build_manifest():
         if h:
             checksums[rel] = h
 
-    # source_git_commit, snapshot oluşturulurken checkout edilmiş HEAD'dir.
-    # Commit sonrası manifest'in kendi commit SHA'sını taşıması beklenmez.
     manifest = {
         "schema_version": "1.1.0",
         "generated_at": now_utc,
@@ -164,16 +151,32 @@ def build_manifest():
         "summary": {
             "discover_tools_count": len(discover_items),
             "dictionary_terms_count": len(dict_items),
-            # Varyant sayısı locale/tekrarsız dosyaları değil root JSON/PDF dosyalarını ifade eder.
-            "report_file_variants_count": len(reports_json),
-            "canonical_report_dates_count": len(canonical_report_json),
+            "reports_count": len(reports_json),
             "fresh_report_pages_count": fresh_report_pages,
-            "report_pdf_file_variants_count": len(reports_pdf),
-            "total_html_pages": sum(st["total_html"] for st in locale_stats.values()),
+            "reports_pdf_count": len(reports_pdf),
+            "total_html_pages": count_unique_html_pages(),
+            "locale_page_instances": sum(st["total_html"] for st in locale_stats.values()),
         },
         "locale_breakdown": locale_stats,
         "integrity_checksums": checksums,
     }
+
+    # `generated_at`, `content_version` ve `source_git_commit` metadata alanları
+    # semantic içerik değişmemişse korunur. Böylece günlük workflow, yalnız saat
+    # veya manifestin önceki commit SHA'sı değiştiği için manifest-only commit
+    # üretmez.
+    try:
+        with open(MANIFEST_OUT, "r", encoding="utf-8") as f:
+            previous = json.load(f)
+        metadata_keys = {"generated_at", "content_version", "source_git_commit"}
+        current_semantic = {k: v for k, v in manifest.items() if k not in metadata_keys}
+        previous_semantic = {k: v for k, v in previous.items() if k not in metadata_keys}
+        if current_semantic == previous_semantic:
+            for key in metadata_keys:
+                if key in previous:
+                    manifest[key] = previous[key]
+    except (OSError, json.JSONDecodeError, TypeError):
+        pass
 
     return manifest
 

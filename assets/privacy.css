@@ -76,6 +76,52 @@
       color: var(--ink);
       font-weight: 600;
     }
+    .privacy-telemetry-preference {
+      margin-top: 48px;
+      padding: 24px;
+      border: 1px solid var(--border);
+      background: var(--bg-elevated);
+    }
+    .privacy-telemetry-preference h2 {
+      margin-top: 0;
+      font-size: 20px;
+    }
+    .privacy-telemetry-preference-text {
+      margin-bottom: 12px;
+    }
+    .privacy-telemetry-preference-label {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      color: var(--ink);
+      cursor: pointer;
+    }
+    .privacy-telemetry-preference-label input {
+      width: 18px;
+      height: 18px;
+      flex: 0 0 auto;
+      margin-top: 3px;
+      accent-color: var(--accent);
+    }
+    .privacy-telemetry-preference-actions {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      margin-top: 16px;
+    }
+    .privacy-telemetry-preference-actions button {
+      border: 1px solid var(--accent);
+      background: var(--accent);
+      color: var(--bg);
+      padding: 9px 14px;
+      font: inherit;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    .privacy-telemetry-preference-actions span {
+      color: var(--accent);
+      font-size: 14px;
+    }
     footer {
       max-width: 720px;
       margin: 0 auto;
@@ -83,5 +129,9 @@
       color: var(--ink-muted);
       font-size: 13px;
       text-align: center;
+    }
+    @media (max-width: 640px) {
+      .privacy-telemetry-preference { padding: 18px; }
+      .privacy-telemetry-preference-actions { align-items: flex-start; flex-direction: column; }
     }
   
