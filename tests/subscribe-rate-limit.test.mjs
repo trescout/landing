@@ -12,10 +12,10 @@ function makeClock() {
   };
 }
 
-test('uses isolate-local fallback only outside production', async () => {
+test('uses isolate-local fallback when distributed protection is not configured', async () => {
   const clock = makeClock();
   const limiter = createRateLimiter({
-    env: { VERCEL_ENV: 'preview' },
+    env: { VERCEL_ENV: 'production' },
     now: clock.now,
   });
 
@@ -27,17 +27,6 @@ test('uses isolate-local fallback only outside production', async () => {
 
   clock.advance(10 * 60 * 1000 + 1);
   assert.equal((await limiter.check('203.0.113.20')).limited, false);
-});
-
-test('fails closed in production when distributed protection is not configured', async () => {
-  const limiter = createRateLimiter({
-    env: { VERCEL_ENV: 'production' },
-  });
-
-  assert.deepEqual(await limiter.check('203.0.113.21'), {
-    limited: false,
-    unavailable: true,
-  });
 });
 
 test('uses an atomic Upstash transaction and enforces the distributed count', async () => {
@@ -79,7 +68,8 @@ test('uses an atomic Upstash transaction and enforces the distributed count', as
   ]);
 });
 
-test('fails closed when Upstash returns an error', async () => {
+test('falls back to local rate limiting when Upstash returns an error', async () => {
+  const clock = makeClock();
   const limiter = createRateLimiter({
     env: {
       VERCEL_ENV: 'production',
@@ -87,10 +77,11 @@ test('fails closed when Upstash returns an error', async () => {
       UPSTASH_REDIS_REST_TOKEN: 'test-token',
     },
     fetchImpl: async () => new Response('', { status: 503 }),
+    now: clock.now,
   });
 
   assert.deepEqual(await limiter.check('203.0.113.23'), {
     limited: false,
-    unavailable: true,
+    unavailable: false,
   });
 });

@@ -59,9 +59,6 @@ export function createRateLimiter({
       if (!ip) return { limited: false, unavailable: false };
 
       if (!redisUrl || !redisToken) {
-        if (env.VERCEL_ENV === 'production') {
-          return { limited: false, unavailable: true };
-        }
         return {
           limited: isLocalRateLimited(rateHits, ip, now()),
           unavailable: false,
@@ -71,8 +68,11 @@ export function createRateLimiter({
       try {
         return { limited: await checkDistributed(ip), unavailable: false };
       } catch (error) {
-        console.error('Distributed rate limit unavailable:', error);
-        return { limited: false, unavailable: true };
+        console.warn('Distributed rate limit unavailable, using local rate limit fallback:', error);
+        return {
+          limited: isLocalRateLimited(rateHits, ip, now()),
+          unavailable: false,
+        };
       }
     },
   };
