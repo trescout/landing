@@ -14,7 +14,19 @@ import urllib.request
 import re
 
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL") or os.environ.get("TREESCOUT_TRANSLATION_MODEL") or "gemini-3.1-flash-lite"
+
+# Rate-limit pause state. A quota wall is a property of the whole process, not
+# of one passage: once the provider has refused every retry of a call, later
+# calls in the same run will be refused too. Without this, each of thousands of
+# passages paid the full retry ladder on its own (2026-08-26: a run sat in the
+# page-generation step for five hours before it was cancelled). The pause window
+# doubles on each consecutive exhaustion so a run that has truly hit the daily
+# quota parks itself instead of probing every ninety seconds.
+_PAUSE_CAP = 600.0
 _GEMINI_PAUSED_UNTIL = 0.0
+_GEMINI_PAUSE_STREAK = 0
+_GTX_PAUSED_UNTIL = 0.0
+_GTX_PAUSE_STREAK = 0
 
 
 def _retry_delay(attempt: int) -> float:
@@ -39,13 +51,30 @@ def _http_retry_delay(error: urllib.error.HTTPError, attempt: int) -> float:
     return _retry_delay(attempt)
 
 
+def _pause_span(delay: float, streak: int) -> float:
+    return min(max(delay, 30.0) * (2 ** max(streak - 1, 0)), _PAUSE_CAP)
+
+
 def _pause_gemini(delay: float) -> None:
-    global _GEMINI_PAUSED_UNTIL
-    _GEMINI_PAUSED_UNTIL = max(_GEMINI_PAUSED_UNTIL, time.time() + delay)
+    global _GEMINI_PAUSED_UNTIL, _GEMINI_PAUSE_STREAK
+    _GEMINI_PAUSE_STREAK += 1
+    span = _pause_span(delay, _GEMINI_PAUSE_STREAK)
+    _GEMINI_PAUSED_UNTIL = max(_GEMINI_PAUSED_UNTIL, time.time() + span)
 
 
 def _gemini_is_paused() -> bool:
     return time.time() < _GEMINI_PAUSED_UNTIL
+
+
+def _pause_gtx(delay: float) -> None:
+    global _GTX_PAUSED_UNTIL, _GTX_PAUSE_STREAK
+    _GTX_PAUSE_STREAK += 1
+    span = _pause_span(delay, _GTX_PAUSE_STREAK)
+    _GTX_PAUSED_UNTIL = max(_GTX_PAUSED_UNTIL, time.time() + span)
+
+
+def _gtx_is_paused() -> bool:
+    return time.time() < _GTX_PAUSED_UNTIL
 
 
 def _gemini(text: str, lang: str, key: str) -> str | None:
@@ -63,7 +92,7 @@ def _gemini(text: str, lang: str, key: str) -> str | None:
             "parts": [{
                 "text": (
                     f"Translate this Turkish technology-site text into {lang}. "
-                    "Keep the meaning and register natural for the target locale.\n\n{text}"
+                    f"Keep the meaning and register natural for the target locale.\n\n{text}"
                 )
             }]
         }],
@@ -74,6 +103,8 @@ def _gemini(text: str, lang: str, key: str) -> str | None:
     }
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
     encoded_body = json.dumps(body).encode("utf-8")
+    if _gemini_is_paused():
+        return None
     for attempt in range(4):
         try:
             request = urllib.request.Request(
@@ -95,6 +126,9 @@ def _gemini(text: str, lang: str, key: str) -> str | None:
         except urllib.error.HTTPError as error:
             if error.code == 429:
                 delay = max(_http_retry_delay(error, attempt), (attempt + 1) * 3.0)
+                if attempt == 3:
+                    _pause_gemini(delay)
+                    return None
                 time.sleep(delay)
                 continue
             if error.code not in (500, 502, 503) or attempt == 3:
@@ -113,6 +147,8 @@ def _gtx(text: str, lang: str) -> str | None:
         "https://translate.googleapis.com/translate_a/single?client=gtx&sl=tr&"
         f"tl={urllib.parse.quote(lang)}&dt=t&q={urllib.parse.quote(text)}"
     )
+    if _gtx_is_paused():
+        return None
     for attempt in range(3):
         try:
             request = urllib.request.Request(url, headers={"Accept": "application/json", "User-Agent": "TreScout/1.0"})
@@ -125,6 +161,9 @@ def _gtx(text: str, lang: str) -> str | None:
         except urllib.error.HTTPError as error:
             if error.code == 429:
                 delay = max(_http_retry_delay(error, attempt), (attempt + 1) * 2.0)
+                if attempt == 2:
+                    _pause_gtx(delay)
+                    return None
                 time.sleep(delay)
                 continue
             if error.code not in (500, 502, 503) or attempt == 2:
@@ -178,6 +217,8 @@ def _gemini_batch(texts: list[str], lang: str, key: str) -> dict[str, str] | Non
     }
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
     encoded_body = json.dumps(body, ensure_ascii=False).encode("utf-8")
+    if _gemini_is_paused():
+        return None
     for attempt in range(3):
         try:
             request = urllib.request.Request(
@@ -223,6 +264,9 @@ def _gemini_batch(texts: list[str], lang: str, key: str) -> dict[str, str] | Non
         except urllib.error.HTTPError as error:
             if error.code == 429:
                 delay = max(_http_retry_delay(error, attempt), (attempt + 1) * 5.0)
+                if attempt == 2:
+                    _pause_gemini(delay)
+                    return None
                 time.sleep(delay)
                 continue
             if error.code not in (500, 502, 503) or attempt == 2:

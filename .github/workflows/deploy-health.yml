@@ -22,6 +22,8 @@ permissions:
 jobs:
   health:
     runs-on: ubuntu-latest
+    # Askıda kalan iş 6 saatlik varsayılan sınıra kadar koşmasın · sağlıklı koşu ~2 dk.
+    timeout-minutes: 15
     steps:
       - name: Vercel production deploy durumu (son main commit)
         env:

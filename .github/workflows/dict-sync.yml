@@ -51,6 +51,8 @@ concurrency:
 jobs:
   grow:
     runs-on: ubuntu-latest
+    # Askıda kalan iş 6 saatlik varsayılan sınıra kadar koşmasın · en uzun sağlıklı koşu 100 dk (2026-08-24) · iki katı pay.
+    timeout-minutes: 180
     steps:
       - uses: actions/checkout@v4
 
