@@ -2,7 +2,7 @@
 
 Win11Debloat, Windows 10 ve 11 işletim sistemlerinde önceden yüklenmiş uygulamaları kaldırmayı ve telemetri verilerini devre dışı bırakmayı sağlayan bir PowerShell betiğidir. Kullanıcıların sistemlerini özelleştirmelerine ve gereksiz bileşenlerden arındırarak sistem hafifletme (debloat) işlemi yapmalarına olanak tanır.
 
-- ★ 54.506
+- ★ 56.315
 - GitHub Trending · 2026-06-16
 
 TreScout notu: Windows'la birlikte gelen istemediğiniz uygulamaları kaldırır, arka planda veri toplayan ayarları kapatır. Çalıştırmadan önce ne yaptığını okuyun: Kaldırılan bazı parçaları geri getirmek kolay değildir. Kişisel bilgisayarda pratik, şirket cihazında ya da başkasıyla paylaştığınız bilgisayarda kullanmayın.
@@ -10,6 +10,7 @@ TreScout notu: Windows'la birlikte gelen istemediğiniz uygulamaları kaldırır
 _Kaynak: github.com/Raphire/Win11Debloat · MIT_
 
 ## Güncelleme
+- 27 Ağustos 2026: Yıldız 54.506 → 56.315, son sürüm 2026.08.24 (24 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 48.210 → 54.506, son sürüm 2026.07.11 (11 Temmuz 2026).
 
 ## Ne kazandırır?
@@ -19,21 +20,28 @@ _Kaynak: github.com/Raphire/Win11Debloat · MIT_
 
 ## Kurulum
 
-**PowerShell ile doğrudan çalıştırma (Windows)**
+**GitHub arşivini indir**
 
 ```
-& ([scriptblock]::Create((irm "https://debloat.raphi.re/")))
+Invoke-WebRequest -Uri https://github.com/Raphire/Win11Debloat/archive/refs/heads/master.zip -OutFile Win11Debloat.zip
+```
+
+**Arşivi aç**
+
+```
+Expand-Archive -Path .\Win11Debloat.zip -DestinationPath .\Win11Debloat
 ```
 
 ## Çalıştırma
 
-**Sessiz modda çalıştır**
+**Scripti inceleyerek çalıştır**
 
 ```
-& ([scriptblock]::Create((irm "https://debloat.raphi.re/"))) -Silent
+Set-Location .\Win11Debloat\Win11Debloat-master
+.\Win11Debloat.ps1
 ```
 
-Kaynak: Resmî Win11Debloat README (Raphire/Win11Debloat)
+Kaynak: Resmî kaynak: https://github.com/Raphire/Win11Debloat
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 

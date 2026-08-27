@@ -12,7 +12,7 @@ Firecrawl ofrece una interfaz (API) para rastrear datos de sitios web a escala, 
 - Interactúa con páginas web complejas
 
 ## Instalación
-****
+**Agregar con npm**
 
 ```
 npm install @mendable/firecrawl-js

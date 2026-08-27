@@ -13,7 +13,7 @@ Complementos de cursor; Incluye la especificación oficial del complemento y com
 - Puede desarrollar sus propias soluciones inspirándose en complementos ya preparados.
 
 ## Instalación
-****
+**Clonar complementos con Git**
 
 ```
 git clone https://github.com/cursor-plugins/cursor-plugins.git

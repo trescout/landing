@@ -2,7 +2,7 @@
 
 Mattermost es una plataforma de código abierto diseñada para permitir una colaboración segura durante todo el ciclo de vida del desarrollo de software. Permite a los equipos de software gestionar sus procesos de comunicación a través de una estructura central.
 
-- ★ 38.812
+- ★ 38.913
 - GitHub Trending · 2026-06-12
 
 ## Qué aporta
@@ -11,7 +11,7 @@ Mattermost es una plataforma de código abierto diseñada para permitir una cola
 - Aumenta la eficiencia con la integración de inteligencia artificial
 
 ## Instalación
-****
+**Iniciar contenedor preview local**
 
 ```
 docker run --name mattermost-preview -d --publish 127.0.0.1:8065:8065 mattermost/mattermost-preview
@@ -19,7 +19,7 @@ docker run --name mattermost-preview -d --publish 127.0.0.1:8065:8065 mattermost
 
 
 ## Ejecución
-****
+**Acceder a la interfaz local**
 
 ```
 http://localhost:8065

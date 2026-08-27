@@ -2,7 +2,7 @@
 
 Developed for Claude Code and various coding agents, this library offers more than 330 skill packages and over 70 special commands in different fields from engineering to marketing. This Python-based toolset provides customizable scripts to standardize AI-based workflows and increase productivity.
 
-- ★ 24,867
+- ★ 25,061
 - Python
 - GitHub Trending · 2026-07-05
 

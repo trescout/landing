@@ -8,7 +8,7 @@ Heretic est un outil technique qui supprime les contraintes d'alignement de séc
 - GitHub Trending · 28 May 2026
 
 ## Installation
-****
+**Cloner le dépôt officiel**
 
 ```
 git clone https://github.com/p-e-w/heretic.git

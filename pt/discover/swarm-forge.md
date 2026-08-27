@@ -2,7 +2,7 @@
 
 Swarm Forge, escrito na linguagem Clojure, é uma ferramenta para coordenar vários agentes de IA a partir de um único centro. O software oferece uma estrutura simples para gerenciar processos complexos onde diferentes agentes devem trabalhar de forma colaborativa.
 
-- ★ 1.870
+- ★ 2.897
 - Clojure
 - GitHub Trending · 2026-08-08
 

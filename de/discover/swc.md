@@ -17,7 +17,7 @@ SWC wurde mit der Rust-Sprache entwickelt und bietet eine schnelle Kompilierungs
 npm i -D @swc/core
 ```
 
-****
+**npm: global**
 
 ```
 npm install -g @swc/cli @swc/core
@@ -25,7 +25,7 @@ npm install -g @swc/cli @swc/core
 
 
 ## Ausführung
-**Kompilieren Sie die TypeScript-Datei**
+**TypeScript-Datei kompilieren**
 
 ```
 swc index.ts -o index.js

@@ -26,12 +26,12 @@ Porque é muito rápido e reduz significativamente os erros de software.
 ## Ferramentas relacionadas
 - [Next.js](/pt/discover/next-js/)
 - [Rustdesk](/pt/discover/rustdesk/)
-- [Codex](/pt/discover/codex/)
 - [Deno](/pt/discover/deno/)
 - [BUN](/pt/discover/bun/)
-- [RuView](/pt/discover/ruview/)
 - [OpenCut](/pt/discover/opencut/)
 - [Openinterpreter](/pt/discover/openinterpreter/)
+- [Vaultwarden](/pt/discover/vaultwarden/)
+- [Ladybird](/pt/discover/ladybird/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/rust/

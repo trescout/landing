@@ -22,7 +22,13 @@ VeraCrypt, TrueCrypt temel alınarak geliştirilen ve güçlü güvenlik standar
 brew install --cask veracrypt
 ```
 
-Kaynak: Homebrew cask · veracrypt.io
+**Windows (winget)**
+
+```
+winget install IDRIX.VeraCrypt
+```
+
+Kaynak: Resmî kaynak: https://veracrypt.jp
 
 ## Nasıl başlanır?
 

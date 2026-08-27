@@ -10,6 +10,30 @@ Odoo, işletmelerin tüm operasyonel süreçlerini tek bir çatı altında yöne
 - Birbiriyle uyumlu modüler iş uygulamaları sunar.
 - İhtiyaca göre özelleştirilebilir açık kaynaklı bir altyapı sağlar.
 
+## Kurulum
+
+**PostgreSQL veritabanını başlat**
+
+```
+docker run -d --name odoo-db -e POSTGRES_DB=postgres -e POSTGRES_USER=odoo -e POSTGRES_PASSWORD=change_me postgres:15
+```
+
+**Odoo’yu veritabanına bağlayarak başlat**
+
+```
+docker run -d --name odoo --link odoo-db:db -p 127.0.0.1:8069:8069 odoo:latest
+```
+
+## Çalıştırma
+
+**Yerel arayüze eriş**
+
+```
+http://localhost:8069
+```
+
+Kaynak: Resmî kaynak: https://hub.docker.com/_/odoo
+
 ## Nasıl başlanır?
 
 Odoo kurulumuna başlamak için resmî Odoo dokümantasyon sayfasında yer alan kurulum talimatlarını takip etmeniz gerekmektedir. Yazılımı öğrenmek için Odoo eLearning platformunu veya Scale-up iş oyununu inceleyebilirsiniz.

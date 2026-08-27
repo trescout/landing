@@ -2,7 +2,7 @@
 
 CopilotKit ofrece una pila de interfaz basada en React y Angular para desarrollar agentes de inteligencia artificial y UI generativas. Proporciona una infraestructura que permite integrar capacidades inteligentes en aplicaciones a través del protocolo AG-UI.
 
-- ★ 36.944
+- ★ 37.068
 - TypeScript
 - GitHub Trending · 2026-06-06
 
@@ -12,7 +12,7 @@ CopilotKit ofrece una pila de interfaz basada en React y Angular para desarrolla
 - Permite la creación de flujos de trabajo aprobados por humanos y agentes de autoaprendizaje.
 
 ## Instalación
-****
+**Agregar con npm**
 
 ```
 npm install @copilotkit/react-core

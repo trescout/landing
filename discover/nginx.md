@@ -17,25 +17,27 @@ NGINX açık kaynak kod deposu, yüksek performanslı bir web sunucusu ve ters v
 
 ## Kurulum
 
-**Bağımlılıkların Yüklenmesi**
+**macOS (Homebrew)**
 
 ```
-sudo apt install gcc make
+brew install nginx
 ```
 
-**Gerekli Kütüphanelerin Kurulumu**
+**Ubuntu / Debian**
 
 ```
-sudo apt install libpcre3-dev zlib1g-dev
+sudo apt update && sudo apt install -y nginx
 ```
 
 ## Çalıştırma
 
-**Statik Modül Kontrolü**
+**Web sunucusunu başlat**
 
 ```
-nginx -V
+sudo systemctl start nginx
 ```
+
+Kaynak: Resmî kaynak: https://github.com/nginx/nginx
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 

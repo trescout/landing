@@ -1,6 +1,6 @@
 # Skalierbare Infrastruktur für Agenten der künstlichen Intelligenz
 
-Entworfen mit der Go-Sprache, bietet Agent Substrate eine grundlegende Laufzeit für künstliche Intelligenz-Agenten. Bei dieser Infrastruktur handelt es sich um eine Infrastruktur, die verschiedene Architekturen von Agenten unterstützt, die Rekursion von Systemen und die für die Agenten erforderlichen Arbeitsflüsse unterstützt.
+Agent Substrate ist das Kernsystem, das eine skalierbare Infrastruktur für Agenten der künstlichen Intelligenz bereitstellt.
 
 - ★ 1.276
 - Go

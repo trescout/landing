@@ -17,7 +17,7 @@ Dieses Python-basierte Tool, das die Kaufprozesse für Bilibili-Mitglieder autom
 curl -fsSL https://raw.githubusercontent.com/mikumifa/biliTickerBuy/main/install.sh | sh
 ```
 
-**über Pip (PyPI)**
+**Mit pip (PyPI)**
 
 ```
 pip install biliTickerBuy

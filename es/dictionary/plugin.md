@@ -30,12 +30,12 @@ No, sólo el software que permite el sistema plug-in (arquitectura abierta) admi
 ## Herramientas relacionadas
 - [Superpowers](/es/discover/superpowers/)
 - [ECC](/es/discover/ecc/)
+- [Andrej Karpathy Skills](/es/discover/andrej-karpathy-skills/)
 - [Anthropic Skills](/es/discover/anthropic-skills/)
 - [Understand Anything](/es/discover/understand-anything/)
 - [Claude Plugins Official](/es/discover/claude-plugins-official/)
 - [Codex Plugin Cc](/es/discover/codex-plugin-cc/)
 - [Compound Engineering](/es/discover/compound-engineering-plugin/)
-- [Knowledge Work Plugins](/es/discover/knowledge-work-plugins/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/plugin/

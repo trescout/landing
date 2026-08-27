@@ -2,12 +2,13 @@
 
 Mattermost, yazılım geliştirme yaşam döngüsü boyunca güvenli iş birliği sağlamak amacıyla tasarlanmış açık kaynaklı bir platformdur. Yazılım ekiplerinin iletişim süreçlerini merkezi bir yapı üzerinden yönetmelerine olanak tanır.
 
-- ★ 38.812
+- ★ 38.913
 - GitHub Trending · 2026-06-12
 
 TreScout notu: Ekip içi mesajlaşma aracı. Hazır servislerden farkı kendi sunucunuzda çalışması, yazışmalar sizde kalır. Sayfadaki komut deneme kurulumudur, gerçek kullanımda ayrı bir veri tabanıyla kurulur. Telefon bildirimleri ek ayar ister, ekibe söz vermeden önce oraya bakın.
 
 ## Güncelleme
+- 27 Ağustos 2026: Yıldız 38.812 → 38.913, son sürüm v11.10.1 (24 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 38.643 → 38.812, son sürüm v11.10.0 (4 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 37.444 → 38.643, son sürüm v11.9.0 (8 Temmuz 2026).
 
@@ -18,13 +19,21 @@ TreScout notu: Ekip içi mesajlaşma aracı. Hazır servislerden farkı kendi su
 
 ## Kurulum
 
-**Docker (önizleme)**
+**Yerel preview container’ını başlat**
 
 ```
-docker run --name mattermost-preview -d --publish 8065:8065 mattermost/mattermost-preview
+docker run --name mattermost-preview -d --publish 127.0.0.1:8065:8065 mattermost/mattermost-preview
 ```
 
-Kaynak: docs.mattermost.com (resmî · önizleme imajı)
+## Çalıştırma
+
+**Yerel arayüze eriş**
+
+```
+http://localhost:8065
+```
+
+Kaynak: Resmî kaynak: https://github.com/mattermost/mattermost
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
@@ -38,7 +47,7 @@ Mattermost platformunu kullanarak yazılım geliştirme ekibimin iletişim süre
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Artificial Intelligence
+Container Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/mattermost/

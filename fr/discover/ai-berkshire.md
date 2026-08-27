@@ -2,7 +2,7 @@
 
 AI-berkshire est un cadre de recherche sur l'investissement de valeur qui met en œuvre les méthodologies d'investisseurs tels que Warren Buffett et Charlie Munger, en utilisant l'infrastructure Claude Code. Le système analyse les données financières grâce à sa structure multi-agents et effectue des examens contradictoires.
 
-- ★ 14 888
+- ★ 15 925
 - Python
 - GitHub Trending · 2026-06-26
 

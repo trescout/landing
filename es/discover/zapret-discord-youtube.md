@@ -2,7 +2,7 @@
 
 Zapret-discord-youtube es una herramienta que tiene como objetivo proporcionar acceso a plataformas restringidas cifrando el tráfico de red o utilizando métodos de fragmentación de paquetes. Fue desarrollado específicamente para superar las barreras de acceso a servicios como Discord y YouTube.
 
-- ★ 31.940
+- ★ 32.574
 - Batchfile
 - GitHub Trending · 2026-06-25
 

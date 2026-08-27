@@ -12,7 +12,7 @@ Firecrawl propose une interface (API) pour explorer les donn√©es des sites Web √
 - Interagit avec des pages Web complexes
 
 ## Installation
-****
+**Ajouter via npm**
 
 ```
 npm install @mendable/firecrawl-js

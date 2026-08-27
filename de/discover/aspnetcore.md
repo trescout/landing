@@ -17,7 +17,7 @@ ASP.NET Core ist ein plattformübergreifendes .NET-Framework zur Entwicklung mod
 brew install --cask dotnet-sdk
 ```
 
-**Windows (Winget)**
+**Windows (winget)**
 
 ```
 winget install Microsoft.DotNet.SDK.10

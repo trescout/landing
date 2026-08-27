@@ -12,7 +12,7 @@ Codebase-memory-mcp offers high-performance code intelligence by transforming co
 - Reduces coin usage by up to 120x
 
 ## Installation
-****
+**Global with npm**
 
 ```
 npm install -g codebase-memory-mcp

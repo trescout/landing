@@ -25,7 +25,21 @@ TreScout notu: Yazdığınız modern JavaScript kodunu tarayıcıların anladı�
 npm i -D @swc/core
 ```
 
-Kaynak: swc.rs (resmî dokümantasyon)
+**npm ile global**
+
+```
+npm install -g @swc/cli @swc/core
+```
+
+## Çalıştırma
+
+**TypeScript dosyasını derle**
+
+```
+swc index.ts -o index.js
+```
+
+Kaynak: Resmî kaynak: https://github.com/swc-project/swc
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 

@@ -2,7 +2,7 @@
 
 Paperclip ist eine Open-Source-Plattform, mit der Sie KI-Agenten am Arbeitsplatz über eine einzige Schnittstelle verwalten können. Dieses mit TypeScript entwickelte Tool ermöglicht es Ihnen, die Arbeitsabläufe von Agenten, die für verschiedene Aufgaben eingesetzt werden, von einem zentralen Punkt aus zu steuern.
 
-- ★ 78.760
+- ★ 79.465
 - TypeScript
 - GitHub Trending · 2026-08-11
 

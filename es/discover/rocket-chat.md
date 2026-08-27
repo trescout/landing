@@ -12,20 +12,20 @@ Rocket.Chat ofrece un sistema operativo de comunicaciones seguras diseñado para
 - Amplia integración y soporte de aplicaciones
 
 ## Instalación
-****
+**Clonar repositorio oficial de compose**
 
 ```
 git clone --depth 1 https://github.com/RocketChat/rocketchat-compose.git
 ```
 
-****
+**Crear archivo de entorno**
 
 ```
 cd rocketchat-compose
 cp .env.example .env
 ```
 
-****
+**Iniciar servicios MongoDB y Rocket.Chat**
 
 ```
 docker compose -f compose.database.yml -f compose.yml -f compose.nats.yml up -d
@@ -33,7 +33,7 @@ docker compose -f compose.database.yml -f compose.yml -f compose.nats.yml up -d
 
 
 ## Ejecución
-****
+**Acceder a la interfaz local**
 
 ```
 http://localhost:3000

@@ -7,6 +7,24 @@ VoxCPM ; çok dilli konuşma üretimi, yaratıcı ses tasarımı ve gerçekçi s
 - Apache-2.0
 - GitHub Trending · 30 May 2026
 
+## Kurulum
+
+**PyPI ile kur**
+
+```
+pip install voxcpm
+```
+
+## Çalıştırma
+
+**Metinden ses üret**
+
+```
+voxcpm design --text "VoxCPM2 brings studio-quality multilingual speech synthesis." --output out.wav
+```
+
+Kaynak: Resmî kaynak: https://github.com/OpenBMB/VoxCPM
+
 ## Güncelleme
 - 2 Ağustos 2026: Yıldız 22.648 → 34.774, son sürüm 2.0.3 (11 Mayıs 2026).
 
@@ -28,24 +46,6 @@ Ses kopyalama (voice cloning) içerir. Bir kişinin sesini izni olmadan taklit e
 ## Nasıl kurulur, nasıl kullanılır?
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 VoxCPM metinden konuşma aracını kurmak için 'pip install voxcpm' komutunu çalıştır, sonra 'voxcpm design --text "Merhaba dünya" --output out.wav' komutuyla bir ses dosyası üret; istersem referans bir ses dosyasıyla 'voxcpm clone' kullanarak o sesi klonla.
-
-**pip ile kurulum**
-
-```
-pip install voxcpm
-```
-
-**Sesli tasarım (referans gerektirmez)**
-
-```
-voxcpm design --text "VoxCPM2 brings studio-quality multilingual speech synthesis." --output out.wav
-```
-
-**Ses klonlama (referans sesle)**
-
-```
-voxcpm clone --text "This is a voice cloning demo." --reference-audio path/to/voice.wav --output out.wav
-```
 
 Lisans: Apache-2.0 · kod özgürce kullanılabilir/ticari. Model çıktısı ve ses kopyalama için yasal/etik sorumluluk size aittir.
 

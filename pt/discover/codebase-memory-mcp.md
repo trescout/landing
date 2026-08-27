@@ -12,7 +12,7 @@ Codebase-memory-mcp oferece inteligência de código de alto desempenho, transfo
 - Reduz o uso de moedas em até 120x
 
 ## Instalação
-****
+**Global com npm**
 
 ```
 npm install -g codebase-memory-mcp

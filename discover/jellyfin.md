@@ -22,6 +22,24 @@ Jellyfin , kendi film, dizi ve müzik koleksiyonunuzu yönetip tüm cihazların�
 - Veriniz sizde kalır ve üçüncü taraflarla paylaşılmaz.
 - Plex ve Emby için tam özgürlük sunan bir alternatif.
 
+## Kurulum
+
+**Docker ile**
+
+```
+docker run -d --name jellyfin -p 8096:8096 jellyfin/jellyfin
+```
+
+## Çalıştırma
+
+**Tarayıcıdan erişin**
+
+```
+http://localhost:8096
+```
+
+Kaynak: Resmî kaynak: https://github.com/jellyfin/jellyfin
+
 ## Nasıl kurulur?
 
 Docker, bir sunucu ya da NAS üzerine kurulur. Kurulum rehberi jellyfin.org'da; kurduktan sonra medya klasörlerinizi tanıtırsınız.
@@ -29,12 +47,6 @@ Docker, bir sunucu ya da NAS üzerine kurulur. Kurulum rehberi jellyfin.org'da; 
 ## Nasıl kurulur, nasıl kullanılır?
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Jellyfin medya sunucusunu kurmak istiyorum; resmi jellyfin.org/downloads sayfasından işletim sistemime uygun sürümü indirip kur ya da Docker kullanıyorsam 'jellyfin/jellyfin' imajıyla çalıştırmama yardım et.
-
-**Docker ile çalıştır**
-
-```
-docker run -d --name jellyfin -p 8096:8096 jellyfin/jellyfin
-```
 
 Lisans: GPL-2.0 · Kullanması tamamen serbest ve ücretsiz. Yazılımı değiştirip dağıtırsanız, değişikliklerinizi de aynı GPL lisansıyla ve kaynak koduyla paylaşmanız gerekir (copyleft). Sadece kendiniz kullanıyorsanız bir yükümlülük yok.
 

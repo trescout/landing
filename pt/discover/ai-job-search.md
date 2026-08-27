@@ -2,7 +2,7 @@
 
 Usando a infraestrutura do Claude Code, ai-job-search oferece uma estrutura que automatiza o processo de procura de emprego. A ferramenta analisa o perfil do usuário e realiza tarefas como edição de currículo, redação de cartas de apresentação e preparação de entrevistas com apoio de inteligência artificial.
 
-- ★ 32.405
+- ★ 37.003
 - TypeScript
 - GitHub Trending · 2026-07-08
 

@@ -28,6 +28,7 @@ Sí, requiere conocimientos básicos de administración de servidores y redes.
 - [Data Pipeline](/es/dictionary/data-pipeline/)
 
 ## Herramientas relacionadas
+- [N8n](/es/discover/n8n/)
 - [Penpot](/es/discover/penpot/)
 - [Plane](/es/discover/plane/)
 - [Twenty](/es/discover/twenty/)

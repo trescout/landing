@@ -12,13 +12,13 @@ VeraCrypt es una herramienta de cifrado de disco desarrollada en base a TrueCryp
 - Soporte para múltiples sistemas operativos
 
 ## Instalación
-**macOS (hecho en casa)**
+**macOS (Homebrew)**
 
 ```
 brew install --cask veracrypt
 ```
 
-**Ventanas (ala)**
+**Windows (winget)**
 
 ```
 winget install IDRIX.VeraCrypt

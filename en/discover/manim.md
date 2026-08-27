@@ -5,6 +5,22 @@ Manim is an animation engine for precise, programmatic explanatory math videos. 
 - ★ 90,309
 - GitHub Trending · 2026-08-12
 
+## Installation
+**Install ManimGL**
+
+```
+pip install manimgl
+```
+
+
+## Running it
+**Run the example scene**
+
+```
+manimgl example_scenes.py OpeningManimExample
+```
+
+
 ## What does this tool do?
 This entry covers ManimGL from the 3b1b repository. It is used to create explanatory animations for mathematical concepts in code. Manim Community Edition is a separate fork and project, so its installation instructions must not be mixed with ManimGL.
 
@@ -30,22 +46,6 @@ People looking for a drag-and-drop animation tool or specifically wanting to ins
 
 ## First task prompt
 Can you help me write a simple ManimGL scene in which a circle transforms into a square?
-
-## Installation
-**Install ManimGL**
-
-```
-pip install manimgl
-```
-
-
-## Running it
-**Run the example scene**
-
-```
-manimgl example_scenes.py OpeningManimExample
-```
-
 
 ## Links
 - GitHub repository →

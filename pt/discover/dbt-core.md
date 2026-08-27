@@ -12,7 +12,7 @@ A ferramenta de transformação de dados (dbt-core) permite que analistas e enge
 - Controle de qualidade de dados com testes automatizados
 
 ## Instalação
-**via pip (PyPI)**
+**com pip (PyPI)**
 
 ```
 pip install dbt-core

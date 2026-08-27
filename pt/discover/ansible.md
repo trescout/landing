@@ -12,13 +12,13 @@ Ansible é uma plataforma de automação de tecnologias de informação que auto
 - Execute facilmente atualizações complexas
 
 ## Instalação
-**via pip (PyPI)**
+**com pip (PyPI)**
 
 ```
 pip install ansible
 ```
 
-**macOS (homebrew)**
+**macOS (Homebrew)**
 
 ```
 brew install ansible

@@ -2,7 +2,7 @@
 
 Agent-Reach es una herramienta de interfaz de línea de comandos (CLI) que brinda a los agentes de IA la capacidad de escanear todo Internet y leer contenido. Proporciona acceso directo para extraer datos de plataformas como Twitter, Reddit y GitHub sin pagar ninguna tarifa de interfaz de programación de aplicaciones (API).
 
-- ★ 71.997
+- ★ 75.829
 - GitHub Trending · 2026-06-06
 
 ## Qué aporta
@@ -11,7 +11,7 @@ Agent-Reach es una herramienta de interfaz de línea de comandos (CLI) que brind
 - Elimina complejos procesos de instalación con configuración automática.
 
 ## Instalación
-**Pitón (pip)**
+**Python (pip)**
 
 ```
 pip install agent-reach

@@ -1,6 +1,6 @@
 # Plateforme qui accélère les modèles d'intelligence artificielle
 
-ONNX Runtime, makine öğrenimi çıkarımı ve eğitimi için platformlar arası çalışan yüksek performanslı bir hızlandırıcıdır.
+ONNX Runtime est un accélérateur multiplateforme hautes performances pour l'inférence et la formation en apprentissage automatique.
 
 - ★ 21 495
 - C++

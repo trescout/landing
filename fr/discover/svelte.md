@@ -11,7 +11,7 @@ Contrairement aux frameworks traditionnels, Svelte utilise une approche de compi
 - Surgically met à jour la structure DOM pour maintenir les pages Web à jour
 
 ## Installation
-****
+**Créer un projet Svelte**
 
 ```
 npx sv create my-app

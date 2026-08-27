@@ -2,7 +2,7 @@
 
 Insomnia é um cliente de interface de programação de aplicativos (API) de código aberto que oferece suporte aos protocolos GraphQL, REST, WebSockets, SSE e gRPC. O software oferece suporte multiplataforma com opções de armazenamento local e Git baseado em nuvem.
 
-- ★ 39.916
+- ★ 39.955
 - TypeScript
 - GitHub Trending · 2026-06-19
 
@@ -12,13 +12,13 @@ Insomnia é um cliente de interface de programação de aplicativos (API) de có
 - Design visual de API com editor OpenAPI integrado
 
 ## Instalação
-**macOS (homebrew)**
+**macOS (Homebrew)**
 
 ```
 brew install --cask insomnia
 ```
 
-**Pacote Linux Snap (editor Insomnia)**
+**Linux · pacote Snap (publicado por Insomnia)**
 
 ```
 sudo snap install insomnia

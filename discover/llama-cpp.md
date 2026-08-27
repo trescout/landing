@@ -2,22 +2,41 @@
 
 Llama.cpp, büyük dil modellerinin (large language models) standart donanımlar üzerinde verimli bir şekilde çalıştırılmasını sağlayan C ve C++ tabanlı bir çıkarım (inference) kütüphanesidir. Yazılım, düşük bellek kullanımı ve yüksek performans odaklı yapısıyla yerel cihazlarda yapay zekâ modellerinin çalıştırılmasını kolaylaştırır.
 
-- ★ 125.068
+- ★ 125.883
 - C++
 - GitHub Trending · 2026-06-08
 
 TreScout notu: Dil modellerini kendi bilgisayarınızda, sunucu kiralamadan çalıştırır. Kurulum artık kolay ama beklentiyi ayarlayın: Küçük modeller hızlı, büyükleri belleğinizi zorlar ve bulut hizmetlerinin cevap kalitesini beklemeyin.
 
 ## Güncelleme
+- 27 Ağustos 2026: Yıldız 125.068 → 125.883, son sürüm v0.3.0 (25 Ağustos 2026).
 - 22 Ağustos 2026: Yıldız 124.998 → 125.068, son sürüm v0.2.0 (21 Ağustos 2026).
 - 21 Ağustos 2026: Yıldız 124.919 → 124.998, son sürüm b10549 (21 Ağustos 2026).
 - 21 Ağustos 2026: Yıldız 124.888 → 124.919, son sürüm b10545 (21 Ağustos 2026).
-- 21 Ağustos 2026: Yıldız 124.853 → 124.888, son sürüm b10531 (21 Ağustos 2026).
 
 ## Ne kazandırır?
 - Büyük dil modellerini standart donanımlarda verimli çalıştırır.
 - Düşük bellek kullanımı ile yüksek performans sağlar.
 - Yerel cihazlarda yapay zekâ modellerini çalıştırmayı kolaylaştırır.
+
+## Kurulum
+
+**Kaynak kodunu klonla**
+
+```
+git clone https://github.com/ggml-org/llama.cpp.git
+cd llama.cpp
+```
+
+## Çalıştırma
+
+**GGUF modeli çalıştır**
+
+```
+llama-cli -m my_model.gguf
+```
+
+Kaynak: Resmî kaynak: https://github.com/ggml-org/llama.cpp
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 

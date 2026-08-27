@@ -14,7 +14,7 @@ Dieser Open-Source-Plugin-Satz von Anthropic vereint Fähigkeiten, Konnektoren, 
 - Sie müssen keinen Code schreiben, es läuft direkt auf Cowork.
 
 ## Installation
-****
+**Claude Code Marketplace hinzufügen**
 
 ```
 claude plugin marketplace add anthropics/knowledge-work-plugins
@@ -23,7 +23,7 @@ claude plugin install sales@knowledge-work-plugins
 
 
 ## Ausführung
-****
+**Verkaufsvorbereitungs-Workflow ausführen**
 
 ```
 /sales:call-prep

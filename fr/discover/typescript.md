@@ -12,7 +12,7 @@ TypeScript, un sur-ensemble du langage JavaScript, permet de vérifier les erreu
 - Processus de développement de logiciels évolutifs
 
 ## Installation
-**installation globale avec npm**
+**Installation globale avec npm**
 
 ```
 npm install -g typescript
@@ -26,7 +26,7 @@ npm install --save-dev typescript
 
 
 ## Exécution
-**Compiler le fichier TypeScript**
+**Compiler TypeScript**
 
 ```
 tsc index.ts

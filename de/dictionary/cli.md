@@ -33,12 +33,12 @@ Normalerweise gibt das System Fehler aus, aber es gibt auch kritische Befehle, d
 ## Verwandte Werkzeuge
 - [Superpowers](/de/discover/superpowers/)
 - [Spec Kit](/de/discover/spec-kit/)
+- [Codex](/de/discover/codex/)
+- [Ponytail](/de/discover/ponytail/)
 - [Graphify](/de/discover/graphify/)
 - [Angular](/de/discover/angular/)
-- [Svelte](/de/discover/svelte/)
+- [TradingAgents](/de/discover/tradingagents/)
 - [Understand Anything](/de/discover/understand-anything/)
-- [Agent-Reach](/de/discover/agent-reach/)
-- [Impeccable](/de/discover/impeccable/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/cli/

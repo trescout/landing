@@ -2,12 +2,13 @@
 
 Chatwoot, canlı sohbet, e-posta desteği ve çok kanallı müşteri hizmetleri (omni-channel desk) yönetimi sunan açık kaynaklı bir platformdur. Intercom ve Zendesk gibi ticari yazılımlara alternatif olarak geliştirilen bu araç, müşteri etkileşimlerini tek bir merkezden yönetmeyi sağlar.
 
-- ★ 36.001
+- ★ 36.253
 - GitHub Trending · 2026-06-12
 
 TreScout notu: Müşterilerden gelen mesajları tek ekranda toplar: Site sohbeti, e-posta, WhatsApp. Aynı işi yapan hazır servisler kişi başına aylık ücret alır, bu kendi sunucunuzda çalıştığı için o ücret yoktur, karşılığında sunucu ve bakım sizin işiniz olur. Kurulumu tek parça değildir, yanında birkaç yardımcı program ister ve en ucuz sunucu paketlerinde zorlanır.
 
 ## Güncelleme
+- 27 Ağustos 2026: Yıldız 36.001 → 36.253, son sürüm v4.17.1 (27 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 35.290 → 36.001, son sürüm v4.17.0 (20 Ağustos 2026).
 - 1 Ağustos 2026: Yıldız 30.493 → 35.290, son sürüm v4.16.2 (27 Temmuz 2026).
 
@@ -18,13 +19,33 @@ TreScout notu: Müşterilerden gelen mesajları tek ekranda toplar: Site sohbeti
 
 ## Kurulum
 
-**Docker Compose (self-hosted)**
+**Ortam dosyasını indir**
 
 ```
-git clone https://github.com/chatwoot/chatwoot.git && cd chatwoot && docker compose up -d
+wget -O .env https://raw.githubusercontent.com/chatwoot/chatwoot/develop/.env.example
 ```
 
-Kaynak: developers.chatwoot.com/self-hosted/deployment/docker (resmî)
+**Docker Compose dosyasını indir**
+
+```
+wget -O docker-compose.yaml https://raw.githubusercontent.com/chatwoot/chatwoot/develop/docker-compose.production.yaml
+```
+
+**Veritabanını hazırla**
+
+```
+docker compose run --rm rails bundle exec rails db:chatwoot_prepare
+```
+
+## Çalıştırma
+
+**Servisleri başlat**
+
+```
+docker compose up -d
+```
+
+Kaynak: Resmî kaynak: https://developers.chatwoot.com/self-hosted/deployment/docker
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 

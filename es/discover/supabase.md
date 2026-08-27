@@ -12,7 +12,7 @@ Supabase es una plataforma de desarrollo que ofrece infraestructura de bases de 
 - Incluye inteligencia artificial y soporte vectorial.
 
 ## Instalación
-**macOS (hecho en casa)**
+**macOS (Homebrew)**
 
 ```
 brew install supabase/tap/supabase

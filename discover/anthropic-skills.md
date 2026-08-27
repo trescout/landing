@@ -23,6 +23,17 @@ TreScout notu: Claude'un ihtiyaç duydukça yüklediği hazır beceri paketleri.
 - Dinamik yükleme: sadece gerektiğinde devreye girer.
 - agentskills standardına tam uyumlu.
 
+## Kurulum
+
+**Claude Code marketplace’ini ekle**
+
+```
+/plugin marketplace add anthropics/skills
+/plugin install document-skills@anthropic-agent-skills
+```
+
+Kaynak: Resmî kaynak: https://github.com/anthropics/skills
+
 ## Nasıl kullanılır?
 
 İlgili yeteneği Claude'a (örneğin Claude Code veya Cowork) beceri olarak tanımlarsınız; bu sayede özel görevlerdeki performansınız artar.
@@ -30,18 +41,6 @@ TreScout notu: Claude'un ihtiyaç duydukça yüklediği hazır beceri paketleri.
 ## Nasıl kurulur, nasıl kullanılır?
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Claude Code içindeyken '/plugin marketplace add anthropics/skills' komutuyla Anthropic'in beceri deposunu marketplace olarak ekle, ardından '/plugin install document-skills@anthropic-agent-skills' ile belge becerilerini kur; sonra örneğin bir PDF'ten form alanlarını çıkarması için ilgili beceriyi kullanmasını iste.
-
-**Marketplace ekle (Claude Code)**
-
-```
-/plugin marketplace add anthropics/skills
-```
-
-**Belge becerilerini kur**
-
-```
-/plugin install document-skills@anthropic-agent-skills
-```
 
 Lisans: GitHub bu repo için standart bir lisans tespit etmedi. Anthropic'in resmi deposu olsa da, yeniden kullanım/dağıtım öncesi repo'daki LICENSE dosyasını kontrol edin.
 

@@ -12,7 +12,7 @@ Codebase-memory-mcp offre une intelligence de code haute performance en transfor
 - Réduit l'utilisation des pièces jusqu'à 120x
 
 ## Installation
-****
+**Global via npm**
 
 ```
 npm install -g codebase-memory-mcp

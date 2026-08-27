@@ -29,6 +29,7 @@ Ja, heute können Sie Ihren persönlichen Freund mit künstlicher Intelligenz mi
 
 ## Verwandte Werkzeuge
 - [AIRI](/de/discover/airi/)
+- [Invidious](/de/discover/invidious/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/companion/

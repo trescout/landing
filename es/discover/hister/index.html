@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Hister · Descubrir · TreScout</title>
-<meta name="description" content="An AGPLv3 private search engine for pages you visit and files you store. · Hister · Descubra este proyecto de código abierto en TreScout.">
+<meta name="description" content="It is a special AGPLv3 licensed search engine for the pages the user visits and the files he stores.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/es/discover/hister.md">
 <link rel="canonical" href="https://trescout.com/es/discover/hister/">
@@ -16,19 +16,19 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/hister/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/hister/">
 <meta property="og:title" content="Hister">
-<meta property="og:description" content="An AGPLv3 private search engine for pages you visit and files you store. · Hister · Descubra este proyecto de código abierto en TreScout.">
+<meta property="og:description" content="It is a special AGPLv3 licensed search engine for the pages the user visits and the files he stores.">
 <meta property="og:url" content="https://trescout.com/es/discover/hister/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="es_ES">
-<meta property="og:image" content="https://trescout.com/assets/discover/og/hister.webp">
+<meta property="og:image" content="https://trescout.com/assets/discover/og/hister-es.webp">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Hister">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Hister">
-<meta name="twitter:description" content="An AGPLv3 private search engine for pages you visit and files you store. · Hister · Descubra este proyecto de código abierto en TreScout.">
-<meta name="twitter:image" content="https://trescout.com/assets/discover/og/hister.webp">
+<meta name="twitter:description" content="It is a special AGPLv3 licensed search engine for the pages the user visits and the files he stores.">
+<meta name="twitter:image" content="https://trescout.com/assets/discover/og/hister-es.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -45,7 +45,7 @@
     "@type": "Organization",
     "name": "TreScout"
   },
-  "image": "https://trescout.com/assets/discover/og/hister.webp",
+  "image": "https://trescout.com/assets/discover/og/hister-es.webp",
   "url": "https://trescout.com/es/discover/hister/",
   "about": {
     "@type": "SoftwareSourceCode",
@@ -67,7 +67,10 @@
 <div class="disc-top"><span class="disc-eyebrow">Descubrir · GitHub · Hister</span></div>
 <h1 class="disc-title">Motor de búsqueda privado para páginas y archivos personales</h1>
 <p class="disc-lead">Indexa páginas y archivos en infraestructura controlada por el usuario sin requerir un servicio en la nube ni telemetría obligatoria. Ofrece indexación de texto completo, filtros avanzados y búsqueda semántica opcional que envía textos al endpoint de embeddings seleccionado.</p>
-<ul class="disc-meta"><li>★ 2.620</li><li>Go</li><li>GitHub Trending · 2026-08-25</li></ul>
+<ul class="disc-meta"><li>★ 3.100</li><li>Go</li><li>GitHub Trending · 2026-08-25</li></ul>
+      <section class="disc-sec disc-updates"><h2>Actualizaciones</h2><ul class="disc-update-list"><li><strong>27 de agosto de 2026:</strong> Estrellas 2,620 → 3,100, última versión v0.18.0 (23 de agosto de 2026).</li></ul></section>
+      <section class="disc-sec"><h2>Instalación</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Hacer el binario ejecutable</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>chmod +x hister</code></pre></div></section>
+      <section class="disc-sec"><h2>Ejecución</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Iniciar el servidor Hister</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>./hister listen</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Acceder a la interfaz local</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>http://127.0.0.1:4433</code></pre></div></section>
       <section class="disc-sec"><h2>¿Qué hace esta herramienta?</h2><p>Hister puede ejecutarse localmente o en la infraestructura que controles; no requiere un servicio en la nube ni telemetría obligatoria. Indexa páginas mediante extensiones para Chrome y Firefox, y ofrece opciones de rastreo de sitios y de importación del historial del navegador. Si se activa la búsqueda semántica, el texto del documento se envía al endpoint de embeddings seleccionado.</p></section>
       <section class="disc-sec"><h2>¿Para quién es?</h2><p>Quienes quieran consultar páginas web y archivos personales en una infraestructura de búsqueda que controlen.</p></section>
       <section class="disc-sec"><h2>Qué no esperar</h2><p>Casos que exijan un servicio en la nube obligatorio o telemetría, o flujos de indexación del navegador que no permitan enviar contenido al servidor Hister configurado.</p></section>
@@ -75,16 +78,15 @@
       <section class="disc-sec"><h2>Primer flujo de uso</h2><ol class="disc-steps"><li>Descarga el binario adecuado para tu plataforma y hazlo ejecutable en Linux o macOS</li><li>Inicia el servidor Hister en modo escucha local</li><li>Abre la interfaz web local</li><li>Instala la extensión de Chrome o Firefox y selecciona las páginas que quieres indexar</li></ol></section>
       <section class="disc-sec"><h2>Inicio seguro</h2><div class="disc-note">La extensión del navegador envía el contenido de las páginas indexadas al servidor Hister configurado, aparte de descargar favicons. La búsqueda semántica opcional envía el texto del documento al endpoint de embeddings seleccionado.</div></section>
       <section class="disc-sec"><h2>Primer prompt</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Copiar instrucción">Copiar</button></div><p class="disc-ai-text">Abre la interfaz local y, usando la extensión del navegador, indexa las páginas seleccionadas y valida la búsqueda usando filtros de consulta.</p></div></section>
-      <section class="disc-sec"><h2>Instalación</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Hacer el binario ejecutable</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>chmod +x hister</code></pre></div></section>
-      <section class="disc-sec"><h2>Ejecución</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Iniciar el servidor Hister</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>./hister listen</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Acceder a la interfaz local</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>http://127.0.0.1:4433</code></pre></div></section>
+      <section class="disc-sec"><h2>Términos relacionados del glosario</h2><div class="disc-related"><a href="/es/dictionary/tui/">TUI</a><a href="/es/dictionary/binary/">Binary</a><a href="/es/dictionary/mcp/">MCP</a><a href="/es/dictionary/terminal/">Terminal</a><a href="/es/dictionary/cli/">CLI</a></div></section>
       <section class="disc-sec"><h2>Enlaces</h2><ul class="disc-links"><li><a href="https://github.com/asciimoo/hister" target="_blank" rel="noopener">Repositorio en GitHub →</a></li><li><a href="https://hister.org/docs/quickstart" target="_blank" rel="noopener">Inicio rápido →</a></li><li><a href="https://github.com/asciimoo/hister" target="_blank" rel="noopener">README de privacidad y uso →</a></li><li><a href="https://hister.org/posts/how-i-use-hister" target="_blank" rel="noopener">Flujo de uso →</a></li><li><a href="https://trescout.com/discover/hister/">Leer en turco →</a></li></ul></section>
 <p class="disc-disclaimer">TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-25: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se <strong>tradujo automáticamente</strong> del original en turco · prevalece la versión turca.</p>
-<aside class="disc-cta"><p><strong>TreScout encuentra herramientas como esta todos los días.</strong> Rastreamos GitHub, Hacker News y HuggingFace, y le resumimos lo esencial.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-es" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Su correo electrónico" autocomplete="email" required><button class="btn btn-primary" type="submit">Acceso anticipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>He leído el <a href="/es/privacy.html" target="_blank" rel="noopener">aviso de privacidad</a> y acepto que mi correo se trate con esta finalidad.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/es/discover/">Todos los descubrimientos →</a></aside>
+<aside class="disc-cta"><p><strong>Reciba descubrimientos similares en el informe diario.</strong> TreScout rastrea GitHub, Hacker News y HuggingFace cada día y le resume lo esencial.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-es" data-page-type="discover" data-content-slug="hister" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Su correo electrónico" autocomplete="email" required><button class="btn btn-primary" type="submit">Acceso anticipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>He leído el <a href="/es/privacy.html" target="_blank" rel="noopener">aviso de privacidad</a> y acepto que mi correo se trate con esta finalidad.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/es/discover/">Todos los descubrimientos →</a></aside>
 </article>
 </main>
 <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">TreScout rastrea, resume y entrega. Usted solo lee.</p></div><div class="footer-col"><div class="footer-col-title">Producto</div><ul><li><a href="/es/discover/">Descubrir</a></li><li><a href="/es/dictionary/">Glosario</a></li><li><a href="/es/reports/">Archivo de informes</a></li><li><a href="/es/compare/rss-vs-ai/">Comparar</a></li><li><a href="/es/#top">Acceso anticipado</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Contacto</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/es/privacy.html" target="_blank" rel="noopener">Aviso de privacidad</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Redes</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Todos los derechos reservados.</span></div></div></footer>
 <script src="/assets/discover.js" defer></script>
 <script src="/assets/subscribe.js" defer></script>
-<script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script><script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>  <script src="/assets/provider-consent.js" defer></script>
+<script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script><script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script><script src="/assets/telemetry.js" defer></script>
 </body>
 </html>

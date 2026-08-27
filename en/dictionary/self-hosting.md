@@ -30,6 +30,7 @@ Yes, it requires basic server administration and networking knowledge.
 - [Data Pipeline](/en/dictionary/data-pipeline/)
 
 ## Related tools
+- [N8n](/en/discover/n8n/)
 - [Penpot](/en/discover/penpot/)
 - [Plane](/en/discover/plane/)
 - [Twenty](/en/discover/twenty/)

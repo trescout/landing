@@ -2,9 +2,31 @@
 
 Indiziert lokal besuchte Webseiten und gespeicherte Dateien und bietet Volltextsuche sowie erweiterte Abfragefilter. Optionales semantisches Suchen sendet Dokumenttext an die gewählte Embeddings-Endpoint.
 
-- ★ 2.620
+- ★ 3.100
 - Go
 - GitHub Trending · 2026-08-25
+
+## Installation
+**Binary ausführbar machen**
+
+```
+chmod +x hister
+```
+
+
+## Ausführung
+**Hister-Server starten**
+
+```
+./hister listen
+```
+
+**Auf die lokale Benutzeroberfläche zugreifen**
+
+```
+http://127.0.0.1:4433
+```
+
 
 ## Was macht dieses Werkzeug?
 Hister kann lokal oder auf von Ihnen kontrollierter Infrastruktur betrieben werden; ein Cloud-Service oder Telemetrie sind nicht zwingend erforderlich. Mit Chrome- und Firefox-Erweiterungen indiziert es Seiten, bietet Website-Crawling und das Importieren des Browserverlaufs. Wenn semantische Suche aktiviert ist, wird Dokumenttext an die ausgewählte Embeddings-Schnittstelle gesendet.
@@ -31,27 +53,7 @@ Szenarien, die zwingend Cloud-Dienste oder Telemetrie erfordern, oder Browserver
 ## Erster Prompt
 Öffne die lokale Oberfläche, indiziere mit der Browser-Erweiterung ausgewählte Seiten und verifiziere Suchen mit Abfragefiltern.
 
-## Installation
-**Binary ausführbar machen**
-
-```
-chmod +x hister
-```
-
-
-## Ausführung
-**Hister-Server starten**
-
-```
-./hister listen
-```
-
-**Auf die lokale Benutzeroberfläche zugreifen**
-
-```
-http://127.0.0.1:4433
-```
-
+## Verwandte Begriffe aus dem Glossar
 
 ## Links
 - GitHub-Repository →

@@ -12,7 +12,7 @@ Desenvolvido pelo Google, o Flutter permite criar rapidamente interfaces de usu�
 - Gráficos de alto desempenho acelerados por hardware
 
 ## Instalação
-**macOS (homebrew)**
+**macOS (Homebrew)**
 
 ```
 brew install --cask flutter
@@ -20,7 +20,7 @@ brew install --cask flutter
 
 
 ## Execução
-**Verifique os controles ambientais**
+**Validar controles de ambiente**
 
 ```
 flutter doctor

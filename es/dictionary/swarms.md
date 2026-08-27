@@ -1,6 +1,6 @@
 # ¿Qué es Swarms?
 
-Karmaşık görevleri çözmek için koordineli şekilde çalışan küçük yapay zekâ birimleri topluluğudur.
+Es un conjunto de pequeñas unidades de inteligencia artificial que trabajan coordinadamente para resolver tareas complejas.
 
 ## Definición
 Funciona mediante muchas unidades de IA pequeñas y especializadas que comparten tareas pequeñas en lugar de un modelo grande y engorroso. Estas unidades se comunican constantemente entre sí, dividiendo los problemas complejos en partes y la unidad más adecuada resolviendo cada parte. Esta estructura aumenta la flexibilidad y velocidad del sistema.

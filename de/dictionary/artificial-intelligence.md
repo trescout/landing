@@ -36,9 +36,9 @@ Künstliche Intelligenz wird die Art und Weise, wie viele Arbeiten erledigt werd
 - [Superpowers](/de/discover/superpowers/)
 - [ECC](/de/discover/ecc/)
 - [Hermes Agent](/de/discover/hermes-agent/)
-- [Andrej Karpathy Skills](/de/discover/andrej-karpathy-skills/)
-- [N8n](/de/discover/n8n/)
 - [Opencode](/de/discover/opencode/)
+- [FreeDomain](/de/discover/free-domain/)
+- [AutoGPT](/de/discover/autogpt/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/artificial-intelligence/

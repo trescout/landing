@@ -2,7 +2,7 @@
 
 Claude Code Harness introduces the discipline of plan, do, review and deliver, curbing the tendency for raw agent work to fall apart. It prevents plans from getting lost in the chat, limits testing, and ensures more consistent code production. Although Claude is Code-centric, it also offers integration paths for Codex and OpenCode.
 
-- ★ 3,070
+- ★ 3,071
 - Shell
 - MIT
 - GitHub Trending · 28 May 2026
@@ -13,7 +13,7 @@ Claude Code Harness introduces the discipline of plan, do, review and deliver, c
 - More predictable and consistent results are obtained.
 
 ## Installation
-****
+**Global with npm**
 
 ```
 npm install -g claude-code-harness

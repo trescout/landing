@@ -12,7 +12,7 @@ AirLLM ermöglicht die Ausführung großer Sprachmodelle mit 70 Milliarden Param
 - Bis zu dreifache Geschwindigkeitssteigerung durch blockbasierte Komprimierung.
 
 ## Installation
-**über Pip (PyPI)**
+**Mit pip (PyPI)**
 
 ```
 pip install airllm

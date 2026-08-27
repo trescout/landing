@@ -13,7 +13,7 @@ MoneyPrinterTurbo automatically produces short videos using large language model
 - It allows batch and multiple video production.
 
 ## Installation
-****
+**Clone official repo**
 
 ```
 git clone https://github.com/harry0703/MoneyPrinterTurbo.git
@@ -22,13 +22,13 @@ cd MoneyPrinterTurbo
 
 
 ## Running it
-****
+**Start with Docker Compose**
 
 ```
 docker-compose up
 ```
 
-****
+**Start Web UI**
 
 ```
 uv run streamlit run ./webui/Main.py --browser.gatherUsageStats=False

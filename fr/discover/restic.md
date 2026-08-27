@@ -11,13 +11,13 @@ Développé avec le langage Go, Restic propose un programme de sauvegarde open s
 - Compatible avec différents systèmes de stockage cloud et locaux
 
 ## Installation
-****
+**macOS · Homebrew**
 
 ```
 brew install restic
 ```
 
-****
+**Windows · winget**
 
 ```
 winget install restic.restic
@@ -25,7 +25,7 @@ winget install restic.restic
 
 
 ## Exécution
-****
+**Créer un dépôt de sauvegarde**
 
 ```
 restic init --repo /path/to/repo

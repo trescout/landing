@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Claude Obsidian · Discover · TreScout</title>
-<meta name="description" content="A local-first knowledge system for Claude Code and compatible Agent Skills servers. · Claude Obsidian · Explore this open-source project on TreScout.">
+<meta name="description" content="It is a local-first information system for Claude Code and compatible Agent Skills servers.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/en/discover/claude-obsidian.md">
 <link rel="canonical" href="https://trescout.com/en/discover/claude-obsidian/">
@@ -16,19 +16,19 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/claude-obsidian/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/claude-obsidian/">
 <meta property="og:title" content="Claude Obsidian">
-<meta property="og:description" content="A local-first knowledge system for Claude Code and compatible Agent Skills servers. · Claude Obsidian · Explore this open-source project on TreScout.">
+<meta property="og:description" content="It is a local-first information system for Claude Code and compatible Agent Skills servers.">
 <meta property="og:url" content="https://trescout.com/en/discover/claude-obsidian/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
-<meta property="og:image" content="https://trescout.com/assets/discover/og/claude-obsidian.webp">
+<meta property="og:image" content="https://trescout.com/assets/discover/og/claude-obsidian-en.webp">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Claude Obsidian">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Claude Obsidian">
-<meta name="twitter:description" content="A local-first knowledge system for Claude Code and compatible Agent Skills servers. · Claude Obsidian · Explore this open-source project on TreScout.">
-<meta name="twitter:image" content="https://trescout.com/assets/discover/og/claude-obsidian.webp">
+<meta name="twitter:description" content="It is a local-first information system for Claude Code and compatible Agent Skills servers.">
+<meta name="twitter:image" content="https://trescout.com/assets/discover/og/claude-obsidian-en.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -45,7 +45,7 @@
     "@type": "Organization",
     "name": "TreScout"
   },
-  "image": "https://trescout.com/assets/discover/og/claude-obsidian.webp",
+  "image": "https://trescout.com/assets/discover/og/claude-obsidian-en.webp",
   "url": "https://trescout.com/en/discover/claude-obsidian/",
   "about": {
     "@type": "SoftwareSourceCode",
@@ -67,7 +67,10 @@
 <div class="disc-top"><span class="disc-eyebrow">Discover · GitHub · Claude Obsidian</span></div>
 <h1 class="disc-title">Local Knowledge System for Claude Code</h1>
 <p class="disc-lead">A local-first knowledge system for Claude Code and compatible Agent Skills servers. It converts source materials into citation-backed, linked Obsidian pages.</p>
-<ul class="disc-meta"><li>★ 12,404</li><li>Python</li><li>GitHub Trending · 2026-08-25</li></ul>
+<ul class="disc-meta"><li>★ 13,706</li><li>Python</li><li>GitHub Trending · 2026-08-25</li></ul>
+      <section class="disc-sec disc-updates"><h2>Updates</h2><ul class="disc-update-list"><li><strong>August 27, 2026:</strong> Stars 12,404 → 13,706, latest release v2.1.1 (August 25, 2026).</li></ul></section>
+      <section class="disc-sec"><h2>Installation</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Add the Claude Code marketplace</span><button type="button" class="disc-copy" aria-label="Copy command">Copy</button></div><pre><code>claude plugin marketplace add AgriciDaniel/claude-obsidian</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Install the claude-obsidian plugin</span><button type="button" class="disc-copy" aria-label="Copy command">Copy</button></div><pre><code>claude plugin install claude-obsidian@agricidaniel-claude-obsidian</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Create an init plan for a separate vault</span><button type="button" class="disc-copy" aria-label="Copy command">Copy</button></div><pre><code>python3 scripts/claude-obsidian.py init &lt;new-vault&gt; --generated-at &lt;ISO-UTC&gt; --operation-id init-reviewed</code></pre></div></section>
+      <section class="disc-sec"><h2>Running it</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Verify plugin installation</span><button type="button" class="disc-copy" aria-label="Copy command">Copy</button></div><pre><code>claude plugin list</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Start the wiki workflow</span><button type="button" class="disc-copy" aria-label="Copy command">Copy</button></div><pre><code>/claude-obsidian:wiki</code></pre></div></section>
       <section class="disc-sec"><h2>What does this tool do?</h2><p>Organizes research content with source and claims ledgers, linked pages, and knowledge maps. Parallel agents generate drafts, while an orchestrator applies approved changes as reversible transactions.</p></section>
       <section class="disc-sec"><h2>Who it is for</h2><p>Anyone who wants to build a local, citation-backed Obsidian knowledge base with Claude Code.</p></section>
       <section class="disc-sec"><h2>What not to expect</h2><p>Not for automatic transcript logging, cloud synchronization, a guarantee of factual correctness, or as a replacement for backups and source control.</p></section>
@@ -75,12 +78,10 @@
       <section class="disc-sec"><h2>First-use flow</h2><ol class="disc-steps"><li>Clone the repository and prepare a Python 3.11 or newer environment</li><li>Create an init plan for a separate vault and review the JSON plan</li><li>Check the approved_plan_sha256 value and confirm the full operation</li><li>Open the vault in Obsidian and run Claude Code with the local plugin</li><li>Start the wiki flow and use the steps to add sources, query, and explicitly commit changes</li></ol></section>
       <section class="disc-sec"><h2>Safe start</h2><div class="disc-note">The system is not a source of truth. Use backups and source control for data; review network egress and the applied plan.</div></section>
       <section class="disc-sec"><h2>First task prompt</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Copy prompt">Copy</button></div><p class="disc-ai-text">Start a local Obsidian wiki workflow by associating sources with the source and claims ledgers.</p></div></section>
-      <section class="disc-sec"><h2>Installation</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Add the Claude Code marketplace</span><button type="button" class="disc-copy" aria-label="Copy command">Copy</button></div><pre><code>claude plugin marketplace add AgriciDaniel/claude-obsidian</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Install the claude-obsidian plugin</span><button type="button" class="disc-copy" aria-label="Copy command">Copy</button></div><pre><code>claude plugin install claude-obsidian@agricidaniel-claude-obsidian</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Create an init plan for a separate vault</span><button type="button" class="disc-copy" aria-label="Copy command">Copy</button></div><pre><code>python3 scripts/claude-obsidian.py init &lt;new-vault&gt; --generated-at &lt;ISO-UTC&gt; --operation-id init-reviewed</code></pre></div></section>
-      <section class="disc-sec"><h2>Running it</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Verify plugin installation</span><button type="button" class="disc-copy" aria-label="Copy command">Copy</button></div><pre><code>claude plugin list</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Start the wiki workflow</span><button type="button" class="disc-copy" aria-label="Copy command">Copy</button></div><pre><code>/claude-obsidian:wiki</code></pre></div></section>
-      <section class="disc-sec"><h2>Related dictionary terms</h2><div class="disc-related"><a href="/en/dictionary/agent-skills/">Agent Skills</a><a href="/en/dictionary/agent/">Agent</a></div></section>
+      <section class="disc-sec"><h2>Related dictionary terms</h2><div class="disc-related"><a href="/en/dictionary/agent-skills/">Agent Skills</a><a href="/en/dictionary/ai-skills/">AI Skills</a><a href="/en/dictionary/agent/">Agent</a></div></section>
       <section class="disc-sec"><h2>Links</h2><ul class="disc-links"><li><a href="https://github.com/AgriciDaniel/claude-obsidian" target="_blank" rel="noopener">GitHub repository →</a></li><li><a href="https://github.com/AgriciDaniel/claude-obsidian/blob/main/docs/install-guide.md" target="_blank" rel="noopener">Installation guide →</a></li><li><a href="https://github.com/AgriciDaniel/claude-obsidian" target="_blank" rel="noopener">Official README →</a></li><li><a href="https://trescout.com/discover/claude-obsidian/">Read in Turkish →</a></li></ul></section>
 <p class="disc-disclaimer">TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-25: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was <strong>machine-translated</strong> from the Turkish original · the Turkish version prevails.</p>
-<aside class="disc-cta"><p><strong>TreScout catches tools like this every day.</strong> GitHub, Hacker News and HuggingFace are scanned, the highlights are summarized for you.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-en" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/discover/">All discoveries →</a></aside>
+<aside class="disc-cta"><p><strong>Get similar discoveries in the daily report.</strong> TreScout scouts GitHub, Hacker News and HuggingFace trends daily, delivering curated summaries.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-en" data-page-type="discover" data-content-slug="claude-obsidian" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/discover/">All discoveries →</a></aside>
 </article>
 </main>
 <footer>
@@ -125,8 +126,6 @@
 </footer>
 <script src="/assets/discover.js" defer></script>
 <script src="/assets/subscribe.js" defer></script>
-  <script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>
-  <script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>
-  <script src="/assets/provider-consent.js" defer></script>
+<script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script><script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script><script src="/assets/telemetry.js" defer></script>
 </body>
 </html>

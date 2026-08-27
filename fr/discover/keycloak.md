@@ -12,7 +12,7 @@ Keycloak propose des solutions open source de gestion des identités et des acc�
 - Augmente sans effort la sécurité des applications.
 
 ## Installation
-****
+**Démarrer le conteneur de développement local**
 
 ```
 docker run --name keycloak -p 127.0.0.1:8080:8080 -e KC_BOOTSTRAP_ADMIN_USERNAME=admin -e KC_BOOTSTRAP_ADMIN_PASSWORD=change_me quay.io/keycloak/keycloak:latest start-dev
@@ -20,7 +20,7 @@ docker run --name keycloak -p 127.0.0.1:8080:8080 -e KC_BOOTSTRAP_ADMIN_USERNAME
 
 
 ## Exécution
-****
+**Accéder à l'interface locale**
 
 ```
 http://localhost:8080
@@ -29,6 +29,8 @@ http://localhost:8080
 
 ## Pour commencer
 - Source officielle →
+
+## Termes liés du glossaire
 
 ## Liens
 - Dépôt GitHub →

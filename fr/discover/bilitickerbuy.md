@@ -17,7 +17,7 @@ Cet outil basé sur Python qui automatise les processus d'achat d'adhésion à B
 curl -fsSL https://raw.githubusercontent.com/mikumifa/biliTickerBuy/main/install.sh | sh
 ```
 
-**via pip (PyPI)**
+**Avec pip (PyPI)**
 
 ```
 pip install biliTickerBuy

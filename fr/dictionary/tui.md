@@ -31,6 +31,7 @@ Il est nécessaire de mémoriser les raccourcis clavier au début, mais c'est be
 
 ## Outils liés
 - [Witr](/fr/discover/witr/)
+- [Hister](/fr/discover/hister/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/tui/

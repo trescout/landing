@@ -13,7 +13,7 @@ Supermemory oferece um mecanismo de memória altamente escalável e uma API proj
 - Fácil integração via API.
 
 ## Instalação
-****
+**Instalar com npm**
 
 ```
 npm install supermemory
@@ -21,7 +21,7 @@ npm install supermemory
 
 
 ## Execução
-****
+**Adicionar servidor MCP para Claude**
 
 ```
 npx -y install-mcp@latest https://mcp.supermemory.ai/mcp --client claude --oauth=yes

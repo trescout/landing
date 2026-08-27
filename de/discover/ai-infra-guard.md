@@ -1,8 +1,8 @@
 # Sicherheitsaudit für Ihre KI-Infrastruktur
 
-Entwickelt von Tencent, dem AI-Infra-Guard und einer abtragenden Red-Teaming-Plattform, die künstliche Intelligenz-Ökosysteme vor Schwachstellen schützt. Systema; Hierbei handelt es sich um eine Sicherheits- und Infrastrukturmethode für die Überprüfung von Agenten, die Analyse ihrer Fähigkeiten und die Gewährleistung der Sicherheit großer Sprachmodelle.
+AI-Infra-Guard ist eine End-to-End-KI-Red-Team-Plattform, die Agenten, Fähigkeiten, MCP und KI-Infrastruktur scannt und LLM-Jailbreak-Bewertungen durchführt.
 
-- ★ 4.746
+- ★ 5.995
 - Python
 - GitHub Trending · 2026-08-20
 

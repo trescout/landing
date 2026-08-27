@@ -30,6 +30,8 @@ Yes, but it is better to look at the overall results that include different scen
 - [Inference](/en/dictionary/inference/)
 
 ## Related tools
+- [Ponytail](/en/discover/ponytail/)
+- [RuView](/en/discover/ruview/)
 - [CUA](/en/discover/cua/)
 - [Whichllm](/en/discover/whichllm/)
 - [SIA](/en/discover/sia/)

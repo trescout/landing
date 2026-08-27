@@ -11,13 +11,13 @@ Desenvolvida pelo Google, a linguagem de programação Go é uma linguagem de pr
 - Eficiência para sistemas de nuvem modernos
 
 ## Instalação
-**macOS (homebrew)**
+**macOS (Homebrew)**
 
 ```
 brew install go
 ```
 
-**Janelas (winget)**
+**Windows (winget)**
 
 ```
 winget install GoLang.Go
@@ -25,7 +25,7 @@ winget install GoLang.Go
 
 
 ## Execução
-**Verifique a versão**
+**Verificar versão**
 
 ```
 go version

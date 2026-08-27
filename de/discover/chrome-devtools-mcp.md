@@ -2,7 +2,7 @@
 
 Dieser für Chrome DevTools entwickelte Server ermöglicht es Codierungs-Agenten für künstliche Intelligenz, browserbasierte Debugging-Prozesse zu verwalten. Mithilfe des Model Context Protocol ermöglicht dieses Tool Agenten die direkte Inspektion von Webanwendungen und die Automatisierung von Debugging-Prozessen.
 
-- ★ 48.884
+- ★ 49.801
 - TypeScript
 - GitHub Trending · 2026-07-03
 
@@ -12,7 +12,7 @@ Dieser für Chrome DevTools entwickelte Server ermöglicht es Codierungs-Agenten
 - Überprüfen Sie Netzwerkanfragen und Konsolenfehler
 
 ## Installation
-****
+**npm: global**
 
 ```
 npm install -g chrome-devtools-mcp

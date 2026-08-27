@@ -18,7 +18,7 @@ Das Open-Source-Repository NGINX wird in C als leistungsstarker Webserver und Re
 brew install nginx
 ```
 
-****
+**Ubuntu / Debian**
 
 ```
 sudo apt update && sudo apt install -y nginx
@@ -26,7 +26,7 @@ sudo apt update && sudo apt install -y nginx
 
 
 ## Ausführung
-****
+**Webserver starten**
 
 ```
 sudo systemctl start nginx

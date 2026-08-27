@@ -12,7 +12,7 @@ Pytest é uma estrutura de teste que oferece suporte a uma ampla variedade de te
 - Adapta-se facilmente a diferentes necessidades com seu amplo suporte de plug-ins e estrutura modular.
 
 ## Instalação
-**via pip (PyPI)**
+**com pip (PyPI)**
 
 ```
 pip install pytest
@@ -20,7 +20,7 @@ pip install pytest
 
 
 ## Execução
-****
+**Executar testes**
 
 ```
 pytest

@@ -30,10 +30,10 @@ Ja, aber die Aufnahme von Änderungen in das Hauptprojekt hängt in der Regel vo
 ## Verwandte Werkzeuge
 - [Superpowers](/de/discover/superpowers/)
 - [ECC](/de/discover/ecc/)
+- [N8n](/de/discover/n8n/)
 - [MarkItDown](/de/discover/markitdown/)
 - [Claude Code](/de/discover/claude-code/)
 - [MoneyPrinterTurbo](/de/discover/moneyprinterturbo/)
-- [RuView](/de/discover/ruview/)
 - [claude-mem](/de/discover/claude-mem/)
 - [Opencv](/de/discover/opencv/)
 

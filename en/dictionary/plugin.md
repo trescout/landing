@@ -32,12 +32,12 @@ No, only software that allows plug-in system (open architecture) supports this f
 ## Related tools
 - [Superpowers](/en/discover/superpowers/)
 - [ECC](/en/discover/ecc/)
+- [Andrej Karpathy Skills](/en/discover/andrej-karpathy-skills/)
 - [Anthropic Skills](/en/discover/anthropic-skills/)
 - [Understand Anything](/en/discover/understand-anything/)
 - [Claude Plugins Official](/en/discover/claude-plugins-official/)
 - [Codex Plugin Cc](/en/discover/codex-plugin-cc/)
 - [Compound Engineering](/en/discover/compound-engineering-plugin/)
-- [Knowledge Work Plugins](/en/discover/knowledge-work-plugins/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/plugin/

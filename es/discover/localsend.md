@@ -31,6 +31,8 @@ Personas que necesitan transferir archivos entre redes diferentes por internet o
 ## Primer prompt
 ¿Cómo puedo enviar una foto de mi ordenador a mi teléfono en la misma red local?
 
+## Términos relacionados del glosario
+
 ## Enlaces
 - Repositorio en GitHub →
 - README oficial de LocalSend →

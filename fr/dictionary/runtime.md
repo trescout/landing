@@ -28,6 +28,7 @@ Oui, tout logiciel pouvant fonctionner a besoin d’un environnement de travail.
 - [API](/fr/dictionary/api/)
 
 ## Outils liés
+- [Andrej Karpathy Skills](/fr/discover/andrej-karpathy-skills/)
 - [Node](/fr/discover/node/)
 - [Deno](/fr/discover/deno/)
 - [BUN](/fr/discover/bun/)
@@ -35,7 +36,6 @@ Oui, tout logiciel pouvant fonctionner a besoin d’un environnement de travail.
 - [Onnxruntime](/fr/discover/onnxruntime/)
 - [Flue](/fr/discover/flue/)
 - [Switchyard](/fr/discover/switchyard/)
-- [Substrate](/fr/discover/substrate/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/runtime/

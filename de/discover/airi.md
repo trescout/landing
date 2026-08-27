@@ -14,7 +14,7 @@ AIRI ist eine KI-basierte Plattform für virtuelle Charaktere, die Sie auf Ihrem
 - Ihre Daten verbleiben vollständig bei Ihnen (Selbsthoster).
 
 ## Installation
-****
+**Repository mit Git klonen**
 
 ```
 git clone https://github.com/AIRI-institute/airi.git

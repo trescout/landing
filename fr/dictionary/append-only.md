@@ -1,25 +1,25 @@
 # Qu'est-ce que Append-only ?
 
-Verilerin sadece sona eklenebildiği, değiştirilemediği veya silinemediği bir kayıt yöntemidir.
+Il s'agit d'une méthode d'enregistrement dans laquelle les données peuvent uniquement être ajoutées, ne peuvent pas être modifiées ou supprimées.
 
 ## Définition
-Bir veri tabanına veya dosyaya bilgi eklerken, eski verileri değiştirmek yerine her yeni bilgiyi listenin sonuna ekleme prensibidir. Bu yöntem, verinin geçmişini korumak ve güvenliğini sağlamak için kritiktir. Hiçbir veri silinmediği için sistemdeki tüm hareketlerin izini sürmek mümkündür.
+Lors de l'ajout d'informations à une base de données ou à un fichier, le principe consiste à ajouter chaque nouvelle information à la fin de la liste plutôt que de remplacer les anciennes données. Cette méthode est essentielle pour préserver l’historique et la sécurité des données. Puisqu’aucune donnée n’est supprimée, il est possible de retracer tous les mouvements dans le système.
 
 ## Comment ça marche
-Sistem, veriyi güncelleyen bir komut yerine sadece 'ekle' komutunu kabul eder. Bu sayede verinin tarihçesi her zaman korunmuş olur.
+Le système n'accepte qu'une commande « ajouter » plutôt qu'une commande qui met à jour les données. De cette manière, l’historique des données est toujours préservé.
 
 ## Où est-ce utilisé
-Blokzincir teknolojilerinde, günlük (log) tutma sistemlerinde ve denetlenebilir veri tabanlarında kullanılır.
+Il est utilisé dans les technologies blockchain, les systèmes de tenue de journaux et les bases de données vérifiables.
 
 ## Souvent confondu avec
-Geleneksel veri tabanları ile karıştırılabilir; geleneksel olanlar veriyi güncelleyebilir, bu yöntem ise asla izin vermez.
+Peut être confondu avec les bases de données traditionnelles ; les méthodes traditionnelles peuvent mettre à jour les données, cette méthode ne le permet jamais.
 
 ## Questions fréquentes
 **Que se passe-t-il si je fais une erreur ?**
-Hatalı veriyi silmek yerine, hatayı düzelten yeni bir kayıt daha eklersiniz.
+Au lieu de supprimer les données erronées, vous ajoutez un nouvel enregistrement qui corrige l'erreur.
 
-**Neden bu kadar güvenli?**
-Veri değiştirilemediği için geçmişe dönük manipülasyon yapmak imkansıza yakındır.
+**Pourquoi est-ce si sûr ?**
+Puisque les données ne peuvent pas être modifiées, il est presque impossible de manipuler le passé.
 
 
 ## Termes liés

@@ -17,19 +17,27 @@ TreScout notu: Yedeklerinizi şifreleyerek saklar ve aynı dosyayı iki kez yazm
 
 ## Kurulum
 
-**macOS (Homebrew)**
+**macOS · Homebrew**
 
 ```
 brew install restic
 ```
 
-**Debian/Ubuntu**
+**Windows · winget**
 
 ```
-apt install restic
+winget install restic.restic
 ```
 
-Kaynak: restic.readthedocs.io (resmî)
+## Çalıştırma
+
+**Yedek deposu oluştur**
+
+```
+restic init --repo /path/to/repo
+```
+
+Kaynak: Resmî kaynak: https://github.com/restic/restic
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 

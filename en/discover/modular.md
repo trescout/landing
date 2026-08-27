@@ -1,6 +1,6 @@
 # High-performance infrastructure for artificial intelligence projects
 
-Modular Platformu, yapay zekâ projeleri için yüksek performanslı altyapı sunar ve MAX ile Mojo'yu içerir.
+The Modular Platform provides high-performance infrastructure for AI projects and includes MAX and Mojo.
 
 - ★ 28,875
 - Mojo

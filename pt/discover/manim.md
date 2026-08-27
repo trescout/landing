@@ -5,6 +5,22 @@ Manim é um mecanismo de animação para criar vídeos matemáticos explicativos
 - ★ 90.309
 - GitHub Trending · 2026-08-12
 
+## Instalação
+**Instale o ManimGL**
+
+```
+pip install manimgl
+```
+
+
+## Execução
+**Execute a cena de exemplo**
+
+```
+manimgl example_scenes.py OpeningManimExample
+```
+
+
 ## O que esta ferramenta faz?
 Esta página trata do ManimGL do repositório 3b1b. Ele é usado para criar em código animações que explicam conceitos matemáticos. O Manim Community Edition é um fork e projeto separado, portanto suas instruções de instalação não devem ser misturadas com as do ManimGL.
 
@@ -30,22 +46,6 @@ Pessoas que procuram uma ferramenta de animação com interface de arrastar e so
 
 ## Primeiro prompt
 Você pode me ajudar a escrever uma cena simples do ManimGL em que um círculo se transforma em um quadrado?
-
-## Instalação
-**Instale o ManimGL**
-
-```
-pip install manimgl
-```
-
-
-## Execução
-**Execute a cena de exemplo**
-
-```
-manimgl example_scenes.py OpeningManimExample
-```
-
 
 ## Links
 - Repositório no GitHub →

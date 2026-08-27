@@ -14,7 +14,7 @@ AIRI es una plataforma de personajes virtuales basada en IA que puedes alojar en
 - Tus datos permanecen íntegramente contigo (autohospedador).
 
 ## Instalación
-****
+**Clonar repositorio con Git**
 
 ```
 git clone https://github.com/AIRI-institute/airi.git

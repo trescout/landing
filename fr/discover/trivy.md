@@ -18,7 +18,7 @@ Trivy est un outil d'analyse de sécurité complet qui détecte les vulnérabili
 brew install trivy
 ```
 
-**Fenêtres (winget)**
+**Windows (winget)**
 
 ```
 winget install AquaSecurity.Trivy
@@ -26,7 +26,7 @@ winget install AquaSecurity.Trivy
 
 
 ## Exécution
-****
+**Scanner l'image du conteneur**
 
 ```
 trivy image imaj-adi:etiket

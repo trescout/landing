@@ -13,7 +13,7 @@ MoneyPrinterTurbo produit automatiquement de courtes vidéos en utilisant de gra
 - Il permet la production vidéo par lots et multiples.
 
 ## Installation
-****
+**Cloner le dépôt officiel**
 
 ```
 git clone https://github.com/harry0703/MoneyPrinterTurbo.git
@@ -22,13 +22,13 @@ cd MoneyPrinterTurbo
 
 
 ## Exécution
-****
+**Démarrer avec Docker Compose**
 
 ```
 docker-compose up
 ```
 
-****
+**Démarrer l'interface web**
 
 ```
 uv run streamlit run ./webui/Main.py --browser.gatherUsageStats=False

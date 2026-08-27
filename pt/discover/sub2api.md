@@ -1,8 +1,8 @@
 # Gerencie assinaturas de IA em um único centro
 
-Sub2API é um serviço de migração de código aberto que combina diferentes assinaturas de IA, como Claude, OpenAI, Gemini e Grok, em uma única interface. Embora permita aos usuários compartilhar os custos de assinatura, oferece a oportunidade de utilizar estes serviços de forma integrada com as ferramentas existentes.
+Sub2API é um serviço intermediário de código aberto que fornece acesso de ponto único e compartilhamento de custos para assinaturas Claude, OpenAI, Gemini e Grok.
 
-- ★ 38.841
+- ★ 39.608
 - Go
 - GitHub Trending · 2026-08-23
 

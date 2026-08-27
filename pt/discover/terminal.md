@@ -12,7 +12,7 @@ A Microsoft está combinando o Windows Terminal e o host de console tradicional 
 - Melhor desempenho da linha de comando
 
 ## Instalação
-**Janelas (winget)**
+**Windows (winget)**
 
 ```
 winget install Microsoft.WindowsTerminal

@@ -18,7 +18,7 @@ Trivy ist ein umfassendes Sicherheitsscan-Tool, das Schwachstellen, Fehlkonfigur
 brew install trivy
 ```
 
-**Windows (Winget)**
+**Windows (winget)**
 
 ```
 winget install AquaSecurity.Trivy
@@ -26,7 +26,7 @@ winget install AquaSecurity.Trivy
 
 
 ## Ausführung
-****
+**Container-Image scannen**
 
 ```
 trivy image imaj-adi:etiket

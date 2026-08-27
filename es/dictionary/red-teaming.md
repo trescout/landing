@@ -29,7 +29,6 @@ Al hacer preguntas perjudiciales al modelo, se comprueba si el modelo infringe l
 
 ## Herramientas relacionadas
 - [G0DM0D3](/es/discover/g0dm0d3/)
-- [AI-Infra-Guard](/es/discover/ai-infra-guard/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/red-teaming/

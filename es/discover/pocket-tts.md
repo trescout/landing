@@ -2,7 +2,7 @@
 
 Desarrollado por Kyutai Labs, Pocket-TTS es un modelo ligero de conversión de texto a voz que se ejecuta únicamente en la unidad central de procesamiento (CPU) sin necesidad de una unidad de procesamiento de gráficos. Gracias a su bajo consumo de recursos, ofrece una síntesis de sonido rápida y eficiente en dispositivos con restricciones de hardware.
 
-- ★ 7.994
+- ★ 9.151
 - Python
 - GitHub Trending · 2026-07-08
 

@@ -1,8 +1,8 @@
 # Audit de sécurité pour votre infrastructure IA
 
-AI-Infra-Guard, ajanları, becerileri, MCP'yi ve yapay zekâ altyapısını tarayan, ayrıca LLM jailbreak değerlendirmeleri yapan uçtan uca bir yapay zekâ kırmızı ekip platformudur.
+AI-Infra-Guard est une plate-forme d'équipe rouge d'IA de bout en bout qui analyse les agents, les compétences, le MCP et l'infrastructure d'IA, et effectue des évaluations de jailbreak LLM.
 
-- ★ 4 746
+- ★ 5 995
 - Python
 - GitHub Trending · 2026-08-20
 

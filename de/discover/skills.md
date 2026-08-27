@@ -2,7 +2,7 @@
 
 Die von Google entwickelte Kompetenzbibliothek bietet Python-basierte Tools, die es Agenten der künstlichen Intelligenz ermöglichen, mit Google-Produkten und -Technologien zu interagieren. Diese Ressource stellt die Funktionalität bereit, die Agenten benötigen, um bestimmte Aufgaben in einer standardisierten Struktur auszuführen.
 
-- ★ 17.658
+- ★ 18.743
 - Python
 - GitHub Trending · 2026-06-09
 

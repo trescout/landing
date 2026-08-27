@@ -12,7 +12,7 @@ Microsoft vereint Windows Terminal und den traditionellen Windows-Konsolenhost u
 - Verbesserte Befehlszeilenleistung
 
 ## Installation
-**Windows (Winget)**
+**Windows (winget)**
 
 ```
 winget install Microsoft.WindowsTerminal

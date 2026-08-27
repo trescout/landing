@@ -2,9 +2,31 @@
 
 An AGPLv3-licensed private search engine for pages you visit and files you store. It provides full-text indexing, advanced query filters, and optional semantic search.
 
-- ★ 2,620
+- ★ 3,100
 - Go
 - GitHub Trending · 2026-08-25
+
+## Installation
+**Make the binary executable**
+
+```
+chmod +x hister
+```
+
+
+## Running it
+**Start the Hister server**
+
+```
+./hister listen
+```
+
+**Access the local interface**
+
+```
+http://127.0.0.1:4433
+```
+
 
 ## What does this tool do?
 Hister can run locally or on infrastructure you control; it does not require a mandatory cloud service or telemetry. It indexes pages via Chrome and Firefox extensions and offers website crawling and browser history import options. If semantic search is enabled, document text is sent to the selected embeddings endpoint.
@@ -31,27 +53,7 @@ Not for use cases that require mandatory cloud service or telemetry, or for brow
 ## First task prompt
 Open the local interface, index selected pages with the browser extension, and verify searches using query filters.
 
-## Installation
-**Make the binary executable**
-
-```
-chmod +x hister
-```
-
-
-## Running it
-**Start the Hister server**
-
-```
-./hister listen
-```
-
-**Access the local interface**
-
-```
-http://127.0.0.1:4433
-```
-
+## Related dictionary terms
 
 ## Links
 - GitHub repository →

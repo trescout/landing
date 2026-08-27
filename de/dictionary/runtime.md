@@ -28,6 +28,7 @@ Ja, jede lauffähige Software benötigt eine Arbeitsumgebung.
 - [API](/de/dictionary/api/)
 
 ## Verwandte Werkzeuge
+- [Andrej Karpathy Skills](/de/discover/andrej-karpathy-skills/)
 - [Node](/de/discover/node/)
 - [Deno](/de/discover/deno/)
 - [BUN](/de/discover/bun/)
@@ -35,7 +36,6 @@ Ja, jede lauffähige Software benötigt eine Arbeitsumgebung.
 - [Onnxruntime](/de/discover/onnxruntime/)
 - [Flue](/de/discover/flue/)
 - [Switchyard](/de/discover/switchyard/)
-- [Substrate](/de/discover/substrate/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/runtime/

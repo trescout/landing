@@ -12,7 +12,7 @@ Desarrollado por Google, Abseil ofrece fragmentos de código fuente abierto que 
 - Completa la funcionalidad que falta en la biblioteca estándar.
 
 ## Instalación
-**macOS (hecho en casa)**
+**macOS (Homebrew)**
 
 ```
 brew install abseil

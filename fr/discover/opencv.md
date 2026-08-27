@@ -11,7 +11,7 @@ OpenCV, une bibliothèque de vision par ordinateur open source, propose une larg
 - Accédez à des outils complets pour les applications d’apprentissage automatique
 
 ## Installation
-**Python (pépin)**
+**Python (pip)**
 
 ```
 pip install opencv-python

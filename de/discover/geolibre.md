@@ -12,7 +12,7 @@ GeoLibre ist eine leichte, cloudbasierte Plattform für geografische Information
 - Lokale und vertrauliche Datenverarbeitung
 
 ## Installation
-**über Pip (PyPI)**
+**Mit pip (PyPI)**
 
 ```
 pip install GeoLibre

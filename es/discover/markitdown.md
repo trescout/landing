@@ -13,7 +13,7 @@ MarkItDown (Microsoft); Es una herramienta ligera de Python que convierte Word, 
 - Ideal para tus procesos RAG y análisis de textos.
 
 ## Instalación
-****
+**Instalar desde PyPI (todas las funciones)**
 
 ```
 pip install 'markitdown[all]'
@@ -21,7 +21,7 @@ pip install 'markitdown[all]'
 
 
 ## Ejecución
-****
+**Convertir archivo a Markdown**
 
 ```
 markitdown belge.pdf > belge.md

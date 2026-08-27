@@ -28,6 +28,7 @@ Ja, es erfordert grundlegende Serveradministrations- und Netzwerkkenntnisse.
 - [Data Pipeline](/de/dictionary/data-pipeline/)
 
 ## Verwandte Werkzeuge
+- [N8n](/de/discover/n8n/)
 - [Penpot](/de/discover/penpot/)
 - [Plane](/de/discover/plane/)
 - [Twenty](/de/discover/twenty/)

@@ -12,7 +12,7 @@ Pytest est un framework de test qui prend en charge un large éventail de tests 
 - Il s'adapte facilement aux différents besoins grâce à son large support enfichable et sa structure modulaire.
 
 ## Installation
-**via pip (PyPI)**
+**Avec pip (PyPI)**
 
 ```
 pip install pytest
@@ -20,7 +20,7 @@ pip install pytest
 
 
 ## Exécution
-****
+**Exécuter les tests**
 
 ```
 pytest

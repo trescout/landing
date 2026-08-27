@@ -20,13 +20,13 @@ brew install --cask flutter
 
 
 ## Running it
-**Verify environmental controls**
+**Validate environment checks**
 
 ```
 flutter doctor
 ```
 
-**Create and run new project**
+**Create and Run New Project**
 
 ```
 flutter create my_app

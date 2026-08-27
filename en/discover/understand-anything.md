@@ -8,7 +8,7 @@ Do you have a 200,000-line code base or a huge document archive that you don't r
 - GitHub Trending · 26 May 2026
 
 ## Installation
-****
+**Add Claude Code plugin**
 
 ```
 /plugin marketplace add Lum1104/Understand-Anything
@@ -17,7 +17,7 @@ Do you have a 200,000-line code base or a huge document archive that you don't r
 
 
 ## Running it
-****
+**Analyze codebase**
 
 ```
 /understand

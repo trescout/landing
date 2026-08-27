@@ -13,7 +13,7 @@ Compétences anthropiques ; Il s'agit du référentiel officiel des packs de com
 - Entièrement conforme à la norme de compétences des agents.
 
 ## Installation
-****
+**Ajouter le marketplace de Claude Code**
 
 ```
 /plugin marketplace add anthropics/skills

@@ -30,6 +30,7 @@ No, most AIs are passive systems that just wait for your command.
 - [Agentic AI](/en/dictionary/agentic-ai/)
 
 ## Related tools
+- [Ponytail](/en/discover/ponytail/)
 - [MinerU](/en/discover/mineru/)
 - [Claude Code Best Practice](/en/discover/claude-code-best-practice/)
 - [OpenMontage](/en/discover/openmontage/)
@@ -37,7 +38,6 @@ No, most AIs are passive systems that just wait for your command.
 - [Pm Skills](/en/discover/pm-skills/)
 - [Personal_AI_Infrastructure](/en/discover/personal-ai-infrastructure/)
 - [Production Agentic RAG Course](/en/discover/production-agentic-rag-course/)
-- [Ag Kit](/en/discover/ag-kit/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/agentic/

@@ -17,19 +17,21 @@ Stirling-PDF, kullanıcıların PDF dosyaları üzerinde her cihazda düzenleme 
 
 ## Kurulum
 
-**Docker ile hızlı kurulum**
+**Persistent Docker container’ı başlat**
 
 ```
-docker run -p 8080:8080 docker.stirlingpdf.com/stirlingtools/stirling-pdf
+docker run -d --name stirling-pdf -p 127.0.0.1:8080:8080 -v ./stirling-data:/configs --restart unless-stopped docker.stirlingpdf.com/stirlingtools/stirling-pdf:latest
 ```
 
 ## Çalıştırma
 
-**Arayüze erişim**
+**Yerel arayüze eriş**
 
 ```
 http://localhost:8080
 ```
+
+Kaynak: Resmî kaynak: https://docs.stirlingpdf.com/Installation/Docker%20Install/
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
@@ -43,7 +45,7 @@ Stirling-PDF aracını kullanarak PDF belgelerim üzerinde düzenleme, dönüşt
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-23 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-PDF Artificial Intelligence
+Container PDF Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/stirling-pdf/

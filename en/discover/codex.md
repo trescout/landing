@@ -2,8 +2,30 @@
 
 Codex CLI is a coding agent that runs in the terminal on your local computer. It can review code, make changes to files, and run commands.
 
-- ★ 115,876
+- ★ 119,077
 - GitHub Trending · 2026-08-23
+
+## Installation
+**macOS or Linux**
+
+```
+curl -fsSL https://chatgpt.com/codex/install.sh | sh
+```
+
+**Windows PowerShell**
+
+```
+powershell -ExecutionPolicy ByPass -c "irm https://chatgpt.com/codex/install.ps1 | iex"
+```
+
+
+## Running it
+**Start Codex CLI**
+
+```
+codex
+```
+
 
 ## What does this tool do?
 Codex CLI is a coding agent that runs in the terminal on your local computer. It can review code in a project directory, make changes to files, run commands, and help automate repetitive tasks.
@@ -30,28 +52,6 @@ It may not be suitable for those who do not want to use the terminal.
 
 ## First task prompt
 For your first use, you can start with a review request that explains the project's purpose and file structure.
-
-## Installation
-**macOS or Linux**
-
-```
-curl -fsSL https://chatgpt.com/codex/install.sh | sh
-```
-
-**Windows PowerShell**
-
-```
-powershell -ExecutionPolicy ByPass -c "irm https://chatgpt.com/codex/install.ps1 | iex"
-```
-
-
-## Running it
-**Start Codex CLI**
-
-```
-codex
-```
-
 
 ## Related dictionary terms
 

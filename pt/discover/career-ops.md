@@ -2,7 +2,7 @@
 
 Usando a infraestrutura do Claude Code, as operações de carreira automatizam processos de busca de emprego apoiados por inteligência artificial com 14 modos de habilidades diferentes. O sistema centraliza funções como gerenciamento de lotes e criação de currículos por meio de um painel de controle baseado em Go.
 
-- ★ 66.453
+- ★ 68.761
 - JavaScript
 - GitHub Trending · 2026-06-07
 

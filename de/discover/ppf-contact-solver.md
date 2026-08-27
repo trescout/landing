@@ -8,7 +8,7 @@ PPF Contact Solver ist als Physik-Engine von ZOZO darauf ausgelegt, Kontakte zwi
 - GitHub Trending · 26 May 2026
 
 ## Installation
-****
+**GPU-Container starten**
 
 ```
 docker run --rm -it --name ppf-contact-solver --gpus all -p 127.0.0.1:8080:8080 -p 127.0.0.1:9090:9090 -e WEB_PORT=8080 ghcr.io/st-tech/ppf-contact-solver-compiled:latest

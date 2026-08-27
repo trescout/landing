@@ -1,6 +1,6 @@
 # Hochleistungsinfrastruktur für Projekte der künstlichen Intelligenz
 
-Eine modulare Plattform mit der Engine MAX, entwickelt für die Entwicklung künstlicher Intelligenzmodelle und einer Mojo-Programmiersprache, die die Python-Sprachfähigkeiten mit der Systemprogrammiergeschwindigkeit kombiniert. Dies ist ein Technologieprojekt für eine schnelle künstliche Intelligenzinfrastruktur und die Vereinfachung komplexer Softwareprozesse.
+Die Modulare Plattform bietet eine leistungsstarke Infrastruktur für KI-Projekte und umfasst MAX und Mojo.
 
 - ★ 28.875
 - Mojo

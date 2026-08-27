@@ -14,7 +14,7 @@ CCE ; Claude Code est un système complet qui apporte des compétences, des inst
 - Il ne se limite pas à un seul outil, il fonctionne compatible avec plusieurs environnements (Claude Code, Codex, Cursor…).
 
 ## Installation
-****
+**Ajouter un plugin avec Claude Code**
 
 ```
 /plugin marketplace add https://github.com/affaan-m/ECC
@@ -23,7 +23,7 @@ CCE ; Claude Code est un système complet qui apporte des compétences, des inst
 
 
 ## Exécution
-**Exécuter une analyse de sécurité**
+**Exécuter l'analyse de sécurité**
 
 ```
 /security-scan

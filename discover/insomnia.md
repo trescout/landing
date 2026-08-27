@@ -2,11 +2,12 @@
 
 Insomnia, GraphQL, REST, WebSockets, SSE ve gRPC protokollerini destekleyen açık kaynaklı bir uygulama programlama arayüzü (API) istemcisidir. Yazılım, bulut tabanlı, yerel ve Git üzerinden depolama seçenekleriyle çapraz platform desteği sunar.
 
-- ★ 39.916
+- ★ 39.955
 - TypeScript
 - GitHub Trending · 2026-06-19
 
 ## Güncelleme
+- 27 Ağustos 2026: Yıldız 39.916 → 39.955, son sürüm core@13.2.0 (25 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 38.771 → 39.916, son sürüm core@13.1.0 (24 Temmuz 2026).
 
 ## Ne kazandırır?
@@ -28,7 +29,7 @@ brew install --cask insomnia
 sudo snap install insomnia
 ```
 
-Kaynak: Homebrew cask · formulae.brew.sh/cask/insomnia · Snap Store
+Kaynak: Resmî kaynak: https://insomnia.rest
 
 ## Nasıl başlanır?
 

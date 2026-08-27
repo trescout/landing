@@ -2,11 +2,12 @@
 
 Maigret, kullanıcı adlarını temel alarak 3000'den fazla internet sitesi üzerinde tarama yapıyor ve kişilere dair bir dosya (dossier) oluşturuyor. Python ile geliştirilen bu araç, açık kaynaklı istihbarat (OSINT) süreçlerinde dijital ayak izi takibini otomatize ediyor.
 
-- ★ 36.075
+- ★ 37.089
 - Python
 - GitHub Trending · 2026-06-11
 
 ## Güncelleme
+- 27 Ağustos 2026: Yıldız 36.075 → 37.089, son sürüm v0.6.5 (25 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 32.267 → 36.075, son sürüm main (26 Nisan 2026).
 
 ## Ne kazandırır?
@@ -16,26 +17,21 @@ Maigret, kullanıcı adlarını temel alarak 3000'den fazla internet sitesi üze
 
 ## Kurulum
 
-**Python ile kurulum**
+**PyPI ile kur**
 
 ```
 pip install maigret
-maigret YOUR_USERNAME
-```
-
-**Docker ile kurulum**
-
-```
-docker pull soxoj/maigret
 ```
 
 ## Çalıştırma
 
-**Temel arama**
+**Kullanıcı adını tara**
 
 ```
-maigret username
+maigret kullanici-adi
 ```
+
+Kaynak: Resmî kaynak: https://github.com/soxoj/maigret
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 

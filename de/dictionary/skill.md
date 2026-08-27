@@ -37,7 +37,6 @@ Normalerweise werden API-Verbindungen oder spezielle Codeblöcke geschrieben, um
 - [OfficeCLI](/de/discover/officecli/)
 - [Reverse Skill](/de/discover/reverse-skill/)
 - [Book to Skill](/de/discover/book-to-skill/)
-- [I Have Adhd](/de/discover/i-have-adhd/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/skill/

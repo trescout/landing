@@ -2,9 +2,31 @@
 
 Motor de busca privado com licença AGPLv3 para páginas visitadas e arquivos guardados pelo usuário. Oferece indexação full-text, filtros de consulta avançados e busca semântica opcional.
 
-- ★ 2.620
+- ★ 3.100
 - Go
 - GitHub Trending · 2026-08-25
+
+## Instalação
+**Tornar o binário executável**
+
+```
+chmod +x hister
+```
+
+
+## Execução
+**Iniciar o servidor hister**
+
+```
+./hister listen
+```
+
+**Acessar interface local**
+
+```
+http://127.0.0.1:4433
+```
+
 
 ## O que esta ferramenta faz?
 O Hister pode rodar localmente ou na infraestrutura que você controla; não exige serviço em nuvem ou telemetria obrigatória. Indexa páginas via extensões Chrome e Firefox, oferece opções de rastreamento de sites e importação do histórico do navegador. Se a busca semântica estiver ativada, o texto do documento é enviado ao endpoint de embeddings selecionado.
@@ -31,27 +53,7 @@ Cenários que exigem serviço em nuvem obrigatório ou telemetria, ou fluxos de 
 ## Primeiro prompt
 Abra a interface local, indexe as páginas selecionadas com a extensão do navegador e verifique as pesquisas usando filtros de consulta.
 
-## Instalação
-**Tornar o binário executável**
-
-```
-chmod +x hister
-```
-
-
-## Execução
-**Iniciar o servidor hister**
-
-```
-./hister listen
-```
-
-**Acessar interface local**
-
-```
-http://127.0.0.1:4433
-```
-
+## Termos relacionados do glossário
 
 ## Links
 - Repositório no GitHub →

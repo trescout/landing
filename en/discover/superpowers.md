@@ -14,7 +14,7 @@ Superpowers is a comprehensive software development methodology of composite ski
 - Full compatibility with multiple platforms.
 
 ## Installation
-****
+**Install Claude Code plugin**
 
 ```
 /plugin install superpowers@claude-plugins-official

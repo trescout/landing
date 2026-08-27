@@ -12,7 +12,7 @@ yaml-cpp é uma biblioteca para a linguagem de programação C++ que analisa e e
 - Compilação multiplataforma com CMake
 
 ## Instalação
-**macOS (homebrew)**
+**macOS (Homebrew)**
 
 ```
 brew install yaml-cpp

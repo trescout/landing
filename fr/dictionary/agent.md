@@ -30,13 +30,13 @@ Oui, ils peuvent gérer vos fichiers ou exécuter vos applications si vous leur 
 
 ## Outils liés
 - [Hermes Agent](/fr/discover/hermes-agent/)
+- [Andrej Karpathy Skills](/fr/discover/andrej-karpathy-skills/)
 - [Opencode](/fr/discover/opencode/)
 - [Awesome LLM Apps](/fr/discover/awesome-llm-apps/)
+- [Ponytail](/fr/discover/ponytail/)
 - [Agent Skills](/fr/discover/agent-skills/)
 - [Taste Skill](/fr/discover/taste-skill/)
 - [Agent-Reach](/fr/discover/agent-reach/)
-- [Ansible](/fr/discover/ansible/)
-- [Openinterpreter](/fr/discover/openinterpreter/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/agent/

@@ -14,7 +14,7 @@ Jellyfin es un servidor multimedia gratuito que le permite administrar y transmi
 - Una alternativa a Plex y Emby que ofrece total libertad.
 
 ## Instalación
-**con ventana acoplable**
+**Usar Docker**
 
 ```
 docker run -d --name jellyfin -p 8096:8096 jellyfin/jellyfin
@@ -22,7 +22,7 @@ docker run -d --name jellyfin -p 8096:8096 jellyfin/jellyfin
 
 
 ## Ejecución
-****
+**Abrir en el navegador**
 
 ```
 http://localhost:8096

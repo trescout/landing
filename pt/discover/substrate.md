@@ -1,6 +1,6 @@
 # Infraestrutura escalável para agentes de inteligência artificial
 
-Agent Substrate, yapay zekâ ajanları için ölçeklenebilir altyapı sağlayan temel sistemdir.
+Agent Substrate é o sistema central que fornece infraestrutura escalonável para agentes de inteligência artificial.
 
 - ★ 1.276
 - Go

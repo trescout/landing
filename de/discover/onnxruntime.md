@@ -1,6 +1,6 @@
 # Plattform, die Modelle der künstlichen Intelligenz beschleunigt
 
-Die von Microsoft entwickelte ONNX-Runtime ist ein Hersteller, der es ermöglicht, Modelle von Machine-Learning-Programmen auszuführen und auf verschiedenen Plattformen zu testen. Er stürzte sich auf die Entwicklungsprozesse der Anwendungen und optimierte die Prozesse zur Rückführung von Modellen in verschiedene Hardware-Architekturen.
+ONNX Runtime ist ein plattformübergreifender Hochleistungsbeschleuniger für Inferenz und Training beim maschinellen Lernen.
 
 - ★ 21.495
 - C++

@@ -11,13 +11,13 @@ ASP.NET Core es un marco .NET multiplataforma que se utiliza para desarrollar ap
 - Estructura de componentes modular con bajo uso de recursos.
 
 ## Instalación
-**macOS (hecho en casa)**
+**macOS (Homebrew)**
 
 ```
 brew install --cask dotnet-sdk
 ```
 
-**Ventanas (ala)**
+**Windows (winget)**
 
 ```
 winget install Microsoft.DotNet.SDK.10

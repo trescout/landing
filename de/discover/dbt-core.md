@@ -12,7 +12,7 @@ Das Datentransformationstool (dbt-core) ermöglicht Datenanalysten und Ingenieur
 - Datenqualitätskontrolle mit automatisierten Tests
 
 ## Installation
-**über Pip (PyPI)**
+**Mit pip (PyPI)**
 
 ```
 pip install dbt-core
@@ -20,7 +20,7 @@ pip install dbt-core
 
 
 ## Ausführung
-**Projekt ausführen**
+**Projekt starten**
 
 ```
 dbt run

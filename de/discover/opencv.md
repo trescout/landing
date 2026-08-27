@@ -11,7 +11,7 @@ OpenCV, eine Open-Source-Computer-Vision-Bibliothek, bietet eine breite Palette 
 - Greifen Sie auf umfangreiche Tools für maschinelle Lernanwendungen zu
 
 ## Installation
-**Python (Pip)**
+**Python (pip)**
 
 ```
 pip install opencv-python

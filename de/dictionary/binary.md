@@ -24,6 +24,7 @@ Denn die Unterscheidung zweier Zustände (Spannung vorhanden/nicht vorhanden) in
 ## Verwandte Werkzeuge
 - [Protobuf](/de/discover/protobuf/)
 - [OfficeCLI](/de/discover/officecli/)
+- [Hister](/de/discover/hister/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/binary/

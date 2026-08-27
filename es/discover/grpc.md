@@ -12,7 +12,7 @@ gRPC es un marco de llamada a procedimientos remotos de código abierto que prop
 - Simplifica la implementación y gestión de sistemas distribuidos.
 
 ## Instalación
-**macOS (hecho en casa)**
+**macOS (Homebrew)**
 
 ```
 brew install grpc

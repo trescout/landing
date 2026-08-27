@@ -18,7 +18,7 @@ Home Assistant es una plataforma de domótica de código abierto que prioriza el
 pip install homeassistant
 ```
 
-**con ventana acoplable**
+**Usar Docker**
 
 ```
 docker run -d --name homeassistant --privileged --restart=unless-stopped --network=host ghcr.io/home-assistant/home-assistant:stable

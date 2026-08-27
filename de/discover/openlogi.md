@@ -1,8 +1,8 @@
 # Open-Source-Management für Logitech-Geräte
 
-OpenLogi und alternative lokale Software und Code wurden jedoch für die Verwendung mit Logitech-Peripheriegeräten entwickelt. Um es unseren Benutzern zu ermöglichen, Tastenkombinationen, Empfindlichkeitskonfigurationen (DPI) und SmartShift-Rekursionen zu definieren, ist es notwendig, einen Inhalt zu erstellen oder Daten miteinander zu vergleichen.
+OpenLogi ist eine native Open-Source-Alternative zu Logitech Options+, die in Rust geschrieben wurde. Konfiguriert Tasten, DPI und SmartShift, ohne dass Kontoführung oder Telemetrie erforderlich sind.
 
-- ★ 15.122
+- ★ 17.011
 - Rust
 - GitHub Trending · 2026-08-20
 

@@ -13,7 +13,7 @@ Crawl4AI; é um rastreador e raspador da web de código aberto otimizado para mo
 - É rápido e de código aberto.
 
 ## Instalação
-**via pip (PyPI)**
+**com pip (PyPI)**
 
 ```
 pip install crawl4ai
@@ -21,7 +21,7 @@ pip install crawl4ai
 
 
 ## Execução
-****
+**Rastrear página web e preparar para IA**
 
 ```
 crawl4ai-download

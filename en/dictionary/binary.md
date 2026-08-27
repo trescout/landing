@@ -26,6 +26,7 @@ Because distinguishing two states (voltage present/absent) in electronic circuit
 ## Related tools
 - [Protobuf](/en/discover/protobuf/)
 - [OfficeCLI](/en/discover/officecli/)
+- [Hister](/en/discover/hister/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/binary/

@@ -2,8 +2,6 @@
 
 Hermes WebUI , Hermes AI ajanlarını web tarayıcısı veya mobil cihazlar üzerinden yönetmenizi sağlayan bir arayüzdür. Ajan etkileşimlerini tek bir merkezden takip edip kontrol etmenize olanak tanır.
 
-_Görsel: Hermes WebUI (proje deposundan)_
-
 - ★ 17.366
 - Python
 - MIT
@@ -24,11 +22,9 @@ _Görsel: Hermes WebUI (proje deposundan)_
 - Tüm etkileşimleri merkezi bir noktadan izleyin.
 - Sade ve kullanıcı dostu arayüzün keyfini çıkarın.
 
-## Nasıl kurulur, nasıl kullanılır?
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Hermes WebUI'yi kur: 'git clone https://github.com/nesquena/hermes-webui.git hermes-webui' ile indir, dizine gir ve 'python3 bootstrap.py' komutunu çalıştır; ardından açılan tarayıcıdaki arayüzden Hermes ajanını kullan.
+## Kurulum
 
-**Klonla ve bootstrap çalıştır**
+**Resmî depoyu klonla ve başlat**
 
 ```
 git clone https://github.com/nesquena/hermes-webui.git hermes-webui
@@ -36,11 +32,19 @@ cd hermes-webui
 python3 bootstrap.py
 ```
 
-**Başlatma betiğiyle çalıştır**
+## Çalıştırma
+
+**Sunucuyu başlat**
 
 ```
 ./start.sh
 ```
+
+Kaynak: Resmî kaynak: https://github.com/nesquena/hermes-webui
+
+## Nasıl kurulur, nasıl kullanılır?
+🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Hermes WebUI'yi kur: 'git clone https://github.com/nesquena/hermes-webui.git hermes-webui' ile indir, dizine gir ve 'python3 bootstrap.py' komutunu çalıştır; ardından açılan tarayıcıdaki arayüzden Hermes ajanını kullan.
 
 Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
 

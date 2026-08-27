@@ -2,7 +2,7 @@
 
 Claude Code Harness introduit la discipline de planifier, réaliser, réviser et livrer, freinant ainsi la tendance du travail brut des agents à s'effondrer. Cela empêche les plans de se perdre dans le chat, limite les tests et garantit une production de code plus cohérente. Bien que Claude soit centré sur le Code, il propose également des chemins d'intégration pour Codex et OpenCode.
 
-- ★ 3 070
+- ★ 3 071
 - Shell
 - MIT
 - GitHub Trending · 28 May 2026
@@ -13,7 +13,7 @@ Claude Code Harness introduit la discipline de planifier, réaliser, réviser et
 - Des résultats plus prévisibles et cohérents sont obtenus.
 
 ## Installation
-****
+**Global via npm**
 
 ```
 npm install -g claude-code-harness

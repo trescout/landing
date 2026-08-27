@@ -2,7 +2,7 @@
 
 Catch2 est un framework de tests unitaires moderne qui prend en charge C++14 et versions ultérieures. Il est conçu pour prendre en charge les pratiques de développement piloté par les tests (TDD) et de développement piloté par le comportement (BDD) dans les processus de développement logiciel.
 
-- ★ 21 404
+- ★ 21 444
 - C++
 - GitHub Trending · 2026-07-11
 

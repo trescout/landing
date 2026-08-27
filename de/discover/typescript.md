@@ -12,7 +12,7 @@ TypeScript, eine Obermenge der JavaScript-Sprache, ermöglicht die Fehlerprüfun
 - Skalierbare Softwareentwicklungsprozesse
 
 ## Installation
-**Globale Installation mit npm**
+**npm: global installieren**
 
 ```
 npm install -g typescript
@@ -26,7 +26,7 @@ npm install --save-dev typescript
 
 
 ## Ausführung
-**Kompilieren Sie die TypeScript-Datei**
+**TypeScript-Datei kompilieren**
 
 ```
 tsc index.ts

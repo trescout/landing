@@ -24,6 +24,7 @@ Parce que distinguer deux états (tension présente/absente) dans les circuits �
 ## Outils liés
 - [Protobuf](/fr/discover/protobuf/)
 - [OfficeCLI](/fr/discover/officecli/)
+- [Hister](/fr/discover/hister/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/binary/

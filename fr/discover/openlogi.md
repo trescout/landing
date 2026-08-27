@@ -1,8 +1,8 @@
 # Gestion open source pour les appareils Logitech
 
-OpenLogi, Logitech Options+ için Rust ile yazılmış, yerel öncelikli ve açık kaynaklı bir alternatiftir. Hesap veya telemetri gerektirmeden düğmeleri, DPI'ı ve SmartShift'i yapılandırır.
+OpenLogi est une alternative native et open source à Logitech Options+ écrite en Rust. Configure les boutons, le DPI et SmartShift sans nécessiter de comptabilité ou de télémétrie.
 
-- ★ 15 122
+- ★ 17 011
 - Rust
 - GitHub Trending · 2026-08-20
 

@@ -28,6 +28,7 @@ Sim, requer administração básica de servidor e conhecimento de rede.
 - [Data Pipeline](/pt/dictionary/data-pipeline/)
 
 ## Ferramentas relacionadas
+- [N8n](/pt/discover/n8n/)
 - [Penpot](/pt/discover/penpot/)
 - [Plane](/pt/discover/plane/)
 - [Twenty](/pt/discover/twenty/)

@@ -29,11 +29,12 @@ Realiza bien la mayoría de las tareas estándar, pero aún requiere control hum
 - [Agentic AI](/es/dictionary/agentic-ai/)
 
 ## Herramientas relacionadas
+- [Andrej Karpathy Skills](/es/discover/andrej-karpathy-skills/)
 - [Opencode](/es/discover/opencode/)
 - [Openinterpreter](/es/discover/openinterpreter/)
 - [Continue](/es/discover/continue/)
-- [Kilocode](/es/discover/kilocode/)
 - [Oh My Pi](/es/discover/oh-my-pi/)
+- [Kilocode](/es/discover/kilocode/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/coding-agent/

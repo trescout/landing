@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>RuView · Discover · TreScout</title>
-<meta name="description" content="RuView is a sensing platform that uses WiFi Channel State Information (CSI) to study environmental changes. It can run with ESP32 or research NIC hardware, while simulated data is available for evaluation without hardware.">
+<meta name="description" content="Open source platform for wireless sensing and signal analysis with WiFi CSI. · RuView · Explore this open-source project on TreScout.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/en/discover/ruview.md">
 <link rel="canonical" href="https://trescout.com/en/discover/ruview/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/ruview/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/ruview/">
 <meta property="og:title" content="RuView">
-<meta property="og:description" content="RuView is a sensing platform that uses WiFi Channel State Information (CSI) to study environmental changes. It can run with ESP32 or research NIC hardware, while simulated data is available for evaluation without hardware.">
+<meta property="og:description" content="Open source platform for wireless sensing and signal analysis with WiFi CSI. · RuView · Explore this open-source project on TreScout.">
 <meta property="og:url" content="https://trescout.com/en/discover/ruview/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
@@ -27,7 +27,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="RuView">
-<meta name="twitter:description" content="RuView is a sensing platform that uses WiFi Channel State Information (CSI) to study environmental changes. It can run with ESP32 or research NIC hardware, while simulated data is available for evaluation without hardware.">
+<meta name="twitter:description" content="Open source platform for wireless sensing and signal analysis with WiFi CSI. · RuView · Explore this open-source project on TreScout.">
 <meta name="twitter:image" content="https://trescout.com/assets/discover/og/ruview-en.webp">
 <script type="application/ld+json">
 {
@@ -67,8 +67,10 @@
 <div class="disc-top"><span class="disc-eyebrow">Discover · GitHub · RuView</span></div>
 <h1 class="disc-title">Wireless Sensing with WiFi Signals</h1>
 <p class="disc-lead">RuView is a sensing platform that uses WiFi Channel State Information (CSI) to study environmental changes. It can run with ESP32 or research NIC hardware, while simulated data is available for evaluation without hardware.</p>
-<ul class="disc-meta"><li>★ 91,322</li><li>GitHub Trending · 2026-05-30</li></ul>
-      <section class="disc-sec disc-updates"><h2>Updates</h2><ul class="disc-update-list"><li><strong>August 23, 2026:</strong> Stars 90,995 → 91,322, latest release v2331 (August 22, 2026).</li><li><strong>August 20, 2026:</strong> Stars 90,940 → 90,995, latest release v2301 (August 19, 2026).</li><li><strong>August 19, 2026:</strong> Stars 90,838 → 90,940, latest release v2297 (August 19, 2026).</li><li><strong>August 19, 2026:</strong> Stars 90,395 → 90,838, latest release v2288 (August 19, 2026).</li></ul></section>
+<ul class="disc-meta"><li>★ 91,805</li><li>GitHub Trending · 2026-05-30</li></ul>
+      <section class="disc-sec disc-updates"><h2>Updates</h2><ul class="disc-update-list"><li><strong>August 27, 2026:</strong> Stars 91,322 → 91,805, latest release v2390 (August 26, 2026).</li><li><strong>August 23, 2026:</strong> Stars 90,995 → 91,322, latest release v2331 (August 22, 2026).</li><li><strong>August 20, 2026:</strong> Stars 90,940 → 90,995, latest release v2301 (August 19, 2026).</li><li><strong>August 19, 2026:</strong> Stars 90,838 → 90,940, latest release v2297 (August 19, 2026).</li></ul></section>
+      <section class="disc-sec"><h2>Installation</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Pull the Docker image</span><button type="button" class="disc-copy" aria-label="Copy command">Copy</button></div><pre><code>docker pull ruvnet/wifi-densepose:latest</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Clone the source code</span><button type="button" class="disc-copy" aria-label="Copy command">Copy</button></div><pre><code>git clone https://github.com/ruvnet/RuView.git</code></pre></div></section>
+      <section class="disc-sec"><h2>Running it</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Demo server without hardware</span><button type="button" class="disc-copy" aria-label="Copy command">Copy</button></div><pre><code>docker run -p 3000:3000 ruvnet/wifi-densepose:latest</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Deterministic verification</span><button type="button" class="disc-copy" aria-label="Copy command">Copy</button></div><pre><code>./verify</code></pre></div></section>
       <section class="disc-sec"><h2>What does this tool do?</h2><p>RuView is an MIT-licensed platform for sensing experiments with WiFi Channel State Information. It can be installed with Docker or from source, and it can be evaluated with simulated data without hardware. Capabilities depend on the hardware mode: laptop RSSI-only sensing is for coarse presence and motion, while advanced sensing requires full CSI hardware.</p></section>
       <section class="disc-sec"><h2>Who it is for</h2><p>Researchers and developers who want to experiment with presence, motion or environmental sensing from WiFi signals.</p></section>
       <section class="disc-sec"><h2>What not to expect</h2><p>Medical monitoring claims or pose estimation expectations from a standard laptop in RSSI-only mode.</p></section>
@@ -76,12 +78,10 @@
       <section class="disc-sec"><h2>First-use flow</h2><ol class="disc-steps"><li>Prepare your environment with the Docker or source path in the official installation guides.</li><li>If you have no hardware, start by examining the simulated-data evaluation path.</li><li>Run the deterministic reference-signal check described in the build guide with `./verify`.</li><li>Choose the RSSI-only or full-CSI path according to your hardware.</li></ol></section>
       <section class="disc-sec"><h2>Safe start</h2><div class="disc-note">Laptop RSSI-only mode is intended for coarse presence and motion detection and does not provide pose support. Pose and some benchmark capabilities are documented as experimental, first-cut or limited; evaluate results according to the hardware mode you use.</div></section>
       <section class="disc-sec"><h2>First task prompt</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Copy prompt">Copy</button></div><p class="disc-ai-text">How can I evaluate a simple motion-detection scenario from WiFi CSI data using simulated data?</p></div></section>
-      <section class="disc-sec"><h2>Installation</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Pull the Docker image</span><button type="button" class="disc-copy" aria-label="Copy command">Copy</button></div><pre><code>docker pull ruvnet/wifi-densepose:latest</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Clone the source code</span><button type="button" class="disc-copy" aria-label="Copy command">Copy</button></div><pre><code>git clone https://github.com/ruvnet/RuView.git</code></pre></div></section>
-      <section class="disc-sec"><h2>Running it</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Demo server without hardware</span><button type="button" class="disc-copy" aria-label="Copy command">Copy</button></div><pre><code>docker run -p 3000:3000 ruvnet/wifi-densepose:latest</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Deterministic verification</span><button type="button" class="disc-copy" aria-label="Copy command">Copy</button></div><pre><code>./verify</code></pre></div></section>
-      <section class="disc-sec"><h2>Related dictionary terms</h2><div class="disc-related"><a href="/en/dictionary/wifi/">WiFi</a></div></section>
+      <section class="disc-sec"><h2>Related dictionary terms</h2><div class="disc-related"><a href="/en/dictionary/wifi/">WiFi</a><a href="/en/dictionary/benchmark/">Benchmark</a></div></section>
       <section class="disc-sec"><h2>Links</h2><ul class="disc-links"><li><a href="https://github.com/ruvnet/RuView" target="_blank" rel="noopener">GitHub repository →</a></li><li><a href="https://github.com/ruvnet/RuView" target="_blank" rel="noopener">Official RuView GitHub repository →</a></li><li><a href="https://github.com/ruvnet/RuView/blob/main/docs/user-guide.md" target="_blank" rel="noopener">RuView user guide →</a></li><li><a href="https://github.com/ruvnet/RuView/blob/main/docs/build-guide.md" target="_blank" rel="noopener">RuView build guide →</a></li><li><a href="https://trescout.com/discover/ruview/">Read in Turkish →</a></li></ul></section>
 <p class="disc-disclaimer">TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-05-30: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was <strong>machine-translated</strong> from the Turkish original · the Turkish version prevails.</p>
-<aside class="disc-cta"><p><strong>TreScout catches tools like this every day.</strong> GitHub, Hacker News and HuggingFace are scanned, the highlights are summarized for you.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-en" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/discover/">All discoveries →</a></aside>
+<aside class="disc-cta"><p><strong>Get similar discoveries in the daily report.</strong> TreScout scouts GitHub, Hacker News and HuggingFace trends daily, delivering curated summaries.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-en" data-page-type="discover" data-content-slug="ruview" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/discover/">All discoveries →</a></aside>
 </article>
 </main>
 <footer>
@@ -126,8 +126,6 @@
 </footer>
 <script src="/assets/discover.js" defer></script>
 <script src="/assets/subscribe.js" defer></script>
-  <script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>
-  <script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>
-  <script src="/assets/provider-consent.js" defer></script>
+<script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script><script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script><script src="/assets/telemetry.js" defer></script>
 </body>
 </html>

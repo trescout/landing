@@ -12,7 +12,7 @@ Codebase-memory-mcp bietet leistungsstarke Code-Intelligenz, indem es Codebasen 
 - Reduziert den Münzverbrauch um das bis zu 120-fache
 
 ## Installation
-****
+**npm: global**
 
 ```
 npm install -g codebase-memory-mcp

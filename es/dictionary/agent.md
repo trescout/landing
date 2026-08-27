@@ -30,13 +30,13 @@ Sí, pueden administrar sus archivos o ejecutar sus aplicaciones si les otorga l
 
 ## Herramientas relacionadas
 - [Hermes Agent](/es/discover/hermes-agent/)
+- [Andrej Karpathy Skills](/es/discover/andrej-karpathy-skills/)
 - [Opencode](/es/discover/opencode/)
 - [Awesome LLM Apps](/es/discover/awesome-llm-apps/)
+- [Ponytail](/es/discover/ponytail/)
 - [Agent Skills](/es/discover/agent-skills/)
 - [Taste Skill](/es/discover/taste-skill/)
 - [Agent-Reach](/es/discover/agent-reach/)
-- [Ansible](/es/discover/ansible/)
-- [Openinterpreter](/es/discover/openinterpreter/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/agent/

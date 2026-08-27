@@ -24,15 +24,19 @@ Scrapling , tek bir istekten geniş kapsamlı tarama işlerine kadar her ölçe�
 - Sayfa değişimlerine otomatik uyum sağlama.
 - Hızlı ve açık kaynaklı yapı.
 
-## Kurulum (tek komut)
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Scrapling adlı açık kaynaklı web kazıma kütüphanesini kurmama yardım et; 'pip install "scrapling[fetchers]"' ile yükleyip 'scrapling install' komutunu çalıştır, sonra 'scrapling extract get https://example.com content.md' komutuyla bir web sayfasının içeriğini Markdown dosyasına çıkaralım.
+## Kurulum
 
-**Python (pip)**
+**pip ile (PyPI)**
 
 ```
 pip install scrapling
 ```
+
+Kaynak: Resmî kaynak: https://github.com/D4Vinci/Scrapling
+
+## Kurulum (tek komut)
+🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Scrapling adlı açık kaynaklı web kazıma kütüphanesini kurmama yardım et; 'pip install "scrapling[fetchers]"' ile yükleyip 'scrapling install' komutunu çalıştır, sonra 'scrapling extract get https://example.com content.md' komutuyla bir web sayfasının içeriğini Markdown dosyasına çıkaralım.
 
 Lisans: BSD-3-Clause · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (telif bildirimini koruyun).
 

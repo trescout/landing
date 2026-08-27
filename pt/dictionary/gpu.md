@@ -35,9 +35,9 @@ Sim, mas os usados ​​para IA costumam ser modelos profissionais equipados co
 - [Olmocr](/pt/discover/olmocr/)
 - [Ktransformers](/pt/discover/ktransformers/)
 - [Cupy](/pt/discover/cupy/)
+- [Needle](/pt/discover/needle/)
 - [Train LLM from Scratch](/pt/discover/train-llm-from-scratch/)
 - [Terax AI](/pt/discover/terax-ai/)
-- [Needle](/pt/discover/needle/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/gpu/

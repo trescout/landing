@@ -1,18 +1,18 @@
-# Yapay zekâ görsel üretimi için şablonlar
+# Templates for AI visual generation
 
-GPT-Image2, görsel oluşturma süreçlerini kod olarak tanımlayan (Prompt as Code) bir istem mühendisliği (prompt engineering) kütüphanesi. 470'ten fazla tersine mühendislik yapılmış örnek ve 20'den fazla endüstriyel şablon ile yapay zekâ modellerinden tutarlı sonuçlar almayı kolaylaştırıyor.
+GPT-Image2 is a prompt engineering library that defines image creation processes as code (Prompt as Code). With 470+ reverse engineered examples and 20+ industrial templates, it makes it easy to get consistent results from AI models.
 
-- ★ 14,719
+- ★ 22,435
 - JavaScript
 - GitHub Trending · 2026-08-24
 
 ## What you get
-- 500'den fazla tersine mühendislik yapılmış görsel istemi
-- 20'den fazla endüstriyel görsel oluşturma şablonu
-- Görsel süreçlerini kod olarak tanımlayan yapısal protokoller
+- 500+ reverse engineered visual prompts
+- 20+ industrial rendering templates
+- Structural protocols that describe visual processes as code
 
 ## Installation
-**Tüm stilleri bilgisayara yükleme**
+**Install all styles on computer**
 
 ```
 npx gpt-image-2-style-library install all
@@ -28,7 +28,7 @@ npx skills add freestylefly/awesome-gpt-image-2 --skill gpt-image-2-style-librar
 
 
 ## If you don't write code
-Sen bir görsel istem mühendisisin. Awesome GPT Image 2 kütüphanesindeki yapısal protokolleri kullanarak, belirttiğim görsel konusunu; ışıklandırma, malzeme, düzen ve görsel detaylar gibi atomik parçalara ayır. Ürettiğin istemin yapay zekâ modelleri tarafından tutarlı ve kontrol edilebilir sonuçlar vermesini sağla.
+You are a visual prompt engineer. Using the structural protocols in the Awesome GPT Image 2 library, the image subject I specified; Break it down into atomic parts like lighting, materials, layout and visual details. Ensure that the request you produce gives consistent and controllable results by artificial intelligence models.
 
 ## Related dictionary terms
 

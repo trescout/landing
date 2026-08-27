@@ -8,7 +8,7 @@ Haben Sie eine Codebasis mit 200.000 Zeilen oder ein riesiges Dokumentenarchiv, 
 - GitHub Trending · 26 May 2026
 
 ## Installation
-****
+**Claude Code-Plugin hinzufügen**
 
 ```
 /plugin marketplace add Lum1104/Understand-Anything
@@ -17,7 +17,7 @@ Haben Sie eine Codebasis mit 200.000 Zeilen oder ein riesiges Dokumentenarchiv, 
 
 
 ## Ausführung
-****
+**Codebasis analysieren**
 
 ```
 /understand

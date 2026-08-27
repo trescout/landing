@@ -2,7 +2,7 @@
 
 Catch2 es un marco de prueba unitario moderno que admite C++ 14 y versiones posteriores. Está diseñado para soportar prácticas de desarrollo basado en pruebas (TDD) y desarrollo basado en comportamiento (BDD) en procesos de desarrollo de software.
 
-- ★ 21.404
+- ★ 21.444
 - C++
 - GitHub Trending · 2026-07-11
 
@@ -12,7 +12,7 @@ Catch2 es un marco de prueba unitario moderno que admite C++ 14 y versiones post
 - Incluye funciones esenciales de microevaluación comparativa
 
 ## Instalación
-**macOS (hecho en casa)**
+**macOS (Homebrew)**
 
 ```
 brew install catch2

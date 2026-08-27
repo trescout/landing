@@ -1,8 +1,8 @@
 # Transforme seu histórico de localização em vídeo em movimento
 
-Google Timeline Visualizer, Google Konum Geçmişi verilerinizle bir yıllık seyahatlerinizi görselleştirir.
+O Google Timeline Visualizer visualiza um ano de suas viagens com os dados do Histórico de localização do Google.
 
-- ★ 2.712
+- ★ 2.871
 - Kotlin
 - GitHub Trending · 2026-08-20
 

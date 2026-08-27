@@ -28,8 +28,13 @@ As máquinas virtuais carregam seus próprios sistemas operacionais, enquanto os
 - [Deployment](/pt/dictionary/deployment/)
 
 ## Ferramentas relacionadas
+- [N8n](/pt/discover/n8n/)
 - [Core](/pt/discover/core/)
+- [Stirling-PDF](/pt/discover/stirling-pdf/)
 - [Container](/pt/discover/container/)
+- [Mattermost](/pt/discover/mattermost/)
+- [Keycloak](/pt/discover/keycloak/)
+- [PPF Contact Solver](/pt/discover/ppf-contact-solver/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/container/

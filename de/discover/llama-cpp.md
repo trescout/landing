@@ -2,7 +2,7 @@
 
 Llama.cpp ist eine C- und C++-basierte Inferenzbibliothek, die die effiziente Ausführung großer Sprachmodelle auf Standardhardware ermöglicht. Die Software erleichtert durch ihren geringen Speicherverbrauch und ihre hochleistungsorientierte Struktur die Ausführung von Modellen der künstlichen Intelligenz auf lokalen Geräten.
 
-- ★ 125.068
+- ★ 125.883
 - C++
 - GitHub Trending · 2026-06-08
 
@@ -12,7 +12,7 @@ Llama.cpp ist eine C- und C++-basierte Inferenzbibliothek, die die effiziente Au
 - Erleichtert die Ausführung von KI-Modellen auf lokalen Geräten.
 
 ## Installation
-****
+**Quellcode klonen**
 
 ```
 git clone https://github.com/ggml-org/llama.cpp.git
@@ -21,7 +21,7 @@ cd llama.cpp
 
 
 ## Ausführung
-****
+**GGUF-Modell ausführen**
 
 ```
 llama-cli -m my_model.gguf

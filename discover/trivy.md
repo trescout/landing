@@ -11,13 +11,29 @@ Trivy, konteynerler, Kubernetes kümeleri ve bulut altyapılarındaki güvenlik 
 - Yazılım bağımlılıklarını ve hatalı yapılandırmaları denetler.
 - Gizli anahtarları ve hassas bilgileri tarayarak sızıntıları önler.
 
+## Kurulum
+
+**macOS (Homebrew)**
+
+```
+brew install trivy
+```
+
+**Windows (winget)**
+
+```
+winget install AquaSecurity.Trivy
+```
+
 ## Çalıştırma
 
-**Python imajını tarama**
+**Konteyner imajını tara**
 
 ```
-trivy image python:3.4-alpine
+trivy image imaj-adi:etiket
 ```
+
+Kaynak: Resmî kaynak: https://github.com/aquasecurity/trivy
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 

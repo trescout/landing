@@ -20,13 +20,13 @@ brew install --cask flutter
 
 
 ## Ausführung
-**Überprüfen Sie die Umgebungskontrollen**
+**Umgebungskontrollen überprüfen**
 
 ```
 flutter doctor
 ```
 
-**Neues Projekt erstellen und ausführen**
+**Neues Projekt erstellen und starten**
 
 ```
 flutter create my_app

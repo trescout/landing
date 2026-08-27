@@ -35,11 +35,11 @@ Non, si vos documents sont stockés sur votre propre ordinateur ou serveur, ils 
 - [MarkItDown](/fr/discover/markitdown/)
 - [Awesome LLM Apps](/fr/discover/awesome-llm-apps/)
 - [Ragflow](/fr/discover/ragflow/)
-- [Ruflo](/fr/discover/ruflo/)
 - [AI Agent Book](/fr/discover/ai-agent-book/)
 - [DeepTutor](/fr/discover/deeptutor/)
 - [OpenViking](/fr/discover/openviking/)
 - [Opendataloader PDF](/fr/discover/opendataloader-pdf/)
+- [Turbovec](/fr/discover/turbovec/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/rag/

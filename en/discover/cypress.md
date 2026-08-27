@@ -2,7 +2,7 @@
 
 Cypress is an automation framework that accelerates and facilitates end-to-end testing processes for browser-based applications. Developed with TypeScript, this tool offers developers rapid debugging and test management to increase the reliability of web applications.
 
-- ★ 50,980
+- ★ 51,004
 - TypeScript
 - GitHub Trending · 2026-06-15
 
@@ -12,7 +12,7 @@ Cypress is an automation framework that accelerates and facilitates end-to-end t
 - It provides end-to-end testing to increase the reliability of web applications.
 
 ## Installation
-****
+**Add with npm**
 
 ```
 npm install cypress --save-dev
@@ -20,7 +20,7 @@ npm install cypress --save-dev
 
 
 ## Running it
-****
+**Open Cypress UI**
 
 ```
 npx cypress open

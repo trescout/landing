@@ -2,7 +2,7 @@
 
 Mattermost est une plateforme open source conçue pour permettre une collaboration sécurisée tout au long du cycle de vie du développement logiciel. Il permet aux équipes logicielles de gérer leurs processus de communication via une structure centrale.
 
-- ★ 38 812
+- ★ 38 913
 - GitHub Trending · 2026-06-12
 
 ## Ce que ça vous apporte
@@ -11,7 +11,7 @@ Mattermost est une plateforme open source conçue pour permettre une collaborati
 - Augmente l’efficacité grâce à l’intégration de l’intelligence artificielle
 
 ## Installation
-****
+**Démarrer le conteneur de prévisualisation local**
 
 ```
 docker run --name mattermost-preview -d --publish 127.0.0.1:8065:8065 mattermost/mattermost-preview
@@ -19,7 +19,7 @@ docker run --name mattermost-preview -d --publish 127.0.0.1:8065:8065 mattermost
 
 
 ## Exécution
-****
+**Accéder à l'interface locale**
 
 ```
 http://localhost:8065

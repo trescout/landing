@@ -2,12 +2,20 @@
 
 PPF Contact Solver , ZOZO'nun fizik motoru olarak fizik tabanlı simülasyonlarda kumaş, katı ve ip arasındaki temasları çözümlemek için tasarlanmıştır. Farklı geometrilerin etkileşimini hesaplayarak simülasyonlarda fiziksel tutarlılığı artırır. Blender eklentisi sayesinde uzaktan da çalıştırılabilir.
 
-_Görsel: ppf-contact-solver · ZOZO (proje deposundan)_
-
 - ★ 4.427
 - Python
 - Apache-2.0
 - GitHub Trending · 26 May 2026
+
+## Kurulum
+
+**GPU container’ını başlat**
+
+```
+docker run --rm -it --name ppf-contact-solver --gpus all -p 127.0.0.1:8080:8080 -p 127.0.0.1:9090:9090 -e WEB_PORT=8080 ghcr.io/st-tech/ppf-contact-solver-compiled:latest
+```
+
+Kaynak: Resmî kaynak: https://github.com/st-tech/ppf-contact-solver
 
 ## Güncelleme
 - 15 Ağustos 2026: Yıldız 4.404 → 4.427, son sürüm addon-2026-08-12-1733 (12 Ağustos 2026).
@@ -35,14 +43,6 @@ Bu bir son-kullanıcı uygulaması değil. Kullanmak için programlama ve fizik 
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 ZOZO'nun ppf-contact-solver fizik temas çözücüsünü Docker ile çalıştır (NVIDIA GPU gerekir): aşağıdaki docker komutunu çalıştır, sonra tarayıcıda http://localhost:8080 adresini açıp hazır JupyterLab örneklerini dene.
 
-**Docker ile başlat (NVIDIA GPU gerekir)**
-
-```
-docker run --rm -it --name ppf-contact-solver --gpus all \
--p 8080:8080 -p 9090:9090 -e WEB_PORT=8080 \
-ghcr.io/st-tech/ppf-contact-solver-compiled:latest
-```
-
 Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir).
 
 ## Bağlantılar
@@ -52,7 +52,7 @@ Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabi
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-GPU Open Source Artificial Intelligence
+Container GPU Open Source Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ppf-contact-solver/

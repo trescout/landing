@@ -12,7 +12,7 @@ Apache Maven é uma ferramenta de gerenciamento e compreensão de projetos (ferr
 - Gerencia processos de relatórios e documentação
 
 ## Instalação
-**macOS (homebrew)**
+**macOS (Homebrew)**
 
 ```
 brew install maven

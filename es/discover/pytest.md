@@ -12,7 +12,7 @@ Pytest es un marco de pruebas que admite una amplia gama de pruebas en proyectos
 - Se adapta fácilmente a diferentes necesidades con su amplio soporte enchufable y su estructura modular.
 
 ## Instalación
-**vía pip (PyPI)**
+**pip (PyPI)**
 
 ```
 pip install pytest
@@ -20,7 +20,7 @@ pip install pytest
 
 
 ## Ejecución
-****
+**Ejecutar pruebas**
 
 ```
 pytest

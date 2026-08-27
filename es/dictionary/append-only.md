@@ -1,25 +1,25 @@
 # ¿Qué es Append-only?
 
-Verilerin sadece sona eklenebildiği, değiştirilemediği veya silinemediği bir kayıt yöntemidir.
+Es un método de grabación en el que los datos sólo se pueden agregar, no se pueden cambiar ni eliminar.
 
 ## Definición
-Bir veri tabanına veya dosyaya bilgi eklerken, eski verileri değiştirmek yerine her yeni bilgiyi listenin sonuna ekleme prensibidir. Bu yöntem, verinin geçmişini korumak ve güvenliğini sağlamak için kritiktir. Hiçbir veri silinmediği için sistemdeki tüm hareketlerin izini sürmek mümkündür.
+Al agregar información a una base de datos o archivo, el principio es agregar cada nueva información al final de la lista en lugar de reemplazar datos antiguos. Este método es fundamental para preservar el historial y la seguridad de los datos. Como no se elimina ningún dato, es posible rastrear todos los movimientos en el sistema.
 
 ## Cómo funciona
-Sistem, veriyi güncelleyen bir komut yerine sadece 'ekle' komutunu kabul eder. Bu sayede verinin tarihçesi her zaman korunmuş olur.
+El sistema sólo acepta un comando 'agregar' en lugar de un comando que actualice los datos. De esta forma, siempre se conserva el historial de los datos.
 
 ## Dónde se usa
-Blokzincir teknolojilerinde, günlük (log) tutma sistemlerinde ve denetlenebilir veri tabanlarında kullanılır.
+Se utiliza en tecnologías blockchain, sistemas de mantenimiento de registros y bases de datos auditables.
 
 ## Suele confundirse con
-Geleneksel veri tabanları ile karıştırılabilir; geleneksel olanlar veriyi güncelleyebilir, bu yöntem ise asla izin vermez.
+Puede confundirse con las bases de datos tradicionales; los tradicionales pueden actualizar los datos, este método nunca lo permite.
 
 ## Preguntas frecuentes
 **¿Qué pasa si cometo un error?**
-Hatalı veriyi silmek yerine, hatayı düzelten yeni bir kayıt daha eklersiniz.
+En lugar de eliminar los datos erróneos, agrega un nuevo registro que corrige el error.
 
-**Neden bu kadar güvenli?**
-Veri değiştirilemediği için geçmişe dönük manipülasyon yapmak imkansıza yakındır.
+**¿Por qué es tan seguro?**
+Como los datos no se pueden cambiar, es casi imposible manipular el pasado.
 
 
 ## Términos relacionados

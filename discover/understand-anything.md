@@ -2,8 +2,6 @@
 
 Karşınızda tanımadığınız 200.000 satırlık bir kod tabanı veya devasa bir doküman arşivi mi var? Understand Anything , tüm bu içeriği içine girip soru sorabileceğiniz bir haritaya dönüştürür. Claude Code, Codex, Antigravity ve Gemini CLI ile uyumlu çalışır.
 
-_Görsel: Understand Anything projesi · tara → haritala → öğret_
-
 - ★ 77.021
 
 - TypeScript
@@ -11,6 +9,25 @@ _Görsel: Understand Anything projesi · tara → haritala → öğret_
 - MIT
 
 - GitHub Trending · 26 May 2026
+
+## Kurulum
+
+**Claude Code eklentisi ekle**
+
+```
+/plugin marketplace add Lum1104/Understand-Anything
+/plugin install understand-anything
+```
+
+## Çalıştırma
+
+**Kod tabanını analiz et**
+
+```
+/understand
+```
+
+Kaynak: Resmî kaynak: https://github.com/Lum1104/Understand-Anything
 
 ## Güncelleme
 - 1 Ağustos 2026: Yıldız 35.132 → 77.021, son sürüm v2.9.0 (10 Temmuz 2026), depo taşındı, yeni adresi Egonex-AI/Understand-Anything.
@@ -64,19 +81,6 @@ Claude Code'da '/plugin marketplace add Lum1104/Understand-Anything' ve '/plugin
 Sıfır kurulum: önce [canlı demoyu](https://understand-anything.com/demo/) açıp gezin. Aracın ne yaptığını görmenin en hızlı yolu.
 
 Kendi dosyalarınızda kurmak için tek komut:
-
-**Claude Code**
-
-```
-/plugin marketplace add Lum1104/Understand-Anything
-/plugin install understand-anything
-```
-
-**Codex · Antigravity · Gemini CLI · Cursor…**
-
-```
-curl -fsSL https://raw.githubusercontent.com/Lum1104/Understand-Anything/main/install.sh | bash
-```
 
 Kurduktan sonra asistana dosyalarınızı işaret edip düz cümleyle sorun.
 

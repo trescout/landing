@@ -11,13 +11,13 @@ Développé avec le langage Rust, SWC offre une plateforme de compilation et de 
 - Accélère les processus de développement Web modernes
 
 ## Installation
-**Dépendance du projet (npm)**
+**Dépendances du projet (npm)**
 
 ```
 npm i -D @swc/core
 ```
 
-****
+**Global via npm**
 
 ```
 npm install -g @swc/cli @swc/core
@@ -25,7 +25,7 @@ npm install -g @swc/cli @swc/core
 
 
 ## Exécution
-**Compiler le fichier TypeScript**
+**Compiler TypeScript**
 
 ```
 swc index.ts -o index.js

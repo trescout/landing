@@ -2,7 +2,7 @@
 
 Liteparse (run-llama); is an open source document parser written in Rust to parse documents quickly and efficiently. It facilitates AI and RAG processes by making complex document structures processable.
 
-- ★ 12,102
+- ★ 12,179
 - Rust
 - Apache-2.0
 - GitHub Trending · 30 May 2026
@@ -13,7 +13,7 @@ Liteparse (run-llama); is an open source document parser written in Rust to pars
 - Fully compatible with AI and RAG pipelines.
 
 ## Installation
-**via pip (PyPI)**
+**Using pip (PyPI)**
 
 ```
 pip install liteparse

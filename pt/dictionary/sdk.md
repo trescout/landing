@@ -30,7 +30,6 @@ Pode ser escrito, mas é preciso codificar tudo do zero, o que leva muito tempo.
 - [Bindings](/pt/dictionary/bindings/)
 
 ## Ferramentas relacionadas
-- [Supermemory](/pt/discover/supermemory/)
 - [Opendataloader PDF](/pt/discover/opendataloader-pdf/)
 - [CUA](/pt/discover/cua/)
 - [iii](/pt/discover/iii/)
@@ -38,6 +37,7 @@ Pode ser escrito, mas é preciso codificar tudo do zero, o que leva muito tempo.
 - [CubeSandbox](/pt/discover/cubesandbox/)
 - [Copilot SDK](/pt/discover/copilot-sdk/)
 - [U3 SDK](/pt/discover/u3-sdk/)
+- [Sharpemu](/pt/discover/sharpemu/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/sdk/

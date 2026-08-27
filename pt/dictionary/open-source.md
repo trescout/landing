@@ -30,10 +30,10 @@ Sim, mas a inclusão de alterações no projeto principal geralmente depende da 
 ## Ferramentas relacionadas
 - [Superpowers](/pt/discover/superpowers/)
 - [ECC](/pt/discover/ecc/)
+- [N8n](/pt/discover/n8n/)
 - [MarkItDown](/pt/discover/markitdown/)
 - [Claude Code](/pt/discover/claude-code/)
 - [MoneyPrinterTurbo](/pt/discover/moneyprinterturbo/)
-- [RuView](/pt/discover/ruview/)
 - [claude-mem](/pt/discover/claude-mem/)
 - [Opencv](/pt/discover/opencv/)
 

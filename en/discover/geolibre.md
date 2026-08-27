@@ -12,7 +12,7 @@ GeoLibre is a lightweight, cloud-based geographic information system (GIS) platf
 - Local and confidential data processing
 
 ## Installation
-**via pip (PyPI)**
+**Using pip (PyPI)**
 
 ```
 pip install GeoLibre

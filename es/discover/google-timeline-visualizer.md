@@ -1,8 +1,8 @@
 # Convierte tu historial de ubicaciones en vídeo en movimiento
 
-El Google Timeline Visualizer, que visualiza los datos históricos de localización de Google, permite analizar rutas de viaje a lo largo del año en un mapa. Desarrollado con el lenguaje Kotlin, esta herramienta crea resultados de personas que viajan convirtiendo datos históricos de localización en gráficos significativos.
+Google Timeline Visualizer visualiza los viajes de un año con los datos del historial de ubicaciones de Google.
 
-- ★ 2.712
+- ★ 2.871
 - Kotlin
 - GitHub Trending · 2026-08-20
 

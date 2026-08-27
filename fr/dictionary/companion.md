@@ -29,6 +29,7 @@ Oui, aujourd’hui, vous pouvez créer votre ami personnel en matière d’intel
 
 ## Outils liés
 - [AIRI](/fr/discover/airi/)
+- [Invidious](/fr/discover/invidious/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/companion/

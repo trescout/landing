@@ -14,7 +14,7 @@ ECC; Claude Code ist ein umfassendes System, das Fähigkeiten, Instinkte, Speich
 - Es ist nicht auf ein einzelnes Tool beschränkt, sondern funktioniert kompatibel mit mehreren Umgebungen (Claude Code, Codex, Cursor…).
 
 ## Installation
-****
+**Plugin mit Claude Code hinzufügen**
 
 ```
 /plugin marketplace add https://github.com/affaan-m/ECC
@@ -23,7 +23,7 @@ ECC; Claude Code ist ein umfassendes System, das Fähigkeiten, Instinkte, Speich
 
 
 ## Ausführung
-**Führen Sie einen Sicherheitsscan durch**
+**Sicherheitsscan ausführen**
 
 ```
 /security-scan

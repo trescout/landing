@@ -2,7 +2,7 @@
 
 Desenvolvido pela HashiCorp, o Terraform define infraestrutura como código, permitindo que ela seja criada de forma segura e previsível. Escrita na linguagem Go, esta ferramenta converte interfaces de programação de aplicativos (APIs) em arquivos de configuração declarativos, permitindo que as equipes gerenciem processos de infraestrutura sob controle de versão.
 
-- ★ 49.487
+- ★ 49.546
 - Go
 - GitHub Trending · 2026-07-11
 
@@ -18,7 +18,7 @@ Desenvolvido pela HashiCorp, o Terraform define infraestrutura como código, per
 brew tap hashicorp/tap
 ```
 
-**macOS (homebrew)**
+**macOS (Homebrew)**
 
 ```
 brew install hashicorp/tap/terraform
@@ -32,7 +32,7 @@ docker pull hashicorp/terraform
 
 
 ## Execução
-**Verifique a versão**
+**Verificar versão**
 
 ```
 terraform -version

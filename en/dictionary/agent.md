@@ -32,13 +32,13 @@ Yes, they can manage your files or run your applications if you give them the ne
 
 ## Related tools
 - [Hermes Agent](/en/discover/hermes-agent/)
+- [Andrej Karpathy Skills](/en/discover/andrej-karpathy-skills/)
 - [Opencode](/en/discover/opencode/)
 - [Awesome LLM Apps](/en/discover/awesome-llm-apps/)
+- [Ponytail](/en/discover/ponytail/)
 - [Agent Skills](/en/discover/agent-skills/)
 - [Taste Skill](/en/discover/taste-skill/)
 - [Agent-Reach](/en/discover/agent-reach/)
-- [Ansible](/en/discover/ansible/)
-- [Openinterpreter](/en/discover/openinterpreter/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/agent/

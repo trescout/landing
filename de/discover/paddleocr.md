@@ -11,7 +11,7 @@ PaddleOCR wurde von PaddlePaddle entwickelt und ist ein leichtes optisches Zeich
 - Bietet hohe Genauigkeit bei geringem Ressourcenverbrauch
 
 ## Installation
-**Python (Pip)**
+**Python (pip)**
 
 ```
 pip install paddleocr

@@ -31,6 +31,7 @@ They are typically created and managed using tools like Docker.
 
 ## Related tools
 - [Container](/en/discover/container/)
+- [Keycloak](/en/discover/keycloak/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/containers/

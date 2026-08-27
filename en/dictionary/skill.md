@@ -39,7 +39,6 @@ Usually, API connections or special code blocks are written to enable the assist
 - [OfficeCLI](/en/discover/officecli/)
 - [Reverse Skill](/en/discover/reverse-skill/)
 - [Book to Skill](/en/discover/book-to-skill/)
-- [I Have Adhd](/en/discover/i-have-adhd/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/skill/

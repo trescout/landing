@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Maka · Descubrir · TreScout</title>
-<meta name="description" content="Apache Maka es un espacio de trabajo local para agentes de IA que guarda mensajes de modelos, interacciones con herramientas, decisiones de permisos y eventos de finalización en un registro de solo adición.">
+<meta name="description" content="Apache Maka is a local-first AI agent workspace that stores model messages, tool interactions, permission decisions, and termination events in an append-only log.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/es/discover/maka.md">
 <link rel="canonical" href="https://trescout.com/es/discover/maka/">
@@ -16,17 +16,18 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/maka/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/maka/">
 <meta property="og:title" content="Maka">
-<meta property="og:description" content="Apache Maka es un espacio de trabajo local para agentes de IA que guarda mensajes de modelos, interacciones con herramientas, decisiones de permisos y eventos de finalización en un registro de solo adición.">
+<meta property="og:description" content="Apache Maka is a local-first AI agent workspace that stores model messages, tool interactions, permission decisions, and termination events in an append-only log.">
 <meta property="og:url" content="https://trescout.com/es/discover/maka/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="es_ES">
 <meta property="og:image" content="https://trescout.com/assets/discover/og/maka-es.webp">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Maka">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Maka">
-<meta name="twitter:description" content="Apache Maka es un espacio de trabajo local para agentes de IA que guarda mensajes de modelos, interacciones con herramientas, decisiones de permisos y eventos de finalización en un registro de solo adición.">
+<meta name="twitter:description" content="Apache Maka is a local-first AI agent workspace that stores model messages, tool interactions, permission decisions, and termination events in an append-only log.">
 <meta name="twitter:image" content="https://trescout.com/assets/discover/og/maka-es.webp">
 <script type="application/ld+json">
 {
@@ -34,7 +35,7 @@
   "@type": "Article",
   "headline": "Espacio de trabajo local para agentes de IA",
   "inLanguage": "es",
-  "description": "Apache Maka es un espacio de trabajo local para agentes de IA que guarda mensajes de modelos, interacciones con herramientas, decisiones de permisos y eventos de finalización en un registro de solo adición.",
+  "description": "Apache Maka es un espacio de trabajo de agente de IA local que mantiene mensajes modelo, interacciones de herramientas, decisiones de consentimiento y eventos de terminación en un registro que solo se puede agregar a registros nuevos.",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -56,8 +57,6 @@
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
-
-<meta property="og:image:alt" content="Maka">
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
@@ -67,9 +66,9 @@
 <a class="disc-back" href="/es/discover/">← Descubrir</a>
 <div class="disc-top"><span class="disc-eyebrow">Descubrir · GitHub · Maka</span></div>
 <h1 class="disc-title">Espacio de trabajo local para agentes de IA</h1>
-<p class="disc-lead">Apache Maka es un espacio de trabajo local para agentes de IA que guarda mensajes de modelos, interacciones con herramientas, decisiones de permisos y eventos de finalización en un registro de solo adición.</p>
-<ul class="disc-meta"><li>★ 2.064</li><li>TypeScript</li><li>GitHub Trending · 2026-08-22</li></ul>
-      <section class="disc-sec disc-updates"><h2>Actualizaciones</h2><ul class="disc-update-list"><li><strong>22 de agosto de 2026:</strong> Estrellas 2,062 → 2,064, última versión v0.1.11 (18 de agosto de 2026).</li></ul></section>
+<p class="disc-lead">Apache Maka es un espacio de trabajo de agente de IA local que mantiene mensajes modelo, interacciones de herramientas, decisiones de consentimiento y eventos de terminación en un registro que solo se puede agregar a registros nuevos.</p>
+<ul class="disc-meta"><li>★ 3.701</li><li>TypeScript</li><li>GitHub Trending · 2026-08-22</li></ul>
+      <section class="disc-sec disc-updates"><h2>Actualizaciones</h2><ul class="disc-update-list"><li><strong>27 de agosto de 2026:</strong> Estrellas 2,064 → 3,701, última versión v0.1.11 (18 de agosto de 2026).</li><li><strong>22 de agosto de 2026:</strong> Estrellas 2,062 → 2,064, última versión v0.1.11 (18 de agosto de 2026).</li></ul></section>
       <section class="disc-sec"><h2>Qué aporta</h2><ul class="disc-wins"><li>Almacena datos de forma segura en su computadora local</li><li>Registra el historial de transacciones y llamadas de vehículos.</li><li>Ofrece herramientas nativas como edición de archivos y ejecución de comandos.</li></ul></section>
       <section class="disc-sec"><h2>Instalación</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Iniciando el entorno de desarrollo</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>git clone https://github.com/apache/maka.git
 cd maka
@@ -77,16 +76,16 @@ npm ci
 npm run dev</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Crear todos los espacios de trabajo</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>npm run dev:full</code></pre></div></section>
       <section class="disc-sec"><h2>Ejecución</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Iniciar la interfaz del terminal</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>npm run cli:dev</code></pre></div></section>
       <section class="disc-sec"><h2>Si no programa</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Copiar instrucción">Copiar</button></div><p class="disc-ai-text">En el espacio de trabajo de Maka, necesitas analizar un proyecto, organizar los archivos usando las herramientas necesarias y mantener todas tus acciones en un registro rastreable. Controle los permisos en todo su flujo de trabajo, conserve los mensajes del modelo y administre el proceso de manera recuperable en caso de errores.</p></div></section>
-      <section class="disc-sec"><h2>Términos relacionados del glosario</h2><div class="disc-related"><a href="/es/dictionary/local/">Local</a><a href="/es/dictionary/terminal/">Terminal</a><a href="/es/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
+      <section class="disc-sec"><h2>Términos relacionados del glosario</h2><div class="disc-related"><a href="/es/dictionary/terminal/">Terminal</a><a href="/es/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
       <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Para quién es</span><span class="disc-fact-v">Es adecuado para desarrolladores de software y desarrolladores de agentes de inteligencia artificial que desean gestionar sus proyectos localmente con control total sobre sus datos.</span></div><div class="disc-fact"><span class="disc-fact-k">Licencia</span><span class="disc-fact-v">Apache-2.0</span></div></div>
       <section class="disc-sec"><h2>Enlaces</h2><ul class="disc-links"><li><a href="https://github.com/apache/maka" target="_blank" rel="noopener">Repositorio en GitHub →</a></li><li><a href="https://trescout.com/discover/maka/">Leer en turco →</a></li></ul></section>
 <p class="disc-disclaimer">TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-22: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se <strong>tradujo automáticamente</strong> del original en turco · prevalece la versión turca.</p>
-<aside class="disc-cta"><p><strong>TreScout encuentra herramientas como esta todos los días.</strong> Rastreamos GitHub, Hacker News y HuggingFace, y le resumimos lo esencial.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-es" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Su correo electrónico" autocomplete="email" required><button class="btn btn-primary" type="submit">Acceso anticipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>He leído el <a href="/es/privacy.html" target="_blank" rel="noopener">aviso de privacidad</a> y acepto que mi correo se trate con esta finalidad.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/es/discover/">Todos los descubrimientos →</a></aside>
+<aside class="disc-cta"><p><strong>Reciba descubrimientos similares en el informe diario.</strong> TreScout rastrea GitHub, Hacker News y HuggingFace cada día y le resume lo esencial.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-es" data-page-type="discover" data-content-slug="maka" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Su correo electrónico" autocomplete="email" required><button class="btn btn-primary" type="submit">Acceso anticipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>He leído el <a href="/es/privacy.html" target="_blank" rel="noopener">aviso de privacidad</a> y acepto que mi correo se trate con esta finalidad.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/es/discover/">Todos los descubrimientos →</a></aside>
 </article>
 </main>
 <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">TreScout rastrea, resume y entrega. Usted solo lee.</p></div><div class="footer-col"><div class="footer-col-title">Producto</div><ul><li><a href="/es/discover/">Descubrir</a></li><li><a href="/es/dictionary/">Glosario</a></li><li><a href="/es/reports/">Archivo de informes</a></li><li><a href="/es/compare/rss-vs-ai/">Comparar</a></li><li><a href="/es/#top">Acceso anticipado</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Contacto</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/es/privacy.html" target="_blank" rel="noopener">Aviso de privacidad</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Redes</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Todos los derechos reservados.</span></div></div></footer>
 <script src="/assets/discover.js" defer></script>
 <script src="/assets/subscribe.js" defer></script>
-<script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script><script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>  <script src="/assets/provider-consent.js" defer></script>
+<script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script><script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script><script src="/assets/telemetry.js" defer></script>
 </body>
 </html>

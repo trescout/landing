@@ -2,7 +2,7 @@
 
 Claude Code; Il s'agit d'un outil de codage basé sur un agent qui réside dans votre terminal et possède une compréhension approfondie de votre base de code. Il accélère votre processus de développement en lisant les fichiers, en apportant des modifications et en exécutant des tests avec des commandes en langage naturel. (Vous pouvez utiliser de nombreux outils de cette page avec.)
 
-- ★ 142 599
+- ★ 143 151
 - Anthropic ürünü
 - Açık kaynak değil
 - GitHub Trending · 30 May 2026
@@ -13,7 +13,7 @@ Claude Code; Il s'agit d'un outil de codage basé sur un agent qui réside dans 
 - De nombreuses compétences et plugins de ce catalogue sont utilisés avec.
 
 ## Installation
-**installation globale avec npm**
+**Installation globale avec npm**
 
 ```
 npm install -g @anthropic-ai/claude-code
@@ -21,7 +21,7 @@ npm install -g @anthropic-ai/claude-code
 
 
 ## Exécution
-****
+**Lancer Claude Code dans le terminal**
 
 ```
 claude

@@ -2,7 +2,7 @@
 
 Microsoft PowerToys, Windows işletim sisteminde verimliliği ve kişiselleştirmeyi artırmak amacıyla geliştirilen bir yardımcı yazılım koleksiyonudur. Kullanıcılara sistem üzerinde gelişmiş özelleştirme araçları ve iş akışı optimizasyonları sunar.
 
-- ★ 137.392
+- ★ 138.154
 - GitHub Trending · 2026-06-13
 
 TreScout notu: Tek bir program değil, Windows'a eklenen küçük araçlar paketi. Çoğu kişi ikisi için kuruyor: Pencereleri ekrana ızgara düzeninde yerleştiren araç ve klavyeden hızlı arama. Şirket bilgisayarında kurulum yönetici izni isteyebilir.
@@ -10,6 +10,7 @@ TreScout notu: Tek bir program değil, Windows'a eklenen küçük araçlar paket
 _Kaynak: github.com/microsoft/PowerToys · MIT_
 
 ## Güncelleme
+- 27 Ağustos 2026: Yıldız 137.392 → 138.154, son sürüm v0.101.2362.0 (25 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 134.431 → 137.392, son sürüm v0.100.2 (26 Haziran 2026).
 
 ## Ne kazandırır?
@@ -25,7 +26,7 @@ _Kaynak: github.com/microsoft/PowerToys · MIT_
 winget install Microsoft.PowerToys
 ```
 
-Kaynak: Microsoft Learn (resmî)
+Kaynak: Resmî kaynak: https://github.com/microsoft/PowerToys
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 

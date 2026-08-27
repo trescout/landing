@@ -1,8 +1,8 @@
 # Auditoría de seguridad para su infraestructura de IA
 
-Desarrollado por Tencent, AI-Infra-Guard y una plataforma abragente de red teaming que protege ecosistemas de inteligencia artificial contra vulnerabilidades. sistema; Esta es una seguridad e infraestructura por medio de métodos como verificación de agentes, análisis de habilidades y evaluación de seguridad de grandes modelos de lenguaje.
+AI-Infra-Guard es una plataforma de equipo rojo de IA de extremo a extremo que escanea agentes, habilidades, MCP e infraestructura de IA, además de realizar evaluaciones de jailbreak LLM.
 
-- ★ 4.746
+- ★ 5.995
 - Python
 - GitHub Trending · 2026-08-20
 

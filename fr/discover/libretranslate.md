@@ -11,13 +11,13 @@ LibreTranslate propose une interface de traduction automatique (API) gratuite et
 - Utilisez un moteur de traduction entièrement open source et gratuit
 
 ## Installation
-**via pip (PyPI)**
+**Avec pip (PyPI)**
 
 ```
 pip install libretranslate
 ```
 
-**avec Docker**
+**Avec Docker**
 
 ```
 docker run -p 5000:5000 libretranslate/libretranslate

@@ -13,7 +13,7 @@ Crawl4AI; ist ein Open-Source-Webcrawler und -Scraper, der für große Sprachmod
 - Es ist schnell und Open Source.
 
 ## Installation
-**über Pip (PyPI)**
+**Mit pip (PyPI)**
 
 ```
 pip install crawl4ai
@@ -21,7 +21,7 @@ pip install crawl4ai
 
 
 ## Ausführung
-****
+**Webseite scannen und für KI vorbereiten**
 
 ```
 crawl4ai-download

@@ -8,7 +8,7 @@ Kronos é um modelo básico projetado para analisar os padrões únicos dos merc
 - GitHub Trending · 28 May 2026
 
 ## Instalação
-****
+**Clonar repositório oficial**
 
 ```
 git clone https://github.com/shiyu-coder/Kronos.git
@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 
 ## Execução
-****
+**Executar predição de exemplo**
 
 ```
 python examples/prediction_example.py

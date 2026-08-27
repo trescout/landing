@@ -12,7 +12,7 @@ AirLLM permite ejecutar modelos de lenguajes grandes con 70 mil millones de par�
 - Aumento de velocidad hasta 3 veces con compresión basada en bloques.
 
 ## Instalación
-**vía pip (PyPI)**
+**pip (PyPI)**
 
 ```
 pip install airllm

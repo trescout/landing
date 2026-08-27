@@ -31,6 +31,7 @@ Dabei handelt es sich um kleine unabhängige Verarbeitungseinheiten innerhalb ei
 - [Ktransformers](/de/discover/ktransformers/)
 - [Pocket TTS](/de/discover/pocket-tts/)
 - [Whichllm](/de/discover/whichllm/)
+- [Marin](/de/discover/marin/)
 - [Transcribe.cpp](/de/discover/transcribe-cpp/)
 - [Sharpemu](/de/discover/sharpemu/)
 

@@ -22,6 +22,25 @@ Anthropic tarafından sunulan bu açık kaynaklı eklenti seti, her iş fonksiyo
 - Claude'a işi nasıl sevdiğinizi öğretip verimliliğinizi artırırsınız.
 - Kod yazmanız gerekmez, Cowork üzerinde doğrudan çalışır.
 
+## Kurulum
+
+**Claude Code marketplace’ini ekle**
+
+```
+claude plugin marketplace add anthropics/knowledge-work-plugins
+claude plugin install sales@knowledge-work-plugins
+```
+
+## Çalıştırma
+
+**Satış hazırlık akışını çalıştır**
+
+```
+/sales:call-prep
+```
+
+Kaynak: Resmî kaynak: https://github.com/anthropics/knowledge-work-plugins
+
 ## Nasıl başlanır?
 
 Claude Cowork eklenti pazarından kurulum yapabilirsiniz. 11 eklentinin listesi ve işlevleri repoda tablo halinde yer alır. Kurulum sonrası Claude, ilgili iş fonksiyonunda bir uzman gibi davranmaya başlar.
@@ -29,19 +48,6 @@ Claude Cowork eklenti pazarından kurulum yapabilirsiniz. 11 eklentinin listesi 
 ## Nasıl kurulur, nasıl kullanılır?
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Claude Code'da 'claude plugin marketplace add anthropics/knowledge-work-plugins' ve ardından 'claude plugin install sales@knowledge-work-plugins' komutlarını çalıştırarak rolüme uygun eklentiyi kur (sales yerine finance, marketing gibi istediğim rolü yazabilirim).
-
-**Marketplace ekle + bir rol eklentisi kur**
-
-```
-claude plugin marketplace add anthropics/knowledge-work-plugins
-claude plugin install sales@knowledge-work-plugins
-```
-
-**Örnek: satış görüşmesi hazırlığı**
-
-```
-/sales:call-prep
-```
 
 Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir).
 

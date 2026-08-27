@@ -24,6 +24,16 @@ Yapay zekâ ajanları için geliştirilmiş 754 hazır siber güvenlik becerisi 
 - Adli analizden bulut güvenliğine kadar 26 farklı güvenlik alanı.
 - Tek bir araca bağlı kalmadan 20'den fazla AI platformunda kullanılabilir.
 
+## Kurulum
+
+**Resmî depoyu klonla**
+
+```
+git clone https://github.com/mukul975/Anthropic-Cybersecurity-Skills.git
+```
+
+Kaynak: Resmî kaynak: https://github.com/mukul975/Anthropic-Cybersecurity-Skills
+
 ## Nasıl başlanır?
 
 agentskills.io standardında paketlenmiştir; AI asistanınıza yetenek olarak ekleyebilirsiniz. Hızlı başlangıç adımları depoda mevcuttur. Üretim öncesinde her yeteneği kendi bağlamınızda doğrulayın.
@@ -31,12 +41,6 @@ agentskills.io standardında paketlenmiştir; AI asistanınıza yetenek olarak e
 ## Nasıl kurulur, nasıl kullanılır?
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Terminalde 'npx skills add mukul975/Anthropic-Cybersecurity-Skills' komutunu çalıştırarak bu topluluk siber güvenlik beceri kütüphanesini Claude Code'a ekle (bunun Anthropic'in resmi projesi olmadığını unutma), sonra bana hangi güvenlik becerilerinin kullanıma hazır olduğunu listele.
-
-**npx ile ekle (önerilen)**
-
-```
-npx skills add mukul975/Anthropic-Cybersecurity-Skills
-```
 
 Lisans: Apache-2.0 · özgürce/ticari kullanılabilir. ⚠️ Ad benzerliğine rağmen Anthropic'in resmi/onaylı projesi değildir.
 

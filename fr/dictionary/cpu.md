@@ -31,6 +31,7 @@ Ce sont de petites unités de traitement indépendantes au sein d’un processeu
 - [Ktransformers](/fr/discover/ktransformers/)
 - [Pocket TTS](/fr/discover/pocket-tts/)
 - [Whichllm](/fr/discover/whichllm/)
+- [Marin](/fr/discover/marin/)
 - [Transcribe.cpp](/fr/discover/transcribe-cpp/)
 - [Sharpemu](/fr/discover/sharpemu/)
 

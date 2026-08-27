@@ -38,9 +38,9 @@ Artificial intelligence will change the way many jobs are done, but will general
 - [Superpowers](/en/discover/superpowers/)
 - [ECC](/en/discover/ecc/)
 - [Hermes Agent](/en/discover/hermes-agent/)
-- [Andrej Karpathy Skills](/en/discover/andrej-karpathy-skills/)
-- [N8n](/en/discover/n8n/)
 - [Opencode](/en/discover/opencode/)
+- [FreeDomain](/en/discover/free-domain/)
+- [AutoGPT](/en/discover/autogpt/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/artificial-intelligence/

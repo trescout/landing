@@ -2,7 +2,7 @@
 
 Twenty ist eine Open-Source-Salesforce-Alternative, die es technischen Teams ermöglicht, ein modernes CRM aufzubauen, das an ihre Geschäftsprozesse angepasst werden kann. Sie können dieses System, das auf künstliche Intelligenz-gestützte Workflows setzt, auf Ihrem eigenen Server hosten.
 
-- ★ 55.436
+- ★ 55.660
 - TypeScript
 - Lisans: özel
 - GitHub Trending · 26 May 2026
@@ -14,25 +14,25 @@ Twenty ist eine Open-Source-Salesforce-Alternative, die es technischen Teams erm
 - Flexible Bausteine, die an Ihre Geschäftsanforderungen angepasst werden können.
 
 ## Installation
-****
+**Umgebungsvorlage herunterladen**
 
 ```
 curl -o .env https://raw.githubusercontent.com/twentyhq/twenty/refs/heads/main/packages/twenty-docker/.env.example
 ```
 
-****
+**Compose-Datei herunterladen**
 
 ```
 curl -o docker-compose.yml https://raw.githubusercontent.com/twentyhq/twenty/refs/heads/main/packages/twenty-docker/docker-compose.yml
 ```
 
-****
+**Verschlüsselungsschlüssel generieren**
 
 ```
 openssl rand -base64 32
 ```
 
-****
+**Dienste starten**
 
 ```
 docker compose up -d
@@ -40,7 +40,7 @@ docker compose up -d
 
 
 ## Ausführung
-****
+**Lokale Oberfläche öffnen**
 
 ```
 http://localhost:3000

@@ -32,7 +32,7 @@ brew install --cask godot
 winget install GodotEngine.GodotEngine
 ```
 
-Kaynak: Homebrew · winget (resmî paket yöneticileri) · veya godotengine.org'dan indirin
+Kaynak: Resmî kaynak: https://github.com/godotengine/godot
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 

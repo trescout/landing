@@ -13,7 +13,7 @@ Scrapling es un marco de web scraping adaptable que puede manejar la escala desd
 - Estructura rápida y de código abierto.
 
 ## Instalación
-**vía pip (PyPI)**
+**pip (PyPI)**
 
 ```
 pip install scrapling

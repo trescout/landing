@@ -13,7 +13,7 @@ MoneyPrinterTurbo produce automáticamente videos cortos utilizando modelos de l
 - Permite la producción de videos por lotes y múltiples.
 
 ## Instalación
-****
+**Clonar repositorio oficial**
 
 ```
 git clone https://github.com/harry0703/MoneyPrinterTurbo.git
@@ -22,13 +22,13 @@ cd MoneyPrinterTurbo
 
 
 ## Ejecución
-****
+**Iniciar con Docker Compose**
 
 ```
 docker-compose up
 ```
 
-****
+**Iniciar interfaz web**
 
 ```
 uv run streamlit run ./webui/Main.py --browser.gatherUsageStats=False

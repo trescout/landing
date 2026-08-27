@@ -1,6 +1,6 @@
 # Limpe dependências desnecessárias
 
-Como uma ferramenta de desenvolvimento de software baseada em Python, OBLITERATUS visa limpar dependências desnecessárias e estruturas em bases de código. No projeto não tem redução, não é problema, é questão de tempo.
+OBLITERATUS aborda a análise de aspectos de barreiras de segurança, detecção de traços de alinhamento, avaliação de robustez de defesa e técnicas para remoção de sinais de rejeição e barreira de segurança de modelos de linguagem.
 
 - ★ 7.994
 - Python

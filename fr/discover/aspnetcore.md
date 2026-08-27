@@ -17,7 +17,7 @@ ASP.NET Core est un framework .NET multiplateforme utilisé pour développer des
 brew install --cask dotnet-sdk
 ```
 
-**Fenêtres (winget)**
+**Windows (winget)**
 
 ```
 winget install Microsoft.DotNet.SDK.10

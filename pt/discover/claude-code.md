@@ -2,7 +2,7 @@
 
 Código Cláudio; É uma ferramenta de codificação baseada em agente que fica em seu terminal e tem um conhecimento profundo de sua base de código. Ele acelera seu processo de desenvolvimento lendo arquivos, fazendo alterações e executando testes com comandos de linguagem natural. (Você pode usar muitas das ferramentas desta página com ele.)
 
-- ★ 142.599
+- ★ 143.151
 - Anthropic ürünü
 - Açık kaynak değil
 - GitHub Trending · 30 May 2026
@@ -13,7 +13,7 @@ Código Cláudio; É uma ferramenta de codificação baseada em agente que fica 
 - Muitas habilidades e plugins deste catálogo são usados ​​com ele.
 
 ## Instalação
-**instalação global com npm**
+**Instalação global com npm**
 
 ```
 npm install -g @anthropic-ai/claude-code
@@ -21,7 +21,7 @@ npm install -g @anthropic-ai/claude-code
 
 
 ## Execução
-****
+**Iniciar Claude Code no terminal**
 
 ```
 claude

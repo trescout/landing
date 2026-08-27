@@ -2,7 +2,7 @@
 
 Win11Debloat est un script PowerShell qui permet de supprimer les applications préinstallées et de désactiver les données de télémétrie sur les systèmes d'exploitation Windows 10 et 11. Il permet aux utilisateurs de personnaliser leurs systèmes et d'effectuer un débloquage du système en supprimant les composants inutiles.
 
-- ★ 54 506
+- ★ 56 315
 - GitHub Trending · 2026-06-16
 
 ## Ce que ça vous apporte
@@ -11,13 +11,13 @@ Win11Debloat est un script PowerShell qui permet de supprimer les applications p
 - Désactive les fonctionnalités et les publicités basées sur l'IA.
 
 ## Installation
-****
+**Télécharger l'archive GitHub**
 
 ```
 Invoke-WebRequest -Uri https://github.com/Raphire/Win11Debloat/archive/refs/heads/master.zip -OutFile Win11Debloat.zip
 ```
 
-****
+**Ouvrir l'archive**
 
 ```
 Expand-Archive -Path .\Win11Debloat.zip -DestinationPath .\Win11Debloat
@@ -25,7 +25,7 @@ Expand-Archive -Path .\Win11Debloat.zip -DestinationPath .\Win11Debloat
 
 
 ## Exécution
-****
+**Exécuter le script après revue**
 
 ```
 Set-Location .\Win11Debloat\Win11Debloat-master

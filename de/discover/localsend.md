@@ -31,6 +31,8 @@ Menschen, die Dateien über das Internet zwischen verschiedenen Netzwerken über
 ## Erster Prompt
 Wie kann ich ein Foto von meinem Computer an mein Telefon im selben lokalen Netzwerk senden?
 
+## Verwandte Begriffe aus dem Glossar
+
 ## Links
 - GitHub-Repository →
 - Offizielle LocalSend-README →

@@ -17,7 +17,7 @@ Godot Engine (Godot Engine) ist eine Open-Source-Game-Engine, die für zwei- und
 brew install --cask godot
 ```
 
-**Windows (Winget)**
+**Windows (winget)**
 
 ```
 winget install GodotEngine.GodotEngine

@@ -24,6 +24,7 @@ Porque distinguir dos estados (tensión presente/ausente) en circuitos electrón
 ## Herramientas relacionadas
 - [Protobuf](/es/discover/protobuf/)
 - [OfficeCLI](/es/discover/officecli/)
+- [Hister](/es/discover/hister/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/binary/

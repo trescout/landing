@@ -13,7 +13,7 @@ social-auto-upload est un outil Python qui télécharge automatiquement vos vid�
 - Flux de travail efficace qui fait gagner du temps.
 
 ## Installation
-**via pip (PyPI)**
+**Avec pip (PyPI)**
 
 ```
 pip install social-auto-upload

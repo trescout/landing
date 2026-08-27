@@ -23,7 +23,7 @@ TreScout notu: Taranmış belgedeki ve görseldeki yazıyı düzenlenebilir metn
 pip install paddleocr
 ```
 
-Kaynak: PyPI · paddleocr (resmî paket)
+Kaynak: Resmî kaynak: https://github.com/PaddlePaddle/PaddleOCR
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 

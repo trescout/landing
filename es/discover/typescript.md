@@ -12,7 +12,7 @@ TypeScript, un superconjunto del lenguaje JavaScript, permite la verificación d
 - Procesos de desarrollo de software escalables
 
 ## Instalación
-**instalación global con npm**
+**Instalación global con npm**
 
 ```
 npm install -g typescript

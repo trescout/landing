@@ -12,7 +12,7 @@ Desenvolvidos pelo Google, os buffers de protocolo são um formato de intercâmb
 - Estrutura de dados flexível e extensível
 
 ## Instalação
-**macOS (homebrew)**
+**macOS (Homebrew)**
 
 ```
 brew install protobuf

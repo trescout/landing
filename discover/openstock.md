@@ -2,8 +2,6 @@
 
 OpenStock , pahalı borsa platformlarına karşı geliştirilmiş açık kaynaklı bir alternatiftir. Gerçek zamanlı fiyat takibi, kişiselleştirilmiş uyarılar ve şirket analizleri sunar. Herkes için erişilebilir ve sonsuza dek ücretsizdir.
 
-_Görsel: OpenStock (proje deposundan)_
-
 - ★ 14.018
 - TypeScript
 - AGPL-3.0
@@ -24,6 +22,26 @@ _Görsel: OpenStock (proje deposundan)_
 - Şirketlere yönelik detaylı analizler sunar.
 - Pahalı platformlara olan ihtiyacı ortadan kaldırır.
 
+## Kurulum
+
+**GitHub deposunu klonla**
+
+```
+git clone https://github.com/Open-Dev-Society/OpenStock.git
+cd OpenStock
+pnpm install
+```
+
+## Çalıştırma
+
+**Geliştirme sunucusunu başlat**
+
+```
+pnpm dev
+```
+
+Kaynak: Resmî kaynak: https://github.com/Open-Dev-Society/OpenStock
+
 ## Nasıl kullanılır?
 
 Hazır siteyi (openstock-ods.vercel.app) doğrudan kullanabilir veya kendi sunucunuza kurabilirsiniz.
@@ -31,25 +49,6 @@ Hazır siteyi (openstock-ods.vercel.app) doğrudan kullanabilir veya kendi sunuc
 ## Nasıl kurulur, nasıl kullanılır?
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 OpenStock adlı açık kaynaklı borsa takip uygulamasını kurmama yardım et; depoyu 'git clone https://github.com/Open-Dev-Society/OpenStock.git' ile indir, 'cd OpenStock' yapıp 'pnpm install' çalıştır, gerekli .env değişkenlerini ayarla ve 'pnpm dev' ile geliştirme sunucusunu başlatıp http://localhost:3000 adresinde aç.
-
-**Depoyu klonla**
-
-```
-git clone https://github.com/Open-Dev-Society/OpenStock.git
-cd OpenStock
-```
-
-**Bağımlılıkları yükle**
-
-```
-pnpm install
-```
-
-**Geliştirme sunucusunu başlat**
-
-```
-pnpm dev
-```
 
 Lisans: AGPL-3.0 · Hazır siteyi kullanmak serbest. Ancak projeyi değiştirir, yeniden dağıtır ya da bir web hizmeti olarak yayına alırsanız, geliştiricilerin de açıkça belirttiği gibi kendi kaynak kodunuzu açmanız gerekir.
 

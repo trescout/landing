@@ -12,7 +12,7 @@ gRPC é uma estrutura de chamada de procedimento remoto de código aberto que fo
 - Simplifica a implantação e o gerenciamento de sistemas distribuídos
 
 ## Instalação
-**macOS (homebrew)**
+**macOS (Homebrew)**
 
 ```
 brew install grpc

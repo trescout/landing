@@ -2,9 +2,12 @@
 
 Clojure diliyle yazılan Swarm Forge, birden fazla yapay zekâ ajanını (AI agents) tek bir merkezden koordine etmeye yarayan bir araçtır. Yazılım, farklı ajanların iş birliği içinde çalışması gereken karmaşık süreçleri yönetmek için basit bir yapı sunar.
 
-- ★ 1.870
+- ★ 2.897
 - Clojure
 - GitHub Trending · 2026-08-08
+
+## Güncelleme
+- 27 Ağustos 2026: Yıldız 1.870 → 2.897.
 
 ## Ne kazandırır?
 - Birden fazla yapay zekâ ajanını tek merkezden yönetir

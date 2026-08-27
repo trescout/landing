@@ -38,7 +38,7 @@ cd my_app
 flutter run
 ```
 
-Kaynak: Homebrew Cask (flutter) · resmî Flutter dokümantasyonu (docs.flutter.dev)
+Kaynak: Resmî kaynak: https://flutter.dev
 
 ## Nasıl başlanır?
 

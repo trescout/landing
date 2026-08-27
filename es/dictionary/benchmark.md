@@ -28,6 +28,8 @@ Sí, pero es mejor observar los resultados generales que incluyen diferentes esc
 - [Inference](/es/dictionary/inference/)
 
 ## Herramientas relacionadas
+- [Ponytail](/es/discover/ponytail/)
+- [RuView](/es/discover/ruview/)
 - [CUA](/es/discover/cua/)
 - [Whichllm](/es/discover/whichllm/)
 - [SIA](/es/discover/sia/)

@@ -13,7 +13,7 @@ Supermemory bietet eine hoch skalierbare Speicher-Engine und API, die für das Z
 - Einfache Integration über API.
 
 ## Installation
-****
+**npm: installieren**
 
 ```
 npm install supermemory
@@ -21,7 +21,7 @@ npm install supermemory
 
 
 ## Ausführung
-****
+**MCP-Server für Claude hinzufügen**
 
 ```
 npx -y install-mcp@latest https://mcp.supermemory.ai/mcp --client claude --oauth=yes

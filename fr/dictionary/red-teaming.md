@@ -29,7 +29,6 @@ En posant des questions nuisibles au modèle, on vérifie si le modèle enfreint
 
 ## Outils liés
 - [G0DM0D3](/fr/discover/g0dm0d3/)
-- [AI-Infra-Guard](/fr/discover/ai-infra-guard/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/red-teaming/

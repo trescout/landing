@@ -12,7 +12,7 @@ Apache Cassandra es una base de datos transaccional distribuida de código abier
 - Proporciona alta disponibilidad y tolerancia a fallos.
 
 ## Instalación
-**macOS (hecho en casa)**
+**macOS (Homebrew)**
 
 ```
 brew install cassandra

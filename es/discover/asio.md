@@ -12,7 +12,7 @@ Asio es una biblioteca de C++ desarrollada para operaciones de E/S asíncronas. 
 - Gestión de tareas del sistema de bajo nivel
 
 ## Instalación
-**macOS (hecho en casa)**
+**macOS (Homebrew)**
 
 ```
 brew install asio

@@ -2,7 +2,7 @@
 
 Next.js ist ein Framework zur Entwicklung React-basierter Webanwendungen und bietet Funktionen wie serverseitiges Rendering und statische Site-Generierung. Es wird bei Entwicklern immer beliebter, da es leistungsorientierte Optimierungen und skalierbare Infrastrukturlösungen in modernen Webprojekten bietet.
 
-- ★ 141.887
+- ★ 141.958
 - JavaScript
 - GitHub Trending · 2026-07-11
 
@@ -20,7 +20,7 @@ npx create-next-app@latest my-app
 
 
 ## Ausführung
-**Starten Sie den Entwicklungsserver**
+**Entwicklungsserver starten**
 
 ```
 cd my-app

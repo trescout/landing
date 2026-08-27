@@ -1,8 +1,8 @@
 # Plateforme moderne de contenu et de newsletter
 
-Ghost, modern yayıncılık, üyelikler, abonelikler ve e-posta bültenleri için bağımsız bir teknoloji platformudur.
+Ghost est une plate-forme technologique indépendante pour la publication, les adhésions, les abonnements et les newsletters par courrier électronique.
 
-- ★ 54 933
+- ★ 55 071
 - JavaScript
 - GitHub Trending · 2026-08-22
 

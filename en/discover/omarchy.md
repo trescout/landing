@@ -2,7 +2,7 @@
 
 Developed by Basecamp, Omarchy is a modern and original configuration tool for Linux operating systems. It offers a shell script-based approach to standardize system installations and facilitate management.
 
-- ★ 28,403
+- ★ 32,348
 - Shell
 - GitHub Trending · 2026-08-17
 

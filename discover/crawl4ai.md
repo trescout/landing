@@ -21,15 +21,27 @@ Crawl4AI ; büyük dil modelleri için optimize edilmiş, açık kaynak bir web 
 - LLM süreçleri için özel olarak optimize edilmiştir.
 - Hızlı ve açık kaynaklıdır.
 
-## Kurulum (tek komut)
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Crawl4AI adlı açık kaynaklı web tarayıcısını kurmama yardım et; 'pip install -U crawl4ai' ile yükle, ardından 'crawl4ai-setup' çalıştır ve 'crwl https://www.nbcnews.com/business -o markdown' komutuyla bir web sayfasını LLM dostu Markdown'a dönüştürerek deneyelim.
+## Kurulum
 
-**Python (pip)**
+**pip ile (PyPI)**
 
 ```
 pip install crawl4ai
 ```
+
+## Çalıştırma
+
+**Web sayfasını tara ve yapay zekâ için hazırla**
+
+```
+crawl4ai-download
+```
+
+Kaynak: Resmî kaynak: https://github.com/unclecode/crawl4ai
+
+## Kurulum (tek komut)
+🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Crawl4AI adlı açık kaynaklı web tarayıcısını kurmama yardım et; 'pip install -U crawl4ai' ile yükle, ardından 'crawl4ai-setup' çalıştır ve 'crwl https://www.nbcnews.com/business -o markdown' komutuyla bir web sayfasını LLM dostu Markdown'a dönüştürerek deneyelim.
 
 Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir).
 

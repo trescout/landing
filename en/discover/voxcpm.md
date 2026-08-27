@@ -8,7 +8,7 @@ VoxCPM; It is a tokenizer-free open source TTS model developed for multilingual 
 - GitHub Trending · 30 May 2026
 
 ## Installation
-****
+**Install via PyPI**
 
 ```
 pip install voxcpm
@@ -16,7 +16,7 @@ pip install voxcpm
 
 
 ## Running it
-****
+**Generate speech from text**
 
 ```
 voxcpm design --text "VoxCPM2 brings studio-quality multilingual speech synthesis." --output out.wav

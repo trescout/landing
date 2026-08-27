@@ -13,7 +13,7 @@ Crawl4AI ; est un robot d'exploration et un grattoir Web open source optimisé p
 - C'est rapide et open source.
 
 ## Installation
-**via pip (PyPI)**
+**Avec pip (PyPI)**
 
 ```
 pip install crawl4ai
@@ -21,7 +21,7 @@ pip install crawl4ai
 
 
 ## Exécution
-****
+**Scanner la page web et préparer pour l'IA**
 
 ```
 crawl4ai-download

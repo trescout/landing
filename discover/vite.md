@@ -20,13 +20,23 @@ TreScout notu: Geliştirme sırasında kaydettiğiniz değişikliği anında ekr
 
 ## Kurulum
 
-**Yeni proje (npm)**
+**Vite projesi oluştur**
 
 ```
-npm create vite@latest
+npm create vite@latest my-app
+cd my-app
+npm install
 ```
 
-Kaynak: vite.dev (resmî dokümantasyon)
+## Çalıştırma
+
+**Geliştirme sunucusunu başlat**
+
+```
+npm run dev
+```
+
+Kaynak: Resmî kaynak: https://github.com/vitejs/vite
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 

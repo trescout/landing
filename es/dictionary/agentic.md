@@ -28,6 +28,7 @@ No, la mayoría de las IA son sistemas pasivos que simplemente esperan tus órde
 - [Agentic AI](/es/dictionary/agentic-ai/)
 
 ## Herramientas relacionadas
+- [Ponytail](/es/discover/ponytail/)
 - [MinerU](/es/discover/mineru/)
 - [Claude Code Best Practice](/es/discover/claude-code-best-practice/)
 - [OpenMontage](/es/discover/openmontage/)
@@ -35,7 +36,6 @@ No, la mayoría de las IA son sistemas pasivos que simplemente esperan tus órde
 - [Pm Skills](/es/discover/pm-skills/)
 - [Personal_AI_Infrastructure](/es/discover/personal-ai-infrastructure/)
 - [Production Agentic RAG Course](/es/discover/production-agentic-rag-course/)
-- [Ag Kit](/es/discover/ag-kit/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/agentic/

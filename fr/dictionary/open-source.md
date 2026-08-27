@@ -30,10 +30,10 @@ Oui, mais l'inclusion de modifications dans le projet principal dépend généra
 ## Outils liés
 - [Superpowers](/fr/discover/superpowers/)
 - [ECC](/fr/discover/ecc/)
+- [N8n](/fr/discover/n8n/)
 - [MarkItDown](/fr/discover/markitdown/)
 - [Claude Code](/fr/discover/claude-code/)
 - [MoneyPrinterTurbo](/fr/discover/moneyprinterturbo/)
-- [RuView](/fr/discover/ruview/)
 - [claude-mem](/fr/discover/claude-mem/)
 - [Opencv](/fr/discover/opencv/)
 

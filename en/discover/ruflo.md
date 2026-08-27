@@ -1,8 +1,8 @@
 # Orchestration layer for AI agents
 
-Ruflo, akıllı ajan sürülerini devreye almak, otonom iş akışlarını koordine etmek ve diyalogsal yapay zekâ sistemleri oluşturmak için bir ajan orkestrasyon katmanıdır.
+Ruflo is an agent orchestration layer for deploying intelligent agent swarms, coordinating autonomous workflows, and building conversational AI systems.
 
-- ★ 68,873
+- ★ 69,519
 - TypeScript
 - GitHub Trending · 2026-08-22
 

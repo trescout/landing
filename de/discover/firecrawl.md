@@ -12,7 +12,7 @@ Firecrawl bietet eine Schnittstelle (API), um Daten von Websites in großem Maß
 - Interagiert mit komplexen Webseiten
 
 ## Installation
-****
+**npm: hinzufügen**
 
 ```
 npm install @mendable/firecrawl-js

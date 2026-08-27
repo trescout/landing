@@ -31,6 +31,7 @@ Es necesario memorizar los atajos de teclado al principio, pero es mucho más ef
 
 ## Herramientas relacionadas
 - [Witr](/es/discover/witr/)
+- [Hister](/es/discover/hister/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/tui/

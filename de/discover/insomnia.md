@@ -2,7 +2,7 @@
 
 Insomnia ist ein Open-Source-API-Client (Application Programming Interface), der die Protokolle GraphQL, REST, WebSockets, SSE und gRPC unterstützt. Die Software bietet plattformübergreifende Unterstützung mit Cloud-basierten, lokalen und Git-Speicheroptionen.
 
-- ★ 39.916
+- ★ 39.955
 - TypeScript
 - GitHub Trending · 2026-06-19
 
@@ -18,7 +18,7 @@ Insomnia ist ein Open-Source-API-Client (Application Programming Interface), der
 brew install --cask insomnia
 ```
 
-**Linux Snap-Paket (Insomnia-Herausgeber)**
+**Linux · Snap-Paket (Insomnia-Publisher)**
 
 ```
 sudo snap install insomnia

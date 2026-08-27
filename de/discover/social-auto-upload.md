@@ -13,7 +13,7 @@ social-auto-upload ist ein Python-Tool, das Ihre Videos automatisch auf Social-M
 - Effizienter Workflow, der Zeit spart.
 
 ## Installation
-**über Pip (PyPI)**
+**Mit pip (PyPI)**
 
 ```
 pip install social-auto-upload

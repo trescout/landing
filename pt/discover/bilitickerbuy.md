@@ -17,7 +17,7 @@ Esta ferramenta baseada em Python que automatiza os processos de compra de membr
 curl -fsSL https://raw.githubusercontent.com/mikumifa/biliTickerBuy/main/install.sh | sh
 ```
 
-**via pip (PyPI)**
+**com pip (PyPI)**
 
 ```
 pip install biliTickerBuy

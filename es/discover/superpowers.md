@@ -14,7 +14,7 @@ Superpowers es una metodología integral de desarrollo de software de habilidade
 - Compatibilidad total con múltiples plataformas.
 
 ## Instalación
-****
+**Instalar complemento Claude Code**
 
 ```
 /plugin install superpowers@claude-plugins-official

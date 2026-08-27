@@ -11,13 +11,13 @@ Desarrollado por Google, el lenguaje de programación Go es un lenguaje de progr
 - Eficiencia para sistemas en la nube modernos
 
 ## Instalación
-**macOS (hecho en casa)**
+**macOS (Homebrew)**
 
 ```
 brew install go
 ```
 
-**Ventanas (ala)**
+**Windows (winget)**
 
 ```
 winget install GoLang.Go

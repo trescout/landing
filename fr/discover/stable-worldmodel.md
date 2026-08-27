@@ -1,6 +1,6 @@
 # Accélérer la recherche sur les modèles mondiaux
 
-modèle de monde stable ; Il s'agit d'une plateforme qui garantit que la recherche sur les « modèles mondiaux » est reproductible et comparable. Il se concentre particulièrement sur les processus de recherche et d’évaluation.
+modèle de monde stable ; Il s'agit d'une plateforme qui garantit que la recherche sur les « modèles mondiaux » est reproductible et comparable. Il se concentre particulièrement sur les processus de recherche et d’évaluation.
 
 - ★ 2 080
 - Python

@@ -30,12 +30,12 @@ Nein, nur Software, die Plug-in-Systeme (offene Architektur) ermöglicht, unters
 ## Verwandte Werkzeuge
 - [Superpowers](/de/discover/superpowers/)
 - [ECC](/de/discover/ecc/)
+- [Andrej Karpathy Skills](/de/discover/andrej-karpathy-skills/)
 - [Anthropic Skills](/de/discover/anthropic-skills/)
 - [Understand Anything](/de/discover/understand-anything/)
 - [Claude Plugins Official](/de/discover/claude-plugins-official/)
 - [Codex Plugin Cc](/de/discover/codex-plugin-cc/)
 - [Compound Engineering](/de/discover/compound-engineering-plugin/)
-- [Knowledge Work Plugins](/de/discover/knowledge-work-plugins/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/plugin/

@@ -11,13 +11,13 @@ Restic wurde mit der Go-Sprache entwickelt und bietet ein Open-Source-Backup-Pro
 - Kompatibel mit verschiedenen Cloud- und lokalen Speichersystemen
 
 ## Installation
-****
+**macOS · Homebrew**
 
 ```
 brew install restic
 ```
 
-****
+**Windows · winget**
 
 ```
 winget install restic.restic
@@ -25,7 +25,7 @@ winget install restic.restic
 
 
 ## Ausführung
-****
+**Backup-Repository erstellen**
 
 ```
 restic init --repo /path/to/repo

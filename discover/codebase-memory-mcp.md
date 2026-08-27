@@ -19,25 +19,13 @@ Codebase-memory-mcp, kod tabanlarını kalıcı bir bilgi grafiğine (knowledge 
 
 ## Kurulum
 
-**macOS ve Linux kurulumu**
+**npm ile global**
 
 ```
-curl -fsSL https://raw.githubusercontent.com/DeusData/codebase-memory-mcp/main/install.sh | bash
+npm install -g codebase-memory-mcp
 ```
 
-**Görsel arayüz ile kurulum**
-
-```
-curl -fsSL https://raw.githubusercontent.com/DeusData/codebase-memory-mcp/main/install.sh | bash -s -- --ui
-```
-
-## Çalıştırma
-
-**Görsel arayüzü başlatma**
-
-```
-codebase-memory-mcp --ui=true --port=9749
-```
+Kaynak: Resmî kaynak: https://github.com/DeusData/codebase-memory-mcp
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 

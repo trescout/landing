@@ -1,25 +1,25 @@
 # O que é Append-only?
 
-Verilerin sadece sona eklenebildiği, değiştirilemediği veya silinemediği bir kayıt yöntemidir.
+É um método de gravação no qual os dados só podem ser anexados, não podendo ser alterados ou excluídos.
 
 ## Definição
-Bir veri tabanına veya dosyaya bilgi eklerken, eski verileri değiştirmek yerine her yeni bilgiyi listenin sonuna ekleme prensibidir. Bu yöntem, verinin geçmişini korumak ve güvenliğini sağlamak için kritiktir. Hiçbir veri silinmediği için sistemdeki tüm hareketlerin izini sürmek mümkündür.
+Ao adicionar informações a um banco de dados ou arquivo, o princípio é adicionar cada nova informação ao final da lista, em vez de substituir os dados antigos. Este método é fundamental para preservar o histórico e a segurança dos dados. Como nenhum dado é excluído, é possível rastrear todos os movimentos no sistema.
 
 ## Como funciona
-Sistem, veriyi güncelleyen bir komut yerine sadece 'ekle' komutunu kabul eder. Bu sayede verinin tarihçesi her zaman korunmuş olur.
+O sistema aceita apenas um comando 'adicionar' em vez de um comando que atualiza os dados. Desta forma, o histórico dos dados é sempre preservado.
 
 ## Onde é usado
-Blokzincir teknolojilerinde, günlük (log) tutma sistemlerinde ve denetlenebilir veri tabanlarında kullanılır.
+É usado em tecnologias blockchain, sistemas de manutenção de registros e bancos de dados auditáveis.
 
 ## Costuma ser confundido com
-Geleneksel veri tabanları ile karıştırılabilir; geleneksel olanlar veriyi güncelleyebilir, bu yöntem ise asla izin vermez.
+Pode ser confundido com bancos de dados tradicionais; os tradicionais podem atualizar os dados, este método nunca permite.
 
 ## Perguntas frequentes
 **O que acontece se eu cometer um erro?**
-Hatalı veriyi silmek yerine, hatayı düzelten yeni bir kayıt daha eklersiniz.
+Em vez de excluir os dados errados, você adiciona um novo registro que corrige o erro.
 
-**Neden bu kadar güvenli?**
-Veri değiştirilemediği için geçmişe dönük manipülasyon yapmak imkansıza yakındır.
+**Por que é tão seguro?**
+Como os dados não podem ser alterados, é quase impossível manipular o passado.
 
 
 ## Termos relacionados

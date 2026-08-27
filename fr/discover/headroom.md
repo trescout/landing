@@ -1,6 +1,6 @@
 # Analysez vos résultats IA
 
-Headroom réduit l'utilisation des jetons de 60 % à 95 % en compressant les fichiers journaux, les sorties des outils et les morceaux de données contextuelles (morceaux RAG) envoyés à de grands modèles de langage (LLM). Cet outil basé sur Python offre différentes options d'intégration en tant que serveur de bibliothèque, de proxy et de Model Context Protocol (MCP).
+Headroom réduit l'utilisation des jetons de 60 % à 95 % en compressant les fichiers journaux, les sorties des outils et les morceaux de données contextuelles (morceaux RAG) envoyés à de grands modèles de langage (LLM). Cet outil basé sur Python offre différentes options d'intégration en tant que serveur de bibliothèque, de proxy et de Model Context Protocol (MCP).
 
 - ★ 7 746
 - GitHub Trending · 2026-06-03

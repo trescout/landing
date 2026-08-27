@@ -1,8 +1,8 @@
 # Capa de orquestación para agentes de IA
 
-Ruflo software de estructura que permite la construcción de enxames multijogador compostos por agentes autónomos de inteligencia artificial. Ele permite el desarrollo de sistemas que gerencian flujos de trabajo complejos con recursos como memoria adaptativa, autoaprendizaje y gestión de contabilidad asistida por el banco de datos (RAG).
+Ruflo es una capa de orquestación de agentes para implementar enjambres de agentes inteligentes, coordinar flujos de trabajo autónomos y crear sistemas de IA conversacionales.
 
-- ★ 68.873
+- ★ 69.519
 - TypeScript
 - GitHub Trending · 2026-08-22
 

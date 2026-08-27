@@ -31,6 +31,12 @@ npm i -g @continuedev/cli
 code --install-extension Continue.continue
 ```
 
+**npm ile global**
+
+```
+npm install -g continue
+```
+
 ## Çalıştırma
 
 **CLI üzerinden Continue ajanını çalıştır**
@@ -39,7 +45,7 @@ code --install-extension Continue.continue
 cn
 ```
 
-Kaynak: npm (@continuedev/cli) · VS Code Marketplace (Continue.continue)
+Kaynak: Resmî kaynak: https://github.com/continuedev/continue
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 

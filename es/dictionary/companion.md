@@ -29,6 +29,7 @@ Sí, hoy puedes crear tu amigo personal de inteligencia artificial a través de 
 
 ## Herramientas relacionadas
 - [AIRI](/es/discover/airi/)
+- [Invidious](/es/discover/invidious/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/companion/

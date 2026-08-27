@@ -2,18 +2,16 @@
 
 claude-mem , AI ajanlarınızın oturumlar arası hatırlama yapabilmesini sağlar. Bir oturumda gerçekleşen her şeyi yakalar, AI ile anlamlı özetlere dönüştürür ve sonraki oturumda ilgili bağlamı geri sunar. Claude Code, Codex, Gemini, Copilot ve OpenCode ile uyumludur.
 
-_Görsel: claude-mem (proje deposundan)_
-
-- ★ 91.279
+- ★ 91.998
 - TypeScript
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
 ## Güncelleme
+- 27 Ağustos 2026: Yıldız 91.279 → 91.998, son sürüm v13.16.1 (26 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 90.923 → 91.279, son sürüm v13.15.3 (20 Ağustos 2026).
 - 17 Ağustos 2026: Yıldız 90.349 → 90.923, son sürüm v13.15.2 (16 Ağustos 2026).
 - 11 Ağustos 2026: Yıldız 90.015 → 90.349, son sürüm v13.15.0 (10 Ağustos 2026).
-- 8 Ağustos 2026: Yıldız 89.464 → 90.015, son sürüm v13.14.0 (8 Ağustos 2026).
 
 - **Kimin için:** AI kodlama ajanı kullananlar 
 - **Zorluk:** Kolay · tek komutla kurulum 
@@ -25,6 +23,16 @@ _Görsel: claude-mem (proje deposundan)_
 - Ajan her seferinde sıfırdan başlamaz , geçmişi hatırlar.
 - Oturum geçmişi yapay zekâ ile özetlenerek ilgili kısımlar geri çağrılır.
 - Tek bir araçla sınırlı kalmaz, birçok ajanla uyumlu çalışır.
+
+## Kurulum
+
+**Kurulum yardımcısını çalıştır**
+
+```
+npx claude-mem install
+```
+
+Kaynak: Resmî kaynak: https://github.com/thedotmack/claude-mem
 
 ## Nasıl çalışır?
 
@@ -40,12 +48,6 @@ Sonraki oturumda ilgili bağlamı ajana geri verir.
 ## Kurulum (tek komut)
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Terminalde 'npx claude-mem install' komutunu çalıştırarak Claude-Mem'i kur, sonra Claude Code'u yeniden başlat; bundan sonra önceki oturumların hafızası yeni oturumlara otomatik olarak taşınacaktır.
-
-**Kurulum (tek komut)**
-
-```
-npx claude-mem install
-```
 
 Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir).
 

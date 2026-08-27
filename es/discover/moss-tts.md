@@ -8,7 +8,7 @@ MOSS-TTS (MOSI.AI y OpenMOSS); Es una familia de modelos de código abierto que 
 - GitHub Trending · 29 May 2026
 
 ## Instalación
-**vía pip (PyPI)**
+**pip (PyPI)**
 
 ```
 pip install moss-tts

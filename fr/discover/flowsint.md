@@ -2,7 +2,7 @@
 
 Flowsint propose une plateforme d'investigation visuelle, flexible et extensible basée sur des graphiques pour les analystes et les chercheurs en cybersécurité. Développé avec TypeScript, cet outil facilite la visualisation et l'analyse d'ensembles de données complexes.
 
-- ★ 7 528
+- ★ 7 755
 - GitHub Trending · 2026-06-03
 
 ## Ce que ça vous apporte

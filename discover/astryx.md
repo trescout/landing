@@ -2,15 +2,15 @@
 
 Meta tarafından geliştirilen Astryx, tamamen özelleştirilebilir ve yapay zekâ ajanlarıyla uyumlu (agent ready) bir tasarım sistemi (design system) sunuyor. TypeScript tabanlı bu açık kaynaklı kütüphane, arayüz bileşenlerini otonom sistemlerin kullanımına uygun şekilde yapılandırıyor.
 
-- ★ 12.284
+- ★ 12.492
 - TypeScript
 - GitHub Trending · 2026-07-01
 
 ## Güncelleme
+- 27 Ağustos 2026: Yıldız 12.284 → 12.492, son sürüm v0.5.0 (24 Ağustos 2026).
 - 24 Ağustos 2026: Yıldız 12.253 → 12.284, son sürüm v0.4.7 (23 Ağustos 2026).
 - 23 Ağustos 2026: Yıldız 12.147 → 12.253, son sürüm v0.4.6 (22 Ağustos 2026).
 - 19 Ağustos 2026: Yıldız 12.124 → 12.147, son sürüm v0.4.5 (19 Ağustos 2026).
-- 19 Ağustos 2026: Yıldız 12.053 → 12.124, son sürüm v0.4.4 (18 Ağustos 2026).
 
 ## Ne kazandırır?
 - 150'den fazla erişilebilir bileşen
@@ -48,7 +48,7 @@ Astryx tasarım sistemini kullanarak bir arayüz bileşeni oluşturmak istiyorum
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agent Ready Design System Agent CLI API Artificial Intelligence
+Agent Ready Design System Agent API CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/astryx/

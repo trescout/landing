@@ -11,13 +11,13 @@ LibreTranslate bietet eine kostenlose Open-Source-Schnittstelle (API) für masch
 - Nutzen Sie eine vollständig quelloffene und kostenlose Übersetzungsmaschine
 
 ## Installation
-**über Pip (PyPI)**
+**Mit pip (PyPI)**
 
 ```
 pip install libretranslate
 ```
 
-**mit Docker**
+**Mit Docker**
 
 ```
 docker run -p 5000:5000 libretranslate/libretranslate

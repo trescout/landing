@@ -2,7 +2,7 @@
 
 Liteparse (run-lhama); é um analisador de documentos de código aberto escrito em Rust para analisar documentos de forma rápida e eficiente. Ele facilita os processos de IA e RAG, tornando processáveis ​​estruturas complexas de documentos.
 
-- ★ 12.102
+- ★ 12.179
 - Rust
 - Apache-2.0
 - GitHub Trending · 30 May 2026
@@ -13,7 +13,7 @@ Liteparse (run-lhama); é um analisador de documentos de código aberto escrito 
 - Totalmente compatível com pipelines AI e RAG.
 
 ## Instalação
-**via pip (PyPI)**
+**com pip (PyPI)**
 
 ```
 pip install liteparse

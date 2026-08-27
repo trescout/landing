@@ -29,6 +29,7 @@ Eles normalmente são criados e gerenciados usando ferramentas como Docker.
 
 ## Ferramentas relacionadas
 - [Container](/pt/discover/container/)
+- [Keycloak](/pt/discover/keycloak/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/containers/

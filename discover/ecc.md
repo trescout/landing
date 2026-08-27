@@ -2,8 +2,6 @@
 
 ECC; Claude Code, Codex, Cursor ve OpenCode gibi yapay zekâ kodlama araçlarına beceriler, içgüdüler, hafıza optimizasyonu ve güvenlik taraması kazandıran kapsamlı bir sistemdir. Tekil konfigürasyon dosyaları yerine, ajanın daha tutarlı, güvenli ve önce-araştır mantığıyla çalışmasını sağlayan hazır bir katman sunar.
 
-_Görsel: ECC (proje deposundan)_
-
 - ★ 236.779
 - JavaScript
 - MIT
@@ -24,6 +22,25 @@ _Görsel: ECC (proje deposundan)_
 - Güvenlik taraması (agentshield) özelliğiyle riskli adımları önceden tespit eder.
 - Tek bir araçla kısıtlı kalmaz, birden çok ortamla (Claude Code, Codex, Cursor…) uyumlu çalışır.
 
+## Kurulum
+
+**Claude Code ile eklenti ekle**
+
+```
+/plugin marketplace add https://github.com/affaan-m/ECC
+/plugin install ecc@ecc
+```
+
+## Çalıştırma
+
+**Güvenlik taraması çalıştır**
+
+```
+/security-scan
+```
+
+Kaynak: Resmî kaynak: https://github.com/affaan-m/ECC
+
 ## Nasıl başlanır?
 
 npm paketi ( ecc-universal ) veya GitHub uygulaması olarak kurabilirsiniz. Adımların tamamı deponun kurulum bölümünde yer alır. Kurulumun ardından ajanınız, TreScout'un beceri ve güvenlik katmanını kullanmaya başlar.
@@ -31,19 +48,6 @@ npm paketi ( ecc-universal ) veya GitHub uygulaması olarak kurabilirsiniz. Adı
 ## Nasıl kurulur, nasıl kullanılır?
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Claude Code'da '/plugin marketplace add https://github.com/affaan-m/ECC' ve ardından '/plugin install ecc@ecc' komutlarını çalıştırarak ECC operatör sistemini kur; sonra projemde güvenlik taraması yapmak için /security-scan komutunu kullan.
-
-**Claude Code · marketplace ekle + kur**
-
-```
-/plugin marketplace add https://github.com/affaan-m/ECC
-/plugin install ecc@ecc
-```
-
-**Güvenlik taraması çalıştır**
-
-```
-/security-scan
-```
 
 Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari projede kullanabilirsiniz (yalnızca telif/lisans bildirimini koruyun).
 

@@ -18,7 +18,7 @@ VeraCrypt est un outil de chiffrement de disque développé sur la base de TrueC
 brew install --cask veracrypt
 ```
 
-**Fenêtres (winget)**
+**Windows (winget)**
 
 ```
 winget install IDRIX.VeraCrypt

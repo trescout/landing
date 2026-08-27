@@ -2,7 +2,7 @@
 
 Codex CLI, yerel bilgisayarınızda terminalde çalışan bir kodlama ajanıdır. Kodları inceleyebilir, dosyalarda değişiklik yapabilir ve komut çalıştırabilir.
 
-- ★ 115.876
+- ★ 119.077
 - GitHub Trending · 2026-08-23
 
 ## Kurulum
@@ -28,6 +28,9 @@ codex
 ```
 
 Kaynak: OpenAI’nin Codex CLI belgeleri ve openai/codex README’si, 24 Ağustos 2026’da kontrol edildi.
+
+## Güncelleme
+- 27 Ağustos 2026: Yıldız 115.876 → 119.077, son sürüm rust-v0.150.1 (27 Ağustos 2026).
 
 ## Bu araç ne yapar?
 

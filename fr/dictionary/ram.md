@@ -31,6 +31,7 @@ Il l'augmente jusqu'au niveau requis et l'excédent reste inutilisé.
 
 ## Outils liés
 - [Llmfit](/fr/discover/llmfit/)
+- [Invidious](/fr/discover/invidious/)
 - [Needle](/fr/discover/needle/)
 
 ---

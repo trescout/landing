@@ -13,7 +13,7 @@ Hermes WebUI ist eine Schnittstelle, mit der Sie Hermes-KI-Agenten über einen W
 - Genießen Sie die einfache und benutzerfreundliche Oberfläche.
 
 ## Installation
-****
+**Offizielles Repository klonen und starten**
 
 ```
 git clone https://github.com/nesquena/hermes-webui.git hermes-webui
@@ -23,7 +23,7 @@ python3 bootstrap.py
 
 
 ## Ausführung
-****
+**Server starten**
 
 ```
 ./start.sh

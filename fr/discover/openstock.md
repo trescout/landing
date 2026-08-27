@@ -14,7 +14,7 @@ OpenStock est une alternative open source aux plateformes d'échange coûteuses.
 - Cela élimine le besoin de plates-formes coûteuses.
 
 ## Installation
-****
+**Cloner le dépôt GitHub**
 
 ```
 git clone https://github.com/Open-Dev-Society/OpenStock.git

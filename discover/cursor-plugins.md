@@ -23,6 +23,16 @@ Cursor Plugins ; Cursor kod editörü için hazırlanan resmi eklenti spesifikas
 - Resmi spesifikasyon yapısı sayesinde ileriye dönük uyumluluk sağlar.
 - Hazır eklentilerden ilham alarak kendi çözümlerinizi geliştirebilirsiniz.
 
+## Kurulum
+
+**Git ile eklentileri klonla**
+
+```
+git clone https://github.com/cursor-plugins/cursor-plugins.git
+```
+
+Kaynak: Resmî kaynak: https://github.com/cursor/plugins
+
 ## AI ile nasıl kullanılır?
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Cursor editöründe çalıştığım projeye bu depodaki resmi Cursor eklentilerini (örneğin kod incelemesi ya da güvenlik denetimi yapan eklentileri) Cursor eklenti pazarından kurmama ve nasıl kullanacağımı adım adım anlatmana yardım et.

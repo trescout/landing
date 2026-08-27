@@ -12,7 +12,7 @@ Keycloak offers open source identity and access management solutions for modern 
 - Effortlessly increases application security.
 
 ## Installation
-****
+**Start Local Development Container**
 
 ```
 docker run --name keycloak -p 127.0.0.1:8080:8080 -e KC_BOOTSTRAP_ADMIN_USERNAME=admin -e KC_BOOTSTRAP_ADMIN_PASSWORD=change_me quay.io/keycloak/keycloak:latest start-dev
@@ -20,7 +20,7 @@ docker run --name keycloak -p 127.0.0.1:8080:8080 -e KC_BOOTSTRAP_ADMIN_USERNAME
 
 
 ## Running it
-****
+**Access Local UI**
 
 ```
 http://localhost:8080
@@ -29,6 +29,8 @@ http://localhost:8080
 
 ## Getting started
 - Official source →
+
+## Related dictionary terms
 
 ## Links
 - GitHub repository →

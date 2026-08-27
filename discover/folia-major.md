@@ -2,15 +2,15 @@
 
 Folia-major, yerel müzik dosyaları ve çevrimiçi platformlar için görselleştirilmiş şarkı sözü animasyonları sunan bir oynatıcı arayüzüdür. TypeScript ile geliştirilen bu araç, müzik dinleme deneyimini dinamik görsel efektlerle zenginleştirmeyi amaçlar.
 
-- ★ 1.802
+- ★ 1.839
 - TypeScript
 - GitHub Trending · 2026-07-05
 
 ## Güncelleme
+- 27 Ağustos 2026: Yıldız 1.802 → 1.839, son sürüm v0.7.0 (25 Ağustos 2026).
 - 23 Ağustos 2026: Yıldız 1.786 → 1.802, son sürüm v0.6.22 (22 Ağustos 2026).
 - 21 Ağustos 2026: Yıldız 1.784 → 1.786, son sürüm v0.6.21 (21 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 1.769 → 1.784, son sürüm v0.6.20 (20 Ağustos 2026).
-- 18 Ağustos 2026: Yıldız 1.742 → 1.769, son sürüm v0.6.19 (17 Ağustos 2026).
 
 ## Ne kazandırır?
 - Dinamik tam ekran şarkı sözü animasyonları

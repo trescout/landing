@@ -2,7 +2,7 @@
 
 Chatwoot es una plataforma de código abierto que ofrece chat en vivo, soporte por correo electrónico y gestión de escritorio omnicanal. Desarrollada como una alternativa a software comerciales como Intercom y Zendesk, esta herramienta permite gestionar las interacciones con los clientes desde un único centro.
 
-- ★ 36.001
+- ★ 36.253
 - GitHub Trending · 2026-06-12
 
 ## Qué aporta
@@ -11,19 +11,19 @@ Chatwoot es una plataforma de código abierto que ofrece chat en vivo, soporte p
 - Le brinda control total sobre los datos de sus clientes al alojarlos en su propio servidor.
 
 ## Instalación
-****
+**Descargar archivo de entorno**
 
 ```
 wget -O .env https://raw.githubusercontent.com/chatwoot/chatwoot/develop/.env.example
 ```
 
-****
+**Descargar archivo Docker Compose**
 
 ```
 wget -O docker-compose.yaml https://raw.githubusercontent.com/chatwoot/chatwoot/develop/docker-compose.production.yaml
 ```
 
-****
+**Preparar base de datos**
 
 ```
 docker compose run --rm rails bundle exec rails db:chatwoot_prepare
@@ -31,7 +31,7 @@ docker compose run --rm rails bundle exec rails db:chatwoot_prepare
 
 
 ## Ejecución
-****
+**Iniciar servicios**
 
 ```
 docker compose up -d

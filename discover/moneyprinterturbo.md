@@ -2,8 +2,6 @@
 
 MoneyPrinterTurbo , verdiğiniz bir konu veya anahtar kelimeden büyük dil modellerini kullanarak otomatik kısa videolar üretir. Metin, altyazı, arka plan müziği ve görselleri birleştirir. (İsim pazarlama amaçlıdır, bir 'para basma' makinesi değil, içerik üretim aracıdır.)
 
-_Görsel: MoneyPrinterTurbo (proje deposundan)_
-
 - ★ 114.747
 - Python
 - MIT
@@ -26,6 +24,31 @@ _Görsel: MoneyPrinterTurbo (proje deposundan)_
 - Web arayüzü sayesinde kullanımı kolaydır.
 - Toplu ve çoklu video üretimine olanak tanır.
 
+## Kurulum
+
+**Resmî depoyu klonla**
+
+```
+git clone https://github.com/harry0703/MoneyPrinterTurbo.git
+cd MoneyPrinterTurbo
+```
+
+## Çalıştırma
+
+**Docker Compose ile başlat**
+
+```
+docker-compose up
+```
+
+**Web arayüzünü başlat**
+
+```
+uv run streamlit run ./webui/Main.py --browser.gatherUsageStats=False
+```
+
+Kaynak: Resmî kaynak: https://github.com/harry0703/MoneyPrinterTurbo
+
 ## Dürüst not
 
 Çalışması için bir AI model API anahtarı + kurulum gerekir; API kullanımı ücretli olabilir. Üretilen videoların telif ve platform kurallarına uygunluğu kullanıcının sorumluluğundadır.
@@ -33,25 +56,6 @@ _Görsel: MoneyPrinterTurbo (proje deposundan)_
 ## Nasıl kurulur, nasıl kullanılır?
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 MoneyPrinterTurbo'yu kur ve çalıştır: 'git clone https://github.com/harry0703/MoneyPrinterTurbo.git' ile depoyu indir, dizine girip 'docker-compose up' komutuyla başlat, sonra tarayıcıdan http://127.0.0.1:8501 adresindeki web arayüzünü aç.
-
-**Depoyu klonla**
-
-```
-git clone https://github.com/harry0703/MoneyPrinterTurbo.git
-```
-
-**Docker ile başlat**
-
-```
-cd MoneyPrinterTurbo
-docker-compose up
-```
-
-**Web arayüzünü çalıştır (uv ile)**
-
-```
-uv run streamlit run ./webui/Main.py --browser.gatherUsageStats=False
-```
 
 Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
 

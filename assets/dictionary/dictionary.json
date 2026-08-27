@@ -6909,11 +6909,11 @@
     "cat": "dev",
     "kisa": "Yapay zekâ komutlarının yazılım kodu gibi yönetilmesi, versiyonlanması ve test edilmesidir.",
     "date": "2026-08-24",
-    "kisa_en": "Yapay zekâ komutlarının yazılım kodu gibi yönetilmesi, versiyonlanması ve test edilmesidir.",
-    "kisa_fr": "Yapay zekâ komutlarının yazılım kodu gibi yönetilmesi, versiyonlanması ve test edilmesidir.",
-    "kisa_pt": "Yapay zekâ komutlarının yazılım kodu gibi yönetilmesi, versiyonlanması ve test edilmesidir.",
-    "kisa_es": "Yapay zekâ komutlarının yazılım kodu gibi yönetilmesi, versiyonlanması ve test edilmesidir.",
-    "kisa_de": "Yapay zekâ komutlarının yazılım kodu gibi yönetilmesi, versiyonlanması ve test edilmesidir."
+    "kisa_en": "It is the management, versioning and testing of artificial intelligence commands like software code.",
+    "kisa_fr": "Il s'agit de la gestion, du versionnage et des tests des commandes d'intelligence artificielle comme le code logiciel.",
+    "kisa_pt": "É o gerenciamento, controle de versão e teste de comandos de inteligência artificial, como código de software.",
+    "kisa_es": "Es la gestión, el control de versiones y las pruebas de comandos de inteligencia artificial como código de software.",
+    "kisa_de": "Dabei handelt es sich um die Verwaltung, Versionierung und Prüfung von Befehlen der künstlichen Intelligenz wie Softwarecode."
   },
   {
     "slug": "hive-mind",
@@ -6922,11 +6922,11 @@
     "cat": "ai",
     "kisa": "Birbirine bağlı birçok yapay zekâ biriminin ortak bir zeka gibi hareket etmesidir.",
     "date": "2026-08-24",
-    "kisa_en": "Birbirine bağlı birçok yapay zekâ biriminin ortak bir zeka gibi hareket etmesidir.",
-    "kisa_fr": "Birbirine bağlı birçok yapay zekâ biriminin ortak bir zeka gibi hareket etmesidir.",
-    "kisa_pt": "Birbirine bağlı birçok yapay zekâ biriminin ortak bir zeka gibi hareket etmesidir.",
-    "kisa_es": "Birbirine bağlı birçok yapay zekâ biriminin ortak bir zeka gibi hareket etmesidir.",
-    "kisa_de": "Birbirine bağlı birçok yapay zekâ biriminin ortak bir zeka gibi hareket etmesidir."
+    "kisa_en": "It is the act of many interconnected artificial intelligence units acting as a collective intelligence.",
+    "kisa_fr": "C’est le fait de nombreuses unités d’intelligence artificielle interconnectées agissant comme une intelligence collective.",
+    "kisa_pt": "É o ato de muitas unidades de inteligência artificial interconectadas agindo como uma inteligência coletiva.",
+    "kisa_es": "Es el acto de muchas unidades de inteligencia artificial interconectadas que actúan como una inteligencia colectiva.",
+    "kisa_de": "Dabei handelt es sich um den Vorgang vieler miteinander verbundener künstlicher Intelligenzeinheiten, die als kollektive Intelligenz fungieren."
   },
   {
     "slug": "append-only",
@@ -6935,11 +6935,11 @@
     "cat": "data",
     "kisa": "Verilerin sadece sona eklenebildiği, değiştirilemediği veya silinemediği bir kayıt yöntemidir.",
     "date": "2026-08-24",
-    "kisa_en": "Verilerin sadece sona eklenebildiği, değiştirilemediği veya silinemediği bir kayıt yöntemidir.",
-    "kisa_fr": "Verilerin sadece sona eklenebildiği, değiştirilemediği veya silinemediği bir kayıt yöntemidir.",
-    "kisa_pt": "Verilerin sadece sona eklenebildiği, değiştirilemediği veya silinemediği bir kayıt yöntemidir.",
-    "kisa_es": "Verilerin sadece sona eklenebildiği, değiştirilemediği veya silinemediği bir kayıt yöntemidir.",
-    "kisa_de": "Verilerin sadece sona eklenebildiği, değiştirilemediği veya silinemediği bir kayıt yöntemidir."
+    "kisa_en": "It is a recording method in which data can only be appended, cannot be changed or deleted.",
+    "kisa_fr": "Il s'agit d'une méthode d'enregistrement dans laquelle les données peuvent uniquement être ajoutées, ne peuvent pas être modifiées ou supprimées.",
+    "kisa_pt": "É um método de gravação no qual os dados só podem ser anexados, não podendo ser alterados ou excluídos.",
+    "kisa_es": "Es un método de grabación en el que los datos sólo se pueden agregar, no se pueden cambiar ni eliminar.",
+    "kisa_de": "Es handelt sich um eine Aufzeichnungsmethode, bei der Daten nur angehängt, nicht verändert oder gelöscht werden können."
   },
   {
     "slug": "swarms",
@@ -6948,11 +6948,11 @@
     "cat": "ai",
     "kisa": "Karmaşık görevleri çözmek için koordineli şekilde çalışan küçük yapay zekâ birimleri topluluğudur.",
     "date": "2026-08-24",
-    "kisa_en": "Karmaşık görevleri çözmek için koordineli şekilde çalışan küçük yapay zekâ birimleri topluluğudur.",
-    "kisa_fr": "Karmaşık görevleri çözmek için koordineli şekilde çalışan küçük yapay zekâ birimleri topluluğudur.",
-    "kisa_pt": "Karmaşık görevleri çözmek için koordineli şekilde çalışan küçük yapay zekâ birimleri topluluğudur.",
-    "kisa_es": "Karmaşık görevleri çözmek için koordineli şekilde çalışan küçük yapay zekâ birimleri topluluğudur.",
-    "kisa_de": "Karmaşık görevleri çözmek için koordineli şekilde çalışan küçük yapay zekâ birimleri topluluğudur."
+    "kisa_en": "It is a collection of small artificial intelligence units that work in coordination to solve complex tasks.",
+    "kisa_fr": "Il s’agit d’un ensemble de petites unités d’intelligence artificielle qui travaillent en coordination pour résoudre des tâches complexes.",
+    "kisa_pt": "É um conjunto de pequenas unidades de inteligência artificial que trabalham em coordenação para resolver tarefas complexas.",
+    "kisa_es": "Es un conjunto de pequeñas unidades de inteligencia artificial que trabajan coordinadamente para resolver tareas complejas.",
+    "kisa_de": "Dabei handelt es sich um eine Ansammlung kleiner Einheiten künstlicher Intelligenz, die koordiniert zusammenarbeiten, um komplexe Aufgaben zu lösen."
   },
   {
     "slug": "append-only-log",
@@ -6961,11 +6961,11 @@
     "cat": "data",
     "kisa": "Registre sécurisé où les anciennes données ne peuvent pas être modifiées, et où seules de nouvelles informations peuvent être ajoutées à la fin.",
     "date": "2026-08-25",
-    "kisa_en": "Secure ledger where old data cannot be modified and only new information can be appended at the end.",
+    "kisa_en": "Registre sécurisé où les anciennes données ne peuvent pas être modifiées, et où seules de nouvelles informations peuvent être ajoutées à la fin.",
     "kisa_fr": "Registre sécurisé où les anciennes données ne peuvent pas être modifiées, et où seules de nouvelles informations peuvent être ajoutées à la fin.",
-    "kisa_pt": "Registro seguro onde os dados antigos não podem ser modificados, e onde somente novas informações podem ser adicionadas ao final.",
-    "kisa_es": "Registro seguro en el que los datos anteriores no se pueden modificar y en el que solo se puede añadir nueva información al final.",
-    "kisa_de": "Sicheres Register, in dem frühere Daten nicht geändert werden können und in das nur neue Informationen am Ende hinzugefügt werden können."
+    "kisa_pt": "O registro seguro de dados antigos não pode ser modificado e nenhuma informação nova pode ser adicionada ao final.",
+    "kisa_es": "El registro seguro de las antiguas donaciones no puede modificarse, y algunas nuevas informaciones pueden ampliarse al final.",
+    "kisa_de": "Es ist nicht möglich, dass die alten Données geändert werden, und einige neue Informationen können bis zum Ende hinzugefügt werden."
   },
   {
     "slug": "personal-knowledge-management",
@@ -6974,10 +6974,88 @@
     "cat": "data",
     "kisa": "Méthode consistant à stocker et à récupérer de manière organisée les connaissances, idées et notes apprises par une personne à l'aide d'outils numériques.",
     "date": "2026-08-25",
-    "kisa_en": "A method of storing and retrieving a person's learned knowledge, ideas, and notes in an organized way using digital tools.",
-    "kisa_fr": "Méthode consistant à stocker et à récupérer de manière organisée les connaissances, idées et notes apprises par une personne à l'aide d'outils numériques.",
-    "kisa_pt": "Método que consiste em armazenar e recuperar de forma organizada os conhecimentos, ideias e anotações aprendidos por uma pessoa com a ajuda de ferramentas digitais.",
-    "kisa_es": "Método que consiste en almacenar y recuperar de manera organizada los conocimientos, las ideas y las notas adquiridos por una persona con la ayuda de herramientas digitales.",
-    "kisa_de": "Methode, Wissen, Ideen und Notizen, die eine Person erlernt hat, mithilfe digitaler Werkzeuge geordnet zu speichern und abzurufen."
+    "kisa_en": "Méthode consistant à stocker et à récupérer de manière organisée les connaissances, idées et notes apprises par une personne à l'aide d'outils numériques.",
+    "kisa_fr": "Méthode cohérente à stocker et à récupérer de manière organisée les connaissances, idées et notes apprises par une personne à l'aide d'outils numériques.",
+    "kisa_pt": "Método consistente para armazenar e recuperar de maneira organizada conhecimentos, ideias e notas informadas por uma pessoa ao auxiliar de ferramentas numéricas.",
+    "kisa_es": "Método consistente en almacenar y recuperar de manera organizada los conocimientos, ideas y notas informadas por una persona con la ayuda de herramientas numéricas.",
+    "kisa_de": "Die Methode besteht darin, Kenntnisse, Ideen und Notizen zu sammeln und zu sammeln, die von einem Mitarbeiter mit numerischen Hilfsmitteln in Kenntnis gesetzt werden."
+  },
+  {
+    "slug": "cv",
+    "en": "Computer Vision",
+    "full": "Computer Vision",
+    "cat": "ai",
+    "kisa": "Bilgisayarların dijital görüntüleri ve videoları analiz ederek içindeki nesneleri veya durumları anlamasını sağlayan teknoloji.",
+    "date": "2026-08-27",
+    "kisa_en": "Technology that allows computers to analyze digital images and videos to understand objects or situations within them.",
+    "kisa_fr": "Technologie qui permet aux ordinateurs d’analyser des images et des vidéos numériques pour comprendre les objets ou les situations qu’ils contiennent.",
+    "kisa_pt": "Tecnologia que permite que computadores analisem imagens e vídeos digitais para compreender objetos ou situações dentro deles.",
+    "kisa_es": "Tecnología que permite a las computadoras analizar imágenes y videos digitales para comprender objetos o situaciones dentro de ellos.",
+    "kisa_de": "Technologie, die es Computern ermöglicht, digitale Bilder und Videos zu analysieren, um darin enthaltene Objekte oder Situationen zu verstehen."
+  },
+  {
+    "slug": "pkm",
+    "en": "Personal Knowledge Management",
+    "full": "Personal Knowledge Management",
+    "cat": "data",
+    "kisa": "Kişisel bilgileri, notları ve fikirleri dijital ortamda düzenli bir şekilde saklayıp yönetme yöntemi.",
+    "date": "2026-08-27",
+    "kisa_en": "A method of storing and managing personal information, notes and ideas in a digital environment.",
+    "kisa_fr": "Une méthode de stockage et de gestion d'informations personnelles, de notes et d'idées dans un environnement numérique.",
+    "kisa_pt": "Um método de armazenamento e gerenciamento de informações pessoais, notas e ideias em um ambiente digital.",
+    "kisa_es": "Un método para almacenar y gestionar información personal, notas e ideas en un entorno digital.",
+    "kisa_de": "Eine Methode zum Speichern und Verwalten persönlicher Informationen, Notizen und Ideen in einer digitalen Umgebung."
+  },
+  {
+    "slug": "local-first-memory",
+    "en": "Local-first Memory",
+    "full": "",
+    "cat": "data",
+    "kisa": "Verilerin internete ihtiyaç duymadan doğrudan cihazınızda saklandığı ve her an erişilebilir olduğu bir bilgi depolama yaklaşımı.",
+    "date": "2026-08-27",
+    "kisa_en": "An approach to information storage where data is stored directly on your device and can be accessed at any time, without the need for the Internet.",
+    "kisa_fr": "Une approche du stockage d'informations où les données sont stockées directement sur votre appareil et sont accessibles à tout moment, sans avoir besoin d'Internet.",
+    "kisa_pt": "Uma abordagem de armazenamento de informações onde os dados são armazenados diretamente no seu dispositivo e podem ser acessados ​​a qualquer momento, sem a necessidade de Internet.",
+    "kisa_es": "Un enfoque para el almacenamiento de información donde los datos se almacenan directamente en su dispositivo y se puede acceder a ellos en cualquier momento, sin necesidad de Internet.",
+    "kisa_de": "Ein Ansatz zur Informationsspeicherung, bei dem Daten direkt auf Ihrem Gerät gespeichert werden und jederzeit abgerufen werden können, ohne dass das Internet erforderlich ist."
+  },
+  {
+    "slug": "agent-fleets",
+    "en": "Agent Fleets",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Karmaşık görevleri tamamlamak için birbirleriyle uyum içinde çalışan çok sayıda yapay zekâ yazılımının oluşturduğu grup.",
+    "date": "2026-08-27",
+    "kisa_en": "A group of multiple artificial intelligence software that work in harmony with each other to complete complex tasks.",
+    "kisa_fr": "Un groupe de plusieurs logiciels d’intelligence artificielle qui fonctionnent en harmonie les uns avec les autres pour accomplir des tâches complexes.",
+    "kisa_pt": "Um grupo de vários softwares de inteligência artificial que trabalham em harmonia entre si para concluir tarefas complexas.",
+    "kisa_es": "Un grupo de múltiples software de inteligencia artificial que funcionan en armonía entre sí para completar tareas complejas.",
+    "kisa_de": "Eine Gruppe mehrerer Softwareprogramme für künstliche Intelligenz, die harmonisch miteinander arbeiten, um komplexe Aufgaben zu erledigen."
+  },
+  {
+    "slug": "aws",
+    "en": "Amazon Web Services",
+    "full": "Amazon Web Services",
+    "cat": "dev",
+    "kisa": "İnternet üzerinden sunucu, depolama ve veritabanı gibi bilişim hizmetleri kiralayabileceğiniz devasa bir bulut platformu.",
+    "date": "2026-08-27",
+    "kisa_en": "A huge cloud platform where you can rent IT services such as servers, storage and databases over the internet.",
+    "kisa_fr": "Une immense plateforme cloud où vous pouvez louer des services informatiques tels que des serveurs, du stockage et des bases de données sur Internet.",
+    "kisa_pt": "Uma enorme plataforma em nuvem onde você pode alugar serviços de TI como servidores, armazenamento e bancos de dados pela internet.",
+    "kisa_es": "Una enorme plataforma en la nube donde puedes alquilar servicios de TI como servidores, almacenamiento y bases de datos a través de Internet.",
+    "kisa_de": "Eine riesige Cloud-Plattform, auf der Sie IT-Dienste wie Server, Speicher und Datenbanken über das Internet mieten können."
+  },
+  {
+    "slug": "openexecutive",
+    "en": "OpenExecutive",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Kurumsal yönetim süreçlerini otomatikleştirmek için tasarlanmış, açık kaynaklı bir yapay zekâ yönetim sistemi.",
+    "date": "2026-08-27",
+    "kisa_en": "An open source artificial intelligence management system designed to automate corporate management processes.",
+    "kisa_fr": "Un système de gestion d'intelligence artificielle open source conçu pour automatiser les processus de gestion d'entreprise.",
+    "kisa_pt": "Um sistema de gerenciamento de inteligência artificial de código aberto projetado para automatizar processos de gestão corporativa.",
+    "kisa_es": "Un sistema de gestión de inteligencia artificial de código abierto diseñado para automatizar los procesos de gestión corporativa.",
+    "kisa_de": "Ein Open-Source-Managementsystem für künstliche Intelligenz zur Automatisierung von Unternehmensmanagementprozessen."
   }
 ]

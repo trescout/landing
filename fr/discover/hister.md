@@ -2,9 +2,31 @@
 
 Moteur de recherche privé AGPLv3 pour interroger les pages web consultées et les fichiers personnels, avec indexation en texte intégral et recherche sémantique optionnelle.
 
-- ★ 2 620
+- ★ 3 100
 - Go
 - GitHub Trending · 2026-08-25
+
+## Installation
+**Rendre le binaire exécutable**
+
+```
+chmod +x hister
+```
+
+
+## Exécution
+**Démarrer le serveur Hister**
+
+```
+./hister listen
+```
+
+**Accéder à l'interface locale**
+
+```
+http://127.0.0.1:4433
+```
+
 
 ## Que fait cet outil ?
 Hister peut fonctionner localement ou sur une infrastructure que vous contrôlez ; il n'exige pas de service cloud obligatoire ni de télémétrie. Il indexe les pages via des extensions Chrome et Firefox, propose le crawling de sites et l'import de l'historique du navigateur. Si la recherche sémantique est activée, le texte du document est envoyé au point de terminaison d'embeddings sélectionné.
@@ -31,27 +53,7 @@ Pas pour les scénarios nécessitant un service cloud obligatoire ou de la tél�
 ## Premier prompt
 Ouvrez l'interface locale, indexez les pages sélectionnées via l'extension du navigateur et vérifiez la recherche en utilisant les filtres de requête.
 
-## Installation
-**Rendre le binaire exécutable**
-
-```
-chmod +x hister
-```
-
-
-## Exécution
-**Démarrer le serveur Hister**
-
-```
-./hister listen
-```
-
-**Accéder à l'interface locale**
-
-```
-http://127.0.0.1:4433
-```
-
+## Termes liés du glossaire
 
 ## Liens
 - Dépôt GitHub →

@@ -32,10 +32,10 @@ Yes, but the inclusion of changes in the main project usually depends on the app
 ## Related tools
 - [Superpowers](/en/discover/superpowers/)
 - [ECC](/en/discover/ecc/)
+- [N8n](/en/discover/n8n/)
 - [MarkItDown](/en/discover/markitdown/)
 - [Claude Code](/en/discover/claude-code/)
 - [MoneyPrinterTurbo](/en/discover/moneyprinterturbo/)
-- [RuView](/en/discover/ruview/)
 - [claude-mem](/en/discover/claude-mem/)
 - [Opencv](/en/discover/opencv/)
 

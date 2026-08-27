@@ -1,27 +1,27 @@
 # What is Append-only?
 
-Verilerin sadece sona eklenebildiği, değiştirilemediği veya silinemediği bir kayıt yöntemidir.
+It is a recording method in which data can only be appended, cannot be changed or deleted.
 
 ## Overview
-Bir veri tabanına veya dosyaya bilgi eklerken, eski verileri değiştirmek yerine her yeni bilgiyi listenin sonuna ekleme prensibidir. Bu yöntem, verinin geçmişini korumak ve güvenliğini sağlamak için kritiktir. Hiçbir veri silinmediği için sistemdeki tüm hareketlerin izini sürmek mümkündür.
+When adding information to a database or file, it is the principle of adding each new piece of information to the end of the list rather than replacing old data. This method is critical to preserve the history and security of the data. Since no data is deleted, it is possible to trace all movements in the system.
 
-*Analogy: Bir muhasebe defterine kurşun kalemle yazmak yerine, tükenmez kalemle her işlemi bir alt satıra yazmak gibidir; eski sayfaları karalayamazsınız.*
+*Analogy: It's like writing down each transaction with a ballpoint pen, instead of writing with a pencil in an accounting ledger; You can't black out old pages.*
 
 ## How it works
-Sistem, veriyi güncelleyen bir komut yerine sadece 'ekle' komutunu kabul eder. Bu sayede verinin tarihçesi her zaman korunmuş olur.
+The system only accepts an 'add' command rather than a command that updates the data. In this way, the history of the data is always preserved.
 
 ## Where it is used
-Blokzincir teknolojilerinde, günlük (log) tutma sistemlerinde ve denetlenebilir veri tabanlarında kullanılır.
+It is used in blockchain technologies, log keeping systems and auditable databases.
 
 ## Commonly confused with
-Geleneksel veri tabanları ile karıştırılabilir; geleneksel olanlar veriyi güncelleyebilir, bu yöntem ise asla izin vermez.
+Can be confused with traditional databases; traditional ones can update the data, this method never allows.
 
 ## Frequently asked questions
 **What happens if I make a mistake?**
-Hatalı veriyi silmek yerine, hatayı düzelten yeni bir kayıt daha eklersiniz.
+Instead of deleting the erroneous data, you add a new record that corrects the error.
 
-**Neden bu kadar güvenli?**
-Veri değiştirilemediği için geçmişe dönük manipülasyon yapmak imkansıza yakındır.
+**Why is it so safe?**
+Since the data cannot be changed, it is almost impossible to manipulate the past.
 
 
 ## Related terms

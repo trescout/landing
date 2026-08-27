@@ -26,7 +26,7 @@ winget install AquaSecurity.Trivy
 
 
 ## Running it
-****
+**Scan container image**
 
 ```
 trivy image imaj-adi:etiket

@@ -12,7 +12,7 @@ AirLLM permite que grandes modelos de linguagem com 70 bilhões de parâmetros s
 - Aumento de velocidade de até 3x com compactação baseada em bloco.
 
 ## Instalação
-**via pip (PyPI)**
+**com pip (PyPI)**
 
 ```
 pip install airllm

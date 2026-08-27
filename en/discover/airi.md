@@ -14,7 +14,7 @@ AIRI is an AI-based virtual character platform that you can host on your own ser
 - Your data remains entirely with you (self-host).
 
 ## Installation
-****
+**Clone repository with Git**
 
 ```
 git clone https://github.com/AIRI-institute/airi.git

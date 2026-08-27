@@ -2,7 +2,7 @@
 
 CopilotKit offers a React and Angular-based frontend stack for developing artificial intelligence agents and generative UIs. It provides an infrastructure that enables smart capabilities to be integrated into applications via the AG-UI protocol.
 
-- ★ 36,944
+- ★ 37,068
 - TypeScript
 - GitHub Trending · 2026-06-06
 
@@ -12,7 +12,7 @@ CopilotKit offers a React and Angular-based frontend stack for developing artifi
 - It enables the creation of human-approved workflows and self-learning agents.
 
 ## Installation
-****
+**Add with npm**
 
 ```
 npm install @copilotkit/react-core

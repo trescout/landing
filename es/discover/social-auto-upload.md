@@ -13,7 +13,7 @@ social-auto-upload es una herramienta de Python que carga automáticamente sus v
 - Flujo de trabajo eficiente que ahorra tiempo.
 
 ## Instalación
-**vía pip (PyPI)**
+**pip (PyPI)**
 
 ```
 pip install social-auto-upload

@@ -20,7 +20,7 @@ brew install --cask flutter
 
 
 ## Exécution
-**Vérifier les contrôles environnementaux**
+**Vérifier les contrôles d'environnement**
 
 ```
 flutter doctor

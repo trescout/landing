@@ -12,7 +12,7 @@ Harper oferece um verificador gramatical offline e voltado para a privacidade, d
 - Oferece alto desempenho com baixo uso de memória
 
 ## Instalação
-**macOS (homebrew)**
+**macOS (Homebrew)**
 
 ```
 brew install harper

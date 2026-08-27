@@ -1,18 +1,18 @@
-# Yapay zekâ görsel üretimi için şablonlar
+# Modelos para geração visual de IA
 
-GPT-Image2, görsel oluşturma süreçlerini kod olarak tanımlayan (Prompt as Code) bir istem mühendisliği (prompt engineering) kütüphanesi. 470'ten fazla tersine mühendislik yapılmış örnek ve 20'den fazla endüstriyel şablon ile yapay zekâ modellerinden tutarlı sonuçlar almayı kolaylaştırıyor.
+GPT-Image2 é uma biblioteca de engenharia imediata que define processos de criação de imagens como código (Prompt as Code). Com mais de 470 exemplos de engenharia reversa e mais de 20 modelos industriais, fica mais fácil obter resultados consistentes de modelos de IA.
 
-- ★ 14.719
+- ★ 22.435
 - JavaScript
 - GitHub Trending · 2026-08-24
 
 ## O que você ganha
-- 500'den fazla tersine mühendislik yapılmış görsel istemi
-- 20'den fazla endüstriyel görsel oluşturma şablonu
-- Görsel süreçlerini kod olarak tanımlayan yapısal protokoller
+- Mais de 500 avisos visuais de engenharia reversa
+- Mais de 20 modelos de renderização industrial
+- Protocolos estruturais que descrevem processos visuais como código
 
 ## Instalação
-**Tüm stilleri bilgisayara yükleme**
+**Instale todos os estilos no computador**
 
 ```
 npx gpt-image-2-style-library install all
@@ -28,7 +28,7 @@ npx skills add freestylefly/awesome-gpt-image-2 --skill gpt-image-2-style-librar
 
 
 ## Se você não programa
-Sen bir görsel istem mühendisisin. Awesome GPT Image 2 kütüphanesindeki yapısal protokolleri kullanarak, belirttiğim görsel konusunu; ışıklandırma, malzeme, düzen ve görsel detaylar gibi atomik parçalara ayır. Ürettiğin istemin yapay zekâ modelleri tarafından tutarlı ve kontrol edilebilir sonuçlar vermesini sağla.
+Você é um engenheiro de prompt visual. Usando os protocolos estruturais da biblioteca Awesome GPT Image 2, o assunto da imagem que especifiquei; Divida-o em partes atômicas, como iluminação, materiais, layout e detalhes visuais. Garanta que a solicitação que você produz forneça resultados consistentes e controláveis ​​por modelos de inteligência artificial.
 
 ## Termos relacionados do glossário
 

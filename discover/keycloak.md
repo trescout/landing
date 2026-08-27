@@ -18,21 +18,21 @@ Keycloak, modern uygulamalar ve hizmetler için açık kaynaklı kimlik ve eriş
 
 ## Kurulum
 
-**Resmî imajı çek**
+**Yerel geliştirme container’ını başlat**
 
 ```
-docker pull quay.io/keycloak/keycloak
+docker run --name keycloak -p 127.0.0.1:8080:8080 -e KC_BOOTSTRAP_ADMIN_USERNAME=admin -e KC_BOOTSTRAP_ADMIN_PASSWORD=change_me quay.io/keycloak/keycloak:latest start-dev
 ```
 
 ## Çalıştırma
 
-**Geliştirme kipinde başlat**
+**Yerel arayüze eriş**
 
 ```
-docker run -p 8080:8080 -e KC_BOOTSTRAP_ADMIN_USERNAME=admin -e KC_BOOTSTRAP_ADMIN_PASSWORD=admin quay.io/keycloak/keycloak start-dev
+http://localhost:8080
 ```
 
-Kaynak: Keycloak resmî imaj deposu · quay.io/keycloak/keycloak
+Kaynak: Resmî kaynak: https://www.keycloak.org/server/containers
 
 ## Nasıl başlanır?
 
@@ -46,6 +46,9 @@ Keycloak'ı kullanmaya başlamak için resmî web sitesi üzerinden dağıtım p
 - [GitHub deposu →](https://github.com/keycloak/keycloak)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Containers Container
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/keycloak/

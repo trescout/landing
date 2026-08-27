@@ -2,11 +2,12 @@
 
 Google tarafından geliştirilen komut satırı arayüzü (CLI), kodlama asistanlarını Google Bulut (Google Cloud) üzerinde yapay zekâ ajanları oluşturma, değerlendirme ve dağıtma konusunda uzmanlaştırıyor. Python tabanlı bu araç, ajan geliştirme süreçlerini standartlaştırarak bulut altyapısı üzerindeki operasyonel iş akışlarını hızlandırıyor.
 
-- ★ 5.681
+- ★ 5.736
 - Python
 - GitHub Trending · 2026-07-01
 
 ## Güncelleme
+- 27 Ağustos 2026: Yıldız 5.681 → 5.736, son sürüm v1.4.1 (24 Ağustos 2026).
 - 19 Ağustos 2026: Yıldız 5.491 → 5.681, son sürüm v1.4.0 (18 Ağustos 2026).
 - 6 Ağustos 2026: Yıldız 5.455 → 5.491, son sürüm v1.3.1 (4 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 4.413 → 5.455, son sürüm v1.2.1 (23 Temmuz 2026).

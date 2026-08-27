@@ -12,7 +12,7 @@ GeoLibre est une plate-forme de système d'information géographique (SIG) lég�
 - Traitement des données locales et confidentielles
 
 ## Installation
-**via pip (PyPI)**
+**Avec pip (PyPI)**
 
 ```
 pip install GeoLibre

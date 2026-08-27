@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Marin · Descubrir · TreScout</title>
-<meta name="description" content="An open development platform and research program for foundational model work. · Marin · Descubra este proyecto de código abierto en TreScout.">
+<meta name="description" content="It is a research program, software platform and community for the research and development of basic models.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/es/discover/marin.md">
 <link rel="canonical" href="https://trescout.com/es/discover/marin/">
@@ -16,19 +16,19 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/marin/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/marin/">
 <meta property="og:title" content="Marin">
-<meta property="og:description" content="An open development platform and research program for foundational model work. · Marin · Descubra este proyecto de código abierto en TreScout.">
+<meta property="og:description" content="It is a research program, software platform and community for the research and development of basic models.">
 <meta property="og:url" content="https://trescout.com/es/discover/marin/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="es_ES">
-<meta property="og:image" content="https://trescout.com/assets/discover/og/marin.webp">
+<meta property="og:image" content="https://trescout.com/assets/discover/og/marin-es.webp">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Marin">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Marin">
-<meta name="twitter:description" content="An open development platform and research program for foundational model work. · Marin · Descubra este proyecto de código abierto en TreScout.">
-<meta name="twitter:image" content="https://trescout.com/assets/discover/og/marin.webp">
+<meta name="twitter:description" content="It is a research program, software platform and community for the research and development of basic models.">
+<meta name="twitter:image" content="https://trescout.com/assets/discover/og/marin-es.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -45,7 +45,7 @@
     "@type": "Organization",
     "name": "TreScout"
   },
-  "image": "https://trescout.com/assets/discover/og/marin.webp",
+  "image": "https://trescout.com/assets/discover/og/marin-es.webp",
   "url": "https://trescout.com/es/discover/marin/",
   "about": {
     "@type": "SoftwareSourceCode",
@@ -68,6 +68,9 @@
 <h1 class="disc-title">Plataforma de desarrollo abierta para investigación de modelos base</h1>
 <p class="disc-lead">Ejecuta experimentos como pasos dependientes en orden topológico y documenta código, datos, decisiones y experimentos fallidos. La primera guía oficial muestra cómo tokenizar TinyStories y entrenar un modelo de lenguaje pequeño.</p>
 <ul class="disc-meta"><li>★ 1.967</li><li>Python</li><li>GitHub Trending · 2026-08-25</li></ul>
+      <section class="disc-sec"><h2>Instalación</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Clonar el repositorio oficial</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>git clone https://github.com/marin-community/marin.git</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Crear el entorno Python</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>uv venv --python 3.12</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Instalar las dependencias</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>uv sync --all-packages</code></pre></div></section>
+      <section class="disc-sec"><h2>Ejecución</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Ejecutar la prueba smoke en CPU</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>wandb offline
+uv run python experiments/tutorials/train_tiny_model.py --device cpu --dataset tinystories --version dev --run</code></pre></div></section>
       <section class="disc-sec"><h2>¿Qué hace esta herramienta?</h2><p>Ejecuta experimentos como pasos dependientes en orden topológico. El primer experimento oficial demuestra la tokenización de TinyStories y el entrenamiento de un modelo de lenguaje pequeño; el enfoque de desarrollo abierto también documenta el código, los datos, las decisiones y los experimentos fallidos.</p></section>
       <section class="disc-sec"><h2>¿Para quién es?</h2><p>Equipos que investigan curación, transformación y filtrado de datos, tokenización, entrenamiento de modelos y evaluación.</p></section>
       <section class="disc-sec"><h2>Qué no esperar</h2><p>Tareas de desarrollo de aplicaciones simples que no forman parte de la investigación de modelos base, o quienes no quieran configurar el entorno de Python y las herramientas de desarrollo necesarias.</p></section>
@@ -75,17 +78,15 @@
       <section class="disc-sec"><h2>Primer flujo de uso</h2><ol class="disc-steps"><li>Clona el repositorio oficial y crea un entorno virtual con Python 3.12 o superior</li><li>Sincroniza las dependencias con uv</li><li>Configura la variable de entorno MARIN_PREFIX</li><li>Ejecuta la prueba smoke offline de TinyStories en CPU</li></ol></section>
       <section class="disc-sec"><h2>Inicio seguro</h2><div class="disc-note">La prueba smoke en CPU es sólo para la verificación inicial. Las dependencias para CPU, GPU y TPU pueden requerir hardware adicional. WANDB_API_KEY y HF_TOKEN sólo son necesarios para flujos de monitorización o modelos cerrados correspondientes.</div></section>
       <section class="disc-sec"><h2>Primer prompt</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Pegue esto en su agente (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Copiar instrucción">Copiar</button></div><p class="disc-ai-text">Ejecuta como verificación inicial el flujo offline de TinyStories entrenando un modelo pequeño en CPU.</p></div></section>
-      <section class="disc-sec"><h2>Instalación</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Clonar el repositorio oficial</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>git clone https://github.com/marin-community/marin.git</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Crear el entorno Python</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>uv venv --python 3.12</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Instalar las dependencias</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>uv sync --all-packages</code></pre></div></section>
-      <section class="disc-sec"><h2>Ejecución</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Ejecutar la prueba smoke en CPU</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>wandb offline
-uv run python experiments/tutorials/train_tiny_model.py --device cpu --dataset tinystories --version dev --run</code></pre></div></section>
+      <section class="disc-sec"><h2>Términos relacionados del glosario</h2><div class="disc-related"><a href="/es/dictionary/cpu/">CPU</a><a href="/es/dictionary/gpu/">GPU</a></div></section>
       <section class="disc-sec"><h2>Enlaces</h2><ul class="disc-links"><li><a href="https://github.com/marin-community/marin" target="_blank" rel="noopener">Repositorio en GitHub →</a></li><li><a href="https://marin.readthedocs.io/en/latest/tutorials/installation/" target="_blank" rel="noopener">Documentación de instalación →</a></li><li><a href="https://marin.readthedocs.io/en/latest/tutorials/first-experiment/" target="_blank" rel="noopener">Primer experimento →</a></li><li><a href="https://github.com/marin-community/marin" target="_blank" rel="noopener">README oficial →</a></li><li><a href="https://trescout.com/discover/marin/">Leer en turco →</a></li></ul></section>
 <p class="disc-disclaimer">TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-25: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se <strong>tradujo automáticamente</strong> del original en turco · prevalece la versión turca.</p>
-<aside class="disc-cta"><p><strong>TreScout encuentra herramientas como esta todos los días.</strong> Rastreamos GitHub, Hacker News y HuggingFace, y le resumimos lo esencial.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-es" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Su correo electrónico" autocomplete="email" required><button class="btn btn-primary" type="submit">Acceso anticipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>He leído el <a href="/es/privacy.html" target="_blank" rel="noopener">aviso de privacidad</a> y acepto que mi correo se trate con esta finalidad.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/es/discover/">Todos los descubrimientos →</a></aside>
+<aside class="disc-cta"><p><strong>Reciba descubrimientos similares en el informe diario.</strong> TreScout rastrea GitHub, Hacker News y HuggingFace cada día y le resume lo esencial.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-es" data-page-type="discover" data-content-slug="marin" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Su correo electrónico" autocomplete="email" required><button class="btn btn-primary" type="submit">Acceso anticipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>He leído el <a href="/es/privacy.html" target="_blank" rel="noopener">aviso de privacidad</a> y acepto que mi correo se trate con esta finalidad.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/es/discover/">Todos los descubrimientos →</a></aside>
 </article>
 </main>
 <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">TreScout rastrea, resume y entrega. Usted solo lee.</p></div><div class="footer-col"><div class="footer-col-title">Producto</div><ul><li><a href="/es/discover/">Descubrir</a></li><li><a href="/es/dictionary/">Glosario</a></li><li><a href="/es/reports/">Archivo de informes</a></li><li><a href="/es/compare/rss-vs-ai/">Comparar</a></li><li><a href="/es/#top">Acceso anticipado</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Contacto</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/es/privacy.html" target="_blank" rel="noopener">Aviso de privacidad</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Redes</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Todos los derechos reservados.</span></div></div></footer>
 <script src="/assets/discover.js" defer></script>
 <script src="/assets/subscribe.js" defer></script>
-<script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script><script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>  <script src="/assets/provider-consent.js" defer></script>
+<script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script><script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script><script src="/assets/telemetry.js" defer></script>
 </body>
 </html>

@@ -1,6 +1,6 @@
 # Bereinigen Sie unnötige Abhängigkeiten
 
-Als eine Entwicklungsstufe für die Softwareentwicklung auf Python-Basis werden die Abhängigkeiten und komplexen Strukturen auf der Basis von Codes eingeschränkt. Im Projekt gibt es keine Reduzir, es ist kein Problem, es ist eine Frage der Zeit.
+OBLITERATUS befasst sich mit der Analyse von Sicherheitsbarriereaspekten, der Erkennung von Ausrichtungsspuren, der Bewertung der Verteidigungsrobustheit und Techniken zum Entfernen von Ablehnungs- und Sicherheitsbarrieresignalen aus Sprachmodellen.
 
 - ★ 7.994
 - Python

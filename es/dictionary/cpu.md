@@ -31,6 +31,7 @@ Son pequeñas unidades de procesamiento independientes dentro de un procesador q
 - [Ktransformers](/es/discover/ktransformers/)
 - [Pocket TTS](/es/discover/pocket-tts/)
 - [Whichllm](/es/discover/whichllm/)
+- [Marin](/es/discover/marin/)
 - [Transcribe.cpp](/es/discover/transcribe-cpp/)
 - [Sharpemu](/es/discover/sharpemu/)
 

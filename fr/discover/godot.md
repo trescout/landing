@@ -17,7 +17,7 @@ Godot Engine (Godot Engine) est un moteur de jeu open source utilisé pour les p
 brew install --cask godot
 ```
 
-**Fenêtres (winget)**
+**Windows (winget)**
 
 ```
 winget install GodotEngine.GodotEngine

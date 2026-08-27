@@ -2,10 +2,11 @@
 
 TradingAgents, finansal piyasalarda işlem yapmak amacıyla geliştirilen çoklu ajanlı büyük dil modeli (multi-agent LLM) tabanlı bir çerçevedir. Python ile yazılan bu sistem, otonom ticaret ajanlarının finansal verileri analiz ederek strateji oluşturmasını ve karar verme süreçlerini yönetmesini sağlar.
 
-- ★ 95.338
+- ★ 100.847
 - GitHub Trending · 2026-06-02
 
 ## Güncelleme
+- 27 Ağustos 2026: Yıldız 95.338 → 100.847, son sürüm v0.3.1 (5 Temmuz 2026).
 - 2 Ağustos 2026: Yıldız 82.054 → 95.338, son sürüm v0.3.1 (5 Temmuz 2026).
 
 ## Ne kazandırır?
@@ -15,27 +16,23 @@ TradingAgents, finansal piyasalarda işlem yapmak amacıyla geliştirilen çoklu
 
 ## Kurulum
 
-**Depoyu Klonlama ve Ortam Kurulumu**
+**Resmî depoyu klonla ve kur**
 
 ```
 git clone https://github.com/TauricResearch/TradingAgents.git
 cd TradingAgents
-```
-
-**Paket Kurulumu**
-
-```
 pip install .
 ```
 
 ## Çalıştırma
 
-**Komut Satırı Kullanımı**
+**Örnek CLI’ı çalıştır**
 
 ```
-tradingagents # installed command
-python -m cli.main # alternative: run directly from source
+python -m cli.main
 ```
+
+Kaynak: Resmî kaynak: https://github.com/TauricResearch/TradingAgents
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
@@ -50,7 +47,7 @@ TradingAgents aracını kullanarak finansal piyasa verilerini analiz etmek istiy
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Multi-agent LLM Multi-agent LLM API Artificial Intelligence
+Multi-agent LLM Multi-agent LLM API CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/tradingagents/

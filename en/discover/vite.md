@@ -11,7 +11,7 @@ Vite offers a fast development environment and build tool for modern web project
 - Code packaging optimized for production
 
 ## Installation
-****
+**Create Vite Project**
 
 ```
 npm create vite@latest my-app

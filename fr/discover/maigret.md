@@ -2,7 +2,7 @@
 
 Maigret scanne plus de 3000 sites Web à partir des noms d'utilisateurs et crée un dossier de personnes. Développé avec Python, cet outil automatise le suivi de l'empreinte numérique dans les processus d'intelligence open source (OSINT).
 
-- ★ 36 075
+- ★ 37 089
 - Python
 - GitHub Trending · 2026-06-11
 
@@ -12,7 +12,7 @@ Maigret scanne plus de 3000 sites Web à partir des noms d'utilisateurs et crée
 - Il visualise les données obtenues et fournit des rapports.
 
 ## Installation
-****
+**Installer via PyPI**
 
 ```
 pip install maigret
@@ -20,7 +20,7 @@ pip install maigret
 
 
 ## Exécution
-****
+**Scanner le nom d'utilisateur**
 
 ```
 maigret kullanici-adi

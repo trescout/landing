@@ -22,6 +22,16 @@ AIRI , kendi sunucunuzda barındırabileceğiniz, gerçek zamanlı sesli sohbet 
 - Minecraft ve Factorio gibi oyunları oynayabilme yeteneği.
 - Verileriniz tamamen sizde kalır (self-host).
 
+## Kurulum
+
+**Git ile depoyu klonla**
+
+```
+git clone https://github.com/AIRI-institute/airi.git
+```
+
+Kaynak: Resmî kaynak: https://github.com/moeru-ai/airi
+
 ## Nasıl başlanır?
 
 Dokümantasyonu takip ederek kendi sisteminize kolayca kurabilirsiniz (airi.moeru.ai/docs). Web, macOS ve Windows platformları desteklenmektedir.
@@ -29,18 +39,6 @@ Dokümantasyonu takip ederek kendi sisteminize kolayca kurabilirsiniz (airi.moer
 ## Nasıl kurulur, nasıl kullanılır?
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 AIRI adlı yapay zekâ sanal karakter uygulamasını bilgisayarıma kur: macOS'taysam 'brew install --cask airi', Windows'taysam 'winget install MoeruAI.AIRI' komutunu çalıştır ve uygulamayı aç.
-
-**macOS · Homebrew ile kur**
-
-```
-brew install --cask airi
-```
-
-**Windows · winget ile kur**
-
-```
-winget install MoeruAI.AIRI
-```
 
 Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
 

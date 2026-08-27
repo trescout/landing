@@ -14,7 +14,7 @@ ECC; Claude Code is a comprehensive system that brings skills, instincts, memory
 - It is not limited to a single tool, it works compatible with multiple environments (Claude Code, Codex, Cursor…).
 
 ## Installation
-****
+**Add plugin via Claude Code**
 
 ```
 /plugin marketplace add https://github.com/affaan-m/ECC

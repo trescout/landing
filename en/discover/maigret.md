@@ -2,7 +2,7 @@
 
 Maigret scans more than 3000 websites based on usernames and creates a dossier of people. Developed with Python, this tool automates digital footprint tracking in open source intelligence (OSINT) processes.
 
-- ★ 36,075
+- ★ 37,089
 - Python
 - GitHub Trending · 2026-06-11
 
@@ -12,7 +12,7 @@ Maigret scans more than 3000 websites based on usernames and creates a dossier o
 - It visualizes the obtained data and provides reports.
 
 ## Installation
-****
+**Install via PyPI**
 
 ```
 pip install maigret
@@ -20,7 +20,7 @@ pip install maigret
 
 
 ## Running it
-****
+**Scan username**
 
 ```
 maigret kullanici-adi

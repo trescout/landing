@@ -13,7 +13,7 @@ Hermes WebUI is an interface that allows you to manage Hermes AI agents via web 
 - Enjoy the simple and user-friendly interface.
 
 ## Installation
-****
+**Clone official repo and start**
 
 ```
 git clone https://github.com/nesquena/hermes-webui.git hermes-webui
@@ -23,7 +23,7 @@ python3 bootstrap.py
 
 
 ## Running it
-****
+**Start server**
 
 ```
 ./start.sh

@@ -1,6 +1,6 @@
 # Clean up unnecessary dependencies
 
-OBLITERATUS, açık kaynaklı bir projedir.
+OBLITERATUS addresses the analysis of security barrier aspects, detection of alignment traces, evaluation of defense robustness, and techniques for removing rejection and security barrier signals from language models.
 
 - ★ 7,994
 - Python

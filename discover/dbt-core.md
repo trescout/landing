@@ -33,7 +33,7 @@ pip install dbt-core
 dbt run
 ```
 
-Kaynak: PyPI · dbt-core
+Kaynak: Resmî kaynak: https://getdbt.com
 
 ## Nasıl başlanır?
 

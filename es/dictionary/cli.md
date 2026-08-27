@@ -33,12 +33,12 @@ El sistema suele dar errores, pero también hay comandos críticos que requieren
 ## Herramientas relacionadas
 - [Superpowers](/es/discover/superpowers/)
 - [Spec Kit](/es/discover/spec-kit/)
+- [Codex](/es/discover/codex/)
+- [Ponytail](/es/discover/ponytail/)
 - [Graphify](/es/discover/graphify/)
 - [Angular](/es/discover/angular/)
-- [Svelte](/es/discover/svelte/)
+- [TradingAgents](/es/discover/tradingagents/)
 - [Understand Anything](/es/discover/understand-anything/)
-- [Agent-Reach](/es/discover/agent-reach/)
-- [Impeccable](/es/discover/impeccable/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/cli/

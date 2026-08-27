@@ -2,12 +2,30 @@
 
 Kronos , finansal piyasaların kendine has örüntülerini çözümlemek için tasarlanmış bir temel modeldir (foundation model) . Piyasa verilerinin karmaşık yapısını analiz etmeye odaklanır ve kantitatif finans ile makine öğrenmesi çalışmalarında kullanılır.
 
-_Görsel: Kronos (proje deposundan)_
-
 - ★ 37.285
 - Python
 - MIT
 - GitHub Trending · 28 May 2026
+
+## Kurulum
+
+**Resmî depoyu klonla**
+
+```
+git clone https://github.com/shiyu-coder/Kronos.git
+cd Kronos
+pip install -r requirements.txt
+```
+
+## Çalıştırma
+
+**Örnek tahmini çalıştır**
+
+```
+python examples/prediction_example.py
+```
+
+Kaynak: Resmî kaynak: https://github.com/shiyu-coder/Kronos
 
 ## Güncelleme
 - 15 Ağustos 2026: Yıldız 35.441 → 37.285.
@@ -31,18 +49,6 @@ Bu bir araştırma modelidir; yatırım tavsiyesi ya da hazır kazanç aracı de
 ## Nasıl kurulur, nasıl kullanılır?
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Kronos finansal tahmin modelini kur: depoyu indirip içinde 'pip install -r requirements.txt' çalıştır, sonra 'python examples/prediction_example.py' betiğini çalıştırarak K-line (mum grafiği) verisi üzerinde bir fiyat tahmini üret ve sonucu grafikle.
-
-**Bağımlılıkları kur**
-
-```
-pip install -r requirements.txt
-```
-
-**Örnek tahmin betiğini çalıştır**
-
-```
-python examples/prediction_example.py
-```
 
 Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
 

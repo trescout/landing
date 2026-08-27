@@ -12,7 +12,7 @@ Desenvolvido pelo Google, o Abseil oferece trechos de código-fonte aberto que c
 - Completa a funcionalidade ausente na biblioteca padrão
 
 ## Instalação
-**macOS (homebrew)**
+**macOS (Homebrew)**
 
 ```
 brew install abseil

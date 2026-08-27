@@ -11,7 +11,7 @@ Vite offre un environnement de développement rapide et un outil de création po
 - Emballage de code optimisé pour la production
 
 ## Installation
-****
+**Créer un projet Vite**
 
 ```
 npm create vite@latest my-app

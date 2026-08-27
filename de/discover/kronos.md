@@ -8,7 +8,7 @@ Kronos ist ein Grundlagenmodell zur Analyse der einzigartigen Muster der Finanzm
 - GitHub Trending · 28 May 2026
 
 ## Installation
-****
+**Offizielles Repository klonen**
 
 ```
 git clone https://github.com/shiyu-coder/Kronos.git
@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 
 ## Ausführung
-****
+**Beispielvorhersage ausführen**
 
 ```
 python examples/prediction_example.py

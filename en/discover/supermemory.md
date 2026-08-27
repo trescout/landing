@@ -13,7 +13,7 @@ Supermemory offers a highly scalable memory engine and API designed for the age 
 - Easy integration via API.
 
 ## Installation
-****
+**Install with npm**
 
 ```
 npm install supermemory
@@ -21,7 +21,7 @@ npm install supermemory
 
 
 ## Running it
-****
+**Add MCP server for Claude**
 
 ```
 npx -y install-mcp@latest https://mcp.supermemory.ai/mcp --client claude --oauth=yes

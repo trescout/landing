@@ -8,7 +8,7 @@
 - GitHub Trending · 26 May 2026
 
 ## Instalación
-****
+**Agregar complemento Claude Code**
 
 ```
 /plugin marketplace add Lum1104/Understand-Anything
@@ -17,7 +17,7 @@
 
 
 ## Ejecución
-****
+**Analizar base de código**
 
 ```
 /understand

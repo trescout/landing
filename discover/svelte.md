@@ -19,13 +19,23 @@ TreScout notu: Web arayüzü yazarken kullanılan çerçevelerden biri. İşin �
 
 ## Kurulum
 
-**Yeni proje (resmî CLI)**
+**Svelte projesi oluştur**
 
 ```
-npx sv create
+npx sv create my-app
+cd my-app
+npm install
 ```
 
-Kaynak: svelte.dev (resmî CLI)
+## Çalıştırma
+
+**Geliştirme sunucusunu başlat**
+
+```
+npm run dev
+```
+
+Kaynak: Resmî kaynak: https://github.com/sveltejs/svelte
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
@@ -40,7 +50,7 @@ Svelte kütüphanesini kullanarak web uygulaması geliştirmek istiyorum. Svelte
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-07 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Compile-time Runtime CLI Artificial Intelligence
+Compile-time Runtime Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/svelte/

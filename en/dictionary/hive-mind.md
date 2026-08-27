@@ -1,27 +1,27 @@
 # What is Hive Mind?
 
-Birbirine bağlı birçok yapay zekâ biriminin ortak bir zeka gibi hareket etmesidir.
+It is the act of many interconnected artificial intelligence units acting as a collective intelligence.
 
 ## Overview
-Doğadaki karınca kolonileri gibi, çok sayıda bağımsız yapay zekâ biriminin bir araya gelerek tek bir büyük zeka gibi davranmasıdır. Her birim kendi uzmanlığına sahiptir ancak ortak bir amaç için sürekli iletişim halindedirler. Bu yapı, tek bir güçlü modelden ziyade, iş birliği yapan bir topluluğun gücünden yararlanır.
+Like ant colonies in nature, many independent artificial intelligence units come together and act as a single large intelligence. Each unit has its own expertise, but they are in constant communication for a common goal. This structure leverages the power of a collaborative community rather than a single powerful model.
 
-*Analogy: Bir orkestradaki her müzisyenin kendi enstrümanını çalarken, bir bütün olarak tek bir senfoniyi oluşturması gibidir.*
+*Analogy: It is like each musician in an orchestra playing their own instrument, creating a single symphony as a whole.*
 
 ## How it works
-Farklı görevlere atanmış yapay zekâ ajanları, bir iletişim protokolü üzerinden birbirlerine veri aktarır ve ortak bir hedefe doğru kararlar alırlar.
+Artificial intelligence agents assigned to different tasks transfer data to each other over a communication protocol and make decisions towards a common goal.
 
 ## Where it is used
-Karmaşık problem çözme, büyük ölçekli veri analizi ve otonom robotik sistemlerde kullanılır.
+It is used in complex problem solving, large-scale data analysis, and autonomous robotic systems.
 
 ## Commonly confused with
-Multi-agent sistemlerle benzerdir ancak burada vurgu, birimlerin tek bir zihin gibi hareket etmesindedir.
+It is similar to multi-agent systems, but the emphasis is on units acting as a single mind.
 
 ## Frequently asked questions
-**Hive mind neden daha iyidir?**
-Tek bir modelin kapasitesini aşan karmaşık sorunları, iş bölümü yaparak çok daha hızlı çözebilir.
+**Why is hive mind better?**
+Complex problems that exceed the capacity of a single model can be solved much faster by dividing the work.
 
-**Birimler nasıl haberleşir?**
-Genellikle ortak bir mesajlaşma protokolü veya paylaşılan bir bellek alanı üzerinden haberleşirler.
+**How do units communicate?**
+They usually communicate over a common messaging protocol or shared memory space.
 
 
 ## Related terms

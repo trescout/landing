@@ -31,6 +31,7 @@ Am Anfang ist es notwendig, sich Tastaturkürzel zu merken, aber es ist viel eff
 
 ## Verwandte Werkzeuge
 - [Witr](/de/discover/witr/)
+- [Hister](/de/discover/hister/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/tui/

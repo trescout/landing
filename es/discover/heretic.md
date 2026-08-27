@@ -8,7 +8,7 @@ Heretic es una herramienta técnica que elimina las restricciones de alineación
 - GitHub Trending · 28 May 2026
 
 ## Instalación
-****
+**Clonar repositorio oficial**
 
 ```
 git clone https://github.com/p-e-w/heretic.git

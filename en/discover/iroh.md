@@ -2,7 +2,7 @@
 
 Iroh is a modular networking stack that makes network connections more flexible by using key-based addressing instead of IP addresses. Developed with the Rust language, this tool provides an infrastructure that is resistant to network interruptions and provides direct data transfer.
 
-- ★ 11,957
+- ★ 12,327
 - GitHub Trending · 2026-06-17
 
 ## What you get
@@ -11,13 +11,13 @@ Iroh is a modular networking stack that makes network connections more flexible 
 - QUIC-based secure and encrypted communication
 
 ## Installation
-**With Cargo (add to Rust project)**
+**Add via Cargo (to Rust project)**
 
 ```
 cargo add iroh
 ```
 
-**Install iroh CLI tool**
+**Install iroh CLI**
 
 ```
 cargo install iroh
@@ -31,7 +31,7 @@ brew install nogo/tap/iroh
 
 
 ## Running it
-**Show node ID (CLI)**
+**Show Node ID (CLI)**
 
 ```
 iroh node id

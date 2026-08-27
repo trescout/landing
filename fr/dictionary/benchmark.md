@@ -28,6 +28,8 @@ Oui, mais il est préférable d’examiner les résultats globaux qui incluent d
 - [Inference](/fr/dictionary/inference/)
 
 ## Outils liés
+- [Ponytail](/fr/discover/ponytail/)
+- [RuView](/fr/discover/ruview/)
 - [CUA](/fr/discover/cua/)
 - [Whichllm](/fr/discover/whichllm/)
 - [SIA](/fr/discover/sia/)

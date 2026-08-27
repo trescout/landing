@@ -28,6 +28,7 @@ Oui, cela nécessite des connaissances de base en administration de serveur et e
 - [Data Pipeline](/fr/dictionary/data-pipeline/)
 
 ## Outils liés
+- [N8n](/fr/discover/n8n/)
 - [Penpot](/fr/discover/penpot/)
 - [Plane](/fr/discover/plane/)
 - [Twenty](/fr/discover/twenty/)

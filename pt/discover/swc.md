@@ -11,13 +11,13 @@ Desenvolvido com a linguagem Rust, SWC oferece uma plataforma rápida de compila
 - Acelera os processos modernos de desenvolvimento web
 
 ## Instalação
-**Dependência do projeto (npm)**
+**Dependências do projeto (npm)**
 
 ```
 npm i -D @swc/core
 ```
 
-****
+**Global com npm**
 
 ```
 npm install -g @swc/cli @swc/core

@@ -2,7 +2,7 @@
 
 DocuSeal ofrece una alternativa de código abierto para crear, completar y firmar documentos digitales. Esta plataforma, desarrollada con lenguaje Ruby, proporciona una solución para usuarios que quieran gestionar procesos de firma electrónica (e-signature) en su propia infraestructura.
 
-- ★ 18.280
+- ★ 18.389
 - Ruby
 - GitHub Trending · 2026-07-18
 

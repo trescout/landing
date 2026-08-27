@@ -12,19 +12,19 @@ Desarrollado por OpenAI, Whisper es un modelo de reconocimiento de voz entrenado
 - Identificación del idioma y detección de actividad del habla en contenido de audio.
 
 ## Instalación
-****
+**Instalar FFmpeg**
 
 ```
 sudo apt update && sudo apt install ffmpeg
 ```
 
-****
+**Instalar dependencias de Python**
 
 ```
 pip install setuptools-rust
 ```
 
-****
+**Instalar Whisper**
 
 ```
 pip install openai-whisper
@@ -32,7 +32,7 @@ pip install openai-whisper
 
 
 ## Ejecución
-****
+**Convertir archivo de audio**
 
 ```
 whisper audio.flac --model turbo

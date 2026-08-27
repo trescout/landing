@@ -37,7 +37,6 @@ Por lo general, las conexiones API o bloques de código especiales se escriben p
 - [OfficeCLI](/es/discover/officecli/)
 - [Reverse Skill](/es/discover/reverse-skill/)
 - [Book to Skill](/es/discover/book-to-skill/)
-- [I Have Adhd](/es/discover/i-have-adhd/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/skill/

@@ -28,6 +28,7 @@ Como os computadores entendem números e não palavras, precisamos converter o t
 - [Context Window](/pt/dictionary/context-window/)
 
 ## Ferramentas relacionadas
+- [Ponytail](/pt/discover/ponytail/)
 - [Caveman](/pt/discover/caveman/)
 - [OmniRoute](/pt/discover/omniroute/)
 - [Codebase Memory MCP](/pt/discover/codebase-memory-mcp/)
@@ -35,7 +36,6 @@ Como os computadores entendem números e não palavras, precisamos converter o t
 - [Book to Skill](/pt/discover/book-to-skill/)
 - [TencentDB-Agent-Memory](/pt/discover/tencentdb-agent-memory/)
 - [Open Code Review](/pt/discover/open-code-review/)
-- [LMCache](/pt/discover/lmcache/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/token/

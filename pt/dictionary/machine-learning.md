@@ -30,7 +30,6 @@ Porque ele pode realizar tarefas complexas em segundos, usando dados, que as pes
 ## Ferramentas relacionadas
 - [Opencv](/pt/discover/opencv/)
 - [Cs249r Book](/pt/discover/cs249r-book/)
-- [Onnxruntime](/pt/discover/onnxruntime/)
 - [Machine Learning for Trading](/pt/discover/machine-learning-for-trading/)
 - [Maths Cs AI Compendium](/pt/discover/maths-cs-ai-compendium/)
 - [Bonsai-demo](/pt/discover/bonsai-demo/)

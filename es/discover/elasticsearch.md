@@ -18,7 +18,7 @@ Desarrollado con Java, Elasticsearch es un motor de búsqueda distribuido y de c
 docker pull docker.elastic.co/elasticsearch/elasticsearch:9.5.0
 ```
 
-**macOS (hecho en casa)**
+**macOS (Homebrew)**
 
 ```
 brew install elastic/tap/elasticsearch-full

@@ -1,6 +1,6 @@
 # Client proxy moderne open source
 
-FlClash ; Il s'agit d'un client proxy multiplateforme basé sur ClashMeta. Il a été développé avec Dart et possède une structure sans publicité, conviviale et open source.
+FlClash ; Il s'agit d'un client proxy multiplateforme basé sur ClashMeta. Il a été développé avec Dart et possède une structure sans publicité, conviviale et open source.
 
 - ★ 49 138
 - Dart

@@ -35,7 +35,13 @@ docker run -p 5000:5000 libretranslate/libretranslate
 libretranslate
 ```
 
-Kaynak: PyPI (libretranslate) · Docker Hub (libretranslate/libretranslate)
+**Çeviri sunucusunu başlat**
+
+```
+libretranslate --port 5000
+```
+
+Kaynak: Resmî kaynak: https://github.com/LibreTranslate/LibreTranslate
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 

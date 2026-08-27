@@ -12,7 +12,7 @@ TypeScript, a superset of the JavaScript language, allows error checking during 
 - Scalable software development processes
 
 ## Installation
-**global install with npm**
+**Install globally with npm**
 
 ```
 npm install -g typescript
@@ -26,7 +26,7 @@ npm install --save-dev typescript
 
 
 ## Running it
-**Compile TypeScript file**
+**Compile TypeScript File**
 
 ```
 tsc index.ts

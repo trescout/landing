@@ -13,7 +13,7 @@ Anthropic Skills; It is the official repository of skill packs that Claude dynam
 - Fully compliant with agentskills standard.
 
 ## Installation
-****
+**Add Claude Code marketplace**
 
 ```
 /plugin marketplace add anthropics/skills

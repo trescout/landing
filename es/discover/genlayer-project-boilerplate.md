@@ -2,7 +2,7 @@
 
 GenLayer es una capa de ejecución descentralizada que permite que los contratos inteligentes interactúen directamente con datos en Internet. Esta plantilla (repetitiva) permite a los desarrolladores utilizar TypeScript para crear aplicaciones que se ejecutan en blockchain y pueden procesar datos externos.
 
-- ★ 15.748
+- ★ 16.763
 - TypeScript
 - GitHub Trending · 2026-08-18
 

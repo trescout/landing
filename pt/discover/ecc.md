@@ -14,7 +14,7 @@ CEC; Claude Code é um sistema abrangente que traz habilidades, instintos, otimi
 - Não se limita a uma única ferramenta, funciona compatível com múltiplos ambientes (Claude Code, Codex, Cursor…).
 
 ## Instalação
-****
+**Adicionar plugin com Claude Code**
 
 ```
 /plugin marketplace add https://github.com/affaan-m/ECC
@@ -23,7 +23,7 @@ CEC; Claude Code é um sistema abrangente que traz habilidades, instintos, otimi
 
 
 ## Execução
-**Execute a verificação de segurança**
+**Executar varredura de segurança**
 
 ```
 /security-scan

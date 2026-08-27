@@ -31,6 +31,7 @@ Es erhöht es auf das erforderliche Niveau und der Überschuss bleibt im Leerlau
 
 ## Verwandte Werkzeuge
 - [Llmfit](/de/discover/llmfit/)
+- [Invidious](/de/discover/invidious/)
 - [Needle](/de/discover/needle/)
 
 ---

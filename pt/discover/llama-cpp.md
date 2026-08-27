@@ -2,7 +2,7 @@
 
 Llama.cpp é uma biblioteca de inferência baseada em C e C++ que permite que grandes modelos de linguagem sejam executados com eficiência em hardware padrão. O software facilita a execução de modelos de inteligência artificial em dispositivos locais com baixo uso de memória e estrutura orientada para alto desempenho.
 
-- ★ 125.068
+- ★ 125.883
 - C++
 - GitHub Trending · 2026-06-08
 
@@ -12,7 +12,7 @@ Llama.cpp é uma biblioteca de inferência baseada em C e C++ que permite que gr
 - Facilita a execução de modelos de IA em dispositivos locais.
 
 ## Instalação
-****
+**Clonar código-fonte**
 
 ```
 git clone https://github.com/ggml-org/llama.cpp.git
@@ -21,7 +21,7 @@ cd llama.cpp
 
 
 ## Execução
-****
+**Executar modelo GGUF**
 
 ```
 llama-cli -m my_model.gguf

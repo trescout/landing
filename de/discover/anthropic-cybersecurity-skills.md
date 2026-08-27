@@ -14,7 +14,7 @@
 - Es kann auf mehr als 20 KI-Plattformen eingesetzt werden, ohne an ein einziges Tool gebunden zu sein.
 
 ## Installation
-****
+**Offizielles Repository klonen**
 
 ```
 git clone https://github.com/mukul975/Anthropic-Cybersecurity-Skills.git

@@ -32,6 +32,7 @@ A well-structured sandbox completely restricts communication with the outside wo
 ## Related tools
 - [Deer Flow](/en/discover/deer-flow/)
 - [MiroFish](/en/discover/mirofish/)
+- [Ladybird](/en/discover/ladybird/)
 - [CUA](/en/discover/cua/)
 - [iii](/en/discover/iii/)
 - [CubeSandbox](/en/discover/cubesandbox/)

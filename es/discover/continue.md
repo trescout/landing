@@ -17,13 +17,13 @@ Continuar es un agente de codificación de código abierto diseñado para automa
 npm i -g @continuedev/cli
 ```
 
-**Instalación como complemento de VS Code**
+**Instalar como extensión de VS Code**
 
 ```
 code --install-extension Continue.continue
 ```
 
-****
+**Global con npm**
 
 ```
 npm install -g continue
@@ -31,7 +31,7 @@ npm install -g continue
 
 
 ## Ejecución
-**Ejecute el agente Continuar a través de CLI**
+**Ejecutar agente Continue desde CLI**
 
 ```
 cn

@@ -1,8 +1,8 @@
 # Manage AI subscriptions from a single center
 
-Sub2API, Claude, OpenAI, Gemini ve Grok aboneliklerine tek noktadan erişim ve maliyet paylaşımı sağlayan açık kaynaklı bir aracı hizmettir.
+Sub2API is an open source intermediary service that provides single-point access and cost sharing to Claude, OpenAI, Gemini and Grok subscriptions.
 
-- ★ 38,841
+- ★ 39,608
 - Go
 - GitHub Trending · 2026-08-23
 

@@ -2,10 +2,11 @@
 
 Iroh, IP adresleri yerine anahtar tabanlı (key-based) adresleme kullanarak ağ bağlantılarını daha esnek hale getiren modüler bir ağ yığınıdır (networking stack). Rust diliyle geliştirilen bu araç, ağ kesintilerine karşı dayanıklı ve doğrudan veri aktarımı sağlayan bir altyapı sunar.
 
-- ★ 11.957
+- ★ 12.327
 - GitHub Trending · 2026-06-17
 
 ## Güncelleme
+- 27 Ağustos 2026: Yıldız 11.957 → 12.327, son sürüm v1.1.0 (25 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 9.418 → 11.957, son sürüm v1.0.3 (20 Temmuz 2026).
 
 ## Ne kazandırır?
@@ -27,6 +28,12 @@ cargo add iroh
 cargo install iroh
 ```
 
+**macOS (Homebrew)**
+
+```
+brew install nogo/tap/iroh
+```
+
 ## Çalıştırma
 
 **Node kimliğini göster (CLI)**
@@ -35,7 +42,7 @@ cargo install iroh
 iroh node id
 ```
 
-Kaynak: crates.io (iroh) · resmî dokümantasyon (iroh.computer)
+Kaynak: Resmî kaynak: https://github.com/n0-computer/iroh
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 

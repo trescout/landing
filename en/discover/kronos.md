@@ -8,7 +8,7 @@ Kronos is a foundation model designed to analyze the unique patterns of financia
 - GitHub Trending · 28 May 2026
 
 ## Installation
-****
+**Clone official repo**
 
 ```
 git clone https://github.com/shiyu-coder/Kronos.git
@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 
 ## Running it
-****
+**Run example prediction**
 
 ```
 python examples/prediction_example.py

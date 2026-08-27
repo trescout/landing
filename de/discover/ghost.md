@@ -1,8 +1,8 @@
 # Moderne Content- und Newsletter-Plattform
 
-Ghost ist ein System zur Verwaltung von Inhalten (CMS) von Codes, die jedoch für die Veröffentlichung moderner Inhalte, die Verwaltung von Membranen und die Speicherung von Informationen bestimmt sind. Dies ist eine auf JavaScript basierende Plattform, die den Inhaltsverfassern eine Infrastruktur zur Verfügung stellt, die für die Erstellung von Empfangsmodellen bei der Ermordung erforderlich ist.
+Ghost ist eine unabhängige Technologieplattform für modernes Publizieren, Mitgliedschaften, Abonnements und E-Mail-Newsletter.
 
-- ★ 54.933
+- ★ 55.071
 - JavaScript
 - GitHub Trending · 2026-08-22
 

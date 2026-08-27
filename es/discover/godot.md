@@ -11,13 +11,13 @@ Godot Engine (Godot Engine) es un motor de juegos de código abierto que se util
 - Es completamente gratuito y gestionado por la comunidad.
 
 ## Instalación
-**macOS (hecho en casa)**
+**macOS (Homebrew)**
 
 ```
 brew install --cask godot
 ```
 
-**Ventanas (ala)**
+**Windows (winget)**
 
 ```
 winget install GodotEngine.GodotEngine

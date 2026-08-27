@@ -23,6 +23,24 @@ TreScout notu: Word, PDF ve Excel dosyalarını yapay zekâya vermeden önce dü
 - Başlık, liste ve tablo yapılarını korur .
 - RAG ve metin analizi süreçleriniz için idealdir.
 
+## Kurulum
+
+**Tüm özelliklerle PyPI üzerinden kur**
+
+```
+pip install 'markitdown[all]'
+```
+
+## Çalıştırma
+
+**Dosyayı Markdown’a dönüştür**
+
+```
+markitdown belge.pdf > belge.md
+```
+
+Kaynak: Resmî kaynak: https://github.com/microsoft/markitdown
+
 ## Örnek kullanım
 
 Girdi 
@@ -34,18 +52,6 @@ Başlık, liste ve tabloları korunmuş temiz Markdown · doğrudan ChatGPT veya
 ## Kurulum + kullanım
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Terminalde pip install 'markitdown[all]' komutuyla MarkItDown'ı kur, ardından 'markitdown dosya-adi.pdf > document.md' komutunu çalıştırarak bir PDF, Word, Excel ya da PowerPoint dosyasını Markdown'a dönüştür.
-
-**Kurulum (Python)**
-
-```
-pip install 'markitdown[all]'
-```
-
-**Kullanım (komut satırı)**
-
-```
-markitdown belge.pdf > belge.md
-```
 
 Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
 

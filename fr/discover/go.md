@@ -17,7 +17,7 @@ Développé par Google, le langage de programmation Go est un langage de program
 brew install go
 ```
 
-**Fenêtres (winget)**
+**Windows (winget)**
 
 ```
 winget install GoLang.Go

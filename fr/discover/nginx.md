@@ -18,7 +18,7 @@ Le référentiel open source NGINX continue d'être développé en C en tant que
 brew install nginx
 ```
 
-****
+**Ubuntu / Debian**
 
 ```
 sudo apt update && sudo apt install -y nginx
@@ -26,7 +26,7 @@ sudo apt update && sudo apt install -y nginx
 
 
 ## Exécution
-****
+**Démarrer le serveur web**
 
 ```
 sudo systemctl start nginx

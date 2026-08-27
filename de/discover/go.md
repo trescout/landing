@@ -17,7 +17,7 @@ Die von Google entwickelte Programmiersprache Go ist eine Open-Source-Systemprog
 brew install go
 ```
 
-**Windows (Winget)**
+**Windows (winget)**
 
 ```
 winget install GoLang.Go
@@ -25,7 +25,7 @@ winget install GoLang.Go
 
 
 ## Ausführung
-**Version überprüfen**
+**Version prüfen**
 
 ```
 go version

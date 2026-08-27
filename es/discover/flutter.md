@@ -12,7 +12,7 @@ Desarrollado por Google, Flutter le permite crear rápidamente interfaces de usu
 - Gráficos de alto rendimiento acelerados por hardware
 
 ## Instalación
-**macOS (hecho en casa)**
+**macOS (Homebrew)**
 
 ```
 brew install --cask flutter
@@ -20,13 +20,13 @@ brew install --cask flutter
 
 
 ## Ejecución
-**Verificar los controles ambientales.**
+**Validar controles de entorno**
 
 ```
 flutter doctor
 ```
 
-**Crear y ejecutar un nuevo proyecto**
+**Crear y ejecutar nuevo proyecto**
 
 ```
 flutter create my_app

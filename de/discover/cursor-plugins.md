@@ -13,7 +13,7 @@ Cursor-Plugins; Es enthält die offizielle Plugin-Spezifikation und vorgefertigt
 - Sie können Ihre eigenen Lösungen entwickeln, indem Sie sich von vorgefertigten Plugins inspirieren lassen.
 
 ## Installation
-****
+**Plugins mit Git klonen**
 
 ```
 git clone https://github.com/cursor-plugins/cursor-plugins.git

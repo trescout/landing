@@ -13,7 +13,7 @@ Crawl4AI; is an open source web crawler and scraper optimized for large language
 - It is fast and open source.
 
 ## Installation
-**via pip (PyPI)**
+**Using pip (PyPI)**
 
 ```
 pip install crawl4ai
@@ -21,7 +21,7 @@ pip install crawl4ai
 
 
 ## Running it
-****
+**Crawl Web Page for AI**
 
 ```
 crawl4ai-download

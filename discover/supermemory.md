@@ -2,8 +2,6 @@
 
 Supermemory , yapay zekâ çağı için tasarlanmış, yüksek ölçeklenebilir bir bellek motoru ve API sunar. Uygulamalarınıza kalıcı ve sorgulanabilir bir hafıza katmanı eklemenizi sağlar.
 
-_Görsel: supermemory (proje deposundan)_
-
 - ★ 28.943
 - TypeScript
 - MIT
@@ -25,21 +23,27 @@ _Görsel: supermemory (proje deposundan)_
 - Ölçeklenebilir mimari desteği.
 - API üzerinden kolay entegrasyon imkânı.
 
-## Nasıl kurulur, nasıl kullanılır?
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-supermemory'yi yapay zekâ asistanıma kalıcı hafıza eklemek için kur: 'npx -y install-mcp@latest https://mcp.supermemory.ai/mcp --client claude --oauth=yes' komutuyla MCP sunucusunu Claude'a bağla ve çalıştığını doğrula.
+## Kurulum
 
-**SDK kur (Node ya da Python)**
+**npm ile kur**
 
 ```
-npm install supermemory # ya da: pip install supermemory
+npm install supermemory
 ```
 
-**MCP sunucusunu AI istemcisine bağla**
+## Çalıştırma
+
+**Claude için MCP sunucusunu ekle**
 
 ```
 npx -y install-mcp@latest https://mcp.supermemory.ai/mcp --client claude --oauth=yes
 ```
+
+Kaynak: Resmî kaynak: https://github.com/supermemoryai/supermemory
+
+## Nasıl kurulur, nasıl kullanılır?
+🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+supermemory'yi yapay zekâ asistanıma kalıcı hafıza eklemek için kur: 'npx -y install-mcp@latest https://mcp.supermemory.ai/mcp --client claude --oauth=yes' komutuyla MCP sunucusunu Claude'a bağla ve çalıştığını doğrula.
 
 Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
 
@@ -49,7 +53,7 @@ Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsini
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-SDK MCP API Open Source Artificial Intelligence
+MCP API Open Source Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/supermemory/

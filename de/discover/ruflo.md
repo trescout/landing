@@ -1,8 +1,8 @@
 # Orchestrierungsschicht für KI-Agenten
 
-Die Ruflo-Struktursoftware ermöglicht die Konstruktion von Mehrspielerkompositionen durch künstliche Intelligenz-Agenten. Er ermöglicht die Entwicklung von Systemen, die komplexe Arbeitsflüsse mit Rekursen wie adaptivem Speicher, automatischem Lernen und der Bereitstellung von Inhaltsunterstützung durch die Dados-Bank (RAG) ermöglichen.
+Ruflo ist eine Agenten-Orchestrierungsschicht für den Einsatz intelligenter Agentenschwärme, die Koordinierung autonomer Arbeitsabläufe und den Aufbau von Konversations-KI-Systemen.
 
-- ★ 68.873
+- ★ 69.519
 - TypeScript
 - GitHub Trending · 2026-08-22
 

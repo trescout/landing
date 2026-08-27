@@ -31,6 +31,7 @@ Aumenta para o nível requerido e o excesso permanece ocioso.
 
 ## Ferramentas relacionadas
 - [Llmfit](/pt/discover/llmfit/)
+- [Invidious](/pt/discover/invidious/)
 - [Needle](/pt/discover/needle/)
 
 ---

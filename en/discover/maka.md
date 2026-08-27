@@ -1,8 +1,8 @@
 # Local workspace for AI agents
 
-Apache Maka, model mesajlarını, araç etkileşimlerini, izin kararlarını ve sonlandırma olaylarını yalnızca yeni kayıt eklenebilen bir günlükte tutan yerel öncelikli bir yapay zekâ ajanı çalışma alanıdır.
+Apache Maka is a local-first AI agent workspace that keeps model messages, tool interactions, consent decisions, and termination events in a log that can only be added to new records.
 
-- ★ 2,064
+- ★ 3,701
 - TypeScript
 - GitHub Trending · 2026-08-22
 

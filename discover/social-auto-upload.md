@@ -21,6 +21,16 @@ social-auto-upload , videolarınızı TikTok, YouTube, Bilibili, Douyin ve Xiaoh
 - İçerik dağıtım süreçlerini otomatikleştirme.
 - Zaman tasarrufu sağlayan verimli iş akışı.
 
+## Kurulum
+
+**pip ile (PyPI)**
+
+```
+pip install social-auto-upload
+```
+
+Kaynak: Resmî kaynak: https://github.com/dreammis/social-auto-upload
+
 ## Sorumluluk notu
 
 Otomatik yükleme, platformların kullanım şartlarına takılabilir (spam/otomasyon kuralları). Hesabınızın güvenliği ve ToS uyumu sizin sorumluluğunuzdadır.
@@ -28,18 +38,6 @@ Otomatik yükleme, platformların kullanım şartlarına takılabilir (spam/otom
 ## Nasıl kurulur, nasıl kullanılır?
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 social-auto-upload deposunu (github.com/dreammis/social-auto-upload) kur ve onun 'sau' komut satırı aracını kullanarak önce 'sau douyin login' ile hesabıma giriş yap, sonra 'sau douyin upload-video' komutuyla bir videoyu başlık ve açıklamayla otomatik yükle.
-
-**Bir platforma giriş yap**
-
-```
-sau douyin login --account 
-```
-
-**Video yükle**
-
-```
-sau douyin upload-video --account --file videos/demo.mp4 --title "Başlık" --desc "Açıklama"
-```
 
 Lisans: ⚠️ Repo'da bir lisans belirtilmemiş; varsayılan olarak 'tüm hakları saklı'. Denemek için bakabilirsiniz, ancak yeniden kullanım için yazarın açık izni gerekir.
 

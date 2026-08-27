@@ -11,13 +11,13 @@ Odoo ist eine Open-Source-Enterprise-Resource-Planning-Plattform, die es Unterne
 - Es stellt eine Open-Source-Infrastruktur bereit, die je nach Bedarf angepasst werden kann.
 
 ## Installation
-****
+**PostgreSQL-Datenbank starten**
 
 ```
 docker run -d --name odoo-db -e POSTGRES_DB=postgres -e POSTGRES_USER=odoo -e POSTGRES_PASSWORD=change_me postgres:15
 ```
 
-****
+**Odoo mit Datenbank verbinden und starten**
 
 ```
 docker run -d --name odoo --link odoo-db:db -p 127.0.0.1:8069:8069 odoo:latest
@@ -25,7 +25,7 @@ docker run -d --name odoo --link odoo-db:db -p 127.0.0.1:8069:8069 odoo:latest
 
 
 ## Ausführung
-****
+**Lokale Oberfläche öffnen**
 
 ```
 http://localhost:8069

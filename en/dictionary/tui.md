@@ -33,6 +33,7 @@ It's necessary to memorize keyboard shortcuts in the beginning, but it's much mo
 
 ## Related tools
 - [Witr](/en/discover/witr/)
+- [Hister](/en/discover/hister/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/tui/

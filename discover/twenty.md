@@ -2,16 +2,16 @@
 
 Twenty , teknik ekiplere iş süreçlerine göre özelleştirilebilir modern bir CRM kurma imkânı veren açık kaynaklı bir Salesforce alternatifidir . Yapay zekâ destekli iş akışlarına odaklanan bu sistemi kendi sunucunuzda barındırabilirsiniz.
 
-- ★ 55.436
+- ★ 55.660
 - TypeScript
 - Lisans: özel
 - GitHub Trending · 26 May 2026
 
 ## Güncelleme
+- 27 Ağustos 2026: Yıldız 55.436 → 55.660, son sürüm twenty/v2.35.0 (26 Ağustos 2026).
 - 24 Ağustos 2026: Yıldız 54.772 → 55.436, son sürüm twenty/v2.34.0 (24 Ağustos 2026).
 - 12 Ağustos 2026: Yıldız 54.367 → 54.772, son sürüm sdk/v2.30.0 (11 Ağustos 2026).
 - 6 Ağustos 2026: Yıldız 54.054 → 54.367, son sürüm twenty/v2.27.0 (4 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 46.735 → 54.054, son sürüm twenty/v2.26.0 (31 Temmuz 2026).
 
 - **Kimin için:** Kendi CRM'ini kurmak isteyen teknik ekipler 
 - **Zorluk:** İleri · self-host (geliştirici gerekir) 
@@ -25,6 +25,42 @@ Twenty , teknik ekiplere iş süreçlerine göre özelleştirilebilir modern bir
 - AI destekli modern iş akışları.
 - İş ihtiyaçlarınıza göre uyarlanabilir esnek yapı taşları.
 
+## Kurulum
+
+**Ortam şablonunu indir**
+
+```
+curl -o .env https://raw.githubusercontent.com/twentyhq/twenty/refs/heads/main/packages/twenty-docker/.env.example
+```
+
+**Compose dosyasını indir**
+
+```
+curl -o docker-compose.yml https://raw.githubusercontent.com/twentyhq/twenty/refs/heads/main/packages/twenty-docker/docker-compose.yml
+```
+
+**Şifreleme anahtarı üret**
+
+```
+openssl rand -base64 32
+```
+
+**Servisleri başlat**
+
+```
+docker compose up -d
+```
+
+## Çalıştırma
+
+**Yerel arayüze eriş**
+
+```
+http://localhost:3000
+```
+
+Kaynak: Resmî kaynak: https://docs.twenty.com/developers/self-host/capabilities/docker-compose
+
 ## Nasıl kurulur?
 
 Genellikle Docker ile kendi sunucunuza kurulur; kurulum adımları dokümantasyonda. Yönetmek için biraz teknik bilgi gerekir.
@@ -32,18 +68,6 @@ Genellikle Docker ile kendi sunucunuza kurulur; kurulum adımları dokümantasyo
 ## Nasıl kurulur, nasıl kullanılır?
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Twenty adlı açık kaynaklı CRM'i kurmak istiyorum; terminalde 'npx create-twenty-app my-app' komutuyla yeni bir uygulama oluştur, ardından 'npx twenty app:publish --private' ile çalışma alanıma yayınla. Self-hosting için Docker Compose ile nasıl çalıştıracağımı da anlat.
-
-**Yeni uygulama iskeleti oluştur**
-
-```
-npx create-twenty-app my-app
-```
-
-**Çalışma alanına yayınla**
-
-```
-npx twenty app:publish --private
-```
 
 Lisans: ⚠️ Lisansı standart değil (GitHub 'NOASSERTION'). 'Açık kaynak' olarak anılır ama kendi başına/self-host kullanım ile ticari/SaaS olarak yeniden sunum farklı şartlara tabi olabilir. Ticari kullanımdan önce repo'daki LICENSE dosyasını mutlaka okuyun.
 

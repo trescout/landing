@@ -11,13 +11,13 @@ LibreTranslate offers a free and open source machine translation interface (API)
 - Use a completely open source and free translation engine
 
 ## Installation
-**via pip (PyPI)**
+**Using pip (PyPI)**
 
 ```
 pip install libretranslate
 ```
 
-**with Docker**
+**Use Docker**
 
 ```
 docker run -p 5000:5000 libretranslate/libretranslate

@@ -1,6 +1,6 @@
 # Infrastructure évolutive pour les agents d'intelligence artificielle
 
-Agent Substrate, yapay zekâ ajanları için ölçeklenebilir altyapı sağlayan temel sistemdir.
+Agent Substrate est le système de base qui fournit une infrastructure évolutive pour les agents d'intelligence artificielle.
 
 - ★ 1 276
 - Go

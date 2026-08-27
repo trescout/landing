@@ -1,8 +1,8 @@
 # Espacio de trabajo local para agentes de IA
 
-Apache Maka es un espacio de trabajo local diseñado para agentes de inteligencia artificial. Ele fornece rastreabilidade dos procesos do agente gravando mensajes, chamadas de vehículos y decisiones de permiso em un registro orientado a anexos.
+Apache Maka es un espacio de trabajo de agente de IA local que mantiene mensajes modelo, interacciones de herramientas, decisiones de consentimiento y eventos de terminación en un registro que solo se puede agregar a registros nuevos.
 
-- ★ 2.064
+- ★ 3.701
 - TypeScript
 - GitHub Trending · 2026-08-22
 

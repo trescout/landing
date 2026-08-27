@@ -1,25 +1,25 @@
 # O que é Prompt as Code?
 
-Yapay zekâ komutlarının yazılım kodu gibi yönetilmesi, versiyonlanması ve test edilmesidir.
+É o gerenciamento, controle de versão e teste de comandos de inteligência artificial, como código de software.
 
 ## Definição
-Yazılım dünyasında kodlarımızı nasıl versiyon kontrol sistemlerinde saklıyorsak, yapay zekâya verdiğimiz komutları da aynı disiplinle yönetme yaklaşımıdır. Bu yöntem, komutların geçmişini takip etmenizi, hatalı bir değişiklikte eskiye dönmenizi ve komutların performansını test etmenizi sağlar. Böylece yapay zekâdan aldığınız sonuçlar daha tutarlı ve güvenilir hale gelir.
+Assim como armazenamos nossos códigos em sistemas de controle de versão no mundo do software, é uma abordagem para gerenciar os comandos que damos à inteligência artificial com a mesma disciplina. Este método permite acompanhar o histórico de comandos, reverter para uma alteração incorreta e testar o desempenho dos comandos. Assim, os resultados obtidos com a inteligência artificial tornam-se mais consistentes e confiáveis.
 
 ## Como funciona
-Komutlarınızı metin dosyaları olarak saklayın ve bu dosyaları Git gibi araçlarla takip edin. Her yeni komut değişikliğini bir 'commit' olarak kaydedin ve bu komutların yapay zekâ üzerindeki etkisini otomatik testlerle kontrol edin.
+Armazene seus comandos como arquivos de texto e rastreie-os com ferramentas como o Git. Salve cada nova alteração de comando como um ‘commit’ e verifique o impacto desses comandos na inteligência artificial com testes automatizados.
 
 ## Onde é usado
-Yazılım geliştirme süreçlerinde, özellikle yapay zekâ destekli otomasyonlarda ve karmaşık sistemlerin yönetildiği projelerde kullanılır.
+É utilizado em processos de desenvolvimento de software, principalmente em automação apoiada por inteligência artificial e em projetos onde são gerenciados sistemas complexos.
 
 ## Costuma ser confundido com
-Prompt engineering ile karıştırılabilir; ancak bu, işin teknik yönetim ve süreç kısmıdır.
+Pode ser confundido com engenharia imediata; mas esta é a parte de gerenciamento técnico e processo do trabalho.
 
 ## Perguntas frequentes
-**Neden komutları kod gibi yönetmeliyim?**
-Çünkü karmaşık sistemlerde hangi komutun neden çalıştığını veya neden bozulduğunu takip etmek bu sayede kolaylaşır.
+**Por que devo gerenciar comandos como código?**
+Porque isso torna mais fácil acompanhar qual comando funciona ou por que ele funciona mal em sistemas complexos.
 
-**Test etmek ne anlama geliyor?**
-Komutun farklı girdilerle beklenen sonucu verip vermediğini otomatik olarak kontrol etmek demektir.
+**O que significa testar?**
+Significa verificar automaticamente se o comando fornece o resultado esperado com diferentes entradas.
 
 
 ## Termos relacionados

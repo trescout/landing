@@ -12,7 +12,7 @@ AirLLM allows large language models with 70 billion parameters to be run on grap
 - Up to 3x speed increase with block-based compression.
 
 ## Installation
-**via pip (PyPI)**
+**Using pip (PyPI)**
 
 ```
 pip install airllm

@@ -2,7 +2,7 @@
 
 Iroh est une pile réseau modulaire qui rend les connexions réseau plus flexibles en utilisant un adressage basé sur des clés au lieu d'adresses IP. Développé avec le langage Rust, cet outil fournit une infrastructure résistante aux interruptions du réseau et permet un transfert direct de données.
 
-- ★ 11 957
+- ★ 12 327
 - GitHub Trending · 2026-06-17
 
 ## Ce que ça vous apporte
@@ -11,13 +11,13 @@ Iroh est une pile réseau modulaire qui rend les connexions réseau plus flexibl
 - Communication sécurisée et cryptée basée sur QUIC
 
 ## Installation
-**Avec Cargo (ajouter au projet Rust)**
+**Ajouter au projet Rust avec Cargo**
 
 ```
 cargo add iroh
 ```
 
-**Installer l'outil CLI iroh**
+**Installer iroh CLI**
 
 ```
 cargo install iroh
@@ -31,7 +31,7 @@ brew install nogo/tap/iroh
 
 
 ## Exécution
-**Afficher l'ID du nœud (CLI)**
+**Afficher l'ID Node (CLI)**
 
 ```
 iroh node id

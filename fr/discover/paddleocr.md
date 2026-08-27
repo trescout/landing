@@ -11,7 +11,7 @@ Développé par PaddlePaddle, PaddleOCR est un outil léger de reconnaissance op
 - Fournit une grande précision avec une faible utilisation des ressources
 
 ## Installation
-**Python (pépin)**
+**Python (pip)**
 
 ```
 pip install paddleocr

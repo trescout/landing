@@ -13,7 +13,7 @@ Anthropische Fähigkeiten; Es handelt sich um die offizielle Sammlung von Fertig
 - Vollständig konform mit dem Agentskills-Standard.
 
 ## Installation
-****
+**Claude Code Marketplace hinzufügen**
 
 ```
 /plugin marketplace add anthropics/skills

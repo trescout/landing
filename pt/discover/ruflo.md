@@ -1,8 +1,8 @@
 # Camada de orquestração para agentes de IA
 
-Ruflo, akıllı ajan sürülerini devreye almak, otonom iş akışlarını koordine etmek ve diyalogsal yapay zekâ sistemleri oluşturmak için bir ajan orkestrasyon katmanıdır.
+Ruflo é uma camada de orquestração de agentes para implantação de enxames de agentes inteligentes, coordenação de fluxos de trabalho autônomos e construção de sistemas de IA conversacionais.
 
-- ★ 68.873
+- ★ 69.519
 - TypeScript
 - GitHub Trending · 2026-08-22
 

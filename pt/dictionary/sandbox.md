@@ -30,6 +30,7 @@ Uma sandbox bem estruturada restringe completamente a comunicação com o mundo 
 ## Ferramentas relacionadas
 - [Deer Flow](/pt/discover/deer-flow/)
 - [MiroFish](/pt/discover/mirofish/)
+- [Ladybird](/pt/discover/ladybird/)
 - [CUA](/pt/discover/cua/)
 - [iii](/pt/discover/iii/)
 - [CubeSandbox](/pt/discover/cubesandbox/)

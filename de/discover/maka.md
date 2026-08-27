@@ -1,8 +1,8 @@
 # Lokaler Arbeitsbereich für KI-Agenten
 
-Apache Maka ist ein lokaler Arbeitsraum, der für künstliche Intelligenzagenten entwickelt wurde. Sie müssen die Prozesse stabilisieren, indem die Agenten schwere Verkehrskontrollen durchführen, Fahrzeuge abholen und über die Erlaubnis entscheiden, sich an einem anexos orientierten Protokoll zu beteiligen.
+Apache Maka ist ein lokal ausgerichteter KI-Agent-Arbeitsbereich, der Modellnachrichten, Tool-Interaktionen, Einwilligungsentscheidungen und Beendigungsereignisse in einem Protokoll speichert, das nur zu neuen Datensätzen hinzugefügt werden kann.
 
-- ★ 2.064
+- ★ 3.701
 - TypeScript
 - GitHub Trending · 2026-08-22
 

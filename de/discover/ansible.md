@@ -12,7 +12,7 @@ Ansible ist eine Automatisierungsplattform für Informationstechnologien, die An
 - Führen Sie komplexe Updates einfach durch
 
 ## Installation
-**über Pip (PyPI)**
+**Mit pip (PyPI)**
 
 ```
 pip install ansible

@@ -2,7 +2,7 @@
 
 Developed for Chrome DevTools, this server enables coding artificial intelligence agents to manage browser-based debugging processes. Working through the Model Context Protocol, this tool allows agents to directly inspect web applications and automate debugging processes.
 
-- ★ 48,884
+- ★ 49,801
 - TypeScript
 - GitHub Trending · 2026-07-03
 
@@ -12,7 +12,7 @@ Developed for Chrome DevTools, this server enables coding artificial intelligenc
 - Review network requests and console errors
 
 ## Installation
-****
+**Global with npm**
 
 ```
 npm install -g chrome-devtools-mcp

@@ -2,7 +2,7 @@
 
 Puppeteer est une bibliothèque d'automatisation de navigateur utilisée pour contrôler les navigateurs Chrome et Firefox. Développé avec TypeScript, cet outil offre une interface standard pour les opérations d'automatisation des tests et de web scraping sur les pages Web.
 
-- ★ 95 461
+- ★ 95 505
 - GitHub Trending · 2026-06-15
 
 ## Ce que ça vous apporte
@@ -11,13 +11,13 @@ Puppeteer est une bibliothèque d'automatisation de navigateur utilisée pour co
 - Récupère les données des sites Web
 
 ## Installation
-**via npm (Node.js)**
+**Avec npm (Node.js)**
 
 ```
 npm i puppeteer
 ```
 
-****
+**Ajouter via npm**
 
 ```
 npm install puppeteer

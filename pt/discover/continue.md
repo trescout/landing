@@ -11,19 +11,19 @@ Continue é um agente de codificação de código aberto projetado para automati
 - Integra-se com ambientes de desenvolvimento de software, como VS Code e JetBrains
 
 ## Instalação
-**Instalação CLI com npm (Global)**
+**Instalar CLI com npm (global)**
 
 ```
 npm i -g @continuedev/cli
 ```
 
-**Instalação como complemento do VS Code**
+**Instalar como extensão do VS Code**
 
 ```
 code --install-extension Continue.continue
 ```
 
-****
+**Global com npm**
 
 ```
 npm install -g continue
@@ -31,7 +31,7 @@ npm install -g continue
 
 
 ## Execução
-**Execute o agente Continuar via CLI**
+**Executar agente Continue via CLI**
 
 ```
 cn

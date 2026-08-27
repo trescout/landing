@@ -8,7 +8,7 @@ Heretic é uma ferramenta técnica que remove restrições de alinhamento de seg
 - GitHub Trending · 28 May 2026
 
 ## Instalação
-****
+**Clonar repositório oficial**
 
 ```
 git clone https://github.com/p-e-w/heretic.git

@@ -2,11 +2,12 @@
 
 Apple tarafından geliştirilen container, Mac üzerinde hafif sanal makineler (virtual machines) kullanarak Linux kapsayıcıları (containers) oluşturmaya ve çalıştırmaya olanak tanıyor. Swift diliyle yazılan araç, Apple silikon (Apple silicon) mimarisi için optimize edilmiş bir performans sunuyor.
 
-- ★ 48.745
+- ★ 49.440
 - Swift
 - GitHub Trending · 2026-06-11
 
 ## Güncelleme
+- 27 Ağustos 2026: Yıldız 48.745 → 49.440, son sürüm 1.3.0 (24 Ağustos 2026).
 - 8 Ağustos 2026: Yıldız 48.710 → 48.745, son sürüm 1.2.2 (8 Ağustos 2026).
 - 7 Ağustos 2026: Yıldız 48.543 → 48.710, son sürüm 1.2.1 (7 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 30.453 → 48.543, son sürüm 1.2.0 (29 Temmuz 2026).
@@ -45,7 +46,7 @@ Apple silikon işlemcili Mac bilgisayarımda container aracını kullanarak OCI 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Virtual Machines Containers Container Apple Silicon Artificial Intelligence
+Virtual Machines Containers Apple Silicon Container Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/container/

@@ -13,7 +13,7 @@ Scrapling is an adaptable web scraping framework that can handle scale from a si
 - Fast and open source structure.
 
 ## Installation
-**via pip (PyPI)**
+**Using pip (PyPI)**
 
 ```
 pip install scrapling

@@ -2,7 +2,7 @@
 
 Ingénierie composée ; Claude Code est un module complémentaire officiel pour Codex et Cursor. Sa philosophie de base est claire : chaque tâche d'ingénierie doit rendre la suivante plus facile, et non plus difficile. À cette fin, il offre des capacités et des agents d’IA qui améliorent le processus de développement.
 
-- ★ 24 500
+- ★ 24 591
 - TypeScript
 - MIT
 - GitHub Trending · 29 May 2026
@@ -13,7 +13,7 @@ Ingénierie composée ; Claude Code est un module complémentaire officiel pour 
 - S'adapte facilement à plusieurs environnements d'IA.
 
 ## Installation
-****
+**Ajouter le marketplace de Claude Code**
 
 ```
 /plugin marketplace add EveryInc/compound-engineering-plugin
@@ -22,7 +22,7 @@ Ingénierie composée ; Claude Code est un module complémentaire officiel pour 
 
 
 ## Exécution
-****
+**Démarrer l'assistant d'installation**
 
 ```
 /ce-setup

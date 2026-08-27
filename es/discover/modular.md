@@ -1,6 +1,6 @@
 # Infraestructura de alto rendimiento para proyectos de inteligencia artificial
 
-Una plataforma Modular que incluye el motor MAX, diseñada para rodar modelos de inteligencia artificial, y un lenguaje de programación Mojo, que combina las capacidades del lenguaje Python con la velocidad de programación de sistemas. Este es un proyecto de tecnología para una rápida infraestructura de inteligencia artificial y simplificar procesos complejos de software.
+La Plataforma Modular proporciona una infraestructura de alto rendimiento para proyectos de IA e incluye MAX y Mojo.
 
 - ★ 28.875
 - Mojo

@@ -1,6 +1,6 @@
 # Nettoyer les dépendances inutiles
 
-OBLITERATUS, açık kaynaklı bir projedir.
+OBLITERATUS aborde l'analyse des aspects des barrières de sécurité, la détection des traces d'alignement, l'évaluation de la robustesse de la défense et les techniques permettant de supprimer les signaux de rejet et de barrière de sécurité des modèles de langage.
 
 - ★ 7 994
 - Python

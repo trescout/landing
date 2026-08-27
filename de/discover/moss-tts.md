@@ -8,7 +8,7 @@ MOSS-TTS (MOSI.AI und OpenMOSS); Es handelt sich um eine Open-Source-Modellfamil
 - GitHub Trending · 29 May 2026
 
 ## Installation
-**über Pip (PyPI)**
+**Mit pip (PyPI)**
 
 ```
 pip install moss-tts

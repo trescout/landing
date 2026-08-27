@@ -18,7 +18,7 @@ Home Assistant ist eine Open-Source-Hausautomationsplattform, die lokale Kontrol
 pip install homeassistant
 ```
 
-**mit Docker**
+**Mit Docker**
 
 ```
 docker run -d --name homeassistant --privileged --restart=unless-stopped --network=host ghcr.io/home-assistant/home-assistant:stable

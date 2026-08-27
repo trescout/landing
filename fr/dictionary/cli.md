@@ -33,12 +33,12 @@ Le système génère généralement des erreurs, mais il existe également des c
 ## Outils liés
 - [Superpowers](/fr/discover/superpowers/)
 - [Spec Kit](/fr/discover/spec-kit/)
+- [Codex](/fr/discover/codex/)
+- [Ponytail](/fr/discover/ponytail/)
 - [Graphify](/fr/discover/graphify/)
 - [Angular](/fr/discover/angular/)
-- [Svelte](/fr/discover/svelte/)
+- [TradingAgents](/fr/discover/tradingagents/)
 - [Understand Anything](/fr/discover/understand-anything/)
-- [Agent-Reach](/fr/discover/agent-reach/)
-- [Impeccable](/fr/discover/impeccable/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/cli/

@@ -12,13 +12,13 @@ Grafana es una plataforma de visualización de datos y observabilidad de código
 - Establecer sistemas automáticos de alerta a través de métricas
 
 ## Instalación
-**macOS (hecho en casa)**
+**macOS (Homebrew)**
 
 ```
 brew install grafana
 ```
 
-**con ventana acoplable**
+**Usar Docker**
 
 ```
 docker run -d -p 3000:3000 --name=grafana grafana/grafana
@@ -26,7 +26,7 @@ docker run -d -p 3000:3000 --name=grafana grafana/grafana
 
 
 ## Ejecución
-**Iniciar como servicio casero**
+**Iniciar como servicio de Homebrew**
 
 ```
 brew services start grafana

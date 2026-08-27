@@ -33,6 +33,7 @@ They are small independent processing units within a processor that can perform 
 - [Ktransformers](/en/discover/ktransformers/)
 - [Pocket TTS](/en/discover/pocket-tts/)
 - [Whichllm](/en/discover/whichllm/)
+- [Marin](/en/discover/marin/)
 - [Transcribe.cpp](/en/discover/transcribe-cpp/)
 - [Sharpemu](/en/discover/sharpemu/)
 

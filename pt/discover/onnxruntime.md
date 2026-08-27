@@ -1,6 +1,6 @@
 # Plataforma que acelera modelos de inteligência artificial
 
-Desenvolvido pela Microsoft, o ONNX Runtime é um acelerador que permite que modelos de machine learning sejam executados e treinados com alto desempenho em diversas plataformas. Ele apressou os processos de desenvolvimento de aplicativos, otimizando os processos de inferência de modelos em diversas arquiteturas de hardware.
+ONNX Runtime é um acelerador multiplataforma de alto desempenho para inferência e treinamento de aprendizado de máquina.
 
 - ★ 21.495
 - C++

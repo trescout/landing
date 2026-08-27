@@ -2,7 +2,7 @@
 
 Embabel ist ein Framework zur Entwicklung von Agenten für künstliche Intelligenz, die auf der Java Virtual Machine (JVM) laufen. Diese in Kotlin geschriebene Struktur erleichtert die Integration generativer KI-Funktionen in Unternehmenssoftware-Ökosysteme.
 
-- ★ 4.290
+- ★ 4.394
 - Kotlin
 - GitHub Trending · 2026-08-13
 

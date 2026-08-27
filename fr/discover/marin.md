@@ -6,31 +6,6 @@ Plateforme et ensemble d'outils pour expérimenter les étapes allant du traitem
 - Python
 - GitHub Trending · 2026-08-25
 
-## Que fait cet outil ?
-Exécute les expériences comme une séquence d'étapes dépendantes dans un ordre topologique. L'exemple officiel montre la tokenisation de TinyStories et l'entraînement d'un petit modèle de langage; l'approche de développement ouverte documente aussi le code, les données, les décisions et les essais infructueux.
-
-## Pour qui ?
-Équipes menant des recherches sur la curation, la transformation et le filtrage de données, la tokenisation, l'entraînement de modèles et l'évaluation.
-
-## À quoi ne faut-il pas s’attendre ?
-Pas destiné au développement d'applications simples hors du périmètre de la recherche sur les modèles fondamentaux, ni aux utilisateurs qui ne veulent pas configurer Python et l'environnement de développement requis.
-
-## Points forts
-- Portée de recherche couvrant le traitement des données, le pré‑entraînement, le fine‑tuning et l'évaluation
-- Flux d'expérimentation qui exécute les étapes dépendantes dans un ordre topologique
-- Documentation ouverte couvrant également les expériences infructueuses et les décisions de développement
-
-## Premiers pas
-- Clonez le dépôt officiel et créez un environnement virtuel Python 3.12 ou supérieur
-- Synchronisez les dépendances avec uv
-- Configurez la variable d'environnement MARIN_PREFIX
-- Exécutez le test smoke TinyStories hors ligne sur le CPU
-
-## Démarrage prudent
-
-## Premier prompt
-Lancez comme première validation l'entraînement d'un petit modèle sur CPU avec le flux TinyStories hors ligne.
-
 ## Installation
 **Cloner le dépôt officiel**
 
@@ -59,6 +34,33 @@ wandb offline
 uv run python experiments/tutorials/train_tiny_model.py --device cpu --dataset tinystories --version dev --run
 ```
 
+
+## Que fait cet outil ?
+Exécute les expériences comme une séquence d'étapes dépendantes dans un ordre topologique. L'exemple officiel montre la tokenisation de TinyStories et l'entraînement d'un petit modèle de langage; l'approche de développement ouverte documente aussi le code, les données, les décisions et les essais infructueux.
+
+## Pour qui ?
+Équipes menant des recherches sur la curation, la transformation et le filtrage de données, la tokenisation, l'entraînement de modèles et l'évaluation.
+
+## À quoi ne faut-il pas s’attendre ?
+Pas destiné au développement d'applications simples hors du périmètre de la recherche sur les modèles fondamentaux, ni aux utilisateurs qui ne veulent pas configurer Python et l'environnement de développement requis.
+
+## Points forts
+- Portée de recherche couvrant le traitement des données, le pré‑entraînement, le fine‑tuning et l'évaluation
+- Flux d'expérimentation qui exécute les étapes dépendantes dans un ordre topologique
+- Documentation ouverte couvrant également les expériences infructueuses et les décisions de développement
+
+## Premiers pas
+- Clonez le dépôt officiel et créez un environnement virtuel Python 3.12 ou supérieur
+- Synchronisez les dépendances avec uv
+- Configurez la variable d'environnement MARIN_PREFIX
+- Exécutez le test smoke TinyStories hors ligne sur le CPU
+
+## Démarrage prudent
+
+## Premier prompt
+Lancez comme première validation l'entraînement d'un petit modèle sur CPU avec le flux TinyStories hors ligne.
+
+## Termes liés du glossaire
 
 ## Liens
 - Dépôt GitHub →

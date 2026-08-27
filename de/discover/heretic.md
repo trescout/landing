@@ -8,7 +8,7 @@ Heretic ist ein technisches Tool, das Einschränkungen bei der Sicherheitsausric
 - GitHub Trending · 28 May 2026
 
 ## Installation
-****
+**Offizielles Repository klonen**
 
 ```
 git clone https://github.com/p-e-w/heretic.git

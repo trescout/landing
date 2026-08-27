@@ -2,7 +2,7 @@
 
 TradingAgents is a multi-agent LLM-based framework developed for trading in financial markets. This system, written in Python, enables autonomous trading agents to analyze financial data, create strategies and manage decision-making processes.
 
-- ★ 95,338
+- ★ 100,847
 - GitHub Trending · 2026-06-02
 
 ## What you get
@@ -11,7 +11,7 @@ TradingAgents is a multi-agent LLM-based framework developed for trading in fina
 - It evaluates market data with the support of multiple artificial intelligence models.
 
 ## Installation
-****
+**Clone official repo and install**
 
 ```
 git clone https://github.com/TauricResearch/TradingAgents.git
@@ -21,7 +21,7 @@ pip install .
 
 
 ## Running it
-****
+**Run example CLI**
 
 ```
 python -m cli.main

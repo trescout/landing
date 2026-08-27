@@ -8,7 +8,7 @@ VoxCPM; Es un modelo TTS de código abierto sin tokenizador desarrollado para la
 - GitHub Trending · 30 May 2026
 
 ## Instalación
-****
+**Instalar desde PyPI**
 
 ```
 pip install voxcpm
@@ -16,7 +16,7 @@ pip install voxcpm
 
 
 ## Ejecución
-****
+**Texto a voz**
 
 ```
 voxcpm design --text "VoxCPM2 brings studio-quality multilingual speech synthesis." --output out.wav

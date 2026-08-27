@@ -39,7 +39,7 @@ docker run -d -p 3000:3000 --name=grafana grafana/grafana
 brew services start grafana
 ```
 
-Kaynak: Homebrew (grafana) · Docker Hub (grafana/grafana) · resmî Grafana dokümantasyonu (grafana.com/docs)
+Kaynak: Resmî kaynak: https://grafana.com
 
 ## Nasıl başlanır?
 

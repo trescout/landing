@@ -14,13 +14,23 @@ Pytest, Python projelerinde küçük ölçekli birim testlerinden (unit testing)
 - Hata anında detaylı bilgi sunarak testlerin hızlı analiz edilmesine yardımcı olur.
 - Geniş eklenti desteği ve modüler yapısı ile farklı ihtiyaçlara kolayca uyum sağlar.
 
+## Kurulum
+
+**pip ile (PyPI)**
+
+```
+pip install pytest
+```
+
 ## Çalıştırma
 
-**Testleri Çalıştırma**
+**Testleri çalıştır**
 
 ```
 pytest
 ```
+
+Kaynak: Resmî kaynak: https://github.com/pytest-dev/pytest
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 

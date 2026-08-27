@@ -31,11 +31,12 @@ It does most standard tasks well, but still requires human control in very compl
 - [Agentic AI](/en/dictionary/agentic-ai/)
 
 ## Related tools
+- [Andrej Karpathy Skills](/en/discover/andrej-karpathy-skills/)
 - [Opencode](/en/discover/opencode/)
 - [Openinterpreter](/en/discover/openinterpreter/)
 - [Continue](/en/discover/continue/)
-- [Kilocode](/en/discover/kilocode/)
 - [Oh My Pi](/en/discover/oh-my-pi/)
+- [Kilocode](/en/discover/kilocode/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/coding-agent/

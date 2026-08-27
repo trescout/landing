@@ -35,7 +35,7 @@ No, sus capacidades se personalizan según el uso previsto del agente (por ejemp
 - [Awesome Agent Skills](/es/discover/awesome-agent-skills/)
 - [Agentskills](/es/discover/agentskills/)
 - [Text to Cad](/es/discover/text-to-cad/)
-- [Stitch Skills](/es/discover/stitch-skills/)
+- [Claude Obsidian](/es/discover/claude-obsidian/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/agent-skills/

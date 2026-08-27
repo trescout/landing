@@ -12,7 +12,7 @@ Harper ofrece un corrector gramatical sin conexión y orientado a la privacidad 
 - Ofrece alto rendimiento con bajo uso de memoria.
 
 ## Instalación
-**macOS (hecho en casa)**
+**macOS (Homebrew)**
 
 ```
 brew install harper

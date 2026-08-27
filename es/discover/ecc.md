@@ -14,7 +14,7 @@ CEC; Claude Code es un sistema integral que aporta habilidades, instintos, optim
 - No se limita a una única herramienta, funciona compatible con múltiples entornos (Claude Code, Codex, Cursor…).
 
 ## Instalación
-****
+**Agregar complemento con Claude Code**
 
 ```
 /plugin marketplace add https://github.com/affaan-m/ECC

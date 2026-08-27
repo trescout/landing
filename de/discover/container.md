@@ -2,7 +2,7 @@
 
 Der von Apple entwickelte Container ermöglicht das Erstellen und Ausführen von Linux-Containern mithilfe kompakter virtueller Maschinen auf dem Mac. Das in der Swift-Sprache geschriebene Tool bietet eine für die Apple-Siliziumarchitektur optimierte Leistung.
 
-- ★ 48.745
+- ★ 49.440
 - Swift
 - GitHub Trending · 2026-06-11
 

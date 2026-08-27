@@ -2,11 +2,12 @@
 
 Basecamp tarafından geliştirilen Omarchy, Linux işletim sistemleri için modern ve özgün bir yapılandırma aracıdır. Sistem kurulumlarını standartlaştırmak ve yönetimi kolaylaştırmak amacıyla kabuk betiği (shell script) tabanlı bir yaklaşım sunar.
 
-- ★ 28.403
+- ★ 32.348
 - Shell
 - GitHub Trending · 2026-08-17
 
 ## Güncelleme
+- 27 Ağustos 2026: Yıldız 28.403 → 32.348, son sürüm v4.0.1 (25 Ağustos 2026).
 - 23 Ağustos 2026: Yıldız 26.839 → 28.403, son sürüm v4.0.0 (14 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 25.539 → 26.839, son sürüm v4.0.0 (14 Ağustos 2026).
 - 17 Ağustos 2026: Yıldız 25.537 → 25.539, son sürüm v4.0.0 (14 Ağustos 2026).

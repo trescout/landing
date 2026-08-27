@@ -31,6 +31,7 @@ Lo aumenta al nivel requerido y el exceso permanece inactivo.
 
 ## Herramientas relacionadas
 - [Llmfit](/es/discover/llmfit/)
+- [Invidious](/es/discover/invidious/)
 - [Needle](/es/discover/needle/)
 
 ---

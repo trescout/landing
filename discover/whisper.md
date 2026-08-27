@@ -16,31 +16,33 @@ OpenAI tarafından geliştirilen Whisper, geniş ölçekli zayıf denetimli öğ
 
 ## Kurulum
 
-**Sistem bağımlılıkları**
+**FFmpeg’i kur**
 
 ```
 sudo apt update && sudo apt install ffmpeg
 ```
 
-**Ek kurulum gereksinimi**
+**Python bağımlılıklarını kur**
 
 ```
 pip install setuptools-rust
 ```
 
+**Whisper’ı kur**
+
+```
+pip install openai-whisper
+```
+
 ## Çalıştırma
 
-**Ses dosyasını metne dönüştürme**
+**Ses dosyasını dönüştür**
 
 ```
-whisper audio.flac audio.mp3 audio.wav --model turbo
+whisper audio.flac --model turbo
 ```
 
-**Belirli bir dilde transkripsiyon**
-
-```
-whisper japanese.wav --language Japanese
-```
+Kaynak: Resmî kaynak: https://github.com/openai/whisper
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 

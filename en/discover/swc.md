@@ -17,7 +17,7 @@ Developed with the Rust language, SWC offers a fast compilation and bundling pla
 npm i -D @swc/core
 ```
 
-****
+**Global with npm**
 
 ```
 npm install -g @swc/cli @swc/core
@@ -25,7 +25,7 @@ npm install -g @swc/cli @swc/core
 
 
 ## Running it
-**Compile TypeScript file**
+**Compile TypeScript File**
 
 ```
 swc index.ts -o index.js

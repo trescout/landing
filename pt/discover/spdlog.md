@@ -12,7 +12,7 @@ spdlog é uma biblioteca de registro muito rápida desenvolvida para a linguagem
 - Alteração dinâmica do nível de log em tempo de execução
 
 ## Instalação
-**macOS (homebrew)**
+**macOS (Homebrew)**
 
 ```
 brew install spdlog

@@ -1,25 +1,25 @@
 # O que é Swarms?
 
-Karmaşık görevleri çözmek için koordineli şekilde çalışan küçük yapay zekâ birimleri topluluğudur.
+É um conjunto de pequenas unidades de inteligência artificial que trabalham em coordenação para resolver tarefas complexas.
 
 ## Definição
-Birçok küçük ve özelleşmiş yapay zekâ biriminin, büyük ve hantal bir model yerine küçük görevleri paylaşarak çalışmasıdır. Bu birimler birbirleriyle sürekli haberleşerek karmaşık sorunları parçalara ayırır ve her parçayı en uygun birim çözer. Bu yapı, sistemin esnekliğini ve hızını artırır.
+Funciona por meio de muitas unidades pequenas e especializadas de IA que compartilham pequenas tarefas, em vez de um modelo grande e complicado. Essas unidades se comunicam constantemente, dividindo problemas complexos em partes e a unidade mais adequada resolvendo cada parte. Essa estrutura aumenta a flexibilidade e velocidade do sistema.
 
 ## Como funciona
-Bir ana kontrolcü veya merkezi olmayan bir protokol ile görevler dağıtılır. Her birim kendi çıktısını diğerine ileterek nihai sonuca ulaşılır.
+As tarefas são distribuídas através de um controlador mestre ou de um protocolo descentralizado. O resultado final é alcançado quando cada unidade transmite sua saída para a outra.
 
 ## Onde é usado
-Otonom araçlar, lojistik planlama ve karmaşık yazılım geliştirme süreçlerinde kullanılır.
+Veículos autônomos são usados ​​no planejamento logístico e em processos complexos de desenvolvimento de software.
 
 ## Costuma ser confundido com
-Hive mind ile benzerdir; ancak swarm daha çok görev odaklı ve dinamik bir iş birliğini ifade eder.
+É semelhante à mente coletiva; No entanto, enxame refere-se a uma colaboração mais dinâmica e orientada para tarefas.
 
 ## Perguntas frequentes
-**Swarms neden verimlidir?**
-Her birim kendi alanında uzmanlaştığı için kaynak kullanımı daha optimize olur.
+**Por que os Swarms são produtivos?**
+Como cada unidade é especializada em sua área, o uso de recursos é mais otimizado.
 
-**Bir birim hata yaparsa sistem çöker mi?**
-Hayır, diğer birimler bu hatayı telafi edebilir veya görevi devralabilir.
+**Se uma unidade cometer um erro, o sistema travará?**
+Não, outras unidades podem compensar este erro ou assumir o controle.
 
 
 ## Termos relacionados

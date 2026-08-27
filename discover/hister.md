@@ -2,9 +2,36 @@
 
 Kullanıcının ziyaret ettiği sayfalar ve sakladığı dosyalar için AGPLv3 lisanslı özel bir arama motorudur. Tam metin indeksleme, gelişmiş sorgu filtreleri ve isteğe bağlı anlamsal arama sunar.
 
-- ★ 2.620
+- ★ 3.100
 - Go
 - GitHub Trending · 2026-08-25
+
+## Kurulum
+
+**Binary’yi çalıştırılabilir yap**
+
+```
+chmod +x hister
+```
+
+## Çalıştırma
+
+**Hister sunucusunu başlat**
+
+```
+./hister listen
+```
+
+**Yerel arayüze eriş**
+
+```
+http://127.0.0.1:4433
+```
+
+Kaynak: Resmî README ve dokümantasyon kaynakları: https://hister.org/docs/quickstart, https://github.com/asciimoo/hister, https://hister.org/posts/how-i-use-hister
+
+## Güncelleme
+- 27 Ağustos 2026: Yıldız 2.620 → 3.100, son sürüm v0.18.0 (23 Ağustos 2026).
 
 ## Bu araç ne yapar?
 
@@ -34,32 +61,8 @@ Zorunlu bulut hizmeti veya telemetri isteyen kullanım senaryoları ya da içeri
 Tarayıcı eklentisi, favicon indirme dışında indekslenen sayfa içeriğini yapılandırılmış Hister sunucusuna gönderir. İsteğe bağlı anlamsal arama, doküman metnini seçilen embeddings uç noktasına gönderir.
 
 ## İlk görev istemi
-İlk adım için hazır istem
+İlk adım için hazır istem 
 Yerel arayüzü açıp tarayıcı eklentisiyle seçtiğim sayfaları indeksle ve sorgu filtrelerini kullanarak aramayı doğrula.
-
-## Kurulum
-
-**Binary’yi çalıştırılabilir yap**
-
-```
-chmod +x hister
-```
-
-## Çalıştırma
-
-**Hister sunucusunu başlat**
-
-```
-./hister listen
-```
-
-**Yerel arayüze eriş**
-
-```
-http://127.0.0.1:4433
-```
-
-Kaynak: Resmî README ve dokümantasyon kaynakları: https://hister.org/docs/quickstart, https://github.com/asciimoo/hister, https://hister.org/posts/how-i-use-hister
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/asciimoo/hister)
@@ -68,6 +71,9 @@ Kaynak: Resmî README ve dokümantasyon kaynakları: https://hister.org/docs/qui
 - [Kullanım akışı →](https://hister.org/posts/how-i-use-hister)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+TUI Binary MCP Terminal CLI
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/hister/

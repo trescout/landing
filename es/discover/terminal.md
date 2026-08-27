@@ -12,7 +12,7 @@ Microsoft está combinando Windows Terminal y la consola tradicional de Windows 
 - Rendimiento mejorado de la línea de comandos
 
 ## Instalación
-**Ventanas (ala)**
+**Windows (winget)**
 
 ```
 winget install Microsoft.WindowsTerminal

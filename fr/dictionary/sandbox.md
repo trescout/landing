@@ -30,6 +30,7 @@ Un bac à sable bien structuré restreint complètement la communication avec le
 ## Outils liés
 - [Deer Flow](/fr/discover/deer-flow/)
 - [MiroFish](/fr/discover/mirofish/)
+- [Ladybird](/fr/discover/ladybird/)
 - [CUA](/fr/discover/cua/)
 - [iii](/fr/discover/iii/)
 - [CubeSandbox](/fr/discover/cubesandbox/)

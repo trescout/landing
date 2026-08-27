@@ -13,7 +13,7 @@ Habilidades Antrópicas; Es el repositorio oficial de paquetes de habilidades qu
 - Totalmente compatible con el estándar de habilidades de los agentes.
 
 ## Instalación
-****
+**Agregar marketplace de Claude Code**
 
 ```
 /plugin marketplace add anthropics/skills

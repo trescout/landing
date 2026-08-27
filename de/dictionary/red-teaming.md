@@ -29,7 +29,6 @@ Durch das Stellen schädlicher Fragen an das Modell wird überprüft, ob das Mod
 
 ## Verwandte Werkzeuge
 - [G0DM0D3](/de/discover/g0dm0d3/)
-- [AI-Infra-Guard](/de/discover/ai-infra-guard/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/red-teaming/

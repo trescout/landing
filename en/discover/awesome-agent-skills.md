@@ -1,14 +1,14 @@
-# Yapay zekâ ajanları için hazır yetenekler
+# Ready-made capabilities for AI agents
 
-VoltAgent tarafından derlenen awesome-agent-skills, geliştirici ekiplerin ve topluluğun oluşturduğu 1000'den fazla yapay zekâ yeteneğini (agent skills) bir araya getiriyor. Bu koleksiyon, kod yazma asistanı Cursor ve yapay zekâ destekli komut satırı araçları (Claude Code, Gemini CLI) gibi platformlarla uyumlu çalışacak şekilde tasarlanıyor.
+Compiled by VoltAgent, awesome-agent-skills brings together more than 1000 artificial intelligence skills (agent skills) created by developer teams and the community. This collection is designed to be compatible with platforms such as the coding assistant Cursor and artificial intelligence-supported command line tools (Claude Code, Gemini CLI).
 
 - ★ 31,405
 - GitHub Trending · 2026-08-24
 
 ## What you get
-- 1000'den fazla doğrulanmış yapay zekâ yeteneğine erişim sağlar.
-- Claude Code ve Cursor gibi popüler geliştirme araçlarıyla uyumlu çalışır.
-- Mühendislik ekipleri tarafından oluşturulan gerçek dünya çözümlerini içerir.
+- Provides access to over 1000 verified AI capabilities.
+- It works compatible with popular development tools such as Claude Code and Cursor.
+- It includes real-world solutions created by engineering teams.
 
 ## Getting started
 - Official source →

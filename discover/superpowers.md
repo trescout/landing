@@ -23,6 +23,16 @@ Superpowers , kodlama ajanlarınız için bileşik becerilerden oluşan kapsaml�
 - Ajan iş akışlarını standartlaştırma.
 - Birden fazla platformla tam uyum.
 
+## Kurulum
+
+**Claude Code eklentisini kur**
+
+```
+/plugin install superpowers@claude-plugins-official
+```
+
+Kaynak: Resmî kaynak: https://github.com/obra/superpowers
+
 ## Nasıl başlanır?
 
 Ajanınıza TreScout ile süper güçler kazandırın; Claude Code, Codex ve Gemini için hızlı başlangıç adımları depoda sizi bekliyor.
@@ -30,12 +40,6 @@ Ajanınıza TreScout ile süper güçler kazandırın; Claude Code, Codex ve Gem
 ## Nasıl kurulur, nasıl kullanılır?
 🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Claude Code'da '/plugin install superpowers@claude-plugins-official' komutunu çalıştırarak Superpowers eklentisini kur; bundan sonra bir şey geliştirmemi istediğimde beceriler otomatik devreye girer.
-
-**Claude Code · resmi marketplace'ten kur**
-
-```
-/plugin install superpowers@claude-plugins-official
-```
 
 Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
 

@@ -2,7 +2,7 @@
 
 Desarrollado por Apple, el contenedor permite crear y ejecutar contenedores de Linux utilizando máquinas virtuales livianas en Mac. Escrita en lenguaje Swift, la herramienta ofrece un rendimiento optimizado para la arquitectura de silicio de Apple.
 
-- ★ 48.745
+- ★ 49.440
 - Swift
 - GitHub Trending · 2026-06-11
 

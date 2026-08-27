@@ -18,7 +18,7 @@ Grafana est une plateforme open source d'observabilité et de visualisation de d
 brew install grafana
 ```
 
-**avec Docker**
+**Avec Docker**
 
 ```
 docker run -d -p 3000:3000 --name=grafana grafana/grafana
@@ -26,7 +26,7 @@ docker run -d -p 3000:3000 --name=grafana grafana/grafana
 
 
 ## Exécution
-**Démarrer en tant que service homebrew**
+**Démarrer comme service Homebrew**
 
 ```
 brew services start grafana

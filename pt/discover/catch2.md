@@ -2,7 +2,7 @@
 
 Catch2 é uma estrutura moderna de teste de unidade que oferece suporte a C++ 14 e versões posteriores. Ele foi projetado para oferecer suporte a práticas de desenvolvimento orientado a testes (TDD) e desenvolvimento orientado a comportamento (BDD) em processos de desenvolvimento de software.
 
-- ★ 21.404
+- ★ 21.444
 - C++
 - GitHub Trending · 2026-07-11
 
@@ -12,7 +12,7 @@ Catch2 é uma estrutura moderna de teste de unidade que oferece suporte a C++ 14
 - Inclui recursos essenciais de micro benchmarking
 
 ## Instalação
-**macOS (homebrew)**
+**macOS (Homebrew)**
 
 ```
 brew install catch2

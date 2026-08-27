@@ -2,11 +2,12 @@
 
 Google tarafından geliştirilen yetenekler (skills) kütüphanesi, yapay zekâ ajanlarının Google ürünleri ve teknolojileriyle etkileşim kurmasını sağlayan Python tabanlı araçlar sunuyor. Bu kaynak, ajanların belirli görevleri yerine getirmesi için gerekli işlevselliği standartlaştırılmış bir yapıda sağlıyor.
 
-- ★ 17.658
+- ★ 18.743
 - Python
 - GitHub Trending · 2026-06-09
 
 ## Güncelleme
+- 27 Ağustos 2026: Yıldız 17.658 → 18.743.
 - 11 Ağustos 2026: Yıldız 16.451 → 17.658.
 - 8 Ağustos 2026: Yıldız 15.389 → 16.451.
 - 2 Ağustos 2026: Yıldız 12.675 → 15.389.

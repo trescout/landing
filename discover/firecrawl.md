@@ -17,6 +17,16 @@ TreScout notu: Web sitelerini yapay zekâya verilebilecek temiz metne çevirir. 
 - Yapay zekâ ajanları için veri toplar
 - Karmaşık web sayfalarıyla etkileşime girer
 
+## Kurulum
+
+**npm ile ekle**
+
+```
+npm install @mendable/firecrawl-js
+```
+
+Kaynak: Resmî kaynak: https://github.com/firecrawl/firecrawl
+
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Firecrawl kullanarak belirttiğim web sitesindeki verileri tara ve yapay zekâ modellerinin kolayca işleyebileceği temiz bir Markdown formatına dönüştür. Sayfa içeriğini çekerken karmaşık yapıları temizle ve yalnızca anlamlı metinleri, yapılandırılmış verileri veya gerekli görsel bilgilerini ayıkla.

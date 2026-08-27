@@ -14,7 +14,7 @@ Superpowers est une méthodologie complète de développement logiciel de compé
 - Compatibilité totale avec plusieurs plateformes.
 
 ## Installation
-****
+**Installer le plugin Claude Code**
 
 ```
 /plugin install superpowers@claude-plugins-official

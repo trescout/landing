@@ -2,7 +2,7 @@
 
 Développé pour Chrome DevTools, ce serveur permet aux agents de codage d'intelligence artificielle de gérer les processus de débogage basés sur le navigateur. Fonctionnant via le Model Context Protocol, cet outil permet aux agents d'inspecter directement les applications Web et d'automatiser les processus de débogage.
 
-- ★ 48 884
+- ★ 49 801
 - TypeScript
 - GitHub Trending · 2026-07-03
 
@@ -12,7 +12,7 @@ Développé pour Chrome DevTools, ce serveur permet aux agents de codage d'intel
 - Examiner les requêtes réseau et les erreurs de la console
 
 ## Installation
-****
+**Global via npm**
 
 ```
 npm install -g chrome-devtools-mcp

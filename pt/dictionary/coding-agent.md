@@ -29,11 +29,12 @@ Ele executa bem a maioria das tarefas padrão, mas ainda requer controle humano 
 - [Agentic AI](/pt/dictionary/agentic-ai/)
 
 ## Ferramentas relacionadas
+- [Andrej Karpathy Skills](/pt/discover/andrej-karpathy-skills/)
 - [Opencode](/pt/discover/opencode/)
 - [Openinterpreter](/pt/discover/openinterpreter/)
 - [Continue](/pt/discover/continue/)
-- [Kilocode](/pt/discover/kilocode/)
 - [Oh My Pi](/pt/discover/oh-my-pi/)
+- [Kilocode](/pt/discover/kilocode/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/coding-agent/

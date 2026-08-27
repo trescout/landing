@@ -30,12 +30,12 @@ Non, seuls les logiciels autorisant le système de plug-in (architecture ouverte
 ## Outils liés
 - [Superpowers](/fr/discover/superpowers/)
 - [ECC](/fr/discover/ecc/)
+- [Andrej Karpathy Skills](/fr/discover/andrej-karpathy-skills/)
 - [Anthropic Skills](/fr/discover/anthropic-skills/)
 - [Understand Anything](/fr/discover/understand-anything/)
 - [Claude Plugins Official](/fr/discover/claude-plugins-official/)
 - [Codex Plugin Cc](/fr/discover/codex-plugin-cc/)
 - [Compound Engineering](/fr/discover/compound-engineering-plugin/)
-- [Knowledge Work Plugins](/fr/discover/knowledge-work-plugins/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/plugin/

@@ -11,7 +11,7 @@ OpenCV, una biblioteca de visión por computadora de código abierto, ofrece una
 - Acceda a amplias herramientas para aplicaciones de aprendizaje automático
 
 ## Instalación
-**Pitón (pip)**
+**Python (pip)**
 
 ```
 pip install opencv-python

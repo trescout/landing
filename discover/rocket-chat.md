@@ -18,27 +18,34 @@ Rocket.Chat, görev kritik operasyonlar için tasarlanmış güvenli bir iletiş
 
 ## Kurulum
 
-**Linux · Snap paketi (Rocket.Chat yayımcısı)**
+**Resmî compose deposunu klonla**
 
 ```
-sudo snap install rocketchat-server
+git clone --depth 1 https://github.com/RocketChat/rocketchat-compose.git
 ```
 
-**Docker · resmî compose deposu**
+**Ortam dosyasını oluştur**
 
 ```
-git clone --depth 1 https://github.com/RocketChat/rocketchat-compose.git && cd rocketchat-compose && cp .env.example .env
+cd rocketchat-compose
+cp .env.example .env
+```
+
+**MongoDB ve Rocket.Chat servislerini başlat**
+
+```
+docker compose -f compose.database.yml -f compose.yml -f compose.nats.yml up -d
 ```
 
 ## Çalıştırma
 
-**Docker ile başlat**
+**Yerel arayüze eriş**
 
 ```
-docker compose -f compose.database.yml -f compose.yml -f compose.nats.yml -f docker.yml up -d
+http://localhost:3000
 ```
 
-Kaynak: Rocket.Chat dokümanı · docs.rocket.chat/docs/deploy-with-docker-docker-compose
+Kaynak: Resmî kaynak: https://docs.rocket.chat/docs/deploy-with-docker-docker-compose
 
 ## Nasıl başlanır?
 

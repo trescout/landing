@@ -30,6 +30,7 @@ Eine gut strukturierte Sandbox schränkt die Kommunikation mit der Außenwelt vo
 ## Verwandte Werkzeuge
 - [Deer Flow](/de/discover/deer-flow/)
 - [MiroFish](/de/discover/mirofish/)
+- [Ladybird](/de/discover/ladybird/)
 - [CUA](/de/discover/cua/)
 - [iii](/de/discover/iii/)
 - [CubeSandbox](/de/discover/cubesandbox/)

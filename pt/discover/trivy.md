@@ -12,13 +12,13 @@ Trivy é uma ferramenta abrangente de verificação de segurança que detecta vu
 - Evita vazamentos verificando chaves privadas e informações confidenciais.
 
 ## Instalação
-**macOS (homebrew)**
+**macOS (Homebrew)**
 
 ```
 brew install trivy
 ```
 
-**Janelas (winget)**
+**Windows (winget)**
 
 ```
 winget install AquaSecurity.Trivy
@@ -26,7 +26,7 @@ winget install AquaSecurity.Trivy
 
 
 ## Execução
-****
+**Escanear imagem de contêiner**
 
 ```
 trivy image imaj-adi:etiket

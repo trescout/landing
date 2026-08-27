@@ -30,13 +30,13 @@ Ja, sie können Ihre Dateien verwalten oder Ihre Anwendungen ausführen, wenn Si
 
 ## Verwandte Werkzeuge
 - [Hermes Agent](/de/discover/hermes-agent/)
+- [Andrej Karpathy Skills](/de/discover/andrej-karpathy-skills/)
 - [Opencode](/de/discover/opencode/)
 - [Awesome LLM Apps](/de/discover/awesome-llm-apps/)
+- [Ponytail](/de/discover/ponytail/)
 - [Agent Skills](/de/discover/agent-skills/)
 - [Taste Skill](/de/discover/taste-skill/)
 - [Agent-Reach](/de/discover/agent-reach/)
-- [Ansible](/de/discover/ansible/)
-- [Openinterpreter](/de/discover/openinterpreter/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/agent/

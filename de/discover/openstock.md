@@ -14,7 +14,7 @@ OpenStock ist eine Open-Source-Alternative zu teuren Börsenplattformen. Es biet
 - Es macht teure Plattformen überflüssig.
 
 ## Installation
-****
+**GitHub-Repository klonen**
 
 ```
 git clone https://github.com/Open-Dev-Society/OpenStock.git
@@ -24,7 +24,7 @@ pnpm install
 
 
 ## Ausführung
-**Starten Sie den Entwicklungsserver**
+**Entwicklungsserver starten**
 
 ```
 pnpm dev

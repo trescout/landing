@@ -1,25 +1,25 @@
 # Qu'est-ce que Swarms ?
 
-Karmaşık görevleri çözmek için koordineli şekilde çalışan küçük yapay zekâ birimleri topluluğudur.
+Il s’agit d’un ensemble de petites unités d’intelligence artificielle qui travaillent en coordination pour résoudre des tâches complexes.
 
 ## Définition
-Birçok küçük ve özelleşmiş yapay zekâ biriminin, büyük ve hantal bir model yerine küçük görevleri paylaşarak çalışmasıdır. Bu birimler birbirleriyle sürekli haberleşerek karmaşık sorunları parçalara ayırır ve her parçayı en uygun birim çözer. Bu yapı, sistemin esnekliğini ve hızını artırır.
+Il fonctionne avec de nombreuses petites unités d'IA spécialisées partageant de petites tâches plutôt que dans un modèle volumineux et encombrant. Ces unités communiquent constamment entre elles, divisant les problèmes complexes en parties et l'unité la plus appropriée résolvant chaque partie. Cette structure augmente la flexibilité et la rapidité du système.
 
 ## Comment ça marche
-Bir ana kontrolcü veya merkezi olmayan bir protokol ile görevler dağıtılır. Her birim kendi çıktısını diğerine ileterek nihai sonuca ulaşılır.
+Les tâches sont distribuées via un contrôleur maître ou un protocole décentralisé. Le résultat final est obtenu lorsque chaque unité transmet sa sortie à l'autre.
 
 ## Où est-ce utilisé
-Otonom araçlar, lojistik planlama ve karmaşık yazılım geliştirme süreçlerinde kullanılır.
+Les véhicules autonomes sont utilisés dans la planification logistique et les processus de développement de logiciels complexes.
 
 ## Souvent confondu avec
-Hive mind ile benzerdir; ancak swarm daha çok görev odaklı ve dinamik bir iş birliğini ifade eder.
+C'est similaire à l'esprit de ruche ; Cependant, swarm fait référence à une collaboration plus dynamique et plus axée sur les tâches.
 
 ## Questions fréquentes
-**Swarms neden verimlidir?**
-Her birim kendi alanında uzmanlaştığı için kaynak kullanımı daha optimize olur.
+**Pourquoi les essaims sont-ils productifs ?**
+Chaque unité étant spécialisée dans son domaine, l’utilisation des ressources est plus optimisée.
 
-**Bir birim hata yaparsa sistem çöker mi?**
-Hayır, diğer birimler bu hatayı telafi edebilir veya görevi devralabilir.
+**Si une unité fait une erreur, le système va-t-il planter ?**
+Non, d'autres unités peuvent compenser cette erreur ou prendre le relais.
 
 
 ## Termes liés

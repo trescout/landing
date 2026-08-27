@@ -29,11 +29,12 @@ Es erledigt die meisten Standardaufgaben gut, erfordert aber in sehr komplexen o
 - [Agentic AI](/de/dictionary/agentic-ai/)
 
 ## Verwandte Werkzeuge
+- [Andrej Karpathy Skills](/de/discover/andrej-karpathy-skills/)
 - [Opencode](/de/discover/opencode/)
 - [Openinterpreter](/de/discover/openinterpreter/)
 - [Continue](/de/discover/continue/)
-- [Kilocode](/de/discover/kilocode/)
 - [Oh My Pi](/de/discover/oh-my-pi/)
+- [Kilocode](/de/discover/kilocode/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/coding-agent/

@@ -7,6 +7,16 @@ Heretic , transformer tabanlı dil modellerinden güvenlik hizalaması (safety a
 - AGPL-3.0
 - GitHub Trending · 28 May 2026
 
+## Kurulum
+
+**Resmî depoyu klonla**
+
+```
+git clone https://github.com/p-e-w/heretic.git
+```
+
+Kaynak: Resmî kaynak: https://github.com/p-e-w/heretic
+
 ## Güncelleme
 - 2 Ağustos 2026: Yıldız 22.018 → 27.018, son sürüm v1.4.0 (14 Haziran 2026).
 

@@ -1,25 +1,25 @@
 # O que é Hive Mind?
 
-Birbirine bağlı birçok yapay zekâ biriminin ortak bir zeka gibi hareket etmesidir.
+É o ato de muitas unidades de inteligência artificial interconectadas agindo como uma inteligência coletiva.
 
 ## Definição
-Doğadaki karınca kolonileri gibi, çok sayıda bağımsız yapay zekâ biriminin bir araya gelerek tek bir büyük zeka gibi davranmasıdır. Her birim kendi uzmanlığına sahiptir ancak ortak bir amaç için sürekli iletişim halindedirler. Bu yapı, tek bir güçlü modelden ziyade, iş birliği yapan bir topluluğun gücünden yararlanır.
+Tal como as colónias de formigas na natureza, muitas unidades independentes de inteligência artificial unem-se e actuam como uma única grande inteligência. Cada unidade possui expertise própria, mas estão em constante comunicação em prol de um objetivo comum. Esta estrutura aproveita o poder de uma comunidade colaborativa em vez de um modelo único e poderoso.
 
 ## Como funciona
-Farklı görevlere atanmış yapay zekâ ajanları, bir iletişim protokolü üzerinden birbirlerine veri aktarır ve ortak bir hedefe doğru kararlar alırlar.
+Agentes de inteligência artificial designados para diferentes tarefas transferem dados entre si por meio de um protocolo de comunicação e tomam decisões em direção a um objetivo comum.
 
 ## Onde é usado
-Karmaşık problem çözme, büyük ölçekli veri analizi ve otonom robotik sistemlerde kullanılır.
+É usado na resolução de problemas complexos, análise de dados em grande escala e sistemas robóticos autônomos.
 
 ## Costuma ser confundido com
-Multi-agent sistemlerle benzerdir ancak burada vurgu, birimlerin tek bir zihin gibi hareket etmesindedir.
+É semelhante aos sistemas multiagentes, mas a ênfase está nas unidades que atuam como uma única mente.
 
 ## Perguntas frequentes
-**Hive mind neden daha iyidir?**
-Tek bir modelin kapasitesini aşan karmaşık sorunları, iş bölümü yaparak çok daha hızlı çözebilir.
+**Por que a mente coletiva é melhor?**
+Problemas complexos que excedem a capacidade de um único modelo podem ser resolvidos muito mais rapidamente com a divisão do trabalho.
 
-**Birimler nasıl haberleşir?**
-Genellikle ortak bir mesajlaşma protokolü veya paylaşılan bir bellek alanı üzerinden haberleşirler.
+**Como as unidades se comunicam?**
+Eles geralmente se comunicam por meio de um protocolo de mensagens comum ou espaço de memória compartilhado.
 
 
 ## Termos relacionados

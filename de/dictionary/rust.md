@@ -26,12 +26,12 @@ Weil es sehr schnell ist und Softwarefehler deutlich reduziert.
 ## Verwandte Werkzeuge
 - [Next.js](/de/discover/next-js/)
 - [Rustdesk](/de/discover/rustdesk/)
-- [Codex](/de/discover/codex/)
 - [Deno](/de/discover/deno/)
 - [BUN](/de/discover/bun/)
-- [RuView](/de/discover/ruview/)
 - [OpenCut](/de/discover/opencut/)
 - [Openinterpreter](/de/discover/openinterpreter/)
+- [Vaultwarden](/de/discover/vaultwarden/)
+- [Ladybird](/de/discover/ladybird/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/rust/

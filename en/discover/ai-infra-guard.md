@@ -1,8 +1,8 @@
 # Security audit for your AI infrastructure
 
-AI-Infra-Guard, ajanları, becerileri, MCP'yi ve yapay zekâ altyapısını tarayan, ayrıca LLM jailbreak değerlendirmeleri yapan uçtan uca bir yapay zekâ kırmızı ekip platformudur.
+AI-Infra-Guard is an end-to-end AI red team platform that scans agents, skills, MCP, and AI infrastructure, as well as performs LLM jailbreak assessments.
 
-- ★ 4,746
+- ★ 5,995
 - Python
 - GitHub Trending · 2026-08-20
 

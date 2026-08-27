@@ -29,7 +29,6 @@ Ao fazer perguntas prejudiciais ao modelo, verifica-se se o modelo viola as regr
 
 ## Ferramentas relacionadas
 - [G0DM0D3](/pt/discover/g0dm0d3/)
-- [AI-Infra-Guard](/pt/discover/ai-infra-guard/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/red-teaming/

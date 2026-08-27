@@ -23,6 +23,7 @@
 <meta property="og:image" content="https://trescout.com/assets/discover/og/vaultwarden-en.webp">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Vaultwarden">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Vaultwarden">
@@ -32,7 +33,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Kendi sunucunuzda parola yönetimi",
+  "headline": "Password management on your own server",
   "inLanguage": "en",
   "description": "An abstract for this item could not be produced today · see the source link for details.",
   "author": {
@@ -56,8 +57,6 @@
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
-
-<meta property="og:image:alt" content="Vaultwarden">
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
@@ -66,24 +65,24 @@
 <article class="disc">
 <a class="disc-back" href="/en/discover/">← Discover</a>
 <div class="disc-top"><span class="disc-eyebrow">Discover · GitHub · Vaultwarden</span><span class="disc-momentum">↑ +78 today</span></div>
-<h1 class="disc-title">Kendi sunucunuzda parola yönetimi</h1>
+<h1 class="disc-title">Password management on your own server</h1>
 <p class="disc-lead">An abstract for this item could not be produced today · see the source link for details.</p>
 <ul class="disc-meta"><li>★ 65,982</li><li>Rust</li><li>GitHub Trending · 2026-08-24</li></ul>
       <section class="disc-sec disc-updates"><h2>Updates</h2><ul class="disc-update-list"><li><strong>August 24, 2026:</strong> Stars 65,983 → 65,982, latest release 1.37.2 (August 22, 2026).</li></ul></section>
-      <section class="disc-sec"><h2>What you get</h2><ul class="disc-wins"><li>Resmî Bitwarden istemcileriyle tam uyumlu çalışır</li><li>Düşük kaynak tüketimiyle kendi sunucunuzda barındırılabilir</li><li>İki faktörlü doğrulama ve acil durum erişimi sunar</li></ul></section>
-      <section class="disc-sec"><h2>Installation</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Kapsayıcıyı indirme ve çalıştırma</span><button type="button" class="disc-copy" aria-label="Copy command">Copy</button></div><pre><code>docker pull vaultwarden/server:latest
+      <section class="disc-sec"><h2>What you get</h2><ul class="disc-wins"><li>Fully compatible with official Bitwarden clients</li><li>Can be hosted on your own server with low resource consumption</li><li>Offers two-factor authentication and emergency access</li></ul></section>
+      <section class="disc-sec"><h2>Installation</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Download and run the container</span><button type="button" class="disc-copy" aria-label="Copy command">Copy</button></div><pre><code>docker pull vaultwarden/server:latest
 docker run --detach --name vaultwarden \
   --env DOMAIN=&quot;https://vw.domain.tld&quot; \
   --volume /vw-data/:/data/ \
   --restart unless-stopped \
   --publish 127.0.0.1:8000:80 \
   vaultwarden/server:latest</code></pre></div></section>
-      <section class="disc-sec"><h2>If you don&#39;t write code</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Copy prompt">Copy</button></div><p class="disc-ai-text">Benim için kendi sunucumda parola yönetimi sağlayan Vaultwarden aracını kurmama yardımcı ol. Bu araç, Bitwarden istemcileriyle uyumlu bir sunucu yazılımıdır. Docker kullanarak kurulum yapacağım için gerekli olan imajı çekme ve çalıştırma komutlarını, verilerimin kalıcı olması için bir birim (volume) bağlayarak ve HTTPS gereksinimlerini göz önünde bulundurarak nasıl yapılandıracağımı adım adım açıkla.</p></div></section>
+      <section class="disc-sec"><h2>If you don&#39;t write code</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Copy prompt">Copy</button></div><p class="disc-ai-text">Help me install Vaultwarden, a tool that provides password management on my own server. This tool is server software compatible with Bitwarden clients. Since I will be installing using Docker, explain step by step how to configure the image commands to pull and run, mounting a volume to persist my data, and taking into account HTTPS requirements.</p></div></section>
       <section class="disc-sec"><h2>Related dictionary terms</h2><div class="disc-related"><a href="/en/dictionary/rust/">Rust</a><a href="/en/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
-      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Who it is for</span><span class="disc-fact-v">Kendi şifrelerini ve hassas verilerini üçüncü taraf bulut hizmetlerine güvenmek yerine, kendi sunucusunda barındırmak isteyen kullanıcılar içindir.</span></div><div class="disc-fact"><span class="disc-fact-k">License</span><span class="disc-fact-v">AGPL-3.0</span></div></div>
+      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Who it is for</span><span class="disc-fact-v">It is for users who want to host their own passwords and sensitive data on their own server rather than relying on third-party cloud services.</span></div><div class="disc-fact"><span class="disc-fact-k">License</span><span class="disc-fact-v">AGPL-3.0</span></div></div>
       <section class="disc-sec"><h2>Links</h2><ul class="disc-links"><li><a href="https://github.com/dani-garcia/vaultwarden" target="_blank" rel="noopener">GitHub repository →</a></li><li><a href="https://trescout.com/discover/vaultwarden/">Read in Turkish →</a></li></ul></section>
 <p class="disc-disclaimer">TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-24: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was <strong>machine-translated</strong> from the Turkish original · the Turkish version prevails.</p>
-<aside class="disc-cta"><p><strong>TreScout catches tools like this every day.</strong> GitHub, Hacker News and HuggingFace are scanned, the highlights are summarized for you.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-en" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/discover/">All discoveries →</a></aside>
+<aside class="disc-cta"><p><strong>Get similar discoveries in the daily report.</strong> TreScout scouts GitHub, Hacker News and HuggingFace trends daily, delivering curated summaries.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-en" data-page-type="discover" data-content-slug="vaultwarden" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/discover/">All discoveries →</a></aside>
 </article>
 </main>
 <footer>
@@ -128,8 +127,6 @@ docker run --detach --name vaultwarden \
 </footer>
 <script src="/assets/discover.js" defer></script>
 <script src="/assets/subscribe.js" defer></script>
-  <script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>
-  <script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>
-  <script src="/assets/provider-consent.js" defer></script>
+<script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script><script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script><script src="/assets/telemetry.js" defer></script>
 </body>
 </html>

@@ -1,6 +1,6 @@
 # Infraestructura escalable para agentes de inteligencia artificial
 
-Desarrollado con el lenguaje Go, el Agent Substrate ofrece un tiempo de ejecución básico para agentes de inteligencia artificial. Esta infraestructura, que soporta diferentes arquitecturas de agentes, visa padronizar los recursos del sistema y los flujos de trabajo necesarios de los agentes.
+Agent Substrate es el sistema central que proporciona una infraestructura escalable para agentes de inteligencia artificial.
 
 - ★ 1.276
 - Go

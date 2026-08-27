@@ -30,6 +30,7 @@ Yes, every software that can run needs a working environment.
 - [API](/en/dictionary/api/)
 
 ## Related tools
+- [Andrej Karpathy Skills](/en/discover/andrej-karpathy-skills/)
 - [Node](/en/discover/node/)
 - [Deno](/en/discover/deno/)
 - [BUN](/en/discover/bun/)
@@ -37,7 +38,6 @@ Yes, every software that can run needs a working environment.
 - [Onnxruntime](/en/discover/onnxruntime/)
 - [Flue](/en/discover/flue/)
 - [Switchyard](/en/discover/switchyard/)
-- [Substrate](/en/discover/substrate/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/runtime/

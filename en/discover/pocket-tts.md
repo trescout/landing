@@ -2,7 +2,7 @@
 
 Developed by Kyutai Labs, Pocket-TTS is a lightweight text-to-speech model that runs only on the central processing unit (CPU) without the need for a graphics processing unit. Thanks to its low resource consumption, it offers fast and efficient sound synthesis on devices with hardware restrictions.
 
-- ★ 7,994
+- ★ 9,151
 - Python
 - GitHub Trending · 2026-07-08
 

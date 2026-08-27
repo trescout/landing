@@ -12,7 +12,7 @@ Développé par TencentCloud dans Rust, CubeSandbox offre un environnement de tr
 - Compatibilité totale avec le SDK E2B
 
 ## Installation
-**via pip (PyPI)**
+**Avec pip (PyPI)**
 
 ```
 pip install cubesandbox

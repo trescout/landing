@@ -28,6 +28,8 @@ Sim, mas é melhor observar os resultados globais que incluem diferentes cenári
 - [Inference](/pt/dictionary/inference/)
 
 ## Ferramentas relacionadas
+- [Ponytail](/pt/discover/ponytail/)
+- [RuView](/pt/discover/ruview/)
 - [CUA](/pt/discover/cua/)
 - [Whichllm](/pt/discover/whichllm/)
 - [SIA](/pt/discover/sia/)

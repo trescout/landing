@@ -1,8 +1,8 @@
 # Couche d'orchestration pour les agents IA
 
-Ruflo, akıllı ajan sürülerini devreye almak, otonom iş akışlarını koordine etmek ve diyalogsal yapay zekâ sistemleri oluşturmak için bir ajan orkestrasyon katmanıdır.
+Ruflo est une couche d'orchestration d'agents permettant de déployer des essaims d'agents intelligents, de coordonner des flux de travail autonomes et de créer des systèmes d'IA conversationnelle.
 
-- ★ 68 873
+- ★ 69 519
 - TypeScript
 - GitHub Trending · 2026-08-22
 

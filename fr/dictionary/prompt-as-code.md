@@ -1,25 +1,25 @@
 # Qu'est-ce que Prompt as Code ?
 
-Yapay zekâ komutlarının yazılım kodu gibi yönetilmesi, versiyonlanması ve test edilmesidir.
+Il s'agit de la gestion, du versionnage et des tests des commandes d'intelligence artificielle comme le code logiciel.
 
 ## Définition
-Yazılım dünyasında kodlarımızı nasıl versiyon kontrol sistemlerinde saklıyorsak, yapay zekâya verdiğimiz komutları da aynı disiplinle yönetme yaklaşımıdır. Bu yöntem, komutların geçmişini takip etmenizi, hatalı bir değişiklikte eskiye dönmenizi ve komutların performansını test etmenizi sağlar. Böylece yapay zekâdan aldığınız sonuçlar daha tutarlı ve güvenilir hale gelir.
+Tout comme nous stockons nos codes dans les systèmes de contrôle de version du monde du logiciel, c'est une approche pour gérer les commandes que nous donnons à l'intelligence artificielle avec la même discipline. Cette méthode vous permet de garder une trace de l'historique des commandes, de revenir sur une modification incorrecte et de tester les performances des commandes. Ainsi, les résultats obtenus grâce à l’intelligence artificielle deviennent plus cohérents et fiables.
 
 ## Comment ça marche
-Komutlarınızı metin dosyaları olarak saklayın ve bu dosyaları Git gibi araçlarla takip edin. Her yeni komut değişikliğini bir 'commit' olarak kaydedin ve bu komutların yapay zekâ üzerindeki etkisini otomatik testlerle kontrol edin.
+Stockez vos commandes sous forme de fichiers texte et suivez-les avec des outils comme Git. Enregistrez chaque nouvelle modification de commande en tant que « commit » et vérifiez l'impact de ces commandes sur l'intelligence artificielle avec des tests automatisés.
 
 ## Où est-ce utilisé
-Yazılım geliştirme süreçlerinde, özellikle yapay zekâ destekli otomasyonlarda ve karmaşık sistemlerin yönetildiği projelerde kullanılır.
+Il est utilisé dans les processus de développement de logiciels, en particulier dans l'automatisation basée sur l'intelligence artificielle et dans les projets dans lesquels des systèmes complexes sont gérés.
 
 ## Souvent confondu avec
-Prompt engineering ile karıştırılabilir; ancak bu, işin teknik yönetim ve süreç kısmıdır.
+Cela peut être confondu avec une ingénierie rapide ; mais il s’agit là de la partie gestion technique et processus du travail.
 
 ## Questions fréquentes
-**Neden komutları kod gibi yönetmeliyim?**
-Çünkü karmaşık sistemlerde hangi komutun neden çalıştığını veya neden bozulduğunu takip etmek bu sayede kolaylaşır.
+**Pourquoi devrais-je gérer des commandes comme le code ?**
+Parce que cela permet de savoir plus facilement quelle commande fonctionne ou pourquoi elle fonctionne mal dans des systèmes complexes.
 
-**Test etmek ne anlama geliyor?**
-Komutun farklı girdilerle beklenen sonucu verip vermediğini otomatik olarak kontrol etmek demektir.
+**Que signifie tester ?**
+Cela signifie vérifier automatiquement si la commande donne le résultat attendu avec différentes entrées.
 
 
 ## Termes liés

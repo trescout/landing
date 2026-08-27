@@ -26,7 +26,15 @@ brew install go
 winget install GoLang.Go
 ```
 
-Kaynak: go.dev/doc/install (resmî) · veya go.dev/dl'den indirin
+## Çalıştırma
+
+**Sürümü doğrula**
+
+```
+go version
+```
+
+Kaynak: Resmî kaynak: https://github.com/golang/go
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 

@@ -18,7 +18,7 @@ The NGINX open source repository continues to be developed in C as a high-perfor
 brew install nginx
 ```
 
-****
+**Ubuntu / Debian**
 
 ```
 sudo apt update && sudo apt install -y nginx
@@ -26,7 +26,7 @@ sudo apt update && sudo apt install -y nginx
 
 
 ## Running it
-****
+**Start Web Server**
 
 ```
 sudo systemctl start nginx

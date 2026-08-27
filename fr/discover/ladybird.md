@@ -5,6 +5,28 @@ Ladybird est un projet indépendant de navigateur web et de moteur de navigateur
 - ★ 65 040
 - GitHub Trending · 2026-08-09
 
+## Installation
+**Cloner le code source**
+
+```
+git clone https://github.com/LadybirdBrowser/ladybird.git
+```
+
+**Entrer dans le répertoire du projet**
+
+```
+cd ladybird
+```
+
+
+## Exécution
+**Compiler et exécuter**
+
+```
+./Meta/ladybird.py run
+```
+
+
 ## Que fait cet outil ?
 Ladybird est un projet open source de navigateur et de moteur de navigateur. Il fonctionne sous Linux, macOS, Windows avec WSL2 et d’autres systèmes de type Unix. Le site du projet vise une première version Alpha en 2026 pour Linux et macOS, tandis que le guide de compilation exige Qt 6.9+, un compilateur compatible C++23, Rust et CMake 3.30+.
 
@@ -29,28 +51,6 @@ Les personnes qui recherchent un navigateur stable pour un usage quotidien.
 
 ## Premier prompt
 Selon les instructions officielles, comment vérifier que mon système dispose de Qt 6.9+, d’un compilateur C++23, de Rust et de CMake 3.30+ ?
-
-## Installation
-**Cloner le code source**
-
-```
-git clone https://github.com/LadybirdBrowser/ladybird.git
-```
-
-**Entrer dans le répertoire du projet**
-
-```
-cd ladybird
-```
-
-
-## Exécution
-**Compiler et exécuter**
-
-```
-./Meta/ladybird.py run
-```
-
 
 ## Termes liés du glossaire
 

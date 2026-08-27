@@ -2,16 +2,16 @@
 
 Liteparse (run-llama); belgeleri hızlı ve verimli bir şekilde ayrıştırmak için Rust ile yazılmış açık kaynak bir belge ayrıştırıcıdır. Karmaşık doküman yapılarını işlenebilir hale getirerek AI ve RAG süreçlerinde kolaylık sağlar.
 
-- ★ 12.102
+- ★ 12.179
 - Rust
 - Apache-2.0
 - GitHub Trending · 30 May 2026
 
 ## Güncelleme
+- 27 Ağustos 2026: Yıldız 12.102 → 12.179, son sürüm docker-v2.14.0 (26 Ağustos 2026).
 - 17 Ağustos 2026: Yıldız 12.098 → 12.102, son sürüm node-v2.13.1 (17 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 11.934 → 12.098, son sürüm node-v2.13.0 (15 Ağustos 2026).
 - 6 Ağustos 2026: Yıldız 11.883 → 11.934, son sürüm node-v2.11.1 (5 Ağustos 2026).
-- 3 Ağustos 2026: Yıldız 11.878 → 11.883, son sürüm docker-v2.11.0 (3 Ağustos 2026).
 
 - **Kimin için:** Belge/veri işleyen geliştiriciler 
 - **Zorluk:** Orta · geliştirici aracı 
@@ -24,33 +24,19 @@ Liteparse (run-llama); belgeleri hızlı ve verimli bir şekilde ayrıştırmak 
 - Karmaşık yapıları işlenebilir hale getirir.
 - AI ve RAG pipeline'ları ile tam uyumludur.
 
-## Nasıl kurulur, nasıl kullanılır?
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-LiteParse PDF ayrıştırma aracını 'pip install liteparse' ile kur, sonra 'lit parse document.pdf' komutuyla bir PDF'in metnini çıkar ya da 'lit parse document.pdf --format json -o output.json' ile sınırlayıcı kutularla birlikte yapılandırılmış JSON olarak kaydet.
+## Kurulum
 
-**Python (pip) ile kur**
+**pip ile (PyPI)**
 
 ```
 pip install liteparse
 ```
 
-**Node.js / TypeScript ile kur**
+Kaynak: Resmî kaynak: https://github.com/run-llama/liteparse
 
-```
-npm i @llamaindex/liteparse
-```
-
-**Bir PDF'i ayrıştır**
-
-```
-lit parse document.pdf
-```
-
-**JSON olarak kaydet**
-
-```
-lit parse document.pdf --format json -o output.json
-```
+## Nasıl kurulur, nasıl kullanılır?
+🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+LiteParse PDF ayrıştırma aracını 'pip install liteparse' ile kur, sonra 'lit parse document.pdf' komutuyla bir PDF'in metnini çıkar ya da 'lit parse document.pdf --format json -o output.json' ile sınırlayıcı kutularla birlikte yapılandırılmış JSON olarak kaydet.
 
 Lisans: Apache-2.0 · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz (patent koruması da içerir).
 

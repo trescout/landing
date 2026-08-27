@@ -2,7 +2,7 @@
 
 Microsoft PowerToys est une collection de logiciels utilitaires développés pour augmenter la productivité et la personnalisation du système d'exploitation Windows. Il offre aux utilisateurs des outils de personnalisation avancés et des optimisations de flux de travail sur le système.
 
-- ★ 137 392
+- ★ 138 154
 - GitHub Trending · 2026-06-13
 
 ## Ce que ça vous apporte
@@ -11,7 +11,7 @@ Microsoft PowerToys est une collection de logiciels utilitaires développés pou
 - Accélère l'utilisation du clavier et de la souris
 
 ## Installation
-**Fenêtres (winget)**
+**Windows (winget)**
 
 ```
 winget install Microsoft.PowerToys

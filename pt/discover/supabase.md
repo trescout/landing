@@ -12,7 +12,7 @@ Supabase é uma plataforma de desenvolvimento que oferece infraestrutura de banc
 - Inclui inteligência artificial e suporte vetorial
 
 ## Instalação
-**macOS (homebrew)**
+**macOS (Homebrew)**
 
 ```
 brew install supabase/tap/supabase

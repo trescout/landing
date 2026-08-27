@@ -23,7 +23,7 @@ TreScout notu: Yapay zekâ modeli eğitmek için değil, görüntünün kendisiy
 pip install opencv-python
 ```
 
-Kaynak: PyPI · opencv-python (resmî paket)
+Kaynak: Resmî kaynak: https://github.com/opencv/opencv
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
@@ -38,7 +38,7 @@ OpenCV kütüphanesini kullanarak görüntü işleme projeleri geliştirmek isti
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Computer Vision Library Computer Vision Machine Learning Open Source Artificial Intelligence
+Computer Vision Library Computer Vision Computer Vision Machine Learning Open Source Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/opencv/

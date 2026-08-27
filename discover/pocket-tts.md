@@ -2,11 +2,12 @@
 
 Kyutai Labs tarafından geliştirilen Pocket-TTS, grafik işlem birimine ihtiyaç duymadan sadece merkezi işlem birimi (CPU) üzerinde çalışan hafif bir metinden sese dönüştürme (text-to-speech) modelidir. Düşük kaynak tüketimi sayesinde donanım kısıtlaması olan cihazlarda hızlı ve verimli ses sentezleme imkânı sunar.
 
-- ★ 7.994
+- ★ 9.151
 - Python
 - GitHub Trending · 2026-07-08
 
 ## Güncelleme
+- 27 Ağustos 2026: Yıldız 7.994 → 9.151, son sürüm v3.0.2 (25 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 6.350 → 7.994, son sürüm v2.1.0 (4 Mayıs 2026).
 
 ## Ne kazandırır?

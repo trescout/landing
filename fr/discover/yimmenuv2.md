@@ -1,6 +1,6 @@
 # Menu du mode expérimental pour Grand Theft Auto 5
 
-YimMenuV2 est une modification de menu expérimentale développée pour Grand Theft Auto 5 : édition améliorée. Écrit en C++, cet outil propose diverses personnalisations et fonctions étendues au sein du jeu.
+YimMenuV2 est une modification de menu expérimentale développée pour Grand Theft Auto 5 : édition améliorée. Écrit en C++, cet outil propose diverses personnalisations et fonctions étendues au sein du jeu.
 
 - ★ 1 612
 - C++

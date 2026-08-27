@@ -12,7 +12,7 @@ Stirling-PDF is an open source document processing tool that allows users to edi
 - Easy access via browser or desktop
 
 ## Installation
-****
+**Start persistent Docker container**
 
 ```
 docker run -d --name stirling-pdf -p 127.0.0.1:8080:8080 -v ./stirling-data:/configs --restart unless-stopped docker.stirlingpdf.com/stirlingtools/stirling-pdf:latest
@@ -20,7 +20,7 @@ docker run -d --name stirling-pdf -p 127.0.0.1:8080:8080 -v ./stirling-data:/con
 
 
 ## Running it
-****
+**Access Local UI**
 
 ```
 http://localhost:8080

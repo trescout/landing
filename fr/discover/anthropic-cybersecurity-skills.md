@@ -14,7 +14,7 @@
 - Il peut être utilisé sur plus de 20 plateformes d’IA sans être lié à un seul outil.
 
 ## Installation
-****
+**Cloner le dépôt officiel**
 
 ```
 git clone https://github.com/mukul975/Anthropic-Cybersecurity-Skills.git

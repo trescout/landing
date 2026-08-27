@@ -8,7 +8,7 @@ Kronos es un modelo básico diseñado para analizar los patrones únicos de los 
 - GitHub Trending · 28 May 2026
 
 ## Instalación
-****
+**Clonar repositorio oficial**
 
 ```
 git clone https://github.com/shiyu-coder/Kronos.git
@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 
 ## Ejecución
-****
+**Ejecutar predicción de ejemplo**
 
 ```
 python examples/prediction_example.py

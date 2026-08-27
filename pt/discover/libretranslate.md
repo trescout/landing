@@ -11,13 +11,13 @@ LibreTranslate oferece uma interface de tradução automática (API) gratuita e 
 - Use um mecanismo de tradução totalmente aberto e gratuito
 
 ## Instalação
-**via pip (PyPI)**
+**com pip (PyPI)**
 
 ```
 pip install libretranslate
 ```
 
-**com Docker**
+**Com Docker**
 
 ```
 docker run -p 5000:5000 libretranslate/libretranslate

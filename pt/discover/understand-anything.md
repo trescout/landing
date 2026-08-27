@@ -8,7 +8,7 @@ Você tem uma base de código de 200.000 linhas ou um enorme arquivo de document
 - GitHub Trending · 26 May 2026
 
 ## Instalação
-****
+**Adicionar plugin Claude Code**
 
 ```
 /plugin marketplace add Lum1104/Understand-Anything
@@ -17,7 +17,7 @@ Você tem uma base de código de 200.000 linhas ou um enorme arquivo de document
 
 
 ## Execução
-****
+**Analisar base de código**
 
 ```
 /understand

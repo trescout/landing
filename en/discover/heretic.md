@@ -8,7 +8,7 @@ Heretic is a technical tool that removes security alignment constraints from tra
 - GitHub Trending · 28 May 2026
 
 ## Installation
-****
+**Clone official repo**
 
 ```
 git clone https://github.com/p-e-w/heretic.git

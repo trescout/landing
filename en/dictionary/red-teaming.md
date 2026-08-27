@@ -31,7 +31,6 @@ By asking harmful questions to the model, it is checked whether the model breaks
 
 ## Related tools
 - [G0DM0D3](/en/discover/g0dm0d3/)
-- [AI-Infra-Guard](/en/discover/ai-infra-guard/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/red-teaming/

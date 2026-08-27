@@ -28,6 +28,8 @@ Ja, aber es ist besser, sich die Gesamtergebnisse anzusehen, die verschiedene Sz
 - [Inference](/de/dictionary/inference/)
 
 ## Verwandte Werkzeuge
+- [Ponytail](/de/discover/ponytail/)
+- [RuView](/de/discover/ruview/)
 - [CUA](/de/discover/cua/)
 - [Whichllm](/de/discover/whichllm/)
 - [SIA](/de/discover/sia/)
