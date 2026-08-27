@@ -142,7 +142,9 @@
 
   function loadCatalog() {
     if (!catalogPromise) {
-      catalogPromise = fetch('/assets/discover/catalog.json', { credentials: 'same-origin' })
+      // Sayfanın diline göre hafif türev · tam katalog 241 KB, bu 31 KB (gzip).
+      // Üreteni: scripts/catalog-home.py · guard: aynı betik --check ile.
+      catalogPromise = fetch('/assets/discover/catalog-home-' + contentLanguage(language()) + '.json', { credentials: 'same-origin' })
         .then(function (response) {
           if (!response.ok) throw new Error('catalog ' + response.status);
           return response.json();

@@ -49,6 +49,12 @@ jobs:
         run: python3 scripts/check-footer-consistency.py
       - name: Logo geometri kontrolü
         run: python3 scripts/check-logo-consistency.py
+      # Ana sayfa kataloğu tam katalogdan türetiliyor · katalog değişip türev
+      # geride kalırsa ana sayfa eski kartları gösterir.
+      # Düzeltmesi: python3 scripts/catalog-home.py
+      - name: Ana sayfa katalog türevi güncel mi
+        run: python3 scripts/catalog-home.py --check
+
       - name: Başlık tutarlılık kontrolü (katalog ↔ sayfa H1)
         run: python3 scripts/check-headline-consistency.py
       - name: Marka tipografi kontrolü (🚀 · em dash)
