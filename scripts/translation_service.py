@@ -55,10 +55,23 @@ def _pause_span(delay: float, streak: int) -> float:
     return min(max(delay, 30.0) * (2 ** max(streak - 1, 0)), _PAUSE_CAP)
 
 
+def _duyur(saglayici: str, span: float, streak: int) -> None:
+    """Kota duvarını loga yaz · yoksa koşu "neden çeviremedi" diye okunamıyor.
+
+    27 Ağustos koşusunda en/fr/pt sıfır hatayla bitti, es ortasında tükendi.
+    Duraklatma çalıştı ama log bunu söylemediği için tükenme mi yoksa başka
+    bir hata mı olduğu ancak zaman damgalarından çıkarılabildi.
+    """
+    if streak == 1:
+        print(f"  ! {saglayici} kota duvarı · çeviri {span:.0f} sn duraklatıldı "
+              f"(tekrarında pencere ikiye katlanır)", flush=True)
+
+
 def _pause_gemini(delay: float) -> None:
     global _GEMINI_PAUSED_UNTIL, _GEMINI_PAUSE_STREAK
     _GEMINI_PAUSE_STREAK += 1
     span = _pause_span(delay, _GEMINI_PAUSE_STREAK)
+    _duyur("Gemini", span, _GEMINI_PAUSE_STREAK)
     _GEMINI_PAUSED_UNTIL = max(_GEMINI_PAUSED_UNTIL, time.time() + span)
 
 
@@ -70,6 +83,7 @@ def _pause_gtx(delay: float) -> None:
     global _GTX_PAUSED_UNTIL, _GTX_PAUSE_STREAK
     _GTX_PAUSE_STREAK += 1
     span = _pause_span(delay, _GTX_PAUSE_STREAK)
+    _duyur("GTX", span, _GTX_PAUSE_STREAK)
     _GTX_PAUSED_UNTIL = max(_GTX_PAUSED_UNTIL, time.time() + span)
 
 
