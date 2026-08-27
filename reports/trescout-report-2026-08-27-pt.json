@@ -1,0 +1,966 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-08-27",
+  "capturedAt": "2026-08-27T10:36:53.895Z",
+  "editorial": "No ecossistema de inteligência artificial, grandes aquisições e modelos de linguagem rápidos de nova geração (flash models) estão em destaque hoje. Em particular, as especulações sobre a fusão entre Nvidia e Hugging Face, juntamente com os testes de competência de agentes de codificação (coding agents) na arquitetura de software, constituem a pauta principal do dia.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "tt-a1i/archify",
+          "url": "https://github.com/tt-a1i/archify",
+          "summary": "Archify é uma habilidade de agente (agent skill) de inteligência artificial que cria diagramas técnicos, como fluxogramas arquiteturais e ciclos de dados, como arquivos HTML verificáveis e animados. Esta ferramenta, usada para visualizar projetos de sistemas complexos, suporta a exportação de resultados em alta resolução.",
+          "meta": "JavaScript · ★ 20.599 · +1.035 hoje",
+          "snapshot": {
+            "sourceId": "tt-a1i/archify",
+            "capturedAt": "2026-08-27T10:36:55.017Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 20599,
+              "engagementCount": 1035,
+              "rank": 1,
+              "extra": {
+                "starsToday": 1035
+              }
+            }
+          }
+        },
+        {
+          "title": "freestylefly/awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "summary": "Awesome-gpt-image-2 é uma biblioteca que adota a abordagem de prompt como código (prompt as code) para modelos de geração visual. Com mais de 530 exemplos de engenharia reversa e mais de 20 modelos industriais, visa aumentar a qualidade dos resultados obtidos pela inteligência artificial.",
+          "meta": "JavaScript · ★ 22.398 · +4.050 hoje",
+          "snapshot": {
+            "sourceId": "freestylefly/awesome-gpt-image-2",
+            "capturedAt": "2026-08-27T10:36:55.017Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 22398,
+              "engagementCount": 4050,
+              "rank": 2,
+              "extra": {
+                "starsToday": 4050
+              }
+            }
+          }
+        },
+        {
+          "title": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "summary": "Claude Plugins, publicado pela Anthropic, é um diretório que contém os plugins oficiais desenvolvidos para a ferramenta de codificação assistida por IA, Claude Code. Este recurso reúne ferramentas aprovadas (plugins) que permitem aos desenvolvedores adicionar capacidades personalizadas aos seus projetos.",
+          "meta": "Python · ★ 34.487 · +308 hoje",
+          "snapshot": {
+            "sourceId": "anthropics/claude-plugins-official",
+            "capturedAt": "2026-08-27T10:36:55.017Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 34487,
+              "engagementCount": 308,
+              "rank": 3,
+              "extra": {
+                "starsToday": 308
+              }
+            }
+          }
+        },
+        {
+          "title": "Alishahryar1/free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "summary": "Desenvolvido por Alishahryar1, o free-claude-code é uma ferramenta que fornece acesso gratuito a vários modelos de inteligência artificial através do terminal ou de um ambiente de desenvolvimento integrado (IDE). Oferece aos usuários a oportunidade de usar modelos populares de IA, como Claude Code, Codex e OpenCode, com limites de tokens gratuitos.",
+          "meta": "Python · ★ 50.694 · +536 hoje",
+          "snapshot": {
+            "sourceId": "Alishahryar1/free-claude-code",
+            "capturedAt": "2026-08-27T10:36:55.017Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 50694,
+              "engagementCount": 536,
+              "rank": 4,
+              "extra": {
+                "starsToday": 536
+              }
+            }
+          }
+        },
+        {
+          "title": "MadsLorentzen/ai-job-search",
+          "url": "https://github.com/MadsLorentzen/ai-job-search",
+          "summary": "Desenvolvido por MadsLorentzen, o ai-job-search é uma estrutura (framework) de busca de emprego baseada em inteligência artificial e no Claude Code. Esta ferramenta, que permite aos usuários personalizar seus currículos, preparar cartas de apresentação e se preparar para entrevistas, realiza todas as operações localmente no computador.",
+          "meta": "Python · ★ 36.973 · +1.300 hoje",
+          "snapshot": {
+            "sourceId": "MadsLorentzen/ai-job-search",
+            "capturedAt": "2026-08-27T10:36:55.017Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 36973,
+              "engagementCount": 1300,
+              "rank": 5,
+              "extra": {
+                "starsToday": 1300
+              }
+            }
+          }
+        },
+        {
+          "title": "AgriciDaniel/claude-obsidian",
+          "url": "https://github.com/AgriciDaniel/claude-obsidian",
+          "summary": "Claude-obsidian é uma ferramenta de gestão de conhecimento pessoal (personal knowledge management) baseada em inteligência artificial que funciona no aplicativo de notas Obsidian. Utilizando o modelo de IA Claude, ele analisa automaticamente o conteúdo adicionado, conecta-os e cria uma rede de informações organizada no formato Markdown.",
+          "meta": "Python · ★ 13.686 · +810 hoje",
+          "snapshot": {
+            "sourceId": "AgriciDaniel/claude-obsidian",
+            "capturedAt": "2026-08-27T10:36:55.017Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 13686,
+              "engagementCount": 810,
+              "rank": 6,
+              "extra": {
+                "starsToday": 810
+              }
+            }
+          }
+        },
+        {
+          "title": "basecamp/omarchy",
+          "url": "https://github.com/basecamp/omarchy",
+          "summary": "Desenvolvido pela Basecamp, o Omarchy é uma ferramenta de configuração visualmente moderna e baseada em padrões específicos para sistemas operacionais Linux. Este projeto, baseado em script de shell (shell script), permite que os usuários tornem as instalações de seus sistemas operacionais mais organizadas e consistentes.",
+          "meta": "Shell · ★ 32.329 · +1.024 hoje",
+          "snapshot": {
+            "sourceId": "basecamp/omarchy",
+            "capturedAt": "2026-08-27T10:36:55.017Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 32329,
+              "engagementCount": 1024,
+              "rank": 7,
+              "extra": {
+                "starsToday": 1024
+              }
+            }
+          }
+        },
+        {
+          "title": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "summary": "Preparado para aqueles que desejam começar do zero na área de engenharia de inteligência artificial (AI engineering), este recurso oferece um processo de ponta a ponta, desde o desenvolvimento de modelos com a linguagem de programação Python até a sua implementação em produção. Ao combinar conhecimento teórico com aplicações práticas, permite que os desenvolvedores construam seus próprios produtos baseados em IA.",
+          "meta": "Python · ★ 49.863 · +838 hoje",
+          "snapshot": {
+            "sourceId": "rohitg00/ai-engineering-from-scratch",
+            "capturedAt": "2026-08-27T10:36:55.017Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 49863,
+              "engagementCount": 838,
+              "rank": 8,
+              "extra": {
+                "starsToday": 838
+              }
+            }
+          }
+        },
+        {
+          "title": "tinyhumansai/openhuman",
+          "url": "https://github.com/tinyhumansai/openhuman",
+          "summary": "Desenvolvido na linguagem Rust, o OpenHuman é um assistente baseado em inteligência artificial que cria uma memória personalizada para o usuário, armazenando dados pessoais em um ambiente local. O software gerencia agentes de IA que realizam diferentes tarefas, automatizando fluxos de trabalho complexos e apoiando processos de pesquisa aprofundada.",
+          "meta": "Rust · ★ 38.420 · +525 hoje",
+          "snapshot": {
+            "sourceId": "tinyhumansai/openhuman",
+            "capturedAt": "2026-08-27T10:36:55.017Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 38420,
+              "engagementCount": 525,
+              "rank": 9,
+              "extra": {
+                "starsToday": 525
+              }
+            }
+          }
+        },
+        {
+          "title": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "summary": "Ponytail é uma biblioteca JavaScript que permite que agentes de inteligência artificial produzam soluções com o mínimo de esforço em processos de desenvolvimento de software. Ao evitar a escrita de código desnecessário, visa garantir que os sistemas funcionem da maneira mais curta e simples possível.",
+          "meta": "JavaScript · ★ 113.323 · +1.598 hoje",
+          "snapshot": {
+            "sourceId": "DietrichGebert/ponytail",
+            "capturedAt": "2026-08-27T10:36:55.017Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 113323,
+              "engagementCount": 1598,
+              "rank": 10,
+              "extra": {
+                "starsToday": 1598
+              }
+            }
+          }
+        },
+        {
+          "title": "anthropics/claude-plugins-community",
+          "url": "https://github.com/anthropics/claude-plugins-community",
+          "summary": "O diretório de plugins do Claude, compartilhado pela Anthropic, reúne plugins da comunidade desenvolvidos para a ferramenta de codificação assistida por IA, Claude Code e Claude Cowork. Esta plataforma permite que os desenvolvedores compartilhem suas próprias ferramentas, expandindo as capacidades dos agentes de inteligência artificial.",
+          "meta": "Python · ★ 2.339 · +538 hoje",
+          "snapshot": {
+            "sourceId": "anthropics/claude-plugins-community",
+            "capturedAt": "2026-08-27T10:36:55.017Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 2339,
+              "engagementCount": 538,
+              "rank": 11,
+              "extra": {
+                "starsToday": 538
+              }
+            }
+          }
+        },
+        {
+          "title": "ConardLi/garden-skills",
+          "url": "https://github.com/ConardLi/garden-skills",
+          "summary": "Garden-skills é uma coleção de habilidades (skills) de código aberto desenvolvida para diversas funções, como web design, aquisição de informações e criação visual. O objetivo é acelerar os processos de desenvolvimento reunindo funções modulares que os desenvolvedores de software podem integrar aos seus projetos.",
+          "meta": "CSS · ★ 11.139 · +113 hoje",
+          "snapshot": {
+            "sourceId": "ConardLi/garden-skills",
+            "capturedAt": "2026-08-27T10:36:55.017Z",
+            "metadata": {
+              "language": "CSS",
+              "popularity": 11139,
+              "engagementCount": 113,
+              "rank": 12,
+              "extra": {
+                "starsToday": 113
+              }
+            }
+          }
+        },
+        {
+          "title": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "summary": "Browser-use é uma biblioteca Python que permite que agentes de inteligência artificial interajam com sites da internet como os humanos. Esta ferramenta, que controla o navegador para automatizar processos baseados na web, permite que tarefas online complexas sejam realizadas pela inteligência artificial.",
+          "meta": "Python · ★ 111.348 · +149 hoje",
+          "snapshot": {
+            "sourceId": "browser-use/browser-use",
+            "capturedAt": "2026-08-27T10:36:55.017Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 111348,
+              "engagementCount": 149,
+              "rank": 13,
+              "extra": {
+                "starsToday": 149
+              }
+            }
+          }
+        },
+        {
+          "title": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "summary": "Scientific-agent-skills é uma biblioteca que contém 163 habilidades (skills) verificadas e mais de 100 bancos de dados científicos, especializando agentes de inteligência artificial em processos de pesquisa científica. Ela permite que agentes que trabalham nas áreas de biologia, química e medicina realizem análises de dados de forma compatível com plataformas como o editor de código Cursor ou o assistente de inteligência artificial Claude Code.",
+          "meta": "Python · ★ 34.970 · +138 hoje",
+          "snapshot": {
+            "sourceId": "K-Dense-AI/scientific-agent-skills",
+            "capturedAt": "2026-08-27T10:36:55.017Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 34970,
+              "engagementCount": 138,
+              "rank": 14,
+              "extra": {
+                "starsToday": 138
+              }
+            }
+          }
+        },
+        {
+          "title": "marin-community/marin",
+          "url": "https://github.com/marin-community/marin",
+          "summary": "Marin é um framework Python de código aberto projetado para a pesquisa e desenvolvimento de modelos de base (foundation models). O objetivo é padronizar os processos de treinamento e otimização de modelos de inteligência artificial em larga escala.",
+          "meta": "Python · ★ 2.574 · +441 hoje",
+          "snapshot": {
+            "sourceId": "marin-community/marin",
+            "capturedAt": "2026-08-27T10:36:55.017Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 2574,
+              "engagementCount": 441,
+              "rank": 15,
+              "extra": {
+                "starsToday": 441
+              }
+            }
+          }
+        },
+        {
+          "title": "VoltAgent/awesome-agent-skills",
+          "url": "https://github.com/VoltAgent/awesome-agent-skills",
+          "summary": "Awesome-agent-skills reúne mais de 1000 habilidades de agentes de inteligência artificial (agent skills) criadas por equipes de desenvolvedores e pela comunidade em uma única fonte. Esta coleção funciona de forma compatível com ferramentas populares como o assistente de escrita de código Cursor e interfaces de linha de comando para modelos de inteligência artificial (Claude Code, Codex, Gemini CLI).",
+          "meta": "★ 32.868 · +242 hoje",
+          "snapshot": {
+            "sourceId": "VoltAgent/awesome-agent-skills",
+            "capturedAt": "2026-08-27T10:36:55.017Z",
+            "metadata": {
+              "popularity": 32868,
+              "engagementCount": 242,
+              "rank": 16,
+              "extra": {
+                "starsToday": 242
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Nvidia agrees to acquire Hugging Face for $13B",
+          "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+          "summary": "A Nvidia concordou em adquirir a Hugging Face, uma plataforma de código aberto para modelos de inteligência artificial, por 13 bilhões de dólares. Este movimento fortalece a presença da fabricante de hardware Nvidia no ecossistema de software e seu acesso a ferramentas de desenvolvimento de inteligência artificial.",
+          "meta": "1.177 pontos · 504 comentários",
+          "snapshot": {
+            "sourceId": "49458161",
+            "capturedAt": "2026-08-27T10:36:54.121Z",
+            "metadata": {
+              "popularity": 1177,
+              "engagementCount": 504,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49458161",
+                  "popularity": 1177,
+                  "engagementCount": 504
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "mfiguiere",
+                "createdAt": "2026-08-27T01:12:55Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49458161"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49458161",
+              "popularity": 1177,
+              "engagementCount": 504
+            }
+          ]
+        },
+        {
+          "title": "AWS Acquires DuckLabs",
+          "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+          "summary": "A Amazon Web Services (AWS) adquiriu a DuckLabs, desenvolvedora de ferramentas de processamento de dados sem servidor (serverless). Este movimento visa fortalecer as capacidades de análise de dados e automação da provedora de serviços de computação em nuvem, a AWS.",
+          "meta": "1.056 pontos · 306 comentários",
+          "snapshot": {
+            "sourceId": "49448321",
+            "capturedAt": "2026-08-27T10:36:54.121Z",
+            "metadata": {
+              "popularity": 1056,
+              "engagementCount": 306,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49448321",
+                  "popularity": 1056,
+                  "engagementCount": 306
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "onderkalaci",
+                "createdAt": "2026-08-26T12:59:26Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49448321"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49448321",
+              "popularity": 1056,
+              "engagementCount": 306
+            }
+          ]
+        },
+        {
+          "title": "GLM-5.3-Flash",
+          "url": "https://z.ai/blog/glm-5.3-flash",
+          "summary": "O GLM-5.3-Flash, desenvolvido pela Zhipu AI, é um novo modelo de linguagem grande (large language model) focado em baixa latência e alta eficiência. O modelo visa reduzir os custos de processamento, especialmente em aplicações que exigem respostas rápidas.",
+          "meta": "1.038 pontos · 523 comentários",
+          "snapshot": {
+            "sourceId": "49449507",
+            "capturedAt": "2026-08-27T10:36:54.121Z",
+            "metadata": {
+              "popularity": 1038,
+              "engagementCount": 523,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49449507",
+                  "popularity": 1038,
+                  "engagementCount": 523
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "Philpax",
+                "createdAt": "2026-08-26T14:08:50Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49449507"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49449507",
+              "popularity": 1038,
+              "engagementCount": 523
+            }
+          ]
+        },
+        {
+          "title": "Tim Curry has died",
+          "url": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
+          "summary": "O ator britânico Tim Curry, conhecido por seus papéis icônicos em produções como The Rocky Horror Picture Show e It, faleceu aos 80 anos. Com uma vasta base de fãs no mundo do cinema e do teatro, o artista deu vida a muitos personagens memoráveis com sua atuação versátil.",
+          "meta": "669 pontos · 217 comentários",
+          "snapshot": {
+            "sourceId": "49451448",
+            "capturedAt": "2026-08-27T10:36:54.121Z",
+            "metadata": {
+              "popularity": 669,
+              "engagementCount": 217,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49451448",
+                  "popularity": 669,
+                  "engagementCount": 217
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "mykowebhn",
+                "createdAt": "2026-08-26T16:03:37Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49451448"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49451448",
+              "popularity": 669,
+              "engagementCount": 217
+            }
+          ]
+        },
+        {
+          "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+          "url": "https://github.com/SenteLabsAI/OpenExecutive",
+          "summary": "Após uma empresa demitir seus desenvolvedores e substituí-los por inteligência artificial, os desenvolvedores criaram um gerente de inteligência artificial de código aberto (OpenExecutive) que automatiza os processos de gestão da empresa. Este projeto visa digitalizar os processos de gestão, transferindo os mecanismos de tomada de decisão corporativa para uma estrutura baseada em código.",
+          "meta": "630 pontos · 396 comentários",
+          "snapshot": {
+            "sourceId": "49458418",
+            "capturedAt": "2026-08-27T10:36:54.121Z",
+            "metadata": {
+              "popularity": 630,
+              "engagementCount": 396,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49458418",
+                  "popularity": 630,
+                  "engagementCount": 396
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "GrumpySciGuy",
+                "createdAt": "2026-08-27T01:46:22Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49458418"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49458418",
+              "popularity": 630,
+              "engagementCount": 396
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Qwen/Qwen3.8-Flash-Next",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+          "summary": "Qwen3.8-Flash-Next é um modelo de inteligência artificial multimodal capaz de processar dados visuais e de texto. Publicado no HuggingFace, a plataforma onde modelos de inteligência artificial são compartilhados, este modelo é utilizado em processos de geração rápida de texto e análise de imagem.",
+          "meta": "♥ 3.802 · 4.810 downloads",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-Flash-Next",
+            "capturedAt": "2026-08-27T10:36:53.952Z",
+            "metadata": {
+              "popularity": 3802,
+              "engagementCount": 4810,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 3732,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen4_exp",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:other",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "zai-org/GLM-5.3-Flash",
+          "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+          "summary": "O GLM-5.3-Flash, desenvolvido pela Zai-org, é um modelo de inteligência artificial focado em geração de texto (text-generation). Otimizado para processos de inferência rápida, este modelo oferece uma alternativa eficiente na categoria de modelos de linguagem grandes (large language models).",
+          "meta": "♥ 1.156 · 34 downloads",
+          "snapshot": {
+            "sourceId": "zai-org/GLM-5.3-Flash",
+            "capturedAt": "2026-08-27T10:36:53.952Z",
+            "metadata": {
+              "popularity": 1156,
+              "engagementCount": 34,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1119,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "glm5_next",
+                  "image-text-to-text",
+                  "text-generation",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "arxiv:2602.15763",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "O Qwen2.5-27B, desenvolvido pelo Alibaba, é um modelo de inteligência artificial multimodal capaz de processar dados visuais e de texto. Graças à sua estrutura de pesos abertos, permite que os desenvolvedores utilizem capacidades de análise de texto e imagem em suas próprias aplicações.",
+          "meta": "♥ 12.962 · 3.457.687 downloads",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-27B",
+            "capturedAt": "2026-08-27T10:36:53.952Z",
+            "metadata": {
+              "popularity": 12962,
+              "engagementCount": 3457687,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 1027,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "deploy:azure",
+                  "deploy:sagemaker",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "unsloth/Qwen3.8-27B-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "summary": "Unsloth é uma biblioteca de otimização que permite treinar grandes modelos de linguagem (large language models) de forma mais rápida e eficiente. O modelo Qwen3.8-27B-GGUF é um modelo de inteligência artificial de alto desempenho, otimizado com esta biblioteca e operando com baixo consumo de memória.",
+          "meta": "♥ 3.032 · 7.758.790 downloads",
+          "snapshot": {
+            "sourceId": "unsloth/Qwen3.8-27B-GGUF",
+            "capturedAt": "2026-08-27T10:36:53.952Z",
+            "metadata": {
+              "popularity": 3032,
+              "engagementCount": 7758790,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 686,
+                "tags": [
+                  "gguf",
+                  "qwen3_5",
+                  "unsloth",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:quantized:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "imatrix",
+                  "conversational"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+          "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+          "summary": "Qwen3.8-27B-OBLITERATED é um trabalho de edição realizado sobre o modelo de geração de texto (text-generation model) Qwen. Esta versão, focada em remover os filtros de segurança e restrições do modelo, foi desenvolvida para que os usuários tenham uma experiência de inteligência artificial com menos limitações.",
+          "meta": "♥ 827 · 509.270 downloads",
+          "snapshot": {
+            "sourceId": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+            "capturedAt": "2026-08-27T10:36:53.952Z",
+            "metadata": {
+              "popularity": 827,
+              "engagementCount": 509270,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 619,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "mlx",
+                  "safetensors",
+                  "gguf",
+                  "qwen3_5",
+                  "abliterated",
+                  "uncensored",
+                  "obliteratus",
+                  "qwen3",
+                  "qwen3.8",
+                  "red-team",
+                  "ai-safety-research",
+                  "text-generation",
+                  "conversational",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:quantized:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
+          "url": "https://huggingface.co/papers/2608.23564",
+          "summary": "SWE Refactor Bench é uma nova ferramenta de avaliação que mede a capacidade dos agentes de software de realizar migrações tecnológicas complexas (stack migration) em todo o repositório. Superando o problema de cegueira causado pelos testes atuais, ele exige que os agentes não apenas passem nos testes, mas realmente transformem a base de código.",
+          "meta": "7 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2608.23564",
+            "capturedAt": "2026-08-27T10:36:53.963Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.23564",
+                "publishedAt": "2026-08-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/Einsia/SWE-Refactor-Bench",
+                "githubStars": 22
+              }
+            }
+          }
+        },
+        {
+          "title": "A Modular Agent for Reliable and Auditable Spatial Relation Verification in CT Scans",
+          "url": "https://huggingface.co/papers/2608.21140",
+          "summary": "O agente modular desenvolvido para a verificação de relações espaciais em tomografias computadorizadas (TC) visa aumentar a capacidade de raciocínio visual dos sistemas de imagem médica. O objetivo é resolver, com uma estrutura auditável e confiável, os erros que os modelos atuais de visão e linguagem (vision-language models) cometem ao realizar inferências espaciais.",
+          "meta": "0 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2608.21140",
+            "capturedAt": "2026-08-27T10:36:53.963Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.21140",
+                "publishedAt": "2026-08-21T00:00:00.000Z",
+                "githubRepo": "https://github.com/DeveloperNomis/MICCAI-Medical-Agent",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "RetrievalRouter: Joint Modality and Architecture Selection for Document Retrieval",
+          "url": "https://huggingface.co/papers/2608.25625",
+          "summary": "RetrievalRouter é um sistema que seleciona automaticamente o método e a arquitetura necessários nos processos de recuperação de documentos. Em documentos complexos usados em áreas como finanças e saúde, ele determina a linha de acesso (pipeline) mais adequada, otimizando o equilíbrio entre velocidade e precisão.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2608.25625",
+            "capturedAt": "2026-08-27T10:36:53.963Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.25625",
+                "publishedAt": "2026-08-26T00:00:00.000Z",
+                "githubRepo": "https://github.com/emrekuruu/retrieval-router",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Real-TurnTurk: A Multimodal Turkish Corpus for Turn-Taking Prediction",
+          "url": "https://huggingface.co/papers/2608.22071",
+          "summary": "Real-TurnTurk é um conjunto de dados multimodal desenvolvido para modelar a dinâmica de alternância de turnos (turn-taking) em conversas naturais em turco. Este estudo, que inclui interações duais não roteirizadas, permite que sistemas de diálogo simultâneo prevejam com mais precisão o fluxo da fala humana.",
+          "meta": "0 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2608.22071",
+            "capturedAt": "2026-08-27T10:36:53.963Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.22071",
+                "publishedAt": "2026-08-22T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Is Next-Chunk Reasoning RL Really Better than SFT? Revisiting Training Strategies under no-CoT Data",
+          "url": "https://huggingface.co/papers/2608.23256",
+          "summary": "Uma nova pesquisa propõe o método de aprendizagem por reforço de raciocínio de próximo fragmento (next-chunk reasoning reinforcement learning) para treinar modelos com dados que não contêm rótulos de cadeia de pensamento (chain-of-thought) explícitos. Esta abordagem oferece uma estratégia de treinamento alternativa aos métodos padrão de ajuste fino supervisionado (supervised fine-tuning), permitindo que o modelo crie vestígios de raciocínio implícito.",
+          "meta": "15 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2608.23256",
+            "capturedAt": "2026-08-27T10:36:53.963Z",
+            "metadata": {
+              "popularity": 15,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.23256",
+                "publishedAt": "2026-08-24T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Changes to SourceHut's terms of service regarding LLMs",
+          "url": "https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/",
+          "summary": "A plataforma de desenvolvimento de software SourceHut atualizou seus termos de serviço, proibindo o uso não autorizado de conteúdo na plataforma para treinar modelos de inteligência artificial generativa (generative AI). Com esta mudança, pretende-se criar um escudo de proteção legal contra a coleta de códigos e dados compartilhados pelos usuários para fins comerciais por empresas de inteligência artificial.",
+          "meta": "27 pontos · 6 comentários",
+          "snapshot": {
+            "sourceId": "iqgrsx",
+            "capturedAt": "2026-08-27T10:36:54.138Z",
+            "metadata": {
+              "popularity": 27,
+              "engagementCount": 6,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/iqgrsx/changes_sourcehut_s_terms_service",
+                  "popularity": 27,
+                  "engagementCount": 6
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vibecoding"
+                ],
+                "createdAt": "2026-08-27T03:37:19.592-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/iqgrsx/changes_sourcehut_s_terms_service",
+              "popularity": 27,
+              "engagementCount": 6
+            }
+          ]
+        },
+        {
+          "title": "Haiku R1/beta6 released",
+          "url": "https://www.haiku-os.org/get-haiku/r1beta6/release-notes/",
+          "summary": "O projeto de sistema operacional de código aberto Haiku lançou a versão R1/beta6. A atualização oferece melhorias nos drivers de hardware e na interface do usuário, ao mesmo tempo em que aumenta a estabilidade do sistema.",
+          "meta": "99 pontos · 5 comentários",
+          "snapshot": {
+            "sourceId": "lt9i0j",
+            "capturedAt": "2026-08-27T10:36:54.138Z",
+            "metadata": {
+              "popularity": 99,
+              "engagementCount": 5,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/lt9i0j/haiku_r1_beta6_released",
+                  "popularity": 99,
+                  "engagementCount": 5
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "osdev",
+                  "release"
+                ],
+                "createdAt": "2026-08-26T11:22:23.251-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/lt9i0j/haiku_r1_beta6_released",
+              "popularity": 99,
+              "engagementCount": 5
+            }
+          ]
+        },
+        {
+          "title": "Merchants of Insecurity",
+          "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
+          "summary": "O conceito de 'mercadores da insegurança' (merchants of insecurity) critica como as empresas de cibersegurança posicionam seus produtos com estratégias de marketing focadas no medo. Essa abordagem direciona os gastos com segurança no setor de software criando uma percepção constante de necessidade baseada na incerteza, em vez de gerenciar riscos reais.",
+          "meta": "82 pontos · 5 comentários",
+          "snapshot": {
+            "sourceId": "eove8s",
+            "capturedAt": "2026-08-27T10:36:54.138Z",
+            "metadata": {
+              "popularity": 82,
+              "engagementCount": 5,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/eove8s/merchants_insecurity",
+                  "popularity": 82,
+                  "engagementCount": 5
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "osdev",
+                  "security"
+                ],
+                "createdAt": "2026-08-26T09:30:41.443-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/eove8s/merchants_insecurity",
+              "popularity": 82,
+              "engagementCount": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "agent skill",
+      "explanation": "Habilidades especiais que softwares baseados em inteligência artificial utilizam para realizar uma tarefa específica."
+    },
+    {
+      "term": "prompt as code",
+      "explanation": "Gerenciamento de comandos fornecidos à inteligência artificial, versionando-os e editando-os como códigos de software."
+    },
+    {
+      "term": "plugins",
+      "explanation": "Pequenos complementos usados para expandir os recursos existentes de um software ou adicionar novas funcionalidades a ele."
+    },
+    {
+      "term": "IDE",
+      "explanation": "Ambiente de desenvolvimento onde os programadores podem encontrar todas as ferramentas de que precisam em um só lugar ao escrever código."
+    },
+    {
+      "term": "token",
+      "explanation": "A menor unidade de dados, correspondente a palavras ou sílabas, que a inteligência artificial utiliza ao processar textos."
+    },
+    {
+      "term": "framework",
+      "explanation": "Uma estrutura que oferece um conjunto de regras e componentes prontos para facilitar o trabalho durante o desenvolvimento de software."
+    },
+    {
+      "term": "personal knowledge management",
+      "explanation": "Armazenamento e gerenciamento organizado de notas pessoais, ideias e informações em um ambiente digital."
+    },
+    {
+      "term": "shell script",
+      "explanation": "Um arquivo de texto simples, executado na linha de comando, escrito para automatizar processos no computador."
+    },
+    {
+      "term": "AI engineering",
+      "explanation": "Processo de projetar e desenvolver sistemas que resolvem problemas do mundo real usando modelos de inteligência artificial."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Softwares inteligentes capazes de tomar decisões por conta própria, usar ferramentas para atingir objetivos e interagir com o ambiente."
+    },
+    {
+      "term": "skills",
+      "explanation": "Habilidades especializadas que permitem que um software ou inteligência artificial complete uma tarefa específica com sucesso."
+    },
+    {
+      "term": "foundation models",
+      "explanation": "Modelos gigantescos de inteligência artificial treinados com conjuntos de dados muito amplos, capazes de servir como base para muitas tarefas diferentes."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Competências técnicas necessárias para que softwares autônomos realizem tarefas complexas."
+    },
+    {
+      "term": "AWS",
+      "explanation": "Uma enorme plataforma de nuvem que oferece serviços de computação, como servidores, armazenamento e bancos de dados, pela internet."
+    },
+    {
+      "term": "large language model",
+      "explanation": "Modelos de inteligência artificial treinados com grandes volumes de dados, capazes de compreender a linguagem humana e gerar texto."
+    },
+    {
+      "term": "OpenExecutive",
+      "explanation": "Um sistema de gestão de inteligência artificial de código aberto, projetado para automatizar processos de gestão corporativa."
+    }
+  ]
+}

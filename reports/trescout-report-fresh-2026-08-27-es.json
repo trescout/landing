@@ -1,0 +1,363 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-08-27",
+  "capturedAt": "2026-08-27T10:36:53.895Z",
+  "editorial": "Este informe contiene las tendencias que han destacado por primera vez hoy, sin repetir los registros que aparecen en los informes normales de los últimos 30 días.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": []
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Nvidia agrees to acquire Hugging Face for $13B",
+          "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+          "summary": "Nvidia ha acordado adquirir Hugging Face, una plataforma de código abierto para modelos de inteligencia artificial, por 13 mil millones de dólares. Este movimiento fortalece la presencia del fabricante de hardware Nvidia en el ecosistema de software y su acceso a herramientas de desarrollo de inteligencia artificial.",
+          "meta": "1.177 puntos · 504 comentarios",
+          "snapshot": {
+            "sourceId": "49458161",
+            "capturedAt": "2026-08-27T10:36:54.121Z",
+            "metadata": {
+              "popularity": 1177,
+              "engagementCount": 504,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49458161",
+                  "popularity": 1177,
+                  "engagementCount": 504
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "mfiguiere",
+                "createdAt": "2026-08-27T01:12:55Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49458161"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49458161",
+              "popularity": 1177,
+              "engagementCount": 504
+            }
+          ]
+        },
+        {
+          "title": "Tim Curry has died",
+          "url": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
+          "summary": "El actor británico Tim Curry, conocido por sus papeles icónicos en producciones como The Rocky Horror Picture Show e It, falleció a los 80 años. El artista, que contaba con una gran base de seguidores en el mundo del cine y el teatro, dio vida a muchos personajes memorables gracias a su versatilidad actoral.",
+          "meta": "669 puntos · 217 comentarios",
+          "snapshot": {
+            "sourceId": "49451448",
+            "capturedAt": "2026-08-27T10:36:54.121Z",
+            "metadata": {
+              "popularity": 669,
+              "engagementCount": 217,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49451448",
+                  "popularity": 669,
+                  "engagementCount": 217
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "mykowebhn",
+                "createdAt": "2026-08-26T16:03:37Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49451448"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49451448",
+              "popularity": 669,
+              "engagementCount": 217
+            }
+          ]
+        },
+        {
+          "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+          "url": "https://github.com/SenteLabsAI/OpenExecutive",
+          "summary": "Después de que una empresa despidiera a sus desarrolladores de software y los reemplazara con inteligencia artificial, los desarrolladores crearon un administrador de inteligencia artificial de código abierto (OpenExecutive) que automatiza los procesos de gestión de la empresa. Este proyecto tiene como objetivo digitalizar los procesos de gestión trasladando los mecanismos de toma de decisiones corporativas a una estructura basada en código.",
+          "meta": "630 puntos · 396 comentarios",
+          "snapshot": {
+            "sourceId": "49458418",
+            "capturedAt": "2026-08-27T10:36:54.121Z",
+            "metadata": {
+              "popularity": 630,
+              "engagementCount": 396,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49458418",
+                  "popularity": 630,
+                  "engagementCount": 396
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "GrumpySciGuy",
+                "createdAt": "2026-08-27T01:46:22Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49458418"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49458418",
+              "popularity": 630,
+              "engagementCount": 396
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
+          "url": "https://huggingface.co/papers/2608.23564",
+          "summary": "SWE Refactor Bench es una nueva herramienta de evaluación que mide la capacidad de los agentes de software para realizar migraciones de tecnología (stack migration) complejas en todo el repositorio. Al superar el problema de ceguera causado por las pruebas actuales, obliga a los agentes no solo a pasar las pruebas, sino a transformar realmente la base de código.",
+          "meta": "7 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2608.23564",
+            "capturedAt": "2026-08-27T10:36:53.963Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.23564",
+                "publishedAt": "2026-08-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/Einsia/SWE-Refactor-Bench",
+                "githubStars": 22
+              }
+            }
+          }
+        },
+        {
+          "title": "A Modular Agent for Reliable and Auditable Spatial Relation Verification in CT Scans",
+          "url": "https://huggingface.co/papers/2608.21140",
+          "summary": "El agente modular desarrollado para la verificación de relaciones espaciales en tomografías computarizadas (TC) tiene como objetivo mejorar la capacidad de razonamiento visual de los sistemas de imágenes médicas. Busca resolver los errores que cometen los modelos actuales de visión-lenguaje al realizar inferencias espaciales, mediante una estructura auditable y confiable.",
+          "meta": "0 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2608.21140",
+            "capturedAt": "2026-08-27T10:36:53.963Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.21140",
+                "publishedAt": "2026-08-21T00:00:00.000Z",
+                "githubRepo": "https://github.com/DeveloperNomis/MICCAI-Medical-Agent",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "RetrievalRouter: Joint Modality and Architecture Selection for Document Retrieval",
+          "url": "https://huggingface.co/papers/2608.25625",
+          "summary": "RetrievalRouter es un sistema que selecciona automáticamente el método y la arquitectura necesarios en los procesos de recuperación de documentos. En documentos complejos utilizados en campos como las finanzas y la salud, optimiza el equilibrio entre velocidad y precisión para determinar la línea de acceso (pipeline) más adecuada.",
+          "meta": "1 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2608.25625",
+            "capturedAt": "2026-08-27T10:36:53.963Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.25625",
+                "publishedAt": "2026-08-26T00:00:00.000Z",
+                "githubRepo": "https://github.com/emrekuruu/retrieval-router",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Real-TurnTurk: A Multimodal Turkish Corpus for Turn-Taking Prediction",
+          "url": "https://huggingface.co/papers/2608.22071",
+          "summary": "Real-TurnTurk es un conjunto de datos multimodal desarrollado para modelar la dinámica de toma de turnos (turn-taking) en conversaciones naturales en turco. Este estudio, que incluye interacciones binarias sin guion, permite que los sistemas de diálogo simultáneo predigan con mayor precisión el flujo del habla humana.",
+          "meta": "0 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2608.22071",
+            "capturedAt": "2026-08-27T10:36:53.963Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.22071",
+                "publishedAt": "2026-08-22T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Is Next-Chunk Reasoning RL Really Better than SFT? Revisiting Training Strategies under no-CoT Data",
+          "url": "https://huggingface.co/papers/2608.23256",
+          "summary": "Una nueva investigación propone el método de aprendizaje por refuerzo de razonamiento del siguiente fragmento (next-chunk reasoning reinforcement learning) para entrenar modelos con datos que no contienen etiquetas de cadena de pensamiento (chain-of-thought) explícitas. Este enfoque ofrece una estrategia de entrenamiento alternativa a los métodos estándar de ajuste fino supervisado (supervised fine-tuning), permitiendo que el modelo genere rastros de razonamiento implícitos.",
+          "meta": "15 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2608.23256",
+            "capturedAt": "2026-08-27T10:36:53.963Z",
+            "metadata": {
+              "popularity": 15,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.23256",
+                "publishedAt": "2026-08-24T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Changes to SourceHut's terms of service regarding LLMs",
+          "url": "https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/",
+          "summary": "La plataforma de desarrollo de software SourceHut actualizó sus términos de servicio para prohibir el uso no autorizado del contenido de la plataforma con el fin de entrenar modelos de inteligencia artificial generativa (generative AI). Con este cambio, se pretende crear un escudo de protección legal contra la recopilación comercial de código y datos compartidos por los usuarios por parte de empresas de inteligencia artificial.",
+          "meta": "27 puntos · 6 comentarios",
+          "snapshot": {
+            "sourceId": "iqgrsx",
+            "capturedAt": "2026-08-27T10:36:54.138Z",
+            "metadata": {
+              "popularity": 27,
+              "engagementCount": 6,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/iqgrsx/changes_sourcehut_s_terms_service",
+                  "popularity": 27,
+                  "engagementCount": 6
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vibecoding"
+                ],
+                "createdAt": "2026-08-27T03:37:19.592-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/iqgrsx/changes_sourcehut_s_terms_service",
+              "popularity": 27,
+              "engagementCount": 6
+            }
+          ]
+        },
+        {
+          "title": "Haiku R1/beta6 released",
+          "url": "https://www.haiku-os.org/get-haiku/r1beta6/release-notes/",
+          "summary": "El proyecto de sistema operativo de código abierto Haiku ha lanzado la versión R1/beta6. La actualización mejora la estabilidad del sistema al tiempo que ofrece mejoras en los controladores de hardware y la interfaz de usuario.",
+          "meta": "99 puntos · 5 comentarios",
+          "snapshot": {
+            "sourceId": "lt9i0j",
+            "capturedAt": "2026-08-27T10:36:54.138Z",
+            "metadata": {
+              "popularity": 99,
+              "engagementCount": 5,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/lt9i0j/haiku_r1_beta6_released",
+                  "popularity": 99,
+                  "engagementCount": 5
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "osdev",
+                  "release"
+                ],
+                "createdAt": "2026-08-26T11:22:23.251-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/lt9i0j/haiku_r1_beta6_released",
+              "popularity": 99,
+              "engagementCount": 5
+            }
+          ]
+        },
+        {
+          "title": "Merchants of Insecurity",
+          "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
+          "summary": "El concepto de comerciantes de la inseguridad (merchants of insecurity) critica cómo las empresas de ciberseguridad posicionan sus productos mediante estrategias de marketing centradas en el miedo. Este enfoque dirige el gasto en seguridad en el sector del software creando una percepción constante de necesidad basada en la incertidumbre, en lugar de gestionar los riesgos reales.",
+          "meta": "82 puntos · 5 comentarios",
+          "snapshot": {
+            "sourceId": "eove8s",
+            "capturedAt": "2026-08-27T10:36:54.138Z",
+            "metadata": {
+              "popularity": 82,
+              "engagementCount": 5,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/eove8s/merchants_insecurity",
+                  "popularity": 82,
+                  "engagementCount": 5
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "osdev",
+                  "security"
+                ],
+                "createdAt": "2026-08-26T09:30:41.443-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/eove8s/merchants_insecurity",
+              "popularity": 82,
+              "engagementCount": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "OpenExecutive",
+      "explanation": "Un sistema de gestión de inteligencia artificial de código abierto diseñado para automatizar los procesos de gestión empresarial."
+    }
+  ]
+}
