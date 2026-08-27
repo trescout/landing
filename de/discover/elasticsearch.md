@@ -1,15 +1,33 @@
-# Durchsuchen Sie Big Data schnell
+# Verteilte und leistungsstarke Suchmaschine
 
-Elasticsearch wurde mit Java entwickelt und ist eine verteilte Open-Source-Suchmaschine, die eine schnelle Suche und Analyse großer Datenmengen ermöglicht. Dank seiner RESTful-Architektur unterstützt es die Indizierung und Abfrage von Daten in Echtzeit.
+Elasticsearch ist eine RESTful API-basierte, verteilte und hochleistungsfähige Such- und Analyse-Engine.
 
 - ★ 77.846
-- Java
 - GitHub Trending · 2026-07-04
 
-## Was es bringt
-- Schnelle Suche und Analyse großer Datenmengen
-- Integration mit Vektorsuche und KI-Anwendungen
-- Indizierung und Abfrage von Daten in Echtzeit
+## Was macht dieses Werkzeug?
+Elasticsearch ist eine RESTful API-basierte, verteilte und hochleistungsfähige Such- und Analyse-Engine. Sie bietet eine Infrastruktur für Echtzeitsuche, Protokollanalyse und Datenvisualisierung für große Mengen an Text-, numerischen und geografischen Daten.
+
+## Für wen ist es?
+Für diejenigen, die komplexe Suchen und Protokollanalysen über Millionen von Datenzeilen in Millisekunden durchführen möchten.
+
+## Was Sie nicht erwarten sollten
+Traditionelle Datenbankbenutzer, die relationale Datenmodelle und komplexe SQL-JOIN-Operationen benötigen.
+
+## Höhepunkte
+- Bietet Hochgeschwindigkeits-Volltextsuche bei großen Datenmengen.
+- Dank seiner verteilten Architektur ist es horizontal leicht skalierbar.
+- Beherbergt ein reichhaltiges Ökosystem für Protokollverwaltung und Systemüberwachung.
+
+## Ablauf für die erste Nutzung
+- Installieren Sie Elasticsearch gemäß den Anweisungen für Docker oder den Paketmanager in der offiziellen Dokumentation.
+- Konfigurieren Sie die Standard-Sicherheitseinstellungen (Passwörter und Zertifikate).
+- Überprüfen Sie den Cluster-Status, indem Sie eine Anfrage mit einem REST-Client an den Haupt-Endpunkt senden.
+
+## Sicherer Start
+
+## Erster Prompt
+Wie erstellt man einen neuen Index in Elasticsearch?
 
 ## Installation
 **Ziehen Sie das Docker-Image**
@@ -33,13 +51,12 @@ docker run -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" docker.elas
 ```
 
 
-## So fangen Sie an
-- Offizielle Quelle →
-
 ## Verwandte Begriffe aus dem Glossar
 
 ## Links
 - GitHub-Repository →
+- Offizielle Elasticsearch README →
+- Offizielle Elasticsearch Website →
 - Auf Türkisch lesen →
 
 ---

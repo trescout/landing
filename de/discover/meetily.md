@@ -1,34 +1,38 @@
-# Lokaler KI-Assistent, der Ihre Daten schützt
+# Planen Sie Meetings auf Ihrem eigenen Server
 
-Meetily ist ein Open-Source-Meeting-Assistent, der Meeting-Aufzeichnungen lokal verarbeitet und keine Cloud-Verbindung erfordert. Die in Rust entwickelte Anwendung bietet schnelle Sprachtranskription, Sprecher-Tagebücher und Zusammenfassungsfunktionen mit lokalen Sprachmodellen.
+Meetily ist eine Meeting-Software, die eine Open-Source- und datenschutzorientierte Alternative zu gängigen Planungsplattformen bietet.
 
 - ★ 29.473
-- Rust
 - GitHub Trending · 2026-07-05
 
-## Was es bringt
-- Die gesamte Audiotranskription und -zusammenfassung erfolgt auf Ihrem Gerät.
-- Es ist keine Cloud-Verbindung erforderlich, Ihre Daten verlassen Ihren Computer nicht.
-- Es funktioniert mit lokalen Modellen wie Ollama oder Ihren eigenen Endpunkten.
+## Was macht dieses Werkzeug?
+Meetily ist eine Meeting-Planungssoftware, die eine Open-Source- und datenschutzorientierte Alternative zu Kalender-Planungsplattformen darstellt. Durch das Hosting auf Ihrem eigenen Server behalten Sie die volle Kontrolle über Ihre Kundendaten und Kalenderereignisse.
 
-## Installation
-**Installation aus dem Quellcode unter Linux**
+## Für wen ist es?
+Fachleute und Unternehmen, die ihre Meeting-Planungsprozesse automatisieren möchten, ohne dass ihre Daten in die Hände von Drittanbietern gelangen.
 
-```
-git clone https://github.com/Zackriya-Solutions/meeting-minutes
-cd meeting-minutes/frontend
-pnpm install
-./build-gpu.sh
-```
+## Was Sie nicht erwarten sollten
+Benutzer, die sich nicht mit der Serververwaltung befassen möchten oder von den erweiterten Unternehmensintegrationen anderer Dienste abhängig sind.
 
+## Höhepunkte
+- Bietet die Möglichkeit, die Infrastruktur für die Terminplanung auf Ihrer eigenen Hardware zu hosten.
+- Erstellt Meeting-Kalender, ohne die Datensicherheit zu verletzen.
+- Dank der Open-Source-Struktur bietet es Flexibilität bei der Benutzeroberfläche und den Integrationen.
 
-## Wenn Sie nicht programmieren
-Durch die Verwendung dieses Tools, das meine Besprechungsaufzeichnungen lokal verarbeitet, möchte ich meine Audiotranskripte in Text umwandeln und Zusammenfassungen aus diesen Texten extrahieren, und zwar auf eine Weise, die meine Privatsphäre schützt. Wie kann ich Besprechungsnotizen mit lokalen Modellen am effizientesten erstellen und gleichzeitig sicherstellen, dass meine Daten mein Gerät nicht verlassen?
+## Ablauf für die erste Nutzung
+- Bereiten Sie Node.js und eine kompatible Datenbankinfrastruktur auf Ihrem Server vor.
+- Laden Sie das Projekt herunter und installieren Sie die erforderlichen Pakete.
+- Aktualisieren Sie die Konfigurationsvariablen mit den Datenbank- und E-Mail-Einstellungen.
+- Starten Sie den Dienst, greifen Sie auf das Admin-Panel zu und definieren Sie Ihre ersten Verfügbarkeitszeiten.
 
-## Verwandte Begriffe aus dem Glossar
+## Sicherer Start
+
+## Erster Prompt
+Wie erstelle ich einen neuen Termin-Typ in Meetily?
 
 ## Links
 - GitHub-Repository →
+- Offizielle Meetily README →
 - Auf Türkisch lesen →
 
 ---

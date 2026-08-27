@@ -1,41 +1,42 @@
-# Flexible und schnelle Bibliothek für künstliche Intelligenz
+# Flexible und schnelle KI-Bibliothek
 
-PyTorch ist eine Bibliothek für maschinelles Lernen, die eine leistungsstarke GPU-Beschleunigung (Graphics Processing Unit) für Python-basierte Tensorberechnungen und dynamische neuronale Netze bietet. Es bietet umfassende Ökosystemunterstützung bei der Entwicklung und Bereitstellung von Deep-Learning-Modellen.
+PyTorch ist eine Python-basierte Bibliothek für Tensor-Berechnungen und Deep Learning. Sie bietet numerische Berechnungen mit GPU-Beschleunigung und erleichtert durch ihre flexible Struktur den Übergang von Forschungsprototypen zur Produktionsphase.
 
 - ★ 102.131
-- Python
 - GitHub Trending · 2026-07-03
 
-## Was es bringt
-- GPU-gestützte Hochleistungs-Tensorberechnungen
-- Flexible Modellentwicklung mit dynamischen neuronalen Netzen
-- Vollständig kompatibel mit dem Python-Ökosystem
+## Was macht dieses Werkzeug?
+PyTorch ist eine Python-basierte Bibliothek für Tensor-Berechnungen und Deep Learning. Sie bietet numerische Berechnungen mit GPU-Beschleunigung und erleichtert durch ihre flexible Struktur den Übergang von Forschungsprototypen zur Produktionsphase.
 
-## Installation
-**Quellcode herunterladen**
+## Für wen ist es?
+Für diejenigen, die dynamische neuronale Netze erstellen und KI-Modelle von der Forschungsphase in die Produktion überführen möchten.
 
-```
-git clone https://github.com/pytorch/pytorch
-cd pytorch
-# if you are updating an existing checkout
-git submodule sync
-git submodule update --init --recursive
-```
+## Was Sie nicht erwarten sollten
+Für Personen ohne Erfahrung im Bereich Deep Learning oder für diejenigen, die lediglich nach gebrauchsfertigen KI-Anwendungen suchen.
 
-**Abhängigkeiten installieren**
+## Höhepunkte
+- Bietet GPU-beschleunigte Tensor-Berechnungen.
+- Ermöglicht die Erstellung dynamischer neuronaler Netze.
+- Erleichtert mit TorchScript die Überführung von Modellen in Produktionsumgebungen.
+- Bietet eine natürliche Integration in das Python-Ökosystem.
 
-```
-pip install --group dev
-```
+## Ablauf für die erste Nutzung
+- Erstellen Sie den passenden PyTorch-Befehl für Ihre Umgebung (Betriebssystem, Paketmanager, CUDA-Version) auf der offiziellen Website.
+- Schließen Sie die Installation mit dem empfohlenen Paketmanager (pip oder conda) ab.
+- Überprüfen Sie die Installation, indem Sie den Befehl 'import torch' in Ihrer Python-Umgebung ausführen.
+- Erstellen Sie einen grundlegenden Tensor, um zu prüfen, ob Ihr System die GPU-Beschleunigung unterstützt.
 
+## Sicherer Start
 
-## Wenn Sie nicht programmieren
-Ich möchte Deep-Learning-Modelle mithilfe der PyTorch-Bibliothek entwickeln. Führen Sie mich durch Tensorberechnungen, die Erstellung dynamischer neuronaler Netze und die Nutzung der GPU-Beschleunigung. Erklären Sie insbesondere, wie Sie die Komponenten Torch.nn und Torch.autograd verwenden, wie Sie sie in das Python-Framework integrieren und wie Sie die Modelltrainingsprozesse optimieren.
+## Erster Prompt
+Wie kann ich zwei Tensoren mit PyTorch addieren?
 
 ## Verwandte Begriffe aus dem Glossar
 
 ## Links
 - GitHub-Repository →
+- Offizielle PyTorch README →
+- Offizielle PyTorch Website →
 - Auf Türkisch lesen →
 
 ---

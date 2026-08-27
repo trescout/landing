@@ -1,23 +1,37 @@
-# Guide complet des systèmes d'intelligence artificielle
+# Manuel TinyML Open Source
 
-Cette ressource, partagée par l'Université Harvard, propose un guide technique complet sur les systèmes d'apprentissage automatique. Combinant des couches matérielles et logicielles, cette étude aborde les processus de conception d'infrastructures d'intelligence artificielle évolutives.
+Le livre CS249r est un manuel complet et open source axé sur l'exécution de modèles d'apprentissage automatique sur des appareils aux ressources limitées.
 
 - ★ 27 689
-- Python
 - GitHub Trending · 2026-07-03
 
-## Ce que ça vous apporte
-- Apprendre les principes de conception et d’ingénierie des systèmes d’intelligence artificielle
-- Créer votre propre framework d'apprentissage automatique à partir de zéro
-- Développer des applications du monde réel sous des contraintes matérielles
+## Que fait cet outil ?
+Le livre CS249r est un manuel complet et open source axé sur l'exécution de modèles d'apprentissage automatique sur des appareils aux ressources limitées. Il explore en profondeur le TinyML et l'informatique d'apprentissage profond efficace (efficient deep learning computing).
 
-## Pour commencer
-- Source officielle →
+## Pour qui ?
+Étudiants et chercheurs souhaitant intégrer des modèles d'apprentissage profond sur des appareils de périphérie (edge devices).
 
-## Termes liés du glossaire
+## À quoi ne faut-il pas s’attendre ?
+Ceux qui s'intéressent uniquement au développement web ou qui ne possèdent pas encore les bases de l'apprentissage automatique.
+
+## Points forts
+- Il offre une ressource fondamentale sur le TinyML et l'apprentissage profond efficace.
+- Il explique les techniques d'optimisation de modèles pour les appareils aux ressources matérielles limitées.
+- C'est un manuel open source de qualité académique.
+
+## Premiers pas
+- Visitez le dépôt GitHub officiel pour accéder à la version actuelle du livre.
+- Téléchargez le PDF ou la version web correspondante sur votre appareil.
+- Installez les environnements Python et PyTorch recommandés pour tester les exemples de code du livre.
+
+## Démarrage prudent
+
+## Premier prompt
+Comment exécuter les exemples de quantification de modèle dans le livre CS249r ?
 
 ## Liens
 - Dépôt GitHub →
+- Dépôt officiel CS249r →
 - Lire en turc →
 
 ---

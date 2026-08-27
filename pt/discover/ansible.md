@@ -1,15 +1,34 @@
-# Plataforma que automatiza sistemas de TI
+# Plataforma de Automação de TI sem Agente
 
-Ansible é uma plataforma de automação de tecnologias de informação que automatiza processos de implantação de aplicativos e gerenciamento de sistemas. Realiza operações de configuração em linguagem simples via protocolo SSH, sem a necessidade de instalação de nenhum middleware em sistemas remotos.
+O Ansible é uma ferramenta sem agente que realiza configuração de sistemas, implantação de software e automação de TI por meio de arquivos YAML simples.
 
 - ★ 70.299
-- Python
 - GitHub Trending · 2026-07-04
 
-## O que você ganha
-- Gerencie sistemas remotos via SSH
-- Configurar sem instalar middleware
-- Execute facilmente atualizações complexas
+## O que esta ferramenta faz?
+O Ansible é uma ferramenta sem agente que realiza configuração de sistemas, implantação de software e automação de TI por meio de arquivos YAML simples e legíveis. Ele permite que você gerencie sua infraestrutura como código e padronize tarefas complexas.
+
+## Para quem é?
+Para aqueles que desejam configurar vários servidores simultaneamente e automatizar processos de gerenciamento de forma confiável.
+
+## O que não esperar
+Para aqueles que desejam executar apenas tarefas simples em uma única máquina local e não precisam de uma infraestrutura de automação.
+
+## Destaques
+- Não requer a instalação de agentes nos servidores de destino.
+- Mantém as configurações em formato YAML, que é fácil de ler e escrever.
+- Oferece amplo suporte de integração com milhares de módulos prontos.
+
+## Primeiro fluxo de uso
+- Instale o pacote Ansible no seu nó de controle.
+- Adicione os endereços IP dos servidores que você irá gerenciar ao arquivo de configuração (inventory).
+- Configure a autenticação baseada em chaves para garantir o acesso SSH aos servidores de destino.
+- Execute um teste de ping em todos os servidores para verificar a conexão.
+
+## Início seguro
+
+## Primeiro prompt
+Como instalar o Nginx em todos os servidores web com o Ansible?
 
 ## Instalação
 **com pip (PyPI)**
@@ -33,13 +52,9 @@ ansible-playbook site.yml
 ```
 
 
-## Como começar
-- Fonte oficial →
-
-## Termos relacionados do glossário
-
 ## Links
 - Repositório no GitHub →
+- README oficial do Ansible →
 - Ler em turco →
 
 ---

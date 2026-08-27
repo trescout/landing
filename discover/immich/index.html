@@ -7,13 +7,6 @@
 <meta name="description" content="Immich, fotoğraf ve video dosyalarını yönetmek için geliştirilmiş, yüksek performanslı bir öz sunuculu (self-hosted) medya…">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/discover/immich.md">
-<link rel="alternate" hreflang="tr" href="https://trescout.com/discover/immich/">
-<link rel="alternate" hreflang="en" href="https://trescout.com/en/discover/immich/">
-<link rel="alternate" hreflang="fr" href="https://trescout.com/fr/discover/immich/">
-<link rel="alternate" hreflang="pt-BR" href="https://trescout.com/pt/discover/immich/">
-<link rel="alternate" hreflang="es" href="https://trescout.com/es/discover/immich/">
-<link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/immich/">
-<link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/immich/">
 <link rel="canonical" href="https://trescout.com/discover/immich/">
 <meta property="og:title" content="Immich">
 <meta property="og:description" content="Immich, fotoğraf ve video dosyalarını yönetmek için geliştirilmiş, yüksek performanslı bir öz sunuculu (self-hosted) medya…">
@@ -23,17 +16,19 @@
 <meta property="og:image" content="https://trescout.com/assets/discover/og/immich.webp">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Immich">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Immich">
+<meta name="twitter:description" content="Immich, fotoğraf ve video dosyalarını yönetmek için geliştirilmiş, yüksek performanslı bir öz sunuculu (self-hosted) medya…">
 <meta name="twitter:image" content="https://trescout.com/assets/discover/og/immich.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Kendi fotoğraf ve video arşivinizi yönetin",
+  "headline": "Kendi Sunucunuzda Fotoğraf ve Video Yedekleme",
   "inLanguage": "tr",
-  "description": "Immich, fotoğraf ve video dosyalarını yönetmek için geliştirilmiş, yüksek performanslı bir öz sunuculu (self-hosted) medya yönetim çözümüdür. TypeScript ile yazılan bu platform, kullanıcılara kendi altyapıları üzerinde merkezi bir medya arşivi oluşturma imkânı tanır.",
+  "description": "Immich; kişisel fotoğraf ve videolarınızı yedeklemeniz için tasarlanmış, doğrudan kendi sunucunuzda barındırabileceğiniz yüksek performanslı bir çözümdür.",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -48,8 +43,7 @@
   "about": {
     "@type": "SoftwareSourceCode",
     "name": "Immich",
-    "codeRepository": "https://github.com/immich-app/immich",
-    "programmingLanguage": "TypeScript"
+    "codeRepository": "https://github.com/immich-app/immich"
   }
 }
 </script>
@@ -57,79 +51,41 @@
 <link rel="preload" href="/assets/fonts/inter-latin-ext.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
-
-<meta property="og:image:alt" content="Immich">
-<meta name="twitter:description" content="Immich, fotoğraf ve video dosyalarını yönetmek için geliştirilmiş, yüksek performanslı bir öz sunuculu (self-hosted) medya…">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
-<nav><div class="container nav-inner"><a class="logo-link" href="/" aria-label="TreScout anasayfa"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/discover/" class="btn btn-ghost">Keşif</a><a href="/dictionary/" class="btn btn-ghost">Sözlük</a><a href="/reports/" class="btn btn-ghost">Raporlar</a><a href="/compare/rss-vs-ai/" class="btn btn-ghost">Karşılaştır</a><a href="/en/discover/immich/" class="btn btn-ghost" aria-label="İngilizceye geç">EN</a><a href="/fr/discover/immich/" class="btn btn-ghost" aria-label="Fransızcaya geç">FR</a><a href="/pt/discover/immich/" class="btn btn-ghost" aria-label="Portekizceye geç">PT</a><a href="/es/discover/immich/" class="btn btn-ghost" aria-label="İspanyolcaya geç">ES</a><a href="/de/discover/immich/" class="btn btn-ghost" aria-label="Almancaya geç">DE</a></div></div></nav>
+<nav><div class="container nav-inner"><a class="logo-link" href="/" aria-label="TreScout anasayfa"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/discover/" class="btn btn-ghost">Keşif</a><a href="/dictionary/" class="btn btn-ghost">Sözlük</a><a href="/reports/" class="btn btn-ghost">Raporlar</a><a href="/compare/rss-vs-ai/" class="btn btn-ghost">Karşılaştır</a><a href="/en/" class="btn btn-ghost" aria-label="İngilizceye geç">EN</a><a href="/fr/" class="btn btn-ghost" aria-label="Fransızcaya geç">FR</a><a href="/pt/" class="btn btn-ghost" aria-label="Portekizceye geç">PT</a><a href="/es/" class="btn btn-ghost" aria-label="İspanyolcaya geç">ES</a><a href="/de/" class="btn btn-ghost" aria-label="Almancaya geç">DE</a></div></div></nav>
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/discover/">← Keşif</a>
-<div class="disc-top"><span class="disc-eyebrow">Keşif · GitHub · Immich</span><span class="disc-momentum">↑ +201 bugün</span></div>
-<h1 class="disc-title">Kendi fotoğraf ve video arşivinizi yönetin</h1>
-<p class="disc-lead">Immich, fotoğraf ve video dosyalarını yönetmek için geliştirilmiş, yüksek performanslı bir öz sunuculu (self-hosted) medya yönetim çözümüdür. TypeScript ile yazılan bu platform, kullanıcılara kendi altyapıları üzerinde merkezi bir medya arşivi oluşturma imkânı tanır.</p>
-<ul class="disc-meta"><li>★ 109.538</li><li>TypeScript</li><li>GitHub Trending · 2026-07-05</li></ul>
+<div class="disc-top"><span class="disc-eyebrow">Keşif · GitHub · Immich</span></div>
+<h1 class="disc-title">Kendi Sunucunuzda Fotoğraf ve Video Yedekleme</h1>
+<p class="disc-lead">Immich; kişisel fotoğraf ve videolarınızı yedeklemeniz için tasarlanmış, doğrudan kendi sunucunuzda barındırabileceğiniz yüksek performanslı bir çözümdür.</p>
+<ul class="disc-meta"><li>★ 109.538</li><li>GitHub Trending · 2026-07-05</li></ul>
       <section class="disc-sec"><h2>Güncelleme</h2><ul class="disc-wins"><li><strong>2 Ağustos 2026:</strong> Yıldız 105.748 → 109.538, son sürüm v3.1.0 (29 Temmuz 2026).</li></ul></section>
-      <section class="disc-sec"><h2>Ne kazandırır?</h2><ul class="disc-wins"><li>Fotoğraf ve videolar için merkezi depolama</li><li>Yüz tanıma ve nesne tabanlı arama</li><li>Mobil ve web üzerinden yedekleme</li></ul></section>
-                                                                                                                                                                                                                                                                                    <section class="disc-sec"><h2>Kurulum</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Docker Compose yapılandırmasını indir</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>mkdir immich-app &amp;&amp; cd immich-app
+      <section class="disc-sec disc-editorial disc-overview"><h2>Bu araç ne yapar?</h2><p>Immich; kişisel fotoğraf ve videolarınızı yedeklemeniz için tasarlanmış, doğrudan kendi sunucunuzda barındırabileceğiniz yüksek performanslı bir çözümdür. Mobil ve web uygulamaları aracılığıyla medya kütüphanenizi yönetmenizi sağlar.</p></section>
+      <section class="disc-sec disc-editorial disc-best-for"><h2>Kimin için?</h2><p>Fotoğraf ve videolarını üçüncü taraf bulut servisleri yerine kendi donanımlarında depolamak ve yönetmek isteyenler.</p></section>
+      <section class="disc-sec disc-editorial disc-not-for"><h2>Ne beklememeli?</h2><p>Kendi sunucusunu yönetmek istemeyen veya teknik kurulum süreçleriyle uğraşmak istemeyen kullanıcılar.</p></section>
+      <section class="disc-sec disc-editorial disc-wins-section"><h2>Öne çıkanlar</h2><ul class="disc-wins"><li>Fotoğraf ve videoları orijinal kalitelerinde yedekler.</li><li>Web ve mobil uygulamalarıyla erişim imkânı sunar.</li><li>Kendi donanımınızda barındırılarak veri gizliliği sağlar.</li><li>Çoklu kullanıcı desteği ile aile üyeleri veya ekipler için alanlar oluşturur.</li></ul></section>
+      <section class="disc-sec disc-editorial disc-first-run"><h2>İlk kullanım akışı</h2><ol class="disc-steps"><li>Resmî dokümantasyonda belirtilen donanım gereksinimlerini karşıladığınızdan emin olun.</li><li>Docker ve Docker Compose kullanarak Immich kapsayıcılarını başlatın.</li><li>Mobil uygulamayı cihazınıza indirin ve sunucu adresinizi girerek bağlanın.</li><li>İlk yönetici hesabını oluşturun ve yedekleme işlemini başlatın.</li></ol></section>
+      <section class="disc-sec disc-editorial disc-safety"><h2>Güvenli başlangıç</h2><div class="disc-note">Immich yoğun şekilde geliştirilmeye devam etmektedir; bu nedenle kurulumunuzu güncellemeden önce mutlaka sürüm notlarını okumalı ve medyanızın harici bir yedeğini almalısınız.</div></section>
+      <section class="disc-sec disc-editorial disc-first-prompt"><h2>İlk görev istemi</h2><div class="disc-ai"><div class="disc-ai-head"><span>İlk adım için hazır istem</span><button type="button" class="disc-copy" aria-label="İstemi kopyala">Kopyala</button></div><p class="disc-ai-text">Immich kurulumunda yeni bir kullanıcı nasıl eklenir?</p></div></section>
+      <section class="disc-sec"><h2>Kurulum</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Docker Compose yapılandırmasını indir</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>mkdir immich-app &amp;&amp; cd immich-app
 wget -O docker-compose.yml https://github.com/immich-app/immich/releases/latest/download/docker-compose.yml
 wget -O .env https://github.com/immich-app/immich/releases/latest/download/example.env</code></pre></div></section>
       <section class="disc-sec"><h2>Çalıştırma</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Docker servislerini başlat</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>docker compose up -d</code></pre></div></section>
       <p class="disc-note"><strong>Kaynak:</strong> Resmî Immich dokümantasyonu (immich.app/docs/install/docker-compose)</p>
-      <section class="disc-sec"><h2>Nasıl başlanır?</h2><p>Kurulum ve kullanım detayları için resmî dokümantasyon sayfasını ziyaret edin. https://immich.app/ adresindeki kurulum rehberlerini takip ederek kendi sunucunuz üzerinde medya yönetiminizi başlatabilirsiniz.</p><ul class="disc-links"><li><a href="https://immich.app" target="_blank" rel="noopener">Resmî kaynak →</a></li></ul></section>
-      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Kimin için</span><span class="disc-fact-v">Kendi fotoğraf ve video arşivini bulut servislerine bağımlı kalmadan, kendi altyapısı üzerinde yönetmek isteyen kullanıcılar içindir.</span></div><div class="disc-fact"><span class="disc-fact-k">Lisans</span><span class="disc-fact-v">AGPL-3.0</span></div></div>
-      <section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links"><li><a href="https://github.com/immich-app/immich" target="_blank" rel="noopener">GitHub deposu →</a></li></ul></section>
+      
+<section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links"><li><a href="https://github.com/immich-app/immich" target="_blank" rel="noopener">GitHub deposu →</a></li><li><a href="https://github.com/immich-app/immich" target="_blank" rel="noopener">Immich resmî README →</a></li><li><a href="https://immich.app/" target="_blank" rel="noopener">Immich resmî sitesi →</a></li></ul></section>
 <p class="disc-disclaimer">TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.</p>
-<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related"><a href="/dictionary/self-hosted/">Self-hosted</a></div></section>
-      <aside class="disc-cta"><p><strong>Bunun gibi araçları her gün TreScout yakalıyor.</strong> GitHub, Hacker News ve HuggingFace taranır, öne çıkanlar Türkçe özetlenir.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/discover/">Tüm keşifler →</a></aside>
+<aside class="disc-cta"><p><strong>Benzer keşifleri günlük raporda al.</strong> TreScout; GitHub, Hacker News ve HuggingFace trendlerini her gün tarar, öne çıkan açık kaynak araçları Türkçe özetler.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover" data-page-type="discover" data-content-slug="immich" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/discover/">Tüm keşifler →</a></aside>
 </article>
 </main>
-<footer>
-  <div class="container">
-    <div class="footer-grid">
-      <div class="footer-brand-block">
-        <div class="footer-logo">
-          <svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg>
-          <span>TreScout</span>
-        </div>
-        <p class="footer-tagline">TreScout tarar, özetler, gönderir. Siz sadece okursunuz.</p>
-      </div>
-      <div class="footer-col">
-        <div class="footer-col-title">Ürün</div>
-        <ul>
-          <li><a href="/#how-it-works">Nasıl Çalışır</a></li>
-          <li><a href="/discover/">Keşif</a></li>
-          <li><a href="/dictionary/">Sözlük</a></li>
-          <li><a href="/reports/">Raporlar</a></li>
-          <li><a href="/compare/rss-vs-ai/">Karşılaştır</a></li>
-          <li><a href="/#top">Erken Erişim</a></li>
-        </ul>
-      </div>
-      <div class="footer-col">
-        <div class="footer-col-title">İletişim</div>
-        <ul>
-          <li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li>
-          <li><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a></li>
-        </ul>
-      </div>
-      <div class="footer-col">
-        <div class="footer-col-title">Sosyal medya</div>
-        <ul>
-          <li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X</a></li>
-        </ul>
-      </div>
-    </div>
-    <div class="footer-bottom">
-      <span>© 2026 TreScout · Tüm hakları saklıdır.</span>
-    </div>
-  </div>
-</footer>
-<script src="/assets/discover.js" defer></script>
+<footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">TreScout tarar, özetler, gönderir. Siz sadece okursunuz.</p></div><div class="footer-col"><div class="footer-col-title">Ürün</div><ul><li><a href="/#how-it-works">Nasıl Çalışır</a></li><li><a href="/discover/">Keşif</a></li><li><a href="/dictionary/">Sözlük</a></li><li><a href="/reports/">Raporlar</a></li><li><a href="/compare/rss-vs-ai/">Karşılaştır</a></li><li><a href="/#top">Erken Erişim</a></li></ul></div><div class="footer-col"><div class="footer-col-title">İletişim</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Sosyal medya</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Tüm hakları saklıdır.</span></div></div></footer>
 <script src="/assets/subscribe.js" defer></script>
-  <script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>
-  <script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>
-  <script src="/assets/provider-consent.js" defer></script>
+<script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>
+<script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>
+<script src="/assets/provider-consent.js" defer></script>
+<script src="/assets/telemetry.js" defer></script>
 </body>
 </html>

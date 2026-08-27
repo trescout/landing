@@ -1,15 +1,34 @@
-# Plateforme de développement Postgres open source
+# Base de données open source et backend
 
-Supabase est une plateforme de développement qui offre une infrastructure de base de données Postgres pour développer des applications Web, mobiles et d'intelligence artificielle. Grâce à sa structure open source, il fournit les services de gestion de bases de données et de backend nécessaires pour accélérer les processus de développement d'applications.
+Supabase est une alternative open source à Firebase, construite sur PostgreSQL. Il propose des services en temps réel.
 
 - ★ 107 669
-- TypeScript
 - GitHub Trending · 2026-07-04
 
-## Ce que ça vous apporte
-- Offre une infrastructure de base de données Postgres prête à l'emploi
-- Fournit une API et une authentification automatiques
-- Comprend l'intelligence artificielle et la prise en charge des vecteurs
+## Que fait cet outil ?
+Supabase est un service backend open source construit sur PostgreSQL. Il offre des fonctionnalités prêtes à l'emploi telles que les abonnements aux bases de données en temps réel, l'authentification, le stockage et les fonctions de périphérie (edge functions).
+
+## Pour qui ?
+Ceux qui souhaitent accélérer le processus de développement backend sans renoncer à la puissance d'une base de données relationnelle et se concentrer directement sur leurs produits.
+
+## À quoi ne faut-il pas s’attendre ?
+Les développeurs qui ont uniquement besoin de bases de données orientées documents ou qui souhaitent éviter complètement l'utilisation de SQL.
+
+## Points forts
+- Fournit une base de données PostgreSQL standard et complète pour chaque projet.
+- Prend en charge la synchronisation des données en temps réel dès la sortie de la boîte.
+- Peut être utilisé sur votre propre serveur ou en tant que service cloud géré.
+
+## Premiers pas
+- Créez un nouveau projet via le tableau de bord Supabase ou dans votre environnement local.
+- Créez vos tables et configurez les politiques de sécurité.
+- Installez la bibliothèque cliente officielle pour le langage que vous utiliserez dans votre projet.
+- Ajoutez vos clés API à votre application et exécutez votre première requête de base de données.
+
+## Démarrage prudent
+
+## Premier prompt
+Comment effectuer l'inscription d'un utilisateur avec Supabase ?
 
 ## Installation
 **macOS (Homebrew)**
@@ -34,13 +53,10 @@ supabase start
 ```
 
 
-## Pour commencer
-- Source officielle →
-
-## Termes liés du glossaire
-
 ## Liens
 - Dépôt GitHub →
+- README officiel de Supabase →
+- Site officiel de Supabase →
 - Lire en turc →
 
 ---

@@ -1,41 +1,42 @@
-# Biblioteca de inteligência artificial flexível e rápida
+# Biblioteca de Inteligência Artificial Flexível e Rápida
 
-PyTorch é uma biblioteca de aprendizado de máquina que oferece aceleração poderosa de unidade de processamento gráfico (GPU) para cálculos de tensores baseados em Python e redes neurais dinâmicas. Ele fornece amplo suporte ao ecossistema no desenvolvimento e implantação de modelos de aprendizagem profunda.
+O PyTorch é uma biblioteca de computação tensorial e aprendizagem profunda baseada em Python. Oferece cálculos numéricos com aceleração por GPU e, com sua estrutura flexível, facilita a transição de protótipos de pesquisa para a fase de produção.
 
 - ★ 102.131
-- Python
 - GitHub Trending · 2026-07-03
 
-## O que você ganha
-- Cálculos de tensor de alto desempenho alimentados por GPU
-- Desenvolvimento flexível de modelos com redes neurais dinâmicas
-- Totalmente compatível com o ecossistema Python
+## O que esta ferramenta faz?
+O PyTorch é uma biblioteca de computação tensorial e aprendizagem profunda baseada em Python. Oferece cálculos numéricos com aceleração por GPU e, com sua estrutura flexível, facilita a transição de protótipos de pesquisa para a fase de produção.
 
-## Instalação
-**Baixe o código-fonte**
+## Para quem é?
+Para aqueles que desejam criar redes neurais dinâmicas e levar modelos de inteligência artificial da fase de pesquisa para a produção.
 
-```
-git clone https://github.com/pytorch/pytorch
-cd pytorch
-# if you are updating an existing checkout
-git submodule sync
-git submodule update --init --recursive
-```
+## O que não esperar
+Para aqueles que não possuem experiência na área de aprendizagem profunda ou que buscam apenas aplicações de inteligência artificial prontas para uso.
 
-**Instalando dependências**
+## Destaques
+- Fornece cálculos tensoriais com aceleração por GPU.
+- Permite a criação de redes neurais dinâmicas.
+- Facilita a transferência de modelos para o ambiente de produção com o TorchScript.
+- Oferece uma integração natural com o ecossistema Python.
 
-```
-pip install --group dev
-```
+## Primeiro fluxo de uso
+- Gere o comando PyTorch adequado para o seu ambiente (sistema operacional, gerenciador de pacotes, versão do CUDA) no site oficial.
+- Conclua a instalação com o gerenciador de pacotes recomendado (pip ou conda).
+- Verifique a instalação executando o comando 'import torch' no seu ambiente Python.
+- Verifique se o seu sistema suporta aceleração por GPU criando um tensor básico.
 
+## Início seguro
 
-## Se você não programa
-Quero desenvolver modelos de aprendizagem profunda usando a biblioteca PyTorch. Acompanhe-me nos cálculos de tensores, na criação de redes neurais dinâmicas e no aproveitamento da aceleração da GPU. Em particular, explique como usar os componentes torch.nn e torch.autograd, como integrá-los à estrutura Python e como otimizar os processos de treinamento do modelo.
+## Primeiro prompt
+Como posso somar dois tensores usando PyTorch?
 
 ## Termos relacionados do glossário
 
 ## Links
 - Repositório no GitHub →
+- README oficial do PyTorch →
+- Site oficial do PyTorch →
 - Ler em turco →
 
 ---

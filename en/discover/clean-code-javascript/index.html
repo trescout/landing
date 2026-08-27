@@ -4,19 +4,15 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Clean Code Javascript · Discover · TreScout</title>
-<meta name="description" content="This guide, which adapts clean code principles to the JavaScript language, is readable and…">
+<meta name="description" content="Clean Code JavaScript is an open-source guide that adapts the famous &#39;Clean Code&#39; principles to the JavaScript ecosystem.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/en/discover/clean-code-javascript.md">
 <link rel="canonical" href="https://trescout.com/en/discover/clean-code-javascript/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/discover/clean-code-javascript/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/discover/clean-code-javascript/">
-<link rel="alternate" hreflang="fr" href="https://trescout.com/fr/discover/clean-code-javascript/">
-<link rel="alternate" hreflang="pt-BR" href="https://trescout.com/pt/discover/clean-code-javascript/">
-<link rel="alternate" hreflang="es" href="https://trescout.com/es/discover/clean-code-javascript/">
-<link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/clean-code-javascript/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/clean-code-javascript/">
 <meta property="og:title" content="Clean Code Javascript">
-<meta property="og:description" content="This guide, which adapts clean code principles to the JavaScript language, is readable and…">
+<meta property="og:description" content="Clean Code JavaScript is an open-source guide that adapts the famous &#39;Clean Code&#39; principles to the JavaScript ecosystem.">
 <meta property="og:url" content="https://trescout.com/en/discover/clean-code-javascript/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
@@ -27,15 +23,15 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Clean Code Javascript">
-<meta name="twitter:description" content="This guide, which adapts clean code principles to the JavaScript language, is readable and…">
+<meta name="twitter:description" content="Clean Code JavaScript is an open-source guide that adapts the famous &#39;Clean Code&#39; principles to the JavaScript ecosystem.">
 <meta name="twitter:image" content="https://trescout.com/assets/discover/og/clean-code-javascript-en.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Writing clean code with JavaScript",
+  "headline": "Clean Code Guide for JavaScript",
   "inLanguage": "en",
-  "description": "This guide, which adapts clean code principles to the JavaScript language, offers standards for writing readable and maintainable code in software development processes. It combines object-oriented programming and functional programming principles with practical examples.",
+  "description": "Clean Code JavaScript is an open-source guide that adapts the famous 'Clean Code' principles to the JavaScript ecosystem.",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -50,7 +46,7 @@
   "about": {
     "@type": "SoftwareSourceCode",
     "name": "Clean Code Javascript",
-    "codeRepository": "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882"
+    "codeRepository": "https://github.com/ryanmcdermott/clean-code-javascript"
   }
 }
 </script>
@@ -60,19 +56,23 @@
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
-<nav><div class="container nav-inner"><a class="logo-link" href="/en/" aria-label="TreScout Home"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/en/discover/" class="btn btn-ghost">Discover</a><a href="/en/dictionary/" class="btn btn-ghost">Dictionary</a><a href="/en/reports/" class="btn btn-ghost">Reports Archive</a><a href="/en/compare/rss-vs-ai/" class="btn btn-ghost">Compare</a><a href="/discover/clean-code-javascript/" class="btn btn-ghost" aria-label="Switch to Turkish">TR</a><a href="/fr/discover/clean-code-javascript/" class="btn btn-ghost" aria-label="Passer au français">FR</a><a href="/pt/discover/clean-code-javascript/" class="btn btn-ghost" aria-label="Mudar para português">PT</a><a href="/es/discover/clean-code-javascript/" class="btn btn-ghost" aria-label="Cambiar a español">ES</a><a href="/de/discover/clean-code-javascript/" class="btn btn-ghost" aria-label="Auf Deutsch wechseln">DE</a></div></div></nav>
+<nav><div class="container nav-inner"><a class="logo-link" href="/en/" aria-label="TreScout Home"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/en/discover/" class="btn btn-ghost">Discover</a><a href="/en/dictionary/" class="btn btn-ghost">Dictionary</a><a href="/en/reports/" class="btn btn-ghost">Reports Archive</a><a href="/en/compare/rss-vs-ai/" class="btn btn-ghost">Compare</a><a href="/discover/clean-code-javascript/" class="btn btn-ghost" aria-label="TR">TR</a><a href="/fr/discover/clean-code-javascript/" class="btn btn-ghost" aria-label="FR">FR</a><a href="/pt/discover/clean-code-javascript/" class="btn btn-ghost" aria-label="PT">PT</a><a href="/es/discover/clean-code-javascript/" class="btn btn-ghost" aria-label="ES">ES</a><a href="/de/discover/clean-code-javascript/" class="btn btn-ghost" aria-label="DE">DE</a></div></div></nav>
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/en/discover/">← Discover</a>
-<div class="disc-top"><span class="disc-eyebrow">Discover · GitHub · Clean Code Javascript</span><span class="disc-momentum">↑ +27 today</span></div>
-<h1 class="disc-title">Writing clean code with JavaScript</h1>
-<p class="disc-lead">This guide, which adapts clean code principles to the JavaScript language, offers standards for writing readable and maintainable code in software development processes. It combines object-oriented programming and functional programming principles with practical examples.</p>
-<ul class="disc-meta"><li>★ 94,633</li><li>JavaScript</li><li>GitHub Trending · 2026-07-03</li></ul>
-      <section class="disc-sec"><h2>What you get</h2><ul class="disc-wins"><li>Readable and maintainable code standards</li><li>Functional and object-oriented practices</li><li>Configuration that makes debugging easier</li></ul></section>
-      <section class="disc-sec"><h2>Getting started</h2><ul class="disc-links"><li>Official source →</li></ul></section>
+<div class="disc-top"><span class="disc-eyebrow">Discover · GitHub · Clean Code Javascript</span></div>
+<h1 class="disc-title">Clean Code Guide for JavaScript</h1>
+<p class="disc-lead">Clean Code JavaScript is an open-source guide that adapts the famous &#39;Clean Code&#39; principles to the JavaScript ecosystem.</p>
+<ul class="disc-meta"><li>★ 94,633</li><li>GitHub Trending · 2026-07-03</li></ul>
+      <section class="disc-sec"><h2>What does this tool do?</h2><p>Clean Code JavaScript is an open-source guide that adapts Robert C. Martin&#39;s famous &#39;Clean Code&#39; principles to the JavaScript ecosystem. It illustrates standards for writing readable, reusable, and maintainable code with modern JavaScript.</p></section>
+      <section class="disc-sec"><h2>Who it is for</h2><p>Those who want to improve the quality of their JavaScript code and develop maintainable software at professional standards.</p></section>
+      <section class="disc-sec"><h2>What not to expect</h2><p>Complete beginners who do not yet know the JavaScript language even at a basic level.</p></section>
+      <section class="disc-sec"><h2>Highlights</h2><ul class="disc-wins"><li>Adapts traditional software engineering principles to JavaScript.</li><li>Presents bad and good coding practices side-by-side for comparison.</li><li>Provides a wide scope ranging from variable naming to error handling.</li></ul></section>
+      <section class="disc-sec"><h2>First-use flow</h2><ol class="disc-steps"><li>Visit the official GitHub repository to examine the table of contents.</li><li>Read the Bad and Good code examples for the concepts you find particularly challenging.</li><li>Put the principles you have learned into practice by applying them to your own projects.</li></ol></section>
+      <section class="disc-sec"><h2>Safe start</h2><div class="disc-note">The principles in this guide are not absolute rules; they can be adapted according to your team&#39;s existing standards and the requirements of your project.</div></section>
+      <section class="disc-sec"><h2>First task prompt</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Paste this into your AI agent (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Copy prompt">Copy</button></div><p class="disc-ai-text">How to write a cleaner function that takes many parameters in JavaScript?</p></div></section>
       <section class="disc-sec"><h2>Related dictionary terms</h2><div class="disc-related"><a href="/en/dictionary/clean-code/">Clean Code</a></div></section>
-      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Who it is for</span><span class="disc-fact-v">It is suitable for all developers who want to improve code quality and develop more professional JavaScript projects.</span></div><div class="disc-fact"><span class="disc-fact-k">License</span><span class="disc-fact-v">MIT</span></div></div>
-      <section class="disc-sec"><h2>Links</h2><ul class="disc-links"><li><a href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882" target="_blank" rel="noopener">GitHub repository →</a></li><li><a href="https://trescout.com/discover/clean-code-javascript/">Read in Turkish →</a></li></ul></section>
+      <section class="disc-sec"><h2>Links</h2><ul class="disc-links"><li><a href="https://github.com/ryanmcdermott/clean-code-javascript" target="_blank" rel="noopener">GitHub repository →</a></li><li><a href="https://github.com/ryanmcdermott/clean-code-javascript" target="_blank" rel="noopener">Official Clean Code JS README →</a></li><li><a href="https://trescout.com/discover/clean-code-javascript/">Read in Turkish →</a></li></ul></section>
 <p class="disc-disclaimer">TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-07-03: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was <strong>machine-translated</strong> from the Turkish original · the Turkish version prevails.</p>
 <aside class="disc-cta"><p><strong>Get similar discoveries in the daily report.</strong> TreScout scouts GitHub, Hacker News and HuggingFace trends daily, delivering curated summaries.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-en" data-page-type="discover" data-content-slug="clean-code-javascript" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/discover/">All discoveries →</a></aside>
 </article>

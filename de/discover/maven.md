@@ -1,15 +1,34 @@
-# Projektmanagement für Java-Projekte
+# Build-Standard für Java-Projekte
 
-Apache Maven ist ein Projektmanagement- und Verständnistool (Build-Automatisierungstool), das Softwareerstellungsprozesse in Java-basierten Projekten verwaltet. Es nutzt die Projektobjektmodellstruktur, um den Softwareentwicklungslebenszyklus zu standardisieren.
+Maven ist ein leistungsstarkes Werkzeug, das den Build-Prozess, das Abhängigkeitsmanagement und den Projektlebenszyklus in Java-basierten Projekten standardisiert.
 
 - ★ 5.292
-- Java
 - GitHub Trending · 2026-07-04
 
-## Was es bringt
-- Standardisiert Software-Erstellungsprozesse
-- Bietet zentralisierte Verwaltung mit Projektobjektmodell
-- Verwaltet Berichts- und Dokumentationsprozesse
+## Was macht dieses Werkzeug?
+Maven ist ein leistungsstarkes Projektmanagement-Tool, das den Build-Prozess, das Abhängigkeitsmanagement und den Projektlebenszyklus in Java-basierten Projekten standardisiert. Es automatisiert Entwicklungsprozesse, indem es die Projektstruktur über eine POM-Datei (Project Object Model) definiert.
+
+## Für wen ist es?
+Für diejenigen, die komplexe Bibliotheksabhängigkeiten in Java-Projekten verwalten und standardisierte, reproduzierbare Build-Prozesse erstellen möchten.
+
+## Was Sie nicht erwarten sollten
+Für diejenigen, die außerhalb des Java-Ökosystems arbeiten oder nicht standardisierte, vollständig angepasste Build-Schritte benötigen.
+
+## Höhepunkte
+- Lädt Bibliotheksabhängigkeiten automatisch über ein zentrales Repository herunter.
+- Unterteilt die Schritte für das Kompilieren, Testen und Paketieren von Projekten in Standardphasen.
+- Vereinfacht die Verwaltung großer Multi-Modul-Projekte.
+
+## Ablauf für die erste Nutzung
+- Stellen Sie sicher, dass eine kompatible Java-Umgebung auf Ihrem System installiert ist.
+- Laden Sie Apache Maven von der offiziellen Website herunter und fügen Sie den Installationsordner zum Systempfad hinzu.
+- Überprüfen Sie die Installation, indem Sie den Befehl zur Versionsprüfung in Ihrem Terminal ausführen.
+- Bereiten Sie die grundlegende Verzeichnisstruktur mit dem Build-Tool vor, um ein neues Projekt zu starten.
+
+## Sicherer Start
+
+## Erster Prompt
+Wie fügt man einem Maven-Projekt eine neue Abhängigkeit (Dependency) hinzu?
 
 ## Installation
 **macOS (Homebrew)**
@@ -33,11 +52,10 @@ mvn package
 ```
 
 
-## So fangen Sie an
-- Offizielle Quelle →
-
 ## Links
 - GitHub-Repository →
+- Offizielles Maven Repository →
+- Offizielle Maven Website →
 - Auf Türkisch lesen →
 
 ---

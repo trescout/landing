@@ -1,15 +1,34 @@
-# Gérez votre propre bibliothèque de jeux
+# Centralisez votre bibliothèque de jeux
 
-Romm est un gestionnaire de bibliothèque de jeux conçu pour organiser les fichiers de jeu (ROM) et jouer directement via le navigateur, que vous pouvez héberger sur votre propre serveur. Développé avec le langage Python, cet outil offre la possibilité de gérer et de jouer à des collections de jeux avec une interface visuelle.
+Romm est un gestionnaire de bibliothèque de jeux qui vous permet d'organiser votre collection de jeux rétro via une interface web moderne et élégante.
 
 - ★ 12 170
-- Python
 - GitHub Trending · 2026-07-04
 
-## Ce que ça vous apporte
-- Gérez votre collection de jeux via un navigateur
-- Prise en charge du jeu direct dans le navigateur
-- Métadonnées automatiques et amélioration visuelle
+## Que fait cet outil ?
+Romm est un gestionnaire de bibliothèque de jeux auto-hébergé qui vous permet d'organiser votre collection de jeux rétro via une interface web moderne et élégante. Il récupère automatiquement les métadonnées des jeux grâce à l'intégration IGDB.
+
+## Pour qui ?
+Les passionnés de jeux rétro qui souhaitent transformer des fichiers de jeux éparpillés en une archive centrale et visuellement riche.
+
+## À quoi ne faut-il pas s’attendre ?
+Ceux qui souhaitent effectuer des achats de jeux numériques ou qui recherchent un client pour gérer des plateformes actuelles.
+
+## Points forts
+- Offre une interface de bibliothèque moderne accessible via un navigateur.
+- Télécharge automatiquement des informations telles que la jaquette du jeu, la date de sortie et la description.
+- Prend en charge le multi-utilisateur et le suivi de l'historique de jeu.
+
+## Premiers pas
+- Téléchargez les fichiers Docker et Docker Compose nécessaires pour Romm.
+- Générez les clés nécessaires pour l'accès à l'API et ajoutez-les au fichier de configuration.
+- Démarrez le service en montant le répertoire où se trouvent vos fichiers de jeu.
+- Connectez-vous à l'interface web pour lancer le premier scan de la bibliothèque.
+
+## Démarrage prudent
+
+## Premier prompt
+Comment ajouter une nouvelle plateforme (par exemple, SNES) à la bibliothèque Romm ?
 
 ## Installation
 **Obtenir un exemple de fichier de composition**
@@ -27,13 +46,9 @@ docker compose up -d
 ```
 
 
-## Pour commencer
-- Source officielle →
-
-## Termes liés du glossaire
-
 ## Liens
 - Dépôt GitHub →
+- README officiel de Romm →
 - Lire en turc →
 
 ---
