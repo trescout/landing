@@ -1,12 +1,130 @@
 {
   "snapshotVersion": 1,
   "date": "2026-08-27",
-  "capturedAt": "2026-08-27T10:36:53.895Z",
-  "editorial": "Ce rapport contient les tendances qui sont apparues pour la première fois aujourd'hui, sans répéter les enregistrements figurant dans les rapports normaux des 30 derniers jours.",
+  "capturedAt": "2026-08-27T15:00:43.297Z",
+  "editorial": "Ce rapport reprend pour la première fois les tendances qui ont émergé aujourd'hui, sans répéter les enregistrements contenus dans les rapports réguliers des 30 derniers jours.",
   "sections": [
     {
       "sourceName": "github",
-      "items": []
+      "items": [
+        {
+          "title": "zedeus/nitter",
+          "url": "https://github.com/zedeus/nitter",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "Nim · ★ 13 703 · +63 aujourd'hui",
+          "snapshot": {
+            "sourceId": "zedeus/nitter",
+            "capturedAt": "2026-08-27T15:00:44.483Z",
+            "metadata": {
+              "language": "Nim",
+              "popularity": 13703,
+              "engagementCount": 63,
+              "rank": 1,
+              "extra": {
+                "starsToday": 63
+              }
+            }
+          }
+        },
+        {
+          "title": "JetBrains/go-modern-guidelines",
+          "url": "https://github.com/JetBrains/go-modern-guidelines",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "Go · ★ 1 938 · +314 aujourd'hui",
+          "snapshot": {
+            "sourceId": "JetBrains/go-modern-guidelines",
+            "capturedAt": "2026-08-27T15:00:44.483Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 1938,
+              "engagementCount": 314,
+              "rank": 4,
+              "extra": {
+                "starsToday": 314
+              }
+            }
+          }
+        },
+        {
+          "title": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "JavaScript · ★ 92 094 · +133 aujourd'hui",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "thedotmack/claude-mem",
+            "capturedAt": "2026-08-27T15:00:44.483Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 92094,
+              "engagementCount": 133,
+              "rank": 11,
+              "extra": {
+                "starsToday": 133
+              }
+            }
+          }
+        },
+        {
+          "title": "google/googletest",
+          "url": "https://github.com/google/googletest",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "C++ · ★ 38 987 · +4 aujourd'hui",
+          "snapshot": {
+            "sourceId": "google/googletest",
+            "capturedAt": "2026-08-27T15:00:44.483Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 38987,
+              "engagementCount": 4,
+              "rank": 12,
+              "extra": {
+                "starsToday": 4
+              }
+            }
+          }
+        },
+        {
+          "title": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "Python · ★ 73 475 · +125 aujourd'hui",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "ComposioHQ/awesome-claude-skills",
+            "capturedAt": "2026-08-27T15:00:44.483Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 73475,
+              "engagementCount": 125,
+              "rank": 15,
+              "extra": {
+                "starsToday": 125
+              }
+            }
+          }
+        },
+        {
+          "title": "actions/checkout",
+          "url": "https://github.com/actions/checkout",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "TypeScript · ★ 8 678 · +4 aujourd'hui",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "actions/checkout",
+            "capturedAt": "2026-08-27T15:00:44.483Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 8678,
+              "engagementCount": 4,
+              "rank": 16,
+              "extra": {
+                "starsToday": 4
+              }
+            }
+          }
+        }
+      ]
     },
     {
       "sourceName": "hackernews",
@@ -14,20 +132,20 @@
         {
           "title": "Nvidia agrees to acquire Hugging Face for $13B",
           "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
-          "summary": "Nvidia a conclu un accord pour acquérir Hugging Face, une plateforme open source pour les modèles d'IA, pour 13 milliards de dollars. Cette décision renforce la présence du fabricant de matériel Nvidia dans l'écosystème logiciel et son accès aux outils de développement d'IA.",
-          "meta": "1 177 votes · 504 commentaires",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "1 571 votes · 707 commentaires",
           "snapshot": {
             "sourceId": "49458161",
-            "capturedAt": "2026-08-27T10:36:54.121Z",
+            "capturedAt": "2026-08-27T15:00:43.572Z",
             "metadata": {
-              "popularity": 1177,
-              "engagementCount": 504,
+              "popularity": 1571,
+              "engagementCount": 707,
               "discussions": [
                 {
                   "source": "hackernews",
                   "url": "https://news.ycombinator.com/item?id=49458161",
-                  "popularity": 1177,
-                  "engagementCount": 504
+                  "popularity": 1571,
+                  "engagementCount": 707
                 }
               ],
               "rank": 1,
@@ -42,67 +160,31 @@
             {
               "source": "hackernews",
               "url": "https://news.ycombinator.com/item?id=49458161",
-              "popularity": 1177,
-              "engagementCount": 504
-            }
-          ]
-        },
-        {
-          "title": "Tim Curry has died",
-          "url": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
-          "summary": "L'acteur britannique Tim Curry, connu pour ses rôles emblématiques dans des productions telles que The Rocky Horror Picture Show et Ça (It), est décédé à l'âge de 80 ans. Possédant une large base de fans dans le monde du cinéma et du théâtre, l'artiste a donné vie à de nombreux personnages mémorables grâce à son jeu polyvalent.",
-          "meta": "669 votes · 217 commentaires",
-          "snapshot": {
-            "sourceId": "49451448",
-            "capturedAt": "2026-08-27T10:36:54.121Z",
-            "metadata": {
-              "popularity": 669,
-              "engagementCount": 217,
-              "discussions": [
-                {
-                  "source": "hackernews",
-                  "url": "https://news.ycombinator.com/item?id=49451448",
-                  "popularity": 669,
-                  "engagementCount": 217
-                }
-              ],
-              "rank": 4,
-              "extra": {
-                "author": "mykowebhn",
-                "createdAt": "2026-08-26T16:03:37Z",
-                "hnUrl": "https://news.ycombinator.com/item?id=49451448"
-              }
-            }
-          },
-          "discussions": [
-            {
-              "source": "hackernews",
-              "url": "https://news.ycombinator.com/item?id=49451448",
-              "popularity": 669,
-              "engagementCount": 217
+              "popularity": 1571,
+              "engagementCount": 707
             }
           ]
         },
         {
           "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
           "url": "https://github.com/SenteLabsAI/OpenExecutive",
-          "summary": "Après qu'une entreprise a licencié ses développeurs pour les remplacer par de l'intelligence artificielle, des développeurs ont créé OpenExecutive, un gestionnaire d'IA open source qui automatise les processus de gestion d'entreprise. Ce projet vise à numériser les processus de gestion en transférant les mécanismes de prise de décision institutionnelle vers une structure basée sur le code.",
-          "meta": "630 votes · 396 commentaires",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "827 votes · 557 commentaires",
           "snapshot": {
             "sourceId": "49458418",
-            "capturedAt": "2026-08-27T10:36:54.121Z",
+            "capturedAt": "2026-08-27T15:00:43.572Z",
             "metadata": {
-              "popularity": 630,
-              "engagementCount": 396,
+              "popularity": 827,
+              "engagementCount": 557,
               "discussions": [
                 {
                   "source": "hackernews",
                   "url": "https://news.ycombinator.com/item?id=49458418",
-                  "popularity": 630,
-                  "engagementCount": 396
+                  "popularity": 827,
+                  "engagementCount": 557
                 }
               ],
-              "rank": 5,
+              "rank": 2,
               "extra": {
                 "author": "GrumpySciGuy",
                 "createdAt": "2026-08-27T01:46:22Z",
@@ -114,8 +196,116 @@
             {
               "source": "hackernews",
               "url": "https://news.ycombinator.com/item?id=49458418",
-              "popularity": 630,
-              "engagementCount": 396
+              "popularity": 827,
+              "engagementCount": 557
+            }
+          ]
+        },
+        {
+          "title": "U.S. State Department pauses immigrant visa applications",
+          "url": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "733 votes · 1 082 commentaires",
+          "snapshot": {
+            "sourceId": "49452709",
+            "capturedAt": "2026-08-27T15:00:43.572Z",
+            "metadata": {
+              "popularity": 733,
+              "engagementCount": 1082,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49452709",
+                  "popularity": 733,
+                  "engagementCount": 1082
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "sss111",
+                "createdAt": "2026-08-26T17:22:16Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49452709"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49452709",
+              "popularity": 733,
+              "engagementCount": 1082
+            }
+          ]
+        },
+        {
+          "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+          "url": "https://github.com/tailscale/tailcat",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "631 votes · 114 commentaires",
+          "snapshot": {
+            "sourceId": "49452990",
+            "capturedAt": "2026-08-27T15:00:43.572Z",
+            "metadata": {
+              "popularity": 631,
+              "engagementCount": 114,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49452990",
+                  "popularity": 631,
+                  "engagementCount": 114
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "nderjung",
+                "createdAt": "2026-08-26T17:42:22Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49452990"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49452990",
+              "popularity": 631,
+              "engagementCount": 114
+            }
+          ]
+        },
+        {
+          "title": "Mechanical Turk shutting down September 30",
+          "url": "https://www.mturk.com/",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "473 votes · 145 commentaires",
+          "snapshot": {
+            "sourceId": "49457545",
+            "capturedAt": "2026-08-27T15:00:43.572Z",
+            "metadata": {
+              "popularity": 473,
+              "engagementCount": 145,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49457545",
+                  "popularity": 473,
+                  "engagementCount": 145
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "tmp10423288442",
+                "createdAt": "2026-08-26T23:55:44Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49457545"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49457545",
+              "popularity": 473,
+              "engagementCount": 145
             }
           ]
         }
@@ -129,102 +319,103 @@
       "sourceName": "hfpapers",
       "items": [
         {
-          "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
-          "url": "https://huggingface.co/papers/2608.23564",
-          "summary": "SWE Refactor Bench est un nouvel outil d'évaluation qui mesure la capacité des agents logiciels à effectuer des migrations technologiques complexes (stack migration) à travers l'ensemble d'un dépôt. En surmontant les problèmes d'aveuglement causés par les tests actuels, il oblige les agents non seulement à réussir les tests, mais aussi à transformer réellement la base de code.",
-          "meta": "7 j'aime · 1 commentaires",
+          "title": "Skill Issue: Are Skills Language-Invariant in LLMs?",
+          "url": "https://huggingface.co/papers/2608.25832",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "1 j'aime · 1 commentaires",
           "snapshot": {
-            "sourceId": "2608.23564",
-            "capturedAt": "2026-08-27T10:36:53.963Z",
+            "sourceId": "2608.25832",
+            "capturedAt": "2026-08-27T15:00:43.398Z",
             "metadata": {
-              "popularity": 7,
+              "popularity": 1,
               "engagementCount": 1,
               "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.25832",
+                "publishedAt": "2026-08-26T00:00:00.000Z",
+                "githubRepo": "https://github.com/TextArena/TextArena"
+              }
+            }
+          }
+        },
+        {
+          "title": "Prefix Sliding for efficient test-time scaling",
+          "url": "https://huggingface.co/papers/2608.26070",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "1 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2608.26070",
+            "capturedAt": "2026-08-27T15:00:43.398Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.26070",
+                "publishedAt": "2026-08-26T00:00:00.000Z",
+                "githubRepo": "https://github.com/Muennighoff/prefix-sliding",
+                "githubStars": 1
+              }
+            }
+          }
+        },
+        {
+          "title": "Pushing the Limits of High-Resolution Weather Forecasting through Data Scaling",
+          "url": "https://huggingface.co/papers/2608.14652",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "4 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2608.14652",
+            "capturedAt": "2026-08-27T15:00:43.398Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.14652",
+                "publishedAt": "2026-07-31T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "LibriBrain100: One Hundred Hours of Broad and Deep MEG Data for Neural Speech Decoding at Scale",
+          "url": "https://huggingface.co/papers/2608.25204",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "2 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2608.25204",
+            "capturedAt": "2026-08-27T15:00:43.398Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.25204",
+                "publishedAt": "2026-08-25T00:00:00.000Z",
+                "githubRepo": "https://github.com/neural-processing-lab/pnpl",
+                "githubStars": 13
+              }
+            }
+          }
+        },
+        {
+          "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
+          "url": "https://huggingface.co/papers/2608.23564",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "12 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2608.23564",
+            "capturedAt": "2026-08-27T15:00:43.398Z",
+            "metadata": {
+              "popularity": 12,
+              "engagementCount": 1,
+              "rank": 5,
               "extra": {
                 "arxivUrl": "https://arxiv.org/abs/2608.23564",
                 "publishedAt": "2026-08-24T00:00:00.000Z",
                 "githubRepo": "https://github.com/Einsia/SWE-Refactor-Bench",
                 "githubStars": 22
-              }
-            }
-          }
-        },
-        {
-          "title": "A Modular Agent for Reliable and Auditable Spatial Relation Verification in CT Scans",
-          "url": "https://huggingface.co/papers/2608.21140",
-          "summary": "L'agent modulaire développé pour la vérification des relations spatiales dans les tomodensitométries (TDM) vise à améliorer la capacité de raisonnement visuel des systèmes d'imagerie médicale. Il cherche à résoudre les erreurs rencontrées par les modèles vision-langage actuels lors du raisonnement spatial, grâce à une structure vérifiable et fiable.",
-          "meta": "0 j'aime · 1 commentaires",
-          "snapshot": {
-            "sourceId": "2608.21140",
-            "capturedAt": "2026-08-27T10:36:53.963Z",
-            "metadata": {
-              "popularity": 0,
-              "engagementCount": 1,
-              "rank": 2,
-              "extra": {
-                "arxivUrl": "https://arxiv.org/abs/2608.21140",
-                "publishedAt": "2026-08-21T00:00:00.000Z",
-                "githubRepo": "https://github.com/DeveloperNomis/MICCAI-Medical-Agent",
-                "githubStars": 0
-              }
-            }
-          }
-        },
-        {
-          "title": "RetrievalRouter: Joint Modality and Architecture Selection for Document Retrieval",
-          "url": "https://huggingface.co/papers/2608.25625",
-          "summary": "RetrievalRouter est un système qui sélectionne automatiquement la méthode et l'architecture nécessaires aux processus d'accès aux documents. Dans les documents complexes utilisés dans des domaines tels que la finance et la santé, il détermine le pipeline d'accès le plus approprié en optimisant l'équilibre entre vitesse et précision.",
-          "meta": "1 j'aime · 1 commentaires",
-          "snapshot": {
-            "sourceId": "2608.25625",
-            "capturedAt": "2026-08-27T10:36:53.963Z",
-            "metadata": {
-              "popularity": 1,
-              "engagementCount": 1,
-              "rank": 3,
-              "extra": {
-                "arxivUrl": "https://arxiv.org/abs/2608.25625",
-                "publishedAt": "2026-08-26T00:00:00.000Z",
-                "githubRepo": "https://github.com/emrekuruu/retrieval-router",
-                "githubStars": 0
-              }
-            }
-          }
-        },
-        {
-          "title": "Real-TurnTurk: A Multimodal Turkish Corpus for Turn-Taking Prediction",
-          "url": "https://huggingface.co/papers/2608.22071",
-          "summary": "Real-TurnTurk est un ensemble de données multimodal développé pour modéliser la dynamique de prise de parole (turn-taking) dans les conversations naturelles en turc. Incluant des interactions binaires non scénarisées, ce travail permet aux systèmes de dialogue simultané de prédire plus précisément le flux de la parole humaine.",
-          "meta": "0 j'aime · 1 commentaires",
-          "snapshot": {
-            "sourceId": "2608.22071",
-            "capturedAt": "2026-08-27T10:36:53.963Z",
-            "metadata": {
-              "popularity": 0,
-              "engagementCount": 1,
-              "rank": 4,
-              "extra": {
-                "arxivUrl": "https://arxiv.org/abs/2608.22071",
-                "publishedAt": "2026-08-22T00:00:00.000Z"
-              }
-            }
-          }
-        },
-        {
-          "title": "Is Next-Chunk Reasoning RL Really Better than SFT? Revisiting Training Strategies under no-CoT Data",
-          "url": "https://huggingface.co/papers/2608.23256",
-          "summary": "Une nouvelle recherche propose la méthode d'apprentissage par renforcement du raisonnement par segments suivants (next-chunk reasoning reinforcement learning) pour entraîner des modèles avec des données ne contenant pas d'étiquettes de chaîne de pensée (chain-of-thought). Cette approche permet au modèle de générer des traces de raisonnement implicites, offrant une stratégie d'entraînement alternative aux méthodes de réglage fin supervisé (supervised fine-tuning).",
-          "meta": "15 j'aime · 1 commentaires",
-          "snapshot": {
-            "sourceId": "2608.23256",
-            "capturedAt": "2026-08-27T10:36:53.963Z",
-            "metadata": {
-              "popularity": 15,
-              "engagementCount": 1,
-              "rank": 5,
-              "extra": {
-                "arxivUrl": "https://arxiv.org/abs/2608.23256",
-                "publishedAt": "2026-08-24T00:00:00.000Z"
               }
             }
           }
@@ -237,21 +428,21 @@
         {
           "title": "Changes to SourceHut's terms of service regarding LLMs",
           "url": "https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/",
-          "summary": "La plateforme de développement logiciel SourceHut a mis à jour ses conditions d'utilisation pour interdire l'utilisation non autorisée du contenu de la plateforme afin d'entraîner des modèles d'intelligence artificielle générative (generative AI). Avec ce changement, l'objectif est de créer un bouclier juridique contre la collecte à des fins commerciales par les entreprises d'IA du code et des données partagés par les utilisateurs.",
-          "meta": "27 votes · 6 commentaires",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "77 votes · 63 commentaires",
           "snapshot": {
             "sourceId": "iqgrsx",
-            "capturedAt": "2026-08-27T10:36:54.138Z",
+            "capturedAt": "2026-08-27T15:00:43.491Z",
             "metadata": {
-              "popularity": 27,
-              "engagementCount": 6,
+              "popularity": 77,
+              "engagementCount": 63,
               "rank": 1,
               "discussions": [
                 {
                   "source": "lobsters",
                   "url": "https://lobste.rs/s/iqgrsx/changes_sourcehut_s_terms_service",
-                  "popularity": 27,
-                  "engagementCount": 6
+                  "popularity": 77,
+                  "engagementCount": 63
                 }
               ],
               "extra": {
@@ -266,84 +457,82 @@
             {
               "source": "lobsters",
               "url": "https://lobste.rs/s/iqgrsx/changes_sourcehut_s_terms_service",
-              "popularity": 27,
-              "engagementCount": 6
+              "popularity": 77,
+              "engagementCount": 63
             }
           ]
         },
         {
-          "title": "Haiku R1/beta6 released",
-          "url": "https://www.haiku-os.org/get-haiku/r1beta6/release-notes/",
-          "summary": "Le projet de système d'exploitation open source Haiku a publié la version R1/beta6. La mise à jour améliore la stabilité du système tout en apportant des améliorations aux pilotes matériels et à l'interface utilisateur.",
-          "meta": "99 votes · 5 commentaires",
+          "title": "Announcing our first Maintainers in Residence",
+          "url": "https://blog.rust-lang.org/2026/08/26/announcing-our-first-maintainers-in-residence/",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "33 votes · 0 commentaires",
           "snapshot": {
-            "sourceId": "lt9i0j",
-            "capturedAt": "2026-08-27T10:36:54.138Z",
+            "sourceId": "oshbjt",
+            "capturedAt": "2026-08-27T15:00:43.491Z",
             "metadata": {
-              "popularity": 99,
-              "engagementCount": 5,
+              "popularity": 33,
+              "engagementCount": 0,
               "rank": 2,
               "discussions": [
                 {
                   "source": "lobsters",
-                  "url": "https://lobste.rs/s/lt9i0j/haiku_r1_beta6_released",
-                  "popularity": 99,
-                  "engagementCount": 5
+                  "url": "https://lobste.rs/s/oshbjt/announcing_our_first_maintainers",
+                  "popularity": 33,
+                  "engagementCount": 0
                 }
               ],
               "extra": {
                 "tags": [
-                  "osdev",
-                  "release"
+                  "rust"
                 ],
-                "createdAt": "2026-08-26T11:22:23.251-05:00"
+                "createdAt": "2026-08-27T03:44:13.994-05:00"
               }
             }
           },
           "discussions": [
             {
               "source": "lobsters",
-              "url": "https://lobste.rs/s/lt9i0j/haiku_r1_beta6_released",
-              "popularity": 99,
-              "engagementCount": 5
+              "url": "https://lobste.rs/s/oshbjt/announcing_our_first_maintainers",
+              "popularity": 33,
+              "engagementCount": 0
             }
           ]
         },
         {
-          "title": "Merchants of Insecurity",
-          "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
-          "summary": "Le concept de « marchands de l'insécurité » (merchants of insecurity) critique la manière dont les entreprises de cybersécurité positionnent leurs produits avec des stratégies marketing axées sur la peur. Cette approche oriente les dépenses de sécurité dans le secteur logiciel en créant une perception de besoin constant basée sur l'incertitude, plutôt que de gérer les risques réels.",
-          "meta": "82 votes · 5 commentaires",
+          "title": "Please stop flooding our projects with AI slop to furnish your CV",
+          "url": "https://neilalexander.dev/2026/06/30/flooding-contributions.html",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "15 votes · 1 commentaires",
           "snapshot": {
-            "sourceId": "eove8s",
-            "capturedAt": "2026-08-27T10:36:54.138Z",
+            "sourceId": "rzvdqo",
+            "capturedAt": "2026-08-27T15:00:43.491Z",
             "metadata": {
-              "popularity": 82,
-              "engagementCount": 5,
+              "popularity": 15,
+              "engagementCount": 1,
               "rank": 3,
               "discussions": [
                 {
                   "source": "lobsters",
-                  "url": "https://lobste.rs/s/eove8s/merchants_insecurity",
-                  "popularity": 82,
-                  "engagementCount": 5
+                  "url": "https://lobste.rs/s/rzvdqo/please_stop_flooding_our_projects_with_ai",
+                  "popularity": 15,
+                  "engagementCount": 1
                 }
               ],
               "extra": {
                 "tags": [
-                  "osdev",
-                  "security"
+                  "vibecoding"
                 ],
-                "createdAt": "2026-08-26T09:30:41.443-05:00"
+                "createdAt": "2026-08-27T06:36:05.633-05:00"
               }
             }
           },
           "discussions": [
             {
               "source": "lobsters",
-              "url": "https://lobste.rs/s/eove8s/merchants_insecurity",
-              "popularity": 82,
-              "engagementCount": 5
+              "url": "https://lobste.rs/s/rzvdqo/please_stop_flooding_our_projects_with_ai",
+              "popularity": 15,
+              "engagementCount": 1
             }
           ]
         }
@@ -354,10 +543,5 @@
       "items": []
     }
   ],
-  "glossary": [
-    {
-      "term": "OpenExecutive",
-      "explanation": "Un système de gestion d'intelligence artificielle open source conçu pour automatiser les processus de gestion d'entreprise."
-    }
-  ]
+  "glossary": []
 }

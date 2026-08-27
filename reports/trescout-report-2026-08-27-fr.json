@@ -1,27 +1,27 @@
 {
   "snapshotVersion": 1,
   "date": "2026-08-27",
-  "capturedAt": "2026-08-27T10:36:53.895Z",
-  "editorial": "Dans l'écosystème de l'intelligence artificielle, les acquisitions à grande échelle et les modèles de langage rapides de nouvelle génération (flash models) sont aujourd'hui au premier plan. Les spéculations sur une fusion entre Nvidia et Hugging Face, ainsi que les tests de compétence des agents de codage (coding agents) sur l'architecture logicielle, constituent le sujet principal de la journée.",
+  "capturedAt": "2026-08-27T15:00:43.297Z",
+  "editorial": "Aujourd'hui, la fusion Nvidia et Hugging Face et les études universitaires sur l'indépendance linguistique des capacités des grands modèles de langage (LLM) se démarquent sur l'agenda technologique. Dans le monde du logiciel, le développement d’alternatives open source à l’approche de gestion centrée sur l’intelligence artificielle et la mise à jour des conditions de service sur les plateformes de code source constituent une tendance remarquable.",
   "sections": [
     {
       "sourceName": "github",
       "items": [
         {
-          "title": "tt-a1i/archify",
-          "url": "https://github.com/tt-a1i/archify",
-          "summary": "Archify est une compétence d'agent (agent skill) d'intelligence artificielle qui génère des diagrammes techniques, tels que des organigrammes architecturaux et des cycles de données, sous forme de fichiers HTML vérifiables et animés. Utilisé pour visualiser des conceptions de systèmes complexes, cet outil prend en charge l'exportation des résultats en haute résolution.",
-          "meta": "JavaScript · ★ 20 599 · +1 035 aujourd'hui",
+          "title": "zedeus/nitter",
+          "url": "https://github.com/zedeus/nitter",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "Nim · ★ 13 703 · +63 aujourd'hui",
           "snapshot": {
-            "sourceId": "tt-a1i/archify",
-            "capturedAt": "2026-08-27T10:36:55.017Z",
+            "sourceId": "zedeus/nitter",
+            "capturedAt": "2026-08-27T15:00:44.483Z",
             "metadata": {
-              "language": "JavaScript",
-              "popularity": 20599,
-              "engagementCount": 1035,
+              "language": "Nim",
+              "popularity": 13703,
+              "engagementCount": 63,
               "rank": 1,
               "extra": {
-                "starsToday": 1035
+                "starsToday": 63
               }
             }
           }
@@ -29,18 +29,56 @@
         {
           "title": "freestylefly/awesome-gpt-image-2",
           "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-          "summary": "Awesome-gpt-image-2 est une bibliothèque qui adopte l'approche « prompt as code » (invite en tant que code) pour les modèles de génération d'images. Avec plus de 530 exemples issus de l'ingénierie inverse et plus de 20 modèles industriels, elle vise à améliorer la qualité des résultats obtenus par l'intelligence artificielle.",
-          "meta": "JavaScript · ★ 22 398 · +4 050 aujourd'hui",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "JavaScript · ★ 22 709 · +2 093 aujourd'hui",
           "snapshot": {
             "sourceId": "freestylefly/awesome-gpt-image-2",
-            "capturedAt": "2026-08-27T10:36:55.017Z",
+            "capturedAt": "2026-08-27T15:00:44.483Z",
             "metadata": {
               "language": "JavaScript",
-              "popularity": 22398,
-              "engagementCount": 4050,
+              "popularity": 22709,
+              "engagementCount": 2093,
               "rank": 2,
               "extra": {
-                "starsToday": 4050
+                "starsToday": 2093
+              }
+            }
+          }
+        },
+        {
+          "title": "tt-a1i/archify",
+          "url": "https://github.com/tt-a1i/archify",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "JavaScript · ★ 21 754 · +4 260 aujourd'hui",
+          "snapshot": {
+            "sourceId": "tt-a1i/archify",
+            "capturedAt": "2026-08-27T15:00:44.483Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 21754,
+              "engagementCount": 4260,
+              "rank": 3,
+              "extra": {
+                "starsToday": 4260
+              }
+            }
+          }
+        },
+        {
+          "title": "JetBrains/go-modern-guidelines",
+          "url": "https://github.com/JetBrains/go-modern-guidelines",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "Go · ★ 1 938 · +314 aujourd'hui",
+          "snapshot": {
+            "sourceId": "JetBrains/go-modern-guidelines",
+            "capturedAt": "2026-08-27T15:00:44.483Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 1938,
+              "engagementCount": 314,
+              "rank": 4,
+              "extra": {
+                "starsToday": 314
               }
             }
           }
@@ -48,208 +86,18 @@
         {
           "title": "anthropics/claude-plugins-official",
           "url": "https://github.com/anthropics/claude-plugins-official",
-          "summary": "Claude Plugins, publié par Anthropic, est un répertoire contenant les plugins officiels développés pour l'outil de codage assisté par IA, Claude Code. Cette ressource rassemble des outils approuvés qui permettent aux développeurs d'ajouter des fonctionnalités personnalisées à leurs projets.",
-          "meta": "Python · ★ 34 487 · +308 aujourd'hui",
+          "summary": "Anthropic a créé un répertoire officiel de plugins de haute qualité développés pour le modèle d'intelligence artificielle Claude. Cette ressource regroupe dans un centre unique des outils fonctionnels que les développeurs peuvent intégrer à l'application Claude Code.",
+          "meta": "Python · ★ 34 554 · +290 aujourd'hui",
           "snapshot": {
             "sourceId": "anthropics/claude-plugins-official",
-            "capturedAt": "2026-08-27T10:36:55.017Z",
+            "capturedAt": "2026-08-27T15:00:44.483Z",
             "metadata": {
               "language": "Python",
-              "popularity": 34487,
-              "engagementCount": 308,
-              "rank": 3,
-              "extra": {
-                "starsToday": 308
-              }
-            }
-          }
-        },
-        {
-          "title": "Alishahryar1/free-claude-code",
-          "url": "https://github.com/Alishahryar1/free-claude-code",
-          "summary": "Développé par Alishahryar1, free-claude-code est un outil qui permet d'accéder gratuitement à divers modèles d'intelligence artificielle via le terminal ou un environnement de développement intégré (IDE). Il offre aux utilisateurs la possibilité d'utiliser des modèles populaires tels que Claude Code, Codex et OpenCode avec des limites de jetons (tokens) gratuites.",
-          "meta": "Python · ★ 50 694 · +536 aujourd'hui",
-          "snapshot": {
-            "sourceId": "Alishahryar1/free-claude-code",
-            "capturedAt": "2026-08-27T10:36:55.017Z",
-            "metadata": {
-              "language": "Python",
-              "popularity": 50694,
-              "engagementCount": 536,
-              "rank": 4,
-              "extra": {
-                "starsToday": 536
-              }
-            }
-          }
-        },
-        {
-          "title": "MadsLorentzen/ai-job-search",
-          "url": "https://github.com/MadsLorentzen/ai-job-search",
-          "summary": "Développé par MadsLorentzen, ai-job-search est un cadre (framework) de recherche d'emploi assisté par IA basé sur Claude Code. Permettant aux utilisateurs de personnaliser leurs CV, de préparer des lettres de motivation et de se préparer aux entretiens, cet outil effectue toutes les opérations localement sur l'ordinateur.",
-          "meta": "Python · ★ 36 973 · +1 300 aujourd'hui",
-          "snapshot": {
-            "sourceId": "MadsLorentzen/ai-job-search",
-            "capturedAt": "2026-08-27T10:36:55.017Z",
-            "metadata": {
-              "language": "Python",
-              "popularity": 36973,
-              "engagementCount": 1300,
+              "popularity": 34554,
+              "engagementCount": 290,
               "rank": 5,
               "extra": {
-                "starsToday": 1300
-              }
-            }
-          }
-        },
-        {
-          "title": "AgriciDaniel/claude-obsidian",
-          "url": "https://github.com/AgriciDaniel/claude-obsidian",
-          "summary": "Claude-obsidian est un outil de gestion des connaissances personnelles (personal knowledge management) assisté par IA qui fonctionne sur l'application de prise de notes Obsidian. En utilisant le modèle d'IA Claude, il analyse automatiquement le contenu ajouté, le relie et crée un réseau d'informations organisé au format Markdown.",
-          "meta": "Python · ★ 13 686 · +810 aujourd'hui",
-          "snapshot": {
-            "sourceId": "AgriciDaniel/claude-obsidian",
-            "capturedAt": "2026-08-27T10:36:55.017Z",
-            "metadata": {
-              "language": "Python",
-              "popularity": 13686,
-              "engagementCount": 810,
-              "rank": 6,
-              "extra": {
-                "starsToday": 810
-              }
-            }
-          }
-        },
-        {
-          "title": "basecamp/omarchy",
-          "url": "https://github.com/basecamp/omarchy",
-          "summary": "Omarchy, développé par Basecamp, est un outil de configuration visuellement moderne et basé sur des normes spécifiques pour les systèmes d'exploitation Linux. Ce projet, basé sur des scripts shell, permet aux utilisateurs de rendre leurs installations de système d'exploitation plus organisées et cohérentes.",
-          "meta": "Shell · ★ 32 329 · +1 024 aujourd'hui",
-          "snapshot": {
-            "sourceId": "basecamp/omarchy",
-            "capturedAt": "2026-08-27T10:36:55.017Z",
-            "metadata": {
-              "language": "Shell",
-              "popularity": 32329,
-              "engagementCount": 1024,
-              "rank": 7,
-              "extra": {
-                "starsToday": 1024
-              }
-            }
-          }
-        },
-        {
-          "title": "rohitg00/ai-engineering-from-scratch",
-          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-          "summary": "Conçue pour ceux qui souhaitent débuter dans le domaine de l'ingénierie de l'intelligence artificielle (AI engineering), cette ressource propose un processus de bout en bout, du développement des modèles avec le langage de programmation Python jusqu'à leur mise en production. En combinant connaissances théoriques et applications pratiques, elle permet aux développeurs de construire leurs propres produits basés sur l'IA.",
-          "meta": "Python · ★ 49 863 · +838 aujourd'hui",
-          "snapshot": {
-            "sourceId": "rohitg00/ai-engineering-from-scratch",
-            "capturedAt": "2026-08-27T10:36:55.017Z",
-            "metadata": {
-              "language": "Python",
-              "popularity": 49863,
-              "engagementCount": 838,
-              "rank": 8,
-              "extra": {
-                "starsToday": 838
-              }
-            }
-          }
-        },
-        {
-          "title": "tinyhumansai/openhuman",
-          "url": "https://github.com/tinyhumansai/openhuman",
-          "summary": "Développé en langage Rust, OpenHuman est un assistant basé sur l'IA qui crée une mémoire personnalisée pour l'utilisateur en stockant les données personnelles dans un environnement local. Le logiciel automatise les flux de travail complexes en gérant des agents d'IA effectuant différentes tâches et soutient les processus de recherche approfondie.",
-          "meta": "Rust · ★ 38 420 · +525 aujourd'hui",
-          "snapshot": {
-            "sourceId": "tinyhumansai/openhuman",
-            "capturedAt": "2026-08-27T10:36:55.017Z",
-            "metadata": {
-              "language": "Rust",
-              "popularity": 38420,
-              "engagementCount": 525,
-              "rank": 9,
-              "extra": {
-                "starsToday": 525
-              }
-            }
-          }
-        },
-        {
-          "title": "DietrichGebert/ponytail",
-          "url": "https://github.com/DietrichGebert/ponytail",
-          "summary": "Ponytail est une bibliothèque JavaScript qui permet aux agents d'intelligence artificielle de produire des solutions avec un minimum d'effort dans les processus de développement logiciel. En empêchant l'écriture de code inutile, elle vise à ce que les systèmes fonctionnent de la manière la plus courte et la plus simple possible.",
-          "meta": "JavaScript · ★ 113 323 · +1 598 aujourd'hui",
-          "snapshot": {
-            "sourceId": "DietrichGebert/ponytail",
-            "capturedAt": "2026-08-27T10:36:55.017Z",
-            "metadata": {
-              "language": "JavaScript",
-              "popularity": 113323,
-              "engagementCount": 1598,
-              "rank": 10,
-              "extra": {
-                "starsToday": 1598
-              }
-            }
-          }
-        },
-        {
-          "title": "anthropics/claude-plugins-community",
-          "url": "https://github.com/anthropics/claude-plugins-community",
-          "summary": "Le répertoire de plugins Claude, partagé par Anthropics, rassemble les plugins communautaires développés pour l'outil de codage assisté par IA Claude Code et Claude Cowork. Cette plateforme permet aux développeurs de partager leurs propres outils afin d'étendre les capacités des agents d'intelligence artificielle.",
-          "meta": "Python · ★ 2 339 · +538 aujourd'hui",
-          "snapshot": {
-            "sourceId": "anthropics/claude-plugins-community",
-            "capturedAt": "2026-08-27T10:36:55.017Z",
-            "metadata": {
-              "language": "Python",
-              "popularity": 2339,
-              "engagementCount": 538,
-              "rank": 11,
-              "extra": {
-                "starsToday": 538
-              }
-            }
-          }
-        },
-        {
-          "title": "ConardLi/garden-skills",
-          "url": "https://github.com/ConardLi/garden-skills",
-          "summary": "Garden-skills est une collection de compétences (skills) open source développée pour diverses fonctions telles que la conception web, l'acquisition d'informations et la création visuelle. Elle vise à accélérer les processus de développement en regroupant des fonctions modulaires que les développeurs de logiciels peuvent intégrer dans leurs projets.",
-          "meta": "CSS · ★ 11 139 · +113 aujourd'hui",
-          "snapshot": {
-            "sourceId": "ConardLi/garden-skills",
-            "capturedAt": "2026-08-27T10:36:55.017Z",
-            "metadata": {
-              "language": "CSS",
-              "popularity": 11139,
-              "engagementCount": 113,
-              "rank": 12,
-              "extra": {
-                "starsToday": 113
-              }
-            }
-          }
-        },
-        {
-          "title": "browser-use/browser-use",
-          "url": "https://github.com/browser-use/browser-use",
-          "summary": "Browser-use est une bibliothèque Python qui permet aux agents d'intelligence artificielle d'interagir avec des sites web comme le feraient des humains. Cet outil, qui contrôle le navigateur pour automatiser les processus basés sur le web, permet aux IA d'exécuter des tâches en ligne complexes.",
-          "meta": "Python · ★ 111 348 · +149 aujourd'hui",
-          "snapshot": {
-            "sourceId": "browser-use/browser-use",
-            "capturedAt": "2026-08-27T10:36:55.017Z",
-            "metadata": {
-              "language": "Python",
-              "popularity": 111348,
-              "engagementCount": 149,
-              "rank": 13,
-              "extra": {
-                "starsToday": 149
+                "starsToday": 290
               }
             }
           }
@@ -257,18 +105,151 @@
         {
           "title": "K-Dense-AI/scientific-agent-skills",
           "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-          "summary": "Scientific-agent-skills est une bibliothèque contenant 163 compétences (skills) vérifiées et plus de 100 bases de données scientifiques, spécialisant les agents d'IA dans les processus de recherche scientifique. Elle permet aux agents travaillant dans les domaines de la biologie, de la chimie et de la médecine d'effectuer des analyses de données de manière compatible avec des plateformes telles que l'éditeur de code Cursor ou l'assistant IA Claude Code.",
-          "meta": "Python · ★ 34 970 · +138 aujourd'hui",
+          "summary": "Scientific-agent-skills propose 163 compétences prêtes à l'emploi et plus de 100 bases de données scientifiques qui spécialisent les agents d'intelligence artificielle dans les processus de recherche scientifique. Cette bibliothèque, qui travaille dans les domaines de la biologie, de la chimie et de la médecine, peut être intégrée à divers outils de développement comme l'éditeur de code Cursor ou l'assistant d'intelligence artificielle Claude Code.",
+          "meta": "Python · ★ 35 095 · +494 aujourd'hui",
           "snapshot": {
             "sourceId": "K-Dense-AI/scientific-agent-skills",
-            "capturedAt": "2026-08-27T10:36:55.017Z",
+            "capturedAt": "2026-08-27T15:00:44.483Z",
             "metadata": {
               "language": "Python",
-              "popularity": 34970,
-              "engagementCount": 138,
-              "rank": 14,
+              "popularity": 35095,
+              "engagementCount": 494,
+              "rank": 6,
               "extra": {
-                "starsToday": 138
+                "starsToday": 494
+              }
+            }
+          }
+        },
+        {
+          "title": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "JavaScript · ★ 113 609 · +1 610 aujourd'hui",
+          "snapshot": {
+            "sourceId": "DietrichGebert/ponytail",
+            "capturedAt": "2026-08-27T15:00:44.483Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 113609,
+              "engagementCount": 1610,
+              "rank": 7,
+              "extra": {
+                "starsToday": 1610
+              }
+            }
+          }
+        },
+        {
+          "title": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "Python · ★ 51 992 · +1 284 aujourd'hui",
+          "snapshot": {
+            "sourceId": "calesthio/OpenMontage",
+            "capturedAt": "2026-08-27T15:00:44.483Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 51992,
+              "engagementCount": 1284,
+              "rank": 8,
+              "extra": {
+                "starsToday": 1284
+              }
+            }
+          }
+        },
+        {
+          "title": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "Python · ★ 49 965 · +547 aujourd'hui",
+          "snapshot": {
+            "sourceId": "rohitg00/ai-engineering-from-scratch",
+            "capturedAt": "2026-08-27T15:00:44.483Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 49965,
+              "engagementCount": 547,
+              "rank": 9,
+              "extra": {
+                "starsToday": 547
+              }
+            }
+          }
+        },
+        {
+          "title": "ConardLi/garden-skills",
+          "url": "https://github.com/ConardLi/garden-skills",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "CSS · ★ 11 213 · +413 aujourd'hui",
+          "snapshot": {
+            "sourceId": "ConardLi/garden-skills",
+            "capturedAt": "2026-08-27T15:00:44.483Z",
+            "metadata": {
+              "language": "CSS",
+              "popularity": 11213,
+              "engagementCount": 413,
+              "rank": 10,
+              "extra": {
+                "starsToday": 413
+              }
+            }
+          }
+        },
+        {
+          "title": "thedotmack/claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "JavaScript · ★ 92 094 · +133 aujourd'hui",
+          "snapshot": {
+            "sourceId": "thedotmack/claude-mem",
+            "capturedAt": "2026-08-27T15:00:44.483Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 92094,
+              "engagementCount": 133,
+              "rank": 11,
+              "extra": {
+                "starsToday": 133
+              }
+            }
+          }
+        },
+        {
+          "title": "google/googletest",
+          "url": "https://github.com/google/googletest",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "C++ · ★ 38 987 · +4 aujourd'hui",
+          "snapshot": {
+            "sourceId": "google/googletest",
+            "capturedAt": "2026-08-27T15:00:44.483Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 38987,
+              "engagementCount": 4,
+              "rank": 12,
+              "extra": {
+                "starsToday": 4
+              }
+            }
+          }
+        },
+        {
+          "title": "AgriciDaniel/claude-obsidian",
+          "url": "https://github.com/AgriciDaniel/claude-obsidian",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "Python · ★ 13 793 · +631 aujourd'hui",
+          "snapshot": {
+            "sourceId": "AgriciDaniel/claude-obsidian",
+            "capturedAt": "2026-08-27T15:00:44.483Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 13793,
+              "engagementCount": 631,
+              "rank": 13,
+              "extra": {
+                "starsToday": 631
               }
             }
           }
@@ -276,36 +257,94 @@
         {
           "title": "marin-community/marin",
           "url": "https://github.com/marin-community/marin",
-          "summary": "Marin est un framework Python open source conçu pour la recherche et le développement de modèles de base (foundation models). Il vise à standardiser les processus d'entraînement et d'optimisation des modèles d'intelligence artificielle à grande échelle.",
-          "meta": "Python · ★ 2 574 · +441 aujourd'hui",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "Python · ★ 2 626 · +255 aujourd'hui",
           "snapshot": {
             "sourceId": "marin-community/marin",
-            "capturedAt": "2026-08-27T10:36:55.017Z",
+            "capturedAt": "2026-08-27T15:00:44.483Z",
             "metadata": {
               "language": "Python",
-              "popularity": 2574,
-              "engagementCount": 441,
-              "rank": 15,
+              "popularity": 2626,
+              "engagementCount": 255,
+              "rank": 14,
               "extra": {
-                "starsToday": 441
+                "starsToday": 255
               }
             }
           }
         },
         {
-          "title": "VoltAgent/awesome-agent-skills",
-          "url": "https://github.com/VoltAgent/awesome-agent-skills",
-          "summary": "Awesome-agent-skills rassemble plus de 1000 compétences d'agents d'IA (agent skills) créées par des équipes de développeurs et la communauté dans une seule ressource. Cette collection fonctionne de manière compatible avec des outils populaires tels que l'assistant de codage Cursor et les interfaces de ligne de commande pour modèles d'IA (Claude Code, Codex, Gemini CLI).",
-          "meta": "★ 32 868 · +242 aujourd'hui",
+          "title": "ComposioHQ/awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "Python · ★ 73 475 · +125 aujourd'hui",
           "snapshot": {
-            "sourceId": "VoltAgent/awesome-agent-skills",
-            "capturedAt": "2026-08-27T10:36:55.017Z",
+            "sourceId": "ComposioHQ/awesome-claude-skills",
+            "capturedAt": "2026-08-27T15:00:44.483Z",
             "metadata": {
-              "popularity": 32868,
-              "engagementCount": 242,
+              "language": "Python",
+              "popularity": 73475,
+              "engagementCount": 125,
+              "rank": 15,
+              "extra": {
+                "starsToday": 125
+              }
+            }
+          }
+        },
+        {
+          "title": "actions/checkout",
+          "url": "https://github.com/actions/checkout",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "TypeScript · ★ 8 678 · +4 aujourd'hui",
+          "snapshot": {
+            "sourceId": "actions/checkout",
+            "capturedAt": "2026-08-27T15:00:44.483Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 8678,
+              "engagementCount": 4,
               "rank": 16,
               "extra": {
-                "starsToday": 242
+                "starsToday": 4
+              }
+            }
+          }
+        },
+        {
+          "title": "OpenCut-app/OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "TypeScript · ★ 87 199 · +1 040 aujourd'hui",
+          "snapshot": {
+            "sourceId": "OpenCut-app/OpenCut",
+            "capturedAt": "2026-08-27T15:00:44.483Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 87199,
+              "engagementCount": 1040,
+              "rank": 17,
+              "extra": {
+                "starsToday": 1040
+              }
+            }
+          }
+        },
+        {
+          "title": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "Python · ★ 100 964 · +707 aujourd'hui",
+          "snapshot": {
+            "sourceId": "TauricResearch/TradingAgents",
+            "capturedAt": "2026-08-27T15:00:44.483Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 100964,
+              "engagementCount": 707,
+              "rank": 18,
+              "extra": {
+                "starsToday": 707
               }
             }
           }
@@ -318,20 +357,20 @@
         {
           "title": "Nvidia agrees to acquire Hugging Face for $13B",
           "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
-          "summary": "Nvidia a conclu un accord pour acquérir Hugging Face, une plateforme open source pour les modèles d'IA, pour 13 milliards de dollars. Cette décision renforce la présence du fabricant de matériel Nvidia dans l'écosystème logiciel et son accès aux outils de développement d'IA.",
-          "meta": "1 177 votes · 504 commentaires",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "1 571 votes · 707 commentaires",
           "snapshot": {
             "sourceId": "49458161",
-            "capturedAt": "2026-08-27T10:36:54.121Z",
+            "capturedAt": "2026-08-27T15:00:43.572Z",
             "metadata": {
-              "popularity": 1177,
-              "engagementCount": 504,
+              "popularity": 1571,
+              "engagementCount": 707,
               "discussions": [
                 {
                   "source": "hackernews",
                   "url": "https://news.ycombinator.com/item?id=49458161",
-                  "popularity": 1177,
-                  "engagementCount": 504
+                  "popularity": 1571,
+                  "engagementCount": 707
                 }
               ],
               "rank": 1,
@@ -346,139 +385,31 @@
             {
               "source": "hackernews",
               "url": "https://news.ycombinator.com/item?id=49458161",
-              "popularity": 1177,
-              "engagementCount": 504
-            }
-          ]
-        },
-        {
-          "title": "AWS Acquires DuckLabs",
-          "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
-          "summary": "Amazon Web Services (AWS) a acquis DuckLabs, une entreprise développant des outils de traitement de données sans serveur (serverless). Cette démarche vise à renforcer les capacités d'analyse de données et d'automatisation du fournisseur de services de cloud computing AWS.",
-          "meta": "1 056 votes · 306 commentaires",
-          "snapshot": {
-            "sourceId": "49448321",
-            "capturedAt": "2026-08-27T10:36:54.121Z",
-            "metadata": {
-              "popularity": 1056,
-              "engagementCount": 306,
-              "discussions": [
-                {
-                  "source": "hackernews",
-                  "url": "https://news.ycombinator.com/item?id=49448321",
-                  "popularity": 1056,
-                  "engagementCount": 306
-                }
-              ],
-              "rank": 2,
-              "extra": {
-                "author": "onderkalaci",
-                "createdAt": "2026-08-26T12:59:26Z",
-                "hnUrl": "https://news.ycombinator.com/item?id=49448321"
-              }
-            }
-          },
-          "discussions": [
-            {
-              "source": "hackernews",
-              "url": "https://news.ycombinator.com/item?id=49448321",
-              "popularity": 1056,
-              "engagementCount": 306
-            }
-          ]
-        },
-        {
-          "title": "GLM-5.3-Flash",
-          "url": "https://z.ai/blog/glm-5.3-flash",
-          "summary": "GLM-5.3-Flash, développé par Zhipu AI, est un nouveau grand modèle de langage (large language model) axé sur une faible latence et une haute efficacité. Le modèle vise à réduire les coûts de traitement, en particulier dans les applications nécessitant des réponses rapides.",
-          "meta": "1 038 votes · 523 commentaires",
-          "snapshot": {
-            "sourceId": "49449507",
-            "capturedAt": "2026-08-27T10:36:54.121Z",
-            "metadata": {
-              "popularity": 1038,
-              "engagementCount": 523,
-              "discussions": [
-                {
-                  "source": "hackernews",
-                  "url": "https://news.ycombinator.com/item?id=49449507",
-                  "popularity": 1038,
-                  "engagementCount": 523
-                }
-              ],
-              "rank": 3,
-              "extra": {
-                "author": "Philpax",
-                "createdAt": "2026-08-26T14:08:50Z",
-                "hnUrl": "https://news.ycombinator.com/item?id=49449507"
-              }
-            }
-          },
-          "discussions": [
-            {
-              "source": "hackernews",
-              "url": "https://news.ycombinator.com/item?id=49449507",
-              "popularity": 1038,
-              "engagementCount": 523
-            }
-          ]
-        },
-        {
-          "title": "Tim Curry has died",
-          "url": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
-          "summary": "L'acteur britannique Tim Curry, connu pour ses rôles emblématiques dans des productions telles que The Rocky Horror Picture Show et Ça (It), est décédé à l'âge de 80 ans. Possédant une large base de fans dans le monde du cinéma et du théâtre, l'artiste a donné vie à de nombreux personnages mémorables grâce à son jeu polyvalent.",
-          "meta": "669 votes · 217 commentaires",
-          "snapshot": {
-            "sourceId": "49451448",
-            "capturedAt": "2026-08-27T10:36:54.121Z",
-            "metadata": {
-              "popularity": 669,
-              "engagementCount": 217,
-              "discussions": [
-                {
-                  "source": "hackernews",
-                  "url": "https://news.ycombinator.com/item?id=49451448",
-                  "popularity": 669,
-                  "engagementCount": 217
-                }
-              ],
-              "rank": 4,
-              "extra": {
-                "author": "mykowebhn",
-                "createdAt": "2026-08-26T16:03:37Z",
-                "hnUrl": "https://news.ycombinator.com/item?id=49451448"
-              }
-            }
-          },
-          "discussions": [
-            {
-              "source": "hackernews",
-              "url": "https://news.ycombinator.com/item?id=49451448",
-              "popularity": 669,
-              "engagementCount": 217
+              "popularity": 1571,
+              "engagementCount": 707
             }
           ]
         },
         {
           "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
           "url": "https://github.com/SenteLabsAI/OpenExecutive",
-          "summary": "Après qu'une entreprise a licencié ses développeurs pour les remplacer par de l'intelligence artificielle, des développeurs ont créé OpenExecutive, un gestionnaire d'IA open source qui automatise les processus de gestion d'entreprise. Ce projet vise à numériser les processus de gestion en transférant les mécanismes de prise de décision institutionnelle vers une structure basée sur le code.",
-          "meta": "630 votes · 396 commentaires",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "827 votes · 557 commentaires",
           "snapshot": {
             "sourceId": "49458418",
-            "capturedAt": "2026-08-27T10:36:54.121Z",
+            "capturedAt": "2026-08-27T15:00:43.572Z",
             "metadata": {
-              "popularity": 630,
-              "engagementCount": 396,
+              "popularity": 827,
+              "engagementCount": 557,
               "discussions": [
                 {
                   "source": "hackernews",
                   "url": "https://news.ycombinator.com/item?id=49458418",
-                  "popularity": 630,
-                  "engagementCount": 396
+                  "popularity": 827,
+                  "engagementCount": 557
                 }
               ],
-              "rank": 5,
+              "rank": 2,
               "extra": {
                 "author": "GrumpySciGuy",
                 "createdAt": "2026-08-27T01:46:22Z",
@@ -490,8 +421,116 @@
             {
               "source": "hackernews",
               "url": "https://news.ycombinator.com/item?id=49458418",
-              "popularity": 630,
-              "engagementCount": 396
+              "popularity": 827,
+              "engagementCount": 557
+            }
+          ]
+        },
+        {
+          "title": "U.S. State Department pauses immigrant visa applications",
+          "url": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "733 votes · 1 082 commentaires",
+          "snapshot": {
+            "sourceId": "49452709",
+            "capturedAt": "2026-08-27T15:00:43.572Z",
+            "metadata": {
+              "popularity": 733,
+              "engagementCount": 1082,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49452709",
+                  "popularity": 733,
+                  "engagementCount": 1082
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "sss111",
+                "createdAt": "2026-08-26T17:22:16Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49452709"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49452709",
+              "popularity": 733,
+              "engagementCount": 1082
+            }
+          ]
+        },
+        {
+          "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+          "url": "https://github.com/tailscale/tailcat",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "631 votes · 114 commentaires",
+          "snapshot": {
+            "sourceId": "49452990",
+            "capturedAt": "2026-08-27T15:00:43.572Z",
+            "metadata": {
+              "popularity": 631,
+              "engagementCount": 114,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49452990",
+                  "popularity": 631,
+                  "engagementCount": 114
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "nderjung",
+                "createdAt": "2026-08-26T17:42:22Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49452990"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49452990",
+              "popularity": 631,
+              "engagementCount": 114
+            }
+          ]
+        },
+        {
+          "title": "Mechanical Turk shutting down September 30",
+          "url": "https://www.mturk.com/",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "473 votes · 145 commentaires",
+          "snapshot": {
+            "sourceId": "49457545",
+            "capturedAt": "2026-08-27T15:00:43.572Z",
+            "metadata": {
+              "popularity": 473,
+              "engagementCount": 145,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49457545",
+                  "popularity": 473,
+                  "engagementCount": 145
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "tmp10423288442",
+                "createdAt": "2026-08-26T23:55:44Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49457545"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49457545",
+              "popularity": 473,
+              "engagementCount": 145
             }
           ]
         }
@@ -503,17 +542,17 @@
         {
           "title": "Qwen/Qwen3.8-Flash-Next",
           "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
-          "summary": "Qwen3.8-Flash-Next est un modèle d'IA multimodal capable de traiter des données visuelles et textuelles. Publié sur HuggingFace, la plateforme de partage de modèles d'IA, ce modèle est utilisé dans les processus de génération rapide de texte et d'analyse d'images.",
-          "meta": "♥ 3 802 · 4 810 téléchargements",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "♥ 3 872 · 4 810 téléchargements",
           "snapshot": {
             "sourceId": "Qwen/Qwen3.8-Flash-Next",
-            "capturedAt": "2026-08-27T10:36:53.952Z",
+            "capturedAt": "2026-08-27T15:00:43.391Z",
             "metadata": {
-              "popularity": 3802,
+              "popularity": 3872,
               "engagementCount": 4810,
               "rank": 1,
               "extra": {
-                "trendingScore": 3732,
+                "trendingScore": 3799,
                 "pipelineTag": "image-text-to-text",
                 "tags": [
                   "transformers",
@@ -533,17 +572,17 @@
         {
           "title": "zai-org/GLM-5.3-Flash",
           "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
-          "summary": "GLM-5.3-Flash, développé par Zai-org, est un modèle d'IA axé sur la génération de texte (text-generation). Optimisé pour des processus d'inférence rapides, ce modèle offre une alternative efficace dans la catégorie des grands modèles de langage (large language models).",
-          "meta": "♥ 1 156 · 34 téléchargements",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "♥ 1 225 · 34 téléchargements",
           "snapshot": {
             "sourceId": "zai-org/GLM-5.3-Flash",
-            "capturedAt": "2026-08-27T10:36:53.952Z",
+            "capturedAt": "2026-08-27T15:00:43.391Z",
             "metadata": {
-              "popularity": 1156,
+              "popularity": 1225,
               "engagementCount": 34,
               "rank": 2,
               "extra": {
-                "trendingScore": 1119,
+                "trendingScore": 1186,
                 "pipelineTag": "text-generation",
                 "tags": [
                   "transformers",
@@ -568,17 +607,17 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "summary": "Qwen2.5-27B, développé par Alibaba, est un modèle d'intelligence artificielle multimodal capable de traiter des données visuelles et textuelles. Grâce à sa structure à poids ouverts, il permet aux développeurs d'utiliser des capacités d'analyse de texte et d'image dans leurs propres applications.",
-          "meta": "♥ 12 962 · 3 457 687 téléchargements",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "♥ 12 984 · 3 457 687 téléchargements",
           "snapshot": {
             "sourceId": "Qwen/Qwen3.8-27B",
-            "capturedAt": "2026-08-27T10:36:53.952Z",
+            "capturedAt": "2026-08-27T15:00:43.391Z",
             "metadata": {
-              "popularity": 12962,
+              "popularity": 12984,
               "engagementCount": 3457687,
               "rank": 3,
               "extra": {
-                "trendingScore": 1027,
+                "trendingScore": 1003,
                 "pipelineTag": "image-text-to-text",
                 "tags": [
                   "transformers",
@@ -600,17 +639,17 @@
         {
           "title": "unsloth/Qwen3.8-27B-GGUF",
           "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-          "summary": "Unsloth est une bibliothèque d'optimisation qui permet d'entraîner les grands modèles de langage (large language models) de manière plus rapide et plus efficace. Le modèle Qwen3.8-27B-GGUF est un modèle d'intelligence artificielle haute performance optimisé avec cette bibliothèque, fonctionnant avec une faible consommation de mémoire.",
-          "meta": "♥ 3 032 · 7 758 790 téléchargements",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "♥ 3 042 · 7 758 790 téléchargements",
           "snapshot": {
             "sourceId": "unsloth/Qwen3.8-27B-GGUF",
-            "capturedAt": "2026-08-27T10:36:53.952Z",
+            "capturedAt": "2026-08-27T15:00:43.391Z",
             "metadata": {
-              "popularity": 3032,
+              "popularity": 3042,
               "engagementCount": 7758790,
               "rank": 4,
               "extra": {
-                "trendingScore": 686,
+                "trendingScore": 646,
                 "tags": [
                   "gguf",
                   "qwen3_5",
@@ -630,17 +669,17 @@
         {
           "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
           "url": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-          "summary": "Qwen3.8-27B-OBLITERATED est un travail de modification effectué sur le modèle de génération de texte (text-generation model) Qwen. Cette version, qui se concentre sur la suppression des filtres de sécurité et des restrictions du modèle, a été développée pour permettre aux utilisateurs de bénéficier d'une expérience d'intelligence artificielle avec moins de limitations.",
-          "meta": "♥ 827 · 509 270 téléchargements",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "♥ 831 · 509 270 téléchargements",
           "snapshot": {
             "sourceId": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-            "capturedAt": "2026-08-27T10:36:53.952Z",
+            "capturedAt": "2026-08-27T15:00:43.391Z",
             "metadata": {
-              "popularity": 827,
+              "popularity": 831,
               "engagementCount": 509270,
               "rank": 5,
               "extra": {
-                "trendingScore": 619,
+                "trendingScore": 583,
                 "pipelineTag": "text-generation",
                 "tags": [
                   "mlx",
@@ -672,102 +711,103 @@
       "sourceName": "hfpapers",
       "items": [
         {
-          "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
-          "url": "https://huggingface.co/papers/2608.23564",
-          "summary": "SWE Refactor Bench est un nouvel outil d'évaluation qui mesure la capacité des agents logiciels à effectuer des migrations technologiques complexes (stack migration) à travers l'ensemble d'un dépôt. En surmontant les problèmes d'aveuglement causés par les tests actuels, il oblige les agents non seulement à réussir les tests, mais aussi à transformer réellement la base de code.",
-          "meta": "7 j'aime · 1 commentaires",
+          "title": "Skill Issue: Are Skills Language-Invariant in LLMs?",
+          "url": "https://huggingface.co/papers/2608.25832",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "1 j'aime · 1 commentaires",
           "snapshot": {
-            "sourceId": "2608.23564",
-            "capturedAt": "2026-08-27T10:36:53.963Z",
+            "sourceId": "2608.25832",
+            "capturedAt": "2026-08-27T15:00:43.398Z",
             "metadata": {
-              "popularity": 7,
+              "popularity": 1,
               "engagementCount": 1,
               "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.25832",
+                "publishedAt": "2026-08-26T00:00:00.000Z",
+                "githubRepo": "https://github.com/TextArena/TextArena"
+              }
+            }
+          }
+        },
+        {
+          "title": "Prefix Sliding for efficient test-time scaling",
+          "url": "https://huggingface.co/papers/2608.26070",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "1 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2608.26070",
+            "capturedAt": "2026-08-27T15:00:43.398Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.26070",
+                "publishedAt": "2026-08-26T00:00:00.000Z",
+                "githubRepo": "https://github.com/Muennighoff/prefix-sliding",
+                "githubStars": 1
+              }
+            }
+          }
+        },
+        {
+          "title": "Pushing the Limits of High-Resolution Weather Forecasting through Data Scaling",
+          "url": "https://huggingface.co/papers/2608.14652",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "4 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2608.14652",
+            "capturedAt": "2026-08-27T15:00:43.398Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.14652",
+                "publishedAt": "2026-07-31T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "LibriBrain100: One Hundred Hours of Broad and Deep MEG Data for Neural Speech Decoding at Scale",
+          "url": "https://huggingface.co/papers/2608.25204",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "2 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2608.25204",
+            "capturedAt": "2026-08-27T15:00:43.398Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.25204",
+                "publishedAt": "2026-08-25T00:00:00.000Z",
+                "githubRepo": "https://github.com/neural-processing-lab/pnpl",
+                "githubStars": 13
+              }
+            }
+          }
+        },
+        {
+          "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
+          "url": "https://huggingface.co/papers/2608.23564",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "12 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2608.23564",
+            "capturedAt": "2026-08-27T15:00:43.398Z",
+            "metadata": {
+              "popularity": 12,
+              "engagementCount": 1,
+              "rank": 5,
               "extra": {
                 "arxivUrl": "https://arxiv.org/abs/2608.23564",
                 "publishedAt": "2026-08-24T00:00:00.000Z",
                 "githubRepo": "https://github.com/Einsia/SWE-Refactor-Bench",
                 "githubStars": 22
-              }
-            }
-          }
-        },
-        {
-          "title": "A Modular Agent for Reliable and Auditable Spatial Relation Verification in CT Scans",
-          "url": "https://huggingface.co/papers/2608.21140",
-          "summary": "L'agent modulaire développé pour la vérification des relations spatiales dans les tomodensitométries (TDM) vise à améliorer la capacité de raisonnement visuel des systèmes d'imagerie médicale. Il cherche à résoudre les erreurs rencontrées par les modèles vision-langage actuels lors du raisonnement spatial, grâce à une structure vérifiable et fiable.",
-          "meta": "0 j'aime · 1 commentaires",
-          "snapshot": {
-            "sourceId": "2608.21140",
-            "capturedAt": "2026-08-27T10:36:53.963Z",
-            "metadata": {
-              "popularity": 0,
-              "engagementCount": 1,
-              "rank": 2,
-              "extra": {
-                "arxivUrl": "https://arxiv.org/abs/2608.21140",
-                "publishedAt": "2026-08-21T00:00:00.000Z",
-                "githubRepo": "https://github.com/DeveloperNomis/MICCAI-Medical-Agent",
-                "githubStars": 0
-              }
-            }
-          }
-        },
-        {
-          "title": "RetrievalRouter: Joint Modality and Architecture Selection for Document Retrieval",
-          "url": "https://huggingface.co/papers/2608.25625",
-          "summary": "RetrievalRouter est un système qui sélectionne automatiquement la méthode et l'architecture nécessaires aux processus d'accès aux documents. Dans les documents complexes utilisés dans des domaines tels que la finance et la santé, il détermine le pipeline d'accès le plus approprié en optimisant l'équilibre entre vitesse et précision.",
-          "meta": "1 j'aime · 1 commentaires",
-          "snapshot": {
-            "sourceId": "2608.25625",
-            "capturedAt": "2026-08-27T10:36:53.963Z",
-            "metadata": {
-              "popularity": 1,
-              "engagementCount": 1,
-              "rank": 3,
-              "extra": {
-                "arxivUrl": "https://arxiv.org/abs/2608.25625",
-                "publishedAt": "2026-08-26T00:00:00.000Z",
-                "githubRepo": "https://github.com/emrekuruu/retrieval-router",
-                "githubStars": 0
-              }
-            }
-          }
-        },
-        {
-          "title": "Real-TurnTurk: A Multimodal Turkish Corpus for Turn-Taking Prediction",
-          "url": "https://huggingface.co/papers/2608.22071",
-          "summary": "Real-TurnTurk est un ensemble de données multimodal développé pour modéliser la dynamique de prise de parole (turn-taking) dans les conversations naturelles en turc. Incluant des interactions binaires non scénarisées, ce travail permet aux systèmes de dialogue simultané de prédire plus précisément le flux de la parole humaine.",
-          "meta": "0 j'aime · 1 commentaires",
-          "snapshot": {
-            "sourceId": "2608.22071",
-            "capturedAt": "2026-08-27T10:36:53.963Z",
-            "metadata": {
-              "popularity": 0,
-              "engagementCount": 1,
-              "rank": 4,
-              "extra": {
-                "arxivUrl": "https://arxiv.org/abs/2608.22071",
-                "publishedAt": "2026-08-22T00:00:00.000Z"
-              }
-            }
-          }
-        },
-        {
-          "title": "Is Next-Chunk Reasoning RL Really Better than SFT? Revisiting Training Strategies under no-CoT Data",
-          "url": "https://huggingface.co/papers/2608.23256",
-          "summary": "Une nouvelle recherche propose la méthode d'apprentissage par renforcement du raisonnement par segments suivants (next-chunk reasoning reinforcement learning) pour entraîner des modèles avec des données ne contenant pas d'étiquettes de chaîne de pensée (chain-of-thought). Cette approche permet au modèle de générer des traces de raisonnement implicites, offrant une stratégie d'entraînement alternative aux méthodes de réglage fin supervisé (supervised fine-tuning).",
-          "meta": "15 j'aime · 1 commentaires",
-          "snapshot": {
-            "sourceId": "2608.23256",
-            "capturedAt": "2026-08-27T10:36:53.963Z",
-            "metadata": {
-              "popularity": 15,
-              "engagementCount": 1,
-              "rank": 5,
-              "extra": {
-                "arxivUrl": "https://arxiv.org/abs/2608.23256",
-                "publishedAt": "2026-08-24T00:00:00.000Z"
               }
             }
           }
@@ -780,21 +820,21 @@
         {
           "title": "Changes to SourceHut's terms of service regarding LLMs",
           "url": "https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/",
-          "summary": "La plateforme de développement logiciel SourceHut a mis à jour ses conditions d'utilisation pour interdire l'utilisation non autorisée du contenu de la plateforme afin d'entraîner des modèles d'intelligence artificielle générative (generative AI). Avec ce changement, l'objectif est de créer un bouclier juridique contre la collecte à des fins commerciales par les entreprises d'IA du code et des données partagés par les utilisateurs.",
-          "meta": "27 votes · 6 commentaires",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "77 votes · 63 commentaires",
           "snapshot": {
             "sourceId": "iqgrsx",
-            "capturedAt": "2026-08-27T10:36:54.138Z",
+            "capturedAt": "2026-08-27T15:00:43.491Z",
             "metadata": {
-              "popularity": 27,
-              "engagementCount": 6,
+              "popularity": 77,
+              "engagementCount": 63,
               "rank": 1,
               "discussions": [
                 {
                   "source": "lobsters",
                   "url": "https://lobste.rs/s/iqgrsx/changes_sourcehut_s_terms_service",
-                  "popularity": 27,
-                  "engagementCount": 6
+                  "popularity": 77,
+                  "engagementCount": 63
                 }
               ],
               "extra": {
@@ -809,84 +849,82 @@
             {
               "source": "lobsters",
               "url": "https://lobste.rs/s/iqgrsx/changes_sourcehut_s_terms_service",
-              "popularity": 27,
-              "engagementCount": 6
+              "popularity": 77,
+              "engagementCount": 63
             }
           ]
         },
         {
-          "title": "Haiku R1/beta6 released",
-          "url": "https://www.haiku-os.org/get-haiku/r1beta6/release-notes/",
-          "summary": "Le projet de système d'exploitation open source Haiku a publié la version R1/beta6. La mise à jour améliore la stabilité du système tout en apportant des améliorations aux pilotes matériels et à l'interface utilisateur.",
-          "meta": "99 votes · 5 commentaires",
+          "title": "Announcing our first Maintainers in Residence",
+          "url": "https://blog.rust-lang.org/2026/08/26/announcing-our-first-maintainers-in-residence/",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "33 votes · 0 commentaires",
           "snapshot": {
-            "sourceId": "lt9i0j",
-            "capturedAt": "2026-08-27T10:36:54.138Z",
+            "sourceId": "oshbjt",
+            "capturedAt": "2026-08-27T15:00:43.491Z",
             "metadata": {
-              "popularity": 99,
-              "engagementCount": 5,
+              "popularity": 33,
+              "engagementCount": 0,
               "rank": 2,
               "discussions": [
                 {
                   "source": "lobsters",
-                  "url": "https://lobste.rs/s/lt9i0j/haiku_r1_beta6_released",
-                  "popularity": 99,
-                  "engagementCount": 5
+                  "url": "https://lobste.rs/s/oshbjt/announcing_our_first_maintainers",
+                  "popularity": 33,
+                  "engagementCount": 0
                 }
               ],
               "extra": {
                 "tags": [
-                  "osdev",
-                  "release"
+                  "rust"
                 ],
-                "createdAt": "2026-08-26T11:22:23.251-05:00"
+                "createdAt": "2026-08-27T03:44:13.994-05:00"
               }
             }
           },
           "discussions": [
             {
               "source": "lobsters",
-              "url": "https://lobste.rs/s/lt9i0j/haiku_r1_beta6_released",
-              "popularity": 99,
-              "engagementCount": 5
+              "url": "https://lobste.rs/s/oshbjt/announcing_our_first_maintainers",
+              "popularity": 33,
+              "engagementCount": 0
             }
           ]
         },
         {
-          "title": "Merchants of Insecurity",
-          "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
-          "summary": "Le concept de « marchands de l'insécurité » (merchants of insecurity) critique la manière dont les entreprises de cybersécurité positionnent leurs produits avec des stratégies marketing axées sur la peur. Cette approche oriente les dépenses de sécurité dans le secteur logiciel en créant une perception de besoin constant basée sur l'incertitude, plutôt que de gérer les risques réels.",
-          "meta": "82 votes · 5 commentaires",
+          "title": "Please stop flooding our projects with AI slop to furnish your CV",
+          "url": "https://neilalexander.dev/2026/06/30/flooding-contributions.html",
+          "summary": "Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.",
+          "meta": "15 votes · 1 commentaires",
           "snapshot": {
-            "sourceId": "eove8s",
-            "capturedAt": "2026-08-27T10:36:54.138Z",
+            "sourceId": "rzvdqo",
+            "capturedAt": "2026-08-27T15:00:43.491Z",
             "metadata": {
-              "popularity": 82,
-              "engagementCount": 5,
+              "popularity": 15,
+              "engagementCount": 1,
               "rank": 3,
               "discussions": [
                 {
                   "source": "lobsters",
-                  "url": "https://lobste.rs/s/eove8s/merchants_insecurity",
-                  "popularity": 82,
-                  "engagementCount": 5
+                  "url": "https://lobste.rs/s/rzvdqo/please_stop_flooding_our_projects_with_ai",
+                  "popularity": 15,
+                  "engagementCount": 1
                 }
               ],
               "extra": {
                 "tags": [
-                  "osdev",
-                  "security"
+                  "vibecoding"
                 ],
-                "createdAt": "2026-08-26T09:30:41.443-05:00"
+                "createdAt": "2026-08-27T06:36:05.633-05:00"
               }
             }
           },
           "discussions": [
             {
               "source": "lobsters",
-              "url": "https://lobste.rs/s/eove8s/merchants_insecurity",
-              "popularity": 82,
-              "engagementCount": 5
+              "url": "https://lobste.rs/s/rzvdqo/please_stop_flooding_our_projects_with_ai",
+              "popularity": 15,
+              "engagementCount": 1
             }
           ]
         }
@@ -897,70 +935,5 @@
       "items": []
     }
   ],
-  "glossary": [
-    {
-      "term": "agent skill",
-      "explanation": "Capacités spéciales utilisées par les logiciels assistés par intelligence artificielle pour accomplir une tâche spécifique."
-    },
-    {
-      "term": "prompt as code",
-      "explanation": "La gestion des instructions données à l'intelligence artificielle par versionnage et édition, à l'instar du code logiciel."
-    },
-    {
-      "term": "plugins",
-      "explanation": "Petits modules complémentaires utilisés pour étendre les fonctionnalités existantes d'un logiciel ou lui ajouter de nouvelles fonctions."
-    },
-    {
-      "term": "IDE",
-      "explanation": "Environnement de développement où les développeurs peuvent trouver tous les outils dont ils ont besoin pour écrire du code en un seul endroit."
-    },
-    {
-      "term": "token",
-      "explanation": "La plus petite unité de données correspondant à des mots ou des syllabes, utilisée par l'intelligence artificielle lors du traitement des textes."
-    },
-    {
-      "term": "framework",
-      "explanation": "Un cadre qui facilite le développement de logiciels en offrant un ensemble de structures et de règles prêtes à l'emploi."
-    },
-    {
-      "term": "personal knowledge management",
-      "explanation": "Le stockage et la gestion organisés des notes personnelles, des idées et des informations dans un environnement numérique."
-    },
-    {
-      "term": "shell script",
-      "explanation": "Un fichier texte simple s'exécutant en ligne de commande, écrit pour automatiser les opérations sur un ordinateur."
-    },
-    {
-      "term": "AI engineering",
-      "explanation": "Le processus de conception et de développement de systèmes résolvant des problèmes du monde réel à l'aide de modèles d'intelligence artificielle."
-    },
-    {
-      "term": "AI agents",
-      "explanation": "Logiciels intelligents capables de prendre des décisions de manière autonome, d'utiliser des outils pour atteindre des objectifs et d'interagir avec leur environnement."
-    },
-    {
-      "term": "skills",
-      "explanation": "Compétences spécialisées permettant à un logiciel ou à une intelligence artificielle d'accomplir avec succès une tâche spécifique."
-    },
-    {
-      "term": "foundation models",
-      "explanation": "Modèles d'intelligence artificielle massifs entraînés sur de très vastes ensembles de données, capables de servir de base à de nombreuses tâches différentes."
-    },
-    {
-      "term": "agent skills",
-      "explanation": "Compétences techniques dont les logiciels autonomes ont besoin pour accomplir des tâches complexes."
-    },
-    {
-      "term": "AWS",
-      "explanation": "Une plateforme cloud massive qui fournit des services informatiques tels que des serveurs, du stockage et des bases de données via Internet."
-    },
-    {
-      "term": "large language model",
-      "explanation": "Des modèles d'intelligence artificielle entraînés sur de très grandes quantités de données, capables de comprendre le langage humain et de générer du texte."
-    },
-    {
-      "term": "OpenExecutive",
-      "explanation": "Un système de gestion d'intelligence artificielle open source conçu pour automatiser les processus de gestion d'entreprise."
-    }
-  ]
+  "glossary": []
 }
