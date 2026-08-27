@@ -79,12 +79,27 @@ def make_tagline(summary, fallback):
     if len(s)>130: s=s[:127].rsplit(' ',1)[0].rstrip(' ,;:')+"…"
     return s
 
-def infer_tags(summary):
-    s=(summary or '').lower()
+# Ana sayfadaki "Self-host" konu filtresi hiçbir kayda denk gelmiyordu: çip
+# duruyor, tıklayan her ziyaretçi boş sonuç görüyordu. Sebep etiketin hiç
+# üretilmemesiydi · infer_tags yalnız iki etiket basabiliyordu ve biri her
+# kayda ekleniyordu. Buradaki ifadeler bilerek dar tutuldu; "docker" ve
+# "kubernetes" gibi geniş anahtarlar denendi ve yanlış pozitif verdi
+# (ör. "Build Your Own X" bir öğrenme kaynağı, self-host aracı değil).
+SELF_HOST_ISARETLERI = ("self-host", "selfhost", "self host", "kendi sunucunuzda",
+                        "kendi sunucunda", "kendi sunucusunda", "kendi altyapınızda",
+                        "kendi makinenizde", "yerel olarak barın", "kendi kendine barın")
+
+
+def infer_tags(summary, ek=""):
+    s=((summary or '') + ' ' + (ek or '')).lower()
     tags=[]
+    # SIRA · özelden genele. Kesme sınırı 3'e çıktı, yoksa self-host olan bir
+    # yapay zekâ aracında en ayırt edici etiket düşüyordu. Kartlar zaten ilk
+    # iki etiketi gösteriyor, görsel etki yok; kazanan filtreleme doğruluğu.
+    if any(k in s for k in SELF_HOST_ISARETLERI): tags.append("Self-host")
     if any(k in s for k in ["yapay zek","model","ajan","llm","yapay zeka"," ai "]): tags.append("Yapay zekâ araçları")
     tags.append("Geliştirici aracı")
-    return tags[:2] or ["Geliştirici aracı"]
+    return tags[:3] or ["Geliştirici aracı"]
 
 # ---- sözlük çapraz-link (özet içinde geçen terimler) ----
 def dict_matcher():
@@ -916,6 +931,25 @@ def main():
                 c.pop("needs_enrichment",None); c.pop("enrich_reason",None); n+=1
         json.dump(cat,open(CATALOG,"w",encoding="utf-8"),ensure_ascii=False,indent=2)
         print(f"✅ {n} entry kuyruktan çıkarıldı: {', '.join(sorted(slugs))}"); return
+    if "--retag" in sys.argv:
+        # Mevcut kayıtlara eksik etiketleri EKLER · hiçbir etiketi silmez.
+        # Kural değişince yeniden koşulabilsin diye elle veri düzenlemek yerine
+        # betik olarak duruyor.
+        # YALNIZ eksik Self-host etiketini ekler. infer_tags'in tamamını
+        # yeniden koşturmak, elle konmuş editöryel etiketleri olan kayıtlara
+        # da "Geliştirici aracı" basıyordu (56 değişiklik) · bu bir etiket
+        # boşluğunu kapatma işi, mevcut kararları ezme işi değil.
+        n=0
+        for c in cat:
+            metin=" ".join(str(c.get(k) or "") for k in ("tagline","headline","kisa","title","slug")).lower()
+            mevcut=list(c.get("tags") or [])
+            if any(k in metin for k in SELF_HOST_ISARETLERI) and "Self-host" not in mevcut:
+                c["tags"]=["Self-host"]+mevcut   # en ayırt edici etiket başa
+                n+=1
+        if not DRY:
+            json.dump(cat,open(CATALOG,"w",encoding="utf-8"),ensure_ascii=False,indent=2)
+        print(f"✅ {n} etiket eklendi · {len(cat)} kayıt tarandı")
+        return
     if "--refresh" in sys.argv:   # sayfa keşif gününde donmasın · yeniden gündeme girenler + en eski bakılanlar
         la=next((a for a in sys.argv if a.startswith("--limit=")),None)
         refresh(cat, by_slug, int(la.split("=")[1]) if la else 0); return   # varsayılan: hepsi
