@@ -1,15 +1,35 @@
-# Gerencie seu próprio arquivo de fotos e vídeos
+# Backup de fotos e vídeos no seu próprio servidor
 
-Immich é uma solução de gerenciamento de mídia auto-hospedada de alto desempenho desenvolvida para gerenciar arquivos de foto e vídeo. Escrita em TypeScript, esta plataforma permite aos usuários criar um arquivo de mídia central em sua própria infraestrutura.
+O Immich é uma solução de alto desempenho projetada para você fazer backup de suas fotos e vídeos pessoais, que pode ser hospedada diretamente no seu próprio servidor.
 
 - ★ 109.538
-- TypeScript
 - GitHub Trending · 2026-07-05
 
-## O que você ganha
-- Armazenamento central para fotos e vídeos
-- Reconhecimento facial e pesquisa baseada em objetos
-- Backup via celular e web
+## O que esta ferramenta faz?
+O Immich é uma solução de alto desempenho projetada para você fazer backup de suas fotos e vídeos pessoais, que pode ser hospedada diretamente no seu próprio servidor. Ele permite que você gerencie sua biblioteca de mídia por meio de aplicativos móveis e web.
+
+## Para quem é?
+Para aqueles que desejam armazenar e gerenciar suas fotos e vídeos em seu próprio hardware, em vez de usar serviços de nuvem de terceiros.
+
+## O que não esperar
+Usuários que não desejam gerenciar seu próprio servidor ou lidar com processos de instalação técnica.
+
+## Destaques
+- Faz backup de fotos e vídeos na qualidade original.
+- Oferece acesso por meio de aplicativos web e móveis.
+- Garante a privacidade dos dados ao ser hospedado em seu próprio hardware.
+- Suporte multiusuário para criar espaços para membros da família ou equipes.
+
+## Primeiro fluxo de uso
+- Certifique-se de atender aos requisitos de hardware especificados na documentação oficial.
+- Inicie os contêineres do Immich usando Docker e Docker Compose.
+- Baixe o aplicativo móvel no seu dispositivo e conecte-se inserindo o endereço do seu servidor.
+- Crie a conta de administrador inicial e inicie o processo de backup.
+
+## Início seguro
+
+## Primeiro prompt
+Como adicionar um novo usuário na instalação do Immich?
 
 ## Instalação
 **Baixe a configuração do Docker Compose**
@@ -29,13 +49,10 @@ docker compose up -d
 ```
 
 
-## Como começar
-- Fonte oficial →
-
-## Termos relacionados do glossário
-
 ## Links
 - Repositório no GitHub →
+- README oficial do Immich →
+- Site oficial do Immich →
 - Ler em turco →
 
 ---

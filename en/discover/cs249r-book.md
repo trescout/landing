@@ -1,23 +1,37 @@
-# Comprehensive guide to artificial intelligence systems
+# Open Source TinyML Textbook
 
-This resource, shared by Harvard University, offers a comprehensive technical guide on machine learning systems. Combining hardware and software layers, this study addresses the design processes of scalable artificial intelligence infrastructures.
+CS249r Book is a comprehensive, open-source textbook focused on running machine learning models on resource-constrained devices.
 
 - ★ 27,689
-- Python
 - GitHub Trending · 2026-07-03
 
-## What you get
-- Learning the design and engineering principles of artificial intelligence systems
-- Building your own machine learning framework from scratch
-- Developing real-world applications under hardware constraints
+## What does this tool do?
+CS249r Book is a comprehensive, open-source textbook focused on running machine learning models on resource-constrained devices. It delves deeply into TinyML and efficient deep learning computing.
 
-## Getting started
-- Official source →
+## Who it is for
+Students and researchers who want to integrate deep learning models into edge devices.
 
-## Related dictionary terms
+## What not to expect
+Those who are only interested in web development or do not yet have the fundamentals of machine learning.
+
+## Highlights
+- Provides a foundational resource on TinyML and efficient deep learning topics.
+- Explains model optimization techniques for hardware-constrained devices.
+- It is an academic-quality, open-source textbook.
+
+## First-use flow
+- Visit the official GitHub repository to access the current version of the book.
+- Download the relevant PDF or web version to your device.
+- Set up the recommended Python and PyTorch environments to try out the code examples in the book.
+
+## Safe start
+
+## First task prompt
+How are the model quantization examples in the CS249r book run?
 
 ## Links
 - GitHub repository →
+- Official CS249r repository →
 - Read in Turkish →
 
 ---

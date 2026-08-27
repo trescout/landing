@@ -12304,7 +12304,7 @@
     "slug": "pytorch",
     "title": "Pytorch",
     "tagline": "PyTorch, Python tabanlı tensör hesaplamaları ve dinamik sinir ağları (dynamic neural networks) için güçlü grafik işlem birimi…",
-    "meta": "★ 102.131 · Python",
+    "meta": "★ 102.131",
     "image": "/assets/discover/og/pytorch.webp",
     "source": "GitHub",
     "date": "2026-07-03",
@@ -12313,9 +12313,49 @@
       "Geliştirici aracı"
     ],
     "stars": 102131,
+    "summary": "PyTorch; Python tabanlı bir tensör hesaplama ve derin öğrenme kütüphanesidir. GPU hızlandırması ile sayısal hesaplamalar sunar ve esnek yapısıyla araştırma prototiplerinden üretim aşamasına geçişi kolaylaştırır.",
+    "headline": "Esnek ve Hızlı Yapay Zekâ Kütüphanesi",
     "lite": false,
-    "headline": "Esnek ve hızlı yapay zekâ kütüphanesi",
-    "last_review": "2026-08-27",
+    "headline_locked": true,
+    "editorial": {
+      "overview": "PyTorch; Python tabanlı bir tensör hesaplama ve derin öğrenme kütüphanesidir. GPU hızlandırması ile sayısal hesaplamalar sunar ve esnek yapısıyla araştırma prototiplerinden üretim aşamasına geçişi kolaylaştırır.",
+      "best_for": "Dinamik sinir ağları oluşturmak ve yapay zekâ modellerini araştırma aşamasından üretime taşımak isteyenler.",
+      "not_for": "Derin öğrenme alanında deneyimi olmayan veya yalnızca kullanıma hazır yapay zekâ uygulamaları arayanlar.",
+      "wins": [
+        "GPU hızlandırmalı tensör hesaplamaları sağlar.",
+        "Dinamik sinir ağları oluşturulmasına olanak tanır.",
+        "TorchScript ile modellerin üretim ortamına aktarılmasını kolaylaştırır.",
+        "Python ekosistemiyle doğal bir entegrasyon sunar."
+      ],
+      "first_run_steps": [
+        "Ortamınıza (işletim sistemi, paket yöneticisi, CUDA sürümü) uygun PyTorch komutunu resmî sitesinden oluşturun.",
+        "Önerilen paket yöneticisi (pip veya conda) ile kurulumu tamamlayın.",
+        "Python ortamınızda 'import torch' komutunu çalıştırarak kurulumu doğrulayın.",
+        "Temel bir tensör oluşturarak sisteminizin GPU hızlandırmasını destekleyip desteklemediğini kontrol edin."
+      ],
+      "safety_note": "PyTorch modelleri çalıştırılırken dış kaynaklardan indirilen ağırlık dosyalarının güvenilir kaynaklardan elde edildiğinden emin olmalısınız; aksi takdirde zararlı kod çalıştırılma riski bulunur.",
+      "first_prompt": "PyTorch kullanarak iki tensörü nasıl toplayabilirim?"
+    },
+    "sources": [
+      {
+        "url": "https://github.com/pytorch/pytorch",
+        "label": "PyTorch resmî README",
+        "label_en": "Official PyTorch README",
+        "label_fr": "README officiel de PyTorch",
+        "label_pt": "README oficial do PyTorch",
+        "label_es": "README oficial de PyTorch",
+        "label_de": "Offizielle PyTorch README"
+      },
+      {
+        "url": "https://pytorch.org/",
+        "label": "PyTorch resmî sitesi",
+        "label_en": "Official PyTorch Website",
+        "label_fr": "Site officiel de PyTorch",
+        "label_pt": "Site oficial do PyTorch",
+        "label_es": "Sitio oficial de PyTorch",
+        "label_de": "Offizielle PyTorch Website"
+      }
+    ],
     "guncellemeler": [
       {
         "tarih": "2026-08-02",
@@ -12325,18 +12365,13 @@
         "surum_tarihi": "2026-07-08"
       }
     ],
-    "tagline_en": "PyTorch is a powerful graphics processing unit for Python-based tensor calculations and dynamic neural networks.",
-    "tagline_fr": "PyTorch est une puissante unité de traitement graphique pour les calculs tensoriels basés sur Python et les réseaux de neurones dynamiques.",
-    "tagline_pt": "PyTorch é uma poderosa unidade de processamento gráfico para cálculos de tensores baseados em Python e redes neurais dinâmicas.",
-    "tagline_es": "PyTorch es una potente unidad de procesamiento de gráficos para cálculos de tensores basados ​​en Python y redes neuronales dinámicas.",
-    "tagline_de": "PyTorch ist eine leistungsstarke Grafikverarbeitungseinheit für Python-basierte Tensorberechnungen und dynamische neuronale Netze.",
-    "last_seen": "2026-07-04"
+    "last_review": "2026-08-27"
   },
   {
     "slug": "cs249r-book",
     "title": "Cs249r Book",
     "tagline": "Harvard Üniversitesi tarafından paylaşılan bu kaynak, makine öğrenmesi sistemleri (machine learning systems) üzerine kapsamlı…",
-    "meta": "★ 27.689 · Python",
+    "meta": "★ 27.689",
     "image": "/assets/discover/og/cs249r-book.webp",
     "source": "GitHub",
     "date": "2026-07-03",
@@ -12345,9 +12380,38 @@
       "Geliştirici aracı"
     ],
     "stars": 27689,
+    "summary": "CS249r Book; makine öğrenimi modellerini kaynak kısıtlı cihazlarda çalıştırmaya odaklanan Kapsamlı ve açık kaynaklı bir ders kitabıdır.",
+    "headline": "Açık Kaynaklı TinyML Ders Kitabı",
     "lite": false,
-    "headline": "Yapay zekâ sistemleri için kapsamlı rehber",
-    "last_review": "2026-08-27",
+    "headline_locked": true,
+    "editorial": {
+      "overview": "CS249r Book; makine öğrenimi modellerini kaynak kısıtlı cihazlarda çalıştırmaya odaklanan kapsamlı ve açık kaynaklı bir ders kitabıdır. TinyML ve verimli derin öğrenme bilgisayarı (efficient deep learning computing) konularını derinlemesine inceler.",
+      "best_for": "Derin öğrenme modellerini uç cihazlara (edge devices) entegre etmek isteyen öğrenciler ve araştırmacılar.",
+      "not_for": "Yalnızca web geliştirme ile ilgilenen veya makine öğrenimi temellerine henüz sahip olmayanlar.",
+      "wins": [
+        "TinyML ve verimli derin öğrenme konularında temel bir kaynak sunar.",
+        "Donanım kısıtlı cihazlar için model optimizasyon tekniklerini açıklar.",
+        "Akademik kalitede, açık kaynaklı bir ders kitabıdır."
+      ],
+      "first_run_steps": [
+        "Resmî GitHub deposunu ziyaret ederek kitabın güncel sürümüne ulaşın.",
+        "İlgili PDF veya web sürümünü cihazınıza indirin.",
+        "Kitaptaki kod örneklerini denemek için önerilen Python ve PyTorch ortamlarını kurun."
+      ],
+      "safety_note": "Kitaptaki kod örnekleri eğitim amaçlıdır; bunları doğrudan üretim ortamına taşımadan önce kendi güvenlik ve performans testlerinizi yapmalısınız.",
+      "first_prompt": "CS249r kitabındaki model kuantizasyon (quantization) örnekleri nasıl çalıştırılır?"
+    },
+    "sources": [
+      {
+        "url": "https://github.com/mit-han-lab/cs249r-book",
+        "label": "CS249r resmî deposu",
+        "label_en": "Official CS249r repository",
+        "label_fr": "Dépôt officiel CS249r",
+        "label_pt": "Repositório oficial CS249r",
+        "label_es": "Repositorio oficial CS249r",
+        "label_de": "Offizielles CS249r Repository"
+      }
+    ],
     "guncellemeler": [
       {
         "tarih": "2026-08-02",
@@ -12357,18 +12421,13 @@
         "surum_tarihi": "2026-06-24"
       }
     ],
-    "tagline_en": "This resource shared by Harvard University is a comprehensive resource on machine learning systems.",
-    "tagline_fr": "Cette ressource partagée par l'Université Harvard est une ressource complète sur les systèmes d'apprentissage automatique.",
-    "tagline_pt": "Este recurso compartilhado pela Universidade de Harvard é um recurso abrangente sobre sistemas de aprendizado de máquina.",
-    "tagline_es": "Este recurso compartido por la Universidad de Harvard es un recurso completo sobre sistemas de aprendizaje automático.",
-    "tagline_de": "Diese von der Harvard University geteilte Ressource ist eine umfassende Ressource zu maschinellen Lernsystemen.",
-    "last_seen": "2026-07-06"
+    "last_review": "2026-08-27"
   },
   {
     "slug": "clean-code-javascript",
     "title": "Clean Code Javascript",
     "tagline": "Temiz kod (clean code) prensiplerini JavaScript diline uyarlayan bu rehber, yazılım geliştirme süreçlerinde okunabilir ve…",
-    "meta": "★ 94.633 · JavaScript",
+    "meta": "★ 94.633",
     "image": "/assets/discover/og/clean-code-javascript.webp",
     "source": "GitHub",
     "date": "2026-07-03",
@@ -12376,21 +12435,45 @@
       "Geliştirici aracı"
     ],
     "stars": 94633,
+    "summary": "Clean Code JavaScript; ünlü 'Clean Code' prensiplerini JavaScript ekosistemine uyarlayan açık kaynaklı bir rehberdir.",
+    "headline": "JavaScript İçin Temiz Kod Rehberi",
     "lite": false,
-    "headline": "JavaScript ile temiz kod yazımı",
-    "last_review": "2026-08-27",
-    "tagline_en": "This guide, which adapts clean code principles to the JavaScript language, is readable and…",
-    "tagline_fr": "Ce guide, qui adapte les principes du code propre au langage JavaScript, est lisible et…",
-    "tagline_pt": "Este guia, que adapta princípios de código limpo à linguagem JavaScript, é legível e…",
-    "tagline_es": "Esta guía, que adapta los principios del código limpio al lenguaje JavaScript, es legible y...",
-    "tagline_de": "Dieser Leitfaden, der Clean-Code-Prinzipien an die JavaScript-Sprache anpasst, ist lesbar und…",
-    "last_seen": "2026-07-03"
+    "headline_locked": true,
+    "editorial": {
+      "overview": "Clean Code JavaScript; Robert C. Martin'in ünlü 'Clean Code' prensiplerini JavaScript ekosistemine uyarlayan açık kaynaklı bir rehberdir. Okunabilir, yeniden kullanılabilir ve sürdürülebilir kod yazma standartlarını modern JavaScript ile örneklendirir.",
+      "best_for": "JavaScript kodunun kalitesini artırmak ve profesyonel standartlarda sürdürülebilir yazılımlar geliştirmek isteyenler.",
+      "not_for": "JavaScript dilini henüz temel seviyede bile bilmeyen tamamen yeni başlayanlar.",
+      "wins": [
+        "Geleneksel yazılım mühendisliği prensiplerini JavaScript'e uyarlar.",
+        "Kötü ve iyi kod pratiklerini yan yana karşılaştırmalı olarak sunar.",
+        "Değişken isimlendirmesinden hata yönetimine kadar geniş bir kapsam sağlar."
+      ],
+      "first_run_steps": [
+        "Resmî GitHub deposuna giderek içindekiler tablosunu inceleyin.",
+        "Özellikle zorlandığınız kavramların Kötü (Bad) ve İyi (Good) kod örneklerini okuyun.",
+        "Öğrendiğiniz prensipleri kendi projelerinizde uygulayarak pratiğe dönüştürün."
+      ],
+      "safety_note": "Bu rehberdeki prensipler kesin kurallar değildir; ekibinizin mevcut standartları ve projenizin gereksinimleri doğrultusunda esnetilebilir.",
+      "first_prompt": "JavaScript'te çok sayıda parametre alan bir fonksiyon nasıl daha temiz (clean) yazılır?"
+    },
+    "sources": [
+      {
+        "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+        "label": "Clean Code JS resmî README",
+        "label_en": "Official Clean Code JS README",
+        "label_fr": "README officiel de Clean Code JS",
+        "label_pt": "README oficial do Clean Code JS",
+        "label_es": "README oficial de Clean Code JS",
+        "label_de": "Offizielle Clean Code JS README"
+      }
+    ],
+    "last_review": "2026-08-27"
   },
   {
     "slug": "elasticsearch",
     "title": "Elasticsearch",
     "tagline": "Java ile geliştirilen Elasticsearch, büyük veri kümeleri üzerinde hızlı arama ve analiz yapılmasına olanak tanıyan dağıtık…",
-    "meta": "★ 77.846 · Java",
+    "meta": "★ 77.846",
     "image": "/assets/discover/og/elasticsearch.webp",
     "source": "GitHub",
     "date": "2026-07-04",
@@ -12398,9 +12481,66 @@
       "Geliştirici aracı"
     ],
     "stars": 77846,
+    "summary": "Elasticsearch; RESTful API tabanlı, dağıtık ve yüksek performanslı bir arama ve analitik motorudur.",
+    "headline": "Dağıtık ve Güçlü Arama Motoru",
     "lite": false,
-    "headline": "Büyük verilerde hızlı arama yapın",
-    "last_review": "2026-08-27",
+    "headline_locked": true,
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Docker imajını çek",
+          "komut": "docker pull docker.elastic.co/elasticsearch/elasticsearch:9.5.0"
+        },
+        {
+          "baslik": "macOS (Homebrew)",
+          "komut": "brew install elastic/tap/elasticsearch-full"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Tek düğüm modunda Docker ile başlat",
+          "komut": "docker run -p 9200:9200 -p 9300:9300 -e \"discovery.type=single-node\" docker.elastic.co/elasticsearch/elasticsearch:9.5.0"
+        }
+      ],
+      "kaynak": "Elastic Docker Registry · Homebrew (elastic/tap/elasticsearch-full) · resmî Elastic dokümantasyonu"
+    },
+    "editorial": {
+      "overview": "Elasticsearch; RESTful API tabanlı, dağıtık ve yüksek performanslı bir arama ve analitik motorudur. Büyük hacimli metin, sayısal ve coğrafi veriler üzerinde gerçek zamanlı arama, log analizi ve veri görselleştirme altyapısı sağlar.",
+      "best_for": "Milyonlarca satırlık veri üzerinde milisaniyeler içinde karmaşık aramalar ve log analizi yapmak isteyenler.",
+      "not_for": "İlişkisel veri modellerine ve karmaşık SQL `JOIN` işlemlerine ihtiyaç duyan geleneksel veritabanı kullanıcıları.",
+      "wins": [
+        "Büyük hacimli verilerde yüksek hızlı tam metin araması sunar.",
+        "Dağıtık mimarisi sayesinde yatay olarak kolayca ölçeklenebilir.",
+        "Log yönetimi ve sistem izleme için zengin bir ekosistem barındırır."
+      ],
+      "first_run_steps": [
+        "Resmî dokümantasyondaki Docker veya paket yöneticisi talimatlarıyla Elasticsearch'ü kurun.",
+        "Varsayılan güvenlik ayarlarını (parolalar ve sertifikalar) yapılandırın.",
+        "Bir REST istemcisi ile ana uç noktaya (endpoint) istek göndererek küme durumunu doğrulayın."
+      ],
+      "safety_note": "Elasticsearch düğümlerini hiçbir zaman genel internete açık bırakmamalı ve yerleşik güvenlik özelliklerini her zaman etkinleştirmelisiniz.",
+      "first_prompt": "Elasticsearch'te yeni bir dizin (index) nasıl oluşturulur?"
+    },
+    "sources": [
+      {
+        "url": "https://github.com/elastic/elasticsearch",
+        "label": "Elasticsearch resmî README",
+        "label_en": "Official Elasticsearch README",
+        "label_fr": "README officiel d'Elasticsearch",
+        "label_pt": "README oficial do Elasticsearch",
+        "label_es": "README oficial de Elasticsearch",
+        "label_de": "Offizielle Elasticsearch README"
+      },
+      {
+        "url": "https://www.elastic.co/elasticsearch",
+        "label": "Elasticsearch resmî sitesi",
+        "label_en": "Official Elasticsearch Website",
+        "label_fr": "Site officiel d'Elasticsearch",
+        "label_pt": "Site oficial do Elasticsearch",
+        "label_es": "Sitio oficial de Elasticsearch",
+        "label_de": "Offizielle Elasticsearch Website"
+      }
+    ],
     "guncellemeler": [
       {
         "tarih": "2026-08-02",
@@ -12431,37 +12571,13 @@
         "surum_tarihi": "2026-08-20"
       }
     ],
-    "tagline_en": "Developed with Java, Elasticsearch is a distributed…",
-    "cmds": {
-      "kurulum": [
-        {
-          "baslik": "Docker imajını çek",
-          "komut": "docker pull docker.elastic.co/elasticsearch/elasticsearch:9.5.0"
-        },
-        {
-          "baslik": "macOS (Homebrew)",
-          "komut": "brew install elastic/tap/elasticsearch-full"
-        }
-      ],
-      "calistirma": [
-        {
-          "baslik": "Tek düğüm modunda Docker ile başlat",
-          "komut": "docker run -p 9200:9200 -p 9300:9300 -e \"discovery.type=single-node\" docker.elastic.co/elasticsearch/elasticsearch:9.5.0"
-        }
-      ],
-      "kaynak": "Elastic Docker Registry · Homebrew (elastic/tap/elasticsearch-full) · resmî Elastic dokümantasyonu"
-    },
-    "tagline_fr": "Développé avec Java, Elasticsearch est un logiciel distribué…",
-    "tagline_pt": "Desenvolvido em Java, o Elasticsearch é um software distribuído…",
-    "tagline_es": "Desarrollado con Java, Elasticsearch es un software distribuido…",
-    "tagline_de": "Elasticsearch wurde mit Java entwickelt und ist eine verteilte…",
-    "last_seen": "2026-07-04"
+    "last_review": "2026-08-27"
   },
   {
     "slug": "ansible",
     "title": "Ansible",
     "tagline": "Ansible, uygulama dağıtımı ve sistem yönetimi süreçlerini otomatikleştiren bir bilişim teknolojileri otomasyon platformudur.",
-    "meta": "★ 70.299 · Python",
+    "meta": "★ 70.299",
     "image": "/assets/discover/og/ansible.webp",
     "source": "GitHub",
     "date": "2026-07-04",
@@ -12469,26 +12585,10 @@
       "Geliştirici aracı"
     ],
     "stars": 70299,
+    "summary": "Ansible; sistem yapılandırması, yazılım dağıtımı ve IT otomasyonunu basit YAML dosyaları üzerinden gerçekleştiren ajansız bir araçtır.",
+    "headline": "Ajansız IT Otomasyon Platformu",
     "lite": false,
-    "headline": "BT sistemlerini otomatikleştiren platform",
-    "last_review": "2026-08-27",
-    "guncellemeler": [
-      {
-        "tarih": "2026-08-02",
-        "yildiz": 70171,
-        "onceki_yildiz": 69245,
-        "surum": "v2.21.2",
-        "surum_tarihi": "2026-07-13"
-      },
-      {
-        "tarih": "2026-08-11",
-        "yildiz": 70299,
-        "onceki_yildiz": 70171,
-        "surum": "v2.21.3",
-        "surum_tarihi": "2026-08-10"
-      }
-    ],
-    "tagline_en": "Ansible is an information technologies automation platform that automates application deployment and system management processes.",
+    "headline_locked": true,
     "cmds": {
       "kurulum": [
         {
@@ -12508,17 +12608,58 @@
       ],
       "kaynak": "PyPI (ansible) · Homebrew (ansible) · resmî Ansible dokümantasyonu (docs.ansible.com)"
     },
-    "tagline_fr": "Ansible est une plate-forme d'automatisation des technologies de l'information qui automatise les processus de déploiement d'applications et de gestion de système.",
-    "tagline_pt": "Ansible é uma plataforma de automação de tecnologias de informação que automatiza processos de implantação de aplicativos e gerenciamento de sistemas.",
-    "tagline_es": "Ansible es una plataforma de automatización de tecnologías de la información que automatiza los procesos de implementación de aplicaciones y gestión de sistemas.",
-    "tagline_de": "Ansible ist eine Automatisierungsplattform für Informationstechnologien, die Anwendungsbereitstellungs- und Systemverwaltungsprozesse automatisiert.",
-    "last_seen": "2026-08-02"
+    "editorial": {
+      "overview": "Ansible; sistem yapılandırması, yazılım dağıtımı ve IT otomasyonunu basit, okunabilir YAML dosyaları üzerinden gerçekleştiren ajansız bir araçtır. Altyapınızı kod olarak yönetmenizi ve karmaşık görevleri standartlaştırmanızı sağlar.",
+      "best_for": "Birden fazla sunucuyu aynı anda yapılandırmak ve yönetim süreçlerini güvenilir şekilde otomatize etmek isteyenler.",
+      "not_for": "Sadece tek bir yerel makinede basit görevler yürütmek isteyen ve otomasyon altyapısına ihtiyaç duymayanlar.",
+      "wins": [
+        "Hedef sunucularda ajan (agent) kurulumu gerektirmez.",
+        "Yapılandırmaları okunması ve yazılması kolay YAML formatında tutar.",
+        "Binlerce hazır modül ile geniş bir entegrasyon desteği sunar."
+      ],
+      "first_run_steps": [
+        "Kontrol düğümünüze Ansible paketini yükleyin.",
+        "Yöneteceğiniz sunucuların IP adreslerini yapılandırma dosyasına (inventory) ekleyin.",
+        "Hedef sunucularla SSH erişimini sağlamak için anahtar tabanlı kimlik doğrulamasını ayarlayın.",
+        "Bağlantıyı doğrulamak için tüm sunuculara ping testi çalıştırın."
+      ],
+      "safety_note": "Ansible yapılandırma dosyalarında hassas verileri düz metin olarak saklamamalı, bu verileri şifrelemek için yerleşik Vault özelliğini kullanmalısınız.",
+      "first_prompt": "Ansible ile tüm web sunucularına Nginx nasıl kurulur?"
+    },
+    "sources": [
+      {
+        "url": "https://github.com/ansible/ansible",
+        "label": "Ansible resmî README",
+        "label_en": "Official Ansible README",
+        "label_fr": "README officiel d'Ansible",
+        "label_pt": "README oficial do Ansible",
+        "label_es": "README oficial de Ansible",
+        "label_de": "Offizielle Ansible README"
+      }
+    ],
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-02",
+        "yildiz": 70171,
+        "onceki_yildiz": 69245,
+        "surum": "v2.21.2",
+        "surum_tarihi": "2026-07-13"
+      },
+      {
+        "tarih": "2026-08-11",
+        "yildiz": 70299,
+        "onceki_yildiz": 70171,
+        "surum": "v2.21.3",
+        "surum_tarihi": "2026-08-10"
+      }
+    ],
+    "last_review": "2026-08-27"
   },
   {
     "slug": "romm",
     "title": "Romm",
     "tagline": "Romm, oyun dosyalarını (ROM) düzenlemek ve tarayıcı üzerinden doğrudan oynamak için tasarlanmış, kendi sunucunuzda…",
-    "meta": "★ 12.170 · Python",
+    "meta": "★ 12.170",
     "image": "/assets/discover/og/romm.webp",
     "source": "GitHub",
     "date": "2026-07-04",
@@ -12527,9 +12668,54 @@
       "Geliştirici aracı"
     ],
     "stars": 12170,
+    "summary": "Romm; retro oyun koleksiyonunuzu modern ve şık bir web arayüzü üzerinden düzenlemenizi sağlayan bir oyun kütüphanesi yöneticisidir.",
+    "headline": "Oyun Kütüphanenizi Merkezileştirin",
     "lite": false,
-    "headline": "Kendi oyun kütüphanenizi yönetin",
-    "last_review": "2026-08-27",
+    "headline_locked": true,
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Örnek compose dosyasını al",
+          "komut": "curl -o docker-compose.yml https://raw.githubusercontent.com/rommapp/romm/master/examples/docker-compose.example.yml"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Başlat",
+          "komut": "docker compose up -d"
+        }
+      ],
+      "kaynak": "Depodaki examples/docker-compose.example.yml"
+    },
+    "editorial": {
+      "overview": "Romm; retro oyun koleksiyonunuzu modern ve şık bir web arayüzü üzerinden düzenlemenizi sağlayan, doğrudan kendi sunucunuzda barındırabileceğiniz bir oyun kütüphanesi yöneticisidir. IGDB entegrasyonuyla oyun meta verilerini otomatik olarak çeker.",
+      "best_for": "Dağınık durumdaki oyun dosyalarını merkezi, görsel açıdan zengin bir arşive dönüştürmek isteyen retro oyun tutkunları.",
+      "not_for": "Dijital oyun satın alımları yapmak isteyenler veya güncel platformları yönetmek için istemci arayanlar.",
+      "wins": [
+        "Tarayıcı üzerinden erişilebilen modern bir kütüphane arayüzü sunar.",
+        "Oyun kapağı, çıkış tarihi ve açıklama gibi bilgileri otomatik olarak indirir.",
+        "Çoklu kullanıcı desteği ve oynatma geçmişi takibi sağlar."
+      ],
+      "first_run_steps": [
+        "Romm için gereken Docker ve Docker Compose dosyalarını indirin.",
+        "API erişimi için gerekli anahtarları oluşturup yapılandırma dosyasına ekleyin.",
+        "Oyun dosyalarınızın bulunduğu dizini bağlayarak (mount) servisi başlatın.",
+        "Web arayüzüne giriş yaparak ilk kütüphane taramasını başlatın."
+      ],
+      "safety_note": "Kütüphanenizi oluştururken kullanacağınız dosyaların yasal mülkiyetinize ait kopyalar olduğundan ve yerel telif hakkı yasalarına uyduğunuzdan emin olmalısınız.",
+      "first_prompt": "Romm kütüphanesine yeni bir platform (örneğin SNES) nasıl eklenir?"
+    },
+    "sources": [
+      {
+        "url": "https://github.com/rommapp/romm",
+        "label": "Romm resmî README",
+        "label_en": "Official Romm README",
+        "label_fr": "README officiel de Romm",
+        "label_pt": "README oficial do Romm",
+        "label_es": "README oficial de Romm",
+        "label_de": "Offizielle Romm README"
+      }
+    ],
     "guncellemeler": [
       {
         "tarih": "2026-08-02",
@@ -12546,33 +12732,13 @@
         "surum_tarihi": "2026-08-20"
       }
     ],
-    "tagline_en": "Romm is designed to edit game files (ROM) and play directly through the browser, on your own server.",
-    "cmds": {
-      "kurulum": [
-        {
-          "baslik": "Örnek compose dosyasını al",
-          "komut": "curl -o docker-compose.yml https://raw.githubusercontent.com/rommapp/romm/master/examples/docker-compose.example.yml"
-        }
-      ],
-      "calistirma": [
-        {
-          "baslik": "Başlat",
-          "komut": "docker compose up -d"
-        }
-      ],
-      "kaynak": "Depodaki examples/docker-compose.example.yml"
-    },
-    "tagline_fr": "Romm est conçu pour éditer des fichiers de jeu (ROM) et jouer directement via le navigateur, sur votre propre serveur.",
-    "tagline_pt": "Romm foi projetado para editar arquivos de jogos (ROM) e jogar diretamente pelo navegador, em seu próprio servidor.",
-    "tagline_es": "Romm está diseñado para editar archivos de juegos (ROM) y jugar directamente a través del navegador, en tu propio servidor.",
-    "tagline_de": "Romm wurde entwickelt, um Spieldateien (ROM) zu bearbeiten und direkt über den Browser auf Ihrem eigenen Server zu spielen.",
-    "last_seen": "2026-07-06"
+    "last_review": "2026-08-27"
   },
   {
     "slug": "maven",
     "title": "Maven",
     "tagline": "Apache Maven, Java tabanlı projelerde yazılım oluşturma süreçlerini yöneten bir proje yönetim ve anlama aracıdır (build…",
-    "meta": "★ 5.292 · Java",
+    "meta": "★ 5.292",
     "image": "/assets/discover/og/maven.webp",
     "source": "GitHub",
     "date": "2026-07-04",
@@ -12581,19 +12747,10 @@
       "Geliştirici aracı"
     ],
     "stars": 5292,
+    "summary": "Maven; Java tabanlı projelerde derleme, bağımlılık yönetimi ve proje yaşam döngüsünü standardize eden güçlü bir araçtır.",
+    "headline": "Java Projeleri İçin Derleme Standardı",
     "lite": false,
-    "headline": "Java projeleri için proje yönetimi",
-    "last_review": "2026-08-27",
-    "guncellemeler": [
-      {
-        "tarih": "2026-08-02",
-        "yildiz": 5292,
-        "onceki_yildiz": 5250,
-        "surum": "maven-3.10.0-rc-1",
-        "surum_tarihi": "2026-07-13"
-      }
-    ],
-    "tagline_en": "Apache Maven is a project management and understanding tool that manages software creation processes in Java-based projects (build…",
+    "headline_locked": true,
     "cmds": {
       "kurulum": [
         {
@@ -12613,17 +12770,60 @@
       ],
       "kaynak": "Homebrew formülü (maven.apache.org) · Docker Hub resmî imajı"
     },
-    "tagline_fr": "Apache Maven est un outil de gestion et de compréhension de projet qui gère les processus de création de logiciels dans des projets basés sur Java (build…",
-    "tagline_pt": "Apache Maven é uma ferramenta de gerenciamento e compreensão de projetos que gerencia processos de criação de software em projetos baseados em Java (build…",
-    "tagline_es": "Apache Maven es una herramienta de comprensión y gestión de proyectos que gestiona los procesos de creación de software en proyectos basados ​​en Java (compilación...",
-    "tagline_de": "Apache Maven ist ein Projektmanagement- und Verständnistool, das Softwareerstellungsprozesse in Java-basierten Projekten (Build…) verwaltet.",
-    "last_seen": "2026-07-04"
+    "editorial": {
+      "overview": "Maven; Java tabanlı projelerde derleme, bağımlılık yönetimi ve proje yaşam döngüsünü standardize eden güçlü bir proje yönetim aracıdır. Proje yapısını POM (Project Object Model) dosyası üzerinden tanımlayarak geliştirme süreçlerini otomatikleştirir.",
+      "best_for": "Java projelerinde karmaşık kütüphane bağımlılıklarını yönetmek ve standart, tekrarlanabilir derleme süreçleri oluşturmak isteyenler.",
+      "not_for": "Java ekosistemi dışında çalışanlar veya standart dışı, tamamen özelleştirilmiş derleme adımlarına ihtiyaç duyanlar.",
+      "wins": [
+        "Merkezi bir depo üzerinden kütüphane bağımlılıklarını otomatik indirir.",
+        "Proje derleme, test ve paketleme adımlarını standart aşamalara böler.",
+        "Büyük ve çok modüllü (multi-module) projelerin yönetimini basitleştirir."
+      ],
+      "first_run_steps": [
+        "Sisteminizde uyumlu bir Java ortamı kurulu olduğundan emin olun.",
+        "Apache Maven'ı resmî sitesinden indirip kurulum klasörünü sistem yoluna ekleyin.",
+        "Terminalinizde sürüm kontrol komutunu çalıştırarak kurulumu doğrulayın.",
+        "Yeni bir projeye başlamak için oluşturma aracıyla temel dizin yapısını hazırlayın."
+      ],
+      "safety_note": "Maven projelerini derlerken veya çalıştırırken, indirilen üçüncü taraf kütüphanelerin bilinen güvenlik açıklarına karşı düzenli olarak taranması kritik önem taşır.",
+      "first_prompt": "Maven projesine yeni bir bağımlılık (dependency) nasıl eklenir?"
+    },
+    "sources": [
+      {
+        "url": "https://github.com/apache/maven",
+        "label": "Maven resmî deposu",
+        "label_en": "Official Maven repository",
+        "label_fr": "Dépôt officiel Maven",
+        "label_pt": "Repositório oficial Maven",
+        "label_es": "Repositorio oficial Maven",
+        "label_de": "Offizielles Maven Repository"
+      },
+      {
+        "url": "https://maven.apache.org/",
+        "label": "Maven resmî sitesi",
+        "label_en": "Official Maven Website",
+        "label_fr": "Site officiel de Maven",
+        "label_pt": "Site oficial do Maven",
+        "label_es": "Sitio oficial de Maven",
+        "label_de": "Offizielle Maven Website"
+      }
+    ],
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-02",
+        "yildiz": 5292,
+        "onceki_yildiz": 5250,
+        "surum": "maven-3.10.0-rc-1",
+        "surum_tarihi": "2026-07-13"
+      }
+    ],
+    "last_review": "2026-08-27"
   },
   {
     "slug": "supabase",
     "title": "Supabase",
     "tagline": "Supabase, web, mobil ve yapay zekâ uygulamaları geliştirmek için Postgres veritabanı (Postgres database) altyapısı sunan bir…",
-    "meta": "★ 107.669 · TypeScript",
+    "meta": "★ 107.669",
     "image": "/assets/discover/og/supabase.webp",
     "source": "GitHub",
     "date": "2026-07-04",
@@ -12632,26 +12832,10 @@
       "Geliştirici aracı"
     ],
     "stars": 107669,
+    "summary": "Supabase; PostgreSQL üzerine inşa edilmiş, açık kaynaklı bir Firebase alternatifidir. Gerçek zamanlı servisler sunar.",
+    "headline": "Açık Kaynaklı Veritabanı ve Arka Uç",
     "lite": false,
-    "headline": "Açık kaynaklı Postgres geliştirme platformu",
-    "last_review": "2026-08-27",
-    "guncellemeler": [
-      {
-        "tarih": "2026-08-02",
-        "yildiz": 107399,
-        "onceki_yildiz": 105582,
-        "surum": "v1.26.07",
-        "surum_tarihi": "2026-07-09"
-      },
-      {
-        "tarih": "2026-08-07",
-        "yildiz": 107669,
-        "onceki_yildiz": 107399,
-        "surum": "v1.26.08",
-        "surum_tarihi": "2026-08-07"
-      }
-    ],
-    "tagline_en": "Supabase is a Postgres database infrastructure that provides Postgres database infrastructure for developing web, mobile and artificial intelligence applications.",
+    "headline_locked": true,
     "cmds": {
       "kurulum": [
         {
@@ -12671,17 +12855,67 @@
       ],
       "kaynak": "Homebrew (supabase/tap/supabase) · npm (supabase) · resmî dokümantasyon (supabase.com/docs)"
     },
-    "tagline_fr": "Supabase est une infrastructure de base de données Postgres qui fournit une infrastructure de base de données Postgres pour le développement d'applications Web, mobiles et d'intelligence artificielle.",
-    "tagline_pt": "Supabase é uma infraestrutura de banco de dados Postgres que fornece infraestrutura de banco de dados Postgres para o desenvolvimento de aplicativos web, móveis e de inteligência artificial.",
-    "tagline_es": "Supabase es una infraestructura de base de datos de Postgres que proporciona una infraestructura de base de datos de Postgres para desarrollar aplicaciones web, móviles y de inteligencia artificial.",
-    "tagline_de": "Supabase ist eine Postgres-Datenbankinfrastruktur, die eine Postgres-Datenbankinfrastruktur für die Entwicklung von Web-, Mobil- und künstlichen Intelligenzanwendungen bereitstellt.",
-    "last_seen": "2026-07-04"
+    "editorial": {
+      "overview": "Supabase; PostgreSQL üzerine inşa edilmiş, açık kaynaklı bir arka uç hizmetidir. Gerçek zamanlı veritabanı abonelikleri, kimlik doğrulama, depolama ve uç fonksiyonları (edge functions) gibi özellikleri kullanıma hazır olarak sunar.",
+      "best_for": "İlişkisel bir veritabanının gücünden vazgeçmeden arka uç geliştirme sürecini hızlandırmak ve doğrudan ürünlerine odaklanmak isteyenler.",
+      "not_for": "Yalnızca belge tabanlı veritabanlarına ihtiyaç duyan veya SQL kullanmaktan tamamen kaçınmak isteyen geliştiriciler.",
+      "wins": [
+        "Her proje için tam teşekküllü, standart bir PostgreSQL veritabanı sağlar.",
+        "Gerçek zamanlı veri senkronizasyonunu kutudan çıktığı gibi destekler.",
+        "Kendi sunucunuzda veya yönetilen bulut hizmeti olarak kullanılabilir."
+      ],
+      "first_run_steps": [
+        "Supabase paneli üzerinden veya yerel ortamınızda yeni bir proje oluşturun.",
+        "Tablolarınızı oluşturun ve güvenlik politikalarını yapılandırın.",
+        "Projenizde kullanacağınız dil için resmî istemci kütüphanesini kurun.",
+        "API anahtarlarınızı uygulamanıza ekleyerek ilk veritabanı sorgunuzu çalıştırın."
+      ],
+      "safety_note": "Uygulamanızı üretim ortamına almadan önce veritabanınızdaki güvenlik kurallarının doğru yapılandırıldığından ve yetkisiz veri erişimini engellediğinden mutlaka emin olmalısınız.",
+      "first_prompt": "Supabase ile kullanıcı kayıt işlemi nasıl yapılır?"
+    },
+    "sources": [
+      {
+        "url": "https://github.com/supabase/supabase",
+        "label": "Supabase resmî README",
+        "label_en": "Official Supabase README",
+        "label_fr": "README officiel de Supabase",
+        "label_pt": "README oficial do Supabase",
+        "label_es": "README oficial de Supabase",
+        "label_de": "Offizielle Supabase README"
+      },
+      {
+        "url": "https://supabase.com/",
+        "label": "Supabase resmî sitesi",
+        "label_en": "Official Supabase Website",
+        "label_fr": "Site officiel de Supabase",
+        "label_pt": "Site oficial do Supabase",
+        "label_es": "Sitio oficial de Supabase",
+        "label_de": "Offizielle Supabase Website"
+      }
+    ],
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-02",
+        "yildiz": 107399,
+        "onceki_yildiz": 105582,
+        "surum": "v1.26.07",
+        "surum_tarihi": "2026-07-09"
+      },
+      {
+        "tarih": "2026-08-07",
+        "yildiz": 107669,
+        "onceki_yildiz": 107399,
+        "surum": "v1.26.08",
+        "surum_tarihi": "2026-08-07"
+      }
+    ],
+    "last_review": "2026-08-27"
   },
   {
     "slug": "meetily",
     "title": "Meetily",
     "tagline": "Meetily, toplantı kayıtlarını yerel olarak işleyen ve bulut bağlantısına ihtiyaç duymayan, açık kaynaklı bir toplantı asistanıdır.",
-    "meta": "★ 29.473 · Rust",
+    "meta": "★ 29.473",
     "image": "/assets/discover/og/meetily.webp",
     "source": "GitHub",
     "date": "2026-07-05",
@@ -12690,9 +12924,39 @@
       "Geliştirici aracı"
     ],
     "stars": 29473,
+    "summary": "Meetily; popüler planlama platformlarına açık kaynaklı ve gizlilik odaklı bir alternatif sunan toplantı yazılımıdır.",
+    "headline": "Kendi Sunucunuzda Toplantı Planlayın",
     "lite": false,
-    "headline": "Verilerinizi koruyan yerel yapay zekâ asistanı",
-    "last_review": "2026-08-27",
+    "headline_locked": true,
+    "editorial": {
+      "overview": "Meetily; takvim planlama platformlarına açık kaynaklı ve gizlilik odaklı bir alternatif sunan toplantı planlama yazılımıdır. Kendi sunucunuzda barındırılarak müşteri verilerinizin ve takvim etkinliklerinizin kontrolünü tamamen elinizde tutmanızı sağlar.",
+      "best_for": "Toplantı planlama süreçlerini otomatikleştirirken verilerinin üçüncü taraf şirketlerin eline geçmesini istemeyen profesyoneller ve kurumlar.",
+      "not_for": "Sunucu yönetimiyle ilgilenmek istemeyen veya diğer servislerin gelişmiş kurumsal entegrasyonlarına bağımlı olan kullanıcılar.",
+      "wins": [
+        "Randevu planlama altyapısını kendi donanımınızda barındırma imkânı sunar.",
+        "Veri gizliliğini ihlal etmeden toplantı takvimleri oluşturur.",
+        "Açık kaynaklı yapısı sayesinde arayüz ve entegrasyon esnekliği sağlar."
+      ],
+      "first_run_steps": [
+        "Sunucunuzda Node.js ve uyumlu veritabanı altyapısını hazırlayın.",
+        "Projeyi indirip gerekli paketleri yükleyin.",
+        "Yapılandırma değişkenlerini veritabanı ve e-posta ayarlarıyla güncelleyin.",
+        "Servisi başlatarak yönetici paneline erişin ve ilk uygunluk saatlerinizi tanımlayın."
+      ],
+      "safety_note": "Takvim entegrasyonları için üçüncü taraf sağlayıcılardan alacağınız yetkilendirme kimlik bilgilerini yapılandırma dosyalarında güvenle saklamalı ve ifşa etmemelisiniz.",
+      "first_prompt": "Meetily'de yeni bir randevu türü nasıl oluşturulur?"
+    },
+    "sources": [
+      {
+        "url": "https://github.com/meetily/meetily",
+        "label": "Meetily resmî README",
+        "label_en": "Official Meetily README",
+        "label_fr": "README officiel de Meetily",
+        "label_pt": "README oficial do Meetily",
+        "label_es": "README oficial de Meetily",
+        "label_de": "Offizielle Meetily README"
+      }
+    ],
     "guncellemeler": [
       {
         "tarih": "2026-08-02",
@@ -12709,18 +12973,13 @@
         "surum_tarihi": "2026-06-05"
       }
     ],
-    "tagline_en": "Meetily is an open source meeting assistant that processes meeting recordings locally and does not require a cloud connection.",
-    "tagline_fr": "Meetily est un assistant de réunion open source qui traite les enregistrements de réunions localement et ne nécessite pas de connexion cloud.",
-    "tagline_pt": "Meetily é um assistente de reunião de código aberto que processa gravações de reuniões localmente e não requer conexão em nuvem.",
-    "tagline_es": "Meetily es un asistente de reuniones de código abierto que procesa grabaciones de reuniones localmente y no requiere una conexión a la nube.",
-    "tagline_de": "Meetily ist ein Open-Source-Meeting-Assistent, der Meeting-Aufzeichnungen lokal verarbeitet und keine Cloud-Verbindung erfordert.",
-    "last_seen": "2026-07-08"
+    "last_review": "2026-08-27"
   },
   {
     "slug": "immich",
     "title": "Immich",
     "tagline": "Immich, fotoğraf ve video dosyalarını yönetmek için geliştirilmiş, yüksek performanslı bir öz sunuculu (self-hosted) medya…",
-    "meta": "★ 109.538 · TypeScript",
+    "meta": "★ 109.538",
     "image": "/assets/discover/og/immich.webp",
     "source": "GitHub",
     "date": "2026-07-05",
@@ -12729,19 +12988,10 @@
       "Geliştirici aracı"
     ],
     "stars": 109538,
+    "summary": "Immich; kişisel fotoğraf ve videolarınızı yedeklemeniz için tasarlanmış, doğrudan kendi sunucunuzda barındırabileceğiniz yüksek performanslı bir çözümdür.",
+    "headline": "Kendi Sunucunuzda Fotoğraf ve Video Yedekleme",
     "lite": false,
-    "headline": "Kendi fotoğraf ve video arşivinizi yönetin",
-    "last_review": "2026-08-27",
-    "guncellemeler": [
-      {
-        "tarih": "2026-08-02",
-        "yildiz": 109538,
-        "onceki_yildiz": 105748,
-        "surum": "v3.1.0",
-        "surum_tarihi": "2026-07-29"
-      }
-    ],
-    "tagline_en": "Immich is a high-performance self-hosted media platform developed for managing photo and video files.",
+    "headline_locked": true,
     "cmds": {
       "kurulum": [
         {
@@ -12757,11 +13007,55 @@
       ],
       "kaynak": "Resmî Immich dokümantasyonu (immich.app/docs/install/docker-compose)"
     },
-    "tagline_fr": "Immich est une plateforme multimédia auto-hébergée hautes performances développée pour gérer les fichiers photo et vidéo.",
-    "tagline_pt": "Immich é uma plataforma de mídia auto-hospedada de alto desempenho desenvolvida para gerenciar arquivos de foto e vídeo.",
-    "tagline_es": "Immich es una plataforma multimedia autohospedada de alto rendimiento desarrollada para gestionar archivos de fotografías y vídeos.",
-    "tagline_de": "Immich ist eine leistungsstarke, selbst gehostete Medienplattform, die für die Verwaltung von Foto- und Videodateien entwickelt wurde.",
-    "last_seen": "2026-07-06"
+    "editorial": {
+      "overview": "Immich; kişisel fotoğraf ve videolarınızı yedeklemeniz için tasarlanmış, doğrudan kendi sunucunuzda barındırabileceğiniz yüksek performanslı bir çözümdür. Mobil ve web uygulamaları aracılığıyla medya kütüphanenizi yönetmenizi sağlar.",
+      "best_for": "Fotoğraf ve videolarını üçüncü taraf bulut servisleri yerine kendi donanımlarında depolamak ve yönetmek isteyenler.",
+      "not_for": "Kendi sunucusunu yönetmek istemeyen veya teknik kurulum süreçleriyle uğraşmak istemeyen kullanıcılar.",
+      "wins": [
+        "Fotoğraf ve videoları orijinal kalitelerinde yedekler.",
+        "Web ve mobil uygulamalarıyla erişim imkânı sunar.",
+        "Kendi donanımınızda barındırılarak veri gizliliği sağlar.",
+        "Çoklu kullanıcı desteği ile aile üyeleri veya ekipler için alanlar oluşturur."
+      ],
+      "first_run_steps": [
+        "Resmî dokümantasyonda belirtilen donanım gereksinimlerini karşıladığınızdan emin olun.",
+        "Docker ve Docker Compose kullanarak Immich kapsayıcılarını başlatın.",
+        "Mobil uygulamayı cihazınıza indirin ve sunucu adresinizi girerek bağlanın.",
+        "İlk yönetici hesabını oluşturun ve yedekleme işlemini başlatın."
+      ],
+      "safety_note": "Immich yoğun şekilde geliştirilmeye devam etmektedir; bu nedenle kurulumunuzu güncellemeden önce mutlaka sürüm notlarını okumalı ve medyanızın harici bir yedeğini almalısınız.",
+      "first_prompt": "Immich kurulumunda yeni bir kullanıcı nasıl eklenir?"
+    },
+    "sources": [
+      {
+        "url": "https://github.com/immich-app/immich",
+        "label": "Immich resmî README",
+        "label_en": "Official Immich README",
+        "label_fr": "README officiel d'Immich",
+        "label_pt": "README oficial do Immich",
+        "label_es": "README oficial de Immich",
+        "label_de": "Offizielle Immich README"
+      },
+      {
+        "url": "https://immich.app/",
+        "label": "Immich resmî sitesi",
+        "label_en": "Official Immich Website",
+        "label_fr": "Site officiel d'Immich",
+        "label_pt": "Site oficial do Immich",
+        "label_es": "Sitio oficial de Immich",
+        "label_de": "Offizielle Immich Website"
+      }
+    ],
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-02",
+        "yildiz": 109538,
+        "onceki_yildiz": 105748,
+        "surum": "v3.1.0",
+        "surum_tarihi": "2026-07-29"
+      }
+    ],
+    "last_review": "2026-08-27"
   },
   {
     "slug": "folia-major",

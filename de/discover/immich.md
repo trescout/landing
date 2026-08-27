@@ -1,15 +1,35 @@
-# Verwalten Sie Ihr eigenes Foto- und Videoarchiv
+# Foto- und Video-Backup auf Ihrem eigenen Server
 
-Immich ist eine leistungsstarke, selbst gehostete Medienverwaltungslösung, die für die Verwaltung von Foto- und Videodateien entwickelt wurde. Diese in TypeScript geschriebene Plattform ermöglicht es Benutzern, ein zentrales Medienarchiv auf ihrer eigenen Infrastruktur zu erstellen.
+Immich ist eine leistungsstarke Lösung für das Backup Ihrer persönlichen Fotos und Videos, die Sie direkt auf Ihrem eigenen Server hosten können.
 
 - ★ 109.538
-- TypeScript
 - GitHub Trending · 2026-07-05
 
-## Was es bringt
-- Zentraler Speicher für Fotos und Videos
-- Gesichtserkennung und objektbasierte Suche
-- Backup über Mobilgerät und Internet
+## Was macht dieses Werkzeug?
+Immich ist eine leistungsstarke Lösung für das Backup Ihrer persönlichen Fotos und Videos, die Sie direkt auf Ihrem eigenen Server hosten können. Es ermöglicht Ihnen die Verwaltung Ihrer Medienbibliothek über mobile und Webanwendungen.
+
+## Für wen ist es?
+Für diejenigen, die ihre Fotos und Videos auf ihrer eigenen Hardware speichern und verwalten möchten, anstatt Cloud-Dienste von Drittanbietern zu nutzen.
+
+## Was Sie nicht erwarten sollten
+Benutzer, die ihren eigenen Server nicht verwalten möchten oder sich nicht mit technischen Installationsprozessen befassen wollen.
+
+## Höhepunkte
+- Sichert Fotos und Videos in ihrer Originalqualität.
+- Bietet Zugriffsmöglichkeiten über Web- und mobile Anwendungen.
+- Gewährleistet Datenschutz durch Hosting auf Ihrer eigenen Hardware.
+- Unterstützt mehrere Benutzer und ermöglicht die Erstellung von Bereichen für Familienmitglieder oder Teams.
+
+## Ablauf für die erste Nutzung
+- Stellen Sie sicher, dass Sie die in der offiziellen Dokumentation angegebenen Hardwareanforderungen erfüllen.
+- Starten Sie die Immich-Container mit Docker und Docker Compose.
+- Laden Sie die mobile App auf Ihr Gerät herunter und verbinden Sie sich durch Eingabe Ihrer Serveradresse.
+- Erstellen Sie das erste Administratorkonto und starten Sie den Sicherungsvorgang.
+
+## Sicherer Start
+
+## Erster Prompt
+Wie füge ich einer Immich-Installation einen neuen Benutzer hinzu?
 
 ## Installation
 **Laden Sie die Docker Compose-Konfiguration herunter**
@@ -29,13 +49,10 @@ docker compose up -d
 ```
 
 
-## So fangen Sie an
-- Offizielle Quelle →
-
-## Verwandte Begriffe aus dem Glossar
-
 ## Links
 - GitHub-Repository →
+- Offizielle Immich README →
+- Offizielle Immich Website →
 - Auf Türkisch lesen →
 
 ---

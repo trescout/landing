@@ -59,7 +59,7 @@ def page_md(t, canon):
 def main():
     n_md = n_link = 0
     for f in sorted(glob.glob(DISC + "/*/index.html")):
-        slug = f.split("/discover/")[1].split("/")[0]
+        slug = f.replace("\\", "/").split("/discover/")[1].split("/")[0]
         t = open(f, encoding="utf-8").read()
         canon = f"https://trescout.com/discover/{slug}/"
         md = page_md(t, canon)

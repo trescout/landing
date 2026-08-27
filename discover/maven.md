@@ -1,18 +1,43 @@
-# Java projeleri için proje yönetimi
+# Java Projeleri İçin Derleme Standardı
 
-Apache Maven, Java tabanlı projelerde yazılım oluşturma süreçlerini yöneten bir proje yönetim ve anlama aracıdır (build automation tool). Yazılım geliştirme yaşam döngüsünü standartlaştırmak için proje nesne modeli (project object model) yapısını kullanır.
+Maven; Java tabanlı projelerde derleme, bağımlılık yönetimi ve proje yaşam döngüsünü standardize eden güçlü bir araçtır.
 
 - ★ 5.292
-- Java
 - GitHub Trending · 2026-07-04
 
 ## Güncelleme
 - 2 Ağustos 2026: Yıldız 5.250 → 5.292, son sürüm maven-3.10.0-rc-1 (13 Temmuz 2026).
 
-## Ne kazandırır?
-- Yazılım oluşturma süreçlerini standartlaştırır
-- Proje nesne modeli ile merkezi yönetim sağlar
-- Raporlama ve dokümantasyon süreçlerini yönetir
+## Bu araç ne yapar?
+
+Maven; Java tabanlı projelerde derleme, bağımlılık yönetimi ve proje yaşam döngüsünü standardize eden güçlü bir proje yönetim aracıdır. Proje yapısını POM (Project Object Model) dosyası üzerinden tanımlayarak geliştirme süreçlerini otomatikleştirir.
+
+## Kimin için?
+
+Java projelerinde karmaşık kütüphane bağımlılıklarını yönetmek ve standart, tekrarlanabilir derleme süreçleri oluşturmak isteyenler.
+
+## Ne beklememeli?
+
+Java ekosistemi dışında çalışanlar veya standart dışı, tamamen özelleştirilmiş derleme adımlarına ihtiyaç duyanlar.
+
+## Öne çıkanlar
+- Merkezi bir depo üzerinden kütüphane bağımlılıklarını otomatik indirir.
+- Proje derleme, test ve paketleme adımlarını standart aşamalara böler.
+- Büyük ve çok modüllü (multi-module) projelerin yönetimini basitleştirir.
+
+## İlk kullanım akışı
+- Sisteminizde uyumlu bir Java ortamı kurulu olduğundan emin olun.
+- Apache Maven'ı resmî sitesinden indirip kurulum klasörünü sistem yoluna ekleyin.
+- Terminalinizde sürüm kontrol komutunu çalıştırarak kurulumu doğrulayın.
+- Yeni bir projeye başlamak için oluşturma aracıyla temel dizin yapısını hazırlayın.
+
+## Güvenli başlangıç
+
+Maven projelerini derlerken veya çalıştırırken, indirilen üçüncü taraf kütüphanelerin bilinen güvenlik açıklarına karşı düzenli olarak taranması kritik önem taşır.
+
+## İlk görev istemi
+İlk adım için hazır istem 
+Maven projesine yeni bir bağımlılık (dependency) nasıl eklenir?
 
 ## Kurulum
 
@@ -38,16 +63,10 @@ mvn package
 
 Kaynak: Homebrew formülü (maven.apache.org) · Docker Hub resmî imajı
 
-## Nasıl başlanır?
-
-Apache Maven kullanmaya başlamak için resmî Apache Maven ana sayfasını ziyaret edebilir ve indirme sayfasından güncel sürümü temin edebilirsiniz. Kurulum ve kullanım detayları için yine aynı sayfadaki dokümantasyon bölümünü incelemeniz önerilir.
-- [Resmî kaynak →](https://maven.apache.org/ref/current)
-
-- **Kimin için:** Java tabanlı yazılım projelerinde geliştirme, derleme ve yönetim süreçlerini standart bir yapıya oturtmak isteyen yazılım geliştiriciler için uygundur. 
-- **Lisans:** Apache-2.0 
-
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/apache/maven)
+- [Maven resmî deposu →](https://github.com/apache/maven)
+- [Maven resmî sitesi →](https://maven.apache.org/)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 

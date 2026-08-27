@@ -1,15 +1,34 @@
-# Plataforma de desenvolvimento Postgres de código aberto
+# Banco de Dados de Código Aberto e Backend
 
-Supabase é uma plataforma de desenvolvimento que oferece infraestrutura de banco de dados Postgres para desenvolvimento de aplicações web, mobile e de inteligência artificial. Com sua estrutura de código aberto, fornece gerenciamento de banco de dados e serviços de back-end necessários para acelerar os processos de desenvolvimento de aplicativos.
+Supabase é uma alternativa de código aberto ao Firebase, construída sobre o PostgreSQL. Oferece serviços em tempo real.
 
 - ★ 107.669
-- TypeScript
 - GitHub Trending · 2026-07-04
 
-## O que você ganha
-- Oferece infraestrutura de banco de dados Postgres pronta para uso
-- Fornece API e autenticação automáticas
-- Inclui inteligência artificial e suporte vetorial
+## O que esta ferramenta faz?
+Supabase é um serviço de backend de código aberto construído sobre o PostgreSQL. Oferece recursos prontos para uso, como assinaturas de banco de dados em tempo real, autenticação, armazenamento e funções de borda (edge functions).
+
+## Para quem é?
+Para aqueles que desejam acelerar o processo de desenvolvimento de backend sem abrir mão do poder de um banco de dados relacional e focar diretamente em seus produtos.
+
+## O que não esperar
+Desenvolvedores que precisam apenas de bancos de dados baseados em documentos ou que desejam evitar completamente o uso de SQL.
+
+## Destaques
+- Fornece um banco de dados PostgreSQL completo e padrão para cada projeto.
+- Suporta sincronização de dados em tempo real pronta para uso.
+- Pode ser usado em seu próprio servidor ou como um serviço de nuvem gerenciado.
+
+## Primeiro fluxo de uso
+- Crie um novo projeto através do painel do Supabase ou em seu ambiente local.
+- Crie suas tabelas e configure as políticas de segurança.
+- Instale a biblioteca cliente oficial para a linguagem que você usará em seu projeto.
+- Adicione suas chaves de API à sua aplicação e execute sua primeira consulta ao banco de dados.
+
+## Início seguro
+
+## Primeiro prompt
+Como realizar o processo de registro de usuário com o Supabase?
 
 ## Instalação
 **macOS (Homebrew)**
@@ -34,13 +53,10 @@ supabase start
 ```
 
 
-## Como começar
-- Fonte oficial →
-
-## Termos relacionados do glossário
-
 ## Links
 - Repositório no GitHub →
+- README oficial do Supabase →
+- Site oficial do Supabase →
 - Ler em turco →
 
 ---

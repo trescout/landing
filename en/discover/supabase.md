@@ -1,15 +1,34 @@
-# Open source Postgres development platform
+# Open Source Database and Backend
 
-Supabase is a development platform that offers Postgres database infrastructure to develop web, mobile and artificial intelligence applications. With its open source structure, it provides database management and backend services required to accelerate application development processes.
+Supabase is an open source Firebase alternative built on top of PostgreSQL. It offers real-time services.
 
 - ★ 107,669
-- TypeScript
 - GitHub Trending · 2026-07-04
 
-## What you get
-- Offers ready-made Postgres database infrastructure
-- Provides automatic API and authentication
-- Includes artificial intelligence and vector support
+## What does this tool do?
+Supabase is an open source backend service built on top of PostgreSQL. It provides features such as real-time database subscriptions, authentication, storage, and edge functions out of the box.
+
+## Who it is for
+Those who want to accelerate the backend development process without giving up the power of a relational database and focus directly on their products.
+
+## What not to expect
+Developers who only need document-based databases or want to avoid using SQL entirely.
+
+## Highlights
+- Provides a full-featured, standard PostgreSQL database for every project.
+- Supports real-time data synchronization out of the box.
+- Can be used on your own server or as a managed cloud service.
+
+## First-use flow
+- Create a new project via the Supabase dashboard or in your local environment.
+- Create your tables and configure security policies.
+- Install the official client library for the language you will use in your project.
+- Add your API keys to your application and run your first database query.
+
+## Safe start
+
+## First task prompt
+How is user registration performed with Supabase?
 
 ## Installation
 **macOS (Homebrew)**
@@ -34,13 +53,10 @@ supabase start
 ```
 
 
-## Getting started
-- Official source →
-
-## Related dictionary terms
-
 ## Links
 - GitHub repository →
+- Official Supabase README →
+- Official Supabase Website →
 - Read in Turkish →
 
 ---

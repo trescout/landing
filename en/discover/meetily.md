@@ -1,34 +1,38 @@
-# Local AI assistant that protects your data
+# Schedule Meetings on Your Own Server
 
-Meetily is an open source meeting assistant that processes meeting recordings locally and does not require a cloud connection. Developed in Rust, the application offers fast voice transcription, speaker diarization and summarization capabilities with local language models.
+Meetily is meeting software that offers an open-source and privacy-focused alternative to popular scheduling platforms.
 
 - ★ 29,473
-- Rust
 - GitHub Trending · 2026-07-05
 
-## What you get
-- All audio transcription and summarization takes place on your device.
-- It does not require a cloud connection, your data does not leave your computer.
-- It works with local models like Ollama or your own endpoints.
+## What does this tool do?
+Meetily is meeting scheduling software that offers an open-source and privacy-focused alternative to calendar scheduling platforms. By being self-hosted on your own server, it allows you to maintain full control over your customer data and calendar events.
 
-## Installation
-**Installation from source code on Linux**
+## Who it is for
+Professionals and organizations who want to automate meeting scheduling processes without their data falling into the hands of third-party companies.
 
-```
-git clone https://github.com/Zackriya-Solutions/meeting-minutes
-cd meeting-minutes/frontend
-pnpm install
-./build-gpu.sh
-```
+## What not to expect
+Users who do not want to deal with server management or who are dependent on the advanced enterprise integrations of other services.
 
+## Highlights
+- Offers the ability to host your appointment scheduling infrastructure on your own hardware.
+- Creates meeting calendars without violating data privacy.
+- Provides interface and integration flexibility thanks to its open-source structure.
 
-## If you don't write code
-By using this tool that locally processes my meeting recordings, I want to convert my audio transcripts into text and extract summaries from these texts in a way that protects my privacy. How can I create the most efficient meeting notes with local models, while ensuring my data doesn't leave my device?
+## First-use flow
+- Prepare Node.js and a compatible database infrastructure on your server.
+- Download the project and install the necessary packages.
+- Update the configuration variables with database and email settings.
+- Start the service to access the admin panel and define your initial availability hours.
 
-## Related dictionary terms
+## Safe start
+
+## First task prompt
+How to create a new appointment type in Meetily?
 
 ## Links
 - GitHub repository →
+- Official Meetily README →
 - Read in Turkish →
 
 ---

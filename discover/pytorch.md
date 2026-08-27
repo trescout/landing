@@ -1,50 +1,54 @@
-# Esnek ve hızlı yapay zekâ kütüphanesi
+# Esnek ve Hızlı Yapay Zekâ Kütüphanesi
 
-PyTorch, Python tabanlı tensör hesaplamaları ve dinamik sinir ağları (dynamic neural networks) için güçlü grafik işlem birimi (GPU) hızlandırması sunan bir makine öğrenmesi kütüphanesidir. Derin öğrenme modellerinin geliştirilmesi ve dağıtılması süreçlerinde geniş bir ekosistem desteği sağlar.
+PyTorch; Python tabanlı bir tensör hesaplama ve derin öğrenme kütüphanesidir. GPU hızlandırması ile sayısal hesaplamalar sunar ve esnek yapısıyla araştırma prototiplerinden üretim aşamasına geçişi kolaylaştırır.
 
 - ★ 102.131
-- Python
 - GitHub Trending · 2026-07-03
 
 ## Güncelleme
 - 2 Ağustos 2026: Yıldız 101.297 → 102.131, son sürüm v2.13.0 (8 Temmuz 2026).
 
-## Ne kazandırır?
-- GPU destekli yüksek performanslı tensör hesaplamaları
-- Dinamik sinir ağları ile esnek model geliştirme
-- Python ekosistemiyle tam uyumlu çalışma
+## Bu araç ne yapar?
 
-## Kurulum
+PyTorch; Python tabanlı bir tensör hesaplama ve derin öğrenme kütüphanesidir. GPU hızlandırması ile sayısal hesaplamalar sunar ve esnek yapısıyla araştırma prototiplerinden üretim aşamasına geçişi kolaylaştırır.
 
-**Kaynak kodunu indirme**
+## Kimin için?
 
-```
-git clone https://github.com/pytorch/pytorch
-cd pytorch
-# if you are updating an existing checkout
-git submodule sync
-git submodule update --init --recursive
-```
+Dinamik sinir ağları oluşturmak ve yapay zekâ modellerini araştırma aşamasından üretime taşımak isteyenler.
 
-**Bağımlılıkları yükleme**
+## Ne beklememeli?
 
-```
-pip install --group dev
-```
+Derin öğrenme alanında deneyimi olmayan veya yalnızca kullanıma hazır yapay zekâ uygulamaları arayanlar.
 
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-PyTorch kütüphanesini kullanarak derin öğrenme modelleri geliştirmek istiyorum. Tensör hesaplamaları, dinamik sinir ağları oluşturma ve GPU hızlandırmasından faydalanma konularında bana adım adım rehberlik et. Özellikle torch.nn ve torch.autograd bileşenlerini nasıl kullanacağımı, Python yapısıyla nasıl entegre edeceğimi ve model eğitim süreçlerini nasıl optimize edebileceğimi açıkla.
+## Öne çıkanlar
+- GPU hızlandırmalı tensör hesaplamaları sağlar.
+- Dinamik sinir ağları oluşturulmasına olanak tanır.
+- TorchScript ile modellerin üretim ortamına aktarılmasını kolaylaştırır.
+- Python ekosistemiyle doğal bir entegrasyon sunar.
 
-- **Kimin için:** Derin öğrenme modelleri geliştirmek isteyen araştırmacılar ve yazılımcılar için uygundur. 
+## İlk kullanım akışı
+- Ortamınıza (işletim sistemi, paket yöneticisi, CUDA sürümü) uygun PyTorch komutunu resmî sitesinden oluşturun.
+- Önerilen paket yöneticisi (pip veya conda) ile kurulumu tamamlayın.
+- Python ortamınızda 'import torch' komutunu çalıştırarak kurulumu doğrulayın.
+- Temel bir tensör oluşturarak sisteminizin GPU hızlandırmasını destekleyip desteklemediğini kontrol edin.
+
+## Güvenli başlangıç
+
+PyTorch modelleri çalıştırılırken dış kaynaklardan indirilen ağırlık dosyalarının güvenilir kaynaklardan elde edildiğinden emin olmalısınız; aksi takdirde zararlı kod çalıştırılma riski bulunur.
+
+## İlk görev istemi
+İlk adım için hazır istem 
+PyTorch kullanarak iki tensörü nasıl toplayabilirim?
+
+## İlgili sözlük terimleri
+GPU 
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/pytorch/pytorch)
+- [PyTorch resmî README →](https://github.com/pytorch/pytorch)
+- [PyTorch resmî sitesi →](https://pytorch.org/)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Dynamic Neural Networks GPU Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/pytorch/

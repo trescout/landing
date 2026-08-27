@@ -1,19 +1,44 @@
-# Açık kaynaklı Postgres geliştirme platformu
+# Açık Kaynaklı Veritabanı ve Arka Uç
 
-Supabase, web, mobil ve yapay zekâ uygulamaları geliştirmek için Postgres veritabanı (Postgres database) altyapısı sunan bir geliştirme platformudur. Açık kaynaklı yapısıyla uygulama geliştirme süreçlerini hızlandırmak için gerekli olan veritabanı yönetimi ve arka uç (backend) hizmetlerini bir arada sağlar.
+Supabase; PostgreSQL üzerine inşa edilmiş, açık kaynaklı bir Firebase alternatifidir. Gerçek zamanlı servisler sunar.
 
 - ★ 107.669
-- TypeScript
 - GitHub Trending · 2026-07-04
 
 ## Güncelleme
 - 7 Ağustos 2026: Yıldız 107.399 → 107.669, son sürüm v1.26.08 (7 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 105.582 → 107.399, son sürüm v1.26.07 (9 Temmuz 2026).
 
-## Ne kazandırır?
-- Hazır Postgres veritabanı altyapısı sunar
-- Otomatik API ve kimlik doğrulama sağlar
-- Yapay zekâ ve vektör desteği içerir
+## Bu araç ne yapar?
+
+Supabase; PostgreSQL üzerine inşa edilmiş, açık kaynaklı bir arka uç hizmetidir. Gerçek zamanlı veritabanı abonelikleri, kimlik doğrulama, depolama ve uç fonksiyonları (edge functions) gibi özellikleri kullanıma hazır olarak sunar.
+
+## Kimin için?
+
+İlişkisel bir veritabanının gücünden vazgeçmeden arka uç geliştirme sürecini hızlandırmak ve doğrudan ürünlerine odaklanmak isteyenler.
+
+## Ne beklememeli?
+
+Yalnızca belge tabanlı veritabanlarına ihtiyaç duyan veya SQL kullanmaktan tamamen kaçınmak isteyen geliştiriciler.
+
+## Öne çıkanlar
+- Her proje için tam teşekküllü, standart bir PostgreSQL veritabanı sağlar.
+- Gerçek zamanlı veri senkronizasyonunu kutudan çıktığı gibi destekler.
+- Kendi sunucunuzda veya yönetilen bulut hizmeti olarak kullanılabilir.
+
+## İlk kullanım akışı
+- Supabase paneli üzerinden veya yerel ortamınızda yeni bir proje oluşturun.
+- Tablolarınızı oluşturun ve güvenlik politikalarını yapılandırın.
+- Projenizde kullanacağınız dil için resmî istemci kütüphanesini kurun.
+- API anahtarlarınızı uygulamanıza ekleyerek ilk veritabanı sorgunuzu çalıştırın.
+
+## Güvenli başlangıç
+
+Uygulamanızı üretim ortamına almadan önce veritabanınızdaki güvenlik kurallarının doğru yapılandırıldığından ve yetkisiz veri erişimini engellediğinden mutlaka emin olmalısınız.
+
+## İlk görev istemi
+İlk adım için hazır istem 
+Supabase ile kullanıcı kayıt işlemi nasıl yapılır?
 
 ## Kurulum
 
@@ -40,21 +65,12 @@ supabase start
 
 Kaynak: Homebrew (supabase/tap/supabase) · npm (supabase) · resmî dokümantasyon (supabase.com/docs)
 
-## Nasıl başlanır?
-
-Supabase bulut tabanlı bir platformdur, herhangi bir kurulum yapmanız gerekmez. Başlamak için supabase.com adresine giderek bir hesap oluşturabilir ve tarayıcı üzerinden kontrol panelini kullanmaya başlayabilirsiniz.
-- [Resmî kaynak →](https://supabase.com)
-
-- **Kimin için:** Web, mobil ve yapay zekâ uygulamaları için hızlı ve ölçeklenebilir bir arka uç altyapısı arayan tüm geliştiriciler için uygundur. 
-- **Lisans:** Apache-2.0 
-
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/supabase/supabase)
+- [Supabase resmî README →](https://github.com/supabase/supabase)
+- [Supabase resmî sitesi →](https://supabase.com/)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Database API Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/supabase/

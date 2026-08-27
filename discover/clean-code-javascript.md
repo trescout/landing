@@ -1,31 +1,48 @@
-# JavaScript ile temiz kod yazımı
+# JavaScript İçin Temiz Kod Rehberi
 
-Temiz kod (clean code) prensiplerini JavaScript diline uyarlayan bu rehber, yazılım geliştirme süreçlerinde okunabilir ve sürdürülebilir kod yazımı için standartlar sunuyor. Nesne yönelimli programlama (object-oriented programming) ve fonksiyonel programlama ilkelerini pratik örneklerle birleştiriyor.
+Clean Code JavaScript; ünlü 'Clean Code' prensiplerini JavaScript ekosistemine uyarlayan açık kaynaklı bir rehberdir.
 
 - ★ 94.633
-- JavaScript
 - GitHub Trending · 2026-07-03
 
-## Ne kazandırır?
-- Okunabilir ve sürdürülebilir kod standartları
-- Fonksiyonel ve nesne yönelimli pratikler
-- Hata ayıklamayı kolaylaştıran yapılandırma
+## Bu araç ne yapar?
 
-## Nasıl başlanır?
+Clean Code JavaScript; Robert C. Martin'in ünlü 'Clean Code' prensiplerini JavaScript ekosistemine uyarlayan açık kaynaklı bir rehberdir. Okunabilir, yeniden kullanılabilir ve sürdürülebilir kod yazma standartlarını modern JavaScript ile örneklendirir.
 
-Bu araç bir yazılım kütüphanesi değil, bir rehberdir. GitHub üzerindeki clean-code-javascript deposunu ziyaret ederek değişken isimlendirme, fonksiyon tasarımı ve SOLID prensipleri gibi bölümleri inceleyebilir, kendi projelerinizde bu standartları uygulayarak kod kalitenizi artırabilirsiniz.
-- [Resmî kaynak →](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+## Kimin için?
 
-- **Kimin için:** Kod kalitesini artırmak ve daha profesyonel JavaScript projeleri geliştirmek isteyen tüm yazılımcılar için uygundur. 
-- **Lisans:** MIT 
+JavaScript kodunun kalitesini artırmak ve profesyonel standartlarda sürdürülebilir yazılımlar geliştirmek isteyenler.
+
+## Ne beklememeli?
+
+JavaScript dilini henüz temel seviyede bile bilmeyen tamamen yeni başlayanlar.
+
+## Öne çıkanlar
+- Geleneksel yazılım mühendisliği prensiplerini JavaScript'e uyarlar.
+- Kötü ve iyi kod pratiklerini yan yana karşılaştırmalı olarak sunar.
+- Değişken isimlendirmesinden hata yönetimine kadar geniş bir kapsam sağlar.
+
+## İlk kullanım akışı
+- Resmî GitHub deposuna giderek içindekiler tablosunu inceleyin.
+- Özellikle zorlandığınız kavramların Kötü (Bad) ve İyi (Good) kod örneklerini okuyun.
+- Öğrendiğiniz prensipleri kendi projelerinizde uygulayarak pratiğe dönüştürün.
+
+## Güvenli başlangıç
+
+Bu rehberdeki prensipler kesin kurallar değildir; ekibinizin mevcut standartları ve projenizin gereksinimleri doğrultusunda esnetilebilir.
+
+## İlk görev istemi
+İlk adım için hazır istem 
+JavaScript'te çok sayıda parametre alan bir fonksiyon nasıl daha temiz (clean) yazılır?
+
+## İlgili sözlük terimleri
+Clean Code 
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/ryanmcdermott/clean-code-javascript)
+- [Clean Code JS resmî README →](https://github.com/ryanmcdermott/clean-code-javascript)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Clean Code
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/clean-code-javascript/

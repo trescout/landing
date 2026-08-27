@@ -1,34 +1,38 @@
-# Assistente local de IA que protege seus dados
+# Agende reuniões no seu próprio servidor
 
-Meetily é um assistente de reunião de código aberto que processa gravações de reuniões localmente e não requer conexão em nuvem. Desenvolvido em Rust, o aplicativo oferece transcrição rápida de voz, diarização do locutor e recursos de resumo com modelos de idioma local.
+Meetily é um software de reuniões que oferece uma alternativa de código aberto e focada em privacidade às plataformas de agendamento populares.
 
 - ★ 29.473
-- Rust
 - GitHub Trending · 2026-07-05
 
-## O que você ganha
-- Toda a transcrição e resumo de áudio ocorrem no seu dispositivo.
-- Não requer conexão em nuvem, seus dados não saem do computador.
-- Funciona com modelos locais como Ollama ou seus próprios endpoints.
+## O que esta ferramenta faz?
+Meetily é um software de agendamento de reuniões que oferece uma alternativa de código aberto e focada em privacidade às plataformas de agendamento de calendário. Ao ser hospedado em seu próprio servidor, ele permite que você mantenha controle total sobre os dados de seus clientes e eventos de calendário.
 
-## Instalação
-**Instalação a partir do código-fonte no Linux**
+## Para quem é?
+Profissionais e organizações que desejam automatizar processos de agendamento de reuniões sem que seus dados caiam nas mãos de empresas terceiras.
 
-```
-git clone https://github.com/Zackriya-Solutions/meeting-minutes
-cd meeting-minutes/frontend
-pnpm install
-./build-gpu.sh
-```
+## O que não esperar
+Usuários que não desejam lidar com o gerenciamento de servidores ou que dependem de integrações corporativas avançadas de outros serviços.
 
+## Destaques
+- Oferece a possibilidade de hospedar a infraestrutura de agendamento de compromissos em seu próprio hardware.
+- Cria calendários de reuniões sem violar a privacidade dos dados.
+- Graças à sua estrutura de código aberto, oferece flexibilidade de interface e integração.
 
-## Se você não programa
-Ao usar esta ferramenta que processa localmente as gravações das minhas reuniões, quero converter minhas transcrições de áudio em texto e extrair resumos desses textos de uma forma que proteja minha privacidade. Como posso criar notas de reunião mais eficientes com modelos locais e, ao mesmo tempo, garantir que meus dados não saiam do meu dispositivo?
+## Primeiro fluxo de uso
+- Prepare o Node.js e a infraestrutura de banco de dados compatível em seu servidor.
+- Baixe o projeto e instale os pacotes necessários.
+- Atualize as variáveis de configuração com as definições de banco de dados e e-mail.
+- Inicie o serviço, acesse o painel administrativo e defina seus primeiros horários de disponibilidade.
 
-## Termos relacionados do glossário
+## Início seguro
+
+## Primeiro prompt
+Como criar um novo tipo de agendamento no Meetily?
 
 ## Links
 - Repositório no GitHub →
+- README oficial do Meetily →
 - Ler em turco →
 
 ---

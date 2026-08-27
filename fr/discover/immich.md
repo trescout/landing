@@ -1,15 +1,35 @@
-# Gérez vos propres archives de photos et de vidéos
+# Sauvegarde de photos et de vidéos sur votre propre serveur
 
-Immich est une solution de gestion multimédia auto-hébergée haute performance développée pour gérer les fichiers photo et vidéo. Écrite en TypeScript, cette plateforme permet aux utilisateurs de créer une archive multimédia centrale sur leur propre infrastructure.
+Immich est une solution haute performance conçue pour sauvegarder vos photos et vidéos personnelles, que vous pouvez héberger directement sur votre propre serveur.
 
 - ★ 109 538
-- TypeScript
 - GitHub Trending · 2026-07-05
 
-## Ce que ça vous apporte
-- Stockage central pour photos et vidéos
-- Reconnaissance faciale et recherche basée sur les objets
-- Sauvegarde via mobile et Web
+## Que fait cet outil ?
+Immich est une solution haute performance conçue pour sauvegarder vos photos et vidéos personnelles, que vous pouvez héberger directement sur votre propre serveur. Elle vous permet de gérer votre bibliothèque multimédia via des applications mobiles et web.
+
+## Pour qui ?
+Pour ceux qui souhaitent stocker et gérer leurs photos et vidéos sur leur propre matériel plutôt que sur des services cloud tiers.
+
+## À quoi ne faut-il pas s’attendre ?
+Pour les utilisateurs qui ne souhaitent pas gérer leur propre serveur ou qui ne veulent pas s'occuper des processus d'installation technique.
+
+## Points forts
+- Sauvegarde les photos et vidéos dans leur qualité originale.
+- Offre un accès via des applications web et mobiles.
+- Assure la confidentialité des données en étant hébergé sur votre propre matériel.
+- Crée des espaces pour les membres de la famille ou les équipes grâce à la prise en charge multi-utilisateurs.
+
+## Premiers pas
+- Assurez-vous de répondre aux exigences matérielles spécifiées dans la documentation officielle.
+- Démarrez les conteneurs Immich en utilisant Docker et Docker Compose.
+- Téléchargez l'application mobile sur votre appareil et connectez-vous en saisissant l'adresse de votre serveur.
+- Créez le premier compte administrateur et lancez le processus de sauvegarde.
+
+## Démarrage prudent
+
+## Premier prompt
+Comment ajouter un nouvel utilisateur dans l'installation d'Immich ?
 
 ## Installation
 **Télécharger la configuration de Docker Compose**
@@ -29,13 +49,10 @@ docker compose up -d
 ```
 
 
-## Pour commencer
-- Source officielle →
-
-## Termes liés du glossaire
-
 ## Liens
 - Dépôt GitHub →
+- README officiel d'Immich →
+- Site officiel d'Immich →
 - Lire en turc →
 
 ---

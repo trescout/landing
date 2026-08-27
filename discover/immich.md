@@ -1,18 +1,44 @@
-# Kendi fotoğraf ve video arşivinizi yönetin
+# Kendi Sunucunuzda Fotoğraf ve Video Yedekleme
 
-Immich, fotoğraf ve video dosyalarını yönetmek için geliştirilmiş, yüksek performanslı bir öz sunuculu (self-hosted) medya yönetim çözümüdür. TypeScript ile yazılan bu platform, kullanıcılara kendi altyapıları üzerinde merkezi bir medya arşivi oluşturma imkânı tanır.
+Immich; kişisel fotoğraf ve videolarınızı yedeklemeniz için tasarlanmış, doğrudan kendi sunucunuzda barındırabileceğiniz yüksek performanslı bir çözümdür.
 
 - ★ 109.538
-- TypeScript
 - GitHub Trending · 2026-07-05
 
 ## Güncelleme
 - 2 Ağustos 2026: Yıldız 105.748 → 109.538, son sürüm v3.1.0 (29 Temmuz 2026).
 
-## Ne kazandırır?
-- Fotoğraf ve videolar için merkezi depolama
-- Yüz tanıma ve nesne tabanlı arama
-- Mobil ve web üzerinden yedekleme
+## Bu araç ne yapar?
+
+Immich; kişisel fotoğraf ve videolarınızı yedeklemeniz için tasarlanmış, doğrudan kendi sunucunuzda barındırabileceğiniz yüksek performanslı bir çözümdür. Mobil ve web uygulamaları aracılığıyla medya kütüphanenizi yönetmenizi sağlar.
+
+## Kimin için?
+
+Fotoğraf ve videolarını üçüncü taraf bulut servisleri yerine kendi donanımlarında depolamak ve yönetmek isteyenler.
+
+## Ne beklememeli?
+
+Kendi sunucusunu yönetmek istemeyen veya teknik kurulum süreçleriyle uğraşmak istemeyen kullanıcılar.
+
+## Öne çıkanlar
+- Fotoğraf ve videoları orijinal kalitelerinde yedekler.
+- Web ve mobil uygulamalarıyla erişim imkânı sunar.
+- Kendi donanımınızda barındırılarak veri gizliliği sağlar.
+- Çoklu kullanıcı desteği ile aile üyeleri veya ekipler için alanlar oluşturur.
+
+## İlk kullanım akışı
+- Resmî dokümantasyonda belirtilen donanım gereksinimlerini karşıladığınızdan emin olun.
+- Docker ve Docker Compose kullanarak Immich kapsayıcılarını başlatın.
+- Mobil uygulamayı cihazınıza indirin ve sunucu adresinizi girerek bağlanın.
+- İlk yönetici hesabını oluşturun ve yedekleme işlemini başlatın.
+
+## Güvenli başlangıç
+
+Immich yoğun şekilde geliştirilmeye devam etmektedir; bu nedenle kurulumunuzu güncellemeden önce mutlaka sürüm notlarını okumalı ve medyanızın harici bir yedeğini almalısınız.
+
+## İlk görev istemi
+İlk adım için hazır istem 
+Immich kurulumunda yeni bir kullanıcı nasıl eklenir?
 
 ## Kurulum
 
@@ -34,21 +60,12 @@ docker compose up -d
 
 Kaynak: Resmî Immich dokümantasyonu (immich.app/docs/install/docker-compose)
 
-## Nasıl başlanır?
-
-Kurulum ve kullanım detayları için resmî dokümantasyon sayfasını ziyaret edin. https://immich.app/ adresindeki kurulum rehberlerini takip ederek kendi sunucunuz üzerinde medya yönetiminizi başlatabilirsiniz.
-- [Resmî kaynak →](https://immich.app)
-
-- **Kimin için:** Kendi fotoğraf ve video arşivini bulut servislerine bağımlı kalmadan, kendi altyapısı üzerinde yönetmek isteyen kullanıcılar içindir. 
-- **Lisans:** AGPL-3.0 
-
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/immich-app/immich)
+- [Immich resmî README →](https://github.com/immich-app/immich)
+- [Immich resmî sitesi →](https://immich.app/)
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Self-hosted
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/immich/
