@@ -203,7 +203,26 @@ jobs:
       # bir dilin ilk gününde 400+ keşif sayfası çapraz bağlantısız çıkıyor
       # (2026-08-13'te Portekizce'de yaşandı · sonraki günler kendiliğinden
       # düzeliyordu, o yüzden görülmemişti).
+      # KISMİ BAŞARISIZLIK HATTI DURDURMAMALI · dictionary-en.py bir çeviri
+      # başarısız olduğunda SystemExit(1) veriyor. Sayfayı yazmaması doğru
+      # (yarım çeviri yayına gitmesin), ama çıkış kodu tüm iş akışını
+      # düşürüyordu: guard'lar, sitemap ve COMMIT adımına hiç gelinmiyordu.
+      #
+      # Bedeli: o koşuda başarıyla çevrilen her şey de çöpe gidiyordu. Çeviri
+      # önbelleği (assets/*/XX-cache.json) diske çıkış kodundan ÖNCE yazılıyor,
+      # ama commit olmadığı için runner'la birlikte siliniyordu. Ertesi gün
+      # aynı metinler baştan çevriliyor, aynı yerde tükeniyor, hat hiç
+      # ilerlemiyordu · 24-27 Ağustos arası dört koşu tam olarak böyle geçti.
+      # 27 Ağustos koşusunda en/fr/pt sıfır hatayla bitti, es ve de kotada
+      # tükendi ve ÜÇ DİLİN 33 dakikalık işi de silindi.
+      #
+      # Artık adım yumuşak: başarılı sayfalar ve önbellek commit'leniyor,
+      # eksik kalanlar ertesi koşuda kaldığı yerden devam ediyor. Koşunun
+      # kırmızı kalması için en sonda ayrı bir adım var · sessizce yeşile
+      # dönmesin.
       - name: Sayfaları üret · her dilde sözlük SONRA keşif
+        id: sayfalar
+        continue-on-error: true
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           DICTIONARY_SLUGS: ${{ github.event.inputs.dictionary_slugs }}
@@ -243,7 +262,10 @@ jobs:
       # (2026-08-15: "svg" terimi beş dilde "İlgili araçlar" olmadan çıktı;
       # Almanca eklenirken de 353 sözlük sayfası aynı sebeple eksikti).
       # Çeviriler önbellekli · ikinci tur birkaç saniye.
+      # Aynı gerekçe · ikinci tur da kısmi başarısızlıkta hattı düşürmesin.
       - name: Sözlük ikinci tur (keşif sayfaları artık diskte)
+        id: ikinci_tur
+        continue-on-error: true
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           DICTIONARY_SLUGS: ${{ github.event.inputs.dictionary_slugs }}
@@ -444,6 +466,19 @@ jobs:
         if: ${{ github.event_name != 'workflow_dispatch' || github.event.inputs.skip_indexnow != 'true' }}
         continue-on-error: true
         run: node scripts/indexnow.js
+
+      # Yumuşatılan adımlar koşuyu sessizce yeşile döndürmesin · içerik
+      # commit'lendikten SONRA burada kırmızıya çekiyoruz. Böylece hem günün
+      # işi yayına giriyor hem de eksik çeviri gözden kaçmıyor.
+      - name: Çeviri eksikleri raporlansın (içerik yayınlandıktan sonra)
+        if: ${{ steps.sayfalar.outcome == 'failure' || steps.ikinci_tur.outcome == 'failure' }}
+        run: |
+          echo "✗ Bazı çeviriler tamamlanamadı · üretilen sayfalar ve önbellek commit'lendi."
+          echo "  sayfa üretimi: ${{ steps.sayfalar.outcome }}"
+          echo "  ikinci tur   : ${{ steps.ikinci_tur.outcome }}"
+          echo "  Eksik kalan diller bir sonraki koşuda kaldığı yerden devam eder."
+          echo "  Üst üste tekrar ediyorsa sağlayıcı günlük kotasına bakın."
+          exit 1
 
       - name: IndexNow recovery için atlandı
         if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.skip_indexnow == 'true' }}
