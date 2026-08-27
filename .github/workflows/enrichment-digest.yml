@@ -14,6 +14,8 @@ permissions:
 jobs:
   digest:
     runs-on: ubuntu-latest
+    # Askıda kalan iş 6 saatlik varsayılan sınıra kadar koşmasın · sağlıklı koşu ~1 dk.
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
