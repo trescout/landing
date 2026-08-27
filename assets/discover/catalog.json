@@ -1736,13 +1736,13 @@
     "slug": "liteparse",
     "title": "Liteparse",
     "tagline": "Rust ile geliştirilmiş hızlı ve açık kaynak belge ayrıştırıcı (document parser).",
-    "meta": "★ 12.179 · Apache-2.0",
+    "meta": "★ 12.180 · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-30",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 12179,
+    "stars": 12180,
     "image": "/assets/discover/og/liteparse.webp",
     "headline": "Belgelerinizi Rust ile hızlıca ayrıştırın",
     "last_review": "2026-08-27",
@@ -1788,6 +1788,13 @@
         "onceki_yildiz": 12102,
         "surum": "docker-v2.14.0",
         "surum_tarihi": "2026-08-26"
+      },
+      {
+        "tarih": "2026-08-27",
+        "yildiz": 12180,
+        "onceki_yildiz": 12179,
+        "surum": "node-v2.14.1",
+        "surum_tarihi": "2026-08-27"
       }
     ],
     "tagline_en": "Fast and open source document parser developed with Rust.",
@@ -25875,14 +25882,14 @@
     "slug": "archify",
     "title": "Archify",
     "tagline": "Archify é uma habilidade de agente (agent skill) de inteligência artificial que cria diagramas técnicos, como fluxogramas…",
-    "meta": "★ 20.823 · JavaScript",
+    "meta": "★ 22.172 · JavaScript",
     "image": "/assets/discover/og/archify.webp",
     "source": "GitHub",
     "date": "2026-08-27",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 20823,
+    "stars": 22172,
     "summary": "Archify é uma habilidade de agente (agent skill) de inteligência artificial que cria diagramas técnicos, como fluxogramas arquiteturais e ciclos de dados, como arquivos HTML verificáveis e animados. Esta ferramenta, usada para visualizar projetos de sistemas complexos, suporta a exportação de resultados em alta resolução.",
     "lite": false,
     "headline": "Yapay zekâ ajanınıza sistem haritası çizdirin",
@@ -25892,6 +25899,13 @@
         "tarih": "2026-08-27",
         "yildiz": 20823,
         "onceki_yildiz": 20599,
+        "surum": "v2.15.0",
+        "surum_tarihi": "2026-08-17"
+      },
+      {
+        "tarih": "2026-08-27",
+        "yildiz": 22172,
+        "onceki_yildiz": 20823,
         "surum": "v2.15.0",
         "surum_tarihi": "2026-08-17"
       }
@@ -26028,7 +26042,8 @@
     "tagline_fr": "C'est le produit le plus important possible.",
     "tagline_pt": "Este é o produto mais importante possível.",
     "tagline_es": "Este es el producto más importante posible.",
-    "tagline_de": "Dies ist das wichtigste Produkt überhaupt."
+    "tagline_de": "Dies ist das wichtigste Produkt überhaupt.",
+    "last_seen": "2026-08-27"
   },
   {
     "slug": "go-modern-guidelines",
@@ -26049,7 +26064,8 @@
     "tagline_fr": "C'est le produit le plus important possible.",
     "tagline_pt": "Este é o produto mais importante possível.",
     "tagline_es": "Este es el producto más importante posible.",
-    "tagline_de": "Dies ist das wichtigste Produkt überhaupt."
+    "tagline_de": "Dies ist das wichtigste Produkt überhaupt.",
+    "last_seen": "2026-08-27"
   },
   {
     "slug": "googletest",
@@ -26071,6 +26087,7 @@
     "tagline_fr": "C'est le produit le plus important possible.",
     "tagline_pt": "Este é o produto mais importante possível.",
     "tagline_es": "Este es el producto más importante posible.",
-    "tagline_de": "Dies ist das wichtigste Produkt überhaupt."
+    "tagline_de": "Dies ist das wichtigste Produkt überhaupt.",
+    "last_seen": "2026-08-27"
   }
 ]

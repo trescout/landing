@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve web/PDF rapor olarak yayımlar. E-posta teslimatı erken erişim aşamasında hazırlanıyor.
 
-Son güncelleme: 2026-08-27 · 479 araç · 543 terim
+Son güncelleme: 2026-08-27 · 479 araç · 544 terim
 
 ---
 
@@ -8465,6 +8465,48 @@ Genel işler için yeterlidir ancak profesyonel ihtiyaçlar için genellikle üz
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/foundation-model/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Foundation Models nedir?
+
+**Kategori:** Yapay Zekâ  
+**Son güncelleme:** 2026-08-27
+
+Farklı görevler için temel oluşturan, geniş kapsamlı yapay zekâ modelleridir.
+
+## Tanım
+Foundation models, devasa miktarda veriyle eğitilen ve tek bir işe odaklanmak yerine birçok farklı alanda kullanılabilen çok yönlü modellerdir. Bu modeller, bir evin temelini atmak gibidir; üzerine inşa edeceğiniz binanın türü ne olursa olsun, bu temel sağlam bir başlangıç sağlar. Geliştiriciler, bu hazır modelleri alıp kendi özel ihtiyaçlarına göre özelleştirerek hızlıca uygulamalar geliştirebilirler.
+
+## Bir benzetmeyle
+Bir mutfak şefinin temel yemek soslarını (domates sosu, beşamel sos gibi) önceden hazırlaması gibidir. Bu temel sosları kullanarak ister lazanya yaparsınız, ister pizza, isterseniz de farklı bir yemek; her seferinde en baştan sos yapmakla uğraşmazsınız.
+
+## Nasıl çalışır?
+Bu modeller, internet üzerindeki kitaplar, makaleler ve kodlar gibi çok çeşitli verilerle eğitilir. Eğitim aşamasında dilin yapısını, mantığı ve genel bilgiyi öğrenirler. Siz bir uygulama geliştirmek istediğinizde, bu genel yetenekli modeli alıp küçük bir ek eğitimle (fine-tuning) kendi işinize özel bir uzman haline getirirsiniz.
+
+## Nerede kullanılır?
+Metin yazma araçlarında, kod yazma yardımcılarında, görsel oluşturma platformlarında ve karmaşık veri analizi yapan iş yazılımlarında kullanılırlar.
+
+## Sık karıştırılanlar
+Genellikle sadece tek bir işi yapmak için eğitilmiş dar kapsamlı modellerle karıştırılırlar.
+
+## Sıkça sorulanlar
+
+**Foundation model ile sıradan bir yapay zekâ modeli arasındaki fark nedir?**  
+Sıradan modeller genellikle tek bir görev için (örneğin sadece çeviri) eğitilirken, foundation modeller çok daha geniş bir bilgi birikimine ve yeteneğe sahiptir.
+
+**Foundation modelleri kendim eğitebilir miyim?**  
+Eğitmek için devasa bir işlem gücü ve veri gerektiğinden bu oldukça zordur, ancak hazır olanları alıp kendi verinizle özelleştirmek oldukça kolaydır.
+
+## İlgili terimler
+- [Foundation Model](/dictionary/foundation-model/)
+- [LLM](/dictionary/llm/)
+- [Generative AI](/dictionary/generative-ai/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/foundation-models/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -36391,6 +36433,67 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yapay zekâ ajanınıza sistem haritası çizdirin
+
+Archify é uma habilidade de agente (agent skill) de inteligência artificial que cria diagramas técnicos, como fluxogramas arquiteturais e ciclos de dados, como arquivos HTML verificáveis e animados. Esta ferramenta, usada para visualizar projetos de sistemas complexos, suporta a exportação de resultados em alta resolução.
+
+- ★ 22.172
+- JavaScript
+- GitHub Trending · 2026-08-27
+
+## Güncelleme
+- 27 Ağustos 2026: Yıldız 20.823 → 22.172, son sürüm v2.15.0 (17 Ağustos 2026).
+- 27 Ağustos 2026: Yıldız 20.599 → 20.823, son sürüm v2.15.0 (17 Ağustos 2026).
+
+## Ne kazandırır?
+- Kod tabanını etkileşimli sistem haritalarına dönüştürür
+- Mimari değişiklikleri karşılaştırmalı olarak doğrular
+- Yüksek çözünürlüklü görsel çıktı ve paylaşım kartları üretir
+
+## Kurulum
+
+**Genel kurulum**
+
+```
+npx skills add tt-a1i/archify -g
+```
+
+**Cursor için kurulum**
+
+```
+npx -y skills add tt-a1i/archify --skill archify --agent cursor --global --copy --yes
+```
+
+## Çalıştırma
+
+**Codex ile deneme**
+
+```
+npx skills use tt-a1i/archify@archify --agent codex
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Bu kod tabanını analiz et ve Archify kullanarak yüksek seviyeli bir çalışma zamanı mimari diyagramı oluştur. 8-12 temel bileşeni, birincil veri yolunu, dış bağımlılıkları ve güven sınırlarını göster. Destekleyici detayları kenar çizgileri yerine bilgi kartları içerisinde sun.
+
+- **Kimin için:** Karmaşık sistem mimarilerini görselleştirmek ve mimari değişiklikleri doğrulanabilir şekilde belgelemek isteyen yazılım geliştiriciler içindir. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/tt-a1i/archify)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-27 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Skill Agent Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/archify/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Terminalde modern dosya yönetimi
 
 Go diliyle geliştirilen superfile, terminal tabanlı dosya yöneticilerine modern ve görsel açıdan zengin bir arayüz kazandırıyor. Kullanıcılar, komut satırı üzerinde dosya işlemlerini daha estetik ve işlevsel bir deneyimle yönetebiliyor.
@@ -36929,66 +37032,6 @@ TUI CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/witr/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Yapay zekâ ajanınıza sistem haritası çizdirin
-
-Archify é uma habilidade de agente (agent skill) de inteligência artificial que cria diagramas técnicos, como fluxogramas arquiteturais e ciclos de dados, como arquivos HTML verificáveis e animados. Esta ferramenta, usada para visualizar projetos de sistemas complexos, suporta a exportação de resultados em alta resolução.
-
-- ★ 20.823
-- JavaScript
-- GitHub Trending · 2026-08-27
-
-## Güncelleme
-- 27 Ağustos 2026: Yıldız 20.599 → 20.823, son sürüm v2.15.0 (17 Ağustos 2026).
-
-## Ne kazandırır?
-- Kod tabanını etkileşimli sistem haritalarına dönüştürür
-- Mimari değişiklikleri karşılaştırmalı olarak doğrular
-- Yüksek çözünürlüklü görsel çıktı ve paylaşım kartları üretir
-
-## Kurulum
-
-**Genel kurulum**
-
-```
-npx skills add tt-a1i/archify -g
-```
-
-**Cursor için kurulum**
-
-```
-npx -y skills add tt-a1i/archify --skill archify --agent cursor --global --copy --yes
-```
-
-## Çalıştırma
-
-**Codex ile deneme**
-
-```
-npx skills use tt-a1i/archify@archify --agent codex
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Bu kod tabanını analiz et ve Archify kullanarak yüksek seviyeli bir çalışma zamanı mimari diyagramı oluştur. 8-12 temel bileşeni, birincil veri yolunu, dış bağımlılıkları ve güven sınırlarını göster. Destekleyici detayları kenar çizgileri yerine bilgi kartları içerisinde sun.
-
-- **Kimin için:** Karmaşık sistem mimarilerini görselleştirmek ve mimari değişiklikleri doğrulanabilir şekilde belgelemek isteyen yazılım geliştiriciler içindir. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/tt-a1i/archify)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-27 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Skill Agent Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/archify/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -40639,16 +40682,16 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Liteparse (run-llama); belgeleri hızlı ve verimli bir şekilde ayrıştırmak için Rust ile yazılmış açık kaynak bir belge ayrıştırıcıdır. Karmaşık doküman yapılarını işlenebilir hale getirerek AI ve RAG süreçlerinde kolaylık sağlar.
 
-- ★ 12.179
+- ★ 12.180
 - Rust
 - Apache-2.0
 - GitHub Trending · 30 May 2026
 
 ## Güncelleme
+- 27 Ağustos 2026: Yıldız 12.179 → 12.180, son sürüm node-v2.14.1 (27 Ağustos 2026).
 - 27 Ağustos 2026: Yıldız 12.102 → 12.179, son sürüm docker-v2.14.0 (26 Ağustos 2026).
 - 17 Ağustos 2026: Yıldız 12.098 → 12.102, son sürüm node-v2.13.1 (17 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 11.934 → 12.098, son sürüm node-v2.13.0 (15 Ağustos 2026).
-- 6 Ağustos 2026: Yıldız 11.883 → 11.934, son sürüm node-v2.11.1 (5 Ağustos 2026).
 
 - **Kimin için:** Belge/veri işleyen geliştiriciler 
 - **Zorluk:** Orta · geliştirici aracı 

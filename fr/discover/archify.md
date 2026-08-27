@@ -2,7 +2,7 @@
 
 Archify et habilité d'agent (compétence d'agent) d'intelligence artificielle qui crée des diagrammes techniques, comme des fluxogrammes architecturaux et des cycles de données, comme des archives HTML vérifiées et animées. Dans ce cas, aux États-Unis, pour visualiser des projets complexes, il est possible d'exporter les résultats à haute résolution.
 
-- ★ 20 823
+- ★ 22 172
 - JavaScript
 - GitHub Trending · 2026-08-27
 

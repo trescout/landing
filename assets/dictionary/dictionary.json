@@ -7057,5 +7057,18 @@
     "kisa_pt": "Um sistema de gerenciamento de inteligência artificial de código aberto projetado para automatizar processos de gestão corporativa.",
     "kisa_es": "Un sistema de gestión de inteligencia artificial de código abierto diseñado para automatizar los procesos de gestión corporativa.",
     "kisa_de": "Ein Open-Source-Managementsystem für künstliche Intelligenz zur Automatisierung von Unternehmensmanagementprozessen."
+  },
+  {
+    "slug": "foundation-models",
+    "en": "Foundation Models",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Farklı görevler için temel oluşturan, geniş kapsamlı yapay zekâ modelleridir.",
+    "date": "2026-08-27",
+    "kisa_en": "They are comprehensive artificial intelligence models that form the basis for different tasks.",
+    "kisa_fr": "Il s’agit de modèles complets d’intelligence artificielle qui constituent la base de différentes tâches.",
+    "kisa_pt": "São modelos abrangentes de inteligência artificial que formam a base para diferentes tarefas.",
+    "kisa_es": "Son modelos integrales de inteligencia artificial que forman la base para diferentes tareas.",
+    "kisa_de": "Dabei handelt es sich um umfassende Modelle der künstlichen Intelligenz, die die Grundlage für unterschiedliche Aufgaben bilden."
   }
 ]

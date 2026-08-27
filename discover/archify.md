@@ -2,11 +2,12 @@
 
 Archify é uma habilidade de agente (agent skill) de inteligência artificial que cria diagramas técnicos, como fluxogramas arquiteturais e ciclos de dados, como arquivos HTML verificáveis e animados. Esta ferramenta, usada para visualizar projetos de sistemas complexos, suporta a exportação de resultados em alta resolução.
 
-- ★ 20.823
+- ★ 22.172
 - JavaScript
 - GitHub Trending · 2026-08-27
 
 ## Güncelleme
+- 27 Ağustos 2026: Yıldız 20.823 → 22.172, son sürüm v2.15.0 (17 Ağustos 2026).
 - 27 Ağustos 2026: Yıldız 20.599 → 20.823, son sürüm v2.15.0 (17 Ağustos 2026).
 
 ## Ne kazandırır?
