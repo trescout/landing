@@ -97,7 +97,8 @@
     'Kod bilmeyenler için': { en: 'For non-coders', fr: 'Pour les non-développeurs', pt: 'Para quem não programa', es: 'Para no programadores', de: 'Für Nicht-Programmierer' },
     'Yapay zekâ araçları': { en: 'AI tools', fr: 'Outils d’IA', pt: 'Ferramentas de IA', es: 'Herramientas de IA', de: 'KI-Tools' },
     'Öğrenme': { en: 'Learning', fr: 'Apprentissage', pt: 'Aprendizado', es: 'Aprendizaje', de: 'Lernen' },
-    'Üretkenlik': { en: 'Productivity', fr: 'Productivité', pt: 'Produtividade', es: 'Productividad', de: 'Produktivität' }
+    'Üretkenlik': { en: 'Productivity', fr: 'Productivité', pt: 'Produtividade', es: 'Productividad', de: 'Produktivität' },
+    'Self-host': { en: 'Self-hosted', fr: 'Auto-hébergé', pt: 'Auto-hospedado', es: 'Autoalojado', de: 'Selbst gehostet' }
   };
 
   function tagLabel(tag, lang) {
