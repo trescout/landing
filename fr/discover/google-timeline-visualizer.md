@@ -2,7 +2,7 @@
 
 Google Timeline Visualizer visualise une année de vos voyages avec vos données d'historique de localisation Google.
 
-- ★ 2 871
+- ★ 2 879
 - Kotlin
 - GitHub Trending · 2026-08-20
 

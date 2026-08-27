@@ -34,6 +34,7 @@ No, its capabilities are customized depending on the agent's intended use (for e
 - [Agent Skills](/en/discover/agent-skills/)
 - [Taste Skill](/en/discover/taste-skill/)
 - [OpenMontage](/en/discover/openmontage/)
+- [Scientific Agent Skills](/en/discover/scientific-agent-skills/)
 - [Awesome Agent Skills](/en/discover/awesome-agent-skills/)
 - [Agentskills](/en/discover/agentskills/)
 - [Text to Cad](/en/discover/text-to-cad/)

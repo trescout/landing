@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve web/PDF rapor olarak yayımlar. E-posta teslimatı erken erişim aşamasında hazırlanıyor.
 
-Son güncelleme: 2026-08-27 · 476 araç · 543 terim
+Son güncelleme: 2026-08-27 · 479 araç · 543 terim
 
 ---
 
@@ -22567,6 +22567,63 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Kullanıcı Etkileşimleriyle Gelişen yapay zekâ
+
+NousResearch tarafından geliştirilen Hermes Agent, kullanıcı etkileşimleriyle öğrenerek zaman içinde gelişen bir otonom ajan (autonomous agent) altyapısı sunuyor. Python tabanlı bu sistem, kişiselleştirilmiş iş akışları oluşturmak için sürekli öğrenen bir yapı (continuous learning) kullanıyor.
+
+- ★ 237.210
+- Python
+- GitHub Trending · 2026-06-04
+
+## Güncelleme
+- 27 Ağustos 2026: Yıldız 233.843 → 237.210, son sürüm v2026.8.27 (27 Ağustos 2026).
+- 21 Ağustos 2026: Yıldız 232.339 → 233.843, son sürüm v2026.8.19 (21 Ağustos 2026).
+- 18 Ağustos 2026: Yıldız 231.620 → 232.339, son sürüm v2026.8.18 (18 Ağustos 2026).
+- 17 Ağustos 2026: Yıldız 231.039 → 231.620, son sürüm v2026.8.16 (16 Ağustos 2026).
+
+## Ne kazandırır?
+- Kullanıcı etkileşimlerinden öğrenerek zaman içinde gelişen otonom yetenekler.
+- Telegram, Discord ve Slack gibi platformlarla entegre çalışma imkânı.
+- Farklı yapay zekâ modelleri arasında kod değişikliği yapmadan geçiş yapabilme.
+
+## Kurulum
+
+**Linux, macOS ve WSL2 için kurulum**
+
+```
+curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash
+```
+
+## Çalıştırma
+
+**Arayüzü başlatma**
+
+```
+hermes
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Hermes Agent ile çalışırken otonom öğrenme döngüsünden faydalanmak istiyorum. Sistemin geçmiş konuşmalarımı hatırlaması, görevler üzerinden yeni beceriler oluşturması ve zamanla kişiselleşmesi için hangi komutları kullanmalıyım? Özellikle farklı modeller arasında geçiş yapmak ve mesajlaşma platformlarını sisteme bağlamak için izlemem gereken temel adımları açıklar mısın?
+
+- **Kimin için:** Kendi kendine öğrenen ve farklı platformlar üzerinden yönetilebilen otonom bir yapay zekâ asistanı arayan kullanıcılar için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/NousResearch/hermes-agent)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Hermes Agent Autonomous Agent Continuous Learning Agent Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/hermes-agent/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Yapay zekâ Ajanlarınıza Güç Katın
 
 ECC; Claude Code, Codex, Cursor ve OpenCode gibi yapay zekâ kodlama araçlarına beceriler, içgüdüler, hafıza optimizasyonu ve güvenlik taraması kazandıran kapsamlı bir sistemdir. Tekil konfigürasyon dosyaları yerine, ajanın daha tutarlı, güvenli ve önce-araştır mantığıyla çalışmasını sağlayan hazır bir katman sunar.
@@ -22632,63 +22689,6 @@ Tools Plugin Open Source Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ecc/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Kullanıcı Etkileşimleriyle Gelişen yapay zekâ
-
-NousResearch tarafından geliştirilen Hermes Agent, kullanıcı etkileşimleriyle öğrenerek zaman içinde gelişen bir otonom ajan (autonomous agent) altyapısı sunuyor. Python tabanlı bu sistem, kişiselleştirilmiş iş akışları oluşturmak için sürekli öğrenen bir yapı (continuous learning) kullanıyor.
-
-- ★ 233.843
-- Python
-- GitHub Trending · 2026-06-04
-
-## Güncelleme
-- 21 Ağustos 2026: Yıldız 232.339 → 233.843, son sürüm v2026.8.19 (21 Ağustos 2026).
-- 18 Ağustos 2026: Yıldız 231.620 → 232.339, son sürüm v2026.8.18 (18 Ağustos 2026).
-- 17 Ağustos 2026: Yıldız 231.039 → 231.620, son sürüm v2026.8.16 (16 Ağustos 2026).
-- 15 Ağustos 2026: Yıldız 225.045 → 231.039, son sürüm v2026.8.13 (13 Ağustos 2026).
-
-## Ne kazandırır?
-- Kullanıcı etkileşimlerinden öğrenerek zaman içinde gelişen otonom yetenekler.
-- Telegram, Discord ve Slack gibi platformlarla entegre çalışma imkânı.
-- Farklı yapay zekâ modelleri arasında kod değişikliği yapmadan geçiş yapabilme.
-
-## Kurulum
-
-**Linux, macOS ve WSL2 için kurulum**
-
-```
-curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scripts/install.sh | bash
-```
-
-## Çalıştırma
-
-**Arayüzü başlatma**
-
-```
-hermes
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Hermes Agent ile çalışırken otonom öğrenme döngüsünden faydalanmak istiyorum. Sistemin geçmiş konuşmalarımı hatırlaması, görevler üzerinden yeni beceriler oluşturması ve zamanla kişiselleşmesi için hangi komutları kullanmalıyım? Özellikle farklı modeller arasında geçiş yapmak ve mesajlaşma platformlarını sisteme bağlamak için izlemem gereken temel adımları açıklar mısın?
-
-- **Kimin için:** Kendi kendine öğrenen ve farklı platformlar üzerinden yönetilebilen otonom bir yapay zekâ asistanı arayan kullanıcılar için uygundur. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/NousResearch/hermes-agent)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Hermes Agent Autonomous Agent Continuous Learning Agent Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/hermes-agent/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -25687,7 +25687,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 WiFi Channel State Information (CSI) kullanarak ortam değişimlerini incelemenize yardımcı olur. ESP32 veya araştırma NIC’leriyle çalışabilir; donanımınız yoksa simüle edilmiş verilerle değerlendirme yapabilirsiniz.
 
-- ★ 91.805
+- ★ 91.815
 - GitHub Trending · 2026-05-30
 
 ## Kurulum
@@ -25721,10 +25721,10 @@ docker run -p 3000:3000 ruvnet/wifi-densepose:latest
 Kaynak: Komutlar RuView resmî kullanıcı ve build rehberlerinden 24 Ağustos 2026’da kontrol edildi; Docker varsayılan olarak simüle edilmiş verilerle çalışabilir.
 
 ## Güncelleme
+- 27 Ağustos 2026: Yıldız 91.805 → 91.815, son sürüm v2400 (27 Ağustos 2026).
 - 27 Ağustos 2026: Yıldız 91.322 → 91.805, son sürüm v2390 (26 Ağustos 2026).
 - 23 Ağustos 2026: Yıldız 90.995 → 91.322, son sürüm v2331 (22 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 90.940 → 90.995, son sürüm v2301 (19 Ağustos 2026).
-- 19 Ağustos 2026: Yıldız 90.838 → 90.940, son sürüm v2297 (19 Ağustos 2026).
 
 ## Bu araç ne yapar?
 
@@ -27320,11 +27320,12 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Unsloth, büyük dil modelleri (LLM) ve görsel oluşturma modelleri (diffusion models) için yerel ortamda eğitim ve çalıştırma süreçlerini hızlandıran bir kütüphanedir. Bellek kullanımını optimize ederek popüler modellerin ince ayar (fine-tuning) süreçlerini daha erişilebilir hale getirir.
 
-- ★ 74.940
+- ★ 74.963
 - Python
 - GitHub Trending · 2026-08-14
 
 ## Güncelleme
+- 27 Ağustos 2026: Yıldız 74.940 → 74.963, son sürüm v0.1.804-beta (27 Ağustos 2026).
 - 27 Ağustos 2026: Yıldız 74.051 → 74.940, son sürüm v0.1.803-beta (25 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 71.988 → 74.051, son sürüm v0.1.801-beta (20 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 71.157 → 71.988, son sürüm v0.1.800-beta (14 Ağustos 2026).
@@ -27890,58 +27891,6 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Web projeleri için modül paketleyici
-
-Webpack, JavaScript ve diğer web varlıklarını tarayıcıda çalışacak şekilde bir araya getiren bir paketleyici (bundler). Modülleri yönetilebilir parçalara ayıran kod bölme (code splitting) özelliği sayesinde uygulamaların ihtiyaç duyulduğunda yüklenmesini sağlar.
-
-- ★ 65.985
-- JavaScript
-- GitHub Trending · 2026-08-05
-
-## Güncelleme
-- 6 Ağustos 2026: Yıldız 65.961 → 65.985, son sürüm v5.109.2 (28 Temmuz 2026).
-
-## Ne kazandırır?
-- JavaScript dosyalarını tarayıcıda çalışacak şekilde birleştirir.
-- Kod bölme özelliğiyle uygulama yükleme süresini kısaltır.
-- TypeScript gibi farklı dosya türlerini önceden işleyebilir.
-
-## Kurulum
-
-**npm ile kurulum**
-
-```
-npm install --save-dev webpack
-```
-
-**yarn ile kurulum**
-
-```
-yarn add webpack --dev
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Bir web geliştiricisi olarak, projelerimdeki JavaScript dosyalarını ve diğer statik varlıkları verimli bir şekilde paketlemek istiyorum. Webpack kullanarak modüllerimi nasıl yönetebilirim, kod bölme işlemini nasıl yapılandırabilirim ve projeme uygun yükleyicileri (loaders) nasıl tanımlayabilirim? Başlangıç seviyesinde bir yapılandırma dosyası örneği oluşturmama yardımcı ol.
-
-- **Kimin için:** Web uygulamalarındaki JavaScript dosyalarını ve diğer varlıkları düzenli bir şekilde paketlemek isteyen yazılım geliştiricileri içindir. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/webpack/webpack)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Bundler Code Splitting Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/webpack/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
 # Kendi sunucunuzda parola yönetimi
 
 Bu öğenin özeti bugün üretilemedi · detaylar için kaynak bağlantısını inceleyebilirsiniz.
@@ -27989,6 +27938,59 @@ Rust Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/vaultwarden/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Web projeleri için modül paketleyici
+
+Webpack, JavaScript ve diğer web varlıklarını tarayıcıda çalışacak şekilde bir araya getiren bir paketleyici (bundler). Modülleri yönetilebilir parçalara ayıran kod bölme (code splitting) özelliği sayesinde uygulamaların ihtiyaç duyulduğunda yüklenmesini sağlar.
+
+- ★ 65.966
+- JavaScript
+- GitHub Trending · 2026-08-05
+
+## Güncelleme
+- 27 Ağustos 2026: Yıldız 65.985 → 65.966, son sürüm v5.110.0 (27 Ağustos 2026).
+- 6 Ağustos 2026: Yıldız 65.961 → 65.985, son sürüm v5.109.2 (28 Temmuz 2026).
+
+## Ne kazandırır?
+- JavaScript dosyalarını tarayıcıda çalışacak şekilde birleştirir.
+- Kod bölme özelliğiyle uygulama yükleme süresini kısaltır.
+- TypeScript gibi farklı dosya türlerini önceden işleyebilir.
+
+## Kurulum
+
+**npm ile kurulum**
+
+```
+npm install --save-dev webpack
+```
+
+**yarn ile kurulum**
+
+```
+yarn add webpack --dev
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Bir web geliştiricisi olarak, projelerimdeki JavaScript dosyalarını ve diğer statik varlıkları verimli bir şekilde paketlemek istiyorum. Webpack kullanarak modüllerimi nasıl yönetebilirim, kod bölme işlemini nasıl yapılandırabilirim ve projeme uygun yükleyicileri (loaders) nasıl tanımlayabilirim? Başlangıç seviyesinde bir yapılandırma dosyası örneği oluşturmama yardımcı ol.
+
+- **Kimin için:** Web uygulamalarındaki JavaScript dosyalarını ve diğer varlıkları düzenli bir şekilde paketlemek isteyen yazılım geliştiricileri içindir. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/webpack/webpack)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Bundler Code Splitting Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/webpack/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -31422,6 +31424,26 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Googletest
+
+Não foi possível produzir um resumo para este item hoje. Consulte o link da fonte para obter detalhes.
+
+- ★ 38.987
+- C++
+- GitHub Trending · 2026-08-27
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/google/googletest)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-27 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/googletest/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Ekip içi güvenli iş birliği platformu
 
 Mattermost, yazılım geliştirme yaşam döngüsü boyunca güvenli iş birliği sağlamak amacıyla tasarlanmış açık kaynaklı bir platformdur. Yazılım ekiplerinin iletişim süreçlerini merkezi bir yapı üzerinden yönetmelerine olanak tanır.
@@ -31713,15 +31735,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 DeepTutor, öğrenci verilerini kullanarak kişiselleştirilmiş eğitim süreçleri sunan yaşam boyu öğrenme (lifelong learning) tabanlı bir özel ders sistemidir. Proje, yapay zekâ destekli bireyselleştirilmiş öğretim (personalized tutoring) yöntemleriyle öğrenme deneyimini optimize etmeyi amaçlamaktadır.
 
-- ★ 37.659
+- ★ 37.681
 - Python
 - GitHub Trending · 2026-07-16
 
 ## Güncelleme
+- 27 Ağustos 2026: Yıldız 37.659 → 37.681, son sürüm v1.6.0 (27 Ağustos 2026).
 - 27 Ağustos 2026: Yıldız 36.980 → 37.659, son sürüm v1.5.17 (24 Ağustos 2026).
 - 22 Ağustos 2026: Yıldız 36.594 → 36.980, son sürüm v1.5.16 (21 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 36.416 → 36.594, son sürüm v1.5.15 (20 Ağustos 2026).
-- 19 Ağustos 2026: Yıldız 35.981 → 36.416, son sürüm v1.5.14 (19 Ağustos 2026).
 
 ## Ne kazandırır?
 - Yaşam boyu öğrenme odaklı özel ders sistemi
@@ -33953,6 +33975,55 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Sızma testleri için yapay zekâ yönlendirme
+
+Reverse-skill, tersine mühendislik ve sızma testi süreçleri için yapay zekâ destekli bir yönlendirme paketi (routing pack) sunuyor. Araç zinciri önyükleme (toolchain bootstrapping) ve kendi kendine gelişen bilgi tabanı özellikleriyle Claude Code, Cursor ve Cline gibi kodlama araçlarıyla entegre çalışıyor.
+
+- ★ 29.799
+- PowerShell
+- GitHub Trending · 2026-08-01
+
+## Güncelleme
+- 27 Ağustos 2026: Yıldız 28.357 → 29.799, son sürüm v1.0.1 (8 Ağustos 2026).
+- 24 Ağustos 2026: Yıldız 26.787 → 28.357, son sürüm v1.0.1 (8 Ağustos 2026).
+- 20 Ağustos 2026: Yıldız 25.468 → 26.787, son sürüm v1.0.1 (8 Ağustos 2026).
+- 15 Ağustos 2026: Yıldız 24.068 → 25.468, son sürüm v1.0.1 (8 Ağustos 2026).
+
+## Ne kazandırır?
+- Yapay zekâ ajanları için standartlaştırılmış iş akışları
+- Farklı dosya türlerine göre otomatik araç seçimi
+- Tekrarlanabilir ve izlenebilir güvenlik operasyonları
+
+## Kurulum
+
+**Depoyu bilgisayarınıza indirin**
+
+```
+git clone https://github.com/zhaoxuya520/reverse-skill.git
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Bu projeyi bir sızma testi veya tersine mühendislik görevinde rehber olarak kullan. Görevini gerçekleştirmeden önce README_AI.md dosyasındaki talimatları incele, RULES.md dosyasındaki yönlendirme kurallarına uy ve MASTER-ROUTING.md üzerinden doğru metodolojiyi belirleyerek iş akışını başlat.
+
+- **Kimin için:** Sızma testi ve tersine mühendislik süreçlerinde yapay zekâ ajanlarını daha verimli kullanmak isteyen güvenlik araştırmacıları içindir. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/zhaoxuya520/reverse-skill)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Routing Pack Toolchain Bootstrapping Skill Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/reverse-skill/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Verilerinizi koruyan yerel yapay zekâ asistanı
 
 Meetily, toplantı kayıtlarını yerel olarak işleyen ve bulut bağlantısına ihtiyaç duymayan, açık kaynaklı bir toplantı asistanıdır. Rust diliyle geliştirilen uygulama, hızlı ses dökümü (transcription), konuşmacı ayrıştırma (speaker diarization) ve yerel dil modelleriyle özetleme yetenekleri sunar.
@@ -34375,55 +34446,6 @@ Page Agent GUI User Interface Agent Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/page-agent/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Sızma testleri için yapay zekâ yönlendirme
-
-Reverse-skill, tersine mühendislik ve sızma testi süreçleri için yapay zekâ destekli bir yönlendirme paketi (routing pack) sunuyor. Araç zinciri önyükleme (toolchain bootstrapping) ve kendi kendine gelişen bilgi tabanı özellikleriyle Claude Code, Cursor ve Cline gibi kodlama araçlarıyla entegre çalışıyor.
-
-- ★ 28.357
-- PowerShell
-- GitHub Trending · 2026-08-01
-
-## Güncelleme
-- 24 Ağustos 2026: Yıldız 26.787 → 28.357, son sürüm v1.0.1 (8 Ağustos 2026).
-- 20 Ağustos 2026: Yıldız 25.468 → 26.787, son sürüm v1.0.1 (8 Ağustos 2026).
-- 15 Ağustos 2026: Yıldız 24.068 → 25.468, son sürüm v1.0.1 (8 Ağustos 2026).
-- 12 Ağustos 2026: Yıldız 22.757 → 24.068, son sürüm v1.0.1 (8 Ağustos 2026).
-
-## Ne kazandırır?
-- Yapay zekâ ajanları için standartlaştırılmış iş akışları
-- Farklı dosya türlerine göre otomatik araç seçimi
-- Tekrarlanabilir ve izlenebilir güvenlik operasyonları
-
-## Kurulum
-
-**Depoyu bilgisayarınıza indirin**
-
-```
-git clone https://github.com/zhaoxuya520/reverse-skill.git
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Bu projeyi bir sızma testi veya tersine mühendislik görevinde rehber olarak kullan. Görevini gerçekleştirmeden önce README_AI.md dosyasındaki talimatları incele, RULES.md dosyasındaki yönlendirme kurallarına uy ve MASTER-ROUTING.md üzerinden doğru metodolojiyi belirleyerek iş akışını başlat.
-
-- **Kimin için:** Sızma testi ve tersine mühendislik süreçlerinde yapay zekâ ajanlarını daha verimli kullanmak isteyen güvenlik araştırmacıları içindir. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/zhaoxuya520/reverse-skill)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Routing Pack Toolchain Bootstrapping Skill Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/reverse-skill/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -36126,15 +36148,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Openwork, Claude Cowork platformuna açık kaynaklı bir alternatif olarak geliştirilen ve opencode altyapısını kullanan bir yazılım projesidir. TypeScript diliyle yazılan bu araç, yazılım geliştirme süreçlerini otomatize etmeyi hedefleyen yapay zekâ destekli bir çalışma ortamı sunar.
 
-- ★ 23.111
+- ★ 23.119
 - TypeScript
 - GitHub Trending · 2026-07-30
 
 ## Güncelleme
+- 27 Ağustos 2026: Yıldız 23.111 → 23.119, son sürüm v0.18.38 (27 Ağustos 2026).
 - 27 Ağustos 2026: Yıldız 22.984 → 23.111, son sürüm v0.18.37 (26 Ağustos 2026).
 - 24 Ağustos 2026: Yıldız 22.809 → 22.984, son sürüm v0.18.36 (24 Ağustos 2026).
 - 21 Ağustos 2026: Yıldız 22.673 → 22.809, son sürüm v0.18.35 (20 Ağustos 2026).
-- 19 Ağustos 2026: Yıldız 22.647 → 22.673, son sürüm v0.18.33 (19 Ağustos 2026).
 
 ## Ne kazandırır?
 - Yapay zekâ araçları arasında yetenekleri paylaşma
@@ -39685,6 +39707,58 @@ Agent Skills AI Skills Agent
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/claude-obsidian/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Gizlilik odaklı alternatif Twitter arayüzü
+
+Não foi possível produzir um resumo para este item hoje. Consulte o link da fonte para obter detalhes.
+
+- ★ 13.705
+- Nim
+- GitHub Trending · 2026-08-27
+
+## Güncelleme
+- 27 Ağustos 2026: Yıldız 13.703 → 13.705, depo arşivlendi, geliştirme durdu.
+
+## Ne kazandırır?
+- JavaScript çalıştırmadan Twitter içeriklerini görüntüler
+- Kullanıcı IP adresini ve tarayıcı parmak izini gizler
+- Standart Twitter arayüzüne göre çok daha hızlı ve hafiftir
+
+## Kurulum
+
+**Docker ile kurulum**
+
+```
+docker run -v $(pwd)/nitter.conf:/src/nitter.conf -d --network host zedeus/nitter:latest
+```
+
+**Docker Compose ile başlatma**
+
+```
+docker-compose up -d
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Twitter üzerinde gizliliğimi koruyarak içerik görüntülemek istiyorum. JavaScript çalıştırmadan, IP adresimi ve tarayıcı parmak izimi gizleyerek Twitter'a erişmemi sağlayacak Nitter kurulumu ve yapılandırması için bana adım adım rehberlik et.
+
+- **Kimin için:** Twitter verilerinin reklam verenlere gönderilmesini istemeyen ve daha hızlı, hafif bir arayüz arayan gizlilik odaklı kullanıcılar içindir. 
+- **Lisans:** AGPL-3.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/zedeus/nitter)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-27 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/nitter/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -43928,6 +44002,58 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Bulut tabanlı açık kaynaklı haritalama
+
+GeoLibre, coğrafi verileri görselleştirmek, keşfetmek ve analiz etmek için tasarlanmış hafif, bulut tabanlı bir coğrafi bilgi sistemi (GIS) platformudur. TypeScript ile geliştirilen bu araç, web tarayıcıları, masaüstü, mobil cihazlar ve Jupyter not defterleri (Jupyter notebooks) üzerinde çalışabilmektedir.
+
+- ★ 6.785
+- TypeScript
+- GitHub Trending · 2026-07-28
+
+## Güncelleme
+- 27 Ağustos 2026: Yıldız 6.561 → 6.785, son sürüm v2.8.0 (27 Ağustos 2026).
+- 22 Ağustos 2026: Yıldız 6.126 → 6.561, son sürüm v2.7.0 (22 Ağustos 2026).
+- 15 Ağustos 2026: Yıldız 5.470 → 6.126, son sürüm v2.6.0 (14 Ağustos 2026).
+- 6 Ağustos 2026: Yıldız 4.941 → 5.470, son sürüm v2.5.0 (6 Ağustos 2026).
+
+## Ne kazandırır?
+- Tarayıcıda kurulumsuz coğrafi veri analizi
+- Masaüstü, mobil ve Jupyter desteği
+- Yerel ve gizli veri işleme
+
+## Kurulum
+
+**pip ile (PyPI)**
+
+```
+pip install GeoLibre
+```
+
+Kaynak: PyPI · GeoLibre
+
+## Nasıl başlanır?
+
+GeoLibre'yi kullanmaya başlamak için herhangi bir kurulum yapmanıza gerek yoktur. Tarayıcınız üzerinden web sürümüne erişebilir veya masaüstü işletim sisteminize uygun yükleyiciyi indirmek için resmî web sitesindeki indirme sayfasını ziyaret edebilirsiniz.
+- [Resmî kaynak →](https://geolibre.app)
+
+- **Kimin için:** Coğrafi verileri görselleştirmek, analiz etmek ve keşfetmek isteyen araştırmacılar, veri analistleri ve harita meraklıları için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/opengeos/GeoLibre)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+GIS Notebooks Jupyter Notebooks
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/geolibre/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Yapay zekâ ajanınıza yerel yetenekler kazandırın
 
 NomaDamas/k-skill, yapay zekâ ajanlarına (AI agents) kültürel bağlamda yerel yetenekler kazandırmak için tasarlanmış bir kütüphane. Ajanların kullanıcılarla daha doğal ve kültürel kodlara uygun etkileşim kurmasını sağlayan özelleştirilmiş beceri setleri (skill sets) sunuyor.
@@ -44035,58 +44161,6 @@ AI Agent PDF Agent Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/hiring-agent/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Bulut tabanlı açık kaynaklı haritalama
-
-GeoLibre, coğrafi verileri görselleştirmek, keşfetmek ve analiz etmek için tasarlanmış hafif, bulut tabanlı bir coğrafi bilgi sistemi (GIS) platformudur. TypeScript ile geliştirilen bu araç, web tarayıcıları, masaüstü, mobil cihazlar ve Jupyter not defterleri (Jupyter notebooks) üzerinde çalışabilmektedir.
-
-- ★ 6.561
-- TypeScript
-- GitHub Trending · 2026-07-28
-
-## Güncelleme
-- 22 Ağustos 2026: Yıldız 6.126 → 6.561, son sürüm v2.7.0 (22 Ağustos 2026).
-- 15 Ağustos 2026: Yıldız 5.470 → 6.126, son sürüm v2.6.0 (14 Ağustos 2026).
-- 6 Ağustos 2026: Yıldız 4.941 → 5.470, son sürüm v2.5.0 (6 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 2.891 → 4.941, son sürüm v2.4.0 (29 Temmuz 2026).
-
-## Ne kazandırır?
-- Tarayıcıda kurulumsuz coğrafi veri analizi
-- Masaüstü, mobil ve Jupyter desteği
-- Yerel ve gizli veri işleme
-
-## Kurulum
-
-**pip ile (PyPI)**
-
-```
-pip install GeoLibre
-```
-
-Kaynak: PyPI · GeoLibre
-
-## Nasıl başlanır?
-
-GeoLibre'yi kullanmaya başlamak için herhangi bir kurulum yapmanıza gerek yoktur. Tarayıcınız üzerinden web sürümüne erişebilir veya masaüstü işletim sisteminize uygun yükleyiciyi indirmek için resmî web sitesindeki indirme sayfasını ziyaret edebilirsiniz.
-- [Resmî kaynak →](https://geolibre.app)
-
-- **Kimin için:** Coğrafi verileri görselleştirmek, analiz etmek ve keşfetmek isteyen araştırmacılar, veri analistleri ve harita meraklıları için uygundur. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/opengeos/GeoLibre)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-GIS Notebooks Jupyter Notebooks
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/geolibre/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -46730,15 +46804,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Google Timeline Visualizer, Google Konum Geçmişi verilerinizle bir yıllık seyahatlerinizi görselleştirir.
 
-- ★ 2.871
+- ★ 2.879
 - Kotlin
 - GitHub Trending · 2026-08-20
 
 ## Güncelleme
+- 27 Ağustos 2026: Yıldız 2.871 → 2.879, son sürüm v3.0.4 (27 Ağustos 2026).
 - 27 Ağustos 2026: Yıldız 2.712 → 2.871, son sürüm v3.0.2 (27 Ağustos 2026).
 - 24 Ağustos 2026: Yıldız 2.596 → 2.712, son sürüm v2.4.1 (24 Ağustos 2026).
 - 23 Ağustos 2026: Yıldız 2.286 → 2.596, son sürüm v2.3.2 (22 Ağustos 2026).
-- 22 Ağustos 2026: Yıldız 2.075 → 2.286, son sürüm v2.2.13 (22 Ağustos 2026).
 
 ## Ne kazandırır?
 - Google Haritalar geçmiş verisini MP4 videoya çevirir
@@ -47286,6 +47360,63 @@ CPU GPU
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/marin/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Go Modern Guidelines
+
+Não foi possível produzir um resumo para este item hoje. Consulte o link da fonte para obter detalhes.
+
+- ★ 1.938
+- Go
+- GitHub Trending · 2026-08-27
+
+## Ne kazandırır?
+- Yapay zekâ modellerinin güncel Go özelliklerini kullanmasını sağlar
+- Eski kod kalıpları yerine modern ve verimli yöntemleri tercih eder
+- Projenin Go sürümünü otomatik algılayarak dil özelliklerini buna göre uyarlar
+
+## Kurulum
+
+**Junie için marketplace ekleme**
+
+```
+/extensions marketplace add JetBrains/go-modern-guidelines
+```
+
+**Junie için eklenti kurulumu**
+
+```
+/extensions install modern-go-guidelines
+```
+
+## Çalıştırma
+
+**Claude Code üzerinde rehberliği çalıştır**
+
+```
+/modern-go-guidelines:use-modern-go
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Bundan sonra kod yazarken modern Go standartlarını kullan. Projenin go.mod dosyasındaki Go sürümünü dikkate alarak, 1.0 sürümünden 1.27 sürümüne kadar olan en güncel dil özelliklerini ve standart kütüphane eklemelerini tercih et. `if-else` blokları yerine `max(a, b)` gibi fonksiyonları, manuel döngüler yerine `slices.Contains` gibi modern yöntemleri ve nil kontrolleri yerine `cmp.Or` gibi güncel kalıpları kullan.
+
+- **Kimin için:** Yapay zekâ destekli kodlama araçlarını kullanarak Go dilinde yazılım geliştiren ve yazdığı kodun güncel standartlara uygun olmasını isteyen yazılımcılar içindir. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/JetBrains/go-modern-guidelines)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-27 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/go-modern-guidelines/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 

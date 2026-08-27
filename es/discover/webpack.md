@@ -2,7 +2,7 @@
 
 Webpack es un paquete que agrupa JavaScript y otros activos web para ejecutarlos en el navegador. Permite cargar aplicaciones cuando sea necesario, gracias a la función de división de código que divide los módulos en partes manejables.
 
-- ★ 65.985
+- ★ 65.966
 - JavaScript
 - GitHub Trending · 2026-08-05
 

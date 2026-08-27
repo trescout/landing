@@ -2,15 +2,15 @@
 
 DeepTutor, öğrenci verilerini kullanarak kişiselleştirilmiş eğitim süreçleri sunan yaşam boyu öğrenme (lifelong learning) tabanlı bir özel ders sistemidir. Proje, yapay zekâ destekli bireyselleştirilmiş öğretim (personalized tutoring) yöntemleriyle öğrenme deneyimini optimize etmeyi amaçlamaktadır.
 
-- ★ 37.659
+- ★ 37.681
 - Python
 - GitHub Trending · 2026-07-16
 
 ## Güncelleme
+- 27 Ağustos 2026: Yıldız 37.659 → 37.681, son sürüm v1.6.0 (27 Ağustos 2026).
 - 27 Ağustos 2026: Yıldız 36.980 → 37.659, son sürüm v1.5.17 (24 Ağustos 2026).
 - 22 Ağustos 2026: Yıldız 36.594 → 36.980, son sürüm v1.5.16 (21 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 36.416 → 36.594, son sürüm v1.5.15 (20 Ağustos 2026).
-- 19 Ağustos 2026: Yıldız 35.981 → 36.416, son sürüm v1.5.14 (19 Ağustos 2026).
 
 ## Ne kazandırır?
 - Yaşam boyu öğrenme odaklı özel ders sistemi

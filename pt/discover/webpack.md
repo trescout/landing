@@ -2,7 +2,7 @@
 
 Webpack é um empacotador que agrupa JavaScript e outros ativos da web para serem executados no navegador. Ele permite que aplicativos sejam carregados quando necessário, graças ao recurso de divisão de código que divide os módulos em partes gerenciáveis.
 
-- ★ 65.985
+- ★ 65.966
 - JavaScript
 - GitHub Trending · 2026-08-05
 

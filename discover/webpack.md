@@ -2,11 +2,12 @@
 
 Webpack, JavaScript ve diğer web varlıklarını tarayıcıda çalışacak şekilde bir araya getiren bir paketleyici (bundler). Modülleri yönetilebilir parçalara ayıran kod bölme (code splitting) özelliği sayesinde uygulamaların ihtiyaç duyulduğunda yüklenmesini sağlar.
 
-- ★ 65.985
+- ★ 65.966
 - JavaScript
 - GitHub Trending · 2026-08-05
 
 ## Güncelleme
+- 27 Ağustos 2026: Yıldız 65.985 → 65.966, son sürüm v5.110.0 (27 Ağustos 2026).
 - 6 Ağustos 2026: Yıldız 65.961 → 65.985, son sürüm v5.109.2 (28 Temmuz 2026).
 
 ## Ne kazandırır?

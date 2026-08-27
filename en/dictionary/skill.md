@@ -33,11 +33,12 @@ Usually, API connections or special code blocks are written to enable the assist
 
 ## Related tools
 - [Anthropic Skills](/en/discover/anthropic-skills/)
+- [Browser Use](/en/discover/browser-use/)
 - [Taste Skill](/en/discover/taste-skill/)
 - [Awesome Claude Skills](/en/discover/awesome-claude-skills/)
 - [Last30days Skill](/en/discover/last30days-skill/)
-- [OfficeCLI](/en/discover/officecli/)
 - [Reverse Skill](/en/discover/reverse-skill/)
+- [OfficeCLI](/en/discover/officecli/)
 - [Book to Skill](/en/discover/book-to-skill/)
 
 ---

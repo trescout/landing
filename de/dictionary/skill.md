@@ -31,11 +31,12 @@ Normalerweise werden API-Verbindungen oder spezielle Codeblöcke geschrieben, um
 
 ## Verwandte Werkzeuge
 - [Anthropic Skills](/de/discover/anthropic-skills/)
+- [Browser Use](/de/discover/browser-use/)
 - [Taste Skill](/de/discover/taste-skill/)
 - [Awesome Claude Skills](/de/discover/awesome-claude-skills/)
 - [Last30days Skill](/de/discover/last30days-skill/)
-- [OfficeCLI](/de/discover/officecli/)
 - [Reverse Skill](/de/discover/reverse-skill/)
+- [OfficeCLI](/de/discover/officecli/)
 - [Book to Skill](/de/discover/book-to-skill/)
 
 ---

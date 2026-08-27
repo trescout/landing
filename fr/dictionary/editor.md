@@ -24,6 +24,7 @@ Oui, mais les éditeurs de code vous aident à effectuer votre travail beaucoup 
 - [Coding Agent](/fr/dictionary/coding-agent/)
 
 ## Outils liés
+- [Scientific Agent Skills](/fr/discover/scientific-agent-skills/)
 - [Editor](/fr/discover/editor/)
 - [Palmier Pro](/fr/discover/palmier-pro/)
 - [Clypra](/fr/discover/clypra/)

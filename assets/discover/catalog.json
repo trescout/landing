@@ -624,7 +624,7 @@
     "tagline_pt": "Memória persistente para seu agente de IA: lembra o contexto de sessão cruzada e é configurada com um único comando.",
     "tagline_es": "Memoria persistente para su agente de IA: recuerda el contexto entre sesiones y se configura con un solo comando.",
     "tagline_de": "Permanenter Speicher für Ihren KI-Agenten: Erinnert sich an den sitzungsübergreifenden Kontext und wird mit einem einzigen Befehl eingerichtet.",
-    "last_seen": "2026-05-27",
+    "last_seen": "2026-08-27",
     "cmds": {
       "kurulum": [
         {
@@ -1883,14 +1883,14 @@
     "slug": "ruview",
     "title": "RuView",
     "tagline": "WiFi CSI ile kablosuz sensing ve sinyal analizi için açık kaynaklı platform.",
-    "meta": "★ 91.805",
+    "meta": "★ 91.815",
     "image": "/assets/discover/og/ruview.webp",
     "source": "GitHub",
     "date": "2026-05-30",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 91805,
+    "stars": 91815,
     "summary": "WiFi Channel State Information (CSI) kullanarak ortam değişimlerini incelemenize yardımcı olur. ESP32 veya araştırma NIC’leriyle çalışabilir; donanımınız yoksa simüle edilmiş verilerle değerlendirme yapabilirsiniz.",
     "headline": "WiFi Sinyalleriyle Kablosuz Algılama Platformu",
     "lite": false,
@@ -2036,6 +2036,13 @@
         "onceki_yildiz": 91322,
         "surum": "v2390",
         "surum_tarihi": "2026-08-26"
+      },
+      {
+        "tarih": "2026-08-27",
+        "yildiz": 91815,
+        "onceki_yildiz": 91805,
+        "surum": "v2400",
+        "surum_tarihi": "2026-08-27"
       }
     ],
     "last_review": "2026-08-27",
@@ -2741,7 +2748,7 @@
     "tagline_pt": "TradingAgents é baseado no modelo de linguagem grande multiagente (LLM multiagente) desenvolvido para fins de negociação em mercados financeiros.",
     "tagline_es": "TradingAgents se basa en el modelo de lenguaje grande de múltiples agentes (LLM de múltiples agentes) desarrollado con el propósito de operar en los mercados financieros.",
     "tagline_de": "TradingAgents basiert auf dem Multi-Agent-Large-Language-Modell (Multi-Agent-LLM), das für den Handel auf Finanzmärkten entwickelt wurde.",
-    "last_seen": "2026-08-25",
+    "last_seen": "2026-08-27",
     "cmds": {
       "kurulum": [
         {
@@ -3240,7 +3247,7 @@
     "slug": "hermes-agent",
     "title": "Hermes Agent",
     "tagline": "NousResearch tarafından geliştirilen Hermes Agent, kullanıcı etkileşimleriyle öğrenerek zaman içinde gelişen bir otonom ajan…",
-    "meta": "★ 233.843 · Python",
+    "meta": "★ 237.210 · Python",
     "image": "/assets/discover/og/hermes-agent.webp",
     "source": "GitHub",
     "date": "2026-06-04",
@@ -3248,7 +3255,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 233843,
+    "stars": 237210,
     "lite": false,
     "headline": "Kullanıcı Etkileşimleriyle Gelişen yapay zekâ",
     "last_review": "2026-08-27",
@@ -3294,6 +3301,13 @@
         "onceki_yildiz": 232339,
         "surum": "v2026.8.19",
         "surum_tarihi": "2026-08-21"
+      },
+      {
+        "tarih": "2026-08-27",
+        "yildiz": 237210,
+        "onceki_yildiz": 233843,
+        "surum": "v2026.8.27",
+        "surum_tarihi": "2026-08-27"
       }
     ],
     "tagline_en": "Developed by NousResearch, Hermes Agent is an autonomous agent that evolves over time by learning through user interactions.",
@@ -8010,7 +8024,7 @@
     "tagline_pt": "OpenMontage é um agente de código aberto que transforma assistentes de codificação de IA em um estúdio de produção de vídeo completo.",
     "tagline_es": "OpenMontage es un agente de código abierto que convierte a los asistentes de codificación de IA en un estudio de producción de vídeo completo.",
     "tagline_de": "OpenMontage ist ein Open-Source-Agent, der KI-Codierungsassistenten in ein vollwertiges Videoproduktionsstudio verwandelt.",
-    "last_seen": "2026-08-12"
+    "last_seen": "2026-08-27"
   },
   {
     "slug": "rlm",
@@ -12132,7 +12146,7 @@
     "tagline_pt": "Desenvolvido pelo GitHub, o actions/checkout é uma ferramenta para cópia de repositórios (repository checkout) em processos de desenvolvimento de software.",
     "tagline_es": "Desarrollado por GitHub, action/checkout es una herramienta para copiar repositorios (repository checkout) en procesos de desarrollo de software.",
     "tagline_de": "Actions/Checkout wurde von GitHub entwickelt und ist ein Tool zum Repository-Kopieren (Repository-Checkout) in Softwareentwicklungsprozessen.",
-    "last_seen": "2026-07-12"
+    "last_seen": "2026-08-27"
   },
   {
     "slug": "agentskills",
@@ -15270,7 +15284,7 @@
     "tagline_pt": "OpenCut é um projeto de desenvolvimento de aplicativos baseado em TypeScript que oferece uma alternativa de código aberto para processos de edição de vídeo.",
     "tagline_es": "OpenCut es un proyecto de desarrollo de aplicaciones basado en TypeScript que ofrece una alternativa de código abierto para procesos de edición de vídeo.",
     "tagline_de": "OpenCut ist ein TypeScript-basiertes Anwendungsentwicklungsprojekt, das eine Open-Source-Alternative für Videobearbeitungsprozesse bietet.",
-    "last_seen": "2026-08-19"
+    "last_seen": "2026-08-27"
   },
   {
     "slug": "graphify",
@@ -15651,7 +15665,7 @@
     "slug": "deeptutor",
     "title": "DeepTutor",
     "tagline": "DeepTutor, öğrenci verilerini kullanarak kişiselleştirilmiş eğitim süreçleri sunan yaşam boyu öğrenme (lifelong learning)…",
-    "meta": "★ 37.659 · Python",
+    "meta": "★ 37.681 · Python",
     "image": "/assets/discover/og/deeptutor.webp",
     "source": "GitHub",
     "date": "2026-07-16",
@@ -15659,7 +15673,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 37659,
+    "stars": 37681,
     "lite": false,
     "headline": "Yapay zekâ destekli kişiselleştirilmiş eğitim",
     "last_review": "2026-08-27",
@@ -15733,6 +15747,13 @@
         "onceki_yildiz": 36980,
         "surum": "v1.5.17",
         "surum_tarihi": "2026-08-24"
+      },
+      {
+        "tarih": "2026-08-27",
+        "yildiz": 37681,
+        "onceki_yildiz": 37659,
+        "surum": "v1.6.0",
+        "surum_tarihi": "2026-08-27"
       }
     ],
     "tagline_en": "DeepTutor is a lifelong learning platform that offers personalized education processes using student data.",
@@ -17646,7 +17667,7 @@
         "onceki_yildiz": 68956
       }
     ],
-    "last_seen": "2026-07-26"
+    "last_seen": "2026-08-27"
   },
   {
     "slug": "cloudflare-temp-email",
@@ -18441,14 +18462,14 @@
     "slug": "geolibre",
     "title": "GeoLibre",
     "tagline": "GeoLibre, coğrafi verileri görselleştirmek, keşfetmek ve analiz etmek için tasarlanmış hafif, bulut tabanlı bir coğrafi bilgi…",
-    "meta": "★ 6.561 · TypeScript",
+    "meta": "★ 6.785 · TypeScript",
     "image": "/assets/discover/og/geolibre.webp",
     "source": "GitHub",
     "date": "2026-07-28",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 6561,
+    "stars": 6785,
     "lite": false,
     "headline": "Bulut tabanlı açık kaynaklı haritalama",
     "last_review": "2026-08-27",
@@ -18480,6 +18501,13 @@
         "onceki_yildiz": 6126,
         "surum": "v2.7.0",
         "surum_tarihi": "2026-08-22"
+      },
+      {
+        "tarih": "2026-08-27",
+        "yildiz": 6785,
+        "onceki_yildiz": 6561,
+        "surum": "v2.8.0",
+        "surum_tarihi": "2026-08-27"
       }
     ],
     "tagline_en": "GeoLibre is a lightweight, cloud-based geospatial information application designed to visualize, explore and analyze geographic data.",
@@ -19002,7 +19030,7 @@
     "slug": "openwork",
     "title": "Openwork",
     "tagline": "Openwork, Claude Cowork platformuna açık kaynaklı bir alternatif olarak geliştirilen ve opencode altyapısını kullanan bir…",
-    "meta": "★ 23.111 · TypeScript",
+    "meta": "★ 23.119 · TypeScript",
     "image": "/assets/discover/og/openwork.webp",
     "source": "GitHub",
     "date": "2026-07-30",
@@ -19010,7 +19038,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 23111,
+    "stars": 23119,
     "lite": false,
     "headline": "Yapay zekâ iş akışlarını paylaşın",
     "last_review": "2026-08-27",
@@ -19126,6 +19154,13 @@
         "onceki_yildiz": 22984,
         "surum": "v0.18.37",
         "surum_tarihi": "2026-08-26"
+      },
+      {
+        "tarih": "2026-08-27",
+        "yildiz": 23119,
+        "onceki_yildiz": 23111,
+        "surum": "v0.18.38",
+        "surum_tarihi": "2026-08-27"
       }
     ],
     "tagline_en": "Openwork is a platform developed as an open source alternative to the Claude Cowork platform and uses the opencode infrastructure.",
@@ -19291,7 +19326,7 @@
     "slug": "reverse-skill",
     "title": "Reverse Skill",
     "tagline": "Reverse-skill, tersine mühendislik ve sızma testi süreçleri için yapay zekâ destekli bir yönlendirme paketi (routing pack)…",
-    "meta": "★ 28.357 · PowerShell",
+    "meta": "★ 29.799 · PowerShell",
     "image": "/assets/discover/og/reverse-skill.webp",
     "source": "GitHub",
     "date": "2026-08-01",
@@ -19299,7 +19334,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 28357,
+    "stars": 29799,
     "lite": false,
     "headline": "Sızma testleri için yapay zekâ yönlendirme",
     "last_review": "2026-08-27",
@@ -19378,6 +19413,13 @@
         "tarih": "2026-08-24",
         "yildiz": 28357,
         "onceki_yildiz": 26787,
+        "surum": "v1.0.1",
+        "surum_tarihi": "2026-08-08"
+      },
+      {
+        "tarih": "2026-08-27",
+        "yildiz": 29799,
+        "onceki_yildiz": 28357,
         "surum": "v1.0.1",
         "surum_tarihi": "2026-08-08"
       }
@@ -20373,14 +20415,14 @@
     "slug": "webpack",
     "title": "Webpack",
     "tagline": "Webpack, JavaScript ve diğer web varlıklarını tarayıcıda çalışacak şekilde bir araya getiren bir paketleyici (bundler).",
-    "meta": "★ 65.985 · JavaScript",
+    "meta": "★ 65.966 · JavaScript",
     "image": "/assets/discover/og/webpack.webp",
     "source": "GitHub",
     "date": "2026-08-05",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 65985,
+    "stars": 65966,
     "lite": false,
     "headline": "Web projeleri için modül paketleyici",
     "last_review": "2026-08-27",
@@ -20391,6 +20433,13 @@
         "onceki_yildiz": 65961,
         "surum": "v5.109.2",
         "surum_tarihi": "2026-07-28"
+      },
+      {
+        "tarih": "2026-08-27",
+        "yildiz": 65966,
+        "onceki_yildiz": 65985,
+        "surum": "v5.110.0",
+        "surum_tarihi": "2026-08-27"
       }
     ],
     "tagline_en": "Webpack is a bundler that bundles JavaScript and other web assets together to run in the browser.",
@@ -22681,7 +22730,7 @@
     "slug": "unsloth",
     "title": "Unsloth",
     "tagline": "Unsloth, büyük dil modelleri (LLM) ve görsel oluşturma modelleri (diffusion models) için yerel ortamda eğitim ve çalıştırma…",
-    "meta": "★ 74.940 · Python",
+    "meta": "★ 74.963 · Python",
     "image": "/assets/discover/og/unsloth.webp",
     "source": "GitHub",
     "date": "2026-08-14",
@@ -22689,7 +22738,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 74940,
+    "stars": 74963,
     "lite": false,
     "headline": "Yerel yapay zekâ modellerini eğit ve çalıştır",
     "tagline_en": "Unsloth provides native training and execution for large language models (LLM) and diffusion models.",
@@ -22719,6 +22768,13 @@
         "onceki_yildiz": 74051,
         "surum": "v0.1.803-beta",
         "surum_tarihi": "2026-08-25"
+      },
+      {
+        "tarih": "2026-08-27",
+        "yildiz": 74963,
+        "onceki_yildiz": 74940,
+        "surum": "v0.1.804-beta",
+        "surum_tarihi": "2026-08-27"
       }
     ],
     "last_seen": "2026-08-17"
@@ -23660,14 +23716,14 @@
     "slug": "google-timeline-visualizer",
     "title": "Google Timeline Visualizer",
     "tagline": "Google Timeline Visualizer, Google Konum Geçmişi verilerinizle bir yıllık seyahatlerinizi görselleştirir.",
-    "meta": "★ 2.871 · Kotlin",
+    "meta": "★ 2.879 · Kotlin",
     "image": "/assets/discover/og/google-timeline-visualizer.webp",
     "source": "GitHub",
     "date": "2026-08-20",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 2871,
+    "stars": 2879,
     "lite": false,
     "headline": "Konum geçmişinizi hareketli videoya dönüştürün",
     "tagline_en": "Google Timeline Visualizer uses your Google Location History data to visualize a year of travel.",
@@ -23731,6 +23787,13 @@
         "yildiz": 2871,
         "onceki_yildiz": 2712,
         "surum": "v3.0.2",
+        "surum_tarihi": "2026-08-27"
+      },
+      {
+        "tarih": "2026-08-27",
+        "yildiz": 2879,
+        "onceki_yildiz": 2871,
+        "surum": "v3.0.4",
         "surum_tarihi": "2026-08-27"
       }
     ],
@@ -25820,7 +25883,8 @@
     "tagline_fr": "Archify est une capacité d'agent (compétence d'agent) d'intelligence artificielle qui crée des diagrammes techniques, comme des fluxogrammes…",
     "tagline_pt": "Archify é uma habilidade de agente (habilidade de agente) de inteligência artificial que cria diagramas técnicos, como fluxogramas…",
     "tagline_es": "Archify es una habilidade de agente (agent skills) de inteligência artificial que cria diagramas técnicos, como fluxogramas…",
-    "tagline_de": "Archify ist eine Agentenfähigkeit (Agentenfähigkeit) für künstliche Intelligenz, die technische Diagramme wie Fluxogramme erfordert …"
+    "tagline_de": "Archify ist eine Agentenfähigkeit (Agentenfähigkeit) für künstliche Intelligenz, die technische Diagramme wie Fluxogramme erfordert …",
+    "last_seen": "2026-08-27"
   },
   {
     "slug": "garden-skills",
@@ -25851,7 +25915,8 @@
     "tagline_fr": "Les compétences en jardinage sont une collection de compétences (compétences) de code ouvert pour diverses fonctions, comme la conception de sites Web…",
     "tagline_pt": "Garden-skills é uma coleção de habilidades (habilidades) de código aberto desenvolvido para diversas funções, como web design…",
     "tagline_es": "Garden-skills es una colección de habilidades (skills) de código abierto diseñada para diversas funciones, como diseño web…",
-    "tagline_de": "Garden-Skills ist eine Sammlung von Fähigkeiten (Fähigkeiten) mit Code, die sich jedoch für verschiedene Funktionen wie Webdesign eignet …"
+    "tagline_de": "Garden-Skills ist eine Sammlung von Fähigkeiten (Fähigkeiten) mit Code, die sich jedoch für verschiedene Funktionen wie Webdesign eignet …",
+    "last_seen": "2026-08-27"
   },
   {
     "slug": "browser-use",
@@ -25882,7 +25947,8 @@
     "tagline_fr": "L'utilisation du navigateur est une bibliothèque Python qui permet aux agents de renseignement artificiel d'interagir avec des sites Internet comme ceux-ci…",
     "tagline_pt": "Browser-use é uma biblioteca Python que permite que agentes de inteligência artificial interajam com sites da internet como sistema operacional…",
     "tagline_es": "El uso del navegador es una biblioteca Python que permite que agentes de inteligencia artificial interactúen con sitios de Internet como os…",
-    "tagline_de": "Die Browser-Nutzung ist eine Python-Bibliothek, die es Agenten der künstlichen Intelligenz ermöglicht, Websites wie das Internet mit anderen zu verbinden…"
+    "tagline_de": "Die Browser-Nutzung ist eine Python-Bibliothek, die es Agenten der künstlichen Intelligenz ermöglicht, Websites wie das Internet mit anderen zu verbinden…",
+    "last_seen": "2026-08-26"
   },
   {
     "slug": "scientific-agent-skills",
@@ -25913,6 +25979,81 @@
     "tagline_fr": "Les compétences d'agent scientifique sont une bibliothèque qui contient 163 compétences (compétences) vérifiées et plus de 100 bancs de données…",
     "tagline_pt": "Scientific-agent-skills é uma biblioteca que contém 163 habilidades (skills) verificadas e mais de 100 bancos de dados…",
     "tagline_es": "Scientific-agent-skills es una biblioteca que contiene 163 habilidades (skills) verificadas y más de 100 bancos de datos…",
-    "tagline_de": "Scientific-agent-skills ist eine Bibliothek, die 163 habilidades (skills) verifiziert und mehr als 100 Bancos de dados enthält…"
+    "tagline_de": "Scientific-agent-skills ist eine Bibliothek, die 163 habilidades (skills) verifiziert und mehr als 100 Bancos de dados enthält…",
+    "last_seen": "2026-08-27"
+  },
+  {
+    "slug": "nitter",
+    "title": "Nitter",
+    "tagline": "Não foi possível produzir um resumo para este item hoje.",
+    "meta": "★ 13.705 · Nim",
+    "image": "/assets/discover/og/nitter.webp",
+    "source": "GitHub",
+    "date": "2026-08-27",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 13705,
+    "summary": "Não foi possível produzir um resumo para este item hoje. Consulte o link da fonte para obter detalhes.",
+    "lite": false,
+    "headline": "Gizlilik odaklı alternatif Twitter arayüzü",
+    "last_review": "2026-08-27",
+    "arsivlendi": true,
+    "guncellemeler": [
+      {
+        "tarih": "2026-08-27",
+        "yildiz": 13705,
+        "onceki_yildiz": 13703,
+        "arsiv": true
+      }
+    ],
+    "tagline_en": "This is the most important product possible.",
+    "tagline_fr": "C'est le produit le plus important possible.",
+    "tagline_pt": "Este é o produto mais importante possível.",
+    "tagline_es": "Este es el producto más importante posible.",
+    "tagline_de": "Dies ist das wichtigste Produkt überhaupt."
+  },
+  {
+    "slug": "go-modern-guidelines",
+    "title": "Go Modern Guidelines",
+    "tagline": "Não foi possível produzir um resumo para este item hoje.",
+    "meta": "★ 1.938 · Go",
+    "image": "/assets/discover/og/go-modern-guidelines.webp",
+    "source": "GitHub",
+    "date": "2026-08-27",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 1938,
+    "summary": "Não foi possível produzir um resumo para este item hoje. Consulte o link da fonte para obter detalhes.",
+    "lite": false,
+    "last_review": "2026-08-27",
+    "tagline_en": "This is the most important product possible.",
+    "tagline_fr": "C'est le produit le plus important possible.",
+    "tagline_pt": "Este é o produto mais importante possível.",
+    "tagline_es": "Este es el producto más importante posible.",
+    "tagline_de": "Dies ist das wichtigste Produkt überhaupt."
+  },
+  {
+    "slug": "googletest",
+    "title": "Googletest",
+    "tagline": "Não foi possível produzir um resumo para este item hoje.",
+    "meta": "★ 38.987 · C++",
+    "image": "/assets/discover/og/googletest.webp",
+    "source": "GitHub",
+    "date": "2026-08-27",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 38987,
+    "summary": "Não foi possível produzir um resumo para este item hoje. Consulte o link da fonte para obter detalhes.",
+    "lite": true,
+    "needs_enrichment": true,
+    "enrich_reason": "komut_yok",
+    "tagline_en": "This is the most important product possible.",
+    "tagline_fr": "C'est le produit le plus important possible.",
+    "tagline_pt": "Este é o produto mais importante possível.",
+    "tagline_es": "Este es el producto más importante posible.",
+    "tagline_de": "Dies ist das wichtigste Produkt überhaupt."
   }
 ]

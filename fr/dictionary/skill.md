@@ -31,11 +31,12 @@ Habituellement, des connexions API ou des blocs de code spéciaux sont écrits p
 
 ## Outils liés
 - [Anthropic Skills](/fr/discover/anthropic-skills/)
+- [Browser Use](/fr/discover/browser-use/)
 - [Taste Skill](/fr/discover/taste-skill/)
 - [Awesome Claude Skills](/fr/discover/awesome-claude-skills/)
 - [Last30days Skill](/fr/discover/last30days-skill/)
-- [OfficeCLI](/fr/discover/officecli/)
 - [Reverse Skill](/fr/discover/reverse-skill/)
+- [OfficeCLI](/fr/discover/officecli/)
 - [Book to Skill](/fr/discover/book-to-skill/)
 
 ---

@@ -26,6 +26,7 @@ Yes, but code editors help you get your work done much faster with features like
 - [Coding Agent](/en/dictionary/coding-agent/)
 
 ## Related tools
+- [Scientific Agent Skills](/en/discover/scientific-agent-skills/)
 - [Editor](/en/discover/editor/)
 - [Palmier Pro](/en/discover/palmier-pro/)
 - [Clypra](/en/discover/clypra/)
