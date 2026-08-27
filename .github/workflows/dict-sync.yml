@@ -308,6 +308,13 @@ jobs:
             node scripts/build-reports-en.js --lang=$d
           done
 
+      # Ana sayfanın okuduğu hafif katalog türevi · katalog SON hâline geldikten
+      # sonra (tagline_XX çevirileri ve --refresh sonrası) basılmalı, yoksa ana
+      # sayfa bir tur eski kartları gösterir. Diller diller.py'den okunuyor ·
+      # burada dil adı yok.
+      - name: Ana sayfa kataloğu (hafif türev · tüm diller)
+        run: python3 scripts/catalog-home.py
+
       - name: AI'a hizmet · keşif index server-render + .md + llms.txt
         run: |
           python3 scripts/discover-index.py
