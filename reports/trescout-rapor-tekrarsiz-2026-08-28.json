@@ -1,0 +1,503 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-08-28",
+  "capturedAt": "2026-08-28T13:31:22.155Z",
+  "editorial": "Bu rapor, son 30 gündeki normal raporlarda yer alan kayıtları tekrar etmeden bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "bilawalsidhu/gods-eye-view",
+          "url": "https://github.com/bilawalsidhu/gods-eye-view",
+          "summary": "Gods-eye-view, tarayıcı üzerinde gerçek zamanlı uydu verilerini fotorealistik bir 3D küre üzerinde görselleştiren bir uzamsal istihbarat aracıdır. JavaScript ile geliştirilen bu açık kaynaklı proje, kullanıcıların dünya üzerindeki hareketliliği canlı olarak takip etmesine olanak tanır.",
+          "meta": "JavaScript · ★ 10.132 · +1.984 bugün",
+          "snapshot": {
+            "sourceId": "bilawalsidhu/gods-eye-view",
+            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 10132,
+              "engagementCount": 1984,
+              "rank": 4,
+              "extra": {
+                "starsToday": 1984
+              }
+            }
+          }
+        },
+        {
+          "title": "abhigyanpatwari/GitNexus",
+          "url": "https://github.com/abhigyanpatwari/GitNexus",
+          "summary": "GitNexus, tarayıcı üzerinde çalışan ve kod depolarını etkileşimli bir bilgi grafiğine (knowledge graph) dönüştüren bir kod analiz aracıdır. Sunucu gerektirmeyen yapısı sayesinde GitHub, GitLab veya yerel dosyalar üzerindeki kod tabanlarını grafik tabanlı getirme (Graph RAG) yöntemiyle görselleştirmenizi sağlar.",
+          "meta": "TypeScript · ★ 46.042 · +189 bugün",
+          "snapshot": {
+            "sourceId": "abhigyanpatwari/GitNexus",
+            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 46042,
+              "engagementCount": 189,
+              "rank": 5,
+              "extra": {
+                "starsToday": 189
+              }
+            }
+          }
+        },
+        {
+          "title": "abi/screenshot-to-code",
+          "url": "https://github.com/abi/screenshot-to-code",
+          "summary": "Screenshot-to-code, yüklenen ekran görüntülerini temiz kod yapılarına (HTML, Tailwind, React, Vue) dönüştüren bir yazılım aracıdır. Görsel tasarımları doğrudan çalışan kod bloklarına çevirerek geliştirme sürecini hızlandırmayı amaçlar.",
+          "meta": "Python · ★ 75.311 · +309 bugün",
+          "snapshot": {
+            "sourceId": "abi/screenshot-to-code",
+            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 75311,
+              "engagementCount": 309,
+              "rank": 8,
+              "extra": {
+                "starsToday": 309
+              }
+            }
+          }
+        },
+        {
+          "title": "NationalSecurityAgency/ghidra",
+          "url": "https://github.com/NationalSecurityAgency/ghidra",
+          "summary": "Ulusal Güvenlik Ajansı (NSA) tarafından geliştirilen Ghidra, yazılım tersine mühendislik (software reverse engineering) işlemleri için kullanılan kapsamlı bir analiz aracıdır. Java tabanlı bu platform, ikili dosyaların incelenmesi ve kodun çözümlenmesi süreçlerinde araştırmacılara detaylı bir inceleme ortamı sağlar.",
+          "meta": "Java · ★ 73.144 · +205 bugün",
+          "snapshot": {
+            "sourceId": "NationalSecurityAgency/ghidra",
+            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "metadata": {
+              "language": "Java",
+              "popularity": 73144,
+              "engagementCount": 205,
+              "rank": 12,
+              "extra": {
+                "starsToday": 205
+              }
+            }
+          }
+        },
+        {
+          "title": "tashfeenahmed/freellmapi",
+          "url": "https://github.com/tashfeenahmed/freellmapi",
+          "summary": "FreeLLMAPI, 34 farklı ücretsiz büyük dil modeli (LLM) sağlayıcısını ve 635 uç noktayı tek bir OpenAI uyumlu arayüzde birleştiren bir geliştirici aracıdır. Akıllı yönlendirme ve otomatik hata yönetimi özellikleriyle, kişisel projelerde çok sayıda ücretsiz modeli merkezi bir noktadan kullanma imkânı sunar.",
+          "meta": "TypeScript · ★ 21.343 · +405 bugün",
+          "snapshot": {
+            "sourceId": "tashfeenahmed/freellmapi",
+            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 21343,
+              "engagementCount": 405,
+              "rank": 14,
+              "extra": {
+                "starsToday": 405
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+          "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+          "summary": "Cloudflare, alan adı sistemi (DNS) önbelleği için geliştirdiği yeni veri yapıları sayesinde bellek kullanımını 100 terabayt azaltmayı başardı. Bu optimizasyon, internet trafiğini yöneten ağ altyapısı Cloudflare'in sunucu maliyetlerini düşürürken sistemin genel performansını artırıyor.",
+          "meta": "824 oy · 243 yorum",
+          "snapshot": {
+            "sourceId": "49468083",
+            "capturedAt": "2026-08-28T13:31:22.460Z",
+            "metadata": {
+              "popularity": 824,
+              "engagementCount": 243,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49468083",
+                  "popularity": 824,
+                  "engagementCount": 243
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "TangerineDream",
+                "createdAt": "2026-08-27T17:17:57Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49468083"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49468083",
+              "popularity": 824,
+              "engagementCount": 243
+            }
+          ]
+        },
+        {
+          "title": "Microduck",
+          "url": "https://pollen-robotics.com/microduck/",
+          "summary": "Pollen Robotics tarafından geliştirilen Microduck, açık kaynaklı robotik platformlar için tasarlanmış kompakt bir kontrol kartı. Modüler yapısı sayesinde robotik projelerde donanım entegrasyonunu ve hareket kontrolünü basitleştirmeyi amaçlıyor.",
+          "meta": "718 oy · 229 yorum",
+          "snapshot": {
+            "sourceId": "49462763",
+            "capturedAt": "2026-08-28T13:31:22.460Z",
+            "metadata": {
+              "popularity": 718,
+              "engagementCount": 229,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49462763",
+                  "popularity": 718,
+                  "engagementCount": 229
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "robotswantdata",
+                "createdAt": "2026-08-27T10:57:56Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49462763"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49462763",
+              "popularity": 718,
+              "engagementCount": 229
+            }
+          ]
+        },
+        {
+          "title": "Small Models Have Arrived",
+          "url": "https://calv.info/small-models-have-arrived",
+          "summary": "Düşük parametreli küçük dil modelleri (small language models), daha az işlem gücüyle yüksek performans sunarak donanım kısıtlamalarına sahip cihazlarda çalışabiliyor. Bu modeller, büyük yapay zekâ sistemlerine (LLM) kıyasla daha hızlı yanıt süreleri ve düşük maliyetli yerel kurulum imkânı sağlıyor.",
+          "meta": "706 oy · 308 yorum",
+          "snapshot": {
+            "sourceId": "49466917",
+            "capturedAt": "2026-08-28T13:31:22.460Z",
+            "metadata": {
+              "popularity": 706,
+              "engagementCount": 308,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49466917",
+                  "popularity": 706,
+                  "engagementCount": 308
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "tosh",
+                "createdAt": "2026-08-27T15:56:58Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49466917"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49466917",
+              "popularity": 706,
+              "engagementCount": 308
+            }
+          ]
+        },
+        {
+          "title": "507 Mechanical Movements",
+          "url": "https://507movements.com/",
+          "summary": "1868 yılında yayımlanan 507 Mechanical Movements, temel makine düzeneklerini ve hareket prensiplerini görselleştiren teknik bir başvuru kaynağıdır. Mühendislik tarihine ışık tutan bu dijital arşiv, karmaşık sistemlerin temelini oluşturan mekanik hareketleri (mechanical movements) basit çizimlerle açıklar.",
+          "meta": "616 oy · 76 yorum",
+          "snapshot": {
+            "sourceId": "49465169",
+            "capturedAt": "2026-08-28T13:31:22.460Z",
+            "metadata": {
+              "popularity": 616,
+              "engagementCount": 76,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49465169",
+                  "popularity": 616,
+                  "engagementCount": 76
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "helloplanets",
+                "createdAt": "2026-08-27T14:08:18Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49465169"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49465169",
+              "popularity": 616,
+              "engagementCount": 76
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
+          "summary": "Unsloth tarafından optimize edilen Qwen3.8-Flash-Next, görsel ve metin verilerini işleyerek metin çıktısı üreten bir çok modlu (multimodal) yapay zekâ modeli. GGUF formatıyla sunulan bu model, donanım kaynaklarını verimli kullanarak yerel cihazlarda hızlı çıkarım (inference) yapılmasına olanak tanıyor.",
+          "meta": "♥ 489 · 4.354 indirme",
+          "snapshot": {
+            "sourceId": "unsloth/Qwen3.8-Flash-Next-GGUF",
+            "capturedAt": "2026-08-28T13:31:22.302Z",
+            "metadata": {
+              "popularity": 489,
+              "engagementCount": 4354,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 485,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "gguf",
+                  "unsloth",
+                  "image-text-to-text",
+                  "base_model:Qwen/Qwen3.8-Flash-Next",
+                  "base_model:quantized:Qwen/Qwen3.8-Flash-Next",
+                  "license:other",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "EditaLive! Unified Character Video Editing for Live Streaming",
+          "url": "https://huggingface.co/papers/2608.27123",
+          "summary": "EditaLive, canlı yayınlarda insan odaklı video düzenleme süreçlerini gerçek zamanlı hale getiren yeni bir çerçeve (framework). Yüz ifadesi tutarlılığını koruyarak çevrimdışı işlem gereksinimini ortadan kaldırıyor ve karakter düzenleme işlemlerini anlık etkileşime uygun kılıyor.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2608.27123",
+            "capturedAt": "2026-08-28T13:31:22.318Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.27123",
+                "publishedAt": "2026-08-27T00:00:00.000Z",
+                "githubRepo": "https://github.com/GVCLab/EditaLive",
+                "githubStars": 6
+              }
+            }
+          }
+        },
+        {
+          "title": "PILOT in the Loop: Live Self-Improvement for Long-Horizon Agents",
+          "url": "https://huggingface.co/papers/2608.26530",
+          "summary": "PILOT in the Loop, uzun süreli görevler yürüten yapay zekâ ajanlarının süreç devam ederken kendi deneyimlerinden öğrenmesini sağlayan bir yöntemdir. Bu yaklaşım, ajanların elde ettikleri verileri iş akışını anlık olarak iyileştirmek ve gelecekteki performanslarını artırmak için kullanmalarına olanak tanır.",
+          "meta": "25 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2608.26530",
+            "capturedAt": "2026-08-28T13:31:22.318Z",
+            "metadata": {
+              "popularity": 25,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.26530",
+                "publishedAt": "2026-08-27T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models",
+          "url": "https://huggingface.co/papers/2608.25518",
+          "summary": "Dünya modellerini (world models) eğitmek için kullanılan geleneksel video tarama yöntemleri yerine, kod tabanlı ajanların sunduğu gibi doğrulanabilir ödül sinyalleri üreten oyun geliştirme süreçleri öneriliyor. Bu yaklaşım, yürütülebilir kodun sağladığı geri bildirim mekanizmalarını kullanarak büyük dil modellerinin (large language models) pekiştirmeli öğrenme (reinforcement learning) süreçlerini daha verimli hale getirmeyi hedefliyor.",
+          "meta": "56 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2608.25518",
+            "capturedAt": "2026-08-28T13:31:22.318Z",
+            "metadata": {
+              "popularity": 56,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.25518",
+                "publishedAt": "2026-08-26T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Procedura: Agentic 3D Modeling with Procedural Control",
+          "url": "https://huggingface.co/papers/2608.26238",
+          "summary": "Procedura, büyük dil modellerinin (large language models) kod yazma yeteneğini kullanarak tek bir görselden parametrik ve düzenlenebilir üç boyutlu modeller oluşturan bir yapay zekâ çerçevesi. Bu sistem, geleneksel yöntemlerin aksine nesneleri parçalara ayrılabilir ve üzerinde değişiklik yapılabilir kod blokları olarak tanımlıyor.",
+          "meta": "5 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2608.26238",
+            "capturedAt": "2026-08-28T13:31:22.318Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.26238",
+                "publishedAt": "2026-08-26T00:00:00.000Z",
+                "githubRepo": "https://github.com/SpatiaOS/Procedura",
+                "githubStars": 40
+              }
+            }
+          }
+        },
+        {
+          "title": "Thinking on Shots: Consistent Multi-Shot Video Editing with Agentic Reasoning",
+          "url": "https://huggingface.co/papers/2608.26809",
+          "summary": "Thinking on Shots yöntemi, uzun videoların düzenlenmesinde yaşanan tutarsızlıkları gidermek için ajan tabanlı akıl yürütme (agentic reasoning) süreçlerini kullanıyor. Bu yaklaşım, videoları parçalara ayırırken oluşan görsel kopuklukları ve düzenleme hatalarını engelleyerek çoklu komutlarla uzun süreli video düzenleme imkânı sunuyor.",
+          "meta": "4 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2608.26809",
+            "capturedAt": "2026-08-28T13:31:22.318Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.26809",
+                "publishedAt": "2026-08-27T00:00:00.000Z",
+                "githubRepo": "https://github.com/Wucy0519/MMLVE",
+                "githubStars": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "EasyEffects should be part of every Linux distribution to improve laptop speaker sound quality",
+          "url": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
+          "summary": "EasyEffects, Linux sistemlerde ses sinyallerini işleyen ve hoparlör kalitesini artıran bir ses efekt aracıdır. Bu yazılımın, dizüstü bilgisayarlardaki ses performansını iyileştirmek adına tüm Linux dağıtımlarında varsayılan olarak yer alması öneriliyor.",
+          "meta": "27 oy · 10 yorum",
+          "snapshot": {
+            "sourceId": "zhnpv1",
+            "capturedAt": "2026-08-28T13:31:22.673Z",
+            "metadata": {
+              "popularity": 27,
+              "engagementCount": 10,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/zhnpv1/easyeffects_should_be_part_every_linux",
+                  "popularity": 27,
+                  "engagementCount": 10
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "linux"
+                ],
+                "createdAt": "2026-08-28T04:28:04.101-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/zhnpv1/easyeffects_should_be_part_every_linux",
+              "popularity": 27,
+              "engagementCount": 10
+            }
+          ]
+        },
+        {
+          "title": "OpenOffice does not print on Tuesdays (2009)",
+          "url": "https://beza1e1.tuxen.de/lore/print_on_tuesday.html",
+          "summary": "OpenOffice yazılımının sadece Salı günleri yazdırma işlemi yapmadığına dair 2009 yılına ait bu teknik efsane, yazılım hatalarının (bug) nasıl şehir efsanelerine dönüştüğünü gösteriyor. Söz konusu durumun aslında bir takvim hatasından değil, yazıcı sürücüsüyle yaşanan uyumsuzluktan kaynaklandığı teknik analizlerle ortaya konuyor.",
+          "meta": "12 oy · 2 yorum",
+          "snapshot": {
+            "sourceId": "im3eeh",
+            "capturedAt": "2026-08-28T13:31:22.673Z",
+            "metadata": {
+              "popularity": 12,
+              "engagementCount": 2,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/im3eeh/openoffice_does_not_print_on_tuesdays",
+                  "popularity": 12,
+                  "engagementCount": 2
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "linux"
+                ],
+                "createdAt": "2026-08-28T07:06:03.527-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/im3eeh/openoffice_does_not_print_on_tuesdays",
+              "popularity": 12,
+              "engagementCount": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "knowledge graph",
+      "explanation": "Bilgilerin birbirleriyle olan ilişkilerini bir ağ yapısı üzerinde görselleştiren veri tabanı sistemi."
+    },
+    {
+      "term": "Graph RAG",
+      "explanation": "Yapay zekânın karmaşık ilişkileri daha iyi anlaması için bilgileri bir ağ yapısı üzerinden sorgulama yöntemi."
+    },
+    {
+      "term": "NSA",
+      "explanation": "İnternet güvenliği ve şifreleme konularında standartlar belirleyen Amerikan ulusal güvenlik kurumu."
+    },
+    {
+      "term": "software reverse engineering",
+      "explanation": "Hazır bir yazılımın nasıl çalıştığını anlamak için kodlarını geriye doğru çözümleme süreci."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnsan dilini anlama, yorumlama ve metin oluşturma konusunda eğitilmiş gelişmiş yapay zekâ sistemleri."
+    }
+  ]
+}
