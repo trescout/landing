@@ -1,8 +1,8 @@
 {
   "snapshotVersion": 1,
   "date": "2026-08-28",
-  "capturedAt": "2026-08-28T13:31:22.155Z",
-  "editorial": "Bugün teknoloji gündemini Nvidia ve Hugging Face arasındaki devasa satın alma haberi ile sistem mimarisi optimizasyonları domine ediyor. Büyük dil modelleri (LLMs) için geliştirilen yeni nesil hızlı çıkarım (inference) modelleri ve otonom ajanların kendi kendini iyileştirme mekanizmaları ise akademik tarafta öne çıkan başlıklar arasında yer alıyor.",
+  "capturedAt": "2026-08-28T15:55:54.344Z",
+  "editorial": "Bugünün teknoloji gündeminde yüksek performanslı dil modelleri (large language models) ve altyapı optimizasyonları ön planda yer alıyor. Cloudflare mühendislerinin DNS önbelleği (DNS cache) üzerindeki bellek tasarrufu çalışması, sistem verimliliği konusunda günün en somut teknik kazanımı olarak öne çıkıyor.",
   "sections": [
     {
       "sourceName": "github",
@@ -10,14 +10,14 @@
         {
           "title": "tt-a1i/archify",
           "url": "https://github.com/tt-a1i/archify",
-          "summary": "Archify, yazılım mimarisi, iş akışı ve veri akışı gibi süreçleri görselleştirmek için kullanılan bir yapay zekâ yeteneği (agent skill). Doğrulanabilir ve hareketli diyagramları kendi kendine yeten HTML dosyaları olarak dışa aktarmanıza olanak tanıyor.",
-          "meta": "JavaScript · ★ 25.693 · +4.561 bugün",
+          "summary": "Archify, yazılım mimarisi, iş akışı ve veri akışı şemalarını doğrulanabilir ve hareketli HTML dosyaları olarak oluşturan bir yapay zekâ yeteneğidir (agent skill). Karmaşık sistem tasarımlarını görselleştirmek için kullanılan bu araç, çıktıları yüksek çözünürlüklü ve düzenlenebilir formatlarda dışa aktarmaya olanak tanır.",
+          "meta": "JavaScript · ★ 26.245 · +4.561 bugün",
           "snapshot": {
             "sourceId": "tt-a1i/archify",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "JavaScript",
-              "popularity": 25693,
+              "popularity": 26245,
               "engagementCount": 4561,
               "rank": 1,
               "extra": {
@@ -30,14 +30,14 @@
         {
           "title": "K-Dense-AI/scientific-agent-skills",
           "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-          "summary": "Scientific-agent-skills, yapay zekâ ajanlarını bilimsel araştırma süreçlerine uyarlayan hazır yetenek kütüphanesi (library). Biyoloji, kimya ve tıp gibi alanlarda 163 doğrulanmış yetenek ve 100'den fazla veri tabanı sunarak kod düzenleyici Cursor veya yapay zekâ asistanı Claude Code gibi araçlarla entegre çalışıyor.",
-          "meta": "Python · ★ 35.850 · +720 bugün",
+          "summary": "Scientific-agent-skills, yapay zekâ ajanlarını bilimsel araştırma süreçlerinde uzmanlaştıran 163 doğrulanmış yetenek (skills) ve 100'den fazla veri tabanı içeren bir kütüphane. Kod düzenleyici Cursor, yapay zekâ asistanı Claude Code ve benzeri araçlarla uyumlu çalışarak biyoloji, kimya ve tıp alanlarında veri odaklı analizler yapılmasına olanak tanıyor.",
+          "meta": "Python · ★ 36.079 · +720 bugün",
           "snapshot": {
             "sourceId": "K-Dense-AI/scientific-agent-skills",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "Python",
-              "popularity": 35850,
+              "popularity": 36079,
               "engagementCount": 720,
               "rank": 2,
               "extra": {
@@ -50,14 +50,14 @@
         {
           "title": "anthropics/claude-plugins-official",
           "url": "https://github.com/anthropics/claude-plugins-official",
-          "summary": "Anthropic, Claude Code için geliştirilen yüksek kaliteli eklentileri (plugins) bir araya getiren resmi bir dizin oluşturdu. Yazılım geliştirme süreçlerini otomatikleştiren bu eklentiler, Claude'un yeteneklerini genişletmek için merkezi bir kaynak sunuyor.",
-          "meta": "Python · ★ 34.871 · +457 bugün",
+          "summary": "Anthropic, Claude Code için geliştirilen yüksek kaliteli eklentileri (plugins) tek bir merkezde toplayan resmi bir dizin sunuyor. Bu kaynak, yapay zekâ destekli kodlama aracı Claude Code'un yeteneklerini genişletmek isteyen geliştiriciler için standart bir referans noktası oluşturuyor.",
+          "meta": "Python · ★ 34.906 · +457 bugün",
           "snapshot": {
             "sourceId": "anthropics/claude-plugins-official",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "Python",
-              "popularity": 34871,
+              "popularity": 34906,
               "engagementCount": 457,
               "rank": 3,
               "extra": {
@@ -70,14 +70,14 @@
         {
           "title": "bilawalsidhu/gods-eye-view",
           "url": "https://github.com/bilawalsidhu/gods-eye-view",
-          "summary": "Gods-eye-view, tarayıcı üzerinde gerçek zamanlı uydu verilerini fotorealistik bir 3D küre üzerinde görselleştiren bir uzamsal istihbarat aracıdır. JavaScript ile geliştirilen bu açık kaynaklı proje, kullanıcıların dünya üzerindeki hareketliliği canlı olarak takip etmesine olanak tanır.",
-          "meta": "JavaScript · ★ 10.132 · +1.984 bugün",
+          "summary": "Gods-eye-view, tarayıcı tabanlı bir 3D küre üzerinde gerçek zamanlı uydu verilerini görselleştiren bir uzamsal zekâ (spatial intelligence) simülatörü. JavaScript ile geliştirilen bu açık kaynaklı proje, kullanıcıların dünya üzerindeki canlı verileri fotogerçekçi bir arayüz üzerinden incelemesine olanak tanıyor.",
+          "meta": "JavaScript · ★ 10.411 · +1.984 bugün",
           "snapshot": {
             "sourceId": "bilawalsidhu/gods-eye-view",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "JavaScript",
-              "popularity": 10132,
+              "popularity": 10411,
               "engagementCount": 1984,
               "rank": 4,
               "extra": {
@@ -89,14 +89,14 @@
         {
           "title": "abhigyanpatwari/GitNexus",
           "url": "https://github.com/abhigyanpatwari/GitNexus",
-          "summary": "GitNexus, tarayıcı üzerinde çalışan ve kod depolarını etkileşimli bir bilgi grafiğine (knowledge graph) dönüştüren bir kod analiz aracıdır. Sunucu gerektirmeyen yapısı sayesinde GitHub, GitLab veya yerel dosyalar üzerindeki kod tabanlarını grafik tabanlı getirme (Graph RAG) yöntemiyle görselleştirmenizi sağlar.",
-          "meta": "TypeScript · ★ 46.042 · +189 bugün",
+          "summary": "GitNexus, tarayıcı üzerinde çalışan ve kod depolarını etkileşimli bir bilgi grafiğine (knowledge graph) dönüştüren bir kod analiz motoru. Yerel veya bulut tabanlı Git depolarını kullanarak, kod tabanını anlamlandırmak için yerleşik bir grafik tabanlı getirme artırılmış üretim (Graph RAG) ajanı sunuyor.",
+          "meta": "TypeScript · ★ 46.074 · +189 bugün",
           "snapshot": {
             "sourceId": "abhigyanpatwari/GitNexus",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "TypeScript",
-              "popularity": 46042,
+              "popularity": 46074,
               "engagementCount": 189,
               "rank": 5,
               "extra": {
@@ -108,14 +108,14 @@
         {
           "title": "JetBrains/go-modern-guidelines",
           "url": "https://github.com/JetBrains/go-modern-guidelines",
-          "summary": "JetBrains tarafından paylaşılan go-modern-guidelines, yapay zekâ kodlama ajanlarının modern Go dil standartlarına uygun yazılım geliştirmesini sağlayan bir rehberdir. Bu kaynak, dilin güncel pratiklerini ve en iyi yöntemlerini (best practices) kod üreten sistemlere öğretmeyi hedefler.",
-          "meta": "Go · ★ 2.450 · +574 bugün",
+          "summary": "JetBrains tarafından yayınlanan go-modern-guidelines, yapay zekâ kodlama asistanlarının güncel Go standartlarına uygun yazılım geliştirmesini sağlamak için hazırlanan bir rehberdir. Bu kılavuz, kod oluşturma süreçlerinde dilin en yeni özelliklerini ve en iyi uygulamalarını (best practices) temel alarak daha kaliteli çıktılar üretilmesini hedefler.",
+          "meta": "Go · ★ 2.493 · +574 bugün",
           "snapshot": {
             "sourceId": "JetBrains/go-modern-guidelines",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "Go",
-              "popularity": 2450,
+              "popularity": 2493,
               "engagementCount": 574,
               "rank": 6,
               "extra": {
@@ -128,14 +128,14 @@
         {
           "title": "calesthio/OpenMontage",
           "url": "https://github.com/calesthio/OpenMontage",
-          "summary": "OpenMontage, yapay zekâ destekli kodlama asistanlarını kapsamlı bir video prodüksiyon stüdyosuna dönüştüren açık kaynaklı bir sistemdir. On iki farklı prodüksiyon hattı, yüzü aşkın araç ve yedi yüzden fazla ajan yeteneği (agent skill) ile video üretim süreçlerini otomatize eder.",
-          "meta": "Python · ★ 52.953 · +1.144 bugün",
+          "summary": "OpenMontage, yapay zekâ tabanlı kodlama asistanlarını kapsamlı bir video prodüksiyon stüdyosuna dönüştüren açık kaynaklı bir sistemdir. On iki farklı üretim hattı (production pipeline) ve yüzlerce araç desteğiyle, video oluşturma süreçlerini otomatize eden ajan yetenekleri (agent skills) sunar.",
+          "meta": "Python · ★ 53.055 · +1.144 bugün",
           "snapshot": {
             "sourceId": "calesthio/OpenMontage",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "Python",
-              "popularity": 52953,
+              "popularity": 53055,
               "engagementCount": 1144,
               "rank": 7,
               "extra": {
@@ -148,14 +148,14 @@
         {
           "title": "abi/screenshot-to-code",
           "url": "https://github.com/abi/screenshot-to-code",
-          "summary": "Screenshot-to-code, yüklenen ekran görüntülerini temiz kod yapılarına (HTML, Tailwind, React, Vue) dönüştüren bir yazılım aracıdır. Görsel tasarımları doğrudan çalışan kod bloklarına çevirerek geliştirme sürecini hızlandırmayı amaçlar.",
-          "meta": "Python · ★ 75.311 · +309 bugün",
+          "summary": "Screenshot-to-code, ekran görüntüsü dosyalarını analiz ederek bunları temiz HTML, Tailwind, React veya Vue koduna dönüştüren bir yazılım aracıdır. Geliştiricilerin arayüz tasarımlarını hızlıca çalışan kod bloklarına (code snippets) çevirmesine olanak tanır.",
+          "meta": "Python · ★ 75.377 · +309 bugün",
           "snapshot": {
             "sourceId": "abi/screenshot-to-code",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "Python",
-              "popularity": 75311,
+              "popularity": 75377,
               "engagementCount": 309,
               "rank": 8,
               "extra": {
@@ -167,14 +167,14 @@
         {
           "title": "cursor/plugins",
           "url": "https://github.com/cursor/plugins",
-          "summary": "Yapay zekâ destekli kod editörü Cursor, geliştiricilerin kendi eklentilerini oluşturabilmesi için resmi bir eklenti belirtimi (plugin specification) yayımladı. Bu standart, kullanıcıların düzenleme deneyimini genişleten özel araçlar geliştirmesine olanak tanıyor.",
-          "meta": "TypeScript · ★ 5.840 · +257 bugün",
+          "summary": "Kod düzenleme aracı Cursor, geliştiricilerin kendi eklentilerini oluşturabilmesi için resmi bir eklenti belirtimi (plugin specification) yayınladı. Bu standart, kullanıcıların yapay zekâ destekli kod editörüne özel yetenekler eklemesine olanak tanıyor.",
+          "meta": "TypeScript · ★ 5.871 · +257 bugün",
           "snapshot": {
             "sourceId": "cursor/plugins",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "TypeScript",
-              "popularity": 5840,
+              "popularity": 5871,
               "engagementCount": 257,
               "rank": 9,
               "extra": {
@@ -186,14 +186,14 @@
         {
           "title": "freestylefly/awesome-gpt-image-2",
           "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-          "summary": "Görsel oluşturma modelleri için geliştirilen GPT-Image2, kod olarak istem (prompt as code) yaklaşımını benimseyen bir motor ve şablon kütüphanesidir. 530'dan fazla tersine mühendislik uygulanmış örnek ve 20'den fazla endüstriyel şablonla, yapay zekâ görsel üretim süreçlerini standartlaştırmayı hedefler.",
-          "meta": "JavaScript · ★ 23.999 · +1.687 bugün",
+          "summary": "GPT-Image2, görsel oluşturma süreçlerini kod olarak kurgulayan (prompt as code) bir istem motoru ve şablon kütüphanesidir. 530'dan fazla tersine mühendislik örneği ve 20'den fazla endüstriyel şablon aracılığıyla yapay zekâ görsel üretiminde standart yetenekler (skills) geliştirilmesini sağlar.",
+          "meta": "JavaScript · ★ 24.088 · +1.687 bugün",
           "snapshot": {
             "sourceId": "freestylefly/awesome-gpt-image-2",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "JavaScript",
-              "popularity": 23999,
+              "popularity": 24088,
               "engagementCount": 1687,
               "rank": 10,
               "extra": {
@@ -206,14 +206,14 @@
         {
           "title": "tailscale/tailcat",
           "url": "https://github.com/tailscale/tailcat",
-          "summary": "Tailscale tarafından geliştirilen Tailcat, ağ trafiğini güvenli tünelleme aracı Tailscale'in veri düzlemi (data plane) üzerinden ileten bir ağ yardımcı programı. Kontrol düzlemine (control plane) ihtiyaç duymadan, ağ bağlantısı kurma aracı Netcat'in işlevlerini Tailscale altyapısıyla birleştiriyor.",
-          "meta": "Go · ★ 2.339 · +986 bugün",
+          "summary": "Tailscale tarafından geliştirilen Tailcat, ağ trafiğini güvenli bir şekilde aktarmak için kullanılan komut satırı aracı Netcat'in Tailscale ağ katmanı üzerinde çalışan bir sürümüdür. Kontrol düzlemi (control plane) gereksinimi olmadan, doğrudan cihazlar arası veri iletimi sağlar.",
+          "meta": "Go · ★ 2.435 · +986 bugün",
           "snapshot": {
             "sourceId": "tailscale/tailcat",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "Go",
-              "popularity": 2339,
+              "popularity": 2435,
               "engagementCount": 986,
               "rank": 11,
               "extra": {
@@ -226,14 +226,14 @@
         {
           "title": "NationalSecurityAgency/ghidra",
           "url": "https://github.com/NationalSecurityAgency/ghidra",
-          "summary": "Ulusal Güvenlik Ajansı (NSA) tarafından geliştirilen Ghidra, yazılım tersine mühendislik (software reverse engineering) işlemleri için kullanılan kapsamlı bir analiz aracıdır. Java tabanlı bu platform, ikili dosyaların incelenmesi ve kodun çözümlenmesi süreçlerinde araştırmacılara detaylı bir inceleme ortamı sağlar.",
-          "meta": "Java · ★ 73.144 · +205 bugün",
+          "summary": "Ulusal Güvenlik Ajansı (NSA) tarafından geliştirilen Ghidra, yazılım tersine mühendislik (software reverse engineering) süreçleri için kullanılan kapsamlı bir analiz çerçevesidir. Java diliyle yazılan bu araç, ikili dosyaların kod yapısını çözümleyerek güvenlik araştırmacılarına detaylı inceleme imkânı sunar.",
+          "meta": "Java · ★ 73.203 · +205 bugün",
           "snapshot": {
             "sourceId": "NationalSecurityAgency/ghidra",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "Java",
-              "popularity": 73144,
+              "popularity": 73203,
               "engagementCount": 205,
               "rank": 12,
               "extra": {
@@ -245,14 +245,14 @@
         {
           "title": "marin-community/marin",
           "url": "https://github.com/marin-community/marin",
-          "summary": "Marin, temel modellerin (foundation models) araştırılması ve geliştirilmesi için tasarlanmış açık kaynaklı bir Python çatısıdır. Büyük dil modellerinin eğitim ve deney süreçlerini standartlaştırmayı amaçlayan bir altyapı sunar.",
-          "meta": "Python · ★ 2.807 · +236 bugün",
+          "summary": "Marin, temel modellerin (foundation models) araştırılması ve geliştirilmesi için tasarlanmış açık kaynaklı bir Python çatısıdır. Bu yazılım, büyük ölçekli yapay zekâ modellerinin eğitilmesi ve optimize edilmesi süreçlerini standartlaştırmayı amaçlar.",
+          "meta": "Python · ★ 2.832 · +236 bugün",
           "snapshot": {
             "sourceId": "marin-community/marin",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "Python",
-              "popularity": 2807,
+              "popularity": 2832,
               "engagementCount": 236,
               "rank": 13,
               "extra": {
@@ -265,18 +265,18 @@
         {
           "title": "tashfeenahmed/freellmapi",
           "url": "https://github.com/tashfeenahmed/freellmapi",
-          "summary": "FreeLLMAPI, 34 farklı ücretsiz büyük dil modeli (LLM) sağlayıcısını ve 635 uç noktayı tek bir OpenAI uyumlu arayüzde birleştiren bir geliştirici aracıdır. Akıllı yönlendirme ve otomatik hata yönetimi özellikleriyle, kişisel projelerde çok sayıda ücretsiz modeli merkezi bir noktadan kullanma imkânı sunar.",
-          "meta": "TypeScript · ★ 21.343 · +405 bugün",
+          "summary": "FreeLLMAPI, 34 farklı ücretsiz büyük dil modeli (large language model) sağlayıcısını tek bir OpenAI uyumlu uç noktada (endpoint) birleştiriyor. Akıllı yönlendirme ve otomatik hata yönetimi özellikleriyle, geliştiricilerin farklı modelleri tek bir arayüz üzerinden denemesine olanak tanıyor.",
+          "meta": "TypeScript · ★ 21.410 · +477 bugün",
           "snapshot": {
             "sourceId": "tashfeenahmed/freellmapi",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "TypeScript",
-              "popularity": 21343,
-              "engagementCount": 405,
+              "popularity": 21410,
+              "engagementCount": 477,
               "rank": 14,
               "extra": {
-                "starsToday": 405
+                "starsToday": 477
               }
             }
           }
@@ -284,14 +284,14 @@
         {
           "title": "ChromeDevTools/chrome-devtools-mcp",
           "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "summary": "Chrome DevTools için geliştirilen bu sunucu, kodlama yapan yapay zekâ ajanlarının (coding agents) tarayıcı geliştirici araçlarına doğrudan erişmesini sağlıyor. Model Bağlam Protokolü (Model Context Protocol) üzerinden çalışan bu entegrasyon, ajanların web sayfalarını analiz etmesine ve hata ayıklama süreçlerini otomatikleştirmesine olanak tanıyor.",
-          "meta": "TypeScript · ★ 49.876 · +61 bugün",
+          "summary": "Chrome DevTools için geliştirilen bu sunucu, kodlama ajanlarının (coding agents) tarayıcı araçlarına doğrudan erişmesini sağlıyor. Model Bağlam Protokolü (Model Context Protocol) üzerinden çalışan bu araç, yapay zekâ destekli sistemlerin web geliştirme süreçlerini otomatize etmesine olanak tanıyor.",
+          "meta": "TypeScript · ★ 49.904 · +61 bugün",
           "snapshot": {
             "sourceId": "ChromeDevTools/chrome-devtools-mcp",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "TypeScript",
-              "popularity": 49876,
+              "popularity": 49904,
               "engagementCount": 61,
               "rank": 15,
               "extra": {
@@ -303,14 +303,14 @@
         {
           "title": "rohitg00/ai-engineering-from-scratch",
           "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-          "summary": "Yapay zekâ mühendisliği (AI engineering) alanına sıfırdan başlamak isteyenler için hazırlanan bu kaynak, Python kullanarak model geliştirme ve uygulama süreçlerini uçtan uca öğretiyor. Teorik bilgiyi pratik projelerle birleştirerek, geliştiricilerin kendi yapay zekâ uygulamalarını oluşturup yayına almalarını sağlıyor.",
-          "meta": "Python · ★ 50.476 · +703 bugün",
+          "summary": "Yazılım geliştiricilerin yapay zekâ mühendisliği (AI engineering) süreçlerini temelden öğrenmesini sağlayan bu kaynak, Python ile model geliştirme ve yayına alma aşamalarını pratik örneklerle sunuyor. Teorik bilgiyi uygulamalı projelerle birleştirerek, kullanıcıların kendi yapay zekâ tabanlı uygulamalarını üretip dağıtmalarına yardımcı oluyor.",
+          "meta": "Python · ★ 50.508 · +703 bugün",
           "snapshot": {
             "sourceId": "rohitg00/ai-engineering-from-scratch",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "Python",
-              "popularity": 50476,
+              "popularity": 50508,
               "engagementCount": 703,
               "rank": 16,
               "extra": {
@@ -323,14 +323,14 @@
         {
           "title": "DietrichGebert/ponytail",
           "url": "https://github.com/DietrichGebert/ponytail",
-          "summary": "Ponytail, yazılım geliştirme süreçlerinde en az kodla çözüm üretmeyi hedefleyen bir yapay zekâ ajanı aracıdır. Gereksiz kod yazımını engelleyerek geliştiricilerin iş yükünü azaltmayı amaçlayan bir yaklaşım sunar.",
-          "meta": "JavaScript · ★ 114.862 · +1.396 bugün",
+          "summary": "Ponytail, yapay zekâ ajanlarına en az eforla çözüm üretmeyi öğreten bir JavaScript kütüphanesi. Yazılım geliştirme süreçlerinde gereksiz kod yazımını engelleyerek, en verimli ve kısa yoldan sonuç almayı hedefleyen bir yaklaşım sunuyor.",
+          "meta": "JavaScript · ★ 115.007 · +1.396 bugün",
           "snapshot": {
             "sourceId": "DietrichGebert/ponytail",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "JavaScript",
-              "popularity": 114862,
+              "popularity": 115007,
               "engagementCount": 1396,
               "rank": 17,
               "extra": {
@@ -343,14 +343,14 @@
         {
           "title": "google/googletest",
           "url": "https://github.com/google/googletest",
-          "summary": "Google tarafından geliştirilen GoogleTest, C++ projeleri için test yazmayı ve sahte nesneler (mocking) oluşturmayı kolaylaştıran bir çerçevedir (framework). Yazılım geliştiricilerin kod doğruluğunu denetlemek için kullandığı bu araç, geniş bir topluluk desteğine sahip olmasıyla öne çıkıyor.",
-          "meta": "C++ · ★ 39.121 · +156 bugün",
+          "summary": "GoogleTest, C++ projeleri için test yazmayı ve sahte nesneler (mocking) oluşturmayı sağlayan bir çerçeve yazılımıdır (framework). Yazılım geliştiricilerin kod hatalarını erkenden tespit etmesi için standart bir test ortamı sunar.",
+          "meta": "C++ · ★ 39.137 · +156 bugün",
           "snapshot": {
             "sourceId": "google/googletest",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "C++",
-              "popularity": 39121,
+              "popularity": 39137,
               "engagementCount": 156,
               "rank": 18,
               "extra": {
@@ -363,14 +363,14 @@
         {
           "title": "livekit/agents",
           "url": "https://github.com/livekit/agents",
-          "summary": "LiveKit Agents, gerçek zamanlı sesli yapay zekâ ajanları geliştirmek için kullanılan bir Python çerçevesidir (framework). Geliştiricilerin düşük gecikmeli ses ve görüntü işleme yeteneklerine sahip interaktif uygulamalar oluşturmasını sağlar.",
-          "meta": "Python · ★ 13.226 · +14 bugün",
+          "summary": "LiveKit Agents, gerçek zamanlı sesli ve görüntülü yapay zekâ ajanları geliştirmek için kullanılan bir Python çerçevesidir. Düşük gecikmeli etkileşimler kurmayı sağlayan bu yapı, ses işleme ve video akışı gibi karmaşık süreçleri yönetmek için araçlar sunar.",
+          "meta": "Python · ★ 13.253 · +14 bugün",
           "snapshot": {
             "sourceId": "livekit/agents",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "Python",
-              "popularity": 13226,
+              "popularity": 13253,
               "engagementCount": 14,
               "rank": 19,
               "extra": {
@@ -385,62 +385,25 @@
       "sourceName": "hackernews",
       "items": [
         {
-          "title": "Nvidia agrees to acquire Hugging Face for $13B",
-          "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
-          "summary": "Nvidia, yapay zekâ modellerinin paylaşıldığı açık kaynak platformu Hugging Face'i 13 milyar dolar karşılığında satın almak üzere anlaştı. Bu hamle, donanım üreticisi Nvidia'nın yazılım ekosistemindeki varlığını güçlendirmeyi amaçlıyor.",
-          "meta": "1.918 oy · 888 yorum",
-          "snapshot": {
-            "sourceId": "49458161",
-            "capturedAt": "2026-08-28T13:31:22.460Z",
-            "metadata": {
-              "popularity": 1918,
-              "engagementCount": 888,
-              "discussions": [
-                {
-                  "source": "hackernews",
-                  "url": "https://news.ycombinator.com/item?id=49458161",
-                  "popularity": 1918,
-                  "engagementCount": 888
-                }
-              ],
-              "rank": 1,
-              "extra": {
-                "author": "mfiguiere",
-                "createdAt": "2026-08-27T01:12:55Z",
-                "hnUrl": "https://news.ycombinator.com/item?id=49458161"
-              }
-            }
-          },
-          "streakDays": 2,
-          "discussions": [
-            {
-              "source": "hackernews",
-              "url": "https://news.ycombinator.com/item?id=49458161",
-              "popularity": 1918,
-              "engagementCount": 888
-            }
-          ]
-        },
-        {
           "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
           "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
-          "summary": "Cloudflare, alan adı sistemi (DNS) önbelleği için geliştirdiği yeni veri yapıları sayesinde bellek kullanımını 100 terabayt azaltmayı başardı. Bu optimizasyon, internet trafiğini yöneten ağ altyapısı Cloudflare'in sunucu maliyetlerini düşürürken sistemin genel performansını artırıyor.",
-          "meta": "824 oy · 243 yorum",
+          "summary": "Cloudflare, 1.1.1.1 alan adı sistemi (DNS) önbelleğini optimize ederek bellek kullanımında 100 terabaytlık tasarruf sağladı. Bu iyileştirme, veri yapılarındaki verimliliği artırarak sunucu maliyetlerini düşürmeyi hedefliyor.",
+          "meta": "860 oy · 251 yorum",
           "snapshot": {
             "sourceId": "49468083",
-            "capturedAt": "2026-08-28T13:31:22.460Z",
+            "capturedAt": "2026-08-28T15:55:54.720Z",
             "metadata": {
-              "popularity": 824,
-              "engagementCount": 243,
+              "popularity": 860,
+              "engagementCount": 251,
               "discussions": [
                 {
                   "source": "hackernews",
                   "url": "https://news.ycombinator.com/item?id=49468083",
-                  "popularity": 824,
-                  "engagementCount": 243
+                  "popularity": 860,
+                  "engagementCount": 251
                 }
               ],
-              "rank": 2,
+              "rank": 1,
               "extra": {
                 "author": "TangerineDream",
                 "createdAt": "2026-08-27T17:17:57Z",
@@ -452,116 +415,152 @@
             {
               "source": "hackernews",
               "url": "https://news.ycombinator.com/item?id=49468083",
-              "popularity": 824,
-              "engagementCount": 243
+              "popularity": 860,
+              "engagementCount": 251
             }
           ]
         },
         {
-          "title": "Microduck",
-          "url": "https://pollen-robotics.com/microduck/",
-          "summary": "Pollen Robotics tarafından geliştirilen Microduck, açık kaynaklı robotik platformlar için tasarlanmış kompakt bir kontrol kartı. Modüler yapısı sayesinde robotik projelerde donanım entegrasyonunu ve hareket kontrolünü basitleştirmeyi amaçlıyor.",
-          "meta": "718 oy · 229 yorum",
+          "title": "\"IT WoRKs BeTter in the App \"",
+          "url": "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/",
+          "summary": "Mobil uygulamaların web sitelerine kıyasla daha iyi performans ve kullanıcı deneyimi sunduğu yönündeki yaygın kanı, teknik kısıtlamalar ve geliştirici tercihleri üzerinden sorgulanıyor. Web standartlarının gelişmesine rağmen bazı servislerin uygulamaya özel özellikler sunarak kullanıcıları yerel yazılımlara yönlendirmesi, internetin açık yapısı üzerinde tartışmalar yaratıyor.",
+          "meta": "436 oy · 229 yorum",
           "snapshot": {
-            "sourceId": "49462763",
-            "capturedAt": "2026-08-28T13:31:22.460Z",
+            "sourceId": "49477600",
+            "capturedAt": "2026-08-28T15:55:54.720Z",
             "metadata": {
-              "popularity": 718,
+              "popularity": 436,
               "engagementCount": 229,
               "discussions": [
                 {
                   "source": "hackernews",
-                  "url": "https://news.ycombinator.com/item?id=49462763",
-                  "popularity": 718,
+                  "url": "https://news.ycombinator.com/item?id=49477600",
+                  "popularity": 436,
                   "engagementCount": 229
                 }
               ],
-              "rank": 3,
+              "rank": 2,
               "extra": {
-                "author": "robotswantdata",
-                "createdAt": "2026-08-27T10:57:56Z",
-                "hnUrl": "https://news.ycombinator.com/item?id=49462763"
+                "author": "blenderob",
+                "createdAt": "2026-08-28T12:32:16Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49477600"
               }
             }
           },
           "discussions": [
             {
               "source": "hackernews",
-              "url": "https://news.ycombinator.com/item?id=49462763",
-              "popularity": 718,
+              "url": "https://news.ycombinator.com/item?id=49477600",
+              "popularity": 436,
               "engagementCount": 229
             }
           ]
         },
         {
-          "title": "Small Models Have Arrived",
-          "url": "https://calv.info/small-models-have-arrived",
-          "summary": "Düşük parametreli küçük dil modelleri (small language models), daha az işlem gücüyle yüksek performans sunarak donanım kısıtlamalarına sahip cihazlarda çalışabiliyor. Bu modeller, büyük yapay zekâ sistemlerine (LLM) kıyasla daha hızlı yanıt süreleri ve düşük maliyetli yerel kurulum imkânı sağlıyor.",
-          "meta": "706 oy · 308 yorum",
+          "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
+          "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/",
+          "summary": "Bir ABD mahkemesi, yapay zekâ şirketi Anthropic'in Pentagon tarafından kara listeye alınmasını hukuka aykırı buldu. Bu karar, savunma sanayii projelerinde üretken yapay zekâ (generative AI) kullanımına yönelik kısıtlamaların yasal sınırlarını yeniden tanımlıyor.",
+          "meta": "290 oy · 98 yorum",
           "snapshot": {
-            "sourceId": "49466917",
-            "capturedAt": "2026-08-28T13:31:22.460Z",
+            "sourceId": "49477055",
+            "capturedAt": "2026-08-28T15:55:54.720Z",
             "metadata": {
-              "popularity": 706,
-              "engagementCount": 308,
+              "popularity": 290,
+              "engagementCount": 98,
               "discussions": [
                 {
                   "source": "hackernews",
-                  "url": "https://news.ycombinator.com/item?id=49466917",
-                  "popularity": 706,
-                  "engagementCount": 308
+                  "url": "https://news.ycombinator.com/item?id=49477055",
+                  "popularity": 290,
+                  "engagementCount": 98
                 }
               ],
-              "rank": 4,
+              "rank": 3,
               "extra": {
-                "author": "tosh",
-                "createdAt": "2026-08-27T15:56:58Z",
-                "hnUrl": "https://news.ycombinator.com/item?id=49466917"
+                "author": "softwaredoug",
+                "createdAt": "2026-08-28T11:25:30Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49477055"
               }
             }
           },
           "discussions": [
             {
               "source": "hackernews",
-              "url": "https://news.ycombinator.com/item?id=49466917",
-              "popularity": 706,
-              "engagementCount": 308
+              "url": "https://news.ycombinator.com/item?id=49477055",
+              "popularity": 290,
+              "engagementCount": 98
             }
           ]
         },
         {
-          "title": "507 Mechanical Movements",
-          "url": "https://507movements.com/",
-          "summary": "1868 yılında yayımlanan 507 Mechanical Movements, temel makine düzeneklerini ve hareket prensiplerini görselleştiren teknik bir başvuru kaynağıdır. Mühendislik tarihine ışık tutan bu dijital arşiv, karmaşık sistemlerin temelini oluşturan mekanik hareketleri (mechanical movements) basit çizimlerle açıklar.",
-          "meta": "616 oy · 76 yorum",
+          "title": "Doctors are finally learning to manage antidepressant withdrawal",
+          "url": "https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/",
+          "summary": "Tıp dünyası, antidepresan bırakma sendromu (antidepressant withdrawal) yaşayan hastaların artan şikayetleri üzerine tedavi protokollerini gözden geçiriyor. Uzmanlar, ilaç dozajlarının daha yavaş ve kontrollü şekilde azaltılmasını içeren yeni yaklaşımlar üzerinde çalışıyor.",
+          "meta": "232 oy · 274 yorum",
           "snapshot": {
-            "sourceId": "49465169",
-            "capturedAt": "2026-08-28T13:31:22.460Z",
+            "sourceId": "49472090",
+            "capturedAt": "2026-08-28T15:55:54.720Z",
             "metadata": {
-              "popularity": 616,
-              "engagementCount": 76,
+              "popularity": 232,
+              "engagementCount": 274,
               "discussions": [
                 {
                   "source": "hackernews",
-                  "url": "https://news.ycombinator.com/item?id=49465169",
-                  "popularity": 616,
-                  "engagementCount": 76
+                  "url": "https://news.ycombinator.com/item?id=49472090",
+                  "popularity": 232,
+                  "engagementCount": 274
                 }
               ],
-              "rank": 5,
+              "rank": 4,
               "extra": {
-                "author": "helloplanets",
-                "createdAt": "2026-08-27T14:08:18Z",
-                "hnUrl": "https://news.ycombinator.com/item?id=49465169"
+                "author": "eutropheon",
+                "createdAt": "2026-08-27T22:26:04Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49472090"
               }
             }
           },
           "discussions": [
             {
               "source": "hackernews",
-              "url": "https://news.ycombinator.com/item?id=49465169",
-              "popularity": 616,
-              "engagementCount": 76
+              "url": "https://news.ycombinator.com/item?id=49472090",
+              "popularity": 232,
+              "engagementCount": 274
+            }
+          ]
+        },
+        {
+          "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+          "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+          "summary": "Açık kaynaklı oyun motoru Luanti, yapay zekâ (artificial intelligence) tabanlı asılsız bir telif hakkı ihlali bildirimi nedeniyle Google Play mağazasından kaldırıldı. Söz konusu durum, otomatik içerik denetleme sistemlerinin geliştiriciler üzerindeki olumsuz etkilerini ve platformların bu süreçteki sorumluluklarını tartışmaya açıyor.",
+          "meta": "220 oy · 71 yorum",
+          "snapshot": {
+            "sourceId": "49475079",
+            "capturedAt": "2026-08-28T15:55:54.720Z",
+            "metadata": {
+              "popularity": 220,
+              "engagementCount": 71,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49475079",
+                  "popularity": 220,
+                  "engagementCount": 71
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "miniBill",
+                "createdAt": "2026-08-28T06:33:57Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49475079"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49475079",
+              "popularity": 220,
+              "engagementCount": 71
             }
           ]
         }
@@ -573,17 +572,17 @@
         {
           "title": "Qwen/Qwen3.8-Flash-Next",
           "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
-          "summary": "Alibaba tarafından geliştirilen Qwen3.8-Flash-Next, hem görsel hem de metin verilerini işleyebilen çok modlu bir dil modeli (multimodal language model). Düşük gecikme süresiyle hızlı yanıt üretmeye odaklanan bu model, görsel içerikleri analiz ederek metin tabanlı çıktılar oluşturuyor.",
-          "meta": "♥ 4.069 · 4.810 indirme",
+          "summary": "Alibaba tarafından geliştirilen Qwen3.8-Flash-Next, görsel ve metin verilerini işleyebilen çok modlu bir yapay zekâ modeli (multimodal model). Düşük gecikme süresiyle hızlı yanıt üretme odaklı bu model, görsel içerikleri analiz ederek metin tabanlı çıktılar oluşturuyor.",
+          "meta": "♥ 4.092 · 4.810 indirme",
           "snapshot": {
             "sourceId": "Qwen/Qwen3.8-Flash-Next",
-            "capturedAt": "2026-08-28T13:31:22.302Z",
+            "capturedAt": "2026-08-28T15:55:54.510Z",
             "metadata": {
-              "popularity": 4069,
+              "popularity": 4092,
               "engagementCount": 4810,
               "rank": 1,
               "extra": {
-                "trendingScore": 3967,
+                "trendingScore": 3982,
                 "pipelineTag": "image-text-to-text",
                 "tags": [
                   "transformers",
@@ -604,17 +603,17 @@
         {
           "title": "zai-org/GLM-5.3-Flash",
           "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
-          "summary": "Zai-org tarafından geliştirilen GLM-5.3-Flash, metin üretimi (text generation) odaklı bir yapay zekâ modelidir. Hızlı yanıt süreleri sunan bu dil modeli, metin oluşturma süreçlerinde verimliliği artırmayı amaçlar.",
-          "meta": "♥ 1.428 · 34 indirme",
+          "summary": "Zai-org tarafından yayınlanan GLM-5.3-Flash, metin üretimi (text generation) görevleri için optimize edilmiş bir dil modelidir. Düşük gecikme süresiyle hızlı yanıtlar vermeyi hedefleyen bu model, Hugging Face platformunda yüksek etkileşim almaktadır.",
+          "meta": "♥ 1.455 · 34 indirme",
           "snapshot": {
             "sourceId": "zai-org/GLM-5.3-Flash",
-            "capturedAt": "2026-08-28T13:31:22.302Z",
+            "capturedAt": "2026-08-28T15:55:54.510Z",
             "metadata": {
-              "popularity": 1428,
+              "popularity": 1455,
               "engagementCount": 34,
               "rank": 2,
               "extra": {
-                "trendingScore": 1376,
+                "trendingScore": 1401,
                 "pipelineTag": "text-generation",
                 "tags": [
                   "transformers",
@@ -640,17 +639,17 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "summary": "Alibaba tarafından geliştirilen Qwen3.8-27B, hem görsel hem de metinsel verileri işleyebilen çok modlu bir yapay zekâ modeli (multimodal model). Model, metin tabanlı komutları ve görsel girdileri analiz ederek tutarlı metin çıktıları üretiyor.",
-          "meta": "♥ 13.089 · 3.457.687 indirme",
+          "summary": "Alibaba tarafından geliştirilen Qwen2.5-27B, hem görsel hem de metin verilerini işleyebilen çok modlu (multimodal) bir yapay zekâ modelidir. Gelişmiş dil anlama ve görüntü analiz yeteneklerini birleştirerek karmaşık görevlerde yüksek performans sergilemeyi hedefler.",
+          "meta": "♥ 13.101 · 3.457.687 indirme",
           "snapshot": {
             "sourceId": "Qwen/Qwen3.8-27B",
-            "capturedAt": "2026-08-28T13:31:22.302Z",
+            "capturedAt": "2026-08-28T15:55:54.510Z",
             "metadata": {
-              "popularity": 13089,
+              "popularity": 13101,
               "engagementCount": 3457687,
               "rank": 3,
               "extra": {
-                "trendingScore": 938,
+                "trendingScore": 936,
                 "pipelineTag": "image-text-to-text",
                 "tags": [
                   "transformers",
@@ -671,19 +670,53 @@
           "streakDays": 14
         },
         {
-          "title": "unsloth/Qwen3.8-27B-GGUF",
-          "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-          "summary": "Unsloth, büyük dil modelleri için hız ve bellek verimliliği sağlayan bir optimizasyon kütüphanesi. Qwen2.5-32B modelinin GGUF formatındaki bu sürümü, yerel cihazlarda daha düşük donanım gereksinimiyle çalıştırılabilmesi için optimize edildi.",
-          "meta": "♥ 3.107 · 7.758.790 indirme",
+          "title": "zai-org/GLM-5.3",
+          "url": "https://huggingface.co/zai-org/GLM-5.3",
+          "summary": "Zai tarafından geliştirilen GLM-5.3, metin üretimi (text generation) görevleri için optimize edilmiş bir yapay zekâ modelidir. Hugging Face üzerinde paylaşılan bu model, geniş dil modelleri (large language models) kategorisinde metin oluşturma süreçlerinde kullanılıyor.",
+          "meta": "♥ 925 · 0 indirme",
           "snapshot": {
-            "sourceId": "unsloth/Qwen3.8-27B-GGUF",
-            "capturedAt": "2026-08-28T13:31:22.302Z",
+            "sourceId": "zai-org/GLM-5.3",
+            "capturedAt": "2026-08-28T15:55:54.510Z",
             "metadata": {
-              "popularity": 3107,
-              "engagementCount": 7758790,
+              "popularity": 925,
+              "engagementCount": 0,
               "rank": 4,
               "extra": {
-                "trendingScore": 564,
+                "trendingScore": 902,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "glm_moe_dsa",
+                  "text-generation",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "arxiv:2602.15763",
+                  "license:other",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "unsloth/Qwen3.8-27B-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "summary": "Unsloth, büyük dil modellerini (large language models) daha hızlı ve düşük bellek kullanımıyla eğitmeye yarayan bir optimizasyon kütüphanesi. Qwen2.5-7B modelinin optimize edilmiş GGUF formatındaki bu sürümü, standart yöntemlere kıyasla daha verimli bir çıkarım (inference) performansı sunuyor.",
+          "meta": "♥ 3.114 · 7.758.790 indirme",
+          "snapshot": {
+            "sourceId": "unsloth/Qwen3.8-27B-GGUF",
+            "capturedAt": "2026-08-28T15:55:54.510Z",
+            "metadata": {
+              "popularity": 3114,
+              "engagementCount": 7758790,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 556,
                 "tags": [
                   "gguf",
                   "qwen3_5",
@@ -700,36 +733,6 @@
             }
           },
           "streakDays": 14
-        },
-        {
-          "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
-          "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
-          "summary": "Unsloth tarafından optimize edilen Qwen3.8-Flash-Next, görsel ve metin verilerini işleyerek metin çıktısı üreten bir çok modlu (multimodal) yapay zekâ modeli. GGUF formatıyla sunulan bu model, donanım kaynaklarını verimli kullanarak yerel cihazlarda hızlı çıkarım (inference) yapılmasına olanak tanıyor.",
-          "meta": "♥ 489 · 4.354 indirme",
-          "snapshot": {
-            "sourceId": "unsloth/Qwen3.8-Flash-Next-GGUF",
-            "capturedAt": "2026-08-28T13:31:22.302Z",
-            "metadata": {
-              "popularity": 489,
-              "engagementCount": 4354,
-              "rank": 5,
-              "extra": {
-                "trendingScore": 485,
-                "pipelineTag": "image-text-to-text",
-                "tags": [
-                  "gguf",
-                  "unsloth",
-                  "image-text-to-text",
-                  "base_model:Qwen/Qwen3.8-Flash-Next",
-                  "base_model:quantized:Qwen/Qwen3.8-Flash-Next",
-                  "license:other",
-                  "endpoints_compatible",
-                  "region:us",
-                  "conversational"
-                ]
-              }
-            }
-          }
         }
       ]
     },
@@ -737,17 +740,55 @@
       "sourceName": "hfpapers",
       "items": [
         {
+          "title": "TacForcing: Streaming Action Generation with Execution-Time Tactile Feedback",
+          "url": "https://huggingface.co/papers/2608.25798",
+          "summary": "TacForcing, robotik manipülasyon süreçlerinde dokunsal geri bildirimleri (tactile feedback) anlık olarak işleyerek hareket planlarını güncelleyen bir yöntemdir. Mevcut görüntü-dil-eylem modellerinin aksine, eylem sırasında değişen fiziksel temas durumlarına göre sistemin tepki vermesini sağlayarak karmaşık kontrolcü ihtiyacını ortadan kaldırır.",
+          "meta": "3 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2608.25798",
+            "capturedAt": "2026-08-28T15:55:54.523Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.25798",
+                "publishedAt": "2026-08-26T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "What Does an Evaluation License? A Commit-Bound Census of Claim-Relative Inference in Inspect Evals",
+          "url": "https://huggingface.co/papers/2608.19269",
+          "summary": "Hugging Face tarafından paylaşılan bu çalışma, yapay zekâ modellerinin performansını ölçen değerlendirme araçlarındaki (Inspect Evals) metriklerin doğrulanabilirliğini inceliyor. Araştırma, mevcut test süreçlerinde kullanılan verilerin ve yöntemlerin, iddia edilen sonuçları tekrar üretmek için yeterli şeffaflığa sahip olmadığını ortaya koyuyor.",
+          "meta": "2 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2608.19269",
+            "capturedAt": "2026-08-28T15:55:54.523Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.19269",
+                "publishedAt": "2026-08-25T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
           "title": "EditaLive! Unified Character Video Editing for Live Streaming",
           "url": "https://huggingface.co/papers/2608.27123",
-          "summary": "EditaLive, canlı yayınlarda insan odaklı video düzenleme süreçlerini gerçek zamanlı hale getiren yeni bir çerçeve (framework). Yüz ifadesi tutarlılığını koruyarak çevrimdışı işlem gereksinimini ortadan kaldırıyor ve karakter düzenleme işlemlerini anlık etkileşime uygun kılıyor.",
-          "meta": "1 beğeni · 1 yorum",
+          "summary": "EditaLive, canlı yayınlarda insan odaklı video düzenleme süreçlerini gerçek zamanlı hale getiren bir çerçeve sunuyor. Yöntem, mevcut düzenleme araçlarının aksine, yüz ifadesi tutarlılığını koruyarak çevrimdışı işlem gereksinimini ortadan kaldırıyor.",
+          "meta": "2 beğeni · 1 yorum",
           "snapshot": {
             "sourceId": "2608.27123",
-            "capturedAt": "2026-08-28T13:31:22.318Z",
+            "capturedAt": "2026-08-28T15:55:54.523Z",
             "metadata": {
-              "popularity": 1,
+              "popularity": 2,
               "engagementCount": 1,
-              "rank": 1,
+              "rank": 3,
               "extra": {
                 "arxivUrl": "https://arxiv.org/abs/2608.27123",
                 "publishedAt": "2026-08-27T00:00:00.000Z",
@@ -760,15 +801,15 @@
         {
           "title": "PILOT in the Loop: Live Self-Improvement for Long-Horizon Agents",
           "url": "https://huggingface.co/papers/2608.26530",
-          "summary": "PILOT in the Loop, uzun süreli görevler yürüten yapay zekâ ajanlarının süreç devam ederken kendi deneyimlerinden öğrenmesini sağlayan bir yöntemdir. Bu yaklaşım, ajanların elde ettikleri verileri iş akışını anlık olarak iyileştirmek ve gelecekteki performanslarını artırmak için kullanmalarına olanak tanır.",
+          "summary": "PILOT in the Loop, yapay zekâ ajanlarının uzun süreli görevler sırasında elde ettikleri deneyimleri anlık olarak kullanarak performanslarını geliştirmelerini sağlıyor. Bu yöntem, geleneksel modellerin aksine işlem bittikten sonra değil, çalışma sürecinin devamında öğrenilen bilgileri uygulayarak ajanların hatalarını düzeltmesine olanak tanıyor.",
           "meta": "25 beğeni · 2 yorum",
           "snapshot": {
             "sourceId": "2608.26530",
-            "capturedAt": "2026-08-28T13:31:22.318Z",
+            "capturedAt": "2026-08-28T15:55:54.523Z",
             "metadata": {
               "popularity": 25,
               "engagementCount": 2,
-              "rank": 2,
+              "rank": 4,
               "extra": {
                 "arxivUrl": "https://arxiv.org/abs/2608.26530",
                 "publishedAt": "2026-08-27T00:00:00.000Z"
@@ -779,60 +820,18 @@
         {
           "title": "Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models",
           "url": "https://huggingface.co/papers/2608.25518",
-          "summary": "Dünya modellerini (world models) eğitmek için kullanılan geleneksel video tarama yöntemleri yerine, kod tabanlı ajanların sunduğu gibi doğrulanabilir ödül sinyalleri üreten oyun geliştirme süreçleri öneriliyor. Bu yaklaşım, yürütülebilir kodun sağladığı geri bildirim mekanizmalarını kullanarak büyük dil modellerinin (large language models) pekiştirmeli öğrenme (reinforcement learning) süreçlerini daha verimli hale getirmeyi hedefliyor.",
-          "meta": "56 beğeni · 1 yorum",
+          "summary": "Dünya modellerini (world models) eğitmek için kullanılan geleneksel video verisi yerine, oyun geliştirme ortamlarında oluşturulan doğrulanabilir veri yörüngelerini kullanmak öneriliyor. Kod yazan yapay zekâ ajanlarında olduğu gibi, çalıştırılabilir oyun ortamlarının pekiştirmeli öğrenme (reinforcement learning) için yüksek kaliteli ödül sinyalleri sağladığı savunuluyor.",
+          "meta": "112 beğeni · 1 yorum",
           "snapshot": {
             "sourceId": "2608.25518",
-            "capturedAt": "2026-08-28T13:31:22.318Z",
+            "capturedAt": "2026-08-28T15:55:54.523Z",
             "metadata": {
-              "popularity": 56,
-              "engagementCount": 1,
-              "rank": 3,
-              "extra": {
-                "arxivUrl": "https://arxiv.org/abs/2608.25518",
-                "publishedAt": "2026-08-26T00:00:00.000Z"
-              }
-            }
-          }
-        },
-        {
-          "title": "Procedura: Agentic 3D Modeling with Procedural Control",
-          "url": "https://huggingface.co/papers/2608.26238",
-          "summary": "Procedura, büyük dil modellerinin (large language models) kod yazma yeteneğini kullanarak tek bir görselden parametrik ve düzenlenebilir üç boyutlu modeller oluşturan bir yapay zekâ çerçevesi. Bu sistem, geleneksel yöntemlerin aksine nesneleri parçalara ayrılabilir ve üzerinde değişiklik yapılabilir kod blokları olarak tanımlıyor.",
-          "meta": "5 beğeni · 1 yorum",
-          "snapshot": {
-            "sourceId": "2608.26238",
-            "capturedAt": "2026-08-28T13:31:22.318Z",
-            "metadata": {
-              "popularity": 5,
-              "engagementCount": 1,
-              "rank": 4,
-              "extra": {
-                "arxivUrl": "https://arxiv.org/abs/2608.26238",
-                "publishedAt": "2026-08-26T00:00:00.000Z",
-                "githubRepo": "https://github.com/SpatiaOS/Procedura",
-                "githubStars": 40
-              }
-            }
-          }
-        },
-        {
-          "title": "Thinking on Shots: Consistent Multi-Shot Video Editing with Agentic Reasoning",
-          "url": "https://huggingface.co/papers/2608.26809",
-          "summary": "Thinking on Shots yöntemi, uzun videoların düzenlenmesinde yaşanan tutarsızlıkları gidermek için ajan tabanlı akıl yürütme (agentic reasoning) süreçlerini kullanıyor. Bu yaklaşım, videoları parçalara ayırırken oluşan görsel kopuklukları ve düzenleme hatalarını engelleyerek çoklu komutlarla uzun süreli video düzenleme imkânı sunuyor.",
-          "meta": "4 beğeni · 1 yorum",
-          "snapshot": {
-            "sourceId": "2608.26809",
-            "capturedAt": "2026-08-28T13:31:22.318Z",
-            "metadata": {
-              "popularity": 4,
+              "popularity": 112,
               "engagementCount": 1,
               "rank": 5,
               "extra": {
-                "arxivUrl": "https://arxiv.org/abs/2608.26809",
-                "publishedAt": "2026-08-27T00:00:00.000Z",
-                "githubRepo": "https://github.com/Wucy0519/MMLVE",
-                "githubStars": 2
+                "arxivUrl": "https://arxiv.org/abs/2608.25518",
+                "publishedAt": "2026-08-26T00:00:00.000Z"
               }
             }
           }
@@ -845,21 +844,21 @@
         {
           "title": "EasyEffects should be part of every Linux distribution to improve laptop speaker sound quality",
           "url": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
-          "summary": "EasyEffects, Linux sistemlerde ses sinyallerini işleyen ve hoparlör kalitesini artıran bir ses efekt aracıdır. Bu yazılımın, dizüstü bilgisayarlardaki ses performansını iyileştirmek adına tüm Linux dağıtımlarında varsayılan olarak yer alması öneriliyor.",
-          "meta": "27 oy · 10 yorum",
+          "summary": "EasyEffects, Linux sistemlerde ses sinyallerini işleyen ve hoparlör kalitesini artıran bir ses efekt aracıdır. Bu yazılımın, dizüstü bilgisayarlarda düşük donanım performansını dengelemek amacıyla tüm Linux dağıtımlarına standart olarak dahil edilmesi önerilmektedir.",
+          "meta": "37 oy · 14 yorum",
           "snapshot": {
             "sourceId": "zhnpv1",
-            "capturedAt": "2026-08-28T13:31:22.673Z",
+            "capturedAt": "2026-08-28T15:55:54.725Z",
             "metadata": {
-              "popularity": 27,
-              "engagementCount": 10,
+              "popularity": 37,
+              "engagementCount": 14,
               "rank": 1,
               "discussions": [
                 {
                   "source": "lobsters",
                   "url": "https://lobste.rs/s/zhnpv1/easyeffects_should_be_part_every_linux",
-                  "popularity": 27,
-                  "engagementCount": 10
+                  "popularity": 37,
+                  "engagementCount": 14
                 }
               ],
               "extra": {
@@ -874,67 +873,29 @@
             {
               "source": "lobsters",
               "url": "https://lobste.rs/s/zhnpv1/easyeffects_should_be_part_every_linux",
-              "popularity": 27,
-              "engagementCount": 10
-            }
-          ]
-        },
-        {
-          "title": "Changes to SourceHut's terms of service regarding LLMs",
-          "url": "https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/",
-          "summary": "Yazılım geliştirme platformu SourceHut, hizmet şartlarını güncelleyerek platformdaki içeriklerin büyük dil modelleri (large language models) tarafından izinsiz taranmasını yasakladı. Bu düzenleme, kullanıcıların fikri mülkiyet haklarını korumayı ve yapay zekâ şirketlerinin veri toplama süreçlerine karşı net bir duruş sergilemeyi amaçlıyor.",
-          "meta": "183 oy · 164 yorum",
-          "snapshot": {
-            "sourceId": "iqgrsx",
-            "capturedAt": "2026-08-28T13:31:22.673Z",
-            "metadata": {
-              "popularity": 183,
-              "engagementCount": 164,
-              "rank": 2,
-              "discussions": [
-                {
-                  "source": "lobsters",
-                  "url": "https://lobste.rs/s/iqgrsx/changes_sourcehut_s_terms_service",
-                  "popularity": 183,
-                  "engagementCount": 164
-                }
-              ],
-              "extra": {
-                "tags": [
-                  "vibecoding"
-                ],
-                "createdAt": "2026-08-27T03:37:19.592-05:00"
-              }
-            }
-          },
-          "streakDays": 2,
-          "discussions": [
-            {
-              "source": "lobsters",
-              "url": "https://lobste.rs/s/iqgrsx/changes_sourcehut_s_terms_service",
-              "popularity": 183,
-              "engagementCount": 164
+              "popularity": 37,
+              "engagementCount": 14
             }
           ]
         },
         {
           "title": "OpenOffice does not print on Tuesdays (2009)",
           "url": "https://beza1e1.tuxen.de/lore/print_on_tuesday.html",
-          "summary": "OpenOffice yazılımının sadece Salı günleri yazdırma işlemi yapmadığına dair 2009 yılına ait bu teknik efsane, yazılım hatalarının (bug) nasıl şehir efsanelerine dönüştüğünü gösteriyor. Söz konusu durumun aslında bir takvim hatasından değil, yazıcı sürücüsüyle yaşanan uyumsuzluktan kaynaklandığı teknik analizlerle ortaya konuyor.",
-          "meta": "12 oy · 2 yorum",
+          "summary": "Açık kaynaklı ofis yazılımı OpenOffice'in belirli bir sürümünde karşılaşılan yazdırma hatası, yazılımın sadece salı günleri çalışmamasıyla sonuçlanan bir mantık hatasından kaynaklanıyordu. Bu durum, karmaşık kod tabanlarında hataların beklenmedik ve rastlantısal görünen koşullara bağlı olarak ortaya çıkabileceğini gösteriyor.",
+          "meta": "25 oy · 4 yorum",
           "snapshot": {
             "sourceId": "im3eeh",
-            "capturedAt": "2026-08-28T13:31:22.673Z",
+            "capturedAt": "2026-08-28T15:55:54.725Z",
             "metadata": {
-              "popularity": 12,
-              "engagementCount": 2,
-              "rank": 3,
+              "popularity": 25,
+              "engagementCount": 4,
+              "rank": 2,
               "discussions": [
                 {
                   "source": "lobsters",
                   "url": "https://lobste.rs/s/im3eeh/openoffice_does_not_print_on_tuesdays",
-                  "popularity": 12,
-                  "engagementCount": 2
+                  "popularity": 25,
+                  "engagementCount": 4
                 }
               ],
               "extra": {
@@ -949,8 +910,46 @@
             {
               "source": "lobsters",
               "url": "https://lobste.rs/s/im3eeh/openoffice_does_not_print_on_tuesdays",
-              "popularity": 12,
-              "engagementCount": 2
+              "popularity": 25,
+              "engagementCount": 4
+            }
+          ]
+        },
+        {
+          "title": "Quest for eternal dock on Wayland - lambdock (C + GTK4 + Lisp GNU Guile Scheme)",
+          "url": "https://jointhefreeworld.org/blog/articles/gnu-linux/quest-for-eternal-dock/index.html",
+          "summary": "Lambdock, Wayland görüntü sunucusu (display server) üzerinde kalıcı bir uygulama başlatıcısı sunmayı hedefleyen açık kaynaklı bir araçtır. C, GTK4 arayüz kütüphanesi ve GNU Guile Scheme programlama dili kullanılarak geliştirilen bu proje, masaüstü ortamlarında özelleştirilebilir bir görev çubuğu deneyimi sağlar.",
+          "meta": "14 oy · 0 yorum",
+          "snapshot": {
+            "sourceId": "lvspri",
+            "capturedAt": "2026-08-28T15:55:54.725Z",
+            "metadata": {
+              "popularity": 14,
+              "engagementCount": 0,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/lvspri/quest_for_eternal_dock_on_wayland",
+                  "popularity": 14,
+                  "engagementCount": 0
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "c",
+                  "lisp"
+                ],
+                "createdAt": "2026-08-28T05:17:48.604-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/lvspri/quest_for_eternal_dock_on_wayland",
+              "popularity": 14,
+              "engagementCount": 0
             }
           ]
         }
@@ -964,67 +963,67 @@
   "glossary": [
     {
       "term": "agent skill",
-      "explanation": "Bir yapay zekânın belirli bir görevi yerine getirmek için sahip olduğu özel yetenekler bütünü."
+      "explanation": "Yapay zekâlı bir yazılımın belirli bir görevi yerine getirmek için sahip olduğu özel yetenek."
     },
     {
-      "term": "library",
-      "explanation": "Yazılımcıların işini kolaylaştırmak için önceden hazırlanmış kod parçalarını içeren hazır kütüphane."
+      "term": "skills",
+      "explanation": "Bir yazılımın veya sistemin belirli işlemleri gerçekleştirebilmesi için kazandığı beceriler bütünü."
     },
     {
       "term": "plugins",
-      "explanation": "Bir yazılıma sonradan eklenerek ona yeni özellikler kazandıran küçük yardımcı programlar."
+      "explanation": "Ana programa sonradan eklenerek ona yeni özellikler kazandıran küçük yazılım parçaları."
+    },
+    {
+      "term": "spatial intelligence",
+      "explanation": "Bilgisayarların fiziksel dünyadaki nesnelerin konumunu ve hareketini algılayıp anlamlandırma yeteneği."
     },
     {
       "term": "knowledge graph",
-      "explanation": "Bilgilerin birbirleriyle olan ilişkilerini bir ağ yapısı üzerinde görselleştiren veri tabanı sistemi."
+      "explanation": "Bilgilerin birbirleriyle olan ilişkilerini bir ağ haritası gibi birbirine bağlayarak sunan veri yapısı."
     },
     {
       "term": "Graph RAG",
-      "explanation": "Yapay zekânın karmaşık ilişkileri daha iyi anlaması için bilgileri bir ağ yapısı üzerinden sorgulama yöntemi."
+      "explanation": "Yapay zekânın cevap üretirken birbirine bağlı veriler arasındaki ilişkileri kullanarak daha doğru bilgiye ulaşması yöntemi."
     },
     {
       "term": "best practices",
-      "explanation": "Sektörde kabul görmüş, en verimli ve hatasız sonuç veren çalışma yöntemleri."
+      "explanation": "Bir işi yaparken en verimli ve hatasız sonucu veren kabul görmüş yöntemler."
+    },
+    {
+      "term": "production pipeline",
+      "explanation": "Bir yazılımın geliştirilip test edildikten sonra gerçek kullanıcıya sunulana kadar geçtiği otomatik işlemler dizisi."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Yapay zekâlı yardımcıların karmaşık görevleri tamamlamak için kullandığı çeşitli uzmanlık becerileri."
+    },
+    {
+      "term": "code snippets",
+      "explanation": "Programlama yaparken ihtiyaç duyulan işlevleri hızlıca eklemek için kullanılan kısa ve hazır kod parçaları."
     },
     {
       "term": "plugin specification",
-      "explanation": "Bir eklentinin ana yazılımla uyumlu çalışabilmesi için uyması gereken teknik kurallar bütünü."
+      "explanation": "Bir eklentinin ana programla uyumlu çalışabilmesi için uyması gereken teknik kurallar ve standartlar."
     },
     {
       "term": "prompt as code",
-      "explanation": "Yapay zekâya verilen komutların bir yazılım kodu gibi versiyonlanarak yönetilmesi."
-    },
-    {
-      "term": "data plane",
-      "explanation": "Bir ağ üzerinden geçen asıl kullanıcı verilerinin taşındığı ana yol."
+      "explanation": "Yapay zekâya verilen komutların bir yazılım kodu gibi versiyonlanarak ve yönetilerek kaydedilmesi."
     },
     {
       "term": "control plane",
-      "explanation": "Ağ trafiğinin nasıl yönetileceğine ve yönlendirileceğine karar veren idari bölüm."
+      "explanation": "Bir sistemin nasıl çalışacağını yöneten, trafiği ve ayarları kontrol eden merkezi yönetim katmanı."
     },
     {
       "term": "NSA",
-      "explanation": "İnternet güvenliği ve şifreleme konularında standartlar belirleyen Amerikan ulusal güvenlik kurumu."
+      "explanation": "İnternet ve iletişim ağlarını izleyerek ulusal güvenlik için istihbarat toplayan Amerikan devlet kurumu."
     },
     {
       "term": "software reverse engineering",
-      "explanation": "Hazır bir yazılımın nasıl çalıştığını anlamak için kodlarını geriye doğru çözümleme süreci."
+      "explanation": "Hazır bir yazılımın nasıl çalıştığını anlamak için kodlarını veya yapısını geriye doğru çözümleme işlemi."
     },
     {
       "term": "foundation models",
-      "explanation": "Çok geniş verilerle eğitilip birçok farklı görevde kullanılabilen temel yapay zekâ modelleri."
-    },
-    {
-      "term": "LLM",
-      "explanation": "İnsan dilini anlama, yorumlama ve metin oluşturma konusunda eğitilmiş gelişmiş yapay zekâ sistemleri."
-    },
-    {
-      "term": "coding agents",
-      "explanation": "Kendi başına yazılım kodu yazabilen, hata ayıklayabilen ve projeler geliştirebilen yapay zekâ yardımcıları."
-    },
-    {
-      "term": "Model Context Protocol",
-      "explanation": "Yapay zekâ modellerinin farklı veri kaynaklarıyla standart bir şekilde konuşmasını sağlayan bağlantı kuralı."
+      "explanation": "Çok geniş veri kümeleriyle eğitilmiş, metin yazma veya görsel oluşturma gibi birçok farklı işe temel olan devasa yapay zekâ modelleri."
     }
   ]
 }

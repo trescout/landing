@@ -1,7 +1,7 @@
 {
   "snapshotVersion": 1,
   "date": "2026-08-28",
-  "capturedAt": "2026-08-28T13:31:22.155Z",
+  "capturedAt": "2026-08-28T15:55:54.344Z",
   "editorial": "Ce rapport contient les tendances qui apparaissent pour la première fois aujourd'hui, sans répéter les enregistrements figurant dans les rapports normaux des 30 derniers jours.",
   "sections": [
     {
@@ -10,14 +10,14 @@
         {
           "title": "bilawalsidhu/gods-eye-view",
           "url": "https://github.com/bilawalsidhu/gods-eye-view",
-          "summary": "Gods-eye-view est un outil de renseignement spatial qui visualise des données satellites en temps réel sur un globe 3D photoréaliste dans le navigateur. Ce projet open source, développé en JavaScript, permet aux utilisateurs de suivre en direct la mobilité à travers le monde.",
-          "meta": "JavaScript · ★ 10 132 · +1 984 aujourd'hui",
+          "summary": "Gods-eye-view est un simulateur d'intelligence spatiale (spatial intelligence) qui visualise des données satellites en temps réel sur un globe 3D basé sur le navigateur. Développé en JavaScript, ce projet open source permet aux utilisateurs d'examiner des données en direct sur le monde via une interface photoréaliste.",
+          "meta": "JavaScript · ★ 10 411 · +1 984 aujourd'hui",
           "snapshot": {
             "sourceId": "bilawalsidhu/gods-eye-view",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "JavaScript",
-              "popularity": 10132,
+              "popularity": 10411,
               "engagementCount": 1984,
               "rank": 4,
               "extra": {
@@ -29,14 +29,14 @@
         {
           "title": "abhigyanpatwari/GitNexus",
           "url": "https://github.com/abhigyanpatwari/GitNexus",
-          "summary": "GitNexus est un outil d'analyse de code qui fonctionne dans le navigateur et transforme les dépôts de code en un graphe de connaissances interactif. Grâce à sa structure sans serveur, il vous permet de visualiser des bases de code sur GitHub, GitLab ou des fichiers locaux en utilisant la méthode de récupération basée sur les graphes (Graph RAG).",
-          "meta": "TypeScript · ★ 46 042 · +189 aujourd'hui",
+          "summary": "GitNexus est un moteur d'analyse de code qui fonctionne dans le navigateur et transforme les dépôts de code en un graphe de connaissances (knowledge graph) interactif. En utilisant des dépôts Git locaux ou basés sur le cloud, il propose un agent de génération augmentée par récupération basée sur les graphes (Graph RAG) intégré pour donner du sens à la base de code.",
+          "meta": "TypeScript · ★ 46 074 · +189 aujourd'hui",
           "snapshot": {
             "sourceId": "abhigyanpatwari/GitNexus",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "TypeScript",
-              "popularity": 46042,
+              "popularity": 46074,
               "engagementCount": 189,
               "rank": 5,
               "extra": {
@@ -48,14 +48,14 @@
         {
           "title": "abi/screenshot-to-code",
           "url": "https://github.com/abi/screenshot-to-code",
-          "summary": "Screenshot-to-code est un outil logiciel qui convertit les captures d'écran téléchargées en structures de code propres (HTML, Tailwind, React, Vue). Il vise à accélérer le processus de développement en transformant directement les conceptions visuelles en blocs de code fonctionnels.",
-          "meta": "Python · ★ 75 311 · +309 aujourd'hui",
+          "summary": "Screenshot-to-code est un outil logiciel qui analyse les fichiers de capture d'écran et les convertit en code HTML, Tailwind, React ou Vue propre. Il permet aux développeurs de transformer rapidement des conceptions d'interface en blocs de code (code snippets) fonctionnels.",
+          "meta": "Python · ★ 75 377 · +309 aujourd'hui",
           "snapshot": {
             "sourceId": "abi/screenshot-to-code",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "Python",
-              "popularity": 75311,
+              "popularity": 75377,
               "engagementCount": 309,
               "rank": 8,
               "extra": {
@@ -67,14 +67,14 @@
         {
           "title": "NationalSecurityAgency/ghidra",
           "url": "https://github.com/NationalSecurityAgency/ghidra",
-          "summary": "Ghidra, développé par la National Security Agency (NSA), est un outil d'analyse complet utilisé pour les opérations de rétro-ingénierie logicielle (software reverse engineering). Cette plateforme basée sur Java fournit aux chercheurs un environnement d'examen détaillé pour l'étude des fichiers binaires et l'analyse du code.",
-          "meta": "Java · ★ 73 144 · +205 aujourd'hui",
+          "summary": "Ghidra, développé par la National Security Agency (NSA), est un cadre d'analyse complet utilisé pour les processus de rétro-ingénierie logicielle (software reverse engineering). Écrit en Java, cet outil permet aux chercheurs en sécurité d'effectuer des examens détaillés en analysant la structure du code des fichiers binaires.",
+          "meta": "Java · ★ 73 203 · +205 aujourd'hui",
           "snapshot": {
             "sourceId": "NationalSecurityAgency/ghidra",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "Java",
-              "popularity": 73144,
+              "popularity": 73203,
               "engagementCount": 205,
               "rank": 12,
               "extra": {
@@ -86,18 +86,18 @@
         {
           "title": "tashfeenahmed/freellmapi",
           "url": "https://github.com/tashfeenahmed/freellmapi",
-          "summary": "FreeLLMAPI est un outil de développement qui regroupe 34 fournisseurs de grands modèles de langage (LLM) gratuits différents et 635 points de terminaison dans une interface unique compatible avec OpenAI. Grâce à ses fonctionnalités de routage intelligent et de gestion automatique des erreurs, il permet d'utiliser un grand nombre de modèles gratuits pour des projets personnels à partir d'un point central.",
-          "meta": "TypeScript · ★ 21 343 · +405 aujourd'hui",
+          "summary": "FreeLLMAPI regroupe 34 fournisseurs de grands modèles de langage (large language model) gratuits en un seul point de terminaison (endpoint) compatible avec OpenAI. Grâce à ses fonctionnalités de routage intelligent et de gestion automatique des erreurs, il permet aux développeurs de tester différents modèles via une interface unique.",
+          "meta": "TypeScript · ★ 21 410 · +477 aujourd'hui",
           "snapshot": {
             "sourceId": "tashfeenahmed/freellmapi",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "TypeScript",
-              "popularity": 21343,
-              "engagementCount": 405,
+              "popularity": 21410,
+              "engagementCount": 477,
               "rank": 14,
               "extra": {
-                "starsToday": 405
+                "starsToday": 477
               }
             }
           }
@@ -110,23 +110,23 @@
         {
           "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
           "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
-          "summary": "Cloudflare a réussi à réduire l'utilisation de la mémoire de 100 téraoctets grâce à de nouvelles structures de données développées pour le cache du système de noms de domaine (DNS). Cette optimisation réduit les coûts de serveur de Cloudflare, l'infrastructure réseau qui gère le trafic Internet, tout en augmentant les performances globales du système.",
-          "meta": "824 votes · 243 commentaires",
+          "summary": "Cloudflare a optimisé son cache du système de noms de domaine (DNS) 1.1.1.1, permettant une économie de 100 téraoctets en utilisation mémoire. Cette amélioration vise à réduire les coûts des serveurs en augmentant l'efficacité des structures de données.",
+          "meta": "860 votes · 251 commentaires",
           "snapshot": {
             "sourceId": "49468083",
-            "capturedAt": "2026-08-28T13:31:22.460Z",
+            "capturedAt": "2026-08-28T15:55:54.720Z",
             "metadata": {
-              "popularity": 824,
-              "engagementCount": 243,
+              "popularity": 860,
+              "engagementCount": 251,
               "discussions": [
                 {
                   "source": "hackernews",
                   "url": "https://news.ycombinator.com/item?id=49468083",
-                  "popularity": 824,
-                  "engagementCount": 243
+                  "popularity": 860,
+                  "engagementCount": 251
                 }
               ],
-              "rank": 2,
+              "rank": 1,
               "extra": {
                 "author": "TangerineDream",
                 "createdAt": "2026-08-27T17:17:57Z",
@@ -138,116 +138,152 @@
             {
               "source": "hackernews",
               "url": "https://news.ycombinator.com/item?id=49468083",
-              "popularity": 824,
-              "engagementCount": 243
+              "popularity": 860,
+              "engagementCount": 251
             }
           ]
         },
         {
-          "title": "Microduck",
-          "url": "https://pollen-robotics.com/microduck/",
-          "summary": "Microduck, développé par Pollen Robotics, est une carte de contrôle compacte conçue pour les plateformes robotiques open source. Grâce à sa structure modulaire, il vise à simplifier l'intégration matérielle et le contrôle des mouvements dans les projets robotiques.",
-          "meta": "718 votes · 229 commentaires",
+          "title": "\"IT WoRKs BeTter in the App \"",
+          "url": "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/",
+          "summary": "L'idée reçue selon laquelle les applications mobiles offrent de meilleures performances et une meilleure expérience utilisateur que les sites web est remise en question par les contraintes techniques et les préférences des développeurs. Malgré l'évolution des standards du web, le fait que certains services proposent des fonctionnalités spécifiques aux applications pour orienter les utilisateurs vers des logiciels natifs suscite des débats sur la nature ouverte d'Internet.",
+          "meta": "436 votes · 229 commentaires",
           "snapshot": {
-            "sourceId": "49462763",
-            "capturedAt": "2026-08-28T13:31:22.460Z",
+            "sourceId": "49477600",
+            "capturedAt": "2026-08-28T15:55:54.720Z",
             "metadata": {
-              "popularity": 718,
+              "popularity": 436,
               "engagementCount": 229,
               "discussions": [
                 {
                   "source": "hackernews",
-                  "url": "https://news.ycombinator.com/item?id=49462763",
-                  "popularity": 718,
+                  "url": "https://news.ycombinator.com/item?id=49477600",
+                  "popularity": 436,
                   "engagementCount": 229
                 }
               ],
-              "rank": 3,
+              "rank": 2,
               "extra": {
-                "author": "robotswantdata",
-                "createdAt": "2026-08-27T10:57:56Z",
-                "hnUrl": "https://news.ycombinator.com/item?id=49462763"
+                "author": "blenderob",
+                "createdAt": "2026-08-28T12:32:16Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49477600"
               }
             }
           },
           "discussions": [
             {
               "source": "hackernews",
-              "url": "https://news.ycombinator.com/item?id=49462763",
-              "popularity": 718,
+              "url": "https://news.ycombinator.com/item?id=49477600",
+              "popularity": 436,
               "engagementCount": 229
             }
           ]
         },
         {
-          "title": "Small Models Have Arrived",
-          "url": "https://calv.info/small-models-have-arrived",
-          "summary": "Les petits modèles de langage (small language models) à faible nombre de paramètres peuvent fonctionner sur des appareils aux ressources matérielles limitées en offrant des performances élevées avec moins de puissance de calcul. Ces modèles offrent des temps de réponse plus rapides et des possibilités d'installation locale à faible coût par rapport aux grands systèmes d'IA (LLM).",
-          "meta": "706 votes · 308 commentaires",
+          "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
+          "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/",
+          "summary": "Un tribunal américain a jugé illégale l'inscription de la société d'intelligence artificielle Anthropic sur la liste noire du Pentagone. Cette décision redéfinit les limites juridiques des restrictions concernant l'utilisation de l'intelligence artificielle générative (generative AI) dans les projets de l'industrie de la défense.",
+          "meta": "290 votes · 98 commentaires",
           "snapshot": {
-            "sourceId": "49466917",
-            "capturedAt": "2026-08-28T13:31:22.460Z",
+            "sourceId": "49477055",
+            "capturedAt": "2026-08-28T15:55:54.720Z",
             "metadata": {
-              "popularity": 706,
-              "engagementCount": 308,
+              "popularity": 290,
+              "engagementCount": 98,
               "discussions": [
                 {
                   "source": "hackernews",
-                  "url": "https://news.ycombinator.com/item?id=49466917",
-                  "popularity": 706,
-                  "engagementCount": 308
+                  "url": "https://news.ycombinator.com/item?id=49477055",
+                  "popularity": 290,
+                  "engagementCount": 98
                 }
               ],
-              "rank": 4,
+              "rank": 3,
               "extra": {
-                "author": "tosh",
-                "createdAt": "2026-08-27T15:56:58Z",
-                "hnUrl": "https://news.ycombinator.com/item?id=49466917"
+                "author": "softwaredoug",
+                "createdAt": "2026-08-28T11:25:30Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49477055"
               }
             }
           },
           "discussions": [
             {
               "source": "hackernews",
-              "url": "https://news.ycombinator.com/item?id=49466917",
-              "popularity": 706,
-              "engagementCount": 308
+              "url": "https://news.ycombinator.com/item?id=49477055",
+              "popularity": 290,
+              "engagementCount": 98
             }
           ]
         },
         {
-          "title": "507 Mechanical Movements",
-          "url": "https://507movements.com/",
-          "summary": "Publié en 1868, 507 Mechanical Movements est une référence technique qui visualise les mécanismes de base et les principes de mouvement. Cette archive numérique, qui éclaire l'histoire de l'ingénierie, explique les mouvements mécaniques (mechanical movements) qui forment la base des systèmes complexes à l'aide de dessins simples.",
-          "meta": "616 votes · 76 commentaires",
+          "title": "Doctors are finally learning to manage antidepressant withdrawal",
+          "url": "https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/",
+          "summary": "Le monde médical réexamine ses protocoles de traitement suite à l'augmentation des plaintes de patients souffrant du syndrome de sevrage des antidépresseurs (antidepressant withdrawal). Les experts travaillent sur de nouvelles approches impliquant une réduction plus lente et contrôlée des dosages médicamenteux.",
+          "meta": "232 votes · 274 commentaires",
           "snapshot": {
-            "sourceId": "49465169",
-            "capturedAt": "2026-08-28T13:31:22.460Z",
+            "sourceId": "49472090",
+            "capturedAt": "2026-08-28T15:55:54.720Z",
             "metadata": {
-              "popularity": 616,
-              "engagementCount": 76,
+              "popularity": 232,
+              "engagementCount": 274,
               "discussions": [
                 {
                   "source": "hackernews",
-                  "url": "https://news.ycombinator.com/item?id=49465169",
-                  "popularity": 616,
-                  "engagementCount": 76
+                  "url": "https://news.ycombinator.com/item?id=49472090",
+                  "popularity": 232,
+                  "engagementCount": 274
                 }
               ],
-              "rank": 5,
+              "rank": 4,
               "extra": {
-                "author": "helloplanets",
-                "createdAt": "2026-08-27T14:08:18Z",
-                "hnUrl": "https://news.ycombinator.com/item?id=49465169"
+                "author": "eutropheon",
+                "createdAt": "2026-08-27T22:26:04Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49472090"
               }
             }
           },
           "discussions": [
             {
               "source": "hackernews",
-              "url": "https://news.ycombinator.com/item?id=49465169",
-              "popularity": 616,
-              "engagementCount": 76
+              "url": "https://news.ycombinator.com/item?id=49472090",
+              "popularity": 232,
+              "engagementCount": 274
+            }
+          ]
+        },
+        {
+          "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+          "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+          "summary": "Le moteur de jeu open source Luanti a été retiré du Google Play Store en raison d'une notification de violation de droit d'auteur infondée basée sur l'intelligence artificielle. Cette situation soulève des questions sur les effets négatifs des systèmes de modération de contenu automatisés sur les développeurs et sur la responsabilité des plateformes dans ce processus.",
+          "meta": "220 votes · 71 commentaires",
+          "snapshot": {
+            "sourceId": "49475079",
+            "capturedAt": "2026-08-28T15:55:54.720Z",
+            "metadata": {
+              "popularity": 220,
+              "engagementCount": 71,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49475079",
+                  "popularity": 220,
+                  "engagementCount": 71
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "miniBill",
+                "createdAt": "2026-08-28T06:33:57Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49475079"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49475079",
+              "popularity": 220,
+              "engagementCount": 71
             }
           ]
         }
@@ -257,30 +293,34 @@
       "sourceName": "huggingface",
       "items": [
         {
-          "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
-          "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
-          "summary": "Optimisé par Unsloth, Qwen3.8-Flash-Next est un modèle d'intelligence artificielle multimodal qui traite des données visuelles et textuelles pour produire des sorties textuelles. Proposé au format GGUF, ce modèle permet une inférence (inference) rapide sur des appareils locaux en utilisant efficacement les ressources matérielles.",
-          "meta": "♥ 489 · 4 354 téléchargements",
+          "title": "zai-org/GLM-5.3",
+          "url": "https://huggingface.co/zai-org/GLM-5.3",
+          "summary": "GLM-5.3, développé par Zai, est un modèle d'intelligence artificielle optimisé pour les tâches de génération de texte. Partagé sur Hugging Face, ce modèle est utilisé dans les processus de création de texte au sein de la catégorie des grands modèles de langage (large language models).",
+          "meta": "♥ 925 · 0 téléchargements",
           "snapshot": {
-            "sourceId": "unsloth/Qwen3.8-Flash-Next-GGUF",
-            "capturedAt": "2026-08-28T13:31:22.302Z",
+            "sourceId": "zai-org/GLM-5.3",
+            "capturedAt": "2026-08-28T15:55:54.510Z",
             "metadata": {
-              "popularity": 489,
-              "engagementCount": 4354,
-              "rank": 5,
+              "popularity": 925,
+              "engagementCount": 0,
+              "rank": 4,
               "extra": {
-                "trendingScore": 485,
-                "pipelineTag": "image-text-to-text",
+                "trendingScore": 902,
+                "pipelineTag": "text-generation",
                 "tags": [
-                  "gguf",
-                  "unsloth",
-                  "image-text-to-text",
-                  "base_model:Qwen/Qwen3.8-Flash-Next",
-                  "base_model:quantized:Qwen/Qwen3.8-Flash-Next",
+                  "transformers",
+                  "safetensors",
+                  "glm_moe_dsa",
+                  "text-generation",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "arxiv:2602.15763",
                   "license:other",
+                  "eval-results",
                   "endpoints_compatible",
-                  "region:us",
-                  "conversational"
+                  "fp8",
+                  "region:us"
                 ]
               }
             }
@@ -292,17 +332,55 @@
       "sourceName": "hfpapers",
       "items": [
         {
+          "title": "TacForcing: Streaming Action Generation with Execution-Time Tactile Feedback",
+          "url": "https://huggingface.co/papers/2608.25798",
+          "summary": "TacForcing est une méthode qui met à jour les plans de mouvement en traitant instantanément les retours tactiles (tactile feedback) lors des processus de manipulation robotique. Contrairement aux modèles image-langage-action actuels, elle permet au système de réagir en fonction des changements de contact physique pendant l'action, éliminant ainsi le besoin de contrôleurs complexes.",
+          "meta": "3 j'aime · 2 commentaires",
+          "snapshot": {
+            "sourceId": "2608.25798",
+            "capturedAt": "2026-08-28T15:55:54.523Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.25798",
+                "publishedAt": "2026-08-26T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "What Does an Evaluation License? A Commit-Bound Census of Claim-Relative Inference in Inspect Evals",
+          "url": "https://huggingface.co/papers/2608.19269",
+          "summary": "Cette étude, partagée par Hugging Face, examine la vérifiabilité des métriques utilisées dans les outils d'évaluation (Inspect Evals) qui mesurent la performance des modèles d'intelligence artificielle. La recherche révèle que les données et les méthodes utilisées dans les processus de test actuels ne possèdent pas une transparence suffisante pour reproduire les résultats revendiqués.",
+          "meta": "2 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2608.19269",
+            "capturedAt": "2026-08-28T15:55:54.523Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.19269",
+                "publishedAt": "2026-08-25T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
           "title": "EditaLive! Unified Character Video Editing for Live Streaming",
           "url": "https://huggingface.co/papers/2608.27123",
-          "summary": "EditaLive est un nouveau cadre (framework) qui rend les processus de montage vidéo centrés sur l'humain en temps réel lors des diffusions en direct. Il maintient la cohérence des expressions faciales, élimine le besoin de traitement hors ligne et rend les opérations de montage de personnages adaptées à une interaction instantanée.",
-          "meta": "1 j'aime · 1 commentaires",
+          "summary": "EditaLive propose un cadre qui rend les processus de montage vidéo centrés sur l'humain en temps réel lors des diffusions en direct. Contrairement aux outils de montage existants, cette méthode élimine le besoin de traitement hors ligne tout en maintenant la cohérence des expressions faciales.",
+          "meta": "2 j'aime · 1 commentaires",
           "snapshot": {
             "sourceId": "2608.27123",
-            "capturedAt": "2026-08-28T13:31:22.318Z",
+            "capturedAt": "2026-08-28T15:55:54.523Z",
             "metadata": {
-              "popularity": 1,
+              "popularity": 2,
               "engagementCount": 1,
-              "rank": 1,
+              "rank": 3,
               "extra": {
                 "arxivUrl": "https://arxiv.org/abs/2608.27123",
                 "publishedAt": "2026-08-27T00:00:00.000Z",
@@ -315,15 +393,15 @@
         {
           "title": "PILOT in the Loop: Live Self-Improvement for Long-Horizon Agents",
           "url": "https://huggingface.co/papers/2608.26530",
-          "summary": "PILOT in the Loop est une méthode qui permet aux agents d'intelligence artificielle effectuant des tâches à long terme d'apprendre de leurs propres expériences pendant que le processus est en cours. Cette approche permet aux agents d'utiliser les données obtenues pour améliorer instantanément le flux de travail et accroître leurs performances futures.",
+          "summary": "PILOT in the Loop permet aux agents d'intelligence artificielle d'améliorer leurs performances en utilisant instantanément les expériences acquises lors de tâches de longue durée. Contrairement aux modèles traditionnels, cette méthode permet aux agents de corriger leurs erreurs en appliquant les connaissances apprises pendant le processus de travail, et non après la fin de l'opération.",
           "meta": "25 j'aime · 2 commentaires",
           "snapshot": {
             "sourceId": "2608.26530",
-            "capturedAt": "2026-08-28T13:31:22.318Z",
+            "capturedAt": "2026-08-28T15:55:54.523Z",
             "metadata": {
               "popularity": 25,
               "engagementCount": 2,
-              "rank": 2,
+              "rank": 4,
               "extra": {
                 "arxivUrl": "https://arxiv.org/abs/2608.26530",
                 "publishedAt": "2026-08-27T00:00:00.000Z"
@@ -334,60 +412,18 @@
         {
           "title": "Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models",
           "url": "https://huggingface.co/papers/2608.25518",
-          "summary": "Au lieu des méthodes traditionnelles de balayage vidéo utilisées pour entraîner des modèles du monde (world models), des processus de développement de jeux générant des signaux de récompense vérifiables, tels que ceux proposés par les agents basés sur le code, sont suggérés. Cette approche vise à rendre les processus d'apprentissage par renforcement (reinforcement learning) des grands modèles de langage (large language models) plus efficaces en utilisant les mécanismes de rétroaction fournis par le code exécutable.",
-          "meta": "56 j'aime · 1 commentaires",
+          "summary": "Au lieu des données vidéo traditionnelles utilisées pour entraîner les modèles du monde (world models), il est suggéré d'utiliser des trajectoires de données vérifiables créées dans des environnements de développement de jeux. Tout comme pour les agents d'IA écrivant du code, il est soutenu que les environnements de jeu exécutables fournissent des signaux de récompense de haute qualité pour l'apprentissage par renforcement (reinforcement learning).",
+          "meta": "112 j'aime · 1 commentaires",
           "snapshot": {
             "sourceId": "2608.25518",
-            "capturedAt": "2026-08-28T13:31:22.318Z",
+            "capturedAt": "2026-08-28T15:55:54.523Z",
             "metadata": {
-              "popularity": 56,
-              "engagementCount": 1,
-              "rank": 3,
-              "extra": {
-                "arxivUrl": "https://arxiv.org/abs/2608.25518",
-                "publishedAt": "2026-08-26T00:00:00.000Z"
-              }
-            }
-          }
-        },
-        {
-          "title": "Procedura: Agentic 3D Modeling with Procedural Control",
-          "url": "https://huggingface.co/papers/2608.26238",
-          "summary": "Procedura est un cadre d'intelligence artificielle qui utilise la capacité de codage des grands modèles de langage (large language models) pour créer des modèles 3D paramétriques et modifiables à partir d'une seule image. Contrairement aux méthodes traditionnelles, ce système définit les objets comme des blocs de code décomposables et modifiables.",
-          "meta": "5 j'aime · 1 commentaires",
-          "snapshot": {
-            "sourceId": "2608.26238",
-            "capturedAt": "2026-08-28T13:31:22.318Z",
-            "metadata": {
-              "popularity": 5,
-              "engagementCount": 1,
-              "rank": 4,
-              "extra": {
-                "arxivUrl": "https://arxiv.org/abs/2608.26238",
-                "publishedAt": "2026-08-26T00:00:00.000Z",
-                "githubRepo": "https://github.com/SpatiaOS/Procedura",
-                "githubStars": 40
-              }
-            }
-          }
-        },
-        {
-          "title": "Thinking on Shots: Consistent Multi-Shot Video Editing with Agentic Reasoning",
-          "url": "https://huggingface.co/papers/2608.26809",
-          "summary": "La méthode Thinking on Shots utilise des processus de raisonnement agentique (agentic reasoning) pour résoudre les incohérences rencontrées lors du montage de vidéos longues. Cette approche offre la possibilité de monter des vidéos de longue durée avec des commandes multiples en évitant les ruptures visuelles et les erreurs de montage qui surviennent lors de la segmentation des vidéos.",
-          "meta": "4 j'aime · 1 commentaires",
-          "snapshot": {
-            "sourceId": "2608.26809",
-            "capturedAt": "2026-08-28T13:31:22.318Z",
-            "metadata": {
-              "popularity": 4,
+              "popularity": 112,
               "engagementCount": 1,
               "rank": 5,
               "extra": {
-                "arxivUrl": "https://arxiv.org/abs/2608.26809",
-                "publishedAt": "2026-08-27T00:00:00.000Z",
-                "githubRepo": "https://github.com/Wucy0519/MMLVE",
-                "githubStars": 2
+                "arxivUrl": "https://arxiv.org/abs/2608.25518",
+                "publishedAt": "2026-08-26T00:00:00.000Z"
               }
             }
           }
@@ -400,21 +436,21 @@
         {
           "title": "EasyEffects should be part of every Linux distribution to improve laptop speaker sound quality",
           "url": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
-          "summary": "EasyEffects est un outil d'effets audio qui traite les signaux sonores et améliore la qualité des haut-parleurs sur les systèmes Linux. Il est suggéré que ce logiciel soit inclus par défaut dans toutes les distributions Linux afin d'améliorer les performances audio des ordinateurs portables.",
-          "meta": "27 votes · 10 commentaires",
+          "summary": "EasyEffects est un outil d'effets audio qui traite les signaux sonores et améliore la qualité des haut-parleurs sur les systèmes Linux. Il est suggéré que ce logiciel soit inclus par défaut dans toutes les distributions Linux afin de compenser les faibles performances matérielles des ordinateurs portables.",
+          "meta": "37 votes · 14 commentaires",
           "snapshot": {
             "sourceId": "zhnpv1",
-            "capturedAt": "2026-08-28T13:31:22.673Z",
+            "capturedAt": "2026-08-28T15:55:54.725Z",
             "metadata": {
-              "popularity": 27,
-              "engagementCount": 10,
+              "popularity": 37,
+              "engagementCount": 14,
               "rank": 1,
               "discussions": [
                 {
                   "source": "lobsters",
                   "url": "https://lobste.rs/s/zhnpv1/easyeffects_should_be_part_every_linux",
-                  "popularity": 27,
-                  "engagementCount": 10
+                  "popularity": 37,
+                  "engagementCount": 14
                 }
               ],
               "extra": {
@@ -429,29 +465,29 @@
             {
               "source": "lobsters",
               "url": "https://lobste.rs/s/zhnpv1/easyeffects_should_be_part_every_linux",
-              "popularity": 27,
-              "engagementCount": 10
+              "popularity": 37,
+              "engagementCount": 14
             }
           ]
         },
         {
           "title": "OpenOffice does not print on Tuesdays (2009)",
           "url": "https://beza1e1.tuxen.de/lore/print_on_tuesday.html",
-          "summary": "Cette légende technique de 2009, selon laquelle le logiciel OpenOffice ne permettait pas d'imprimer le mardi, illustre comment les bugs logiciels peuvent se transformer en légendes urbaines. Des analyses techniques ont révélé que cette situation ne provenait pas d'une erreur de calendrier, mais d'une incompatibilité avec le pilote d'imprimante.",
-          "meta": "12 votes · 2 commentaires",
+          "summary": "L'erreur d'impression rencontrée dans une version spécifique du logiciel bureautique open source OpenOffice était due à une erreur logique qui empêchait le logiciel de fonctionner uniquement les mardis. Cette situation montre que dans les bases de code complexes, des erreurs peuvent survenir en raison de conditions qui semblent inattendues et aléatoires.",
+          "meta": "25 votes · 4 commentaires",
           "snapshot": {
             "sourceId": "im3eeh",
-            "capturedAt": "2026-08-28T13:31:22.673Z",
+            "capturedAt": "2026-08-28T15:55:54.725Z",
             "metadata": {
-              "popularity": 12,
-              "engagementCount": 2,
-              "rank": 3,
+              "popularity": 25,
+              "engagementCount": 4,
+              "rank": 2,
               "discussions": [
                 {
                   "source": "lobsters",
                   "url": "https://lobste.rs/s/im3eeh/openoffice_does_not_print_on_tuesdays",
-                  "popularity": 12,
-                  "engagementCount": 2
+                  "popularity": 25,
+                  "engagementCount": 4
                 }
               ],
               "extra": {
@@ -466,8 +502,46 @@
             {
               "source": "lobsters",
               "url": "https://lobste.rs/s/im3eeh/openoffice_does_not_print_on_tuesdays",
-              "popularity": 12,
-              "engagementCount": 2
+              "popularity": 25,
+              "engagementCount": 4
+            }
+          ]
+        },
+        {
+          "title": "Quest for eternal dock on Wayland - lambdock (C + GTK4 + Lisp GNU Guile Scheme)",
+          "url": "https://jointhefreeworld.org/blog/articles/gnu-linux/quest-for-eternal-dock/index.html",
+          "summary": "Lambdock est un outil open source qui vise à offrir un lanceur d'applications persistant sur le serveur d'affichage Wayland. Développé en utilisant C, la bibliothèque d'interface GTK4 et le langage de programmation GNU Guile Scheme, ce projet permet une expérience de barre des tâches personnalisable dans les environnements de bureau.",
+          "meta": "14 votes · 0 commentaires",
+          "snapshot": {
+            "sourceId": "lvspri",
+            "capturedAt": "2026-08-28T15:55:54.725Z",
+            "metadata": {
+              "popularity": 14,
+              "engagementCount": 0,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/lvspri/quest_for_eternal_dock_on_wayland",
+                  "popularity": 14,
+                  "engagementCount": 0
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "c",
+                  "lisp"
+                ],
+                "createdAt": "2026-08-28T05:17:48.604-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/lvspri/quest_for_eternal_dock_on_wayland",
+              "popularity": 14,
+              "engagementCount": 0
             }
           ]
         }
@@ -480,24 +554,28 @@
   ],
   "glossary": [
     {
+      "term": "spatial intelligence",
+      "explanation": "La capacité des ordinateurs à percevoir et à interpréter la position et le mouvement des objets dans le monde physique."
+    },
+    {
       "term": "knowledge graph",
-      "explanation": "Un système de base de données qui visualise les relations entre les informations sur une structure en réseau."
+      "explanation": "Structure de données qui présente les relations entre les informations en les reliant comme une carte réseau."
     },
     {
       "term": "Graph RAG",
-      "explanation": "Une méthode d'interrogation des informations via une structure en réseau pour permettre à l'intelligence artificielle de mieux comprendre les relations complexes."
+      "explanation": "Méthode par laquelle l'intelligence artificielle accède à des informations plus précises en utilisant les relations entre des données interconnectées lors de la génération de réponses."
+    },
+    {
+      "term": "code snippets",
+      "explanation": "Courts morceaux de code prêts à l'emploi utilisés pour ajouter rapidement les fonctionnalités nécessaires lors de la programmation."
     },
     {
       "term": "NSA",
-      "explanation": "L'agence de sécurité nationale américaine qui établit des normes en matière de sécurité Internet et de chiffrement."
+      "explanation": "L'agence gouvernementale américaine qui collecte des renseignements pour la sécurité nationale en surveillant les réseaux Internet et de communication."
     },
     {
       "term": "software reverse engineering",
-      "explanation": "Le processus d'analyse inverse du code pour comprendre le fonctionnement d'un logiciel prêt à l'emploi."
-    },
-    {
-      "term": "LLM",
-      "explanation": "Systèmes d'intelligence artificielle avancés entraînés à comprendre, interpréter et générer du texte en langage humain."
+      "explanation": "Le processus d'analyse inverse du code ou de la structure d'un logiciel prêt à l'emploi pour comprendre son fonctionnement."
     }
   ]
 }

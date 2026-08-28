@@ -1,8 +1,8 @@
 {
   "snapshotVersion": 1,
   "date": "2026-08-28",
-  "capturedAt": "2026-08-28T13:31:22.155Z",
-  "editorial": "Aujourd'hui, l'actualité technologique est dominée par la nouvelle de l'acquisition massive entre Nvidia et Hugging Face, ainsi que par les optimisations de l'architecture système. Les modèles d'inférence rapide de nouvelle génération développés pour les grands modèles de langage (LLM) et les mécanismes d'auto-amélioration des agents autonomes figurent parmi les sujets marquants du côté académique.",
+  "capturedAt": "2026-08-28T15:55:54.344Z",
+  "editorial": "Les modèles de langage de grande taille (large language models) et les optimisations d'infrastructure sont au premier plan de l'actualité technologique d'aujourd'hui. Le travail des ingénieurs de Cloudflare sur l'économie de mémoire du cache DNS (DNS cache) se distingue comme l'avancée technique la plus concrète de la journée en matière d'efficacité système.",
   "sections": [
     {
       "sourceName": "github",
@@ -10,14 +10,14 @@
         {
           "title": "tt-a1i/archify",
           "url": "https://github.com/tt-a1i/archify",
-          "summary": "Archify est une compétence d'agent (agent skill) basée sur l'intelligence artificielle utilisée pour visualiser des processus tels que l'architecture logicielle, le flux de travail et le flux de données. Il vous permet d'exporter des diagrammes vérifiables et animés sous forme de fichiers HTML autonomes.",
-          "meta": "JavaScript · ★ 25 693 · +4 561 aujourd'hui",
+          "summary": "Archify est une compétence d'agent (agent skill) d'intelligence artificielle qui génère des schémas d'architecture logicielle, de flux de travail et de flux de données sous forme de fichiers HTML vérifiables et animés. Utilisé pour visualiser des conceptions de systèmes complexes, cet outil permet d'exporter les résultats dans des formats haute résolution et modifiables.",
+          "meta": "JavaScript · ★ 26 245 · +4 561 aujourd'hui",
           "snapshot": {
             "sourceId": "tt-a1i/archify",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "JavaScript",
-              "popularity": 25693,
+              "popularity": 26245,
               "engagementCount": 4561,
               "rank": 1,
               "extra": {
@@ -29,14 +29,14 @@
         {
           "title": "K-Dense-AI/scientific-agent-skills",
           "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-          "summary": "Scientific-agent-skills est une bibliothèque de compétences prête à l'emploi qui adapte les agents d'intelligence artificielle aux processus de recherche scientifique. En proposant 163 compétences vérifiées et plus de 100 bases de données dans des domaines tels que la biologie, la chimie et la médecine, elle s'intègre avec des outils comme l'éditeur de code Cursor ou l'assistant d'intelligence artificielle Claude Code.",
-          "meta": "Python · ★ 35 850 · +720 aujourd'hui",
+          "summary": "Scientific-agent-skills est une bibliothèque contenant 163 compétences (skills) vérifiées et plus de 100 bases de données, spécialisant les agents d'intelligence artificielle dans les processus de recherche scientifique. Compatible avec des outils tels que l'éditeur de code Cursor, l'assistant IA Claude Code et d'autres, elle permet d'effectuer des analyses axées sur les données dans les domaines de la biologie, de la chimie et de la médecine.",
+          "meta": "Python · ★ 36 079 · +720 aujourd'hui",
           "snapshot": {
             "sourceId": "K-Dense-AI/scientific-agent-skills",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "Python",
-              "popularity": 35850,
+              "popularity": 36079,
               "engagementCount": 720,
               "rank": 2,
               "extra": {
@@ -48,14 +48,14 @@
         {
           "title": "anthropics/claude-plugins-official",
           "url": "https://github.com/anthropics/claude-plugins-official",
-          "summary": "Anthropic a créé un répertoire officiel regroupant des plugins de haute qualité développés pour Claude Code. Ces plugins, qui automatisent les processus de développement logiciel, offrent une ressource centralisée pour étendre les capacités de Claude.",
-          "meta": "Python · ★ 34 871 · +457 aujourd'hui",
+          "summary": "Anthropic propose un répertoire officiel regroupant en un seul centre les plugins de haute qualité développés pour Claude Code. Cette ressource constitue un point de référence standard pour les développeurs souhaitant étendre les capacités de l'outil de codage assisté par IA, Claude Code.",
+          "meta": "Python · ★ 34 906 · +457 aujourd'hui",
           "snapshot": {
             "sourceId": "anthropics/claude-plugins-official",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "Python",
-              "popularity": 34871,
+              "popularity": 34906,
               "engagementCount": 457,
               "rank": 3,
               "extra": {
@@ -67,14 +67,14 @@
         {
           "title": "bilawalsidhu/gods-eye-view",
           "url": "https://github.com/bilawalsidhu/gods-eye-view",
-          "summary": "Gods-eye-view est un outil de renseignement spatial qui visualise des données satellites en temps réel sur un globe 3D photoréaliste dans le navigateur. Ce projet open source, développé en JavaScript, permet aux utilisateurs de suivre en direct la mobilité à travers le monde.",
-          "meta": "JavaScript · ★ 10 132 · +1 984 aujourd'hui",
+          "summary": "Gods-eye-view est un simulateur d'intelligence spatiale (spatial intelligence) qui visualise des données satellites en temps réel sur un globe 3D basé sur le navigateur. Développé en JavaScript, ce projet open source permet aux utilisateurs d'examiner des données en direct sur le monde via une interface photoréaliste.",
+          "meta": "JavaScript · ★ 10 411 · +1 984 aujourd'hui",
           "snapshot": {
             "sourceId": "bilawalsidhu/gods-eye-view",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "JavaScript",
-              "popularity": 10132,
+              "popularity": 10411,
               "engagementCount": 1984,
               "rank": 4,
               "extra": {
@@ -86,14 +86,14 @@
         {
           "title": "abhigyanpatwari/GitNexus",
           "url": "https://github.com/abhigyanpatwari/GitNexus",
-          "summary": "GitNexus est un outil d'analyse de code qui fonctionne dans le navigateur et transforme les dépôts de code en un graphe de connaissances interactif. Grâce à sa structure sans serveur, il vous permet de visualiser des bases de code sur GitHub, GitLab ou des fichiers locaux en utilisant la méthode de récupération basée sur les graphes (Graph RAG).",
-          "meta": "TypeScript · ★ 46 042 · +189 aujourd'hui",
+          "summary": "GitNexus est un moteur d'analyse de code qui fonctionne dans le navigateur et transforme les dépôts de code en un graphe de connaissances (knowledge graph) interactif. En utilisant des dépôts Git locaux ou basés sur le cloud, il propose un agent de génération augmentée par récupération basée sur les graphes (Graph RAG) intégré pour donner du sens à la base de code.",
+          "meta": "TypeScript · ★ 46 074 · +189 aujourd'hui",
           "snapshot": {
             "sourceId": "abhigyanpatwari/GitNexus",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "TypeScript",
-              "popularity": 46042,
+              "popularity": 46074,
               "engagementCount": 189,
               "rank": 5,
               "extra": {
@@ -105,14 +105,14 @@
         {
           "title": "JetBrains/go-modern-guidelines",
           "url": "https://github.com/JetBrains/go-modern-guidelines",
-          "summary": "Partagé par JetBrains, go-modern-guidelines est un guide qui permet aux agents de codage par intelligence artificielle de développer des logiciels conformes aux normes modernes du langage Go. Cette ressource vise à enseigner les pratiques actuelles et les meilleures pratiques (best practices) du langage aux systèmes générateurs de code.",
-          "meta": "Go · ★ 2 450 · +574 aujourd'hui",
+          "summary": "Publié par JetBrains, go-modern-guidelines est un guide préparé pour garantir que les assistants de codage par IA développent des logiciels conformes aux normes Go actuelles. Ce guide vise à produire des résultats de meilleure qualité en se basant sur les dernières fonctionnalités du langage et les meilleures pratiques (best practices) lors des processus de génération de code.",
+          "meta": "Go · ★ 2 493 · +574 aujourd'hui",
           "snapshot": {
             "sourceId": "JetBrains/go-modern-guidelines",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "Go",
-              "popularity": 2450,
+              "popularity": 2493,
               "engagementCount": 574,
               "rank": 6,
               "extra": {
@@ -124,14 +124,14 @@
         {
           "title": "calesthio/OpenMontage",
           "url": "https://github.com/calesthio/OpenMontage",
-          "summary": "OpenMontage est un système open source qui transforme les assistants de codage assistés par intelligence artificielle en un studio de production vidéo complet. Avec douze pipelines de production différents, plus d'une centaine d'outils et plus de sept cents compétences d'agent (agent skill), il automatise les processus de production vidéo.",
-          "meta": "Python · ★ 52 953 · +1 144 aujourd'hui",
+          "summary": "OpenMontage est un système open source qui transforme les assistants de codage basés sur l'IA en un studio de production vidéo complet. Avec douze pipelines de production différents et le support de centaines d'outils, il offre des compétences d'agent (agent skills) qui automatisent les processus de création vidéo.",
+          "meta": "Python · ★ 53 055 · +1 144 aujourd'hui",
           "snapshot": {
             "sourceId": "calesthio/OpenMontage",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "Python",
-              "popularity": 52953,
+              "popularity": 53055,
               "engagementCount": 1144,
               "rank": 7,
               "extra": {
@@ -143,14 +143,14 @@
         {
           "title": "abi/screenshot-to-code",
           "url": "https://github.com/abi/screenshot-to-code",
-          "summary": "Screenshot-to-code est un outil logiciel qui convertit les captures d'écran téléchargées en structures de code propres (HTML, Tailwind, React, Vue). Il vise à accélérer le processus de développement en transformant directement les conceptions visuelles en blocs de code fonctionnels.",
-          "meta": "Python · ★ 75 311 · +309 aujourd'hui",
+          "summary": "Screenshot-to-code est un outil logiciel qui analyse les fichiers de capture d'écran et les convertit en code HTML, Tailwind, React ou Vue propre. Il permet aux développeurs de transformer rapidement des conceptions d'interface en blocs de code (code snippets) fonctionnels.",
+          "meta": "Python · ★ 75 377 · +309 aujourd'hui",
           "snapshot": {
             "sourceId": "abi/screenshot-to-code",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "Python",
-              "popularity": 75311,
+              "popularity": 75377,
               "engagementCount": 309,
               "rank": 8,
               "extra": {
@@ -162,14 +162,14 @@
         {
           "title": "cursor/plugins",
           "url": "https://github.com/cursor/plugins",
-          "summary": "L'éditeur de code assisté par intelligence artificielle Cursor a publié une spécification de plugin officielle pour permettre aux développeurs de créer leurs propres extensions. Cette norme permet aux utilisateurs de développer des outils personnalisés qui étendent l'expérience d'édition.",
-          "meta": "TypeScript · ★ 5 840 · +257 aujourd'hui",
+          "summary": "L'outil d'édition de code Cursor a publié une spécification de plugin (plugin specification) officielle pour permettre aux développeurs de créer leurs propres extensions. Cette norme permet aux utilisateurs d'ajouter des capacités personnalisées à l'éditeur de code assisté par IA.",
+          "meta": "TypeScript · ★ 5 871 · +257 aujourd'hui",
           "snapshot": {
             "sourceId": "cursor/plugins",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "TypeScript",
-              "popularity": 5840,
+              "popularity": 5871,
               "engagementCount": 257,
               "rank": 9,
               "extra": {
@@ -181,14 +181,14 @@
         {
           "title": "freestylefly/awesome-gpt-image-2",
           "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-          "summary": "Développé pour les modèles de génération d'images, GPT-Image2 est un moteur et une bibliothèque de modèles qui adopte l'approche « prompt as code » (invite en tant que code). Avec plus de 530 exemples issus de l'ingénierie inverse et plus de 20 modèles industriels, il vise à standardiser les processus de production d'images par intelligence artificielle.",
-          "meta": "JavaScript · ★ 23 999 · +1 687 aujourd'hui",
+          "summary": "GPT-Image2 est un moteur d'invite (prompt) et une bibliothèque de modèles qui conçoit les processus de création visuelle sous forme de code (prompt as code). Grâce à plus de 530 exemples d'ingénierie inverse et plus de 20 modèles industriels, il permet le développement de compétences (skills) standard dans la production d'images par IA.",
+          "meta": "JavaScript · ★ 24 088 · +1 687 aujourd'hui",
           "snapshot": {
             "sourceId": "freestylefly/awesome-gpt-image-2",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "JavaScript",
-              "popularity": 23999,
+              "popularity": 24088,
               "engagementCount": 1687,
               "rank": 10,
               "extra": {
@@ -200,14 +200,14 @@
         {
           "title": "tailscale/tailcat",
           "url": "https://github.com/tailscale/tailcat",
-          "summary": "Tailcat, développé par Tailscale, est un utilitaire réseau qui transmet le trafic réseau via le plan de données (data plane) de l'outil de tunnelisation sécurisée Tailscale. Sans avoir besoin d'un plan de contrôle (control plane), il combine les fonctionnalités de l'outil de connexion réseau Netcat avec l'infrastructure de Tailscale.",
-          "meta": "Go · ★ 2 339 · +986 aujourd'hui",
+          "summary": "Tailcat, développé par Tailscale, est une version de l'outil de ligne de commande Netcat, utilisé pour transférer le trafic réseau en toute sécurité, fonctionnant sur la couche réseau de Tailscale. Il permet une transmission de données directe entre les appareils sans nécessiter de plan de contrôle (control plane).",
+          "meta": "Go · ★ 2 435 · +986 aujourd'hui",
           "snapshot": {
             "sourceId": "tailscale/tailcat",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "Go",
-              "popularity": 2339,
+              "popularity": 2435,
               "engagementCount": 986,
               "rank": 11,
               "extra": {
@@ -219,14 +219,14 @@
         {
           "title": "NationalSecurityAgency/ghidra",
           "url": "https://github.com/NationalSecurityAgency/ghidra",
-          "summary": "Ghidra, développé par la National Security Agency (NSA), est un outil d'analyse complet utilisé pour les opérations de rétro-ingénierie logicielle (software reverse engineering). Cette plateforme basée sur Java fournit aux chercheurs un environnement d'examen détaillé pour l'étude des fichiers binaires et l'analyse du code.",
-          "meta": "Java · ★ 73 144 · +205 aujourd'hui",
+          "summary": "Ghidra, développé par la National Security Agency (NSA), est un cadre d'analyse complet utilisé pour les processus de rétro-ingénierie logicielle (software reverse engineering). Écrit en Java, cet outil permet aux chercheurs en sécurité d'effectuer des examens détaillés en analysant la structure du code des fichiers binaires.",
+          "meta": "Java · ★ 73 203 · +205 aujourd'hui",
           "snapshot": {
             "sourceId": "NationalSecurityAgency/ghidra",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "Java",
-              "popularity": 73144,
+              "popularity": 73203,
               "engagementCount": 205,
               "rank": 12,
               "extra": {
@@ -238,14 +238,14 @@
         {
           "title": "marin-community/marin",
           "url": "https://github.com/marin-community/marin",
-          "summary": "Marin est un framework Python open source conçu pour la recherche et le développement de modèles de fondation (foundation models). Il offre une infrastructure visant à standardiser les processus de formation et d'expérimentation des grands modèles de langage.",
-          "meta": "Python · ★ 2 807 · +236 aujourd'hui",
+          "summary": "Marin est un framework Python open source conçu pour la recherche et le développement de modèles de base (foundation models). Ce logiciel vise à standardiser les processus d'entraînement et d'optimisation des modèles d'intelligence artificielle à grande échelle.",
+          "meta": "Python · ★ 2 832 · +236 aujourd'hui",
           "snapshot": {
             "sourceId": "marin-community/marin",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "Python",
-              "popularity": 2807,
+              "popularity": 2832,
               "engagementCount": 236,
               "rank": 13,
               "extra": {
@@ -257,18 +257,18 @@
         {
           "title": "tashfeenahmed/freellmapi",
           "url": "https://github.com/tashfeenahmed/freellmapi",
-          "summary": "FreeLLMAPI est un outil de développement qui regroupe 34 fournisseurs de grands modèles de langage (LLM) gratuits différents et 635 points de terminaison dans une interface unique compatible avec OpenAI. Grâce à ses fonctionnalités de routage intelligent et de gestion automatique des erreurs, il permet d'utiliser un grand nombre de modèles gratuits pour des projets personnels à partir d'un point central.",
-          "meta": "TypeScript · ★ 21 343 · +405 aujourd'hui",
+          "summary": "FreeLLMAPI regroupe 34 fournisseurs de grands modèles de langage (large language model) gratuits en un seul point de terminaison (endpoint) compatible avec OpenAI. Grâce à ses fonctionnalités de routage intelligent et de gestion automatique des erreurs, il permet aux développeurs de tester différents modèles via une interface unique.",
+          "meta": "TypeScript · ★ 21 410 · +477 aujourd'hui",
           "snapshot": {
             "sourceId": "tashfeenahmed/freellmapi",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "TypeScript",
-              "popularity": 21343,
-              "engagementCount": 405,
+              "popularity": 21410,
+              "engagementCount": 477,
               "rank": 14,
               "extra": {
-                "starsToday": 405
+                "starsToday": 477
               }
             }
           }
@@ -276,14 +276,14 @@
         {
           "title": "ChromeDevTools/chrome-devtools-mcp",
           "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "summary": "Ce serveur développé pour Chrome DevTools permet aux agents d'IA de codage (coding agents) d'accéder directement aux outils de développement du navigateur. Fonctionnant via le protocole de contexte de modèle (Model Context Protocol), cette intégration permet aux agents d'analyser les pages web et d'automatiser les processus de débogage.",
-          "meta": "TypeScript · ★ 49 876 · +61 aujourd'hui",
+          "summary": "Développé pour Chrome DevTools, ce serveur permet aux agents de codage (coding agents) d'accéder directement aux outils du navigateur. Fonctionnant via le protocole de contexte de modèle (Model Context Protocol), cet outil permet aux systèmes assistés par intelligence artificielle d'automatiser les processus de développement web.",
+          "meta": "TypeScript · ★ 49 904 · +61 aujourd'hui",
           "snapshot": {
             "sourceId": "ChromeDevTools/chrome-devtools-mcp",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "TypeScript",
-              "popularity": 49876,
+              "popularity": 49904,
               "engagementCount": 61,
               "rank": 15,
               "extra": {
@@ -295,14 +295,14 @@
         {
           "title": "rohitg00/ai-engineering-from-scratch",
           "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-          "summary": "Conçue pour ceux qui souhaitent débuter dans le domaine de l'ingénierie de l'IA (AI engineering), cette ressource enseigne de bout en bout les processus de développement et de déploiement de modèles en utilisant Python. En combinant connaissances théoriques et projets pratiques, elle permet aux développeurs de créer et de mettre en ligne leurs propres applications d'intelligence artificielle.",
-          "meta": "Python · ★ 50 476 · +703 aujourd'hui",
+          "summary": "Cette ressource, qui permet aux développeurs de logiciels d'apprendre les bases de l'ingénierie de l'IA (AI engineering), présente les étapes de développement et de déploiement de modèles avec Python à travers des exemples pratiques. En combinant connaissances théoriques et projets appliqués, elle aide les utilisateurs à créer et à distribuer leurs propres applications basées sur l'intelligence artificielle.",
+          "meta": "Python · ★ 50 508 · +703 aujourd'hui",
           "snapshot": {
             "sourceId": "rohitg00/ai-engineering-from-scratch",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "Python",
-              "popularity": 50476,
+              "popularity": 50508,
               "engagementCount": 703,
               "rank": 16,
               "extra": {
@@ -314,14 +314,14 @@
         {
           "title": "DietrichGebert/ponytail",
           "url": "https://github.com/DietrichGebert/ponytail",
-          "summary": "Ponytail est un outil d'agent d'IA qui vise à produire des solutions avec un minimum de code dans les processus de développement logiciel. Il propose une approche visant à réduire la charge de travail des développeurs en évitant l'écriture de code inutile.",
-          "meta": "JavaScript · ★ 114 862 · +1 396 aujourd'hui",
+          "summary": "Ponytail est une bibliothèque JavaScript qui apprend aux agents d'intelligence artificielle à générer des solutions avec un minimum d'effort. En empêchant l'écriture de code inutile dans les processus de développement logiciel, elle propose une approche visant à obtenir des résultats de la manière la plus efficace et la plus courte possible.",
+          "meta": "JavaScript · ★ 115 007 · +1 396 aujourd'hui",
           "snapshot": {
             "sourceId": "DietrichGebert/ponytail",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "JavaScript",
-              "popularity": 114862,
+              "popularity": 115007,
               "engagementCount": 1396,
               "rank": 17,
               "extra": {
@@ -333,14 +333,14 @@
         {
           "title": "google/googletest",
           "url": "https://github.com/google/googletest",
-          "summary": "GoogleTest, développé par Google, est un framework qui facilite l'écriture de tests et la création d'objets fictifs (mocking) pour les projets C++. Cet outil, utilisé par les développeurs de logiciels pour vérifier l'exactitude du code, se distingue par le soutien d'une large communauté.",
-          "meta": "C++ · ★ 39 121 · +156 aujourd'hui",
+          "summary": "GoogleTest est un framework permettant d'écrire des tests et de créer des objets fictifs (mocking) pour les projets C++. Il offre un environnement de test standardisé permettant aux développeurs de logiciels de détecter les erreurs de code à un stade précoce.",
+          "meta": "C++ · ★ 39 137 · +156 aujourd'hui",
           "snapshot": {
             "sourceId": "google/googletest",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "C++",
-              "popularity": 39121,
+              "popularity": 39137,
               "engagementCount": 156,
               "rank": 18,
               "extra": {
@@ -352,14 +352,14 @@
         {
           "title": "livekit/agents",
           "url": "https://github.com/livekit/agents",
-          "summary": "LiveKit Agents est un framework Python utilisé pour développer des agents d'IA vocaux en temps réel. Il permet aux développeurs de créer des applications interactives dotées de capacités de traitement audio et vidéo à faible latence.",
-          "meta": "Python · ★ 13 226 · +14 aujourd'hui",
+          "summary": "LiveKit Agents est un framework Python utilisé pour développer des agents d'intelligence artificielle vocaux et vidéo en temps réel. Cette structure, qui permet d'établir des interactions à faible latence, offre des outils pour gérer des processus complexes tels que le traitement audio et le streaming vidéo.",
+          "meta": "Python · ★ 13 253 · +14 aujourd'hui",
           "snapshot": {
             "sourceId": "livekit/agents",
-            "capturedAt": "2026-08-28T13:31:23.461Z",
+            "capturedAt": "2026-08-28T15:55:55.637Z",
             "metadata": {
               "language": "Python",
-              "popularity": 13226,
+              "popularity": 13253,
               "engagementCount": 14,
               "rank": 19,
               "extra": {
@@ -374,61 +374,25 @@
       "sourceName": "hackernews",
       "items": [
         {
-          "title": "Nvidia agrees to acquire Hugging Face for $13B",
-          "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
-          "summary": "Nvidia a convenu d'acquérir Hugging Face, la plateforme open source où sont partagés les modèles d'intelligence artificielle, pour 13 milliards de dollars. Cette décision vise à renforcer la présence du fabricant de matériel Nvidia dans l'écosystème logiciel.",
-          "meta": "1 918 votes · 888 commentaires",
-          "snapshot": {
-            "sourceId": "49458161",
-            "capturedAt": "2026-08-28T13:31:22.460Z",
-            "metadata": {
-              "popularity": 1918,
-              "engagementCount": 888,
-              "discussions": [
-                {
-                  "source": "hackernews",
-                  "url": "https://news.ycombinator.com/item?id=49458161",
-                  "popularity": 1918,
-                  "engagementCount": 888
-                }
-              ],
-              "rank": 1,
-              "extra": {
-                "author": "mfiguiere",
-                "createdAt": "2026-08-27T01:12:55Z",
-                "hnUrl": "https://news.ycombinator.com/item?id=49458161"
-              }
-            }
-          },
-          "discussions": [
-            {
-              "source": "hackernews",
-              "url": "https://news.ycombinator.com/item?id=49458161",
-              "popularity": 1918,
-              "engagementCount": 888
-            }
-          ]
-        },
-        {
           "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
           "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
-          "summary": "Cloudflare a réussi à réduire l'utilisation de la mémoire de 100 téraoctets grâce à de nouvelles structures de données développées pour le cache du système de noms de domaine (DNS). Cette optimisation réduit les coûts de serveur de Cloudflare, l'infrastructure réseau qui gère le trafic Internet, tout en augmentant les performances globales du système.",
-          "meta": "824 votes · 243 commentaires",
+          "summary": "Cloudflare a optimisé son cache du système de noms de domaine (DNS) 1.1.1.1, permettant une économie de 100 téraoctets en utilisation mémoire. Cette amélioration vise à réduire les coûts des serveurs en augmentant l'efficacité des structures de données.",
+          "meta": "860 votes · 251 commentaires",
           "snapshot": {
             "sourceId": "49468083",
-            "capturedAt": "2026-08-28T13:31:22.460Z",
+            "capturedAt": "2026-08-28T15:55:54.720Z",
             "metadata": {
-              "popularity": 824,
-              "engagementCount": 243,
+              "popularity": 860,
+              "engagementCount": 251,
               "discussions": [
                 {
                   "source": "hackernews",
                   "url": "https://news.ycombinator.com/item?id=49468083",
-                  "popularity": 824,
-                  "engagementCount": 243
+                  "popularity": 860,
+                  "engagementCount": 251
                 }
               ],
-              "rank": 2,
+              "rank": 1,
               "extra": {
                 "author": "TangerineDream",
                 "createdAt": "2026-08-27T17:17:57Z",
@@ -440,116 +404,152 @@
             {
               "source": "hackernews",
               "url": "https://news.ycombinator.com/item?id=49468083",
-              "popularity": 824,
-              "engagementCount": 243
+              "popularity": 860,
+              "engagementCount": 251
             }
           ]
         },
         {
-          "title": "Microduck",
-          "url": "https://pollen-robotics.com/microduck/",
-          "summary": "Microduck, développé par Pollen Robotics, est une carte de contrôle compacte conçue pour les plateformes robotiques open source. Grâce à sa structure modulaire, il vise à simplifier l'intégration matérielle et le contrôle des mouvements dans les projets robotiques.",
-          "meta": "718 votes · 229 commentaires",
+          "title": "\"IT WoRKs BeTter in the App \"",
+          "url": "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/",
+          "summary": "L'idée reçue selon laquelle les applications mobiles offrent de meilleures performances et une meilleure expérience utilisateur que les sites web est remise en question par les contraintes techniques et les préférences des développeurs. Malgré l'évolution des standards du web, le fait que certains services proposent des fonctionnalités spécifiques aux applications pour orienter les utilisateurs vers des logiciels natifs suscite des débats sur la nature ouverte d'Internet.",
+          "meta": "436 votes · 229 commentaires",
           "snapshot": {
-            "sourceId": "49462763",
-            "capturedAt": "2026-08-28T13:31:22.460Z",
+            "sourceId": "49477600",
+            "capturedAt": "2026-08-28T15:55:54.720Z",
             "metadata": {
-              "popularity": 718,
+              "popularity": 436,
               "engagementCount": 229,
               "discussions": [
                 {
                   "source": "hackernews",
-                  "url": "https://news.ycombinator.com/item?id=49462763",
-                  "popularity": 718,
+                  "url": "https://news.ycombinator.com/item?id=49477600",
+                  "popularity": 436,
                   "engagementCount": 229
                 }
               ],
-              "rank": 3,
+              "rank": 2,
               "extra": {
-                "author": "robotswantdata",
-                "createdAt": "2026-08-27T10:57:56Z",
-                "hnUrl": "https://news.ycombinator.com/item?id=49462763"
+                "author": "blenderob",
+                "createdAt": "2026-08-28T12:32:16Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49477600"
               }
             }
           },
           "discussions": [
             {
               "source": "hackernews",
-              "url": "https://news.ycombinator.com/item?id=49462763",
-              "popularity": 718,
+              "url": "https://news.ycombinator.com/item?id=49477600",
+              "popularity": 436,
               "engagementCount": 229
             }
           ]
         },
         {
-          "title": "Small Models Have Arrived",
-          "url": "https://calv.info/small-models-have-arrived",
-          "summary": "Les petits modèles de langage (small language models) à faible nombre de paramètres peuvent fonctionner sur des appareils aux ressources matérielles limitées en offrant des performances élevées avec moins de puissance de calcul. Ces modèles offrent des temps de réponse plus rapides et des possibilités d'installation locale à faible coût par rapport aux grands systèmes d'IA (LLM).",
-          "meta": "706 votes · 308 commentaires",
+          "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
+          "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/",
+          "summary": "Un tribunal américain a jugé illégale l'inscription de la société d'intelligence artificielle Anthropic sur la liste noire du Pentagone. Cette décision redéfinit les limites juridiques des restrictions concernant l'utilisation de l'intelligence artificielle générative (generative AI) dans les projets de l'industrie de la défense.",
+          "meta": "290 votes · 98 commentaires",
           "snapshot": {
-            "sourceId": "49466917",
-            "capturedAt": "2026-08-28T13:31:22.460Z",
+            "sourceId": "49477055",
+            "capturedAt": "2026-08-28T15:55:54.720Z",
             "metadata": {
-              "popularity": 706,
-              "engagementCount": 308,
+              "popularity": 290,
+              "engagementCount": 98,
               "discussions": [
                 {
                   "source": "hackernews",
-                  "url": "https://news.ycombinator.com/item?id=49466917",
-                  "popularity": 706,
-                  "engagementCount": 308
+                  "url": "https://news.ycombinator.com/item?id=49477055",
+                  "popularity": 290,
+                  "engagementCount": 98
                 }
               ],
-              "rank": 4,
+              "rank": 3,
               "extra": {
-                "author": "tosh",
-                "createdAt": "2026-08-27T15:56:58Z",
-                "hnUrl": "https://news.ycombinator.com/item?id=49466917"
+                "author": "softwaredoug",
+                "createdAt": "2026-08-28T11:25:30Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49477055"
               }
             }
           },
           "discussions": [
             {
               "source": "hackernews",
-              "url": "https://news.ycombinator.com/item?id=49466917",
-              "popularity": 706,
-              "engagementCount": 308
+              "url": "https://news.ycombinator.com/item?id=49477055",
+              "popularity": 290,
+              "engagementCount": 98
             }
           ]
         },
         {
-          "title": "507 Mechanical Movements",
-          "url": "https://507movements.com/",
-          "summary": "Publié en 1868, 507 Mechanical Movements est une référence technique qui visualise les mécanismes de base et les principes de mouvement. Cette archive numérique, qui éclaire l'histoire de l'ingénierie, explique les mouvements mécaniques (mechanical movements) qui forment la base des systèmes complexes à l'aide de dessins simples.",
-          "meta": "616 votes · 76 commentaires",
+          "title": "Doctors are finally learning to manage antidepressant withdrawal",
+          "url": "https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/",
+          "summary": "Le monde médical réexamine ses protocoles de traitement suite à l'augmentation des plaintes de patients souffrant du syndrome de sevrage des antidépresseurs (antidepressant withdrawal). Les experts travaillent sur de nouvelles approches impliquant une réduction plus lente et contrôlée des dosages médicamenteux.",
+          "meta": "232 votes · 274 commentaires",
           "snapshot": {
-            "sourceId": "49465169",
-            "capturedAt": "2026-08-28T13:31:22.460Z",
+            "sourceId": "49472090",
+            "capturedAt": "2026-08-28T15:55:54.720Z",
             "metadata": {
-              "popularity": 616,
-              "engagementCount": 76,
+              "popularity": 232,
+              "engagementCount": 274,
               "discussions": [
                 {
                   "source": "hackernews",
-                  "url": "https://news.ycombinator.com/item?id=49465169",
-                  "popularity": 616,
-                  "engagementCount": 76
+                  "url": "https://news.ycombinator.com/item?id=49472090",
+                  "popularity": 232,
+                  "engagementCount": 274
                 }
               ],
-              "rank": 5,
+              "rank": 4,
               "extra": {
-                "author": "helloplanets",
-                "createdAt": "2026-08-27T14:08:18Z",
-                "hnUrl": "https://news.ycombinator.com/item?id=49465169"
+                "author": "eutropheon",
+                "createdAt": "2026-08-27T22:26:04Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49472090"
               }
             }
           },
           "discussions": [
             {
               "source": "hackernews",
-              "url": "https://news.ycombinator.com/item?id=49465169",
-              "popularity": 616,
-              "engagementCount": 76
+              "url": "https://news.ycombinator.com/item?id=49472090",
+              "popularity": 232,
+              "engagementCount": 274
+            }
+          ]
+        },
+        {
+          "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+          "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+          "summary": "Le moteur de jeu open source Luanti a été retiré du Google Play Store en raison d'une notification de violation de droit d'auteur infondée basée sur l'intelligence artificielle. Cette situation soulève des questions sur les effets négatifs des systèmes de modération de contenu automatisés sur les développeurs et sur la responsabilité des plateformes dans ce processus.",
+          "meta": "220 votes · 71 commentaires",
+          "snapshot": {
+            "sourceId": "49475079",
+            "capturedAt": "2026-08-28T15:55:54.720Z",
+            "metadata": {
+              "popularity": 220,
+              "engagementCount": 71,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49475079",
+                  "popularity": 220,
+                  "engagementCount": 71
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "miniBill",
+                "createdAt": "2026-08-28T06:33:57Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49475079"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49475079",
+              "popularity": 220,
+              "engagementCount": 71
             }
           ]
         }
@@ -561,17 +561,17 @@
         {
           "title": "Qwen/Qwen3.8-Flash-Next",
           "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
-          "summary": "Développé par Alibaba, Qwen3.8-Flash-Next est un modèle de langage multimodal capable de traiter à la fois des données visuelles et textuelles. Axé sur la génération de réponses rapides avec une faible latence, ce modèle analyse les contenus visuels pour produire des sorties textuelles.",
-          "meta": "♥ 4 069 · 4 810 téléchargements",
+          "summary": "Qwen3.8-Flash-Next, développé par Alibaba, est un modèle d'intelligence artificielle multimodal capable de traiter des données visuelles et textuelles. Axé sur la génération de réponses rapides avec une faible latence, ce modèle analyse les contenus visuels pour produire des sorties textuelles.",
+          "meta": "♥ 4 092 · 4 810 téléchargements",
           "snapshot": {
             "sourceId": "Qwen/Qwen3.8-Flash-Next",
-            "capturedAt": "2026-08-28T13:31:22.302Z",
+            "capturedAt": "2026-08-28T15:55:54.510Z",
             "metadata": {
-              "popularity": 4069,
+              "popularity": 4092,
               "engagementCount": 4810,
               "rank": 1,
               "extra": {
-                "trendingScore": 3967,
+                "trendingScore": 3982,
                 "pipelineTag": "image-text-to-text",
                 "tags": [
                   "transformers",
@@ -591,17 +591,17 @@
         {
           "title": "zai-org/GLM-5.3-Flash",
           "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
-          "summary": "Développé par Zai-org, GLM-5.3-Flash est un modèle d'intelligence artificielle axé sur la génération de texte (text generation). Offrant des temps de réponse rapides, ce modèle de langage vise à accroître l'efficacité des processus de création de texte.",
-          "meta": "♥ 1 428 · 34 téléchargements",
+          "summary": "GLM-5.3-Flash, publié par Zai-org, est un modèle de langage optimisé pour les tâches de génération de texte. Visant à fournir des réponses rapides avec une faible latence, ce modèle bénéficie d'une forte interaction sur la plateforme Hugging Face.",
+          "meta": "♥ 1 455 · 34 téléchargements",
           "snapshot": {
             "sourceId": "zai-org/GLM-5.3-Flash",
-            "capturedAt": "2026-08-28T13:31:22.302Z",
+            "capturedAt": "2026-08-28T15:55:54.510Z",
             "metadata": {
-              "popularity": 1428,
+              "popularity": 1455,
               "engagementCount": 34,
               "rank": 2,
               "extra": {
-                "trendingScore": 1376,
+                "trendingScore": 1401,
                 "pipelineTag": "text-generation",
                 "tags": [
                   "transformers",
@@ -626,17 +626,17 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "summary": "Développé par Alibaba, Qwen3.8-27B est un modèle d'intelligence artificielle multimodal capable de traiter des données visuelles et textuelles. Le modèle analyse les commandes textuelles et les entrées visuelles pour produire des sorties textuelles cohérentes.",
-          "meta": "♥ 13 089 · 3 457 687 téléchargements",
+          "summary": "Qwen2.5-27B, développé par Alibaba, est un modèle d'intelligence artificielle multimodal capable de traiter à la fois des données visuelles et textuelles. Il vise à offrir des performances élevées dans des tâches complexes en combinant des capacités avancées de compréhension du langage et d'analyse d'images.",
+          "meta": "♥ 13 101 · 3 457 687 téléchargements",
           "snapshot": {
             "sourceId": "Qwen/Qwen3.8-27B",
-            "capturedAt": "2026-08-28T13:31:22.302Z",
+            "capturedAt": "2026-08-28T15:55:54.510Z",
             "metadata": {
-              "popularity": 13089,
+              "popularity": 13101,
               "engagementCount": 3457687,
               "rank": 3,
               "extra": {
-                "trendingScore": 938,
+                "trendingScore": 936,
                 "pipelineTag": "image-text-to-text",
                 "tags": [
                   "transformers",
@@ -656,19 +656,53 @@
           }
         },
         {
-          "title": "unsloth/Qwen3.8-27B-GGUF",
-          "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-          "summary": "Unsloth est une bibliothèque d'optimisation qui assure la vitesse et l'efficacité de la mémoire pour les grands modèles de langage. Cette version du modèle Qwen2.5-32B au format GGUF a été optimisée pour être exécutée sur des appareils locaux avec des exigences matérielles réduites.",
-          "meta": "♥ 3 107 · 7 758 790 téléchargements",
+          "title": "zai-org/GLM-5.3",
+          "url": "https://huggingface.co/zai-org/GLM-5.3",
+          "summary": "GLM-5.3, développé par Zai, est un modèle d'intelligence artificielle optimisé pour les tâches de génération de texte. Partagé sur Hugging Face, ce modèle est utilisé dans les processus de création de texte au sein de la catégorie des grands modèles de langage (large language models).",
+          "meta": "♥ 925 · 0 téléchargements",
           "snapshot": {
-            "sourceId": "unsloth/Qwen3.8-27B-GGUF",
-            "capturedAt": "2026-08-28T13:31:22.302Z",
+            "sourceId": "zai-org/GLM-5.3",
+            "capturedAt": "2026-08-28T15:55:54.510Z",
             "metadata": {
-              "popularity": 3107,
-              "engagementCount": 7758790,
+              "popularity": 925,
+              "engagementCount": 0,
               "rank": 4,
               "extra": {
-                "trendingScore": 564,
+                "trendingScore": 902,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "glm_moe_dsa",
+                  "text-generation",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "arxiv:2602.15763",
+                  "license:other",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "unsloth/Qwen3.8-27B-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "summary": "Unsloth est une bibliothèque d'optimisation permettant d'entraîner les grands modèles de langage (large language models) plus rapidement et avec une consommation de mémoire réduite. Cette version optimisée du modèle Qwen2.5-7B au format GGUF offre une performance d'inférence plus efficace par rapport aux méthodes standard.",
+          "meta": "♥ 3 114 · 7 758 790 téléchargements",
+          "snapshot": {
+            "sourceId": "unsloth/Qwen3.8-27B-GGUF",
+            "capturedAt": "2026-08-28T15:55:54.510Z",
+            "metadata": {
+              "popularity": 3114,
+              "engagementCount": 7758790,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 556,
                 "tags": [
                   "gguf",
                   "qwen3_5",
@@ -684,36 +718,6 @@
               }
             }
           }
-        },
-        {
-          "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
-          "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
-          "summary": "Optimisé par Unsloth, Qwen3.8-Flash-Next est un modèle d'intelligence artificielle multimodal qui traite des données visuelles et textuelles pour produire des sorties textuelles. Proposé au format GGUF, ce modèle permet une inférence (inference) rapide sur des appareils locaux en utilisant efficacement les ressources matérielles.",
-          "meta": "♥ 489 · 4 354 téléchargements",
-          "snapshot": {
-            "sourceId": "unsloth/Qwen3.8-Flash-Next-GGUF",
-            "capturedAt": "2026-08-28T13:31:22.302Z",
-            "metadata": {
-              "popularity": 489,
-              "engagementCount": 4354,
-              "rank": 5,
-              "extra": {
-                "trendingScore": 485,
-                "pipelineTag": "image-text-to-text",
-                "tags": [
-                  "gguf",
-                  "unsloth",
-                  "image-text-to-text",
-                  "base_model:Qwen/Qwen3.8-Flash-Next",
-                  "base_model:quantized:Qwen/Qwen3.8-Flash-Next",
-                  "license:other",
-                  "endpoints_compatible",
-                  "region:us",
-                  "conversational"
-                ]
-              }
-            }
-          }
         }
       ]
     },
@@ -721,17 +725,55 @@
       "sourceName": "hfpapers",
       "items": [
         {
+          "title": "TacForcing: Streaming Action Generation with Execution-Time Tactile Feedback",
+          "url": "https://huggingface.co/papers/2608.25798",
+          "summary": "TacForcing est une méthode qui met à jour les plans de mouvement en traitant instantanément les retours tactiles (tactile feedback) lors des processus de manipulation robotique. Contrairement aux modèles image-langage-action actuels, elle permet au système de réagir en fonction des changements de contact physique pendant l'action, éliminant ainsi le besoin de contrôleurs complexes.",
+          "meta": "3 j'aime · 2 commentaires",
+          "snapshot": {
+            "sourceId": "2608.25798",
+            "capturedAt": "2026-08-28T15:55:54.523Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.25798",
+                "publishedAt": "2026-08-26T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "What Does an Evaluation License? A Commit-Bound Census of Claim-Relative Inference in Inspect Evals",
+          "url": "https://huggingface.co/papers/2608.19269",
+          "summary": "Cette étude, partagée par Hugging Face, examine la vérifiabilité des métriques utilisées dans les outils d'évaluation (Inspect Evals) qui mesurent la performance des modèles d'intelligence artificielle. La recherche révèle que les données et les méthodes utilisées dans les processus de test actuels ne possèdent pas une transparence suffisante pour reproduire les résultats revendiqués.",
+          "meta": "2 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2608.19269",
+            "capturedAt": "2026-08-28T15:55:54.523Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.19269",
+                "publishedAt": "2026-08-25T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
           "title": "EditaLive! Unified Character Video Editing for Live Streaming",
           "url": "https://huggingface.co/papers/2608.27123",
-          "summary": "EditaLive est un nouveau cadre (framework) qui rend les processus de montage vidéo centrés sur l'humain en temps réel lors des diffusions en direct. Il maintient la cohérence des expressions faciales, élimine le besoin de traitement hors ligne et rend les opérations de montage de personnages adaptées à une interaction instantanée.",
-          "meta": "1 j'aime · 1 commentaires",
+          "summary": "EditaLive propose un cadre qui rend les processus de montage vidéo centrés sur l'humain en temps réel lors des diffusions en direct. Contrairement aux outils de montage existants, cette méthode élimine le besoin de traitement hors ligne tout en maintenant la cohérence des expressions faciales.",
+          "meta": "2 j'aime · 1 commentaires",
           "snapshot": {
             "sourceId": "2608.27123",
-            "capturedAt": "2026-08-28T13:31:22.318Z",
+            "capturedAt": "2026-08-28T15:55:54.523Z",
             "metadata": {
-              "popularity": 1,
+              "popularity": 2,
               "engagementCount": 1,
-              "rank": 1,
+              "rank": 3,
               "extra": {
                 "arxivUrl": "https://arxiv.org/abs/2608.27123",
                 "publishedAt": "2026-08-27T00:00:00.000Z",
@@ -744,15 +786,15 @@
         {
           "title": "PILOT in the Loop: Live Self-Improvement for Long-Horizon Agents",
           "url": "https://huggingface.co/papers/2608.26530",
-          "summary": "PILOT in the Loop est une méthode qui permet aux agents d'intelligence artificielle effectuant des tâches à long terme d'apprendre de leurs propres expériences pendant que le processus est en cours. Cette approche permet aux agents d'utiliser les données obtenues pour améliorer instantanément le flux de travail et accroître leurs performances futures.",
+          "summary": "PILOT in the Loop permet aux agents d'intelligence artificielle d'améliorer leurs performances en utilisant instantanément les expériences acquises lors de tâches de longue durée. Contrairement aux modèles traditionnels, cette méthode permet aux agents de corriger leurs erreurs en appliquant les connaissances apprises pendant le processus de travail, et non après la fin de l'opération.",
           "meta": "25 j'aime · 2 commentaires",
           "snapshot": {
             "sourceId": "2608.26530",
-            "capturedAt": "2026-08-28T13:31:22.318Z",
+            "capturedAt": "2026-08-28T15:55:54.523Z",
             "metadata": {
               "popularity": 25,
               "engagementCount": 2,
-              "rank": 2,
+              "rank": 4,
               "extra": {
                 "arxivUrl": "https://arxiv.org/abs/2608.26530",
                 "publishedAt": "2026-08-27T00:00:00.000Z"
@@ -763,60 +805,18 @@
         {
           "title": "Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models",
           "url": "https://huggingface.co/papers/2608.25518",
-          "summary": "Au lieu des méthodes traditionnelles de balayage vidéo utilisées pour entraîner des modèles du monde (world models), des processus de développement de jeux générant des signaux de récompense vérifiables, tels que ceux proposés par les agents basés sur le code, sont suggérés. Cette approche vise à rendre les processus d'apprentissage par renforcement (reinforcement learning) des grands modèles de langage (large language models) plus efficaces en utilisant les mécanismes de rétroaction fournis par le code exécutable.",
-          "meta": "56 j'aime · 1 commentaires",
+          "summary": "Au lieu des données vidéo traditionnelles utilisées pour entraîner les modèles du monde (world models), il est suggéré d'utiliser des trajectoires de données vérifiables créées dans des environnements de développement de jeux. Tout comme pour les agents d'IA écrivant du code, il est soutenu que les environnements de jeu exécutables fournissent des signaux de récompense de haute qualité pour l'apprentissage par renforcement (reinforcement learning).",
+          "meta": "112 j'aime · 1 commentaires",
           "snapshot": {
             "sourceId": "2608.25518",
-            "capturedAt": "2026-08-28T13:31:22.318Z",
+            "capturedAt": "2026-08-28T15:55:54.523Z",
             "metadata": {
-              "popularity": 56,
-              "engagementCount": 1,
-              "rank": 3,
-              "extra": {
-                "arxivUrl": "https://arxiv.org/abs/2608.25518",
-                "publishedAt": "2026-08-26T00:00:00.000Z"
-              }
-            }
-          }
-        },
-        {
-          "title": "Procedura: Agentic 3D Modeling with Procedural Control",
-          "url": "https://huggingface.co/papers/2608.26238",
-          "summary": "Procedura est un cadre d'intelligence artificielle qui utilise la capacité de codage des grands modèles de langage (large language models) pour créer des modèles 3D paramétriques et modifiables à partir d'une seule image. Contrairement aux méthodes traditionnelles, ce système définit les objets comme des blocs de code décomposables et modifiables.",
-          "meta": "5 j'aime · 1 commentaires",
-          "snapshot": {
-            "sourceId": "2608.26238",
-            "capturedAt": "2026-08-28T13:31:22.318Z",
-            "metadata": {
-              "popularity": 5,
-              "engagementCount": 1,
-              "rank": 4,
-              "extra": {
-                "arxivUrl": "https://arxiv.org/abs/2608.26238",
-                "publishedAt": "2026-08-26T00:00:00.000Z",
-                "githubRepo": "https://github.com/SpatiaOS/Procedura",
-                "githubStars": 40
-              }
-            }
-          }
-        },
-        {
-          "title": "Thinking on Shots: Consistent Multi-Shot Video Editing with Agentic Reasoning",
-          "url": "https://huggingface.co/papers/2608.26809",
-          "summary": "La méthode Thinking on Shots utilise des processus de raisonnement agentique (agentic reasoning) pour résoudre les incohérences rencontrées lors du montage de vidéos longues. Cette approche offre la possibilité de monter des vidéos de longue durée avec des commandes multiples en évitant les ruptures visuelles et les erreurs de montage qui surviennent lors de la segmentation des vidéos.",
-          "meta": "4 j'aime · 1 commentaires",
-          "snapshot": {
-            "sourceId": "2608.26809",
-            "capturedAt": "2026-08-28T13:31:22.318Z",
-            "metadata": {
-              "popularity": 4,
+              "popularity": 112,
               "engagementCount": 1,
               "rank": 5,
               "extra": {
-                "arxivUrl": "https://arxiv.org/abs/2608.26809",
-                "publishedAt": "2026-08-27T00:00:00.000Z",
-                "githubRepo": "https://github.com/Wucy0519/MMLVE",
-                "githubStars": 2
+                "arxivUrl": "https://arxiv.org/abs/2608.25518",
+                "publishedAt": "2026-08-26T00:00:00.000Z"
               }
             }
           }
@@ -829,21 +829,21 @@
         {
           "title": "EasyEffects should be part of every Linux distribution to improve laptop speaker sound quality",
           "url": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
-          "summary": "EasyEffects est un outil d'effets audio qui traite les signaux sonores et améliore la qualité des haut-parleurs sur les systèmes Linux. Il est suggéré que ce logiciel soit inclus par défaut dans toutes les distributions Linux afin d'améliorer les performances audio des ordinateurs portables.",
-          "meta": "27 votes · 10 commentaires",
+          "summary": "EasyEffects est un outil d'effets audio qui traite les signaux sonores et améliore la qualité des haut-parleurs sur les systèmes Linux. Il est suggéré que ce logiciel soit inclus par défaut dans toutes les distributions Linux afin de compenser les faibles performances matérielles des ordinateurs portables.",
+          "meta": "37 votes · 14 commentaires",
           "snapshot": {
             "sourceId": "zhnpv1",
-            "capturedAt": "2026-08-28T13:31:22.673Z",
+            "capturedAt": "2026-08-28T15:55:54.725Z",
             "metadata": {
-              "popularity": 27,
-              "engagementCount": 10,
+              "popularity": 37,
+              "engagementCount": 14,
               "rank": 1,
               "discussions": [
                 {
                   "source": "lobsters",
                   "url": "https://lobste.rs/s/zhnpv1/easyeffects_should_be_part_every_linux",
-                  "popularity": 27,
-                  "engagementCount": 10
+                  "popularity": 37,
+                  "engagementCount": 14
                 }
               ],
               "extra": {
@@ -858,66 +858,29 @@
             {
               "source": "lobsters",
               "url": "https://lobste.rs/s/zhnpv1/easyeffects_should_be_part_every_linux",
-              "popularity": 27,
-              "engagementCount": 10
-            }
-          ]
-        },
-        {
-          "title": "Changes to SourceHut's terms of service regarding LLMs",
-          "url": "https://sourcehut.org/blog/2026-08-27-tos-changes-and-llms/",
-          "summary": "La plateforme de développement logiciel SourceHut a mis à jour ses conditions d'utilisation pour interdire le scan non autorisé de son contenu par des grands modèles de langage (large language models). Cette mesure vise à protéger les droits de propriété intellectuelle des utilisateurs et à adopter une position claire contre les processus de collecte de données des entreprises d'intelligence artificielle.",
-          "meta": "183 votes · 164 commentaires",
-          "snapshot": {
-            "sourceId": "iqgrsx",
-            "capturedAt": "2026-08-28T13:31:22.673Z",
-            "metadata": {
-              "popularity": 183,
-              "engagementCount": 164,
-              "rank": 2,
-              "discussions": [
-                {
-                  "source": "lobsters",
-                  "url": "https://lobste.rs/s/iqgrsx/changes_sourcehut_s_terms_service",
-                  "popularity": 183,
-                  "engagementCount": 164
-                }
-              ],
-              "extra": {
-                "tags": [
-                  "vibecoding"
-                ],
-                "createdAt": "2026-08-27T03:37:19.592-05:00"
-              }
-            }
-          },
-          "discussions": [
-            {
-              "source": "lobsters",
-              "url": "https://lobste.rs/s/iqgrsx/changes_sourcehut_s_terms_service",
-              "popularity": 183,
-              "engagementCount": 164
+              "popularity": 37,
+              "engagementCount": 14
             }
           ]
         },
         {
           "title": "OpenOffice does not print on Tuesdays (2009)",
           "url": "https://beza1e1.tuxen.de/lore/print_on_tuesday.html",
-          "summary": "Cette légende technique de 2009, selon laquelle le logiciel OpenOffice ne permettait pas d'imprimer le mardi, illustre comment les bugs logiciels peuvent se transformer en légendes urbaines. Des analyses techniques ont révélé que cette situation ne provenait pas d'une erreur de calendrier, mais d'une incompatibilité avec le pilote d'imprimante.",
-          "meta": "12 votes · 2 commentaires",
+          "summary": "L'erreur d'impression rencontrée dans une version spécifique du logiciel bureautique open source OpenOffice était due à une erreur logique qui empêchait le logiciel de fonctionner uniquement les mardis. Cette situation montre que dans les bases de code complexes, des erreurs peuvent survenir en raison de conditions qui semblent inattendues et aléatoires.",
+          "meta": "25 votes · 4 commentaires",
           "snapshot": {
             "sourceId": "im3eeh",
-            "capturedAt": "2026-08-28T13:31:22.673Z",
+            "capturedAt": "2026-08-28T15:55:54.725Z",
             "metadata": {
-              "popularity": 12,
-              "engagementCount": 2,
-              "rank": 3,
+              "popularity": 25,
+              "engagementCount": 4,
+              "rank": 2,
               "discussions": [
                 {
                   "source": "lobsters",
                   "url": "https://lobste.rs/s/im3eeh/openoffice_does_not_print_on_tuesdays",
-                  "popularity": 12,
-                  "engagementCount": 2
+                  "popularity": 25,
+                  "engagementCount": 4
                 }
               ],
               "extra": {
@@ -932,8 +895,46 @@
             {
               "source": "lobsters",
               "url": "https://lobste.rs/s/im3eeh/openoffice_does_not_print_on_tuesdays",
-              "popularity": 12,
-              "engagementCount": 2
+              "popularity": 25,
+              "engagementCount": 4
+            }
+          ]
+        },
+        {
+          "title": "Quest for eternal dock on Wayland - lambdock (C + GTK4 + Lisp GNU Guile Scheme)",
+          "url": "https://jointhefreeworld.org/blog/articles/gnu-linux/quest-for-eternal-dock/index.html",
+          "summary": "Lambdock est un outil open source qui vise à offrir un lanceur d'applications persistant sur le serveur d'affichage Wayland. Développé en utilisant C, la bibliothèque d'interface GTK4 et le langage de programmation GNU Guile Scheme, ce projet permet une expérience de barre des tâches personnalisable dans les environnements de bureau.",
+          "meta": "14 votes · 0 commentaires",
+          "snapshot": {
+            "sourceId": "lvspri",
+            "capturedAt": "2026-08-28T15:55:54.725Z",
+            "metadata": {
+              "popularity": 14,
+              "engagementCount": 0,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/lvspri/quest_for_eternal_dock_on_wayland",
+                  "popularity": 14,
+                  "engagementCount": 0
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "c",
+                  "lisp"
+                ],
+                "createdAt": "2026-08-28T05:17:48.604-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/lvspri/quest_for_eternal_dock_on_wayland",
+              "popularity": 14,
+              "engagementCount": 0
             }
           ]
         }
@@ -947,67 +948,67 @@
   "glossary": [
     {
       "term": "agent skill",
-      "explanation": "L'ensemble des capacités spécifiques dont dispose une intelligence artificielle pour accomplir une tâche donnée."
+      "explanation": "La capacité spécifique qu'un logiciel d'intelligence artificielle possède pour accomplir une tâche donnée."
     },
     {
-      "term": "library",
-      "explanation": "Une bibliothèque prête à l'emploi contenant des fragments de code pré-écrits pour faciliter le travail des développeurs."
+      "term": "skills",
+      "explanation": "L'ensemble des compétences acquises par un logiciel ou un système pour pouvoir effectuer certaines opérations."
     },
     {
       "term": "plugins",
-      "explanation": "De petits programmes utilitaires ajoutés ultérieurement à un logiciel pour lui conférer de nouvelles fonctionnalités."
+      "explanation": "Petits morceaux de logiciels ajoutés ultérieurement au programme principal pour lui conférer de nouvelles fonctionnalités."
+    },
+    {
+      "term": "spatial intelligence",
+      "explanation": "La capacité des ordinateurs à percevoir et à interpréter la position et le mouvement des objets dans le monde physique."
     },
     {
       "term": "knowledge graph",
-      "explanation": "Un système de base de données qui visualise les relations entre les informations sur une structure en réseau."
+      "explanation": "Structure de données qui présente les relations entre les informations en les reliant comme une carte réseau."
     },
     {
       "term": "Graph RAG",
-      "explanation": "Une méthode d'interrogation des informations via une structure en réseau pour permettre à l'intelligence artificielle de mieux comprendre les relations complexes."
+      "explanation": "Méthode par laquelle l'intelligence artificielle accède à des informations plus précises en utilisant les relations entre des données interconnectées lors de la génération de réponses."
     },
     {
       "term": "best practices",
-      "explanation": "Les méthodes de travail reconnues dans le secteur comme étant les plus efficaces et produisant les résultats les plus fiables."
+      "explanation": "Méthodes reconnues qui donnent le résultat le plus efficace et sans erreur lors de l'exécution d'une tâche."
+    },
+    {
+      "term": "production pipeline",
+      "explanation": "Série de processus automatisés qu'un logiciel traverse après avoir été développé et testé, jusqu'à ce qu'il soit mis à la disposition de l'utilisateur final."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Diverses compétences spécialisées utilisées par les assistants dotés d'intelligence artificielle pour accomplir des tâches complexes."
+    },
+    {
+      "term": "code snippets",
+      "explanation": "Courts morceaux de code prêts à l'emploi utilisés pour ajouter rapidement les fonctionnalités nécessaires lors de la programmation."
     },
     {
       "term": "plugin specification",
-      "explanation": "L'ensemble des règles techniques qu'une extension doit respecter pour fonctionner de manière compatible avec le logiciel principal."
+      "explanation": "Les règles techniques et les normes qu'une extension doit respecter pour fonctionner de manière compatible avec le programme principal."
     },
     {
       "term": "prompt as code",
-      "explanation": "La gestion des instructions données à une intelligence artificielle par le biais d'un versionnage, similaire à celui du code logiciel."
-    },
-    {
-      "term": "data plane",
-      "explanation": "La voie principale par laquelle transitent les données réelles des utilisateurs sur un réseau."
+      "explanation": "L'enregistrement des commandes données à une intelligence artificielle en les versionnant et en les gérant comme du code logiciel."
     },
     {
       "term": "control plane",
-      "explanation": "La section administrative qui décide de la manière dont le trafic réseau doit être géré et dirigé."
+      "explanation": "La couche de gestion centrale qui régit le fonctionnement d'un système et contrôle le trafic ainsi que les paramètres."
     },
     {
       "term": "NSA",
-      "explanation": "L'agence de sécurité nationale américaine qui établit des normes en matière de sécurité Internet et de chiffrement."
+      "explanation": "L'agence gouvernementale américaine qui collecte des renseignements pour la sécurité nationale en surveillant les réseaux Internet et de communication."
     },
     {
       "term": "software reverse engineering",
-      "explanation": "Le processus d'analyse inverse du code pour comprendre le fonctionnement d'un logiciel prêt à l'emploi."
+      "explanation": "Le processus d'analyse inverse du code ou de la structure d'un logiciel prêt à l'emploi pour comprendre son fonctionnement."
     },
     {
       "term": "foundation models",
-      "explanation": "Modèles d'intelligence artificielle fondamentaux entraînés sur de très vastes ensembles de données et utilisables pour de nombreuses tâches différentes."
-    },
-    {
-      "term": "LLM",
-      "explanation": "Systèmes d'intelligence artificielle avancés entraînés à comprendre, interpréter et générer du texte en langage humain."
-    },
-    {
-      "term": "coding agents",
-      "explanation": "Assistants d'intelligence artificielle capables d'écrire du code logiciel, de déboguer et de développer des projets de manière autonome."
-    },
-    {
-      "term": "Model Context Protocol",
-      "explanation": "Règle de connexion permettant aux modèles d'intelligence artificielle de communiquer de manière standardisée avec différentes sources de données."
+      "explanation": "Des modèles d'intelligence artificielle massifs entraînés sur de très vastes ensembles de données, servant de base à diverses tâches telles que la rédaction de textes ou la création d'images."
     }
   ]
 }
