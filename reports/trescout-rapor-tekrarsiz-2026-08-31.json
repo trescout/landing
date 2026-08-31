@@ -1,0 +1,727 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-08-31",
+  "capturedAt": "2026-08-31T10:53:23.680Z",
+  "editorial": "Bu rapor, son 30 gündeki normal raporlarda yer alan kayıtları tekrar etmeden bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "THU-MAIC/OpenMAIC",
+          "url": "https://github.com/THU-MAIC/OpenMAIC",
+          "summary": "OpenMAIC, çoklu yapay zekâ ajanı etkileşimlerini tek tıkla simüle eden sürükleyici bir öğrenme platformu. TypeScript ile geliştirilen bu açık kaynaklı araç, kullanıcıların farklı ajan modelleriyle etkileşimli bir sınıf ortamı deneyimlemesini sağlıyor.",
+          "meta": "TypeScript · ★ 25.572 · +1.370 bugün",
+          "snapshot": {
+            "sourceId": "THU-MAIC/OpenMAIC",
+            "capturedAt": "2026-08-31T10:53:24.911Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 25572,
+              "engagementCount": 1370,
+              "rank": 1,
+              "extra": {
+                "starsToday": 1370
+              }
+            }
+          }
+        },
+        {
+          "title": "k1tbyte/Wand-Enhancer",
+          "url": "https://github.com/k1tbyte/Wand-Enhancer",
+          "summary": "Wand-Enhancer, oyun modlama aracı Wand (WeMod) için geliştirilmiş bir kullanıcı deneyimi ve birlikte çalışabilirlik eklentisidir. C# diliyle yazılan bu yazılım, mevcut modlama platformunun işlevselliğini ve arayüz etkileşimini geliştirmeyi hedefler.",
+          "meta": "C# · ★ 23.091 · +718 bugün",
+          "snapshot": {
+            "sourceId": "k1tbyte/Wand-Enhancer",
+            "capturedAt": "2026-08-31T10:53:24.911Z",
+            "metadata": {
+              "language": "C#",
+              "popularity": 23091,
+              "engagementCount": 718,
+              "rank": 4,
+              "extra": {
+                "starsToday": 718
+              }
+            }
+          },
+          "returning": true
+        },
+        {
+          "title": "majd/ipatool",
+          "url": "https://github.com/majd/ipatool",
+          "summary": "Majd tarafından geliştirilen ipatool, Apple uygulama mağazasından iOS, iPadOS, tvOS ve visionOS için uygulama paketlerini (IPA dosyaları) aramanıza ve indirmenize olanak tanıyan bir komut satırı aracıdır. Go diliyle yazılan bu araç, uygulama dosyalarına doğrudan erişim sağlayarak yazılım geliştiricilerin ve araştırmacıların paket yönetimi süreçlerini kolaylaştırır.",
+          "meta": "Go · ★ 10.388 · +58 bugün",
+          "snapshot": {
+            "sourceId": "majd/ipatool",
+            "capturedAt": "2026-08-31T10:53:24.911Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 10388,
+              "engagementCount": 58,
+              "rank": 5,
+              "extra": {
+                "starsToday": 58
+              }
+            }
+          }
+        },
+        {
+          "title": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "summary": "MiniMind, 64 milyon parametreli bir büyük dil modelini (large language model) sıfırdan ve iki saat gibi kısa bir sürede eğitmeyi sağlayan bir Python projesi. Donanım kaynakları kısıtlı olan kullanıcılar için yapay zekâ modellerinin çalışma prensiplerini anlamaya yönelik pratik bir öğrenme ortamı sunuyor.",
+          "meta": "Python · ★ 55.708 · +472 bugün",
+          "snapshot": {
+            "sourceId": "jingyaogong/minimind",
+            "capturedAt": "2026-08-31T10:53:24.911Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 55708,
+              "engagementCount": 472,
+              "rank": 6,
+              "extra": {
+                "starsToday": 472
+              }
+            }
+          }
+        },
+        {
+          "title": "Osmantic/ODS",
+          "url": "https://github.com/Osmantic/ODS",
+          "summary": "Osmantic/ODS, kişisel bilgisayarları büyük dil modeli çıkarımı (LLM inference), ses işleme ve görsel oluşturma gibi yeteneklere sahip bir yapay zekâ sunucusuna dönüştüren açık kaynaklı bir platformdur. Yazılım, yerel donanım üzerinde çalışan arama destekli üretim (RAG) ve akıllı ajan iş akışları oluşturulmasına olanak tanır.",
+          "meta": "Python · ★ 5.181 · +331 bugün",
+          "snapshot": {
+            "sourceId": "Osmantic/ODS",
+            "capturedAt": "2026-08-31T10:53:24.911Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 5181,
+              "engagementCount": 331,
+              "rank": 7,
+              "extra": {
+                "starsToday": 331
+              }
+            }
+          }
+        },
+        {
+          "title": "checkstyle/checkstyle",
+          "url": "https://github.com/checkstyle/checkstyle",
+          "summary": "Checkstyle, Java programcılarının belirlenen kodlama standartlarına uygun yazılım geliştirmesine yardımcı olan bir analiz aracıdır. Google Java Stil Rehberi (Google Java Style Guide) ve Sun Kod Kuralları (Sun Code Conventions) gibi standartları destekleyerek kod kalitesini denetler.",
+          "meta": "Java · ★ 9.288 · +115 bugün",
+          "snapshot": {
+            "sourceId": "checkstyle/checkstyle",
+            "capturedAt": "2026-08-31T10:53:24.911Z",
+            "metadata": {
+              "language": "Java",
+              "popularity": 9288,
+              "engagementCount": 115,
+              "rank": 8,
+              "extra": {
+                "starsToday": 115
+              }
+            }
+          }
+        },
+        {
+          "title": "kaifcodec/user-scanner",
+          "url": "https://github.com/kaifcodec/user-scanner",
+          "summary": "Python ile geliştirilen User-Scanner, tek bir e-posta adresi veya kullanıcı adı üzerinden 465'ten fazla farklı kaynaktan veri toplayan bir açık kaynak istihbarat (OSINT) aracıdır. Güvenlik araştırmacıları ve dijital iz takibi yapanlar için tasarlanan yazılım, geniş bir tarama vektörü yelpazesiyle derinlemesine veri analizi sunar.",
+          "meta": "Python · ★ 3.910 · +462 bugün",
+          "snapshot": {
+            "sourceId": "kaifcodec/user-scanner",
+            "capturedAt": "2026-08-31T10:53:24.911Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 3910,
+              "engagementCount": 462,
+              "rank": 11,
+              "extra": {
+                "starsToday": 462
+              }
+            }
+          }
+        },
+        {
+          "title": "every-app/open-seo",
+          "url": "https://github.com/every-app/open-seo",
+          "summary": "Open SEO, arama motoru optimizasyonu (SEO) analizi yapan ücretli araçlara (Semrush, Ahrefs) açık kaynaklı bir alternatif sunuyor. TypeScript ile geliştirilen bu yazılım, web sitesi performansını ve arama görünürlüğünü takip etmek için gerekli temel verileri ücretsiz olarak sağlıyor.",
+          "meta": "TypeScript · ★ 15.451 · +469 bugün",
+          "snapshot": {
+            "sourceId": "every-app/open-seo",
+            "capturedAt": "2026-08-31T10:53:24.911Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 15451,
+              "engagementCount": 469,
+              "rank": 12,
+              "extra": {
+                "starsToday": 469
+              }
+            }
+          },
+          "returning": true
+        },
+        {
+          "title": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "summary": "Heretic, dil modellerindeki sansür mekanizmalarını otomatik olarak kaldıran bir Python aracıdır. Büyük dil modellerinin (LLM) kısıtlamalarını aşarak daha geniş bir yanıt yelpazesi üretmelerini sağlar.",
+          "meta": "Python · ★ 29.400 · +369 bugün",
+          "snapshot": {
+            "sourceId": "p-e-w/heretic",
+            "capturedAt": "2026-08-31T10:53:24.911Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 29400,
+              "engagementCount": 369,
+              "rank": 13,
+              "extra": {
+                "starsToday": 369
+              }
+            }
+          },
+          "returning": true
+        },
+        {
+          "title": "handsomestWei/patent-disclosure-skill",
+          "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+          "summary": "Patent disclosure skill, patent başvurularında buluş noktalarının belirlenmesi ve teknik açıklama metinlerinin (patent disclosure) hazırlanması süreçlerini otomatikleştiren bir Python aracıdır. Patentlerin anlaşılır şekilde yorumlanması, politika değişikliklerinin takibi ve inceleme süreçlerine yönelik yanıtların oluşturulması için destek sağlar.",
+          "meta": "Python · ★ 6.058 · +62 bugün",
+          "snapshot": {
+            "sourceId": "handsomestWei/patent-disclosure-skill",
+            "capturedAt": "2026-08-31T10:53:24.911Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 6058,
+              "engagementCount": 62,
+              "rank": 14,
+              "extra": {
+                "starsToday": 62
+              }
+            }
+          }
+        },
+        {
+          "title": "pollen-robotics/microduck_rl",
+          "url": "https://github.com/pollen-robotics/microduck_rl",
+          "summary": "Pollen Robotics tarafından geliştirilen microduck_rl, robotik platformu Microduck için pekiştirmeli öğrenme (reinforcement learning) eğitim ortamları sunuyor. Python tabanlı bu kütüphane, fizik tabanlı simülasyon aracı mjlab üzerinde robotik kontrol algoritmalarının geliştirilmesini kolaylaştırıyor.",
+          "meta": "Python · ★ 1.001 · +168 bugün",
+          "snapshot": {
+            "sourceId": "pollen-robotics/microduck_rl",
+            "capturedAt": "2026-08-31T10:53:24.911Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 1001,
+              "engagementCount": 168,
+              "rank": 16,
+              "extra": {
+                "starsToday": 168
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Creepy Crawlies",
+          "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+          "summary": "İnternet üzerindeki web tarayıcıları (web crawlers), veri toplama süreçlerinde etik sınırları ve sunucu yüklerini zorlayan yöntemler kullanıyor. Bu durum, web sitelerinin kaynaklarını tüketen ve gizlilik endişeleri yaratan otomatik bot trafiğinin yönetimi konusundaki tartışmaları tetikliyor.",
+          "meta": "1.185 oy · 594 yorum",
+          "snapshot": {
+            "sourceId": "49491791",
+            "capturedAt": "2026-08-31T10:53:23.926Z",
+            "metadata": {
+              "popularity": 1185,
+              "engagementCount": 594,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49491791",
+                  "popularity": 1185,
+                  "engagementCount": 594
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "zdw",
+                "createdAt": "2026-08-29T17:49:01Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49491791"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49491791",
+              "popularity": 1185,
+              "engagementCount": 594
+            }
+          ]
+        },
+        {
+          "title": "“I just chose words carefully”",
+          "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+          "summary": "Yapay zekâ modellerinin çıktılarını iyileştirmek için kullanılan istem mühendisliği (prompt engineering), karmaşık tekniklerden ziyade dilin hassas kullanımına dayanıyor. İstenen sonuçları elde etmek için modelin mantığını yönlendiren net ve seçici kelimeler kullanmanın, teknik karmaşıklıktan daha etkili olduğu savunuluyor.",
+          "meta": "834 oy · 214 yorum",
+          "snapshot": {
+            "sourceId": "49503601",
+            "capturedAt": "2026-08-31T10:53:23.926Z",
+            "metadata": {
+              "popularity": 834,
+              "engagementCount": 214,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49503601",
+                  "popularity": 834,
+                  "engagementCount": 214
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "zdw",
+                "createdAt": "2026-08-30T22:49:48Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49503601"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49503601",
+              "popularity": 834,
+              "engagementCount": 214
+            }
+          ]
+        },
+        {
+          "title": "Haiku R1/beta6 has been released",
+          "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+          "summary": "BeOS işletim sisteminin açık kaynaklı devamı olan Haiku, R1/beta6 sürümüyle güncellendi. Yeni sürüm, donanım sürücüsü desteğini genişletirken sistem kararlılığını artıran hata düzeltmeleri sunuyor.",
+          "meta": "326 oy · 92 yorum",
+          "snapshot": {
+            "sourceId": "49499867",
+            "capturedAt": "2026-08-31T10:53:23.926Z",
+            "metadata": {
+              "popularity": 326,
+              "engagementCount": 92,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49499867",
+                  "popularity": 326,
+                  "engagementCount": 92
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "metrofun",
+                "createdAt": "2026-08-30T16:01:10Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49499867"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49499867",
+              "popularity": 326,
+              "engagementCount": 92
+            }
+          ]
+        },
+        {
+          "title": "Hacking IKEA Furniture",
+          "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+          "summary": "IKEA mobilyalarını kişiselleştirme ve işlevlerini değiştirme pratiği olan IKEA hackleme, standart ürünleri kullanıcı ihtiyaçlarına göre yeniden tasarlamayı amaçlıyor. Bu yaklaşım, hazır mobilya parçalarını farklı amaçlarla kullanarak özgün ev eşyaları üretme imkânı sunuyor.",
+          "meta": "324 oy · 236 yorum",
+          "snapshot": {
+            "sourceId": "49497810",
+            "capturedAt": "2026-08-31T10:53:23.926Z",
+            "metadata": {
+              "popularity": 324,
+              "engagementCount": 236,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49497810",
+                  "popularity": 324,
+                  "engagementCount": 236
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "greenlightning",
+                "createdAt": "2026-08-30T11:39:43Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49497810"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49497810",
+              "popularity": 324,
+              "engagementCount": 236
+            }
+          ]
+        },
+        {
+          "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+          "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+          "summary": "Güvenlik odaklı işletim sistemi QubesOS içinde, sanal makineler arası veri kopyalama (copy-to-VM) sürecindeki hata raporlama mekanizması üzerinden keyfi kod çalıştırma (arbitrary code execution) açığı tespit edildi. Bu zafiyet, saldırganların sistemin izolasyon katmanlarını aşarak yetkisiz işlemler gerçekleştirmesine olanak tanıyor.",
+          "meta": "238 oy · 95 yorum",
+          "snapshot": {
+            "sourceId": "49496918",
+            "capturedAt": "2026-08-31T10:53:23.926Z",
+            "metadata": {
+              "popularity": 238,
+              "engagementCount": 95,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49496918",
+                  "popularity": 238,
+                  "engagementCount": 95
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "vntok",
+                "createdAt": "2026-08-30T08:51:39Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49496918"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49496918",
+              "popularity": 238,
+              "engagementCount": 95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
+          "summary": "Unsloth tarafından sunulan Qwen3.8-Flash-Next-GGUF, görsel ve metin verilerini işleyebilen çok modlu (multimodal) bir yapay zekâ modeli. Model, düşük donanım gereksinimleriyle çalışabilen sıkıştırılmış dosya formatı (GGUF) sayesinde yerel cihazlarda hızlı çıkarım yapılmasına olanak tanıyor.",
+          "meta": "♥ 616 · 373.029 indirme",
+          "snapshot": {
+            "sourceId": "unsloth/Qwen3.8-Flash-Next-GGUF",
+            "capturedAt": "2026-08-31T10:53:23.816Z",
+            "metadata": {
+              "popularity": 616,
+              "engagementCount": 373029,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 604,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "gguf",
+                  "unsloth",
+                  "image-text-to-text",
+                  "base_model:Qwen/Qwen3.8-Flash-Next",
+                  "base_model:quantized:Qwen/Qwen3.8-Flash-Next",
+                  "license:other",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "GGSS: Geodesic-Gated Spherical Steering for Inference-Time Debiasing of Generative Vision-Language Models",
+          "url": "https://huggingface.co/papers/2608.25375",
+          "summary": "Geodesic-Gated Spherical Steering (GGSS), üretken görsel-dil modellerinin (generative vision-language models) çıktı üretirken sergilediği demografik önyargıları azaltan bir yöntemdir. Bu teknik, modelin çalışma anında (inference-time) normu koruyarak karşı olgusal bir önyargı alt uzayı keşfetmesini sağlar.",
+          "meta": "2 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2608.25375",
+            "capturedAt": "2026-08-31T10:53:23.828Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.25375",
+                "publishedAt": "2026-08-26T04:58:40.000Z",
+                "githubRepo": "https://github.com/dukesun99/GGSS",
+                "githubStars": 1
+              }
+            }
+          }
+        },
+        {
+          "title": "Language Chain in Alignment: Cross-lingual Ranking Preference Optimization",
+          "url": "https://huggingface.co/papers/2608.23149",
+          "summary": "Diller arası sıralama tercihi optimizasyonu (Cross-lingual Ranking Preference Optimization), büyük dil modellerinin (large language models) İngilizce ağırlıklı veri setleri dışındaki dillerde daha iyi performans göstermesini sağlıyor. Bu yöntem, İngilizce verilerdeki tercih bilgilerini hedef dile aktararak modellerin farklı dillerdeki hizalama (alignment) sürecini iyileştiriyor.",
+          "meta": "2 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2608.23149",
+            "capturedAt": "2026-08-31T10:53:23.828Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.23149",
+                "publishedAt": "2026-08-24T11:54:36.000Z",
+                "githubRepo": "https://github.com/dltmddbs100/CRPO",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Agentic Artifact Creation: Systems, Evaluation, Principles, and Opportunities",
+          "url": "https://huggingface.co/papers/2608.28122",
+          "summary": "Yapay zekâ sistemlerinin doğal dilden metin, kod veya görsel gibi somut çıktılar oluşturması, üretken yapay zekâ (generative AI) süreçlerini taslak hazırlamaktan nihai ürün teslimine taşıyor. Ajan tabanlı eser oluşturma (agentic artifact creation) yaklaşımı, sistemin kendi çıktılarını gözlemleyerek süreci yinelemeli şekilde iyileştirmesi ve güvenilir sonuçlar üretmesi üzerine odaklanıyor.",
+          "meta": "41 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2608.28122",
+            "capturedAt": "2026-08-31T10:53:23.828Z",
+            "metadata": {
+              "popularity": 41,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.28122",
+                "publishedAt": "2026-08-28T00:00:00.000Z",
+                "githubRepo": "https://github.com/GeminiLight/awesome-agentic-artifact-creation",
+                "githubStars": 9
+              }
+            }
+          }
+        },
+        {
+          "title": "DART-SD: Diamond-topology Aware Retrieval and Tuning for Self-Distillation of Multi-Turn Tool-Calling Agents",
+          "url": "https://huggingface.co/papers/2608.18524",
+          "summary": "DART-SD, çok adımlı araç kullanma (tool-calling) yeteneğine sahip yapay zekâ ajanları için geliştirilen bir eğitim yöntemidir. Yöntem, karmaşık görevlerdeki farklı çözüm yollarını elmas kafes yapısıyla modelleyerek, geleneksel doğrusal eğitim süreçlerinde yaşanan performans kayıplarını azaltmayı hedefler.",
+          "meta": "56 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2608.18524",
+            "capturedAt": "2026-08-31T10:53:23.828Z",
+            "metadata": {
+              "popularity": 56,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.18524",
+                "publishedAt": "2026-08-19T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Locate Anything in Videos: Rethinking Efficient Generative Spatio-Temporal Video Grounding",
+          "url": "https://huggingface.co/papers/2608.28192",
+          "summary": "Paralel Tüp Kod çözme (Parallel Tube Decoding), videolardaki nesne konumlandırma işlemlerini zamansal bloklara ayırarak işlem süresini kısaltıyor. Bu yöntem, geleneksel çok modlu büyük dil modellerinin (multimodal large language models) sıralı işlem yaparken karşılaştığı gecikme ve hata birikimi sorunlarını çözmeyi hedefliyor.",
+          "meta": "11 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2608.28192",
+            "capturedAt": "2026-08-31T10:53:23.828Z",
+            "metadata": {
+              "popularity": 11,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.28192",
+                "publishedAt": "2026-08-28T00:00:00.000Z",
+                "githubRepo": "https://github.com/mbzuai-oryx/ParallelTubeDecoding",
+                "githubStars": 5
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Omarchy: Any User Process Can Escalate to Root",
+          "url": "https://0xcc.io/posts/omarchy-root-creds/",
+          "summary": "Omarchy, Linux işletim sistemlerinde kullanıcı süreçlerinin kök kullanıcı (root) yetkilerine yükselmesine izin veren bir güvenlik açığıdır. Bu zafiyet, sistem üzerindeki kısıtlı yetkilere sahip süreçlerin yönetici erişimi elde etmesine olanak tanır.",
+          "meta": "87 oy · 26 yorum",
+          "snapshot": {
+            "sourceId": "bxihn3",
+            "capturedAt": "2026-08-31T10:53:24.240Z",
+            "metadata": {
+              "popularity": 87,
+              "engagementCount": 26,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/bxihn3/omarchy_any_user_process_can_escalate",
+                  "popularity": 87,
+                  "engagementCount": 26
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "security"
+                ],
+                "createdAt": "2026-08-30T13:11:09.248-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/bxihn3/omarchy_any_user_process_can_escalate",
+              "popularity": 87,
+              "engagementCount": 26
+            }
+          ]
+        },
+        {
+          "title": "But where does taste come from?",
+          "url": "https://dustycloud.org/blog/but-where-does-taste-come-from/",
+          "summary": "Kullanıcıların dijital içerik tercihlerini belirleyen zevk mekanizmalarının kökeni, algoritmik öneri sistemlerinin ötesinde bireysel deneyimler ve topluluk etkileşimleriyle şekilleniyor. Bu süreç, kişisel beğenilerin oluşumunda teknolojik filtrelerin rolünü sorgularken, özgün içerik keşfinin sosyal ve kültürel bağlamını vurguluyor.",
+          "meta": "49 oy · 7 yorum",
+          "snapshot": {
+            "sourceId": "9naffr",
+            "capturedAt": "2026-08-31T10:53:24.240Z",
+            "metadata": {
+              "popularity": 49,
+              "engagementCount": 7,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/9naffr/where_does_taste_come_from",
+                  "popularity": 49,
+                  "engagementCount": 7
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vibecoding"
+                ],
+                "createdAt": "2026-08-30T08:27:41.534-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/9naffr/where_does_taste_come_from",
+              "popularity": 49,
+              "engagementCount": 7
+            }
+          ]
+        },
+        {
+          "title": "The U.S. is more than just the US (according to the ISO)",
+          "url": "https://trevmex.com/post/826439929093636096/the-us-is-more-than-just-the-us-according-to",
+          "summary": "Uluslararası Standartlar Teşkilatı (ISO), ülke kodları standardında Amerika Birleşik Devletleri'ni (US) sadece ana karasıyla değil, dış bölgeleriyle birlikte bir bütün olarak tanımlıyor. Bu durum, yazılım geliştiricilerin konum verilerini işlerken kullandığı ülke kodlarının coğrafi kapsamını teknik standartlar üzerinden yeniden değerlendirmesini gerektiriyor.",
+          "meta": "7 oy · 3 yorum",
+          "snapshot": {
+            "sourceId": "ngqpa1",
+            "capturedAt": "2026-08-31T10:53:24.240Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 3,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/ngqpa1/u_s_is_more_than_just_us_according_iso",
+                  "popularity": 7,
+                  "engagementCount": 3
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "programming"
+                ],
+                "createdAt": "2026-08-31T00:38:25.189-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ngqpa1/u_s_is_more_than_just_us_according_iso",
+              "popularity": 7,
+              "engagementCount": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "WeMod",
+      "explanation": "Bilgisayar oyunlarında hile yapmayı veya oyun ayarlarını değiştirmeyi kolaylaştıran bir yazılım platformu."
+    },
+    {
+      "term": "large language model",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "LLM inference",
+      "explanation": "Eğitilmiş bir yapay zekâ modelinin kendisine verilen bir soruya yanıt üretme süreci."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Yapay zekânın güncel veya özel belgelerden bilgi çekerek daha doğru cevaplar vermesini sağlayan bir yöntem."
+    },
+    {
+      "term": "Google Java Style Guide",
+      "explanation": "Google tarafından belirlenen, Java dilinde yazılan kodların düzenli ve okunabilir olması için kullanılan kurallar bütünü."
+    },
+    {
+      "term": "Sun Code Conventions",
+      "explanation": "Java dilini geliştiren şirket tarafından oluşturulan, kod yazarken uyulması önerilen standartlar dizisi."
+    },
+    {
+      "term": "OSINT",
+      "explanation": "İnternette herkese açık olan kaynaklardan bilgi toplayıp analiz etme yöntemi."
+    },
+    {
+      "term": "SEO",
+      "explanation": "Web sitelerinin arama motorlarında daha üst sıralarda çıkması için yapılan iyileştirme çalışmaları."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Devasa miktarda metin verisiyle eğitilmiş, insan gibi konuşabilen yapay zekâ sistemleri."
+    },
+    {
+      "term": "patent disclosure",
+      "explanation": "Bir buluşun yasal olarak korunabilmesi için tüm detaylarının kamuya veya ilgili kuruma açıklanması."
+    },
+    {
+      "term": "reinforcement learning",
+      "explanation": "Yapay zekânın deneme yanılma yoluyla ve ödül mekanizmasını kullanarak doğru kararlar vermeyi öğrenmesi."
+    },
+    {
+      "term": "web crawlers",
+      "explanation": "İnternetteki sayfaları otomatik olarak gezip verileri kaydeden yazılım botları."
+    },
+    {
+      "term": "prompt engineering",
+      "explanation": "Yapay zekâdan en iyi ve en doğru sonucu alabilmek için ona verilen komutları optimize etme sanatı."
+    }
+  ]
+}

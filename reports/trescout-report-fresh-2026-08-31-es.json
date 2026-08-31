@@ -1,0 +1,727 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-08-31",
+  "capturedAt": "2026-08-31T10:53:23.680Z",
+  "editorial": "Este informe contiene las tendencias que han destacado por primera vez hoy, sin repetir los registros que aparecen en los informes normales de los últimos 30 días.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "THU-MAIC/OpenMAIC",
+          "url": "https://github.com/THU-MAIC/OpenMAIC",
+          "summary": "OpenMAIC es una plataforma de aprendizaje inmersiva que simula interacciones entre múltiples agentes de inteligencia artificial con un solo clic. Desarrollada con TypeScript, esta herramienta de código abierto permite a los usuarios experimentar un entorno de aula interactivo con diferentes modelos de agentes.",
+          "meta": "TypeScript · ★ 25.572 · +1.370 hoy",
+          "snapshot": {
+            "sourceId": "THU-MAIC/OpenMAIC",
+            "capturedAt": "2026-08-31T10:53:24.911Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 25572,
+              "engagementCount": 1370,
+              "rank": 1,
+              "extra": {
+                "starsToday": 1370
+              }
+            }
+          }
+        },
+        {
+          "title": "k1tbyte/Wand-Enhancer",
+          "url": "https://github.com/k1tbyte/Wand-Enhancer",
+          "summary": "Wand-Enhancer es un complemento de experiencia de usuario e interoperabilidad desarrollado para la herramienta de modificación de juegos Wand (WeMod). Escrito en el lenguaje C#, este software tiene como objetivo mejorar la funcionalidad y la interacción de la interfaz de la plataforma de modificación existente.",
+          "meta": "C# · ★ 23.091 · +718 hoy",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "k1tbyte/Wand-Enhancer",
+            "capturedAt": "2026-08-31T10:53:24.911Z",
+            "metadata": {
+              "language": "C#",
+              "popularity": 23091,
+              "engagementCount": 718,
+              "rank": 4,
+              "extra": {
+                "starsToday": 718
+              }
+            }
+          }
+        },
+        {
+          "title": "majd/ipatool",
+          "url": "https://github.com/majd/ipatool",
+          "summary": "ipatool, desarrollado por Majd, es una herramienta de línea de comandos que permite buscar y descargar paquetes de aplicaciones (archivos IPA) para iOS, iPadOS, tvOS y visionOS desde la tienda de aplicaciones de Apple. Escrita en el lenguaje Go, esta herramienta facilita los procesos de gestión de paquetes para desarrolladores de software e investigadores al proporcionar acceso directo a los archivos de las aplicaciones.",
+          "meta": "Go · ★ 10.388 · +58 hoy",
+          "snapshot": {
+            "sourceId": "majd/ipatool",
+            "capturedAt": "2026-08-31T10:53:24.911Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 10388,
+              "engagementCount": 58,
+              "rank": 5,
+              "extra": {
+                "starsToday": 58
+              }
+            }
+          }
+        },
+        {
+          "title": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "summary": "MiniMind es un proyecto de Python que permite entrenar un modelo de lenguaje grande (large language model) de 64 millones de parámetros desde cero y en tan solo dos horas. Ofrece un entorno de aprendizaje práctico para que los usuarios con recursos de hardware limitados comprendan los principios de funcionamiento de los modelos de inteligencia artificial.",
+          "meta": "Python · ★ 55.708 · +472 hoy",
+          "snapshot": {
+            "sourceId": "jingyaogong/minimind",
+            "capturedAt": "2026-08-31T10:53:24.911Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 55708,
+              "engagementCount": 472,
+              "rank": 6,
+              "extra": {
+                "starsToday": 472
+              }
+            }
+          }
+        },
+        {
+          "title": "Osmantic/ODS",
+          "url": "https://github.com/Osmantic/ODS",
+          "summary": "Osmantic/ODS es una plataforma de código abierto que convierte computadoras personales en un servidor de inteligencia artificial con capacidades como inferencia de modelos de lenguaje grandes (LLM inference), procesamiento de voz y generación de imágenes. El software permite la creación de generación aumentada por recuperación (RAG) y flujos de trabajo de agentes inteligentes que se ejecutan en hardware local.",
+          "meta": "Python · ★ 5.181 · +331 hoy",
+          "snapshot": {
+            "sourceId": "Osmantic/ODS",
+            "capturedAt": "2026-08-31T10:53:24.911Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 5181,
+              "engagementCount": 331,
+              "rank": 7,
+              "extra": {
+                "starsToday": 331
+              }
+            }
+          }
+        },
+        {
+          "title": "checkstyle/checkstyle",
+          "url": "https://github.com/checkstyle/checkstyle",
+          "summary": "Checkstyle es una herramienta de análisis que ayuda a los programadores de Java a desarrollar software de acuerdo con los estándares de codificación establecidos. Supervisa la calidad del código al admitir estándares como la Guía de estilo de Java de Google (Google Java Style Guide) y las Convenciones de código de Sun (Sun Code Conventions).",
+          "meta": "Java · ★ 9.288 · +115 hoy",
+          "snapshot": {
+            "sourceId": "checkstyle/checkstyle",
+            "capturedAt": "2026-08-31T10:53:24.911Z",
+            "metadata": {
+              "language": "Java",
+              "popularity": 9288,
+              "engagementCount": 115,
+              "rank": 8,
+              "extra": {
+                "starsToday": 115
+              }
+            }
+          }
+        },
+        {
+          "title": "kaifcodec/user-scanner",
+          "url": "https://github.com/kaifcodec/user-scanner",
+          "summary": "User-Scanner, desarrollado con Python, es una herramienta de inteligencia de fuentes abiertas (OSINT) que recopila datos de más de 465 fuentes diferentes a través de una sola dirección de correo electrónico o nombre de usuario. Diseñado para investigadores de seguridad y personas que rastrean huellas digitales, el software ofrece un análisis de datos profundo con una amplia gama de vectores de escaneo.",
+          "meta": "Python · ★ 3.910 · +462 hoy",
+          "snapshot": {
+            "sourceId": "kaifcodec/user-scanner",
+            "capturedAt": "2026-08-31T10:53:24.911Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 3910,
+              "engagementCount": 462,
+              "rank": 11,
+              "extra": {
+                "starsToday": 462
+              }
+            }
+          }
+        },
+        {
+          "title": "every-app/open-seo",
+          "url": "https://github.com/every-app/open-seo",
+          "summary": "Open SEO ofrece una alternativa de código abierto a las herramientas de pago (Semrush, Ahrefs) que realizan análisis de optimización de motores de búsqueda (SEO). Desarrollado con TypeScript, este software proporciona de forma gratuita los datos esenciales necesarios para realizar un seguimiento del rendimiento del sitio web y su visibilidad en las búsquedas.",
+          "meta": "TypeScript · ★ 15.451 · +469 hoy",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "every-app/open-seo",
+            "capturedAt": "2026-08-31T10:53:24.911Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 15451,
+              "engagementCount": 469,
+              "rank": 12,
+              "extra": {
+                "starsToday": 469
+              }
+            }
+          }
+        },
+        {
+          "title": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "summary": "Heretic es una herramienta de Python que elimina automáticamente los mecanismos de censura en los modelos de lenguaje. Permite que los grandes modelos de lenguaje (LLM) superen sus restricciones para generar una gama más amplia de respuestas.",
+          "meta": "Python · ★ 29.400 · +369 hoy",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "p-e-w/heretic",
+            "capturedAt": "2026-08-31T10:53:24.911Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 29400,
+              "engagementCount": 369,
+              "rank": 13,
+              "extra": {
+                "starsToday": 369
+              }
+            }
+          }
+        },
+        {
+          "title": "handsomestWei/patent-disclosure-skill",
+          "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+          "summary": "Patent disclosure skill es una herramienta de Python que automatiza los procesos de identificación de puntos de invención y la preparación de textos de descripción técnica (patent disclosure) en las solicitudes de patentes. Proporciona soporte para la interpretación clara de patentes, el seguimiento de cambios en las políticas y la generación de respuestas para los procesos de revisión.",
+          "meta": "Python · ★ 6.058 · +62 hoy",
+          "snapshot": {
+            "sourceId": "handsomestWei/patent-disclosure-skill",
+            "capturedAt": "2026-08-31T10:53:24.911Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 6058,
+              "engagementCount": 62,
+              "rank": 14,
+              "extra": {
+                "starsToday": 62
+              }
+            }
+          }
+        },
+        {
+          "title": "pollen-robotics/microduck_rl",
+          "url": "https://github.com/pollen-robotics/microduck_rl",
+          "summary": "microduck_rl, desarrollado por Pollen Robotics, ofrece entornos de entrenamiento de aprendizaje por refuerzo (reinforcement learning) para la plataforma robótica Microduck. Esta biblioteca basada en Python facilita el desarrollo de algoritmos de control robótico en la herramienta de simulación basada en física mjlab.",
+          "meta": "Python · ★ 1.001 · +168 hoy",
+          "snapshot": {
+            "sourceId": "pollen-robotics/microduck_rl",
+            "capturedAt": "2026-08-31T10:53:24.911Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 1001,
+              "engagementCount": 168,
+              "rank": 16,
+              "extra": {
+                "starsToday": 168
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Creepy Crawlies",
+          "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+          "summary": "Los rastreadores web (web crawlers) en Internet utilizan métodos que ponen a prueba los límites éticos y las cargas de los servidores en los procesos de recopilación de datos. Esto desencadena debates sobre la gestión del tráfico de bots automatizados, que consume los recursos de los sitios web y genera preocupaciones sobre la privacidad.",
+          "meta": "1.185 puntos · 594 comentarios",
+          "snapshot": {
+            "sourceId": "49491791",
+            "capturedAt": "2026-08-31T10:53:23.926Z",
+            "metadata": {
+              "popularity": 1185,
+              "engagementCount": 594,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49491791",
+                  "popularity": 1185,
+                  "engagementCount": 594
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "zdw",
+                "createdAt": "2026-08-29T17:49:01Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49491791"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49491791",
+              "popularity": 1185,
+              "engagementCount": 594
+            }
+          ]
+        },
+        {
+          "title": "“I just chose words carefully”",
+          "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+          "summary": "La ingeniería de prompts (prompt engineering), utilizada para mejorar los resultados de los modelos de inteligencia artificial, se basa más en el uso preciso del lenguaje que en técnicas complejas. Se argumenta que utilizar palabras claras y selectivas que guíen la lógica del modelo es más efectivo para obtener los resultados deseados que la complejidad técnica.",
+          "meta": "834 puntos · 214 comentarios",
+          "snapshot": {
+            "sourceId": "49503601",
+            "capturedAt": "2026-08-31T10:53:23.926Z",
+            "metadata": {
+              "popularity": 834,
+              "engagementCount": 214,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49503601",
+                  "popularity": 834,
+                  "engagementCount": 214
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "zdw",
+                "createdAt": "2026-08-30T22:49:48Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49503601"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49503601",
+              "popularity": 834,
+              "engagementCount": 214
+            }
+          ]
+        },
+        {
+          "title": "Haiku R1/beta6 has been released",
+          "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+          "summary": "Haiku, el sucesor de código abierto del sistema operativo BeOS, se ha actualizado a la versión R1/beta6. La nueva versión amplía el soporte para controladores de hardware y ofrece correcciones de errores que mejoran la estabilidad del sistema.",
+          "meta": "326 puntos · 92 comentarios",
+          "snapshot": {
+            "sourceId": "49499867",
+            "capturedAt": "2026-08-31T10:53:23.926Z",
+            "metadata": {
+              "popularity": 326,
+              "engagementCount": 92,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49499867",
+                  "popularity": 326,
+                  "engagementCount": 92
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "metrofun",
+                "createdAt": "2026-08-30T16:01:10Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49499867"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49499867",
+              "popularity": 326,
+              "engagementCount": 92
+            }
+          ]
+        },
+        {
+          "title": "Hacking IKEA Furniture",
+          "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+          "summary": "El \"IKEA hacking\", la práctica de personalizar muebles de IKEA y modificar sus funciones, tiene como objetivo rediseñar productos estándar según las necesidades del usuario. Este enfoque ofrece la posibilidad de crear artículos para el hogar únicos utilizando piezas de muebles prefabricados para diferentes propósitos.",
+          "meta": "324 puntos · 236 comentarios",
+          "snapshot": {
+            "sourceId": "49497810",
+            "capturedAt": "2026-08-31T10:53:23.926Z",
+            "metadata": {
+              "popularity": 324,
+              "engagementCount": 236,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49497810",
+                  "popularity": 324,
+                  "engagementCount": 236
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "greenlightning",
+                "createdAt": "2026-08-30T11:39:43Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49497810"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49497810",
+              "popularity": 324,
+              "engagementCount": 236
+            }
+          ]
+        },
+        {
+          "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+          "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+          "summary": "En QubesOS, un sistema operativo centrado en la seguridad, se detectó una vulnerabilidad de ejecución arbitraria de código a través del mecanismo de reporte de errores en el proceso de copia de datos entre máquinas virtuales (copy-to-VM). Esta vulnerabilidad permite a los atacantes superar las capas de aislamiento del sistema y realizar operaciones no autorizadas.",
+          "meta": "238 puntos · 95 comentarios",
+          "snapshot": {
+            "sourceId": "49496918",
+            "capturedAt": "2026-08-31T10:53:23.926Z",
+            "metadata": {
+              "popularity": 238,
+              "engagementCount": 95,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49496918",
+                  "popularity": 238,
+                  "engagementCount": 95
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "vntok",
+                "createdAt": "2026-08-30T08:51:39Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49496918"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49496918",
+              "popularity": 238,
+              "engagementCount": 95
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
+          "summary": "Qwen3.8-Flash-Next-GGUF, presentado por Unsloth, es un modelo de inteligencia artificial multimodal capaz de procesar datos visuales y de texto. Gracias al formato de archivo comprimido (GGUF), que permite al modelo funcionar con requisitos de hardware bajos, facilita la inferencia rápida en dispositivos locales.",
+          "meta": "♥ 616 · 373.029 descargas",
+          "snapshot": {
+            "sourceId": "unsloth/Qwen3.8-Flash-Next-GGUF",
+            "capturedAt": "2026-08-31T10:53:23.816Z",
+            "metadata": {
+              "popularity": 616,
+              "engagementCount": 373029,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 604,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "gguf",
+                  "unsloth",
+                  "image-text-to-text",
+                  "base_model:Qwen/Qwen3.8-Flash-Next",
+                  "base_model:quantized:Qwen/Qwen3.8-Flash-Next",
+                  "license:other",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "GGSS: Geodesic-Gated Spherical Steering for Inference-Time Debiasing of Generative Vision-Language Models",
+          "url": "https://huggingface.co/papers/2608.25375",
+          "summary": "Geodesic-Gated Spherical Steering (GGSS) es un método que reduce los sesgos demográficos exhibidos por los modelos generativos de visión-lenguaje (generative vision-language models) al producir resultados. Esta técnica permite al modelo explorar un subespacio de sesgo contrafactual manteniendo la norma durante el tiempo de ejecución (inference-time).",
+          "meta": "2 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2608.25375",
+            "capturedAt": "2026-08-31T10:53:23.828Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.25375",
+                "publishedAt": "2026-08-26T04:58:40.000Z",
+                "githubRepo": "https://github.com/dukesun99/GGSS",
+                "githubStars": 1
+              }
+            }
+          }
+        },
+        {
+          "title": "Language Chain in Alignment: Cross-lingual Ranking Preference Optimization",
+          "url": "https://huggingface.co/papers/2608.23149",
+          "summary": "La optimización de preferencia de clasificación interlingüe (Cross-lingual Ranking Preference Optimization) permite que los modelos de lenguaje grandes (large language models) tengan un mejor rendimiento en idiomas distintos a los conjuntos de datos predominantemente en inglés. Este método mejora el proceso de alineación (alignment) de los modelos en diferentes idiomas al transferir información de preferencia de los datos en inglés al idioma objetivo.",
+          "meta": "2 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2608.23149",
+            "capturedAt": "2026-08-31T10:53:23.828Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.23149",
+                "publishedAt": "2026-08-24T11:54:36.000Z",
+                "githubRepo": "https://github.com/dltmddbs100/CRPO",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Agentic Artifact Creation: Systems, Evaluation, Principles, and Opportunities",
+          "url": "https://huggingface.co/papers/2608.28122",
+          "summary": "La capacidad de los sistemas de inteligencia artificial para crear resultados concretos como texto, código o imágenes a partir del lenguaje natural traslada los procesos de inteligencia artificial generativa (generative AI) desde la preparación de borradores hasta la entrega del producto final. El enfoque de creación de artefactos basados en agentes (agentic artifact creation) se centra en que el sistema observe sus propios resultados para mejorar el proceso de forma iterativa y generar resultados fiables.",
+          "meta": "41 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2608.28122",
+            "capturedAt": "2026-08-31T10:53:23.828Z",
+            "metadata": {
+              "popularity": 41,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.28122",
+                "publishedAt": "2026-08-28T00:00:00.000Z",
+                "githubRepo": "https://github.com/GeminiLight/awesome-agentic-artifact-creation",
+                "githubStars": 9
+              }
+            }
+          }
+        },
+        {
+          "title": "DART-SD: Diamond-topology Aware Retrieval and Tuning for Self-Distillation of Multi-Turn Tool-Calling Agents",
+          "url": "https://huggingface.co/papers/2608.18524",
+          "summary": "DART-SD es un método de entrenamiento desarrollado para agentes de inteligencia artificial con capacidad de uso de herramientas (tool-calling) de múltiples pasos. El método tiene como objetivo reducir las pérdidas de rendimiento experimentadas en los procesos de entrenamiento lineal tradicionales mediante el modelado de diferentes vías de solución en tareas complejas con una estructura de red de diamante.",
+          "meta": "56 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2608.18524",
+            "capturedAt": "2026-08-31T10:53:23.828Z",
+            "metadata": {
+              "popularity": 56,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.18524",
+                "publishedAt": "2026-08-19T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Locate Anything in Videos: Rethinking Efficient Generative Spatio-Temporal Video Grounding",
+          "url": "https://huggingface.co/papers/2608.28192",
+          "summary": "La decodificación de tubo paralelo (Parallel Tube Decoding) acorta el tiempo de procesamiento al dividir las operaciones de posicionamiento de objetos en videos en bloques temporales. Este método tiene como objetivo resolver los problemas de latencia y acumulación de errores que enfrentan los modelos de lenguaje grandes multimodales (multimodal large language models) tradicionales al realizar procesos secuenciales.",
+          "meta": "11 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2608.28192",
+            "capturedAt": "2026-08-31T10:53:23.828Z",
+            "metadata": {
+              "popularity": 11,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.28192",
+                "publishedAt": "2026-08-28T00:00:00.000Z",
+                "githubRepo": "https://github.com/mbzuai-oryx/ParallelTubeDecoding",
+                "githubStars": 5
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Omarchy: Any User Process Can Escalate to Root",
+          "url": "https://0xcc.io/posts/omarchy-root-creds/",
+          "summary": "Omarchy es una vulnerabilidad de seguridad en los sistemas operativos Linux que permite que los procesos de usuario se eleven a privilegios de superusuario (root). Esta vulnerabilidad permite que los procesos con privilegios limitados en el sistema obtengan acceso de administrador.",
+          "meta": "87 puntos · 26 comentarios",
+          "snapshot": {
+            "sourceId": "bxihn3",
+            "capturedAt": "2026-08-31T10:53:24.240Z",
+            "metadata": {
+              "popularity": 87,
+              "engagementCount": 26,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/bxihn3/omarchy_any_user_process_can_escalate",
+                  "popularity": 87,
+                  "engagementCount": 26
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "security"
+                ],
+                "createdAt": "2026-08-30T13:11:09.248-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/bxihn3/omarchy_any_user_process_can_escalate",
+              "popularity": 87,
+              "engagementCount": 26
+            }
+          ]
+        },
+        {
+          "title": "But where does taste come from?",
+          "url": "https://dustycloud.org/blog/but-where-does-taste-come-from/",
+          "summary": "El origen de los mecanismos de gusto que determinan las preferencias de contenido digital de los usuarios se forma a través de experiencias individuales e interacciones comunitarias más allá de los sistemas de recomendación algorítmicos. Este proceso cuestiona el papel de los filtros tecnológicos en la formación de los gustos personales, al tiempo que destaca el contexto social y cultural del descubrimiento de contenido original.",
+          "meta": "49 puntos · 7 comentarios",
+          "snapshot": {
+            "sourceId": "9naffr",
+            "capturedAt": "2026-08-31T10:53:24.240Z",
+            "metadata": {
+              "popularity": 49,
+              "engagementCount": 7,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/9naffr/where_does_taste_come_from",
+                  "popularity": 49,
+                  "engagementCount": 7
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vibecoding"
+                ],
+                "createdAt": "2026-08-30T08:27:41.534-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/9naffr/where_does_taste_come_from",
+              "popularity": 49,
+              "engagementCount": 7
+            }
+          ]
+        },
+        {
+          "title": "The U.S. is more than just the US (according to the ISO)",
+          "url": "https://trevmex.com/post/826439929093636096/the-us-is-more-than-just-the-us-according-to",
+          "summary": "La Organización Internacional de Normalización (ISO), en su estándar de códigos de país, define a los Estados Unidos (US) como un todo, no solo con su territorio continental, sino también con sus territorios de ultramar. Esto requiere que los desarrolladores de software reevalúen el alcance geográfico de los códigos de país utilizados al procesar datos de ubicación a través de estándares técnicos.",
+          "meta": "7 puntos · 3 comentarios",
+          "snapshot": {
+            "sourceId": "ngqpa1",
+            "capturedAt": "2026-08-31T10:53:24.240Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 3,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/ngqpa1/u_s_is_more_than_just_us_according_iso",
+                  "popularity": 7,
+                  "engagementCount": 3
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "programming"
+                ],
+                "createdAt": "2026-08-31T00:38:25.189-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ngqpa1/u_s_is_more_than_just_us_according_iso",
+              "popularity": 7,
+              "engagementCount": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "WeMod",
+      "explanation": "Una plataforma de software que facilita hacer trampas en los videojuegos o cambiar la configuración del juego."
+    },
+    {
+      "term": "large language model",
+      "explanation": "Modelos de inteligencia artificial entrenados con datos masivos capaces de comprender el lenguaje humano y generar texto."
+    },
+    {
+      "term": "LLM inference",
+      "explanation": "El proceso mediante el cual un modelo de inteligencia artificial entrenado genera una respuesta a una pregunta que se le plantea."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Un método que permite a la inteligencia artificial proporcionar respuestas más precisas extrayendo información de documentos actuales o específicos."
+    },
+    {
+      "term": "Google Java Style Guide",
+      "explanation": "Un conjunto de reglas establecidas por Google para que el código escrito en lenguaje Java sea organizado y legible."
+    },
+    {
+      "term": "Sun Code Conventions",
+      "explanation": "Una serie de estándares creados por la empresa que desarrolló el lenguaje Java, recomendados para seguir al escribir código."
+    },
+    {
+      "term": "OSINT",
+      "explanation": "Un método para recopilar y analizar información de fuentes disponibles públicamente en Internet."
+    },
+    {
+      "term": "SEO",
+      "explanation": "Trabajos de optimización realizados para que los sitios web aparezcan en posiciones más altas en los motores de búsqueda."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Sistemas de inteligencia artificial entrenados con cantidades masivas de datos de texto, capaces de hablar como un humano."
+    },
+    {
+      "term": "patent disclosure",
+      "explanation": "La divulgación de todos los detalles de un invento al público o a la institución pertinente para que pueda ser protegido legalmente."
+    },
+    {
+      "term": "reinforcement learning",
+      "explanation": "El aprendizaje de la inteligencia artificial para tomar decisiones correctas mediante el método de prueba y error y el uso de un mecanismo de recompensa."
+    },
+    {
+      "term": "web crawlers",
+      "explanation": "Bots de software que navegan automáticamente por páginas de Internet y guardan datos."
+    },
+    {
+      "term": "prompt engineering",
+      "explanation": "El arte de optimizar las instrucciones dadas a la inteligencia artificial para obtener el mejor y más preciso resultado."
+    }
+  ]
+}
