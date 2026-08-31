@@ -2,11 +2,12 @@
 
 Apache Maven, Java tabanlı projelerde yazılım oluşturma süreçlerini yöneten bir proje yönetim ve anlama aracıdır (build automation tool). Yazılım geliştirme yaşam döngüsünü standartlaştırmak için proje nesne modeli (project object model) yapısını kullanır.
 
-- ★ 5.292
+- ★ 5.334
 - Java
 - GitHub Trending · 2026-07-04
 
 ## Güncelleme
+- 31 Ağustos 2026: Yıldız 5.292 → 5.334, son sürüm maven-3.9.16 (17 Mayıs 2026).
 - 2 Ağustos 2026: Yıldız 5.250 → 5.292, son sürüm maven-3.10.0-rc-1 (13 Temmuz 2026).
 
 ## Ne kazandırır?

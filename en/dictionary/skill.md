@@ -37,9 +37,9 @@ Usually, API connections or special code blocks are written to enable the assist
 - [Taste Skill](/en/discover/taste-skill/)
 - [Awesome Claude Skills](/en/discover/awesome-claude-skills/)
 - [Last30days Skill](/en/discover/last30days-skill/)
+- [Archify](/en/discover/archify/)
 - [Reverse Skill](/en/discover/reverse-skill/)
 - [OfficeCLI](/en/discover/officecli/)
-- [Book to Skill](/en/discover/book-to-skill/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/skill/

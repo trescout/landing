@@ -33,8 +33,8 @@ No, the model only makes predictions using the available information it has.
 - [Llama.cpp](/en/discover/llama-cpp/)
 - [Ds4](/en/discover/ds4/)
 - [LTX 2](/en/discover/ltx-2/)
-- [Transcribe.cpp](/en/discover/transcribe-cpp/)
 - [Switchyard](/en/discover/switchyard/)
+- [Transcribe.cpp](/en/discover/transcribe-cpp/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/inference/

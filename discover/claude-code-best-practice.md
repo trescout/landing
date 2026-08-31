@@ -28,7 +28,7 @@ Bu araç bir yazılım kütüphanesi değil, Claude Code kullanımına yönelik 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-24 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Vibe Coding Agentic Engineering Agentic Artificial Intelligence
+Best Practices Vibe Coding Agentic Engineering Agentic Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/claude-code-best-practice/

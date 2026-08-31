@@ -2,8 +2,11 @@
 
 Linux sunucu güvenliği (Linux server security) üzerine hazırlanan bu rehber, sistemleri dış tehditlere karşı korumak için izlenmesi gereken temel yapılandırma adımlarını bir araya getiriyor. Sürekli güncellenen içerik, sunucu sıkılaştırma (server hardening) süreçlerinde uygulanabilecek en iyi yöntemleri pratik bir kılavuz olarak sunuyor.
 
-- ★ 29.237
+- ★ 30.981
 - GitHub Trending · 2026-07-10
+
+## Güncelleme
+- 31 Ağustos 2026: Yıldız 29.237 → 30.981.
 
 ## Ne kazandırır?
 - Sunucu erişimini sıkılaştırma yöntemleri

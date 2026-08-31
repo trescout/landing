@@ -2,15 +2,15 @@
 
 CodexBar, OpenAI Codex ve Claude Code kullanım verilerini oturum açma zorunluluğu olmadan görüntülemeyi sağlayan bir araçtır. Swift diliyle geliştirilen bu uygulama, geliştiricilerin yapay zekâ destekli kodlama araçlarındaki tüketim istatistiklerini izlemelerini kolaylaştırır.
 
-- ★ 20.633
+- ★ 20.756
 - Swift
 - GitHub Trending · 2026-07-06
 
 ## Güncelleme
+- 31 Ağustos 2026: Yıldız 20.633 → 20.756, son sürüm v0.56.2 (31 Ağustos 2026).
 - 27 Ağustos 2026: Yıldız 20.521 → 20.633, son sürüm v0.55.1 (26 Ağustos 2026).
 - 24 Ağustos 2026: Yıldız 20.508 → 20.521, son sürüm v0.55.0 (24 Ağustos 2026).
 - 24 Ağustos 2026: Yıldız 20.386 → 20.508, son sürüm v0.54.1 (23 Ağustos 2026).
-- 20 Ağustos 2026: Yıldız 20.280 → 20.386, son sürüm v0.54.0 (20 Ağustos 2026).
 
 ## Ne kazandırır?
 - Tüm yapay zekâ servislerinin kullanım limitlerini menü çubuğunda anlık görün

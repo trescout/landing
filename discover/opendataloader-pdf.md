@@ -2,15 +2,15 @@
 
 OpenDataLoader PDF, yapay zekâ modelleri için veriyi hazır hale getiren açık kaynaklı bir PDF ayrıştırıcıdır (PDF parser). Java tabanlı bu proje, PDF belgelerinin erişilebilirliğini otomatikleştirerek veri işleme süreçlerini hızlandırır.
 
-- ★ 28.831
+- ★ 28.872
 - Java
 - GitHub Trending · 2026-06-04
 
 ## Güncelleme
+- 31 Ağustos 2026: Yıldız 28.831 → 28.872, son sürüm v2.5.6 (31 Ağustos 2026).
 - 27 Ağustos 2026: Yıldız 28.676 → 28.831, son sürüm v2.5.5 (25 Ağustos 2026).
 - 24 Ağustos 2026: Yıldız 28.638 → 28.676, son sürüm v2.5.3 (24 Ağustos 2026).
 - 21 Ağustos 2026: Yıldız 28.540 → 28.638, son sürüm v2.5.2 (21 Ağustos 2026).
-- 18 Ağustos 2026: Yıldız 28.095 → 28.540, son sürüm v2.5.1 (18 Ağustos 2026).
 
 ## Ne kazandırır?
 - PDF dosyalarını yapay zekâ modelleri için Markdown, JSON veya HTML formatına dönüştürür.
@@ -59,7 +59,7 @@ OpenDataLoader PDF aracını kullanarak elimdeki PDF dosyalarını analiz etmek 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-PDF Parser Parser SDK RAG Markdown PDF
+PDF Parser Parser SDK Markdown RAG PDF
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/opendataloader-pdf/

@@ -2,7 +2,7 @@
 
 Temel modellerin araştırılması ve geliştirilmesi için bir araştırma programı, yazılım platformu ve topluluktur. Veri işlemeden ön eğitim, son eğitim ve değerlendirmeye uzanan kapsamı belgeler.
 
-- ★ 1.967
+- ★ 3.089
 - Python
 - GitHub Trending · 2026-08-25
 
@@ -36,6 +36,9 @@ uv run python experiments/tutorials/train_tiny_model.py --device cpu --dataset t
 ```
 
 Kaynak: Resmî README ve dokümantasyon kaynakları: https://marin.readthedocs.io/en/latest/tutorials/installation/, https://marin.readthedocs.io/en/latest/tutorials/first-experiment/, https://github.com/marin-community/marin
+
+## Güncelleme
+- 31 Ağustos 2026: Yıldız 1.967 → 3.089.
 
 ## Bu araç ne yapar?
 

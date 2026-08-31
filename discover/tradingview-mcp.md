@@ -2,9 +2,12 @@
 
 TradingView-mcp, Claude Code ile TradingView masaüstü uygulamasını birbirine bağlayarak grafik analiz süreçlerini otomatize etmeyi sağlıyor. Bu entegrasyon, kullanıcıların yapay zekâ destekli model bağlamı (Model Context Protocol) üzerinden teknik analiz iş akışlarını kişiselleştirmesine olanak tanıyor.
 
-- ★ 4.930
+- ★ 5.932
 - JavaScript
 - GitHub Trending · 2026-07-22
+
+## Güncelleme
+- 31 Ağustos 2026: Yıldız 4.930 → 5.932.
 
 ## Ne kazandırır?
 - Yapay zekâ ile Pine Script kodlama ve hata ayıklama

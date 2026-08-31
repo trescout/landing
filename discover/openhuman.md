@@ -2,11 +2,12 @@
 
 Rust diliyle geliştirilen OpenHuman, kullanıcının yaşamına dair yerel öncelikli (local-first) bir bellek oluşturan kişisel yapay zekâ asistanıdır. Yazılım, yapay zekâ ajanlarından oluşan filoları yöneten bir orkestratör ve derinlemesine araştırma yapan bir analiz aracı olarak işlev görür.
 
-- ★ 36.855
+- ★ 39.171
 - Rust
 - GitHub Trending · 2026-08-24
 
 ## Güncelleme
+- 31 Ağustos 2026: Yıldız 36.855 → 39.171, son sürüm v0.63.12 (7 Ağustos 2026).
 - 24 Ağustos 2026: Yıldız 36.852 → 36.855, son sürüm v0.63.12 (7 Ağustos 2026).
 
 ## Ne kazandırır?

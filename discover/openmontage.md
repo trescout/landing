@@ -2,11 +2,12 @@
 
 OpenMontage, yapay zekâ kodlama asistanlarını tam kapsamlı bir video prodüksiyon stüdyosuna dönüştüren açık kaynaklı bir ajan tabanlı sistemdir (agentic system). Python tabanlı bu platform, 12 farklı işlem hattı (pipeline) ve 500'den fazla ajan yeteneği (agent skills) ile video üretim süreçlerini otomatize ediyor.
 
-- ★ 49.954
+- ★ 54.943
 - Python
 - GitHub Trending · 2026-06-18
 
 ## Güncelleme
+- 31 Ağustos 2026: Yıldız 49.954 → 54.943.
 - 24 Ağustos 2026: Yıldız 47.498 → 49.954.
 - 12 Ağustos 2026: Yıldız 44.651 → 47.498.
 - 2 Ağustos 2026: Yıldız 5.648 → 44.651.

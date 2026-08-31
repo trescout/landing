@@ -2,15 +2,15 @@
 
 Apple tarafından geliştirilen container, Mac üzerinde hafif sanal makineler (virtual machines) kullanarak Linux kapsayıcıları (containers) oluşturmaya ve çalıştırmaya olanak tanıyor. Swift diliyle yazılan araç, Apple silikon (Apple silicon) mimarisi için optimize edilmiş bir performans sunuyor.
 
-- ★ 49.440
+- ★ 49.541
 - Swift
 - GitHub Trending · 2026-06-11
 
 ## Güncelleme
+- 31 Ağustos 2026: Yıldız 49.440 → 49.541, son sürüm 1.3.1 (29 Ağustos 2026).
 - 27 Ağustos 2026: Yıldız 48.745 → 49.440, son sürüm 1.3.0 (24 Ağustos 2026).
 - 8 Ağustos 2026: Yıldız 48.710 → 48.745, son sürüm 1.2.2 (8 Ağustos 2026).
 - 7 Ağustos 2026: Yıldız 48.543 → 48.710, son sürüm 1.2.1 (7 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 30.453 → 48.543, son sürüm 1.2.0 (29 Temmuz 2026).
 
 ## Ne kazandırır?
 - Apple silikon işlemcili Mac cihazlarda Linux kapsayıcılarını hafif sanal makineler olarak çalıştırır.

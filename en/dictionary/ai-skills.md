@@ -38,8 +38,8 @@ Yes, new capabilities can be added to a model with the appropriate infrastructur
 - [Agent Skills](/en/discover/agent-skills/)
 - [Taste Skill](/en/discover/taste-skill/)
 - [Awesome Claude Skills](/en/discover/awesome-claude-skills/)
-- [Awesome Claude Code](/en/discover/awesome-claude-code/)
 - [OpenMontage](/en/discover/openmontage/)
+- [Awesome Claude Code](/en/discover/awesome-claude-code/)
 - [Obsidian Skills](/en/discover/obsidian-skills/)
 
 ---

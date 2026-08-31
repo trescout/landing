@@ -37,8 +37,8 @@ Yes, it is an open standard developed to increase the interoperability of the ar
 - [Goose](/en/discover/goose/)
 - [AI Engineering from Scratch](/en/discover/ai-engineering-from-scratch/)
 - [Chrome Devtools MCP](/en/discover/chrome-devtools-mcp/)
-- [Claude Howto](/en/discover/claude-howto/)
 - [Codebase Memory MCP](/en/discover/codebase-memory-mcp/)
+- [Claude Howto](/en/discover/claude-howto/)
 - [Claude Code Templates](/en/discover/claude-code-templates/)
 
 ---

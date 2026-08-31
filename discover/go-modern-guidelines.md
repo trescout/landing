@@ -2,9 +2,12 @@
 
 Não foi possível produzir um resumo para este item hoje. Consulte o link da fonte para obter detalhes.
 
-- ★ 1.938
+- ★ 3.010
 - Go
 - GitHub Trending · 2026-08-27
+
+## Güncelleme
+- 31 Ağustos 2026: Yıldız 1.938 → 3.010.
 
 ## Ne kazandırır?
 - Yapay zekâ modellerinin güncel Go özelliklerini kullanmasını sağlar

@@ -2,15 +2,15 @@
 
 OpenShip, kullanıcıların kendi sunucularında barındırabildiği bir uygulama dağıtım platformu (deployment platform) sunuyor. TypeScript diliyle geliştirilen bu araç, bulut tabanlı altyapı hizmetlerine alternatif olarak kendi kendine barındırma (self-hosted) süreçlerini kolaylaştırıyor.
 
-- ★ 11.739
+- ★ 11.887
 - TypeScript
 - GitHub Trending · 2026-07-21
 
 ## Güncelleme
+- 31 Ağustos 2026: Yıldız 11.739 → 11.887, son sürüm v0.6.9 (30 Ağustos 2026).
 - 27 Ağustos 2026: Yıldız 11.135 → 11.739, son sürüm v0.6.8 (25 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 10.864 → 11.135, son sürüm v0.6.7 (20 Ağustos 2026).
 - 17 Ağustos 2026: Yıldız 10.565 → 10.864, son sürüm v0.6.6 (17 Ağustos 2026).
-- 12 Ağustos 2026: Yıldız 10.414 → 10.565, son sürüm v0.6.5 (11 Ağustos 2026).
 
 ## Ne kazandırır?
 - Otomatik CI/CD süreçleri

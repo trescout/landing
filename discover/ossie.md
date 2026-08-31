@@ -2,9 +2,12 @@
 
 Apache Ossie, analitik, yapay zekâ ve iş zekâsı (BI) platformları arasında anlamsal üst veri (semantic metadata) değişimini standartlaştırmayı amaçlayan bir endüstri girişimidir. Bu proje, farklı platformlar arasında satıcıdan bağımsız, tek bir doğruluk kaynağı (single source of truth) oluşturarak veri entegrasyonunu kolaylaştırır.
 
-- ★ 997
+- ★ 2.011
 - Python
 - GitHub Trending · 2026-07-17
+
+## Güncelleme
+- 31 Ağustos 2026: Yıldız 997 → 2.011.
 
 ## Ne kazandırır?
 - Farklı veri araçları arasında tutarlı tanımlar sağlar

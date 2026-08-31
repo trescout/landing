@@ -46,7 +46,7 @@ Sen Prime Agent olarak görev yapıyorsun. Proje dizinimde karmaşık yazılım 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Reinforcement Learning Agent Agent Artificial Intelligence
+Reinforcement Learning Agent Reinforcement Learning Agent Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/prime-agent/

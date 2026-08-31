@@ -2,14 +2,14 @@
 
 Rust ile geliştirilen fff, yapay zekâ ajanları ve metin düzenleyiciler için dosya arama işlemlerini yüksek hız ve doğrulukla gerçekleştiren bir araç takımıdır. C ve NodeJS desteğiyle farklı geliştirme ortamlarına entegre edilebilir bir yapı sunar.
 
-- ★ 10.033
+- ★ 10.309
 - GitHub Trending · 2026-06-02
 
 ## Güncelleme
+- 31 Ağustos 2026: Yıldız 10.033 → 10.309, son sürüm v0.10.6 (30 Ağustos 2026).
 - 17 Ağustos 2026: Yıldız 10.015 → 10.033, son sürüm v0.10.5 (16 Ağustos 2026).
 - 16 Ağustos 2026: Yıldız 9.894 → 10.015, son sürüm v0.10.4 (15 Ağustos 2026).
 - 7 Ağustos 2026: Yıldız 9.882 → 9.894, son sürüm v0.10.3 (7 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 7.319 → 9.882, son sürüm v0.10.1 (20 Temmuz 2026).
 
 ## Ne kazandırır?
 - Dosya arama ve içerik tarama işlemlerinde yüksek hız sağlar.

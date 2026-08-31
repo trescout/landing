@@ -41,7 +41,6 @@ No, if your documents are stored on your own computer or server, they can work w
 - [DeepTutor](/en/discover/deeptutor/)
 - [OpenViking](/en/discover/openviking/)
 - [Opendataloader PDF](/en/discover/opendataloader-pdf/)
-- [Turbovec](/en/discover/turbovec/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/rag/

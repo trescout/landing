@@ -2,12 +2,13 @@
 
 Cursor Plugins ; Cursor kod editörü için hazırlanan resmi eklenti spesifikasyonu ve hazır resmi eklentileri içerir. Geliştiricilerin kendi eklentilerini oluşturmalarına olanak tanır.
 
-- ★ 4.695
+- ★ 6.355
 - TypeScript
 - Lisans: kontrol et
 - GitHub Trending · 30 May 2026
 
 ## Güncelleme
+- 31 Ağustos 2026: Yıldız 4.695 → 6.355.
 - 23 Ağustos 2026: Yıldız 3.572 → 4.695.
 - 19 Ağustos 2026: Yıldız 2.515 → 3.572.
 - 2 Ağustos 2026: Yıldız 1.403 → 2.515.

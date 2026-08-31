@@ -2,15 +2,15 @@
 
 Strix, uygulamalardaki güvenlik açıklarını tespit etmek ve gidermek için tasarlanmış açık kaynaklı bir yapay zekâ tabanlı güvenlik aracıdır (AI security tool). Python diliyle geliştirilen bu sistem, yazılım geliştirme süreçlerinde zafiyet tarama ve düzeltme işlemlerini otomatize eder.
 
-- ★ 56.207
+- ★ 59.681
 - Python
 - GitHub Trending · 2026-06-29
 
 ## Güncelleme
+- 31 Ağustos 2026: Yıldız 56.207 → 59.681, son sürüm v1.5.3 (10 Ağustos 2026).
 - 21 Ağustos 2026: Yıldız 53.448 → 56.207, son sürüm v1.5.3 (10 Ağustos 2026).
 - 17 Ağustos 2026: Yıldız 50.882 → 53.448, son sürüm v1.5.3 (10 Ağustos 2026).
 - 11 Ağustos 2026: Yıldız 50.026 → 50.882, son sürüm v1.5.3 (10 Ağustos 2026).
-- 9 Ağustos 2026: Yıldız 49.641 → 50.026, son sürüm v1.5.2 (9 Ağustos 2026).
 
 ## Ne kazandırır?
 - Uygulamalardaki zafiyetleri otomatik tespit eder

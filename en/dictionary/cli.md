@@ -38,8 +38,8 @@ The system usually gives errors, but there are also critical commands that requi
 - [Codex](/en/discover/codex/)
 - [Ponytail](/en/discover/ponytail/)
 - [Graphify](/en/discover/graphify/)
-- [Angular](/en/discover/angular/)
 - [TradingAgents](/en/discover/tradingagents/)
+- [Angular](/en/discover/angular/)
 - [Understand Anything](/en/discover/understand-anything/)
 
 ---

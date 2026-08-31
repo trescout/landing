@@ -2,11 +2,12 @@
 
 OpenClaw Windows düğümü (node), sistem tepsisi uygulaması, paylaşılan kütüphane ve PowerToys komut paleti uzantısı aracılığıyla Windows işletim sistemi üzerinde bütünleşik bir yönetim paketi sunuyor. C# diliyle geliştirilen bu araç, sistem kaynaklarına erişimi ve kullanıcı iş akışlarını standartlaştırmayı hedefliyor.
 
-- ★ 2.040
+- ★ 2.079
 - C#
 - GitHub Trending · 2026-06-05
 
 ## Güncelleme
+- 31 Ağustos 2026: Yıldız 2.040 → 2.079, son sürüm v2026.7.1-2 (29 Ağustos 2026).
 - 11 Ağustos 2026: Yıldız 2.018 → 2.040, son sürüm v2026.7.1 (11 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 1.432 → 2.018, son sürüm v0.6.12 (30 Haziran 2026).
 

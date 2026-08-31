@@ -2,9 +2,12 @@
 
 Awesome-generative-ai-guide deposu, üretken yapay zekâ (generative AI) alanındaki güncel araştırmaları, mülakat kaynaklarını ve uygulama defterlerini (notebooks) tek bir noktada topluyor. Bu kaynak, geliştiriciler ve araştırmacılar için kapsamlı bir öğrenme ve referans merkezi görevi görüyor.
 
-- ★ 27.722
+- ★ 29.145
 - HTML
 - GitHub Trending · 2026-06-20
+
+## Güncelleme
+- 31 Ağustos 2026: Yıldız 27.722 → 29.145.
 
 ## Ne kazandırır?
 - Ücretsiz yapay zekâ kurslarına ve sertifika programlarına erişim

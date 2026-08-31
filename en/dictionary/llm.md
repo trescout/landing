@@ -39,8 +39,8 @@ No, he's just making predictions based on mathematical probabilities; It has no 
 - [MoneyPrinterTurbo](/en/discover/moneyprinterturbo/)
 - [TradingAgents](/en/discover/tradingagents/)
 - [Ragflow](/en/discover/ragflow/)
-- [Deer Flow](/en/discover/deer-flow/)
 - [Crawl4AI](/en/discover/crawl4ai/)
+- [Deer Flow](/en/discover/deer-flow/)
 - [Unsloth](/en/discover/unsloth/)
 
 ---

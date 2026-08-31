@@ -2,12 +2,13 @@
 
 ECC; Claude Code, Codex, Cursor ve OpenCode gibi yapay zekâ kodlama araçlarına beceriler, içgüdüler, hafıza optimizasyonu ve güvenlik taraması kazandıran kapsamlı bir sistemdir. Tekil konfigürasyon dosyaları yerine, ajanın daha tutarlı, güvenli ve önce-araştır mantığıyla çalışmasını sağlayan hazır bir katman sunar.
 
-- ★ 236.779
+- ★ 245.070
 - JavaScript
 - MIT
 - GitHub Trending · 26 May 2026
 
 ## Güncelleme
+- 31 Ağustos 2026: Yıldız 236.779 → 245.070, son sürüm v2.2.0 (28 Ağustos 2026).
 - 1 Ağustos 2026: Yıldız 194.032 → 236.779, son sürüm v2.1.0 (27 Temmuz 2026).
 
 - **Kimin için:** Claude Code / Codex / Cursor kullanan geliştiriciler 

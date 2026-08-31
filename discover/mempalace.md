@@ -2,15 +2,15 @@
 
 MemPalace, yapay zekâ modelleri için açık kaynaklı bir bellek sistemi (memory system) sunuyor. Sistem, geniş dil modellerinin (large language models) bağlamsal hafıza performansını ölçümlemek ve geliştirmek amacıyla optimize edilmiş araçlar içeriyor.
 
-- ★ 58.584
+- ★ 58.752
 - Python
 - GitHub Trending · 2026-06-06
 
 ## Güncelleme
+- 31 Ağustos 2026: Yıldız 58.584 → 58.752, son sürüm v3.9.0 (31 Ağustos 2026).
 - 24 Ağustos 2026: Yıldız 58.390 → 58.584, son sürüm v3.8.0 (23 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 58.311 → 58.390, son sürüm v3.7.1 (14 Ağustos 2026).
 - 12 Ağustos 2026: Yıldız 57.977 → 58.311, son sürüm v3.7.0 (11 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 53.981 → 57.977, son sürüm v3.6.0 (17 Temmuz 2026).
 
 ## Ne kazandırır?
 - Konuşma geçmişini olduğu gibi saklayarak anlamsal arama imkanı sunar.

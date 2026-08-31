@@ -2,8 +2,11 @@
 
 VoltAgent tarafından derlenen awesome-agent-skills, geliştirici ekiplerin ve topluluğun oluşturduğu 1000'den fazla yapay zekâ yeteneğini (agent skills) bir araya getiriyor. Bu koleksiyon, kod yazma asistanı Cursor ve yapay zekâ destekli komut satırı araçları (Claude Code, Gemini CLI) gibi platformlarla uyumlu çalışacak şekilde tasarlanıyor.
 
-- ★ 31.405
+- ★ 33.464
 - GitHub Trending · 2026-08-24
+
+## Güncelleme
+- 31 Ağustos 2026: Yıldız 31.405 → 33.464.
 
 ## Ne kazandırır?
 - 1000'den fazla doğrulanmış yapay zekâ yeteneğine erişim sağlar.
