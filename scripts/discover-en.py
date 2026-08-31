@@ -148,7 +148,8 @@ def schema_text(s):
 
 
 def esc(s):
-    return (html.escape(s or "", quote=True).replace("&#x27;", "&#39;"))
+    clean = str(s or "").replace("—", "·").replace("🚀", "")
+    return (html.escape(clean, quote=True).replace("&#x27;", "&#39;"))
 
 
 def sayi_en(s):

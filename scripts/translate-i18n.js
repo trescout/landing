@@ -48,6 +48,9 @@ async function batchProcess(items, textGetter, textSetter, batchSize = 12) {
         console.warn(`  Translation failed; source text was not written: ${srcText.slice(0, 60)}`);
         continue;
       }
+      if (typeof value === 'string') {
+        value = value.replace(/—/g, '·').replace(/🚀/g, '').trim();
+      }
       if (!cache[srcText] && value !== srcText) { cache[srcText] = value; yeniCeviri++; }
       textSetter(item, value);
     }

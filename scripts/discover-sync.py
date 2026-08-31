@@ -20,7 +20,21 @@ DICTMAN=os.path.join(ROOT,"assets","dictionary","dictionary.json")
 SITEMAP=os.path.join(ROOT,"sitemap.xml")
 DRY="--dry" in sys.argv
 TODAY=os.environ.get("DICT_DATE") or datetime.date.today().isoformat()
-def esc(s): return html.escape(s or "",quote=True)
+TR_REPORT_JSON = re.compile(r"^trescout-rapor-(?:tekrarsiz-)?\d{4}-\d{2}-\d{2}\.json$")
+
+def is_turkish_report_json(path):
+    return bool(TR_REPORT_JSON.fullmatch(os.path.basename(path)))
+
+def clean_typography(s):
+    if not s: return ""
+    return str(s).replace("—", "·").replace("🚀", "")
+
+def esc(s):
+    return html.escape(clean_typography(s), quote=True)
+
+def esc_code(s):
+    return html.escape(s or "", quote=True)
+
 def norm_url(u): return re.sub(r'\.git$','',(u or '').strip().rstrip('/').lower())
 def slugify(s): return re.sub(r'[^a-z0-9]+','-',s.split('/')[-1].lower()).strip('-')
 ACR={"rag","llm","ai","tts","cli","api","ml","ui","ux","sdk","mcp","db","vtuber","osint","slm","agi","nlp","gpu","cpu","io","cv","qa","ide","crm","pdf","html","css","json","yaml","ar","vr","p2p"}
@@ -50,7 +64,8 @@ def existing_urls():
 # ---- rapor GitHub item'ları ----
 def report_items():
     seen={}
-    for f in sorted(glob.glob(REPORTS+"/*.json")):
+    source_jsons = [f for f in glob.glob(os.path.join(REPORTS, "*.json")) if is_turkish_report_json(f)]
+    for f in sorted(source_jsons):
         try: d=json.load(open(f,encoding="utf-8"))
         except Exception: continue
         date=d.get("date","")
@@ -336,9 +351,10 @@ def enrich_entry(url,title,summary,key):
     for grp in ("kurulum","calistirma"):  # UYDURMA ENGELİ: README'de birebir geçmeyen komutu at
         g[grp]=[{"baslik":str(x.get("baslik","Komut"))[:40],"komut":clean_cmd(x.get("komut",""))}
                 for x in (g.get(grp) or []) if isinstance(x,dict) and verbatim_ok(x.get("komut",""),hay)]
-    g["kazanimlar"]=[str(x) for x in (g.get("kazanimlar") or [])][:4]
-    g["ai_prompt"]=str(g.get("ai_prompt") or ""); g["kimin_icin"]=str(g.get("kimin_icin") or "")
-    g["nasil_baslanir"]=str(g.get("nasil_baslanir") or "").strip()
+    g["kazanimlar"]=[clean_typography(str(x)) for x in (g.get("kazanimlar") or [])][:4]
+    g["ai_prompt"]=clean_typography(str(g.get("ai_prompt") or ""))
+    g["kimin_icin"]=clean_typography(str(g.get("kimin_icin") or ""))
+    g["nasil_baslanir"]=clean_typography(str(g.get("nasil_baslanir") or "").strip())
     meta=fetch_meta(owner,repo); g["license"]=meta.get("license","")
     if not (g["kurulum"] or g["calistirma"]):   # komut yok → komutsuz-zengin (düz-metin başlangıç + GERÇEK link)
         g["start_url"]=meta.get("homepage") or start_url(readme)   # repo sahibinin beyan ettiği resmî site, yoksa README
@@ -348,7 +364,7 @@ def enrich_entry(url,title,summary,key):
 def cmd_block(it):
     return ('<div class="disc-cmd"><div class="disc-cmd-head"><span>'+esc(it.get("baslik","Komut"))+'</span>'
             '<button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div>'
-            '<pre><code>'+esc(it.get("komut",""))+'</code></pre></div>')
+            '<pre><code>'+esc_code(it.get("komut",""))+'</code></pre></div>')
 
 def rich_sections(g, cmds=None):
     s=""
@@ -739,7 +755,8 @@ def returning_slugs():
         r=page_repo(c["slug"])
         if r: url2slug[r.lower()]=c["slug"]
     out=set()
-    for f in sorted(glob.glob(REPORTS+"/*.json"))[-2:]:
+    source_jsons = [f for f in glob.glob(os.path.join(REPORTS, "*.json")) if is_turkish_report_json(f)]
+    for f in sorted(source_jsons)[-2:]:
         try: d=json.load(open(f,encoding="utf-8"))
         except Exception: continue
         for sec in d.get("sections",[]):

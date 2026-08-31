@@ -42,7 +42,13 @@ def gemini_key():
                 return l.split("=", 1)[1].strip().strip('"').strip("'")
     return None
 
-def esc(s): import html; return html.escape(s or "", quote=True)
+def clean_typography(s):
+    if not s: return ""
+    return str(s).replace("—", "·").replace("🚀", "")
+
+def esc(s):
+    import html
+    return html.escape(clean_typography(s), quote=True)
 def slugify(t):
     t = t.lower().strip()
     for a,b in [("ç","c"),("ğ","g"),("ı","i"),("ş","s"),("ö","o"),("ü","u")]: t=t.replace(a,b)

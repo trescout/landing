@@ -79,6 +79,9 @@ jobs:
       - name: Sözlük kaynak filtresi kontratı
         run: python3 scripts/check-dict-sync-source-filter.py
 
+      - name: Keşif kaynak filtresi kontratı
+        run: python3 scripts/check-discovery-source-filter.py
+
       - name: Sözlüğü büyüt (yeni rapor terimleri)
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
