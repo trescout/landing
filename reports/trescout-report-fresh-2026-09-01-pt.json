@@ -1,0 +1,445 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-01",
+  "capturedAt": "2026-09-01T09:11:47.845Z",
+  "editorial": "Este relatório contém as tendências que se destacaram pela primeira vez hoje, sem repetir os registros incluídos nos relatórios normais dos últimos 30 dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": []
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Playa Phone",
+          "url": "https://playaphone.com/",
+          "summary": "Playa Phone é um smartphone minimalista projetado para reduzir o tempo de tela, focando em recursos básicos de comunicação. O dispositivo foca em usuários que desejam fazer um detox digital com uma interface livre de aplicativos complexos.",
+          "meta": "620 pontos · 210 comentários",
+          "snapshot": {
+            "sourceId": "49510514",
+            "capturedAt": "2026-09-01T09:11:48.101Z",
+            "metadata": {
+              "popularity": 620,
+              "engagementCount": 210,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49510514",
+                  "popularity": 620,
+                  "engagementCount": 210
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "cutoff",
+                "createdAt": "2026-08-31T14:52:26Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49510514"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49510514",
+              "popularity": 620,
+              "engagementCount": 210
+            }
+          ]
+        },
+        {
+          "title": "I turned my security cameras into an automatic bird identification system",
+          "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+          "summary": "Os usuários transformam imagens de câmeras de segurança em um sistema de observação automatizado processando-as com o software de identificação de aves BirdNET-Go. Este método oferece uma solução de baixo custo para monitorar a vida selvagem usando a infraestrutura de câmera existente.",
+          "meta": "493 pontos · 118 comentários",
+          "snapshot": {
+            "sourceId": "49511856",
+            "capturedAt": "2026-09-01T09:11:48.101Z",
+            "metadata": {
+              "popularity": 493,
+              "engagementCount": 118,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49511856",
+                  "popularity": 493,
+                  "engagementCount": 118
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "speckx",
+                "createdAt": "2026-08-31T16:47:11Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49511856"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49511856",
+              "popularity": 493,
+              "engagementCount": 118
+            }
+          ]
+        },
+        {
+          "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+          "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+          "summary": "O matemático Terence Tao explica seis conceitos matemáticos que formam a base para a compreensão do mundo moderno da ciência e da tecnologia. O vídeo aborda, em nível básico, as estruturas lógicas e os métodos de pensamento numérico usados na análise de sistemas complexos.",
+          "meta": "413 pontos · 60 comentários",
+          "snapshot": {
+            "sourceId": "49503521",
+            "capturedAt": "2026-09-01T09:11:48.101Z",
+            "metadata": {
+              "popularity": 413,
+              "engagementCount": 60,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49503521",
+                  "popularity": 413,
+                  "engagementCount": 60
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "matthewsinclair",
+                "createdAt": "2026-08-30T22:37:01Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49503521"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49503521",
+              "popularity": 413,
+              "engagementCount": 60
+            }
+          ]
+        },
+        {
+          "title": "Dwarf Fortress is getting the mother of all magic updates",
+          "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
+          "summary": "O jogo de simulação Dwarf Fortress está recebendo uma atualização abrangente que mudará radicalmente a estrutura cosmológica universal e o sistema de magia do jogo. Este desenvolvimento visa oferecer uma jogabilidade mais profunda ao integrar habilidades mágicas com as regras físicas e místicas fundamentais do jogo.",
+          "meta": "409 pontos · 168 comentários",
+          "snapshot": {
+            "sourceId": "49467636",
+            "capturedAt": "2026-09-01T09:11:48.101Z",
+            "metadata": {
+              "popularity": 409,
+              "engagementCount": 168,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49467636",
+                  "popularity": 409,
+                  "engagementCount": 168
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "Tomte",
+                "createdAt": "2026-08-27T16:45:22Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49467636"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49467636",
+              "popularity": 409,
+              "engagementCount": 168
+            }
+          ]
+        },
+        {
+          "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+          "summary": "A Apple está buscando aumentar sua capacidade de produção diante da demanda inesperada por modelos Mac Mini e Mac Studio por usuários que desejam executar aplicativos de inteligência artificial (artificial intelligence) localmente. A empresa está revisando suas estratégias de cadeia de suprimentos após esse intenso interesse em modelos de computadores de alto desempenho.",
+          "meta": "401 pontos · 448 comentários",
+          "snapshot": {
+            "sourceId": "49508982",
+            "capturedAt": "2026-09-01T09:11:48.101Z",
+            "metadata": {
+              "popularity": 401,
+              "engagementCount": 448,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49508982",
+                  "popularity": 401,
+                  "engagementCount": 448
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "thm",
+                "createdAt": "2026-08-31T12:41:22Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49508982"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49508982",
+              "popularity": 401,
+              "engagementCount": 448
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Chat-Edit-3D++: Interactive 3D and 4D Scene Editing via Large Language Models",
+          "url": "https://huggingface.co/papers/2608.29137",
+          "summary": "O Chat-Edit-3D++ utiliza grandes modelos de linguagem (large language models) para permitir a edição de cenas tridimensionais e quadridimensionais por meio de comandos de texto. Ele visa resolver problemas de métodos existentes, como flexibilidade limitada e configuração complexa, oferecendo uma ferramenta de design mais interativa.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2608.29137",
+            "capturedAt": "2026-09-01T09:11:48.014Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.29137",
+                "publishedAt": "2026-08-29T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Super Library Agent: Joint Generation and Maintenance of Multiple Applications Beyond the Single Codebase",
+          "url": "https://huggingface.co/papers/2608.29310",
+          "summary": "O Super Library Agent é uma ferramenta de inteligência artificial que gerencia múltiplos projetos de software a partir de um único centro, mantendo a lógica de código comum e os padrões operacionais. Essa abordagem visa reduzir a deterioração estrutural no processo de manutenção do software, evitando a duplicação de código entre aplicações independentes.",
+          "meta": "13 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2608.29310",
+            "capturedAt": "2026-09-01T09:11:48.014Z",
+            "metadata": {
+              "popularity": 13,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.29310",
+                "publishedAt": "2026-08-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/sbigstar0310/super-library-agent"
+              }
+            }
+          }
+        },
+        {
+          "title": "SafeAtlas-VL: Beyond Binary Multimodal Safety with Large-Scale Data and Guard Models",
+          "url": "https://huggingface.co/papers/2608.29098",
+          "summary": "O SafeAtlas-VL é um conjunto de dados com 1,5 milhão de exemplos desenvolvido para sistemas de segurança multimodal (multimodal safety) que avaliam conteúdo visual e a intenção do usuário. Ele visa analisar riscos em interações complexas com maior precisão, movendo as avaliações de segurança de mecanismos de decisão binários para uma escala mais detalhada.",
+          "meta": "2 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2608.29098",
+            "capturedAt": "2026-09-01T09:11:48.014Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.29098",
+                "publishedAt": "2026-08-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/zrwang1211/SafeAtlas-VL"
+              }
+            }
+          }
+        },
+        {
+          "title": "Evaluating the Hidden Costs of Personalization in Large Language Models",
+          "url": "https://huggingface.co/papers/2608.28833",
+          "summary": "O foco dos grandes modelos de linguagem (large language models) nas preferências do usuário durante os processos de personalização pode limitar a capacidade do modelo de fornecer respostas imparciais e informativas. Essa situação traz riscos como o uso desnecessário de dados pessoais, o reforço de preconceitos do usuário e a desinformação.",
+          "meta": "6 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2608.28833",
+            "capturedAt": "2026-09-01T09:11:48.014Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.28833",
+                "publishedAt": "2026-08-28T00:00:00.000Z",
+                "githubRepo": "https://github.com/yumeng-10/personalization_risk"
+              }
+            }
+          }
+        },
+        {
+          "title": "LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigation",
+          "url": "https://huggingface.co/papers/2608.30935",
+          "summary": "O LightNav-0 visa integrar diretamente a inteligência espacial possuída pelos modelos de visão e linguagem (vision-language models) aos processos de navegação robótica. Essa abordagem oferece um sistema integrado que permite aos robôs interpretar dados visuais complexos e convertê-los em ações em diferentes tarefas e ambientes.",
+          "meta": "20 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2608.30935",
+            "capturedAt": "2026-09-01T09:11:48.014Z",
+            "metadata": {
+              "popularity": 20,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.30935",
+                "publishedAt": "2026-08-31T00:00:00.000Z",
+                "githubRepo": "https://github.com/lightorigins/LightNav-0",
+                "githubStars": 180
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "curl: a CVE dispute",
+          "url": "https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/",
+          "summary": "A ferramenta de transferência de dados curl traz à tona uma divergência entre a equipe de desenvolvimento e os pesquisadores de segurança sobre notificações de vulnerabilidades (CVE). A gestão do projeto contesta os processos de relatório padrão, argumentando que certas situações classificadas como vulnerabilidades são, na verdade, comportamentos esperados.",
+          "meta": "75 pontos · 24 comentários",
+          "snapshot": {
+            "sourceId": "1pdfex",
+            "capturedAt": "2026-09-01T09:11:48.183Z",
+            "metadata": {
+              "popularity": 75,
+              "engagementCount": 24,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/1pdfex/curl_cve_dispute",
+                  "popularity": 75,
+                  "engagementCount": 24
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "security"
+                ],
+                "createdAt": "2026-08-31T05:38:12.836-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/1pdfex/curl_cve_dispute",
+              "popularity": 75,
+              "engagementCount": 24
+            }
+          ]
+        },
+        {
+          "title": "RangeFrom, Part 2..: What I think is wrong about the design",
+          "url": "https://erk.dev/2026/08/30/rangefrom-part-2",
+          "summary": "Os métodos de criação de intervalos (range creation) usados em processos de desenvolvimento de software são criticados devido a erros de design e gargalos de desempenho. As deficiências conceituais na abordagem RangeFrom desencadeiam a busca por novas soluções em termos de flexibilidade e segurança de tipo (type safety) nos processos de processamento de dados.",
+          "meta": "21 pontos · 29 comentários",
+          "snapshot": {
+            "sourceId": "hyn2bt",
+            "capturedAt": "2026-09-01T09:11:48.183Z",
+            "metadata": {
+              "popularity": 21,
+              "engagementCount": 29,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/hyn2bt/rangefrom_part_2_what_i_think_is_wrong",
+                  "popularity": 21,
+                  "engagementCount": 29
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "rust"
+                ],
+                "createdAt": "2026-08-31T11:53:28.422-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/hyn2bt/rangefrom_part_2_what_i_think_is_wrong",
+              "popularity": 21,
+              "engagementCount": 29
+            }
+          ]
+        },
+        {
+          "title": "VibeCoded AI-Slop License v1.0",
+          "url": "https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6",
+          "summary": "A VibeCoded AI-Slop License v1.0 é um contrato de licença que restringe o uso de conteúdo de baixa qualidade gerado por inteligência artificial (AI-slop) em projetos de software. Esta licença permite que os desenvolvedores controlem a inclusão de códigos gerados automaticamente em seus projetos.",
+          "meta": "59 pontos · 37 comentários",
+          "snapshot": {
+            "sourceId": "zzn47c",
+            "capturedAt": "2026-09-01T09:11:48.183Z",
+            "metadata": {
+              "popularity": 59,
+              "engagementCount": 37,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/zzn47c/vibecoded_ai_slop_license_v1_0",
+                  "popularity": 59,
+                  "engagementCount": 37
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "satire",
+                  "vibecoding"
+                ],
+                "createdAt": "2026-08-31T06:40:14.514-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/zzn47c/vibecoded_ai_slop_license_v1_0",
+              "popularity": 59,
+              "engagementCount": 37
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "large language model",
+      "explanation": "Modelo de inteligência artificial treinado com uma enorme quantidade de dados, capaz de entender a linguagem humana e gerar texto."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligência artificial treinados com uma enorme quantidade de dados, capazes de entender a linguagem humana e gerar texto."
+    },
+    {
+      "term": "artificial intelligence",
+      "explanation": "A capacidade de computadores pensarem, aprenderem e resolverem problemas como os seres humanos."
+    },
+    {
+      "term": "multimodal",
+      "explanation": "A capacidade da inteligência artificial de processar não apenas texto, mas também diferentes tipos de dados, como imagens, áudio e vídeo, simultaneamente."
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-01",
+  "capturedAt": "2026-09-01T09:11:47.845Z",
+  "editorial": "Bu rapor, son 30 gündeki normal raporlarda yer alan kayıtları tekrar etmeden bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": []
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Playa Phone",
+          "url": "https://playaphone.com/",
+          "summary": "Playa Phone, ekran süresini azaltmak amacıyla tasarlanmış, temel iletişim özelliklerine odaklanan minimalist bir akıllı telefon. Cihaz, karmaşık uygulamalardan arındırılmış arayüzüyle dijital detoks yapmak isteyen kullanıcılara odaklanıyor.",
+          "meta": "620 oy · 210 yorum",
+          "snapshot": {
+            "sourceId": "49510514",
+            "capturedAt": "2026-09-01T09:11:48.101Z",
+            "metadata": {
+              "popularity": 620,
+              "engagementCount": 210,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49510514",
+                  "popularity": 620,
+                  "engagementCount": 210
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "cutoff",
+                "createdAt": "2026-08-31T14:52:26Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49510514"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49510514",
+              "popularity": 620,
+              "engagementCount": 210
+            }
+          ]
+        },
+        {
+          "title": "I turned my security cameras into an automatic bird identification system",
+          "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+          "summary": "Kullanıcılar, güvenlik kameralarından gelen görüntüleri kuş tanımlama yazılımı BirdNET-Go ile işleyerek otomatik bir gözlem sistemine dönüştürüyor. Bu yöntem, mevcut kamera altyapısını kullanarak yaban hayatını takip etmek için düşük maliyetli bir çözüm sunuyor.",
+          "meta": "493 oy · 118 yorum",
+          "snapshot": {
+            "sourceId": "49511856",
+            "capturedAt": "2026-09-01T09:11:48.101Z",
+            "metadata": {
+              "popularity": 493,
+              "engagementCount": 118,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49511856",
+                  "popularity": 493,
+                  "engagementCount": 118
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "speckx",
+                "createdAt": "2026-08-31T16:47:11Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49511856"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49511856",
+              "popularity": 493,
+              "engagementCount": 118
+            }
+          ]
+        },
+        {
+          "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+          "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+          "summary": "Matematikçi Terence Tao, modern bilim ve teknoloji dünyasını anlamak için temel teşkil eden altı matematiksel kavramı açıklıyor. Video, karmaşık sistemlerin analizinde kullanılan mantıksal çerçeveleri ve sayısal düşünme yöntemlerini temel düzeyde ele alıyor.",
+          "meta": "413 oy · 60 yorum",
+          "snapshot": {
+            "sourceId": "49503521",
+            "capturedAt": "2026-09-01T09:11:48.101Z",
+            "metadata": {
+              "popularity": 413,
+              "engagementCount": 60,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49503521",
+                  "popularity": 413,
+                  "engagementCount": 60
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "matthewsinclair",
+                "createdAt": "2026-08-30T22:37:01Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49503521"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49503521",
+              "popularity": 413,
+              "engagementCount": 60
+            }
+          ]
+        },
+        {
+          "title": "Dwarf Fortress is getting the mother of all magic updates",
+          "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
+          "summary": "Simülasyon oyunu Dwarf Fortress, oyunun evrensel kozmolojik yapısını ve büyü sistemini kökten değiştirecek kapsamlı bir güncelleme alıyor. Bu geliştirme, büyü yeteneklerini oyunun temel fiziksel ve mistik kurallarıyla bütünleştirerek daha derin bir oynanış sunmayı hedefliyor.",
+          "meta": "409 oy · 168 yorum",
+          "snapshot": {
+            "sourceId": "49467636",
+            "capturedAt": "2026-09-01T09:11:48.101Z",
+            "metadata": {
+              "popularity": 409,
+              "engagementCount": 168,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49467636",
+                  "popularity": 409,
+                  "engagementCount": 168
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "Tomte",
+                "createdAt": "2026-08-27T16:45:22Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49467636"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49467636",
+              "popularity": 409,
+              "engagementCount": 168
+            }
+          ]
+        },
+        {
+          "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+          "summary": "Apple, yapay zekâ (artificial intelligence) uygulamalarını yerel olarak çalıştırmak isteyen kullanıcıların Mac Mini ve Mac Studio modellerine gösterdiği beklenmedik talep karşısında üretim kapasitesini artırma arayışına girdi. Şirket, yüksek performanslı bilgisayar modellerindeki bu yoğun ilginin ardından tedarik zinciri stratejilerini yeniden gözden geçiriyor.",
+          "meta": "401 oy · 448 yorum",
+          "snapshot": {
+            "sourceId": "49508982",
+            "capturedAt": "2026-09-01T09:11:48.101Z",
+            "metadata": {
+              "popularity": 401,
+              "engagementCount": 448,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49508982",
+                  "popularity": 401,
+                  "engagementCount": 448
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "thm",
+                "createdAt": "2026-08-31T12:41:22Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49508982"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49508982",
+              "popularity": 401,
+              "engagementCount": 448
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Chat-Edit-3D++: Interactive 3D and 4D Scene Editing via Large Language Models",
+          "url": "https://huggingface.co/papers/2608.29137",
+          "summary": "Chat-Edit-3D++, büyük dil modellerini (large language models) kullanarak üç boyutlu ve dört boyutlu sahnelerin metin komutlarıyla düzenlenmesini sağlıyor. Mevcut yöntemlerin kısıtlı esneklik ve karmaşık yapılandırma gibi sorunlarını, daha etkileşimli bir tasarım aracı sunarak çözmeyi hedefliyor.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2608.29137",
+            "capturedAt": "2026-09-01T09:11:48.014Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.29137",
+                "publishedAt": "2026-08-29T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Super Library Agent: Joint Generation and Maintenance of Multiple Applications Beyond the Single Codebase",
+          "url": "https://huggingface.co/papers/2608.29310",
+          "summary": "Super Library Agent, birden fazla yazılım projesini tek bir merkezden yöneterek ortak kod mantığını ve operasyonel standartları koruyan bir yapay zekâ aracıdır. Bu yaklaşım, bağımsız uygulamalar arasında kod tekrarını engelleyerek yazılımın bakım sürecindeki yapısal bozulmaları azaltmayı amaçlar.",
+          "meta": "13 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2608.29310",
+            "capturedAt": "2026-09-01T09:11:48.014Z",
+            "metadata": {
+              "popularity": 13,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.29310",
+                "publishedAt": "2026-08-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/sbigstar0310/super-library-agent"
+              }
+            }
+          }
+        },
+        {
+          "title": "SafeAtlas-VL: Beyond Binary Multimodal Safety with Large-Scale Data and Guard Models",
+          "url": "https://huggingface.co/papers/2608.29098",
+          "summary": "SafeAtlas-VL, görsel içerik ve kullanıcı niyetini değerlendiren çok modlu güvenlik (multimodal safety) sistemleri için geliştirilen 1,5 milyon örnekli bir veri setidir. Güvenlik değerlendirmelerini ikili karar mekanizmalarından çıkarıp daha detaylı bir ölçeğe taşıyarak karmaşık etkileşimlerdeki riskleri daha hassas analiz etmeyi hedefler.",
+          "meta": "2 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2608.29098",
+            "capturedAt": "2026-09-01T09:11:48.014Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.29098",
+                "publishedAt": "2026-08-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/zrwang1211/SafeAtlas-VL"
+              }
+            }
+          }
+        },
+        {
+          "title": "Evaluating the Hidden Costs of Personalization in Large Language Models",
+          "url": "https://huggingface.co/papers/2608.28833",
+          "summary": "Büyük dil modellerinin (large language models) kişiselleştirme süreçlerinde kullanıcı tercihlerine odaklanması, modelin tarafsız ve bilgilendirici yanıtlar verme yeteneğini kısıtlayabiliyor. Bu durum gereksiz kişisel veri kullanımı, kullanıcı önyargılarını pekiştirme ve yanlış yönlendirme gibi riskleri beraberinde getiriyor.",
+          "meta": "6 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2608.28833",
+            "capturedAt": "2026-09-01T09:11:48.014Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.28833",
+                "publishedAt": "2026-08-28T00:00:00.000Z",
+                "githubRepo": "https://github.com/yumeng-10/personalization_risk"
+              }
+            }
+          }
+        },
+        {
+          "title": "LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigation",
+          "url": "https://huggingface.co/papers/2608.30935",
+          "summary": "LightNav-0, görsel dil modellerinin (vision-language models) sahip olduğu mekânsal zekayı robotik navigasyon süreçlerine doğrudan entegre etmeyi amaçlıyor. Bu yaklaşım, robotların farklı görev ve ortamlarda karmaşık görsel verileri anlamlandırarak eyleme dönüştürmesini sağlayan bütünleşik bir sistem sunuyor.",
+          "meta": "20 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2608.30935",
+            "capturedAt": "2026-09-01T09:11:48.014Z",
+            "metadata": {
+              "popularity": 20,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.30935",
+                "publishedAt": "2026-08-31T00:00:00.000Z",
+                "githubRepo": "https://github.com/lightorigins/LightNav-0",
+                "githubStars": 180
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "curl: a CVE dispute",
+          "url": "https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/",
+          "summary": "Veri aktarım aracı curl, güvenlik açığı bildirimleri (CVE) konusunda geliştirici ekibi ile güvenlik araştırmacıları arasında yaşanan bir anlaşmazlığı gündeme getiriyor. Proje yönetimi, güvenlik açığı olarak sınıflandırılan bazı durumların aslında beklenen davranışlar olduğunu savunarak standart raporlama süreçlerine itiraz ediyor.",
+          "meta": "75 oy · 24 yorum",
+          "snapshot": {
+            "sourceId": "1pdfex",
+            "capturedAt": "2026-09-01T09:11:48.183Z",
+            "metadata": {
+              "popularity": 75,
+              "engagementCount": 24,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/1pdfex/curl_cve_dispute",
+                  "popularity": 75,
+                  "engagementCount": 24
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "security"
+                ],
+                "createdAt": "2026-08-31T05:38:12.836-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/1pdfex/curl_cve_dispute",
+              "popularity": 75,
+              "engagementCount": 24
+            }
+          ]
+        },
+        {
+          "title": "RangeFrom, Part 2..: What I think is wrong about the design",
+          "url": "https://erk.dev/2026/08/30/rangefrom-part-2",
+          "summary": "Yazılım geliştirme süreçlerinde kullanılan aralık oluşturma (range creation) yöntemleri, tasarım hataları ve performans darboğazları nedeniyle eleştiriliyor. RangeFrom yaklaşımındaki kurgusal eksiklikler, veri işleme süreçlerinde esneklik ve tip güvenliği (type safety) açısından yeni çözüm arayışlarını tetikliyor.",
+          "meta": "21 oy · 29 yorum",
+          "snapshot": {
+            "sourceId": "hyn2bt",
+            "capturedAt": "2026-09-01T09:11:48.183Z",
+            "metadata": {
+              "popularity": 21,
+              "engagementCount": 29,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/hyn2bt/rangefrom_part_2_what_i_think_is_wrong",
+                  "popularity": 21,
+                  "engagementCount": 29
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "rust"
+                ],
+                "createdAt": "2026-08-31T11:53:28.422-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/hyn2bt/rangefrom_part_2_what_i_think_is_wrong",
+              "popularity": 21,
+              "engagementCount": 29
+            }
+          ]
+        },
+        {
+          "title": "VibeCoded AI-Slop License v1.0",
+          "url": "https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6",
+          "summary": "VibeCoded AI-Slop License v1.0, yapay zekâ tarafından üretilen düşük nitelikli içeriklerin (AI-slop) yazılım projelerinde kullanılmasını kısıtlayan bir lisans sözleşmesi. Bu lisans, geliştiricilerin projelerine otomatik üretilmiş kodların dahil edilmesini denetlemelerine olanak tanıyor.",
+          "meta": "59 oy · 37 yorum",
+          "snapshot": {
+            "sourceId": "zzn47c",
+            "capturedAt": "2026-09-01T09:11:48.183Z",
+            "metadata": {
+              "popularity": 59,
+              "engagementCount": 37,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/zzn47c/vibecoded_ai_slop_license_v1_0",
+                  "popularity": 59,
+                  "engagementCount": 37
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "satire",
+                  "vibecoding"
+                ],
+                "createdAt": "2026-08-31T06:40:14.514-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/zzn47c/vibecoded_ai_slop_license_v1_0",
+              "popularity": 59,
+              "engagementCount": 37
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "large language model",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modeli."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "artificial intelligence",
+      "explanation": "Bilgisayarların insanlar gibi düşünme, öğrenme ve problem çözme yeteneği kazanması."
+    },
+    {
+      "term": "multimodal",
+      "explanation": "Yapay zekânın sadece metin değil, aynı zamanda görsel, ses ve video gibi farklı veri türlerini aynı anda işleyebilmesi."
+    }
+  ]
+}

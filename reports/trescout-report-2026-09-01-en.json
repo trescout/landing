@@ -1,0 +1,959 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-01",
+  "capturedAt": "2026-09-01T09:11:47.845Z",
+  "editorial": "Today, agent architectures that automate application development processes with open-source large language models are at the forefront. Hacker News data points to the rise of personal automation and customized device designs in hardware projects.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "THU-MAIC/OpenMAIC",
+          "url": "https://github.com/THU-MAIC/OpenMAIC",
+          "summary": "OpenMAIC offers an immersive learning environment that allows for setting up multi-agent AI interactions with a single click. This TypeScript-based open-source project enables users to have an interactive experience by creating simulations where different agents coexist.",
+          "meta": "TypeScript · ★ 28,460 · +2,824 today",
+          "snapshot": {
+            "sourceId": "THU-MAIC/OpenMAIC",
+            "capturedAt": "2026-09-01T09:11:49.118Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 28460,
+              "engagementCount": 2824,
+              "rank": 1,
+              "extra": {
+                "starsToday": 2824
+              }
+            }
+          }
+        },
+        {
+          "title": "tt-a1i/archify",
+          "url": "https://github.com/tt-a1i/archify",
+          "summary": "Archify is an AI skill that generates software architecture, workflow, and data flow diagrams as verifiable and animated HTML files. This tool allows for both interactive viewing of technical diagrams in the browser and exporting them in high-quality formats.",
+          "meta": "JavaScript · ★ 40,434 · +3,991 today",
+          "snapshot": {
+            "sourceId": "tt-a1i/archify",
+            "capturedAt": "2026-09-01T09:11:49.118Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 40434,
+              "engagementCount": 3991,
+              "rank": 2,
+              "extra": {
+                "starsToday": 3991
+              }
+            }
+          }
+        },
+        {
+          "title": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "summary": "Scientific-agent-skills is a library that transforms AI agents into experts capable of being used in scientific research processes. By offering 165 verified skills and over 100 databases in fields such as biology and chemistry, it works integrated with tools like the code editor Cursor or the AI assistant Claude Code.",
+          "meta": "Python · ★ 41,139 · +1,980 today",
+          "snapshot": {
+            "sourceId": "K-Dense-AI/scientific-agent-skills",
+            "capturedAt": "2026-09-01T09:11:49.118Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 41139,
+              "engagementCount": 1980,
+              "rank": 3,
+              "extra": {
+                "starsToday": 1980
+              }
+            }
+          }
+        },
+        {
+          "title": "k1tbyte/Wand-Enhancer",
+          "url": "https://github.com/k1tbyte/Wand-Enhancer",
+          "summary": "Wand-Enhancer is a user experience (UX) and interoperability plugin developed for the game modding platform WeMod. Written in C#, this tool focuses on improving the functionality of the existing modding interface and in-app interactions.",
+          "meta": "C# · ★ 23,524 · +582 today",
+          "snapshot": {
+            "sourceId": "k1tbyte/Wand-Enhancer",
+            "capturedAt": "2026-09-01T09:11:49.118Z",
+            "metadata": {
+              "language": "C#",
+              "popularity": 23524,
+              "engagementCount": 582,
+              "rank": 4,
+              "extra": {
+                "starsToday": 582
+              }
+            }
+          }
+        },
+        {
+          "title": "majd/ipatool",
+          "url": "https://github.com/majd/ipatool",
+          "summary": "Developed by Majd, ipatool is a command-line tool for searching and downloading application packages (IPA files) for iOS, iPadOS, tvOS, and visionOS from the Apple App Store. Written in the Go programming language, this software allows users to gain direct access to application files.",
+          "meta": "Go · ★ 10,677 · +373 today",
+          "snapshot": {
+            "sourceId": "majd/ipatool",
+            "capturedAt": "2026-09-01T09:11:49.118Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 10677,
+              "engagementCount": 373,
+              "rank": 5,
+              "extra": {
+                "starsToday": 373
+              }
+            }
+          }
+        },
+        {
+          "title": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "summary": "Minimind is a Python project that allows you to train a 64-million parameter large language model from scratch in two hours. By lowering hardware requirements, it provides a practical application area for those who want to learn how AI models are trained.",
+          "meta": "Python · ★ 56,614 · +495 today",
+          "snapshot": {
+            "sourceId": "jingyaogong/minimind",
+            "capturedAt": "2026-09-01T09:11:49.118Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 56614,
+              "engagementCount": 495,
+              "rank": 6,
+              "extra": {
+                "starsToday": 495
+              }
+            }
+          }
+        },
+        {
+          "title": "Osmantic/ODS",
+          "url": "https://github.com/Osmantic/ODS",
+          "summary": "Osmantic ODS is an open-source platform that turns computers into a local AI server. It combines advanced features such as LLM inference, voice interaction, image generation, and document-based information retrieval (RAG) into a single interface.",
+          "meta": "Python · ★ 5,739 · +77 today",
+          "snapshot": {
+            "sourceId": "Osmantic/ODS",
+            "capturedAt": "2026-09-01T09:11:49.118Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 5739,
+              "engagementCount": 77,
+              "rank": 7,
+              "extra": {
+                "starsToday": 77
+              }
+            }
+          }
+        },
+        {
+          "title": "checkstyle/checkstyle",
+          "url": "https://github.com/checkstyle/checkstyle",
+          "summary": "Checkstyle is a development tool that helps Java programmers develop software in accordance with established coding standards. Supporting common standards such as the Google Java Style Guide, this tool can be configured via the command line or ANT tasks.",
+          "meta": "Java · ★ 9,496 · +198 today",
+          "snapshot": {
+            "sourceId": "checkstyle/checkstyle",
+            "capturedAt": "2026-09-01T09:11:49.118Z",
+            "metadata": {
+              "language": "Java",
+              "popularity": 9496,
+              "engagementCount": 198,
+              "rank": 8,
+              "extra": {
+                "starsToday": 198
+              }
+            }
+          }
+        },
+        {
+          "title": "zhaoxuya520/reverse-skill",
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "summary": "Reverse-skill is an AI-powered skill routing package developed for cybersecurity researchers and penetration testing experts. It works integrated with code-writing assistants (Claude Code, Cursor, Cline) to automatically install toolchains needed for security tasks and continuously updates its knowledge base.",
+          "meta": "PowerShell · ★ 33,550 · +1,401 today",
+          "snapshot": {
+            "sourceId": "zhaoxuya520/reverse-skill",
+            "capturedAt": "2026-09-01T09:11:49.118Z",
+            "metadata": {
+              "language": "PowerShell",
+              "popularity": 33550,
+              "engagementCount": 1401,
+              "rank": 9,
+              "extra": {
+                "starsToday": 1401
+              }
+            }
+          }
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC is a system that provides performance optimization for AI coding tools (such as Claude Code and Cursor). With its focus on skills, memory management, and security, it aims to increase the efficiency of AI models used in software development processes.",
+          "meta": "JavaScript · ★ 245,452 · +512 today",
+          "snapshot": {
+            "sourceId": "affaan-m/ECC",
+            "capturedAt": "2026-09-01T09:11:49.118Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 245452,
+              "engagementCount": 512,
+              "rank": 10,
+              "extra": {
+                "starsToday": 512
+              }
+            }
+          }
+        },
+        {
+          "title": "kaifcodec/user-scanner",
+          "url": "https://github.com/kaifcodec/user-scanner",
+          "summary": "Developed in the Python language, user-scanner is an open-source intelligence (OSINT) tool that collects data from over 465 different sources using a single email address or username. It provides a comprehensive scanning infrastructure for security researchers and those performing digital footprint analysis.",
+          "meta": "Python · ★ 4,481 · +93 today",
+          "snapshot": {
+            "sourceId": "kaifcodec/user-scanner",
+            "capturedAt": "2026-09-01T09:11:49.118Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 4481,
+              "engagementCount": 93,
+              "rank": 11,
+              "extra": {
+                "starsToday": 93
+              }
+            }
+          }
+        },
+        {
+          "title": "every-app/open-seo",
+          "url": "https://github.com/every-app/open-seo",
+          "summary": "Open-seo offers an open-source alternative to paid tools like Semrush and Ahrefs for analyzing search engine optimization (SEO) data. Developed in TypeScript, this software provides the essential tools needed to track website performance and keyword rankings for free.",
+          "meta": "TypeScript · ★ 15,947 · +610 today",
+          "snapshot": {
+            "sourceId": "every-app/open-seo",
+            "capturedAt": "2026-09-01T09:11:49.118Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 15947,
+              "engagementCount": 610,
+              "rank": 12,
+              "extra": {
+                "starsToday": 610
+              }
+            }
+          }
+        },
+        {
+          "title": "p-e-w/heretic",
+          "url": "https://github.com/p-e-w/heretic",
+          "summary": "Heretic is a Python tool that automatically removes censorship mechanisms on language models. It allows large language models to bypass restrictions and provide a wider range of responses.",
+          "meta": "Python · ★ 29,834 · +537 today",
+          "snapshot": {
+            "sourceId": "p-e-w/heretic",
+            "capturedAt": "2026-09-01T09:11:49.118Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 29834,
+              "engagementCount": 537,
+              "rank": 13,
+              "extra": {
+                "starsToday": 537
+              }
+            }
+          }
+        },
+        {
+          "title": "handsomestWei/patent-disclosure-skill",
+          "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+          "summary": "Patent-disclosure-skill is a Python tool that analyzes invention points in patent applications and prepares technical disclosures. While summarizing patent texts in plain language, it also helps track policy changes and generate responses to examination processes.",
+          "meta": "Python · ★ 6,512 · +571 today",
+          "snapshot": {
+            "sourceId": "handsomestWei/patent-disclosure-skill",
+            "capturedAt": "2026-09-01T09:11:49.118Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 6512,
+              "engagementCount": 571,
+              "rank": 14,
+              "extra": {
+                "starsToday": 571
+              }
+            }
+          }
+        },
+        {
+          "title": "firecrawl/pdf-inspector",
+          "url": "https://github.com/firecrawl/pdf-inspector",
+          "summary": "Developed in Rust, PDF Inspector is a fast library that examines, classifies, and extracts text from PDF files. It distinguishes between scanned documents and text-based files, enabling smart routing decisions in data processing workflows.",
+          "meta": "Rust · ★ 17,597 · +228 today",
+          "snapshot": {
+            "sourceId": "firecrawl/pdf-inspector",
+            "capturedAt": "2026-09-01T09:11:49.118Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 17597,
+              "engagementCount": 228,
+              "rank": 15,
+              "extra": {
+                "starsToday": 228
+              }
+            }
+          }
+        },
+        {
+          "title": "pollen-robotics/microduck_rl",
+          "url": "https://github.com/pollen-robotics/microduck_rl",
+          "summary": "Developed by Pollen Robotics, microduck_rl provides reinforcement learning training environments for the small-scale robotic platform Microduck. This library allows for the development and testing of robotic control algorithms on the physics-based simulation tool mjlab.",
+          "meta": "Python · ★ 1,328 · +385 today",
+          "snapshot": {
+            "sourceId": "pollen-robotics/microduck_rl",
+            "capturedAt": "2026-09-01T09:11:49.118Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 1328,
+              "engagementCount": 385,
+              "rank": 16,
+              "extra": {
+                "starsToday": 385
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Playa Phone",
+          "url": "https://playaphone.com/",
+          "summary": "Playa Phone is a minimalist smartphone designed to reduce screen time, focusing on essential communication features. With an interface stripped of complex applications, the device targets users looking to perform a digital detox.",
+          "meta": "620 points · 210 comments",
+          "snapshot": {
+            "sourceId": "49510514",
+            "capturedAt": "2026-09-01T09:11:48.101Z",
+            "metadata": {
+              "popularity": 620,
+              "engagementCount": 210,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49510514",
+                  "popularity": 620,
+                  "engagementCount": 210
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "cutoff",
+                "createdAt": "2026-08-31T14:52:26Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49510514"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49510514",
+              "popularity": 620,
+              "engagementCount": 210
+            }
+          ]
+        },
+        {
+          "title": "I turned my security cameras into an automatic bird identification system",
+          "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+          "summary": "Users are transforming security camera footage into an automated observation system by processing it with the bird identification software BirdNET-Go. This method offers a low-cost solution for tracking wildlife using existing camera infrastructure.",
+          "meta": "493 points · 118 comments",
+          "snapshot": {
+            "sourceId": "49511856",
+            "capturedAt": "2026-09-01T09:11:48.101Z",
+            "metadata": {
+              "popularity": 493,
+              "engagementCount": 118,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49511856",
+                  "popularity": 493,
+                  "engagementCount": 118
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "speckx",
+                "createdAt": "2026-08-31T16:47:11Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49511856"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49511856",
+              "popularity": 493,
+              "engagementCount": 118
+            }
+          ]
+        },
+        {
+          "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+          "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+          "summary": "Mathematician Terence Tao explains six mathematical concepts that form the foundation for understanding the modern world of science and technology. The video covers the logical frameworks and numerical thinking methods used in the analysis of complex systems at a fundamental level.",
+          "meta": "413 points · 60 comments",
+          "snapshot": {
+            "sourceId": "49503521",
+            "capturedAt": "2026-09-01T09:11:48.101Z",
+            "metadata": {
+              "popularity": 413,
+              "engagementCount": 60,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49503521",
+                  "popularity": 413,
+                  "engagementCount": 60
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "matthewsinclair",
+                "createdAt": "2026-08-30T22:37:01Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49503521"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49503521",
+              "popularity": 413,
+              "engagementCount": 60
+            }
+          ]
+        },
+        {
+          "title": "Dwarf Fortress is getting the mother of all magic updates",
+          "url": "https://www.rockpapershotgun.com/dwarf-fortress-is-getting-the-mother-of-all-magic-updates-extending-to-the-fundamental-cosmological-makeup-of-the-universe",
+          "summary": "The simulation game Dwarf Fortress is receiving a comprehensive update that will fundamentally change the game's universal cosmological structure and magic system. This development aims to offer deeper gameplay by integrating magical abilities with the game's core physical and mystical rules.",
+          "meta": "409 points · 168 comments",
+          "snapshot": {
+            "sourceId": "49467636",
+            "capturedAt": "2026-09-01T09:11:48.101Z",
+            "metadata": {
+              "popularity": 409,
+              "engagementCount": 168,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49467636",
+                  "popularity": 409,
+                  "engagementCount": 168
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "Tomte",
+                "createdAt": "2026-08-27T16:45:22Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49467636"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49467636",
+              "popularity": 409,
+              "engagementCount": 168
+            }
+          ]
+        },
+        {
+          "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+          "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+          "summary": "Apple is seeking to increase production capacity in response to unexpected demand for Mac Mini and Mac Studio models from users who want to run artificial intelligence applications locally. The company is reviewing its supply chain strategies following this intense interest in its high-performance computer models.",
+          "meta": "401 points · 448 comments",
+          "snapshot": {
+            "sourceId": "49508982",
+            "capturedAt": "2026-09-01T09:11:48.101Z",
+            "metadata": {
+              "popularity": 401,
+              "engagementCount": 448,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49508982",
+                  "popularity": 401,
+                  "engagementCount": 448
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "thm",
+                "createdAt": "2026-08-31T12:41:22Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49508982"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49508982",
+              "popularity": 401,
+              "engagementCount": 448
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Qwen/Qwen3.8-Flash-Next",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+          "summary": "Qwen3.8-Flash-Next, developed by Alibaba, is a multimodal artificial intelligence model capable of processing both visual and textual data. Generating text-based responses with low latency, this model offers the ability to analyze visual content and convert it into text.",
+          "meta": "♥ 4,560 · 158,598 downloads",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-Flash-Next",
+            "capturedAt": "2026-09-01T09:11:48.012Z",
+            "metadata": {
+              "popularity": 4560,
+              "engagementCount": 158598,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 4328,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen4_exp",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:other",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "zai-org/GLM-5.3-Flash",
+          "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+          "summary": "GLM-5.3-Flash, developed by Zai-org, is a multimodal artificial intelligence model that processes visual and text data to produce text output. Shared on Hugging Face, this model offers a structure optimized for fast inference processes.",
+          "meta": "♥ 1,833 · 379,271 downloads",
+          "snapshot": {
+            "sourceId": "zai-org/GLM-5.3-Flash",
+            "capturedAt": "2026-09-01T09:11:48.012Z",
+            "metadata": {
+              "popularity": 1833,
+              "engagementCount": 379271,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1725,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "glm5_next",
+                  "image-text-to-text",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "arxiv:2602.15763",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "zai-org/GLM-5.3",
+          "url": "https://huggingface.co/zai-org/GLM-5.3",
+          "summary": "GLM-5.3, published by Zai-org, is an artificial intelligence model capable of text generation. Hosted on HuggingFace, this model was developed for content production processes in the large language models category.",
+          "meta": "♥ 1,430 · 66,195 downloads",
+          "snapshot": {
+            "sourceId": "zai-org/GLM-5.3",
+            "capturedAt": "2026-09-01T09:11:48.012Z",
+            "metadata": {
+              "popularity": 1430,
+              "engagementCount": 66195,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 1368,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "glm_moe_dsa",
+                  "text-generation",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "arxiv:2602.15763",
+                  "license:other",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Qwen2.5-27B, developed by Alibaba, is a multimodal artificial intelligence model capable of processing both visual and textual data. Thanks to its open-weight structure, users can run complex visual analysis and text generation tasks on their own infrastructure.",
+          "meta": "♥ 13,508 · 4,720,763 downloads",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-27B",
+            "capturedAt": "2026-09-01T09:11:48.012Z",
+            "metadata": {
+              "popularity": 13508,
+              "engagementCount": 4720763,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 695,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "deploy:azure",
+                  "deploy:sagemaker",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
+          "summary": "Qwen3.8-Flash-Next-GGUF, offered by Unsloth, is a multimodal artificial intelligence model capable of processing visual and text data. The model allows for fast inference on local devices thanks to its compressed file format (GGUF), which can run with low hardware requirements.",
+          "meta": "♥ 645 · 373,029 downloads",
+          "snapshot": {
+            "sourceId": "unsloth/Qwen3.8-Flash-Next-GGUF",
+            "capturedAt": "2026-09-01T09:11:48.012Z",
+            "metadata": {
+              "popularity": 645,
+              "engagementCount": 373029,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 630,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "gguf",
+                  "unsloth",
+                  "image-text-to-text",
+                  "base_model:Qwen/Qwen3.8-Flash-Next",
+                  "base_model:quantized:Qwen/Qwen3.8-Flash-Next",
+                  "license:other",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Chat-Edit-3D++: Interactive 3D and 4D Scene Editing via Large Language Models",
+          "url": "https://huggingface.co/papers/2608.29137",
+          "summary": "Chat-Edit-3D++ enables the editing of 3D and 4D scenes using text prompts by utilizing large language models. It aims to solve problems such as limited flexibility and complex configuration of existing methods by offering a more interactive design tool.",
+          "meta": "1 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2608.29137",
+            "capturedAt": "2026-09-01T09:11:48.014Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.29137",
+                "publishedAt": "2026-08-29T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Super Library Agent: Joint Generation and Maintenance of Multiple Applications Beyond the Single Codebase",
+          "url": "https://huggingface.co/papers/2608.29310",
+          "summary": "Super Library Agent is an artificial intelligence tool that manages multiple software projects from a single hub, maintaining common code logic and operational standards. This approach aims to reduce structural degradation in the software maintenance process by preventing code duplication between independent applications.",
+          "meta": "13 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2608.29310",
+            "capturedAt": "2026-09-01T09:11:48.014Z",
+            "metadata": {
+              "popularity": 13,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.29310",
+                "publishedAt": "2026-08-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/sbigstar0310/super-library-agent"
+              }
+            }
+          }
+        },
+        {
+          "title": "SafeAtlas-VL: Beyond Binary Multimodal Safety with Large-Scale Data and Guard Models",
+          "url": "https://huggingface.co/papers/2608.29098",
+          "summary": "SafeAtlas-VL is a dataset of 1.5 million samples developed for multimodal safety systems that evaluate visual content and user intent. It aims to analyze risks in complex interactions more precisely by moving safety evaluations from binary decision mechanisms to a more detailed scale.",
+          "meta": "2 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2608.29098",
+            "capturedAt": "2026-09-01T09:11:48.014Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.29098",
+                "publishedAt": "2026-08-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/zrwang1211/SafeAtlas-VL"
+              }
+            }
+          }
+        },
+        {
+          "title": "Evaluating the Hidden Costs of Personalization in Large Language Models",
+          "url": "https://huggingface.co/papers/2608.28833",
+          "summary": "The focus of large language models on user preferences during personalization processes can limit the model's ability to provide neutral and informative responses. This situation brings risks such as unnecessary personal data usage, reinforcing user biases, and misinformation.",
+          "meta": "6 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2608.28833",
+            "capturedAt": "2026-09-01T09:11:48.014Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.28833",
+                "publishedAt": "2026-08-28T00:00:00.000Z",
+                "githubRepo": "https://github.com/yumeng-10/personalization_risk"
+              }
+            }
+          }
+        },
+        {
+          "title": "LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigation",
+          "url": "https://huggingface.co/papers/2608.30935",
+          "summary": "LightNav-0 aims to directly integrate the spatial intelligence possessed by vision-language models into robotic navigation processes. This approach offers an integrated system that enables robots to interpret and act upon complex visual data in different tasks and environments.",
+          "meta": "20 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2608.30935",
+            "capturedAt": "2026-09-01T09:11:48.014Z",
+            "metadata": {
+              "popularity": 20,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.30935",
+                "publishedAt": "2026-08-31T00:00:00.000Z",
+                "githubRepo": "https://github.com/lightorigins/LightNav-0",
+                "githubStars": 180
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "curl: a CVE dispute",
+          "url": "https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/",
+          "summary": "The data transfer tool curl is bringing to light a disagreement between its developer team and security researchers regarding vulnerability reports (CVE). Project management objects to standard reporting processes, arguing that some situations classified as vulnerabilities are actually expected behaviors.",
+          "meta": "75 points · 24 comments",
+          "snapshot": {
+            "sourceId": "1pdfex",
+            "capturedAt": "2026-09-01T09:11:48.183Z",
+            "metadata": {
+              "popularity": 75,
+              "engagementCount": 24,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/1pdfex/curl_cve_dispute",
+                  "popularity": 75,
+                  "engagementCount": 24
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "security"
+                ],
+                "createdAt": "2026-08-31T05:38:12.836-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/1pdfex/curl_cve_dispute",
+              "popularity": 75,
+              "engagementCount": 24
+            }
+          ]
+        },
+        {
+          "title": "RangeFrom, Part 2..: What I think is wrong about the design",
+          "url": "https://erk.dev/2026/08/30/rangefrom-part-2",
+          "summary": "Range creation methods used in software development processes are criticized due to design flaws and performance bottlenecks. Fictional shortcomings in the RangeFrom approach trigger a search for new solutions in terms of flexibility and type safety in data processing.",
+          "meta": "21 points · 29 comments",
+          "snapshot": {
+            "sourceId": "hyn2bt",
+            "capturedAt": "2026-09-01T09:11:48.183Z",
+            "metadata": {
+              "popularity": 21,
+              "engagementCount": 29,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/hyn2bt/rangefrom_part_2_what_i_think_is_wrong",
+                  "popularity": 21,
+                  "engagementCount": 29
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "rust"
+                ],
+                "createdAt": "2026-08-31T11:53:28.422-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/hyn2bt/rangefrom_part_2_what_i_think_is_wrong",
+              "popularity": 21,
+              "engagementCount": 29
+            }
+          ]
+        },
+        {
+          "title": "VibeCoded AI-Slop License v1.0",
+          "url": "https://gist.github.com/NicolasCARPi/3fd349ed1ed52ae6b835d5364cda4cd6",
+          "summary": "VibeCoded AI-Slop License v1.0 is a license agreement that restricts the use of low-quality content produced by artificial intelligence (AI-slop) in software projects. This license allows developers to audit the inclusion of automatically generated code in their projects.",
+          "meta": "59 points · 37 comments",
+          "snapshot": {
+            "sourceId": "zzn47c",
+            "capturedAt": "2026-09-01T09:11:48.183Z",
+            "metadata": {
+              "popularity": 59,
+              "engagementCount": 37,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/zzn47c/vibecoded_ai_slop_license_v1_0",
+                  "popularity": 59,
+                  "engagementCount": 37
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "satire",
+                  "vibecoding"
+                ],
+                "createdAt": "2026-08-31T06:40:14.514-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/zzn47c/vibecoded_ai_slop_license_v1_0",
+              "popularity": 59,
+              "engagementCount": 37
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "multi-agent",
+      "explanation": "Multiple independent software units that communicate with each other and collaborate to achieve a common goal."
+    },
+    {
+      "term": "agent skill",
+      "explanation": "The specific capabilities or tools a software has to perform a particular task."
+    },
+    {
+      "term": "UX",
+      "explanation": "The overall experience and level of satisfaction a user has while using a website or application."
+    },
+    {
+      "term": "interoperability",
+      "explanation": "The ability of different systems or devices to exchange data and work together seamlessly."
+    },
+    {
+      "term": "large language model",
+      "explanation": "An artificial intelligence model trained on massive amounts of data that can understand human language and generate text."
+    },
+    {
+      "term": "LLM inference",
+      "explanation": "The process of a trained artificial intelligence model generating a response to a given question."
+    },
+    {
+      "term": "RAG",
+      "explanation": "The process of artificial intelligence scanning and using data from current or specific external sources outside of its own knowledge base while generating answers."
+    },
+    {
+      "term": "Google Java Style Guide",
+      "explanation": "A set of standard rules established by Google to improve readability when writing code."
+    },
+    {
+      "term": "OSINT",
+      "explanation": "A method of collecting and analyzing information from publicly available sources on the internet."
+    },
+    {
+      "term": "SEO",
+      "explanation": "Improvement efforts made for websites to appear higher in search engine rankings."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained on massive amounts of data that can understand human language and generate text."
+    },
+    {
+      "term": "disclosure",
+      "explanation": "The disclosure of a security vulnerability or information that should remain confidential in a software to the relevant parties."
+    },
+    {
+      "term": "reinforcement learning",
+      "explanation": "The process of artificial intelligence learning to make correct decisions by receiving rewards through trial and error."
+    },
+    {
+      "term": "artificial intelligence",
+      "explanation": "The ability of computers to gain the capacity to think, learn, and solve problems like humans."
+    },
+    {
+      "term": "multimodal",
+      "explanation": "The ability of artificial intelligence to process not only text but also different data types such as images, audio, and video simultaneously."
+    },
+    {
+      "term": "text-generation",
+      "explanation": "The computer generating natural and meaningful texts in accordance with a given command."
+    }
+  ]
+}
