@@ -2,7 +2,7 @@
 
 Palmier Pro a été développé en tant qu'éditeur vidéo qui fonctionne sur le système d'exploitation macOS et propose des outils d'édition pris en charge par l'intelligence artificielle. Cette application, écrite en langage Swift, vise à combiner les workflows basés sur l'intelligence artificielle avec les performances du système local.
 
-- ★ 13 681
+- ★ 14 223
 - Swift
 - GitHub Trending · 2026-06-20
 

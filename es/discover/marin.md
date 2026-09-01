@@ -2,7 +2,7 @@
 
 Ejecuta experimentos como pasos dependientes en orden topológico y documenta código, datos, decisiones y experimentos fallidos. La primera guía oficial muestra cómo tokenizar TinyStories y entrenar un modelo de lenguaje pequeño.
 
-- ★ 1.967
+- ★ 3.089
 - Python
 - GitHub Trending · 2026-08-25
 

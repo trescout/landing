@@ -31,7 +31,7 @@ Bu araç hazır bir kurulum dosyası sunmaz. GitHub üzerindeki orijinal depoyu 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-User Experience Interoperability
+User Experience WeMod Interoperability
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/wand-enhancer/

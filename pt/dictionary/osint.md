@@ -34,6 +34,7 @@ Ferramentas básicas como pesquisas no Google, navegadores de redes sociais e se
 - [Spiderfoot](/pt/discover/spiderfoot/)
 - [GhostTrack](/pt/discover/ghosttrack/)
 - [Flowsint](/pt/discover/flowsint/)
+- [User Scanner](/pt/discover/user-scanner/)
 - [Legendary_OSINT](/pt/discover/legendary-osint/)
 
 ---

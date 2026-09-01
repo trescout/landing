@@ -36,8 +36,8 @@ Ja, mit der entsprechenden Infrastruktur und API-Verbindungen können einem Mode
 - [Agent Skills](/de/discover/agent-skills/)
 - [Taste Skill](/de/discover/taste-skill/)
 - [Awesome Claude Skills](/de/discover/awesome-claude-skills/)
-- [Awesome Claude Code](/de/discover/awesome-claude-code/)
 - [OpenMontage](/de/discover/openmontage/)
+- [Awesome Claude Code](/de/discover/awesome-claude-code/)
 - [Obsidian Skills](/de/discover/obsidian-skills/)
 
 ---

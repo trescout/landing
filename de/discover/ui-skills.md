@@ -2,7 +2,7 @@
 
 UI-Skills wurde für Designingenieure entwickelt und vereint die technischen Fähigkeiten und Kompetenzen, die in Entwicklungsprozessen für Benutzeroberflächen (UI) erforderlich sind. Diese TypeScript-basierte Ressource bietet eine Kompetenzkarte für Fachleute, die vom Interface-Design zur Programmierung übergehen.
 
-- ★ 6.838
+- ★ 7.867
 - TypeScript
 - GitHub Trending · 2026-07-17
 

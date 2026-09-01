@@ -2,7 +2,7 @@
 
 LMCache bietet eine Ebene, die die Inferenzgeschwindigkeit erhöht, indem die Verwaltung des Schlüsselwert-Cache (KV-Cache) für große Sprachmodelle optimiert wird. Dieses System, das die Speichernutzung effizient macht, zielt darauf ab, die Rechenlast bei Abfragen zu reduzieren, die denselben Kontext verwenden.
 
-- ★ 11.251
+- ★ 11.587
 - Python
 - GitHub Trending · 2026-06-13
 

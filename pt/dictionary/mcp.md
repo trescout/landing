@@ -35,8 +35,8 @@ Sim, é um padrão aberto desenvolvido para aumentar a interoperabilidade do eco
 - [Goose](/pt/discover/goose/)
 - [AI Engineering from Scratch](/pt/discover/ai-engineering-from-scratch/)
 - [Chrome Devtools MCP](/pt/discover/chrome-devtools-mcp/)
-- [Claude Howto](/pt/discover/claude-howto/)
 - [Codebase Memory MCP](/pt/discover/codebase-memory-mcp/)
+- [Claude Howto](/pt/discover/claude-howto/)
 - [Claude Code Templates](/pt/discover/claude-code-templates/)
 
 ---

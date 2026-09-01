@@ -22,6 +22,7 @@ Puede conllevar riesgos a menos que se compre de fuentes confiables. Es importan
 - [Clean Code](/es/dictionary/clean-code/)
 
 ## Herramientas relacionadas
+- [Screenshot to Code](/es/discover/screenshot-to-code/)
 - [Abseil Cpp](/es/discover/abseil-cpp/)
 
 ---

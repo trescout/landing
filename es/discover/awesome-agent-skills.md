@@ -2,7 +2,7 @@
 
 Compilado por VoltAgent, awesome-agent-skills reúne más de 1000 habilidades de inteligencia artificial (habilidades de agentes) creadas por equipos de desarrolladores y la comunidad. Esta colección está diseñada para ser compatible con plataformas como el asistente de codificación Cursor y herramientas de línea de comandos compatibles con inteligencia artificial (Claude Code, Gemini CLI).
 
-- ★ 31.405
+- ★ 33.464
 - GitHub Trending · 2026-08-24
 
 ## Qué aporta

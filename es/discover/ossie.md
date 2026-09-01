@@ -2,7 +2,7 @@
 
 Apache Ossie es una iniciativa industrial que tiene como objetivo estandarizar el intercambio de metadatos semánticos entre plataformas de análisis, inteligencia artificial e inteligencia empresarial (BI). Este proyecto facilita la integración de datos mediante la creación de una única fuente de verdad independiente del proveedor entre diferentes plataformas.
 
-- ★ 997
+- ★ 2.011
 - Python
 - GitHub Trending · 2026-07-17
 

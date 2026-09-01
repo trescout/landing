@@ -2,7 +2,7 @@
 
 Deno ist eine moderne Laufzeitumgebung, die für die Sprachen JavaScript und TypeScript entwickelt wurde. Dieses in der Rust-Sprache entwickelte Tool bietet mit seiner sicherheits- und leistungsorientierten Struktur eine alternative Infrastruktur zur traditionellen Node.js-Plattform.
 
-- ★ 108.181
+- ★ 108.357
 - Rust
 - GitHub Trending · 2026-08-05
 

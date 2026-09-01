@@ -37,8 +37,8 @@ No, sólo está haciendo predicciones basadas en probabilidades matemáticas; No
 - [MoneyPrinterTurbo](/es/discover/moneyprinterturbo/)
 - [TradingAgents](/es/discover/tradingagents/)
 - [Ragflow](/es/discover/ragflow/)
-- [Deer Flow](/es/discover/deer-flow/)
 - [Crawl4AI](/es/discover/crawl4ai/)
+- [Deer Flow](/es/discover/deer-flow/)
 - [Unsloth](/es/discover/unsloth/)
 
 ---

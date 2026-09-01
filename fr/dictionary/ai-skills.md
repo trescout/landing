@@ -36,8 +36,8 @@ Oui, de nouvelles fonctionnalités peuvent être ajoutées à un modèle avec l�
 - [Agent Skills](/fr/discover/agent-skills/)
 - [Taste Skill](/fr/discover/taste-skill/)
 - [Awesome Claude Skills](/fr/discover/awesome-claude-skills/)
-- [Awesome Claude Code](/fr/discover/awesome-claude-code/)
 - [OpenMontage](/fr/discover/openmontage/)
+- [Awesome Claude Code](/fr/discover/awesome-claude-code/)
 - [Obsidian Skills](/fr/discover/obsidian-skills/)
 
 ---

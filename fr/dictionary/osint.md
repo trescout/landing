@@ -34,6 +34,7 @@ Des outils de base comme les recherches Google, les navigateurs de réseaux soci
 - [Spiderfoot](/fr/discover/spiderfoot/)
 - [GhostTrack](/fr/discover/ghosttrack/)
 - [Flowsint](/fr/discover/flowsint/)
+- [User Scanner](/fr/discover/user-scanner/)
 - [Legendary_OSINT](/fr/discover/legendary-osint/)
 
 ---

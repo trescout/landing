@@ -2,7 +2,7 @@
 
 Développé pour les ingénieurs de conception, ui-skills rassemble les aptitudes et compétences techniques nécessaires aux processus de développement d’interfaces utilisateur (UI). Cette ressource basée sur TypeScript propose une carte de compétences pour les professionnels passant de la conception d'interfaces au codage.
 
-- ★ 6 838
+- ★ 7 867
 - TypeScript
 - GitHub Trending · 2026-07-17
 

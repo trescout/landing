@@ -26,6 +26,7 @@ Denn die meisten Cyberangriffe beginnen damit, dass sie über einen schlecht ges
 
 ## Verwandte Werkzeuge
 - [OmniRoute](/de/discover/omniroute/)
+- [Freellmapi](/de/discover/freellmapi/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/endpoint/

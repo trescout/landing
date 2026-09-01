@@ -26,6 +26,7 @@ Porque a maioria dos ataques cibernéticos começa infiltrando-se na rede atrav�
 
 ## Ferramentas relacionadas
 - [OmniRoute](/pt/discover/omniroute/)
+- [Freellmapi](/pt/discover/freellmapi/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/endpoint/

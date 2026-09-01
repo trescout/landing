@@ -2,7 +2,7 @@
 
 An MIT-licensed rule set and plugin system for AI coding agents. Its aim is to preserve validation, error handling, security, and accessibility while writing only the code required for a task.
 
-- ★ 113,377
+- ★ 119,108
 - JavaScript
 - GitHub Trending · 2026-08-25
 

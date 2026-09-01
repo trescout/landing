@@ -2,7 +2,7 @@
 
 TradingAgents ist ein LLM-basiertes Multi-Agent-Framework, das für den Handel auf Finanzmärkten entwickelt wurde. Dieses in Python geschriebene System ermöglicht es autonomen Handelsagenten, Finanzdaten zu analysieren, Strategien zu erstellen und Entscheidungsprozesse zu verwalten.
 
-- ★ 100.847
+- ★ 101.981
 - GitHub Trending · 2026-06-02
 
 ## Was es bringt

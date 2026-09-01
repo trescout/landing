@@ -2,7 +2,7 @@
 
 RAGFlow es un motor de generación basado en recuperación (RAG) de código abierto que crea una capa de contexto para modelos de lenguaje grandes (LLM). Su objetivo es mejorar el procesamiento de datos y la precisión de las respuestas combinando técnicas RAG avanzadas con capacidades de agentes.
 
-- ★ 88.819
+- ★ 89.753
 - Go
 - GitHub Trending · 2026-08-13
 

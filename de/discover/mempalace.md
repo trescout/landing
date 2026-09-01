@@ -2,7 +2,7 @@
 
 MemPalace bietet ein Open-Source-Speichersystem für Modelle der künstlichen Intelligenz. Das System umfasst optimierte Tools zur Messung und Verbesserung der kontextuellen Speicherleistung großer Sprachmodelle.
 
-- ★ 58.584
+- ★ 58.752
 - Python
 - GitHub Trending · 2026-06-06
 

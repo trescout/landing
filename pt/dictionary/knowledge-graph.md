@@ -31,6 +31,7 @@ Ao pesquisar documentos RAG, o gráfico de conhecimento mapeia as relações ló
 ## Ferramentas relacionadas
 - [Graphify](/pt/discover/graphify/)
 - [Understand Anything](/pt/discover/understand-anything/)
+- [GitNexus](/pt/discover/gitnexus/)
 - [Codebase Memory MCP](/pt/discover/codebase-memory-mcp/)
 - [Cognee](/pt/discover/cognee/)
 

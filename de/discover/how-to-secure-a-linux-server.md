@@ -2,7 +2,7 @@
 
 Dieser Leitfaden zur Linux-Serversicherheit fasst die grundlegenden Konfigurationsschritte zusammen, die befolgt werden müssen, um Systeme vor externen Bedrohungen zu schützen. Der ständig aktualisierte Inhalt bietet einen praktischen Leitfaden zu den besten Methoden, die bei Server-Härtungsprozessen angewendet werden können.
 
-- ★ 29.237
+- ★ 30.981
 - GitHub Trending · 2026-07-10
 
 ## Was es bringt

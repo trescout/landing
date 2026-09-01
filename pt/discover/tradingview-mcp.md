@@ -2,7 +2,7 @@
 
 TradingView-mcp conecta Claude Code com o aplicativo de desktop TradingView, permitindo automatizar processos de análise de gráficos. Essa integração permite que os usuários personalizem fluxos de trabalho de análise técnica por meio de contexto de modelo baseado em IA (Model Context Protocol).
 
-- ★ 4.930
+- ★ 5.932
 - JavaScript
 - GitHub Trending · 2026-07-22
 

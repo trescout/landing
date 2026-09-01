@@ -2,7 +2,7 @@
 
 Awesome-design-md es una colección de documentos de diseño (DESIGN.md) de sistemas de diseño de marcas populares. Utilizando estos documentos, los agentes de software pueden crear interfaces de usuario (UI) adecuadas para proyectos.
 
-- ★ 105.953
+- ★ 112.020
 - GitHub Trending · 2026-07-10
 
 ## Qué aporta

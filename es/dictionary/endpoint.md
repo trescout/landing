@@ -26,6 +26,7 @@ Porque la mayoría de los ciberataques comienzan infiltrándose en la red a trav
 
 ## Herramientas relacionadas
 - [OmniRoute](/es/discover/omniroute/)
+- [Freellmapi](/es/discover/freellmapi/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/endpoint/

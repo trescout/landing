@@ -2,7 +2,7 @@
 
 Holehe is a Python tool that queries whether an entered email address is used on popular platforms such as Twitter and Instagram. It detects the account information associated with the relevant email using password reset functions.
 
-- ★ 13,530
+- ★ 14,563
 - Python
 - GitHub Trending · 2026-08-14
 

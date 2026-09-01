@@ -2,7 +2,7 @@
 
 gRPC is an open source remote procedure call framework that provides high-performance communication between different programming languages. Thanks to its C++-based infrastructure, it allows the development of scalable network services for languages ​​such as Python, Ruby, C# and PHP.
 
-- ★ 45,240
+- ★ 45,279
 - C++
 - GitHub Trending · 2026-07-11
 

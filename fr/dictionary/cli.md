@@ -36,8 +36,8 @@ Le système génère généralement des erreurs, mais il existe également des c
 - [Codex](/fr/discover/codex/)
 - [Ponytail](/fr/discover/ponytail/)
 - [Graphify](/fr/discover/graphify/)
-- [Angular](/fr/discover/angular/)
 - [TradingAgents](/fr/discover/tradingagents/)
+- [Angular](/fr/discover/angular/)
 - [Understand Anything](/fr/discover/understand-anything/)
 
 ---

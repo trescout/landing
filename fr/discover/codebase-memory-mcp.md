@@ -2,7 +2,7 @@
 
 Codebase-memory-mcp offre une intelligence de code haute performance en transformant les bases de code en un graphe de connaissances permanent. Développé en langage C, l'outil prend en charge 158 langages de programmation, réduit les temps de requête à moins de millisecondes et réduit l'utilisation des jetons.
 
-- ★ 39 459
+- ★ 41 472
 - C
 - GitHub Trending · 2026-06-18
 

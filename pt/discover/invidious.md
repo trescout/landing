@@ -2,7 +2,7 @@
 
 Invidious é uma interface alternativa de código aberto para o YouTube. O README oficial lista uso sem anúncios ou rastreamento, sem exigir JavaScript, com inscrições independentes do Google e opções de importação e exportação de dados.
 
-- ★ 22.400
+- ★ 23.607
 - GitHub Trending · 2026-08-02
 
 ## Instalação

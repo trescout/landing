@@ -36,8 +36,8 @@ Sim, novos recursos podem ser adicionados a um modelo com infraestrutura apropri
 - [Agent Skills](/pt/discover/agent-skills/)
 - [Taste Skill](/pt/discover/taste-skill/)
 - [Awesome Claude Skills](/pt/discover/awesome-claude-skills/)
-- [Awesome Claude Code](/pt/discover/awesome-claude-code/)
 - [OpenMontage](/pt/discover/openmontage/)
+- [Awesome Claude Code](/pt/discover/awesome-claude-code/)
 - [Obsidian Skills](/pt/discover/obsidian-skills/)
 
 ---

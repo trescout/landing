@@ -2,7 +2,7 @@
 
 Codebase-memory-mcp bietet leistungsstarke Code-Intelligenz, indem es Codebasen in einen permanenten Wissensgraphen umwandelt. Das in C-Sprache entwickelte Tool unterstützt 158 ​​Programmiersprachen, reduziert die Abfragezeiten auf unter Millisekunden und reduziert die Token-Nutzung.
 
-- ★ 39.459
+- ★ 41.472
 - C
 - GitHub Trending · 2026-06-18
 

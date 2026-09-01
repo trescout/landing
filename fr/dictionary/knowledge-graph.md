@@ -31,6 +31,7 @@ On l'appelle ainsi car il s'agit mathématiquement d'une structure de réseau co
 ## Outils liés
 - [Graphify](/fr/discover/graphify/)
 - [Understand Anything](/fr/discover/understand-anything/)
+- [GitNexus](/fr/discover/gitnexus/)
 - [Codebase Memory MCP](/fr/discover/codebase-memory-mcp/)
 - [Cognee](/fr/discover/cognee/)
 

@@ -2,7 +2,7 @@
 
 Omlx é um servidor de inferência de modelo de linguagem grande (LLM) que oferece suporte a lote contínuo e cache SSD para processadores Apple Silicon. Esta ferramenta, gerenciada pela barra de menu do macOS, oferece a oportunidade de executar modelos de alto desempenho em hardware local.
 
-- ★ 20.793
+- ★ 21.147
 - Python
 - GitHub Trending · 2026-08-18
 

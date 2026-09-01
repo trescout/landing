@@ -2,7 +2,7 @@
 
 Plateforme et ensemble d'outils pour expérimenter les étapes allant du traitement des données à l'entraînement et à l'évaluation des modèles fondamentaux.
 
-- ★ 1 967
+- ★ 3 089
 - Python
 - GitHub Trending · 2026-08-25
 

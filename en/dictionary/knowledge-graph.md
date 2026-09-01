@@ -33,6 +33,7 @@ It is called this name because it is mathematically a network structure consisti
 ## Related tools
 - [Graphify](/en/discover/graphify/)
 - [Understand Anything](/en/discover/understand-anything/)
+- [GitNexus](/en/discover/gitnexus/)
 - [Codebase Memory MCP](/en/discover/codebase-memory-mcp/)
 - [Cognee](/en/discover/cognee/)
 

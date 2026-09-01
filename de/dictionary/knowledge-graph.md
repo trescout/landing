@@ -31,6 +31,7 @@ Es wird so genannt, weil es sich mathematisch um eine Netzwerkstruktur handelt, 
 ## Verwandte Werkzeuge
 - [Graphify](/de/discover/graphify/)
 - [Understand Anything](/de/discover/understand-anything/)
+- [GitNexus](/de/discover/gitnexus/)
 - [Codebase Memory MCP](/de/discover/codebase-memory-mcp/)
 - [Cognee](/de/discover/cognee/)
 

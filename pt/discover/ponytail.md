@@ -2,7 +2,7 @@
 
 Conjunto de regras e sistema de plugins com licença MIT para agentes de codificação por IA. Destina-se a preservar verificação, tratamento de erros, segurança e acessibilidade enquanto os agentes escrevem código necessário.
 
-- ★ 113.377
+- ★ 119.108
 - JavaScript
 - GitHub Trending · 2026-08-25
 

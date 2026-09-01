@@ -35,11 +35,11 @@ Nein, wenn Ihre Dokumente auf Ihrem eigenen Computer oder Server gespeichert sin
 - [MarkItDown](/de/discover/markitdown/)
 - [Awesome LLM Apps](/de/discover/awesome-llm-apps/)
 - [Ragflow](/de/discover/ragflow/)
+- [GitNexus](/de/discover/gitnexus/)
 - [AI Agent Book](/de/discover/ai-agent-book/)
 - [DeepTutor](/de/discover/deeptutor/)
 - [OpenViking](/de/discover/openviking/)
 - [Opendataloader PDF](/de/discover/opendataloader-pdf/)
-- [Turbovec](/de/discover/turbovec/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/rag/

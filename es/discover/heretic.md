@@ -2,7 +2,7 @@
 
 Heretic es una herramienta técnica que elimina las restricciones de alineación de seguridad de los modelos de lenguaje basados ​​en transformadores sin la necesidad de costosos procesos de reentrenamiento. Utilizando la técnica de 'Abliteración', esta solución es avanzada y está orientada a la investigación.
 
-- ★ 27.018
+- ★ 29.513
 - Python
 - AGPL-3.0
 - GitHub Trending · 28 May 2026

@@ -35,8 +35,8 @@ Oui, il s’agit d’un standard ouvert développé pour accroître l’interop�
 - [Goose](/fr/discover/goose/)
 - [AI Engineering from Scratch](/fr/discover/ai-engineering-from-scratch/)
 - [Chrome Devtools MCP](/fr/discover/chrome-devtools-mcp/)
-- [Claude Howto](/fr/discover/claude-howto/)
 - [Codebase Memory MCP](/fr/discover/codebase-memory-mcp/)
+- [Claude Howto](/fr/discover/claude-howto/)
 - [Claude Code Templates](/fr/discover/claude-code-templates/)
 
 ---

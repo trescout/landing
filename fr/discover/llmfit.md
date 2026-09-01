@@ -2,7 +2,7 @@
 
 Développé avec le langage Rust, llmfit analyse des centaines de grands modèles et fournisseurs de langages et vous permet d'identifier ceux compatibles avec votre matériel avec une seule commande. L'outil automatise le processus de recherche de modèles les mieux adaptés aux ressources du système local.
 
-- ★ 34 304
+- ★ 34 596
 - Rust
 - GitHub Trending · 2026-07-22
 

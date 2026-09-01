@@ -2,7 +2,7 @@
 
 A research program, software platform, and community for researching and developing foundation models. It documents scope from data processing through pretraining, finetuning, and evaluation.
 
-- ★ 1,967
+- ★ 3,089
 - Python
 - GitHub Trending · 2026-08-25
 

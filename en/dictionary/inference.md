@@ -33,6 +33,7 @@ No, the model only makes predictions using the available information it has.
 - [Llama.cpp](/en/discover/llama-cpp/)
 - [Ds4](/en/discover/ds4/)
 - [LTX 2](/en/discover/ltx-2/)
+- [ODS](/en/discover/ods/)
 - [Switchyard](/en/discover/switchyard/)
 - [Transcribe.cpp](/en/discover/transcribe-cpp/)
 

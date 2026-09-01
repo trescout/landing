@@ -2,7 +2,7 @@
 
 A biblioteca de uso de vídeo permite que agentes de codificação automatizem processos de edição de vídeo. Esta ferramenta baseada em Python acelera os fluxos de trabalho executando tarefas de edição visual por meio de comandos de software.
 
-- ★ 20.820
+- ★ 22.245
 - Python
 - GitHub Trending · 2026-06-29
 

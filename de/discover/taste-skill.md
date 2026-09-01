@@ -2,7 +2,7 @@
 
 Wenn Agenten der künstlichen Intelligenz Schnittstellen erstellen, liefern sie häufig vorlagenorientierte Ergebnisse. Bei der Taste Skill handelt es sich um eine tragbare Fertigkeit, mit der Agenten Layout, Typografie, Bewegung und Raum effektiver nutzen können. Auf diese Weise sehen mit künstlicher Intelligenz erstellte Schnittstellen viel origineller und professioneller aus.
 
-- ★ 77.614
+- ★ 82.815
 - Shell
 - MIT
 - GitHub Trending · 26 May 2026

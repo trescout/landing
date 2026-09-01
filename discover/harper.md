@@ -2,11 +2,12 @@
 
 Harper, Rust diliyle geliştirilen çevrim dışı ve gizlilik odaklı bir dil bilgisi denetleyicisi (grammar checker) sunuyor. Açık kaynaklı bu araç, metin analizi süreçlerinde yüksek performanslı ve güvenli bir alternatif oluşturmayı hedefliyor.
 
-- ★ 14.833
+- ★ 14.876
 - Rust
 - GitHub Trending · 2026-07-24
 
 ## Güncelleme
+- 1 Eylül 2026: Yıldız 14.833 → 14.876, son sürüm v2.8.0 (13 Ağustos 2026).
 - 31 Ağustos 2026: Yıldız 14.467 → 14.833, son sürüm v2.9.1 (29 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 14.110 → 14.467, son sürüm v2.8.0 (13 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 12.510 → 14.110, son sürüm v2.7.0 (28 Temmuz 2026).

@@ -35,9 +35,9 @@ Normalmente, conexões API ou blocos de código especiais são escritos para per
 - [Taste Skill](/pt/discover/taste-skill/)
 - [Awesome Claude Skills](/pt/discover/awesome-claude-skills/)
 - [Last30days Skill](/pt/discover/last30days-skill/)
+- [Archify](/pt/discover/archify/)
 - [Reverse Skill](/pt/discover/reverse-skill/)
 - [OfficeCLI](/pt/discover/officecli/)
-- [Book to Skill](/pt/discover/book-to-skill/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/skill/

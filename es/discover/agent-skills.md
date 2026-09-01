@@ -2,7 +2,7 @@
 
 Esta biblioteca, desarrollada para agentes de codificación de inteligencia artificial, ofrece habilidades de ingeniería a nivel de producción. Proporciona herramientas estandarizadas para aumentar la capacidad técnica de los agentes que automatizan los procesos de desarrollo de software.
 
-- ★ 87.477
+- ★ 91.114
 - Shell
 - GitHub Trending · 2026-06-10
 

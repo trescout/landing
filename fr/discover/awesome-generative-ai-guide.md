@@ -2,7 +2,7 @@
 
 Le référentiel Awesome-generative-ai-guide rassemble en un seul endroit les recherches actuelles, les ressources d'entretien et les cahiers dans le domaine de l'intelligence artificielle générative (IA générative). Cette ressource sert de centre d'apprentissage et de référence complet pour les développeurs et les chercheurs.
 
-- ★ 27 722
+- ★ 29 145
 - HTML
 - GitHub Trending · 2026-06-20
 

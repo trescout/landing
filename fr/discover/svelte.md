@@ -2,7 +2,7 @@
 
 Contrairement aux frameworks traditionnels, Svelte utilise une approche de compilation qui réduit la surcharge d'exécution sur le navigateur. Cette bibliothèque JavaScript simplifie les processus de développement Web en convertissant le code de l'application en modules JavaScript purs, petits et rapides.
 
-- ★ 87 981
+- ★ 88 034
 - GitHub Trending · 2026-06-07
 
 ## Ce que ça vous apporte

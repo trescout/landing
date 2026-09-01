@@ -2,7 +2,7 @@
 
 Ingeniería compuesta; Claude Code es un complemento oficial para Codex y Cursor. Su filosofía básica es clara: cada tarea de ingeniería debería hacer que la siguiente sea más fácil, no más difícil. Para ello ofrece capacidades y agentes de IA que mejoran el proceso de desarrollo.
 
-- ★ 24.591
+- ★ 24.742
 - TypeScript
 - MIT
 - GitHub Trending · 29 May 2026

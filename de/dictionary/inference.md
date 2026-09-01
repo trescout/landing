@@ -31,8 +31,9 @@ Nein, das Modell trifft Vorhersagen nur anhand der ihm zur Verfügung stehenden 
 - [Llama.cpp](/de/discover/llama-cpp/)
 - [Ds4](/de/discover/ds4/)
 - [LTX 2](/de/discover/ltx-2/)
-- [Transcribe.cpp](/de/discover/transcribe-cpp/)
+- [ODS](/de/discover/ods/)
 - [Switchyard](/de/discover/switchyard/)
+- [Transcribe.cpp](/de/discover/transcribe-cpp/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/inference/

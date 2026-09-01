@@ -2,7 +2,7 @@
 
 Programa de pesquisa, plataforma de software e comunidade para investigar e desenvolver modelos de base. Documenta o escopo desde o processamento de dados até pré-treinamento, fine-tuning e avaliação.
 
-- ★ 1.967
+- ★ 3.089
 - Python
 - GitHub Trending · 2026-08-25
 

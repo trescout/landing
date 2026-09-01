@@ -36,8 +36,8 @@ O sistema geralmente apresenta erros, mas também existem comandos críticos que
 - [Codex](/pt/discover/codex/)
 - [Ponytail](/pt/discover/ponytail/)
 - [Graphify](/pt/discover/graphify/)
-- [Angular](/pt/discover/angular/)
 - [TradingAgents](/pt/discover/tradingagents/)
+- [Angular](/pt/discover/angular/)
 - [Understand Anything](/pt/discover/understand-anything/)
 
 ---

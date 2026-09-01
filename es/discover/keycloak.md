@@ -2,7 +2,7 @@
 
 Keycloak ofrece soluciones de gestión de acceso e identidad de código abierto para aplicaciones y servicios modernos. Esta plataforma basada en Java se utiliza para estandarizar los procesos centralizados de autenticación y autorización.
 
-- ★ 36.268
+- ★ 36.517
 - Java
 - GitHub Trending · 2026-06-28
 

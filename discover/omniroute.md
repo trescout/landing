@@ -2,15 +2,15 @@
 
 OmniRoute, 231'den fazla yapay zekâ sağlayıcısını tek bir uç noktada (endpoint) birleştirerek ücretsiz erişim imkânı sunan bir ağ geçididir (gateway). Gelişmiş sıkıştırma teknikleriyle jeton (token) kullanımını azaltırken, akıllı yedekleme ve çok modlu arayüz desteğiyle geliştirici araçlarını optimize eder.
 
-- ★ 56.571
+- ★ 59.514
 - TypeScript
 - GitHub Trending · 2026-07-01
 
 ## Güncelleme
+- 1 Eylül 2026: Yıldız 56.571 → 59.514, son sürüm v3.8.50 (26 Ağustos 2026).
 - 27 Ağustos 2026: Yıldız 53.963 → 56.571, son sürüm v3.8.50 (26 Ağustos 2026).
 - 24 Ağustos 2026: Yıldız 51.059 → 53.963, son sürüm v3.8.49 (30 Temmuz 2026).
 - 19 Ağustos 2026: Yıldız 48.542 → 51.059, son sürüm v3.8.49 (30 Temmuz 2026).
-- 15 Ağustos 2026: Yıldız 46.052 → 48.542, son sürüm v3.8.49 (30 Temmuz 2026).
 
 ## Ne kazandırır?
 - 231 farklı yapay zekâ sağlayıcısına tek noktadan erişim

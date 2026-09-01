@@ -2,7 +2,7 @@
 
 Yapay zekâ kodlama aracıları için MIT lisanslı bir kural seti ve eklenti sistemidir. Amaç, görev için gereken kodu yazarken doğrulama, hata yönetimi, güvenlik ve erişilebilirliği korumaktır.
 
-- ★ 113.377
+- ★ 119.108
 - JavaScript
 - GitHub Trending · 2026-08-25
 
@@ -37,6 +37,7 @@ Yapay zekâ kodlama aracıları için MIT lisanslı bir kural seti ve eklenti si
 Kaynak: Resmî README ve dokümantasyon kaynakları: https://github.com/DietrichGebert/ponytail, https://github.com/DietrichGebert/ponytail/blob/main/benchmarks/results/2026-06-18-agentic.md
 
 ## Güncelleme
+- 1 Eylül 2026: Yıldız 113.377 → 119.108, son sürüm v4.9.0 (7 Ağustos 2026).
 - 27 Ağustos 2026: Yıldız 110.483 → 113.377, son sürüm v4.9.0 (7 Ağustos 2026).
 
 ## Bu araç ne yapar?

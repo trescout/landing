@@ -36,8 +36,8 @@ Sí, se pueden agregar nuevas capacidades a un modelo con la infraestructura y l
 - [Agent Skills](/es/discover/agent-skills/)
 - [Taste Skill](/es/discover/taste-skill/)
 - [Awesome Claude Skills](/es/discover/awesome-claude-skills/)
-- [Awesome Claude Code](/es/discover/awesome-claude-code/)
 - [OpenMontage](/es/discover/openmontage/)
+- [Awesome Claude Code](/es/discover/awesome-claude-code/)
 - [Obsidian Skills](/es/discover/obsidian-skills/)
 
 ---

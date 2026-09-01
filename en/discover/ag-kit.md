@@ -2,7 +2,7 @@
 
 Ag-kit is a development library that provides the necessary tools and structures to create autonomous artificial intelligence agents (AI agents) in TypeScript-based projects. It allows developers to quickly design agent systems that can manage complex workflows.
 
-- ★ 8,084
+- ★ 8,159
 - TypeScript
 - GitHub Trending · 2026-07-28
 

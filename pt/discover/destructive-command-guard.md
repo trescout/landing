@@ -2,7 +2,7 @@
 
 Destructive Command Guard é uma camada de segurança desenvolvida para evitar comandos git e shell perigosos executados por agentes de inteligência artificial. Escrita em Rust, esta ferramenta reduz os riscos de perda indesejada de dados ou danos ao sistema, auditando os processos de execução de comandos no nível do sistema.
 
-- ★ 5.843
+- ★ 5.883
 - Rust
 - GitHub Trending · 2026-07-13
 

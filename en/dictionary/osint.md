@@ -36,6 +36,7 @@ Basic tools like Google searches, social media browsers and mapping services are
 - [Spiderfoot](/en/discover/spiderfoot/)
 - [GhostTrack](/en/discover/ghosttrack/)
 - [Flowsint](/en/discover/flowsint/)
+- [User Scanner](/en/discover/user-scanner/)
 - [Legendary_OSINT](/en/discover/legendary-osint/)
 
 ---

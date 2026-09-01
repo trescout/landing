@@ -22,6 +22,7 @@ Il peut comporter des risques à moins d'être acheté auprès de sources fiable
 - [Clean Code](/fr/dictionary/clean-code/)
 
 ## Outils liés
+- [Screenshot to Code](/fr/discover/screenshot-to-code/)
 - [Abseil Cpp](/fr/discover/abseil-cpp/)
 
 ---

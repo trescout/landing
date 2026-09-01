@@ -2,7 +2,7 @@
 
 Este recurso, compartido por la Universidad de Harvard, ofrece una guía técnica completa sobre sistemas de aprendizaje automático. Combinando capas de hardware y software, este estudio aborda los procesos de diseño de infraestructuras escalables de inteligencia artificial.
 
-- ★ 27.689
+- ★ 28.085
 - Python
 - GitHub Trending · 2026-07-03
 

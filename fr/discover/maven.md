@@ -2,7 +2,7 @@
 
 Apache Maven est un outil de gestion et de compréhension de projet (outil d'automatisation de build) qui gère les processus de création de logiciels dans des projets basés sur Java. Il utilise la structure du modèle objet du projet pour standardiser le cycle de vie du développement logiciel.
 
-- ★ 5 292
+- ★ 5 334
 - Java
 - GitHub Trending · 2026-07-04
 

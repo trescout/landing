@@ -2,7 +2,7 @@
 
 AutoGPT est un projet Python open source qui permet de créer des agents d'IA autonomes capables de planifier et d'exécuter eux-mêmes des tâches complexes. Il facilite l'accès à l'intelligence artificielle en automatisant des processus tels que la recherche sur Internet et la gestion de fichiers pour atteindre les objectifs fixés par les utilisateurs.
 
-- ★ 186 692
+- ★ 187 033
 - Python
 - GitHub Trending · 2026-08-07
 

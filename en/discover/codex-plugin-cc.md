@@ -2,7 +2,7 @@
 
 Developed by OpenAI, the Codex plugin is used on Claude Code to automate code review processes and provide task delegation. This tool allows the integration of different artificial intelligence models (large language models) in software development workflows.
 
-- ★ 30,950
+- ★ 32,597
 - JavaScript
 - GitHub Trending · 2026-07-03
 

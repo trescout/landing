@@ -2,7 +2,7 @@
 
 Invidious, YouTube için açık kaynaklı alternatif bir arayüzdür. Resmî README; reklam ve takip olmadan kullanım, JavaScript gerektirmeme, Google’dan bağımsız abonelikler ile veri içe ve dışa aktarma özelliklerini listeler.
 
-- ★ 22.400
+- ★ 23.607
 - GitHub Trending · 2026-08-02
 
 ## Kurulum
@@ -30,6 +30,7 @@ docker compose up -d
 Kaynak: Komutlar Invidious resmî kurulum belgesinden 24 Ağustos 2026’da kontrol edildi; Docker kurulumu PostgreSQL, Companion ve yapılandırma gerektirir.
 
 ## Güncelleme
+- 1 Eylül 2026: Yıldız 22.400 → 23.607, son sürüm v2.20260804.1 (5 Ağustos 2026).
 - 6 Ağustos 2026: Yıldız 21.884 → 22.400, son sürüm v2.20260804.1 (5 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 21.676 → 21.884, son sürüm v2.20260723.0 (23 Temmuz 2026).
 

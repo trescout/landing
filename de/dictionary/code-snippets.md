@@ -22,6 +22,7 @@ Es kann Risiken bergen, wenn es nicht aus zuverlässigen Quellen gekauft wird. E
 - [Clean Code](/de/dictionary/clean-code/)
 
 ## Verwandte Werkzeuge
+- [Screenshot to Code](/de/discover/screenshot-to-code/)
 - [Abseil Cpp](/de/discover/abseil-cpp/)
 
 ---

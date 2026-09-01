@@ -31,6 +31,7 @@ Se llama así porque matemáticamente es una estructura de red que consta de pun
 ## Herramientas relacionadas
 - [Graphify](/es/discover/graphify/)
 - [Understand Anything](/es/discover/understand-anything/)
+- [GitNexus](/es/discover/gitnexus/)
 - [Codebase Memory MCP](/es/discover/codebase-memory-mcp/)
 - [Cognee](/es/discover/cognee/)
 

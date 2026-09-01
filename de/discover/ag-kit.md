@@ -2,7 +2,7 @@
 
 Ag-kit ist eine Entwicklungsbibliothek, die die notwendigen Werkzeuge und Strukturen bereitstellt, um autonome Agenten für künstliche Intelligenz (KI-Agenten) in TypeScript-basierten Projekten zu erstellen. Es ermöglicht Entwicklern, schnell Agentensysteme zu entwerfen, die komplexe Arbeitsabläufe verwalten können.
 
-- ★ 8.084
+- ★ 8.159
 - TypeScript
 - GitHub Trending · 2026-07-28
 

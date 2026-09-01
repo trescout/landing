@@ -24,6 +24,7 @@ It may carry risks unless purchased from reliable sources. It's important to und
 - [Clean Code](/en/dictionary/clean-code/)
 
 ## Related tools
+- [Screenshot to Code](/en/discover/screenshot-to-code/)
 - [Abseil Cpp](/en/discover/abseil-cpp/)
 
 ---

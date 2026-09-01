@@ -36,8 +36,8 @@ Normalerweise gibt das System Fehler aus, aber es gibt auch kritische Befehle, d
 - [Codex](/de/discover/codex/)
 - [Ponytail](/de/discover/ponytail/)
 - [Graphify](/de/discover/graphify/)
-- [Angular](/de/discover/angular/)
 - [TradingAgents](/de/discover/tradingagents/)
+- [Angular](/de/discover/angular/)
 - [Understand Anything](/de/discover/understand-anything/)
 
 ---

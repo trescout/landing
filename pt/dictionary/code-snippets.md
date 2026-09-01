@@ -22,6 +22,7 @@ Pode apresentar riscos, a menos que seja adquirido de fontes confiáveis. É imp
 - [Clean Code](/pt/dictionary/clean-code/)
 
 ## Ferramentas relacionadas
+- [Screenshot to Code](/pt/discover/screenshot-to-code/)
 - [Abseil Cpp](/pt/discover/abseil-cpp/)
 
 ---

@@ -2,7 +2,7 @@
 
 Le modèle Time Series Foundation, développé par Google Research, offre une structure pré-entraînée pour la prévision de séries chronologiques. Le modèle est conçu pour fournir des capacités prédictives générales sur différents ensembles de données.
 
-- ★ 27 185
+- ★ 28 335
 - Python
 - GitHub Trending · 2026-06-18
 

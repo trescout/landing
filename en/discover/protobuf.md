@@ -2,7 +2,7 @@
 
 Developed by Google, protocol buffers are a language-independent data interchange format used to serialize structured data. This mechanism provides efficient and fast binary data transfer in inter-system communication.
 
-- ★ 71,747
+- ★ 71,867
 - C++
 - GitHub Trending · 2026-07-18
 

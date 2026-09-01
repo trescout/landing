@@ -2,7 +2,7 @@
 
 Crawl4AI; ist ein Open-Source-Webcrawler und -Scraper, der für große Sprachmodelle optimiert ist. Es konvertiert Webseiten in saubere und strukturierte Formate (Markdown usw.), die Modelle der künstlichen Intelligenz problemlos verarbeiten können.
 
-- ★ 75.853
+- ★ 80.563
 - Python
 - Apache-2.0
 - GitHub Trending · 29 May 2026

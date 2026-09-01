@@ -2,7 +2,7 @@
 
 Crawl4AI; é um rastreador e raspador da web de código aberto otimizado para modelos de linguagem grandes. Ele converte páginas da web em formatos limpos e estruturados (Markdown, etc.) que os modelos de inteligência artificial podem processar facilmente.
 
-- ★ 75.853
+- ★ 80.563
 - Python
 - Apache-2.0
 - GitHub Trending · 29 May 2026

@@ -2,7 +2,7 @@
 
 GPT-Image2 est une bibliothèque d'ingénierie d'invite qui définit les processus de création d'images sous forme de code (Prompt as Code). Avec plus de 470 exemples d’ingénierie inverse et plus de 20 modèles industriels, il permet d’obtenir facilement des résultats cohérents à partir des modèles d’IA.
 
-- ★ 22 435
+- ★ 26 288
 - JavaScript
 - GitHub Trending · 2026-08-24
 

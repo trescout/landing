@@ -2,7 +2,7 @@
 
 AirLLM allows large language models with 70 billion parameters to be run on graphics processing units with only 4 GB of video memory (VRAM). This library uses memory optimization techniques to enable the use of high-capacity models with low hardware requirements.
 
-- ★ 31,598
+- ★ 33,307
 - Jupyter Notebook
 - GitHub Trending · 2026-06-04
 

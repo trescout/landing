@@ -34,6 +34,7 @@ Einfache Tools wie Google-Suchen, Social-Media-Browser und Kartendienste reichen
 - [Spiderfoot](/de/discover/spiderfoot/)
 - [GhostTrack](/de/discover/ghosttrack/)
 - [Flowsint](/de/discover/flowsint/)
+- [User Scanner](/de/discover/user-scanner/)
 - [Legendary_OSINT](/de/discover/legendary-osint/)
 
 ---

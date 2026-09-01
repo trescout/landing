@@ -2,7 +2,7 @@
 
 ECC; Claude Code is a comprehensive system that brings skills, instincts, memory optimization and security scanning to AI coding tools such as Codex, Cursor and OpenCode. Instead of individual configuration files, it offers a ready-made layer that enables the agent to work with a more consistent, secure and search-first logic.
 
-- ★ 236,779
+- ★ 245,070
 - JavaScript
 - MIT
 - GitHub Trending · 26 May 2026

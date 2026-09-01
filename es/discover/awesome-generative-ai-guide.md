@@ -2,7 +2,7 @@
 
 El repositorio awesome-generative-ai-guide recopila investigaciones actuales, recursos para entrevistas y cuadernos en el campo de la inteligencia artificial generativa (IA generativa) en un solo lugar. Este recurso sirve como un centro integral de referencia y aprendizaje para desarrolladores e investigadores.
 
-- ★ 27.722
+- ★ 29.145
 - HTML
 - GitHub Trending · 2026-06-20
 

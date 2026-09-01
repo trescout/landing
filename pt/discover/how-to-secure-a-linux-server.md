@@ -2,7 +2,7 @@
 
 Este guia sobre segurança de servidores Linux reúne as etapas básicas de configuração que devem ser seguidas para proteger os sistemas contra ameaças externas. O conteúdo constantemente atualizado oferece um guia prático dos melhores métodos que podem ser aplicados em processos de proteção de servidores.
 
-- ★ 29.237
+- ★ 30.981
 - GitHub Trending · 2026-07-10
 
 ## O que você ganha

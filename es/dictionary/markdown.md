@@ -31,9 +31,9 @@ Puedes abrirlo con cualquier editor de texto, pero puedes leerlo formateado más
 - [MarkItDown](/es/discover/markitdown/)
 - [Firecrawl](/es/discover/firecrawl/)
 - [PaddleOCR](/es/discover/paddleocr/)
+- [Crawl4AI](/es/discover/crawl4ai/)
 - [MinerU](/es/discover/mineru/)
 - [Scrapling](/es/discover/scrapling/)
-- [Crawl4AI](/es/discover/crawl4ai/)
 - [Obsidian Skills](/es/discover/obsidian-skills/)
 - [Opendataloader PDF](/es/discover/opendataloader-pdf/)
 

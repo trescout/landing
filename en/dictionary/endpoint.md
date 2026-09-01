@@ -28,6 +28,7 @@ Because most cyber attacks start by infiltrating the network through a poorly pr
 
 ## Related tools
 - [OmniRoute](/en/discover/omniroute/)
+- [Freellmapi](/en/discover/freellmapi/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/endpoint/

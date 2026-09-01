@@ -2,7 +2,7 @@
 
 Développés par Google, les tampons de protocole sont un format d'échange de données indépendant du langage utilisé pour sérialiser des données structurées. Ce mécanisme permet un transfert de données binaires efficace et rapide dans la communication inter-systèmes.
 
-- ★ 71 747
+- ★ 71 867
 - C++
 - GitHub Trending · 2026-07-18
 

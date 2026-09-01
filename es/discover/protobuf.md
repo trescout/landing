@@ -2,7 +2,7 @@
 
 Desarrollados por Google, los buffers de protocolo son un formato de intercambio de datos independiente del idioma que se utiliza para serializar datos estructurados. Este mecanismo proporciona una transferencia de datos binarios rápida y eficiente en la comunicación entre sistemas.
 
-- ★ 71.747
+- ★ 71.867
 - C++
 - GitHub Trending · 2026-07-18
 

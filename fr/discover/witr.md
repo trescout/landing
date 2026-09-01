@@ -2,7 +2,7 @@
 
 Witr est un outil de ligne de commande qui surveille les processus, les ports, les conteneurs ou les fichiers du système et détermine à partir de quelle source ils ont été démarrés. Ce logiciel, qui permet aux utilisateurs de suivre les activités sur le système, offre à la fois une prise en charge de ligne de commande (CLI) et d'interface utilisateur textuelle (TUI).
 
-- ★ 20 875
+- ★ 21 963
 - Go
 - GitHub Trending · 2026-08-08
 

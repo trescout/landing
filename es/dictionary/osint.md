@@ -34,6 +34,7 @@ Las herramientas básicas como las búsquedas de Google, los navegadores de rede
 - [Spiderfoot](/es/discover/spiderfoot/)
 - [GhostTrack](/es/discover/ghosttrack/)
 - [Flowsint](/es/discover/flowsint/)
+- [User Scanner](/es/discover/user-scanner/)
 - [Legendary_OSINT](/es/discover/legendary-osint/)
 
 ---

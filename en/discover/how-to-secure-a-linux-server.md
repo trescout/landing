@@ -2,7 +2,7 @@
 
 This guide on Linux server security brings together the basic configuration steps that must be followed to protect systems against external threats. The constantly updated content offers a practical guide to the best methods that can be applied in server hardening processes.
 
-- ★ 29,237
+- ★ 30,981
 - GitHub Trending · 2026-07-10
 
 ## What you get

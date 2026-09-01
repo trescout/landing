@@ -2,7 +2,7 @@
 
 Claude Code Harness introduz a disciplina de planejar, fazer, revisar e entregar, reduzindo a tendência de desmoronamento do trabalho bruto do agente. Ele evita que os planos se percam no chat, limita os testes e garante uma produção de código mais consistente. Embora Claude seja centrado em código, ele também oferece caminhos de integração para Codex e OpenCode.
 
-- ★ 3.071
+- ★ 3.076
 - Shell
 - MIT
 - GitHub Trending · 28 May 2026

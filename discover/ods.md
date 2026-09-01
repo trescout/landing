@@ -12,7 +12,7 @@ Osmantic/ODS, kişisel bilgisayarları büyük dil modeli çıkarımı (LLM infe
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-31 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Inference RAG LLM Artificial Intelligence
+LLM Inference Inference RAG LLM Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ods/

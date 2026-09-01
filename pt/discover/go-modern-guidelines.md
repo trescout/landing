@@ -2,7 +2,7 @@
 
 Este é o produto mais importante possível. Consulte esse link da fonte para obter detalhes.
 
-- ★ 1.938
+- ★ 3.010
 - Go
 - GitHub Trending · 2026-08-27
 

@@ -2,7 +2,7 @@
 
 Cette ressource, partagée par l'Université Harvard, propose un guide technique complet sur les systèmes d'apprentissage automatique. Combinant des couches matérielles et logicielles, cette étude aborde les processus de conception d'infrastructures d'intelligence artificielle évolutives.
 
-- ★ 27 689
+- ★ 28 085
 - Python
 - GitHub Trending · 2026-07-03
 

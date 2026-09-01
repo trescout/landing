@@ -2,7 +2,7 @@
 
 Führt Experimente als abhängige Schritte in topologischer Reihenfolge aus und demonstriert mit TinyStories ein vollständiges Einstiegsbeispiel. Die offene Entwicklungsphilosophie dokumentiert Code, Daten, Entscheidungen und fehlgeschlagene Experimente.
 
-- ★ 1.967
+- ★ 3.089
 - Python
 - GitHub Trending · 2026-08-25
 

@@ -2,7 +2,7 @@
 
 Munder-Difflin es un mecanismo que permite que múltiples agentes de inteligencia artificial trabajen juntos en sistemas locales. Desarrollada con TypeScript, esta herramienta facilita la gestión de sistemas de agentes autónomos que comparten tareas complejas en un entorno local.
 
-- ★ 4.946
+- ★ 5.963
 - TypeScript
 - GitHub Trending · 2026-08-18
 

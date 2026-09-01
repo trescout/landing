@@ -2,7 +2,7 @@
 
 CEC; Claude Code é um sistema abrangente que traz habilidades, instintos, otimização de memória e verificação de segurança para ferramentas de codificação de IA, como Codex, Cursor e OpenCode. Em vez de arquivos de configuração individuais, ele oferece uma camada pronta que permite ao agente trabalhar com uma lógica mais consistente, segura e de busca inicial.
 
-- ★ 236.779
+- ★ 245.070
 - JavaScript
 - MIT
 - GitHub Trending · 26 May 2026

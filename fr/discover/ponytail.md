@@ -2,7 +2,7 @@
 
 Ensemble de règles et système de plugins conçus pour appliquer la validation, la gestion des erreurs, la sécurité et l'accessibilité dans les flux de codage assistés par IA.
 
-- ★ 113 377
+- ★ 119 108
 - JavaScript
 - GitHub Trending · 2026-08-25
 
