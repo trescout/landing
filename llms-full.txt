@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve web/PDF rapor olarak yayımlar. E-posta teslimatı erken erişim aşamasında hazırlanıyor.
 
-Son güncelleme: 2026-09-01 · 493 araç · 556 terim
+Son güncelleme: 2026-09-01 · 493 araç · 559 terim
 
 ---
 
@@ -9334,6 +9334,23 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Google Java Style Guide nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-09-01
+
+Google tarafından belirlenen, Java dilinde yazılan kodların düzenli ve okunabilir olması için kullanılan kurallar bütünü.
+
+## Tanım
+Google tarafından belirlenen, Java dilinde yazılan kodların düzenli ve okunabilir olması için kullanılan kurallar bütünü.
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/google-java-style-guide/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # GPU nedir?
 
 > Graphics Processing Unit
@@ -14647,6 +14664,23 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# patent disclosure nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-09-01
+
+Bir buluşun yasal olarak korunabilmesi için tüm detaylarının kamuya veya ilgili kuruma açıklanması.
+
+## Tanım
+Bir buluşun yasal olarak korunabilmesi için tüm detaylarının kamuya veya ilgili kuruma açıklanması.
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/patent-disclosure/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Paywall nedir?
 
 **Kategori:** Veri & Altyapı  
@@ -19197,6 +19231,23 @@ Evet, genellikle ana ajan üzerinden veya doğrudan bir haberleşme protokolü i
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/subagents/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Sun Code Conventions nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-09-01
+
+Java dilini geliştiren şirket tarafından oluşturulan, kod yazarken uyulması önerilen standartlar dizisi.
+
+## Tanım
+Java dilini geliştiren şirket tarafından oluşturulan, kod yazarken uyulması önerilen standartlar dizisi.
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/sun-code-conventions/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -34015,6 +34066,48 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Geliştirme ortamınızı tek merkezden yönetin
+
+Mise, yazılım geliştirme araçlarını, ortam değişkenlerini (environment variables) ve görev çalıştırıcılarını (task runner) tek bir çatı altında yönetmeyi sağlayan bir araçtır. Rust diliyle geliştirilen bu yazılım, farklı projeler için gerekli olan çalışma ortamlarını standartlaştırmayı ve hızlandırmayı hedefler.
+
+- ★ 33.313
+- Rust
+- GitHub Trending · 2026-08-08
+
+## Güncelleme
+- 1 Eylül 2026: Yıldız 33.273 → 33.313, son sürüm v2026.9.0 (1 Eylül 2026).
+- 31 Ağustos 2026: Yıldız 33.109 → 33.273, son sürüm v2026.8.16 (31 Ağustos 2026).
+- 27 Ağustos 2026: Yıldız 32.920 → 33.109, son sürüm v2026.8.14 (26 Ağustos 2026).
+- 24 Ağustos 2026: Yıldız 32.893 → 32.920, son sürüm v2026.8.12 (24 Ağustos 2026).
+
+## Ne kazandırır?
+- Proje araçlarını ve sürümlerini otomatik yönetir
+- Ortam değişkenlerini proje bazlı tanımlar
+- Derleme ve test görevlerini standartlaştırır
+
+## Nasıl başlanır?
+
+Kurulum yapmak için resmî dokümantasyon sayfasındaki 'Getting started' bölümünü ziyaret ederek işletim sisteminize uygun adımları takip edebilirsiniz. Kurulum sonrası aracın kabuğunuzla entegre çalışması için gerekli olan 'activate' komutlarını yine aynı dokümantasyon üzerinden kendi terminal türünüze göre yapılandırmanız gerekmektedir.
+- [Resmî kaynak →](https://mise.jdx.dev)
+
+- **Kimin için:** Farklı projeler arasında geçiş yaparken yazılım araçlarını, ortam değişkenlerini ve görevleri yönetmekte zorlanan yazılım geliştiriciler için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/jdx/mise)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Environment Variables Task Runner Terminal Rust
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/mise/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Dev yapay zekâ modellerini 4GB VRAM ile çalıştırın
 
 AirLLM, 70 milyar parametreli büyük dil modellerinin (large language models) yalnızca 4 GB video belleğine (VRAM) sahip grafik işlem birimlerinde çalıştırılmasına olanak tanıyor. Bu kütüphane, bellek optimizasyonu tekniklerini kullanarak yüksek kapasiteli modellerin düşük donanım gereksinimleriyle kullanılmasını sağlıyor.
@@ -34061,48 +34154,6 @@ VRAM Jupyter Notebooks Large Language Models Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/airllm/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Geliştirme ortamınızı tek merkezden yönetin
-
-Mise, yazılım geliştirme araçlarını, ortam değişkenlerini (environment variables) ve görev çalıştırıcılarını (task runner) tek bir çatı altında yönetmeyi sağlayan bir araçtır. Rust diliyle geliştirilen bu yazılım, farklı projeler için gerekli olan çalışma ortamlarını standartlaştırmayı ve hızlandırmayı hedefler.
-
-- ★ 33.273
-- Rust
-- GitHub Trending · 2026-08-08
-
-## Güncelleme
-- 31 Ağustos 2026: Yıldız 33.109 → 33.273, son sürüm v2026.8.16 (31 Ağustos 2026).
-- 27 Ağustos 2026: Yıldız 32.920 → 33.109, son sürüm v2026.8.14 (26 Ağustos 2026).
-- 24 Ağustos 2026: Yıldız 32.893 → 32.920, son sürüm v2026.8.12 (24 Ağustos 2026).
-- 24 Ağustos 2026: Yıldız 32.755 → 32.893, son sürüm v2026.8.11 (23 Ağustos 2026).
-
-## Ne kazandırır?
-- Proje araçlarını ve sürümlerini otomatik yönetir
-- Ortam değişkenlerini proje bazlı tanımlar
-- Derleme ve test görevlerini standartlaştırır
-
-## Nasıl başlanır?
-
-Kurulum yapmak için resmî dokümantasyon sayfasındaki 'Getting started' bölümünü ziyaret ederek işletim sisteminize uygun adımları takip edebilirsiniz. Kurulum sonrası aracın kabuğunuzla entegre çalışması için gerekli olan 'activate' komutlarını yine aynı dokümantasyon üzerinden kendi terminal türünüze göre yapılandırmanız gerekmektedir.
-- [Resmî kaynak →](https://mise.jdx.dev)
-
-- **Kimin için:** Farklı projeler arasında geçiş yaparken yazılım araçlarını, ortam değişkenlerini ve görevleri yönetmekte zorlanan yazılım geliştiriciler için uygundur. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/jdx/mise)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Environment Variables Task Runner Terminal Rust
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/mise/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -42937,6 +42988,9 @@ Checkstyle, Java programcılarının belirlenen kodlama standartlarına uygun ya
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-31 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
+## İlgili sözlük terimleri
+Google Java Style Guide Sun Code Conventions
+
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/checkstyle/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
@@ -45366,7 +45420,7 @@ Patent disclosure skill, patent başvurularında buluş noktalarının belirlenm
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-31 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Disclosure Skill
+Disclosure patent disclosure Skill
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/patent-disclosure-skill/

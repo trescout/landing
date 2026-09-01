@@ -1489,6 +1489,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/dictionary/google-java-style-guide/</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/dictionary/gpu/</loc>
     <lastmod>2026-08-31</lastmod>
     <changefreq>monthly</changefreq>
@@ -2257,6 +2263,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/dictionary/patent-disclosure/</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/dictionary/paywall/</loc>
     <lastmod>2026-08-24</lastmod>
     <changefreq>monthly</changefreq>
@@ -2925,6 +2937,12 @@
   <url>
     <loc>https://trescout.com/dictionary/subagents/</loc>
     <lastmod>2026-08-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/dictionary/sun-code-conventions/</loc>
+    <lastmod>2026-09-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3914,7 +3932,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/checkstyle/</loc>
-    <lastmod>2026-08-31</lastmod>
+    <lastmod>2026-09-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -5168,7 +5186,7 @@
   </url>
   <url>
     <loc>https://trescout.com/discover/mise/</loc>
-    <lastmod>2026-08-31</lastmod>
+    <lastmod>2026-09-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -8449,6 +8467,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/de/dictionary/google-java-style-guide/</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/de/dictionary/gpu/</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -9217,6 +9241,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/de/dictionary/patent-disclosure/</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/de/dictionary/paywall/</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -9884,6 +9914,12 @@
   </url>
   <url>
     <loc>https://trescout.com/de/dictionary/subagents/</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/de/dictionary/sun-code-conventions/</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -15337,6 +15373,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/en/dictionary/google-java-style-guide/</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/en/dictionary/gpu/</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -16105,6 +16147,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/en/dictionary/patent-disclosure/</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/en/dictionary/paywall/</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -16772,6 +16820,12 @@
   </url>
   <url>
     <loc>https://trescout.com/en/dictionary/subagents/</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/en/dictionary/sun-code-conventions/</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22225,6 +22279,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/es/dictionary/google-java-style-guide/</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/es/dictionary/gpu/</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -22993,6 +23053,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/es/dictionary/patent-disclosure/</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/es/dictionary/paywall/</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -23660,6 +23726,12 @@
   </url>
   <url>
     <loc>https://trescout.com/es/dictionary/subagents/</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/es/dictionary/sun-code-conventions/</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -29113,6 +29185,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/fr/dictionary/google-java-style-guide/</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/fr/dictionary/gpu/</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -29881,6 +29959,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/fr/dictionary/patent-disclosure/</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/fr/dictionary/paywall/</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -30548,6 +30632,12 @@
   </url>
   <url>
     <loc>https://trescout.com/fr/dictionary/subagents/</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/fr/dictionary/sun-code-conventions/</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -36001,6 +36091,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/pt/dictionary/google-java-style-guide/</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/pt/dictionary/gpu/</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -36769,6 +36865,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://trescout.com/pt/dictionary/patent-disclosure/</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://trescout.com/pt/dictionary/paywall/</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -37436,6 +37538,12 @@
   </url>
   <url>
     <loc>https://trescout.com/pt/dictionary/subagents/</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://trescout.com/pt/dictionary/sun-code-conventions/</loc>
     <lastmod>2026-09-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>

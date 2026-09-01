@@ -21985,14 +21985,14 @@
     "slug": "mise",
     "title": "Mise",
     "tagline": "Mise, yazılım geliştirme araçlarını, ortam değişkenlerini (environment variables) ve görev çalıştırıcılarını (task runner) tek…",
-    "meta": "★ 33.273 · Rust",
+    "meta": "★ 33.313 · Rust",
     "image": "/assets/discover/og/mise.webp",
     "source": "GitHub",
     "date": "2026-08-08",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 33273,
+    "stars": 33313,
     "lite": false,
     "headline": "Geliştirme ortamınızı tek merkezden yönetin",
     "needs_enrichment": true,
@@ -22069,6 +22069,13 @@
         "onceki_yildiz": 33109,
         "surum": "v2026.8.16",
         "surum_tarihi": "2026-08-31"
+      },
+      {
+        "tarih": "2026-09-01",
+        "yildiz": 33313,
+        "onceki_yildiz": 33273,
+        "surum": "v2026.9.0",
+        "surum_tarihi": "2026-09-01"
       }
     ],
     "tagline_fr": "Mise combine des outils de développement logiciel, des variables d'environnement et des exécuteurs de tâches en un seul…",

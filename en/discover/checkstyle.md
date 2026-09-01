@@ -6,6 +6,8 @@ Checkstyle is an analysis tool that helps Java programmers develop software in a
 - Java
 - GitHub Trending · 2026-08-31
 
+## Related dictionary terms
+
 ## Links
 - GitHub repository →
 - Read in Turkish →
