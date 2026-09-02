@@ -33,12 +33,12 @@ Oui, MCP dispose d'une structure qui maintient les autorisations d'accès aux do
 ## Outils liés
 - [Goose](/fr/discover/goose/)
 - [Chrome Devtools MCP](/fr/discover/chrome-devtools-mcp/)
+- [Openclaude](/fr/discover/openclaude/)
 - [Fastmcp](/fr/discover/fastmcp/)
 - [Unity MCP](/fr/discover/unity-mcp/)
 - [DesktopCommanderMCP](/fr/discover/desktopcommandermcp/)
 - [TREK](/fr/discover/trek/)
 - [Tradingview MCP](/fr/discover/tradingview-mcp/)
-- [VulnClaw](/fr/discover/vulnclaw/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/model-context-protocol/

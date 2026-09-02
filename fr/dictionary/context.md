@@ -27,12 +27,12 @@ Il fait référence à la capacité totale d’informations que l’intelligence
 ## Outils liés
 - [Goose](/fr/discover/goose/)
 - [Chrome Devtools MCP](/fr/discover/chrome-devtools-mcp/)
+- [Openclaude](/fr/discover/openclaude/)
 - [Code Review Graph](/fr/discover/code-review-graph/)
 - [Fastmcp](/fr/discover/fastmcp/)
 - [Unity MCP](/fr/discover/unity-mcp/)
 - [DesktopCommanderMCP](/fr/discover/desktopcommandermcp/)
 - [TREK](/fr/discover/trek/)
-- [Tradingview MCP](/fr/discover/tradingview-mcp/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/context/

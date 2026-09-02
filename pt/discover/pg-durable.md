@@ -2,7 +2,7 @@
 
 Desenvolvido pela Microsoft, pg_durable é uma biblioteca projetada para gerenciar processos de execução duráveis no PostgreSQL. Escrita em Rust, a ferramenta permite que fluxos de trabalho complexos sejam executados no banco de dados de maneira persistente e tolerante a falhas.
 
-- ★ 2.781
+- ★ 2.800
 - Rust
 - GitHub Trending · 2026-06-08
 

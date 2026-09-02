@@ -23,8 +23,8 @@ Oui, vous pouvez apporter toutes les modifications souhaitées à la copie sur v
 
 ## Outils liés
 - [MoneyPrinterTurbo](/fr/discover/moneyprinterturbo/)
-- [Clone-Wars](/fr/discover/clone-wars/)
 - [VoxCPM](/fr/discover/voxcpm/)
+- [Clone-Wars](/fr/discover/clone-wars/)
 - [Hermes WebUI](/fr/discover/hermes-webui/)
 - [OpenStock](/fr/discover/openstock/)
 - [Production Agentic RAG Course](/fr/discover/production-agentic-rag-course/)

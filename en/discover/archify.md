@@ -2,7 +2,7 @@
 
 Archify and habilidade de agente (agent skill) de inteligência artificial que cria diagramas técnicos, como fluxogramas arquiteturais e ciclos de dados, como arquivos HTML verificáveis ​​e animados. In this case, in the usa, para visualizar projectos desistemas complexos, suporta a exportação de resultados em alta resolução.
 
-- ★ 40,476
+- ★ 42,773
 - JavaScript
 - GitHub Trending · 2026-08-27
 

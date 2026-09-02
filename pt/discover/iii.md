@@ -2,7 +2,7 @@
 
 iii é um método para criar, estender e monitorar todos os serviços em sua pilha de back-end (fila, cron, HTTP, estado, observabilidade, agentes, sandbox) em tempo real. Faz com que peças que normalmente apresentam dificuldades de integração separadas possam ser gerenciadas a partir de um único ponto.
 
-- ★ 18.570
+- ★ 18.662
 - Rust
 - Lisans: yok
 - GitHub Trending · 28 May 2026

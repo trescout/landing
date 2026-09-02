@@ -27,12 +27,12 @@ Es bezieht sich auf die gesamte Informationskapazität, die künstliche Intellig
 ## Verwandte Werkzeuge
 - [Goose](/de/discover/goose/)
 - [Chrome Devtools MCP](/de/discover/chrome-devtools-mcp/)
+- [Openclaude](/de/discover/openclaude/)
 - [Code Review Graph](/de/discover/code-review-graph/)
 - [Fastmcp](/de/discover/fastmcp/)
 - [Unity MCP](/de/discover/unity-mcp/)
 - [DesktopCommanderMCP](/de/discover/desktopcommandermcp/)
 - [TREK](/de/discover/trek/)
-- [Tradingview MCP](/de/discover/tradingview-mcp/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/context/

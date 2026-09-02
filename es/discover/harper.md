@@ -2,7 +2,7 @@
 
 Harper ofrece un corrector gramatical sin conexión y orientado a la privacidad desarrollado con el lenguaje Rust. Esta herramienta de código abierto tiene como objetivo crear una alternativa segura y de alto rendimiento en los procesos de análisis de texto.
 
-- ★ 14.876
+- ★ 14.903
 - Rust
 - GitHub Trending · 2026-07-24
 

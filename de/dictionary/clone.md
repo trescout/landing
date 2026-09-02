@@ -23,8 +23,8 @@ Ja, Sie können auf Ihrem eigenen Computer alle gewünschten Änderungen an der 
 
 ## Verwandte Werkzeuge
 - [MoneyPrinterTurbo](/de/discover/moneyprinterturbo/)
-- [Clone-Wars](/de/discover/clone-wars/)
 - [VoxCPM](/de/discover/voxcpm/)
+- [Clone-Wars](/de/discover/clone-wars/)
 - [Hermes WebUI](/de/discover/hermes-webui/)
 - [OpenStock](/de/discover/openstock/)
 - [Production Agentic RAG Course](/de/discover/production-agentic-rag-course/)

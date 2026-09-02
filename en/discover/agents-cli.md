@@ -2,7 +2,7 @@
 
 The command-line interface (CLI) developed by Google makes coding assistants specialized in creating, evaluating and deploying artificial intelligence agents on Google Cloud (Google Cloud). This Python-based tool standardizes agent development processes and accelerates operational workflows on cloud infrastructure.
 
-- ★ 5,770
+- ★ 5,788
 - Python
 - GitHub Trending · 2026-07-01
 

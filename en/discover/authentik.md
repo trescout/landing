@@ -2,7 +2,7 @@
 
 Authentik is an open source security platform that provides centralized authentication and access management for applications. By combining complex authentication processes at a single point, it offers secure transition between different services.
 
-- ★ 24,947
+- ★ 25,314
 - Python
 - GitHub Trending · 2026-08-07
 

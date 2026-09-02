@@ -2,7 +2,7 @@
 
 AstrBot é uma estrutura de desenvolvimento de agentes de inteligência artificial que se integra a diversas plataformas de mensagens instantâneas, grandes modelos de linguagem e plug-ins. Esta ferramenta baseada em Python permite a criação de assistentes de IA personalizáveis ​​como uma alternativa de código aberto.
 
-- ★ 39.888
+- ★ 39.919
 - Python
 - GitHub Trending · 2026-07-20
 

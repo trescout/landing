@@ -39,7 +39,7 @@ Yes, it is an open standard developed to increase the interoperability of the ar
 - [Chrome Devtools MCP](/en/discover/chrome-devtools-mcp/)
 - [Codebase Memory MCP](/en/discover/codebase-memory-mcp/)
 - [Claude Howto](/en/discover/claude-howto/)
-- [Claude Code Templates](/en/discover/claude-code-templates/)
+- [Openclaude](/en/discover/openclaude/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/mcp/

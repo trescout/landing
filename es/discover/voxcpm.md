@@ -2,7 +2,7 @@
 
 VoxCPM; Es un modelo TTS de código abierto sin tokenizador desarrollado para la producción de voz multilingüe, diseño de sonido creativo y clonación de voz realista.
 
-- ★ 34.774
+- ★ 36.548
 - Python
 - Apache-2.0
 - GitHub Trending · 30 May 2026

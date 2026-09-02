@@ -37,7 +37,7 @@ Sim, é um padrão aberto desenvolvido para aumentar a interoperabilidade do eco
 - [Chrome Devtools MCP](/pt/discover/chrome-devtools-mcp/)
 - [Codebase Memory MCP](/pt/discover/codebase-memory-mcp/)
 - [Claude Howto](/pt/discover/claude-howto/)
-- [Claude Code Templates](/pt/discover/claude-code-templates/)
+- [Openclaude](/pt/discover/openclaude/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/mcp/

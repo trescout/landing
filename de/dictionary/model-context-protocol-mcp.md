@@ -33,12 +33,12 @@ Während der Installationsphase sind möglicherweise einige technische Kenntniss
 ## Verwandte Werkzeuge
 - [Goose](/de/discover/goose/)
 - [Chrome Devtools MCP](/de/discover/chrome-devtools-mcp/)
+- [Openclaude](/de/discover/openclaude/)
 - [Fastmcp](/de/discover/fastmcp/)
 - [Unity MCP](/de/discover/unity-mcp/)
 - [DesktopCommanderMCP](/de/discover/desktopcommandermcp/)
 - [TREK](/de/discover/trek/)
 - [Tradingview MCP](/de/discover/tradingview-mcp/)
-- [VulnClaw](/de/discover/vulnclaw/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/model-context-protocol-mcp/

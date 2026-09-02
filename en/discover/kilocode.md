@@ -2,7 +2,7 @@
 
 Kilo is an all-in-one agent-based engineering platform designed to accelerate software development processes. It standardizes the application creation, distribution and iteration processes through an open source software development agent (coding agent).
 
-- ★ 27,110
+- ★ 27,128
 - TypeScript
 - GitHub Trending · 2026-06-19
 

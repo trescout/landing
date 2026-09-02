@@ -2,7 +2,7 @@
 
 Archifizierung und Beherrschung künstlicher Agenten (Agentenfähigkeiten), die Diagramme als Techniker, wie Flussdiagramme von Architekturen und Datenzyklen, wie HTML-Archive, überprüft und animiert, erstellen. In diesem Fall in den USA, um komplexe Projekte zu visualisieren und den Export von Ergebnissen mit hoher Auflösung zu unterstützen.
 
-- ★ 40.476
+- ★ 42.773
 - JavaScript
 - GitHub Trending · 2026-08-27
 

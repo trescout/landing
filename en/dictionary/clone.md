@@ -25,8 +25,8 @@ Yes, you can make any changes you want to the copy on your own computer, but it 
 
 ## Related tools
 - [MoneyPrinterTurbo](/en/discover/moneyprinterturbo/)
-- [Clone-Wars](/en/discover/clone-wars/)
 - [VoxCPM](/en/discover/voxcpm/)
+- [Clone-Wars](/en/discover/clone-wars/)
 - [Hermes WebUI](/en/discover/hermes-webui/)
 - [OpenStock](/en/discover/openstock/)
 - [Production Agentic RAG Course](/en/discover/production-agentic-rag-course/)

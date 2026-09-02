@@ -2,15 +2,15 @@
 
 Canner tarafından geliştirilen WrenAI, doğal dili veritabanı sorgularına (text-to-SQL) dönüştürerek verileri otomatik olarak panellere ve grafiklere aktaran açık kaynaklı bir üretken iş zekası (generative BI) aracıdır. Platform, yirmiden fazla veri kaynağını destekleyen yönetilebilir bir bağlam katmanı üzerinden yapay zekâ ajanları için güvenilir veri analitiği süreçleri sunar.
 
-- ★ 17.431
+- ★ 17.451
 - Python
 - GitHub Trending · 2026-07-20
 
 ## Güncelleme
+- 2 Eylül 2026: Yıldız 17.431 → 17.451, son sürüm wren-pydantic-v0.3.0 (2 Eylül 2026).
 - 31 Ağustos 2026: Yıldız 17.302 → 17.431, son sürüm wren-core-py-v0.7.6 (31 Ağustos 2026).
 - 18 Ağustos 2026: Yıldız 17.239 → 17.302, son sürüm wren-v0.13.3 (18 Ağustos 2026).
 - 12 Ağustos 2026: Yıldız 17.219 → 17.239, son sürüm wren-core-py-v0.7.4 (12 Ağustos 2026).
-- 11 Ağustos 2026: Yıldız 17.046 → 17.219, son sürüm wren-semantic-core-v0.3.1 (11 Ağustos 2026).
 
 ## Ne kazandırır?
 - Doğal dilden güvenilir SQL sorguları oluşturur

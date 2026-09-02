@@ -33,12 +33,12 @@ Pode ser necessário algum conhecimento técnico durante a fase de instalação,
 ## Ferramentas relacionadas
 - [Goose](/pt/discover/goose/)
 - [Chrome Devtools MCP](/pt/discover/chrome-devtools-mcp/)
+- [Openclaude](/pt/discover/openclaude/)
 - [Fastmcp](/pt/discover/fastmcp/)
 - [Unity MCP](/pt/discover/unity-mcp/)
 - [DesktopCommanderMCP](/pt/discover/desktopcommandermcp/)
 - [TREK](/pt/discover/trek/)
 - [Tradingview MCP](/pt/discover/tradingview-mcp/)
-- [VulnClaw](/pt/discover/vulnclaw/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/model-context-protocol-mcp/

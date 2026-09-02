@@ -2,7 +2,7 @@
 
 Desenvolvido pela Moonshot AI, Kimi CLI é um agente de inteligência artificial que funciona através de uma interface de linha de comando (CLI). Esta ferramenta baseada em Python foi projetada para automatizar interações de linha de comando em processos de desenvolvimento de software.
 
-- ★ 11.074
+- ★ 11.306
 - Python
 - GitHub Trending · 2026-07-19
 

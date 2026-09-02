@@ -27,12 +27,12 @@ Se refiere a la capacidad total de información que la inteligencia artificial p
 ## Herramientas relacionadas
 - [Goose](/es/discover/goose/)
 - [Chrome Devtools MCP](/es/discover/chrome-devtools-mcp/)
+- [Openclaude](/es/discover/openclaude/)
 - [Code Review Graph](/es/discover/code-review-graph/)
 - [Fastmcp](/es/discover/fastmcp/)
 - [Unity MCP](/es/discover/unity-mcp/)
 - [DesktopCommanderMCP](/es/discover/desktopcommandermcp/)
 - [TREK](/es/discover/trek/)
-- [Tradingview MCP](/es/discover/tradingview-mcp/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/context/

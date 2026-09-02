@@ -35,12 +35,12 @@ Yes, MCP has a structure that keeps data access permissions under control, thus 
 ## Related tools
 - [Goose](/en/discover/goose/)
 - [Chrome Devtools MCP](/en/discover/chrome-devtools-mcp/)
+- [Openclaude](/en/discover/openclaude/)
 - [Fastmcp](/en/discover/fastmcp/)
 - [Unity MCP](/en/discover/unity-mcp/)
 - [DesktopCommanderMCP](/en/discover/desktopcommandermcp/)
 - [TREK](/en/discover/trek/)
 - [Tradingview MCP](/en/discover/tradingview-mcp/)
-- [VulnClaw](/en/discover/vulnclaw/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/model-context-protocol/

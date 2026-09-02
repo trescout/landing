@@ -2,7 +2,7 @@
 
 Webpack is a bundler that bundles JavaScript and other web assets together to run in the browser. It allows applications to be loaded when needed, thanks to the code splitting feature that divides modules into manageable parts.
 
-- ★ 65,962
+- ★ 65,959
 - JavaScript
 - GitHub Trending · 2026-08-05
 

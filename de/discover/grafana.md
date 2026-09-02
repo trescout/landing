@@ -2,7 +2,7 @@
 
 Grafana ist eine Open-Source-Plattform für Beobachtbarkeit und Datenvisualisierung, die Metriken, Protokolle und Traces aus verschiedenen Datenquellen in einer einzigen Schnittstelle kombiniert. Es ermöglicht die Analyse komplexer Datensätze durch die Integration mit vielen Systemen wie Prometheus, Elasticsearch und PostgreSQL.
 
-- ★ 76.290
+- ★ 76.559
 - TypeScript
 - GitHub Trending · 2026-06-27
 

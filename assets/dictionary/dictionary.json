@@ -7265,5 +7265,57 @@
     "kisa_pt": "Para que uma invenção seja legalmente protegida, todos os seus detalhes devem ser divulgados ao público ou à instituição competente.",
     "kisa_es": "Para que una invención esté legalmente protegida, todos sus detalles deben divulgarse al público o a la institución pertinente.",
     "kisa_de": "Damit eine Erfindung rechtlich geschützt ist, müssen alle Einzelheiten der Erfindung der Öffentlichkeit oder der zuständigen Institution bekannt gegeben werden."
+  },
+  {
+    "slug": "gguf",
+    "en": "GGUF",
+    "full": "GPT-Generated Unified Format",
+    "cat": "ai",
+    "kisa": "Büyük yapay zekâ modellerinin kişisel bilgisayarlarda verimli çalışması için tasarlanmış bir dosya formatıdır.",
+    "date": "2026-09-02",
+    "kisa_en": "It is a file format designed for large artificial intelligence models to run efficiently on personal computers.",
+    "kisa_fr": "Il s'agit d'un format de fichier conçu pour permettre aux grands modèles d'intelligence artificielle de fonctionner efficacement sur des ordinateurs personnels.",
+    "kisa_pt": "É um formato de arquivo projetado para que grandes modelos de inteligência artificial funcionem de forma eficiente em computadores pessoais.",
+    "kisa_es": "Es un formato de archivo diseñado para que los grandes modelos de inteligencia artificial funcionen de manera eficiente en computadoras personales.",
+    "kisa_de": "Es handelt sich um ein Dateiformat, das für den effizienten Betrieb großer KI-Modelle auf PCs entwickelt wurde."
+  },
+  {
+    "slug": "recursive-reproduction-number",
+    "en": "Recursive Reproduction Number",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Bir yapay zekâ sisteminin kendi kendini geliştirme ve çoğaltma sürecindeki büyüme hızıdır.",
+    "date": "2026-09-02",
+    "kisa_en": "It is the growth rate of an artificial intelligence system during its self-improvement and replication process.",
+    "kisa_fr": "Il s'agit de la vitesse de croissance d'un système d'intelligence artificielle lors de son processus d'auto-amélioration et de réplication.",
+    "kisa_pt": "É a taxa de crescimento de um sistema de inteligência artificial no processo de autoaperfeiçoamento e autorreplicação.",
+    "kisa_es": "Es la velocidad de crecimiento de un sistema de inteligencia artificial en su proceso de automejora y autorreplicación.",
+    "kisa_de": "Dies ist die Wachstumsrate eines KI-Systems während seines Selbstverbesserungs- und Replikationsprozesses."
+  },
+  {
+    "slug": "looped-transformer",
+    "en": "Looped Transformer",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Aynı işlem katmanlarını defalarca kullanarak bellek kullanımını azaltan bir yapay zekâ mimarisidir.",
+    "date": "2026-09-02",
+    "kisa_en": "It is an artificial intelligence architecture that reduces memory usage by using the same processing layers repeatedly.",
+    "kisa_fr": "Il s'agit d'une architecture d'intelligence artificielle qui réduit l'utilisation de la mémoire en réutilisant les mêmes couches de traitement à plusieurs reprises.",
+    "kisa_pt": "É uma arquitetura de inteligência artificial que reduz o uso de memória ao utilizar as mesmas camadas de processamento repetidamente.",
+    "kisa_es": "Es una arquitectura de inteligencia artificial que reduce el uso de memoria al utilizar las mismas capas de procesamiento repetidamente.",
+    "kisa_de": "Es ist eine KI-Architektur, die den Speicherverbrauch reduziert, indem sie dieselben Verarbeitungsschichten wiederholt verwendet."
+  },
+  {
+    "slug": "mixture-of-experts",
+    "en": "Mixture of Experts",
+    "full": "MoE",
+    "cat": "ai",
+    "kisa": "Karmaşık görevleri, her biri farklı konuda uzmanlaşmış alt bölümlere paylaştırarak çözen bir sistemdir.",
+    "date": "2026-09-02",
+    "kisa_en": "It is a system that solves complex tasks by distributing them into sub-sections, each specialized in a different subject.",
+    "kisa_fr": "Il s'agit d'un système qui résout des tâches complexes en les répartissant entre des sous-sections, chacune spécialisée dans un domaine différent.",
+    "kisa_pt": "É um sistema que resolve tarefas complexas dividindo-as em subseções, cada uma especializada em um tópico diferente.",
+    "kisa_es": "Es un sistema que resuelve tareas complejas dividiéndolas en subsecciones, cada una especializada en un tema diferente.",
+    "kisa_de": "Es ist ein System, das komplexe Aufgaben löst, indem es sie in Teilbereiche unterteilt, die jeweils auf ein anderes Thema spezialisiert sind."
   }
 ]

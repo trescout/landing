@@ -2,7 +2,7 @@
 
 Agentsview is a monitoring tool that provides local-first session intelligence and analytics data for coding agents. This software, which supports more than twenty agents, including Claude Code and Codex, promises faster performance compared to the ccusage tool.
 
-- ★ 5,127
+- ★ 5,720
 - Go
 - GitHub Trending · 2026-06-12
 

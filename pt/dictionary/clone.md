@@ -23,8 +23,8 @@ Sim, você pode fazer as alterações que desejar na cópia em seu próprio comp
 
 ## Ferramentas relacionadas
 - [MoneyPrinterTurbo](/pt/discover/moneyprinterturbo/)
-- [Clone-Wars](/pt/discover/clone-wars/)
 - [VoxCPM](/pt/discover/voxcpm/)
+- [Clone-Wars](/pt/discover/clone-wars/)
 - [Hermes WebUI](/pt/discover/hermes-webui/)
 - [OpenStock](/pt/discover/openstock/)
 - [Production Agentic RAG Course](/pt/discover/production-agentic-rag-course/)

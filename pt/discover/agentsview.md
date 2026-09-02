@@ -2,7 +2,7 @@
 
 Agentsview é uma ferramenta de monitoramento que fornece inteligência de primeira sessão local e dados analíticos para agentes de codificação. Este software, que suporta mais de vinte agentes, incluindo Claude Code e Codex, promete desempenho mais rápido em comparação com a ferramenta ccusage.
 
-- ★ 5.127
+- ★ 5.720
 - Go
 - GitHub Trending · 2026-06-12
 

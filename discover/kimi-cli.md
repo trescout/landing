@@ -2,11 +2,12 @@
 
 Moonshot AI tarafından geliştirilen Kimi CLI, komut satırı arayüzü (CLI) üzerinden çalışan bir yapay zekâ ajanıdır. Python tabanlı bu araç, yazılım geliştirme süreçlerinde komut satırı etkileşimlerini otomatikleştirmek için tasarlanmıştır.
 
-- ★ 11.074
+- ★ 11.306
 - Python
 - GitHub Trending · 2026-07-19
 
 ## Güncelleme
+- 2 Eylül 2026: Yıldız 11.074 → 11.306, son sürüm 1.50.0 (1 Eylül 2026).
 - 2 Ağustos 2026: Yıldız 9.577 → 11.074, son sürüm 1.49.0 (16 Temmuz 2026).
 
 ## Ne kazandırır?
