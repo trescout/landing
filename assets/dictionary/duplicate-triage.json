@@ -1,0 +1,11 @@
+{
+  "_aciklama": "İncelenmiş fakat canonical birleştirme yapılmaması kararlaştırılmış sözlük çiftleri. Bu kayıt redirect veya içerik silme talimatı değildir; duplicate tarayıcısının aynı bulguyu yeniden issue olarak açmasını önleyen editoryal karar kaydıdır.",
+  "incelenmis": [
+    {
+      "cift": ["container", "containers"],
+      "karar": "ayri_tut",
+      "gerekce": "Raporlarda tekil teknik kavram veya proje adı ile çoğul genel kategori farklı bağlamlarda kullanılıyor. Yalnız slug benzerliği canonical birleştirme için yeterli değil.",
+      "incelenme_tarihi": "2026-08-26"
+    }
+  ]
+}
