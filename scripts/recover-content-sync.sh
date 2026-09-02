@@ -57,6 +57,12 @@ for d in $LANG_CODES; do
   node scripts/build-reports-en.js --lang="$d"
 done
 
+# Ana sayfa katalog türevi · dict-sync.yml'deki adımın ikizi. Bu satır
+# eksikken kurtarma yolu catalog.json'ı --refresh ile güncelliyor ama türevi
+# güncellemiyordu; 2026-09-01 12:15 commit'i tam olarak böyle çıktı ve
+# catalog-home.py --check guard'ı main'de düştü.
+python3 scripts/catalog-home.py
+
 python3 scripts/discover-index.py
 python3 scripts/discover-md.py
 python3 scripts/llms-txt.py
