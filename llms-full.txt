@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve web/PDF rapor olarak yayımlar. E-posta teslimatı erken erişim aşamasında hazırlanıyor.
 
-Son güncelleme: 2026-09-02 · 496 araç · 563 terim
+Son güncelleme: 2026-09-02 · 496 araç · 564 terim
 
 ---
 
@@ -45,6 +45,48 @@ Prompt bir istektir, action ise bu isteğin sonucunda gerçekleşen somut işlem
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/action/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Ad Blocker nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-09-02
+
+İnternet sayfalarındaki reklam içeriklerini yüklenmeden durduran yazılım aracıdır.
+
+## Tanım
+Ad blocker, tarayıcınızın bir web sitesini açarken reklam sunucularıyla iletişim kurmasını engelleyen bir yardımcıdır. Bu araçlar, reklam kodlarını daha bilgisayarınıza ulaşmadan yakalar ve sayfadaki yerlerini boş bırakarak sitenin daha temiz görünmesini sağlar. Ayrıca reklamların yüklenmemesi sayesinde sayfalar daha hızlı açılır ve veri kullanımınız azalır.
+
+## Bir benzetmeyle
+Bir dergi okurken sayfaların arasına sıkıştırılmış el ilanlarını doğrudan çöpe atan ve sadece ana içeriği size bırakan çok hızlı bir asistan gibidir.
+
+## Nasıl çalışır?
+Tarayıcınıza bir eklenti olarak kurarsınız ve bu eklenti, reklam barındıran sunucuların bir listesini takip eder. Web sitesi yüklenirken tarayıcı bu listedeki adreslere bağlanmaya çalıştığında, eklenti bu bağlantıyı keser. Böylece reklamlar hiç görüntülenmez.
+
+## Nerede kullanılır?
+Genellikle web tarayıcılarında eklenti olarak kullanılır veya bazı tarayıcılarda yerleşik özellik olarak bulunur.
+
+## Sık karıştırılanlar
+Bazen reklamları engellemekle web sitesinin içeriğini engellemek birbirine karıştırılabilir, ancak bu araçlar sadece reklam sunucularını hedefler.
+
+## Sıkça sorulanlar
+
+**Ad blocker kullanmak sitelere zarar verir mi?**  
+Sitenin reklam gelirini engellediği için içerik üreticileri açısından bir gelir kaybına yol açabilir.
+
+**Her reklamı engeller mi?**  
+Çoğu reklamı engeller ancak bazı siteler reklam engelleyicileri tespit edip erişimi kısıtlayabilir.
+
+## İlgili terimler
+- [Adblocker](/dictionary/adblocker/)
+- [Browser State](/dictionary/browser-state/)
+- [User Experience](/dictionary/user-experience/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/ad-blocker/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -23594,7 +23636,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 n8n, görsel canvas, özel kod, AI ajanları ve iş akışlarını bir araya getiren fair-code bir otomasyon platformudur. Self-host veya cloud dağıtım seçenekleriyle çalışabilir; farklı model sağlayıcılarını iş akışlarınıza dahil etmenizi destekler.
 
-- ★ 202.957
+- ★ 203.105
 - GitHub Trending · 2026-08-23
 
 ## Kurulum
@@ -23616,6 +23658,7 @@ docker run -it --rm --name n8n -p 5678:5678 -v n8n_data:/home/node/.n8n docker.n
 Kaynak: Komutlar n8n resmî README’sinden 24 Ağustos 2026’da kontrol edildi; editör 5678 portunda açılır.
 
 ## Güncelleme
+- 2 Eylül 2026: Yıldız 202.957 → 203.105, son sürüm n8n@2.37.7 (2 Eylül 2026).
 - 31 Ağustos 2026: Yıldız 202.576 → 202.957, son sürüm n8n@2.36.9 (31 Ağustos 2026).
 - 27 Ağustos 2026: Yıldız 201.895 → 202.576, son sürüm n8n@2.36.7 (25 Ağustos 2026).
 - 23 Ağustos 2026: Yıldız 201.890 → 201.895, son sürüm n8n@2.35.7 (21 Ağustos 2026).
@@ -31281,6 +31324,67 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Kendi Sesli yapay zekâ Karakterinizi Oluşturun
+
+AIRI , kendi sunucunuzda barındırabileceğiniz, gerçek zamanlı sesli sohbet yapabilen ve Minecraft veya Factorio gibi oyunları oynayabilen AI tabanlı bir sanal karakter platformudur. Neuro-sama tarzı etkileşimli dijital varlıkları masaüstü ve web ortamına taşır.
+
+- ★ 48.711
+- TypeScript
+- MIT
+- GitHub Trending · 28 May 2026
+
+## Güncelleme
+- 2 Eylül 2026: Yıldız 46.435 → 48.711, son sürüm v0.12.0-beta.5 (29 Ağustos 2026).
+- 2 Ağustos 2026: Yıldız 40.222 → 46.435, son sürüm v0.11.3 (18 Temmuz 2026).
+
+- **Kimin için:** AI karakter/companion meraklıları, hobiciler 
+- **Zorluk:** Orta–ileri · self-host 
+- **Ne sunar:** Sesli sohbet + oyun oynayan AI karakter 
+- **Platform:** Web / macOS / Windows 
+- **Ücret:** Ücretsiz · açık kaynak (MIT) 
+
+## Ne kazandırır?
+- Kendi AI karakteriniz , tamamen sizin sunucunuzda.
+- Gerçek zamanlı sesli sohbet imkanı.
+- Minecraft ve Factorio gibi oyunları oynayabilme yeteneği.
+- Verileriniz tamamen sizde kalır (self-host).
+
+## Kurulum
+
+**Git ile depoyu klonla**
+
+```
+git clone https://github.com/AIRI-institute/airi.git
+```
+
+Kaynak: Resmî kaynak: https://github.com/moeru-ai/airi
+
+## Nasıl başlanır?
+
+Dokümantasyonu takip ederek kendi sisteminize kolayca kurabilirsiniz (airi.moeru.ai/docs). Web, macOS ve Windows platformları desteklenmektedir.
+
+## Nasıl kurulur, nasıl kullanılır?
+🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+AIRI adlı yapay zekâ sanal karakter uygulamasını bilgisayarıma kur: macOS'taysam 'brew install --cask airi', Windows'taysam 'winget install MoeruAI.AIRI' komutunu çalıştır ve uygulamayı aç.
+
+Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/moeru-ai/airi)
+- [Dokümantasyon →](https://airi.moeru.ai/docs/)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+AI Companion Companion Self-hosting Open Source Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/airi/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Node.js projeleri için veritabanı yönetimi
 
 Prisma, Node.js ve TypeScript projeleri için veritabanı etkileşimlerini kolaylaştıran bir nesne ilişkisel eşleyici (ORM) aracıdır. Farklı veritabanı sistemlerini destekleyen yapısı, geliştiricilere tip güvenli (type-safe) veritabanı sorguları oluşturma imkânı tanır.
@@ -31430,66 +31534,6 @@ Graph RAG Knowledge Graph RAG Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/gitnexus/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Kendi Sesli yapay zekâ Karakterinizi Oluşturun
-
-AIRI , kendi sunucunuzda barındırabileceğiniz, gerçek zamanlı sesli sohbet yapabilen ve Minecraft veya Factorio gibi oyunları oynayabilen AI tabanlı bir sanal karakter platformudur. Neuro-sama tarzı etkileşimli dijital varlıkları masaüstü ve web ortamına taşır.
-
-- ★ 46.435
-- TypeScript
-- MIT
-- GitHub Trending · 28 May 2026
-
-## Güncelleme
-- 2 Ağustos 2026: Yıldız 40.222 → 46.435, son sürüm v0.11.3 (18 Temmuz 2026).
-
-- **Kimin için:** AI karakter/companion meraklıları, hobiciler 
-- **Zorluk:** Orta–ileri · self-host 
-- **Ne sunar:** Sesli sohbet + oyun oynayan AI karakter 
-- **Platform:** Web / macOS / Windows 
-- **Ücret:** Ücretsiz · açık kaynak (MIT) 
-
-## Ne kazandırır?
-- Kendi AI karakteriniz , tamamen sizin sunucunuzda.
-- Gerçek zamanlı sesli sohbet imkanı.
-- Minecraft ve Factorio gibi oyunları oynayabilme yeteneği.
-- Verileriniz tamamen sizde kalır (self-host).
-
-## Kurulum
-
-**Git ile depoyu klonla**
-
-```
-git clone https://github.com/AIRI-institute/airi.git
-```
-
-Kaynak: Resmî kaynak: https://github.com/moeru-ai/airi
-
-## Nasıl başlanır?
-
-Dokümantasyonu takip ederek kendi sisteminize kolayca kurabilirsiniz (airi.moeru.ai/docs). Web, macOS ve Windows platformları desteklenmektedir.
-
-## Nasıl kurulur, nasıl kullanılır?
-🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-AIRI adlı yapay zekâ sanal karakter uygulamasını bilgisayarıma kur: macOS'taysam 'brew install --cask airi', Windows'taysam 'winget install MoeruAI.AIRI' komutunu çalıştır ve uygulamayı aç.
-
-Lisans: MIT · özgürce kullanabilir, değiştirebilir, ticari kullanabilirsiniz.
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/moeru-ai/airi)
-- [Dokümantasyon →](https://airi.moeru.ai/docs/)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-AI Companion Companion Self-hosting Open Source Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/airi/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -32482,15 +32526,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 PostHog, ürün geliştirme süreçleri için yapay zekâ gözlemlenebilirliği (AI observability), analiz ve oturum tekrarı (session replay) gibi araçları bir araya getiren kapsamlı bir platformdur. Yazılım geliştiricilerin hata takibi, deney yönetimi ve kullanıcı verilerini analiz ederek otonom ürünler oluşturmasını sağlar.
 
-- ★ 39.547
+- ★ 39.551
 - Python
 - GitHub Trending · 2026-07-17
 
 ## Güncelleme
+- 2 Eylül 2026: Yıldız 39.547 → 39.551, son sürüm desktop-v0.61.172 (2 Eylül 2026).
 - 2 Eylül 2026: Yıldız 39.512 → 39.547, son sürüm desktop-v0.61.170 (2 Eylül 2026).
 - 1 Eylül 2026: Yıldız 39.497 → 39.512, son sürüm desktop-v0.61.142 (1 Eylül 2026).
 - 31 Ağustos 2026: Yıldız 39.295 → 39.497, son sürüm desktop-v0.61.128 (31 Ağustos 2026).
-- 27 Ağustos 2026: Yıldız 38.791 → 39.295, son sürüm desktop-v0.61.62 (27 Ağustos 2026).
 
 ## Ne kazandırır?
 - Kullanıcı davranışlarını analiz ederek hataları otomatik tespit edin.
@@ -32972,6 +33016,61 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Kendi verilerinizle yapay zekâ asistanı
+
+Open-notebook, Google NotebookLM'in açık kaynaklı bir alternatifini sunarak kullanıcıların kendi verileri üzerinde özelleştirilebilir yapay zekâ destekli not analizi (AI-powered note analysis) yapmalarına olanak tanıyor. TypeScript ile geliştirilen bu proje, orijinal platforma kıyasla daha fazla esneklik ve genişletilmiş özellik seti sağlıyor.
+
+- ★ 38.082
+- TypeScript
+- GitHub Trending · 2026-06-05
+
+## Güncelleme
+- 2 Eylül 2026: Yıldız 36.268 → 38.082, son sürüm v1.14.0 (21 Temmuz 2026).
+- 2 Ağustos 2026: Yıldız 25.373 → 36.268, son sürüm v1.14.0 (21 Temmuz 2026).
+
+## Ne kazandırır?
+- Verilerinizi tamamen yerel ortamda gizli tutarak analiz edin.
+- 18'den fazla yapay zekâ sağlayıcısı ile esnek model seçimi yapın.
+- PDF, video ve ses dosyalarınızdan profesyonel podcast'ler oluşturun.
+
+## Kurulum
+
+**Yapılandırma dosyasını indirme**
+
+```
+curl -o docker-compose.yml https://raw.githubusercontent.com/lfnovo/open-notebook/main/docker-compose.yml
+```
+
+## Çalıştırma
+
+**Servisleri başlatma**
+
+```
+docker compose up -d
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Open Notebook aracını kurmak istiyorum. Docker Desktop yüklü durumda. Öncelikle curl komutu ile docker-compose.yml dosyasını indirmem, ardından dosya içindeki OPEN_NOTEBOOK_ENCRYPTION_KEY kısmını kendime özel bir şifre ile değiştirmem gerekiyor. Son aşamada ise docker compose up -d komutunu çalıştırarak kurulumu tamamlamam lazım. Bu süreçte dikkat etmem gereken başka bir ayar veya adım var mı?
+
+- **Kimin için:** Kendi verileri üzerinde tam kontrol sahibi olmak isteyen, gizlilik odaklı yapay zekâ destekli not analizi ve içerik üretimi arayan kullanıcılar için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/lfnovo/open-notebook)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+AI-powered Note Analysis PDF Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/open-notebook/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Wayland üzerinde özelleştirilebilir masaüstü deneyimi
 
 Hyprland, Wayland görüntü sunucusu (compositor) üzerinde çalışan ve özelleştirilebilir dinamik döşeme (tiling) yapısı sunan bir pencere yöneticisidir. C++ ile geliştirilen bu araç, görsel estetikten ödün vermeden yüksek performanslı bir masaüstü deneyimi sağlar.
@@ -33398,60 +33497,6 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/everyone-can-use-english/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Kendi verilerinizle yapay zekâ asistanı
-
-Open-notebook, Google NotebookLM'in açık kaynaklı bir alternatifini sunarak kullanıcıların kendi verileri üzerinde özelleştirilebilir yapay zekâ destekli not analizi (AI-powered note analysis) yapmalarına olanak tanıyor. TypeScript ile geliştirilen bu proje, orijinal platforma kıyasla daha fazla esneklik ve genişletilmiş özellik seti sağlıyor.
-
-- ★ 36.268
-- TypeScript
-- GitHub Trending · 2026-06-05
-
-## Güncelleme
-- 2 Ağustos 2026: Yıldız 25.373 → 36.268, son sürüm v1.14.0 (21 Temmuz 2026).
-
-## Ne kazandırır?
-- Verilerinizi tamamen yerel ortamda gizli tutarak analiz edin.
-- 18'den fazla yapay zekâ sağlayıcısı ile esnek model seçimi yapın.
-- PDF, video ve ses dosyalarınızdan profesyonel podcast'ler oluşturun.
-
-## Kurulum
-
-**Yapılandırma dosyasını indirme**
-
-```
-curl -o docker-compose.yml https://raw.githubusercontent.com/lfnovo/open-notebook/main/docker-compose.yml
-```
-
-## Çalıştırma
-
-**Servisleri başlatma**
-
-```
-docker compose up -d
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Open Notebook aracını kurmak istiyorum. Docker Desktop yüklü durumda. Öncelikle curl komutu ile docker-compose.yml dosyasını indirmem, ardından dosya içindeki OPEN_NOTEBOOK_ENCRYPTION_KEY kısmını kendime özel bir şifre ile değiştirmem gerekiyor. Son aşamada ise docker compose up -d komutunu çalıştırarak kurulumu tamamlamam lazım. Bu süreçte dikkat etmem gereken başka bir ayar veya adım var mı?
-
-- **Kimin için:** Kendi verileri üzerinde tam kontrol sahibi olmak isteyen, gizlilik odaklı yapay zekâ destekli not analizi ve içerik üretimi arayan kullanıcılar için uygundur. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/lfnovo/open-notebook)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-AI-powered Note Analysis PDF Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/open-notebook/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -44013,11 +44058,12 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Instatic, TypeScript tabanlı, kendi kendine barındırılan (self-hosted) modern bir görsel içerik yönetim sistemi (CMS) olarak sunuluyor. Kullanıcıların hızlı kurulum süreciyle içerik yönetimi arayüzünü kendi sunucularında çalıştırmasına olanak tanıyor.
 
-- ★ 8.329
+- ★ 8.368
 - TypeScript
 - GitHub Trending · 2026-07-01
 
 ## Güncelleme
+- 2 Eylül 2026: Yıldız 8.329 → 8.368, son sürüm v0.0.18 (2 Eylül 2026).
 - 31 Ağustos 2026: Yıldız 7.891 → 8.329, son sürüm v0.0.17 (30 Ağustos 2026).
 - 12 Ağustos 2026: Yıldız 7.250 → 7.891, son sürüm v0.0.16 (11 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 1.681 → 7.250, son sürüm v0.0.14 (28 Temmuz 2026).

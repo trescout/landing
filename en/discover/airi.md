@@ -2,7 +2,7 @@
 
 AIRI is an AI-based virtual character platform that you can host on your own server, capable of real-time voice chat and play games like Minecraft or Factorio. It brings Neuro-sama-style interactive digital assets to desktop and web.
 
-- ★ 46,435
+- ★ 48,711
 - TypeScript
 - MIT
 - GitHub Trending · 28 May 2026

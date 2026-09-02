@@ -2,7 +2,7 @@
 
 Open-Notebook bietet eine Open-Source-Alternative zu Google NotebookLM und ermöglicht es Benutzern, eine anpassbare KI-gestützte Notizenanalyse für ihre eigenen Daten durchzuführen. Dieses mit TypeScript entwickelte Projekt bietet im Vergleich zur ursprünglichen Plattform eine größere Flexibilität und einen erweiterten Funktionsumfang.
 
-- ★ 36.268
+- ★ 38.082
 - TypeScript
 - GitHub Trending · 2026-06-05
 

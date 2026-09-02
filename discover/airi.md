@@ -2,12 +2,13 @@
 
 AIRI , kendi sunucunuzda barındırabileceğiniz, gerçek zamanlı sesli sohbet yapabilen ve Minecraft veya Factorio gibi oyunları oynayabilen AI tabanlı bir sanal karakter platformudur. Neuro-sama tarzı etkileşimli dijital varlıkları masaüstü ve web ortamına taşır.
 
-- ★ 46.435
+- ★ 48.711
 - TypeScript
 - MIT
 - GitHub Trending · 28 May 2026
 
 ## Güncelleme
+- 2 Eylül 2026: Yıldız 46.435 → 48.711, son sürüm v0.12.0-beta.5 (29 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 40.222 → 46.435, son sürüm v0.11.3 (18 Temmuz 2026).
 
 - **Kimin için:** AI karakter/companion meraklıları, hobiciler 

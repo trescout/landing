@@ -2,7 +2,7 @@
 
 AIRI est une plate-forme de personnages virtuels basée sur l'IA que vous pouvez héberger sur votre propre serveur, capable de discuter en temps réel et de jouer à des jeux comme Minecraft ou Factorio. Il apporte des ressources numériques interactives de style Neuro-sama aux ordinateurs de bureau et au Web.
 
-- ★ 46 435
+- ★ 48 711
 - TypeScript
 - MIT
 - GitHub Trending · 28 May 2026

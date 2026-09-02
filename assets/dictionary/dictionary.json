@@ -7317,5 +7317,18 @@
     "kisa_pt": "É um sistema que resolve tarefas complexas dividindo-as em subseções, cada uma especializada em um tópico diferente.",
     "kisa_es": "Es un sistema que resuelve tareas complejas dividiéndolas en subsecciones, cada una especializada en un tema diferente.",
     "kisa_de": "Es ist ein System, das komplexe Aufgaben löst, indem es sie in Teilbereiche unterteilt, die jeweils auf ein anderes Thema spezialisiert sind."
+  },
+  {
+    "slug": "ad-blocker",
+    "en": "Ad Blocker",
+    "full": "",
+    "cat": "dev",
+    "kisa": "İnternet sayfalarındaki reklam içeriklerini yüklenmeden durduran yazılım aracıdır.",
+    "date": "2026-09-02",
+    "kisa_en": "It is a software tool that stops advertising content on web pages from loading.",
+    "kisa_fr": "Il s'agit d'un outil logiciel qui bloque le chargement des contenus publicitaires sur les pages web.",
+    "kisa_pt": "É uma ferramenta de software que bloqueia o carregamento de conteúdos publicitários em páginas da internet.",
+    "kisa_es": "Es una herramienta de software que bloquea el contenido publicitario en las páginas web antes de que se cargue.",
+    "kisa_de": "Dies ist ein Software-Tool, das Werbeinhalte auf Webseiten blockiert, bevor sie geladen werden."
   }
 ]

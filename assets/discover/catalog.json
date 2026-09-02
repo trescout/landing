@@ -1114,7 +1114,7 @@
     "slug": "airi",
     "title": "AIRI",
     "tagline": "Kendi sunucunuzda barınan, sesli sohbet edebilen ve oyun oynayabilen AI karakteri.",
-    "meta": "★ 46.435 · MIT",
+    "meta": "★ 48.711 · MIT",
     "source": "GitHub",
     "date": "2026-05-28",
     "tags": [
@@ -1122,7 +1122,7 @@
       "Yapay zekâ araçları",
       "Üretkenlik"
     ],
-    "stars": 46435,
+    "stars": 48711,
     "image": "/assets/discover/og/airi.webp",
     "headline": "Kendi Sesli yapay zekâ Karakterinizi Oluşturun",
     "last_review": "2026-09-02",
@@ -1133,6 +1133,13 @@
         "onceki_yildiz": 40222,
         "surum": "v0.11.3",
         "surum_tarihi": "2026-07-18"
+      },
+      {
+        "tarih": "2026-09-02",
+        "yildiz": 48711,
+        "onceki_yildiz": 46435,
+        "surum": "v0.12.0-beta.5",
+        "surum_tarihi": "2026-08-29"
       }
     ],
     "tagline_en": "AI character hosted on your own server, capable of voice chat and playing games.",
@@ -3979,7 +3986,7 @@
     "slug": "open-notebook",
     "title": "Open Notebook",
     "tagline": "Open-notebook, Google NotebookLM'in açık kaynaklı bir alternatifini sunarak kullanıcıların kendi verileri üzerinde…",
-    "meta": "★ 36.268 · TypeScript",
+    "meta": "★ 38.082 · TypeScript",
     "image": "/assets/discover/og/open-notebook.webp",
     "source": "GitHub",
     "date": "2026-06-05",
@@ -3987,7 +3994,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 36268,
+    "stars": 38082,
     "lite": false,
     "headline": "Kendi verilerinizle yapay zekâ asistanı",
     "last_review": "2026-09-02",
@@ -3996,6 +4003,13 @@
         "tarih": "2026-08-02",
         "yildiz": 36268,
         "onceki_yildiz": 25373,
+        "surum": "v1.14.0",
+        "surum_tarihi": "2026-07-21"
+      },
+      {
+        "tarih": "2026-09-02",
+        "yildiz": 38082,
+        "onceki_yildiz": 36268,
         "surum": "v1.14.0",
         "surum_tarihi": "2026-07-21"
       }
@@ -12393,7 +12407,7 @@
     "slug": "instatic",
     "title": "Instatic",
     "tagline": "Instatic, TypeScript tabanlı, kendi kendine barındırılan (self-hosted) modern bir görsel içerik yönetim sistemi (CMS) olarak…",
-    "meta": "★ 8.329 · TypeScript",
+    "meta": "★ 8.368 · TypeScript",
     "image": "/assets/discover/og/instatic.webp",
     "source": "GitHub",
     "date": "2026-07-01",
@@ -12401,7 +12415,7 @@
       "Self-host",
       "Geliştirici aracı"
     ],
-    "stars": 8329,
+    "stars": 8368,
     "lite": false,
     "headline": "Kendi sunucunuzda modern görsel CMS",
     "last_review": "2026-09-02",
@@ -12426,6 +12440,13 @@
         "onceki_yildiz": 7891,
         "surum": "v0.0.17",
         "surum_tarihi": "2026-08-30"
+      },
+      {
+        "tarih": "2026-09-02",
+        "yildiz": 8368,
+        "onceki_yildiz": 8329,
+        "surum": "v0.0.18",
+        "surum_tarihi": "2026-09-02"
       }
     ],
     "tagline_en": "Instatic is a modern self-hosted visual content management system (CMS) based on TypeScript.",
@@ -16730,7 +16751,7 @@
     "slug": "posthog",
     "title": "Posthog",
     "tagline": "PostHog, ürün geliştirme süreçleri için yapay zekâ gözlemlenebilirliği (AI observability), analiz ve oturum tekrarı (session…",
-    "meta": "★ 39.547 · Python",
+    "meta": "★ 39.551 · Python",
     "image": "/assets/discover/og/posthog.webp",
     "source": "GitHub",
     "date": "2026-07-17",
@@ -16738,7 +16759,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 39547,
+    "stars": 39551,
     "lite": false,
     "headline": "Ürün geliştirme için yapay zekâ gözlemlenebilirliği",
     "last_review": "2026-09-02",
@@ -16930,6 +16951,13 @@
         "yildiz": 39547,
         "onceki_yildiz": 39512,
         "surum": "desktop-v0.61.170",
+        "surum_tarihi": "2026-09-02"
+      },
+      {
+        "tarih": "2026-09-02",
+        "yildiz": 39551,
+        "onceki_yildiz": 39547,
+        "surum": "desktop-v0.61.172",
         "surum_tarihi": "2026-09-02"
       }
     ],
@@ -25807,7 +25835,7 @@
     "slug": "n8n",
     "title": "N8n",
     "tagline": "n8n, görsel canvas, özel kod ve AI ajanlarıyla self-host veya cloud iş akışı otomasyonu kurmanıza yardımcı olan fair-code bir platformdur.",
-    "meta": "★ 202.957",
+    "meta": "★ 203.105",
     "image": "/assets/discover/og/n8n.webp",
     "source": "GitHub",
     "date": "2026-08-23",
@@ -25815,7 +25843,7 @@
       "Self-host",
       "Geliştirici aracı"
     ],
-    "stars": 202957,
+    "stars": 203105,
     "summary": "n8n, görsel canvas, özel kod, AI ajanları ve iş akışlarını bir araya getiren fair-code bir otomasyon platformudur. Self-host veya cloud dağıtım seçenekleriyle çalışabilir; farklı model sağlayıcılarını iş akışlarınıza dahil etmenizi destekler.",
     "headline": "Görsel İş Akışları ve AI Otomasyonu",
     "lite": false,
@@ -26031,6 +26059,13 @@
         "onceki_yildiz": 202576,
         "surum": "n8n@2.36.9",
         "surum_tarihi": "2026-08-31"
+      },
+      {
+        "tarih": "2026-09-02",
+        "yildiz": 203105,
+        "onceki_yildiz": 202957,
+        "surum": "n8n@2.37.7",
+        "surum_tarihi": "2026-09-02"
       }
     ],
     "last_review": "2026-09-02",
@@ -27970,7 +28005,8 @@
     "tagline_fr": "OpenClaude est une interface d'intelligence artificielle flexible capable de fonctionner sur tout type de matériel et d'utiliser différentes sources de données.",
     "tagline_pt": "OpenClaude, uma interface de inteligência artificial flexível que pode rodar em qualquer tipo de hardware e utilizar diferentes fontes de dados.",
     "tagline_es": "OpenClaude, una interfaz de inteligencia artificial flexible que puede ejecutarse en cualquier tipo de hardware y utilizar diferentes fuentes de datos.",
-    "tagline_de": "OpenClaude ist eine flexible KI-Schnittstelle, die auf jeder Art von Hardware läuft und verschiedene Datenquellen nutzen kann."
+    "tagline_de": "OpenClaude ist eine flexible KI-Schnittstelle, die auf jeder Art von Hardware läuft und verschiedene Datenquellen nutzen kann.",
+    "last_seen": "2026-09-02"
   },
   {
     "slug": "academic-research-skills",
@@ -28002,7 +28038,8 @@
     "tagline_fr": "Academic Research Skills, développé pour Claude Code, est conçu pour les processus académiques tels que la recherche, la rédaction, la révision, l'édition et plus encore…",
     "tagline_pt": "Academic Research Skills, desenvolvida para o Claude Code e focada em processos acadêmicos como pesquisa, escrita, revisão, edição e mais…",
     "tagline_es": "Academic Research Skills, desarrollado para Claude Code y que abarca procesos académicos de investigación, escritura, revisión, edición y más...",
-    "tagline_de": "Academic Research Skills, entwickelt für Claude Code, unterstützt akademische Prozesse wie Recherche, Schreiben, Überprüfung, Bearbeitung und mehr…"
+    "tagline_de": "Academic Research Skills, entwickelt für Claude Code, unterstützt akademische Prozesse wie Recherche, Schreiben, Überprüfung, Bearbeitung und mehr…",
+    "last_seen": "2026-09-02"
   },
   {
     "slug": "reclip",
@@ -28025,6 +28062,7 @@
     "tagline_fr": "Reclip, développé par Averygan, est un outil léger permettant de télécharger des vidéos depuis presque tous les sites web, et…",
     "tagline_pt": "Reclip, desenvolvida por Averygan, é uma ferramenta leve e própria para baixar vídeos de quase todos os sites da internet…",
     "tagline_es": "Reclip, desarrollado por Averygan, es una herramienta ligera y propia para descargar vídeos de casi cualquier sitio web...",
-    "tagline_de": "Reclip, entwickelt von Averygan, ist ein leichtgewichtiges und eigenständiges Tool zum Herunterladen von Videos von fast allen Websites."
+    "tagline_de": "Reclip, entwickelt von Averygan, ist ein leichtgewichtiges und eigenständiges Tool zum Herunterladen von Videos von fast allen Websites.",
+    "last_seen": "2026-09-02"
   }
 ]
