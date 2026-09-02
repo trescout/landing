@@ -1,0 +1,566 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-02",
+  "capturedAt": "2026-09-02T08:25:37.978Z",
+  "editorial": "Bu rapor, son 30 gündeki normal raporlarda yer alan kayıtları tekrar etmeden bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Gitlawb/openclaude",
+          "url": "https://github.com/Gitlawb/openclaude",
+          "summary": "OpenClaude, her türlü donanımda çalışabilen ve farklı veri kaynaklarını kullanabilen esnek bir yapay zekâ arayüzü. TypeScript diliyle geliştirilen bu açık kaynaklı proje, kullanıcıların kendi altyapıları üzerinde özelleştirilmiş yapay zekâ modelleri çalıştırmasına olanak tanıyor.",
+          "meta": "TypeScript · ★ 31.625 · +80 bugün",
+          "snapshot": {
+            "sourceId": "Gitlawb/openclaude",
+            "capturedAt": "2026-09-02T08:25:39.095Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 31625,
+              "engagementCount": 80,
+              "rank": 1,
+              "extra": {
+                "starsToday": 80
+              }
+            }
+          }
+        },
+        {
+          "title": "Imbad0202/academic-research-skills",
+          "url": "https://github.com/Imbad0202/academic-research-skills",
+          "summary": "Academic Research Skills, Claude Code için geliştirilen ve akademik süreçleri araştırma, yazma, inceleme, düzenleme ve son haline getirme aşamalarıyla otomatize eden bir Python kütüphanesi. Bu araç, yapay zekâ destekli kod yazma aracı Claude Code üzerinde akademik iş akışlarını standartlaştırmayı hedefliyor.",
+          "meta": "Python · ★ 45.230 · +193 bugün",
+          "snapshot": {
+            "sourceId": "Imbad0202/academic-research-skills",
+            "capturedAt": "2026-09-02T08:25:39.095Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 45230,
+              "engagementCount": 193,
+              "rank": 2,
+              "extra": {
+                "starsToday": 193
+              }
+            }
+          }
+        },
+        {
+          "title": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "summary": "Awesome-design-md, popüler marka tasarım sistemlerine ait tasarım dokümanlarını (DESIGN.md) bir araya getiren bir kaynak. Yazılım geliştirme ajanlarının (coding agents) bu dokümanları kullanarak projelerle uyumlu arayüzler oluşturmasını sağlıyor.",
+          "meta": "★ 113.247 · +323 bugün",
+          "snapshot": {
+            "sourceId": "VoltAgent/awesome-design-md",
+            "capturedAt": "2026-09-02T08:25:39.095Z",
+            "metadata": {
+              "popularity": 113247,
+              "engagementCount": 323,
+              "rank": 11,
+              "extra": {
+                "starsToday": 323
+              }
+            }
+          },
+          "returning": true
+        },
+        {
+          "title": "averygan/reclip",
+          "url": "https://github.com/averygan/reclip",
+          "summary": "Averygan tarafından geliştirilen Reclip, neredeyse tüm internet sitelerinden video indirmeye yarayan hafif ve kendi sunucunuzda barındırabileceğiniz bir araçtır. Sade bir web arayüzü üzerinden medya dosyalarını yerel cihazınıza kaydetmenizi sağlar.",
+          "meta": "HTML · ★ 7.951 · +56 bugün",
+          "snapshot": {
+            "sourceId": "averygan/reclip",
+            "capturedAt": "2026-09-02T08:25:39.095Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 7951,
+              "engagementCount": 56,
+              "rank": 12,
+              "extra": {
+                "starsToday": 56
+              }
+            }
+          }
+        },
+        {
+          "title": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "summary": "Crawl4AI, büyük dil modellerinin (large language models) doğrudan işleyebileceği formatta veri toplayan açık kaynaklı bir web tarayıcısı ve veri kazıyıcıdır. Python tabanlı bu araç, karmaşık web sayfalarını yapay zekâ uygulamaları için temiz ve yapılandırılmış metinlere dönüştürür.",
+          "meta": "Python · ★ 81.006 · +145 bugün",
+          "snapshot": {
+            "sourceId": "unclecode/crawl4ai",
+            "capturedAt": "2026-09-02T08:25:39.095Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 81006,
+              "engagementCount": 145,
+              "rank": 14,
+              "extra": {
+                "starsToday": 145
+              }
+            }
+          },
+          "returning": true
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+          "summary": "Anthropic tarafından yayınlanan Claude Fable 5.1 ve Claude Mythos 5.1, büyük dil modelleri (large language models) serisine eklenen yeni sürümlerdir. Bu güncellemeler, modellerin karmaşık mantıksal çıkarım ve yaratıcı yazım yeteneklerini geliştirmeye odaklanıyor.",
+          "meta": "1.197 oy · 1.118 yorum",
+          "snapshot": {
+            "sourceId": "49525378",
+            "capturedAt": "2026-09-02T08:25:38.232Z",
+            "metadata": {
+              "popularity": 1197,
+              "engagementCount": 1118,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49525378",
+                  "popularity": 1197,
+                  "engagementCount": 1118
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "denysvitali",
+                "createdAt": "2026-09-01T17:53:53Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49525378"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49525378",
+              "popularity": 1197,
+              "engagementCount": 1118
+            }
+          ]
+        },
+        {
+          "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+          "url": "https://danluu.com/zitron/",
+          "summary": "Dan Luu tarafından kaleme alınan analiz, teknoloji yazarı Ed Zitron'un üretken yapay zekâ (generative AI) hakkındaki geçmiş öngörülerini verilerle inceliyor. Çalışma, popüler teknoloji yorumcularının yapay zekâ sektörüne dair tahminlerinin isabet oranını somut örnekler üzerinden değerlendiriyor.",
+          "meta": "661 oy · 727 yorum",
+          "snapshot": {
+            "sourceId": "49526069",
+            "capturedAt": "2026-09-02T08:25:38.232Z",
+            "metadata": {
+              "popularity": 661,
+              "engagementCount": 727,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49526069",
+                  "popularity": 661,
+                  "engagementCount": 727
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "jatins",
+                "createdAt": "2026-09-01T18:35:15Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49526069"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49526069",
+              "popularity": 661,
+              "engagementCount": 727
+            }
+          ]
+        },
+        {
+          "title": "Introducing Ad Blocker for Firefox on iOS",
+          "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
+          "summary": "Mozilla, iOS için geliştirdiği Firefox tarayıcısına web sayfalarındaki reklamları ve takipçileri engelleyen içerik engelleme (ad blocker) özelliğini ekledi. Bu güncelleme, kullanıcıların mobil internet deneyimini hızlandırmayı ve gizliliklerini korumayı hedefliyor.",
+          "meta": "435 oy · 142 yorum",
+          "snapshot": {
+            "sourceId": "49521973",
+            "capturedAt": "2026-09-02T08:25:38.232Z",
+            "metadata": {
+              "popularity": 435,
+              "engagementCount": 142,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49521973",
+                  "popularity": 435,
+                  "engagementCount": 142
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "HieronymusBosch",
+                "createdAt": "2026-09-01T13:46:49Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49521973"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49521973",
+              "popularity": 435,
+              "engagementCount": 142
+            }
+          ]
+        },
+        {
+          "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+          "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+          "summary": "OpenAI tarafından sunulan ChatGPT ve Codex uygulamalarının, ofis yazılım paketi LibreOffice'in tam bir kopyasını içerdiği tespit edildi. Bu durum, masaüstü uygulamalarının boyutunu artıran gereksiz bileşenlerin paketlenmesi konusundaki tartışmaları beraberinde getiriyor.",
+          "meta": "381 oy · 176 yorum",
+          "snapshot": {
+            "sourceId": "49527396",
+            "capturedAt": "2026-09-02T08:25:38.232Z",
+            "metadata": {
+              "popularity": 381,
+              "engagementCount": 176,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49527396",
+                  "popularity": 381,
+                  "engagementCount": 176
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "timpera",
+                "createdAt": "2026-09-01T20:07:57Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49527396"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49527396",
+              "popularity": 381,
+              "engagementCount": 176
+            }
+          ]
+        },
+        {
+          "title": "Ambient CSS v3 – Blender meets CSS",
+          "url": "https://ambientcss.vercel.app/",
+          "summary": "Ambient CSS v3, üç boyutlu modelleme yazılımı Blender'ın arayüzünü ve çalışma mantığını tarayıcı tabanlı stil dili CSS ile birleştiriyor. Geliştiricilerin CSS kullanarak karmaşık görsel efektler ve üç boyutlu sahneler oluşturmasına olanak tanıyan bir tasarım aracıdır.",
+          "meta": "256 oy · 79 yorum",
+          "snapshot": {
+            "sourceId": "49523387",
+            "capturedAt": "2026-09-02T08:25:38.232Z",
+            "metadata": {
+              "popularity": 256,
+              "engagementCount": 79,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49523387",
+                  "popularity": 256,
+                  "engagementCount": 79
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "kikkupico",
+                "createdAt": "2026-09-01T15:35:11Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49523387"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49523387",
+              "popularity": 256,
+              "engagementCount": 79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Recursive Criticality of AI Self-Improvement",
+          "url": "https://huggingface.co/papers/2609.00137",
+          "summary": "Yapay zekânın kendi gelişim süreçlerinde kullanılması, sistemlerin kendi yeteneklerini yinelemeli olarak artırdığı bir döngü oluşturuyor. Araştırmacılar, bu geri bildirim döngüsünün hızını ve sürdürülebilirliğini belirleyen yinelemeli üreme sayısı (recursive reproduction number) adlı bir metrik üzerinden yapay zekâ gelişiminin sınırlarını analiz ediyor.",
+          "meta": "0 beğeni · 5 yorum",
+          "snapshot": {
+            "sourceId": "2609.00137",
+            "capturedAt": "2026-09-02T08:25:38.054Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 5,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.00137",
+                "publishedAt": "2026-08-31T00:00:00.000Z",
+                "githubRepo": "https://github.com/burtsev/recursive-criticality-ai",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Agents in the Large: Perception-Centered Architecture for Persistent Agents",
+          "url": "https://huggingface.co/papers/2608.30478",
+          "summary": "Bilişsel dil ajanları, kullanıcıların ihtiyaçlarına göre uzun süreli ve sürekli destek sağlayabilen algı merkezli bir mimariye geçiş yapıyor. Bu yeni yaklaşım, ajanların sınırlı görevleri çözmek yerine değişen bağlamlara uyum sağlayarak etkileşimli ortamlarda kalıcı bir şekilde faaliyet göstermesini hedefliyor.",
+          "meta": "3 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2608.30478",
+            "capturedAt": "2026-09-02T08:25:38.054Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.30478",
+                "publishedAt": "2026-08-31T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "DiagEvo: Diagnosis-Guided Self-Evolution via Hierarchical Error Memory",
+          "url": "https://huggingface.co/papers/2609.00768",
+          "summary": "DiagEvo, dil modellerinin kendi kendine gelişim sürecinde karşılaşılan performans duraksamalarını aşmak için hiyerarşik hata belleği kullanan bir yöntemdir. Modelin hatalarını teşhis ederek sonraki eğitim aşamalarını bu zayıf noktalara odaklayan sistem, dış kaynaklara ihtiyaç duymadan öğrenme sürecini yönlendirir.",
+          "meta": "9 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.00768",
+            "capturedAt": "2026-09-02T08:25:38.054Z",
+            "metadata": {
+              "popularity": 9,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.00768",
+                "publishedAt": "2026-09-01T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Safin-1: Safety from Within through Memory-Native State Evolution",
+          "url": "https://huggingface.co/papers/2609.00092",
+          "summary": "Safin-1, yapay zekâ modellerinin güvenlik özelliklerini harici denetimler yerine kendi içsel hesaplama süreçleriyle yönetmesini sağlayan bir yöntem sunuyor. Bu yaklaşım, uzun süreli karmaşık görevlerde modelin güvenliği bir davranış kısıtlaması olarak değil, doğal bir yetenek olarak içselleştirmesini hedefliyor.",
+          "meta": "17 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.00092",
+            "capturedAt": "2026-09-02T08:25:38.054Z",
+            "metadata": {
+              "popularity": 17,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.00092",
+                "publishedAt": "2026-08-31T00:00:00.000Z",
+                "githubRepo": "https://github.com/AI45Lab/Safin-1",
+                "githubStars": 1
+              }
+            }
+          }
+        },
+        {
+          "title": "SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers",
+          "url": "https://huggingface.co/papers/2609.01343",
+          "summary": "SMELT, paylaşımlı katman bloklarını yineleyerek model derinliğini artıran döngüsel dönüştürücü (looped transformer) mimarilerini, uzman karışımı (mixture-of-experts) modelleriyle birleştiriyor. Hesaplama maliyetlerini ve parametre sayılarını eşitleyerek orta katmanları iki kez yineleyen bu yöntem, model verimliliğini optimize etmeyi hedefliyor.",
+          "meta": "54 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.01343",
+            "capturedAt": "2026-09-02T08:25:38.054Z",
+            "metadata": {
+              "popularity": 54,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.01343",
+                "publishedAt": "2026-09-01T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Normalized Fascism in Open Source: $12 Million Given to DHH",
+          "url": "https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/",
+          "summary": "Açık kaynak dünyasında, Ruby on Rails çerçevesinin (framework) yaratıcısı DHH'ye sağlanan 12 milyon dolarlık finansman desteği, topluluk içinde etik ve ideolojik tartışmaları tetikliyor. Bu durum, açık kaynak projelerinin finansman modelleri ile proje yöneticilerinin kişisel görüşleri arasındaki ilişkiyi sorgulatan bir tartışma ortamı yaratıyor.",
+          "meta": "35 oy · 3 yorum",
+          "snapshot": {
+            "sourceId": "ipy9xw",
+            "capturedAt": "2026-09-02T08:25:38.140Z",
+            "metadata": {
+              "popularity": 35,
+              "engagementCount": 3,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/ipy9xw/normalized_fascism_open_source_12",
+                  "popularity": 35,
+                  "engagementCount": 3
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "culture"
+                ],
+                "createdAt": "2026-09-02T01:31:38.073-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ipy9xw/normalized_fascism_open_source_12",
+              "popularity": 35,
+              "engagementCount": 3
+            }
+          ]
+        },
+        {
+          "title": "Fine, I’ll build my own text editor",
+          "url": "https://dbushell.com/2026/09/01/text-editor/",
+          "summary": "Yazılım geliştiriciler, mevcut metin düzenleyicilerin karmaşıklığından kaçınmak için kendi özel araçlarını geliştirme eğilimi gösteriyor. Bu yaklaşım, kullanıcıların ihtiyaçlarına tam uyum sağlayan minimalist ve performans odaklı yazılımlar oluşturmalarına olanak tanıyor.",
+          "meta": "75 oy · 22 yorum",
+          "snapshot": {
+            "sourceId": "1malyo",
+            "capturedAt": "2026-09-02T08:25:38.140Z",
+            "metadata": {
+              "popularity": 75,
+              "engagementCount": 22,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/1malyo/fine_i_ll_build_my_own_text_editor",
+                  "popularity": 75,
+                  "engagementCount": 22
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "editors",
+                  "web"
+                ],
+                "createdAt": "2026-09-01T06:18:22.975-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/1malyo/fine_i_ll_build_my_own_text_editor",
+              "popularity": 75,
+              "engagementCount": 22
+            }
+          ]
+        },
+        {
+          "title": "Is Minifying CSS Necessary? (2023)",
+          "url": "https://shivjm.blog/is-minifying-css-necessary/",
+          "summary": "Modern ağ tarayıcılarının ve sunucu taraflı sıkıştırma yöntemlerinin gelişimi, CSS dosyalarını küçültme (minification) işleminin performans üzerindeki etkisini tartışmaya açıyor. Güncel yaklaşımlar, dosya boyutunu azaltmanın yanı sıra önbellekleme ve ağ protokollerinin verimliliğine odaklanıyor.",
+          "meta": "45 oy · 15 yorum",
+          "snapshot": {
+            "sourceId": "gbucyj",
+            "capturedAt": "2026-09-02T08:25:38.140Z",
+            "metadata": {
+              "popularity": 45,
+              "engagementCount": 15,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/gbucyj/is_minifying_css_necessary_2023",
+                  "popularity": 45,
+                  "engagementCount": 15
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "css",
+                  "web"
+                ],
+                "createdAt": "2026-09-01T10:42:44.571-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/gbucyj/is_minifying_css_necessary_2023",
+              "popularity": 45,
+              "engagementCount": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "large language model",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modeli."
+    },
+    {
+      "term": "coding agents",
+      "explanation": "Kullanıcıdan aldığı talimatlarla yazılım kodu yazan, hata ayıklayan ve program geliştirebilen otonom sistemler."
+    },
+    {
+      "term": "skills",
+      "explanation": "Yapay zekânın belirli bir görevi yerine getirmek için kullandığı özel yetenekler veya tanımlanmış komut setleri."
+    },
+    {
+      "term": "DESIGN.md",
+      "explanation": "Bir yazılım projesinin nasıl tasarlandığını ve mimarisinin nasıl çalıştığını anlatan bilgilendirme dosyası."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Mevcut verileri kullanarak yeni metin, görsel veya ses gibi içerikler üretebilen yapay zekâ teknolojisi."
+    },
+    {
+      "term": "ad blocker",
+      "explanation": "İnternet sitelerindeki istenmeyen reklamların yüklenmesini engelleyen tarayıcı eklentisi."
+    },
+    {
+      "term": "recursive reproduction number",
+      "explanation": "Bir yapay zekâ sisteminin kendi kendini kopyalayıp geliştirmesi sırasında oluşan büyüme hızı oranı."
+    },
+    {
+      "term": "looped transformer",
+      "explanation": "Aynı işlem katmanlarını defalarca kullanarak daha az bellek harcayan bir yapay zekâ mimarisi."
+    },
+    {
+      "term": "mixture-of-experts",
+      "explanation": "Karmaşık görevleri çözmek için her biri farklı konuda uzmanlaşmış küçük alt modelleri bir arada kullanan sistem."
+    }
+  ]
+}

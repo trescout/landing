@@ -1,0 +1,920 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-02",
+  "capturedAt": "2026-09-02T08:25:37.978Z",
+  "editorial": "La agenda tecnológica de hoy se está configurando en torno a modelos de alto rendimiento (flash models) y las estructuras arquitectónicas persistentes de los agentes autónomos (autonomous agents). Los debates financieros en el mundo del código abierto y las predicciones de los críticos de la inteligencia artificial plantean interrogantes importantes sobre la sostenibilidad del ritmo actual del sector.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Gitlawb/openclaude",
+          "url": "https://github.com/Gitlawb/openclaude",
+          "summary": "OpenClaude es una interfaz de inteligencia artificial flexible que puede ejecutarse en cualquier tipo de hardware y utilizar diferentes fuentes de datos. Este proyecto de código abierto, desarrollado con el lenguaje TypeScript, permite a los usuarios ejecutar modelos de inteligencia artificial personalizados en su propia infraestructura.",
+          "meta": "TypeScript · ★ 31.625 · +80 hoy",
+          "snapshot": {
+            "sourceId": "Gitlawb/openclaude",
+            "capturedAt": "2026-09-02T08:25:39.095Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 31625,
+              "engagementCount": 80,
+              "rank": 1,
+              "extra": {
+                "starsToday": 80
+              }
+            }
+          }
+        },
+        {
+          "title": "Imbad0202/academic-research-skills",
+          "url": "https://github.com/Imbad0202/academic-research-skills",
+          "summary": "Academic Research Skills es una biblioteca de Python desarrollada para Claude Code que automatiza los procesos académicos mediante las etapas de investigación, redacción, revisión, edición y finalización. Esta herramienta tiene como objetivo estandarizar los flujos de trabajo académicos en Claude Code, la herramienta de programación asistida por inteligencia artificial.",
+          "meta": "Python · ★ 45.230 · +193 hoy",
+          "snapshot": {
+            "sourceId": "Imbad0202/academic-research-skills",
+            "capturedAt": "2026-09-02T08:25:39.095Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 45230,
+              "engagementCount": 193,
+              "rank": 2,
+              "extra": {
+                "starsToday": 193
+              }
+            }
+          }
+        },
+        {
+          "title": "THU-MAIC/OpenMAIC",
+          "url": "https://github.com/THU-MAIC/OpenMAIC",
+          "summary": "OpenMAIC es una plataforma de código abierto que ofrece un entorno de aprendizaje inmersivo e interactivo para agentes de inteligencia artificial. Este proyecto basado en TypeScript permite a los usuarios experimentar con sistemas multi-agente (multi-agent) con un solo clic.",
+          "meta": "TypeScript · ★ 29.994 · +3.128 hoy",
+          "snapshot": {
+            "sourceId": "THU-MAIC/OpenMAIC",
+            "capturedAt": "2026-09-02T08:25:39.095Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 29994,
+              "engagementCount": 3128,
+              "rank": 3,
+              "extra": {
+                "starsToday": 3128
+              }
+            }
+          }
+        },
+        {
+          "title": "iv-org/invidious",
+          "url": "https://github.com/iv-org/invidious",
+          "summary": "Invidious es un software de código abierto que ofrece una interfaz alternativa a la plataforma YouTube. Proporciona a los usuarios una experiencia de visualización sin anuncios y que bloquea el seguimiento de datos.",
+          "meta": "Crystal · ★ 23.879 · +577 hoy",
+          "snapshot": {
+            "sourceId": "iv-org/invidious",
+            "capturedAt": "2026-09-02T08:25:39.095Z",
+            "metadata": {
+              "language": "Crystal",
+              "popularity": 23879,
+              "engagementCount": 577,
+              "rank": 4,
+              "extra": {
+                "starsToday": 577
+              }
+            }
+          }
+        },
+        {
+          "title": "jingyaogong/minimind",
+          "url": "https://github.com/jingyaogong/minimind",
+          "summary": "Minimind es un proyecto de Python optimizado para entrenar desde cero grandes modelos de lenguaje (large language model) de 64 millones de parámetros. Al reducir los requisitos de hardware, permite realizar el entrenamiento del modelo en un tiempo tan corto como dos horas.",
+          "meta": "Python · ★ 57.457 · +1.005 hoy",
+          "snapshot": {
+            "sourceId": "jingyaogong/minimind",
+            "capturedAt": "2026-09-02T08:25:39.095Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 57457,
+              "engagementCount": 1005,
+              "rank": 5,
+              "extra": {
+                "starsToday": 1005
+              }
+            }
+          }
+        },
+        {
+          "title": "3b1b/manim",
+          "url": "https://github.com/3b1b/manim",
+          "summary": "Manim, desarrollado para visualizar conceptos matemáticos, es un motor de animación basado en Python. Ofrece una solución programática para los creadores de contenido que desean convertir teorías complejas en videos explicativos.",
+          "meta": "Python · ★ 92.736 · +86 hoy",
+          "snapshot": {
+            "sourceId": "3b1b/manim",
+            "capturedAt": "2026-09-02T08:25:39.095Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 92736,
+              "engagementCount": 86,
+              "rank": 6,
+              "extra": {
+                "starsToday": 86
+              }
+            }
+          }
+        },
+        {
+          "title": "firecrawl/pdf-inspector",
+          "url": "https://github.com/firecrawl/pdf-inspector",
+          "summary": "PDF Inspector, desarrollado por Firecrawl, es una biblioteca rápida de Rust utilizada para examinar, clasificar y extraer texto de archivos PDF. Al distinguir si el archivo está escaneado o basado en texto, permite tomar decisiones de enrutamiento inteligente en los procesos de procesamiento de datos.",
+          "meta": "Rust · ★ 18.150 · +541 hoy",
+          "snapshot": {
+            "sourceId": "firecrawl/pdf-inspector",
+            "capturedAt": "2026-09-02T08:25:39.095Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 18150,
+              "engagementCount": 541,
+              "rank": 7,
+              "extra": {
+                "starsToday": 541
+              }
+            }
+          }
+        },
+        {
+          "title": "browser-use/video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "summary": "Browser-use/video-use es una biblioteca de Python que permite a los agentes de codificación (coding agents) automatizar las operaciones de edición de video. Permite a los usuarios gestionar los procesos de montaje y edición de videos a través de agentes basados en software.",
+          "meta": "Python · ★ 23.242 · +472 hoy",
+          "snapshot": {
+            "sourceId": "browser-use/video-use",
+            "capturedAt": "2026-09-02T08:25:39.095Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 23242,
+              "engagementCount": 472,
+              "rank": 8,
+              "extra": {
+                "starsToday": 472
+              }
+            }
+          }
+        },
+        {
+          "title": "K-Dense-AI/scientific-agent-skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "summary": "Scientific-agent-skills es una biblioteca que contiene 165 habilidades verificadas (skills) y más de 100 bases de datos que especializan a los agentes de inteligencia artificial en procesos de investigación científica. Esta herramienta trabaja integrada con plataformas como el editor de código Cursor o el asistente de inteligencia artificial Claude Code, estandarizando tareas complejas en los campos de la biología, la química y la medicina.",
+          "meta": "Python · ★ 41.862 · +912 hoy",
+          "snapshot": {
+            "sourceId": "K-Dense-AI/scientific-agent-skills",
+            "capturedAt": "2026-09-02T08:25:39.095Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 41862,
+              "engagementCount": 912,
+              "rank": 9,
+              "extra": {
+                "starsToday": 912
+              }
+            }
+          }
+        },
+        {
+          "title": "handsomestWei/patent-disclosure-skill",
+          "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+          "summary": "Patent disclosure skill es una herramienta de Python que automatiza la minería de ideas en solicitudes de patentes, la preparación de documentos técnicos (notificación de invención) y la respuesta a los procesos de revisión. Este software, que tiene como objetivo simplificar los procesos de patentes, también ofrece funciones para el seguimiento de políticas actuales y para hacer comprensibles los textos de las patentes.",
+          "meta": "Python · ★ 6.952 · +501 hoy",
+          "snapshot": {
+            "sourceId": "handsomestWei/patent-disclosure-skill",
+            "capturedAt": "2026-09-02T08:25:39.095Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 6952,
+              "engagementCount": 501,
+              "rank": 10,
+              "extra": {
+                "starsToday": 501
+              }
+            }
+          }
+        },
+        {
+          "title": "VoltAgent/awesome-design-md",
+          "url": "https://github.com/VoltAgent/awesome-design-md",
+          "summary": "Awesome-design-md es un recurso que reúne los documentos de diseño (DESIGN.md) de sistemas de diseño de marcas populares. Permite que los agentes de desarrollo de software (coding agents) utilicen estos documentos para crear interfaces compatibles con los proyectos.",
+          "meta": "★ 113.247 · +323 hoy",
+          "snapshot": {
+            "sourceId": "VoltAgent/awesome-design-md",
+            "capturedAt": "2026-09-02T08:25:39.095Z",
+            "metadata": {
+              "popularity": 113247,
+              "engagementCount": 323,
+              "rank": 11,
+              "extra": {
+                "starsToday": 323
+              }
+            }
+          }
+        },
+        {
+          "title": "averygan/reclip",
+          "url": "https://github.com/averygan/reclip",
+          "summary": "Reclip, desarrollado por Averygan, es una herramienta ligera que puede alojar en su propio servidor y que sirve para descargar vídeos de casi todos los sitios web. Permite guardar archivos multimedia en su dispositivo local a través de una interfaz web sencilla.",
+          "meta": "HTML · ★ 7.951 · +56 hoy",
+          "snapshot": {
+            "sourceId": "averygan/reclip",
+            "capturedAt": "2026-09-02T08:25:39.095Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 7951,
+              "engagementCount": 56,
+              "rank": 12,
+              "extra": {
+                "starsToday": 56
+              }
+            }
+          }
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC es un marco que proporciona optimización del rendimiento para asistentes de codificación de inteligencia artificial (como Claude Code, Cursor). El sistema tiene como objetivo hacer que los procesos de escritura de código sean más eficientes añadiendo capacidades, gestión de memoria y capas de seguridad.",
+          "meta": "JavaScript · ★ 245.917 · +623 hoy",
+          "snapshot": {
+            "sourceId": "affaan-m/ECC",
+            "capturedAt": "2026-09-02T08:25:39.095Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 245917,
+              "engagementCount": 623,
+              "rank": 13,
+              "extra": {
+                "starsToday": 623
+              }
+            }
+          }
+        },
+        {
+          "title": "unclecode/crawl4ai",
+          "url": "https://github.com/unclecode/crawl4ai",
+          "summary": "Crawl4AI es un rastreador web y extractor de datos de código abierto que recopila datos en un formato que los modelos de lenguaje grandes (large language models) pueden procesar directamente. Esta herramienta basada en Python convierte páginas web complejas en textos limpios y estructurados para aplicaciones de inteligencia artificial.",
+          "meta": "Python · ★ 81.006 · +145 hoy",
+          "snapshot": {
+            "sourceId": "unclecode/crawl4ai",
+            "capturedAt": "2026-09-02T08:25:39.095Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 81006,
+              "engagementCount": 145,
+              "rank": 14,
+              "extra": {
+                "starsToday": 145
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+          "summary": "Claude Fable 5.1 y Claude Mythos 5.1, publicados por Anthropic, son las nuevas versiones añadidas a la serie de modelos de lenguaje grandes (large language models). Estas actualizaciones se centran en mejorar las capacidades de razonamiento lógico complejo y escritura creativa de los modelos.",
+          "meta": "1.197 puntos · 1.118 comentarios",
+          "snapshot": {
+            "sourceId": "49525378",
+            "capturedAt": "2026-09-02T08:25:38.232Z",
+            "metadata": {
+              "popularity": 1197,
+              "engagementCount": 1118,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49525378",
+                  "popularity": 1197,
+                  "engagementCount": 1118
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "denysvitali",
+                "createdAt": "2026-09-01T17:53:53Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49525378"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49525378",
+              "popularity": 1197,
+              "engagementCount": 1118
+            }
+          ]
+        },
+        {
+          "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+          "url": "https://danluu.com/zitron/",
+          "summary": "El análisis escrito por Dan Luu examina con datos las predicciones pasadas del escritor tecnológico Ed Zitron sobre la inteligencia artificial generativa (generative AI). El estudio evalúa la tasa de acierto de las predicciones de los comentaristas tecnológicos populares sobre el sector de la IA a través de ejemplos concretos.",
+          "meta": "661 puntos · 727 comentarios",
+          "snapshot": {
+            "sourceId": "49526069",
+            "capturedAt": "2026-09-02T08:25:38.232Z",
+            "metadata": {
+              "popularity": 661,
+              "engagementCount": 727,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49526069",
+                  "popularity": 661,
+                  "engagementCount": 727
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "jatins",
+                "createdAt": "2026-09-01T18:35:15Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49526069"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49526069",
+              "popularity": 661,
+              "engagementCount": 727
+            }
+          ]
+        },
+        {
+          "title": "Introducing Ad Blocker for Firefox on iOS",
+          "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
+          "summary": "Mozilla ha añadido una función de bloqueo de contenido (ad blocker) que bloquea anuncios y rastreadores en páginas web a su navegador Firefox para iOS. Esta actualización tiene como objetivo acelerar la experiencia de internet móvil de los usuarios y proteger su privacidad.",
+          "meta": "435 puntos · 142 comentarios",
+          "snapshot": {
+            "sourceId": "49521973",
+            "capturedAt": "2026-09-02T08:25:38.232Z",
+            "metadata": {
+              "popularity": 435,
+              "engagementCount": 142,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49521973",
+                  "popularity": 435,
+                  "engagementCount": 142
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "HieronymusBosch",
+                "createdAt": "2026-09-01T13:46:49Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49521973"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49521973",
+              "popularity": 435,
+              "engagementCount": 142
+            }
+          ]
+        },
+        {
+          "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+          "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+          "summary": "Se ha determinado que las aplicaciones ChatGPT y Codex ofrecidas por OpenAI contienen una copia completa de la suite de software de oficina LibreOffice. Esta situación trae consigo debates sobre el empaquetado de componentes innecesarios que aumentan el tamaño de las aplicaciones de escritorio.",
+          "meta": "381 puntos · 176 comentarios",
+          "snapshot": {
+            "sourceId": "49527396",
+            "capturedAt": "2026-09-02T08:25:38.232Z",
+            "metadata": {
+              "popularity": 381,
+              "engagementCount": 176,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49527396",
+                  "popularity": 381,
+                  "engagementCount": 176
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "timpera",
+                "createdAt": "2026-09-01T20:07:57Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49527396"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49527396",
+              "popularity": 381,
+              "engagementCount": 176
+            }
+          ]
+        },
+        {
+          "title": "Ambient CSS v3 – Blender meets CSS",
+          "url": "https://ambientcss.vercel.app/",
+          "summary": "Ambient CSS v3 combina la interfaz y la lógica de trabajo del software de modelado 3D Blender con el lenguaje de estilo basado en navegador CSS. Es una herramienta de diseño que permite a los desarrolladores crear efectos visuales complejos y escenas en 3D utilizando CSS.",
+          "meta": "256 puntos · 79 comentarios",
+          "snapshot": {
+            "sourceId": "49523387",
+            "capturedAt": "2026-09-02T08:25:38.232Z",
+            "metadata": {
+              "popularity": 256,
+              "engagementCount": 79,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49523387",
+                  "popularity": 256,
+                  "engagementCount": 79
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "kikkupico",
+                "createdAt": "2026-09-01T15:35:11Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49523387"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49523387",
+              "popularity": 256,
+              "engagementCount": 79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Qwen/Qwen3.8-Flash-Next",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+          "summary": "Qwen3.8-Flash-Next, desarrollado por Alibaba, es un modelo de inteligencia artificial multimodal (multimodal AI) que procesa datos visuales y de texto para producir resultados de texto. Este modelo, que funciona con baja latencia, ofrece la capacidad de analizar y dar sentido rápidamente a contenidos visuales complejos.",
+          "meta": "♥ 4.680 · 207.941 descargas",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-Flash-Next",
+            "capturedAt": "2026-09-02T08:25:38.045Z",
+            "metadata": {
+              "popularity": 4680,
+              "engagementCount": 207941,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 2232,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen4_exp",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:other",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "zai-org/GLM-5.3-Flash",
+          "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+          "summary": "GLM-5.3-Flash, desarrollado por Zai-org, es un modelo de inteligencia artificial multimodal (multimodal model) que procesa datos visuales y de texto para producir resultados de texto. Este modelo, que funciona con baja latencia, se utiliza en tareas que combinan procesos de análisis de imágenes y generación de texto.",
+          "meta": "♥ 1.903 · 441.348 descargas",
+          "snapshot": {
+            "sourceId": "zai-org/GLM-5.3-Flash",
+            "capturedAt": "2026-09-02T08:25:38.045Z",
+            "metadata": {
+              "popularity": 1903,
+              "engagementCount": 441348,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1780,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "glm5_next",
+                  "image-text-to-text",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "arxiv:2602.15763",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "zai-org/GLM-5.3",
+          "url": "https://huggingface.co/zai-org/GLM-5.3",
+          "summary": "GLM-5.3, desarrollado por Zai-org, es un modelo de inteligencia artificial centrado en la generación de texto (text generation). Este modelo, alojado en la plataforma HuggingFace, se utiliza para crear contenido en procesos de procesamiento de lenguaje natural.",
+          "meta": "♥ 1.478 · 94.403 descargas",
+          "snapshot": {
+            "sourceId": "zai-org/GLM-5.3",
+            "capturedAt": "2026-09-02T08:25:38.045Z",
+            "metadata": {
+              "popularity": 1478,
+              "engagementCount": 94403,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 1402,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "glm_moe_dsa",
+                  "text-generation",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "arxiv:2602.15763",
+                  "license:other",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
+          "url": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
+          "summary": "Qwen3.8-Flash-Next-GGUF, compartido por Unsloth, es un modelo de inteligencia artificial multimodal que puede procesar datos visuales y de texto. El modelo tiene como objetivo realizar inferencias rápidas en dispositivos locales gracias al formato de archivo comprimido (GGUF) que puede funcionar con bajos requisitos de hardware.",
+          "meta": "♥ 686 · 431.339 descargas",
+          "snapshot": {
+            "sourceId": "unsloth/Qwen3.8-Flash-Next-GGUF",
+            "capturedAt": "2026-09-02T08:25:38.045Z",
+            "metadata": {
+              "popularity": 686,
+              "engagementCount": 431339,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 667,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "gguf",
+                  "unsloth",
+                  "image-text-to-text",
+                  "base_model:Qwen/Qwen3.8-Flash-Next",
+                  "base_model:quantized:Qwen/Qwen3.8-Flash-Next",
+                  "license:other",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Qwen2.5-27B, desarrollado por Alibaba, es un modelo de inteligencia artificial multimodal capaz de procesar tanto entradas visuales como de texto. Gracias a su estructura de pesos abiertos, los usuarios pueden ejecutar tareas complejas de análisis visual y generación de texto en su propia infraestructura.",
+          "meta": "♥ 13.614 · 4.960.483 descargas",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-27B",
+            "capturedAt": "2026-09-02T08:25:38.045Z",
+            "metadata": {
+              "popularity": 13614,
+              "engagementCount": 4960483,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 616,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "deploy:azure",
+                  "deploy:sagemaker",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Recursive Criticality of AI Self-Improvement",
+          "url": "https://huggingface.co/papers/2609.00137",
+          "summary": "El uso de la inteligencia artificial en sus propios procesos de desarrollo crea un ciclo en el que los sistemas aumentan sus capacidades de forma iterativa. Los investigadores analizan los límites del desarrollo de la IA a través de una métrica llamada número de reproducción recursiva (recursive reproduction number), que determina la velocidad y la sostenibilidad de este ciclo de retroalimentación.",
+          "meta": "0 me gusta · 5 comentarios",
+          "snapshot": {
+            "sourceId": "2609.00137",
+            "capturedAt": "2026-09-02T08:25:38.054Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 5,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.00137",
+                "publishedAt": "2026-08-31T00:00:00.000Z",
+                "githubRepo": "https://github.com/burtsev/recursive-criticality-ai",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Agents in the Large: Perception-Centered Architecture for Persistent Agents",
+          "url": "https://huggingface.co/papers/2608.30478",
+          "summary": "Los agentes de lenguaje cognitivo están migrando hacia una arquitectura centrada en la percepción, capaz de proporcionar un apoyo continuo y a largo plazo según las necesidades de los usuarios. Este nuevo enfoque tiene como objetivo que los agentes operen de forma permanente en entornos interactivos adaptándose a contextos cambiantes, en lugar de resolver tareas limitadas.",
+          "meta": "3 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2608.30478",
+            "capturedAt": "2026-09-02T08:25:38.054Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.30478",
+                "publishedAt": "2026-08-31T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "DiagEvo: Diagnosis-Guided Self-Evolution via Hierarchical Error Memory",
+          "url": "https://huggingface.co/papers/2609.00768",
+          "summary": "DiagEvo es un método que utiliza una memoria de errores jerárquica para superar los estancamientos de rendimiento encontrados en el proceso de autodesarrollo de los modelos de lenguaje. El sistema, que diagnostica los errores del modelo y enfoca las etapas de entrenamiento posteriores en estos puntos débiles, dirige el proceso de aprendizaje sin necesidad de fuentes externas.",
+          "meta": "9 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2609.00768",
+            "capturedAt": "2026-09-02T08:25:38.054Z",
+            "metadata": {
+              "popularity": 9,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.00768",
+                "publishedAt": "2026-09-01T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Safin-1: Safety from Within through Memory-Native State Evolution",
+          "url": "https://huggingface.co/papers/2609.00092",
+          "summary": "Safin-1 presenta un método que permite a los modelos de inteligencia artificial gestionar sus características de seguridad mediante sus propios procesos de cálculo internos en lugar de auditorías externas. Este enfoque tiene como objetivo que el modelo internalice la seguridad como una capacidad natural, y no como una restricción de comportamiento, en tareas complejas de larga duración.",
+          "meta": "17 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2609.00092",
+            "capturedAt": "2026-09-02T08:25:38.054Z",
+            "metadata": {
+              "popularity": 17,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.00092",
+                "publishedAt": "2026-08-31T00:00:00.000Z",
+                "githubRepo": "https://github.com/AI45Lab/Safin-1",
+                "githubStars": 1
+              }
+            }
+          }
+        },
+        {
+          "title": "SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers",
+          "url": "https://huggingface.co/papers/2609.01343",
+          "summary": "SMELT combina arquitecturas de transformadores en bucle (looped transformer), que aumentan la profundidad del modelo repitiendo bloques de capas compartidas, con modelos de mezcla de expertos (mixture-of-experts). Este método, que repite las capas intermedias dos veces igualando los costes computacionales y el número de parámetros, tiene como objetivo optimizar la eficiencia del modelo.",
+          "meta": "54 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2609.01343",
+            "capturedAt": "2026-09-02T08:25:38.054Z",
+            "metadata": {
+              "popularity": 54,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.01343",
+                "publishedAt": "2026-09-01T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Normalized Fascism in Open Source: $12 Million Given to DHH",
+          "url": "https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/",
+          "summary": "En el mundo del código abierto, el apoyo financiero de 12 millones de dólares proporcionado a DHH, creador del marco (framework) Ruby on Rails, está provocando debates éticos e ideológicos dentro de la comunidad. Esta situación crea un entorno de discusión que cuestiona la relación entre los modelos de financiación de los proyectos de código abierto y las opiniones personales de los gestores de proyectos.",
+          "meta": "35 puntos · 3 comentarios",
+          "snapshot": {
+            "sourceId": "ipy9xw",
+            "capturedAt": "2026-09-02T08:25:38.140Z",
+            "metadata": {
+              "popularity": 35,
+              "engagementCount": 3,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/ipy9xw/normalized_fascism_open_source_12",
+                  "popularity": 35,
+                  "engagementCount": 3
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "culture"
+                ],
+                "createdAt": "2026-09-02T01:31:38.073-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ipy9xw/normalized_fascism_open_source_12",
+              "popularity": 35,
+              "engagementCount": 3
+            }
+          ]
+        },
+        {
+          "title": "Fine, I’ll build my own text editor",
+          "url": "https://dbushell.com/2026/09/01/text-editor/",
+          "summary": "Los desarrolladores de software tienden a crear sus propias herramientas personalizadas para evitar la complejidad de los editores de texto existentes. Este enfoque permite a los usuarios crear software minimalista y orientado al rendimiento que se adapta perfectamente a sus necesidades.",
+          "meta": "75 puntos · 22 comentarios",
+          "snapshot": {
+            "sourceId": "1malyo",
+            "capturedAt": "2026-09-02T08:25:38.140Z",
+            "metadata": {
+              "popularity": 75,
+              "engagementCount": 22,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/1malyo/fine_i_ll_build_my_own_text_editor",
+                  "popularity": 75,
+                  "engagementCount": 22
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "editors",
+                  "web"
+                ],
+                "createdAt": "2026-09-01T06:18:22.975-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/1malyo/fine_i_ll_build_my_own_text_editor",
+              "popularity": 75,
+              "engagementCount": 22
+            }
+          ]
+        },
+        {
+          "title": "Is Minifying CSS Necessary? (2023)",
+          "url": "https://shivjm.blog/is-minifying-css-necessary/",
+          "summary": "El desarrollo de los navegadores web modernos y los métodos de compresión del lado del servidor abre el debate sobre el impacto de la minificación de archivos CSS en el rendimiento. Los enfoques actuales se centran en la eficiencia del almacenamiento en caché y los protocolos de red, además de reducir el tamaño de los archivos.",
+          "meta": "45 puntos · 15 comentarios",
+          "snapshot": {
+            "sourceId": "gbucyj",
+            "capturedAt": "2026-09-02T08:25:38.140Z",
+            "metadata": {
+              "popularity": 45,
+              "engagementCount": 15,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/gbucyj/is_minifying_css_necessary_2023",
+                  "popularity": 45,
+                  "engagementCount": 15
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "css",
+                  "web"
+                ],
+                "createdAt": "2026-09-01T10:42:44.571-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/gbucyj/is_minifying_css_necessary_2023",
+              "popularity": 45,
+              "engagementCount": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "multi-agent",
+      "explanation": "Múltiples programas de inteligencia artificial que se comunican entre sí y colaboran hacia un objetivo común."
+    },
+    {
+      "term": "large language model",
+      "explanation": "Modelo de inteligencia artificial entrenado con datos masivos, capaz de entender el lenguaje humano y generar texto."
+    },
+    {
+      "term": "coding agents",
+      "explanation": "Sistemas autónomos que escriben código de software, depuran errores y pueden desarrollar programas siguiendo las instrucciones recibidas del usuario."
+    },
+    {
+      "term": "skills",
+      "explanation": "Habilidades especiales o conjuntos de comandos definidos que utiliza la inteligencia artificial para realizar una tarea específica."
+    },
+    {
+      "term": "DESIGN.md",
+      "explanation": "Archivo informativo que explica cómo se diseña un proyecto de software y cómo funciona su arquitectura."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligencia artificial entrenados con grandes volúmenes de datos capaces de comprender el lenguaje humano y generar texto."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Tecnología de inteligencia artificial capaz de generar nuevos contenidos como texto, imágenes o audio utilizando datos existentes."
+    },
+    {
+      "term": "ad blocker",
+      "explanation": "Extensión de navegador que bloquea la carga de anuncios no deseados en sitios web."
+    },
+    {
+      "term": "multimodal AI",
+      "explanation": "Inteligencia artificial capaz de procesar no solo texto, sino también diferentes tipos de datos como imágenes y audio simultáneamente."
+    },
+    {
+      "term": "multimodal model",
+      "explanation": "Estructura de inteligencia artificial capaz de analizar y procesar conjuntamente diferentes tipos de información, como texto, imágenes y audio."
+    },
+    {
+      "term": "text generation",
+      "explanation": "Proceso mediante el cual la inteligencia artificial genera oraciones lógicas y significativas sobre un tema determinado."
+    },
+    {
+      "term": "multimodal",
+      "explanation": "Capacidad de percibir múltiples tipos de datos, por ejemplo, texto e imágenes al mismo tiempo."
+    },
+    {
+      "term": "GGUF",
+      "explanation": "Formato de archivo que permite que los grandes modelos de inteligencia artificial funcionen de manera más rápida y eficiente en computadoras personales."
+    },
+    {
+      "term": "recursive reproduction number",
+      "explanation": "Tasa de velocidad de crecimiento que ocurre durante el proceso en el que un sistema de inteligencia artificial se autorreplica y mejora."
+    },
+    {
+      "term": "looped transformer",
+      "explanation": "Arquitectura de inteligencia artificial que consume menos memoria al utilizar las mismas capas de procesamiento repetidamente."
+    },
+    {
+      "term": "mixture-of-experts",
+      "explanation": "Sistema que utiliza conjuntamente pequeños submodelos, cada uno especializado en un tema diferente, para resolver tareas complejas."
+    }
+  ]
+}
