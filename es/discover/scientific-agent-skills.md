@@ -2,7 +2,7 @@
 
 Scientific-agent-skills es una biblioteca que contiene 163 habilidades (skills) verificadas y más de 100 bancos de datos científicos, especializados en agentes de inteligencia artificial en procesos de investigación científica. Ela permite que agentes que trabajan en áreas de biología, química y medicina realicen análisis de datos de forma compatible con plataformas como el editor de código Cursor o el asistente de inteligencia artificial Claude Code.
 
-- ★ 40.509
+- ★ 42.217
 - Python
 - GitHub Trending · 2026-08-27
 

@@ -2,7 +2,7 @@
 
 PyTorch est une bibliothèque d'apprentissage automatique qui offre une puissante accélération d'unité de traitement graphique (GPU) pour les calculs tensoriels basés sur Python et les réseaux de neurones dynamiques. Il fournit un large soutien écosystémique dans le développement et le déploiement de modèles d’apprentissage profond.
 
-- ★ 102 131
+- ★ 102 730
 - Python
 - GitHub Trending · 2026-07-03
 

@@ -2,7 +2,7 @@
 
 Openwork is a software project developed as an open source alternative to the Claude Cowork platform and uses the opencode infrastructure. This tool, written in TypeScript language, offers an artificial intelligence-supported working environment that aims to automate software development processes.
 
-- ★ 23,272
+- ★ 23,288
 - TypeScript
 - GitHub Trending · 2026-07-30
 

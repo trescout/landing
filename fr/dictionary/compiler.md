@@ -23,6 +23,7 @@ Oui, chaque langage de programmation a besoin d'un compilateur ou d'un interprè
 
 ## Outils liés
 - [SWC](/fr/discover/swc/)
+- [FMT](/fr/discover/fmt/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/compiler/

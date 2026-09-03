@@ -2,7 +2,7 @@
 
 Likec4 es una herramienta que visualiza la arquitectura del software directamente desde el código fuente y permite la creación de diagramas en vivo. Busca la continuidad de la documentación técnica a través de diagramas arquitectónicos que se actualizan simultáneamente con el código base.
 
-- ★ 5.328
+- ★ 5.618
 - TypeScript
 - GitHub Trending · 2026-07-23
 

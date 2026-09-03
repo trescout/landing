@@ -23,6 +23,7 @@ Sí, cada lenguaje de programación necesita un compilador o intérprete que se 
 
 ## Herramientas relacionadas
 - [SWC](/es/discover/swc/)
+- [FMT](/es/discover/fmt/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/compiler/

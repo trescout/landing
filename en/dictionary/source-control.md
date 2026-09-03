@@ -29,5 +29,8 @@ Git is the most widely used system today.
 - [Repository Checkout](/en/dictionary/repository-checkout/)
 - [Code Review](/en/dictionary/code-review/)
 
+## Related tools
+- [Atlas](/en/discover/atlas/)
+
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/source-control/

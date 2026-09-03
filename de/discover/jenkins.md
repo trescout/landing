@@ -2,7 +2,7 @@
 
 Jenkins ist ein Open-Source-Server für kontinuierliche Integration und kontinuierliche Bereitstellung, der Softwareentwicklungsprozesse automatisiert. Diese Java-basierte Plattform bietet ein breites Ökosystem an Plugins zur Verwaltung der Kompilierungs-, Test- und Bereitstellungsphasen von Softwareprojekten.
 
-- ★ 26.504
+- ★ 26.526
 - Java
 - GitHub Trending · 2026-07-27
 

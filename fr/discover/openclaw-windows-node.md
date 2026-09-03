@@ -2,7 +2,7 @@
 
 OpenClaw propose une suite de gestion intégrée sur le système d'exploitation Windows via le nœud Windows, l'application de la barre d'état système, la bibliothèque partagée et l'extension de palette de commandes PowerToys. Développé en langage C#, cet outil vise à standardiser l’accès aux ressources système et aux workflows des utilisateurs.
 
-- ★ 2 079
+- ★ 2 085
 - C#
 - GitHub Trending · 2026-06-05
 

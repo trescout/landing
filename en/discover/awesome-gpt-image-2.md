@@ -2,7 +2,7 @@
 
 GPT-Image2 is a prompt engineering library that defines image creation processes as code (Prompt as Code). With 470+ reverse engineered examples and 20+ industrial templates, it makes it easy to get consistent results from AI models.
 
-- ★ 26,288
+- ★ 27,621
 - JavaScript
 - GitHub Trending · 2026-08-24
 

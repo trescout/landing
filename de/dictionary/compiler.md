@@ -23,6 +23,7 @@ Ja, jede Programmiersprache benötigt einen Compiler oder Interpreter, der ihren
 
 ## Verwandte Werkzeuge
 - [SWC](/de/discover/swc/)
+- [FMT](/de/discover/fmt/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/compiler/

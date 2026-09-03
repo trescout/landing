@@ -28,5 +28,8 @@ Sim, os vetores numéricos criados uma vez são armazenados no banco de dados e 
 - [NLP](/pt/dictionary/nlp/)
 - [Tokenizer](/pt/dictionary/tokenizer/)
 
+## Ferramentas relacionadas
+- [SIE](/pt/discover/sie/)
+
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/embedding/

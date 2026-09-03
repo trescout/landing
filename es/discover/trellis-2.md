@@ -2,7 +2,7 @@
 
 Desarrollado por Microsoft, TRELLIS es una arquitectura de representación latente estructurada que transforma texto o entradas visuales en modelos tridimensionales (3D). Esta tecnología utiliza métodos de IA generativa para crear activos 3D de alta calidad de forma rápida y compacta.
 
-- ★ 9.992
+- ★ 11.002
 - Python
 - GitHub Trending · 2026-08-02
 

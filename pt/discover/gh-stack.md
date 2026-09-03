@@ -2,7 +2,7 @@
 
 Desenvolvido pelo GitHub, gh-stack é uma ferramenta de linha de comando que facilita a criação e o gerenciamento de solicitações pull empilhadas durante o processo de desenvolvimento de software. O objetivo é acelerar o processo de revisão, dividindo alterações complexas de código em partes pequenas e independentes.
 
-- ★ 911
+- ★ 1.432
 - Go
 - GitHub Trending · 2026-08-02
 

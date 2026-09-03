@@ -28,5 +28,8 @@ Oui, les vecteurs numériques créés une fois sont stockés dans la base de don
 - [NLP](/fr/dictionary/nlp/)
 - [Tokenizer](/fr/dictionary/tokenizer/)
 
+## Outils liés
+- [SIE](/fr/discover/sie/)
+
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/embedding/

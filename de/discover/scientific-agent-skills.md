@@ -2,7 +2,7 @@
 
 „Scientific-agent-skills“ ist eine Bibliothek, die 163 verifizierte Fähigkeiten (Skills) und mehr als 100 Bancos de dados científicos enthält, insbesondere Agenten der künstlichen Intelligenz in Prozessen der wissenschaftlichen Forschung. Dies ermöglicht es Agenten, die in den Bereichen Biologie, Wissenschaft und Medizin arbeiten, Analysen von Formaten durchzuführen, die mit Plattformen wie dem Cursor-Cursor-Editor oder dem künstlichen Intelligenzassistenten Claude Code kompatibel sind.
 
-- ★ 40.509
+- ★ 42.217
 - Python
 - GitHub Trending · 2026-08-27
 

@@ -2,7 +2,7 @@
 
 PyTorch ist eine Bibliothek für maschinelles Lernen, die eine leistungsstarke GPU-Beschleunigung (Graphics Processing Unit) für Python-basierte Tensorberechnungen und dynamische neuronale Netze bietet. Es bietet umfassende Ökosystemunterstützung bei der Entwicklung und Bereitstellung von Deep-Learning-Modellen.
 
-- ★ 102.131
+- ★ 102.730
 - Python
 - GitHub Trending · 2026-07-03
 

@@ -2,7 +2,7 @@
 
 The NGINX open source repository continues to be developed in C as a high-performance web server and reverse proxy. The software offers a standard solution in large-scale infrastructures to manage network traffic and optimize content distribution.
 
-- ★ 31,451
+- ★ 31,565
 - C
 - GitHub Trending · 2026-06-07
 

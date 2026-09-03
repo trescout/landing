@@ -2,7 +2,7 @@
 
 Desarrollado por BuilderIO, agent-native es un marco TypeScript centrado en la creación de aplicaciones nativas para agentes de inteligencia artificial. Permite a los desarrolladores integrar flujos de trabajo basados ​​en agentes directamente en la arquitectura de la aplicación.
 
-- ★ 4.646
+- ★ 4.653
 - TypeScript
 - GitHub Trending · 2026-06-20
 

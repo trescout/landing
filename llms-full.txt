@@ -36411,6 +36411,63 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yapay zekâ görsel üretimi için şablonlar
+
+GPT-Image2, görsel oluşturma süreçlerini kod olarak tanımlayan (Prompt as Code) bir istem mühendisliği (prompt engineering) kütüphanesi. 470'ten fazla tersine mühendislik yapılmış örnek ve 20'den fazla endüstriyel şablon ile yapay zekâ modellerinden tutarlı sonuçlar almayı kolaylaştırıyor.
+
+- ★ 27.621
+- JavaScript
+- GitHub Trending · 2026-08-24
+
+## Güncelleme
+- 3 Eylül 2026: Yıldız 26.288 → 27.621.
+- 31 Ağustos 2026: Yıldız 22.435 → 26.288.
+- 27 Ağustos 2026: Yıldız 14.719 → 22.435.
+- 24 Ağustos 2026: Yıldız 13.526 → 14.719.
+
+## Ne kazandırır?
+- 500'den fazla tersine mühendislik yapılmış görsel istemi
+- 20'den fazla endüstriyel görsel oluşturma şablonu
+- Görsel süreçlerini kod olarak tanımlayan yapısal protokoller
+
+## Kurulum
+
+**Tüm stilleri bilgisayara yükleme**
+
+```
+npx gpt-image-2-style-library install all
+```
+
+## Çalıştırma
+
+**Yapay zekâ ajanına yetenek ekleme**
+
+```
+npx skills add freestylefly/awesome-gpt-image-2 --skill gpt-image-2-style-library --agent claude-code codex --global --yes --copy
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Sen bir görsel istem mühendisisin. Awesome GPT Image 2 kütüphanesindeki yapısal protokolleri kullanarak, belirttiğim görsel konusunu; ışıklandırma, malzeme, düzen ve görsel detaylar gibi atomik parçalara ayır. Ürettiğin istemin yapay zekâ modelleri tarafından tutarlı ve kontrol edilebilir sonuçlar vermesini sağla.
+
+- **Kimin için:** Yapay zekâ modellerinden daha tutarlı, profesyonel ve tekrarlanabilir görseller elde etmek isteyen tasarımcılar ve otomasyon geliştiricileri içindir. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/freestylefly/awesome-gpt-image-2)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-24 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Prompt Engineering Prompt as Code Prompt Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/awesome-gpt-image-2/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Teknik kitapları yapay zekâ yeteneğine dönüştürün
 
 Book-to-skill projesi, teknik kitapların taşınabilir belge biçimlerini (PDF) Claude Code için kullanılabilir yetenek paketlerine (skills) dönüştürüyor. Bu araç, teknik kaynakların çalışma süreçlerinde doğrudan referans alınmasını ve uygulanmasını sağlıyor.
@@ -36798,62 +36855,6 @@ Continuous Integration
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/jenkins/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Yapay zekâ görsel üretimi için şablonlar
-
-GPT-Image2, görsel oluşturma süreçlerini kod olarak tanımlayan (Prompt as Code) bir istem mühendisliği (prompt engineering) kütüphanesi. 470'ten fazla tersine mühendislik yapılmış örnek ve 20'den fazla endüstriyel şablon ile yapay zekâ modellerinden tutarlı sonuçlar almayı kolaylaştırıyor.
-
-- ★ 26.288
-- JavaScript
-- GitHub Trending · 2026-08-24
-
-## Güncelleme
-- 31 Ağustos 2026: Yıldız 22.435 → 26.288.
-- 27 Ağustos 2026: Yıldız 14.719 → 22.435.
-- 24 Ağustos 2026: Yıldız 13.526 → 14.719.
-
-## Ne kazandırır?
-- 500'den fazla tersine mühendislik yapılmış görsel istemi
-- 20'den fazla endüstriyel görsel oluşturma şablonu
-- Görsel süreçlerini kod olarak tanımlayan yapısal protokoller
-
-## Kurulum
-
-**Tüm stilleri bilgisayara yükleme**
-
-```
-npx gpt-image-2-style-library install all
-```
-
-## Çalıştırma
-
-**Yapay zekâ ajanına yetenek ekleme**
-
-```
-npx skills add freestylefly/awesome-gpt-image-2 --skill gpt-image-2-style-library --agent claude-code codex --global --yes --copy
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Sen bir görsel istem mühendisisin. Awesome GPT Image 2 kütüphanesindeki yapısal protokolleri kullanarak, belirttiğim görsel konusunu; ışıklandırma, malzeme, düzen ve görsel detaylar gibi atomik parçalara ayır. Ürettiğin istemin yapay zekâ modelleri tarafından tutarlı ve kontrol edilebilir sonuçlar vermesini sağla.
-
-- **Kimin için:** Yapay zekâ modellerinden daha tutarlı, profesyonel ve tekrarlanabilir görseller elde etmek isteyen tasarımcılar ve otomasyon geliştiricileri içindir. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/freestylefly/awesome-gpt-image-2)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-24 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Prompt Engineering Prompt as Code Prompt Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/awesome-gpt-image-2/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -39161,15 +39162,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Rust diliyle geliştirilen jcode, kodlama odaklı yapay zekâ ajanlarını test etmek ve değerlendirmek için bir çerçeve (harness) sunuyor. Yazılım geliştirme süreçlerinde kullanılan ajanların performansını ölçmek amacıyla standart bir altyapı sağlıyor.
 
-- ★ 18.883
+- ★ 19.029
 - Rust
 - GitHub Trending · 2026-06-21
 
 ## Güncelleme
+- 3 Eylül 2026: Yıldız 18.883 → 19.029, son sürüm v0.81.5 (3 Eylül 2026).
 - 31 Ağustos 2026: Yıldız 18.670 → 18.883, son sürüm v0.81.4 (30 Ağustos 2026).
 - 27 Ağustos 2026: Yıldız 18.399 → 18.670, son sürüm v0.81.1 (26 Ağustos 2026).
 - 24 Ağustos 2026: Yıldız 18.120 → 18.399, son sürüm v0.80.0 (24 Ağustos 2026).
-- 21 Ağustos 2026: Yıldız 17.976 → 18.120, son sürüm v0.79.1 (21 Ağustos 2026).
 
 ## Ne kazandırır?
 - Çoklu oturum iş akışlarında yüksek kaynak verimliliği
@@ -42928,15 +42929,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Unciv, Civilization V oyununun açık kaynak kodlu bir masaüstü ve Android uyarlamasıdır. Kotlin diliyle geliştirilen proje, orijinal oyun mekaniklerini daha hafif bir altyapı üzerinde kullanıcılarla buluşturuyor.
 
-- ★ 11.209
+- ★ 11.212
 - Kotlin
 - GitHub Trending · 2026-06-18
 
 ## Güncelleme
+- 3 Eylül 2026: Yıldız 11.209 → 11.212, son sürüm 4.21.16 (3 Eylül 2026).
 - 1 Eylül 2026: Yıldız 11.207 → 11.209, son sürüm 4.21.15 (1 Eylül 2026).
 - 31 Ağustos 2026: Yıldız 11.139 → 11.207, son sürüm 4.21.14 (30 Ağustos 2026).
 - 27 Ağustos 2026: Yıldız 11.117 → 11.139, son sürüm 4.21.13 (27 Ağustos 2026).
-- 23 Ağustos 2026: Yıldız 11.108 → 11.117, son sürüm 4.21.11 (22 Ağustos 2026).
 
 ## Ne kazandırır?
 - Düşük donanımlı cihazlarda akıcı oyun deneyimi

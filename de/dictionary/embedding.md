@@ -28,5 +28,8 @@ Ja, einmal erstellte numerische Vektoren werden in der Datenbank gespeichert und
 - [NLP](/de/dictionary/nlp/)
 - [Tokenizer](/de/dictionary/tokenizer/)
 
+## Verwandte Werkzeuge
+- [SIE](/de/discover/sie/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/embedding/

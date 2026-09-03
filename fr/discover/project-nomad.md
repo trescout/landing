@@ -2,7 +2,7 @@
 
 Projet N.O.M.A.D ; Il s'agit d'un projet de construction informatique autonome et hors ligne qui ne nécessite pas de connexion Internet et est équipé d'outils critiques, de ressources d'information et d'intelligence artificielle. Il est spécialement conçu pour les urgences et les scénarios où il n’y a pas d’Internet.
 
-- ★ 35 435
+- ★ 36 474
 - TypeScript
 - Apache-2.0
 - GitHub Trending · 30 May 2026

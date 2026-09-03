@@ -2,7 +2,7 @@
 
 Les compétences d'agent scientifique sont une bibliothèque qui contient 163 compétences (compétences) vérifiées et plus de 100 bancs de données scientifiques, des agents d'intelligence artificielle spécialisés dans les processus de recherche scientifique. Cela permet aux agents qui travaillent dans les domaines de la biologie, de la chimique et de la médecine de réaliser des analyses de données de forme compatible avec des plates-formes telles que l'éditeur de code Cursor ou l'assistant d'intelligence artificielle Claude Code.
 
-- ★ 40 509
+- ★ 42 217
 - Python
 - GitHub Trending · 2026-08-27
 

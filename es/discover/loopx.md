@@ -2,7 +2,7 @@
 
 Loopx es un núcleo de estado liviano desarrollado para equipos de agentes de inteligencia artificial a largo plazo. Funciona de forma compatible con agentes de codificación (Codex, Claude Code) y estandariza procesos como el seguimiento de tareas, la gestión de cuotas y la transferencia de trabajo verificable.
 
-- ★ 5.218
+- ★ 5.499
 - Python
 - GitHub Trending · 2026-08-06
 

@@ -2,7 +2,7 @@
 
 OfficeCLI bietet eine Open-Source-Office-Suite, die es KI-Agenten ermöglicht, Word-, Excel- und PowerPoint-Dateien direkt zu lesen, zu bearbeiten und zu automatisieren. Dieses mit C# entwickelte Tool ermöglicht die Ausführung von Vorgängen über eine einzige Binärdatei, ohne dass eine Office-Softwareinstallation erforderlich ist.
 
-- ★ 29.585
+- ★ 29.773
 - C#
 - GitHub Trending · 2026-07-08
 

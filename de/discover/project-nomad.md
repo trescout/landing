@@ -2,7 +2,7 @@
 
 Projekt N.O.M.A.D; Es handelt sich um ein autarkes Offline-Computerbauprojekt, das keine Internetverbindung benötigt und mit wichtigen Werkzeugen, Informationsressourcen und künstlicher Intelligenz ausgestattet ist. Es ist speziell für Notfälle und Szenarien konzipiert, in denen kein Internet verfügbar ist.
 
-- ★ 35.435
+- ★ 36.474
 - TypeScript
 - Apache-2.0
 - GitHub Trending · 30 May 2026

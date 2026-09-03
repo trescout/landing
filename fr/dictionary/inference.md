@@ -32,6 +32,7 @@ Non, le modèle fait uniquement des prédictions en utilisant les informations d
 - [Ds4](/fr/discover/ds4/)
 - [LTX 2](/fr/discover/ltx-2/)
 - [ODS](/fr/discover/ods/)
+- [SIE](/fr/discover/sie/)
 - [Switchyard](/fr/discover/switchyard/)
 - [Transcribe.cpp](/fr/discover/transcribe-cpp/)
 

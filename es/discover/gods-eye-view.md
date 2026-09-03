@@ -2,7 +2,7 @@
 
 Gods-eye-view es un simulador de inteligencia espacial que visualiza datos satelitales en tiempo real en un globo 3D basado en navegador. Desarrollado con JavaScript, este proyecto de código abierto permite a los usuarios examinar datos en vivo de todo el mundo a través de una interfaz fotorrealista.
 
-- ★ 15.448
+- ★ 16.478
 - JavaScript
 - GitHub Trending · 2026-08-28
 

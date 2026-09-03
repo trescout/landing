@@ -28,6 +28,7 @@ Ele fornece gerenciamento de código mais seguro com autorização correta.
 - [Code Review](/pt/dictionary/code-review/)
 
 ## Ferramentas relacionadas
+- [Portless](/pt/discover/portless/)
 - [Code Graph RAG](/pt/discover/code-graph-rag/)
 
 ---

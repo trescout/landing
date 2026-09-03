@@ -2,7 +2,7 @@
 
 FastMCP ist ein Python-basiertes Framework, das die Entwicklung von Model Context Protocol (MCP)-Servern und -Clients erleichtert. Es ermöglicht Entwicklern, KI-Modelle schnell in native Tools zu integrieren.
 
-- ★ 27.483
+- ★ 27.498
 - Python
 - GitHub Trending · 2026-07-21
 

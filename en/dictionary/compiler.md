@@ -25,6 +25,7 @@ Yes, every programming language needs a compiler or interpreter that suits its o
 
 ## Related tools
 - [SWC](/en/discover/swc/)
+- [FMT](/en/discover/fmt/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/compiler/

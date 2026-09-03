@@ -30,5 +30,8 @@ Yes, numerical vectors created once are stored in the database and reused whenev
 - [NLP](/en/dictionary/nlp/)
 - [Tokenizer](/en/dictionary/tokenizer/)
 
+## Related tools
+- [SIE](/en/discover/sie/)
+
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/embedding/

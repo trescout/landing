@@ -2,7 +2,7 @@
 
 tuicr wurde mit der Rust-Sprache entwickelt und ist ein auf der Terminal-Benutzeroberfläche basierendes Codeüberprüfungstool, das Vim-Tastaturkürzel unterstützt. Es ermöglicht Entwicklern, ihren Codeüberprüfungsprozess direkt vom Terminal aus zu verwalten.
 
-- ★ 2.908
+- ★ 3.009
 - Rust
 - GitHub Trending · 2026-07-31
 

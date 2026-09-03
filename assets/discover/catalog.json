@@ -8327,14 +8327,14 @@
     "slug": "unciv",
     "title": "Unciv",
     "tagline": "Unciv, Civilization V oyununun açık kaynak kodlu bir masaüstü ve Android uyarlamasıdır.",
-    "meta": "★ 11.209 · Kotlin",
+    "meta": "★ 11.212 · Kotlin",
     "image": "/assets/discover/og/unciv.webp",
     "source": "GitHub",
     "date": "2026-06-18",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 11209,
+    "stars": 11212,
     "lite": false,
     "headline": "Hafif ve açık kaynaklı strateji oyunu",
     "last_review": "2026-09-03",
@@ -8436,6 +8436,13 @@
         "onceki_yildiz": 11207,
         "surum": "4.21.15",
         "surum_tarihi": "2026-09-01"
+      },
+      {
+        "tarih": "2026-09-03",
+        "yildiz": 11212,
+        "onceki_yildiz": 11209,
+        "surum": "4.21.16",
+        "surum_tarihi": "2026-09-03"
       }
     ],
     "tagline_en": "Unciv is an open source desktop and Android adaptation of the Civilization V game.",
@@ -9611,7 +9618,7 @@
     "slug": "jcode",
     "title": "Jcode",
     "tagline": "Rust diliyle geliştirilen jcode, kodlama odaklı yapay zekâ ajanlarını test etmek ve değerlendirmek için bir çerçeve (harness)…",
-    "meta": "★ 18.883 · Rust",
+    "meta": "★ 19.029 · Rust",
     "image": "/assets/discover/og/jcode.webp",
     "source": "GitHub",
     "date": "2026-06-21",
@@ -9619,7 +9626,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 18883,
+    "stars": 19029,
     "lite": false,
     "headline": "Kodlama ajanları için yüksek performanslı çerçeve",
     "last_review": "2026-09-03",
@@ -9735,6 +9742,13 @@
         "onceki_yildiz": 18670,
         "surum": "v0.81.4",
         "surum_tarihi": "2026-08-30"
+      },
+      {
+        "tarih": "2026-09-03",
+        "yildiz": 19029,
+        "onceki_yildiz": 18883,
+        "surum": "v0.81.5",
+        "surum_tarihi": "2026-09-03"
       }
     ],
     "tagline_en": "Developed with the Rust language, jcode is a framework (harness) for testing and evaluating coding-oriented artificial intelligence agents.",
@@ -26595,7 +26609,7 @@
     "slug": "awesome-gpt-image-2",
     "title": "Awesome Gpt Image 2",
     "tagline": "GPT-Image2, görsel oluşturma süreçlerini kod olarak tanımlayan (Prompt as Code) bir istem mühendisliği (prompt engineering)…",
-    "meta": "★ 26.288 · JavaScript",
+    "meta": "★ 27.621 · JavaScript",
     "image": "/assets/discover/og/awesome-gpt-image-2.webp",
     "source": "GitHub",
     "date": "2026-08-24",
@@ -26603,7 +26617,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 26288,
+    "stars": 27621,
     "lite": false,
     "headline": "Yapay zekâ görsel üretimi için şablonlar",
     "last_review": "2026-09-03",
@@ -26628,6 +26642,11 @@
         "tarih": "2026-08-31",
         "yildiz": 26288,
         "onceki_yildiz": 22435
+      },
+      {
+        "tarih": "2026-09-03",
+        "yildiz": 27621,
+        "onceki_yildiz": 26288
       }
     ]
   },
@@ -28451,7 +28470,8 @@
     "tagline_fr": "fmt est une bibliothèque de formatage de texte moderne développée pour le langage de programmation C++.",
     "tagline_pt": "fmt é uma biblioteca de formatação de texto moderna desenvolvida para a linguagem de programação C++.",
     "tagline_es": "fmt es una biblioteca de formato de texto moderna desarrollada para el lenguaje de programación C++.",
-    "tagline_de": "fmt ist eine moderne Textformatierungsbibliothek, die für die Programmiersprache C++ entwickelt wurde."
+    "tagline_de": "fmt ist eine moderne Textformatierungsbibliothek, die für die Programmiersprache C++ entwickelt wurde.",
+    "last_seen": "2026-09-03"
   },
   {
     "slug": "voicestudio",
@@ -28482,7 +28502,8 @@
     "tagline_fr": "VoiceStudio est un logiciel open source qui effectue des opérations telles que le clonage vocal, le doublage et la transcription sans avoir besoin d'une connexion Internet...",
     "tagline_pt": "VoiceStudio é uma ferramenta de código aberto que realiza processos como clonagem de voz, dublagem e transcrição sem a necessidade de internet...",
     "tagline_es": "VoiceStudio es una herramienta de código abierto que realiza procesos como clonación de voz, doblaje y transcripción sin necesidad de internet...",
-    "tagline_de": "VoiceStudio ist eine Open-Source-Anwendung, die Aufgaben wie Stimmenklonen, Synchronisation und Transkription ohne Internetverbindung durchführt..."
+    "tagline_de": "VoiceStudio ist eine Open-Source-Anwendung, die Aufgaben wie Stimmenklonen, Synchronisation und Transkription ohne Internetverbindung durchführt...",
+    "last_seen": "2026-09-03"
   },
   {
     "slug": "sequoia-x",
@@ -28504,7 +28525,8 @@
     "tagline_fr": "Sequoia-X est un outil Python qui sélectionne automatiquement des actions basées sur des formules d'analyse technique en utilisant les données boursières chinoises...",
     "tagline_pt": "Sequoia-X é um projeto Python que utiliza dados da bolsa de valores chinesa para realizar a seleção automática de ações com base em fórmulas de análise técnica...",
     "tagline_es": "Sequoia-X es un proyecto en Python que utiliza datos de la bolsa de valores de China para realizar la selección automática de acciones según fórmulas de análisis técnico...",
-    "tagline_de": "Sequoia-X ist ein Python-Tool, das chinesische Börsendaten verwendet, um Aktien automatisch basierend auf technischen Analyseformeln auszuwählen..."
+    "tagline_de": "Sequoia-X ist ein Python-Tool, das chinesische Börsendaten verwendet, um Aktien automatisch basierend auf technischen Analyseformeln auszuwählen...",
+    "last_seen": "2026-09-03"
   },
   {
     "slug": "sie",
@@ -28536,7 +28558,8 @@
     "tagline_fr": "SIE, développé par Superlinked, est un système open source utilisé pour exécuter les modèles dont les agents d'intelligence artificielle ont besoin...",
     "tagline_pt": "SIE, desenvolvido pela Superlinked, é um sistema de código aberto usado para executar modelos necessários para agentes de inteligência artificial...",
     "tagline_es": "SIE, desarrollado por Superlinked, es un sistema de código abierto utilizado para ejecutar los modelos que necesitan los agentes de inteligencia artificial...",
-    "tagline_de": "SIE, entwickelt von Superlinked, ist ein Open-Source-Framework, das zum Ausführen von Modellen verwendet wird, die von KI-Agenten benötigt werden..."
+    "tagline_de": "SIE, entwickelt von Superlinked, ist ein Open-Source-Framework, das zum Ausführen von Modellen verwendet wird, die von KI-Agenten benötigt werden...",
+    "last_seen": "2026-09-03"
   },
   {
     "slug": "atlas",
@@ -28568,7 +28591,8 @@
     "tagline_fr": "Atlas est un système de contrôle de version (source control) destiné aux agents d'intelligence artificielle utilisés dans les processus de développement logiciel.",
     "tagline_pt": "Atlas é um sistema de controle de versão (source control) para agentes de inteligência artificial usados em processos de desenvolvimento de software.",
     "tagline_es": "Atlas es un sistema de control de versiones (source control) para agentes de inteligencia artificial utilizados en procesos de desarrollo de software.",
-    "tagline_de": "Atlas ist ein Quellcodeverwaltungssystem für KI-Agenten, die in Softwareentwicklungsprozessen eingesetzt werden."
+    "tagline_de": "Atlas ist ein Quellcodeverwaltungssystem für KI-Agenten, die in Softwareentwicklungsprozessen eingesetzt werden.",
+    "last_seen": "2026-09-03"
   },
   {
     "slug": "typewords",
@@ -28601,7 +28625,8 @@
     "tagline_fr": "TypeWords, avec son interface basée sur Vue, permet aux utilisateurs d'améliorer leur vitesse de frappe tout en pratiquant l'anglais...",
     "tagline_pt": "TypeWords, com sua interface baseada em Vue, permite que os usuários melhorem sua velocidade de digitação enquanto praticam inglês...",
     "tagline_es": "TypeWords es una plataforma basada en Vue que permite a los usuarios mejorar su velocidad de escritura mientras practican inglés...",
-    "tagline_de": "TypeWords ist eine Vue-basierte Anwendung, mit der Benutzer ihre Tippgeschwindigkeit verbessern und gleichzeitig Englisch üben können..."
+    "tagline_de": "TypeWords ist eine Vue-basierte Anwendung, mit der Benutzer ihre Tippgeschwindigkeit verbessern und gleichzeitig Englisch üben können...",
+    "last_seen": "2026-09-03"
   },
   {
     "slug": "portless",
@@ -28633,7 +28658,8 @@
     "tagline_fr": "Portless, développé par Vercel Labs, rend les numéros de port utilisés dans les environnements de développement locaux permanents et...",
     "tagline_pt": "Portless, desenvolvido pela Vercel Labs, é uma ferramenta que torna os números de porta usados em ambientes de desenvolvimento local permanentes e...",
     "tagline_es": "Portless, desarrollado por Vercel Labs, es una herramienta que permite que los números de puerto utilizados en entornos de desarrollo local sean persistentes y...",
-    "tagline_de": "Portless, entwickelt von Vercel Labs, macht Portnummern, die in lokalen Entwicklungsumgebungen verwendet werden, dauerhaft und..."
+    "tagline_de": "Portless, entwickelt von Vercel Labs, macht Portnummern, die in lokalen Entwicklungsumgebungen verwendet werden, dauerhaft und...",
+    "last_seen": "2026-09-03"
   },
   {
     "slug": "humanizer",
@@ -28665,6 +28691,7 @@
     "tagline_fr": "Humanizer, en supprimant les modèles caractéristiques des textes générés par l'intelligence artificielle, rend le contenu plus naturel...",
     "tagline_pt": "O Humanizer remove padrões característicos em textos gerados por inteligência artificial, tornando o conteúdo com uma narrativa mais natural...",
     "tagline_es": "Humanizer, elimina los patrones característicos de los textos generados por inteligencia artificial para darle al contenido una expresión más natural...",
-    "tagline_de": "Humanizer entfernt charakteristische Muster aus KI-generierten Texten, um dem Inhalt eine natürlichere Ausdrucksweise zu verleihen..."
+    "tagline_de": "Humanizer entfernt charakteristische Muster aus KI-generierten Texten, um dem Inhalt eine natürlichere Ausdrucksweise zu verleihen...",
+    "last_seen": "2026-09-03"
   }
 ]
