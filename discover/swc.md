@@ -54,7 +54,7 @@ Benim bir web geliştirme projem var ve derleme süreçlerimi hızlandırmak ist
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-14 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Compiler Compilation Bundling Web Compiler Rust Artificial Intelligence
+Compilation Bundling Web Compiler Compiler Rust Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/swc/

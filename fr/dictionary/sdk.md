@@ -37,7 +37,6 @@ Cela peut être écrit, mais il faut tout coder à partir de zéro, ce qui prend
 - [CubeSandbox](/fr/discover/cubesandbox/)
 - [Copilot SDK](/fr/discover/copilot-sdk/)
 - [U3 SDK](/fr/discover/u3-sdk/)
-- [Sharpemu](/fr/discover/sharpemu/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/sdk/

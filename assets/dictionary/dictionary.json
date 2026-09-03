@@ -7330,5 +7330,70 @@
     "kisa_pt": "É uma ferramenta de software que bloqueia o carregamento de conteúdos publicitários em páginas da internet.",
     "kisa_es": "Es una herramienta de software que bloquea el contenido publicitario en las páginas web antes de que se cargue.",
     "kisa_de": "Dies ist ein Software-Tool, das Werbeinhalte auf Webseiten blockiert, bevor sie geladen werden."
+  },
+  {
+    "slug": "inference-server",
+    "en": "Inference Server",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekâ modellerinin gelen sorulara cevap üretmesi için çalıştırıldığı özel sunucu sistemidir.",
+    "date": "2026-09-03",
+    "kisa_en": "It is a specialized server system where artificial intelligence models are run to generate answers to incoming questions.",
+    "kisa_fr": "Il s'agit d'un système de serveur spécial utilisé pour permettre aux modèles d'intelligence artificielle de générer des réponses aux questions posées.",
+    "kisa_pt": "É um sistema de servidor dedicado onde modelos de inteligência artificial são executados para gerar respostas a perguntas recebidas.",
+    "kisa_es": "Es el sistema de servidor dedicado en el que se ejecutan los modelos de inteligencia artificial para generar respuestas a las preguntas recibidas.",
+    "kisa_de": "Dies ist ein spezielles Serversystem, auf dem KI-Modelle ausgeführt werden, um Antworten auf eingehende Anfragen zu generieren."
+  },
+  {
+    "slug": "source-control",
+    "en": "Source Control",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılım projelerindeki tüm kod değişikliklerini kaydeden ve geçmişe dönmeyi sağlayan bir takip sistemidir.",
+    "date": "2026-09-03",
+    "kisa_en": "It is a tracking system that records all code changes in software projects and allows for reverting to previous versions.",
+    "kisa_fr": "Il s'agit d'un système de suivi qui enregistre toutes les modifications de code dans les projets logiciels et permet de revenir aux versions précédentes.",
+    "kisa_pt": "É um sistema de rastreamento que registra todas as alterações de código em projetos de software e permite retornar a versões anteriores.",
+    "kisa_es": "Es un sistema de seguimiento que registra todos los cambios de código en los proyectos de software y permite volver a versiones anteriores.",
+    "kisa_de": "Dies ist ein Nachverfolgungssystem, das alle Codeänderungen in Softwareprojekten aufzeichnet und eine Rückkehr zu früheren Versionen ermöglicht."
+  },
+  {
+    "slug": "microservices",
+    "en": "Microservices",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Büyük yazılımları, her biri bağımsız çalışan küçük parçalara ayırma mimarisidir.",
+    "date": "2026-09-03",
+    "kisa_en": "It is an architecture that breaks down large software into small, independently functioning parts.",
+    "kisa_fr": "Il s'agit d'une architecture consistant à diviser les grands logiciels en petits composants fonctionnant de manière indépendante.",
+    "kisa_pt": "É uma arquitetura que divide grandes softwares em pequenas partes, cada uma operando de forma independente.",
+    "kisa_es": "Es una arquitectura que divide el software de gran tamaño en piezas pequeñas que funcionan de forma independiente.",
+    "kisa_de": "Dies ist eine Architektur, bei der große Softwareanwendungen in kleine, unabhängig voneinander funktionierende Teile unterteilt werden."
+  },
+  {
+    "slug": "data-processing",
+    "en": "Data Processing",
+    "full": "",
+    "cat": "data",
+    "kisa": "Ham verinin toplanıp anlamlı ve kullanılabilir bilgilere dönüştürülmesi sürecidir.",
+    "date": "2026-09-03",
+    "kisa_en": "It is the process of collecting raw data and transforming it into meaningful and usable information.",
+    "kisa_fr": "Il s'agit du processus de collecte de données brutes et de leur transformation en informations significatives et exploitables.",
+    "kisa_pt": "É o processo de coleta de dados brutos e sua transformação em informações significativas e utilizáveis.",
+    "kisa_es": "Es el proceso de recopilación de datos sin procesar y su transformación en información significativa y utilizable.",
+    "kisa_de": "Dies ist der Prozess der Erfassung von Rohdaten und deren Umwandlung in aussagekräftige und nutzbare Informationen."
+  },
+  {
+    "slug": "ad-tech",
+    "en": "Ad Tech",
+    "full": "Advertising Technology",
+    "cat": "data",
+    "kisa": "İnternet reklamlarının hedef kitleye ulaştırılması ve yönetilmesi için kullanılan dijital araçlar bütünüdür.",
+    "date": "2026-09-03",
+    "kisa_en": "It is the set of digital tools used for delivering and managing internet advertisements to a target audience.",
+    "kisa_fr": "Il s'agit d'un ensemble d'outils numériques utilisés pour diffuser et gérer les publicités sur Internet auprès du public cible.",
+    "kisa_pt": "É um conjunto de ferramentas digitais usadas para gerenciar e entregar anúncios na internet ao público-alvo.",
+    "kisa_es": "Es el conjunto de herramientas digitales utilizadas para gestionar y entregar publicidad en Internet al público objetivo.",
+    "kisa_de": "Dies ist die Gesamtheit der digitalen Werkzeuge, die zur Bereitstellung und Verwaltung von Internetwerbung für die Zielgruppe verwendet werden."
   }
 ]

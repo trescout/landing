@@ -2,15 +2,15 @@
 
 Rust diliyle geliştirilen tuicr, Vim klavye kısayollarını destekleyen bir uçbirim kullanıcı arayüzü (terminal user interface) tabanlı kod inceleme (code review) aracıdır. Geliştiricilerin kod gözden geçirme süreçlerini doğrudan terminal üzerinden yönetmelerine olanak tanır.
 
-- ★ 2.908
+- ★ 3.009
 - Rust
 - GitHub Trending · 2026-07-31
 
 ## Güncelleme
+- 3 Eylül 2026: Yıldız 2.908 → 3.009, son sürüm v0.25.0 (2 Eylül 2026).
 - 27 Ağustos 2026: Yıldız 2.817 → 2.908, son sürüm v0.24.0 (25 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 2.795 → 2.817, son sürüm v0.23.1 (20 Ağustos 2026).
 - 19 Ağustos 2026: Yıldız 2.741 → 2.795, son sürüm v0.23.0 (18 Ağustos 2026).
-- 15 Ağustos 2026: Yıldız 2.439 → 2.741, son sürüm v0.22.0 (13 Ağustos 2026).
 
 ## Ne kazandırır?
 - Vim kısayollarıyla terminalde hızlı kod inceleme

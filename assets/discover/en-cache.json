@@ -11086,5 +11086,18 @@
  "⚠️ Standart bir lisans tanımlanmamış (GitHub 'NOASSERTION' diyor). Listeyi okumak ve kullanmak serbest; ancak içeriği kopyalayıp kendi yerinizde yeniden yayınlamadan önce sahibine danışın · yeniden kullanım hakları net değil.": "⚠️ No standard license defined (GitHub says 'NOASSERTION'). The list is free to read and use; but check with the owner before copying and republishing content on your own · reuse rights are unclear.",
  "⭐": "⭐",
  "🤖 Kod bilmiyorsanız · yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın": "🤖 If you don't know the code · paste it into your AI agent (Claude Code · Codex · Antigravity)",
- "🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın": "🤖 Paste into your AI agent (Claude Code · Codex · Antigravity)"
+ "🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın": "🤖 Paste into your AI agent (Claude Code · Codex · Antigravity)",
+ "Yapay zekâ modellerinin gelen sorulara cevap üretmesi için çalıştırıldığı özel sunucu sistemidir.": "It is a specialized server system where artificial intelligence models are run to generate answers to incoming questions.",
+ "Yazılım projelerindeki tüm kod değişikliklerini kaydeden ve geçmişe dönmeyi sağlayan bir takip sistemidir.": "It is a tracking system that records all code changes in software projects and allows for reverting to previous versions.",
+ "Büyük yazılımları, her biri bağımsız çalışan küçük parçalara ayırma mimarisidir.": "It is an architecture that breaks down large software into small, independently functioning parts.",
+ "Ham verinin toplanıp anlamlı ve kullanılabilir bilgilere dönüştürülmesi sürecidir.": "It is the process of collecting raw data and transforming it into meaningful and usable information.",
+ "İnternet reklamlarının hedef kitleye ulaştırılması ve yönetilmesi için kullanılan dijital araçlar bütünüdür.": "It is the set of digital tools used for delivering and managing internet advertisements to a target audience.",
+ "fmt, C++ programlama dili için geliştirilen modern bir metin biçimlendirme kütüphanesidir.": "fmt is a modern text formatting library developed for the C++ programming language.",
+ "VoiceStudio, ses klonlama, dublaj ve transkripsiyon gibi işlemleri internete ihtiyaç duymadan gerçekleştiren açık kaynaklı bir…": "VoiceStudio is an open-source tool that performs tasks such as voice cloning, dubbing, and transcription without the need for an internet connection...",
+ "Sequoia-X, Çin borsa verilerini kullanarak teknik analiz formüllerine göre otomatik hisse senedi seçimi yapan bir Python…": "Sequoia-X is a Python tool that uses Chinese stock market data to automatically select stocks based on technical analysis formulas...",
+ "Superlinked tarafından geliştirilen SIE, yapay zekâ ajanlarının ihtiyaç duyduğu modelleri çalıştırmak için kullanılan açık…": "SIE, developed by Superlinked, is an open-source framework used to run the models required by artificial intelligence agents...",
+ "Atlas, yazılım geliştirme süreçlerinde kullanılan yapay zekâ ajanları için bir kaynak kontrolü (source control) sistemi.": "Atlas is a source control system for artificial intelligence agents used in software development processes.",
+ "TypeWords, Vue tabanlı arayüzüyle kullanıcıların klavye hızlarını geliştirirken aynı zamanda İngilizce pratik yapmalarını…": "TypeWords is a tool with a Vue-based interface that allows users to improve their typing speed while simultaneously practicing English...",
+ "Vercel Labs tarafından geliştirilen Portless, yerel geliştirme ortamlarında kullanılan port numaralarını kalıcı ve…": "Portless, developed by Vercel Labs, makes port numbers used in local development environments persistent and...",
+ "Humanizer, yapay zekâ tarafından oluşturulan metinlerdeki karakteristik kalıpları silerek içeriği daha doğal bir anlatıma…": "Humanizer removes characteristic patterns in AI-generated text, giving the content a more natural tone..."
 }

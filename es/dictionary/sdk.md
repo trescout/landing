@@ -37,7 +37,6 @@ Se puede escribir, pero hay que codificar todo desde cero, lo que lleva demasiad
 - [CubeSandbox](/es/discover/cubesandbox/)
 - [Copilot SDK](/es/discover/copilot-sdk/)
 - [U3 SDK](/es/discover/u3-sdk/)
-- [Sharpemu](/es/discover/sharpemu/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/sdk/

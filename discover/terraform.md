@@ -2,11 +2,12 @@
 
 HashiCorp tarafından geliştirilen Terraform, altyapıyı kod olarak (infrastructure as code) tanımlayarak güvenli ve öngörülebilir şekilde oluşturulmasına olanak tanır. Go diliyle yazılan bu araç, uygulama programlama arayüzlerini (API) bildirimsel yapılandırma dosyalarına dönüştürerek ekiplerin altyapı süreçlerini sürüm kontrolü altında yönetmesini sağlar.
 
-- ★ 49.546
+- ★ 49.611
 - Go
 - GitHub Trending · 2026-07-11
 
 ## Güncelleme
+- 3 Eylül 2026: Yıldız 49.546 → 49.611, son sürüm v1.16.1 (2 Eylül 2026).
 - 27 Ağustos 2026: Yıldız 49.487 → 49.546, son sürüm v1.16.0 (26 Ağustos 2026).
 - 19 Ağustos 2026: Yıldız 49.375 → 49.487, son sürüm v1.15.9 (19 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 49.219 → 49.375, son sürüm v1.15.8 (8 Temmuz 2026).
