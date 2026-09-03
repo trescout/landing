@@ -1,5 +1,7 @@
 # TreScout · Landing
 
+[![Deploy Health Check](https://github.com/trescout/landing/actions/workflows/deploy-health.yml/badge.svg)](https://github.com/trescout/landing/actions/workflows/deploy-health.yml)
+
 Statik HTML landing page. `trescout.com`'a deploy edilir.
 
 ## Yapı
