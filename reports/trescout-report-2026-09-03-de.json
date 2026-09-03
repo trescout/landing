@@ -1,0 +1,1012 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-03",
+  "capturedAt": "2026-09-03T08:34:23.045Z",
+  "editorial": "Heute stehen in der Softwarewelt Low-Latency-Sprachmodelle und Datenkomprimierungstechniken im Vordergrund. Die Flash-Modelle der neuen Generation von Google und Qwen stellen in Kombination mit leistungsstarken Rechenbibliotheken die Systemeffizienz in den Mittelpunkt.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "fmtlib/fmt",
+          "url": "https://github.com/fmtlib/fmt",
+          "summary": "fmt ist eine moderne Textformatierungsbibliothek, die für die Programmiersprache C++ entwickelt wurde. Sie bietet eine schnellere und sicherere Alternative zu den printf- und iostream-Methoden der C++-Standardbibliothek.",
+          "meta": "C++ · ★ 24.572 · +14 heute",
+          "snapshot": {
+            "sourceId": "fmtlib/fmt",
+            "capturedAt": "2026-09-03T08:34:24.569Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 24572,
+              "engagementCount": 14,
+              "rank": 1,
+              "extra": {
+                "starsToday": 14
+              }
+            }
+          }
+        },
+        {
+          "title": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "summary": "TimesFM, entwickelt von Google Research, ist ein für Zeitreihenprognosen konzipiertes Basismodell (Foundation Model). Dieses Python-basierte Tool ermöglicht mit seiner auf verschiedenen Datensätzen vortrainierten Struktur die Analyse numerischer Daten für die Zukunft.",
+          "meta": "Python · ★ 30.345 · +343 heute",
+          "snapshot": {
+            "sourceId": "google-research/timesfm",
+            "capturedAt": "2026-09-03T08:34:24.569Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 30345,
+              "engagementCount": 343,
+              "rank": 2,
+              "extra": {
+                "starsToday": 343
+              }
+            }
+          }
+        },
+        {
+          "title": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "summary": "Ponytail ist ein Tool, das es KI-Agenten ermöglicht, Lösungen in Softwareentwicklungsprozessen mit minimalem Aufwand zu generieren. Dieser Ansatz, der darauf abzielt, das Schreiben von Code zu minimieren, ahmt die Logik erfahrener Softwareentwickler nach, die die einfachsten und direktesten Methoden komplexen Lösungen vorziehen.",
+          "meta": "JavaScript · ★ 122.431 · +1.354 heute",
+          "snapshot": {
+            "sourceId": "DietrichGebert/ponytail",
+            "capturedAt": "2026-09-03T08:34:24.569Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 122431,
+              "engagementCount": 1354,
+              "rank": 3,
+              "extra": {
+                "starsToday": 1354
+              }
+            }
+          }
+        },
+        {
+          "title": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "summary": "VoiceStudio ist eine Open-Source-Plattform zur Audioverarbeitung, die Aufgaben wie Stimmenklonen, Synchronisation und Transkription ohne Internetverbindung durchführt. Sie bietet eine lokal ausführbare Alternative zum Sprachsynthesedienst ElevenLabs und unterstützt 646 Sprachen.",
+          "meta": "Python · ★ 15.394 · +832 heute",
+          "snapshot": {
+            "sourceId": "debpalash/VoiceStudio",
+            "capturedAt": "2026-09-03T08:34:24.569Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 15394,
+              "engagementCount": 832,
+              "rank": 4,
+              "extra": {
+                "starsToday": 832
+              }
+            }
+          }
+        },
+        {
+          "title": "sngyai/Sequoia-X",
+          "url": "https://github.com/sngyai/Sequoia-X",
+          "summary": "Sequoia-X ist eine Python-basierte Software, die chinesische Börsendaten verwendet, um automatisch Aktien basierend auf technischen Analyseformeln auszuwählen. Sie führt nach Börsenschluss Scans durch und übermittelt die Ergebnisse über die Unternehmens-Messaging-App Feishu.",
+          "meta": "Python · ★ 6.376 · +63 heute",
+          "snapshot": {
+            "sourceId": "sngyai/Sequoia-X",
+            "capturedAt": "2026-09-03T08:34:24.569Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 6376,
+              "engagementCount": 63,
+              "rank": 5,
+              "extra": {
+                "starsToday": 63
+              }
+            }
+          }
+        },
+        {
+          "title": "ChromeDevTools/chrome-devtools-mcp",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "summary": "Dieser für Chrome DevTools entwickelte Server ermöglicht es KI-Agenten, die programmieren, direkt auf Browser-Tools (Chrome DevTools) zuzugreifen. Diese Integration, die über das Model Context Protocol funktioniert, ermöglicht es Agenten, Webseiten zu analysieren und Debugging-Prozesse zu automatisieren.",
+          "meta": "TypeScript · ★ 50.770 · +148 heute",
+          "snapshot": {
+            "sourceId": "ChromeDevTools/chrome-devtools-mcp",
+            "capturedAt": "2026-09-03T08:34:24.569Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 50770,
+              "engagementCount": 148,
+              "rank": 6,
+              "extra": {
+                "starsToday": 148
+              }
+            }
+          }
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "summary": "Der von NousResearch entwickelte Hermes Agent ist ein KI-Agent, der aus Benutzerinteraktionen lernt und seine Fähigkeiten im Laufe der Zeit verbessert. Dieses Python-basierte System zielt darauf ab, personalisiertes Aufgabenmanagement und kontinuierliche Lernprozesse (Continuous Learning) zu automatisieren.",
+          "meta": "Python · ★ 240.382 · +533 heute",
+          "snapshot": {
+            "sourceId": "NousResearch/hermes-agent",
+            "capturedAt": "2026-09-03T08:34:24.569Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 240382,
+              "engagementCount": 533,
+              "rank": 7,
+              "extra": {
+                "starsToday": 533
+              }
+            }
+          }
+        },
+        {
+          "title": "superlinked/sie",
+          "url": "https://github.com/superlinked/sie",
+          "summary": "SIE, entwickelt von Superlinked, ist ein Open-Source-Inferenzserver und Produktionscluster, der zum Ausführen von Modellen verwendet wird, die von KI-Agenten benötigt werden. Diese Python-basierte Struktur zielt darauf ab, komplexe Modellbereitstellungen zu verwalten und eine skalierbare Infrastruktur bereitzustellen.",
+          "meta": "Python · ★ 3.155 · +60 heute",
+          "snapshot": {
+            "sourceId": "superlinked/sie",
+            "capturedAt": "2026-09-03T08:34:24.569Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 3155,
+              "engagementCount": 60,
+              "rank": 8,
+              "extra": {
+                "starsToday": 60
+              }
+            }
+          }
+        },
+        {
+          "title": "pacifio/atlas",
+          "url": "https://github.com/pacifio/atlas",
+          "summary": "Atlas ist ein Quellcodeverwaltungssystem (Source Control) für KI-Agenten, die in Softwareentwicklungsprozessen eingesetzt werden. Es ermöglicht die Überwachung und Abfrage von Änderungen, die von mehreren Programmieragenten vorgenommen wurden, von einem zentralen Punkt aus.",
+          "meta": "Rust · ★ 3.056 · +888 heute",
+          "snapshot": {
+            "sourceId": "pacifio/atlas",
+            "capturedAt": "2026-09-03T08:34:24.569Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 3056,
+              "engagementCount": 888,
+              "rank": 9,
+              "extra": {
+                "starsToday": 888
+              }
+            }
+          }
+        },
+        {
+          "title": "zyronon/TypeWords",
+          "url": "https://github.com/zyronon/TypeWords",
+          "summary": "TypeWords ist ein Schreibübungstool mit einer Vue-basierten Oberfläche, das es Benutzern ermöglicht, ihre Tippgeschwindigkeit zu verbessern und gleichzeitig Englisch zu üben. Die Software verwandelt jeden Tastendruck in einen Lernschritt und unterstützt Sprachkenntnisse durch Gamification.",
+          "meta": "Vue · ★ 9.516 · +21 heute",
+          "snapshot": {
+            "sourceId": "zyronon/TypeWords",
+            "capturedAt": "2026-09-03T08:34:24.569Z",
+            "metadata": {
+              "language": "Vue",
+              "popularity": 9516,
+              "engagementCount": 21,
+              "rank": 10,
+              "extra": {
+                "starsToday": 21
+              }
+            }
+          }
+        },
+        {
+          "title": "Imbad0202/academic-research-skills",
+          "url": "https://github.com/Imbad0202/academic-research-skills",
+          "summary": "Academic Research Skills ist ein für Claude Code entwickeltes Toolset, das akademische Prozesse durch die Phasen Recherche, Schreiben, Überprüfung, Bearbeitung und Finalisierung automatisiert. Diese Python-basierte Struktur zielt darauf ab, Arbeitsabläufe bei der Erstellung akademischer Texte zu standardisieren.",
+          "meta": "Python · ★ 45.761 · +799 heute",
+          "snapshot": {
+            "sourceId": "Imbad0202/academic-research-skills",
+            "capturedAt": "2026-09-03T08:34:24.569Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 45761,
+              "engagementCount": 799,
+              "rank": 11,
+              "extra": {
+                "starsToday": 799
+              }
+            }
+          }
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC ist ein Leistungsoptimierungssystem, das Fähigkeiten-, Speicher- und Sicherheitsebenen für KI-Agenten optimiert. Es zielt darauf ab, die Arbeitseffizienz von Agenten für Coding-Assistenten wie Claude Code und KI-gestützte Code-Editoren wie Cursor zu steigern.",
+          "meta": "JavaScript · ★ 246.602 · +516 heute",
+          "snapshot": {
+            "sourceId": "affaan-m/ECC",
+            "capturedAt": "2026-09-03T08:34:24.569Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 246602,
+              "engagementCount": 516,
+              "rank": 12,
+              "extra": {
+                "starsToday": 516
+              }
+            }
+          }
+        },
+        {
+          "title": "protocolbuffers/protobuf",
+          "url": "https://github.com/protocolbuffers/protobuf",
+          "summary": "Protocol Buffers, entwickelt von Google, ist ein sprachunabhängiges Datenaustauschformat, das die Serialisierung von Daten in einer strukturierten Form ermöglicht. Dieses Tool, das eine schnelle und effiziente Kommunikation zwischen Softwaresystemen ermöglicht, standardisiert den Datenaustausch, insbesondere in Microservice-Architekturen.",
+          "meta": "C++ · ★ 71.979 · +18 heute",
+          "snapshot": {
+            "sourceId": "protocolbuffers/protobuf",
+            "capturedAt": "2026-09-03T08:34:24.569Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 71979,
+              "engagementCount": 18,
+              "rank": 13,
+              "extra": {
+                "starsToday": 18
+              }
+            }
+          }
+        },
+        {
+          "title": "vercel-labs/portless",
+          "url": "https://github.com/vercel-labs/portless",
+          "summary": "Portless, entwickelt von Vercel Labs, wandelt Portnummern, die in lokalen Entwicklungsumgebungen verwendet werden, in dauerhafte und benannte URL-Adressen um. Dieses Tool ermöglicht es sowohl Softwareentwicklern als auch autonomen KI-Agenten, einfacher mit lokalen Diensten zu interagieren.",
+          "meta": "TypeScript · ★ 11.944 · +73 heute",
+          "snapshot": {
+            "sourceId": "vercel-labs/portless",
+            "capturedAt": "2026-09-03T08:34:24.569Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 11944,
+              "engagementCount": 73,
+              "rank": 14,
+              "extra": {
+                "starsToday": 73
+              }
+            }
+          }
+        },
+        {
+          "title": "blader/humanizer",
+          "url": "https://github.com/blader/humanizer",
+          "summary": "Humanizer ist eine Python-Bibliothek, die charakteristische Muster in KI-generierten Texten entfernt und den Inhalt in eine natürlichere Ausdrucksweise umwandelt. Dieses Tool, das dafür sorgt, dass geschriebene Texte wie von Menschenhand verfasst wirken, zielt darauf ab, die Erkennung von Systemen zur automatischen Inhaltserstellung zu erschweren.",
+          "meta": "Python · ★ 40.841 · +374 heute",
+          "snapshot": {
+            "sourceId": "blader/humanizer",
+            "capturedAt": "2026-09-03T08:34:24.569Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 40841,
+              "engagementCount": 374,
+              "rank": 15,
+              "extra": {
+                "starsToday": 374
+              }
+            }
+          }
+        },
+        {
+          "title": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "summary": "Caveman ist ein für Claude Code entwickeltes Fähigkeitspaket, das den Sprachgebrauch des KI-Modells vereinfacht und den Token-Verbrauch um 65 Prozent reduziert. Durch die Umwandlung komplexer Ausdrücke in einen primitiven Erzählstil zielt es darauf ab, die Verarbeitungskosten des Modells zu senken.",
+          "meta": "Go · ★ 102.816 · +238 heute",
+          "snapshot": {
+            "sourceId": "JuliusBrussee/caveman",
+            "capturedAt": "2026-09-03T08:34:24.569Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 102816,
+              "engagementCount": 238,
+              "rank": 16,
+              "extra": {
+                "starsToday": 238
+              }
+            }
+          }
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Das von Matt Pocock geteilte Skills-Repository enthält vorgefertigte Befehlssequenzen und Konfigurationsdateien, die Softwareingenieure zur Anpassung von KI-Agenten verwenden. Diese Sammlung bietet Entwicklern, die komplexe Aufgaben automatisieren möchten, fertige Vorlagen.",
+          "meta": "Shell · ★ 245.748 · +1.166 heute",
+          "snapshot": {
+            "sourceId": "mattpocock/skills",
+            "capturedAt": "2026-09-03T08:34:24.569Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 245748,
+              "engagementCount": 1166,
+              "rank": 17,
+              "extra": {
+                "starsToday": 1166
+              }
+            }
+          }
+        },
+        {
+          "title": "Gitlawb/openclaude",
+          "url": "https://github.com/Gitlawb/openclaude",
+          "summary": "OpenClaude ist ein flexibles, auf TypeScript basierendes Framework, das auf verschiedenen Hardware- und Infrastrukturen läuft und eine Vielzahl von KI-Modellen unterstützt. Es ermöglicht Entwicklern, ihre eigenen KI-Workflows in lokalen oder cloudbasierten Systemen zu erstellen.",
+          "meta": "TypeScript · ★ 32.132 · +775 heute",
+          "snapshot": {
+            "sourceId": "Gitlawb/openclaude",
+            "capturedAt": "2026-09-03T08:34:24.569Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 32132,
+              "engagementCount": 775,
+              "rank": 18,
+              "extra": {
+                "starsToday": 775
+              }
+            }
+          }
+        },
+        {
+          "title": "firecrawl/pdf-inspector",
+          "url": "https://github.com/firecrawl/pdf-inspector",
+          "summary": "Der von Firecrawl entwickelte PDF Inspector ist eine schnelle Rust-Bibliothek, die zum Untersuchen, Klassifizieren und Extrahieren von Texten aus PDF-Dateien verwendet wird. Durch die Unterscheidung zwischen gescannten Dokumenten und textbasierten Dateien ermöglicht er intelligente Entscheidungen bei der Datenverarbeitung.",
+          "meta": "Rust · ★ 18.679 · +586 heute",
+          "snapshot": {
+            "sourceId": "firecrawl/pdf-inspector",
+            "capturedAt": "2026-09-03T08:34:24.569Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 18679,
+              "engagementCount": 586,
+              "rank": 19,
+              "extra": {
+                "starsToday": 586
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+          "summary": "Google hat die neuen KI-Modelle Gemini 3.8 Flash und Gemini 3.8 Flash Cyber angekündigt, die für schnelle und effiziente Prozesse konzipiert sind. Diese Modelle zielen darauf ab, bei der Text- und Codeverarbeitung eine hohe Leistung bei geringer Latenz zu bieten.",
+          "meta": "993 Punkte · 566 Kommentare",
+          "snapshot": {
+            "sourceId": "49537553",
+            "capturedAt": "2026-09-03T08:34:23.358Z",
+            "metadata": {
+              "popularity": 993,
+              "engagementCount": 566,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49537553",
+                  "popularity": 993,
+                  "engagementCount": 566
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "bratao",
+                "createdAt": "2026-09-02T15:12:40Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49537553"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49537553",
+              "popularity": 993,
+              "engagementCount": 566
+            }
+          ]
+        },
+        {
+          "title": "Muse Spark 1.3",
+          "url": "https://developer.meta.com/ai/models/muse-spark/",
+          "summary": "Muse Spark 1.3, entwickelt von Meta, ist ein generatives KI-Modell, das Textbefehle in hochwertige Bild- und Videoinhalte umwandelt. Das System verwendet eine neue Architektur, die entwickelt wurde, um Geschwindigkeit und Konsistenz bei der Bilderstellung zu erhöhen.",
+          "meta": "553 Punkte · 378 Kommentare",
+          "snapshot": {
+            "sourceId": "49541256",
+            "capturedAt": "2026-09-03T08:34:23.358Z",
+            "metadata": {
+              "popularity": 553,
+              "engagementCount": 378,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49541256",
+                  "popularity": 553,
+                  "engagementCount": 378
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "bvaldivielso",
+                "createdAt": "2026-09-02T19:35:04Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49541256"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49541256",
+              "popularity": 553,
+              "engagementCount": 378
+            }
+          ]
+        },
+        {
+          "title": "Can I opt out of my input or output data being used for training?",
+          "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+          "summary": "Benutzer haben das Recht, die Verwendung ihrer eigenen Eingabe- und Ausgabedaten bei den Trainingsprozessen der von Mistral AI angebotenen KI-Modelle zu untersagen. Diese Einstellung kann über das Einstellungsmenü der jeweiligen Plattform durch Ändern der Berechtigungen zur Datenverarbeitung verwaltet werden.",
+          "meta": "432 Punkte · 194 Kommentare",
+          "snapshot": {
+            "sourceId": "49535284",
+            "capturedAt": "2026-09-03T08:34:23.358Z",
+            "metadata": {
+              "popularity": 432,
+              "engagementCount": 194,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49535284",
+                  "popularity": 432,
+                  "engagementCount": 194
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "teekert",
+                "createdAt": "2026-09-02T12:30:39Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49535284"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49535284",
+              "popularity": 432,
+              "engagementCount": 194
+            }
+          ]
+        },
+        {
+          "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+          "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+          "summary": "Einige Websites erstellen Tausende von automatisierten „Beste Software“-Seiten, um die Empfehlungen von KI-Suchmaschinen zu manipulieren. Diese inhaltsfarmartigen Seiten werden von Perplexity, einer KI-Suchmaschine, die beim Generieren von Antworten das Web durchsucht, als vertrauenswürdige Quellen referenziert.",
+          "meta": "398 Punkte · 191 Kommentare",
+          "snapshot": {
+            "sourceId": "49536375",
+            "capturedAt": "2026-09-03T08:34:23.358Z",
+            "metadata": {
+              "popularity": 398,
+              "engagementCount": 191,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49536375",
+                  "popularity": 398,
+                  "engagementCount": 191
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "jakobgreenfeld",
+                "createdAt": "2026-09-02T13:59:59Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49536375"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49536375",
+              "popularity": 398,
+              "engagementCount": 191
+            }
+          ]
+        },
+        {
+          "title": "Google avoids a breakup of its ad tech business",
+          "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+          "summary": "Google hat in einem Kartellverfahren, das den Verkauf seiner digitalen Werbetechnologiesparte forderte, einen wichtigen juristischen Sieg errungen. Die Gerichtsentscheidung ermöglicht es dem Unternehmen, seine Werbetechnologie-Aktivitäten (Ad Tech) fortzusetzen, ohne diese abspalten zu müssen.",
+          "meta": "364 Punkte · 274 Kommentare",
+          "snapshot": {
+            "sourceId": "49537131",
+            "capturedAt": "2026-09-03T08:34:23.358Z",
+            "metadata": {
+              "popularity": 364,
+              "engagementCount": 274,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49537131",
+                  "popularity": 364,
+                  "engagementCount": 274
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "donohoe",
+                "createdAt": "2026-09-02T14:46:16Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49537131"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49537131",
+              "popularity": 364,
+              "engagementCount": 274
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "zai-org/GLM-5.3",
+          "url": "https://huggingface.co/zai-org/GLM-5.3",
+          "summary": "Das von Zai-org entwickelte GLM-5.3 ist ein auf Textgenerierung (text generation) fokussiertes KI-Modell. Dieses auf HuggingFace veröffentlichte Open-Source-Modell bietet Fähigkeiten zur Texterstellung bei Aufgaben der natürlichen Sprachverarbeitung.",
+          "meta": "♥ 1.546 · 94.403 Downloads",
+          "snapshot": {
+            "sourceId": "zai-org/GLM-5.3",
+            "capturedAt": "2026-09-03T08:34:23.177Z",
+            "metadata": {
+              "popularity": 1546,
+              "engagementCount": 94403,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1264,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "glm_moe_dsa",
+                  "text-generation",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "arxiv:2602.15763",
+                  "license:other",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen3.8-Flash-Next",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+          "summary": "Das von Alibaba entwickelte Qwen3.8-Flash-Next ist ein multimodales KI-Modell (multimodal model), das visuelle und textuelle Eingaben verarbeitet, um Textausgaben zu generieren. Dieses Modell arbeitet mit geringer Latenz und wurde für visuelle Analyseaufgaben optimiert, die eine schnelle Datenverarbeitung erfordern.",
+          "meta": "♥ 4.751 · 207.941 Downloads",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-Flash-Next",
+            "capturedAt": "2026-09-03T08:34:23.177Z",
+            "metadata": {
+              "popularity": 4751,
+              "engagementCount": 207941,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 782,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen4_exp",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:other",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "zai-org/GLM-5.3-Flash",
+          "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+          "summary": "Das von Zai-org entwickelte GLM-5.3-Flash ist ein multimodales KI-Modell (multimodal model), das visuelle und textuelle Daten verarbeitet, um Ausgaben zu generieren. Es zeichnet sich durch seine Fähigkeit aus, textbasierte Antworten mit geringer Latenz zu erstellen.",
+          "meta": "♥ 1.987 · 441.348 Downloads",
+          "snapshot": {
+            "sourceId": "zai-org/GLM-5.3-Flash",
+            "capturedAt": "2026-09-03T08:34:23.177Z",
+            "metadata": {
+              "popularity": 1987,
+              "engagementCount": 441348,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 773,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "glm5_next",
+                  "image-text-to-text",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "arxiv:2602.15763",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Das von Alibaba entwickelte Qwen2.5-27B ist ein multimodales KI-Modell, das sowohl visuelle als auch textuelle Daten verarbeiten kann. Dieses auf der Open-Source-KI-Plattform Hugging Face verfügbare Modell analysiert komplexe visuelle Inhalte und generiert textbasierte Antworten.",
+          "meta": "♥ 13.731 · 4.960.483 Downloads",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-27B",
+            "capturedAt": "2026-09-03T08:34:23.177Z",
+            "metadata": {
+              "popularity": 13731,
+              "engagementCount": 4960483,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 552,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "deploy:azure",
+                  "deploy:sagemaker",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+          "summary": "Das von DeepSeek entwickelte DeepSeek-V4-Flash-Vision-Exp ist ein multimodales KI-Modell (multimodal AI), das visuelle und textuelle Daten verarbeitet, um textbasierte Ausgaben zu erzeugen. Das Modell zielt darauf ab, die Prozesse der Bildanalyse und der darauf basierenden Inhaltserstellung zu beschleunigen.",
+          "meta": "♥ 515 · 17.893 Downloads",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+            "capturedAt": "2026-09-03T08:34:23.177Z",
+            "metadata": {
+              "popularity": 515,
+              "engagementCount": 17893,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 495,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v4",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "ZipTok3D: High-Fidelity 3D Tokenization with Compact Token Prefixes",
+          "url": "https://huggingface.co/papers/2609.01740",
+          "summary": "ZipTok3D ist ein 3D-Tokenisierer (3D tokenizer), der die Geometrie dreidimensionaler Objekte schrittweise bearbeitet und so eine hochpräzise Rekonstruktion aus sehr kurzen Token-Sequenzen ermöglicht. Diese Methode unterstützt effiziente Produktionsprozesse, indem sie die Qualität von 3D-Modellen selbst bei begrenzter Datenkapazität bewahrt.",
+          "meta": "9 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.01740",
+            "capturedAt": "2026-09-03T08:34:23.224Z",
+            "metadata": {
+              "popularity": 9,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.01740",
+                "publishedAt": "2026-09-01T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "SnapBench: Benchmarking Snap-and-Ask Multimodal Retrieval for Mobile Interactions",
+          "url": "https://huggingface.co/papers/2608.29607",
+          "summary": "SnapBench ist das erste multimodale Benchmark-Tool, das Informationsabfrageprozesse anhand von Fotos misst, die mit Mobilgeräten aufgenommen wurden. Dieser Testsatz, der reale Bedingungen wie unscharfe Bilder oder falsch geschriebene Texte enthält, zielt darauf ab, die Leistung von KI-Modellen bei visuellen Abfragen zu verbessern.",
+          "meta": "3 Likes · 2 Kommentare",
+          "snapshot": {
+            "sourceId": "2608.29607",
+            "capturedAt": "2026-09-03T08:34:23.224Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.29607",
+                "publishedAt": "2026-08-30T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "VibeVoice-ASR-Streaming Technical Report",
+          "url": "https://huggingface.co/papers/2609.02812",
+          "summary": "VibeVoice-ASR-Streaming ist ein End-to-End-System, das Spracherkennung (ASR) und Sprecherdiarisierung (speaker diarization) in einem einzigen Modell vereint. Dieser auf einem großen Sprachmodell (LLM) basierende Ansatz bietet die für Echtzeit-Sprachassistenten erforderliche Unterstützung für Live-Streaming mit geringer Latenz.",
+          "meta": "7 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.02812",
+            "capturedAt": "2026-09-03T08:34:23.224Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.02812",
+                "publishedAt": "2026-09-02T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "A Glance Is All You Need: Single-Pass Fine-Grained Image Captioning with SimLoss",
+          "url": "https://huggingface.co/papers/2609.00591",
+          "summary": "SimLoss ist eine neue Methode, die die Fähigkeit von Vision-Language-Modellen zur detaillierten Bildbeschreibung durch einen Single-Pass-Prozess verbessert. Sie eliminiert die durch mehrstufige Systeme verursachte Verarbeitungsverzögerung und zielt darauf ab, feine Details wie Objektmerkmale, Texturen und räumliche Beziehungen schneller zu identifizieren.",
+          "meta": "7 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.00591",
+            "capturedAt": "2026-09-03T08:34:23.224Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.00591",
+                "publishedAt": "2026-09-01T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "CRISP: Cliff-awaRe Input-adaptive Sparse Prefilling with Structural-Mass-Motivated Routing",
+          "url": "https://huggingface.co/papers/2609.01925",
+          "summary": "CRISP ist eine neue Methode zur Beschleunigung der Prefilling-Phase, die den Inferenzprozess bei großen Sprachmodellen (LLM) mit langem Kontext verlangsamt. Durch einen spärlichen Aufmerksamkeitsmechanismus (sparse attention), der sich dynamisch an die Eingabedaten anpasst, reduziert es die Rechenlast und steigert die Modellleistung.",
+          "meta": "5 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.01925",
+            "capturedAt": "2026-09-03T08:34:23.224Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.01925",
+                "publishedAt": "2026-09-01T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "A note on subscription prices from LWN",
+          "url": "https://lwn.net/Articles/1090585/",
+          "summary": "Die Technologie-Nachrichtenseite LWN.net hat angekündigt, ihre Abonnementgebühren aufgrund der Inflation und veränderter Lesegewohnheiten anzupassen. Die Plattform strukturiert ihre Preisstrategie für ein nachhaltiges Publikationsmodell neu.",
+          "meta": "87 Punkte · 8 Kommentare",
+          "snapshot": {
+            "sourceId": "krcehd",
+            "capturedAt": "2026-09-03T08:34:23.467Z",
+            "metadata": {
+              "popularity": 87,
+              "engagementCount": 8,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/krcehd/note_on_subscription_prices_from_lwn",
+                  "popularity": 87,
+                  "engagementCount": 8
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "linux"
+                ],
+                "createdAt": "2026-09-02T10:20:29.658-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/krcehd/note_on_subscription_prices_from_lwn",
+              "popularity": 87,
+              "engagementCount": 8
+            }
+          ]
+        },
+        {
+          "title": "Normalized Fascism in Open Source: $12 Million Given to DHH",
+          "url": "https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/",
+          "summary": "In der Open-Source-Welt hat die 12-Millionen-Dollar-Investition in DHH, den Gründer der Softwareentwicklungsplattform Basecamp, ideologische Debatten innerhalb der Community ausgelöst. Diese Finanzierungsentscheidung brachte Kritik hinsichtlich der Kommerzialisierung von Open-Source-Projekten und des Einflusses der politischen Ansichten der Entwickler auf die Projekte mit sich.",
+          "meta": "416 Punkte · 332 Kommentare",
+          "snapshot": {
+            "sourceId": "ipy9xw",
+            "capturedAt": "2026-09-03T08:34:23.467Z",
+            "metadata": {
+              "popularity": 416,
+              "engagementCount": 332,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/ipy9xw/normalized_fascism_open_source_12",
+                  "popularity": 416,
+                  "engagementCount": 332
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "culture"
+                ],
+                "createdAt": "2026-09-02T01:31:38.073-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ipy9xw/normalized_fascism_open_source_12",
+              "popularity": 416,
+              "engagementCount": 332
+            }
+          ]
+        },
+        {
+          "title": "Static Allocation, Constant Work",
+          "url": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
+          "summary": "Die statische Speicherzuweisung (static allocation) sorgt für Leistungsstabilität bei konstanter Arbeitslast, indem sie den Overhead der Ressourcenverwaltung zur Laufzeit reduziert. Dieser Ansatz erhöht die Vorhersehbarkeit des Systems, indem die Speicherverwaltung bereits in der Kompilierungsphase gelöst wird.",
+          "meta": "33 Punkte · 6 Kommentare",
+          "snapshot": {
+            "sourceId": "m4iwq4",
+            "capturedAt": "2026-09-03T08:34:23.467Z",
+            "metadata": {
+              "popularity": 33,
+              "engagementCount": 6,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/m4iwq4/static_allocation_constant_work",
+                  "popularity": 33,
+                  "engagementCount": 6
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "zig"
+                ],
+                "createdAt": "2026-09-02T13:19:13.877-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/m4iwq4/static_allocation_constant_work",
+              "popularity": 33,
+              "engagementCount": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "foundation model",
+      "explanation": "Eine grundlegende KI-Struktur, die mit riesigen Datenmengen vorab trainiert wurde, um eine Vielzahl unterschiedlicher Aufgaben erfüllen zu können."
+    },
+    {
+      "term": "Chrome DevTools",
+      "explanation": "Ein in den Internetbrowser integrierter Satz von Werkzeugen, mit dem Sie untersuchen können, wie Websites funktionieren, und Fehler beheben können."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Eine gemeinsame Verbindungssprache, die es KI-Systemen ermöglicht, sicher und standardisiert mit verschiedenen Datenquellen zu kommunizieren."
+    },
+    {
+      "term": "continuous learning",
+      "explanation": "Der Prozess, bei dem ein System kontinuierlich lernt, indem es sich bei der Begegnung mit neuen Informationen ständig aktualisiert."
+    },
+    {
+      "term": "inference server",
+      "explanation": "Ein leistungsstarkes Computersystem, das ein trainiertes KI-Modell ausführt und sofortige Antworten auf eingehende Fragen generiert."
+    },
+    {
+      "term": "source control",
+      "explanation": "Ein Nachverfolgungssystem, das alle bei der Softwareentwicklung vorgenommenen Änderungen aufzeichnet und zur Verwaltung verschiedener Versionen dient."
+    },
+    {
+      "term": "serialization",
+      "explanation": "Die Umwandlung einer komplexen Datenstruktur in einen einfachen Text oder eine Byte-Sequenz, damit sie an einen anderen Ort übertragen oder gespeichert werden kann."
+    },
+    {
+      "term": "microservices",
+      "explanation": "Eine Methode zur Verwaltung einer großen Software, indem sie in kleine und unabhängige Teile zerlegt wird, von denen jeder für sich allein funktioniert."
+    },
+    {
+      "term": "token",
+      "explanation": "Die kleinste Bedeutungseinheit, die Wörtern oder Silbenteilen entspricht und von KI-Modellen bei der Verarbeitung von Texten verwendet wird."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Autonome KI-Programme, die selbstständig Entscheidungen treffen und Aufgaben unter Verwendung von Werkzeugen ausführen können, um bestimmte Ziele zu erreichen."
+    },
+    {
+      "term": "framework",
+      "explanation": "Ein grundlegendes Gerüst, das die Softwareentwicklung erleichtert und eine Sammlung von vorgefertigten Codestrukturen und Regeln bietet."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Eine Technologie, die auf Basis der gelernten Daten neue, bisher nicht existierende Texte, Bilder oder Töne erzeugen kann."
+    },
+    {
+      "term": "data processing",
+      "explanation": "Der Prozess der Aufbereitung von Rohdaten, um sie in analysierbare oder nutzbare, aussagekräftige Ergebnisse umzuwandeln."
+    },
+    {
+      "term": "ad tech",
+      "explanation": "Digitale Werkzeuge, die verwendet werden, um Online-Werbung an die Zielgruppe zu liefern, zu verwalten und zu messen."
+    },
+    {
+      "term": "text generation",
+      "explanation": "Die Erstellung von Inhalten durch den Computer, indem er gemäß den gegebenen Befehlen natürliche und sinnvolle Sätze bildet."
+    },
+    {
+      "term": "multimodal model",
+      "explanation": "Künstliche Intelligenz, die nicht nur Text, sondern gleichzeitig auch verschiedene Datentypen wie Bilder, Töne und Videos verstehen und verarbeiten kann."
+    }
+  ]
+}

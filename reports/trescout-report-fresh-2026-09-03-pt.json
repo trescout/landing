@@ -1,0 +1,620 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-03",
+  "capturedAt": "2026-09-03T08:34:23.045Z",
+  "editorial": "Este relatório contém as tendências que se destacaram pela primeira vez hoje, sem repetir os registros incluídos nos relatórios normais dos últimos 30 dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "fmtlib/fmt",
+          "url": "https://github.com/fmtlib/fmt",
+          "summary": "fmt é uma biblioteca moderna de formatação de texto desenvolvida para a linguagem de programação C++. Ela oferece uma alternativa mais rápida e segura aos métodos printf e iostream da biblioteca padrão de C++.",
+          "meta": "C++ · ★ 24.572 · +14 hoje",
+          "snapshot": {
+            "sourceId": "fmtlib/fmt",
+            "capturedAt": "2026-09-03T08:34:24.569Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 24572,
+              "engagementCount": 14,
+              "rank": 1,
+              "extra": {
+                "starsToday": 14
+              }
+            }
+          }
+        },
+        {
+          "title": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "summary": "O TimesFM, desenvolvido pela Google Research, é um modelo de base (foundation model) projetado para operações de previsão de séries temporais. Esta ferramenta baseada em Python, com sua estrutura pré-treinada em diferentes conjuntos de dados, permite analisar dados numéricos voltados para o futuro.",
+          "meta": "Python · ★ 30.345 · +343 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "google-research/timesfm",
+            "capturedAt": "2026-09-03T08:34:24.569Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 30345,
+              "engagementCount": 343,
+              "rank": 2,
+              "extra": {
+                "starsToday": 343
+              }
+            }
+          }
+        },
+        {
+          "title": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "summary": "VoiceStudio é uma plataforma de processamento de áudio de código aberto que realiza operações como clonagem de voz, dublagem e transcrição sem a necessidade de internet. Oferece uma alternativa que pode ser executada localmente ao serviço de síntese de voz ElevenLabs e suporta 646 idiomas.",
+          "meta": "Python · ★ 15.394 · +832 hoje",
+          "snapshot": {
+            "sourceId": "debpalash/VoiceStudio",
+            "capturedAt": "2026-09-03T08:34:24.569Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 15394,
+              "engagementCount": 832,
+              "rank": 4,
+              "extra": {
+                "starsToday": 832
+              }
+            }
+          }
+        },
+        {
+          "title": "sngyai/Sequoia-X",
+          "url": "https://github.com/sngyai/Sequoia-X",
+          "summary": "Sequoia-X é um software baseado em Python que realiza a seleção automática de ações de acordo com fórmulas de análise técnica, utilizando dados da bolsa de valores da China. Ele realiza processos de varredura após o fechamento do mercado no final do dia e envia os resultados através do Feishu, um aplicativo de mensagens corporativas.",
+          "meta": "Python · ★ 6.376 · +63 hoje",
+          "snapshot": {
+            "sourceId": "sngyai/Sequoia-X",
+            "capturedAt": "2026-09-03T08:34:24.569Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 6376,
+              "engagementCount": 63,
+              "rank": 5,
+              "extra": {
+                "starsToday": 63
+              }
+            }
+          }
+        },
+        {
+          "title": "superlinked/sie",
+          "url": "https://github.com/superlinked/sie",
+          "summary": "O SIE, desenvolvido pela Superlinked, é um servidor de inferência (inference server) de código aberto e um cluster de produção usado para executar os modelos necessários para agentes de inteligência artificial. Esta estrutura baseada em Python visa gerenciar implantações complexas de modelos e oferecer uma infraestrutura escalável.",
+          "meta": "Python · ★ 3.155 · +60 hoje",
+          "snapshot": {
+            "sourceId": "superlinked/sie",
+            "capturedAt": "2026-09-03T08:34:24.569Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 3155,
+              "engagementCount": 60,
+              "rank": 8,
+              "extra": {
+                "starsToday": 60
+              }
+            }
+          }
+        },
+        {
+          "title": "pacifio/atlas",
+          "url": "https://github.com/pacifio/atlas",
+          "summary": "Atlas é um sistema de controle de versão (source control) para agentes de inteligência artificial usados em processos de desenvolvimento de software. Ele permite monitorar e consultar as alterações feitas por vários agentes de codificação a partir de um único centro.",
+          "meta": "Rust · ★ 3.056 · +888 hoje",
+          "snapshot": {
+            "sourceId": "pacifio/atlas",
+            "capturedAt": "2026-09-03T08:34:24.569Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 3056,
+              "engagementCount": 888,
+              "rank": 9,
+              "extra": {
+                "starsToday": 888
+              }
+            }
+          }
+        },
+        {
+          "title": "zyronon/TypeWords",
+          "url": "https://github.com/zyronon/TypeWords",
+          "summary": "TypeWords é uma ferramenta de exercício de digitação que, com sua interface baseada em Vue, permite que os usuários melhorem sua velocidade de digitação enquanto praticam inglês. O software transforma cada pressionamento de tecla em um passo de aprendizado, apoiando as habilidades linguísticas por meio da gamificação.",
+          "meta": "Vue · ★ 9.516 · +21 hoje",
+          "snapshot": {
+            "sourceId": "zyronon/TypeWords",
+            "capturedAt": "2026-09-03T08:34:24.569Z",
+            "metadata": {
+              "language": "Vue",
+              "popularity": 9516,
+              "engagementCount": 21,
+              "rank": 10,
+              "extra": {
+                "starsToday": 21
+              }
+            }
+          }
+        },
+        {
+          "title": "vercel-labs/portless",
+          "url": "https://github.com/vercel-labs/portless",
+          "summary": "Desenvolvido pela Vercel Labs, o Portless converte números de porta usados em ambientes de desenvolvimento local em endereços URL permanentes e nomeados. Esta ferramenta permite que tanto desenvolvedores quanto agentes autônomos de IA interajam mais facilmente com serviços locais.",
+          "meta": "TypeScript · ★ 11.944 · +73 hoje",
+          "snapshot": {
+            "sourceId": "vercel-labs/portless",
+            "capturedAt": "2026-09-03T08:34:24.569Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 11944,
+              "engagementCount": 73,
+              "rank": 14,
+              "extra": {
+                "starsToday": 73
+              }
+            }
+          }
+        },
+        {
+          "title": "blader/humanizer",
+          "url": "https://github.com/blader/humanizer",
+          "summary": "Humanizer é uma biblioteca Python que remove padrões característicos de textos gerados por inteligência artificial, transformando o conteúdo em uma narrativa mais natural. Esta ferramenta, que faz com que textos escritos pareçam ter sido produzidos por humanos, visa dificultar a detecção de sistemas de geração automática de conteúdo.",
+          "meta": "Python · ★ 40.841 · +374 hoje",
+          "snapshot": {
+            "sourceId": "blader/humanizer",
+            "capturedAt": "2026-09-03T08:34:24.569Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 40841,
+              "engagementCount": 374,
+              "rank": 15,
+              "extra": {
+                "starsToday": 374
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+          "summary": "O Google anunciou os novos modelos de inteligência artificial Gemini 3.8 Flash e Gemini 3.8 Flash Cyber, projetados para operações rápidas e eficientes. Esses modelos visam oferecer alto desempenho em processos de processamento de texto e código com baixa latência.",
+          "meta": "993 pontos · 566 comentários",
+          "snapshot": {
+            "sourceId": "49537553",
+            "capturedAt": "2026-09-03T08:34:23.358Z",
+            "metadata": {
+              "popularity": 993,
+              "engagementCount": 566,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49537553",
+                  "popularity": 993,
+                  "engagementCount": 566
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "bratao",
+                "createdAt": "2026-09-02T15:12:40Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49537553"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49537553",
+              "popularity": 993,
+              "engagementCount": 566
+            }
+          ]
+        },
+        {
+          "title": "Muse Spark 1.3",
+          "url": "https://developer.meta.com/ai/models/muse-spark/",
+          "summary": "Desenvolvido pela Meta, o Muse Spark 1.3 é um modelo de inteligência artificial generativa que converte comandos de texto em conteúdo visual e de vídeo de alta qualidade. O sistema utiliza uma nova arquitetura desenvolvida para aumentar a velocidade e a consistência nos processos de criação visual.",
+          "meta": "553 pontos · 378 comentários",
+          "snapshot": {
+            "sourceId": "49541256",
+            "capturedAt": "2026-09-03T08:34:23.358Z",
+            "metadata": {
+              "popularity": 553,
+              "engagementCount": 378,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49541256",
+                  "popularity": 553,
+                  "engagementCount": 378
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "bvaldivielso",
+                "createdAt": "2026-09-02T19:35:04Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49541256"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49541256",
+              "popularity": 553,
+              "engagementCount": 378
+            }
+          ]
+        },
+        {
+          "title": "Can I opt out of my input or output data being used for training?",
+          "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+          "summary": "Os usuários têm o direito de impedir que seus próprios dados de entrada e saída sejam usados nos processos de treinamento dos modelos de inteligência artificial oferecidos pela Mistral AI. Esta preferência pode ser gerenciada alterando as permissões de processamento de dados no menu de configurações da plataforma correspondente.",
+          "meta": "432 pontos · 194 comentários",
+          "snapshot": {
+            "sourceId": "49535284",
+            "capturedAt": "2026-09-03T08:34:23.358Z",
+            "metadata": {
+              "popularity": 432,
+              "engagementCount": 194,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49535284",
+                  "popularity": 432,
+                  "engagementCount": 194
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "teekert",
+                "createdAt": "2026-09-02T12:30:39Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49535284"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49535284",
+              "popularity": 432,
+              "engagementCount": 194
+            }
+          ]
+        },
+        {
+          "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+          "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+          "summary": "Alguns sites criam milhares de páginas automatizadas de \"melhor software\" para manipular as sugestões de mecanismos de busca de inteligência artificial. Essas páginas, que funcionam como fazendas de conteúdo, são referenciadas como fontes confiáveis pelo Perplexity, um mecanismo de busca de IA que realiza varreduras na web ao gerar respostas.",
+          "meta": "398 pontos · 191 comentários",
+          "snapshot": {
+            "sourceId": "49536375",
+            "capturedAt": "2026-09-03T08:34:23.358Z",
+            "metadata": {
+              "popularity": 398,
+              "engagementCount": 191,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49536375",
+                  "popularity": 398,
+                  "engagementCount": 191
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "jakobgreenfeld",
+                "createdAt": "2026-09-02T13:59:59Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49536375"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49536375",
+              "popularity": 398,
+              "engagementCount": 191
+            }
+          ]
+        },
+        {
+          "title": "Google avoids a breakup of its ad tech business",
+          "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+          "summary": "O Google obteve uma vitória jurídica importante no processo antitruste que exigia a alienação de sua unidade de tecnologia de publicidade digital. A decisão judicial permite que a empresa continue suas operações de tecnologia de publicidade (ad tech) sem precisar dividi-las.",
+          "meta": "364 pontos · 274 comentários",
+          "snapshot": {
+            "sourceId": "49537131",
+            "capturedAt": "2026-09-03T08:34:23.358Z",
+            "metadata": {
+              "popularity": 364,
+              "engagementCount": 274,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49537131",
+                  "popularity": 364,
+                  "engagementCount": 274
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "donohoe",
+                "createdAt": "2026-09-02T14:46:16Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49537131"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49537131",
+              "popularity": 364,
+              "engagementCount": 274
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+          "summary": "O DeepSeek-V4-Flash-Vision-Exp, desenvolvido pela DeepSeek, é um modelo de inteligência artificial multimodal (multimodal AI) que processa dados visuais e de texto para gerar saídas baseadas em texto. O modelo visa acelerar os processos de análise de imagens e a criação de conteúdo com base nelas.",
+          "meta": "♥ 515 · 17.893 downloads",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+            "capturedAt": "2026-09-03T08:34:23.177Z",
+            "metadata": {
+              "popularity": 515,
+              "engagementCount": 17893,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 495,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v4",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "ZipTok3D: High-Fidelity 3D Tokenization with Compact Token Prefixes",
+          "url": "https://huggingface.co/papers/2609.01740",
+          "summary": "O ZipTok3D é um tokenizador 3D (3D tokenizer) que permite a reconstrução de objetos tridimensionais com alta precisão a partir de sequências de tokens muito curtas, editando progressivamente a geometria dos objetos. Este método suporta processos de produção eficientes, mantendo a qualidade dos modelos 3D mesmo com capacidade de dados limitada.",
+          "meta": "9 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.01740",
+            "capturedAt": "2026-09-03T08:34:23.224Z",
+            "metadata": {
+              "popularity": 9,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.01740",
+                "publishedAt": "2026-09-01T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "SnapBench: Benchmarking Snap-and-Ask Multimodal Retrieval for Mobile Interactions",
+          "url": "https://huggingface.co/papers/2608.29607",
+          "summary": "O SnapBench é a primeira ferramenta de benchmark multimodal que mede processos de consulta de informações através de fotos tiradas em dispositivos móveis. Este conjunto de testes, que inclui condições do mundo real, como imagens desfocadas ou textos escritos incorretamente, visa melhorar o desempenho de consulta visual de modelos de inteligência artificial.",
+          "meta": "3 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2608.29607",
+            "capturedAt": "2026-09-03T08:34:23.224Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.29607",
+                "publishedAt": "2026-08-30T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "VibeVoice-ASR-Streaming Technical Report",
+          "url": "https://huggingface.co/papers/2609.02812",
+          "summary": "O VibeVoice-ASR-Streaming é um sistema de ponta a ponta que combina processos de conversão de fala em texto (ASR) e diarização de falantes (speaker diarization) em um único modelo. Esta abordagem baseada em grandes modelos de linguagem (LLM) fornece o suporte de streaming ao vivo de baixa latência necessário para assistentes de voz em tempo real.",
+          "meta": "7 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.02812",
+            "capturedAt": "2026-09-03T08:34:23.224Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.02812",
+                "publishedAt": "2026-09-02T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "A Glance Is All You Need: Single-Pass Fine-Grained Image Captioning with SimLoss",
+          "url": "https://huggingface.co/papers/2609.00591",
+          "summary": "O SimLoss é um novo método que aumenta a capacidade de descrição detalhada de imagens por modelos de visão-linguagem (vision-language models) através de um processo de passagem única (single-pass). Ao eliminar o atraso de processamento criado por sistemas de múltiplas etapas, visa identificar mais rapidamente detalhes finos, como características de objetos, texturas e relações espaciais.",
+          "meta": "7 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.00591",
+            "capturedAt": "2026-09-03T08:34:23.224Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.00591",
+                "publishedAt": "2026-09-01T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "CRISP: Cliff-awaRe Input-adaptive Sparse Prefilling with Structural-Mass-Motivated Routing",
+          "url": "https://huggingface.co/papers/2609.01925",
+          "summary": "O CRISP é um novo método que acelera a fase de pré-preenchimento (prefilling), que retarda o processo de inferência em grandes modelos de linguagem (LLM) de contexto longo. Com um mecanismo de atenção esparsa (sparse attention) que se molda dinamicamente de acordo com os dados de entrada, ele reduz a carga computacional e aumenta o desempenho do modelo.",
+          "meta": "5 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.01925",
+            "capturedAt": "2026-09-03T08:34:23.224Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.01925",
+                "publishedAt": "2026-09-01T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "A note on subscription prices from LWN",
+          "url": "https://lwn.net/Articles/1090585/",
+          "summary": "O site de notícias de tecnologia LWN.net anunciou que atualizou suas taxas de assinatura de acordo com a inflação e os hábitos de leitura em mudança. A plataforma está reestruturando sua estratégia de preços para um modelo de publicação sustentável.",
+          "meta": "87 pontos · 8 comentários",
+          "snapshot": {
+            "sourceId": "krcehd",
+            "capturedAt": "2026-09-03T08:34:23.467Z",
+            "metadata": {
+              "popularity": 87,
+              "engagementCount": 8,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/krcehd/note_on_subscription_prices_from_lwn",
+                  "popularity": 87,
+                  "engagementCount": 8
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "linux"
+                ],
+                "createdAt": "2026-09-02T10:20:29.658-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/krcehd/note_on_subscription_prices_from_lwn",
+              "popularity": 87,
+              "engagementCount": 8
+            }
+          ]
+        },
+        {
+          "title": "Static Allocation, Constant Work",
+          "url": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
+          "summary": "A alocação estática de memória (static allocation) proporciona estabilidade de desempenho com uma carga de trabalho constante, reduzindo a sobrecarga de gerenciamento de recursos em tempo de execução do software. Essa abordagem aumenta a previsibilidade do sistema ao resolver o gerenciamento de memória na fase de compilação.",
+          "meta": "33 pontos · 6 comentários",
+          "snapshot": {
+            "sourceId": "m4iwq4",
+            "capturedAt": "2026-09-03T08:34:23.467Z",
+            "metadata": {
+              "popularity": 33,
+              "engagementCount": 6,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/m4iwq4/static_allocation_constant_work",
+                  "popularity": 33,
+                  "engagementCount": 6
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "zig"
+                ],
+                "createdAt": "2026-09-02T13:19:13.877-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/m4iwq4/static_allocation_constant_work",
+              "popularity": 33,
+              "engagementCount": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "foundation model",
+      "explanation": "Estrutura fundamental de inteligência artificial pré-treinada com uma quantidade massiva de dados para ser capaz de realizar muitas tarefas diferentes."
+    },
+    {
+      "term": "inference server",
+      "explanation": "Sistema de computador poderoso que executa um modelo de inteligência artificial treinado para gerar respostas instantâneas às perguntas recebidas."
+    },
+    {
+      "term": "source control",
+      "explanation": "Um sistema de rastreamento que registra todas as alterações feitas durante o desenvolvimento de software e serve para gerenciar diferentes versões."
+    },
+    {
+      "term": "token",
+      "explanation": "A menor unidade de significado correspondente a palavras ou partes de sílabas que os modelos de inteligência artificial usam ao processar textos."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Tecnologia capaz de criar novos textos, imagens ou sons que não existiam anteriormente, com base nos dados aprendidos."
+    },
+    {
+      "term": "data processing",
+      "explanation": "O processo de organizar informações brutas e transformá-las em resultados significativos que podem ser analisados ou utilizados."
+    },
+    {
+      "term": "ad tech",
+      "explanation": "Ferramentas digitais usadas para entregar, gerenciar e medir anúncios na internet para o público-alvo."
+    }
+  ]
+}
