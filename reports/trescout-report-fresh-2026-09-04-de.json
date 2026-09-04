@@ -1,0 +1,481 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-04",
+  "capturedAt": "2026-09-04T08:34:57.198Z",
+  "editorial": "Dieser Bericht enthält die Trends, die heute zum ersten Mal hervorgehoben wurden, ohne die Datensätze zu wiederholen, die in den normalen Berichten der letzten 30 Tage enthalten waren.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "ByteByteGoHq/system-design-101",
+          "url": "https://github.com/ByteByteGoHq/system-design-101",
+          "summary": "system-design-101, erstellt von ByteByteGoHq, ist eine Ressource, die komplexe Softwarearchitekturen durch Visualisierungen und einfache Erklärungen verständlich macht. Ziel ist es, technische Konzepte für Kandidaten, die sich auf Software-Design-Interviews vorbereiten, zugänglich zu machen.",
+          "meta": "★ 88.567 · +171 heute",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "ByteByteGoHq/system-design-101",
+            "capturedAt": "2026-09-04T08:34:58.652Z",
+            "metadata": {
+              "popularity": 88567,
+              "engagementCount": 171,
+              "rank": 13,
+              "extra": {
+                "starsToday": 171
+              }
+            }
+          }
+        },
+        {
+          "title": "magnitudedev/magnitude",
+          "url": "https://github.com/magnitudedev/magnitude",
+          "summary": "Magnitude ist ein Open-Source-Inferenzserver, der mit bestehenden KI-Agenten integriert werden kann und es Ihnen ermöglicht, lokale Modelle auszuführen, die für Ihre Hardware optimiert sind. Er lässt sich mit Coding-Assistenten wie Cline und verschiedenen Open-Source-Modellen kombinieren, um die Nutzung lokaler Rechenleistung zu erleichtern.",
+          "meta": "TypeScript · ★ 2.098 · +161 heute",
+          "snapshot": {
+            "sourceId": "magnitudedev/magnitude",
+            "capturedAt": "2026-09-04T08:34:58.652Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 2098,
+              "engagementCount": 161,
+              "rank": 14,
+              "extra": {
+                "starsToday": 161
+              }
+            }
+          }
+        },
+        {
+          "title": "f/prompts.chat",
+          "url": "https://github.com/f/prompts.chat",
+          "summary": "Prompts.chat ist eine Open-Source-Plattform, auf der Benutzer Prompts für KI-Modelle teilen und entdecken können. Dieses Tool, das Sie für die unternehmerische Nutzung auf Ihrem eigenen Server hosten können, ermöglicht es Ihnen, Prompt-Bibliotheken datenschutzorientiert zu verwalten.",
+          "meta": "HTML · ★ 169.206 · +168 heute",
+          "snapshot": {
+            "sourceId": "f/prompts.chat",
+            "capturedAt": "2026-09-04T08:34:58.652Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 169206,
+              "engagementCount": 168,
+              "rank": 18,
+              "extra": {
+                "starsToday": 168
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": ".name Termination",
+          "url": "https://neil.fraser.name/news/2026/09/03/",
+          "summary": "Die Registrierung der Top-Level-Domain .name wird ab 2026 eingestellt. Dies führt dazu, dass Websites, die diese Endung verwenden, unzugänglich werden und digitale Assets migriert werden müssen.",
+          "meta": "1.754 Punkte · 437 Kommentare",
+          "snapshot": {
+            "sourceId": "49550772",
+            "capturedAt": "2026-09-04T08:34:57.426Z",
+            "metadata": {
+              "popularity": 1754,
+              "engagementCount": 437,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49550772",
+                  "popularity": 1754,
+                  "engagementCount": 437
+                },
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/6tsncg/name_termination",
+                  "popularity": 280,
+                  "engagementCount": 51
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "pavel_lishin",
+                "createdAt": "2026-09-03T14:54:39Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49550772"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49550772",
+              "popularity": 1754,
+              "engagementCount": 437
+            },
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/6tsncg/name_termination",
+              "popularity": 280,
+              "engagementCount": 51
+            }
+          ]
+        },
+        {
+          "title": "GPT-6 Astra",
+          "url": "https://openai.com/index/gpt-6-astra/",
+          "summary": "GPT-6 Astra, entwickelt von OpenAI, zeigt eine hohe Leistung bei Tests, die die Programmier- und Problemlösungsfähigkeiten von KI-Agenten messen. Das Modell erhöht die Erfolgsquote bei komplexen Aufgaben, die insbesondere im Hinblick auf die Ziele der künstlichen allgemeinen Intelligenz (Artificial General Intelligence) entwickelt wurden.",
+          "meta": "1.730 Punkte · 1.524 Kommentare",
+          "snapshot": {
+            "sourceId": "49554643",
+            "capturedAt": "2026-09-04T08:34:57.426Z",
+            "metadata": {
+              "popularity": 1730,
+              "engagementCount": 1524,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49554643",
+                  "popularity": 1730,
+                  "engagementCount": 1524
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "kibae",
+                "createdAt": "2026-09-03T18:41:05Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49554643"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49554643",
+              "popularity": 1730,
+              "engagementCount": 1524
+            }
+          ]
+        },
+        {
+          "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
+          "url": "https://anyhumanever.com/",
+          "summary": "Any Human Ever ist eine Website, die die Lebensgeschichte einer zufällig ausgewählten Person aus der gesamten Menschheitsgeschichte präsentiert. Durch die Nutzung statistischer Daten soll das Ausmaß der Menschheitsgeschichte und die Vielfalt individueller Leben reflektiert werden.",
+          "meta": "570 Punkte · 270 Kommentare",
+          "snapshot": {
+            "sourceId": "49550698",
+            "capturedAt": "2026-09-04T08:34:57.426Z",
+            "metadata": {
+              "popularity": 570,
+              "engagementCount": 270,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49550698",
+                  "popularity": 570,
+                  "engagementCount": 270
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "thinkingemote",
+                "createdAt": "2026-09-03T14:51:10Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49550698"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49550698",
+              "popularity": 570,
+              "engagementCount": 270
+            }
+          ]
+        },
+        {
+          "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+          "url": "https://inference-docs.cerebras.ai/models/overview",
+          "summary": "Das von Alibaba entwickelte große Sprachmodell Qwen 2.5 27B kann auf der Inferenzplattform des KI-Hardwareherstellers Cerebras mit einer Geschwindigkeit von 1500 Token pro Sekunde ausgeführt werden. Diese hohe Leistung ermöglicht es komplexen Modellen, in Echtzeitanwendungen deutlich schneller zu reagieren.",
+          "meta": "540 Punkte · 172 Kommentare",
+          "snapshot": {
+            "sourceId": "49554520",
+            "capturedAt": "2026-09-04T08:34:57.426Z",
+            "metadata": {
+              "popularity": 540,
+              "engagementCount": 172,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49554520",
+                  "popularity": 540,
+                  "engagementCount": 172
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "altertable",
+                "createdAt": "2026-09-03T18:32:13Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49554520"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49554520",
+              "popularity": 540,
+              "engagementCount": 172
+            }
+          ]
+        },
+        {
+          "title": "The largest electric aircraft just flew [video]",
+          "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+          "summary": "Das größte Elektroflugzeug der Welt hat seinen ersten erfolgreichen Flug absolviert und damit einen wichtigen Schritt in Richtung nachhaltiger Energienutzung in der Luftfahrtindustrie gemacht. Dieser Prototyp testet die Kapazität elektrischer Antriebssysteme (electric propulsion systems), die darauf abzielen, den CO2-Ausstoß bei Kurzstreckenflügen zu reduzieren.",
+          "meta": "301 Punkte · 218 Kommentare",
+          "snapshot": {
+            "sourceId": "49526453",
+            "capturedAt": "2026-09-04T08:34:57.426Z",
+            "metadata": {
+              "popularity": 301,
+              "engagementCount": 218,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49526453",
+                  "popularity": 301,
+                  "engagementCount": 218
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "feb",
+                "createdAt": "2026-09-01T19:02:34Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49526453"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49526453",
+              "popularity": 301,
+              "engagementCount": 218
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
+          "url": "https://huggingface.co/papers/2609.04201",
+          "summary": "Scal3R ist eine Methode, die entwickelt wurde, um das Problem der geometrischen Verzerrung zu lösen, das bei Online-3D-Rekonstruktionsmodellen (online 3D reconstruction) in langen Videos auftritt. Das System optimiert die globale Posenschätzung (global pose estimation) unabhängig, indem es lokale Tiefendaten beibehält und Fehlerakkumulation verhindert.",
+          "meta": "13 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.04201",
+            "capturedAt": "2026-09-04T08:34:57.299Z",
+            "metadata": {
+              "popularity": 13,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.04201",
+                "publishedAt": "2026-09-03T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Let Confidence Change, Not the Prediction: Prediction-Preserving Repair for Post-hoc Calibration",
+          "url": "https://huggingface.co/papers/2609.01072",
+          "summary": "CORD ist eine Korrekturmethode, die verhindert, dass nachträgliche Kalibrierungsprozesse in Modellen des maschinellen Lernens die Vorhersageergebnisse verändern. Diese Technik optimiert Vertrauenswerte, indem sie die Wahrscheinlichkeitsverteilungen anpasst und gleichzeitig die ursprüngliche Vorhersage des Modells beibehält.",
+          "meta": "1 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.01072",
+            "capturedAt": "2026-09-04T08:34:57.299Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.01072",
+                "publishedAt": "2026-09-02T00:00:00.000Z",
+                "githubRepo": "https://github.com/labhai/CORD"
+              }
+            }
+          }
+        },
+        {
+          "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+          "url": "https://huggingface.co/papers/2609.04199",
+          "summary": "Die Methode des Kompilierens durch Training (compile by training) reduziert die Abhängigkeit von großen Sprachmodellen, indem sie Aufgaben, die in natürlicher Sprache definiert sind, in kleine und lokale neuronale Netze umwandelt. Dieser Ansatz ermöglicht es, komplexe Textverarbeitungsprozesse über lokale neuronale Funktionen (local neural functions) mit geringer Latenz und ohne Kosten anstelle von cloudbasierten Modellen auszuführen.",
+          "meta": "29 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.04199",
+            "capturedAt": "2026-09-04T08:34:57.299Z",
+            "metadata": {
+              "popularity": 29,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.04199",
+                "publishedAt": "2026-09-03T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Percolation Dynamics in Optimization : Variance Cascades and Discrete Scale Invariance",
+          "url": "https://huggingface.co/papers/2609.02373",
+          "summary": "Stochastischer Gradientenabstieg (stochastic gradient descent) wird als ein Prozess definiert, der tiefe neuronale Netze in einfachere Teilnetze lenkt. Diese Studie modelliert diese Lenkung als einen Perkolationsprozess (percolation process) und zeigt auf, dass architektonische Symmetrien die Teilnetze nicht schrittweise, sondern in gleichzeitigen Blöcken zusammenführen.",
+          "meta": "0 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.02373",
+            "capturedAt": "2026-09-04T08:34:57.299Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.02373",
+                "publishedAt": "2026-09-02T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "PACE: Towards Surfacing Hidden Conflicts in User Requests",
+          "url": "https://huggingface.co/papers/2609.03293",
+          "summary": "PACE ist eine Methode, die es persönlichen Assistenten ermöglicht, versteckte Widersprüche in Benutzeranfragen zu erkennen. Das System bietet eine kontextbezogene Sicherheitsebene, die nicht nur Befehle ausführt, sondern auch die Angemessenheit der Anfrage basierend auf dem aktuellen Zustand des Benutzers bewertet.",
+          "meta": "6 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.03293",
+            "capturedAt": "2026-09-04T08:34:57.299Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.03293",
+                "publishedAt": "2026-09-03T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Audacity 4.0.0 Released",
+          "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+          "summary": "Das Audiobearbeitungsprogramm Audacity bietet mit der Version 4.0.0 umfassende Änderungen an der Benutzeroberfläche und Leistungsverbesserungen. Die Open-Source-Digital-Audio-Workstation (DAW) enthält mit diesem Update neue Werkzeuge und Fehlerbehebungen, die das Benutzererlebnis optimieren.",
+          "meta": "70 Punkte · 13 Kommentare",
+          "snapshot": {
+            "sourceId": "j03x8u",
+            "capturedAt": "2026-09-04T08:34:57.472Z",
+            "metadata": {
+              "popularity": 70,
+              "engagementCount": 13,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/j03x8u/audacity_4_0_0_released",
+                  "popularity": 70,
+                  "engagementCount": 13
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "release"
+                ],
+                "createdAt": "2026-09-03T08:52:43.188-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/j03x8u/audacity_4_0_0_released",
+              "popularity": 70,
+              "engagementCount": 13
+            }
+          ]
+        },
+        {
+          "title": "simple is not small",
+          "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
+          "summary": "In der Softwarewelt wird Einfachheit nicht durch die Anzahl der Codezeilen definiert, sondern durch die Verständlichkeit und Wartbarkeit des Systems. Komplexe Funktionen mit wenigen Zeilen auszudrücken, erweist sich als ein Ansatz, der die Wartungskosten senkt und die Nachhaltigkeit erhöht.",
+          "meta": "29 Punkte · 7 Kommentare",
+          "snapshot": {
+            "sourceId": "entcaa",
+            "capturedAt": "2026-09-04T08:34:57.472Z",
+            "metadata": {
+              "popularity": 29,
+              "engagementCount": 7,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/entcaa/simple_is_not_small",
+                  "popularity": 29,
+                  "engagementCount": 7
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "practices"
+                ],
+                "createdAt": "2026-09-03T16:24:19.683-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/entcaa/simple_is_not_small",
+              "popularity": 29,
+              "engagementCount": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "token",
+      "explanation": "Die kleinste Dateneinheit, die einer Wort- oder Silbenfolge entspricht und die eine künstliche Intelligenz bei der Textverarbeitung verwendet."
+    },
+    {
+      "term": "inference server",
+      "explanation": "Ein Computersystem, das ein trainiertes KI-Modell ausführt und sofortige Antworten auf eingehende Fragen generiert."
+    },
+    {
+      "term": "prompts",
+      "explanation": "Die schriftlichen Anweisungen oder Fragen, die Sie einer künstlichen Intelligenz geben, um ein Ergebnis zu erhalten."
+    },
+    {
+      "term": "top-level domain",
+      "explanation": "Die am Ende von Internetadressen stehende Endung, die den Typ oder das Land der Website angibt."
+    },
+    {
+      "term": "artificial general intelligence",
+      "explanation": "Eine hypothetische Stufe der künstlichen Intelligenz, die über eine menschenähnliche Intelligenz verfügt und jede Art von intellektueller Aufgabe ausführen kann."
+    },
+    {
+      "term": "electric propulsion systems",
+      "explanation": "Motorvorrichtungen, die elektrische Energie anstelle von Kraftstoff verwenden, um Fahrzeuge zu bewegen."
+    }
+  ]
+}

@@ -1,0 +1,987 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-04",
+  "capturedAt": "2026-09-04T08:34:57.198Z",
+  "editorial": "En el mundo del software, hoy en día destacan las bibliotecas de formato de bajo nivel (formatting libraries) y las nuevas versiones de modelos de lenguaje grandes (large language models) centradas en la eficiencia. Los datos de Hacker News muestran que los procesos de terminación de nombres de dominio y las especulaciones sobre las capacidades futuras de los modelos de inteligencia artificial generan un gran interés en la comunidad de desarrolladores.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "fmtlib/fmt",
+          "url": "https://github.com/fmtlib/fmt",
+          "summary": "Fmt es una biblioteca de formato de texto moderna desarrollada para el lenguaje de programación C++. Ofrece una alternativa más rápida y segura en comparación con los métodos printf e iostream de la biblioteca estándar de C++.",
+          "meta": "C++ · ★ 25.322 · +963 hoy",
+          "snapshot": {
+            "sourceId": "fmtlib/fmt",
+            "capturedAt": "2026-09-04T08:34:58.652Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 25322,
+              "engagementCount": 963,
+              "rank": 1,
+              "extra": {
+                "starsToday": 963
+              }
+            }
+          }
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Este repositorio, compartido por Matt Pocock, contiene conjuntos de habilidades (skills) personalizados que los desarrolladores de software utilizan para entrenar agentes de inteligencia artificial (AI agents). Estos scripts, utilizados por los desarrolladores en sus propios entornos de trabajo, permiten que los agentes realicen tareas técnicas de manera más eficiente.",
+          "meta": "Shell · ★ 248.363 · +1.601 hoy",
+          "snapshot": {
+            "sourceId": "mattpocock/skills",
+            "capturedAt": "2026-09-04T08:34:58.652Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 248363,
+              "engagementCount": 1601,
+              "rank": 2,
+              "extra": {
+                "starsToday": 1601
+              }
+            }
+          }
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "summary": "Hermes Agent, desarrollado por NousResearch, es un agente de inteligencia artificial autónomo que amplía sus capacidades aprendiendo con el tiempo a través de las interacciones con los usuarios. Este sistema basado en Python utiliza una arquitectura de aprendizaje en constante evolución para crear flujos de trabajo personalizados.",
+          "meta": "Python · ★ 241.102 · +774 hoy",
+          "snapshot": {
+            "sourceId": "NousResearch/hermes-agent",
+            "capturedAt": "2026-09-04T08:34:58.652Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 241102,
+              "engagementCount": 774,
+              "rank": 3,
+              "extra": {
+                "starsToday": 774
+              }
+            }
+          }
+        },
+        {
+          "title": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "summary": "Ponytail es una biblioteca de JavaScript que permite a los agentes de inteligencia artificial minimizar el proceso de escritura de código y centrarse en la solución más eficiente. Al evitar la generación de código innecesario en los procesos de desarrollo de software, se basa en el principio de que el mejor código es el que nunca se escribe.",
+          "meta": "JavaScript · ★ 124.048 · +2.128 hoy",
+          "snapshot": {
+            "sourceId": "DietrichGebert/ponytail",
+            "capturedAt": "2026-09-04T08:34:58.652Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 124048,
+              "engagementCount": 2128,
+              "rank": 4,
+              "extra": {
+                "starsToday": 2128
+              }
+            }
+          }
+        },
+        {
+          "title": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "summary": "Agent Skills, compartido por Anthropics, contiene paquetes de habilidades (skills) reutilizables desarrollados para agentes de inteligencia artificial. Esta biblioteca de código abierto tiene como objetivo aumentar las capacidades de los agentes estandarizando flujos de trabajo personalizados para diferentes tareas.",
+          "meta": "Python · ★ 173.838 · +281 hoy",
+          "snapshot": {
+            "sourceId": "anthropics/skills",
+            "capturedAt": "2026-09-04T08:34:58.652Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 173838,
+              "engagementCount": 281,
+              "rank": 5,
+              "extra": {
+                "starsToday": 281
+              }
+            }
+          }
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC es un sistema de rendimiento que optimiza las capas de habilidad, memoria y seguridad para agentes de inteligencia artificial. En plataformas como Claude Code y la herramienta de edición de código Cursor, tiene como objetivo hacer que los procesos de trabajo de los agentes sean más eficientes y seguros.",
+          "meta": "JavaScript · ★ 247.577 · +751 hoy",
+          "snapshot": {
+            "sourceId": "affaan-m/ECC",
+            "capturedAt": "2026-09-04T08:34:58.652Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 247577,
+              "engagementCount": 751,
+              "rank": 6,
+              "extra": {
+                "starsToday": 751
+              }
+            }
+          }
+        },
+        {
+          "title": "JuliusBrussee/caveman",
+          "url": "https://github.com/JuliusBrussee/caveman",
+          "summary": "Caveman es un paquete de habilidades (skill) desarrollado para la herramienta de codificación de inteligencia artificial Claude Code. Su objetivo es reducir la cantidad de tokens utilizados simplificando el lenguaje de comunicación en un 65 por ciento.",
+          "meta": "Go · ★ 103.278 · +543 hoy",
+          "snapshot": {
+            "sourceId": "JuliusBrussee/caveman",
+            "capturedAt": "2026-09-04T08:34:58.652Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 103278,
+              "engagementCount": 543,
+              "rank": 7,
+              "extra": {
+                "starsToday": 543
+              }
+            }
+          }
+        },
+        {
+          "title": "blader/humanizer",
+          "url": "https://github.com/blader/humanizer",
+          "summary": "humanizer, una herramienta basada en Python, elimina las marcas características de los textos generados por inteligencia artificial, editando el contenido para que parezca escrito por una mano humana. Este software tiene como objetivo dotar a los resultados de la inteligencia artificial generativa (generative AI) de una narrativa más natural.",
+          "meta": "Python · ★ 41.941 · +1.208 hoy",
+          "snapshot": {
+            "sourceId": "blader/humanizer",
+            "capturedAt": "2026-09-04T08:34:58.652Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 41941,
+              "engagementCount": 1208,
+              "rank": 8,
+              "extra": {
+                "starsToday": 1208
+              }
+            }
+          }
+        },
+        {
+          "title": "google-research/timesfm",
+          "url": "https://github.com/google-research/timesfm",
+          "summary": "TimesFM, desarrollado por Google Research, es un modelo base (foundation model) diseñado para operaciones de pronóstico de series temporales. Este modelo, preentrenado en diferentes conjuntos de datos, ofrece capacidad de predicción en datos complejos de series temporales.",
+          "meta": "Python · ★ 30.833 · +1.618 hoy",
+          "snapshot": {
+            "sourceId": "google-research/timesfm",
+            "capturedAt": "2026-09-04T08:34:58.652Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 30833,
+              "engagementCount": 1618,
+              "rank": 9,
+              "extra": {
+                "starsToday": 1618
+              }
+            }
+          }
+        },
+        {
+          "title": "averygan/reclip",
+          "url": "https://github.com/averygan/reclip",
+          "summary": "Reclip es una herramienta de descarga de medios ligera que puede alojar en su propio servidor y que permite descargar vídeos de casi cualquier sitio web. Ofrece una interfaz web sencilla que permite guardar contenido localmente sin necesidad de instalaciones complejas.",
+          "meta": "HTML · ★ 8.618 · +88 hoy",
+          "snapshot": {
+            "sourceId": "averygan/reclip",
+            "capturedAt": "2026-09-04T08:34:58.652Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 8618,
+              "engagementCount": 88,
+              "rank": 10,
+              "extra": {
+                "starsToday": 88
+              }
+            }
+          }
+        },
+        {
+          "title": "bannedbook/fanqiang",
+          "url": "https://github.com/bannedbook/fanqiang",
+          "summary": "fanqiang, desarrollado con el lenguaje Kotlin, es una herramienta de puerta de enlace (proxy) que permite superar las restricciones en Internet. Este proyecto de código abierto, que permite a los usuarios acceder a contenido bloqueado, ofrece métodos para eludir la censura mediante el enrutamiento del tráfico de red.",
+          "meta": "Kotlin · ★ 52.507 · +522 hoy",
+          "snapshot": {
+            "sourceId": "bannedbook/fanqiang",
+            "capturedAt": "2026-09-04T08:34:58.652Z",
+            "metadata": {
+              "language": "Kotlin",
+              "popularity": 52507,
+              "engagementCount": 522,
+              "rank": 11,
+              "extra": {
+                "starsToday": 522
+              }
+            }
+          }
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "agent-skills, desarrollado por Addy Osmani, es una biblioteca que ofrece capacidades de ingeniería (skills) de nivel de producción para agentes de codificación de inteligencia artificial. Permite que los agentes que automatizan los procesos de desarrollo de software realicen tareas complejas de manera más confiable.",
+          "meta": "JavaScript · ★ 92.142 · +264 hoy",
+          "snapshot": {
+            "sourceId": "addyosmani/agent-skills",
+            "capturedAt": "2026-09-04T08:34:58.652Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 92142,
+              "engagementCount": 264,
+              "rank": 12,
+              "extra": {
+                "starsToday": 264
+              }
+            }
+          }
+        },
+        {
+          "title": "ByteByteGoHq/system-design-101",
+          "url": "https://github.com/ByteByteGoHq/system-design-101",
+          "summary": "system-design-101, preparado por ByteByteGoHq, es un recurso que explica arquitecturas de software complejas mediante visualizaciones y expresiones sencillas. Su objetivo es hacer que los conceptos técnicos sean comprensibles para los candidatos que se preparan para entrevistas de diseño de software.",
+          "meta": "★ 88.567 · +171 hoy",
+          "snapshot": {
+            "sourceId": "ByteByteGoHq/system-design-101",
+            "capturedAt": "2026-09-04T08:34:58.652Z",
+            "metadata": {
+              "popularity": 88567,
+              "engagementCount": 171,
+              "rank": 13,
+              "extra": {
+                "starsToday": 171
+              }
+            }
+          }
+        },
+        {
+          "title": "magnitudedev/magnitude",
+          "url": "https://github.com/magnitudedev/magnitude",
+          "summary": "Magnitude es un servidor de inferencia de código abierto que funciona integrado con agentes de inteligencia artificial existentes y le permite ejecutar modelos locales adecuados para su hardware. Facilita el aprovechamiento de la potencia informática local al trabajar de manera compatible con asistentes de codificación como Cline y varios modelos de código abierto.",
+          "meta": "TypeScript · ★ 2.098 · +161 hoy",
+          "snapshot": {
+            "sourceId": "magnitudedev/magnitude",
+            "capturedAt": "2026-09-04T08:34:58.652Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 2098,
+              "engagementCount": 161,
+              "rank": 14,
+              "extra": {
+                "starsToday": 161
+              }
+            }
+          }
+        },
+        {
+          "title": "Imbad0202/academic-research-skills",
+          "url": "https://github.com/Imbad0202/academic-research-skills",
+          "summary": "Academic Research Skills ofrece un flujo de trabajo que automatiza los procesos de investigación académica para la herramienta de desarrollo de software Claude Code. Esta estructura basada en Python, que abarca las etapas de investigación, redacción, revisión, edición y finalización, estandariza la producción de textos académicos.",
+          "meta": "Python · ★ 46.146 · +496 hoy",
+          "snapshot": {
+            "sourceId": "Imbad0202/academic-research-skills",
+            "capturedAt": "2026-09-04T08:34:58.652Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 46146,
+              "engagementCount": 496,
+              "rank": 15,
+              "extra": {
+                "starsToday": 496
+              }
+            }
+          }
+        },
+        {
+          "title": "Gitlawb/openclaude",
+          "url": "https://github.com/Gitlawb/openclaude",
+          "summary": "OpenClaude es un marco de trabajo (framework) flexible que puede ejecutarse en cualquier tipo de hardware y admite diferentes modelos de inteligencia artificial. Desarrollada con TypeScript, esta herramienta permite a los usuarios integrar modelos locales o basados en la nube en diversos entornos.",
+          "meta": "TypeScript · ★ 32.458 · +451 hoy",
+          "snapshot": {
+            "sourceId": "Gitlawb/openclaude",
+            "capturedAt": "2026-09-04T08:34:58.652Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 32458,
+              "engagementCount": 451,
+              "rank": 16,
+              "extra": {
+                "starsToday": 451
+              }
+            }
+          }
+        },
+        {
+          "title": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "summary": "VoiceStudio es una plataforma de procesamiento de audio de código abierto que realiza operaciones como clonación de voz, diseño de sonido y doblaje de video sin necesidad de conexión a Internet. Como una alternativa local y gratuita a ElevenLabs, que ofrece tecnologías de voz, permite la lectura de textos, transcripción y creación de audiolibros en 646 idiomas diferentes.",
+          "meta": "Python · ★ 16.802 · +1.672 hoy",
+          "snapshot": {
+            "sourceId": "debpalash/VoiceStudio",
+            "capturedAt": "2026-09-04T08:34:58.652Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 16802,
+              "engagementCount": 1672,
+              "rank": 17,
+              "extra": {
+                "starsToday": 1672
+              }
+            }
+          }
+        },
+        {
+          "title": "f/prompts.chat",
+          "url": "https://github.com/f/prompts.chat",
+          "summary": "Prompts.chat es una plataforma de código abierto donde los usuarios comparten y descubren comandos (prompts) preparados para modelos de inteligencia artificial. Esta herramienta, que puede alojar en su propio servidor para uso corporativo, le permite gestionar bibliotecas de comandos en una estructura centrada en la privacidad.",
+          "meta": "HTML · ★ 169.206 · +168 hoy",
+          "snapshot": {
+            "sourceId": "f/prompts.chat",
+            "capturedAt": "2026-09-04T08:34:58.652Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 169206,
+              "engagementCount": 168,
+              "rank": 18,
+              "extra": {
+                "starsToday": 168
+              }
+            }
+          }
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers es un marco de habilidades para agentes (agentic skills framework) y una metodología de desarrollo de software diseñada para agentes de inteligencia artificial. Ofrece un flujo de trabajo estándar para crear sistemas autónomos que realizan tareas complejas.",
+          "meta": "Shell · ★ 281.545 · +462 hoy",
+          "snapshot": {
+            "sourceId": "obra/superpowers",
+            "capturedAt": "2026-09-04T08:34:58.652Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 281545,
+              "engagementCount": 462,
+              "rank": 19,
+              "extra": {
+                "starsToday": 462
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": ".name Termination",
+          "url": "https://neil.fraser.name/news/2026/09/03/",
+          "summary": "El registro del dominio de nivel superior (top-level domain) .name finalizará a partir de 2026. Esta situación provoca que los sitios web que utilizan dicha extensión se vuelvan inaccesibles y genera la necesidad de migrar los activos digitales.",
+          "meta": "1.754 puntos · 437 comentarios",
+          "snapshot": {
+            "sourceId": "49550772",
+            "capturedAt": "2026-09-04T08:34:57.426Z",
+            "metadata": {
+              "popularity": 1754,
+              "engagementCount": 437,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49550772",
+                  "popularity": 1754,
+                  "engagementCount": 437
+                },
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/6tsncg/name_termination",
+                  "popularity": 280,
+                  "engagementCount": 51
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "pavel_lishin",
+                "createdAt": "2026-09-03T14:54:39Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49550772"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49550772",
+              "popularity": 1754,
+              "engagementCount": 437
+            },
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/6tsncg/name_termination",
+              "popularity": 280,
+              "engagementCount": 51
+            }
+          ]
+        },
+        {
+          "title": "GPT-6 Astra",
+          "url": "https://openai.com/index/gpt-6-astra/",
+          "summary": "GPT-6 Astra, desarrollado por OpenAI, muestra un alto rendimiento en pruebas que miden las capacidades de escritura de código y resolución de problemas de los agentes de inteligencia artificial. El modelo aumenta la tasa de éxito en tareas complejas desarrolladas especialmente en línea con los objetivos de inteligencia artificial general (artificial general intelligence).",
+          "meta": "1.730 puntos · 1.524 comentarios",
+          "snapshot": {
+            "sourceId": "49554643",
+            "capturedAt": "2026-09-04T08:34:57.426Z",
+            "metadata": {
+              "popularity": 1730,
+              "engagementCount": 1524,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49554643",
+                  "popularity": 1730,
+                  "engagementCount": 1524
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "kibae",
+                "createdAt": "2026-09-03T18:41:05Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49554643"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49554643",
+              "popularity": 1730,
+              "engagementCount": 1524
+            }
+          ]
+        },
+        {
+          "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
+          "url": "https://anyhumanever.com/",
+          "summary": "Any Human Ever es un sitio web que presenta la historia de vida de una persona seleccionada al azar entre todos los seres humanos que han vivido en la historia del mundo. Utiliza datos estadísticos con el objetivo de reflejar la escala de la historia humana y la diversidad de las vidas individuales.",
+          "meta": "570 puntos · 270 comentarios",
+          "snapshot": {
+            "sourceId": "49550698",
+            "capturedAt": "2026-09-04T08:34:57.426Z",
+            "metadata": {
+              "popularity": 570,
+              "engagementCount": 270,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49550698",
+                  "popularity": 570,
+                  "engagementCount": 270
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "thinkingemote",
+                "createdAt": "2026-09-03T14:51:10Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49550698"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49550698",
+              "popularity": 570,
+              "engagementCount": 270
+            }
+          ]
+        },
+        {
+          "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+          "url": "https://inference-docs.cerebras.ai/models/overview",
+          "summary": "Qwen 2.5 27B, el modelo de lenguaje grande desarrollado por Alibaba, puede ejecutarse a una velocidad de 1500 tokens por segundo en la plataforma de inferencia de Cerebras, fabricante de hardware de inteligencia artificial. Este alto rendimiento permite que modelos complejos respondan mucho más rápido en aplicaciones en tiempo real.",
+          "meta": "540 puntos · 172 comentarios",
+          "snapshot": {
+            "sourceId": "49554520",
+            "capturedAt": "2026-09-04T08:34:57.426Z",
+            "metadata": {
+              "popularity": 540,
+              "engagementCount": 172,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49554520",
+                  "popularity": 540,
+                  "engagementCount": 172
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "altertable",
+                "createdAt": "2026-09-03T18:32:13Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49554520"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49554520",
+              "popularity": 540,
+              "engagementCount": 172
+            }
+          ]
+        },
+        {
+          "title": "The largest electric aircraft just flew [video]",
+          "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+          "summary": "El avión eléctrico más grande del mundo realizó su primer vuelo exitoso, marcando un paso importante hacia el uso de energía sostenible en el sector de la aviación. Este prototipo prueba la capacidad de los sistemas de propulsión eléctrica (electric propulsion systems) que buscan reducir las emisiones de carbono en vuelos de corta distancia.",
+          "meta": "301 puntos · 218 comentarios",
+          "snapshot": {
+            "sourceId": "49526453",
+            "capturedAt": "2026-09-04T08:34:57.426Z",
+            "metadata": {
+              "popularity": 301,
+              "engagementCount": 218,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49526453",
+                  "popularity": 301,
+                  "engagementCount": 218
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "feb",
+                "createdAt": "2026-09-01T19:02:34Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49526453"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49526453",
+              "popularity": 301,
+              "engagementCount": 218
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "zai-org/GLM-5.3",
+          "url": "https://huggingface.co/zai-org/GLM-5.3",
+          "summary": "GLM-5.3, publicado por Zai-org, es un modelo de inteligencia artificial desarrollado para tareas de generación de texto (text generation). Compartido en Hugging Face, este modelo ofrece una nueva alternativa que los usuarios pueden utilizar en sus procesos de procesamiento de lenguaje.",
+          "meta": "♥ 1.632 · 151.021 descargas",
+          "snapshot": {
+            "sourceId": "zai-org/GLM-5.3",
+            "capturedAt": "2026-09-04T08:34:57.294Z",
+            "metadata": {
+              "popularity": 1632,
+              "engagementCount": 151021,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 875,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "glm_moe_dsa",
+                  "text-generation",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "arxiv:2602.15763",
+                  "license:other",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen3.8-Flash-Next",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+          "summary": "Qwen3.8-Flash-Next, desarrollado por Alibaba, es un modelo de inteligencia artificial multimodal (multimodal model) capaz de procesar tanto datos visuales como de texto. Este modelo, que genera respuestas basadas en texto con baja latencia, ofrece una solución rápida para los procesos de análisis de contenido visual y su conversión a texto.",
+          "meta": "♥ 4.831 · 263.287 descargas",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-Flash-Next",
+            "capturedAt": "2026-09-04T08:34:57.294Z",
+            "metadata": {
+              "popularity": 4831,
+              "engagementCount": 263287,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 615,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen4_exp",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:other",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Qwen2.5-27B, desarrollado por Alibaba, es un modelo de inteligencia artificial multimodal capaz de procesar tanto datos visuales como textuales. Este modelo ofrece un alto rendimiento en el análisis de imágenes complejas para generar respuestas basadas en texto.",
+          "meta": "♥ 13.862 · 5.254.882 descargas",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-27B",
+            "capturedAt": "2026-09-04T08:34:57.294Z",
+            "metadata": {
+              "popularity": 13862,
+              "engagementCount": 5254882,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 545,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "deploy:azure",
+                  "deploy:sagemaker",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "zai-org/GLM-5.3-Flash",
+          "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+          "summary": "GLM-5.3-Flash, desarrollado por Zai-org, es un modelo de inteligencia artificial multimodal (multimodal) que procesa datos visuales y de texto para generar resultados textuales. Alojado en la plataforma HuggingFace, este modelo permite el análisis de contenido visual y la creación de respuestas basadas en texto con una capacidad de procesamiento rápido.",
+          "meta": "♥ 2.026 · 517.902 descargas",
+          "snapshot": {
+            "sourceId": "zai-org/GLM-5.3-Flash",
+            "capturedAt": "2026-09-04T08:34:57.294Z",
+            "metadata": {
+              "popularity": 2026,
+              "engagementCount": 517902,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 544,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "glm5_next",
+                  "image-text-to-text",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "arxiv:2602.15763",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+          "summary": "DeepSeek-V4-Flash-Vision-Exp es un modelo de inteligencia artificial multimodal (multimodal AI) que procesa imágenes y textos para generar resultados significativos. Compartido en HuggingFace, este modelo ofrece la capacidad de convertir datos visuales complejos en tareas basadas en texto.",
+          "meta": "♥ 564 · 54.571 descargas",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+            "capturedAt": "2026-09-04T08:34:57.294Z",
+            "metadata": {
+              "popularity": 564,
+              "engagementCount": 54571,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 532,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v4",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
+          "url": "https://huggingface.co/papers/2609.04201",
+          "summary": "Scal3R es un método desarrollado para resolver el problema de la distorsión geométrica que experimentan los modelos de reconstrucción 3D en línea (online 3D reconstruction) en videos largos. El sistema optimiza la estimación de pose global (global pose estimation) de forma independiente mientras preserva los datos de profundidad local, evitando así la acumulación de errores.",
+          "meta": "13 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2609.04201",
+            "capturedAt": "2026-09-04T08:34:57.299Z",
+            "metadata": {
+              "popularity": 13,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.04201",
+                "publishedAt": "2026-09-03T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Let Confidence Change, Not the Prediction: Prediction-Preserving Repair for Post-hoc Calibration",
+          "url": "https://huggingface.co/papers/2609.01072",
+          "summary": "CORD es un método de corrección que evita que las operaciones de calibración realizadas a posteriori en modelos de aprendizaje automático alteren los resultados de las predicciones. Esta técnica optimiza las puntuaciones de confianza al preservar la predicción inicial del modelo mientras ajusta las distribuciones de probabilidad.",
+          "meta": "1 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2609.01072",
+            "capturedAt": "2026-09-04T08:34:57.299Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.01072",
+                "publishedAt": "2026-09-02T00:00:00.000Z",
+                "githubRepo": "https://github.com/labhai/CORD"
+              }
+            }
+          }
+        },
+        {
+          "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+          "url": "https://huggingface.co/papers/2609.04199",
+          "summary": "El método de compilación mediante entrenamiento (compile by training) reduce la dependencia de los grandes modelos de lenguaje al convertir tareas definidas en lenguaje natural en redes neuronales pequeñas y locales. Este enfoque permite ejecutar procesos complejos de procesamiento de texto a través de funciones neuronales locales (local neural functions) de baja latencia y bajo costo, en lugar de utilizar modelos basados en la nube.",
+          "meta": "29 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2609.04199",
+            "capturedAt": "2026-09-04T08:34:57.299Z",
+            "metadata": {
+              "popularity": 29,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.04199",
+                "publishedAt": "2026-09-03T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Percolation Dynamics in Optimization : Variance Cascades and Discrete Scale Invariance",
+          "url": "https://huggingface.co/papers/2609.02373",
+          "summary": "El descenso de gradiente estocástico (stochastic gradient descent) se define como un proceso que guía a las redes neuronales profundas hacia subredes más simples. Este estudio modela dicha guía como un proceso de percolación (percolation process), revelando que las simetrías arquitectónicas combinan las subredes en bloques simultáneos en lugar de hacerlo de forma gradual.",
+          "meta": "0 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2609.02373",
+            "capturedAt": "2026-09-04T08:34:57.299Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.02373",
+                "publishedAt": "2026-09-02T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "PACE: Towards Surfacing Hidden Conflicts in User Requests",
+          "url": "https://huggingface.co/papers/2609.03293",
+          "summary": "PACE es un método que permite a los asistentes personales detectar contradicciones ocultas en las solicitudes de los usuarios. El sistema ofrece una capa de seguridad contextual que no solo ejecuta comandos, sino que también evalúa la idoneidad de la solicitud según la situación actual del usuario.",
+          "meta": "6 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2609.03293",
+            "capturedAt": "2026-09-04T08:34:57.299Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.03293",
+                "publishedAt": "2026-09-03T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Audacity 4.0.0 Released",
+          "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+          "summary": "La herramienta de edición de audio Audacity, con su versión 4.0.0, presenta cambios integrales en la interfaz de usuario y mejoras de rendimiento. Esta estación de trabajo de audio digital (DAW) de código abierto incluye, con esta actualización, nuevas herramientas y correcciones de errores que optimizan la experiencia del usuario.",
+          "meta": "70 puntos · 13 comentarios",
+          "snapshot": {
+            "sourceId": "j03x8u",
+            "capturedAt": "2026-09-04T08:34:57.472Z",
+            "metadata": {
+              "popularity": 70,
+              "engagementCount": 13,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/j03x8u/audacity_4_0_0_released",
+                  "popularity": 70,
+                  "engagementCount": 13
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "release"
+                ],
+                "createdAt": "2026-09-03T08:52:43.188-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/j03x8u/audacity_4_0_0_released",
+              "popularity": 70,
+              "engagementCount": 13
+            }
+          ]
+        },
+        {
+          "title": "simple is not small",
+          "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
+          "summary": "En el mundo del software, la simplicidad no se define por la cantidad de líneas de código, sino por la comprensibilidad y manejabilidad del sistema. Expresar funciones complejas con pocas líneas destaca como un enfoque que reduce los costos de mantenimiento y aumenta la sostenibilidad.",
+          "meta": "29 puntos · 7 comentarios",
+          "snapshot": {
+            "sourceId": "entcaa",
+            "capturedAt": "2026-09-04T08:34:57.472Z",
+            "metadata": {
+              "popularity": 29,
+              "engagementCount": 7,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/entcaa/simple_is_not_small",
+                  "popularity": 29,
+                  "engagementCount": 7
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "practices"
+                ],
+                "createdAt": "2026-09-03T16:24:19.683-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/entcaa/simple_is_not_small",
+              "popularity": 29,
+              "engagementCount": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI agents",
+      "explanation": "Software autónomo capaz de tomar decisiones por sí mismo y realizar tareas específicas en su lugar."
+    },
+    {
+      "term": "skills",
+      "explanation": "El conjunto de capacidades que posee un software o una inteligencia artificial para poder realizar un trabajo determinado."
+    },
+    {
+      "term": "skill",
+      "explanation": "Una habilidad especializada que utiliza un sistema para llevar a cabo una tarea específica."
+    },
+    {
+      "term": "token",
+      "explanation": "La unidad de datos más pequeña que utiliza la inteligencia artificial al procesar texto, correspondiente a palabras o fragmentos de sílabas."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Tecnología capaz de crear nuevos textos, imágenes o sonidos basándose en la información que ha aprendido previamente."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Estructura fundamental de inteligencia artificial entrenada con conjuntos de datos muy amplios, sobre la cual se pueden desarrollar muchas aplicaciones diferentes."
+    },
+    {
+      "term": "proxy",
+      "explanation": "Servidor intermediario que gestiona la conexión entre usted e internet y dirige el tráfico ocultando su identidad."
+    },
+    {
+      "term": "inference server",
+      "explanation": "Sistema informático que ejecuta un modelo de inteligencia artificial entrenado para generar respuestas instantáneas a las preguntas recibidas."
+    },
+    {
+      "term": "framework",
+      "explanation": "Bloque de construcción fundamental que facilita el trabajo al desarrollar software, ofreciendo herramientas y reglas predefinidas."
+    },
+    {
+      "term": "prompts",
+      "explanation": "Instrucciones escritas o preguntas que usted le da a una inteligencia artificial para obtener un resultado."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "Infraestructura de software que organiza las capacidades que las inteligencias artificiales necesitan para realizar tareas complejas."
+    },
+    {
+      "term": "top-level domain",
+      "explanation": "La extensión que se encuentra al final de las direcciones de Internet, que indica el tipo de sitio o el país."
+    },
+    {
+      "term": "artificial general intelligence",
+      "explanation": "Un nivel imaginario de inteligencia artificial que posee una inteligencia a nivel humano y es capaz de realizar cualquier tipo de tarea intelectual."
+    },
+    {
+      "term": "electric propulsion systems",
+      "explanation": "Mecanismos de motor que utilizan energía eléctrica en lugar de combustible para mover vehículos."
+    },
+    {
+      "term": "text generation",
+      "explanation": "La capacidad de una computadora para generar contenido creando oraciones significativas y coherentes de acuerdo con las instrucciones dadas."
+    },
+    {
+      "term": "multimodal model",
+      "explanation": "Inteligencia artificial capaz de comprender y procesar no solo texto, sino también diferentes tipos de datos como imágenes y audio al mismo tiempo."
+    }
+  ]
+}
