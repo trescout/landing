@@ -25779,6 +25779,13 @@
         "onceki_yildiz": 2946,
         "surum": "v3.0.12",
         "surum_tarihi": "2026-09-04"
+      },
+      {
+        "tarih": "2026-09-04",
+        "yildiz": 2962,
+        "onceki_yildiz": 2962,
+        "surum": "v3.0.14",
+        "surum_tarihi": "2026-09-04"
       }
     ],
     "last_seen": "2026-08-23",
@@ -26435,7 +26442,7 @@
     "slug": "n8n",
     "title": "N8n",
     "tagline": "n8n, görsel canvas, özel kod ve AI ajanlarıyla self-host veya cloud iş akışı otomasyonu kurmanıza yardımcı olan fair-code bir platformdur.",
-    "meta": "★ 203.287",
+    "meta": "★ 203.289",
     "image": "/assets/discover/og/n8n.webp",
     "source": "GitHub",
     "date": "2026-08-23",
@@ -26443,7 +26450,7 @@
       "Self-host",
       "Geliştirici aracı"
     ],
-    "stars": 203287,
+    "stars": 203289,
     "summary": "n8n, görsel canvas, özel kod, AI ajanları ve iş akışlarını bir araya getiren fair-code bir otomasyon platformudur. Self-host veya cloud dağıtım seçenekleriyle çalışabilir; farklı model sağlayıcılarını iş akışlarınıza dahil etmenizi destekler.",
     "headline": "Görsel İş Akışları ve AI Otomasyonu",
     "lite": false,
@@ -26673,6 +26680,13 @@
         "onceki_yildiz": 203105,
         "surum": "n8n@2.37.9",
         "surum_tarihi": "2026-09-03"
+      },
+      {
+        "tarih": "2026-09-04",
+        "yildiz": 203289,
+        "onceki_yildiz": 203287,
+        "surum": "n8n@2.37.10",
+        "surum_tarihi": "2026-09-04"
       }
     ],
     "last_review": "2026-09-04",
@@ -29016,7 +29030,8 @@
     "tagline_fr": "Magnitude est une plateforme open source qui s'intègre aux agents d'intelligence artificielle existants et vous permet d'exécuter des modèles locaux adaptés à votre matériel…",
     "tagline_pt": "Magnitude é uma plataforma de código aberto que se integra com agentes de inteligência artificial existentes e permite que você execute modelos locais adequados ao seu hardware…",
     "tagline_es": "Magnitude es una plataforma de código abierto que se integra con los agentes de inteligencia artificial existentes y le permite ejecutar modelos locales adaptados a su hardware...",
-    "tagline_de": "Magnitude ist eine Open-Source-Lösung, die mit bestehenden KI-Agenten integriert wird und es Ihnen ermöglicht, lokale Modelle auszuführen, die für Ihre Hardware optimiert sind."
+    "tagline_de": "Magnitude ist eine Open-Source-Lösung, die mit bestehenden KI-Agenten integriert wird und es Ihnen ermöglicht, lokale Modelle auszuführen, die für Ihre Hardware optimiert sind.",
+    "last_seen": "2026-09-04"
   },
   {
     "slug": "prompts-chat",
@@ -29040,6 +29055,7 @@
     "tagline_fr": "Prompts.chat est une plateforme open source où les utilisateurs partagent et découvrent des invites (prompts) conçues pour les modèles d'intelligence artificielle…",
     "tagline_pt": "Prompts.chat é uma plataforma de código aberto onde os usuários compartilham e descobrem comandos (prompts) criados para modelos de inteligência artificial…",
     "tagline_es": "Prompts.chat es una plataforma de código abierto donde los usuarios comparten y descubren comandos (prompts) preparados para modelos de inteligencia artificial...",
-    "tagline_de": "Prompts.chat ist eine Open-Source-Plattform, auf der Benutzer die von ihnen für KI-Modelle erstellten Befehle (Prompts) teilen und entdecken können."
+    "tagline_de": "Prompts.chat ist eine Open-Source-Plattform, auf der Benutzer die von ihnen für KI-Modelle erstellten Befehle (Prompts) teilen und entdecken können.",
+    "last_seen": "2026-09-04"
   }
 ]
