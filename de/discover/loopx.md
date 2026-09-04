@@ -2,7 +2,7 @@
 
 Loopx ist ein leichtgewichtiger Zustandskernel, der für Langzeitagententeams mit künstlicher Intelligenz entwickelt wurde. Es arbeitet kompatibel mit Coding-Agenten (Codex, Claude Code) und standardisiert Prozesse wie Aufgabenverfolgung, Quotenverwaltung und nachweisbare Arbeitsübertragung.
 
-- ★ 5.499
+- ★ 5.587
 - Python
 - GitHub Trending · 2026-08-06
 

@@ -2,7 +2,7 @@
 
 Llmfit wurde mit der Rust-Sprache entwickelt und scannt Hunderte großer Sprachmodelle und Anbieter und ermöglicht es Ihnen, mit einem einzigen Befehl diejenigen zu identifizieren, die mit Ihrer Hardware kompatibel sind. Das Tool automatisiert den Prozess der Suche nach Modellen, die am besten zu den lokalen Systemressourcen passen.
 
-- ★ 34.596
+- ★ 34.855
 - Rust
 - GitHub Trending · 2026-07-22
 

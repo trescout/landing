@@ -2,7 +2,7 @@
 
 Indexa páginas y archivos en infraestructura controlada por el usuario sin requerir un servicio en la nube ni telemetría obligatoria. Ofrece indexación de texto completo, filtros avanzados y búsqueda semántica opcional que envía textos al endpoint de embeddings seleccionado.
 
-- ★ 3.100
+- ★ 3.574
 - Go
 - GitHub Trending · 2026-08-25
 

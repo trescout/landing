@@ -2,11 +2,12 @@
 
 SimpleX, kullanıcı tanımlayıcıları (user identifiers) kullanmadan çalışan ilk mesajlaşma ağı olarak gizlilik odaklı bir iletişim altyapısı sunuyor. Haskell diliyle geliştirilen platform, merkeziyetsiz yapısı sayesinde kullanıcı verilerini tamamen anonim tutmayı hedefliyor.
 
-- ★ 19.277
+- ★ 19.380
 - Haskell
 - GitHub Trending · 2026-06-27
 
 ## Güncelleme
+- 4 Eylül 2026: Yıldız 19.277 → 19.380, son sürüm v7.0.2 (2 Eylül 2026).
 - 19 Ağustos 2026: Yıldız 19.164 → 19.277, son sürüm v7.0.1 (18 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 12.874 → 19.164, son sürüm v7.0.0 (28 Temmuz 2026).
 

@@ -30,8 +30,8 @@ You can open it with any text editor, but you can read it formatted more easily 
 - [CLI](/en/dictionary/cli/)
 
 ## Related tools
-- [MarkItDown](/en/discover/markitdown/)
 - [Firecrawl](/en/discover/firecrawl/)
+- [MarkItDown](/en/discover/markitdown/)
 - [PaddleOCR](/en/discover/paddleocr/)
 - [Crawl4AI](/en/discover/crawl4ai/)
 - [MinerU](/en/discover/mineru/)

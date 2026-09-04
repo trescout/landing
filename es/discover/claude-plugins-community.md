@@ -2,7 +2,7 @@
 
 El directorio de complementos comunitarios creado para las herramientas Claude Cowork y Claude Code desarrolladas por Anthropic ofrece una estructura extensible que automatiza los procesos de desarrollo de software. Gracias a estos complementos basados ​​en Python, los usuarios pueden personalizar las capacidades de los asistentes de codificación compatibles con inteligencia artificial.
 
-- ★ 2.349
+- ★ 3.376
 - Python
 - GitHub Trending · 2026-08-24
 

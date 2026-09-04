@@ -28,8 +28,8 @@ Puedes abrirlo con cualquier editor de texto, pero puedes leerlo formateado más
 - [CLI](/es/dictionary/cli/)
 
 ## Herramientas relacionadas
-- [MarkItDown](/es/discover/markitdown/)
 - [Firecrawl](/es/discover/firecrawl/)
+- [MarkItDown](/es/discover/markitdown/)
 - [PaddleOCR](/es/discover/paddleocr/)
 - [Crawl4AI](/es/discover/crawl4ai/)
 - [MinerU](/es/discover/mineru/)

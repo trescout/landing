@@ -2,7 +2,7 @@
 
 El proyecto Fanqiang es una herramienta de entrada escrita en Kotlin, desarrollada para evitar la censura de Internet. Es un software de código abierto diseñado para proporcionar a los usuarios acceso a recursos de red limitados.
 
-- ★ 49.405
+- ★ 52.511
 - Kotlin
 - GitHub Trending · 2026-06-12
 

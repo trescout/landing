@@ -29,6 +29,7 @@ Non, l'entraînement est le processus d'apprentissage du modèle, tandis que l'i
 
 ## Outils liés
 - [SIE](/fr/discover/sie/)
+- [Magnitude](/fr/discover/magnitude/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/inference-server/

@@ -2,7 +2,7 @@
 
 Codex CLI es un agente de programación que se ejecuta en la terminal de su computadora local. Puede revisar código, realizar cambios en archivos y ejecutar comandos.
 
-- ★ 121.091
+- ★ 121.393
 - GitHub Trending · 2026-08-23
 
 ## Instalación

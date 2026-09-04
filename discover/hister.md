@@ -2,7 +2,7 @@
 
 Kullanıcının ziyaret ettiği sayfalar ve sakladığı dosyalar için AGPLv3 lisanslı özel bir arama motorudur. Tam metin indeksleme, gelişmiş sorgu filtreleri ve isteğe bağlı anlamsal arama sunar.
 
-- ★ 3.100
+- ★ 3.574
 - Go
 - GitHub Trending · 2026-08-25
 
@@ -31,6 +31,7 @@ http://127.0.0.1:4433
 Kaynak: Resmî README ve dokümantasyon kaynakları: https://hister.org/docs/quickstart, https://github.com/asciimoo/hister, https://hister.org/posts/how-i-use-hister
 
 ## Güncelleme
+- 4 Eylül 2026: Yıldız 3.100 → 3.574, son sürüm v0.19.0 (3 Eylül 2026).
 - 27 Ağustos 2026: Yıldız 2.620 → 3.100, son sürüm v0.18.0 (23 Ağustos 2026).
 
 ## Bu araç ne yapar?

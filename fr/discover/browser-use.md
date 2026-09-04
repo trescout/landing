@@ -2,7 +2,7 @@
 
 L'utilisation du navigateur est une bibliothèque Python qui permet aux agents de renseignement artificiel d'interagir avec des sites Internet comme des êtres humains. Pour cette raison, le contrôle est gratuit, le processus d'automatisation est basé sur le web, le permis est en ligne, le complexe est réalisé, l'intelligence est artificielle.
 
-- ★ 111 369
+- ★ 112 224
 - Python
 - GitHub Trending · 2026-08-27
 

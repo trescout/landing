@@ -42,7 +42,7 @@ Transcribe.cpp aracını kullanarak yerel bir ses dosyasını metne dönüştür
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-21 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Speech-to-Text GGUF STT Inference CPU GPU
+Speech-to-Text GGUF STT CPU Inference GPU
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/transcribe-cpp/

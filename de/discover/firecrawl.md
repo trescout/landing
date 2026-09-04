@@ -2,7 +2,7 @@
 
 Firecrawl bietet eine Schnittstelle (API), um Daten von Websites in großem Maßstab zu crawlen, zu extrahieren und in ein Klartextformat umzuwandeln, das KI-Modelle verarbeiten können. Dieses Tool vereinfacht Datenerfassungsprozesse durch die Automatisierung der Interaktion mit Webinhalten.
 
-- ★ 167.766
+- ★ 176.280
 - TypeScript
 - GitHub Trending · 2026-06-23
 

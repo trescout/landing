@@ -2,7 +2,7 @@
 
 SimpleX offers a privacy-oriented communication infrastructure as the first messaging network that operates without using user identifiers. The platform, developed in Haskell language, aims to keep user data completely anonymous thanks to its decentralized structure.
 
-- ★ 19,277
+- ★ 19,380
 - Haskell
 - GitHub Trending · 2026-06-27
 

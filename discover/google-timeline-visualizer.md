@@ -2,15 +2,15 @@
 
 Google Timeline Visualizer, Google Konum Geçmişi verilerinizle bir yıllık seyahatlerinizi görselleştirir.
 
-- ★ 2.946
+- ★ 2.962
 - Kotlin
 - GitHub Trending · 2026-08-20
 
 ## Güncelleme
+- 4 Eylül 2026: Yıldız 2.946 → 2.962, son sürüm v3.0.12 (4 Eylül 2026).
 - 1 Eylül 2026: Yıldız 2.943 → 2.946, son sürüm v3.0.11 (1 Eylül 2026).
 - 31 Ağustos 2026: Yıldız 2.879 → 2.943, son sürüm v3.0.10 (31 Ağustos 2026).
 - 27 Ağustos 2026: Yıldız 2.871 → 2.879, son sürüm v3.0.4 (27 Ağustos 2026).
-- 27 Ağustos 2026: Yıldız 2.712 → 2.871, son sürüm v3.0.2 (27 Ağustos 2026).
 
 ## Ne kazandırır?
 - Google Haritalar geçmiş verisini MP4 videoya çevirir

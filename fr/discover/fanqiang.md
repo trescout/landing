@@ -2,7 +2,7 @@
 
 Le projet Fanqiang est un outil de passerelle écrit en Kotlin, développé pour contourner la censure sur Internet. Il s'agit d'un logiciel open source conçu pour fournir aux utilisateurs un accès à des ressources réseau limitées.
 
-- ★ 49 405
+- ★ 52 511
 - Kotlin
 - GitHub Trending · 2026-06-12
 

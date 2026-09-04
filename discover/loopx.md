@@ -2,15 +2,15 @@
 
 Loopx, uzun süreli çalışan yapay zekâ ajan ekipleri için geliştirilmiş hafif bir durum çekirdeği (state kernel). Kodlama ajanları (Codex, Claude Code) ile uyumlu çalışarak görev takibi, kota yönetimi ve doğrulanabilir iş devri gibi süreçleri standartlaştırıyor.
 
-- ★ 5.499
+- ★ 5.587
 - Python
 - GitHub Trending · 2026-08-06
 
 ## Güncelleme
+- 4 Eylül 2026: Yıldız 5.499 → 5.587, son sürüm dsh-loopx-plugin-v0.1.1-beta.4 (3 Eylül 2026).
 - 3 Eylül 2026: Yıldız 5.218 → 5.499, son sürüm v0.5.4 (2 Eylül 2026).
 - 27 Ağustos 2026: Yıldız 5.024 → 5.218, son sürüm v0.5.3 (27 Ağustos 2026).
 - 23 Ağustos 2026: Yıldız 4.979 → 5.024, son sürüm v0.5.2 (22 Ağustos 2026).
-- 21 Ağustos 2026: Yıldız 4.960 → 4.979, son sürüm v0.5.1 (20 Ağustos 2026).
 
 ## Ne kazandırır?
 - Uzun süreli görevlerde hedef takibini ve kota yönetimini standartlaştırır.

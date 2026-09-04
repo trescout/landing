@@ -7395,5 +7395,31 @@
     "kisa_pt": "É um conjunto de ferramentas digitais usadas para gerenciar e entregar anúncios na internet ao público-alvo.",
     "kisa_es": "Es el conjunto de herramientas digitales utilizadas para gestionar y entregar publicidad en Internet al público objetivo.",
     "kisa_de": "Dies ist die Gesamtheit der digitalen Werkzeuge, die zur Bereitstellung und Verwaltung von Internetwerbung für die Zielgruppe verwendet werden."
+  },
+  {
+    "slug": "top-level-domain",
+    "en": "Top-level Domain",
+    "full": "TLD",
+    "cat": "dev",
+    "kisa": "İnternet adreslerinin en sonunda bulunan ve sitenin türünü veya ülkesini belirten uzantıdır.",
+    "date": "2026-09-04",
+    "kisa_en": "It is the extension found at the very end of internet addresses that indicates the type of the site or the country.",
+    "kisa_fr": "C'est l'extension située à la toute fin des adresses Internet qui indique le type ou le pays du site.",
+    "kisa_pt": "É a extensão encontrada no final dos endereços de internet que indica o tipo ou o país do site.",
+    "kisa_es": "Es la extensión que se encuentra al final de las direcciones de Internet y que indica el tipo de sitio o el país.",
+    "kisa_de": "Dies ist die Endung am Ende von Internetadressen, die den Typ oder das Land der Website angibt."
+  },
+  {
+    "slug": "electric-propulsion-systems",
+    "en": "Electric Propulsion Systems",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Araçları hareket ettirmek için yakıt yerine elektrik enerjisini kullanan motor düzenekleridir.",
+    "date": "2026-09-04",
+    "kisa_en": "These are engine systems that use electrical energy instead of fuel to move vehicles.",
+    "kisa_fr": "Ce sont des mécanismes de moteur qui utilisent l'énergie électrique au lieu du carburant pour déplacer les véhicules.",
+    "kisa_pt": "São mecanismos de motor que utilizam energia elétrica em vez de combustível para mover veículos.",
+    "kisa_es": "Son mecanismos de motor que utilizan energía eléctrica en lugar de combustible para mover vehículos.",
+    "kisa_de": "Dies sind Motorvorrichtungen, die elektrische Energie anstelle von Kraftstoff verwenden, um Fahrzeuge zu bewegen."
   }
 ]

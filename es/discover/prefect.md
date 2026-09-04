@@ -2,7 +2,7 @@
 
 Prefect es un marco de orquestación de flujo de trabajo que se utiliza para crear canalizaciones de datos basadas en Python. Diseñada para desarrollar procesos de datos resilientes, esta herramienta permite la gestión y el seguimiento de flujos de trabajo de datos complejos.
 
-- ★ 23.696
+- ★ 23.774
 - Python
 - GitHub Trending · 2026-07-13
 

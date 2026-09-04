@@ -28,8 +28,8 @@ Sie können es mit jedem Texteditor öffnen, aber mit speziellen Viewern können
 - [CLI](/de/dictionary/cli/)
 
 ## Verwandte Werkzeuge
-- [MarkItDown](/de/discover/markitdown/)
 - [Firecrawl](/de/discover/firecrawl/)
+- [MarkItDown](/de/discover/markitdown/)
 - [PaddleOCR](/de/discover/paddleocr/)
 - [Crawl4AI](/de/discover/crawl4ai/)
 - [MinerU](/de/discover/mineru/)

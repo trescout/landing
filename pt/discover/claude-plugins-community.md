@@ -2,7 +2,7 @@
 
 O diretório de plugins da comunidade criado para as ferramentas Claude Cowork e Claude Code desenvolvidas pela Anthropic oferece uma estrutura extensível que automatiza os processos de desenvolvimento de software. Graças a esses plug-ins baseados em Python, os usuários podem personalizar os recursos dos assistentes de codificação com suporte de inteligência artificial.
 
-- ★ 2.349
+- ★ 3.376
 - Python
 - GitHub Trending · 2026-08-24
 

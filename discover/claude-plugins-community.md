@@ -2,11 +2,12 @@
 
 Anthropic tarafından geliştirilen Claude Cowork ve Claude Code araçları için oluşturulan topluluk eklenti dizini, yazılım geliştirme süreçlerini otomatikleştiren genişletilebilir bir yapı sunuyor. Kullanıcılar, Python tabanlı bu eklentiler sayesinde yapay zekâ destekli kodlama asistanlarının yeteneklerini özelleştirebiliyor.
 
-- ★ 2.349
+- ★ 3.376
 - Python
 - GitHub Trending · 2026-08-24
 
 ## Güncelleme
+- 4 Eylül 2026: Yıldız 2.349 → 3.376.
 - 27 Ağustos 2026: Yıldız 1.046 → 2.349.
 
 ## Ne kazandırır?

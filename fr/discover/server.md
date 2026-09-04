@@ -2,7 +2,7 @@
 
 Music Assistant est un gestionnaire de médiathèque open source qui combine différents services de streaming numérique et enceintes connectées dans une seule interface. Ce logiciel serveur basé sur Python permet la création d'un système central de gestion musicale sur des appareils fonctionnant en permanence.
 
-- ★ 3 018
+- ★ 3 029
 - GitHub Trending · 2026-06-13
 
 ## Ce que ça vous apporte

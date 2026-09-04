@@ -2,7 +2,7 @@
 
 Firecrawl ofrece una interfaz (API) para rastrear datos de sitios web a escala, extraerlos y convertirlos a un formato de texto claro que los modelos de IA puedan procesar. Esta herramienta simplifica los procesos de recopilación de datos al automatizar la interacción con el contenido web.
 
-- ★ 167.766
+- ★ 176.280
 - TypeScript
 - GitHub Trending · 2026-06-23
 

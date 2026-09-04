@@ -2,7 +2,7 @@
 
 Desarrollado con el lenguaje Rust, jcode ofrece un marco para probar y evaluar agentes de inteligencia artificial orientados a la codificación. Proporciona una infraestructura estándar para medir el desempeño de los agentes utilizados en los procesos de desarrollo de software.
 
-- ★ 19.029
+- ★ 19.081
 - Rust
 - GitHub Trending · 2026-06-21
 

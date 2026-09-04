@@ -2,7 +2,7 @@
 
 Moteur de recherche privé AGPLv3 pour interroger les pages web consultées et les fichiers personnels, avec indexation en texte intégral et recherche sémantique optionnelle.
 
-- ★ 3 100
+- ★ 3 574
 - Go
 - GitHub Trending · 2026-08-25
 

@@ -34,6 +34,7 @@ Non, le modèle fait uniquement des prédictions en utilisant les informations d
 - [ODS](/fr/discover/ods/)
 - [SIE](/fr/discover/sie/)
 - [Switchyard](/fr/discover/switchyard/)
+- [Magnitude](/fr/discover/magnitude/)
 - [Transcribe.cpp](/fr/discover/transcribe-cpp/)
 
 ---

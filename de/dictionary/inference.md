@@ -34,6 +34,7 @@ Nein, das Modell trifft Vorhersagen nur anhand der ihm zur Verfügung stehenden 
 - [ODS](/de/discover/ods/)
 - [SIE](/de/discover/sie/)
 - [Switchyard](/de/discover/switchyard/)
+- [Magnitude](/de/discover/magnitude/)
 - [Transcribe.cpp](/de/discover/transcribe-cpp/)
 
 ---

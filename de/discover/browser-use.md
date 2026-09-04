@@ -2,7 +2,7 @@
 
 Die Browser-Nutzung ist eine Python-Bibliothek, die es Agenten der künstlichen Intelligenz ermöglicht, Websites wie Menschen im Internet zu nutzen. Aus diesem Grund ist die Steuerung kostenlos, der Automatisierungsprozess basiert auf dem Internet, die Genehmigung ist online, der Komplex ist realisierbar, die Intelligenz ist künstlich.
 
-- ★ 111.369
+- ★ 112.224
 - Python
 - GitHub Trending · 2026-08-27
 

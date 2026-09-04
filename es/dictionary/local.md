@@ -23,5 +23,8 @@ Su mayor ventaja es la privacidad; Tus datos nunca salen de tu dispositivo.
 - [Self-hosted](/es/dictionary/self-hosted/)
 - [Offline](/es/dictionary/offline/)
 
+## Herramientas relacionadas
+- [Magnitude](/es/discover/magnitude/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/local/

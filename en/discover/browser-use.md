@@ -2,7 +2,7 @@
 
 Browser-use é uma biblioteca Python que permite que agentes de inteligência artificial interajam com sites da internet como os humanos. For this reason, the control is free, the automatizar process is based on the web, the permit is online, the complex is realizadas, the inteligência is artificial.
 
-- ★ 111,369
+- ★ 112,224
 - Python
 - GitHub Trending · 2026-08-27
 

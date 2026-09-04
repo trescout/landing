@@ -2,7 +2,7 @@
 
 CodexBar est un outil qui permet de visualiser les données d'utilisation d'OpenAI Codex et Claude Code sans nécessiter de connexion. Développée avec le langage Swift, cette application permet aux développeurs de suivre facilement les statistiques de consommation dans les outils de codage pris en charge par l'IA.
 
-- ★ 20 824
+- ★ 20 908
 - Swift
 - GitHub Trending · 2026-07-06
 

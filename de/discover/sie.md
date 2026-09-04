@@ -2,7 +2,7 @@
 
 SIE, entwickelt von Superlinked, ist ein Open-Source-Inferenzserver und Produktionscluster, der zum Ausführen von Modellen verwendet wird, die von KI-Agenten benötigt werden. Diese Python-basierte Struktur zielt darauf ab, komplexe Modellbereitstellungen zu verwalten und eine skalierbare Infrastruktur bereitzustellen.
 
-- ★ 3.157
+- ★ 3.198
 - Python
 - GitHub Trending · 2026-09-03
 
