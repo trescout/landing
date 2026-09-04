@@ -64,7 +64,7 @@ PR template'in 4 alt bölümünü sırayla doldur:
 - [x] Bu PR'da Skills Agent kullanıldı
 - Konu: Gemini RPD budget tracker · exponential backoff retry
 - Tool: claude-code
-- Dosyalar + satırlar: lib/utils/budget.ts:1-87, lib/ai/gemini.ts:96-121
+- Dosyalar + satırlar: lib/ai/rpd-budget.ts:1-95, lib/ai/gemini.ts:96-121
 - Prompt arşivi: docs/PROMPTS.md#gemini-retry
 
 ### Türkçe İçerik

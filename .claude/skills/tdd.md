@@ -19,7 +19,7 @@ Yeni feature ekleyeceksen, bug fix yapacaksan, refactor yapacaksan. `CLAUDE.md �
 
 ### RED · Failing test yaz
 
-1. Test dosyasını oluştur (örn. `lib/utils/budget.test.ts`)
+1. Test dosyasını oluştur (örn. `lib/ai/rpd-budget.test.ts`)
 2. Hedef davranışı test eden assertion yaz
 3. Çalıştır → **failing** olmalı (testi yazdığını doğrulamak için)
 
@@ -36,37 +36,22 @@ Yeni feature ekleyeceksen, bug fix yapacaksan, refactor yapacaksan. `CLAUDE.md �
 3. Test hâlâ **passing** olmalı
 4. Yeni davranış EKLEME · sadece mevcut kodu temizle
 
-## İyi örnek
+## İyi örnek (gerçek kod: `lib/ai/rpd-budget.test.ts`)
 
 ```typescript
 // 1. RED · failing test
-test('budget tracker rejects over 20 RPD', () => {
-  const b = new BudgetTracker(20);
-  for (let i = 0; i < 20; i++) b.consume();
-  expect(() => b.consume()).toThrow('RPD exceeded');
+test('taşan plan açık hata verir · rapor hiç başlamaz', async () => {
+  await assert.rejects(() => assertBudget(1_000_000), /bütçesi yetersiz/);
 });
 
-// 2. GREEN · minimum kod (test geçer)
-class BudgetTracker {
-  constructor(private limit: number, private count = 0) {}
-  consume() {
-    if (this.count >= this.limit) throw new Error('RPD exceeded');
-    this.count++;
-  }
+// 2. GREEN · minimum kod (gerçek karşılık: lib/ai/rpd-budget.ts → assertBudget)
+export async function assertBudget(planned: number): Promise<void> {
+  const remaining = ...; // 1500 limit − 100 tampon − sayaç
+  if (planned > remaining) throw new Error(`Gemini RPD bütçesi yetersiz ...`);
 }
 
 // 3. REFACTOR · isim iyileştir, davranış değiştirme
-class GeminiBudgetTracker {
-  private count = 0;
-  constructor(private rpdLimit: number) {}
-  /** Throws if RPD limit exceeded */
-  consume(): void {
-    if (this.count >= this.rpdLimit) {
-      throw new Error(`Gemini RPD limit (${this.rpdLimit}) exceeded`);
-    }
-    this.count++;
-  }
-}
+// (ör. mesaj formatı, sabit adları · limit matematiği aynı kalır)
 ```
 
 ## Anti-patterns
