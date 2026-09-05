@@ -18409,14 +18409,14 @@
     "slug": "topcoat",
     "title": "Topcoat",
     "tagline": "Tokio ekibi tarafından geliştirilen Topcoat, Rust dilinde web uygulamaları oluşturmak için gerekli tüm araçları barındıran…",
-    "meta": "★ 4.584 · Rust",
+    "meta": "★ 4.761 · Rust",
     "image": "/assets/discover/og/topcoat.webp",
     "source": "GitHub",
     "date": "2026-07-21",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 4584,
+    "stars": 4761,
     "lite": false,
     "headline": "Rust ile tam kapsamlı web uygulamaları",
     "last_review": "2026-09-05",
@@ -18441,6 +18441,13 @@
         "onceki_yildiz": 4567,
         "surum": "v0.6.2",
         "surum_tarihi": "2026-08-18"
+      },
+      {
+        "tarih": "2026-09-05",
+        "yildiz": 4761,
+        "onceki_yildiz": 4584,
+        "surum": "v0.7.0",
+        "surum_tarihi": "2026-09-05"
       }
     ],
     "tagline_en": "Developed by the Tokio team, Topcoat contains all the necessary tools to create web applications in Rust.",
@@ -29424,7 +29431,8 @@
     "tagline_fr": "Exploitarium est une archive qui rassemble des preuves de concept (PoC) de vulnérabilités accessibles au public et des recherches en cybersécurité dans un seul…",
     "tagline_pt": "Exploitarium é um arquivo que reúne provas de conceito (PoC) de vulnerabilidades públicas e pesquisas de segurança cibernética em um único lugar…",
     "tagline_es": "Exploitarium es un archivo que recopila pruebas de concepto (PoC) de vulnerabilidades públicas e investigaciones de ciberseguridad en un solo lugar...",
-    "tagline_de": "Exploitarium ist ein Archiv, das öffentlich zugängliche Proof-of-Concepts (PoC) für Sicherheitslücken und Cybersicherheitsforschung an einem Ort sammelt..."
+    "tagline_de": "Exploitarium ist ein Archiv, das öffentlich zugängliche Proof-of-Concepts (PoC) für Sicherheitslücken und Cybersicherheitsforschung an einem Ort sammelt...",
+    "last_seen": "2026-09-05"
   },
   {
     "slug": "miles",
@@ -29458,7 +29466,8 @@
     "tagline_fr": "Miles automatise les processus d'apprentissage par renforcement (reinforcement learning) pour les grands modèles de langage (LLM) et les modèles de langage visuel (VLM)…",
     "tagline_pt": "Miles é um framework que otimiza processos de aprendizado por reforço (reinforcement learning) para grandes modelos de linguagem (LLM) e modelos de linguagem visual (VLM)…",
     "tagline_es": "Miles es un marco de trabajo que optimiza los procesos de aprendizaje por refuerzo (reinforcement learning) para modelos de lenguaje grandes (LLM) y modelos de lenguaje visual (VLM)...",
-    "tagline_de": "Miles optimiert Reinforcement-Learning-Prozesse für große Sprachmodelle (LLM) und visuelle Sprachmodelle (VLM)..."
+    "tagline_de": "Miles optimiert Reinforcement-Learning-Prozesse für große Sprachmodelle (LLM) und visuelle Sprachmodelle (VLM)...",
+    "last_seen": "2026-09-05"
   },
   {
     "slug": "renodx",
@@ -29482,6 +29491,7 @@
     "tagline_fr": "Renodx est un moteur de conversion qui ajoute la prise en charge de la plage dynamique élevée (HDR) aux anciens jeux DirectX.",
     "tagline_pt": "Renodx é um motor de conversão que adiciona suporte a alta faixa dinâmica (HDR) a jogos DirectX antigos.",
     "tagline_es": "Renodx es un motor de conversión que añade soporte de alto rango dinámico (HDR) a juegos antiguos de DirectX.",
-    "tagline_de": "Renodx ist eine Konvertierungs-Engine, die älteren DirectX-Spielen Unterstützung für High Dynamic Range (HDR) hinzufügt."
+    "tagline_de": "Renodx ist eine Konvertierungs-Engine, die älteren DirectX-Spielen Unterstützung für High Dynamic Range (HDR) hinzufügt.",
+    "last_seen": "2026-09-05"
   }
 ]
