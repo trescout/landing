@@ -2,7 +2,7 @@
 
 Diagram-design, developed by Cathryn Lavery, includes 29 different editorial diagram types prepared for the artificial intelligence-supported coding tool Claude Code. This library cleanly presents complex diagrams directly using HTML and scalable vector graphics (SVG) instead of standard diagramming tools.
 
-- ★ 29,169
+- ★ 31,216
 - HTML
 - GitHub Trending · 2026-08-13
 

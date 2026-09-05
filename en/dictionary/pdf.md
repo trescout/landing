@@ -31,8 +31,8 @@ It reads the PDF by converting it into text with special tools (parsers) that pa
 - [PDF Parser](/en/dictionary/pdf-parser/)
 
 ## Related tools
-- [MarkItDown](/en/discover/markitdown/)
 - [Anthropic Skills](/en/discover/anthropic-skills/)
+- [MarkItDown](/en/discover/markitdown/)
 - [Hello Algo](/en/discover/hello-algo/)
 - [Puppeteer](/en/discover/puppeteer/)
 - [Stirling-PDF](/en/discover/stirling-pdf/)

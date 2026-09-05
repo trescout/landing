@@ -2,7 +2,7 @@
 
 Llama.cpp ist eine C- und C++-basierte Inferenzbibliothek, die die effiziente Ausführung großer Sprachmodelle auf Standardhardware ermöglicht. Die Software erleichtert durch ihren geringen Speicherverbrauch und ihre hochleistungsorientierte Struktur die Ausführung von Modellen der künstlichen Intelligenz auf lokalen Geräten.
 
-- ★ 125.883
+- ★ 127.101
 - C++
 - GitHub Trending · 2026-06-08
 

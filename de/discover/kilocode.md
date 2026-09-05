@@ -2,7 +2,7 @@
 
 Kilo ist eine All-in-One-Agenten-basierte Engineering-Plattform zur Beschleunigung von Softwareentwicklungsprozessen. Es standardisiert die Anwendungserstellungs-, Verteilungs- und Iterationsprozesse durch einen Open-Source-Softwareentwicklungsagenten (Codierungsagenten).
 
-- ★ 27.155
+- ★ 27.182
 - TypeScript
 - GitHub Trending · 2026-06-19
 

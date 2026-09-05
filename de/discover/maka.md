@@ -2,7 +2,7 @@
 
 Apache Maka ist ein lokal ausgerichteter KI-Agent-Arbeitsbereich, der Modellnachrichten, Tool-Interaktionen, Einwilligungsentscheidungen und Beendigungsereignisse in einem Protokoll speichert, das nur zu neuen Datensätzen hinzugefügt werden kann.
 
-- ★ 3.701
+- ★ 4.732
 - TypeScript
 - GitHub Trending · 2026-08-22
 

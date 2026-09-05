@@ -29,8 +29,8 @@ Lee el PDF convirtiéndolo en texto con herramientas especiales (analizadores) q
 - [PDF Parser](/es/dictionary/pdf-parser/)
 
 ## Herramientas relacionadas
-- [MarkItDown](/es/discover/markitdown/)
 - [Anthropic Skills](/es/discover/anthropic-skills/)
+- [MarkItDown](/es/discover/markitdown/)
 - [Hello Algo](/es/discover/hello-algo/)
 - [Puppeteer](/es/discover/puppeteer/)
 - [Stirling-PDF](/es/discover/stirling-pdf/)

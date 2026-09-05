@@ -2,15 +2,15 @@
 
 Clypra, Tauri, React ve TypeScript kullanılarak geliştirilen açık kaynak kodlu bir video düzenleyici (video editor) uygulamasıdır. Yazılım, ücretli video düzenleme araçlarında bulunan gelişmiş özellikleri ücretsiz bir alternatif olarak sunmayı hedefler.
 
-- ★ 3.143
+- ★ 3.171
 - TypeScript
 - GitHub Trending · 2026-07-15
 
 ## Güncelleme
+- 5 Eylül 2026: Yıldız 3.143 → 3.171, son sürüm v1.4.6 (5 Eylül 2026).
 - 27 Ağustos 2026: Yıldız 3.134 → 3.143, son sürüm v1.4.5 (27 Ağustos 2026).
 - 24 Ağustos 2026: Yıldız 3.129 → 3.134, son sürüm v1.4.2 (24 Ağustos 2026).
 - 23 Ağustos 2026: Yıldız 3.102 → 3.129, son sürüm v1.4.0 (23 Ağustos 2026).
-- 17 Ağustos 2026: Yıldız 2.965 → 3.102, son sürüm v1.3.0 (16 Ağustos 2026).
 
 ## Ne kazandırır?
 - Donanım hızlandırmalı yüksek performanslı video işleme

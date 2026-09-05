@@ -33,8 +33,8 @@ Normalerweise gibt das System Fehler aus, aber es gibt auch kritische Befehle, d
 ## Verwandte Werkzeuge
 - [Superpowers](/de/discover/superpowers/)
 - [Spec Kit](/de/discover/spec-kit/)
-- [Codex](/de/discover/codex/)
 - [Ponytail](/de/discover/ponytail/)
+- [Codex](/de/discover/codex/)
 - [Graphify](/de/discover/graphify/)
 - [TradingAgents](/de/discover/tradingagents/)
 - [Angular](/de/discover/angular/)

@@ -33,8 +33,8 @@ Le système génère généralement des erreurs, mais il existe également des c
 ## Outils liés
 - [Superpowers](/fr/discover/superpowers/)
 - [Spec Kit](/fr/discover/spec-kit/)
-- [Codex](/fr/discover/codex/)
 - [Ponytail](/fr/discover/ponytail/)
+- [Codex](/fr/discover/codex/)
 - [Graphify](/fr/discover/graphify/)
 - [TradingAgents](/fr/discover/tradingagents/)
 - [Angular](/fr/discover/angular/)

@@ -2,11 +2,12 @@
 
 GitNexus, tarayıcı üzerinde çalışan ve kod depolarını etkileşimli bir bilgi grafiğine (knowledge graph) dönüştüren bir kod analiz motoru. Yerel veya bulut tabanlı Git depolarını kullanarak, kod tabanını anlamlandırmak için yerleşik bir grafik tabanlı getirme artırılmış üretim (Graph RAG) ajanı sunuyor.
 
-- ★ 46.751
+- ★ 47.027
 - TypeScript
 - GitHub Trending · 2026-08-28
 
 ## Güncelleme
+- 5 Eylül 2026: Yıldız 46.751 → 47.027, son sürüm v1.6.11 (4 Eylül 2026).
 - 31 Ağustos 2026: Yıldız 46.074 → 46.751, son sürüm v1.6.10 (27 Ağustos 2026).
 
 ## Ne kazandırır?

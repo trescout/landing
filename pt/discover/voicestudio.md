@@ -2,7 +2,7 @@
 
 VoiceStudio é uma plataforma de processamento de áudio de código aberto que realiza tarefas como clonagem de voz, dublagem e transcrição sem a necessidade de internet. Oferece uma alternativa que pode ser executada localmente ao serviço de síntese de voz ElevenLabs e suporta 646 idiomas.
 
-- ★ 16.809
+- ★ 18.382
 - Python
 - GitHub Trending · 2026-09-03
 

@@ -26,6 +26,7 @@ Denn damit das System die Wahrheit herausfinden kann, muss es viele Versuche unt
 
 ## Verwandte Werkzeuge
 - [Prime Agent](/de/discover/prime-agent/)
+- [Miles](/de/discover/miles/)
 - [Microduck Rl](/de/discover/microduck-rl/)
 
 ---

@@ -2,17 +2,17 @@
 
 Llama.cpp, büyük dil modellerinin (large language models) standart donanımlar üzerinde verimli bir şekilde çalıştırılmasını sağlayan C ve C++ tabanlı bir çıkarım (inference) kütüphanesidir. Yazılım, düşük bellek kullanımı ve yüksek performans odaklı yapısıyla yerel cihazlarda yapay zekâ modellerinin çalıştırılmasını kolaylaştırır.
 
-- ★ 125.883
+- ★ 127.101
 - C++
 - GitHub Trending · 2026-06-08
 
 TreScout notu: Dil modellerini kendi bilgisayarınızda, sunucu kiralamadan çalıştırır. Kurulum artık kolay ama beklentiyi ayarlayın: Küçük modeller hızlı, büyükleri belleğinizi zorlar ve bulut hizmetlerinin cevap kalitesini beklemeyin.
 
 ## Güncelleme
+- 5 Eylül 2026: Yıldız 125.883 → 127.101, son sürüm v0.4.0 (4 Eylül 2026).
 - 27 Ağustos 2026: Yıldız 125.068 → 125.883, son sürüm v0.3.0 (25 Ağustos 2026).
 - 22 Ağustos 2026: Yıldız 124.998 → 125.068, son sürüm v0.2.0 (21 Ağustos 2026).
 - 21 Ağustos 2026: Yıldız 124.919 → 124.998, son sürüm b10549 (21 Ağustos 2026).
-- 21 Ağustos 2026: Yıldız 124.888 → 124.919, son sürüm b10545 (21 Ağustos 2026).
 
 ## Ne kazandırır?
 - Büyük dil modellerini standart donanımlarda verimli çalıştırır.

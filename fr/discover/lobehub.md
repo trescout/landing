@@ -2,7 +2,7 @@
 
 LobeHub permet de créer une équipe d'IA qui travaille 24 heures sur 24, 7 jours sur 7, en gérant les agents d'intelligence artificielle via des processus de recrutement, de planification et de reporting. La plateforme propose une interface d'administration qui automatise les flux de travail en organisant différents agents à partir d'un seul centre.
 
-- ★ 82 127
+- ★ 82 246
 - TypeScript
 - GitHub Trending · 2026-07-17
 

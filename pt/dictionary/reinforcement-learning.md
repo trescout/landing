@@ -26,6 +26,7 @@ Porque o sistema precisa realizar muitas tentativas para encontrar a resposta co
 
 ## Ferramentas relacionadas
 - [Prime Agent](/pt/discover/prime-agent/)
+- [Miles](/pt/discover/miles/)
 - [Microduck Rl](/pt/discover/microduck-rl/)
 
 ---

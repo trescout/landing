@@ -2,7 +2,7 @@
 
 Habilidades Antrópicas; Es el repositorio oficial de paquetes de habilidades que Claude carga dinámicamente para desempeñarse mejor en misiones específicas. Estas carpetas de instrucciones, guiones y recursos le enseñan a Claude cómo realizar determinadas tareas.
 
-- ★ 165.785
+- ★ 174.279
 - Python
 - Lisans: kontrol et
 - GitHub Trending · 29 May 2026

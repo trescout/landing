@@ -26,6 +26,7 @@ Porque para que el sistema encuentre la verdad, necesita hacer muchos intentos y
 
 ## Herramientas relacionadas
 - [Prime Agent](/es/discover/prime-agent/)
+- [Miles](/es/discover/miles/)
 - [Microduck Rl](/es/discover/microduck-rl/)
 
 ---

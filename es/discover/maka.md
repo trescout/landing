@@ -2,7 +2,7 @@
 
 Apache Maka es un espacio de trabajo de agente de IA local que mantiene mensajes modelo, interacciones de herramientas, decisiones de consentimiento y eventos de terminación en un registro que solo se puede agregar a registros nuevos.
 
-- ★ 3.701
+- ★ 4.732
 - TypeScript
 - GitHub Trending · 2026-08-22
 

@@ -2,7 +2,7 @@
 
 Garden-skills es una colección de habilidades (skills) de código abierto diseñada para diversas funciones, como diseño web, adquisición de información y creación visual. Para ello, puede utilizar el software para integrar el software.
 
-- ★ 11.152
+- ★ 12.173
 - CSS
 - GitHub Trending · 2026-08-27
 

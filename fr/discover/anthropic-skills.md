@@ -2,7 +2,7 @@
 
 Compétences anthropiques ; Il s'agit du référentiel officiel des packs de compétences que Claude charge dynamiquement pour mieux performer dans des missions spécifiques. Ces dossiers d'instructions, de scripts et de ressources apprennent à Claude comment effectuer certaines tâches.
 
-- ★ 165 785
+- ★ 174 279
 - Python
 - Lisans: kontrol et
 - GitHub Trending · 29 May 2026

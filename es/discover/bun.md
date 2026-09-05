@@ -2,7 +2,7 @@
 
 Bun es una herramienta de alto rendimiento que combina el tiempo de ejecución de JavaScript, el administrador de paquetes, el ejecutor de pruebas y el empaquetador bajo un mismo techo. Desarrollada con el lenguaje Rust, esta plataforma ofrece una infraestructura integrada para acelerar los procesos de desarrollo de software.
 
-- ★ 95.881
+- ★ 95.887
 - Rust
 - GitHub Trending · 2026-07-11
 

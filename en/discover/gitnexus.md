@@ -2,7 +2,7 @@
 
 GitNexus is a browser-based code analysis engine that transforms code repositories into an interactive knowledge graph. Using local or cloud-based Git repositories, it offers a built-in Graph Retrieval-Augmented Generation (Graph RAG) agent to make sense of the codebase.
 
-- ★ 46,751
+- ★ 47,027
 - TypeScript
 - GitHub Trending · 2026-08-28
 

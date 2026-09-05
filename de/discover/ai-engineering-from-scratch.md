@@ -2,7 +2,7 @@
 
 Einführung in die Technik der künstlichen Intelligenz von Grund auf: 485 Lektionen, 20 Phasen und ca. 320 Stunden Inhalt. Er lehrt jeden Algorithmus, von der linearen Algebra bis hin zu autonomen Agenten, zunächst mit Mathematik und dann durch manuelles Schreiben von Code. Dieser Kurs, der die Sprachen Python, TypeScript, Rust und Julia abdeckt, ist völlig kostenlos und Open Source.
 
-- ★ 49.881
+- ★ 52.433
 - Python
 - MIT
 - GitHub Trending · 26 May 2026

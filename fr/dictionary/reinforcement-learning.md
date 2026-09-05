@@ -26,6 +26,7 @@ Parce que pour que le système trouve la bonne solution, il doit effectuer un tr
 
 ## Outils liés
 - [Prime Agent](/fr/discover/prime-agent/)
+- [Miles](/fr/discover/miles/)
 - [Microduck Rl](/fr/discover/microduck-rl/)
 
 ---

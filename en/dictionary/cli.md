@@ -35,8 +35,8 @@ The system usually gives errors, but there are also critical commands that requi
 ## Related tools
 - [Superpowers](/en/discover/superpowers/)
 - [Spec Kit](/en/discover/spec-kit/)
-- [Codex](/en/discover/codex/)
 - [Ponytail](/en/discover/ponytail/)
+- [Codex](/en/discover/codex/)
 - [Graphify](/en/discover/graphify/)
 - [TradingAgents](/en/discover/tradingagents/)
 - [Angular](/en/discover/angular/)

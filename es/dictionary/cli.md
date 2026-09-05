@@ -33,8 +33,8 @@ El sistema suele dar errores, pero también hay comandos críticos que requieren
 ## Herramientas relacionadas
 - [Superpowers](/es/discover/superpowers/)
 - [Spec Kit](/es/discover/spec-kit/)
-- [Codex](/es/discover/codex/)
 - [Ponytail](/es/discover/ponytail/)
+- [Codex](/es/discover/codex/)
 - [Graphify](/es/discover/graphify/)
 - [TradingAgents](/es/discover/tradingagents/)
 - [Angular](/es/discover/angular/)

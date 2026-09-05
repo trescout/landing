@@ -2,7 +2,7 @@
 
 Developed with the Rust programming language, Pumpkin offers an open source infrastructure that aims to host Minecraft servers faster and more efficiently. It aims to optimize server management processes with its memory security and high performance focused structure.
 
-- ★ 10,510
+- ★ 11,082
 - Rust
 - GitHub Trending · 2026-07-23
 

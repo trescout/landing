@@ -2,7 +2,7 @@
 
 Anthropische Fähigkeiten; Es handelt sich um die offizielle Sammlung von Fertigkeitspaketen, die Claude dynamisch lädt, um bei bestimmten Missionen bessere Leistungen zu erbringen. Diese Ordner mit Anweisungen, Skripten und Ressourcen zeigen Claude, wie man bestimmte Aufgaben erledigt.
 
-- ★ 165.785
+- ★ 174.279
 - Python
 - Lisans: kontrol et
 - GitHub Trending · 29 May 2026

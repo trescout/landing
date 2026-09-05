@@ -2,7 +2,7 @@
 
 Aplica reglas orientadas a tareas para reducir código innecesario y garantizar validación, seguridad y accesibilidad durante el flujo de codificación agentic. Está pensado para integrarse como plugin o adaptador en varios host de agentes.
 
-- ★ 119.108
+- ★ 126.773
 - JavaScript
 - GitHub Trending · 2026-08-25
 

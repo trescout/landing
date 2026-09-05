@@ -2,7 +2,7 @@
 
 SWC wurde mit der Rust-Sprache entwickelt und bietet eine schnelle Kompilierungs- und Bündelungsplattform für Webprojekte. Es beschleunigt moderne Webentwicklungsprozesse durch die Verarbeitung von JavaScript- und TypeScript-Dateien mit hoher Leistung.
 
-- ★ 34.179
+- ★ 34.197
 - GitHub Trending · 2026-06-14
 
 ## Was es bringt

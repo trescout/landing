@@ -28,6 +28,7 @@ Because the system needs to perform many trials and learn a lesson from each tri
 
 ## Related tools
 - [Prime Agent](/en/discover/prime-agent/)
+- [Miles](/en/discover/miles/)
 - [Microduck Rl](/en/discover/microduck-rl/)
 
 ---

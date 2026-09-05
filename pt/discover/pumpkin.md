@@ -2,7 +2,7 @@
 
 Desenvolvido com a linguagem de programação Rust, o Pumpkin oferece uma infraestrutura de código aberto que visa hospedar servidores Minecraft de forma mais rápida e eficiente. Tem como objetivo otimizar os processos de gerenciamento de servidores com sua segurança de memória e estrutura focada em alto desempenho.
 
-- ★ 10.510
+- ★ 11.082
 - Rust
 - GitHub Trending · 2026-07-23
 

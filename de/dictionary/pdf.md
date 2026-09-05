@@ -29,8 +29,8 @@ Es liest das PDF, indem es es mit speziellen Werkzeugen (Parsern), die den darin
 - [PDF Parser](/de/dictionary/pdf-parser/)
 
 ## Verwandte Werkzeuge
-- [MarkItDown](/de/discover/markitdown/)
 - [Anthropic Skills](/de/discover/anthropic-skills/)
+- [MarkItDown](/de/discover/markitdown/)
 - [Hello Algo](/de/discover/hello-algo/)
 - [Puppeteer](/de/discover/puppeteer/)
 - [Stirling-PDF](/de/discover/stirling-pdf/)
