@@ -1,0 +1,397 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-06",
+  "capturedAt": "2026-09-06T08:22:56.615Z",
+  "editorial": "Dieser Bericht enthält die Trends, die heute zum ersten Mal hervorgehoben wurden, ohne die Datensätze zu wiederholen, die in den normalen Berichten der letzten 30 Tage enthalten waren.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "humanlayer/skills",
+          "url": "https://github.com/humanlayer/skills",
+          "summary": "Die von Humanlayer entwickelte Skills-Bibliothek ermöglicht es KI-Agenten, Aufgaben auszuführen, die von Menschen genehmigt wurden. Sie erlaubt Entwicklern, KI-Modellen (LLMs) eine sichere und überprüfbare menschliche Interaktion hinzuzufügen.",
+          "meta": "TypeScript · ★ 2.851 · +442 heute",
+          "snapshot": {
+            "sourceId": "humanlayer/skills",
+            "capturedAt": "2026-09-06T08:22:58.002Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 2851,
+              "engagementCount": 442,
+              "rank": 10,
+              "extra": {
+                "starsToday": 442
+              }
+            }
+          }
+        },
+        {
+          "title": "BraveOPotato/FckSignups",
+          "url": "https://github.com/BraveOPotato/FckSignups",
+          "summary": "FckSignups ist eine Liste, die quelloffene, browserbasierte Tools zusammenstellt, die keine Registrierung oder Mitgliedschaft vom Benutzer erfordern. Sie bündelt digitale Dienste, auf die Softwareentwickler und Endbenutzer schnell und ohne Kontoerstellung zugreifen können, in einer zentralen Quelle.",
+          "meta": "TypeScript · ★ 3.015 · +68 heute",
+          "snapshot": {
+            "sourceId": "BraveOPotato/FckSignups",
+            "capturedAt": "2026-09-06T08:22:58.002Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 3015,
+              "engagementCount": 68,
+              "rank": 12,
+              "extra": {
+                "starsToday": 68
+              }
+            }
+          }
+        },
+        {
+          "title": "WorldFlowAI/everything-claude-code",
+          "url": "https://github.com/WorldFlowAI/everything-claude-code",
+          "summary": "Claude Code ist ein Toolkit mit Agenten, Befehlen und Hooks, das entwickelt wurde, um KI-gestützte Entwicklungsprozesse zu beschleunigen. Es vereint alle notwendigen Komponenten zur Automatisierung von Softwareentwicklungs-Workflows unter einem Dach.",
+          "meta": "JavaScript · ★ 2.453 · +95 heute",
+          "snapshot": {
+            "sourceId": "WorldFlowAI/everything-claude-code",
+            "capturedAt": "2026-09-06T08:22:58.002Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 2453,
+              "engagementCount": 95,
+              "rank": 13,
+              "extra": {
+                "starsToday": 95
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Nitter has more working instances than before the takedowns",
+          "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+          "summary": "Nitter, ein quelloffener Viewer, der die Benutzeroberfläche der X-Plattform (ehemals Twitter) imitiert, funktioniert trotz der Einschränkungen der Plattform weiterhin mit von der Community verwalteten Instanzen. Benutzer bevorzugen diese alternativen Oberflächen, um die Social-Media-Plattform X zu durchsuchen, ohne ein Konto zu erstellen oder jemandem zu folgen.",
+          "meta": "675 Punkte · 332 Kommentare",
+          "snapshot": {
+            "sourceId": "49571634",
+            "capturedAt": "2026-09-06T08:22:56.903Z",
+            "metadata": {
+              "popularity": 675,
+              "engagementCount": 332,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49571634",
+                  "popularity": 675,
+                  "engagementCount": 332
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "Cider9986",
+                "createdAt": "2026-09-05T00:04:16Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49571634"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49571634",
+              "popularity": 675,
+              "engagementCount": 332
+            }
+          ]
+        },
+        {
+          "title": "Private German rocket makes history, reaches orbit from European soil",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+          "summary": "Die vom deutschen Luft- und Raumfahrtunternehmen Isar Aerospace entwickelte Spectrum-Rakete ging als erstes privat hergestelltes Trägersystem in die Geschichte ein, das von europäischem Boden aus den Orbit erreichte. Diese Mission, die vom Andøya Space Center in Norwegen aus gestartet wurde, zielt darauf ab, die Unabhängigkeit Kontinentaleuropas im kommerziellen Weltraumtransport zu stärken.",
+          "meta": "544 Punkte · 283 Kommentare",
+          "snapshot": {
+            "sourceId": "49580369",
+            "capturedAt": "2026-09-06T08:22:56.903Z",
+            "metadata": {
+              "popularity": 544,
+              "engagementCount": 283,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49580369",
+                  "popularity": 544,
+                  "engagementCount": 283
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "bookmtn",
+                "createdAt": "2026-09-05T20:31:38Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49580369"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49580369",
+              "popularity": 544,
+              "engagementCount": 283
+            }
+          ]
+        },
+        {
+          "title": "Statichost.eu – European static site hosting",
+          "url": "https://www.statichost.eu/",
+          "summary": "Statichost.eu bietet Hosting-Dienste für statische Websites über in Europa ansässige Server an. Die Plattform konzentriert sich auf Datenschutz und lokale Hosting-Anforderungen und richtet sich insbesondere an Benutzer, die Daten innerhalb der Grenzen der Europäischen Union speichern möchten.",
+          "meta": "475 Punkte · 216 Kommentare",
+          "snapshot": {
+            "sourceId": "49569896",
+            "capturedAt": "2026-09-06T08:22:56.903Z",
+            "metadata": {
+              "popularity": 475,
+              "engagementCount": 216,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49569896",
+                  "popularity": 475,
+                  "engagementCount": 216
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "p4bl0",
+                "createdAt": "2026-09-04T20:34:49Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49569896"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49569896",
+              "popularity": 475,
+              "engagementCount": 216
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "XHToken/Spark-X2.5-4B",
+          "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+          "summary": "Spark-X2.5-4B, das auf HuggingFace veröffentlicht wurde, ist ein auf Textgenerierung (text-generation) spezialisiertes KI-Modell. Mit seiner geringen Parameteranzahl bietet es schnelle und effiziente Möglichkeiten zur Textverarbeitung.",
+          "meta": "♥ 563 · 4.755 Downloads",
+          "snapshot": {
+            "sourceId": "XHToken/Spark-X2.5-4B",
+            "capturedAt": "2026-09-06T08:22:56.713Z",
+            "metadata": {
+              "popularity": 563,
+              "engagementCount": 4755,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 469,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "spark2_5",
+                  "text-generation",
+                  "llm",
+                  "sparkx2_5",
+                  "conversational",
+                  "custom_code",
+                  "base_model:XHToken/Spark-X2.5-4B-Base",
+                  "base_model:finetune:XHToken/Spark-X2.5-4B-Base",
+                  "license:apache-2.0",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "google/timesfm-3.0-pytorch",
+          "url": "https://huggingface.co/google/timesfm-3.0-pytorch",
+          "summary": "TimesFM, entwickelt von Google, ist ein Basismodell, das für Zeitreihenprognosen (time-series forecasting) trainiert wurde. Es lernt komplexe Muster in Datensätzen, um numerische Vorhersagen für die Zukunft zu treffen.",
+          "meta": "♥ 469 · 123.025 Downloads",
+          "snapshot": {
+            "sourceId": "google/timesfm-3.0-pytorch",
+            "capturedAt": "2026-09-06T08:22:56.713Z",
+            "metadata": {
+              "popularity": 469,
+              "engagementCount": 123025,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 411,
+                "pipelineTag": "time-series-forecasting",
+                "tags": [
+                  "safetensors",
+                  "time-series",
+                  "forecasting",
+                  "pretrained",
+                  "pytorch",
+                  "google",
+                  "time-series-forecasting",
+                  "arxiv:2310.10688",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": []
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "The revolt of the reader",
+          "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+          "summary": "Die Reaktion der Leser auf die Unordnung in digitalen Inhalten und werbeorientierte Benutzeroberflächen erhöht das Interesse an textbasierten und schlichten Plattformen. Dieser Trend spiegelt das Streben der Nutzer nach einem Leseerlebnis wider, das frei von ablenkenden Elementen ist und sich direkt auf Informationen konzentriert.",
+          "meta": "49 Punkte · 8 Kommentare",
+          "snapshot": {
+            "sourceId": "xnqxqe",
+            "capturedAt": "2026-09-06T08:22:57.094Z",
+            "metadata": {
+              "popularity": 49,
+              "engagementCount": 8,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/xnqxqe/revolt_reader",
+                  "popularity": 49,
+                  "engagementCount": 8
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "practices",
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-05T16:28:47.233-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/xnqxqe/revolt_reader",
+              "popularity": 49,
+              "engagementCount": 8
+            }
+          ]
+        },
+        {
+          "title": "zopt: low-ceremony command line parsing for Zig",
+          "url": "https://codeberg.org/hgrsd/zopt",
+          "summary": "Zopt ist eine Bibliothek für die Befehlszeilenanalyse (command line parsing) mit geringem Overhead, die für die Systemprogrammiersprache Zig entwickelt wurde. Sie ermöglicht es Entwicklern, Befehlszeilenargumente schnell zu verarbeiten, ohne komplexe Konfigurationen zu benötigen.",
+          "meta": "29 Punkte · 18 Kommentare",
+          "snapshot": {
+            "sourceId": "64n3wp",
+            "capturedAt": "2026-09-06T08:22:57.094Z",
+            "metadata": {
+              "popularity": 29,
+              "engagementCount": 18,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/64n3wp/zopt_low_ceremony_command_line_parsing",
+                  "popularity": 29,
+                  "engagementCount": 18
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "show",
+                  "zig"
+                ],
+                "createdAt": "2026-09-05T09:48:58.209-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/64n3wp/zopt_low_ceremony_command_line_parsing",
+              "popularity": 29,
+              "engagementCount": 18
+            }
+          ]
+        },
+        {
+          "title": "It matters who teaches you",
+          "url": "https://bastiangruber.ca/posts/it-matters-who-teaches-you/",
+          "summary": "Die Genauigkeit des erworbenen Wissens und die Methode der Wissensvermittlung spielen eine entscheidende Rolle bei der Entwicklung technischer Kompetenz im Softwareentwicklungsprozess. Die Anleitung durch erfahrene Ausbilder reduziert konzeptionelle Komplexität und macht den Lernprozess effizienter.",
+          "meta": "27 Punkte · 2 Kommentare",
+          "snapshot": {
+            "sourceId": "dxjvcc",
+            "capturedAt": "2026-09-06T08:22:57.094Z",
+            "metadata": {
+              "popularity": 27,
+              "engagementCount": 2,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/dxjvcc/it_matters_who_teaches_you",
+                  "popularity": 27,
+                  "engagementCount": 2
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "education",
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-05T12:47:34.482-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/dxjvcc/it_matters_who_teaches_you",
+              "popularity": 27,
+              "engagementCount": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "Spezielle Fähigkeiten oder Werkzeugnutzungsfertigkeiten, die KI-Modelle erwerben, um eine bestimmte Aufgabe zu erfüllen."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Ein fortschrittliches KI-Modell, das mit einer riesigen Datenmenge trainiert wurde, um menschliche Sprache zu verstehen und Texte zu generieren."
+    },
+    {
+      "term": "hooks",
+      "explanation": "Verbindungspunkte, die es ermöglichen, während des Betriebs einer Software an einem bestimmten Punkt einzugreifen und den Prozess zu beeinflussen."
+    },
+    {
+      "term": "instances",
+      "explanation": "Jede einzelne, gleichzeitig laufende, unabhängige Kopie einer Software oder eines Systems."
+    }
+  ]
+}

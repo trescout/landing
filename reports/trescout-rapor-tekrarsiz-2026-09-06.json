@@ -1,0 +1,397 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-06",
+  "capturedAt": "2026-09-06T08:22:56.615Z",
+  "editorial": "Bu rapor, son 30 gündeki normal raporlarda yer alan kayıtları tekrar etmeden bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "humanlayer/skills",
+          "url": "https://github.com/humanlayer/skills",
+          "summary": "Humanlayer tarafından geliştirilen skills, yapay zekâ ajanlarının insanlar tarafından onaylanan görevleri gerçekleştirmesini sağlayan bir kütüphane. Geliştiricilerin, yapay zekâ modellerine (LLM) güvenli ve denetlenebilir insan etkileşimi eklemesine olanak tanıyor.",
+          "meta": "TypeScript · ★ 2.851 · +442 bugün",
+          "snapshot": {
+            "sourceId": "humanlayer/skills",
+            "capturedAt": "2026-09-06T08:22:58.002Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 2851,
+              "engagementCount": 442,
+              "rank": 10,
+              "extra": {
+                "starsToday": 442
+              }
+            }
+          }
+        },
+        {
+          "title": "BraveOPotato/FckSignups",
+          "url": "https://github.com/BraveOPotato/FckSignups",
+          "summary": "FckSignups, kullanıcıdan kayıt veya üyelik talep etmeyen açık kaynaklı tarayıcı tabanlı araçları bir araya getiren bir liste. Yazılım geliştiricilerin ve son kullanıcıların hesap oluşturmadan hızlıca erişebileceği dijital hizmetleri merkezi bir kaynakta topluyor.",
+          "meta": "TypeScript · ★ 3.015 · +68 bugün",
+          "snapshot": {
+            "sourceId": "BraveOPotato/FckSignups",
+            "capturedAt": "2026-09-06T08:22:58.002Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 3015,
+              "engagementCount": 68,
+              "rank": 12,
+              "extra": {
+                "starsToday": 68
+              }
+            }
+          }
+        },
+        {
+          "title": "WorldFlowAI/everything-claude-code",
+          "url": "https://github.com/WorldFlowAI/everything-claude-code",
+          "summary": "Claude Code, yapay zekâ destekli geliştirme süreçlerini hızlandırmak için tasarlanmış ajanlar, komutlar ve kancalar (hooks) içeren bir araç takımıdır. Yazılım geliştirme iş akışlarını otomatikleştirmek için gerekli olan tüm bileşenleri tek bir çatı altında toplar.",
+          "meta": "JavaScript · ★ 2.453 · +95 bugün",
+          "snapshot": {
+            "sourceId": "WorldFlowAI/everything-claude-code",
+            "capturedAt": "2026-09-06T08:22:58.002Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 2453,
+              "engagementCount": 95,
+              "rank": 13,
+              "extra": {
+                "starsToday": 95
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Nitter has more working instances than before the takedowns",
+          "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+          "summary": "X platformunun eski adıyla Twitter arayüzünü taklit eden açık kaynaklı görüntüleyici Nitter, platformun kısıtlamalarına rağmen topluluk tarafından yönetilen yeni örneklerle (instances) çalışmaya devam ediyor. Kullanıcılar, sosyal medya platformu X'e hesap açmadan veya takip etmeden göz atmak için bu alternatif arayüzleri tercih ediyor.",
+          "meta": "675 oy · 332 yorum",
+          "snapshot": {
+            "sourceId": "49571634",
+            "capturedAt": "2026-09-06T08:22:56.903Z",
+            "metadata": {
+              "popularity": 675,
+              "engagementCount": 332,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49571634",
+                  "popularity": 675,
+                  "engagementCount": 332
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "Cider9986",
+                "createdAt": "2026-09-05T00:04:16Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49571634"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49571634",
+              "popularity": 675,
+              "engagementCount": 332
+            }
+          ]
+        },
+        {
+          "title": "Private German rocket makes history, reaches orbit from European soil",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+          "summary": "Alman havacılık şirketi Isar Aerospace tarafından geliştirilen Spectrum roketi, Avrupa topraklarından yörüngeye ulaşan ilk özel üretim fırlatma aracı olarak tarihe geçti. Norveç'teki Andøya Uzay Üssü'nden gerçekleşen bu görev, kıta Avrupası'nın ticari uzay taşımacılığındaki bağımsızlığını artırmayı hedefliyor.",
+          "meta": "544 oy · 283 yorum",
+          "snapshot": {
+            "sourceId": "49580369",
+            "capturedAt": "2026-09-06T08:22:56.903Z",
+            "metadata": {
+              "popularity": 544,
+              "engagementCount": 283,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49580369",
+                  "popularity": 544,
+                  "engagementCount": 283
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "bookmtn",
+                "createdAt": "2026-09-05T20:31:38Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49580369"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49580369",
+              "popularity": 544,
+              "engagementCount": 283
+            }
+          ]
+        },
+        {
+          "title": "Statichost.eu – European static site hosting",
+          "url": "https://www.statichost.eu/",
+          "summary": "Statichost.eu, Avrupa merkezli sunucular üzerinden statik web sitesi barındırma hizmeti sunuyor. Veri gizliliği ve yerel barındırma gereksinimlerine odaklanan platform, özellikle Avrupa Birliği sınırları içinde veri tutmak isteyen kullanıcıları hedefliyor.",
+          "meta": "475 oy · 216 yorum",
+          "snapshot": {
+            "sourceId": "49569896",
+            "capturedAt": "2026-09-06T08:22:56.903Z",
+            "metadata": {
+              "popularity": 475,
+              "engagementCount": 216,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49569896",
+                  "popularity": 475,
+                  "engagementCount": 216
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "p4bl0",
+                "createdAt": "2026-09-04T20:34:49Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49569896"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49569896",
+              "popularity": 475,
+              "engagementCount": 216
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "XHToken/Spark-X2.5-4B",
+          "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+          "summary": "HuggingFace üzerinde paylaşılan Spark-X2.5-4B, metin üretimi (text-generation) odaklı bir yapay zekâ modelidir. Düşük parametre sayısıyla hızlı ve verimli metin işleme yetenekleri sunar.",
+          "meta": "♥ 563 · 4.755 indirme",
+          "snapshot": {
+            "sourceId": "XHToken/Spark-X2.5-4B",
+            "capturedAt": "2026-09-06T08:22:56.713Z",
+            "metadata": {
+              "popularity": 563,
+              "engagementCount": 4755,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 469,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "spark2_5",
+                  "text-generation",
+                  "llm",
+                  "sparkx2_5",
+                  "conversational",
+                  "custom_code",
+                  "base_model:XHToken/Spark-X2.5-4B-Base",
+                  "base_model:finetune:XHToken/Spark-X2.5-4B-Base",
+                  "license:apache-2.0",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "google/timesfm-3.0-pytorch",
+          "url": "https://huggingface.co/google/timesfm-3.0-pytorch",
+          "summary": "Google tarafından geliştirilen TimesFM, zaman serisi tahmini (time-series forecasting) işlemleri için eğitilmiş bir temel modeldir. Veri setlerindeki karmaşık desenleri öğrenerek geleceğe yönelik sayısal öngörülerde bulunmayı sağlar.",
+          "meta": "♥ 469 · 123.025 indirme",
+          "snapshot": {
+            "sourceId": "google/timesfm-3.0-pytorch",
+            "capturedAt": "2026-09-06T08:22:56.713Z",
+            "metadata": {
+              "popularity": 469,
+              "engagementCount": 123025,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 411,
+                "pipelineTag": "time-series-forecasting",
+                "tags": [
+                  "safetensors",
+                  "time-series",
+                  "forecasting",
+                  "pretrained",
+                  "pytorch",
+                  "google",
+                  "time-series-forecasting",
+                  "arxiv:2310.10688",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": []
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "The revolt of the reader",
+          "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+          "summary": "Okuyucuların dijital içeriklerdeki karmaşaya ve reklam odaklı arayüzlere karşı gösterdiği tepki, metin tabanlı ve sade platformlara olan ilgiyi artırıyor. Bu eğilim, kullanıcıların dikkat dağıtıcı unsurlardan arındırılmış, doğrudan bilgiye odaklanan bir okuma deneyimi arayışını yansıtıyor.",
+          "meta": "49 oy · 8 yorum",
+          "snapshot": {
+            "sourceId": "xnqxqe",
+            "capturedAt": "2026-09-06T08:22:57.094Z",
+            "metadata": {
+              "popularity": 49,
+              "engagementCount": 8,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/xnqxqe/revolt_reader",
+                  "popularity": 49,
+                  "engagementCount": 8
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "practices",
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-05T16:28:47.233-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/xnqxqe/revolt_reader",
+              "popularity": 49,
+              "engagementCount": 8
+            }
+          ]
+        },
+        {
+          "title": "zopt: low-ceremony command line parsing for Zig",
+          "url": "https://codeberg.org/hgrsd/zopt",
+          "summary": "Zopt, sistem programlama dili Zig için geliştirilen düşük ritüelli bir komut satırı ayrıştırma (command line parsing) kütüphanesidir. Geliştiricilerin karmaşık yapılandırmalara ihtiyaç duymadan, komut satırı argümanlarını hızlıca işlemesini sağlar.",
+          "meta": "29 oy · 18 yorum",
+          "snapshot": {
+            "sourceId": "64n3wp",
+            "capturedAt": "2026-09-06T08:22:57.094Z",
+            "metadata": {
+              "popularity": 29,
+              "engagementCount": 18,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/64n3wp/zopt_low_ceremony_command_line_parsing",
+                  "popularity": 29,
+                  "engagementCount": 18
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "show",
+                  "zig"
+                ],
+                "createdAt": "2026-09-05T09:48:58.209-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/64n3wp/zopt_low_ceremony_command_line_parsing",
+              "popularity": 29,
+              "engagementCount": 18
+            }
+          ]
+        },
+        {
+          "title": "It matters who teaches you",
+          "url": "https://bastiangruber.ca/posts/it-matters-who-teaches-you/",
+          "summary": "Yazılım geliştirme sürecinde öğrenilen bilginin doğruluğu ve aktarım yöntemi, teknik yetkinliğin gelişiminde belirleyici bir rol oynuyor. Deneyimli eğitmenlerin sunduğu rehberlik, kavramsal karmaşayı azaltarak öğrenme sürecini daha verimli hale getiriyor.",
+          "meta": "27 oy · 2 yorum",
+          "snapshot": {
+            "sourceId": "dxjvcc",
+            "capturedAt": "2026-09-06T08:22:57.094Z",
+            "metadata": {
+              "popularity": 27,
+              "engagementCount": 2,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/dxjvcc/it_matters_who_teaches_you",
+                  "popularity": 27,
+                  "engagementCount": 2
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "education",
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-05T12:47:34.482-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/dxjvcc/it_matters_who_teaches_you",
+              "popularity": 27,
+              "engagementCount": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "Yapay zekâ modellerinin belirli bir görevi yerine getirmek için kazandığı özel yetenekler veya araç kullanma becerileri."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük miktarda veriyle eğitilmiş gelişmiş yapay zekâ modeli."
+    },
+    {
+      "term": "hooks",
+      "explanation": "Bir yazılımın çalışması sırasında belirli bir noktada devreye girerek sürece müdahale etmeyi sağlayan bağlantı noktaları."
+    },
+    {
+      "term": "instances",
+      "explanation": "Bir yazılımın veya sistemin aynı anda çalışan her bir bağımsız kopyası."
+    }
+  ]
+}
