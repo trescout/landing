@@ -2,7 +2,7 @@
 
 „Dive into LLMs“ ist eine Schulungsreihe, die die Arbeitsprinzipien großer Sprachmodelle praktisch anhand von Jupyter-Notebook-Dateien vermittelt. Das Projekt konkretisiert Modellentwicklungsprozesse, indem es eine breite Palette von Codierungspraktiken anbietet, von grundlegenden Konzepten bis hin zu fortgeschrittenen Techniken.
 
-- ★ 49.468
+- ★ 52.081
 - Jupyter Notebook
 - GitHub Trending · 2026-07-25
 

@@ -28,6 +28,7 @@ Auch wenn es auf den ersten Blick so aussieht, als ob es langsamer wird, spart e
 
 ## Verwandte Werkzeuge
 - [Catch2](/de/discover/catch2/)
+- [Everything Claude Code](/de/discover/everything-claude-code/)
 - [Babysitter](/de/discover/babysitter/)
 
 ---

@@ -22,8 +22,8 @@ A veces las empresas quieren mantener sus sistemas cerrados o diferentes tecnolo
 - [Tech Stack](/es/dictionary/tech-stack/)
 
 ## Herramientas relacionadas
-- [Agentskills](/es/discover/agentskills/)
 - [Wand-Enhancer](/es/discover/wand-enhancer/)
+- [Agentskills](/es/discover/agentskills/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/interoperability/

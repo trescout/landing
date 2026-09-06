@@ -2,7 +2,7 @@
 
 PM Skills Marketplace offers more than 100 agentic skills, commands and plugins developed for product management processes. This resource aims to standardize AI-powered workflows across the entire product lifecycle, from discovery to growth.
 
-- ★ 24,775
+- ★ 26,032
 - GitHub Trending · 2026-06-09
 
 ## What you get

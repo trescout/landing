@@ -28,6 +28,7 @@ Aunque al principio pueda parecer que se ralentiza, en general ahorra tiempo ya 
 
 ## Herramientas relacionadas
 - [Catch2](/es/discover/catch2/)
+- [Everything Claude Code](/es/discover/everything-claude-code/)
 - [Babysitter](/es/discover/babysitter/)
 
 ---

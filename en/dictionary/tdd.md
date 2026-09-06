@@ -30,6 +30,7 @@ Although it may seem like it slows down at first, it saves time overall as it re
 
 ## Related tools
 - [Catch2](/en/discover/catch2/)
+- [Everything Claude Code](/en/discover/everything-claude-code/)
 - [Babysitter](/en/discover/babysitter/)
 
 ---

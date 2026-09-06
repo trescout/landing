@@ -2,15 +2,15 @@
 
 Deno tarafından geliştirilen Celld, dağıtık sistemler için kendi sunucunuzda barındırabileceğiniz (self-hosted) kalıcı nesneler (durable objects) altyapısı sunuyor. Rust diliyle yazılan bu teknoloji, durum yönetimini (state management) farklı düğümler arasında ölçeklenebilir şekilde dağıtmayı sağlıyor.
 
-- ★ 4.405
+- ★ 4.521
 - Rust
 - GitHub Trending · 2026-08-08
 
 ## Güncelleme
+- 6 Eylül 2026: Yıldız 4.405 → 4.521, son sürüm v0.4.1 (5 Eylül 2026).
 - 31 Ağustos 2026: Yıldız 4.010 → 4.405, son sürüm v0.4.0 (28 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 3.656 → 4.010, son sürüm v0.3.0 (20 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 2.266 → 3.656, son sürüm v0.2.1 (14 Ağustos 2026).
-- 8 Ağustos 2026: Yıldız 2.264 → 2.266, son sürüm v0.1.0 (5 Ağustos 2026).
 
 ## Ne kazandırır?
 - Kendi altyapınızda ölçeklenebilir durum yönetimi sağlar.

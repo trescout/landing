@@ -2,7 +2,7 @@
 
 Desarrollado por Alibaba, page-agent es un agente de interfaz gráfica de usuario en la página que permite controlar interfaces web con comandos de lenguaje natural. Escrita en TypeScript, esta herramienta ofrece un mecanismo de control basado en navegador para automatizar las interacciones web.
 
-- ★ 28.366
+- ★ 29.000
 - TypeScript
 - GitHub Trending · 2026-06-26
 

@@ -2,13 +2,14 @@
 
 Awesome-llm-apps deposu, doğrudan çalıştırılabilir 100'den fazla yapay zekâ ajanı (AI agent) ve getirilmiş nesil artırımlı (RAG) uygulama örneği sunuyor. Python tabanlı bu projeler, geliştiricilerin uygulamaları kopyalayıp özelleştirerek hızlıca yayına almasına olanak tanıyor.
 
-- ★ 129.783
+- ★ 136.300
 - Python
 - GitHub Trending · 2026-07-13
 
 TreScout notu: Çalıştırılabilir örnek uygulamalar derlemesi. Bir fikrin nasıl kurulduğunu görmek için hızlı yol; örneklerin bakım durumu değişkendir, kopyalayıp üretime koymadan önce bağımlılıklarını güncelleyin.
 
 ## Güncelleme
+- 6 Eylül 2026: Yıldız 129.783 → 136.300.
 - 2 Ağustos 2026: Yıldız 118.879 → 129.783.
 
 ## Ne kazandırır?

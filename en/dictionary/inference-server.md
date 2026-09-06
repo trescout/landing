@@ -30,8 +30,8 @@ No, training is the model's learning process, while inference is the process of 
 - [Deployment](/en/dictionary/deployment/)
 
 ## Related tools
-- [SIE](/en/discover/sie/)
 - [Magnitude](/en/discover/magnitude/)
+- [SIE](/en/discover/sie/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/inference-server/

@@ -28,8 +28,8 @@ Nein, das Training ist der Lernprozess des Modells, während die Inferenz (Infer
 - [Deployment](/de/dictionary/deployment/)
 
 ## Verwandte Werkzeuge
-- [SIE](/de/discover/sie/)
 - [Magnitude](/de/discover/magnitude/)
+- [SIE](/de/discover/sie/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/inference-server/

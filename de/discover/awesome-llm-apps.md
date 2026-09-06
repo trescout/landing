@@ -2,7 +2,7 @@
 
 Das awesome-llm-apps-Repository bietet mehr als 100 direkt ausführbare KI-Agenten und RAG-Anwendungsbeispiele. Mit diesen Python-basierten Projekten können Entwickler Anwendungen schnell kopieren, anpassen und starten.
 
-- ★ 129.783
+- ★ 136.300
 - Python
 - GitHub Trending · 2026-07-13
 

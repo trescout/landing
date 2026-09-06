@@ -29,8 +29,8 @@ Cientistas de dados, pesquisadores e desenvolvedores de IA.
 ## Ferramentas relacionadas
 - [Generative AI for Beginners](/pt/discover/generative-ai-for-beginners/)
 - [AI-For-Beginners](/pt/discover/ai-for-beginners/)
-- [Claude Cookbooks](/pt/discover/claude-cookbooks/)
 - [Dive Into Llms](/pt/discover/dive-into-llms/)
+- [Claude Cookbooks](/pt/discover/claude-cookbooks/)
 - [Airllm](/pt/discover/airllm/)
 - [Machine Learning for Trading](/pt/discover/machine-learning-for-trading/)
 - [Cosmos](/pt/discover/cosmos/)

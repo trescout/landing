@@ -7512,5 +7512,44 @@
     "kisa_pt": "É uma ferramenta que permite criar fluxogramas e gráficos rapidamente escrevendo código.",
     "kisa_es": "Es una herramienta que le permite crear rápidamente diagramas de flujo y gráficos escribiendo código.",
     "kisa_de": "Ein Tool, mit dem Sie durch das Schreiben von Code schnell Flussdiagramme und Grafiken erstellen können."
+  },
+  {
+    "slug": "hooks",
+    "en": "Hooks",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılımın çalışma sürecinde belirli anlarda devreye girip özel işlemler yapmanıza olanak tanıyan bağlantı noktalarıdır.",
+    "date": "2026-09-06",
+    "kisa_en": "These are connection points that allow you to intervene and perform special operations at specific moments during the software's execution process.",
+    "kisa_fr": "Ce sont des points de connexion qui vous permettent d'intervenir à des moments précis du processus d'exécution du logiciel pour effectuer des opérations spéciales.",
+    "kisa_pt": "São pontos de conexão que permitem que você intervenha e execute operações especiais em momentos específicos durante o processo de execução do software.",
+    "kisa_es": "Son puntos de conexión que le permiten intervenir y realizar operaciones especiales en momentos específicos durante el proceso de ejecución del software.",
+    "kisa_de": "Dies sind Verbindungspunkte, die es Ihnen ermöglichen, zu bestimmten Zeitpunkten während des Software-Betriebsprozesses einzugreifen und spezielle Vorgänge auszuführen."
+  },
+  {
+    "slug": "remote-code-execution",
+    "en": "Remote Code Execution",
+    "full": "RCE",
+    "cat": "dev",
+    "kisa": "Yetkisiz bir kişinin, internet üzerinden başka bir bilgisayarda kendi komutlarını çalıştırabilmesi durumudur.",
+    "date": "2026-09-06",
+    "kisa_en": "It is a situation where an unauthorized person can execute their own commands on another computer over the internet.",
+    "kisa_fr": "Il s'agit d'une situation où une personne non autorisée peut exécuter ses propres commandes sur un autre ordinateur via Internet.",
+    "kisa_pt": "É a situação em que uma pessoa não autorizada consegue executar seus próprios comandos em outro computador através da internet.",
+    "kisa_es": "Es la situación en la que una persona no autorizada puede ejecutar sus propios comandos en otra computadora a través de Internet.",
+    "kisa_de": "Dies ist der Fall, wenn eine unbefugte Person ihre eigenen Befehle über das Internet auf einem anderen Computer ausführen kann."
+  },
+  {
+    "slug": "instances",
+    "en": "Instances",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir yazılımın veya sistemin aynı anda çalışan her bir bağımsız kopyasıdır.",
+    "date": "2026-09-06",
+    "kisa_en": "It is each independent copy of a software or system running at the same time.",
+    "kisa_fr": "Il s'agit de chaque copie indépendante d'un logiciel ou d'un système fonctionnant simultanément.",
+    "kisa_pt": "É cada cópia independente de um software ou sistema que está sendo executada ao mesmo tempo.",
+    "kisa_es": "Es cada copia independiente de un software o sistema que se ejecuta al mismo tiempo.",
+    "kisa_de": "Dies ist jede einzelne unabhängige Kopie einer Software oder eines Systems, die gleichzeitig ausgeführt wird."
   }
 ]

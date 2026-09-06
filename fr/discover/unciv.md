@@ -2,7 +2,7 @@
 
 Unciv est une adaptation open source pour ordinateur et Android du jeu Civilization V. Développé en langage Kotlin, le projet apporte des mécaniques de jeu originales aux utilisateurs sur une infrastructure plus légère.
 
-- ★ 11 212
+- ★ 11 223
 - Kotlin
 - GitHub Trending · 2026-06-18
 

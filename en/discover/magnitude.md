@@ -2,7 +2,7 @@
 
 Magnitude is an open-source inference server that integrates with existing AI agents and allows you to run local models suited to your hardware. It works compatibly with coding assistants like Cline and various open-source models, making it easy to leverage local computing power.
 
-- ★ 2,098
+- ★ 3,348
 - TypeScript
 - GitHub Trending · 2026-09-04
 

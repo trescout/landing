@@ -2,7 +2,7 @@
 
 Magnitude es un servidor de inferencia de código abierto que se integra con agentes de inteligencia artificial existentes y le permite ejecutar modelos locales adecuados para su hardware. Es compatible con asistentes de codificación como Cline y varios modelos de código abierto, lo que facilita el aprovechamiento de la potencia de cómputo local.
 
-- ★ 2.098
+- ★ 3.348
 - TypeScript
 - GitHub Trending · 2026-09-04
 

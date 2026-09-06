@@ -2,7 +2,7 @@
 
 Wand-Enhancer es un complemento basado en C# que mejora la experiencia del usuario y aumenta la interoperabilidad de la aplicación WeMod. Optimiza el control de los usuarios sobre las herramientas ampliando la funcionalidad de la aplicación.
 
-- ★ 24.523
+- ★ 25.201
 - C#
 - GitHub Trending · 2026-07-13
 

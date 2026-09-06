@@ -29,8 +29,8 @@ Datenwissenschaftler, Forscher und KI-Entwickler.
 ## Verwandte Werkzeuge
 - [Generative AI for Beginners](/de/discover/generative-ai-for-beginners/)
 - [AI-For-Beginners](/de/discover/ai-for-beginners/)
-- [Claude Cookbooks](/de/discover/claude-cookbooks/)
 - [Dive Into Llms](/de/discover/dive-into-llms/)
+- [Claude Cookbooks](/de/discover/claude-cookbooks/)
 - [Airllm](/de/discover/airllm/)
 - [Machine Learning for Trading](/de/discover/machine-learning-for-trading/)
 - [Cosmos](/de/discover/cosmos/)

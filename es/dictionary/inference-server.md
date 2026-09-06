@@ -28,8 +28,8 @@ No, el entrenamiento es el proceso de aprendizaje del modelo, mientras que la in
 - [Deployment](/es/dictionary/deployment/)
 
 ## Herramientas relacionadas
-- [SIE](/es/discover/sie/)
 - [Magnitude](/es/discover/magnitude/)
+- [SIE](/es/discover/sie/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/inference-server/

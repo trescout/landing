@@ -2,15 +2,15 @@
 
 Yapay zekâ ajanları (AI agents) üzerine hazırlanan bu açık kaynaklı kitap, tasarım prensipleri ve mühendislik uygulamalarını kapsamlı bir şekilde ele alıyor. İçeriğinde teorik bilgilerin yanı sıra bölümlere ayrılmış uygulama kodları ve derlenmiş PDF dosyaları yer alıyor.
 
-- ★ 42.709
+- ★ 44.884
 - Python
 - GitHub Trending · 2026-07-20
 
 ## Güncelleme
+- 6 Eylül 2026: Yıldız 42.709 → 44.884.
 - 27 Ağustos 2026: Yıldız 39.686 → 42.709.
 - 20 Ağustos 2026: Yıldız 37.602 → 39.686.
 - 15 Ağustos 2026: Yıldız 34.874 → 37.602.
-- 9 Ağustos 2026: Yıldız 33.116 → 34.874.
 
 ## Ne kazandırır?
 - Yapay zekâ ajanlarının çalışma prensiplerini öğrenin

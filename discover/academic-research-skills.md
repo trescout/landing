@@ -2,11 +2,12 @@
 
 Academic Research Skills, Claude Code için geliştirilen ve akademik süreçleri araştırma, yazma, inceleme, düzenleme ve son haline getirme aşamalarıyla otomatize eden bir Python kütüphanesi. Bu araç, yapay zekâ destekli kod yazma aracı Claude Code üzerinde akademik iş akışlarını standartlaştırmayı hedefliyor.
 
-- ★ 45.232
+- ★ 46.471
 - Python
 - GitHub Trending · 2026-09-02
 
 ## Güncelleme
+- 6 Eylül 2026: Yıldız 45.232 → 46.471, son sürüm v3.21.2 (5 Eylül 2026).
 - 2 Eylül 2026: Yıldız 45.230 → 45.232, son sürüm v3.21.1 (24 Ağustos 2026).
 
 ## Ne kazandırır?

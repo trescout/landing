@@ -2,7 +2,7 @@
 
 Prime-Agent, developed by PrimeIntellect, is a self-healing reinforcement learning agent for software development processes and long-term autonomous tasks. Written in TypeScript, this tool aims to increase software development efficiency by automating complex workflows.
 
-- ★ 19,618
+- ★ 19,993
 - TypeScript
 - GitHub Trending · 2026-08-08
 

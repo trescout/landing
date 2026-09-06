@@ -2,7 +2,7 @@
 
 Academic Research Skills is a Python library developed for Claude Code that automates academic processes through research, writing, reviewing, editing, and finalizing stages. This tool aims to standardize academic workflows on the AI-powered coding tool Claude Code.
 
-- ★ 45,232
+- ★ 46,471
 - Python
 - GitHub Trending · 2026-09-02
 

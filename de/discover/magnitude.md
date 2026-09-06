@@ -2,7 +2,7 @@
 
 Magnitude ist ein Open-Source-Inferenzserver, der mit bestehenden KI-Agenten integriert wird und es Ihnen ermöglicht, lokale Modelle auszuführen, die für Ihre Hardware optimiert sind. Er lässt sich nahtlos mit Coding-Assistenten wie Cline und verschiedenen Open-Source-Modellen kombinieren, um die Nutzung lokaler Rechenleistung zu erleichtern.
 
-- ★ 2.098
+- ★ 3.348
 - TypeScript
 - GitHub Trending · 2026-09-04
 

@@ -22,8 +22,8 @@ Normalmente, as APIs são entregues usando formatos de dados padrão (como JSON)
 - [Tech Stack](/pt/dictionary/tech-stack/)
 
 ## Ferramentas relacionadas
-- [Agentskills](/pt/discover/agentskills/)
 - [Wand-Enhancer](/pt/discover/wand-enhancer/)
+- [Agentskills](/pt/discover/agentskills/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/interoperability/

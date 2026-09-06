@@ -40,7 +40,7 @@ Yes, new capabilities can be added to a model with the appropriate infrastructur
 - [Awesome Claude Skills](/en/discover/awesome-claude-skills/)
 - [OpenMontage](/en/discover/openmontage/)
 - [Awesome Claude Code](/en/discover/awesome-claude-code/)
-- [Obsidian Skills](/en/discover/obsidian-skills/)
+- [Academic Research Skills](/en/discover/academic-research-skills/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/ai-skills/

@@ -2,7 +2,7 @@
 
 Impeccable é uma biblioteca de linguagem de design desenvolvida para melhorar os resultados de design de modelos de inteligência artificial. O software fornece regras padronizadas para melhorar a consistência visual e a qualidade estética das ferramentas generativas de IA.
 
-- ★ 65.680
+- ★ 65.882
 - GitHub Trending · 2026-06-02
 
 ## O que você ganha

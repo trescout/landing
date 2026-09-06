@@ -34,9 +34,9 @@ No, the model only makes predictions using the available information it has.
 - [Ds4](/en/discover/ds4/)
 - [LTX 2](/en/discover/ltx-2/)
 - [ODS](/en/discover/ods/)
+- [Magnitude](/en/discover/magnitude/)
 - [SIE](/en/discover/sie/)
 - [Switchyard](/en/discover/switchyard/)
-- [Magnitude](/en/discover/magnitude/)
 - [Transcribe.cpp](/en/discover/transcribe-cpp/)
 
 ---

@@ -2,7 +2,7 @@
 
 Der von Alibaba entwickelte Page-Agent ist ein In-Page-Agent für grafische Benutzeroberflächen, der die Steuerung von Webschnittstellen mit Befehlen in natürlicher Sprache ermöglicht. Dieses in TypeScript geschriebene Tool bietet einen browserbasierten Steuerungsmechanismus zur Automatisierung von Webinteraktionen.
 
-- ★ 28.366
+- ★ 29.000
 - TypeScript
 - GitHub Trending · 2026-06-26
 

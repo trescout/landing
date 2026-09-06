@@ -28,8 +28,8 @@ Não, o treinamento é o processo de aprendizado do modelo, enquanto a inferênc
 - [Deployment](/pt/dictionary/deployment/)
 
 ## Ferramentas relacionadas
-- [SIE](/pt/discover/sie/)
 - [Magnitude](/pt/discover/magnitude/)
+- [SIE](/pt/discover/sie/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/inference-server/

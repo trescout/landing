@@ -28,6 +28,7 @@ Même si cela peut sembler ralentir au début, cela permet globalement de gagner
 
 ## Outils liés
 - [Catch2](/fr/discover/catch2/)
+- [Everything Claude Code](/fr/discover/everything-claude-code/)
 - [Babysitter](/fr/discover/babysitter/)
 
 ---
