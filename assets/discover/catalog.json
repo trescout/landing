@@ -20700,14 +20700,14 @@
     "slug": "free-stockdb",
     "title": "Free Stockdb",
     "tagline": "Free-stockdb, A hisse senetleri ve borsa yatırım fonları (ETF) için günlük ve dakikalık verileri yöneten yerel bir nicel…",
-    "meta": "★ 2.207 · HTML",
+    "meta": "★ 2.480 · HTML",
     "image": "/assets/discover/og/free-stockdb.webp",
     "source": "GitHub",
     "date": "2026-07-29",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 2207,
+    "stars": 2480,
     "lite": false,
     "headline": "Yerel borsa verisi ve analiz motoru",
     "last_review": "2026-09-06",
@@ -20731,6 +20731,13 @@
         "yildiz": 2207,
         "onceki_yildiz": 1866,
         "surum": "测试0.3.2",
+        "surum_tarihi": "2026-07-19"
+      },
+      {
+        "tarih": "2026-09-06",
+        "yildiz": 2480,
+        "onceki_yildiz": 2207,
+        "surum": "测试版本0.3.5",
         "surum_tarihi": "2026-07-19"
       }
     ],
@@ -29795,7 +29802,8 @@
     "tagline_fr": "FckSignups est une liste regroupant des outils open source basés sur le navigateur qui ne nécessitent ni inscription ni adhésion de la part de l'utilisateur.",
     "tagline_pt": "FckSignups é uma lista que reúne ferramentas de código aberto baseadas em navegador que não exigem registro ou associação do usuário.",
     "tagline_es": "FckSignups es una lista que reúne herramientas basadas en navegador de código abierto que no requieren registro ni suscripción por parte del usuario.",
-    "tagline_de": "FckSignups ist eine Liste, die Open-Source-browserbasierte Tools zusammenstellt, die keine Registrierung oder Mitgliedschaft vom Benutzer erfordern."
+    "tagline_de": "FckSignups ist eine Liste, die Open-Source-browserbasierte Tools zusammenstellt, die keine Registrierung oder Mitgliedschaft vom Benutzer erfordern.",
+    "last_seen": "2026-09-06"
   },
   {
     "slug": "everything-claude-code",
@@ -29820,6 +29828,7 @@
     "tagline_fr": "Claude Code, des agents, des commandes et des hooks conçus pour accélérer les processus de développement assistés par l'intelligence artificielle…",
     "tagline_pt": "Claude Code, agentes, comandos e ganchos (hooks) projetados para acelerar processos de desenvolvimento assistidos por inteligência artificial...",
     "tagline_es": "Claude Code, agentes, comandos y ganchos (hooks) diseñados para acelerar los procesos de desarrollo asistidos por inteligencia artificial...",
-    "tagline_de": "Claude Code, eine Sammlung von Agenten, Befehlen und Hooks, die entwickelt wurde, um KI-gestützte Entwicklungsprozesse zu beschleunigen…"
+    "tagline_de": "Claude Code, eine Sammlung von Agenten, Befehlen und Hooks, die entwickelt wurde, um KI-gestützte Entwicklungsprozesse zu beschleunigen…",
+    "last_seen": "2026-09-06"
   }
 ]
