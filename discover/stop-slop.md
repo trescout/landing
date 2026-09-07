@@ -4,12 +4,13 @@ Yapay zekâ ile üretilen metinler genellikle tahmin edilebilir ifadeler, ritiml
 
 _Görsel: stop-slop (proje deposundan)_
 
-- ★ 15.870
+- ★ 16.875
 - Claude Skill
 - MIT
 - GitHub Trending · 26 May 2026
 
 ## Güncelleme
+- 7 Eylül 2026: Yıldız 15.870 → 16.875.
 - 19 Ağustos 2026: Yıldız 14.843 → 15.870.
 - 1 Ağustos 2026: Yıldız 4.876 → 14.843.
 

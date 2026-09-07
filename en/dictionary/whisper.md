@@ -29,6 +29,7 @@ Yes, since Whisper is an open source model, developers can integrate it into the
 ## Related tools
 - [Whisper](/en/discover/whisper/)
 - [Claude Video](/en/discover/claude-video/)
+- [Openwhispr](/en/discover/openwhispr/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/whisper/

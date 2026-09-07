@@ -28,6 +28,7 @@ Les applications locales peuvent souvent être sauvegardées dans le cloud de ma
 - [Openhuman](/fr/discover/openhuman/)
 - [Agentsview](/fr/discover/agentsview/)
 - [Wigolo](/fr/discover/wigolo/)
+- [Open Science](/fr/discover/open-science/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/local-first/

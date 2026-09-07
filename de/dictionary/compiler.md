@@ -22,6 +22,7 @@ Ja, jede Programmiersprache benötigt einen Compiler oder Interpreter, der ihren
 - [Compile-time](/de/dictionary/compile-time/)
 
 ## Verwandte Werkzeuge
+- [Llvm Project](/de/discover/llvm-project/)
 - [SWC](/de/discover/swc/)
 - [FMT](/de/discover/fmt/)
 

@@ -28,6 +28,7 @@ Muitas vezes, os aplicativos locais podem fazer backup na nuvem de maneira cript
 - [Openhuman](/pt/discover/openhuman/)
 - [Agentsview](/pt/discover/agentsview/)
 - [Wigolo](/pt/discover/wigolo/)
+- [Open Science](/pt/discover/open-science/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/local-first/

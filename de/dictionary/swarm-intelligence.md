@@ -26,6 +26,7 @@ Nein, der größte Vorteil dieser Systeme besteht darin, dass die Einheiten sich
 
 ## Verwandte Werkzeuge
 - [MiroFish](/de/discover/mirofish/)
+- [AutoHedge](/de/discover/autohedge/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/swarm-intelligence/

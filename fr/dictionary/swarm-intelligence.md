@@ -26,6 +26,7 @@ Non, le plus grand avantage de ces systèmes est que les unités se sauvegardent
 
 ## Outils liés
 - [MiroFish](/fr/discover/mirofish/)
+- [AutoHedge](/fr/discover/autohedge/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/swarm-intelligence/

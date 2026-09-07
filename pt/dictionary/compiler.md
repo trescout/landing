@@ -22,6 +22,7 @@ Sim, toda linguagem de programação precisa de um compilador ou interpretador q
 - [Compile-time](/pt/dictionary/compile-time/)
 
 ## Ferramentas relacionadas
+- [Llvm Project](/pt/discover/llvm-project/)
 - [SWC](/pt/discover/swc/)
 - [FMT](/pt/discover/fmt/)
 

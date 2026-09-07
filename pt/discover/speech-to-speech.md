@@ -2,7 +2,7 @@
 
 A biblioteca de conversão de fala desenvolvida pela Hugging Face permite a criação de agentes de voz locais usando modelos de código aberto. Esta ferramenta baseada em Python permite que os desenvolvedores criem sistemas de interação por voz em tempo real que rodam no dispositivo.
 
-- ★ 12.310
+- ★ 13.072
 - Python
 - GitHub Trending · 2026-07-29
 

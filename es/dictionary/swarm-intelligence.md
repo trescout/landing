@@ -26,6 +26,7 @@ No, la mayor ventaja de estos sistemas es que las unidades se respaldan entre sÃ
 
 ## Herramientas relacionadas
 - [MiroFish](/es/discover/mirofish/)
+- [AutoHedge](/es/discover/autohedge/)
 
 ---
 Fuente: TreScout Glosario Â· https://trescout.com/es/dictionary/swarm-intelligence/

@@ -2,7 +2,7 @@
 
 Unterstützt durch große Sprachmodelle analysiert dieses System Marktdaten und Echtzeitnachrichten aus mehreren Quellen und bietet visualisierte Panels für Investitionsentscheidungen. Es standardisiert Analyseprozesse für verschiedene Börsen mit automatischen Benachrichtigungen und kostenloser geplanter Studienunterstützung.
 
-- ★ 63.731
+- ★ 64.727
 - Python
 - GitHub Trending · 2026-06-22
 

@@ -2,7 +2,7 @@
 
 Atlas ist ein Quellcodeverwaltungssystem (Source Control) für KI-Agenten, die in Softwareentwicklungsprozessen eingesetzt werden. Es ermöglicht die zentrale Überwachung und Abfrage von Änderungen, die von mehreren Programmieragenten vorgenommen wurden.
 
-- ★ 3.058
+- ★ 3.259
 - Rust
 - GitHub Trending · 2026-09-03
 

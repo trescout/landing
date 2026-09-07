@@ -22,6 +22,7 @@ Sí, cada lenguaje de programación necesita un compilador o intérprete que se 
 - [Compile-time](/es/dictionary/compile-time/)
 
 ## Herramientas relacionadas
+- [Llvm Project](/es/discover/llvm-project/)
 - [SWC](/es/discover/swc/)
 - [FMT](/es/discover/fmt/)
 

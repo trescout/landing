@@ -22,6 +22,7 @@ Oui, chaque langage de programmation a besoin d'un compilateur ou d'un interprè
 - [Compile-time](/fr/dictionary/compile-time/)
 
 ## Outils liés
+- [Llvm Project](/fr/discover/llvm-project/)
 - [SWC](/fr/discover/swc/)
 - [FMT](/fr/discover/fmt/)
 

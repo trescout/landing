@@ -28,6 +28,7 @@ No, the biggest advantage of these systems is that the units back up each other 
 
 ## Related tools
 - [MiroFish](/en/discover/mirofish/)
+- [AutoHedge](/en/discover/autohedge/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/swarm-intelligence/

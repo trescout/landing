@@ -27,6 +27,7 @@ Ja, da es sich bei Whisper um ein Open-Source-Modell handelt, können Entwickler
 ## Verwandte Werkzeuge
 - [Whisper](/de/discover/whisper/)
 - [Claude Video](/de/discover/claude-video/)
+- [Openwhispr](/de/discover/openwhispr/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/whisper/

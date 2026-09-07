@@ -27,6 +27,7 @@ Oui, puisque Whisper est un modèle open source, les développeurs peuvent l'int
 ## Outils liés
 - [Whisper](/fr/discover/whisper/)
 - [Claude Video](/fr/discover/claude-video/)
+- [Openwhispr](/fr/discover/openwhispr/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/whisper/

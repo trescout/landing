@@ -24,6 +24,7 @@ Yes, every programming language needs a compiler or interpreter that suits its o
 - [Compile-time](/en/dictionary/compile-time/)
 
 ## Related tools
+- [Llvm Project](/en/discover/llvm-project/)
 - [SWC](/en/discover/swc/)
 - [FMT](/en/discover/fmt/)
 
