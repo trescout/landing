@@ -1,0 +1,583 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-07",
+  "capturedAt": "2026-09-07T08:56:20.594Z",
+  "editorial": "Bu rapor, son 30 gündeki normal raporlarda yer alan kayıtları tekrar etmeden bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "summary": "OpenAI tarafından geliştirilen Skills, kod yazma modeli Codex için önceden tanımlanmış işlevsel yetenekler (skills) kütüphanesi sunuyor. Bu kaynak, geliştiricilerin yapay zekâ modellerine belirli görevleri yerine getirme becerisi kazandırmasını sağlayan standart bir yapı oluşturuyor.",
+          "meta": "Python · ★ 25.750 · +46 bugün",
+          "snapshot": {
+            "sourceId": "openai/skills",
+            "capturedAt": "2026-09-07T08:56:21.839Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 25750,
+              "engagementCount": 46,
+              "rank": 5,
+              "extra": {
+                "starsToday": 46
+              }
+            }
+          }
+        },
+        {
+          "title": "llvm/llvm-project",
+          "url": "https://github.com/llvm/llvm-project",
+          "summary": "LLVM Projesi, modüler ve yeniden kullanılabilir derleyici (compiler) ve araç zinciri teknolojileri sunan bir altyapıdır. Yazılım geliştirme süreçlerinde kodun optimize edilmesini ve farklı donanım mimarilerine uygun hale getirilmesini sağlar.",
+          "meta": "LLVM · ★ 40.286 · +23 bugün",
+          "snapshot": {
+            "sourceId": "llvm/llvm-project",
+            "capturedAt": "2026-09-07T08:56:21.839Z",
+            "metadata": {
+              "language": "LLVM",
+              "popularity": 40286,
+              "engagementCount": 23,
+              "rank": 8,
+              "extra": {
+                "starsToday": 23
+              }
+            }
+          }
+        },
+        {
+          "title": "coreyhaines31/marketingskills",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "summary": "MarketingSkills, yapay zekâ ajanlarının (AI agents) pazarlama görevlerini yerine getirmesi için geliştirilen bir JavaScript kütüphanesi. Dönüşüm oranı optimizasyonu (CRO), içerik yazarlığı (copywriting), arama motoru optimizasyonu (SEO) ve veri analitiği gibi alanlarda yapay zekâ modellerine özelleşmiş yetenekler kazandırıyor.",
+          "meta": "JavaScript · ★ 47.741 · +329 bugün",
+          "snapshot": {
+            "sourceId": "coreyhaines31/marketingskills",
+            "capturedAt": "2026-09-07T08:56:21.839Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 47741,
+              "engagementCount": 329,
+              "rank": 13,
+              "extra": {
+                "starsToday": 329
+              }
+            }
+          },
+          "returning": true
+        },
+        {
+          "title": "aipoch/open-science",
+          "url": "https://github.com/aipoch/open-science",
+          "summary": "AIPOCH tarafından geliştirilen Open Science, bilimsel araştırmalar için yerel tabanlı (local-first) ve modelden bağımsız bir yapay zekâ çalışma ortamı sunuyor. Yazılım, Python ve R not defterleri ile veri bağlantılarını birleştirerek bilimsel süreçlerin tekrarlanabilir şekilde yürütülmesine olanak tanıyor.",
+          "meta": "TypeScript · ★ 4.015 · +146 bugün",
+          "snapshot": {
+            "sourceId": "aipoch/open-science",
+            "capturedAt": "2026-09-07T08:56:21.839Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 4015,
+              "engagementCount": 146,
+              "rank": 14,
+              "extra": {
+                "starsToday": 146
+              }
+            }
+          }
+        },
+        {
+          "title": "OpenWhispr/openwhispr",
+          "url": "https://github.com/OpenWhispr/openwhispr",
+          "summary": "OpenWhispr, ses dosyalarını metne dönüştüren (voice-to-text) ve yerel modeller ile bulut tabanlı seçenekleri birleştiren bir dikte uygulamasıdır. Gizlilik odaklı yapısıyla Nvidia Parakeet veya Whisper gibi modelleri kendi cihazınızda çalıştırmanıza veya kendi API anahtarınızla bulut servislerini kullanmanıza imkan tanır.",
+          "meta": "JavaScript · ★ 7.659 · +121 bugün",
+          "snapshot": {
+            "sourceId": "OpenWhispr/openwhispr",
+            "capturedAt": "2026-09-07T08:56:21.839Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 7659,
+              "engagementCount": 121,
+              "rank": 15,
+              "extra": {
+                "starsToday": 121
+              }
+            }
+          }
+        },
+        {
+          "title": "The-Swarm-Corporation/AutoHedge",
+          "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+          "summary": "AutoHedge, piyasa analizi, risk yönetimi ve alım satım işlemlerini otomatikleştirmek için sürü zekası (swarm intelligence) ve yapay zekâ ajanlarını kullanan bir çerçeve. Kullanıcıların kendi otonom yatırım fonlarını (autonomous hedge fund) dakikalar içinde oluşturmasına olanak tanıyor.",
+          "meta": "Python · ★ 4.929 · +142 bugün",
+          "snapshot": {
+            "sourceId": "The-Swarm-Corporation/AutoHedge",
+            "capturedAt": "2026-09-07T08:56:21.839Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 4929,
+              "engagementCount": 142,
+              "rank": 17,
+              "extra": {
+                "starsToday": 142
+              }
+            }
+          }
+        },
+        {
+          "title": "Stremio/stremio-web",
+          "url": "https://github.com/Stremio/stremio-web",
+          "summary": "Stremio, farklı içerik sağlayıcılarını tek bir arayüzde birleştiren bir medya oynatıcı (media player) uygulamasıdır. Web tabanlı bu sürüm, kullanıcıların herhangi bir kurulum yapmadan tarayıcı üzerinden dizi ve film izlemesine olanak tanır.",
+          "meta": "JavaScript · ★ 13.627 · +122 bugün",
+          "snapshot": {
+            "sourceId": "Stremio/stremio-web",
+            "capturedAt": "2026-09-07T08:56:21.839Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 13627,
+              "engagementCount": 122,
+              "rank": 18,
+              "extra": {
+                "starsToday": 122
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Nitter and XCancel resume service after legal advice",
+          "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+          "summary": "X platformunun arayüzü olmadan görüntülenmesini sağlayan Nitter ve XCancel, hukuki danışmanlık süreçlerinin ardından hizmet vermeye tekrar başladı. Bu araçlar, kullanıcıların sosyal medya platformu X'e (eski adıyla Twitter) giriş yapmadan içeriklere erişmesine olanak tanıyor.",
+          "meta": "720 oy · 313 yorum",
+          "snapshot": {
+            "sourceId": "49588988",
+            "capturedAt": "2026-09-07T08:56:20.814Z",
+            "metadata": {
+              "popularity": 720,
+              "engagementCount": 313,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49588988",
+                  "popularity": 720,
+                  "engagementCount": 313
+                },
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/jsxzwl/following_legal_advice_nitter_project",
+                  "popularity": 65,
+                  "engagementCount": 13
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "zImPatrick",
+                "createdAt": "2026-09-06T17:49:47Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49588988"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49588988",
+              "popularity": 720,
+              "engagementCount": 313
+            },
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/jsxzwl/following_legal_advice_nitter_project",
+              "popularity": 65,
+              "engagementCount": 13
+            }
+          ]
+        },
+        {
+          "title": "Asahi Linux on M3",
+          "url": "https://asahilinux.org/2026/09/m2-episode-1/",
+          "summary": "Apple'ın M3 işlemcili cihazlarına yönelik Asahi Linux desteği, artık resmi olarak kullanıma sunuldu. Bu geliştirme, Apple Silicon mimarisine sahip donanımlarda açık kaynaklı işletim sistemi Linux'un çalıştırılabilmesi için kritik bir aşamayı temsil ediyor.",
+          "meta": "456 oy · 278 yorum",
+          "snapshot": {
+            "sourceId": "49586698",
+            "capturedAt": "2026-09-07T08:56:20.814Z",
+            "metadata": {
+              "popularity": 456,
+              "engagementCount": 278,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49586698",
+                  "popularity": 456,
+                  "engagementCount": 278
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "mdp2021",
+                "createdAt": "2026-09-06T14:08:59Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49586698"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49586698",
+              "popularity": 456,
+              "engagementCount": 278
+            }
+          ]
+        },
+        {
+          "title": "An Alien Mind",
+          "url": "https://openai.com/index/an-alien-mind/",
+          "summary": "OpenAI, büyük dil modellerinin (large language models) insan zihninden farklı bir mantık yürütme biçimine sahip olduğunu inceleyen bir araştırma yayımladı. Bu çalışma, yapay zekâ sistemlerinin problem çözme süreçlerindeki bilişsel farklılıkları ve yabancı bir zihin yapısına benzer işleyişlerini analiz ediyor.",
+          "meta": "404 oy · 353 yorum",
+          "snapshot": {
+            "sourceId": "49588080",
+            "capturedAt": "2026-09-07T08:56:20.814Z",
+            "metadata": {
+              "popularity": 404,
+              "engagementCount": 353,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49588080",
+                  "popularity": 404,
+                  "engagementCount": 353
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "tosh",
+                "createdAt": "2026-09-06T16:27:05Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49588080"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49588080",
+              "popularity": 404,
+              "engagementCount": 353
+            }
+          ]
+        },
+        {
+          "title": "Keep Our Servers Running",
+          "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+          "summary": "İnternet arşivi Internet Archive, dijital kaynakların sürekliliğini sağlamak amacıyla Eylül ayı boyunca yapılan bağışları üç katına çıkarma kampanyası başlattı. Kâr amacı gütmeyen bu dijital kütüphane, sunucu maliyetlerini karşılamak için kullanıcılarından düzenli destek bekliyor.",
+          "meta": "390 oy · 90 yorum",
+          "snapshot": {
+            "sourceId": "49593563",
+            "capturedAt": "2026-09-07T08:56:20.814Z",
+            "metadata": {
+              "popularity": 390,
+              "engagementCount": 90,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49593563",
+                  "popularity": 390,
+                  "engagementCount": 90
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "sonicrocketman",
+                "createdAt": "2026-09-07T03:29:51Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49593563"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49593563",
+              "popularity": 390,
+              "engagementCount": 90
+            }
+          ]
+        },
+        {
+          "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+          "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+          "summary": "Gizlilik odaklı mobil işletim sistemi GrapheneOS, varsayılan uygulamalar yönetimini ve güvenli pano (secure clipboard) özelliklerini güncelledi. Kullanıcıların veri paylaşımını daha sıkı denetlemesini sağlayan bu geliştirmeler, sistem genelinde veri sızıntılarını önlemeyi hedefliyor.",
+          "meta": "281 oy · 201 yorum",
+          "snapshot": {
+            "sourceId": "49590512",
+            "capturedAt": "2026-09-07T08:56:20.814Z",
+            "metadata": {
+              "popularity": 281,
+              "engagementCount": 201,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49590512",
+                  "popularity": 281,
+                  "engagementCount": 201
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "Cider9986",
+                "createdAt": "2026-09-06T20:24:00Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49590512"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49590512",
+              "popularity": 281,
+              "engagementCount": 201
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "The Attention Triangle in Audio-Video Models",
+          "url": "https://huggingface.co/papers/2609.03586",
+          "summary": "Ses ve video yayılım modelleri (audio-video diffusion models), metin, ses ve görsel içerikleri eşleştirmek için çapraz kipli dikkat (cross-modal attention) mekanizmasını kullanıyor. Bu çalışma, metin, ses ve video akışları arasındaki dikkat üçgenini analiz ederek, üretim sürecinde anlamsal bilginin kipler arasında nasıl aktarıldığını ve sistemik veri sızıntılarını inceliyor.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.03586",
+            "capturedAt": "2026-09-07T08:56:20.748Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.03586",
+                "publishedAt": "2026-09-03T00:00:00.000Z",
+                "githubRepo": "https://github.com/SagiPolaczek/The-Attention-Triangle"
+              }
+            }
+          }
+        },
+        {
+          "title": "To See a World in a Living Context: Unified Indoor-Outdoor Urban World Generation",
+          "url": "https://huggingface.co/papers/2608.05879",
+          "summary": "HoloWorld, metin tabanlı 3D modelleme ile iç ve dış mekanları tek bir kentsel bağlamda birleştiren bir üretim çerçevesi sunuyor. Kullanıcı tanımlarından yola çıkarak ölçekler arası tutarlı ve sürekli güncellenen şehir ortamları oluşturmayı hedefliyor.",
+          "meta": "0 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2608.05879",
+            "capturedAt": "2026-09-07T08:56:20.748Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.05879",
+                "publishedAt": "2026-08-29T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "τ^τ-Bench: An Environment for End-To-End, Realistic Agent Construction",
+          "url": "https://huggingface.co/papers/2609.04611",
+          "summary": "τ^τ-Bench, büyük dil modellerinin (LLM) gerçek dünya koşullarında yazılım ajanı oluşturma yeteneklerini ölçen bir değerlendirme platformudur. Bu sistem, geliştirici ajanların karmaşık iş gereksinimlerini karşılayan uçtan uca yazılımlar inşa etme becerisini standart senaryolar üzerinden test eder.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.04611",
+            "capturedAt": "2026-09-07T08:56:20.748Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.04611",
+                "publishedAt": "2026-09-04T00:00:00.000Z",
+                "githubRepo": "https://github.com/sierra-research/hyper-tau-bench",
+                "githubStars": 1
+              }
+            }
+          }
+        },
+        {
+          "title": "Enoki: Efficient Multi-Level Hallucination Detection",
+          "url": "https://huggingface.co/papers/2609.00581",
+          "summary": "Enoki, büyük dil modellerinin (large language models) ürettiği yanlış bilgileri tespit etmek için geliştirilen çok seviyeli bir doğruluk denetim çerçevesidir. Hem iddia hem de metin aralığı düzeyinde analiz yaparak, karmaşık doğrulama süreçlerini daha verimli ve tutarlı hale getirir.",
+          "meta": "12 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.00581",
+            "capturedAt": "2026-09-07T08:56:20.748Z",
+            "metadata": {
+              "popularity": 12,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.00581",
+                "publishedAt": "2026-09-01T02:21:28.000Z",
+                "githubRepo": "https://github.com/s-nlp/Enoki",
+                "githubStars": 2
+              }
+            }
+          }
+        },
+        {
+          "title": "ShallowStream: Index Shallow then Answer Deep for Streaming Video Understanding",
+          "url": "https://huggingface.co/papers/2609.02780",
+          "summary": "ShallowStream, sürekli video akışlarını analiz eden çok modlu büyük dil modellerinin (multimodal large language models) işlem yükünü azaltan bir yöntemdir. Önce görsel veriyi yüzeysel olarak indeksleyip ardından ihtiyaç duyulan kısımları derinlemesine işleyerek gerçek zamanlı video takibini daha verimli hale getirir.",
+          "meta": "0 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.02780",
+            "capturedAt": "2026-09-07T08:56:20.748Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.02780",
+                "publishedAt": "2026-09-02T00:00:00.000Z",
+                "githubRepo": "https://github.com/CURRENTF/ShallowStream",
+                "githubStars": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "It took a year to ship WebAssembly in Anubis",
+          "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+          "summary": "Anubis programlama dili, WebAssembly desteğini (WebAssembly) bir yıllık geliştirme sürecinin ardından kullanıma sundu. Bu entegrasyon, dilin farklı platformlarda taşınabilirliğini artırarak tarayıcı tabanlı uygulamalar için çalışma zamanı (runtime) desteği sağlıyor.",
+          "meta": "61 oy · 9 yorum",
+          "snapshot": {
+            "sourceId": "aokzbg",
+            "capturedAt": "2026-09-07T08:56:20.917Z",
+            "metadata": {
+              "popularity": 61,
+              "engagementCount": 9,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/aokzbg/it_took_year_ship_webassembly_anubis",
+                  "popularity": 61,
+                  "engagementCount": 9
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "rust",
+                  "wasm"
+                ],
+                "createdAt": "2026-09-06T15:41:38.430-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/aokzbg/it_took_year_ship_webassembly_anubis",
+              "popularity": 61,
+              "engagementCount": 9
+            }
+          ]
+        },
+        {
+          "title": "Python Iceberg",
+          "url": "https://aleyan.com/projects/python-iceberg/",
+          "summary": "Python Iceberg, Python dilindeki az bilinen ve karmaşık özelliklerin derinlemesine incelendiği bir bilgi kaynağı. Dilin temel işleyişini ve gizli kalmış mekanizmalarını (internals) anlamak isteyen geliştiriciler için teknik detaylar sunuyor.",
+          "meta": "18 oy · 8 yorum",
+          "snapshot": {
+            "sourceId": "xv6z4r",
+            "capturedAt": "2026-09-07T08:56:20.917Z",
+            "metadata": {
+              "popularity": 18,
+              "engagementCount": 8,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/xv6z4r/python_iceberg",
+                  "popularity": 18,
+                  "engagementCount": 8
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "python",
+                  "vibecoding",
+                  "visualization"
+                ],
+                "createdAt": "2026-09-06T13:46:54.409-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/xv6z4r/python_iceberg",
+              "popularity": 18,
+              "engagementCount": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "Akıllı cihazların belirli komutları anlayıp yerine getirmesini sağlayan küçük yazılım eklentileri."
+    },
+    {
+      "term": "compiler",
+      "explanation": "İnsanların yazdığı kodları bilgisayarın doğrudan anlayıp çalıştırabileceği makine diline çeviren yazılım."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Kendi başına karar alabilen, hedeflere ulaşmak için araçları kullanan ve görevleri tamamlayan akıllı yazılım birimleri."
+    },
+    {
+      "term": "CRO",
+      "explanation": "Bir web sitesini ziyaret eden kişilerin daha büyük bir kısmının alışveriş yapması veya üye olması için yapılan iyileştirmeler."
+    },
+    {
+      "term": "copywriting",
+      "explanation": "İnsanları bir ürünü almaya veya bir eylemi yapmaya ikna etmek için yazılan etkileyici metinler."
+    },
+    {
+      "term": "SEO",
+      "explanation": "Web sitelerinin arama motorlarında daha üst sıralarda çıkması için yapılan düzenleme ve iyileştirme çalışmaları."
+    },
+    {
+      "term": "local-first",
+      "explanation": "Verilerin internete ihtiyaç duymadan doğrudan cihazınızda saklanmasını ve çevrimdışıyken de çalışabilmesini esas alan yazılım yaklaşımı."
+    },
+    {
+      "term": "voice-to-text",
+      "explanation": "Söylediğiniz sözleri anlık olarak dinleyip bunları yazılı metne dönüştüren teknoloji."
+    },
+    {
+      "term": "LLM",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "swarm intelligence",
+      "explanation": "Birçok küçük ve basit birimin bir araya gelerek karmaşık sorunları birlikte çözdüğü kolektif çalışma yöntemi."
+    }
+  ]
+}

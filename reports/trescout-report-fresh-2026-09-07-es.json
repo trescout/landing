@@ -1,0 +1,583 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-07",
+  "capturedAt": "2026-09-07T08:56:20.594Z",
+  "editorial": "Este informe contiene las tendencias que han destacado por primera vez hoy, sin repetir los registros que aparecen en los informes normales de los últimos 30 días.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "summary": "Skills, desarrollado por OpenAI, ofrece una biblioteca de capacidades funcionales predefinidas para el modelo de escritura de código Codex. Este recurso establece una estructura estándar que permite a los desarrolladores dotar a los modelos de inteligencia artificial de la capacidad de realizar tareas específicas.",
+          "meta": "Python · ★ 25.750 · +46 hoy",
+          "snapshot": {
+            "sourceId": "openai/skills",
+            "capturedAt": "2026-09-07T08:56:21.839Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 25750,
+              "engagementCount": 46,
+              "rank": 5,
+              "extra": {
+                "starsToday": 46
+              }
+            }
+          }
+        },
+        {
+          "title": "llvm/llvm-project",
+          "url": "https://github.com/llvm/llvm-project",
+          "summary": "El Proyecto LLVM es una infraestructura que ofrece tecnologías de compilador y cadena de herramientas modulares y reutilizables. Permite optimizar el código en los procesos de desarrollo de software y adaptarlo a diferentes arquitecturas de hardware.",
+          "meta": "LLVM · ★ 40.286 · +23 hoy",
+          "snapshot": {
+            "sourceId": "llvm/llvm-project",
+            "capturedAt": "2026-09-07T08:56:21.839Z",
+            "metadata": {
+              "language": "LLVM",
+              "popularity": 40286,
+              "engagementCount": 23,
+              "rank": 8,
+              "extra": {
+                "starsToday": 23
+              }
+            }
+          }
+        },
+        {
+          "title": "coreyhaines31/marketingskills",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "summary": "MarketingSkills es una biblioteca de JavaScript desarrollada para que los agentes de inteligencia artificial (AI agents) realicen tareas de marketing. Proporciona capacidades especializadas a modelos de IA en áreas como la optimización de la tasa de conversión (CRO), redacción publicitaria (copywriting), optimización de motores de búsqueda (SEO) y análisis de datos.",
+          "meta": "JavaScript · ★ 47.741 · +329 hoy",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "coreyhaines31/marketingskills",
+            "capturedAt": "2026-09-07T08:56:21.839Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 47741,
+              "engagementCount": 329,
+              "rank": 13,
+              "extra": {
+                "starsToday": 329
+              }
+            }
+          }
+        },
+        {
+          "title": "aipoch/open-science",
+          "url": "https://github.com/aipoch/open-science",
+          "summary": "Open Science, desarrollado por AIPOCH, ofrece un entorno de trabajo de inteligencia artificial local y agnóstico al modelo para la investigación científica. El software combina cuadernos de Python y R con conexiones de datos, permitiendo que los procesos científicos se lleven a cabo de manera reproducible.",
+          "meta": "TypeScript · ★ 4.015 · +146 hoy",
+          "snapshot": {
+            "sourceId": "aipoch/open-science",
+            "capturedAt": "2026-09-07T08:56:21.839Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 4015,
+              "engagementCount": 146,
+              "rank": 14,
+              "extra": {
+                "starsToday": 146
+              }
+            }
+          }
+        },
+        {
+          "title": "OpenWhispr/openwhispr",
+          "url": "https://github.com/OpenWhispr/openwhispr",
+          "summary": "OpenWhispr es una aplicación de dictado que convierte archivos de audio a texto (voice-to-text) y combina modelos locales con opciones basadas en la nube. Con su enfoque centrado en la privacidad, permite ejecutar modelos como Nvidia Parakeet o Whisper en su propio dispositivo o utilizar servicios en la nube con su propia clave API.",
+          "meta": "JavaScript · ★ 7.659 · +121 hoy",
+          "snapshot": {
+            "sourceId": "OpenWhispr/openwhispr",
+            "capturedAt": "2026-09-07T08:56:21.839Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 7659,
+              "engagementCount": 121,
+              "rank": 15,
+              "extra": {
+                "starsToday": 121
+              }
+            }
+          }
+        },
+        {
+          "title": "The-Swarm-Corporation/AutoHedge",
+          "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+          "summary": "AutoHedge es un marco que utiliza inteligencia de enjambre (swarm intelligence) y agentes de inteligencia artificial para automatizar el análisis de mercado, la gestión de riesgos y las operaciones de compraventa. Permite a los usuarios crear sus propios fondos de cobertura autónomos (autonomous hedge fund) en cuestión de minutos.",
+          "meta": "Python · ★ 4.929 · +142 hoy",
+          "snapshot": {
+            "sourceId": "The-Swarm-Corporation/AutoHedge",
+            "capturedAt": "2026-09-07T08:56:21.839Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 4929,
+              "engagementCount": 142,
+              "rank": 17,
+              "extra": {
+                "starsToday": 142
+              }
+            }
+          }
+        },
+        {
+          "title": "Stremio/stremio-web",
+          "url": "https://github.com/Stremio/stremio-web",
+          "summary": "Stremio es una aplicación de reproductor multimedia (media player) que unifica diferentes proveedores de contenido en una sola interfaz. Esta versión basada en web permite a los usuarios ver series y películas a través del navegador sin necesidad de realizar ninguna instalación.",
+          "meta": "JavaScript · ★ 13.627 · +122 hoy",
+          "snapshot": {
+            "sourceId": "Stremio/stremio-web",
+            "capturedAt": "2026-09-07T08:56:21.839Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 13627,
+              "engagementCount": 122,
+              "rank": 18,
+              "extra": {
+                "starsToday": 122
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Nitter and XCancel resume service after legal advice",
+          "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+          "summary": "Nitter y XCancel, que permiten visualizar la plataforma X sin su interfaz, han vuelto a estar operativos tras procesos de asesoramiento legal. Estas herramientas permiten a los usuarios acceder a contenidos de la plataforma de redes sociales X (anteriormente conocida como Twitter) sin necesidad de iniciar sesión.",
+          "meta": "720 puntos · 313 comentarios",
+          "snapshot": {
+            "sourceId": "49588988",
+            "capturedAt": "2026-09-07T08:56:20.814Z",
+            "metadata": {
+              "popularity": 720,
+              "engagementCount": 313,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49588988",
+                  "popularity": 720,
+                  "engagementCount": 313
+                },
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/jsxzwl/following_legal_advice_nitter_project",
+                  "popularity": 65,
+                  "engagementCount": 13
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "zImPatrick",
+                "createdAt": "2026-09-06T17:49:47Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49588988"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49588988",
+              "popularity": 720,
+              "engagementCount": 313
+            },
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/jsxzwl/following_legal_advice_nitter_project",
+              "popularity": 65,
+              "engagementCount": 13
+            }
+          ]
+        },
+        {
+          "title": "Asahi Linux on M3",
+          "url": "https://asahilinux.org/2026/09/m2-episode-1/",
+          "summary": "El soporte de Asahi Linux para los dispositivos de Apple con procesador M3 ya está disponible oficialmente. Este desarrollo representa una etapa crítica para poder ejecutar el sistema operativo de código abierto Linux en hardware con arquitectura Apple Silicon.",
+          "meta": "456 puntos · 278 comentarios",
+          "snapshot": {
+            "sourceId": "49586698",
+            "capturedAt": "2026-09-07T08:56:20.814Z",
+            "metadata": {
+              "popularity": 456,
+              "engagementCount": 278,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49586698",
+                  "popularity": 456,
+                  "engagementCount": 278
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "mdp2021",
+                "createdAt": "2026-09-06T14:08:59Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49586698"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49586698",
+              "popularity": 456,
+              "engagementCount": 278
+            }
+          ]
+        },
+        {
+          "title": "An Alien Mind",
+          "url": "https://openai.com/index/an-alien-mind/",
+          "summary": "OpenAI ha publicado una investigación que examina que los grandes modelos de lenguaje (large language models) tienen una forma de razonamiento diferente a la mente humana. Este estudio analiza las diferencias cognitivas en los procesos de resolución de problemas de los sistemas de inteligencia artificial y su funcionamiento similar a una estructura mental ajena.",
+          "meta": "404 puntos · 353 comentarios",
+          "snapshot": {
+            "sourceId": "49588080",
+            "capturedAt": "2026-09-07T08:56:20.814Z",
+            "metadata": {
+              "popularity": 404,
+              "engagementCount": 353,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49588080",
+                  "popularity": 404,
+                  "engagementCount": 353
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "tosh",
+                "createdAt": "2026-09-06T16:27:05Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49588080"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49588080",
+              "popularity": 404,
+              "engagementCount": 353
+            }
+          ]
+        },
+        {
+          "title": "Keep Our Servers Running",
+          "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+          "summary": "Internet Archive ha lanzado una campaña para triplicar las donaciones realizadas durante el mes de septiembre con el fin de garantizar la continuidad de los recursos digitales. Esta biblioteca digital sin ánimo de lucro espera el apoyo regular de sus usuarios para cubrir los costes de los servidores.",
+          "meta": "390 puntos · 90 comentarios",
+          "snapshot": {
+            "sourceId": "49593563",
+            "capturedAt": "2026-09-07T08:56:20.814Z",
+            "metadata": {
+              "popularity": 390,
+              "engagementCount": 90,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49593563",
+                  "popularity": 390,
+                  "engagementCount": 90
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "sonicrocketman",
+                "createdAt": "2026-09-07T03:29:51Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49593563"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49593563",
+              "popularity": 390,
+              "engagementCount": 90
+            }
+          ]
+        },
+        {
+          "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+          "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+          "summary": "GrapheneOS, el sistema operativo móvil centrado en la privacidad, ha actualizado la gestión de aplicaciones predeterminadas y las funciones del portapapeles seguro (secure clipboard). Estas mejoras, que permiten a los usuarios controlar más estrictamente el intercambio de datos, tienen como objetivo prevenir fugas de datos en todo el sistema.",
+          "meta": "281 puntos · 201 comentarios",
+          "snapshot": {
+            "sourceId": "49590512",
+            "capturedAt": "2026-09-07T08:56:20.814Z",
+            "metadata": {
+              "popularity": 281,
+              "engagementCount": 201,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49590512",
+                  "popularity": 281,
+                  "engagementCount": 201
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "Cider9986",
+                "createdAt": "2026-09-06T20:24:00Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49590512"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49590512",
+              "popularity": 281,
+              "engagementCount": 201
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "The Attention Triangle in Audio-Video Models",
+          "url": "https://huggingface.co/papers/2609.03586",
+          "summary": "Los modelos de difusión de audio y video (audio-video diffusion models) utilizan el mecanismo de atención multimodal (cross-modal attention) para emparejar contenidos de texto, audio y visuales. Este estudio analiza el triángulo de atención entre los flujos de texto, audio y video, examinando cómo se transfiere la información semántica entre las modalidades durante el proceso de generación y las fugas de datos sistémicas.",
+          "meta": "1 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2609.03586",
+            "capturedAt": "2026-09-07T08:56:20.748Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.03586",
+                "publishedAt": "2026-09-03T00:00:00.000Z",
+                "githubRepo": "https://github.com/SagiPolaczek/The-Attention-Triangle"
+              }
+            }
+          }
+        },
+        {
+          "title": "To See a World in a Living Context: Unified Indoor-Outdoor Urban World Generation",
+          "url": "https://huggingface.co/papers/2608.05879",
+          "summary": "HoloWorld presenta un marco de producción que combina el modelado 3D basado en texto con espacios interiores y exteriores en un único contexto urbano. Su objetivo es crear entornos urbanos coherentes entre escalas y continuamente actualizados a partir de las descripciones de los usuarios.",
+          "meta": "0 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2608.05879",
+            "capturedAt": "2026-09-07T08:56:20.748Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.05879",
+                "publishedAt": "2026-08-29T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "τ^τ-Bench: An Environment for End-To-End, Realistic Agent Construction",
+          "url": "https://huggingface.co/papers/2609.04611",
+          "summary": "τ^τ-Bench es una plataforma de evaluación que mide las capacidades de los grandes modelos de lenguaje (LLM) para crear agentes de software en condiciones del mundo real. Este sistema prueba la habilidad de los agentes desarrolladores para construir software de extremo a extremo que cumpla con requisitos comerciales complejos a través de escenarios estándar.",
+          "meta": "1 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2609.04611",
+            "capturedAt": "2026-09-07T08:56:20.748Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.04611",
+                "publishedAt": "2026-09-04T00:00:00.000Z",
+                "githubRepo": "https://github.com/sierra-research/hyper-tau-bench",
+                "githubStars": 1
+              }
+            }
+          }
+        },
+        {
+          "title": "Enoki: Efficient Multi-Level Hallucination Detection",
+          "url": "https://huggingface.co/papers/2609.00581",
+          "summary": "Enoki es un marco de verificación de precisión multinivel desarrollado para detectar información errónea generada por grandes modelos de lenguaje (large language models). Al realizar análisis tanto a nivel de afirmación como de intervalo de texto, hace que los procesos de verificación complejos sean más eficientes y consistentes.",
+          "meta": "12 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2609.00581",
+            "capturedAt": "2026-09-07T08:56:20.748Z",
+            "metadata": {
+              "popularity": 12,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.00581",
+                "publishedAt": "2026-09-01T02:21:28.000Z",
+                "githubRepo": "https://github.com/s-nlp/Enoki",
+                "githubStars": 2
+              }
+            }
+          }
+        },
+        {
+          "title": "ShallowStream: Index Shallow then Answer Deep for Streaming Video Understanding",
+          "url": "https://huggingface.co/papers/2609.02780",
+          "summary": "ShallowStream es un método que reduce la carga de procesamiento de los grandes modelos de lenguaje multimodales (multimodal large language models) que analizan flujos de video continuos. Indexa superficialmente los datos visuales primero y luego procesa profundamente las partes necesarias, haciendo que el seguimiento de video en tiempo real sea más eficiente.",
+          "meta": "0 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2609.02780",
+            "capturedAt": "2026-09-07T08:56:20.748Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.02780",
+                "publishedAt": "2026-09-02T00:00:00.000Z",
+                "githubRepo": "https://github.com/CURRENTF/ShallowStream",
+                "githubStars": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "It took a year to ship WebAssembly in Anubis",
+          "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+          "summary": "El lenguaje de programación Anubis lanzó el soporte para WebAssembly (WebAssembly) después de un año de desarrollo. Esta integración aumenta la portabilidad del lenguaje en diferentes plataformas y proporciona soporte de tiempo de ejecución (runtime) para aplicaciones basadas en navegador.",
+          "meta": "61 puntos · 9 comentarios",
+          "snapshot": {
+            "sourceId": "aokzbg",
+            "capturedAt": "2026-09-07T08:56:20.917Z",
+            "metadata": {
+              "popularity": 61,
+              "engagementCount": 9,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/aokzbg/it_took_year_ship_webassembly_anubis",
+                  "popularity": 61,
+                  "engagementCount": 9
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "rust",
+                  "wasm"
+                ],
+                "createdAt": "2026-09-06T15:41:38.430-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/aokzbg/it_took_year_ship_webassembly_anubis",
+              "popularity": 61,
+              "engagementCount": 9
+            }
+          ]
+        },
+        {
+          "title": "Python Iceberg",
+          "url": "https://aleyan.com/projects/python-iceberg/",
+          "summary": "Python Iceberg es una fuente de información donde se examinan en profundidad las características poco conocidas y complejas del lenguaje Python. Ofrece detalles técnicos para los desarrolladores que desean comprender el funcionamiento básico y los mecanismos ocultos (internals) del lenguaje.",
+          "meta": "18 puntos · 8 comentarios",
+          "snapshot": {
+            "sourceId": "xv6z4r",
+            "capturedAt": "2026-09-07T08:56:20.917Z",
+            "metadata": {
+              "popularity": 18,
+              "engagementCount": 8,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/xv6z4r/python_iceberg",
+                  "popularity": 18,
+                  "engagementCount": 8
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "python",
+                  "vibecoding",
+                  "visualization"
+                ],
+                "createdAt": "2026-09-06T13:46:54.409-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/xv6z4r/python_iceberg",
+              "popularity": 18,
+              "engagementCount": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "Pequeños complementos de software que permiten a los dispositivos inteligentes comprender y ejecutar comandos específicos."
+    },
+    {
+      "term": "compiler",
+      "explanation": "Software que traduce el código escrito por humanos al lenguaje de máquina que la computadora puede entender y ejecutar directamente."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Unidades de software inteligentes que pueden tomar decisiones por sí mismas, utilizar herramientas para alcanzar objetivos y completar tareas."
+    },
+    {
+      "term": "CRO",
+      "explanation": "Mejoras realizadas para que una mayor proporción de personas que visitan un sitio web realicen compras o se registren."
+    },
+    {
+      "term": "copywriting",
+      "explanation": "Textos persuasivos escritos para convencer a las personas de comprar un producto o realizar una acción."
+    },
+    {
+      "term": "SEO",
+      "explanation": "Trabajos de edición y mejora realizados para que los sitios web aparezcan en posiciones más altas en los motores de búsqueda."
+    },
+    {
+      "term": "local-first",
+      "explanation": "Un enfoque de software basado en el almacenamiento de datos directamente en su dispositivo sin necesidad de Internet y que permite trabajar incluso sin conexión."
+    },
+    {
+      "term": "voice-to-text",
+      "explanation": "Tecnología que escucha lo que dice en tiempo real y lo convierte en texto escrito."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Modelos de inteligencia artificial entrenados con grandes volúmenes de datos, capaces de comprender el lenguaje humano y generar texto."
+    },
+    {
+      "term": "swarm intelligence",
+      "explanation": "Un método de trabajo colectivo en el que muchas unidades pequeñas y simples se unen para resolver problemas complejos de forma conjunta."
+    }
+  ]
+}

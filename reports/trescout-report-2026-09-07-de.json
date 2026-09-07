@@ -1,0 +1,974 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-07",
+  "capturedAt": "2026-09-07T08:56:20.594Z",
+  "editorial": "Heute stehen auf der Technologie-Agenda neue, auf Effizienz ausgerichtete Versionen von Open-Source-KI-Modellen sowie hardwareseitige Arbeiten an nativen Betriebssystemen für die Apple-Silicon-Architektur im Vordergrund. Insbesondere die Entwickler-Skillsets auf GitHub und die als Reaktion auf Plattformbeschränkungen auf Hacker News entwickelten alternativen Dienste spiegeln die aktuellen Anpassungsprozesse des Ökosystems wider.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC ist ein Leistungssystem, das Fähigkeiten-, Speicher- und Sicherheitsebenen für KI-Agenten optimiert. Es zielt darauf ab, agentenbasierte Arbeitsabläufe auf Plattformen wie Claude Code und dem Code-Editor Cursor effizienter zu gestalten.",
+          "meta": "JavaScript · ★ 252.063 · +1.485 heute",
+          "snapshot": {
+            "sourceId": "affaan-m/ECC",
+            "capturedAt": "2026-09-07T08:56:21.839Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 252063,
+              "engagementCount": 1485,
+              "rank": 1,
+              "extra": {
+                "starsToday": 1485
+              }
+            }
+          }
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Die von Mattpocock geteilten Skills enthalten maßgeschneiderte Fähigkeitspakete, die Softwareentwickler für KI-Agenten verwenden. Dieses Repository bietet Automatisierungsbefehle und Agentenkonfigurationen, die in realen Ingenieurprojekten eingesetzt werden, in einem Open-Source-Format an.",
+          "meta": "Shell · ★ 255.448 · +2.207 heute",
+          "snapshot": {
+            "sourceId": "mattpocock/skills",
+            "capturedAt": "2026-09-07T08:56:21.839Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 255448,
+              "engagementCount": 2207,
+              "rank": 2,
+              "extra": {
+                "starsToday": 2207
+              }
+            }
+          }
+        },
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "Diagram-design bietet 38 verschiedene redaktionelle Diagrammvorlagen, die speziell für KI-Modelle (Claude Code, Codex, Pi) erstellt wurden. Diese Designs im HTML- und SVG-Format, die zur Reduzierung visueller Komplexität auf Schatteneffekte verzichten, bieten eine alternative Visualisierungsmethode zu Standard-Diagrammwerkzeugen (Mermaid).",
+          "meta": "HTML · ★ 32.920 · +620 heute",
+          "snapshot": {
+            "sourceId": "cathrynlavery/diagram-design",
+            "capturedAt": "2026-09-07T08:56:21.839Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 32920,
+              "engagementCount": 620,
+              "rank": 3,
+              "extra": {
+                "starsToday": 620
+              }
+            }
+          }
+        },
+        {
+          "title": "NousResearch/hermes-agent",
+          "url": "https://github.com/NousResearch/hermes-agent",
+          "summary": "Der von NousResearch entwickelte Hermes Agent ist ein KI-Agent, der aus Benutzerinteraktionen lernt und seine Fähigkeiten im Laufe der Zeit verbessert. Dieses Python-basierte System zielt darauf ab, personalisiertes Aufgabenmanagement und Prozesse des kontinuierlichen Lernens (continuous learning) zu automatisieren.",
+          "meta": "Python · ★ 242.775 · +520 heute",
+          "snapshot": {
+            "sourceId": "NousResearch/hermes-agent",
+            "capturedAt": "2026-09-07T08:56:21.839Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 242775,
+              "engagementCount": 520,
+              "rank": 4,
+              "extra": {
+                "starsToday": 520
+              }
+            }
+          }
+        },
+        {
+          "title": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "summary": "Die von OpenAI entwickelten Skills bieten eine Bibliothek vordefinierter funktionaler Fähigkeiten für das Codierungsmodell Codex. Diese Ressource schafft eine Standardstruktur, die es Entwicklern ermöglicht, KI-Modellen die Fähigkeit zu verleihen, spezifische Aufgaben auszuführen.",
+          "meta": "Python · ★ 25.750 · +46 heute",
+          "snapshot": {
+            "sourceId": "openai/skills",
+            "capturedAt": "2026-09-07T08:56:21.839Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 25750,
+              "engagementCount": 46,
+              "rank": 5,
+              "extra": {
+                "starsToday": 46
+              }
+            }
+          }
+        },
+        {
+          "title": "anomalyco/opencode",
+          "url": "https://github.com/anomalyco/opencode",
+          "summary": "OpenCode ist ein Open-Source-Coding-Agent, der Softwareentwicklungsprozesse automatisiert. Dieses in TypeScript entwickelte Tool bietet einen KI-gestützten Workflow zur Erledigung komplexer Programmieraufgaben.",
+          "meta": "TypeScript · ★ 205.491 · +551 heute",
+          "snapshot": {
+            "sourceId": "anomalyco/opencode",
+            "capturedAt": "2026-09-07T08:56:21.839Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 205491,
+              "engagementCount": 551,
+              "rank": 6,
+              "extra": {
+                "starsToday": 551
+              }
+            }
+          }
+        },
+        {
+          "title": "blader/humanizer",
+          "url": "https://github.com/blader/humanizer",
+          "summary": "Humanizer ist eine Python-Bibliothek, die charakteristische Muster in KI-generierten Texten entfernt und den Inhalt in einen natürlicheren, menschenähnlicheren Stil umwandelt. Dieses Tool hilft dabei, Ausgaben generativer KI an menschliches Schreiben anzupassen, damit die Texte KI-Erkennungssysteme umgehen können.",
+          "meta": "Python · ★ 44.672 · +748 heute",
+          "snapshot": {
+            "sourceId": "blader/humanizer",
+            "capturedAt": "2026-09-07T08:56:21.839Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 44672,
+              "engagementCount": 748,
+              "rank": 7,
+              "extra": {
+                "starsToday": 748
+              }
+            }
+          }
+        },
+        {
+          "title": "llvm/llvm-project",
+          "url": "https://github.com/llvm/llvm-project",
+          "summary": "Das LLVM-Projekt ist eine Infrastruktur, die modulare und wiederverwendbare Compiler- und Toolchain-Technologien bereitstellt. Es ermöglicht die Optimierung von Code in Softwareentwicklungsprozessen und dessen Anpassung an verschiedene Hardwarearchitekturen.",
+          "meta": "LLVM · ★ 40.286 · +23 heute",
+          "snapshot": {
+            "sourceId": "llvm/llvm-project",
+            "capturedAt": "2026-09-07T08:56:21.839Z",
+            "metadata": {
+              "language": "LLVM",
+              "popularity": 40286,
+              "engagementCount": 23,
+              "rank": 8,
+              "extra": {
+                "starsToday": 23
+              }
+            }
+          }
+        },
+        {
+          "title": "DietrichGebert/ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "summary": "Ponytail ist ein Entwicklungstool, das den Schreibaufwand für KI-Agenten minimiert und sich auf die Nutzung bestehender Lösungen konzentriert. Indem es die Philosophie verfolgt, dass der beste Code derjenige ist, der nie geschrieben wurde, ermöglicht es Agenten, effizientere und minimalistischere Entscheidungen zu treffen.",
+          "meta": "JavaScript · ★ 130.124 · +1.539 heute",
+          "snapshot": {
+            "sourceId": "DietrichGebert/ponytail",
+            "capturedAt": "2026-09-07T08:56:21.839Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 130124,
+              "engagementCount": 1539,
+              "rank": 9,
+              "extra": {
+                "starsToday": 1539
+              }
+            }
+          }
+        },
+        {
+          "title": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "summary": "Ruflo ist ein TypeScript-Framework, das zur Verwaltung autonomer Arbeitsabläufe und zur Erstellung von KI-Multi-Agenten-Schwärmen entwickelt wurde. Mit Funktionen wie adaptivem Speicher, Selbstlernfähigkeit und RAG-Integration (Retrieval-Augmented Generation) erleichtert es die Einrichtung komplexer KI-Systeme.",
+          "meta": "TypeScript · ★ 71.149 · +276 heute",
+          "snapshot": {
+            "sourceId": "ruvnet/ruflo",
+            "capturedAt": "2026-09-07T08:56:21.839Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 71149,
+              "engagementCount": 276,
+              "rank": 10,
+              "extra": {
+                "starsToday": 276
+              }
+            }
+          }
+        },
+        {
+          "title": "magnitudedev/magnitude",
+          "url": "https://github.com/magnitudedev/magnitude",
+          "summary": "Magnitude ist ein Open-Source-Inferenzserver, der die für Ihre Hardware am besten geeigneten lokalen Modelle ausführt und in bestehende KI-Agenten integriert werden kann. Durch die Kompatibilität mit gängigen Coding-Agenten wie Cline erleichtert es die Nutzung lokaler Sprachmodelle.",
+          "meta": "TypeScript · ★ 3.873 · +604 heute",
+          "snapshot": {
+            "sourceId": "magnitudedev/magnitude",
+            "capturedAt": "2026-09-07T08:56:21.839Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 3873,
+              "engagementCount": 604,
+              "rank": 11,
+              "extra": {
+                "starsToday": 604
+              }
+            }
+          }
+        },
+        {
+          "title": "BraveOPotato/FckSignups",
+          "url": "https://github.com/BraveOPotato/FckSignups",
+          "summary": "FckSignups ist eine Liste, die browserbasierte und quelloffene Tools zusammenstellt, für die kein Benutzerkonto erforderlich ist. Diese Ressource bietet eine praktische Alternative für Nutzer, die auf verschiedene digitale Dienste zugreifen möchten, ohne persönliche Daten preiszugeben.",
+          "meta": "TypeScript · ★ 3.513 · +436 heute",
+          "snapshot": {
+            "sourceId": "BraveOPotato/FckSignups",
+            "capturedAt": "2026-09-07T08:56:21.839Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 3513,
+              "engagementCount": 436,
+              "rank": 12,
+              "extra": {
+                "starsToday": 436
+              }
+            }
+          }
+        },
+        {
+          "title": "coreyhaines31/marketingskills",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "summary": "MarketingSkills ist eine JavaScript-Bibliothek, die entwickelt wurde, damit KI-Agenten Marketingaufgaben übernehmen können. Sie verleiht KI-Modellen spezialisierte Fähigkeiten in Bereichen wie Conversion-Rate-Optimierung (CRO), Copywriting, Suchmaschinenoptimierung (SEO) und Datenanalyse.",
+          "meta": "JavaScript · ★ 47.741 · +329 heute",
+          "snapshot": {
+            "sourceId": "coreyhaines31/marketingskills",
+            "capturedAt": "2026-09-07T08:56:21.839Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 47741,
+              "engagementCount": 329,
+              "rank": 13,
+              "extra": {
+                "starsToday": 329
+              }
+            }
+          }
+        },
+        {
+          "title": "aipoch/open-science",
+          "url": "https://github.com/aipoch/open-science",
+          "summary": "Open Science, entwickelt von AIPOCH, bietet eine Local-First- und modellunabhängige KI-Arbeitsumgebung für wissenschaftliche Forschung. Die Software kombiniert Python- und R-Notebooks mit Datenverbindungen, um die reproduzierbare Durchführung wissenschaftlicher Prozesse zu ermöglichen.",
+          "meta": "TypeScript · ★ 4.015 · +146 heute",
+          "snapshot": {
+            "sourceId": "aipoch/open-science",
+            "capturedAt": "2026-09-07T08:56:21.839Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 4015,
+              "engagementCount": 146,
+              "rank": 14,
+              "extra": {
+                "starsToday": 146
+              }
+            }
+          }
+        },
+        {
+          "title": "OpenWhispr/openwhispr",
+          "url": "https://github.com/OpenWhispr/openwhispr",
+          "summary": "OpenWhispr ist eine Diktieranwendung, die Audiodateien in Text umwandelt (Voice-to-Text) und lokale Modelle mit cloudbasierten Optionen kombiniert. Dank ihres datenschutzorientierten Ansatzes ermöglicht sie es, Modelle wie Nvidia Parakeet oder Whisper auf dem eigenen Gerät auszuführen oder Cloud-Dienste mit einem eigenen API-Schlüssel zu nutzen.",
+          "meta": "JavaScript · ★ 7.659 · +121 heute",
+          "snapshot": {
+            "sourceId": "OpenWhispr/openwhispr",
+            "capturedAt": "2026-09-07T08:56:21.839Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 7659,
+              "engagementCount": 121,
+              "rank": 15,
+              "extra": {
+                "starsToday": 121
+              }
+            }
+          }
+        },
+        {
+          "title": "humanlayer/skills",
+          "url": "https://github.com/humanlayer/skills",
+          "summary": "Die von Humanlayer entwickelte Bibliothek 'skills' ermöglicht es KI-Agenten, komplexe Aufgaben mit menschlicher Zustimmung auszuführen. Sie erlaubt Entwicklern, sichere und überprüfbare Arbeitsabläufe für Sprachmodelle (LLMs) zu erstellen.",
+          "meta": "TypeScript · ★ 3.324 · +451 heute",
+          "snapshot": {
+            "sourceId": "humanlayer/skills",
+            "capturedAt": "2026-09-07T08:56:21.839Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 3324,
+              "engagementCount": 451,
+              "rank": 16,
+              "extra": {
+                "starsToday": 451
+              }
+            }
+          }
+        },
+        {
+          "title": "The-Swarm-Corporation/AutoHedge",
+          "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+          "summary": "AutoHedge ist ein Framework, das Schwarmintelligenz und KI-Agenten nutzt, um Marktanalysen, Risikomanagement und Handelsgeschäfte zu automatisieren. Es ermöglicht Nutzern, innerhalb von Minuten ihre eigenen autonomen Investmentfonds (autonomous hedge funds) zu erstellen.",
+          "meta": "Python · ★ 4.929 · +142 heute",
+          "snapshot": {
+            "sourceId": "The-Swarm-Corporation/AutoHedge",
+            "capturedAt": "2026-09-07T08:56:21.839Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 4929,
+              "engagementCount": 142,
+              "rank": 17,
+              "extra": {
+                "starsToday": 142
+              }
+            }
+          }
+        },
+        {
+          "title": "Stremio/stremio-web",
+          "url": "https://github.com/Stremio/stremio-web",
+          "summary": "Stremio ist eine Media-Player-Anwendung, die verschiedene Inhaltsanbieter in einer einzigen Benutzeroberfläche vereint. Diese webbasierte Version ermöglicht es Nutzern, Serien und Filme direkt über den Browser zu schauen, ohne eine Installation vornehmen zu müssen.",
+          "meta": "JavaScript · ★ 13.627 · +122 heute",
+          "snapshot": {
+            "sourceId": "Stremio/stremio-web",
+            "capturedAt": "2026-09-07T08:56:21.839Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 13627,
+              "engagementCount": 122,
+              "rank": 18,
+              "extra": {
+                "starsToday": 122
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Nitter and XCancel resume service after legal advice",
+          "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+          "summary": "Nitter und XCancel, die das Betrachten der X-Plattform ohne deren Benutzeroberfläche ermöglichen, haben nach rechtlichen Beratungsverfahren ihren Dienst wieder aufgenommen. Diese Tools erlauben es Nutzern, auf Inhalte der Social-Media-Plattform X (ehemals Twitter) zuzugreifen, ohne sich anmelden zu müssen.",
+          "meta": "720 Punkte · 313 Kommentare",
+          "snapshot": {
+            "sourceId": "49588988",
+            "capturedAt": "2026-09-07T08:56:20.814Z",
+            "metadata": {
+              "popularity": 720,
+              "engagementCount": 313,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49588988",
+                  "popularity": 720,
+                  "engagementCount": 313
+                },
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/jsxzwl/following_legal_advice_nitter_project",
+                  "popularity": 65,
+                  "engagementCount": 13
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "zImPatrick",
+                "createdAt": "2026-09-06T17:49:47Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49588988"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49588988",
+              "popularity": 720,
+              "engagementCount": 313
+            },
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/jsxzwl/following_legal_advice_nitter_project",
+              "popularity": 65,
+              "engagementCount": 13
+            }
+          ]
+        },
+        {
+          "title": "Asahi Linux on M3",
+          "url": "https://asahilinux.org/2026/09/m2-episode-1/",
+          "summary": "Die Asahi-Linux-Unterstützung für Apples M3-Geräte ist nun offiziell verfügbar. Diese Entwicklung stellt einen entscheidenden Schritt dar, um das quelloffene Betriebssystem Linux auf Hardware mit Apple-Silicon-Architektur ausführen zu können.",
+          "meta": "456 Punkte · 278 Kommentare",
+          "snapshot": {
+            "sourceId": "49586698",
+            "capturedAt": "2026-09-07T08:56:20.814Z",
+            "metadata": {
+              "popularity": 456,
+              "engagementCount": 278,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49586698",
+                  "popularity": 456,
+                  "engagementCount": 278
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "mdp2021",
+                "createdAt": "2026-09-06T14:08:59Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49586698"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49586698",
+              "popularity": 456,
+              "engagementCount": 278
+            }
+          ]
+        },
+        {
+          "title": "An Alien Mind",
+          "url": "https://openai.com/index/an-alien-mind/",
+          "summary": "OpenAI hat eine Studie veröffentlicht, die untersucht, dass große Sprachmodelle (Large Language Models) eine andere Art der Logik anwenden als der menschliche Verstand. Diese Arbeit analysiert die kognitiven Unterschiede bei der Problemlösung von KI-Systemen und deren Funktionsweise, die einer fremden Denkstruktur ähnelt.",
+          "meta": "404 Punkte · 353 Kommentare",
+          "snapshot": {
+            "sourceId": "49588080",
+            "capturedAt": "2026-09-07T08:56:20.814Z",
+            "metadata": {
+              "popularity": 404,
+              "engagementCount": 353,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49588080",
+                  "popularity": 404,
+                  "engagementCount": 353
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "tosh",
+                "createdAt": "2026-09-06T16:27:05Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49588080"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49588080",
+              "popularity": 404,
+              "engagementCount": 353
+            }
+          ]
+        },
+        {
+          "title": "Keep Our Servers Running",
+          "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+          "summary": "Das Internet Archive hat eine Kampagne gestartet, um Spenden, die im September getätigt werden, zu verdreifachen, um die Kontinuität digitaler Ressourcen zu gewährleisten. Diese gemeinnützige digitale Bibliothek ist auf regelmäßige Unterstützung durch ihre Nutzer angewiesen, um die Serverkosten zu decken.",
+          "meta": "390 Punkte · 90 Kommentare",
+          "snapshot": {
+            "sourceId": "49593563",
+            "capturedAt": "2026-09-07T08:56:20.814Z",
+            "metadata": {
+              "popularity": 390,
+              "engagementCount": 90,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49593563",
+                  "popularity": 390,
+                  "engagementCount": 90
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "sonicrocketman",
+                "createdAt": "2026-09-07T03:29:51Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49593563"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49593563",
+              "popularity": 390,
+              "engagementCount": 90
+            }
+          ]
+        },
+        {
+          "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+          "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+          "summary": "Das datenschutzorientierte mobile Betriebssystem GrapheneOS hat die Verwaltung von Standardanwendungen und die Funktionen der sicheren Zwischenablage (secure clipboard) aktualisiert. Diese Verbesserungen, die es Nutzern ermöglichen, die Datenfreigabe strenger zu kontrollieren, zielen darauf ab, Datenlecks im gesamten System zu verhindern.",
+          "meta": "281 Punkte · 201 Kommentare",
+          "snapshot": {
+            "sourceId": "49590512",
+            "capturedAt": "2026-09-07T08:56:20.814Z",
+            "metadata": {
+              "popularity": 281,
+              "engagementCount": 201,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49590512",
+                  "popularity": 281,
+                  "engagementCount": 201
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "Cider9986",
+                "createdAt": "2026-09-06T20:24:00Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49590512"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49590512",
+              "popularity": 281,
+              "engagementCount": 201
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+          "summary": "Das von DeepSeek veröffentlichte DeepSeek-V4-Flash-Vision-Exp ist ein Bild-zu-Text-Modell (image-to-text), das visuelle Daten verarbeitet und textbasierte Ausgaben generiert. Das Modell bietet eine optimierte Struktur zur Analyse komplexer visueller Inhalte und deren Umwandlung in aussagekräftige Texte.",
+          "meta": "♥ 769 · 209.191 Downloads",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+            "capturedAt": "2026-09-07T08:56:20.742Z",
+            "metadata": {
+              "popularity": 769,
+              "engagementCount": 209191,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 674,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v4",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "XHToken/Spark-X2.5-4B",
+          "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+          "summary": "Das auf HuggingFace geteilte Spark-X2.5-4B ist ein kompaktes KI-Modell, das für die Textgenerierung (text-generation) entwickelt wurde. Dank seiner geringen Parameteranzahl zielt es darauf ab, Hardware-Ressourcen effizient zu nutzen und schnelle Antworten zu liefern.",
+          "meta": "♥ 644 · 5.477 Downloads",
+          "snapshot": {
+            "sourceId": "XHToken/Spark-X2.5-4B",
+            "capturedAt": "2026-09-07T08:56:20.742Z",
+            "metadata": {
+              "popularity": 644,
+              "engagementCount": 5477,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 538,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "spark2_5",
+                  "text-generation",
+                  "llm",
+                  "sparkx2_5",
+                  "conversational",
+                  "custom_code",
+                  "base_model:XHToken/Spark-X2.5-4B-Base",
+                  "base_model:finetune:XHToken/Spark-X2.5-4B-Base",
+                  "license:apache-2.0",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Das von Alibaba entwickelte Qwen2.5-27B ist ein multimodales großes Sprachmodell (large language model), das Text- und Bilddaten verarbeiten kann. Mit seiner Open-Weights-Struktur bietet es eine leistungsstarke Option für Aufgaben, die komplexes logisches Denken und die Analyse visueller Inhalte erfordern.",
+          "meta": "♥ 14.170 · 6.190.807 Downloads",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-27B",
+            "capturedAt": "2026-09-07T08:56:20.742Z",
+            "metadata": {
+              "popularity": 14170,
+              "engagementCount": 6190807,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 527,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "deploy:azure",
+                  "deploy:sagemaker",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "google/timesfm-3.0-pytorch",
+          "url": "https://huggingface.co/google/timesfm-3.0-pytorch",
+          "summary": "TimesFM, entwickelt von Google, ist ein Basismodell für Zeitreihenprognosen (time-series forecasting). Es zielt darauf ab, den Prozess der Vorhersage zukünftiger Werte durch das Erlernen komplexer Muster in Datensätzen zu standardisieren.",
+          "meta": "♥ 533 · 144.455 Downloads",
+          "snapshot": {
+            "sourceId": "google/timesfm-3.0-pytorch",
+            "capturedAt": "2026-09-07T08:56:20.742Z",
+            "metadata": {
+              "popularity": 533,
+              "engagementCount": 144455,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 470,
+                "pipelineTag": "time-series-forecasting",
+                "tags": [
+                  "safetensors",
+                  "time-series",
+                  "forecasting",
+                  "pretrained",
+                  "pytorch",
+                  "google",
+                  "time-series-forecasting",
+                  "arxiv:2310.10688",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen3.8-Flash-Next",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+          "summary": "Qwen3.8-Flash-Next, entwickelt von Alibaba, ist ein multimodales KI-Modell (multimodal model), das visuelle und textuelle Daten verarbeiten kann. Dieses Modell, das textbasierte Antworten mit geringer Latenz generiert, liefert schnelle Ergebnisse bei der Analyse und Umwandlung visueller Inhalte in Text.",
+          "meta": "♥ 4.956 · 432.966 Downloads",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-Flash-Next",
+            "capturedAt": "2026-09-07T08:56:20.742Z",
+            "metadata": {
+              "popularity": 4956,
+              "engagementCount": 432966,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 390,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen4_exp",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:other",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "The Attention Triangle in Audio-Video Models",
+          "url": "https://huggingface.co/papers/2609.03586",
+          "summary": "Audio-Video-Diffusionsmodelle (audio-video diffusion models) nutzen den Mechanismus der kreuzmodalen Aufmerksamkeit (cross-modal attention), um Text-, Audio- und visuelle Inhalte abzugleichen. Diese Studie analysiert das Aufmerksamkeitsdreieck zwischen Text-, Audio- und Videoströmen, um zu untersuchen, wie semantische Informationen während des Generierungsprozesses zwischen den Modalitäten übertragen werden und wie systemische Datenlecks entstehen.",
+          "meta": "1 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.03586",
+            "capturedAt": "2026-09-07T08:56:20.748Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.03586",
+                "publishedAt": "2026-09-03T00:00:00.000Z",
+                "githubRepo": "https://github.com/SagiPolaczek/The-Attention-Triangle"
+              }
+            }
+          }
+        },
+        {
+          "title": "To See a World in a Living Context: Unified Indoor-Outdoor Urban World Generation",
+          "url": "https://huggingface.co/papers/2608.05879",
+          "summary": "HoloWorld bietet ein Produktions-Framework, das textbasierte 3D-Modellierung mit Innen- und Außenräumen in einem einzigen städtischen Kontext vereint. Es zielt darauf ab, auf Basis von Benutzerbeschreibungen maßstabsübergreifende, konsistente und kontinuierlich aktualisierte städtische Umgebungen zu erstellen.",
+          "meta": "0 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2608.05879",
+            "capturedAt": "2026-09-07T08:56:20.748Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.05879",
+                "publishedAt": "2026-08-29T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "τ^τ-Bench: An Environment for End-To-End, Realistic Agent Construction",
+          "url": "https://huggingface.co/papers/2609.04611",
+          "summary": "τ^τ-Bench ist eine Evaluierungsplattform, die die Fähigkeiten großer Sprachmodelle (LLM) zur Erstellung von Software-Agenten unter realen Bedingungen misst. Dieses System testet die Fähigkeit von Entwickler-Agenten, End-to-End-Software zu erstellen, die komplexe Geschäftsanforderungen erfüllt, anhand standardisierter Szenarien.",
+          "meta": "1 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.04611",
+            "capturedAt": "2026-09-07T08:56:20.748Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.04611",
+                "publishedAt": "2026-09-04T00:00:00.000Z",
+                "githubRepo": "https://github.com/sierra-research/hyper-tau-bench",
+                "githubStars": 1
+              }
+            }
+          }
+        },
+        {
+          "title": "Enoki: Efficient Multi-Level Hallucination Detection",
+          "url": "https://huggingface.co/papers/2609.00581",
+          "summary": "Enoki ist ein mehrstufiges Framework zur Wahrheitsprüfung, das entwickelt wurde, um Fehlinformationen zu erkennen, die von großen Sprachmodellen (large language models) generiert werden. Durch die Analyse sowohl auf Ebene der Behauptung als auch auf Ebene der Textspanne macht es komplexe Verifizierungsprozesse effizienter und konsistenter.",
+          "meta": "12 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.00581",
+            "capturedAt": "2026-09-07T08:56:20.748Z",
+            "metadata": {
+              "popularity": 12,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.00581",
+                "publishedAt": "2026-09-01T02:21:28.000Z",
+                "githubRepo": "https://github.com/s-nlp/Enoki",
+                "githubStars": 2
+              }
+            }
+          }
+        },
+        {
+          "title": "ShallowStream: Index Shallow then Answer Deep for Streaming Video Understanding",
+          "url": "https://huggingface.co/papers/2609.02780",
+          "summary": "ShallowStream ist eine Methode zur Reduzierung der Rechenlast multimodaler großer Sprachmodelle (multimodal large language models), die kontinuierliche Videoströme analysieren. Indem visuelle Daten zunächst oberflächlich indiziert und anschließend nur die benötigten Teile tiefgehend verarbeitet werden, wird die Echtzeit-Videoüberwachung effizienter gestaltet.",
+          "meta": "0 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.02780",
+            "capturedAt": "2026-09-07T08:56:20.748Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.02780",
+                "publishedAt": "2026-09-02T00:00:00.000Z",
+                "githubRepo": "https://github.com/CURRENTF/ShallowStream",
+                "githubStars": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "It took a year to ship WebAssembly in Anubis",
+          "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+          "summary": "Die Programmiersprache Anubis hat nach einjähriger Entwicklungszeit die Unterstützung für WebAssembly (WebAssembly) eingeführt. Diese Integration erhöht die Portabilität der Sprache auf verschiedenen Plattformen und bietet Laufzeitunterstützung (runtime) für browserbasierte Anwendungen.",
+          "meta": "61 Punkte · 9 Kommentare",
+          "snapshot": {
+            "sourceId": "aokzbg",
+            "capturedAt": "2026-09-07T08:56:20.917Z",
+            "metadata": {
+              "popularity": 61,
+              "engagementCount": 9,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/aokzbg/it_took_year_ship_webassembly_anubis",
+                  "popularity": 61,
+                  "engagementCount": 9
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "rust",
+                  "wasm"
+                ],
+                "createdAt": "2026-09-06T15:41:38.430-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/aokzbg/it_took_year_ship_webassembly_anubis",
+              "popularity": 61,
+              "engagementCount": 9
+            }
+          ]
+        },
+        {
+          "title": "Python Iceberg",
+          "url": "https://aleyan.com/projects/python-iceberg/",
+          "summary": "Python Iceberg ist eine Wissensquelle, in der wenig bekannte und komplexe Funktionen der Sprache Python eingehend untersucht werden. Sie bietet technische Details für Entwickler, die die grundlegende Funktionsweise und die verborgenen Mechanismen (internals) der Sprache verstehen möchten.",
+          "meta": "18 Punkte · 8 Kommentare",
+          "snapshot": {
+            "sourceId": "xv6z4r",
+            "capturedAt": "2026-09-07T08:56:20.917Z",
+            "metadata": {
+              "popularity": 18,
+              "engagementCount": 8,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/xv6z4r/python_iceberg",
+                  "popularity": 18,
+                  "engagementCount": 8
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "python",
+                  "vibecoding",
+                  "visualization"
+                ],
+                "createdAt": "2026-09-06T13:46:54.409-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/xv6z4r/python_iceberg",
+              "popularity": 18,
+              "engagementCount": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skills",
+      "explanation": "Kleine Software-Erweiterungen, die es intelligenten Geräten ermöglichen, bestimmte Befehle zu verstehen und auszuführen."
+    },
+    {
+      "term": "Mermaid",
+      "explanation": "Ein Tool, mit dem Sie mithilfe textbasierter Befehle schnell Schemata, Grafiken und Flussdiagramme erstellen können."
+    },
+    {
+      "term": "continuous learning",
+      "explanation": "Der Prozess, bei dem ein System seine Informationen durch kontinuierliche Aktualisierung bei Eingang neuer Daten auf dem neuesten Stand hält."
+    },
+    {
+      "term": "coding agent",
+      "explanation": "Eine autonome KI-Software, die an Ihrer Stelle Softwarecode schreiben, Fehler finden und Projekte weiterentwickeln kann."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Eine Technologie, die auf Basis der gelernten Informationen neue Inhalte wie Texte, Bilder oder Audio von Grund auf erstellen kann."
+    },
+    {
+      "term": "compiler",
+      "explanation": "Software, die von Menschen geschriebenen Code in Maschinensprache übersetzt, die der Computer direkt verstehen und ausführen kann."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Eine Methode, die es der KI ermöglicht, bei der Beantwortung von Fragen auf Ihre aktuellen und privaten Dokumente anstelle ihres eigenen Gedächtnisses zurückzugreifen, um präzisere Informationen zu liefern."
+    },
+    {
+      "term": "inference server",
+      "explanation": "Ein leistungsstarkes Computersystem, das trainierte KI-Modelle ausführt und sofortige Antworten auf eingehende Fragen generiert."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Intelligente Softwareeinheiten, die eigenständig Entscheidungen treffen, Werkzeuge zur Zielerreichung nutzen und Aufgaben erledigen können."
+    },
+    {
+      "term": "CRO",
+      "explanation": "Verbesserungen, die vorgenommen werden, damit ein größerer Teil der Website-Besucher einen Kauf tätigt oder sich registriert."
+    },
+    {
+      "term": "copywriting",
+      "explanation": "Überzeugende Texte, die geschrieben wurden, um Menschen dazu zu bewegen, ein Produkt zu kaufen oder eine bestimmte Handlung auszuführen."
+    },
+    {
+      "term": "SEO",
+      "explanation": "Anpassungs- und Optimierungsarbeiten, die durchgeführt werden, damit Websites in Suchmaschinen weiter oben erscheinen."
+    },
+    {
+      "term": "local-first",
+      "explanation": "Ein Softwareansatz, der darauf basiert, dass Daten direkt auf Ihrem Gerät gespeichert werden, ohne dass eine Internetverbindung erforderlich ist, und der auch offline funktioniert."
+    },
+    {
+      "term": "voice-to-text",
+      "explanation": "Eine Technologie, die das Gesagte in Echtzeit anhört und in geschriebenen Text umwandelt."
+    },
+    {
+      "term": "LLM",
+      "explanation": "KI-Modelle, die mit sehr großen Datenmengen trainiert wurden, menschliche Sprache verstehen und Texte generieren können."
+    },
+    {
+      "term": "swarm intelligence",
+      "explanation": "Eine kollektive Arbeitsmethode, bei der viele kleine und einfache Einheiten zusammenkommen, um komplexe Probleme gemeinsam zu lösen."
+    }
+  ]
+}
