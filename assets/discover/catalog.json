@@ -18124,14 +18124,14 @@
     "slug": "docuseal",
     "title": "Docuseal",
     "tagline": "DocuSeal, dijital belge oluşturma, doldurma ve imzalama süreçleri için açık kaynaklı bir alternatif sunuyor.",
-    "meta": "★ 18.411 · Ruby",
+    "meta": "★ 18.448 · Ruby",
     "image": "/assets/discover/og/docuseal.webp",
     "source": "GitHub",
     "date": "2026-07-18",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 18411,
+    "stars": 18448,
     "lite": false,
     "headline": "Dijital belgeleri kolayca imzalayın",
     "last_review": "2026-09-07",
@@ -18177,6 +18177,13 @@
         "onceki_yildiz": 18389,
         "surum": "3.2.3",
         "surum_tarihi": "2026-08-31"
+      },
+      {
+        "tarih": "2026-09-07",
+        "yildiz": 18448,
+        "onceki_yildiz": 18411,
+        "surum": "3.2.4",
+        "surum_tarihi": "2026-09-07"
       }
     ],
     "tagline_en": "DocuSeal offers an open source alternative for creating, filling and signing digital documents.",
@@ -30073,7 +30080,8 @@
     "tagline_fr": "Le projet LLVM est une infrastructure qui propose des technologies de compilateur et de chaîne d'outils modulaires et réutilisables.",
     "tagline_pt": "O Projeto LLVM é uma infraestrutura que oferece tecnologias de compilador e cadeia de ferramentas modulares e reutilizáveis.",
     "tagline_es": "El Proyecto LLVM es una infraestructura que ofrece tecnologías de compilador y cadena de herramientas modulares y reutilizables.",
-    "tagline_de": "Das LLVM-Projekt ist eine Infrastruktur, die modulare und wiederverwendbare Compiler- und Toolchain-Technologien bietet."
+    "tagline_de": "Das LLVM-Projekt ist eine Infrastruktur, die modulare und wiederverwendbare Compiler- und Toolchain-Technologien bietet.",
+    "last_seen": "2026-09-07"
   },
   {
     "slug": "open-science",
@@ -30105,7 +30113,8 @@
     "tagline_fr": "Développé par AIPOCH, Open Science est une plateforme pour la recherche scientifique, axée sur le local-first et indépendante du modèle...",
     "tagline_pt": "O Open Science, desenvolvido pela AIPOCH, é uma plataforma local-first e independente de modelo para pesquisas científicas...",
     "tagline_es": "Open Science, desarrollado por AIPOCH, es una plataforma de investigación científica basada en un enfoque local (local-first) e independiente del modelo...",
-    "tagline_de": "Open Science, entwickelt von AIPOCH, ist eine Local-First- und modellunabhängige Plattform für wissenschaftliche Forschung..."
+    "tagline_de": "Open Science, entwickelt von AIPOCH, ist eine Local-First- und modellunabhängige Plattform für wissenschaftliche Forschung...",
+    "last_seen": "2026-09-07"
   },
   {
     "slug": "openwhispr",
@@ -30137,7 +30146,8 @@
     "tagline_fr": "OpenWhispr est un outil de transcription vocale (voice-to-text) qui combine des modèles locaux et des options basées sur le cloud...",
     "tagline_pt": "O OpenWhispr é uma ferramenta que converte arquivos de áudio em texto (voice-to-text) e combina modelos locais com opções baseadas em nuvem...",
     "tagline_es": "OpenWhispr es una herramienta que convierte archivos de audio a texto (voice-to-text) y combina modelos locales con opciones basadas en la nube...",
-    "tagline_de": "OpenWhispr ist ein Tool zur Umwandlung von Audiodateien in Text (Voice-to-Text), das lokale Modelle mit cloudbasierten Optionen kombiniert..."
+    "tagline_de": "OpenWhispr ist ein Tool zur Umwandlung von Audiodateien in Text (Voice-to-Text), das lokale Modelle mit cloudbasierten Optionen kombiniert...",
+    "last_seen": "2026-09-07"
   },
   {
     "slug": "autohedge",
@@ -30160,7 +30170,8 @@
     "tagline_fr": "AutoHedge utilise l'intelligence en essaim (swarm intelligence) et... pour automatiser l'analyse de marché, la gestion des risques et les opérations de trading.",
     "tagline_pt": "O AutoHedge utiliza inteligência de enxame (swarm intelligence) e... para automatizar a análise de mercado, a gestão de risco e as operações de negociação.",
     "tagline_es": "AutoHedge utiliza inteligencia de enjambre (swarm intelligence) y... para automatizar el análisis de mercado, la gestión de riesgos y las operaciones de compraventa.",
-    "tagline_de": "AutoHedge nutzt Schwarmintelligenz zur Automatisierung von Marktanalysen, Risikomanagement und Handelsgeschäften sowie..."
+    "tagline_de": "AutoHedge nutzt Schwarmintelligenz zur Automatisierung von Marktanalysen, Risikomanagement und Handelsgeschäften sowie...",
+    "last_seen": "2026-09-07"
   },
   {
     "slug": "stremio-web",
@@ -30191,6 +30202,7 @@
     "tagline_fr": "Stremio est une application de lecteur multimédia qui regroupe différents fournisseurs de contenu dans une interface unique.",
     "tagline_pt": "Stremio é um aplicativo de media player que combina diferentes provedores de conteúdo em uma única interface.",
     "tagline_es": "Stremio es una aplicación de reproductor multimedia que combina diferentes proveedores de contenido en una sola interfaz.",
-    "tagline_de": "Stremio ist eine Media-Player-Anwendung, die verschiedene Inhaltsanbieter in einer einzigen Benutzeroberfläche vereint."
+    "tagline_de": "Stremio ist eine Media-Player-Anwendung, die verschiedene Inhaltsanbieter in einer einzigen Benutzeroberfläche vereint.",
+    "last_seen": "2026-09-07"
   }
 ]
