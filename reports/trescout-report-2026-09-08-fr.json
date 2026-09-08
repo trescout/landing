@@ -1,0 +1,947 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-08",
+  "capturedAt": "2026-09-08T08:40:50.458Z",
+  "editorial": "Aujourd'hui, l'actualité technologique est marquée par l'investissement massif reçu par Mistral et les travaux d'optimisation des performances sur les modèles de langage open source (LLM). Le nouvel outil de conversion de données de Microsoft et les analyses sur les vulnérabilités de sécurité des téléviseurs intelligents rappellent l'équilibre critique entre le matériel et le logiciel.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "summary": "Hyperframes est une bibliothèque TypeScript qui convertit directement le code HTML en vidéo pour les agents d'intelligence artificielle. Développée par l'outil de création de contenu visuel Heygen, cette structure permet aux agents de présenter des interfaces basées sur un navigateur sous forme de sortie vidéo.",
+          "meta": "TypeScript · ★ 46 991 · +474 aujourd'hui",
+          "snapshot": {
+            "sourceId": "heygen-com/hyperframes",
+            "capturedAt": "2026-09-08T08:40:52.503Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 46991,
+              "engagementCount": 474,
+              "rank": 1,
+              "extra": {
+                "starsToday": 474
+              }
+            }
+          }
+        },
+        {
+          "title": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "summary": "MarkItDown, développé par Microsoft, est un outil Python qui convertit divers formats de fichiers et documents bureautiques au format Markdown. Cet outil facilite la transformation de documents complexes en un format textuel que les modèles d'intelligence artificielle peuvent traiter.",
+          "meta": "Python · ★ 181 025 · +886 aujourd'hui",
+          "snapshot": {
+            "sourceId": "microsoft/markitdown",
+            "capturedAt": "2026-09-08T08:40:52.503Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 181025,
+              "engagementCount": 886,
+              "rank": 2,
+              "extra": {
+                "starsToday": 886
+              }
+            }
+          }
+        },
+        {
+          "title": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "summary": "Context-mode est une bibliothèque TypeScript qui assure l'optimisation de la fenêtre de contexte pour les agents de codage par intelligence artificielle. En isolant les sorties des outils, elle réduit la taille des données de 98 %, préserve la mémoire de session et effectue des redirections vers 17 plateformes différentes via le protocole de contexte de modèle (Model Context Protocol).",
+          "meta": "TypeScript · ★ 21 109 · +96 aujourd'hui",
+          "snapshot": {
+            "sourceId": "mksglu/context-mode",
+            "capturedAt": "2026-09-08T08:40:52.503Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 21109,
+              "engagementCount": 96,
+              "rank": 3,
+              "extra": {
+                "starsToday": 96
+              }
+            }
+          }
+        },
+        {
+          "title": "jo-inc/camofox-browser",
+          "url": "https://github.com/jo-inc/camofox-browser",
+          "summary": "Camofox est un navigateur furtif (stealth headless browser) qui permet aux agents d'intelligence artificielle de contourner les systèmes de détection de bots et les blocages de web scraping. Il fonctionne en parfaite compatibilité avec les outils d'automatisation de navigateur Puppeteer et Playwright, offrant une solution alternative à ces bibliothèques.",
+          "meta": "JavaScript · ★ 10 058 · +135 aujourd'hui",
+          "snapshot": {
+            "sourceId": "jo-inc/camofox-browser",
+            "capturedAt": "2026-09-08T08:40:52.503Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 10058,
+              "engagementCount": 135,
+              "rank": 4,
+              "extra": {
+                "starsToday": 135
+              }
+            }
+          }
+        },
+        {
+          "title": "MoonTechLab/LunaTV",
+          "url": "https://github.com/MoonTechLab/LunaTV",
+          "summary": "LunaTV est un projet développé en TypeScript qui propose une interface de visualisation multimédia open source. Ce logiciel, fermé à l'usage commercial, permet aux utilisateurs de regarder leurs propres contenus multimédias dans une structure organisée.",
+          "meta": "TypeScript · ★ 10 015 · +197 aujourd'hui",
+          "snapshot": {
+            "sourceId": "MoonTechLab/LunaTV",
+            "capturedAt": "2026-09-08T08:40:52.503Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 10015,
+              "engagementCount": 197,
+              "rank": 5,
+              "extra": {
+                "starsToday": 197
+              }
+            }
+          }
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC est un système de performance qui optimise les couches de compétences, de mémoire et de sécurité pour les agents d'intelligence artificielle. Il vise à rendre les flux de travail des agents plus efficaces sur des plateformes telles que Claude Code et l'outil d'édition de code Cursor.",
+          "meta": "JavaScript · ★ 253 374 · +1 897 aujourd'hui",
+          "snapshot": {
+            "sourceId": "affaan-m/ECC",
+            "capturedAt": "2026-09-08T08:40:52.503Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 253374,
+              "engagementCount": 1897,
+              "rank": 6,
+              "extra": {
+                "starsToday": 1897
+              }
+            }
+          }
+        },
+        {
+          "title": "coreyhaines31/marketingskills",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "summary": "Marketingskills est une bibliothèque qui permet aux agents d'intelligence artificielle et aux outils de codage comme Claude Code de développer des stratégies marketing. Elle propose des flux de travail spécialisés dans des domaines tels que l'optimisation du taux de conversion (CRO), l'optimisation pour les moteurs de recherche (SEO) et le growth engineering.",
+          "meta": "JavaScript · ★ 48 394 · +580 aujourd'hui",
+          "snapshot": {
+            "sourceId": "coreyhaines31/marketingskills",
+            "capturedAt": "2026-09-08T08:40:52.503Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 48394,
+              "engagementCount": 580,
+              "rank": 7,
+              "extra": {
+                "starsToday": 580
+              }
+            }
+          }
+        },
+        {
+          "title": "The-Swarm-Corporation/AutoHedge",
+          "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+          "summary": "AutoHedge est une plateforme de création de fonds d'investissement autonomes qui automatise l'analyse de marché, la gestion des risques et les processus d'exécution des transactions. Elle utilise l'intelligence en essaim (swarm intelligence) et des agents d'intelligence artificielle pour permettre la mise en œuvre de stratégies financières en quelques minutes.",
+          "meta": "Python · ★ 5 419 · +517 aujourd'hui",
+          "snapshot": {
+            "sourceId": "The-Swarm-Corporation/AutoHedge",
+            "capturedAt": "2026-09-08T08:40:52.503Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 5419,
+              "engagementCount": 517,
+              "rank": 8,
+              "extra": {
+                "starsToday": 517
+              }
+            }
+          }
+        },
+        {
+          "title": "BraveOPotato/FckSignups",
+          "url": "https://github.com/BraveOPotato/FckSignups",
+          "summary": "FckSignups est une liste regroupant des outils open source basés sur navigateur qui ne nécessitent pas de création de compte utilisateur. Cette compilation offre une ressource pratique pour les utilisateurs souhaitant accéder à divers services numériques sans partager leurs données personnelles.",
+          "meta": "TypeScript · ★ 4 006 · +501 aujourd'hui",
+          "snapshot": {
+            "sourceId": "BraveOPotato/FckSignups",
+            "capturedAt": "2026-09-08T08:40:52.503Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 4006,
+              "engagementCount": 501,
+              "rank": 9,
+              "extra": {
+                "starsToday": 501
+              }
+            }
+          }
+        },
+        {
+          "title": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "summary": "Deer-flow, développé par ByteDance, est un cadre de super-agent (SuperAgent) open source qui exécute des tâches complexes et de longue durée par le biais de la recherche, du codage et de la production de contenu. Le logiciel gère de manière autonome des flux de travail durant des minutes ou des heures en utilisant des modules tels que des environnements de bac à sable (sandbox) et des sous-agents.",
+          "meta": "Python · ★ 82 007 · +195 aujourd'hui",
+          "snapshot": {
+            "sourceId": "bytedance/deer-flow",
+            "capturedAt": "2026-09-08T08:40:52.503Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 82007,
+              "engagementCount": 195,
+              "rank": 10,
+              "extra": {
+                "starsToday": 195
+              }
+            }
+          }
+        },
+        {
+          "title": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "summary": "Skills, partagé par OpenAI, est une bibliothèque de capacités fonctionnelles définies pour le modèle de codage Codex. Elle offre un cadre permettant aux développeurs de doter les modèles d'intelligence artificielle de la compétence nécessaire pour accomplir des tâches spécifiques.",
+          "meta": "Python · ★ 26 231 · +351 aujourd'hui",
+          "snapshot": {
+            "sourceId": "openai/skills",
+            "capturedAt": "2026-09-08T08:40:52.503Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 26231,
+              "engagementCount": 351,
+              "rank": 11,
+              "extra": {
+                "starsToday": 351
+              }
+            }
+          }
+        },
+        {
+          "title": "lightpanda-io/browser",
+          "url": "https://github.com/lightpanda-io/browser",
+          "summary": "Lightpanda est un navigateur headless écrit en langage Zig, spécialement développé pour les processus d'intelligence artificielle et d'automatisation. Il vise à accélérer le web scraping et les opérations d'automatisation web en consommant moins de ressources que les navigateurs traditionnels.",
+          "meta": "Zig · ★ 35 068 · +58 aujourd'hui",
+          "snapshot": {
+            "sourceId": "lightpanda-io/browser",
+            "capturedAt": "2026-09-08T08:40:52.503Z",
+            "metadata": {
+              "language": "Zig",
+              "popularity": 35068,
+              "engagementCount": 58,
+              "rank": 12,
+              "extra": {
+                "starsToday": 58
+              }
+            }
+          }
+        },
+        {
+          "title": "pascalorg/editor",
+          "url": "https://github.com/pascalorg/editor",
+          "summary": "Développé avec TypeScript, Pascal est un outil de conception qui permet aux utilisateurs de créer et de partager des projets architecturaux en 3D via leur navigateur. Le logiciel vise à rendre les processus de modélisation architecturale complexes accessibles grâce à une interface basée sur le web.",
+          "meta": "TypeScript · ★ 22 542 · +168 aujourd'hui",
+          "snapshot": {
+            "sourceId": "pascalorg/editor",
+            "capturedAt": "2026-09-08T08:40:52.503Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 22542,
+              "engagementCount": 168,
+              "rank": 13,
+              "extra": {
+                "starsToday": 168
+              }
+            }
+          }
+        },
+        {
+          "title": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "summary": "Développé avec TypeScript, Ruflo est un méta-framework qui gère les flux de travail autonomes et coordonne des essaims d'IA multijoueurs (multi-player swarms). Il permet de créer des systèmes d'IA conversationnels complexes grâce à des fonctionnalités telles que la mémoire adaptative, l'auto-apprentissage et la génération augmentée par récupération (RAG).",
+          "meta": "TypeScript · ★ 71 540 · +394 aujourd'hui",
+          "snapshot": {
+            "sourceId": "ruvnet/ruflo",
+            "capturedAt": "2026-09-08T08:40:52.503Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 71540,
+              "engagementCount": 394,
+              "rank": 14,
+              "extra": {
+                "starsToday": 394
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "216M Spy TVs – The LG Smart TV Problem [video]",
+          "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+          "summary": "Il a été révélé que les téléviseurs intelligents LG enregistrent les habitudes de visionnage et les activités réseau des utilisateurs sans autorisation. Cette situation suscite des inquiétudes en matière de sécurité parmi les utilisateurs concernant la confidentialité des données et les processus de télémétrie exécutés en arrière-plan par les appareils.",
+          "meta": "739 votes · 898 commentaires",
+          "snapshot": {
+            "sourceId": "49592375",
+            "capturedAt": "2026-09-08T08:40:50.674Z",
+            "metadata": {
+              "popularity": 739,
+              "engagementCount": 898,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49592375",
+                  "popularity": 739,
+                  "engagementCount": 898
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "treve",
+                "createdAt": "2026-09-07T00:22:04Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49592375"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49592375",
+              "popularity": 739,
+              "engagementCount": 898
+            }
+          ]
+        },
+        {
+          "title": "Mistral raises €3B",
+          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+          "summary": "La startup française d'intelligence artificielle Mistral AI a levé 3 milliards d'euros pour soutenir ses modèles à poids ouverts (open-weight). Avec ce financement, l'entreprise vise à accroître sa capacité à développer des modèles d'IA de pointe (frontier AI) au sein de l'écosystème technologique européen.",
+          "meta": "379 votes · 235 commentaires",
+          "snapshot": {
+            "sourceId": "49605767",
+            "capturedAt": "2026-09-08T08:40:50.674Z",
+            "metadata": {
+              "popularity": 379,
+              "engagementCount": 235,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49605767",
+                  "popularity": 379,
+                  "engagementCount": 235
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "kuberwastaken",
+                "createdAt": "2026-09-08T05:06:23Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49605767"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49605767",
+              "popularity": 379,
+              "engagementCount": 235
+            }
+          ]
+        },
+        {
+          "title": "Jellyfin 12.0",
+          "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
+          "summary": "Le serveur multimédia open source Jellyfin propose, avec sa version 12.0, des améliorations complètes de l'interface utilisateur et des gains de performance. Ce logiciel, qui vous permet de gérer votre bibliothèque multimédia personnelle sur votre propre serveur, rend l'expérience de lecture multimédia plus stable grâce à cette nouvelle mise à jour.",
+          "meta": "331 votes · 134 commentaires",
+          "snapshot": {
+            "sourceId": "49604861",
+            "capturedAt": "2026-09-08T08:40:50.674Z",
+            "metadata": {
+              "popularity": 331,
+              "engagementCount": 134,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49604861",
+                  "popularity": 331,
+                  "engagementCount": 134
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "0xC0ncord",
+                "createdAt": "2026-09-08T01:56:35Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49604861"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49604861",
+              "popularity": 331,
+              "engagementCount": 134
+            }
+          ]
+        },
+        {
+          "title": "WeatherNext 3",
+          "url": "https://deepmind.google/science/weathernext/",
+          "summary": "Développé par Google DeepMind, WeatherNext est un modèle d'intelligence artificielle générative qui effectue des prévisions météorologiques avec une grande précision. Par rapport aux méthodes de prévision numérique traditionnelles, il traite les données atmosphériques pour offrir des prévisions météorologiques locales plus rapides et plus détaillées.",
+          "meta": "319 votes · 76 commentaires",
+          "snapshot": {
+            "sourceId": "49552299",
+            "capturedAt": "2026-09-08T08:40:50.674Z",
+            "metadata": {
+              "popularity": 319,
+              "engagementCount": 76,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49552299",
+                  "popularity": 319,
+                  "engagementCount": 76
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "matthieu_bl",
+                "createdAt": "2026-09-03T16:06:08Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49552299"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49552299",
+              "popularity": 319,
+              "engagementCount": 76
+            }
+          ]
+        },
+        {
+          "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+          "summary": "Un chercheur a révélé des vulnérabilités de sécurité en factorisant les clés de chiffrement RSA d'une autorité de certification datant des années 1990. Cette étude démontre par un exemple concret à quel point les anciennes normes de signature numérique sont vulnérables face à la puissance de calcul actuelle.",
+          "meta": "291 votes · 50 commentaires",
+          "snapshot": {
+            "sourceId": "49604637",
+            "capturedAt": "2026-09-08T08:40:50.674Z",
+            "metadata": {
+              "popularity": 291,
+              "engagementCount": 50,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49604637",
+                  "popularity": 291,
+                  "engagementCount": 50
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "ahlCVA",
+                "createdAt": "2026-09-08T01:16:59Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49604637"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49604637",
+              "popularity": 291,
+              "engagementCount": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "XHToken/Spark-X2.5-4B",
+          "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+          "summary": "Publié sur Hugging Face, Spark-X2.5-4B est un modèle d'intelligence artificielle axé sur la génération de texte. Il a été développé pour des tâches de traitement du langage rapides et efficaces avec un faible nombre de paramètres.",
+          "meta": "♥ 784 · 7 216 téléchargements",
+          "snapshot": {
+            "sourceId": "XHToken/Spark-X2.5-4B",
+            "capturedAt": "2026-09-08T08:40:50.546Z",
+            "metadata": {
+              "popularity": 784,
+              "engagementCount": 7216,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 649,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "spark2_5",
+                  "text-generation",
+                  "llm",
+                  "sparkx2_5",
+                  "conversational",
+                  "custom_code",
+                  "base_model:XHToken/Spark-X2.5-4B-Base",
+                  "base_model:finetune:XHToken/Spark-X2.5-4B-Base",
+                  "license:apache-2.0",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Développé par Alibaba, Qwen2.5-27B est un grand modèle de langage multimodal qui traite des entrées visuelles et textuelles pour produire des sorties textuelles. Le modèle se distingue par sa capacité à analyser des données visuelles complexes et à générer des textes cohérents à partir de celles-ci.",
+          "meta": "♥ 14 313 · 6 416 358 téléchargements",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-27B",
+            "capturedAt": "2026-09-08T08:40:50.546Z",
+            "metadata": {
+              "popularity": 14313,
+              "engagementCount": 6416358,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 526,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "deploy:azure",
+                  "deploy:sagemaker",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+          "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+          "summary": "Développé par ISTA-DASLab, Qwen3.8-27B-GSQ-RCO-GGUF est un modèle d'intelligence artificielle qui traite des données visuelles et textuelles pour produire des sorties textuelles. Le modèle est optimisé pour être utilisé dans des tâches multimodales en combinant des capacités de traitement du langage haute performance avec des compétences d'analyse visuelle.",
+          "meta": "♥ 596 · 403 292 téléchargements",
+          "snapshot": {
+            "sourceId": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+            "capturedAt": "2026-09-08T08:40:50.546Z",
+            "metadata": {
+              "popularity": 596,
+              "engagementCount": 403292,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 480,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "gguf",
+                  "gsq",
+                  "rco",
+                  "quantization",
+                  "mixed-precision",
+                  "ist-daslab",
+                  "multimodal",
+                  "vision",
+                  "image-text-to-text",
+                  "arxiv:2604.18556",
+                  "arxiv:2605.00649",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:quantized:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "imatrix",
+                  "conversational"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "google/timesfm-3.0-pytorch",
+          "url": "https://huggingface.co/google/timesfm-3.0-pytorch",
+          "summary": "Développé par Google, TimesFM est un modèle de base entraîné pour des tâches de prévision de séries temporelles (time-series forecasting). Il standardise le processus de prédiction des valeurs futures en analysant les modèles complexes présents dans les jeux de données.",
+          "meta": "♥ 596 · 271 713 téléchargements",
+          "snapshot": {
+            "sourceId": "google/timesfm-3.0-pytorch",
+            "capturedAt": "2026-09-08T08:40:50.546Z",
+            "metadata": {
+              "popularity": 596,
+              "engagementCount": 271713,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 447,
+                "pipelineTag": "time-series-forecasting",
+                "tags": [
+                  "safetensors",
+                  "time-series",
+                  "forecasting",
+                  "pretrained",
+                  "pytorch",
+                  "google",
+                  "time-series-forecasting",
+                  "arxiv:2310.10688",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "openbmb/MiniCPM5-2B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+          "summary": "MiniCPM5-2B, développé par OpenBMB, est un modèle de génération de texte qui fonctionne avec des exigences matérielles faibles. Il vise à offrir des capacités de traitement du langage haute performance, même sur des appareils disposant de ressources de calcul limitées.",
+          "meta": "♥ 478 · 13 téléchargements",
+          "snapshot": {
+            "sourceId": "openbmb/MiniCPM5-2B",
+            "capturedAt": "2026-09-08T08:40:50.546Z",
+            "metadata": {
+              "popularity": 478,
+              "engagementCount": 13,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 389,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "llama",
+                  "text-generation",
+                  "minicpm",
+                  "minicpm5",
+                  "long-context",
+                  "tool-calling",
+                  "on-device",
+                  "edge-ai",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "dataset:openbmb/Ultra-FineWeb",
+                  "dataset:openbmb/UltraX-Preview",
+                  "dataset:openbmb/Ultra-FineWeb-L3",
+                  "dataset:openbmb/UltraData-Math",
+                  "dataset:openbmb/UltraData-Code",
+                  "dataset:openbmb/UltraData-SFT-2605",
+                  "dataset:openbmb/UltraData-SFT-Agent-2609",
+                  "dataset:openbmb/UltraData-RL-2609",
+                  "arxiv:2506.07900",
+                  "arxiv:2602.09003",
+                  "license:apache-2.0",
+                  "text-generation-inference",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Unlocking Lossless Speedups in LLMs via Discrete Diffusion",
+          "url": "https://huggingface.co/papers/2609.04010",
+          "summary": "La méthode de diffusion discrète (discrete diffusion) élimine la nécessité d'un fonctionnement séquentiel dans le processus de prédiction du mot suivant des grands modèles de langage (LLM). Cette approche utilise des techniques de diffusion pour paralléliser la génération de texte et augmenter la vitesse des modèles sans perte de qualité.",
+          "meta": "18 j'aime · 5 commentaires",
+          "snapshot": {
+            "sourceId": "2609.04010",
+            "capturedAt": "2026-09-08T08:40:50.553Z",
+            "metadata": {
+              "popularity": 18,
+              "engagementCount": 5,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.04010",
+                "publishedAt": "2026-09-03T00:00:00.000Z",
+                "githubRepo": "https://github.com/ifm-ai/uno",
+                "githubStars": 44
+              }
+            }
+          }
+        },
+        {
+          "title": "One Symptom, Three Levers: A Critical Review of On-Policy Self-Distillation",
+          "url": "https://huggingface.co/papers/2608.25936",
+          "summary": "La méthode d'auto-distillation en politique (on-policy self-distillation) élimine le besoin de grands modèles enseignants lors du processus d'entraînement des modèles de langage avec leurs propres données générées. Cette approche, qui permet au modèle de s'entraîner avec des informations privilégiées telles que des solutions de référence ou des plans auxquels il n'aurait pas accès lors de la phase de test, vise à réduire les coûts d'entraînement.",
+          "meta": "7 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2608.25936",
+            "capturedAt": "2026-09-08T08:40:50.553Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.25936",
+                "publishedAt": "2026-08-26T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "EmbodiedSkills: A Unified Framework for Orchestrating, Training, and Deploying VLA Agents",
+          "url": "https://huggingface.co/papers/2609.01281",
+          "summary": "EmbodiedSkills propose un cadre unifié permettant aux modèles vision-langage-action (VLA) d'accomplir des tâches complexes dans le monde physique. Cette structure vise à réduire la marge d'erreur dans les objectifs à long terme en coordonnant les processus de perception, de planification et d'exécution des agents robotiques.",
+          "meta": "5 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.01281",
+            "capturedAt": "2026-09-08T08:40:50.553Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.01281",
+                "publishedAt": "2026-09-01T00:00:00.000Z",
+                "githubRepo": "https://github.com/DCDmllm/EmbodiedSkills",
+                "githubStars": 26
+              }
+            }
+          }
+        },
+        {
+          "title": "FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoning Experience",
+          "url": "https://huggingface.co/papers/2609.03241",
+          "summary": "FlowBalance est une méthode qui permet aux modèles de raisonnement de s'améliorer grâce aux réponses qu'ils génèrent eux-mêmes. Cette approche basée sur un vérificateur (verifier) normalise la distribution des réponses en empêchant le modèle de se concentrer sur des résultats erronés.",
+          "meta": "10 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.03241",
+            "capturedAt": "2026-09-08T08:40:50.553Z",
+            "metadata": {
+              "popularity": 10,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.03241",
+                "publishedAt": "2026-09-03T00:00:00.000Z",
+                "githubRepo": "https://github.com/alexhuang13/FlowBalance",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "What Else Needs Fixing? Exploring Cost-Effective Test-Time Compute for Revision Propagation in Artifacts Generated Through Conversation",
+          "url": "https://huggingface.co/papers/2609.03254",
+          "summary": "Les grands modèles de langage (LLM) éprouvent des difficultés à refléter les modifications locales demandées par l'utilisateur sur l'ensemble d'un document. Cette étude examine des méthodes rentables qui permettent une détection précise des dépendances et une propagation cohérente des révisions dans la création de contenu assistée par intelligence artificielle.",
+          "meta": "2 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.03254",
+            "capturedAt": "2026-09-08T08:40:50.553Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.03254",
+                "publishedAt": "2026-09-03T00:00:00.000Z",
+                "githubRepo": "https://github.com/ntt-dkiku/llm-revision-propagation",
+                "githubStars": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "I changed my license to EUPL",
+          "url": "https://bergie.iki.fi/blog/eupl/",
+          "summary": "Le développeur de logiciels Henri Bergius vise à renforcer la conformité juridique des logiciels open source en transférant ses projets sous la Licence Publique de l'Union Européenne (EUPL). Ce changement de licence assure la conformité du logiciel avec le droit de l'Union européenne tout en offrant une interopérabilité avec différentes licences open source.",
+          "meta": "29 votes · 6 commentaires",
+          "snapshot": {
+            "sourceId": "4ntizu",
+            "capturedAt": "2026-09-08T08:40:50.643Z",
+            "metadata": {
+              "popularity": 29,
+              "engagementCount": 6,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/4ntizu/i_changed_my_license_eupl",
+                  "popularity": 29,
+                  "engagementCount": 6
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "law"
+                ],
+                "createdAt": "2026-09-07T23:17:11.406-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/4ntizu/i_changed_my_license_eupl",
+              "popularity": 29,
+              "engagementCount": 6
+            }
+          ]
+        },
+        {
+          "title": "A faster way to convert a timestamp to Hour, Min, Sec",
+          "url": "https://www.benjoffe.com/fast-time-of-day",
+          "summary": "Une nouvelle méthode mathématique utilisée pour convertir les horodatages (timestamp) en unités d'heures, de minutes et de secondes réduit la charge du processeur grâce à une logique de calcul ne nécessitant pas d'opération de division. Cette approche vise à accélérer les processus de traitement des données temporelles, en particulier dans les systèmes haute performance.",
+          "meta": "101 votes · 10 commentaires",
+          "snapshot": {
+            "sourceId": "wolwwd",
+            "capturedAt": "2026-09-08T08:40:50.643Z",
+            "metadata": {
+              "popularity": 101,
+              "engagementCount": 10,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/wolwwd/faster_way_convert_timestamp_hour_min_sec",
+                  "popularity": 101,
+                  "engagementCount": 10
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "c++",
+                  "performance"
+                ],
+                "createdAt": "2026-09-07T05:27:56.386-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/wolwwd/faster_way_convert_timestamp_hour_min_sec",
+              "popularity": 101,
+              "engagementCount": 10
+            }
+          ]
+        },
+        {
+          "title": "The shortest IPv6 addresses",
+          "url": "https://ache.one/notes/vanity-ipv6",
+          "summary": "Les administrateurs réseau utilisent des méthodes de préfixe réseau personnalisées pour créer des adresses IPv6 courtes et personnalisées. Cette technique permet d'obtenir des adresses réseau mémorisables et esthétiquement courtes (vanity addresses).",
+          "meta": "41 votes · 16 commentaires",
+          "snapshot": {
+            "sourceId": "vdalin",
+            "capturedAt": "2026-09-08T08:40:50.643Z",
+            "metadata": {
+              "popularity": 41,
+              "engagementCount": 16,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/vdalin/shortest_ipv6_addresses",
+                  "popularity": 41,
+                  "engagementCount": 16
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "networking"
+                ],
+                "createdAt": "2026-09-07T05:53:12.960-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/vdalin/shortest_ipv6_addresses",
+              "popularity": 41,
+              "engagementCount": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Markdown",
+      "explanation": "Un langage de formatage simple qui vous permet de mettre vos textes en gras, en italique ou en titres en utilisant uniquement du texte brut."
+    },
+    {
+      "term": "context window optimization",
+      "explanation": "Une méthode technique qui permet à l'intelligence artificielle de fournir des réponses plus longues et plus cohérentes en utilisant efficacement la quantité d'informations qu'elle peut mémoriser simultanément."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Une méthode de communication standard qui permet aux modèles d'intelligence artificielle de se connecter facilement à différentes sources de données et outils pour récupérer des informations."
+    },
+    {
+      "term": "stealth headless browser",
+      "explanation": "Logiciel de navigation spécial capable de naviguer secrètement en arrière-plan sans être détecté comme un robot par les sites web."
+    },
+    {
+      "term": "CRO",
+      "explanation": "Efforts visant à augmenter le taux de conversion des visiteurs d'un site web, comme les achats ou l'inscription."
+    },
+    {
+      "term": "SEO",
+      "explanation": "Processus d'ajustement et d'optimisation effectués pour que les sites web apparaissent plus haut dans les résultats des moteurs de recherche."
+    },
+    {
+      "term": "swarm intelligence",
+      "explanation": "La résolution de problèmes complexes par de nombreuses petites unités travaillant en coopération, à l'instar des colonies de fourmis."
+    },
+    {
+      "term": "SuperAgent",
+      "explanation": "Logiciel d'intelligence artificielle avancé capable de prendre des décisions de manière autonome et de planifier et exécuter des tâches complexes."
+    },
+    {
+      "term": "sandbox",
+      "explanation": "Espace de travail isolé créé pour tester de nouveaux logiciels en toute sécurité sans endommager votre ordinateur."
+    },
+    {
+      "term": "skills",
+      "explanation": "Compétences spéciales ou définitions de tâches acquises par les modèles d'intelligence artificielle pour accomplir un travail spécifique."
+    },
+    {
+      "term": "headless browser",
+      "explanation": "Navigateur sans interface visuelle qui charge les pages web et collecte des données uniquement via du code en arrière-plan."
+    },
+    {
+      "term": "multi-player swarms",
+      "explanation": "Le travail simultané et collaboratif de plusieurs unités d'intelligence artificielle vers un objectif commun."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Le fait pour une intelligence artificielle de ne pas se limiter à ses propres connaissances et de générer des réponses plus précises en extrayant des informations de documents ou de bases de données actuels."
+    },
+    {
+      "term": "telemetry",
+      "explanation": "Données d'utilisation collectées automatiquement par le système pour comprendre comment un logiciel est utilisé et identifier l'origine des erreurs."
+    },
+    {
+      "term": "open-weight",
+      "explanation": "Modèles d'intelligence artificielle dont la structure interne et les paramètres sont partagés avec tous afin que les développeurs puissent les exécuter sur leurs propres systèmes."
+    },
+    {
+      "term": "frontier AI",
+      "explanation": "Des systèmes d'intelligence artificielle dotés des capacités les plus avancées, repoussant les limites de la technologie actuelle."
+    }
+  ]
+}

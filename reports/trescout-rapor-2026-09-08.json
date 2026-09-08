@@ -1,0 +1,956 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-08",
+  "capturedAt": "2026-09-08T08:40:50.458Z",
+  "editorial": "Bugün teknoloji gündeminde Mistral'in aldığı devasa yatırım ve açık kaynaklı dil modelleri (LLM) üzerindeki performans optimizasyon çalışmaları öne çıkıyor. Microsoft'un yeni veri dönüştürme aracı ve akıllı televizyonlardaki güvenlik açıkları üzerine yapılan analizler, donanım ile yazılım arasındaki kritik dengeyi hatırlatıyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "summary": "Hyperframes, yapay zekâ ajanları için HTML kodunu doğrudan videoya dönüştüren bir TypeScript kütüphanesi. Görsel içerik oluşturma aracı Heygen tarafından geliştirilen bu yapı, ajanların tarayıcı tabanlı arayüzleri video formatında çıktı olarak sunmasını sağlıyor.",
+          "meta": "TypeScript · ★ 46.991 · +474 bugün",
+          "snapshot": {
+            "sourceId": "heygen-com/hyperframes",
+            "capturedAt": "2026-09-08T08:40:52.503Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 46991,
+              "engagementCount": 474,
+              "rank": 1,
+              "extra": {
+                "starsToday": 474
+              }
+            }
+          }
+        },
+        {
+          "title": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "summary": "Microsoft tarafından geliştirilen MarkItDown, çeşitli dosya formatlarını ve ofis belgelerini işaretleme dili (Markdown) biçimine dönüştüren bir Python aracıdır. Bu araç, karmaşık yapıdaki dokümanları yapay zekâ modellerinin işleyebileceği metin tabanlı bir formata çevirmeyi kolaylaştırır.",
+          "meta": "Python · ★ 181.025 · +886 bugün",
+          "snapshot": {
+            "sourceId": "microsoft/markitdown",
+            "capturedAt": "2026-09-08T08:40:52.503Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 181025,
+              "engagementCount": 886,
+              "rank": 2,
+              "extra": {
+                "starsToday": 886
+              }
+            }
+          }
+        },
+        {
+          "title": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "summary": "Context-mode, yapay zekâ kodlama ajanları için bağlam penceresi optimizasyonu (context window optimization) sağlayan bir TypeScript kütüphanesi. Araç çıktılarını izole ederek veri boyutunu yüzde 98 oranında azaltıyor, oturum hafızasını koruyor ve Model Bağlantı Protokolü (Model Context Protocol) üzerinden 17 farklı platforma yönlendirme yapıyor.",
+          "meta": "TypeScript · ★ 21.109 · +96 bugün",
+          "snapshot": {
+            "sourceId": "mksglu/context-mode",
+            "capturedAt": "2026-09-08T08:40:52.503Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 21109,
+              "engagementCount": 96,
+              "rank": 3,
+              "extra": {
+                "starsToday": 96
+              }
+            }
+          }
+        },
+        {
+          "title": "jo-inc/camofox-browser",
+          "url": "https://github.com/jo-inc/camofox-browser",
+          "summary": "Camofox, yapay zekâ ajanlarının bot algılama sistemlerini ve veri kazıma engellerini aşmasını sağlayan gizli bir tarayıcıdır (stealth headless browser). Tarayıcı otomasyon araçları Puppeteer ve Playwright ile doğrudan uyumlu çalışarak bu kütüphanelere alternatif bir çözüm sunar.",
+          "meta": "JavaScript · ★ 10.058 · +135 bugün",
+          "snapshot": {
+            "sourceId": "jo-inc/camofox-browser",
+            "capturedAt": "2026-09-08T08:40:52.503Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 10058,
+              "engagementCount": 135,
+              "rank": 4,
+              "extra": {
+                "starsToday": 135
+              }
+            }
+          }
+        },
+        {
+          "title": "MoonTechLab/LunaTV",
+          "url": "https://github.com/MoonTechLab/LunaTV",
+          "summary": "LunaTV, TypeScript diliyle geliştirilen ve açık kaynaklı bir medya görüntüleme arayüzü sunan bir projedir. Ticari kullanıma kapalı olan bu yazılım, kullanıcıların kendi medya içeriklerini düzenli bir yapıda izlemelerine olanak tanır.",
+          "meta": "TypeScript · ★ 10.015 · +197 bugün",
+          "snapshot": {
+            "sourceId": "MoonTechLab/LunaTV",
+            "capturedAt": "2026-09-08T08:40:52.503Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 10015,
+              "engagementCount": 197,
+              "rank": 5,
+              "extra": {
+                "starsToday": 197
+              }
+            }
+          }
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC, yapay zekâ ajanları için yetenek, bellek ve güvenlik katmanlarını optimize eden bir performans sistemi. Claude Code ve kod düzenleme aracı Cursor gibi platformlarda ajanların iş akışlarını daha verimli hale getirmeyi amaçlıyor.",
+          "meta": "JavaScript · ★ 253.374 · +1.897 bugün",
+          "snapshot": {
+            "sourceId": "affaan-m/ECC",
+            "capturedAt": "2026-09-08T08:40:52.503Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 253374,
+              "engagementCount": 1897,
+              "rank": 6,
+              "extra": {
+                "starsToday": 1897
+              }
+            }
+          },
+          "streakDays": 9
+        },
+        {
+          "title": "coreyhaines31/marketingskills",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "summary": "Marketingskills, yapay zekâ ajanlarının ve Claude Code gibi kodlama araçlarının pazarlama stratejileri geliştirmesini sağlayan bir kütüphane. Dönüşüm oranı optimizasyonu (CRO), arama motoru optimizasyonu (SEO) ve büyüme mühendisliği gibi alanlarda uzmanlaşmış iş akışları sunuyor.",
+          "meta": "JavaScript · ★ 48.394 · +580 bugün",
+          "snapshot": {
+            "sourceId": "coreyhaines31/marketingskills",
+            "capturedAt": "2026-09-08T08:40:52.503Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 48394,
+              "engagementCount": 580,
+              "rank": 7,
+              "extra": {
+                "starsToday": 580
+              }
+            }
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "The-Swarm-Corporation/AutoHedge",
+          "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+          "summary": "AutoHedge, piyasa analizi, risk yönetimi ve işlem yürütme süreçlerini otomatikleştiren otonom bir yatırım fonu oluşturma platformu. Sürü zekası (swarm intelligence) ve yapay zekâ ajanlarını kullanarak finansal stratejileri dakikalar içinde hayata geçirmeye olanak tanıyor.",
+          "meta": "Python · ★ 5.419 · +517 bugün",
+          "snapshot": {
+            "sourceId": "The-Swarm-Corporation/AutoHedge",
+            "capturedAt": "2026-09-08T08:40:52.503Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 5419,
+              "engagementCount": 517,
+              "rank": 8,
+              "extra": {
+                "starsToday": 517
+              }
+            }
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "BraveOPotato/FckSignups",
+          "url": "https://github.com/BraveOPotato/FckSignups",
+          "summary": "FckSignups, kullanıcı hesabı oluşturma zorunluluğu bulunmayan, tarayıcı tabanlı ve açık kaynaklı araçları bir araya getiren bir liste. Bu derleme, kişisel verileri paylaşmadan çeşitli dijital hizmetlere erişmek isteyen kullanıcılar için pratik bir kaynak sunuyor.",
+          "meta": "TypeScript · ★ 4.006 · +501 bugün",
+          "snapshot": {
+            "sourceId": "BraveOPotato/FckSignups",
+            "capturedAt": "2026-09-08T08:40:52.503Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 4006,
+              "engagementCount": 501,
+              "rank": 9,
+              "extra": {
+                "starsToday": 501
+              }
+            }
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "bytedance/deer-flow",
+          "url": "https://github.com/bytedance/deer-flow",
+          "summary": "ByteDance tarafından geliştirilen Deer-flow, uzun süreli ve karmaşık görevleri araştırma, kodlama ve içerik üretimi yoluyla yerine getiren açık kaynaklı bir süper ajan (SuperAgent) çerçevesidir. Yazılım, kum havuzu (sandbox) ortamları ve alt ajanlar gibi modüller kullanarak dakikalar veya saatler süren iş akışlarını otonom şekilde yönetir.",
+          "meta": "Python · ★ 82.007 · +195 bugün",
+          "snapshot": {
+            "sourceId": "bytedance/deer-flow",
+            "capturedAt": "2026-09-08T08:40:52.503Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 82007,
+              "engagementCount": 195,
+              "rank": 10,
+              "extra": {
+                "starsToday": 195
+              }
+            }
+          }
+        },
+        {
+          "title": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "summary": "OpenAI tarafından paylaşılan Skills, kod yazma modeli Codex için tanımlanmış işlevsel yetenekler (skills) kütüphanesidir. Geliştiricilerin yapay zekâ modellerine belirli görevleri yerine getirme becerisi kazandırmasını sağlayan bir çerçeve sunar.",
+          "meta": "Python · ★ 26.231 · +351 bugün",
+          "snapshot": {
+            "sourceId": "openai/skills",
+            "capturedAt": "2026-09-08T08:40:52.503Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 26231,
+              "engagementCount": 351,
+              "rank": 11,
+              "extra": {
+                "starsToday": 351
+              }
+            }
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "lightpanda-io/browser",
+          "url": "https://github.com/lightpanda-io/browser",
+          "summary": "Lightpanda, yapay zekâ ve otomasyon süreçleri için özel olarak geliştirilmiş, Zig diliyle yazılmış bir başsız tarayıcı (headless browser). Geleneksel tarayıcılara kıyasla daha az kaynak tüketerek veri kazıma ve web otomasyonu işlemlerini hızlandırmayı amaçlıyor.",
+          "meta": "Zig · ★ 35.068 · +58 bugün",
+          "snapshot": {
+            "sourceId": "lightpanda-io/browser",
+            "capturedAt": "2026-09-08T08:40:52.503Z",
+            "metadata": {
+              "language": "Zig",
+              "popularity": 35068,
+              "engagementCount": 58,
+              "rank": 12,
+              "extra": {
+                "starsToday": 58
+              }
+            }
+          }
+        },
+        {
+          "title": "pascalorg/editor",
+          "url": "https://github.com/pascalorg/editor",
+          "summary": "TypeScript ile geliştirilen Pascal, kullanıcıların tarayıcı üzerinden üç boyutlu mimari projeler oluşturmasına ve bu projeleri paylaşmasına olanak tanıyan bir tasarım aracı. Yazılım, karmaşık mimari modelleme süreçlerini web tabanlı bir arayüzle erişilebilir kılmayı hedefliyor.",
+          "meta": "TypeScript · ★ 22.542 · +168 bugün",
+          "snapshot": {
+            "sourceId": "pascalorg/editor",
+            "capturedAt": "2026-09-08T08:40:52.503Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 22542,
+              "engagementCount": 168,
+              "rank": 13,
+              "extra": {
+                "starsToday": 168
+              }
+            }
+          }
+        },
+        {
+          "title": "ruvnet/ruflo",
+          "url": "https://github.com/ruvnet/ruflo",
+          "summary": "TypeScript ile geliştirilen Ruflo, otonom iş akışlarını yöneten ve çok oyunculu yapay zekâ sürülerini (multi-player swarms) koordine eden bir meta çerçeve. Adaptif bellek, kendi kendine öğrenme ve veri tabanı destekli üretim (RAG) gibi özelliklerle karmaşık konuşma tabanlı yapay zekâ sistemleri oluşturmayı sağlıyor.",
+          "meta": "TypeScript · ★ 71.540 · +394 bugün",
+          "snapshot": {
+            "sourceId": "ruvnet/ruflo",
+            "capturedAt": "2026-09-08T08:40:52.503Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 71540,
+              "engagementCount": 394,
+              "rank": 14,
+              "extra": {
+                "starsToday": 394
+              }
+            }
+          },
+          "streakDays": 3
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "216M Spy TVs – The LG Smart TV Problem [video]",
+          "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+          "summary": "LG akıllı televizyonların, kullanıcıların izleme alışkanlıklarını ve ağ üzerindeki etkinliklerini izinsiz şekilde kayıt altına aldığı ortaya çıktı. Bu durum, veri gizliliği ve cihazların arka planda yürüttüğü telemetri (telemetry) süreçleri hakkında kullanıcılar arasında güvenlik endişelerine yol açıyor.",
+          "meta": "739 oy · 898 yorum",
+          "snapshot": {
+            "sourceId": "49592375",
+            "capturedAt": "2026-09-08T08:40:50.674Z",
+            "metadata": {
+              "popularity": 739,
+              "engagementCount": 898,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49592375",
+                  "popularity": 739,
+                  "engagementCount": 898
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "treve",
+                "createdAt": "2026-09-07T00:22:04Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49592375"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49592375",
+              "popularity": 739,
+              "engagementCount": 898
+            }
+          ]
+        },
+        {
+          "title": "Mistral raises €3B",
+          "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+          "summary": "Fransız yapay zekâ girişimi Mistral AI, geliştirdiği açık ağırlıklı (open-weight) modelleri desteklemek üzere 3 milyar avro yatırım aldı. Şirket, bu finansmanla Avrupa merkezli teknoloji ekosisteminde sınırda yapay zekâ (frontier AI) modelleri geliştirme kapasitesini artırmayı hedefliyor.",
+          "meta": "379 oy · 235 yorum",
+          "snapshot": {
+            "sourceId": "49605767",
+            "capturedAt": "2026-09-08T08:40:50.674Z",
+            "metadata": {
+              "popularity": 379,
+              "engagementCount": 235,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49605767",
+                  "popularity": 379,
+                  "engagementCount": 235
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "kuberwastaken",
+                "createdAt": "2026-09-08T05:06:23Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49605767"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49605767",
+              "popularity": 379,
+              "engagementCount": 235
+            }
+          ]
+        },
+        {
+          "title": "Jellyfin 12.0",
+          "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
+          "summary": "Açık kaynaklı medya sunucusu Jellyfin, 12.0 sürümüyle birlikte kullanıcı arayüzünde kapsamlı iyileştirmeler ve performans geliştirmeleri sunuyor. Kendi sunucunuzda kişisel medya kütüphanenizi yönetmenizi sağlayan bu yazılım, yeni güncellemeyle birlikte medya oynatma deneyimini daha kararlı hale getiriyor.",
+          "meta": "331 oy · 134 yorum",
+          "snapshot": {
+            "sourceId": "49604861",
+            "capturedAt": "2026-09-08T08:40:50.674Z",
+            "metadata": {
+              "popularity": 331,
+              "engagementCount": 134,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49604861",
+                  "popularity": 331,
+                  "engagementCount": 134
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "0xC0ncord",
+                "createdAt": "2026-09-08T01:56:35Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49604861"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49604861",
+              "popularity": 331,
+              "engagementCount": 134
+            }
+          ]
+        },
+        {
+          "title": "WeatherNext 3",
+          "url": "https://deepmind.google/science/weathernext/",
+          "summary": "Google DeepMind tarafından geliştirilen WeatherNext, hava durumu tahminlerini yüksek doğrulukla yapan bir üretken yapay zekâ (generative AI) modeli. Geleneksel sayısal tahmin yöntemlerine kıyasla, atmosferik verileri işleyerek daha hızlı ve detaylı yerel hava durumu öngörüleri sunuyor.",
+          "meta": "319 oy · 76 yorum",
+          "snapshot": {
+            "sourceId": "49552299",
+            "capturedAt": "2026-09-08T08:40:50.674Z",
+            "metadata": {
+              "popularity": 319,
+              "engagementCount": 76,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49552299",
+                  "popularity": 319,
+                  "engagementCount": 76
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "matthieu_bl",
+                "createdAt": "2026-09-03T16:06:08Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49552299"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49552299",
+              "popularity": 319,
+              "engagementCount": 76
+            }
+          ]
+        },
+        {
+          "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+          "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+          "summary": "Bir araştırmacı, 1990'lı yıllardan kalma bir sertifika yetkilisinin (Certificate Authority) RSA şifreleme anahtarlarını çarpanlarına ayırarak güvenlik açıklarını ortaya çıkardı. Bu çalışma, eski dijital imza standartlarının günümüz işlem gücüyle ne kadar savunmasız kaldığını somut bir örnekle gösteriyor.",
+          "meta": "291 oy · 50 yorum",
+          "snapshot": {
+            "sourceId": "49604637",
+            "capturedAt": "2026-09-08T08:40:50.674Z",
+            "metadata": {
+              "popularity": 291,
+              "engagementCount": 50,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49604637",
+                  "popularity": 291,
+                  "engagementCount": 50
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "ahlCVA",
+                "createdAt": "2026-09-08T01:16:59Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49604637"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49604637",
+              "popularity": 291,
+              "engagementCount": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "XHToken/Spark-X2.5-4B",
+          "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+          "summary": "Hugging Face üzerinde yayımlanan Spark-X2.5-4B, metin üretimi (text-generation) odaklı bir yapay zekâ modelidir. Düşük parametre sayısıyla hızlı ve verimli dil işleme görevleri için geliştirilmiştir.",
+          "meta": "♥ 784 · 7.216 indirme",
+          "snapshot": {
+            "sourceId": "XHToken/Spark-X2.5-4B",
+            "capturedAt": "2026-09-08T08:40:50.546Z",
+            "metadata": {
+              "popularity": 784,
+              "engagementCount": 7216,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 649,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "spark2_5",
+                  "text-generation",
+                  "llm",
+                  "sparkx2_5",
+                  "conversational",
+                  "custom_code",
+                  "base_model:XHToken/Spark-X2.5-4B-Base",
+                  "base_model:finetune:XHToken/Spark-X2.5-4B-Base",
+                  "license:apache-2.0",
+                  "region:us"
+                ]
+              }
+            }
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Alibaba tarafından geliştirilen Qwen2.5-27B, görsel ve metin girdilerini işleyerek metin çıktısı üreten çok modlu bir büyük dil modeli (large language model). Model, karmaşık görsel verileri analiz etme ve bu veriler üzerinden tutarlı metinler oluşturma yeteneğiyle öne çıkıyor.",
+          "meta": "♥ 14.313 · 6.416.358 indirme",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-27B",
+            "capturedAt": "2026-09-08T08:40:50.546Z",
+            "metadata": {
+              "popularity": 14313,
+              "engagementCount": 6416358,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 526,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "deploy:azure",
+                  "deploy:sagemaker",
+                  "region:us"
+                ]
+              }
+            }
+          },
+          "streakDays": 9
+        },
+        {
+          "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+          "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+          "summary": "ISTA-DASLab tarafından geliştirilen Qwen3.8-27B-GSQ-RCO-GGUF, görsel ve metin verilerini işleyerek metin tabanlı çıktılar üreten bir yapay zekâ modelidir. Model, yüksek performanslı dil işleme yeteneklerini görsel analiz becerileriyle birleştirerek çok modlu (multimodal) görevlerde kullanılmak üzere optimize edilmiştir.",
+          "meta": "♥ 596 · 403.292 indirme",
+          "snapshot": {
+            "sourceId": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+            "capturedAt": "2026-09-08T08:40:50.546Z",
+            "metadata": {
+              "popularity": 596,
+              "engagementCount": 403292,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 480,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "gguf",
+                  "gsq",
+                  "rco",
+                  "quantization",
+                  "mixed-precision",
+                  "ist-daslab",
+                  "multimodal",
+                  "vision",
+                  "image-text-to-text",
+                  "arxiv:2604.18556",
+                  "arxiv:2605.00649",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:quantized:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "imatrix",
+                  "conversational"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "google/timesfm-3.0-pytorch",
+          "url": "https://huggingface.co/google/timesfm-3.0-pytorch",
+          "summary": "Google tarafından geliştirilen TimesFM, zaman serisi tahmini (time-series forecasting) görevleri için eğitilmiş bir temel modeldir. Veri setlerindeki karmaşık desenleri analiz ederek gelecekteki değerleri tahmin etme sürecini standartlaştırır.",
+          "meta": "♥ 596 · 271.713 indirme",
+          "snapshot": {
+            "sourceId": "google/timesfm-3.0-pytorch",
+            "capturedAt": "2026-09-08T08:40:50.546Z",
+            "metadata": {
+              "popularity": 596,
+              "engagementCount": 271713,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 447,
+                "pipelineTag": "time-series-forecasting",
+                "tags": [
+                  "safetensors",
+                  "time-series",
+                  "forecasting",
+                  "pretrained",
+                  "pytorch",
+                  "google",
+                  "time-series-forecasting",
+                  "arxiv:2310.10688",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "openbmb/MiniCPM5-2B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+          "summary": "OpenBMB tarafından geliştirilen MiniCPM5-2B, düşük donanım gereksinimleriyle çalışan bir metin üretme modeli (text-generation model). Sınırlı hesaplama kaynaklarına sahip cihazlarda dahi yüksek performanslı dil işleme yetenekleri sunmayı amaçlıyor.",
+          "meta": "♥ 478 · 13 indirme",
+          "snapshot": {
+            "sourceId": "openbmb/MiniCPM5-2B",
+            "capturedAt": "2026-09-08T08:40:50.546Z",
+            "metadata": {
+              "popularity": 478,
+              "engagementCount": 13,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 389,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "llama",
+                  "text-generation",
+                  "minicpm",
+                  "minicpm5",
+                  "long-context",
+                  "tool-calling",
+                  "on-device",
+                  "edge-ai",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "dataset:openbmb/Ultra-FineWeb",
+                  "dataset:openbmb/UltraX-Preview",
+                  "dataset:openbmb/Ultra-FineWeb-L3",
+                  "dataset:openbmb/UltraData-Math",
+                  "dataset:openbmb/UltraData-Code",
+                  "dataset:openbmb/UltraData-SFT-2605",
+                  "dataset:openbmb/UltraData-SFT-Agent-2609",
+                  "dataset:openbmb/UltraData-RL-2609",
+                  "arxiv:2506.07900",
+                  "arxiv:2602.09003",
+                  "license:apache-2.0",
+                  "text-generation-inference",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Unlocking Lossless Speedups in LLMs via Discrete Diffusion",
+          "url": "https://huggingface.co/papers/2609.04010",
+          "summary": "Ayrık difüzyon (discrete diffusion) yöntemi, büyük dil modellerinin (LLM) bir sonraki kelimeyi tahmin etme sürecindeki sıralı çalışma zorunluluğunu ortadan kaldırıyor. Bu yaklaşım, difüzyon tekniklerini kullanarak metin üretimini paralel hale getiriyor ve modellerin hızını kayıpsız bir şekilde artırıyor.",
+          "meta": "18 beğeni · 5 yorum",
+          "snapshot": {
+            "sourceId": "2609.04010",
+            "capturedAt": "2026-09-08T08:40:50.553Z",
+            "metadata": {
+              "popularity": 18,
+              "engagementCount": 5,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.04010",
+                "publishedAt": "2026-09-03T00:00:00.000Z",
+                "githubRepo": "https://github.com/ifm-ai/uno",
+                "githubStars": 44
+              }
+            }
+          }
+        },
+        {
+          "title": "One Symptom, Three Levers: A Critical Review of On-Policy Self-Distillation",
+          "url": "https://huggingface.co/papers/2608.25936",
+          "summary": "Politika içi öz damıtma (on-policy self-distillation) yöntemi, dil modellerinin kendi ürettikleri verilerle eğitilmesi sürecinde ihtiyaç duyulan büyük öğretmen modelleri ortadan kaldırıyor. Modelin test aşamasında erişemeyeceği referans çözümler veya planlar gibi ayrıcalıklı bilgilerle kendini eğitmesini sağlayan bu yaklaşım, eğitim maliyetlerini düşürmeyi hedefliyor.",
+          "meta": "7 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2608.25936",
+            "capturedAt": "2026-09-08T08:40:50.553Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.25936",
+                "publishedAt": "2026-08-26T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "EmbodiedSkills: A Unified Framework for Orchestrating, Training, and Deploying VLA Agents",
+          "url": "https://huggingface.co/papers/2609.01281",
+          "summary": "EmbodiedSkills, görsel-dil-eylem (VLA) modellerinin fiziksel dünyadaki karmaşık görevleri yerine getirmesi için birleştirilmiş bir çerçeve sunuyor. Bu yapı, robotik ajanların algılama, planlama ve uygulama süreçlerini koordine ederek uzun vadeli hedeflerdeki hata payını düşürmeyi hedefliyor.",
+          "meta": "5 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.01281",
+            "capturedAt": "2026-09-08T08:40:50.553Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.01281",
+                "publishedAt": "2026-09-01T00:00:00.000Z",
+                "githubRepo": "https://github.com/DCDmllm/EmbodiedSkills",
+                "githubStars": 26
+              }
+            }
+          }
+        },
+        {
+          "title": "FlowBalance: Verifier-Grounded Self-Improvement from On-Policy Reasoning Experience",
+          "url": "https://huggingface.co/papers/2609.03241",
+          "summary": "FlowBalance, akıl yürütme modellerinin kendi ürettikleri yanıtlar üzerinden iyileşmesini sağlayan bir yöntemdir. Doğrulayıcı (verifier) tabanlı bu yaklaşım, modelin hatalı sonuçlara odaklanmasını engelleyerek yanıt dağılımını normalize eder.",
+          "meta": "10 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.03241",
+            "capturedAt": "2026-09-08T08:40:50.553Z",
+            "metadata": {
+              "popularity": 10,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.03241",
+                "publishedAt": "2026-09-03T00:00:00.000Z",
+                "githubRepo": "https://github.com/alexhuang13/FlowBalance",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "What Else Needs Fixing? Exploring Cost-Effective Test-Time Compute for Revision Propagation in Artifacts Generated Through Conversation",
+          "url": "https://huggingface.co/papers/2609.03254",
+          "summary": "Büyük dil modelleri (LLM), kullanıcı tarafından talep edilen yerel değişiklikleri tüm belgeye yansıtma konusunda zorluk yaşıyor. Bu çalışma, yapay zekâ destekli içerik üretiminde bağımlılıkların doğru tespit edilmesini ve revizyonların tutarlı şekilde yayılmasını sağlayan maliyet etkin yöntemleri inceliyor.",
+          "meta": "2 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.03254",
+            "capturedAt": "2026-09-08T08:40:50.553Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.03254",
+                "publishedAt": "2026-09-03T00:00:00.000Z",
+                "githubRepo": "https://github.com/ntt-dkiku/llm-revision-propagation",
+                "githubStars": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "I changed my license to EUPL",
+          "url": "https://bergie.iki.fi/blog/eupl/",
+          "summary": "Yazılım geliştirici Henri Bergius, projelerini Avrupa Birliği Kamu Lisansı (EUPL) kapsamına taşıyarak açık kaynaklı yazılımların hukuki uyumluluğunu güçlendirmeyi amaçlıyor. Bu lisans değişikliği, yazılımın Avrupa Birliği hukukuna uygunluğunu sağlarken farklı açık kaynak lisanslarıyla birlikte çalışabilirlik (interoperability) sunuyor.",
+          "meta": "29 oy · 6 yorum",
+          "snapshot": {
+            "sourceId": "4ntizu",
+            "capturedAt": "2026-09-08T08:40:50.643Z",
+            "metadata": {
+              "popularity": 29,
+              "engagementCount": 6,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/4ntizu/i_changed_my_license_eupl",
+                  "popularity": 29,
+                  "engagementCount": 6
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "law"
+                ],
+                "createdAt": "2026-09-07T23:17:11.406-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/4ntizu/i_changed_my_license_eupl",
+              "popularity": 29,
+              "engagementCount": 6
+            }
+          ]
+        },
+        {
+          "title": "A faster way to convert a timestamp to Hour, Min, Sec",
+          "url": "https://www.benjoffe.com/fast-time-of-day",
+          "summary": "Zaman damgalarını (timestamp) saat, dakika ve saniye birimlerine dönüştürmek için kullanılan yeni bir matematiksel yöntem, bölme işlemi gerektirmeyen hesaplama mantığıyla işlemci yükünü azaltıyor. Bu yaklaşım, özellikle yüksek performanslı sistemlerde zaman verisi işleme süreçlerini hızlandırmayı hedefliyor.",
+          "meta": "101 oy · 10 yorum",
+          "snapshot": {
+            "sourceId": "wolwwd",
+            "capturedAt": "2026-09-08T08:40:50.643Z",
+            "metadata": {
+              "popularity": 101,
+              "engagementCount": 10,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/wolwwd/faster_way_convert_timestamp_hour_min_sec",
+                  "popularity": 101,
+                  "engagementCount": 10
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "c++",
+                  "performance"
+                ],
+                "createdAt": "2026-09-07T05:27:56.386-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/wolwwd/faster_way_convert_timestamp_hour_min_sec",
+              "popularity": 101,
+              "engagementCount": 10
+            }
+          ]
+        },
+        {
+          "title": "The shortest IPv6 addresses",
+          "url": "https://ache.one/notes/vanity-ipv6",
+          "summary": "Ağ yöneticileri, IPv6 protokolünde kişiselleştirilmiş ve kısa adresler oluşturmak için özel ağ öneki (prefix) yöntemlerini kullanıyor. Bu teknik, hatırlanabilir ve estetik açıdan kısa ağ adresleri (vanity addresses) elde etmeyi sağlıyor.",
+          "meta": "41 oy · 16 yorum",
+          "snapshot": {
+            "sourceId": "vdalin",
+            "capturedAt": "2026-09-08T08:40:50.643Z",
+            "metadata": {
+              "popularity": 41,
+              "engagementCount": 16,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/vdalin/shortest_ipv6_addresses",
+                  "popularity": 41,
+                  "engagementCount": 16
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "networking"
+                ],
+                "createdAt": "2026-09-07T05:53:12.960-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/vdalin/shortest_ipv6_addresses",
+              "popularity": 41,
+              "engagementCount": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Markdown",
+      "explanation": "Sadece düz metin kullanarak yazılarınızı kalın, eğik veya başlıklı hale getirmenizi sağlayan basit bir biçimlendirme dili."
+    },
+    {
+      "term": "context window optimization",
+      "explanation": "Yapay zekânın aynı anda hatırlayabileceği bilgi miktarını verimli kullanarak daha uzun ve tutarlı cevaplar vermesini sağlayan teknik yöntem."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Yapay zekâ modellerinin farklı veri kaynaklarına ve araçlara kolayca bağlanıp bilgi almasını sağlayan standart bir iletişim yöntemi."
+    },
+    {
+      "term": "stealth headless browser",
+      "explanation": "İnternet siteleri tarafından robot olduğu anlaşılmadan, arka planda gizlice gezinti yapabilen özel tarayıcı yazılımı."
+    },
+    {
+      "term": "CRO",
+      "explanation": "Bir web sitesini ziyaret eden kişilerin, o sitede alışveriş yapma veya üye olma gibi istenen işlemleri gerçekleştirme oranını artırma çalışmaları."
+    },
+    {
+      "term": "SEO",
+      "explanation": "Web sitelerinin arama motorlarında daha üst sıralarda çıkması için yapılan düzenleme ve iyileştirme işlemleri."
+    },
+    {
+      "term": "swarm intelligence",
+      "explanation": "Birçok küçük birimin bir araya gelerek, tıpkı karınca kolonileri gibi iş birliği içinde karmaşık sorunları çözmesi."
+    },
+    {
+      "term": "SuperAgent",
+      "explanation": "Kendi başına karar alabilen, karmaşık görevleri planlayıp yürütebilen gelişmiş yapay zekâ yazılımı."
+    },
+    {
+      "term": "sandbox",
+      "explanation": "Yeni yazılımların bilgisayarınıza zarar vermeden güvenle test edilebilmesi için oluşturulan izole edilmiş çalışma alanı."
+    },
+    {
+      "term": "skills",
+      "explanation": "Yapay zekâ modellerinin belirli bir işi yapabilmesi için kazandırılan özel yetenekler veya görev tanımları."
+    },
+    {
+      "term": "headless browser",
+      "explanation": "Görsel bir arayüzü olmayan, sadece arka planda kodlar aracılığıyla internet sayfalarını yükleyip veri toplayan tarayıcı."
+    },
+    {
+      "term": "multi-player swarms",
+      "explanation": "Birden fazla yapay zekâ biriminin aynı anda ortak bir hedef doğrultusunda birbirleriyle yardımlaşarak çalışması."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Yapay zekânın kendi bildikleriyle yetinmeyip, güncel belgelerden veya veritabanlarından bilgi çekerek daha doğru cevaplar üretmesi."
+    },
+    {
+      "term": "telemetry",
+      "explanation": "Bir yazılımın nasıl kullanıldığını ve hataların nereden kaynaklandığını anlamak için sistemden otomatik olarak toplanan kullanım verileri."
+    },
+    {
+      "term": "open-weight",
+      "explanation": "Geliştiricilerin kendi sistemlerinde çalıştırabilmesi için iç yapısı ve parametreleri herkesle paylaşılan yapay zekâ modelleri."
+    },
+    {
+      "term": "frontier AI",
+      "explanation": "Mevcut teknolojinin sınırlarını zorlayan, en gelişmiş yeteneklere sahip yapay zekâ sistemleri."
+    }
+  ]
+}
