@@ -37,8 +37,8 @@ No, its capabilities are customized depending on the agent's intended use (for e
 - [Scientific Agent Skills](/en/discover/scientific-agent-skills/)
 - [Awesome Agent Skills](/en/discover/awesome-agent-skills/)
 - [Agentskills](/en/discover/agentskills/)
-- [Text to Cad](/en/discover/text-to-cad/)
 - [Claude Obsidian](/en/discover/claude-obsidian/)
+- [Text to Cad](/en/discover/text-to-cad/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/agent-skills/

@@ -2,7 +2,7 @@
 
 Organiza contenido de investigación en un vault de Obsidian enlazando fuentes y aplicando cambios aprobados mediante transacciones reversibles. Diseñado para priorizar el funcionamiento local y minimizar la dependencia de la nube.
 
-- ★ 13.706
+- ★ 14.727
 - Python
 - GitHub Trending · 2026-08-25
 

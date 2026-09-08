@@ -2,15 +2,15 @@
 
 T3Code, TypeScript tabanlı projelerde kod kalitesini artırmak ve standartlaştırmak için geliştirilen bir araç setidir. Geliştiricilere tip güvenliği (type safety) ve kod düzenleme süreçlerinde otomasyon desteği sağlar.
 
-- ★ 21.891
+- ★ 22.034
 - TypeScript
 - GitHub Trending · 2026-07-13
 
 ## Güncelleme
+- 8 Eylül 2026: Yıldız 21.891 → 22.034, son sürüm v0.0.40 (8 Eylül 2026).
 - 7 Eylül 2026: Yıldız 21.406 → 21.891, son sürüm v0.0.39 (7 Eylül 2026).
 - 2 Eylül 2026: Yıldız 21.171 → 21.406, son sürüm v0.0.38 (1 Eylül 2026).
 - 31 Ağustos 2026: Yıldız 20.676 → 21.171, son sürüm v0.0.37 (31 Ağustos 2026).
-- 27 Ağustos 2026: Yıldız 20.252 → 20.676, son sürüm v0.0.35 (27 Ağustos 2026).
 
 ## Ne kazandırır?
 - Codex, Claude, Cursor ve OpenCode desteği

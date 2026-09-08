@@ -31,6 +31,8 @@ Es bastante fácil para sitios simples, pero requiere conocimientos técnicos av
 - [Puppeteer](/es/discover/puppeteer/)
 - [Scrapling](/es/discover/scrapling/)
 - [MediaCrawler](/es/discover/mediacrawler/)
+- [Browser](/es/discover/browser/)
+- [Camofox Browser](/es/discover/camofox-browser/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/web-scraping/

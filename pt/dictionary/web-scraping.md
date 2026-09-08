@@ -31,6 +31,8 @@ Tecnicamente sim, mas é ética e legalmente importante prestar atenção aos te
 - [Puppeteer](/pt/discover/puppeteer/)
 - [Scrapling](/pt/discover/scrapling/)
 - [MediaCrawler](/pt/discover/mediacrawler/)
+- [Browser](/pt/discover/browser/)
+- [Camofox Browser](/pt/discover/camofox-browser/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/web-scraping/

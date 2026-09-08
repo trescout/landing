@@ -31,6 +31,8 @@ Für einfache Websites ist dies recht einfach, für moderne und sichere Websites
 - [Puppeteer](/de/discover/puppeteer/)
 - [Scrapling](/de/discover/scrapling/)
 - [MediaCrawler](/de/discover/mediacrawler/)
+- [Browser](/de/discover/browser/)
+- [Camofox Browser](/de/discover/camofox-browser/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/web-scraping/

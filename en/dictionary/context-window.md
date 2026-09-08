@@ -29,5 +29,8 @@ Yes, but it may increase transaction cost and response time.
 - [LLM](/en/dictionary/llm/)
 - [Token](/en/dictionary/token/)
 
+## Related tools
+- [Context Mode](/en/discover/context-mode/)
+
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/context-window/

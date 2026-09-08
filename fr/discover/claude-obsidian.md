@@ -2,7 +2,7 @@
 
 Crée une base Obsidian locale référencée à partir de documents sources et applique les modifications approuvées via des opérations réversibles.
 
-- ★ 13 706
+- ★ 14 727
 - Python
 - GitHub Trending · 2026-08-25
 

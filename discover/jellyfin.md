@@ -2,12 +2,13 @@
 
 Jellyfin , kendi film, dizi ve müzik koleksiyonunuzu yönetip tüm cihazlarınıza yayınlamanızı sağlayan özgür bir medya sunucusudur. Plex ve Emby'ye alternatif olan bu platformda premium kilitler, reklamlar veya gizli ücretler bulunmaz.
 
-- ★ 55.268
+- ★ 56.682
 - C#
 - GPL-2.0
 - GitHub Trending · 26 May 2026
 
 ## Güncelleme
+- 8 Eylül 2026: Yıldız 55.268 → 56.682, son sürüm v12.0 (8 Eylül 2026).
 - 2 Ağustos 2026: Yıldız 52.316 → 55.268, son sürüm v10.11.11 (6 Haziran 2026).
 
 - **Kimin için:** Medya koleksiyonunu kendi sunucusunda toplamak isteyenler 

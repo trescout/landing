@@ -37,10 +37,10 @@ Some technical knowledge may be required during the installation phase, but once
 - [Chrome Devtools MCP](/en/discover/chrome-devtools-mcp/)
 - [Openclaude](/en/discover/openclaude/)
 - [Fastmcp](/en/discover/fastmcp/)
+- [Context Mode](/en/discover/context-mode/)
 - [Unity MCP](/en/discover/unity-mcp/)
 - [DesktopCommanderMCP](/en/discover/desktopcommandermcp/)
 - [TREK](/en/discover/trek/)
-- [Tradingview MCP](/en/discover/tradingview-mcp/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/model-context-protocol-mcp/

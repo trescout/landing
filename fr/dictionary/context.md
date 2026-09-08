@@ -30,9 +30,9 @@ Il fait référence à la capacité totale d’informations que l’intelligence
 - [Openclaude](/fr/discover/openclaude/)
 - [Code Review Graph](/fr/discover/code-review-graph/)
 - [Fastmcp](/fr/discover/fastmcp/)
+- [Context Mode](/fr/discover/context-mode/)
 - [Unity MCP](/fr/discover/unity-mcp/)
 - [DesktopCommanderMCP](/fr/discover/desktopcommandermcp/)
-- [TREK](/fr/discover/trek/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/context/

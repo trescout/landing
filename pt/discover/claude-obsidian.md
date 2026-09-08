@@ -2,7 +2,7 @@
 
 Sistema de conhecimento com prioridade local para Claude Code e servidores Agent Skills compatíveis. Converte materiais de referência em páginas interligadas do Obsidian que citam as fontes.
 
-- ★ 13.706
+- ★ 14.727
 - Python
 - GitHub Trending · 2026-08-25
 

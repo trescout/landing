@@ -30,9 +30,9 @@ Se refiere a la capacidad total de información que la inteligencia artificial p
 - [Openclaude](/es/discover/openclaude/)
 - [Code Review Graph](/es/discover/code-review-graph/)
 - [Fastmcp](/es/discover/fastmcp/)
+- [Context Mode](/es/discover/context-mode/)
 - [Unity MCP](/es/discover/unity-mcp/)
 - [DesktopCommanderMCP](/es/discover/desktopcommandermcp/)
-- [TREK](/es/discover/trek/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/context/

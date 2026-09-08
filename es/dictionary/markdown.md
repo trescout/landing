@@ -28,14 +28,14 @@ Puedes abrirlo con cualquier editor de texto, pero puedes leerlo formateado más
 - [CLI](/es/dictionary/cli/)
 
 ## Herramientas relacionadas
-- [Firecrawl](/es/discover/firecrawl/)
 - [MarkItDown](/es/discover/markitdown/)
+- [Firecrawl](/es/discover/firecrawl/)
 - [PaddleOCR](/es/discover/paddleocr/)
 - [Crawl4AI](/es/discover/crawl4ai/)
 - [MinerU](/es/discover/mineru/)
 - [Scrapling](/es/discover/scrapling/)
 - [Obsidian Skills](/es/discover/obsidian-skills/)
-- [Opendataloader PDF](/es/discover/opendataloader-pdf/)
+- [Book to Skill](/es/discover/book-to-skill/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/markdown/

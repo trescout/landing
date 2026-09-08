@@ -33,6 +33,8 @@ It is quite easy for simple sites, but requires advanced technical knowledge for
 - [Puppeteer](/en/discover/puppeteer/)
 - [Scrapling](/en/discover/scrapling/)
 - [MediaCrawler](/en/discover/mediacrawler/)
+- [Browser](/en/discover/browser/)
+- [Camofox Browser](/en/discover/camofox-browser/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/web-scraping/

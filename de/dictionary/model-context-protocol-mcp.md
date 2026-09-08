@@ -35,10 +35,10 @@ Während der Installationsphase sind möglicherweise einige technische Kenntniss
 - [Chrome Devtools MCP](/de/discover/chrome-devtools-mcp/)
 - [Openclaude](/de/discover/openclaude/)
 - [Fastmcp](/de/discover/fastmcp/)
+- [Context Mode](/de/discover/context-mode/)
 - [Unity MCP](/de/discover/unity-mcp/)
 - [DesktopCommanderMCP](/de/discover/desktopcommandermcp/)
 - [TREK](/de/discover/trek/)
-- [Tradingview MCP](/de/discover/tradingview-mcp/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/model-context-protocol-mcp/

@@ -35,10 +35,10 @@ Sim, o MCP possui uma estrutura que mantém sob controle as permissões de acess
 - [Chrome Devtools MCP](/pt/discover/chrome-devtools-mcp/)
 - [Openclaude](/pt/discover/openclaude/)
 - [Fastmcp](/pt/discover/fastmcp/)
+- [Context Mode](/pt/discover/context-mode/)
 - [Unity MCP](/pt/discover/unity-mcp/)
 - [DesktopCommanderMCP](/pt/discover/desktopcommandermcp/)
 - [TREK](/pt/discover/trek/)
-- [Tradingview MCP](/pt/discover/tradingview-mcp/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/model-context-protocol/

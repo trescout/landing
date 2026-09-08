@@ -7564,5 +7564,83 @@
     "kisa_pt": "É a redação persuasiva preparada com o objetivo de convencer as pessoas a realizar uma determinada ação ou a comprar um produto.",
     "kisa_es": "Es la redacción publicitaria persuasiva preparada con el objetivo de convencer a las personas para que realicen una acción específica o compren un producto.",
     "kisa_de": "Es handelt sich um überzeugendes Copywriting, das darauf ausgelegt ist, Menschen dazu zu bewegen, eine bestimmte Handlung auszuführen oder ein Produkt zu kaufen."
+  },
+  {
+    "slug": "context-window-optimization",
+    "en": "Context Window Optimization",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekânın sınırlı hafıza alanını en verimli şekilde kullanarak daha uzun ve tutarlı sonuçlar üretmesini sağlayan teknik düzenlemeler.",
+    "date": "2026-09-08",
+    "kisa_en": "Technical adjustments that enable artificial intelligence to produce longer and more consistent results by using its limited memory space most efficiently.",
+    "kisa_fr": "Ajustements techniques permettant à l'intelligence artificielle de produire des résultats plus longs et cohérents en utilisant de la manière la plus efficace possible son espace mémoire limité.",
+    "kisa_pt": "Ajustes técnicos que permitem que a inteligência artificial produza resultados mais longos e coerentes, utilizando o espaço de memória limitado da forma mais eficiente.",
+    "kisa_es": "Ajustes técnicos que permiten a la inteligencia artificial generar resultados más largos y coherentes utilizando el espacio de memoria limitado de la manera más eficiente.",
+    "kisa_de": "Technische Anpassungen, die es der künstlichen Intelligenz ermöglichen, den begrenzten Speicherplatz am effizientesten zu nutzen, um längere und konsistentere Ergebnisse zu erzielen."
+  },
+  {
+    "slug": "stealth-headless-browser",
+    "en": "Stealth Headless Browser",
+    "full": "",
+    "cat": "dev",
+    "kisa": "İnternet sitelerindeki güvenlik duvarlarını aşarak, robot olduğunun anlaşılmasını engelleyen görünmez tarayıcı.",
+    "date": "2026-09-08",
+    "kisa_en": "An invisible browser that bypasses firewalls on websites and prevents detection as a robot.",
+    "kisa_fr": "Navigateur invisible qui contourne les pare-feu des sites web et empêche la détection de son statut de robot.",
+    "kisa_pt": "Navegador invisível que contorna firewalls em sites e impede que seja identificado como um robô.",
+    "kisa_es": "Navegador invisible que evita ser detectado como un robot al eludir los firewalls de los sitios web.",
+    "kisa_de": "Ein unsichtbarer Browser, der Firewalls auf Websites umgeht und verhindert, dass er als Roboter erkannt wird."
+  },
+  {
+    "slug": "headless-browser",
+    "en": "Headless Browser",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Görsel ekranı olmayan, tamamen kodlar üzerinden internet sayfalarını yükleyip veri işleyen tarayıcı.",
+    "date": "2026-09-08",
+    "kisa_en": "A browser that has no visual display and processes data by loading web pages entirely through code.",
+    "kisa_fr": "Navigateur sans interface visuelle qui charge les pages web et traite les données entièrement via du code.",
+    "kisa_pt": "Navegador sem interface visual que carrega páginas da web e processa dados inteiramente através de código.",
+    "kisa_es": "Navegador que no tiene interfaz visual y que carga páginas web y procesa datos exclusivamente a través de código.",
+    "kisa_de": "Ein Browser ohne visuelle Anzeige, der Internetseiten vollständig über Code lädt und Daten verarbeitet."
+  },
+  {
+    "slug": "telemetry",
+    "en": "Telemetry",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir yazılımın kullanımı ve hataları hakkında sistemden otomatik olarak toplanan teknik veriler.",
+    "date": "2026-09-08",
+    "kisa_en": "Technical data automatically collected from a system regarding the usage and errors of a software.",
+    "kisa_fr": "Données techniques collectées automatiquement par le système concernant l'utilisation et les erreurs d'un logiciel.",
+    "kisa_pt": "Dados técnicos coletados automaticamente pelo sistema sobre o uso e os erros de um software.",
+    "kisa_es": "Datos técnicos recopilados automáticamente del sistema sobre el uso y los errores de un software.",
+    "kisa_de": "Technische Daten, die automatisch vom System über die Nutzung und Fehler einer Software gesammelt werden."
+  },
+  {
+    "slug": "open-weight",
+    "en": "Open Weight",
+    "full": "",
+    "cat": "ai",
+    "kisa": "İç yapısı ve parametreleri geliştiricilerin kendi cihazlarında çalıştırabilmesi için halka açılmış yapay zekâ modelleri.",
+    "date": "2026-09-08",
+    "kisa_en": "Artificial intelligence models whose internal structure and parameters have been made public for developers to run on their own devices.",
+    "kisa_fr": "Modèles d'intelligence artificielle dont la structure interne et les paramètres ont été rendus publics afin que les développeurs puissent les exécuter sur leurs propres appareils.",
+    "kisa_pt": "Modelos de inteligência artificial cuja estrutura interna e parâmetros foram disponibilizados ao público para que os desenvolvedores possam executá-los em seus próprios dispositivos.",
+    "kisa_es": "Modelos de inteligencia artificial cuya estructura interna y parámetros se han hecho públicos para que los desarrolladores puedan ejecutarlos en sus propios dispositivos.",
+    "kisa_de": "Künstliche Intelligenz-Modelle, deren interne Struktur und Parameter für Entwickler öffentlich zugänglich gemacht wurden, damit diese sie auf eigenen Geräten ausführen können."
+  },
+  {
+    "slug": "frontier-ai",
+    "en": "Frontier AI",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Mevcut teknolojik sınırları zorlayan, en gelişmiş ve en yüksek yetenekli yapay zekâ sistemleri.",
+    "date": "2026-09-08",
+    "kisa_en": "The most advanced and highly capable artificial intelligence systems that push the boundaries of current technology.",
+    "kisa_fr": "Systèmes d'intelligence artificielle les plus avancés et les plus performants, repoussant les limites technologiques actuelles.",
+    "kisa_pt": "Sistemas de inteligência artificial mais avançados e de maior capacidade, que desafiam os limites tecnológicos atuais.",
+    "kisa_es": "Sistemas de inteligencia artificial más avanzados y capaces que superan los límites tecnológicos actuales.",
+    "kisa_de": "Die fortschrittlichsten und leistungsfähigsten Systeme der künstlichen Intelligenz, die die aktuellen technologischen Grenzen verschieben."
   }
 ]
