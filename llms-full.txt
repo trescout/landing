@@ -31992,6 +31992,57 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yapay zekâ için tarayıcı hata ayıklama
+
+Chrome Geliştirici Araçları (Chrome DevTools) için geliştirilen bu sunucu, kodlama yapan yapay zekâ ajanlarının (coding agents) tarayıcı tabanlı hata ayıklama süreçlerini yönetmesini sağlıyor. Model Bağlam Protokolü (Model Context Protocol) üzerinden çalışan bu araç, ajanların web uygulamalarını doğrudan incelemesine ve hata giderme işlemlerini otomatize etmesine olanak tanıyor.
+
+- ★ 51.328
+- TypeScript
+- GitHub Trending · 2026-07-03
+
+## Güncelleme
+- 8 Eylül 2026: Yıldız 49.801 → 51.328, son sürüm chrome-devtools-mcp-v1.9.0 (8 Eylül 2026).
+- 27 Ağustos 2026: Yıldız 48.884 → 49.801, son sürüm chrome-devtools-mcp-v1.8.0 (25 Ağustos 2026).
+- 11 Ağustos 2026: Yıldız 48.381 → 48.884, son sürüm chrome-devtools-mcp-v1.7.0 (10 Ağustos 2026).
+- 2 Ağustos 2026: Yıldız 45.204 → 48.381, son sürüm chrome-devtools-mcp-v1.6.0 (14 Temmuz 2026).
+
+## Ne kazandırır?
+- Canlı tarayıcıyı doğrudan kontrol etme
+- Performans analizlerini otomatikleştirme
+- Ağ isteklerini ve konsol hatalarını inceleme
+
+## Kurulum
+
+**npm ile global**
+
+```
+npm install -g chrome-devtools-mcp
+```
+
+Kaynak: Resmî kaynak: https://github.com/ChromeDevTools/chrome-devtools-mcp
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Chrome DevTools MCP sunucusunu kullanarak aktif tarayıcı oturumuma bağlan ve web uygulamamdaki performans verilerini analiz et. Ağ isteklerini kontrol et, konsol hatalarını incele ve karşılaştığım sorunları gidermek için gerekli hata ayıklama adımlarını gerçekleştir.
+
+- **Kimin için:** Tarayıcı tabanlı web uygulamalarını geliştiren ve hata ayıklama süreçlerini yapay zekâ ajanları ile otomatize etmek isteyen yazılımcılar için uygundur. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/ChromeDevTools/chrome-devtools-mcp)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Chrome DevTools Model Context Protocol Model Context Protocol Context MCP Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/chrome-devtools-mcp/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Uçtan uca testlerinizi hızlandırın
 
 Cypress, tarayıcı tabanlı uygulamalar için uçtan uca test (end-to-end testing) süreçlerini hızlandıran ve kolaylaştıran bir otomasyon çerçevesidir (framework). TypeScript ile geliştirilen bu araç, web uygulamalarının güvenilirliğini artırmak adına geliştiricilere hızlı hata ayıklama ve test yönetimi imkânı sunar.
@@ -32200,56 +32251,6 @@ Computer Vision Computer Vision Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/supervision/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Yapay zekâ için tarayıcı hata ayıklama
-
-Chrome Geliştirici Araçları (Chrome DevTools) için geliştirilen bu sunucu, kodlama yapan yapay zekâ ajanlarının (coding agents) tarayıcı tabanlı hata ayıklama süreçlerini yönetmesini sağlıyor. Model Bağlam Protokolü (Model Context Protocol) üzerinden çalışan bu araç, ajanların web uygulamalarını doğrudan incelemesine ve hata giderme işlemlerini otomatize etmesine olanak tanıyor.
-
-- ★ 49.801
-- TypeScript
-- GitHub Trending · 2026-07-03
-
-## Güncelleme
-- 27 Ağustos 2026: Yıldız 48.884 → 49.801, son sürüm chrome-devtools-mcp-v1.8.0 (25 Ağustos 2026).
-- 11 Ağustos 2026: Yıldız 48.381 → 48.884, son sürüm chrome-devtools-mcp-v1.7.0 (10 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 45.204 → 48.381, son sürüm chrome-devtools-mcp-v1.6.0 (14 Temmuz 2026).
-
-## Ne kazandırır?
-- Canlı tarayıcıyı doğrudan kontrol etme
-- Performans analizlerini otomatikleştirme
-- Ağ isteklerini ve konsol hatalarını inceleme
-
-## Kurulum
-
-**npm ile global**
-
-```
-npm install -g chrome-devtools-mcp
-```
-
-Kaynak: Resmî kaynak: https://github.com/ChromeDevTools/chrome-devtools-mcp
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Chrome DevTools MCP sunucusunu kullanarak aktif tarayıcı oturumuma bağlan ve web uygulamamdaki performans verilerini analiz et. Ağ isteklerini kontrol et, konsol hatalarını incele ve karşılaştığım sorunları gidermek için gerekli hata ayıklama adımlarını gerçekleştir.
-
-- **Kimin için:** Tarayıcı tabanlı web uygulamalarını geliştiren ve hata ayıklama süreçlerini yapay zekâ ajanları ile otomatize etmek isteyen yazılımcılar için uygundur. 
-- **Lisans:** Apache-2.0 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/ChromeDevTools/chrome-devtools-mcp)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Chrome DevTools Model Context Protocol Model Context Protocol Context MCP Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/chrome-devtools-mcp/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -34928,6 +34929,64 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yapay zekâ ile otomatik diyagram oluşturma
+
+Next.js tabanlı bu uygulama, diyagram oluşturma aracı draw.io ile üretken yapay zekâ (generative AI) yeteneklerini birleştiriyor. Kullanıcılar, doğal dil komutları aracılığıyla görsel şemalar oluşturabiliyor ve mevcut diyagramlarını yapay zekâ desteğiyle düzenleyebiliyor.
+
+- ★ 35.699
+- TypeScript
+- GitHub Trending · 2026-07-12
+
+## Güncelleme
+- 8 Eylül 2026: Yıldız 33.999 → 35.699, son sürüm v0.4.16 (21 Mayıs 2026).
+- 2 Ağustos 2026: Yıldız 33.359 → 33.999, son sürüm v0.4.16 (21 Mayıs 2026).
+
+## Ne kazandırır?
+- Doğal dil komutlarıyla profesyonel şemalar çizin
+- Mevcut görselleri ve PDF dosyalarını diyagrama dönüştürün
+- Bulut mimarisi ve akış şemalarını hızla görselleştirin
+
+## Kurulum
+
+**Yerel kurulum**
+
+```
+git clone https://github.com/DayuanJiang/next-ai-draw-io
+cd next-ai-draw-io
+npm install
+cp env.example .env.local
+```
+
+## Çalıştırma
+
+**Geliştirme sunucusunu başlatma**
+
+```
+npm run dev
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Bir akış şeması oluşturmanı istiyorum. Kullanıcı kimlik doğrulama sürecini giriş yapma, çok faktörlü doğrulama ve oturum yönetimi adımlarını içerecek şekilde görselleştir.
+
+- **Kimin için:** Karmaşık süreçleri ve mimarileri hızlıca görselleştirmek isteyen teknik profesyoneller ve tasarımcılar içindir. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/DayuanJiang/next-ai-draw-io)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Generative AI PDF Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/next-ai-draw-io/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Konteyner ve bulut güvenlik tarayıcısı
 
 Trivy, konteynerler, Kubernetes kümeleri ve bulut altyapılarındaki güvenlik açıklarını, hatalı yapılandırmaları ve gizli anahtarları (secrets) tespit eden kapsamlı bir güvenlik tarama aracıdır. Yazılım malzeme listesi (SBOM) oluşturma yeteneğiyle geliştirme süreçlerinde güvenlik denetimlerini otomatize eder.
@@ -35513,63 +35572,6 @@ Compilation Bundling Web Compiler Compiler Rust Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/swc/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Yapay zekâ ile otomatik diyagram oluşturma
-
-Next.js tabanlı bu uygulama, diyagram oluşturma aracı draw.io ile üretken yapay zekâ (generative AI) yeteneklerini birleştiriyor. Kullanıcılar, doğal dil komutları aracılığıyla görsel şemalar oluşturabiliyor ve mevcut diyagramlarını yapay zekâ desteğiyle düzenleyebiliyor.
-
-- ★ 33.999
-- TypeScript
-- GitHub Trending · 2026-07-12
-
-## Güncelleme
-- 2 Ağustos 2026: Yıldız 33.359 → 33.999, son sürüm v0.4.16 (21 Mayıs 2026).
-
-## Ne kazandırır?
-- Doğal dil komutlarıyla profesyonel şemalar çizin
-- Mevcut görselleri ve PDF dosyalarını diyagrama dönüştürün
-- Bulut mimarisi ve akış şemalarını hızla görselleştirin
-
-## Kurulum
-
-**Yerel kurulum**
-
-```
-git clone https://github.com/DayuanJiang/next-ai-draw-io
-cd next-ai-draw-io
-npm install
-cp env.example .env.local
-```
-
-## Çalıştırma
-
-**Geliştirme sunucusunu başlatma**
-
-```
-npm run dev
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Bir akış şeması oluşturmanı istiyorum. Kullanıcı kimlik doğrulama sürecini giriş yapma, çok faktörlü doğrulama ve oturum yönetimi adımlarını içerecek şekilde görselleştir.
-
-- **Kimin için:** Karmaşık süreçleri ve mimarileri hızlıca görselleştirmek isteyen teknik profesyoneller ve tasarımcılar içindir. 
-- **Lisans:** Apache-2.0 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/DayuanJiang/next-ai-draw-io)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Generative AI PDF Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/next-ai-draw-io/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -37651,15 +37653,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Kilo, yazılım geliştirme süreçlerini hızlandırmak amacıyla tasarlanmış hepsi bir arada ajan tabanlı mühendislik platformudur (agentic engineering platform). Açık kaynak kodlu yazılım geliştirme ajanı (coding agent) üzerinden uygulama oluşturma, dağıtma ve yineleme süreçlerini standartlaştırır.
 
-- ★ 27.191
+- ★ 27.223
 - TypeScript
 - GitHub Trending · 2026-06-19
 
 ## Güncelleme
+- 8 Eylül 2026: Yıldız 27.191 → 27.223, son sürüm v7.5.16 (8 Eylül 2026).
 - 6 Eylül 2026: Yıldız 27.182 → 27.191, son sürüm v7.5.15 (6 Eylül 2026).
 - 5 Eylül 2026: Yıldız 27.155 → 27.182, son sürüm v7.5.14 (4 Eylül 2026).
 - 3 Eylül 2026: Yıldız 27.128 → 27.155, son sürüm v7.5.9 (2 Eylül 2026).
-- 2 Eylül 2026: Yıldız 27.110 → 27.128, son sürüm jetbrains/v7.1.5 (1 Eylül 2026).
 
 ## Ne kazandırır?
 - 500'den fazla model arasında geçiş yapabilme
@@ -37960,6 +37962,69 @@ Agentic Skills Agentic AI Skills Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/pm-skills/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Yapay zekâ ile gelir yönetimi
+
+AiToEarn, kullanıcıların yapay zekâ destekli otomasyonlar aracılığıyla gelir elde etme süreçlerini yönetmelerini sağlayan bir TypeScript tabanlı platformdur. Proje, otonom görev yürütme ve yapay zekâ tabanlı kazanç modellerini (AI-driven earning models) bir araya getirerek geliştiricilere açık bir altyapı sunuyor.
+
+- ★ 25.780
+- TypeScript
+- GitHub Trending · 2026-06-08
+
+## Güncelleme
+- 8 Eylül 2026: Yıldız 24.551 → 25.780, son sürüm v2.5.0 (24 Haziran 2026).
+- 2 Ağustos 2026: Yıldız 19.145 → 24.551, son sürüm v2.5.0 (24 Haziran 2026).
+
+## Ne kazandırır?
+- Yapay zekâ destekli içerik oluşturma ve otomatik yayınlama süreçlerini yönetir.
+- CPS, CPE ve CPM modelleriyle içeriklerden gelir elde etmeyi sağlar.
+- Birden fazla sosyal medya platformunda eş zamanlı etkileşim ve takipçi yönetimi sunar.
+
+## Kurulum
+
+**Docker ile Hızlı Kurulum**
+
+```
+git clone https://github.com/yikart/AiToEarn.git
+cd AiToEarn
+docker compose up -d
+```
+
+**OpenClaw Eklentisi Kurulumu**
+
+```
+npx -y @aitoearn/openclaw-plugin-cli
+```
+
+## Çalıştırma
+
+**Docker ile Başlatma**
+
+```
+docker compose up -d
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+AiToEarn platformunu kullanarak içerik üretim süreçlerimi otomatize etmek istiyorum. Öncelikle aitoearn.ai veya aitoearn.cn üzerinden bir hesap oluşturup API Key'imi aldım. Bu anahtarı kullanarak Claude, Cursor veya OpenClaw gibi araçlara entegrasyonu nasıl tamamlayabilirim? Ayrıca, içeriklerimi birden fazla sosyal medya platformunda eş zamanlı yayınlamak ve gelir elde etme modellerini (CPS, CPE, CPM) aktif etmek için izlemem gereken temel adımları açıklar mısın?
+
+- **Kimin için:** İçeriklerini otomatize etmek, çoklu platformlarda yayınlamak ve yapay zekâ destekli modellerle gelir elde etmek isteyen içerik üreticileri, marka sahipleri ve tek kişilik şirketler için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/yikart/AiToEarn)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+AI-driven Earning Models API Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/aitoearn/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -38335,68 +38400,6 @@ Compiler
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/fmt/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Yapay zekâ ile gelir yönetimi
-
-AiToEarn, kullanıcıların yapay zekâ destekli otomasyonlar aracılığıyla gelir elde etme süreçlerini yönetmelerini sağlayan bir TypeScript tabanlı platformdur. Proje, otonom görev yürütme ve yapay zekâ tabanlı kazanç modellerini (AI-driven earning models) bir araya getirerek geliştiricilere açık bir altyapı sunuyor.
-
-- ★ 24.551
-- TypeScript
-- GitHub Trending · 2026-06-08
-
-## Güncelleme
-- 2 Ağustos 2026: Yıldız 19.145 → 24.551, son sürüm v2.5.0 (24 Haziran 2026).
-
-## Ne kazandırır?
-- Yapay zekâ destekli içerik oluşturma ve otomatik yayınlama süreçlerini yönetir.
-- CPS, CPE ve CPM modelleriyle içeriklerden gelir elde etmeyi sağlar.
-- Birden fazla sosyal medya platformunda eş zamanlı etkileşim ve takipçi yönetimi sunar.
-
-## Kurulum
-
-**Docker ile Hızlı Kurulum**
-
-```
-git clone https://github.com/yikart/AiToEarn.git
-cd AiToEarn
-docker compose up -d
-```
-
-**OpenClaw Eklentisi Kurulumu**
-
-```
-npx -y @aitoearn/openclaw-plugin-cli
-```
-
-## Çalıştırma
-
-**Docker ile Başlatma**
-
-```
-docker compose up -d
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-AiToEarn platformunu kullanarak içerik üretim süreçlerimi otomatize etmek istiyorum. Öncelikle aitoearn.ai veya aitoearn.cn üzerinden bir hesap oluşturup API Key'imi aldım. Bu anahtarı kullanarak Claude, Cursor veya OpenClaw gibi araçlara entegrasyonu nasıl tamamlayabilirim? Ayrıca, içeriklerimi birden fazla sosyal medya platformunda eş zamanlı yayınlamak ve gelir elde etme modellerini (CPS, CPE, CPM) aktif etmek için izlemem gereken temel adımları açıklar mısın?
-
-- **Kimin için:** İçeriklerini otomatize etmek, çoklu platformlarda yayınlamak ve yapay zekâ destekli modellerle gelir elde etmek isteyen içerik üreticileri, marka sahipleri ve tek kişilik şirketler için uygundur. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/yikart/AiToEarn)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-AI-driven Earning Models API Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/aitoearn/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -49302,6 +49305,55 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Üyelik gerektirmeyen açık kaynaklı araçlar
+
+FckSignups, kullanıcıdan kayıt veya üyelik talep etmeyen açık kaynaklı tarayıcı tabanlı araçları bir araya getiren bir liste. Yazılım geliştiricilerin ve son kullanıcıların hesap oluşturmadan hızlıca erişebileceği dijital hizmetleri merkezi bir kaynakta topluyor.
+
+- ★ 4.035
+- TypeScript
+- GitHub Trending · 2026-09-06
+
+## Güncelleme
+- 8 Eylül 2026: Yıldız 3.015 → 4.035.
+
+## Ne kazandırır?
+- Kayıt veya e-posta zorunluluğu olmadan araçlara erişim sağlar
+- Veri takibi ve izleme içermeyen güvenli bir liste sunar
+- Tasarım, geliştirme ve üretkenlik gibi farklı kategorilerde araçlar içerir
+
+## Kurulum
+
+**Yerel ortamda çalıştırma**
+
+```
+git clone https://github.com/BraveOPotato/FckSignups.git && \
+cd FckSignups && \
+npm install && \
+npm run dev
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+NoSignups projesinin sunduğu açık kaynaklı araç listesini kullanarak, kullanıcıdan kayıt veya e-posta talep etmeyen, gizlilik odaklı dijital hizmetleri listele. Bu araçların tasarım, geliştirme, üretkenlik ve veri analitiği gibi kategorilerde nasıl gruplandığını açıkla. Özellikle hesap oluşturma zorunluluğu olmayan alternatifleri bulma konusunda rehberlik et.
+
+- **Kimin için:** Kayıt formları ve veri takibi ile uğraşmadan doğrudan işlevsel araçlara ulaşmak isteyen kullanıcılar için uygundur. 
+- **Lisans:** GPL-3.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/BraveOPotato/FckSignups)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/fcksignups/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Bilimsel araştırmalar için yapay zekâ çalışma ortamı
 
 AIPOCH tarafından geliştirilen Open Science, bilimsel araştırmalar için yerel tabanlı (local-first) ve modelden bağımsız bir yapay zekâ çalışma ortamı sunuyor. Yazılım, Python ve R not defterleri ile veri bağlantılarını birleştirerek bilimsel süreçlerin tekrarlanabilir şekilde yürütülmesine olanak tanıyor.
@@ -50294,52 +50346,6 @@ Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/server/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Üyelik gerektirmeyen açık kaynaklı araçlar
-
-FckSignups, kullanıcıdan kayıt veya üyelik talep etmeyen açık kaynaklı tarayıcı tabanlı araçları bir araya getiren bir liste. Yazılım geliştiricilerin ve son kullanıcıların hesap oluşturmadan hızlıca erişebileceği dijital hizmetleri merkezi bir kaynakta topluyor.
-
-- ★ 3.015
-- TypeScript
-- GitHub Trending · 2026-09-06
-
-## Ne kazandırır?
-- Kayıt veya e-posta zorunluluğu olmadan araçlara erişim sağlar
-- Veri takibi ve izleme içermeyen güvenli bir liste sunar
-- Tasarım, geliştirme ve üretkenlik gibi farklı kategorilerde araçlar içerir
-
-## Kurulum
-
-**Yerel ortamda çalıştırma**
-
-```
-git clone https://github.com/BraveOPotato/FckSignups.git && \
-cd FckSignups && \
-npm install && \
-npm run dev
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-NoSignups projesinin sunduğu açık kaynaklı araç listesini kullanarak, kullanıcıdan kayıt veya e-posta talep etmeyen, gizlilik odaklı dijital hizmetleri listele. Bu araçların tasarım, geliştirme, üretkenlik ve veri analitiği gibi kategorilerde nasıl gruplandığını açıkla. Özellikle hesap oluşturma zorunluluğu olmayan alternatifleri bulma konusunda rehberlik et.
-
-- **Kimin için:** Kayıt formları ve veri takibi ile uğraşmadan doğrudan işlevsel araçlara ulaşmak isteyen kullanıcılar için uygundur. 
-- **Lisans:** GPL-3.0 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/BraveOPotato/FckSignups)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/fcksignups/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 

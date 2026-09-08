@@ -2,7 +2,7 @@
 
 FckSignups é uma lista que reúne ferramentas baseadas em navegador de código aberto que não exigem registro ou associação do usuário. Ela centraliza serviços digitais que desenvolvedores de software e usuários finais podem acessar rapidamente sem criar contas.
 
-- ★ 3.015
+- ★ 4.035
 - TypeScript
 - GitHub Trending · 2026-09-06
 

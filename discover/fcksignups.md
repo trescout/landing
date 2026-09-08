@@ -2,9 +2,12 @@
 
 FckSignups, kullanıcıdan kayıt veya üyelik talep etmeyen açık kaynaklı tarayıcı tabanlı araçları bir araya getiren bir liste. Yazılım geliştiricilerin ve son kullanıcıların hesap oluşturmadan hızlıca erişebileceği dijital hizmetleri merkezi bir kaynakta topluyor.
 
-- ★ 3.015
+- ★ 4.035
 - TypeScript
 - GitHub Trending · 2026-09-06
+
+## Güncelleme
+- 8 Eylül 2026: Yıldız 3.015 → 4.035.
 
 ## Ne kazandırır?
 - Kayıt veya e-posta zorunluluğu olmadan araçlara erişim sağlar

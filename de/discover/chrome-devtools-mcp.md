@@ -2,7 +2,7 @@
 
 Dieser für Chrome DevTools entwickelte Server ermöglicht es Codierungs-Agenten für künstliche Intelligenz, browserbasierte Debugging-Prozesse zu verwalten. Mithilfe des Model Context Protocol ermöglicht dieses Tool Agenten die direkte Inspektion von Webanwendungen und die Automatisierung von Debugging-Prozessen.
 
-- ★ 49.801
+- ★ 51.328
 - TypeScript
 - GitHub Trending · 2026-07-03
 

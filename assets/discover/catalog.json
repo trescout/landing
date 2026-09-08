@@ -5377,7 +5377,7 @@
     "slug": "aitoearn",
     "title": "AiToEarn",
     "tagline": "AiToEarn, kullanıcıların yapay zekâ destekli otomasyonlar aracılığıyla gelir elde etme süreçlerini yönetmelerini sağlayan bir…",
-    "meta": "★ 24.551 · TypeScript",
+    "meta": "★ 25.780 · TypeScript",
     "image": "/assets/discover/og/aitoearn.webp",
     "source": "GitHub",
     "date": "2026-06-08",
@@ -5385,7 +5385,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 24551,
+    "stars": 25780,
     "lite": false,
     "headline": "Yapay zekâ ile gelir yönetimi",
     "last_review": "2026-09-08",
@@ -5394,6 +5394,13 @@
         "tarih": "2026-08-02",
         "yildiz": 24551,
         "onceki_yildiz": 19145,
+        "surum": "v2.5.0",
+        "surum_tarihi": "2026-06-24"
+      },
+      {
+        "tarih": "2026-09-08",
+        "yildiz": 25780,
+        "onceki_yildiz": 24551,
         "surum": "v2.5.0",
         "surum_tarihi": "2026-06-24"
       }
@@ -9125,7 +9132,7 @@
     "slug": "kilocode",
     "title": "Kilocode",
     "tagline": "Kilo, yazılım geliştirme süreçlerini hızlandırmak amacıyla tasarlanmış hepsi bir arada ajan tabanlı mühendislik platformudur…",
-    "meta": "★ 27.191 · TypeScript",
+    "meta": "★ 27.223 · TypeScript",
     "image": "/assets/discover/og/kilocode.webp",
     "source": "GitHub",
     "date": "2026-06-19",
@@ -9133,7 +9140,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 27191,
+    "stars": 27223,
     "lite": false,
     "headline": "Çok yönlü yapay zekâ kodlama ajanı",
     "last_review": "2026-09-08",
@@ -9235,6 +9242,13 @@
         "onceki_yildiz": 27182,
         "surum": "v7.5.15",
         "surum_tarihi": "2026-09-06"
+      },
+      {
+        "tarih": "2026-09-08",
+        "yildiz": 27223,
+        "onceki_yildiz": 27191,
+        "surum": "v7.5.16",
+        "surum_tarihi": "2026-09-08"
       }
     ],
     "tagline_en": "Kilo is an all-in-one agent-based engineering platform designed to accelerate software development processes…",
@@ -13546,7 +13560,7 @@
     "slug": "chrome-devtools-mcp",
     "title": "Chrome Devtools MCP",
     "tagline": "Chrome Geliştirici Araçları (Chrome DevTools) için geliştirilen bu sunucu, kodlama yapan yapay zekâ ajanlarının (coding…",
-    "meta": "★ 49.801 · TypeScript",
+    "meta": "★ 51.328 · TypeScript",
     "image": "/assets/discover/og/chrome-devtools-mcp.webp",
     "source": "GitHub",
     "date": "2026-07-03",
@@ -13554,7 +13568,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 49801,
+    "stars": 51328,
     "lite": false,
     "headline": "Yapay zekâ için tarayıcı hata ayıklama",
     "last_review": "2026-09-08",
@@ -13579,6 +13593,13 @@
         "onceki_yildiz": 48884,
         "surum": "chrome-devtools-mcp-v1.8.0",
         "surum_tarihi": "2026-08-25"
+      },
+      {
+        "tarih": "2026-09-08",
+        "yildiz": 51328,
+        "onceki_yildiz": 49801,
+        "surum": "chrome-devtools-mcp-v1.9.0",
+        "surum_tarihi": "2026-09-08"
       }
     ],
     "tagline_en": "This server, developed for Chrome DevTools, allows coding artificial intelligence agents (coding…",
@@ -16429,7 +16450,7 @@
     "slug": "next-ai-draw-io",
     "title": "Next AI Draw IO",
     "tagline": "Next.js tabanlı bu uygulama, diyagram oluşturma aracı draw.io ile üretken yapay zekâ (generative AI) yeteneklerini birleştiriyor.",
-    "meta": "★ 33.999 · TypeScript",
+    "meta": "★ 35.699 · TypeScript",
     "image": "/assets/discover/og/next-ai-draw-io.webp",
     "source": "GitHub",
     "date": "2026-07-12",
@@ -16437,7 +16458,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 33999,
+    "stars": 35699,
     "lite": false,
     "headline": "Yapay zekâ ile otomatik diyagram oluşturma",
     "last_review": "2026-09-08",
@@ -16446,6 +16467,13 @@
         "tarih": "2026-08-02",
         "yildiz": 33999,
         "onceki_yildiz": 33359,
+        "surum": "v0.4.16",
+        "surum_tarihi": "2026-05-21"
+      },
+      {
+        "tarih": "2026-09-08",
+        "yildiz": 35699,
+        "onceki_yildiz": 33999,
         "surum": "v0.4.16",
         "surum_tarihi": "2026-05-21"
       }
@@ -30324,14 +30352,14 @@
     "slug": "fcksignups",
     "title": "FckSignups",
     "tagline": "FckSignups, kullanıcıdan kayıt veya üyelik talep etmeyen açık kaynaklı tarayıcı tabanlı araçları bir araya getiren bir liste.",
-    "meta": "★ 3.015 · TypeScript",
+    "meta": "★ 4.035 · TypeScript",
     "image": "/assets/discover/og/fcksignups.webp",
     "source": "GitHub",
     "date": "2026-09-06",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 3015,
+    "stars": 4035,
     "summary": "FckSignups, kullanıcıdan kayıt veya üyelik talep etmeyen açık kaynaklı tarayıcı tabanlı araçları bir araya getiren bir liste. Yazılım geliştiricilerin ve son kullanıcıların hesap oluşturmadan hızlıca erişebileceği dijital hizmetleri merkezi bir kaynakta topluyor.",
     "lite": false,
     "headline": "Üyelik gerektirmeyen açık kaynaklı araçlar",
@@ -30341,7 +30369,14 @@
     "tagline_pt": "FckSignups é uma lista que reúne ferramentas de código aberto baseadas em navegador que não exigem registro ou associação do usuário.",
     "tagline_es": "FckSignups es una lista que reúne herramientas basadas en navegador de código abierto que no requieren registro ni suscripción por parte del usuario.",
     "tagline_de": "FckSignups ist eine Liste, die Open-Source-browserbasierte Tools zusammenstellt, die keine Registrierung oder Mitgliedschaft vom Benutzer erfordern.",
-    "last_seen": "2026-09-08"
+    "last_seen": "2026-09-08",
+    "guncellemeler": [
+      {
+        "tarih": "2026-09-08",
+        "yildiz": 4035,
+        "onceki_yildiz": 3015
+      }
+    ]
   },
   {
     "slug": "everything-claude-code",
@@ -30555,7 +30590,8 @@
     "tagline_fr": "Context-mode est un outil qui permet l'optimisation de la fenêtre de contexte pour les agents de codage par intelligence artificielle...",
     "tagline_pt": "Context-mode é uma ferramenta que fornece otimização da janela de contexto para agentes de codificação de inteligência artificial...",
     "tagline_es": "Context-mode es una herramienta que proporciona optimización de la ventana de contexto para agentes de codificación de inteligencia artificial...",
-    "tagline_de": "Context-mode ist ein Tool, das eine Optimierung des Kontextfensters (context window optimization) für KI-Codierungs-Agenten bietet..."
+    "tagline_de": "Context-mode ist ein Tool, das eine Optimierung des Kontextfensters (context window optimization) für KI-Codierungs-Agenten bietet...",
+    "last_seen": "2026-09-08"
   },
   {
     "slug": "camofox-browser",
@@ -30587,7 +30623,8 @@
     "tagline_fr": "Camofox est un navigateur furtif qui permet aux agents d'intelligence artificielle de contourner les systèmes de détection de bots et les blocages de web scraping...",
     "tagline_pt": "Camofox é um navegador furtivo que permite que agentes de inteligência artificial contornem sistemas de detecção de bots e bloqueios de web scraping...",
     "tagline_es": "Camofox es un navegador sigiloso que permite a los agentes de inteligencia artificial superar los sistemas de detección de bots y las barreras de web scraping...",
-    "tagline_de": "Camofox ist ein Stealth-Browser, der es KI-Agenten ermöglicht, Bot-Erkennungssysteme und Web-Scraping-Blockaden zu umgehen..."
+    "tagline_de": "Camofox ist ein Stealth-Browser, der es KI-Agenten ermöglicht, Bot-Erkennungssysteme und Web-Scraping-Blockaden zu umgehen...",
+    "last_seen": "2026-09-08"
   },
   {
     "slug": "lunatv",
@@ -30620,7 +30657,8 @@
     "tagline_fr": "LunaTV est un projet développé avec le langage TypeScript qui propose une interface de visualisation multimédia open source.",
     "tagline_pt": "LunaTV é um projeto desenvolvido com a linguagem TypeScript que oferece uma interface de visualização de mídia de código aberto.",
     "tagline_es": "LunaTV es un proyecto desarrollado con el lenguaje TypeScript que ofrece una interfaz de visualización de medios de código abierto.",
-    "tagline_de": "LunaTV ist ein Projekt, das mit der Sprache TypeScript entwickelt wurde und eine Open-Source-Schnittstelle zur Medienwiedergabe bietet."
+    "tagline_de": "LunaTV ist ein Projekt, das mit der Sprache TypeScript entwickelt wurde und eine Open-Source-Schnittstelle zur Medienwiedergabe bietet.",
+    "last_seen": "2026-09-08"
   },
   {
     "slug": "browser",
@@ -30652,6 +30690,7 @@
     "tagline_fr": "Lightpanda est un navigateur headless écrit en langage Zig, spécialement conçu pour les processus d'intelligence artificielle et d'automatisation...",
     "tagline_pt": "Lightpanda é um navegador headless escrito na linguagem Zig, desenvolvido especificamente para processos de inteligência artificial e automação...",
     "tagline_es": "Lightpanda es un navegador headless escrito en el lenguaje Zig, desarrollado específicamente para procesos de inteligencia artificial y automatización...",
-    "tagline_de": "Lightpanda ist ein in der Sprache Zig geschriebener Headless-Browser, der speziell für KI- und Automatisierungsprozesse entwickelt wurde..."
+    "tagline_de": "Lightpanda ist ein in der Sprache Zig geschriebener Headless-Browser, der speziell für KI- und Automatisierungsprozesse entwickelt wurde...",
+    "last_seen": "2026-09-08"
   }
 ]

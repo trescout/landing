@@ -2,7 +2,7 @@
 
 Desarrollado para Chrome DevTools, este servidor permite codificar agentes de inteligencia artificial para gestionar procesos de depuración basados en el navegador. Trabajando a través del Protocolo de contexto modelo, esta herramienta permite a los agentes inspeccionar directamente aplicaciones web y automatizar procesos de depuración.
 
-- ★ 49.801
+- ★ 51.328
 - TypeScript
 - GitHub Trending · 2026-07-03
 
