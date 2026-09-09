@@ -1,0 +1,1002 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-09",
+  "capturedAt": "2026-09-09T08:39:06.683Z",
+  "editorial": "Aujourd'hui, dans la littérature technique, alors que la dynamique des fluides (fluid dynamics) repousse les limites théoriques, le monde de l'open source voit apparaître des modèles de langage compacts (compact language models) avec de nouvelles versions axées sur l'efficacité. Les données de GitHub et de Hacker News montrent que la quête de profondeur technique se poursuit dans un large éventail de domaines, allant des défis pratiques de l'ingénierie matérielle aux problèmes mathématiques complexes.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "summary": "i-have-adhd est une bibliothèque Python optimisée pour les utilisateurs souffrant de trouble du déficit de l'attention avec ou sans hyperactivité (TDAH), qui facilite la concentration en simplifiant les réponses complexes et longues des agents de développement logiciel. Cet outil vise à réduire la surcharge informationnelle en transformant les sorties techniques générées par les agents en réponses plus courtes et directes.",
+          "meta": "Python · ★ 32 021 · +656 aujourd'hui",
+          "snapshot": {
+            "sourceId": "ayghri/i-have-adhd",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 32021,
+              "engagementCount": 656,
+              "rank": 1,
+              "extra": {
+                "starsToday": 656
+              }
+            }
+          }
+        },
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "Diagram-design propose 38 modèles de diagrammes éditoriaux différents, spécialement conçus pour les outils de codage par intelligence artificielle (Claude Code, Codex, Pi). Dépouillés des effets d'ombre pour réduire la confusion visuelle, ces designs basés sur HTML et SVG offrent une méthode de visualisation alternative aux outils de diagrammes standards.",
+          "meta": "HTML · ★ 35 718 · +710 aujourd'hui",
+          "snapshot": {
+            "sourceId": "cathrynlavery/diagram-design",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 35718,
+              "engagementCount": 710,
+              "rank": 2,
+              "extra": {
+                "starsToday": 710
+              }
+            }
+          }
+        },
+        {
+          "title": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "summary": "Skills, partagé par OpenAI, est une bibliothèque de capacités fonctionnelles (skills) définies pour le modèle de codage Codex. Elle offre une structure permettant aux développeurs de doter les modèles d'intelligence artificielle de la compétence nécessaire pour accomplir des tâches spécifiques.",
+          "meta": "Python · ★ 26 692 · +490 aujourd'hui",
+          "snapshot": {
+            "sourceId": "openai/skills",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 26692,
+              "engagementCount": 490,
+              "rank": 3,
+              "extra": {
+                "starsToday": 490
+              }
+            }
+          }
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC est un système de gestion de performance qui optimise les couches de compétences, de mémoire et de sécurité pour les agents d'intelligence artificielle. Il vise à accroître l'efficacité opérationnelle de systèmes tels que l'outil d'édition de code Cursor et les plateformes de codage assistées par IA (Claude Code, Codex).",
+          "meta": "JavaScript · ★ 254 637 · +1 427 aujourd'hui",
+          "snapshot": {
+            "sourceId": "affaan-m/ECC",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 254637,
+              "engagementCount": 1427,
+              "rank": 4,
+              "extra": {
+                "starsToday": 1427
+              }
+            }
+          }
+        },
+        {
+          "title": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "summary": "Hyperframes, développé par Heygen, est une bibliothèque qui convertit directement le code HTML en vidéo. Elle facilite la production de contenu dynamique et visuel par les développeurs de logiciels pour les agents d'intelligence artificielle (AI agents).",
+          "meta": "TypeScript · ★ 48 105 · +2 627 aujourd'hui",
+          "snapshot": {
+            "sourceId": "heygen-com/hyperframes",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 48105,
+              "engagementCount": 2627,
+              "rank": 5,
+              "extra": {
+                "starsToday": 2627
+              }
+            }
+          }
+        },
+        {
+          "title": "coreyhaines31/marketingskills",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "summary": "Marketingskills propose des packs de compétences spécialisés pour Claude Code et les agents d'intelligence artificielle (AI agents) dans des domaines tels que l'optimisation du taux de conversion, le copywriting, l'optimisation pour les moteurs de recherche (SEO) et l'analyse de données. Cette bibliothèque basée sur JavaScript fournit des flux de travail prêts à l'emploi pour les développeurs souhaitant automatiser leurs processus de marketing numérique.",
+          "meta": "JavaScript · ★ 49 055 · +666 aujourd'hui",
+          "snapshot": {
+            "sourceId": "coreyhaines31/marketingskills",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 49055,
+              "engagementCount": 666,
+              "rank": 6,
+              "extra": {
+                "starsToday": 666
+              }
+            }
+          }
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers propose un cadre de compétences (agentic skills framework) et une méthodologie de développement logiciel pour les agents d'intelligence artificielle. Cet outil permet aux développeurs de standardiser leurs flux de travail lors de la création de systèmes basés sur des agents.",
+          "meta": "Shell · ★ 283 601 · +452 aujourd'hui",
+          "snapshot": {
+            "sourceId": "obra/superpowers",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 283601,
+              "engagementCount": 452,
+              "rank": 7,
+              "extra": {
+                "starsToday": 452
+              }
+            }
+          }
+        },
+        {
+          "title": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "summary": "Basé sur les observations d'Andrej Karpathy concernant les erreurs de codage des grands modèles de langage (LLM), ce projet propose un fichier d'instructions structuré pour améliorer les performances de l'outil de codage assisté par IA, Claude Code. En utilisant ce fichier, les développeurs permettent à l'IA de réduire les erreurs courantes dans les processus d'écriture de code et de produire des résultats plus cohérents.",
+          "meta": "★ 211 683 · +333 aujourd'hui",
+          "snapshot": {
+            "sourceId": "multica-ai/andrej-karpathy-skills",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "popularity": 211683,
+              "engagementCount": 333,
+              "rank": 8,
+              "extra": {
+                "starsToday": 333
+              }
+            }
+          }
+        },
+        {
+          "title": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "summary": "MarkItDown, développé par Microsoft, est un outil Python qui convertit divers formats de fichiers et documents bureautiques au format Markdown. Le logiciel accélère les processus de préparation des données en transformant des structures de fichiers complexes en un format textuel facilement traitable par les modèles d'intelligence artificielle.",
+          "meta": "Python · ★ 181 988 · +2 047 aujourd'hui",
+          "snapshot": {
+            "sourceId": "microsoft/markitdown",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 181988,
+              "engagementCount": 2047,
+              "rank": 9,
+              "extra": {
+                "starsToday": 2047
+              }
+            }
+          }
+        },
+        {
+          "title": "jo-inc/camofox-browser",
+          "url": "https://github.com/jo-inc/camofox-browser",
+          "summary": "Camofox est un navigateur furtif (headless browser) qui permet aux agents d'intelligence artificielle de contourner la détection de bots et les obstacles liés au web scraping. Il fonctionne en compatibilité avec les bibliothèques d'automatisation Puppeteer et Playwright, désactivant ainsi les systèmes de protection tels que Cloudflare.",
+          "meta": "JavaScript · ★ 10 734 · +871 aujourd'hui",
+          "snapshot": {
+            "sourceId": "jo-inc/camofox-browser",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 10734,
+              "engagementCount": 871,
+              "rank": 10,
+              "extra": {
+                "starsToday": 871
+              }
+            }
+          }
+        },
+        {
+          "title": "MoonTechLab/LunaTV",
+          "url": "https://github.com/MoonTechLab/LunaTV",
+          "summary": "Développé avec le langage TypeScript, LunaTV est un lecteur multimédia open source qui permet de regarder des émissions de télévision via Internet. Le projet offre une interface qui facilite l'accès des utilisateurs aux contenus numériques.",
+          "meta": "TypeScript · ★ 10 341 · +505 aujourd'hui",
+          "snapshot": {
+            "sourceId": "MoonTechLab/LunaTV",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 10341,
+              "engagementCount": 505,
+              "rank": 11,
+              "extra": {
+                "starsToday": 505
+              }
+            }
+          }
+        },
+        {
+          "title": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "summary": "La bibliothèque Python browser-use permet aux agents d'intelligence artificielle d'utiliser les navigateurs web comme des humains. Cet outil est conçu pour automatiser des tâches complexes telles que la navigation sur les pages web et l'interaction avec celles-ci.",
+          "meta": "Python · ★ 113 802 · +228 aujourd'hui",
+          "snapshot": {
+            "sourceId": "browser-use/browser-use",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 113802,
+              "engagementCount": 228,
+              "rank": 12,
+              "extra": {
+                "starsToday": 228
+              }
+            }
+          }
+        },
+        {
+          "title": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "summary": "Context-mode est un outil qui assure l'optimisation de la fenêtre de contexte pour les agents de codage en intelligence artificielle. Il réduit la taille des données de 98 % en isolant les sorties des outils, préserve la mémoire de session et effectue le routage via 17 plateformes différentes grâce au Model Context Protocol.",
+          "meta": "TypeScript · ★ 21 546 · +651 aujourd'hui",
+          "snapshot": {
+            "sourceId": "mksglu/context-mode",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 21546,
+              "engagementCount": 651,
+              "rank": 13,
+              "extra": {
+                "starsToday": 651
+              }
+            }
+          }
+        },
+        {
+          "title": "The-Swarm-Corporation/AutoHedge",
+          "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+          "summary": "AutoHedge est un outil d'investissement qui utilise l'intelligence en essaim (swarm intelligence) et des agents d'intelligence artificielle pour automatiser l'analyse de marché, la gestion des risques et les processus d'exécution des transactions. Il permet aux utilisateurs de créer leurs propres fonds spéculatifs autonomes (autonomous hedge fund) en quelques minutes.",
+          "meta": "Python · ★ 5 863 · +494 aujourd'hui",
+          "snapshot": {
+            "sourceId": "The-Swarm-Corporation/AutoHedge",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 5863,
+              "engagementCount": 494,
+              "rank": 14,
+              "extra": {
+                "starsToday": 494
+              }
+            }
+          }
+        },
+        {
+          "title": "liquidslr/system-design-notes",
+          "url": "https://github.com/liquidslr/system-design-notes",
+          "summary": "Les notes compilées à partir du guide de préparation aux entretiens de conception de systèmes (System Design Interview - An Insider's Guide) offrent une ressource complète pour comprendre les architectures logicielles complexes. Il explique les processus de conception de systèmes évolutifs (system design) et les principes fondamentaux de l'ingénierie avec des exemples pratiques.",
+          "meta": "★ 17 273 · +910 aujourd'hui",
+          "snapshot": {
+            "sourceId": "liquidslr/system-design-notes",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "popularity": 17273,
+              "engagementCount": 910,
+              "rank": 15,
+              "extra": {
+                "starsToday": 910
+              }
+            }
+          }
+        },
+        {
+          "title": "viarotel-org/escrcpy",
+          "url": "https://github.com/viarotel-org/escrcpy",
+          "summary": "Escrcpy est un outil qui permet d'afficher et de contrôler des appareils Android depuis un ordinateur via une interface graphique. Il offre une interface visuelle pour le logiciel open source scrcpy, qui projette l'écran Android sur l'ordinateur.",
+          "meta": "JavaScript · ★ 11 562 · +178 aujourd'hui",
+          "snapshot": {
+            "sourceId": "viarotel-org/escrcpy",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 11562,
+              "engagementCount": 178,
+              "rank": 16,
+              "extra": {
+                "starsToday": 178
+              }
+            }
+          }
+        },
+        {
+          "title": "openai/plugins",
+          "url": "https://github.com/openai/plugins",
+          "summary": "Les plugins proposés par OpenAI permettent aux modèles d'intelligence artificielle d'accéder à des données en temps réel et d'interagir avec des services externes. Cette structure permet aux modèles de langage d'accéder à des informations à jour et d'effectuer des opérations sur des applications tierces au nom de l'utilisateur.",
+          "meta": "JavaScript · ★ 5 994 · +105 aujourd'hui",
+          "snapshot": {
+            "sourceId": "openai/plugins",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 5994,
+              "engagementCount": 105,
+              "rank": 17,
+              "extra": {
+                "starsToday": 105
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+          "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+          "summary": "Le mathématicien Tristan Buckmaster propose une nouvelle approche de résolution pour les équations de Navier-Stokes, qui constituent le fondement de la dynamique des fluides. Ces travaux apportent une contribution théorique à la résolution d'équations différentielles complexes utilisées pour prédire le comportement des systèmes physiques.",
+          "meta": "1 619 votes · 684 commentaires",
+          "snapshot": {
+            "sourceId": "49605915",
+            "capturedAt": "2026-09-09T08:39:06.935Z",
+            "metadata": {
+              "popularity": 1619,
+              "engagementCount": 684,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49605915",
+                  "popularity": 1619,
+                  "engagementCount": 684
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "procedurecall",
+                "createdAt": "2026-09-08T05:42:28Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49605915"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49605915",
+              "popularity": 1619,
+              "engagementCount": 684
+            }
+          ]
+        },
+        {
+          "title": "On the Navier–Stokes Millennium Prize Problem",
+          "url": "https://openai.com/index/navier-stokes-solution/",
+          "summary": "OpenAI a partagé une proposition de solution mathématique pour les équations de Navier-Stokes, qui forment la base de la dynamique des fluides. La résolution de ces équations physiques complexes, qui figurent parmi les problèmes du prix du millénaire, représente une étape critique dans la modélisation des écoulements turbulents.",
+          "meta": "1 253 votes · 995 commentaires",
+          "snapshot": {
+            "sourceId": "49613262",
+            "capturedAt": "2026-09-09T08:39:06.935Z",
+            "metadata": {
+              "popularity": 1253,
+              "engagementCount": 995,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49613262",
+                  "popularity": 1253,
+                  "engagementCount": 995
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "tedsanders",
+                "createdAt": "2026-09-08T17:13:21Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49613262"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49613262",
+              "popularity": 1253,
+              "engagementCount": 995
+            }
+          ]
+        },
+        {
+          "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+          "summary": "AlphaGenome Atlas, développé par Google DeepMind, est un outil de cartographie haute résolution qui prédit les effets des variants dans le génome humain. Ce modèle propose des prédictions assistées par intelligence artificielle pour comprendre les conséquences biologiques des mutations génétiques.",
+          "meta": "554 votes · 118 commentaires",
+          "snapshot": {
+            "sourceId": "49611251",
+            "capturedAt": "2026-09-09T08:39:06.935Z",
+            "metadata": {
+              "popularity": 554,
+              "engagementCount": 118,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49611251",
+                  "popularity": 554,
+                  "engagementCount": 118
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "utiiiD",
+                "createdAt": "2026-09-08T14:55:45Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49611251"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49611251",
+              "popularity": 554,
+              "engagementCount": 118
+            }
+          ]
+        },
+        {
+          "title": "I resigned from Anthropic today",
+          "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
+          "summary": "La démission d'un ingénieur de la société de recherche en intelligence artificielle Anthropic a déclenché des débats sur les processus de développement axés sur la sécurité et les pratiques de gouvernance d'entreprise dans le secteur. Ce départ a remis à l'ordre du jour les attentes en matière de transparence concernant le fonctionnement interne des organisations développant de grands modèles de langage (large language models).",
+          "meta": "535 votes · 687 commentaires",
+          "snapshot": {
+            "sourceId": "49619227",
+            "capturedAt": "2026-09-09T08:39:06.935Z",
+            "metadata": {
+              "popularity": 535,
+              "engagementCount": 687,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49619227",
+                  "popularity": 535,
+                  "engagementCount": 687
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "yurivish",
+                "createdAt": "2026-09-09T00:40:40Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49619227"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49619227",
+              "popularity": 535,
+              "engagementCount": 687
+            }
+          ]
+        },
+        {
+          "title": "We built our house for LAN parties (2024)",
+          "url": "https://lanparty.house/",
+          "summary": "Des passionnés de technologie ont construit une résidence spécialement conçue et optimisée pour les jeux en réseau local (LAN parties). Ce projet concrétise le concept d'espace de vie axé sur le jeu grâce à une infrastructure réseau à haut débit et des aménagements d'espace physique adaptés aux configurations multijoueurs.",
+          "meta": "507 votes · 327 commentaires",
+          "snapshot": {
+            "sourceId": "49579443",
+            "capturedAt": "2026-09-09T08:39:06.935Z",
+            "metadata": {
+              "popularity": 507,
+              "engagementCount": 327,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49579443",
+                  "popularity": 507,
+                  "engagementCount": 327
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "fittingopposite",
+                "createdAt": "2026-09-05T18:44:40Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49579443"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49579443",
+              "popularity": 507,
+              "engagementCount": 327
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "XHToken/Spark-X2.5-4B",
+          "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+          "summary": "Spark-X2.5-4B, publié sur HuggingFace, est un modèle de langage compact axé sur la génération de texte (text generation). Visant à offrir des réponses rapides avec un faible nombre de paramètres, ce modèle fournit aux développeurs une solution d'intelligence artificielle économe en ressources.",
+          "meta": "♥ 939 · 10 661 téléchargements",
+          "snapshot": {
+            "sourceId": "XHToken/Spark-X2.5-4B",
+            "capturedAt": "2026-09-09T08:39:06.862Z",
+            "metadata": {
+              "popularity": 939,
+              "engagementCount": 10661,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 715,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "spark2_5",
+                  "text-generation",
+                  "llm",
+                  "sparkx2_5",
+                  "conversational",
+                  "custom_code",
+                  "base_model:XHToken/Spark-X2.5-4B-Base",
+                  "base_model:finetune:XHToken/Spark-X2.5-4B-Base",
+                  "license:apache-2.0",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "openbmb/MiniCPM5-2B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+          "summary": "MiniCPM5-2B, développé par OpenBMB, est un modèle de génération de texte (text-generation model) visant à offrir des performances élevées avec de faibles ressources matérielles. Malgré sa petite taille, ce modèle d'intelligence artificielle capable d'effectuer des tâches complexes est optimisé pour être exécuté sur des appareils de périphérie (edge devices).",
+          "meta": "♥ 778 · 2 879 téléchargements",
+          "snapshot": {
+            "sourceId": "openbmb/MiniCPM5-2B",
+            "capturedAt": "2026-09-09T08:39:06.862Z",
+            "metadata": {
+              "popularity": 778,
+              "engagementCount": 2879,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 629,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "llama",
+                  "text-generation",
+                  "minicpm",
+                  "minicpm5",
+                  "long-context",
+                  "tool-calling",
+                  "on-device",
+                  "edge-ai",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "dataset:openbmb/Ultra-FineWeb",
+                  "dataset:openbmb/UltraX-Preview",
+                  "dataset:openbmb/Ultra-FineWeb-L3",
+                  "dataset:openbmb/UltraData-Math",
+                  "dataset:openbmb/UltraData-Code",
+                  "dataset:openbmb/UltraData-SFT-2605",
+                  "dataset:openbmb/UltraData-SFT-Agent-2609",
+                  "dataset:openbmb/UltraData-RL-2609",
+                  "arxiv:2506.07900",
+                  "arxiv:2602.09003",
+                  "license:apache-2.0",
+                  "text-generation-inference",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Qwen2.5-VL, développé par Alibaba, est un modèle d'intelligence artificielle multimodal capable de traiter des données visuelles et textuelles. Analysant des images complexes pour générer des réponses textuelles, ce modèle attire une large base d'utilisateurs sur la plateforme d'intelligence artificielle open source Hugging Face.",
+          "meta": "♥ 14 434 · 6 712 160 téléchargements",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-27B",
+            "capturedAt": "2026-09-09T08:39:06.862Z",
+            "metadata": {
+              "popularity": 14434,
+              "engagementCount": 6712160,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 536,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "deploy:azure",
+                  "deploy:sagemaker",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+          "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+          "summary": "Qwen3.8-27B-GSQ-RCO-GGUF, développé par ISTA-DASLab, est un modèle d'intelligence artificielle qui traite des données visuelles et textuelles pour produire une sortie textuelle. Le modèle facilite l'exécution sur du matériel local en utilisant des techniques de quantification, une méthode de compression pour les modèles de langage haute performance.",
+          "meta": "♥ 682 · 479 597 téléchargements",
+          "snapshot": {
+            "sourceId": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+            "capturedAt": "2026-09-09T08:39:06.862Z",
+            "metadata": {
+              "popularity": 682,
+              "engagementCount": 479597,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 525,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "gguf",
+                  "gsq",
+                  "rco",
+                  "quantization",
+                  "mixed-precision",
+                  "ist-daslab",
+                  "multimodal",
+                  "vision",
+                  "image-text-to-text",
+                  "arxiv:2604.18556",
+                  "arxiv:2605.00649",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:quantized:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "imatrix",
+                  "conversational"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "google/timesfm-3.0-pytorch",
+          "url": "https://huggingface.co/google/timesfm-3.0-pytorch",
+          "summary": "TimesFM 3.0, développé par Google, est un grand modèle de base entraîné pour les opérations de prévision de séries temporelles (time-series forecasting). En apprenant les modèles complexes dans les ensembles de données, il offre des prévisions futures de haute précision pour des données temporelles dans divers secteurs.",
+          "meta": "♥ 660 · 444 052 téléchargements",
+          "snapshot": {
+            "sourceId": "google/timesfm-3.0-pytorch",
+            "capturedAt": "2026-09-09T08:39:06.862Z",
+            "metadata": {
+              "popularity": 660,
+              "engagementCount": 444052,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 371,
+                "pipelineTag": "time-series-forecasting",
+                "tags": [
+                  "safetensors",
+                  "time-series",
+                  "forecasting",
+                  "pretrained",
+                  "pytorch",
+                  "google",
+                  "time-series-forecasting",
+                  "arxiv:2310.10688",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation",
+          "url": "https://huggingface.co/papers/2609.08084",
+          "summary": "Marigold V2 restructure les modèles de génération d'images couramment utilisés pour résoudre les problèmes de netteté et de généralisation des modèles d'estimation de profondeur monoculaire (monocular depth estimation). Tirant parti de l'architecture des transformateurs de diffusion (diffusion transformers), cette méthode permet d'obtenir des cartes de profondeur plus détaillées dans des domaines tels que la robotique et la création de scènes.",
+          "meta": "4 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.08084",
+            "capturedAt": "2026-09-09T08:39:07.080Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.08084",
+                "publishedAt": "2026-09-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/huawei-bayerlab/marigold-v2"
+              }
+            }
+          }
+        },
+        {
+          "title": "RelightFormer: Feed-forward Generative Transformer for Multiview Object Relighting",
+          "url": "https://huggingface.co/papers/2609.07414",
+          "summary": "RelightFormer est un modèle de transformateur génératif (generative Transformer) qui effectue directement des opérations d'éclairage d'objets sans processus complexes de rendu inverse (inverse rendering). Adaptée à partir de modèles de base vidéo (video foundation models), cette structure réorganise l'éclairage tout en préservant la géométrie tridimensionnelle dans des données d'images simples ou multiples.",
+          "meta": "1 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.07414",
+            "capturedAt": "2026-09-09T08:39:07.080Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.07414",
+                "publishedAt": "2026-09-07T00:00:00.000Z",
+                "githubRepo": "https://github.com/vLAR-group/RelightFormer"
+              }
+            }
+          }
+        },
+        {
+          "title": "Harnessing CLIP and DINO: An Uncertainty-Aware Cascaded Fusion Network for Generalizable Deepfake Image Detection",
+          "url": "https://huggingface.co/papers/2609.07670",
+          "summary": "UCF-Net est une structure de réseau qui combine des modèles de base visuels (vision foundation models) tels que CLIP et DINO pour détecter les fausses images générées par l'intelligence artificielle. Cette méthode, consciente de l'incertitude, vise à offrir une plus grande précision contre différents types de faux contenus en empêchant le surapprentissage (overfitting) du modèle sur des ensembles de données spécifiques.",
+          "meta": "1 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.07670",
+            "capturedAt": "2026-09-09T08:39:07.080Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.07670",
+                "publishedAt": "2026-09-07T00:00:00.000Z",
+                "githubRepo": "https://github.com/XavierJiezou/UCF-Net",
+                "githubStars": 3
+              }
+            }
+          }
+        },
+        {
+          "title": "Encoded Early, Used Late: Where Transformers Begin to Act on an Inferred Partner's Expertise",
+          "url": "https://huggingface.co/papers/2609.07139",
+          "summary": "Il a été constaté que les modèles de transformateurs (transformer) encodent des informations inférentielles, telles que le niveau d'expertise de l'interlocuteur dans un dialogue, dans leurs couches de représentation internes avant même que ces données ne soient reflétées dans la sortie. Cette découverte montre qu'il existe un décalage temporel entre le processus de traitement de l'information par les modèles d'intelligence artificielle et l'étape de son utilisation.",
+          "meta": "9 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.07139",
+            "capturedAt": "2026-09-09T08:39:07.080Z",
+            "metadata": {
+              "popularity": 9,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.07139",
+                "publishedAt": "2026-09-07T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Cadence: Error-Bounded Lossy Compression of Demand Time Series with a Time-Series Foundation Model",
+          "url": "https://huggingface.co/papers/2609.06008",
+          "summary": "Cadence combine le modèle de base de séries temporelles (time-series foundation model) TimesFM-3 développé par Google avec un codeur arithmétique adaptatif pour compresser les données numériques dans les limites de la marge d'erreur. Cette méthode utilise la précision de la prévision pour réduire les ensembles de données de manière avec perte (lossy) et offre une efficacité de compression supérieure à celle des prédicteurs linéaires traditionnels.",
+          "meta": "8 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.06008",
+            "capturedAt": "2026-09-09T08:39:07.080Z",
+            "metadata": {
+              "popularity": 8,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.06008",
+                "publishedAt": "2026-09-05T00:00:00.000Z",
+                "githubRepo": "https://github.com/robtacconelli/Cadence",
+                "githubStars": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "How to build a f**king printer",
+          "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+          "summary": "Le guide préparé par Nishant Joshi explique étape par étape le processus de développement d'une imprimante (printer) à partir de zéro en utilisant la conception matérielle et l'intégration logicielle. Le projet montre comment assembler les composants mécaniques de base et comment écrire les pilotes logiciels nécessaires pour que l'appareil transforme les commandes numériques en impression physique.",
+          "meta": "49 votes · 8 commentaires",
+          "snapshot": {
+            "sourceId": "pxreik",
+            "capturedAt": "2026-09-09T08:39:07.139Z",
+            "metadata": {
+              "popularity": 49,
+              "engagementCount": 8,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/pxreik/how_build_f_king_printer",
+                  "popularity": 49,
+                  "engagementCount": 8
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "c++",
+                  "hardware",
+                  "networking"
+                ],
+                "createdAt": "2026-09-08T16:39:21.263-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/pxreik/how_build_f_king_printer",
+              "popularity": 49,
+              "engagementCount": 8
+            }
+          ]
+        },
+        {
+          "title": "What makes $BigTechCompany's products bad, anyway?",
+          "url": "https://herecomesthemoon.net/2026/09/why-is-big-tech-bad/",
+          "summary": "La baisse de l'expérience utilisateur dans les produits proposés par les grandes entreprises technologiques s'explique par la complexification des logiciels et le fait que les objectifs commerciaux passent avant les besoins des utilisateurs. Cette situation entraîne une perte de fonctionnalité des produits et rend difficile la satisfaction des attentes fondamentales des utilisateurs.",
+          "meta": "23 votes · 23 commentaires",
+          "snapshot": {
+            "sourceId": "wlcg5w",
+            "capturedAt": "2026-09-09T08:39:07.139Z",
+            "metadata": {
+              "popularity": 23,
+              "engagementCount": 23,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/wlcg5w/what_makes_bigtechcompany_s_products_bad",
+                  "popularity": 23,
+                  "engagementCount": 23
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "finance"
+                ],
+                "createdAt": "2026-09-08T16:05:31.949-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/wlcg5w/what_makes_bigtechcompany_s_products_bad",
+              "popularity": 23,
+              "engagementCount": 23
+            }
+          ]
+        },
+        {
+          "title": "Switching Password Managers in 2026",
+          "url": "https://rmondello.com/2026/09/07/switching-password-managers-2026/",
+          "summary": "Le processus d'exportation sécurisée des données et de transfert vers un nouveau système lors du changement de gestionnaires de mots de passe présente des défis techniques pour les utilisateurs. En particulier, la compatibilité des formats de données et la préservation des protocoles de sécurité figurent parmi les éléments fondamentaux auxquels les utilisateurs souhaitant changer d'outils de gestion de mots de passe (password management) doivent prêter attention.",
+          "meta": "72 votes · 31 commentaires",
+          "snapshot": {
+            "sourceId": "ikzvtv",
+            "capturedAt": "2026-09-09T08:39:07.139Z",
+            "metadata": {
+              "popularity": 72,
+              "engagementCount": 31,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/ikzvtv/switching_password_managers_2026",
+                  "popularity": 72,
+                  "engagementCount": 31
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "practices",
+                  "security"
+                ],
+                "createdAt": "2026-09-08T08:55:09.220-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ikzvtv/switching_password_managers_2026",
+              "popularity": 72,
+              "engagementCount": 31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "ADHD",
+      "explanation": "Une condition neurologique qui affecte la façon dont le cerveau gère la concentration, le contrôle des impulsions et l'activité motrice."
+    },
+    {
+      "term": "skills",
+      "explanation": "L'ensemble des connaissances, de la pratique et des compétences nécessaires pour accomplir une tâche."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Logiciels intelligents capables d'utiliser des outils pour prendre des décisions de manière autonome et atteindre des objectifs."
+    },
+    {
+      "term": "SEO",
+      "explanation": "Optimisations effectuées pour que les sites web apparaissent plus haut dans les résultats des moteurs de recherche."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "Cadre structurel définissant les capacités dont les intelligences artificielles ont besoin pour accomplir des tâches complexes."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Modèles de langage avancés entraînés sur d'énormes quantités de données textuelles, capables de générer des réponses semblables à celles d'un humain."
+    },
+    {
+      "term": "Markdown",
+      "explanation": "Un langage de balisage simple qui vous permet de formater vos textes en utilisant uniquement des caractères en texte brut."
+    },
+    {
+      "term": "headless browser",
+      "explanation": "Un navigateur sans interface visuelle, capable de charger et de traiter des pages web en arrière-plan."
+    },
+    {
+      "term": "context window optimization",
+      "explanation": "Techniques permettant à l'intelligence artificielle d'utiliser plus efficacement la quantité d'informations qu'elle peut mémoriser simultanément."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Méthode de connexion permettant aux modèles d'intelligence artificielle de communiquer avec différentes sources de données de manière sécurisée et standardisée."
+    },
+    {
+      "term": "swarm intelligence",
+      "explanation": "Le fait que de nombreuses petites unités se rassemblent pour agir comme une intelligence commune sans être gérées par un centre unique."
+    },
+    {
+      "term": "autonomous hedge fund",
+      "explanation": "Fonds basé sur un logiciel qui analyse les données du marché et prend ses propres décisions d'investissement sans intervention humaine."
+    },
+    {
+      "term": "system design",
+      "explanation": "Le processus de planification de la manière dont les parties d'un logiciel communiqueront entre elles et fonctionneront."
+    },
+    {
+      "term": "plugins",
+      "explanation": "Petits logiciels auxiliaires utilisés pour ajouter de nouvelles fonctionnalités au programme principal."
+    },
+    {
+      "term": "differential equations",
+      "explanation": "Formules mathématiques utilisées pour calculer comment les variables changent les unes par rapport aux autres."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modèles d'intelligence artificielle entraînés sur de très grandes quantités de données, capables de comprendre le langage humain et de générer du texte."
+    }
+  ]
+}

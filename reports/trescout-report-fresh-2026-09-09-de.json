@@ -1,0 +1,530 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-09",
+  "capturedAt": "2026-09-09T08:39:06.683Z",
+  "editorial": "Dieser Bericht enthält die Trends, die heute zum ersten Mal hervorgehoben wurden, ohne die Datensätze zu wiederholen, die in den normalen Berichten der letzten 30 Tage enthalten waren.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "summary": "i-have-adhd ist eine Python-Bibliothek, die für Benutzer mit Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung (ADHS) optimiert wurde und die komplexen und langen Antworten von Softwareentwicklungs-Agenten vereinfacht, um die Konzentration zu erleichtern. Dieses Tool zielt darauf ab, die Informationsüberflutung zu reduzieren, indem es die von Agenten generierten technischen Ausgaben in kürzere und direktere Antworten umwandelt.",
+          "meta": "Python · ★ 32.021 · +656 heute",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "ayghri/i-have-adhd",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 32021,
+              "engagementCount": 656,
+              "rank": 1,
+              "extra": {
+                "starsToday": 656
+              }
+            }
+          }
+        },
+        {
+          "title": "liquidslr/system-design-notes",
+          "url": "https://github.com/liquidslr/system-design-notes",
+          "summary": "Die Notizen aus dem Leitfaden zur Vorbereitung auf Systemdesign-Interviews (System Design Interview - An Insider's Guide) bieten eine umfassende Ressource zum Verständnis komplexer Softwarearchitekturen. Sie erklären Prozesse für skalierbares Systemdesign (system design) und grundlegende Ingenieursprinzipien anhand praktischer Beispiele.",
+          "meta": "★ 17.273 · +910 heute",
+          "snapshot": {
+            "sourceId": "liquidslr/system-design-notes",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "popularity": 17273,
+              "engagementCount": 910,
+              "rank": 15,
+              "extra": {
+                "starsToday": 910
+              }
+            }
+          }
+        },
+        {
+          "title": "viarotel-org/escrcpy",
+          "url": "https://github.com/viarotel-org/escrcpy",
+          "summary": "Escrcpy ist ein Tool, mit dem Android-Geräte über eine grafische Benutzeroberfläche am Computer angezeigt und gesteuert werden können. Es bietet eine visuelle Oberfläche für die Open-Source-Software scrcpy, die den Android-Bildschirm auf den Computer spiegelt.",
+          "meta": "JavaScript · ★ 11.562 · +178 heute",
+          "snapshot": {
+            "sourceId": "viarotel-org/escrcpy",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 11562,
+              "engagementCount": 178,
+              "rank": 16,
+              "extra": {
+                "starsToday": 178
+              }
+            }
+          }
+        },
+        {
+          "title": "openai/plugins",
+          "url": "https://github.com/openai/plugins",
+          "summary": "Die von OpenAI angebotenen Plugins ermöglichen es KI-Modellen, auf Echtzeitdaten zuzugreifen und mit externen Diensten zu interagieren. Diese Struktur erlaubt es Sprachmodellen, auf aktuelle Informationen zuzugreifen und im Namen des Benutzers Aktionen in Drittanbieteranwendungen durchzuführen.",
+          "meta": "JavaScript · ★ 5.994 · +105 heute",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "openai/plugins",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 5994,
+              "engagementCount": 105,
+              "rank": 17,
+              "extra": {
+                "starsToday": 105
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+          "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+          "summary": "Der Mathematiker Tristan Buckmaster präsentiert einen neuen Lösungsansatz für die Navier-Stokes-Gleichungen, die die Grundlage der Strömungsmechanik bilden. Diese Arbeit leistet einen theoretischen Beitrag zur Lösung komplexer Differentialgleichungen (differential equations), die zur Vorhersage des Verhaltens physikalischer Systeme verwendet werden.",
+          "meta": "1.619 Punkte · 684 Kommentare",
+          "snapshot": {
+            "sourceId": "49605915",
+            "capturedAt": "2026-09-09T08:39:06.935Z",
+            "metadata": {
+              "popularity": 1619,
+              "engagementCount": 684,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49605915",
+                  "popularity": 1619,
+                  "engagementCount": 684
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "procedurecall",
+                "createdAt": "2026-09-08T05:42:28Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49605915"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49605915",
+              "popularity": 1619,
+              "engagementCount": 684
+            }
+          ]
+        },
+        {
+          "title": "On the Navier–Stokes Millennium Prize Problem",
+          "url": "https://openai.com/index/navier-stokes-solution/",
+          "summary": "OpenAI hat einen mathematischen Lösungsvorschlag für die Navier-Stokes-Gleichungen geteilt, die die Grundlage der Strömungsmechanik bilden. Die Lösung dieser komplexen physikalischen Gleichungen, die zu den Millennium-Problemen gehören, stellt einen kritischen Meilenstein bei der Modellierung turbulenter Strömungen dar.",
+          "meta": "1.253 Punkte · 995 Kommentare",
+          "snapshot": {
+            "sourceId": "49613262",
+            "capturedAt": "2026-09-09T08:39:06.935Z",
+            "metadata": {
+              "popularity": 1253,
+              "engagementCount": 995,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49613262",
+                  "popularity": 1253,
+                  "engagementCount": 995
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "tedsanders",
+                "createdAt": "2026-09-08T17:13:21Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49613262"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49613262",
+              "popularity": 1253,
+              "engagementCount": 995
+            }
+          ]
+        },
+        {
+          "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+          "summary": "Der von Google DeepMind entwickelte AlphaGenome Atlas ist ein hochauflösendes Kartierungstool, das die Auswirkungen von Varianten im menschlichen Genom vorhersagt. Dieses Modell bietet KI-gestützte Vorhersagen, um die biologischen Folgen genetischer Mutationen zu verstehen.",
+          "meta": "554 Punkte · 118 Kommentare",
+          "snapshot": {
+            "sourceId": "49611251",
+            "capturedAt": "2026-09-09T08:39:06.935Z",
+            "metadata": {
+              "popularity": 554,
+              "engagementCount": 118,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49611251",
+                  "popularity": 554,
+                  "engagementCount": 118
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "utiiiD",
+                "createdAt": "2026-09-08T14:55:45Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49611251"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49611251",
+              "popularity": 554,
+              "engagementCount": 118
+            }
+          ]
+        },
+        {
+          "title": "I resigned from Anthropic today",
+          "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
+          "summary": "Der Rücktritt eines Ingenieurs des KI-Forschungsunternehmens Anthropic hat Debatten über sicherheitsorientierte Entwicklungsprozesse und Unternehmensführungspraktiken in der Branche ausgelöst. Dieser Abgang hat die Erwartungen an Transparenz hinsichtlich der internen Abläufe von Organisationen, die große Sprachmodelle (large language models) entwickeln, erneut in den Fokus gerückt.",
+          "meta": "535 Punkte · 687 Kommentare",
+          "snapshot": {
+            "sourceId": "49619227",
+            "capturedAt": "2026-09-09T08:39:06.935Z",
+            "metadata": {
+              "popularity": 535,
+              "engagementCount": 687,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49619227",
+                  "popularity": 535,
+                  "engagementCount": 687
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "yurivish",
+                "createdAt": "2026-09-09T00:40:40Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49619227"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49619227",
+              "popularity": 535,
+              "engagementCount": 687
+            }
+          ]
+        },
+        {
+          "title": "We built our house for LAN parties (2024)",
+          "url": "https://lanparty.house/",
+          "summary": "Technologie-Enthusiasten haben ein Wohnhaus gebaut, das speziell für LAN-Partys entworfen und optimiert wurde. Dieses Projekt verkörpert das Konzept eines spielorientierten Wohnraums mit Hochgeschwindigkeits-Netzwerkinfrastruktur und physischen Raumgestaltungen, die für Multiplayer-Setups geeignet sind.",
+          "meta": "507 Punkte · 327 Kommentare",
+          "snapshot": {
+            "sourceId": "49579443",
+            "capturedAt": "2026-09-09T08:39:06.935Z",
+            "metadata": {
+              "popularity": 507,
+              "engagementCount": 327,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49579443",
+                  "popularity": 507,
+                  "engagementCount": 327
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "fittingopposite",
+                "createdAt": "2026-09-05T18:44:40Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49579443"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49579443",
+              "popularity": 507,
+              "engagementCount": 327
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation",
+          "url": "https://huggingface.co/papers/2609.08084",
+          "summary": "Marigold V2 strukturiert weit verbreitete Bildgenerierungsmodelle neu, um die Probleme bei der Schärfe und Generalisierbarkeit von Modellen zur monokularen Tiefenschätzung (monocular depth estimation) aus einem einzigen Bild zu lösen. Diese Methode, die die Architektur von Diffusionstransformatoren (diffusion transformers) nutzt, ermöglicht die Erstellung detaillierterer Tiefenkarten in Bereichen wie Robotik und Szenengenerierung.",
+          "meta": "4 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.08084",
+            "capturedAt": "2026-09-09T08:39:07.080Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.08084",
+                "publishedAt": "2026-09-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/huawei-bayerlab/marigold-v2"
+              }
+            }
+          }
+        },
+        {
+          "title": "RelightFormer: Feed-forward Generative Transformer for Multiview Object Relighting",
+          "url": "https://huggingface.co/papers/2609.07414",
+          "summary": "RelightFormer ist ein generatives Transformer-Modell, das Objektbeleuchtungsvorgänge direkt und ohne komplexe inverse Rendering-Prozesse durchführt. Diese aus Videofundamentmodellen adaptierte Struktur ordnet die Beleuchtung in Einzel- oder Mehrbilddaten neu an, während sie die dreidimensionale Geometrie beibehält.",
+          "meta": "1 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.07414",
+            "capturedAt": "2026-09-09T08:39:07.080Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.07414",
+                "publishedAt": "2026-09-07T00:00:00.000Z",
+                "githubRepo": "https://github.com/vLAR-group/RelightFormer"
+              }
+            }
+          }
+        },
+        {
+          "title": "Harnessing CLIP and DINO: An Uncertainty-Aware Cascaded Fusion Network for Generalizable Deepfake Image Detection",
+          "url": "https://huggingface.co/papers/2609.07670",
+          "summary": "UCF-Net ist eine Netzwerkstruktur, die visuelle Basismodelle (vision foundation models) wie CLIP und DINO kombiniert, um von künstlicher Intelligenz erzeugte gefälschte Bilder zu erkennen. Diese Methode mit Unsicherheitsbewusstsein zielt darauf ab, eine höhere Genauigkeit gegenüber verschiedenen Arten von gefälschten Inhalten zu bieten, indem sie ein Overfitting des Modells auf bestimmte Datensätze verhindert.",
+          "meta": "1 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.07670",
+            "capturedAt": "2026-09-09T08:39:07.080Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.07670",
+                "publishedAt": "2026-09-07T00:00:00.000Z",
+                "githubRepo": "https://github.com/XavierJiezou/UCF-Net",
+                "githubStars": 3
+              }
+            }
+          }
+        },
+        {
+          "title": "Encoded Early, Used Late: Where Transformers Begin to Act on an Inferred Partner's Expertise",
+          "url": "https://huggingface.co/papers/2609.07139",
+          "summary": "Es wurde festgestellt, dass Transformer-Modelle inferenzielle Informationen, wie etwa das Fachwissen des Gegenübers in einem Dialog, in ihren internen Repräsentationsschichten kodieren, noch bevor diese Daten in die Ausgabe einfließen. Dieser Befund zeigt, dass es eine zeitliche Differenz zwischen dem Informationsverarbeitungsprozess von KI-Modellen und der Phase ihrer Anwendung gibt.",
+          "meta": "9 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.07139",
+            "capturedAt": "2026-09-09T08:39:07.080Z",
+            "metadata": {
+              "popularity": 9,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.07139",
+                "publishedAt": "2026-09-07T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Cadence: Error-Bounded Lossy Compression of Demand Time Series with a Time-Series Foundation Model",
+          "url": "https://huggingface.co/papers/2609.06008",
+          "summary": "Cadence kombiniert das von Google entwickelte Zeitreihen-Grundlagenmodell (Time-Series Foundation Model) TimesFM-3 mit einem adaptiven arithmetischen Kodierer, um numerische Daten innerhalb von Fehlertoleranzgrenzen zu komprimieren. Diese Methode nutzt die Vorhersagegenauigkeit, um Datensätze verlustbehaftet (lossy) zu verkleinern und erzielt eine höhere Kompressionseffizienz als herkömmliche lineare Prädiktoren.",
+          "meta": "8 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.06008",
+            "capturedAt": "2026-09-09T08:39:07.080Z",
+            "metadata": {
+              "popularity": 8,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.06008",
+                "publishedAt": "2026-09-05T00:00:00.000Z",
+                "githubRepo": "https://github.com/robtacconelli/Cadence",
+                "githubStars": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "How to build a f**king printer",
+          "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+          "summary": "Der von Nishant Joshi erstellte Leitfaden erklärt Schritt für Schritt den Prozess der Entwicklung eines Druckers von Grund auf unter Verwendung von Hardware-Design und Software-Integration. Das Projekt zeigt, wie grundlegende mechanische Komponenten zusammengefügt werden und wie die Treibersoftware geschrieben wird, die das Gerät benötigt, um digitale Befehle in physische Drucke umzuwandeln.",
+          "meta": "49 Punkte · 8 Kommentare",
+          "snapshot": {
+            "sourceId": "pxreik",
+            "capturedAt": "2026-09-09T08:39:07.139Z",
+            "metadata": {
+              "popularity": 49,
+              "engagementCount": 8,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/pxreik/how_build_f_king_printer",
+                  "popularity": 49,
+                  "engagementCount": 8
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "c++",
+                  "hardware",
+                  "networking"
+                ],
+                "createdAt": "2026-09-08T16:39:21.263-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/pxreik/how_build_f_king_printer",
+              "popularity": 49,
+              "engagementCount": 8
+            }
+          ]
+        },
+        {
+          "title": "What makes $BigTechCompany's products bad, anyway?",
+          "url": "https://herecomesthemoon.net/2026/09/why-is-big-tech-bad/",
+          "summary": "Der Rückgang der Benutzererfahrung bei Produkten großer Technologieunternehmen lässt sich durch die zunehmende Komplexität der Software und die Tatsache erklären, dass kommerzielle Ziele Vorrang vor den Bedürfnissen der Nutzer haben. Dies führt dazu, dass die Produkte an Funktionalität verlieren und Schwierigkeiten haben, die grundlegenden Erwartungen der Nutzer zu erfüllen.",
+          "meta": "23 Punkte · 23 Kommentare",
+          "snapshot": {
+            "sourceId": "wlcg5w",
+            "capturedAt": "2026-09-09T08:39:07.139Z",
+            "metadata": {
+              "popularity": 23,
+              "engagementCount": 23,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/wlcg5w/what_makes_bigtechcompany_s_products_bad",
+                  "popularity": 23,
+                  "engagementCount": 23
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "finance"
+                ],
+                "createdAt": "2026-09-08T16:05:31.949-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/wlcg5w/what_makes_bigtechcompany_s_products_bad",
+              "popularity": 23,
+              "engagementCount": 23
+            }
+          ]
+        },
+        {
+          "title": "Switching Password Managers in 2026",
+          "url": "https://rmondello.com/2026/09/07/switching-password-managers-2026/",
+          "summary": "Der Prozess des sicheren Exports von Daten und deren Übertragung in ein neues System beim Wechsel zwischen Passwort-Managern birgt technische Herausforderungen für die Nutzer. Insbesondere die Kompatibilität von Datenformaten und die Wahrung von Sicherheitsprotokollen gehören zu den wesentlichen Aspekten, auf die Nutzer beim Wechsel zwischen Password-Management-Tools achten müssen.",
+          "meta": "72 Punkte · 31 Kommentare",
+          "snapshot": {
+            "sourceId": "ikzvtv",
+            "capturedAt": "2026-09-09T08:39:07.139Z",
+            "metadata": {
+              "popularity": 72,
+              "engagementCount": 31,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/ikzvtv/switching_password_managers_2026",
+                  "popularity": 72,
+                  "engagementCount": 31
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "practices",
+                  "security"
+                ],
+                "createdAt": "2026-09-08T08:55:09.220-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ikzvtv/switching_password_managers_2026",
+              "popularity": 72,
+              "engagementCount": 31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "ADHD",
+      "explanation": "Ein neurologischer Zustand, der beeinflusst, wie das Gehirn Fokus, Impulskontrolle und Bewegungssteuerung verwaltet."
+    },
+    {
+      "term": "system design",
+      "explanation": "Der Prozess der Planung, wie die Teile einer Software miteinander kommunizieren und wie sie funktionieren sollen."
+    },
+    {
+      "term": "plugins",
+      "explanation": "Kleine Hilfsprogramme, die verwendet werden, um dem Hauptprogramm neue Funktionen hinzuzufügen."
+    },
+    {
+      "term": "differential equations",
+      "explanation": "Mathematische Formeln zur Berechnung, wie sich Variablen im Verhältnis zueinander verändern."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Künstliche Intelligenzmodelle, die mit sehr großen Datenmengen trainiert wurden, um menschliche Sprache zu verstehen und Texte zu generieren."
+    }
+  ]
+}

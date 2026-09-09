@@ -1,0 +1,1016 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-09",
+  "capturedAt": "2026-09-09T08:39:06.683Z",
+  "editorial": "Bugün teknik literatürde akışkanlar dinamiği (fluid dynamics) teorik sınırları zorlarken, açık kaynak dünyasında ise kompakt dil modelleri (compact language models) verimlilik odaklı yeni sürümlerle karşımıza çıkıyor. GitHub ve Hacker News verileri, donanım mühendisliğindeki pratik zorluklardan karmaşık matematiksel problemlere kadar geniş bir yelpazede teknik derinlik arayışının sürdüğünü gösteriyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "summary": "Yazılım geliştirme ajanlarının karmaşık ve uzun yanıtlarını sadeleştirerek odaklanmayı kolaylaştıran i-have-adhd, dikkat eksikliği ve hiperaktivite bozukluğu (ADHD) olan kullanıcılar için optimize edilmiş bir Python kütüphanesidir. Bu araç, ajanların ürettiği teknik çıktıları daha kısa ve doğrudan yanıtlar haline getirerek bilgi karmaşasını azaltmayı hedefler.",
+          "meta": "Python · ★ 32.021 · +656 bugün",
+          "snapshot": {
+            "sourceId": "ayghri/i-have-adhd",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 32021,
+              "engagementCount": 656,
+              "rank": 1,
+              "extra": {
+                "starsToday": 656
+              }
+            }
+          }
+        },
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "Diagram-design, yapay zekâ kodlama araçları (Claude Code, Codex, Pi) için özel olarak hazırlanan 38 farklı editoryal diyagram şablonu sunuyor. Görsel karmaşayı azaltmak amacıyla gölge efektlerinden arındırılan bu HTML ve SVG tabanlı tasarımlar, standart diyagram araçlarına alternatif bir görselleştirme yöntemi sağlıyor.",
+          "meta": "HTML · ★ 35.718 · +710 bugün",
+          "snapshot": {
+            "sourceId": "cathrynlavery/diagram-design",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 35718,
+              "engagementCount": 710,
+              "rank": 2,
+              "extra": {
+                "starsToday": 710
+              }
+            }
+          }
+        },
+        {
+          "title": "openai/skills",
+          "url": "https://github.com/openai/skills",
+          "summary": "OpenAI tarafından paylaşılan Skills, kod yazma modeli Codex için tanımlanmış işlevsel yetenekler (skills) kütüphanesidir. Geliştiricilerin yapay zekâ modellerine belirli görevleri yerine getirme becerisi kazandırmasını sağlayan bir yapı sunar.",
+          "meta": "Python · ★ 26.692 · +490 bugün",
+          "snapshot": {
+            "sourceId": "openai/skills",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 26692,
+              "engagementCount": 490,
+              "rank": 3,
+              "extra": {
+                "starsToday": 490
+              }
+            }
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC, yapay zekâ ajanları için yetenek, bellek ve güvenlik katmanlarını optimize eden bir performans yönetim sistemi. Kod düzenleme aracı Cursor ve yapay zekâ destekli kodlama platformları (Claude Code, Codex) gibi sistemlerin çalışma verimliliğini artırmayı hedefliyor.",
+          "meta": "JavaScript · ★ 254.637 · +1.427 bugün",
+          "snapshot": {
+            "sourceId": "affaan-m/ECC",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 254637,
+              "engagementCount": 1427,
+              "rank": 4,
+              "extra": {
+                "starsToday": 1427
+              }
+            }
+          },
+          "streakDays": 10
+        },
+        {
+          "title": "heygen-com/hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "summary": "Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir kütüphane. Yazılım geliştiricilerin yapay zekâ ajanları (AI agents) için dinamik ve görsel içerik üretmesini kolaylaştırıyor.",
+          "meta": "TypeScript · ★ 48.105 · +2.627 bugün",
+          "snapshot": {
+            "sourceId": "heygen-com/hyperframes",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 48105,
+              "engagementCount": 2627,
+              "rank": 5,
+              "extra": {
+                "starsToday": 2627
+              }
+            }
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "coreyhaines31/marketingskills",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "summary": "Marketingskills, Claude Code ve yapay zekâ ajanları (AI agents) için dönüşüm oranı optimizasyonu, metin yazarlığı, arama motoru optimizasyonu (SEO) ve veri analitiği gibi alanlarda özelleşmiş yetenek paketleri sunuyor. Bu JavaScript tabanlı kütüphane, dijital pazarlama süreçlerini otomatize etmek isteyen geliştiriciler için hazır iş akışları sağlıyor.",
+          "meta": "JavaScript · ★ 49.055 · +666 bugün",
+          "snapshot": {
+            "sourceId": "coreyhaines31/marketingskills",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 49055,
+              "engagementCount": 666,
+              "rank": 6,
+              "extra": {
+                "starsToday": 666
+              }
+            }
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers, yapay zekâ ajanları için yetenek çerçevesi (agentic skills framework) ve yazılım geliştirme metodolojisi sunuyor. Bu araç, geliştiricilerin ajan tabanlı sistemler kurarken iş akışlarını standartlaştırmasını sağlıyor.",
+          "meta": "Shell · ★ 283.601 · +452 bugün",
+          "snapshot": {
+            "sourceId": "obra/superpowers",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 283601,
+              "engagementCount": 452,
+              "rank": 7,
+              "extra": {
+                "starsToday": 452
+              }
+            }
+          }
+        },
+        {
+          "title": "multica-ai/andrej-karpathy-skills",
+          "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+          "summary": "Andrej Karpathy'nin büyük dil modellerinin (LLM) kodlama hatalarına dair gözlemlerini temel alan bu proje, yapay zekâ destekli kodlama aracı Claude Code'un performansını artırmak için yapılandırılmış bir yönerge dosyası sunuyor. Geliştiriciler, bu dosyayı kullanarak yapay zekânın kod yazma süreçlerindeki yaygın hataları azaltmasını ve daha tutarlı sonuçlar üretmesini sağlıyor.",
+          "meta": "★ 211.683 · +333 bugün",
+          "snapshot": {
+            "sourceId": "multica-ai/andrej-karpathy-skills",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "popularity": 211683,
+              "engagementCount": 333,
+              "rank": 8,
+              "extra": {
+                "starsToday": 333
+              }
+            }
+          }
+        },
+        {
+          "title": "microsoft/markitdown",
+          "url": "https://github.com/microsoft/markitdown",
+          "summary": "Microsoft tarafından geliştirilen MarkItDown, çeşitli dosya formatlarını ve ofis belgelerini işaretleme dili (Markdown) biçimine dönüştüren bir Python aracıdır. Yazılım, karmaşık dosya yapılarını yapay zekâ modellerinin kolayca işleyebileceği metin tabanlı bir formata çevirerek veri hazırlama süreçlerini hızlandırır.",
+          "meta": "Python · ★ 181.988 · +2.047 bugün",
+          "snapshot": {
+            "sourceId": "microsoft/markitdown",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 181988,
+              "engagementCount": 2047,
+              "rank": 9,
+              "extra": {
+                "starsToday": 2047
+              }
+            }
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "jo-inc/camofox-browser",
+          "url": "https://github.com/jo-inc/camofox-browser",
+          "summary": "Camofox, yapay zekâ ajanlarının bot algılama ve veri kazıma engellerini aşmasını sağlayan gizli bir tarayıcıdır (headless browser). Otomasyon kütüphaneleri Puppeteer ve Playwright ile uyumlu çalışarak, Cloudflare gibi koruma sistemlerini devre dışı bırakır.",
+          "meta": "JavaScript · ★ 10.734 · +871 bugün",
+          "snapshot": {
+            "sourceId": "jo-inc/camofox-browser",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 10734,
+              "engagementCount": 871,
+              "rank": 10,
+              "extra": {
+                "starsToday": 871
+              }
+            }
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "MoonTechLab/LunaTV",
+          "url": "https://github.com/MoonTechLab/LunaTV",
+          "summary": "TypeScript diliyle geliştirilen LunaTV, televizyon yayınlarını internet üzerinden izlemeye olanak tanıyan açık kaynaklı bir medya oynatıcısıdır. Proje, kullanıcıların dijital içeriklere erişimini kolaylaştıran bir arayüz sunar.",
+          "meta": "TypeScript · ★ 10.341 · +505 bugün",
+          "snapshot": {
+            "sourceId": "MoonTechLab/LunaTV",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 10341,
+              "engagementCount": 505,
+              "rank": 11,
+              "extra": {
+                "starsToday": 505
+              }
+            }
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "browser-use/browser-use",
+          "url": "https://github.com/browser-use/browser-use",
+          "summary": "Python tabanlı browser-use kütüphanesi, yapay zekâ ajanlarının internet tarayıcılarını insanlar gibi kullanmasını sağlıyor. Bu araç, web sayfalarında gezinme ve etkileşim kurma gibi karmaşık görevleri otomatize etmek için tasarlanmıştır.",
+          "meta": "Python · ★ 113.802 · +228 bugün",
+          "snapshot": {
+            "sourceId": "browser-use/browser-use",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 113802,
+              "engagementCount": 228,
+              "rank": 12,
+              "extra": {
+                "starsToday": 228
+              }
+            }
+          }
+        },
+        {
+          "title": "mksglu/context-mode",
+          "url": "https://github.com/mksglu/context-mode",
+          "summary": "Context-mode, yapay zekâ kodlama ajanları için bağlam penceresi optimizasyonu (context window optimization) sağlayan bir araçtır. Araç çıktılarını izole ederek veri boyutunu yüzde 98 oranında azaltır, oturum hafızasını korur ve Model Bağlantı Protokolü (Model Context Protocol) aracılığıyla 17 farklı platformda yönlendirme yapar.",
+          "meta": "TypeScript · ★ 21.546 · +651 bugün",
+          "snapshot": {
+            "sourceId": "mksglu/context-mode",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 21546,
+              "engagementCount": 651,
+              "rank": 13,
+              "extra": {
+                "starsToday": 651
+              }
+            }
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "The-Swarm-Corporation/AutoHedge",
+          "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+          "summary": "AutoHedge, sürü zekası (swarm intelligence) ve yapay zekâ ajanlarını kullanarak piyasa analizi, risk yönetimi ve işlem yürütme süreçlerini otomatize eden bir yatırım aracıdır. Kullanıcıların dakikalar içinde kendi otonom yatırım fonlarını (autonomous hedge fund) oluşturmalarına olanak tanır.",
+          "meta": "Python · ★ 5.863 · +494 bugün",
+          "snapshot": {
+            "sourceId": "The-Swarm-Corporation/AutoHedge",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 5863,
+              "engagementCount": 494,
+              "rank": 14,
+              "extra": {
+                "starsToday": 494
+              }
+            }
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "liquidslr/system-design-notes",
+          "url": "https://github.com/liquidslr/system-design-notes",
+          "summary": "Sistem tasarımı mülakatlarına hazırlık rehberi (System Design Interview - An Insider's Guide) kitabından derlenen notlar, karmaşık yazılım mimarilerini anlamak için kapsamlı bir kaynak sunuyor. Ölçeklenebilir sistem tasarımı (system design) süreçlerini ve temel mühendislik prensiplerini pratik örneklerle açıklıyor.",
+          "meta": "★ 17.273 · +910 bugün",
+          "snapshot": {
+            "sourceId": "liquidslr/system-design-notes",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "popularity": 17273,
+              "engagementCount": 910,
+              "rank": 15,
+              "extra": {
+                "starsToday": 910
+              }
+            }
+          }
+        },
+        {
+          "title": "viarotel-org/escrcpy",
+          "url": "https://github.com/viarotel-org/escrcpy",
+          "summary": "Escrcpy, Android cihazları bilgisayar üzerinden grafik arayüzle görüntülemeyi ve kontrol etmeyi sağlayan bir araçtır. Android ekranını bilgisayara yansıtan açık kaynaklı scrcpy yazılımı için görsel bir arayüz sunar.",
+          "meta": "JavaScript · ★ 11.562 · +178 bugün",
+          "snapshot": {
+            "sourceId": "viarotel-org/escrcpy",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 11562,
+              "engagementCount": 178,
+              "rank": 16,
+              "extra": {
+                "starsToday": 178
+              }
+            }
+          }
+        },
+        {
+          "title": "openai/plugins",
+          "url": "https://github.com/openai/plugins",
+          "summary": "OpenAI tarafından sunulan eklentiler (plugins), yapay zekâ modellerinin gerçek zamanlı verilere erişmesini ve dış servislerle etkileşime girmesini sağlar. Bu yapı, dil modellerinin güncel bilgilere ulaşmasına ve kullanıcı adına üçüncü taraf uygulamalarda işlem yapmasına olanak tanır.",
+          "meta": "JavaScript · ★ 5.994 · +105 bugün",
+          "snapshot": {
+            "sourceId": "openai/plugins",
+            "capturedAt": "2026-09-09T08:39:07.941Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 5994,
+              "engagementCount": 105,
+              "rank": 17,
+              "extra": {
+                "starsToday": 105
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+          "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+          "summary": "Matematikçi Tristan Buckmaster, akışkanlar dinamiğinin temelini oluşturan Navier-Stokes denklemleri için yeni bir çözüm yaklaşımı sunuyor. Bu çalışma, fiziksel sistemlerin davranışını tahmin etmede kullanılan karmaşık diferansiyel denklemlerin (differential equations) çözümüne yönelik teorik bir katkı sağlıyor.",
+          "meta": "1.619 oy · 684 yorum",
+          "snapshot": {
+            "sourceId": "49605915",
+            "capturedAt": "2026-09-09T08:39:06.935Z",
+            "metadata": {
+              "popularity": 1619,
+              "engagementCount": 684,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49605915",
+                  "popularity": 1619,
+                  "engagementCount": 684
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "procedurecall",
+                "createdAt": "2026-09-08T05:42:28Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49605915"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49605915",
+              "popularity": 1619,
+              "engagementCount": 684
+            }
+          ]
+        },
+        {
+          "title": "On the Navier–Stokes Millennium Prize Problem",
+          "url": "https://openai.com/index/navier-stokes-solution/",
+          "summary": "OpenAI, akışkanlar dinamiğinin temelini oluşturan Navier-Stokes denklemleri için matematiksel bir çözüm önerisi paylaştı. Milenyum Problemleri arasında yer alan bu karmaşık fiziksel denklemlerin çözümü, türbülanslı akışların modellenmesi konusunda kritik bir aşamayı temsil ediyor.",
+          "meta": "1.253 oy · 995 yorum",
+          "snapshot": {
+            "sourceId": "49613262",
+            "capturedAt": "2026-09-09T08:39:06.935Z",
+            "metadata": {
+              "popularity": 1253,
+              "engagementCount": 995,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49613262",
+                  "popularity": 1253,
+                  "engagementCount": 995
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "tedsanders",
+                "createdAt": "2026-09-08T17:13:21Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49613262"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49613262",
+              "popularity": 1253,
+              "engagementCount": 995
+            }
+          ]
+        },
+        {
+          "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+          "summary": "Google DeepMind tarafından geliştirilen AlphaGenome Atlas, insan genomundaki varyantların etkilerini tahmin eden yüksek çözünürlüklü bir haritalama aracı. Bu model, genetik mutasyonların biyolojik sonuçlarını anlamak için yapay zekâ destekli tahminler sunuyor.",
+          "meta": "554 oy · 118 yorum",
+          "snapshot": {
+            "sourceId": "49611251",
+            "capturedAt": "2026-09-09T08:39:06.935Z",
+            "metadata": {
+              "popularity": 554,
+              "engagementCount": 118,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49611251",
+                  "popularity": 554,
+                  "engagementCount": 118
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "utiiiD",
+                "createdAt": "2026-09-08T14:55:45Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49611251"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49611251",
+              "popularity": 554,
+              "engagementCount": 118
+            }
+          ]
+        },
+        {
+          "title": "I resigned from Anthropic today",
+          "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
+          "summary": "Yapay zekâ araştırma şirketi Anthropic'ten bir mühendisin istifası, sektörde güvenlik odaklı geliştirme süreçleri ve kurumsal yönetim pratikleri üzerine tartışmaları tetikledi. Bu ayrılık, büyük dil modelleri (large language models) geliştiren kuruluşların iç işleyişine dair şeffaflık beklentilerini yeniden gündeme taşıdı.",
+          "meta": "535 oy · 687 yorum",
+          "snapshot": {
+            "sourceId": "49619227",
+            "capturedAt": "2026-09-09T08:39:06.935Z",
+            "metadata": {
+              "popularity": 535,
+              "engagementCount": 687,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49619227",
+                  "popularity": 535,
+                  "engagementCount": 687
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "yurivish",
+                "createdAt": "2026-09-09T00:40:40Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49619227"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49619227",
+              "popularity": 535,
+              "engagementCount": 687
+            }
+          ]
+        },
+        {
+          "title": "We built our house for LAN parties (2024)",
+          "url": "https://lanparty.house/",
+          "summary": "Teknoloji meraklıları, yerel ağ oyunları (LAN parties) için özel olarak tasarlanmış ve optimize edilmiş bir konut inşa etti. Bu proje, yüksek hızlı ağ altyapısı ve çoklu oyuncu kurulumlarına uygun fiziksel alan düzenlemeleriyle oyun odaklı yaşam alanı konseptini somutlaştırıyor.",
+          "meta": "507 oy · 327 yorum",
+          "snapshot": {
+            "sourceId": "49579443",
+            "capturedAt": "2026-09-09T08:39:06.935Z",
+            "metadata": {
+              "popularity": 507,
+              "engagementCount": 327,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49579443",
+                  "popularity": 507,
+                  "engagementCount": 327
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "fittingopposite",
+                "createdAt": "2026-09-05T18:44:40Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49579443"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49579443",
+              "popularity": 507,
+              "engagementCount": 327
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "XHToken/Spark-X2.5-4B",
+          "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+          "summary": "HuggingFace üzerinde yayınlanan Spark-X2.5-4B, metin üretme (text generation) odaklı kompakt bir dil modeli. Düşük parametre sayısıyla hızlı yanıtlar sunmayı hedefleyen bu model, geliştiricilere kaynak verimli bir yapay zekâ çözümü sağlıyor.",
+          "meta": "♥ 939 · 10.661 indirme",
+          "snapshot": {
+            "sourceId": "XHToken/Spark-X2.5-4B",
+            "capturedAt": "2026-09-09T08:39:06.862Z",
+            "metadata": {
+              "popularity": 939,
+              "engagementCount": 10661,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 715,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "spark2_5",
+                  "text-generation",
+                  "llm",
+                  "sparkx2_5",
+                  "conversational",
+                  "custom_code",
+                  "base_model:XHToken/Spark-X2.5-4B-Base",
+                  "base_model:finetune:XHToken/Spark-X2.5-4B-Base",
+                  "license:apache-2.0",
+                  "region:us"
+                ]
+              }
+            }
+          },
+          "streakDays": 4
+        },
+        {
+          "title": "openbmb/MiniCPM5-2B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+          "summary": "OpenBMB tarafından geliştirilen MiniCPM5-2B, düşük donanım kaynaklarıyla yüksek performans sunmayı hedefleyen bir metin üretme modeli (text-generation model). Küçük boyutuna rağmen karmaşık görevleri yerine getirebilen bu yapay zekâ modeli, özellikle uç cihazlarda (edge devices) çalıştırılmak üzere optimize ediliyor.",
+          "meta": "♥ 778 · 2.879 indirme",
+          "snapshot": {
+            "sourceId": "openbmb/MiniCPM5-2B",
+            "capturedAt": "2026-09-09T08:39:06.862Z",
+            "metadata": {
+              "popularity": 778,
+              "engagementCount": 2879,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 629,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "llama",
+                  "text-generation",
+                  "minicpm",
+                  "minicpm5",
+                  "long-context",
+                  "tool-calling",
+                  "on-device",
+                  "edge-ai",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "dataset:openbmb/Ultra-FineWeb",
+                  "dataset:openbmb/UltraX-Preview",
+                  "dataset:openbmb/Ultra-FineWeb-L3",
+                  "dataset:openbmb/UltraData-Math",
+                  "dataset:openbmb/UltraData-Code",
+                  "dataset:openbmb/UltraData-SFT-2605",
+                  "dataset:openbmb/UltraData-SFT-Agent-2609",
+                  "dataset:openbmb/UltraData-RL-2609",
+                  "arxiv:2506.07900",
+                  "arxiv:2602.09003",
+                  "license:apache-2.0",
+                  "text-generation-inference",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Alibaba tarafından geliştirilen Qwen2.5-VL, görsel ve metin verilerini işleyebilen çok modlu bir yapay zekâ modeli (multimodal model). Karmaşık görüntüleri analiz ederek metin tabanlı yanıtlar üreten bu model, açık kaynaklı yapay zekâ platformu Hugging Face üzerinde geniş bir kullanıcı kitlesine hitap ediyor.",
+          "meta": "♥ 14.434 · 6.712.160 indirme",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-27B",
+            "capturedAt": "2026-09-09T08:39:06.862Z",
+            "metadata": {
+              "popularity": 14434,
+              "engagementCount": 6712160,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 536,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "deploy:azure",
+                  "deploy:sagemaker",
+                  "region:us"
+                ]
+              }
+            }
+          },
+          "streakDays": 10
+        },
+        {
+          "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+          "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+          "summary": "ISTA-DASLab tarafından geliştirilen Qwen3.8-27B-GSQ-RCO-GGUF, görsel ve metin verilerini işleyerek metin çıktısı üreten bir yapay zekâ modeli. Model, yüksek performanslı dil modellerini sıkıştırma yöntemi olan nicemleme (quantization) tekniklerini kullanarak yerel donanımlarda çalışmayı kolaylaştırıyor.",
+          "meta": "♥ 682 · 479.597 indirme",
+          "snapshot": {
+            "sourceId": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+            "capturedAt": "2026-09-09T08:39:06.862Z",
+            "metadata": {
+              "popularity": 682,
+              "engagementCount": 479597,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 525,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "gguf",
+                  "gsq",
+                  "rco",
+                  "quantization",
+                  "mixed-precision",
+                  "ist-daslab",
+                  "multimodal",
+                  "vision",
+                  "image-text-to-text",
+                  "arxiv:2604.18556",
+                  "arxiv:2605.00649",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:quantized:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "imatrix",
+                  "conversational"
+                ]
+              }
+            }
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "google/timesfm-3.0-pytorch",
+          "url": "https://huggingface.co/google/timesfm-3.0-pytorch",
+          "summary": "Google tarafından geliştirilen TimesFM 3.0, zaman serisi tahmini (time-series forecasting) işlemleri için eğitilmiş büyük bir temel modeldir. Veri setlerindeki karmaşık desenleri öğrenerek farklı sektörlerdeki zamana bağlı veriler için yüksek doğrulukta gelecek tahminleri sunar.",
+          "meta": "♥ 660 · 444.052 indirme",
+          "snapshot": {
+            "sourceId": "google/timesfm-3.0-pytorch",
+            "capturedAt": "2026-09-09T08:39:06.862Z",
+            "metadata": {
+              "popularity": 660,
+              "engagementCount": 444052,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 371,
+                "pipelineTag": "time-series-forecasting",
+                "tags": [
+                  "safetensors",
+                  "time-series",
+                  "forecasting",
+                  "pretrained",
+                  "pytorch",
+                  "google",
+                  "time-series-forecasting",
+                  "arxiv:2310.10688",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          },
+          "streakDays": 4
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation",
+          "url": "https://huggingface.co/papers/2609.08084",
+          "summary": "Marigold V2, tek bir görüntüden derinlik tahmini (monocular depth estimation) yapan modellerin keskinlik ve genelleyebilme sorunlarını çözmek için yaygın kullanılan görüntü oluşturma modellerini yeniden yapılandırıyor. Difüzyon transformatörleri (diffusion transformers) mimarisinden yararlanan bu yöntem, robotik ve sahne oluşturma gibi alanlarda daha detaylı derinlik haritaları elde edilmesini sağlıyor.",
+          "meta": "4 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.08084",
+            "capturedAt": "2026-09-09T08:39:07.080Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.08084",
+                "publishedAt": "2026-09-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/huawei-bayerlab/marigold-v2"
+              }
+            }
+          }
+        },
+        {
+          "title": "RelightFormer: Feed-forward Generative Transformer for Multiview Object Relighting",
+          "url": "https://huggingface.co/papers/2609.07414",
+          "summary": "RelightFormer, nesne aydınlatma işlemlerini karmaşık ters işleme (inverse rendering) süreçleri olmadan doğrudan gerçekleştiren bir üretken dönüştürücü (generative Transformer) modelidir. Video temel modellerinden (video foundation models) uyarlanan bu yapı, tekli veya çoklu görüntü verilerinde üç boyutlu geometriyi koruyarak ışıklandırmayı yeniden düzenler.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.07414",
+            "capturedAt": "2026-09-09T08:39:07.080Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.07414",
+                "publishedAt": "2026-09-07T00:00:00.000Z",
+                "githubRepo": "https://github.com/vLAR-group/RelightFormer"
+              }
+            }
+          }
+        },
+        {
+          "title": "Harnessing CLIP and DINO: An Uncertainty-Aware Cascaded Fusion Network for Generalizable Deepfake Image Detection",
+          "url": "https://huggingface.co/papers/2609.07670",
+          "summary": "UCF-Net, yapay zekâ tarafından üretilen sahte görselleri tespit etmek için CLIP ve DINO gibi görsel temel modellerini (vision foundation models) birleştiren bir ağ yapısıdır. Belirsizlik farkındalığına sahip bu yöntem, modelin belirli veri setlerine aşırı uyum sağlamasını (overfitting) engelleyerek farklı türdeki sahte içeriklere karşı daha yüksek doğruluk sunmayı hedefler.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.07670",
+            "capturedAt": "2026-09-09T08:39:07.080Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.07670",
+                "publishedAt": "2026-09-07T00:00:00.000Z",
+                "githubRepo": "https://github.com/XavierJiezou/UCF-Net",
+                "githubStars": 3
+              }
+            }
+          }
+        },
+        {
+          "title": "Encoded Early, Used Late: Where Transformers Begin to Act on an Inferred Partner's Expertise",
+          "url": "https://huggingface.co/papers/2609.07139",
+          "summary": "Dönüştürücü (transformer) modellerin, bir diyalogdaki karşı tarafın uzmanlık seviyesi gibi çıkarımsal bilgileri, bu veriyi henüz çıktıya yansıtmadan önce içsel temsil katmanlarında kodladığı tespit edildi. Bu bulgu, yapay zekâ modellerinin bilgiyi işleme süreciyle onu kullanma aşaması arasında bir zaman farkı olduğunu gösteriyor.",
+          "meta": "9 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.07139",
+            "capturedAt": "2026-09-09T08:39:07.080Z",
+            "metadata": {
+              "popularity": 9,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.07139",
+                "publishedAt": "2026-09-07T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Cadence: Error-Bounded Lossy Compression of Demand Time Series with a Time-Series Foundation Model",
+          "url": "https://huggingface.co/papers/2609.06008",
+          "summary": "Cadence, Google tarafından geliştirilen zaman serisi temel modeli (time-series foundation model) TimesFM-3 ile uyarlanabilir aritmetik kodlayıcıyı birleştirerek sayısal verileri hata payı sınırları dahilinde sıkıştırıyor. Bu yöntem, tahmin doğruluğunu kullanarak veri setlerini kayıplı (lossy) şekilde küçültüyor ve geleneksel doğrusal tahmincilerden daha yüksek sıkıştırma verimliliği sağlıyor.",
+          "meta": "8 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.06008",
+            "capturedAt": "2026-09-09T08:39:07.080Z",
+            "metadata": {
+              "popularity": 8,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.06008",
+                "publishedAt": "2026-09-05T00:00:00.000Z",
+                "githubRepo": "https://github.com/robtacconelli/Cadence",
+                "githubStars": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "How to build a f**king printer",
+          "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+          "summary": "Nishant Joshi tarafından hazırlanan rehber, donanım tasarımı ve yazılım entegrasyonu kullanarak sıfırdan bir yazıcı (printer) geliştirme sürecini adım adım açıklıyor. Proje, temel mekanik bileşenlerin bir araya getirilmesi ve cihazın dijital komutları fiziksel baskıya dönüştürmesi için gereken sürücü yazılımlarının nasıl yazılacağını gösteriyor.",
+          "meta": "49 oy · 8 yorum",
+          "snapshot": {
+            "sourceId": "pxreik",
+            "capturedAt": "2026-09-09T08:39:07.139Z",
+            "metadata": {
+              "popularity": 49,
+              "engagementCount": 8,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/pxreik/how_build_f_king_printer",
+                  "popularity": 49,
+                  "engagementCount": 8
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "c++",
+                  "hardware",
+                  "networking"
+                ],
+                "createdAt": "2026-09-08T16:39:21.263-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/pxreik/how_build_f_king_printer",
+              "popularity": 49,
+              "engagementCount": 8
+            }
+          ]
+        },
+        {
+          "title": "What makes $BigTechCompany's products bad, anyway?",
+          "url": "https://herecomesthemoon.net/2026/09/why-is-big-tech-bad/",
+          "summary": "Büyük teknoloji şirketlerinin sunduğu ürünlerdeki kullanıcı deneyimi düşüşü, yazılımların karmaşıklaşması ve ticari hedeflerin kullanıcı ihtiyaçlarının önüne geçmesiyle açıklanıyor. Bu durum, ürünlerin işlevselliğini yitirmesine ve kullanıcıların temel beklentilerini karşılamakta zorlanmasına neden oluyor.",
+          "meta": "23 oy · 23 yorum",
+          "snapshot": {
+            "sourceId": "wlcg5w",
+            "capturedAt": "2026-09-09T08:39:07.139Z",
+            "metadata": {
+              "popularity": 23,
+              "engagementCount": 23,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/wlcg5w/what_makes_bigtechcompany_s_products_bad",
+                  "popularity": 23,
+                  "engagementCount": 23
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "finance"
+                ],
+                "createdAt": "2026-09-08T16:05:31.949-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/wlcg5w/what_makes_bigtechcompany_s_products_bad",
+              "popularity": 23,
+              "engagementCount": 23
+            }
+          ]
+        },
+        {
+          "title": "Switching Password Managers in 2026",
+          "url": "https://rmondello.com/2026/09/07/switching-password-managers-2026/",
+          "summary": "Parola yöneticileri arasında geçiş yaparken verilerin güvenli bir şekilde dışa aktarılması ve yeni sisteme taşınması süreci, kullanıcılar için teknik zorluklar barındırıyor. Özellikle veri formatlarının uyumluluğu ve güvenlik protokollerinin korunması, parola yönetimi (password management) araçları arasında geçiş yapacak kullanıcıların dikkat etmesi gereken temel unsurlar arasında yer alıyor.",
+          "meta": "72 oy · 31 yorum",
+          "snapshot": {
+            "sourceId": "ikzvtv",
+            "capturedAt": "2026-09-09T08:39:07.139Z",
+            "metadata": {
+              "popularity": 72,
+              "engagementCount": 31,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/ikzvtv/switching_password_managers_2026",
+                  "popularity": 72,
+                  "engagementCount": 31
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "practices",
+                  "security"
+                ],
+                "createdAt": "2026-09-08T08:55:09.220-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ikzvtv/switching_password_managers_2026",
+              "popularity": 72,
+              "engagementCount": 31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "ADHD",
+      "explanation": "Beynin odaklanma, dürtü kontrolü ve hareketliliği yönetme biçimini etkileyen nörolojik bir durum."
+    },
+    {
+      "term": "skills",
+      "explanation": "Bir işi yapmak için gereken bilgi, pratik ve yeteneklerin bütünü."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Kendi başına karar verip hedeflere ulaşmak için araçları kullanabilen akıllı yazılımlar."
+    },
+    {
+      "term": "SEO",
+      "explanation": "İnternet sitelerinin arama motorlarında daha üst sıralarda çıkması için yapılan düzenlemeler."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "Yapay zekâların karmaşık görevleri yerine getirmesi için ihtiyaç duyduğu yetenekleri tanımlayan yapısal çerçeve."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Devasa miktarda metin verisiyle eğitilmiş, insan gibi cevaplar üretebilen gelişmiş dil modelleri."
+    },
+    {
+      "term": "Markdown",
+      "explanation": "Sadece düz metin karakterleri kullanarak yazılarınızı biçimlendirmenizi sağlayan basit bir işaretleme dili."
+    },
+    {
+      "term": "headless browser",
+      "explanation": "Görsel bir arayüzü olmayan, arka planda web sayfalarını yükleyip işlem yapabilen tarayıcı."
+    },
+    {
+      "term": "context window optimization",
+      "explanation": "Yapay zekânın aynı anda hatırlayabileceği bilgi miktarını daha verimli kullanmasını sağlayan teknikler."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Yapay zekâ modellerinin farklı veri kaynaklarıyla güvenli ve standart bir şekilde konuşmasını sağlayan bağlantı yöntemi."
+    },
+    {
+      "term": "swarm intelligence",
+      "explanation": "Birçok küçük birimin bir araya gelerek tek bir merkezden yönetilmeden ortak bir zekâ gibi hareket etmesi."
+    },
+    {
+      "term": "autonomous hedge fund",
+      "explanation": "İnsan müdahalesi olmadan, piyasa verilerini analiz edip kendi başına yatırım kararları alan yazılım tabanlı fon."
+    },
+    {
+      "term": "system design",
+      "explanation": "Bir yazılımın parçalarının birbirleriyle nasıl iletişim kuracağını ve nasıl çalışacağını planlama süreci."
+    },
+    {
+      "term": "plugins",
+      "explanation": "Ana programa yeni özellikler eklemek için kullanılan küçük yardımcı yazılımlar."
+    },
+    {
+      "term": "differential equations",
+      "explanation": "Değişkenlerin birbirine göre nasıl değiştiğini hesaplamaya yarayan matematiksel formüller."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    }
+  ]
+}
