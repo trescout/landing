@@ -17010,14 +17010,14 @@
     "slug": "wand-enhancer",
     "title": "Wand-Enhancer",
     "tagline": "Wand-Enhancer, WeMod uygulaması için kullanıcı deneyimini (user experience) geliştiren ve birlikte çalışabilirliği…",
-    "meta": "★ 25.201 · C#",
+    "meta": "★ 25.998 · C#",
     "image": "/assets/discover/og/wand-enhancer.webp",
     "source": "GitHub",
     "date": "2026-07-13",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 25201,
+    "stars": 25998,
     "lite": false,
     "headline": "Wand uygulaması için arayüz özelleştirme",
     "last_review": "2026-09-09",
@@ -17091,6 +17091,13 @@
         "onceki_yildiz": 24523,
         "surum": "2.0.0.0",
         "surum_tarihi": "2026-09-05"
+      },
+      {
+        "tarih": "2026-09-09",
+        "yildiz": 25998,
+        "onceki_yildiz": 25201,
+        "surum": "2.1.0.0",
+        "surum_tarihi": "2026-09-09"
       }
     ],
     "tagline_en": "Wand-Enhancer improves user experience and interoperability for the WeMod application.",
@@ -17987,7 +17994,7 @@
     "slug": "posthog",
     "title": "Posthog",
     "tagline": "PostHog, ürün geliştirme süreçleri için yapay zekâ gözlemlenebilirliği (AI observability), analiz ve oturum tekrarı (session…",
-    "meta": "★ 39.696 · Python",
+    "meta": "★ 39.700 · Python",
     "image": "/assets/discover/og/posthog.webp",
     "source": "GitHub",
     "date": "2026-07-17",
@@ -17995,7 +18002,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 39696,
+    "stars": 39700,
     "lite": false,
     "headline": "Ürün geliştirme için yapay zekâ gözlemlenebilirliği",
     "last_review": "2026-09-09",
@@ -18237,6 +18244,13 @@
         "onceki_yildiz": 39654,
         "surum": "desktop-v0.61.284",
         "surum_tarihi": "2026-09-08"
+      },
+      {
+        "tarih": "2026-09-09",
+        "yildiz": 39700,
+        "onceki_yildiz": 39696,
+        "surum": "desktop-v0.61.300",
+        "surum_tarihi": "2026-09-09"
       }
     ],
     "tagline_en": "PostHog provides artificial intelligence observability, analysis and session replay for product development processes.",
@@ -31057,7 +31071,8 @@
     "tagline_fr": "Notes compilées à partir du livre « System Design Interview - An Insider's Guide » (Guide de préparation aux entretiens de conception de systèmes)…",
     "tagline_pt": "Notas compiladas do livro \"System Design Interview - An Insider's Guide\" (Guia de preparação para entrevistas de design de sistemas)...",
     "tagline_es": "Notas recopiladas del libro \"System Design Interview - An Insider's Guide\" para la preparación de entrevistas de diseño de sistemas...",
-    "tagline_de": "Notizen aus dem Buch „System Design Interview – An Insider's Guide“ zur Vorbereitung auf Systemdesign-Interviews..."
+    "tagline_de": "Notizen aus dem Buch „System Design Interview – An Insider's Guide“ zur Vorbereitung auf Systemdesign-Interviews...",
+    "last_seen": "2026-09-09"
   },
   {
     "slug": "escrcpy",
@@ -31090,6 +31105,7 @@
     "tagline_fr": "Escrcpy est un outil qui permet d'afficher et de contrôler des appareils Android depuis un ordinateur via une interface graphique.",
     "tagline_pt": "O Escrcpy é uma ferramenta que permite visualizar e controlar dispositivos Android através do computador com uma interface gráfica.",
     "tagline_es": "Escrcpy es una herramienta que permite visualizar y controlar dispositivos Android desde una computadora mediante una interfaz gráfica.",
-    "tagline_de": "Escrcpy ist ein Tool, mit dem Android-Geräte über eine grafische Benutzeroberfläche auf dem Computer angezeigt und gesteuert werden können."
+    "tagline_de": "Escrcpy ist ein Tool, mit dem Android-Geräte über eine grafische Benutzeroberfläche auf dem Computer angezeigt und gesteuert werden können.",
+    "last_seen": "2026-09-09"
   }
 ]
