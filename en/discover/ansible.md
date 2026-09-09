@@ -2,7 +2,7 @@
 
 Ansible is an information technologies automation platform that automates application deployment and system management processes. It performs configuration operations in a simple language via SSH protocol, without the need to install any middleware on remote systems.
 
-- ★ 70,299
+- ★ 70,621
 - Python
 - GitHub Trending · 2026-07-04
 

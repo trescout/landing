@@ -39,7 +39,7 @@ Usually, API connections or special code blocks are written to enable the assist
 - [Last30days Skill](/en/discover/last30days-skill/)
 - [Archify](/en/discover/archify/)
 - [Reverse Skill](/en/discover/reverse-skill/)
-- [OfficeCLI](/en/discover/officecli/)
+- [I Have Adhd](/en/discover/i-have-adhd/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/skill/

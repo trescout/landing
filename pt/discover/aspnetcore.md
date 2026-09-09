@@ -2,7 +2,7 @@
 
 ASP.NET Core é uma estrutura .NET multiplataforma usada para desenvolver aplicativos web modernos baseados em nuvem no Windows, macOS e Linux. Esta estrutura, desenvolvida em linguagem C#, permite criar serviços web de alto desempenho e escaláveis.
 
-- ★ 38.367
+- ★ 38.431
 - GitHub Trending · 2026-06-19
 
 ## O que você ganha

@@ -35,8 +35,8 @@ Não, seus recursos são customizados dependendo do uso pretendido do agente (po
 - [Scientific Agent Skills](/pt/discover/scientific-agent-skills/)
 - [Awesome Agent Skills](/pt/discover/awesome-agent-skills/)
 - [Agentskills](/pt/discover/agentskills/)
-- [Claude Obsidian](/pt/discover/claude-obsidian/)
 - [Text to Cad](/pt/discover/text-to-cad/)
+- [Claude Obsidian](/pt/discover/claude-obsidian/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/agent-skills/

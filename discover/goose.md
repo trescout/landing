@@ -2,15 +2,15 @@
 
 Goose, kod önerilerinin ötesine geçerek yazılım kurulumu, yürütme, düzenleme ve test süreçlerini otomatize eden açık kaynaklı bir yapay zekâ ajanıdır. Rust diliyle geliştirilen bu araç, farklı büyük dil modelleriyle (LLM) entegre çalışarak yazılım geliştirme iş akışlarını uçtan uca yönetmeyi hedefler.
 
-- ★ 53.897
+- ★ 54.051
 - Rust
 - GitHub Trending · 2026-06-08
 
 ## Güncelleme
+- 9 Eylül 2026: Yıldız 53.897 → 54.051, son sürüm v1.50.0 (8 Eylül 2026).
 - 4 Eylül 2026: Yıldız 53.741 → 53.897, son sürüm v1.49.0 (3 Eylül 2026).
 - 31 Ağustos 2026: Yıldız 53.200 → 53.741, son sürüm v1.48.0 (27 Ağustos 2026).
 - 22 Ağustos 2026: Yıldız 52.843 → 53.200, son sürüm v1.47.0 (21 Ağustos 2026).
-- 15 Ağustos 2026: Yıldız 52.110 → 52.843, son sürüm v1.46.0 (12 Ağustos 2026).
 
 ## Ne kazandırır?
 - Yazılım kurulumu, yürütme ve test süreçlerini otomatize eder.

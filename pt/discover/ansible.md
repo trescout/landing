@@ -2,7 +2,7 @@
 
 Ansible é uma plataforma de automação de tecnologias de informação que automatiza processos de implantação de aplicativos e gerenciamento de sistemas. Realiza operações de configuração em linguagem simples via protocolo SSH, sem a necessidade de instalação de nenhum middleware em sistemas remotos.
 
-- ★ 70.299
+- ★ 70.621
 - Python
 - GitHub Trending · 2026-07-04
 

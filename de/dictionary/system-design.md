@@ -30,6 +30,7 @@ Ja, aber es ist sehr kostspielig und schwierig, die Architektur zu ändern, wenn
 ## Verwandte Werkzeuge
 - [System Design Primer](/de/discover/system-design-primer/)
 - [System Design 101](/de/discover/system-design-101/)
+- [System Design Notes](/de/discover/system-design-notes/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/system-design/

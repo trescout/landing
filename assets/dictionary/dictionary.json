@@ -7642,5 +7642,31 @@
     "kisa_pt": "Sistemas de inteligência artificial mais avançados e de maior capacidade, que desafiam os limites tecnológicos atuais.",
     "kisa_es": "Sistemas de inteligencia artificial más avanzados y capaces que superan los límites tecnológicos actuales.",
     "kisa_de": "Die fortschrittlichsten und leistungsfähigsten Systeme der künstlichen Intelligenz, die die aktuellen technologischen Grenzen verschieben."
+  },
+  {
+    "slug": "autonomous-hedge-fund",
+    "en": "Autonomous Hedge Fund",
+    "full": "",
+    "cat": "ai",
+    "kisa": "İnsan müdahalesi olmaksızın piyasa verilerini analiz edip yatırım kararlarını kendi başına alan yapay zekâ destekli fon yönetimi.",
+    "date": "2026-09-09",
+    "kisa_en": "AI-powered fund management that analyzes market data and makes investment decisions on its own without human intervention.",
+    "kisa_fr": "Gestion de fonds assistée par intelligence artificielle qui analyse les données du marché sans intervention humaine et prend ses propres décisions d'investissement.",
+    "kisa_pt": "Gestão de fundos com suporte de inteligência artificial que analisa dados de mercado e toma decisões de investimento por conta própria, sem intervenção humana.",
+    "kisa_es": "Gestión de fondos impulsada por inteligencia artificial que analiza datos de mercado y toma decisiones de inversión por sí misma sin intervención humana.",
+    "kisa_de": "KI-gestützte Fondsverwaltung, die Marktdaten ohne menschliches Eingreifen analysiert und Anlageentscheidungen eigenständig trifft."
+  },
+  {
+    "slug": "differential-equations",
+    "en": "Differential Equations",
+    "full": "",
+    "cat": "data",
+    "kisa": "Değişkenlerin birbirine göre değişim oranlarını hesaplayan, fizik ve mühendislikte kullanılan temel matematiksel denklemler.",
+    "date": "2026-09-09",
+    "kisa_en": "Fundamental mathematical equations used in physics and engineering that calculate the rates of change of variables relative to each other.",
+    "kisa_fr": "Équations mathématiques fondamentales utilisées en physique et en ingénierie qui calculent les taux de variation des variables les unes par rapport aux autres.",
+    "kisa_pt": "Equações matemáticas fundamentais usadas na física e na engenharia que calculam as taxas de variação das variáveis em relação umas às outras.",
+    "kisa_es": "Ecuaciones matemáticas fundamentales utilizadas en física e ingeniería que calculan las tasas de cambio de las variables entre sí.",
+    "kisa_de": "Grundlegende mathematische Gleichungen, die in der Physik und im Ingenieurwesen verwendet werden, um die Änderungsraten von Variablen zueinander zu berechnen."
   }
 ]

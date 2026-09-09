@@ -30,8 +30,8 @@ Ja, sie können Ihre Dateien verwalten oder Ihre Anwendungen ausführen, wenn Si
 
 ## Verwandte Werkzeuge
 - [Hermes Agent](/de/discover/hermes-agent/)
-- [Andrej Karpathy Skills](/de/discover/andrej-karpathy-skills/)
 - [Opencode](/de/discover/opencode/)
+- [Andrej Karpathy Skills](/de/discover/andrej-karpathy-skills/)
 - [Awesome LLM Apps](/de/discover/awesome-llm-apps/)
 - [Ponytail](/de/discover/ponytail/)
 - [Agent Skills](/de/discover/agent-skills/)

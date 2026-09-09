@@ -29,8 +29,8 @@ Realiza bien la mayoría de las tareas estándar, pero aún requiere control hum
 - [Agentic AI](/es/dictionary/agentic-ai/)
 
 ## Herramientas relacionadas
-- [Andrej Karpathy Skills](/es/discover/andrej-karpathy-skills/)
 - [Opencode](/es/discover/opencode/)
+- [Andrej Karpathy Skills](/es/discover/andrej-karpathy-skills/)
 - [Openinterpreter](/es/discover/openinterpreter/)
 - [Continue](/es/discover/continue/)
 - [Oh My Pi](/es/discover/oh-my-pi/)

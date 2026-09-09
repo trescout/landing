@@ -29,8 +29,8 @@ Il accomplit bien la plupart des tâches standard, mais nécessite toujours un c
 - [Agentic AI](/fr/dictionary/agentic-ai/)
 
 ## Outils liés
-- [Andrej Karpathy Skills](/fr/discover/andrej-karpathy-skills/)
 - [Opencode](/fr/discover/opencode/)
+- [Andrej Karpathy Skills](/fr/discover/andrej-karpathy-skills/)
 - [Openinterpreter](/fr/discover/openinterpreter/)
 - [Continue](/fr/discover/continue/)
 - [Oh My Pi](/fr/discover/oh-my-pi/)

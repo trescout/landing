@@ -30,6 +30,7 @@ Sim, mas é muito caro e difícil alterar a arquitetura à medida que o sistema 
 ## Ferramentas relacionadas
 - [System Design Primer](/pt/discover/system-design-primer/)
 - [System Design 101](/pt/discover/system-design-101/)
+- [System Design Notes](/pt/discover/system-design-notes/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/system-design/

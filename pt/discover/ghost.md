@@ -2,7 +2,7 @@
 
 Ghost é uma plataforma de tecnologia independente para publicações modernas, associações, assinaturas e boletins informativos por e-mail.
 
-- ★ 55.098
+- ★ 55.233
 - JavaScript
 - GitHub Trending · 2026-08-22
 

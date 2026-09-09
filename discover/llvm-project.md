@@ -2,11 +2,12 @@
 
 LLVM Projesi, modüler ve yeniden kullanılabilir derleyici (compiler) ve araç zinciri teknolojileri sunan bir altyapıdır. Yazılım geliştirme süreçlerinde kodun optimize edilmesini ve farklı donanım mimarilerine uygun hale getirilmesini sağlar.
 
-- ★ 40.286
+- ★ 40.353
 - LLVM
 - GitHub Trending · 2026-09-07
 
 ## Güncelleme
+- 9 Eylül 2026: Yıldız 40.286 → 40.353, son sürüm llvmorg-23.1.1 (8 Eylül 2026).
 - 7 Eylül 2026: Yıldız 40.286 → 40.286, son sürüm llvmorg-23.1.0 (25 Ağustos 2026).
 
 ## Ne kazandırır?

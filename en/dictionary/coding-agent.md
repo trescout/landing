@@ -31,8 +31,8 @@ It does most standard tasks well, but still requires human control in very compl
 - [Agentic AI](/en/dictionary/agentic-ai/)
 
 ## Related tools
-- [Andrej Karpathy Skills](/en/discover/andrej-karpathy-skills/)
 - [Opencode](/en/discover/opencode/)
+- [Andrej Karpathy Skills](/en/discover/andrej-karpathy-skills/)
 - [Openinterpreter](/en/discover/openinterpreter/)
 - [Continue](/en/discover/continue/)
 - [Oh My Pi](/en/discover/oh-my-pi/)

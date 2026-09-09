@@ -37,7 +37,7 @@ Normalerweise werden API-Verbindungen oder spezielle Codeblöcke geschrieben, um
 - [Last30days Skill](/de/discover/last30days-skill/)
 - [Archify](/de/discover/archify/)
 - [Reverse Skill](/de/discover/reverse-skill/)
-- [OfficeCLI](/de/discover/officecli/)
+- [I Have Adhd](/de/discover/i-have-adhd/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/skill/

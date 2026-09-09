@@ -2,11 +2,12 @@
 
 Claude Code şablonları, Claude Code aracı için yapılandırma ve izleme süreçlerini kolaylaştıran bir komut satırı arayüzü (CLI) sunuyor. Python tabanlı bu araç, geliştiricilerin kodlama asistanı üzerindeki kontrolünü ve iş akışı yönetimini standartlaştırıyor.
 
-- ★ 30.058
+- ★ 30.567
 - Python
 - GitHub Trending · 2026-07-11
 
 ## Güncelleme
+- 9 Eylül 2026: Yıldız 30.058 → 30.567, son sürüm v1.29.5 (9 Eylül 2026).
 - 2 Ağustos 2026: Yıldız 28.812 → 30.058, son sürüm v1.28.3 (15 Kasım 2025).
 
 ## Ne kazandırır?

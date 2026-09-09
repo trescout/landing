@@ -2,11 +2,12 @@
 
 Ansible, uygulama dağıtımı ve sistem yönetimi süreçlerini otomatikleştiren bir bilişim teknolojileri otomasyon platformudur. Uzak sistemlere herhangi bir aracı yazılım (agent) yüklemeye gerek duymadan, SSH protokolü üzerinden basit bir dille yapılandırma işlemlerini gerçekleştirir.
 
-- ★ 70.299
+- ★ 70.621
 - Python
 - GitHub Trending · 2026-07-04
 
 ## Güncelleme
+- 9 Eylül 2026: Yıldız 70.299 → 70.621, son sürüm v2.21.4 (8 Eylül 2026).
 - 11 Ağustos 2026: Yıldız 70.171 → 70.299, son sürüm v2.21.3 (10 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 69.245 → 70.171, son sürüm v2.21.2 (13 Temmuz 2026).
 

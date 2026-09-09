@@ -2,7 +2,7 @@
 
 ASP.NET Core is a cross-platform .NET framework used to develop modern cloud-based web applications on Windows, macOS, and Linux. This structure, developed in C# language, allows creating high-performance and scalable web services.
 
-- ★ 38,367
+- ★ 38,431
 - GitHub Trending · 2026-06-19
 
 ## What you get

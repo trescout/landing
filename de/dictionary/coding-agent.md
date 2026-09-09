@@ -29,8 +29,8 @@ Es erledigt die meisten Standardaufgaben gut, erfordert aber in sehr komplexen o
 - [Agentic AI](/de/dictionary/agentic-ai/)
 
 ## Verwandte Werkzeuge
-- [Andrej Karpathy Skills](/de/discover/andrej-karpathy-skills/)
 - [Opencode](/de/discover/opencode/)
+- [Andrej Karpathy Skills](/de/discover/andrej-karpathy-skills/)
 - [Openinterpreter](/de/discover/openinterpreter/)
 - [Continue](/de/discover/continue/)
 - [Oh My Pi](/de/discover/oh-my-pi/)

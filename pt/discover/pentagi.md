@@ -2,7 +2,7 @@
 
 Desenvolvido com a linguagem Go, o Pentagi oferece um sistema de agentes de inteligência artificial (agentes de IA) totalmente autônomos que podem realizar testes de penetração complexos. O sistema visa padronizar fluxos de trabalho autônomos para detectar e explorar vulnerabilidades.
 
-- ★ 21.475
+- ★ 22.593
 - Go
 - GitHub Trending · 2026-07-10
 

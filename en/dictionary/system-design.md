@@ -32,6 +32,7 @@ Yes, but it is very costly and difficult to change the architecture as the syste
 ## Related tools
 - [System Design Primer](/en/discover/system-design-primer/)
 - [System Design 101](/en/discover/system-design-101/)
+- [System Design Notes](/en/discover/system-design-notes/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/system-design/

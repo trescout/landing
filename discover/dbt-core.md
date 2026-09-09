@@ -2,15 +2,15 @@
 
 Veri dönüştürme aracı (dbt-core), veri analistlerinin ve mühendislerinin yazılım geliştirme süreçlerine benzer yöntemlerle veri dönüşümü (data transformation) yapmalarını sağlıyor. Sürüm kontrolü ve test süreçlerini veri ambarlarına entegre ederek analitik iş akışlarını standartlaştırıyor.
 
-- ★ 13.791
+- ★ 13.793
 - Rust
 - GitHub Trending · 2026-06-28
 
 ## Güncelleme
+- 9 Eylül 2026: Yıldız 13.791 → 13.793, son sürüm v1.12.4 (8 Eylül 2026).
 - 8 Eylül 2026: Yıldız 13.673 → 13.791, son sürüm v1.11.15 (8 Eylül 2026).
 - 21 Ağustos 2026: Yıldız 13.672 → 13.673, son sürüm v1.12.3 (21 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 13.646 → 13.672, son sürüm v1.11.14 (20 Ağustos 2026).
-- 15 Ağustos 2026: Yıldız 13.561 → 13.646, son sürüm v1.2.7 (14 Ağustos 2026).
 
 ## Ne kazandırır?
 - Yazılım geliştirme pratikleriyle veri dönüşümü

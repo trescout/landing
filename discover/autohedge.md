@@ -40,7 +40,7 @@ AutoHedge sistemini kullanarak bir yatırım stratejisi oluşturmak istiyorum. S
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-07 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Swarm Intelligence Agent Artificial Intelligence
+Autonomous Hedge Fund Swarm Intelligence Agent Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/autohedge/

@@ -29,8 +29,8 @@ Ele executa bem a maioria das tarefas padrão, mas ainda requer controle humano 
 - [Agentic AI](/pt/dictionary/agentic-ai/)
 
 ## Ferramentas relacionadas
-- [Andrej Karpathy Skills](/pt/discover/andrej-karpathy-skills/)
 - [Opencode](/pt/discover/opencode/)
+- [Andrej Karpathy Skills](/pt/discover/andrej-karpathy-skills/)
 - [Openinterpreter](/pt/discover/openinterpreter/)
 - [Continue](/pt/discover/continue/)
 - [Oh My Pi](/pt/discover/oh-my-pi/)

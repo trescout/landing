@@ -2,7 +2,7 @@
 
 Os modelos do Claude Code fornecem uma interface de linha de comando (CLI) para a ferramenta Claude Code que simplifica a configuração e o monitoramento. Esta ferramenta baseada em Python padroniza o controle dos desenvolvedores sobre o assistente de codificação e o gerenciamento do fluxo de trabalho.
 
-- ★ 30.058
+- ★ 30.567
 - Python
 - GitHub Trending · 2026-07-11
 
