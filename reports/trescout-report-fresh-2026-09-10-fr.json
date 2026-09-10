@@ -1,0 +1,522 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-10",
+  "capturedAt": "2026-09-10T09:30:28.541Z",
+  "editorial": "Ce rapport contient les tendances qui sont apparues pour la première fois aujourd'hui, sans répéter les enregistrements figurant dans les rapports normaux des 30 derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Tencent/teamai-cli",
+          "url": "https://github.com/Tencent/teamai-cli",
+          "summary": "teamai-cli, développé par Tencent, est un outil de développement logiciel qui permet aux équipes d'interagir avec des outils d'intelligence artificielle via une interface en ligne de commande (CLI). Cet outil vise à numériser les processus de travail des équipes en intégrant des fonctionnalités d'IA générative dans leurs flux de travail.",
+          "meta": "TypeScript · ★ 3 400 · +556 aujourd'hui",
+          "snapshot": {
+            "sourceId": "Tencent/teamai-cli",
+            "capturedAt": "2026-09-10T09:30:29.755Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 3400,
+              "engagementCount": 556,
+              "rank": 2,
+              "extra": {
+                "starsToday": 556
+              }
+            }
+          }
+        },
+        {
+          "title": "earthtojake/text-to-cad",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "summary": "Text-to-CAD est une bibliothèque Python qui transforme les commandes textuelles en processus de conception assistée par ordinateur (CAO), d'ingénierie (IAO) et de fabrication (FAO). Elle propose des packs de compétences (skills) permettant aux agents d'intelligence artificielle de créer des dessins techniques et des fichiers de production.",
+          "meta": "Python · ★ 15 257 · +124 aujourd'hui",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "earthtojake/text-to-cad",
+            "capturedAt": "2026-09-10T09:30:29.755Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 15257,
+              "engagementCount": 124,
+              "rank": 5,
+              "extra": {
+                "starsToday": 124
+              }
+            }
+          }
+        },
+        {
+          "title": "vastsa/PI-Desktop",
+          "url": "https://github.com/vastsa/PI-Desktop",
+          "summary": "PI-Desktop est un agent de codage par intelligence artificielle développé selon le principe de fonctionnement « local-first » (priorité au local). Grâce à son architecture basée sur Electron (framework de développement d'applications de bureau) et Rust (langage de programmation système), il offre un environnement de développement logiciel personnalisable où les utilisateurs peuvent installer leurs propres extensions.",
+          "meta": "TypeScript · ★ 1 982 · +417 aujourd'hui",
+          "snapshot": {
+            "sourceId": "vastsa/PI-Desktop",
+            "capturedAt": "2026-09-10T09:30:29.755Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 1982,
+              "engagementCount": 417,
+              "rank": 12,
+              "extra": {
+                "starsToday": 417
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "iPhone Duo",
+          "url": "https://www.apple.com/iphone-duo/",
+          "summary": "Apple fait son entrée sur le marché des appareils pliables avec son nouveau smartphone, l'iPhone Duo, qui combine deux écrans distincts en un seul appareil. Ce nouveau matériel développé utilise les deux écrans de manière synchronisée pour offrir aux utilisateurs un espace de travail étendu.",
+          "meta": "1 197 votes · 2 110 commentaires",
+          "snapshot": {
+            "sourceId": "49630931",
+            "capturedAt": "2026-09-10T09:30:28.811Z",
+            "metadata": {
+              "popularity": 1197,
+              "engagementCount": 2110,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49630931",
+                  "popularity": 1197,
+                  "engagementCount": 2110
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "thecosmicfrog",
+                "createdAt": "2026-09-09T18:15:43Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49630931"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49630931",
+              "popularity": 1197,
+              "engagementCount": 2110
+            }
+          ]
+        },
+        {
+          "title": "Shopify acquires Tailwind",
+          "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+          "summary": "La plateforme de commerce électronique Shopify a acquis la bibliothèque de conception web populaire Tailwind CSS. Avec cette acquisition, l'équipe de Tailwind continuera à mener ses opérations de manière indépendante tout en se concentrant sur l'amélioration de l'infrastructure technologique de Shopify.",
+          "meta": "1 025 votes · 393 commentaires",
+          "snapshot": {
+            "sourceId": "49626190",
+            "capturedAt": "2026-09-10T09:30:28.811Z",
+            "metadata": {
+              "popularity": 1025,
+              "engagementCount": 393,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49626190",
+                  "popularity": 1025,
+                  "engagementCount": 393
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "EdwinHoksberg",
+                "createdAt": "2026-09-09T13:27:11Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49626190"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49626190",
+              "popularity": 1025,
+              "engagementCount": 393
+            }
+          ]
+        },
+        {
+          "title": "What do Visa and Mastercard do? An intro to card networks",
+          "url": "https://tautology.town/2026/06/01/card-networks.html",
+          "summary": "Le résumé de cet élément n'a pas pu être généré aujourd'hui · vous pouvez consulter le lien source pour plus de détails.",
+          "meta": "519 votes · 300 commentaires",
+          "snapshot": {
+            "sourceId": "49614280",
+            "capturedAt": "2026-09-10T09:30:28.811Z",
+            "metadata": {
+              "popularity": 519,
+              "engagementCount": 300,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49614280",
+                  "popularity": 519,
+                  "engagementCount": 300
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "evakhoury",
+                "createdAt": "2026-09-08T18:11:05Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49614280"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49614280",
+              "popularity": 519,
+              "engagementCount": 300
+            }
+          ]
+        },
+        {
+          "title": "AirPods 5",
+          "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+          "summary": "Les AirPods 5, présentés par Apple, associent un design à oreilles ouvertes à une fonction de réduction active du bruit (active noise cancellation). Le nouveau modèle utilise une technologie de traitement audio améliorée pour filtrer les bruits indésirables tout en permettant de continuer à entendre les sons de l'environnement extérieur.",
+          "meta": "449 votes · 375 commentaires",
+          "snapshot": {
+            "sourceId": "49630253",
+            "capturedAt": "2026-09-10T09:30:28.811Z",
+            "metadata": {
+              "popularity": 449,
+              "engagementCount": 375,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49630253",
+                  "popularity": 449,
+                  "engagementCount": 375
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "awad",
+                "createdAt": "2026-09-09T17:39:24Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49630253"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49630253",
+              "popularity": 449,
+              "engagementCount": 375
+            }
+          ]
+        },
+        {
+          "title": "Desert Ant Labs: local, fast models that run on device",
+          "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+          "summary": "Desert Ant Labs développe des modèles d'intelligence artificielle rapides et locaux (local models) qui fonctionnent sur l'appareil. Ne nécessitant pas de connexion Internet, ces modèles offrent des avantages en termes de confidentialité et de vitesse en traitant les données sur des appareils de périphérie (edge devices) sans les envoyer vers le cloud.",
+          "meta": "444 votes · 96 commentaires",
+          "snapshot": {
+            "sourceId": "49624823",
+            "capturedAt": "2026-09-10T09:30:28.811Z",
+            "metadata": {
+              "popularity": 444,
+              "engagementCount": 96,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49624823",
+                  "popularity": 444,
+                  "engagementCount": 96
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "willwhitedc",
+                "createdAt": "2026-09-09T11:39:46Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49624823"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49624823",
+              "popularity": 444,
+              "engagementCount": 96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+          "summary": "DeepSeek-V4.1-Flash est un modèle d'intelligence artificielle multimodal (multimodal model) qui traite des images et des textes pour générer des réponses textuelles. Hébergé sur Hugging Face, ce modèle est utilisé pour des tâches nécessitant l'analyse de données visuelles et textuelles grâce à sa capacité de traitement rapide des données.",
+          "meta": "♥ 632 · 6 téléchargements",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash",
+            "capturedAt": "2026-09-10T09:30:28.669Z",
+            "metadata": {
+              "popularity": 632,
+              "engagementCount": 6,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 620,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Reference-Based Bias Detection in LLMs via Relative Representations of Hidden States",
+          "url": "https://huggingface.co/papers/2609.10060",
+          "summary": "Cette méthode, développée pour détecter les biais dans les grands modèles de langage (LLM), analyse les représentations des états cachés (hidden state) plutôt que les sorties du modèle. En utilisant une mesure de similarité basée sur la référence pour comparer la géométrie de représentation qui change lors des processus de réglage fin (fine-tuning), elle vise à identifier les biais intrinsèques qui ne se reflètent pas dans le texte.",
+          "meta": "0 j'aime · 0 commentaires",
+          "snapshot": {
+            "sourceId": "2609.10060",
+            "capturedAt": "2026-09-10T09:30:28.679Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 0,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.10060",
+                "publishedAt": "2026-09-09T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "SWE-Bench Pro Verified: A Reliable Benchmark for Software Engineering Agents",
+          "url": "https://huggingface.co/papers/2609.08149",
+          "summary": "SWE-Bench Pro, qui évalue les agents d'ingénierie logicielle, rencontre des problèmes de fiabilité dus à des fuites de données et à des configurations de test erronées. Les chercheurs proposent une nouvelle méthode de validation pour remédier aux gonflements de performance dans ce système de mesure (benchmark) et pour analyser plus sainement les capacités de codage réelles des agents.",
+          "meta": "14 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.08149",
+            "capturedAt": "2026-09-10T09:30:28.679Z",
+            "metadata": {
+              "popularity": 14,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.08149",
+                "publishedAt": "2026-09-08T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Train Smarter, Not Harder: Switching Signal-Guided Training in Active Learning",
+          "url": "https://huggingface.co/papers/2609.06806",
+          "summary": "Dans les processus d'apprentissage actif (active learning), la décision d'entraîner le modèle à partir de zéro ou de poursuivre par un réglage fin (fine-tuning) affecte directement l'efficacité de l'entraînement. La méthode d'apprentissage hybride HybridAL propose une stratégie adaptative qui surveille l'état de stabilité du modèle pour passer d'un entraînement à partir de zéro aux premiers stades à un réglage fin aux stades avancés.",
+          "meta": "3 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.06806",
+            "capturedAt": "2026-09-10T09:30:28.679Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.06806",
+                "publishedAt": "2026-09-06T00:00:00.000Z",
+                "githubRepo": "https://github.com/naghamo/hybridAL"
+              }
+            }
+          }
+        },
+        {
+          "title": "SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators",
+          "url": "https://huggingface.co/papers/2609.09155",
+          "summary": "Le résumé de cet élément n'a pas pu être généré aujourd'hui · vous pouvez consulter le lien source pour plus de détails.",
+          "meta": "5 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.09155",
+            "capturedAt": "2026-09-10T09:30:28.679Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.09155",
+                "publishedAt": "2026-09-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/UMass-Embodied-AGI/SyncWorld",
+                "githubStars": 7
+              }
+            }
+          }
+        },
+        {
+          "title": "DF26: We Cannot Tell Fake From Real Anymore",
+          "url": "https://huggingface.co/papers/2609.07369",
+          "summary": "Le résumé de cet élément n'a pas pu être généré aujourd'hui · vous pouvez consulter le lien source pour plus de détails.",
+          "meta": "0 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.07369",
+            "capturedAt": "2026-09-10T09:30:28.679Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.07369",
+                "publishedAt": "2026-09-07T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Apple Event for September 9th, 2026",
+          "url": "https://www.apple.com/apple-events/event-stream/",
+          "summary": "Apple présentera ses nouveaux produits matériels lors de l'événement qu'elle organisera le 9 septembre 2026. Le monde de la technologie se demande si, avec sa nouvelle équipe de direction, l'entreprise se concentrera sur de nouveaux facteurs de forme tels que les appareils à écran pliable (foldable devices).",
+          "meta": "60 votes · 21 commentaires",
+          "snapshot": {
+            "sourceId": "zj6mij",
+            "capturedAt": "2026-09-10T09:30:28.936Z",
+            "metadata": {
+              "popularity": 60,
+              "engagementCount": 21,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/zj6mij/apple_event_for_september_9th_2026",
+                  "popularity": 60,
+                  "engagementCount": 21
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "event",
+                  "hardware",
+                  "ios",
+                  "mac",
+                  "video"
+                ],
+                "createdAt": "2026-09-09T11:54:31.267-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/zj6mij/apple_event_for_september_9th_2026",
+              "popularity": 60,
+              "engagementCount": 21
+            }
+          ]
+        },
+        {
+          "title": "Review a pull request by booting it",
+          "url": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
+          "summary": "Les développeurs de logiciels utilisent des outils qui lancent automatiquement une copie du code fonctionnant dans un environnement local lors du processus d'examen des demandes de tirage (pull request). Cette méthode améliore la qualité de l'examen en testant les modifications sur une application en direct plutôt qu'en les lisant simplement via le code.",
+          "meta": "8 votes · 2 commentaires",
+          "snapshot": {
+            "sourceId": "7lii0g",
+            "capturedAt": "2026-09-10T09:30:28.936Z",
+            "metadata": {
+              "popularity": 8,
+              "engagementCount": 2,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/7lii0g/review_pull_request_by_booting_it",
+                  "popularity": 8,
+                  "engagementCount": 2
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "nix",
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-09T19:32:35.866-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/7lii0g/review_pull_request_by_booting_it",
+              "popularity": 8,
+              "engagementCount": 2
+            }
+          ]
+        },
+        {
+          "title": "I Don’t Want to Interact With Stochastic Parrots",
+          "url": "https://ploum.net/2026-09-09-ai_policy.html",
+          "summary": "L'auteur soutient qu'au lieu d'interagir avec le contenu généré par des modèles d'intelligence artificielle générative (generative AI), il faut donner la priorité aux textes originaux créés par l'homme. Cette approche suggère que les modèles de langage, appelés perroquets stochastiques (stochastic parrots), dégradent la qualité du contenu et rendent l'interaction numérique dénuée de sens.",
+          "meta": "86 votes · 31 commentaires",
+          "snapshot": {
+            "sourceId": "rdhsu9",
+            "capturedAt": "2026-09-10T09:30:28.936Z",
+            "metadata": {
+              "popularity": 86,
+              "engagementCount": 31,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/rdhsu9/i_don_t_want_interact_with_stochastic",
+                  "popularity": 86,
+                  "engagementCount": 31
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "rant",
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-09T12:18:32.413-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/rdhsu9/i_don_t_want_interact_with_stochastic",
+              "popularity": 86,
+              "engagementCount": 31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": []
+}

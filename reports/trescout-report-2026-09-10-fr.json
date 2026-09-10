@@ -1,0 +1,862 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-10",
+  "capturedAt": "2026-09-10T09:30:28.541Z",
+  "editorial": "Les outils de développement logiciel axés sur l'intelligence artificielle et les benchmarks de performance sur les grands modèles de langage (LLM) sont au cœur de l'actualité technologique aujourd'hui. Les données de GitHub et HuggingFace montrent un trafic de développement intense, en particulier sur les agents automatisant les tâches d'ingénierie et les architectures de modèles compacts.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "summary": "i-have-adhd est une bibliothèque Python qui empêche les agents de développement logiciel de générer des réponses complexes et longues, rendant les sorties plus courtes et plus ciblées. Elle accélère l'accès à l'information en simplifiant les réponses pour les utilisateurs souffrant de trouble du déficit de l'attention avec ou sans hyperactivité (TDAH).",
+          "meta": "Python · ★ 36 141 · +4 650 aujourd'hui",
+          "snapshot": {
+            "sourceId": "ayghri/i-have-adhd",
+            "capturedAt": "2026-09-10T09:30:29.755Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 36141,
+              "engagementCount": 4650,
+              "rank": 1,
+              "extra": {
+                "starsToday": 4650
+              }
+            }
+          }
+        },
+        {
+          "title": "Tencent/teamai-cli",
+          "url": "https://github.com/Tencent/teamai-cli",
+          "summary": "teamai-cli, développé par Tencent, est un outil de développement logiciel qui permet aux équipes d'interagir avec des outils d'intelligence artificielle via une interface en ligne de commande (CLI). Cet outil vise à numériser les processus de travail des équipes en intégrant des fonctionnalités d'IA générative dans leurs flux de travail.",
+          "meta": "TypeScript · ★ 3 400 · +556 aujourd'hui",
+          "snapshot": {
+            "sourceId": "Tencent/teamai-cli",
+            "capturedAt": "2026-09-10T09:30:29.755Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 3400,
+              "engagementCount": 556,
+              "rank": 2,
+              "extra": {
+                "starsToday": 556
+              }
+            }
+          }
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers propose un cadre (framework) basé sur les capacités et une méthodologie de développement logiciel pour les agents d'intelligence artificielle. Cette structure, qui divise les tâches complexes en parties gérables, vise à standardiser les flux de travail des agents.",
+          "meta": "Shell · ★ 284 315 · +688 aujourd'hui",
+          "snapshot": {
+            "sourceId": "obra/superpowers",
+            "capturedAt": "2026-09-10T09:30:29.755Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 284315,
+              "engagementCount": 688,
+              "rank": 3,
+              "extra": {
+                "starsToday": 688
+              }
+            }
+          }
+        },
+        {
+          "title": "pascalorg/editor",
+          "url": "https://github.com/pascalorg/editor",
+          "summary": "Pascal est un éditeur 3D open source utilisé pour créer des conceptions architecturales. Grâce à son interface en ligne de commande (CLI) locale et à ses outils de protocole de contexte de modèle (MCP), il prend en charge les flux de travail aussi bien pour les humains que pour les agents d'intelligence artificielle.",
+          "meta": "TypeScript · ★ 23 184 · +107 aujourd'hui",
+          "snapshot": {
+            "sourceId": "pascalorg/editor",
+            "capturedAt": "2026-09-10T09:30:29.755Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 23184,
+              "engagementCount": 107,
+              "rank": 4,
+              "extra": {
+                "starsToday": 107
+              }
+            }
+          }
+        },
+        {
+          "title": "earthtojake/text-to-cad",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "summary": "Text-to-CAD est une bibliothèque Python qui transforme les commandes textuelles en processus de conception assistée par ordinateur (CAO), d'ingénierie (IAO) et de fabrication (FAO). Elle propose des packs de compétences (skills) permettant aux agents d'intelligence artificielle de créer des dessins techniques et des fichiers de production.",
+          "meta": "Python · ★ 15 257 · +124 aujourd'hui",
+          "snapshot": {
+            "sourceId": "earthtojake/text-to-cad",
+            "capturedAt": "2026-09-10T09:30:29.755Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 15257,
+              "engagementCount": 124,
+              "rank": 5,
+              "extra": {
+                "starsToday": 124
+              }
+            }
+          }
+        },
+        {
+          "title": "cathrynlavery/diagram-design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "summary": "Diagram-design propose 38 modèles de diagrammes éditeurs différents conçus pour les modèles d'intelligence artificielle (Claude Code, Codex, Pi). Ces visuels, aux formats HTML et SVG sans dépendances externes, offrent une méthode de visualisation simple et basée sur le code, remplaçant les outils de schéma complexes.",
+          "meta": "HTML · ★ 37 117 · +2 249 aujourd'hui",
+          "snapshot": {
+            "sourceId": "cathrynlavery/diagram-design",
+            "capturedAt": "2026-09-10T09:30:29.755Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 37117,
+              "engagementCount": 2249,
+              "rank": 6,
+              "extra": {
+                "starsToday": 2249
+              }
+            }
+          }
+        },
+        {
+          "title": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "summary": "TradingAgents est un cadre Python basé sur des agents d'intelligence artificielle multiples (multi-agent) conçu pour effectuer des transactions sur les marchés financiers. Il offre une infrastructure qui utilise des grands modèles de langage (LLM) pour analyser les données de marché et développer des stratégies de trading autonomes.",
+          "meta": "Python · ★ 104 319 · +367 aujourd'hui",
+          "snapshot": {
+            "sourceId": "TauricResearch/TradingAgents",
+            "capturedAt": "2026-09-10T09:30:29.755Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 104319,
+              "engagementCount": 367,
+              "rank": 7,
+              "extra": {
+                "starsToday": 367
+              }
+            }
+          }
+        },
+        {
+          "title": "liquidslr/system-design-notes",
+          "url": "https://github.com/liquidslr/system-design-notes",
+          "summary": "Ces notes préparées pour la préparation aux entretiens de conception de systèmes résument les concepts fondamentaux du livre populaire « System Design Interview - An Insider's Guide ». Elles offrent un guide d'étude structuré sur les architectures de systèmes évolutifs et les processus d'entretiens techniques.",
+          "meta": "★ 18 351 · +1 397 aujourd'hui",
+          "snapshot": {
+            "sourceId": "liquidslr/system-design-notes",
+            "capturedAt": "2026-09-10T09:30:29.755Z",
+            "metadata": {
+              "popularity": 18351,
+              "engagementCount": 1397,
+              "rank": 8,
+              "extra": {
+                "starsToday": 1397
+              }
+            }
+          }
+        },
+        {
+          "title": "openai/plugins",
+          "url": "https://github.com/openai/plugins",
+          "summary": "Le résumé de cet élément n'a pas pu être généré aujourd'hui · vous pouvez consulter le lien source pour plus de détails.",
+          "meta": "JavaScript · ★ 6 324 · +498 aujourd'hui",
+          "snapshot": {
+            "sourceId": "openai/plugins",
+            "capturedAt": "2026-09-10T09:30:29.755Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 6324,
+              "engagementCount": 498,
+              "rank": 9,
+              "extra": {
+                "starsToday": 498
+              }
+            }
+          }
+        },
+        {
+          "title": "freestylefly/awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "summary": "Awesome-gpt-image-2 est une bibliothèque complète qui organise les invites (prompts) utilisés pour les modèles de génération d'images avec une logique de code. En proposant plus de 530 exemples et des modèles de niveau industriel, elle contient des packs de compétences (skills) réutilisables qui permettent d'obtenir des résultats plus cohérents de la part de l'intelligence artificielle.",
+          "meta": "JavaScript · ★ 30 506 · +705 aujourd'hui",
+          "snapshot": {
+            "sourceId": "freestylefly/awesome-gpt-image-2",
+            "capturedAt": "2026-09-10T09:30:29.755Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 30506,
+              "engagementCount": 705,
+              "rank": 10,
+              "extra": {
+                "starsToday": 705
+              }
+            }
+          }
+        },
+        {
+          "title": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "summary": "Cette ressource, qui permet aux développeurs de logiciels d'apprendre les processus d'ingénierie de l'intelligence artificielle (AI engineering) à partir de zéro, propose des pratiques de développement d'applications basées sur Python. Elle promet une expérience d'apprentissage de bout en bout en combinant les connaissances théoriques avec les processus de codage et de déploiement.",
+          "meta": "Python · ★ 53 991 · +343 aujourd'hui",
+          "snapshot": {
+            "sourceId": "rohitg00/ai-engineering-from-scratch",
+            "capturedAt": "2026-09-10T09:30:29.755Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 53991,
+              "engagementCount": 343,
+              "rank": 11,
+              "extra": {
+                "starsToday": 343
+              }
+            }
+          }
+        },
+        {
+          "title": "vastsa/PI-Desktop",
+          "url": "https://github.com/vastsa/PI-Desktop",
+          "summary": "PI-Desktop est un agent de codage par intelligence artificielle développé selon le principe de fonctionnement « local-first » (priorité au local). Grâce à son architecture basée sur Electron (framework de développement d'applications de bureau) et Rust (langage de programmation système), il offre un environnement de développement logiciel personnalisable où les utilisateurs peuvent installer leurs propres extensions.",
+          "meta": "TypeScript · ★ 1 982 · +417 aujourd'hui",
+          "snapshot": {
+            "sourceId": "vastsa/PI-Desktop",
+            "capturedAt": "2026-09-10T09:30:29.755Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 1982,
+              "engagementCount": 417,
+              "rank": 12,
+              "extra": {
+                "starsToday": 417
+              }
+            }
+          }
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC est un système d'amélioration des performances qui optimise les couches de capacité, de mémoire et de sécurité pour les modèles d'intelligence artificielle. Il est conçu pour rendre les flux de travail basés sur des agents plus efficaces sur des plateformes telles que Claude Code et l'outil d'édition de code Cursor.",
+          "meta": "JavaScript · ★ 255 458 · +1 133 aujourd'hui",
+          "snapshot": {
+            "sourceId": "affaan-m/ECC",
+            "capturedAt": "2026-09-10T09:30:29.755Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 255458,
+              "engagementCount": 1133,
+              "rank": 13,
+              "extra": {
+                "starsToday": 1133
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "iPhone Duo",
+          "url": "https://www.apple.com/iphone-duo/",
+          "summary": "Apple fait son entrée sur le marché des appareils pliables avec son nouveau smartphone, l'iPhone Duo, qui combine deux écrans distincts en un seul appareil. Ce nouveau matériel développé utilise les deux écrans de manière synchronisée pour offrir aux utilisateurs un espace de travail étendu.",
+          "meta": "1 197 votes · 2 110 commentaires",
+          "snapshot": {
+            "sourceId": "49630931",
+            "capturedAt": "2026-09-10T09:30:28.811Z",
+            "metadata": {
+              "popularity": 1197,
+              "engagementCount": 2110,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49630931",
+                  "popularity": 1197,
+                  "engagementCount": 2110
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "thecosmicfrog",
+                "createdAt": "2026-09-09T18:15:43Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49630931"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49630931",
+              "popularity": 1197,
+              "engagementCount": 2110
+            }
+          ]
+        },
+        {
+          "title": "Shopify acquires Tailwind",
+          "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+          "summary": "La plateforme de commerce électronique Shopify a acquis la bibliothèque de conception web populaire Tailwind CSS. Avec cette acquisition, l'équipe de Tailwind continuera à mener ses opérations de manière indépendante tout en se concentrant sur l'amélioration de l'infrastructure technologique de Shopify.",
+          "meta": "1 025 votes · 393 commentaires",
+          "snapshot": {
+            "sourceId": "49626190",
+            "capturedAt": "2026-09-10T09:30:28.811Z",
+            "metadata": {
+              "popularity": 1025,
+              "engagementCount": 393,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49626190",
+                  "popularity": 1025,
+                  "engagementCount": 393
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "EdwinHoksberg",
+                "createdAt": "2026-09-09T13:27:11Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49626190"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49626190",
+              "popularity": 1025,
+              "engagementCount": 393
+            }
+          ]
+        },
+        {
+          "title": "What do Visa and Mastercard do? An intro to card networks",
+          "url": "https://tautology.town/2026/06/01/card-networks.html",
+          "summary": "Le résumé de cet élément n'a pas pu être généré aujourd'hui · vous pouvez consulter le lien source pour plus de détails.",
+          "meta": "519 votes · 300 commentaires",
+          "snapshot": {
+            "sourceId": "49614280",
+            "capturedAt": "2026-09-10T09:30:28.811Z",
+            "metadata": {
+              "popularity": 519,
+              "engagementCount": 300,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49614280",
+                  "popularity": 519,
+                  "engagementCount": 300
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "evakhoury",
+                "createdAt": "2026-09-08T18:11:05Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49614280"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49614280",
+              "popularity": 519,
+              "engagementCount": 300
+            }
+          ]
+        },
+        {
+          "title": "AirPods 5",
+          "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+          "summary": "Les AirPods 5, présentés par Apple, associent un design à oreilles ouvertes à une fonction de réduction active du bruit (active noise cancellation). Le nouveau modèle utilise une technologie de traitement audio améliorée pour filtrer les bruits indésirables tout en permettant de continuer à entendre les sons de l'environnement extérieur.",
+          "meta": "449 votes · 375 commentaires",
+          "snapshot": {
+            "sourceId": "49630253",
+            "capturedAt": "2026-09-10T09:30:28.811Z",
+            "metadata": {
+              "popularity": 449,
+              "engagementCount": 375,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49630253",
+                  "popularity": 449,
+                  "engagementCount": 375
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "awad",
+                "createdAt": "2026-09-09T17:39:24Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49630253"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49630253",
+              "popularity": 449,
+              "engagementCount": 375
+            }
+          ]
+        },
+        {
+          "title": "Desert Ant Labs: local, fast models that run on device",
+          "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+          "summary": "Desert Ant Labs développe des modèles d'intelligence artificielle rapides et locaux (local models) qui fonctionnent sur l'appareil. Ne nécessitant pas de connexion Internet, ces modèles offrent des avantages en termes de confidentialité et de vitesse en traitant les données sur des appareils de périphérie (edge devices) sans les envoyer vers le cloud.",
+          "meta": "444 votes · 96 commentaires",
+          "snapshot": {
+            "sourceId": "49624823",
+            "capturedAt": "2026-09-10T09:30:28.811Z",
+            "metadata": {
+              "popularity": 444,
+              "engagementCount": 96,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49624823",
+                  "popularity": 444,
+                  "engagementCount": 96
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "willwhitedc",
+                "createdAt": "2026-09-09T11:39:46Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49624823"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49624823",
+              "popularity": 444,
+              "engagementCount": 96
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "openbmb/MiniCPM5-2B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+          "summary": "MiniCPM5-2B, développé par OpenBMB, est un modèle de langage compact axé sur la génération de texte (text generation). Avec un faible nombre de paramètres, il offre des capacités de traitement de texte haute performance, même sur des ressources matérielles limitées.",
+          "meta": "♥ 1 009 · 42 289 téléchargements",
+          "snapshot": {
+            "sourceId": "openbmb/MiniCPM5-2B",
+            "capturedAt": "2026-09-10T09:30:28.669Z",
+            "metadata": {
+              "popularity": 1009,
+              "engagementCount": 42289,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 827,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "llama",
+                  "text-generation",
+                  "minicpm",
+                  "minicpm5",
+                  "long-context",
+                  "tool-calling",
+                  "on-device",
+                  "edge-ai",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "dataset:openbmb/Ultra-FineWeb",
+                  "dataset:openbmb/UltraX-Preview",
+                  "dataset:openbmb/Ultra-FineWeb-L3",
+                  "dataset:openbmb/UltraData-Math",
+                  "dataset:openbmb/UltraData-Code",
+                  "dataset:openbmb/UltraData-SFT-2605",
+                  "dataset:openbmb/UltraData-SFT-Agent-2609",
+                  "dataset:openbmb/UltraData-RL-2609",
+                  "arxiv:2506.07900",
+                  "arxiv:2602.09003",
+                  "license:apache-2.0",
+                  "text-generation-inference",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "XHToken/Spark-X2.5-4B",
+          "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+          "summary": "Spark-X2.5-4B, partagé sur HuggingFace, est un modèle d'intelligence artificielle compact axé sur la capacité de génération de texte (text generation). Offrant des réponses rapides grâce à son faible nombre de paramètres, ce modèle constitue une alternative efficace pour les tâches de traitement du langage naturel.",
+          "meta": "♥ 1 028 · 15 930 téléchargements",
+          "snapshot": {
+            "sourceId": "XHToken/Spark-X2.5-4B",
+            "capturedAt": "2026-09-10T09:30:28.669Z",
+            "metadata": {
+              "popularity": 1028,
+              "engagementCount": 15930,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 723,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "spark2_5",
+                  "text-generation",
+                  "llm",
+                  "sparkx2_5",
+                  "conversational",
+                  "custom_code",
+                  "base_model:XHToken/Spark-X2.5-4B-Base",
+                  "base_model:finetune:XHToken/Spark-X2.5-4B-Base",
+                  "license:apache-2.0",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+          "summary": "DeepSeek-V4.1-Flash est un modèle d'intelligence artificielle multimodal (multimodal model) qui traite des images et des textes pour générer des réponses textuelles. Hébergé sur Hugging Face, ce modèle est utilisé pour des tâches nécessitant l'analyse de données visuelles et textuelles grâce à sa capacité de traitement rapide des données.",
+          "meta": "♥ 632 · 6 téléchargements",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash",
+            "capturedAt": "2026-09-10T09:30:28.669Z",
+            "metadata": {
+              "popularity": 632,
+              "engagementCount": 6,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 620,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Qwen2.5-27B, développé par Alibaba, est un modèle de langage multimodal (multimodal language model) capable de traiter à la fois des données visuelles et textuelles. Ce modèle offre un large éventail d'applications grâce à sa capacité à analyser des images complexes pour générer des réponses textuelles.",
+          "meta": "♥ 14 564 · 7 322 476 téléchargements",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-27B",
+            "capturedAt": "2026-09-10T09:30:28.669Z",
+            "metadata": {
+              "popularity": 14564,
+              "engagementCount": 7322476,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 538,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "deploy:azure",
+                  "deploy:sagemaker",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+          "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+          "summary": "Qwen3.8-27B-GSQ-RCO-GGUF, publié par ISTA-DASLab, est un modèle d'intelligence artificielle multimodal (multimodal AI) qui traite des données visuelles et textuelles pour produire des sorties textuelles. Le modèle vise à utiliser les ressources matérielles plus efficacement en exécutant des modèles de langage volumineux (LLM) dans un format compressé (GGUF).",
+          "meta": "♥ 752 · 614 850 téléchargements",
+          "snapshot": {
+            "sourceId": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+            "capturedAt": "2026-09-10T09:30:28.669Z",
+            "metadata": {
+              "popularity": 752,
+              "engagementCount": 614850,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 537,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "gguf",
+                  "gsq",
+                  "rco",
+                  "quantization",
+                  "mixed-precision",
+                  "ist-daslab",
+                  "multimodal",
+                  "vision",
+                  "image-text-to-text",
+                  "arxiv:2604.18556",
+                  "arxiv:2605.00649",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:quantized:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "imatrix",
+                  "conversational"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Reference-Based Bias Detection in LLMs via Relative Representations of Hidden States",
+          "url": "https://huggingface.co/papers/2609.10060",
+          "summary": "Cette méthode, développée pour détecter les biais dans les grands modèles de langage (LLM), analyse les représentations des états cachés (hidden state) plutôt que les sorties du modèle. En utilisant une mesure de similarité basée sur la référence pour comparer la géométrie de représentation qui change lors des processus de réglage fin (fine-tuning), elle vise à identifier les biais intrinsèques qui ne se reflètent pas dans le texte.",
+          "meta": "0 j'aime · 0 commentaires",
+          "snapshot": {
+            "sourceId": "2609.10060",
+            "capturedAt": "2026-09-10T09:30:28.679Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 0,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.10060",
+                "publishedAt": "2026-09-09T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "SWE-Bench Pro Verified: A Reliable Benchmark for Software Engineering Agents",
+          "url": "https://huggingface.co/papers/2609.08149",
+          "summary": "SWE-Bench Pro, qui évalue les agents d'ingénierie logicielle, rencontre des problèmes de fiabilité dus à des fuites de données et à des configurations de test erronées. Les chercheurs proposent une nouvelle méthode de validation pour remédier aux gonflements de performance dans ce système de mesure (benchmark) et pour analyser plus sainement les capacités de codage réelles des agents.",
+          "meta": "14 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.08149",
+            "capturedAt": "2026-09-10T09:30:28.679Z",
+            "metadata": {
+              "popularity": 14,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.08149",
+                "publishedAt": "2026-09-08T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Train Smarter, Not Harder: Switching Signal-Guided Training in Active Learning",
+          "url": "https://huggingface.co/papers/2609.06806",
+          "summary": "Dans les processus d'apprentissage actif (active learning), la décision d'entraîner le modèle à partir de zéro ou de poursuivre par un réglage fin (fine-tuning) affecte directement l'efficacité de l'entraînement. La méthode d'apprentissage hybride HybridAL propose une stratégie adaptative qui surveille l'état de stabilité du modèle pour passer d'un entraînement à partir de zéro aux premiers stades à un réglage fin aux stades avancés.",
+          "meta": "3 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.06806",
+            "capturedAt": "2026-09-10T09:30:28.679Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.06806",
+                "publishedAt": "2026-09-06T00:00:00.000Z",
+                "githubRepo": "https://github.com/naghamo/hybridAL"
+              }
+            }
+          }
+        },
+        {
+          "title": "SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators",
+          "url": "https://huggingface.co/papers/2609.09155",
+          "summary": "Le résumé de cet élément n'a pas pu être généré aujourd'hui · vous pouvez consulter le lien source pour plus de détails.",
+          "meta": "5 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.09155",
+            "capturedAt": "2026-09-10T09:30:28.679Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.09155",
+                "publishedAt": "2026-09-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/UMass-Embodied-AGI/SyncWorld",
+                "githubStars": 7
+              }
+            }
+          }
+        },
+        {
+          "title": "DF26: We Cannot Tell Fake From Real Anymore",
+          "url": "https://huggingface.co/papers/2609.07369",
+          "summary": "Le résumé de cet élément n'a pas pu être généré aujourd'hui · vous pouvez consulter le lien source pour plus de détails.",
+          "meta": "0 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.07369",
+            "capturedAt": "2026-09-10T09:30:28.679Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.07369",
+                "publishedAt": "2026-09-07T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Apple Event for September 9th, 2026",
+          "url": "https://www.apple.com/apple-events/event-stream/",
+          "summary": "Apple présentera ses nouveaux produits matériels lors de l'événement qu'elle organisera le 9 septembre 2026. Le monde de la technologie se demande si, avec sa nouvelle équipe de direction, l'entreprise se concentrera sur de nouveaux facteurs de forme tels que les appareils à écran pliable (foldable devices).",
+          "meta": "60 votes · 21 commentaires",
+          "snapshot": {
+            "sourceId": "zj6mij",
+            "capturedAt": "2026-09-10T09:30:28.936Z",
+            "metadata": {
+              "popularity": 60,
+              "engagementCount": 21,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/zj6mij/apple_event_for_september_9th_2026",
+                  "popularity": 60,
+                  "engagementCount": 21
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "event",
+                  "hardware",
+                  "ios",
+                  "mac",
+                  "video"
+                ],
+                "createdAt": "2026-09-09T11:54:31.267-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/zj6mij/apple_event_for_september_9th_2026",
+              "popularity": 60,
+              "engagementCount": 21
+            }
+          ]
+        },
+        {
+          "title": "Review a pull request by booting it",
+          "url": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
+          "summary": "Les développeurs de logiciels utilisent des outils qui lancent automatiquement une copie du code fonctionnant dans un environnement local lors du processus d'examen des demandes de tirage (pull request). Cette méthode améliore la qualité de l'examen en testant les modifications sur une application en direct plutôt qu'en les lisant simplement via le code.",
+          "meta": "8 votes · 2 commentaires",
+          "snapshot": {
+            "sourceId": "7lii0g",
+            "capturedAt": "2026-09-10T09:30:28.936Z",
+            "metadata": {
+              "popularity": 8,
+              "engagementCount": 2,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/7lii0g/review_pull_request_by_booting_it",
+                  "popularity": 8,
+                  "engagementCount": 2
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "nix",
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-09T19:32:35.866-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/7lii0g/review_pull_request_by_booting_it",
+              "popularity": 8,
+              "engagementCount": 2
+            }
+          ]
+        },
+        {
+          "title": "I Don’t Want to Interact With Stochastic Parrots",
+          "url": "https://ploum.net/2026-09-09-ai_policy.html",
+          "summary": "L'auteur soutient qu'au lieu d'interagir avec le contenu généré par des modèles d'intelligence artificielle générative (generative AI), il faut donner la priorité aux textes originaux créés par l'homme. Cette approche suggère que les modèles de langage, appelés perroquets stochastiques (stochastic parrots), dégradent la qualité du contenu et rendent l'interaction numérique dénuée de sens.",
+          "meta": "86 votes · 31 commentaires",
+          "snapshot": {
+            "sourceId": "rdhsu9",
+            "capturedAt": "2026-09-10T09:30:28.936Z",
+            "metadata": {
+              "popularity": 86,
+              "engagementCount": 31,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/rdhsu9/i_don_t_want_interact_with_stochastic",
+                  "popularity": 86,
+                  "engagementCount": 31
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "rant",
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-09T12:18:32.413-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/rdhsu9/i_don_t_want_interact_with_stochastic",
+              "popularity": 86,
+              "engagementCount": 31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": []
+}
