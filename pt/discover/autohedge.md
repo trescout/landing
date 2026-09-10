@@ -2,7 +2,7 @@
 
 AutoHedge é uma estrutura que utiliza inteligência de enxame e agentes de IA para automatizar a análise de mercado, a gestão de risco e as operações de negociação. Permite que os usuários criem seus próprios fundos de hedge autônomos em minutos.
 
-- ★ 4.929
+- ★ 5.980
 - Python
 - GitHub Trending · 2026-09-07
 

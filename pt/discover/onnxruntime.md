@@ -2,7 +2,7 @@
 
 ONNX Runtime é um acelerador multiplataforma de alto desempenho para inferência e treinamento de aprendizado de máquina.
 
-- ★ 21.495
+- ★ 21.808
 - C++
 - GitHub Trending · 2026-08-22
 

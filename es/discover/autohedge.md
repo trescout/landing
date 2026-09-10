@@ -2,7 +2,7 @@
 
 AutoHedge es un marco que utiliza inteligencia de enjambre y agentes de inteligencia artificial para automatizar el análisis de mercado, la gestión de riesgos y las operaciones de trading. Permite a los usuarios crear sus propios fondos de cobertura autónomos en cuestión de minutos.
 
-- ★ 4.929
+- ★ 5.980
 - Python
 - GitHub Trending · 2026-09-07
 

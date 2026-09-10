@@ -2,7 +2,7 @@
 
 Os plug-ins OpenAI permitem que modelos de linguagem acessem dados atuais e interajam com aplicativos de terceiros. Essa estrutura permite que a inteligência artificial execute tarefas complexas utilizando ferramentas externas.
 
-- ★ 5.110
+- ★ 6.331
 - JavaScript
 - GitHub Trending · 2026-06-06
 

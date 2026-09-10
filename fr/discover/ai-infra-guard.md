@@ -2,7 +2,7 @@
 
 AI-Infra-Guard est une plate-forme d'équipe rouge d'IA de bout en bout qui analyse les agents, les compétences, le MCP et l'infrastructure d'IA, et effectue des évaluations de jailbreak LLM.
 
-- ★ 5 995
+- ★ 6 219
 - Python
 - GitHub Trending · 2026-08-20
 

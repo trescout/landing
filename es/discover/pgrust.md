@@ -2,7 +2,7 @@
 
 El proyecto pgrust, en el que se reescribió el sistema de gestión de bases de datos PostgreSQL con el lenguaje de programación Rust, completa con éxito todas las pruebas de regresión. Este estudio tiene como objetivo modernizar la arquitectura de la base de datos con un lenguaje centrado en la seguridad de la memoria.
 
-- ★ 3.957
+- ★ 4.964
 - Rust
 - GitHub Trending · 2026-07-12
 

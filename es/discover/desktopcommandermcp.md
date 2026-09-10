@@ -2,7 +2,7 @@
 
 DesktopCommanderMCP es un servidor de protocolo de contexto modelo desarrollado para Claude que proporciona control de terminal, búsqueda de sistemas de archivos y capacidades de edición de archivos basadas en diferencias al modelo de inteligencia artificial. Escrita en TypeScript, esta herramienta permite que la inteligencia artificial realice operaciones directas en sistemas de archivos locales.
 
-- ★ 9.472
+- ★ 9.521
 - TypeScript
 - GitHub Trending · 2026-07-09
 

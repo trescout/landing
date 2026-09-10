@@ -2,11 +2,12 @@
 
 Redis'in yaratıcısı Salvatore Sanfilippo tarafından geliştirilen ds4, DeepSeek modellerini yerel donanımlar üzerinde çalıştırmayı sağlayan bir çıkarım motoru (inference engine). C diliyle yazılan bu araç, Metal, CUDA ve ROCm desteği sayesinde farklı grafik işlemcilerinde yüksek performanslı model çalıştırma imkânı sunuyor.
 
-- ★ 21.134
+- ★ 22.197
 - C
 - GitHub Trending · 2026-08-03
 
 ## Güncelleme
+- 10 Eylül 2026: Yıldız 21.134 → 22.197.
 - 11 Ağustos 2026: Yıldız 20.117 → 21.134.
 
 ## Ne kazandırır?

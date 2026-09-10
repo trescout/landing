@@ -2,7 +2,7 @@
 
 Das pgrust-Projekt, bei dem das PostgreSQL-Datenbankverwaltungssystem mit der Programmiersprache Rust neu geschrieben wurde, schließt alle Regressionstests erfolgreich ab. Diese Studie zielt darauf ab, die Datenbankarchitektur mit einer Sprache zu modernisieren, die auf Speichersicherheit ausgerichtet ist.
 
-- ★ 3.957
+- ★ 4.964
 - Rust
 - GitHub Trending · 2026-07-12
 

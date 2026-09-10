@@ -36,8 +36,8 @@ Por lo general, las conexiones API o bloques de código especiales se escriben p
 - [Awesome Claude Skills](/es/discover/awesome-claude-skills/)
 - [Last30days Skill](/es/discover/last30days-skill/)
 - [Archify](/es/discover/archify/)
-- [Reverse Skill](/es/discover/reverse-skill/)
 - [I Have Adhd](/es/discover/i-have-adhd/)
+- [Reverse Skill](/es/discover/reverse-skill/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/skill/

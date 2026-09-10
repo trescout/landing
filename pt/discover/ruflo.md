@@ -2,7 +2,7 @@
 
 Ruflo é uma camada de orquestração de agentes para implantação de enxames de agentes inteligentes, coordenação de fluxos de trabalho autônomos e construção de sistemas de IA conversacionais.
 
-- ★ 71.545
+- ★ 71.887
 - TypeScript
 - GitHub Trending · 2026-08-22
 

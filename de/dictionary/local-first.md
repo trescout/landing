@@ -29,6 +29,7 @@ Local-First-Anwendungen können häufig verschlüsselt in der Cloud gesichert we
 - [Agentsview](/de/discover/agentsview/)
 - [Wigolo](/de/discover/wigolo/)
 - [Open Science](/de/discover/open-science/)
+- [PI-Desktop](/de/discover/pi-desktop/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/local-first/

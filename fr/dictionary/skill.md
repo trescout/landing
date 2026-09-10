@@ -36,8 +36,8 @@ Habituellement, des connexions API ou des blocs de code spéciaux sont écrits p
 - [Awesome Claude Skills](/fr/discover/awesome-claude-skills/)
 - [Last30days Skill](/fr/discover/last30days-skill/)
 - [Archify](/fr/discover/archify/)
-- [Reverse Skill](/fr/discover/reverse-skill/)
 - [I Have Adhd](/fr/discover/i-have-adhd/)
+- [Reverse Skill](/fr/discover/reverse-skill/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/skill/

@@ -2,7 +2,7 @@
 
 Pascalorg/editor baseado em TypeScript permite aos usuários criar e compartilhar projetos arquitetônicos tridimensionais por meio do navegador. O software tem como objetivo tornar os processos de projeto arquitetônico acessíveis por meio de uma interface baseada na web.
 
-- ★ 21.794
+- ★ 23.190
 - TypeScript
 - GitHub Trending · 2026-07-29
 

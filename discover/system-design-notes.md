@@ -2,8 +2,11 @@
 
 Sistem tasarımı mülakatlarına hazırlık rehberi (System Design Interview - An Insider's Guide) kitabından derlenen notlar, karmaşık yazılım mimarilerini anlamak için kapsamlı bir kaynak sunuyor. Ölçeklenebilir sistem tasarımı (system design) süreçlerini ve temel mühendislik prensiplerini pratik örneklerle açıklıyor.
 
-- ★ 17.273
+- ★ 18.359
 - GitHub Trending · 2026-09-09
+
+## Güncelleme
+- 10 Eylül 2026: Yıldız 17.273 → 18.359.
 
 ## Ne kazandırır?
 - Karmaşık yazılım mimarilerini anlama

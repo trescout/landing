@@ -2,7 +2,7 @@
 
 Choque Fl; Es un cliente proxy multiplataforma basado en ClashMeta. Fue desarrollado con Dart y tiene una estructura de código abierto, fácil de usar y sin publicidad.
 
-- ★ 49.138
+- ★ 51.594
 - Dart
 - GPL-3.0
 - GitHub Trending · 30 May 2026

@@ -2,7 +2,7 @@
 
 DS4 wurde von Salvatore Sanfilippo, dem Erfinder von Redis, entwickelt und ist eine Inferenz-Engine, die die Ausführung von DeepSeek-Modellen auf lokaler Hardware ermöglicht. Dieses in C-Sprache geschriebene Tool bietet dank Metal-, CUDA- und ROCm-Unterstützung die Möglichkeit, Hochleistungsmodelle auf verschiedenen Grafikprozessoren auszuführen.
 
-- ★ 21.134
+- ★ 22.197
 - C
 - GitHub Trending · 2026-08-03
 

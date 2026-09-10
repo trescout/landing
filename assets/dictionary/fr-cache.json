@@ -4180,6 +4180,7 @@
  "PDF parser ile karıştırılabilir; parser veriyi çeker, inspector ise verinin kalitesini ve yapısını denetler.": "Peut être mélangé avec un analyseur PDF ; L'analyseur extrait les données et l'inspecteur vérifie la qualité et la structure des données.",
  "PDF'i düzenleyebilir miyim?": "Puis-je modifier le PDF ?",
  "PDF, belgenin içindeki yazıların, resimlerin ve düzenin sabitlenmiş bir halidir. Bir Word dosyasını başka bilgisayarda açtığınızda yazı tipi kayabilir, ancak PDF bu riski ortadan kaldırır. Günümüzde yapay zekâ sistemleri için en çok veri çekilen kaynaklardan biridir.": "Le PDF est une version fixe du texte, des images et de la mise en page du document. La police peut changer lorsque vous ouvrez un fichier Word sur un autre ordinateur, mais le format PDF élimine ce risque. Aujourd’hui, c’est l’une des sources de données les plus utilisées pour les systèmes d’intelligence artificielle.",
+ "PI-Desktop": "PI-Desktop",
  "PLFM RADAR": "RADAR PLFM",
  "PPF Contact Solver": "Solveur de contacts PPF",
  "PPI (Pixels Per Inch) ile sıkça karıştırılır; DPI daha çok fiziksel baskı, PPI ise ekran pikselleriyle ilgilidir.": "Il est souvent confondu avec PPI (Pixels Per Inch) ; Le DPI concerne davantage l’impression physique, tandis que le PPI concerne les pixels de l’écran.",

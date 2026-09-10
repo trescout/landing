@@ -2,7 +2,7 @@
 
 AutoHedge ist ein Framework, das Schwarmintelligenz und KI-Agenten nutzt, um Marktanalysen, Risikomanagement und Handelsgeschäfte zu automatisieren. Es ermöglicht Benutzern, ihre eigenen autonomen Hedgefonds innerhalb von Minuten zu erstellen.
 
-- ★ 4.929
+- ★ 5.980
 - Python
 - GitHub Trending · 2026-09-07
 

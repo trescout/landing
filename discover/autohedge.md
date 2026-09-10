@@ -2,9 +2,12 @@
 
 AutoHedge, piyasa analizi, risk yönetimi ve alım satım işlemlerini otomatikleştirmek için sürü zekası (swarm intelligence) ve yapay zekâ ajanlarını kullanan bir çerçeve. Kullanıcıların kendi otonom yatırım fonlarını (autonomous hedge fund) dakikalar içinde oluşturmasına olanak tanıyor.
 
-- ★ 4.929
+- ★ 5.980
 - Python
 - GitHub Trending · 2026-09-07
+
+## Güncelleme
+- 10 Eylül 2026: Yıldız 4.929 → 5.980.
 
 ## Ne kazandırır?
 - Piyasa analizi ve risk yönetimini otomatize eder

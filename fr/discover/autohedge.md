@@ -2,7 +2,7 @@
 
 AutoHedge est un framework qui utilise l'intelligence en essaim et des agents d'IA pour automatiser l'analyse de marché, la gestion des risques et les opérations de trading. Il permet aux utilisateurs de créer leurs propres fonds spéculatifs autonomes (autonomous hedge fund) en quelques minutes.
 
-- ★ 4 929
+- ★ 5 980
 - Python
 - GitHub Trending · 2026-09-07
 
