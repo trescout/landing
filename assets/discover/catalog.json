@@ -31594,7 +31594,8 @@
     "tagline_fr": "Développé par Tencent, teamai-cli permet aux équipes d'interagir avec des outils d'intelligence artificielle via une interface de ligne de commande (CLI)...",
     "tagline_pt": "Desenvolvido pela Tencent, o teamai-cli permite que as equipes interajam com ferramentas de inteligência artificial por meio de uma interface de linha de comando (CLI)...",
     "tagline_es": "teamai-cli, desarrollado por Tencent, permite a los equipos interactuar con herramientas de inteligencia artificial a través de una interfaz de línea de comandos (CLI)...",
-    "tagline_de": "Das von Tencent entwickelte teamai-cli ermöglicht es Teams, über eine Befehlszeilenschnittstelle (CLI) mit KI-Tools zu interagieren..."
+    "tagline_de": "Das von Tencent entwickelte teamai-cli ermöglicht es Teams, über eine Befehlszeilenschnittstelle (CLI) mit KI-Tools zu interagieren...",
+    "last_seen": "2026-09-10"
   },
   {
     "slug": "pi-desktop",
@@ -31626,6 +31627,7 @@
     "tagline_fr": "PI-Desktop est un agent de codage par intelligence artificielle développé selon le principe de fonctionnement « local-first » (priorité au local).",
     "tagline_pt": "O PI-Desktop é um agente de codificação de inteligência artificial desenvolvido com o princípio de trabalho local-first (prioridade local).",
     "tagline_es": "PI-Desktop es un agente de codificación de inteligencia artificial desarrollado con un principio de funcionamiento local-first.",
-    "tagline_de": "PI-Desktop ist ein KI-Coding-Agent, der nach dem Local-First-Prinzip entwickelt wurde."
+    "tagline_de": "PI-Desktop ist ein KI-Coding-Agent, der nach dem Local-First-Prinzip entwickelt wurde.",
+    "last_seen": "2026-09-10"
   }
 ]
