@@ -623,10 +623,10 @@
     "slug": "claude-mem",
     "title": "claude-mem",
     "tagline": "AI ajanınız için kalıcı hafıza: Oturumlar arası bağlamı hatırlar ve tek komutla kurulur.",
-    "meta": "★ 93.658 · Apache-2.0",
+    "meta": "★ 93.659 · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-26",
-    "stars": 93658,
+    "stars": 93659,
     "tags": [
       "Yapay zekâ araçları",
       "Geliştirici aracı"
@@ -738,6 +738,13 @@
         "yildiz": 93658,
         "onceki_yildiz": 93601,
         "surum": "v13.24.17",
+        "surum_tarihi": "2026-09-11"
+      },
+      {
+        "tarih": "2026-09-11",
+        "yildiz": 93659,
+        "onceki_yildiz": 93658,
+        "surum": "v13.24.19",
         "surum_tarihi": "2026-09-11"
       }
     ],
@@ -5983,7 +5990,7 @@
     "stars": 80243,
     "lite": false,
     "headline": "Çin eğitim müfredatı ve ders kitapları",
-    "last_review": "2026-09-09",
+    "last_review": "2026-09-11",
     "guncellemeler": [
       {
         "tarih": "2026-08-03",
@@ -13836,7 +13843,7 @@
     "slug": "cubesandbox",
     "title": "CubeSandbox",
     "tagline": "TencentCloud tarafından Rust diliyle geliştirilen CubeSandbox, yapay zekâ ajanları (AI agents) için anlık, eş zamanlı ve…",
-    "meta": "★ 11.512 · Rust",
+    "meta": "★ 12.161 · Rust",
     "image": "/assets/discover/og/cubesandbox.webp",
     "source": "GitHub",
     "date": "2026-07-02",
@@ -13844,7 +13851,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 11512,
+    "stars": 12161,
     "lite": false,
     "headline": "Yapay zekâ ajanları için güvenli çalışma ortamı",
     "last_review": "2026-09-11",
@@ -13862,6 +13869,13 @@
         "onceki_yildiz": 10828,
         "surum": "v0.7.0",
         "surum_tarihi": "2026-08-28"
+      },
+      {
+        "tarih": "2026-09-11",
+        "yildiz": 12161,
+        "onceki_yildiz": 11512,
+        "surum": "v0.7.1",
+        "surum_tarihi": "2026-09-11"
       }
     ],
     "tagline_en": "Developed by TencentCloud in Rust, CubeSandbox is an instant, simultaneous and…",
@@ -18708,7 +18722,7 @@
     "slug": "lobehub",
     "title": "Lobehub",
     "tagline": "LobeHub, yapay zekâ ajanlarını işe alma, zamanlama ve raporlama süreçleriyle yöneterek 7 gün 24 saat çalışan bir yapay zekâ…",
-    "meta": "★ 82.246 · TypeScript",
+    "meta": "★ 82.391 · TypeScript",
     "image": "/assets/discover/og/lobehub.webp",
     "source": "GitHub",
     "date": "2026-07-17",
@@ -18716,7 +18730,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 82246,
+    "stars": 82391,
     "lite": false,
     "headline": "Yapay zekâ ajanları ile operasyon yönetimi",
     "last_review": "2026-09-11",
@@ -18748,6 +18762,13 @@
         "onceki_yildiz": 82127,
         "surum": "v2.2.16",
         "surum_tarihi": "2026-09-04"
+      },
+      {
+        "tarih": "2026-09-11",
+        "yildiz": 82391,
+        "onceki_yildiz": 82246,
+        "surum": "v2.2.17",
+        "surum_tarihi": "2026-09-11"
       }
     ],
     "tagline_en": "LobeHub is an artificial intelligence system that works 24/7 by managing artificial intelligence agents through recruitment, scheduling and reporting processes.",
@@ -31627,7 +31648,7 @@
     "slug": "openwhispr",
     "title": "Openwhispr",
     "tagline": "OpenWhispr, ses dosyalarını metne dönüştüren (voice-to-text) ve yerel modeller ile bulut tabanlı seçenekleri birleştiren bir…",
-    "meta": "★ 7.660 · JavaScript",
+    "meta": "★ 8.031 · JavaScript",
     "image": "/assets/discover/og/openwhispr.webp",
     "source": "GitHub",
     "date": "2026-09-07",
@@ -31635,7 +31656,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 7660,
+    "stars": 8031,
     "summary": "OpenWhispr, ses dosyalarını metne dönüştüren (voice-to-text) ve yerel modeller ile bulut tabanlı seçenekleri birleştiren bir dikte uygulamasıdır. Gizlilik odaklı yapısıyla Nvidia Parakeet veya Whisper gibi modelleri kendi cihazınızda çalıştırmanıza veya kendi API anahtarınızla bulut servislerini kullanmanıza imkan tanır.",
     "lite": false,
     "headline": "Gizlilik odaklı yapay zekâ dikte uygulaması",
@@ -31647,6 +31668,13 @@
         "onceki_yildiz": 7659,
         "surum": "v1.9.2",
         "surum_tarihi": "2026-08-29"
+      },
+      {
+        "tarih": "2026-09-11",
+        "yildiz": 8031,
+        "onceki_yildiz": 7660,
+        "surum": "v1.10.0",
+        "surum_tarihi": "2026-09-11"
       }
     ],
     "tagline_en": "OpenWhispr is a voice-to-text tool that combines local models with cloud-based options...",
@@ -32021,7 +32049,8 @@
     "tagline_fr": "CloddsBot est un agent de trading IA open source qui effectue des transactions autonomes sur plus de 1000 marchés.",
     "tagline_pt": "CloddsBot é um agente de negociação de inteligência artificial de código aberto que opera autonomamente em mais de 1000 mercados.",
     "tagline_es": "CloddsBot es un agente de trading de inteligencia artificial de código abierto que opera de forma autónoma en más de 1000 mercados.",
-    "tagline_de": "CloddsBot ist ein Open-Source-KI-Handelsagent, der auf über 1000 Märkten autonom handelt."
+    "tagline_de": "CloddsBot ist ein Open-Source-KI-Handelsagent, der auf über 1000 Märkten autonom handelt.",
+    "last_seen": "2026-09-11"
   },
   {
     "slug": "armorpaint",
@@ -32053,7 +32082,8 @@
     "tagline_fr": "ArmorPaint est un outil de conception graphique qui permet de peindre des textures en temps réel sur des modèles 3D.",
     "tagline_pt": "ArmorPaint é uma ferramenta de design gráfico que realiza operações de pintura de textura em tempo real em modelos tridimensionais.",
     "tagline_es": "ArmorPaint es una herramienta de diseño gráfico que realiza operaciones de pintura de texturas en tiempo real sobre modelos tridimensionales.",
-    "tagline_de": "ArmorPaint ist ein Grafikdesign-Tool für die Echtzeit-Texturbemalung von 3D-Modellen."
+    "tagline_de": "ArmorPaint ist ein Grafikdesign-Tool für die Echtzeit-Texturbemalung von 3D-Modellen.",
+    "last_seen": "2026-09-11"
   },
   {
     "slug": "colibri",
@@ -32085,7 +32115,8 @@
     "tagline_fr": "Colibri est un outil permettant d'exécuter des modèles de mélange d'experts (Mixture of Experts) à grande échelle avec de faibles exigences matérielles localement…",
     "tagline_pt": "Colibri é um sistema que permite executar modelos de mistura de especialistas (Mixture of Experts) de grande escala com requisitos de hardware reduzidos localmente...",
     "tagline_es": "Colibri es una herramienta que permite ejecutar modelos de mezcla de expertos (Mixture of Experts) a gran escala con requisitos de hardware bajos de forma local...",
-    "tagline_de": "Colibri ist ein System, das groß angelegte Mixture-of-Experts-Modelle mit geringen Hardwareanforderungen lokal ausführt..."
+    "tagline_de": "Colibri ist ein System, das groß angelegte Mixture-of-Experts-Modelle mit geringen Hardwareanforderungen lokal ausführt...",
+    "last_seen": "2026-09-11"
   },
   {
     "slug": "llm-wiki",
@@ -32119,6 +32150,7 @@
     "tagline_fr": "LLM Wiki est une application de bureau multiplateforme qui organise automatiquement les documents et les transforme en une base de connaissances interconnectée…",
     "tagline_pt": "LLM Wiki é uma plataforma desktop multiplataforma que organiza documentos automaticamente e os transforma em uma base de conhecimento interconectada…",
     "tagline_es": "LLM Wiki, es una aplicación de escritorio multiplataforma que organiza automáticamente los documentos y los convierte en una base de conocimientos interconectada...",
-    "tagline_de": "LLM Wiki ist eine plattformübergreifende Desktop-Anwendung, die Dokumente automatisch organisiert und in eine miteinander verknüpfte Wissensdatenbank umwandelt..."
+    "tagline_de": "LLM Wiki ist eine plattformübergreifende Desktop-Anwendung, die Dokumente automatisch organisiert und in eine miteinander verknüpfte Wissensdatenbank umwandelt...",
+    "last_seen": "2026-09-11"
   }
 ]

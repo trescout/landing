@@ -27631,16 +27631,16 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 claude-mem , AI ajanlarınızın oturumlar arası hatırlama yapabilmesini sağlar. Bir oturumda gerçekleşen her şeyi yakalar, AI ile anlamlı özetlere dönüştürür ve sonraki oturumda ilgili bağlamı geri sunar. Claude Code, Codex, Gemini, Copilot ve OpenCode ile uyumludur.
 
-- ★ 93.658
+- ★ 93.659
 - TypeScript
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
 ## Güncelleme
+- 11 Eylül 2026: Yıldız 93.658 → 93.659, son sürüm v13.24.19 (11 Eylül 2026).
 - 11 Eylül 2026: Yıldız 93.601 → 93.658, son sürüm v13.24.17 (11 Eylül 2026).
 - 10 Eylül 2026: Yıldız 93.238 → 93.601, son sürüm v13.24.5 (9 Eylül 2026).
 - 5 Eylül 2026: Yıldız 93.060 → 93.238, son sürüm v13.24.1 (5 Eylül 2026).
-- 3 Eylül 2026: Yıldız 92.966 → 93.060, son sürüm v13.24.0 (3 Eylül 2026).
 
 - **Kimin için:** AI kodlama ajanı kullananlar 
 - **Zorluk:** Kolay · tek komutla kurulum 
@@ -28586,15 +28586,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 LobeHub, yapay zekâ ajanlarını işe alma, zamanlama ve raporlama süreçleriyle yöneterek 7 gün 24 saat çalışan bir yapay zekâ ekibi operasyonu (AI team operations) oluşturmayı sağlıyor. Platform, farklı ajanları tek bir merkezden organize ederek iş akışlarını otomatize eden bir yönetici arayüzü sunuyor.
 
-- ★ 82.246
+- ★ 82.391
 - TypeScript
 - GitHub Trending · 2026-07-17
 
 ## Güncelleme
+- 11 Eylül 2026: Yıldız 82.246 → 82.391, son sürüm v2.2.17 (11 Eylül 2026).
 - 5 Eylül 2026: Yıldız 82.127 → 82.246, son sürüm v2.2.16 (4 Eylül 2026).
 - 31 Ağustos 2026: Yıldız 81.757 → 82.127, son sürüm v2.2.15 (28 Ağustos 2026).
 - 17 Ağustos 2026: Yıldız 81.117 → 81.757, son sürüm v2.2.14 (16 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 80.291 → 81.117, son sürüm v2.2.13 (1 Ağustos 2026).
 
 ## Ne kazandırır?
 - Tüm yapay zekâ ajanlarını tek merkezden yönetme
@@ -43789,6 +43789,56 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yapay zekâ ajanları için güvenli çalışma ortamı
+
+TencentCloud tarafından Rust diliyle geliştirilen CubeSandbox, yapay zekâ ajanları (AI agents) için anlık, eş zamanlı ve güvenli bir çalışma ortamı (sandbox) sunuyor. Hafif yapısıyla dikkat çeken bu araç, ajan tabanlı sistemlerin yalıtılmış bir alanda çalışmasını sağlıyor.
+
+- ★ 12.161
+- Rust
+- GitHub Trending · 2026-07-02
+
+## Güncelleme
+- 11 Eylül 2026: Yıldız 11.512 → 12.161, son sürüm v0.7.1 (11 Eylül 2026).
+- 31 Ağustos 2026: Yıldız 10.828 → 11.512, son sürüm v0.7.0 (28 Ağustos 2026).
+- 2 Ağustos 2026: Yıldız 6.927 → 10.828, son sürüm v0.6.0 (24 Temmuz 2026).
+
+## Ne kazandırır?
+- 60 milisaniyenin altında hızlı başlatma
+- donanım seviyesinde yalıtılmış güvenli alan
+- E2B SDK ile tam uyumluluk
+
+## Kurulum
+
+**pip ile (PyPI)**
+
+```
+pip install cubesandbox
+```
+
+Kaynak: PyPI · cubesandbox
+
+## Nasıl başlanır?
+
+Kurulum ve kullanım detayları için GitHub deposundaki dokümantasyon bölümünde yer alan Quick Start kılavuzunu inceleyebilirsiniz. Web arayüzüne erişmek için kurulum sonrası tarayıcınızdan http:// :12088 adresini ziyaret etmeniz yeterlidir.
+- [Resmî kaynak →](https://cubesandbox.com)
+
+- **Kimin için:** Yapay zekâ ajanları için hızlı, güvenli ve yalıtılmış bir çalışma ortamına ihtiyaç duyan geliştiriciler içindir. 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/TencentCloud/CubeSandbox)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Sandbox SDK Rust Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/cubesandbox/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Kendi sunucunuzda uygulama dağıtımı
 
 OpenShip, kullanıcıların kendi sunucularında barındırabildiği bir uygulama dağıtım platformu (deployment platform) sunuyor. TypeScript diliyle geliştirilen bu araç, bulut tabanlı altyapı hizmetlerine alternatif olarak kendi kendine barındırma (self-hosted) süreçlerini kolaylaştırıyor.
@@ -44215,55 +44265,6 @@ TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanı
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/escrcpy/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Yapay zekâ ajanları için güvenli çalışma ortamı
-
-TencentCloud tarafından Rust diliyle geliştirilen CubeSandbox, yapay zekâ ajanları (AI agents) için anlık, eş zamanlı ve güvenli bir çalışma ortamı (sandbox) sunuyor. Hafif yapısıyla dikkat çeken bu araç, ajan tabanlı sistemlerin yalıtılmış bir alanda çalışmasını sağlıyor.
-
-- ★ 11.512
-- Rust
-- GitHub Trending · 2026-07-02
-
-## Güncelleme
-- 31 Ağustos 2026: Yıldız 10.828 → 11.512, son sürüm v0.7.0 (28 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 6.927 → 10.828, son sürüm v0.6.0 (24 Temmuz 2026).
-
-## Ne kazandırır?
-- 60 milisaniyenin altında hızlı başlatma
-- donanım seviyesinde yalıtılmış güvenli alan
-- E2B SDK ile tam uyumluluk
-
-## Kurulum
-
-**pip ile (PyPI)**
-
-```
-pip install cubesandbox
-```
-
-Kaynak: PyPI · cubesandbox
-
-## Nasıl başlanır?
-
-Kurulum ve kullanım detayları için GitHub deposundaki dokümantasyon bölümünde yer alan Quick Start kılavuzunu inceleyebilirsiniz. Web arayüzüne erişmek için kurulum sonrası tarayıcınızdan http:// :12088 adresini ziyaret etmeniz yeterlidir.
-- [Resmî kaynak →](https://cubesandbox.com)
-
-- **Kimin için:** Yapay zekâ ajanları için hızlı, güvenli ve yalıtılmış bir çalışma ortamına ihtiyaç duyan geliştiriciler içindir. 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/TencentCloud/CubeSandbox)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Sandbox SDK Rust Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/cubesandbox/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -46469,6 +46470,56 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Gizlilik odaklı yapay zekâ dikte uygulaması
+
+OpenWhispr, ses dosyalarını metne dönüştüren (voice-to-text) ve yerel modeller ile bulut tabanlı seçenekleri birleştiren bir dikte uygulamasıdır. Gizlilik odaklı yapısıyla Nvidia Parakeet veya Whisper gibi modelleri kendi cihazınızda çalıştırmanıza veya kendi API anahtarınızla bulut servislerini kullanmanıza imkan tanır.
+
+- ★ 8.031
+- JavaScript
+- GitHub Trending · 2026-09-07
+
+## Güncelleme
+- 11 Eylül 2026: Yıldız 7.660 → 8.031, son sürüm v1.10.0 (11 Eylül 2026).
+- 7 Eylül 2026: Yıldız 7.659 → 7.660, son sürüm v1.9.2 (29 Ağustos 2026).
+
+## Ne kazandırır?
+- Ses dosyalarını ve konuşmaları anlık metne dönüştürür
+- Yerel modellerle internet bağlantısı olmadan çalışır
+- Toplantıları otomatik kaydeder ve konuşmacıları ayırır
+
+## Kurulum
+
+**Geliştirici ortamı kurulumu**
+
+```
+git clone https://github.com/OpenWhispr/openwhispr.git
+cd openwhispr
+npm install
+npm run dev
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Sesli notlarımı ve toplantı kayıtlarımı metne dönüştürmek için OpenWhispr kullanıyorum. Gizlilik odaklı bir çalışma ortamı oluşturmak istiyorum; yerel modelleri kullanarak ses verilerimi cihazımdan çıkarmadan nasıl en verimli şekilde transkripsiyon yapabilirim ve yapay zekâ asistanı özelliklerini iş akışımda nasıl yapılandırabilirim?
+
+- **Kimin için:** Toplantılarını metne dökmek isteyen, verilerinin gizliliğine önem veren ve yerel modellerle çalışmayı tercih eden profesyoneller içindir. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/OpenWhispr/openwhispr)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-07 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Whisper API Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/openwhispr/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Gereksiz bağımlılıkları temizleyin
 
 OBLITERATUS, güvenlik bariyeri yönlerinin analizini, hizalama izlerinin tespitini, savunma dayanıklılığının değerlendirilmesini ve dil modellerinden ret ile güvenlik bariyeri sinyallerini kaldırma tekniklerini ele alır.
@@ -46761,55 +46812,6 @@ RAG Chunks Proxy RAG Token MCP LLM
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/headroom/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Gizlilik odaklı yapay zekâ dikte uygulaması
-
-OpenWhispr, ses dosyalarını metne dönüştüren (voice-to-text) ve yerel modeller ile bulut tabanlı seçenekleri birleştiren bir dikte uygulamasıdır. Gizlilik odaklı yapısıyla Nvidia Parakeet veya Whisper gibi modelleri kendi cihazınızda çalıştırmanıza veya kendi API anahtarınızla bulut servislerini kullanmanıza imkan tanır.
-
-- ★ 7.660
-- JavaScript
-- GitHub Trending · 2026-09-07
-
-## Güncelleme
-- 7 Eylül 2026: Yıldız 7.659 → 7.660, son sürüm v1.9.2 (29 Ağustos 2026).
-
-## Ne kazandırır?
-- Ses dosyalarını ve konuşmaları anlık metne dönüştürür
-- Yerel modellerle internet bağlantısı olmadan çalışır
-- Toplantıları otomatik kaydeder ve konuşmacıları ayırır
-
-## Kurulum
-
-**Geliştirici ortamı kurulumu**
-
-```
-git clone https://github.com/OpenWhispr/openwhispr.git
-cd openwhispr
-npm install
-npm run dev
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Sesli notlarımı ve toplantı kayıtlarımı metne dönüştürmek için OpenWhispr kullanıyorum. Gizlilik odaklı bir çalışma ortamı oluşturmak istiyorum; yerel modelleri kullanarak ses verilerimi cihazımdan çıkarmadan nasıl en verimli şekilde transkripsiyon yapabilirim ve yapay zekâ asistanı özelliklerini iş akışımda nasıl yapılandırabilirim?
-
-- **Kimin için:** Toplantılarını metne dökmek isteyen, verilerinin gizliliğine önem veren ve yerel modellerle çalışmayı tercih eden profesyoneller içindir. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/OpenWhispr/openwhispr)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-07 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Whisper API Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/openwhispr/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 

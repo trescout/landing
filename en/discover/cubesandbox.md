@@ -2,7 +2,7 @@
 
 Developed by TencentCloud in Rust, CubeSandbox offers an instant, simultaneous and secure working environment (sandbox) for artificial intelligence agents. This tool, which stands out with its lightweight structure, enables agent-based systems to operate in an isolated area.
 
-- ★ 11,512
+- ★ 12,161
 - Rust
 - GitHub Trending · 2026-07-02
 
