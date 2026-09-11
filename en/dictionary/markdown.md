@@ -34,10 +34,10 @@ You can open it with any text editor, but you can read it formatted more easily 
 - [Firecrawl](/en/discover/firecrawl/)
 - [PaddleOCR](/en/discover/paddleocr/)
 - [Crawl4AI](/en/discover/crawl4ai/)
-- [MinerU](/en/discover/mineru/)
 - [Scrapling](/en/discover/scrapling/)
+- [MinerU](/en/discover/mineru/)
 - [Obsidian Skills](/en/discover/obsidian-skills/)
-- [Book to Skill](/en/discover/book-to-skill/)
+- [Opendataloader PDF](/en/discover/opendataloader-pdf/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/markdown/

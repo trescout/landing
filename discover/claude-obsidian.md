@@ -2,7 +2,7 @@
 
 Claude Code ve uyumlu Agent Skills sunucuları için yerel öncelikli bir bilgi sistemidir. Kaynak materyallerini kaynak gösteren, bağlantılı Obsidian sayfalarına dönüştürür.
 
-- ★ 14.727
+- ★ 14.822
 - Python
 - GitHub Trending · 2026-08-25
 
@@ -43,6 +43,7 @@ claude plugin list
 Kaynak: Resmî README ve dokümantasyon kaynakları: https://github.com/AgriciDaniel/claude-obsidian/blob/main/docs/install-guide.md, https://github.com/AgriciDaniel/claude-obsidian
 
 ## Güncelleme
+- 11 Eylül 2026: Yıldız 14.727 → 14.822, son sürüm v2.2.0 (10 Eylül 2026).
 - 8 Eylül 2026: Yıldız 13.706 → 14.727, son sürüm v2.1.1 (25 Ağustos 2026).
 - 27 Ağustos 2026: Yıldız 12.404 → 13.706, son sürüm v2.1.1 (25 Ağustos 2026).
 

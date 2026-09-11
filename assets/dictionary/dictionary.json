@@ -7668,5 +7668,31 @@
     "kisa_pt": "Equações matemáticas fundamentais usadas na física e na engenharia que calculam as taxas de variação das variáveis em relação umas às outras.",
     "kisa_es": "Ecuaciones matemáticas fundamentales utilizadas en física e ingeniería que calculan las tasas de cambio de las variables entre sí.",
     "kisa_de": "Grundlegende mathematische Gleichungen, die in der Physik und im Ingenieurwesen verwendet werden, um die Änderungsraten von Variablen zueinander zu berechnen."
+  },
+  {
+    "slug": "pbr",
+    "en": "Physically Based Rendering",
+    "full": "Physically Based Rendering",
+    "cat": "dev",
+    "kisa": "Üç boyutlu nesnelerin gerçek dünyadaki ışık ve malzeme özelliklerini taklit ederek çizilmesini sağlayan bir yöntemdir.",
+    "date": "2026-09-11",
+    "kisa_en": "It is a method that allows three-dimensional objects to be drawn by imitating the light and material properties of the real world.",
+    "kisa_fr": "Il s'agit d'une méthode qui permet de dessiner des objets en trois dimensions en imitant les propriétés de lumière et de matériau du monde réel.",
+    "kisa_pt": "É um método que permite desenhar objetos tridimensionais imitando as propriedades de luz e material do mundo real.",
+    "kisa_es": "Es un método que permite dibujar objetos tridimensionales imitando las propiedades de luz y material del mundo real.",
+    "kisa_de": "Dies ist eine Methode, die das Zeichnen dreidimensionaler Objekte ermöglicht, indem die Licht- und Materialeigenschaften der realen Welt nachgeahmt werden."
+  },
+  {
+    "slug": "native",
+    "en": "Native",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir yazılımın, çalıştığı cihazın işletim sistemi için özel olarak üretilmiş ve en yüksek performansı verecek şekilde tasarlanmış olmasıdır.",
+    "date": "2026-09-11",
+    "kisa_en": "It is when software is specifically produced for the operating system of the device it runs on and designed to provide the highest performance.",
+    "kisa_fr": "Il s'agit d'un logiciel spécifiquement produit pour le système d'exploitation de l'appareil sur lequel il fonctionne et conçu pour offrir les meilleures performances.",
+    "kisa_pt": "É quando um software é produzido especificamente para o sistema operacional do dispositivo em que é executado e projetado para oferecer o mais alto desempenho.",
+    "kisa_es": "Es cuando un software ha sido creado específicamente para el sistema operativo del dispositivo en el que se ejecuta y diseñado para ofrecer el máximo rendimiento.",
+    "kisa_de": "Dies bedeutet, dass eine Software speziell für das Betriebssystem des Geräts, auf dem sie ausgeführt wird, entwickelt wurde und darauf ausgelegt ist, die höchste Leistung zu erbringen."
   }
 ]

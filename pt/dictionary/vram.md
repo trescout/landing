@@ -28,6 +28,7 @@ O modelo de IA fica muito lento ou para de funcionar com um erro de ‘falta de 
 
 ## Ferramentas relacionadas
 - [Airllm](/pt/discover/airllm/)
+- [Colibri](/pt/discover/colibri/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/vram/

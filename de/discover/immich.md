@@ -2,7 +2,7 @@
 
 Immich ist eine leistungsstarke, selbst gehostete Medienverwaltungslösung, die für die Verwaltung von Foto- und Videodateien entwickelt wurde. Diese in TypeScript geschriebene Plattform ermöglicht es Benutzern, ein zentrales Medienarchiv auf ihrer eigenen Infrastruktur zu erstellen.
 
-- ★ 109.538
+- ★ 113.808
 - TypeScript
 - GitHub Trending · 2026-07-05
 

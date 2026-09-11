@@ -2,16 +2,16 @@
 
 claude-mem , AI ajanlarınızın oturumlar arası hatırlama yapabilmesini sağlar. Bir oturumda gerçekleşen her şeyi yakalar, AI ile anlamlı özetlere dönüştürür ve sonraki oturumda ilgili bağlamı geri sunar. Claude Code, Codex, Gemini, Copilot ve OpenCode ile uyumludur.
 
-- ★ 93.601
+- ★ 93.658
 - TypeScript
 - Apache-2.0
 - GitHub Trending · 26 May 2026
 
 ## Güncelleme
+- 11 Eylül 2026: Yıldız 93.601 → 93.658, son sürüm v13.24.17 (11 Eylül 2026).
 - 10 Eylül 2026: Yıldız 93.238 → 93.601, son sürüm v13.24.5 (9 Eylül 2026).
 - 5 Eylül 2026: Yıldız 93.060 → 93.238, son sürüm v13.24.1 (5 Eylül 2026).
 - 3 Eylül 2026: Yıldız 92.966 → 93.060, son sürüm v13.24.0 (3 Eylül 2026).
-- 2 Eylül 2026: Yıldız 92.799 → 92.966, son sürüm v13.23.1 (1 Eylül 2026).
 
 - **Kimin için:** AI kodlama ajanı kullananlar 
 - **Zorluk:** Kolay · tek komutla kurulum 

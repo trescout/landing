@@ -31,6 +31,7 @@ Yes, autonomous agents can act entirely with their own decisions within defined 
 
 ## Related tools
 - [Vibe-Trading](/en/discover/vibe-trading/)
+- [CloddsBot](/en/discover/cloddsbot/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/trading-agent/

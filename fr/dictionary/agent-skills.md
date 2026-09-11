@@ -35,8 +35,8 @@ Non, ses fonctionnalités sont personnalisées en fonction de l'utilisation pré
 - [Scientific Agent Skills](/fr/discover/scientific-agent-skills/)
 - [Awesome Agent Skills](/fr/discover/awesome-agent-skills/)
 - [Agentskills](/fr/discover/agentskills/)
-- [Text to Cad](/fr/discover/text-to-cad/)
 - [Claude Obsidian](/fr/discover/claude-obsidian/)
+- [Text to Cad](/fr/discover/text-to-cad/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/agent-skills/

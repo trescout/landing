@@ -28,6 +28,7 @@ Das KI-Modell wird zu langsam oder funktioniert nicht mehr mit der Fehlermeldung
 
 ## Verwandte Werkzeuge
 - [Airllm](/de/discover/airllm/)
+- [Colibri](/de/discover/colibri/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/vram/

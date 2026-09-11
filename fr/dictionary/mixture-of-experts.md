@@ -29,5 +29,8 @@ Au contraire, il est plus rapide car seules les parties concernées sont activé
 - [AI Models](/fr/dictionary/ai-models/)
 - [Inference](/fr/dictionary/inference/)
 
+## Outils liés
+- [Colibri](/fr/discover/colibri/)
+
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/mixture-of-experts/

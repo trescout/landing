@@ -31,5 +31,8 @@ On the contrary, it is faster because only the relevant parts are activated.
 - [AI Models](/en/dictionary/ai-models/)
 - [Inference](/en/dictionary/inference/)
 
+## Related tools
+- [Colibri](/en/discover/colibri/)
+
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/mixture-of-experts/

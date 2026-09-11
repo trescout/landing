@@ -2,7 +2,7 @@
 
 Agent Substrate é o sistema central que fornece infraestrutura escalonável para agentes de inteligência artificial.
 
-- ★ 1.276
+- ★ 1.830
 - Go
 - GitHub Trending · 2026-08-20
 

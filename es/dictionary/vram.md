@@ -28,6 +28,7 @@ El modelo de IA se vuelve demasiado lento o deja de funcionar con un error de "m
 
 ## Herramientas relacionadas
 - [Airllm](/es/discover/airllm/)
+- [Colibri](/es/discover/colibri/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/vram/

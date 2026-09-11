@@ -2,9 +2,12 @@
 
 Averygan tarafından geliştirilen Reclip, neredeyse tüm internet sitelerinden video indirmeye yarayan hafif ve kendi sunucunuzda barındırabileceğiniz bir araçtır. Sade bir web arayüzü üzerinden medya dosyalarını yerel cihazınıza kaydetmenizi sağlar.
 
-- ★ 7.951
+- ★ 9.067
 - HTML
 - GitHub Trending · 2026-09-02
+
+## Güncelleme
+- 11 Eylül 2026: Yıldız 7.951 → 9.067.
 
 ## Ne kazandırır?
 - YouTube ve Instagram gibi 1000'den fazla siteden video ve ses dosyası indirir.

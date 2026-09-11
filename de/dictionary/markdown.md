@@ -32,10 +32,10 @@ Sie können es mit jedem Texteditor öffnen, aber mit speziellen Viewern können
 - [Firecrawl](/de/discover/firecrawl/)
 - [PaddleOCR](/de/discover/paddleocr/)
 - [Crawl4AI](/de/discover/crawl4ai/)
-- [MinerU](/de/discover/mineru/)
 - [Scrapling](/de/discover/scrapling/)
+- [MinerU](/de/discover/mineru/)
 - [Obsidian Skills](/de/discover/obsidian-skills/)
-- [Book to Skill](/de/discover/book-to-skill/)
+- [Opendataloader PDF](/de/discover/opendataloader-pdf/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/markdown/

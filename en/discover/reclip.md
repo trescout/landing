@@ -2,7 +2,7 @@
 
 Reclip, developed by Averygan, is a lightweight, self-hostable tool for downloading videos from almost any website. It allows you to save media files to your local device through a simple web interface.
 
-- ★ 7,951
+- ★ 9,067
 - HTML
 - GitHub Trending · 2026-09-02
 

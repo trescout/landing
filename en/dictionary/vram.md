@@ -30,6 +30,7 @@ The AI ​​model becomes too slow or stops working with an 'out of memory' err
 
 ## Related tools
 - [Airllm](/en/discover/airllm/)
+- [Colibri](/en/discover/colibri/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/vram/

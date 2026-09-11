@@ -2,7 +2,7 @@
 
 Camofox é um navegador furtivo (stealth headless browser) que permite que agentes de inteligência artificial superem sistemas de detecção de bots e bloqueios de web scraping. Ele funciona de forma diretamente compatível com as ferramentas de automação de navegador Puppeteer e Playwright, oferecendo uma solução alternativa a essas bibliotecas.
 
-- ★ 10.066
+- ★ 10.915
 - JavaScript
 - GitHub Trending · 2026-09-08
 

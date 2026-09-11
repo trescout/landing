@@ -29,5 +29,8 @@ Al contrario, es más rápido porque solo se ejecutan las partes relevantes.
 - [AI Models](/es/dictionary/ai-models/)
 - [Inference](/es/dictionary/inference/)
 
+## Herramientas relacionadas
+- [Colibri](/es/discover/colibri/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/mixture-of-experts/

@@ -2,11 +2,12 @@
 
 Agent Substrate, yapay zekâ ajanları için ölçeklenebilir altyapı sağlayan temel sistemdir.
 
-- ★ 1.276
+- ★ 1.830
 - Go
 - GitHub Trending · 2026-08-20
 
 ## Güncelleme
+- 11 Eylül 2026: Yıldız 1.276 → 1.830, son sürüm v0.1.0 (10 Eylül 2026).
 - 20 Ağustos 2026: Yıldız 1.275 → 1.276, son sürüm v0.0.0 (19 Mayıs 2026).
 
 ## Ne kazandırır?

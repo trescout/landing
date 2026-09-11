@@ -33,6 +33,7 @@ It increases it to the required level, and the excess remains idle.
 
 ## Related tools
 - [Llmfit](/en/discover/llmfit/)
+- [Colibri](/en/discover/colibri/)
 - [Invidious](/en/discover/invidious/)
 - [Needle](/en/discover/needle/)
 

@@ -29,6 +29,7 @@ Sim, os agentes autônomos podem agir inteiramente com suas próprias decisões 
 
 ## Ferramentas relacionadas
 - [Vibe-Trading](/pt/discover/vibe-trading/)
+- [CloddsBot](/pt/discover/cloddsbot/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/trading-agent/

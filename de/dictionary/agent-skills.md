@@ -35,8 +35,8 @@ Nein, seine Fähigkeiten werden je nach Verwendungszweck des Agenten angepasst (
 - [Scientific Agent Skills](/de/discover/scientific-agent-skills/)
 - [Awesome Agent Skills](/de/discover/awesome-agent-skills/)
 - [Agentskills](/de/discover/agentskills/)
-- [Text to Cad](/de/discover/text-to-cad/)
 - [Claude Obsidian](/de/discover/claude-obsidian/)
+- [Text to Cad](/de/discover/text-to-cad/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/agent-skills/

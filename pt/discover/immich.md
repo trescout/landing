@@ -2,7 +2,7 @@
 
 Immich é uma solução de gerenciamento de mídia auto-hospedada de alto desempenho desenvolvida para gerenciar arquivos de foto e vídeo. Escrita em TypeScript, esta plataforma permite aos usuários criar um arquivo de mídia central em sua própria infraestrutura.
 
-- ★ 109.538
+- ★ 113.808
 - TypeScript
 - GitHub Trending · 2026-07-05
 

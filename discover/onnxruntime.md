@@ -2,11 +2,12 @@
 
 ONNX Runtime, makine öğrenimi çıkarımı ve eğitimi için platformlar arası çalışan yüksek performanslı bir hızlandırıcıdır.
 
-- ★ 21.808
+- ★ 21.821
 - C++
 - GitHub Trending · 2026-08-22
 
 ## Güncelleme
+- 11 Eylül 2026: Yıldız 21.808 → 21.821, son sürüm v1.30.0 (10 Eylül 2026).
 - 10 Eylül 2026: Yıldız 21.495 → 21.808, son sürüm v1.29.1 (10 Eylül 2026).
 - 22 Ağustos 2026: Yıldız 21.492 → 21.495, son sürüm v1.29.0 (12 Ağustos 2026).
 

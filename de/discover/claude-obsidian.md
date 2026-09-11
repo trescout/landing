@@ -2,7 +2,7 @@
 
 Organisiert Forschungsinhalte als Quellen- und Anspruchsbücher, verlinkte Seiten und Wissenskarten. Genehmigte Änderungen werden von einem Orchestrator in rückrollbaren Transaktionen angewendet.
 
-- ★ 14.727
+- ★ 14.822
 - Python
 - GitHub Trending · 2026-08-25
 
