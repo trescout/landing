@@ -30,6 +30,7 @@ Es wird bevorzugt, um auf blockierte Websites zuzugreifen, die Internetgeschwind
 - [FlClash](/de/discover/flclash/)
 - [Nginx](/de/discover/nginx/)
 - [Headroom](/de/discover/headroom/)
+- [OpenFlux](/de/discover/openflux/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/proxy/

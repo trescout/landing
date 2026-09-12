@@ -2,8 +2,11 @@
 
 ByteByteGoHq tarafından hazırlanan system-design-101 deposu, karmaşık sistem mimarilerini görselleştirmeler ve sade bir dille açıklıyor. Yazılım mühendisliği mülakatlarına hazırlananlar için sistem tasarımı (system design) kavramlarını temelden ileri seviyeye taşıyan bir kaynak sunuyor.
 
-- ★ 84.839
+- ★ 89.096
 - GitHub Trending · 2026-06-29
+
+## Güncelleme
+- 12 Eylül 2026: Yıldız 84.839 → 89.096.
 
 ## Ne kazandırır?
 - Karmaşık sistem mimarilerini görselleştirme

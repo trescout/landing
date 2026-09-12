@@ -2,7 +2,7 @@
 
 CloddsBot ist ein Open-Source-KI-Handelsagent, der autonom auf über 1000 Märkten agiert. Diese auf Claude basierende Software führt automatisierte Handelsprozesse an verschiedenen Krypto-Börsen und Prognoseplattformen (Polymarket, Binance) mit Risikomanagement und Machine-to-Machine-Zahlungsprotokollen durch.
 
-- ★ 1.873
+- ★ 2.262
 - TypeScript
 - GitHub Trending · 2026-09-11
 

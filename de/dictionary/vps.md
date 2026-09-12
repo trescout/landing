@@ -26,5 +26,8 @@ Ja, für die Serveradministration und Sicherheitseinstellungen sind grundlegende
 - [Cloud Computing](/de/dictionary/cloud-computing/)
 - [Self-hosting](/de/dictionary/self-hosting/)
 
+## Verwandte Werkzeuge
+- [DeskcommCRM](/de/discover/deskcommcrm/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/vps/

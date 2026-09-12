@@ -2,7 +2,7 @@
 
 CloddsBot is an open-source AI trading agent that operates autonomously in over 1000 markets. Based on Claude, this software executes automated trading processes across various crypto exchanges and prediction platforms (Polymarket, Binance) using risk management and machine-to-machine payment protocols.
 
-- ★ 1,873
+- ★ 2,262
 - TypeScript
 - GitHub Trending · 2026-09-11
 

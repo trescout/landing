@@ -30,6 +30,7 @@ Depende do servidor proxy que você usa; Proxies não confiáveis ​​podem ra
 - [FlClash](/pt/discover/flclash/)
 - [Nginx](/pt/discover/nginx/)
 - [Headroom](/pt/discover/headroom/)
+- [OpenFlux](/pt/discover/openflux/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/proxy/

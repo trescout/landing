@@ -32,6 +32,7 @@ It is preferred for entering blocked sites, optimizing internet speed or hiding 
 - [FlClash](/en/discover/flclash/)
 - [Nginx](/en/discover/nginx/)
 - [Headroom](/en/discover/headroom/)
+- [OpenFlux](/en/discover/openflux/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/proxy/

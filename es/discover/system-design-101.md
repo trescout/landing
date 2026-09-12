@@ -2,7 +2,7 @@
 
 El repositorio system-design-101 de ByteByteGoHq explica arquitecturas de sistemas complejos con visualizaciones y lenguaje sencillo. Ofrece un recurso que lleva los conceptos de diseño de sistemas desde básicos hasta avanzados para quienes se preparan para entrevistas de ingeniería de software.
 
-- ★ 84.839
+- ★ 89.096
 - GitHub Trending · 2026-06-29
 
 ## Qué aporta

@@ -31,6 +31,7 @@ CRM est un logiciel de gestion spécialisé qui utilise la technologie des bases
 
 ## Outils liés
 - [Twenty](/fr/discover/twenty/)
+- [DeskcommCRM](/fr/discover/deskcommcrm/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/crm/

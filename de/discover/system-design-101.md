@@ -2,7 +2,7 @@
 
 Das system-design-101-Repository von ByteByteGoHq erklärt komplexe Systemarchitekturen mit Visualisierungen und einfacher Sprache. Es bietet eine Ressource, die Systemdesignkonzepte von einfach bis fortgeschritten für diejenigen bietet, die sich auf Vorstellungsgespräche im Software-Engineering vorbereiten.
 
-- ★ 84.839
+- ★ 89.096
 - GitHub Trending · 2026-06-29
 
 ## Was es bringt

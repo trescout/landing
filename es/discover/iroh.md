@@ -2,7 +2,7 @@
 
 Iroh es una pila de redes modular que hace que las conexiones de red sean más flexibles mediante el uso de direccionamiento basado en claves en lugar de direcciones IP. Desarrollada con el lenguaje Rust, esta herramienta proporciona una infraestructura resistente a las interrupciones de la red y proporciona transferencia directa de datos.
 
-- ★ 12.327
+- ★ 12.490
 - GitHub Trending · 2026-06-17
 
 ## Qué aporta

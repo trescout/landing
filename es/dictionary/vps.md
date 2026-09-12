@@ -26,5 +26,8 @@ Sí, se requieren conocimientos técnicos básicos para la administración del s
 - [Cloud Computing](/es/dictionary/cloud-computing/)
 - [Self-hosting](/es/dictionary/self-hosting/)
 
+## Herramientas relacionadas
+- [DeskcommCRM](/es/discover/deskcommcrm/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/vps/

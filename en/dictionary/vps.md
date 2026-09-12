@@ -28,5 +28,8 @@ Yes, basic technical knowledge is required for server administration and securit
 - [Cloud Computing](/en/dictionary/cloud-computing/)
 - [Self-hosting](/en/dictionary/self-hosting/)
 
+## Related tools
+- [DeskcommCRM](/en/discover/deskcommcrm/)
+
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/vps/

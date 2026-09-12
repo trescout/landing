@@ -2,7 +2,7 @@
 
 Iroh est une pile réseau modulaire qui rend les connexions réseau plus flexibles en utilisant un adressage basé sur des clés au lieu d'adresses IP. Développé avec le langage Rust, cet outil fournit une infrastructure résistante aux interruptions du réseau et permet un transfert direct de données.
 
-- ★ 12 327
+- ★ 12 490
 - GitHub Trending · 2026-06-17
 
 ## Ce que ça vous apporte

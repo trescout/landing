@@ -30,6 +30,7 @@ Il est préférable pour accéder à des sites bloqués, optimiser la vitesse d�
 - [FlClash](/fr/discover/flclash/)
 - [Nginx](/fr/discover/nginx/)
 - [Headroom](/fr/discover/headroom/)
+- [OpenFlux](/fr/discover/openflux/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/proxy/

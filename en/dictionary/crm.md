@@ -33,6 +33,7 @@ CRM is a specialized management software that uses database technology; So the d
 
 ## Related tools
 - [Twenty](/en/discover/twenty/)
+- [DeskcommCRM](/en/discover/deskcommcrm/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/crm/

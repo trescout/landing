@@ -2,11 +2,12 @@
 
 CloddsBot, 1000'den fazla piyasada otonom işlem yapan açık kaynaklı bir yapay zekâ ticaret ajanıdır (trading agent). Claude tabanlı bu yazılım, risk yönetimi ve makineden makineye ödeme protokolleri ile çeşitli kripto borsalarında ve tahmin platformlarında (Polymarket, Binance) otomatik alım satım süreçlerini yürütür.
 
-- ★ 1.873
+- ★ 2.262
 - TypeScript
 - GitHub Trending · 2026-09-11
 
 ## Güncelleme
+- 12 Eylül 2026: Yıldız 1.873 → 2.262, son sürüm v1.9.1 (12 Eylül 2026).
 - 11 Eylül 2026: Yıldız 1.866 → 1.873, son sürüm v1.9.0 (31 Ağustos 2026).
 
 ## Ne kazandırır?

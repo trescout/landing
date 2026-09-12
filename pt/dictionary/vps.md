@@ -26,5 +26,8 @@ Sim, é necessário conhecimento técnico básico para administração do servid
 - [Cloud Computing](/pt/dictionary/cloud-computing/)
 - [Self-hosting](/pt/dictionary/self-hosting/)
 
+## Ferramentas relacionadas
+- [DeskcommCRM](/pt/discover/deskcommcrm/)
+
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/vps/
