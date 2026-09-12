@@ -27,6 +27,9 @@ Resmî web sitesi olan iloader.app adresine giderek işletim sisteminize uygun o
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
+## İlgili sözlük terimleri
+Sideloader
+
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/iloader/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.

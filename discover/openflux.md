@@ -51,7 +51,7 @@ OpenFlux aracını kullanarak bir TCP tüneli oluşturmak istiyorum. Masaüstü 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Pluggable Transports Proxy Artificial Intelligence
+Pluggable Transports Network Stack Proxy Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openflux/

@@ -2,7 +2,7 @@
 
 Las notas recopiladas del libro 'System Design Interview - An Insider's Guide' ofrecen un recurso integral para comprender arquitecturas de software complejas. Explica los procesos de diseño de sistemas escalables y los principios fundamentales de ingeniería con ejemplos prácticos.
 
-- ★ 18.359
+- ★ 19.361
 - GitHub Trending · 2026-09-09
 
 ## Qué aporta

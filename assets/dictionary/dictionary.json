@@ -7785,5 +7785,44 @@
     "kisa_pt": "São softwares de inteligência artificial que realizam pesquisas aprofundadas em seu nome na internet e resumem as informações.",
     "kisa_es": "Son programas de inteligencia artificial que realizan investigaciones profundas en Internet en su nombre y resumen la información.",
     "kisa_de": "Dies sind KI-Softwares, die im Internet tiefgreifende Recherchen für Sie durchführen und die Informationen zusammenfassen."
+  },
+  {
+    "slug": "sideloader",
+    "en": "Sideloader",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Uygulamaları resmi uygulama mağazaları dışında, doğrudan dosya üzerinden cihazınıza yükleme işlemini yapan araç veya yöntemdir.",
+    "date": "2026-09-12",
+    "kisa_en": "It is a tool or method that allows you to install applications directly onto your device from a file, rather than through official app stores.",
+    "kisa_fr": "Il s'agit d'un outil ou d'une méthode permettant d'installer des applications sur votre appareil directement à partir d'un fichier, en dehors des boutiques d'applications officielles.",
+    "kisa_pt": "É a ferramenta ou método que realiza o processo de instalação de aplicativos diretamente via arquivo no seu dispositivo, fora das lojas de aplicativos oficiais.",
+    "kisa_es": "Es la herramienta o método que permite instalar aplicaciones en su dispositivo directamente desde un archivo, fuera de las tiendas de aplicaciones oficiales.",
+    "kisa_de": "Dies ist ein Tool oder eine Methode, mit der Anwendungen direkt über eine Datei auf Ihrem Gerät installiert werden können, anstatt über offizielle App-Stores."
+  },
+  {
+    "slug": "dexs",
+    "en": "DEXs",
+    "full": "Decentralized Exchanges",
+    "cat": "data",
+    "kisa": "Aracı bir kurum veya banka olmadan, kullanıcıların dijital varlıklarını doğrudan birbirleriyle takas ettiği merkeziyetsiz platformlardır.",
+    "date": "2026-09-12",
+    "kisa_en": "Decentralized platforms where users exchange their digital assets directly with each other without an intermediary institution or bank.",
+    "kisa_fr": "Ce sont des plateformes décentralisées où les utilisateurs échangent leurs actifs numériques directement entre eux, sans intermédiaire ni banque.",
+    "kisa_pt": "São plataformas descentralizadas onde os usuários trocam seus ativos digitais diretamente uns com os outros, sem a necessidade de uma instituição intermediária ou banco.",
+    "kisa_es": "Son plataformas descentralizadas donde los usuarios intercambian sus activos digitales directamente entre sí, sin necesidad de una institución intermediaria o un banco.",
+    "kisa_de": "Dies sind dezentrale Plattformen, auf denen Benutzer ihre digitalen Vermögenswerte direkt miteinander austauschen, ohne dass ein Vermittler oder eine Bank erforderlich ist."
+  },
+  {
+    "slug": "network-stack",
+    "en": "Network Stack",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir bilgisayarın internete bağlanması ve veri alışverişi yapması için gereken yazılım katmanlarının bütünüdür.",
+    "date": "2026-09-12",
+    "kisa_en": "The set of software layers required for a computer to connect to the internet and exchange data.",
+    "kisa_fr": "Il s'agit de l'ensemble des couches logicielles nécessaires à un ordinateur pour se connecter à Internet et échanger des données.",
+    "kisa_pt": "É o conjunto de camadas de software necessárias para que um computador se conecte à internet e troque dados.",
+    "kisa_es": "Es el conjunto de capas de software necesarias para que una computadora se conecte a Internet e intercambie datos.",
+    "kisa_de": "Dies ist die Gesamtheit der Softwareschichten, die ein Computer benötigt, um eine Verbindung zum Internet herzustellen und Daten auszutauschen."
   }
 ]

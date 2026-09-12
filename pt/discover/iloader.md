@@ -14,6 +14,8 @@ Desenvolvido com TypeScript, o iloader é um sideloader fácil de usar que simpl
 ## Como começar
 - Fonte oficial →
 
+## Termos relacionados do glossário
+
 ## Links
 - Repositório no GitHub →
 - Ler em turco →

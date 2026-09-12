@@ -32092,14 +32092,14 @@
     "slug": "system-design-notes",
     "title": "System Design Notes",
     "tagline": "Sistem tasarımı mülakatlarına hazırlık rehberi (System Design Interview - An Insider's Guide) kitabından derlenen notlar…",
-    "meta": "★ 18.359",
+    "meta": "★ 19.361",
     "image": "/assets/discover/og/system-design-notes.webp",
     "source": "GitHub",
     "date": "2026-09-09",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 18359,
+    "stars": 19361,
     "summary": "Sistem tasarımı mülakatlarına hazırlık rehberi (System Design Interview - An Insider's Guide) kitabından derlenen notlar, karmaşık yazılım mimarilerini anlamak için kapsamlı bir kaynak sunuyor. Ölçeklenebilir sistem tasarımı (system design) süreçlerini ve temel mühendislik prensiplerini pratik örneklerle açıklıyor.",
     "lite": false,
     "headline": "Sistem tasarımı mülakatlarına hazırlık notları",
@@ -32117,6 +32117,11 @@
         "tarih": "2026-09-10",
         "yildiz": 18359,
         "onceki_yildiz": 17273
+      },
+      {
+        "tarih": "2026-09-12",
+        "yildiz": 19361,
+        "onceki_yildiz": 18359
       }
     ]
   },
@@ -32392,7 +32397,8 @@
     "tagline_fr": "Développé avec TypeScript, iloader est un chargeur latéral convivial qui simplifie le processus d'installation d'applications sur les appareils iOS…",
     "tagline_pt": "O iloader, desenvolvido com TypeScript, é um sideloader amigável que simplifica o processo de instalação de aplicativos em dispositivos iOS…",
     "tagline_es": "iloader, desarrollado con TypeScript, es un cargador lateral fácil de usar que simplifica el proceso de instalación de aplicaciones en dispositivos iOS...",
-    "tagline_de": "Der mit TypeScript entwickelte iloader ist ein benutzerfreundlicher Sideload-Installer, der den Prozess der App-Installation auf iOS-Geräten vereinfacht…"
+    "tagline_de": "Der mit TypeScript entwickelte iloader ist ein benutzerfreundlicher Sideload-Installer, der den Prozess der App-Installation auf iOS-Geräten vereinfacht…",
+    "last_seen": "2026-09-12"
   },
   {
     "slug": "deskcommcrm",
@@ -32425,7 +32431,8 @@
     "tagline_fr": "DeskcommCRM est une gestion de la relation client (CRM) open source conçue pour les entreprises qui vendent via le chat…",
     "tagline_pt": "O DeskcommCRM é um sistema de gestão de relacionamento com o cliente (CRM) de código aberto desenvolvido para empresas que realizam vendas via chat…",
     "tagline_es": "DeskcommCRM es una gestión de relaciones con el cliente (CRM) de código abierto desarrollada para empresas que realizan ventas a través de chat...",
-    "tagline_de": "DeskcommCRM ist ein Open-Source-Kundenbeziehungsmanagement-System (CRM), das für Unternehmen entwickelt wurde, die Verkäufe über Chats abwickeln…"
+    "tagline_de": "DeskcommCRM ist ein Open-Source-Kundenbeziehungsmanagement-System (CRM), das für Unternehmen entwickelt wurde, die Verkäufe über Chats abwickeln…",
+    "last_seen": "2026-09-12"
   },
   {
     "slug": "sonarr",
@@ -32458,7 +32465,8 @@
     "tagline_fr": "Sonarr est un enregistreur vidéo personnel (PVR) intelligent conçu pour les utilisateurs de groupes de discussion (newsgroup) et de bittorrent.",
     "tagline_pt": "O Sonarr é um gravador de vídeo pessoal (PVR) inteligente desenvolvido para usuários de grupos de notícias (newsgroup) e bittorrent.",
     "tagline_es": "Sonarr es una grabadora de video personal (PVR) inteligente desarrollada para usuarios de grupos de noticias (newsgroup) y bittorrent.",
-    "tagline_de": "Sonarr ist ein intelligenter persönlicher Videorekorder (PVR), der für Nutzer von Newsgroups und Bittorrent entwickelt wurde."
+    "tagline_de": "Sonarr ist ein intelligenter persönlicher Videorekorder (PVR), der für Nutzer von Newsgroups und Bittorrent entwickelt wurde.",
+    "last_seen": "2026-09-12"
   },
   {
     "slug": "mathmodelagent",
@@ -32490,7 +32498,8 @@
     "tagline_fr": "MathModelAgent, qui automatise les processus de modélisation mathématique, résout des problèmes complexes et fournit des résultats directement exploitables…",
     "tagline_pt": "O MathModelAgent, que automatiza processos de modelagem matemática, resolve problemas complexos e entrega resultados prontos para uso…",
     "tagline_es": "MathModelAgent, que automatiza los procesos de modelado matemático, resuelve problemas complejos y entrega resultados directamente...",
-    "tagline_de": "MathModelAgent automatisiert mathematische Modellierungsprozesse, löst komplexe Probleme und liefert direkt verwertbare Ergebnisse…"
+    "tagline_de": "MathModelAgent automatisiert mathematische Modellierungsprozesse, löst komplexe Probleme und liefert direkt verwertbare Ergebnisse…",
+    "last_seen": "2026-09-12"
   },
   {
     "slug": "openflux",
@@ -32521,7 +32530,8 @@
     "tagline_fr": "Développé avec le langage Go, OpenFlux est un outil de tunnelisation TCP conçu pour la recherche sur la pile réseau (network stack).",
     "tagline_pt": "O OpenFlux, desenvolvido na linguagem Go, é uma ferramenta de tunelamento TCP projetada para pesquisas em pilhas de rede (network stack).",
     "tagline_es": "OpenFlux, desarrollado con el lenguaje Go, es una herramienta de túnel TCP diseñada para la investigación de pilas de red (network stack).",
-    "tagline_de": "OpenFlux, entwickelt in der Sprache Go, ist ein TCP-Tunneling-Tool, das für die Erforschung von Netzwerk-Stacks konzipiert wurde."
+    "tagline_de": "OpenFlux, entwickelt in der Sprache Go, ist ein TCP-Tunneling-Tool, das für die Erforschung von Netzwerk-Stacks konzipiert wurde.",
+    "last_seen": "2026-09-12"
   },
   {
     "slug": "hyperresearch",
@@ -32553,7 +32563,8 @@
     "tagline_fr": "Hyperresearch est une intelligence artificielle qui collecte et analyse des données sur Internet, puis les transforme en une base de connaissances permanente…",
     "tagline_pt": "O Hyperresearch é uma inteligência artificial que coleta dados da internet, analisa-os e os transforma em uma base de conhecimento permanente…",
     "tagline_es": "Hyperresearch es una inteligencia artificial que recopila datos de Internet, los analiza y los transforma en una base de conocimientos permanente...",
-    "tagline_de": "Hyperresearch ist eine KI, die Daten aus dem Internet sammelt, analysiert und in eine dauerhafte Wissensdatenbank umwandelt…"
+    "tagline_de": "Hyperresearch ist eine KI, die Daten aus dem Internet sammelt, analysiert und in eine dauerhafte Wissensdatenbank umwandelt…",
+    "last_seen": "2026-09-12"
   },
   {
     "slug": "openresearch",
@@ -32585,6 +32596,7 @@
     "tagline_fr": "AlphaXiv vous permet d'exécuter des agents de recherche parallèles en utilisant différents modèles d'intelligence artificielle…",
     "tagline_pt": "O AlphaXiv permite que você execute agentes de pesquisa paralelos usando diferentes modelos de inteligência artificial…",
     "tagline_es": "AlphaXiv es una plataforma que le permite ejecutar agentes de investigación paralelos utilizando diferentes modelos de inteligencia artificial...",
-    "tagline_de": "AlphaXiv ermöglicht es Ihnen, parallele Forschungsagenten unter Verwendung verschiedener KI-Modelle auszuführen…"
+    "tagline_de": "AlphaXiv ermöglicht es Ihnen, parallele Forschungsagenten unter Verwendung verschiedener KI-Modelle auszuführen…",
+    "last_seen": "2026-09-12"
   }
 ]

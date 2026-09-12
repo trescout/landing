@@ -2,7 +2,7 @@
 
 Die aus dem Buch „System Design Interview – An Insider's Guide“ zusammengestellten Notizen bieten eine umfassende Ressource zum Verständnis komplexer Softwarearchitekturen. Sie erläutern Prozesse für skalierbares Systemdesign und grundlegende technische Prinzipien anhand praktischer Beispiele.
 
-- ★ 18.359
+- ★ 19.361
 - GitHub Trending · 2026-09-09
 
 ## Was es bringt

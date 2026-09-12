@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve web/PDF rapor olarak yayımlar. E-posta teslimatı erken erişim aşamasında hazırlanıyor.
 
-Son güncelleme: 2026-09-12 · 535 araç · 599 terim
+Son güncelleme: 2026-09-12 · 535 araç · 602 terim
 
 ---
 
@@ -7204,6 +7204,49 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# DEXs nedir?
+
+> Decentralized Exchanges
+
+**Kategori:** Veri & Altyapı  
+**Son güncelleme:** 2026-09-12
+
+Aracı bir kurum veya banka olmadan, kullanıcıların dijital varlıklarını doğrudan birbirleriyle takas ettiği merkeziyetsiz platformlardır.
+
+## Tanım
+Geleneksel borsalarda işlemlerinizi bir şirketin sunucuları üzerinden yaparsınız. DEXs ise bu şirketi aradan çıkarır ve işlemleri doğrudan blokzinciri üzerindeki akıllı sözleşmeler aracılığıyla gerçekleştirir. Bu sayede varlıklarınızın kontrolü her zaman sizde kalır.
+
+## Bir benzetmeyle
+Geleneksel borsa bir banka şubesinde sıra bekleyerek para bozdurmaya benzerken, DEXs iki kişinin sokakta el sıkışarak doğrudan takas yapmasına benzer.
+
+## Nasıl çalışır?
+Dijital cüzdanınızı platforma bağlarsınız, takas etmek istediğiniz varlığı seçersiniz ve işlem onaylandığında takas otomatik olarak gerçekleşir.
+
+## Nerede kullanılır?
+Kripto para piyasalarında, merkeziyetsiz finans (DeFi) projelerinde ve kullanıcıların gizliliğe önem verdiği işlemlerde kullanılır.
+
+## Sık karıştırılanlar
+Merkezi borsalar (CEX) ile karıştırılabilir.
+
+## Sıkça sorulanlar
+
+**DEXs kullanırken birine güvenmem gerekir mi?**  
+Hayır, güvenmeniz gereken kişi değil, kodun kendisidir (akıllı sözleşmeler).
+
+**İşlem ücreti öder miyim?**  
+Evet, ağdaki madencilere veya doğrulayıcılara ödenen işlem ücretleri (gas fee) mevcuttur.
+
+## İlgili terimler
+- [Smart Contracts](/dictionary/smart-contracts/)
+- [dApps](/dictionary/dapps/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/dexs/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Diagrams nedir?
 
 **Kategori:** Geliştirme  
@@ -14257,6 +14300,48 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Network Stack nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-09-12
+
+Bir bilgisayarın internete bağlanması ve veri alışverişi yapması için gereken yazılım katmanlarının bütünüdür.
+
+## Tanım
+İnternet üzerinde bir veri gönderdiğinizde, bu veri tek bir adımda gitmez. Network stack, verinin paketlenmesinden kablodan geçişine ve karşı tarafta tekrar birleştirilmesine kadar olan tüm süreci yöneten yazılım kurallarıdır. Bu katmanlar, donanım ile kullandığınız uygulamalar arasındaki köprüyü kurar.
+
+## Bir benzetmeyle
+Bir mektup gönderirken zarfın yazılması, postaya verilmesi, kamyona yüklenmesi ve teslim edilmesi aşamaları bir network stack gibidir.
+
+## Nasıl çalışır?
+İşletim sisteminiz, internete bağlandığınız anda bu katmanları arka planda otomatik olarak çalıştırır; siz sadece tarayıcıyı açarsınız.
+
+## Nerede kullanılır?
+Sunucularda, kişisel bilgisayarlarda ve ağ yönlendiricilerinde (router) temel bir bileşen olarak bulunur.
+
+## Sık karıştırılanlar
+Networking stack ile aynı kavramdır.
+
+## Sıkça sorulanlar
+
+**Bu katmanları ben mi yönetiyorum?**  
+Hayır, işletim sisteminiz ve ağ sürücüleri bu süreci sizin yerinize yönetir.
+
+**Neden önemli?**  
+Eğer bu katmanlardan biri hatalı çalışırsa internet bağlantınız kesilir veya veri kaybı yaşarsınız.
+
+## İlgili terimler
+- [Networking Stack](/dictionary/networking-stack/)
+- [API](/dictionary/api/)
+- [Packet Fragmentation](/dictionary/packet-fragmentation/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/network-stack/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Networking Stack nedir?
 
 **Kategori:** Geliştirme  
@@ -19353,6 +19438,46 @@ Genellikle Linux veya macOS gibi sistemlerdeki terminal ortamlarında çalışı
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/shell-script/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Sideloader nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-09-12
+
+Uygulamaları resmi uygulama mağazaları dışında, doğrudan dosya üzerinden cihazınıza yükleme işlemini yapan araç veya yöntemdir.
+
+## Tanım
+Normalde bir telefon veya bilgisayara uygulama yüklemek için Apple App Store veya Google Play gibi resmi kapıları kullanırsınız. Sideloader, bu kapıları devre dışı bırakarak internetten indirdiğiniz bir uygulama dosyasını cihazınıza manuel olarak kurmanıza olanak tanır. Bu yöntem, resmi mağazalarda bulunmayan veya henüz onaylanmamış yazılımlara erişmek için kullanılır.
+
+## Bir benzetmeyle
+Resmi mağazalar bir binanın ana giriş kapısıysa, sideloader binaya pencereden veya arka kapıdan girmeye benzer.
+
+## Nasıl çalışır?
+Cihazınızın ayarlarından 'bilinmeyen kaynaklardan yüklemeye izin ver' seçeneğini aktif etmeniz gerekir. Ardından, internetten indirdiğiniz kurulum dosyasını (örneğin Android için .apk) açarak yükleme işlemini başlatırsınız.
+
+## Nerede kullanılır?
+Android telefonlarda, özel yazılım geliştirenlerin test aşamasındaki uygulamalarında veya kısıtlamaları aşmak isteyen kullanıcıların cihazlarında sıkça görülür.
+
+## Sık karıştırılanlar
+Sideloading (yükleme eylemi) ile karıştırılabilir.
+
+## Sıkça sorulanlar
+
+**Sideloader kullanmak güvenli mi?**  
+Resmi mağazaların güvenlik taraması olmadığı için indirdiğiniz dosyanın kaynağına çok dikkat etmeniz gerekir.
+
+**Her cihazda çalışır mı?**  
+Çoğu açık sistemde çalışır ancak Apple gibi kapalı sistemlerde bazen özel izinler veya jailbreak gerekebilir.
+
+## İlgili terimler
+- [Sideloading](/dictionary/sideloading/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/sideloader/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -40824,6 +40949,44 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Sistem tasarımı mülakatlarına hazırlık notları
+
+Sistem tasarımı mülakatlarına hazırlık rehberi (System Design Interview - An Insider's Guide) kitabından derlenen notlar, karmaşık yazılım mimarilerini anlamak için kapsamlı bir kaynak sunuyor. Ölçeklenebilir sistem tasarımı (system design) süreçlerini ve temel mühendislik prensiplerini pratik örneklerle açıklıyor.
+
+- ★ 19.361
+- GitHub Trending · 2026-09-09
+
+## Güncelleme
+- 12 Eylül 2026: Yıldız 18.359 → 19.361.
+- 10 Eylül 2026: Yıldız 17.273 → 18.359.
+
+## Ne kazandırır?
+- Karmaşık yazılım mimarilerini anlama
+- Ölçeklenebilir sistem tasarımı prensipleri
+- Gerçek dünya sistem örnekleri analizi
+
+## Nasıl başlanır?
+
+Bu kaynak bir yazılım aracı değil, sistem tasarımı üzerine hazırlanmış bir not derlemesidir. İlgili konuları incelemek için proje sayfasındaki bağlantıları takip edebilir veya doğrudan tarayıcınız üzerinden notların bulunduğu web sitesini ziyaret edebilirsiniz.
+- [Resmî kaynak →](https://pagefy-blush.vercel.app/system-design/system-design-interview-by-alex-xu)
+
+- **Kimin için:** Yazılım mimarisi ve sistem tasarımı mülakatlarına hazırlanan mühendis adayları için uygundur. 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/liquidslr/system-design-notes)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-09 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+System Design
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/system-design-notes/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Kodlama ajanları için yüksek performanslı çerçeve
 
 Rust diliyle geliştirilen jcode, kodlama odaklı yapay zekâ ajanlarını test etmek ve değerlendirmek için bir çerçeve (harness) sunuyor. Yazılım geliştirme süreçlerinde kullanılan ajanların performansını ölçmek amacıyla standart bir altyapı sağlıyor.
@@ -41286,43 +41449,6 @@ E-signature PDF Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/docuseal/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Sistem tasarımı mülakatlarına hazırlık notları
-
-Sistem tasarımı mülakatlarına hazırlık rehberi (System Design Interview - An Insider's Guide) kitabından derlenen notlar, karmaşık yazılım mimarilerini anlamak için kapsamlı bir kaynak sunuyor. Ölçeklenebilir sistem tasarımı (system design) süreçlerini ve temel mühendislik prensiplerini pratik örneklerle açıklıyor.
-
-- ★ 18.359
-- GitHub Trending · 2026-09-09
-
-## Güncelleme
-- 10 Eylül 2026: Yıldız 17.273 → 18.359.
-
-## Ne kazandırır?
-- Karmaşık yazılım mimarilerini anlama
-- Ölçeklenebilir sistem tasarımı prensipleri
-- Gerçek dünya sistem örnekleri analizi
-
-## Nasıl başlanır?
-
-Bu kaynak bir yazılım aracı değil, sistem tasarımı üzerine hazırlanmış bir not derlemesidir. İlgili konuları incelemek için proje sayfasındaki bağlantıları takip edebilir veya doğrudan tarayıcınız üzerinden notların bulunduğu web sitesini ziyaret edebilirsiniz.
-- [Resmî kaynak →](https://pagefy-blush.vercel.app/system-design/system-design-interview-by-alex-xu)
-
-- **Kimin için:** Yazılım mimarisi ve sistem tasarımı mülakatlarına hazırlanan mühendis adayları için uygundur. 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/liquidslr/system-design-notes)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-09 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-System Design
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/system-design-notes/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -51462,6 +51588,9 @@ Resmî web sitesi olan iloader.app adresine giderek işletim sisteminize uygun o
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
+## İlgili sözlük terimleri
+Sideloader
+
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/iloader/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
@@ -53164,7 +53293,7 @@ OpenFlux aracını kullanarak bir TCP tüneli oluşturmak istiyorum. Masaüstü 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Pluggable Transports Proxy Artificial Intelligence
+Pluggable Transports Network Stack Proxy Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openflux/
