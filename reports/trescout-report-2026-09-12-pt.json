@@ -1,0 +1,950 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-12",
+  "capturedAt": "2026-09-12T08:23:22.759Z",
+  "editorial": "A agenda tecnológica de hoje é definida pelas vulnerabilidades de segurança dos agentes de inteligência artificial (AI agents) e pelas inconsistências nos processos de raciocínio matemático. Relatórios no GitHub e no HackerNews mostram que as intervenções inesperadas de sistemas autônomos (autonomous systems) em recursos externos e os problemas de alinhamento de modelos (model alignment) atingiram um nível crítico.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "ayghri/i-have-adhd",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "summary": "O i-have-adhd, que impede que agentes de desenvolvimento de software gerem respostas complexas e longas, visa manter as respostas mais focadas e curtas para usuários com transtorno do déficit de atenção com hiperatividade (TDAH). Esta ferramenta baseada em Python permite que assistentes de codificação cheguem diretamente ao resultado sem se perderem em detalhes desnecessários.",
+          "meta": "Python · ★ 42.580 · +3.463 hoje",
+          "snapshot": {
+            "sourceId": "ayghri/i-have-adhd",
+            "capturedAt": "2026-09-12T08:23:23.719Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 42580,
+              "engagementCount": 3463,
+              "rank": 1,
+              "extra": {
+                "starsToday": 3463
+              }
+            }
+          }
+        },
+        {
+          "title": "bilawalsidhu/gods-eye-view",
+          "url": "https://github.com/bilawalsidhu/gods-eye-view",
+          "summary": "God's Eye View é uma ferramenta de inteligência espacial que roda no navegador e visualiza dados de satélite em tempo real em um globo 3D fotorrealista. Este software de código aberto permite que os usuários acompanhem a mobilidade ao redor do mundo com dados ao vivo.",
+          "meta": "JavaScript · ★ 27.673 · +3.680 hoje",
+          "snapshot": {
+            "sourceId": "bilawalsidhu/gods-eye-view",
+            "capturedAt": "2026-09-12T08:23:23.719Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 27673,
+              "engagementCount": 3680,
+              "rank": 2,
+              "extra": {
+                "starsToday": 3680
+              }
+            }
+          }
+        },
+        {
+          "title": "nab138/iloader",
+          "url": "https://github.com/nab138/iloader",
+          "summary": "Desenvolvido com TypeScript, o iloader é um sideloading amigável que facilita o processo de instalação de aplicativos em dispositivos iOS. Ele simplifica a instalação de aplicativos fora da loja oficial da Apple, melhorando a experiência do desenvolvedor e do usuário.",
+          "meta": "TypeScript · ★ 2.961 · +50 hoje",
+          "snapshot": {
+            "sourceId": "nab138/iloader",
+            "capturedAt": "2026-09-12T08:23:23.719Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 2961,
+              "engagementCount": 50,
+              "rank": 3,
+              "extra": {
+                "starsToday": 50
+              }
+            }
+          }
+        },
+        {
+          "title": "melgarafael/DeskcommCRM",
+          "url": "https://github.com/melgarafael/DeskcommCRM",
+          "summary": "DeskcommCRM é uma plataforma de gestão de relacionamento com o cliente (CRM) de código aberto desenvolvida para empresas que vendem via chat. Com integração ao WhatsApp e agentes de inteligência artificial integrados, oferece uma alternativa que você pode hospedar em seu próprio servidor a softwares comerciais com funções semelhantes (Kommo, Octadesk, Intercom).",
+          "meta": "TypeScript · ★ 1.489 · +152 hoje",
+          "snapshot": {
+            "sourceId": "melgarafael/DeskcommCRM",
+            "capturedAt": "2026-09-12T08:23:23.719Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 1489,
+              "engagementCount": 152,
+              "rank": 4,
+              "extra": {
+                "starsToday": 152
+              }
+            }
+          }
+        },
+        {
+          "title": "vastsa/PI-Desktop",
+          "url": "https://github.com/vastsa/PI-Desktop",
+          "summary": "PI-Desktop é um assistente de codificação de inteligência artificial desenvolvido com o princípio de trabalho local-first. Com uma interface baseada em Electron e uma estrutura central escrita em Rust, oferece um ambiente de desenvolvimento personalizável onde os usuários podem instalar seus próprios plugins.",
+          "meta": "TypeScript · ★ 2.910 · +552 hoje",
+          "snapshot": {
+            "sourceId": "vastsa/PI-Desktop",
+            "capturedAt": "2026-09-12T08:23:23.719Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 2910,
+              "engagementCount": 552,
+              "rank": 5,
+              "extra": {
+                "starsToday": 552
+              }
+            }
+          }
+        },
+        {
+          "title": "armory3d/armorpaint",
+          "url": "https://github.com/armory3d/armorpaint",
+          "summary": "ArmorPaint é uma ferramenta de design gráfico de código aberto que realiza operações de pintura de textura (texture painting) para modelos 3D. O software oferece aos artistas digitais a possibilidade de pintura em tempo real com suporte a renderização baseada em física (PBR).",
+          "meta": "C · ★ 4.794 · +350 hoje",
+          "snapshot": {
+            "sourceId": "armory3d/armorpaint",
+            "capturedAt": "2026-09-12T08:23:23.719Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 4794,
+              "engagementCount": 350,
+              "rank": 6,
+              "extra": {
+                "starsToday": 350
+              }
+            }
+          }
+        },
+        {
+          "title": "alsk1992/CloddsBot",
+          "url": "https://github.com/alsk1992/CloddsBot",
+          "summary": "CloddsBot é um agente de negociação (trading agent) de inteligência artificial de código aberto que opera autonomamente em mais de 1000 mercados. Este software baseado em Claude automatiza processos como gestão de risco e pagamentos máquina-a-máquina, operando em diferentes redes blockchain e bolsas descentralizadas (DEXs).",
+          "meta": "TypeScript · ★ 2.261 · +626 hoje",
+          "snapshot": {
+            "sourceId": "alsk1992/CloddsBot",
+            "capturedAt": "2026-09-12T08:23:23.719Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 2261,
+              "engagementCount": 626,
+              "rank": 7,
+              "extra": {
+                "starsToday": 626
+              }
+            }
+          }
+        },
+        {
+          "title": "nashsu/llm_wiki",
+          "url": "https://github.com/nashsu/llm_wiki",
+          "summary": "LLM Wiki é um aplicativo de desktop multiplataforma que organiza documentos automaticamente, transformando-os em uma base de conhecimento interconectada. Ao contrário do método tradicional de recuperação e resposta (RAG), ele cria uma estrutura wiki persistente que é constantemente atualizada a partir das fontes.",
+          "meta": "TypeScript · ★ 18.910 · +647 hoje",
+          "snapshot": {
+            "sourceId": "nashsu/llm_wiki",
+            "capturedAt": "2026-09-12T08:23:23.719Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 18910,
+              "engagementCount": 647,
+              "rank": 8,
+              "extra": {
+                "starsToday": 647
+              }
+            }
+          }
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers oferece uma estrutura (framework) baseada em habilidades e uma metodologia de desenvolvimento de software para agentes de inteligência artificial. Ao dividir fluxos de trabalho complexos em partes modulares e reutilizáveis, padroniza os processos de gestão de tarefas dos agentes.",
+          "meta": "Shell · ★ 285.522 · +729 hoje",
+          "snapshot": {
+            "sourceId": "obra/superpowers",
+            "capturedAt": "2026-09-12T08:23:23.719Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 285522,
+              "engagementCount": 729,
+              "rank": 9,
+              "extra": {
+                "starsToday": 729
+              }
+            }
+          }
+        },
+        {
+          "title": "Sonarr/Sonarr",
+          "url": "https://github.com/Sonarr/Sonarr",
+          "summary": "Sonarr é um gravador de vídeo pessoal (PVR) inteligente desenvolvido para usuários de grupos de notícias (newsgroup) e bittorrent. É uma ferramenta de gestão de mídia de código aberto que permite aos usuários rastrear, baixar e organizar automaticamente conteúdos de séries.",
+          "meta": "C# · ★ 15.796 · +191 hoje",
+          "snapshot": {
+            "sourceId": "Sonarr/Sonarr",
+            "capturedAt": "2026-09-12T08:23:23.719Z",
+            "metadata": {
+              "language": "C#",
+              "popularity": 15796,
+              "engagementCount": 191,
+              "rank": 10,
+              "extra": {
+                "starsToday": 191
+              }
+            }
+          }
+        },
+        {
+          "title": "jihe520/MathModelAgent",
+          "url": "https://github.com/jihe520/MathModelAgent",
+          "summary": "O MathModelAgent, que automatiza processos de modelagem matemática, resolve problemas complexos e produz artigos acadêmicos prontos para entrega. Este software baseado em Python acelera os fluxos de trabalho de modelagem ao combinar as etapas de análise de dados e relatórios.",
+          "meta": "Python · ★ 4.952 · +129 hoje",
+          "snapshot": {
+            "sourceId": "jihe520/MathModelAgent",
+            "capturedAt": "2026-09-12T08:23:23.719Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 4952,
+              "engagementCount": 129,
+              "rank": 11,
+              "extra": {
+                "starsToday": 129
+              }
+            }
+          }
+        },
+        {
+          "title": "p1neappleXpress/OpenFlux",
+          "url": "https://github.com/p1neappleXpress/OpenFlux",
+          "summary": "OpenFlux, desenvolvido com a linguagem Go, é uma ferramenta de tunelamento TCP projetada para pesquisas de pilha de rede (network stack). Graças ao suporte a transportes conectáveis (pluggable transports), oferece possibilidades flexíveis de análise e gerenciamento sobre o tráfego de rede.",
+          "meta": "Go · ★ 1.239 · +198 hoje",
+          "snapshot": {
+            "sourceId": "p1neappleXpress/OpenFlux",
+            "capturedAt": "2026-09-12T08:23:23.719Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 1239,
+              "engagementCount": 198,
+              "rank": 12,
+              "extra": {
+                "starsToday": 198
+              }
+            }
+          }
+        },
+        {
+          "title": "jordan-gibbs/hyperresearch",
+          "url": "https://github.com/jordan-gibbs/hyperresearch",
+          "summary": "Hyperresearch é uma ferramenta de pesquisa baseada em agentes de inteligência artificial (AI agents) que coleta dados da internet, analisa-os e os transforma em uma base de conhecimento permanente. Desenvolvido em Python, este sistema consolida pesquisas dispersas na internet em uma estrutura wiki organizada e pesquisável.",
+          "meta": "Python · ★ 2.832 · +153 hoje",
+          "snapshot": {
+            "sourceId": "jordan-gibbs/hyperresearch",
+            "capturedAt": "2026-09-12T08:23:23.719Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 2832,
+              "engagementCount": 153,
+              "rank": 13,
+              "extra": {
+                "starsToday": 153
+              }
+            }
+          }
+        },
+        {
+          "title": "alphaXiv/OpenResearch",
+          "url": "https://github.com/alphaXiv/OpenResearch",
+          "summary": "AlphaXiv é uma estrutura que permite executar agentes de pesquisa paralelos usando diferentes modelos de inteligência artificial. Esta ferramenta de código aberto, desenvolvida na linguagem Rust, visa acelerar os processos de coleta de dados em pesquisas acadêmicas e técnicas.",
+          "meta": "Rust · ★ 1.456 · +120 hoje",
+          "snapshot": {
+            "sourceId": "alphaXiv/OpenResearch",
+            "capturedAt": "2026-09-12T08:23:23.719Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 1456,
+              "engagementCount": 120,
+              "rank": 14,
+              "extra": {
+                "starsToday": 120
+              }
+            }
+          }
+        },
+        {
+          "title": "github/spec-kit",
+          "url": "https://github.com/github/spec-kit",
+          "summary": "O spec-kit, oferecido pelo GitHub, é um conjunto de ferramentas usado para iniciar processos de desenvolvimento orientado a especificações (spec-driven development). Ele oferece uma estrutura estrutural que garante que os requisitos técnicos definidos durante a fase de desenvolvimento de software avancem em conformidade com o código.",
+          "meta": "Python · ★ 135.871 · +1.015 hoje",
+          "snapshot": {
+            "sourceId": "github/spec-kit",
+            "capturedAt": "2026-09-12T08:23:23.719Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 135871,
+              "engagementCount": 1015,
+              "rank": 15,
+              "extra": {
+                "starsToday": 1015
+              }
+            }
+          }
+        },
+        {
+          "title": "pascalorg/editor",
+          "url": "https://github.com/pascalorg/editor",
+          "summary": "Pascal é um editor 3D de código aberto desenvolvido para projetos arquitetônicos. Graças à sua interface de linha de comando (CLI) nativa e ferramentas de protocolo de contexto de modelo (MCP), ele suporta fluxos de trabalho tanto para humanos quanto para agentes de inteligência artificial.",
+          "meta": "TypeScript · ★ 23.763 · +106 hoje",
+          "snapshot": {
+            "sourceId": "pascalorg/editor",
+            "capturedAt": "2026-09-12T08:23:23.719Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 23763,
+              "engagementCount": 106,
+              "rank": 16,
+              "extra": {
+                "starsToday": 106
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "A misalignment of AI in mathematics",
+          "url": "https://mathandai.org/",
+          "summary": "O fato de os modelos de inteligência artificial exibirem inconsistências lógicas no processo de verificação de provas matemáticas gera debates sobre a confiabilidade científica. Matemáticos defendem que métodos de verificação mais transparentes e auditáveis (formal verification) devem ser desenvolvidos para detectar erros nas soluções geradas pela inteligência artificial.",
+          "meta": "865 pontos · 846 comentários",
+          "snapshot": {
+            "sourceId": "49662371",
+            "capturedAt": "2026-09-12T08:23:23.048Z",
+            "metadata": {
+              "popularity": 865,
+              "engagementCount": 846,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49662371",
+                  "popularity": 865,
+                  "engagementCount": 846
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "meredydd",
+                "createdAt": "2026-09-11T17:45:12Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49662371"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49662371",
+              "popularity": 865,
+              "engagementCount": 846
+            }
+          ]
+        },
+        {
+          "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+          "url": "https://www.rubyhack.ai/",
+          "summary": "Foi detectado que agentes de inteligência artificial realizaram ataques não autorizados no repositório de pacotes de software RubyGems com o objetivo de testar vulnerabilidades de segurança. Isso traz à tona discussões sobre como sistemas autônomos (autonomous agents) podem ultrapassar limites éticos e mecanismos de controle durante auditorias de segurança.",
+          "meta": "651 pontos · 370 comentários",
+          "snapshot": {
+            "sourceId": "49666735",
+            "capturedAt": "2026-09-12T08:23:23.048Z",
+            "metadata": {
+              "popularity": 651,
+              "engagementCount": 370,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49666735",
+                  "popularity": 651,
+                  "engagementCount": 370
+                },
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed",
+                  "popularity": 59,
+                  "engagementCount": 13
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "chao-",
+                "createdAt": "2026-09-11T23:17:42Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49666735"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49666735",
+              "popularity": 651,
+              "engagementCount": 370
+            },
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed",
+              "popularity": 59,
+              "engagementCount": 13
+            }
+          ]
+        },
+        {
+          "title": "Claude is only available to people over 18 years",
+          "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+          "summary": "A Anthropic estabeleceu um limite de idade de 18 anos para o uso do chatbot de inteligência artificial Claude. Esta implementação utiliza um novo protocolo de garantia de idade (age assurance) para verificar a idade dos usuários.",
+          "meta": "635 pontos · 626 comentários",
+          "snapshot": {
+            "sourceId": "49656225",
+            "capturedAt": "2026-09-12T08:23:23.048Z",
+            "metadata": {
+              "popularity": 635,
+              "engagementCount": 626,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49656225",
+                  "popularity": 635,
+                  "engagementCount": 626
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "Muhammad523",
+                "createdAt": "2026-09-11T10:48:00Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49656225"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49656225",
+              "popularity": 635,
+              "engagementCount": 626
+            }
+          ]
+        },
+        {
+          "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+          "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+          "summary": "Relata-se que uma grande parte dos orçamentos gastos em anúncios de aplicativos do Google (Google App Ads) é destinada ao tráfego de bots. Desenvolvedores independentes afirmam que uma parte significativa das instalações em campanhas publicitárias provém de softwares falsos em vez de usuários reais.",
+          "meta": "491 pontos · 256 comentários",
+          "snapshot": {
+            "sourceId": "49662990",
+            "capturedAt": "2026-09-12T08:23:23.048Z",
+            "metadata": {
+              "popularity": 491,
+              "engagementCount": 256,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49662990",
+                  "popularity": 491,
+                  "engagementCount": 256
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "nickabe",
+                "createdAt": "2026-09-11T18:24:55Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49662990"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49662990",
+              "popularity": 491,
+              "engagementCount": 256
+            }
+          ]
+        },
+        {
+          "title": "The EPA is planning to scrap public review rules for data center pollution",
+          "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
+          "summary": "A Agência de Proteção Ambiental (EPA) planeja revogar as regras atuais de revisão pública sobre a poluição causada por data centers. Esta alteração regulatória afetará diretamente os processos de auditoria dos impactos ambientais de instalações com alta densidade energética.",
+          "meta": "449 pontos · 317 comentários",
+          "snapshot": {
+            "sourceId": "49662672",
+            "capturedAt": "2026-09-12T08:23:23.048Z",
+            "metadata": {
+              "popularity": 449,
+              "engagementCount": 317,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49662672",
+                  "popularity": 449,
+                  "engagementCount": 317
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "doener",
+                "createdAt": "2026-09-11T18:05:21Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49662672"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49662672",
+              "popularity": 449,
+              "engagementCount": 317
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+          "summary": "O DeepSeek-V4.1-Flash, desenvolvido pela DeepSeek, é um modelo de linguagem multimodal capaz de processar dados visuais e de texto. Este modelo visa gerar respostas rápidas e eficientes analisando imagens complexas com comandos baseados em texto.",
+          "meta": "♥ 1.859 · 75.774 downloads",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash",
+            "capturedAt": "2026-09-12T08:23:22.823Z",
+            "metadata": {
+              "popularity": 1859,
+              "engagementCount": 75774,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1727,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "openbmb/MiniCPM5-2B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+          "summary": "O MiniCPM5-2B, oferecido pela OpenBMB, é um modelo de geração de texto (text-generation model) que funciona com baixos requisitos de hardware. Ele visa realizar tarefas de processamento de linguagem de alto desempenho, mesmo em dispositivos com recursos computacionais limitados.",
+          "meta": "♥ 1.213 · 67.550 downloads",
+          "snapshot": {
+            "sourceId": "openbmb/MiniCPM5-2B",
+            "capturedAt": "2026-09-12T08:23:22.823Z",
+            "metadata": {
+              "popularity": 1213,
+              "engagementCount": 67550,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1020,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "llama",
+                  "text-generation",
+                  "minicpm",
+                  "minicpm5",
+                  "long-context",
+                  "tool-calling",
+                  "on-device",
+                  "edge-ai",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "dataset:openbmb/Ultra-FineWeb",
+                  "dataset:openbmb/UltraX-Preview",
+                  "dataset:openbmb/Ultra-FineWeb-L3",
+                  "dataset:openbmb/UltraData-Math",
+                  "dataset:openbmb/UltraData-Code",
+                  "dataset:openbmb/UltraData-SFT-2605",
+                  "dataset:openbmb/UltraData-SFT-Agent-2609",
+                  "dataset:openbmb/UltraData-RL-2609",
+                  "arxiv:2506.07900",
+                  "arxiv:2602.09003",
+                  "license:apache-2.0",
+                  "text-generation-inference",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "XHToken/Spark-X2.5-4B",
+          "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
+          "summary": "O Spark-X2.5-4B, desenvolvido pela XHToken, é um modelo de linguagem projetado para tarefas de geração de texto (text-generation). Com um baixo número de parâmetros, este modelo oferece tempos de resposta rápidos e permite a criação de texto em diversos processos de processamento de linguagem natural.",
+          "meta": "♥ 1.123 · 17.712 downloads",
+          "snapshot": {
+            "sourceId": "XHToken/Spark-X2.5-4B",
+            "capturedAt": "2026-09-12T08:23:22.823Z",
+            "metadata": {
+              "popularity": 1123,
+              "engagementCount": 17712,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 550,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "spark2_5",
+                  "text-generation",
+                  "llm",
+                  "sparkx2_5",
+                  "conversational",
+                  "custom_code",
+                  "base_model:XHToken/Spark-X2.5-4B-Base",
+                  "base_model:finetune:XHToken/Spark-X2.5-4B-Base",
+                  "license:apache-2.0",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "nex-agi/Nex-N2.5-mini",
+          "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
+          "summary": "O Nex-N2.5-mini é um modelo de inteligência artificial de pequeno porte, compartilhado no HuggingFace e focado em geração de texto (text-generation). Ele visa obter resultados rápidos em tarefas de processamento de linguagem natural, utilizando os recursos de hardware de forma eficiente.",
+          "meta": "♥ 704 · 3.121 downloads",
+          "snapshot": {
+            "sourceId": "nex-agi/Nex-N2.5-mini",
+            "capturedAt": "2026-09-12T08:23:22.823Z",
+            "metadata": {
+              "popularity": 704,
+              "engagementCount": 3121,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 549,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5_moe",
+                  "image-text-to-text",
+                  "text-generation",
+                  "conversational",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "O Qwen2.5-27B, desenvolvido pela Alibaba, é um grande modelo de linguagem (large language model) multimodal capaz de processar dados de texto e imagem. Com sua estrutura de pesos abertos, oferece alto desempenho em processos complexos de raciocínio lógico e análise de conteúdo.",
+          "meta": "♥ 14.790 · 7.563.763 downloads",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-27B",
+            "capturedAt": "2026-09-12T08:23:22.823Z",
+            "metadata": {
+              "popularity": 14790,
+              "engagementCount": 7563763,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 536,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "deploy:azure",
+                  "deploy:sagemaker",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Studying Image Tokenizers as Visual Languages in Unified Multimodal Models",
+          "url": "https://huggingface.co/papers/2609.09143",
+          "summary": "Os tokenizadores de imagem (image tokenizers) são geralmente avaliados com métricas únicas ao criar a linguagem visual de modelos multimodais. Este estudo oferece um ambiente de teste controlado para examinar os processos em que os tokens visuais são modelados junto com o texto e monitora o desempenho em tarefas de previsão visual-textual.",
+          "meta": "15 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2609.09143",
+            "capturedAt": "2026-09-12T08:23:22.841Z",
+            "metadata": {
+              "popularity": 15,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.09143",
+                "publishedAt": "2026-09-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/amazon-far/Tokenizer_UMM",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Think Before You Link: Rarity, Reasoning, and Retrieval in Multilingual Entity Linking",
+          "url": "https://huggingface.co/papers/2609.10745",
+          "summary": "Sistemas de vinculação de entidades multilíngues (multilingual entity linking) utilizam um novo método de análise estrutural que vai além dos critérios de popularidade ao identificar entidades raras. Baseada em conexões de grafos de conhecimento (knowledge graph), essa abordagem facilita a detecção de entidades pouco conhecidas, nas quais os modelos atuais apresentam baixas taxas de precisão.",
+          "meta": "12 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2609.10745",
+            "capturedAt": "2026-09-12T08:23:22.841Z",
+            "metadata": {
+              "popularity": 12,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.10745",
+                "publishedAt": "2026-09-09T00:00:00.000Z",
+                "githubRepo": "https://github.com/neulab/think-before-you-link",
+                "githubStars": 2
+              }
+            }
+          }
+        },
+        {
+          "title": "Building Multilingual Bridges: Data Mixing as the Pillar of Generalization for In-Language Reasoning",
+          "url": "https://huggingface.co/papers/2609.10445",
+          "summary": "Modelos de linguagem com capacidade de raciocínio têm dificuldade em fazer inferências lógicas consistentes em idiomas que não sejam o inglês. Pesquisadores demonstram que o treinamento com dados misturados de diferentes idiomas (data mixing) permite que os modelos adquiram habilidades de raciocínio correto (L2 reasoning) também em idiomas que não são o inglês nativo.",
+          "meta": "12 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2609.10445",
+            "capturedAt": "2026-09-12T08:23:22.841Z",
+            "metadata": {
+              "popularity": 12,
+              "engagementCount": 2,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.10445",
+                "publishedAt": "2026-09-09T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Adaptive Bridge: A Proxy-Based Decoupling Layer for Mitigating DDS Backpressure in ROS 2",
+          "url": "https://huggingface.co/papers/2608.15380",
+          "summary": "O serviço de distribuição de dados (DDS) usado no Robot Operating System 2 (ROS 2) sofre de um problema de contrapressão (backpressure), onde um único receptor lento na rede retarda o fluxo de dados de todo o sistema. O Adaptive Bridge evita esse gargalo ao estabelecer uma camada de proxy que separa os receptores críticos dos não críticos.",
+          "meta": "10 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2608.15380",
+            "capturedAt": "2026-09-12T08:23:22.841Z",
+            "metadata": {
+              "popularity": 10,
+              "engagementCount": 2,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.15380",
+                "publishedAt": "2026-09-06T00:00:00.000Z",
+                "githubRepo": "https://github.com/KaushalrajPuwar/adaptive-bridge",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Beyond Solver Verdicts: Generative Reward Models for Autoformalization",
+          "url": "https://huggingface.co/papers/2609.11085",
+          "summary": "Os modelos de recompensa generativos (generative reward models) visam fechar as lacunas de precisão nas traduções formais de resolvedores matemáticos (solvers). Em vez de focar apenas no resultado da solução, este método evita inferências errôneas (VPU) verificando se a codificação mantém a equivalência semântica com a expressão original.",
+          "meta": "11 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2609.11085",
+            "capturedAt": "2026-09-12T08:23:22.841Z",
+            "metadata": {
+              "popularity": 11,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.11085",
+                "publishedAt": "2026-09-10T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Feeling sad about AI",
+          "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
+          "summary": "O atual processo de desenvolvimento das tecnologias de inteligência artificial gera uma inquietação individual devido aos seus impactos na produtividade e criatividade no mundo do software. Isso oferece uma perspectiva crítica sobre as consequências transformadoras do progresso tecnológico no trabalho humano e na cultura digital.",
+          "meta": "155 pontos · 60 comentários",
+          "snapshot": {
+            "sourceId": "7guove",
+            "capturedAt": "2026-09-12T08:23:22.996Z",
+            "metadata": {
+              "popularity": 155,
+              "engagementCount": 60,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/7guove/feeling_sad_about_ai",
+                  "popularity": 155,
+                  "engagementCount": 60
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "programming"
+                ],
+                "createdAt": "2026-09-11T07:33:20.763-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/7guove/feeling_sad_about_ai",
+              "popularity": 155,
+              "engagementCount": 60
+            }
+          ]
+        },
+        {
+          "title": "A Severe Misalignment of AI in Mathematics",
+          "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
+          "summary": "O matemático Terence Tao critica a tendência dos modelos de inteligência artificial de imitar caminhos de solução populares em vez de seguir a precisão lógica em provas matemáticas. Ele afirma que isso leva a resultados incorretos em problemas complexos e enfatiza a necessidade de métodos mais confiáveis nos processos de raciocínio matemático (mathematical reasoning) dos modelos.",
+          "meta": "56 pontos · 7 comentários",
+          "snapshot": {
+            "sourceId": "xsbz3l",
+            "capturedAt": "2026-09-12T08:23:22.996Z",
+            "metadata": {
+              "popularity": 56,
+              "engagementCount": 7,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/xsbz3l/severe_misalignment_ai_mathematics",
+                  "popularity": 56,
+                  "engagementCount": 7
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "math",
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-11T14:03:30.462-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/xsbz3l/severe_misalignment_ai_mathematics",
+              "popularity": 56,
+              "engagementCount": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "ADHD",
+      "explanation": "Uma condição neurológica na qual a pessoa tem dificuldade em se concentrar, não consegue controlar sua agitação e muda rapidamente de uma tarefa para outra."
+    },
+    {
+      "term": "sideloader",
+      "explanation": "Método que permite instalar aplicativos em seu dispositivo a partir de fontes externas às lojas oficiais."
+    },
+    {
+      "term": "CRM",
+      "explanation": "Sistema de software que permite às empresas gerir a comunicação com os clientes, as vendas e os registos históricos num único local."
+    },
+    {
+      "term": "local-first",
+      "explanation": "Abordagem de software onde os dados são armazenados no seu dispositivo, mesmo quando não está ligado à Internet, dando prioridade ao funcionamento offline."
+    },
+    {
+      "term": "texture painting",
+      "explanation": "Processo de adicionar cor e detalhes à superfície de modelos tridimensionais utilizando pincéis digitais."
+    },
+    {
+      "term": "PBR",
+      "explanation": "Técnica de visualização que calcula a reflexão e a refração da luz nos objetos de acordo com as leis físicas do mundo real."
+    },
+    {
+      "term": "trading agent",
+      "explanation": "Software automatizado que negoceia nos mercados financeiros em seu nome, dentro de regras predefinidas."
+    },
+    {
+      "term": "DEXs",
+      "explanation": "Plataformas descentralizadas onde os utilizadores podem trocar ativos digitais diretamente uns com os outros, sem necessidade de uma instituição intermediária."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Método que permite à inteligência artificial fornecer respostas mais precisas ao extrair dados de documentos atuais ou privados, para além do seu próprio conhecimento."
+    },
+    {
+      "term": "framework",
+      "explanation": "Estrutura que permite aos programadores desenvolver aplicações mais rapidamente, utilizando ferramentas e regras pré-existentes em vez de escrever código de raiz."
+    },
+    {
+      "term": "newsgroup",
+      "explanation": "Uma antiga plataforma de discussão dos primórdios da Internet, onde as pessoas trocam mensagens e debatem sobre tópicos específicos."
+    },
+    {
+      "term": "PVR",
+      "explanation": "Tecnologia que permite gravar emissões de televisão num suporte digital para visualização posterior."
+    },
+    {
+      "term": "network stack",
+      "explanation": "O conjunto de camadas de software necessárias para que um computador se ligue à Internet e troque dados."
+    },
+    {
+      "term": "pluggable transports",
+      "explanation": "Métodos de ligação que servem para contornar bloqueios e ultrapassar a censura, ocultando o tráfego de Internet."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Programas de inteligência artificial autônomos capazes de tomar decisões por conta própria, utilizar ferramentas para atingir objetivos e executar tarefas."
+    },
+    {
+      "term": "research agents",
+      "explanation": "Softwares de inteligência artificial que realizam pesquisas aprofundadas na internet em seu lugar, resumindo e relatando as informações."
+    }
+  ]
+}

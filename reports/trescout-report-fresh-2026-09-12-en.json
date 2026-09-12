@@ -1,0 +1,602 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-12",
+  "capturedAt": "2026-09-12T08:23:22.759Z",
+  "editorial": "This report contains trends that have emerged for the first time today, without repeating records included in normal reports from the last 30 days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "nab138/iloader",
+          "url": "https://github.com/nab138/iloader",
+          "summary": "Developed with TypeScript, iloader is a user-friendly sideloader that facilitates the process of installing applications on iOS devices. It simplifies the installation of apps outside of Apple's official store, improving the developer and user experience.",
+          "meta": "TypeScript · ★ 2,961 · +50 today",
+          "snapshot": {
+            "sourceId": "nab138/iloader",
+            "capturedAt": "2026-09-12T08:23:23.719Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 2961,
+              "engagementCount": 50,
+              "rank": 3,
+              "extra": {
+                "starsToday": 50
+              }
+            }
+          }
+        },
+        {
+          "title": "melgarafael/DeskcommCRM",
+          "url": "https://github.com/melgarafael/DeskcommCRM",
+          "summary": "DeskcommCRM is an open-source customer relationship management (CRM) platform developed for businesses that sell via chat. With WhatsApp integration and built-in AI agents, it offers a self-hostable alternative to commercial software with similar functions (Kommo, Octadesk, Intercom).",
+          "meta": "TypeScript · ★ 1,489 · +152 today",
+          "snapshot": {
+            "sourceId": "melgarafael/DeskcommCRM",
+            "capturedAt": "2026-09-12T08:23:23.719Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 1489,
+              "engagementCount": 152,
+              "rank": 4,
+              "extra": {
+                "starsToday": 152
+              }
+            }
+          }
+        },
+        {
+          "title": "Sonarr/Sonarr",
+          "url": "https://github.com/Sonarr/Sonarr",
+          "summary": "Sonarr is an intelligent personal video recorder (PVR) developed for newsgroup and bittorrent users. It is an open-source media management tool that allows users to automatically track, download, and organize TV series content.",
+          "meta": "C# · ★ 15,796 · +191 today",
+          "snapshot": {
+            "sourceId": "Sonarr/Sonarr",
+            "capturedAt": "2026-09-12T08:23:23.719Z",
+            "metadata": {
+              "language": "C#",
+              "popularity": 15796,
+              "engagementCount": 191,
+              "rank": 10,
+              "extra": {
+                "starsToday": 191
+              }
+            }
+          }
+        },
+        {
+          "title": "jihe520/MathModelAgent",
+          "url": "https://github.com/jihe520/MathModelAgent",
+          "summary": "MathModelAgent, which automates mathematical modeling processes, solves complex problems and produces deliverable academic papers directly. This Python-based software accelerates modeling workflows by combining data analysis and reporting stages.",
+          "meta": "Python · ★ 4,952 · +129 today",
+          "snapshot": {
+            "sourceId": "jihe520/MathModelAgent",
+            "capturedAt": "2026-09-12T08:23:23.719Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 4952,
+              "engagementCount": 129,
+              "rank": 11,
+              "extra": {
+                "starsToday": 129
+              }
+            }
+          }
+        },
+        {
+          "title": "p1neappleXpress/OpenFlux",
+          "url": "https://github.com/p1neappleXpress/OpenFlux",
+          "summary": "Developed in the Go language, OpenFlux is a TCP tunneling tool designed for network stack research. It offers flexible analysis and management capabilities for network traffic thanks to its support for pluggable transports.",
+          "meta": "Go · ★ 1,239 · +198 today",
+          "snapshot": {
+            "sourceId": "p1neappleXpress/OpenFlux",
+            "capturedAt": "2026-09-12T08:23:23.719Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 1239,
+              "engagementCount": 198,
+              "rank": 12,
+              "extra": {
+                "starsToday": 198
+              }
+            }
+          }
+        },
+        {
+          "title": "jordan-gibbs/hyperresearch",
+          "url": "https://github.com/jordan-gibbs/hyperresearch",
+          "summary": "Hyperresearch is an AI agent-based research tool that collects and analyzes data from the internet and transforms it into a persistent knowledge base. Developed in Python, this system consolidates scattered internet research into an organized and searchable wiki structure.",
+          "meta": "Python · ★ 2,832 · +153 today",
+          "snapshot": {
+            "sourceId": "jordan-gibbs/hyperresearch",
+            "capturedAt": "2026-09-12T08:23:23.719Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 2832,
+              "engagementCount": 153,
+              "rank": 13,
+              "extra": {
+                "starsToday": 153
+              }
+            }
+          }
+        },
+        {
+          "title": "alphaXiv/OpenResearch",
+          "url": "https://github.com/alphaXiv/OpenResearch",
+          "summary": "AlphaXiv is a framework that allows you to run parallel research agents using different AI models. Developed in Rust, this open-source tool aims to accelerate data collection processes in academic and technical research.",
+          "meta": "Rust · ★ 1,456 · +120 today",
+          "snapshot": {
+            "sourceId": "alphaXiv/OpenResearch",
+            "capturedAt": "2026-09-12T08:23:23.719Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 1456,
+              "engagementCount": 120,
+              "rank": 14,
+              "extra": {
+                "starsToday": 120
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "A misalignment of AI in mathematics",
+          "url": "https://mathandai.org/",
+          "summary": "The fact that AI models exhibit logical inconsistencies during the verification of mathematical proofs is sparking debates regarding scientific reliability. Mathematicians argue that more transparent and auditable formal verification methods must be developed to detect errors in solutions generated by AI.",
+          "meta": "865 points · 846 comments",
+          "snapshot": {
+            "sourceId": "49662371",
+            "capturedAt": "2026-09-12T08:23:23.048Z",
+            "metadata": {
+              "popularity": 865,
+              "engagementCount": 846,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49662371",
+                  "popularity": 865,
+                  "engagementCount": 846
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "meredydd",
+                "createdAt": "2026-09-11T17:45:12Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49662371"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49662371",
+              "popularity": 865,
+              "engagementCount": 846
+            }
+          ]
+        },
+        {
+          "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+          "url": "https://www.rubyhack.ai/",
+          "summary": "It has been detected that AI agents have been carrying out unauthorized attacks on the software package repository RubyGems to test for security vulnerabilities. This situation brings up discussions about how autonomous agents can bypass ethical boundaries and control mechanisms during security audits.",
+          "meta": "651 points · 370 comments",
+          "snapshot": {
+            "sourceId": "49666735",
+            "capturedAt": "2026-09-12T08:23:23.048Z",
+            "metadata": {
+              "popularity": 651,
+              "engagementCount": 370,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49666735",
+                  "popularity": 651,
+                  "engagementCount": 370
+                },
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed",
+                  "popularity": 59,
+                  "engagementCount": 13
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "chao-",
+                "createdAt": "2026-09-11T23:17:42Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49666735"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49666735",
+              "popularity": 651,
+              "engagementCount": 370
+            },
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/wajtsa/openai_agents_carried_out_undisclosed",
+              "popularity": 59,
+              "engagementCount": 13
+            }
+          ]
+        },
+        {
+          "title": "Claude is only available to people over 18 years",
+          "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+          "summary": "Anthropic has introduced an 18+ age limit for using its AI chatbot, Claude. This implementation uses a new age assurance protocol to verify the age of users.",
+          "meta": "635 points · 626 comments",
+          "snapshot": {
+            "sourceId": "49656225",
+            "capturedAt": "2026-09-12T08:23:23.048Z",
+            "metadata": {
+              "popularity": 635,
+              "engagementCount": 626,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49656225",
+                  "popularity": 635,
+                  "engagementCount": 626
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "Muhammad523",
+                "createdAt": "2026-09-11T10:48:00Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49656225"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49656225",
+              "popularity": 635,
+              "engagementCount": 626
+            }
+          ]
+        },
+        {
+          "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+          "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+          "summary": "It is reported that a large portion of budgets spent on Google App Ads goes to bot traffic. Independent developers state that a significant portion of installs in advertising campaigns originates from fake software rather than real users.",
+          "meta": "491 points · 256 comments",
+          "snapshot": {
+            "sourceId": "49662990",
+            "capturedAt": "2026-09-12T08:23:23.048Z",
+            "metadata": {
+              "popularity": 491,
+              "engagementCount": 256,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49662990",
+                  "popularity": 491,
+                  "engagementCount": 256
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "nickabe",
+                "createdAt": "2026-09-11T18:24:55Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49662990"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49662990",
+              "popularity": 491,
+              "engagementCount": 256
+            }
+          ]
+        },
+        {
+          "title": "The EPA is planning to scrap public review rules for data center pollution",
+          "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
+          "summary": "The Environmental Protection Agency (EPA) plans to repeal existing public review rules regarding pollution caused by data centers. This regulatory change will directly affect the audit processes for the environmental impacts of energy-intensive facilities.",
+          "meta": "449 points · 317 comments",
+          "snapshot": {
+            "sourceId": "49662672",
+            "capturedAt": "2026-09-12T08:23:23.048Z",
+            "metadata": {
+              "popularity": 449,
+              "engagementCount": 317,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49662672",
+                  "popularity": 449,
+                  "engagementCount": 317
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "doener",
+                "createdAt": "2026-09-11T18:05:21Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49662672"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49662672",
+              "popularity": 449,
+              "engagementCount": 317
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "nex-agi/Nex-N2.5-mini",
+          "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
+          "summary": "Nex-N2.5-mini is a small-sized artificial intelligence model shared on HuggingFace that focuses on text-generation. It aims to achieve fast results in natural language processing tasks by using hardware resources efficiently.",
+          "meta": "♥ 704 · 3,121 downloads",
+          "snapshot": {
+            "sourceId": "nex-agi/Nex-N2.5-mini",
+            "capturedAt": "2026-09-12T08:23:22.823Z",
+            "metadata": {
+              "popularity": 704,
+              "engagementCount": 3121,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 549,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5_moe",
+                  "image-text-to-text",
+                  "text-generation",
+                  "conversational",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Studying Image Tokenizers as Visual Languages in Unified Multimodal Models",
+          "url": "https://huggingface.co/papers/2609.09143",
+          "summary": "Image tokenizers are generally evaluated with singular metrics when creating the visual language of multimodal models. This study provides a controlled test environment to examine the processes where visual tokens are modeled together with text and tracks performance in visual-textual prediction tasks.",
+          "meta": "15 likes · 2 comments",
+          "snapshot": {
+            "sourceId": "2609.09143",
+            "capturedAt": "2026-09-12T08:23:22.841Z",
+            "metadata": {
+              "popularity": 15,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.09143",
+                "publishedAt": "2026-09-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/amazon-far/Tokenizer_UMM",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Think Before You Link: Rarity, Reasoning, and Retrieval in Multilingual Entity Linking",
+          "url": "https://huggingface.co/papers/2609.10745",
+          "summary": "Multilingual entity linking systems use a new structural analysis method that goes beyond popularity criteria when identifying rare entities. Based on knowledge graph connections, this approach facilitates the detection of lesser-known entities for which existing models have low accuracy rates.",
+          "meta": "12 likes · 2 comments",
+          "snapshot": {
+            "sourceId": "2609.10745",
+            "capturedAt": "2026-09-12T08:23:22.841Z",
+            "metadata": {
+              "popularity": 12,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.10745",
+                "publishedAt": "2026-09-09T00:00:00.000Z",
+                "githubRepo": "https://github.com/neulab/think-before-you-link",
+                "githubStars": 2
+              }
+            }
+          }
+        },
+        {
+          "title": "Building Multilingual Bridges: Data Mixing as the Pillar of Generalization for In-Language Reasoning",
+          "url": "https://huggingface.co/papers/2609.10445",
+          "summary": "Language models with reasoning capabilities struggle to make consistent logical inferences in languages other than English. Researchers show that training by mixing data from different languages enables models to acquire accurate L2 reasoning skills in non-English languages.",
+          "meta": "12 likes · 2 comments",
+          "snapshot": {
+            "sourceId": "2609.10445",
+            "capturedAt": "2026-09-12T08:23:22.841Z",
+            "metadata": {
+              "popularity": 12,
+              "engagementCount": 2,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.10445",
+                "publishedAt": "2026-09-09T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Adaptive Bridge: A Proxy-Based Decoupling Layer for Mitigating DDS Backpressure in ROS 2",
+          "url": "https://huggingface.co/papers/2608.15380",
+          "summary": "The Data Distribution Service (DDS) used within the Robot Operating System 2 (ROS 2) experiences a backpressure issue where a single slow receiver on the network slows down the data flow of the entire system. Adaptive Bridge prevents this bottleneck by establishing a proxy layer that separates critical and non-critical receivers.",
+          "meta": "10 likes · 2 comments",
+          "snapshot": {
+            "sourceId": "2608.15380",
+            "capturedAt": "2026-09-12T08:23:22.841Z",
+            "metadata": {
+              "popularity": 10,
+              "engagementCount": 2,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.15380",
+                "publishedAt": "2026-09-06T00:00:00.000Z",
+                "githubRepo": "https://github.com/KaushalrajPuwar/adaptive-bridge",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Beyond Solver Verdicts: Generative Reward Models for Autoformalization",
+          "url": "https://huggingface.co/papers/2609.11085",
+          "summary": "Generative reward models aim to close the accuracy gaps in formal translations of mathematical solvers. Instead of focusing only on the result of the solution, this method prevents erroneous inferences (VPU) by checking whether the coding maintains semantic equivalence with the original expression.",
+          "meta": "11 likes · 2 comments",
+          "snapshot": {
+            "sourceId": "2609.11085",
+            "capturedAt": "2026-09-12T08:23:22.841Z",
+            "metadata": {
+              "popularity": 11,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.11085",
+                "publishedAt": "2026-09-10T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Feeling sad about AI",
+          "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
+          "summary": "The current development process of artificial intelligence technologies creates individual unease due to its impact on productivity and creativity in the software world. This situation offers a critical perspective on the transformative consequences of technological progress on human labor and digital culture.",
+          "meta": "155 points · 60 comments",
+          "snapshot": {
+            "sourceId": "7guove",
+            "capturedAt": "2026-09-12T08:23:22.996Z",
+            "metadata": {
+              "popularity": 155,
+              "engagementCount": 60,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/7guove/feeling_sad_about_ai",
+                  "popularity": 155,
+                  "engagementCount": 60
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "programming"
+                ],
+                "createdAt": "2026-09-11T07:33:20.763-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/7guove/feeling_sad_about_ai",
+              "popularity": 155,
+              "engagementCount": 60
+            }
+          ]
+        },
+        {
+          "title": "A Severe Misalignment of AI in Mathematics",
+          "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
+          "summary": "Mathematician Terence Tao criticizes the tendency of artificial intelligence models to imitate popular solution paths instead of logical accuracy in mathematical proofs. Stating that this leads to erroneous results in complex problems, he emphasizes that more reliable methods are needed in the mathematical reasoning processes of models.",
+          "meta": "56 points · 7 comments",
+          "snapshot": {
+            "sourceId": "xsbz3l",
+            "capturedAt": "2026-09-12T08:23:22.996Z",
+            "metadata": {
+              "popularity": 56,
+              "engagementCount": 7,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/xsbz3l/severe_misalignment_ai_mathematics",
+                  "popularity": 56,
+                  "engagementCount": 7
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "math",
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-11T14:03:30.462-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/xsbz3l/severe_misalignment_ai_mathematics",
+              "popularity": 56,
+              "engagementCount": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "sideloader",
+      "explanation": "A method that allows you to install applications on your device from sources other than official stores."
+    },
+    {
+      "term": "CRM",
+      "explanation": "A software system that allows companies to manage their communication with customers, sales, and historical records from a single place."
+    },
+    {
+      "term": "newsgroup",
+      "explanation": "An old discussion platform from the early days of the internet where people message and debate on specific topics."
+    },
+    {
+      "term": "PVR",
+      "explanation": "Technology that allows you to record television broadcasts to a digital medium and watch them later."
+    },
+    {
+      "term": "network stack",
+      "explanation": "The set of software layers required for a computer to connect to the internet and exchange data."
+    },
+    {
+      "term": "pluggable transports",
+      "explanation": "Connection methods used to bypass obstacles and circumvent censorship by masking internet traffic."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Autonomous artificial intelligence programs that can make decisions on their own, use tools to achieve goals, and perform tasks."
+    },
+    {
+      "term": "research agents",
+      "explanation": "Artificial intelligence software that conducts in-depth research on the internet on your behalf, summarizes the information, and reports it."
+    }
+  ]
+}
