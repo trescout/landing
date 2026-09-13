@@ -1,0 +1,492 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-13",
+  "capturedAt": "2026-09-13T08:57:16.325Z",
+  "editorial": "This report contains trends that have emerged for the first time today, without repeating records included in normal reports from the last 30 days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "summary": "The System prompts leaks repository compiles secret system instructions (system prompts) belonging to artificial intelligence models developed by companies such as Anthropic, OpenAI, Google, and xAI. This work provides a central resource for developers who want to understand the operating logic and security constraints of different language models.",
+          "meta": "JavaScript · ★ 65,652 · +217 today",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "asgeirtj/system_prompts_leaks",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 65652,
+              "engagementCount": 217,
+              "rank": 3,
+              "extra": {
+                "starsToday": 217
+              }
+            }
+          }
+        },
+        {
+          "title": "Flowseal/zapret-discord-youtube",
+          "url": "https://github.com/Flowseal/zapret-discord-youtube",
+          "summary": "Zapret is a network traffic routing tool developed to provide access to platforms like Discord and YouTube that are subject to restrictions. It bypasses packet inspection barriers on Windows operating systems, allowing services to function in regions where they are restricted.",
+          "meta": "Batchfile · ★ 33,232 · +65 today",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "Flowseal/zapret-discord-youtube",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "Batchfile",
+              "popularity": 33232,
+              "engagementCount": 65,
+              "rank": 5,
+              "extra": {
+                "starsToday": 65
+              }
+            }
+          }
+        },
+        {
+          "title": "yuliskov/SmartTube",
+          "url": "https://github.com/yuliskov/SmartTube",
+          "summary": "SmartTube is a YouTube client developed for Android TV devices that offers advanced features such as ad-blocking and a customizable interface. It allows users to manage their video viewing experiences according to their own rules.",
+          "meta": "Java · ★ 33,276 · +136 today",
+          "snapshot": {
+            "sourceId": "yuliskov/SmartTube",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "Java",
+              "popularity": 33276,
+              "engagementCount": 136,
+              "rank": 9,
+              "extra": {
+                "starsToday": 136
+              }
+            }
+          }
+        },
+        {
+          "title": "SnailSploit/Claude-Red",
+          "url": "https://github.com/SnailSploit/Claude-Red",
+          "summary": "Claude-Red is a library of offensive security skills integrated into the capability system of the AI model Claude. It aims to automate security testing by providing expert-level methodologies for tasks such as SQL injection and bypassing endpoint protection systems.",
+          "meta": "Python · ★ 3,787 · +113 today",
+          "snapshot": {
+            "sourceId": "SnailSploit/Claude-Red",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 3787,
+              "engagementCount": 113,
+              "rank": 13,
+              "extra": {
+                "starsToday": 113
+              }
+            }
+          }
+        },
+        {
+          "title": "multimodal-art-projection/YuE",
+          "url": "https://github.com/multimodal-art-projection/YuE",
+          "summary": "YuE is a music generation system equipped with capabilities such as symbolic planning and zero-shot cover production. This AI model, which automates music arrangement processes, allows you to manage complex compositions with agentic workflows.",
+          "meta": "Python · ★ 7,459 · +210 today",
+          "snapshot": {
+            "sourceId": "multimodal-art-projection/YuE",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 7459,
+              "engagementCount": 210,
+              "rank": 14,
+              "extra": {
+                "starsToday": 210
+              }
+            }
+          }
+        },
+        {
+          "title": "max-sixty/worktrunk",
+          "url": "https://github.com/max-sixty/worktrunk",
+          "summary": "Worktrunk is a command-line interface (CLI) written in Rust that simplifies Git worktree management. Developed specifically to support parallel AI agent workflows, this tool speeds up working on multiple tasks simultaneously.",
+          "meta": "Rust · ★ 7,376 · +54 today",
+          "snapshot": {
+            "sourceId": "max-sixty/worktrunk",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 7376,
+              "engagementCount": 54,
+              "rank": 15,
+              "extra": {
+                "starsToday": 54
+              }
+            }
+          }
+        },
+        {
+          "title": "vxcontrol/pentagi",
+          "url": "https://github.com/vxcontrol/pentagi",
+          "summary": "Pentagi is a system of fully autonomous AI agents capable of performing complex penetration testing tasks. Developed in the Go language, this tool aims to automate the process of identifying security vulnerabilities.",
+          "meta": "Go · ★ 23,620 · +189 today",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "vxcontrol/pentagi",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 23620,
+              "engagementCount": 189,
+              "rank": 16,
+              "extra": {
+                "starsToday": 189
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "We must pace the frontier",
+          "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+          "summary": "Dario Amodei, CEO of Anthropic, argues that the pace of AI development must be balanced with safety measures. He suggests allocating more resources to technical safety research to manage the potential risks of frontier large language models.",
+          "meta": "637 points · 891 comments",
+          "snapshot": {
+            "sourceId": "49672510",
+            "capturedAt": "2026-09-13T08:57:16.569Z",
+            "metadata": {
+              "popularity": 637,
+              "engagementCount": 891,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49672510",
+                  "popularity": 637,
+                  "engagementCount": 891
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "apsec112",
+                "createdAt": "2026-09-12T14:10:49Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49672510"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49672510",
+              "popularity": 637,
+              "engagementCount": 891
+            }
+          ]
+        },
+        {
+          "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+          "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+          "summary": "LG denied allegations that its smart TVs track users and record audio, stating that such data collection activities do not reflect the truth. The company maintains that the devices operate in accordance with privacy policies and that security concerns are unfounded.",
+          "meta": "517 points · 412 comments",
+          "snapshot": {
+            "sourceId": "49645480",
+            "capturedAt": "2026-09-13T08:57:16.569Z",
+            "metadata": {
+              "popularity": 517,
+              "engagementCount": 412,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49645480",
+                  "popularity": 517,
+                  "engagementCount": 412
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "datakan",
+                "createdAt": "2026-09-10T15:31:37Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49645480"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49645480",
+              "popularity": 517,
+              "engagementCount": 412
+            }
+          ]
+        },
+        {
+          "title": "Nvidia is the central bank of AI",
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "summary": "Nvidia has become a central power that determines the supply and price balance of the industry with its dominant position in the AI hardware market. Through its control over the supply of graphics processing units (GPUs), the company directly influences the investment and growth strategies of the tech world.",
+          "meta": "473 points · 336 comments",
+          "snapshot": {
+            "sourceId": "49673098",
+            "capturedAt": "2026-09-13T08:57:16.569Z",
+            "metadata": {
+              "popularity": 473,
+              "engagementCount": 336,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49673098",
+                  "popularity": 473,
+                  "engagementCount": 336
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "tolugenius",
+                "createdAt": "2026-09-12T15:08:27Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49673098"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49673098",
+              "popularity": 473,
+              "engagementCount": 336
+            }
+          ]
+        },
+        {
+          "title": "Make your first edit to OpenStreetMap",
+          "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+          "summary": "The open-source map project OpenStreetMap offers a new guide that makes it easier for users to edit map data via the JOSM plugin. This tool aims to reduce technical barriers for volunteers taking their first steps into the map editing process.",
+          "meta": "443 points · 108 comments",
+          "snapshot": {
+            "sourceId": "49674050",
+            "capturedAt": "2026-09-13T08:57:16.569Z",
+            "metadata": {
+              "popularity": 443,
+              "engagementCount": 108,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49674050",
+                  "popularity": 443,
+                  "engagementCount": 108
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "juliantigler",
+                "createdAt": "2026-09-12T16:25:08Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49674050"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49674050",
+              "popularity": 443,
+              "engagementCount": 108
+            }
+          ]
+        },
+        {
+          "title": "Everyone should slow down AI development except for me",
+          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+          "summary": "The debate on slowing down AI development processes focuses on the contradiction between individual interests and technological competition. The authors criticize, with an ironic tone, the tendency to continue the development of one's own projects despite calls for a general pause.",
+          "meta": "434 points · 260 comments",
+          "snapshot": {
+            "sourceId": "49678683",
+            "capturedAt": "2026-09-13T08:57:16.569Z",
+            "metadata": {
+              "popularity": 434,
+              "engagementCount": 260,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49678683",
+                  "popularity": 434,
+                  "engagementCount": 260
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "xena",
+                "createdAt": "2026-09-13T00:30:44Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49678683"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49678683",
+              "popularity": 434,
+              "engagementCount": 260
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Edge0/Edge0-35B-A3B-preview",
+          "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
+          "summary": "Edge0-35B-A3B-preview, shared on Hugging Face, is a new language model focused on text generation. Developed to provide performance improvements in complex tasks, this model adds a new option to the open-source artificial intelligence ecosystem.",
+          "meta": "♥ 624 · 1,596 downloads",
+          "snapshot": {
+            "sourceId": "Edge0/Edge0-35B-A3B-preview",
+            "capturedAt": "2026-09-13T08:57:21.429Z",
+            "metadata": {
+              "popularity": 624,
+              "engagementCount": 1596,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 604,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "mlx",
+                  "safetensors",
+                  "qwen3_5_moe",
+                  "moe",
+                  "edge-inference",
+                  "prerouter",
+                  "lora",
+                  "ssd-offload",
+                  "text-generation",
+                  "conversational",
+                  "license:apache-2.0",
+                  "4-bit",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": []
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "I made a build visualizer to understand Bun’s compile times",
+          "url": "https://lalitm.com/post/buildprof/",
+          "summary": "Bun, a fast JavaScript runtime for software developers, is being examined with Buildprof, a visualization tool developed to analyze build times. This tool presents build processes graphically, allowing for the identification of performance bottlenecks.",
+          "meta": "60 points · 14 comments",
+          "snapshot": {
+            "sourceId": "qsrjs2",
+            "capturedAt": "2026-09-13T08:57:21.699Z",
+            "metadata": {
+              "popularity": 60,
+              "engagementCount": 14,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/qsrjs2/i_made_build_visualizer_understand_bun_s",
+                  "popularity": 60,
+                  "engagementCount": 14
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "compilers",
+                  "performance"
+                ],
+                "createdAt": "2026-09-12T09:48:24.716-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/qsrjs2/i_made_build_visualizer_understand_bun_s",
+              "popularity": 60,
+              "engagementCount": 14
+            }
+          ]
+        },
+        {
+          "title": "Linux Zoom Client Proactively Reads X11 Clipboard",
+          "url": "https://hachyderm.io/@simontatham/117201594980991062",
+          "summary": "Zoom, a video conferencing application developed for Linux, continuously reads clipboard data on the X11 window system without the user's permission. This raises security and privacy concerns as the application running in the background makes copied sensitive information accessible.",
+          "meta": "47 points · 30 comments",
+          "snapshot": {
+            "sourceId": "8t1ddm",
+            "capturedAt": "2026-09-13T08:57:21.699Z",
+            "metadata": {
+              "popularity": 47,
+              "engagementCount": 30,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/8t1ddm/linux_zoom_client_proactively_reads_x11",
+                  "popularity": 47,
+                  "engagementCount": 30
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "linux",
+                  "security"
+                ],
+                "createdAt": "2026-09-12T07:38:53.353-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/8t1ddm/linux_zoom_client_proactively_reads_x11",
+              "popularity": 47,
+              "engagementCount": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "system prompts",
+      "explanation": "Initial instructions that specify how artificial intelligence should behave and according to which rules it should respond."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained on massive amounts of data that can understand human language and generate text."
+    },
+    {
+      "term": "GPU",
+      "explanation": "A specialized processor that processes images on a computer and accelerates complex mathematical calculations."
+    },
+    {
+      "term": "offensive security skills",
+      "explanation": "The skill of performing security tests by thinking like an attacker to find vulnerabilities in systems."
+    },
+    {
+      "term": "zero-shot",
+      "explanation": "The ability of artificial intelligence to produce accurate results on a topic it has never seen an example of before, using only instructions."
+    },
+    {
+      "term": "worktree",
+      "explanation": "A folder structure that allows you to work on different versions of the same project simultaneously while developing software."
+    },
+    {
+      "term": "CLI",
+      "explanation": "A text-based interface that runs programs using written commands instead of a mouse."
+    }
+  ]
+}

@@ -1,0 +1,977 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-13",
+  "capturedAt": "2026-09-13T08:57:16.325Z",
+  "editorial": "New architectures that increase visual language processing and reasoning capacity in artificial intelligence models are at the center of the developer ecosystem today. On the hardware side, data privacy claims by manufacturers like LG and security vulnerabilities in Linux systems are reigniting debates about user privacy.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "bilawalsidhu/gods-eye-view",
+          "url": "https://github.com/bilawalsidhu/gods-eye-view",
+          "summary": "Gods-eye-view is a geospatial intelligence tool that displays real-time satellite data on a photorealistic 3D globe via a browser. This open-source software allows users to track global activity with live data.",
+          "meta": "JavaScript · ★ 30,699 · +2,265 today",
+          "snapshot": {
+            "sourceId": "bilawalsidhu/gods-eye-view",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 30699,
+              "engagementCount": 2265,
+              "rank": 1,
+              "extra": {
+                "starsToday": 2265
+              }
+            }
+          }
+        },
+        {
+          "title": "melgarafael/DeskcommCRM",
+          "url": "https://github.com/melgarafael/DeskcommCRM",
+          "summary": "DeskcommCRM is an open-source customer relationship management (CRM) platform developed for businesses that sell via chat. With WhatsApp integration and built-in AI agents, it offers a self-hostable alternative to popular sales and support tools like Kommo or Intercom.",
+          "meta": "TypeScript · ★ 1,956 · +504 today",
+          "snapshot": {
+            "sourceId": "melgarafael/DeskcommCRM",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 1956,
+              "engagementCount": 504,
+              "rank": 2,
+              "extra": {
+                "starsToday": 504
+              }
+            }
+          }
+        },
+        {
+          "title": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "summary": "The System prompts leaks repository compiles secret system instructions (system prompts) belonging to artificial intelligence models developed by companies such as Anthropic, OpenAI, Google, and xAI. This work provides a central resource for developers who want to understand the operating logic and security constraints of different language models.",
+          "meta": "JavaScript · ★ 65,652 · +217 today",
+          "snapshot": {
+            "sourceId": "asgeirtj/system_prompts_leaks",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 65652,
+              "engagementCount": 217,
+              "rank": 3,
+              "extra": {
+                "starsToday": 217
+              }
+            }
+          }
+        },
+        {
+          "title": "nab138/iloader",
+          "url": "https://github.com/nab138/iloader",
+          "summary": "iloader is a user-friendly sideloader that simplifies the process of installing applications on iOS devices. Developed with TypeScript, this tool aims to make application installation processes more accessible.",
+          "meta": "TypeScript · ★ 3,180 · +209 today",
+          "snapshot": {
+            "sourceId": "nab138/iloader",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 3180,
+              "engagementCount": 209,
+              "rank": 4,
+              "extra": {
+                "starsToday": 209
+              }
+            }
+          }
+        },
+        {
+          "title": "Flowseal/zapret-discord-youtube",
+          "url": "https://github.com/Flowseal/zapret-discord-youtube",
+          "summary": "Zapret is a network traffic routing tool developed to provide access to platforms like Discord and YouTube that are subject to restrictions. It bypasses packet inspection barriers on Windows operating systems, allowing services to function in regions where they are restricted.",
+          "meta": "Batchfile · ★ 33,232 · +65 today",
+          "snapshot": {
+            "sourceId": "Flowseal/zapret-discord-youtube",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "Batchfile",
+              "popularity": 33232,
+              "engagementCount": 65,
+              "rank": 5,
+              "extra": {
+                "starsToday": 65
+              }
+            }
+          }
+        },
+        {
+          "title": "jihe520/MathModelAgent",
+          "url": "https://github.com/jihe520/MathModelAgent",
+          "summary": "MathModelAgent, which automates mathematical modeling processes, solves complex problems and generates academic papers in a ready-to-submit format. This Python-based software manages modeling stages end-to-end via an AI agent.",
+          "meta": "Python · ★ 5,227 · +262 today",
+          "snapshot": {
+            "sourceId": "jihe520/MathModelAgent",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 5227,
+              "engagementCount": 262,
+              "rank": 6,
+              "extra": {
+                "starsToday": 262
+              }
+            }
+          }
+        },
+        {
+          "title": "Sonarr/Sonarr",
+          "url": "https://github.com/Sonarr/Sonarr",
+          "summary": "Sonarr is an intelligent personal video recorder (PVR) developed for newsgroup and bittorrent users. This C#-based software, which automatically tracks TV series episodes and manages downloads, helps keep media libraries organized.",
+          "meta": "C# · ★ 15,993 · +227 today",
+          "snapshot": {
+            "sourceId": "Sonarr/Sonarr",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "C#",
+              "popularity": 15993,
+              "engagementCount": 227,
+              "rank": 7,
+              "extra": {
+                "starsToday": 227
+              }
+            }
+          }
+        },
+        {
+          "title": "alsk1992/CloddsBot",
+          "url": "https://github.com/alsk1992/CloddsBot",
+          "summary": "CloddsBot is an open-source AI trading agent that operates autonomously in over 1000 markets. Developed with the Claude language model, this tool works on crypto exchanges and prediction platforms (Polymarket, Binance) with risk management and machine-to-machine payment protocols.",
+          "meta": "TypeScript · ★ 2,612 · +376 today",
+          "snapshot": {
+            "sourceId": "alsk1992/CloddsBot",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 2612,
+              "engagementCount": 376,
+              "rank": 8,
+              "extra": {
+                "starsToday": 376
+              }
+            }
+          }
+        },
+        {
+          "title": "yuliskov/SmartTube",
+          "url": "https://github.com/yuliskov/SmartTube",
+          "summary": "SmartTube is a YouTube client developed for Android TV devices that offers advanced features such as ad-blocking and a customizable interface. It allows users to manage their video viewing experiences according to their own rules.",
+          "meta": "Java · ★ 33,276 · +136 today",
+          "snapshot": {
+            "sourceId": "yuliskov/SmartTube",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "Java",
+              "popularity": 33276,
+              "engagementCount": 136,
+              "rank": 9,
+              "extra": {
+                "starsToday": 136
+              }
+            }
+          }
+        },
+        {
+          "title": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "summary": "Awesome-llm-apps is an open-source Python library containing over a hundred AI agents, agent skills, and RAG applications. It provides developers with ready-to-use code examples and application templates for building systems that work with large language models.",
+          "meta": "Python · ★ 137,780 · +230 today",
+          "snapshot": {
+            "sourceId": "Shubhamsaboo/awesome-llm-apps",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 137780,
+              "engagementCount": 230,
+              "rank": 10,
+              "extra": {
+                "starsToday": 230
+              }
+            }
+          }
+        },
+        {
+          "title": "p1neappleXpress/OpenFlux",
+          "url": "https://github.com/p1neappleXpress/OpenFlux",
+          "summary": "OpenFlux, developed in the Go language, is a TCP tunneling tool designed for network stack research. Thanks to its support for pluggable transports, it provides the ability to tunnel network traffic using different methods.",
+          "meta": "Go · ★ 1,455 · +355 today",
+          "snapshot": {
+            "sourceId": "p1neappleXpress/OpenFlux",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 1455,
+              "engagementCount": 355,
+              "rank": 11,
+              "extra": {
+                "starsToday": 355
+              }
+            }
+          }
+        },
+        {
+          "title": "armory3d/armorpaint",
+          "url": "https://github.com/armory3d/armorpaint",
+          "summary": "ArmorPaint is a graphics creation tool that allows for painting directly onto 3D models. The software provides a GPU-accelerated workspace to speed up texture painting processes.",
+          "meta": "C · ★ 4,960 · +237 today",
+          "snapshot": {
+            "sourceId": "armory3d/armorpaint",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 4960,
+              "engagementCount": 237,
+              "rank": 12,
+              "extra": {
+                "starsToday": 237
+              }
+            }
+          }
+        },
+        {
+          "title": "SnailSploit/Claude-Red",
+          "url": "https://github.com/SnailSploit/Claude-Red",
+          "summary": "Claude-Red is a library of offensive security skills integrated into the capability system of the AI model Claude. It aims to automate security testing by providing expert-level methodologies for tasks such as SQL injection and bypassing endpoint protection systems.",
+          "meta": "Python · ★ 3,787 · +113 today",
+          "snapshot": {
+            "sourceId": "SnailSploit/Claude-Red",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 3787,
+              "engagementCount": 113,
+              "rank": 13,
+              "extra": {
+                "starsToday": 113
+              }
+            }
+          }
+        },
+        {
+          "title": "multimodal-art-projection/YuE",
+          "url": "https://github.com/multimodal-art-projection/YuE",
+          "summary": "YuE is a music generation system equipped with capabilities such as symbolic planning and zero-shot cover production. This AI model, which automates music arrangement processes, allows you to manage complex compositions with agentic workflows.",
+          "meta": "Python · ★ 7,459 · +210 today",
+          "snapshot": {
+            "sourceId": "multimodal-art-projection/YuE",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 7459,
+              "engagementCount": 210,
+              "rank": 14,
+              "extra": {
+                "starsToday": 210
+              }
+            }
+          }
+        },
+        {
+          "title": "max-sixty/worktrunk",
+          "url": "https://github.com/max-sixty/worktrunk",
+          "summary": "Worktrunk is a command-line interface (CLI) written in Rust that simplifies Git worktree management. Developed specifically to support parallel AI agent workflows, this tool speeds up working on multiple tasks simultaneously.",
+          "meta": "Rust · ★ 7,376 · +54 today",
+          "snapshot": {
+            "sourceId": "max-sixty/worktrunk",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 7376,
+              "engagementCount": 54,
+              "rank": 15,
+              "extra": {
+                "starsToday": 54
+              }
+            }
+          }
+        },
+        {
+          "title": "vxcontrol/pentagi",
+          "url": "https://github.com/vxcontrol/pentagi",
+          "summary": "Pentagi is a system of fully autonomous AI agents capable of performing complex penetration testing tasks. Developed in the Go language, this tool aims to automate the process of identifying security vulnerabilities.",
+          "meta": "Go · ★ 23,620 · +189 today",
+          "snapshot": {
+            "sourceId": "vxcontrol/pentagi",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 23620,
+              "engagementCount": 189,
+              "rank": 16,
+              "extra": {
+                "starsToday": 189
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "We must pace the frontier",
+          "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+          "summary": "Dario Amodei, CEO of Anthropic, argues that the pace of AI development must be balanced with safety measures. He suggests allocating more resources to technical safety research to manage the potential risks of frontier large language models.",
+          "meta": "637 points · 891 comments",
+          "snapshot": {
+            "sourceId": "49672510",
+            "capturedAt": "2026-09-13T08:57:16.569Z",
+            "metadata": {
+              "popularity": 637,
+              "engagementCount": 891,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49672510",
+                  "popularity": 637,
+                  "engagementCount": 891
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "apsec112",
+                "createdAt": "2026-09-12T14:10:49Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49672510"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49672510",
+              "popularity": 637,
+              "engagementCount": 891
+            }
+          ]
+        },
+        {
+          "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+          "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+          "summary": "LG denied allegations that its smart TVs track users and record audio, stating that such data collection activities do not reflect the truth. The company maintains that the devices operate in accordance with privacy policies and that security concerns are unfounded.",
+          "meta": "517 points · 412 comments",
+          "snapshot": {
+            "sourceId": "49645480",
+            "capturedAt": "2026-09-13T08:57:16.569Z",
+            "metadata": {
+              "popularity": 517,
+              "engagementCount": 412,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49645480",
+                  "popularity": 517,
+                  "engagementCount": 412
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "datakan",
+                "createdAt": "2026-09-10T15:31:37Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49645480"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49645480",
+              "popularity": 517,
+              "engagementCount": 412
+            }
+          ]
+        },
+        {
+          "title": "Nvidia is the central bank of AI",
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "summary": "Nvidia has become a central power that determines the supply and price balance of the industry with its dominant position in the AI hardware market. Through its control over the supply of graphics processing units (GPUs), the company directly influences the investment and growth strategies of the tech world.",
+          "meta": "473 points · 336 comments",
+          "snapshot": {
+            "sourceId": "49673098",
+            "capturedAt": "2026-09-13T08:57:16.569Z",
+            "metadata": {
+              "popularity": 473,
+              "engagementCount": 336,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49673098",
+                  "popularity": 473,
+                  "engagementCount": 336
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "tolugenius",
+                "createdAt": "2026-09-12T15:08:27Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49673098"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49673098",
+              "popularity": 473,
+              "engagementCount": 336
+            }
+          ]
+        },
+        {
+          "title": "Make your first edit to OpenStreetMap",
+          "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+          "summary": "The open-source map project OpenStreetMap offers a new guide that makes it easier for users to edit map data via the JOSM plugin. This tool aims to reduce technical barriers for volunteers taking their first steps into the map editing process.",
+          "meta": "443 points · 108 comments",
+          "snapshot": {
+            "sourceId": "49674050",
+            "capturedAt": "2026-09-13T08:57:16.569Z",
+            "metadata": {
+              "popularity": 443,
+              "engagementCount": 108,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49674050",
+                  "popularity": 443,
+                  "engagementCount": 108
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "juliantigler",
+                "createdAt": "2026-09-12T16:25:08Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49674050"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49674050",
+              "popularity": 443,
+              "engagementCount": 108
+            }
+          ]
+        },
+        {
+          "title": "Everyone should slow down AI development except for me",
+          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+          "summary": "The debate on slowing down AI development processes focuses on the contradiction between individual interests and technological competition. The authors criticize, with an ironic tone, the tendency to continue the development of one's own projects despite calls for a general pause.",
+          "meta": "434 points · 260 comments",
+          "snapshot": {
+            "sourceId": "49678683",
+            "capturedAt": "2026-09-13T08:57:16.569Z",
+            "metadata": {
+              "popularity": 434,
+              "engagementCount": 260,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49678683",
+                  "popularity": 434,
+                  "engagementCount": 260
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "xena",
+                "createdAt": "2026-09-13T00:30:44Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49678683"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49678683",
+              "popularity": 434,
+              "engagementCount": 260
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+          "summary": "DeepSeek-V4.1-Flash, released by DeepSeek, is a multimodal AI model that processes visual and text data to produce text output. Hosted on Hugging Face, this model facilitates the analysis of visual content with its ability to generate fast responses.",
+          "meta": "♥ 2,068 · 140,636 downloads",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash",
+            "capturedAt": "2026-09-13T08:57:21.429Z",
+            "metadata": {
+              "popularity": 2068,
+              "engagementCount": 140636,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1882,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "openbmb/MiniCPM5-2B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+          "summary": "MiniCPM5-2B, developed by OpenBMB, is a compact language model capable of text generation with low hardware requirements. Aiming to provide high performance even on limited computational resources, this model creates an efficient option for on-device AI applications.",
+          "meta": "♥ 1,283 · 102,334 downloads",
+          "snapshot": {
+            "sourceId": "openbmb/MiniCPM5-2B",
+            "capturedAt": "2026-09-13T08:57:21.429Z",
+            "metadata": {
+              "popularity": 1283,
+              "engagementCount": 102334,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1081,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "llama",
+                  "text-generation",
+                  "minicpm",
+                  "minicpm5",
+                  "long-context",
+                  "tool-calling",
+                  "on-device",
+                  "edge-ai",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "dataset:openbmb/Ultra-FineWeb",
+                  "dataset:openbmb/UltraX-Preview",
+                  "dataset:openbmb/Ultra-FineWeb-L3",
+                  "dataset:openbmb/UltraData-Math",
+                  "dataset:openbmb/UltraData-Code",
+                  "dataset:openbmb/UltraData-SFT-2605",
+                  "dataset:openbmb/UltraData-SFT-Agent-2609",
+                  "dataset:openbmb/UltraData-RL-2609",
+                  "arxiv:2506.07900",
+                  "arxiv:2602.09003",
+                  "license:apache-2.0",
+                  "text-generation-inference",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Edge0/Edge0-35B-A3B-preview",
+          "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
+          "summary": "Edge0-35B-A3B-preview, shared on Hugging Face, is a new language model focused on text generation. Developed to provide performance improvements in complex tasks, this model adds a new option to the open-source artificial intelligence ecosystem.",
+          "meta": "♥ 624 · 1,596 downloads",
+          "snapshot": {
+            "sourceId": "Edge0/Edge0-35B-A3B-preview",
+            "capturedAt": "2026-09-13T08:57:21.429Z",
+            "metadata": {
+              "popularity": 624,
+              "engagementCount": 1596,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 604,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "mlx",
+                  "safetensors",
+                  "qwen3_5_moe",
+                  "moe",
+                  "edge-inference",
+                  "prerouter",
+                  "lora",
+                  "ssd-offload",
+                  "text-generation",
+                  "conversational",
+                  "license:apache-2.0",
+                  "4-bit",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "nex-agi/Nex-N2.5-mini",
+          "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
+          "summary": "Nex-N2.5-mini is an artificial intelligence model shared on HuggingFace that works with a focus on text generation. With its small-sized structure, it aims to perform fast and efficient language processing tasks on-device.",
+          "meta": "♥ 748 · 3,581 downloads",
+          "snapshot": {
+            "sourceId": "nex-agi/Nex-N2.5-mini",
+            "capturedAt": "2026-09-13T08:57:21.429Z",
+            "metadata": {
+              "popularity": 748,
+              "engagementCount": 3581,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 591,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5_moe",
+                  "image-text-to-text",
+                  "text-generation",
+                  "conversational",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Qwen2.5-27B, developed by Alibaba, is a multimodal large language model capable of processing text and visual data. With its open-source nature, it offers developers a high-performance alternative for complex visual analysis tasks.",
+          "meta": "♥ 14,894 · 7,726,687 downloads",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-27B",
+            "capturedAt": "2026-09-13T08:57:21.429Z",
+            "metadata": {
+              "popularity": 14894,
+              "engagementCount": 7726687,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 553,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "deploy:azure",
+                  "deploy:sagemaker",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Studying Image Tokenizers as Visual Languages in Unified Multimodal Models",
+          "url": "https://huggingface.co/papers/2609.09143",
+          "summary": "Image tokenizers are often evaluated with one-sided metrics when creating the visual language of multimodal models. This study presents a unique test environment to examine scenarios where visual tokens are modeled together with text, analyzing the effect of multimodal continuous pre-training on different tasks.",
+          "meta": "28 likes · 2 comments",
+          "snapshot": {
+            "sourceId": "2609.09143",
+            "capturedAt": "2026-09-13T08:57:21.439Z",
+            "metadata": {
+              "popularity": 28,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.09143",
+                "publishedAt": "2026-09-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/amazon-far/Tokenizer_UMM",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Think Before You Link: Rarity, Reasoning, and Retrieval in Multilingual Entity Linking",
+          "url": "https://huggingface.co/papers/2609.10745",
+          "summary": "Multilingual entity linking systems achieve higher accuracy rates by using knowledge graph structural metrics instead of popularity metrics when identifying rare entities. This approach improves system performance in detecting under-documented entities that traditional methods overlook.",
+          "meta": "22 likes · 2 comments",
+          "snapshot": {
+            "sourceId": "2609.10745",
+            "capturedAt": "2026-09-13T08:57:21.439Z",
+            "metadata": {
+              "popularity": 22,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.10745",
+                "publishedAt": "2026-09-09T00:00:00.000Z",
+                "githubRepo": "https://github.com/neulab/think-before-you-link",
+                "githubStars": 2
+              }
+            }
+          }
+        },
+        {
+          "title": "Building Multilingual Bridges: Data Mixing as the Pillar of Generalization for In-Language Reasoning",
+          "url": "https://huggingface.co/papers/2609.10445",
+          "summary": "Data mixing is used to improve the reasoning capabilities of artificial intelligence models in languages other than English. This approach enables models to consistently answer complex questions in different languages in their own native languages.",
+          "meta": "26 likes · 2 comments",
+          "snapshot": {
+            "sourceId": "2609.10445",
+            "capturedAt": "2026-09-13T08:57:21.439Z",
+            "metadata": {
+              "popularity": 26,
+              "engagementCount": 2,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.10445",
+                "publishedAt": "2026-09-09T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Adaptive Bridge: A Proxy-Based Decoupling Layer for Mitigating DDS Backpressure in ROS 2",
+          "url": "https://huggingface.co/papers/2608.15380",
+          "summary": "Adaptive Bridge, which solves congestion problems within the Data Distribution Service (DDS) used on Robot Operating System 2 (ROS 2), protects system performance by isolating critical subscribers from slow connections. This proxy-based layer prevents a glitch in the network from slowing down the entire data flow, increasing the overall stability of the system.",
+          "meta": "21 likes · 3 comments",
+          "snapshot": {
+            "sourceId": "2608.15380",
+            "capturedAt": "2026-09-13T08:57:21.439Z",
+            "metadata": {
+              "popularity": 21,
+              "engagementCount": 3,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.15380",
+                "publishedAt": "2026-09-06T00:00:00.000Z",
+                "githubRepo": "https://github.com/KaushalrajPuwar/adaptive-bridge",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Beyond Solver Verdicts: Generative Reward Models for Autoformalization",
+          "url": "https://huggingface.co/papers/2609.11085",
+          "summary": "Generative reward models are being developed to detect accuracy errors overlooked in the formal translation processes of mathematical solvers. This method aims to address the issue of verdict-preserving-unfaithfulness that occurs when incorrect coding produces correct results.",
+          "meta": "25 likes · 2 comments",
+          "snapshot": {
+            "sourceId": "2609.11085",
+            "capturedAt": "2026-09-13T08:57:21.439Z",
+            "metadata": {
+              "popularity": 25,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.11085",
+                "publishedAt": "2026-09-10T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "I made a build visualizer to understand Bun’s compile times",
+          "url": "https://lalitm.com/post/buildprof/",
+          "summary": "Bun, a fast JavaScript runtime for software developers, is being examined with Buildprof, a visualization tool developed to analyze build times. This tool presents build processes graphically, allowing for the identification of performance bottlenecks.",
+          "meta": "60 points · 14 comments",
+          "snapshot": {
+            "sourceId": "qsrjs2",
+            "capturedAt": "2026-09-13T08:57:21.699Z",
+            "metadata": {
+              "popularity": 60,
+              "engagementCount": 14,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/qsrjs2/i_made_build_visualizer_understand_bun_s",
+                  "popularity": 60,
+                  "engagementCount": 14
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "compilers",
+                  "performance"
+                ],
+                "createdAt": "2026-09-12T09:48:24.716-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/qsrjs2/i_made_build_visualizer_understand_bun_s",
+              "popularity": 60,
+              "engagementCount": 14
+            }
+          ]
+        },
+        {
+          "title": "Linux Zoom Client Proactively Reads X11 Clipboard",
+          "url": "https://hachyderm.io/@simontatham/117201594980991062",
+          "summary": "Zoom, a video conferencing application developed for Linux, continuously reads clipboard data on the X11 window system without the user's permission. This raises security and privacy concerns as the application running in the background makes copied sensitive information accessible.",
+          "meta": "47 points · 30 comments",
+          "snapshot": {
+            "sourceId": "8t1ddm",
+            "capturedAt": "2026-09-13T08:57:21.699Z",
+            "metadata": {
+              "popularity": 47,
+              "engagementCount": 30,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/8t1ddm/linux_zoom_client_proactively_reads_x11",
+                  "popularity": 47,
+                  "engagementCount": 30
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "linux",
+                  "security"
+                ],
+                "createdAt": "2026-09-12T07:38:53.353-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/8t1ddm/linux_zoom_client_proactively_reads_x11",
+              "popularity": 47,
+              "engagementCount": 30
+            }
+          ]
+        },
+        {
+          "title": "Feeling sad about AI",
+          "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
+          "summary": "The rapid development of artificial intelligence technologies increases concerns about the future of human labor and creativity in the software world. As automation transforms business processes, developers are re-questioning the meaning of the bond they form with digital tools.",
+          "meta": "219 points · 101 comments",
+          "snapshot": {
+            "sourceId": "7guove",
+            "capturedAt": "2026-09-13T08:57:21.699Z",
+            "metadata": {
+              "popularity": 219,
+              "engagementCount": 101,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/7guove/feeling_sad_about_ai",
+                  "popularity": 219,
+                  "engagementCount": 101
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "programming"
+                ],
+                "createdAt": "2026-09-11T07:33:20.763-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/7guove/feeling_sad_about_ai",
+              "popularity": 219,
+              "engagementCount": 101
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "CRM",
+      "explanation": "Software that allows companies to manage their communication with customers, sales processes, and past records from a single place."
+    },
+    {
+      "term": "system prompts",
+      "explanation": "Initial instructions that specify how artificial intelligence should behave and according to which rules it should respond."
+    },
+    {
+      "term": "sideloader",
+      "explanation": "A tool that allows you to download an application from sources other than its official store and install it manually on your device."
+    },
+    {
+      "term": "AI agent",
+      "explanation": "Autonomous artificial intelligence software that can make decisions on its own and use various tools to achieve goals."
+    },
+    {
+      "term": "newsgroup",
+      "explanation": "An old-generation discussion platform where people message and debate about specific topics on the internet."
+    },
+    {
+      "term": "PVR",
+      "explanation": "A device that allows you to record television broadcasts to a digital medium and watch them later."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Special capabilities or tools that artificial intelligence possesses to perform a specific task."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained on massive amounts of data that can understand human language and generate text."
+    },
+    {
+      "term": "network stack",
+      "explanation": "The set of software layers that enable a computer to connect to the internet and exchange data."
+    },
+    {
+      "term": "pluggable transports",
+      "explanation": "Special connection methods used to bypass restrictions by masking internet traffic."
+    },
+    {
+      "term": "texture painting",
+      "explanation": "The process of adding color and detail to the surface of three-dimensional models using digital brushes."
+    },
+    {
+      "term": "GPU",
+      "explanation": "A specialized processor that processes images on a computer and accelerates complex mathematical calculations."
+    },
+    {
+      "term": "offensive security skills",
+      "explanation": "The skill of performing security tests by thinking like an attacker to find vulnerabilities in systems."
+    },
+    {
+      "term": "zero-shot",
+      "explanation": "The ability of artificial intelligence to produce accurate results on a topic it has never seen an example of before, using only instructions."
+    },
+    {
+      "term": "worktree",
+      "explanation": "A folder structure that allows you to work on different versions of the same project simultaneously while developing software."
+    },
+    {
+      "term": "CLI",
+      "explanation": "A text-based interface that runs programs using written commands instead of a mouse."
+    }
+  ]
+}

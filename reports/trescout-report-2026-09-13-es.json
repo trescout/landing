@@ -1,0 +1,977 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-13",
+  "capturedAt": "2026-09-13T08:57:16.325Z",
+  "editorial": "Las nuevas arquitecturas que aumentan la capacidad de procesamiento de lenguaje visual (visual language processing) y el razonamiento en los modelos de inteligencia artificial se encuentran hoy en el centro del ecosistema de desarrolladores. En el lado del hardware, las afirmaciones sobre privacidad de datos de fabricantes como LG y las vulnerabilidades de seguridad en los sistemas Linux están reavivando los debates sobre la privacidad del usuario.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "bilawalsidhu/gods-eye-view",
+          "url": "https://github.com/bilawalsidhu/gods-eye-view",
+          "summary": "Gods-eye-view es una herramienta de inteligencia geoespacial que visualiza datos satelitales en tiempo real a través del navegador sobre un globo 3D fotorrealista. Este software de código abierto permite a los usuarios seguir el movimiento en todo el mundo con datos en vivo.",
+          "meta": "JavaScript · ★ 30.699 · +2.265 hoy",
+          "snapshot": {
+            "sourceId": "bilawalsidhu/gods-eye-view",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 30699,
+              "engagementCount": 2265,
+              "rank": 1,
+              "extra": {
+                "starsToday": 2265
+              }
+            }
+          }
+        },
+        {
+          "title": "melgarafael/DeskcommCRM",
+          "url": "https://github.com/melgarafael/DeskcommCRM",
+          "summary": "DeskcommCRM es una plataforma de gestión de relaciones con el cliente (CRM) de código abierto desarrollada para empresas que realizan ventas a través de chat. Con integración de WhatsApp y agentes de inteligencia artificial integrados, ofrece una alternativa que puede alojar en su propio servidor a herramientas de ventas y soporte populares como Kommo o Intercom.",
+          "meta": "TypeScript · ★ 1.956 · +504 hoy",
+          "snapshot": {
+            "sourceId": "melgarafael/DeskcommCRM",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 1956,
+              "engagementCount": 504,
+              "rank": 2,
+              "extra": {
+                "starsToday": 504
+              }
+            }
+          }
+        },
+        {
+          "title": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "summary": "El repositorio System prompts leaks recopila las instrucciones de sistema (system prompts) secretas de los modelos de inteligencia artificial desarrollados por empresas como Anthropic, OpenAI, Google y xAI. Este trabajo ofrece un recurso central para los desarrolladores que desean comprender la lógica de funcionamiento y las restricciones de seguridad de diferentes modelos de lenguaje.",
+          "meta": "JavaScript · ★ 65.652 · +217 hoy",
+          "snapshot": {
+            "sourceId": "asgeirtj/system_prompts_leaks",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 65652,
+              "engagementCount": 217,
+              "rank": 3,
+              "extra": {
+                "starsToday": 217
+              }
+            }
+          }
+        },
+        {
+          "title": "nab138/iloader",
+          "url": "https://github.com/nab138/iloader",
+          "summary": "iloader es un cargador lateral (sideloader) fácil de usar que simplifica el proceso de instalación de aplicaciones en dispositivos iOS. Desarrollada con TypeScript, esta herramienta tiene como objetivo hacer que los procesos de instalación de aplicaciones sean más accesibles.",
+          "meta": "TypeScript · ★ 3.180 · +209 hoy",
+          "snapshot": {
+            "sourceId": "nab138/iloader",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 3180,
+              "engagementCount": 209,
+              "rank": 4,
+              "extra": {
+                "starsToday": 209
+              }
+            }
+          }
+        },
+        {
+          "title": "Flowseal/zapret-discord-youtube",
+          "url": "https://github.com/Flowseal/zapret-discord-youtube",
+          "summary": "Zapret es una herramienta de enrutamiento de tráfico de red desarrollada para acceder a plataformas restringidas como Discord y YouTube. Supera los bloqueos de inspección de paquetes en sistemas operativos Windows, permitiendo que los servicios funcionen en regiones donde están restringidos.",
+          "meta": "Batchfile · ★ 33.232 · +65 hoy",
+          "snapshot": {
+            "sourceId": "Flowseal/zapret-discord-youtube",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "Batchfile",
+              "popularity": 33232,
+              "engagementCount": 65,
+              "rank": 5,
+              "extra": {
+                "starsToday": 65
+              }
+            }
+          }
+        },
+        {
+          "title": "jihe520/MathModelAgent",
+          "url": "https://github.com/jihe520/MathModelAgent",
+          "summary": "MathModelAgent, que automatiza los procesos de modelado matemático, resuelve problemas complejos y genera artículos académicos en un formato listo para su entrega. Este software basado en Python gestiona las etapas de modelado de extremo a extremo a través de un agente de inteligencia artificial (AI agent).",
+          "meta": "Python · ★ 5.227 · +262 hoy",
+          "snapshot": {
+            "sourceId": "jihe520/MathModelAgent",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 5227,
+              "engagementCount": 262,
+              "rank": 6,
+              "extra": {
+                "starsToday": 262
+              }
+            }
+          }
+        },
+        {
+          "title": "Sonarr/Sonarr",
+          "url": "https://github.com/Sonarr/Sonarr",
+          "summary": "Sonarr es una grabadora de video personal (PVR) inteligente desarrollada para usuarios de grupos de noticias (newsgroup) y bittorrent. Este software basado en C#, que rastrea automáticamente los episodios de series y gestiona las descargas, permite mantener organizadas las bibliotecas multimedia.",
+          "meta": "C# · ★ 15.993 · +227 hoy",
+          "snapshot": {
+            "sourceId": "Sonarr/Sonarr",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "C#",
+              "popularity": 15993,
+              "engagementCount": 227,
+              "rank": 7,
+              "extra": {
+                "starsToday": 227
+              }
+            }
+          }
+        },
+        {
+          "title": "alsk1992/CloddsBot",
+          "url": "https://github.com/alsk1992/CloddsBot",
+          "summary": "CloddsBot es un agente de comercio de inteligencia artificial de código abierto que opera de forma autónoma en más de 1000 mercados. Desarrollada con el modelo de lenguaje Claude, esta herramienta trabaja en intercambios de criptomonedas y plataformas de predicción (Polymarket, Binance) con gestión de riesgos y protocolos de pago de máquina a máquina.",
+          "meta": "TypeScript · ★ 2.612 · +376 hoy",
+          "snapshot": {
+            "sourceId": "alsk1992/CloddsBot",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 2612,
+              "engagementCount": 376,
+              "rank": 8,
+              "extra": {
+                "starsToday": 376
+              }
+            }
+          }
+        },
+        {
+          "title": "yuliskov/SmartTube",
+          "url": "https://github.com/yuliskov/SmartTube",
+          "summary": "SmartTube es un cliente de YouTube desarrollado para dispositivos Android TV que ofrece funciones avanzadas como bloqueo de anuncios e interfaz personalizable. Permite a los usuarios gestionar sus experiencias de visualización de videos según sus propias reglas.",
+          "meta": "Java · ★ 33.276 · +136 hoy",
+          "snapshot": {
+            "sourceId": "yuliskov/SmartTube",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "Java",
+              "popularity": 33276,
+              "engagementCount": 136,
+              "rank": 9,
+              "extra": {
+                "starsToday": 136
+              }
+            }
+          }
+        },
+        {
+          "title": "Shubhamsaboo/awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "summary": "Awesome-llm-apps es una biblioteca de Python de código abierto que contiene más de cien agentes de inteligencia artificial, habilidades de agente (agent skills) y aplicaciones RAG. Ofrece a los desarrolladores ejemplos de código listos para usar y plantillas de aplicaciones para crear sistemas que funcionan con grandes modelos de lenguaje (large language models).",
+          "meta": "Python · ★ 137.780 · +230 hoy",
+          "snapshot": {
+            "sourceId": "Shubhamsaboo/awesome-llm-apps",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 137780,
+              "engagementCount": 230,
+              "rank": 10,
+              "extra": {
+                "starsToday": 230
+              }
+            }
+          }
+        },
+        {
+          "title": "p1neappleXpress/OpenFlux",
+          "url": "https://github.com/p1neappleXpress/OpenFlux",
+          "summary": "OpenFlux, desarrollado con el lenguaje Go, es una herramienta de tunelización TCP diseñada para la investigación de pilas de red (network stack). Gracias a su soporte para transportes conectables (pluggable transports), permite tunelizar el tráfico de red mediante diferentes métodos.",
+          "meta": "Go · ★ 1.455 · +355 hoy",
+          "snapshot": {
+            "sourceId": "p1neappleXpress/OpenFlux",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 1455,
+              "engagementCount": 355,
+              "rank": 11,
+              "extra": {
+                "starsToday": 355
+              }
+            }
+          }
+        },
+        {
+          "title": "armory3d/armorpaint",
+          "url": "https://github.com/armory3d/armorpaint",
+          "summary": "ArmorPaint es una herramienta de creación gráfica que permite pintar directamente sobre modelos tridimensionales. El software ofrece un entorno de trabajo acelerado por la unidad de procesamiento gráfico (GPU) para acelerar los procesos de pintura de texturas (texture painting).",
+          "meta": "C · ★ 4.960 · +237 hoy",
+          "snapshot": {
+            "sourceId": "armory3d/armorpaint",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 4960,
+              "engagementCount": 237,
+              "rank": 12,
+              "extra": {
+                "starsToday": 237
+              }
+            }
+          }
+        },
+        {
+          "title": "SnailSploit/Claude-Red",
+          "url": "https://github.com/SnailSploit/Claude-Red",
+          "summary": "Claude-Red es una biblioteca de habilidades de seguridad ofensiva (offensive security skills) integrada en el sistema de capacidades del modelo de inteligencia artificial Claude. Su objetivo es automatizar las pruebas de seguridad ofreciendo metodologías de nivel experto en temas como la inyección SQL y la elusión de sistemas de protección de puntos finales.",
+          "meta": "Python · ★ 3.787 · +113 hoy",
+          "snapshot": {
+            "sourceId": "SnailSploit/Claude-Red",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 3787,
+              "engagementCount": 113,
+              "rank": 13,
+              "extra": {
+                "starsToday": 113
+              }
+            }
+          }
+        },
+        {
+          "title": "multimodal-art-projection/YuE",
+          "url": "https://github.com/multimodal-art-projection/YuE",
+          "summary": "YuE es un sistema de generación de música equipado con capacidades como la planificación simbólica y la creación de versiones (covers) de disparo cero (zero-shot). Este modelo de inteligencia artificial, que automatiza los procesos de edición musical, le permite gestionar composiciones complejas con flujos de trabajo agénticos.",
+          "meta": "Python · ★ 7.459 · +210 hoy",
+          "snapshot": {
+            "sourceId": "multimodal-art-projection/YuE",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 7459,
+              "engagementCount": 210,
+              "rank": 14,
+              "extra": {
+                "starsToday": 210
+              }
+            }
+          }
+        },
+        {
+          "title": "max-sixty/worktrunk",
+          "url": "https://github.com/max-sixty/worktrunk",
+          "summary": "Worktrunk es una interfaz de línea de comandos (CLI) escrita en Rust que facilita la gestión de árboles de trabajo (worktree) de Git. Desarrollada especialmente para soportar flujos de trabajo de agentes de inteligencia artificial en paralelo, esta herramienta acelera el trabajo en múltiples tareas simultáneamente.",
+          "meta": "Rust · ★ 7.376 · +54 hoy",
+          "snapshot": {
+            "sourceId": "max-sixty/worktrunk",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 7376,
+              "engagementCount": 54,
+              "rank": 15,
+              "extra": {
+                "starsToday": 54
+              }
+            }
+          }
+        },
+        {
+          "title": "vxcontrol/pentagi",
+          "url": "https://github.com/vxcontrol/pentagi",
+          "summary": "Pentagi es un sistema de agentes de inteligencia artificial totalmente autónomos capaces de realizar tareas complejas de pruebas de penetración (penetration testing). Desarrollada en el lenguaje Go, esta herramienta tiene como objetivo automatizar los procesos de detección de vulnerabilidades de seguridad.",
+          "meta": "Go · ★ 23.620 · +189 hoy",
+          "snapshot": {
+            "sourceId": "vxcontrol/pentagi",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 23620,
+              "engagementCount": 189,
+              "rank": 16,
+              "extra": {
+                "starsToday": 189
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "We must pace the frontier",
+          "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+          "summary": "Dario Amodei, CEO de la empresa Anthropic, sostiene que la velocidad del desarrollo de la inteligencia artificial debe equilibrarse con las medidas de seguridad. Propone destinar más recursos a la investigación técnica de seguridad para gestionar los riesgos potenciales de los modelos de lenguaje grandes (large language models) de vanguardia.",
+          "meta": "637 puntos · 891 comentarios",
+          "snapshot": {
+            "sourceId": "49672510",
+            "capturedAt": "2026-09-13T08:57:16.569Z",
+            "metadata": {
+              "popularity": 637,
+              "engagementCount": 891,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49672510",
+                  "popularity": 637,
+                  "engagementCount": 891
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "apsec112",
+                "createdAt": "2026-09-12T14:10:49Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49672510"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49672510",
+              "popularity": 637,
+              "engagementCount": 891
+            }
+          ]
+        },
+        {
+          "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+          "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+          "summary": "LG negó las acusaciones de que sus televisores inteligentes vigilan a los usuarios y graban audio, afirmando que tales actividades de recopilación de datos no reflejan la realidad. La empresa sostiene que los dispositivos funcionan de acuerdo con las políticas de privacidad y que las preocupaciones de seguridad son infundadas.",
+          "meta": "517 puntos · 412 comentarios",
+          "snapshot": {
+            "sourceId": "49645480",
+            "capturedAt": "2026-09-13T08:57:16.569Z",
+            "metadata": {
+              "popularity": 517,
+              "engagementCount": 412,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49645480",
+                  "popularity": 517,
+                  "engagementCount": 412
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "datakan",
+                "createdAt": "2026-09-10T15:31:37Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49645480"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49645480",
+              "popularity": 517,
+              "engagementCount": 412
+            }
+          ]
+        },
+        {
+          "title": "Nvidia is the central bank of AI",
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "summary": "Nvidia se ha convertido en una fuerza central que determina el equilibrio de oferta y precios del sector con su posición dominante en el mercado de hardware de inteligencia artificial. Gracias a su control sobre el suministro de unidades de procesamiento gráfico (GPU), la empresa influye directamente en las estrategias de inversión y crecimiento del mundo tecnológico.",
+          "meta": "473 puntos · 336 comentarios",
+          "snapshot": {
+            "sourceId": "49673098",
+            "capturedAt": "2026-09-13T08:57:16.569Z",
+            "metadata": {
+              "popularity": 473,
+              "engagementCount": 336,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49673098",
+                  "popularity": 473,
+                  "engagementCount": 336
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "tolugenius",
+                "createdAt": "2026-09-12T15:08:27Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49673098"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49673098",
+              "popularity": 473,
+              "engagementCount": 336
+            }
+          ]
+        },
+        {
+          "title": "Make your first edit to OpenStreetMap",
+          "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+          "summary": "El proyecto de mapas de código abierto OpenStreetMap ofrece una nueva guía que facilita a los usuarios la edición de datos cartográficos a través del complemento JOSM (JOSM plugin). Esta herramienta tiene como objetivo reducir las barreras técnicas para los voluntarios que dan sus primeros pasos en el proceso de edición de mapas.",
+          "meta": "443 puntos · 108 comentarios",
+          "snapshot": {
+            "sourceId": "49674050",
+            "capturedAt": "2026-09-13T08:57:16.569Z",
+            "metadata": {
+              "popularity": 443,
+              "engagementCount": 108,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49674050",
+                  "popularity": 443,
+                  "engagementCount": 108
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "juliantigler",
+                "createdAt": "2026-09-12T16:25:08Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49674050"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49674050",
+              "popularity": 443,
+              "engagementCount": 108
+            }
+          ]
+        },
+        {
+          "title": "Everyone should slow down AI development except for me",
+          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+          "summary": "El debate sobre la ralentización de los procesos de desarrollo de la inteligencia artificial se centra en la contradicción entre el interés individual y la competencia tecnológica. Los autores critican con ironía la tendencia a continuar con el desarrollo de sus propios proyectos, en contraposición a un llamado general a una pausa.",
+          "meta": "434 puntos · 260 comentarios",
+          "snapshot": {
+            "sourceId": "49678683",
+            "capturedAt": "2026-09-13T08:57:16.569Z",
+            "metadata": {
+              "popularity": 434,
+              "engagementCount": 260,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49678683",
+                  "popularity": 434,
+                  "engagementCount": 260
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "xena",
+                "createdAt": "2026-09-13T00:30:44Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49678683"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49678683",
+              "popularity": 434,
+              "engagementCount": 260
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+          "summary": "DeepSeek-V4.1-Flash, publicado por DeepSeek, es un modelo de inteligencia artificial multimodal que procesa datos visuales y textuales para generar resultados de texto. Este modelo, alojado en Hugging Face, facilita el análisis de contenidos visuales con su capacidad de generar respuestas rápidas.",
+          "meta": "♥ 2.068 · 140.636 descargas",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash",
+            "capturedAt": "2026-09-13T08:57:21.429Z",
+            "metadata": {
+              "popularity": 2068,
+              "engagementCount": 140636,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1882,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "openbmb/MiniCPM5-2B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+          "summary": "MiniCPM5-2B, desarrollado por OpenBMB, es un modelo de lenguaje compacto capaz de realizar generación de texto (text generation) con bajos requisitos de hardware. Este modelo, que pretende ofrecer un alto rendimiento incluso con recursos computacionales limitados, constituye una opción eficiente para aplicaciones de inteligencia artificial que se ejecutan en el dispositivo.",
+          "meta": "♥ 1.283 · 102.334 descargas",
+          "snapshot": {
+            "sourceId": "openbmb/MiniCPM5-2B",
+            "capturedAt": "2026-09-13T08:57:21.429Z",
+            "metadata": {
+              "popularity": 1283,
+              "engagementCount": 102334,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1081,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "llama",
+                  "text-generation",
+                  "minicpm",
+                  "minicpm5",
+                  "long-context",
+                  "tool-calling",
+                  "on-device",
+                  "edge-ai",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "dataset:openbmb/Ultra-FineWeb",
+                  "dataset:openbmb/UltraX-Preview",
+                  "dataset:openbmb/Ultra-FineWeb-L3",
+                  "dataset:openbmb/UltraData-Math",
+                  "dataset:openbmb/UltraData-Code",
+                  "dataset:openbmb/UltraData-SFT-2605",
+                  "dataset:openbmb/UltraData-SFT-Agent-2609",
+                  "dataset:openbmb/UltraData-RL-2609",
+                  "arxiv:2506.07900",
+                  "arxiv:2602.09003",
+                  "license:apache-2.0",
+                  "text-generation-inference",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Edge0/Edge0-35B-A3B-preview",
+          "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
+          "summary": "Edge0-35B-A3B-preview, compartido en Hugging Face, es un nuevo modelo de lenguaje centrado en la generación de texto. Desarrollado para mejorar el rendimiento en tareas complejas, este modelo añade una nueva opción al ecosistema de inteligencia artificial de código abierto.",
+          "meta": "♥ 624 · 1.596 descargas",
+          "snapshot": {
+            "sourceId": "Edge0/Edge0-35B-A3B-preview",
+            "capturedAt": "2026-09-13T08:57:21.429Z",
+            "metadata": {
+              "popularity": 624,
+              "engagementCount": 1596,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 604,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "mlx",
+                  "safetensors",
+                  "qwen3_5_moe",
+                  "moe",
+                  "edge-inference",
+                  "prerouter",
+                  "lora",
+                  "ssd-offload",
+                  "text-generation",
+                  "conversational",
+                  "license:apache-2.0",
+                  "4-bit",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "nex-agi/Nex-N2.5-mini",
+          "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
+          "summary": "Nex-N2.5-mini es un modelo de inteligencia artificial compartido en HuggingFace que funciona centrado en la generación de texto. Con su estructura de tamaño reducido, tiene como objetivo realizar tareas de procesamiento de lenguaje rápidas y eficientes en el dispositivo (on-device).",
+          "meta": "♥ 748 · 3.581 descargas",
+          "snapshot": {
+            "sourceId": "nex-agi/Nex-N2.5-mini",
+            "capturedAt": "2026-09-13T08:57:21.429Z",
+            "metadata": {
+              "popularity": 748,
+              "engagementCount": 3581,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 591,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5_moe",
+                  "image-text-to-text",
+                  "text-generation",
+                  "conversational",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Qwen2.5-27B, desarrollado por Alibaba, es un modelo de lenguaje grande multimodal capaz de procesar datos de texto e imagen. Con su naturaleza de código abierto, ofrece a los desarrolladores una alternativa de alto rendimiento en tareas complejas de análisis visual.",
+          "meta": "♥ 14.894 · 7.726.687 descargas",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-27B",
+            "capturedAt": "2026-09-13T08:57:21.429Z",
+            "metadata": {
+              "popularity": 14894,
+              "engagementCount": 7726687,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 553,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "deploy:azure",
+                  "deploy:sagemaker",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Studying Image Tokenizers as Visual Languages in Unified Multimodal Models",
+          "url": "https://huggingface.co/papers/2609.09143",
+          "summary": "Los tokenizadores de imágenes (image tokenizers) suelen evaluarse con métricas unilaterales al crear el lenguaje visual de los modelos multimodales. Este estudio presenta un entorno de prueba original para examinar escenarios en los que los tokens visuales se modelan junto con el texto, analizando el efecto del preentrenamiento continuo multimodal en diferentes tareas.",
+          "meta": "28 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2609.09143",
+            "capturedAt": "2026-09-13T08:57:21.439Z",
+            "metadata": {
+              "popularity": 28,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.09143",
+                "publishedAt": "2026-09-08T00:00:00.000Z",
+                "githubRepo": "https://github.com/amazon-far/Tokenizer_UMM",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Think Before You Link: Rarity, Reasoning, and Retrieval in Multilingual Entity Linking",
+          "url": "https://huggingface.co/papers/2609.10745",
+          "summary": "Los sistemas de enlace de entidades multilingüe (multilingual entity linking) logran tasas de precisión más altas al utilizar métricas estructurales de grafos de conocimiento en lugar de métricas de popularidad al identificar entidades raras. Este enfoque mejora el rendimiento del sistema en la detección de entidades poco documentadas que los métodos tradicionales pasan por alto.",
+          "meta": "22 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2609.10745",
+            "capturedAt": "2026-09-13T08:57:21.439Z",
+            "metadata": {
+              "popularity": 22,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.10745",
+                "publishedAt": "2026-09-09T00:00:00.000Z",
+                "githubRepo": "https://github.com/neulab/think-before-you-link",
+                "githubStars": 2
+              }
+            }
+          }
+        },
+        {
+          "title": "Building Multilingual Bridges: Data Mixing as the Pillar of Generalization for In-Language Reasoning",
+          "url": "https://huggingface.co/papers/2609.10445",
+          "summary": "Se utiliza el método de mezcla de datos (data mixing) para mejorar las capacidades de razonamiento de los modelos de inteligencia artificial en idiomas distintos al inglés. Este enfoque permite que los modelos respondan preguntas complejas en diferentes idiomas de manera coherente en sus propios idiomas nativos.",
+          "meta": "26 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2609.10445",
+            "capturedAt": "2026-09-13T08:57:21.439Z",
+            "metadata": {
+              "popularity": 26,
+              "engagementCount": 2,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.10445",
+                "publishedAt": "2026-09-09T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Adaptive Bridge: A Proxy-Based Decoupling Layer for Mitigating DDS Backpressure in ROS 2",
+          "url": "https://huggingface.co/papers/2608.15380",
+          "summary": "Adaptive Bridge, que resuelve los problemas de congestión dentro del servicio de distribución de datos (DDS) utilizado en el Robot Operating System 2 (ROS 2), protege el rendimiento del sistema al separar a los suscriptores críticos de las conexiones lentas. Esta capa basada en proxy aumenta la estabilidad general del sistema al evitar que una interrupción en la red ralentice todo el flujo de datos.",
+          "meta": "21 me gusta · 3 comentarios",
+          "snapshot": {
+            "sourceId": "2608.15380",
+            "capturedAt": "2026-09-13T08:57:21.439Z",
+            "metadata": {
+              "popularity": 21,
+              "engagementCount": 3,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.15380",
+                "publishedAt": "2026-09-06T00:00:00.000Z",
+                "githubRepo": "https://github.com/KaushalrajPuwar/adaptive-bridge",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Beyond Solver Verdicts: Generative Reward Models for Autoformalization",
+          "url": "https://huggingface.co/papers/2609.11085",
+          "summary": "Los modelos de recompensa generativos (generative reward models) se están desarrollando para detectar errores de precisión que los solucionadores matemáticos (solvers) pasan por alto en los procesos de traducción formal. Este método tiene como objetivo resolver el problema de la infidelidad que preserva el veredicto (verdict-preserving-unfaithfulness) que surge cuando las codificaciones incorrectas producen resultados correctos.",
+          "meta": "25 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2609.11085",
+            "capturedAt": "2026-09-13T08:57:21.439Z",
+            "metadata": {
+              "popularity": 25,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.11085",
+                "publishedAt": "2026-09-10T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "I made a build visualizer to understand Bun’s compile times",
+          "url": "https://lalitm.com/post/buildprof/",
+          "summary": "Bun, un entorno de ejecución (runtime) de JavaScript rápido para desarrolladores de software, se analiza con Buildprof, una herramienta de visualización desarrollada para analizar los tiempos de compilación. Esta herramienta permite identificar cuellos de botella en el rendimiento al presentar los procesos de compilación de forma gráfica.",
+          "meta": "60 puntos · 14 comentarios",
+          "snapshot": {
+            "sourceId": "qsrjs2",
+            "capturedAt": "2026-09-13T08:57:21.699Z",
+            "metadata": {
+              "popularity": 60,
+              "engagementCount": 14,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/qsrjs2/i_made_build_visualizer_understand_bun_s",
+                  "popularity": 60,
+                  "engagementCount": 14
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "compilers",
+                  "performance"
+                ],
+                "createdAt": "2026-09-12T09:48:24.716-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/qsrjs2/i_made_build_visualizer_understand_bun_s",
+              "popularity": 60,
+              "engagementCount": 14
+            }
+          ]
+        },
+        {
+          "title": "Linux Zoom Client Proactively Reads X11 Clipboard",
+          "url": "https://hachyderm.io/@simontatham/117201594980991062",
+          "summary": "Zoom, la aplicación de videollamadas desarrollada para Linux, lee continuamente los datos del portapapeles (clipboard) en el sistema de ventanas X11 sin el permiso del usuario. Esta situación genera preocupaciones de seguridad y privacidad, ya que la aplicación que se ejecuta en segundo plano hace que la información confidencial copiada sea accesible.",
+          "meta": "47 puntos · 30 comentarios",
+          "snapshot": {
+            "sourceId": "8t1ddm",
+            "capturedAt": "2026-09-13T08:57:21.699Z",
+            "metadata": {
+              "popularity": 47,
+              "engagementCount": 30,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/8t1ddm/linux_zoom_client_proactively_reads_x11",
+                  "popularity": 47,
+                  "engagementCount": 30
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "linux",
+                  "security"
+                ],
+                "createdAt": "2026-09-12T07:38:53.353-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/8t1ddm/linux_zoom_client_proactively_reads_x11",
+              "popularity": 47,
+              "engagementCount": 30
+            }
+          ]
+        },
+        {
+          "title": "Feeling sad about AI",
+          "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
+          "summary": "El rápido desarrollo de las tecnologías de inteligencia artificial aumenta las preocupaciones sobre el futuro del trabajo humano y la creatividad en el mundo del software. A medida que la automatización transforma los procesos de trabajo, los desarrolladores se replantean el significado de la conexión que establecen con las herramientas digitales.",
+          "meta": "219 puntos · 101 comentarios",
+          "snapshot": {
+            "sourceId": "7guove",
+            "capturedAt": "2026-09-13T08:57:21.699Z",
+            "metadata": {
+              "popularity": 219,
+              "engagementCount": 101,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/7guove/feeling_sad_about_ai",
+                  "popularity": 219,
+                  "engagementCount": 101
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "programming"
+                ],
+                "createdAt": "2026-09-11T07:33:20.763-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/7guove/feeling_sad_about_ai",
+              "popularity": 219,
+              "engagementCount": 101
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "CRM",
+      "explanation": "Software que permite a las empresas gestionar la comunicación con sus clientes, los procesos de ventas y los registros históricos desde un solo lugar."
+    },
+    {
+      "term": "system prompts",
+      "explanation": "Instrucciones iniciales que definen cómo debe comportarse la inteligencia artificial y bajo qué reglas debe responder."
+    },
+    {
+      "term": "sideloader",
+      "explanation": "Herramienta que permite descargar una aplicación de fuentes distintas a su tienda oficial e instalarla manualmente en su dispositivo."
+    },
+    {
+      "term": "AI agent",
+      "explanation": "Software de inteligencia artificial autónomo capaz de tomar decisiones por sí mismo y utilizar diversas herramientas para alcanzar objetivos."
+    },
+    {
+      "term": "newsgroup",
+      "explanation": "Plataforma de discusión de antigua generación donde las personas intercambian mensajes y debaten sobre temas específicos en Internet."
+    },
+    {
+      "term": "PVR",
+      "explanation": "Dispositivo que permite grabar transmisiones de televisión en un entorno digital para verlas más tarde."
+    },
+    {
+      "term": "agent skills",
+      "explanation": "Habilidades o herramientas especiales que posee la inteligencia artificial para poder realizar una tarea específica."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligencia artificial entrenados con una enorme cantidad de datos, capaces de entender el lenguaje humano y generar texto."
+    },
+    {
+      "term": "network stack",
+      "explanation": "Conjunto de capas de software que permiten a una computadora conectarse a Internet e intercambiar datos."
+    },
+    {
+      "term": "pluggable transports",
+      "explanation": "Métodos de conexión especiales que sirven para superar bloqueos ocultando el tráfico de Internet."
+    },
+    {
+      "term": "texture painting",
+      "explanation": "Proceso de añadir color y detalles a la superficie de modelos tridimensionales mediante pinceles digitales."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Procesador especializado que procesa imágenes en la computadora y acelera cálculos matemáticos complejos."
+    },
+    {
+      "term": "offensive security skills",
+      "explanation": "Habilidad de realizar pruebas de seguridad pensando como un atacante para encontrar vulnerabilidades en los sistemas."
+    },
+    {
+      "term": "zero-shot",
+      "explanation": "La capacidad de la inteligencia artificial para producir resultados precisos sobre un tema del que nunca ha visto ejemplos antes, basándose únicamente en instrucciones."
+    },
+    {
+      "term": "worktree",
+      "explanation": "Estructura de carpetas que le permite trabajar simultáneamente en diferentes versiones del mismo proyecto mientras desarrolla software."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interfaz basada en texto que ejecuta programas mediante comandos escritos en lugar de usar el ratón."
+    }
+  ]
+}

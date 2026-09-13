@@ -1,0 +1,492 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-13",
+  "capturedAt": "2026-09-13T08:57:16.325Z",
+  "editorial": "Este informe contiene las tendencias que han destacado por primera vez hoy, sin repetir los registros que aparecen en los informes normales de los últimos 30 días.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "summary": "El repositorio System prompts leaks recopila las instrucciones de sistema (system prompts) secretas de los modelos de inteligencia artificial desarrollados por empresas como Anthropic, OpenAI, Google y xAI. Este trabajo ofrece un recurso central para los desarrolladores que desean comprender la lógica de funcionamiento y las restricciones de seguridad de diferentes modelos de lenguaje.",
+          "meta": "JavaScript · ★ 65.652 · +217 hoy",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "asgeirtj/system_prompts_leaks",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 65652,
+              "engagementCount": 217,
+              "rank": 3,
+              "extra": {
+                "starsToday": 217
+              }
+            }
+          }
+        },
+        {
+          "title": "Flowseal/zapret-discord-youtube",
+          "url": "https://github.com/Flowseal/zapret-discord-youtube",
+          "summary": "Zapret es una herramienta de enrutamiento de tráfico de red desarrollada para acceder a plataformas restringidas como Discord y YouTube. Supera los bloqueos de inspección de paquetes en sistemas operativos Windows, permitiendo que los servicios funcionen en regiones donde están restringidos.",
+          "meta": "Batchfile · ★ 33.232 · +65 hoy",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "Flowseal/zapret-discord-youtube",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "Batchfile",
+              "popularity": 33232,
+              "engagementCount": 65,
+              "rank": 5,
+              "extra": {
+                "starsToday": 65
+              }
+            }
+          }
+        },
+        {
+          "title": "yuliskov/SmartTube",
+          "url": "https://github.com/yuliskov/SmartTube",
+          "summary": "SmartTube es un cliente de YouTube desarrollado para dispositivos Android TV que ofrece funciones avanzadas como bloqueo de anuncios e interfaz personalizable. Permite a los usuarios gestionar sus experiencias de visualización de videos según sus propias reglas.",
+          "meta": "Java · ★ 33.276 · +136 hoy",
+          "snapshot": {
+            "sourceId": "yuliskov/SmartTube",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "Java",
+              "popularity": 33276,
+              "engagementCount": 136,
+              "rank": 9,
+              "extra": {
+                "starsToday": 136
+              }
+            }
+          }
+        },
+        {
+          "title": "SnailSploit/Claude-Red",
+          "url": "https://github.com/SnailSploit/Claude-Red",
+          "summary": "Claude-Red es una biblioteca de habilidades de seguridad ofensiva (offensive security skills) integrada en el sistema de capacidades del modelo de inteligencia artificial Claude. Su objetivo es automatizar las pruebas de seguridad ofreciendo metodologías de nivel experto en temas como la inyección SQL y la elusión de sistemas de protección de puntos finales.",
+          "meta": "Python · ★ 3.787 · +113 hoy",
+          "snapshot": {
+            "sourceId": "SnailSploit/Claude-Red",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 3787,
+              "engagementCount": 113,
+              "rank": 13,
+              "extra": {
+                "starsToday": 113
+              }
+            }
+          }
+        },
+        {
+          "title": "multimodal-art-projection/YuE",
+          "url": "https://github.com/multimodal-art-projection/YuE",
+          "summary": "YuE es un sistema de generación de música equipado con capacidades como la planificación simbólica y la creación de versiones (covers) de disparo cero (zero-shot). Este modelo de inteligencia artificial, que automatiza los procesos de edición musical, le permite gestionar composiciones complejas con flujos de trabajo agénticos.",
+          "meta": "Python · ★ 7.459 · +210 hoy",
+          "snapshot": {
+            "sourceId": "multimodal-art-projection/YuE",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 7459,
+              "engagementCount": 210,
+              "rank": 14,
+              "extra": {
+                "starsToday": 210
+              }
+            }
+          }
+        },
+        {
+          "title": "max-sixty/worktrunk",
+          "url": "https://github.com/max-sixty/worktrunk",
+          "summary": "Worktrunk es una interfaz de línea de comandos (CLI) escrita en Rust que facilita la gestión de árboles de trabajo (worktree) de Git. Desarrollada especialmente para soportar flujos de trabajo de agentes de inteligencia artificial en paralelo, esta herramienta acelera el trabajo en múltiples tareas simultáneamente.",
+          "meta": "Rust · ★ 7.376 · +54 hoy",
+          "snapshot": {
+            "sourceId": "max-sixty/worktrunk",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 7376,
+              "engagementCount": 54,
+              "rank": 15,
+              "extra": {
+                "starsToday": 54
+              }
+            }
+          }
+        },
+        {
+          "title": "vxcontrol/pentagi",
+          "url": "https://github.com/vxcontrol/pentagi",
+          "summary": "Pentagi es un sistema de agentes de inteligencia artificial totalmente autónomos capaces de realizar tareas complejas de pruebas de penetración (penetration testing). Desarrollada en el lenguaje Go, esta herramienta tiene como objetivo automatizar los procesos de detección de vulnerabilidades de seguridad.",
+          "meta": "Go · ★ 23.620 · +189 hoy",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "vxcontrol/pentagi",
+            "capturedAt": "2026-09-13T08:57:17.355Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 23620,
+              "engagementCount": 189,
+              "rank": 16,
+              "extra": {
+                "starsToday": 189
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "We must pace the frontier",
+          "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+          "summary": "Dario Amodei, CEO de la empresa Anthropic, sostiene que la velocidad del desarrollo de la inteligencia artificial debe equilibrarse con las medidas de seguridad. Propone destinar más recursos a la investigación técnica de seguridad para gestionar los riesgos potenciales de los modelos de lenguaje grandes (large language models) de vanguardia.",
+          "meta": "637 puntos · 891 comentarios",
+          "snapshot": {
+            "sourceId": "49672510",
+            "capturedAt": "2026-09-13T08:57:16.569Z",
+            "metadata": {
+              "popularity": 637,
+              "engagementCount": 891,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49672510",
+                  "popularity": 637,
+                  "engagementCount": 891
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "apsec112",
+                "createdAt": "2026-09-12T14:10:49Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49672510"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49672510",
+              "popularity": 637,
+              "engagementCount": 891
+            }
+          ]
+        },
+        {
+          "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+          "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+          "summary": "LG negó las acusaciones de que sus televisores inteligentes vigilan a los usuarios y graban audio, afirmando que tales actividades de recopilación de datos no reflejan la realidad. La empresa sostiene que los dispositivos funcionan de acuerdo con las políticas de privacidad y que las preocupaciones de seguridad son infundadas.",
+          "meta": "517 puntos · 412 comentarios",
+          "snapshot": {
+            "sourceId": "49645480",
+            "capturedAt": "2026-09-13T08:57:16.569Z",
+            "metadata": {
+              "popularity": 517,
+              "engagementCount": 412,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49645480",
+                  "popularity": 517,
+                  "engagementCount": 412
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "datakan",
+                "createdAt": "2026-09-10T15:31:37Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49645480"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49645480",
+              "popularity": 517,
+              "engagementCount": 412
+            }
+          ]
+        },
+        {
+          "title": "Nvidia is the central bank of AI",
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "summary": "Nvidia se ha convertido en una fuerza central que determina el equilibrio de oferta y precios del sector con su posición dominante en el mercado de hardware de inteligencia artificial. Gracias a su control sobre el suministro de unidades de procesamiento gráfico (GPU), la empresa influye directamente en las estrategias de inversión y crecimiento del mundo tecnológico.",
+          "meta": "473 puntos · 336 comentarios",
+          "snapshot": {
+            "sourceId": "49673098",
+            "capturedAt": "2026-09-13T08:57:16.569Z",
+            "metadata": {
+              "popularity": 473,
+              "engagementCount": 336,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49673098",
+                  "popularity": 473,
+                  "engagementCount": 336
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "tolugenius",
+                "createdAt": "2026-09-12T15:08:27Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49673098"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49673098",
+              "popularity": 473,
+              "engagementCount": 336
+            }
+          ]
+        },
+        {
+          "title": "Make your first edit to OpenStreetMap",
+          "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+          "summary": "El proyecto de mapas de código abierto OpenStreetMap ofrece una nueva guía que facilita a los usuarios la edición de datos cartográficos a través del complemento JOSM (JOSM plugin). Esta herramienta tiene como objetivo reducir las barreras técnicas para los voluntarios que dan sus primeros pasos en el proceso de edición de mapas.",
+          "meta": "443 puntos · 108 comentarios",
+          "snapshot": {
+            "sourceId": "49674050",
+            "capturedAt": "2026-09-13T08:57:16.569Z",
+            "metadata": {
+              "popularity": 443,
+              "engagementCount": 108,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49674050",
+                  "popularity": 443,
+                  "engagementCount": 108
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "juliantigler",
+                "createdAt": "2026-09-12T16:25:08Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49674050"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49674050",
+              "popularity": 443,
+              "engagementCount": 108
+            }
+          ]
+        },
+        {
+          "title": "Everyone should slow down AI development except for me",
+          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+          "summary": "El debate sobre la ralentización de los procesos de desarrollo de la inteligencia artificial se centra en la contradicción entre el interés individual y la competencia tecnológica. Los autores critican con ironía la tendencia a continuar con el desarrollo de sus propios proyectos, en contraposición a un llamado general a una pausa.",
+          "meta": "434 puntos · 260 comentarios",
+          "snapshot": {
+            "sourceId": "49678683",
+            "capturedAt": "2026-09-13T08:57:16.569Z",
+            "metadata": {
+              "popularity": 434,
+              "engagementCount": 260,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49678683",
+                  "popularity": 434,
+                  "engagementCount": 260
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "xena",
+                "createdAt": "2026-09-13T00:30:44Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49678683"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49678683",
+              "popularity": 434,
+              "engagementCount": 260
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Edge0/Edge0-35B-A3B-preview",
+          "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
+          "summary": "Edge0-35B-A3B-preview, compartido en Hugging Face, es un nuevo modelo de lenguaje centrado en la generación de texto. Desarrollado para mejorar el rendimiento en tareas complejas, este modelo añade una nueva opción al ecosistema de inteligencia artificial de código abierto.",
+          "meta": "♥ 624 · 1.596 descargas",
+          "snapshot": {
+            "sourceId": "Edge0/Edge0-35B-A3B-preview",
+            "capturedAt": "2026-09-13T08:57:21.429Z",
+            "metadata": {
+              "popularity": 624,
+              "engagementCount": 1596,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 604,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "mlx",
+                  "safetensors",
+                  "qwen3_5_moe",
+                  "moe",
+                  "edge-inference",
+                  "prerouter",
+                  "lora",
+                  "ssd-offload",
+                  "text-generation",
+                  "conversational",
+                  "license:apache-2.0",
+                  "4-bit",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": []
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "I made a build visualizer to understand Bun’s compile times",
+          "url": "https://lalitm.com/post/buildprof/",
+          "summary": "Bun, un entorno de ejecución (runtime) de JavaScript rápido para desarrolladores de software, se analiza con Buildprof, una herramienta de visualización desarrollada para analizar los tiempos de compilación. Esta herramienta permite identificar cuellos de botella en el rendimiento al presentar los procesos de compilación de forma gráfica.",
+          "meta": "60 puntos · 14 comentarios",
+          "snapshot": {
+            "sourceId": "qsrjs2",
+            "capturedAt": "2026-09-13T08:57:21.699Z",
+            "metadata": {
+              "popularity": 60,
+              "engagementCount": 14,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/qsrjs2/i_made_build_visualizer_understand_bun_s",
+                  "popularity": 60,
+                  "engagementCount": 14
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "compilers",
+                  "performance"
+                ],
+                "createdAt": "2026-09-12T09:48:24.716-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/qsrjs2/i_made_build_visualizer_understand_bun_s",
+              "popularity": 60,
+              "engagementCount": 14
+            }
+          ]
+        },
+        {
+          "title": "Linux Zoom Client Proactively Reads X11 Clipboard",
+          "url": "https://hachyderm.io/@simontatham/117201594980991062",
+          "summary": "Zoom, la aplicación de videollamadas desarrollada para Linux, lee continuamente los datos del portapapeles (clipboard) en el sistema de ventanas X11 sin el permiso del usuario. Esta situación genera preocupaciones de seguridad y privacidad, ya que la aplicación que se ejecuta en segundo plano hace que la información confidencial copiada sea accesible.",
+          "meta": "47 puntos · 30 comentarios",
+          "snapshot": {
+            "sourceId": "8t1ddm",
+            "capturedAt": "2026-09-13T08:57:21.699Z",
+            "metadata": {
+              "popularity": 47,
+              "engagementCount": 30,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/8t1ddm/linux_zoom_client_proactively_reads_x11",
+                  "popularity": 47,
+                  "engagementCount": 30
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "linux",
+                  "security"
+                ],
+                "createdAt": "2026-09-12T07:38:53.353-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/8t1ddm/linux_zoom_client_proactively_reads_x11",
+              "popularity": 47,
+              "engagementCount": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "system prompts",
+      "explanation": "Instrucciones iniciales que definen cómo debe comportarse la inteligencia artificial y bajo qué reglas debe responder."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligencia artificial entrenados con una enorme cantidad de datos, capaces de entender el lenguaje humano y generar texto."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Procesador especializado que procesa imágenes en la computadora y acelera cálculos matemáticos complejos."
+    },
+    {
+      "term": "offensive security skills",
+      "explanation": "Habilidad de realizar pruebas de seguridad pensando como un atacante para encontrar vulnerabilidades en los sistemas."
+    },
+    {
+      "term": "zero-shot",
+      "explanation": "La capacidad de la inteligencia artificial para producir resultados precisos sobre un tema del que nunca ha visto ejemplos antes, basándose únicamente en instrucciones."
+    },
+    {
+      "term": "worktree",
+      "explanation": "Estructura de carpetas que le permite trabajar simultáneamente en diferentes versiones del mismo proyecto mientras desarrolla software."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interfaz basada en texto que ejecuta programas mediante comandos escritos en lugar de usar el ratón."
+    }
+  ]
+}
