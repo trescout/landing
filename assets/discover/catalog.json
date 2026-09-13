@@ -20913,14 +20913,14 @@
     "slug": "cloudflare-temp-email",
     "title": "Cloudflare Temp Email",
     "tagline": "Cloudflare altyapısını kullanarak ücretsiz geçici e-posta (temporary email) hizmeti oluşturmayı sağlayan bu araç, e-posta alıp…",
-    "meta": "★ 11.391 · TypeScript",
+    "meta": "★ 11.734 · TypeScript",
     "image": "/assets/discover/og/cloudflare-temp-email.webp",
     "source": "GitHub",
     "date": "2026-07-23",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 11391,
+    "stars": 11734,
     "lite": false,
     "headline": "Cloudflare üzerinde ücretsiz geçici e-posta",
     "last_review": "2026-09-13",
@@ -20945,6 +20945,13 @@
         "onceki_yildiz": 11332,
         "surum": "v1.11.1",
         "surum_tarihi": "2026-08-22"
+      },
+      {
+        "tarih": "2026-09-13",
+        "yildiz": 11734,
+        "onceki_yildiz": 11391,
+        "surum": "v1.12.0",
+        "surum_tarihi": "2026-09-13"
       }
     ],
     "tagline_en": "This tool, which allows you to create a free temporary email service using the Cloudflare infrastructure, allows you to receive and receive emails…",
@@ -32834,7 +32841,8 @@
     "tagline_fr": "SmartTube est une application développée pour les appareils Android TV, offrant des fonctionnalités avancées telles que le blocage des publicités et une interface personnalisable…",
     "tagline_pt": "SmartTube é um aplicativo desenvolvido para dispositivos Android TV, com recursos avançados como bloqueio de anúncios e interface personalizável...",
     "tagline_es": "SmartTube es una aplicación desarrollada para dispositivos Android TV que ofrece funciones avanzadas como bloqueo de anuncios e interfaz personalizable...",
-    "tagline_de": "SmartTube ist eine für Android TV-Geräte entwickelte Anwendung mit erweiterten Funktionen wie Werbeblockierung und einer anpassbaren Benutzeroberfläche."
+    "tagline_de": "SmartTube ist eine für Android TV-Geräte entwickelte Anwendung mit erweiterten Funktionen wie Werbeblockierung und einer anpassbaren Benutzeroberfläche.",
+    "last_seen": "2026-09-13"
   },
   {
     "slug": "claude-red",
@@ -32866,7 +32874,8 @@
     "tagline_fr": "Claude-Red est un ensemble de compétences de sécurité offensives intégrées au système de capacités du modèle d'intelligence artificielle Claude…",
     "tagline_pt": "Claude-Red são habilidades de segurança focadas em ataque (offensive) integradas ao sistema de capacidades do modelo de inteligência artificial Claude...",
     "tagline_es": "Claude-Red son habilidades de seguridad orientadas al ataque (ofensivas) integradas en el sistema de capacidades del modelo de inteligencia artificial Claude...",
-    "tagline_de": "Claude-Red umfasst offensiv ausgerichtete Sicherheitsfähigkeiten, die in das Fähigkeitssystem des KI-Modells Claude integriert sind."
+    "tagline_de": "Claude-Red umfasst offensiv ausgerichtete Sicherheitsfähigkeiten, die in das Fähigkeitssystem des KI-Modells Claude integriert sind.",
+    "last_seen": "2026-09-13"
   },
   {
     "slug": "yue",
@@ -32898,7 +32907,8 @@
     "tagline_fr": "YuE est un système de génération musicale doté de capacités telles que la planification symbolique et la production de reprises en mode zéro-shot.",
     "tagline_pt": "YuE é um sistema de criação musical equipado com capacidades como planejamento simbólico e geração de covers zero-shot.",
     "tagline_es": "YuE es un sistema de generación de música equipado con capacidades como planificación simbólica y producción de versiones (covers) de tipo zero-shot.",
-    "tagline_de": "YuE ist ein Musikgenerierungssystem, das mit Funktionen wie symbolischer Planung und Zero-Shot-Cover-Produktion ausgestattet ist."
+    "tagline_de": "YuE ist ein Musikgenerierungssystem, das mit Funktionen wie symbolischer Planung und Zero-Shot-Cover-Produktion ausgestattet ist.",
+    "last_seen": "2026-09-13"
   },
   {
     "slug": "worktrunk",
@@ -32930,6 +32940,7 @@
     "tagline_fr": "Worktrunk est une interface de ligne de commande (CLI) écrite en Rust qui facilite la gestion des arbres de travail (worktree) Git.",
     "tagline_pt": "Worktrunk é uma interface de linha de comando (CLI) escrita na linguagem Rust que facilita o gerenciamento de árvores de trabalho (worktree) do Git.",
     "tagline_es": "Worktrunk es una interfaz de línea de comandos (CLI) escrita en Rust que facilita la gestión de árboles de trabajo (worktrees) de Git.",
-    "tagline_de": "Worktrunk ist eine in Rust geschriebene Befehlszeilenschnittstelle (CLI), die die Verwaltung von Git-Arbeitsbäumen (Worktrees) vereinfacht."
+    "tagline_de": "Worktrunk ist eine in Rust geschriebene Befehlszeilenschnittstelle (CLI), die die Verwaltung von Git-Arbeitsbäumen (Worktrees) vereinfacht.",
+    "last_seen": "2026-09-13"
   }
 ]
