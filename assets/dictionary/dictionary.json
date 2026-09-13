@@ -7824,5 +7824,44 @@
     "kisa_pt": "É o conjunto de camadas de software necessárias para que um computador se conecte à internet e troque dados.",
     "kisa_es": "Es el conjunto de capas de software necesarias para que una computadora se conecte a Internet e intercambie datos.",
     "kisa_de": "Dies ist die Gesamtheit der Softwareschichten, die ein Computer benötigt, um eine Verbindung zum Internet herzustellen und Daten auszutauschen."
+  },
+  {
+    "slug": "offensive-security-skills",
+    "en": "Offensive Security Skills",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Sistemlerin açıklarını bulmak için saldırgan gibi düşünerek güvenlik testleri yapma yeteneğidir.",
+    "date": "2026-09-13",
+    "kisa_en": "It is the ability to perform security tests by thinking like an attacker to find vulnerabilities in systems.",
+    "kisa_fr": "C'est la capacité d'effectuer des tests de sécurité en pensant comme un attaquant afin de trouver les vulnérabilités des systèmes.",
+    "kisa_pt": "É a capacidade de realizar testes de segurança pensando como um atacante para encontrar vulnerabilidades em sistemas.",
+    "kisa_es": "Es la capacidad de realizar pruebas de seguridad pensando como un atacante para encontrar vulnerabilidades en los sistemas.",
+    "kisa_de": "Es ist die Fähigkeit, Sicherheitstests durchzuführen, indem man wie ein Angreifer denkt, um Schwachstellen in Systemen zu finden."
+  },
+  {
+    "slug": "zero-shot",
+    "en": "Zero-shot",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekânın hiç örnek görmediği bir görevi, sadece açıklama ile yerine getirebilme yeteneğidir.",
+    "date": "2026-09-13",
+    "kisa_en": "It is the ability of artificial intelligence to perform a task it has never seen an example of, using only a description.",
+    "kisa_fr": "C'est la capacité de l'intelligence artificielle à accomplir une tâche pour laquelle elle n'a jamais vu d'exemple, uniquement à partir d'une description.",
+    "kisa_pt": "É a capacidade da inteligência artificial de realizar uma tarefa que nunca viu antes, apenas com base em uma descrição.",
+    "kisa_es": "Es la capacidad de la inteligencia artificial para realizar una tarea que nunca antes había visto, basándose únicamente en una descripción.",
+    "kisa_de": "Es ist die Fähigkeit der künstlichen Intelligenz, eine Aufgabe, für die sie noch nie ein Beispiel gesehen hat, allein durch eine Beschreibung auszuführen."
+  },
+  {
+    "slug": "worktree",
+    "en": "Worktree",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Aynı proje klasörünü değiştirmeden, projenin farklı sürümleri üzerinde aynı anda çalışmanızı sağlayan bir yapıdır.",
+    "date": "2026-09-13",
+    "kisa_en": "It is a structure that allows you to work on different versions of a project simultaneously without changing the same project folder.",
+    "kisa_fr": "C'est une structure qui vous permet de travailler simultanément sur différentes versions d'un projet sans modifier le dossier de projet original.",
+    "kisa_pt": "É uma estrutura que permite trabalhar em diferentes versões do projeto simultaneamente, sem alterar a pasta original do projeto.",
+    "kisa_es": "Es una estructura que le permite trabajar en diferentes versiones de un proyecto simultáneamente sin cambiar la carpeta del proyecto original.",
+    "kisa_de": "Es ist eine Struktur, die es Ihnen ermöglicht, gleichzeitig an verschiedenen Versionen eines Projekts zu arbeiten, ohne den ursprünglichen Projektordner zu verändern."
   }
 ]

@@ -2,7 +2,7 @@
 
 Obsidian-skills enables artificial intelligence agents to perform operations on the note-taking application Obsidian using the command line interface (CLI) and open file formats. This tool automates personal information management by allowing agents to read and edit formats such as Markdown and JSON Canvas.
 
-- ★ 45,950
+- ★ 48,248
 - GitHub Trending · 2026-08-14
 
 ## What you get

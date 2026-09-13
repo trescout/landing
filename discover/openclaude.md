@@ -2,11 +2,12 @@
 
 OpenClaude, her türlü donanımda çalışabilen ve farklı veri kaynaklarını kullanabilen esnek bir yapay zekâ arayüzü. TypeScript diliyle geliştirilen bu açık kaynaklı proje, kullanıcıların kendi altyapıları üzerinde özelleştirilmiş yapay zekâ modelleri çalıştırmasına olanak tanıyor.
 
-- ★ 31.628
+- ★ 33.217
 - TypeScript
 - GitHub Trending · 2026-09-02
 
 ## Güncelleme
+- 13 Eylül 2026: Yıldız 31.628 → 33.217, son sürüm v0.30.0 (31 Ağustos 2026).
 - 2 Eylül 2026: Yıldız 31.625 → 31.628, son sürüm v0.30.0 (31 Ağustos 2026).
 
 ## Ne kazandırır?

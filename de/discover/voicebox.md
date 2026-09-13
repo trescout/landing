@@ -2,7 +2,7 @@
 
 Voicebox ist ein Open-Source-Sprachstudio mit künstlicher Intelligenz, das es Benutzern ermöglicht, Stimmen zu klonen, zu diktieren und Inhalte zu erstellen. Diese mit der TypeScript-Sprache entwickelte Plattform bietet umfassende Tools zur Verwaltung von Audioverarbeitungsprozessen in der nativen Umgebung.
 
-- ★ 50.505
+- ★ 53.088
 - TypeScript
 - GitHub Trending · 2026-06-21
 

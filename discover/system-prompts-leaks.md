@@ -2,11 +2,12 @@
 
 GitHub üzerinde paylaşılan system_prompts_leaks deposu, Anthropic, OpenAI, Google ve xAI gibi büyük teknoloji şirketlerinin yapay zekâ modellerine ait sistem istemlerini (system prompts) bir araya getiriyor. Bu derleme, popüler dil modellerinin arka planda çalışan yapılandırma talimatlarını ve kısıtlamalarını incelemek isteyen geliştiriciler için merkezi bir kaynak sunuyor.
 
-- ★ 61.968
+- ★ 65.657
 - JavaScript
 - GitHub Trending · 2026-06-22
 
 ## Güncelleme
+- 13 Eylül 2026: Yıldız 61.968 → 65.657.
 - 2 Ağustos 2026: Yıldız 44.809 → 61.968.
 
 ## Ne kazandırır?

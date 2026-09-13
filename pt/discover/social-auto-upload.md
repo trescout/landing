@@ -2,7 +2,7 @@
 
 social-auto-upload é uma ferramenta Python que envia automaticamente seus vídeos para plataformas de mídia social como TikTok, YouTube, Bilibili, Douyin e Xiaohongshu. Simplifica seus processos de distribuição de conteúdo multiplataforma.
 
-- ★ 13.937
+- ★ 14.937
 - Python
 - Lisans: yok
 - GitHub Trending · 30 May 2026

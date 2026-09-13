@@ -38,7 +38,7 @@ Sí, se pueden agregar nuevas capacidades a un modelo con la infraestructura y l
 - [Awesome Claude Skills](/es/discover/awesome-claude-skills/)
 - [OpenMontage](/es/discover/openmontage/)
 - [Awesome Claude Code](/es/discover/awesome-claude-code/)
-- [Academic Research Skills](/es/discover/academic-research-skills/)
+- [Obsidian Skills](/es/discover/obsidian-skills/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/ai-skills/

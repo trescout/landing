@@ -2,7 +2,7 @@
 
 OpenClaude ist eine flexible KI-Schnittstelle, die auf jeder Hardware läuft und verschiedene Datenquellen nutzen kann. Dieses in TypeScript entwickelte Open-Source-Projekt ermöglicht es Benutzern, maßgeschneiderte KI-Modelle auf ihrer eigenen Infrastruktur auszuführen.
 
-- ★ 31.628
+- ★ 33.217
 - TypeScript
 - GitHub Trending · 2026-09-02
 

@@ -40,7 +40,7 @@ The system usually gives errors, but there are also critical commands that requi
 - [Graphify](/en/discover/graphify/)
 - [TradingAgents](/en/discover/tradingagents/)
 - [Angular](/en/discover/angular/)
-- [Understand Anything](/en/discover/understand-anything/)
+- [Agent-Reach](/en/discover/agent-reach/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/cli/

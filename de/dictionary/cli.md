@@ -38,7 +38,7 @@ Normalerweise gibt das System Fehler aus, aber es gibt auch kritische Befehle, d
 - [Graphify](/de/discover/graphify/)
 - [TradingAgents](/de/discover/tradingagents/)
 - [Angular](/de/discover/angular/)
-- [Understand Anything](/de/discover/understand-anything/)
+- [Agent-Reach](/de/discover/agent-reach/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/cli/

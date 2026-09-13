@@ -38,7 +38,7 @@ El sistema suele dar errores, pero también hay comandos críticos que requieren
 - [Graphify](/es/discover/graphify/)
 - [TradingAgents](/es/discover/tradingagents/)
 - [Angular](/es/discover/angular/)
-- [Understand Anything](/es/discover/understand-anything/)
+- [Agent-Reach](/es/discover/agent-reach/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/cli/
