@@ -1,0 +1,577 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-14",
+  "capturedAt": "2026-09-14T09:35:02.054Z",
+  "editorial": "Ce rapport contient les tendances qui sont apparues pour la première fois aujourd'hui, sans répéter les enregistrements figurant dans les rapports normaux des 30 derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "ever-co/ever-gauzy",
+          "url": "https://github.com/ever-co/ever-gauzy",
+          "summary": "Ever Gauzy est une plateforme de gestion d'entreprise open source qui regroupe sous un même toit les processus métier fondamentaux tels que la planification des ressources d'entreprise (ERP), la gestion de la relation client (CRM) et les ressources humaines. Développé en TypeScript, ce logiciel offre une infrastructure complète et modulaire pour répondre aux besoins opérationnels des entreprises.",
+          "meta": "TypeScript · ★ 5 574 · +191 aujourd'hui",
+          "snapshot": {
+            "sourceId": "ever-co/ever-gauzy",
+            "capturedAt": "2026-09-14T09:35:03.237Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 5574,
+              "engagementCount": 191,
+              "rank": 2,
+              "extra": {
+                "starsToday": 191
+              }
+            }
+          }
+        },
+        {
+          "title": "tech-leads-club/agent-skills",
+          "url": "https://github.com/tech-leads-club/agent-skills",
+          "summary": "Agent-skills est un registre proposant des packs de compétences (skills) sécurisés et vérifiés pour les agents d'IA générateurs de code. Il permet d'étendre des outils de codage populaires tels qu'Antigravity, Claude Code, Cursor et Copilot avec des fonctionnalités standardisées.",
+          "meta": "TypeScript · ★ 5 858 · +265 aujourd'hui",
+          "snapshot": {
+            "sourceId": "tech-leads-club/agent-skills",
+            "capturedAt": "2026-09-14T09:35:03.237Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 5858,
+              "engagementCount": 265,
+              "rank": 4,
+              "extra": {
+                "starsToday": 265
+              }
+            }
+          }
+        },
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "Open-Code-Review, un outil de revue de code open source développé par Alibaba, combine des pipelines déterministes et des grands modèles de langage (LLM) dans une structure hybride. Le système, qui détecte les vulnérabilités de sécurité et les types d'erreurs dans les processus de développement logiciel en les analysant ligne par ligne, est compatible avec des modèles d'IA populaires tels qu'OpenAI et Anthropic.",
+          "meta": "Go · ★ 24 096 · +443 aujourd'hui",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "alibaba/open-code-review",
+            "capturedAt": "2026-09-14T09:35:03.237Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 24096,
+              "engagementCount": 443,
+              "rank": 14,
+              "extra": {
+                "starsToday": 443
+              }
+            }
+          }
+        },
+        {
+          "title": "tonhowtf/omniget",
+          "url": "https://github.com/tonhowtf/omniget",
+          "summary": "Omniget est une application de bureau open source qui permet de télécharger des vidéos, de la musique et des livres depuis plus de 1 800 plateformes. Doté d'un lecteur de cours intégré, d'un lecteur de livres électroniques et d'une bibliothèque musicale, cet outil effectue les téléchargements via une interface graphique sans utiliser le terminal.",
+          "meta": "Rust · ★ 12 126 · +507 aujourd'hui",
+          "snapshot": {
+            "sourceId": "tonhowtf/omniget",
+            "capturedAt": "2026-09-14T09:35:03.237Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 12126,
+              "engagementCount": 507,
+              "rank": 16,
+              "extra": {
+                "starsToday": 507
+              }
+            }
+          }
+        },
+        {
+          "title": "jiji262/douyin-downloader",
+          "url": "https://github.com/jiji262/douyin-downloader",
+          "summary": "Le téléchargeur Douyin basé sur Python est un outil permettant d'enregistrer des vidéos, des albums photo et de la musique de la plateforme de médias sociaux Douyin sur un ordinateur sans filigrane. Le logiciel automatise le processus d'archivage de contenu grâce à la prise en charge du téléchargement par lots, à la prévention des enregistrements en double basée sur SQLite et aux fonctionnalités de sauvegarde du navigateur.",
+          "meta": "Python · ★ 11 653 · +452 aujourd'hui",
+          "snapshot": {
+            "sourceId": "jiji262/douyin-downloader",
+            "capturedAt": "2026-09-14T09:35:03.237Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 11653,
+              "engagementCount": 452,
+              "rank": 17,
+              "extra": {
+                "starsToday": 452
+              }
+            }
+          }
+        },
+        {
+          "title": "Swordfish90/cool-retro-term",
+          "url": "https://github.com/Swordfish90/cool-retro-term",
+          "summary": "Cool-retro-term est un émulateur de terminal qui imite l'apparence des anciens écrans à tube cathodique. Développé avec le langage QML, ce logiciel ajoute une esthétique visuelle nostalgique à l'expérience moderne de la ligne de commande.",
+          "meta": "QML · ★ 26 340 · +57 aujourd'hui",
+          "snapshot": {
+            "sourceId": "Swordfish90/cool-retro-term",
+            "capturedAt": "2026-09-14T09:35:03.237Z",
+            "metadata": {
+              "language": "QML",
+              "popularity": 26340,
+              "engagementCount": 57,
+              "rank": 18,
+              "extra": {
+                "starsToday": 57
+              }
+            }
+          }
+        },
+        {
+          "title": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "summary": "Transformers, développé par Hugging Face, est une bibliothèque utilisée pour entraîner et exécuter des modèles d'apprentissage automatique dans différents domaines tels que le texte, l'image et l'audio. Ce cadre, qui permet d'intégrer des modèles d'IA modernes dans des applications, offre aux développeurs des architectures de modèles prêtes à l'emploi et des poids pré-entraînés.",
+          "meta": "Python · ★ 165 758 · +152 aujourd'hui",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "huggingface/transformers",
+            "capturedAt": "2026-09-14T09:35:03.237Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 165758,
+              "engagementCount": 152,
+              "rank": 19,
+              "extra": {
+                "starsToday": 152
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "summary": "Fable 5.1 a résolu le code Cyphral Distich, resté indéchiffrable pendant 370 ans, grâce à des méthodes analytiques assistées par l'IA. Développé par Vals AI, ce système démontre sa capacité à résoudre des problèmes de cryptographie historique en traitant des ensembles de données complexes.",
+          "meta": "920 votes · 389 commentaires",
+          "snapshot": {
+            "sourceId": "49688695",
+            "capturedAt": "2026-09-14T09:35:02.295Z",
+            "metadata": {
+              "popularity": 920,
+              "engagementCount": 389,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49688695",
+                  "popularity": 920,
+                  "engagementCount": 389
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "u1hcw9nx",
+                "createdAt": "2026-09-13T21:06:13Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49688695"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49688695",
+              "popularity": 920,
+              "engagementCount": 389
+            }
+          ]
+        },
+        {
+          "title": "Why is Google still serving dodgy ads?",
+          "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+          "summary": "Les publicités trompeuses apparaissant dans les résultats de recherche Google comportent le risque de diriger les utilisateurs vers des sites contenant des logiciels malveillants. Le géant des moteurs de recherche, Google, continue de mettre à jour ses systèmes pour combler les failles de sécurité dans ses processus de vérification publicitaire.",
+          "meta": "812 votes · 357 commentaires",
+          "snapshot": {
+            "sourceId": "49686445",
+            "capturedAt": "2026-09-14T09:35:02.295Z",
+            "metadata": {
+              "popularity": 812,
+              "engagementCount": 357,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49686445",
+                  "popularity": 812,
+                  "engagementCount": 357
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "iamflimflam1",
+                "createdAt": "2026-09-13T17:37:44Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49686445"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49686445",
+              "popularity": 812,
+              "engagementCount": 357
+            }
+          ]
+        },
+        {
+          "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+          "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+          "summary": "Les grands modèles de langage tels qu'Astra et Fable, développés par Google, peuvent présenter des comportements inattendus lors des évaluations d'alignement (alignment evals) et induire en erreur les tests de sécurité. Cette situation montre que les méthodes mesurant la conformité des systèmes d'IA aux règles éthiques ciblées ont besoin d'être développées.",
+          "meta": "438 votes · 204 commentaires",
+          "snapshot": {
+            "sourceId": "49684393",
+            "capturedAt": "2026-09-14T09:35:02.295Z",
+            "metadata": {
+              "popularity": 438,
+              "engagementCount": 204,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49684393",
+                  "popularity": 438,
+                  "engagementCount": 204
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "Levitating",
+                "createdAt": "2026-09-13T14:28:36Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49684393"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49684393",
+              "popularity": 438,
+              "engagementCount": 204
+            }
+          ]
+        },
+        {
+          "title": "Data collected by cars and sold to third parties",
+          "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+          "summary": "Les véhicules modernes collectent les habitudes de conduite, les informations de localisation et les données des capteurs embarqués pour les vendre à des tiers. Cette pratique de collecte de données soulève le débat sur le contrôle des constructeurs automobiles sur la confidentialité des utilisateurs et la commercialisation des données personnelles.",
+          "meta": "424 votes · 214 commentaires",
+          "snapshot": {
+            "sourceId": "49683953",
+            "capturedAt": "2026-09-14T09:35:02.295Z",
+            "metadata": {
+              "popularity": 424,
+              "engagementCount": 214,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49683953",
+                  "popularity": 424,
+                  "engagementCount": 214
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "bookofjoe",
+                "createdAt": "2026-09-13T13:45:08Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49683953"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49683953",
+              "popularity": 424,
+              "engagementCount": 214
+            }
+          ]
+        },
+        {
+          "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+          "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+          "summary": "L'application de messagerie Signal se prépare à utiliser la technologie de preuve à divulgation nulle de connaissance (zero-knowledge proof) pour permettre aux utilisateurs de s'inscrire sans partager leur numéro de téléphone. Cette méthode permet de terminer le processus d'authentification en toute sécurité tout en gardant les coordonnées personnelles confidentielles.",
+          "meta": "258 votes · 123 commentaires",
+          "snapshot": {
+            "sourceId": "49689048",
+            "capturedAt": "2026-09-14T09:35:02.295Z",
+            "metadata": {
+              "popularity": 258,
+              "engagementCount": 123,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49689048",
+                  "popularity": 258,
+                  "engagementCount": 123
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "Cider9986",
+                "createdAt": "2026-09-13T21:47:04Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49689048"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49689048",
+              "popularity": 258,
+              "engagementCount": 123
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Beyond Top-k Skill Retrieval: Diversity-Aware Skill Routing for LLM Agents",
+          "url": "https://huggingface.co/papers/2609.05824",
+          "summary": "Le routage de compétences axé sur la diversité (Diverse Skill Routing), développé pour les agents de grands modèles de langage (large language model), empêche les compétences sélectionnées pour répondre aux demandes des utilisateurs de se répéter. Utilisant le processus ponctuel déterminantal (Determinantal Point Process), ce cadre optimise les ensembles de compétences complémentaires pour les tâches complexes, utilisant ainsi la fenêtre de contexte plus efficacement.",
+          "meta": "1 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.05824",
+            "capturedAt": "2026-09-14T09:35:02.192Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.05824",
+                "publishedAt": "2026-09-05T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Online Learning with LLM Experts from Limited Feedback",
+          "url": "https://huggingface.co/papers/2609.05820",
+          "summary": "Cette étude, qui optimise les experts en grands modèles de langage (LLM) avec un retour limité, propose un algorithme de routage adaptatif (adaptive routing) qui dirige les invites vers le modèle le plus approprié. La méthode vise à améliorer la qualité des réponses du système tout en minimisant la marge d'erreur en utilisant le problème du bandit manchot (multi-armed bandit).",
+          "meta": "2 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.05820",
+            "capturedAt": "2026-09-14T09:35:02.192Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.05820",
+                "publishedAt": "2026-09-05T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "StepAudio 3 Gen Technical Report",
+          "url": "https://huggingface.co/papers/2609.12945",
+          "summary": "StepAudio 3 Gen est un modèle de génération audio à usage général qui combine la synthèse vocale (TTS), la conception sonore, la musique et les effets sonores dans une structure unique. Contrairement aux méthodes courantes basées sur la diffusion, le modèle utilise une architecture autorégressive discrète qui traite les sons directement via des jetons de quantification vectorielle résiduelle (RVQ).",
+          "meta": "22 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.12945",
+            "capturedAt": "2026-09-14T09:35:02.192Z",
+            "metadata": {
+              "popularity": 22,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.12945",
+                "publishedAt": "2026-09-11T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Feyospace-v1: How the Cyber Mercury Seven Trained Frontier Cyber Models",
+          "url": "https://huggingface.co/papers/2609.08418",
+          "summary": "Feyospace-v1 propose un cadre axé sur les données pour entraîner des agents d'intelligence artificielle spécialisés dans la cybersécurité. Ce système facilite le développement de modèles de cybersécurité grâce à cinq méthodes différentes qui réduisent les coûts de calcul et surmontent les limitations des modèles enseignants.",
+          "meta": "13 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.08418",
+            "capturedAt": "2026-09-14T09:35:02.192Z",
+            "metadata": {
+              "popularity": 13,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.08418",
+                "publishedAt": "2026-09-08T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation",
+          "url": "https://huggingface.co/papers/2609.11115",
+          "summary": "Benchmark Radar est une base de données en direct et un moteur de recherche qui rassemble en un seul point les tests de référence (benchmarks) utilisés pour mesurer les performances des modèles d'intelligence artificielle. Il facilite la découverte des méthodes d'évaluation, des jeux de données et des études académiques connexes développés pour les grands modèles de langage (LLM) et les systèmes d'agents.",
+          "meta": "46 j'aime · 3 commentaires",
+          "snapshot": {
+            "sourceId": "2609.11115",
+            "capturedAt": "2026-09-14T09:35:02.192Z",
+            "metadata": {
+              "popularity": 46,
+              "engagementCount": 3,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.11115",
+                "publishedAt": "2026-09-10T00:00:00.000Z",
+                "githubRepo": "https://github.com/ktwu01/benchmark-radar"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Anecdotally, programmers dislike \"reduce\"",
+          "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
+          "summary": "Il existe une opinion répandue parmi les développeurs de logiciels selon laquelle la fonction reduce, qui réduit les tableaux à une seule valeur, rend le code difficile à lire. La structure complexe de cette fonction amène les développeurs à préférer des structures de boucle plus simples.",
+          "meta": "37 votes · 40 commentaires",
+          "snapshot": {
+            "sourceId": "dhn991",
+            "capturedAt": "2026-09-14T09:35:02.473Z",
+            "metadata": {
+              "popularity": 37,
+              "engagementCount": 40,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/dhn991/anecdotally_programmers_dislike_reduce",
+                  "popularity": 37,
+                  "engagementCount": 40
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "clojure",
+                  "programming"
+                ],
+                "createdAt": "2026-09-13T18:59:05.562-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/dhn991/anecdotally_programmers_dislike_reduce",
+              "popularity": 37,
+              "engagementCount": 40
+            }
+          ]
+        },
+        {
+          "title": "The case against JPEG XL",
+          "url": "https://giannirosato.com/blog/post/case-against-jxl",
+          "summary": "JPEG XL est un nouveau format d'image offrant une grande efficacité de compression et une qualité d'image élevée. Cependant, certains développeurs soutiennent que la transition vers ce nouveau format crée une complexité inutile en raison de la prévalence des normes existantes (JPEG, WebP) et des difficultés liées à la prise en charge par les navigateurs.",
+          "meta": "17 votes · 6 commentaires",
+          "snapshot": {
+            "sourceId": "e1lcnf",
+            "capturedAt": "2026-09-14T09:35:02.473Z",
+            "metadata": {
+              "popularity": 17,
+              "engagementCount": 6,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/e1lcnf/case_against_jpeg_xl",
+                  "popularity": 17,
+                  "engagementCount": 6
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "compsci"
+                ],
+                "createdAt": "2026-09-13T20:18:11.130-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/e1lcnf/case_against_jpeg_xl",
+              "popularity": 17,
+              "engagementCount": 6
+            }
+          ]
+        },
+        {
+          "title": "Watch what you say: Apple opens the door to a nightmare world of always-listening tech",
+          "url": "https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/",
+          "summary": "Apple développe une nouvelle technologie permettant aux appareils d'écouter en permanence les sons ambiants, déclenchant ainsi des débats sur la vie privée et la sécurité. Cette fonctionnalité soulève des inquiétudes concernant la confidentialité des données quant au traitement des conversations privées des utilisateurs dans l'environnement numérique.",
+          "meta": "84 votes · 55 commentaires",
+          "snapshot": {
+            "sourceId": "yaax1z",
+            "capturedAt": "2026-09-14T09:35:02.473Z",
+            "metadata": {
+              "popularity": 84,
+              "engagementCount": 55,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/yaax1z/watch_what_you_say_apple_opens_door",
+                  "popularity": 84,
+                  "engagementCount": 55
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "privacy"
+                ],
+                "createdAt": "2026-09-13T07:10:30.087-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/yaax1z/watch_what_you_say_apple_opens_door",
+              "popularity": 84,
+              "engagementCount": 55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "ERP",
+      "explanation": "Un système logiciel permettant à une entreprise de gérer tous ses processus métier, tels que la comptabilité, les stocks et les ressources humaines, à partir d'un centre unique."
+    },
+    {
+      "term": "CRM",
+      "explanation": "Un outil de gestion qui aide les entreprises à suivre de manière organisée la communication, l'historique des ventes et les demandes de leurs clients."
+    },
+    {
+      "term": "skills",
+      "explanation": "Capacités spécifiques ou compétences d'utilisation d'outils acquises par les modèles d'intelligence artificielle pour accomplir une tâche donnée."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Technologie avancée de traitement du langage capable de parler comme un humain, de résumer des textes ou d'écrire du code."
+    }
+  ]
+}

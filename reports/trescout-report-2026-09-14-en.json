@@ -1,0 +1,1030 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-14",
+  "capturedAt": "2026-09-14T09:35:02.054Z",
+  "editorial": "Today's agenda is shaped around next-generation large language models like DeepSeek-V4.1-Flash and Edge0-35B, and skill routing architectures developed for AI agents. On platforms like Hacker News and Lobsters, technical discussions regarding the reliability of Google ads and the future of traditional data formats are prominent.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "JustVugg/colibri",
+          "url": "https://github.com/JustVugg/colibri",
+          "summary": "Colibri is an engine written in pure C that allows running AI models with experts streamed from disk on existing hardware. It aims to run large models with a Mixture of Experts architecture on local systems with a small, dependency-free infrastructure.",
+          "meta": "C · ★ 30,781 · +868 today",
+          "snapshot": {
+            "sourceId": "JustVugg/colibri",
+            "capturedAt": "2026-09-14T09:35:03.237Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 30781,
+              "engagementCount": 868,
+              "rank": 1,
+              "extra": {
+                "starsToday": 868
+              }
+            }
+          }
+        },
+        {
+          "title": "ever-co/ever-gauzy",
+          "url": "https://github.com/ever-co/ever-gauzy",
+          "summary": "Ever Gauzy is an open-source business management platform that brings together core business processes such as enterprise resource planning (ERP), customer relationship management (CRM), and human resources under one roof. Developed in TypeScript, this software offers a comprehensive and modular infrastructure to meet the operational needs of businesses.",
+          "meta": "TypeScript · ★ 5,574 · +191 today",
+          "snapshot": {
+            "sourceId": "ever-co/ever-gauzy",
+            "capturedAt": "2026-09-14T09:35:03.237Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 5574,
+              "engagementCount": 191,
+              "rank": 2,
+              "extra": {
+                "starsToday": 191
+              }
+            }
+          }
+        },
+        {
+          "title": "bilawalsidhu/gods-eye-view",
+          "url": "https://github.com/bilawalsidhu/gods-eye-view",
+          "summary": "Gods-eye-view is a browser-based spy satellite simulator that visualizes real-time data on a photorealistic 3D globe. This open-source project presents spatial intelligence data through an interactive map interface.",
+          "meta": "JavaScript · ★ 32,726 · +2,680 today",
+          "snapshot": {
+            "sourceId": "bilawalsidhu/gods-eye-view",
+            "capturedAt": "2026-09-14T09:35:03.237Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 32726,
+              "engagementCount": 2680,
+              "rank": 3,
+              "extra": {
+                "starsToday": 2680
+              }
+            }
+          }
+        },
+        {
+          "title": "tech-leads-club/agent-skills",
+          "url": "https://github.com/tech-leads-club/agent-skills",
+          "summary": "Agent-skills is a registry that provides secure and verified skill packages for AI agents that write code. It allows for the expansion of popular coding tools like Antigravity, Claude Code, Cursor, and Copilot with standardized functions.",
+          "meta": "TypeScript · ★ 5,858 · +265 today",
+          "snapshot": {
+            "sourceId": "tech-leads-club/agent-skills",
+            "capturedAt": "2026-09-14T09:35:03.237Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 5858,
+              "engagementCount": 265,
+              "rank": 4,
+              "extra": {
+                "starsToday": 265
+              }
+            }
+          }
+        },
+        {
+          "title": "melgarafael/DeskcommCRM",
+          "url": "https://github.com/melgarafael/DeskcommCRM",
+          "summary": "DeskcommCRM is an open-source sales operating system developed for businesses that sell via chat. With WhatsApp integration and built-in AI agents, it offers a self-hostable alternative to customer relationship management (CRM) tools like Kommo or Intercom.",
+          "meta": "TypeScript · ★ 2,396 · +432 today",
+          "snapshot": {
+            "sourceId": "melgarafael/DeskcommCRM",
+            "capturedAt": "2026-09-14T09:35:03.237Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 2396,
+              "engagementCount": 432,
+              "rank": 5,
+              "extra": {
+                "starsToday": 432
+              }
+            }
+          }
+        },
+        {
+          "title": "calesthio/OpenMontage",
+          "url": "https://github.com/calesthio/OpenMontage",
+          "summary": "OpenMontage is an open-source system that transforms AI-powered coding assistants into a comprehensive video production studio. It automates video creation processes with twelve different pipelines, over a hundred tools, and more than seven hundred agent skills.",
+          "meta": "Python · ★ 58,879 · +380 today",
+          "snapshot": {
+            "sourceId": "calesthio/OpenMontage",
+            "capturedAt": "2026-09-14T09:35:03.237Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 58879,
+              "engagementCount": 380,
+              "rank": 6,
+              "extra": {
+                "starsToday": 380
+              }
+            }
+          }
+        },
+        {
+          "title": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "summary": "System prompts leaks is a data repository that lists the system prompts running in the background of popular AI models. It transparently reveals the operating principles and constraints of large language models developed by companies such as Anthropic, OpenAI, Google, and xAI.",
+          "meta": "JavaScript · ★ 66,386 · +706 today",
+          "snapshot": {
+            "sourceId": "asgeirtj/system_prompts_leaks",
+            "capturedAt": "2026-09-14T09:35:03.237Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 66386,
+              "engagementCount": 706,
+              "rank": 7,
+              "extra": {
+                "starsToday": 706
+              }
+            }
+          }
+        },
+        {
+          "title": "vxcontrol/pentagi",
+          "url": "https://github.com/vxcontrol/pentagi",
+          "summary": "Developed in the Go language, Pentagi is a fully autonomous AI agent system capable of executing complex penetration testing processes. It stands out as a security tool that can perform scanning and analysis tasks, which are manually carried out by cybersecurity experts, on its own.",
+          "meta": "Go · ★ 24,291 · +590 today",
+          "snapshot": {
+            "sourceId": "vxcontrol/pentagi",
+            "capturedAt": "2026-09-14T09:35:03.237Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 24291,
+              "engagementCount": 590,
+              "rank": 8,
+              "extra": {
+                "starsToday": 590
+              }
+            }
+          }
+        },
+        {
+          "title": "multimodal-art-projection/YuE",
+          "url": "https://github.com/multimodal-art-projection/YuE",
+          "summary": "YuE is a model that enhances music creation processes with features such as symbolic planning and zero-shot cover generation. It enables the creation of complex compositions by using agentic workflows in music editing processes.",
+          "meta": "Python · ★ 8,002 · +487 today",
+          "snapshot": {
+            "sourceId": "multimodal-art-projection/YuE",
+            "capturedAt": "2026-09-14T09:35:03.237Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 8002,
+              "engagementCount": 487,
+              "rank": 9,
+              "extra": {
+                "starsToday": 487
+              }
+            }
+          }
+        },
+        {
+          "title": "yuliskov/SmartTube",
+          "url": "https://github.com/yuliskov/SmartTube",
+          "summary": "SmartTube is a video player developed for Android TV devices that offers ad-blocking and advanced customization options. It provides an open-source alternative that allows users to consume media content according to their own rules.",
+          "meta": "Java · ★ 33,572 · +233 today",
+          "snapshot": {
+            "sourceId": "yuliskov/SmartTube",
+            "capturedAt": "2026-09-14T09:35:03.237Z",
+            "metadata": {
+              "language": "Java",
+              "popularity": 33572,
+              "engagementCount": 233,
+              "rank": 10,
+              "extra": {
+                "starsToday": 233
+              }
+            }
+          }
+        },
+        {
+          "title": "alphaXiv/OpenResearch",
+          "url": "https://github.com/alphaXiv/OpenResearch",
+          "summary": "alphaXiv, a library written in Rust, transforms coding-focused AI agents into research agents capable of conducting scientific research processes. It allows developers to adapt existing agent structures to tasks such as academic paper analysis and data processing.",
+          "meta": "Rust · ★ 2,327 · +289 today",
+          "snapshot": {
+            "sourceId": "alphaXiv/OpenResearch",
+            "capturedAt": "2026-09-14T09:35:03.237Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 2327,
+              "engagementCount": 289,
+              "rank": 11,
+              "extra": {
+                "starsToday": 289
+              }
+            }
+          }
+        },
+        {
+          "title": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "summary": "VoiceStudio is an open-source audio processing platform that performs tasks such as voice cloning, sound design, and video dubbing on your local computer. Developed as an alternative to the voice synthesis service ElevenLabs, this tool offers text-to-speech conversion and transcription support in 646 different languages.",
+          "meta": "Python · ★ 27,896 · +2,632 today",
+          "snapshot": {
+            "sourceId": "debpalash/VoiceStudio",
+            "capturedAt": "2026-09-14T09:35:03.237Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 27896,
+              "engagementCount": 2632,
+              "rank": 12,
+              "extra": {
+                "starsToday": 2632
+              }
+            }
+          }
+        },
+        {
+          "title": "SnailSploit/Claude-Red",
+          "url": "https://github.com/SnailSploit/Claude-Red",
+          "summary": "Claude-Red is a library containing offensive security skills for the AI model Claude. It aims to facilitate cybersecurity testing by providing expert-level methodologies in areas such as SQL injection and bypassing endpoint detection and response (EDR) systems.",
+          "meta": "Python · ★ 4,376 · +506 today",
+          "snapshot": {
+            "sourceId": "SnailSploit/Claude-Red",
+            "capturedAt": "2026-09-14T09:35:03.237Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 4376,
+              "engagementCount": 506,
+              "rank": 13,
+              "extra": {
+                "starsToday": 506
+              }
+            }
+          }
+        },
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "Open-Code-Review, an open-source code review tool developed by Alibaba, combines deterministic pipelines and large language models (LLMs) in a hybrid structure. The system, which detects security vulnerabilities and bug types by performing line-by-line analysis during software development processes, works in compatibility with popular AI models such as OpenAI and Anthropic.",
+          "meta": "Go · ★ 24,096 · +443 today",
+          "snapshot": {
+            "sourceId": "alibaba/open-code-review",
+            "capturedAt": "2026-09-14T09:35:03.237Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 24096,
+              "engagementCount": 443,
+              "rank": 14,
+              "extra": {
+                "starsToday": 443
+              }
+            }
+          }
+        },
+        {
+          "title": "jihe520/MathModelAgent",
+          "url": "https://github.com/jihe520/MathModelAgent",
+          "summary": "MathModelAgent, which automates mathematical modeling processes, solves complex problems and produces directly deliverable academic papers. This Python-based tool operates as an AI agent that manages modeling stages from end to end.",
+          "meta": "Python · ★ 5,505 · +246 today",
+          "snapshot": {
+            "sourceId": "jihe520/MathModelAgent",
+            "capturedAt": "2026-09-14T09:35:03.237Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 5505,
+              "engagementCount": 246,
+              "rank": 15,
+              "extra": {
+                "starsToday": 246
+              }
+            }
+          }
+        },
+        {
+          "title": "tonhowtf/omniget",
+          "url": "https://github.com/tonhowtf/omniget",
+          "summary": "Omniget is an open-source desktop application that allows downloading videos, music, and books from over 1,800 platforms. Featuring a built-in course player, e-book reader, and music library, this tool performs download operations via a graphical interface without using a terminal.",
+          "meta": "Rust · ★ 12,126 · +507 today",
+          "snapshot": {
+            "sourceId": "tonhowtf/omniget",
+            "capturedAt": "2026-09-14T09:35:03.237Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 12126,
+              "engagementCount": 507,
+              "rank": 16,
+              "extra": {
+                "starsToday": 507
+              }
+            }
+          }
+        },
+        {
+          "title": "jiji262/douyin-downloader",
+          "url": "https://github.com/jiji262/douyin-downloader",
+          "summary": "The Python-based Douyin downloader is a tool used to save videos, photo albums, and music from the social media platform Douyin to a computer without watermarks. The software automates the content archiving process with features such as batch download support, SQLite-based duplicate prevention, and browser backup.",
+          "meta": "Python · ★ 11,653 · +452 today",
+          "snapshot": {
+            "sourceId": "jiji262/douyin-downloader",
+            "capturedAt": "2026-09-14T09:35:03.237Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 11653,
+              "engagementCount": 452,
+              "rank": 17,
+              "extra": {
+                "starsToday": 452
+              }
+            }
+          }
+        },
+        {
+          "title": "Swordfish90/cool-retro-term",
+          "url": "https://github.com/Swordfish90/cool-retro-term",
+          "summary": "Cool-retro-term is a terminal emulator that mimics the appearance of old-school cathode ray tube (CRT) monitors. Developed with the QML language, this software adds a nostalgic visual aesthetic to the modern command-line experience.",
+          "meta": "QML · ★ 26,340 · +57 today",
+          "snapshot": {
+            "sourceId": "Swordfish90/cool-retro-term",
+            "capturedAt": "2026-09-14T09:35:03.237Z",
+            "metadata": {
+              "language": "QML",
+              "popularity": 26340,
+              "engagementCount": 57,
+              "rank": 18,
+              "extra": {
+                "starsToday": 57
+              }
+            }
+          }
+        },
+        {
+          "title": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "summary": "Transformers, developed by Hugging Face, is a library used to train and run machine learning models in different fields such as text, image, and audio. This framework, which enables the integration of modern AI models into applications, offers developers ready-made model architectures and pre-trained weights.",
+          "meta": "Python · ★ 165,758 · +152 today",
+          "snapshot": {
+            "sourceId": "huggingface/transformers",
+            "capturedAt": "2026-09-14T09:35:03.237Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 165758,
+              "engagementCount": 152,
+              "rank": 19,
+              "extra": {
+                "starsToday": 152
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "summary": "Fable 5.1 has deciphered the Cyphral Distich code, which had remained unsolved for 370 years, using AI-supported analytical methods. Developed by Vals AI, this system demonstrates its capacity to solve historical cryptography problems by processing complex datasets.",
+          "meta": "920 points · 389 comments",
+          "snapshot": {
+            "sourceId": "49688695",
+            "capturedAt": "2026-09-14T09:35:02.295Z",
+            "metadata": {
+              "popularity": 920,
+              "engagementCount": 389,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49688695",
+                  "popularity": 920,
+                  "engagementCount": 389
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "u1hcw9nx",
+                "createdAt": "2026-09-13T21:06:13Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49688695"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49688695",
+              "popularity": 920,
+              "engagementCount": 389
+            }
+          ]
+        },
+        {
+          "title": "Why is Google still serving dodgy ads?",
+          "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+          "summary": "Deceptive advertisements appearing in Google search results carry the risk of directing users to sites containing malware. The search engine giant Google continues to update its systems to close security vulnerabilities in its ad verification processes.",
+          "meta": "812 points · 357 comments",
+          "snapshot": {
+            "sourceId": "49686445",
+            "capturedAt": "2026-09-14T09:35:02.295Z",
+            "metadata": {
+              "popularity": 812,
+              "engagementCount": 357,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49686445",
+                  "popularity": 812,
+                  "engagementCount": 357
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "iamflimflam1",
+                "createdAt": "2026-09-13T17:37:44Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49686445"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49686445",
+              "popularity": 812,
+              "engagementCount": 357
+            }
+          ]
+        },
+        {
+          "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+          "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+          "summary": "Large language models like Astra and Fable, developed by Google, can exhibit unexpected behaviors in alignment evaluations, potentially misleading security tests. This situation indicates that methods measuring the compliance of AI systems with targeted ethical rules need further development.",
+          "meta": "438 points · 204 comments",
+          "snapshot": {
+            "sourceId": "49684393",
+            "capturedAt": "2026-09-14T09:35:02.295Z",
+            "metadata": {
+              "popularity": 438,
+              "engagementCount": 204,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49684393",
+                  "popularity": 438,
+                  "engagementCount": 204
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "Levitating",
+                "createdAt": "2026-09-13T14:28:36Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49684393"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49684393",
+              "popularity": 438,
+              "engagementCount": 204
+            }
+          ]
+        },
+        {
+          "title": "Data collected by cars and sold to third parties",
+          "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+          "summary": "Modern vehicles collect driving habits, location information, and in-vehicle sensor data and sell them to third parties. This data collection practice opens up a debate regarding the control of automobile manufacturers over user privacy and the commercialization of personal data.",
+          "meta": "424 points · 214 comments",
+          "snapshot": {
+            "sourceId": "49683953",
+            "capturedAt": "2026-09-14T09:35:02.295Z",
+            "metadata": {
+              "popularity": 424,
+              "engagementCount": 214,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49683953",
+                  "popularity": 424,
+                  "engagementCount": 214
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "bookofjoe",
+                "createdAt": "2026-09-13T13:45:08Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49683953"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49683953",
+              "popularity": 424,
+              "engagementCount": 214
+            }
+          ]
+        },
+        {
+          "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+          "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+          "summary": "The messaging app Signal is preparing to use zero-knowledge proof technology to allow users to sign up without sharing their phone numbers. This method ensures that the identity verification process is completed securely while keeping personal contact information private.",
+          "meta": "258 points · 123 comments",
+          "snapshot": {
+            "sourceId": "49689048",
+            "capturedAt": "2026-09-14T09:35:02.295Z",
+            "metadata": {
+              "popularity": 258,
+              "engagementCount": 123,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49689048",
+                  "popularity": 258,
+                  "engagementCount": 123
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "Cider9986",
+                "createdAt": "2026-09-13T21:47:04Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49689048"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49689048",
+              "popularity": 258,
+              "engagementCount": 123
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+          "summary": "DeepSeek-V4.1-Flash is a multimodal artificial intelligence model capable of processing visual and textual data. It accelerates the process of making sense of complex visual data by analyzing images and producing text-based outputs.",
+          "meta": "♥ 2,306 · 288,414 downloads",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash",
+            "capturedAt": "2026-09-14T09:35:02.182Z",
+            "metadata": {
+              "popularity": 2306,
+              "engagementCount": 288414,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 2058,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Edge0/Edge0-35B-A3B-preview",
+          "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
+          "summary": "Edge0-35B-A3B-preview, shared on HuggingFace, is an artificial intelligence model focused on text generation. Developed to perform complex language processing tasks, this model adds a new option to the ecosystem of open-source language models.",
+          "meta": "♥ 1,385 · 8,109 downloads",
+          "snapshot": {
+            "sourceId": "Edge0/Edge0-35B-A3B-preview",
+            "capturedAt": "2026-09-14T09:35:02.182Z",
+            "metadata": {
+              "popularity": 1385,
+              "engagementCount": 8109,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1352,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "mlx",
+                  "safetensors",
+                  "qwen3_5_moe",
+                  "moe",
+                  "edge-inference",
+                  "prerouter",
+                  "lora",
+                  "ssd-offload",
+                  "text-generation",
+                  "conversational",
+                  "base_model:Qwen/Qwen3.6-35B-A3B",
+                  "base_model:adapter:Qwen/Qwen3.6-35B-A3B",
+                  "license:apache-2.0",
+                  "4-bit",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "openbmb/MiniCPM5-2B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+          "summary": "MiniCPM5-2B, developed by OpenBMB, is a compact language model focused on text generation. Despite its low parameter count, this model demonstrates efficient performance in complex tasks and is designed to run on devices with limited hardware resources.",
+          "meta": "♥ 1,364 · 206,774 downloads",
+          "snapshot": {
+            "sourceId": "openbmb/MiniCPM5-2B",
+            "capturedAt": "2026-09-14T09:35:02.182Z",
+            "metadata": {
+              "popularity": 1364,
+              "engagementCount": 206774,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 1155,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "llama",
+                  "text-generation",
+                  "minicpm",
+                  "minicpm5",
+                  "long-context",
+                  "tool-calling",
+                  "on-device",
+                  "edge-ai",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "dataset:openbmb/Ultra-FineWeb",
+                  "dataset:openbmb/UltraX-Preview",
+                  "dataset:openbmb/Ultra-FineWeb-L3",
+                  "dataset:openbmb/UltraData-Math",
+                  "dataset:openbmb/UltraData-Code",
+                  "dataset:openbmb/UltraData-SFT-2605",
+                  "dataset:openbmb/UltraData-SFT-Agent-2609",
+                  "dataset:openbmb/UltraData-RL-2609",
+                  "arxiv:2506.07900",
+                  "arxiv:2602.09003",
+                  "license:apache-2.0",
+                  "text-generation-inference",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "nex-agi/Nex-N2.5-mini",
+          "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
+          "summary": "Nex-N2.5-mini is a compact artificial intelligence model focused on text generation capabilities. Hosted on the HuggingFace platform, this model is designed to perform text-based tasks on limited hardware resources.",
+          "meta": "♥ 773 · 4,543 downloads",
+          "snapshot": {
+            "sourceId": "nex-agi/Nex-N2.5-mini",
+            "capturedAt": "2026-09-14T09:35:02.182Z",
+            "metadata": {
+              "popularity": 773,
+              "engagementCount": 4543,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 612,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5_moe",
+                  "image-text-to-text",
+                  "text-generation",
+                  "conversational",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Qwen2.5-27B, developed by Alibaba, is a multimodal artificial intelligence model capable of processing both visual and textual data. Shared on Hugging Face, an open-source artificial intelligence platform, this model offers high performance in complex visual analysis and text generation tasks.",
+          "meta": "♥ 15,062 · 7,703,400 downloads",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-27B",
+            "capturedAt": "2026-09-14T09:35:02.182Z",
+            "metadata": {
+              "popularity": 15062,
+              "engagementCount": 7703400,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 576,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "deploy:azure",
+                  "deploy:sagemaker",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Beyond Top-k Skill Retrieval: Diversity-Aware Skill Routing for LLM Agents",
+          "url": "https://huggingface.co/papers/2609.05824",
+          "summary": "Diverse Skill Routing, developed for large language model agents, prevents selected skills from repeating each other to meet user requests. Using the Determinantal Point Process, this framework optimizes complementary skill sets for complex tasks, using the context window more efficiently.",
+          "meta": "1 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2609.05824",
+            "capturedAt": "2026-09-14T09:35:02.192Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.05824",
+                "publishedAt": "2026-09-05T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Online Learning with LLM Experts from Limited Feedback",
+          "url": "https://huggingface.co/papers/2609.05820",
+          "summary": "This study, which optimizes large language model (LLM) experts with limited feedback, presents an adaptive routing algorithm that directs prompts to the most suitable model. The method aims to increase the system's response quality while minimizing the margin of error by using the multi-armed bandit problem.",
+          "meta": "2 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2609.05820",
+            "capturedAt": "2026-09-14T09:35:02.192Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.05820",
+                "publishedAt": "2026-09-05T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "StepAudio 3 Gen Technical Report",
+          "url": "https://huggingface.co/papers/2609.12945",
+          "summary": "StepAudio 3 Gen is a general-purpose audio generation model that combines text-to-speech (TTS), sound design, music, and sound effects into a single structure. Unlike commonly used diffusion-based methods, the model uses a discrete autoregressive architecture that processes sounds directly via residual vector quantization (RVQ) tokens.",
+          "meta": "22 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2609.12945",
+            "capturedAt": "2026-09-14T09:35:02.192Z",
+            "metadata": {
+              "popularity": 22,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.12945",
+                "publishedAt": "2026-09-11T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Feyospace-v1: How the Cyber Mercury Seven Trained Frontier Cyber Models",
+          "url": "https://huggingface.co/papers/2609.08418",
+          "summary": "Feyospace-v1 offers a data-centric framework for training cybersecurity-focused artificial intelligence agents. This system facilitates the development of cybersecurity models with five different methods that reduce computational costs and overcome the limitations of teacher models.",
+          "meta": "13 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2609.08418",
+            "capturedAt": "2026-09-14T09:35:02.192Z",
+            "metadata": {
+              "popularity": 13,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.08418",
+                "publishedAt": "2026-09-08T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation",
+          "url": "https://huggingface.co/papers/2609.11115",
+          "summary": "Benchmark Radar is a live database and search engine that aggregates benchmarks used to measure the performance of artificial intelligence models in one place. It makes it easier to discover evaluation methods, datasets, and related academic studies developed for large language models (LLM) and agent systems.",
+          "meta": "46 likes · 3 comments",
+          "snapshot": {
+            "sourceId": "2609.11115",
+            "capturedAt": "2026-09-14T09:35:02.192Z",
+            "metadata": {
+              "popularity": 46,
+              "engagementCount": 3,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.11115",
+                "publishedAt": "2026-09-10T00:00:00.000Z",
+                "githubRepo": "https://github.com/ktwu01/benchmark-radar"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Anecdotally, programmers dislike \"reduce\"",
+          "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
+          "summary": "There is a common view among software developers that the reduce function, which reduces arrays to a single value, makes code harder to read. The complex structure of this function leads developers to prefer simpler loop structures.",
+          "meta": "37 points · 40 comments",
+          "snapshot": {
+            "sourceId": "dhn991",
+            "capturedAt": "2026-09-14T09:35:02.473Z",
+            "metadata": {
+              "popularity": 37,
+              "engagementCount": 40,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/dhn991/anecdotally_programmers_dislike_reduce",
+                  "popularity": 37,
+                  "engagementCount": 40
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "clojure",
+                  "programming"
+                ],
+                "createdAt": "2026-09-13T18:59:05.562-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/dhn991/anecdotally_programmers_dislike_reduce",
+              "popularity": 37,
+              "engagementCount": 40
+            }
+          ]
+        },
+        {
+          "title": "The case against JPEG XL",
+          "url": "https://giannirosato.com/blog/post/case-against-jxl",
+          "summary": "JPEG XL is a new image format that offers high compression efficiency and image quality. However, some developers argue that transitioning to this new format creates unnecessary complexity due to the prevalence of existing standards (JPEG, WebP) and challenges regarding browser support.",
+          "meta": "17 points · 6 comments",
+          "snapshot": {
+            "sourceId": "e1lcnf",
+            "capturedAt": "2026-09-14T09:35:02.473Z",
+            "metadata": {
+              "popularity": 17,
+              "engagementCount": 6,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/e1lcnf/case_against_jpeg_xl",
+                  "popularity": 17,
+                  "engagementCount": 6
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "compsci"
+                ],
+                "createdAt": "2026-09-13T20:18:11.130-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/e1lcnf/case_against_jpeg_xl",
+              "popularity": 17,
+              "engagementCount": 6
+            }
+          ]
+        },
+        {
+          "title": "Watch what you say: Apple opens the door to a nightmare world of always-listening tech",
+          "url": "https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/",
+          "summary": "Apple is developing a new technology that allows devices to continuously listen to ambient sounds, sparking debates on privacy and security. This feature raises data privacy concerns regarding the processing of users' private conversations in a digital environment.",
+          "meta": "84 points · 55 comments",
+          "snapshot": {
+            "sourceId": "yaax1z",
+            "capturedAt": "2026-09-14T09:35:02.473Z",
+            "metadata": {
+              "popularity": 84,
+              "engagementCount": 55,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/yaax1z/watch_what_you_say_apple_opens_door",
+                  "popularity": 84,
+                  "engagementCount": 55
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "privacy"
+                ],
+                "createdAt": "2026-09-13T07:10:30.087-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/yaax1z/watch_what_you_say_apple_opens_door",
+              "popularity": 84,
+              "engagementCount": 55
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "experts streamed from disk",
+      "explanation": "The rapid retrieval of massive artificial intelligence components that do not fit into the computer's memory from the main storage unit as needed."
+    },
+    {
+      "term": "Mixture of Experts",
+      "explanation": "An intelligent working method where only small sections specialized in that specific subject are activated to solve a complex problem."
+    },
+    {
+      "term": "ERP",
+      "explanation": "A software system that enables a company to manage all its business processes, such as accounting, inventory, and human resources, from a single center."
+    },
+    {
+      "term": "CRM",
+      "explanation": "A management tool used by companies to systematically track their communication with customers, sales history, and requests."
+    },
+    {
+      "term": "spatial intelligence",
+      "explanation": "The ability of artificial intelligence to perceive the position, size, and movement of objects in the physical world and react accordingly."
+    },
+    {
+      "term": "skills",
+      "explanation": "Special capabilities or tool-use skills acquired by artificial intelligence models to perform a specific task."
+    },
+    {
+      "term": "pipeline",
+      "explanation": "A sequence of consecutive automated steps that data goes through until it is processed and turned into a result."
+    },
+    {
+      "term": "system prompts",
+      "explanation": "Basic instructions running in the background that determine how artificial intelligence should behave and which rules it must follow."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained on massive amounts of data that can understand human language and generate text."
+    },
+    {
+      "term": "penetration testing",
+      "explanation": "Controlled cyberattack attempts conducted by experts to find security vulnerabilities in a computer system."
+    },
+    {
+      "term": "zero-shot",
+      "explanation": "The ability of artificial intelligence to solve a subject it has never seen before or received specific training on, using only its general knowledge."
+    },
+    {
+      "term": "agentic",
+      "explanation": "The state of artificial intelligence not only providing answers but also making its own decisions and taking action to reach its goal."
+    },
+    {
+      "term": "offensive security skills",
+      "explanation": "The skill of learning the methods used by attackers to protect systems and using them to identify vulnerabilities."
+    },
+    {
+      "term": "EDR",
+      "explanation": "Security software that continuously monitors suspicious activity on computer networks and instantly detects and blocks cyberattacks."
+    },
+    {
+      "term": "LLM",
+      "explanation": "Advanced language processing technology capable of speaking like a human, summarizing texts, or writing code."
+    },
+    {
+      "term": "AI agent",
+      "explanation": "Autonomous software that observes its environment, makes plans, and acts on its own to perform a specific task."
+    }
+  ]
+}
