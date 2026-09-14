@@ -2,7 +2,7 @@
 
 Superfile wurde mit der Go-Sprache entwickelt und bietet eine moderne und visuell ansprechende Schnittstelle zu terminalbasierten Dateimanagern. Benutzer können Dateivorgänge auf der Befehlszeile mit einem ästhetischeren und funktionaleren Erlebnis verwalten.
 
-- ★ 22.119
+- ★ 23.234
 - Go
 - GitHub Trending · 2026-07-25
 

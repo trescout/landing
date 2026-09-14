@@ -2,7 +2,7 @@
 
 Eine Zusammenfassung für diesen Artikel konnte heute nicht erstellt werden. Einzelheiten finden Sie im Quelllink.
 
-- ★ 65.982
+- ★ 67.398
 - Rust
 - GitHub Trending · 2026-08-24
 

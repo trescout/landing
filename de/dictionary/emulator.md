@@ -28,6 +28,7 @@ Normalerweise muss Ihre Hardwareleistung h√∂her sein als die des emulierten Ger√
 - [Virtual Machines](/de/dictionary/virtual-machines/)
 
 ## Verwandte Werkzeuge
+- [Cool Retro Term](/de/discover/cool-retro-term/)
 - [Sharpemu](/de/discover/sharpemu/)
 
 ---

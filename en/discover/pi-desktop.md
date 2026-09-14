@@ -2,7 +2,7 @@
 
 PI-Desktop is an AI coding agent developed with a local-first working principle. With its architecture based on Electron (desktop application development framework) and Rust (systems programming language), it offers a customizable software development environment where users can install their own plugins.
 
-- ★ 3,176
+- ★ 3,506
 - TypeScript
 - GitHub Trending · 2026-09-10
 

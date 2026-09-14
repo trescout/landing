@@ -2,11 +2,12 @@
 
 Go diliyle geliştirilen superfile, terminal tabanlı dosya yöneticilerine modern ve görsel açıdan zengin bir arayüz kazandırıyor. Kullanıcılar, komut satırı üzerinde dosya işlemlerini daha estetik ve işlevsel bir deneyimle yönetebiliyor.
 
-- ★ 22.119
+- ★ 23.234
 - Go
 - GitHub Trending · 2026-07-25
 
 ## Güncelleme
+- 14 Eylül 2026: Yıldız 22.119 → 23.234, son sürüm v1.6.0 (7 Haziran 2026).
 - 2 Ağustos 2026: Yıldız 19.700 → 22.119, son sürüm v1.6.0 (7 Haziran 2026).
 
 ## Ne kazandırır?

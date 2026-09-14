@@ -2,7 +2,7 @@
 
 LLM Wiki is a cross-platform desktop application that automatically organizes documents into an interconnected knowledge base. Unlike traditional retrieval-augmented generation (RAG) methods, it creates a persistent wiki from your sources, keeping data incrementally updated.
 
-- ★ 18,359
+- ★ 19,414
 - TypeScript
 - GitHub Trending · 2026-09-11
 

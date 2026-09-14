@@ -2,7 +2,7 @@
 
 An abstract for this item could not be produced today · see the source link for details.
 
-- ★ 65,982
+- ★ 67,398
 - Rust
 - GitHub Trending · 2026-08-24
 

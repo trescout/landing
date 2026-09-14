@@ -2,7 +2,7 @@
 
 Developed with the Go language, superfile provides a modern and visually rich interface to terminal-based file managers. Users can manage file operations on the command line with a more aesthetic and functional experience.
 
-- ★ 22,119
+- ★ 23,234
 - Go
 - GitHub Trending · 2026-07-25
 

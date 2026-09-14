@@ -28,6 +28,7 @@ Habituellement, la puissance de votre matériel doit être supérieure à celle 
 - [Virtual Machines](/fr/dictionary/virtual-machines/)
 
 ## Outils liés
+- [Cool Retro Term](/fr/discover/cool-retro-term/)
 - [Sharpemu](/fr/discover/sharpemu/)
 
 ---

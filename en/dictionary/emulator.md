@@ -30,6 +30,7 @@ Usually your hardware power needs to be higher than the emulated device.
 - [Virtual Machines](/en/dictionary/virtual-machines/)
 
 ## Related tools
+- [Cool Retro Term](/en/discover/cool-retro-term/)
 - [Sharpemu](/en/discover/sharpemu/)
 
 ---

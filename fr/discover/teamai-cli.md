@@ -2,7 +2,7 @@
 
 Développé par Tencent, teamai-cli est un outil de développement logiciel qui permet aux équipes d'interagir avec des outils d'intelligence artificielle via une interface de ligne de commande (CLI). Cet outil vise à numériser les processus de travail des équipes en intégrant des fonctionnalités d'intelligence artificielle générative (generative AI) dans leurs flux de travail.
 
-- ★ 3 405
+- ★ 4 470
 - TypeScript
 - GitHub Trending · 2026-09-10
 

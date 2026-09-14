@@ -28,6 +28,7 @@ Normalmente a potência do seu hardware precisa ser maior que a do dispositivo e
 - [Virtual Machines](/pt/dictionary/virtual-machines/)
 
 ## Ferramentas relacionadas
+- [Cool Retro Term](/pt/discover/cool-retro-term/)
 - [Sharpemu](/pt/discover/sharpemu/)
 
 ---

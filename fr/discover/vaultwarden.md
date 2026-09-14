@@ -2,7 +2,7 @@
 
 Un résumé pour cet article n'a pas pu être produit aujourd'hui · voir le lien source pour plus de détails.
 
-- ★ 65 982
+- ★ 67 398
 - Rust
 - GitHub Trending · 2026-08-24
 

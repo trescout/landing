@@ -2,15 +2,15 @@
 
 Meta tarafından geliştirilen Astryx, tamamen özelleştirilebilir ve yapay zekâ ajanlarıyla uyumlu (agent ready) bir tasarım sistemi (design system) sunuyor. TypeScript tabanlı bu açık kaynaklı kütüphane, arayüz bileşenlerini otonom sistemlerin kullanımına uygun şekilde yapılandırıyor.
 
-- ★ 12.894
+- ★ 12.960
 - TypeScript
 - GitHub Trending · 2026-07-01
 
 ## Güncelleme
+- 14 Eylül 2026: Yıldız 12.894 → 12.960, son sürüm v0.6.1 (13 Eylül 2026).
 - 11 Eylül 2026: Yıldız 12.826 → 12.894, son sürüm v0.6.0 (10 Eylül 2026).
 - 7 Eylül 2026: Yıldız 12.644 → 12.826, son sürüm v0.5.4 (7 Eylül 2026).
 - 31 Ağustos 2026: Yıldız 12.492 → 12.644, son sürüm v0.5.2 (30 Ağustos 2026).
-- 27 Ağustos 2026: Yıldız 12.284 → 12.492, son sürüm v0.5.0 (24 Ağustos 2026).
 
 ## Ne kazandırır?
 - 150'den fazla erişilebilir bileşen

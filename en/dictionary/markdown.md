@@ -37,7 +37,7 @@ You can open it with any text editor, but you can read it formatted more easily 
 - [Scrapling](/en/discover/scrapling/)
 - [MinerU](/en/discover/mineru/)
 - [Obsidian Skills](/en/discover/obsidian-skills/)
-- [Opendataloader PDF](/en/discover/opendataloader-pdf/)
+- [Book to Skill](/en/discover/book-to-skill/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/markdown/

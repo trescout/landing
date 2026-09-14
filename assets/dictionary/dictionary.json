@@ -7863,5 +7863,31 @@
     "kisa_pt": "É uma estrutura que permite trabalhar em diferentes versões do projeto simultaneamente, sem alterar a pasta original do projeto.",
     "kisa_es": "Es una estructura que le permite trabajar en diferentes versiones de un proyecto simultáneamente sin cambiar la carpeta del proyecto original.",
     "kisa_de": "Es ist eine Struktur, die es Ihnen ermöglicht, gleichzeitig an verschiedenen Versionen eines Projekts zu arbeiten, ohne den ursprünglichen Projektordner zu verändern."
+  },
+  {
+    "slug": "experts-streamed-from-disk",
+    "en": "Experts Streamed from Disk",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Devasa yapay zekâ modellerinin parçalarının, belleğe sığmadığında diskten anlık olarak yüklenmesi yöntemidir.",
+    "date": "2026-09-14",
+    "kisa_en": "It is a method where parts of massive artificial intelligence models are loaded from the disk on the fly when they do not fit into memory.",
+    "kisa_fr": "Il s'agit d'une méthode consistant à charger instantanément des parties de modèles d'intelligence artificielle massifs depuis le disque lorsqu'elles ne tiennent pas dans la mémoire.",
+    "kisa_pt": "É um método em que partes de modelos gigantes de inteligência artificial são carregadas instantaneamente do disco quando não cabem na memória.",
+    "kisa_es": "Es un método en el que las partes de modelos de inteligencia artificial masivos se cargan instantáneamente desde el disco cuando no caben en la memoria.",
+    "kisa_de": "Dies ist eine Methode, bei der Teile riesiger KI-Modelle bei Bedarf von der Festplatte geladen werden, wenn sie nicht in den Arbeitsspeicher passen."
+  },
+  {
+    "slug": "edr",
+    "en": "Endpoint Detection and Response",
+    "full": "Endpoint Detection and Response",
+    "cat": "dev",
+    "kisa": "Bilgisayarları ve sunucuları siber saldırılara karşı koruyan, şüpheli hareketleri izleyen bir güvenlik sistemidir.",
+    "date": "2026-09-14",
+    "kisa_en": "It is a security system that protects computers and servers against cyberattacks and monitors suspicious activities.",
+    "kisa_fr": "Il s'agit d'un système de sécurité qui protège les ordinateurs et les serveurs contre les cyberattaques et surveille les activités suspectes.",
+    "kisa_pt": "É um sistema de segurança que protege computadores e servidores contra ataques cibernéticos, monitorando atividades suspeitas.",
+    "kisa_es": "Es un sistema de seguridad que protege computadoras y servidores contra ciberataques y monitorea actividades sospechosas.",
+    "kisa_de": "Dies ist ein Sicherheitssystem, das Computer und Server vor Cyberangriffen schützt und verdächtige Aktivitäten überwacht."
   }
 ]

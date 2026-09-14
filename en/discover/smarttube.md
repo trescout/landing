@@ -2,7 +2,7 @@
 
 SmartTube is a YouTube client developed for Android TV devices, offering advanced features such as ad-blocking and a customizable interface. It allows users to manage their video viewing experience according to their own rules.
 
-- ★ 33,278
+- ★ 33,574
 - Java
 - GitHub Trending · 2026-09-13
 

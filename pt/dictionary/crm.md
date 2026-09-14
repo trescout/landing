@@ -31,6 +31,7 @@ CRM é um software de gestão especializado que utiliza tecnologia de banco de d
 
 ## Ferramentas relacionadas
 - [Twenty](/pt/discover/twenty/)
+- [Ever Gauzy](/pt/discover/ever-gauzy/)
 - [DeskcommCRM](/pt/discover/deskcommcrm/)
 
 ---

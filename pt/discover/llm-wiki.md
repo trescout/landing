@@ -2,7 +2,7 @@
 
 O LLM Wiki é um aplicativo de desktop multiplataforma que organiza documentos automaticamente e os transforma em uma base de conhecimento interconectada. Ao contrário do método tradicional de recuperação e resposta (RAG), ele cria uma wiki persistente a partir de suas fontes, mantendo os dados atualizados de forma progressiva.
 
-- ★ 18.359
+- ★ 19.414
 - TypeScript
 - GitHub Trending · 2026-09-11
 

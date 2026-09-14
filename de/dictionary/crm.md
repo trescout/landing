@@ -31,6 +31,7 @@ CRM ist eine spezialisierte Verwaltungssoftware, die Datenbanktechnologie nutzt;
 
 ## Verwandte Werkzeuge
 - [Twenty](/de/discover/twenty/)
+- [Ever Gauzy](/de/discover/ever-gauzy/)
 - [DeskcommCRM](/de/discover/deskcommcrm/)
 
 ---

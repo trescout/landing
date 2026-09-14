@@ -2,11 +2,12 @@
 
 LLM Wiki, belgeleri otomatik olarak düzenleyip birbirine bağlı bir bilgi tabanına dönüştüren çapraz platformlu bir masaüstü uygulamasıdır. Geleneksel getirme ve cevaplama (RAG) yönteminin aksine, kaynaklarınızdan kalıcı bir wiki oluşturarak verileri aşamalı şekilde güncel tutar.
 
-- ★ 18.359
+- ★ 19.414
 - TypeScript
 - GitHub Trending · 2026-09-11
 
 ## Güncelleme
+- 14 Eylül 2026: Yıldız 18.359 → 19.414, son sürüm v0.6.11 (25 Ağustos 2026).
 - 11 Eylül 2026: Yıldız 18.355 → 18.359, son sürüm v0.6.11 (25 Ağustos 2026).
 
 ## Ne kazandırır?

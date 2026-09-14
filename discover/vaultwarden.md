@@ -2,11 +2,12 @@
 
 Bu öğenin özeti bugün üretilemedi · detaylar için kaynak bağlantısını inceleyebilirsiniz.
 
-- ★ 65.982
+- ★ 67.398
 - Rust
 - GitHub Trending · 2026-08-24
 
 ## Güncelleme
+- 14 Eylül 2026: Yıldız 65.982 → 67.398, son sürüm 1.37.3 (13 Eylül 2026).
 - 24 Ağustos 2026: Yıldız 65.983 → 65.982, son sürüm 1.37.2 (22 Ağustos 2026).
 
 ## Ne kazandırır?
