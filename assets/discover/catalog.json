@@ -32924,7 +32924,7 @@
     "slug": "mathmodelagent",
     "title": "MathModelAgent",
     "tagline": "Matematiksel modelleme süreçlerini otomatikleştiren MathModelAgent, karmaşık problemleri çözerek doğrudan teslim edilebilir…",
-    "meta": "★ 4.953 · Python",
+    "meta": "★ 5.515 · Python",
     "image": "/assets/discover/og/mathmodelagent.webp",
     "source": "GitHub",
     "date": "2026-09-12",
@@ -32932,7 +32932,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 4953,
+    "stars": 5515,
     "summary": "Matematiksel modelleme süreçlerini otomatikleştiren MathModelAgent, karmaşık problemleri çözerek doğrudan teslim edilebilir akademik makaleler üretiyor. Python tabanlı bu yazılım, veri analizi ve raporlama aşamalarını birleştirerek modelleme iş akışlarını hızlandırıyor.",
     "lite": false,
     "headline": "Matematiksel modelleme için yapay zekâ",
@@ -32944,6 +32944,13 @@
         "onceki_yildiz": 4952,
         "surum": "v0.0.19",
         "surum_tarihi": "2026-09-10"
+      },
+      {
+        "tarih": "2026-09-14",
+        "yildiz": 5515,
+        "onceki_yildiz": 4953,
+        "surum": "v0.0.20",
+        "surum_tarihi": "2026-09-14"
       }
     ],
     "tagline_en": "MathModelAgent, which automates mathematical modeling processes, solves complex problems and provides directly deliverable...",
@@ -33229,7 +33236,8 @@
     "tagline_fr": "Ever Gauzy, les processus métier fondamentaux tels que la planification des ressources d'entreprise (ERP), la gestion de la relation client (CRM) et les ressources humaines...",
     "tagline_pt": "Ever Gauzy, processos de negócios fundamentais como planejamento de recursos empresariais (ERP), gestão de relacionamento com o cliente (CRM) e recursos humanos...",
     "tagline_es": "Ever Gauzy, procesos de negocio fundamentales como la planificación de recursos empresariales (ERP), la gestión de relaciones con los clientes (CRM) y los recursos humanos...",
-    "tagline_de": "Ever Gauzy, grundlegende Geschäftsprozesse wie Enterprise-Resource-Planning (ERP), Customer-Relationship-Management (CRM) und Personalwesen..."
+    "tagline_de": "Ever Gauzy, grundlegende Geschäftsprozesse wie Enterprise-Resource-Planning (ERP), Customer-Relationship-Management (CRM) und Personalwesen...",
+    "last_seen": "2026-09-14"
   },
   {
     "slug": "omniget",
@@ -33260,7 +33268,8 @@
     "tagline_fr": "Omniget est une application de bureau open source qui permet de télécharger des vidéos, de la musique et des livres depuis plus de 1 800 plateformes.",
     "tagline_pt": "Omniget é um aplicativo de desktop de código aberto que permite baixar vídeos, músicas e livros de mais de 1.800 plataformas.",
     "tagline_es": "Omniget es una aplicación de escritorio de código abierto que permite descargar vídeos, música y libros de más de 1.800 plataformas.",
-    "tagline_de": "Omniget ist eine Open-Source-Desktopanwendung, die das Herunterladen von Videos, Musik und Büchern von über 1.800 Plattformen ermöglicht."
+    "tagline_de": "Omniget ist eine Open-Source-Desktopanwendung, die das Herunterladen von Videos, Musik und Büchern von über 1.800 Plattformen ermöglicht.",
+    "last_seen": "2026-09-14"
   },
   {
     "slug": "douyin-downloader",
@@ -33291,7 +33300,8 @@
     "tagline_fr": "Un téléchargeur Douyin basé sur Python qui permet de télécharger des vidéos, des albums photo et de la musique depuis la plateforme de médias sociaux Douyin...",
     "tagline_pt": "Downloader do Douyin baseado em Python, que permite baixar vídeos, álbuns de fotos e músicas da plataforma de mídia social Douyin...",
     "tagline_es": "El descargador de Douyin basado en Python permite descargar vídeos, álbumes de fotos y música de la plataforma de redes sociales Douyin...",
-    "tagline_de": "Ein Python-basierter Douyin-Downloader, der Videos, Fotoalben und Musik von der Social-Media-Plattform Douyin..."
+    "tagline_de": "Ein Python-basierter Douyin-Downloader, der Videos, Fotoalben und Musik von der Social-Media-Plattform Douyin...",
+    "last_seen": "2026-09-14"
   },
   {
     "slug": "cool-retro-term",
@@ -33324,6 +33334,7 @@
     "tagline_fr": "Cool-retro-term est un émulateur de terminal qui imite l'apparence des anciens écrans à tube cathodique.",
     "tagline_pt": "Cool-retro-term é um emulador de terminal que imita a aparência de monitores antigos de tubo de raios catódicos.",
     "tagline_es": "Cool-retro-term es un emulador de terminal que imita el aspecto de las antiguas pantallas de tubo de rayos catódicos.",
-    "tagline_de": "Cool-retro-term ist ein Terminal-Emulator, der das Aussehen alter Kathodenstrahlröhren-Monitore imitiert."
+    "tagline_de": "Cool-retro-term ist ein Terminal-Emulator, der das Aussehen alter Kathodenstrahlröhren-Monitore imitiert.",
+    "last_seen": "2026-09-14"
   }
 ]

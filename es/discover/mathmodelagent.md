@@ -2,7 +2,7 @@
 
 MathModelAgent, que automatiza los procesos de modelado matemático, resuelve problemas complejos y genera artículos académicos listos para su entrega. Este software basado en Python acelera los flujos de trabajo de modelado al combinar las etapas de análisis de datos y elaboración de informes.
 
-- ★ 4.953
+- ★ 5.515
 - Python
 - GitHub Trending · 2026-09-12
 

@@ -2,11 +2,12 @@
 
 Matematiksel modelleme süreçlerini otomatikleştiren MathModelAgent, karmaşık problemleri çözerek doğrudan teslim edilebilir akademik makaleler üretiyor. Python tabanlı bu yazılım, veri analizi ve raporlama aşamalarını birleştirerek modelleme iş akışlarını hızlandırıyor.
 
-- ★ 4.953
+- ★ 5.515
 - Python
 - GitHub Trending · 2026-09-12
 
 ## Güncelleme
+- 14 Eylül 2026: Yıldız 4.953 → 5.515, son sürüm v0.0.20 (14 Eylül 2026).
 - 12 Eylül 2026: Yıldız 4.952 → 4.953, son sürüm v0.0.19 (10 Eylül 2026).
 
 ## Ne kazandırır?
