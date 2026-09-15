@@ -2,15 +2,15 @@
 
 NousResearch tarafından geliştirilen Hermes Agent, kullanıcı etkileşimleriyle öğrenerek zaman içinde gelişen bir otonom ajan (autonomous agent) altyapısı sunuyor. Python tabanlı bu sistem, kişiselleştirilmiş iş akışları oluşturmak için sürekli öğrenen bir yapı (continuous learning) kullanıyor.
 
-- ★ 244.719
+- ★ 245.661
 - Python
 - GitHub Trending · 2026-06-04
 
 ## Güncelleme
+- 15 Eylül 2026: Yıldız 244.719 → 245.661, son sürüm v2026.9.14 (14 Eylül 2026).
 - 12 Eylül 2026: Yıldız 243.197 → 244.719, son sürüm v2026.9.11 (11 Eylül 2026).
 - 8 Eylül 2026: Yıldız 239.217 → 243.197, son sürüm v2026.9.7 (7 Eylül 2026).
 - 1 Eylül 2026: Yıldız 237.210 → 239.217, son sürüm v2026.8.31 (31 Ağustos 2026).
-- 27 Ağustos 2026: Yıldız 233.843 → 237.210, son sürüm v2026.8.27 (27 Ağustos 2026).
 
 ## Ne kazandırır?
 - Kullanıcı etkileşimlerinden öğrenerek zaman içinde gelişen otonom yetenekler.
@@ -46,7 +46,7 @@ Hermes Agent ile çalışırken otonom öğrenme döngüsünden faydalanmak isti
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Hermes Agent Autonomous Agent Continuous Learning Agent Artificial Intelligence
+Autonomous Agent Continuous Learning Hermes Agent Agent Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/hermes-agent/

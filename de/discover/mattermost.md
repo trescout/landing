@@ -2,7 +2,7 @@
 
 Mattermost ist eine Open-Source-Plattform, die eine sichere Zusammenarbeit während des gesamten Softwareentwicklungslebenszyklus ermöglicht. Es ermöglicht Softwareteams, ihre Kommunikationsprozesse über eine zentrale Struktur zu verwalten.
 
-- ★ 38.913
+- ★ 39.062
 - GitHub Trending · 2026-06-12
 
 ## Was es bringt

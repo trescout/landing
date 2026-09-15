@@ -2,7 +2,7 @@
 
 Colibri est un moteur basé sur le langage C qui permet d'exécuter des modèles de mélange d'experts (Mixture of Experts) à grande échelle sur des ordinateurs locaux avec de faibles exigences matérielles. En traitant les couches d'experts par flux depuis le disque, il permet d'exécuter des modèles d'IA à haute capacité sur du matériel limité.
 
-- ★ 30 795
+- ★ 32 822
 - C
 - GitHub Trending · 2026-09-11
 

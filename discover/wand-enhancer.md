@@ -2,15 +2,15 @@
 
 Wand-Enhancer, WeMod uygulaması için kullanıcı deneyimini (user experience) geliştiren ve birlikte çalışabilirliği (interoperability) artıran bir C# tabanlı eklentidir. Uygulamanın işlevselliğini genişleterek kullanıcıların araçlar üzerindeki kontrolünü optimize eder.
 
-- ★ 25.998
+- ★ 27.333
 - C#
 - GitHub Trending · 2026-07-13
 
 ## Güncelleme
+- 15 Eylül 2026: Yıldız 25.998 → 27.333, son sürüm 2.1.0.0 (9 Eylül 2026).
 - 9 Eylül 2026: Yıldız 25.201 → 25.998, son sürüm 2.1.0.0 (9 Eylül 2026).
 - 6 Eylül 2026: Yıldız 24.523 → 25.201, son sürüm 2.0.0.0 (5 Eylül 2026).
 - 4 Eylül 2026: Yıldız 23.236 → 24.523, son sürüm 1.0.9.4 (21 Temmuz 2026).
-- 31 Ağustos 2026: Yıldız 20.979 → 23.236, son sürüm 1.0.9.4 (21 Temmuz 2026).
 
 ## Ne kazandırır?
 - Yerel istemci ayarlarını yönetme ve geliştirme

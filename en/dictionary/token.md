@@ -36,8 +36,8 @@ Since computers understand numbers, not words, we need to convert the text into 
 - [Codebase Memory MCP](/en/discover/codebase-memory-mcp/)
 - [Code Review Graph](/en/discover/code-review-graph/)
 - [Book to Skill](/en/discover/book-to-skill/)
-- [TencentDB-Agent-Memory](/en/discover/tencentdb-agent-memory/)
 - [Open Code Review](/en/discover/open-code-review/)
+- [TencentDB-Agent-Memory](/en/discover/tencentdb-agent-memory/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/token/

@@ -30,6 +30,7 @@ Por ser autónomo, é importante que os seus poderes sejam limitados e monitoriz
 
 ## Ferramentas relacionadas
 - [Hermes Agent](/pt/discover/hermes-agent/)
+- [Oh My Hermes](/pt/discover/oh-my-hermes/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/hermes-agent/

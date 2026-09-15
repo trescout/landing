@@ -32,6 +32,7 @@ Since it is autonomous, it is important that its powers are limited and constant
 
 ## Related tools
 - [Hermes Agent](/en/discover/hermes-agent/)
+- [Oh My Hermes](/en/discover/oh-my-hermes/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/hermes-agent/

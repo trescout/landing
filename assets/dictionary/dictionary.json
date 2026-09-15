@@ -7889,5 +7889,18 @@
     "kisa_pt": "É um sistema de segurança que protege computadores e servidores contra ataques cibernéticos, monitorando atividades suspeitas.",
     "kisa_es": "Es un sistema de seguridad que protege computadoras y servidores contra ciberataques y monitorea actividades sospechosas.",
     "kisa_de": "Dies ist ein Sicherheitssystem, das Computer und Server vor Cyberangriffen schützt und verdächtige Aktivitäten überwacht."
+  },
+  {
+    "slug": "code-review-tool",
+    "en": "Code Review Tool",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılımcıların yazdığı kodları hatalara veya iyileştirmelere karşı otomatik olarak inceleyen denetim aracı.",
+    "date": "2026-09-15",
+    "kisa_en": "An inspection tool that automatically reviews code written by developers for errors or improvements.",
+    "kisa_fr": "Outil d'audit qui examine automatiquement le code écrit par les développeurs pour détecter des erreurs ou des améliorations.",
+    "kisa_pt": "Ferramenta de auditoria que analisa automaticamente o código escrito pelos desenvolvedores em busca de erros ou melhorias.",
+    "kisa_es": "Herramienta de auditoría que analiza automáticamente el código escrito por los desarrolladores en busca de errores o mejoras.",
+    "kisa_de": "Ein Prüftool, das den von Softwareentwicklern geschriebenen Code automatisch auf Fehler oder Verbesserungsmöglichkeiten untersucht."
   }
 ]

@@ -34,8 +34,8 @@ Da Computer Zahlen und keine Wörter verstehen, müssen wir den Text in ein math
 - [Codebase Memory MCP](/de/discover/codebase-memory-mcp/)
 - [Code Review Graph](/de/discover/code-review-graph/)
 - [Book to Skill](/de/discover/book-to-skill/)
-- [TencentDB-Agent-Memory](/de/discover/tencentdb-agent-memory/)
 - [Open Code Review](/de/discover/open-code-review/)
+- [TencentDB-Agent-Memory](/de/discover/tencentdb-agent-memory/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/token/

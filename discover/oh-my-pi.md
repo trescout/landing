@@ -2,14 +2,14 @@
 
 Oh-my-pi, terminal ortamında çalışan ve kod düzenleme süreçlerini otomatikleştiren bir yapay zekâ kodlama ajanıdır (AI coding agent). Araç, dil sunucusu protokolü (LSP), tarayıcı entegrasyonu ve alt ajan yönetimi gibi özelliklerle yazılım geliştirme iş akışlarını optimize etmeyi hedefler.
 
-- ★ 31.055
+- ★ 31.202
 - GitHub Trending · 2026-06-02
 
 ## Güncelleme
+- 15 Eylül 2026: Yıldız 31.055 → 31.202, son sürüm v18.2.0 (15 Eylül 2026).
 - 14 Eylül 2026: Yıldız 30.886 → 31.055, son sürüm v18.1.21 (14 Eylül 2026).
 - 13 Eylül 2026: Yıldız 30.766 → 30.886, son sürüm v18.1.19 (12 Eylül 2026).
 - 12 Eylül 2026: Yıldız 30.608 → 30.766, son sürüm v18.1.18 (11 Eylül 2026).
-- 11 Eylül 2026: Yıldız 30.450 → 30.608, son sürüm v18.1.17 (10 Eylül 2026).
 
 ## Ne kazandırır?
 - IDE özelliklerini terminale taşıyarak kod düzenleme süreçlerini otomatikleştirir.

@@ -30,6 +30,7 @@ Da es autonom ist, ist es wichtig, dass seine Befugnisse begrenzt sind und stän
 
 ## Verwandte Werkzeuge
 - [Hermes Agent](/de/discover/hermes-agent/)
+- [Oh My Hermes](/de/discover/oh-my-hermes/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/hermes-agent/

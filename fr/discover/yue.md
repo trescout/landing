@@ -2,7 +2,7 @@
 
 YuE est un système de génération musicale doté de capacités telles que la planification symbolique et la génération de reprises en mode zéro-shot. Ce modèle d'IA, qui automatise les processus de composition musicale, vous permet de gérer des compositions complexes grâce à des flux de travail agentiques.
 
-- ★ 7 463
+- ★ 8 744
 - Python
 - GitHub Trending · 2026-09-13
 

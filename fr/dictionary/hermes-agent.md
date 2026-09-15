@@ -30,6 +30,7 @@ Puisqu’elle est autonome, il est important que ses pouvoirs soient limités et
 
 ## Outils liés
 - [Hermes Agent](/fr/discover/hermes-agent/)
+- [Oh My Hermes](/fr/discover/oh-my-hermes/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/hermes-agent/

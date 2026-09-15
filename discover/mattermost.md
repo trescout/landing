@@ -2,12 +2,13 @@
 
 Mattermost, yazılım geliştirme yaşam döngüsü boyunca güvenli iş birliği sağlamak amacıyla tasarlanmış açık kaynaklı bir platformdur. Yazılım ekiplerinin iletişim süreçlerini merkezi bir yapı üzerinden yönetmelerine olanak tanır.
 
-- ★ 38.913
+- ★ 39.062
 - GitHub Trending · 2026-06-12
 
 TreScout notu: Ekip içi mesajlaşma aracı. Hazır servislerden farkı kendi sunucunuzda çalışması, yazışmalar sizde kalır. Sayfadaki komut deneme kurulumudur, gerçek kullanımda ayrı bir veri tabanıyla kurulur. Telefon bildirimleri ek ayar ister, ekibe söz vermeden önce oraya bakın.
 
 ## Güncelleme
+- 15 Eylül 2026: Yıldız 38.913 → 39.062, son sürüm v11.10.2 (15 Eylül 2026).
 - 27 Ağustos 2026: Yıldız 38.812 → 38.913, son sürüm v11.10.1 (24 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 38.643 → 38.812, son sürüm v11.10.0 (4 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 37.444 → 38.643, son sürüm v11.9.0 (8 Temmuz 2026).
