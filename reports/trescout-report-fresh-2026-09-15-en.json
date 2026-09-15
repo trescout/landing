@@ -1,0 +1,626 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-15",
+  "capturedAt": "2026-09-15T09:13:22.612Z",
+  "editorial": "This report contains trends that have emerged for the first time today, without repeating records included in normal reports from the last 30 days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "summary": "MiroFish is a simple and universal swarm intelligence engine designed to make predictions on various datasets. Developed in Python, this tool allows for the creation of predictive models in different fields by analyzing patterns in complex systems.",
+          "meta": "Python · ★ 73,504 · +560 today",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "666ghj/MiroFish",
+            "capturedAt": "2026-09-15T09:13:23.658Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 73504,
+              "engagementCount": 560,
+              "rank": 5,
+              "extra": {
+                "starsToday": 560
+              }
+            }
+          }
+        },
+        {
+          "title": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "summary": "Agent-Reach is a command-line tool that gives AI agents the ability to scan social media and content platforms on the internet. This software, which allows data extraction from popular platforms such as Twitter, Reddit, and YouTube, offers information access without paying any application programming interface (API) fees.",
+          "meta": "Python · ★ 81,744 · +651 today",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "Panniantong/Agent-Reach",
+            "capturedAt": "2026-09-15T09:13:23.658Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 81744,
+              "engagementCount": 651,
+              "rank": 6,
+              "extra": {
+                "starsToday": 651
+              }
+            }
+          }
+        },
+        {
+          "title": "rlaope/oh-my-hermes",
+          "url": "https://github.com/rlaope/oh-my-hermes",
+          "summary": "Developed for Hermes Agent, oh-my-hermes offers coding intelligence, a long-term memory system, and model-oriented workflow packages in a single plugin. This tool, which optimizes software development processes, provides developers with a comprehensive working environment with its Python-based structure.",
+          "meta": "Python · ★ 2,296 · +77 today",
+          "snapshot": {
+            "sourceId": "rlaope/oh-my-hermes",
+            "capturedAt": "2026-09-15T09:13:23.658Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 2296,
+              "engagementCount": 77,
+              "rank": 8,
+              "extra": {
+                "starsToday": 77
+              }
+            }
+          }
+        },
+        {
+          "title": "localsend/localsend",
+          "url": "https://github.com/localsend/localsend",
+          "summary": "LocalSend is an open-source AirDrop alternative that enables file sharing between devices. It allows for secure data transfer over a local network without the need for an internet connection.",
+          "meta": "Dart · ★ 91,549 · +251 today",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "localsend/localsend",
+            "capturedAt": "2026-09-15T09:13:23.658Z",
+            "metadata": {
+              "language": "Dart",
+              "popularity": 91549,
+              "engagementCount": 251,
+              "rank": 9,
+              "extra": {
+                "starsToday": 251
+              }
+            }
+          }
+        },
+        {
+          "title": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "summary": "RuView is software that performs real-time spatial analysis, presence detection, and vital sign tracking using standard Wi-Fi signals without the need for image data. Developed with the Rust programming language, this technology transforms existing wireless network infrastructure into a sensing system.",
+          "meta": "Rust · ★ 94,032 · +383 today",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "ruvnet/RuView",
+            "capturedAt": "2026-09-15T09:13:23.658Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 94032,
+              "engagementCount": 383,
+              "rank": 12,
+              "extra": {
+                "starsToday": 383
+              }
+            }
+          }
+        },
+        {
+          "title": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "summary": "VoxCPM, developed by OpenBMB, is a model that performs multilingual speech synthesis (TTS) without using a text tokenizer. The system was developed for creative sound design and realistic voice cloning operations.",
+          "meta": "Python · ★ 37,512 · +216 today",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "OpenBMB/VoxCPM",
+            "capturedAt": "2026-09-15T09:13:23.658Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 37512,
+              "engagementCount": 216,
+              "rank": 14,
+              "extra": {
+                "starsToday": 216
+              }
+            }
+          }
+        },
+        {
+          "title": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "summary": "Project NOMAD is an offline-first information server that provides access to Wikipedia, books, and educational content without requiring an internet connection. Operating with local AI support, this system makes it possible to establish an independent digital library infrastructure on personal hardware.",
+          "meta": "TypeScript · ★ 37,065 · +40 today",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "Crosstalk-Solutions/project-nomad",
+            "capturedAt": "2026-09-15T09:13:23.658Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 37065,
+              "engagementCount": 40,
+              "rank": 17,
+              "extra": {
+                "starsToday": 40
+              }
+            }
+          }
+        },
+        {
+          "title": "reconurge/flowsint",
+          "url": "https://github.com/reconurge/flowsint",
+          "summary": "Flowsint is a visual, flexible, and extensible graph-based investigation platform developed for cybersecurity analysts and researchers. Written in TypeScript, this tool facilitates the analysis of security incidents by visualizing complex datasets.",
+          "meta": "TypeScript · ★ 8,508 · +280 today",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "reconurge/flowsint",
+            "capturedAt": "2026-09-15T09:13:23.658Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 8508,
+              "engagementCount": 280,
+              "rank": 18,
+              "extra": {
+                "starsToday": 280
+              }
+            }
+          }
+        },
+        {
+          "title": "peetzweg/opendisplay",
+          "url": "https://github.com/peetzweg/opendisplay",
+          "summary": "OpenDisplay is an open-source screen extension tool that turns iPhone or iPad devices into a second monitor for Mac computers. Providing low-latency image transmission via USB or wireless connection, the application offers a free alternative to Apple's own solution, Sidecar.",
+          "meta": "Swift · ★ 3,785 · +229 today",
+          "snapshot": {
+            "sourceId": "peetzweg/opendisplay",
+            "capturedAt": "2026-09-15T09:13:23.658Z",
+            "metadata": {
+              "language": "Swift",
+              "popularity": 3785,
+              "engagementCount": 229,
+              "rank": 19,
+              "extra": {
+                "starsToday": 229
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Steam Frame starts at $1059",
+          "url": "https://store.steampowered.com/hardware/steamframe",
+          "summary": "Valve has started pre-orders for its gaming-focused hardware platform, Steam Frame, with prices starting at $1059. This device is positioned as a gaming PC designed to run games from the Steam library directly.",
+          "meta": "662 points · 504 comments",
+          "snapshot": {
+            "sourceId": "49700661",
+            "capturedAt": "2026-09-15T09:13:22.943Z",
+            "metadata": {
+              "popularity": 662,
+              "engagementCount": 504,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49700661",
+                  "popularity": 662,
+                  "engagementCount": 504
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "bsimpson",
+                "createdAt": "2026-09-14T17:27:55Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49700661"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49700661",
+              "popularity": 662,
+              "engagementCount": 504
+            }
+          ]
+        },
+        {
+          "title": "XCancel service is suspended until further notice",
+          "url": "https://xcancel.com/#",
+          "summary": "The XCancel service, which allowed for anonymous viewing of content on the X platform, has ceased operations for an indefinite period. Access to the service was shut down due to the data access policies of the social media platform X (formerly known as Twitter).",
+          "meta": "617 points · 926 comments",
+          "snapshot": {
+            "sourceId": "49694296",
+            "capturedAt": "2026-09-15T09:13:22.943Z",
+            "metadata": {
+              "popularity": 617,
+              "engagementCount": 926,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49694296",
+                  "popularity": 617,
+                  "engagementCount": 926
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "gaganyaan",
+                "createdAt": "2026-09-14T09:51:50Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49694296"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49694296",
+              "popularity": 617,
+              "engagementCount": 926
+            }
+          ]
+        },
+        {
+          "title": "iOS 27, iPadOS 27, and macOS 27",
+          "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+          "summary": "Apple has released its software platform updates for iOS 27, iPadOS 27, and macOS 27 to the general public. The new versions include system improvements that enhance cross-device integration and updated features that customize the user experience.",
+          "meta": "591 points · 669 comments",
+          "snapshot": {
+            "sourceId": "49701004",
+            "capturedAt": "2026-09-15T09:13:22.943Z",
+            "metadata": {
+              "popularity": 591,
+              "engagementCount": 669,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49701004",
+                  "popularity": 591,
+                  "engagementCount": 669
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "throw0101d",
+                "createdAt": "2026-09-14T17:50:29Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49701004"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49701004",
+              "popularity": 591,
+              "engagementCount": 669
+            }
+          ]
+        },
+        {
+          "title": "Dario, Please",
+          "url": "https://pop.rdi.sh/dario-please/",
+          "summary": "The slowdown in the response speed of AI models (Claude) developed by Anthropic is increasing user dissatisfaction with the developer experience. Users state that high latency reduces efficiency in applications and are requesting performance improvements.",
+          "meta": "516 points · 251 comments",
+          "snapshot": {
+            "sourceId": "49697893",
+            "capturedAt": "2026-09-15T09:13:22.943Z",
+            "metadata": {
+              "popularity": 516,
+              "engagementCount": 251,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49697893",
+                  "popularity": 516,
+                  "engagementCount": 251
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "0x5FC3",
+                "createdAt": "2026-09-14T14:50:32Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49697893"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49697893",
+              "popularity": 516,
+              "engagementCount": 251
+            }
+          ]
+        },
+        {
+          "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+          "summary": "It has been revealed that OpenAI bots were aware of a caching vulnerability on the RubyGems platform, where software libraries are distributed. This situation has sparked discussions regarding the capacity of automated systems to detect and exploit security vulnerabilities.",
+          "meta": "454 points · 362 comments",
+          "snapshot": {
+            "sourceId": "49695876",
+            "capturedAt": "2026-09-15T09:13:22.943Z",
+            "metadata": {
+              "popularity": 454,
+              "engagementCount": 362,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49695876",
+                  "popularity": 454,
+                  "engagementCount": 362
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "gregnavis",
+                "createdAt": "2026-09-14T12:40:57Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49695876"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49695876",
+              "popularity": 454,
+              "engagementCount": 362
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "LynnReal-Omni: Native multi-modal Video Generation for Agentic Visual Workflows",
+          "url": "https://huggingface.co/papers/2609.15863",
+          "summary": "LynnReal-Omni aims to produce more stable and consistent videos by combining the stochastic nature of video diffusion models with agent-based visual workflows. This method enables high-fidelity results by using concrete references such as 3D scenes or executable game states in the visual content creation process.",
+          "meta": "25 likes · 0 comments",
+          "snapshot": {
+            "sourceId": "2609.15863",
+            "capturedAt": "2026-09-15T09:13:22.717Z",
+            "metadata": {
+              "popularity": 25,
+              "engagementCount": 0,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.15863",
+                "publishedAt": "2026-09-14T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Expert-Space Exploration in MoE Reinforcement Learning",
+          "url": "https://huggingface.co/papers/2609.13058",
+          "summary": "Reinforcement learning processes in Mixture-of-Experts models aim to improve model performance by optimizing expert selection mechanisms. This approach offers a new method to improve training efficiency and output quality by diversifying sparse computational paths.",
+          "meta": "3 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2609.13058",
+            "capturedAt": "2026-09-15T09:13:22.717Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.13058",
+                "publishedAt": "2026-09-11T00:00:00.000Z",
+                "githubRepo": "https://github.com/strawberrymaster111/ESRL-Release",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "MInTRL: Off-policy Intervention can boost On-policy RL",
+          "url": "https://huggingface.co/papers/2609.12419",
+          "summary": "The MInTRL method expands the model's own exploration boundaries by using off-policy interventions in reinforcement learning processes. This approach increases learning capacity by combining external knowledge obtained through supervised fine-tuning with on-policy training efficiency.",
+          "meta": "2 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2609.12419",
+            "capturedAt": "2026-09-15T09:13:22.717Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.12419",
+                "publishedAt": "2026-09-11T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Grouped Value Attention: Efficient KV Caching via On-Demand Key Reconstruction",
+          "url": "https://huggingface.co/papers/2609.13285",
+          "summary": "Grouped Value Attention aims to optimize the key-value (KV) cache, which creates a memory bottleneck in Transformer models. The method reduces system memory usage and data traffic by reconstructing content keys through a learned linear mapping.",
+          "meta": "38 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2609.13285",
+            "capturedAt": "2026-09-15T09:13:22.717Z",
+            "metadata": {
+              "popularity": 38,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.13285",
+                "publishedAt": "2026-09-08T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Building a Production Greek-English Speech Recognizer",
+          "url": "https://huggingface.co/papers/2609.13498",
+          "summary": "Sophea was developed as a bilingual automatic speech recognition system supporting Greek and English. Passing through nine different production gates, this system was trained with fifteen hundred hours of audio data to achieve high accuracy rates in noisy environments.",
+          "meta": "3 likes · 2 comments",
+          "snapshot": {
+            "sourceId": "2609.13498",
+            "capturedAt": "2026-09-15T09:13:22.717Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.13498",
+                "publishedAt": "2026-09-11T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "The contagion of fear",
+          "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+          "summary": "The psychological pressure that technical outages in the software world place on teams and the culture of fear that leads to flawed decision-making processes are discussed. Bryan Cantrill analyzes how reactions to system failures negatively impact organizational processes and the reflections of this situation on engineering practices.",
+          "meta": "133 points · 36 comments",
+          "snapshot": {
+            "sourceId": "1ifr5f",
+            "capturedAt": "2026-09-15T09:13:22.886Z",
+            "metadata": {
+              "popularity": 133,
+              "engagementCount": 36,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/1ifr5f/contagion_fear",
+                  "popularity": 133,
+                  "engagementCount": 36
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-14T11:53:14.313-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/1ifr5f/contagion_fear",
+              "popularity": 133,
+              "engagementCount": 36
+            }
+          ]
+        },
+        {
+          "title": "\"Do You Still Read the Code?\"",
+          "url": "https://zanlib.dev/blog/do-you-still-read-the-code/",
+          "summary": "The replacement of code-reading habits with ready-made libraries and artificial intelligence tools in software development processes is reducing in-depth knowledge about how systems function. This trend poses a risk to the ability to resolve complex bugs and understand software architecture.",
+          "meta": "43 points · 8 comments",
+          "snapshot": {
+            "sourceId": "qiwlzz",
+            "capturedAt": "2026-09-15T09:13:22.886Z",
+            "metadata": {
+              "popularity": 43,
+              "engagementCount": 8,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/qiwlzz/do_you_still_read_code",
+                  "popularity": 43,
+                  "engagementCount": 8
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "practices",
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-14T15:16:07.338-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/qiwlzz/do_you_still_read_code",
+              "popularity": 43,
+              "engagementCount": 8
+            }
+          ]
+        },
+        {
+          "title": "What blog posts influenced your thinking the most?",
+          "url": "https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking",
+          "summary": "A discussion on the software development community Lobsters brings together influential blog posts that shape individuals' mindsets. Participants share how classic content written on software architecture and process management has transformed their professional perspectives.",
+          "meta": "66 points · 39 comments",
+          "snapshot": {
+            "sourceId": "lbavmm",
+            "capturedAt": "2026-09-15T09:13:22.886Z",
+            "metadata": {
+              "popularity": 66,
+              "engagementCount": 39,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking",
+                  "popularity": 66,
+                  "engagementCount": 39
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "ask",
+                  "practices"
+                ],
+                "createdAt": "2026-09-14T10:27:32.545-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking",
+              "popularity": 66,
+              "engagementCount": 39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "agentic",
+      "explanation": "The feature of artificial intelligence to plan and take action on its own to reach its goal instead of just waiting for commands."
+    },
+    {
+      "term": "swarm intelligence",
+      "explanation": "A large number of simple units communicating with each other to cooperate toward a common goal, much like ant colonies."
+    },
+    {
+      "term": "API",
+      "explanation": "A digital bridge that allows two different software programs to communicate and exchange data with each other."
+    },
+    {
+      "term": "tokenizer",
+      "explanation": "A system that breaks down texts into small numerical pieces or word groups that artificial intelligence can process."
+    },
+    {
+      "term": "TTS",
+      "explanation": "Technology that converts written text into a natural human voice via a computer."
+    }
+  ]
+}

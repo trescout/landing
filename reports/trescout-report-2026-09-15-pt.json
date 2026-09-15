@@ -1,0 +1,1051 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-15",
+  "capturedAt": "2026-09-15T09:13:22.612Z",
+  "editorial": "Na agenda tecnológica de hoje, as ferramentas de revisão de código aberto (open-code-review) e os modelos de inteligência artificial de alta eficiência (DeepSeek-V4.1-Flash) são o foco principal. No lado do hardware, desenvolvimentos como sistemas de jogos de alto preço e a suspensão de serviços de plataforma levantam questões sobre os equilíbrios de custos no mercado.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "JustVugg/colibri",
+          "url": "https://github.com/JustVugg/colibri",
+          "summary": "Colibri é um motor de inferência escrito em C que permite executar grandes modelos de linguagem (LLM) em computadores locais com baixos requisitos de hardware. Ele processa modelos com arquitetura de Mistura de Especialistas (Mixture of Experts) através de um método de streaming a partir do disco, permitindo que sejam executados sem a necessidade de alta memória.",
+          "meta": "C · ★ 32.806 · +2.173 hoje",
+          "snapshot": {
+            "sourceId": "JustVugg/colibri",
+            "capturedAt": "2026-09-15T09:13:23.658Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 32806,
+              "engagementCount": 2173,
+              "rank": 1,
+              "extra": {
+                "starsToday": 2173
+              }
+            }
+          }
+        },
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "Open-Code-Review, uma ferramenta de revisão de código de código aberto desenvolvida pelo Alibaba, combina pipelines determinísticos e agentes de grandes modelos de linguagem (LLM) em uma estrutura híbrida. O sistema, que oferece comentários linha a linha nos processos de desenvolvimento de software, utiliza conjuntos de regras multilíngues para detectar vulnerabilidades de segurança.",
+          "meta": "Go · ★ 26.776 · +1.571 hoje",
+          "snapshot": {
+            "sourceId": "alibaba/open-code-review",
+            "capturedAt": "2026-09-15T09:13:23.658Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 26776,
+              "engagementCount": 1571,
+              "rank": 2,
+              "extra": {
+                "starsToday": 1571
+              }
+            }
+          }
+        },
+        {
+          "title": "multimodal-art-projection/YuE",
+          "url": "https://github.com/multimodal-art-projection/YuE",
+          "summary": "YuE é um modelo que oferece produção musical avançada com capacidades de planejamento simbólico e criação de covers zero-shot. Ele facilita tarefas complexas de composição usando uma estrutura baseada em agentes que torna os processos de edição musical autônomos.",
+          "meta": "Python · ★ 8.741 · +559 hoje",
+          "snapshot": {
+            "sourceId": "multimodal-art-projection/YuE",
+            "capturedAt": "2026-09-15T09:13:23.658Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 8741,
+              "engagementCount": 559,
+              "rank": 3,
+              "extra": {
+                "starsToday": 559
+              }
+            }
+          }
+        },
+        {
+          "title": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "summary": "VoiceStudio é uma plataforma de processamento de áudio de código aberto que realiza operações como clonagem de voz, design de som e dublagem de vídeo sem conexão com a internet. Oferecendo uma alternativa local ao serviço de síntese de voz ElevenLabs, ele possibilita ditado, transcrição e criação de audiolivros em 646 idiomas.",
+          "meta": "Python · ★ 29.990 · +2.776 hoje",
+          "snapshot": {
+            "sourceId": "debpalash/VoiceStudio",
+            "capturedAt": "2026-09-15T09:13:23.658Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 29990,
+              "engagementCount": 2776,
+              "rank": 4,
+              "extra": {
+                "starsToday": 2776
+              }
+            }
+          }
+        },
+        {
+          "title": "666ghj/MiroFish",
+          "url": "https://github.com/666ghj/MiroFish",
+          "summary": "MiroFish é um motor de inteligência de enxame simples e universal projetado para fazer previsões em vários conjuntos de dados. Desenvolvida em Python, esta ferramenta permite a criação de modelos preditivos em diferentes áreas ao analisar padrões em sistemas complexos.",
+          "meta": "Python · ★ 73.504 · +560 hoje",
+          "snapshot": {
+            "sourceId": "666ghj/MiroFish",
+            "capturedAt": "2026-09-15T09:13:23.658Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 73504,
+              "engagementCount": 560,
+              "rank": 5,
+              "extra": {
+                "starsToday": 560
+              }
+            }
+          }
+        },
+        {
+          "title": "Panniantong/Agent-Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "summary": "Agent-Reach é uma ferramenta de linha de comando que dá aos agentes de inteligência artificial a capacidade de rastrear redes sociais e plataformas de conteúdo na internet. Este software, que permite extrair dados de meios populares como Twitter, Reddit e YouTube, oferece acesso à informação sem pagar taxas de interface de programação de aplicativos (API).",
+          "meta": "Python · ★ 81.744 · +651 hoje",
+          "snapshot": {
+            "sourceId": "Panniantong/Agent-Reach",
+            "capturedAt": "2026-09-15T09:13:23.658Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 81744,
+              "engagementCount": 651,
+              "rank": 6,
+              "extra": {
+                "starsToday": 651
+              }
+            }
+          }
+        },
+        {
+          "title": "asgeirtj/system_prompts_leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "summary": "O repositório System_prompts_leaks é um arquivo que compila os comandos de sistema (system prompts) que operam em segundo plano nos modelos de inteligência artificial populares. Ele disponibiliza publicamente essas instruções ocultas para aqueles que desejam entender a lógica de funcionamento e as restrições dos modelos desenvolvidos por empresas como Anthropic, OpenAI, Google e xAI.",
+          "meta": "JavaScript · ★ 67.042 · +764 hoje",
+          "snapshot": {
+            "sourceId": "asgeirtj/system_prompts_leaks",
+            "capturedAt": "2026-09-15T09:13:23.658Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 67042,
+              "engagementCount": 764,
+              "rank": 7,
+              "extra": {
+                "starsToday": 764
+              }
+            }
+          }
+        },
+        {
+          "title": "rlaope/oh-my-hermes",
+          "url": "https://github.com/rlaope/oh-my-hermes",
+          "summary": "O oh-my-hermes, desenvolvido para o Hermes Agent, oferece inteligência de codificação, sistema de memória de longo prazo e pacotes de fluxo de trabalho focados em modelos em um único plugin. Esta ferramenta, que otimiza os processos de desenvolvimento de software, proporciona aos desenvolvedores um ambiente de trabalho abrangente com sua estrutura baseada em Python.",
+          "meta": "Python · ★ 2.296 · +77 hoje",
+          "snapshot": {
+            "sourceId": "rlaope/oh-my-hermes",
+            "capturedAt": "2026-09-15T09:13:23.658Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 2296,
+              "engagementCount": 77,
+              "rank": 8,
+              "extra": {
+                "starsToday": 77
+              }
+            }
+          }
+        },
+        {
+          "title": "localsend/localsend",
+          "url": "https://github.com/localsend/localsend",
+          "summary": "LocalSend é uma alternativa de código aberto ao AirDrop que permite o compartilhamento de arquivos entre dispositivos. Ele possibilita a transferência segura de dados através da rede local sem a necessidade de conexão com a internet.",
+          "meta": "Dart · ★ 91.549 · +251 hoje",
+          "snapshot": {
+            "sourceId": "localsend/localsend",
+            "capturedAt": "2026-09-15T09:13:23.658Z",
+            "metadata": {
+              "language": "Dart",
+              "popularity": 91549,
+              "engagementCount": 251,
+              "rank": 9,
+              "extra": {
+                "starsToday": 251
+              }
+            }
+          }
+        },
+        {
+          "title": "dani-garcia/vaultwarden",
+          "url": "https://github.com/dani-garcia/vaultwarden",
+          "summary": "Vaultwarden é um software de servidor de código aberto desenvolvido em Rust que funciona de forma compatível com a ferramenta de gerenciamento de senhas Bitwarden. Esta alternativa não oficial permite que você execute um cofre de senhas seguro em seu próprio servidor com baixo consumo de recursos do sistema.",
+          "meta": "Rust · ★ 67.616 · +115 hoje",
+          "snapshot": {
+            "sourceId": "dani-garcia/vaultwarden",
+            "capturedAt": "2026-09-15T09:13:23.658Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 67616,
+              "engagementCount": 115,
+              "rank": 10,
+              "extra": {
+                "starsToday": 115
+              }
+            }
+          }
+        },
+        {
+          "title": "TauricResearch/TradingAgents",
+          "url": "https://github.com/TauricResearch/TradingAgents",
+          "summary": "TradingAgents é uma estrutura Python que utiliza uma arquitetura de múltiplos agentes de inteligência artificial (multi-agent) para realizar operações nos mercados financeiros. Ele oferece uma estrutura que analisa dados de mercado e desenvolve estratégias de negociação autônomas usando grandes modelos de linguagem (large language models).",
+          "meta": "Python · ★ 106.431 · +745 hoje",
+          "snapshot": {
+            "sourceId": "TauricResearch/TradingAgents",
+            "capturedAt": "2026-09-15T09:13:23.658Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 106431,
+              "engagementCount": 745,
+              "rank": 11,
+              "extra": {
+                "starsToday": 745
+              }
+            }
+          }
+        },
+        {
+          "title": "ruvnet/RuView",
+          "url": "https://github.com/ruvnet/RuView",
+          "summary": "RuView é um software que utiliza sinais Wi-Fi padrão para realizar análise espacial em tempo real, detecção de presença e monitoramento de sinais vitais sem a necessidade de dados de imagem. Desenvolvida com a linguagem de programação Rust, esta tecnologia transforma a infraestrutura de rede sem fio existente em um sistema de detecção.",
+          "meta": "Rust · ★ 94.032 · +383 hoje",
+          "snapshot": {
+            "sourceId": "ruvnet/RuView",
+            "capturedAt": "2026-09-15T09:13:23.658Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 94032,
+              "engagementCount": 383,
+              "rank": 12,
+              "extra": {
+                "starsToday": 383
+              }
+            }
+          }
+        },
+        {
+          "title": "tech-leads-club/agent-skills",
+          "url": "https://github.com/tech-leads-club/agent-skills",
+          "summary": "Agent-skills é um registro que oferece pacotes de habilidades (skills) seguros e verificados para assistentes de codificação de inteligência artificial (como Claude Code, Cursor, Copilot). O objetivo é aumentar a segurança nos processos de software, padronizando a forma como os desenvolvedores adicionam novas funcionalidades a essas ferramentas.",
+          "meta": "TypeScript · ★ 6.197 · +512 hoje",
+          "snapshot": {
+            "sourceId": "tech-leads-club/agent-skills",
+            "capturedAt": "2026-09-15T09:13:23.658Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 6197,
+              "engagementCount": 512,
+              "rank": 13,
+              "extra": {
+                "starsToday": 512
+              }
+            }
+          }
+        },
+        {
+          "title": "OpenBMB/VoxCPM",
+          "url": "https://github.com/OpenBMB/VoxCPM",
+          "summary": "VoxCPM, desenvolvido pela OpenBMB, é um modelo que realiza síntese de fala (TTS) multilíngue sem o uso de um tokenizador de texto. O sistema foi desenvolvido para design de som criativo e processos de clonagem de voz realistas.",
+          "meta": "Python · ★ 37.512 · +216 hoje",
+          "snapshot": {
+            "sourceId": "OpenBMB/VoxCPM",
+            "capturedAt": "2026-09-15T09:13:23.658Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 37512,
+              "engagementCount": 216,
+              "rank": 14,
+              "extra": {
+                "starsToday": 216
+              }
+            }
+          }
+        },
+        {
+          "title": "huggingface/transformers",
+          "url": "https://github.com/huggingface/transformers",
+          "summary": "Transformers, desenvolvido pela Hugging Face, é uma biblioteca abrangente usada para treinar e executar modelos de aprendizado de máquina em diferentes áreas, como texto, imagem e áudio. Atua como uma infraestrutura padrão nos processos de definição e implementação de modelos modernos de inteligência artificial.",
+          "meta": "Python · ★ 166.137 · +536 hoje",
+          "snapshot": {
+            "sourceId": "huggingface/transformers",
+            "capturedAt": "2026-09-15T09:13:23.658Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 166137,
+              "engagementCount": 536,
+              "rank": 15,
+              "extra": {
+                "starsToday": 536
+              }
+            }
+          }
+        },
+        {
+          "title": "ever-co/ever-gauzy",
+          "url": "https://github.com/ever-co/ever-gauzy",
+          "summary": "Ever Gauzy é uma plataforma de gestão empresarial de código aberto que reúne processos de negócios como planejamento de recursos empresariais (ERP), gestão de relacionamento com o cliente (CRM) e recursos humanos sob um único teto. Desenvolvido com a linguagem TypeScript, este sistema permite que as empresas gerenciem suas necessidades operacionais por meio de um software centralizado.",
+          "meta": "TypeScript · ★ 6.205 · +1.130 hoje",
+          "snapshot": {
+            "sourceId": "ever-co/ever-gauzy",
+            "capturedAt": "2026-09-15T09:13:23.658Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 6205,
+              "engagementCount": 1130,
+              "rank": 16,
+              "extra": {
+                "starsToday": 1130
+              }
+            }
+          }
+        },
+        {
+          "title": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "summary": "Project NOMAD é um servidor de informações com foco offline que fornece acesso à Wikipedia, livros e conteúdos educacionais sem a necessidade de conexão com a internet. Operando com suporte de inteligência artificial local, este sistema possibilita a criação de uma infraestrutura de biblioteca digital independente em hardware pessoal.",
+          "meta": "TypeScript · ★ 37.065 · +40 hoje",
+          "snapshot": {
+            "sourceId": "Crosstalk-Solutions/project-nomad",
+            "capturedAt": "2026-09-15T09:13:23.658Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 37065,
+              "engagementCount": 40,
+              "rank": 17,
+              "extra": {
+                "starsToday": 40
+              }
+            }
+          }
+        },
+        {
+          "title": "reconurge/flowsint",
+          "url": "https://github.com/reconurge/flowsint",
+          "summary": "Flowsint é uma plataforma de investigação baseada em gráficos, visual, flexível e extensível, desenvolvida para analistas e pesquisadores de segurança cibernética. Escrita em TypeScript, esta ferramenta facilita a análise de incidentes de segurança ao visualizar conjuntos de dados complexos.",
+          "meta": "TypeScript · ★ 8.508 · +280 hoje",
+          "snapshot": {
+            "sourceId": "reconurge/flowsint",
+            "capturedAt": "2026-09-15T09:13:23.658Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 8508,
+              "engagementCount": 280,
+              "rank": 18,
+              "extra": {
+                "starsToday": 280
+              }
+            }
+          }
+        },
+        {
+          "title": "peetzweg/opendisplay",
+          "url": "https://github.com/peetzweg/opendisplay",
+          "summary": "OpenDisplay é uma ferramenta de extensão de tela de código aberto que transforma dispositivos iPhone ou iPad em um segundo monitor para computadores Mac. O aplicativo, que oferece transferência de imagem de baixa latência via USB ou conexão sem fio, apresenta uma alternativa gratuita ao Sidecar, a solução própria da Apple.",
+          "meta": "Swift · ★ 3.785 · +229 hoje",
+          "snapshot": {
+            "sourceId": "peetzweg/opendisplay",
+            "capturedAt": "2026-09-15T09:13:23.658Z",
+            "metadata": {
+              "language": "Swift",
+              "popularity": 3785,
+              "engagementCount": 229,
+              "rank": 19,
+              "extra": {
+                "starsToday": 229
+              }
+            }
+          }
+        },
+        {
+          "title": "SnailSploit/Claude-Red",
+          "url": "https://github.com/SnailSploit/Claude-Red",
+          "summary": "Claude-Red é uma biblioteca de habilidades de segurança ofensiva (offensive security skills) desenvolvida para o modelo de inteligência artificial Claude. Auxilia pesquisadores de segurança oferecendo metodologias de nível especializado em tópicos como injeção de SQL e evasão de sistemas de proteção de endpoint (EDR evasion).",
+          "meta": "Python · ★ 5.074 · +579 hoje",
+          "snapshot": {
+            "sourceId": "SnailSploit/Claude-Red",
+            "capturedAt": "2026-09-15T09:13:23.658Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 5074,
+              "engagementCount": 579,
+              "rank": 20,
+              "extra": {
+                "starsToday": 579
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Steam Frame starts at $1059",
+          "url": "https://store.steampowered.com/hardware/steamframe",
+          "summary": "A Valve iniciou a pré-venda da plataforma de hardware focada em jogos Steam Frame, com preços a partir de 1059 dólares. Este dispositivo é posicionado como um computador de jogos (gaming PC) projetado para executar jogos da biblioteca Steam diretamente.",
+          "meta": "662 pontos · 504 comentários",
+          "snapshot": {
+            "sourceId": "49700661",
+            "capturedAt": "2026-09-15T09:13:22.943Z",
+            "metadata": {
+              "popularity": 662,
+              "engagementCount": 504,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49700661",
+                  "popularity": 662,
+                  "engagementCount": 504
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "bsimpson",
+                "createdAt": "2026-09-14T17:27:55Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49700661"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49700661",
+              "popularity": 662,
+              "engagementCount": 504
+            }
+          ]
+        },
+        {
+          "title": "XCancel service is suspended until further notice",
+          "url": "https://xcancel.com/#",
+          "summary": "O serviço XCancel, que permitia visualizar conteúdos na plataforma X de forma anônima, suspendeu suas atividades por tempo indeterminado. O acesso ao serviço foi encerrado devido às políticas de acesso a dados da plataforma de mídia social X (antigo Twitter).",
+          "meta": "617 pontos · 926 comentários",
+          "snapshot": {
+            "sourceId": "49694296",
+            "capturedAt": "2026-09-15T09:13:22.943Z",
+            "metadata": {
+              "popularity": 617,
+              "engagementCount": 926,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49694296",
+                  "popularity": 617,
+                  "engagementCount": 926
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "gaganyaan",
+                "createdAt": "2026-09-14T09:51:50Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49694296"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49694296",
+              "popularity": 617,
+              "engagementCount": 926
+            }
+          ]
+        },
+        {
+          "title": "iOS 27, iPadOS 27, and macOS 27",
+          "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+          "summary": "A Apple disponibilizou para o público geral as atualizações de suas plataformas de software iOS 27, iPadOS 27 e macOS 27. As novas versões incluem melhorias no sistema que aumentam a integração entre dispositivos e recursos atualizados que personalizam a experiência do usuário.",
+          "meta": "591 pontos · 669 comentários",
+          "snapshot": {
+            "sourceId": "49701004",
+            "capturedAt": "2026-09-15T09:13:22.943Z",
+            "metadata": {
+              "popularity": 591,
+              "engagementCount": 669,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49701004",
+                  "popularity": 591,
+                  "engagementCount": 669
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "throw0101d",
+                "createdAt": "2026-09-14T17:50:29Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49701004"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49701004",
+              "popularity": 591,
+              "engagementCount": 669
+            }
+          ]
+        },
+        {
+          "title": "Dario, Please",
+          "url": "https://pop.rdi.sh/dario-please/",
+          "summary": "A lentidão na velocidade de resposta dos modelos de inteligência artificial desenvolvidos pela Anthropic (Claude) está aumentando a insatisfação dos usuários em relação à experiência do desenvolvedor. Os usuários afirmam que os altos tempos de latência reduzem a eficiência nas aplicações e solicitam melhorias de desempenho.",
+          "meta": "516 pontos · 251 comentários",
+          "snapshot": {
+            "sourceId": "49697893",
+            "capturedAt": "2026-09-15T09:13:22.943Z",
+            "metadata": {
+              "popularity": 516,
+              "engagementCount": 251,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49697893",
+                  "popularity": 516,
+                  "engagementCount": 251
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "0x5FC3",
+                "createdAt": "2026-09-14T14:50:32Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49697893"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49697893",
+              "popularity": 516,
+              "engagementCount": 251
+            }
+          ]
+        },
+        {
+          "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+          "summary": "Revelou-se que os bots da OpenAI tinham conhecimento prévio de uma vulnerabilidade de cache na plataforma RubyGems, onde bibliotecas de software são distribuídas. Esta situação trouxe à tona debates sobre a capacidade dos sistemas automatizados de detectar e explorar vulnerabilidades de segurança.",
+          "meta": "454 pontos · 362 comentários",
+          "snapshot": {
+            "sourceId": "49695876",
+            "capturedAt": "2026-09-15T09:13:22.943Z",
+            "metadata": {
+              "popularity": 454,
+              "engagementCount": 362,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49695876",
+                  "popularity": 454,
+                  "engagementCount": 362
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "gregnavis",
+                "createdAt": "2026-09-14T12:40:57Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49695876"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49695876",
+              "popularity": 454,
+              "engagementCount": 362
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+          "summary": "O DeepSeek-V4.1-Flash, desenvolvido pela DeepSeek, é um modelo de inteligência artificial multimodal capaz de processar dados visuais e textuais. Analisando imagens com comandos baseados em texto, este modelo oferece uma solução acessível através do Hugging Face.",
+          "meta": "♥ 2.551 · 288.414 downloads",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash",
+            "capturedAt": "2026-09-15T09:13:22.700Z",
+            "metadata": {
+              "popularity": 2551,
+              "engagementCount": 288414,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 2242,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Edge0/Edge0-35B-A3B-preview",
+          "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
+          "summary": "O Edge0-35B-A3B-preview, publicado no Hugging Face, é um modelo de inteligência artificial focado em geração de texto. Projetado para realizar tarefas complexas de processamento de linguagem, este modelo oferece uma nova opção para o ecossistema de modelos de linguagem de código aberto.",
+          "meta": "♥ 2.278 · 8.109 downloads",
+          "snapshot": {
+            "sourceId": "Edge0/Edge0-35B-A3B-preview",
+            "capturedAt": "2026-09-15T09:13:22.700Z",
+            "metadata": {
+              "popularity": 2278,
+              "engagementCount": 8109,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1876,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "mlx",
+                  "safetensors",
+                  "qwen3_5_moe",
+                  "moe",
+                  "edge-inference",
+                  "prerouter",
+                  "lora",
+                  "ssd-offload",
+                  "text-generation",
+                  "conversational",
+                  "base_model:Qwen/Qwen3.6-35B-A3B",
+                  "base_model:adapter:Qwen/Qwen3.6-35B-A3B",
+                  "license:apache-2.0",
+                  "4-bit",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "openbmb/MiniCPM5-2B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+          "summary": "O MiniCPM5-2B, desenvolvido pela OpenBMB, é um modelo de linguagem compacto capaz de realizar geração de texto com baixos requisitos de hardware. Ele visa oferecer capacidades de inteligência artificial de alto desempenho mesmo em dispositivos com recursos computacionais limitados.",
+          "meta": "♥ 1.417 · 206.774 downloads",
+          "snapshot": {
+            "sourceId": "openbmb/MiniCPM5-2B",
+            "capturedAt": "2026-09-15T09:13:22.700Z",
+            "metadata": {
+              "popularity": 1417,
+              "engagementCount": 206774,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 811,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "llama",
+                  "text-generation",
+                  "minicpm",
+                  "minicpm5",
+                  "long-context",
+                  "tool-calling",
+                  "on-device",
+                  "edge-ai",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "dataset:openbmb/Ultra-FineWeb",
+                  "dataset:openbmb/UltraX-Preview",
+                  "dataset:openbmb/Ultra-FineWeb-L3",
+                  "dataset:openbmb/UltraData-Math",
+                  "dataset:openbmb/UltraData-Code",
+                  "dataset:openbmb/UltraData-SFT-2605",
+                  "dataset:openbmb/UltraData-SFT-Agent-2609",
+                  "dataset:openbmb/UltraData-RL-2609",
+                  "arxiv:2506.07900",
+                  "arxiv:2602.09003",
+                  "license:apache-2.0",
+                  "text-generation-inference",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "nex-agi/Nex-N2.5-mini",
+          "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
+          "summary": "O Nex-N2.5-mini é um modelo de inteligência artificial compacto compartilhado na plataforma HuggingFace, focado na geração de texto. Ele visa proporcionar eficiência em tarefas de criação de texto com baixo consumo de recursos.",
+          "meta": "♥ 790 · 4.543 downloads",
+          "snapshot": {
+            "sourceId": "nex-agi/Nex-N2.5-mini",
+            "capturedAt": "2026-09-15T09:13:22.700Z",
+            "metadata": {
+              "popularity": 790,
+              "engagementCount": 4543,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 628,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5_moe",
+                  "image-text-to-text",
+                  "text-generation",
+                  "conversational",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "O Qwen2.5-27B, desenvolvido pelo Alibaba, é um grande modelo de linguagem multimodal capaz de processar dados visuais e textuais. O modelo visa oferecer alto desempenho em tarefas complexas de raciocínio e geração de texto.",
+          "meta": "♥ 15.191 · 7.703.400 downloads",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-27B",
+            "capturedAt": "2026-09-15T09:13:22.700Z",
+            "metadata": {
+              "popularity": 15191,
+              "engagementCount": 7703400,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 578,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "deploy:azure",
+                  "deploy:sagemaker",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "LynnReal-Omni: Native multi-modal Video Generation for Agentic Visual Workflows",
+          "url": "https://huggingface.co/papers/2609.15863",
+          "summary": "O LynnReal-Omni visa produzir vídeos mais estáveis e consistentes combinando a estrutura aleatória de modelos de difusão de vídeo com fluxos de trabalho visuais baseados em agentes. Este método permite obter resultados de alta fidelidade usando referências concretas, como cenas tridimensionais ou estados de jogo executáveis, no processo de criação de conteúdo visual.",
+          "meta": "25 curtidas · 0 comentários",
+          "snapshot": {
+            "sourceId": "2609.15863",
+            "capturedAt": "2026-09-15T09:13:22.717Z",
+            "metadata": {
+              "popularity": 25,
+              "engagementCount": 0,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.15863",
+                "publishedAt": "2026-09-14T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Expert-Space Exploration in MoE Reinforcement Learning",
+          "url": "https://huggingface.co/papers/2609.13058",
+          "summary": "Em modelos de Mistura de Especialistas (Mixture-of-Experts), os processos de aprendizagem por reforço visam otimizar os mecanismos de seleção de especialistas para aumentar o desempenho do modelo. Esta abordagem oferece um novo método para melhorar a eficiência do treinamento e a qualidade da saída, diversificando os caminhos de computação esparsos.",
+          "meta": "3 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.13058",
+            "capturedAt": "2026-09-15T09:13:22.717Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.13058",
+                "publishedAt": "2026-09-11T00:00:00.000Z",
+                "githubRepo": "https://github.com/strawberrymaster111/ESRL-Release",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "MInTRL: Off-policy Intervention can boost On-policy RL",
+          "url": "https://huggingface.co/papers/2609.12419",
+          "summary": "O método MInTRL utiliza intervenções fora da política (off-policy) em processos de aprendizagem por reforço para expandir os limites de exploração do modelo. Esta abordagem aumenta a capacidade de aprendizagem ao combinar o conhecimento externo obtido por meio de ajuste fino supervisionado (supervised fine-tuning) com a eficiência de treinamento dentro da política (on-policy).",
+          "meta": "2 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.12419",
+            "capturedAt": "2026-09-15T09:13:22.717Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.12419",
+                "publishedAt": "2026-09-11T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Grouped Value Attention: Efficient KV Caching via On-Demand Key Reconstruction",
+          "url": "https://huggingface.co/papers/2609.13285",
+          "summary": "O mecanismo de Atenção de Valor Agrupado (Grouped Value Attention) visa otimizar o cache de chave-valor (KV cache), que cria gargalos de memória em modelos Transformer. O método reduz o uso de memória e o tráfego de dados do sistema ao reconstruir as chaves de conteúdo com um mapeamento linear aprendido.",
+          "meta": "38 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.13285",
+            "capturedAt": "2026-09-15T09:13:22.717Z",
+            "metadata": {
+              "popularity": 38,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.13285",
+                "publishedAt": "2026-09-08T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Building a Production Greek-English Speech Recognizer",
+          "url": "https://huggingface.co/papers/2609.13498",
+          "summary": "O Sophea foi desenvolvido como um sistema de reconhecimento automático de fala bilíngue que suporta os idiomas grego e inglês. Passando por nove estágios de produção diferentes, este sistema foi treinado com quinze mil horas de dados de áudio para atingir altas taxas de precisão em ambientes ruidosos.",
+          "meta": "3 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2609.13498",
+            "capturedAt": "2026-09-15T09:13:22.717Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.13498",
+                "publishedAt": "2026-09-11T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "The contagion of fear",
+          "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+          "summary": "Aborda-se a pressão psicológica que as interrupções técnicas no mundo do software exercem sobre as equipes e a cultura do medo que leva a processos de tomada de decisão errôneos. Bryan Cantrill analisa como as reações às falhas do sistema afetam negativamente os processos corporativos e os reflexos disso nas práticas de engenharia.",
+          "meta": "133 pontos · 36 comentários",
+          "snapshot": {
+            "sourceId": "1ifr5f",
+            "capturedAt": "2026-09-15T09:13:22.886Z",
+            "metadata": {
+              "popularity": 133,
+              "engagementCount": 36,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/1ifr5f/contagion_fear",
+                  "popularity": 133,
+                  "engagementCount": 36
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-14T11:53:14.313-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/1ifr5f/contagion_fear",
+              "popularity": 133,
+              "engagementCount": 36
+            }
+          ]
+        },
+        {
+          "title": "\"Do You Still Read the Code?\"",
+          "url": "https://zanlib.dev/blog/do-you-still-read-the-code/",
+          "summary": "A substituição do hábito de leitura de código por bibliotecas prontas e ferramentas de inteligência artificial nos processos de desenvolvimento de software reduz o conhecimento profundo sobre o funcionamento dos sistemas. Essa tendência representa um risco para a capacidade de resolver erros complexos e compreender a arquitetura de software.",
+          "meta": "43 pontos · 8 comentários",
+          "snapshot": {
+            "sourceId": "qiwlzz",
+            "capturedAt": "2026-09-15T09:13:22.886Z",
+            "metadata": {
+              "popularity": 43,
+              "engagementCount": 8,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/qiwlzz/do_you_still_read_code",
+                  "popularity": 43,
+                  "engagementCount": 8
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "practices",
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-14T15:16:07.338-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/qiwlzz/do_you_still_read_code",
+              "popularity": 43,
+              "engagementCount": 8
+            }
+          ]
+        },
+        {
+          "title": "What blog posts influenced your thinking the most?",
+          "url": "https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking",
+          "summary": "Uma discussão na comunidade de desenvolvimento de software Lobsters reúne postagens de blog influentes que moldam a mentalidade dos indivíduos. Os participantes compartilham como conteúdos clássicos escritos sobre arquitetura de software e gestão de processos transformaram suas perspectivas profissionais.",
+          "meta": "66 pontos · 39 comentários",
+          "snapshot": {
+            "sourceId": "lbavmm",
+            "capturedAt": "2026-09-15T09:13:22.886Z",
+            "metadata": {
+              "popularity": 66,
+              "engagementCount": 39,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking",
+                  "popularity": 66,
+                  "engagementCount": 39
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "ask",
+                  "practices"
+                ],
+                "createdAt": "2026-09-14T10:27:32.545-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking",
+              "popularity": 66,
+              "engagementCount": 39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "LLM",
+      "explanation": "Modelos de inteligência artificial treinados com grandes volumes de dados, capazes de entender a linguagem humana e gerar texto."
+    },
+    {
+      "term": "Mixture of Experts",
+      "explanation": "Uma arquitetura de inteligência artificial eficiente que ativa apenas pequenas partes especializadas em um assunto para resolver um problema complexo."
+    },
+    {
+      "term": "code review tool",
+      "explanation": "Ferramenta de auditoria que analisa automaticamente o código escrito pelos desenvolvedores em busca de erros ou melhorias."
+    },
+    {
+      "term": "zero-shot",
+      "explanation": "A capacidade da inteligência artificial de realizar diretamente uma tarefa que nunca viu ou para a qual não foi treinada, sem receber nenhum exemplo."
+    },
+    {
+      "term": "agentic",
+      "explanation": "A característica da inteligência artificial de planejar e agir por conta própria para atingir seu objetivo, em vez de apenas aguardar comandos."
+    },
+    {
+      "term": "swarm intelligence",
+      "explanation": "O trabalho conjunto de várias unidades simples que se comunicam entre si para alcançar um objetivo comum, tal como colônias de formigas."
+    },
+    {
+      "term": "API",
+      "explanation": "Uma ponte digital que permite que dois softwares diferentes conversem entre si e troquem dados."
+    },
+    {
+      "term": "system prompts",
+      "explanation": "Instruções fundamentais que determinam como a inteligência artificial deve se comportar, qual tom de voz usar ou quais regras seguir."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "O trabalho colaborativo de múltiplas inteligências artificiais com diferentes funções para concluir uma tarefa complexa."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligência artificial treinados com grandes volumes de dados, capazes de entender a linguagem humana e gerar texto."
+    },
+    {
+      "term": "skills",
+      "explanation": "Habilidades especiais ou conjuntos de ferramentas que a inteligência artificial usa para realizar uma tarefa específica."
+    },
+    {
+      "term": "tokenizer",
+      "explanation": "Sistema que divide textos em pequenos fragmentos numéricos ou grupos de palavras que a inteligência artificial pode processar."
+    },
+    {
+      "term": "TTS",
+      "explanation": "Tecnologia que converte textos escritos em uma voz humana natural através do computador."
+    },
+    {
+      "term": "ERP",
+      "explanation": "Sistema de software que permite a uma empresa gerenciar todos os seus processos de negócios, como contabilidade, estoque e recursos humanos, a partir de um único centro."
+    },
+    {
+      "term": "CRM",
+      "explanation": "Sistema de gestão através do qual as empresas acompanham o relacionamento com seus clientes, interações passadas e processos de vendas."
+    },
+    {
+      "term": "offensive security skills",
+      "explanation": "A capacidade de realizar testes de segurança pensando como um invasor para encontrar vulnerabilidades nos sistemas."
+    }
+  ]
+}
