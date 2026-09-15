@@ -32,8 +32,8 @@ Ja, aber für KI werden in der Regel professionelle Modelle verwendet, die mit m
 ## Verwandte Werkzeuge
 - [Pytorch](/de/discover/pytorch/)
 - [Llmfit](/de/discover/llmfit/)
-- [Olmocr](/de/discover/olmocr/)
 - [Ktransformers](/de/discover/ktransformers/)
+- [Olmocr](/de/discover/olmocr/)
 - [Cupy](/de/discover/cupy/)
 - [Needle](/de/discover/needle/)
 - [Train LLM from Scratch](/de/discover/train-llm-from-scratch/)

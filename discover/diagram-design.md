@@ -2,15 +2,15 @@
 
 Cathryn Lavery tarafından geliştirilen diagram-design, yapay zekâ destekli kodlama aracı Claude Code için hazırlanan 29 farklı editoryal diyagram türünü içeriyor. Bu kütüphane, karmaşık diyagramları standart şema araçları yerine doğrudan HTML ve ölçeklenebilir vektör grafikleri (SVG) kullanarak temiz bir şekilde sunuyor.
 
-- ★ 38.136
+- ★ 40.046
 - HTML
 - GitHub Trending · 2026-08-13
 
 ## Güncelleme
+- 15 Eylül 2026: Yıldız 38.136 → 40.046.
 - 11 Eylül 2026: Yıldız 35.747 → 38.136.
 - 9 Eylül 2026: Yıldız 32.934 → 35.747.
 - 7 Eylül 2026: Yıldız 31.216 → 32.934.
-- 5 Eylül 2026: Yıldız 29.169 → 31.216.
 
 ## Ne kazandırır?
 - 27 farklı türde editoryal kalitede diyagram sunar

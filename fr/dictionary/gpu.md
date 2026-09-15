@@ -32,8 +32,8 @@ Oui, mais ceux utilisés pour l’IA sont généralement des modèles profession
 ## Outils liés
 - [Pytorch](/fr/discover/pytorch/)
 - [Llmfit](/fr/discover/llmfit/)
-- [Olmocr](/fr/discover/olmocr/)
 - [Ktransformers](/fr/discover/ktransformers/)
+- [Olmocr](/fr/discover/olmocr/)
 - [Cupy](/fr/discover/cupy/)
 - [Needle](/fr/discover/needle/)
 - [Train LLM from Scratch](/fr/discover/train-llm-from-scratch/)

@@ -32,8 +32,8 @@ Sí, pero los que se utilizan para IA suelen ser modelos profesionales equipados
 ## Herramientas relacionadas
 - [Pytorch](/es/discover/pytorch/)
 - [Llmfit](/es/discover/llmfit/)
-- [Olmocr](/es/discover/olmocr/)
 - [Ktransformers](/es/discover/ktransformers/)
+- [Olmocr](/es/discover/olmocr/)
 - [Cupy](/es/discover/cupy/)
 - [Needle](/es/discover/needle/)
 - [Train LLM from Scratch](/es/discover/train-llm-from-scratch/)

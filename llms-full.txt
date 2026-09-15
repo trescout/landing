@@ -34596,6 +34596,61 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yapay zekâ ile profesyonel diyagramlar oluşturun
+
+Cathryn Lavery tarafından geliştirilen diagram-design, yapay zekâ destekli kodlama aracı Claude Code için hazırlanan 29 farklı editoryal diyagram türünü içeriyor. Bu kütüphane, karmaşık diyagramları standart şema araçları yerine doğrudan HTML ve ölçeklenebilir vektör grafikleri (SVG) kullanarak temiz bir şekilde sunuyor.
+
+- ★ 40.046
+- HTML
+- GitHub Trending · 2026-08-13
+
+## Güncelleme
+- 15 Eylül 2026: Yıldız 38.136 → 40.046.
+- 11 Eylül 2026: Yıldız 35.747 → 38.136.
+- 9 Eylül 2026: Yıldız 32.934 → 35.747.
+- 7 Eylül 2026: Yıldız 31.216 → 32.934.
+
+## Ne kazandırır?
+- 27 farklı türde editoryal kalitede diyagram sunar
+- HTML ve SVG kullanarak temiz görseller üretir
+- Marka kimliğinize uygun tasarımları hızla oluşturur
+
+## Kurulum
+
+**Yerel kurulum ve yapılandırma**
+
+```
+git clone git@github.com:cathrynlavery/diagram-design.git ~/code/diagram-design
+
+# Pi: register the checkout as a local package
+pi install ~/code/diagram-design
+
+# Claude Code: symlink the inner skill
+ln -s ~/code/diagram-design/skills/diagram-design ~/.claude/skills/diagram-design
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Claude Code veya kullandığın yapay zekâ asistanına, mevcut projemin mimarisini veya iş akışını analiz etmesini söyle. Ardından, diagram-design kütüphanesindeki 27 farklı görsel türünden, anlattığım konuya en uygun olanı seçerek temiz bir HTML ve SVG diyagramı oluşturmasını iste. Tasarımın markamın renklerine ve görsel diline uyumlu olması için web sitemi referans almasını belirt.
+
+- **Kimin için:** Karmaşık süreçleri veya mimari yapıları görselleştirirken tasarım araçlarıyla uğraşmak istemeyen yazılımcılar ve içerik üreticileri için uygundur. 
+- **Lisans:** MIT 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/cathrynlavery/diagram-design)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+SVG Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/diagram-design/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Modern API isteklerini kolayca yönetin
 
 Insomnia, GraphQL, REST, WebSockets, SSE ve gRPC protokollerini destekleyen açık kaynaklı bir uygulama programlama arayüzü (API) istemcisidir. Yazılım, bulut tabanlı, yerel ve Git üzerinden depolama seçenekleriyle çapraz platform desteği sunar.
@@ -35076,61 +35131,6 @@ Multimodal Multimodal AI AI Models Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ui-tars-desktop/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Yapay zekâ ile profesyonel diyagramlar oluşturun
-
-Cathryn Lavery tarafından geliştirilen diagram-design, yapay zekâ destekli kodlama aracı Claude Code için hazırlanan 29 farklı editoryal diyagram türünü içeriyor. Bu kütüphane, karmaşık diyagramları standart şema araçları yerine doğrudan HTML ve ölçeklenebilir vektör grafikleri (SVG) kullanarak temiz bir şekilde sunuyor.
-
-- ★ 38.136
-- HTML
-- GitHub Trending · 2026-08-13
-
-## Güncelleme
-- 11 Eylül 2026: Yıldız 35.747 → 38.136.
-- 9 Eylül 2026: Yıldız 32.934 → 35.747.
-- 7 Eylül 2026: Yıldız 31.216 → 32.934.
-- 5 Eylül 2026: Yıldız 29.169 → 31.216.
-
-## Ne kazandırır?
-- 27 farklı türde editoryal kalitede diyagram sunar
-- HTML ve SVG kullanarak temiz görseller üretir
-- Marka kimliğinize uygun tasarımları hızla oluşturur
-
-## Kurulum
-
-**Yerel kurulum ve yapılandırma**
-
-```
-git clone git@github.com:cathrynlavery/diagram-design.git ~/code/diagram-design
-
-# Pi: register the checkout as a local package
-pi install ~/code/diagram-design
-
-# Claude Code: symlink the inner skill
-ln -s ~/code/diagram-design/skills/diagram-design ~/.claude/skills/diagram-design
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Claude Code veya kullandığın yapay zekâ asistanına, mevcut projemin mimarisini veya iş akışını analiz etmesini söyle. Ardından, diagram-design kütüphanesindeki 27 farklı görsel türünden, anlattığım konuya en uygun olanı seçerek temiz bir HTML ve SVG diyagramı oluşturmasını iste. Tasarımın markamın renklerine ve görsel diline uyumlu olması için web sitemi referans almasını belirt.
-
-- **Kimin için:** Karmaşık süreçleri veya mimari yapıları görselleştirirken tasarım araçlarıyla uğraşmak istemeyen yazılımcılar ve içerik üreticileri için uygundur. 
-- **Lisans:** MIT 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/cathrynlavery/diagram-design)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-SVG Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/diagram-design/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -38773,15 +38773,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Kilo, yazılım geliştirme süreçlerini hızlandırmak amacıyla tasarlanmış hepsi bir arada ajan tabanlı mühendislik platformudur (agentic engineering platform). Açık kaynak kodlu yazılım geliştirme ajanı (coding agent) üzerinden uygulama oluşturma, dağıtma ve yineleme süreçlerini standartlaştırır.
 
-- ★ 27.256
+- ★ 27.309
 - TypeScript
 - GitHub Trending · 2026-06-19
 
 ## Güncelleme
+- 15 Eylül 2026: Yıldız 27.256 → 27.309, son sürüm v7.7.1 (15 Eylül 2026).
 - 11 Eylül 2026: Yıldız 27.239 → 27.256, son sürüm v7.6.2 (10 Eylül 2026).
 - 10 Eylül 2026: Yıldız 27.230 → 27.239, son sürüm v7.6.0 (10 Eylül 2026).
 - 9 Eylül 2026: Yıldız 27.223 → 27.230, son sürüm jetbrains/v7.1.6 (8 Eylül 2026).
-- 8 Eylül 2026: Yıldız 27.191 → 27.223, son sürüm v7.5.16 (8 Eylül 2026).
 
 ## Ne kazandırır?
 - 500'den fazla model arasında geçiş yapabilme
@@ -41249,6 +41249,55 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yapay zekâ modelleri için heterojen hızlandırma
+
+Ktransformers, büyük dil modellerinin (large language models) çıkarım ve ince ayar (fine-tuning) süreçlerinde heterojen donanım optimizasyonlarını destekleyen esnek bir çerçeve sunuyor. Bu yapı, farklı donanım kaynaklarını verimli kullanarak model performansını artırmayı hedefliyor.
+
+- ★ 19.517
+- Python
+- GitHub Trending · 2026-07-20
+
+## Güncelleme
+- 15 Eylül 2026: Yıldız 19.255 → 19.517, son sürüm v0.7.1 (15 Eylül 2026).
+- 18 Ağustos 2026: Yıldız 19.145 → 19.255, son sürüm v0.7.0 (17 Ağustos 2026).
+- 2 Ağustos 2026: Yıldız 18.491 → 19.145, son sürüm v0.6.4 (23 Temmuz 2026).
+
+## Ne kazandırır?
+- İşlemci ve ekran kartı kaynaklarını birlikte kullanarak verimli çalışma
+- Büyük ölçekli MoE modellerinde düşük donanım gereksinimi
+- Popüler çerçevelerle entegre çıkarım ve ince ayar desteği
+
+## Kurulum
+
+**Çıkarım için kurulum**
+
+```
+cd kt-kernel
+pip install .
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Ktransformers kullanarak büyük dil modellerini CPU ve GPU üzerinde heterojen bir şekilde çalıştırıyorum. Donanım kaynaklarımı verimli kullanmak ve model çıkarım performansını optimize etmek için kt-kernel kütüphanesini sistemime nasıl entegre edebilirim ve MoE modelleri için en uygun yapılandırma ayarları nelerdir?
+
+- **Kimin için:** Büyük dil modellerini kısıtlı donanım kaynaklarıyla verimli bir şekilde çalıştırmak veya ince ayar yapmak isteyen araştırmacılar ve geliştiriciler içindir. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/kvcache-ai/ktransformers)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Fine-tuning CPU GPU Large Language Models Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/ktransformers/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Belgelerinizden otomatik yapay zekâ wikisi oluşturun
 
 LLM Wiki, belgeleri otomatik olarak düzenleyip birbirine bağlı bir bilgi tabanına dönüştüren çapraz platformlu bir masaüstü uygulamasıdır. Geleneksel getirme ve cevaplama (RAG) yönteminin aksine, kaynaklarınızdan kalıcı bir wiki oluşturarak verileri aşamalı şekilde güncel tutar.
@@ -41488,54 +41537,6 @@ Markdown GPU Large Language Models PDF Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/olmocr/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Yapay zekâ modelleri için heterojen hızlandırma
-
-Ktransformers, büyük dil modellerinin (large language models) çıkarım ve ince ayar (fine-tuning) süreçlerinde heterojen donanım optimizasyonlarını destekleyen esnek bir çerçeve sunuyor. Bu yapı, farklı donanım kaynaklarını verimli kullanarak model performansını artırmayı hedefliyor.
-
-- ★ 19.255
-- Python
-- GitHub Trending · 2026-07-20
-
-## Güncelleme
-- 18 Ağustos 2026: Yıldız 19.145 → 19.255, son sürüm v0.7.0 (17 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 18.491 → 19.145, son sürüm v0.6.4 (23 Temmuz 2026).
-
-## Ne kazandırır?
-- İşlemci ve ekran kartı kaynaklarını birlikte kullanarak verimli çalışma
-- Büyük ölçekli MoE modellerinde düşük donanım gereksinimi
-- Popüler çerçevelerle entegre çıkarım ve ince ayar desteği
-
-## Kurulum
-
-**Çıkarım için kurulum**
-
-```
-cd kt-kernel
-pip install .
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Ktransformers kullanarak büyük dil modellerini CPU ve GPU üzerinde heterojen bir şekilde çalıştırıyorum. Donanım kaynaklarımı verimli kullanmak ve model çıkarım performansını optimize etmek için kt-kernel kütüphanesini sistemime nasıl entegre edebilirim ve MoE modelleri için en uygun yapılandırma ayarları nelerdir?
-
-- **Kimin için:** Büyük dil modellerini kısıtlı donanım kaynaklarıyla verimli bir şekilde çalıştırmak veya ince ayar yapmak isteyen araştırmacılar ve geliştiriciler içindir. 
-- **Lisans:** Apache-2.0 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/kvcache-ai/ktransformers)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Fine-tuning CPU GPU Large Language Models Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/ktransformers/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 

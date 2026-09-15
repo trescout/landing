@@ -34,8 +34,8 @@ Yes, but those used for AI are usually professional models equipped with more me
 ## Related tools
 - [Pytorch](/en/discover/pytorch/)
 - [Llmfit](/en/discover/llmfit/)
-- [Olmocr](/en/discover/olmocr/)
 - [Ktransformers](/en/discover/ktransformers/)
+- [Olmocr](/en/discover/olmocr/)
 - [Cupy](/en/discover/cupy/)
 - [Needle](/en/discover/needle/)
 - [Train LLM from Scratch](/en/discover/train-llm-from-scratch/)
