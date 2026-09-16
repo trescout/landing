@@ -33538,7 +33538,7 @@
     "slug": "colibri",
     "title": "Colibri",
     "tagline": "Colibri, büyük ölçekli uzmanlar karışımı (Mixture of Experts) modellerini düşük donanım gereksinimleriyle yerel…",
-    "meta": "★ 32.822 · C",
+    "meta": "★ 34.474 · C",
     "image": "/assets/discover/og/colibri.webp",
     "source": "GitHub",
     "date": "2026-09-11",
@@ -33546,7 +33546,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 32822,
+    "stars": 34474,
     "summary": "Colibri, büyük ölçekli uzmanlar karışımı (Mixture of Experts) modellerini düşük donanım gereksinimleriyle yerel bilgisayarlarda çalıştırmayı sağlayan C dili tabanlı bir motor. Uzman katmanlarını disk üzerinden akış yöntemiyle işleyerek, yüksek kapasiteli yapay zekâ modellerini kısıtlı donanımlarda çalıştırmayı mümkün kılıyor.",
     "lite": false,
     "headline": "Devasa yapay zekâ modellerini yerel çalıştırın",
@@ -33570,6 +33570,13 @@
         "tarih": "2026-09-15",
         "yildiz": 32822,
         "onceki_yildiz": 30795,
+        "surum": "v1.11.0",
+        "surum_tarihi": "2026-09-13"
+      },
+      {
+        "tarih": "2026-09-16",
+        "yildiz": 34474,
+        "onceki_yildiz": 32822,
         "surum": "v1.11.0",
         "surum_tarihi": "2026-09-13"
       }
@@ -34306,7 +34313,8 @@
     "tagline_fr": "Homebrew est un outil en ligne de commande permettant de gérer les paquets logiciels sur le système d'exploitation macOS.",
     "tagline_pt": "Homebrew é uma ferramenta de linha de comando usada para gerenciar pacotes de software no sistema operacional macOS.",
     "tagline_es": "Homebrew es una herramienta de línea de comandos para gestionar paquetes de software en el sistema operativo macOS.",
-    "tagline_de": "Homebrew ist ein Befehlszeilen-Tool zur Verwaltung von Softwarepaketen unter dem Betriebssystem macOS."
+    "tagline_de": "Homebrew ist ein Befehlszeilen-Tool zur Verwaltung von Softwarepaketen unter dem Betriebssystem macOS.",
+    "last_seen": "2026-09-16"
   },
   {
     "slug": "librechat",
@@ -34331,7 +34339,8 @@
     "tagline_fr": "LibreChat est une plateforme de discussion open source qui combine différents modèles et outils d'intelligence artificielle dans une interface unique.",
     "tagline_pt": "LibreChat é uma plataforma de chat de código aberto que combina diferentes modelos e ferramentas de inteligência artificial em uma única interface.",
     "tagline_es": "LibreChat es una plataforma de chat de código abierto que combina diferentes modelos de inteligencia artificial y herramientas en una sola interfaz.",
-    "tagline_de": "LibreChat ist eine Open-Source-Chat-Plattform, die verschiedene KI-Modelle und Tools in einer einzigen Benutzeroberfläche vereint."
+    "tagline_de": "LibreChat ist eine Open-Source-Chat-Plattform, die verschiedene KI-Modelle und Tools in einer einzigen Benutzeroberfläche vereint.",
+    "last_seen": "2026-09-16"
   },
   {
     "slug": "asc",
@@ -34354,7 +34363,8 @@
     "tagline_fr": "ASC est un outil d'analyse de code source Android extrêmement rapide, développé pour les chercheurs en applications mobiles et les agents d'intelligence artificielle…",
     "tagline_pt": "ASC é um código-fonte Android extremamente rápido desenvolvido para pesquisadores de aplicativos móveis e agentes de inteligência artificial...",
     "tagline_es": "ASC es un código fuente de Android extremadamente rápido desarrollado para investigadores de aplicaciones móviles y agentes de inteligencia artificial...",
-    "tagline_de": "ASC ist ein extrem schneller Android-Quellcode, der für Forscher mobiler Anwendungen und KI-Agenten entwickelt wurde..."
+    "tagline_de": "ASC ist ein extrem schneller Android-Quellcode, der für Forscher mobiler Anwendungen und KI-Agenten entwickelt wurde...",
+    "last_seen": "2026-09-16"
   },
   {
     "slug": "pi",
@@ -34386,6 +34396,7 @@
     "tagline_fr": "Pi est une interface unifiée pour les grands modèles de langage (large language models) qui simplifie les processus de développement logiciel…",
     "tagline_pt": "Pi é uma interface unificada para grandes modelos de linguagem (large language models) que otimiza os processos de desenvolvimento de software...",
     "tagline_es": "Pi es una interfaz unificada para modelos de lenguaje grandes (large language models) que ofrece procesos de desarrollo de software...",
-    "tagline_de": "Pi bietet eine einheitliche Schnittstelle für große Sprachmodelle (Large Language Models) und unterstützt Softwareentwicklungsprozesse..."
+    "tagline_de": "Pi bietet eine einheitliche Schnittstelle für große Sprachmodelle (Large Language Models) und unterstützt Softwareentwicklungsprozesse...",
+    "last_seen": "2026-09-16"
   }
 ]

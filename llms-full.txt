@@ -36709,6 +36709,68 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Devasa yapay zekâ modellerini yerel çalıştırın
+
+Colibri, büyük ölçekli uzmanlar karışımı (Mixture of Experts) modellerini düşük donanım gereksinimleriyle yerel bilgisayarlarda çalıştırmayı sağlayan C dili tabanlı bir motor. Uzman katmanlarını disk üzerinden akış yöntemiyle işleyerek, yüksek kapasiteli yapay zekâ modellerini kısıtlı donanımlarda çalıştırmayı mümkün kılıyor.
+
+- ★ 34.474
+- C
+- GitHub Trending · 2026-09-11
+
+## Güncelleme
+- 16 Eylül 2026: Yıldız 32.822 → 34.474, son sürüm v1.11.0 (13 Eylül 2026).
+- 15 Eylül 2026: Yıldız 30.795 → 32.822, son sürüm v1.11.0 (13 Eylül 2026).
+- 14 Eylül 2026: Yıldız 27.610 → 30.795, son sürüm v1.11.0 (13 Eylül 2026).
+- 11 Eylül 2026: Yıldız 27.608 → 27.610, son sürüm v1.10.2 (6 Eylül 2026).
+
+## Ne kazandırır?
+- Yüksek kapasiteli modelleri kısıtlı donanımlarda çalıştırır
+- VRAM, RAM ve disk belleğini tek katman gibi yönetir
+- Uzman katmanlarını akış yöntemiyle işleyerek verimlilik sağlar
+
+## Kurulum
+
+**Kaynak koddan derleme**
+
+```
+git clone https://github.com/JustVugg/colibri && cd colibri/c
+./setup.sh # checks gcc/OpenMP, builds, self-tests
+```
+
+## Çalıştırma
+
+**Sohbet arayüzünü başlatma**
+
+```
+cd c
+make deepseek-v4
+python ./coli chat --model /path/to/DeepSeek-V4-Flash --ram 32
+# also: coli run / coli serve / coli web
+# Windows CUDA tier: make cuda-dsv4-dll CUDA_ARCH=portable (+ make cuda-dsv4-dg-dll on RTX 50)
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Colibri motorunu kullanarak yerel bilgisayarımda büyük ölçekli yapay zekâ modellerini çalıştırmak istiyorum. Donanım kaynaklarımı (VRAM, RAM ve NVMe disk) en verimli şekilde kullanacak şekilde yapılandırmamı sağla. Özellikle GLM veya DeepSeek gibi modelleri, sistemimin bellek kapasitesine göre nasıl optimize edip çalıştırabileceğimi adım adım açıkla.
+
+- **Kimin için:** Büyük dil modellerini kısıtlı donanım kaynaklarıyla kendi bilgisayarında çalıştırmak isteyen araştırmacılar ve yazılımcılar içindir. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/JustVugg/colibri)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Mixture of Experts VRAM RAM Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/colibri/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Web projelerinizi Rust hızında derleyin
 
 Rust diliyle geliştirilen SWC, web projeleri için hızlı bir derleme (compilation) ve paketleme (bundling) platformu sunuyor. JavaScript ve TypeScript dosyalarını yüksek performansla işleyerek modern web geliştirme süreçlerini hızlandırıyor.
@@ -37126,67 +37188,6 @@ Trading Agent Agent Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/vibe-trading/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Devasa yapay zekâ modellerini yerel çalıştırın
-
-Colibri, büyük ölçekli uzmanlar karışımı (Mixture of Experts) modellerini düşük donanım gereksinimleriyle yerel bilgisayarlarda çalıştırmayı sağlayan C dili tabanlı bir motor. Uzman katmanlarını disk üzerinden akış yöntemiyle işleyerek, yüksek kapasiteli yapay zekâ modellerini kısıtlı donanımlarda çalıştırmayı mümkün kılıyor.
-
-- ★ 32.822
-- C
-- GitHub Trending · 2026-09-11
-
-## Güncelleme
-- 15 Eylül 2026: Yıldız 30.795 → 32.822, son sürüm v1.11.0 (13 Eylül 2026).
-- 14 Eylül 2026: Yıldız 27.610 → 30.795, son sürüm v1.11.0 (13 Eylül 2026).
-- 11 Eylül 2026: Yıldız 27.608 → 27.610, son sürüm v1.10.2 (6 Eylül 2026).
-
-## Ne kazandırır?
-- Yüksek kapasiteli modelleri kısıtlı donanımlarda çalıştırır
-- VRAM, RAM ve disk belleğini tek katman gibi yönetir
-- Uzman katmanlarını akış yöntemiyle işleyerek verimlilik sağlar
-
-## Kurulum
-
-**Kaynak koddan derleme**
-
-```
-git clone https://github.com/JustVugg/colibri && cd colibri/c
-./setup.sh # checks gcc/OpenMP, builds, self-tests
-```
-
-## Çalıştırma
-
-**Sohbet arayüzünü başlatma**
-
-```
-cd c
-make deepseek-v4
-python ./coli chat --model /path/to/DeepSeek-V4-Flash --ram 32
-# also: coli run / coli serve / coli web
-# Windows CUDA tier: make cuda-dsv4-dll CUDA_ARCH=portable (+ make cuda-dsv4-dg-dll on RTX 50)
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Colibri motorunu kullanarak yerel bilgisayarımda büyük ölçekli yapay zekâ modellerini çalıştırmak istiyorum. Donanım kaynaklarımı (VRAM, RAM ve NVMe disk) en verimli şekilde kullanacak şekilde yapılandırmamı sağla. Özellikle GLM veya DeepSeek gibi modelleri, sistemimin bellek kapasitesine göre nasıl optimize edip çalıştırabileceğimi adım adım açıkla.
-
-- **Kimin için:** Büyük dil modellerini kısıtlı donanım kaynaklarıyla kendi bilgisayarında çalıştırmak isteyen araştırmacılar ve yazılımcılar içindir. 
-- **Lisans:** Apache-2.0 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/JustVugg/colibri)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Mixture of Experts VRAM RAM Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/colibri/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 

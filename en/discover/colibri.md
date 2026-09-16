@@ -2,7 +2,7 @@
 
 Colibri is a C-based engine that enables running large-scale Mixture of Experts (MoE) models on local computers with low hardware requirements. By streaming expert layers from the disk, it makes it possible to run high-capacity AI models on limited hardware.
 
-- ★ 32,822
+- ★ 34,474
 - C
 - GitHub Trending · 2026-09-11
 
