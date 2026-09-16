@@ -1,0 +1,949 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-16",
+  "capturedAt": "2026-09-16T09:05:41.238Z",
+  "editorial": "Bugün yazılım dünyasında açık kaynaklı kod inceleme araçları ve yüksek verimli dil modelleri (large language models) üzerindeki teknik geliştirmeler öne çıkıyor. Özellikle DeepSeek ve Edge0 gibi modellerin yeni sürümleri, donanım kaynaklarını daha verimli kullanan sistem mimarilerine odaklandığınızı gösteriyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "Alibaba tarafından geliştirilen açık kaynaklı kod inceleme aracı Open Code Review, deterministik işlem hatlarını ve üretken yapay zekâ (generative AI) ajanlarını birleştiren hibrit bir mimari kullanıyor. Yazılım geliştirme sürecinde güvenlik açıklarını ve hataları satır bazlı yorumlarla tespit eden bu sistem, popüler dil modelleriyle (OpenAI, Anthropic) uyumlu çalışıyor.",
+          "meta": "Go · ★ 29.852 · +2.756 bugün",
+          "snapshot": {
+            "sourceId": "alibaba/open-code-review",
+            "capturedAt": "2026-09-16T09:05:42.228Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 29852,
+              "engagementCount": 2756,
+              "rank": 1,
+              "extra": {
+                "starsToday": 2756
+              }
+            }
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "JustVugg/colibri",
+          "url": "https://github.com/JustVugg/colibri",
+          "summary": "Colibri, devasa uzmanlar karışımı (Mixture of Experts) modellerini düşük donanım gereksinimleriyle yerel cihazlarda çalıştırmayı sağlayan C diliyle yazılmış bir çıkarım motoru. Model ağırlıklarını diskten akış yöntemiyle yükleyerek, yüksek bellek ihtiyacı duyan yapay zekâ modellerini standart bilgisayarlarda kullanıma sunuyor.",
+          "meta": "C · ★ 34.395 · +2.026 bugün",
+          "snapshot": {
+            "sourceId": "JustVugg/colibri",
+            "capturedAt": "2026-09-16T09:05:42.228Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 34395,
+              "engagementCount": 2026,
+              "rank": 2,
+              "extra": {
+                "starsToday": 2026
+              }
+            }
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "ever-co/ever-gauzy",
+          "url": "https://github.com/ever-co/ever-gauzy",
+          "summary": "Ever Gauzy, kurumsal kaynak planlama (ERP), müşteri ilişkileri yönetimi (CRM) ve insan kaynakları gibi temel iş süreçlerini tek bir çatı altında toplayan açık kaynaklı bir yönetim platformu. TypeScript diliyle geliştirilen bu yazılım, işletmelerin operasyonel ihtiyaçlarını merkezi bir sistem üzerinden yönetmelerine olanak tanıyor.",
+          "meta": "TypeScript · ★ 6.970 · +634 bugün",
+          "snapshot": {
+            "sourceId": "ever-co/ever-gauzy",
+            "capturedAt": "2026-09-16T09:05:42.228Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 6970,
+              "engagementCount": 634,
+              "rank": 3,
+              "extra": {
+                "starsToday": 634
+              }
+            }
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "summary": "VoiceStudio, ses klonlama, ses tasarımı ve video dublaj gibi işlemleri internet bağlantısı olmadan gerçekleştiren açık kaynaklı bir ses işleme aracıdır. Ücretli ses sentezleme servisi ElevenLabs'a yerel bir alternatif sunarak 646 farklı dilde dikte, transkripsiyon ve sesli kitap oluşturma imkânı tanır.",
+          "meta": "Python · ★ 31.544 · +2.072 bugün",
+          "snapshot": {
+            "sourceId": "debpalash/VoiceStudio",
+            "capturedAt": "2026-09-16T09:05:42.228Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 31544,
+              "engagementCount": 2072,
+              "rank": 4,
+              "extra": {
+                "starsToday": 2072
+              }
+            }
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "Homebrew/BrewUI",
+          "url": "https://github.com/Homebrew/BrewUI",
+          "summary": "Homebrew, macOS işletim sisteminde yazılım paketlerini yönetmeye yarayan bir komut satırı aracıdır. BrewUI ise bu aracın karmaşık komutlarını grafiksel bir arayüzle (GUI) yönetmenizi sağlayan resmi bir masaüstü uygulamasıdır.",
+          "meta": "Swift · ★ 1.654 · +271 bugün",
+          "snapshot": {
+            "sourceId": "Homebrew/BrewUI",
+            "capturedAt": "2026-09-16T09:05:42.228Z",
+            "metadata": {
+              "language": "Swift",
+              "popularity": 1654,
+              "engagementCount": 271,
+              "rank": 5,
+              "extra": {
+                "starsToday": 271
+              }
+            }
+          }
+        },
+        {
+          "title": "melgarafael/DeskcommCRM",
+          "url": "https://github.com/melgarafael/DeskcommCRM",
+          "summary": "DeskcommCRM, sohbet üzerinden satış yapan işletmeler için geliştirilmiş açık kaynaklı bir müşteri ilişkileri yönetimi (CRM) platformu. WhatsApp entegrasyonu ve yerleşik yapay zekâ ajanları ile Kommo veya Intercom gibi popüler satış ve iletişim araçlarına kendi sunucunuzda barındırabileceğiniz bir alternatif sunuyor.",
+          "meta": "TypeScript · ★ 2.998 · +193 bugün",
+          "snapshot": {
+            "sourceId": "melgarafael/DeskcommCRM",
+            "capturedAt": "2026-09-16T09:05:42.228Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 2998,
+              "engagementCount": 193,
+              "rank": 6,
+              "extra": {
+                "starsToday": 193
+              }
+            }
+          }
+        },
+        {
+          "title": "alphaXiv/OpenResearch",
+          "url": "https://github.com/alphaXiv/OpenResearch",
+          "summary": "AlphaXiv tarafından geliştirilen OpenResearch, yazılım geliştirme ajanlarını akademik araştırma yapan ajanlara dönüştüren bir çerçeve (framework). Rust diliyle yazılan bu araç, kod odaklı sistemlerin bilimsel literatürü analiz etme ve araştırma süreçlerini yürütme yeteneklerini artırıyor.",
+          "meta": "Rust · ★ 3.744 · +531 bugün",
+          "snapshot": {
+            "sourceId": "alphaXiv/OpenResearch",
+            "capturedAt": "2026-09-16T09:05:42.228Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 3744,
+              "engagementCount": 531,
+              "rank": 7,
+              "extra": {
+                "starsToday": 531
+              }
+            }
+          }
+        },
+        {
+          "title": "NationalSecurityAgency/ghidra",
+          "url": "https://github.com/NationalSecurityAgency/ghidra",
+          "summary": "Ulusal Güvenlik Ajansı (NSA) tarafından geliştirilen Ghidra, yazılım tersine mühendislik (software reverse engineering) işlemleri için kullanılan kapsamlı bir analiz aracıdır. Java tabanlı bu platform, ikili dosyaları çözümleyerek kodun yapısını ve işleyişini anlamaya yardımcı olan görselleştirme ve hata ayıklama özellikleri sunar.",
+          "meta": "Java · ★ 77.152 · +725 bugün",
+          "snapshot": {
+            "sourceId": "NationalSecurityAgency/ghidra",
+            "capturedAt": "2026-09-16T09:05:42.228Z",
+            "metadata": {
+              "language": "Java",
+              "popularity": 77152,
+              "engagementCount": 725,
+              "rank": 8,
+              "extra": {
+                "starsToday": 725
+              }
+            }
+          }
+        },
+        {
+          "title": "danny-avila/LibreChat",
+          "url": "https://github.com/danny-avila/LibreChat",
+          "summary": "LibreChat, farklı yapay zekâ modellerini ve araçlarını tek bir arayüzde birleştiren açık kaynaklı bir sohbet platformu. Kullanıcıların kendi sunucularında barındırabileceği bu yazılım, model değiştirme ve çok kullanıcılı kimlik doğrulama gibi özelliklerle kişiselleştirilmiş bir yapay zekâ deneyimi sunuyor.",
+          "meta": "TypeScript · ★ 44.017 · +254 bugün",
+          "snapshot": {
+            "sourceId": "danny-avila/LibreChat",
+            "capturedAt": "2026-09-16T09:05:42.228Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 44017,
+              "engagementCount": 254,
+              "rank": 9,
+              "extra": {
+                "starsToday": 254
+              }
+            }
+          }
+        },
+        {
+          "title": "pacifio/atlas",
+          "url": "https://github.com/pacifio/atlas",
+          "summary": "Atlas, yazılım geliştirme süreçlerinde kullanılan yapay zekâ ajanları (coding agents) için merkezi bir sürüm kontrol sistemi sunuyor. Farklı ajanların yaptığı kod değişikliklerini tek bir noktada takip etmeye ve sorgulamaya olanak tanıyor.",
+          "meta": "Rust · ★ 4.759 · +91 bugün",
+          "snapshot": {
+            "sourceId": "pacifio/atlas",
+            "capturedAt": "2026-09-16T09:05:42.228Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 4759,
+              "engagementCount": 91,
+              "rank": 10,
+              "extra": {
+                "starsToday": 91
+              }
+            }
+          }
+        },
+        {
+          "title": "MG1937/ASC",
+          "url": "https://github.com/MG1937/ASC",
+          "summary": "ASC, mobil uygulama araştırmacıları ve yapay zekâ ajanları için geliştirilmiş oldukça hızlı bir Android kaynak koda dönüştürücü (decompiler) arayüzüdür. Python ile yazılan bu araç, karmaşık uygulama dosyalarını analiz etme sürecini hızlandırmayı hedefler.",
+          "meta": "Python · ★ 1.336 · +129 bugün",
+          "snapshot": {
+            "sourceId": "MG1937/ASC",
+            "capturedAt": "2026-09-16T09:05:42.228Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 1336,
+              "engagementCount": 129,
+              "rank": 11,
+              "extra": {
+                "starsToday": 129
+              }
+            }
+          }
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Addy Osmani tarafından geliştirilen agent-skills, yapay zekâ kodlama ajanları için üretim seviyesinde mühendislik becerileri (engineering skills) sunuyor. JavaScript tabanlı bu kütüphane, otonom yazılım geliştirme süreçlerinde kullanılan yetenekleri standartlaştırmayı amaçlıyor.",
+          "meta": "JavaScript · ★ 95.051 · +307 bugün",
+          "snapshot": {
+            "sourceId": "addyosmani/agent-skills",
+            "capturedAt": "2026-09-16T09:05:42.228Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 95051,
+              "engagementCount": 307,
+              "rank": 12,
+              "extra": {
+                "starsToday": 307
+              }
+            }
+          }
+        },
+        {
+          "title": "tonhowtf/omniget",
+          "url": "https://github.com/tonhowtf/omniget",
+          "summary": "Omniget, 1.800'den fazla platformdan video, müzik ve kitap indirmeyi sağlayan açık kaynaklı bir masaüstü uygulamasıdır. İçerik oynatıcı ve okuyucu özelliklerini bünyesinde barındıran yazılım, medya indirme aracı yt-dlp altyapısını kullanarak dosyaları doğrudan bilgisayarınızda saklar.",
+          "meta": "Rust · ★ 13.291 · +258 bugün",
+          "snapshot": {
+            "sourceId": "tonhowtf/omniget",
+            "capturedAt": "2026-09-16T09:05:42.228Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 13291,
+              "engagementCount": 258,
+              "rank": 13,
+              "extra": {
+                "starsToday": 258
+              }
+            }
+          }
+        },
+        {
+          "title": "earendil-works/pi",
+          "url": "https://github.com/earendil-works/pi",
+          "summary": "Pi, büyük dil modelleri (large language models) için birleşik bir arayüz sunan ve yazılım geliştirme süreçlerini otomatikleştiren bir yapay zekâ ajanı araç setidir. Terminal tabanlı kullanıcı arayüzü (TUI) ve komut satırı aracı (CLI) üzerinden ajan döngülerini yöneterek kodlama görevlerini kolaylaştırır.",
+          "meta": "TypeScript · ★ 106.054 · +458 bugün",
+          "snapshot": {
+            "sourceId": "earendil-works/pi",
+            "capturedAt": "2026-09-16T09:05:42.228Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 106054,
+              "engagementCount": 458,
+              "rank": 14,
+              "extra": {
+                "starsToday": 458
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+          "url": "https://github.com/arnegiacomo/fugleramme",
+          "summary": "Fugleramme, çevredeki kuş seslerini mikrofonla algılayıp bunları 19. yüzyıl tarzı illüstrasyonlara dönüştüren ve elektronik mürekkep (e-ink) ekranda sergileyen bir çerçeve projesidir. Cihaz, gerçek zamanlı ses analizi ile görsel üretimi birleştirerek dijital bir doğa gözlem deneyimi sunar.",
+          "meta": "1.622 oy · 202 yorum",
+          "snapshot": {
+            "sourceId": "49711544",
+            "capturedAt": "2026-09-16T09:05:41.481Z",
+            "metadata": {
+              "popularity": 1622,
+              "engagementCount": 202,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49711544",
+                  "popularity": 1622,
+                  "engagementCount": 202
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "arnemunthekaas",
+                "createdAt": "2026-09-15T12:31:10Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49711544"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49711544",
+              "popularity": 1622,
+              "engagementCount": 202
+            }
+          ]
+        },
+        {
+          "title": "Introducing System One Models and Jev",
+          "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+          "summary": "Typesafe tarafından tanıtılan System One modelleri, karmaşık mantıksal akıl yürütme süreçlerini yönetmek için tasarlanmış yeni bir yapay zekâ mimarisi sunuyor. Bu modeller, Jev adlı yürütme ortamı (runtime) ile birlikte çalışarak yazılım geliştirme süreçlerinde hata ayıklama ve sistem denetimi gibi görevleri daha güvenilir hale getiriyor.",
+          "meta": "1.344 oy · 388 yorum",
+          "snapshot": {
+            "sourceId": "49717558",
+            "capturedAt": "2026-09-16T09:05:41.481Z",
+            "metadata": {
+              "popularity": 1344,
+              "engagementCount": 388,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49717558",
+                  "popularity": 1344,
+                  "engagementCount": 388
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "albelfio",
+                "createdAt": "2026-09-15T19:25:03Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49717558"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49717558",
+              "popularity": 1344,
+              "engagementCount": 388
+            }
+          ]
+        },
+        {
+          "title": "An update on Wayback Machine access",
+          "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+          "summary": "İnternet arşivleme servisi Internet Archive, siber saldırılar ve yasal süreçler nedeniyle erişim sorunları yaşayan Wayback Machine platformuna yönelik güncellemeleri paylaştı. Hizmet, teknik altyapısını güçlendirerek geçmiş web sayfalarına erişimi yeniden kararlı hale getirmeyi hedefliyor.",
+          "meta": "519 oy · 265 yorum",
+          "snapshot": {
+            "sourceId": "49716176",
+            "capturedAt": "2026-09-16T09:05:41.481Z",
+            "metadata": {
+              "popularity": 519,
+              "engagementCount": 265,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49716176",
+                  "popularity": 519,
+                  "engagementCount": 265
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "ChrisArchitect",
+                "createdAt": "2026-09-15T17:52:18Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49716176"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49716176",
+              "popularity": 519,
+              "engagementCount": 265
+            }
+          ]
+        },
+        {
+          "title": "Suspected sabotage causes major Netherlands rail disruption",
+          "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+          "summary": "Hollanda demir yolu ağında meydana gelen büyük çaplı aksaklıkların, yapılan incelemeler sonucunda sabotaj kaynaklı olduğu düşünülüyor. Ülke genelindeki ulaşım sistemini hedef alan bu müdahale, kritik altyapı güvenliği konusundaki tartışmaları yeniden gündeme getiriyor.",
+          "meta": "484 oy · 426 yorum",
+          "snapshot": {
+            "sourceId": "49710253",
+            "capturedAt": "2026-09-16T09:05:41.481Z",
+            "metadata": {
+              "popularity": 484,
+              "engagementCount": 426,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49710253",
+                  "popularity": 484,
+                  "engagementCount": 426
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "choult",
+                "createdAt": "2026-09-15T10:22:46Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49710253"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49710253",
+              "popularity": 484,
+              "engagementCount": 426
+            }
+          ]
+        },
+        {
+          "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+          "summary": "Google, gerçek zamanlı etkileşim ve derinlemesine akıl yürütme odaklı yeni yapay zekâ modelleri Gemini 3.8 Live ve Gemini 3.8 Live Extended Thinking'i duyurdu. Bu modeller, karmaşık problemleri çözmek için genişletilmiş düşünme (extended thinking) yeteneklerini kullanarak daha tutarlı ve mantıklı yanıtlar üretmeyi amaçlıyor.",
+          "meta": "401 oy · 264 yorum",
+          "snapshot": {
+            "sourceId": "49715947",
+            "capturedAt": "2026-09-16T09:05:41.481Z",
+            "metadata": {
+              "popularity": 401,
+              "engagementCount": 264,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49715947",
+                  "popularity": 401,
+                  "engagementCount": 264
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "leumon",
+                "createdAt": "2026-09-15T17:38:18Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49715947"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49715947",
+              "popularity": 401,
+              "engagementCount": 264
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+          "summary": "DeepSeek-V4.1-Flash, görsel ve metin verilerini işleyebilen çok modlu bir yapay zekâ modeli (multimodal model). Hugging Face üzerinde paylaşılan bu model, karmaşık görüntüleri analiz ederek metin tabanlı çıktılar üretme yeteneği sunuyor.",
+          "meta": "♥ 2.758 · 325.712 indirme",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash",
+            "capturedAt": "2026-09-16T09:05:41.320Z",
+            "metadata": {
+              "popularity": 2758,
+              "engagementCount": 325712,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 2389,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          },
+          "streakDays": 7
+        },
+        {
+          "title": "Edge0/Edge0-35B-A3B-preview",
+          "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
+          "summary": "Hugging Face üzerinde yayımlanan Edge0-35B-A3B-preview, metin üretimi (text generation) odaklı yeni bir dil modeli. Model, 35 milyar parametre kapasitesiyle karmaşık metin oluşturma görevlerinde performans sergilemeyi amaçlıyor.",
+          "meta": "♥ 2.974 · 17.853 indirme",
+          "snapshot": {
+            "sourceId": "Edge0/Edge0-35B-A3B-preview",
+            "capturedAt": "2026-09-16T09:05:41.320Z",
+            "metadata": {
+              "popularity": 2974,
+              "engagementCount": 17853,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 2261,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "mlx",
+                  "safetensors",
+                  "qwen3_5_moe",
+                  "moe",
+                  "edge-inference",
+                  "prerouter",
+                  "lora",
+                  "ssd-offload",
+                  "text-generation",
+                  "conversational",
+                  "base_model:Qwen/Qwen3.6-35B-A3B",
+                  "base_model:adapter:Qwen/Qwen3.6-35B-A3B",
+                  "license:apache-2.0",
+                  "4-bit",
+                  "region:us"
+                ]
+              }
+            }
+          },
+          "streakDays": 4
+        },
+        {
+          "title": "openbmb/MiniCPM5-2B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+          "summary": "OpenBMB tarafından geliştirilen MiniCPM5-2B, düşük donanım gereksinimleriyle çalışan bir metin üretme modeli (text-generation model). Sınırlı hesaplama kaynaklarına sahip cihazlarda yüksek performanslı dil işleme yetenekleri sunmayı amaçlıyor.",
+          "meta": "♥ 1.482 · 271.754 indirme",
+          "snapshot": {
+            "sourceId": "openbmb/MiniCPM5-2B",
+            "capturedAt": "2026-09-16T09:05:41.320Z",
+            "metadata": {
+              "popularity": 1482,
+              "engagementCount": 271754,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 631,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "llama",
+                  "text-generation",
+                  "minicpm",
+                  "minicpm5",
+                  "long-context",
+                  "tool-calling",
+                  "on-device",
+                  "edge-ai",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "dataset:openbmb/Ultra-FineWeb",
+                  "dataset:openbmb/UltraX-Preview",
+                  "dataset:openbmb/Ultra-FineWeb-L3",
+                  "dataset:openbmb/UltraData-Math",
+                  "dataset:openbmb/UltraData-Code",
+                  "dataset:openbmb/UltraData-SFT-2605",
+                  "dataset:openbmb/UltraData-SFT-Agent-2609",
+                  "dataset:openbmb/UltraData-RL-2609",
+                  "arxiv:2506.07900",
+                  "arxiv:2602.09003",
+                  "license:apache-2.0",
+                  "text-generation-inference",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          },
+          "streakDays": 9
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Alibaba tarafından geliştirilen Qwen2.5-27B, metin ve görsel verilerini işleyebilen çok modlu bir büyük dil modeli (large language model). Model, karmaşık mantık yürütme ve içerik analizi görevlerinde yüksek performans sunmayı amaçlıyor.",
+          "meta": "♥ 15.317 · 7.702.543 indirme",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-27B",
+            "capturedAt": "2026-09-16T09:05:41.320Z",
+            "metadata": {
+              "popularity": 15317,
+              "engagementCount": 7702543,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 584,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "deploy:azure",
+                  "deploy:sagemaker",
+                  "region:us"
+                ]
+              }
+            }
+          },
+          "streakDays": 17
+        },
+        {
+          "title": "m-a-p/YuE2-3B",
+          "url": "https://huggingface.co/m-a-p/YuE2-3B",
+          "summary": "Hugging Face üzerinde paylaşılan YuE2-3B, metin tabanlı ses üretimi (text-to-audio) yapan bir yapay zekâ modelidir. Girdi olarak verilen metinleri işleyerek yüksek kaliteli ses dosyalarına dönüştürme yeteneğine sahiptir.",
+          "meta": "♥ 590 · 6.716 indirme",
+          "snapshot": {
+            "sourceId": "m-a-p/YuE2-3B",
+            "capturedAt": "2026-09-16T09:05:41.320Z",
+            "metadata": {
+              "popularity": 590,
+              "engagementCount": 6716,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 558,
+                "pipelineTag": "text-to-audio",
+                "tags": [
+                  "safetensors",
+                  "yue2",
+                  "music-generation",
+                  "symbolic-planning",
+                  "agentic-editing",
+                  "custom_code",
+                  "text-to-audio",
+                  "zh",
+                  "en",
+                  "arxiv:2503.08638",
+                  "license:cc-by-nc-4.0",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "StepAudio 3 Realtime Technical Report",
+          "url": "https://huggingface.co/papers/2609.14005",
+          "summary": "StepAudio 3 Realtime, sesli etkileşimlerde derin muhakeme ve düşük gecikme süresini birleştiren bir ses-dil temel modeli (foundation model). Dinleme, konuşma, düşünme ve eyleme geçme döngüsüyle çalışan sistem, kesintisiz çift yönlü (seamless duplex) yapısı sayesinde doğal bir diyalog akışı sağlıyor.",
+          "meta": "28 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.14005",
+            "capturedAt": "2026-09-16T09:05:41.330Z",
+            "metadata": {
+              "popularity": 28,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.14005",
+                "publishedAt": "2026-09-12T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "StepAudio 3 Music Technical Report",
+          "url": "https://huggingface.co/papers/2609.16034",
+          "summary": "StepAudio 3 Music, uzun süreli müzik üretimi için tasarlanmış, metin komutlarıyla çalışan bir büyük ölçekli modeldir. Müzikal yapıyı korumak adına ses verilerini anlam temelli bir belirteç (tokenizer) yapısıyla işleyen sistem, akış eşleme (flow-matching) yöntemiyle çalışan bir difüzyon dönüştürücü (diffusion Transformer) kullanır.",
+          "meta": "19 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.16034",
+            "capturedAt": "2026-09-16T09:05:41.330Z",
+            "metadata": {
+              "popularity": 19,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.16034",
+                "publishedAt": "2026-09-11T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Decoy Direction Optimization: A Post-Hoc Defense Against LLM Abliteration",
+          "url": "https://huggingface.co/papers/2609.16204",
+          "summary": "Yanıltıcı Yön Optimizasyonu (Decoy Direction Optimization), açık ağırlıklı büyük dil modellerindeki güvenlik kısıtlamalarını devre dışı bırakan reddetme özelliği silme (refusal feature ablation) saldırılarına karşı geliştirilmiş bir savunma yöntemidir. Bu teknik, yüksek maliyetli ince ayar (fine-tuning) süreçlerine ihtiyaç duymadan, model ağırlıklarını düzenleyerek güvenlik katmanlarını korumayı amaçlar.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.16204",
+            "capturedAt": "2026-09-16T09:05:41.330Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.16204",
+                "publishedAt": "2026-09-14T00:00:00.000Z",
+                "githubRepo": "https://github.com/aashiqmuhamed/defending-against-abliteration",
+                "githubStars": 1
+              }
+            }
+          }
+        },
+        {
+          "title": "Emergence World: Adversarial Stress-Testing of Long-Horizon Multi-Agent Systems",
+          "url": "https://huggingface.co/papers/2609.17320",
+          "summary": "Emergence World, uzun süreli görevlerde çalışan otonom sistemlerin güvenliğini test etmek için tasarlanmış çoklu ajanlı bir simülasyon ortamıdır. Sistem, yapay zekâ ajanlarının bellek ve araç kullanımı gibi süreçlerde birbirleriyle etkileşimini izleyerek, izole testlerin tespit edemediği hataları belirlemeyi hedefler.",
+          "meta": "0 beğeni · 0 yorum",
+          "snapshot": {
+            "sourceId": "2609.17320",
+            "capturedAt": "2026-09-16T09:05:41.330Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 0,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.17320",
+                "publishedAt": "2026-09-15T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement",
+          "url": "https://huggingface.co/papers/2609.11873",
+          "summary": "Yapay zekâ sistemlerinin kendi yeteneklerini ve geliştirme süreçlerini sürekli iyileştirmesini sağlayan özyinelemeli öz gelişim (recursive self-improvement) kavramı, sistemlerin insan müdahalesi olmadan evrimleşmesini hedefliyor. Bu yaklaşım, otonom strateji belirleme ve deneyim kazanma aşamaları üzerinden yapay zekânın kendi kendini geliştiren bir meta-süreç haline gelmesini amaçlıyor.",
+          "meta": "83 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2609.11873",
+            "capturedAt": "2026-09-16T09:05:41.330Z",
+            "metadata": {
+              "popularity": 83,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.11873",
+                "publishedAt": "2026-09-10T00:00:00.000Z",
+                "githubRepo": "https://github.com/theseus-labs-rsi/awesome-rsi",
+                "githubStars": 47
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "A/I Shuts Down",
+          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+          "summary": "Avrupa merkezli dijital hak savunucusu ve barındırma servisi Autistici/Inventati, yasal süreçlerin dışında tutulan müdahaleler nedeniyle faaliyetlerini sonlandırdığını duyurdu. Binlerce e-posta hesabı, blog ve web sitesine ev sahipliği yapan platformun kapatılması, internet üzerindeki bağımsız dijital altyapıların korunması konusundaki tartışmaları yeniden gündeme taşıdı.",
+          "meta": "28 oy · 9 yorum",
+          "snapshot": {
+            "sourceId": "wxnibb",
+            "capturedAt": "2026-09-16T09:05:41.641Z",
+            "metadata": {
+              "popularity": 28,
+              "engagementCount": 9,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/wxnibb/i_shuts_down",
+                  "popularity": 28,
+                  "engagementCount": 9
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "finance",
+                  "privacy"
+                ],
+                "createdAt": "2026-09-16T01:05:38.170-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/wxnibb/i_shuts_down",
+              "popularity": 28,
+              "engagementCount": 9
+            }
+          ]
+        },
+        {
+          "title": "GEFS on OpenBSD: A very early preview",
+          "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
+          "summary": "OpenBSD işletim sistemi üzerinde geliştirilen GEFS, dosya sistemleri için genel bir çerçeve (framework) sunmayı amaçlıyor. Bu yapı, farklı dosya sistemi türlerinin çekirdek (kernel) seviyesinde daha kolay entegre edilmesini sağlıyor.",
+          "meta": "72 oy · 8 yorum",
+          "snapshot": {
+            "sourceId": "buzdkb",
+            "capturedAt": "2026-09-16T09:05:41.641Z",
+            "metadata": {
+              "popularity": 72,
+              "engagementCount": 8,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/buzdkb/gefs_on_openbsd_very_early_preview",
+                  "popularity": 72,
+                  "engagementCount": 8
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "openbsd"
+                ],
+                "createdAt": "2026-09-15T12:21:47.861-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/buzdkb/gefs_on_openbsd_very_early_preview",
+              "popularity": 72,
+              "engagementCount": 8
+            }
+          ]
+        },
+        {
+          "title": "Small Programming Tricks",
+          "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+          "summary": "Yazılım geliştirme süreçlerinde büyük mimari değişiklikler yerine küçük ve pratik kodlama hileleri (programming tricks), sistemin sürdürülebilirliğini artırıyor. Bu yöntemler, karmaşık yapıları basitleştirerek hata payını düşürüyor ve geliştiricilerin günlük iş akışını verimli kılıyor.",
+          "meta": "37 oy · 14 yorum",
+          "snapshot": {
+            "sourceId": "f65fy3",
+            "capturedAt": "2026-09-16T09:05:41.641Z",
+            "metadata": {
+              "popularity": 37,
+              "engagementCount": 14,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/f65fy3/small_programming_tricks",
+                  "popularity": 37,
+                  "engagementCount": 14
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "programming"
+                ],
+                "createdAt": "2026-09-15T15:50:57.381-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/f65fy3/small_programming_tricks",
+              "popularity": 37,
+              "engagementCount": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "generative AI",
+      "explanation": "Kullanıcının verdiği komutlara göre yeni metinler, görseller veya sesler oluşturabilen yapay zekâ teknolojisi."
+    },
+    {
+      "term": "Mixture of Experts",
+      "explanation": "Karmaşık problemleri çözmek için her biri farklı konularda uzmanlaşmış küçük yapay zekâ parçalarını bir arada kullanan yöntem."
+    },
+    {
+      "term": "ERP",
+      "explanation": "Bir şirketin muhasebe, stok ve insan kaynakları gibi tüm iş süreçlerini tek bir merkezden yönetmesini sağlayan yazılım sistemi."
+    },
+    {
+      "term": "CRM",
+      "explanation": "Şirketlerin müşterileriyle olan ilişkilerini, geçmiş etkileşimlerini ve satış süreçlerini takip etmelerini sağlayan yönetim aracı."
+    },
+    {
+      "term": "GUI",
+      "explanation": "Bilgisayar programlarını simgeler, menüler ve pencereler aracılığıyla görsel olarak kullanmanızı sağlayan arayüz."
+    },
+    {
+      "term": "framework",
+      "explanation": "Yazılımcıların sıfırdan kod yazmak yerine, hazır yapıları kullanarak daha hızlı uygulama geliştirmesini sağlayan temel iskelet."
+    },
+    {
+      "term": "NSA",
+      "explanation": "İnternet trafiğini ve dijital haberleşmeyi izleyerek ulusal güvenliği korumayı amaçlayan Amerikan istihbarat kurumu."
+    },
+    {
+      "term": "software reverse engineering",
+      "explanation": "Hazır bir programın nasıl çalıştığını anlamak için kodlarını geriye doğru çözümleme süreci."
+    },
+    {
+      "term": "coding agents",
+      "explanation": "İnsan müdahalesi olmadan kendi başına yazılım kodu yazabilen veya hataları düzeltebilen otonom yapay zekâ araçları."
+    },
+    {
+      "term": "decompiler",
+      "explanation": "Bilgisayarın anladığı karmaşık makine kodlarını, yazılımcıların okuyabileceği anlaşılır bir programlama diline geri çeviren araç."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Karmaşık problemleri mantıksal adımlarla parçalara ayırıp en verimli çözümü üretme becerisi."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "TUI",
+      "explanation": "Grafik yerine sadece metin karakterleri ve renkli kutucuklar kullanarak terminal ekranında çalışan kullanıcı arayüzü."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Programları fareyle değil, yazılı komutlarla çalıştıran metin tabanlı arayüz."
+    },
+    {
+      "term": "e-ink",
+      "explanation": "Kağıt üzerindeki mürekkep gibi görünen, sadece görüntü değişirken enerji harcayan göz yormayan ekran teknolojisi."
+    },
+    {
+      "term": "runtime",
+      "explanation": "Bir yazılımın bilgisayarda yüklü olduğu değil, tam o anda çalışır durumda olduğu zaman dilimi."
+    }
+  ]
+}

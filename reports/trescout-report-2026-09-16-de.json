@@ -1,0 +1,941 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-16",
+  "capturedAt": "2026-09-16T09:05:41.238Z",
+  "editorial": "Heute stehen in der Softwarewelt technische Entwicklungen bei Open-Source-Code-Review-Tools und hochperformanten Sprachmodellen (Large Language Models) im Vordergrund. Insbesondere die neuen Versionen von Modellen wie DeepSeek und Edge0 zeigen, dass der Fokus auf Systemarchitekturen liegt, die Hardwareressourcen effizienter nutzen.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "Das von Alibaba entwickelte Open-Source-Code-Review-Tool Open Code Review verwendet eine hybride Architektur, die deterministische Pipelines und generative KI-Agenten (Generative AI) kombiniert. Dieses System, das Sicherheitslücken und Fehler im Softwareentwicklungsprozess mit zeilenbasierten Kommentaren erkennt, ist mit gängigen Sprachmodellen (OpenAI, Anthropic) kompatibel.",
+          "meta": "Go · ★ 29.852 · +2.756 heute",
+          "snapshot": {
+            "sourceId": "alibaba/open-code-review",
+            "capturedAt": "2026-09-16T09:05:42.228Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 29852,
+              "engagementCount": 2756,
+              "rank": 1,
+              "extra": {
+                "starsToday": 2756
+              }
+            }
+          }
+        },
+        {
+          "title": "JustVugg/colibri",
+          "url": "https://github.com/JustVugg/colibri",
+          "summary": "Colibri ist eine in C geschriebene Inferenz-Engine, die es ermöglicht, Mixture-of-Experts-Modelle mit geringen Hardwareanforderungen auf lokalen Geräten auszuführen. Durch das Streamen von Modellgewichten von der Festplatte macht es KI-Modelle, die einen hohen Speicherbedarf haben, auf Standardcomputern nutzbar.",
+          "meta": "C · ★ 34.395 · +2.026 heute",
+          "snapshot": {
+            "sourceId": "JustVugg/colibri",
+            "capturedAt": "2026-09-16T09:05:42.228Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 34395,
+              "engagementCount": 2026,
+              "rank": 2,
+              "extra": {
+                "starsToday": 2026
+              }
+            }
+          }
+        },
+        {
+          "title": "ever-co/ever-gauzy",
+          "url": "https://github.com/ever-co/ever-gauzy",
+          "summary": "Ever Gauzy ist eine Open-Source-Managementplattform, die grundlegende Geschäftsprozesse wie Enterprise Resource Planning (ERP), Customer Relationship Management (CRM) und Personalwesen unter einem Dach vereint. Diese in TypeScript entwickelte Software ermöglicht es Unternehmen, ihre operativen Anforderungen über ein zentrales System zu verwalten.",
+          "meta": "TypeScript · ★ 6.970 · +634 heute",
+          "snapshot": {
+            "sourceId": "ever-co/ever-gauzy",
+            "capturedAt": "2026-09-16T09:05:42.228Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 6970,
+              "engagementCount": 634,
+              "rank": 3,
+              "extra": {
+                "starsToday": 634
+              }
+            }
+          }
+        },
+        {
+          "title": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "summary": "VoiceStudio ist ein Open-Source-Tool zur Sprachverarbeitung, das Aufgaben wie Stimmenklonen, Sounddesign und Videosynchronisation ohne Internetverbindung durchführt. Es bietet eine lokale Alternative zum kostenpflichtigen Sprachsynthesedienst ElevenLabs und ermöglicht Diktat, Transkription und die Erstellung von Hörbüchern in 646 verschiedenen Sprachen.",
+          "meta": "Python · ★ 31.544 · +2.072 heute",
+          "snapshot": {
+            "sourceId": "debpalash/VoiceStudio",
+            "capturedAt": "2026-09-16T09:05:42.228Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 31544,
+              "engagementCount": 2072,
+              "rank": 4,
+              "extra": {
+                "starsToday": 2072
+              }
+            }
+          }
+        },
+        {
+          "title": "Homebrew/BrewUI",
+          "url": "https://github.com/Homebrew/BrewUI",
+          "summary": "Homebrew ist ein Befehlszeilen-Tool zur Verwaltung von Softwarepaketen unter dem Betriebssystem macOS. BrewUI ist eine offizielle Desktop-Anwendung, mit der Sie die komplexen Befehle dieses Tools über eine grafische Benutzeroberfläche (GUI) verwalten können.",
+          "meta": "Swift · ★ 1.654 · +271 heute",
+          "snapshot": {
+            "sourceId": "Homebrew/BrewUI",
+            "capturedAt": "2026-09-16T09:05:42.228Z",
+            "metadata": {
+              "language": "Swift",
+              "popularity": 1654,
+              "engagementCount": 271,
+              "rank": 5,
+              "extra": {
+                "starsToday": 271
+              }
+            }
+          }
+        },
+        {
+          "title": "melgarafael/DeskcommCRM",
+          "url": "https://github.com/melgarafael/DeskcommCRM",
+          "summary": "DeskcommCRM ist eine Open-Source-CRM-Plattform (Customer Relationship Management), die für Unternehmen entwickelt wurde, die über Chats verkaufen. Mit WhatsApp-Integration und integrierten KI-Agenten bietet es eine selbst gehostete Alternative zu beliebten Verkaufs- und Kommunikationstools wie Kommo oder Intercom.",
+          "meta": "TypeScript · ★ 2.998 · +193 heute",
+          "snapshot": {
+            "sourceId": "melgarafael/DeskcommCRM",
+            "capturedAt": "2026-09-16T09:05:42.228Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 2998,
+              "engagementCount": 193,
+              "rank": 6,
+              "extra": {
+                "starsToday": 193
+              }
+            }
+          }
+        },
+        {
+          "title": "alphaXiv/OpenResearch",
+          "url": "https://github.com/alphaXiv/OpenResearch",
+          "summary": "OpenResearch, entwickelt von AlphaXiv, ist ein Framework, das Softwareentwicklungs-Agenten in Agenten für akademische Forschung verwandelt. Dieses in Rust geschriebene Tool verbessert die Fähigkeit codeorientierter Systeme, wissenschaftliche Literatur zu analysieren und Forschungsprozesse durchzuführen.",
+          "meta": "Rust · ★ 3.744 · +531 heute",
+          "snapshot": {
+            "sourceId": "alphaXiv/OpenResearch",
+            "capturedAt": "2026-09-16T09:05:42.228Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 3744,
+              "engagementCount": 531,
+              "rank": 7,
+              "extra": {
+                "starsToday": 531
+              }
+            }
+          }
+        },
+        {
+          "title": "NationalSecurityAgency/ghidra",
+          "url": "https://github.com/NationalSecurityAgency/ghidra",
+          "summary": "Ghidra, entwickelt von der National Security Agency (NSA), ist ein umfassendes Analysetool für Software-Reverse-Engineering. Diese Java-basierte Plattform bietet Visualisierungs- und Debugging-Funktionen, die durch die Analyse von Binärdateien helfen, die Struktur und Funktionsweise des Codes zu verstehen.",
+          "meta": "Java · ★ 77.152 · +725 heute",
+          "snapshot": {
+            "sourceId": "NationalSecurityAgency/ghidra",
+            "capturedAt": "2026-09-16T09:05:42.228Z",
+            "metadata": {
+              "language": "Java",
+              "popularity": 77152,
+              "engagementCount": 725,
+              "rank": 8,
+              "extra": {
+                "starsToday": 725
+              }
+            }
+          }
+        },
+        {
+          "title": "danny-avila/LibreChat",
+          "url": "https://github.com/danny-avila/LibreChat",
+          "summary": "LibreChat ist eine Open-Source-Chat-Plattform, die verschiedene KI-Modelle und Tools in einer einzigen Oberfläche vereint. Diese Software, die Benutzer auf ihren eigenen Servern hosten können, bietet ein personalisiertes KI-Erlebnis mit Funktionen wie Modellwechsel und Multi-User-Authentifizierung.",
+          "meta": "TypeScript · ★ 44.017 · +254 heute",
+          "snapshot": {
+            "sourceId": "danny-avila/LibreChat",
+            "capturedAt": "2026-09-16T09:05:42.228Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 44017,
+              "engagementCount": 254,
+              "rank": 9,
+              "extra": {
+                "starsToday": 254
+              }
+            }
+          }
+        },
+        {
+          "title": "pacifio/atlas",
+          "url": "https://github.com/pacifio/atlas",
+          "summary": "Atlas bietet ein zentrales Versionskontrollsystem für KI-Agenten (Coding Agents), die in Softwareentwicklungsprozessen eingesetzt werden. Es ermöglicht die Nachverfolgung und Abfrage von Codeänderungen, die von verschiedenen Agenten vorgenommen wurden, an einem einzigen Ort.",
+          "meta": "Rust · ★ 4.759 · +91 heute",
+          "snapshot": {
+            "sourceId": "pacifio/atlas",
+            "capturedAt": "2026-09-16T09:05:42.228Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 4759,
+              "engagementCount": 91,
+              "rank": 10,
+              "extra": {
+                "starsToday": 91
+              }
+            }
+          }
+        },
+        {
+          "title": "MG1937/ASC",
+          "url": "https://github.com/MG1937/ASC",
+          "summary": "ASC ist eine sehr schnelle Android-Decompiler-Schnittstelle, die für Entwickler mobiler Anwendungen und KI-Agenten entwickelt wurde. Dieses in Python geschriebene Tool zielt darauf ab, den Prozess der Analyse komplexer Anwendungsdateien zu beschleunigen.",
+          "meta": "Python · ★ 1.336 · +129 heute",
+          "snapshot": {
+            "sourceId": "MG1937/ASC",
+            "capturedAt": "2026-09-16T09:05:42.228Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 1336,
+              "engagementCount": 129,
+              "rank": 11,
+              "extra": {
+                "starsToday": 129
+              }
+            }
+          }
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Die von Addy Osmani entwickelte Bibliothek agent-skills bietet produktionsreife Engineering-Fähigkeiten für KI-Coding-Agenten. Diese JavaScript-basierte Bibliothek zielt darauf ab, die in autonomen Softwareentwicklungsprozessen verwendeten Fähigkeiten zu standardisieren.",
+          "meta": "JavaScript · ★ 95.051 · +307 heute",
+          "snapshot": {
+            "sourceId": "addyosmani/agent-skills",
+            "capturedAt": "2026-09-16T09:05:42.228Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 95051,
+              "engagementCount": 307,
+              "rank": 12,
+              "extra": {
+                "starsToday": 307
+              }
+            }
+          }
+        },
+        {
+          "title": "tonhowtf/omniget",
+          "url": "https://github.com/tonhowtf/omniget",
+          "summary": "Omniget ist eine Open-Source-Desktopanwendung, mit der Videos, Musik und Bücher von über 1.800 Plattformen heruntergeladen werden können. Die Software, die auch Funktionen für Content-Player und Reader enthält, nutzt die Infrastruktur des Media-Download-Tools yt-dlp, um Dateien direkt auf Ihrem Computer zu speichern.",
+          "meta": "Rust · ★ 13.291 · +258 heute",
+          "snapshot": {
+            "sourceId": "tonhowtf/omniget",
+            "capturedAt": "2026-09-16T09:05:42.228Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 13291,
+              "engagementCount": 258,
+              "rank": 13,
+              "extra": {
+                "starsToday": 258
+              }
+            }
+          }
+        },
+        {
+          "title": "earendil-works/pi",
+          "url": "https://github.com/earendil-works/pi",
+          "summary": "Pi ist ein KI-Agenten-Toolkit, das eine einheitliche Schnittstelle für große Sprachmodelle (Large Language Models) bietet und Softwareentwicklungsprozesse automatisiert. Es erleichtert Coding-Aufgaben durch die Verwaltung von Agenten-Zyklen über eine terminalbasierte Benutzeroberfläche (TUI) und ein Befehlszeilentool (CLI).",
+          "meta": "TypeScript · ★ 106.054 · +458 heute",
+          "snapshot": {
+            "sourceId": "earendil-works/pi",
+            "capturedAt": "2026-09-16T09:05:42.228Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 106054,
+              "engagementCount": 458,
+              "rank": 14,
+              "extra": {
+                "starsToday": 458
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+          "url": "https://github.com/arnegiacomo/fugleramme",
+          "summary": "Fugleramme ist ein Rahmenprojekt, das Vogelgezwitscher in der Umgebung über ein Mikrofon erkennt, es in Illustrationen im Stil des 19. Jahrhunderts umwandelt und auf einem E-Ink-Display anzeigt. Das Gerät kombiniert Echtzeit-Audioanalyse mit visueller Generierung und bietet so ein digitales Naturbeobachtungserlebnis.",
+          "meta": "1.622 Punkte · 202 Kommentare",
+          "snapshot": {
+            "sourceId": "49711544",
+            "capturedAt": "2026-09-16T09:05:41.481Z",
+            "metadata": {
+              "popularity": 1622,
+              "engagementCount": 202,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49711544",
+                  "popularity": 1622,
+                  "engagementCount": 202
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "arnemunthekaas",
+                "createdAt": "2026-09-15T12:31:10Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49711544"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49711544",
+              "popularity": 1622,
+              "engagementCount": 202
+            }
+          ]
+        },
+        {
+          "title": "Introducing System One Models and Jev",
+          "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+          "summary": "Die von Typesafe vorgestellten System-One-Modelle bieten eine neue KI-Architektur, die für die Verwaltung komplexer logischer Schlussfolgerungsprozesse konzipiert ist. Diese Modelle arbeiten mit der Laufzeitumgebung (Runtime) namens Jev zusammen, um Aufgaben wie Debugging und Systemüberwachung in Softwareentwicklungsprozessen zuverlässiger zu machen.",
+          "meta": "1.344 Punkte · 388 Kommentare",
+          "snapshot": {
+            "sourceId": "49717558",
+            "capturedAt": "2026-09-16T09:05:41.481Z",
+            "metadata": {
+              "popularity": 1344,
+              "engagementCount": 388,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49717558",
+                  "popularity": 1344,
+                  "engagementCount": 388
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "albelfio",
+                "createdAt": "2026-09-15T19:25:03Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49717558"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49717558",
+              "popularity": 1344,
+              "engagementCount": 388
+            }
+          ]
+        },
+        {
+          "title": "An update on Wayback Machine access",
+          "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+          "summary": "Der Internet-Archivierungsdienst Internet Archive hat Updates für die Wayback-Machine-Plattform veröffentlicht, die aufgrund von Cyberangriffen und rechtlichen Prozessen mit Zugriffsproblemen zu kämpfen hatte. Der Dienst zielt darauf ab, den Zugriff auf vergangene Webseiten durch die Stärkung seiner technischen Infrastruktur wieder stabil zu machen.",
+          "meta": "519 Punkte · 265 Kommentare",
+          "snapshot": {
+            "sourceId": "49716176",
+            "capturedAt": "2026-09-16T09:05:41.481Z",
+            "metadata": {
+              "popularity": 519,
+              "engagementCount": 265,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49716176",
+                  "popularity": 519,
+                  "engagementCount": 265
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "ChrisArchitect",
+                "createdAt": "2026-09-15T17:52:18Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49716176"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49716176",
+              "popularity": 519,
+              "engagementCount": 265
+            }
+          ]
+        },
+        {
+          "title": "Suspected sabotage causes major Netherlands rail disruption",
+          "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+          "summary": "Die großflächigen Störungen im niederländischen Eisenbahnnetz werden nach Untersuchungen als Sabotageakt eingestuft. Dieser Eingriff, der auf das landesweite Verkehrssystem abzielte, bringt die Diskussionen über die Sicherheit kritischer Infrastrukturen erneut auf die Tagesordnung.",
+          "meta": "484 Punkte · 426 Kommentare",
+          "snapshot": {
+            "sourceId": "49710253",
+            "capturedAt": "2026-09-16T09:05:41.481Z",
+            "metadata": {
+              "popularity": 484,
+              "engagementCount": 426,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49710253",
+                  "popularity": 484,
+                  "engagementCount": 426
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "choult",
+                "createdAt": "2026-09-15T10:22:46Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49710253"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49710253",
+              "popularity": 484,
+              "engagementCount": 426
+            }
+          ]
+        },
+        {
+          "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+          "summary": "Google hat die neuen KI-Modelle Gemini 3.8 Live und Gemini 3.8 Live Extended Thinking angekündigt, die auf Echtzeit-Interaktion und tiefgreifendes logisches Denken ausgerichtet sind. Diese Modelle zielen darauf ab, konsistentere und logischere Antworten zu generieren, indem sie erweiterte Denkfähigkeiten (Extended Thinking) zur Lösung komplexer Probleme einsetzen.",
+          "meta": "401 Punkte · 264 Kommentare",
+          "snapshot": {
+            "sourceId": "49715947",
+            "capturedAt": "2026-09-16T09:05:41.481Z",
+            "metadata": {
+              "popularity": 401,
+              "engagementCount": 264,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49715947",
+                  "popularity": 401,
+                  "engagementCount": 264
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "leumon",
+                "createdAt": "2026-09-15T17:38:18Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49715947"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49715947",
+              "popularity": 401,
+              "engagementCount": 264
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+          "summary": "DeepSeek-V4.1-Flash ist ein multimodales KI-Modell, das Bild- und Textdaten verarbeiten kann. Das auf Hugging Face veröffentlichte Modell bietet die Fähigkeit, komplexe Bilder zu analysieren und textbasierte Ausgaben zu generieren.",
+          "meta": "♥ 2.758 · 325.712 Downloads",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash",
+            "capturedAt": "2026-09-16T09:05:41.320Z",
+            "metadata": {
+              "popularity": 2758,
+              "engagementCount": 325712,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 2389,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Edge0/Edge0-35B-A3B-preview",
+          "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
+          "summary": "Edge0-35B-A3B-preview, veröffentlicht auf Hugging Face, ist ein neues Sprachmodell mit Fokus auf Textgenerierung. Mit einer Kapazität von 35 Milliarden Parametern zielt das Modell darauf ab, bei komplexen Textgenerierungsaufgaben hohe Leistung zu erbringen.",
+          "meta": "♥ 2.974 · 17.853 Downloads",
+          "snapshot": {
+            "sourceId": "Edge0/Edge0-35B-A3B-preview",
+            "capturedAt": "2026-09-16T09:05:41.320Z",
+            "metadata": {
+              "popularity": 2974,
+              "engagementCount": 17853,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 2261,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "mlx",
+                  "safetensors",
+                  "qwen3_5_moe",
+                  "moe",
+                  "edge-inference",
+                  "prerouter",
+                  "lora",
+                  "ssd-offload",
+                  "text-generation",
+                  "conversational",
+                  "base_model:Qwen/Qwen3.6-35B-A3B",
+                  "base_model:adapter:Qwen/Qwen3.6-35B-A3B",
+                  "license:apache-2.0",
+                  "4-bit",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "openbmb/MiniCPM5-2B",
+          "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
+          "summary": "MiniCPM5-2B, entwickelt von OpenBMB, ist ein Textgenerierungsmodell, das mit geringen Hardwareanforderungen läuft. Es zielt darauf ab, leistungsstarke Sprachverarbeitungsfunktionen auf Geräten mit begrenzten Rechenressourcen bereitzustellen.",
+          "meta": "♥ 1.482 · 271.754 Downloads",
+          "snapshot": {
+            "sourceId": "openbmb/MiniCPM5-2B",
+            "capturedAt": "2026-09-16T09:05:41.320Z",
+            "metadata": {
+              "popularity": 1482,
+              "engagementCount": 271754,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 631,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "llama",
+                  "text-generation",
+                  "minicpm",
+                  "minicpm5",
+                  "long-context",
+                  "tool-calling",
+                  "on-device",
+                  "edge-ai",
+                  "conversational",
+                  "en",
+                  "zh",
+                  "dataset:openbmb/Ultra-FineWeb",
+                  "dataset:openbmb/UltraX-Preview",
+                  "dataset:openbmb/Ultra-FineWeb-L3",
+                  "dataset:openbmb/UltraData-Math",
+                  "dataset:openbmb/UltraData-Code",
+                  "dataset:openbmb/UltraData-SFT-2605",
+                  "dataset:openbmb/UltraData-SFT-Agent-2609",
+                  "dataset:openbmb/UltraData-RL-2609",
+                  "arxiv:2506.07900",
+                  "arxiv:2602.09003",
+                  "license:apache-2.0",
+                  "text-generation-inference",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Qwen2.5-27B, entwickelt von Alibaba, ist ein multimodales großes Sprachmodell (Large Language Model), das Text- und Bilddaten verarbeiten kann. Das Modell zielt darauf ab, bei komplexen logischen Schlussfolgerungen und Inhaltsanalyseaufgaben eine hohe Leistung zu erbringen.",
+          "meta": "♥ 15.317 · 7.702.543 Downloads",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-27B",
+            "capturedAt": "2026-09-16T09:05:41.320Z",
+            "metadata": {
+              "popularity": 15317,
+              "engagementCount": 7702543,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 584,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "deploy:azure",
+                  "deploy:sagemaker",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "m-a-p/YuE2-3B",
+          "url": "https://huggingface.co/m-a-p/YuE2-3B",
+          "summary": "YuE2-3B, das auf Hugging Face geteilt wurde, ist ein KI-Modell für die textbasierte Audioerzeugung (Text-to-Audio). Es ist in der Lage, eingegebene Texte zu verarbeiten und in hochwertige Audiodateien umzuwandeln.",
+          "meta": "♥ 590 · 6.716 Downloads",
+          "snapshot": {
+            "sourceId": "m-a-p/YuE2-3B",
+            "capturedAt": "2026-09-16T09:05:41.320Z",
+            "metadata": {
+              "popularity": 590,
+              "engagementCount": 6716,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 558,
+                "pipelineTag": "text-to-audio",
+                "tags": [
+                  "safetensors",
+                  "yue2",
+                  "music-generation",
+                  "symbolic-planning",
+                  "agentic-editing",
+                  "custom_code",
+                  "text-to-audio",
+                  "zh",
+                  "en",
+                  "arxiv:2503.08638",
+                  "license:cc-by-nc-4.0",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "StepAudio 3 Realtime Technical Report",
+          "url": "https://huggingface.co/papers/2609.14005",
+          "summary": "StepAudio 3 Realtime ist ein Audio-Sprach-Grundlagenmodell (Foundation Model), das tiefes Schlussfolgern mit geringer Latenz bei Sprachinteraktionen kombiniert. Das System, das mit einem Zyklus aus Zuhören, Sprechen, Denken und Handeln arbeitet, ermöglicht durch seine nahtlose Duplex-Struktur einen natürlichen Dialogfluss.",
+          "meta": "28 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.14005",
+            "capturedAt": "2026-09-16T09:05:41.330Z",
+            "metadata": {
+              "popularity": 28,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.14005",
+                "publishedAt": "2026-09-12T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "StepAudio 3 Music Technical Report",
+          "url": "https://huggingface.co/papers/2609.16034",
+          "summary": "StepAudio 3 Music ist ein groß angelegtes Modell, das für die Produktion von Langzeitmusik entwickelt wurde und mit Textbefehlen arbeitet. Um die musikalische Struktur zu wahren, verarbeitet das System Audiodaten mit einer semantischen Tokenizer-Struktur und verwendet einen Diffusions-Transformer, der mit der Flow-Matching-Methode arbeitet.",
+          "meta": "19 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.16034",
+            "capturedAt": "2026-09-16T09:05:41.330Z",
+            "metadata": {
+              "popularity": 19,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.16034",
+                "publishedAt": "2026-09-11T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Decoy Direction Optimization: A Post-Hoc Defense Against LLM Abliteration",
+          "url": "https://huggingface.co/papers/2609.16204",
+          "summary": "Die Decoy Direction Optimization (DDO) ist eine Verteidigungsmethode gegen Angriffe durch Refusal Feature Ablation, die Sicherheitsbeschränkungen in Open-Weight-Sprachmodellen deaktivieren. Diese Technik zielt darauf ab, die Sicherheitsebenen durch die Anpassung der Modellgewichte zu schützen, ohne dass kostspielige Feinabstimmungsprozesse (Fine-Tuning) erforderlich sind.",
+          "meta": "1 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.16204",
+            "capturedAt": "2026-09-16T09:05:41.330Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.16204",
+                "publishedAt": "2026-09-14T00:00:00.000Z",
+                "githubRepo": "https://github.com/aashiqmuhamed/defending-against-abliteration",
+                "githubStars": 1
+              }
+            }
+          }
+        },
+        {
+          "title": "Emergence World: Adversarial Stress-Testing of Long-Horizon Multi-Agent Systems",
+          "url": "https://huggingface.co/papers/2609.17320",
+          "summary": "Emergence World ist eine Multi-Agenten-Simulationsumgebung, die entwickelt wurde, um die Sicherheit autonomer Systeme bei langfristigen Aufgaben zu testen. Das System zielt darauf ab, Fehler zu identifizieren, die bei isolierten Tests nicht erkannt werden können, indem es die Interaktion von KI-Agenten bei Prozessen wie Gedächtnisnutzung und Werkzeuggebrauch überwacht.",
+          "meta": "0 Likes · 0 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.17320",
+            "capturedAt": "2026-09-16T09:05:41.330Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 0,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.17320",
+                "publishedAt": "2026-09-15T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement",
+          "url": "https://huggingface.co/papers/2609.11873",
+          "summary": "Das Konzept der rekursiven Selbstverbesserung (recursive self-improvement), das es KI-Systemen ermöglicht, ihre eigenen Fähigkeiten und Entwicklungsprozesse kontinuierlich zu optimieren, zielt darauf ab, dass sich Systeme ohne menschliches Eingreifen weiterentwickeln. Dieser Ansatz verfolgt das Ziel, dass KI durch autonome Strategiefindung und Erfahrungsgewinnung zu einem sich selbst verbessernden Meta-Prozess wird.",
+          "meta": "83 Likes · 2 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.11873",
+            "capturedAt": "2026-09-16T09:05:41.330Z",
+            "metadata": {
+              "popularity": 83,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.11873",
+                "publishedAt": "2026-09-10T00:00:00.000Z",
+                "githubRepo": "https://github.com/theseus-labs-rsi/awesome-rsi",
+                "githubStars": 47
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "A/I Shuts Down",
+          "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+          "summary": "Der in Europa ansässige digitale Interessenvertreter und Hosting-Dienst Autistici/Inventati hat angekündigt, seine Aktivitäten aufgrund von Eingriffen außerhalb rechtlicher Verfahren einzustellen. Die Schließung der Plattform, die Tausende von E-Mail-Konten, Blogs und Websites beherbergte, hat die Debatte über den Schutz unabhängiger digitaler Infrastrukturen im Internet neu entfacht.",
+          "meta": "28 Punkte · 9 Kommentare",
+          "snapshot": {
+            "sourceId": "wxnibb",
+            "capturedAt": "2026-09-16T09:05:41.641Z",
+            "metadata": {
+              "popularity": 28,
+              "engagementCount": 9,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/wxnibb/i_shuts_down",
+                  "popularity": 28,
+                  "engagementCount": 9
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "finance",
+                  "privacy"
+                ],
+                "createdAt": "2026-09-16T01:05:38.170-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/wxnibb/i_shuts_down",
+              "popularity": 28,
+              "engagementCount": 9
+            }
+          ]
+        },
+        {
+          "title": "GEFS on OpenBSD: A very early preview",
+          "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
+          "summary": "GEFS, das auf dem OpenBSD-Betriebssystem entwickelt wurde, zielt darauf ab, ein allgemeines Framework für Dateisysteme bereitzustellen. Diese Struktur ermöglicht eine einfachere Integration verschiedener Dateisystemtypen auf Kernel-Ebene.",
+          "meta": "72 Punkte · 8 Kommentare",
+          "snapshot": {
+            "sourceId": "buzdkb",
+            "capturedAt": "2026-09-16T09:05:41.641Z",
+            "metadata": {
+              "popularity": 72,
+              "engagementCount": 8,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/buzdkb/gefs_on_openbsd_very_early_preview",
+                  "popularity": 72,
+                  "engagementCount": 8
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "openbsd"
+                ],
+                "createdAt": "2026-09-15T12:21:47.861-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/buzdkb/gefs_on_openbsd_very_early_preview",
+              "popularity": 72,
+              "engagementCount": 8
+            }
+          ]
+        },
+        {
+          "title": "Small Programming Tricks",
+          "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+          "summary": "In Softwareentwicklungsprozessen erhöhen kleine und praktische Programmiertricks anstelle großer architektonischer Änderungen die Nachhaltigkeit des Systems. Diese Methoden vereinfachen komplexe Strukturen, senken die Fehlerquote und machen den täglichen Arbeitsablauf der Entwickler effizienter.",
+          "meta": "37 Punkte · 14 Kommentare",
+          "snapshot": {
+            "sourceId": "f65fy3",
+            "capturedAt": "2026-09-16T09:05:41.641Z",
+            "metadata": {
+              "popularity": 37,
+              "engagementCount": 14,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/f65fy3/small_programming_tricks",
+                  "popularity": 37,
+                  "engagementCount": 14
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "programming"
+                ],
+                "createdAt": "2026-09-15T15:50:57.381-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/f65fy3/small_programming_tricks",
+              "popularity": 37,
+              "engagementCount": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "generative AI",
+      "explanation": "KI-Technologie, die basierend auf den Befehlen des Benutzers neue Texte, Bilder oder Töne erzeugen kann."
+    },
+    {
+      "term": "Mixture of Experts",
+      "explanation": "Eine Methode, die kleine KI-Komponenten, von denen jede auf unterschiedliche Themen spezialisiert ist, kombiniert, um komplexe Probleme zu lösen."
+    },
+    {
+      "term": "ERP",
+      "explanation": "Ein Softwaresystem, das es einem Unternehmen ermöglicht, alle Geschäftsprozesse wie Buchhaltung, Lagerhaltung und Personalwesen von einem einzigen Zentrum aus zu verwalten."
+    },
+    {
+      "term": "CRM",
+      "explanation": "Ein Management-Tool, das es Unternehmen ermöglicht, ihre Kundenbeziehungen, vergangenen Interaktionen und Verkaufsprozesse zu verfolgen."
+    },
+    {
+      "term": "GUI",
+      "explanation": "Eine Benutzeroberfläche, die es ermöglicht, Computerprogramme visuell über Symbole, Menüs und Fenster zu bedienen."
+    },
+    {
+      "term": "framework",
+      "explanation": "Ein grundlegendes Gerüst, das es Softwareentwicklern ermöglicht, Anwendungen schneller zu entwickeln, indem sie vorgefertigte Strukturen anstelle von Code von Grund auf verwenden."
+    },
+    {
+      "term": "NSA",
+      "explanation": "Ein amerikanischer Geheimdienst, der darauf abzielt, die nationale Sicherheit durch die Überwachung des Internetverkehrs und der digitalen Kommunikation zu schützen."
+    },
+    {
+      "term": "software reverse engineering",
+      "explanation": "Der Prozess der Rückentwicklung des Codes eines fertigen Programms, um zu verstehen, wie es funktioniert."
+    },
+    {
+      "term": "coding agents",
+      "explanation": "Autonome KI-Tools, die ohne menschliches Eingreifen selbstständig Softwarecode schreiben oder Fehler korrigieren können."
+    },
+    {
+      "term": "decompiler",
+      "explanation": "Ein Werkzeug, das komplexe Maschinencodes, die der Computer versteht, in eine für Softwareentwickler lesbare Programmiersprache zurückübersetzt."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Die Fähigkeit, komplexe Probleme in logische Schritte zu unterteilen und die effizienteste Lösung zu entwickeln."
+    },
+    {
+      "term": "large language models",
+      "explanation": "KI-Modelle, die mit riesigen Datenmengen trainiert wurden und menschliche Sprache verstehen sowie Texte generieren können."
+    },
+    {
+      "term": "TUI",
+      "explanation": "Eine Benutzeroberfläche, die auf dem Terminalbildschirm läuft und anstelle von Grafiken nur Textzeichen und farbige Kästchen verwendet."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Eine textbasierte Schnittstelle, die Programme nicht mit der Maus, sondern über geschriebene Befehle ausführt."
+    },
+    {
+      "term": "e-ink",
+      "explanation": "Eine augenschonende Displaytechnologie, die wie Tinte auf Papier aussieht und nur beim Wechsel des Bildes Energie verbraucht."
+    },
+    {
+      "term": "runtime",
+      "explanation": "Der Zeitraum, in dem eine Software nicht nur auf dem Computer installiert ist, sondern zu diesem Zeitpunkt tatsächlich ausgeführt wird."
+    }
+  ]
+}
