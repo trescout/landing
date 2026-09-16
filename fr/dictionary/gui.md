@@ -33,6 +33,7 @@ Dessiner des éléments visuels nécessite une puissance de traitement, c'est po
 - [Imgui](/fr/discover/imgui/)
 - [Page Agent](/fr/discover/page-agent/)
 - [Chat2DB](/fr/discover/chat2db/)
+- [BrewUI](/fr/discover/brewui/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/gui/

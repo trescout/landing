@@ -2,15 +2,15 @@
 
 Yıkıcı Komut Koruması (destructive command guard), yapay zekâ ajanları tarafından çalıştırılan tehlikeli git ve kabuk (shell) komutlarını engellemek için geliştirilmiş bir güvenlik katmanıdır. Rust diliyle yazılan bu araç, sistem seviyesinde komut yürütme süreçlerini denetleyerek istenmeyen veri kaybı veya sistem hasarı risklerini azaltır.
 
-- ★ 5.953
+- ★ 5.991
 - Rust
 - GitHub Trending · 2026-07-13
 
 ## Güncelleme
+- 16 Eylül 2026: Yıldız 5.953 → 5.991, son sürüm v0.14.4 (16 Eylül 2026).
 - 11 Eylül 2026: Yıldız 5.953 → 5.953, son sürüm v0.14.3 (10 Eylül 2026).
 - 10 Eylül 2026: Yıldız 5.940 → 5.953, son sürüm v0.14.2 (9 Eylül 2026).
 - 8 Eylül 2026: Yıldız 5.893 → 5.940, son sürüm v0.14.1 (8 Eylül 2026).
-- 2 Eylül 2026: Yıldız 5.883 → 5.893, son sürüm v0.14.0 (1 Eylül 2026).
 
 ## Ne kazandırır?
 - Tehlikeli komutları yürütülmeden önce engeller

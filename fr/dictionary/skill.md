@@ -34,8 +34,8 @@ Habituellement, des connexions API ou des blocs de code spéciaux sont écrits p
 - [Browser Use](/fr/discover/browser-use/)
 - [Taste Skill](/fr/discover/taste-skill/)
 - [Awesome Claude Skills](/fr/discover/awesome-claude-skills/)
-- [Last30days Skill](/fr/discover/last30days-skill/)
 - [Archify](/fr/discover/archify/)
+- [Last30days Skill](/fr/discover/last30days-skill/)
 - [I Have Adhd](/fr/discover/i-have-adhd/)
 - [Reverse Skill](/fr/discover/reverse-skill/)
 

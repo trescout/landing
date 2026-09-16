@@ -36,8 +36,8 @@ Usually, API connections or special code blocks are written to enable the assist
 - [Browser Use](/en/discover/browser-use/)
 - [Taste Skill](/en/discover/taste-skill/)
 - [Awesome Claude Skills](/en/discover/awesome-claude-skills/)
-- [Last30days Skill](/en/discover/last30days-skill/)
 - [Archify](/en/discover/archify/)
+- [Last30days Skill](/en/discover/last30days-skill/)
 - [I Have Adhd](/en/discover/i-have-adhd/)
 - [Reverse Skill](/en/discover/reverse-skill/)
 

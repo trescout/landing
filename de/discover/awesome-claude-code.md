@@ -2,7 +2,7 @@
 
 Diese für Claude Code, den von Anthropic entwickelten Codierungsassistenten, erstellte Auswahl vereint Tools, Plug-Ins und Kompetenzpakete, die Softwareentwicklungsprozesse beschleunigen. Ressourcen, die es Entwicklern erleichtern, dieses Tool der künstlichen Intelligenz in ihre Projekte zu integrieren, konzentrieren sich auf die Erhöhung der Automatisierungskapazität.
 
-- ★ 51.520
+- ★ 54.142
 - Python
 - GitHub Trending · 2026-07-06
 

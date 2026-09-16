@@ -35,6 +35,7 @@ Drawing visual elements requires processing power, so text-based interfaces are 
 - [Imgui](/en/discover/imgui/)
 - [Page Agent](/en/discover/page-agent/)
 - [Chat2DB](/en/discover/chat2db/)
+- [BrewUI](/en/discover/brewui/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/gui/

@@ -32,13 +32,13 @@ Ils apprennent les probabilités que les mots se succèdent en analysant les rel
 
 ## Outils liés
 - [Llama.cpp](/fr/discover/llama-cpp/)
+- [PI](/fr/discover/pi/)
 - [PaddleOCR](/fr/discover/paddleocr/)
 - [MinerU](/fr/discover/mineru/)
 - [Daily Stock Analysis](/fr/discover/daily-stock-analysis/)
 - [Mempalace](/fr/discover/mempalace/)
 - [Dive Into Llms](/fr/discover/dive-into-llms/)
 - [AstrBot](/fr/discover/astrbot/)
-- [Airllm](/fr/discover/airllm/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/large-language-models/

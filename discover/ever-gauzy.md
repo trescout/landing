@@ -2,11 +2,12 @@
 
 Ever Gauzy, kurumsal kaynak planlama (ERP), müşteri ilişkileri yönetimi (CRM) ve insan kaynakları gibi temel iş süreçlerini tek bir çatı altında toplayan açık kaynaklı bir iş yönetim platformu. TypeScript diliyle geliştirilen bu yazılım, işletmelerin operasyonel ihtiyaçlarını karşılamak için kapsamlı ve modüler bir altyapı sunuyor.
 
-- ★ 5.584
+- ★ 6.976
 - TypeScript
 - GitHub Trending · 2026-09-14
 
 ## Güncelleme
+- 16 Eylül 2026: Yıldız 5.584 → 6.976, son sürüm v111.0.11 (4 Temmuz 2026).
 - 14 Eylül 2026: Yıldız 5.574 → 5.584, son sürüm v111.0.11 (4 Temmuz 2026).
 
 ## Ne kazandırır?

@@ -34,8 +34,8 @@ Normalmente, conexões API ou blocos de código especiais são escritos para per
 - [Browser Use](/pt/discover/browser-use/)
 - [Taste Skill](/pt/discover/taste-skill/)
 - [Awesome Claude Skills](/pt/discover/awesome-claude-skills/)
-- [Last30days Skill](/pt/discover/last30days-skill/)
 - [Archify](/pt/discover/archify/)
+- [Last30days Skill](/pt/discover/last30days-skill/)
 - [I Have Adhd](/pt/discover/i-have-adhd/)
 - [Reverse Skill](/pt/discover/reverse-skill/)
 

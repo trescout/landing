@@ -27,12 +27,12 @@ Wenn Sie in die Welt der Software einsteigen möchten, ja, denn viele Tools funk
 ## Verwandte Werkzeuge
 - [Claude Code](/de/discover/claude-code/)
 - [Codex](/de/discover/codex/)
+- [PI](/de/discover/pi/)
 - [Terminal](/de/discover/terminal/)
 - [Career Ops](/de/discover/career-ops/)
 - [Openinterpreter](/de/discover/openinterpreter/)
 - [Free Claude Code](/de/discover/free-claude-code/)
 - [Openhuman](/de/discover/openhuman/)
-- [DeepSeek-Reasonix](/de/discover/deepseek-reasonix/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/terminal/

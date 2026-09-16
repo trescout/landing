@@ -36,7 +36,7 @@ PageAgent kullanarak web sayfasındaki etkileşimleri doğal dil komutlarıyla y
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Page Agent GUI User Interface Agent Artificial Intelligence
+Page Agent User Interface GUI Agent Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/page-agent/

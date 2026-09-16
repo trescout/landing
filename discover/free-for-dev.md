@@ -2,11 +2,12 @@
 
 Free-for-dev, yazılım geliştirme süreçlerinde kullanılan hizmet olarak yazılım (SaaS), hizmet olarak platform (PaaS) ve hizmet olarak altyapı (IaaS) çözümlerinin ücretsiz katmanlarını bir araya getiren bir kaynak listesidir. Geliştiricilerin ve altyapı mühendislerinin maliyetsiz araçlara erişimini kolaylaştırmayı amaçlar.
 
-- ★ 131.012
+- ★ 137.565
 - HTML
 - GitHub Trending · 2026-06-27
 
 ## Güncelleme
+- 16 Eylül 2026: Yıldız 131.012 → 137.565.
 - 2 Ağustos 2026: Yıldız 123.834 → 131.012.
 
 ## Ne kazandırır?

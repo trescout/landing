@@ -32,6 +32,7 @@ It's necessary to memorize keyboard shortcuts in the beginning, but it's much mo
 - [Terminal Control](/en/dictionary/terminal-control/)
 
 ## Related tools
+- [PI](/en/discover/pi/)
 - [Witr](/en/discover/witr/)
 - [Hister](/en/discover/hister/)
 

@@ -48,7 +48,7 @@ TradingAgents aracını kullanarak finansal piyasa verilerini analiz etmek istiy
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-02 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Multi-agent LLM Multi-agent LLM CLI API Artificial Intelligence
+Multi-agent LLM Multi-agent LLM API CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/tradingagents/

@@ -30,6 +30,7 @@ Es necesario memorizar los atajos de teclado al principio, pero es mucho más ef
 - [Terminal Control](/es/dictionary/terminal-control/)
 
 ## Herramientas relacionadas
+- [PI](/es/discover/pi/)
 - [Witr](/es/discover/witr/)
 - [Hister](/es/discover/hister/)
 

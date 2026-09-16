@@ -2,15 +2,15 @@
 
 Loopx, uzun süreli çalışan yapay zekâ ajan ekipleri için geliştirilmiş hafif bir durum çekirdeği (state kernel). Kodlama ajanları (Codex, Claude Code) ile uyumlu çalışarak görev takibi, kota yönetimi ve doğrulanabilir iş devri gibi süreçleri standartlaştırıyor.
 
-- ★ 5.853
+- ★ 5.864
 - Python
 - GitHub Trending · 2026-08-06
 
 ## Güncelleme
+- 16 Eylül 2026: Yıldız 5.853 → 5.864, son sürüm v1.0.5 (15 Eylül 2026).
 - 15 Eylül 2026: Yıldız 5.793 → 5.853, son sürüm v1.0.4 (15 Eylül 2026).
 - 11 Eylül 2026: Yıldız 5.751 → 5.793, son sürüm v1.0.3 (11 Eylül 2026).
 - 9 Eylül 2026: Yıldız 5.726 → 5.751, son sürüm v1.0.2 (9 Eylül 2026).
-- 8 Eylül 2026: Yıldız 5.697 → 5.726, son sürüm v1.0.1 (7 Eylül 2026).
 
 ## Ne kazandırır?
 - Uzun süreli görevlerde hedef takibini ve kota yönetimini standartlaştırır.

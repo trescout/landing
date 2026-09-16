@@ -2,7 +2,7 @@
 
 FreeDomain offers free domain name service so anyone can have a digital identity. You can register a unique address and manage it with the DNS provider of your choice, such as Cloudflare. Reduce the cost of your web presence to zero.
 
-- ★ 190,061
+- ★ 199,617
 - HTML
 - AGPL-3.0
 - GitHub Trending · 26 May 2026

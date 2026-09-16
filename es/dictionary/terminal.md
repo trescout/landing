@@ -27,12 +27,12 @@ Si quieres adentrarte en el mundo del software, sí, porque muchas herramientas 
 ## Herramientas relacionadas
 - [Claude Code](/es/discover/claude-code/)
 - [Codex](/es/discover/codex/)
+- [PI](/es/discover/pi/)
 - [Terminal](/es/discover/terminal/)
 - [Career Ops](/es/discover/career-ops/)
 - [Openinterpreter](/es/discover/openinterpreter/)
 - [Free Claude Code](/es/discover/free-claude-code/)
 - [Openhuman](/es/discover/openhuman/)
-- [DeepSeek-Reasonix](/es/discover/deepseek-reasonix/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/terminal/

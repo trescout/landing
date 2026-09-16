@@ -2,11 +2,12 @@
 
 Anthropic tarafından geliştirilen kodlama asistanı Claude Code için hazırlanan bu seçki, yazılım geliştirme süreçlerini hızlandıran araçları, eklentileri ve yetenek paketlerini (skills) bir araya getiriyor. Geliştiricilerin bu yapay zekâ aracını projelerine entegre etmelerini kolaylaştıran kaynaklar, otomasyon kapasitesini artırmaya odaklanıyor.
 
-- ★ 51.520
+- ★ 54.142
 - Python
 - GitHub Trending · 2026-07-06
 
 ## Güncelleme
+- 16 Eylül 2026: Yıldız 51.520 → 54.142.
 - 2 Ağustos 2026: Yıldız 48.592 → 51.520.
 
 ## Ne kazandırır?

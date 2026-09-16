@@ -2,7 +2,7 @@
 
 FreeDomain ofrece servicio gratuito de nombres de dominio para que cualquiera pueda tener una identidad digital. Puedes registrar una dirección única y administrarla con el proveedor de DNS de tu elección, como Cloudflare. Reduzca el coste de su presencia web a cero.
 
-- ★ 190.061
+- ★ 199.617
 - HTML
 - AGPL-3.0
 - GitHub Trending · 26 May 2026

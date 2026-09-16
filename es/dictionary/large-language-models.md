@@ -32,13 +32,13 @@ Aprenden las probabilidades de que las palabras se sucedan analizando relaciones
 
 ## Herramientas relacionadas
 - [Llama.cpp](/es/discover/llama-cpp/)
+- [PI](/es/discover/pi/)
 - [PaddleOCR](/es/discover/paddleocr/)
 - [MinerU](/es/discover/mineru/)
 - [Daily Stock Analysis](/es/discover/daily-stock-analysis/)
 - [Mempalace](/es/discover/mempalace/)
 - [Dive Into Llms](/es/discover/dive-into-llms/)
 - [AstrBot](/es/discover/astrbot/)
-- [Airllm](/es/discover/airllm/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/large-language-models/

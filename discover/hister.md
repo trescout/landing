@@ -74,7 +74,7 @@ Yerel arayüzü açıp tarayıcı eklentisiyle seçtiğim sayfaları indeksle ve
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-TUI Binary MCP Terminal CLI
+Binary TUI MCP Terminal CLI
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/hister/

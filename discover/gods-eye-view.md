@@ -2,15 +2,15 @@
 
 Gods-eye-view, tarayıcı tabanlı bir 3D küre üzerinde gerçek zamanlı uydu verilerini görselleştiren bir uzamsal zekâ (spatial intelligence) simülatörü. JavaScript ile geliştirilen bu açık kaynaklı proje, kullanıcıların dünya üzerindeki canlı verileri fotogerçekçi bir arayüz üzerinden incelemesine olanak tanıyor.
 
-- ★ 32.743
+- ★ 35.204
 - JavaScript
 - GitHub Trending · 2026-08-28
 
 ## Güncelleme
+- 16 Eylül 2026: Yıldız 32.743 → 35.204, son sürüm v0.1.1 (1 Eylül 2026).
 - 14 Eylül 2026: Yıldız 30.722 → 32.743, son sürüm v0.1.1 (1 Eylül 2026).
 - 13 Eylül 2026: Yıldız 27.680 → 30.722, son sürüm v0.1.1 (1 Eylül 2026).
 - 12 Eylül 2026: Yıldız 25.412 → 27.680, son sürüm v0.1.1 (1 Eylül 2026).
-- 11 Eylül 2026: Yıldız 21.856 → 25.412, son sürüm v0.1.1 (1 Eylül 2026).
 
 ## Ne kazandırır?
 - Dünya üzerindeki canlı uçuş, gemi ve uydu verilerini 3D küre üzerinde izleyin.

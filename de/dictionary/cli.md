@@ -36,9 +36,9 @@ Normalerweise gibt das System Fehler aus, aber es gibt auch kritische Befehle, d
 - [Spec Kit](/de/discover/spec-kit/)
 - [Codex](/de/discover/codex/)
 - [Graphify](/de/discover/graphify/)
+- [PI](/de/discover/pi/)
 - [TradingAgents](/de/discover/tradingagents/)
 - [Angular](/de/discover/angular/)
-- [Agent-Reach](/de/discover/agent-reach/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/cli/

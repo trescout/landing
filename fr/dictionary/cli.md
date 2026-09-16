@@ -36,9 +36,9 @@ Le système génère généralement des erreurs, mais il existe également des c
 - [Spec Kit](/fr/discover/spec-kit/)
 - [Codex](/fr/discover/codex/)
 - [Graphify](/fr/discover/graphify/)
+- [PI](/fr/discover/pi/)
 - [TradingAgents](/fr/discover/tradingagents/)
 - [Angular](/fr/discover/angular/)
-- [Agent-Reach](/fr/discover/agent-reach/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/cli/

@@ -30,6 +30,7 @@ Pode ser confundido com CLI; CLI é apenas a linha de comando, enquanto TUI cria
 - [Terminal Control](/pt/dictionary/terminal-control/)
 
 ## Ferramentas relacionadas
+- [PI](/pt/discover/pi/)
 - [Witr](/pt/discover/witr/)
 - [Hister](/pt/discover/hister/)
 

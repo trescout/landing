@@ -34,8 +34,8 @@ Por lo general, las conexiones API o bloques de código especiales se escriben p
 - [Browser Use](/es/discover/browser-use/)
 - [Taste Skill](/es/discover/taste-skill/)
 - [Awesome Claude Skills](/es/discover/awesome-claude-skills/)
-- [Last30days Skill](/es/discover/last30days-skill/)
 - [Archify](/es/discover/archify/)
+- [Last30days Skill](/es/discover/last30days-skill/)
 - [I Have Adhd](/es/discover/i-have-adhd/)
 - [Reverse Skill](/es/discover/reverse-skill/)
 

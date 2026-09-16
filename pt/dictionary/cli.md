@@ -36,9 +36,9 @@ O sistema geralmente apresenta erros, mas também existem comandos críticos que
 - [Spec Kit](/pt/discover/spec-kit/)
 - [Codex](/pt/discover/codex/)
 - [Graphify](/pt/discover/graphify/)
+- [PI](/pt/discover/pi/)
 - [TradingAgents](/pt/discover/tradingagents/)
 - [Angular](/pt/discover/angular/)
-- [Agent-Reach](/pt/discover/agent-reach/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/cli/

@@ -33,6 +33,7 @@ Desenhar elementos visuais requer poder de processamento; portanto, interfaces b
 - [Imgui](/pt/discover/imgui/)
 - [Page Agent](/pt/discover/page-agent/)
 - [Chat2DB](/pt/discover/chat2db/)
+- [BrewUI](/pt/discover/brewui/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/gui/

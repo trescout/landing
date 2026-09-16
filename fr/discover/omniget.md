@@ -2,7 +2,7 @@
 
 Omniget est une application de bureau open source qui permet de télécharger des vidéos, de la musique et des livres depuis plus de 1 800 plateformes. Doté d'un lecteur de cours intégré, d'un lecteur de livres électroniques et d'une bibliothèque musicale, cet outil effectue les téléchargements via une interface graphique sans avoir recours au terminal.
 
-- ★ 12 132
+- ★ 13 300
 - Rust
 - GitHub Trending · 2026-09-14
 

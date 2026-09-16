@@ -30,6 +30,7 @@ Am Anfang ist es notwendig, sich Tastaturkürzel zu merken, aber es ist viel eff
 - [Terminal Control](/de/dictionary/terminal-control/)
 
 ## Verwandte Werkzeuge
+- [PI](/de/discover/pi/)
 - [Witr](/de/discover/witr/)
 - [Hister](/de/discover/hister/)
 

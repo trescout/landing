@@ -2,7 +2,7 @@
 
 FreeDomain bietet einen kostenlosen Domainnamen-Service, damit jeder eine digitale Identität haben kann. Sie können eine eindeutige Adresse registrieren und diese beim DNS-Anbieter Ihrer Wahl, beispielsweise Cloudflare, verwalten. Reduzieren Sie die Kosten Ihrer Webpräsenz auf Null.
 
-- ★ 190.061
+- ★ 199.617
 - HTML
 - AGPL-3.0
 - GitHub Trending · 26 May 2026

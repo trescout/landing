@@ -2,7 +2,7 @@
 
 El descargador de Douyin basado en Python es una herramienta que permite guardar vídeos, álbumes de fotos y música de la plataforma de redes sociales Douyin en su computadora sin marcas de agua. El software automatiza el proceso de archivo de contenido con soporte para descargas masivas, prevención de registros duplicados basada en SQLite y funciones de copia de seguridad del navegador.
 
-- ★ 11.656
+- ★ 11.841
 - Python
 - GitHub Trending · 2026-09-14
 

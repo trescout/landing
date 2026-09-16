@@ -32,13 +32,13 @@ Sie lernen die Wahrscheinlichkeiten aufeinander folgender Wörter kennen, indem 
 
 ## Verwandte Werkzeuge
 - [Llama.cpp](/de/discover/llama-cpp/)
+- [PI](/de/discover/pi/)
 - [PaddleOCR](/de/discover/paddleocr/)
 - [MinerU](/de/discover/mineru/)
 - [Daily Stock Analysis](/de/discover/daily-stock-analysis/)
 - [Mempalace](/de/discover/mempalace/)
 - [Dive Into Llms](/de/discover/dive-into-llms/)
 - [AstrBot](/de/discover/astrbot/)
-- [Airllm](/de/discover/airllm/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/large-language-models/

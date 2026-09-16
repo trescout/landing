@@ -2,7 +2,7 @@
 
 Free-for-dev es una lista de recursos que reúne los niveles gratuitos de soluciones de software como servicio (SaaS), plataforma como servicio (PaaS) e infraestructura como servicio (IaaS) utilizadas en los procesos de desarrollo de software. Su objetivo es facilitar a los desarrolladores e ingenieros de infraestructura el acceso a herramientas gratuitas.
 
-- ★ 131.012
+- ★ 137.565
 - HTML
 - GitHub Trending · 2026-06-27
 

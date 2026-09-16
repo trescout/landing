@@ -34,13 +34,13 @@ They learn the probabilities of words following each other by analyzing statisti
 
 ## Related tools
 - [Llama.cpp](/en/discover/llama-cpp/)
+- [PI](/en/discover/pi/)
 - [PaddleOCR](/en/discover/paddleocr/)
 - [MinerU](/en/discover/mineru/)
 - [Daily Stock Analysis](/en/discover/daily-stock-analysis/)
 - [Mempalace](/en/discover/mempalace/)
 - [Dive Into Llms](/en/discover/dive-into-llms/)
 - [AstrBot](/en/discover/astrbot/)
-- [Airllm](/en/discover/airllm/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/large-language-models/

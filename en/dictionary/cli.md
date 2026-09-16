@@ -38,9 +38,9 @@ The system usually gives errors, but there are also critical commands that requi
 - [Spec Kit](/en/discover/spec-kit/)
 - [Codex](/en/discover/codex/)
 - [Graphify](/en/discover/graphify/)
+- [PI](/en/discover/pi/)
 - [TradingAgents](/en/discover/tradingagents/)
 - [Angular](/en/discover/angular/)
-- [Agent-Reach](/en/discover/agent-reach/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/cli/

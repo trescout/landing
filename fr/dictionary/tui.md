@@ -30,6 +30,7 @@ Il est nécessaire de mémoriser les raccourcis clavier au début, mais c'est be
 - [Terminal Control](/fr/dictionary/terminal-control/)
 
 ## Outils liés
+- [PI](/fr/discover/pi/)
 - [Witr](/fr/discover/witr/)
 - [Hister](/fr/discover/hister/)
 

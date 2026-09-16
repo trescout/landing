@@ -2,7 +2,7 @@
 
 O Omniget é um aplicativo de desktop de código aberto que permite baixar vídeos, músicas e livros de mais de 1.800 plataformas. Com um reprodutor de cursos, leitor de e-books e biblioteca de música integrados, esta ferramenta realiza downloads através de uma interface gráfica, sem a necessidade de usar o terminal.
 
-- ★ 12.132
+- ★ 13.300
 - Rust
 - GitHub Trending · 2026-09-14
 

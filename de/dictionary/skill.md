@@ -34,8 +34,8 @@ Normalerweise werden API-Verbindungen oder spezielle Codeblöcke geschrieben, um
 - [Browser Use](/de/discover/browser-use/)
 - [Taste Skill](/de/discover/taste-skill/)
 - [Awesome Claude Skills](/de/discover/awesome-claude-skills/)
-- [Last30days Skill](/de/discover/last30days-skill/)
 - [Archify](/de/discover/archify/)
+- [Last30days Skill](/de/discover/last30days-skill/)
 - [I Have Adhd](/de/discover/i-have-adhd/)
 - [Reverse Skill](/de/discover/reverse-skill/)
 

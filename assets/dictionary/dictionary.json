@@ -7902,5 +7902,31 @@
     "kisa_pt": "Ferramenta de auditoria que analisa automaticamente o código escrito pelos desenvolvedores em busca de erros ou melhorias.",
     "kisa_es": "Herramienta de auditoría que analiza automáticamente el código escrito por los desarrolladores en busca de errores o mejoras.",
     "kisa_de": "Ein Prüftool, das den von Softwareentwicklern geschriebenen Code automatisch auf Fehler oder Verbesserungsmöglichkeiten untersucht."
+  },
+  {
+    "slug": "decompiler",
+    "en": "Decompiler",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Makine kodunu tekrar okunabilir bir yazılım diline dönüştüren bir çeviri aracıdır.",
+    "date": "2026-09-16",
+    "kisa_en": "It is a translation tool that converts machine code back into a readable software language.",
+    "kisa_fr": "C'est un outil de traduction qui convertit le code machine en un langage logiciel lisible.",
+    "kisa_pt": "É uma ferramenta de tradução que converte código de máquina em uma linguagem de programação legível.",
+    "kisa_es": "Es una herramienta de traducción que convierte el código máquina en un lenguaje de programación legible.",
+    "kisa_de": "Es ist ein Übersetzungstool, das Maschinencode wieder in eine lesbare Programmiersprache umwandelt."
+  },
+  {
+    "slug": "e-ink",
+    "en": "E-ink",
+    "full": "Electronic Ink",
+    "cat": "dev",
+    "kisa": "Kağıt benzeri bir görüntü sunan ve sadece sayfa değiştiğinde enerji tüketen ekran teknolojisidir.",
+    "date": "2026-09-16",
+    "kisa_en": "It is a display technology that offers a paper-like appearance and consumes energy only when the page changes.",
+    "kisa_fr": "Il s'agit d'une technologie d'affichage qui offre une image semblable à du papier et ne consomme de l'énergie que lors du changement de page.",
+    "kisa_pt": "É uma tecnologia de tela que oferece uma imagem semelhante ao papel e consome energia apenas quando a página é alterada.",
+    "kisa_es": "Es una tecnología de pantalla que ofrece una imagen similar al papel y solo consume energía cuando se cambia de página.",
+    "kisa_de": "Es ist eine Displaytechnologie, die ein papierähnliches Bild bietet und nur beim Umblättern der Seite Energie verbraucht."
   }
 ]
