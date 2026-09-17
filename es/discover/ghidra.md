@@ -2,7 +2,7 @@
 
 Desarrollado por la Agencia de Seguridad Nacional (NSA), Ghidra es un marco de análisis integral utilizado para procesos de ingeniería inversa de software. Esta herramienta, escrita en lenguaje Java, brinda a los investigadores de seguridad la oportunidad de analizar en detalle la estructura del código de los archivos binarios.
 
-- ★ 74.145
+- ★ 78.142
 - Java
 - GitHub Trending · 2026-08-28
 

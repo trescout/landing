@@ -2,7 +2,7 @@
 
 Awesome lists propose des collections organisées de ressources sur une variété de sujets dans le monde du développement logiciel et de la technologie. Ce référentiel fonctionne comme un répertoire complet qui rassemble les meilleurs outils, bibliothèques et matériels d'apprentissage de différents domaines.
 
-- ★ 482 524
+- ★ 506 942
 - GitHub Trending · 2026-07-07
 
 ## Ce que ça vous apporte

@@ -36,8 +36,8 @@ Le système génère généralement des erreurs, mais il existe également des c
 - [Spec Kit](/fr/discover/spec-kit/)
 - [Codex](/fr/discover/codex/)
 - [Graphify](/fr/discover/graphify/)
-- [PI](/fr/discover/pi/)
 - [TradingAgents](/fr/discover/tradingagents/)
+- [PI](/fr/discover/pi/)
 - [Angular](/fr/discover/angular/)
 
 ---

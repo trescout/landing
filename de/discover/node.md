@@ -2,7 +2,7 @@
 
 Node.js bietet eine Laufzeitumgebung, die die Ausführung von JavaScript-Code außerhalb des Browsers ermöglicht. Diese auf der V8-Engine basierende Plattform dient der serverseitigen Entwicklung skalierbarer Netzwerkanwendungen.
 
-- ★ 121.155
+- ★ 121.978
 - JavaScript
 - GitHub Trending · 2026-07-27
 

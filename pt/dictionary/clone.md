@@ -27,8 +27,8 @@ Sim, você pode fazer as alterações que desejar na cópia em seu próprio comp
 - [Clone-Wars](/pt/discover/clone-wars/)
 - [Hermes WebUI](/pt/discover/hermes-webui/)
 - [OpenStock](/pt/discover/openstock/)
-- [Production Agentic RAG Course](/pt/discover/production-agentic-rag-course/)
 - [Flowsint](/pt/discover/flowsint/)
+- [Production Agentic RAG Course](/pt/discover/production-agentic-rag-course/)
 - [MOSS-TTS](/pt/discover/moss-tts/)
 
 ---

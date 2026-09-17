@@ -2,15 +2,15 @@
 
 Keycloak, modern uygulamalar ve hizmetler için açık kaynaklı kimlik ve erişim yönetimi (identity and access management) çözümleri sunuyor. Java tabanlı bu platform, merkezi kimlik doğrulama ve yetkilendirme süreçlerini standartlaştırmak için kullanılıyor.
 
-- ★ 36.517
+- ★ 36.819
 - Java
 - GitHub Trending · 2026-06-28
 
 ## Güncelleme
+- 17 Eylül 2026: Yıldız 36.517 → 36.819, son sürüm 26.7.4 (16 Eylül 2026).
 - 31 Ağustos 2026: Yıldız 36.268 → 36.517, son sürüm 26.7.3 (31 Ağustos 2026).
 - 19 Ağustos 2026: Yıldız 36.028 → 36.268, son sürüm 26.7.2 (19 Ağustos 2026).
 - 6 Ağustos 2026: Yıldız 35.953 → 36.028, son sürüm 26.7.1 (5 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 35.354 → 35.953, son sürüm 26.7.0 (9 Temmuz 2026).
 
 ## Ne kazandırır?
 - Kullanıcı kimlik doğrulama süreçlerini standartlaştırır.

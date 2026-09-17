@@ -2,7 +2,7 @@
 
 AlphaXiv é uma estrutura que permite executar agentes de pesquisa paralelos usando diferentes modelos de IA. Desenvolvida na linguagem Rust, esta ferramenta de código aberto visa acelerar os processos de coleta de dados em pesquisas acadêmicas e técnicas.
 
-- ★ 3.751
+- ★ 4.782
 - Rust
 - GitHub Trending · 2026-09-12
 

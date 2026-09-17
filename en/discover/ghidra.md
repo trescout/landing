@@ -2,7 +2,7 @@
 
 Developed by the National Security Agency (NSA), Ghidra is a comprehensive analysis framework used for software reverse engineering processes. Written in Java, this tool analyzes the code structure of binary files, offering security researchers the opportunity for detailed examination.
 
-- ★ 74,145
+- ★ 78,142
 - Java
 - GitHub Trending · 2026-08-28
 

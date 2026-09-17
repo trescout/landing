@@ -2,7 +2,7 @@
 
 ESPectre est un système qui effectue une détection de mouvement via une analyse des informations sur l'état du canal Wi-Fi (CSI). Il s'intègre à la plateforme domotique Home Assistant et offre la possibilité de surveiller les signaux du réseau sans fil.
 
-- ★ 9 322
+- ★ 9 372
 - Python
 - GitHub Trending · 2026-06-10
 

@@ -2,11 +2,12 @@
 
 Sonarr, haber grupları (newsgroup) ve bittorrent kullanıcıları için geliştirilmiş akıllı bir kişisel video kaydedici (PVR). Kullanıcıların dizi içeriklerini otomatik olarak takip etmesini, indirmesini ve düzenlemesini sağlayan açık kaynaklı bir medya yönetim aracıdır.
 
-- ★ 15.798
+- ★ 16.274
 - C#
 - GitHub Trending · 2026-09-12
 
 ## Güncelleme
+- 17 Eylül 2026: Yıldız 15.798 → 16.274, son sürüm v4.0.20.3014 (16 Eylül 2026).
 - 12 Eylül 2026: Yıldız 15.796 → 15.798, son sürüm v4.0.19.2979 (26 Haziran 2026).
 
 ## Ne kazandırır?

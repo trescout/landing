@@ -30,8 +30,8 @@ Although it takes time at first, it saves serious time in the long run as it pre
 - [Refactoring](/en/dictionary/refactoring/)
 
 ## Related tools
-- [Code Review Graph](/en/discover/code-review-graph/)
 - [Open Code Review](/en/discover/open-code-review/)
+- [Code Review Graph](/en/discover/code-review-graph/)
 - [Tuicr](/en/discover/tuicr/)
 
 ---

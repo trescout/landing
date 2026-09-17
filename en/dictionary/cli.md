@@ -38,8 +38,8 @@ The system usually gives errors, but there are also critical commands that requi
 - [Spec Kit](/en/discover/spec-kit/)
 - [Codex](/en/discover/codex/)
 - [Graphify](/en/discover/graphify/)
-- [PI](/en/discover/pi/)
 - [TradingAgents](/en/discover/tradingagents/)
+- [PI](/en/discover/pi/)
 - [Angular](/en/discover/angular/)
 
 ---

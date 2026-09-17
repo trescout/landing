@@ -2,7 +2,7 @@
 
 AlphaXiv ist ein Framework, mit dem Sie parallele Forschungsagenten unter Verwendung verschiedener KI-Modelle ausführen können. Dieses in Rust entwickelte Open-Source-Tool zielt darauf ab, Datenerfassungsprozesse in der akademischen und technischen Forschung zu beschleunigen.
 
-- ★ 3.751
+- ★ 4.782
 - Rust
 - GitHub Trending · 2026-09-12
 

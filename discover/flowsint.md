@@ -2,10 +2,11 @@
 
 Flowsint, siber güvenlik analistleri ve araştırmacılar için görsel, esnek ve genişletilebilir çizge tabanlı inceleme (graph-based investigation) platformu sunuyor. TypeScript ile geliştirilen bu araç, karmaşık veri setlerinin görselleştirilerek analiz edilmesini kolaylaştırıyor.
 
-- ★ 7.755
+- ★ 8.922
 - GitHub Trending · 2026-06-03
 
 ## Güncelleme
+- 17 Eylül 2026: Yıldız 7.755 → 8.922, son sürüm v1.2.12 (26 Ağustos 2026).
 - 27 Ağustos 2026: Yıldız 7.528 → 7.755, son sürüm v1.2.12 (26 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 4.693 → 7.528, son sürüm v1.2.11 (1 Temmuz 2026).
 

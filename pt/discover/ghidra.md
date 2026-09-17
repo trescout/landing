@@ -2,7 +2,7 @@
 
 Desenvolvido pela Agência de Segurança Nacional (NSA), Ghidra é uma estrutura de análise abrangente usada para processos de engenharia reversa de software. Esta ferramenta, escrita em linguagem Java, oferece aos pesquisadores de segurança a oportunidade de analisar detalhadamente a estrutura do código dos arquivos binários.
 
-- ★ 74.145
+- ★ 78.142
 - Java
 - GitHub Trending · 2026-08-28
 

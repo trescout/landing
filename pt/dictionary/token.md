@@ -32,9 +32,9 @@ Como os computadores entendem números e não palavras, precisamos converter o t
 - [Caveman](/pt/discover/caveman/)
 - [OmniRoute](/pt/discover/omniroute/)
 - [Codebase Memory MCP](/pt/discover/codebase-memory-mcp/)
+- [Open Code Review](/pt/discover/open-code-review/)
 - [Code Review Graph](/pt/discover/code-review-graph/)
 - [Book to Skill](/pt/discover/book-to-skill/)
-- [Open Code Review](/pt/discover/open-code-review/)
 - [TencentDB-Agent-Memory](/pt/discover/tencentdb-agent-memory/)
 
 ---

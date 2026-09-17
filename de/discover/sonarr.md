@@ -2,7 +2,7 @@
 
 Sonarr ist ein intelligenter persönlicher Videorekorder (PVR) für Newsgroups- und Bittorrent-Nutzer. Es ist ein Open-Source-Medienverwaltungstool, mit dem Benutzer ihre Serieninhalte automatisch verfolgen, herunterladen und organisieren können.
 
-- ★ 15.798
+- ★ 16.274
 - C#
 - GitHub Trending · 2026-09-12
 

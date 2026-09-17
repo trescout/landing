@@ -36,8 +36,8 @@ O sistema geralmente apresenta erros, mas também existem comandos críticos que
 - [Spec Kit](/pt/discover/spec-kit/)
 - [Codex](/pt/discover/codex/)
 - [Graphify](/pt/discover/graphify/)
-- [PI](/pt/discover/pi/)
 - [TradingAgents](/pt/discover/tradingagents/)
+- [PI](/pt/discover/pi/)
 - [Angular](/pt/discover/angular/)
 
 ---

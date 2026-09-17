@@ -2,7 +2,7 @@
 
 Sonarr es una grabadora de video personal (PVR) inteligente desarrollada para usuarios de grupos de noticias (newsgroup) y bittorrent. Es una herramienta de gestión de medios de código abierto que permite a los usuarios rastrear, descargar y organizar automáticamente el contenido de sus series.
 
-- ★ 15.798
+- ★ 16.274
 - C#
 - GitHub Trending · 2026-09-12
 

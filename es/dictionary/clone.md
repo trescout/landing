@@ -27,8 +27,8 @@ Sí, puedes realizar los cambios que quieras en la copia en tu propia computador
 - [Clone-Wars](/es/discover/clone-wars/)
 - [Hermes WebUI](/es/discover/hermes-webui/)
 - [OpenStock](/es/discover/openstock/)
-- [Production Agentic RAG Course](/es/discover/production-agentic-rag-course/)
 - [Flowsint](/es/discover/flowsint/)
+- [Production Agentic RAG Course](/es/discover/production-agentic-rag-course/)
 - [MOSS-TTS](/es/discover/moss-tts/)
 
 ---

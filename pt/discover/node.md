@@ -2,7 +2,7 @@
 
 Node.js oferece um ambiente de execução que permite que o código JavaScript seja executado fora do navegador. Baseada no motor V8, esta plataforma é usada para desenvolver aplicações de rede escaláveis ​​no lado do servidor.
 
-- ★ 121.155
+- ★ 121.978
 - JavaScript
 - GitHub Trending · 2026-07-27
 

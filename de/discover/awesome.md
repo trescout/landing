@@ -2,7 +2,7 @@
 
 Awesome Lists bietet kuratierte Ressourcensammlungen zu verschiedenen Themen in der Welt der Softwareentwicklung und -technologie. Dieses Repository fungiert als umfassendes Verzeichnis, das die besten Tools, Bibliotheken und Lernmaterialien aus verschiedenen Bereichen zusammenführt.
 
-- ★ 482.524
+- ★ 506.942
 - GitHub Trending · 2026-07-07
 
 ## Was es bringt

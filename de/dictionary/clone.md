@@ -27,8 +27,8 @@ Ja, Sie können auf Ihrem eigenen Computer alle gewünschten Änderungen an der 
 - [Clone-Wars](/de/discover/clone-wars/)
 - [Hermes WebUI](/de/discover/hermes-webui/)
 - [OpenStock](/de/discover/openstock/)
-- [Production Agentic RAG Course](/de/discover/production-agentic-rag-course/)
 - [Flowsint](/de/discover/flowsint/)
+- [Production Agentic RAG Course](/de/discover/production-agentic-rag-course/)
 - [MOSS-TTS](/de/discover/moss-tts/)
 
 ---

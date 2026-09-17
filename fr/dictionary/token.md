@@ -32,9 +32,9 @@ Puisque les ordinateurs comprennent les nombres et non les mots, nous devons con
 - [Caveman](/fr/discover/caveman/)
 - [OmniRoute](/fr/discover/omniroute/)
 - [Codebase Memory MCP](/fr/discover/codebase-memory-mcp/)
+- [Open Code Review](/fr/discover/open-code-review/)
 - [Code Review Graph](/fr/discover/code-review-graph/)
 - [Book to Skill](/fr/discover/book-to-skill/)
-- [Open Code Review](/fr/discover/open-code-review/)
 - [TencentDB-Agent-Memory](/fr/discover/tencentdb-agent-memory/)
 
 ---

@@ -28,8 +28,8 @@ Aunque al principio lleva tiempo, a la larga ahorra mucho tiempo, ya que evita e
 - [Refactoring](/es/dictionary/refactoring/)
 
 ## Herramientas relacionadas
-- [Code Review Graph](/es/discover/code-review-graph/)
 - [Open Code Review](/es/discover/open-code-review/)
+- [Code Review Graph](/es/discover/code-review-graph/)
 - [Tuicr](/es/discover/tuicr/)
 
 ---

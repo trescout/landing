@@ -28,8 +28,8 @@ Même si cela prend du temps au début, cela permet de gagner beaucoup de temps 
 - [Refactoring](/fr/dictionary/refactoring/)
 
 ## Outils liés
-- [Code Review Graph](/fr/discover/code-review-graph/)
 - [Open Code Review](/fr/discover/open-code-review/)
+- [Code Review Graph](/fr/discover/code-review-graph/)
 - [Tuicr](/fr/discover/tuicr/)
 
 ---

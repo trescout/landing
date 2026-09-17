@@ -2,7 +2,7 @@
 
 Este conjunto de plug-ins de código aberto da Anthropic reúne habilidades, conectores, comandos de barra e subagentes para cada função de negócios. Esta solução, que permite a Claude atuar como um especialista em sua área, inclui 11 plugins prontos projetados para Claude Cowork.
 
-- ★ 23.222
+- ★ 24.405
 - Python
 - Apache-2.0
 - GitHub Trending · 26 May 2026

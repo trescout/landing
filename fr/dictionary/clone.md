@@ -27,8 +27,8 @@ Oui, vous pouvez apporter toutes les modifications souhaitées à la copie sur v
 - [Clone-Wars](/fr/discover/clone-wars/)
 - [Hermes WebUI](/fr/discover/hermes-webui/)
 - [OpenStock](/fr/discover/openstock/)
-- [Production Agentic RAG Course](/fr/discover/production-agentic-rag-course/)
 - [Flowsint](/fr/discover/flowsint/)
+- [Production Agentic RAG Course](/fr/discover/production-agentic-rag-course/)
 - [MOSS-TTS](/fr/discover/moss-tts/)
 
 ---

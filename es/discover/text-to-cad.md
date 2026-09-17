@@ -2,7 +2,7 @@
 
 Las herramientas de texto a CAD son un conjunto de habilidades de agentes desarrolladas para automatizar procesos de diseño de hardware y robótica. Esta biblioteca basada en JavaScript permite crear modelos de ingeniería complejos con comandos de lenguaje natural.
 
-- ★ 15.832
+- ★ 16.003
 - JavaScript
 - GitHub Trending · 2026-07-22
 

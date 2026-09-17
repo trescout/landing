@@ -28,8 +28,8 @@ Auch wenn es zunächst zeitaufwändig ist, spart es auf lange Sicht erheblich Ze
 - [Refactoring](/de/dictionary/refactoring/)
 
 ## Verwandte Werkzeuge
-- [Code Review Graph](/de/discover/code-review-graph/)
 - [Open Code Review](/de/discover/open-code-review/)
+- [Code Review Graph](/de/discover/code-review-graph/)
 - [Tuicr](/de/discover/tuicr/)
 
 ---

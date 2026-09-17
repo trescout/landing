@@ -32,9 +32,9 @@ Da Computer Zahlen und keine Wörter verstehen, müssen wir den Text in ein math
 - [Caveman](/de/discover/caveman/)
 - [OmniRoute](/de/discover/omniroute/)
 - [Codebase Memory MCP](/de/discover/codebase-memory-mcp/)
+- [Open Code Review](/de/discover/open-code-review/)
 - [Code Review Graph](/de/discover/code-review-graph/)
 - [Book to Skill](/de/discover/book-to-skill/)
-- [Open Code Review](/de/discover/open-code-review/)
 - [TencentDB-Agent-Memory](/de/discover/tencentdb-agent-memory/)
 
 ---

@@ -2,11 +2,12 @@
 
 Ulusal Güvenlik Ajansı (NSA) tarafından geliştirilen Ghidra, yazılım tersine mühendislik (software reverse engineering) süreçleri için kullanılan kapsamlı bir analiz çerçevesidir. Java diliyle yazılan bu araç, ikili dosyaların kod yapısını çözümleyerek güvenlik araştırmacılarına detaylı inceleme imkânı sunar.
 
-- ★ 74.145
+- ★ 78.142
 - Java
 - GitHub Trending · 2026-08-28
 
 ## Güncelleme
+- 17 Eylül 2026: Yıldız 74.145 → 78.142, son sürüm Ghidra_12.1.3_build (18 Ağustos 2026).
 - 31 Ağustos 2026: Yıldız 73.203 → 74.145, son sürüm Ghidra_12.1.3_build (18 Ağustos 2026).
 
 ## Ne kazandırır?
