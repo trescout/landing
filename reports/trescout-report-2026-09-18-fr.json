@@ -1,0 +1,1048 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-18",
+  "capturedAt": "2026-09-18T08:47:04.700Z",
+  "editorial": "Aujourd'hui, on observe une intensification des efforts axés sur les audits de sécurité et les solutions matérielles locales dans les processus de développement logiciel. L'annonce par Fujitsu de sa nouvelle génération de processeurs (CPU) et la généralisation des outils de sécurité open source montrent que l'industrie s'oriente vers des gains concrets tant au niveau de l'infrastructure que de la couche d'audit.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "Open-code-review, développé par Alibaba, propose une architecture hybride combinant des pipelines déterministes et des grands modèles de langage (LLM) pour automatiser les processus de revue de code. Conçu pour détecter les vulnérabilités de sécurité logicielle et fournir des retours ligne par ligne, cet outil est compatible avec différents modèles d'intelligence artificielle.",
+          "meta": "Go · ★ 35 855 · +3 286 aujourd'hui",
+          "snapshot": {
+            "sourceId": "alibaba/open-code-review",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 35855,
+              "engagementCount": 3286,
+              "rank": 1,
+              "extra": {
+                "starsToday": 3286
+              }
+            }
+          }
+        },
+        {
+          "title": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "summary": "security-audit-skill, développé par Cloudflare, est un ensemble de compétences (skill) permettant aux agents de codage d'effectuer des audits de sécurité en plusieurs étapes. En produisant des résultats lisibles par machine et vérifiés de manière indépendante, il automatise les normes de sécurité dans les processus de développement logiciel.",
+          "meta": "JavaScript · ★ 11 472 · +3 607 aujourd'hui",
+          "snapshot": {
+            "sourceId": "cloudflare/security-audit-skill",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 11472,
+              "engagementCount": 3607,
+              "rank": 2,
+              "extra": {
+                "starsToday": 3607
+              }
+            }
+          }
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "agent-skills, partagé par Addy Osmani, propose des compétences d'ingénierie (engineering skills) de niveau production pour les agents de codage basés sur l'intelligence artificielle. Cette bibliothèque basée sur JavaScript vise à standardiser les processus de développement logiciel autonomes.",
+          "meta": "JavaScript · ★ 96 080 · +680 aujourd'hui",
+          "snapshot": {
+            "sourceId": "addyosmani/agent-skills",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 96080,
+              "engagementCount": 680,
+              "rank": 3,
+              "extra": {
+                "starsToday": 680
+              }
+            }
+          }
+        },
+        {
+          "title": "Tencent/BrowserSkill",
+          "url": "https://github.com/Tencent/BrowserSkill",
+          "summary": "BrowserSkill, développé par Tencent, est un outil d'automatisation de navigateur qui permet aux agents d'intelligence artificielle de gérer des sessions de navigation actives sans interrompre le travail de l'utilisateur. Via une interface de ligne de commande et une extension de navigateur, il permet à tout agent d'IA d'accéder aux données du navigateur déjà connecté.",
+          "meta": "TypeScript · ★ 4 721 · +1 302 aujourd'hui",
+          "snapshot": {
+            "sourceId": "Tencent/BrowserSkill",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 4721,
+              "engagementCount": 1302,
+              "rank": 4,
+              "extra": {
+                "starsToday": 1302
+              }
+            }
+          }
+        },
+        {
+          "title": "alphaXiv/OpenResearch",
+          "url": "https://github.com/alphaXiv/OpenResearch",
+          "summary": "AlphaXiv propose un cadre qui transforme les agents logiciels axés sur le codage en agents de recherche capables de mener des processus d'investigation scientifique. Développé en Rust, cet outil open source vise à automatiser des tâches telles que l'analyse de données complexes et la revue de littérature académique.",
+          "meta": "Rust · ★ 5 168 · +939 aujourd'hui",
+          "snapshot": {
+            "sourceId": "alphaXiv/OpenResearch",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 5168,
+              "engagementCount": 939,
+              "rank": 5,
+              "extra": {
+                "starsToday": 939
+              }
+            }
+          }
+        },
+        {
+          "title": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "summary": "Claude Code est un agent d'intelligence artificielle (agentic coding tool) qui fonctionne dans le terminal et accélère les processus de développement logiciel grâce à des commandes en langage naturel. Il analyse la base de code pour effectuer des tâches routinières, explique des blocs de code complexes et gère les flux de travail liés au système de contrôle de version Git.",
+          "meta": "TypeScript · ★ 146 000 · +538 aujourd'hui",
+          "snapshot": {
+            "sourceId": "anthropics/claude-code",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 146000,
+              "engagementCount": 538,
+              "rank": 6,
+              "extra": {
+                "starsToday": 538
+              }
+            }
+          }
+        },
+        {
+          "title": "NationalSecurityAgency/ghidra",
+          "url": "https://github.com/NationalSecurityAgency/ghidra",
+          "summary": "Ghidra, développé par la National Security Agency (NSA), est un cadre d'analyse complet utilisé pour les opérations de rétro-ingénierie logicielle (software reverse engineering). Écrit en Java, cet outil offre des fonctionnalités de visualisation et de débogage pour analyser les fichiers binaires et comprendre la logique de fonctionnement du code.",
+          "meta": "Java · ★ 78 724 · +912 aujourd'hui",
+          "snapshot": {
+            "sourceId": "NationalSecurityAgency/ghidra",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "Java",
+              "popularity": 78724,
+              "engagementCount": 912,
+              "rank": 7,
+              "extra": {
+                "starsToday": 912
+              }
+            }
+          }
+        },
+        {
+          "title": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "summary": "knowledge-work-plugins, partagé par Anthropic, est une bibliothèque de plugins open source permettant aux travailleurs du savoir de créer des flux de travail personnalisés sur l'assistant d'intelligence artificielle Claude (modèle d'IA). Cet ensemble d'outils basé sur Python permet aux utilisateurs d'automatiser leurs processus de productivité et de standardiser des tâches complexes.",
+          "meta": "Python · ★ 24 687 · +287 aujourd'hui",
+          "snapshot": {
+            "sourceId": "anthropics/knowledge-work-plugins",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 24687,
+              "engagementCount": 287,
+              "rank": 8,
+              "extra": {
+                "starsToday": 287
+              }
+            }
+          }
+        },
+        {
+          "title": "Tencent/WeKnora",
+          "url": "https://github.com/Tencent/WeKnora",
+          "summary": "WeKnora, développé par Tencent, est une plateforme open source qui transforme des documents bruts en une base de connaissances interrogeable (RAG), un agent de raisonnement autonome et un système wiki auto-mis à jour. Écrit en langage de programmation Go, cet outil vise à convertir des données non structurées en actifs informationnels accessibles au niveau de l'entreprise.",
+          "meta": "Go · ★ 26 667 · +1 125 aujourd'hui",
+          "snapshot": {
+            "sourceId": "Tencent/WeKnora",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 26667,
+              "engagementCount": 1125,
+              "rank": 9,
+              "extra": {
+                "starsToday": 1125
+              }
+            }
+          }
+        },
+        {
+          "title": "abue-ammar/tinycast",
+          "url": "https://github.com/abue-ammar/tinycast",
+          "summary": "Tinycast est un lanceur d'applications léger, un gestionnaire de raccourcis et un outil d'historique de presse-papiers développé pour le système d'exploitation macOS. Écrit en Swift, ce logiciel natif vise à accélérer les flux de travail sur le bureau en utilisant efficacement les ressources système.",
+          "meta": "Swift · ★ 6 286 · +739 aujourd'hui",
+          "snapshot": {
+            "sourceId": "abue-ammar/tinycast",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "Swift",
+              "popularity": 6286,
+              "engagementCount": 739,
+              "rank": 10,
+              "extra": {
+                "starsToday": 739
+              }
+            }
+          }
+        },
+        {
+          "title": "cilium/cilium",
+          "url": "https://github.com/cilium/cilium",
+          "summary": "Cilium est un outil d'infrastructure qui utilise la technologie eBPF pour gérer le trafic réseau, assurer la sécurité et offrir une observabilité du système. Il est particulièrement privilégié pour gérer la couche réseau avec une haute performance dans les plateformes d'orchestration de conteneurs comme Kubernetes.",
+          "meta": "Go · ★ 25 329 · +111 aujourd'hui",
+          "snapshot": {
+            "sourceId": "cilium/cilium",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 25329,
+              "engagementCount": 111,
+              "rank": 11,
+              "extra": {
+                "starsToday": 111
+              }
+            }
+          }
+        },
+        {
+          "title": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "summary": "Voicebox, développé par Jamiepine, est un studio vocal d'intelligence artificielle open source qui permet aux utilisateurs de réaliser du clonage vocal, de la dictée et de la génération de voix. Écrit en TypeScript, cet outil regroupe les processus de traitement audio sur une plateforme unique pour l'utilisateur.",
+          "meta": "TypeScript · ★ 55 005 · +667 aujourd'hui",
+          "snapshot": {
+            "sourceId": "jamiepine/voicebox",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 55005,
+              "engagementCount": 667,
+              "rank": 12,
+              "extra": {
+                "starsToday": 667
+              }
+            }
+          }
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC est un système de performance qui optimise les couches de compétences, de mémoire et de sécurité pour les agents d'intelligence artificielle. Il offre une infrastructure conçue pour accroître l'efficacité opérationnelle des outils de codage (coding assistants) tels que Claude Code et Cursor.",
+          "meta": "JavaScript · ★ 261 436 · +1 171 aujourd'hui",
+          "snapshot": {
+            "sourceId": "affaan-m/ECC",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 261436,
+              "engagementCount": 1171,
+              "rank": 13,
+              "extra": {
+                "starsToday": 1171
+              }
+            }
+          }
+        },
+        {
+          "title": "roboflow/supervision",
+          "url": "https://github.com/roboflow/supervision",
+          "summary": "Supervision, développé par Roboflow, est une bibliothèque Python qui propose des outils réutilisables pour les projets de vision par ordinateur (computer vision). En standardisant les tâches courantes telles que le suivi d'objets et la visualisation, elle accélère les processus de traitement d'image.",
+          "meta": "Python · ★ 50 895 · +329 aujourd'hui",
+          "snapshot": {
+            "sourceId": "roboflow/supervision",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 50895,
+              "engagementCount": 329,
+              "rank": 14,
+              "extra": {
+                "starsToday": 329
+              }
+            }
+          }
+        },
+        {
+          "title": "JustVugg/colibri",
+          "url": "https://github.com/JustVugg/colibri",
+          "summary": "Colibri est un moteur C qui permet d'exécuter sur des appareils locaux, avec de faibles exigences matérielles, l'architecture de mélange d'experts (mixture of experts), l'un des types les plus avancés de grands modèles de langage (large language models). En chargeant les couches d'experts par flux depuis le disque, il permet aux modèles nécessitant une mémoire importante de fonctionner sur des ordinateurs standard.",
+          "meta": "C · ★ 35 919 · +873 aujourd'hui",
+          "snapshot": {
+            "sourceId": "JustVugg/colibri",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 35919,
+              "engagementCount": 873,
+              "rank": 15,
+              "extra": {
+                "starsToday": 873
+              }
+            }
+          }
+        },
+        {
+          "title": "TencentCloud/Octop",
+          "url": "https://github.com/TencentCloud/Octop",
+          "summary": "Octop, développé par TencentCloud, est un assistant d'intelligence artificielle multi-utilisateurs et multi-agents que vous pouvez héberger sur votre propre serveur. Ce système basé sur Python permet à différents utilisateurs d'interagir simultanément avec plusieurs agents d'IA.",
+          "meta": "Python · ★ 3 704 · +367 aujourd'hui",
+          "snapshot": {
+            "sourceId": "TencentCloud/Octop",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 3704,
+              "engagementCount": 367,
+              "rank": 16,
+              "extra": {
+                "starsToday": 367
+              }
+            }
+          }
+        },
+        {
+          "title": "ever-co/ever-gauzy",
+          "url": "https://github.com/ever-co/ever-gauzy",
+          "summary": "Ever Gauzy est une plateforme de gestion d'entreprise open source qui rassemble sous un même toit les processus métier tels que la planification des ressources d'entreprise (ERP), la gestion de la relation client (CRM) et les ressources humaines. Développé en TypeScript, ce système centralise les outils logiciels nécessaires aux différents départements.",
+          "meta": "TypeScript · ★ 7 677 · +470 aujourd'hui",
+          "snapshot": {
+            "sourceId": "ever-co/ever-gauzy",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 7677,
+              "engagementCount": 470,
+              "rank": 17,
+              "extra": {
+                "starsToday": 470
+              }
+            }
+          }
+        },
+        {
+          "title": "cline/cline",
+          "url": "https://github.com/cline/cline",
+          "summary": "Cline est un agent de codage autonome qui automatise les processus de développement logiciel. Il s'intègre aux projets des développeurs en fonctionnant via une extension IDE, un kit de développement logiciel (SDK) ou une interface de ligne de commande (CLI).",
+          "meta": "TypeScript · ★ 68 646 · +380 aujourd'hui",
+          "snapshot": {
+            "sourceId": "cline/cline",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 68646,
+              "engagementCount": 380,
+              "rank": 18,
+              "extra": {
+                "starsToday": 380
+              }
+            }
+          }
+        },
+        {
+          "title": "coder/coder",
+          "url": "https://github.com/coder/coder",
+          "summary": "Coder est une plateforme qui fournit des environnements de développement sécurisés pour les développeurs et les agents d'intelligence artificielle. Grâce à son infrastructure basée sur le cloud, elle permet de standardiser les processus de codage et de gérer les environnements de développement de manière centralisée.",
+          "meta": "Go · ★ 14 996 · +145 aujourd'hui",
+          "snapshot": {
+            "sourceId": "coder/coder",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 14996,
+              "engagementCount": 145,
+              "rank": 19,
+              "extra": {
+                "starsToday": 145
+              }
+            }
+          }
+        },
+        {
+          "title": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "summary": "n8n est une plateforme visuelle d'automatisation des flux de travail qui automatise le flux de données entre différentes applications. Grâce à la prise en charge de plus de 400 intégrations et à des capacités d'IA intégrées, les utilisateurs peuvent créer des processus personnalisés sur leurs propres serveurs ou dans le cloud.",
+          "meta": "TypeScript · ★ 205 171 · +281 aujourd'hui",
+          "snapshot": {
+            "sourceId": "n8n-io/n8n",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 205171,
+              "engagementCount": 281,
+              "rank": 20,
+              "extra": {
+                "starsToday": 281
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Hister: A private search engine for the pages you visit and the files you keep",
+          "url": "https://github.com/asciimoo/hister",
+          "summary": "Hister est un moteur de recherche privé qui indexe les pages web visitées et les fichiers locaux pour permettre d'effectuer des recherches rapides parmi eux. Cet outil, qui permet aux utilisateurs de garder un contrôle total sur leurs propres données, offre une expérience de recherche personnelle axée sur la confidentialité.",
+          "meta": "596 votes · 162 commentaires",
+          "snapshot": {
+            "sourceId": "49743097",
+            "capturedAt": "2026-09-18T08:47:04.992Z",
+            "metadata": {
+              "popularity": 596,
+              "engagementCount": 162,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49743097",
+                  "popularity": 596,
+                  "engagementCount": 162
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "bookofjoe",
+                "createdAt": "2026-09-17T16:25:37Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49743097"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49743097",
+              "popularity": 596,
+              "engagementCount": 162
+            }
+          ]
+        },
+        {
+          "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+          "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+          "summary": "Fujitsu a annoncé son processeur (CPU) de nouvelle génération, FUJITSU-MONAKA, axé sur l'efficacité énergétique pour les centres de données. Fabriqué au Japon, ce processeur offre une architecture optimisée pour le calcul haute performance (HPC) et les charges de travail liées à l'intelligence artificielle.",
+          "meta": "584 votes · 225 commentaires",
+          "snapshot": {
+            "sourceId": "49715813",
+            "capturedAt": "2026-09-18T08:47:04.992Z",
+            "metadata": {
+              "popularity": 584,
+              "engagementCount": 225,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49715813",
+                  "popularity": 584,
+                  "engagementCount": 225
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "my123",
+                "createdAt": "2026-09-15T17:28:38Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49715813"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49715813",
+              "popularity": 584,
+              "engagementCount": 225
+            }
+          ]
+        },
+        {
+          "title": "Astra for Law",
+          "url": "https://openai.com/index/astra-for-law/",
+          "summary": "Astra for Law, développé par OpenAI, est un outil d'intelligence artificielle (IA) spécialisé qui permet aux professionnels du droit d'analyser des documents juridiques complexes. Conçu pour accroître l'efficacité des processus juridiques, ce système automatise les tâches d'examen de dossiers à grande échelle et de recherche juridique.",
+          "meta": "471 votes · 500 commentaires",
+          "snapshot": {
+            "sourceId": "49745940",
+            "capturedAt": "2026-09-18T08:47:04.992Z",
+            "metadata": {
+              "popularity": 471,
+              "engagementCount": 500,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49745940",
+                  "popularity": 471,
+                  "engagementCount": 500
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "vertigoruntime",
+                "createdAt": "2026-09-17T20:17:48Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49745940"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49745940",
+              "popularity": 471,
+              "engagementCount": 500
+            }
+          ]
+        },
+        {
+          "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+          "url": "https://bend-lang.com/",
+          "summary": "Bend est un langage de programmation capable de fonctionner en parallèle à la fois sur le processeur (CPU) et sur le processeur graphique (GPU), et qui empêche les erreurs logiques par le biais de preuves. Il permet aux développeurs de logiciels d'effectuer des calculs parallèles complexes de manière plus sûre et sans erreur.",
+          "meta": "444 votes · 206 commentaires",
+          "snapshot": {
+            "sourceId": "49746163",
+            "capturedAt": "2026-09-18T08:47:04.992Z",
+            "metadata": {
+              "popularity": 444,
+              "engagementCount": 206,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49746163",
+                  "popularity": 444,
+                  "engagementCount": 206
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "nicolas-siplis",
+                "createdAt": "2026-09-17T20:36:13Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49746163"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49746163",
+              "popularity": 444,
+              "engagementCount": 206
+            }
+          ]
+        },
+        {
+          "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+          "url": "https://prismml.com/news/bonsai-2-27b",
+          "summary": "Bonsai 2 27B, développé par PrismML, est une technologie de compression qui réduit la taille des grands modèles de langage (large language models) par neuf tout en conservant leurs performances d'origine. Cette méthode permet aux modèles d'intelligence artificielle de fonctionner sur des appareils à plus faible capacité en réduisant les exigences matérielles.",
+          "meta": "416 votes · 121 commentaires",
+          "snapshot": {
+            "sourceId": "49746618",
+            "capturedAt": "2026-09-18T08:47:04.992Z",
+            "metadata": {
+              "popularity": 416,
+              "engagementCount": 121,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49746618",
+                  "popularity": 416,
+                  "engagementCount": 121
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "JonSchneider",
+                "createdAt": "2026-09-17T21:13:31Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49746618"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49746618",
+              "popularity": 416,
+              "engagementCount": 121
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Edge0/Edge0-35B-A3B-preview",
+          "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
+          "summary": "Edge0-35B-A3B-preview est un modèle d'intelligence artificielle publié sur la plateforme Hugging Face et axé sur la génération de texte (text generation). Offrant une alternative open source aux développeurs, ce modèle est conçu pour effectuer des tâches complexes de traitement du langage.",
+          "meta": "♥ 3 340 · 37 131 téléchargements",
+          "snapshot": {
+            "sourceId": "Edge0/Edge0-35B-A3B-preview",
+            "capturedAt": "2026-09-18T08:47:04.833Z",
+            "metadata": {
+              "popularity": 3340,
+              "engagementCount": 37131,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 2453,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "mlx",
+                  "safetensors",
+                  "qwen3_5_moe",
+                  "moe",
+                  "edge-inference",
+                  "prerouter",
+                  "lora",
+                  "ssd-offload",
+                  "text-generation",
+                  "conversational",
+                  "arxiv:2609.18063",
+                  "base_model:Qwen/Qwen3.6-35B-A3B",
+                  "base_model:adapter:Qwen/Qwen3.6-35B-A3B",
+                  "license:apache-2.0",
+                  "4-bit",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+          "summary": "DeepSeek-V4.1-Flash, développé par DeepSeek, est un modèle d'intelligence artificielle multimodal capable de traiter des données visuelles et textuelles. Il est conçu pour analyser les images et les textes reçus en entrée afin de produire des sorties textuelles significatives.",
+          "meta": "♥ 3 064 · 390 657 téléchargements",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash",
+            "capturedAt": "2026-09-18T08:47:04.833Z",
+            "metadata": {
+              "popularity": 3064,
+              "engagementCount": 390657,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1130,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Qwen2.5-27B, développé par Alibaba, est un modèle d'intelligence artificielle multimodal capable de traiter à la fois des données textuelles et visuelles. Sur HuggingFace, la plateforme où sont partagés les modèles d'IA open source, il se distingue comme un outil de traitement du langage et de l'image haute performance.",
+          "meta": "♥ 15 578 · 7 456 257 téléchargements",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-27B",
+            "capturedAt": "2026-09-18T08:47:04.833Z",
+            "metadata": {
+              "popularity": 15578,
+              "engagementCount": 7456257,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 611,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "deploy:azure",
+                  "deploy:sagemaker",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "m-a-p/YuE2-3B",
+          "url": "https://huggingface.co/m-a-p/YuE2-3B",
+          "summary": "YuE2-3B, publié sur Hugging Face, est un modèle d'intelligence artificielle doté de capacités de conversion texte-audio (text-to-audio). Il vise à offrir une alternative haute performance dans les processus de production musicale et sonore.",
+          "meta": "♥ 752 · 11 626 téléchargements",
+          "snapshot": {
+            "sourceId": "m-a-p/YuE2-3B",
+            "capturedAt": "2026-09-18T08:47:04.833Z",
+            "metadata": {
+              "popularity": 752,
+              "engagementCount": 11626,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 575,
+                "pipelineTag": "text-to-audio",
+                "tags": [
+                  "safetensors",
+                  "yue2",
+                  "music-generation",
+                  "symbolic-planning",
+                  "agentic-editing",
+                  "custom_code",
+                  "text-to-audio",
+                  "zh",
+                  "en",
+                  "arxiv:2503.08638",
+                  "license:cc-by-nc-4.0",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "TokenRhythm/NeoHorse-1-4B",
+          "url": "https://huggingface.co/TokenRhythm/NeoHorse-1-4B",
+          "summary": "NeoHorse-1-4B, développé par TokenRhythm, est un modèle d'intelligence artificielle axé sur la génération de texte (text generation). Grâce à son faible nombre de paramètres, il utilise efficacement les ressources matérielles pour offrir des processus de création de texte rapides.",
+          "meta": "♥ 2 353 · 19 789 téléchargements",
+          "snapshot": {
+            "sourceId": "TokenRhythm/NeoHorse-1-4B",
+            "capturedAt": "2026-09-18T08:47:04.833Z",
+            "metadata": {
+              "popularity": 2353,
+              "engagementCount": 19789,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 479,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5_text",
+                  "text-generation",
+                  "agentic",
+                  "tool-use",
+                  "coding",
+                  "reasoning",
+                  "instruction-following",
+                  "conversational",
+                  "arxiv:2609.08183",
+                  "base_model:Qwen/Qwen3.5-4B",
+                  "base_model:finetune:Qwen/Qwen3.5-4B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
+          "url": "https://huggingface.co/papers/2609.20817",
+          "summary": "FAMOS est un modèle à propagation avant (feed-forward) qui estime les paramètres articulaires en segmentant les parties mobiles à partir de nuages de points clairsemés et irréguliers (point clouds). Il vise à modéliser plus précisément la structure articulée tridimensionnelle des objets en traitant plusieurs données simultanément au lieu d'observations isolées.",
+          "meta": "3 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.20817",
+            "capturedAt": "2026-09-18T08:47:04.842Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.20817",
+                "publishedAt": "2026-09-17T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation",
+          "url": "https://huggingface.co/papers/2609.20511",
+          "summary": "Dans les processus de distillation en politique (on-policy distillation), le problème de l'inflation de la longueur (length inflation), qui conduit les modèles étudiants à produire des réponses inutilement longues, est examiné. La recherche révèle que ce comportement est causé par une incompatibilité concernant les jetons d'arrêt (EOS tokens) entre les modèles étudiants de base et les modèles enseignants ayant suivi un processus post-entraînement.",
+          "meta": "26 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.20511",
+            "capturedAt": "2026-09-18T08:47:04.842Z",
+            "metadata": {
+              "popularity": 26,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.20511",
+                "publishedAt": "2026-09-17T00:00:00.000Z",
+                "githubRepo": "https://github.com/UNCSciML/opd-eos",
+                "githubStars": 1
+              }
+            }
+          }
+        },
+        {
+          "title": "PACT: Can Enterprise AI Assistants Be Trusted Under Pressure?",
+          "url": "https://huggingface.co/papers/2609.18605",
+          "summary": "PACT est un cadre d'évaluation qui mesure dans quelle mesure les assistants d'IA en entreprise respectent les règles de conformité dans les processus sensibles sous pression. Il vise à analyser systématiquement les tendances à la violation des règles des grands modèles de langage (large language models) utilisés dans des domaines tels que le recrutement, la santé et la finance.",
+          "meta": "2 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.18605",
+            "capturedAt": "2026-09-18T08:47:04.842Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.18605",
+                "publishedAt": "2026-09-16T00:00:00.000Z",
+                "githubRepo": "https://github.com/trace-ai-labs/pact",
+                "githubStars": 4
+              }
+            }
+          }
+        },
+        {
+          "title": "WeVisDoc: From Coverage to Capability for Robust End-to-End Document Parsing",
+          "url": "https://huggingface.co/papers/2609.20423",
+          "summary": "WeVisDoc résout le problème du biais de données rencontré dans les processus d'analyse de documents (document parsing), qui convertissent les images de documents en texte structuré, grâce à un cadre en deux étapes. Le système renforce les performances d'analyse de bout en bout en augmentant la diversité du contenu et en adoptant une approche axée sur les données qui cible les points faibles du modèle.",
+          "meta": "8 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.20423",
+            "capturedAt": "2026-09-18T08:47:04.842Z",
+            "metadata": {
+              "popularity": 8,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.20423",
+                "publishedAt": "2026-09-17T00:00:00.000Z",
+                "githubRepo": "https://github.com/Tencent/WeVisDoc",
+                "githubStars": 9
+              }
+            }
+          }
+        },
+        {
+          "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning",
+          "url": "https://huggingface.co/papers/2609.20784",
+          "summary": "RetireOPD propose une méthode pour les agents d'IA entraînés par apprentissage par renforcement (reinforcement learning) qui organise la supervision du modèle enseignant par étapes. Cette approche optimise le processus d'auto-distillation (self-distillation) du modèle étudiant lorsque le modèle enseignant n'est pas toujours fiable, augmentant ainsi l'efficacité de l'entraînement.",
+          "meta": "9 j'aime · 2 commentaires",
+          "snapshot": {
+            "sourceId": "2609.20784",
+            "capturedAt": "2026-09-18T08:47:04.842Z",
+            "metadata": {
+              "popularity": 9,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.20784",
+                "publishedAt": "2026-09-17T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "I Don't Like LLMs",
+          "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+          "summary": "L'expert en génie logiciel Martin Fowler partage ses critiques concernant l'intégration des grands modèles de langage (large language models) dans les processus de développement logiciel. Il remet en question les effets négatifs potentiels de ces technologies sur la qualité du code et les compétences des développeurs, tout en soulignant les risques liés à l'automatisation.",
+          "meta": "72 votes · 24 commentaires",
+          "snapshot": {
+            "sourceId": "pkj7mf",
+            "capturedAt": "2026-09-18T08:47:05.119Z",
+            "metadata": {
+              "popularity": 72,
+              "engagementCount": 24,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/pkj7mf/i_don_t_like_llms",
+                  "popularity": 72,
+                  "engagementCount": 24
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-17T10:25:24.745-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/pkj7mf/i_don_t_like_llms",
+              "popularity": 72,
+              "engagementCount": 24
+            }
+          ]
+        },
+        {
+          "title": "Flock cameras are riddled with security vulnerabilities and hard-coded credentials",
+          "url": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/",
+          "summary": "Des chercheurs en sécurité ont découvert des identifiants codés en dur et diverses vulnérabilités dans les caméras de sécurité Flock, qui proposent une technologie de reconnaissance de plaques d'immatriculation, facilitant ainsi l'accès au système. Ces résultats montrent que les appareils largement utilisés par les forces de l'ordre et les propriétés privées présentent des risques en matière de sécurité des données.",
+          "meta": "50 votes · 3 commentaires",
+          "snapshot": {
+            "sourceId": "eyg3oe",
+            "capturedAt": "2026-09-18T08:47:05.119Z",
+            "metadata": {
+              "popularity": 50,
+              "engagementCount": 3,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/eyg3oe/flock_cameras_are_riddled_with_security",
+                  "popularity": 50,
+                  "engagementCount": 3
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "reversing",
+                  "security"
+                ],
+                "createdAt": "2026-09-17T16:21:18.024-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/eyg3oe/flock_cameras_are_riddled_with_security",
+              "popularity": 50,
+              "engagementCount": 3
+            }
+          ]
+        },
+        {
+          "title": "The Golden Spike, and Resurrecting the Vale(n) Programming Language",
+          "url": "https://verdagon.dev/blog/golden-spike-reviving-vale-valen",
+          "summary": "Le langage de programmation Vale est en cours de redéveloppement avec Golden Spike, une nouvelle architecture de compilateur qui allie sécurité mémoire et haute performance. Ce travail vise à offrir les fonctionnalités de gestion sécurisée de la mémoire (memory safety) du langage Vale sur une infrastructure plus efficace.",
+          "meta": "50 votes · 8 commentaires",
+          "snapshot": {
+            "sourceId": "fjnkn4",
+            "capturedAt": "2026-09-18T08:47:05.119Z",
+            "metadata": {
+              "popularity": 50,
+              "engagementCount": 8,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/fjnkn4/golden_spike_resurrecting_vale_n",
+                  "popularity": 50,
+                  "engagementCount": 8
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "plt",
+                  "rust"
+                ],
+                "createdAt": "2026-09-17T10:10:44.531-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/fjnkn4/golden_spike_resurrecting_vale_n",
+              "popularity": 50,
+              "engagementCount": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "LLM",
+      "explanation": "Modèles d'intelligence artificielle entraînés sur de très vastes ensembles de données, capables de comprendre le langage humain et de générer du texte."
+    },
+    {
+      "term": "skill",
+      "explanation": "Capacité spécifique ou domaine d'expertise possédé pour accomplir une tâche."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Ensemble des compétences techniques nécessaires pour concevoir, construire et résoudre les problèmes de systèmes complexes."
+    },
+    {
+      "term": "agentic coding tool",
+      "explanation": "Outils intelligents capables non seulement d'écrire du code, mais aussi de prendre des décisions autonomes et de gérer les processus de développement logiciel."
+    },
+    {
+      "term": "NSA",
+      "explanation": "Agence de renseignement nationale américaine qui effectue des analyses de sécurité en surveillant le trafic Internet et les communications numériques."
+    },
+    {
+      "term": "software reverse engineering",
+      "explanation": "Processus d'analyse inverse du code ou de la structure d'un logiciel existant pour comprendre son fonctionnement."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Méthode permettant à l'intelligence artificielle d'extraire des informations de sources externes actualisées en dehors de sa propre mémoire lors de la génération de réponses."
+    },
+    {
+      "term": "launcher",
+      "explanation": "Écran d'accueil ou outil permettant de trouver et de lancer rapidement des applications sur des ordinateurs ou des téléphones."
+    },
+    {
+      "term": "native",
+      "explanation": "Application écrite dans le langage natif d'un appareil ou d'un système d'exploitation, fonctionnant directement sans avoir besoin d'intermédiaire supplémentaire."
+    },
+    {
+      "term": "observability",
+      "explanation": "La capacité à comprendre pourquoi un système logiciel ne fonctionne pas correctement en surveillant les données qu'il contient."
+    },
+    {
+      "term": "coding assistants",
+      "explanation": "Outils assistés par intelligence artificielle qui vous aident à écrire du code, à trouver des erreurs et à faire des suggestions lors du développement de logiciels."
+    },
+    {
+      "term": "computer vision",
+      "explanation": "Technologie permettant aux ordinateurs de voir et d'interpréter des images numériques ou des vidéos comme le font les humains."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modèles d'intelligence artificielle entraînés sur de très vastes ensembles de données, capables de comprendre le langage humain et de générer du texte."
+    },
+    {
+      "term": "mixture of experts",
+      "explanation": "Architecture d'intelligence artificielle efficace qui traite des tâches complexes en les divisant en parties plus petites et spécialisées."
+    },
+    {
+      "term": "ERP",
+      "explanation": "Logiciel permettant à une entreprise de gérer tous ses processus métier, tels que la comptabilité, la production et les ressources humaines, à partir d'un centre unique."
+    },
+    {
+      "term": "CRM",
+      "explanation": "Système permettant aux entreprises de suivre leurs relations avec les clients, leurs ventes et l'historique de leurs communications."
+    }
+  ]
+}
