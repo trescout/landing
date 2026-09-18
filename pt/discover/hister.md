@@ -2,7 +2,7 @@
 
 Motor de busca privado com licença AGPLv3 para páginas visitadas e arquivos guardados pelo usuário. Oferece indexação full-text, filtros de consulta avançados e busca semântica opcional.
 
-- ★ 3.574
+- ★ 4.602
 - Go
 - GitHub Trending · 2026-08-25
 

@@ -7806,14 +7806,14 @@
     "slug": "server",
     "title": "Server",
     "tagline": "Music Assistant, farklı dijital yayın servislerini ve bağlı hoparlörleri tek bir arayüzde birleştiren açık kaynaklı bir medya…",
-    "meta": "★ 3.058",
+    "meta": "★ 3.078",
     "image": "/assets/discover/og/server.webp",
     "source": "GitHub",
     "date": "2026-06-13",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 3058,
+    "stars": 3078,
     "lite": false,
     "headline": "Açık kaynaklı dijital müzik sunucusu",
     "cmds": {
@@ -7882,6 +7882,13 @@
         "onceki_yildiz": 3029,
         "surum": "2.10.3",
         "surum_tarihi": "2026-09-11"
+      },
+      {
+        "tarih": "2026-09-18",
+        "yildiz": 3078,
+        "onceki_yildiz": 3058,
+        "surum": "2.10.4",
+        "surum_tarihi": "2026-09-18"
       }
     ],
     "tagline_en": "Music Assistant is an open-source media platform that combines different digital streaming services and connected speakers into a single interface.",
@@ -30316,14 +30323,14 @@
     "slug": "sub2api",
     "title": "Sub2api",
     "tagline": "Sub2API, Claude, OpenAI, Gemini ve Grok aboneliklerine tek noktadan erişim ve maliyet paylaşımı sağlayan açık kaynaklı bir aracı hizmettir.",
-    "meta": "★ 41.561 · Go",
+    "meta": "★ 41.928 · Go",
     "image": "/assets/discover/og/sub2api.webp",
     "source": "GitHub",
     "date": "2026-08-23",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 41561,
+    "stars": 41928,
     "lite": false,
     "headline": "Yapay zekâ aboneliklerini tek merkezden yönetin",
     "last_review": "2026-09-18",
@@ -30390,6 +30397,13 @@
         "onceki_yildiz": 40970,
         "surum": "v0.2.5",
         "surum_tarihi": "2026-09-15"
+      },
+      {
+        "tarih": "2026-09-18",
+        "yildiz": 41928,
+        "onceki_yildiz": 41561,
+        "surum": "v0.2.6",
+        "surum_tarihi": "2026-09-18"
       }
     ],
     "tagline_en": "Sub2API is an open-source relay service that provides unified access to Claude, OpenAI, Gemini, and Grok subscriptions, with support for cost sharing.",
@@ -31824,14 +31838,14 @@
     "slug": "hister",
     "title": "Hister",
     "tagline": "Kullanıcının ziyaret ettiği sayfalar ve sakladığı dosyalar için AGPLv3 lisanslı özel bir arama motorudur.",
-    "meta": "★ 3.574 · Go",
+    "meta": "★ 4.602 · Go",
     "image": "/assets/discover/og/hister.webp",
     "source": "GitHub",
     "date": "2026-08-25",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 3574,
+    "stars": 4602,
     "summary": "Kullanıcının ziyaret ettiği sayfalar ve sakladığı dosyalar için AGPLv3 lisanslı özel bir arama motorudur. Tam metin indeksleme, gelişmiş sorgu filtreleri ve isteğe bağlı anlamsal arama sunar.",
     "lite": false,
     "tagline_en": "It is a special AGPLv3 licensed search engine for the pages the user visits and the files he stores.",
@@ -32047,6 +32061,13 @@
         "tarih": "2026-09-04",
         "yildiz": 3574,
         "onceki_yildiz": 3100,
+        "surum": "v0.19.0",
+        "surum_tarihi": "2026-09-03"
+      },
+      {
+        "tarih": "2026-09-18",
+        "yildiz": 4602,
+        "onceki_yildiz": 3574,
         "surum": "v0.19.0",
         "surum_tarihi": "2026-09-03"
       }
@@ -35152,7 +35173,8 @@
     "tagline_fr": "Développé par Cloudflare, security-audit-skill permet aux agents de codage d'effectuer des audits de sécurité en plusieurs étapes...",
     "tagline_pt": "O security-audit-skill, desenvolvido pela Cloudflare, permite que agentes de codificação realizem auditorias de segurança em várias etapas...",
     "tagline_es": "security-audit-skill, desarrollado por Cloudflare, permite que los agentes de codificación realicen auditorías de seguridad de múltiples etapas...",
-    "tagline_de": "Das von Cloudflare entwickelte security-audit-skill ermöglicht es Coding-Agenten, mehrstufige Sicherheitsüberprüfungen durchzuführen..."
+    "tagline_de": "Das von Cloudflare entwickelte security-audit-skill ermöglicht es Coding-Agenten, mehrstufige Sicherheitsüberprüfungen durchzuführen...",
+    "last_seen": "2026-09-18"
   },
   {
     "slug": "browserskill",
@@ -35184,7 +35206,8 @@
     "tagline_fr": "Développé par Tencent, BrowserSkill permet aux agents d'intelligence artificielle d'utiliser des sessions de navigateur actives pour le travail de l'utilisateur...",
     "tagline_pt": "O BrowserSkill, desenvolvido pela Tencent, permite que agentes de inteligência artificial utilizem sessões de navegador ativas para realizar o trabalho do usuário...",
     "tagline_es": "BrowserSkill, desarrollado por Tencent, permite que los agentes de inteligencia artificial utilicen sesiones de navegador activas para el trabajo del usuario...",
-    "tagline_de": "Das von Tencent entwickelte BrowserSkill ermöglicht es KI-Agenten, aktive Browsersitzungen zu nutzen, um die Arbeit des Benutzers..."
+    "tagline_de": "Das von Tencent entwickelte BrowserSkill ermöglicht es KI-Agenten, aktive Browsersitzungen zu nutzen, um die Arbeit des Benutzers...",
+    "last_seen": "2026-09-18"
   },
   {
     "slug": "weknora",
@@ -35216,7 +35239,8 @@
     "tagline_fr": "Développé par Tencent, WeKnora transforme des documents bruts en une base de connaissances interrogeable (RAG), un raisonnement autonome…",
     "tagline_pt": "Desenvolvido pela Tencent, o WeKnora transforma documentos brutos em uma base de conhecimento consultável (RAG), raciocínio autônomo...",
     "tagline_es": "WeKnora, desarrollado por Tencent, convierte documentos sin procesar en una base de conocimientos consultable (RAG), un razonamiento autónomo...",
-    "tagline_de": "WeKnora, entwickelt von Tencent, verwandelt Rohdokumente in eine abfragbare Wissensdatenbank (RAG), autonomes Schlussfolgern…"
+    "tagline_de": "WeKnora, entwickelt von Tencent, verwandelt Rohdokumente in eine abfragbare Wissensdatenbank (RAG), autonomes Schlussfolgern…",
+    "last_seen": "2026-09-18"
   },
   {
     "slug": "tinycast",
@@ -35247,7 +35271,8 @@
     "tagline_fr": "Tinycast est un lanceur d'applications léger, un gestionnaire de raccourcis et un historique de presse-papiers développé pour le système d'exploitation macOS…",
     "tagline_pt": "Tinycast é um iniciador de aplicativos leve, gerenciador de atalhos e histórico de área de transferência desenvolvido para o sistema operacional macOS...",
     "tagline_es": "Tinycast es un lanzador de aplicaciones ligero, gestor de atajos e historial de portapapeles desarrollado para el sistema operativo macOS...",
-    "tagline_de": "Tinycast ist ein leichtgewichtiger App-Launcher, Shortcut-Manager und Zwischenablage-Verlauf für das macOS-Betriebssystem…"
+    "tagline_de": "Tinycast ist ein leichtgewichtiger App-Launcher, Shortcut-Manager und Zwischenablage-Verlauf für das macOS-Betriebssystem…",
+    "last_seen": "2026-09-18"
   },
   {
     "slug": "cilium",
@@ -35280,7 +35305,8 @@
     "tagline_fr": "Cilium utilise la technologie eBPF pour gérer le trafic réseau, assurer la sécurité et offrir une observabilité du système…",
     "tagline_pt": "O Cilium utiliza a tecnologia eBPF para gerenciar o tráfego de rede, garantir a segurança e oferecer observabilidade do sistema...",
     "tagline_es": "Cilium utiliza la tecnología eBPF para gestionar el tráfico de red, proporcionar seguridad y ofrecer observabilidad del sistema...",
-    "tagline_de": "Cilium nutzt die eBPF-Technologie, um Netzwerkverkehr zu verwalten, Sicherheit zu gewährleisten und Systembeobachtbarkeit (Observability) zu bieten…"
+    "tagline_de": "Cilium nutzt die eBPF-Technologie, um Netzwerkverkehr zu verwalten, Sicherheit zu gewährleisten und Systembeobachtbarkeit (Observability) zu bieten…",
+    "last_seen": "2026-09-18"
   },
   {
     "slug": "octop",
@@ -35313,7 +35339,8 @@
     "tagline_fr": "Développé par TencentCloud, Octop est une plateforme d'IA multi-utilisateurs et multi-agents que vous pouvez héberger sur votre propre serveur…",
     "tagline_pt": "Desenvolvido pela TencentCloud, o Octop é uma plataforma de inteligência artificial multiusuário e multiagente que você pode hospedar em seu próprio servidor...",
     "tagline_es": "Octop, desarrollado por TencentCloud, es una plataforma de inteligencia artificial multiusuario y multiagente que puede alojar en su propio servidor...",
-    "tagline_de": "Octop, entwickelt von TencentCloud, ist eine KI-Plattform für mehrere Benutzer und Agenten, die Sie auf Ihrem eigenen Server hosten können…"
+    "tagline_de": "Octop, entwickelt von TencentCloud, ist eine KI-Plattform für mehrere Benutzer und Agenten, die Sie auf Ihrem eigenen Server hosten können…",
+    "last_seen": "2026-09-18"
   },
   {
     "slug": "cline",
@@ -35345,7 +35372,8 @@
     "tagline_fr": "Cline est un agent de codage autonome qui automatise les processus de développement logiciel.",
     "tagline_pt": "Cline é um agente de codificação autônomo que automatiza processos de desenvolvimento de software.",
     "tagline_es": "Cline es un agente de codificación autónomo que automatiza los procesos de desarrollo de software.",
-    "tagline_de": "Cline ist ein autonomer Coding-Agent, der Softwareentwicklungsprozesse automatisiert."
+    "tagline_de": "Cline ist ein autonomer Coding-Agent, der Softwareentwicklungsprozesse automatisiert.",
+    "last_seen": "2026-09-18"
   },
   {
     "slug": "coder",
@@ -35377,6 +35405,7 @@
     "tagline_fr": "Coder est une plateforme qui fournit des environnements de développement sécurisés pour les développeurs et les agents d'intelligence artificielle.",
     "tagline_pt": "Coder é uma plataforma que fornece ambientes de desenvolvimento seguros para programadores e agentes de inteligência artificial.",
     "tagline_es": "Coder es una plataforma que proporciona entornos de desarrollo seguros para programadores y agentes de inteligencia artificial.",
-    "tagline_de": "Coder ist eine Plattform, die sichere Entwicklungsumgebungen für Softwareentwickler und KI-Agenten bereitstellt."
+    "tagline_de": "Coder ist eine Plattform, die sichere Entwicklungsumgebungen für Softwareentwickler und KI-Agenten bereitstellt.",
+    "last_seen": "2026-09-18"
   }
 ]

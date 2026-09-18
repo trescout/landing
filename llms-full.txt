@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve web/PDF rapor olarak yayımlar. E-posta teslimatı erken erişim aşamasında hazırlanıyor.
 
-Son güncelleme: 2026-09-18 · 557 araç · 611 terim
+Son güncelleme: 2026-09-18 · 557 araç · 612 terim
 
 ---
 
@@ -4668,6 +4668,48 @@ Kodunuzu paylaştığınız aracın gizlilik politikasına bağlıdır, hassas v
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/coding-assistant/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Coding Assistants nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-09-18
+
+Yazılım geliştirme sürecinde kod yazımını hızlandıran, hata ayıklayan ve öneriler sunan yapay zekâ tabanlı yardımcılardır.
+
+## Tanım
+Bu araçlar, tıpkı yanınızda oturan deneyimli bir yazılımcı gibi çalışır. Siz kod yazarken bir sonraki satırı tahmin edebilir, yazdığınız karmaşık fonksiyonları basit bir dille açıklayabilir veya kodunuzdaki mantık hatalarını anında tespit edebilirler. Kodlama sürecini daha verimli hale getirerek geliştiricilerin üzerindeki rutin yükü almayı amaçlarlar.
+
+## Bir benzetmeyle
+Sanki bir yazarın yanında, o daha cümlesini bitirmeden kelimelerini tamamlayan ve yazım hatalarını anında düzelten çok hızlı bir editörün olması gibidir.
+
+## Nasıl çalışır?
+Genellikle bir kod düzenleyiciye (IDE) eklenti olarak kurulurlar. Siz kod yazmaya başladığınızda, bu araçlar arka planda çalışarak yazdığınız bağlamı analiz eder. Ardından size uygun kod blokları önerir veya sorduğunuz sorulara projenizin yapısına göre cevaplar verirler.
+
+## Nerede kullanılır?
+VS Code, IntelliJ gibi popüler yazılım geliştirme ortamlarında veya doğrudan web tarayıcısı üzerinden erişilebilen platformlarda kullanılırlar.
+
+## Sık karıştırılanlar
+Genellikle 'AI Coding Agent' ile karıştırılır; asistanlar daha çok öneri ve rehberlik odaklıyken, ajanlar belirli görevleri sizin yerinize uçtan uca yapabilen daha otonom yapılardır.
+
+## Sıkça sorulanlar
+
+**Bu araçlar kodun tamamını kendi başına yazabilir mi?**  
+Genellikle küçük parçaları yazabilirler ancak büyük projelerde bir insanın yönlendirmesi ve kontrolü hala şarttır.
+
+**Güvenli midir?**  
+Kodunuzu buluta gönderdikleri için gizli anahtarlarınızı veya hassas verilerinizi paylaşmamaya dikkat etmelisiniz.
+
+## İlgili terimler
+- [AI Coding Agent](/dictionary/ai-coding-agent/)
+- [IDE](/dictionary/ide/)
+- [Coding Assistant](/dictionary/coding-assistant/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/coding-assistants/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -27298,7 +27340,7 @@ Bu proje dizinini Graphify kullanarak bir bilgi çizgesine dönüştürdüm. Şi
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-14 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-AI Coding Assistants Knowledge Graph CLI Artificial Intelligence
+AI Coding Assistants Coding Assistants Knowledge Graph CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/graphify/
@@ -34534,15 +34576,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Sub2API, Claude, OpenAI, Gemini ve Grok aboneliklerine tek noktadan erişim ve maliyet paylaşımı sağlayan açık kaynaklı bir aracı hizmettir.
 
-- ★ 41.561
+- ★ 41.928
 - Go
 - GitHub Trending · 2026-08-23
 
 ## Güncelleme
+- 18 Eylül 2026: Yıldız 41.561 → 41.928, son sürüm v0.2.6 (18 Eylül 2026).
 - 15 Eylül 2026: Yıldız 40.970 → 41.561, son sürüm v0.2.5 (15 Eylül 2026).
 - 9 Eylül 2026: Yıldız 40.838 → 40.970, son sürüm v0.2.4 (9 Eylül 2026).
 - 8 Eylül 2026: Yıldız 40.573 → 40.838, son sürüm v0.2.3 (8 Eylül 2026).
-- 6 Eylül 2026: Yıldız 40.163 → 40.573, son sürüm v0.2.1 (5 Eylül 2026).
 
 ## Ne kazandırır?
 - Farklı yapay zekâ aboneliklerini tek arayüzde birleştirir
@@ -51414,6 +51456,92 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Kişisel Sayfa ve Dosyalar İçin Özel Arama Motoru
+
+Kullanıcının ziyaret ettiği sayfalar ve sakladığı dosyalar için AGPLv3 lisanslı özel bir arama motorudur. Tam metin indeksleme, gelişmiş sorgu filtreleri ve isteğe bağlı anlamsal arama sunar.
+
+- ★ 4.602
+- Go
+- GitHub Trending · 2026-08-25
+
+## Kurulum
+
+**Binary’yi çalıştırılabilir yap**
+
+```
+chmod +x hister
+```
+
+## Çalıştırma
+
+**Hister sunucusunu başlat**
+
+```
+./hister listen
+```
+
+**Yerel arayüze eriş**
+
+```
+http://127.0.0.1:4433
+```
+
+Kaynak: Resmî README ve dokümantasyon kaynakları: https://hister.org/docs/quickstart, https://github.com/asciimoo/hister, https://hister.org/posts/how-i-use-hister
+
+## Güncelleme
+- 18 Eylül 2026: Yıldız 3.574 → 4.602, son sürüm v0.19.0 (3 Eylül 2026).
+- 4 Eylül 2026: Yıldız 3.100 → 3.574, son sürüm v0.19.0 (3 Eylül 2026).
+- 27 Ağustos 2026: Yıldız 2.620 → 3.100, son sürüm v0.18.0 (23 Ağustos 2026).
+
+## Bu araç ne yapar?
+
+Hister yerel olarak veya kontrol ettiğiniz altyapıda çalışabilir; zorunlu bir bulut servisi ve telemetri gerektirmez. Chrome ve Firefox eklentileriyle sayfaları indeksler, web sitesi tarama ve tarayıcı geçmişi içe aktarma seçenekleri sunar. Anlamsal arama etkinleştirilirse metin, seçilen embeddings uç noktasına gönderilir.
+
+## Kimin için?
+
+Web sayfalarını ve kişisel dosyaları kendi kontrolündeki bir arama altyapısında sorgulamak isteyenler.
+
+## Ne beklememeli?
+
+Zorunlu bulut hizmeti veya telemetri isteyen kullanım senaryoları ya da içeriğin yapılandırılmış Hister sunucusuna gönderilmesine izin verilmeyen tarayıcı indeksleme akışları.
+
+## Öne çıkanlar
+- Yerel veya kontrol edilen altyapıda, telemetri ve zorunlu bulut hizmeti olmadan çalışma
+- Tam metin, alan filtreleri, ifadeler, joker karakterler, olumsuzlama ve önceliklerle sorgulama
+- Web, terminal, TUI, CLI ve MCP istemcileri ile isteğe bağlı anlamsal arama
+
+## İlk kullanım akışı
+- Platformunuza uygun ikili dosyayı indirin ve Linux veya macOS'ta çalıştırılabilir yapın
+- Hister sunucusunu yerel dinleme modunda başlatın
+- Yerel web arayüzünü açın
+- Chrome veya Firefox eklentisini kurup indekslenecek sayfaları seçin
+
+## Güvenli başlangıç
+
+Tarayıcı eklentisi, favicon indirme dışında indekslenen sayfa içeriğini yapılandırılmış Hister sunucusuna gönderir. İsteğe bağlı anlamsal arama, doküman metnini seçilen embeddings uç noktasına gönderir.
+
+## İlk görev istemi
+İlk adım için hazır istem 
+Yerel arayüzü açıp tarayıcı eklentisiyle seçtiğim sayfaları indeksle ve sorgu filtrelerini kullanarak aramayı doğrula.
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/asciimoo/hister)
+- [Quickstart →](https://hister.org/docs/quickstart)
+- [Privacy ve kullanım README →](https://github.com/asciimoo/hister)
+- [Kullanım akışı →](https://hister.org/posts/how-i-use-hister)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Binary TUI MCP Terminal CLI
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/hister/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Güvenlik açıkları için kapsamlı arşiv
 
 Exploitarium, halka açık güvenlik açığı kanıtlarını (PoC) ve siber güvenlik araştırmalarını tek bir arşivde toplayan bir Python deposu. Güvenlik araştırmacılarına yönelik bu kaynak, henüz raporlanmamış zafiyetleri inceleyerek siber güvenlik alanına ilgiyi artırmayı hedefliyor.
@@ -52393,91 +52521,6 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Kişisel Sayfa ve Dosyalar İçin Özel Arama Motoru
-
-Kullanıcının ziyaret ettiği sayfalar ve sakladığı dosyalar için AGPLv3 lisanslı özel bir arama motorudur. Tam metin indeksleme, gelişmiş sorgu filtreleri ve isteğe bağlı anlamsal arama sunar.
-
-- ★ 3.574
-- Go
-- GitHub Trending · 2026-08-25
-
-## Kurulum
-
-**Binary’yi çalıştırılabilir yap**
-
-```
-chmod +x hister
-```
-
-## Çalıştırma
-
-**Hister sunucusunu başlat**
-
-```
-./hister listen
-```
-
-**Yerel arayüze eriş**
-
-```
-http://127.0.0.1:4433
-```
-
-Kaynak: Resmî README ve dokümantasyon kaynakları: https://hister.org/docs/quickstart, https://github.com/asciimoo/hister, https://hister.org/posts/how-i-use-hister
-
-## Güncelleme
-- 4 Eylül 2026: Yıldız 3.100 → 3.574, son sürüm v0.19.0 (3 Eylül 2026).
-- 27 Ağustos 2026: Yıldız 2.620 → 3.100, son sürüm v0.18.0 (23 Ağustos 2026).
-
-## Bu araç ne yapar?
-
-Hister yerel olarak veya kontrol ettiğiniz altyapıda çalışabilir; zorunlu bir bulut servisi ve telemetri gerektirmez. Chrome ve Firefox eklentileriyle sayfaları indeksler, web sitesi tarama ve tarayıcı geçmişi içe aktarma seçenekleri sunar. Anlamsal arama etkinleştirilirse metin, seçilen embeddings uç noktasına gönderilir.
-
-## Kimin için?
-
-Web sayfalarını ve kişisel dosyaları kendi kontrolündeki bir arama altyapısında sorgulamak isteyenler.
-
-## Ne beklememeli?
-
-Zorunlu bulut hizmeti veya telemetri isteyen kullanım senaryoları ya da içeriğin yapılandırılmış Hister sunucusuna gönderilmesine izin verilmeyen tarayıcı indeksleme akışları.
-
-## Öne çıkanlar
-- Yerel veya kontrol edilen altyapıda, telemetri ve zorunlu bulut hizmeti olmadan çalışma
-- Tam metin, alan filtreleri, ifadeler, joker karakterler, olumsuzlama ve önceliklerle sorgulama
-- Web, terminal, TUI, CLI ve MCP istemcileri ile isteğe bağlı anlamsal arama
-
-## İlk kullanım akışı
-- Platformunuza uygun ikili dosyayı indirin ve Linux veya macOS'ta çalıştırılabilir yapın
-- Hister sunucusunu yerel dinleme modunda başlatın
-- Yerel web arayüzünü açın
-- Chrome veya Firefox eklentisini kurup indekslenecek sayfaları seçin
-
-## Güvenli başlangıç
-
-Tarayıcı eklentisi, favicon indirme dışında indekslenen sayfa içeriğini yapılandırılmış Hister sunucusuna gönderir. İsteğe bağlı anlamsal arama, doküman metnini seçilen embeddings uç noktasına gönderir.
-
-## İlk görev istemi
-İlk adım için hazır istem 
-Yerel arayüzü açıp tarayıcı eklentisiyle seçtiğim sayfaları indeksle ve sorgu filtrelerini kullanarak aramayı doğrula.
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/asciimoo/hister)
-- [Quickstart →](https://hister.org/docs/quickstart)
-- [Privacy ve kullanım README →](https://github.com/asciimoo/hister)
-- [Kullanım akışı →](https://hister.org/posts/how-i-use-hister)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Binary TUI MCP Terminal CLI
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/hister/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
 # Yapay zekâ kodlama asistanına eklentiler ekleyin
 
 Anthropic tarafından geliştirilen Claude Cowork ve Claude Code araçları için oluşturulan topluluk eklenti dizini, yazılım geliştirme süreçlerini otomatikleştiren genişletilebilir bir yapı sunuyor. Kullanıcılar, Python tabanlı bu eklentiler sayesinde yapay zekâ destekli kodlama asistanlarının yeteneklerini özelleştirebiliyor.
@@ -53030,14 +53073,14 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Music Assistant, farklı dijital yayın servislerini ve bağlı hoparlörleri tek bir arayüzde birleştiren açık kaynaklı bir medya kütüphanesi yöneticisidir. Python tabanlı bu sunucu yazılımı, sürekli çalışan cihazlar üzerinde merkezi bir müzik yönetim sistemi oluşturulmasını sağlar.
 
-- ★ 3.058
+- ★ 3.078
 - GitHub Trending · 2026-06-13
 
 ## Güncelleme
+- 18 Eylül 2026: Yıldız 3.058 → 3.078, son sürüm 2.10.4 (18 Eylül 2026).
 - 12 Eylül 2026: Yıldız 3.029 → 3.058, son sürüm 2.10.3 (11 Eylül 2026).
 - 4 Eylül 2026: Yıldız 3.018 → 3.029, son sürüm 2.10.2 (4 Eylül 2026).
 - 31 Ağustos 2026: Yıldız 2.990 → 3.018, son sürüm 2.10.1 (29 Ağustos 2026).
-- 27 Ağustos 2026: Yıldız 2.949 → 2.990, son sürüm 2.10.0 (27 Ağustos 2026).
 
 ## Ne kazandırır?
 - Farklı dijital yayın servislerini tek arayüzde birleştirir

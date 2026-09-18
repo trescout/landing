@@ -7941,5 +7941,18 @@
     "kisa_pt": "É uma ferramenta de interface que permite encontrar e iniciar aplicativos rapidamente em computadores ou dispositivos móveis.",
     "kisa_es": "Es una herramienta de interfaz que le permite encontrar y abrir aplicaciones rápidamente en computadoras o dispositivos móviles.",
     "kisa_de": "Dies ist ein Schnittstellen-Tool, mit dem Sie Anwendungen auf Computern oder Mobilgeräten schnell finden und starten können."
+  },
+  {
+    "slug": "coding-assistants",
+    "en": "Coding Assistants",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Yazılım geliştirme sürecinde kod yazımını hızlandıran, hata ayıklayan ve öneriler sunan yapay zekâ tabanlı yardımcılardır.",
+    "date": "2026-09-18",
+    "kisa_en": "These are artificial intelligence-based assistants that accelerate coding, debug, and provide suggestions during the software development process.",
+    "kisa_fr": "Ce sont des assistants basés sur l'intelligence artificielle qui accélèrent l'écriture de code, déboguent et proposent des suggestions dans le processus de développement logiciel.",
+    "kisa_pt": "São assistentes baseados em inteligência artificial que aceleram a escrita de código, depuram erros e oferecem sugestões no processo de desenvolvimento de software.",
+    "kisa_es": "Son asistentes basados en inteligencia artificial que aceleran la escritura de código, depuran errores y ofrecen sugerencias en el proceso de desarrollo de software.",
+    "kisa_de": "KI-basierte Assistenten, die im Softwareentwicklungsprozess das Schreiben von Code beschleunigen, Fehler beheben und Vorschläge unterbreiten."
   }
 ]
