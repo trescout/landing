@@ -21,6 +21,8 @@
  *   - RESEND_AUDIENCE_ID · Resend Audience UUID
  *   - UPSTASH_REDIS_REST_URL · production dağıtık rate limit REST URL
  *   - UPSTASH_REDIS_REST_TOKEN · production dağıtık rate limit REST token
+ *   - SUBSCRIBE_NOTIFY_ENABLED · yönetici bildirim e-postası kilidi ·
+ *     VARSAYILAN KAPALI. Yalnız 'true' değeri bildirimi açar.
  */
 
 import { createRateLimiter } from './rate-limit.mjs';
@@ -35,6 +37,23 @@ const NOTIFY_TO = 'hello@trescout.com';
 // extra domain gerektiriyor (sadece 1 domain hakkı). Apex'ten gönderiyoruz.
 // İleride Pro upgrade olunca send.trescout.com'a taşınabilir.
 const NOTIFY_FROM = 'TreScout · Erken Erişim <hello@trescout.com>';
+
+/**
+ * Yönetici bildirimi kilidi · varsayılanı KAPALI.
+ *
+ * app deposundaki DELIVERY_MODE kilidi yalnız o deponun üyeye giden rapor
+ * e-postalarını kapsıyor. Bu bildirim ayrı bir Vercel projesinde, ayrı bir
+ * RESEND_API_KEY ile gidiyor · oradaki kilidi kapatmak buraya işlemiyordu.
+ * Bu yüzden bu yolun kendi bağımsız anahtarı var.
+ *
+ * Kilit kapalıyken abonelik kaydı normal işler (Audience'a ekleme yapılır,
+ * kullanıcı { ok: true } alır); yalnız /emails sağlayıcı çağrısı hiç yapılmaz.
+ * Açmak için Vercel'de SUBSCRIBE_NOTIFY_ENABLED=true set edilmelidir ·
+ * tanımsız, boş veya başka herhangi bir değer kapalı sayılır.
+ */
+function notifyEnabled() {
+  return (process.env.SUBSCRIBE_NOTIFY_ENABLED || '').trim().toLowerCase() === 'true';
+}
 
 /** Allowed request origins (CSRF) */
 const ALLOWED_ORIGINS = new Set([
@@ -331,6 +350,12 @@ export default async function handler(req) {
   // 'ok' döneriz, hatayı yalnız Vercel logs'a basarız. Eskiden ağ hatası ortak
   // catch'e düşüp kullanıcıya 502 döndürüyordu · kayıt olmuşken "olmadı" demek.
   const isDuplicate = audienceRes.status === 409;
+  if (!notifyEnabled()) {
+    // Kilit kapalı · sağlayıcıya hiç gidilmez. Kaydın kendisi etkilenmez.
+    console.warn('Notification email is locked; skipping provider call');
+    return jsonResponse({ ok: true, duplicate: isDuplicate });
+  }
+
   try {
     const notifySubject = isDuplicate
       ? `Tekrar kayıt: ${email}`
