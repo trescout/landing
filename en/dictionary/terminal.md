@@ -32,9 +32,9 @@ If you want to get into the world of software, yes, because many tools only work
 - [PI](/en/discover/pi/)
 - [Terminal](/en/discover/terminal/)
 - [Career Ops](/en/discover/career-ops/)
+- [Cline](/en/discover/cline/)
 - [Openinterpreter](/en/discover/openinterpreter/)
 - [Free Claude Code](/en/discover/free-claude-code/)
-- [Openhuman](/en/discover/openhuman/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/terminal/

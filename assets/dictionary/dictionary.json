@@ -7928,5 +7928,18 @@
     "kisa_pt": "É uma tecnologia de tela que oferece uma imagem semelhante ao papel e consome energia apenas quando a página é alterada.",
     "kisa_es": "Es una tecnología de pantalla que ofrece una imagen similar al papel y solo consume energía cuando se cambia de página.",
     "kisa_de": "Es ist eine Displaytechnologie, die ein papierähnliches Bild bietet und nur beim Umblättern der Seite Energie verbraucht."
+  },
+  {
+    "slug": "launcher",
+    "en": "Launcher",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bilgisayar veya mobil cihazlarda uygulamaları hızla bulup başlatmanızı sağlayan bir arayüz aracıdır.",
+    "date": "2026-09-18",
+    "kisa_en": "It is an interface tool that allows you to quickly find and launch applications on computers or mobile devices.",
+    "kisa_fr": "Il s'agit d'un outil d'interface qui vous permet de trouver et de lancer rapidement des applications sur des ordinateurs ou des appareils mobiles.",
+    "kisa_pt": "É uma ferramenta de interface que permite encontrar e iniciar aplicativos rapidamente em computadores ou dispositivos móveis.",
+    "kisa_es": "Es una herramienta de interfaz que le permite encontrar y abrir aplicaciones rápidamente en computadoras o dispositivos móviles.",
+    "kisa_de": "Dies ist ein Schnittstellen-Tool, mit dem Sie Anwendungen auf Computern oder Mobilgeräten schnell finden und starten können."
   }
 ]

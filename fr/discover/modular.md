@@ -2,7 +2,7 @@
 
 La plateforme modulaire fournit une infrastructure hautes performances pour les projets d'IA et comprend MAX et Mojo.
 
-- ★ 28 875
+- ★ 29 812
 - Mojo
 - GitHub Trending · 2026-08-20
 

@@ -30,6 +30,7 @@ Für einfache Anwendungen mag das übertrieben sein, in Systemen der künstliche
 
 ## Verwandte Werkzeuge
 - [Posthog](/de/discover/posthog/)
+- [Cilium](/de/discover/cilium/)
 - [iii](/de/discover/iii/)
 
 ---

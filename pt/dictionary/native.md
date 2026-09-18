@@ -29,6 +29,7 @@ Eles geralmente funcionam dentro de um navegador ou através de uma camada de tr
 ## Ferramentas relacionadas
 - [Meshery](/pt/discover/meshery/)
 - [Stitch Skills](/pt/discover/stitch-skills/)
+- [Tinycast](/pt/discover/tinycast/)
 - [Agent Native](/pt/discover/agent-native/)
 
 ---

@@ -2,7 +2,7 @@
 
 Claude-Red é uma biblioteca de habilidades de segurança ofensivas integradas ao sistema de habilidades do modelo de inteligência artificial Claude. Seu objetivo é automatizar os testes de segurança, fornecendo metodologias de nível especializado em tópicos como injeção de SQL e como contornar sistemas de proteção de endpoint.
 
-- ★ 5.079
+- ★ 6.081
 - Python
 - GitHub Trending · 2026-09-13
 

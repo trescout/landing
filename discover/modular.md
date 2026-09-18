@@ -2,11 +2,12 @@
 
 Modular Platformu, yapay zekâ projeleri için yüksek performanslı altyapı sunar ve MAX ile Mojo'yu içerir.
 
-- ★ 28.875
+- ★ 29.812
 - Mojo
 - GitHub Trending · 2026-08-20
 
 ## Güncelleme
+- 18 Eylül 2026: Yıldız 28.875 → 29.812, son sürüm max/v26.6.0 (17 Eylül 2026).
 - 23 Ağustos 2026: Yıldız 27.449 → 28.875, son sürüm max/v26.5.0 (11 Ağustos 2026).
 - 20 Ağustos 2026: Yıldız 27.442 → 27.449, son sürüm max/v26.5.0 (11 Ağustos 2026).
 

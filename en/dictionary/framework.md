@@ -35,8 +35,8 @@ No, in very small and simple projects, sometimes only basic codes may be suffici
 - [Angular](/en/discover/angular/)
 - [Tailwindcss](/en/discover/tailwindcss/)
 - [Nuxt](/en/discover/nuxt/)
-- [Cypress](/en/discover/cypress/)
 - [Hyperframes](/en/discover/hyperframes/)
+- [Cypress](/en/discover/cypress/)
 - [CLI-Anything](/en/discover/cli-anything/)
 
 ---

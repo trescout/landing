@@ -2,7 +2,7 @@
 
 Maigret escanea más de 3.000 sitios web basándose en nombres de usuario y crea un expediente de personas. Desarrollada con Python, esta herramienta automatiza el seguimiento de la huella digital en procesos de inteligencia de código abierto (OSINT).
 
-- ★ 37.089
+- ★ 37.763
 - Python
 - GitHub Trending · 2026-06-11
 

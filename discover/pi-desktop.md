@@ -2,11 +2,12 @@
 
 PI-Desktop, yerel öncelikli (local-first) çalışma prensibiyle geliştirilen bir yapay zekâ kodlama ajanıdır. Elektron (masaüstü uygulama geliştirme çatısı) ve Rust (sistem programlama dili) tabanlı mimarisiyle, kullanıcıların kendi eklentilerini kurabildiği kişiselleştirilebilir bir yazılım geliştirme ortamı sunar.
 
-- ★ 3.506
+- ★ 4.237
 - TypeScript
 - GitHub Trending · 2026-09-10
 
 ## Güncelleme
+- 18 Eylül 2026: Yıldız 3.506 → 4.237, son sürüm v0.15.0 (17 Eylül 2026).
 - 14 Eylül 2026: Yıldız 3.176 → 3.506, son sürüm v0.14.8 (14 Eylül 2026).
 - 13 Eylül 2026: Yıldız 1.990 → 3.176, son sürüm v0.14.6 (10 Eylül 2026).
 - 10 Eylül 2026: Yıldız 1.982 → 1.990, son sürüm v0.14.6 (10 Eylül 2026).

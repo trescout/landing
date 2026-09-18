@@ -2,9 +2,12 @@
 
 Screenshot-to-code, ekran görüntüsü dosyalarını analiz ederek bunları temiz HTML, Tailwind, React veya Vue koduna dönüştüren bir yazılım aracıdır. Geliştiricilerin arayüz tasarımlarını hızlıca çalışan kod bloklarına (code snippets) çevirmesine olanak tanır.
 
-- ★ 75.377
+- ★ 79.191
 - Python
 - GitHub Trending · 2026-08-28
+
+## Güncelleme
+- 18 Eylül 2026: Yıldız 75.377 → 79.191.
 
 ## Ne kazandırır?
 - Ekran görüntülerini ve tasarım dosyalarını temiz HTML veya React koduna çevirir

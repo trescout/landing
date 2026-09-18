@@ -2,7 +2,7 @@
 
 Screenshot-to-code es una herramienta de software que analiza archivos de captura de pantalla y los convierte en código HTML, Tailwind, React o Vue limpio. Permite a los desarrolladores traducir rápidamente diseños de interfaz en fragmentos de código funcionales.
 
-- ★ 75.377
+- ★ 79.191
 - Python
 - GitHub Trending · 2026-08-28
 
