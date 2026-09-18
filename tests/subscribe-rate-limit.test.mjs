@@ -12,10 +12,23 @@ function makeClock() {
   };
 }
 
-test('uses isolate-local fallback when distributed protection is not configured', async () => {
-  const clock = makeClock();
+test('reports unavailable in production when distributed protection is not configured', async () => {
+  // docs/ENV.md §4 · production'da Upstash yoksa endpoint fail-closed davranır.
   const limiter = createRateLimiter({
     env: { VERCEL_ENV: 'production' },
+    now: makeClock().now,
+  });
+
+  assert.deepEqual(await limiter.check('203.0.113.20'), {
+    limited: false,
+    unavailable: true,
+  });
+});
+
+test('uses isolate-local fallback outside production when distributed protection is not configured', async () => {
+  const clock = makeClock();
+  const limiter = createRateLimiter({
+    env: { VERCEL_ENV: 'preview' },
     now: clock.now,
   });
 
@@ -68,11 +81,47 @@ test('uses an atomic Upstash transaction and enforces the distributed count', as
   ]);
 });
 
-test('falls back to local rate limiting when Upstash returns an error', async () => {
-  const clock = makeClock();
+test('reports unavailable in production when Upstash returns an error', async () => {
   const limiter = createRateLimiter({
     env: {
       VERCEL_ENV: 'production',
+      UPSTASH_REDIS_REST_URL: 'https://example.upstash.io',
+      UPSTASH_REDIS_REST_TOKEN: 'test-token',
+    },
+    fetchImpl: async () => new Response('', { status: 503 }),
+    now: makeClock().now,
+  });
+
+  assert.deepEqual(await limiter.check('203.0.113.23'), {
+    limited: false,
+    unavailable: true,
+  });
+});
+
+test('reports unavailable in production when the Upstash request throws', async () => {
+  const limiter = createRateLimiter({
+    env: {
+      VERCEL_ENV: 'production',
+      UPSTASH_REDIS_REST_URL: 'https://example.upstash.io',
+      UPSTASH_REDIS_REST_TOKEN: 'test-token',
+    },
+    fetchImpl: async () => {
+      throw new TypeError('network error');
+    },
+    now: makeClock().now,
+  });
+
+  assert.deepEqual(await limiter.check('203.0.113.24'), {
+    limited: false,
+    unavailable: true,
+  });
+});
+
+test('falls back to local rate limiting outside production when Upstash returns an error', async () => {
+  const clock = makeClock();
+  const limiter = createRateLimiter({
+    env: {
+      VERCEL_ENV: 'preview',
       UPSTASH_REDIS_REST_URL: 'https://example.upstash.io',
       UPSTASH_REDIS_REST_TOKEN: 'test-token',
     },

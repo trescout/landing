@@ -18,5 +18,9 @@
 
 scripts/
 .github/
+# tests/ de aynı sınıfta: iç test kodu, siteden hiç bağlantı verilmiyor,
+# ziyaretçiye servis edilmesinin gerekçesi yok (2026-09-18'de fark edildi ·
+# scripts/ dışlanmışken tests/ dışarıda kalmıştı).
+tests/
 /CLAUDE.md
 /AGENTS.md

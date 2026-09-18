@@ -10,6 +10,7 @@ Bu repo Vercel'a deploy edildiğinde gerekli olan environment değişkenleri.
 | `RESEND_AUDIENCE_ID` | ✅ | Resend Audience UUID · erken erişim e-postaları buraya kaydedilir |
 | `UPSTASH_REDIS_REST_URL` | ✅ production | Upstash Redis REST URL · atomik dağıtık rate limit transaction’ı için |
 | `UPSTASH_REDIS_REST_TOKEN` | ✅ production | Upstash Redis REST token · yalnız Vercel server env’de tutulur |
+| `SUBSCRIBE_NOTIFY_ENABLED` | ❌ | Yönetici bildirim e-postası kilidi · **varsayılan KAPALI**, yalnız `true` açar |
 
 ## Kurulum adımları
 
@@ -69,10 +70,35 @@ npx vercel dev    # local server (api/ route'ları dahil)
 
 > ⚠️ `.env.local` `.gitignore`'da olmalı · API key sızıntısı olmasın.
 
+### 5. Yönetici bildirim kilidi
+
+`api/subscribe.js` başarılı bir kayıttan sonra `hello@trescout.com` adresine
+bildirim e-postası gönderir. Bu gönderim **varsayılan olarak kapalıdır**.
+
+| `SUBSCRIBE_NOTIFY_ENABLED` | Davranış |
+|---|---|
+| tanımsız, boş veya başka bir değer | Kayıt normal işler, `/emails` çağrısı **hiç yapılmaz** |
+| `true` | Bildirim gönderilir |
+
+Kilit kapalıyken kullanıcı tarafında hiçbir şey değişmez: kişi Audience'a
+eklenir ve form `{ ok: true }` alır. Yalnız sağlayıcının `/emails` uç noktasına
+gidilmez.
+
+**Neden ayrı bir anahtar:** `trescout/app` deposundaki `DELIVERY_MODE` kilidi
+yalnız o deponun üyeye giden rapor e-postalarını kapsıyor. Bu bildirim ayrı bir
+Vercel projesinde, ayrı bir `RESEND_API_KEY` ile gidiyor · app tarafındaki
+kilidi kapatmak buraya işlemiyordu. Kapsam tablosu:
+`trescout/app` · `docs/EARLY-ACCESS-LAUNCH.md`.
+
+Bildirimi açmak isterseniz Vercel `trescout-landing` projesinde
+`SUBSCRIBE_NOTIFY_ENABLED=true` set edip yeniden deploy edin. Tekrar kapatmak
+için değişkeni silmek veya `false` yapmak yeterlidir.
+
 ## Güvenlik notları
 
 - `RESEND_API_KEY`, `UPSTASH_REDIS_REST_URL` ve `UPSTASH_REDIS_REST_TOKEN` sadece sunucu tarafında kullanılır (Edge Function). Frontend'e sızmaz.
 - Production’da Upstash yoksa process-memory fallback kullanılmaz; endpoint kayıt kabul etmez.
+- Yönetici bildirimi varsayılan kapalı · `SUBSCRIBE_NOTIFY_ENABLED` set edilmeden sağlayıcının `/emails` uç noktasına hiç gidilmez.
 - Vercel env vars şifrelenmiş saklanır.
 - Key sızdığında: Resend Dashboard'dan **revoke** → yeni key oluştur → Vercel'da güncelle → redeploy.
 - API key rotation: 6 ayda bir.
