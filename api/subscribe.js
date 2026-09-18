@@ -251,6 +251,13 @@ export default async function handler(req) {
     return errorResponse(M, 'format', 400);
   }
 
+  // Gövde nesne olmayabilir · `JSON.stringify(null)` gönderen istemcide
+  // req.json() null döner, dizi/sayı gövdesi de geçerli JSON'dur. Alan
+  // okumadan önce doğruluyoruz, yoksa alan erişimi runtime hatası veriyor.
+  if (!body || typeof body !== 'object' || Array.isArray(body)) {
+    return errorResponse(M, 'format', 400);
+  }
+
   // Honeypot · bot filtresi · görünmez input, dolu gelirse bot
   const honeypot = (body.hp || body.website || '').toString().trim();
   if (honeypot.length > 0) {
@@ -291,9 +298,10 @@ export default async function handler(req) {
     return errorResponse(M, 'sunucu', 500);
   }
 
+  // 1. Resend Audience'a kişiyi ekle (idempotent · varsa update eder)
+  let audienceRes;
   try {
-    // 1. Resend Audience'a kişiyi ekle (idempotent · varsa update eder)
-    const audienceRes = await fetch(
+    audienceRes = await fetch(
       `${RESEND_API}/audiences/${audienceId}/contacts`,
       {
         method: 'POST',
@@ -304,16 +312,26 @@ export default async function handler(req) {
         body: JSON.stringify({ email, unsubscribed: false })
       }
     );
+  } catch (err) {
+    console.error('Resend audience request failed:', err instanceof Error ? err.name : 'unknown');
+    return errorResponse(M, 'baglanti', 502);
+  }
 
-    if (!audienceRes.ok && audienceRes.status !== 409) {
-      // 409 = contact zaten var · sorun değil, devam et
-      await audienceRes.text().catch(() => '');
-      console.error('Resend audience add failed:', audienceRes.status);
-      return errorResponse(M, 'kayit', 502);
-    }
+  if (!audienceRes.ok && audienceRes.status !== 409) {
+    // 409 = contact zaten var · sorun değil, devam et
+    await audienceRes.text().catch(() => '');
+    console.error('Resend audience add failed:', audienceRes.status);
+    return errorResponse(M, 'kayit', 502);
+  }
 
-    // 2. hello@'a bildirim e-postası
-    const isDuplicate = audienceRes.status === 409;
+  // 2. hello@'a bildirim e-postası
+  //
+  // Buradan sonrası kullanıcının kaydını etkilemez: kişi Audience'a eklendi.
+  // Bildirim ister HTTP hatası ister ağ hatası (fetch throw) verse de kullanıcıya
+  // 'ok' döneriz, hatayı yalnız Vercel logs'a basarız. Eskiden ağ hatası ortak
+  // catch'e düşüp kullanıcıya 502 döndürüyordu · kayıt olmuşken "olmadı" demek.
+  const isDuplicate = audienceRes.status === 409;
+  try {
     const notifySubject = isDuplicate
       ? `Tekrar kayıt: ${email}`
       : `Yeni erken erişim kaydı: ${email}`;
@@ -338,16 +356,13 @@ export default async function handler(req) {
       })
     });
 
-    // Notification başarısız olsa da kullanıcıya 'ok' döneriz · audience'a kayıt
-    // zaten oldu. Ama hatayı Vercel logs'a basarız, debug için.
     if (!notifyRes.ok) {
       await notifyRes.text().catch(() => '');
       console.error('Notification email failed:', notifyRes.status, notifyRes.statusText);
     }
-
-    return jsonResponse({ ok: true, duplicate: isDuplicate });
   } catch (err) {
-    console.error('Subscribe error:', err instanceof Error ? err.name : 'unknown');
-    return errorResponse(M, 'baglanti', 502);
+    console.error('Notification email request failed:', err instanceof Error ? err.name : 'unknown');
   }
+
+  return jsonResponse({ ok: true, duplicate: isDuplicate });
 }

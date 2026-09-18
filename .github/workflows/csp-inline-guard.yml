@@ -33,6 +33,13 @@ jobs:
         run: node --test scripts/report-snapshot.test.js
       - name: Erken erişim API sözleşme testi
         run: node --test scripts/subscribe-contract.test.mjs
+      - name: Erken erişim bildirim/gövde testi
+        run: node --test scripts/subscribe-bildirim.test.mjs
+      # tests/ altındaki rate limit testi CI'da HİÇ koşmuyordu · fail-closed
+      # davranışı guard'sız kalmıştı. Sessizce koşmayan test, olmayan testten
+      # daha kötü: yeşil görünür.
+      - name: Rate limit fail-closed testi
+        run: node --test tests/subscribe-rate-limit.test.mjs
       - name: Telemetry consent ve queue sözleşme testi
         run: node --test scripts/telemetry-contract.test.mjs
       - name: Rapor sayfası script sözleşme testi

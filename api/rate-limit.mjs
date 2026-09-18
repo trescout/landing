@@ -25,6 +25,11 @@ export function createRateLimiter({
 } = {}) {
   const redisUrl = (env.UPSTASH_REDIS_REST_URL || '').replace(/\/+$/, '');
   const redisToken = env.UPSTASH_REDIS_REST_TOKEN || '';
+  // Production'da dağıtık sayaç yoksa isolate-local Map koruma sayılmaz:
+  // her isolate kendi sayacını tutar, saldırgan yeni isolate'lerle limiti
+  // sessizce atlatır. Bu yüzden production fail-closed davranır (docs/ENV.md §4,
+  // docs/BETA-MEASUREMENT.md). Local/preview'da fallback yeterli.
+  const failClosed = env.VERCEL_ENV === 'production';
   const rateHits = new Map();
 
   async function checkDistributed(ip) {
@@ -59,6 +64,10 @@ export function createRateLimiter({
       if (!ip) return { limited: false, unavailable: false };
 
       if (!redisUrl || !redisToken) {
+        if (failClosed) {
+          console.error('Distributed rate limit is not configured in production');
+          return { limited: false, unavailable: true };
+        }
         return {
           limited: isLocalRateLimited(rateHits, ip, now()),
           unavailable: false,
@@ -68,6 +77,13 @@ export function createRateLimiter({
       try {
         return { limited: await checkDistributed(ip), unavailable: false };
       } catch (error) {
+        if (failClosed) {
+          console.error(
+            'Distributed rate limit unavailable in production:',
+            error instanceof Error ? error.message : 'unknown',
+          );
+          return { limited: false, unavailable: true };
+        }
         console.warn('Distributed rate limit unavailable, using local rate limit fallback:', error);
         return {
           limited: isLocalRateLimited(rateHits, ip, now()),
