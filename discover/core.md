@@ -2,15 +2,15 @@
 
 Home Assistant, yerel kontrol ve gizliliği önceliklendiren açık kaynaklı bir ev otomasyonu (home automation) platformudur. Python diliyle geliştirilen bu sistem, kullanıcıların akıllı cihazlarını merkezi bir ağ üzerinden yönetmelerine olanak tanır.
 
-- ★ 90.390
+- ★ 90.760
 - Python
 - GitHub Trending · 2026-07-12
 
 ## Güncelleme
+- 19 Eylül 2026: Yıldız 90.390 → 90.760, son sürüm 2026.9.3 (18 Eylül 2026).
 - 12 Eylül 2026: Yıldız 90.277 → 90.390, son sürüm 2026.9.2 (11 Eylül 2026).
 - 6 Eylül 2026: Yıldız 90.218 → 90.277, son sürüm 2026.9.1 (5 Eylül 2026).
 - 3 Eylül 2026: Yıldız 90.032 → 90.218, son sürüm 2026.9.0 (2 Eylül 2026).
-- 22 Ağustos 2026: Yıldız 89.938 → 90.032, son sürüm 2026.8.3 (21 Ağustos 2026).
 
 ## Ne kazandırır?
 - Akıllı cihazlarınızı tek merkezden yönetin

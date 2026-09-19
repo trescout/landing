@@ -2,7 +2,7 @@
 
 Harvey Labs ist ein Benchmarking-Tool zur Messung und Verbesserung der Fähigkeiten von Agenten der künstlichen Intelligenz, die Aufgaben im Rechtsbereich unterstützen. Ziel dieser in der Python-Sprache erstellten Studie ist es, die Leistung von Software zu bewerten, die Rechtstechnologien mit Standardtests entwickelt.
 
-- ★ 881
+- ★ 1.370
 - Python
 - GitHub Trending · 2026-08-10
 

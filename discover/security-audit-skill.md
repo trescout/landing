@@ -2,9 +2,12 @@
 
 Cloudflare tarafından geliştirilen security-audit-skill, kodlama ajanlarının çok aşamalı güvenlik denetimleri yapmasını sağlayan bir yetenek paketi (skill). Makine tarafından okunabilir ve bağımsız olarak doğrulanmış bulgular üreterek yazılım geliştirme süreçlerinde güvenlik standartlarını otomatize ediyor.
 
-- ★ 11.472
+- ★ 14.555
 - JavaScript
 - GitHub Trending · 2026-09-18
+
+## Güncelleme
+- 19 Eylül 2026: Yıldız 11.472 → 14.555.
 
 ## Ne kazandırır?
 - Kod tabanında çok aşamalı güvenlik taraması yapar

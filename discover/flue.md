@@ -2,11 +2,12 @@
 
 Astro ekibi tarafından geliştirilen Flue, TypeScript tabanlı bir kum havuzu ajan çatısı (sandbox agent framework) olarak öne çıkıyor. Bu yapı, geliştiricilerin güvenli ve izole edilmiş ortamlarda yapay zekâ ajanları oluşturmasına olanak tanıyor.
 
-- ★ 8.255
+- ★ 8.295
 - TypeScript
 - GitHub Trending · 2026-06-06
 
 ## Güncelleme
+- 19 Eylül 2026: Yıldız 8.255 → 8.295, son sürüm @flue/cli@2.1.0 (18 Eylül 2026).
 - 17 Eylül 2026: Yıldız 8.244 → 8.255, son sürüm @flue/cli@2.0.8 (16 Eylül 2026).
 - 16 Eylül 2026: Yıldız 7.625 → 8.244, son sürüm @flue/cli@2.0.7 (15 Eylül 2026).
 - 2 Ağustos 2026: Yıldız 4.594 → 7.625.

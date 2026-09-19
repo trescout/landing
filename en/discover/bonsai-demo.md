@@ -2,7 +2,7 @@
 
 The Bonsai demo project provides a toolset designed to simplify the deployment processes of machine learning models. The software helps developers optimize their application processes by turning complex model architectures into manageable workflows.
 
-- ★ 1,587
+- ★ 2,706
 - Shell
 - GitHub Trending · 2026-07-17
 

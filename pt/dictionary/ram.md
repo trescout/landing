@@ -30,8 +30,8 @@ Aumenta para o nível requerido e o excesso permanece ocioso.
 - [CPU](/pt/dictionary/cpu/)
 
 ## Ferramentas relacionadas
-- [Llmfit](/pt/discover/llmfit/)
 - [Colibri](/pt/discover/colibri/)
+- [Llmfit](/pt/discover/llmfit/)
 - [Invidious](/pt/discover/invidious/)
 - [Needle](/pt/discover/needle/)
 

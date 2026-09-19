@@ -40,7 +40,7 @@ Benim için Personal AI Infrastructure (PAI) sistemini kullanarak kişisel bir y
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-07 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agentic AI Personal AI Infrastructure Agentic Artificial Intelligence
+Agentic AI Personal AI Infrastructure Localhost Agentic Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/personal-ai-infrastructure/

@@ -2,7 +2,7 @@
 
 L'éditeur/pascalorg basé sur TypeScript permet aux utilisateurs de créer et de partager des projets architecturaux en trois dimensions via le navigateur. Le logiciel vise à rendre les processus de conception architecturale accessibles via une interface Web.
 
-- ★ 24 051
+- ★ 24 117
 - TypeScript
 - GitHub Trending · 2026-07-29
 

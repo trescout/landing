@@ -2,15 +2,15 @@
 
 PPT-Master, belgeleri doğrudan düzenlenebilir sunum dosyalarına (PPTX) dönüştüren yapay zekâ destekli bir araçtır. Sistem, metinleri yerel şekiller, animasyonlar ve sesli konuşmacı notları içeren özelleştirilebilir sunumlara çevirir.
 
-- ★ 54.929
+- ★ 55.250
 - Python
 - GitHub Trending · 2026-06-28
 
 ## Güncelleme
+- 19 Eylül 2026: Yıldız 54.929 → 55.250, son sürüm v6.6.0 (19 Eylül 2026).
 - 17 Eylül 2026: Yıldız 53.988 → 54.929, son sürüm v6.5.0 (16 Eylül 2026).
 - 13 Eylül 2026: Yıldız 53.459 → 53.988, son sürüm v6.4.0 (12 Eylül 2026).
 - 10 Eylül 2026: Yıldız 53.219 → 53.459, son sürüm v6.3.2 (10 Eylül 2026).
-- 9 Eylül 2026: Yıldız 52.290 → 53.219, son sürüm v6.3.1 (9 Eylül 2026).
 
 ## Ne kazandırır?
 - Metinleri yerel şekiller ve animasyonlar içeren PPTX dosyalarına çevirir.

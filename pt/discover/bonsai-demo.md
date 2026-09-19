@@ -2,7 +2,7 @@
 
 O projeto de demonstração Bonsai fornece um conjunto de ferramentas projetado para simplificar os processos de implantação de modelos de aprendizado de máquina. O software ajuda os desenvolvedores a otimizar seus processos de aplicativos, transformando arquiteturas de modelos complexos em fluxos de trabalho gerenciáveis.
 
-- ★ 1.587
+- ★ 2.706
 - Shell
 - GitHub Trending · 2026-07-17
 

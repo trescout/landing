@@ -2,7 +2,7 @@
 
 Coder is a platform that provides secure development environments for developers and AI agents. Thanks to its cloud-based infrastructure, it allows you to standardize coding processes and manage development environments centrally.
 
-- ★ 15,000
+- ★ 15,395
 - Go
 - GitHub Trending · 2026-09-18
 
