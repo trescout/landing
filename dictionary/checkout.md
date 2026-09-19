@@ -1,29 +1,36 @@
-# Checkout nedir?
+# Checkout nedir, ne demek?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-07-04
+**Son güncelleme:** 2026-09-19
 
-Bir alışveriş sürecinin sonunda ödeme ve onay işlemlerinin gerçekleştirildiği son aşamadır.
+Checkout, e-ticarette ödeme ve siparişin onaylandığı son aşamayı; sürüm kontrolünde (Git) ise farklı bir çalışma dalına veya commit'e geçme eylemini ifade eder.
 
-## Tanım
-Checkout, dijital dünyada sepetinize eklediğiniz ürünlerin satın alma işleminin resmileştiği yerdir. Bu aşamada kullanıcı bilgileri doğrulanır, ödeme alınır ve sipariş sisteme kaydedilir. Teknik olarak güvenli bir veri akışının en kritik olduğu noktadır.
+## Tanım ve iki temel kullanım alanı
+Checkout terimi yazılım ve internet dünyasında iki kritik bağlamda yaygın olarak kullanılır:
+
+1. **E-Ticaret ve SaaS (Ödeme Akışı):** Kullanıcının dijital sepetine eklediği ürün veya aboneliklerin fatura, teslimat ve kredi kartı bilgilerini girerek satın alma işlemini resmiyete kavuşturduğu son adımdır (Stripe, Lemon Squeezy vb.). Güvenli veri akışının (SSL, PCI-DSS) ve minimum sürtünmeli kullanıcı deneyiminin (UX) en kritik olduğu aşamadır.
+2. **Sürüm Kontrol Sistemleri (Git Checkout):** Git'te üzerinde çalışılan geçerli dalı (branch) değiştirmek veya geçmişteki belirli bir commit durumuna göz atmak için kullanılan temel komuttur (`git checkout <dal-adı>`).
 
 ## Bir benzetmeyle
-Bir süpermarkette ürünlerinizi sepete doldurduktan sonra kasaya gidip ödeme yapıp fişinizi aldığınız o son noktadır.
+Süpermarkette sepetinizi doldurduktan sonra kasaya gidip ödemenizi yaparak fişinizi aldığınız o son nokta e-ticaret checkout'udur. Bir kütüphanede farklı bir kitabın sayfalarını incelemek için çalışma masanızı değiştirmek ise Git checkout'udur.
 
 ## Nasıl çalışır?
-Kullanıcı 'satın al' butonuna basar, sistem ödeme bilgilerini şifreli bir şekilde banka ağına iletir, onay alır ve kullanıcıya bir sipariş numarası döner.
+- **E-Ticaret Checkout:** Kullanıcı 'Satın Al' butonuna bastığında sipariş özeti doğrulanır, ödeme sağlayıcısına (gateway) şifreli token iletilir, banka onayı alınır ve webhooks ile sipariş veritabanına işlenir.
+- **Git Checkout:** Komut verildiğinde Git, çalışma dizininizdeki (working directory) dosyaları hedef daldaki commit durumuna anında eşitler.
 
 ## Nerede kullanılır?
-E-ticaret sitelerinde, uygulama içi satın alma ekranlarında ve abonelik panellerinde bulunur.
-
-## Sık karıştırılanlar
-Sepete ekleme işlemiyle karıştırılmamalıdır; sepet bir hazırlık, checkout ise bir sonuçtur.
+Tüm çevrim içi alışveriş ve SaaS platformlarında, ödeme ağ geçitlerinde ve yazılım geliştiricilerin terminal iş akışlarında kullanılır.
 
 ## Sıkça sorulanlar
 
-**Checkout neden bu kadar kritik?**  
-Çünkü burada hem finansal veriler işlenir hem de kullanıcının satın alma kararını tamamladığı en hassas an yaşanır.
+**Checkout ne demek ve Türkçe karşılığı nedir?**  
+İngilizce 'çıkış yapmak / kontrol edip ayrılmak' deyiminden gelir. E-ticarette 'ödeme tamamlama / sipariş onayı'; yazılımda ise 'dala geçiş' olarak ifade edilir.
+
+**Checkout terk etme (Cart Abandonment) oranı nedir ve nasıl düşürülür?**  
+Kullanıcıların ödeme sayfasına gelip satın almadan ayrılma oranıdır. Tek tıkla ödeme (Apple Pay, Google Pay), misafir alışveriş seçeneği ve şeffaf kargo/vergi bilgileriyle bu oran düşürülür.
+
+**Git'te git checkout ile git switch arasındaki fark nedir?**  
+Modern Git sürümlerinde branch değiştirmek için `git switch`, dosya değişikliklerini geri almak için `git restore` komutları getirilmiştir; ancak `git checkout` her iki işlevi de kapsayan köklü bir komuttur.
 
 ## İlgili terimler
 - [API](/dictionary/api/)

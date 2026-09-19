@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Deployment nedir? · TreScout Sözlük</title>
-<meta name="description" content="Hazırlanan bir yazılımın kullanıcıların erişimine açılması için sunucuya yüklenip çalışır hale getirilmesidir.">
+<title>Deployment ne demek, nedir? Yazılımda canlıya alma ve dağıtım rehberi · TreScout Sözlük</title>
+<meta name="description" content="Deployment ne demek, nedir ve nasıl yapılır? Yazılım dağıtım süreçleri, CI/CD hatları, mavi-yeşil dağıtım, rollback ve otomatik yayına alma rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/deployment/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/deployment/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/deployment/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/deployment/">
 <link rel="canonical" href="https://trescout.com/dictionary/deployment/">
-<meta property="og:title" content="Deployment nedir?">
-<meta property="og:description" content="Hazırlanan bir yazılımın kullanıcıların erişimine açılması için sunucuya yüklenip çalışır hale getirilmesidir.">
+<meta property="og:title" content="Deployment ne demek, nedir? Yazılımda canlıya alma ve dağıtım rehberi">
+<meta property="og:description" content="Deployment ne demek, nedir ve nasıl yapılır? Yazılım dağıtım süreçleri, CI/CD hatları, mavi-yeşil dağıtım, rollback ve otomatik yayına alma rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/deployment/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,15 +24,16 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Deployment nedir?">
+<meta name="twitter:title" content="Deployment ne demek, nedir? Yazılımda canlıya alma ve dağıtım rehberi">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/deployment.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Deployment",
+  "alternateName": "Yazılım Dağıtımı",
   "inLanguage": "tr",
-  "description": "Deployment, yazılım geliştirme sürecinin son adımıdır. Kodunuzu kendi bilgisayarınızdan alıp, dünyanın her yerinden insanların kullanabileceği bir sunucuya taşırsınız. Artık yazılımınız sadece sizin bilgisayarınızda değil, canlı bir ortamda çalışmaya başlar.",
+  "description": "Deployment (yazılım dağıtımı / canlıya alma), geliştirilen bir yazılımın hedef sunuculara veya ortamlara yüklenerek kullanıcıların erişimine açılması sürecidir.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -48,18 +49,26 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Deployment sırasında hata çıkarsa ne olur?",
+      "name": "Deployment ne demek ve Türkçe karşılığı nedir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Sistem genellikle eski, çalışan sürüme geri döner (rollback) veya hata düzeltilene kadar yayını durdurur."
+        "text": "İngilizce kökenli bir kelime olup 'dağıtım' veya 'canlıya alma' anlamına gelir. Yazılım paketinin çalışır halde hedef ortama kurulmasıdır."
       }
     },
     {
       "@type": "Question",
-      "name": "Deployment her zaman manuel mi yapılır?",
+      "name": "Deployment sırasında hata çıkarsa ne yapılır (Rollback nedir)?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Modern dünyada genellikle otomatiktir; siz kodu gönderirsiniz, sistem kendi kendine yayına alır."
+        "text": "Kritik bir hata tespit edildiğinde otomatik 'rollback' (geri alma) mekanizması devreye girer ve sistem saniyeler içinde sorunsuz çalışan bir önceki stabil sürüme geri döner."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Sıfır kesintili (Zero-Downtime) deployment nasıl sağlanır?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Konteyner orkestrasyonu (Kubernetes, Docker Swarm) ve yük dengeleyiciler sayesinde yeni sürüm ayağa kalkmadan eski sunucular kapatılmaz, böylece kullanıcılar hiçbir kesinti hissetmez."
       }
     }
   ]
@@ -72,9 +81,9 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Hazırlanan bir yazılımın kullanıcıların erişimine açılması için sunucuya yüklenip çalışır hale getirilmesidir.">
+<meta name="twitter:description" content="Deployment ne demek, nedir ve nasıl yapılır? Yazılım dağıtım süreçleri, CI/CD hatları, mavi-yeşil dağıtım, rollback ve otomatik yayına alma rehberi.">
 
-<meta property="og:image:alt" content="Deployment nedir?">
+<meta property="og:image:alt" content="Deployment ne demek, nedir?">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
@@ -82,11 +91,11 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-06-16">Son güncelleme: 16 Haziran 2026</time></div>
-<h1 class="disc-title">Deployment <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
+<h1 class="disc-title">Deployment <span class="disc-accent">ne demek, nedir?</span></h1>
 
-<p class="disc-lead">Hazırlanan bir yazılımın kullanıcıların erişimine açılması için sunucuya yüklenip çalışır hale getirilmesidir.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Deployment, yazılım geliştirme sürecinin son adımıdır. Kodunuzu kendi bilgisayarınızdan alıp, dünyanın her yerinden insanların kullanabileceği bir sunucuya taşırsınız. Artık yazılımınız sadece sizin bilgisayarınızda değil, canlı bir ortamda çalışmaya başlar.</p></section><div class="dict-analogy">Bir yazarın kitabını yazıp bitirmesi geliştirme aşamasıdır; kitabın basılıp raflara dizilmesi ve okuyucuya sunulması ise deployment aşamasıdır.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Geliştiriciler kodlarını otomatik veya manuel araçlarla sunucuya gönderir. Sunucu bu kodu alır, gerekli ayarları yapar ve uygulamayı yayına alır.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Web sitelerini yayına alırken, mobil uygulamaları mağazaya gönderirken veya yapay zekâ modellerini bir API olarak sunarken kullanılır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Geliştirme (development) ile karıştırılır; geliştirme mutfakta yemeği pişirmek, deployment ise yemeği müşterinin masasına servis etmektir.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Deployment sırasında hata çıkarsa ne olur?</p><p class="dict-faq-a">Sistem genellikle eski, çalışan sürüme geri döner (rollback) veya hata düzeltilene kadar yayını durdurur.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Deployment her zaman manuel mi yapılır?</p><p class="dict-faq-a">Modern dünyada genellikle otomatiktir; siz kodu gönderirsiniz, sistem kendi kendine yayına alır.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/runtime/">Runtime</a><a href="/dictionary/compile-time/">Compile-time</a><a href="/dictionary/api/">API</a></div></section>
+<p class="disc-lead">Deployment (yazılım dağıtımı), geliştirilen ve test edilen bir uygulamanın sunuculara yüklenerek son kullanıcıların erişimine açılması sürecidir.</p>
+<section class="disc-sec"><h2>Tanım ve modern dağıtım mimarisi</h2><p>Deployment (Türkçede dağıtım veya canlıya alma), yazılım geliştirme yaşam döngüsünün (SDLC) üretim aşamasıdır. Kodunuzu yerel geliştirme ortamınızdan (localhost) çıkarıp, dünyanın her yerinden kesintisiz erişilebilen canlı sunuculara, bulut servislerine (AWS, Vercel vb.) veya mobil uygulama mağazalarına taşıma sürecini ifade eder. Modern yazılım dünyasında deployment tek seferlik bir eylem değil; CI/CD hatları ile günde onlarca kez tekrarlanan otomatik bir standarttır.</p></section><div class="dict-analogy">Bir otomobil fabrikasını düşünün: Tasarım ve parça üretimi geliştirme aşamasıdır; üretilen otomobillerin tırlarla yetkili bayilere sevk edilip anahtar teslim müşterilere sunulması ise deployment aşamasıdır.</div><section class="disc-sec"><h2>Nasıl çalışır ve stratejileri nelerdir?</h2><p>1. <strong>Sürekli Dağıtım (Continuous Deployment):</strong> Kod ana dala (main branch) birleştirildiğinde otomatik testler koşar; testler geçerse insan müdahalesi olmadan canlıya alınır.<br>2. <strong>Mavi-Yeşil Dağıtım (Blue-Green Deployment):</strong> Biri canlıda (mavi), diğeri yeni sürümü test eden (yeşil) iki özdeş ortam tutulur. Yeni sürüm hazır olduğunda yönlendirici (router) trafiği anında yeşile çevirerek sıfır kesinti sağlar.<br>3. <strong>Kademeli Dağıtım (Canary Deployment):</strong> Yeni sürüm önce kullanıcıların %5&#x27;ine açılır; hata oranı izlenir ve sorun yoksa tüm kullanıcılara yayılır.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Web sitelerinin yayınlanmasında, mikroservis ve API güncellemelerinde, mobil uygulamaların App Store/Google Play sürümlerinde ve yapay zekâ model ağırlıklarının servis edilmesinde kullanılır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>- <strong>Development vs Deployment:</strong> Development (geliştirme) mutfakta yemeğin pişirilmesidir; Deployment ise yemeğin müşterinin masasına servis edilmesidir.<br>- <strong>Release vs Deployment:</strong> Deployment kodun teknik olarak sunucuya kurulmasıdır; Release ise özelliğin pazarlama ve iş birimleri tarafından kullanıcıya resmi olarak duyurulmasıdır.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Deployment ne demek ve Türkçe karşılığı nedir?</p><p class="dict-faq-a">İngilizce kökenli bir kelime olup &#x27;dağıtım&#x27; veya &#x27;canlıya alma&#x27; anlamına gelir. Yazılım paketinin çalışır halde hedef ortama kurulmasıdır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Deployment sırasında hata çıkarsa ne yapılır (Rollback nedir)?</p><p class="dict-faq-a">Kritik bir hata tespit edildiğinde otomatik &#x27;rollback&#x27; (geri alma) mekanizması devreye girer ve sistem saniyeler içinde sorunsuz çalışan bir önceki stabil sürüme geri döner.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Sıfır kesintili (Zero-Downtime) deployment nasıl sağlanır?</p><p class="dict-faq-a">Konteyner orkestrasyonu (Kubernetes, Docker Swarm) ve yük dengeleyiciler sayesinde yeni sürüm ayağa kalkmadan eski sunucular kapatılmaz, böylece kullanıcılar hiçbir kesinti hissetmez.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/runtime/">Runtime</a><a href="/dictionary/compile-time/">Compile-time</a><a href="/dictionary/api/">API</a></div></section>
 <section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/rocket-chat/">Rocket.Chat</a><a href="/discover/chatwoot/">Chatwoot</a><a href="/discover/argo-cd/">Argo Cd</a><a href="/discover/openship/">Openship</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>

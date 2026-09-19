@@ -1,32 +1,38 @@
-# Deployment nedir?
+# Deployment ne demek, nedir?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-06-16
+**Son güncelleme:** 2026-09-19
 
-Hazırlanan bir yazılımın kullanıcıların erişimine açılması için sunucuya yüklenip çalışır hale getirilmesidir.
+Deployment (yazılım dağıtımı), geliştirilen ve test edilen bir uygulamanın sunuculara yüklenerek son kullanıcıların erişimine açılması sürecidir.
 
-## Tanım
-Deployment, yazılım geliştirme sürecinin son adımıdır. Kodunuzu kendi bilgisayarınızdan alıp, dünyanın her yerinden insanların kullanabileceği bir sunucuya taşırsınız. Artık yazılımınız sadece sizin bilgisayarınızda değil, canlı bir ortamda çalışmaya başlar.
+## Tanım ve modern dağıtım mimarisi
+Deployment (Türkçede dağıtım veya canlıya alma), yazılım geliştirme yaşam döngüsünün (SDLC) üretim aşamasıdır. Kodunuzu yerel geliştirme ortamınızdan (localhost) çıkarıp, dünyanın her yerinden kesintisiz erişilebilen canlı sunuculara, bulut servislerine (AWS, Vercel vb.) veya mobil uygulama mağazalarına taşıma sürecini ifade eder. Modern yazılım dünyasında deployment tek seferlik bir eylem değil; CI/CD hatları ile günde onlarca kez tekrarlanan otomatik bir standarttır.
 
 ## Bir benzetmeyle
-Bir yazarın kitabını yazıp bitirmesi geliştirme aşamasıdır; kitabın basılıp raflara dizilmesi ve okuyucuya sunulması ise deployment aşamasıdır.
+Bir otomobil fabrikasını düşünün: Tasarım ve parça üretimi geliştirme aşamasıdır; üretilen otomobillerin tırlarla yetkili bayilere sevk edilip anahtar teslim müşterilere sunulması ise deployment aşamasıdır.
 
-## Nasıl çalışır?
-Geliştiriciler kodlarını otomatik veya manuel araçlarla sunucuya gönderir. Sunucu bu kodu alır, gerekli ayarları yapar ve uygulamayı yayına alır.
+## Nasıl çalışır ve stratejileri nelerdir?
+1. **Sürekli Dağıtım (Continuous Deployment):** Kod ana dala (main branch) birleştirildiğinde otomatik testler koşar; testler geçerse insan müdahalesi olmadan canlıya alınır.
+2. **Mavi-Yeşil Dağıtım (Blue-Green Deployment):** Biri canlıda (mavi), diğeri yeni sürümü test eden (yeşil) iki özdeş ortam tutulur. Yeni sürüm hazır olduğunda yönlendirici (router) trafiği anında yeşile çevirerek sıfır kesinti sağlar.
+3. **Kademeli Dağıtım (Canary Deployment):** Yeni sürüm önce kullanıcıların %5'ine açılır; hata oranı izlenir ve sorun yoksa tüm kullanıcılara yayılır.
 
 ## Nerede kullanılır?
-Web sitelerini yayına alırken, mobil uygulamaları mağazaya gönderirken veya yapay zeka modellerini bir API olarak sunarken kullanılır.
+Web sitelerinin yayınlanmasında, mikroservis ve API güncellemelerinde, mobil uygulamaların App Store/Google Play sürümlerinde ve yapay zekâ model ağırlıklarının servis edilmesinde kullanılır.
 
 ## Sık karıştırılanlar
-Geliştirme (development) ile karıştırılır; geliştirme mutfakta yemeği pişirmek, deployment ise yemeği müşterinin masasına servis etmektir.
+- **Development vs Deployment:** Development (geliştirme) mutfakta yemeğin pişirilmesidir; Deployment ise yemeğin müşterinin masasına servis edilmesidir.
+- **Release vs Deployment:** Deployment kodun teknik olarak sunucuya kurulmasıdır; Release ise özelliğin pazarlama ve iş birimleri tarafından kullanıcıya resmi olarak duyurulmasıdır.
 
 ## Sıkça sorulanlar
 
-**Deployment sırasında hata çıkarsa ne olur?**  
-Sistem genellikle eski, çalışan sürüme geri döner (rollback) veya hata düzeltilene kadar yayını durdurur.
+**Deployment ne demek ve Türkçe karşılığı nedir?**  
+İngilizce kökenli bir kelime olup 'dağıtım' veya 'canlıya alma' anlamına gelir. Yazılım paketinin çalışır halde hedef ortama kurulmasıdır.
 
-**Deployment her zaman manuel mi yapılır?**  
-Modern dünyada genellikle otomatiktir; siz kodu gönderirsiniz, sistem kendi kendine yayına alır.
+**Deployment sırasında hata çıkarsa ne yapılır (Rollback nedir)?**  
+Kritik bir hata tespit edildiğinde otomatik 'rollback' (geri alma) mekanizması devreye girer ve sistem saniyeler içinde sorunsuz çalışan bir önceki stabil sürüme geri döner.
+
+**Sıfır kesintili (Zero-Downtime) deployment nasıl sağlanır?**  
+Konteyner orkestrasyonu (Kubernetes, Docker Swarm) ve yük dengeleyiciler (load balancer) sayesinde yeni sürüm ayağa kalkmadan eski sunucular kapatılmaz, böylece kullanıcılar hiçbir kesinti hissetmez.
 
 ## İlgili terimler
 - [Runtime](/dictionary/runtime/)

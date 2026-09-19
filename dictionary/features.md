@@ -1,29 +1,38 @@
-# Features nedir?
+# Features ne demek, nedir?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-07-16
+**Son güncelleme:** 2026-09-19
 
-Bir yazılımın veya ürünün kullanıcılara sunduğu belirgin yetenekler ve fonksiyonlar.
+Features (özellikler), bir yazılımın, dijital ürünün veya yapay zekâ modelinin kullanıcılara sunduğu belirgin yetenekler ve fonksiyonel bileşenlerdir.
 
-## Tanım
-Features, bir uygulamanın ne yapabildiğini tanımlayan özelliklerdir. Örneğin bir fotoğraf düzenleme uygulamasında 'kırmızı göz düzeltme' veya 'filtre uygulama' birer özelliktir. Bu özellikler, ürünün kullanıcıya sağladığı faydayı somutlaştırır.
+## Tanım ve ürün yönetimindeki yeri
+Yazılım mühendisliği ve ürün yönetiminde 'features' (özellikler), bir uygulamanın ne yapabildiğini ve hangi kullanıcı ihtiyacını çözdüğünü tanımlayan temel yapı taşlarıdır. Örneğin bir e-ticaret uygulamasında 'tek tıkla ödeme', 'sipariş takibi' veya 'akıllı öneri motoru' birer özelliktir. İyi tasarlanmış özellikler, ürünün değer önerisini (value proposition) somutlaştırır.
 
 ## Bir benzetmeyle
-Bir arabanın kliması, hız sabitleyicisi veya geri görüş kamerası gibi, sürüş deneyimini iyileştiren ek donanımlar gibidir.
+Bir akıllı otomobili düşünün: Motor ve tekerlekler temel yapıdır; ancak şerit takip asistanı, otomatik park etme, koltuk ısıtma ve sesli navigasyon sistemleri otomobilin sürüş deneyimini zenginleştiren 'features' (özellikler) donanımıdır.
 
-## Nasıl çalışır?
-Geliştiriciler, kullanıcıların ihtiyaçlarını analiz ederek hangi özelliklerin (features) yazılıma ekleneceğine karar verir. Bu özellikler kodlanır, test edilir ve güncellemelerle kullanıcıya sunulur.
+## Nasıl çalışır ve yönetilir?
+1. **Gereksinim ve Kapsam:** Kullanıcı geri bildirimleri ve ürün vizyonu doğrultusunda hangi özelliklerin geliştirileceği önceliklendirilir.
+2. **Geliştirme ve Test:** Özellikler modüler olarak kodlanır, birim ve entegrasyon testlerinden geçirilir.
+3. **Feature Flag ile Dağıtım:** Modern ekipler, yeni özellikleri 'feature flag' (özellik bayrakları) arkasına alarak kademeli olarak belirli kullanıcı gruplarına açar ve test eder.
 
 ## Nerede kullanılır?
-Yazılım geliştirme süreçlerinde, ürün yönetimi toplantılarında ve uygulama tanıtımlarında sıkça kullanılır.
+Yazılım geliştirme süreçlerinde (Scrum, Kanban), ürün yol haritalarında (roadmap), kullanıcı kabul testlerinde ve uygulama mağazası sürüm notlarında sıkça karşınıza çıkar.
 
 ## Sık karıştırılanlar
-Tool (araç) ile karıştırılabilir; özellik (feature) ürünün parçasıdır, araç (tool) ise işi yapmak için kullanılan dış bir yardımcıdır.
+- **Feature vs Tool:** Özellik (feature) bir ürünün içindeki dahili fonksiyondur; araç (tool) ise o özelliği veya işi inşa etmek için dışarıdan kullanılan bağımsız bir yazılımdır.
+- **Feature Creep (Şişkinlik):** Bir ürüne gereğinden fazla ve kullanıcı ihtiyacı olmayan özellikler eklenmesi uygulamayı karmaşıklaştırır ve yavaşlatır.
 
 ## Sıkça sorulanlar
 
-**Her özellik iyi midir?**  
-Hayır, bazen çok fazla özellik eklemek uygulamayı karmaşıklaştırır ve 'bloatware' dediğimiz şişkinliğe neden olur.
+**Features ne demek ve Türkçe karşılığı nedir?**  
+İngilizce kökenli bir kelime olup 'özellikler' anlamına gelir. Yazılım dünyasında bir sistemin sunduğu fonksiyonel yetenekleri ifade eder.
+
+**Feature flag (özellik bayrağı) nedir ve neden kullanılır?**  
+Geliştiricilerin yeni bir özelliği kod tabanını yeniden dağıtmadan, dinamik olarak açıp kapatmasına veya yalnızca A/B test gruplarına sunmasına yarayan kontrol mekanizmasıdır.
+
+**MVP (Minimum Viable Product) ile özellik seti nasıl dengelenir?**  
+Bir MVP, pazara en hızlı şekilde değer sunabilmek için yalnızca ürünü çalışır kılan en temel çekirdek özellikleri (core features) barındırmalıdır.
 
 ## İlgili terimler
 - [Tools](/dictionary/tools/)
