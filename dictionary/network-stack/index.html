@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Network Stack nedir? · TreScout Sözlük</title>
-<meta name="description" content="Bir bilgisayarın internete bağlanması ve veri alışverişi yapması için gereken yazılım katmanlarının bütünüdür.">
+<title>Network Stack nedir, ne demek? Ağ yığını ve OSI mimarisi rehberi · TreScout Sözlük</title>
+<meta name="description" content="Network stack nedir, ne demek ve nasıl çalışır? Ağ yığını katmanları, TCP/IP ve OSI modelleri, paket iletimi ve işletim sistemi soketleri rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/dictionary/network-stack/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/network-stack/">
@@ -14,27 +14,28 @@
 <link rel="alternate" hreflang="es" href="https://trescout.com/es/dictionary/network-stack/">
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/network-stack/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/network-stack/">
-<meta property="og:title" content="Network Stack nedir?">
-<meta property="og:description" content="Bir bilgisayarın internete bağlanması ve veri alışverişi yapması için gereken yazılım katmanlarının bütünüdür.">
+<meta property="og:title" content="Network Stack nedir, ne demek? Ağ yığını ve OSI mimarisi rehberi">
+<meta property="og:description" content="Network stack nedir, ne demek ve nasıl çalışır? Ağ yığını katmanları, TCP/IP ve OSI modelleri, paket iletimi ve işletim sistemi soketleri rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/network-stack/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:image" content="https://trescout.com/assets/dictionary/og/network-stack.webp">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Network Stack nedir?">
+<meta property="og:image:alt" content="Network Stack nedir, ne demek?">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Network Stack nedir?">
-<meta name="twitter:description" content="Bir bilgisayarın internete bağlanması ve veri alışverişi yapması için gereken yazılım katmanlarının bütünüdür.">
+<meta name="twitter:title" content="Network Stack nedir, ne demek? Ağ yığını ve OSI mimarisi rehberi">
+<meta name="twitter:description" content="Network stack nedir, ne demek ve nasıl çalışır? Ağ yığını katmanları, TCP/IP ve OSI modelleri, paket iletimi ve işletim sistemi soketleri rehberi.">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/network-stack.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Network Stack",
+  "alternateName": "Ağ Yığını",
   "inLanguage": "tr",
-  "description": "İnternet üzerinde bir veri gönderdiğinizde, bu veri tek bir adımda gitmez. Network stack, verinin paketlenmesinden kablodan geçişine ve karşı tarafta tekrar birleştirilmesine kadar olan tüm süreci yöneten yazılım kurallarıdır. Bu katmanlar, donanım ile kullandığınız uygulamalar arasındaki köprüyü kurar.",
+  "description": "Network Stack (ağ yığını), bir bilgisayarın internete bağlanması ve veri alışverişi yapması için gereken katmanlı yazılım ve donanım protokolleri bütünüdür.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -50,18 +51,26 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Bu katmanları ben mi yönetiyorum?",
+      "name": "Network stack ne demek ve Türkçe karşılığı nedir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Hayır, işletim sisteminiz ve ağ sürücüleri bu süreci sizin yerinize yönetir."
+        "text": "Türkçede 'ağ yığını' veya 'protokol yığını' olarak adlandırılır. Birbirinin üzerine binen ve sıra ile çalışan ağ kuralları bütünüdür."
       }
     },
     {
       "@type": "Question",
-      "name": "Neden önemli?",
+      "name": "TCP ile UDP arasındaki fark network stack içinde nerede yer alır?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Eğer bu katmanlardan biri hatalı çalışırsa internet bağlantınız kesilir veya veri kaybı yaşarsınız."
+        "text": "İletim katmanında (Transport Layer) yer alır. TCP paketlerin ulaştığını teyit eder ve kayıpları yeniden gönderir (web, e-posta); UDP ise hız öncelikli akış sağlar (canlı yayın, oyun)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Linux çekirdeğindeki (kernel) network stack neden performans için kritiktir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yüksek trafikli sunucularda saniyede milyonlarca paketi işleyebilmek için soket arabellekleri, bağlantı kuyrukları ve eBPF gibi teknolojiler doğrudan network stack üzerinde optimize edilir."
       }
     }
   ]
@@ -80,11 +89,11 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-12">Son güncelleme: 12 Eylül 2026</time></div>
-<h1 class="disc-title">Network Stack <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
+<h1 class="disc-title">Network Stack <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">Bir bilgisayarın internete bağlanması ve veri alışverişi yapması için gereken yazılım katmanlarının bütünüdür.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>İnternet üzerinde bir veri gönderdiğinizde, bu veri tek bir adımda gitmez. Network stack, verinin paketlenmesinden kablodan geçişine ve karşı tarafta tekrar birleştirilmesine kadar olan tüm süreci yöneten yazılım kurallarıdır. Bu katmanlar, donanım ile kullandığınız uygulamalar arasındaki köprüyü kurar.</p></section><div class="dict-analogy">Bir mektup gönderirken zarfın yazılması, postaya verilmesi, kamyona yüklenmesi ve teslim edilmesi aşamaları bir network stack gibidir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>İşletim sisteminiz, internete bağlandığınız anda bu katmanları arka planda otomatik olarak çalıştırır; siz sadece tarayıcıyı açarsınız.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Sunucularda, kişisel bilgisayarlarda ve ağ yönlendiricilerinde (router) temel bir bileşen olarak bulunur.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Networking stack ile aynı kavramdır.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Bu katmanları ben mi yönetiyorum?</p><p class="dict-faq-a">Hayır, işletim sisteminiz ve ağ sürücüleri bu süreci sizin yerinize yönetir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Neden önemli?</p><p class="dict-faq-a">Eğer bu katmanlardan biri hatalı çalışırsa internet bağlantınız kesilir veya veri kaybı yaşarsınız.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/networking-stack/">Networking Stack</a><a href="/dictionary/api/">API</a><a href="/dictionary/packet-fragmentation/">Packet Fragmentation</a></div></section>
+<p class="disc-lead">Network Stack (ağ yığını), bir bilgisayarın veya sunucunun ağ üzerinden diğer cihazlarla veri alışverişi yapmasını sağlayan yazılım ve donanım katmanları bütünüdür.</p>
+<section class="disc-sec"><h2>Tanım ve katmanlı mimari</h2><p>Ağ Yığını (Network Stack veya Networking Stack), bir verinin bir cihazdan çıkıp internet üzerinden hedef cihaza ulaşmasını ve karşı tarafta eksiksiz çözümlenmesini yöneten kurallar (protokoller) hiyerarşisidir. İşletim sistemi çekirdeğinde (kernel) yer alan bu katmanlar, donanım kartları ile tarayıcı veya mobil uygulamalar arasında köprü kurar. Günümüz internetinin omurgasını oluşturan standart model TCP/IP yığınıdır:<br>1. <strong>Uygulama Katmanı (Application):</strong> HTTP, HTTPS, WebSocket, DNS gibi kullanıcıyla doğrudan etkileşen protokoller.<br>2. <strong>İletim Katmanı (Transport):</strong> Verinin güvenle teslim edilmesini sağlayan TCP veya hızlı iletim sunan UDP.<br>3. <strong>İnternet Katmanı (Network):</strong> Paketlerin dünya genelinde yönlendirilmesini (routing) sağlayan IP (IPv4/IPv6).<br>4. <strong>Bağlantı Katmanı (Link):</strong> Ethernet, Wi-Fi gibi fiziksel sinyaller ve donanım sürücüleri.</p></section><div class="dict-analogy">Yurt dışına kırılabilir bir eşya gönderme sürecine benzer: Eşyayı kutulamak (veri paketleme), üzerine adres etiketi yapıştırmak (IP adresi), taahhütlü kargoya vermek (TCP garantisi) ve kargo uçağının havalanması (fiziksel ağ) aşamalarının her biri bir yığın katmanıdır.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Bir web sitesine tıkladığınızda işletim sistemi isteği network stack boyunca aşağı indirir (kapsülleme - encapsulation). Veri ağ kablosundan baytlar halinde karşı sunucuya ulaştığında ise tam tersine yığın boyunca yukarı çıkartılarak hedef sunucu yazılımına teslim edilir.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Tüm işletim sistemlerinde (Linux, macOS, Windows), bulut veri merkezlerinde, akıllı telefonlarda ve ağ yönlendiricilerinde (router/switch) temel iletişim bileşenidir.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Sadece fiziksel ağ kartı (NIC) veya modem donanımı ile karıştırılmamalıdır; network stack donanımı kontrol eden ve paket trafiğini yöneten karmaşık bir çekirdek yazılım mimarisidir.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Network stack ne demek ve Türkçe karşılığı nedir?</p><p class="dict-faq-a">Türkçede &#x27;ağ yığını&#x27; veya &#x27;protokol yığını&#x27; olarak adlandırılır. Birbirinin üzerine binen ve sıra ile çalışan ağ kuralları bütünüdür.</p></div><div class="dict-faq-item"><p class="dict-faq-q">TCP ile UDP arasındaki fark network stack içinde nerede yer alır?</p><p class="dict-faq-a">İletim katmanında (Transport Layer) yer alır. TCP paketlerin ulaştığını teyit eder ve kayıpları yeniden gönderir (web, e-posta); UDP ise hız öncelikli akış sağlar (canlı yayın, oyun).</p></div><div class="dict-faq-item"><p class="dict-faq-q">Linux çekirdeğindeki (kernel) network stack neden performans için kritiktir?</p><p class="dict-faq-a">Yüksek trafikli sunucularda saniyede milyonlarca paketi işleyebilmek için soket arabellekleri, bağlantı kuyrukları ve eBPF gibi teknolojiler doğrudan network stack üzerinde optimize edilir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/networking-stack/">Networking Stack</a><a href="/dictionary/api/">API</a><a href="/dictionary/packet-fragmentation/">Packet Fragmentation</a></div></section>
 <section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/openflux/">OpenFlux</a></div></section>
 <aside class="disc-cta"><p><strong>İlgili araçları ve günlük raporları keşfet.</strong> Her gün yeni bir teknoloji terimi ve aracı çıkıyor; geride kalmamak için TreScout bültenine katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" data-page-type="dictionary" data-content-slug="network-stack" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
@@ -131,9 +140,8 @@
   </div>
 </footer>
 <script src="/assets/subscribe.js" defer></script>
-<script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>
-<script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>
-<script src="/assets/provider-consent.js" defer></script>
-<script src="/assets/telemetry.js" defer></script>
+  <script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>
+  <script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>
+  <script src="/assets/provider-consent.js" defer></script>
 </body>
 </html>

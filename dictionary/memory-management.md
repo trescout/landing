@@ -1,32 +1,39 @@
-# Memory Management nedir?
+# Memory Management nedir, ne demek?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-06-07
+**Son güncelleme:** 2026-09-19
 
-Bilgisayarın geçici hafızasının verimli kullanılması için verilerin düzenli şekilde yerleştirilmesi ve temizlenmesidir.
+Memory Management (bellek yönetimi), bilgisayarın rastgele erişimli belleğinin (RAM) çalışan programlar arasında tahsis edilmesi ve temizlenmesi sürecidir.
 
-## Tanım
-Bilgisayarların geçici hafızası olan RAM, sınırlı bir alana sahiptir. Memory management, hangi verinin ne kadar süre hafızada kalacağına ve işi bitince nasıl silineceğine karar veren bir sistem yönetimidir.
+## Tanım ve bellek mimarisi
+Bellek Yönetimi (Memory Management), bir yazılımın veya işletim sisteminin geçici bellek (RAM) kaynaklarını kontrol etme metodolojisidir. Bir program başlatıldığında veya değişken tanımlandığında işletim sistemi bellekte yer ayırır (allocation). İlgili verilerle iş bittiğinde ise bu alanın sisteme iade edilmesi (deallocation) gerekir. Doğru yönetilmeyen bellek, sızıntılara (memory leak) ve uygulamanın çökmesine yol açar.
 
 ## Bir benzetmeyle
-Bir kütüphanecinin, rafların dolup taşmaması için okunan kitapları raflardan alıp depoya kaldırması veya geri dönüşüme göndermesi gibidir.
+Büyük bir otoparkın vale görevlisi gibidir: Gelen her arabaya (çalışan fonksiyona veya değişkene) uygun boyutta bir park yeri tahsis eder; araba işini bitirip ayrıldığında ise o yeri temizleyip yeni gelen araçlara hazır hale getirir.
 
 ## Nasıl çalışır?
-Programlar çalışırken ihtiyaç duydukları verileri hafızaya yazar. Sistem, bu verileri takip eder ve artık ihtiyaç duyulmayanları temizleyerek yeni veriler için yer açar.
+1. **Stack ve Heap Ayrımı:**
+   - **Stack (Yığın):** Boyutu derleme anında bilinen yerel değişkenlerin tutulduğu, son giren ilk çıkar (LIFO) mantığıyla çalışan son derece hızlı bellek alanıdır.
+   - **Heap (Öbek):** Dinamik olarak çalışma zamanında (runtime) tahsis edilen, daha büyük ancak yönetimi daha karmaşık olan bellek havuzudur.
+2. **Otomatik Çöp Toplama (Garbage Collection):** JavaScript, Python, Go ve Java gibi modern dillerde artık referans verilmeyen nesneler arka plandaki GC motoru tarafından periyodik olarak taranır ve bellekten silinir.
+3. **Manuel Bellek Yönetimi:** C ve C++ gibi sistem dillerinde geliştirici `malloc`/`free` ile belleği bizzat yönetirken; Rust, sahiplik (ownership) modeliyle derleme anında bellek güvenliğini sağlar.
 
 ## Nerede kullanılır?
-İşletim sistemleri, oyun motorları ve yüksek performans gerektiren tüm yazılımlarda arka planda çalışır.
+İşletim sistemi çekirdeklerinde, oyun motorlarında (Unity, Unreal Engine), veritabanlarında ve yüksek performanslı arka uç mimarilerinde performansı belirleyen ana etkendir.
 
 ## Sık karıştırılanlar
-Depolama (hard disk) ile karıştırılmamalıdır; bu süreç sadece geçici hafıza (RAM) ile ilgilidir.
+Kalıcı depolama (SSD / Sabit Disk) ile karıştırılmamalıdır; bellek yönetimi yalnızca bilgisayar açıkken çalışan geçici RAM belleğin optimizasyonunu kapsar.
 
 ## Sıkça sorulanlar
 
-**Hafıza yönetimi kötü olursa ne olur?**  
-Bilgisayar yavaşlar, donar veya programlar hata verip kapanabilir.
+**Memory management ne demek ve Türkçe karşılığı nedir?**  
+Türkçede 'bellek yönetimi' olarak ifade edilir. Yazılımların RAM kaynaklarını verimli kullanması için geliştirilen kontrol mekanizmalarıdır.
 
-**Bunu ben mi yapmalıyım?**  
-Modern dillerin çoğu bunu otomatik yapar, ancak sistem seviyesinde yazılım geliştiriyorsanız manuel kontrol gerekebilir.
+**Bellek sızıntısı (Memory Leak) nedir ve nasıl önlenir?**  
+Programın artık ihtiyaç duymadığı bellek alanlarını serbest bırakmaması sonucu RAM tüketiminin sürekli artması durumudur. Profiling araçları ve referans döngülerini temizleyerek önlenir.
+
+**Rust dili neden Garbage Collector olmadan bellek güvenliği sunar?**  
+Rust, 'Ownership ve Borrowing' (sahiplik ve ödünç alma) kurallarını derleme anında doğrular; böylece çalışma zamanında bir çöp toplayıcı çalıştırmadan bellek güvenliği ve maksimum hız sağlar.
 
 ## İlgili terimler
 - [State Management](/dictionary/state-management/)

@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Tools nedir? · TreScout Sözlük</title>
-<meta name="description" content="Yazılımların belirli işlemleri gerçekleştirmek için dış dünyayla etkileşime girmesini sağlayan yardımcı fonksiyonlar veya araçlardır.">
+<title>Tools ne demek, nedir? Yapay zekâda araç kullanımı ve Function Calling · TreScout Sözlük</title>
+<meta name="description" content="Tools ne demek, nedir ve yapay zekâda nasıl kullanılır? Function calling, LLM araç entegrasyonu, Model Context Protocol (MCP) ve ajan sistemleri rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/tools/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/tools/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/tools/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/tools/">
 <link rel="canonical" href="https://trescout.com/dictionary/tools/">
-<meta property="og:title" content="Tools nedir?">
-<meta property="og:description" content="Yazılımların belirli işlemleri gerçekleştirmek için dış dünyayla etkileşime girmesini sağlayan yardımcı fonksiyonlar veya araçlardır.">
+<meta property="og:title" content="Tools ne demek, nedir? Yapay zekâda araç kullanımı ve Function Calling">
+<meta property="og:description" content="Tools ne demek, nedir ve yapay zekâda nasıl kullanılır? Function calling, LLM araç entegrasyonu, Model Context Protocol (MCP) ve ajan sistemleri rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/tools/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,15 +24,16 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Tools nedir?">
+<meta name="twitter:title" content="Tools ne demek, nedir? Yapay zekâda araç kullanımı ve Function Calling">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/tools.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Tools",
+  "alternateName": "Araçlar",
   "inLanguage": "tr",
-  "description": "Yapay zekâ dünyasında 'araçlar', modelin kendi başına yapamadığı (örneğin internette arama yapmak, hesap makinesi kullanmak veya bir dosyayı okumak gibi) işleri yapmasını sağlar. Model, bir araç kullanması gerektiğinde bunu bir fonksiyon çağrısı olarak gerçekleştirir. Bu, ajanın sadece metin üreten bir sistemden, dünyayla etkileşime giren bir asistana dönüşmesini sağlar.",
+  "description": "Tools (araçlar), büyük dil modellerinin ve yazılımların harici API'leri, fonksiyonları veya sistemleri çağırarak dış dünyayla etkileşime girmesini sağlayan yeteneklerdir.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -48,18 +49,26 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Yapay zekâ kendi kendine araç seçebilir mi?",
+      "name": "Tools ne demek ve yapay zekâda ne anlama gelir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Evet, gelişmiş ajanlar hangi aracın hangi sorunu çözeceğine karar verebilir."
+        "text": "İngilizce 'araçlar / gereçler' anlamına gelir. Yazılım ve yapay zekâda modelin salt metin üretmenin ötesine geçerek dünyayla etkileşime girdiği fonksiyon ve API çağrılarını ifade eder."
       }
     },
     {
       "@type": "Question",
-      "name": "Kendi aracımı nasıl yaparım?",
+      "name": "Yapay zekâ modelleri aracı rastgele mi çağırır?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Bir fonksiyon yazıp bunu ajana bir API veya kütüphane üzerinden tanımlayarak yapabilirsiniz."
+        "text": "Hayır, modelin sistem yönergesine ve kullanıcının prompt'una göre en uygun aracı seçebilmesi için araç açıklamalarının (tool description) son derece net ve açık yazılması gerekir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Model Context Protocol (MCP) araç kullanımını nasıl değiştirdi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Anthropic tarafından geliştirilen MCP, her yapay zekâ modeli için ayrı ayrı araç entegrasyonu yazma zorunluluğunu kaldırarak; araçların ve veri kaynaklarının evrensel bir protokolle tüm yapay zekâ sistemlerine bağlanmasını sağladı."
       }
     }
   ]
@@ -72,9 +81,9 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Yazılımların belirli işlemleri gerçekleştirmek için dış dünyayla etkileşime girmesini sağlayan yardımcı fonksiyonlar veya araçlardır.">
+<meta name="twitter:description" content="Tools ne demek, nedir ve yapay zekâda nasıl kullanılır? Function calling, LLM araç entegrasyonu, Model Context Protocol (MCP) ve ajan sistemleri rehberi.">
 
-<meta property="og:image:alt" content="Tools nedir?">
+<meta property="og:image:alt" content="Tools ne demek, nedir?">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
@@ -82,11 +91,11 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-06-24">Son güncelleme: 24 Haziran 2026</time></div>
-<h1 class="disc-title">Tools <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
+<h1 class="disc-title">Tools <span class="disc-accent">ne demek, nedir?</span></h1>
 
-<p class="disc-lead">Yazılımların belirli işlemleri gerçekleştirmek için dış dünyayla etkileşime girmesini sağlayan yardımcı fonksiyonlar veya araçlardır.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Yapay zekâ dünyasında &#x27;araçlar&#x27;, modelin kendi başına yapamadığı (örneğin internette arama yapmak, hesap makinesi kullanmak veya bir dosyayı okumak gibi) işleri yapmasını sağlar. Model, bir araç kullanması gerektiğinde bunu bir fonksiyon çağrısı olarak gerçekleştirir. Bu, ajanın sadece metin üreten bir sistemden, dünyayla etkileşime giren bir asistana dönüşmesini sağlar.</p></section><div class="dict-analogy">Bir ressamın sadece ellerini değil, fırça ve boya gibi yardımcı gereçleri kullanarak tablo yapması gibidir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Ajanınıza hangi aracı ne zaman kullanacağını söyleyen talimatlar (system prompt) ekleyin. Aracın giriş ve çıkış formatını net bir şekilde tanımlayın ki model hata yapmasın.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Ajan tabanlı sistemlerde, otomasyon araçlarında ve RAG sistemlerinde kullanılır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Plugins ile benzerdir; araçlar genellikle kod seviyesinde entegre edilen fonksiyonlardır, eklentiler ise daha geniş kapsamlı özellikler sunar.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Yapay zekâ kendi kendine araç seçebilir mi?</p><p class="dict-faq-a">Evet, gelişmiş ajanlar hangi aracın hangi sorunu çözeceğine karar verebilir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Kendi aracımı nasıl yaparım?</p><p class="dict-faq-a">Bir fonksiyon yazıp bunu ajana bir API veya kütüphane üzerinden tanımlayarak yapabilirsiniz.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/mcp/">MCP</a><a href="/dictionary/ai-agent/">AI Agent</a><a href="/dictionary/plugin/">Plugins</a><a href="/dictionary/sdk/">SDK</a></div></section>
+<p class="disc-lead">Tools (araçlar), yapay zekâ modellerinin ve yazılımların harici fonksiyonları, API'leri veya veritabanlarını çağırarak dünyayla etkileşime girmesini sağlayan yeteneklerdir.</p>
+<section class="disc-sec"><h2>Tanım ve LLM dünyasındaki rolü</h2><p>Yapay zekâ ve büyük dil modellerinde (LLM) &#x27;Tools&#x27; (Araçlar), modelin kendi iç ağırlıklarıyla sınırlı kalmayıp gerçek dünyadaki sistemlerle eyleme geçmesini sağlayan fonksiyonel köprülerdir. Normalde bir dil modeli sadece metin üretebilir; ancak bir &#x27;tool&#x27; verildiğinde internette güncel arama yapabilir, Python kodu çalıştırabilir, veritabanına sorgu atabilir veya bir GitHub reposunda issue açabilir. Bu dönüşüm, LLM&#x27;leri pasif metin üreteçlerinden otonom ajanlara (AI Agent) dönüştürür.</p></section><div class="dict-analogy">Bir usta düşünün: Teorik bilgisi ne kadar geniş olursa olsun, çekiç, tornavida veya metre gibi el aletleri (tools) olmadan bir masayı tamir edemez. Yapay zekâ için araçlar da modelin eline verilen bu dijital alet çantasıdır.</div><section class="disc-sec"><h2>Nasıl çalışır? (Function Calling)</h2><p>1. <strong>Araç Tanımı:</strong> Geliştirici, modelin kullanabileceği fonksiyonu JSON Schema formatında (adı, açıklaması ve parametreleri) modele tanıtır.<br>2. <strong>Kullanım Kararı:</strong> Kullanıcının sorusunu analiz eden model, iç mantığıyla bu soruyu doğrudan yanıtlamak yerine bir aracı çağırması gerektiğine karar verir.<br>3. <strong>Fonksiyon Çağrısı:</strong> Model doğrudan kodu çalıştırmaz; çalıştırılması gereken aracın adını ve argümanlarını JSON olarak geri döner.<br>4. <strong>Yürütme ve Yanıt:</strong> Sunucu veya istemci kodu çalıştırır, sonucu modele geri iletir ve model nihai yanıtı kullanıcıya sunar.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Ajan mimarilerinde (AI Agent), model bağlam protokollerinde (MCP), kodlama asistasnlarında (Cursor, Antigravity) ve RAG (Retrieval-Augmented Generation) sistemlerinde kullanılır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>- <strong>Tool vs Plugin:</strong> Bir tool genellikle tek bir amaca hizmet eden spesifik bir fonksiyon çağrısıdır (örneğin hava durumu sorgulama); plugin ise birden çok aracı ve kullanıcı arayüzünü içinde barındıran daha geniş bir eklenti paketidir.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Tools ne demek ve yapay zekâda ne anlama gelir?</p><p class="dict-faq-a">İngilizce &#x27;araçlar / gereçler&#x27; anlamına gelir. Yazılım ve yapay zekâda modelin salt metin üretmenin ötesine geçerek dünyayla etkileşime girdiği fonksiyon ve API çağrılarını ifade eder.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Yapay zekâ modelleri aracı rastgele mi çağırır?</p><p class="dict-faq-a">Hayır, modelin sistem yönergesine ve kullanıcının prompt&#x27;una göre en uygun aracı seçebilmesi için araç açıklamalarının (tool description) son derece net ve açık yazılması gerekir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Model Context Protocol (MCP) araç kullanımını nasıl değiştirdi?</p><p class="dict-faq-a">Anthropic tarafından geliştirilen MCP, her yapay zekâ modeli için ayrı ayrı araç entegrasyonu yazma zorunluluğunu kaldırarak; araçların ve veri kaynaklarının evrensel bir protokolle tüm yapay zekâ sistemlerine bağlanmasını sağladı.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/mcp/">MCP</a><a href="/dictionary/ai-agent/">AI Agent</a><a href="/dictionary/plugin/">Plugins</a><a href="/dictionary/sdk/">SDK</a></div></section>
 <section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/ecc/">ECC</a><a href="/discover/system-prompts-and-models-of-ai-tools/">System Prompts and Models of AI Tools</a><a href="/discover/claude-plugins-official/">Claude Plugins Official</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>

@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Memory Management nedir? · TreScout Sözlük</title>
-<meta name="description" content="Bilgisayarın geçici hafızasının verimli kullanılması için verilerin düzenli şekilde yerleştirilmesi ve temizlenmesidir.">
+<title>Memory Management nedir, ne demek? Bellek yönetimi rehberi · TreScout Sözlük</title>
+<meta name="description" content="Memory management nedir, ne demek ve nasıl çalışır? Bellek yönetimi, RAM tahsisi, Garbage Collection, stack-heap farkı ve bellek sızıntıları rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/memory-management/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/memory-management/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/memory-management/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/memory-management/">
 <link rel="canonical" href="https://trescout.com/dictionary/memory-management/">
-<meta property="og:title" content="Memory Management nedir?">
-<meta property="og:description" content="Bilgisayarın geçici hafızasının verimli kullanılması için verilerin düzenli şekilde yerleştirilmesi ve temizlenmesidir.">
+<meta property="og:title" content="Memory Management nedir, ne demek? Bellek yönetimi rehberi">
+<meta property="og:description" content="Memory management nedir, ne demek ve nasıl çalışır? Bellek yönetimi, RAM tahsisi, Garbage Collection, stack-heap farkı ve bellek sızıntıları rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/memory-management/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,15 +24,16 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Memory Management nedir?">
+<meta name="twitter:title" content="Memory Management nedir, ne demek? Bellek yönetimi rehberi">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/memory-management.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Memory Management",
+  "alternateName": "Bellek Yönetimi",
   "inLanguage": "tr",
-  "description": "Bilgisayarların geçici hafızası olan RAM, sınırlı bir alana sahiptir. Memory management, hangi verinin ne kadar süre hafızada kalacağına ve işi bitince nasıl silineceğine karar veren bir sistem yönetimidir.",
+  "description": "Memory Management (bellek yönetimi), bilgisayarın rastgele erişimli belleğinin (RAM) çalışan programlar arasında tahsis edilmesi, izlenmesi ve temizlenmesi sürecidir.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -48,18 +49,26 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Hafıza yönetimi kötü olursa ne olur?",
+      "name": "Memory management ne demek ve Türkçe karşılığı nedir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Bilgisayar yavaşlar, donar veya programlar hata verip kapanabilir."
+        "text": "Türkçede 'bellek yönetimi' olarak ifade edilir. Yazılımların RAM kaynaklarını verimli kullanması için geliştirilen kontrol mekanizmalarıdır."
       }
     },
     {
       "@type": "Question",
-      "name": "Bunu ben mi yapmalıyım?",
+      "name": "Bellek sızıntısı (Memory Leak) nedir ve nasıl önlenir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Modern dillerin çoğu bunu otomatik yapar, ancak sistem seviyesinde yazılım geliştiriyorsanız manuel kontrol gerekebilir."
+        "text": "Programın artık ihtiyaç duymadığı bellek alanlarını serbest bırakmaması sonucu RAM tüketiminin sürekli artması durumudur. Profiling araçları ve referans döngülerini temizleyerek önlenir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Rust dili neden Garbage Collector olmadan bellek güvenliği sunar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rust, 'Ownership ve Borrowing' (sahiplik ve ödünç alma) kurallarını derleme anında doğrular; böylece çalışma zamanında bir çöp toplayıcı çalıştırmadan bellek güvenliği ve maksimum hız sağlar."
       }
     }
   ]
@@ -72,9 +81,9 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Bilgisayarın geçici hafızasının verimli kullanılması için verilerin düzenli şekilde yerleştirilmesi ve temizlenmesidir.">
+<meta name="twitter:description" content="Memory management nedir, ne demek ve nasıl çalışır? Bellek yönetimi, RAM tahsisi, Garbage Collection, stack-heap farkı ve bellek sızıntıları rehberi.">
 
-<meta property="og:image:alt" content="Memory Management nedir?">
+<meta property="og:image:alt" content="Memory Management nedir, ne demek?">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
@@ -82,11 +91,11 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-06-07">Son güncelleme: 7 Haziran 2026</time></div>
-<h1 class="disc-title">Memory Management <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
+<h1 class="disc-title">Memory Management <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">Bilgisayarın geçici hafızasının verimli kullanılması için verilerin düzenli şekilde yerleştirilmesi ve temizlenmesidir.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Bilgisayarların geçici hafızası olan RAM, sınırlı bir alana sahiptir. Memory management, hangi verinin ne kadar süre hafızada kalacağına ve işi bitince nasıl silineceğine karar veren bir sistem yönetimidir.</p></section><div class="dict-analogy">Bir kütüphanecinin, rafların dolup taşmaması için okunan kitapları raflardan alıp depoya kaldırması veya geri dönüşüme göndermesi gibidir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Programlar çalışırken ihtiyaç duydukları verileri hafızaya yazar. Sistem, bu verileri takip eder ve artık ihtiyaç duyulmayanları temizleyerek yeni veriler için yer açar.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>İşletim sistemleri, oyun motorları ve yüksek performans gerektiren tüm yazılımlarda arka planda çalışır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Depolama (hard disk) ile karıştırılmamalıdır; bu süreç sadece geçici hafıza (RAM) ile ilgilidir.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Hafıza yönetimi kötü olursa ne olur?</p><p class="dict-faq-a">Bilgisayar yavaşlar, donar veya programlar hata verip kapanabilir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Bunu ben mi yapmalıyım?</p><p class="dict-faq-a">Modern dillerin çoğu bunu otomatik yapar, ancak sistem seviyesinde yazılım geliştiriyorsanız manuel kontrol gerekebilir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/state-management/">State Management</a><a href="/dictionary/memory-engine/">Memory Engine</a></div></section>
+<p class="disc-lead">Memory Management (bellek yönetimi), bilgisayarın rastgele erişimli belleğinin (RAM) çalışan programlar arasında tahsis edilmesi ve temizlenmesi sürecidir.</p>
+<section class="disc-sec"><h2>Tanım ve bellek mimarisi</h2><p>Bellek Yönetimi (Memory Management), bir yazılımın veya işletim sisteminin geçici bellek (RAM) kaynaklarını kontrol etme metodolojisidir. Bir program başlatıldığında veya değişken tanımlandığında işletim sistemi bellekte yer ayırır (allocation). İlgili verilerle iş bittiğinde ise bu alanın sisteme iade edilmesi (deallocation) gerekir. Doğru yönetilmeyen bellek, sızıntılara (memory leak) ve uygulamanın çökmesine yol açar.</p></section><div class="dict-analogy">Büyük bir otoparkın vale görevlisi gibidir: Gelen her arabaya (çalışan fonksiyona veya değişkene) uygun boyutta bir park yeri tahsis eder; araba işini bitirip ayrıldığında ise o yeri temizleyip yeni gelen araçlara hazır hale getirir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>1. <strong>Stack ve Heap Ayrımı:</strong><br>- <strong>Stack (Yığın):</strong> Boyutu derleme anında bilinen yerel değişkenlerin tutulduğu, son giren ilk çıkar (LIFO) mantığıyla çalışan son derece hızlı bellek alanıdır.<br>- <strong>Heap (Öbek):</strong> Dinamik olarak çalışma zamanında (runtime) tahsis edilen, daha büyük ancak yönetimi daha karmaşık olan bellek havuzudur.<br>2. <strong>Otomatik Çöp Toplama (Garbage Collection):</strong> JavaScript, Python, Go ve Java gibi modern dillerde artık referans verilmeyen nesneler arka plandaki GC motoru tarafından periyodik olarak taranır ve bellekten silinir.<br>3. <strong>Manuel Bellek Yönetimi:</strong> C ve C++ gibi sistem dillerinde geliştirici <code>malloc</code>/<code>free</code> ile belleği bizzat yönetirken; Rust, sahiplik (ownership) modeliyle derleme anında bellek güvenliğini sağlar.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>İşletim sistemi çekirdeklerinde, oyun motorlarında (Unity, Unreal Engine), veritabanlarında ve yüksek performanslı arka uç mimarilerinde performansı belirleyen ana etkendir.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Kalıcı depolama (SSD / Sabit Disk) ile karıştırılmamalıdır; bellek yönetimi yalnızca bilgisayar açıkken çalışan geçici RAM belleğin optimizasyonunu kapsar.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Memory management ne demek ve Türkçe karşılığı nedir?</p><p class="dict-faq-a">Türkçede &#x27;bellek yönetimi&#x27; olarak ifade edilir. Yazılımların RAM kaynaklarını verimli kullanması için geliştirilen kontrol mekanizmalarıdır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Bellek sızıntısı (Memory Leak) nedir ve nasıl önlenir?</p><p class="dict-faq-a">Programın artık ihtiyaç duymadığı bellek alanlarını serbest bırakmaması sonucu RAM tüketiminin sürekli artması durumudur. Profiling araçları ve referans döngülerini temizleyerek önlenir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Rust dili neden Garbage Collector olmadan bellek güvenliği sunar?</p><p class="dict-faq-a">Rust, &#x27;Ownership ve Borrowing&#x27; (sahiplik ve ödünç alma) kurallarını derleme anında doğrular; böylece çalışma zamanında bir çöp toplayıcı çalıştırmadan bellek güvenliği ve maksimum hız sağlar.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/state-management/">State Management</a><a href="/dictionary/memory-engine/">Memory Engine</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

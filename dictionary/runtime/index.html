@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Runtime nedir? · TreScout Sözlük</title>
-<meta name="description" content="Bir yazılımın bilgisayarda çalıştırıldığı an ve bu süreçte ihtiyaç duyduğu ortamdır.">
+<title>Runtime ne demek, nedir? Çalışma zamanı ve yürütme ortamı rehberi · TreScout Sözlük</title>
+<meta name="description" content="Runtime ne demek, nedir ve compile-time ile farkı nedir? Çalışma zamanı yürütme ortamları (Node.js, Bun, JVM), runtime hataları ve bellek yönetimi rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/runtime/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/runtime/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/runtime/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/runtime/">
 <link rel="canonical" href="https://trescout.com/dictionary/runtime/">
-<meta property="og:title" content="Runtime nedir?">
-<meta property="og:description" content="Bir yazılımın bilgisayarda çalıştırıldığı an ve bu süreçte ihtiyaç duyduğu ortamdır.">
+<meta property="og:title" content="Runtime ne demek, nedir? Çalışma zamanı ve yürütme ortamı rehberi">
+<meta property="og:description" content="Runtime ne demek, nedir ve compile-time ile farkı nedir? Çalışma zamanı yürütme ortamları (Node.js, Bun, JVM), runtime hataları ve bellek yönetimi rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/runtime/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,15 +24,16 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Runtime nedir?">
+<meta name="twitter:title" content="Runtime ne demek, nedir? Çalışma zamanı ve yürütme ortamı rehberi">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/runtime.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Runtime",
+  "alternateName": "Çalışma Zamanı",
   "inLanguage": "tr",
-  "description": "Kodun yazıldığı zaman ile çalıştığı zaman farklıdır. Runtime, kodun artık bir dosya olmaktan çıkıp bilgisayarın işlemcisinde ve hafızasında aktif olarak yaşadığı süreci ifade eder.",
+  "description": "Runtime (çalışma zamanı), bir programın derleme evresinden sonra bilgisayar işlemcisinde ve belleğinde fiilen çalıştırıldığı anı ve bu süreci yöneten yürütme ortamını ifade eder.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -48,18 +49,26 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Runtime hatası ne demek?",
+      "name": "Runtime ne demek ve Türkçe karşılığı nedir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Programın çalışırken beklenmedik bir durumla karşılaşıp çökmesi veya hata vermesidir."
+        "text": "Türkçede 'çalışma zamanı' veya 'çalışma ortamı' olarak kullanılır. Kodun aktif olarak işlem gördüğü süreci temsil eder."
       }
     },
     {
       "@type": "Question",
-      "name": "Her yazılımın bir runtime'ı var mı?",
+      "name": "Runtime Error (Çalışma Zamanı Hatası) ne anlama gelir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Evet, çalışabilen her yazılımın bir çalışma ortamına ihtiyacı vardır."
+        "text": "Derleme aşamasında fark edilmeyen ancak program çalışırken beklenmedik bir girdi, sıfıra bölme veya bellek yetersizliği gibi nedenlerle programın aniden durmasına (çökmesine) yol açan hatalardır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "JavaScript runtime'ları (Node.js, Bun, Deno) arasındaki fark nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hepsi JavaScript kodunu çalıştırmak için V8 veya JavaScriptCore motorunu kullanır; ancak dosya sistemi erişimi, paket yöneticisi hızı ve TypeScript desteği gibi alanlarda farklı performans ve mimari optimizasyonları sunar."
       }
     }
   ]
@@ -72,9 +81,9 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Bir yazılımın bilgisayarda çalıştırıldığı an ve bu süreçte ihtiyaç duyduğu ortamdır.">
+<meta name="twitter:description" content="Runtime ne demek, nedir ve compile-time ile farkı nedir? Çalışma zamanı yürütme ortamları (Node.js, Bun, JVM), runtime hataları ve bellek yönetimi rehberi.">
 
-<meta property="og:image:alt" content="Runtime nedir?">
+<meta property="og:image:alt" content="Runtime ne demek, nedir?">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
@@ -82,11 +91,11 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-06-07">Son güncelleme: 7 Haziran 2026</time></div>
-<h1 class="disc-title">Runtime <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
+<h1 class="disc-title">Runtime <span class="disc-accent">ne demek, nedir?</span></h1>
 
-<p class="disc-lead">Bir yazılımın bilgisayarda çalıştırıldığı an ve bu süreçte ihtiyaç duyduğu ortamdır.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Kodun yazıldığı zaman ile çalıştığı zaman farklıdır. Runtime, kodun artık bir dosya olmaktan çıkıp bilgisayarın işlemcisinde ve hafızasında aktif olarak yaşadığı süreci ifade eder.</p></section><div class="dict-analogy">Bir yemeğin tarifinin kağıtta yazılı olması &#x27;yazılım&#x27;, o yemeğin mutfakta pişirilip servis edilmesi ise &#x27;runtime&#x27;dır.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Program başlatıldığında, bilgisayar gerekli kaynakları ayırır ve kodları satır satır işleyerek kullanıcının etkileşimine hazır hale getirir.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Yazılım geliştirme ve hata ayıklama süreçlerinde, programın canlı performansını izlemek için kullanılır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Compile-time ile karıştırılır; compile-time hazırlık, runtime ise icraattır.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Runtime hatası ne demek?</p><p class="dict-faq-a">Programın çalışırken beklenmedik bir durumla karşılaşıp çökmesi veya hata vermesidir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Her yazılımın bir runtime&#x27;ı var mı?</p><p class="dict-faq-a">Evet, çalışabilen her yazılımın bir çalışma ortamına ihtiyacı vardır.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/compile-time/">Compile-time</a><a href="/dictionary/state-management/">State Management</a><a href="/dictionary/api/">API</a></div></section>
+<p class="disc-lead">Runtime (çalışma zamanı), bir programın derleme evresinden sonra bilgisayar işlemcisinde ve belleğinde fiilen çalıştırıldığı anı ve bu süreci yöneten yürütme ortamını ifade eder.</p>
+<section class="disc-sec"><h2>Tanım ve çalışma zamanı ortamları</h2><p>Runtime kavramı yazılımda iki temel anlamı barındırır:<br>1. <strong>Zaman Dilimi Olarak (Runtime):</strong> Kodun yazıldığı (authoring) ve makine diline çevrildiği (compile-time) aşamadan sonra; kullanıcının programı başlattığı ve programın donanım kaynaklarını tüketerek çalıştığı &#x27;çalışma zamanı&#x27; evresidir.<br>2. <strong>Yürütme Ortamı Olarak (Runtime Environment):</strong> Yazılan kodun işletim sistemi üzerinde doğrudan çalışabilmesi için gereken motor, kütüphaneler ve yardımcı katmandır. Örneğin tarayıcı dışındaki JavaScript için Node.js, Deno veya Bun; Java için JVM (Java Virtual Machine); C# için .NET CLR birer runtime&#x27;dır.</p></section><div class="dict-analogy">Bir yemek tarifinin kağıda dökülüp kontrol edilmesi derleme (compile-time) ise; o yemeğin ocakta fiilen pişmesi, kokusunun yayılması ve servis edilmesi çalışma zamanıdır (runtime). Mutfağın kendisi ve kullanılan aletler ise yürütme ortamıdır (runtime environment).</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Program başlatıldığında işletim sistemi bellekte (RAM) yer açar, runtime motoru kod parçacıklarını yürütür, fonksiyon çağrılarını (call stack) yönetir ve veri akışını koordine eder.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Tüm yazılım geliştirme, hata ayıklama (debugging), performans izleme (APM) ve konteyner (Docker, Kubernetes) ortamlarında temel kavramdır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>- <strong>Runtime vs Compile-time:</strong> Compile-time derleme anıdır; sözdizimi ve tip hataları bu aşamada yakalanır. Runtime ise programın çalıştığı andır; mantıksal hatalar veya bellek sorunları bu aşamada ortaya çıkar.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Runtime ne demek ve Türkçe karşılığı nedir?</p><p class="dict-faq-a">Türkçede &#x27;çalışma zamanı&#x27; veya &#x27;çalışma ortamı&#x27; olarak kullanılır. Kodun aktif olarak işlem gördüğü süreci temsil eder.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Runtime Error (Çalışma Zamanı Hatası) ne anlama gelir?</p><p class="dict-faq-a">Derleme aşamasında fark edilmeyen ancak program çalışırken beklenmedik bir girdi, sıfıra bölme veya bellek yetersizliği gibi nedenlerle programın aniden durmasına (çökmesine) yol açan hatalardır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">JavaScript runtime&#x27;ları (Node.js, Bun, Deno) arasındaki fark nedir?</p><p class="dict-faq-a">Hepsi JavaScript kodunu çalıştırmak için V8 veya JavaScriptCore motorunu kullanır; ancak dosya sistemi erişimi, paket yöneticisi hızı ve TypeScript desteği gibi alanlarda farklı performans ve mimari optimizasyonları sunar.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/compile-time/">Compile-time</a><a href="/dictionary/state-management/">State Management</a><a href="/dictionary/api/">API</a></div></section>
 <section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/andrej-karpathy-skills/">Andrej Karpathy Skills</a><a href="/discover/node/">Node</a><a href="/discover/deno/">Deno</a><a href="/discover/bun/">BUN</a><a href="/discover/svelte/">Svelte</a><a href="/discover/onnxruntime/">Onnxruntime</a><a href="/discover/flue/">Flue</a><a href="/discover/switchyard/">Switchyard</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>

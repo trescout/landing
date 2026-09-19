@@ -1,32 +1,37 @@
-# Runtime nedir?
+# Runtime ne demek, nedir?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-06-07
+**Son güncelleme:** 2026-09-19
 
-Bir yazılımın bilgisayarda çalıştırıldığı an ve bu süreçte ihtiyaç duyduğu ortamdır.
+Runtime (çalışma zamanı), bir programın derleme evresinden sonra bilgisayar işlemcisinde ve belleğinde fiilen çalıştırıldığı anı ve bu süreci yöneten yürütme ortamını ifade eder.
 
-## Tanım
-Kodun yazıldığı zaman ile çalıştığı zaman farklıdır. Runtime, kodun artık bir dosya olmaktan çıkıp bilgisayarın işlemcisinde ve hafızasında aktif olarak yaşadığı süreci ifade eder.
+## Tanım ve çalışma zamanı ortamları
+Runtime kavramı yazılımda iki temel anlamı barındırır:
+1. **Zaman Dilimi Olarak (Runtime):** Kodun yazıldığı (authoring) ve makine diline çevrildiği (compile-time) aşamadan sonra; kullanıcının programı başlattığı ve programın donanım kaynaklarını tüketerek çalıştığı 'çalışma zamanı' evresidir.
+2. **Yürütme Ortamı Olarak (Runtime Environment):** Yazılan kodun işletim sistemi üzerinde doğrudan çalışabilmesi için gereken motor, kütüphaneler ve yardımcı katmandır. Örneğin tarayıcı dışındaki JavaScript için Node.js, Deno veya Bun; Java için JVM (Java Virtual Machine); C# için .NET CLR birer runtime'dır.
 
 ## Bir benzetmeyle
-Bir yemeğin tarifinin kağıtta yazılı olması 'yazılım', o yemeğin mutfakta pişirilip servis edilmesi ise 'runtime'dır.
+Bir yemek tarifinin kağıda dökülüp kontrol edilmesi derleme (compile-time) ise; o yemeğin ocakta fiilen pişmesi, kokusunun yayılması ve servis edilmesi çalışma zamanıdır (runtime). Mutfağın kendisi ve kullanılan aletler ise yürütme ortamıdır (runtime environment).
 
 ## Nasıl çalışır?
-Program başlatıldığında, bilgisayar gerekli kaynakları ayırır ve kodları satır satır işleyerek kullanıcının etkileşimine hazır hale getirir.
+Program başlatıldığında işletim sistemi bellekte (RAM) yer açar, runtime motoru kod parçacıklarını yürütür, fonksiyon çağrılarını (call stack) yönetir ve veri akışını koordine eder.
 
 ## Nerede kullanılır?
-Yazılım geliştirme ve hata ayıklama süreçlerinde, programın canlı performansını izlemek için kullanılır.
+Tüm yazılım geliştirme, hata ayıklama (debugging), performans izleme (APM) ve konteyner (Docker, Kubernetes) ortamlarında temel kavramdır.
 
 ## Sık karıştırılanlar
-Compile-time ile karıştırılır; compile-time hazırlık, runtime ise icraattır.
+- **Runtime vs Compile-time:** Compile-time derleme anıdır; sözdizimi ve tip hataları bu aşamada yakalanır. Runtime ise programın çalıştığı andır; mantıksal hatalar veya bellek sorunları bu aşamada ortaya çıkar.
 
 ## Sıkça sorulanlar
 
-**Runtime hatası ne demek?**  
-Programın çalışırken beklenmedik bir durumla karşılaşıp çökmesi veya hata vermesidir.
+**Runtime ne demek ve Türkçe karşılığı nedir?**  
+Türkçede 'çalışma zamanı' veya 'çalışma ortamı' olarak kullanılır. Kodun aktif olarak işlem gördüğü süreci temsil eder.
 
-**Her yazılımın bir runtime'ı var mı?**  
-Evet, çalışabilen her yazılımın bir çalışma ortamına ihtiyacı vardır.
+**Runtime Error (Çalışma Zamanı Hatası) ne anlama gelir?**  
+Derleme aşamasında fark edilmeyen ancak program çalışırken beklenmedik bir girdi, sıfıra bölme veya bellek yetersizliği gibi nedenlerle programın aniden durmasına (çökmesine) yol açan hatalardır.
+
+**JavaScript runtime'ları (Node.js, Bun, Deno) arasındaki fark nedir?**  
+Hepsi JavaScript kodunu çalıştırmak için V8 veya JavaScriptCore motorunu kullanır; ancak dosya sistemi erişimi, paket yöneticisi hızı ve TypeScript desteği gibi alanlarda farklı performans ve mimari optimizasyonları sunar.
 
 ## İlgili terimler
 - [Compile-time](/dictionary/compile-time/)
