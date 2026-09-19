@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Speaker Diarization nedir? · TreScout Sözlük</title>
-<meta name="description" content="Ses kaydındaki konuşmaların kimin tarafından yapıldığını ayırt ederek metin üzerinde konuşmacıları etiketleme sürecidir.">
+<title>Speaker Diarization Nedir, Ne Demek? Konuşmacı Ayrımı Rehberi · TreScout</title>
+<meta name="description" content="Speaker diarization nedir, tanımı nasıldır? Ses kayıtlarında 'kim ne zaman konuştu' ayrımı, pyannote.audio, Whisper ve transkripsiyon rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/speaker-diarization/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/speaker-diarization/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/speaker-diarization/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/speaker-diarization/">
 <link rel="canonical" href="https://trescout.com/dictionary/speaker-diarization/">
-<meta property="og:title" content="Speaker Diarization nedir?">
-<meta property="og:description" content="Ses kaydındaki konuşmaların kimin tarafından yapıldığını ayırt ederek metin üzerinde konuşmacıları etiketleme sürecidir.">
+<meta property="og:title" content="Speaker Diarization Nedir, Ne Demek? Konuşmacı Ayrımı Rehberi · TreScout">
+<meta property="og:description" content="Speaker diarization nedir, tanımı nasıldır? Ses kayıtlarında 'kim ne zaman konuştu' ayrımı, pyannote.audio, Whisper ve transkripsiyon rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/speaker-diarization/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,8 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Speaker Diarization nedir?">
+<meta name="twitter:title" content="Speaker Diarization Nedir, Ne Demek? Konuşmacı Ayrımı Rehberi · TreScout">
+<meta name="twitter:description" content="Speaker diarization nedir, tanımı nasıldır? Ses kayıtlarında 'kim ne zaman konuştu' ayrımı, pyannote.audio, Whisper ve transkripsiyon rehberi.">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/speaker-diarization.webp">
 <script type="application/ld+json">
 {
@@ -32,7 +33,7 @@
   "@type": "DefinedTerm",
   "name": "Speaker Diarization",
   "inLanguage": "tr",
-  "description": "Speaker Diarization, 'kim konuştu?' sorusuna yanıt verir. Bir toplantı kaydında birden fazla kişi varsa, sistem ses tonundaki farklılıkları analiz ederek konuşmaları 'Kişi 1', 'Kişi 2' gibi ayırır.",
+  "description": "Speaker Diarization (konuşmacı ayrımı), çok katılımcılı bir ses kaydında ses dalgalarını analiz ederek kimin ne zaman konuştuğunu tespit eden ve konuşma dilimlerini konuşmacılara göre etiketleyen yapay zekâ teknolojisidir.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -48,10 +49,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Konuşmacı isimlerini kendi mi bulur?",
+      "name": "Diarization definition (Diarization ne anlama gelir)?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Hayır, genellikle konuşmacıları ayırt eder (A kişisi, B kişisi). İsimleri sizin sisteme tanıtmanız gerekir."
+        "text": "Çok katılımcılı ses kayıtlarında ses dalgalarını analiz ederek kim ne zaman konuştu ayrımını yapan ve konuşmacı geçişlerini zaman damgasıyla etiketleyen yapay zekâ sürecidir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Sistem konuşmacıların gerçek isimlerini kendi bulabilir mi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hayır, önceden ses örneği tanıtılmamışsa sistem konuşmacıları Konuşmacı 1, Konuşmacı 2 şeklinde ayırt eder; isimleri kullanıcının veya entegre takvim sisteminin eşleştirmesi gerekir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Whisper modeli tek başına diarization yapabilir mi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hayır, resmi Whisper modelleri yalnızca transkripsiyon yapar; konuşmacı ayrımı için pyannote.audio gibi özel diarization modelleriyle birlikte kullanılır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Diarization sistemlerinin en zorlandığı durum nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Birden fazla kişinin aynı anda konuştuğu (overlapping speech), sözlerin birbirine karıştığı veya yankılı ortamlarda doğru ayrım yapmaktır."
       }
     }
   ]
@@ -64,9 +89,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Ses kaydındaki konuşmaların kimin tarafından yapıldığını ayırt ederek metin üzerinde konuşmacıları etiketleme sürecidir.">
-
-<meta property="og:image:alt" content="Speaker Diarization nedir?">
+<meta property="og:image:alt" content="Speaker Diarization nedir, ne demek?">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
@@ -74,11 +97,11 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Yapay Zekâ</span><time class="dict-time" datetime="2026-07-05">Son güncelleme: 5 Temmuz 2026</time></div>
-<h1 class="disc-title">Speaker Diarization <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Yapay Zekâ</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
+<h1 class="disc-title">Speaker Diarization <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">Ses kaydındaki konuşmaların kimin tarafından yapıldığını ayırt ederek metin üzerinde konuşmacıları etiketleme sürecidir.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Speaker Diarization, &#x27;kim konuştu?&#x27; sorusuna yanıt verir. Bir toplantı kaydında birden fazla kişi varsa, sistem ses tonundaki farklılıkları analiz ederek konuşmaları &#x27;Kişi 1&#x27;, &#x27;Kişi 2&#x27; gibi ayırır.</p></section><div class="dict-analogy">Bir tiyatro oyununda perde kapalıyken kimin konuştuğunu sesinden tanıyan bir seyirci gibidir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>AI, sesin tınısını ve karakteristik özelliklerini öğrenir. Kayıt boyunca bu ses imzalarını takip ederek metin içinde konuşmacı geçişlerini işaretler.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Podcast analizlerinde, mahkeme kayıtlarında ve çok katılımcılı toplantı özetlerinde kullanılır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Sadece sesi yazıya döken Transcription ile karıştırılmamalıdır; bu işlem metne ek olarak &#x27;kimin&#x27; konuştuğunu da ekler.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Konuşmacı isimlerini kendi mi bulur?</p><p class="dict-faq-a">Hayır, genellikle konuşmacıları ayırt eder (A kişisi, B kişisi). İsimleri sizin sisteme tanıtmanız gerekir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/transcription/">Transcription</a><a href="/dictionary/speech-to-text/">Speech-to-Text</a><a href="/dictionary/nlp/">NLP</a></div></section>
+<p class="disc-lead">Speaker Diarization (konuşmacı ayrımı veya günlükleme), çok katılımcılı bir ses kaydında ses dalgalarını analiz ederek &quot;kim, ne zaman konuştu?&quot; sorusunu yanıtlayan ve konuşma dilimlerini konuşmacı kimliklerine göre etiketleyen yapay zekâ teknolojisidir.</p>
+<section class="disc-sec"><h2>Tanım ve Kavramın Kökeni (Diarization Definition)</h2><p>Kelime kökeni Fransızca &quot;günlük tutmak&quot; (diariser) eyleminden gelen <strong>Diarization</strong>, ses mühendisliğinde ses akışını zamana bağlı segmentlere bölerek her bir parçayı belirli bir konuşmacı kimliğiyle (örneğin Konuşmacı 1, Konuşmacı 2) eşleştirme işlemidir. Konuşmanın içeriğinden bağımsız olarak, doğrudan sesin biyometrik tınısı ve frekans özellikleri üzerinden kimlik ayrımı yapar.</p></section><div class="dict-analogy">Bir tiyatro oyununu kapalı bir perdenin arkasından dinleyen bir seyircinin; sahnedeki oyuncuları görmeden sadece ses tonlarından ve konuşma ritimlerinden &quot;Şu anda doktor konuşuyor, şimdi hasta yanıt verdi&quot; diyerek diyalogları metin üzerinde konuşmacılara ayırmasına benzer.</div><section class="disc-sec"><h2>Nasıl Çalışır? (Adım Adım Diarizasyon)</h2><p><strong>1. Ses Aktivitesi Algılama (VAD - Voice Activity Detection):</strong> Kayıttaki müzik, arka plan gürültüsü ve nefes boşlukları elenerek yalnızca insan sesi içeren bölümler ayıklanır.</p><p><strong>2. Segmentasyon (Bölümleme):</strong> Ses sinyali küçük, homojen zaman pencerelerine bölünür.</p><p><strong>3. Konuşmacı Vektörü Çıkarma (Speaker Embeddings):</strong> Derin öğrenme modelleri her bir ses parçasından kişinin ses izini temsil eden çok boyutlu matematiksel vektörler (x-vectors / d-vectors) üretir.</p><p><strong>4. Kümeleme (Clustering Algoritmaları):</strong> Benzer akustik vektörler gruplanır ve her gruba bir konuşmacı etiketi atanır.</p></section><section class="disc-sec"><h2>Nerede ve Hangi Alanlarda Kullanılır?</h2><p><strong>Akıllı Toplantı Asistanları:</strong> Zoom, Google Meet veya Teams toplantılarında kimin hangi kararı veya görevi üstlendiğini çıkaran yapay zekâ özet araçları (Otter.ai, Meetily).<br><strong>Çağrı Merkezleri:</strong> Müşteri ile temsilci arasındaki konuşmaları ayrıştırarak duygu analizi ve kalite denetimi yapma.<br><strong>Podcast ve Röportaj Transkripsiyonu:</strong> Çok katılımcılı ses ve video içeriklerinde otomatik profesyonel altyazı ve konuşmacı ayrımı oluşturma.<br><strong>Hukuk ve Adli Bilişim:</strong> Mahkeme kayıtları ve güvenlik sorgularında konuşmacı geçişlerini belgeleme.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Transcription (Ses-Metin Dönüşümü / STT) ile Speaker Diarization sıklıkla karıştırılır. Klasik bir Speech-to-Text motoru sadece &quot;ne söylendiğini&quot; metne döker ancak kimin söylediğini ayıramaz. Diarization ise &quot;kimin söylediğini&quot; bulur. Örneğin OpenAI Whisper saf transkripsiyon yaparken; <code>pyannote.audio</code> veya <code>WhisperX</code> gibi araçlarla birleştirildiğinde hem metin hem de konuşmacı kimlikleri eksiksiz elde edilir.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Diarization definition (Diarization ne anlama gelir)?</p><p class="dict-faq-a">Çok katılımcılı ses kayıtlarında ses dalgalarını analiz ederek kim ne zaman konuştu ayrımını yapan ve konuşmacı geçişlerini zaman damgasıyla etiketleyen yapay zekâ sürecidir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Sistem konuşmacıların gerçek isimlerini kendi bulabilir mi?</p><p class="dict-faq-a">Hayır, önceden ses örneği tanıtılmamışsa sistem konuşmacıları Konuşmacı 1, Konuşmacı 2 şeklinde ayırt eder; isimleri kullanıcının veya entegre takvim sisteminin eşleştirmesi gerekir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Whisper modeli tek başına diarization yapabilir mi?</p><p class="dict-faq-a">Hayır, resmi Whisper modelleri yalnızca transkripsiyon yapar; konuşmacı ayrımı için pyannote.audio gibi özel diarization modelleriyle birlikte kullanılır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Diarization sistemlerinin en zorlandığı durum nedir?</p><p class="dict-faq-a">Birden fazla kişinin aynı anda konuştuğu (overlapping speech), sözlerin birbirine karıştığı veya yankılı ortamlarda doğru ayrım yapmaktır.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/transcription/">Transcription</a><a href="/dictionary/speech-to-text/">Speech-to-Text</a><a href="/dictionary/nlp/">NLP</a></div></section>
 <section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/meetily/">Meetily</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
