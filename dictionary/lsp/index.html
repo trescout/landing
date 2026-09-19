@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>LSP nedir? · Language Server Protocol · TreScout Sözlük</title>
-<meta name="description" content="Kod yazarken editörünüze akıllı özellikler kazandıran standart bir iletişim protokolüdür.">
+<title>LSP nedir, ne demek? Language Server Protocol rehberi · TreScout Sözlük</title>
+<meta name="description" content="LSP nedir, ne demek ve kod editörlerinde nasıl çalışır? Language Server Protocol mimarisi, otomatik tamamlama, hata denetimi ve geliştirici araçları.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/lsp/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/lsp/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/lsp/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/lsp/">
 <link rel="canonical" href="https://trescout.com/dictionary/lsp/">
-<meta property="og:title" content="LSP nedir?">
-<meta property="og:description" content="Kod yazarken editörünüze akıllı özellikler kazandıran standart bir iletişim protokolüdür.">
+<meta property="og:title" content="LSP nedir, ne demek?">
+<meta property="og:description" content="LSP nedir, ne demek ve kod editörlerinde nasıl çalışır? Language Server Protocol mimarisi, otomatik tamamlama, hata denetimi ve geliştirici araçları.">
 <meta property="og:url" content="https://trescout.com/dictionary/lsp/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="LSP nedir?">
+<meta name="twitter:title" content="LSP nedir, ne demek?">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/lsp.webp">
 <script type="application/ld+json">
 {
@@ -33,7 +33,7 @@
   "name": "LSP",
   "alternateName": "Language Server Protocol",
   "inLanguage": "tr",
-  "description": "LSP, kod yazma araçları (editörler) ile kodun mantığını anlayan sunucular arasında bir köprüdür. Bu protokol sayesinde, kullandığınız editör; hata bulma, otomatik tamamlama ve tanımlara gitme gibi özellikleri tüm dillerde standart bir şekilde sunabilir. Editörünüzün hangi dili kullandığınızı bilmesine gerek kalmadan akıllı davranmasını sağlar.",
+  "description": "Language Server Protocol (LSP), kod yazma araçları (editörler) ile programlama dillerinin analiz sunucuları arasında akıllı tamamlama, hata bulma ve refactoring yetenekleri sağlayan açık protokoldür.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -49,18 +49,26 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Neden bu kadar önemli?",
+      "name": "LSP ne anlama gelir ve açılımı nedir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Her editör için ayrı ayrı özellik geliştirmek yerine, bir kez yazılan dil desteğinin her yerde çalışmasını sağlar."
+        "text": "Language Server Protocol (Dil Sunucusu Protokolü) anlamına gelir. Kod editörleri ile programlama dillerinin akıllı özelliklerini sağlayan arka plan motorları arasındaki köprüdür."
       }
     },
     {
       "@type": "Question",
-      "name": "Hızımı etkiler mi?",
+      "name": "LSP neden bu kadar önemlidir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Hayır, aksine hata yapmanızı engelleyerek kod yazma sürecinizi hızlandırır."
+        "text": "Her editör için ayrı ayrı dil desteği geliştirmek yerine, tek bir dil sunucusunun tüm editörlerde çalışmasını sağlayarak geliştirme ekosistemini standartlaştırır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Hız ve performansı nasıl etkiler?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ağır analiz işlemlerini editörden bağımsız bir arka plan işleminde yürüttüğü için editörün takılmasını veya yavaşlamasını engeller."
       }
     }
   ]
@@ -73,9 +81,9 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Kod yazarken editörünüze akıllı özellikler kazandıran standart bir iletişim protokolüdür.">
+<meta name="twitter:description" content="LSP nedir, ne demek ve kod editörlerinde nasıl çalışır? Language Server Protocol mimarisi, otomatik tamamlama, hata denetimi ve geliştirici araçları.">
 
-<meta property="og:image:alt" content="LSP nedir?">
+<meta property="og:image:alt" content="LSP nedir, ne demek?">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
@@ -83,11 +91,11 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-06-03">Son güncelleme: 3 Haziran 2026</time></div>
-<h1 class="disc-title">LSP <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
+<h1 class="disc-title">LSP <span class="disc-accent">nedir ve nasıl çalışır?</span></h1>
 <p class="dict-en">Language Server Protocol</p>
-<p class="disc-lead">Kod yazarken editörünüze akıllı özellikler kazandıran standart bir iletişim protokolüdür.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>LSP, kod yazma araçları (editörler) ile kodun mantığını anlayan sunucular arasında bir köprüdür. Bu protokol sayesinde, kullandığınız editör; hata bulma, otomatik tamamlama ve tanımlara gitme gibi özellikleri tüm dillerde standart bir şekilde sunabilir. Editörünüzün hangi dili kullandığınızı bilmesine gerek kalmadan akıllı davranmasını sağlar.</p></section><div class="dict-analogy">Bir tercümanın, farklı dilleri konuşan iki kişi arasında ortak bir dil kullanarak iletişimi sağlaması gibidir; editör ne derseniz deyin, tercüman sayesinde sizi anlar.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Editörünüz, yazdığınız kodu arka planda çalışan bir &#x27;dil sunucusuna&#x27; gönderir. Sunucu kodu analiz eder ve size öneriler sunar. Siz hiçbir şey hissetmeden kodunuzu daha hızlı ve hatasız yazarsınız.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>VS Code gibi modern kod editörlerinin arka planında sürekli çalışır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Sadece bir editör özelliği değil, editör ile dil arasındaki evrensel bir konuşma dilidir.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Neden bu kadar önemli?</p><p class="dict-faq-a">Her editör için ayrı ayrı özellik geliştirmek yerine, bir kez yazılan dil desteğinin her yerde çalışmasını sağlar.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Hızımı etkiler mi?</p><p class="dict-faq-a">Hayır, aksine hata yapmanızı engelleyerek kod yazma sürecinizi hızlandırır.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/agentic-coding-tool/">Agentic Coding Tool</a><a href="/dictionary/cli/">CLI</a></div></section>
+<p class="disc-lead">LSP (Language Server Protocol), kod editörleri ile programlama dillerinin analiz motorları arasında standart iletişim sağlayan açık protokoldür.</p>
+<section class="disc-sec"><h2>Tanım ve temel işlevi</h2><p>Language Server Protocol (LSP), Microsoft öncülüğünde geliştirilen ve günümüzde tüm modern geliştirici editörleri (VS Code, Neovim, Emacs vb.) tarafından desteklenen evrensel bir protokoldür. Her programlama dili için her editöre ayrı eklenti yazmak yerine; tek bir dil sunucusunun (Language Server) tüm editörlerle JSON-RPC tabanlı standart bir dille konuşmasını sağlar. Bu sayede otomatik kod tamamlama, tanıma gitme (go to definition), hata ayıklama ve refactoring yetenekleri standartlaşır.</p></section><div class="dict-analogy">Bir tercümanın, farklı dilleri konuşan iki kişi arasında ortak bir dil kullanarak iletişimi sağlaması gibidir; editör ne derseniz deyin, tercüman sayesinde sizi anlar.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Editörünüz, yazdığınız kodu arka planda çalışan bir dil sunucusuna gönderir. Sunucu kodu gerçek zamanlı analiz eder, sözdizimi hatalarını belirler ve önerileri editöre geri iletir. Bu ayrım sayesinde editör arayüzü asla donmaz.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>VS Code, Neovim, Sublime Text gibi modern kod editörlerinin ve yapay zekâ destekli kodlama ortamlarının arka planında sürekli çalışır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Sadece bir editör eklentisi değildir; editör ile dil analiz motorları arasındaki evrensel konuşma protokolüdür.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">LSP ne anlama gelir ve açılımı nedir?</p><p class="dict-faq-a">Language Server Protocol (Dil Sunucusu Protokolü) anlamına gelir. Kod editörleri ile programlama dillerinin akıllı özelliklerini sağlayan arka plan motorları arasındaki köprüdür.</p></div><div class="dict-faq-item"><p class="dict-faq-q">LSP neden bu kadar önemlidir?</p><p class="dict-faq-a">Her editör için ayrı ayrı dil desteği geliştirmek yerine, tek bir dil sunucusunun tüm editörlerde çalışmasını sağlayarak geliştirme ekosistemini standartlaştırır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Hız ve performansı nasıl etkiler?</p><p class="dict-faq-a">Ağır analiz işlemlerini editörden bağımsız bir arka plan işleminde yürüttüğü için editörün takılmasını veya yavaşlamasını engeller.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/agentic-coding-tool/">Agentic Coding Tool</a><a href="/dictionary/cli/">CLI</a></div></section>
 <section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/oh-my-pi/">Oh My Pi</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>

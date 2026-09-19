@@ -1,26 +1,36 @@
-# Emitter nedir?
+# Emitter ne demek, nedir?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-07-11
+**Son güncelleme:** 2026-09-19
 
-İşlenmiş veriyi veya kodu, başka bir sistemin veya aracın kullanabileceği bir çıktı formatına dönüştüren mekanizmadır.
+Emitter, yazılımda olayları tetikleyen (event emitter) veya derleyicilerde işlenmiş veriyi hedef çıktı formatına dönüştürüp yayan programlama bileşenidir.
 
-## Tanım
-Emitter, genellikle bir parser veya derleyicinin son aşamasında yer alır. Parser veriyi analiz edip anladıktan sonra, emitter bu bilgiyi hedef platformun anlayacağı bir dile veya dosyaya yazar. Bu, makine koduna dönüştürme veya bir API'nin kabul edeceği bir JSON çıktısı oluşturma şeklinde olabilir.
+## Tanım ve kullanım bağlamları
+Emitter (yayıcı), yazılım mühendisliğinde iki temel mimari bağlamda kullanılır:
+
+1. **Olay Tabanlı Mimari (Event Emitter):** Bir durum gerçekleştiğinde (örneğin bir veri paketi ulaştığında veya kullanıcı işlem yaptığında) bu olayı dinleyen tüm dinleyicilere (listeners / subscribers) sinyal ve veri aktaran mekanizmadır. Bileşenlerin birbirine sıkı bağımlı olmasını (tight coupling) engeller.
+2. **Derleyici ve AST Dönüştürücüleri (Code Emitter):** Parser tarafından çözümlenip soyut sözdizimi ağacına (AST) dönüştürülen kaynak kodu alarak hedef platformun çalıştırabileceği makine koduna, baytkoda veya JSON/YAML formatına döken son aşama modülüdür.
 
 ## Bir benzetmeyle
-Bir fabrikadaki paketleme bandı gibidir; üretilen ürünleri (işlenmiş veriyi) müşterinin (başka bir programın) alabileceği kutulara koyup dışarı gönderir.
+Bir radyo vericisi gibidir; stüdyodaki sesi (işlenmiş veriyi) dalgalar halinde yayar (emit eder). Radyoyu o frekansa ayarlayan tüm alıcılar (event listener'lar) yayını anında duyar ve buna göre tepki verir.
 
 ## Nasıl çalışır?
-İçerideki soyut veri yapısını alır ve önceden belirlenmiş şablonlara veya kurallara göre dışarıya aktarır. Çıktı, bir dosya, bir ağ paketi veya doğrudan başka bir fonksiyonun girdisi olabilir.
+- **Olay Yayıcılar:** Kod içerisinde `emitter.emit('veriGirdi', payload)` çağrısı yapıldığında, daha önce `emitter.on('veriGirdi', callback)` ile kayıt edilmiş tüm fonksiyonlar sıralı veya asenkron olarak tetiklenir.
+- **Derleyici Yayıcılar:** Bellekteki AST ağacını düğüm düğüm dolaşarak (visitor pattern) her bir yapıyı hedef dilin veya makinenin kurallarına uygun baytlara çevirir.
 
 ## Nerede kullanılır?
-Derleyicilerde, veri dönüştürme araçlarında ve olay tabanlı (event-driven) sistemlerde sıkça karşınıza çıkar.
+Node.js çekirdek kütüphanelerinde (EventEmitter), web soket uygulamalarında, mesaj kuyruklarında (RabbitMQ, Kafka), TypeScript ve Babel gibi transpiler araçlarında yaygın olarak kullanılır.
 
 ## Sıkça sorulanlar
 
+**Emitter ne demek ve Türkçe karşılığı nedir?**  
+İngilizce 'yaymak, dışarı vermek' anlamına gelen 'emit' fiilinden türemiştir; yazılımda 'yayıcı' veya 'olay vericisi' olarak kullanılır.
+
 **Emitter ile Parser arasındaki fark nedir?**  
-Parser veriyi içeri alıp analiz eder, Emitter ise işlenmiş veriyi dışarıya uygun bir formatta sunar.
+Parser ham veriyi içeri alıp gramer kurallarına göre analiz eden bileşendir. Emitter ise bu analizin sonucunda ortaya çıkan soyut yapıyı hedef kitleye veya sisteme sunulabilir bir çıktıya dönüştürüp yayınlayan taraftır.
+
+**Node.js'te EventEmitter neden bu kadar önemlidir?**  
+Node.js'in asenkron, olay güdümlü (event-driven) yapısının temel omurgasını oluşturur. Dosya okuma, HTTP istekleri ve veri akışları (streams) bu mekanizmayla yönetilir.
 
 ## İlgili terimler
 - [Parser](/dictionary/parser/)

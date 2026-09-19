@@ -1,32 +1,37 @@
-# Tokenizer nedir?
+# Tokenizer nedir, ne demek?
 
 **Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-06-03
+**Son güncelleme:** 2026-09-19
 
-Metinleri yapay zekanın anlayabileceği küçük sayısal parçalara bölen araçtır.
+Tokenizer, metinleri büyük dil modellerinin ve yapay zekâ sistemlerinin anlayabileceği sayısal jetonlara (token) bölen temel veri işleme bileşenidir.
 
-## Tanım
-Tokenizer, metinleri yapay zekanın işleyebileceği sayısal parçalara dönüştüren temel bir araçtır. Yapay zeka kelimeleri bir bütün olarak değil, bu parçaların sayısal karşılıkları üzerinden anlar.
+## Tanım ve temel işlevi
+Tokenizer (jetonlaştırıcı / simgeleştirici), doğal dilde yazılmış metinleri yapay zekâ modellerinin matematiksel olarak işleyebileceği sayısal indekslere (token ID) dönüştüren temel bir araçtır. Derin öğrenme ve büyük dil modelleri (LLM) harfleri veya kelimeleri doğrudan insan gibi kavramaz; bunun yerine kelimeleri, heceleri veya alt kelime parçacıklarını sözlükteki sayısal kodlarıyla temsil eder.
 
 ## Bir benzetmeyle
-Şöyle düşünün: Bir kitabı okumadan önce onu tek tek harflere veya hecelere ayırıp, her birine bir numara vererek bir kod listesi oluşturmak gibidir.
+Bir kitabı okumadan önce onu tek tek harflere, hecelere veya anlamlı kök parçalarına ayırıp, her bir parçaya özel bir barkod numarası vererek dijital bir katalog oluşturmak gibidir. Model metni okurken doğrudan kelimelere değil, bu barkodlara bakar.
 
 ## Nasıl çalışır?
-Metin girildiğinde tokenizer onu 'token' adı verilen parçalara böler. Bu tokenlar daha sonra yapay zekanın sayısal olarak işleyebileceği vektörlere dönüştürülür.
+1. **Normalizasyon ve Bölme:** Girdi metni temizlenir ve Byte Pair Encoding (BPE), WordPiece veya SentencePiece gibi algoritmalarla alt kelimelere bölünür.
+2. **Sözlük Eşleştirmesi:** Her parça, tokenizer'ın önceden eğitilmiş sözlüğündeki (vocabulary) benzersiz bir sayısal ID ile eşleştirilir.
+3. **Vektörleştirme:** Üretilen sayısal diziler modelin gömme (embedding) katmanına aktarılarak çok boyutlu anlamsal vektörlere dönüştürülür.
 
 ## Nerede kullanılır?
-Tüm büyük dil modellerinin giriş kapısıdır. Bir chatbot ile konuşmaya başladığınız anda, yazdığınız her şey ilk olarak tokenizer tarafından işlenir.
+Tüm büyük dil modellerinin (GPT, Claude, Gemini, Llama) ve doğal dil işleme (NLP) hatlarının ilk ve son adımıdır. Prompt gönderdiğinizde girdi tokenizer ile sayılara çevrilir; model cevap ürettiğinde ise bu sayılar detokenizer ile yeniden okunabilir metne dönüştürülür.
 
 ## Sık karıştırılanlar
-Sadece kelime ayırıcı ile karıştırılır; oysa tokenizer bazen bir kelimeyi birkaç parçaya, bazen de birkaç kelimeyi tek bir tokena bölebilir.
+Sıradan bir boşluk ayırıcı (string split) ile karıştırılmamalıdır. Modern tokenizer'lar dillerin morfolojik yapısına göre bir kelimeyi eklerine ayırabilir veya sık kullanılan kelime gruplarını tek bir token olarak işleyebilir.
 
 ## Sıkça sorulanlar
 
-**Token nedir?**  
-Modelin işlem birimidir; genellikle bir kelimenin bir kısmı veya noktalama işaretidir.
+**Tokenizer ne demek ve Türkçe karşılığı nedir?**  
+Türkçede 'jetonlaştırıcı' veya 'simgeleştirici' olarak ifade edilir; metin bloklarını anlamlı en küçük sayısal işlem birimlerine ayıran yazılımdır.
 
-**Neden doğrudan kelimeleri kullanmıyoruz?**  
-Çünkü sayısal verilerle işlem yapmak, kelimelerin karmaşık yapısıyla uğraşmaktan çok daha hızlı ve verimlidir.
+**Token nedir ve kelimelerden farkı nedir?**  
+Token, dil modelinin temel işlem birimidir. Bir kelime tek bir token olabileceği gibi, özellikle Türkçe gibi eklemeli dillerde kelimenin kökü ve ekleri ("kitap-lık-lar-ımız") birden fazla token oluşturabilir. Ortalama olarak 100 kelime yaklaşık 130-140 token eder.
+
+**Büyük dil modellerinde tokenizer neden kritiktir?**  
+Modelin bağlam penceresi kapasitesi ve API maliyetleri doğrudan token adedi üzerinden hesaplanır. Verimli ve dili iyi anlayan bir tokenizer, daha düşük maliyet ve daha yüksek anlama başarımı sağlar.
 
 ## İlgili terimler
 - [Token](/dictionary/token/)

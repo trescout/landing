@@ -1,31 +1,37 @@
-# QA nedir?
+# QA nedir, ne demek?
 
 > Quality Assurance
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-06-24
+**Son güncelleme:** 2026-09-19
 
-Bir yazılımın kullanıcıya ulaşmadan önce belirlenen standartlara uygun, hatasız ve kaliteli olduğundan emin olma sürecidir.
+QA (Quality Assurance), yazılım ürünlerinin belirlenen kalite standartlarına uygun, güvenilir ve hatasız olmasını sağlayan kalite güvence sürecidir.
 
-## Tanım
-Kalite Güvence (QA), yazılım geliştirme sürecinin sonunda veya sırasında yapılan testler ve kontroller bütünüdür. Amacı, kullanıcının karşılaşabileceği hataları önceden tespit edip düzeltmektir. İyi bir QA süreci, ürünün güvenilirliğini artırır ve kullanıcı memnuniyetini garanti altına alır.
+## Tanım ve kapsamı
+Kalite Güvence (QA), yazılım geliştirme yaşam döngüsünün (SDLC) her adımında hataların ortaya çıkmasını önlemeye ve nihai ürünün kullanıcı beklentilerini eksiksiz karşılamasını sağlamaya odaklanan sistematik bir süreçtir. Yalnızca kod yazıldıktan sonra yapılan testlerle sınırlı değildir; gereksinim analizinden mimari tasarıma, test otomasyonundan dağıtım güvenliğine kadar tüm kalite standartlarını kapsar.
 
 ## Bir benzetmeyle
-Bir restoranın mutfağından çıkan her yemeğin, servis edilmeden önce şef tarafından tadına bakılıp tuzunun ve sunumunun kontrol edilmesi gibidir.
+Bir restoran mutfağını düşünün: Pişen her yemeğin tadına ve sıcaklığına bakıp tuzu kontrol eden bir şef (test/kontrol) önemlidir; ancak malzemelerin taze temin edilmesini, hijyen kurallarını ve pişirme reçetelerinin eksiksiz uygulanmasını sağlayan mutfak yönetim protokolü QA sürecidir.
 
-## Nasıl çalışır?
-Yazılımın beklenen davranışlarını tanımlayarak başlayın ve bu davranışları manuel veya otomatik testlerle doğrulayın. Test senaryoları oluşturun ve yazılımın her güncellemesinde bu senaryoların çalışıp çalışmadığını kontrol edin.
+## Nasıl çalışır ve uygulanır?
+1. **Gereksinim ve Kriter Analizi:** Ürünün kabul kriterleri (acceptance criteria) ve kalite hedefleri geliştirme öncesinde netleştirilir.
+2. **Test Senaryoları ve Otomasyon:** Birim testler (unit test), entegrasyon testleri ve uçtan uca (E2E) test senaryoları CI/CD ardışık düzenine entegre edilir.
+3. **Manuel ve Kullanılabilirlik Doğrulaması:** Otomasyonun gözden kaçırabileceği kullanıcı deneyimi (UX), sınır durumlar ve güvenlik açıkları test mühendisleri tarafından incelenir.
+4. **Geri Bildirim ve Süreç İyileştirme:** Karşılaşılan hataların kök nedeni (root cause) analiz edilerek geliştirme pratikleri güncellenir.
 
 ## Nerede kullanılır?
-Yazılım geliştirme yaşam döngüsünün her aşamasında, özellikle yayına almadan önceki son kontrollerde kullanılır.
+Mobil ve web uygulamalarında, kurumsal bulut mimarilerinde, finans ve sağlık gibi kritik yazılımlarda ve yapay zekâ model geliştirme süreçlerinde kullanılır.
 
 ## Sıkça sorulanlar
 
-**QA ve test etmek aynı şey mi?**  
-Test etmek hataları bulmaya odaklanır, QA ise hataların oluşmasını engelleyecek süreçleri kurmaya odaklanır.
+**QA ne anlama gelir ve açılımı nedir?**  
+İngilizce 'Quality Assurance' kelimelerinin kısaltmasıdır; Türkçede 'Kalite Güvence' anlamına gelir. Yazılımın standartlara uygunluğunu denetleyen metodolojidir.
 
-**Yapay zekâ projelerinde QA nasıl yapılır?**  
-Modelin çıktılarını kontrol etmek, halüsinasyonları test etmek ve sistemin farklı girdilere nasıl tepki verdiğini doğrulamakla yapılır.
+**QA ile test etmek veya QC arasındaki fark nedir?**  
+Test ve QC (Kalite Kontrol) yazılımdaki mevcut hataları bulmaya odaklanan operasyonel adımlardır. QA ise hataların baştan hiç meydana gelmemesi için geliştirme süreçlerini ve standartlarını kurgulayan şemsiye yaklaşımdır.
+
+**Yapay zekâ ve LLM projelerinde QA nasıl uygulanır?**  
+Model çıktılarının doğruluğu, halüsinasyon oranları, yanıt tutarlılığı, güvenlik ve prompt regresyon testleri gibi özel kıyaslama metrikleriyle denetlenir.
 
 ## İlgili terimler
 - [Unit Testing](/dictionary/unit-testing/)

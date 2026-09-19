@@ -1,34 +1,37 @@
-# LSP nedir?
+# LSP nedir ve nasıl çalışır?
 
 > Language Server Protocol
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-06-03
+**Son güncelleme:** 2026-09-19
 
-Kod yazarken editörünüze akıllı özellikler kazandıran standart bir iletişim protokolüdür.
+LSP (Language Server Protocol), kod editörleri ile programlama dillerinin analiz motorları arasında standart iletişim sağlayan açık protokoldür.
 
-## Tanım
-LSP, kod yazma araçları (editörler) ile kodun mantığını anlayan sunucular arasında bir köprüdür. Bu protokol sayesinde, kullandığınız editör; hata bulma, otomatik tamamlama ve tanımlara gitme gibi özellikleri tüm dillerde standart bir şekilde sunabilir. Editörünüzün hangi dili kullandığınızı bilmesine gerek kalmadan akıllı davranmasını sağlar.
+## Tanım ve temel işlevi
+Language Server Protocol (LSP), Microsoft öncülüğünde geliştirilen ve günümüzde tüm modern geliştirici editörleri (VS Code, Neovim, Emacs vb.) tarafından desteklenen evrensel bir protokoldür. Her programlama dili için her editöre ayrı eklenti yazmak yerine; tek bir dil sunucusunun (Language Server) tüm editörlerle JSON-RPC tabanlı standart bir dille konuşmasını sağlar. Bu sayede otomatik kod tamamlama, tanıma gitme (go to definition), hata ayıklama ve refactoring yetenekleri standartlaşır.
 
 ## Bir benzetmeyle
 Bir tercümanın, farklı dilleri konuşan iki kişi arasında ortak bir dil kullanarak iletişimi sağlaması gibidir; editör ne derseniz deyin, tercüman sayesinde sizi anlar.
 
 ## Nasıl çalışır?
-Editörünüz, yazdığınız kodu arka planda çalışan bir 'dil sunucusuna' gönderir. Sunucu kodu analiz eder ve size öneriler sunar. Siz hiçbir şey hissetmeden kodunuzu daha hızlı ve hatasız yazarsınız.
+Editörünüz, yazdığınız kodu arka planda çalışan bir dil sunucusuna gönderir. Sunucu kodu gerçek zamanlı analiz eder, sözdizimi hatalarını belirler ve önerileri editöre geri iletir. Bu ayrım sayesinde editör arayüzü asla donmaz.
 
 ## Nerede kullanılır?
-VS Code gibi modern kod editörlerinin arka planında sürekli çalışır.
+VS Code, Neovim, Sublime Text gibi modern kod editörlerinin ve yapay zekâ destekli kodlama ortamlarının arka planında sürekli çalışır.
 
 ## Sık karıştırılanlar
-Sadece bir editör özelliği değil, editör ile dil arasındaki evrensel bir konuşma dilidir.
+Sadece bir editör eklentisi değildir; editör ile dil analiz motorları arasındaki evrensel konuşma protokolüdür.
 
 ## Sıkça sorulanlar
 
-**Neden bu kadar önemli?**  
-Her editör için ayrı ayrı özellik geliştirmek yerine, bir kez yazılan dil desteğinin her yerde çalışmasını sağlar.
+**LSP ne anlama gelir ve açılımı nedir?**  
+Language Server Protocol (Dil Sunucusu Protokolü) anlamına gelir. Kod editörleri ile programlama dillerinin akıllı özelliklerini sağlayan arka plan motorları arasındaki köprüdür.
 
-**Hızımı etkiler mi?**  
-Hayır, aksine hata yapmanızı engelleyerek kod yazma sürecinizi hızlandırır.
+**LSP neden bu kadar önemlidir?**  
+N adet editör ve M adet programlama dili için N x M yerine N + M entegrasyon formülü sunar; bir dil sunucusu bir kez yazıldığında tüm uyumlu editörlerde çalışır.
+
+**Hız ve performansı nasıl etkiler?**  
+Ağır dil analiz işlemlerini editörün ana arayüzünden ayırarak arka planda yürüttüğü için editörün donmasını engeller ve akıcı bir yazım deneyimi sunar.
 
 ## İlgili terimler
 - [Agentic Coding Tool](/dictionary/agentic-coding-tool/)

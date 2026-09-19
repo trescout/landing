@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Emitter nedir? · TreScout Sözlük</title>
-<meta name="description" content="İşlenmiş veriyi veya kodu, başka bir sistemin veya aracın kullanabileceği bir çıktı formatına dönüştüren mekanizmadır.">
+<title>Emitter ne demek, nedir? Yazılımda veri ve olay yayıcı rehberi · TreScout Sözlük</title>
+<meta name="description" content="Emitter ne demek, nedir ve yazılımda nasıl kullanılır? Event emitter mimarisi, derleyici çıktı üreticileri, Node.js ve asenkron programlama rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/emitter/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/emitter/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/emitter/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/emitter/">
 <link rel="canonical" href="https://trescout.com/dictionary/emitter/">
-<meta property="og:title" content="Emitter nedir?">
-<meta property="og:description" content="İşlenmiş veriyi veya kodu, başka bir sistemin veya aracın kullanabileceği bir çıktı formatına dönüştüren mekanizmadır.">
+<meta property="og:title" content="Emitter ne demek, nedir? Yazılımda veri ve olay yayıcı rehberi">
+<meta property="og:description" content="Emitter ne demek, nedir ve yazılımda nasıl kullanılır? Event emitter mimarisi, derleyici çıktı üreticileri, Node.js ve asenkron programlama rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/emitter/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Emitter nedir?">
+<meta name="twitter:title" content="Emitter ne demek, nedir? Yazılımda veri ve olay yayıcı rehberi">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/emitter.webp">
 <script type="application/ld+json">
 {
@@ -32,7 +32,7 @@
   "@type": "DefinedTerm",
   "name": "Emitter",
   "inLanguage": "tr",
-  "description": "Emitter, genellikle bir parser veya derleyicinin son aşamasında yer alır. Parser veriyi analiz edip anladıktan sonra, emitter bu bilgiyi hedef platformun anlayacağı bir dile veya dosyaya yazar. Bu, makine koduna dönüştürme veya bir API'nin kabul edeceği bir JSON çıktısı oluşturma şeklinde olabilir.",
+  "description": "Emitter (yayıcı), yazılımda olayları tetikleyen (event emitter) veya işlenmiş veri ve AST yapılarını hedef çıktıya dönüştüren temel bileşendir.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -48,10 +48,26 @@
   "mainEntity": [
     {
       "@type": "Question",
+      "name": "Emitter ne demek ve Türkçe karşılığı nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "İngilizce 'yaymak, dışarı vermek' anlamına gelen 'emit' fiilinden türemiştir; yazılımda 'yayıcı' veya 'olay vericisi' olarak kullanılır."
+      }
+    },
+    {
+      "@type": "Question",
       "name": "Emitter ile Parser arasındaki fark nedir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Parser veriyi içeri alıp analiz eder, Emitter ise işlenmiş veriyi dışarıya uygun bir formatta sunar."
+        "text": "Parser ham veriyi içeri alıp gramer kurallarına göre analiz eden bileşendir. Emitter ise bu analizin sonucunda ortaya çıkan soyut yapıyı hedef kitleye veya sisteme sunulabilir bir çıktıya dönüştürüp yayınlayan taraftır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Node.js'te EventEmitter neden bu kadar önemlidir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Node.js'in asenkron, olay güdümlü (event-driven) yapısının temel omurgasını oluşturur. Dosya okuma, HTTP istekleri ve veri akışları (streams) bu mekanizmayla yönetilir."
       }
     }
   ]
@@ -64,9 +80,9 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="İşlenmiş veriyi veya kodu, başka bir sistemin veya aracın kullanabileceği bir çıktı formatına dönüştüren mekanizmadır.">
+<meta name="twitter:description" content="Emitter ne demek, nedir ve yazılımda nasıl kullanılır? Event emitter mimarisi, derleyici çıktı üreticileri, Node.js ve asenkron programlama rehberi.">
 
-<meta property="og:image:alt" content="Emitter nedir?">
+<meta property="og:image:alt" content="Emitter ne demek, nedir?">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
@@ -74,11 +90,11 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-07-11">Son güncelleme: 11 Temmuz 2026</time></div>
-<h1 class="disc-title">Emitter <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
+<h1 class="disc-title">Emitter <span class="disc-accent">ne demek, nedir?</span></h1>
 
-<p class="disc-lead">İşlenmiş veriyi veya kodu, başka bir sistemin veya aracın kullanabileceği bir çıktı formatına dönüştüren mekanizmadır.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Emitter, genellikle bir parser veya derleyicinin son aşamasında yer alır. Parser veriyi analiz edip anladıktan sonra, emitter bu bilgiyi hedef platformun anlayacağı bir dile veya dosyaya yazar. Bu, makine koduna dönüştürme veya bir API&#x27;nin kabul edeceği bir JSON çıktısı oluşturma şeklinde olabilir.</p></section><div class="dict-analogy">Bir fabrikadaki paketleme bandı gibidir; üretilen ürünleri (işlenmiş veriyi) müşterinin (başka bir programın) alabileceği kutulara koyup dışarı gönderir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>İçerideki soyut veri yapısını alır ve önceden belirlenmiş şablonlara veya kurallara göre dışarıya aktarır. Çıktı, bir dosya, bir ağ paketi veya doğrudan başka bir fonksiyonun girdisi olabilir.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Derleyicilerde, veri dönüştürme araçlarında ve olay tabanlı (event-driven) sistemlerde sıkça karşınıza çıkar.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Emitter ile Parser arasındaki fark nedir?</p><p class="dict-faq-a">Parser veriyi içeri alıp analiz eder, Emitter ise işlenmiş veriyi dışarıya uygun bir formatta sunar.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/parser/">Parser</a><a href="/dictionary/api/">API</a><a href="/dictionary/data-pipeline/">Data Pipeline</a></div></section>
+<p class="disc-lead">Emitter, yazılımda olayları tetikleyen (event emitter) veya derleyicilerde işlenmiş veriyi hedef çıktı formatına dönüştürüp yayan programlama bileşenidir.</p>
+<section class="disc-sec"><h2>Tanım ve kullanım bağlamları</h2><p>Emitter (yayıcı), yazılım mühendisliğinde iki temel mimari bağlamda kullanılır:<br><br>1. <strong>Olay Tabanlı Mimari (Event Emitter):</strong> Bir durum gerçekleştiğinde (örneğin bir veri paketi ulaştığında veya kullanıcı işlem yaptığında) bu olayı dinleyen tüm dinleyicilere (listeners / subscribers) sinyal ve veri aktaran mekanizmadır. Bileşenlerin birbirine sıkı bağımlı olmasını (tight coupling) engeller.<br>2. <strong>Derleyici ve AST Dönüştürücüleri (Code Emitter):</strong> Parser tarafından çözümlenip soyut sözdizimi ağacına (AST) dönüştürülen kaynak kodu alarak hedef platformun çalıştırabileceği makine koduna, baytkoda veya JSON/YAML formatına döken son aşama modülüdür.</p></section><div class="dict-analogy">Bir radyo vericisi gibidir; stüdyodaki sesi (işlenmiş veriyi) dalgalar halinde yayar (emit eder). Radyoyu o frekansa ayarlayan tüm alıcılar (event listener&#x27;lar) yayını anında duyar ve buna göre tepki verir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>- <strong>Olay Yayıcılar:</strong> Kod içerisinde <code>emitter.emit(&#x27;veriGirdi&#x27;, payload)</code> çağrısı yapıldığında, daha önce <code>emitter.on(&#x27;veriGirdi&#x27;, callback)</code> ile kayıt edilmiş tüm fonksiyonlar sıralı veya asenkron olarak tetiklenir.<br>- <strong>Derleyici Yayıcılar:</strong> Bellekteki AST ağacını düğüm düğüm dolaşarak (visitor pattern) her bir yapıyı hedef dilin veya makinenin kurallarına uygun baytlara çevirir.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Node.js çekirdek kütüphanelerinde (EventEmitter), web soket uygulamalarında, mesaj kuyruklarında (RabbitMQ, Kafka), TypeScript ve Babel gibi transpiler araçlarında yaygın olarak kullanılır.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Emitter ne demek ve Türkçe karşılığı nedir?</p><p class="dict-faq-a">İngilizce &#x27;yaymak, dışarı vermek&#x27; anlamına gelen &#x27;emit&#x27; fiilinden türemiştir; yazılımda &#x27;yayıcı&#x27; veya &#x27;olay vericisi&#x27; olarak kullanılır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Emitter ile Parser arasındaki fark nedir?</p><p class="dict-faq-a">Parser ham veriyi içeri alıp gramer kurallarına göre analiz eden bileşendir. Emitter ise bu analizin sonucunda ortaya çıkan soyut yapıyı hedef kitleye veya sisteme sunulabilir bir çıktıya dönüştürüp yayınlayan taraftır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Node.js&#x27;te EventEmitter neden bu kadar önemlidir?</p><p class="dict-faq-a">Node.js&#x27;in asenkron, olay güdümlü (event-driven) yapısının temel omurgasını oluşturur. Dosya okuma, HTTP istekleri ve veri akışları (streams) bu mekanizmayla yönetilir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/parser/">Parser</a><a href="/dictionary/api/">API</a><a href="/dictionary/data-pipeline/">Data Pipeline</a></div></section>
 <section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/yaml-cpp/">YAML Cpp</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
