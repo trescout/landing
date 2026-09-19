@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Transformer nedir? · TreScout Sözlük</title>
-<meta name="description" content="Modern yapay zekâ modellerinin temelini oluşturan güçlü bir mimari yapıdır.">
+<title>Transformer Nedir, Ne Demek? Dikkat Mekanizması Mimarisi · TreScout</title>
+<meta name="description" content="Transformer nedir, ne demek? Attention Is All You Need mimarisi, Self-Attention mekanizması, Encoder-Decoder blokları ve LLM temelleri rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/transformer/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/transformer/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/transformer/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/transformer/">
 <link rel="canonical" href="https://trescout.com/dictionary/transformer/">
-<meta property="og:title" content="Transformer nedir?">
-<meta property="og:description" content="Modern yapay zekâ modellerinin temelini oluşturan güçlü bir mimari yapıdır.">
+<meta property="og:title" content="Transformer Nedir, Ne Demek? Dikkat Mekanizması Mimarisi">
+<meta property="og:description" content="Transformer nedir, ne demek? Attention Is All You Need mimarisi, Self-Attention mekanizması, Encoder-Decoder blokları ve LLM temelleri rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/transformer/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,8 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Transformer nedir?">
+<meta name="twitter:title" content="Transformer Nedir, Ne Demek? Dikkat Mekanizması Mimarisi">
+<meta name="twitter:description" content="Transformer nedir, ne demek? Attention Is All You Need mimarisi, Self-Attention mekanizması, Encoder-Decoder blokları ve LLM temelleri rehberi.">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/transformer.webp">
 <script type="application/ld+json">
 {
@@ -32,7 +33,7 @@
   "@type": "DefinedTerm",
   "name": "Transformer",
   "inLanguage": "tr",
-  "description": "Transformer, günümüzdeki yapay zekâ modellerinin cümleleri bir bütün olarak anlamasını sağlayan devrim niteliğinde bir mimaridir. Dikkat mekanizması sayesinde bir cümledeki kelimelerin birbirleriyle olan ilişkisini eş zamanlı olarak analiz eder.",
+  "description": "Transformer, dikkat mekanizmasını (Self-Attention) temel alarak sıralı verileri paralel olarak işleyen, günümüz büyük dil modellerinin ve üretken yapay zekânın temelini oluşturan derin öğrenme mimarisidir.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -47,22 +48,38 @@
   "@type": "FAQPage",
   "mainEntity": [
     {
-      "@type": "Question",
-      "name": "Neden bu kadar popüler?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Çünkü çok uzun metinleri bile bağlamını kaybetmeden işleyebilme yeteneğine sahiptir."
-      }
+        "@type": "Question",
+        "name": "Transformer mimarisinin RNN ve LSTM modellerine göre en büyük üstünlüğü nedir?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Verileri tek tek sırayla okumak yerine cümlenin tamamını aynı anda paralel işleyebilmesi, böylece uzun mesafeli anlamsal bağları unutmaması ve GPU donanımlarında çok yüksek hızda eğitilebilmesidir."
+        }
     },
     {
-      "@type": "Question",
-      "name": "Sadece metin için mi kullanılır?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Hayır, günümüzde görüntü ve ses işleme alanlarında da başarıyla kullanılmaktadır."
-      }
+        "@type": "Question",
+        "name": "Query, Key ve Value (Q, K, V) kavramları ne işe yarar?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Arama motoru mantığına benzer: Query aranan sorguyu, Key doküman başlıklarını/etiketlerini, Value ise dokümanın asıl içeriğini temsil eder; Query ile Key eşleştiğinde Value ağırlıklandırılarak çekilir."
+        }
+    },
+    {
+        "@type": "Question",
+        "name": "FlashAttention nedir ve Transformer modellerine nasıl hız kazandırır?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "GPU'nun yavaş genel belleği (HBM) ile hızlı yazmaçları (SRAM) arasındaki bellek transferlerini optimize ederek kuadratik dikkat hesaplamasını donanım seviyesinde hızlandıran ve VRAM tüketimini düşüren bir algoritmadır."
+        }
+    },
+    {
+        "@type": "Question",
+        "name": "Transformer modelleri yalnızca metin işlemek için mi kullanılır?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hayır; günümüzde görüntüler (Vision Transformer), ses dosyaları (Whisper), video üretimi (Sora) ve hatta biyolojide protein yapıları (AlphaFold) Transformer mimarisiyle işlenmektedir."
+        }
     }
-  ]
+]
 }
 </script>
 <link rel="alternate" type="text/markdown" href="/dictionary/transformer.md">
@@ -71,10 +88,7 @@
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
-
-<meta name="twitter:description" content="Modern yapay zekâ modellerinin temelini oluşturan güçlü bir mimari yapıdır.">
-
-<meta property="og:image:alt" content="Transformer nedir?">
+<meta property="og:image:alt" content="Transformer nedir, ne demek?">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
@@ -82,12 +96,56 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Yapay Zekâ</span><time class="dict-time" datetime="2026-06-03">Son güncelleme: 3 Haziran 2026</time></div>
-<h1 class="disc-title">Transformer <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Yapay Zekâ Modelleri</span><time class="dict-time" datetime="2026-09-20">Son güncelleme: 20 Eylül 2026</time></div>
+<h1 class="disc-title">Transformer <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">Modern yapay zekâ modellerinin temelini oluşturan güçlü bir mimari yapıdır.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Transformer, günümüzdeki yapay zekâ modellerinin cümleleri bir bütün olarak anlamasını sağlayan devrim niteliğinde bir mimaridir. Dikkat mekanizması sayesinde bir cümledeki kelimelerin birbirleriyle olan ilişkisini eş zamanlı olarak analiz eder.</p></section><div class="dict-analogy">Şöyle düşünün: Eski yöntemler bir cümleyi tek tek kelimelere bakarak okuyan bir öğrenci gibiydi. Transformer ise tüm sayfaya bir bakışta odaklanıp hangi kelimelerin birbirini tamamladığını anında gören bir dahi gibidir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Model, metindeki her kelimeye &#x27;dikkat&#x27; (attention) puanı verir. Örneğin &#x27;bankaya gittim çünkü param bitti&#x27; cümlesinde, &#x27;param&#x27; kelimesinin &#x27;banka&#x27; kelimesiyle olan güçlü bağını matematiksel olarak hesaplar ve bağlamı bu şekilde kavrar.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>ChatGPT gibi modern dil modellerinin, çeviri araçlarının ve metin özetleme sistemlerinin merkezinde yer alır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Sadece bir model değil, modellerin inşa edildiği temel bir mimari yapıdır.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Neden bu kadar popüler?</p><p class="dict-faq-a">Çünkü çok uzun metinleri bile bağlamını kaybetmeden işleyebilme yeteneğine sahiptir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Sadece metin için mi kullanılır?</p><p class="dict-faq-a">Hayır, günümüzde görüntü ve ses işleme alanlarında da başarıyla kullanılmaktadır.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/llm/">LLM</a><a href="/dictionary/foundation-model/">Foundation Model</a><a href="/dictionary/generative-ai/">Generative AI</a><a href="/dictionary/nlp/">NLP</a></div></section>
+<p class="disc-lead">Transformer, dikkat mekanizmasını (Self-Attention) temel alarak sıralı verileri paralel olarak işleyen, günümüz büyük dil modellerinin ve üretken yapay zekânın temelini oluşturan derin öğrenme mimarisidir.</p>
+
+<section class="disc-sec">
+<h2>Etimoloji ve Ardışık Kısıtların Yıkılışı</h2>
+<p>Transformer mimarisi, 2017 yılında Google araştırmacılarının yayınladığı 'Attention Is All You Need' makalesiyle duyurulmuştur. Bu makaleden önce doğal dil işleme (NLP), verileri kelime kelime sırayla okuyan Yinelemeli Sinir Ağları (RNN) ve LSTM modellerine bağımlıydı. </p><p>Ancak RNN'lerin doğası gereği ardışık çalışması iki devasa kısıt yaratıyordu: Cümle uzadıkça baştaki bilgilerin unutulması (kaybolan gradyan problemi) ve donanım seviyesinde modern grafik işlemcilerin (GPU) sunduğu devasa paralel hesaplama gücünün kullanılamaması. Transformer mimarisi, yineleme (recurrence) mekanizmasını tamamen çöpe atarak tüm kelimeleri aynı anda paralel olarak işleyen ve aralarındaki anlamsal bağları 'Öz-Dikkat' (Self-Attention) ile kuran devrimsel bir paradigma getirmiştir.</p>
+</section>
+
+<div class="dict-analogy">Şöyle düşünün: Gürültülü bir kokteyl partisinde konuştuğunuz kişiyi dinlediğinizi hayal edin. Eski RNN mimarisi tüm sesleri eşit düzeyde ve sırayla kaydeder; konuşma uzadıkça sesler birbirine karışır ve ana tema kaybolur. İnsan beyni ve Transformer ise odadaki uğultuyu aynı anda duyar ancak yalnızca konuştuğu kişinin sesine ve kritik kelimelere dikkat kesilir. Transformer, cümledeki tüm kelimeleri aynı anda masaya yatırır ve kelimeler arasındaki anlam bağını saniyeler içinde hesaplar.</div>
+
+<section class="disc-sec">
+<h2>Teknik Derinlik ve Matematiksel Blok Mimarisi</h2>
+<p>- <strong>Ölçeklenmiş Nokta Çarpım Dikkati (Scaled Dot-Product Attention):</strong> Girdi matrisleri Query, Key ve Value tensörlerine dönüştürülür; benzerlik matrisi softmax fonksiyonundan geçirilerek ağırlıklandırılır.<br>
+- <strong>Çok Başlı Dikkat (Multi-Head Attention):</strong> Model aynı anda dilbilgisi, mantık ve zamir eşleştirmesi gibi farklı anlamsal uzaylarda birden fazla dikkat başı çalıştırır.<br>
+- <strong>Konumsal Kodlama (Positional Encoding):</strong> Veriler paralel girdiğinden kelime sıraları sinüzoidal dalgalar veya Döner Konumsal Gömmeler (RoPE) ile tensörlere eklenir.<br>
+- <strong>İleri Besleme ve Katman Normalizasyonu:</strong> Residual bağlantılar ve RMSNorm katmanları sayesinde yüzlerce katmanda dahi gradyan akışı kayıpsız korunur.<br>
+- <strong>Maskeli Dikkat ve Çıkarım Önbelleği (KV Cache):</strong> Decoder modellerinde gelecekteki tokenlar maskelenir; üretim esnasında hesaplanan matrisler KV Cache ile bellekte tutularak çıkarım hızlandırılır.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Sosyolojik Boyut: GPU Simyası ve Evrensel Zekâ Arayışı</h2>
+<p>Transformer mimarisi, yalnızca bilgisayar bilimlerinde bir algoritma yeniliği değil; donanım ile yazılımın tarihteki en kusursuz simyasıdır. GPU mimarisinin paralel tensör çarpım yetenekleri ile Transformer'ın paralel dikkat matematiği birbirini besleyerek milyarlarca dolarlık yapay zekâ sanayi devrimini başlatmıştır.</p><p>Bunun ötesinde Transformer, metin sınırlarını aşarak evrensel bir yapay zekâ omurgası haline gelmiştir. Görselleri piksel parçaları olarak işleyen Vision Transformer (ViT), ses sinyallerini işleyen Whisper ve biyolojide protein katlanmalarını çözen AlphaFold, gücünü aynı dikkat mekanizmasından alır. İnsanlığın karmaşık sistemleri anlama ve modelleme kapasitesi Transformer ile yeni bir bilişsel çağa girmiştir.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Sık Yapılan Hatalar ve Yanılgılar</h2>
+<p>- <strong>Kuadratik Karmaşıklığı (O(N^2)) Unutmak:</strong> Bağlam uzadıkça dikkat hesaplama maliyeti katlanarak büyür; FlashAttention gibi optimize çekirdekler kullanılmalıdır.<br>
+- <strong>Dikkat Ağırlıklarını Mantıksal Açıklama Sanmak:</strong> Yüksek dikkat skoru mutlak bir neden-sonuç kanıtı değil, istatistiksel bir ağırlık korelasyonudur.<br>
+- <strong>Yanlış Göreve Yanlış Model Seçmek:</strong> Salt sınıflandırma veya arama işlerinde devasa Decoder modelleri yerine Encoder modelleri tercih edilmelidir.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Sıkça Sorulanlar</h2>
+<div class="dict-faq">
+<div class="dict-faq-item"><p class="dict-faq-q">Transformer mimarisinin RNN ve LSTM modellerine göre en büyük üstünlüğü nedir?</p><p class="dict-faq-a">Verileri tek tek sırayla okumak yerine cümlenin tamamını aynı anda paralel işleyebilmesi, böylece uzun mesafeli anlamsal bağları unutmaması ve GPU donanımlarında çok yüksek hızda eğitilebilmesidir.</p></div>
+<div class="dict-faq-item"><p class="dict-faq-q">Query, Key ve Value (Q, K, V) kavramları ne işe yarar?</p><p class="dict-faq-a">Arama motoru mantığına benzer: Query aranan sorguyu, Key doküman başlıklarını/etiketlerini, Value ise dokümanın asıl içeriğini temsil eder; Query ile Key eşleştiğinde Value ağırlıklandırılarak çekilir.</p></div>
+<div class="dict-faq-item"><p class="dict-faq-q">FlashAttention nedir ve Transformer modellerine nasıl hız kazandırır?</p><p class="dict-faq-a">GPU'nun yavaş genel belleği (HBM) ile hızlı yazmaçları (SRAM) arasındaki bellek transferlerini optimize ederek kuadratik dikkat hesaplamasını donanım seviyesinde hızlandıran ve VRAM tüketimini düşüren bir algoritmadır.</p></div>
+<div class="dict-faq-item"><p class="dict-faq-q">Transformer modelleri yalnızca metin işlemek için mi kullanılır?</p><p class="dict-faq-a">Hayır; günümüzde görüntüler (Vision Transformer), ses dosyaları (Whisper), video üretimi (Sora) ve hatta biyolojide protein yapıları (AlphaFold) Transformer mimarisiyle işlenmektedir.</p></div>
+</div>
+</section>
+
+<section class="disc-sec">
+<h2>İlgili terimler</h2>
+<div class="dict-related"><a href="/dictionary/llm/">LLM</a><a href="/dictionary/token/">Token</a><a href="/dictionary/context-window/">Context Window</a><a href="/dictionary/inference/">Inference</a><a href="/dictionary/fine-tuning/">Fine-Tuning</a><a href="/dictionary/diffusion-model/">Diffusion Model</a></div>
+</section>
+
 <section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/heretic/">Heretic</a><a href="/discover/train-llm-from-scratch/">Train LLM from Scratch</a></div></section>
+
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

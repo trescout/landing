@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Fine-tuning nedir? · TreScout Sözlük</title>
-<meta name="description" content="Hazır bir yapay zekâ modelini belirli bir görev veya uzmanlık alanı için özel olarak eğitme sürecidir.">
+<title>Fine-Tuning Nedir, Ne Demek? Model İnce Ayar Mimarisi · TreScout</title>
+<meta name="description" content="Fine-tuning nedir, ne demek? Yapay zekâ model ince ayarı, LoRA, QLoRA parametre verimli eğitim (PEFT), SFT ve kurumsal alan uyarlaması rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/fine-tuning/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/fine-tuning/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/fine-tuning/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/fine-tuning/">
 <link rel="canonical" href="https://trescout.com/dictionary/fine-tuning/">
-<meta property="og:title" content="Fine-tuning nedir?">
-<meta property="og:description" content="Hazır bir yapay zekâ modelini belirli bir görev veya uzmanlık alanı için özel olarak eğitme sürecidir.">
+<meta property="og:title" content="Fine-Tuning Nedir, Ne Demek? Model İnce Ayar Mimarisi">
+<meta property="og:description" content="Fine-tuning nedir, ne demek? Yapay zekâ model ince ayarı, LoRA, QLoRA parametre verimli eğitim (PEFT), SFT ve kurumsal alan uyarlaması rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/fine-tuning/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,8 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Fine-tuning nedir?">
+<meta name="twitter:title" content="Fine-Tuning Nedir, Ne Demek? Model İnce Ayar Mimarisi">
+<meta name="twitter:description" content="Fine-tuning nedir, ne demek? Yapay zekâ model ince ayarı, LoRA, QLoRA parametre verimli eğitim (PEFT), SFT ve kurumsal alan uyarlaması rehberi.">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/fine-tuning.webp">
 <script type="application/ld+json">
 {
@@ -32,7 +33,7 @@
   "@type": "DefinedTerm",
   "name": "Fine-tuning",
   "inLanguage": "tr",
-  "description": "Fine-tuning, genel amaçlı eğitilmiş bir yapay zekanın belirli bir üslubu, uzmanlık alanını veya görevi daha iyi yapması için küçük bir veri setiyle tekrar eğitilmesidir. Bu süreç modelin genel yeteneklerini korurken, onu özel bir konuda uzmanlaştırır.",
+  "description": "Fine-Tuning (ince ayar), önceden eğitilmiş genel amaçlı bir yapay zekâ temel modelinin belirli bir uzmanlık alanı, görev, üslup veya kurumsal veri kümesi üzerinde ağırlıklarının optimize edilerek özelleştirilmesi sürecidir.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -47,22 +48,38 @@
   "@type": "FAQPage",
   "mainEntity": [
     {
-      "@type": "Question",
-      "name": "Fine-tuning yapmak çok mu pahalı?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Eskisine göre çok daha erişilebilir hale geldi, ancak yine de ciddi bir işlem gücü ve kaliteli veri seti gerektirir."
-      }
+        "@type": "Question",
+        "name": "Fine-Tuning ile RAG arasındaki temel fark nedir?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fine-Tuning modelin ağırlıklarını kalıcı olarak değiştirerek üslup, format ve refleks kazandırır; RAG ise ağırlıklara dokunmadan güncel dokümanları anlık olarak modelin bağlam penceresine enjekte eder."
+        }
     },
     {
-      "@type": "Question",
-      "name": "Modeli her gün fine-tuning yapmalı mıyım?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Hayır, fine-tuning kalıcı bir süreçtir; güncel bilgiler için RAG kullanmak çok daha mantıklıdır."
-      }
+        "@type": "Question",
+        "name": "LoRA ve QLoRA teknikleri maliyetleri nasıl düşürür?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Modelin ana ağırlıklarını dondurup araya yüzde 0.1 oranında küçük adaptör matrisleri ekleyerek bellek (VRAM) ihtiyacını katbekat azaltır; dev modellerin tek bir ekran kartında eğitilmesini sağlar."
+        }
+    },
+    {
+        "@type": "Question",
+        "name": "Feci unutma (catastrophic forgetting) nedir?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Modelin yeni bir uzmanlık alanını öğrenirken önceden bildiği genel dil ve mantık kurallarını unutması durumudur; LoRA gibi adaptör yöntemleriyle bu risk büyük oranda önlenir."
+        }
+    },
+    {
+        "@type": "Question",
+        "name": "Fine-Tuning yapmak için kaç adet veri örneği gerekir?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "LIMA prensibine göre doğru seçilmiş, tutarlı ve yüksek kaliteli 500 ila 2.000 örnek, yüz binlerce vasat veriden çok daha başarılı sonuçlar verir; nitelik nicelikten önemlidir."
+        }
     }
-  ]
+]
 }
 </script>
 <link rel="alternate" type="text/markdown" href="/dictionary/fine-tuning.md">
@@ -71,10 +88,7 @@
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
-
-<meta name="twitter:description" content="Hazır bir yapay zekâ modelini belirli bir görev veya uzmanlık alanı için özel olarak eğitme sürecidir.">
-
-<meta property="og:image:alt" content="Fine-tuning nedir?">
+<meta property="og:image:alt" content="Fine-tuning nedir, ne demek?">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
@@ -82,12 +96,56 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Yapay Zekâ</span><time class="dict-time" datetime="2026-06-03">Son güncelleme: 3 Haziran 2026</time></div>
-<h1 class="disc-title">Fine-tuning <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Yapay Zekâ</span><time class="dict-time" datetime="2026-09-20">Son güncelleme: 20 Eylül 2026</time></div>
+<h1 class="disc-title">Fine-tuning <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">Hazır bir yapay zekâ modelini belirli bir görev veya uzmanlık alanı için özel olarak eğitme sürecidir.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Fine-tuning, genel amaçlı eğitilmiş bir yapay zekanın belirli bir üslubu, uzmanlık alanını veya görevi daha iyi yapması için küçük bir veri setiyle tekrar eğitilmesidir. Bu süreç modelin genel yeteneklerini korurken, onu özel bir konuda uzmanlaştırır.</p></section><div class="dict-analogy">Şöyle düşünün: Genel tıp eğitimi almış bir doktorun, belirli bir süre uzmanlık eğitimi alarak cerrah veya kardiyolog olması gibidir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Öncelikle temel bir model seçilir ve bu modele özel bir veri seti gösterilir. Model bu veriler üzerinde hafif bir eğitimden geçerek kendi içindeki bağlantıları yeni hedefine göre ayarlar.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Hukuki metin yazımı, tıbbi teşhis desteği veya şirketinizin özel yazışma dilini taklit etmek gibi çok spesifik alanlarda kullanılır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>RAG ile sık karıştırılır; RAG dışarıdan bilgi getirir, fine-tuning ise modelin davranışını veya uzmanlığını kalıcı olarak değiştirir.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Fine-tuning yapmak çok mu pahalı?</p><p class="dict-faq-a">Eskisine göre çok daha erişilebilir hale geldi, ancak yine de ciddi bir işlem gücü ve kaliteli veri seti gerektirir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Modeli her gün fine-tuning yapmalı mıyım?</p><p class="dict-faq-a">Hayır, fine-tuning kalıcı bir süreçtir; güncel bilgiler için RAG kullanmak çok daha mantıklıdır.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/foundation-model/">Foundation Model</a><a href="/dictionary/llm/">LLM</a><a href="/dictionary/rlhf/">RLHF</a><a href="/dictionary/distillation/">Distillation</a></div></section>
+<p class="disc-lead">Fine-Tuning (ince ayar), önceden eğitilmiş genel amaçlı bir yapay zekâ temel modelinin belirli bir uzmanlık alanı, görev, üslup veya kurumsal veri kümesi üzerinde ağırlıklarının optimize edilerek özelleştirilmesi sürecidir.</p>
+
+<section class="disc-sec">
+<h2>Etimoloji ve Transfer Öğrenimi Felsefesi</h2>
+<p>Fine-Tuning kavramı, derin öğrenme ve makine öğrenimi disiplinindeki 'Transfer Öğrenimi' (Transfer Learning) felsefesine dayanır. Milyarlarca parametreye sahip modern bir temel modeli (Foundation Model) sıfırdan eğitmek (pre-training), binlerce gelişmiş GPU kümesinde aylarca süren ve milyonlarca dolarlık devasa bütçeler gerektiren bir süreçtir. Bu maliyet, şirketlerin kendi özel yapay zekâ modellerini geliştirmesini neredeyse imkânsız kılabilirdi.</p><p>İnce Ayar mimarisi bu engeli ortadan kaldırır. İnternet ölçeğindeki genel veriyle dünyanın temel dil ve mantık kalıplarını zaten öğrenmiş olan temel model alınır; hedef alana ait (örneğin tıp, hukuk, finans veya şirket içi yazışmalar) çok daha küçük, seçilmiş ve kaliteli bir veri kümesi üzerinde ek bir eğitimden geçirilir. Bu süreçte modelin genel kavrayış yeteneği korunurken, hedef göreve dair özel terminoloji, üslup ve çıktı formatı modelin sinir ağı ağırlıklarına kalıcı olarak işlenir.</p>
+</section>
+
+<div class="dict-analogy">Şöyle düşünün: Tıp fakültesini dereceyle bitirmiş genç bir hekim hayal edin. Bu hekim temel biyolojiyi, insan anatomisini, farmakolojiyi ve genel tıp bilgisini eksiksiz bilir; yani ön eğitimini (Pre-Training) başarıyla tamamlamıştır. Ancak bu hekimden doğrudan kalp nakli ameliyatına girmesini bekleyemezsiniz. Hekimin bir cerraha dönüşebilmesi için tıp fakültesini sıfırdan okumasına gerek yoktur; bunun yerine birkaç yıl boyunca yalnızca kalp cerrahisi kliniğinde uzmanlık ihtisası yapar. Fine-Tuning tam olarak bu uzmanlık ihtisasıdır; temel dil bilgisine sahip bir modeli, belirli bir branşın terminolojisi ve refleksleriyle donatır.</div>
+
+<section class="disc-sec">
+<h2>Teknik Derinlik ve Eğitim Yöntemleri</h2>
+<p>- <strong>Tam İnce Ayar (Full Fine-Tuning):</strong> Modelin tüm parametrelerinin güncellenmesidir; yüksek kaynak gerektirir ve feci unutma (catastrophic forgetting) riski taşır.<br>
+- <strong>Parametre Verimli İnce Ayar (PEFT &amp; LoRA):</strong> Orijinal ağırlıklar dondurulur ve küçük adaptör matrisleri eğitilir; QLoRA ile 4-bit kuantize modeller tüketici GPU'larında eğitilebilir.<br>
+- <strong>Gözetimli İnce Ayar (SFT) ve DPO:</strong> Soru-cevap veri setleriyle talimat takip etme yeteneği pekiştirilir; doğrudan tercih optimizasyonu ile model güvenliği artırılır.<br>
+- <strong>Veri Kalitesi (LIMA Hipotezi):</strong> Sayısız vasat veri yerine özenle filtrelenmiş 1.000 yüksek kaliteli örnekle model başarısı zirveye taşınır.<br>
+- <strong>Adaptör Birleştirme (Merging):</strong> Eğitilen LoRA adaptörleri ana ağırlıklarla birleştirilerek çıkarım esnasında sıfır gecikmeyle çalıştırılır.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Sosyolojik Boyut: Veri Egemenliği ve Kültürel Uyum</h2>
+<p>Fine-tuning, açık kaynak yapay zekâ modellerinin kurumsal dünyada bağımsızlık ve veri egemenliği kazanmasını sağlayan en güçlü kaldıraçtır. Şirketlerin müşteri sırlarını, ticari sözleşmelerini veya hasta kayıtlarını kapalı bulut API'lerine göndermek zorunda kalmadan, kendi yerel sunucularında çalışan modelleri eğitebilmesi yasal ve stratejik bir zorunluluktur.</p><p>Bunun yanı sıra fine-tuning, kültürel ve dilsel adaleti temsil eder. Küresel modellerin ağırlıkla İngilizce ve Batı kültürü odaklı eğitilmesine karşın, yerel kurumlar ve topluluklar fine-tuning sayesinde Türkçe gibi dillere ve yerel değerlere tam uyumlu, milli ve kurumsal modeller üretebilmektedir.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Sık Yapılan Hatalar ve Yanılgılar</h2>
+<p>- <strong>RAG Yerine Fine-Tuning Seçmek:</strong> Güncel bilgi aktarımı için fine-tuning yapılmaz; bilgi için RAG, davranış ve üslup için fine-tuning uygulanır.<br>
+- <strong>Çöp Veriyle Eğitmek:</strong> Kalitesiz veya tutarsız veri setleri modelin mantıksal muhakeme yeteneğini köreltir.<br>
+- <strong>Aşırı Uyum (Overfitting):</strong> Modeli küçük veri setinde aşırı iterasyonla eğitmek ezberciliğe yol açar ve genelleme gücünü yıkar.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Sıkça Sorulanlar</h2>
+<div class="dict-faq">
+<div class="dict-faq-item"><p class="dict-faq-q">Fine-Tuning ile RAG arasındaki temel fark nedir?</p><p class="dict-faq-a">Fine-Tuning modelin ağırlıklarını kalıcı olarak değiştirerek üslup, format ve refleks kazandırır; RAG ise ağırlıklara dokunmadan güncel dokümanları anlık olarak modelin bağlam penceresine enjekte eder.</p></div>
+<div class="dict-faq-item"><p class="dict-faq-q">LoRA ve QLoRA teknikleri maliyetleri nasıl düşürür?</p><p class="dict-faq-a">Modelin ana ağırlıklarını dondurup araya yüzde 0.1 oranında küçük adaptör matrisleri ekleyerek bellek (VRAM) ihtiyacını katbekat azaltır; dev modellerin tek bir ekran kartında eğitilmesini sağlar.</p></div>
+<div class="dict-faq-item"><p class="dict-faq-q">Feci unutma (catastrophic forgetting) nedir?</p><p class="dict-faq-a">Modelin yeni bir uzmanlık alanını öğrenirken önceden bildiği genel dil ve mantık kurallarını unutması durumudur; LoRA gibi adaptör yöntemleriyle bu risk büyük oranda önlenir.</p></div>
+<div class="dict-faq-item"><p class="dict-faq-q">Fine-Tuning yapmak için kaç adet veri örneği gerekir?</p><p class="dict-faq-a">LIMA prensibine göre doğru seçilmiş, tutarlı ve yüksek kaliteli 500 ila 2.000 örnek, yüz binlerce vasat veriden çok daha başarılı sonuçlar verir; nitelik nicelikten önemlidir.</p></div>
+</div>
+</section>
+
+<section class="disc-sec">
+<h2>İlgili terimler</h2>
+<div class="dict-related"><a href="/dictionary/foundation-model/">Foundation Model</a><a href="/dictionary/llm/">LLM</a><a href="/dictionary/rlhf/">RLHF</a><a href="/dictionary/distillation/">Distillation</a><a href="/dictionary/quantization/">Quantization</a><a href="/dictionary/rag/">RAG</a></div>
+</section>
+
 <section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/transformers/">Transformers</a><a href="/discover/unsloth/">Unsloth</a><a href="/discover/ktransformers/">Ktransformers</a><a href="/discover/soup/">Soup</a></div></section>
+
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>
