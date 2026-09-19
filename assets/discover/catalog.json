@@ -22467,7 +22467,7 @@
     "slug": "open-code-review",
     "title": "Open Code Review",
     "tagline": "Alibaba tarafından geliştirilen açık kaynaklı kod inceleme aracı, deterministik işlem hatları (pipelines) ile büyük dil modeli…",
-    "meta": "★ 37.034 · Go",
+    "meta": "★ 37.075 · Go",
     "image": "/assets/discover/og/open-code-review.webp",
     "source": "GitHub",
     "date": "2026-07-24",
@@ -22475,7 +22475,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 37034,
+    "stars": 37075,
     "lite": false,
     "headline": "Yapay zekâ destekli hassas kod inceleme",
     "last_review": "2026-09-19",
@@ -22689,6 +22689,13 @@
         "onceki_yildiz": 35883,
         "surum": "v1.12.6",
         "surum_tarihi": "2026-09-18"
+      },
+      {
+        "tarih": "2026-09-19",
+        "yildiz": 37075,
+        "onceki_yildiz": 37034,
+        "surum": "v1.12.7",
+        "surum_tarihi": "2026-09-19"
       }
     ],
     "tagline_en": "Open source code review tool developed by Alibaba, large language model with deterministic pipelines…",
@@ -35773,7 +35780,8 @@
     "tagline_fr": "Anki est un logiciel de cartes mémoire qui facilite l'apprentissage en utilisant l'algorithme de répétition espacée.",
     "tagline_pt": "Anki é um software de cartões de memória que facilita o aprendizado usando o algoritmo de repetição espaçada (spaced repetition).",
     "tagline_es": "Anki es un software de tarjetas de memoria que facilita el aprendizaje mediante el uso de un algoritmo de repetición espaciada.",
-    "tagline_de": "Anki ist eine Karteikarten-Software, die das Lernen durch die Verwendung eines Algorithmus für räumliche Wiederholungen (spaced repetition) erleichtert."
+    "tagline_de": "Anki ist eine Karteikarten-Software, die das Lernen durch die Verwendung eines Algorithmus für räumliche Wiederholungen (spaced repetition) erleichtert.",
+    "last_seen": "2026-09-19"
   },
   {
     "slug": "rustfs",
@@ -35804,7 +35812,8 @@
     "tagline_fr": "RustFS a été développé comme un système de stockage d'objets haute performance compatible avec S3.",
     "tagline_pt": "O RustFS foi desenvolvido como um sistema de armazenamento de objetos (object storage system) de alto desempenho compatível com S3.",
     "tagline_es": "RustFS fue desarrollado como un sistema de almacenamiento de objetos de alto rendimiento compatible con S3.",
-    "tagline_de": "RustFS wurde als S3-kompatibles Hochleistungs-Objektspeichersystem (object storage system) entwickelt."
+    "tagline_de": "RustFS wurde als S3-kompatibles Hochleistungs-Objektspeichersystem (object storage system) entwickelt.",
+    "last_seen": "2026-09-19"
   },
   {
     "slug": "gitdiagram",
@@ -35826,6 +35835,7 @@
     "tagline_fr": "Gitdiagram est un outil qui visualise les structures de fichiers complexes et les relations de code dans les dépôts GitHub.",
     "tagline_pt": "Gitdiagram é uma ferramenta que visualiza estruturas de arquivos complexas e relações de código em repositórios do GitHub.",
     "tagline_es": "Gitdiagram es una herramienta que visualiza estructuras de archivos complejas y relaciones de código en repositorios de GitHub.",
-    "tagline_de": "Gitdiagram ist ein Tool, das komplexe Dateistrukturen und Code-Beziehungen in GitHub-Repositories visualisiert."
+    "tagline_de": "Gitdiagram ist ein Tool, das komplexe Dateistrukturen und Code-Beziehungen in GitHub-Repositories visualisiert.",
+    "last_seen": "2026-09-19"
   }
 ]
