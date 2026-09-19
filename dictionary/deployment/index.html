@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Deployment ne demek, nedir? Yazılımda canlıya alma ve dağıtım rehberi · TreScout Sözlük</title>
-<meta name="description" content="Deployment ne demek, nedir ve nasıl yapılır? Yazılım dağıtım süreçleri, CI/CD hatları, mavi-yeşil dağıtım, rollback ve otomatik yayına alma rehberi.">
+<title>Deployment Ne Demek, Nedir? Yazılım Dağıtım Rehberi · TreScout</title>
+<meta name="description" content="Deployment ne demek, nedir? CI/CD hatları, Mavi-Yeşil ve Canary dağıtım modelleri, sıfır kesinti mimarisi ve Rollback süreçleri rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/deployment/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/deployment/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/deployment/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/deployment/">
 <link rel="canonical" href="https://trescout.com/dictionary/deployment/">
-<meta property="og:title" content="Deployment ne demek, nedir? Yazılımda canlıya alma ve dağıtım rehberi">
-<meta property="og:description" content="Deployment ne demek, nedir ve nasıl yapılır? Yazılım dağıtım süreçleri, CI/CD hatları, mavi-yeşil dağıtım, rollback ve otomatik yayına alma rehberi.">
+<meta property="og:title" content="Deployment Ne Demek, Nedir? Yazılım Dağıtım Rehberi">
+<meta property="og:description" content="Deployment ne demek, nedir? CI/CD hatları, Mavi-Yeşil ve Canary dağıtım modelleri, sıfır kesinti mimarisi ve Rollback süreçleri rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/deployment/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Deployment ne demek, nedir? Yazılımda canlıya alma ve dağıtım rehberi">
+<meta name="twitter:title" content="Deployment Ne Demek, Nedir? Yazılım Dağıtım Rehberi">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/deployment.webp">
 <script type="application/ld+json">
 {
@@ -52,23 +52,31 @@
       "name": "Deployment ne demek ve Türkçe karşılığı nedir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "İngilizce kökenli bir kelime olup 'dağıtım' veya 'canlıya alma' anlamına gelir. Yazılım paketinin çalışır halde hedef ortama kurulmasıdır."
+        "text": "İngilizce kökenli bir kelime olup 'dağıtım' veya 'canlıya alma' anlamına gelir. Yazılım paketinin derlenerek hedef sunucularda veya bulut ortamında çalışır hale getirilmesi sürecidir."
       }
     },
     {
       "@type": "Question",
-      "name": "Deployment sırasında hata çıkarsa ne yapılır (Rollback nedir)?",
+      "name": "Deployment ile Release arasındaki fark nedir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Kritik bir hata tespit edildiğinde otomatik 'rollback' (geri alma) mekanizması devreye girer ve sistem saniyeler içinde sorunsuz çalışan bir önceki stabil sürüme geri döner."
+        "text": "Deployment kodun sunucuya teknik olarak kurulması ve çalıştırılmasıdır. Release ise özelliğin Feature Flag veya pazarlama adımlarıyla son kullanıcının erişimine resmen açılmasıdır."
       }
     },
     {
       "@type": "Question",
-      "name": "Sıfır kesintili (Zero-Downtime) deployment nasıl sağlanır?",
+      "name": "Mavi-Yeşil (Blue-Green) ve Canary dağıtım arasındaki temel fark nedir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Konteyner orkestrasyonu (Kubernetes, Docker Swarm) ve yük dengeleyiciler sayesinde yeni sürüm ayağa kalkmadan eski sunucular kapatılmaz, böylece kullanıcılar hiçbir kesinti hissetmez."
+        "text": "Mavi-Yeşil dağıtımda iki özdeş ortam bulunur ve trafik tek bir anda yük dengeleyiciyle %100 yeni ortama aktarılır. Canary dağıtımda ise yeni sürüm kademeli olarak önce %1-5'lik küçük bir kullanıcı dilimine sunulur ve metrikler gözlemlenerek oran artırılır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Sıfır kesintili (Zero-Downtime) dağıtımda veritabanı şema değişiklikleri nasıl yönetilir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Expand-Contract (Genişlet ve Daralt) deseniyle yönetilir. Önce geriye dönük uyumlu yeni alanlar eklenir, sistemin tüm sunucuları yeni koda geçtikten ve veri akışı sağlandıktan sonra eski alanlar temizlenir."
       }
     }
   ]
@@ -81,7 +89,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Deployment ne demek, nedir ve nasıl yapılır? Yazılım dağıtım süreçleri, CI/CD hatları, mavi-yeşil dağıtım, rollback ve otomatik yayına alma rehberi.">
+<meta name="twitter:description" content="Deployment ne demek, nedir? CI/CD hatları, Mavi-Yeşil ve Canary dağıtım modelleri, sıfır kesinti mimarisi ve Rollback süreçleri rehberi.">
 
 <meta property="og:image:alt" content="Deployment ne demek, nedir?">
 </head>
@@ -94,56 +102,14 @@
 <div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
 <h1 class="disc-title">Deployment <span class="disc-accent">ne demek, nedir?</span></h1>
 
-<p class="disc-lead">Deployment (yazılım dağıtımı), geliştirilen ve test edilen bir uygulamanın sunuculara yüklenerek son kullanıcıların erişimine açılması sürecidir.</p>
-<section class="disc-sec"><h2>Tanım ve modern dağıtım mimarisi</h2><p>Deployment (Türkçede dağıtım veya canlıya alma), yazılım geliştirme yaşam döngüsünün (SDLC) üretim aşamasıdır. Kodunuzu yerel geliştirme ortamınızdan (localhost) çıkarıp, dünyanın her yerinden kesintisiz erişilebilen canlı sunuculara, bulut servislerine (AWS, Vercel vb.) veya mobil uygulama mağazalarına taşıma sürecini ifade eder. Modern yazılım dünyasında deployment tek seferlik bir eylem değil; CI/CD hatları ile günde onlarca kez tekrarlanan otomatik bir standarttır.</p></section><div class="dict-analogy">Bir otomobil fabrikasını düşünün: Tasarım ve parça üretimi geliştirme aşamasıdır; üretilen otomobillerin tırlarla yetkili bayilere sevk edilip anahtar teslim müşterilere sunulması ise deployment aşamasıdır.</div><section class="disc-sec"><h2>Nasıl çalışır ve stratejileri nelerdir?</h2><p>1. <strong>Sürekli Dağıtım (Continuous Deployment):</strong> Kod ana dala (main branch) birleştirildiğinde otomatik testler koşar; testler geçerse insan müdahalesi olmadan canlıya alınır.<br>2. <strong>Mavi-Yeşil Dağıtım (Blue-Green Deployment):</strong> Biri canlıda (mavi), diğeri yeni sürümü test eden (yeşil) iki özdeş ortam tutulur. Yeni sürüm hazır olduğunda yönlendirici (router) trafiği anında yeşile çevirerek sıfır kesinti sağlar.<br>3. <strong>Kademeli Dağıtım (Canary Deployment):</strong> Yeni sürüm önce kullanıcıların %5&#x27;ine açılır; hata oranı izlenir ve sorun yoksa tüm kullanıcılara yayılır.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Web sitelerinin yayınlanmasında, mikroservis ve API güncellemelerinde, mobil uygulamaların App Store/Google Play sürümlerinde ve yapay zekâ model ağırlıklarının servis edilmesinde kullanılır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>- <strong>Development vs Deployment:</strong> Development (geliştirme) mutfakta yemeğin pişirilmesidir; Deployment ise yemeğin müşterinin masasına servis edilmesidir.<br>- <strong>Release vs Deployment:</strong> Deployment kodun teknik olarak sunucuya kurulmasıdır; Release ise özelliğin pazarlama ve iş birimleri tarafından kullanıcıya resmi olarak duyurulmasıdır.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Deployment ne demek ve Türkçe karşılığı nedir?</p><p class="dict-faq-a">İngilizce kökenli bir kelime olup &#x27;dağıtım&#x27; veya &#x27;canlıya alma&#x27; anlamına gelir. Yazılım paketinin çalışır halde hedef ortama kurulmasıdır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Deployment sırasında hata çıkarsa ne yapılır (Rollback nedir)?</p><p class="dict-faq-a">Kritik bir hata tespit edildiğinde otomatik &#x27;rollback&#x27; (geri alma) mekanizması devreye girer ve sistem saniyeler içinde sorunsuz çalışan bir önceki stabil sürüme geri döner.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Sıfır kesintili (Zero-Downtime) deployment nasıl sağlanır?</p><p class="dict-faq-a">Konteyner orkestrasyonu (Kubernetes, Docker Swarm) ve yük dengeleyiciler sayesinde yeni sürüm ayağa kalkmadan eski sunucular kapatılmaz, böylece kullanıcılar hiçbir kesinti hissetmez.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/runtime/">Runtime</a><a href="/dictionary/compile-time/">Compile-time</a><a href="/dictionary/api/">API</a></div></section>
+<p class="disc-lead">Deployment (yazılım dağıtımı / canlıya alma), yerel ortamda geliştirilen ve test edilen bir yazılım bileşeninin, derlenerek hedef sunuculara veya bulut altyapısına kurulması ve son kullanıcıların erişimine açılması sürecidir.</p>
+<section class="disc-sec"><h2>Kavramsal çerçeve, etimoloji ve tarihsel dönüşüm</h2><p>Deployment terimi etimolojik olarak askeri terminolojiye dayanır; birliklerin, mühimmatın veya donanmanın stratejik muharebe pozisyonlarına sevk edilip harekâta hazır hale getirilmesini (&quot;to deploy&quot;) ifade eder. Yazılım mühendisliğinde ise 1970'li ve 80'li yıllarda delikli kartların veya manyetik bantların ana bilgisayarlara (mainframe) yüklenmesiyle başlamış; 1990'larda elle çalıştırılan FTP/SSH dosya aktarımlarına, günümüzde ise tamamen deklaratif ve otomatik bulut boru hatlarına (GitOps) evrilmiştir.</p><p>Modern yazılım mühendisliğinde deployment tek seferlik, sancılı ve gece yarısı yapılan riskli bir operasyon olmaktan çıkmıştır. Sürekli Entegrasyon ve Sürekli Dağıtım (CI/CD) mekanizmaları sayesinde, günde yüzlerce kez kodun üretim ortamına güvenle aktarıldığı standart bir iş akışıdır.</p></section><div class="dict-analogy">Yolcularla dolu yüksek hızlı bir trenin ray değiştirme operasyonuna benzer. Geleneksel yöntemde treni istasyonda durdurup rayları kaynakla birleştirmek (kesinti süresi / downtime) gerekirdi; modern dağıtım ise tren saatte 300 kilometre hızla giderken otomatik ray makasının milisaniyeler içinde yeni hatta geçmesi ve yolcuların bir sarsıntı dahi hissetmemesidir.</div><section class="disc-sec"><h2>Sıfır kesintili (Zero-Downtime) dağıtım stratejileri</h2><p>Uygulamaların güncellenirken kullanıcıların hizmet kesintisi yaşamaması için geliştirilen temel dağıtım desenleri şunlardır:</p><ol><li><strong>Mavi-Yeşil Dağıtım (Blue-Green Deployment):</strong> Biri canlı trafiği karşılayan (Mavi), diğeri ise boşta duran (Yeşil) iki özdeş sunucu ortamı tutulur. Yeni kod yeşil ortama kurulur, duman testleri (smoke tests) yapılır ve her şey kusursuz çalıştığında yük dengeleyici (Load Balancer) trafiği milisaniyeler içinde yeşile yönlendirir. Bir sorun çıkarsa anında maviye geri dönülür (anlık rollback).</li><li><strong>Kanarya Dağıtımı (Canary Deployment):</strong> İsmini 19. yüzyıl kömür madencilerinin zehirli gaz kaçaklarını erkenden tespit etmek için kafeste kanarya taşımasından alır. Yeni sürüm önce toplam kullanıcı trafiğinin yalnızca %1 ila %5'ine açılır. Hata oranları (HTTP 5xx), bellek tüketimi ve yanıt süreleri izlenir; sistem kararlıysa oran kademeli olarak %25, %50 ve %100'e çıkarılır.</li><li><strong>Kayan Güncelleme (Rolling Deployment):</strong> Kubernetes kümelerinde veya sunucu filolarında konteynerlerin teker teker (örneğin %20'lik porsiyonlar halinde) güncellenmesidir. Eski pod'lar sırayla kapatılıp yerlerine yeni sürüm pod'ları açılır. Fazladan yedek donanım maliyeti gerektirmez ancak aynı anda iki farklı sürümün canlıda çalıştığı geçiş sürecinin yönetilmesini gerektirir.</li><li><strong>Gölge Dağıtım (Shadow / Dark Deployment):</strong> Canlı kullanıcı trafiği kopyalanarak (traffic mirroring) arka planda çalışan yeni sürüme de gönderilir. Ancak yeni sürümün ürettiği yanıtlar kullanıcıya iletilmez, yalnızca sistemin gerçek dünya yükü altındaki performansı ve algoritma doğruluğu ölçülür.</li></ol></section><section class="disc-sec"><h2>CI/CD boru hattı, GitOps ve veritabanı geçişleri</h2><p>Başarılı bir dağıtım mimarisi üç kritik mühendislik temeli üzerine inşa edilir:</p><ul><li><strong>CI/CD Otomasyonu ve DORA Metrikleri:</strong> Bir mühendis Git deposuna commit attığında, kod otomatik olarak lint kontrolünden geçer, birim testleri ve entegrasyon testleri koşar, Docker konteyner imajı derlenir ve hedef ortama fırlatılır. DevOps Araştırma ve Değerlendirme (DORA) metriklerine göre yüksek performanslı ekipler dağıtım sıklığını (Deployment Frequency) saatler seviyesine indirirken, değişiklik teslim süresini (Lead Time) ve başarısızlık oranını minimuma çeker.</li><li><strong>GitOps İlkesi:</strong> Altyapının ve uygulama sürümlerinin ArgoCD veya Flux gibi araçlarla doğrudan bir Git deposu tarafından deklare edilmesidir. Git deposu tek doğruluk kaynağıdır (Single Source of Truth); sunuculardaki gerçek durum Git'teki durumdan saparsa sistem kendini otomatik eşitler.</li><li><strong>Veritabanı Şema İkilemi (Expand-Contract Deseni):</strong> Kod sıfır kesintiyle güncellenebilir ancak veritabanı tablolarında yapılan bir kolon silme işlemi eski sürümün çökmesine yol açabilir. Bu nedenle mühendisler &quot;Genişlet-Daralt&quot; (Parallel Run) desenini uygular: Önce yeni kolon eklenir ve her iki sürüme de yazılır, tüm sunucular yeni sürüme geçtikten sonra eski kolon güvenle silinir.</li></ul></section><section class="disc-sec"><h2>Hata yönetimi, gözlemlenebilirlik ve Rollback mimarisi</h2><p>En gelişmiş test ortamlarında dahi gözden kaçan üretim ortamı hataları için iki temel can simidi vardır:</p><ul><li><strong>Otomatik Rollback (Geri Alma):</strong> APM araçları (Datadog, Prometheus) hata eşiklerinde (örneğin hata oranının %1'i aşması) anormallik tespit ettiği anda insan müdahalesine gerek kalmadan önceki kararlı Docker imajına veya Git etiketine geri döner.</li><li><strong>Feature Flags (Özellik Bayrakları):</strong> Dağıtım (deployment) ile yayına alma (release) süreçlerini birbirinden ayırır. Kod sunucuda çalışıyor olsa bile yeni özellik kullanıcı arayüzünde kapalı tutulabilir; riskli bir anda tek bir dashboard anahtarıyla anında devreden çıkarılabilir.</li></ul></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><ul><li><strong>Development vs Deployment:</strong> Development (geliştirme) mutfakta şefin yemeği hazırlaması ve tatmasıdır; Deployment ise yemeğin masaya servis edilip müşterinin tüketimine sunulmasıdır.</li><li><strong>Deployment vs Release:</strong> Deployment teknik bir eylemdir; kodun sunucuya yüklenmesini ifade eder. Release ise bir özelliğin kullanıcılara görünür kılınması, pazarlama duyurusunun yapılması ve iş birimi tarafından resmen açılmasıdır.</li></ul></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Deployment ne demek ve Türkçe karşılığı nedir?</p><p class="dict-faq-a">İngilizce kökenli bir kelime olup &#x27;dağıtım&#x27; veya &#x27;canlıya alma&#x27; anlamına gelir. Yazılım paketinin derlenerek hedef sunucularda veya bulut ortamında çalışır hale getirilmesi sürecidir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Deployment ile Release arasındaki fark nedir?</p><p class="dict-faq-a">Deployment kodun sunucuya teknik olarak kurulması ve çalıştırılmasıdır. Release ise özelliğin Feature Flag veya pazarlama adımlarıyla son kullanıcının erişimine resmen açılmasıdır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Mavi-Yeşil (Blue-Green) ve Canary dağıtım arasındaki temel fark nedir?</p><p class="dict-faq-a">Mavi-Yeşil dağıtımda iki özdeş ortam bulunur ve trafik tek bir anda yük dengeleyiciyle %100 yeni ortama aktarılır. Canary dağıtımda ise yeni sürüm kademeli olarak önce %1-5&#x27;lik küçük bir kullanıcı dilimine sunulur ve metrikler gözlemlenerek oran artırılır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Sıfır kesintili (Zero-Downtime) dağıtımda veritabanı şema değişiklikleri nasıl yönetilir?</p><p class="dict-faq-a">Expand-Contract (Genişlet ve Daralt) deseniyle yönetilir. Önce geriye dönük uyumlu yeni alanlar eklenir, sistemin tüm sunucuları yeni koda geçtikten ve veri akışı sağlandıktan sonra eski alanlar temizlenir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/runtime/">Runtime</a><a href="/dictionary/compile-time/">Compile-time</a><a href="/dictionary/cloud-computing/">Cloud Computing</a><a href="/dictionary/production-pipeline/">Production Pipeline</a><a href="/dictionary/tech-stack/">Tech Stack</a><a href="/dictionary/git-push/">Git Push</a></div></section>
 <section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/rocket-chat/">Rocket.Chat</a><a href="/discover/chatwoot/">Chatwoot</a><a href="/discover/argo-cd/">Argo Cd</a><a href="/discover/openship/">Openship</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>
 </main>
-<footer>
-  <div class="container">
-    <div class="footer-grid">
-      <div class="footer-brand-block">
-        <div class="footer-logo">
-          <svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg>
-          <span>TreScout</span>
-        </div>
-        <p class="footer-tagline">TreScout tarar, özetler, gönderir. Siz sadece okursunuz.</p>
-      </div>
-      <div class="footer-col">
-        <div class="footer-col-title">Ürün</div>
-        <ul>
-          <li><a href="/#how-it-works">Nasıl Çalışır</a></li>
-          <li><a href="/discover/">Keşif</a></li>
-          <li><a href="/dictionary/">Sözlük</a></li>
-          <li><a href="/reports/">Raporlar</a></li>
-          <li><a href="/compare/rss-vs-ai/">Karşılaştır</a></li>
-          <li><a href="/#top">Erken Erişim</a></li>
-        </ul>
-      </div>
-      <div class="footer-col">
-        <div class="footer-col-title">İletişim</div>
-        <ul>
-          <li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li>
-          <li><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a></li>
-        </ul>
-      </div>
-      <div class="footer-col">
-        <div class="footer-col-title">Sosyal medya</div>
-        <ul>
-          <li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X</a></li>
-        </ul>
-      </div>
-    </div>
-    <div class="footer-bottom">
-      <span>© 2026 TreScout · Tüm hakları saklıdır.</span>
-    </div>
-  </div>
-</footer>
-<script src="/assets/subscribe.js" defer></script>
-  <script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>
-  <script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>
-  <script src="/assets/provider-consent.js" defer></script>
+<footer><div class="container footer-inner"><div class="footer-brand"><a class="logo-link" href="/" aria-label="TreScout anasayfa"><svg width="24" height="24" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><p class="footer-tagline">Geliştiriciler için açık kaynak radarı.</p></div><nav class="footer-nav" aria-label="Alt bilgi menüsü"><div class="footer-col"><h4>Ürün</h4><a href="/discover/">Keşif</a><a href="/dictionary/">Sözlük</a><a href="/reports/">Raporlar</a><a href="/compare/rss-vs-ai/">Karşılaştır</a></div><div class="footer-col"><h4>Kurumsal</h4><a href="/about.html">Hakkında</a><a href="/contact.html">İletişim</a><a href="/privacy.html">Gizlilik Politikası</a><a href="/terms.html">Kullanım Şartları</a></div></nav></div><div class="footer-bottom container"><p class="footer-copy">© 2026 TreScout. Tüm hakları saklıdır.</p><p class="footer-note">Açık kaynak projeler ve teknoloji trendleri günlük taranır.</p></div></footer>
+<script src="/assets/site.js" defer></script>
 </body>
 </html>
