@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>LSP nedir, ne demek? Language Server Protocol rehberi · TreScout Sözlük</title>
-<meta name="description" content="LSP nedir, ne demek ve kod editörlerinde nasıl çalışır? Language Server Protocol mimarisi, otomatik tamamlama, hata denetimi ve geliştirici araçları.">
+<title>LSP Nedir, Ne Demek? Language Server Protocol Mimarisi · TreScout</title>
+<meta name="description" content="LSP (Language Server Protocol) nedir, nasıl çalışır? M x N probleminden JSON-RPC mimarisine, popüler dil sunucularından Neovim/VS Code rehberine tam kılavuz.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/lsp/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/lsp/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/lsp/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/lsp/">
 <link rel="canonical" href="https://trescout.com/dictionary/lsp/">
-<meta property="og:title" content="LSP nedir, ne demek?">
-<meta property="og:description" content="LSP nedir, ne demek ve kod editörlerinde nasıl çalışır? Language Server Protocol mimarisi, otomatik tamamlama, hata denetimi ve geliştirici araçları.">
+<meta property="og:title" content="LSP Nedir, Ne Demek? Language Server Protocol Mimarisi · TreScout">
+<meta property="og:description" content="LSP (Language Server Protocol) nedir, nasıl çalışır? M x N probleminden JSON-RPC mimarisine, popüler dil sunucularından Neovim/VS Code rehberine tam kılavuz.">
 <meta property="og:url" content="https://trescout.com/dictionary/lsp/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="LSP nedir, ne demek?">
+<meta name="twitter:title" content="LSP Nedir, Ne Demek? Language Server Protocol Mimarisi · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/lsp.webp">
 <script type="application/ld+json">
 {
@@ -33,7 +33,7 @@
   "name": "LSP",
   "alternateName": "Language Server Protocol",
   "inLanguage": "tr",
-  "description": "Language Server Protocol (LSP), kod yazma araçları (editörler) ile programlama dillerinin analiz sunucuları arasında akıllı tamamlama, hata bulma ve refactoring yetenekleri sağlayan açık protokoldür.",
+  "description": "LSP (Language Server Protocol), modern kod editörleri ile programlama dillerinin analiz motorları arasında standart iletişim sağlayan JSON-RPC tabanlı açık protokoldür.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -49,26 +49,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "LSP ne anlama gelir ve açılımı nedir?",
+      "name": "LSP ne demek, açılımı nedir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Language Server Protocol (Dil Sunucusu Protokolü) anlamına gelir. Kod editörleri ile programlama dillerinin akıllı özelliklerini sağlayan arka plan motorları arasındaki köprüdür."
+        "text": "Language Server Protocol (Dil Sunucusu Protokolü) anlamına gelir. Kod editörleri ile programlama dillerinin sözdizimi, tip kontrolü ve otomatik tamamlama motorları arasındaki iletişimi standartlaştıran açık protokoldür."
       }
     },
     {
       "@type": "Question",
-      "name": "LSP neden bu kadar önemlidir?",
+      "name": "LSP neden M × N problemini çözer?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Her editör için ayrı ayrı dil desteği geliştirmek yerine, tek bir dil sunucusunun tüm editörlerde çalışmasını sağlayarak geliştirme ekosistemini standartlaştırır."
+        "text": "Eski modelde M dil ve N editör için her editöre özel M × N eklenti yazılması gerekiyordu. LSP ile her dil tek bir sunucu, her editör tek bir istemci yazarak M + N entegrasyon formülüne kavuşur."
       }
     },
     {
       "@type": "Question",
-      "name": "Hız ve performansı nasıl etkiler?",
+      "name": "LSP editörün yavaşlamasını nasıl engeller?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Ağır analiz işlemlerini editörden bağımsız bir arka plan işleminde yürüttüğü için editörün takılmasını veya yavaşlamasını engeller."
+        "text": "Dilin ağır sözdizimi ağacı (AST) analizi ve tip çözümlemeleri ana editör sürecinden izole edilmiş arka plan süreçlerinde (JSON-RPC üzerinden) yürütülür; böylece arayüz hiçbir zaman kilitlenmez."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "DAP ile LSP arasındaki fark nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "LSP kod yazma, kod tamamlama ve sözdizimi hatalarını analiz ederken; DAP (Debug Adapter Protocol) kodun çalışma zamanında kesme noktaları (breakpoints) koyularak adım adım debug edilmesini sağlar."
       }
     }
   ]
@@ -81,9 +89,9 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="LSP nedir, ne demek ve kod editörlerinde nasıl çalışır? Language Server Protocol mimarisi, otomatik tamamlama, hata denetimi ve geliştirici araçları.">
+<meta name="twitter:description" content="LSP (Language Server Protocol) nedir, nasıl çalışır? M x N probleminden JSON-RPC mimarisine, popüler dil sunucularından Neovim/VS Code rehberine tam kılavuz.">
 
-<meta property="og:image:alt" content="LSP nedir, ne demek?">
+<meta property="og:image:alt" content="LSP nedir ve nasıl çalışır?">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
@@ -92,10 +100,34 @@
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
 <div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
-<h1 class="disc-title">LSP <span class="disc-accent">nedir ve nasıl çalışır?</span></h1>
+<h1 class="disc-title">LSP nedir, ne demek <span class="disc-accent">ve nasıl çalışır?</span></h1>
 <p class="dict-en">Language Server Protocol</p>
-<p class="disc-lead">LSP (Language Server Protocol), kod editörleri ile programlama dillerinin analiz motorları arasında standart iletişim sağlayan açık protokoldür.</p>
-<section class="disc-sec"><h2>Tanım ve temel işlevi</h2><p>Language Server Protocol (LSP), Microsoft öncülüğünde geliştirilen ve günümüzde tüm modern geliştirici editörleri (VS Code, Neovim, Emacs vb.) tarafından desteklenen evrensel bir protokoldür. Her programlama dili için her editöre ayrı eklenti yazmak yerine; tek bir dil sunucusunun (Language Server) tüm editörlerle JSON-RPC tabanlı standart bir dille konuşmasını sağlar. Bu sayede otomatik kod tamamlama, tanıma gitme (go to definition), hata ayıklama ve refactoring yetenekleri standartlaşır.</p></section><div class="dict-analogy">Bir tercümanın, farklı dilleri konuşan iki kişi arasında ortak bir dil kullanarak iletişimi sağlaması gibidir; editör ne derseniz deyin, tercüman sayesinde sizi anlar.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Editörünüz, yazdığınız kodu arka planda çalışan bir dil sunucusuna gönderir. Sunucu kodu gerçek zamanlı analiz eder, sözdizimi hatalarını belirler ve önerileri editöre geri iletir. Bu ayrım sayesinde editör arayüzü asla donmaz.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>VS Code, Neovim, Sublime Text gibi modern kod editörlerinin ve yapay zekâ destekli kodlama ortamlarının arka planında sürekli çalışır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Sadece bir editör eklentisi değildir; editör ile dil analiz motorları arasındaki evrensel konuşma protokolüdür.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">LSP ne anlama gelir ve açılımı nedir?</p><p class="dict-faq-a">Language Server Protocol (Dil Sunucusu Protokolü) anlamına gelir. Kod editörleri ile programlama dillerinin akıllı özelliklerini sağlayan arka plan motorları arasındaki köprüdür.</p></div><div class="dict-faq-item"><p class="dict-faq-q">LSP neden bu kadar önemlidir?</p><p class="dict-faq-a">Her editör için ayrı ayrı dil desteği geliştirmek yerine, tek bir dil sunucusunun tüm editörlerde çalışmasını sağlayarak geliştirme ekosistemini standartlaştırır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Hız ve performansı nasıl etkiler?</p><p class="dict-faq-a">Ağır analiz işlemlerini editörden bağımsız bir arka plan işleminde yürüttüğü için editörün takılmasını veya yavaşlamasını engeller.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/agentic-coding-tool/">Agentic Coding Tool</a><a href="/dictionary/cli/">CLI</a></div></section>
+
+<p class="disc-lead">LSP (Language Server Protocol), modern kod editörleri ile programlama dillerinin analiz motorları arasında standart iletişim sağlayan JSON-RPC tabanlı açık protokoldür.</p>
+
+<section class="disc-sec"><h2>1. Tanım ve çözdüğü matematiksel problem: M × N karmaşıklığı</h2><p>Language Server Protocol (LSP), 2016 yılında Microsoft (VS Code ekibi), Red Hat ve Codenvy öncülüğünde geliştirilen ve günümüzde geliştirici araçlarının temel taşı haline gelen evrensel bir protokoldür.</p><p>LSP'nin getirdiği en büyük devrim, yazılım dünyasının yıllardır muzdarip olduğu <strong>M × N karmaşıklık krizini M + N düzeyine indirmesidir</strong>:</p><ul><li><strong>LSP Öncesi (M × N):</strong> Eğer piyasada 5 popüler kod editörü (VS Code, Neovim, Sublime Text, Emacs, Eclipse) ve 10 popüler programlama dili (Python, Rust, Go, TypeScript, C++ vb.) varsa; her dilde otomatik tamamlama ve sözdizimi denetimi sağlamak için <strong>5 × 10 = 50 farklı eklenti</strong> yazılması ve ayrı ayrı güncellenmesi gerekiyordu.</li><li><strong>LSP Sonrası (M + N):</strong> Her dil topluluğu yalnızca tek bir "Language Server" (Dil Sunucusu) yazar; her editör geliştiricisi ise yalnızca bir "LSP Client" (İstemci) entegre eder. Sonuç: <strong>5 + 10 = 15 bileşen</strong>. Yeni çıkan bir programlama dili tek bir LSP sunucusu yazarak piyasadaki onlarca editörün tamamında ilk günden kusursuz çalışır hale gelir.</li></ul></section>
+
+<section class="disc-sec"><h2>2. LSP nasıl çalışır? Protokol mimarisi ve JSON-RPC 2.0</h2><p>LSP, editör (Client) ile dil analiz motoru (Server) arasında genellikle yerel standart girdi/çıktı (<code>stdin</code>/<code>stdout</code>) veya yerel soketler (IPC) üzerinden çalışan <strong>JSON-RPC 2.0</strong> mesajlaşma protokolüdür.</p><p>Ağır semantik analiz ve tip çözümleme işlemleri editörün ana iş parçacığından (UI thread) ayrı bir işletim sistemi sürecinde (process) yürütülür; bu sayede 100 bin satırlık projelerde dahi editörünüz asla donmaz veya takılmaz.</p><h3>Temel Protokol Döngüsü ve İstek Tipleri</h3><pre><code>   Editör (LSP Client)                   Dil Sunucusu (Language Server)
+          │                                            │
+          │─────── textDocument/didOpen ──────────────&gt;│ (Dosya açıldı, AST kurulur)
+          │─────── textDocument/didChange ───────────&gt;│ (Kullanıcı harf yazdı, artımlı senk.)
+          │&lt;────── textDocument/publishDiagnostics ────│ (Kırmızı dalgalı alt çizgi / Hatalar)
+          │                                            │
+          │─────── textDocument/completion ───────────&gt;│ (Ctrl+Space: Öneriler istendi)
+          │&lt;────── CompletionItem[] ───────────────────│ (Metot ve değişken listesi döner)
+          │                                            │
+          │─────── textDocument/definition ───────────&gt;│ (F12: Tanıma git / Go to definition)
+          │&lt;────── Location (Dosya, Satır, Sütun) ────│ (İlgili kaynak kod konumu açılır)</code></pre><ol><li><strong>İlklendirme (<code>initialize</code>):</strong> Editör başlatıldığında sunucuya yeteneklerini (<code>client capabilities</code>) bildirir; sunucu da hangi özellikleri desteklediğini (<code>server capabilities</code>) onaylar.</li><li><strong>Belge Senkronizasyonu (<code>didChange</code>):</strong> Kullanıcı kod yazdıkça dosyanın tamamı yerine yalnızca değişen satır ve karakter aralığı (incremental document sync) sunucuya aktarılır.</li><li><strong>Tanılama (<code>publishDiagnostics</code>):</strong> Dil sunucusu, kodu derlemeden arka planda Soyut Sözdizimi Ağacını (AST) ve tip tablosunu günceller. Hata varsa kırmızı hata çizgilerini editöre asenkron bildirim olarak yollar.</li><li><strong>Zengin İstekler (<code>hover</code>, <code>completion</code>, <code>rename</code>):</strong> Kullanıcı bir fonksiyonun üzerine fareyle geldiğinde veya yeniden adlandırma yaptığında sunucu projedeki tüm referansları hesaplayarak yanıt döner.</li></ol></section>
+
+<section class="disc-sec"><h2>3. Ekosistemde en yaygın kullanılan Language Server'lar</h2><ul><li><strong>Rust:</strong> <code>rust-analyzer</code> (Olağanüstü hızlı tip çıkarımı, makro açılımları ve borrow checker uyarıları)</li><li><strong>Python:</strong> <code>pyright</code> / <code>basedpyright</code> / <code>ruff</code> (Statik tip doğrulaması ve Ruff ile mikrosaniye hızında lintleme)</li><li><strong>Go:</strong> <code>gopls</code> (Go resmi ekibi tarafından geliştirilen, modül ve paket farkındalıklı sunucu)</li><li><strong>TypeScript / JS:</strong> <code>vtsls</code> / <code>typescript-language-server</code> (IntelliSense ve refactoring)</li><li><strong>C / C++:</strong> <code>clangd</code> (LLVM tabanlı, <code>compile_commands.json</code> ile büyük projelerde üstün doğruluk)</li><li><strong>Lua:</strong> <code>lua-language-server</code> (Neovim eklenti geliştiricileri için özel tip annotasyonları)</li></ul></section>
+
+<section class="disc-sec"><h2>4. LSP vs DAP vs LSIF / SCIP</h2><ul><li><strong>LSP (Language Server Protocol):</strong> Kod yazımı esnasındaki dinamik akıllı özellikleri (tamamlama, hata tespiti, formatlama) yönetir.</li><li><strong>DAP (Debug Adapter Protocol):</strong> Çalışma zamanındaki hata ayıklama işlemlerini yönetir. Kesme noktaları (breakpoints), değişken izleme ve adım adım yürütme DAP üzerinden haberleşir.</li><li><strong>SCIP / LSIF:</strong> Zengin kod tabanlarının derleme anında önceden indekslenip web arayüzlerinde sunucu çalıştırmadan kodda gezinme yapılmasını sağlayan statik indeksleme formatlarıdır.</li></ul></section>
+
+<div class="dict-analogy">LSP, dünyanın tüm dillerini kendi ülkesinin kurallarıyla konuşan yerel uzmanlar ile bu uzmanları dinleyen uluslararası bir diplomasi meclisi arasındaki simultane çevirmendir; meclisteki editörün kim olduğu fark etmeksizin mesaj kusursuzca iletilir.</div>
+
+<section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">LSP ne demek, açılımı nedir?</p><p class="dict-faq-a">Language Server Protocol (Dil Sunucusu Protokolü) anlamına gelir. Kod editörleri ile programlama dillerinin sözdizimi, tip kontrolü ve otomatik tamamlama motorları arasındaki iletişimi standartlaştıran açık protokoldür.</p></div><div class="dict-faq-item"><p class="dict-faq-q">LSP neden M × N problemini çözer?</p><p class="dict-faq-a">Eski modelde M dil ve N editör için her editöre özel M × N eklenti yazılması gerekiyordu. LSP ile her dil tek bir sunucu, her editör tek bir istemci yazarak M + N entegrasyon formülüne kavuşur.</p></div><div class="dict-faq-item"><p class="dict-faq-q">LSP editörün yavaşlamasını nasıl engeller?</p><p class="dict-faq-a">Dilin ağır sözdizimi ağacı (AST) analizi ve tip çözümlemeleri ana editör sürecinden izole edilmiş arka plan süreçlerinde (JSON-RPC üzerinden) yürütülür; böylece arayüz hiçbir zaman kilitlenmez.</p></div><div class="dict-faq-item"><p class="dict-faq-q">DAP ile LSP arasındaki fark nedir?</p><p class="dict-faq-a">LSP kod yazma, kod tamamlama ve sözdizimi hatalarını analiz ederken; DAP (Debug Adapter Protocol) kodun çalışma zamanında kesme noktaları (breakpoints) koyularak adım adım debug edilmesini sağlar.</p></div></div></section>
+
+<section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/agentic-coding-tool/">Agentic Coding Tool</a><a href="/dictionary/cli/">CLI</a><a href="/dictionary/keybindings/">Keybindings</a><a href="/dictionary/code-snippets/">Code Snippets</a><a href="/dictionary/runtime/">Runtime</a></div></section>
 <section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/oh-my-pi/">Oh My Pi</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>

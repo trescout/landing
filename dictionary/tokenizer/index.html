@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Tokenizer nedir, ne demek? Büyük dil modellerinde tokenlaştırma rehberi · TreScout Sözlük</title>
-<meta name="description" content="Tokenizer nedir, ne demek ve yapay zekâda nasıl çalışır? LLM tokenlaştırma algoritmaları, BPE, WordPiece ve dil modellerindeki veri işleme adımları.">
+<title>Tokenizer Nedir, Ne Demek? LLM ve BPE Algoritma Rehberi · TreScout</title>
+<meta name="description" content="Tokenizer nedir, ne demek? BPE, WordPiece ve SentencePiece algoritmaları, Türkçe token verimliliği ve LLM mimarisindeki rolüyle kapsamlı rehber.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/tokenizer/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/tokenizer/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/tokenizer/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/tokenizer/">
 <link rel="canonical" href="https://trescout.com/dictionary/tokenizer/">
-<meta property="og:title" content="Tokenizer nedir, ne demek? Büyük dil modellerinde tokenlaştırma rehberi">
-<meta property="og:description" content="Tokenizer nedir, ne demek ve yapay zekâda nasıl çalışır? LLM tokenlaştırma algoritmaları, BPE, WordPiece ve dil modellerindeki veri işleme adımları.">
+<meta property="og:title" content="Tokenizer Nedir, Ne Demek? LLM ve BPE Algoritma Rehberi · TreScout">
+<meta property="og:description" content="Tokenizer nedir, ne demek? BPE, WordPiece ve SentencePiece algoritmaları, Türkçe token verimliliği ve LLM mimarisindeki rolüyle kapsamlı rehber.">
 <meta property="og:url" content="https://trescout.com/dictionary/tokenizer/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,15 +24,16 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Tokenizer nedir, ne demek? Büyük dil modellerinde tokenlaştırma rehberi">
+<meta name="twitter:title" content="Tokenizer Nedir, Ne Demek? LLM ve BPE Algoritma Rehberi · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/tokenizer.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Tokenizer",
+  "alternateName": ["Jetonlaştırıcı", "Simgeleştirici"],
   "inLanguage": "tr",
-  "description": "Tokenizer (jetonlaştırıcı), doğal dilde yazılmış metinleri büyük dil modellerinin (LLM) ve yapay zekâ sistemlerinin anlayabileceği sayısal indekslere (token ID) bölen temel ön işleme aracıdır.",
+  "description": "Tokenizer (jetonlaştırıcı veya simgeleştirici), doğal dildeki metinleri büyük dil modellerinin (LLM) ve sinir ağlarının matematiksel olarak işleyebileceği sayısal jetonlara (token ID) dönüştüren temel veri işleme bileşenidir.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -48,26 +49,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Tokenizer ne demek ve Türkçe karşılığı nedir?",
+      "name": "Tokenizer ne demek, Türkçe karşılığı nedir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Türkçede 'jetonlaştırıcı' veya 'simgeleştirici' olarak ifade edilir; metin bloklarını anlamlı en küçük sayısal işlem birimlerine ayıran yazılımdır."
+        "text": "Türkçede \"jetonlaştırıcı\" veya \"simgeleştirici\" olarak adlandırılır. Doğal dil metinlerini yapay zekâ modelinin anlayacağı en küçük sayısal indekslere (token) bölen yazılımdır."
       }
     },
     {
       "@type": "Question",
-      "name": "Token nedir ve kelimelerden farkı nedir?",
+      "name": "1 token kaç kelime veya harfe denk gelir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Token, dil modelinin temel işlem birimidir. Bir kelime tek bir token olabileceği gibi, özellikle Türkçe gibi eklemeli dillerde kelimenin kökü ve ekleri ('kitap-lık-lar-ımız') birden fazla token oluşturabilir. Ortalama olarak 100 kelime yaklaşık 130-140 token eder."
+        "text": "İngilizce metinlerde 1 token ortalama 4 karaktere veya 0,75 kelimeye eşittir (100 kelime yaklaşık 130 token). Türkçe gibi sondan eklemeli dillerde ise eklerin parçalanması nedeniyle 1 kelime ortalama 2 ila 3 token tutabilir."
       }
     },
     {
       "@type": "Question",
-      "name": "Büyük dil modellerinde tokenizer neden kritiktir?",
+      "name": "BPE (Byte Pair Encoding) nasıl çalışır?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Modelin bağlam penceresi kapasitesi ve API maliyetleri doğrudan token adedi üzerinden hesaplanır. Verimli ve dili iyi anlayan bir tokenizer, daha düşük maliyet ve daha yüksek anlama başarımı sağlar."
+        "text": "En temel karakterlerle başlayıp eğitim kümesinde en sık yan yana gelen karakter çiftlerini adım adım birleştirerek sabit büyüklükte bir alt kelime sözlüğü inşa eden istatistiksel algoritmadır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Tokenizer-free (tokensız) modeller mümkün müdür?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Evet; son dönemde geliştirilen MambaByte ve MegaByte gibi yeni nesil sinir ağı mimarileri, tokenizer katmanını tamamen kaldırıp doğrudan ham baytlar (bytes) üzerinde işlem yaparak dil eşitsizliğini ortadan kaldırmayı amaçlar."
       }
     }
   ]
@@ -75,12 +84,12 @@
 </script>
 <link rel="alternate" type="text/markdown" href="/dictionary/tokenizer.md">
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="preload" href="/assets/fonts/inter-latin-ext.woff2" as="font" type="font/woff2" crossorigin>
+      <link rel="preload" href="/assets/fonts/inter-latin-ext.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Tokenizer nedir, ne demek ve yapay zekâda nasıl çalışır? LLM tokenlaştırma algoritmaları, BPE, WordPiece ve dil modellerindeki veri işleme adımları.">
+<meta name="twitter:description" content="Tokenizer nedir, ne demek? BPE, WordPiece ve SentencePiece algoritmaları, Türkçe token verimliliği ve LLM mimarisindeki rolüyle kapsamlı rehber.">
 
 <meta property="og:image:alt" content="Tokenizer nedir, ne demek?">
 </head>
@@ -91,10 +100,23 @@
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
 <div class="disc-top"><span class="disc-eyebrow">Sözlük · Yapay Zekâ</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
-<h1 class="disc-title">Tokenizer <span class="disc-accent">nedir, ne demek?</span></h1>
+<h1 class="disc-title">Tokenizer <span class="disc-accent">nedir, ne demek ve nasıl çalışır?</span></h1>
 
-<p class="disc-lead">Tokenizer, metinleri büyük dil modellerinin ve yapay zekâ sistemlerinin anlayabileceği sayısal jetonlara (token) bölen temel veri işleme bileşenidir.</p>
-<section class="disc-sec"><h2>Tanım ve temel işlevi</h2><p>Tokenizer (jetonlaştırıcı / simgeleştirici), doğal dilde yazılmış metinleri yapay zekâ modellerinin matematiksel olarak işleyebileceği sayısal indekslere (token ID) dönüştüren temel bir araçtır. Derin öğrenme ve büyük dil modelleri (LLM) harfleri veya kelimeleri doğrudan insan gibi kavramaz; bunun yerine kelimeleri, heceleri veya alt kelime parçacıklarını sözlükteki sayısal kodlarıyla temsil eder.</p></section><div class="dict-analogy">Bir kitabı okumadan önce onu tek tek harflere, hecelere veya anlamlı kök parçalarına ayırıp, her bir parçaya özel bir barkod numarası vererek dijital bir katalog oluşturmak gibidir. Model metni okurken doğrudan kelimelere değil, bu barkodlara bakar.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>1. <strong>Normalizasyon ve Bölme:</strong> Girdi metni temizlenir ve Byte Pair Encoding (BPE), WordPiece veya SentencePiece gibi algoritmalarla alt kelimelere bölünür.<br>2. <strong>Sözlük Eşleştirmesi:</strong> Her parça, tokenizer&#x27;ın önceden eğitilmiş sözlüğündeki (vocabulary) benzersiz bir sayısal ID ile eşleştirilir.<br>3. <strong>Vektörleştirme:</strong> Üretilen sayısal diziler modelin gömme (embedding) katmanına aktarılarak çok boyutlu anlamsal vektörlere dönüştürülür.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Tüm büyük dil modellerinin (GPT, Claude, Gemini, Llama) ve doğal dil işleme (NLP) hatlarının ilk ve son adımıdır. Prompt gönderdiğinizde girdi tokenizer ile sayılara çevrilir; model cevap ürettiğinde ise bu sayılar detokenizer ile yeniden okunabilir metne dönüştürülür.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Sıradan bir boşluk ayırıcı (string split) ile karıştırılmamalıdır. Modern tokenizer&#x27;lar dillerin morfolojik yapısına göre bir kelimeyi eklerine ayırabilir veya sık kullanılan kelime gruplarını tek bir token olarak işleyebilir.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Tokenizer ne demek ve Türkçe karşılığı nedir?</p><p class="dict-faq-a">Türkçede &#x27;jetonlaştırıcı&#x27; veya &#x27;simgeleştirici&#x27; olarak ifade edilir; metin bloklarını anlamlı en küçük sayısal işlem birimlerine ayıran yazılımdır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Token nedir ve kelimelerden farkı nedir?</p><p class="dict-faq-a">Token, dil modelinin temel işlem birimidir. Bir kelime tek bir token olabileceği gibi, özellikle Türkçe gibi eklemeli dillerde kelimenin kökü ve ekleri (&#x27;kitap-lık-lar-ımız&#x27;) birden fazla token oluşturabilir. Ortalama olarak 100 kelime yaklaşık 130-140 token eder.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Büyük dil modellerinde tokenizer neden kritiktir?</p><p class="dict-faq-a">Modelin bağlam penceresi kapasitesi ve API maliyetleri doğrudan token adedi üzerinden hesaplanır. Verimli ve dili iyi anlayan bir tokenizer, daha düşük maliyet ve daha yüksek anlama başarımı sağlar.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/token/">Token</a><a href="/dictionary/nlp/">NLP</a><a href="/dictionary/tokenizer-free/">Tokenizer-free</a></div></section>
+<p class="disc-lead">Tokenizer (jetonlaştırıcı veya simgeleştirici), doğal dildeki metinleri büyük dil modellerinin (LLM) ve sinir ağlarının matematiksel olarak işleyebileceği sayısal jetonlara (token ID) dönüştüren temel veri işleme bileşenidir.</p>
+
+<section class="disc-sec"><h2>1. Tanım ve temel problem: Neden doğrudan kelimeler değil?</h2><p>Büyük dil modelleri (GPT-4, Claude, Llama vb.) metinleri insan gibi harf harf veya kelime kelime okumaz. Sinir ağları yalnızca matrisler, tensörler ve sayılarla işlem yapabilir. Bu nedenle metnin önce sayılara dökülmesi gerekir.</p><p>Tarihsel olarak doğal dil işlemede (NLP) üç farklı yaklaşım denenmiştir:</p><ol><li><strong>Karakter Bazlı İşleme:</strong> Metin tek tek harflere bölünür (<code>k</code>, <code>i</code>, <code>t</code>, <code>a</code>, <code>p</code>). Sözlük boyutu çok küçüktür (birkaç yüz karakter), ancak cümleler çok uzar. Transformer mimarisinde dikkat mekanizmasının (Self-Attention) işlem karmaşıklığı dizilim uzunluğunun karesiyle (O(N²)) arttığından modelin belleği hızla tükenir.</li><li><strong>Kelime Bazlı İşleme:</strong> Her kelime ayrı bir birim kabul edilir. Ancak bu durumda dildeki her çekim eki, yazım hatası ve yeni kelime için sözlük milyonlarca girdiye fırlar; sözlükte olmayan her kelime "bilinmeyen" (<code>&lt;unk&gt;</code> - Out of Vocabulary) etiketine düşer ve model anlamı kaybeder.</li><li><strong>Alt Kelime (Subword) Çözümü:</strong> Günümüzün modern standardıdır. Sık kullanılan kelimeler tek bir parça ("kitap"), nadir veya türetilmiş kelimeler ise anlamlı alt kök ve eklere ("kitap" + "çı" + "lık") bölünür. Böylece 32.000 ile 128.000 arasında sabit bir sözlük boyutuyla sonsuz sayıda kelime temsil edilebilir.</li></ol></section>
+
+<section class="disc-sec"><h2>2. Tokenizer algoritmaları ve matematiksel mantıkları</h2><p>Modern dil modellerinin kalbinde yer alan başlıca tokenizer algoritmaları şunlardır:</p><ul><li><strong>Byte Pair Encoding (BPE):</strong> Orijinalinde bir veri sıkıştırma algoritması olan BPE, günümüzde GPT serisi ve Llama modellerinin temelidir. Metindeki tüm temel karakterlerle başlar ve korpusta en sık art arda gelen karakter çiftlerini yinelemeli olarak birleştirip sözlüğe ekler.</li><li><strong>WordPiece:</strong> Google tarafından BERT modelinde yaygınlaştırılan bu yöntem, frekans yerine olasılık temellidir. Çiftleri birleştirirken dil modelinin eğitim verisi üzerindeki olabilirlik (likelihood) puanını en çok artıran alt kelime parçalarını seçer.</li><li><strong>SentencePiece ve Byte-Fallback:</strong> Boşlukları da özel bir alt karakter olarak kabul eder ve metni ham bayt akışı olarak ele alır. Sözlükte bulunmayan herhangi bir nadir Unicode karakteri görüldüğünde doğrudan UTF-8 baytına (Byte-Fallback) geri düşerek <code>&lt;unk&gt;</code> hatasını sıfıra indirir.</li></ul></section>
+
+<section class="disc-sec"><h2>3. Türkçede "Tokenizer Vergisi" (The Tokenizer Tax)</h2><p>Büyük dil modellerinin eğitim verilerinin %85'inden fazlası İngilizcedir. Bu durum, tokenizer sözlüğünün ağırlıklı olarak İngilizce kök ve kelimelerle dolmasına yol açar.</p><p>Türkçe gibi zengin eklemeli ve morfolojik dillerde bu durum ciddi bir maliyet ve bağlam eşitsizliği yaratır:</p><ul><li><strong>İngilizce:</strong> <em>"Artificial intelligence is transforming software engineering."</em> cümlesi yaklaşık <strong>7 token</strong> tutar.</li><li><strong>Türkçe:</strong> <em>"Yapay zekâ yazılım mühendisliğini dönüştürüyor."</em> cümlesi eklerin parçalanması nedeniyle <strong>14-16 token</strong> tüketebilir.</li></ul><p>Bu sebeple Türkçe konuşan kullanıcılar aynı bağlam penceresine daha az doküman sığdırabilir ve API servislerine 2 kat daha fazla ücret öder. Llama 3 ve GPT-4o ile sözlük boyutunun 128k üzerine çıkması Türkçe token verimliliğini belirgin şekilde artırmıştır.</p></section>
+
+<section class="disc-sec"><h2>4. Güvenlik ve Uç Durumlar: Glitch Tokens</h2><p>Tokenizer sözlüğünde yer alan ancak modelin ön eğitimi sırasında metin gövdesinde nadiren veya anlamsız bağlamlarda geçen özel token'lara <strong>"Glitch Token"</strong> adı verilir.</p><p>Örneğin Reddit forumlarındaki kullanıcı adlarından veya e-ticaret sitelerindeki kodlardan türeyen <code>SolidGoldMagikarp</code> gibi token'lar modele sorulduğunda; yapay zekâ bu token'ın embedding uzayındaki vektörünü doğru konumlandıramadığı için halüsinasyon görmeye başlar, anlamsız küfürler sıralayabilir veya kilitlenebilir.</p></section>
+
+<div class="dict-analogy">Tokenizer, bir kütüphaneye giren yüz binlerce farklı kitabı tek tek harflere bölmek yerine; en sık kullanılan hece ve kelime köklerine özel barkodlar basan bir tasnif makinesidir. Model metni okurken doğrudan harfleri görmez, her parça için okuttuğu barkod numaralarını hafızasına kaydeder.</div>
+
+<section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Tokenizer ne demek, Türkçe karşılığı nedir?</p><p class="dict-faq-a">Türkçede "jetonlaştırıcı" veya "simgeleştirici" olarak adlandırılır. Doğal dil metinlerini yapay zekâ modelinin anlayacağı en küçük sayısal indekslere (token) bölen yazılımdır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">1 token kaç kelime veya harfe denk gelir?</p><p class="dict-faq-a">İngilizce metinlerde 1 token ortalama 4 karaktere veya 0,75 kelimeye eşittir (100 kelime yaklaşık 130 token). Türkçe gibi sondan eklemeli dillerde ise eklerin parçalanması nedeniyle 1 kelime ortalama 2 ila 3 token tutabilir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">BPE (Byte Pair Encoding) nasıl çalışır?</p><p class="dict-faq-a">En temel karakterlerle başlayıp eğitim kümesinde en sık yan yana gelen karakter çiftlerini adım adım birleştirerek sabit büyüklükte bir alt kelime sözlüğü inşa eden istatistiksel algoritmadır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Tokenizer-free (tokensız) modeller mümkün müdür?</p><p class="dict-faq-a">Evet; son dönemde geliştirilen MambaByte ve MegaByte gibi yeni nesil sinir ağı mimarileri, tokenizer katmanını tamamen kaldırıp doğrudan ham baytlar (bytes) üzerinde işlem yaparak dil eşitsizliğini ortadan kaldırmayı amaçlar.</p></div></div></section>
+
+<section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/token/">Token</a><a href="/dictionary/nlp/">NLP</a><a href="/dictionary/tokenizer-free/">Tokenizer-free</a><a href="/dictionary/prompt-engineering/">Prompt Engineering</a><a href="/dictionary/context/">Context</a></div></section>
 <section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/ai-engineering-from-scratch/">AI Engineering from Scratch</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
