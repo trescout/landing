@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Memory Management nedir, ne demek? Bellek yönetimi rehberi · TreScout Sözlük</title>
-<meta name="description" content="Memory management nedir, ne demek ve nasıl çalışır? Bellek yönetimi, RAM tahsisi, Garbage Collection, stack-heap farkı ve bellek sızıntıları rehberi.">
+<title>Memory Management Nedir, Ne Demek? Stack, Heap ve GC · TreScout</title>
+<meta name="description" content="Memory management (bellek yönetimi) nedir? Stack vs Heap farkı, Garbage Collection mekanizmaları, Rust sahiplik modeli ve bellek sızıntısı rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/memory-management/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/memory-management/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/memory-management/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/memory-management/">
 <link rel="canonical" href="https://trescout.com/dictionary/memory-management/">
-<meta property="og:title" content="Memory Management nedir, ne demek? Bellek yönetimi rehberi">
-<meta property="og:description" content="Memory management nedir, ne demek ve nasıl çalışır? Bellek yönetimi, RAM tahsisi, Garbage Collection, stack-heap farkı ve bellek sızıntıları rehberi.">
+<meta property="og:title" content="Memory Management Nedir, Ne Demek? Stack, Heap ve GC · TreScout">
+<meta property="og:description" content="Memory management (bellek yönetimi) nedir? Stack vs Heap farkı, Garbage Collection mekanizmaları, Rust sahiplik modeli ve bellek sızıntısı rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/memory-management/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Memory Management nedir, ne demek? Bellek yönetimi rehberi">
+<meta name="twitter:title" content="Memory Management Nedir, Ne Demek? Stack, Heap ve GC · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/memory-management.webp">
 <script type="application/ld+json">
 {
@@ -33,7 +33,7 @@
   "name": "Memory Management",
   "alternateName": "Bellek Yönetimi",
   "inLanguage": "tr",
-  "description": "Memory Management (bellek yönetimi), bilgisayarın rastgele erişimli belleğinin (RAM) çalışan programlar arasında tahsis edilmesi, izlenmesi ve temizlenmesi sürecidir.",
+  "description": "Memory Management (bellek yönetimi), bilgisayarın fiziksel ve sanal rastgele erişimli belleğinin (RAM) çalışan yazılımlar arasında tahsis edilmesi, korunması ve kullanım bittiğinde sisteme iade edilmesi sürecidir.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -49,26 +49,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Memory management ne demek ve Türkçe karşılığı nedir?",
+      "name": "Memory management ne demek, Türkçe karşılığı nedir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Türkçede 'bellek yönetimi' olarak ifade edilir. Yazılımların RAM kaynaklarını verimli kullanması için geliştirilen kontrol mekanizmalarıdır."
+        "text": "Memory Management Türkçede \"bellek yönetimi\" anlamına gelir. Bir bilgisayar programının çalışması esnasında RAM kaynaklarının tahsis edilmesi, izlenmesi ve serbest bırakılması süreçlerinin tümüdür."
       }
     },
     {
       "@type": "Question",
-      "name": "Bellek sızıntısı (Memory Leak) nedir ve nasıl önlenir?",
+      "name": "Stack ile Heap arasındaki en temel fark nedir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Programın artık ihtiyaç duymadığı bellek alanlarını serbest bırakmaması sonucu RAM tüketiminin sürekli artması durumudur. Profiling araçları ve referans döngülerini temizleyerek önlenir."
+        "text": "Stack boyutu derleme anında bilinen yerel değişkenleri son derece hızlı şekilde LIFO mantığıyla yönetir; Heap ise çalışma anında dinamik olarak büyüyen nesneler için ayrılan, yönetimi daha karmaşık olan esnek bellek havuzudur."
       }
     },
     {
       "@type": "Question",
-      "name": "Rust dili neden Garbage Collector olmadan bellek güvenliği sunar?",
+      "name": "Garbage Collection (Çöp Toplayıcı) nasıl çalışır?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Rust, 'Ownership ve Borrowing' (sahiplik ve ödünç alma) kurallarını derleme anında doğrular; böylece çalışma zamanında bir çöp toplayıcı çalıştırmadan bellek güvenliği ve maksimum hız sağlar."
+        "text": "Yazılımcının manuel silme yapmadığı dillerde (Java, Go, JS vb.) arka planda çalışan motor, kök değişkenlerden ulaşılamayan yetim nesneleri tespit eder ve RAM'i temizler."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Bellek sızıntısı (Memory Leak) nasıl engellenir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Manuel dillerde her malloc için bir free yazılarak veya RAII desenleri kurularak; çöp toplayıcılı dillerde ise global dizi referansları ve kapatılmayan olay dinleyicileri (event listeners) temizlenerek engellenir."
       }
     }
   ]
@@ -81,7 +89,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Memory management nedir, ne demek ve nasıl çalışır? Bellek yönetimi, RAM tahsisi, Garbage Collection, stack-heap farkı ve bellek sızıntıları rehberi.">
+<meta name="twitter:description" content="Memory management (bellek yönetimi) nedir? Stack vs Heap farkı, Garbage Collection mekanizmaları, Rust sahiplik modeli ve bellek sızıntısı rehberi.">
 
 <meta property="og:image:alt" content="Memory Management nedir, ne demek?">
 </head>
@@ -92,10 +100,35 @@
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
 <div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
-<h1 class="disc-title">Memory Management <span class="disc-accent">nedir, ne demek?</span></h1>
+<h1 class="disc-title">Memory Management <span class="disc-accent">nedir, ne demek ve nasıl çalışır?</span></h1>
 
-<p class="disc-lead">Memory Management (bellek yönetimi), bilgisayarın rastgele erişimli belleğinin (RAM) çalışan programlar arasında tahsis edilmesi ve temizlenmesi sürecidir.</p>
-<section class="disc-sec"><h2>Tanım ve bellek mimarisi</h2><p>Bellek Yönetimi (Memory Management), bir yazılımın veya işletim sisteminin geçici bellek (RAM) kaynaklarını kontrol etme metodolojisidir. Bir program başlatıldığında veya değişken tanımlandığında işletim sistemi bellekte yer ayırır (allocation). İlgili verilerle iş bittiğinde ise bu alanın sisteme iade edilmesi (deallocation) gerekir. Doğru yönetilmeyen bellek, sızıntılara (memory leak) ve uygulamanın çökmesine yol açar.</p></section><div class="dict-analogy">Büyük bir otoparkın vale görevlisi gibidir: Gelen her arabaya (çalışan fonksiyona veya değişkene) uygun boyutta bir park yeri tahsis eder; araba işini bitirip ayrıldığında ise o yeri temizleyip yeni gelen araçlara hazır hale getirir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>1. <strong>Stack ve Heap Ayrımı:</strong><br>- <strong>Stack (Yığın):</strong> Boyutu derleme anında bilinen yerel değişkenlerin tutulduğu, son giren ilk çıkar (LIFO) mantığıyla çalışan son derece hızlı bellek alanıdır.<br>- <strong>Heap (Öbek):</strong> Dinamik olarak çalışma zamanında (runtime) tahsis edilen, daha büyük ancak yönetimi daha karmaşık olan bellek havuzudur.<br>2. <strong>Otomatik Çöp Toplama (Garbage Collection):</strong> JavaScript, Python, Go ve Java gibi modern dillerde artık referans verilmeyen nesneler arka plandaki GC motoru tarafından periyodik olarak taranır ve bellekten silinir.<br>3. <strong>Manuel Bellek Yönetimi:</strong> C ve C++ gibi sistem dillerinde geliştirici <code>malloc</code>/<code>free</code> ile belleği bizzat yönetirken; Rust, sahiplik (ownership) modeliyle derleme anında bellek güvenliğini sağlar.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>İşletim sistemi çekirdeklerinde, oyun motorlarında (Unity, Unreal Engine), veritabanlarında ve yüksek performanslı arka uç mimarilerinde performansı belirleyen ana etkendir.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Kalıcı depolama (SSD / Sabit Disk) ile karıştırılmamalıdır; bellek yönetimi yalnızca bilgisayar açıkken çalışan geçici RAM belleğin optimizasyonunu kapsar.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Memory management ne demek ve Türkçe karşılığı nedir?</p><p class="dict-faq-a">Türkçede &#x27;bellek yönetimi&#x27; olarak ifade edilir. Yazılımların RAM kaynaklarını verimli kullanması için geliştirilen kontrol mekanizmalarıdır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Bellek sızıntısı (Memory Leak) nedir ve nasıl önlenir?</p><p class="dict-faq-a">Programın artık ihtiyaç duymadığı bellek alanlarını serbest bırakmaması sonucu RAM tüketiminin sürekli artması durumudur. Profiling araçları ve referans döngülerini temizleyerek önlenir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Rust dili neden Garbage Collector olmadan bellek güvenliği sunar?</p><p class="dict-faq-a">Rust, &#x27;Ownership ve Borrowing&#x27; (sahiplik ve ödünç alma) kurallarını derleme anında doğrular; böylece çalışma zamanında bir çöp toplayıcı çalıştırmadan bellek güvenliği ve maksimum hız sağlar.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/state-management/">State Management</a><a href="/dictionary/memory-engine/">Memory Engine</a></div></section>
+<p class="disc-lead">Memory Management (bellek yönetimi), bilgisayarın fiziksel ve sanal rastgele erişimli belleğinin (RAM) çalışan yazılımlar arasında tahsis edilmesi, korunması ve kullanım bittiğinde sisteme iade edilmesi sürecidir.</p>
+
+<section class="disc-sec"><h2>1. Bellek anatomisi: Stack (Yığın) ve Heap (Öbek) ayrımı</h2><p>Bir program çalıştırıldığında işletim sistemi o sürece özel bir sanal bellek uzayı (Virtual Address Space) tahsis eder. Bu uzayın en kritik iki bileşeni Stack ve Heap'tir:</p><pre><code>+------------------------------------+ Yüksek Bellek Adresleri (0xFFFFFFFF)
+|           İşletim Sistemi / Kernel |
++------------------------------------+
+|  STACK (Aşağıya doğru büyür ↓)     | &lt;-- Yerel değişkenler, fonksiyon çerçeveleri
+|                 ↓                  |
+|                                    |
+|                 ↑                  |
+|  HEAP (Yukarıya doğru büyür ↑)     | &lt;-- Dinamik nesneler (malloc, new)
++------------------------------------+
+|  BSS (İlklendirilmemiş Global)     |
++------------------------------------+
+|  DATA (İlklendirilmiş Statik Veri) |
++------------------------------------+
+|  TEXT (Makine Kodu / Talimatlar)   |
++------------------------------------+ Düşük Bellek Adresleri (0x00000000)</code></pre><ul><li><strong>Stack (Yığın):</strong> CPU mimarisi tarafından otomatik yönetilir (LIFO). Son derece hızlıdır (yalnızca stack pointer register kaydırılır). Ancak boyutu sabittir (1MB - 8MB) ve sonsuz özyinelemede <strong>Stack Overflow</strong> verir.</li><li><strong>Heap (Öbek):</strong> Yazılımcı veya dilin çalışma ortamı (Runtime) yönetir. Dinamik nesneler için ayrılır; fiziksel RAM ve takas (swap) kadar büyüyebilir. Temizlenmezse <strong>Memory Leak</strong> ve parçalanma (fragmentation) yaratır.</li></ul></section>
+
+<section class="disc-sec"><h2>2. Üç temel bellek yönetimi paradigması</h2><ul><li><strong>Manuel Bellek Yönetimi (C, C++):</strong> Yazılımcı <code>malloc()</code> ve <code>free()</code> ile belleği bizzat yönetir. Maksimum hız ve sıfır gecikme sunar; ancak yazılım dünyasındaki güvenlik açıklarının %70'inden fazlasına sebep olan sızıntı, sarkan işaretçi (dangling pointer) ve Use-After-Free risklerini taşır.</li><li><strong>Otomatik Çöp Toplama (Garbage Collection - Java, Go, Python, JS):</strong> Programcı silme yapmaz; arka planda çalışan GC motoru kök referanslardan ulaşılamayan yetim nesneleri Mark-and-Sweep veya Reference Counting algoritmalarıyla temizler. Ancak periyodik taramalar mikro duraklamalara (Stop-The-World) yol açabilir.</li><li><strong>Sahiplik ve Ömür Modeli (Ownership &amp; Borrowing - Rust):</strong> Rust derleyicisi her bellek bloğunun tek bir sahibi olduğunu derleme anında doğrular. Çöp toplayıcı çalıştırmadan, C hızında %100 bellek güvenliği (Memory Safety) sağlar.</li></ul></section>
+
+<section class="disc-sec"><h2>3. İşletim sistemi seviyesinde bellek: Sanal bellek ve OOM Killer</h2><p>Modern işletim sistemleri programların birbirinin belleğini okumasını engellemek için <strong>Sanal Bellek (Virtual Memory)</strong> ve <strong>Sayfalama (Paging)</strong> mimarisi kullanır. CPU'daki Bellek Yönetim Birimi (MMU), sanal adresleri donanımdaki fiziksel adreslere TLB önbelleği yardımıyla dönüştürür. Fiziksel RAM ve swap tamamen tükendiğinde ise Linux çekirdeğinin <strong>OOM Killer (Out of Memory Killer)</strong> mekanizması sistemi kurtarmak için en agresif süreci <code>SIGKILL</code> ile sonlandırır.</p></section>
+
+<div class="dict-analogy">Stack, masanızdaki kâğıt evrak kulesidir; gelen evrakı en üste koyarsınız ve işiniz bitince en üsttekini anında alırsınız, yerleştirme süresi sıfırdır. Heap ise büyük bir depo gibidir; depocuya gidip kutu için boş bir raf istersiniz, depocu uygun yeri arar, anahtarı size verir ve işiniz bittiğinde rafı depocuya teslim etmeyi unutursanız depo kısa sürede kullanılamaz hale gelir.</div>
+
+<section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Memory management ne demek, Türkçe karşılığı nedir?</p><p class="dict-faq-a">Memory Management Türkçede "bellek yönetimi" anlamına gelir. Bir bilgisayar programının çalışması esnasında RAM kaynaklarının tahsis edilmesi, izlenmesi ve serbest bırakılması süreçlerinin tümüdür.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Stack ile Heap arasındaki en temel fark nedir?</p><p class="dict-faq-a">Stack boyutu derleme anında bilinen yerel değişkenleri son derece hızlı şekilde LIFO mantığıyla yönetir; Heap ise çalışma anında dinamik olarak büyüyen nesneler için ayrılan, yönetimi daha karmaşık olan esnek bellek havuzudur.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Garbage Collection (Çöp Toplayıcı) nasıl çalışır?</p><p class="dict-faq-a">Yazılımcının manuel silme yapmadığı dillerde (Java, Go, JS vb.) arka planda çalışan motor, kök değişkenlerden ulaşılamayan yetim nesneleri tespit eder ve RAM'i temizler.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Bellek sızıntısı (Memory Leak) nasıl engellenir?</p><p class="dict-faq-a">Manuel dillerde her malloc için bir free yazılarak veya RAII desenleri kurularak; çöp toplayıcılı dillerde ise global dizi referansları ve kapatılmayan olay dinleyicileri (event listeners) temizlenerek engellenir.</p></div></div></section>
+
+<section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/runtime/">Runtime</a><a href="/dictionary/state-management/">State Management</a><a href="/dictionary/serialization/">Serialization</a><a href="/dictionary/network-stack/">Network Stack</a><a href="/dictionary/assembly/">Assembly</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>
