@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>QA nedir, ne demek? Quality Assurance ve yazılım test rehberi · TreScout Sözlük</title>
-<meta name="description" content="QA nedir, ne demek ve yazılımda ne anlama gelir? Quality Assurance (Kalite Güvence) süreçleri, test türleri ve yapay zekâda kalite kontrol rehberi.">
+<title>QA Nedir, Ne Demek? Quality Assurance ve Test Süreçleri · TreScout</title>
+<meta name="description" content="QA (Quality Assurance), yazılım geliştirme sürecinde hataları önleyen, test otomasyonu ve standartlarla ürün kalitesini güvenceye alan mühendislik disiplinidir.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/qa/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/qa/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/qa/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/qa/">
 <link rel="canonical" href="https://trescout.com/dictionary/qa/">
-<meta property="og:title" content="QA nedir, ne demek? Quality Assurance ve yazılım test rehberi">
-<meta property="og:description" content="QA nedir, ne demek ve yazılımda ne anlama gelir? Quality Assurance (Kalite Güvence) süreçleri, test türleri ve yapay zekâda kalite kontrol rehberi.">
+<meta property="og:title" content="QA Nedir, Ne Demek? Quality Assurance ve Test Süreçleri · TreScout">
+<meta property="og:description" content="QA (Quality Assurance), yazılım geliştirme sürecinde hataları önleyen, test otomasyonu ve standartlarla ürün kalitesini güvenceye alan mühendislik disiplinidir.">
 <meta property="og:url" content="https://trescout.com/dictionary/qa/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="QA nedir, ne demek? Quality Assurance ve yazılım test rehberi">
+<meta name="twitter:title" content="QA Nedir, Ne Demek? Quality Assurance ve Test Süreçleri · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/qa.webp">
 <script type="application/ld+json">
 {
@@ -33,7 +33,7 @@
   "name": "QA",
   "alternateName": "Quality Assurance",
   "inLanguage": "tr",
-  "description": "QA (Quality Assurance), yazılım geliştirme yaşam döngüsünde hataları önleyen ve ürünün belirlenen standartlara uygunluğunu denetleyen Kalite Güvence sürecidir.",
+  "description": "QA (Quality Assurance - Kalite Güvence), yazılım geliştirme yaşam döngüsünün her aşamasında hataları ortaya çıkmadan önlemeyi, mühendislik standartlarını kurgulamayı ve nihai ürünün güvenilirliğini garanti altına almayı hedefleyen sistematik kalite yönetimi disiplinidir.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -52,23 +52,31 @@
       "name": "QA ne anlama gelir ve açılımı nedir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "İngilizce 'Quality Assurance' kelimelerinin kısaltmasıdır; Türkçede 'Kalite Güvence' anlamına gelir. Yazılımın standartlara uygunluğunu denetleyen metodolojidir."
+        "text": "Quality Assurance ifadesinin kısaltmasıdır; Türkçede Kalite Güvence anlamına gelir. Yazılım süreçlerinin baştan sona hatasız işlemesini sağlayan mühendislik disiplinidir."
       }
     },
     {
       "@type": "Question",
-      "name": "QA ile test etmek veya QC arasındaki fark nedir?",
+      "name": "QA ile QC (Kalite Kontrol) ve Test arasındaki fark nedir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Test ve QC (Kalite Kontrol) yazılımdaki mevcut hataları bulmaya odaklanan operasyonel adımlardır. QA ise hataların baştan hiç meydana gelmemesi için geliştirme süreçlerini ve standartlarını kurgulayan şemsiye yaklaşımdır."
+        "text": "Test ve QC mevcut koddaki hataları bulmaya odaklanan reaktif adımlardır. QA ise hataların baştan hiç meydana gelmemesi için geliştirme süreçlerini, standartlarını ve araçlarını tasarlayan proaktif süreçtir."
       }
     },
     {
       "@type": "Question",
-      "name": "Yapay zekâ ve LLM projelerinde QA nasıl uygulanır?",
+      "name": "Shift-Left ve Shift-Right test yaklaşımları ne demektir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Model çıktılarının doğruluğu, halüsinasyon oranları, yanıt tutarlılığı, güvenlik ve prompt regresyon testleri gibi özel kıyaslama metrikleriyle denetlenir."
+        "text": "Shift-Left test süreçlerini geliştirmenin en başına (kod yazım anına) çekmeyi; Shift-Right ise canlı ortamdaki sistem sağlığını ve kullanıcı davranışlarını anlık izlemeyi ifade eder."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Yapay zeka ve LLM tabanlı uygulamalarda QA nasıl yapılır?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Geleneksel testlerin yanı sıra halüsinasyon oranları, semantik benzerlik, prompt regresyonu ve RAG doğruluk metriklerini ölçen özel değerlendirme (evals) çerçeveleri kullanılır."
       }
     }
   ]
@@ -81,7 +89,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="QA nedir, ne demek ve yazılımda ne anlama gelir? Quality Assurance (Kalite Güvence) süreçleri, test türleri ve yapay zekâda kalite kontrol rehberi.">
+<meta name="twitter:description" content="QA (Quality Assurance), yazılım geliştirme sürecinde hataları önleyen, test otomasyonu ve standartlarla ürün kalitesini güvenceye alan mühendislik disiplinidir.">
 
 <meta property="og:image:alt" content="QA nedir, ne demek?">
 </head>
@@ -94,8 +102,15 @@
 <div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
 <h1 class="disc-title">QA <span class="disc-accent">nedir, ne demek?</span></h1>
 <p class="dict-en">Quality Assurance</p>
-<p class="disc-lead">QA (Quality Assurance), yazılım ürünlerinin belirlenen kalite standartlarına uygun, güvenilir ve hatasız olmasını sağlayan kalite güvence sürecidir.</p>
-<section class="disc-sec"><h2>Tanım ve kapsamı</h2><p>Kalite Güvence (QA), yazılım geliştirme yaşam döngüsünün (SDLC) her adımında hataların ortaya çıkmasını önlemeye ve nihai ürünün kullanıcı beklentilerini eksiksiz karşılamasını sağlamaya odaklanan sistematik bir süreçtir. Yalnızca kod yazıldıktan sonra yapılan testlerle sınırlı değildir; gereksinim analizinden mimari tasarıma, test otomasyonundan dağıtım güvenliğine kadar tüm kalite standartlarını kapsar.</p></section><div class="dict-analogy">Bir restoran mutfağını düşünün: Pişen her yemeğin tadına ve sıcaklığına bakıp tuzu kontrol eden bir şef (test/kontrol) önemlidir; ancak malzemelerin taze temin edilmesini, hijyen kurallarını ve pişirme reçetelerinin eksiksiz uygulanmasını sağlayan mutfak yönetim protokolü QA sürecidir.</div><section class="disc-sec"><h2>Nasıl çalışır ve uygulanır?</h2><p>1. <strong>Gereksinim ve Kriter Analizi:</strong> Ürünün kabul kriterleri (acceptance criteria) ve kalite hedefleri geliştirme öncesinde netleştirilir.<br>2. <strong>Test Senaryoları ve Otomasyon:</strong> Birim testler (unit test), entegrasyon testleri ve uçtan uca (E2E) test senaryoları CI/CD ardışık düzenine entegre edilir.<br>3. <strong>Manuel ve Kullanılabilirlik Doğrulaması:</strong> Otomasyonun gözden kaçırabileceği kullanıcı deneyimi (UX), sınır durumlar ve güvenlik açıkları test mühendisleri tarafından incelenir.<br>4. <strong>Geri Bildirim ve Süreç İyileştirme:</strong> Karşılaşılan hataların kök nedeni (root cause) analiz edilerek geliştirme pratikleri güncellenir.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Mobil ve web uygulamalarında, kurumsal bulut mimarilerinde, finans ve sağlık gibi kritik yazılımlarda ve yapay zekâ model geliştirme süreçlerinde kullanılır.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">QA ne anlama gelir ve açılımı nedir?</p><p class="dict-faq-a">İngilizce &#x27;Quality Assurance&#x27; kelimelerinin kısaltmasıdır; Türkçede &#x27;Kalite Güvence&#x27; anlamına gelir. Yazılımın standartlara uygunluğunu denetleyen metodolojidir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">QA ile test etmek veya QC arasındaki fark nedir?</p><p class="dict-faq-a">Test ve QC (Kalite Kontrol) yazılımdaki mevcut hataları bulmaya odaklanan operasyonel adımlardır. QA ise hataların baştan hiç meydana gelmemesi için geliştirme süreçlerini ve standartlarını kurgulayan şemsiye yaklaşımdır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Yapay zekâ ve LLM projelerinde QA nasıl uygulanır?</p><p class="dict-faq-a">Model çıktılarının doğruluğu, halüsinasyon oranları, yanıt tutarlılığı, güvenlik ve prompt regresyon testleri gibi özel kıyaslama metrikleriyle denetlenir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/unit-testing/">Unit Testing</a><a href="/dictionary/end-to-end-testing/">End-to-End Testing</a><a href="/dictionary/testing-framework/">Testing Framework</a><a href="/dictionary/benchmark/">Benchmarks</a></div></section>
+<p class="disc-lead">QA (Quality Assurance - Kalite Güvence), yazılım geliştirme yaşam döngüsünün her aşamasında hataları ortaya çıkmadan önlemeyi, mühendislik standartlarını kurgulamayı ve nihai ürünün güvenilirliğini garanti altına almayı hedefleyen sistematik kalite yönetimi disiplinidir.</p>
+<section class="disc-sec"><h2>Kavramsal köken: Deming döngüsü ve üretim hatlarından yazılıma</h2><p>Kalite Güvence kavramı yazılımdan çok önce, 20. yüzyılın ortalarında endüstriyel üretimde doğmuştur. W. Edwards Deming ve Walter Shewhart'ın temellerini attığı Toplam Kalite Yönetimi (TQM) ve PDCA döngüsü (Plan-Do-Check-Act / Planla-Uygula-Kontrol Et-Önlem Al), kalitenin sonradan denetlenemeyeceğini, ürünün içine bizzat inşa edilmesi gerektiğini savunur. Toyota Üretim Sistemi'ndeki <em>Jidoka</em> (kusurlu ürün üretildiğinde hattı anında durdurma) prensibi de bugünkü modern sürekli entegrasyon (CI) ve QA felsefesinin atasıdır.</p><p>Yazılım dünyasında ise Barry Boehm'in ünlü "Yazılım Mühendisliği Ekonomisi" araştırması, tasarım aşamasında fark edilen bir hatayı düzeltmenin maliyeti 1 birimken, canlıya (production) çıktıktan sonra düzeltmenin maliyetinin 100 katına çıkabildiğini kanıtlamıştır. QA, bu devasa maliyeti ve itibar kaybını önlemek için vardır.</p></section>
+<section class="disc-sec"><h2>Kritik ayrım: QA vs QC vs Testing</h2><p>Bu üç kavram sıklıkla birbiri yerine kullanılsa da aralarında net metodolojik sınırlar bulunur:</p><p><strong>Test (Testing):</strong> Yazılımın belirli bir sürümündeki somut hataları (bug) bulmak için senaryoların çalıştırılmasıdır (ürün odaklı ve reaktiftir).</p><p><strong>Kalite Kontrol (QC - Quality Control):</strong> Ürünün yayına çıkmadan önce belirlenen teknik şartnamelere ve kabul kriterlerine uygun olup olmadığını doğrulayan denetim kapısıdır (ürün odaklı ve reaktiftir).</p><p><strong>Kalite Güvence (QA - Quality Assurance):</strong> Hataların hiç ortaya çıkmaması için geliştirme metodolojilerini, test altyapısını, mimari standartları ve CI/CD süreçlerini tasarlayan şemsiye disiplindir (süreç odaklı ve proaktiftir).</p></section>
+<section class="disc-sec"><h2>Modern QA paradigması: Shift-Left ve Shift-Right</h2><p>Geleneksel şelale (waterfall) modelinde geliştiriciler kodu yazar, ardından test edilmesi için QA departmanına "duvarın üzerinden atardı". Modern çevik (Agile) ve DevOps dünyasında bu yaklaşım yerini iki tamamlayıcı yöne bırakmıştır:</p><p><strong>1. Shift-Left (Sola Kayma):</strong> Kalite kontrolünü geliştirmenin en başına çeker. Geliştirici daha kod yazarken statik analiz (ESLint, SonarQube), tip denetimi (TypeScript), birim testleri (Jest, pytest) ve TDD (Test-Driven Development) uygular. QA mühendisi burada test koşan kişi değil, test altyapısını ve çerçevelerini (framework) inşa eden bir platform mimarıdır.</p><p><strong>2. Shift-Right (Sağa Kayma):</strong> Kod canlıya çıktıktan sonra kalitenin korunmasıdır. Sentetik izleme, kanarya dağıtımları, hata takibi (Sentry), kaos mühendisliği (Chaos Engineering) ve canlı trafik analitiği ile gerçek kullanıcı deneyimi denetlenir.</p></section>
+<section class="disc-sec"><h2>Test piramidi ve otomasyon katmanları</h2><p>Sağlam bir QA mimarisi Mike Cohn'un Test Piramidi prensibine dayanır:</p><p><strong>Birim Testleri (Unit Tests):</strong> Tabanı oluşturur; bağımsız fonksiyonları izole olarak test eder, milisaniyeler içinde çalışır ve maliyeti en düşüktür.</p><p><strong>Entegrasyon ve Sözleşme Testleri (Integration &amp; Contract Tests):</strong> Veritabanı, önbellek ve mikroservisler arası API sözleşmelerini (ör. Pact) doğrular.</p><p><strong>Uçtan Uca Testler (E2E Tests):</strong> Cypress veya Playwright gibi araçlarla gerçek bir kullanıcının tarayıcıdaki adımlarını simüle eder; kapsamı geniştir ancak bakımı daha maliyetlidir.</p><p><strong>Fonksiyonel Olmayan Testler:</strong> Yük ve stres testleri (k6, Locust), güvenlik açığı taramaları (SAST/DAST) ve erişilebilirlik (WCAG / a11y) denetimlerini içerir.</p></section>
+<div class="dict-analogy">Hata ayıklamak (debugging) ameliyat masasında müdahale etmek, yazılım testi yapmak ise laboratuvar tahlili almaktır. QA ise toplum sağlığı ve koruyucu hekimlik protokolüdür: Sağlıklı beslenme rehberleri, aşı takvimleri ve hijyen kuralları koyarak hastalanma riskini baştan yok etmeyi hedefler.</div>
+<section class="disc-sec"><h2>Yapay zeka ve LLM çağında QA</h2><p>Büyük dil modelleri (LLM) gibi olasılıksal (non-deterministic) sistemlerin yaygınlaşmasıyla QA disiplini yeni bir evreye girmiştir:</p><p><strong>LLM Değerlendirmeleri (Evals):</strong> Model yanıtlarının halüsinasyon, doğruluk, toksisite ve alaka düzeyini puanlayan otomatik denetimler (DeepEval, Ragas).</p><p><strong>Semantik Regresyon Testleri:</strong> Prompt şablonlarında yapılan bir değişikliğin önceki yanıt kalitesini bozup bozmadığını ölçen kıyaslama kümeleri (benchmarks).</p><p><strong>Yapay Zeka Destekli Test Üretimi:</strong> Test senaryolarının ve görsel arayüz regresyon farklarının yapay zeka modelleriyle otomatik tespiti.</p></section>
+<section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">QA ne anlama gelir ve açılımı nedir?</p><p class="dict-faq-a">Quality Assurance ifadesinin kısaltmasıdır; Türkçede Kalite Güvence anlamına gelir. Yazılım süreçlerinin baştan sona hatasız işlemesini sağlayan mühendislik disiplinidir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">QA ile QC (Kalite Kontrol) ve Test arasındaki fark nedir?</p><p class="dict-faq-a">Test ve QC mevcut koddaki hataları bulmaya odaklanan reaktif adımlardır. QA ise hataların baştan hiç meydana gelmemesi için geliştirme süreçlerini, standartlarını ve araçlarını tasarlayan proaktif süreçtir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Shift-Left ve Shift-Right test yaklaşımları ne demektir?</p><p class="dict-faq-a">Shift-Left test süreçlerini geliştirmenin en başına (kod yazım anına) çekmeyi; Shift-Right ise canlı ortamdaki sistem sağlığını ve kullanıcı davranışlarını anlık izlemeyi ifade eder.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Yapay zeka ve LLM tabanlı uygulamalarda QA nasıl yapılır?</p><p class="dict-faq-a">Geleneksel testlerin yanı sıra halüsinasyon oranları, semantik benzerlik, prompt regresyonu ve RAG doğruluk metriklerini ölçen özel değerlendirme (evals) çerçeveleri kullanılır.</p></div></div></section>
+<section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/unit-testing/">Unit Testing</a><a href="/dictionary/end-to-end-testing/">End-to-End Testing</a><a href="/dictionary/testing-framework/">Testing Framework</a><a href="/dictionary/production-pipeline/">Production Pipeline</a><a href="/dictionary/benchmark/">Benchmarks</a><a href="/dictionary/runtime/">Runtime</a></div></section>
 <section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/gstack/">Gstack</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>

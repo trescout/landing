@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Production Pipeline Nedir, Ne Demek? CI/CD ve Dağıtım Süreçleri · TreScout</title>
-<meta name="description" content="Production pipeline (üretim hattı), yazılım geliştirme, otomatik test ve derleme adımlarından canlı sunucuya kesintisiz dağıtıma uzanan CI/CD süreç zinciridir.">
+<title>Production Pipeline Nedir, Ne Demek? Dağıtım Süreçleri · TreScout</title>
+<meta name="description" content="Production pipeline (üretim boru hattı), kodun derlenmesinden canlıya kesintisiz aktarılmasına uzanan otomatikleştirilmiş CI/CD ve test süreçleri zinciridir.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/dictionary/production-pipeline/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/production-pipeline/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="es" href="https://trescout.com/es/dictionary/production-pipeline/">
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/production-pipeline/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/production-pipeline/">
-<meta property="og:title" content="Production Pipeline Nedir, Ne Demek? CI/CD ve Dağıtım Süreçleri · TreScout">
-<meta property="og:description" content="Production pipeline (üretim hattı), yazılım geliştirme, otomatik test ve derleme adımlarından canlı sunucuya kesintisiz dağıtıma uzanan CI/CD süreç zinciridir.">
+<meta property="og:title" content="Production Pipeline Nedir, Ne Demek? Dağıtım Süreçleri · TreScout">
+<meta property="og:description" content="Production pipeline (üretim boru hattı), kodun derlenmesinden canlıya kesintisiz aktarılmasına uzanan otomatikleştirilmiş CI/CD ve test süreçleri zinciridir.">
 <meta property="og:url" content="https://trescout.com/dictionary/production-pipeline/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Production Pipeline Nedir, Ne Demek? CI/CD ve Dağıtım Süreçleri · TreScout">
+<meta name="twitter:title" content="Production Pipeline Nedir, Ne Demek? Dağıtım Süreçleri · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/production-pipeline.webp">
 <script type="application/ld+json">
 {
@@ -32,7 +32,7 @@
   "@type": "DefinedTerm",
   "name": "Production Pipeline",
   "inLanguage": "tr",
-  "description": "Production pipeline (üretim boru hattı), yazılım geliştiricilerin yazdığı kodların derlenmesi, otomatik testlerden geçirilmesi, paketlenmesi ve canlı (production) ortama sıfır kesintiyle dağıtılmasını sağlayan otomatikleştirilmiş süreçler zinciridir.",
+  "description": "Production pipeline (üretim boru hattı), yazılım geliştiricilerin yazdığı kaynak kodların otomatik olarak derlenmesi, test edilmesi, güvenlik taramalarından geçirilmesi, paketlenmesi ve canlı (production) ortama sıfır kesintiyle dağıtılmasını sağlayan entegre mühendislik süreçleri zinciridir.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -48,18 +48,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Dağıtım sırasında kullanıcılarda kesinti yaşanır mı?",
+      "name": "Production pipeline ne demek ve temel amacı nedir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Modern production pipeline'larında kullanılan blue-green veya rolling update stratejileri sayesinde kullanıcılar hiçbir kesinti (zero-downtime) hissetmez."
+        "text": "Yazılım üretim boru hattı demektir. Geliştirilen kaynak kodun insan hatasından arındırılmış biçimde otomatik olarak test edilip derlenmesini ve canlı sunuculara güvenle ulaştırılmasını amaçlar."
       }
     },
     {
       "@type": "Question",
-      "name": "Production pipeline için hangi araçlar kullanılır?",
+      "name": "Production pipeline ile CI/CD arasındaki fark nedir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "GitHub Actions, GitLab CI, Jenkins, ArgoCD, Docker ve Kubernetes modern üretim hatlarının en yaygın yapı taşlarıdır."
+        "text": "CI/CD (Sürekli Entegrasyon / Sürekli Dağıtım), pipeline'ın temel metodolojisi ve omurgasıdır. Production pipeline ise CI/CD'nin yanı sıra ortam provizyonu, güvenlik taramaları (DevSecOps), onay mekanizmaları ve gözlemlenebilirlik araçlarını da kapsayan geniş sistemin adıdır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Production pipeline hangi araçlarla kurulur?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sürüm kontrolünde GitHub ve GitLab; orkestrasyonda GitHub Actions, Jenkins ve ArgoCD; paketlemede Docker; altyapıda Kubernetes ve Terraform en yaygın araçlardır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Dağıtım sırasında sistemde kesinti yaşanır mı?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "İyi tasarlanmış bir production pipeline'da Mavi-Yeşil veya Kanarya dağıtım yöntemleri kullanılır; bu sayede kullanıcılar kesinti hissetmeden yeni sürüme aktarılır (zero-downtime)."
       }
     }
   ]
@@ -72,7 +88,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Production pipeline (üretim hattı), yazılım geliştirme, otomatik test ve derleme adımlarından canlı sunucuya kesintisiz dağıtıma uzanan CI/CD süreç zinciridir.">
+<meta name="twitter:description" content="Production pipeline (üretim boru hattı), kodun derlenmesinden canlıya kesintisiz aktarılmasına uzanan otomatikleştirilmiş CI/CD ve test süreçleri zinciridir.">
 
 <meta property="og:image:alt" content="Production Pipeline nedir?">
 </head>
@@ -85,8 +101,14 @@
 <div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
 <h1 class="disc-title">Production Pipeline <span class="disc-accent">nedir?</span></h1>
 
-<p class="disc-lead">Production pipeline (üretim boru hattı), yazılım geliştiricilerin yazdığı kodların derlenmesi, otomatik testlerden geçirilmesi, paketlenmesi ve canlı (production) ortama sıfır kesintiyle dağıtılmasını sağlayan otomatikleştirilmiş süreçler zinciridir.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Production pipeline, kodun geliştirici bilgisayarından çıkıp canlı sunuculara güvenle ulaşmasını sağlayan bir yazılım üretim hattıdır. Bu süreçte kod otomatik olarak test edilir, güvenlik açıkları taranır, derlenir ve canlı ortama aktarılır. İnsan müdahalesini ve manuel hata riskini en aza indirerek yazılımın her zaman güncel, hızlı ve kararlı kalmasını sağlar.</p></section><section class="disc-sec"><h2>Production pipeline ne demek?</h2><p>Sanayideki montaj ve üretim hatlarından esinlenen bu kavram, yazılım mühendisliğinde kodun kaynaktan (Git deposu) son kullanıcıya ulaşana kadar geçtiği standart kalite, güvenlik ve dağıtım adımlarını ifade eder. Modern CI/CD (Continuous Integration / Continuous Deployment) kültürünün belkemiğidir.</p></section><section class="disc-sec"><h2>Production pipeline aşamaları nelerdir?</h2><p><strong>1. Kaynak ve Tetikleme (Source):</strong> Geliştirici ana dala kod gönderdiğinde (git push) veya pull request açtığında pipeline otomatik tetiklenir.</p><p><strong>2. Derleme ve Paketleme (Build):</strong> Kod derlenir, kütüphane bağımlılıkları yüklenir ve Docker imajı gibi çalıştırılabilir paketler üretilir.</p><p><strong>3. Otomatik Test ve Denetim (Test &amp; Lint):</strong> Birim testleri (unit tests), entegrasyon testleri ve statik kod analiz araçları (SAST) devreye girer.</p><p><strong>4. Staging / Öngösterim:</strong> Üretim ortamının birebir kopyasında son entegrasyon kontrolleri yapılır.</p><p><strong>5. Canlıya Dağıtım (Production Deployment):</strong> Mavi-yeşil (blue-green) veya kademeli (canary) dağıtım stratejileriyle kesintisiz yayına alınır.</p></section><div class="dict-analogy">Bir otomobil fabrikasındaki robotik montaj hattı gibidir; ham parça (kod) hatta girer, farklı istasyonlarda güvenlik testlerinden geçer, boyanır, monte edilir ve sıfır hatayla trafiğe (canlı sistem) çıkar.</div><section class="disc-sec"><h2>Neden kritiktir?</h2><p>Manuel sunucuya dosya kopyalama (FTP, manuel SSH) dönemini kapatır; dağıtım sürelerini günlerden dakikalara indirir ve olası bir arıza durumunda tek tıkla önceki sürüme geri dönmeyi (rollback) sağlar.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar: Data Pipeline ile farkı nedir?</h2><p>Data pipeline verinin bir kaynaktan alınıp işlenerek veritabanına depolanmasını (ETL) yönetirken; production pipeline doğrudan çalışan yazılım kodunun kendisini test edip yayına hazırlar.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Dağıtım sırasında kullanıcılarda kesinti yaşanır mı?</p><p class="dict-faq-a">Modern production pipeline'larında kullanılan blue-green veya rolling update stratejileri sayesinde kullanıcılar hiçbir kesinti (zero-downtime) hissetmez.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Production pipeline için hangi araçlar kullanılır?</p><p class="dict-faq-a">GitHub Actions, GitLab CI, Jenkins, ArgoCD, Docker ve Kubernetes modern üretim hatlarının en yaygın yapı taşlarıdır.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/ci-cd/">CI/CD</a><a href="/dictionary/data-pipeline/">Data Pipeline</a><a href="/dictionary/deployment/">Deployment</a></div></section>
+<p class="disc-lead">Production pipeline (üretim boru hattı), yazılım geliştiricilerin yazdığı kaynak kodların otomatik olarak derlenmesi, test edilmesi, güvenlik taramalarından geçirilmesi, paketlenmesi ve canlı (production) ortama sıfır kesintiyle dağıtılmasını sağlayan entegre mühendislik süreçleri zinciridir.</p>
+<section class="disc-sec"><h2>Kavramsal köken, etimoloji ve üretim hattı felsefesi</h2><p>"Pipeline" sözcüğü petrol ve su taşımacılığındaki boru hatlarından; "production" ise endüstriyel fabrikalardaki montaj hatlarından (assembly line) yazılım mühendisliğine ödünç alınmıştır. Henry Ford'un 20. yüzyılın başında seri üretim bandıyla otomotivde yarattığı devrim neyse; production pipeline da yazılım sektöründe manuel, hataya açık ve belirsiz dağıtım süreçlerini sonlandıran modern endüstriyel üretim standardıdır.</p><p>Geleneksel yazılım süreçlerinde geliştiriciler kodu yazar, ardından elle bir sunucuya SSH veya FTP ile bağlanarak dosyaları kopyalardı. Bu "el yapımı" yaklaşım, konfigürasyon sapmalarına (configuration drift), ortam uyumsuzluklarına ve öngörülemeyen sistem çökmelerine yol açıyordu. Production pipeline, kaynak kodun depoya (Git) girdiği ilk saniyeden son kullanıcıya ulaştığı ana kadar her aşamayı kodlanabilir, tekrarlanabilir ve denetlenebilir (declarative) bir fabrika bandına dönüştürür.</p></section>
+<div class="dict-analogy">Modern ve tam otomatik bir uçak fabrikasını düşünün: Ham titanyum parçalar (kaynak kod) banda girer; lazer ölçüm cihazları her mikronu tarar (statik kod analizi ve linting), dayanıklılık simülasyonları yapılır (birim ve entegrasyon testleri), kabin montajı tamamlanır (derleme ve konteynerizasyon), rüzgar tünelinde test uçuşu gerçekleştirilir (staging ortamı) ve son olarak uluslararası havacılık sertifikası onaylanınca yolcu taşımaya başlar (canlıya çıkış / production).</div>
+<section class="disc-sec"><h2>Bir üretim hattının 5 kritik istasyonu</h2><p>Eksiksiz bir kurumsal production pipeline şu adımlardan oluşur:</p><p><strong>1. Kaynak ve Tetikleme (Source &amp; Trigger):</strong> Geliştirici kodunu ana dala (main branch) gönderdiğinde veya bir Pull Request (PR) açtığında webhook'lar aracılığıyla süreç otomatik başlar.</p><p><strong>2. Statik Analiz ve Derleme (Build &amp; Lint):</strong> Kod derlenir, stil kuralları denetlenir ve güvenlik açıkları taranır (SAST ve bağımlılık taraması - Trivy, Snyk). Ardından imutatif (değiştirilemez) bir Docker imajı oluşturulup imaj deposuna (Container Registry) yüklenir.</p><p><strong>3. Kapsamlı Test Piramidi (Automated Testing):</strong> Hızlı çalışan birim testleri (unit tests), servisler arası entegrasyon testleri ve kullanıcı senaryolarını simüle eden uçtan uca (E2E) testler çalıştırılır. Testlerden biri dahi başarısız olursa boru hattı üretimi derhal durdurur (Andon Kordonu ilkesi).</p><p><strong>4. Staging / Geçici Doğrulama Ortamı (Preview Environments):</strong> Üretim ortamının birebir kopyası olan izole bir alanda duman testleri (smoke tests) ve yük testleri icra edilir.</p><p><strong>5. Kademeli Canlıya Dağıtım (Progressive Delivery):</strong> Kod, Mavi-Yeşil (Blue-Green) ya da Kanarya (Canary) dağıtım teknikleriyle canlıya aktarılır. Sistem sağlık metrikleri (hata oranı, gecikme) anlık gözlemlenerek herhangi bir sorunda otomatik geri alma (rollback) tetiklenir.</p></section>
+<section class="disc-sec"><h2>Sektörel ayrımlar: Production Pipeline vs Data Pipeline vs VFX Pipeline</h2><p>"Pipeline" kelimesi farklı teknik disiplinlerde farklı anlamlara gelir:</p><p><strong>Yazılım Production Pipeline:</strong> Yazılım kodunun derlenmesi, test edilmesi ve sunuculara dağıtılması sürecidir (CI/CD).</p><p><strong>Veri Boru Hattı (Data Pipeline):</strong> Verinin çeşitli kaynaklardan toplanması, temizlenmesi, dönüştürülmesi ve analitik veritabanlarına aktarılması (ETL / ELT) sürecidir.</p><p><strong>Görsel Efekt ve 3D Pipeline (VFX / Animation):</strong> 3D modelleme, render, doku kaplama ve kompozitleme yazılımları (Maya, Houdini, Blender) arasındaki dijital varlıkların (assets) işlenme zinciridir.</p></section>
+<section class="disc-sec"><h2>DORA metrikleri ve mühendislik verimliliği</h2><p>Bir organizasyonun production pipeline olgunluğu, Google'ın DORA (DevOps Research and Assessment) araştırmasında belirlenen dört altın metrik ile ölçülür:</p><p><strong>Dağıtım Sıklığı (Deployment Frequency):</strong> Kodun canlıya alınma hızı (ayda bir yerine günde birden çok kez).</p><p><strong>Değişiklik Teslim Süresi (Lead Time for Changes):</strong> İlk commit'ten canlıya geçişe kadar geçen süre.</p><p><strong>Değişiklik Başarısızlık Oranı (Change Failure Rate):</strong> Canlıya alınan sürümlerin ne kadarında düzeltme veya geri alma gerektiği.</p><p><strong>Hizmet Geri Yükleme Süresi (MTTR):</strong> Canlıda bir aksaklık çıktığında sistemin yeniden ayağa kalkma hızı.</p></section>
+<section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Production pipeline ne demek ve temel amacı nedir?</p><p class="dict-faq-a">Yazılım üretim boru hattı demektir. Geliştirilen kaynak kodun insan hatasından arındırılmış biçimde otomatik olarak test edilip derlenmesini ve canlı sunuculara güvenle ulaştırılmasını amaçlar.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Production pipeline ile CI/CD arasındaki fark nedir?</p><p class="dict-faq-a">CI/CD (Sürekli Entegrasyon / Sürekli Dağıtım), pipeline'ın temel metodolojisi ve omurgasıdır. Production pipeline ise CI/CD'nin yanı sıra ortam provizyonu, güvenlik taramaları (DevSecOps), onay mekanizmaları ve gözlemlenebilirlik araçlarını da kapsayan geniş sistemin adıdır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Production pipeline hangi araçlarla kurulur?</p><p class="dict-faq-a">Sürüm kontrolünde GitHub ve GitLab; orkestrasyonda GitHub Actions, Jenkins ve ArgoCD; paketlemede Docker; altyapıda Kubernetes ve Terraform en yaygın araçlardır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Dağıtım sırasında sistemde kesinti yaşanır mı?</p><p class="dict-faq-a">İyi tasarlanmış bir production pipeline'da Mavi-Yeşil veya Kanarya dağıtım yöntemleri kullanılır; bu sayede kullanıcılar kesinti hissetmeden yeni sürüme aktarılır (zero-downtime).</p></div></div></section>
+<section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/deployment/">Deployment</a><a href="/dictionary/data-pipeline/">Data Pipeline</a><a href="/dictionary/cloud-computing/">Cloud Computing</a><a href="/dictionary/tech-stack/">Tech Stack</a><a href="/dictionary/git-push/">Git Push</a><a href="/dictionary/runtime/">Runtime</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>
