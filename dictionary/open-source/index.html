@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Open Source nedir? · TreScout Sözlük</title>
-<meta name="description" content="Kaynak kodları herkesin erişimine ve geliştirmesine açık olan yazılımlardır.">
+<title>Open Source Nedir, Ne Demek? Açık Kaynak Yazılım Rehberi · TreScout</title>
+<meta name="description" content="Open Source nedir, ne demek? Açık kaynak yazılım felsefesi, lisans türleri (MIT, GPL, Apache), topluluk yönetimi ve ekosistem güvenlik rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/open-source/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/open-source/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/open-source/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/open-source/">
 <link rel="canonical" href="https://trescout.com/dictionary/open-source/">
-<meta property="og:title" content="Open Source nedir?">
-<meta property="og:description" content="Kaynak kodları herkesin erişimine ve geliştirmesine açık olan yazılımlardır.">
+<meta property="og:title" content="Open Source Nedir, Ne Demek? Açık Kaynak Yazılım Rehberi">
+<meta property="og:description" content="Open Source nedir, ne demek? Açık kaynak yazılım felsefesi, lisans türleri (MIT, GPL, Apache), topluluk yönetimi ve ekosistem güvenlik rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/open-source/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,15 +24,17 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Open Source nedir?">
+<meta name="twitter:title" content="Open Source Nedir, Ne Demek? Açık Kaynak Yazılım Rehberi">
+<meta name="twitter:description" content="Open Source nedir, ne demek? Açık kaynak yazılım felsefesi, lisans türleri (MIT, GPL, Apache), topluluk yönetimi ve ekosistem güvenlik rehberi.">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/open-source.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Open Source",
+  "alternateName": "Açık Kaynak",
   "inLanguage": "tr",
-  "description": "Açık kaynak, bir yazılımın kaynak kodlarının herkesin incelemesine, değiştirmesine ve dağıtmasına izin verecek şekilde paylaşılmasıdır. Bu yaklaşım, yazılımın topluluk tarafından geliştirilmesini ve şeffaf bir şekilde büyümesini sağlar.",
+  "description": "Open Source (açık kaynak), bir yazılımın kaynak kodlarının telif hakkı sahibi tarafından herkesin incelemesine, değiştirmesine, geliştirmesine ve yasal lisanslar altında özgürce yeniden dağıtmasına izin verildiği merkeziyetsiz iş birliği modelidir.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -47,22 +49,38 @@
   "@type": "FAQPage",
   "mainEntity": [
     {
-      "@type": "Question",
-      "name": "Açık kaynak güvenli midir?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Evet, binlerce göz kodu incelediği için güvenlik açıkları kapalı kaynak yazılımlara göre genellikle daha hızlı bulunur ve kapatılır."
-      }
+        "@type": "Question",
+        "name": "Açık kaynak (Open Source) ile özgür yazılım (Free Software) arasındaki temel fark nedir?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Özgür yazılım hareketi etik, felsefi ve kullanıcı haklarını temel alarak kodun sonsuza dek özgür kalmasını (copyleft) savunurken; açık kaynak hareketi daha pragmatik, metodolojik ve kurumsal iş dünyasının adaptasyonuna odaklanan bir yaklaşımı benimser."
+        }
     },
     {
-      "@type": "Question",
-      "name": "Herkes kod değiştirebilir mi?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Evet, ancak değişikliklerin ana projeye dahil edilmesi genellikle projenin ana sorumlularının onayına bağlıdır."
-      }
+        "@type": "Question",
+        "name": "Açık kaynak kodlu bir yazılımı ticari projelerimde kullanıp satabilir miyim?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet, ancak bu durum kullanılan lisansa bağlıdır; MIT veya Apache gibi izin verici lisanslar kapalı kaynak ticari satışa izin verirken, GPL gibi katı copyleft lisanslar projenizin kaynak kodunu da aynı şekilde açmanızı zorunlu kılar."
+        }
+    },
+    {
+        "@type": "Question",
+        "name": "Açık kaynak yazılımlar kapalı kaynak yazılımlara göre daha mı güvenlidir?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Açık kaynakta kod kamuya açık olduğu için güvenlik açıkları küresel topluluk ve bağımsız güvenlik araştırmacıları tarafından çok daha hızlı tespit edilip yamalanır; gizliliğe dayalı güvenlik zaaflarından arındırılmıştır."
+        }
+    },
+    {
+        "@type": "Question",
+        "name": "Açık kaynak projeleri geliştiren şirketler ve topluluklar nasıl gelir elde eder?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Şirketler açık kaynak yazılımlar etrafında kurumsal teknik destek, SLA garantisi, yönetilen bulut barındırma (SaaS), kurumsal ek eklentiler (open-core) ve danışmanlık hizmetleri sunarak sürdürülebilir iş modelleri kurarlar."
+        }
     }
-  ]
+]
 }
 </script>
 <link rel="alternate" type="text/markdown" href="/dictionary/open-source.md">
@@ -71,10 +89,7 @@
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
-
-<meta name="twitter:description" content="Kaynak kodları herkesin erişimine ve geliştirmesine açık olan yazılımlardır.">
-
-<meta property="og:image:alt" content="Open Source nedir?">
+<meta property="og:image:alt" content="Open Source nedir, ne demek?">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
@@ -82,12 +97,61 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-06-03">Son güncelleme: 3 Haziran 2026</time></div>
-<h1 class="disc-title">Open Source <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
+<h1 class="disc-title">Open Source <span class="disc-accent">nedir, ne demek?</span></h1>
+<p class="dict-en">Açık Kaynak</p>
+<p class="disc-lead">Open Source (açık kaynak), bir yazılımın kaynak kodlarının telif hakkı sahibi tarafından herkesin incelemesine, değiştirmesine, geliştirmesine ve yasal lisanslar altında özgürce yeniden dağıtmasına izin verildiği merkeziyetsiz iş birliği modelidir.</p>
 
-<p class="disc-lead">Kaynak kodları herkesin erişimine ve geliştirmesine açık olan yazılımlardır.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Açık kaynak, bir yazılımın kaynak kodlarının herkesin incelemesine, değiştirmesine ve dağıtmasına izin verecek şekilde paylaşılmasıdır. Bu yaklaşım, yazılımın topluluk tarafından geliştirilmesini ve şeffaf bir şekilde büyümesini sağlar.</p></section><div class="dict-analogy">Şöyle düşünün: Bir yemeğin tarifini gizli tutmak yerine herkese açık bir yemek kitabında yayınlayıp, herkesin o tarifi geliştirip daha lezzetli hale getirmesine izin vermek gibidir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Geliştiriciler kodlarını GitHub gibi platformlarda paylaşır. Dünyanın her yerinden gönüllü yazılımcılar bu kod üzerinde çalışır, hataları düzeltir ve yeni özellikler ekler.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>İşletim sistemlerinden (Linux gibi) yapay zekâ modellerine kadar modern teknolojinin temelinde yer alır. Şirketler maliyetleri düşürmek ve güven sağlamak için sıkça tercih eder.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Ücretsiz yazılım ile karıştırılır ancak açık kaynak kodun özgür olmasıdır, bedava olması bir yan sonuçtur.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Açık kaynak güvenli midir?</p><p class="dict-faq-a">Evet, binlerce göz kodu incelediği için güvenlik açıkları kapalı kaynak yazılımlara göre genellikle daha hızlı bulunur ve kapatılır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Herkes kod değiştirebilir mi?</p><p class="dict-faq-a">Evet, ancak değişikliklerin ana projeye dahil edilmesi genellikle projenin ana sorumlularının onayına bağlıdır.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/open-weights/">Open Weights</a><a href="/dictionary/self-hosting/">Self-hosting</a><a href="/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
-<section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/superpowers/">Superpowers</a><a href="/discover/ecc/">ECC</a><a href="/discover/n8n/">N8n</a><a href="/discover/markitdown/">MarkItDown</a><a href="/discover/claude-code/">Claude Code</a><a href="/discover/moneyprinterturbo/">MoneyPrinterTurbo</a><a href="/discover/claude-mem/">claude-mem</a><a href="/discover/opencv/">Opencv</a></div></section>
+<section class="disc-sec">
+<h2>Etimoloji ve Felsefi Köken</h2>
+<p>Açık kaynak felsefesi, 1980'li yıllarda Richard Stallman tarafından başlatılan Özgür Yazılım Hareketi (Free Software) ve GNU Projesi'ne dayanır. Stallman'ın "Free as in speech, not as in beer" (bedava bira gibi değil, ifade özgürlüğü gibi özgür) ilkesi, kullanıcıların yazılımı çalıştırma, inceleme, değiştirme ve kopyalarını dağıtma hakkını savundu. 1998 yılında ise Eric S. Raymond ve Bruce Perens öncülüğünde Open Source Initiative (OSI) kurularak, bu felsefe kurumsal iş dünyasının benimseyebileceği pragmatik bir mühendislik standardına dönüştürüldü. Raymond'ın "Katedral ve Çarşı" (The Cathedral and the Bazaar) eserinde anlattığı gibi, yazılım geliştirme kapalı kapılar ardındaki loncalardan çıkıp küresel bir açık çarşıya evrildi.</p>
+</section>
+
+<div class="dict-analogy">Şöyle düşünün: Bir restoranın ünlü tatlısının tarifini kasada saklayıp gizlediğini hayal edin; kapalı kaynak yazılım tam olarak budur. Müşteriler içindeki katkı maddelerini bilemez, tarifi geliştiremez. Açık kaynak ise bir şefin tarifini, tüm ölçülerini ve pişirme tekniklerini açık bir gastronomi ansiklopedisinde yayınlaması gibidir. Dünyanın her yerindeki aşçılar bu tarifi inceler, yerel baharatlar katar, eksikleri tamamlar ve yeni lezzetler türetir. Tarif kamuya aittir; dileyen evinde yapar, dileyen lokantasında geliştirilmiş haliyle servis eder.</div>
+
+<section class="disc-sec">
+<h2>Açık Kaynak Lisans Mimarisi ve Ekosistem</h2>
+<p>Açık kaynak ekosisteminin işleyişi hukuki lisanslar, dağıtık sürüm kontrolü ve topluluk dinamikleriyle şekillenir:</p>
+<p>- <strong>Açık Kaynak Lisans Türleri:</strong> Her açık kaynak proje telif hakkı hukukuyla korunur ve lisanslar iki ana sınıfa ayrılır:<br>
+- <strong>İzin Verici (Permissive) Lisanslar:</strong> MIT, Apache 2.0 ve BSD lisansları geliştiricilere azami esneklik tanır. Kod alınıp kaynak kodu açma zorunluluğu olmadan kapalı kaynaklı ticari ürünlere dahil edilebilir. Apache 2.0 ayrıca açık patent hibesi sağlar.<br>
+- <strong>Telifli (Copyleft) Lisanslar:</strong> GPL (General Public License) ailesi ve AGPL, yazılımın özgür kalmasını güvence altına alır. Bu kod kullanılarak geliştirilen türev ürünlerin de aynı lisansla kamuya açılması zorunludur. AGPLv3, bulut sunucuları üzerinden servis sunan şirketlerin de kodu paylaşmasını şart koşar.<br>
+- <strong>Modern Teknolojinin Omurgası:</strong> Bugün internetin ve küresel altyapının yüzde 90'ından fazlası açık kaynak bileşenlerle ayakta durur. Akıllı telefonlarda çalışan Android ve sunucuları yöneten Linux çekirdeği, Git sürüm kontrol mekanizması, Kubernetes konteyner orkestrasyonu, PostgreSQL veritabanları ve Chromium web motoru açık kaynak topluluklarının ortak mirasıdır. Yapay zekâ devriminde ise PyTorch, Hugging Face ekosistemi ve Llama tabanlı modeller inovasyonu açık kaynak üzerinden hızlandırmaktadır.<br>
+- <strong>Güvenlik, Linus Yasası ve Tedarik Zinciri:</strong> "Yeterince göz olursa tüm hatalar yüzeyseldir" (Linus Yasası) prensibi uyarınca, açık kaynak kodları binlerce bağımsız araştırmacı tarafından denetlenebilir. Bu şeffaflık arka kapıların gizlenmesini engeller. Ancak Heartbleed veya XZ Utils vakalarında görüldüğü gibi, küresel altyapıları sırtlayan gönüllü geliştiricilerin yalnız bırakılması tedarik zinciri riskleri doğurabilir; bu nedenle modern kurumsal yapılar SBOM (Software Bill of Materials) süreçleriyle bağımlılıkları sıkı denetime tabi tutar.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Sosyolojik Boyut: Dijital Müşterekler ve Bilginin Paylaşımı</h2>
+<p>Açık kaynak, bilişim tarihinin en başarılı küresel imece ve dijital müşterekler (digital commons) hareketidir. Milyarlarca dolarlık bütçelere sahip dev teknoloji tekelleri dahi artık tüm araştırma-geliştirme süreçlerini tek başlarına yürütememekte; açık kaynak konsorsiyumlarına fon sağlamaktadır.</p>
+<p>Bunun ötesinde açık kaynak, yazılım bilgisini demokratikleştirir. Gelişmekte olan ülkelerdeki genç bir mühendis ile Silikon Vadisi'ndeki bir kıdemli mimar aynı kod tabanını okuyabilir, aynı araçlarla yetkinlik kazanabilir. Açık kaynak, bilginin özel mülkiyet altına alınarak tekelleştirilmesine karşı insanlığın ortak zihinsel sermayesini savunan evrensel bir kültürdür.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Sık Yapılan Hatalar ve Yanılgılar</h2>
+<p>- <strong>Ücretsiz Yazılımla (Freeware) Karıştırmak:</strong> Açık kaynak kodun özgürlüğünü ifade eder; geliştiriciler yazılımları satabilir, barındırma veya danışmanlık hizmetlerinden (Red Hat örneğinde olduğu gibi) milyarlarca dolar gelir elde edebilir.<br>
+- <strong>Güvensiz Olduğunu Düşünmek:</strong> Kodu gizleyerek güvenlik sağlama yanılgısı (security through obscurity) siber güvenlikte geçersizdir; kodu açık olan yazılımlar bağımsız denetimlerden geçtiği için çok daha sağlamdır.<br>
+- <strong>Open Weights ile Karıştırmak:</strong> Yapay zekâda sadece model ağırlıklarının paylaşılması tam açık kaynak değildir; eğitim verisi, kodları ve mimarisi paylaşılmayan sistemler açık kaynak tanımını tam karşılamaz.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Sıkça Sorulanlar</h2>
+<div class="dict-faq">
+<div class="dict-faq-item"><p class="dict-faq-q">Açık kaynak (Open Source) ile özgür yazılım (Free Software) arasındaki temel fark nedir?</p><p class="dict-faq-a">Özgür yazılım hareketi etik, felsefi ve kullanıcı haklarını temel alarak kodun sonsuza dek özgür kalmasını (copyleft) savunurken; açık kaynak hareketi daha pragmatik, metodolojik ve kurumsal iş dünyasının adaptasyonuna odaklanan bir yaklaşımı benimser.</p></div>
+<div class="dict-faq-item"><p class="dict-faq-q">Açık kaynak kodlu bir yazılımı ticari projelerimde kullanıp satabilir miyim?</p><p class="dict-faq-a">Evet, ancak bu durum kullanılan lisansa bağlıdır; MIT veya Apache gibi izin verici lisanslar kapalı kaynak ticari satışa izin verirken, GPL gibi katı copyleft lisanslar projenizin kaynak kodunu da aynı şekilde açmanızı zorunlu kılar.</p></div>
+<div class="dict-faq-item"><p class="dict-faq-q">Açık kaynak yazılımlar kapalı kaynak yazılımlara göre daha mı güvenlidir?</p><p class="dict-faq-a">Açık kaynakta kod kamuya açık olduğu için güvenlik açıkları küresel topluluk ve bağımsız güvenlik araştırmacıları tarafından çok daha hızlı tespit edilip yamalanır; gizliliğe dayalı güvenlik zaaflarından arındırılmıştır.</p></div>
+<div class="dict-faq-item"><p class="dict-faq-q">Açık kaynak projeleri geliştiren şirketler ve topluluklar nasıl gelir elde eder?</p><p class="dict-faq-a">Şirketler açık kaynak yazılımlar etrafında kurumsal teknik destek, SLA garantisi, yönetilen bulut barındırma (SaaS), kurumsal ek eklentiler (open-core) ve danışmanlık hizmetleri sunarak sürdürülebilir iş modelleri kurarlar.</p></div>
+</div>
+</section>
+
+<section class="disc-sec">
+<h2>İlgili terimler</h2>
+<div class="dict-related"><a href="/dictionary/self-hosted/">Self-hosted</a><a href="/dictionary/open-weights/">Open Weights</a><a href="/dictionary/offline/">Offline</a><a href="/dictionary/local/">Local</a><a href="/dictionary/artificial-intelligence/">Artificial Intelligence</a></div>
+</section>
+
+<section class="disc-sec">
+<h2>İlgili araçlar</h2>
+<div class="dict-related"><a href="/discover/superpowers/">Superpowers</a><a href="/discover/ecc/">ECC</a><a href="/discover/n8n/">N8n</a><a href="/discover/markitdown/">MarkItDown</a><a href="/discover/claude-code/">Claude Code</a><a href="/discover/moneyprinterturbo/">MoneyPrinterTurbo</a><a href="/discover/claude-mem/">claude-mem</a><a href="/discover/opencv/">Opencv</a></div>
+</section>
+
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

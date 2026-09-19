@@ -3,53 +3,62 @@
 **Kategori:** Geliştirme  
 **Son güncelleme:** 2026-09-19
 
-Self-hosted (öz barındırma veya yerel barındırma), bir yazılımı veya dijital servisi üçüncü taraf bir bulut sağlayıcısı (SaaS) yerine, tamamen kendi kontrolünüzdeki fiziksel sunucuda, sanal sunucuda (VPS) veya yerel bilgisayarda çalıştırmaktır.
+Self-hosted (öz barındırma veya yerel barındırma), bir yazılımı, veritabanını veya dijital servisi üçüncü taraf bir bulut şirketine (SaaS) bağımlı olmadan, tamamen kendi kontrolünüzdeki fiziksel sunucuda, yerel donanımda (homelab) veya sanal özel sunucuda (VPS) çalıştırma ve yönetme mimarisidir.
 
-## Tanım ve Türkçe Anlamı
-"Self-hosted" kavramı Türkçede en yaygın karşılığıyla **öz barındırma** veya **kendi sunucusunda barındırma** olarak ifade edilir. Geleneksel SaaS (Hizmet Olarak Yazılım) modellerinde verileriniz ve yazılım yabancı şirketlerin altyapılarında tutulurken, self-hosted mimaride veritabanı, depolama, yapılandırma ve yedekleme dahil olmak üzere tüm altyapı sizin mülkiyetinizdedir.
+## Etimoloji ve Türkçe Karşılığı
+İngilizce kökenli *self* (kendi) ve *host* (ev sahipliği yapmak, barındırmak) sözcüklerinin birleşiminden oluşan terim, Türkçede **öz barındırma**, **kendi sunucusunda barındırma** veya **yerel barındırma** olarak adlandırılır.
 
-## Bir benzetmeyle
-Bir otelde oda kiralamak (SaaS bulut hizmetleri) yerine kendi arsanıza ev inşa etmek ve anahtarını yalnızca cebinizde taşımak gibidir. Kimse kurallarınızı değiştiremez, gizliliğinizi ihlal edemez veya hizmeti ansızın kapatamaz; ancak tesisat, temizlik ve bakım işleri de tamamen size aittir.
+Geleneksel SaaS (Hizmet Olarak Yazılım) modelinde kullanıcılar yalnızca birer kiracıdır; veriler ve altyapı yabancı şirketlerin veri merkezlerinde kilitlidir. Self-hosted yaklaşımında ise sistem yöneticisi ve mülk sahibi doğrudan sizsinizdir: Veritabanı, depolama diskleri, ağ kuralları ve şifreleme anahtarları tamamen sizin fiziksel veya mantıksal mülkiyetinizdedir.
 
-## Neden Tercih Edilir? (Avantajları)
-- **Tam Veri Gizliliği ve Egemenliği:** Hassas kişisel veya kurumsal verileriniz üçüncü taraf şirketlerin sunucularına iletilmez, analiz edilmez veya yapay zekâ eğitimi için kullanılmaz.
-- **Maliyet Tasarrufu:** Kullanıcı başına aylık yinelenen abonelik ücretleri ödemek yerine, sabit bir donanım veya uygun fiyatlı bir VPS ile sınırsız kullanıcı ve veri yönetimi sağlanabilir.
-- **Bağımsızlık (Vendor Lock-in Önleme):** Şirketlerin fiyat artışlarına, arayüz değişikliklerine veya aniden hizmeti durdurmalarına karşı tam koruma sağlar.
-- **Özelleştirme:** Çoğunlukla açık kaynaklı projeler kullanıldığından, kaynak koduna müdahale edilebilir ve kurumsal ihtiyaçlara göre uyarlanabilir.
+## 1. SaaS Yorgunluğundan Bulut Geri Dönüşüne (Cloud Repatriation)
+Son on yılda her yazılımın aylık yinelenen abonelik (subscription) modeline geçmesi, bireyler ve kurumlar nezdinde ciddi bir abonelik yorgunluğu yaratmıştır:
+- **Maliyet Çıkmazı:** Kullanıcı başına aylık 10-50 dolar ödenen SaaS araçları, ekip büyüdükçe yüz binlerce dolarlık kontrolsüz maliyetlere dönüşür. Nitekim 37signals (Basecamp) gibi küresel teknoloji liderlerinin buluttan çıkıp kendi donanımlarına dönmesi (**Cloud Repatriation**), self-hosted yaklaşımının ekonomik rasyonelliğini kanıtlamıştır.
+- **Veri Egemenliği ve Gizlilik:** Şirketlerin kullanım koşullarını tek taraflı değiştirmesi, verileri yapay zekâ modellerine eğitim verisi yapması veya hesapları aniden kapatması riskine karşı en güçlü kalkan öz barındırmadır. KVKK ve GDPR standartlarına göre hassas müşteri verilerini kendi sınırlarınızda tutmak yasal uyumluluğu da güvenceye alır.
 
-## Nasıl çalışır ve kurulur?
-1. **Donanım/Sunucu Seçimi:** Evdeki bir Raspberry Pi, mini PC veya bir bulut sağlayıcısından kiralanan sanal sunucu (VPS) işletim sistemiyle (genellikle Ubuntu/Debian) hazırlanır.
-2. **Konteynerleştirme (Docker):** Yazılımlar Docker ve Docker Compose dosyalarıyla izole konteynerler halinde saniyeler içinde kurulur.
-3. **Ağ ve Güvenlik:** Dış erişim için Reverse Proxy (Nginx, Traefik, Caddy) ve SSL şifrelemesi (Let's Encrypt) yapılandırılır veya Tailscale/WireGuard gibi VPN araçlarıyla yalnızca özel ağa açılır.
+## 2. Donanım Mimarisi ve Homelab Ekosistemi
+Self-hosted dünyası günümüzde pahalı kurumsal sunucu kabinlerinden çıkıp oturma odalarına ve ev laboratuvarlarına (Homelab) inmiştir:
+- **Düşük Güç Tüketen Donanımlar:** Intel N100 tabanlı mini PC'ler, Raspberry Pi 5 veya eski dizüstü bilgisayarlar; yılda yalnızca birkaç yüz liralık elektrik tüketimiyle 7/24 kesintisiz çalışabilir.
+- **Depolama ve Veri Güvenliği (ZFS & RAID):** Birden fazla sabit diskin aynalandığı RAID dizilimleri ve ZFS dosya sistemi, bir disk fiziksel olarak yansa dahi veri kaybını imkânsız kılar. TrueNAS ve unRAID gibi işletim sistemleri bu donanımları profesyonel depolama havuzlarına dönüştürür.
+- **Bulut VPS Alternatifi:** Evinde donanım barındırmak istemeyenler için Hetzner veya OVH gibi sağlayıcılardan kiralanan ucuz sanal sunucular (VPS), self-hosted özgürlüğünü bulut güvenilirliğiyle birleştirir.
 
-## Nerede kullanılır?
-- **Kişisel Bulut ve Fotoğraf:** Nextcloud, Immich, OwnCloud
-- **Şifre Yönetimi:** Vaultwarden (Bitwarden uyumlu)
-- **Akıllı Ev ve Otomasyon:** Home Assistant, Node-RED
-- **Yerel Yapay Zekâ:** Ollama, Open WebUI, LocalAI
-- **Medya ve Akış:** Plex, Jellyfin
+## 3. Modern Self-Hosted Yazılım Yığını
+Eski dönemlerde Linux üzerinde elle PHP ve MySQL derlemek gereken günler geride kalmıştır. Modern mimari üç sütun üzerine kuruludur:
+- **Konteynerleştirme (Docker & Docker Compose):** Her servis (Nextcloud, Vaultwarden, Jellyfin) kendi kütüphaneleriyle izole bir Docker konteyneri içinde çalışır. `docker-compose.yml` dosyası sayesinde onlarca servis tek bir komutla ayağa kaldırılır.
+- **Tersine Vekil Sunucu (Reverse Proxy):** Nginx, Traefik veya Caddy; gelen web isteklerini karşılar, alan adlarını doğru konteynere yönlendirir ve Let's Encrypt üzerinden ücretsiz SSL/TLS sertifikalarını otomatik yeniler.
+- **Güvenli Ağ Tünelleri (Zero-Trust & Mesh VPN):** Ev modeminde dışarıya port açmak siber saldırılara davetiye çıkarır. Modern self-hosted kullanıcıları Tailscale, WireGuard veya Cloudflare Tunnels kullanarak sistemlerini dış dünyaya kapalı, yalnızca yetkili cihazlarına açık bir iç ağda (Mesh VPN) güvenle çalıştırır.
 
-## Sık karıştırılanlar
-Geleneksel web hosting hizmetleriyle karıştırılmamalıdır. Standart web hosting paketleri genellikle sadece basit web siteleri barındırmak için tasarlanmıştır. Self-hosted ise tam kök (root) erişimi olan ortamlarda veritabanından arka uç motorlarına kadar tüm servisleri yönetmeyi kapsar.
+## 4. Popüler Self-Hosted Çözümleri
+- **Kişisel Bulut ve Fotoğraf:** Google Drive yerine Nextcloud, Google Photos yerine yapay zekâ yüz tanımalı Immich.
+- **Şifre Yönetimi:** 1Password yerine açık kaynaklı ve hafif Vaultwarden (Bitwarden uyumlu).
+- **Medya Akışı:** Netflix ve Spotify yerine kendi arşivinizi yönettiğiniz Jellyfin ve Plex.
+- **Yerel Yapay Zekâ:** ChatGPT aboneliği yerine kendi ekran kartınızda çalışan Ollama ve Open WebUI.
+- **Akıllı Ev:** Bulut bağımlı üreticiler yerine tamamen yerel çalışan Home Assistant.
 
-## Sıkça sorulanlar
+## 5. Sorumluluklar: 3-2-1 Yedekleme Kuralı
+Özgürlük sorumluluk getirir. Bir donanım arızasında arkanızda destek bileti açabileceğiniz bir bulut şirketi yoktur. Bu nedenle **3-2-1 Yedekleme Kuralı** zorunludur:
+- Verilerinizin en az **3** kopyasını tutun.
+- Bu kopyaları **2** farklı fiziksel ortamda (örneğin dahili disk ve harici USB) saklayın.
+- Kopyalardan en az **1** tanesini yangın ve hırsızlığa karşı farklı bir fiziksel konumda (şifreli uzak sunucu veya harici depolama) barındırın.
 
-**Self-hosted Türkçe karşılığı nedir?**  
-Türkçede en yaygın olarak "öz barındırma", "kendi sunucusunda barındırma" veya "yerel barındırma" terimleriyle ifade edilir.
+## Sıkça Sorulanlar
 
-**Teknik bilgi gerektirir mi?**  
-Evet, kurulum ve sunucu bakımı için temel Linux komutları, Docker ve ağ bilgisi faydalıdır; ancak CasaOS ve Umbrel gibi modern arayüzler tek tıkla mağazadan uygulama kurma kolaylığı sunmaktadır.
+**Self-hosted nedir ve Türkçe karşılığı ne demek?**  
+İngilizce kökenli bir kavram olup Türkçede 'öz barındırma' veya 'kendi sunucusunda barındırma' anlamına gelir. Yazılımların üçüncü taraf bulut sağlayıcıları yerine kullanıcının kendi donanımında veya sunucusunda çalıştırılmasıdır.
 
-**Self-hosted daha mı güvenlidir?**  
-Veri gizliliği açısından en üst düzey çözümdür çünkü verileriniz dışarı sızmaz; fakat güvenlik duvarı, port yönlendirme, güçlü parolalar ve düzenli güncellemeler tamamen sizin sorumluluğunuzdadır.
+**Self-hosted kurmak için ileri düzey kodlama bilmek gerekir mi?**  
+Hayır, kod yazmanız gerekmez. Temel Linux komut satırı bilgisi ve Docker mantığını anlamak yeterlidir. Ayrıca CasaOS ve Umbrel gibi modern sistemler uygulama mağazası mantığıyla tek tıkla kurulum imkânı sunar.
 
-**Evdeki eski bir bilgisayarla self-hosted yapılabilir mi?**  
-Evet; eski bir dizüstü bilgisayar, Raspberry Pi veya mini PC kullanarak evinizde (Home Lab ortamında) kendi bulut depolamanızı veya medya sunucunuzu rahatlıkla çalıştırabilirsiniz.
+**Ev sunucusunda (Homelab) self-hosted çalıştırmak güvenli midir?**  
+Doğru yapılandırıldığında ticari bulutlardan daha güvenlidir çünkü verileriniz şirketlerle paylaşılmaz. Ancak modeme doğrudan port açmak yerine Tailscale gibi VPN tünelleri kullanmak ve güvenlik güncellemelerini aksatmamak şarttır.
+
+**3-2-1 yedekleme kuralı neden hayati önem taşır?**  
+Self-hosted sistemlerde donanım bozulduğunda veriyi kurtaracak bir müşteri hizmetleri yoktur. 3 kopya, 2 farklı ortam ve 1 harici lokasyon kuralı donanım yangın veya arızalarında veri kaybını önler.
 
 ## İlgili terimler
-- [Self-hosting](/dictionary/self-hosting/)
-- [Open Source](/dictionary/open-source/)
+- [Local](/dictionary/local/)
 - [Offline](/dictionary/offline/)
+- [Open Source](/dictionary/open-source/)
+- [Deployment](/dictionary/deployment/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/self-hosted/
