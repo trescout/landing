@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Spdlog · Keşif · TreScout</title>
-<meta name="description" content="spdlog, C++ programlama dili için geliştirilmiş çok hızlı bir günlük kaydı (logging) kütüphanesidir.">
+<title>Spdlog · C++ İçin Çok Hızlı Günlük Kaydı Kütüphanesi · TreScout</title>
+<meta name="description" content="spdlog, C++ projeleri için sıfır maliyetli biçimlendirme ve asenkron mimari sunan yüksek hızlı günlük kaydı kütüphanesidir. Kurulum ve kullanım rehberi burada.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/discover/spdlog.md">
 <link rel="canonical" href="https://trescout.com/discover/spdlog/">
@@ -15,8 +15,8 @@
 <link rel="alternate" hreflang="es" href="https://trescout.com/es/discover/spdlog/">
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/spdlog/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/spdlog/">
-<meta property="og:title" content="Spdlog">
-<meta property="og:description" content="spdlog, C++ programlama dili için geliştirilmiş çok hızlı bir günlük kaydı (logging) kütüphanesidir.">
+<meta property="og:title" content="Spdlog · C++ İçin Çok Hızlı Günlük Kaydı Kütüphanesi">
+<meta property="og:description" content="spdlog, C++ projeleri için sıfır maliyetli biçimlendirme ve asenkron mimari sunan yüksek hızlı günlük kaydı kütüphanesidir. Kurulum ve kullanım rehberi burada.">
 <meta property="og:url" content="https://trescout.com/discover/spdlog/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -25,7 +25,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Spdlog">
+<meta name="twitter:title" content="Spdlog · C++ İçin Çok Hızlı Günlük Kaydı Kütüphanesi">
 <meta name="twitter:image" content="https://trescout.com/assets/discover/og/spdlog.webp">
 <script type="application/ld+json">
 {
@@ -33,7 +33,7 @@
   "@type": "Article",
   "headline": "C++ projeleri için hızlı günlük kaydı",
   "inLanguage": "tr",
-  "description": "spdlog, C++ programlama dili için geliştirilmiş çok hızlı bir günlük kaydı (logging) kütüphanesidir. Yazılım projelerinde hata ayıklama ve izleme süreçlerini hızlandırmak amacıyla yüksek performanslı çıktı yönetimi sunar.",
+  "description": "spdlog, C++ programlama dili için geliştirilmiş, yalnızca başlıklardan (header-only) veya derlenmiş kütüphane olarak kullanılabilen ultra hızlı bir günlük kaydı (logging) kütüphanesidir. Modern C++ standartlarını kullanarak yazılım projelerinde gecikmesiz ve yüksek performanslı çıktı yönetimi sunar.",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -59,7 +59,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 
 <meta property="og:image:alt" content="Spdlog">
-<meta name="twitter:description" content="spdlog, C++ programlama dili için geliştirilmiş çok hızlı bir günlük kaydı (logging) kütüphanesidir.">
+<meta name="twitter:description" content="spdlog, C++ projeleri için sıfır maliyetli biçimlendirme ve asenkron mimari sunan yüksek hızlı günlük kaydı kütüphanesidir. Kurulum ve kullanım rehberi burada.">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
@@ -69,17 +69,41 @@
 <a class="disc-back" href="/discover/">← Keşif</a>
 <div class="disc-top"><span class="disc-eyebrow">Keşif · GitHub · Spdlog</span><span class="disc-momentum">↑ +10 bugün</span></div>
 <h1 class="disc-title">C++ projeleri için hızlı günlük kaydı</h1>
-<p class="disc-lead">spdlog, C++ programlama dili için geliştirilmiş çok hızlı bir günlük kaydı (logging) kütüphanesidir. Yazılım projelerinde hata ayıklama ve izleme süreçlerini hızlandırmak amacıyla yüksek performanslı çıktı yönetimi sunar.</p>
+<p class="disc-lead">spdlog, C++ programlama dili için geliştirilmiş, yalnızca başlıklardan (header-only) veya derlenmiş kütüphane olarak kullanılabilen ultra hızlı bir günlük kaydı (logging) kütüphanesidir. Modern C++ standartlarını kullanarak yazılım projelerinde gecikmesiz ve yüksek performanslı çıktı yönetimi sunar.</p>
 <ul class="disc-meta"><li>★ 29.437</li><li>C++</li><li>GitHub Trending · 2026-08-05</li></ul>
       <section class="disc-sec"><h2>Güncelleme</h2><ul class="disc-wins"><li><strong>6 Ağustos 2026:</strong> Yıldız 29.402 → 29.437, son sürüm v1.17.0 (4 Ocak 2026).</li></ul></section>
-      <section class="disc-sec"><h2>Ne kazandırır?</h2><ul class="disc-wins"><li>Yüksek performanslı günlük kaydı yönetimi</li><li>Dosya, konsol ve hata ayıklayıcı gibi farklı hedeflere çıktı</li><li>Çalışma anında dinamik günlük seviyesi değiştirme</li></ul></section>
-                                                                                                                                                                                                                                                                                    <section class="disc-sec"><h2>Kurulum</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>macOS (Homebrew)</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>brew install spdlog</code></pre></div></section>
+      <section class="disc-sec"><h2>Ne kazandırır?</h2><ul class="disc-wins"><li><strong>Saniyede milyonlarca satır loglama performansı:</strong> Sıfır bellek tahsisi yaklaşımı ve derleme zamanı optimizasyonlarıyla ana uygulama iş parçacığında mikrosaniye düzeyinde gecikme yaratır.</li><li><strong>Asenkron ve kilitsiz (lock-free) halka kuyruk:</strong> Log yazma işlemlerini arka plan havuzuna devrederek dosya veya ağ G/Ç darboğazlarını çağrı hattından tamamen yalıtır.</li><li><strong>Zengin hedef (sink) çeşitliliği:</strong> Renkli konsol çıktısı, boyuta göre dönen (rotating) dosyalar, günlük tarihli arşivler, syslog ve Android logcat hedeflerine eşzamanlı yazım imkanı.</li><li><strong>Entegre fmt biçimlendirme gücü:</strong> C++20 format standardının temeli olan {fmt} kütüphanesini kullanarak güvenli, hızlı ve Python tarzı esnek metin biçimlendirme sağlar.</li><li><strong>Header-only veya derlenmiş kullanım esnekliği:</strong> Projenize tek bir dizin kopyalayarak dahil edebilir veya derleme sürelerini düşürmek için statik kütüphane olarak bağlayabilirsiniz.</li></ul></section>
+      <section class="disc-sec"><h2>Kurulum</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>macOS (Homebrew)</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>brew install spdlog</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>vcpkg ile paket kurulumu</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>vcpkg install spdlog</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>CMake FetchContent entegrasyonu</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>include(FetchContent)
+FetchContent_Declare(
+    spdlog
+    GIT_REPOSITORY https://github.com/gabime/spdlog.git
+    GIT_TAG        v1.17.0
+)
+FetchContent_MakeAvailable(spdlog)
+target_link_libraries(projem PRIVATE spdlog::spdlog)</code></pre></div></section>
       <p class="disc-note"><strong>Kaynak:</strong> Homebrew formülü</p>
-      <section class="disc-sec"><h2>Nasıl başlanır?</h2><p>Projenize dahil etmek için GitHub sayfasındaki include klasörünü çalışma dizininize kopyalamanız yeterlidir. Alternatif olarak, Debian, Homebrew veya vcpkg gibi paket yöneticileri üzerinden sisteminize uygun olan komutu kullanarak kütüphaneyi kurabilirsiniz.</p></section>
-      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Kimin için</span><span class="disc-fact-v">Yazılım projelerinde hata ayıklama ve izleme süreçlerini hızlandırmak isteyen C++ geliştiricileri içindir.</span></div></div>
+      <section class="disc-sec"><h2>Nasıl başlanır ve temel kullanım</h2><p>spdlog kütüphanesini kullanmaya başlamak son derece zahmetsizdir. Başlık dosyasını projenize dahil ettikten sonra doğrudan küresel loglama fonksiyonlarını çağırabilir veya özelleştirilmiş logger nesneleri oluşturabilirsiniz:</p><div class="disc-cmd"><div class="disc-cmd-head"><span>Temel C++ Kullanım Örneği</span><button type="button" class="disc-copy" aria-label="Kodu kopyala">Kopyala</button></div><pre><code>#include "spdlog/spdlog.h"
+#include "spdlog/sinks/rotating_file_sink.h"
+
+int main() {
+    // Standart konsol loglaması
+    spdlog::info("spdlog basariyla baslatildi.");
+    spdlog::warn("Dikkat: Bellek kullanimi yukseliyor!");
+    spdlog::error("Hata kodu: {:d}, aciklama: {}", 404, "Sayfa bulunamadi");
+
+    // Boyuta gore donen (rotating) dosya logger'i (maksimum 5MB, 3 dosya)
+    auto file_logger = spdlog::rotating_logger_mt("dosya_log", "logs/uygulama.txt", 1024 * 1024 * 5, 3);
+    file_logger-&gt;info("Bu mesaj hem thread-safe hem de otomatik arsivlenen dosyaya yazilir.");
+    
+    return 0;
+}</code></pre></div></section>
+      <section class="disc-sec"><h2>Teknik mimari ve çalışma prensibi</h2><p>spdlog kütüphanesinin benzersiz hızı, modüler ve sıfır ek yük (zero-overhead) odaklı yazılım mimarisine dayanır:</p><ul class="disc-wins"><li><strong>Logger ve Sink ayrımı:</strong> Logger nesnesi gelen günlüğü filtreler (trace, debug, info, warn, err, critical). Kabul edilen iletiler bir veya birden fazla Sink nesnesine aktarılır. Örneğin tek bir logger aynı anda konsola renkli basarken dosyaya JSON formatında yazabilir.</li><li><strong>İş parçacığı güvenliği (_mt vs _st):</strong> spdlog tüm sink sınıflarını iki biçimde sunar: Çok iş parçacıklı güvenli muteks kilitlemeli (_mt) ve tek iş parçacığına özel kilitsiz (_st) sürümler. Tek iş parçacıklı modda muteks maliyeti tamamen sıfırlanır.</li><li><strong>Asenkron halka kuyruk (Ring Buffer):</strong> spdlog::init_thread_pool ile tahsis edilen bellek bloğu, arka planda çalışan iş parçacığı tarafından tüketilir. Ana uygulama log kaydını kuyruğa bırakıp derhal yoluna devam eder.</li><li><strong>Akıllı tampon boşaltma (Flush):</strong> Performans için veriler işletim sistemi tamponunda bekletilir; ancak kritik hata anlarında veri kaybını önlemek için spdlog::flush_on(spdlog::level::err) mekanizması tetiklenebilir.</li></ul></section>
+      <section class="disc-sec"><h2>Kod bilmiyorsanız</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın</span><button type="button" class="disc-copy" aria-label="İstemi kopyala">Kopyala</button></div><p class="disc-ai-text">Modern bir C++ projesinde CMake kullanarak spdlog kütüphanesini asenkron mimariyle yapılandırmak istiyorum. Günlük 10MB boyuta ulaştığında dosyayı döndüren (rotating file), aynı zamanda konsola renkli çıktı veren ve hata (error) seviyesinde anında diske yazan (flush) örnek bir C++ başlatma fonksiyonu ile birlikte CMakeLists.txt dosyasını hazırlar mısın?</p></div></section>
+      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Kimin için</span><span class="disc-fact-v">Yazılım projelerinde hata ayıklama, izleme ve denetim süreçlerini sıfır gecikmeyle hızlandırmak isteyen C++ geliştiricileri, oyun motoru ve gömülü sistem mimarları içindir.</span></div><div class="disc-fact"><span class="disc-fact-k">Lisans</span><span class="disc-fact-v">MIT Lisansı (Ticari ve açık kaynak projelerde tamamen serbest)</span></div><div class="disc-fact"><span class="disc-fact-k">Standart</span><span class="disc-fact-v">C++11, C++14, C++17, C++20 ve C++23 uyumlu</span></div><div class="disc-fact"><span class="disc-fact-k">Kütüphane Tipi</span><span class="disc-fact-v">Header-only veya önceden derlenmiş (Compiled) statik/dinamik bağlama</span></div></div>
+      <section class="disc-sec"><h2>Sıkça sorulan sorular</h2><ul class="disc-wins"><li><strong>spdlog header-only olarak mı yoksa derlenerek mi kullanılmalı?</strong> Küçük ve orta ölçekli projelerde yalnızca include dizinini ekleyerek header-only kullanmak büyük pratiklik sağlar. Ancak yüzlerce kaynak dosyasından oluşan büyük C++ projelerinde derleme süresini optimize etmek için SPDLOG_COMPILED bayrağıyla kütüphaneyi derleyip bağlamak tavsiye edilir.</li><li><strong>Loglama ana uygulamanın çalışma hızını etkiler mi?</strong> Senkron modda dahi mikrosaniye seviyesinde çalışan spdlog, asenkron logger mimarisi kullanıldığında ana iş parçacığı üzerindeki G/Ç yükünü neredeyse sıfıra indirir. Mesaj kuyruğa kopyalanır ve disk yazımı arka planda gerçekleşir.</li><li><strong>Dönen dosya (rotating file) mekanizması nasıl çalışır?</strong> Belirtilen azami dosya boyutuna (örneğin 10MB) ulaşıldığında aktif dosya arşivlenir (uygulama.1.txt, uygulama.2.txt) ve sıfırdan yeni dosya açılır. Belirlenen maksimum dosya adedi aşıldığında ise en eski log dosyası otomatik olarak temizlenir.</li><li><strong>Harici fmt kütüphanesi ile çakışma yaşanır mı?</strong> Hayır. spdlog varsayılan olarak dahili paketlenmiş fmt sürümünü kullanır. Dilerseniz SPDLOG_FMT_EXTERNAL makrosunu tanımlayarak sisteminizdeki mevcut bağımsız fmt kütüphanesini doğrudan spdlog ile entegre edebilirsiniz.</li></ul></section>
       <section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links"><li><a href="https://github.com/gabime/spdlog" target="_blank" rel="noopener">GitHub deposu →</a></li></ul></section>
 <p class="disc-disclaimer">TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.</p>
-<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related"><a href="/dictionary/logging/">Logging</a></div></section>
+<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related"><a href="/dictionary/logging/">Logging</a><a href="/dictionary/open-source/">Open Source</a></div></section>
       <aside class="disc-cta"><p><strong>Bunun gibi araçları her gün TreScout yakalıyor.</strong> GitHub, Hacker News ve HuggingFace taranır, öne çıkanlar Türkçe özetlenir.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/discover/">Tüm keşifler →</a></aside>
 </article>
 </main>
