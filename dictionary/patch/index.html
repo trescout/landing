@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Patch ne demek, nedir? Yazılımda yama rehberi · TreScout Sözlük</title>
-<meta name="description" content="Patch ne demek, Türkçe karşılığı nedir ve nasıl uygulanır? Yazılım dünyasında güvenlik yaması (patch), hata düzeltmeleri ve sürüm güncelleme rehberi.">
+<title>Patch Nedir, Ne Demek? Yazılım Yaması ve HTTP PATCH · TreScout</title>
+<meta name="description" content="Patch (yama) nedir, ne demek? Yazılım ve oyun yamaları, Git diff/patch dosyaları ve HTTP PATCH metodunun farkları ile kullanım alanları rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/dictionary/patch/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/patch/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="es" href="https://trescout.com/es/dictionary/patch/">
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/patch/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/patch/">
-<meta property="og:title" content="Patch ne demek, nedir?">
-<meta property="og:description" content="Patch ne demek, Türkçe karşılığı nedir ve nasıl uygulanır? Yazılım dünyasında güvenlik yaması (patch), hata düzeltmeleri ve sürüm güncelleme rehberi.">
+<meta property="og:title" content="Patch Nedir, Ne Demek? Yazılım Yaması ve HTTP PATCH · TreScout">
+<meta property="og:description" content="Patch (yama) nedir, ne demek? Yazılım ve oyun yamaları, Git diff/patch dosyaları ve HTTP PATCH metodunun farkları ile kullanım alanları rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/patch/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,15 +24,18 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Patch ne demek, nedir?">
+<meta name="twitter:title" content="Patch Nedir, Ne Demek? Yazılım Yaması ve HTTP PATCH · TreScout">
+<meta name="twitter:description" content="Patch (yama) nedir, ne demek? Yazılım ve oyun yamaları, Git diff/patch dosyaları ve HTTP PATCH metodunun farkları ile kullanım alanları rehberi.">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/patch.webp">
+<meta property="og:image:alt" content="Patch nedir, ne demek?">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Patch",
+  "alternateName": "Yama",
   "inLanguage": "tr",
-  "description": "Patch (yazılım yaması), bir programdaki hataları gidermek, güvenlik açıklarını kapatmak veya performansı artırmak amacıyla yayınlanan tamamlayıcı kod güncellemesidir.",
+  "description": "Patch (yazılım yaması), bir yazılımdaki hataları düzeltmek, güvenlik açıklarını kapatmak veya mevcut işlevleri geliştirmek amacıyla yayınlanan kod ve dosya güncellemesidir.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -51,15 +54,7 @@
       "name": "Patch ne demek, Türkçe karşılığı nedir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Türkçe karşılığı yama veya güncelleme ekidir. Yazılımdaki belirli bir hatayı ya da güvenlik açığını kapatan küçük yazılım paketlerini ifade eder."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Patch neden önemlidir?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Sistemi siber saldırılara karşı güvenli tutar, performans sorunlarını çözer ve yazılımın kararlı çalışmasını sağlar."
+        "text": "Türkçe karşılığı \"yama\" veya \"hata düzeltme eki\"dir. Bir sistemin veya yazılımın tümünü değiştirmeden belirli bir bölümünü onaran veya güncelleyen kod parçacıklarını ifade eder."
       }
     },
     {
@@ -67,7 +62,31 @@
       "name": "Hotfix ile Patch arasındaki fark nedir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Hotfix acil ve anlık üretilen kritik bir düzeltmedir; patch ise genellikle daha kapsamlı test edilmiş planlı bir yama paketidir."
+        "text": "Patch genellikle planlı sürümlerle (örneğin aylık güvenlik bültenleri) kapsamlı testlerden sonra yayınlanır. Hotfix ise üretim ortamında ortaya çıkan acil bir çökme veya güvenlik zafiyetini derhal durdurmak için hazırlanan plansız, hızlı müdahale yamasıdır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "HTTP PUT ve HTTP PATCH arasındaki temel fark nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "PUT kaynağın bütünüyle değiştirilmesini (replace) hedefler ve aynı isteğin tekrarlanması durumunda aynı sonucu verir (idempotent). PATCH ise kaynağın sadece belirtilen alanlarını kısmi olarak değiştirir (partial update) ve her senaryoda idempotent olmak zorunda değildir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Git ortamında PR (Pull Request) varken neden hâlâ patch dosyaları kullanılır?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Linux çekirdeği (kernel), Git'in kendi geliştirme süreci ve Postgres gibi köklü açık kaynak projeleri merkezi web platformlarına (GitHub vb.) bağımlı kalmamak adına e-posta tabanlı yama (patch) iş akışını sürdürmektedir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Patch Tuesday nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Microsoft'un her ayın ikinci salı günü Windows ve kurumsal ürünleri için düzenli olarak toplu güvenlik yamalarını dağıttığı sektörel takvime verilen addır."
       }
     }
   ]
@@ -75,14 +94,10 @@
 </script>
 <link rel="alternate" type="text/markdown" href="/dictionary/patch.md">
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
-      <link rel="preload" href="/assets/fonts/inter-latin-ext.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/inter-latin-ext.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
-
-<meta name="twitter:description" content="Patch ne demek, Türkçe karşılığı nedir ve nasıl uygulanır? Yazılım dünyasında güvenlik yaması (patch), hata düzeltmeleri ve sürüm güncelleme rehberi.">
-
-<meta property="og:image:alt" content="Patch ne demek, nedir?">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
@@ -91,10 +106,25 @@
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
 <div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
-<h1 class="disc-title">Patch ne demek? <span class="disc-accent">Nedir ve nasıl çalışır?</span></h1>
+<h1 class="disc-title">Patch <span class="disc-accent">nedir, ne demek ve nasıl çalışır?</span></h1>
 
-<p class="disc-lead">Patch (Türkçe karşılığıyla <strong>yazılım yaması</strong>), bir programdaki hataları gidermek, güvenlik açıklarını kapatmak veya performansı artırmak amacıyla yayınlanan tamamlayıcı kod güncellemesidir.</p>
-<section class="disc-sec"><h2>Tanım ve Türkçe karşılığı</h2><p>Patch, İngilizce kökenli bir kelime olup Türkçede <strong>yama</strong> veya <strong>hata düzeltme eki</strong> olarak karşılık bulur. Yazılımın tamamını yeniden indirip kurmak yerine, yalnızca sorunlu ya da güncellenmesi gereken kod satırlarını değiştiren kompakt bir pakettir. Özellikle sıfır gün (zero-day) güvenlik açıklarını kapatmak ve kritik sistem kararlılığını sağlamak için kullanılır.</p></section><div class="dict-analogy">Kıyafetinizdeki küçük bir söküğü dikmek için tüm kıyafeti çöpe atmak yerine üzerine sağlam bir yama uygulamak gibidir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Yazılım geliştiriciler hatayı tespit eder, düzeltmeyi içeren küçük bir kod bloğu (diff/yama) hazırlar ve bunu güncelleme paketi olarak dağıtır. Kullanıcı veya işletim sistemi bu yamayı çalıştırdığında yalnızca ilgili ikili dosyalar veya script'ler güncellenir.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>İşletim sistemlerinde, oyunlarda, veritabanlarında ve web sunucularında güvenlik ve kararlılık güncellemeleri için kullanılır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Tam sürüm güncellemesi ile karıştırılabilir; patch sadece küçük bir onarımdır, ana sürüm güncellemesi ise yeni özellikler ve mimari değişiklikler getirir.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Patch ne demek, Türkçe karşılığı nedir?</p><p class="dict-faq-a">Türkçe karşılığı yama veya güncelleme ekidir. Yazılımdaki belirli bir hatayı ya da güvenlik açığını kapatan küçük yazılım paketlerini ifade eder.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Patch neden önemlidir?</p><p class="dict-faq-a">Sistemi siber saldırılara karşı güvenli tutar, performans sorunlarını çözer ve yazılımın kararlı çalışmasını sağlar.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Hotfix ile Patch arasındaki fark nedir?</p><p class="dict-faq-a">Hotfix acil ve anlık üretilen kritik bir düzeltmedir; patch ise genellikle daha kapsamlı test edilmiş planlı bir yama paketidir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/vulnerability-scanning/">Vulnerability Scanning</a><a href="/dictionary/security-scanner/">Security Scanner</a><a href="/dictionary/deployment/">Deployment</a></div></section>
+<p class="disc-lead"><strong>Patch</strong> (Türkçe karşılığıyla <strong>yama</strong>), bir yazılımdaki hataları düzeltmek, güvenlik açıklarını kapatmak veya mevcut işlevleri geliştirmek amacıyla yayınlanan kod ve dosya güncellemesidir.</p>
+
+<p>Bununla birlikte teknoloji dünyasında "patch" üç temel bağlamda kullanılır: Yazılım ve oyun sürümlerinde <strong>hata/güvenlik yamaları</strong>, sürüm kontrol sistemlerinde <strong>diff/kod yamaları</strong> ve web mimarilerinde <strong>HTTP PATCH</strong> metodu.</p>
+
+<div class="dict-analogy">Kıyafetinizdeki küçük bir söküğü onarmak için giysinin tamamını çöpe atmak yerine üzerine uygun bir kumaş parçası dikmek gibidir. Tüm yazılımı baştan indirmeden sadece kusurlu parçaları değiştirir.</div>
+
+<section class="disc-sec"><h2>1. Yazılım ve Oyun Dünyasında Patch</h2><p>Geleneksel olarak bir programda hata oluştuğunda tüm yazılımı sıfırdan indirip kurmak bant genişliği ve zaman açısından verimsizdir. Patch, sadece değişen baytları ya da dosyaları hedef sisteme uygular.</p><ul><li><strong>Güvenlik Yamaları (Security Patches):</strong> Kritik güvenlik zafiyetlerini (CVE) ve sıfır gün (zero-day) açıklarını kapatmak için acil olarak dağıtılır.</li><li><strong>Hata Düzeltme Yamaları (Bug Fixes):</strong> Kararlılığı bozan veya beklenmedik çökmelere yol açan mantıksal hataları giderir.</li><li><strong>Oyun Yamaları ve Dengelemeler:</strong> Çevrim içi çok oyunculu oyunlarda karakter yeteneklerini dengeleyen, yeni içerik ekleyen ve performansı optimize eden güncellemelerdir. Genellikle detaylı "Yama Notları" (Patch Notes) ile birlikte sunulur.</li><li><strong>Hotfix:</strong> Test döngüsü beklenmeden üretim ortamındaki (production) yangını söndürmek için ivedilikle yayınlanan dar kapsamlı yama.</li></ul></section>
+
+<section class="disc-sec"><h2>2. Geliştirici Araçlarında Patch: UNIX patch ve Git</h2><p>Açık kaynak dünyasında ve sürüm kontrol sistemlerinde patch, iki dosya veya commit arasındaki farkı (diff) temsil eden düz metin belgesidir.</p><h3>UNIX patch Komutu ve Geçmişi</h3><p>Tarihte delikli kartlardaki deliklerin bantla kapatılması veya kağıt şeritlerin onarılması metaforuna dayanan "patch", 1985 yılında Larry Wall tarafından yazılan <code>patch</code> komutuyla standartlaşmıştır. <code>diff -u eski.c yeni.c &gt; duzeltme.patch</code> komutuyla üretilen yama, <code>patch &lt; duzeltme.patch</code> ile karşı tarafta doğrudan kaynak koda uygulanabilir.</p><h3>Git Ortamında Patch Kullanımı</h3><p>Git, yamaları e-posta listeleri veya çevrim dışı kanallar üzerinden taşımak için gelişmiş araçlar sunar:</p><ul><li><code>git format-patch</code>: Belirli commit'leri yazar bilgisi, commit mesajı ve kod farkıyla birlikte e-posta dostu <code>.patch</code> dosyalarına dönüştürür.</li><li><code>git apply</code>: Bir yama dosyasını commit oluşturmadan doğrudan çalışma dizinine uygular.</li><li><code>git am</code>: E-posta biçimindeki yamaları okuyarak orijinal yazar ve tarih bilgisiyle otomatik commit oluşturur (özellikle Linux çekirdeği geliştirmesinde standarttır).</li></ul></section>
+
+<section class="disc-sec"><h2>3. Web Mimarisi ve REST API'lerde HTTP PATCH</h2><p>RESTful servislerde veri güncellenirken sıklıkla <code>PUT</code> ve <code>PATCH</code> metotları karşılaştırılır:</p><ul><li><strong><code>PUT</code> (Tam Değiştirme):</strong> Kaynağın tamamını yeniden gönderir. Belirtilmeyen alanlar genellikle varsayılana döner veya silinir. <code>PUT</code> işlemi <strong>idempotent</strong>'tir (aynı isteği defalarca göndermek aynı sonucu üretir).</li><li><strong><code>PATCH</code> (Kısmi Güncelleme - RFC 5789):</strong> Yalnızca değişmesi istenen alanları içeren bir gövde gönderir. Örneğin bir kullanıcının sadece e-posta adresini güncellemek için tüm profil nesnesini göndermek yerine yalnızca ilgili alanı iletmek yeterlidir.</li><li><strong>JSON Patch (RFC 6902):</strong> Değişiklikleri standartlaştırmak için <code>add</code>, <code>remove</code>, <code>replace</code>, <code>move</code>, <code>copy</code> ve <code>test</code> gibi atomik operasyon dizileri tanımlayan yapıdır.</li></ul></section>
+
+<section class="disc-sec"><h2>Karşılaştırmalı Özet: Farklı Bağlamlarda "Patch"</h2><table class="table-styled"><thead><tr><th>Bağlam</th><th>Ne Anlama Gelir?</th><th>Temel Amaç</th><th>Tipik Örnek</th></tr></thead><tbody><tr><td><strong>Yazılım &amp; İşletim Sistemi</strong></td><td>Güncelleme Paketi</td><td>Güvenlik açığı kapatma, kararlılık</td><td>Windows Update KB yaması, Sıfır-gün yaması</td></tr><tr><td><strong>Oyun Dünyası</strong></td><td>İçerik ve Denge Güncellemesi</td><td>Oynanış dengesi, performans, meta değişimi</td><td>Sezon yaması (Patch 14.2), Dengeleme güncellemesi</td></tr><tr><td><strong>Git &amp; Versiyon Kontrolü</strong></td><td>Satır Bazlı Değişiklik Dosyası</td><td>Kod paylaşımı, kod incelemesi, katkı sağlama</td><td><code>git format-patch HEAD~1</code>, <code>linux-kernel.patch</code></td></tr><tr><td><strong>Web API / HTTP</strong></td><td>Kısmi Güncelleme Metodu</td><td>Ağ tasarrufu, kaynak üzerinde kısmi değişiklik</td><td><code>PATCH /api/users/42</code> body: <code>{"status": "active"}</code></td></tr></tbody></table></section>
+
+<section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Patch ne demek, Türkçe karşılığı nedir?</p><p class="dict-faq-a">Türkçe karşılığı "yama" veya "hata düzeltme eki"dir. Bir sistemin veya yazılımın tümünü değiştirmeden belirli bir bölümünü onaran veya güncelleyen kod parçacıklarını ifade eder.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Hotfix ile Patch arasındaki fark nedir?</p><p class="dict-faq-a">Patch genellikle planlı sürümlerle (örneğin aylık güvenlik bültenleri) kapsamlı testlerden sonra yayınlanır. Hotfix ise üretim ortamında ortaya çıkan acil bir çökme veya güvenlik zafiyetini derhal durdurmak için hazırlanan plansız, hızlı müdahale yamasıdır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">HTTP PUT ve HTTP PATCH arasındaki temel fark nedir?</p><p class="dict-faq-a">PUT kaynağın bütünüyle değiştirilmesini (replace) hedefler ve aynı isteğin tekrarlanması durumunda aynı sonucu verir (idempotent). PATCH ise kaynağın sadece belirtilen alanlarını kısmi olarak değiştirir (partial update) ve her senaryoda idempotent olmak zorunda değildir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Git ortamında PR (Pull Request) varken neden hâlâ patch dosyaları kullanılır?</p><p class="dict-faq-a">Linux çekirdeği (kernel), Git'in kendi geliştirme süreci ve Postgres gibi köklü açık kaynak projeleri merkezi web platformlarına (GitHub vb.) bağımlı kalmamak adına e-posta tabanlı yama (patch) iş akışını sürdürmektedir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Patch Tuesday nedir?</p><p class="dict-faq-a">Microsoft'un her ayın ikinci salı günü Windows ve kurumsal ürünleri için düzenli olarak toplu güvenlik yamalarını dağıttığı sektörel takvime verilen addır.</p></div></div></section>
+
+<section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/vulnerability-scanning/">Vulnerability Scanning</a><a href="/dictionary/security-scanner/">Security Scanner</a><a href="/dictionary/deployment/">Deployment</a><a href="/dictionary/git-push/">Git Push</a></div></section>
 <section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/photogimp/">PhotoGIMP</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>

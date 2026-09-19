@@ -3,9 +3,10 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Checkout nedir, ne demek? E-ticaret ödeme akışı ve Git komutu rehberi · TreScout Sözlük</title>
-<meta name="description" content="Checkout nedir, ne demek ve nasıl çalışır? E-ticarette güvenli ödeme tamamlama adımları, Stripe entegrasyonu ve Git checkout komutu rehberi.">
+<title>Checkout Nedir, Ne Demek? E-Ticaret ve Git Checkout · TreScout</title>
+<meta name="description" content="Checkout nedir, ne demek? E-ticarette ödeme ve sepet tamamlama akışı ile yazılımda Git checkout komutunun mimarisi, farkları ve püf noktaları rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="canonical" href="https://trescout.com/dictionary/checkout/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/checkout/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/checkout/">
 <link rel="alternate" hreflang="fr" href="https://trescout.com/fr/dictionary/checkout/">
@@ -13,9 +14,8 @@
 <link rel="alternate" hreflang="es" href="https://trescout.com/es/dictionary/checkout/">
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/checkout/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/checkout/">
-<link rel="canonical" href="https://trescout.com/dictionary/checkout/">
-<meta property="og:title" content="Checkout nedir, ne demek? E-ticaret ödeme akışı ve Git komutu rehberi">
-<meta property="og:description" content="Checkout nedir, ne demek ve nasıl çalışır? E-ticarette güvenli ödeme tamamlama adımları, Stripe entegrasyonu ve Git checkout komutu rehberi.">
+<meta property="og:title" content="Checkout Nedir, Ne Demek? E-Ticaret ve Git Checkout · TreScout">
+<meta property="og:description" content="Checkout nedir, ne demek? E-ticarette ödeme ve sepet tamamlama akışı ile yazılımda Git checkout komutunun mimarisi, farkları ve püf noktaları rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/checkout/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,15 +24,17 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Checkout nedir, ne demek? E-ticaret ödeme akışı ve Git komutu rehberi">
+<meta name="twitter:title" content="Checkout Nedir, Ne Demek? E-Ticaret ve Git Checkout · TreScout">
+<meta name="twitter:description" content="Checkout nedir, ne demek? E-ticarette ödeme ve sepet tamamlama akışı ile yazılımda Git checkout komutunun mimarisi, farkları ve püf noktaları rehberi.">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/checkout.webp">
+<meta property="og:image:alt" content="Checkout nedir, ne demek?">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Checkout",
   "inLanguage": "tr",
-  "description": "Checkout, e-ticarette sepet onay ve güvenli ödeme tamamlama aşamasını; sürüm kontrolünde ise Git dal veya commit değiştirme işlemini ifade eder.",
+  "description": "Checkout, e-ticarette sepet onay ve güvenli ödeme tamamlama aşamasını; sürüm kontrolünde ise Git dal veya commit değiştirme işlemini ifade eden çok anlamlı bir terimdir.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -48,26 +50,42 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Checkout ne demek ve Türkçe karşılığı nedir?",
+      "name": "Checkout kelimesinin genel anlamı nedir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "İngilizce 'çıkış yapmak / kontrol edip ayrılmak' deyiminden gelir. E-ticarette 'ödeme tamamlama / sipariş onayı'; yazılımda ise 'dala geçiş' olarak ifade edilir."
+        "text": "İngilizce \"check out\" kökeninden gelen terim, otelden çıkış yapma veya süpermarkette alışverişi ödeyip ayrılma eylemlerini tanımlar. Dijital dünyada ise e-ticaretteki \"satın alma kasası\" ile Git'teki \"projenin belirli bir sürümünü incelemek üzere çekip alma\" anlamlarında terimleşmiştir."
       }
     },
     {
       "@type": "Question",
-      "name": "Checkout terk etme (Cart Abandonment) oranı nedir ve nasıl düşürülür?",
+      "name": "E-ticarette checkout adımı nasıl optimize edilir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Kullanıcıların ödeme sayfasına gelip satın almadan ayrılma oranıdır. Tek tıkla ödeme (Apple Pay, Google Pay), misafir alışveriş seçeneği ve şeffaf kargo/vergi bilgileriyle bu oran düşürülür."
+        "text": "Form alanlarını asgariye indirmek, misafir alışverişi (guest checkout) sunmak, gizli masrafları önceden net göstermek, sayfa yükleme hızını optimize etmek ve Apple Pay/Google Pay gibi hızlı ödeme seçenekleri sağlamak dönüşüm oranlarını artırır."
       }
     },
     {
       "@type": "Question",
-      "name": "Git'te git checkout ile git switch arasındaki fark nedir?",
+      "name": "git checkout yaparken \"error: Your local changes would be overwritten\" hatası nasıl çözülür?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Modern Git sürümlerinde branch değiştirmek için git switch, dosya değişikliklerini geri almak için git restore komutları getirilmiştir; ancak git checkout her iki işlevi de kapsayan köklü bir komuttur."
+        "text": "Bu hata, hedef dal ile yerelinizdeki değiştirilmiş dosyaların çakıştığını belirtir. Çözüm için değişikliklerinizi git stash ile geçici olarak saklayabilir, commit'leyebilir (git commit) ya da değişikliklerden vazgeçmek istiyorsanız git restore . ile sıfırlayabilirsiniz."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "git checkout yerine neden git switch kullanılması önerilir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "git checkout hem dal değiştirmek hem de dosya içeriklerini sıfırlamak için kullanıldığından yanlışlıkla veri kaybına yol açabiliyordu. Git geliştiricileri bu kafa karışıklığını önlemek için dal geçişlerini git switch komutuna tahsis etmiştir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Headless Checkout nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Geleneksel e-ticaret platformlarının monolitik yapısından ayrılarak, ödeme deneyiminin API'ler aracılığıyla tamamen özelleştirilmiş arayüzlerde (mobil uygulama, IoT cihazı veya özel web arayüzü) sunulmasıdır."
       }
     }
   ]
@@ -75,14 +93,10 @@
 </script>
 <link rel="alternate" type="text/markdown" href="/dictionary/checkout.md">
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
-      <link rel="preload" href="/assets/fonts/inter-latin-ext.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/inter-latin-ext.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
-
-<meta name="twitter:description" content="Checkout nedir, ne demek ve nasıl çalışır? E-ticarette güvenli ödeme tamamlama adımları, Stripe entegrasyonu ve Git checkout komutu rehberi.">
-
-<meta property="og:image:alt" content="Checkout nedir, ne demek?">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
@@ -93,8 +107,19 @@
 <div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
 <h1 class="disc-title">Checkout <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">Checkout, e-ticarette ödeme ve siparişin onaylandığı son aşamayı; sürüm kontrolünde (Git) ise farklı bir çalışma dalına veya commit'e geçme eylemini ifade eder.</p>
-<section class="disc-sec"><h2>Tanım ve iki temel kullanım alanı</h2><p>Checkout terimi yazılım ve internet dünyasında iki kritik bağlamda yaygın olarak kullanılır:<br><br>1. <strong>E-Ticaret ve SaaS (Ödeme Akışı):</strong> Kullanıcının dijital sepetine eklediği ürün veya aboneliklerin fatura, teslimat ve kredi kartı bilgilerini girerek satın alma işlemini resmiyete kavuşturduğu son adımdır (Stripe, Lemon Squeezy vb.). Güvenli veri akışının (SSL, PCI-DSS) ve minimum sürtünmeli kullanıcı deneyiminin (UX) en kritik olduğu aşamadır.<br>2. <strong>Sürüm Kontrol Sistemleri (Git Checkout):</strong> Git&#x27;te üzerinde çalışılan geçerli dalı (branch) değiştirmek veya geçmişteki belirli bir commit durumuna göz atmak için kullanılan temel komuttur (<code>git checkout &lt;dal-adı&gt;</code>).</p></section><div class="dict-analogy">Süpermarkette sepetinizi doldurduktan sonra kasaya gidip ödemenizi yaparak fişinizi aldığınız o son nokta e-ticaret checkout&#x27;udur. Bir kütüphanede farklı bir kitabın sayfalarını incelemek için çalışma masanızı değiştirmek ise Git checkout&#x27;udur.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>- <strong>E-Ticaret Checkout:</strong> Kullanıcı &#x27;Satın Al&#x27; butonuna bastığında sipariş özeti doğrulanır, ödeme sağlayıcısına (gateway) şifreli token iletilir, banka onayı alınır ve webhooks ile sipariş veritabanına işlenir.<br>- <strong>Git Checkout:</strong> Komut verildiğinde Git, çalışma dizininizdeki (working directory) dosyaları hedef daldaki commit durumuna anında eşitler.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Tüm çevrim içi alışveriş ve SaaS platformlarında, ödeme ağ geçitlerinde ve yazılım geliştiricilerin terminal iş akışlarında kullanılır.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Checkout ne demek ve Türkçe karşılığı nedir?</p><p class="dict-faq-a">İngilizce &#x27;çıkış yapmak / kontrol edip ayrılmak&#x27; deyiminden gelir. E-ticarette &#x27;ödeme tamamlama / sipariş onayı&#x27;; yazılımda ise &#x27;dala geçiş&#x27; olarak ifade edilir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Checkout terk etme (Cart Abandonment) oranı nedir ve nasıl düşürülür?</p><p class="dict-faq-a">Kullanıcıların ödeme sayfasına gelip satın almadan ayrılma oranıdır. Tek tıkla ödeme (Apple Pay, Google Pay), misafir alışveriş seçeneği ve şeffaf kargo/vergi bilgileriyle bu oran düşürülür.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Git&#x27;te git checkout ile git switch arasındaki fark nedir?</p><p class="dict-faq-a">Modern Git sürümlerinde branch değiştirmek için git switch, dosya değişikliklerini geri almak için git restore komutları getirilmiştir; ancak git checkout her iki işlevi de kapsayan köklü bir komuttur.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/api/">API</a><a href="/dictionary/saas/">SaaS</a><a href="/dictionary/crm/">CRM</a></div></section>
+<p class="disc-lead"><strong>Checkout</strong>, bağlama göre iki temel anlama sahip kritik bir terimdir: E-ticaret ve SaaS ekosisteminde müşterinin siparişini tamamladığı <strong>ödeme akışı</strong>; yazılım geliştirmede ise Git versiyon kontrolünde dal veya sürüm değiştirme komutudur (<code>git checkout</code>).</p>
+
+<div class="dict-analogy">Süpermarkette sepetinizi doldurduktan sonra kasaya gidip ödemenizi yaparak fişinizi aldığınız o son nokta e-ticaret checkout'udur. Bir kütüphanede farklı bir kitabın sayfalarını incelemek için çalışma masanızı değiştirmek ise Git checkout'udur.</div>
+
+<section class="disc-sec"><h2>1. E-Ticaret ve Dijital Ürünlerde Checkout Mimarisi</h2><p>E-ticaret ve dijital abonelik platformlarında (SaaS) checkout, kullanıcı yolculuğunun dönüşüme (conversion) dönüştüğü en kritik temas noktasıdır.</p><h3>Aşamalar ve Çalışma Mekanizması</h3><p>Tipik bir modern ödeme akışı şu katmanlardan oluşur:</p><ul><li><strong>Sepet Özeti ve Doğrulama:</strong> Ürünlerin stok durumu, vergi oranları, indirim kuponları ve kargo maliyetleri anlık olarak sunucu tarafında doğrulanır.</li><li><strong>Form ve Güvenlik:</strong> İstemci (tarayıcı/mobil uygulama), kart bilgilerini doğrudan satıcının sunucusuna göndermez. Bunun yerine Stripe, Iyzico veya Adyen gibi PCI-DSS uyumlu ödeme altyapılarının sağladığı güvenli iframe veya SDK'lar üzerinden <strong>kart tokenizasyonu</strong> (tokenization) gerçekleştirilir.</li><li><strong>3D Secure ve Kimlik Doğrulama:</strong> 3DS2 protokolüyle kullanıcının bankasıyla arka planda risk analizi yapılır ve gerekirse tek kullanımlık SMS/mobil onay şifresi istenir.</li><li><strong>Idempotency (Çift Çekim Koruması):</strong> Ağ kesintileri veya kullanıcının "Öde" butonuna art arda basması durumunda aynı siparişin mükerrer çekilmesini önlemek için benzersiz bir <em>Idempotency-Key</em> başlığı kullanılır.</li><li><strong>Webhooks ve Sipariş Kesinleştirme:</strong> Bankadan gelen başarılı işlem yanıtı sonrasında asenkron webhook çağrılarıyla sipariş durumu güncellenir, fatura kesilir ve envanter düşülür.</li></ul><h3>Sepet Terk Oranı (Cart Abandonment) ve Optimizasyon</h3><p>E-ticaret istatistiklerine göre kullanıcıların %70'e yakını ödeme aşamasında sepeti terk eder. Bu kaybı azaltmak için uygulanan en iyi pratikler:</p><ul><li><strong>Tek Sayfa Checkout (One-Step Checkout):</strong> Tüm adımların gereksiz yönlendirmeler olmadan tek bir ekranda toplanması.</li><li><strong>Misafir Alışverişi (Guest Checkout):</strong> Kullanıcıyı zorunlu hesap oluşturma bariyerine takmadan hızlı sipariş imkanı.</li><li><strong>Dijital Cüzdanlar:</strong> Apple Pay, Google Pay gibi tek tıkla biyometrik doğrulama sunan ödeme yöntemlerinin entegre edilmesi.</li></ul></section>
+
+<section class="disc-sec"><h2>2. Git Sürüm Kontrolünde Checkout (git checkout)</h2><p>Yazılım geliştiriciler için <code>checkout</code>, Git'in en çok kullanılan fakat zaman içinde fazla sorumluluk yüklendiği için modern Git sürümlerinde özelleştirilmiş alternatifleri geliştirilmiş bir komutudur.</p><h3>Temel İşlevleri ve Kullanımı</h3><ul><li><strong>Dallar Arasında Geçiş:</strong><br><pre><code>git checkout feature/login</code></pre><code>HEAD</code> işaretçisini hedef dala taşır ve çalışma dizinindeki dosyaları o dalın son haline günceller.</li><li><strong>Yeni Dal Oluşturup Geçiş Yapma:</strong><br><pre><code>git checkout -b feature/odeme-entegrasyonu</code></pre></li><li><strong>Tek Bir Dosyayı Geri Alma (Discard Changes):</strong><br><pre><code>git checkout -- dosya.txt</code></pre>Henüz commit'lenmemiş yerel değişiklikleri silerek dosyayı son commit durumuna döndürür.</li><li><strong>Geçmiş Bir Commit'e Geçme (Detached HEAD Durumu):</strong> Belirli bir commit ID'sine dönüldüğünde Git <code>detached HEAD</code> (ayrık baş) durumuna geçer. Bu durumda yapılan yeni commit'ler hiçbir dala bağlı olmaz ve dal oluşturulmazsa çöp toplayıcı tarafından silinebilir.</li></ul><h3>Modern Alternatifler: git switch ve git restore</h3><p>Git 2.23 sürümünden itibaren <code>git checkout</code> komutunun kafa karıştıran çoklu görevleri iki amaca yönelik komuta ayrılmıştır:</p><ul><li><strong><code>git switch</code>:</strong> Yalnızca dal değiştirme ve yeni dal açma işlemlerine odaklanır (<code>git switch main</code>, <code>git switch -c yeni-dal</code>).</li><li><strong><code>git restore</code>:</strong> Dosyaları eski haline getirme ve staging area'dan çıkarma işlemlerini yürütür (<code>git restore dosya.txt</code>, <code>git restore --staged dosya.txt</code>).</li></ul></section>
+
+<section class="disc-sec"><h2>E-Ticaret vs Git: Karşılaştırmalı Kavram Tablosu</h2><table class="table-styled"><thead><tr><th>Boyut</th><th>E-Ticaret / SaaS Checkout</th><th>Git Sürüm Kontrolü (git checkout)</th></tr></thead><tbody><tr><td><strong>Kapsam</strong></td><td>Alışveriş &amp; Ödeme İşlemleri</td><td>Kod Tabanı &amp; Versiyon Takibi</td></tr><tr><td><strong>Hedef Kitle</strong></td><td>Son kullanıcılar, müşteriler</td><td>Yazılım mühendisleri, DevOps ekipleri</td></tr><tr><td><strong>Kritik Süreç</strong></td><td>Tokenizasyon, 3D Secure, Webhook</td><td>Dal değiştirme, HEAD taşıma, dosya kurtarma</td></tr><tr><td><strong>En Büyük Risk</strong></td><td>Sepet terk etme, mükerrer çekim</td><td>Kaydedilmemiş çalışma dizini değişikliklerini kaybetme</td></tr><tr><td><strong>Modern Yaklaşım</strong></td><td>Apple/Google Pay, Headless Checkout</td><td><code>git switch</code> ve <code>git restore</code> kullanımı</td></tr></tbody></table></section>
+
+<section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Checkout kelimesinin genel anlamı nedir?</p><p class="dict-faq-a">İngilizce "check out" kökeninden gelen terim, otelden çıkış yapma veya süpermarkette alışverişi ödeyip ayrılma eylemlerini tanımlar. Dijital dünyada ise e-ticaretteki "satın alma kasası" ile Git'teki "projenin belirli bir sürümünü incelemek üzere çekip alma" anlamlarında terimleşmiştir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">E-ticarette checkout adımı nasıl optimize edilir?</p><p class="dict-faq-a">Form alanlarını asgariye indirmek, misafir alışverişi (guest checkout) sunmak, gizli masrafları önceden net göstermek, sayfa yükleme hızını optimize etmek ve Apple Pay/Google Pay gibi hızlı ödeme seçenekleri sağlamak dönüşüm oranlarını artırır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">git checkout yaparken "error: Your local changes would be overwritten" hatası nasıl çözülür?</p><p class="dict-faq-a">Bu hata, hedef dal ile yerelinizdeki değiştirilmiş dosyaların çakıştığını belirtir. Çözüm için değişikliklerinizi git stash ile geçici olarak saklayabilir, commit'leyebilir (git commit) ya da değişikliklerden vazgeçmek istiyorsanız git restore . ile sıfırlayabilirsiniz.</p></div><div class="dict-faq-item"><p class="dict-faq-q">git checkout yerine neden git switch kullanılması önerilir?</p><p class="dict-faq-a">git checkout hem dal değiştirmek hem de dosya içeriklerini sıfırlamak için kullanıldığından yanlışlıkla veri kaybına yol açabiliyordu. Git geliştiricileri bu kafa karışıklığını önlemek için dal geçişlerini git switch komutuna tahsis etmiştir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Headless Checkout nedir?</p><p class="dict-faq-a">Geleneksel e-ticaret platformlarının monolitik yapısından ayrılarak, ödeme deneyiminin API'ler aracılığıyla tamamen özelleştirilmiş arayüzlerde (mobil uygulama, IoT cihazı veya özel web arayüzü) sunulmasıdır.</p></div></div></section>
+
+<section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/api/">API</a><a href="/dictionary/saas/">SaaS</a><a href="/dictionary/crm/">CRM</a><a href="/dictionary/git-push/">Git Push</a></div></section>
 <section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/checkout/">Checkout</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>

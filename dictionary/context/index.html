@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Context nedir, ne demek? Yapay zekâda bağlam rehberi · TreScout Sözlük</title>
-<meta name="description" content="Context nedir, ne demek ve yapay zekâda nasıl çalışır? LLM modellerinde bağlam penceresi (context window), prompt farkı ve pratik kullanım alanları.">
+<title>Context Nedir, Ne Demek? Yapay Zekâ ve Yazılımda Bağlam · TreScout</title>
+<meta name="description" content="Context (bağlam) nedir? Yapay zekâda context window ve RAG mimarisi ile işletim sistemlerinde context switching ve programlama pratikleri rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/dictionary/context/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/context/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="es" href="https://trescout.com/es/dictionary/context/">
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/context/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/context/">
-<meta property="og:title" content="Context nedir, ne demek?">
-<meta property="og:description" content="Context nedir, ne demek ve yapay zekâda nasıl çalışır? LLM modellerinde bağlam penceresi (context window), prompt farkı ve pratik kullanım alanları.">
+<meta property="og:title" content="Context Nedir, Ne Demek? Yapay Zekâ ve Yazılımda Bağlam · TreScout">
+<meta property="og:description" content="Context (bağlam) nedir? Yapay zekâda context window ve RAG mimarisi ile işletim sistemlerinde context switching ve programlama pratikleri rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/context/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,15 +24,18 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Context nedir, ne demek?">
+<meta name="twitter:title" content="Context Nedir, Ne Demek? Yapay Zekâ ve Yazılımda Bağlam · TreScout">
+<meta name="twitter:description" content="Context (bağlam) nedir? Yapay zekâda context window ve RAG mimarisi ile işletim sistemlerinde context switching ve programlama pratikleri rehberi.">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/context.webp">
+<meta property="og:image:alt" content="Context nedir, ne demek?">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Context",
+  "alternateName": "Bağlam",
   "inLanguage": "tr",
-  "description": "Context (bağlam), yapay zekâ modellerinin ve yazılım sistemlerinin bir girdiyi doğru anlamlandırmak için başvurduğu arka plan bilgisidir. LLM ve RAG sistemlerinde kritik rol oynar.",
+  "description": "Context (bağlam), bir verinin, komutun veya sürecin doğru şekilde yorumlanabilmesi ve yürütülebilmesi için ihtiyaç duyduğu çevresel ve anlamsal bilgilerin bütünüdür. Yapay zekâ ve işletim sistemlerinde kritik rol oynar.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -51,7 +54,7 @@
       "name": "Context ne demek, Türkçe karşılığı nedir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Türkçe karşılığı bağlamdır. Bir cümlenin, komutun veya durumun içinde bulunduğu ortam ve arka plan koşullarını ifade eder."
+        "text": "Türkçe karşılığı \"bağlam\"dır. Herhangi bir ifadenin, verinin ya da işlemin içinde yer aldığı şartlar, arka plan ve onunla ilişkili bütünleyici durumlar bütünü anlamına gelir."
       }
     },
     {
@@ -59,15 +62,31 @@
       "name": "Prompt ile Context arasındaki fark nedir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Prompt modele verdiğiniz doğrudan soru veya emir cümlesidir; context ise modelin bu komutu doğru yorumlaması için sağladığınız doküman ve geçmiş arka planıdır."
+        "text": "Prompt, yapay zekâya doğrudan verilen girdi, soru veya eylem talimatıdır (\"Bu kodu açıkla\"). Context ise modelin bu talimatı doğru yerine getirmesi için sağlanan ek bilgi, kodun tamamı, ortam değişkenleri veya geçmiş konuşmalardır."
       }
     },
     {
       "@type": "Question",
-      "name": "Context window neyi ifade eder?",
+      "name": "Context Window (Bağlam Penceresi) neden sınırlıdır?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yapay zekânın tek bir işlem anında hafızasında tutabileceği ve işleyebileceği toplam bilgi (token) sınırını ifade eder."
+        "text": "Transformer mimarisinde her bir token diğer tüm tokenlarla çapraz ilişkilendirilir. Bu matematiksel hesaplama ve saklanan bellek (KV-Cache), bağlam uzunluğunun karesiyle doğru orantılı arttığı için GPU belleği donanımsal bir sınır oluşturur."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "İşletim sisteminde \"Context Switch\" neden performans kaybına yol açar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bir süreçten diğerine geçerken CPU'nun kayıtçılarını kaydetmesi, yeni sürecin bellek alanını yüklemesi ve işlemci önbelleklerinin (L1/L2/L3 ve TLB) temizlenip yeniden dolması gerekir. Bu durum mikro saniyeler mertebesinde doğrudan işlemci kaybına yol açar."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Go dilinde context paketi neden her fonksiyona ilk parametre olarak verilir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Go'da ctx context.Context parametresi, bir HTTP isteği iptal edildiğinde veya zaman aşımına uğradığında arkadaki veritabanı sorgularının ve arka plan işlerinin de durdurulmasını sağlayarak sunucu kaynaklarının boş yere tüketilmesini önler."
       }
     }
   ]
@@ -75,14 +94,10 @@
 </script>
 <link rel="alternate" type="text/markdown" href="/dictionary/context.md">
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
-      <link rel="preload" href="/assets/fonts/inter-latin-ext.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/inter-latin-ext.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
-
-<meta name="twitter:description" content="Context nedir, ne demek ve yapay zekâda nasıl çalışır? LLM modellerinde bağlam penceresi (context window), prompt farkı ve pratik kullanım alanları.">
-
-<meta property="og:image:alt" content="Context nedir, ne demek?">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
@@ -93,8 +108,21 @@
 <div class="disc-top"><span class="disc-eyebrow">Sözlük · Yapay Zekâ</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
 <h1 class="disc-title">Context <span class="disc-accent">nedir ve ne demek?</span></h1>
 
-<p class="disc-lead">Context (Türkçe karşılığıyla <strong>bağlam</strong>), yapay zekâ modellerinin ve yazılım sistemlerinin bir girdiyi doğru anlamlandırmak için başvurduğu arka plan bilgisidir.</p>
-<section class="disc-sec"><h2>Tanım ve Türkçe karşılığı</h2><p>Context, İngilizce bir terim olup Türkçede <strong>bağlam</strong> olarak adlandırılır. Yapay zekâ ve büyük dil modellerinde (LLM), modelin bir soruya tutarlı, doğru ve amaca uygun cevap verebilmesi için sağlanan tüm geçmiş diyalogları, referans belgeleri ve sistem yönergelerini kapsar. Bağlam eksik olduğunda model genellemelere kayar veya halüsinasyon (yanılsama) riski belirgin şekilde artar.</p></section><div class="dict-analogy">Bir arkadaşınızla sohbet ederken, sadece &#x27;Evet, o da öyle dedi&#x27; derseniz sizi anlamaz; ancak &#x27;Dün konuştuğumuz o filmden bahsediyorum&#x27; derseniz context sağlamış olursunuz.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Geliştiriciler ve kullanıcılar, yapay zekâya talimat verirken geçmiş diyalogları, sistem kurallarını veya harici dokümanları (RAG mimarisiyle) sisteme girdi olarak aktarırlar.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Sohbet botlarında, kod yazma asistanlarında, arama motorlarında ve karmaşık görevleri yöneten yapay zekâ sistemlerinde temel girdidir.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Prompt ile karıştırılabilir; prompt modele verilen anlık komutun kendisidir, context ise bu komutu anlamlı kılan arka plandır.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Context ne demek, Türkçe karşılığı nedir?</p><p class="dict-faq-a">Türkçe karşılığı bağlamdır. Bir cümlenin, komutun veya durumun içinde bulunduğu ortam ve arka plan koşullarını ifade eder.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Prompt ile Context arasındaki fark nedir?</p><p class="dict-faq-a">Prompt modele verdiğiniz doğrudan soru veya emir cümlesidir; context ise modelin bu komutu doğru yorumlaması için sağladığınız doküman ve geçmiş arka planıdır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Context window neyi ifade eder?</p><p class="dict-faq-a">Yapay zekânın tek bir işlem anında hafızasında tutabileceği ve işleyebileceği toplam bilgi (token) sınırını ifade eder.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/context-window/">Context Window</a><a href="/dictionary/prompt/">Prompt</a><a href="/dictionary/rag/">RAG</a></div></section>
+<p class="disc-lead"><strong>Context</strong> (Türkçe karşılığıyla <strong>bağlam</strong>), bir verinin, komutun veya sürecin doğru şekilde yorumlanabilmesi ve yürütülebilmesi için ihtiyaç duyduğu çevresel ve anlamsal bilgilerin bütünüdür.</p>
+
+<p>Bilgisayar bilimlerinde "context" iki ana alanda hayati bir role sahiptir: Yapay zekâ ve büyük dil modellerinde (LLM) modele aktarılan <strong>girdi ve hafıza penceresi</strong> ile işletim sistemlerinde işlemcinin yürüttüğü görev durumunu temsil eden <strong>süreç bağlamı (context switching)</strong>.</p>
+
+<div class="dict-analogy">Bir arkadaşınızla sohbet ederken, sadece "Evet, o da öyle dedi" derseniz sizi anlamaz; ancak "Dün konuştuğumuz o filmden bahsediyorum" derseniz gerekli bağlamı (context) sağlamış olursunuz.</div>
+
+<section class="disc-sec"><h2>1. Yapay Zekâ ve LLM'lerde Context (Bağlam)</h2><p>Büyük dil modelleri (LLM) insan gibi kalıcı bir belleğe veya deneyim hafızasına sahip değildir; her sorguda yalnızca o an bağlam penceresine (context window) dahil edilen verileri "hatırlar".</p><h3>Transformer ve Dikkat (Self-Attention) Mekanizması</h3><p>Transformer mimarisinde bağlam, cümlenin başındaki bir kelimenin sonundaki bir kelimeyle ilişkisini ağırlıklandırarak (Sorgu/Query, Anahtar/Key, Değer/Value vektörleri) kurulur. Model, "banka" kelimesinin finansal bir kuruluş mu yoksa nehir kıyısı mı olduğunu yalnızca içinde geçtiği cümlenin bağlamına bakarak çözer.</p><h3>Context Window (Bağlam Penceresi) ve Sınırları</h3><ul><li><strong>Token Kapasitesi:</strong> Bir modelin tek seferde okuyabildiği ve yanıt üretebildiği maksimum uzunluktur (örn. 8K, 32K, 128K veya 1M+ token).</li><li><strong>Bellek Maliyeti (KV Cache):</strong> Bağlam uzadıkça dikkat matrisinin bellek gereksinimi karesel olarak artar. Bu yükü hafifletmek için FlashAttention ve KV-Cache optimizasyonları kullanılır.</li><li><strong>Kayıp Ortanca Problemi (Lost in the Middle):</strong> Araştırmalar, LLM'lerin uzun metinlerin başında ve sonunda yer alan bilgilere ortadaki bilgilere kıyasla daha iyi odaklandığını göstermektedir.</li><li><strong>RAG (Retrieval-Augmented Generation):</strong> Milyonlarca sayfalık kurumsal veriyi context window içine sığdırmak yerine, arama motoru veya vektör veritabanıyla sadece sorguyla en alakalı paragraflar filtrelenerek bağlam olarak modele aktarılır.</li></ul></section>
+
+<section class="disc-sec"><h2>2. İşletim Sistemleri ve Programlamada Context</h2><p>Sistem programlamada "context", bir programın yürütülmesi esnasında o anki durumunu eksiksiz yansıtan tüm değişken ve kayıtçı (register) değerlerini ifade eder.</p><h3>Context Switching (Bağlam Değiştirme)</h3><p>Çoklu görev (multitasking) çalıştıran bir işletim sistemi, CPU çekirdeğini farklı süreçler (process) ve iş parçacıkları (thread) arasında paylaştırır:</p><ol><li>Çalışan işlemin CPU kayıtçıları (RAX, RSP, RIP vb.), yığın işaretçisi ve bellek sayfaları İşlem Kontrol Bloğuna (PCB - Process Control Block) kaydedilir.</li><li>Sıradaki işlemin kayıtçıları CPU'ya geri yüklenir.</li><li><strong>Maliyet:</strong> Bağlam değiştirme donanım düzeyinde çok maliyetlidir; çünkü CPU L1/L2 önbelleklerinin ve TLB (Translation Lookaside Buffer) adres haritalarının geçersiz kalmasına (cache pollution) neden olur.</li></ol><h3>Dillerde Context Yönetimi</h3><ul><li><strong>Go (<code>context.Context</code>):</strong> Ağ istekleri veya asenkron goroutine'ler arasında iptal sinyalleri (cancellation), son teslim tarihleri (deadline) ve istek kapsamındaki meta verileri taşımak için kullanılır.</li><li><strong>Python (<code>with</code> blokları):</strong> Bağlam yöneticileri (Context Managers), dosya okuma veya veritabanı bağlantısı açma/kapama gibi kaynak temizleme işlemlerini güvenli hale getirir.</li><li><strong>React (Context API):</strong> Bileşen ağacında ara bileşenlere tek tek props geçirmeden (prop drilling olmadan) global state'i derinlemesine iletme yöntemidir.</li></ul></section>
+
+<section class="disc-sec"><h2>Karşılaştırma: Farklı Disiplinlerde Context Kavramı</h2><table class="table-styled"><thead><tr><th>Alan</th><th>Context'in Temsil Ettiği Değer</th><th>Tipik Bileşenler</th><th>Karşılaşılan Sorunlar</th></tr></thead><tbody><tr><td><strong>Yapay Zekâ (LLM)</strong></td><td>Giriş istemi + Geçmiş sohbet + Belgeler</td><td>Tokenlar, Attention Maskeleri, KV Cache</td><td>Token sınırı, Halüsinasyon, Bellek tüketimi</td></tr><tr><td><strong>İşletim Sistemleri</strong></td><td>Bir sürecin donanımsal anlık durumu</td><td>Register'lar, Program Counter, Sayfa Tabloları</td><td>CPU gecikmesi, Cache misses, TLB flush</td></tr><tr><td><strong>Yazılım Geliştirme</strong></td><td>İstek yaşam döngüsü ve ortam verisi</td><td>Timeout sinyali, Yetkilendirme token'ı</td><td>Bellek sızıntısı, İptal edilmeyen asenkron çağrılar</td></tr></tbody></table></section>
+
+<section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Context ne demek, Türkçe karşılığı nedir?</p><p class="dict-faq-a">Türkçe karşılığı "bağlam"dır. Herhangi bir ifadenin, verinin ya da işlemin içinde yer aldığı şartlar, arka plan ve onunla ilişkili bütünleyici durumlar bütünü anlamına gelir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Prompt ile Context arasındaki fark nedir?</p><p class="dict-faq-a">Prompt, yapay zekâya doğrudan verilen girdi, soru veya eylem talimatıdır ("Bu kodu açıkla"). Context ise modelin bu talimatı doğru yerine getirmesi için sağlanan ek bilgi, kodun tamamı, ortam değişkenleri veya geçmiş konuşmalardır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Context Window (Bağlam Penceresi) neden sınırlıdır?</p><p class="dict-faq-a">Transformer mimarisinde her bir token diğer tüm tokenlarla çapraz ilişkilendirilir. Bu matematiksel hesaplama ve saklanan bellek (KV-Cache), bağlam uzunluğunun karesiyle doğru orantılı arttığı için GPU belleği donanımsal bir sınır oluşturur.</p></div><div class="dict-faq-item"><p class="dict-faq-q">İşletim sisteminde "Context Switch" neden performans kaybına yol açar?</p><p class="dict-faq-a">Bir süreçten diğerine geçerken CPU'nun kayıtçılarını kaydetmesi, yeni sürecin bellek alanını yüklemesi ve işlemci önbelleklerinin (L1/L2/L3 ve TLB) temizlenip yeniden dolması gerekir. Bu durum mikro saniyeler mertebesinde doğrudan işlemci kaybına yol açar.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Go dilinde context paketi neden her fonksiyona ilk parametre olarak verilir?</p><p class="dict-faq-a">Go'da ctx context.Context parametresi, bir HTTP isteği iptal edildiğinde veya zaman aşımına uğradığında arkadaki veritabanı sorgularının ve arka plan işlerinin de durdurulmasını sağlayarak sunucu kaynaklarının boş yere tüketilmesini önler.</p></div></div></section>
+
+<section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/context-window/">Context Window</a><a href="/dictionary/prompt/">Prompt</a><a href="/dictionary/rag/">RAG</a><a href="/dictionary/runtime/">Runtime</a></div></section>
 <section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/goose/">Goose</a><a href="/discover/chrome-devtools-mcp/">Chrome Devtools MCP</a><a href="/discover/openclaude/">Openclaude</a><a href="/discover/code-review-graph/">Code Review Graph</a><a href="/discover/fastmcp/">Fastmcp</a><a href="/discover/context-mode/">Context Mode</a><a href="/discover/unity-mcp/">Unity MCP</a><a href="/discover/desktopcommandermcp/">DesktopCommanderMCP</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
