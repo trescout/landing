@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Distributed Ne Demek, Nedir? Dağıtık Sistemler ve Mimari · TreScout</title>
-<meta name="description" content="Distributed ne demek, Türkçe karşılığı nedir? Dağıtık sistemlerin çalışma prensibi, CAP teoremi, mikroservisler, hata toleransı ve ölçeklenebilirlik rehberi.">
+<title>Distributed Ne Demek, Nedir? Dağıtık Sistem Mimarisi · TreScout</title>
+<meta name="description" content="Distributed ne demek, nedir? Dağıtık sistemlerin çalışma mantığı, CAP teoremi, konsensüs protokolleri (Raft, Paxos) ve ölçeklenebilirlik rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/distributed/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/distributed/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/distributed/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/distributed/">
 <link rel="canonical" href="https://trescout.com/dictionary/distributed/">
-<meta property="og:title" content="Distributed Ne Demek, Nedir? Dağıtık Sistemler ve Mimari · TreScout">
-<meta property="og:description" content="Distributed ne demek, Türkçe karşılığı nedir? Dağıtık sistemlerin çalışma prensibi, CAP teoremi, mikroservisler, hata toleransı ve ölçeklenebilirlik rehberi.">
+<meta property="og:title" content="Distributed Ne Demek, Nedir? Dağıtık Sistem Mimarisi">
+<meta property="og:description" content="Distributed ne demek, nedir? Dağıtık sistemlerin çalışma mantığı, CAP teoremi, konsensüs protokolleri (Raft, Paxos) ve ölçeklenebilirlik rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/distributed/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,16 +24,17 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Distributed Ne Demek, Nedir? Dağıtık Sistemler ve Mimari · TreScout">
-<meta name="twitter:description" content="Distributed ne demek, Türkçe karşılığı nedir? Dağıtık sistemlerin çalışma prensibi, CAP teoremi, mikroservisler, hata toleransı ve ölçeklenebilirlik rehberi.">
+<meta name="twitter:title" content="Distributed Ne Demek, Nedir? Dağıtık Sistem Mimarisi">
+<meta name="twitter:description" content="Distributed ne demek, nedir? Dağıtık sistemlerin çalışma mantığı, CAP teoremi, konsensüs protokolleri (Raft, Paxos) ve ölçeklenebilirlik rehberi.">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/distributed.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Distributed",
+  "alternateName": "Dağıtık Sistemler",
   "inLanguage": "tr",
-  "description": "Distributed (dağıtık), bilgi işlemde donanım veya yazılım bileşenlerinin tek bir merkez yerine ağ üzerinden birbirine bağlı birden fazla bağımsız bilgisayara paylaştırılarak tek bir bütün sistem gibi çalışmasıdır.",
+  "description": "Distributed (dağıtık), donanım ve veri süreçlerinin tek bir merkez yerine ağa bağlı bağımsız sunuculara paylaştırılarak tek bir bütün sistem gibi çalışmasıdır.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -52,31 +53,31 @@
       "name": "Distributed ne demek (Türkçe anlamı)?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Bilişim terminolojisinde 'dağıtık' anlamına gelir; işlemlerin, verilerin veya hesaplama gücünün tek bir makine yerine ağa bağlı birden çok bilgisayara paylaştırılmasıdır."
+        "text": "Bilişim terminolojisinde 'dağıtık' anlamına gelir. Hesaplama gücünün, bellek alanının veya veritabanının tek bir sunucu yerine ağ üzerinden haberleşen çok sayıda bağımsız makineye paylaştırılmasıdır."
       }
     },
     {
       "@type": "Question",
-      "name": "CAP Teoremi ne anlama gelir?",
+      "name": "CAP Teoremi pratikte neyi ifade eder?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Dağıtık bir sistemin aynı anda Tutarlılık (C), Erişilebilirlik (A) ve Bölünme Toleransı (P) özelliklerinin üçünü birden mükemmel sağlayamayacağını, ağ kopması durumunda C veya A arasında seçim yapılması gerektiğini ifade eder."
+        "text": "Ağ bağlantısında bir kopma veya gecikme (bölünme) yaşandığında, sistemin ya en güncel veriyi garanti edip bazı istekleri bekletmesi (Tutarlılık) ya da bayat veri verme pahasına her isteğe anında yanıt dönmesi (Erişilebilirlik) gerektiğini ifade eder."
       }
     },
     {
       "@type": "Question",
-      "name": "Git neden dağıtık bir sistemdir?",
+      "name": "Dağıtık sistemlerde Raft konsensüs algoritması neden kullanılır?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Git'te merkezi bir sunucu zorunlu değildir. Projeyi klonlayan her geliştirici, kod tabanının tüm commit geçmişini ve veritabanını kendi bilgisayarında yerel bir kopya olarak taşır."
+        "text": "Ağdaki sunuculardan birkaçı çökse dahi, geriye kalan çoğunluk düğümlerin (Quorum) aralarından yeni bir lider seçmesini ve veritabanı loglarının tüm kümede kayıpsız eşitlenmesini sağlamak için kullanılır."
       }
     },
     {
       "@type": "Question",
-      "name": "Dağıtık sistemlerin en zor tarafı nedir?",
+      "name": "İki Aşamalı Taahhüt (2PC) yerine neden Saga deseni tercih edilir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Ağ gecikmeleri, sunucular arasındaki saat senkronizasyonu farklılıkları, veri tutarsızlıkları ve kısmi çökme (partial failure) durumlarını yönetmektir."
+        "text": "2PC (Two-Phase Commit), dağıtık düğümlerde veritabanı kaynaklarını kilitler ve bir makine yanıt vermediğinde tüm sistemi kilitler. Saga deseni ise asenkron olaylar ve telafi adımları kullanarak sistemin yüksek erişilebilirliğini korur."
       }
     }
   ]
@@ -84,11 +85,10 @@
 </script>
 <link rel="alternate" type="text/markdown" href="/dictionary/distributed.md">
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
-      <link rel="preload" href="/assets/fonts/inter-latin-ext.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/inter-latin-ext.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
-
 <meta property="og:image:alt" content="Distributed ne demek, nedir?">
 </head>
 <body>
@@ -100,9 +100,96 @@
 <div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
 <h1 class="disc-title">Distributed <span class="disc-accent">ne demek, nedir?</span></h1>
 
-<p class="disc-lead">Distributed (dağıtık), bilgi işlemde donanım veya yazılım bileşenlerinin tek bir merkez yerine ağ üzerinden birbirine bağlı birden fazla bağımsız bilgisayara (düğüme) paylaştırılarak tek bir bütün sistem gibi çalışmasıdır.</p>
-<section class="disc-sec"><h2>Tanım ve Türkçe Anlamı</h2><p>&quot;Distributed&quot; kelimesi Türkçede <strong>dağıtık</strong> anlamına gelir. Yazılım ve sistem mühendisliğinde <strong>dağıtık sistemler</strong> (distributed systems); fiziksel olarak farklı konumlarda bulunabilen, birbirleriyle yerel ağ veya internet üzerinden mesajlaşarak haberleşen ve son kullanıcıya sanki tek bir güçlü bilgisayarmış gibi hizmet veren düğümler (node) bütünüdür.</p></section><div class="dict-analogy">Devasa bir kütüphanenin tüm kitaplarını tek bir memurun düzenlemesi yerine; onlarca memurun farklı koridorları paylaşarak aynı anda çalışması ve aranan bir kitabı ortak bir katalog üzerinden saniyeler içinde el birliğiyle bulup getirmesine benzer.</div><section class="disc-sec"><h2>Neden Dağıtık Sistemler Kullanılır?</h2><p><strong>Yatay Ölçeklenebilirlik (Horizontal Scaling):</strong> Tek bir sunucunun işlemcisini ve belleğini yükseltmek (dikey ölçekleme) hızla fiziksel ve mali sınırlara ulaşır. Dağıtık mimaride sisteme yeni ucuz sunucular ekleyerek kapasite sınırsızca artırılabilir.</p><p><strong>Yüksek Erişilebilirlik ve Hata Toleransı:</strong> Bir sunucu bozulsa, elektriği kesilse veya veri merkezinde yangın çıksa bile diğer düğümler yükü devralır ve hizmet kesintisiz sürer (SPOF - Tek Hata Noktası oluşmaz).</p><p><strong>Düşük Gecikme (Latency):</strong> Veriler kullanıcılara coğrafi olarak en yakın sunucularda barındırılarak (CDN, uç bilişim) küresel çapta anlık yanıt süreleri elde edilir.</p></section><section class="disc-sec"><h2>Temel Dağıtık Sistem Kavramları</h2><p><strong>CAP Teoremi:</strong> Bir dağıtık sistemin ağ bölünmesi (Network Partition) anında ya Tutarlılık (Consistency) ya da Erişilebilirlik (Availability) arasında bir tercih yapmak zorunda olduğunu açıklar.</p><p><strong>Konsensüs Algoritmaları (Raft, Paxos):</strong> Ağdaki bağımsız sunucuların hangi verinin güncel olduğu ve kimin lider düğüm seçileceği konusunda anlaşmasını sağlayan matematiksel protokollerdir.</p><p><strong>Nihai Tutarlılık (Eventual Consistency):</strong> Bir düğümde yapılan güncellemenin diğer tüm düğümlere belirli bir gecikmeyle yayılması ve zamanla tüm sistemin tutarlı hale gelmesi prensibidir.</p></section><section class="disc-sec"><h2>Nerede ve Hangi Teknolojilerde Kullanılır?</h2><p><strong>Dağıtık Veritabanları:</strong> Apache Cassandra, CockroachDB, MongoDB, Elasticsearch<br><strong>Mesaj Kuyrukları ve Veri Akışı:</strong> Apache Kafka, RabbitMQ, Apache Flink<br><strong>Konteyner Orkestrasyonu:</strong> Kubernetes, etcd, Nomad<br><strong>Sürüm Kontrol Sistemleri:</strong> Git (her klonun tam bir repo kopyası taşıması)</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Merkezi (Centralized) mimarilerle karıştırılmamalıdır. Merkezi mimaride tüm işlemler ve veriler tek bir sunucu havuzunda toplanır; bu sunucu çöktüğünde tüm sistem durur. Dağıtık sistemlerde ise sorumluluk ve veri parçaları bağımsız düğümler arasında paylaşılmıştır.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Distributed ne demek (Türkçe anlamı)?</p><p class="dict-faq-a">Bilişim terminolojisinde &#x27;dağıtık&#x27; anlamına gelir; işlemlerin, verilerin veya hesaplama gücünün tek bir makine yerine ağa bağlı birden çok bilgisayara paylaştırılmasıdır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">CAP Teoremi ne anlama gelir?</p><p class="dict-faq-a">Dağıtık bir sistemin aynı anda Tutarlılık (C), Erişilebilirlik (A) ve Bölünme Toleransı (P) özelliklerinin üçünü birden mükemmel sağlayamayacağını, ağ kopması durumunda C veya A arasında seçim yapılması gerektiğini ifade eder.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Git neden dağıtık bir sistemdir?</p><p class="dict-faq-a">Git&#x27;te merkezi bir sunucu zorunlu değildir. Projeyi klonlayan her geliştirici, kod tabanının tüm commit geçmişini ve veritabanını kendi bilgisayarında yerel bir kopya olarak taşır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Dağıtık sistemlerin en zor tarafı nedir?</p><p class="dict-faq-a">Ağ gecikmeleri, sunucular arasındaki saat senkronizasyonu farklılıkları, veri tutarsızlıkları ve kısmi çökme (partial failure) durumlarını yönetmektir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/cloud-native/">Cloud Native</a><a href="/dictionary/service-mesh/">Service Mesh</a><a href="/dictionary/multi-tenancy/">Multi-tenancy</a></div></section>
-<section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/elasticsearch/">Elasticsearch</a><a href="/discover/cassandra/">Cassandra</a></div></section>
+<p class="disc-lead">Distributed (dağıtık), bilgi işlem dünyasında donanım, veri ve hesaplama süreçlerinin tek bir merkezi makine yerine ağ üzerinden birbirine bağlı çok sayıda bağımsız sunucuya (düğüme) paylaştırılması ve bu sistemin son kullanıcıya tek bir bütün bilgisayarmış gibi hizmet vermesidir.</p>
+
+<section class="disc-sec">
+<h2>Etimoloji ve Dağıtık Sistemlerin Doğası</h2>
+<p>&quot;Distributed&quot; sözcüğü Türkçede <strong>dağıtık</strong> anlamına gelir. Bilgisayar bilimlerinin öncülerinden Leslie Lamport, dağıtık sistemleri tarihe geçen şu veciz sözüyle tanımlamıştır: <em>&quot;Dağıtık sistem; varlığından bile haberdar olmadığınız bir bilgisayarın çökmesinin, kendi bilgisayarınızı kullanılamaz hale getirebildiği sistemdir.&quot;</em></p>
+<p>Merkezi (monolitik) mimarilerde tüm işlemler tek bir ana bellek ve işlemci üzerinde gerçekleşir. Dağıtık sistemlerde ise fiziksel olarak dünyanın farklı kıtalarındaki veri merkezlerine yayılmış yüzlerce düğüm (node), güvenilmez ağ kabloları üzerinden haberleşerek ortak bir amaca hizmet eder.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Dağıtık Hesaplamanın 8 Yanılgısı (8 Fallacies)</h2>
+<p>1990'lı yıllarda Sun Microsystems mühendisleri L. Peter Deutsch ve James Gosling, dağıtık sistem geliştiren yazılımcıların düştüğü &quot;8 Ölümcül Yanılgı&quot;yı sıralamıştır. Modern bulut ve mikroservis mimarilerinin tüm savunma hatları bu yanılgılara göre kurulur:</p>
+<p>1. <strong>Ağ güvenilirdir:</strong> Gerçekte paketler kaybolur, fiber hatlar kopar, yönlendiriciler kilitlenir.<br>
+2. <strong>Gecikme (latency) sıfırdır:</strong> İki makine arasındaki ışık hızı ve ağ anahtarlama gecikmesi her zaman mevcuttur.<br>
+3. <strong>Bant genişliği sonsuzdur:</strong> Veri hacmi arttıkça ağ boruları tıkanır.<br>
+4. <strong>Ağ güvenlidir:</strong> Tüm dağıtık iletişim açık hatlardan geçer ve kriptografik koruma gerektirir.<br>
+5. <strong>Topoloji değişmez:</strong> Sunucular sürekli açılıp kapanır, IP adresleri değişir.<br>
+6. <strong>Yalnızca bir sistem yöneticisi vardır:</strong> Çoklu ekipler ve bulut sağlayıcıları işin içindedir.<br>
+7. <strong>Taşıma maliyeti sıfırdır:</strong> Serileştirme ve CPU paketleme maliyetleri göz ardı edilemez.<br>
+8. <strong>Ağ homojendir:</strong> Sistemde Linux, Windows, ARM, x86 ve farklı protokoller bir arada çalışır.</p>
+</section>
+
+<section class="disc-sec">
+<h2>CAP Teoremi ve PACELC Modeli</h2>
+<p>Eric Brewer tarafından ortaya atılan <strong>CAP Teoremi</strong>, dağıtık veri yönetiminin temel sınırlarını çizer. Bir ağ bölünmesi (Network Partition - P) yaşandığında sistem iki seçenekten birini seçmek zorundadır:</p>
+<p>- <strong>CP (Consistency + Partition Tolerance):</strong> Sistem tutarlılığı seçer. Verisi güncel olmayan düğümler cevap vermeyi reddeder; erişilebilirlik feda edilir (örneğin finans ve bankacılık işlemleri).<br>
+- <strong>AP (Availability + Partition Tolerance):</strong> Sistem erişilebilirliği seçer. Düğümler cevap vermeye devam eder ancak bazı kullanıcılar birkaç saniye önceki bayat veriyi görebilir (örneğin sosyal medya akışları).</p>
+<p>Modern sistemlerde Daniel Abadi'nin <strong>PACELC Modeli</strong> kullanılır: Ağ bölündüğünde (P) Availability mi Consistency mi; sistem normal çalışırken Else (E) Latency (düşük gecikme) mi yoksa Consistency (anlık tutarlılık) mi hedeflenecektir?</p>
+</section>
+
+<section class="disc-sec">
+<h2>Konsensüs Protokolleri: Raft ve Paxos</h2>
+<p>Birbirine güvenmeyen ve her an çökebilecek bağımsız sunucuların tek bir gerçek üzerinde anlaşabilmesi için konsensüs algoritmaları geliştirilmiştir:</p>
+<p>- <strong>Paxos:</strong> Leslie Lamport tarafından geliştirilen, matematiksel olarak kanıtlanmış ancak pratikte uygulanması son derece karmaşık konsensüs algoritması.<br>
+- <strong>Raft:</strong> Paxos'un karmaşıklığını çözmek amacıyla Diego Ongaro ve John Ousterhout tarafından geliştirilen, insan zihnine uygun konsensüs protokolü. Lider seçimi (Leader Election), Günlük Çoğaltma (Log Replication) ve Güvenlik (Safety) durum makineleri üzerine kuruludur (etcd, Kubernetes, Consul gibi dev sistemlerin kalbinde çalışır).<br>
+- <strong>Bizans Hata Toleransı (BFT):</strong> Bazı düğümlerin kasıtlı olarak hatalı veya kötü niyetli bilgi yaydığı ortamlarda dahi konsensüsü sağlayan blokzincir protokollerinin temelidir.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Dağıtık Sistemlerde Zaman Problemi ve Çözümler</h2>
+<p>Merkezi bir bilgisayarda donanım saati tek bir gerçeği gösterir. Dağıtık sistemlerde ise sunucu saatleri fiziksel sapmalar (clock drift) gösterir ve NTP (Network Time Protocol) milisaniyelik hassasiyet için yetersizdir:</p>
+<p>- <strong>Lamport Mantıksal Saatleri (Lamport Timestamps):</strong> Fiziksel zaman yerine &quot;olayların oluş sırasını&quot; tanımlar.<br>
+- <strong>Vektör Saatleri (Vector Clocks):</strong> Hangi verinin diğerinin nedeni veya sonucu olduğunu belirleyerek veri çakışmalarını tespit eder.<br>
+- <strong>Google TrueTime:</strong> Google Spanner dağıtık veritabanında kullanılan atom saatleri ve GPS antenleri kombinasyonu. Belirsizlik payını birkaç milisaniyeye indirerek küresel ölçekte ACID işlemlerini mümkün kılar.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Dağıtık Veri ve İşlem Yönetimi: Saga Deseni</h2>
+<p>Monolitik sistemlerdeki veritabanı işlemleri (ACID transactions), mikroservislerde yerini <strong>Saga Deseni (Saga Pattern)</strong> yaklaşımına bırakır. Uzun süren dağıtık adımlar iki aşamalı kilitler (2PC - Two Phase Commit) ile kilitlenmek yerine; her servisin yerel işlemini yaptığı ve bir hata anında geriye doğru Telafi Edici İşlemlerin (Compensating Transactions) tetiklendiği olay güdümlü mimariler kullanılır.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Sıkça Sorulanlar</h2>
+<div class="dict-faq">
+<div class="dict-faq-item">
+<p class="dict-faq-q">Distributed ne demek (Türkçe anlamı)?</p>
+<p class="dict-faq-a">Bilişim terminolojisinde 'dağıtık' anlamına gelir. Hesaplama gücünün, bellek alanının veya veritabanının tek bir sunucu yerine ağ üzerinden haberleşen çok sayıda bağımsız makineye paylaştırılmasıdır.</p>
+</div>
+<div class="dict-faq-item">
+<p class="dict-faq-q">CAP Teoremi pratikte neyi ifade eder?</p>
+<p class="dict-faq-a">Ağ bağlantısında bir kopma veya gecikme (bölünme) yaşandığında, sistemin ya en güncel veriyi garanti edip bazı istekleri bekletmesi (Tutarlılık) ya da bayat veri verme pahasına her isteğe anında yanıt dönmesi (Erişilebilirlik) gerektiğini ifade eder.</p>
+</div>
+<div class="dict-faq-item">
+<p class="dict-faq-q">Dağıtık sistemlerde Raft konsensüs algoritması neden kullanılır?</p>
+<p class="dict-faq-a">Ağdaki sunuculardan birkaçı çökse dahi, geriye kalan çoğunluk düğümlerin (Quorum) aralarından yeni bir lider seçmesini ve veritabanı loglarının tüm kümede kayıpsız eşitlenmesini sağlamak için kullanılır.</p>
+</div>
+<div class="dict-faq-item">
+<p class="dict-faq-q">İki Aşamalı Taahhüt (2PC) yerine neden Saga deseni tercih edilir?</p>
+<p class="dict-faq-a">2PC (Two-Phase Commit), dağıtık düğümlerde veritabanı kaynaklarını kilitler ve bir makine yanıt vermediğinde tüm sistemi kilitler. Saga deseni ise asenkron olaylar ve telafi adımları kullanarak sistemin yüksek erişilebilirliğini korur.</p>
+</div>
+</div>
+</section>
+
+<section class="disc-sec">
+<h2>İlgili terimler</h2>
+<div class="dict-related">
+<a href="/dictionary/cloud-computing/">Cloud Computing</a>
+<a href="/dictionary/network-stack/">Network Stack</a>
+<a href="/dictionary/deployment/">Deployment</a>
+<a href="/dictionary/runtime/">Runtime</a>
+</div>
+</section>
+
+<section class="disc-sec">
+<h2>İlgili araçlar</h2>
+<div class="dict-related">
+<a href="/discover/elasticsearch/">Elasticsearch</a>
+<a href="/discover/cassandra/">Cassandra</a>
+</div>
+</section>
+
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>
@@ -138,18 +225,17 @@
       <div class="footer-col">
         <div class="footer-col-title">Sosyal medya</div>
         <ul>
-          <li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X</a></li>
+          <li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener">X / Twitter</a></li>
+          <li><a href="https://github.com/GetTreScout" target="_blank" rel="noopener">GitHub</a></li>
+          <li><a href="https://linkedin.com/company/trescout" target="_blank" rel="noopener">LinkedIn</a></li>
         </ul>
       </div>
     </div>
     <div class="footer-bottom">
-      <span>© 2026 TreScout · Tüm hakları saklıdır.</span>
+      <p>© 2026 TreScout. Tüm hakları saklıdır.</p>
     </div>
   </div>
 </footer>
-<script src="/assets/subscribe.js" defer></script>
-  <script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>
-  <script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>
-  <script src="/assets/provider-consent.js" defer></script>
+<script src="/assets/site.js" defer></script>
 </body>
 </html>
