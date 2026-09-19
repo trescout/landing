@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Serialization nedir? · TreScout Sözlük</title>
-<meta name="description" content="Karmaşık veri yapılarını, depolanabilir veya iletilebilir düz bir metin veya bayt dizisine dönüştürme işlemidir.">
+<title>Serialization Nedir, Ne Demek? Serileştirme ve Veri Dönüşümü · TreScout</title>
+<meta name="description" content="Serialization (serileştirme), bellekteki karmaşık veri yapılarını dosyalara kaydetmek veya ağdan iletmek üzere bayt ya da metin dizisine dönüştürme işlemidir.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/serialization/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/serialization/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/serialization/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/serialization/">
 <link rel="canonical" href="https://trescout.com/dictionary/serialization/">
-<meta property="og:title" content="Serialization nedir?">
-<meta property="og:description" content="Karmaşık veri yapılarını, depolanabilir veya iletilebilir düz bir metin veya bayt dizisine dönüştürme işlemidir.">
+<meta property="og:title" content="Serialization Nedir, Ne Demek? Serileştirme ve Veri Dönüşümü · TreScout">
+<meta property="og:description" content="Serialization (serileştirme), bellekteki karmaşık veri yapılarını dosyalara kaydetmek veya ağdan iletmek üzere bayt ya da metin dizisine dönüştürme işlemidir.">
 <meta property="og:url" content="https://trescout.com/dictionary/serialization/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Serialization nedir?">
+<meta name="twitter:title" content="Serialization Nedir, Ne Demek? Serileştirme ve Veri Dönüşümü · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/serialization.webp">
 <script type="application/ld+json">
 {
@@ -32,7 +32,7 @@
   "@type": "DefinedTerm",
   "name": "Serialization",
   "inLanguage": "tr",
-  "description": "Bilgisayarın belleğinde karmaşık bir şekilde tutulan nesneleri (örneğin bir kullanıcı profili), internet üzerinden göndermek veya bir dosyaya kaydetmek için düz bir satıra çevirmeniz gerekir. Bu işleme serileştirme denir. Karşı taraf bu veriyi aldığında ise 'deserialization' yaparak tekrar eski karmaşık yapısına kavuşturur.",
+  "description": "Serialization (serileştirme), bir programlama dilinin çalışma belleğinde (RAM) tutulan karmaşık nesneleri ve veri yapılarını, depolanabilir veya ağ üzerinden iletilebilir düz bir bayt dizisi ya da metin formatına dönüştürme işlemidir.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -51,7 +51,15 @@
       "name": "Neden serileştirmeye ihtiyaç duyarız?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Bilgisayarın belleğindeki veriler sadece o anki program için anlamlıdır. Başka bir bilgisayara veya diske veri göndermek için onu evrensel bir formata çevirmemiz gerekir."
+        "text": "Bilgisayarın belleğindeki veriler geçicidir ve sadece o sürece özeldir. Başka bir bilgisayara, mikroservise veya kalıcı diske veri göndermek için onu evrensel bir akışa çevirmek gerekir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "JSON ile Protocol Buffers arasındaki temel fark nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "JSON insan tarafından okunabilir ve esnektir; Protobuf ise ikili (binary) formatta sıkıştırılmış olup şema bağımlıdır, çok daha az yer kaplar ve katbekat hızlı serileştirilir."
       }
     }
   ]
@@ -64,7 +72,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Karmaşık veri yapılarını, depolanabilir veya iletilebilir düz bir metin veya bayt dizisine dönüştürme işlemidir.">
+<meta name="twitter:description" content="Serialization (serileştirme), bellekteki karmaşık veri yapılarını dosyalara kaydetmek veya ağdan iletmek üzere bayt ya da metin dizisine dönüştürme işlemidir.">
 
 <meta property="og:image:alt" content="Serialization nedir?">
 </head>
@@ -74,11 +82,11 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-07-11">Son güncelleme: 11 Temmuz 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
 <h1 class="disc-title">Serialization <span class="disc-accent">nedir?</span></h1>
 
-<p class="disc-lead">Karmaşık veri yapılarını, depolanabilir veya iletilebilir düz bir metin veya bayt dizisine dönüştürme işlemidir.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Bilgisayarın belleğinde karmaşık bir şekilde tutulan nesneleri (örneğin bir kullanıcı profili), internet üzerinden göndermek veya bir dosyaya kaydetmek için düz bir satıra çevirmeniz gerekir. Bu işleme serileştirme denir. Karşı taraf bu veriyi aldığında ise &#x27;deserialization&#x27; yaparak tekrar eski karmaşık yapısına kavuşturur.</p></section><div class="dict-analogy">Bir mobilyayı taşımak için parçalarına ayırıp düz bir kutuya yerleştirmek gibidir; varış noktasında kutuyu açıp mobilyayı tekrar kurarsınız.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Veri genellikle JSON, XML veya daha hızlı olan ikili formatlara (Binary) dönüştürülür. Bu sayede verinin orijinal yapısı korunarak farklı sistemler arasında taşınabilir hale gelir.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>API iletişimlerinde, veritabanı kayıtlarında ve oyunlarda kayıt dosyası oluştururken kullanılır.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Neden serileştirmeye ihtiyaç duyarız?</p><p class="dict-faq-a">Bilgisayarın belleğindeki veriler sadece o anki program için anlamlıdır. Başka bir bilgisayara veya diske veri göndermek için onu evrensel bir formata çevirmemiz gerekir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/api/">API</a><a href="/dictionary/data-pipeline/">Data Pipeline</a></div></section>
+<p class="disc-lead">Serialization (serileştirme), bir programlama dilinin çalışma belleğinde (RAM) tutulan karmaşık nesneleri ve veri yapılarını, depolanabilir veya ağ üzerinden iletilebilir düz bir bayt dizisi ya da metin formatına dönüştürme işlemidir.</p>
+<section class="disc-sec"><h2>Tanım</h2><p>Bilgisayarın belleğinde dinamik ve karmaşık bir şekilde tutulan nesneleri (örneğin bir kullanıcı profili, oturum verisi veya oyun durumu), internet üzerinden göndermek ya da bir dosyaya/veritabanına kaydetmek için düz bir akışa çevirmeniz gerekir. Bu işleme serileştirme (serialization) denir. Karşı taraf bu veriyi aldığında ise <strong>deserialization (ters serileştirme)</strong> yaparak tekrar canlı bellek nesnesine kavuşturur.</p></section><section class="disc-sec"><h2>Serialization ne demek ve nasıl çalışır?</h2><p>Bellekteki nesneler genellikle dağınık bellek adreslerine ve referanslara (pointers) sahiptir. Başka bir sunucu veya program bu yerel bellek adreslerini doğrudan okuyamaz. Serialization işlemi, bu hiyerarşik nesne ağacını doğrusal (linear) bir biçime sokar.</p></section><section class="disc-sec"><h2>En yaygın serileştirme formatları</h2><p><strong>JSON (JavaScript Object Notation):</strong> Web API'lerinin, REST servislerinin ve modern web uygulamalarının fiili standardıdır; insanlar tarafından kolayca okunabilir.</p><p><strong>Protocol Buffers (Protobuf):</strong> Google tarafından geliştirilen, mikroservisler (gRPC) arasında inanılmaz hız ve düşük ağ bant genişliği sunan kompakt ikili (binary) formattır.</p><p><strong>MessagePack &amp; BSON:</strong> JSON benzeri anahtar-değer yapılarını ikili formatta hızlandıran ve sıkıştıran çözümlerdir.</p><p><strong>YAML &amp; XML:</strong> İnsan tarafından okunabilir yapılandırma dosyalarında ve eski kurumsal sistem entegrasyonlarında tercih edilir.</p><p><strong>Dile Özgü Formatlar:</strong> Python'daki <code>pickle</code> veya Java nesne serileştirme kütüphaneleri (güvenlik açıklarına dikkat edilmelidir).</p></section><div class="dict-analogy">Bir mobilyayı taşımak için parçalarına ayırıp düz ve yassı bir kutuya yerleştirmek gibidir; varış noktasında kutuyu açıp kılavuza bakarak mobilyayı tekrar kurarsınız (deserialization).</div><section class="disc-sec"><h2>Güvenlik boyutu: Deserialization zaafiyetleri</h2><p>Güvenilmeyen veya dış kaynaklardan gelen serileştirilmiş verilerin kontrolsüzce deserialization işlemine tabi tutulması, uzaktan kod çalıştırma (RCE) açıklarına yol açabilir. Bu nedenle modern yazılımlarda çalıştırılabilir kod içeren serileştirme yerine, sıkı şema doğrulaması (schema validation) sunan JSON veya Protobuf tercih edilir.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Neden serileştirmeye ihtiyaç duyarız?</p><p class="dict-faq-a">Bilgisayarın belleğindeki veriler geçicidir ve sadece o sürece özeldir. Başka bir bilgisayara, mikroservise veya kalıcı diske veri göndermek için onu evrensel bir akışa çevirmek gerekir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">JSON ile Protocol Buffers arasındaki temel fark nedir?</p><p class="dict-faq-a">JSON insan tarafından okunabilir ve esnektir; Protobuf ise ikili (binary) formatta sıkıştırılmış olup şema bağımlıdır, çok daha az yer kaplar ve katbekat hızlı serileştirilir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/api/">API</a><a href="/dictionary/data-pipeline/">Data Pipeline</a></div></section>
 <section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/yaml-cpp/">YAML Cpp</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>

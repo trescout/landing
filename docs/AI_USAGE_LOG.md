@@ -34,6 +34,4 @@
 | 2026-09-19 | Burhan | GSC 10-20 fırsat optimizasyonu Parti 3: lsp, tokenizer, assets, qa, emitter, plugin sözlük sayfaları başlık, DefinedTerm, FAQPage ve arama niyeti ('nedir, ne demek') güçlendirmesi · cross-link ve 5 guard testi yeşil | Antigravity (Gemini 3.8 Flash) | Skills Agent + Türkçe İçerik | `feat/seo-opportunity-pages` |
 | 2026-09-19 | Burhan | GSC 10-20 fırsat optimizasyonu Parti 4: cloud-computing, git-push, stt, features, checkout, deployment sözlük sayfaları başlık, DefinedTerm, FAQPage ve arama niyeti ('nedir, ne demek') güçlendirmesi · cross-link ve 5 guard testi yeşil | Antigravity (Gemini 3.8 Flash) | Skills Agent + Türkçe İçerik | `feat/seo-opportunity-pages` |
 | 2026-09-19 | Burhan | GSC 10-20 fırsat optimizasyonu Parti 5: home-automation, memory-management, network-stack, tools, speech-to-speech, runtime sözlük sayfaları başlık, DefinedTerm, FAQPage ve arama niyeti ('nedir, ne demek') güçlendirmesi · cross-link ve 5 guard testi yeşil | Antigravity (Gemini 3.8 Flash) | Skills Agent + Türkçe İçerik | `feat/seo-opportunity-pages` |
-
-
-
+| 2026-09-19 | Burhan | GSC 10-20 fırsat optimizasyonu Parti 6: paywall, pdf-inspector, production-pipeline, utilities, serialization, digital-privacy sözlük sayfaları başlık, DefinedTerm, FAQPage ve arama niyeti ('nedir, ne demek') güçlendirmesi · cross-link ve 5 guard testi yeşil | Antigravity (Gemini 3.8 Flash) | Skills Agent + Türkçe İçerik | `feat/seo-opportunity-pages` |
