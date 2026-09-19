@@ -1,26 +1,32 @@
-# Playlist nedir?
+# Playlist ne demek? Nedir ve nasıl çalışır?
 
 **Kategori:** Veri & Altyapı  
-**Son güncelleme:** 2026-06-14
+**Son güncelleme:** 2026-09-19
 
-Dijital içeriklerin belirli bir sırayla veya temaya göre oynatılmak üzere bir araya getirildiği listedir.
+Playlist (Türkçe karşılığıyla **çalma veya oynatma listesi**), dijital medya ve veri içeriklerinin belirli bir sıraya ya da temaya göre düzenlendiği koleksiyondur.
 
-## Tanım
-Müzik, video veya veri dosyalarının kullanıcı tarafından kişiselleştirilmiş bir sırayla sunulmasıdır. Yazılım dünyasında, özellikle yapay zeka modellerine verilen veri setlerini veya görev sıralarını organize etmek için de kullanılır.
+## Tanım ve Türkçe karşılığı
+Playlist, İngilizce kökenli bir terim olup Türkçede en yaygın şekliyle **çalma listesi** veya **oynatma listesi** olarak kullanılır. Dijital platformlarda müzik parçaları, video klipler, podcast bölümleri veya veri akışlarının kullanıcı tercihine ya da algoritmik kurallara göre art arda sıralanmasını sağlar. Yazılım ve veri mühendisliğinde ise veri işleme kuyruklarını ve yapay zekâ eğitim dizilerini organize etmek için metaveri bazlı listeler olarak görev yapar.
 
 ## Bir benzetmeyle
-Bir partide çalınacak şarkıları önceden seçip sıraya koymak gibidir.
+Bir partide çalınacak şarkıları önceden seçip akışına göre sıraya dizmek gibidir; dinleyici şarkı aramakla uğraşmaz, liste kendiliğinden akar.
 
 ## Nasıl çalışır?
-İçerikler seçilir, bir liste dosyasında veya veritabanında sıralanır ve oynatıcı bu listeyi takip eder.
+İçerikler kullanıcı veya algoritma tarafından belirlenir; dosya yolları, URL'ler ya da benzersiz kimlikler (ID) bir liste dosyasında (.m3u, JSON, veritabanı kaydı) sıralanır. Oynatıcı yazılım bu listeyi sırasıyla veya rastgele (karışık / shuffle) modunda işler.
 
 ## Nerede kullanılır?
-Müzik platformlarında, video sitelerinde ve veri işleme süreçlerinde kullanılır.
+Spotify, Apple Music ve YouTube gibi müzik ve video platformlarında kişiselleştirilmiş dinleme/izleme deneyimi sunar. Kurumsal dünyada ve yapay zekâ modellerinde ise ses ve görüntü veri setlerinin sıralı işlenmesinde ve eğitim kuyruklarında (batch pipeline) sıkça tercih edilir.
 
 ## Sıkça sorulanlar
 
+**Playlist ne demek, Türkçe karşılığı nedir?**  
+Türkçe karşılığı çalma listesi veya oynatma listesidir. Belirli bir tema, tür veya sıraya göre derlenmiş dijital medya ya da veri dizisini ifade eder.
+
+**Algoritmik playlist nedir?**  
+Kullanıcının dinleme geçmişine ve yapay zekâ öneri modellerine göre otomatik olarak oluşturulan ve sürekli güncellenen dinamik çalma listeleridir.
+
 **Yapay zekada playlist ne işe yarar?**  
-Modelin eğitilmesi veya test edilmesi gereken veri dosyalarının sırasını yönetmek için kullanılır.
+Modelin eğitilmesi veya test edilmesi gereken veri dosyalarının sırasını ve veri setlerini yönetmek için kullanılır.
 
 ## İlgili terimler
 - [Data Pipeline](/dictionary/data-pipeline/)

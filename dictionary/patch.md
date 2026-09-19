@@ -1,32 +1,35 @@
-# Patch nedir?
+# Patch ne demek? Nedir ve nasıl çalışır?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-07-09
+**Son güncelleme:** 2026-09-19
 
-Yazılımdaki hataları düzeltmek veya eksikleri gidermek için uygulanan küçük güncelleme yamasıdır.
+Patch (Türkçe karşılığıyla **yazılım yaması**), bir programdaki hataları gidermek, güvenlik açıklarını kapatmak veya performansı artırmak amacıyla yayınlanan tamamlayıcı kod güncellemesidir.
 
-## Tanım
-Programın tamamını yeniden yüklemek yerine, sadece sorunlu olan küçük parçayı değiştiren veya iyileştiren dosyadır. Güvenlik açıklarını kapatmak veya performansı artırmak için kullanılır.
+## Tanım ve Türkçe karşılığı
+Patch, İngilizce kökenli bir kelime olup Türkçede **yama** veya **hata düzeltme eki** olarak karşılık bulur. Yazılımın tamamını yeniden indirip kurmak yerine, yalnızca sorunlu ya da güncellenmesi gereken kod satırlarını değiştiren kompakt bir pakettir. Özellikle sıfır gün (zero-day) güvenlik açıklarını kapatmak ve kritik sistem kararlılığını sağlamak için kullanılır.
 
 ## Bir benzetmeyle
-Kıyafetinizdeki küçük bir söküğü dikmek için tüm kıyafeti atmak yerine bir yama kullanmak gibidir.
+Kıyafetinizdeki küçük bir söküğü dikmek için tüm kıyafeti çöpe atmak yerine üzerine sağlam bir yama uygulamak gibidir.
 
 ## Nasıl çalışır?
-Yazılım geliştiriciler hatayı bulur, düzeltir ve bu düzeltmeyi içeren küçük bir dosya yayınlar. Siz de bu dosyayı çalıştırarak programınızı güncellersiniz.
+Yazılım geliştiriciler hatayı tespit eder, düzeltmeyi içeren küçük bir kod bloğu (diff/yama) hazırlar ve bunu güncelleme paketi olarak dağıtır. Kullanıcı veya işletim sistemi bu yamayı çalıştırdığında yalnızca ilgili ikili dosyalar veya script'ler güncellenir.
 
 ## Nerede kullanılır?
-İşletim sistemleri, oyunlar ve tüm uygulama güncellemelerinde kullanılır.
+İşletim sistemlerinde, oyunlarda, veritabanlarında ve web sunucularında güvenlik ve kararlılık güncellemeleri için kullanılır.
 
 ## Sık karıştırılanlar
-Tam sürüm güncellemesi ile karıştırılabilir; patch sadece küçük bir düzeltmedir, sürüm güncellemesi ise büyük yenilikler getirir.
+Tam sürüm güncellemesi ile karıştırılabilir; patch sadece küçük bir onarımdır, ana sürüm güncellemesi ise yeni özellikler ve mimari değişiklikler getirir.
 
 ## Sıkça sorulanlar
 
-**Patch neden önemlidir?**  
-Sistemi güvenli tutar ve hatalı çalışan kısımları düzeltir.
+**Patch ne demek, Türkçe karşılığı nedir?**  
+Türkçe karşılığı yama veya güncelleme ekidir. Yazılımdaki belirli bir hatayı ya da güvenlik açığını kapatan küçük yazılım paketlerini ifade eder.
 
-**Her zaman yüklemeli miyim?**  
-Evet, özellikle güvenlik odaklı patch'ler sisteminizi saldırılara karşı korur.
+**Patch neden önemlidir?**  
+Sistemi siber saldırılara karşı güvenli tutar, performans sorunlarını çözer ve yazılımın kararlı çalışmasını sağlar.
+
+**Hotfix ile Patch arasındaki fark nedir?**  
+Hotfix acil ve anlık üretilen kritik bir düzeltmedir; patch ise genellikle daha kapsamlı test edilmiş planlı bir yama paketidir.
 
 ## İlgili terimler
 - [Vulnerability Scanning](/dictionary/vulnerability-scanning/)

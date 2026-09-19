@@ -1,32 +1,35 @@
-# Tutoring nedir?
+# Tutoring ne demek? Nedir ve nasıl çalışır?
 
 **Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-07-17
+**Son güncelleme:** 2026-09-19
 
-Yapay zekânın bir öğrenciye özel bir öğretmen gibi konuları anlatması ve rehberlik etmesidir.
+Tutoring (Türkçe karşılığıyla **özel ders veya birebir rehberlik**), öğrencinin bilgi düzeyine ve öğrenme hızına göre uyarlanmış kişiselleştirilmiş öğretim sürecidir.
 
-## Tanım
-Yapay zekâ tabanlı özel ders, öğrencinin seviyesini anlar, eksiklerini tespit eder ve konuyu ona en uygun dille anlatır. Sadece cevap vermekle kalmaz, öğrenciye soruyu nasıl çözebileceğini adım adım öğretir.
+## Tanım ve Türkçe karşılığı
+Tutoring, İngilizce kökenli bir eğitim kavramıdır ve Türkçede **özel ders verme**, **birebir öğretmenlik** veya **özel öğreticilik** anlamlarına gelir. Eğitim teknolojilerinde (EdTech) ve yapay zekâ alanında ise; öğrencinin seviyesini analiz eden, kavram yanılgılarını tespit eden ve konuyu adım adım öğrenciye uyarlayan akıllı pedagojik sistemleri ifade eder.
 
 ## Bir benzetmeyle
 Sizinle aynı hızda yürüyen, yorulduğunuzda duran ve yolun en kısa kısmını size gösteren sabırlı bir özel hoca gibidir.
 
 ## Nasıl çalışır?
-Öğrenci bir soru sorar veya konu seçer. Yapay zekâ, geçmişteki öğrenme verilerine bakarak en iyi anlatım yöntemini seçer ve etkileşimli bir diyalog başlatır.
+Öğrenci bir soru sorar veya konu seçer. Yapay zekâ, geçmişteki öğrenme verilerine bakarak en iyi anlatım yöntemini seçer ve etkileşimli bir diyalog başlatır. Sadece doğrudan sonucu vermek yerine Sokratik yöntemle sorular sorarak öğrencinin çözüme kendisinin ulaşmasını sağlar.
 
 ## Nerede kullanılır?
-Eğitim teknolojilerinde (EdTech), dil öğrenme uygulamalarında ve sınav hazırlık platformlarında kullanılır.
+Eğitim teknolojilerinde (EdTech), dil öğrenme uygulamalarında, kodlama platformlarında ve sınav hazırlık süreçlerinde kullanılır.
 
 ## Sık karıştırılanlar
-Sadece soru-cevap (chatbot) ile karıştırılabilir; tutoring süreci bir müfredat ve öğrenme hedefi içerir.
+Sadece soru-cevap veren klasik bir sohbet botu (chatbot) ile karıştırılabilir; tutoring süreci bir müfredat, pedagojik hedef ve ilerleme takibi içerir.
 
 ## Sıkça sorulanlar
 
+**Tutoring ne demek, Türkçe karşılığı nedir?**  
+Türkçe karşılığı özel ders verme, birebir rehberlik veya özel öğretmenliktir. Eğitim teknolojilerinde yapay zekânın öğrenciye özel konu anlatmasını ve rehberlik etmesini tanımlar.
+
 **İnsan öğretmenin yerini alır mı?**  
-Tam olarak değil, ancak öğretmenlerin işini kolaylaştıran güçlü bir yardımcıdır.
+Tam olarak değil; ancak öğretmenlerin yükünü azaltan, öğrencilere 7/24 kesintisiz tekrar imkânı sunan güçlü bir yardımcıdır.
 
 **Her konuda çalışır mı?**  
-Evet, ancak karmaşık mantık gerektiren konularda bazen hata yapabilir.
+Evet, özellikle matematik, fen bilimleri ve yabancı dillerde çok etkilidir; ancak karmaşık mantık ve soyut felsefi konularda insan denetimi gerektirir.
 
 ## İlgili terimler
 - [Personalized Tutoring](/dictionary/personalized-tutoring/)
