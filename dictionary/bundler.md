@@ -1,29 +1,44 @@
-# Bundler nedir?
+# Bundler nedir, ne işe yarar?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-08-06
+**Son güncelleme:** 2026-09-19
 
-Yazılım projesindeki çok sayıda dosyayı birleştirip optimize ederek tarayıcıların çalıştırabileceği tek bir yapıya dönüştüren araçtır.
+Bundler (modül paketleyici), modern web uygulamalarındaki yüzlerce bağımsız JavaScript dosyasını, stil şablonlarını ve medya varlıklarını analiz ederek tarayıcıların en hızlı şekilde yükleyebileceği optimize paketlere (bundle) dönüştüren geliştirme aracıdır.
 
-## Tanım
-Modern web projeleri yüzlerce küçük dosyadan oluşur. Tarayıcılar bu kadar çok dosyayı tek tek indirmekte zorlanır. Bundler, bu dosyaları alır, birbirine bağlar ve gereksiz kısımları temizleyerek performansı artırır.
+## Tanım ve Temel Amacı
+Modern web geliştirme süreçlerinde kodlar yüzlerce modüle, bileşene ve harici npm paketine bölünür. Ancak tarayıcıların yüzlerce ayrı HTTP isteğiyle bu dosyaları tek tek indirmesi ciddi performans kayıplarına yol açar. Bundler, projenin giriş noktasından (entry point) başlayarak tüm `import` ve `require` ilişkilerini tarar, bir **bağımlılık grafiği** (dependency graph) oluşturur ve tarayıcı dostu nihai dosyalara dönüştürür.
 
 ## Bir benzetmeyle
-Bir binayı inşa ederken yüzlerce farklı parçayı (tuğla, boru, kablo) tek bir kamyona yükleyip şantiyeye tek seferde ulaştıran bir lojistik merkezi gibidir.
+Büyük bir makine inşa ederken fabrikanın farklı atölyelerinden çıkan yüzlerce cıvata, dişli ve kabloyu müşteriye darmadağınık kargolamak yerine; montaj hattında parçaları birbirine bağlayıp tek ve çalışmaya hazır kompakt bir paket halinde teslim etmeye benzer.
 
-## Nasıl çalışır?
-Geliştirme aşamasında siz dosyalarla ayrı ayrı çalışırsınız. Projeyi yayına alacağınız zaman bundler devreye girer ve tüm dosyaları tarayıcının anlayacağı şekilde paketler.
+## Temel Özellikleri ve Yetenekleri
+- **Bağımlılık Grafiği Çıkarma:** Dosyaların birbirine nasıl bağlandığını belirler ve doğru yürütme sırasına göre paketler.
+- **Tree-Shaking (Ölü Kod Ayıklama):** İçe aktarılan kütüphanelerde fiilen çağrılmayan fonksiyonları tespit ederek nihai paketten siler, dosya boyutunu büyük ölçüde düşürür.
+- **Kod Bölme (Code Splitting):** Tüm uygulamayı tek bir devasa dosyaya hapsetmek yerine, rotalara (route) veya dinamik bileşenlere göre parçalayarak kullanıcının yalnızca ihtiyaç duyduğu kodu indirmesini sağlar (Lazy loading).
+- **Varlık Yönetimi ve Minifikasyon:** CSS, SVG, resim gibi varlıkları modül olarak işler; JavaScript kodundaki boşlukları, yorum satırlarını ve değişken adlarını kısaltarak sıkıştırır.
 
-## Nerede kullanılır?
-JavaScript tabanlı web geliştirme projelerinde vazgeçilmezdir.
+## Popüler Modül Paketleyicileri
+- **Vite:** Geliştirme sürecinde yerel ES modüllerini (Native ESM) ve arka planda esbuild'i kullanarak anında açılan ve ultra hızlı sıcak modül değişimi (HMR) sunan modern araç.
+- **Webpack:** Ekosistemin en köklü ve en geniş eklenti desteğine sahip, kurumsal projelerin vazgeçilmezi olan yapılandırma standardı.
+- **Rollup:** Özellikle JavaScript kütüphanesi ve SDK geliştiricileri için kusursuz tree-shaking yeteneği sağlayan paketleyici.
+- **esbuild & Turbopack:** Go ve Rust dilleriyle yazılmış, geleneksel Node.js tabanlı paketleyicilere kıyasla 10-100 kat daha hızlı çalışan yeni nesil derleyiciler.
 
 ## Sık karıştırılanlar
-Compiler ile karıştırılabilir; compiler kodu başka bir dile çevirir, bundler ise dosyaları bir araya getirir.
+Compiler (Transpiler) ile Bundler sıklıkla karıştırılır. Babel veya SWC gibi derleyiciler modern ECMAScript sözdizimini eski tarayıcıların anlayacağı JavaScript sürümüne dönüştürür. Bundler ise farklı dosyalardaki modülleri bir araya getirip birbirine bağlar. Günümüzde modern bundler'lar (Vite, Webpack) derleme işlemlerini de bünyelerinde barındırır.
 
 ## Sıkça sorulanlar
 
-**Neden her şeyi tek dosyaya koymuyoruz?**  
-Çok büyük dosyalar tarayıcıyı yavaşlatabilir; bu yüzden bundler bazen dosyaları akıllı parçalara böler.
+**What is a bundler (Bundler nedir)?**  
+Yazılım projelerinde modüllere ayrılmış kodları, CSS dosyalarını ve harici paketleri analiz ederek tarayıcıların kolayca çalıştırabileceği optimize dosyalara dönüştüren araçtır.
+
+**Vite ve Webpack arasındaki temel fark nedir?**  
+Webpack tüm dosyaları bellek üzerinde paketleyip sunucu başlatırken; Vite, geliştirme aşamasında tarayıcının yerel ES modül yeteneğinden faydalanarak projeyi sıfır bekleme süresiyle ayağa kaldırır.
+
+**Tree-shaking nedir?**  
+Paketleyicinin, projenize dahil ettiğiniz kütüphanelerdeki kullanılmayan kod parçalarını otomatik olarak tespit edip dağıtım paketinin dışında bırakması tekniğidir.
+
+**Neden her şeyi tek bir dosyada birleştirmiyoruz?**  
+Tüm uygulamanın tek bir büyük dosyada olması ilk sayfa yükleme hızını (FCP) olumsuz etkiler; kod bölme sayesinde kullanıcı sadece ziyaret ettiği sayfanın kodlarını indirir.
 
 ## İlgili terimler
 - [Bundling](/dictionary/bundling/)

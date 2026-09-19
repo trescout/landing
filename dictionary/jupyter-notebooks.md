@@ -1,37 +1,37 @@
 # Jupyter Notebooks nedir?
 
 **Kategori:** Veri & Altyapı  
-**Son güncelleme:** 2026-06-03
+**Son güncelleme:** 2026-09-19
 
-Kod yazarken notlar alabileceğiniz ve sonuçları anında görebileceğiniz etkileşimli bir çalışma ortamıdır.
+Jupyter Notebook (Jupyter Not Defteri), Python, R ve Julia gibi dillerde canlı kod çalıştırma, veri görselleştirme, matematiksel denklemler ve zengin metin açıklamalarını tek bir etkileşimli web dokümanında birleştiren açık kaynaklı çalışma ortamıdır.
 
 ## Tanım
-Jupyter Notebooks, kod satırlarını, grafiklerini ve açıklamaları tek bir sayfada toplar. Veri bilimciler için bir laboratuvar gibidir; bir kod yazıp çalıştırır, sonucu hemen altında görürsünüz. Bu sayede deneme yanılma yapmak ve bulguları başkalarıyla paylaşmak çok kolaylaşır.
+Jupyter Notebooks, veri bilimi ve yapay zekâ dünyasının fiili çalışma alanıdır. Klasik kod editörlerinin aksine tüm programı baştan sona tek seferde çalıştırmak yerine, kodu bağımsız hücrelere (cells) böler. Bir hücreyi çalıştırıp grafiği veya analizi hemen altında inceler, ardından sıradaki adıma geçersiniz.
+
+## Jupyter Notebook ne demek?
+İsmi, bilimsel hesaplamalarda öncü üç programlama dilinin kısaltmasından türetilmiştir: **Ju**lia, **Pyt**hon ve **R**. Web tarayıcısı üzerinden çalışan bu sistem, deneme-yanılma süreçlerini, veri temizleme adımlarını ve makine öğrenimi modellerini hem kodlayan hem de okuyan için şeffaf bir rapor haline getirir.
+
+## Temel özellikleri ve avantajları
+- **Hücre Bazlı Yürütme (Cell Execution):** Kod bloklarını ayrı ayrı çalıştırabilir, bellekteki değişkenleri kaybetmeden sadece ilgilendiğiniz kısmı güncelleyebilirsiniz.
+- **Zengin Medya ve Görselleştirme:** Matplotlib, Seaborn ve Plotly gibi kütüphanelerle üretilen grafikler doğrudan kodun altında interaktif olarak görüntülenir.
+- **Markdown ve LaTeX Desteği:** Araştırma notlarınızı, matematiksel formülleri ve açıklamaları kod bloklarının arasına biçimlendirilmiş metin olarak ekleyebilirsiniz.
+- **Paylaşılabilirlik ve Standart:** `.ipynb` formatı, GitHub üzerinde doğrudan önizlenebilir ve Google Colab ya da Kaggle gibi bulut ortamlarında tek tıkla çalıştırılabilir.
 
 ## Bir benzetmeyle
-Bir yemek tarifi defteri gibidir; bir yanda malzemeleri ve yapılışını (notlar), diğer yanda ise yemeğin pişmiş halini (sonuçlar) aynı sayfada görebilirsiniz.
-
-## Nasıl çalışır?
-Tarayıcı üzerinde çalışır. Kod blokları oluşturursunuz, 'çalıştır' tuşuna basarsınız ve sonuç hemen altında belirir.
-
-## Nerede kullanılır?
-Veri analizi, yapay zekâ eğitimi ve akademik çalışmalarda standarttır.
-
-## Sık karıştırılanlar
-Sadece bir kod editörü değil, veriyi görselleştiren ve raporlayan bir doküman sistemidir.
+Bir aşçının yemek tarifi defteri gibidir; bir yanda gerekli malzemeler ve açıklamalar (notlar), hemen altında tencereye atılan malzemenin pişme süresi (kod) ve sayfanın en altında yemeğin anlık fotoğrafı (çıktı grafiği) bir arada durur.
 
 ## Sıkça sorulanlar
 
-**Kodlama bilmek şart mı?**  
-Evet, Python gibi dilleri kullanmanız gerekir ancak çok basit seviyede bile olsa verileri görselleştirmek için harikadır.
+**Jupyter Notebook kullanmak için programlama bilmek şart mı?**  
+Evet, çoğunlukla Python programlama diliyle kullanılır; ancak sıfırdan veri analizi öğrenenler için anlık görsel geri bildirim verdiğinden öğrenmesi en kolay geliştirme ortamıdır.
 
-**Kimler kullanır?**  
-Veri bilimciler, araştırmacılar ve yapay zekâ geliştiricileri.
+**Google Colab ile Jupyter Notebook arasındaki fark nedir?**  
+Google Colab, Jupyter Notebook altyapısının Google bulut sunucularında ücretsiz GPU/TPU desteğiyle çalışan ve kurulum gerektirmeyen bulut sürümüdür.
 
 ## İlgili terimler
 - [Data Pipeline](/dictionary/data-pipeline/)
 - [Markdown](/dictionary/markdown/)
 
 ---
-Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/jupyter-notebooks/
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/jupyter-notebooks/  
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.

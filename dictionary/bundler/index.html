@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Bundler nedir? · TreScout Sözlük</title>
-<meta name="description" content="Yazılım projesindeki çok sayıda dosyayı birleştirip optimize ederek tarayıcıların çalıştırabileceği tek bir yapıya dönüştüren araçtır.">
+<title>Bundler Nedir, Ne Demek? JavaScript Modül Paketleyicileri Rehberi · TreScout</title>
+<meta name="description" content="Bundler nedir, ne işe yarar? Webpack, Vite, Rollup, esbuild ve Turbopack gibi JavaScript modül paketleyicilerinin çalışma mantığı, tree-shaking ve kod bölme rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/dictionary/bundler/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/bundler/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="es" href="https://trescout.com/es/dictionary/bundler/">
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/bundler/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/bundler/">
-<meta property="og:title" content="Bundler nedir?">
-<meta property="og:description" content="Yazılım projesindeki çok sayıda dosyayı birleştirip optimize ederek tarayıcıların çalıştırabileceği tek bir yapıya dönüştüren araçtır.">
+<meta property="og:title" content="Bundler Nedir, Ne Demek? JavaScript Modül Paketleyicileri Rehberi · TreScout">
+<meta property="og:description" content="Bundler nedir, ne işe yarar? Webpack, Vite, Rollup, esbuild ve Turbopack gibi JavaScript modül paketleyicilerinin çalışma mantığı, tree-shaking ve kod bölme rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/bundler/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,8 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Bundler nedir?">
+<meta name="twitter:title" content="Bundler Nedir, Ne Demek? JavaScript Modül Paketleyicileri Rehberi · TreScout">
+<meta name="twitter:description" content="Bundler nedir, ne işe yarar? Webpack, Vite, Rollup, esbuild ve Turbopack gibi JavaScript modül paketleyicilerinin çalışma mantığı, tree-shaking ve kod bölme rehberi.">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/bundler.webp">
 <script type="application/ld+json">
 {
@@ -32,7 +33,7 @@
   "@type": "DefinedTerm",
   "name": "Bundler",
   "inLanguage": "tr",
-  "description": "Modern web projeleri yüzlerce küçük dosyadan oluşur. Tarayıcılar bu kadar çok dosyayı tek tek indirmekte zorlanır. Bundler, bu dosyaları alır, birbirine bağlar ve gereksiz kısımları temizleyerek performansı artırır.",
+  "description": "Bundler (modül paketleyici), modern web uygulamalarındaki yüzlerce bağımsız JavaScript dosyasını, stil şablonlarını ve medya varlıklarını analiz ederek tarayıcıların en hızlı şekilde yükleyebileceği optimize paketlere dönüştüren geliştirme aracıdır.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -48,10 +49,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Neden her şeyi tek dosyaya koymuyoruz?",
+      "name": "What is a bundler (Bundler nedir)?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Çok büyük dosyalar tarayıcıyı yavaşlatabilir; bu yüzden bundler bazen dosyaları akıllı parçalara böler."
+        "text": "Yazılım projelerinde modüllere ayrılmış kodları, CSS dosyalarını ve harici paketleri analiz ederek tarayıcıların kolayca çalıştırabileceği optimize dosyalara dönüştüren araçtır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Vite ve Webpack arasındaki temel fark nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Webpack tüm dosyaları bellek üzerinde paketleyip sunucu başlatırken; Vite, geliştirme aşamasında tarayıcının yerel ES modül yeteneğinden faydalanarak projeyi sıfır bekleme süresiyle ayağa kaldırır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Tree-shaking nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Paketleyicinin, projenize dahil ettiğiniz kütüphanelerdeki kullanılmayan kod parçalarını otomatik olarak tespit edip dağıtım paketinin dışında bırakması tekniğidir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Neden her şeyi tek bir dosyada birleştirmiyoruz?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tüm uygulamanın tek bir büyük dosyada olması ilk sayfa yükleme hızını olumsuz etkiler; kod bölme sayesinde kullanıcı sadece ziyaret ettiği sayfanın kodlarını indirir."
       }
     }
   ]
@@ -64,9 +89,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Yazılım projesindeki çok sayıda dosyayı birleştirip optimize ederek tarayıcıların çalıştırabileceği tek bir yapıya dönüştüren araçtır.">
-
-<meta property="og:image:alt" content="Bundler nedir?">
+<meta property="og:image:alt" content="Bundler nedir, ne işe yarar?">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
@@ -74,11 +97,11 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-08-06">Son güncelleme: 6 Ağustos 2026</time></div>
-<h1 class="disc-title">Bundler <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
+<h1 class="disc-title">Bundler <span class="disc-accent">nedir, ne işe yarar?</span></h1>
 
-<p class="disc-lead">Yazılım projesindeki çok sayıda dosyayı birleştirip optimize ederek tarayıcıların çalıştırabileceği tek bir yapıya dönüştüren araçtır.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Modern web projeleri yüzlerce küçük dosyadan oluşur. Tarayıcılar bu kadar çok dosyayı tek tek indirmekte zorlanır. Bundler, bu dosyaları alır, birbirine bağlar ve gereksiz kısımları temizleyerek performansı artırır.</p></section><div class="dict-analogy">Bir binayı inşa ederken yüzlerce farklı parçayı (tuğla, boru, kablo) tek bir kamyona yükleyip şantiyeye tek seferde ulaştıran bir lojistik merkezi gibidir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Geliştirme aşamasında siz dosyalarla ayrı ayrı çalışırsınız. Projeyi yayına alacağınız zaman bundler devreye girer ve tüm dosyaları tarayıcının anlayacağı şekilde paketler.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>JavaScript tabanlı web geliştirme projelerinde vazgeçilmezdir.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Compiler ile karıştırılabilir; compiler kodu başka bir dile çevirir, bundler ise dosyaları bir araya getirir.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Neden her şeyi tek dosyaya koymuyoruz?</p><p class="dict-faq-a">Çok büyük dosyalar tarayıcıyı yavaşlatabilir; bu yüzden bundler bazen dosyaları akıllı parçalara böler.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/bundling/">Bundling</a><a href="/dictionary/compilation/">Compilation</a><a href="/dictionary/frontend-stack/">Frontend Stack</a></div></section>
+<p class="disc-lead">Bundler (modül paketleyici), modern web uygulamalarındaki yüzlerce bağımsız JavaScript dosyasını, stil şablonlarını ve medya varlıklarını analiz ederek tarayıcıların en hızlı şekilde yükleyebileceği optimize paketlere (bundle) dönüştüren geliştirme aracıdır.</p>
+<section class="disc-sec"><h2>Tanım ve Temel Amacı</h2><p>Modern web geliştirme süreçlerinde kodlar yüzlerce modüle, bileşene ve harici npm paketine bölünür. Ancak tarayıcıların yüzlerce ayrı HTTP isteğiyle bu dosyaları tek tek indirmesi ciddi performans kayıplarına yol açar. Bundler, projenin giriş noktasından (entry point) başlayarak tüm <code>import</code> ve <code>require</code> ilişkilerini tarar, bir <strong>bağımlılık grafiği</strong> (dependency graph) oluşturur ve tarayıcı dostu nihai dosyalara dönüştürür.</p></section><div class="dict-analogy">Büyük bir makine inşa ederken fabrikanın farklı atölyelerinden çıkan yüzlerce cıvata, dişli ve kabloyu müşteriye darmadağınık kargolamak yerine; montaj hattında parçaları birbirine bağlayıp tek ve çalışmaya hazır kompakt bir paket halinde teslim etmeye benzer.</div><section class="disc-sec"><h2>Temel Özellikleri ve Yetenekleri</h2><p><strong>Bağımlılık Grafiği Çıkarma:</strong> Dosyaların birbirine nasıl bağlandığını belirler ve doğru yürütme sırasına göre paketler.</p><p><strong>Tree-Shaking (Ölü Kod Ayıklama):</strong> İçe aktarılan kütüphanelerde fiilen çağrılmayan fonksiyonları tespit ederek nihai paketten siler, dosya boyutunu büyük ölçüde düşürür.</p><p><strong>Kod Bölme (Code Splitting):</strong> Tüm uygulamayı tek bir devasa dosyaya hapsetmek yerine, rotalara (route) veya dinamik bileşenlere göre parçalayarak kullanıcının yalnızca ihtiyaç duyduğu kodu indirmesini sağlar (Lazy loading).</p><p><strong>Varlık Yönetimi ve Minifikasyon:</strong> CSS, SVG, resim gibi varlıkları modül olarak işler; JavaScript kodundaki boşlukları, yorum satırlarını ve değişken adlarını kısaltarak sıkıştırır.</p></section><section class="disc-sec"><h2>Popüler Modül Paketleyicileri</h2><p><strong>Vite:</strong> Geliştirme sürecinde yerel ES modüllerini (Native ESM) ve arka planda esbuild'i kullanarak anında açılan ve ultra hızlı sıcak modül değişimi (HMR) sunan modern araç.<br><strong>Webpack:</strong> Ekosistemin en köklü ve en geniş eklenti desteğine sahip, kurumsal projelerin vazgeçilmezi olan yapılandırma standardı.<br><strong>Rollup:</strong> Özellikle JavaScript kütüphanesi ve SDK geliştiricileri için kusursuz tree-shaking yeteneği sağlayan paketleyici.<br><strong>esbuild &amp; Turbopack:</strong> Go ve Rust dilleriyle yazılmış, geleneksel Node.js tabanlı paketleyicilere kıyasla 10-100 kat daha hızlı çalışan yeni nesil derleyiciler.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Compiler (Transpiler) ile Bundler sıklıkla karıştırılır. Babel veya SWC gibi derleyiciler modern ECMAScript sözdizimini eski tarayıcıların anlayacağı JavaScript sürümüne dönüştürür. Bundler ise farklı dosyalardaki modülleri bir araya getirip birbirine bağlar. Günümüzde modern bundler'lar (Vite, Webpack) derleme işlemlerini de bünyelerinde barındırır.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">What is a bundler (Bundler nedir)?</p><p class="dict-faq-a">Yazılım projelerinde modüllere ayrılmış kodları, CSS dosyalarını ve harici paketleri analiz ederek tarayıcıların kolayca çalıştırabileceği optimize dosyalara dönüştüren araçtır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Vite ve Webpack arasındaki temel fark nedir?</p><p class="dict-faq-a">Webpack tüm dosyaları bellek üzerinde paketleyip sunucu başlatırken; Vite, geliştirme aşamasında tarayıcının yerel ES modül yeteneğinden faydalanarak projeyi sıfır bekleme süresiyle ayağa kaldırır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Tree-shaking nedir?</p><p class="dict-faq-a">Paketleyicinin, projenize dahil ettiğiniz kütüphanelerdeki kullanılmayan kod parçalarını otomatik olarak tespit edip dağıtım paketinin dışında bırakması tekniğidir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Neden her şeyi tek bir dosyada birleştirmiyoruz?</p><p class="dict-faq-a">Tüm uygulamanın tek bir büyük dosyada olması ilk sayfa yükleme hızını olumsuz etkiler; kod bölme sayesinde kullanıcı sadece ziyaret ettiği sayfanın kodlarını indirir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/bundling/">Bundling</a><a href="/dictionary/compilation/">Compilation</a><a href="/dictionary/frontend-stack/">Frontend Stack</a></div></section>
 <section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/webpack/">Webpack</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>

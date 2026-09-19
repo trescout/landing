@@ -1,32 +1,48 @@
-# Distributed nedir?
+# Distributed ne demek, nedir?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-07-04
+**Son güncelleme:** 2026-09-19
 
-Bir işin tek bir merkez yerine ağa bağlı birden fazla cihaz arasında paylaştırılarak yapılmasıdır.
+Distributed (dağıtık), bilgi işlemde donanım veya yazılım bileşenlerinin tek bir merkez yerine ağ üzerinden birbirine bağlı birden fazla bağımsız bilgisayara (düğüme) paylaştırılarak tek bir bütün sistem gibi çalışmasıdır.
 
-## Tanım
-Dağıtık sistemler, büyük ve karmaşık görevleri tek bir bilgisayarın gücüne bırakmak yerine parçalara bölerek farklı cihazlara dağıtır. Bu sayede sistem daha hızlı çalışır ve bir cihaz arızalansa bile işin geri kalanı devam edebilir. Büyük ölçekli uygulamaların temel çalışma prensibidir.
+## Tanım ve Türkçe Anlamı
+"Distributed" kelimesi Türkçede **dağıtık** anlamına gelir. Yazılım ve sistem mühendisliğinde **dağıtık sistemler** (distributed systems); fiziksel olarak farklı konumlarda bulunabilen, birbirleriyle yerel ağ veya internet üzerinden mesajlaşarak haberleşen ve son kullanıcıya sanki tek bir güçlü bilgisayarmış gibi hizmet veren düğümler (node) bütünüdür.
 
 ## Bir benzetmeyle
-Bir evin boyanması işini tek bir kişinin yapması yerine, beş arkadaşın işi bölüşüp aynı anda farklı odaları boyamasına benzer.
+Devasa bir kütüphanenin tüm kitaplarını tek bir memurun düzenlemesi yerine; onlarca memurun farklı koridorları paylaşarak aynı anda çalışması ve aranan bir kitabı ortak bir katalog üzerinden saniyeler içinde el birliğiyle bulup getirmesine benzer.
 
-## Nasıl çalışır?
-Sistem, yapılacak ana işi küçük parçalara ayırır. Ardından bu parçaları ağ üzerinden diğer bilgisayarlara gönderir. Her bilgisayar kendi payına düşeni bitirip sonucu merkeze geri yollar ve merkez de bunları birleştirir.
+## Neden Dağıtık Sistemler Kullanılır?
+- **Yatay Ölçeklenebilirlik (Horizontal Scaling):** Tek bir sunucunun işlemcisini ve belleğini yükseltmek (dikey ölçekleme) hızla fiziksel ve mali sınırlara ulaşır. Dağıtık mimaride sisteme yeni ucuz sunucular ekleyerek kapasite sınırsızca artırılabilir.
+- **Yüksek Erişilebilirlik ve Hata Toleransı:** Bir sunucu bozulsa, elektriği kesilse veya veri merkezinde yangın çıksa bile diğer düğümler yükü devralır ve hizmet kesintisiz sürer (SPOF - Tek Hata Noktası oluşmaz).
+- **Düşük Gecikme (Latency):** Veriler kullanıcılara coğrafi olarak en yakın sunucularda barındırılarak (CDN, uç bilişim) küresel çapta anlık yanıt süreleri elde edilir.
 
-## Nerede kullanılır?
-Bulut bilişim sistemlerinde, büyük veri analizlerinde ve modern web uygulamalarının arka planında kullanılır.
+## Temel Dağıtık Sistem Kavramları
+- **CAP Teoremi:** Bir dağıtık sistemin ağ bölünmesi (Network Partition) anında ya Tutarlılık (Consistency) ya da Erişilebilirlik (Availability) arasında bir tercih yapmak zorunda olduğunu açıklar.
+- **Konsensüs Algoritmaları (Raft, Paxos):** Ağdaki bağımsız sunucuların hangi verinin güncel olduğu ve kimin lider düğüm seçileceği konusunda anlaşmasını sağlayan matematiksel protokollerdir.
+- **Nihai Tutarlılık (Eventual Consistency):** Bir düğümde yapılan güncellemenin diğer tüm düğümlere belirli bir gecikmeyle yayılması ve zamanla tüm sistemin tutarlı hale gelmesi prensibidir.
+
+## Nerede ve Hangi Teknolojilerde Kullanılır?
+- **Dağıtık Veritabanları:** Apache Cassandra, CockroachDB, MongoDB, Elasticsearch
+- **Mesaj Kuyrukları ve Veri Akışı:** Apache Kafka, RabbitMQ, Apache Flink
+- **Konteyner Orkestrasyonu:** Kubernetes, etcd, Nomad
+- **Sürüm Kontrol Sistemleri:** Git (her klonun tam bir repo kopyası taşıması)
 
 ## Sık karıştırılanlar
-Merkezi sistemlerle karıştırılabilir; merkezi sistemlerde tüm yük tek bir güçlü bilgisayardadır.
+Merkezi (Centralized) mimarilerle karıştırılmamalıdır. Merkezi mimaride tüm işlemler ve veriler tek bir sunucu havuzunda toplanır; bu sunucu çöktüğünde tüm sistem durur. Dağıtık sistemlerde ise sorumluluk ve veri parçaları bağımsız düğümler arasında paylaşılmıştır.
 
 ## Sıkça sorulanlar
 
-**Neden her şeyi tek bilgisayarda yapmıyoruz?**  
-Tek bir bilgisayarın işlem gücü ve depolama kapasitesi sınırlıdır; dağıtık sistemler bu sınırları aşmamızı sağlar.
+**Distributed ne demek (Türkçe anlamı)?**  
+Bilişim terminolojisinde "dağıtık" anlamına gelir; işlemlerin, verilerin veya hesaplama gücünün tek bir makine yerine ağa bağlı birden çok bilgisayara paylaştırılmasıdır.
 
-**Dağıtık sistemler hata yapmaya daha mı yatkın?**  
-Evet, ağ bağlantısı veya cihaz uyumu gibi ek zorlukları vardır ancak doğru kurulduğunda çok daha güvenilirdir.
+**CAP Teoremi ne anlama gelir?**  
+Dağıtık bir sistemin aynı anda Tutarlılık (C), Erişilebilirlik (A) ve Bölünme Toleransı (P) özelliklerinin üçünü birden mükemmel sağlayamayacağını, ağ kopması durumunda C veya A arasında seçim yapılması gerektiğini ifade eder.
+
+**Git neden dağıtık bir sistemdir?**  
+Git'te merkezi bir sunucu zorunlu değildir. Projeyi klonlayan her geliştirici, kod tabanının tüm commit geçmişini ve veritabanını kendi bilgisayarında yerel bir kopya olarak taşır.
+
+**Dağıtık sistemlerin en zor tarafı nedir?**  
+Ağ gecikmeleri, sunucular arasındaki saat senkronizasyonu farklılıkları, veri tutarsızlıkları ve kısmi çökme (partial failure) durumlarını yönetmektir.
 
 ## İlgili terimler
 - [Cloud Native](/dictionary/cloud-native/)
