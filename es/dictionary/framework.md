@@ -33,8 +33,8 @@ No, en proyectos muy pequeños y simples, a veces sólo los códigos básicos pu
 - [Angular](/es/discover/angular/)
 - [Tailwindcss](/es/discover/tailwindcss/)
 - [Nuxt](/es/discover/nuxt/)
-- [Cypress](/es/discover/cypress/)
 - [Hyperframes](/es/discover/hyperframes/)
+- [Cypress](/es/discover/cypress/)
 - [CLI-Anything](/es/discover/cli-anything/)
 
 ---

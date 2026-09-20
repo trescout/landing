@@ -32,6 +32,7 @@ It may be an exaggeration for simple applications, but it is vital in artificial
 
 ## Related tools
 - [Posthog](/en/discover/posthog/)
+- [Cilium](/en/discover/cilium/)
 - [iii](/en/discover/iii/)
 
 ---

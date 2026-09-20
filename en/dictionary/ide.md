@@ -33,6 +33,7 @@ Some IDEs are focused on specific languages, while others can work in almost any
 - [Editor](/en/dictionary/editor/)
 
 ## Related tools
+- [Cline](/en/discover/cline/)
 - [Free Claude Code](/en/discover/free-claude-code/)
 - [Continue](/en/discover/continue/)
 - [Oh My Pi](/en/discover/oh-my-pi/)

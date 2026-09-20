@@ -31,6 +31,7 @@ Alguns IDEs são focados em linguagens específicas, enquanto outros podem funci
 - [Editor](/pt/dictionary/editor/)
 
 ## Ferramentas relacionadas
+- [Cline](/pt/discover/cline/)
 - [Free Claude Code](/pt/discover/free-claude-code/)
 - [Continue](/pt/discover/continue/)
 - [Oh My Pi](/pt/discover/oh-my-pi/)

@@ -2,7 +2,7 @@
 
 Der KI-Hedgefonds nutzt autonome Agenten, um Finanzmarktanalyse- und Vermögensverwaltungsprozesse zu automatisieren. Dieses Python-basierte Projekt bietet ein Teammodell für künstliche Intelligenz, das Anlagestrategien durch die Verarbeitung von Marktdaten entwickelt.
 
-- ★ 62.721
+- ★ 63.515
 - Python
 - GitHub Trending · 2026-07-13
 

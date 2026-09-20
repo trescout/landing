@@ -30,9 +30,9 @@ Si vous souhaitez vous lancer dans le monde du logiciel, oui, car de nombreux ou
 - [PI](/fr/discover/pi/)
 - [Terminal](/fr/discover/terminal/)
 - [Career Ops](/fr/discover/career-ops/)
+- [Cline](/fr/discover/cline/)
 - [Openinterpreter](/fr/discover/openinterpreter/)
 - [Free Claude Code](/fr/discover/free-claude-code/)
-- [Openhuman](/fr/discover/openhuman/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/terminal/

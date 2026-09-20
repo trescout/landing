@@ -2,7 +2,7 @@
 
 The Modular Platform provides high-performance infrastructure for AI projects and includes MAX and Mojo.
 
-- ★ 28,875
+- ★ 29,812
 - Mojo
 - GitHub Trending · 2026-08-20
 

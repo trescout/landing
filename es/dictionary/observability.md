@@ -30,6 +30,7 @@ Puede que sea una exageración para aplicaciones simples, pero es vital en siste
 
 ## Herramientas relacionadas
 - [Posthog](/es/discover/posthog/)
+- [Cilium](/es/discover/cilium/)
 - [iii](/es/discover/iii/)
 
 ---

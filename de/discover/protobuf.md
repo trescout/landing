@@ -2,7 +2,7 @@
 
 Protokollpuffer wurden von Google entwickelt und sind ein sprachunabhängiges Datenaustauschformat, das zur Serialisierung strukturierter Daten verwendet wird. Dieser Mechanismus sorgt für eine effiziente und schnelle Binärdatenübertragung bei der Kommunikation zwischen Systemen.
 
-- ★ 71.867
+- ★ 72.043
 - C++
 - GitHub Trending · 2026-07-18
 

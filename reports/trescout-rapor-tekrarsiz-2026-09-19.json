@@ -1,0 +1,642 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-19",
+  "capturedAt": "2026-09-19T08:33:22.858Z",
+  "editorial": "Bu rapor, son 30 gündeki normal raporlarda yer alan kayıtları tekrar etmeden bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Fission-AI/OpenSpec",
+          "url": "https://github.com/Fission-AI/OpenSpec",
+          "summary": "OpenSpec, yapay zekâ destekli kodlama asistanları için şartname odaklı geliştirme (spec-driven development) sürecini standartlaştırıyor. Yazılım projelerinde teknik gereksinimleri tanımlayarak yapay zekânın daha tutarlı ve hatasız kod üretmesini sağlıyor.",
+          "meta": "TypeScript · ★ 69.487 · +296 bugün",
+          "snapshot": {
+            "sourceId": "Fission-AI/OpenSpec",
+            "capturedAt": "2026-09-19T08:33:23.931Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 69487,
+              "engagementCount": 296,
+              "rank": 8,
+              "extra": {
+                "starsToday": 296
+              }
+            }
+          },
+          "returning": true
+        },
+        {
+          "title": "ankitects/anki",
+          "url": "https://github.com/ankitects/anki",
+          "summary": "Anki, aralıklı tekrar (spaced repetition) algoritmasını kullanarak öğrenmeyi kolaylaştıran bir bilgi kartı yazılımı. Rust diliyle geliştirilen bu açık kaynaklı araç, kullanıcıların karmaşık bilgileri uzun süreli belleğe aktarmasına yardımcı oluyor.",
+          "meta": "Rust · ★ 31.283 · +174 bugün",
+          "snapshot": {
+            "sourceId": "ankitects/anki",
+            "capturedAt": "2026-09-19T08:33:23.931Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 31283,
+              "engagementCount": 174,
+              "rank": 9,
+              "extra": {
+                "starsToday": 174
+              }
+            }
+          }
+        },
+        {
+          "title": "supermemoryai/supermemory",
+          "url": "https://github.com/supermemoryai/supermemory",
+          "summary": "Supermemory, kullanıcıların dijital içeriklerini depolayıp yapay zekâ ile sorgulamasını sağlayan bir bağlam motoru (context engine). Verileri yerel olarak saklama ve işleme imkânı sunarak, yapay zekâ uygulamaları için ölçeklenebilir bir bellek altyapısı oluşturuyor.",
+          "meta": "TypeScript · ★ 30.436 · +140 bugün",
+          "snapshot": {
+            "sourceId": "supermemoryai/supermemory",
+            "capturedAt": "2026-09-19T08:33:23.931Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 30436,
+              "engagementCount": 140,
+              "rank": 11,
+              "extra": {
+                "starsToday": 140
+              }
+            }
+          },
+          "returning": true
+        },
+        {
+          "title": "tradesdontlie/tradingview-mcp",
+          "url": "https://github.com/tradesdontlie/tradingview-mcp",
+          "summary": "TradingView-mcp, finansal grafik platformu TradingView ile yapay zekâ asistanı Claude Code arasında bağlantı kurarak teknik analiz süreçlerini otomatize ediyor. Bu entegrasyon, kullanıcıların piyasa verilerini analiz etme ve işlem iş akışlarını yönetme biçimini standartlaştırıyor.",
+          "meta": "JavaScript · ★ 6.538 · +79 bugün",
+          "snapshot": {
+            "sourceId": "tradesdontlie/tradingview-mcp",
+            "capturedAt": "2026-09-19T08:33:23.931Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 6538,
+              "engagementCount": 79,
+              "rank": 12,
+              "extra": {
+                "starsToday": 79
+              }
+            }
+          },
+          "returning": true
+        },
+        {
+          "title": "rustfs/rustfs",
+          "url": "https://github.com/rustfs/rustfs",
+          "summary": "RustFS, S3 uyumlu yüksek performanslı bir nesne depolama sistemi (object storage system) olarak geliştirildi. MinIO ve Ceph gibi diğer S3 uyumlu platformlarla birlikte çalışabilme ve veri taşıma desteği sunuyor.",
+          "meta": "Rust · ★ 33.264 · +267 bugün",
+          "snapshot": {
+            "sourceId": "rustfs/rustfs",
+            "capturedAt": "2026-09-19T08:33:23.931Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 33264,
+              "engagementCount": 267,
+              "rank": 13,
+              "extra": {
+                "starsToday": 267
+              }
+            }
+          }
+        },
+        {
+          "title": "supabase/supabase",
+          "url": "https://github.com/supabase/supabase",
+          "summary": "Supabase, web ve mobil uygulamalar için ilişkisel veritabanı yönetim sistemi olan PostgreSQL tabanlı bir geliştirme platformudur. Geleneksel veritabanı kurulumuna ihtiyaç duymadan uygulama geliştirme süreçlerini hızlandıran bir arka uç (backend) hizmeti sunar.",
+          "meta": "TypeScript · ★ 110.235 · +120 bugün",
+          "snapshot": {
+            "sourceId": "supabase/supabase",
+            "capturedAt": "2026-09-19T08:33:23.931Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 110235,
+              "engagementCount": 120,
+              "rank": 14,
+              "extra": {
+                "starsToday": 120
+              }
+            }
+          },
+          "returning": true
+        },
+        {
+          "title": "ahmedkhaleel2004/gitdiagram",
+          "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+          "summary": "Gitdiagram, GitHub depolarındaki karmaşık dosya yapılarını ve kod ilişkilerini görselleştiren bir araçtır. Yazılım projelerinin mimarisini anlamayı kolaylaştıran etkileşimli şemalar oluşturur.",
+          "meta": "TypeScript · ★ 16.568 · +152 bugün",
+          "snapshot": {
+            "sourceId": "ahmedkhaleel2004/gitdiagram",
+            "capturedAt": "2026-09-19T08:33:23.931Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 16568,
+              "engagementCount": 152,
+              "rank": 16,
+              "extra": {
+                "starsToday": 152
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+          "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+          "summary": "Google, Android 17 sürümüyle birlikte yeni uygulama programlama arayüzlerini (API) açık kaynaklı Android projesi (AOSP) üzerinden yayınlamadan kullanıma sunuyor. Bu strateji değişikliği, işletim sistemi geliştirmelerinde kaynak kodunun herkese açık paylaşılma geleneğini değiştiriyor.",
+          "meta": "799 oy · 390 yorum",
+          "snapshot": {
+            "sourceId": "49758736",
+            "capturedAt": "2026-09-19T08:33:23.094Z",
+            "metadata": {
+              "popularity": 799,
+              "engagementCount": 390,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49758736",
+                  "popularity": 799,
+                  "engagementCount": 390
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "theanonymousone",
+                "createdAt": "2026-09-18T19:03:09Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49758736"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49758736",
+              "popularity": 799,
+              "engagementCount": 390
+            }
+          ]
+        },
+        {
+          "title": "Cloudflare Quick Tunnels",
+          "url": "https://try.cloudflare.com/",
+          "summary": "Cloudflare Quick Tunnels, yerel sunucuları herhangi bir yapılandırma gerektirmeden internete açan bir tünelleme aracıdır. Geliştiricilerin yerel projelerini (localhost) güvenli bir şekilde dış dünyaya sunmasını sağlayan bu servis, karmaşık ağ ayarlarıyla uğraşmadan hızlı erişim imkânı tanır.",
+          "meta": "691 oy · 275 yorum",
+          "snapshot": {
+            "sourceId": "49754785",
+            "capturedAt": "2026-09-19T08:33:23.094Z",
+            "metadata": {
+              "popularity": 691,
+              "engagementCount": 275,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49754785",
+                  "popularity": 691,
+                  "engagementCount": 275
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "jcbhmr",
+                "createdAt": "2026-09-18T14:18:41Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49754785"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49754785",
+              "popularity": 691,
+              "engagementCount": 275
+            }
+          ]
+        },
+        {
+          "title": "OpenJev",
+          "url": "https://openjev.com/",
+          "summary": "OpenJev, Java uygulamalarının performansını takip eden açık kaynaklı bir izleme aracıdır (monitoring tool). Sistem kaynaklarını ve uygulama metriklerini görselleştirerek yazılım geliştiricilere hata ayıklama ve optimizasyon süreçlerinde yardımcı olur.",
+          "meta": "620 oy · 259 yorum",
+          "snapshot": {
+            "sourceId": "49752041",
+            "capturedAt": "2026-09-19T08:33:23.094Z",
+            "metadata": {
+              "popularity": 620,
+              "engagementCount": 259,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49752041",
+                  "popularity": 620,
+                  "engagementCount": 259
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "ilreb",
+                "createdAt": "2026-09-18T09:42:22Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49752041"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49752041",
+              "popularity": 620,
+              "engagementCount": 259
+            }
+          ]
+        },
+        {
+          "title": "How to Write with an LLM",
+          "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+          "summary": "Büyük dil modelleri (large language models) ile metin üretirken, yapay zekâyı bir yazar yerine taslak oluşturan veya düzenleme yapan bir asistan olarak konumlandırmak verimi artırıyor. Kullanıcılar, yapay zekâya doğrudan metin yazdırmak yerine kendi fikirlerini yapılandırarak süreci yönlendirdiklerinde daha özgün sonuçlar elde ediyor.",
+          "meta": "482 oy · 320 yorum",
+          "snapshot": {
+            "sourceId": "49747070",
+            "capturedAt": "2026-09-19T08:33:23.094Z",
+            "metadata": {
+              "popularity": 482,
+              "engagementCount": 320,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49747070",
+                  "popularity": 482,
+                  "engagementCount": 320
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "joeriddles",
+                "createdAt": "2026-09-17T21:48:38Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49747070"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49747070",
+              "popularity": 482,
+              "engagementCount": 320
+            }
+          ]
+        },
+        {
+          "title": "Saving another 100TB of RAM",
+          "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+          "summary": "Cloudflare, içerik dağıtım ağı (CDN) altyapısında kullandığı bellek miktarını matematiksel optimizasyonlar ve veri sıkıştırma teknikleriyle 100 terabayt azaltmayı başardı. Bu yöntem, yoğun trafik alan sunucularda bellek kullanımını düşürerek donanım verimliliğini artırıyor.",
+          "meta": "347 oy · 68 yorum",
+          "snapshot": {
+            "sourceId": "49758580",
+            "capturedAt": "2026-09-19T08:33:23.094Z",
+            "metadata": {
+              "popularity": 347,
+              "engagementCount": 68,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49758580",
+                  "popularity": 347,
+                  "engagementCount": 68
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "f311a",
+                "createdAt": "2026-09-18T18:51:46Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49758580"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49758580",
+              "popularity": 347,
+              "engagementCount": 68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+          "summary": "Prism-ml tarafından geliştirilen Ternary-Bonsai-2-27B, metin üretimi (text generation) odaklı bir yapay zekâ modeli. Model, yüksek parametreli bir yapıyı daha düşük bellek tüketimiyle çalıştırmak için üçlü nicemleme (ternary quantization) yöntemini kullanıyor.",
+          "meta": "♥ 1.020 · 405.609 indirme",
+          "snapshot": {
+            "sourceId": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+            "capturedAt": "2026-09-19T08:33:22.949Z",
+            "metadata": {
+              "popularity": 1020,
+              "engagementCount": 405609,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 971,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "llama.cpp",
+                  "gguf",
+                  "ternary",
+                  "2-bit",
+                  "llama-cpp",
+                  "cuda",
+                  "metal",
+                  "on-device",
+                  "hybrid-attention",
+                  "prismml",
+                  "bonsai",
+                  "text-generation",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:quantized:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Verifiable Social Reasoning for LLM Assistants",
+          "url": "https://huggingface.co/papers/2609.17496",
+          "summary": "Fuse, büyük dil modellerinin (large language models) sosyal durumlara yönelik akıl yürütme becerilerini ölçmek için geliştirilen çoklu ajanlı bir simülasyon çerçevesi. Bu sistem, kullanıcı anlatılarına dayalı öznel senaryolarda yapay zekânın sosyal çıkarımlarını doğrulanabilir bir yapıda test etmeyi amaçlıyor.",
+          "meta": "25 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2609.17496",
+            "capturedAt": "2026-09-19T08:33:22.954Z",
+            "metadata": {
+              "popularity": 25,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.17496",
+                "publishedAt": "2026-09-15T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Self-Evolving Search Index",
+          "url": "https://huggingface.co/papers/2609.19656",
+          "summary": "Kendi kendine gelişen arama dizini (self-evolving search index), büyük dil modellerinin (large language models) bilgiye erişim süreçlerinde belge temsillerini dinamik olarak optimize ediyor. Bu yöntem, sabit dizin stratejilerinin aksine farklı bilgi alma ortamlarına uyum sağlayarak arama kalitesini artırmayı hedefliyor.",
+          "meta": "19 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2609.19656",
+            "capturedAt": "2026-09-19T08:33:22.954Z",
+            "metadata": {
+              "popularity": 19,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.19656",
+                "publishedAt": "2026-09-17T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Sample Count Is Not Enough: Candidate-Generation Strategy Shapes the Energy and Performance of LLM Test-Time Scaling",
+          "url": "https://huggingface.co/papers/2609.19499",
+          "summary": "Büyük dil modellerinde (large language models) test anında ölçeklendirme (test-time scaling), sadece üretilen aday yanıt sayısı ile değil, bu adayların hangi yöntemle oluşturulduğuyla da doğrudan ilişkilidir. Araştırma, toplu veya sıralı üretim stratejilerinin modelin akıl yürütme performansını ve enerji tüketimini farklı şekillerde etkilediğini ortaya koyuyor.",
+          "meta": "14 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2609.19499",
+            "capturedAt": "2026-09-19T08:33:22.954Z",
+            "metadata": {
+              "popularity": 14,
+              "engagementCount": 2,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.19499",
+                "publishedAt": "2026-09-16T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "VākQA: A Benchmark and Evaluation Study for Telugu Spoken Factoid Question Answering",
+          "url": "https://huggingface.co/papers/2609.19879",
+          "summary": "VākQA, Telugu dilindeki konuşmaya dayalı soru-cevap sistemlerini değerlendirmek için geliştirilmiş yeni bir kıyaslama (benchmark) veri setidir. Altı farklı alanda 2.001 soru-cevap çifti ve 2,5 saatlik ses kaydı içeren bu çalışma, az temsil edilen dillerde sesli yapay zekâ modellerinin doğruluğunu ölçmeyi hedefler.",
+          "meta": "12 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2609.19879",
+            "capturedAt": "2026-09-19T08:33:22.954Z",
+            "metadata": {
+              "popularity": 12,
+              "engagementCount": 2,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.19879",
+                "publishedAt": "2026-09-17T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Don't Mask the Environment: Observation Supervision Changes How Agents Explore Under RL",
+          "url": "https://huggingface.co/papers/2609.20715",
+          "summary": "Pekiştirmeli öğrenme (reinforcement learning) süreçlerinde kullanılan ActObs yöntemi, ajanların sadece eylemlerini değil, ortam gözlemlerini de tahmin etmelerini sağlayarak eğitim verimliliğini artırıyor. Bu yaklaşım, gözlem belirteçlerini (observation tokens) denetimli ince ayar (supervised fine-tuning) sürecine dahil ederek ajanların keşif yeteneklerini geliştiriyor.",
+          "meta": "15 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2609.20715",
+            "capturedAt": "2026-09-19T08:33:22.954Z",
+            "metadata": {
+              "popularity": 15,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.20715",
+                "publishedAt": "2026-09-17T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Typst makes big strides",
+          "url": "https://lwn.net/Articles/1092993/",
+          "summary": "Typst, karmaşık belgeleri kod yazımına benzer bir yapıyla hazırlamayı sağlayan yeni nesil bir dizgi sistemi (typesetting system). LaTeX gibi geleneksel araçlara göre daha hızlı derleme süreleri ve kullanıcı dostu bir sözdizimi sunarak doküman hazırlama süreçlerini kolaylaştırıyor.",
+          "meta": "83 oy · 11 yorum",
+          "snapshot": {
+            "sourceId": "j4oyxa",
+            "capturedAt": "2026-09-19T08:33:23.049Z",
+            "metadata": {
+              "popularity": 83,
+              "engagementCount": 11,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/j4oyxa/typst_makes_big_strides",
+                  "popularity": 83,
+                  "engagementCount": 11
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "a11y",
+                  "programming"
+                ],
+                "createdAt": "2026-09-18T08:14:17.568-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/j4oyxa/typst_makes_big_strides",
+              "popularity": 83,
+              "engagementCount": 11
+            }
+          ]
+        },
+        {
+          "title": "I don't like passkeys",
+          "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+          "summary": "Parola anahtarları (passkeys), geleneksel şifrelerin yerini alması hedeflenen ve cihaz tabanlı kimlik doğrulama sağlayan bir güvenlik teknolojisi. Yazarlar bu sistemin cihaz bağımlılığı ve yedekleme süreçlerindeki karmaşıklık nedeniyle kullanıcı deneyimini kısıtladığını savunuyor.",
+          "meta": "51 oy · 27 yorum",
+          "snapshot": {
+            "sourceId": "4a7qly",
+            "capturedAt": "2026-09-19T08:33:23.049Z",
+            "metadata": {
+              "popularity": 51,
+              "engagementCount": 27,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/4a7qly/i_don_t_like_passkeys",
+                  "popularity": 51,
+                  "engagementCount": 27
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "security"
+                ],
+                "createdAt": "2026-09-18T07:52:18.949-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/4a7qly/i_don_t_like_passkeys",
+              "popularity": 51,
+              "engagementCount": 27
+            }
+          ]
+        },
+        {
+          "title": "There's no point at which turning your brain off will work",
+          "url": "https://danluu.com/brain-off/",
+          "summary": "Dan Luu tarafından kaleme alınan makale, karmaşık sistemlerde zihinsel çabayı azaltmanın veya otomasyona güvenmenin risklerini tartışıyor. Teknik süreçlerde dikkati tamamen devre dışı bırakmanın, hata ayıklama (debugging) ve sistem yönetimi gibi kritik alanlarda beklenmedik sorunlara yol açtığını savunuyor.",
+          "meta": "23 oy · 7 yorum",
+          "snapshot": {
+            "sourceId": "dd6if1",
+            "capturedAt": "2026-09-19T08:33:23.049Z",
+            "metadata": {
+              "popularity": 23,
+              "engagementCount": 7,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/dd6if1/there_s_no_point_at_which_turning_your",
+                  "popularity": 23,
+                  "engagementCount": 7
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-18T12:15:40.357-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/dd6if1/there_s_no_point_at_which_turning_your",
+              "popularity": 23,
+              "engagementCount": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "LLM",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "spec-driven development",
+      "explanation": "Kod yazmaya başlamadan önce sistemin nasıl çalışacağını detaylı kurallarla belirleyen geliştirme yöntemi."
+    },
+    {
+      "term": "spaced repetition",
+      "explanation": "Bilgilerin unutulmasını önlemek için belirli aralıklarla tekrar edilmesini sağlayan öğrenme tekniği."
+    },
+    {
+      "term": "context engine",
+      "explanation": "Yapay zekânın daha doğru cevaplar vermesi için ona geçmiş konuşmaları ve güncel bilgileri sunan sistem."
+    },
+    {
+      "term": "object storage system",
+      "explanation": "Verileri dosya hiyerarşisi yerine kendine has kimliklerle saklayan, büyük ölçekli depolama yöntemi."
+    },
+    {
+      "term": "backend",
+      "explanation": "Kullanıcının görmediği, verilerin işlendiği ve sunucuda çalışan yazılımın arka plan kısmı."
+    },
+    {
+      "term": "API",
+      "explanation": "İki farklı yazılımın birbirleriyle veri alışverişi yapmasını sağlayan köprü görevi gören arayüz."
+    },
+    {
+      "term": "AOSP",
+      "explanation": "Akıllı telefonlarda kullanılan işletim sisteminin herkesin erişimine açık olan temel sürümü."
+    },
+    {
+      "term": "localhost",
+      "explanation": "Bir yazılımın internete çıkmadan sadece o an kullanılan bilgisayar üzerinde çalışması durumu."
+    },
+    {
+      "term": "monitoring tool",
+      "explanation": "Sistemlerin düzgün çalışıp çalışmadığını sürekli izleyen ve hata durumunda uyarı veren yazılımlar."
+    }
+  ]
+}

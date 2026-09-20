@@ -2,7 +2,7 @@
 
 Harvey Labs é uma ferramenta de benchmarking projetada para medir e melhorar as capacidades dos agentes de inteligência artificial que apoiam tarefas na área jurídica. Este estudo, elaborado em linguagem Python, tem como objetivo avaliar o desempenho de softwares que desenvolvem tecnologias jurídicas com testes padrão.
 
-- ★ 881
+- ★ 1.370
 - Python
 - GitHub Trending · 2026-08-10
 

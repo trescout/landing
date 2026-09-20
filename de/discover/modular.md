@@ -2,7 +2,7 @@
 
 Die Modulare Plattform bietet eine leistungsstarke Infrastruktur für KI-Projekte und umfasst MAX und Mojo.
 
-- ★ 28.875
+- ★ 29.812
 - Mojo
 - GitHub Trending · 2026-08-20
 

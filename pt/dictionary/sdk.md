@@ -30,6 +30,7 @@ Pode ser escrito, mas é preciso codificar tudo do zero, o que leva muito tempo.
 - [Bindings](/pt/dictionary/bindings/)
 
 ## Ferramentas relacionadas
+- [Cline](/pt/discover/cline/)
 - [Opendataloader PDF](/pt/discover/opendataloader-pdf/)
 - [CUA](/pt/discover/cua/)
 - [iii](/pt/discover/iii/)
@@ -37,7 +38,6 @@ Pode ser escrito, mas é preciso codificar tudo do zero, o que leva muito tempo.
 - [CubeSandbox](/pt/discover/cubesandbox/)
 - [Copilot SDK](/pt/discover/copilot-sdk/)
 - [U3 SDK](/pt/discover/u3-sdk/)
-- [SIE](/pt/discover/sie/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/sdk/

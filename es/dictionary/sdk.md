@@ -30,6 +30,7 @@ Se puede escribir, pero hay que codificar todo desde cero, lo que lleva demasiad
 - [Bindings](/es/dictionary/bindings/)
 
 ## Herramientas relacionadas
+- [Cline](/es/discover/cline/)
 - [Opendataloader PDF](/es/discover/opendataloader-pdf/)
 - [CUA](/es/discover/cua/)
 - [iii](/es/discover/iii/)
@@ -37,7 +38,6 @@ Se puede escribir, pero hay que codificar todo desde cero, lo que lleva demasiad
 - [CubeSandbox](/es/discover/cubesandbox/)
 - [Copilot SDK](/es/discover/copilot-sdk/)
 - [U3 SDK](/es/discover/u3-sdk/)
-- [SIE](/es/discover/sie/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/sdk/

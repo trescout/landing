@@ -2,7 +2,7 @@
 
 Desenvolvido pela Cloudflare, Computer é uma biblioteca TypeScript que dá aos agentes de inteligência artificial a capacidade de controlar um computador local ou remoto. Esta ferramenta permite que os agentes executem comandos no sistema operacional e automatizem tarefas complexas acessando o sistema de arquivos.
 
-- ★ 9.162
+- ★ 9.221
 - TypeScript
 - GitHub Trending · 2026-08-06
 

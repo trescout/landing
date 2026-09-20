@@ -1,0 +1,1048 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-18",
+  "capturedAt": "2026-09-18T08:47:04.700Z",
+  "editorial": "Bugün yazılım geliştirme süreçlerinde güvenlik denetimleri ve yerel donanım çözümleri üzerine odaklanan bir yoğunluk gözlemleniyor. Fujitsu’nun yeni nesil işlemci (CPU) duyurusu ve açık kaynaklı güvenlik araçlarının (security tools) yaygınlaşması, endüstrinin hem altyapı hem de denetim katmanında somut kazanımlara yöneldiğini gösteriyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "alibaba/open-code-review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "summary": "Alibaba tarafından geliştirilen Open-code-review, kod inceleme süreçlerini otomatize etmek için deterministik işlem hatları ile büyük dil modellerini (LLM) birleştiren hibrit bir mimari sunuyor. Yazılım güvenliği açıklarını tespit etmek ve satır bazlı geri bildirim sağlamak amacıyla tasarlanan bu araç, farklı yapay zekâ modelleriyle uyumlu çalışabiliyor.",
+          "meta": "Go · ★ 35.855 · +3.286 bugün",
+          "snapshot": {
+            "sourceId": "alibaba/open-code-review",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 35855,
+              "engagementCount": 3286,
+              "rank": 1,
+              "extra": {
+                "starsToday": 3286
+              }
+            }
+          }
+        },
+        {
+          "title": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "summary": "Cloudflare tarafından geliştirilen security-audit-skill, kodlama ajanlarının çok aşamalı güvenlik denetimleri yapmasını sağlayan bir yetenek paketi (skill). Makine tarafından okunabilir ve bağımsız olarak doğrulanmış bulgular üreterek yazılım geliştirme süreçlerinde güvenlik standartlarını otomatize ediyor.",
+          "meta": "JavaScript · ★ 11.472 · +3.607 bugün",
+          "snapshot": {
+            "sourceId": "cloudflare/security-audit-skill",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 11472,
+              "engagementCount": 3607,
+              "rank": 2,
+              "extra": {
+                "starsToday": 3607
+              }
+            }
+          }
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Addy Osmani tarafından paylaşılan agent-skills, yapay zekâ kodlama ajanları için üretim seviyesinde mühendislik yetenekleri (engineering skills) sunuyor. JavaScript tabanlı bu kütüphane, otonom yazılım geliştirme süreçlerini standartlaştırmayı amaçlıyor.",
+          "meta": "JavaScript · ★ 96.080 · +680 bugün",
+          "snapshot": {
+            "sourceId": "addyosmani/agent-skills",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 96080,
+              "engagementCount": 680,
+              "rank": 3,
+              "extra": {
+                "starsToday": 680
+              }
+            }
+          }
+        },
+        {
+          "title": "Tencent/BrowserSkill",
+          "url": "https://github.com/Tencent/BrowserSkill",
+          "summary": "Tencent tarafından geliştirilen BrowserSkill, yapay zekâ ajanlarının aktif tarayıcı oturumlarını kullanıcının çalışmasını bölmeden yönetmesini sağlayan bir tarayıcı otomasyon aracıdır. Komut satırı arayüzü ve tarayıcı eklentisi aracılığıyla, herhangi bir yapay zekâ ajanının mevcut oturum açılmış tarayıcı verilerine erişmesine olanak tanır.",
+          "meta": "TypeScript · ★ 4.721 · +1.302 bugün",
+          "snapshot": {
+            "sourceId": "Tencent/BrowserSkill",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 4721,
+              "engagementCount": 1302,
+              "rank": 4,
+              "extra": {
+                "starsToday": 1302
+              }
+            }
+          }
+        },
+        {
+          "title": "alphaXiv/OpenResearch",
+          "url": "https://github.com/alphaXiv/OpenResearch",
+          "summary": "AlphaXiv, kodlama odaklı yazılım ajanlarını bilimsel araştırma süreçlerini yürütebilen araştırma ajanlarına dönüştüren bir çerçeve sunuyor. Rust diliyle geliştirilen bu açık kaynaklı araç, karmaşık veri analizi ve akademik literatür taraması gibi görevleri otomatikleştirmeyi hedefliyor.",
+          "meta": "Rust · ★ 5.168 · +939 bugün",
+          "snapshot": {
+            "sourceId": "alphaXiv/OpenResearch",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 5168,
+              "engagementCount": 939,
+              "rank": 5,
+              "extra": {
+                "starsToday": 939
+              }
+            }
+          }
+        },
+        {
+          "title": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "summary": "Claude Code, terminal üzerinde çalışan ve doğal dil komutlarıyla yazılım geliştirme süreçlerini hızlandıran bir yapay zekâ ajanıdır (agentic coding tool). Kod tabanını analiz ederek rutin görevleri yerine getirir, karmaşık kod bloklarını açıklar ve sürüm kontrol sistemi Git ile ilgili iş akışlarını yönetir.",
+          "meta": "TypeScript · ★ 146.000 · +538 bugün",
+          "snapshot": {
+            "sourceId": "anthropics/claude-code",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 146000,
+              "engagementCount": 538,
+              "rank": 6,
+              "extra": {
+                "starsToday": 538
+              }
+            }
+          }
+        },
+        {
+          "title": "NationalSecurityAgency/ghidra",
+          "url": "https://github.com/NationalSecurityAgency/ghidra",
+          "summary": "Ulusal Güvenlik Ajansı (NSA) tarafından geliştirilen Ghidra, yazılım tersine mühendislik (software reverse engineering) işlemleri için kullanılan kapsamlı bir analiz çerçevesidir. Java diliyle yazılan bu araç, ikili dosyaları çözümlemek ve kodun çalışma mantığını anlamak için görselleştirme ve hata ayıklama özellikleri sunar.",
+          "meta": "Java · ★ 78.724 · +912 bugün",
+          "snapshot": {
+            "sourceId": "NationalSecurityAgency/ghidra",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "Java",
+              "popularity": 78724,
+              "engagementCount": 912,
+              "rank": 7,
+              "extra": {
+                "starsToday": 912
+              }
+            }
+          }
+        },
+        {
+          "title": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "summary": "Anthropics tarafından paylaşılan knowledge-work-plugins, bilgi çalışanlarının yapay zekâ asistanı Claude (yapay zekâ modeli) üzerinde özelleştirilmiş iş akışları oluşturmasını sağlayan açık kaynaklı bir eklenti kütüphanesidir. Python tabanlı bu araç seti, kullanıcıların verimlilik süreçlerini otomatize etmelerine ve karmaşık görevleri standartlaştırmalarına olanak tanır.",
+          "meta": "Python · ★ 24.687 · +287 bugün",
+          "snapshot": {
+            "sourceId": "anthropics/knowledge-work-plugins",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 24687,
+              "engagementCount": 287,
+              "rank": 8,
+              "extra": {
+                "starsToday": 287
+              }
+            }
+          }
+        },
+        {
+          "title": "Tencent/WeKnora",
+          "url": "https://github.com/Tencent/WeKnora",
+          "summary": "Tencent tarafından geliştirilen WeKnora, ham belgeleri sorgulanabilir bir bilgi tabanına (RAG), otonom bir akıl yürütme ajanına ve kendi kendini güncelleyen bir wiki sistemine dönüştüren açık kaynaklı bir platformdur. Go programlama diliyle yazılan bu araç, yapılandırılmamış verileri kurumsal düzeyde erişilebilir bilgi varlıklarına dönüştürmeyi amaçlar.",
+          "meta": "Go · ★ 26.667 · +1.125 bugün",
+          "snapshot": {
+            "sourceId": "Tencent/WeKnora",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 26667,
+              "engagementCount": 1125,
+              "rank": 9,
+              "extra": {
+                "starsToday": 1125
+              }
+            }
+          }
+        },
+        {
+          "title": "abue-ammar/tinycast",
+          "url": "https://github.com/abue-ammar/tinycast",
+          "summary": "Tinycast, macOS işletim sistemi için geliştirilmiş hafif bir uygulama başlatıcı (launcher), kısayol yöneticisi ve pano geçmişi aracıdır. Swift diliyle yazılan bu yerel (native) yazılım, sistem kaynaklarını verimli kullanarak masaüstü iş akışlarını hızlandırmayı amaçlar.",
+          "meta": "Swift · ★ 6.286 · +739 bugün",
+          "snapshot": {
+            "sourceId": "abue-ammar/tinycast",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "Swift",
+              "popularity": 6286,
+              "engagementCount": 739,
+              "rank": 10,
+              "extra": {
+                "starsToday": 739
+              }
+            }
+          }
+        },
+        {
+          "title": "cilium/cilium",
+          "url": "https://github.com/cilium/cilium",
+          "summary": "Cilium, ağ trafiğini yönetmek, güvenlik sağlamak ve sistem izlenebilirliği (observability) sunmak için eBPF teknolojisini kullanan bir altyapı aracıdır. Özellikle Kubernetes gibi konteyner düzenleme platformlarında ağ katmanını yüksek performansla yönetmek için tercih edilir.",
+          "meta": "Go · ★ 25.329 · +111 bugün",
+          "snapshot": {
+            "sourceId": "cilium/cilium",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 25329,
+              "engagementCount": 111,
+              "rank": 11,
+              "extra": {
+                "starsToday": 111
+              }
+            }
+          }
+        },
+        {
+          "title": "jamiepine/voicebox",
+          "url": "https://github.com/jamiepine/voicebox",
+          "summary": "Jamiepine tarafından geliştirilen Voicebox, kullanıcıların ses klonlama, dikte etme ve ses üretimi yapabildiği açık kaynaklı bir yapay zekâ ses stüdyosu. TypeScript diliyle yazılan bu araç, ses işleme süreçlerini tek bir platform üzerinde birleştirerek kullanıcıya sunuyor.",
+          "meta": "TypeScript · ★ 55.005 · +667 bugün",
+          "snapshot": {
+            "sourceId": "jamiepine/voicebox",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 55005,
+              "engagementCount": 667,
+              "rank": 12,
+              "extra": {
+                "starsToday": 667
+              }
+            }
+          }
+        },
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC, yapay zekâ ajanları için yetenek, bellek ve güvenlik katmanlarını optimize eden bir performans sistemi. Claude Code, Cursor gibi kodlama araçlarının (coding assistants) çalışma verimliliğini artırmak için tasarlanmış bir altyapı sunuyor.",
+          "meta": "JavaScript · ★ 261.436 · +1.171 bugün",
+          "snapshot": {
+            "sourceId": "affaan-m/ECC",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 261436,
+              "engagementCount": 1171,
+              "rank": 13,
+              "extra": {
+                "starsToday": 1171
+              }
+            }
+          }
+        },
+        {
+          "title": "roboflow/supervision",
+          "url": "https://github.com/roboflow/supervision",
+          "summary": "Roboflow tarafından geliştirilen Supervision, bilgisayarlı görü (computer vision) projelerinde kullanılan yeniden kullanılabilir araçlar sunan bir Python kütüphanesidir. Nesne takibi ve görselleştirme gibi yaygın görevleri standartlaştırarak görüntü işleme süreçlerini hızlandırır.",
+          "meta": "Python · ★ 50.895 · +329 bugün",
+          "snapshot": {
+            "sourceId": "roboflow/supervision",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 50895,
+              "engagementCount": 329,
+              "rank": 14,
+              "extra": {
+                "starsToday": 329
+              }
+            }
+          }
+        },
+        {
+          "title": "JustVugg/colibri",
+          "url": "https://github.com/JustVugg/colibri",
+          "summary": "Colibri, büyük dil modellerinin (large language models) en gelişmiş türlerinden olan uzmanların karışımı (mixture of experts) mimarisini, düşük donanım gereksinimleriyle yerel cihazlarda çalıştırmayı sağlayan bir C motoru. Uzman katmanlarını diskten akış yöntemiyle yükleyerek, yüksek bellek ihtiyacı duyan modellerin standart bilgisayarlarda çalışmasına olanak tanıyor.",
+          "meta": "C · ★ 35.919 · +873 bugün",
+          "snapshot": {
+            "sourceId": "JustVugg/colibri",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 35919,
+              "engagementCount": 873,
+              "rank": 15,
+              "extra": {
+                "starsToday": 873
+              }
+            }
+          }
+        },
+        {
+          "title": "TencentCloud/Octop",
+          "url": "https://github.com/TencentCloud/Octop",
+          "summary": "TencentCloud tarafından geliştirilen Octop, kendi sunucunuzda barındırabileceğiniz çok kullanıcılı ve çok ajanlı bir yapay zekâ asistanı. Python tabanlı bu sistem, farklı kullanıcıların aynı anda birden fazla yapay zekâ ajanıyla etkileşime girmesine olanak tanıyor.",
+          "meta": "Python · ★ 3.704 · +367 bugün",
+          "snapshot": {
+            "sourceId": "TencentCloud/Octop",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 3704,
+              "engagementCount": 367,
+              "rank": 16,
+              "extra": {
+                "starsToday": 367
+              }
+            }
+          }
+        },
+        {
+          "title": "ever-co/ever-gauzy",
+          "url": "https://github.com/ever-co/ever-gauzy",
+          "summary": "Ever Gauzy, kurumsal kaynak planlama (ERP), müşteri ilişkileri yönetimi (CRM) ve insan kaynakları gibi iş süreçlerini tek bir çatı altında toplayan açık kaynaklı bir iş yönetim platformu. TypeScript ile geliştirilen bu sistem, farklı departmanların ihtiyaç duyduğu yazılım araçlarını merkezi bir yapıda birleştiriyor.",
+          "meta": "TypeScript · ★ 7.677 · +470 bugün",
+          "snapshot": {
+            "sourceId": "ever-co/ever-gauzy",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 7677,
+              "engagementCount": 470,
+              "rank": 17,
+              "extra": {
+                "starsToday": 470
+              }
+            }
+          }
+        },
+        {
+          "title": "cline/cline",
+          "url": "https://github.com/cline/cline",
+          "summary": "Cline, yazılım geliştirme süreçlerini otomatize eden otonom bir kodlama ajanıdır. IDE eklentisi, yazılım geliştirme kiti (SDK) veya komut satırı arayüzü (CLI) üzerinden çalışarak geliştiricilerin projelerine entegre olur.",
+          "meta": "TypeScript · ★ 68.646 · +380 bugün",
+          "snapshot": {
+            "sourceId": "cline/cline",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 68646,
+              "engagementCount": 380,
+              "rank": 18,
+              "extra": {
+                "starsToday": 380
+              }
+            }
+          }
+        },
+        {
+          "title": "coder/coder",
+          "url": "https://github.com/coder/coder",
+          "summary": "Coder, yazılımcılar ve yapay zekâ ajanları için güvenli geliştirme ortamları (development environments) sağlayan bir platform. Bulut tabanlı altyapısı sayesinde kodlama süreçlerini standartlaştırarak geliştirme ortamlarını merkezi bir şekilde yönetmenize olanak tanıyor.",
+          "meta": "Go · ★ 14.996 · +145 bugün",
+          "snapshot": {
+            "sourceId": "coder/coder",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 14996,
+              "engagementCount": 145,
+              "rank": 19,
+              "extra": {
+                "starsToday": 145
+              }
+            }
+          }
+        },
+        {
+          "title": "n8n-io/n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "summary": "n8n, farklı uygulamalar arasında veri akışını otomatikleştiren görsel bir iş akışı otomasyon platformudur. Kullanıcılar, 400'den fazla entegrasyon desteği ve yerleşik yapay zekâ yetenekleri sayesinde kendi sunucularında veya bulut üzerinde özel süreçler oluşturabilir.",
+          "meta": "TypeScript · ★ 205.171 · +281 bugün",
+          "snapshot": {
+            "sourceId": "n8n-io/n8n",
+            "capturedAt": "2026-09-18T08:47:05.975Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 205171,
+              "engagementCount": 281,
+              "rank": 20,
+              "extra": {
+                "starsToday": 281
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Hister: A private search engine for the pages you visit and the files you keep",
+          "url": "https://github.com/asciimoo/hister",
+          "summary": "Hister, ziyaret edilen web sayfalarını ve yerel dosyaları indeksleyerek bunlar arasında hızlı arama yapmanıza olanak tanıyan özel bir arama motoru. Kullanıcıların kendi verileri üzerinde tam kontrol sahibi olmasını sağlayan bu araç, gizlilik odaklı bir kişisel arama deneyimi sunuyor.",
+          "meta": "596 oy · 162 yorum",
+          "snapshot": {
+            "sourceId": "49743097",
+            "capturedAt": "2026-09-18T08:47:04.992Z",
+            "metadata": {
+              "popularity": 596,
+              "engagementCount": 162,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49743097",
+                  "popularity": 596,
+                  "engagementCount": 162
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "bookofjoe",
+                "createdAt": "2026-09-17T16:25:37Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49743097"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49743097",
+              "popularity": 596,
+              "engagementCount": 162
+            }
+          ]
+        },
+        {
+          "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+          "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+          "summary": "Fujitsu, veri merkezleri için enerji verimliliğine odaklanan yeni nesil işlemcisi (CPU) FUJITSU-MONAKA'yı duyurdu. Japonya'da üretilen bu işlemci, yüksek performanslı bilgi işlem (HPC) ve yapay zekâ iş yükleri için optimize edilmiş bir mimari sunuyor.",
+          "meta": "584 oy · 225 yorum",
+          "snapshot": {
+            "sourceId": "49715813",
+            "capturedAt": "2026-09-18T08:47:04.992Z",
+            "metadata": {
+              "popularity": 584,
+              "engagementCount": 225,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49715813",
+                  "popularity": 584,
+                  "engagementCount": 225
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "my123",
+                "createdAt": "2026-09-15T17:28:38Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49715813"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49715813",
+              "popularity": 584,
+              "engagementCount": 225
+            }
+          ]
+        },
+        {
+          "title": "Astra for Law",
+          "url": "https://openai.com/index/astra-for-law/",
+          "summary": "OpenAI tarafından geliştirilen Astra for Law, hukuk profesyonellerinin karmaşık yasal belgeleri analiz etmesini sağlayan özelleşmiş bir yapay zekâ (AI) aracıdır. Hukuki süreçlerdeki verimliliği artırmak amacıyla tasarlanan bu sistem, büyük ölçekli dosya inceleme ve hukuki araştırma görevlerini otomatize eder.",
+          "meta": "471 oy · 500 yorum",
+          "snapshot": {
+            "sourceId": "49745940",
+            "capturedAt": "2026-09-18T08:47:04.992Z",
+            "metadata": {
+              "popularity": 471,
+              "engagementCount": 500,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49745940",
+                  "popularity": 471,
+                  "engagementCount": 500
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "vertigoruntime",
+                "createdAt": "2026-09-17T20:17:48Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49745940"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49745940",
+              "popularity": 471,
+              "engagementCount": 500
+            }
+          ]
+        },
+        {
+          "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+          "url": "https://bend-lang.com/",
+          "summary": "Bend, hem işlemci (CPU) hem de grafik işlemci (GPU) üzerinde paralel çalışabilen ve mantıksal hataları kanıtlama yoluyla engelleyen bir programlama dili. Yazılım geliştiricilerin karmaşık paralel hesaplamaları daha güvenli ve hatasız bir biçimde gerçekleştirmesini sağlıyor.",
+          "meta": "444 oy · 206 yorum",
+          "snapshot": {
+            "sourceId": "49746163",
+            "capturedAt": "2026-09-18T08:47:04.992Z",
+            "metadata": {
+              "popularity": 444,
+              "engagementCount": 206,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49746163",
+                  "popularity": 444,
+                  "engagementCount": 206
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "nicolas-siplis",
+                "createdAt": "2026-09-17T20:36:13Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49746163"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49746163",
+              "popularity": 444,
+              "engagementCount": 206
+            }
+          ]
+        },
+        {
+          "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+          "url": "https://prismml.com/news/bonsai-2-27b",
+          "summary": "PrismML tarafından geliştirilen Bonsai 2 27B, büyük dil modellerini (large language models) orijinal performanslarını koruyarak dokuz kat daha küçük boyuta indiren bir sıkıştırma teknolojisi. Bu yöntem, yapay zekâ modellerinin donanım gereksinimlerini düşürerek daha düşük kapasiteli cihazlarda çalışmasına olanak tanıyor.",
+          "meta": "416 oy · 121 yorum",
+          "snapshot": {
+            "sourceId": "49746618",
+            "capturedAt": "2026-09-18T08:47:04.992Z",
+            "metadata": {
+              "popularity": 416,
+              "engagementCount": 121,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49746618",
+                  "popularity": 416,
+                  "engagementCount": 121
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "JonSchneider",
+                "createdAt": "2026-09-17T21:13:31Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49746618"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49746618",
+              "popularity": 416,
+              "engagementCount": 121
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Edge0/Edge0-35B-A3B-preview",
+          "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
+          "summary": "Edge0-35B-A3B-preview, Hugging Face platformunda yayınlanan ve metin üretimi (text generation) odaklı çalışan bir yapay zekâ modelidir. Geliştiricilere açık kaynaklı bir alternatif sunan bu model, karmaşık dil işleme görevlerini yerine getirmek üzere tasarlanmıştır.",
+          "meta": "♥ 3.340 · 37.131 indirme",
+          "snapshot": {
+            "sourceId": "Edge0/Edge0-35B-A3B-preview",
+            "capturedAt": "2026-09-18T08:47:04.833Z",
+            "metadata": {
+              "popularity": 3340,
+              "engagementCount": 37131,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 2453,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "mlx",
+                  "safetensors",
+                  "qwen3_5_moe",
+                  "moe",
+                  "edge-inference",
+                  "prerouter",
+                  "lora",
+                  "ssd-offload",
+                  "text-generation",
+                  "conversational",
+                  "arxiv:2609.18063",
+                  "base_model:Qwen/Qwen3.6-35B-A3B",
+                  "base_model:adapter:Qwen/Qwen3.6-35B-A3B",
+                  "license:apache-2.0",
+                  "4-bit",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+          "summary": "DeepSeek tarafından geliştirilen DeepSeek-V4.1-Flash, görsel ve metin verilerini işleyebilen çok modlu (multimodal) bir yapay zekâ modeli. Girdi olarak alınan görselleri ve metinleri analiz ederek anlamlı metin çıktıları üretmek üzere tasarlanmıştır.",
+          "meta": "♥ 3.064 · 390.657 indirme",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash",
+            "capturedAt": "2026-09-18T08:47:04.833Z",
+            "metadata": {
+              "popularity": 3064,
+              "engagementCount": 390657,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1130,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Alibaba tarafından geliştirilen Qwen2.5-27B, hem metin hem de görsel verileri işleyebilen çok modlu (multimodal) bir yapay zekâ modelidir. Açık kaynaklı yapay zekâ modellerinin paylaşıldığı platform HuggingFace üzerinde, yüksek performanslı bir dil ve görüntü işleme aracı olarak öne çıkmaktadır.",
+          "meta": "♥ 15.578 · 7.456.257 indirme",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-27B",
+            "capturedAt": "2026-09-18T08:47:04.833Z",
+            "metadata": {
+              "popularity": 15578,
+              "engagementCount": 7456257,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 611,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "deploy:azure",
+                  "deploy:sagemaker",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "m-a-p/YuE2-3B",
+          "url": "https://huggingface.co/m-a-p/YuE2-3B",
+          "summary": "Hugging Face üzerinde yayınlanan YuE2-3B, metinden sese dönüştürme (text-to-audio) yeteneğine sahip bir yapay zekâ modeli. Müzik ve ses üretimi süreçlerinde yüksek performanslı bir alternatif sunmayı amaçlıyor.",
+          "meta": "♥ 752 · 11.626 indirme",
+          "snapshot": {
+            "sourceId": "m-a-p/YuE2-3B",
+            "capturedAt": "2026-09-18T08:47:04.833Z",
+            "metadata": {
+              "popularity": 752,
+              "engagementCount": 11626,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 575,
+                "pipelineTag": "text-to-audio",
+                "tags": [
+                  "safetensors",
+                  "yue2",
+                  "music-generation",
+                  "symbolic-planning",
+                  "agentic-editing",
+                  "custom_code",
+                  "text-to-audio",
+                  "zh",
+                  "en",
+                  "arxiv:2503.08638",
+                  "license:cc-by-nc-4.0",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "TokenRhythm/NeoHorse-1-4B",
+          "url": "https://huggingface.co/TokenRhythm/NeoHorse-1-4B",
+          "summary": "TokenRhythm tarafından geliştirilen NeoHorse-1-4B, metin üretimi (text generation) odaklı bir yapay zekâ modelidir. Düşük parametre sayısı sayesinde donanım kaynaklarını verimli kullanarak hızlı metin oluşturma süreçleri sunar.",
+          "meta": "♥ 2.353 · 19.789 indirme",
+          "snapshot": {
+            "sourceId": "TokenRhythm/NeoHorse-1-4B",
+            "capturedAt": "2026-09-18T08:47:04.833Z",
+            "metadata": {
+              "popularity": 2353,
+              "engagementCount": 19789,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 479,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5_text",
+                  "text-generation",
+                  "agentic",
+                  "tool-use",
+                  "coding",
+                  "reasoning",
+                  "instruction-following",
+                  "conversational",
+                  "arxiv:2609.08183",
+                  "base_model:Qwen/Qwen3.5-4B",
+                  "base_model:finetune:Qwen/Qwen3.5-4B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
+          "url": "https://huggingface.co/papers/2609.20817",
+          "summary": "FAMOS, seyrek ve düzensiz nokta bulutlarından (point clouds) hareketli parçaları bölütleyerek eklem parametrelerini tahmin eden bir ileri beslemeli (feed-forward) modeldir. Tekil gözlemler yerine birden fazla veriyi bir arada işleyerek nesnelerin üç boyutlu eklemlenme yapısını daha doğru modellemeyi hedefler.",
+          "meta": "3 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.20817",
+            "capturedAt": "2026-09-18T08:47:04.842Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.20817",
+                "publishedAt": "2026-09-17T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation",
+          "url": "https://huggingface.co/papers/2609.20511",
+          "summary": "Politika içi damıtma (on-policy distillation) süreçlerinde, öğrenci modellerin gereğinden fazla uzun yanıtlar üretmesine yol açan uzunluk şişmesi (length inflation) sorunu inceleniyor. Araştırma, temel öğrenci modeller ile eğitim sonrası süreçten geçen öğretmen modellerin, durdurma belirteçleri (EOS tokens) konusunda yaşadığı uyumsuzluğun bu davranışa neden olduğunu ortaya koyuyor.",
+          "meta": "26 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.20511",
+            "capturedAt": "2026-09-18T08:47:04.842Z",
+            "metadata": {
+              "popularity": 26,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.20511",
+                "publishedAt": "2026-09-17T00:00:00.000Z",
+                "githubRepo": "https://github.com/UNCSciML/opd-eos",
+                "githubStars": 1
+              }
+            }
+          }
+        },
+        {
+          "title": "PACT: Can Enterprise AI Assistants Be Trusted Under Pressure?",
+          "url": "https://huggingface.co/papers/2609.18605",
+          "summary": "PACT, kurumsal yapay zekâ asistanlarının hassas süreçlerdeki uyumluluk kurallarını baskı altında ne derece koruduğunu ölçen bir değerlendirme çerçevesidir. İşe alım, sağlık ve finans gibi alanlarda kullanılan büyük dil modellerinin (large language models) kural ihlali eğilimlerini sistematik olarak analiz etmeyi amaçlar.",
+          "meta": "2 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.18605",
+            "capturedAt": "2026-09-18T08:47:04.842Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.18605",
+                "publishedAt": "2026-09-16T00:00:00.000Z",
+                "githubRepo": "https://github.com/trace-ai-labs/pact",
+                "githubStars": 4
+              }
+            }
+          }
+        },
+        {
+          "title": "WeVisDoc: From Coverage to Capability for Robust End-to-End Document Parsing",
+          "url": "https://huggingface.co/papers/2609.20423",
+          "summary": "WeVisDoc, belge görsellerini yapılandırılmış metne dönüştüren belge ayrıştırma (document parsing) süreçlerinde karşılaşılan veri yanlılığı sorununu iki aşamalı bir çerçeveyle çözüyor. Sistem, hem içerik çeşitliliğini artırarak hem de modelin zayıf noktalarını hedefleyen veri odaklı bir yaklaşımla uçtan uca ayrıştırma performansını güçlendiriyor.",
+          "meta": "8 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.20423",
+            "capturedAt": "2026-09-18T08:47:04.842Z",
+            "metadata": {
+              "popularity": 8,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.20423",
+                "publishedAt": "2026-09-17T00:00:00.000Z",
+                "githubRepo": "https://github.com/Tencent/WeVisDoc",
+                "githubStars": 9
+              }
+            }
+          }
+        },
+        {
+          "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning",
+          "url": "https://huggingface.co/papers/2609.20784",
+          "summary": "RetireOPD, pekiştirmeli öğrenme (reinforcement learning) ile eğitilen yapay zekâ ajanları için öğretmen modelin gözetimini aşamalara göre düzenleyen bir yöntem sunuyor. Bu yaklaşım, öğretmen modelin her zaman güvenilir olmadığı durumlarda öğrenci modelin kendi kendine damıtma (self-distillation) sürecini optimize ederek eğitim verimliliğini artırıyor.",
+          "meta": "9 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2609.20784",
+            "capturedAt": "2026-09-18T08:47:04.842Z",
+            "metadata": {
+              "popularity": 9,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.20784",
+                "publishedAt": "2026-09-17T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "I Don't Like LLMs",
+          "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+          "summary": "Yazılım uzmanı Martin Fowler, büyük dil modellerinin (large language models) yazılım geliştirme süreçlerine entegre edilmesine yönelik eleştirilerini paylaşıyor. Bu teknolojilerin kod kalitesi ve geliştirici yetkinliği üzerindeki olası olumsuz etkilerini sorgulayarak, otomasyonun getirdiği risklere dikkat çekiyor.",
+          "meta": "72 oy · 24 yorum",
+          "snapshot": {
+            "sourceId": "pkj7mf",
+            "capturedAt": "2026-09-18T08:47:05.119Z",
+            "metadata": {
+              "popularity": 72,
+              "engagementCount": 24,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/pkj7mf/i_don_t_like_llms",
+                  "popularity": 72,
+                  "engagementCount": 24
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-17T10:25:24.745-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/pkj7mf/i_don_t_like_llms",
+              "popularity": 72,
+              "engagementCount": 24
+            }
+          ]
+        },
+        {
+          "title": "Flock cameras are riddled with security vulnerabilities and hard-coded credentials",
+          "url": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/",
+          "summary": "Güvenlik araştırmacıları, plaka tanıma teknolojisi sunan Flock güvenlik kameralarında (Flock cameras) sisteme erişimi kolaylaştıran sabit kodlanmış kimlik bilgileri ve çeşitli güvenlik açıkları tespit etti. Bu bulgular, kolluk kuvvetleri ve özel mülkler tarafından yaygın kullanılan cihazların veri güvenliği konusunda risk taşıdığını gösteriyor.",
+          "meta": "50 oy · 3 yorum",
+          "snapshot": {
+            "sourceId": "eyg3oe",
+            "capturedAt": "2026-09-18T08:47:05.119Z",
+            "metadata": {
+              "popularity": 50,
+              "engagementCount": 3,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/eyg3oe/flock_cameras_are_riddled_with_security",
+                  "popularity": 50,
+                  "engagementCount": 3
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "reversing",
+                  "security"
+                ],
+                "createdAt": "2026-09-17T16:21:18.024-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/eyg3oe/flock_cameras_are_riddled_with_security",
+              "popularity": 50,
+              "engagementCount": 3
+            }
+          ]
+        },
+        {
+          "title": "The Golden Spike, and Resurrecting the Vale(n) Programming Language",
+          "url": "https://verdagon.dev/blog/golden-spike-reviving-vale-valen",
+          "summary": "Vale programlama dili, bellek güvenliğini yüksek performansla birleştiren yeni bir derleyici mimarisi olan Golden Spike ile yeniden geliştiriliyor. Bu çalışma, Vale dilinin sunduğu güvenli bellek yönetimi (memory safety) özelliklerini daha verimli bir altyapı üzerinde sunmayı hedefliyor.",
+          "meta": "50 oy · 8 yorum",
+          "snapshot": {
+            "sourceId": "fjnkn4",
+            "capturedAt": "2026-09-18T08:47:05.119Z",
+            "metadata": {
+              "popularity": 50,
+              "engagementCount": 8,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/fjnkn4/golden_spike_resurrecting_vale_n",
+                  "popularity": 50,
+                  "engagementCount": 8
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "plt",
+                  "rust"
+                ],
+                "createdAt": "2026-09-17T10:10:44.531-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/fjnkn4/golden_spike_resurrecting_vale_n",
+              "popularity": 50,
+              "engagementCount": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "LLM",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "skill",
+      "explanation": "Bir işi yapabilmek için sahip olunan özel yetenek veya uzmanlık alanı."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Karmaşık sistemleri tasarlamak, kurmak ve sorunlarını çözmek için gereken teknik beceriler bütünü."
+    },
+    {
+      "term": "agentic coding tool",
+      "explanation": "Sadece kod yazmakla kalmayıp, kendi başına kararlar alıp yazılım geliştirme süreçlerini yönetebilen akıllı araçlar."
+    },
+    {
+      "term": "NSA",
+      "explanation": "İnternet trafiğini ve dijital haberleşmeyi izleyerek güvenlik analizi yapan Amerikan ulusal istihbarat kurumu."
+    },
+    {
+      "term": "software reverse engineering",
+      "explanation": "Hazır bir yazılımın nasıl çalıştığını anlamak için kodlarını veya yapısını geriye doğru çözümleme süreci."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Yapay zekânın cevap üretirken kendi hafızası dışında güncel dış kaynaklardan bilgi çekmesini sağlayan yöntem."
+    },
+    {
+      "term": "launcher",
+      "explanation": "Bilgisayar veya telefonlardaki uygulamaları hızlıca bulup çalıştırmanızı sağlayan giriş ekranı veya araç."
+    },
+    {
+      "term": "native",
+      "explanation": "Bir cihazın veya işletim sisteminin kendi diliyle yazılmış, ekstra aracıya ihtiyaç duymadan doğrudan çalışan uygulama."
+    },
+    {
+      "term": "observability",
+      "explanation": "Bir yazılım sisteminin içindeki verileri izleyerek, sistemin neden düzgün çalışmadığını anlama yeteneği."
+    },
+    {
+      "term": "coding assistants",
+      "explanation": "Yazılım geliştirirken kod yazmanıza yardımcı olan, hataları bulan ve öneriler sunan yapay zekâ destekli araçlar."
+    },
+    {
+      "term": "computer vision",
+      "explanation": "Bilgisayarların dijital görüntüleri veya videoları analiz ederek insanlar gibi görmesini ve anlamlandırmasını sağlayan teknoloji."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "mixture of experts",
+      "explanation": "Karmaşık görevleri daha küçük ve uzmanlaşmış parçalara bölerek işleyen verimli yapay zekâ mimarisi."
+    },
+    {
+      "term": "ERP",
+      "explanation": "Bir şirketin muhasebe, üretim ve insan kaynakları gibi tüm iş süreçlerini tek bir merkezden yönetmesini sağlayan yazılım."
+    },
+    {
+      "term": "CRM",
+      "explanation": "Şirketlerin müşterileriyle olan ilişkilerini, satışlarını ve iletişim geçmişlerini takip etmelerini sağlayan sistem."
+    }
+  ]
+}

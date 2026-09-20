@@ -32,8 +32,8 @@ It increases it to the required level, and the excess remains idle.
 - [CPU](/en/dictionary/cpu/)
 
 ## Related tools
-- [Llmfit](/en/discover/llmfit/)
 - [Colibri](/en/discover/colibri/)
+- [Llmfit](/en/discover/llmfit/)
 - [Invidious](/en/discover/invidious/)
 - [Needle](/en/discover/needle/)
 

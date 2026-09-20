@@ -2,7 +2,7 @@
 
 Maigret durchsucht mehr als 3000 Websites anhand von Benutzernamen und erstellt ein Personendossier. Dieses mit Python entwickelte Tool automatisiert die Verfolgung des digitalen Fußabdrucks in Open-Source-Intelligence-Prozessen (OSINT).
 
-- ★ 37.089
+- ★ 37.763
 - Python
 - GitHub Trending · 2026-06-11
 

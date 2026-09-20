@@ -30,6 +30,7 @@ Pode ser um exagero para aplicações simples, mas é vital em sistemas de intel
 
 ## Ferramentas relacionadas
 - [Posthog](/pt/discover/posthog/)
+- [Cilium](/pt/discover/cilium/)
 - [iii](/pt/discover/iii/)
 
 ---

@@ -47,7 +47,7 @@ Headroom aracını kullanarak yapay zekâ ajanımın bağlamsal veri ve günlük
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-03 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-RAG Chunks Proxy RAG Token MCP LLM
+RAG Chunks Proxy Token RAG MCP LLM
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/headroom/

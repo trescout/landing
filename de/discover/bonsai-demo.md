@@ -2,7 +2,7 @@
 
 Das Bonsai-Demoprojekt bietet ein Toolset, das die Bereitstellungsprozesse von Modellen für maschinelles Lernen vereinfachen soll. Die Software hilft Entwicklern, ihre Anwendungsprozesse zu optimieren, indem sie komplexe Modellarchitekturen in überschaubare Arbeitsabläufe umwandelt.
 
-- ★ 1.587
+- ★ 2.706
 - Shell
 - GitHub Trending · 2026-07-17
 

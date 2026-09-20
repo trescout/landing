@@ -2,9 +2,12 @@
 
 Bonsai demo projesi, makine öğrenimi (machine learning) modellerinin dağıtım süreçlerini basitleştirmek için tasarlanmış bir araç seti sunuyor. Yazılım, karmaşık model mimarilerini yönetilebilir iş akışlarına dönüştürerek geliştiricilerin uygulama süreçlerini optimize etmesine yardımcı oluyor.
 
-- ★ 1.587
+- ★ 2.706
 - Shell
 - GitHub Trending · 2026-07-17
+
+## Güncelleme
+- 19 Eylül 2026: Yıldız 1.587 → 2.706.
 
 ## Ne kazandırır?
 - Düşük bellek kullanımıyla yüksek performanslı modelleri yerel olarak çalıştırır.

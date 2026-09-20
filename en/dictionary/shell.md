@@ -29,8 +29,8 @@ It may seem a little unfamiliar at first, but once you learn a few basic command
 ## Related tools
 - [Superpowers](/en/discover/superpowers/)
 - [Agency Agents](/en/discover/agency-agents/)
-- [NVM](/en/discover/nvm/)
 - [Agent Skills](/en/discover/agent-skills/)
+- [NVM](/en/discover/nvm/)
 - [Taste Skill](/en/discover/taste-skill/)
 - [Omarchy](/en/discover/omarchy/)
 - [Destructive Command Guard](/en/discover/destructive-command-guard/)

@@ -32,6 +32,7 @@ It can be written, but you have to code everything from scratch, which takes too
 - [Bindings](/en/dictionary/bindings/)
 
 ## Related tools
+- [Cline](/en/discover/cline/)
 - [Opendataloader PDF](/en/discover/opendataloader-pdf/)
 - [CUA](/en/discover/cua/)
 - [iii](/en/discover/iii/)
@@ -39,7 +40,6 @@ It can be written, but you have to code everything from scratch, which takes too
 - [CubeSandbox](/en/discover/cubesandbox/)
 - [Copilot SDK](/en/discover/copilot-sdk/)
 - [U3 SDK](/en/discover/u3-sdk/)
-- [SIE](/en/discover/sie/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/sdk/

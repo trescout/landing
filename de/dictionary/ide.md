@@ -31,6 +31,7 @@ Einige IDEs konzentrieren sich auf bestimmte Sprachen, während andere dank Plug
 - [Editor](/de/dictionary/editor/)
 
 ## Verwandte Werkzeuge
+- [Cline](/de/discover/cline/)
 - [Free Claude Code](/de/discover/free-claude-code/)
 - [Continue](/de/discover/continue/)
 - [Oh My Pi](/de/discover/oh-my-pi/)

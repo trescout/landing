@@ -2,12 +2,13 @@
 
 Superpowers , kodlama ajanlarınız için bileşik becerilerden oluşan kapsamlı bir yazılım geliştirme metodolojisidir. Ajan tabanlı iş akışlarını standartlaştırır. Claude Code, Codex CLI, Gemini CLI ve daha fazlasıyla birlikte çalışır.
 
-- ★ 286.413
+- ★ 288.623
 - Shell
 - MIT
 - GitHub Trending · 28 May 2026
 
 ## Güncelleme
+- 19 Eylül 2026: Yıldız 286.413 → 288.623, son sürüm v6.4.1 (19 Eylül 2026).
 - 14 Eylül 2026: Yıldız 272.477 → 286.413, son sürüm v6.3.0 (12 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 264.883 → 272.477, son sürüm v6.3.0 (12 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 209.561 → 264.883, son sürüm v6.2.0 (24 Temmuz 2026).

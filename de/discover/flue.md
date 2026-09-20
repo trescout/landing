@@ -2,7 +2,7 @@
 
 Flue wurde vom Astro-Team entwickelt und zeichnet sich durch ein TypeScript-basiertes Sandbox-Agent-Framework aus. Diese Struktur ermöglicht es Entwicklern, Agenten für künstliche Intelligenz in sicheren und isolierten Umgebungen zu erstellen.
 
-- ★ 8.255
+- ★ 8.295
 - TypeScript
 - GitHub Trending · 2026-06-06
 

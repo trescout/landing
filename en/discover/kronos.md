@@ -2,7 +2,7 @@
 
 Kronos is a foundation model designed to analyze the unique patterns of financial markets. It focuses on analyzing the complex structure of market data and is used in quantitative finance and machine learning studies.
 
-- ★ 37,285
+- ★ 39,218
 - Python
 - MIT
 - GitHub Trending · 28 May 2026

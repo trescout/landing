@@ -1,0 +1,642 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-19",
+  "capturedAt": "2026-09-19T08:33:22.858Z",
+  "editorial": "Este relatório contém as tendências que se destacaram pela primeira vez hoje, sem repetir os registros incluídos nos relatórios normais dos últimos 30 dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "Fission-AI/OpenSpec",
+          "url": "https://github.com/Fission-AI/OpenSpec",
+          "summary": "O OpenSpec padroniza o processo de desenvolvimento focado em especificações (spec-driven development) para assistentes de codificação assistidos por inteligência artificial. Ao definir requisitos técnicos em projetos de software, ele garante que a IA produza códigos mais consistentes e sem erros.",
+          "meta": "TypeScript · ★ 69.487 · +296 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "Fission-AI/OpenSpec",
+            "capturedAt": "2026-09-19T08:33:23.931Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 69487,
+              "engagementCount": 296,
+              "rank": 8,
+              "extra": {
+                "starsToday": 296
+              }
+            }
+          }
+        },
+        {
+          "title": "ankitects/anki",
+          "url": "https://github.com/ankitects/anki",
+          "summary": "O Anki é um software de flashcards que facilita o aprendizado usando o algoritmo de repetição espaçada (spaced repetition). Esta ferramenta de código aberto, desenvolvida na linguagem Rust, ajuda os usuários a transferir informações complexas para a memória de longo prazo.",
+          "meta": "Rust · ★ 31.283 · +174 hoje",
+          "snapshot": {
+            "sourceId": "ankitects/anki",
+            "capturedAt": "2026-09-19T08:33:23.931Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 31283,
+              "engagementCount": 174,
+              "rank": 9,
+              "extra": {
+                "starsToday": 174
+              }
+            }
+          }
+        },
+        {
+          "title": "supermemoryai/supermemory",
+          "url": "https://github.com/supermemoryai/supermemory",
+          "summary": "O Supermemory é um motor de contexto (context engine) que permite aos usuários armazenar seus conteúdos digitais e consultá-los com inteligência artificial. Ao oferecer a possibilidade de armazenar e processar dados localmente, ele cria uma infraestrutura de memória escalável para aplicações de inteligência artificial.",
+          "meta": "TypeScript · ★ 30.436 · +140 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "supermemoryai/supermemory",
+            "capturedAt": "2026-09-19T08:33:23.931Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 30436,
+              "engagementCount": 140,
+              "rank": 11,
+              "extra": {
+                "starsToday": 140
+              }
+            }
+          }
+        },
+        {
+          "title": "tradesdontlie/tradingview-mcp",
+          "url": "https://github.com/tradesdontlie/tradingview-mcp",
+          "summary": "O TradingView-mcp automatiza processos de análise técnica ao conectar a plataforma de gráficos financeiros TradingView ao assistente de inteligência artificial Claude Code. Esta integração padroniza a forma como os usuários analisam dados de mercado e gerenciam fluxos de trabalho de negociação.",
+          "meta": "JavaScript · ★ 6.538 · +79 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "tradesdontlie/tradingview-mcp",
+            "capturedAt": "2026-09-19T08:33:23.931Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 6538,
+              "engagementCount": 79,
+              "rank": 12,
+              "extra": {
+                "starsToday": 79
+              }
+            }
+          }
+        },
+        {
+          "title": "rustfs/rustfs",
+          "url": "https://github.com/rustfs/rustfs",
+          "summary": "O RustFS foi desenvolvido como um sistema de armazenamento de objetos de alto desempenho compatível com S3. Ele oferece suporte para interoperabilidade e migração de dados com outras plataformas compatíveis com S3, como MinIO e Ceph.",
+          "meta": "Rust · ★ 33.264 · +267 hoje",
+          "snapshot": {
+            "sourceId": "rustfs/rustfs",
+            "capturedAt": "2026-09-19T08:33:23.931Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 33264,
+              "engagementCount": 267,
+              "rank": 13,
+              "extra": {
+                "starsToday": 267
+              }
+            }
+          }
+        },
+        {
+          "title": "supabase/supabase",
+          "url": "https://github.com/supabase/supabase",
+          "summary": "O Supabase é uma plataforma de desenvolvimento baseada em PostgreSQL, um sistema de gerenciamento de banco de dados relacional para aplicações web e móveis. Ele oferece um serviço de backend que acelera os processos de desenvolvimento de aplicações sem a necessidade de uma configuração tradicional de banco de dados.",
+          "meta": "TypeScript · ★ 110.235 · +120 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "supabase/supabase",
+            "capturedAt": "2026-09-19T08:33:23.931Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 110235,
+              "engagementCount": 120,
+              "rank": 14,
+              "extra": {
+                "starsToday": 120
+              }
+            }
+          }
+        },
+        {
+          "title": "ahmedkhaleel2004/gitdiagram",
+          "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+          "summary": "O Gitdiagram é uma ferramenta que visualiza estruturas de arquivos complexas e relações de código em repositórios do GitHub. Ele cria diagramas interativos que facilitam a compreensão da arquitetura de projetos de software.",
+          "meta": "TypeScript · ★ 16.568 · +152 hoje",
+          "snapshot": {
+            "sourceId": "ahmedkhaleel2004/gitdiagram",
+            "capturedAt": "2026-09-19T08:33:23.931Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 16568,
+              "engagementCount": 152,
+              "rank": 16,
+              "extra": {
+                "starsToday": 152
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+          "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+          "summary": "Com a versão Android 17, o Google está disponibilizando novas interfaces de programação de aplicações (APIs) sem publicá-las através do projeto Android de código aberto (AOSP). Esta mudança de estratégia altera a tradição de compartilhar o código-fonte publicamente no desenvolvimento do sistema operacional.",
+          "meta": "799 pontos · 390 comentários",
+          "snapshot": {
+            "sourceId": "49758736",
+            "capturedAt": "2026-09-19T08:33:23.094Z",
+            "metadata": {
+              "popularity": 799,
+              "engagementCount": 390,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49758736",
+                  "popularity": 799,
+                  "engagementCount": 390
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "theanonymousone",
+                "createdAt": "2026-09-18T19:03:09Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49758736"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49758736",
+              "popularity": 799,
+              "engagementCount": 390
+            }
+          ]
+        },
+        {
+          "title": "Cloudflare Quick Tunnels",
+          "url": "https://try.cloudflare.com/",
+          "summary": "O Cloudflare Quick Tunnels é uma ferramenta de tunelamento que expõe servidores locais à internet sem exigir qualquer configuração. Este serviço, que permite aos desenvolvedores expor seus projetos locais (localhost) ao mundo exterior de forma segura, oferece acesso rápido sem a necessidade de lidar com configurações de rede complexas.",
+          "meta": "691 pontos · 275 comentários",
+          "snapshot": {
+            "sourceId": "49754785",
+            "capturedAt": "2026-09-19T08:33:23.094Z",
+            "metadata": {
+              "popularity": 691,
+              "engagementCount": 275,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49754785",
+                  "popularity": 691,
+                  "engagementCount": 275
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "jcbhmr",
+                "createdAt": "2026-09-18T14:18:41Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49754785"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49754785",
+              "popularity": 691,
+              "engagementCount": 275
+            }
+          ]
+        },
+        {
+          "title": "OpenJev",
+          "url": "https://openjev.com/",
+          "summary": "O OpenJev é uma ferramenta de monitoramento de código aberto que rastreia o desempenho de aplicações Java. Ao visualizar os recursos do sistema e as métricas da aplicação, ele auxilia os desenvolvedores de software nos processos de depuração e otimização.",
+          "meta": "620 pontos · 259 comentários",
+          "snapshot": {
+            "sourceId": "49752041",
+            "capturedAt": "2026-09-19T08:33:23.094Z",
+            "metadata": {
+              "popularity": 620,
+              "engagementCount": 259,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49752041",
+                  "popularity": 620,
+                  "engagementCount": 259
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "ilreb",
+                "createdAt": "2026-09-18T09:42:22Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49752041"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49752041",
+              "popularity": 620,
+              "engagementCount": 259
+            }
+          ]
+        },
+        {
+          "title": "How to Write with an LLM",
+          "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+          "summary": "Ao gerar texto com grandes modelos de linguagem (large language models), posicionar a inteligência artificial como um assistente que cria rascunhos ou edita, em vez de um autor, aumenta a produtividade. Os usuários obtêm resultados mais originais quando orientam o processo estruturando suas próprias ideias, em vez de pedir à IA que escreva o texto diretamente.",
+          "meta": "482 pontos · 320 comentários",
+          "snapshot": {
+            "sourceId": "49747070",
+            "capturedAt": "2026-09-19T08:33:23.094Z",
+            "metadata": {
+              "popularity": 482,
+              "engagementCount": 320,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49747070",
+                  "popularity": 482,
+                  "engagementCount": 320
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "joeriddles",
+                "createdAt": "2026-09-17T21:48:38Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49747070"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49747070",
+              "popularity": 482,
+              "engagementCount": 320
+            }
+          ]
+        },
+        {
+          "title": "Saving another 100TB of RAM",
+          "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+          "summary": "A Cloudflare conseguiu reduzir em 100 terabytes a quantidade de memória utilizada em sua infraestrutura de rede de distribuição de conteúdo (CDN) por meio de otimizações matemáticas e técnicas de compressão de dados. Este método aumenta a eficiência do hardware ao reduzir o uso de memória em servidores com tráfego intenso.",
+          "meta": "347 pontos · 68 comentários",
+          "snapshot": {
+            "sourceId": "49758580",
+            "capturedAt": "2026-09-19T08:33:23.094Z",
+            "metadata": {
+              "popularity": 347,
+              "engagementCount": 68,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49758580",
+                  "popularity": 347,
+                  "engagementCount": 68
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "f311a",
+                "createdAt": "2026-09-18T18:51:46Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49758580"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49758580",
+              "popularity": 347,
+              "engagementCount": 68
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+          "summary": "Ternary-Bonsai-2-27B, desenvolvido pela Prism-ml, é um modelo de inteligência artificial focado em geração de texto (text generation). O modelo utiliza o método de quantização ternária (ternary quantization) para executar uma estrutura de alta parametrização com menor consumo de memória.",
+          "meta": "♥ 1.020 · 405.609 downloads",
+          "snapshot": {
+            "sourceId": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+            "capturedAt": "2026-09-19T08:33:22.949Z",
+            "metadata": {
+              "popularity": 1020,
+              "engagementCount": 405609,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 971,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "llama.cpp",
+                  "gguf",
+                  "ternary",
+                  "2-bit",
+                  "llama-cpp",
+                  "cuda",
+                  "metal",
+                  "on-device",
+                  "hybrid-attention",
+                  "prismml",
+                  "bonsai",
+                  "text-generation",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:quantized:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Verifiable Social Reasoning for LLM Assistants",
+          "url": "https://huggingface.co/papers/2609.17496",
+          "summary": "Fuse é uma estrutura de simulação multiagente desenvolvida para medir as habilidades de raciocínio de grandes modelos de linguagem (large language models) em situações sociais. Este sistema visa testar as inferências sociais da IA em cenários subjetivos baseados em narrativas de usuários de uma forma verificável.",
+          "meta": "25 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2609.17496",
+            "capturedAt": "2026-09-19T08:33:22.954Z",
+            "metadata": {
+              "popularity": 25,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.17496",
+                "publishedAt": "2026-09-15T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Self-Evolving Search Index",
+          "url": "https://huggingface.co/papers/2609.19656",
+          "summary": "O índice de busca autoevolutivo (self-evolving search index) otimiza dinamicamente as representações de documentos nos processos de acesso à informação de grandes modelos de linguagem (large language models). Ao contrário das estratégias de índice fixo, este método visa melhorar a qualidade da busca adaptando-se a diferentes ambientes de recuperação de informação.",
+          "meta": "19 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2609.19656",
+            "capturedAt": "2026-09-19T08:33:22.954Z",
+            "metadata": {
+              "popularity": 19,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.19656",
+                "publishedAt": "2026-09-17T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Sample Count Is Not Enough: Candidate-Generation Strategy Shapes the Energy and Performance of LLM Test-Time Scaling",
+          "url": "https://huggingface.co/papers/2609.19499",
+          "summary": "O escalonamento em tempo de teste (test-time scaling) em grandes modelos de linguagem (large language models) está diretamente relacionado não apenas ao número de respostas candidatas geradas, mas também ao método pelo qual esses candidatos são criados. A pesquisa revela que estratégias de geração em lote ou sequencial afetam o desempenho de raciocínio e o consumo de energia do modelo de maneiras diferentes.",
+          "meta": "14 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2609.19499",
+            "capturedAt": "2026-09-19T08:33:22.954Z",
+            "metadata": {
+              "popularity": 14,
+              "engagementCount": 2,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.19499",
+                "publishedAt": "2026-09-16T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "VākQA: A Benchmark and Evaluation Study for Telugu Spoken Factoid Question Answering",
+          "url": "https://huggingface.co/papers/2609.19879",
+          "summary": "VākQA é um novo conjunto de dados de referência (benchmark) desenvolvido para avaliar sistemas de perguntas e respostas baseados em conversação no idioma telugu. Contendo 2.001 pares de perguntas e respostas em seis áreas diferentes e 2,5 horas de gravação de áudio, este estudo visa medir a precisão de modelos de IA de voz em idiomas sub-representados.",
+          "meta": "12 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2609.19879",
+            "capturedAt": "2026-09-19T08:33:22.954Z",
+            "metadata": {
+              "popularity": 12,
+              "engagementCount": 2,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.19879",
+                "publishedAt": "2026-09-17T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Don't Mask the Environment: Observation Supervision Changes How Agents Explore Under RL",
+          "url": "https://huggingface.co/papers/2609.20715",
+          "summary": "O método ActObs, utilizado em processos de aprendizagem por reforço (reinforcement learning), aumenta a eficiência do treinamento ao permitir que os agentes prevejam não apenas suas ações, mas também as observações do ambiente. Essa abordagem melhora as capacidades de exploração dos agentes ao incluir tokens de observação (observation tokens) no processo de ajuste fino supervisionado (supervised fine-tuning).",
+          "meta": "15 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2609.20715",
+            "capturedAt": "2026-09-19T08:33:22.954Z",
+            "metadata": {
+              "popularity": 15,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.20715",
+                "publishedAt": "2026-09-17T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Typst makes big strides",
+          "url": "https://lwn.net/Articles/1092993/",
+          "summary": "Typst é um sistema de composição tipográfica (typesetting system) de nova geração que permite preparar documentos complexos com uma estrutura semelhante à escrita de código. Ele facilita os processos de preparação de documentos ao oferecer tempos de compilação mais rápidos e uma sintaxe amigável em comparação com ferramentas tradicionais como o LaTeX.",
+          "meta": "83 pontos · 11 comentários",
+          "snapshot": {
+            "sourceId": "j4oyxa",
+            "capturedAt": "2026-09-19T08:33:23.049Z",
+            "metadata": {
+              "popularity": 83,
+              "engagementCount": 11,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/j4oyxa/typst_makes_big_strides",
+                  "popularity": 83,
+                  "engagementCount": 11
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "a11y",
+                  "programming"
+                ],
+                "createdAt": "2026-09-18T08:14:17.568-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/j4oyxa/typst_makes_big_strides",
+              "popularity": 83,
+              "engagementCount": 11
+            }
+          ]
+        },
+        {
+          "title": "I don't like passkeys",
+          "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+          "summary": "As chaves de acesso (passkeys) são uma tecnologia de segurança que visa substituir as senhas tradicionais e fornecer autenticação baseada em dispositivo. Os autores argumentam que este sistema limita a experiência do usuário devido à dependência do dispositivo e à complexidade nos processos de backup.",
+          "meta": "51 pontos · 27 comentários",
+          "snapshot": {
+            "sourceId": "4a7qly",
+            "capturedAt": "2026-09-19T08:33:23.049Z",
+            "metadata": {
+              "popularity": 51,
+              "engagementCount": 27,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/4a7qly/i_don_t_like_passkeys",
+                  "popularity": 51,
+                  "engagementCount": 27
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "security"
+                ],
+                "createdAt": "2026-09-18T07:52:18.949-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/4a7qly/i_don_t_like_passkeys",
+              "popularity": 51,
+              "engagementCount": 27
+            }
+          ]
+        },
+        {
+          "title": "There's no point at which turning your brain off will work",
+          "url": "https://danluu.com/brain-off/",
+          "summary": "O artigo escrito por Dan Luu discute os riscos de reduzir o esforço mental ou confiar na automação em sistemas complexos. Ele argumenta que desativar completamente a atenção em processos técnicos leva a problemas inesperados em áreas críticas, como depuração (debugging) e gerenciamento de sistemas.",
+          "meta": "23 pontos · 7 comentários",
+          "snapshot": {
+            "sourceId": "dd6if1",
+            "capturedAt": "2026-09-19T08:33:23.049Z",
+            "metadata": {
+              "popularity": 23,
+              "engagementCount": 7,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/dd6if1/there_s_no_point_at_which_turning_your",
+                  "popularity": 23,
+                  "engagementCount": 7
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-18T12:15:40.357-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/dd6if1/there_s_no_point_at_which_turning_your",
+              "popularity": 23,
+              "engagementCount": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "LLM",
+      "explanation": "Modelos de inteligência artificial treinados com dados massivos, capazes de entender a linguagem humana e gerar texto."
+    },
+    {
+      "term": "spec-driven development",
+      "explanation": "Método de desenvolvimento que define detalhadamente como o sistema funcionará com regras específicas antes de começar a escrever o código."
+    },
+    {
+      "term": "spaced repetition",
+      "explanation": "Técnica de aprendizagem que permite a repetição de informações em intervalos específicos para evitar o esquecimento."
+    },
+    {
+      "term": "context engine",
+      "explanation": "Sistema que fornece conversas passadas e informações atualizadas à inteligência artificial para que ela dê respostas mais precisas."
+    },
+    {
+      "term": "object storage system",
+      "explanation": "Método de armazenamento em larga escala que armazena dados com identificadores únicos em vez de uma hierarquia de arquivos."
+    },
+    {
+      "term": "backend",
+      "explanation": "A parte de bastidores do software que o usuário não vê, onde os dados são processados e executados no servidor."
+    },
+    {
+      "term": "API",
+      "explanation": "Uma interface que atua como uma ponte, permitindo que dois softwares diferentes troquem dados entre si."
+    },
+    {
+      "term": "AOSP",
+      "explanation": "A versão básica do sistema operacional usado em smartphones que é acessível a todos."
+    },
+    {
+      "term": "localhost",
+      "explanation": "A condição em que um software funciona apenas no computador em uso, sem se conectar à internet."
+    },
+    {
+      "term": "monitoring tool",
+      "explanation": "Softwares que monitoram continuamente se os sistemas estão funcionando corretamente e emitem alertas em caso de erro."
+    }
+  ]
+}

@@ -33,8 +33,8 @@ Nein, bei sehr kleinen und einfachen Projekten reichen manchmal nur einfache Cod
 - [Angular](/de/discover/angular/)
 - [Tailwindcss](/de/discover/tailwindcss/)
 - [Nuxt](/de/discover/nuxt/)
-- [Cypress](/de/discover/cypress/)
 - [Hyperframes](/de/discover/hyperframes/)
+- [Cypress](/de/discover/cypress/)
 - [CLI-Anything](/de/discover/cli-anything/)
 
 ---

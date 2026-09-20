@@ -2,7 +2,7 @@
 
 Maigret verifica mais de 3.000 sites com base em nomes de usuário e cria um dossiê de pessoas. Desenvolvida com Python, esta ferramenta automatiza o rastreamento da pegada digital em processos de inteligência de código aberto (OSINT).
 
-- ★ 37.089
+- ★ 37.763
 - Python
 - GitHub Trending · 2026-06-11
 

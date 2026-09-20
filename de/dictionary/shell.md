@@ -27,8 +27,8 @@ Es mag auf den ersten Blick etwas ungewohnt erscheinen, aber sobald Sie ein paar
 ## Verwandte Werkzeuge
 - [Superpowers](/de/discover/superpowers/)
 - [Agency Agents](/de/discover/agency-agents/)
-- [NVM](/de/discover/nvm/)
 - [Agent Skills](/de/discover/agent-skills/)
+- [NVM](/de/discover/nvm/)
 - [Taste Skill](/de/discover/taste-skill/)
 - [Omarchy](/de/discover/omarchy/)
 - [Destructive Command Guard](/de/discover/destructive-command-guard/)

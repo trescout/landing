@@ -33,8 +33,8 @@ Non, dans des projets très petits et simples, seuls des codes de base peuvent p
 - [Angular](/fr/discover/angular/)
 - [Tailwindcss](/fr/discover/tailwindcss/)
 - [Nuxt](/fr/discover/nuxt/)
-- [Cypress](/fr/discover/cypress/)
 - [Hyperframes](/fr/discover/hyperframes/)
+- [Cypress](/fr/discover/cypress/)
 - [CLI-Anything](/fr/discover/cli-anything/)
 
 ---

@@ -27,8 +27,8 @@ Puede parecer un poco desconocido al principio, pero una vez que aprende algunos
 ## Herramientas relacionadas
 - [Superpowers](/es/discover/superpowers/)
 - [Agency Agents](/es/discover/agency-agents/)
-- [NVM](/es/discover/nvm/)
 - [Agent Skills](/es/discover/agent-skills/)
+- [NVM](/es/discover/nvm/)
 - [Taste Skill](/es/discover/taste-skill/)
 - [Omarchy](/es/discover/omarchy/)
 - [Destructive Command Guard](/es/discover/destructive-command-guard/)

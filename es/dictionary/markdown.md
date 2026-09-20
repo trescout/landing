@@ -32,8 +32,8 @@ Puedes abrirlo con cualquier editor de texto, pero puedes leerlo formateado más
 - [Firecrawl](/es/discover/firecrawl/)
 - [PaddleOCR](/es/discover/paddleocr/)
 - [Crawl4AI](/es/discover/crawl4ai/)
-- [Scrapling](/es/discover/scrapling/)
 - [MinerU](/es/discover/mineru/)
+- [Scrapling](/es/discover/scrapling/)
 - [Obsidian Skills](/es/discover/obsidian-skills/)
 - [Book to Skill](/es/discover/book-to-skill/)
 

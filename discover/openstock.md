@@ -2,12 +2,13 @@
 
 OpenStock , pahalı borsa platformlarına karşı geliştirilmiş açık kaynaklı bir alternatiftir. Gerçek zamanlı fiyat takibi, kişiselleştirilmiş uyarılar ve şirket analizleri sunar. Herkes için erişilebilir ve sonsuza dek ücretsizdir.
 
-- ★ 14.018
+- ★ 15.130
 - TypeScript
 - AGPL-3.0
 - GitHub Trending · 26 May 2026
 
 ## Güncelleme
+- 18 Eylül 2026: Yıldız 14.018 → 15.130.
 - 2 Ağustos 2026: Yıldız 11.968 → 14.018.
 
 - **Kimin için:** Borsa/hisse takip etmek isteyenler 
@@ -59,7 +60,7 @@ Lisans: AGPL-3.0 · Hazır siteyi kullanmak serbest. Ancak projeyi değiştirir,
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun keşif tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Self-hosting Clone Artificial Intelligence
+Self-hosting Clone Localhost Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openstock/
