@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Features nedir? · TreScout Sözlük</title>
-<meta name="description" content="Bir yazılımın veya ürünün kullanıcılara sunduğu belirgin yetenekler ve fonksiyonlar.">
+<title>Features Ne Demek, Nedir? Ürün ve Makine Öğrenimi Rehberi · TreScout</title>
+<meta name="description" content="Features ne demek, nedir ve yazılımda nasıl kullanılır? Ürün özellikleri, feature flag mimarisi ve makine öğreniminde öznitelik mühendisliği rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/features/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/features/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/features/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/features/">
 <link rel="canonical" href="https://trescout.com/dictionary/features/">
-<meta property="og:title" content="Features nedir?">
-<meta property="og:description" content="Bir yazılımın veya ürünün kullanıcılara sunduğu belirgin yetenekler ve fonksiyonlar.">
+<meta property="og:title" content="Features Ne Demek, Nedir? Ürün ve Makine Öğrenimi Rehberi">
+<meta property="og:description" content="Features ne demek, nedir ve yazılımda nasıl kullanılır? Ürün özellikleri, feature flag mimarisi ve makine öğreniminde öznitelik mühendisliği rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/features/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,15 +24,17 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Features nedir?">
+<meta name="twitter:title" content="Features Ne Demek, Nedir? Ürün ve Makine Öğrenimi Rehberi">
+<meta name="twitter:description" content="Features ne demek, nedir ve yazılımda nasıl kullanılır? Ürün özellikleri, feature flag mimarisi ve makine öğreniminde öznitelik mühendisliği rehberi.">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/features.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Features",
+  "alternateName": "Özellikler",
   "inLanguage": "tr",
-  "description": "Features, bir uygulamanın ne yapabildiğini tanımlayan özelliklerdir. Örneğin bir fotoğraf düzenleme uygulamasında 'kırmızı göz düzeltme' veya 'filtre uygulama' birer özelliktir. Bu özellikler, ürünün kullanıcıya sağladığı faydayı somutlaştırır.",
+  "description": "Features (özellikler), yazılım mühendisliğinde kullanıcıya sunulan işlevleri; makine öğreniminde ise tahmin üretmek için kullanılan matematiksel öznitelikleri ifade eder.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -48,10 +50,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Her özellik iyi midir?",
+      "name": "Features ne demek ve Türkçe karşılığı nedir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Hayır, bazen çok fazla özellik eklemek uygulamayı karmaşıklaştırır ve 'bloatware' dediğimiz şişkinliğe neden olur."
+        "text": "İngilizce kökenli bir terim olup Türkçede 'özellikler' anlamına gelir. Ürün geliştirmede bir yazılımın sunduğu işlevleri, makine öğreniminde ise tahminleme için kullanılan matematiksel 'öznitelikleri' ifade eder."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Feature flag (özellik bayrağı) mimarisi ne işe yarar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yeni kodları canlı sunucuya gönderip risk almadan, özelliği belirli kullanıcılara dinamik olarak açıp kapatmaya, A/B testi yapmaya ve olası hatalarda kodu geri çekmeden özelliği kapatmaya yarayan anahtarlama sistemidir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Makine öğreniminde feature engineering neden başarının yüzde seksenidir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "En gelişmiş derin öğrenme modeli bile kalitesiz ve gürültülü özniteliklerle doğru tahmin üretemez. Ham veriyi doğru matematiksel gösterimlere ve ayırt edici değişkenlere dönüştürmek model başarımını doğrudan belirler."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Feature creep (özellik şişkinliği) ürünleri nasıl yok eder?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Her müşteri talebini plansızca ürüne eklemek, yazılımı yavaşlatır, arayüzü karmaşıklaştırır, test süreçlerini zorlaştırır ve ürünün odaklandığı ana değer önerisini yok eder."
       }
     }
   ]
@@ -59,14 +85,11 @@
 </script>
 <link rel="alternate" type="text/markdown" href="/dictionary/features.md">
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
-      <link rel="preload" href="/assets/fonts/inter-latin-ext.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/inter-latin-ext.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
-
-<meta name="twitter:description" content="Bir yazılımın veya ürünün kullanıcılara sunduğu belirgin yetenekler ve fonksiyonlar.">
-
-<meta property="og:image:alt" content="Features nedir?">
+<meta property="og:image:alt" content="Features ne demek, nedir?">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
@@ -74,12 +97,102 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-07-16">Son güncelleme: 16 Temmuz 2026</time></div>
-<h1 class="disc-title">Features <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
+<h1 class="disc-title">Features <span class="disc-accent">ne demek, nedir?</span></h1>
 
-<p class="disc-lead">Bir yazılımın veya ürünün kullanıcılara sunduğu belirgin yetenekler ve fonksiyonlar.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Features, bir uygulamanın ne yapabildiğini tanımlayan özelliklerdir. Örneğin bir fotoğraf düzenleme uygulamasında &#x27;kırmızı göz düzeltme&#x27; veya &#x27;filtre uygulama&#x27; birer özelliktir. Bu özellikler, ürünün kullanıcıya sağladığı faydayı somutlaştırır.</p></section><div class="dict-analogy">Bir arabanın kliması, hız sabitleyicisi veya geri görüş kamerası gibi, sürüş deneyimini iyileştiren ek donanımlar gibidir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Geliştiriciler, kullanıcıların ihtiyaçlarını analiz ederek hangi özelliklerin (features) yazılıma ekleneceğine karar verir. Bu özellikler kodlanır, test edilir ve güncellemelerle kullanıcıya sunulur.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Yazılım geliştirme süreçlerinde, ürün yönetimi toplantılarında ve uygulama tanıtımlarında sıkça kullanılır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Tool (araç) ile karıştırılabilir; özellik (feature) ürünün parçasıdır, araç (tool) ise işi yapmak için kullanılan dış bir yardımcıdır.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Her özellik iyi midir?</p><p class="dict-faq-a">Hayır, bazen çok fazla özellik eklemek uygulamayı karmaşıklaştırır ve &#x27;bloatware&#x27; dediğimiz şişkinliğe neden olur.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/tools/">Tools</a><a href="/dictionary/tech-stack/">Tech Stack</a><a href="/dictionary/application/">Application</a></div></section>
-<section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/yimmenuv2/">YimMenuV2</a></div></section>
+<p class="disc-lead">Features (özellikler), bilişim dünyasında iki kritik alanda temel yapı taşıdır: Yazılım mühendisliği ve ürün yönetiminde kullanıcıya sunulan fonksiyonel yetenekler; veri bilimi ve makine öğreniminde ise modellerin tahmin üretmek için kullandığı matematiksel özniteliklerdir.</p>
+
+<section class="disc-sec">
+<h2>Etimoloji ve İkili Anlam Alanı</h2>
+<p>İngilizce kökenli <em>feature</em> sözcüğü, köken olarak bir nesnenin veya yüzün belirgin niteliğini, karakteristik çizgisini ifade eder. Bilişim ve teknoloji ekosisteminde bu terim arama motorlarında sıklıkla &quot;ne demek&quot; sorgusuyla aratılmakta olup, karşılaşılan bağlama göre tamamen farklı iki disipline işaret eder:</p>
+<p>1. <strong>Yazılım ve Ürün Geliştirme:</strong> Bir uygulamanın ne yapabildiğini, kullanıcının hangi problemini çözdüğünü belirten fonksiyonel kabiliyetler (arama çubuğu, tek tıkla ödeme, karanlık mod).<br>
+2. <strong>Yapay Zekâ ve Makine Öğrenimi:</strong> Bir veri örneğini tanımlayan ölçülebilir değişkenler, yani matematiksel <strong>öznitelikler</strong> (bir evin metrekaresi, kelime frekansı, piksel renk vektörü).</p>
+</section>
+
+<section class="disc-sec">
+<h2>1. Yazılım Mühendisliği ve Ürün Yönetiminde Features</h2>
+<p>Modern ürün yönetiminde bir özellik, salt kod satırlarından ibaret değildir; kullanıcı ihtiyacı ile iş değeri arasındaki köprüdür.</p>
+
+<h3>Özellik Hiyerarşisi ve MVP Kapsamı</h3>
+<p>Çevik (Agile) ürün yönetiminde özellikler katmanlı bir piramit içinde modellenir:</p>
+<p>- <strong>Tema ve Girişim (Initiative):</strong> &quot;Platform güvenliğini artırmak&quot;.<br>
+- <strong>Epik (Epic):</strong> &quot;İki faktörlü kimlik doğrulama altyapısı&quot;.<br>
+- <strong>Özellik (Feature):</strong> &quot;SMS ve Authenticator uygulaması ile doğrulama ekranı&quot;.<br>
+- <strong>Kullanıcı Hikâyesi (User Story):</strong> &quot;Bir son kullanıcı olarak, hesabımı korumak için tek kullanımlık kod girmek istiyorum&quot;.</p>
+<p>Yeni bir dijital ürün inşa edilirken yapılan en büyük hata, tüm hayal edilen özellikleri aynı anda kodlamaya çalışmaktır. <strong>MVP (Minimum Viable Product)</strong> felsefesi, pazara en yalın haliyle çıkan ve yalnızca temel değer önerisini karşılayan çekirdek özellikler (core features) üzerine kurulmalıdır.</p>
+
+<h3>Feature Flags (Özellik Bayrakları) Mimarisi</h3>
+<p>Modern sürekli dağıtım (Continuous Deployment) süreçlerinde kodun canlıya alınması ile kullanıcılara açılması birbirinden ayrılmıştır. Bu ayrımı sağlayan mimari modele <strong>Feature Flags (Feature Toggles)</strong> adı verilir:</p>
+<p>- <strong>Sıfır Kesintiyle Yayınlama:</strong> Yeni bir özellik kodlanır ve ana dala (trunk) birleştirilip canlıya gönderilir; ancak bayrak kapalı olduğu için son kullanıcılar bunu görmez.<br>
+- <strong>Canary ve A/B Testleri:</strong> Bayrak aracılığıyla yeni özellik önce şirket çalışanlarına, ardından trafiğin %5'ine açılır. Hata oranı ve performans metrikleri izlenir.<br>
+- <strong>Acil Durum Düğmesi (Kill Switch):</strong> Canlı ortamda bir çökme veya veritabanı darboğazı yaşandığında, kodu geri almaya (rollback) gerek kalmadan bayrak kapatılarak özellik milisaniyeler içinde devreden çıkarılır.<br>
+- <strong>Teknik Borç Uyarısı:</strong> Süresi dolmuş ve herkese açılmış bayrakların kod tabanından temizlenmemesi, &quot;Dead Flag&quot; teknik borcuna yol açar.</p>
+</section>
+
+<section class="disc-sec">
+<h2>2. Makine Öğrenimi ve Veri Biliminde Features (Öznitelikler)</h2>
+<p>Yapay zekâ ve veri biliminde &quot;feature&quot;, tahminleme algoritmalarının girdi olarak aldığı sayısal veya kategorik niteliklerdir.</p>
+
+<h3>Öznitelik Mühendisliği (Feature Engineering)</h3>
+<p>Ham veriler doğrudan makine öğrenimi modellerine beslenemez. Ham verinin modelin anlayabileceği matematiksel ifadelere dönüştürülmesine öznitelik mühendisliği denir:</p>
+<p>- <strong>Kategorik Dönüştürme:</strong> Şehir isimleri veya ürün tiplerinin One-Hot Encoding ile ikili (0/1) vektörlere çevrilmesi.<br>
+- <strong>Ölçekleme (Scaling):</strong> Yaş (18-80) ile gelir (10.000-500.000) gibi farklı büyüklükteki sayısal değerlerin Standardizasyon veya Min-Max ölçekleme ile dengelenmesi.<br>
+- <strong>Metin ve Görüntü Gömmeleri (Embeddings):</strong> Doğal dildeki kelimelerin ve cümlelerin yüzlerce boyutlu yoğun vektörlere (Word2Vec, Transformer embeddings) dönüştürülmesi.</p>
+
+<h3>Boyut Laneti ve Feature Selection</h3>
+<p>Veri kümesine rastgele onlarca yeni özellik eklemek başarıyı artırmaz; aksine <strong>Boyut Laneti (Curse of Dimensionality)</strong> problemine yol açar. Model aşırı öğrenme (overfitting) yaşar ve eğitim süresi katlanarak artar. Bu nedenle PCA (Temel Bileşen Analizi), Lasso regülasyonu veya Bilgi Kazanımı (Information Gain) gibi yöntemlerle en ayırt edici öznitelikler seçilir.</p>
+
+<h3>Feature Store (Öznitelik Deposu) Mimarisi</h3>
+<p>Kurumsal yapay zekâ sistemlerinde (Feast, Hopsworks, Tecton) modellerin eğitiminde kullanılan veriler ile canlı çıkarım (inference) anındaki verilerin birebir tutarlı olması gerekir. Feature Store mimarisi, modeller arasındaki &quot;Train-Serving Skew&quot; (eğitim-hizmet sapması) riskini tamamen ortadan kaldırır.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Feature Creep (Şişkinlik) ve Anti-Pattern'ler</h2>
+<p>Yazılım ürünlerinde karşılaşılan en kritik risklerden biri <strong>Feature Creep (Kapsam ve Özellik Şişkinliği)</strong> olarak adlandırılır:</p>
+<p>- Kullanıcıların sadece %1'inin talep ettiği uç senaryolar için karmaşık butonlar ve ayarlar eklenmesi, arayüzü anlaşılmaz kılar.<br>
+- Kod tabanındaki karmaşıklık katsayısı (Cyclomatic Complexity) ve bakım maliyeti logaritmik olarak tırmanır.<br>
+- Unix felsefesinin en büyük öğretisi şudur: <em>&quot;Tek bir iş yap ve onu mükemmel yap.&quot;</em> En başarılı dijital ürünler, yüzlerce vasat özelliğe değil; pürüzsüz çalışan birkaç kritik özelliğe sahip olanlardır.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Sıkça Sorulanlar</h2>
+<div class="dict-faq">
+<div class="dict-faq-item">
+<p class="dict-faq-q">Features ne demek ve Türkçe karşılığı nedir?</p>
+<p class="dict-faq-a">İngilizce kökenli bir terim olup Türkçede 'özellikler' anlamına gelir. Ürün geliştirmede bir yazılımın sunduğu işlevleri, makine öğreniminde ise tahminleme için kullanılan matematiksel 'öznitelikleri' ifade eder.</p>
+</div>
+<div class="dict-faq-item">
+<p class="dict-faq-q">Feature flag (özellik bayrağı) mimarisi ne işe yarar?</p>
+<p class="dict-faq-a">Yeni kodları canlı sunucuya gönderip risk almadan, özelliği belirli kullanıcılara dinamik olarak açıp kapatmaya, A/B testi yapmaya ve olası hatalarda kodu geri çekmeden özelliği kapatmaya yarayan anahtarlama sistemidir.</p>
+</div>
+<div class="dict-faq-item">
+<p class="dict-faq-q">Makine öğreniminde feature engineering neden başarının yüzde seksenidir?</p>
+<p class="dict-faq-a">En gelişmiş derin öğrenme modeli bile kalitesiz ve gürültülü özniteliklerle doğru tahmin üretemez. Ham veriyi doğru matematiksel gösterimlere ve ayırt edici değişkenlere dönüştürmek model başarımını doğrudan belirler.</p>
+</div>
+<div class="dict-faq-item">
+<p class="dict-faq-q">Feature creep (özellik şişkinliği) ürünleri nasıl yok eder?</p>
+<p class="dict-faq-a">Her müşteri talebini plansızca ürüne eklemek, yazılımı yavaşlatır, arayüzü karmaşıklaştırır, test süreçlerini zorlaştırır ve ürünün odaklandığı ana değer önerisini yok eder.</p>
+</div>
+</div>
+</section>
+
+<section class="disc-sec">
+<h2>İlgili terimler</h2>
+<div class="dict-related">
+<a href="/dictionary/tools/">Tools</a>
+<a href="/dictionary/tech-stack/">Tech Stack</a>
+<a href="/dictionary/deployment/">Deployment</a>
+<a href="/dictionary/application/">Application</a>
+</div>
+</section>
+
+<section class="disc-sec">
+<h2>İlgili araçlar</h2>
+<div class="dict-related">
+<a href="/discover/yimmenuv2/">YimMenuV2</a>
+</div>
+</section>
+
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>
@@ -115,18 +228,17 @@
       <div class="footer-col">
         <div class="footer-col-title">Sosyal medya</div>
         <ul>
-          <li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X</a></li>
+          <li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener">X / Twitter</a></li>
+          <li><a href="https://github.com/GetTreScout" target="_blank" rel="noopener">GitHub</a></li>
+          <li><a href="https://linkedin.com/company/trescout" target="_blank" rel="noopener">LinkedIn</a></li>
         </ul>
       </div>
     </div>
     <div class="footer-bottom">
-      <span>© 2026 TreScout · Tüm hakları saklıdır.</span>
+      <p>© 2026 TreScout. Tüm hakları saklıdır.</p>
     </div>
   </div>
 </footer>
-<script src="/assets/subscribe.js" defer></script>
-  <script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>
-  <script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>
-  <script src="/assets/provider-consent.js" defer></script>
+<script src="/assets/site.js" defer></script>
 </body>
 </html>

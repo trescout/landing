@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>PDF Inspector nedir? · TreScout Sözlük</title>
-<meta name="description" content="PDF belgelerinin içindeki metin, görsel ve yapısal verileri detaylıca inceleyip hataları tespit etmenizi sağlayan bir araçtır.">
+<title>PDF Inspector Nedir? PDF Yapı ve Güvenlik Denetimi · TreScout</title>
+<meta name="description" content="PDF Inspector nedir? PDF nesne hiyerarşisi, font gömme, PDF/A ve PDF/UA standartları, zararlı yazılım analizi ve popüler denetim araçları rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/dictionary/pdf-inspector/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/pdf-inspector/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="es" href="https://trescout.com/es/dictionary/pdf-inspector/">
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/pdf-inspector/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/pdf-inspector/">
-<meta property="og:title" content="PDF Inspector nedir?">
-<meta property="og:description" content="PDF belgelerinin içindeki metin, görsel ve yapısal verileri detaylıca inceleyip hataları tespit etmenizi sağlayan bir araçtır.">
+<meta property="og:title" content="PDF Inspector Nedir? PDF Yapı ve Güvenlik Denetimi · TreScout">
+<meta property="og:description" content="PDF Inspector nedir? PDF nesne hiyerarşisi, font gömme, PDF/A ve PDF/UA standartları, zararlı yazılım analizi ve popüler denetim araçları rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/pdf-inspector/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,15 +24,18 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="PDF Inspector nedir?">
+<meta name="twitter:title" content="PDF Inspector Nedir? PDF Yapı ve Güvenlik Denetimi · TreScout">
+<meta name="twitter:description" content="PDF Inspector nedir? PDF nesne hiyerarşisi, font gömme, PDF/A ve PDF/UA standartları, zararlı yazılım analizi ve popüler denetim araçları rehberi.">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/pdf-inspector.webp">
+<meta property="og:image:alt" content="PDF Inspector nedir?">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "PDF Inspector",
+  "alternateName": "PDF Denetleme Aracı",
   "inLanguage": "tr",
-  "description": "PDF dosyaları bazen karmaşık katmanlar ve gizli yapılar içerir. Bu araç, dosyanın içindeki verilerin nasıl dizildiğini, hangi yazı tiplerinin kullanıldığını ve metinlerin doğru okunup okunmadığını kontrol eder.",
+  "description": "PDF Inspector (PDF denetim ve inceleme aracı), PDF belgelerinin iç yapısını, nesne hiyerarşisini, gömülü fontlarını, renk uzaylarını, meta verilerini ve potansiyel güvenlik risklerini kod ve bayt düzeyinde inceleyen teknik analiz yazılımıdır.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -48,10 +51,42 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Sadece metinleri mi inceler?",
+      "name": "PDF Inspector nedir ve neden ihtiyaç duyulur?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Hayır, görsellerin çözünürlüğünü, form alanlarını ve dosyanın meta verilerini de inceleyebilir."
+        "text": "PDF Inspector, PDF dosyalarının arkasındaki nesne kodlarını, font tablolarını ve meta verileri analiz eden bir araçtır. Dosya bozulmalarını, baskı hatalarını ve gömülü siber güvenlik tehditlerini tespit etmek için kullanılır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "PDF belgesinden kopyalanan metin neden anlamsız karakterlere dönüşür?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bu durum, PDF içindeki yazı tipinin \"ToUnicode CMap\" eşleme tablosunun eksik veya bozuk olmasından kaynaklanır. Harf şekli (glif) doğru çizilse de harfin metin karşılığı bilinmez. PDF Inspector bu tür eksiklikleri tespit edebilir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "PDF/A uyumluluğu neden denetlenmelidir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Resmi kurumlar ve arşivler, belgelerin 20-30 yıl sonra da birebir aynı görünmesini ister. PDF/A standardı ses/video, şifreleme ve dış font bağlantılarını yasaklar. Inspector araçları bu kriterleri denetler."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Bir PDF dosyası siber saldırı aracı olabilir mi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Evet; PDF formatı JavaScript kodlarını, harici bağlantıları ve gömülü ikili dosyaları çalıştırabilir. Siber saldırganlar bu özellikleri kullanarak kullanıcı fark etmeden zararlı yazılım indirebilir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "PDF Parser ile PDF Inspector aynı şey midir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hayır; parser belgenin içeriğindeki metin ve veriyi çıkarmaya odaklanırken, inspector belgenin teknik standartlara, font kurallarına ve güvenlik ilkelerine uygunluğunu denetler."
       }
     }
   ]
@@ -59,14 +94,10 @@
 </script>
 <link rel="alternate" type="text/markdown" href="/dictionary/pdf-inspector.md">
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
-      <link rel="preload" href="/assets/fonts/inter-latin-ext.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/inter-latin-ext.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
-
-<meta name="twitter:description" content="PDF belgelerinin içindeki metin, görsel ve yapısal verileri detaylıca inceleyip hataları tespit etmenizi sağlayan bir araçtır.">
-
-<meta property="og:image:alt" content="PDF Inspector nedir?">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
@@ -74,11 +105,26 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Veri &amp; Altyapı</span><time class="dict-time" datetime="2026-08-06">Son güncelleme: 6 Ağustos 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Veri &amp; Altyapı</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
 <h1 class="disc-title">PDF Inspector <span class="disc-accent">nedir?</span></h1>
 
-<p class="disc-lead">PDF belgelerinin içindeki metin, görsel ve yapısal verileri detaylıca inceleyip hataları tespit etmenizi sağlayan bir araçtır.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>PDF dosyaları bazen karmaşık katmanlar ve gizli yapılar içerir. Bu araç, dosyanın içindeki verilerin nasıl dizildiğini, hangi yazı tiplerinin kullanıldığını ve metinlerin doğru okunup okunmadığını kontrol eder.</p></section><div class="dict-analogy">Bir kitabın sadece kapağına bakmak yerine, sayfaların nasıl ciltlendiğini, kağıt kalitesini ve mürekkebin dağılıp dağılmadığını inceleyen bir büyüteç gibidir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Belgeyi araca yüklersiniz, araç dosyanın iç yapısını bir harita gibi önünüze serer. Siz de bu harita üzerinden eksik veya hatalı verileri kolayca ayıklayabilirsiniz.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Belge otomasyonu yapan sistemlerde, veri girişi süreçlerinde ve dijital arşivleme projelerinde kullanılır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>PDF parser ile karıştırılabilir; parser veriyi çeker, inspector ise verinin kalitesini ve yapısını denetler.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Sadece metinleri mi inceler?</p><p class="dict-faq-a">Hayır, görsellerin çözünürlüğünü, form alanlarını ve dosyanın meta verilerini de inceleyebilir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/pdf-parser/">PDF Parser</a><a href="/dictionary/document-parsing/">Document Parsing</a><a href="/dictionary/pdf/">PDF</a></div></section>
+<p class="disc-lead"><strong>PDF Inspector</strong> (PDF denetim ve inceleme aracı), PDF belgelerinin iç yapısını, nesne hiyerarşisini (Object Tree), gömülü fontlarını, renk uzaylarını, meta verilerini ve potansiyel güvenlik risklerini kod ve bayt düzeyinde inceleyen teknik analiz yazılımıdır.</p>
+
+<p>PDF dosyaları son kullanıcıya görsel bir dijital sayfa gibi görünse de arka planda PostScript tabanlı karmaşık bir komut dizisi ve hiyerarşik nesne veritabanı barındırır. PDF Inspector, bu derin katmanları görünür kılarak doğrulama ve hata ayıklama olanağı sağlar.</p>
+
+<div class="dict-analogy">Bir kitabın sadece kapağına ve sayfalarına uzaktan bakmak yerine, cildin dikişlerini, kağıdın gramajını, mürekkep türünü ve sayfaların sırasını inceleyen bir uzman büyüteci gibidir.</div>
+
+<section class="disc-sec"><h2>1. Bir PDF Dosyasının İç Mimarisi</h2><p>Bir PDF belgesini derinlemesine inceleyen bir inspector, dosyanın 4 ana bileşenini analiz eder:</p><ul><li><strong>Header (Başlık):</strong> Belgenin uyumlu olduğu PDF sürümünü belirtir (örn. <code>%PDF-1.7</code>, <code>%PDF-2.0</code>).</li><li><strong>Body (Gövde / Nesneler):</strong> Sayfaların, metinlerin, vektör çizimlerin ve görsellerin bulunduğu temel veri bloklarıdır (Sözlükler, Diziler, Akışlar/Streams).</li><li><strong>Xref Table (Çapraz Referans Tablosu):</strong> Dosyadaki her bir nesnenin (indirect object) dosya başından itibaren kaçıncı baytta başladığını tutan fihristtir. Hızlı rastgele erişim bu tablo sayesinde gerçekleşir.</li><li><strong>Trailer:</strong> Belgenin kök dizinini (Catalog/Root) ve şifreleme parametrelerini işaret eder.</li></ul></section>
+
+<section class="disc-sec"><h2>2. PDF Inspector Neleri Denetler?</h2><p>Bir PDF Inspector aracı sadece metin okumaz; belgenin teknik sağlığını şu boyutlarda inceler:</p><h3>A. Font ve Tipografi Doğrulaması</h3><ul><li><strong>Gömülü Fontlar (Font Embedding):</strong> Belgedeki fontların (TrueType, OpenType, Type 1) tam olarak mı yoksa yalnızca kullanılan harflerle mi (Subsetting) gömüldüğünü tespit eder. Gömülmemiş fontlar farklı cihazlarda tasarımın bozulmasına neden olur.</li><li><strong>ToUnicode CMap:</strong> Sayfadaki harf gliflerinin doğru Unicode karakterlerine eşlenip eşlenmediğini kontrol eder. Bu eşleme bozuksa, metin ekranda doğru görünse bile kopyalandığında veya arandığında anlamsız sembollere dönüşür.</li></ul><h3>B. Baskı ve Renk Standartları (Prepress)</h3><ul><li><strong>Renk Uzayları:</strong> RGB, CMYK ve Spot (Pantone) renk ayrımlarını denetler.</li><li><strong>Baskı Kutuları (Page Boxes):</strong> Kesim payı (BleedBox), kırpma alanı (TrimBox) ve görsel sınırları (MediaBox) milimetrik hassasiyetle kontrol edilir.</li></ul><h3>C. Standart Uyumluluğu (PDF/A ve PDF/UA)</h3><ul><li><strong>Arşivleme Uyumluluğu (PDF/A):</strong> Yıllar sonra bile belgenin aynı şekilde görüntülenebilmesi için dış bağlantıların, şifrelemenin ve gömülmemiş fontların yasaklandığı kuralları denetler (ISO 19005).</li><li><strong>Erişilebilirlik (PDF/UA):</strong> Görme engelli kullanıcılar ve ekran okuyucular için etiketleme hiyerarşisinin (Tagged PDF) ve alternatif görsel açıklamalarının (Alt Text) mevcudiyetini inceler.</li></ul><h3>D. Güvenlik ve Zararlı Yazılım Analizi</h3><ul><li><strong>Zararlı Kod Enjeksiyonu:</strong> PDF içine gizlenmiş şüpheli JavaScript (<code>/JS</code>, <code>/JavaScript</code>), harici program çalıştırma komutları (<code>/Launch</code>) veya istismar amaçlı tampon taşması tetikleyen bozuk akışları (malicious streams) tespit eder.</li><li><strong>Gizli Meta Veriler:</strong> Yazar bilgileri, revizyon geçmişi, GPS konumları ve silindiği sanılan gizli katmanları ortaya çıkarır.</li></ul></section>
+
+<section class="disc-sec"><h2>3. PDF Inspector vs PDF Parser vs PDF Viewer</h2><table class="table-styled"><thead><tr><th>Özellik</th><th>PDF Viewer (Görüntüleyici)</th><th>PDF Parser (Ayrıştırıcı)</th><th>PDF Inspector (Denetçi)</th></tr></thead><tbody><tr><td><strong>Amaç</strong></td><td>Belgeyi ekrana çizmek</td><td>Metin ve tabloları çekmek</td><td>Yapısal bütünlüğü ve güvenliği denetlemek</td></tr><tr><td><strong>Hedef Kitle</strong></td><td>Son kullanıcılar</td><td>Veri analistleri, LLM/RAG geliştiricileri</td><td>Güvenlik araştırmacıları, yayıncılar, mühendisler</td></tr><tr><td><strong>Çıktı</strong></td><td>Pikseller / Görsel çıktı</td><td>JSON, CSV, ham metin</td><td>Nesne ağacı, hata raporu, güvenlik skoru</td></tr><tr><td><strong>Tipik Araçlar</strong></td><td>Adobe Acrobat Reader, Chrome</td><td>PyPDF, pdfplumber, Tika</td><td>veraPDF, qpdf, pdf-parser</td></tr></tbody></table></section>
+
+<section class="disc-sec"><h2>4. Geliştiriciler ve Sistem Yöneticileri İçin Popüler Araçlar</h2><ul><li><strong><code>qpdf</code>:</strong> Komut satırından PDF şifrelemelerini çözebilen, nesne yapılarını düzleştiren ve hatalı dosyaları onaran güçlü bir C++ aracıdır.</li><li><strong><code>veraPDF</code>:</strong> Avrupa Komisyonu ve PDF Association tarafından desteklenen, PDF/A arşiv standartlarına uyumluluğu tescilleyen açık kaynaklı referans doğrulayıcıdır.</li><li><strong><code>pdf-parser.py</code> (Didier Stevens):</strong> Siber güvenlik uzmanlarının zararlı ve şüpheli PDF dosyalarını deşifre etmek için kullandığı standart analiz aracıdır.</li><li><strong><code>pdfcpu</code>:</strong> Go diliyle yazılmış, PDF optimizasyonu ve yapısal doğrulama yapan modern bir kütüphanedir.</li></ul></section>
+
+<section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">PDF Inspector nedir ve neden ihtiyaç duyulur?</p><p class="dict-faq-a">PDF Inspector, PDF dosyalarının arkasındaki nesne kodlarını, font tablolarını ve meta verileri analiz eden bir araçtır. Dosya bozulmalarını, baskı hatalarını ve gömülü siber güvenlik tehditlerini tespit etmek için kullanılır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">PDF belgesinden kopyalanan metin neden anlamsız karakterlere dönüşür?</p><p class="dict-faq-a">Bu durum, PDF içindeki yazı tipinin "ToUnicode CMap" eşleme tablosunun eksik veya bozuk olmasından kaynaklanır. Harf şekli (glif) doğru çizilse de harfin metin karşılığı bilinmez. PDF Inspector bu tür eksiklikleri tespit edebilir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">PDF/A uyumluluğu neden denetlenmelidir?</p><p class="dict-faq-a">Resmi kurumlar ve arşivler, belgelerin 20-30 yıl sonra da birebir aynı görünmesini ister. PDF/A standardı ses/video, şifreleme ve dış font bağlantılarını yasaklar. Inspector araçları bu kriterleri denetler.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Bir PDF dosyası siber saldırı aracı olabilir mi?</p><p class="dict-faq-a">Evet; PDF formatı JavaScript kodlarını, harici bağlantıları ve gömülü ikili dosyaları çalıştırabilir. Siber saldırganlar bu özellikleri kullanarak kullanıcı fark etmeden zararlı yazılım indirebilir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">PDF Parser ile PDF Inspector aynı şey midir?</p><p class="dict-faq-a">Hayır; parser belgenin içeriğindeki metin ve veriyi çıkarmaya odaklanırken, inspector belgenin teknik standartlara, font kurallarına ve güvenlik ilkelerine uygunluğunu denetler.</p></div></div></section>
+
+<section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/pdf-parser/">PDF Parser</a><a href="/dictionary/document-parsing/">Document Parsing</a><a href="/dictionary/pdf/">PDF</a><a href="/dictionary/security-scanner/">Security Scanner</a></div></section>
 <section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/pdf-inspector/">PDF Inspector</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>

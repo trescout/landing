@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>TUI nedir? · Text User Interface · TreScout Sözlük</title>
-<meta name="description" content="Grafiksel öğeler yerine sadece metin ve karakterlerle yönetilen ekran arayüzü.">
+<title>TUI Nedir, Ne Demek? Text User Interface Rehberi · TreScout</title>
+<meta name="description" content="TUI nedir, ne demek ve nasıl çalışır? Text User Interface mimarisi, ANSI kaçış dizileri, ncurses, Bubble Tea, Ratatui ve modern terminal araçları rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/dictionary/tui/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/tui/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="es" href="https://trescout.com/es/dictionary/tui/">
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/tui/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/tui/">
-<meta property="og:title" content="TUI nedir?">
-<meta property="og:description" content="Grafiksel öğeler yerine sadece metin ve karakterlerle yönetilen ekran arayüzü.">
+<meta property="og:title" content="TUI Nedir, Ne Demek? Text User Interface Rehberi">
+<meta property="og:description" content="TUI nedir, ne demek ve nasıl çalışır? Text User Interface mimarisi, ANSI kaçış dizileri, ncurses, Bubble Tea, Ratatui ve modern terminal araçları rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/tui/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="TUI nedir?">
+<meta name="twitter:title" content="TUI Nedir, Ne Demek? Text User Interface Rehberi">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/tui.webp">
 <script type="application/ld+json">
 {
@@ -33,7 +33,7 @@
   "name": "TUI",
   "alternateName": "Text User Interface",
   "inLanguage": "tr",
-  "description": "Görsel düğmeler veya pencereler yerine, klavye komutları ve metin tabanlı menülerle çalışan bir arayüzdür. Bilgisayar kaynaklarını çok az tüketir ve genellikle terminal ekranlarında çalışır.",
+  "description": "TUI (Text User Interface / Metin Kullanıcı Arayüzü), terminal ekranlarında grafik kartına ihtiyaç duymadan metin ve karakter bloklarıyla çalışan klavye odaklı kullanıcı arayüzüdür.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -49,18 +49,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Neden grafik arayüz yerine TUI kullanılır?",
+      "name": "TUI ne anlama gelir ve açılımı nedir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Çok daha hızlıdır ve grafik kartı gibi ağır kaynaklara ihtiyaç duymaz."
+        "text": "TUI, Text User Interface (Metin Kullanıcı Arayüzü) veya Terminal User Interface ifadesinin kısaltmasıdır. Grafik pencere yöneticisi olmadan terminal karakter ızgarası üzerinde çalışan görsel ve etkileşimli arayüzleri tanımlar."
       }
     },
     {
       "@type": "Question",
-      "name": "Öğrenmesi zor mu?",
+      "name": "CLI, GUI ve TUI arasındaki temel farklar nelerdir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Başlangıçta klavye kısayollarını ezberlemek gerekir, ancak alıştıkça çok daha verimlidir."
+        "text": "CLI tek satırlık metin komutlarıyla çalışır; GUI pikseller, pencereler ve fare ile yönetilir; TUI ise terminal içinde klavye odaklı menüler, paneller ve kutularla çalışan hibrit bir formattır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Terminal kullanıcı arayüzleri ekranı nasıl çizer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ANSI kaçış dizileri (Escape Sequences) ve terminal kontrol kodları aracılığıyla imleç ekranın istenen satır ve sütununa taşınır, renk kodları atanır ve Unicode kutu karakterleri çizilir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Modern TUI geliştirmek için en popüler kütüphaneler hangileridir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rust ekosisteminde ratatui, Go dilinde bubbletea ve lipgloss, Python tarafında ise Textual ve rich kütüphaneleri sektör standardıdır."
       }
     }
   ]
@@ -73,9 +89,9 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Grafiksel öğeler yerine sadece metin ve karakterlerle yönetilen ekran arayüzü.">
+<meta name="twitter:description" content="TUI nedir, ne demek ve nasıl çalışır? Text User Interface mimarisi, ANSI kaçış dizileri, ncurses, Bubble Tea, Ratatui ve modern terminal araçları rehberi.">
 
-<meta property="og:image:alt" content="TUI nedir?">
+<meta property="og:image:alt" content="TUI nedir, ne anlama gelir?">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
@@ -83,59 +99,17 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-08-10">Son güncelleme: 10 Ağustos 2026</time></div>
-<h1 class="disc-title">TUI <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
+<h1 class="disc-title">TUI <span class="disc-accent">nedir ve nasıl çalışır?</span></h1>
 <p class="dict-en">Text User Interface</p>
-<p class="disc-lead">Grafiksel öğeler yerine sadece metin ve karakterlerle yönetilen ekran arayüzü.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Görsel düğmeler veya pencereler yerine, klavye komutları ve metin tabanlı menülerle çalışan bir arayüzdür. Bilgisayar kaynaklarını çok az tüketir ve genellikle terminal ekranlarında çalışır.</p></section><div class="dict-analogy">Modern bir akıllı telefonun renkli ekranı yerine, eski daktiloların dijitalleşmiş hali gibi sadece yazılarla etkileşim kurmaya benzer.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Kullanıcı, terminal üzerinde belirli tuş kombinasyonlarını kullanarak menüler arasında gezinir ve komutları metin olarak girer.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Sunucu yönetiminde, yazılım geliştirme araçlarında ve düşük donanımlı cihazlarda yaygındır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>CLI ile karıştırılabilir; CLI sadece komut satırıdır, TUI ise bu satırda görsel bir düzen oluşturur.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Neden grafik arayüz yerine TUI kullanılır?</p><p class="dict-faq-a">Çok daha hızlıdır ve grafik kartı gibi ağır kaynaklara ihtiyaç duymaz.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Öğrenmesi zor mu?</p><p class="dict-faq-a">Başlangıçta klavye kısayollarını ezberlemek gerekir, ancak alıştıkça çok daha verimlidir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/cli/">CLI</a><a href="/dictionary/terminal/">Terminal</a><a href="/dictionary/terminal-control/">Terminal Control</a></div></section>
+<p class="disc-lead">TUI (Text User Interface / Metin Kullanıcı Arayüzü), terminal ekranlarında grafik kartına ihtiyaç duymadan metin ve karakter bloklarıyla çalışan klavye odaklı kullanıcı arayüzüdür.</p>
+<section class="disc-sec"><h2>Kavramsal çerçeve, etimoloji ve terminalin evrimi</h2><p>TUI terimi, İngilizce <strong>Text User Interface</strong> (veya zaman zaman <em>Terminal User Interface</em>) ifadesinin kısaltmasıdır. Bilgisayar arayüzleri tarihinde CLI (Komut Satırı Arayüzü) ile GUI (Grafik Kullanıcı Arayüzü) arasında köprü kuran hibrit bir görsel paradigmadır:</p><ul><li><strong>CLI (Command-Line Interface):</strong> Kullanıcının tek satırlık bir komut girdiği ve sistemin bu komuta metin çıktısıyla yanıt verdiği tek boyutlu akıştır.</li><li><strong>GUI (Graphical User Interface):</strong> Pikseller, pencereler, fare imleçleri ve grafik hızlandırıcı kartlar (GPU) kullanan zengin görsel arayüzdür.</li><li><strong>TUI (Text User Interface):</strong> Pikseller yerine terminal ekranındaki satır ve sütunlardan oluşan iki boyutlu karakter ızgarasını (character grid) kullanan; pencereler, butonlar, durum çubukları ve formlar barındıran menülü arayüzdür.</li></ul><p>TUI'nin kökleri 1970'li yılların TeleType (TTY) ve DEC VT100 gibi fiziksel metin terminallerine dayanır. Bu terminallerde ekranın belirli koordinatlarına renkli metin yazdırmak ve imleci taşımak için <strong>ANSI Kaçış Dizileri</strong> (ANSI Escape Sequences · örneğin <code>\033[2J</code> ekranı temizler, <code>\033[31m</code> metni kırmızı yapar) geliştirilmiştir.</p></section><div class="dict-analogy">Modern bir akıllı telefonun dokunmatik yüksek çözünürlüklü OLED ekranı (GUI) yerine; havaalanlarındaki mekanik açılır-kapanır harf panoları (split-flap display) veya dijital karakterli skorbordlar gibidir. Her kutucukta yalnızca tek bir harf veya sembol yer alabilir ancak bu sembollerin organize dizilimiyle kusursuz ve anında tepki veren bir kontrol paneli ortaya çıkar.</div><section class="disc-sec"><h2>Teknik mimari: Raw mode, ANSI kaçış dizileri ve çift tamponlama</h2><p>Bir TUI uygulamasının arka planda nasıl çalıştığı işletim sistemi düzeyinde üç temel mekanizmaya dayanır:</p><ol><li><strong>Terminalin Ham Modu (Raw Mode):</strong> Standart terminal ortamı &quot;Cooked Mode&quot;da çalışır; yani işletim sistemi kullanıcı Enter tuşuna basana kadar karakterleri bekletir ve tamponlar. Bir TUI uygulaması başladığında terminali <code>termios</code> çağrısıyla &quot;Raw Mode&quot;a alır. Böylece kullanıcının bastığı her tuş (<code>j</code>, <code>k</code>, <code>Ctrl+C</code>, yön tuşları) Enter beklenmeden anında yakalanır.</li><li><strong>Alternatif Ekran Tamponu (Alternate Screen Buffer):</strong> <code>htop</code> veya <code>vim</code> açtığınızda terminal geçmişinizin kaybolmaması ve program kapandığında eski komut satırınıza geri dönebilmeniz, alternatif tampon (<code>tput smcup / rmcup</code>) sayesinde gerçekleşir. TUI kendine ait sanal bir tuval açar ve çıkışta ana ekrana geri döner.</li><li><strong>Çift Tamponlama ve Fark Çizimi (Diff Rendering):</strong> Ekrandaki titremeyi (flickering) önlemek için modern TUI motorları bellekte iki karakter matrisi tutar: O anki ekran ve sonraki ekran. Yalnızca değişen hücreler hesaplanır ve terminale sadece bu farklar (diff) ANSI kodlarıyla basılır; böylece 60 FPS akıcılıkta animasyonlar çalıştırılabilir.</li></ol></section><section class="disc-sec"><h2>Modern TUI rönesansı ve geliştirici araçları</h2><p>Son yıllarda web teknolojilerinin (Electron tabanlı şişkin uygulamalar) devasa bellek tüketmesine tepki olarak geliştirici ekosisteminde muazzam bir TUI rönesansı yaşanmıştır:</p><ul><li><strong>Düşük Kaynak Tüketimi:</strong> Bir grafik arayüz yüzlerce megabayt bellek tüketirken, bir TUI uygulaması yalnızca birkaç megabayt RAM harcar.</li><li><strong>SSH Üzerinden Sıfır Gecikme:</strong> Buluttaki uzaktaki bir sunucuyu yönetirken grafik aktarmak (VNC / RDP) yüksek bant genişliği gerektirir; TUI ise düşük hızlı mobil bağlantılarda bile SSH tüneli içinde ışık hızında akar.</li><li><strong>Klavye Akış Hali (Flow State):</strong> Fareden elinizi kaldırmadan, Vim tuş dizilimleriyle (h, j, k, l) çalışmak mühendislerin odaklanmasını ve üretkenliğini katlar.</li></ul><p>Öne Çıkan Modern Çerçeveler ve Araçlar:</p><ul><li><strong>Rust Dünyası:</strong> <code>ratatui</code> (eski adıyla tui-rs) ve <code>crossterm</code> kütüphaneleri, bellek güvenliği ve ultra yüksek performansıyla modern TUI projelerinin temel standardı haline gelmiştir.</li><li><strong>Go Dünyası:</strong> Charm ekibinin geliştirdiği <code>bubbletea</code> (The Elm Architecture desenini terminale uyarlayan reaktif framework), <code>lipgloss</code> (stil motoru) ve <code>bubbles</code>.</li><li><strong>Python Dünyası:</strong> Will McGugan tarafından yazılan <code>Textual</code> ve <code>rich</code>.</li><li><strong>Kült TUI Araçları:</strong> Git yönetimi için <code>lazygit</code>, Kubernetes kümeleri için <code>k9s</code>, Docker için <code>lazydocker</code>, sistem izleme için <code>btop</code> ve <code>htop</code>, disk analizi için <code>ncdu</code>.</li></ul></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><ul><li><strong>CLI vs TUI:</strong> CLI tek satırlık soru-cevap modelidir (<code>git status</code>, <code>ls -la</code>). TUI ise terminal penceresini kaplayan, sekmeleri, listeleri ve klavye kısayolları olan iki boyutlu görsel bir paneldir (<code>lazygit</code>, <code>k9s</code>).</li><li><strong>TUI Sadece İlkel Metinden İbaret Değildir:</strong> Modern terminaller Nerd Fonts (ikonlar), 24-bit TrueColor desteği, UTF-8 kutu çizim karakterleri ve hatta Kitty Graphics / Sixel protokolleriyle terminal içinde gerçek görsel çizimini destekler.</li></ul></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">TUI ne anlama gelir ve açılımı nedir?</p><p class="dict-faq-a">TUI, Text User Interface (Metin Kullanıcı Arayüzü) veya Terminal User Interface ifadesinin kısaltmasıdır. Grafik pencere yöneticisi olmadan terminal karakter ızgarası üzerinde çalışan görsel ve etkileşimli arayüzleri tanımlar.</p></div><div class="dict-faq-item"><p class="dict-faq-q">CLI, GUI ve TUI arasındaki temel farklar nelerdir?</p><p class="dict-faq-a">CLI tek satırlık metin komutlarıyla çalışır; GUI pikseller, pencereler ve fare ile yönetilir; TUI ise terminal içinde klavye odaklı menüler, paneller ve kutularla çalışan hibrit bir formattır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Terminal kullanıcı arayüzleri ekranı nasıl çizer?</p><p class="dict-faq-a">ANSI kaçış dizileri (Escape Sequences) ve terminal kontrol kodları aracılığıyla imleç ekranın istenen satır ve sütununa taşınır, renk kodları atanır ve Unicode kutu karakterleri çizilir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Modern TUI geliştirmek için en popüler kütüphaneler hangileridir?</p><p class="dict-faq-a">Rust ekosisteminde ratatui, Go dilinde bubbletea ve lipgloss, Python tarafında ise Textual ve rich kütüphaneleri sektör standardıdır.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/cli/">CLI</a><a href="/dictionary/terminal/">Terminal</a><a href="/dictionary/terminal-control/">Terminal Control</a><a href="/dictionary/runtime/">Runtime</a><a href="/dictionary/assembly/">Assembly</a><a href="/dictionary/tech-stack/">Tech Stack</a></div></section>
 <section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/pi/">PI</a><a href="/discover/witr/">Witr</a><a href="/discover/hister/">Hister</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>
 </main>
-<footer>
-  <div class="container">
-    <div class="footer-grid">
-      <div class="footer-brand-block">
-        <div class="footer-logo">
-          <svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg>
-          <span>TreScout</span>
-        </div>
-        <p class="footer-tagline">TreScout tarar, özetler, gönderir. Siz sadece okursunuz.</p>
-      </div>
-      <div class="footer-col">
-        <div class="footer-col-title">Ürün</div>
-        <ul>
-          <li><a href="/#how-it-works">Nasıl Çalışır</a></li>
-          <li><a href="/discover/">Keşif</a></li>
-          <li><a href="/dictionary/">Sözlük</a></li>
-          <li><a href="/reports/">Raporlar</a></li>
-          <li><a href="/compare/rss-vs-ai/">Karşılaştır</a></li>
-          <li><a href="/#top">Erken Erişim</a></li>
-        </ul>
-      </div>
-      <div class="footer-col">
-        <div class="footer-col-title">İletişim</div>
-        <ul>
-          <li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li>
-          <li><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a></li>
-        </ul>
-      </div>
-      <div class="footer-col">
-        <div class="footer-col-title">Sosyal medya</div>
-        <ul>
-          <li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X</a></li>
-        </ul>
-      </div>
-    </div>
-    <div class="footer-bottom">
-      <span>© 2026 TreScout · Tüm hakları saklıdır.</span>
-    </div>
-  </div>
-</footer>
-<script src="/assets/subscribe.js" defer></script>
-  <script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>
-  <script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>
-  <script src="/assets/provider-consent.js" defer></script>
+<footer><div class="container footer-inner"><div class="footer-brand"><a class="logo-link" href="/" aria-label="TreScout anasayfa"><svg width="24" height="24" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><p class="footer-tagline">Geliştiriciler için açık kaynak radarı.</p></div><nav class="footer-nav" aria-label="Alt bilgi menüsü"><div class="footer-col"><h4>Ürün</h4><a href="/discover/">Keşif</a><a href="/dictionary/">Sözlük</a><a href="/reports/">Raporlar</a><a href="/compare/rss-vs-ai/">Karşılaştır</a></div><div class="footer-col"><h4>Kurumsal</h4><a href="/about.html">Hakkında</a><a href="/contact.html">İletişim</a><a href="/privacy.html">Gizlilik Politikası</a><a href="/terms.html">Kullanım Şartları</a></div></nav></div><div class="footer-bottom container"><p class="footer-copy">© 2026 TreScout. Tüm hakları saklıdır.</p><p class="footer-note">Açık kaynak projeler ve teknoloji trendleri günlük taranır.</p></div></footer>
+<script src="/assets/site.js" defer></script>
 </body>
 </html>

@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Assembly nedir? · TreScout Sözlük</title>
-<meta name="description" content="Karmaşık bir sistemi oluşturmak için çeşitli bileşenlerin veya parçaların bir araya getirilmesi sürecidir.">
+<title>Assembly Nedir, Ne Demek? x86, ARM ve Register Mimarisi · TreScout</title>
+<meta name="description" content="Assembly nedir, ne demek? x86-64 vs ARM mimarisi, CPU register'ları (RAX, RIP), sistem çağrıları (syscall) ve tersine mühendislik rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/assembly/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/assembly/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/assembly/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/assembly/">
 <link rel="canonical" href="https://trescout.com/dictionary/assembly/">
-<meta property="og:title" content="Assembly nedir?">
-<meta property="og:description" content="Karmaşık bir sistemi oluşturmak için çeşitli bileşenlerin veya parçaların bir araya getirilmesi sürecidir.">
+<meta property="og:title" content="Assembly Nedir, Ne Demek? x86, ARM ve Register Mimarisi · TreScout">
+<meta property="og:description" content="Assembly nedir, ne demek? x86-64 vs ARM mimarisi, CPU register'ları (RAX, RIP), sistem çağrıları (syscall) ve tersine mühendislik rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/assembly/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,15 +24,16 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Assembly nedir?">
+<meta name="twitter:title" content="Assembly Nedir, Ne Demek? x86, ARM ve Register Mimarisi · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/assembly.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Assembly",
+  "alternateName": "Assembly Dili",
   "inLanguage": "tr",
-  "description": "Assembly, yazılım dünyasında farklı kütüphanelerin, modüllerin veya donanım parçalarının birleştirilerek çalışan tek bir bütün haline getirilmesidir. Bir binanın tuğlalarını örmek gibi düşünebilirsiniz; her parça tek başına bir anlam ifade etse de, ancak assembly sürecinden sonra işlevsel bir yapı ortaya çıkar. Yazılım projelerinde bu süreç genellikle 'build' veya 'derleme' adımlarıyla iç içedir.",
+  "description": "Assembly, donanım işlemcisine (CPU) doğrudan hükmeden en düşük seviyeli sembolik programlama dili ve derlenmiş yazılım modüllerinin (.NET assembly) dağıtılabilir tek bir paket haline getirilmesidir.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -48,10 +49,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Neden parçalara ayırıyoruz?",
+      "name": "Assembly ne demek, ne işe yarar?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Daha kolay yönetmek, hataları bulmak ve parçaları başka projelerde tekrar kullanabilmek için."
+        "text": "Assembly, bilgisayar işlemcisinin donanımsal komut kümesine (instruction set) 1'e 1 karşılık gelen en alt seviyeli sembolik programlama dilidir. Doğrudan CPU kayıtçılarını ve belleği kontrol etmek için kullanılır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Assembler ile Compiler (Derleyici) arasındaki fark nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Derleyici (C, C++, Rust), karmaşık insan mantığını ve döngülerini analiz edip makine koduna optimize ederek çevirir. Assembler ise zaten makine kodunun sembolik hali olan assembly komutlarını doğrudan ikili bayt koduna dönüştürür."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Assembly dili günümüzde hâlâ nerede kullanılır?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "İşletim sistemi çekirdekleri (bootloader), donanım aygıt sürücüleri, tersine mühendislik (reverse engineering), kötü amaçlı yazılım analizi, siber güvenlik açığı tespiti ve gömülü sistemlerde (IoT/mikrodenetleyici) aktif olarak kullanılır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "CISC ile RISC arasındaki fark nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CISC (x86-64), tek bir komutta birden çok alt işlemi ve bellek erişimini yapabilen zengin komut kümesine sahiptir; RISC (ARM) ise her komutu tek bir saat çevriminde çalışacak şekilde basitleştirilmiş ve enerji verimliliği yüksek bir mimaridir."
       }
     }
   ]
@@ -64,9 +89,9 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Karmaşık bir sistemi oluşturmak için çeşitli bileşenlerin veya parçaların bir araya getirilmesi sürecidir.">
+<meta name="twitter:description" content="Assembly nedir, ne demek? x86-64 vs ARM mimarisi, CPU register'ları (RAX, RIP), sistem çağrıları (syscall) ve tersine mühendislik rehberi.">
 
-<meta property="og:image:alt" content="Assembly nedir?">
+<meta property="og:image:alt" content="Assembly nedir, ne demek?">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
@@ -74,11 +99,43 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-07-23">Son güncelleme: 23 Temmuz 2026</time></div>
-<h1 class="disc-title">Assembly <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
+<h1 class="disc-title">Assembly <span class="disc-accent">nedir, ne demek ve nasıl çalışır?</span></h1>
 
-<p class="disc-lead">Karmaşık bir sistemi oluşturmak için çeşitli bileşenlerin veya parçaların bir araya getirilmesi sürecidir.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Assembly, yazılım dünyasında farklı kütüphanelerin, modüllerin veya donanım parçalarının birleştirilerek çalışan tek bir bütün haline getirilmesidir. Bir binanın tuğlalarını örmek gibi düşünebilirsiniz; her parça tek başına bir anlam ifade etse de, ancak assembly sürecinden sonra işlevsel bir yapı ortaya çıkar. Yazılım projelerinde bu süreç genellikle &#x27;build&#x27; veya &#x27;derleme&#x27; adımlarıyla iç içedir.</p></section><div class="dict-analogy">Bir Lego setindeki tüm parçaları birleştirerek bitmiş bir araba modeli oluşturmak gibidir; parçalar ayrı ayrı dururken bir araba değildir, ancak birleştirildiklerinde işlev kazanırlar.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Geliştiriciler yazdıkları kod parçalarını, kütüphaneleri ve yapılandırma dosyalarını bir araya getirip bir &#x27;paket&#x27; oluştururlar.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Yazılım geliştirme süreçlerinde, fabrika otomasyonlarında ve büyük sistemlerin kurulumunda kullanılır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Assembly dili ile karıştırılmamalıdır; bu terim burada &#x27;birleştirme süreci&#x27; anlamında kullanılmıştır.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Neden parçalara ayırıyoruz?</p><p class="dict-faq-a">Daha kolay yönetmek, hataları bulmak ve parçaları başka projelerde tekrar kullanabilmek için.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/compilation/">Compilation</a><a href="/dictionary/bundling/">Bundling</a><a href="/dictionary/deployment/">Deployment</a></div></section>
+<p class="disc-lead">Assembly, bilgisayar bilimlerinde iki temel kavrama karşılık gelir: Birincisi donanım işlemcisine (CPU) doğrudan hükmeden en düşük seviyeli sembolik programlama dili (Assembly Language); ikincisi ise derlenmiş yazılım modüllerinin (.NET assembly) dağıtılabilir tek bir paket haline getirilmesidir.</p>
+
+<section class="disc-sec"><h2>1. Düşük seviyeli programlama dili (Assembly Language)</h2><p>Bilgisayar işlemcisi yalnızca 0 ve 1 ikili sinyallerinden (makine kodu / opcodes) anlar. Assembly dili, bu ham makine kodlarına karşılık gelen insan tarafından okunabilir sembolik kısaltmalardan (<strong>mnemonics</strong>) oluşur:</p><ul><li><code>MOV</code>: Veriyi bir kayıtçıdan (register) diğerine veya bellek adresine kopyalar.</li><li><code>ADD</code> / <code>SUB</code>: Matematiksel toplama ve çıkarma işlemlerini yürütür.</li><li><code>PUSH</code> / <code>POP</code>: Veriyi çağrı yığınına (call stack) ekler veya çeker.</li><li><code>JMP</code> / <code>JE</code> / <code>JNE</code>: Karşılaştırma sonucuna göre program akışını başka bir bellek adresine dallandırır.</li></ul><p>Yazılan assembly kodları, <strong>Assembler</strong> (nasm, gas) adı verilen dönüştürücüler aracılığıyla doğrudan makine koduna çevrilir; arada sanal makine katmanı yoktur.</p></section>
+
+<section class="disc-sec"><h2>2. İşlemci kayıtçıları (Registers) ve x86-64 mimarisi</h2><p>Modern bir 64-bit x86-64 işlemcide en kritik kayıtçılar şunlardır:</p><ul><li><strong>Genel Amaçlı Kayıtçılar:</strong> <code>RAX</code> (akümülatör ve fonksiyon dönüşü), <code>RBX</code> (temel veri işaretçisi), <code>RCX</code> (döngü sayacı), <code>RDX</code> (giriş/çıkış verisi), <code>RDI</code> ve <code>RSI</code> (hedef ve kaynak göstericileri).</li><li><strong>Özel Amaçlı Kayıtçılar:</strong> <code>RSP</code> (Stack Pointer - yığının en üst noktası), <code>RBP</code> (Base Pointer - fonksiyon çerçevesi tabanı), <code>RIP</code> (Instruction Pointer - bir sonraki çalıştırılacak komutun adresi) ve <code>RFLAGS</code> (Zero, Carry bayrakları).</li></ul></section>
+
+<section class="disc-sec"><h2>3. CISC vs RISC: x86-64 ve ARM64 farkı</h2><p>x86-64 mimarisi <strong>CISC</strong> (Karmaşık Komut Kümeli) felsefesiyle çalışır; değişken komut boyutlarına ve doğrudan bellek üzerinde işlem yapabilen zengin komutlara sahiptir. ARM64 (Apple Silicon, Mobil) ise <strong>RISC</strong> (İndirgenmiş Komut Kümeli) tabanlıdır; sabit 32-bit komut uzunluğu ve Load-Store mimarisi ile enerji verimliliğinde büyük üstünlük sağlar.</p></section>
+
+<section class="disc-sec"><h2>4. Sistem çağrıları (Syscall) ve Linux x86-64 örneği</h2><pre><code>section .text
+global _start
+
+_start:
+    ; 1. Ekrana "Merhaba" yazdır (sys_write = syscall 1)
+    mov rax, 1          ; syscall numarası: 1 (sys_write)
+    mov rdi, 1          ; dosya tanıtıcı: 1 (stdout)
+    mov rsi, mesaj      ; metnin bellek adresi
+    mov rdx, 8          ; metin uzunluğu
+    syscall             ; çekirdeğe geçiş yap
+
+    ; 2. Programı güvenle sonlandır (sys_exit = syscall 60)
+    mov rax, 60         ; syscall numarası: 60 (sys_exit)
+    xor rdi, rdi        ; çıkış kodu 0
+    syscall
+
+section .data
+    mesaj db "Merhaba", 10</code></pre></section>
+
+<section class="disc-sec"><h2>5. .NET Assembly ve WebAssembly (WASM)</h2><ul><li><strong>.NET Assembly:</strong> C# kodu derlendiğinde CIL/MSIL bayt kodlarını ve meta verileri içeren <code>.dll</code> veya <code>.exe</code> biçiminde mantıksal bir montaj paketi (Assembly) oluşturulur.</li><li><strong>WebAssembly (WASM):</strong> C, C++ ve Rust kodlarının tarayıcı içinde yerel hıza yakın performansla çalışmasını sağlayan taşınabilir bir yığın sanal makinesi bayt kodudur.</li></ul></section>
+
+<div class="dict-analogy">Assembly dili, bir saatin içindeki çarkları, yayları ve milleri mikroskop altında cımbızla tek tek yerleştirmeye benzer; en yüksek hassasiyet ve performansı sağlar ama büyük dikkat ister. Yazılım montajı ise üretilen bu hassas mekanizmayı kasanın içine oturtup çalışır bir kol saati olarak kutulamaktır.</div>
+
+<section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Assembly ne demek, ne işe yarar?</p><p class="dict-faq-a">Assembly, bilgisayar işlemcisinin donanımsal komut kümesine (instruction set) 1'e 1 karşılık gelen en alt seviyeli sembolik programlama dilidir. Doğrudan CPU kayıtçılarını ve belleği kontrol etmek için kullanılır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Assembler ile Compiler (Derleyici) arasındaki fark nedir?</p><p class="dict-faq-a">Derleyici (C, C++, Rust), karmaşık insan mantığını ve döngülerini analiz edip makine koduna optimize ederek çevirir. Assembler ise zaten makine kodunun sembolik hali olan assembly komutlarını doğrudan ikili bayt koduna dönüştürür.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Assembly dili günümüzde hâlâ nerede kullanılır?</p><p class="dict-faq-a">İşletim sistemi çekirdekleri (bootloader), donanım aygıt sürücüleri, tersine mühendislik (reverse engineering), kötü amaçlı yazılım analizi, siber güvenlik açığı tespiti ve gömülü sistemlerde (IoT/mikrodenetleyici) aktif olarak kullanılır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">CISC ile RISC arasındaki fark nedir?</p><p class="dict-faq-a">CISC (x86-64), tek bir komutta birden çok alt işlemi ve bellek erişimini yapabilen zengin komut kümesine sahiptir; RISC (ARM) ise her komutu tek bir saat çevriminde çalışacak şekilde basitleştirilmiş ve enerji verimliliği yüksek bir mimaridir.</p></div></div></section>
+
+<section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/memory-management/">Memory Management</a><a href="/dictionary/runtime/">Runtime</a><a href="/dictionary/compilation/">Compilation</a><a href="/dictionary/apple-silicon/">Apple Silicon</a><a href="/dictionary/emulator/">Emulator</a></div></section>
 <section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/apollo-11/">Apollo-11</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>

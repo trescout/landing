@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Assets nedir? · TreScout Sözlük</title>
-<meta name="description" content="Bir projeyi oluşturan tüm dijital parçaların bütünüdür.">
+<title>Asset Nedir, Ne Demek? Dijital Varlık ve Web Rehberi · TreScout</title>
+<meta name="description" content="Asset nedir, ne demek ve yazılımda nasıl kullanılır? Statik web varlıkları, oyun motoru asset pipeline mimarisi ve BT varlık yönetimi tam rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/assets/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/assets/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/assets/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/assets/">
 <link rel="canonical" href="https://trescout.com/dictionary/assets/">
-<meta property="og:title" content="Assets nedir?">
-<meta property="og:description" content="Bir projeyi oluşturan tüm dijital parçaların bütünüdür.">
+<meta property="og:title" content="Asset Nedir, Ne Demek? Dijital Varlık ve Web Rehberi">
+<meta property="og:description" content="Asset nedir, ne demek ve yazılımda nasıl kullanılır? Statik web varlıkları, oyun motoru asset pipeline mimarisi ve BT varlık yönetimi tam rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/assets/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,15 +24,17 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Assets nedir?">
+<meta name="twitter:title" content="Asset Nedir, Ne Demek? Dijital Varlık ve Web Rehberi">
+<meta name="twitter:description" content="Asset nedir, ne demek ve yazılımda nasıl kullanılır? Statik web varlıkları, oyun motoru asset pipeline mimarisi ve BT varlık yönetimi tam rehberi.">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/assets.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
-  "name": "Assets",
+  "name": "Asset",
+  "alternateName": "Dijital Varlık",
   "inLanguage": "tr",
-  "description": "Yazılım veya oyun geliştirirken kullandığınız her türlü dış kaynak 'asset' olarak adlandırılır. Bunlar kodun kendisi değil, kodun ihtiyaç duyduğu yardımcı malzemelerdir. Bir projenin görsel, işitsel veya yapısal ham maddeleridir.",
+  "description": "Asset (dijital varlık), yazılım, web ve oyun projelerinde kaynak kodlar haricindeki tüm görsel, ses, 3D model ve veri dosyalarının genel adıdır.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -48,10 +50,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Kod dosyaları asset sayılır mı?",
+      "name": "Asset nedir ve yazılımda ne anlama gelir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Genellikle hayır, kod ana yapı olarak kabul edilirken; görseller, sesler ve 3D modeller asset olarak sınıflandırılır."
+        "text": "İngilizce kökenli bir kelime olup Türkçede 'dijital varlık' anlamına gelir. Yazılım projelerinde programlama mantığını içeren kodlar dışındaki görsel, işitsel, font ve 3D model gibi tüm medya dosyalarını temsil eder."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Web geliştirmede statik asset optimizasyonu nasıl yapılır?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Görseller WebP veya AVIF gibi yeni nesil formatlara dönüştürülür, fontlar alt kümelere (subsetting) ayrılır, SVG dosyaları sıkıştırılır ve dosyalar CDN üzerinden içerik karması (content hashing) ile önbelleğe alınır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Oyun geliştirmede asset pipeline neden kritiktir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ham grafik ve ses dosyaları çok yüksek bellek tüketir. Asset pipeline, bu dosyaları oyun motorunun ve grafik kartının (GPU) anlık işleyebileceği optimize ikili formatlara dönüştürerek bellek darboğazını ve yükleme sürelerini engeller."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Siber güvenlikte IT Asset Management (ITAM) neden önemlidir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sahip olduğunuzu bilmediğiniz bir varlığı koruyamazsınız. Kurumun tüm dijital varlıklarının, sunucularının ve açık portlarının eksiksiz haritalandırılması, saldırı yüzeyini küçültmek için zorunludur."
       }
     }
   ]
@@ -59,14 +85,11 @@
 </script>
 <link rel="alternate" type="text/markdown" href="/dictionary/assets.md">
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
-      <link rel="preload" href="/assets/fonts/inter-latin-ext.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/inter-latin-ext.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
-
-<meta name="twitter:description" content="Bir projeyi oluşturan tüm dijital parçaların bütünüdür.">
-
-<meta property="og:image:alt" content="Assets nedir?">
+<meta property="og:image:alt" content="Asset nedir, ne demek?">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
@@ -74,12 +97,96 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-07-08">Son güncelleme: 8 Temmuz 2026</time></div>
-<h1 class="disc-title">Assets <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
+<h1 class="disc-title">Asset <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">Bir projeyi oluşturan tüm dijital parçaların bütünüdür.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Yazılım veya oyun geliştirirken kullandığınız her türlü dış kaynak &#x27;asset&#x27; olarak adlandırılır. Bunlar kodun kendisi değil, kodun ihtiyaç duyduğu yardımcı malzemelerdir. Bir projenin görsel, işitsel veya yapısal ham maddeleridir.</p></section><div class="dict-analogy">Bir yemek yaparken kullandığınız malzemeler (sebze, et, baharat) asset ise, bu malzemeleri birleştiren tarifiniz kodunuzdur.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Proje dosyalarınızın içinde ayrı klasörlerde tutulur ve kod yazarken bu dosyalara referans vererek onları çağırırsınız.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Oyun geliştirme, web tasarımı ve mobil uygulama projelerinin tamamında kullanılır.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Kod dosyaları asset sayılır mı?</p><p class="dict-faq-a">Genellikle hayır, kod ana yapı olarak kabul edilirken; görseller, sesler ve 3D modeller asset olarak sınıflandırılır.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/tech-stack/">Tech Stack</a><a href="/dictionary/godot-engine/">Godot Engine</a><a href="/dictionary/design-system/">Design Systems</a></div></section>
-<section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/website-downloader/">Website-downloader</a><a href="/discover/u3-sdk/">U3 SDK</a></div></section>
+<p class="disc-lead">Asset (dijital varlık), yazılım, web ve oyun geliştirme projelerinde programlama mantığını içeren kaynak kodlar haricinde kullanılan tüm görsel, işitsel, 3D model, font ve yapılandırma veri dosyalarının genel adıdır.</p>
+
+<section class="disc-sec">
+<h2>Etimoloji ve Finanstan Bilişime Kavramsal Dönüşüm</h2>
+<p>İngilizce kökenli <em>asset</em> sözcüğü, köken olarak Fransızca <em>assez</em> (yeterli) ve Latince <em>ad satis</em> (tatmin edici miktarda) köklerine dayanır. Finans ve muhasebe dünyasında bir şirketin bilançosundaki &quot;aktifleri, iktisadi kıymetleri ve ekonomik varlıkları&quot; tanımlar.</p>
+<p>Bilişim dünyasında ise bu metafor mükemmel bir şekilde korunmuştur: Bir yazılım projesinde algoritmayı ve mantığı yürüten kaynak kodlar şirketin operasyonel iş gücüyse; projeye görsel kimlik, ses, atmosfer ve veri zenginliği kazandıran tüm medya dosyaları projenin sermayesi, yani <strong>dijital varlıklarıdır (assets)</strong>. Kod tek başına bir iskelet sunarken, varlıklar bu iskelete can ve biçim verir.</p>
+</section>
+
+<section class="disc-sec">
+<h2>1. Web ve Mobil Mühendisliğinde Statik Varlıklar (Static Assets)</h2>
+<p>Modern web ve mobil mimarilerinde kaynak kodlar ile statik varlıklar katı mimari kurallarla birbirinden ayrılır:</p>
+<p>- <strong>Dizin Mimarisi:</strong> Proje kök dizininde <code>/assets</code>, <code>/public</code> veya <code>/static</code> klasörleri altında görseller (<code>.svg</code>, <code>.webp</code>, <code>.avif</code>), yazı tipleri (<code>.woff2</code>) ve stil şablonları yapılandırılır.<br>
+- <strong>İçerik Dağıtım Ağları (CDN):</strong> Statik varlıklar ana uygulama sunucusundan (Origin Server) bağımsızlaştırılarak Cloudflare, AWS CloudFront veya Fastly gibi küresel CDN kenar sunucularına dağıtılır. Bu sayede kullanıcılar varlıkları binlerce kilometre uzaktaki ana sunucudan değil, kendi coğrafi bölgelerindeki kenar sunucudan indirir.<br>
+- <strong>Önbellek Stratejileri (Cache Busting):</strong> Statik dosyaların tarayıcılar tarafından aylarca yerel bellekte tutulabilmesi için HTTP başlıklarına <code>Cache-Control: public, max-age=31536000, immutable</code> eklenir. Dosya içeriği değiştiğinde Vite veya Webpack gibi derleyiciler dosya adına benzersiz bir içerik karması (content hash) enjekte eder (<code>hero.9a3f2b.webp</code>).<br>
+- <strong>Duyarlı Yükleme ve Lazy Loading:</strong> Sayfa açılış hızını (LCP ve Core Web Vitals) korumak için ekranın altında kalan görseller <code>loading=&quot;lazy&quot;</code> niteliğiyle ertelenir; modern ekran çözünürlükleri için <code>srcset</code> ve <code>&lt;picture&gt;</code> etiketleriyle yalnızca ihtiyaç duyulan piksel boyutundaki varlık istemciye gönderilir.</p>
+</section>
+
+<section class="disc-sec">
+<h2>2. Oyun Geliştirme ve 3D Dünyasında Asset Pipeline</h2>
+<p>Oyun motorlarında (Unreal Engine, Unity, Godot) asset kavramı projenin boyut olarak %90'ından fazlasını oluşturur:</p>
+<p>- <strong>3D Modeller ve Geometri:</strong> Poligon ağları (mesh), seviye tasarım öğeleri ve farklı mesafeler için LOD (Level of Detail) kademeleri.<br>
+- <strong>Dokular ve Materyaller (PBR Textures):</strong> Albedo, normal map, roughness ve metallic gibi fiziksel tabanlı işleme katmanları.<br>
+- <strong>İskelet ve Animasyonlar (Rigs &amp; Skeletal Meshes):</strong> Karakterlerin hareket döngüleri, kemik hiyerarşileri ve ters kinematik (IK) verileri.<br>
+- <strong>Asset Pipeline ve Sıkıştırma:</strong> Sanatçıların Blender veya Maya'da ürettiği gigabaytlarca ham dosya, oyun motorunun varlık işleme hattından (Asset Pipeline) geçerek GPU'nun doğrudan bellekten okuyabileceği optimize formatlara (BC7, ASTC) dönüştürülür.<br>
+- <strong>Adreslenebilir Varlıklar (Addressables &amp; Asset Bundles):</strong> Mobil ve konsol oyunlarında tüm oyunun 50 GB olarak tek seferde indirilmesi yerine, yeni bölümler ve karakter varlıkları oyuncu ilerledikçe arka planda parça parça indirilir.</p>
+</section>
+
+<section class="disc-sec">
+<h2>3. Kurumsal Bilişim ve Siber Güvenlikte IT Asset Management (ITAM)</h2>
+<p>Asset terimi yalnızca medya dosyalarıyla sınırlı değildir; kurumsal bilişim ve siber güvenlikte <strong>BT Varlığı</strong> kavramı tüm operasyonel güvenliğin merkezindedir:</p>
+<p>- <strong>Siber Varlık Saldırı Yüzeyi Yönetimi (CAASM):</strong> Bir organizasyona ait tüm fiziksel sunucular, sanal makineler (VM), bulut depolama alanları (S3 bucket), API anahtarları, SSL sertifikaları ve çalışan cihazları birer IT varlığıdır.<br>
+- <strong>Gölge BT (Shadow IT) Tehlikesi:</strong> BT departmanının bilgisi ve onayı dışında açılmış sahipsiz sunucular, unutulmuş test veritabanları veya üçüncü taraf SaaS abonelikleri en kritik siber sızıntı noktalarını oluşturur.<br>
+- <strong>Yazılım Varlık Yönetimi ve SBOM:</strong> Kullanılan açık kaynaklı kütüphanelerin (Software Bill of Materials) ve ticari lisansların eksiksiz envanterinin tutulması, tedarik zinciri saldırılarına karşı ilk savunma hattıdır.</p>
+</section>
+
+<section class="disc-sec">
+<h2>4. Dijital Varlık Yönetimi (DAM) Sistemleri</h2>
+<p>Büyük ölçekli medya kuruluşları, e-ticaret devleri ve küresel markalar için yüz binlerce video, logo, ürün fotoğrafı ve pazarlama materyali <strong>DAM (Digital Asset Management)</strong> platformlarında yönetilir. Bu sistemler yapay zekâ tabanlı otomatik etiketleme, yüz tanıma, telif hakkı takibi ve sürüm kontrolü sağlayarak dijital kaosun önüne geçer.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Asset vs Code vs Data Karşılaştırması</h2>
+<p>- <strong>Code (Kod):</strong> Uygulamanın nasıl davranacağını belirleyen mantık, algoritma ve fonksiyonlardır (yürütülebilir durum).<br>
+- <strong>Asset (Varlık):</strong> Kodun tükettiği, kullanıcıya sunulan görsel, işitsel veya biçimsel medya elemanlarıdır (statik kaynak).<br>
+- <strong>Data (Veri):</strong> Kullanıcıların sisteme girdiği veya dinamik olarak veritabanında üretilen değişken bilgilerdir (dinamik durum).</p>
+</section>
+
+<section class="disc-sec">
+<h2>Sıkça Sorulanlar</h2>
+<div class="dict-faq">
+<div class="dict-faq-item">
+<p class="dict-faq-q">Asset nedir ve yazılımda ne anlama gelir?</p>
+<p class="dict-faq-a">İngilizce kökenli bir kelime olup Türkçede 'dijital varlık' anlamına gelir. Yazılım projelerinde programlama mantığını içeren kodlar dışındaki görsel, işitsel, font ve 3D model gibi tüm medya dosyalarını temsil eder.</p>
+</div>
+<div class="dict-faq-item">
+<p class="dict-faq-q">Web geliştirmede statik asset optimizasyonu nasıl yapılır?</p>
+<p class="dict-faq-a">Görseller WebP veya AVIF gibi yeni nesil formatlara dönüştürülür, fontlar alt kümelere (subsetting) ayrılır, SVG dosyaları sıkıştırılır ve dosyalar CDN üzerinden içerik karması (content hashing) ile önbelleğe alınır.</p>
+</div>
+<div class="dict-faq-item">
+<p class="dict-faq-q">Oyun geliştirmede asset pipeline neden kritiktir?</p>
+<p class="dict-faq-a">Ham grafik ve ses dosyaları çok yüksek bellek tüketir. Asset pipeline, bu dosyaları oyun motorunun ve grafik kartının (GPU) anlık işleyebileceği optimize ikili formatlara dönüştürerek bellek darboğazını ve yükleme sürelerini engeller.</p>
+</div>
+<div class="dict-faq-item">
+<p class="dict-faq-q">Siber güvenlikte IT Asset Management (ITAM) neden önemlidir?</p>
+<p class="dict-faq-a">Sahip olduğunuzu bilmediğiniz bir varlığı koruyamazsınız. Kurumun tüm dijital varlıklarının, sunucularının ve açık portlarının eksiksiz haritalandırılması, saldırı yüzeyini küçültmek için zorunludur.</p>
+</div>
+</div>
+</section>
+
+<section class="disc-sec">
+<h2>İlgili terimler</h2>
+<div class="dict-related">
+<a href="/dictionary/bundler/">Bundler</a>
+<a href="/dictionary/tech-stack/">Tech Stack</a>
+<a href="/dictionary/deployment/">Deployment</a>
+<a href="/dictionary/production-pipeline/">Production Pipeline</a>
+</div>
+</section>
+
+<section class="disc-sec">
+<h2>İlgili araçlar</h2>
+<div class="dict-related">
+<a href="/discover/website-downloader/">Website-downloader</a>
+<a href="/discover/u3-sdk/">U3 SDK</a>
+</div>
+</section>
+
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>
@@ -115,18 +222,17 @@
       <div class="footer-col">
         <div class="footer-col-title">Sosyal medya</div>
         <ul>
-          <li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X</a></li>
+          <li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener">X / Twitter</a></li>
+          <li><a href="https://github.com/GetTreScout" target="_blank" rel="noopener">GitHub</a></li>
+          <li><a href="https://linkedin.com/company/trescout" target="_blank" rel="noopener">LinkedIn</a></li>
         </ul>
       </div>
     </div>
     <div class="footer-bottom">
-      <span>© 2026 TreScout · Tüm hakları saklıdır.</span>
+      <p>© 2026 TreScout. Tüm hakları saklıdır.</p>
     </div>
   </div>
 </footer>
-<script src="/assets/subscribe.js" defer></script>
-  <script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>
-  <script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>
-  <script src="/assets/provider-consent.js" defer></script>
+<script src="/assets/site.js" defer></script>
 </body>
 </html>

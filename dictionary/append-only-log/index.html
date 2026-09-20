@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Append-only log nedir? · TreScout Sözlük</title>
-<meta name="description" content="Registre sécurisé où les anciennes données ne peuvent pas être modifiées, et où seules de nouvelles informations peuvent être ajoutées à la fin.">
+<title>Append-Only Log Nedir, Ne Demek? Veri Mimarisi Rehberi · TreScout</title>
+<meta name="description" content="Append-only log nedir, ne demek? Değiştirilemez kayıt mimarisi, veritabanı WAL, Kafka olay günlükleri ve dağıtık sistem dayanıklılık rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/dictionary/append-only-log/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/append-only-log/">
@@ -14,19 +14,19 @@
 <link rel="alternate" hreflang="es" href="https://trescout.com/es/dictionary/append-only-log/">
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/append-only-log/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/append-only-log/">
-<meta property="og:title" content="Append-only log nedir?">
-<meta property="og:description" content="Registre sécurisé où les anciennes données ne peuvent pas être modifiées, et où seules de nouvelles informations peuvent être ajoutées à la fin.">
+<meta property="og:title" content="Append-Only Log Nedir, Ne Demek? Veri Mimarisi Rehberi">
+<meta property="og:description" content="Append-only log nedir, ne demek? Değiştirilemez kayıt mimarisi, veritabanı WAL, Kafka olay günlükleri ve dağıtık sistem dayanıklılık rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/append-only-log/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:image" content="https://trescout.com/assets/dictionary/og/append-only-log.webp">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Append-only log nedir?">
+<meta property="og:image:alt" content="Append-only log nedir, ne demek?">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Append-only log nedir?">
-<meta name="twitter:description" content="Registre sécurisé où les anciennes données ne peuvent pas être modifiées, et où seules de nouvelles informations peuvent être ajoutées à la fin.">
+<meta name="twitter:title" content="Append-Only Log Nedir, Ne Demek? Veri Mimarisi Rehberi">
+<meta name="twitter:description" content="Append-only log nedir, ne demek? Değiştirilemez kayıt mimarisi, veritabanı WAL, Kafka olay günlükleri ve dağıtık sistem dayanıklılık rehberi.">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/append-only-log.webp">
 <script type="application/ld+json">
 {
@@ -34,13 +34,53 @@
   "@type": "DefinedTerm",
   "name": "Append-only log",
   "inLanguage": "tr",
-  "description": "Registre sécurisé où les anciennes données ne peuvent pas être modifiées, et où seules de nouvelles informations peuvent être ajoutées à la fin.",
+  "description": "Append-only log (yalnızca ekleme yapılabilen kütük), verilerin asla yerinde değiştirilmediği veya silinmediği, her yeni işlemin dosyanın sonuna kronolojik sırayla eklendiği değişmez (immutable) bir veri yapısı mimarisidir.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
     "url": "https://trescout.com/dictionary/"
   },
   "url": "https://trescout.com/dictionary/append-only-log/"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+        "@type": "Question",
+        "name": "Append-only log mimarisi neden yerinde güncelleme (update-in-place) modeline göre daha hızlıdır?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Diskte rastgele blok aramak yerine veriyi her zaman dosyanın sonuna sıralı olarak yazmak (sequential write), disk kafası hareketini ve I/O gecikmesini en aza indirerek çok yüksek yazma hızları sağlar."
+        }
+    },
+    {
+        "@type": "Question",
+        "name": "Append-only log sonsuza kadar büyürse disk alanı nasıl yönetilir?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sistemler belirli aralıklarla mevcut durumun anlık görüntüsünü (snapshot) alır ve arkaplanda birleştirme (compaction) ya da segment temizleme süreçleri çalıştırarak eski logları güvenle siler veya arşivler."
+        }
+    },
+    {
+        "@type": "Question",
+        "name": "Dağıtık sistemlerde ve Apache Kafka'da append-only log nasıl kullanılır?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kafka konuları (topics), mesajların kronolojik sırayla eklendiği bölünmüş (partitioned) birer append-only logdur; birden fazla tüketici bağımsız ofset değerleriyle kütüğü kayıpsız ve yüksek hızda okur."
+        }
+    },
+    {
+        "@type": "Question",
+        "name": "GDPR unutulma hakkı append-only log tutan sistemlerde nasıl uygulanır?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Değişmez kütükteki kullanıcı verileri özel bir anahtarla şifrelenir; kullanıcı silinme talep ettiğinde yalnızca o kullanıcının şifreleme anahtarı imha edilerek (crypto-shredding) kütük bozulmadan veriler okunamaz hale getirilir."
+        }
+    }
+]
 }
 </script>
 <link rel="alternate" type="text/markdown" href="/dictionary/append-only-log.md">
@@ -56,11 +96,56 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Veri &amp; Altyapı</span><time class="dict-time" datetime="2026-08-25">Son güncelleme: 25 Ağustos 2026</time></div>
-<h1 class="disc-title">Append-only log <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Veri &amp; Altyapı</span><time class="dict-time" datetime="2026-09-20">Son güncelleme: 20 Eylül 2026</time></div>
+<h1 class="disc-title">Append-only log <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">Registre sécurisé où les anciennes données ne peuvent pas être modifiées, et où seules de nouvelles informations peuvent être ajoutées à la fin.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Registre sécurisé où les anciennes données ne peuvent pas être modifiées, et où seules de nouvelles informations peuvent être ajoutées à la fin.</p></section>
+<p class="disc-lead">Append-only log (yalnızca ekleme yapılabilen kütük), verilerin asla yerinde değiştirilmediği veya silinmediği, her yeni işlemin dosyanın sonuna kronolojik sırayla eklendiği değişmez (immutable) bir veri yapısı mimarisidir.</p>
+
+<section class="disc-sec">
+<h2>Etimoloji ve Değişmezlik Paradigması</h2>
+<p>Append-only log kavramı, geleneksel veritabanlarının "yerinde güncelleme" (update-in-place) paradigmasına köklü bir alternatif olarak geliştirilmiştir. Klasik veritabanlarında bir bakiye veya profil güncellendiğinde diskteki eski veri silinerek üzerine yeni değer yazılır. Bu yaklaşım, sistem çökmesinde yarım kalan yazmaların veriyi bozması, kilitlenme darboğazları ve rastgele disk erişimi (random I/O) nedeniyle ciddi güvenilirlik sorunları yaratır.</p>
+<p>Append-only log mimarisinde ise geçmiş kutsaldır ve tahrif edilemez. Bir banka hesabı bakiyesini doğrudan değiştirmek yerine, her para yatırma ve çekme hareketi günlüğün sonuna yeni bir kayıt olarak eklenir. Sistemin geçerli durumu (state), geçmişten bugüne eklenen tüm bu olayların kronolojik olarak sırayla yürütülmesinin (fold/reduce) doğal bir sonucudur. Bu prensip, modern dağıtık sistemlerin, yüksek performanslı depolama motorlarının ve blokzincir ağlarının omurgasını oluşturur.</p>
+</section>
+
+<div class="dict-analogy">Şöyle düşünün: Bir muhasebecinin tuttuğu resmi yevmiye defterini hayal edin. Muhasebeci bir satırda hata yaptığında önceki sayfaları açıp daksille eski sayıyı silemez. Bunun yerine defterin en son boş satırına hatayı düzelten yeni bir ters kayıt satırı ekler. Defter yalnızca ileriye doğru büyür, geçmiş asla değiştirilmez; paranın ne zaman ve nasıl hareket ettiği geriye dönük denetlenebilir. Append-only log tam olarak bu dijital defterdir; veriyi anlık fotoğraf değil, yaşayan bir tarihçe olarak kaydeder.</div>
+
+<section class="disc-sec">
+<h2>Teknik Derinlik ve Sistem Mimarisi</h2>
+<p>Teknik düzeyde append-only log mimarisi, donanım optimizasyonları ve veri tutarlılığı açısından üç ana temel üzerine kuruludur:</p>
+<p>- <strong>Sıralı Disk Erişimi (Sequential I/O) ve WAL:</strong> Manyetik diskler (HDD) ve hatta modern katı hal sürücüleri (SSD/NVMe), rastgele adreslere yazmaktan ziyade ardışık bloklara yazarken katbekat daha yüksek verimle çalışır. PostgreSQL, MySQL ve SQLite gibi veritabanları bu nedenle Write-Ahead Logging (WAL) kullanır. Bir işlem (transaction) geldiğinde önce diske ardışık olarak bir append-only log satırı yazılır ve fsync edilir. Bu sayede sunucunun elektriği aniden kesilse bile, yeniden başlatmada log baştan okunarak veri tabanı tam tutarlı haline saniyeler içinde döndürülür.<br>
+- <strong>LSM-Tree ve Veri Birleştirme (Compaction):</strong> RocksDB, Apache Cassandra ve Bigtable gibi yüksek yazma yoğunluklu NoSQL motorları Log-Structured Merge-Tree (LSM-Tree) mimarisini kullanır. Gelen tüm veriler önce bellekteki sıralı bir yapıya (MemTable) ve eşzamanlı bir append-only günlüğe eklenir. MemTable dolduğunda diske değişmez SSTable dosyaları olarak dökülür. Zamanla biriken eski veya geçersiz veriler arkaplanda çalışan birleştirme (compaction) işlemleriyle temizlenir.<br>
+- <strong>Olay Kaynakları (Event Sourcing) ve Dağıtık Akış (Kafka):</strong> Mikroservis mimarilerinde Apache Kafka ve Redpanda gibi dağıtık mesajlaşma platformları devasa birer dağıtık append-only log gibi çalışır. Uygulama durumları veritabanında saklanmak yerine, üretilen olaylar (events) değişmez kütüklere yazılır. Farklı servisler bu kütüğü kendi hızlarında tüketerek kendi yerel durumlarını oluşturur.<br>
+- <strong>Kriptografik Değişmezlik ve Blokzincir:</strong> Bitcoin ve Ethereum gibi dağıtık defter teknolojileri (DLT), her bloğun önceki bloğun kriptografik özetini (hash) içerdiği dağıtık birer append-only log kütüğüdür. Ağdaki hiçbir düğüm geçmiş blokları değiştiremez; yalnızca konsensüs kurallarına uygun yeni bloklar kütüğün sonuna eklenebilir.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Sosyolojik Boyut: Dijital Hafıza ve Denetim İzi</h2>
+<p>Append-only log, salt bir yazılım deseni olmanın ötesinde, dijital hesap verebilirlik ve şeffaflık felsefesini temsil eder. Kurumsal dünyada ve kamu yönetiminde "kimin, neyi, ne zaman değiştirdiği" sorusunun tahrif edilemez bir kesinlikle yanıtlanabilmesi, güven krizlerinin önüne geçen en kritik emniyet supabıdır.</p>
+<p>Geleneksel sistemlerde veritabanı yöneticisinin tek bir SQL komutuyla geçmişi silip yeniden yazabilmesi kurumsal hafızayı kırılganlaştırır. Append-only sistemler ise geçmişin yeniden yazılamayacağını garanti ederek insan hatasına, iç tehditlere ve yetki suistimallerine karşı matematiksel bir dokunulmazlık kalkanı örer.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Sık Yapılan Hatalar ve Yanılgılar</h2>
+<p>- <strong>Disk Tüketimini Öngörmemek:</strong> Logların yalnızca büyüdüğü unutularak uygun veri saklama (retention) ve sıkıştırma (compaction) stratejileri kurulmazsa disk alanı hızla tükenir.<br>
+- <strong>Okuma Performansını İhmal Etmek:</strong> Son durumu hesaplamak için milyonlarca satırlık kütüğü baştan sona taramak (replay) okuma sürelerini felç eder; düzenli durum anlık görüntüleri (snapshots) alınmalıdır.<br>
+- <strong>GDPR Unutulma Hakkını Göz Ardı Etmek:</strong> Kişisel verilerin korunması kanunları silme hakkı talep ettiğinde, değişmez loglardan veri silmek mimariyi zorlar; bu sorun şifreleme anahtarının silinmesiyle verinin anlamsızlaştırıldığı kripto-imha (crypto-shredding) yöntemiyle çözülmelidir.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Sıkça Sorulanlar</h2>
+<div class="dict-faq">
+<div class="dict-faq-item"><p class="dict-faq-q">Append-only log mimarisi neden yerinde güncelleme (update-in-place) modeline göre daha hızlıdır?</p><p class="dict-faq-a">Diskte rastgele blok aramak yerine veriyi her zaman dosyanın sonuna sıralı olarak yazmak (sequential write), disk kafası hareketini ve I/O gecikmesini en aza indirerek çok yüksek yazma hızları sağlar.</p></div>
+<div class="dict-faq-item"><p class="dict-faq-q">Append-only log sonsuza kadar büyürse disk alanı nasıl yönetilir?</p><p class="dict-faq-a">Sistemler belirli aralıklarla mevcut durumun anlık görüntüsünü (snapshot) alır ve arkaplanda birleştirme (compaction) ya da segment temizleme süreçleri çalıştırarak eski logları güvenle siler veya arşivler.</p></div>
+<div class="dict-faq-item"><p class="dict-faq-q">Dağıtık sistemlerde ve Apache Kafka'da append-only log nasıl kullanılır?</p><p class="dict-faq-a">Kafka konuları (topics), mesajların kronolojik sırayla eklendiği bölünmüş (partitioned) birer append-only logdur; birden fazla tüketici bağımsız ofset değerleriyle kütüğü kayıpsız ve yüksek hızda okur.</p></div>
+<div class="dict-faq-item"><p class="dict-faq-q">GDPR unutulma hakkı append-only log tutan sistemlerde nasıl uygulanır?</p><p class="dict-faq-a">Değişmez kütükteki kullanıcı verileri özel bir anahtarla şifrelenir; kullanıcı silinme talep ettiğinde yalnızca o kullanıcının şifreleme anahtarı imha edilerek (crypto-shredding) kütük bozulmadan veriler okunamaz hale getirilir.</p></div>
+</div>
+</section>
+
+<section class="disc-sec">
+<h2>İlgili terimler</h2>
+<div class="dict-related"><a href="/dictionary/distributed/">Distributed</a><a href="/dictionary/serialization/">Serialization</a><a href="/dictionary/local/">Local</a><a href="/dictionary/self-hosted/">Self-hosted</a><a href="/dictionary/runtime/">Runtime</a><a href="/dictionary/memory-management/">Memory Management</a></div>
+</section>
+
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

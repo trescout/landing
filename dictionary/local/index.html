@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Local nedir? · TreScout Sözlük</title>
-<meta name="description" content="Programların veya verilerin internete ihtiyaç duymadan, tamamen sizin cihazınızda çalışmasıdır.">
+<title>Local Ne Demek, Nedir? Localhost ve Local-First Rehberi · TreScout</title>
+<meta name="description" content="Local ne demek, nedir? Localhost mantığı, bellek değişken kapsamı, yerel yapay zekâ çıkarımı ve modern local-first yazılım mimarisi tam rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/local/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/local/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/local/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/local/">
 <link rel="canonical" href="https://trescout.com/dictionary/local/">
-<meta property="og:title" content="Local nedir?">
-<meta property="og:description" content="Programların veya verilerin internete ihtiyaç duymadan, tamamen sizin cihazınızda çalışmasıdır.">
+<meta property="og:title" content="Local Ne Demek, Nedir? Localhost ve Local-First Rehberi">
+<meta property="og:description" content="Local ne demek, nedir? Localhost mantığı, bellek değişken kapsamı, yerel yapay zekâ çıkarımı ve modern local-first yazılım mimarisi tam rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/local/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,15 +24,17 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Local nedir?">
+<meta name="twitter:title" content="Local Ne Demek, Nedir? Localhost ve Local-First Rehberi">
+<meta name="twitter:description" content="Local ne demek, nedir? Localhost mantığı, bellek değişken kapsamı, yerel yapay zekâ çıkarımı ve modern local-first yazılım mimarisi tam rehberi.">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/local.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Local",
+  "alternateName": "Yerel Bilişim ve Localhost",
   "inLanguage": "tr",
-  "description": "Günümüzde çoğu uygulama veriyi buluta gönderir. Local çalışma prensibinde ise her şey sizin bilgisayarınızın veya telefonunuzun işlemcisinde biter. Bu durum verilerinizin dışarı çıkmadığı anlamına gelir.",
+  "description": "Local (yerel), verilerin veya kodların uzak bir bulut yerine doğrudan kullanıcının kendi cihazında, çekirdeğinde veya bellek kapsamında çalıştırılmasıdır.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -48,10 +50,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Local çalışmanın en büyük avantajı nedir?",
+      "name": "Local ne demek ve bilişimdeki karşılığı nedir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "En büyük avantajı gizliliktir; verileriniz cihazınızdan asla ayrılmaz."
+        "text": "İngilizce kökenli bir kelime olup Türkçede 'yerel' anlamına gelir. Bilişimde verilerin ve programların internetteki uzak bir sunucu yerine kullanıcının kendi fiziksel cihazında bulunmasını ifade eder."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Localhost (127.0.0.1) tam olarak nasıl çalışır?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bilgisayarın harici bir ağ kartına veya internete ihtiyaç duymadan, işletim sistemi çekirdeği içerisinde kendi kendine paket gönderip almasını sağlayan özel geri döngü (loopback) mekanizmasıdır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Local-first yazılım yaklaşımının bulut sistemlerinden farkı nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bulut sistemlerinde ana veri sunucuda tutulurken, local-first yaklaşımında verinin asıl sahibi yerel cihazdır. İnternet olmasa dahi uygulama tam performansla çalışır ve ağ bağlandığında CRDT protokolleriyle bulutla eşitlenir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Yapay zekâ modellerini local (yerel) çalıştırmanın en büyük avantajı nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tam veri gizliliğidir. Kodlar, belgeler ve kullanıcı soruları harici bir bulut şirketine gönderilmez, internet kesintilerinden etkilenmez ve sürekli token API ücreti ödenmez."
       }
     }
   ]
@@ -59,14 +85,11 @@
 </script>
 <link rel="alternate" type="text/markdown" href="/dictionary/local.md">
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
-      <link rel="preload" href="/assets/fonts/inter-latin-ext.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/inter-latin-ext.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
-
-<meta name="twitter:description" content="Programların veya verilerin internete ihtiyaç duymadan, tamamen sizin cihazınızda çalışmasıdır.">
-
-<meta property="og:image:alt" content="Local nedir?">
+<meta property="og:image:alt" content="Local ne demek, nedir?">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
@@ -74,12 +97,97 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-06-30">Son güncelleme: 30 Haziran 2026</time></div>
-<h1 class="disc-title">Local <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
+<h1 class="disc-title">Local <span class="disc-accent">ne demek, nedir?</span></h1>
 
-<p class="disc-lead">Programların veya verilerin internete ihtiyaç duymadan, tamamen sizin cihazınızda çalışmasıdır.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Günümüzde çoğu uygulama veriyi buluta gönderir. Local çalışma prensibinde ise her şey sizin bilgisayarınızın veya telefonunuzun işlemcisinde biter. Bu durum verilerinizin dışarı çıkmadığı anlamına gelir.</p></section><div class="dict-analogy">Bir restoranda yemek yemek yerine, kendi mutfağınızda kendi malzemelerinizle yemek pişirmek gibidir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Yazılımı bulut üzerinden kullanmak yerine, kurulum dosyalarını cihazınıza indirirsiniz. İnterneti kapatsanız bile program tüm özellikleriyle çalışmaya devam eder.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Gizlilik odaklı yapay zekâ araçlarında, kişisel dosya yönetim sistemlerinde ve güvenli yazılım geliştirme ortamlarında kullanılır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Self-hosting ile benzerdir ancak local genellikle tek bir cihazı, self-hosting ise bir sunucuyu ifade eder.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Local çalışmanın en büyük avantajı nedir?</p><p class="dict-faq-a">En büyük avantajı gizliliktir; verileriniz cihazınızdan asla ayrılmaz.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/self-hosted/">Self-hosted</a><a href="/dictionary/offline/">Offline</a></div></section>
-<section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/magnitude/">Magnitude</a></div></section>
+<p class="disc-lead">Local (yerel), bilişim ve yazılım dünyasında işlemlerin, verilerin veya hesaplama döngülerinin uzak bir bulut sunucusu yerine doğrudan kullanıcının kendi fiziksel cihazında, işletim sistemi çekirdeğinde veya fonksiyonel bellek kapsamında çalıştırılmasıdır.</p>
+
+<section class="disc-sec">
+<h2>Etimoloji ve Bilişimde 4 Temel Katman</h2>
+<p>İngilizce kökenli <em>local</em> kelimesi Türkçede <strong>yerel</strong> anlamına gelir. Günlük hayatta belirli bir yöreye veya mekâna ait olanı tanımlayan bu sözcük, bilişim ekosisteminde dört kritik mühendislik katmanında temel bir kavramdır:</p>
+<p>1. <strong>Ağ ve İşletim Sistemi:</strong> Bilgisayarın harici bir ağa çıkmadan kendi kendine konuşmasını sağlayan <code>localhost</code> ve geri döngü (loopback) arabirimi.<br>
+2. <strong>Programlama Dilleri ve Bellek:</strong> Bir fonksiyon veya blok içinde tanımlanan, yaşam döngüsü çağrı yığını (call stack) ile sınırlı olan yerel değişkenler (local variables).<br>
+3. <strong>Yazılım Mimarisi (Local-First):</strong> Verinin asıl sahibinin kullanıcının kendi cihazı olduğu, bulutun ise yalnızca senkronizasyon için ikincil bir katman olarak kullanıldığı modern mimari paradigma.<br>
+4. <strong>Yapay Zekâ ve Uç Bilişim (Local AI):</strong> Büyük dil modellerinin (LLM) harici API'lere bağımlı kalmaksızın doğrudan yerel GPU/NPU donanımı üzerinde çalıştırılması.</p>
+</section>
+
+<section class="disc-sec">
+<h2>1. Ağ Boyutu: Localhost ve Loopback Arayüzü</h2>
+<p>Geliştiricilerin her gün kullandığı <code>localhost</code>, bilgisayarın ağ üzerindeki kendi kimliğidir:</p>
+<p>- <strong>Loopback Arayüzü:</strong> Standart olarak <code>127.0.0.1</code> (IPv4) veya <code>::1</code> (IPv6) IP adresine atanmıştır. Bu adrese gönderilen ağ paketleri fiziksel ağ kartına (NIC) veya kabloya gitmez; işletim sistemi çekirdeği (kernel) içinde anında geri döndürülür.<br>
+- <strong>Unix Domain Sockets:</strong> Yerel makinede çalışan iki süreç (örneğin bir web sunucusu ile PostgreSQL veritabanı) ağ protokollerinin (TCP/IP checksum, paketleme) getirdiği ek yükten kaçınmak için doğrudan dosya sistemi tabanlı yerel soketler (<code>.sock</code>) üzerinden ışık hızında haberleşir.</p>
+</section>
+
+<section class="disc-sec">
+<h2>2. Programlama Dilleri ve Bellek Yönetimi: Local Scope</h2>
+<p>Yazılım dillerinde bir değişkenin &quot;local&quot; (yerel) olması, bellek güvenliği ve performans için hayati önem taşır:</p>
+<p>- <strong>Çağrı Yığını (Call Stack) Ayrımı:</strong> Bir fonksiyon çağrıldığında o fonksiyona ait yerel değişkenler stack frame içine yazılır. Fonksiyon tamamlandığında ise stack pointer geriye çekilir ve bu bellek anında, sıfır çöp toplama (GC) maliyetiyle sisteme geri kazandırılır.<br>
+- <strong>Kapsam (Lexical Scoping) ve Gizleme:</strong> Yerel değişkenler global isim alanını kirletmez ve yan etkileri (side effects) sınırlandırır. Fonksiyonel programlamada kapanışlar (closures), yerel değişkenlerin fonksiyon bittikten sonra da güvenli bir bağlamda yaşamasını sağlar.</p>
+</section>
+
+<section class="disc-sec">
+<h2>3. Mimari Devrim: Local-First Yazılım Yaklaşımı</h2>
+<p>Geleneksel SaaS (Bulut) modelinde kullanıcının verileri uzak şirket sunucularında tutulur ve internet bağlantısı koptuğunda uygulama felç olur. <strong>Local-First</strong> hareketi (Ink &amp; Switch araştırmacılarının öncülüğünde) bu paradigmayı tersine çevirir:</p>
+<p>- <strong>Veri Mülkiyeti:</strong> Dosyalarınız ve veritabanınız doğrudan kendi sabit diskinizde (SQLite, Markdown veya yerel IndexedDB) saklanır.<br>
+- <strong>Sıfır Gecikmeli Arayüz:</strong> Kullanıcı bir tuşa bastığında yanıt uzak sunucudan beklenmez; arayüz yerel disk hızında mikrosaniyeler içinde güncellenir.<br>
+- <strong>Çakışmasız Çoğaltılan Veri Tipleri (CRDT):</strong> İnternet bağlantısı kesildiğinde birden fazla kullanıcı aynı belge üzerinde çalışsa bile, ağ yeniden kurulduğunda Automerge veya Yjs gibi algoritmalar sayesinde veriler insan müdahalesine gerek kalmadan matematiksel olarak pürüzsüzce birleşir (conflict-free merge).<br>
+- <strong>Popüler Örnekler:</strong> Obsidian not sistemi, Linear proje yönetimi ve yerel önbellek destekli modern geliştirici araçları.</p>
+</section>
+
+<section class="disc-sec">
+<h2>4. Yapay Zekâda Yerel Devrim: Local AI</h2>
+<p>Yapay zekânın yükselişiyle birlikte &quot;local&quot; kavramı kurumsal güvenlik ve gizlilik için en kritik terim haline gelmiştir:</p>
+<p>- <strong>Veri Mahremiyeti (Sıfır Sızıntı):</strong> Hassas şirket kodları, mali tablolar veya sağlık verileri OpenAI ya da Anthropic sunucularına iletilmez; Ollama, llama.cpp veya vLLM gibi açık kaynaklı çalışma ortamlarıyla yerel donanımda işlenir.<br>
+- <strong>Maliyet ve Kota Bağımsızlığı:</strong> Token başına API ücreti veya hız sınırlaması (rate limit) olmadan modeller sınırsızca çalıştırılır.<br>
+- <strong>Apple Silicon ve Birleşik Bellek Avantajı:</strong> CPU ve GPU'nun aynı yüksek hızlı bellek havuzunu (UMA) paylaşması, tüketici dizüstü bilgisayarlarında bile 70B parametreli modellerin yerel olarak yürütülmesini mümkün kılmıştır.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Karşılaştırma: Local vs Self-Hosted vs Cloud</h2>
+<p>- <strong>Local (Yerel):</strong> Yazılım ve veri doğrudan kullanıcının kendi kişisel makinesindedir. İnternet gerekmez, maksimum gizlilik ve sıfır ağ gecikmesi sunar.<br>
+- <strong>Self-Hosted (Kendi Sunucunda):</strong> Kullanıcının ofisinde veya evinde bir sunucuda barındırılır; yerel ağ üzerinden bağlanılır, bakım yükü kullanıcıdadır.<br>
+- <strong>Cloud (Bulut / SaaS):</strong> Tüm donanım ve veri üçüncü taraf bir şirketin veri merkezindedir; yüksek erişilebilirlik sunar ancak sürekli internet ve gizlilik tavizi gerektirir.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Sıkça Sorulanlar</h2>
+<div class="dict-faq">
+<div class="dict-faq-item">
+<p class="dict-faq-q">Local ne demek ve bilişimdeki karşılığı nedir?</p>
+<p class="dict-faq-a">İngilizce kökenli bir kelime olup Türkçede 'yerel' anlamına gelir. Bilişimde verilerin ve programların internetteki uzak bir sunucu yerine kullanıcının kendi fiziksel cihazında bulunmasını ifade eder.</p>
+</div>
+<div class="dict-faq-item">
+<p class="dict-faq-q">Localhost (127.0.0.1) tam olarak nasıl çalışır?</p>
+<p class="dict-faq-a">Bilgisayarın harici bir ağ kartına veya internete ihtiyaç duymadan, işletim sistemi çekirdeği içerisinde kendi kendine paket gönderip almasını sağlayan özel geri döngü (loopback) mekanizmasıdır.</p>
+</div>
+<div class="dict-faq-item">
+<p class="dict-faq-q">Local-first yazılım yaklaşımının bulut sistemlerinden farkı nedir?</p>
+<p class="dict-faq-a">Bulut sistemlerinde ana veri sunucuda tutulurken, local-first yaklaşımında verinin asıl sahibi yerel cihazdır. İnternet olmasa dahi uygulama tam performansla çalışır ve ağ bağlandığında CRDT protokolleriyle bulutla eşitlenir.</p>
+</div>
+<div class="dict-faq-item">
+<p class="dict-faq-q">Yapay zekâ modellerini local (yerel) çalıştırmanın en büyük avantajı nedir?</p>
+<p class="dict-faq-a">Tam veri gizliliğidir. Kodlar, belgeler ve kullanıcı soruları harici bir bulut şirketine gönderilmez, internet kesintilerinden etkilenmez ve sürekli token API ücreti ödenmez.</p>
+</div>
+</div>
+</section>
+
+<section class="disc-sec">
+<h2>İlgili terimler</h2>
+<div class="dict-related">
+<a href="/dictionary/self-hosted/">Self-hosted</a>
+<a href="/dictionary/offline/">Offline</a>
+<a href="/dictionary/runtime/">Runtime</a>
+<a href="/dictionary/network-stack/">Network Stack</a>
+</div>
+</section>
+
+<section class="disc-sec">
+<h2>İlgili araçlar</h2>
+<div class="dict-related">
+<a href="/discover/magnitude/">Magnitude</a>
+</div>
+</section>
+
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>
@@ -115,18 +223,17 @@
       <div class="footer-col">
         <div class="footer-col-title">Sosyal medya</div>
         <ul>
-          <li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X</a></li>
+          <li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener">X / Twitter</a></li>
+          <li><a href="https://github.com/GetTreScout" target="_blank" rel="noopener">GitHub</a></li>
+          <li><a href="https://linkedin.com/company/trescout" target="_blank" rel="noopener">LinkedIn</a></li>
         </ul>
       </div>
     </div>
     <div class="footer-bottom">
-      <span>© 2026 TreScout · Tüm hakları saklıdır.</span>
+      <p>© 2026 TreScout. Tüm hakları saklıdır.</p>
     </div>
   </div>
 </footer>
-<script src="/assets/subscribe.js" defer></script>
-  <script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>
-  <script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>
-  <script src="/assets/provider-consent.js" defer></script>
+<script src="/assets/site.js" defer></script>
 </body>
 </html>

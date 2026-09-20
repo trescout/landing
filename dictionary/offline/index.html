@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Offline nedir? · Çevrimdışı · TreScout Sözlük</title>
-<meta name="description" content="İnternet bağlantısına ihtiyaç duymadan, cihazın kendi kaynaklarıyla çalışan sistem.">
+<title>Offline Nedir, Ne Demek? Çevrimdışı Sistem Mimarisi · TreScout</title>
+<meta name="description" content="Offline nedir, ne demek? Çevrimdışı çalışma mantığı, offline-first yazılım mimarisi, hava boşluklu (air-gapped) güvenlik ve yerel yapay zekâ rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/offline/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/offline/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/offline/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/offline/">
 <link rel="canonical" href="https://trescout.com/dictionary/offline/">
-<meta property="og:title" content="Offline nedir?">
-<meta property="og:description" content="İnternet bağlantısına ihtiyaç duymadan, cihazın kendi kaynaklarıyla çalışan sistem.">
+<meta property="og:title" content="Offline Nedir, Ne Demek? Çevrimdışı Sistem Mimarisi">
+<meta property="og:description" content="Offline nedir, ne demek? Çevrimdışı çalışma mantığı, offline-first yazılım mimarisi, hava boşluklu (air-gapped) güvenlik ve yerel yapay zekâ rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/offline/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,8 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Offline nedir?">
+<meta name="twitter:title" content="Offline Nedir, Ne Demek? Çevrimdışı Sistem Mimarisi">
+<meta name="twitter:description" content="Offline nedir, ne demek? Çevrimdışı çalışma mantığı, offline-first yazılım mimarisi, hava boşluklu (air-gapped) güvenlik ve yerel yapay zekâ rehberi.">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/offline.webp">
 <script type="application/ld+json">
 {
@@ -33,7 +34,7 @@
   "name": "Offline",
   "alternateName": "Çevrimdışı",
   "inLanguage": "tr",
-  "description": "İnternet bağlantısına ihtiyaç duymadan, cihazın kendi kaynaklarıyla çalışan sistemdir. Veriler buluta gitmediği için gizlilik ve hız açısından büyük avantaj sağlar.",
+  "description": "Offline (çevrimdışı), bir bilişim aygıtının veya yazılımın merkezi bir ağa ya da internete aktif bağlantı kurmaksızın temel işlevlerini yerel donanım kaynaklarıyla sürdürebilme durumudur.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -48,22 +49,38 @@
   "@type": "FAQPage",
   "mainEntity": [
     {
-      "@type": "Question",
-      "name": "Bilgisayarım çok ısınır mı?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Evet, ağır modelleri çalıştırmak cihazın işlemcisini yorabilir."
-      }
+        "@type": "Question",
+        "name": "Offline-first mimari ile geleneksel istemci-sunucu mimarisi arasındaki temel fark nedir?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Geleneksel mimari her istekte sunucuya ve aktif internete bağımlıyken, offline-first mimari yerel istemci veritabanını birincil kaynak kabul eder; internet bağlantısını yalnızca asenkron bir senkronizasyon aracı olarak kullanır."
+        }
     },
     {
-      "@type": "Question",
-      "name": "Güncellemeleri nasıl alır?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "İnternete bağlandığınızda manuel olarak veya sistem üzerinden güncellenir."
-      }
+        "@type": "Question",
+        "name": "Çevrimdışı yapılan değişiklikler internete bağlanıldığında nasıl senkronize edilir?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "İstemci ağ bağlantısını algıladığı anda yerel işlem günlüğünü sunucuya aktarır; CRDT veya Operasyonel Dönüştürme gibi algoritmalar sayesinde veri çakışmaları kayıpsız bir şekilde çözülerek merkezi veriyle eşitlenir."
+        }
+    },
+    {
+        "@type": "Question",
+        "name": "Hava boşluklu (air-gapped) sistem nedir ve ne zaman offline tutulmalıdır?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fiziksel ve mantıksal olarak hiçbir dış ağa bağlı olmayan izole sistemlerdir; askeri donanımlar, nükleer santral kontrol üniteleri ve hassas tıbbi cihazlar gibi sıfır siber saldırı toleransı gerektiren senaryolarda tercih edilir."
+        }
+    },
+    {
+        "@type": "Question",
+        "name": "Cihaz üzerinde (offline) yapay zekâ çalıştırmak internet tabanlı modellere göre hangi avantajları sağlar?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "İstemci tarafında çalışan yerel modeller sıfır ağ gecikmesi sunar, kullanıcı verileri asla üçüncü taraf sunuculara iletilmediği için mutlak veri mahremiyeti sağlar ve internet bağlantısı olmayan ortamlarda kesintisiz çalışır."
+        }
     }
-  ]
+]
 }
 </script>
 <link rel="alternate" type="text/markdown" href="/dictionary/offline.md">
@@ -72,10 +89,7 @@
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
-
-<meta name="twitter:description" content="İnternet bağlantısına ihtiyaç duymadan, cihazın kendi kaynaklarıyla çalışan sistem.">
-
-<meta property="og:image:alt" content="Offline nedir?">
+<meta property="og:image:alt" content="Offline nedir, ne demek?">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
@@ -83,12 +97,62 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-06-03">Son güncelleme: 3 Haziran 2026</time></div>
-<h1 class="disc-title">Offline <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
+<h1 class="disc-title">Offline <span class="disc-accent">nedir, ne demek?</span></h1>
 <p class="dict-en">Çevrimdışı</p>
-<p class="disc-lead">İnternet bağlantısına ihtiyaç duymadan, cihazın kendi kaynaklarıyla çalışan sistem.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>İnternet bağlantısına ihtiyaç duymadan, cihazın kendi kaynaklarıyla çalışan sistemdir. Veriler buluta gitmediği için gizlilik ve hız açısından büyük avantaj sağlar.</p></section><div class="dict-analogy">Şöyle düşünün: İnternet gerektiren bir kütüphaneye gitmek yerine, tüm kitapların evinizdeki kendi kütüphanenizde bulunması gibidir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Yapay zekâ modeli, cihazın işlemcisine ve belleğine yüklenir. Tüm hesaplamalar cihaz üzerinde yapılır.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Gizlilik gerektiren tıbbi cihazlarda, internetin olmadığı bölgelerde veya kişisel bilgisayarlarda kullanılır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Sadece basit modellerle çalışabileceği düşünülür, ancak günümüzde güçlü modeller de cihaz üzerinde çalışabilir.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Bilgisayarım çok ısınır mı?</p><p class="dict-faq-a">Evet, ağır modelleri çalıştırmak cihazın işlemcisini yorabilir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Güncellemeleri nasıl alır?</p><p class="dict-faq-a">İnternete bağlandığınızda manuel olarak veya sistem üzerinden güncellenir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/slm/">SLM</a><a href="/dictionary/open-weights/">Open Weights</a><a href="/dictionary/self-hosting/">Self-hosting</a><a href="/dictionary/quantization/">Quantization</a></div></section>
-<section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/project-nomad/">Project N.O.M.A.D</a></div></section>
+<p class="disc-lead">Offline (çevrimdışı), bir bilişim aygıtının veya yazılımın merkezi bir ağa ya da internete aktif bağlantı kurmaksızın temel işlevlerini yerel donanım kaynaklarıyla sürdürebilme durumudur.</p>
+
+<section class="disc-sec">
+<h2>Etimoloji ve Çevrimdışı Mimarisi</h2>
+<p>Offline kavramı, telekomünikasyonun ilk yıllarında iletim hattına bağlı olmama durumunu belirten "off the line" tabirinden doğmuştur. Günümüz yazılım mühendisliğinde offline, yalnızca internet kablosunun çekilmesi durumunda sistemin donması anlamına gelmez. Modern disiplinde bu kavram, uygulamanın birincil çalışma alanı olarak yerel belleği (RAM), yerel diskleri (NVMe/SSD) ve istemci işlem gücünü (CPU/GPU/NPU) merkeze aldığı "Offline-First" mimarisini simgeler.</p>
+<p>Geleneksel web ve bulut sistemleri, her kullanıcı etkileşimini uzaktaki sunucuya göndermek, orada işlemek ve yanıtı beklemek üzerine kuruludur; bu modelde ağ gecikmesi ve sunucu kesintileri deneyimi doğrudan kilitler. Offline sistemler ise veriyi doğrudan kullanıcının cihazında barındırır; ağ bağlantısını yalnızca isteğe bağlı ve asenkron bir eşitleme katmanı olarak konumlandırır. Bu mimari, veri güvenliğini zirveye taşırken ağ kopmalarına karşı tam dayanıklılık sağlar.</p>
+</section>
+
+<div class="dict-analogy">Şöyle düşünün: İşlerini sürekli uzaktaki merkez ofise telefon açıp danışarak yürüten bir sahra mühendisi, telefon şebekesi çöktüğü anda hiçbir karar veremez ve işi tamamen durur. Buna karşın offline-first yaklaşım, aynı mühendisin yanındaki dayanıklı çantada projenin tüm planlarını, yönergelerini, teknik kütüphanesini ve hesap araçlarını taşıması gibidir. Mühendis dağ başında, internetin ve baz istasyonunun bulunmadığı en izole vadide bile notlarını alır, projelerini çizer ve hesaplarını tamamlar. Merkez ofisle bağlantı kurulduğu ilk anda ise yalnızca sahada aldığı yeni kayıtları merkeze ileterek iki tarafın verilerini eşitler. Offline yaklaşım, kullanıcıyı uzak bir sunucu sinyaline muhtaç olmaktan çıkarıp donanımının asıl sahibi yapar.</div>
+
+<section class="disc-sec">
+<h2>Teknik Derinlik ve Sistem Mimarisi</h2>
+<p>Teknik düzeyde eksiksiz bir offline mimarisi, istemci tarafında yerel veri saklama, asenkron iletişim ve matematiksel uzlaşma protokollerinin uyumunu gerektirir:</p>
+<p>- <strong>Yerel Depolama ve İstemci Veritabanları:</strong> Web tarafında Service Workers ve Cache Storage API statik varlıkları saklarken, veri katmanında IndexedDB, SQLite, LibSQL veya WatermelonDB gibi yerel motorlar kullanılır. CRUD işlemleri milisaniyeler içinde yerel veritabanına işlenir; kullanıcı arabirimi sunucu yanıtı beklemeden anında güncellenir (iyimser güncelleme - optimistic update).<br>
+- <strong>Çatışmasız Çoğaltılmış Veri Tipleri (CRDT):</strong> Çevrimdışı ortamda aynı veri kümesi üzerinde birden fazla istemcinin bağımsız değişiklikler yapması durumunda veri çakışması kaçınılmazdır. Modern sistemler, merkezi kilit mekanizmasına gerek duymadan dağıtık değişiklikleri matematiksel olarak birleştirebilen CRDT (Conflict-free Replicated Data Types) algoritmalarını kullanır. Yolda yazılan not internete bağlanıldığı anda sunucuyla kayıpsız birleşir.<br>
+- <strong>Hava Boşluğu (Air-Gapped) Güvenliği:</strong> Yüksek güvenlik gerektiren askeri, tıbbi veya finansal sistemlerde çevrimdışı kalmak bilinçli bir mimari tercihtir. Dış ağlara fiziksel ve mantıksal olarak bağlanmayan hava boşluklu sistemler, uzaktan siber saldırı yüzeyini sıfıra indirir.<br>
+- <strong>Cihaz Üzerinde Yerel Yapay Zekâ (On-Device AI):</strong> SLM (Small Language Model) ve kuantizasyon teknolojileri sayesinde derin öğrenme modelleri (Llama, Gemma vb.) WebGPU, NPU veya llama.cpp motorlarıyla internetten yalıtılmış olarak doğrudan dizüstü bilgisayarlarda çalıştırılabilmektedir.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Sosyolojik Boyut: Ağ Bağımlılığı ve Veri Egemenliği</h2>
+<p>Offline sistemler, salt teknik bir mimari tercihi olmanın ötesinde, gözetim kapitalizmine ve dijital tekellere karşı güçlü bir politik ve felsefi duruşu ifade eder. Bulut bilişim şirketlerinin tüm kullanıcı hareketlerini, kişisel notlarını ve tüketim alışkanlıklarını merkezi sunucularında toplaması, bireyi sürekli gözetlenen bir veri kaynağına dönüştürür.</p>
+<p>İnternet kesildiğinde çalışmayı reddeden akıllı ev cihazları veya not uygulamaları, kullanıcının gerçekte o cihazlara sahip olmadığını, yalnızca geçici bir hak kiraladığını gösterir. Offline-first ve yerel-merkezli (local-first) yazılımlar veri egemenliğini tekrar bireye devreder. Doğal afet, altyapı çöküşü veya sansür dönemlerinde toplumun işleyişini ayakta tutabilen yegane güç, çevrimdışı çalışabilen dayanıklı yazılımlardır.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Sık Yapılan Hatalar ve Yanılgılar</h2>
+<p>- <strong>Sadece Hata Yönetimi Sanmak:</strong> Offline olmayı yalnızca ağ hatası aldığında ekrana uyarı basmak sanmak; sistemin internet yokken de kesintisiz çalışması hedeflenmelidir.<br>
+- <strong>Çakışma Çözümünü Basite İndirgemek:</strong> Dağıtık veri değişikliklerinde en son yazanın kazanması mantığını körü körüne uygulamak, kritik veri kayıplarına yol açar.<br>
+- <strong>Yerel Şifrelemeyi Unutmak:</strong> Verilerin istemci cihazda saklanması fiziksel risk doğurur; yerel veritabanları mutlaka uçtan uca şifrelenmelidir (at-rest encryption).<br>
+- <strong>Donanım Sınırlarını Yoksaymak:</strong> Özellikle yerel yapay zekâ modelleri çalıştırılırken RAM, VRAM ve batarya bütçesi gözetilmeden optimizasyonsuz model yüklemek cihazı kilitleyebilir.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Sıkça Sorulanlar</h2>
+<div class="dict-faq">
+<div class="dict-faq-item"><p class="dict-faq-q">Offline-first mimari ile geleneksel istemci-sunucu mimarisi arasındaki temel fark nedir?</p><p class="dict-faq-a">Geleneksel mimari her istekte sunucuya ve aktif internete bağımlıyken, offline-first mimari yerel istemci veritabanını birincil kaynak kabul eder; internet bağlantısını yalnızca asenkron bir senkronizasyon aracı olarak kullanır.</p></div>
+<div class="dict-faq-item"><p class="dict-faq-q">Çevrimdışı yapılan değişiklikler internete bağlanıldığında nasıl senkronize edilir?</p><p class="dict-faq-a">İstemci ağ bağlantısını algıladığı anda yerel işlem günlüğünü sunucuya aktarır; CRDT veya Operasyonel Dönüştürme gibi algoritmalar sayesinde veri çakışmaları kayıpsız bir şekilde çözülerek merkezi veriyle eşitlenir.</p></div>
+<div class="dict-faq-item"><p class="dict-faq-q">Hava boşluklu (air-gapped) sistem nedir ve ne zaman offline tutulmalıdır?</p><p class="dict-faq-a">Fiziksel ve mantıksal olarak hiçbir dış ağa bağlı olmayan izole sistemlerdir; askeri donanımlar, nükleer santral kontrol üniteleri ve hassas tıbbi cihazlar gibi sıfır siber saldırı toleransı gerektiren senaryolarda tercih edilir.</p></div>
+<div class="dict-faq-item"><p class="dict-faq-q">Cihaz üzerinde (offline) yapay zekâ çalıştırmak internet tabanlı modellere göre hangi avantajları sağlar?</p><p class="dict-faq-a">İstemci tarafında çalışan yerel modeller sıfır ağ gecikmesi sunar, kullanıcı verileri asla üçüncü taraf sunuculara iletilmediği için mutlak veri mahremiyeti sağlar ve internet bağlantısı olmayan ortamlarda kesintisiz çalışır.</p></div>
+</div>
+</section>
+
+<section class="disc-sec">
+<h2>İlgili terimler</h2>
+<div class="dict-related"><a href="/dictionary/self-hosted/">Self-hosted</a><a href="/dictionary/local/">Local</a><a href="/dictionary/open-source/">Open Source</a><a href="/dictionary/slm/">SLM</a><a href="/dictionary/open-weights/">Open Weights</a><a href="/dictionary/quantization/">Quantization</a></div>
+</section>
+
+<section class="disc-sec">
+<h2>İlgili araçlar</h2>
+<div class="dict-related"><a href="/discover/project-nomad/">Project N.O.M.A.D</a></div>
+</section>
+
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

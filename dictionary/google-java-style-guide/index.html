@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Google Java Style Guide nedir? · TreScout Sözlük</title>
-<meta name="description" content="Google tarafından belirlenen, Java dilinde yazılan kodların düzenli ve okunabilir olması için kullanılan kurallar bütünü.">
+<title>Google Java Style Guide Nedir, Ne Demek? Kod Standartları · TreScout</title>
+<meta name="description" content="Google Java Style Guide nedir, ne demek? Java kodlama standartları, Checkstyle kuralları, temiz kod pratikleri ve otomatik biçimlendirme rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/dictionary/google-java-style-guide/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/google-java-style-guide/">
@@ -14,19 +14,19 @@
 <link rel="alternate" hreflang="es" href="https://trescout.com/es/dictionary/google-java-style-guide/">
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/google-java-style-guide/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/google-java-style-guide/">
-<meta property="og:title" content="Google Java Style Guide nedir?">
-<meta property="og:description" content="Google tarafından belirlenen, Java dilinde yazılan kodların düzenli ve okunabilir olması için kullanılan kurallar bütünü.">
+<meta property="og:title" content="Google Java Style Guide Nedir, Ne Demek? Kod Standartları">
+<meta property="og:description" content="Google Java Style Guide nedir, ne demek? Java kodlama standartları, Checkstyle kuralları, temiz kod pratikleri ve otomatik biçimlendirme rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/google-java-style-guide/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:image" content="https://trescout.com/assets/dictionary/og/google-java-style-guide.webp">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Google Java Style Guide nedir?">
+<meta property="og:image:alt" content="Google Java Style Guide nedir, ne demek?">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Google Java Style Guide nedir?">
-<meta name="twitter:description" content="Google tarafından belirlenen, Java dilinde yazılan kodların düzenli ve okunabilir olması için kullanılan kurallar bütünü.">
+<meta name="twitter:title" content="Google Java Style Guide Nedir, Ne Demek? Kod Standartları">
+<meta name="twitter:description" content="Google Java Style Guide nedir, ne demek? Java kodlama standartları, Checkstyle kuralları, temiz kod pratikleri ve otomatik biçimlendirme rehberi.">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/google-java-style-guide.webp">
 <script type="application/ld+json">
 {
@@ -34,13 +34,53 @@
   "@type": "DefinedTerm",
   "name": "Google Java Style Guide",
   "inLanguage": "tr",
-  "description": "Google tarafından belirlenen, Java dilinde yazılan kodların düzenli ve okunabilir olması için kullanılan kurallar bütünü.",
+  "description": "Google Java Style Guide, Google tarafından açık kaynak ve kurumsal Java projelerinde kod okunabilirliğini, tutarlılığını ve bakım kolaylığını sağlamak amacıyla belirlenmiş resmi kodlama standartları bütünüdür.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
     "url": "https://trescout.com/dictionary/"
   },
   "url": "https://trescout.com/dictionary/google-java-style-guide/"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+        "@type": "Question",
+        "name": "Google Java Style Guide neden 4 boşluk yerine 2 boşluklu girintileme kullanır?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "İki boşluk kuralı, özellikle iç içe geçmiş lambda ifadeleri, anonim sınıflar ve builder desenlerinde kodun yatayda 100 karakter sınırını aşmasını engeller ve ekran alanını daha verimli kullanır."
+        }
+    },
+    {
+        "@type": "Question",
+        "name": "Google Java stil kuralları projelerde otomatik olarak nasıl uygulanır?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Google tarafından sağlanan 'google-java-format' aracı IDE'lere (IntelliJ, Eclipse, VS Code) entegre edilir ya da Spotless/Maven/Gradle eklentileriyle kod kaydetme ve CI derleme aşamasında otomatik formatlanır."
+        }
+    },
+    {
+        "@type": "Question",
+        "name": "Google Java Style Guide ile Oracle (Sun) kodlama kuralları arasındaki fark nedir?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sun kuralları 4 boşluklu girinti ve 80 karakter sınırı kullanırken, Google stili 2 boşluk girinti, 100 karakter sınırı, katı import kuralları ve modern araç otomasyonunu merkeze alır."
+        }
+    },
+    {
+        "@type": "Question",
+        "name": "Checkstyle ile Google Java Style Guide aynı şey midir?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hayır; Google Java Style Guide kurallar dokümanıdır, Checkstyle ise bu kuralları XML formatında yapılandırıp kod tabanında kural ihlallerini denetleyen statik analiz aracıdır."
+        }
+    }
+]
 }
 </script>
 <link rel="alternate" type="text/markdown" href="/dictionary/google-java-style-guide.md">
@@ -56,13 +96,55 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-01">Son güncelleme: 1 Eylül 2026</time></div>
-<h1 class="disc-title">Google Java Style Guide <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-20">Son güncelleme: 20 Eylül 2026</time></div>
+<h1 class="disc-title">Google Java Style Guide <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">Google tarafından belirlenen, Java dilinde yazılan kodların düzenli ve okunabilir olması için kullanılan kurallar bütünü.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Google tarafından belirlenen, Java dilinde yazılan kodların düzenli ve okunabilir olması için kullanılan kurallar bütünü.</p></section>
-<section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/checkstyle/">Checkstyle</a></div></section>
-<aside class="disc-cta"><p><strong>İlgili araçları ve günlük raporları keşfet.</strong> Her gün yeni bir teknoloji terimi ve aracı çıkıyor; geride kalmamak için TreScout bültenine katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" data-page-type="dictionary" data-content-slug="google-java-style-guide" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
+<p class="disc-lead">Google Java Style Guide, Google tarafından açık kaynak ve kurumsal Java projelerinde kod okunabilirliğini, tutarlılığını ve bakım kolaylığını sağlamak amacıyla belirlenmiş resmi kodlama standartları bütünüdür.</p>
+
+<section class="disc-sec">
+<h2>Etimoloji ve Kurumsal Kod Standartları</h2>
+<p>Google Java Style Guide, dünyanın en büyük teknoloji şirketlerinden biri olan Google'ın on binlerce mühendisinin aynı kod tabanında sorunsuz çalışabilmesi için geliştirdiği kurallar bütünüdür. İlk yayınlandığı günden bu yana yalnızca Google içinde değil, küresel açık kaynak ekosisteminde ve kurumsal yazılım dünyasında da de facto bir standart haline gelmiştir.</p><p>Kılavuz; kaynak dosya yapısından paket bildirimlerine, girintileme kurallarından sınıf ve değişken adlandırma konvansiyonlarına, Javadoc biçimlendirmesinden hata yönetimine kadar bir Java dosyasının sahip olması gereken tüm biçimsel ve yapısal sınırları çizer. Bir yazılım projesinde herkesin kendi kişisel zevkine göre boşluk bırakması veya parantez açması, kod incelemelerinde (code review) gereksiz tartışmalara ve zaman kaybına yol açar. Google Java Style Guide, bu sübjektif tartışmaları ortadan kaldırarak geliştiricilerin yalnızca iş mantığına (business logic) odaklanmasını sağlar.</p>
+</section>
+
+<div class="dict-analogy">Şöyle düşünün: Trafik kurallarının bulunmadığı, her sürücünün kafasına göre şerit değiştirdiği bir otoyol hayal edin; böyle bir yolda kaza kaçınılmazdır. Standart bir stil kılavuzu ise otoyolun şerit çizgileri ve trafik ışıkları gibidir. Binlerce mühendis aynı kod tabanında çalışırken, kurallara uyulduğu sürece kimse kimseye çarpmaz. Yeni bir projeye dahil olan geliştirici yabancılık çekmez; çünkü kodun ritmi ve yapısı evrensel kurallarla dokunmuştur.</div>
+
+<section class="disc-sec">
+<h2>Teknik Derinlik ve Temel Kurallar</h2>
+<p>- <strong>Kaynak Dosya Yapısı ve Girinti:</strong> Dosyalar her zaman UTF-8 kodlanır. Girintileme için sekme (tab) yerine tam iki (2) boşluk kullanılır. Satır uzunluğu 100 karakterle sınırlıdır; parantezler K&amp;R stiline göre satır sonunda yer alır.<br>
+- <strong>İçe Aktarma (Imports) Standartları:</strong> Jokerli içe aktarmalar (<code>import java.util.*;</code>) yasaktır. Her sınıf tek tek açıkça içe aktarılır ve alfabetik olarak sıralanır.<br>
+- <strong>İsimlendirme Konvansiyonları:</strong> Sınıflar <code>UpperCamelCase</code>, metot ve değişkenler <code>lowerCamelCase</code>, sabitler <code>CONSTANT_CASE</code> ile adlandırılır. Kısaltmalarda yalnızca ilk harf büyük tutulur (<code>XmlHttpRequest</code>).<br>
+- <strong>Savunmacı Programlama ve Otomasyon:</strong> Geçersiz kılınan metotlarda <code>@Override</code> zorunludur. Boş bırakılan catch blokları yasaktır. Kurallar <code>google-java-format</code>, Checkstyle ve Spotless eklentileriyle CI/CD hattında otomatik denetlenir.<br>
+- <strong>Javadoc ve Yorum Standartları:</strong> Genel sınıflar için Javadoc açıklaması yazılması şarttır; <code>@param</code>, <code>@return</code> ve <code>@throws</code> etiketleri eksiksiz doldurulur.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Sosyolojik Boyut: Okunabilirlik ve Ekip Verimliliği</h2>
+<p>Yazılım mühendisliğinde yapılan araştırmalar, bir geliştiricinin zamanının yüzde 80'inden fazlasını yeni kod yazmakla değil, mevcut kodu okumakla geçirdiğini göstermektedir. Dolayısıyla okunabilirlik, yazma kolaylığından çok daha değerlidir. </p><p>Google Java Style Guide, geliştiricilerin kod üzerindeki kişisel ego ve estetik kaygılarını geride bırakıp ekibin ortak üretkenliğini öncelemesini sağlar. Açık kaynak dünyasında dışarıdan katkı (pull request) kabul eden projeler için bu kılavuz, katkıcıların projeye zahmetsizce uyum sağlamasını güvence altına alan evrensel bir anlaşma metnidir.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Sık Yapılan Hatalar ve Yanılgılar</h2>
+<p>- <strong>Biçimlendirmeyi Elle Yapmaya Çalışmak:</strong> Boşlukları tek tek saymak yerine IDE'ye <code>google-java-format</code> eklentisi kurulmalı ve otomatik kaydetme formatı açılmalıdır.<br>
+- <strong>Checkstyle Kurallarını Kapatmak:</strong> Süreç sıkıştığında stil kontrollerini CI/CD'de devre dışı bırakmak teknik borcu büyütür.<br>
+- <strong>Yorum Satırlarında Aşırıya Kaçmak:</strong> Kodun kendini açıklaması hedeflenmeli, aşikar getter/setter metotlarına anlamsız yorumlar yazılmamalıdır.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Sıkça Sorulanlar</h2>
+<div class="dict-faq">
+<div class="dict-faq-item"><p class="dict-faq-q">Google Java Style Guide neden 4 boşluk yerine 2 boşluklu girintileme kullanır?</p><p class="dict-faq-a">İki boşluk kuralı, özellikle iç içe geçmiş lambda ifadeleri, anonim sınıflar ve builder desenlerinde kodun yatayda 100 karakter sınırını aşmasını engeller ve ekran alanını daha verimli kullanır.</p></div>
+<div class="dict-faq-item"><p class="dict-faq-q">Google Java stil kuralları projelerde otomatik olarak nasıl uygulanır?</p><p class="dict-faq-a">Google tarafından sağlanan 'google-java-format' aracı IDE'lere (IntelliJ, Eclipse, VS Code) entegre edilir ya da Spotless/Maven/Gradle eklentileriyle kod kaydetme ve CI derleme aşamasında otomatik formatlanır.</p></div>
+<div class="dict-faq-item"><p class="dict-faq-q">Google Java Style Guide ile Oracle (Sun) kodlama kuralları arasındaki fark nedir?</p><p class="dict-faq-a">Sun kuralları 4 boşluklu girinti ve 80 karakter sınırı kullanırken, Google stili 2 boşluk girinti, 100 karakter sınırı, katı import kuralları ve modern araç otomasyonunu merkeze alır.</p></div>
+<div class="dict-faq-item"><p class="dict-faq-q">Checkstyle ile Google Java Style Guide aynı şey midir?</p><p class="dict-faq-a">Hayır; Google Java Style Guide kurallar dokümanıdır, Checkstyle ise bu kuralları XML formatında yapılandırıp kod tabanında kural ihlallerini denetleyen statik analiz aracıdır.</p></div>
+</div>
+</section>
+
+<section class="disc-sec">
+<h2>İlgili terimler</h2>
+<div class="dict-related"><a href="/dictionary/sun-code-conventions/">Sun Code Conventions</a><a href="/dictionary/code-snippets/">Code Snippets</a><a href="/dictionary/refactoring/">Refactoring</a><a href="/dictionary/qa/">QA</a><a href="/dictionary/production-pipeline/">Production Pipeline</a><a href="/dictionary/tdd/">TDD</a></div>
+</section>
+
+<aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>
 </main>
@@ -107,9 +189,8 @@
   </div>
 </footer>
 <script src="/assets/subscribe.js" defer></script>
-<script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>
-<script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>
-<script src="/assets/provider-consent.js" defer></script>
-<script src="/assets/telemetry.js" defer></script>
+  <script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>
+  <script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>
+  <script src="/assets/provider-consent.js" defer></script>
 </body>
 </html>

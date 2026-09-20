@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Self-hosted nedir? · TreScout Sözlük</title>
-<meta name="description" content="Bir yazılımı üçüncü taraf bir bulut hizmeti yerine, kendi bilgisayarınızda veya özel sunucunuzda barındırmaktır.">
+<title>Self-Hosted Nedir, Ne Demek Türkçe? Öz Barındırma Rehberi · TreScout</title>
+<meta name="description" content="Self-hosted nedir, ne demek Türkçe karşılığı nedir? Öz barındırma mimarisi, ev sunucusu (homelab), Docker kurulumu ve veri egemenliği rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/self-hosted/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/self-hosted/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/self-hosted/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/self-hosted/">
 <link rel="canonical" href="https://trescout.com/dictionary/self-hosted/">
-<meta property="og:title" content="Self-hosted nedir?">
-<meta property="og:description" content="Bir yazılımı üçüncü taraf bir bulut hizmeti yerine, kendi bilgisayarınızda veya özel sunucunuzda barındırmaktır.">
+<meta property="og:title" content="Self-Hosted Nedir, Ne Demek Türkçe? Öz Barındırma Rehberi">
+<meta property="og:description" content="Self-hosted nedir, ne demek Türkçe karşılığı nedir? Öz barındırma mimarisi, ev sunucusu (homelab), Docker kurulumu ve veri egemenliği rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/self-hosted/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,15 +24,17 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Self-hosted nedir?">
+<meta name="twitter:title" content="Self-Hosted Nedir, Ne Demek Türkçe? Öz Barındırma Rehberi">
+<meta name="twitter:description" content="Self-hosted nedir, ne demek Türkçe karşılığı nedir? Öz barındırma mimarisi, ev sunucusu (homelab), Docker kurulumu ve veri egemenliği rehberi.">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/self-hosted.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Self-hosted",
+  "alternateName": "Öz Barındırma",
   "inLanguage": "tr",
-  "description": "Self-hosted yaklaşımı, verilerinizin kontrolünün tamamen sizde olmasını sağlar. Yazılımı kendi donanımınızda çalıştırdığınız için dışarıdan bir şirketin sunucularına bağımlı kalmazsınız. Bu, özellikle gizlilik ve güvenlik konularında tam hakimiyet sağlar.",
+  "description": "Self-hosted (öz barındırma), yazılımların üçüncü taraf bulut sağlayıcıları yerine kullanıcının kendi donanımında, sunucusunda veya VPS üzerinde çalıştırılmasıdır.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -48,18 +50,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Teknik bilgi gerektirir mi?",
+      "name": "Self-hosted nedir ve Türkçe karşılığı ne demek?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Evet, kurulum ve bakım süreçlerini yönetmek için temel düzeyde sistem yönetimi bilgisi gerekebilir."
+        "text": "İngilizce kökenli bir kavram olup Türkçede 'öz barındırma' veya 'kendi sunucusunda barındırma' anlamına gelir. Yazılımların üçüncü taraf bulut sağlayıcıları yerine kullanıcının kendi donanımında veya sunucusunda çalıştırılmasıdır."
       }
     },
     {
       "@type": "Question",
-      "name": "Daha mı güvenli?",
+      "name": "Self-hosted kurmak için ileri düzey kodlama bilmek gerekir mi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Veri gizliliği açısından daha güvenlidir, ancak güvenliği sağlamak tamamen sizin sorumluluğunuzdadır."
+        "text": "Hayır, kod yazmanız gerekmez. Temel Linux komut satırı bilgisi ve Docker mantığını anlamak yeterlidir. Ayrıca CasaOS ve Umbrel gibi modern sistemler uygulama mağazası mantığıyla tek tıkla kurulum imkânı sunar."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Ev sunucusunda (Homelab) self-hosted çalıştırmak güvenli midir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Doğru yapılandırıldığında ticari bulutlardan daha güvenlidir çünkü verileriniz şirketlerle paylaşılmaz. Ancak modeme doğrudan port açmak yerine Tailscale gibi VPN tünelleri kullanmak ve güvenlik güncellemelerini aksatmamak şarttır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "3-2-1 yedekleme kuralı neden hayati önem taşır?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Self-hosted sistemlerde donanım bozulduğunda veriyi kurtaracak bir müşteri hizmetleri yoktur. 3 kopya, 2 farklı ortam ve 1 harici lokasyon kuralı donanım yangın veya arızalarında veri kaybını önler."
       }
     }
   ]
@@ -67,14 +85,11 @@
 </script>
 <link rel="alternate" type="text/markdown" href="/dictionary/self-hosted.md">
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
-      <link rel="preload" href="/assets/fonts/inter-latin-ext.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/inter-latin-ext.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
-
-<meta name="twitter:description" content="Bir yazılımı üçüncü taraf bir bulut hizmeti yerine, kendi bilgisayarınızda veya özel sunucunuzda barındırmaktır.">
-
-<meta property="og:image:alt" content="Self-hosted nedir?">
+<meta property="og:image:alt" content="Self-hosted nedir, ne demek Türkçe?">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
@@ -82,12 +97,103 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-06-26">Son güncelleme: 26 Haziran 2026</time></div>
-<h1 class="disc-title">Self-hosted <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
+<h1 class="disc-title">Self-hosted <span class="disc-accent">nedir, ne demek Türkçe?</span></h1>
 
-<p class="disc-lead">Bir yazılımı üçüncü taraf bir bulut hizmeti yerine, kendi bilgisayarınızda veya özel sunucunuzda barındırmaktır.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Self-hosted yaklaşımı, verilerinizin kontrolünün tamamen sizde olmasını sağlar. Yazılımı kendi donanımınızda çalıştırdığınız için dışarıdan bir şirketin sunucularına bağımlı kalmazsınız. Bu, özellikle gizlilik ve güvenlik konularında tam hakimiyet sağlar.</p></section><div class="dict-analogy">Bir otelde kalmak yerine kendi evinizi inşa edip tüm eşyalarınızı oraya yerleştirmek gibidir; kontrol tamamen sizdedir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>İstediğiniz yazılımın kaynak kodunu veya kurulum dosyasını indirin. Bir sunucu veya yerel bilgisayar hazırlayın ve yazılımı buraya kurup çalıştırın. Güncellemeleri ve bakımı kendiniz yapın.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Kişisel bulut depolama, özel yapay zekâ modelleri ve gizlilik gerektiren tüm projelerde tercih edilir.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Cloud (bulut) hizmetleriyle karıştırılmamalıdır; bulutta başkasının bilgisayarını kiralarsınız, self-hosted&#x27;da kendi kontrolünüzdeki bir alanı kullanırsınız.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Teknik bilgi gerektirir mi?</p><p class="dict-faq-a">Evet, kurulum ve bakım süreçlerini yönetmek için temel düzeyde sistem yönetimi bilgisi gerekebilir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Daha mı güvenli?</p><p class="dict-faq-a">Veri gizliliği açısından daha güvenlidir, ancak güvenliği sağlamak tamamen sizin sorumluluğunuzdadır.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/self-hosting/">Self-hosting</a><a href="/dictionary/open-source/">Open Source</a><a href="/dictionary/offline/">Offline</a></div></section>
-<section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/immich/">Immich</a><a href="/discover/chatwoot/">Chatwoot</a><a href="/discover/open-generative-ai/">Open-Generative-AI</a><a href="/discover/openwa/">OpenWA</a><a href="/discover/openship/">Openship</a><a href="/discover/instatic/">Instatic</a><a href="/discover/trek/">TREK</a><a href="/discover/celld/">Celld</a></div></section>
+<p class="disc-lead">Self-hosted (öz barındırma veya yerel barındırma), bir yazılımı, veritabanını veya dijital servisi üçüncü taraf bir bulut şirketine (SaaS) bağımlı olmadan, tamamen kendi kontrolünüzdeki fiziksel sunucuda, yerel donanımda (homelab) veya sanal özel sunucuda (VPS) çalıştırma ve yönetme mimarisidir.</p>
+
+<section class="disc-sec">
+<h2>Etimoloji ve Türkçe Karşılığı</h2>
+<p>İngilizce kökenli <em>self</em> (kendi) ve <em>host</em> (ev sahipliği yapmak, barındırmak) sözcüklerinin birleşiminden oluşan terim, Türkçede <strong>öz barındırma</strong>, <strong>kendi sunucusunda barındırma</strong> veya <strong>yerel barındırma</strong> olarak adlandırılır.</p>
+<p>Geleneksel SaaS (Hizmet Olarak Yazılım) modelinde kullanıcılar yalnızca birer kiracıdır; veriler ve altyapı yabancı şirketlerin veri merkezlerinde kilitlidir. Self-hosted yaklaşımında ise sistem yöneticisi ve mülk sahibi doğrudan sizsinizdir: Veritabanı, depolama diskleri, ağ kuralları ve şifreleme anahtarları tamamen sizin fiziksel veya mantıksal mülkiyetinizdedir.</p>
+</section>
+
+<section class="disc-sec">
+<h2>1. SaaS Yorgunluğundan Bulut Geri Dönüşüne (Cloud Repatriation)</h2>
+<p>Son on yılda her yazılımın aylık yinelenen abonelik (subscription) modeline geçmesi, bireyler ve kurumlar nezdinde ciddi bir abonelik yorgunluğu yaratmıştır:</p>
+<p>- <strong>Maliyet Çıkmazı:</strong> Kullanıcı başına aylık 10-50 dolar ödenen SaaS araçları, ekip büyüdükçe yüz binlerce dolarlık kontrolsüz maliyetlere dönüşür. Nitekim 37signals (Basecamp) gibi küresel teknoloji liderlerinin buluttan çıkıp kendi donanımlarına dönmesi (<strong>Cloud Repatriation</strong>), self-hosted yaklaşımının ekonomik rasyonelliğini kanıtlamıştır.<br>
+- <strong>Veri Egemenliği ve Gizlilik:</strong> Şirketlerin kullanım koşullarını tek taraflı değiştirmesi, verileri yapay zekâ modellerine eğitim verisi yapması veya hesapları aniden kapatması riskine karşı en güçlü kalkan öz barındırmadır. KVKK ve GDPR standartlarına göre hassas müşteri verilerini kendi sınırlarınızda tutmak yasal uyumluluğu da güvenceye alır.</p>
+</section>
+
+<section class="disc-sec">
+<h2>2. Donanım Mimarisi ve Homelab Ekosistemi</h2>
+<p>Self-hosted dünyası günümüzde pahalı kurumsal sunucu kabinlerinden çıkıp oturma odalarına ve ev laboratuvarlarına (Homelab) inmiştir:</p>
+<p>- <strong>Düşük Güç Tüketen Donanımlar:</strong> Intel N100 tabanlı mini PC'ler, Raspberry Pi 5 veya eski dizüstü bilgisayarlar; yılda yalnızca birkaç yüz liralık elektrik tüketimiyle 7/24 kesintisiz çalışabilir.<br>
+- <strong>Depolama ve Veri Güvenliği (ZFS &amp; RAID):</strong> Birden fazla sabit diskin aynalandığı RAID dizilimleri ve ZFS dosya sistemi, bir disk fiziksel olarak yansa dahi veri kaybını imkânsız kılar. TrueNAS ve unRAID gibi işletim sistemleri bu donanımları profesyonel depolama havuzlarına dönüştürür.<br>
+- <strong>Bulut VPS Alternatifi:</strong> Evinde donanım barındırmak istemeyenler için Hetzner veya OVH gibi sağlayıcılardan kiralanan ucuz sanal sunucular (VPS), self-hosted özgürlüğünü bulut güvenilirliğiyle birleştirir.</p>
+</section>
+
+<section class="disc-sec">
+<h2>3. Modern Self-Hosted Yazılım Yığını</h2>
+<p>Eski dönemlerde Linux üzerinde elle PHP ve MySQL derlemek gereken günler geride kalmıştır. Modern mimari üç sütun üzerine kuruludur:</p>
+<p>- <strong>Konteynerleştirme (Docker &amp; Docker Compose):</strong> Her servis (Nextcloud, Vaultwarden, Jellyfin) kendi kütüphaneleriyle izole bir Docker konteyneri içinde çalışır. <code>docker-compose.yml</code> dosyası sayesinde onlarca servis tek bir komutla ayağa kaldırılır.<br>
+- <strong>Tersine Vekil Sunucu (Reverse Proxy):</strong> Nginx, Traefik veya Caddy; gelen web isteklerini karşılar, alan adlarını doğru konteynere yönlendirir ve Let's Encrypt üzerinden ücretsiz SSL/TLS sertifikalarını otomatik yeniler.<br>
+- <strong>Güvenli Ağ Tünelleri (Zero-Trust &amp; Mesh VPN):</strong> Ev modeminde dışarıya port açmak siber saldırılara davetiye çıkarır. Modern self-hosted kullanıcıları Tailscale, WireGuard veya Cloudflare Tunnels kullanarak sistemlerini dış dünyaya kapalı, yalnızca yetkili cihazlarına açık bir iç ağda (Mesh VPN) güvenle çalıştırır.</p>
+</section>
+
+<section class="disc-sec">
+<h2>4. Popüler Self-Hosted Çözümleri</h2>
+<p>- <strong>Kişisel Bulut ve Fotoğraf:</strong> Google Drive yerine Nextcloud, Google Photos yerine yapay zekâ yüz tanımalı Immich.<br>
+- <strong>Şifre Yönetimi:</strong> 1Password yerine açık kaynaklı ve hafif Vaultwarden (Bitwarden uyumlu).<br>
+- <strong>Medya Akışı:</strong> Netflix ve Spotify yerine kendi arşivinizi yönettiğiniz Jellyfin ve Plex.<br>
+- <strong>Yerel Yapay Zekâ:</strong> ChatGPT aboneliği yerine kendi ekran kartınızda çalışan Ollama ve Open WebUI.<br>
+- <strong>Akıllı Ev:</strong> Bulut bağımlı üreticiler yerine tamamen yerel çalışan Home Assistant.</p>
+</section>
+
+<section class="disc-sec">
+<h2>5. Sorumluluklar: 3-2-1 Yedekleme Kuralı</h2>
+<p>Özgürlük sorumluluk getirir. Bir donanım arızasında arkanızda destek bileti açabileceğiniz bir bulut şirketi yoktur. Bu nedenle <strong>3-2-1 Yedekleme Kuralı</strong> zorunludur:</p>
+<p>- Verilerinizin en az <strong>3</strong> kopyasını tutun.<br>
+- Bu kopyaları <strong>2</strong> farklı fiziksel ortamda (örneğin dahili disk ve harici USB) saklayın.<br>
+- Kopyalardan en az <strong>1</strong> tanesini yangın ve hırsızlığa karşı farklı bir fiziksel konumda (şifreli uzak sunucu veya harici depolama) barındırın.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Sıkça Sorulanlar</h2>
+<div class="dict-faq">
+<div class="dict-faq-item">
+<p class="dict-faq-q">Self-hosted nedir ve Türkçe karşılığı ne demek?</p>
+<p class="dict-faq-a">İngilizce kökenli bir kavram olup Türkçede 'öz barındırma' veya 'kendi sunucusunda barındırma' anlamına gelir. Yazılımların üçüncü taraf bulut sağlayıcıları yerine kullanıcının kendi donanımında veya sunucusunda çalıştırılmasıdır.</p>
+</div>
+<div class="dict-faq-item">
+<p class="dict-faq-q">Self-hosted kurmak için ileri düzey kodlama bilmek gerekir mi?</p>
+<p class="dict-faq-a">Hayır, kod yazmanız gerekmez. Temel Linux komut satırı bilgisi ve Docker mantığını anlamak yeterlidir. Ayrıca CasaOS ve Umbrel gibi modern sistemler uygulama mağazası mantığıyla tek tıkla kurulum imkânı sunar.</p>
+</div>
+<div class="dict-faq-item">
+<p class="dict-faq-q">Ev sunucusunda (Homelab) self-hosted çalıştırmak güvenli midir?</p>
+<p class="dict-faq-a">Doğru yapılandırıldığında ticari bulutlardan daha güvenlidir çünkü verileriniz şirketlerle paylaşılmaz. Ancak modeme doğrudan port açmak yerine Tailscale gibi VPN tünelleri kullanmak ve güvenlik güncellemelerini aksatmamak şarttır.</p>
+</div>
+<div class="dict-faq-item">
+<p class="dict-faq-q">3-2-1 yedekleme kuralı neden hayati önem taşır?</p>
+<p class="dict-faq-a">Self-hosted sistemlerde donanım bozulduğunda veriyi kurtaracak bir müşteri hizmetleri yoktur. 3 kopya, 2 farklı ortam ve 1 harici lokasyon kuralı donanım yangın veya arızalarında veri kaybını önler.</p>
+</div>
+</div>
+</section>
+
+<section class="disc-sec">
+<h2>İlgili terimler</h2>
+<div class="dict-related">
+<a href="/dictionary/local/">Local</a>
+<a href="/dictionary/offline/">Offline</a>
+<a href="/dictionary/open-source/">Open Source</a>
+<a href="/dictionary/deployment/">Deployment</a>
+</div>
+</section>
+
+<section class="disc-sec">
+<h2>İlgili araçlar</h2>
+<div class="dict-related">
+<a href="/discover/immich/">Immich</a>
+<a href="/discover/chatwoot/">Chatwoot</a>
+<a href="/discover/open-generative-ai/">Open-Generative-AI</a>
+<a href="/discover/openwa/">OpenWA</a>
+<a href="/discover/openship/">Openship</a>
+<a href="/discover/instatic/">Instatic</a>
+<a href="/discover/trek/">TREK</a>
+<a href="/discover/celld/">Celld</a>
+</div>
+</section>
+
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>
@@ -123,18 +229,17 @@
       <div class="footer-col">
         <div class="footer-col-title">Sosyal medya</div>
         <ul>
-          <li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X</a></li>
+          <li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener">X / Twitter</a></li>
+          <li><a href="https://github.com/GetTreScout" target="_blank" rel="noopener">GitHub</a></li>
+          <li><a href="https://linkedin.com/company/trescout" target="_blank" rel="noopener">LinkedIn</a></li>
         </ul>
       </div>
     </div>
     <div class="footer-bottom">
-      <span>© 2026 TreScout · Tüm hakları saklıdır.</span>
+      <p>© 2026 TreScout. Tüm hakları saklıdır.</p>
     </div>
   </div>
 </footer>
-<script src="/assets/subscribe.js" defer></script>
-  <script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>
-  <script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>
-  <script src="/assets/provider-consent.js" defer></script>
+<script src="/assets/site.js" defer></script>
 </body>
 </html>

@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Vector Database nedir? · TreScout Sözlük</title>
-<meta name="description" content="Yapay zekanın verileri anlamlarına göre hızlıca bulabilmesi için saklandığı özel bir veritabanı türüdür.">
+<title>Vector Database Nedir, Ne Demek? Vektör Veritabanı · TreScout</title>
+<meta name="description" content="Vector Database nedir, ne demek? Vektör veritabanı mimarisi, embedding benzerlik araması (k-NN), HNSW indeksleme ve yapay zekâ hafıza rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/vector-database/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/vector-database/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/vector-database/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/vector-database/">
 <link rel="canonical" href="https://trescout.com/dictionary/vector-database/">
-<meta property="og:title" content="Vector Database nedir?">
-<meta property="og:description" content="Yapay zekanın verileri anlamlarına göre hızlıca bulabilmesi için saklandığı özel bir veritabanı türüdür.">
+<meta property="og:title" content="Vector Database Nedir, Ne Demek? Vektör Veritabanı">
+<meta property="og:description" content="Vector Database nedir, ne demek? Vektör veritabanı mimarisi, embedding benzerlik araması (k-NN), HNSW indeksleme ve yapay zekâ hafıza rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/vector-database/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,15 +24,17 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Vector Database nedir?">
+<meta name="twitter:title" content="Vector Database Nedir, Ne Demek? Vektör Veritabanı">
+<meta name="twitter:description" content="Vector Database nedir, ne demek? Vektör veritabanı mimarisi, embedding benzerlik araması (k-NN), HNSW indeksleme ve yapay zekâ hafıza rehberi.">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/vector-database.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Vector Database",
+  "alternateName": "Vektör Veritabanı",
   "inLanguage": "tr",
-  "description": "Vektör veritabanı, verileri geleneksel satır ve sütunlar yerine anlamlarını temsil eden sayısal vektörler olarak saklayan özel bir depolama sistemidir. Bu yapı, yapay zekanın milyonlarca veri arasından en alakalı olanı milisaniyeler içinde bulmasını sağlar.",
+  "description": "Vector Database (vektör veritabanı), yüksek boyutlu sayısal vektörleri (embeddings) depolamak, indekslemek ve aralarındaki anlamsal benzerlik mesafelerini milisaniyeler içinde sorgulamak için tasarlanmış özel veritabanı mimarisidir.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -47,22 +49,38 @@
   "@type": "FAQPage",
   "mainEntity": [
     {
-      "@type": "Question",
-      "name": "Klasik veritabanlarından daha mı yavaştır?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Hayır, çok büyük veri setlerinde benzerlik araması yapmak için klasik yöntemlerden çok daha hızlıdır."
-      }
+        "@type": "Question",
+        "name": "Klasik ilişkisel veritabanları (PostgreSQL vb.) vektör veritabanı olarak kullanılabilir mi?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet; pgvector gibi açık kaynaklı eklentiler sayesinde PostgreSQL gibi güçlü ilişkisel veritabanları HNSW indeksleri oluşturarak vektör benzerlik aramalarını başarıyla yürütebilir."
+        }
     },
     {
-      "@type": "Question",
-      "name": "Hangi veriler saklanabilir?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Metin, görsel, ses veya video gibi anlamı vektöre dönüştürülebilen her türlü veri saklanabilir."
-      }
+        "@type": "Question",
+        "name": "Vektör veritabanı ile geleneksel tam metin (Full-Text) arama arasındaki fark nedir?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tam metin arama (Elasticsearch vb.) kelimelerin birebir eşleşmesine (lexical) odaklanırken; vektör veritabanı eş anlamlıları, kavramsal ilişkileri ve anlamsal benzerliği (semantic) bulur."
+        }
+    },
+    {
+        "@type": "Question",
+        "name": "Embedding boyutu (dimensions) ne anlama gelir?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bir verinin kaç adet sayısal koordinatla temsil edildiğini belirtir; örneğin 1536 boyutlu bir embedding, o verinin 1536 eksenli çok boyutlu bir uzaydaki noktasal koordinatıdır."
+        }
+    },
+    {
+        "@type": "Question",
+        "name": "Kuantizasyon vektör veritabanlarında nasıl tasarruf sağlar?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "32-bit kayan noktalı (float32) sayıları 8-bit veya 1-bit tam sayılara dönüştürerek bellek (RAM) tüketimini yüzde 75'e varan oranda düşürür ve arama hızını katlar."
+        }
     }
-  ]
+]
 }
 </script>
 <link rel="alternate" type="text/markdown" href="/dictionary/vector-database.md">
@@ -71,10 +89,7 @@
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
-
-<meta name="twitter:description" content="Yapay zekanın verileri anlamlarına göre hızlıca bulabilmesi için saklandığı özel bir veritabanı türüdür.">
-
-<meta property="og:image:alt" content="Vector Database nedir?">
+<meta property="og:image:alt" content="Vector Database nedir, ne demek?">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
@@ -82,12 +97,55 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Veri &amp; Altyapı</span><time class="dict-time" datetime="2026-06-03">Son güncelleme: 3 Haziran 2026</time></div>
-<h1 class="disc-title">Vector Database <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Veri &amp; Altyapı</span><time class="dict-time" datetime="2026-09-20">Son güncelleme: 20 Eylül 2026</time></div>
+<h1 class="disc-title">Vector Database <span class="disc-accent">nedir, ne demek?</span></h1>
+<p class="dict-en">Vektör Veritabanı</p>
+<p class="disc-lead">Vector Database (vektör veritabanı), yüksek boyutlu sayısal vektörleri (embeddings) depolamak, indekslemek ve aralarındaki anlamsal benzerlik mesafelerini milisaniyeler içinde sorgulamak için tasarlanmış özel veritabanı mimarisidir.</p>
 
-<p class="disc-lead">Yapay zekanın verileri anlamlarına göre hızlıca bulabilmesi için saklandığı özel bir veritabanı türüdür.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Vektör veritabanı, verileri geleneksel satır ve sütunlar yerine anlamlarını temsil eden sayısal vektörler olarak saklayan özel bir depolama sistemidir. Bu yapı, yapay zekanın milyonlarca veri arasından en alakalı olanı milisaniyeler içinde bulmasını sağlar.</p></section><div class="dict-analogy">Şöyle düşünün: Geleneksel veritabanı bir kütüphanedeki alfabetik katalog gibidir. Vektör veritabanı ise bir insanın zihnindeki kavram haritası gibidir; bir fikri düşündüğünüzde onunla ilişkili tüm anılarınızın aynı anda aklınıza gelmesi gibi çalışır.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Önce veriler embedding yöntemiyle sayısal vektörlere dönüştürülür. Sorgu yapıldığında veritabanı, sorgunun vektörü ile verilerin vektörleri arasındaki mesafeyi ölçer. En kısa mesafeye sahip olanlar, yani anlamca en yakın olanlar sonuç olarak getirilir.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Akıllı arama sistemlerinde, öneri motorlarında ve yapay zekanın uzun süreli hafızasını oluşturduğu RAG sistemlerinde kullanılır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>SQL gibi klasik veritabanları ile karıştırılır, ancak klasik veritabanları tam eşleşme ararken vektör veritabanları benzerlik arar.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Klasik veritabanlarından daha mı yavaştır?</p><p class="dict-faq-a">Hayır, çok büyük veri setlerinde benzerlik araması yapmak için klasik yöntemlerden çok daha hızlıdır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Hangi veriler saklanabilir?</p><p class="dict-faq-a">Metin, görsel, ses veya video gibi anlamı vektöre dönüştürülebilen her türlü veri saklanabilir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/embedding/">Embedding</a><a href="/dictionary/rag/">RAG</a><a href="/dictionary/knowledge-graph/">Knowledge Graph</a><a href="/dictionary/memory-engine/">Memory Engine</a></div></section>
+<section class="disc-sec">
+<h2>Etimoloji ve Çok Boyutlu Anlamsal Uzay</h2>
+<p>Vektör Veritabanı (Vector Database), modern yapay zekâ ve derin öğrenme ekosisteminin veri depolama katmanındaki en kritik bileşenidir. Geleneksel ilişkisel veritabanları (RDBMS) ve NoSQL sistemleri, verileri tam eşleşme (örneğin `WHERE id = 5` veya `name LIKE '%Ali%'`) ve katı hiyerarşiler üzerinden sorgulamak için optimize edilmiştir. Ancak yapay zekâ çağında karşılaşılan verilerin büyük çoğunluğu (metinler, fotoğraflar, sesler, videolar) yapılandırılmamış (unstructured) niteliktedir.</p><p>Derin öğrenme modelleri bu yapılandırılmamış verileri anlamlandırabilmek için 'embedding' adı verilen yüzlerce veya binlerce boyuttan oluşan sayısal vektör dizilerine dönüştürür. Vektör veritabanları, bu devasa çok boyutlu uzayda milyonlarca hatta milyarlarca veri noktası arasındaki geometrik mesafeleri hesaplar. Bu sayede 'anlamca birbirine en yakın olan' verileri (Nearest Neighbor Search) geleneksel arama yöntemlerinin imkânsız gördüğü hızlarda bulup çıkarır.</p>
+</section>
+
+<div class="dict-analogy">Şöyle düşünün: Milyonlarca kitabın yalnızca alfabetik yazar adına göre dizildiği bir kütüphane klasik SQL veritabanıdır. 'Bana yalnızlık hissini anlatan, sonbahar hüznü taşıyan ve Dostoyevski tarzı romanları getir' derseniz, klasik katalog kilitlenir çünkü kapaklarda bu kelimeler geçmeyebilir. Vektör veritabanı ise kitapları devasa bir galakside konumlandırmak gibidir. Hüzünlü kitaplar belirli bir yıldız kümesinde toplanır, bilimkurgu maceraları başka bir kolda yer alır. Bir duyguyla geldiğinizde sistem galaksideki en yakın komşu yıldızları milisaniyelerde bulur.</div>
+
+<section class="disc-sec">
+<h2>Teknik Derinlik ve İndeksleme Mimarisi</h2>
+<p>- <strong>Mesafe Metrikleri:</strong> İki embedding arasındaki benzerlik Kosinüs Benzerliği (açı), Öklid Mesafesi (doğrudan uzaklık) veya Nokta Çarpım formülleriyle hesaplanır.<br>
+- <strong>Yaklaşık En Yakın Komşu (ANN) ve HNSW:</strong> Milyonlarca vektör arasında brute-force arama yerine hiyerarşik küçük dünya grafikleri (HNSW) ve IVF indeksleriyle milisaniyelerde sonuca ulaşılır.<br>
+- <strong>Hibrit Arama ve Metaveri Filtreleme:</strong> Yalnızca vektörler değil; tarih, kullanıcı ve kategori gibi yapılandırılmış metaverilerle birleştirilerek ön filtreleme (pre-filtering) uygulanır.<br>
+- <strong>Kuantizasyon ve Çok Modlu Arama:</strong> Skalar ve ürün kuantizasyonuyla RAM tüketimi yüzde 75 düşürülür; CLIP benzeri modellerle görsel ve metin aynı vektör uzayında aranabilir.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Sosyolojik Boyut: Yapay Zekânın Uzun Vadeli Belleği</h2>
+<p>Vektör veritabanları, yapay zekâ modellerinin 'hafıza kaybı' (amnezi) sorununu çözen uzun vadeli dijital hafızadır. Büyük dil modelleri tek başlarına statik ve unutkan sistemlerdir; her oturum kapandığında geçmiş deneyimlerini yitirirler. </p><p>Vektör veritabanı bu modellere insan zihnine benzer çağrışımsal bir bellek kazandırır. Bir şirketin on yıllık yazışmaları, bir doktorun binlerce hasta geçmişi veya bir araştırmacının tüm arşivi vektör tabanında saklanarak yapay zekânın emrine verilir. Bu teknoloji, veri silolarını anlamsal bir zekâ ağına dönüştürerek insanlığın bilgiye erişim paradigmasını kalıcı olarak değiştirmiştir.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Sık Yapılan Hatalar ve Yanılgılar</h2>
+<p>- <strong>Model Uyuşmazlığı:</strong> Farklı embedding modellerinin ürettiği vektörleri aynı koleksiyonda yarıştırmak anlamsız sonuçlar doğurur.<br>
+- <strong>Metaveri Filtresini Unutmak:</strong> Saf vektör benzerliği zaman veya kategori bağlamını kaçırabilir; filtrelerle desteklenmelidir.<br>
+- <strong>Bellek Maliyetini Öngörmemek:</strong> Yüksek boyutlu vektörleri sıkıştırmasız RAM'de tutmak maliyet patlaması yaratır; kuantizasyon uygulanmalıdır.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Sıkça Sorulanlar</h2>
+<div class="dict-faq">
+<div class="dict-faq-item"><p class="dict-faq-q">Klasik ilişkisel veritabanları (PostgreSQL vb.) vektör veritabanı olarak kullanılabilir mi?</p><p class="dict-faq-a">Evet; pgvector gibi açık kaynaklı eklentiler sayesinde PostgreSQL gibi güçlü ilişkisel veritabanları HNSW indeksleri oluşturarak vektör benzerlik aramalarını başarıyla yürütebilir.</p></div>
+<div class="dict-faq-item"><p class="dict-faq-q">Vektör veritabanı ile geleneksel tam metin (Full-Text) arama arasındaki fark nedir?</p><p class="dict-faq-a">Tam metin arama (Elasticsearch vb.) kelimelerin birebir eşleşmesine (lexical) odaklanırken; vektör veritabanı eş anlamlıları, kavramsal ilişkileri ve anlamsal benzerliği (semantic) bulur.</p></div>
+<div class="dict-faq-item"><p class="dict-faq-q">Embedding boyutu (dimensions) ne anlama gelir?</p><p class="dict-faq-a">Bir verinin kaç adet sayısal koordinatla temsil edildiğini belirtir; örneğin 1536 boyutlu bir embedding, o verinin 1536 eksenli çok boyutlu bir uzaydaki noktasal koordinatıdır.</p></div>
+<div class="dict-faq-item"><p class="dict-faq-q">Kuantizasyon vektör veritabanlarında nasıl tasarruf sağlar?</p><p class="dict-faq-a">32-bit kayan noktalı (float32) sayıları 8-bit veya 1-bit tam sayılara dönüştürerek bellek (RAM) tüketimini yüzde 75'e varan oranda düşürür ve arama hızını katlar.</p></div>
+</div>
+</section>
+
+<section class="disc-sec">
+<h2>İlgili terimler</h2>
+<div class="dict-related"><a href="/dictionary/embedding/">Embedding</a><a href="/dictionary/rag/">RAG</a><a href="/dictionary/llm/">LLM</a><a href="/dictionary/context-window/">Context Window</a><a href="/dictionary/knowledge-graph/">Knowledge Graph</a><a href="/dictionary/memory-management/">Memory Management</a></div>
+</section>
+
 <section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/turbovec/">Turbovec</a><a href="/discover/zvec/">Zvec</a></div></section>
+
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

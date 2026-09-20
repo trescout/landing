@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Git Push nedir? · TreScout Sözlük</title>
-<meta name="description" content="Yerel bilgisayarınızda yaptığınız yazılım değişikliklerini internet üzerindeki ortak bir sunucuya yükleme işlemidir.">
+<title>Git Push Ne Demek, Nedir? Komut Hileleri ve Hata Çözümleri · TreScout</title>
+<meta name="description" content="Git push ne demek, nedir? Upstream (-u) bağlama, force-with-lease, non-fast-forward hata çözümü ve Git nesne mimarisiyle kapsamlı geliştirici rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/git-push/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/git-push/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/git-push/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/git-push/">
 <link rel="canonical" href="https://trescout.com/dictionary/git-push/">
-<meta property="og:title" content="Git Push nedir?">
-<meta property="og:description" content="Yerel bilgisayarınızda yaptığınız yazılım değişikliklerini internet üzerindeki ortak bir sunucuya yükleme işlemidir.">
+<meta property="og:title" content="Git Push Ne Demek, Nedir? Komut Hileleri ve Hata Çözümleri · TreScout">
+<meta property="og:description" content="Git push ne demek, nedir? Upstream (-u) bağlama, force-with-lease, non-fast-forward hata çözümü ve Git nesne mimarisiyle kapsamlı geliştirici rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/git-push/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Git Push nedir?">
+<meta name="twitter:title" content="Git Push Ne Demek, Nedir? Komut Hileleri ve Hata Çözümleri · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/git-push.webp">
 <script type="application/ld+json">
 {
@@ -32,7 +32,7 @@
   "@type": "DefinedTerm",
   "name": "Git Push",
   "inLanguage": "tr",
-  "description": "Yazılım geliştirirken kodlarınızı kendi bilgisayarınızda yazar ve düzenlersiniz. Bu değişikliklerin ekibin geri kalanıyla paylaşılması için 'push' komutu kullanılır. Bu sayede yaptığınız tüm güncellemeler merkezi bir depoya (repository) gönderilir.",
+  "description": "Git Push, yerel geliştirme ortamınızda commit edilmiş kod bloklarını, commit geçmişini ve nesneleri uzak bir Git sunucusuna aktaran ve uzak dalı güncelleyen temel Git komutudur.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -48,10 +48,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Push yapmazsam ne olur?",
+      "name": "Git push ne demek ve ne işe yarar?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yaptığınız değişiklikler sadece sizin bilgisayarınızda kalır ve ekibiniz bunları göremez."
+        "text": "Git Push, yerel bilgisayarınızda tamamlanan commit'leri GitHub, GitLab veya Bitbucket gibi uzak sunuculara yükleyerek uzak depoları yerel durumla eşitleyen temel komuttur."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "git push -u origin main komutundaki -u ne anlama gelir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "-u (--set-upstream) bayrağı, yerel dal ile uzaktaki dal arasında izleme (tracking) bağlantısı kurar. Böylece sonraki seferlerde hedef belirtmeden sadece git push yazabilirsiniz."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "git push -f yerine neden --force-with-lease kullanılmalıdır?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "git push -f uzak depoda başkalarının yaptığı değişiklikleri kontrol etmeksizin kalıcı olarak siler. --force-with-lease ise yalnızca dal son çektiğiniz durumdaysa ezmeye izin vererek ekip arkadaşlarının kodunu korur."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "non-fast-forward hatası nasıl çözülür?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Uzak depodaki yeni commit'ler henüz yerelinizde olmadığı için oluşur. Çözüm için git pull --rebase origin <dal> çalıştırılarak commit'ler güncellenmeli ve ardından tekrar git push yapılmalıdır."
       }
     }
   ]
@@ -64,9 +88,9 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Yerel bilgisayarınızda yaptığınız yazılım değişikliklerini internet üzerindeki ortak bir sunucuya yükleme işlemidir.">
+<meta name="twitter:description" content="Git push ne demek, nedir? Upstream (-u) bağlama, force-with-lease, non-fast-forward hata çözümü ve Git nesne mimarisiyle kapsamlı geliştirici rehberi.">
 
-<meta property="og:image:alt" content="Git Push nedir?">
+<meta property="og:image:alt" content="Git Push ne demek, nedir?">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
@@ -74,11 +98,24 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-06-27">Son güncelleme: 27 Haziran 2026</time></div>
-<h1 class="disc-title">Git Push <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
+<h1 class="disc-title">Git Push <span class="disc-accent">ne demek, nedir ve nasıl kullanılır?</span></h1>
 
-<p class="disc-lead">Yerel bilgisayarınızda yaptığınız yazılım değişikliklerini internet üzerindeki ortak bir sunucuya yükleme işlemidir.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Yazılım geliştirirken kodlarınızı kendi bilgisayarınızda yazar ve düzenlersiniz. Bu değişikliklerin ekibin geri kalanıyla paylaşılması için &#x27;push&#x27; komutu kullanılır. Bu sayede yaptığınız tüm güncellemeler merkezi bir depoya (repository) gönderilir.</p></section><div class="dict-analogy">Bilgisayarınızda yazdığınız bir raporu, bulut üzerindeki ortak bir klasöre &#x27;kaydet ve gönder&#x27; tuşuna basarak yüklemek gibidir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Terminal veya kod editörü üzerinden &#x27;git push&#x27; komutu yazılarak gerçekleştirilir.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Yazılım geliştirme süreçlerinde, özellikle GitHub veya GitLab gibi platformlarda kullanılır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Git pull ile karıştırılır; pull internetten kodu alırken, push internete gönderir.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Push yapmazsam ne olur?</p><p class="dict-faq-a">Yaptığınız değişiklikler sadece sizin bilgisayarınızda kalır ve ekibiniz bunları göremez.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/cli/">CLI</a><a href="/dictionary/tech-stack/">Tech Stack</a><a href="/dictionary/deployment/">Deployment</a></div></section>
+<p class="disc-lead">Git Push, yerel geliştirme ortamınızda commit edilmiş kod bloklarını, commit geçmişini ve nesneleri uzak bir Git sunucusuna aktaran ve uzak dalı güncelleyen temel Git komutudur.</p>
+
+<section class="disc-sec"><h2>1. Tanım ve Git'in 4 katmanlı veri modeli</h2><p>Git dağıtık bir versiyon kontrol sistemidir (DVCS). Bu mimaride kod değişiklikleri uzak bir sunucuya ulaşana kadar 4 farklı çalışma alanından geçer:</p><pre><code>[Çalışma Dizini] ──git add──&gt; [Staging / Index] ──git commit──&gt; [Yerel Depo] ──git push──&gt; [Uzak Depo]
+(Working Directory)            (Hazırlık Alanı)                 (.git veritabanı)            (GitHub/GitLab)</code></pre><ol><li><strong>Working Directory (Çalışma Dizini):</strong> Dosyaları düzenlediğiniz canlı kod alanı.</li><li><strong>Staging Area / Index (Hazırlık Alanı):</strong> <code>git add</code> ile bir sonraki kayda dâhil edilmek üzere seçtiğiniz değişiklikler.</li><li><strong>Local Repository (Yerel Depo):</strong> <code>git commit</code> ile kendi diskinizdeki <code>.git</code> dizinine kalıcı olarak mühürlenen kontrol noktaları.</li><li><strong>Remote Repository (Uzak Depo):</strong> <code>git push</code> ile ekip arkadaşlarınızın görebileceği, CI/CD hatlarının tetikleneceği merkezi sunucu.</li></ol><p><code>git push</code> çalıştırıldığında yalnızca metin farkları gönderilmez; Git'in nesne tabanındaki Commit, Tree ve Blob nesneleri sıkıştırılmış bir paket dosyası (packfile) halinde uzak sunucuya aktarılır ve uzaktaki dal referansı ileri taşınır.</p></section>
+
+<section class="disc-sec"><h2>2. En sık kullanılan komut şablonları (Cheatsheet)</h2><h3>İlk Kez Dal Gönderme ve Upstream Bağlama</h3><pre><code>git push -u origin feature/auth</code></pre><p><code>-u</code> veya <code>--set-upstream</code> bayrağı, yerel dalınızı uzaktaki dala kalıcı olarak bağlar. Bu eşleştirmeden sonra aynı daldayken yalnızca <code>git push</code> veya <code>git pull</code> yazmanız yeterlidir.</p><h3>Güvenli Zorla Gönderme: --force-with-lease</h3><pre><code>git push --force-with-lease</code></pre><p><code>git commit --amend</code> veya <code>git rebase</code> sonrası standart push reddedildiğinde <code>git push -f</code> kullanmak sunucudaki ekip arkadaşlarınızın commit'lerini silebilir. <code>--force-with-lease</code> ise yalnızca sizden sonra başkası o dala commit atmadıysa ezme işlemine izin veren güvenlik kilididir.</p><h3>Uzak Dalı ve Etiketleri Silme</h3><pre><code>git push origin --delete eski-ozellik-dali
+git push origin --tags</code></pre></section>
+
+<section class="disc-sec"><h2>3. En sık karşılaşılan Git Push hataları ve çözümleri</h2><ul><li><strong>fatal: [rejected - non-fast-forward]:</strong> Uzak dalda henüz yerelinizde olmayan commit'ler vardır. Çözüm için <code>git pull --rebase origin &lt;dal&gt;</code> ardından <code>git push</code> yapılmalıdır.</li><li><strong>fatal: The current branch has no upstream branch:</strong> Dalın uzak karşılığı tanımlanmamıştır. Çözüm: <code>git push -u origin HEAD</code>.</li><li><strong>remote rejected: pre-receive hook declined:</strong> Korumalı dal kuralı veya eksik izin engeline takılmıştır; doğrudan push yerine Pull Request (PR) açılmalıdır.</li></ul></section>
+
+<div class="dict-analogy">Bilgisayarınızda yazdığınız bir kitabın bölümlerini yerel taslak klasörünüze kaydettikten sonra, matbaanın ortak baskı merkezine "bu bölümleri resmi arşive yükle ve baskı kuyruğuna al" diyerek kuryeyle teslim etmek gibidir.</div>
+
+<section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Git push ne demek ve ne işe yarar?</p><p class="dict-faq-a">Git Push, yerel bilgisayarınızda tamamlanan commit'leri GitHub, GitLab veya Bitbucket gibi uzak sunuculara yükleyerek uzak depoları yerel durumla eşitleyen temel komuttur.</p></div><div class="dict-faq-item"><p class="dict-faq-q">git push -u origin main komutundaki -u ne anlama gelir?</p><p class="dict-faq-a">-u (--set-upstream) bayrağı, yerel dal ile uzaktaki dal arasında izleme (tracking) bağlantısı kurar. Böylece sonraki seferlerde hedef belirtmeden sadece git push yazabilirsiniz.</p></div><div class="dict-faq-item"><p class="dict-faq-q">git push -f yerine neden --force-with-lease kullanılmalıdır?</p><p class="dict-faq-a">git push -f uzak depoda başkalarının yaptığı değişiklikleri kontrol etmeksizin kalıcı olarak siler. --force-with-lease ise yalnızca dal son çektiğiniz durumdaysa ezmeye izin vererek ekip arkadaşlarının kodunu korur.</p></div><div class="dict-faq-item"><p class="dict-faq-q">non-fast-forward hatası nasıl çözülür?</p><p class="dict-faq-a">Uzak depodaki yeni commit'ler henüz yerelinizde olmadığı için oluşur. Çözüm için git pull --rebase origin &lt;dal&gt; çalıştırılarak commit'ler güncellenmeli ve ardından tekrar git push yapılmalıdır.</p></div></div></section>
+
+<section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/cli/">CLI</a><a href="/dictionary/deployment/">Deployment</a><a href="/dictionary/production-pipeline/">Production Pipeline</a><a href="/dictionary/patch/">Patch</a><a href="/dictionary/tech-stack/">Tech Stack</a></div></section>
 <section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/no-mistakes/">No Mistakes</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>

@@ -3,10 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Network Stack nedir? · TreScout Sözlük</title>
-<meta name="description" content="Bir bilgisayarın internete bağlanması ve veri alışverişi yapması için gereken yazılım katmanlarının bütünüdür.">
+<title>Network Stack Nedir, Ne Demek? TCP/IP ve Kernel Mimarisi · TreScout</title>
+<meta name="description" content="Network stack (ağ yığını) nedir? OSI vs TCP/IP katmanları, paket kapsülleme (encapsulation), Linux kernel sk_buff ve eBPF/XDP mimarisiyle tam rehber.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
-<link rel="canonical" href="https://trescout.com/dictionary/network-stack/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/network-stack/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/network-stack/">
 <link rel="alternate" hreflang="fr" href="https://trescout.com/fr/dictionary/network-stack/">
@@ -14,27 +13,27 @@
 <link rel="alternate" hreflang="es" href="https://trescout.com/es/dictionary/network-stack/">
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/network-stack/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/network-stack/">
-<meta property="og:title" content="Network Stack nedir?">
-<meta property="og:description" content="Bir bilgisayarın internete bağlanması ve veri alışverişi yapması için gereken yazılım katmanlarının bütünüdür.">
+<link rel="canonical" href="https://trescout.com/dictionary/network-stack/">
+<meta property="og:title" content="Network Stack Nedir, Ne Demek? TCP/IP ve Kernel Mimarisi · TreScout">
+<meta property="og:description" content="Network stack (ağ yığını) nedir? OSI vs TCP/IP katmanları, paket kapsülleme (encapsulation), Linux kernel sk_buff ve eBPF/XDP mimarisiyle tam rehber.">
 <meta property="og:url" content="https://trescout.com/dictionary/network-stack/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
 <meta property="og:image" content="https://trescout.com/assets/dictionary/og/network-stack.webp">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Network Stack nedir?">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Network Stack nedir?">
-<meta name="twitter:description" content="Bir bilgisayarın internete bağlanması ve veri alışverişi yapması için gereken yazılım katmanlarının bütünüdür.">
+<meta name="twitter:title" content="Network Stack Nedir, Ne Demek? TCP/IP ve Kernel Mimarisi · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/network-stack.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Network Stack",
+  "alternateName": "Ağ Yığını",
   "inLanguage": "tr",
-  "description": "İnternet üzerinde bir veri gönderdiğinizde, bu veri tek bir adımda gitmez. Network stack, verinin paketlenmesinden kablodan geçişine ve karşı tarafta tekrar birleştirilmesine kadar olan tüm süreci yöneten yazılım kurallarıdır. Bu katmanlar, donanım ile kullandığınız uygulamalar arasındaki köprüyü kurar.",
+  "description": "Network Stack (ağ yığını), bir işletim sisteminin veya donanımın ağ üzerinden veri paketlerini iletmesini, yönlendirmesini ve almasını sağlayan donanım sürücüsü, çekirdek ve kullanıcı alanı protokol katmanları bütünüdür.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -50,18 +49,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Bu katmanları ben mi yönetiyorum?",
+      "name": "Network stack ne demek, Türkçe karşılığı nedir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Hayır, işletim sisteminiz ve ağ sürücüleri bu süreci sizin yerinize yönetir."
+        "text": "Türkçede \"ağ yığını\" veya \"protokol yığını\" olarak adlandırılır. Bir bilgisayarın ağ üzerinden iletişim kurmasını sağlayan, birbirinin üzerine binen donanımsal ve yazılımsal kurallar hiyerarşisidir."
       }
     },
     {
       "@type": "Question",
-      "name": "Neden önemli?",
+      "name": "TCP ile UDP arasındaki temel fark network stack içinde nerededir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Eğer bu katmanlardan biri hatalı çalışırsa internet bağlantınız kesilir veya veri kaybı yaşarsınız."
+        "text": "İletim katmanında (Transport Layer / L4) yer alır. TCP paketlerin eksiksiz ve sıralı ulaştığını onay mekanizmasıyla (ACK) garanti eder; UDP ise onay beklemeden en yüksek hızla paket fırlatır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "MTU (Maximum Transmission Unit) nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bir ağ arayüzünün parçalanma (fragmentation) olmadan tek bir çerçevede taşıyabileceği en büyük paket boyutudur. Standart Ethernet için MTU değeri 1500 bayttır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Kernel Bypass mimarisi neden kullanılır?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "100 Gbps gibi aşırı yüksek veri hacimlerinde Linux çekirdeğinin kesme ve bellek kopyalama maliyetlerini bertaraf etmek; DPDK ve eBPF/XDP ile paketleri doğrudan donanım seviyesinde sıfır gecikmeyle işlemek için kullanılır."
       }
     }
   ]
@@ -73,6 +88,10 @@
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
+
+<meta name="twitter:description" content="Network stack (ağ yığını) nedir? OSI vs TCP/IP katmanları, paket kapsülleme (encapsulation), Linux kernel sk_buff ve eBPF/XDP mimarisiyle tam rehber.">
+
+<meta property="og:image:alt" content="Network Stack nedir, ne demek?">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
@@ -80,11 +99,30 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-12">Son güncelleme: 12 Eylül 2026</time></div>
-<h1 class="disc-title">Network Stack <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
+<h1 class="disc-title">Network Stack <span class="disc-accent">nedir, ne demek ve nasıl çalışır?</span></h1>
 
-<p class="disc-lead">Bir bilgisayarın internete bağlanması ve veri alışverişi yapması için gereken yazılım katmanlarının bütünüdür.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>İnternet üzerinde bir veri gönderdiğinizde, bu veri tek bir adımda gitmez. Network stack, verinin paketlenmesinden kablodan geçişine ve karşı tarafta tekrar birleştirilmesine kadar olan tüm süreci yöneten yazılım kurallarıdır. Bu katmanlar, donanım ile kullandığınız uygulamalar arasındaki köprüyü kurar.</p></section><div class="dict-analogy">Bir mektup gönderirken zarfın yazılması, postaya verilmesi, kamyona yüklenmesi ve teslim edilmesi aşamaları bir network stack gibidir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>İşletim sisteminiz, internete bağlandığınız anda bu katmanları arka planda otomatik olarak çalıştırır; siz sadece tarayıcıyı açarsınız.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Sunucularda, kişisel bilgisayarlarda ve ağ yönlendiricilerinde (router) temel bir bileşen olarak bulunur.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Networking stack ile aynı kavramdır.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Bu katmanları ben mi yönetiyorum?</p><p class="dict-faq-a">Hayır, işletim sisteminiz ve ağ sürücüleri bu süreci sizin yerinize yönetir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Neden önemli?</p><p class="dict-faq-a">Eğer bu katmanlardan biri hatalı çalışırsa internet bağlantınız kesilir veya veri kaybı yaşarsınız.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/networking-stack/">Networking Stack</a><a href="/dictionary/api/">API</a><a href="/dictionary/packet-fragmentation/">Packet Fragmentation</a></div></section>
+<p class="disc-lead">Network Stack (ağ yığını), bir işletim sisteminin veya donanımın ağ üzerinden veri paketlerini iletmesini, yönlendirmesini ve almasını sağlayan donanım sürücüsü, çekirdek (kernel) ve kullanıcı alanı protokol katmanları bütünüdür.</p>
+
+<section class="disc-sec"><h2>1. Katmanlı mimari: OSI 7 Katmanı vs TCP/IP 4 Katmanı</h2><p>Ağ iletişiminde teorik olarak ISO tarafından tanımlanan <strong>OSI 7 Katmanlı Modeli</strong>, pratikte ise internetin omurgasını oluşturan <strong>TCP/IP Modeli</strong> kullanılır:</p><ul><li><strong>Uygulama Katmanı (L7):</strong> HTTP/HTTPS, DNS, SSH, gRPC. Verinin kullanıcıya sunulduğu veya üretildiği seviyedir.</li><li><strong>Taşıma Katmanı (L4):</strong> TCP (güvenilir ve sıralı iletim), UDP (hız odaklı akış) ve QUIC (HTTP/3 tabanı). Protokol veri birimi <em>Segment</em> olarak adlandırılır.</li><li><strong>İnternet / Ağ Katmanı (L3):</strong> IPv4, IPv6, ICMP, BGP. Paketlerin dünya genelinde yönlendirilmesini sağlar. Protokol veri birimi <em>Paket (Packet)</em> adını alır.</li><li><strong>Ağ Arayüzü / Bağlantı Katmanı (L2/L1):</strong> Ethernet (802.3), Wi-Fi (802.11), fiber optik ve bakır hatlar. Protokol veri birimi <em>Çerçeve (Frame)</em> olarak tanımlanır.</li></ul></section>
+
+<section class="disc-sec"><h2>2. Paket kapsülleme (Encapsulation) ve çözme akışı</h2><p>Bir istemci web sunucusuna istek gönderdiğinde veri yığın boyunca aşağı inerken her katman kendi başlığını ekler:</p><pre><code>[Kullanıcı Verisi: "GET / HTTP/1.1"]
+                   ↓ (Taşıma Katmanı - TCP başlığı eklenir: Portlar, Sıra No)
+[TCP Header | Payload]  --&gt; TCP Segment (MSS ~1460 bayt)
+                   ↓ (Ağ Katmanı - IP başlığı eklenir: Kaynak/Hedef IP)
+[IP Header | TCP Header | Payload]  --&gt; IP Paketi (MTU: 1500 bayt)
+                   ↓ (Veri Bağı Katmanı - Ethernet başlığı ve FCS kuyruğu eklenir)
+[Ethernet Header | IP Header | TCP Header | Payload | FCS Tail]  --&gt; Ethernet Frame</code></pre><p>Hedef sunucuya ulaştığında işlem tersine döner (<strong>Decapsulation</strong>); katman katman başlıklar soyulur ve veri sokete teslim edilir.</p></section>
+
+<section class="disc-sec"><h2>3. Linux çekirdeğinde (Kernel) Network Stack yaşam döngüsü</h2><ol><li><strong>Donanım ve Ring Buffer:</strong> NIC paketi yakalar ve DMA ile RAM'deki RX Ring Buffer'a kopyalar.</li><li><strong>Hard IRQ &amp; SoftIRQ (NAPI):</strong> NIC donanım kesmesi atar; çekirdek CPU kilitlenmesini önlemek için NAPI modunda <code>ksoftirqd</code> ile paketleri toplu olarak (polling) işler.</li><li><strong><code>sk_buff</code> (Socket Buffer):</strong> Çekirdek her paket için işaretçileri taşıyan <code>sk_buff</code> veri yapısını tahsis eder.</li><li><strong>Filtreleme ve Yönlendirme:</strong> <code>nftables</code> kuralları taranır ve paket yerel sokete aitse TCP durum makinesine devredilir.</li><li><strong>Sistem Çağrısı:</strong> Paket soketin alma tamponuna (<code>recv-Q</code>) koyulur; uygulama <code>epoll_wait()</code> ile veriyi okur.</li></ol></section>
+
+<section class="disc-sec"><h2>4. Kernel Bypass ve yeni nesil ağ: eBPF / XDP ve DPDK</h2><ul><li><strong>eBPF ve XDP (eXpress Data Path):</strong> Paket henüz <code>sk_buff</code> tahsis edilmeden ağ kartı sürücüsü katmanında filtrelenir; Cloudflare gibi devler DDoS saldırılarını çekirdeğe hiç yük bindirmeden burada düşürür.</li><li><strong>DPDK (Data Plane Development Kit):</strong> Çekirdeği tamamen baypas eder; kullanıcı alanındaki uygulama sıfır kopyayla doğrudan ağ kartı belleğine erişir.</li><li><strong>QUIC / HTTP/3:</strong> Taşıma katmanında çekirdek TCP yerine kullanıcı alanında çalışan ve Head-of-Line engellemesini aşan UDP tabanlı şifreli protokole geçilmiştir.</li></ul></section>
+
+<div class="dict-analogy">Uluslararası bir kargo operasyonuna benzer: Mektubu yazarsınız (Uygulama), mektubu zarfa koyup iadeli taahhütlü fişi eklersiniz (TCP), zarfı uluslararası adres yazılı bir koliye yerleştirirsiniz (IP), koli bir konteynere yüklenir (Ethernet Frame) ve kargo gemisiyle okyanusu aşar (Fiziksel hat).</div>
+
+<section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Network stack ne demek, Türkçe karşılığı nedir?</p><p class="dict-faq-a">Türkçede "ağ yığını" veya "protokol yığını" olarak adlandırılır. Bir bilgisayarın ağ üzerinden iletişim kurmasını sağlayan, birbirinin üzerine binen donanımsal ve yazılımsal kurallar hiyerarşisidir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">TCP ile UDP arasındaki temel fark network stack içinde nerededir?</p><p class="dict-faq-a">İletim katmanında (Transport Layer / L4) yer alır. TCP paketlerin eksiksiz ve sıralı ulaştığını onay mekanizmasıyla (ACK) garanti eder; UDP ise onay beklemeden en yüksek hızla paket fırlatır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">MTU (Maximum Transmission Unit) nedir?</p><p class="dict-faq-a">Bir ağ arayüzünün parçalanma (fragmentation) olmadan tek bir çerçevede taşıyabileceği en büyük paket boyutudur. Standart Ethernet için MTU değeri 1500 bayttır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Kernel Bypass mimarisi neden kullanılır?</p><p class="dict-faq-a">100 Gbps gibi aşırı yüksek veri hacimlerinde Linux çekirdeğinin kesme ve bellek kopyalama maliyetlerini bertaraf etmek; DPDK ve eBPF/XDP ile paketleri doğrudan donanım seviyesinde sıfır gecikmeyle işlemek için kullanılır.</p></div></div></section>
+
+<section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/networking-stack/">Networking Stack</a><a href="/dictionary/runtime/">Runtime</a><a href="/dictionary/memory-management/">Memory Management</a><a href="/dictionary/packet-fragmentation/">Packet Fragmentation</a><a href="/dictionary/api/">API</a></div></section>
 <section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/openflux/">OpenFlux</a></div></section>
 <aside class="disc-cta"><p><strong>İlgili araçları ve günlük raporları keşfet.</strong> Her gün yeni bir teknoloji terimi ve aracı çıkıyor; geride kalmamak için TreScout bültenine katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" data-page-type="dictionary" data-content-slug="network-stack" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
@@ -131,9 +169,8 @@
   </div>
 </footer>
 <script src="/assets/subscribe.js" defer></script>
-<script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>
-<script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>
-<script src="/assets/provider-consent.js" defer></script>
-<script src="/assets/telemetry.js" defer></script>
+  <script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>
+  <script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>
+  <script src="/assets/provider-consent.js" defer></script>
 </body>
 </html>

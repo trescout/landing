@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Emitter nedir? · TreScout Sözlük</title>
-<meta name="description" content="İşlenmiş veriyi veya kodu, başka bir sistemin veya aracın kullanabileceği bir çıktı formatına dönüştüren mekanizmadır.">
+<title>Emitter Ne Demek, Nedir? Event Emitter ve Kod Üretimi · TreScout</title>
+<meta name="description" content="Emitter nedir, ne demek? Yazılımda Event Emitter mimarisi, Observer deseni, Node.js olay döngüsü ve derleyicilerde kod üretim süreci rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/emitter/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/emitter/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/emitter/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/emitter/">
 <link rel="canonical" href="https://trescout.com/dictionary/emitter/">
-<meta property="og:title" content="Emitter nedir?">
-<meta property="og:description" content="İşlenmiş veriyi veya kodu, başka bir sistemin veya aracın kullanabileceği bir çıktı formatına dönüştüren mekanizmadır.">
+<meta property="og:title" content="Emitter Ne Demek, Nedir? Event Emitter ve Kod Üretimi · TreScout">
+<meta property="og:description" content="Emitter nedir, ne demek? Yazılımda Event Emitter mimarisi, Observer deseni, Node.js olay döngüsü ve derleyicilerde kod üretim süreci rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/emitter/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Emitter nedir?">
+<meta name="twitter:title" content="Emitter Ne Demek, Nedir? Event Emitter ve Kod Üretimi · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/emitter.webp">
 <script type="application/ld+json">
 {
@@ -32,7 +32,7 @@
   "@type": "DefinedTerm",
   "name": "Emitter",
   "inLanguage": "tr",
-  "description": "Emitter, genellikle bir parser veya derleyicinin son aşamasında yer alır. Parser veriyi analiz edip anladıktan sonra, emitter bu bilgiyi hedef platformun anlayacağı bir dile veya dosyaya yazar. Bu, makine koduna dönüştürme veya bir API'nin kabul edeceği bir JSON çıktısı oluşturma şeklinde olabilir.",
+  "description": "Emitter (yayıcı), yazılım mühendisliğinde iki temel alanda karşımıza çıkan kritik bir terimdir: Olay güdümlü mimarilerde (Event-Driven Architecture) durum değişikliklerini dinleyicilere duyuran mekanizma (Event Emitter) ve derleyici teknolojisinde (Compiler) analiz edilen kodu hedef makine diline veya baytkoda dönüştüren kod üretim modülü (Code Emitter).",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -48,10 +48,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Emitter ile Parser arasındaki fark nedir?",
+      "name": "Emitter ne demek ve Türkçesi nedir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Parser veriyi içeri alıp analiz eder, Emitter ise işlenmiş veriyi dışarıya uygun bir formatta sunar."
+        "text": "Emitter, İngilizcede \"yayıcı\" veya \"verici\" anlamına gelir. Yazılımda genellikle \"olay yayıcı\" (event emitter) veya derleyicilerde \"kod üretici / yayıcı\" (code emitter) olarak kullanılır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Event Emitter kullanmanın en büyük avantajı nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bileşenler arasındaki bağımlılığı (coupling) sıfıra indirir. Bir modül bir olayı fırlatır; olayı kimin, ne zaman ve nasıl işlediğiyle ilgilenmez. Bu da modülerliği ve test edilebilirliği artırır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Derleyicilerde Emitter hangi görevi üstlenir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kaynak kodun ayrıştırılıp optimize edilmiş ağaç yapısını (AST) alarak hedef çıktıyı (Assembly, makine kodu, baytkod veya dönüştürülmüş kaynak kod) üreten son bileşendir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "RxJS Observable ile Event Emitter arasındaki fark nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Event Emitter genellikle çoklu yayın (multicast) yapar ve anlık olay bildirimleri için kullanılır. RxJS Observable ise zaman içindeki zengin veri akışlarını (streams), filtreleme, haritalama ve geciktirme gibi fonksiyonel operatörlerle dönüştürme gücü sunar."
       }
     }
   ]
@@ -64,9 +88,9 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="İşlenmiş veriyi veya kodu, başka bir sistemin veya aracın kullanabileceği bir çıktı formatına dönüştüren mekanizmadır.">
+<meta name="twitter:description" content="Emitter nedir, ne demek? Yazılımda Event Emitter mimarisi, Observer deseni, Node.js olay döngüsü ve derleyicilerde kod üretim süreci rehberi.">
 
-<meta property="og:image:alt" content="Emitter nedir?">
+<meta property="og:image:alt" content="Emitter ne demek, nedir?">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
@@ -74,11 +98,16 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-07-11">Son güncelleme: 11 Temmuz 2026</time></div>
-<h1 class="disc-title">Emitter <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
+<h1 class="disc-title">Emitter <span class="disc-accent">ne demek, nedir?</span></h1>
 
-<p class="disc-lead">İşlenmiş veriyi veya kodu, başka bir sistemin veya aracın kullanabileceği bir çıktı formatına dönüştüren mekanizmadır.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Emitter, genellikle bir parser veya derleyicinin son aşamasında yer alır. Parser veriyi analiz edip anladıktan sonra, emitter bu bilgiyi hedef platformun anlayacağı bir dile veya dosyaya yazar. Bu, makine koduna dönüştürme veya bir API&#x27;nin kabul edeceği bir JSON çıktısı oluşturma şeklinde olabilir.</p></section><div class="dict-analogy">Bir fabrikadaki paketleme bandı gibidir; üretilen ürünleri (işlenmiş veriyi) müşterinin (başka bir programın) alabileceği kutulara koyup dışarı gönderir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>İçerideki soyut veri yapısını alır ve önceden belirlenmiş şablonlara veya kurallara göre dışarıya aktarır. Çıktı, bir dosya, bir ağ paketi veya doğrudan başka bir fonksiyonun girdisi olabilir.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Derleyicilerde, veri dönüştürme araçlarında ve olay tabanlı (event-driven) sistemlerde sıkça karşınıza çıkar.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Emitter ile Parser arasındaki fark nedir?</p><p class="dict-faq-a">Parser veriyi içeri alıp analiz eder, Emitter ise işlenmiş veriyi dışarıya uygun bir formatta sunar.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/parser/">Parser</a><a href="/dictionary/api/">API</a><a href="/dictionary/data-pipeline/">Data Pipeline</a></div></section>
+<p class="disc-lead">Emitter (yayıcı), yazılım mühendisliğinde iki temel alanda karşımıza çıkan kritik bir terimdir: Olay güdümlü mimarilerde (Event-Driven Architecture) durum değişikliklerini dinleyicilere duyuran mekanizma (Event Emitter) ve derleyici teknolojisinde (Compiler) analiz edilen kodu hedef makine diline veya baytkoda dönüştüren kod üretim modülü (Code Emitter).</p>
+<section class="disc-sec"><h2>Kavramsal köken: Fizikten yazılım mimarisine</h2><p>"Emitter" sözcüğü, Latince "dışarı fırlatmak, salıvermek" anlamına gelen <em>emittere</em> fiilinden türemiştir. Elektronikte elektron yayan katotlara veya telekomünikasyonda sinyal basan radyo vericilerine emitter denir. Yazılım dünyası bu terimi, "kendisinde oluşan bir durumu ya da ürettiği bir çıktıyı dış dünyaya aktaran kaynak" anlamında ödünç almıştır.</p><p>Yazılımda "emitter" tek bir yapı değil, kullanıldığı bağlama göre iki devasa disiplini temsil eder: Olay akışları ve derleyici tasarımı.</p></section>
+<section class="disc-sec"><h2>1. Olay güdümlü mimari ve Event Emitter</h2><p>Olay tabanlı programlamada Emitter, <strong>Observer (Gözlemci) ve Publish-Subscribe (Yayınla-Abone Ol)</strong> tasarım desenlerinin kalbidir. Sistemdeki bileşenlerin birbirini doğrudan tanıması yerine (tight coupling), olaylar üzerinden haberleşmesini (loose coupling) sağlar.</p><h3>Node.js ve JavaScript dünyasında EventEmitter</h3><p>Node.js'in reaktif ve asenkron I/O yapısı <code>events</code> modülü içindeki <code>EventEmitter</code> sınıfına dayanır:</p><p><strong><code>emit(event, [...args])</code>:</strong> Belirtilen isimdeki olayı tetikler ve kayıtlı tüm dinleyicileri uyarır.</p><p><strong><code>on(event, listener)</code>:</strong> Belirtilen olay gerçekleştiğinde çalışacak geri çağırım (callback) fonksiyonunu kaydeder.</p><p><strong><code>once(event, listener)</code>:</strong> Olayı yalnızca ilk gerçekleştiğinde bir kez yakalar ve ardından kaydı otomatik siler.</p><p><strong>Önemli Teknik Detay:</strong> Node.js <code>EventEmitter</code>, yaygın inanışın aksine olay dinleyicilerini varsayılan olarak <strong>senkron</strong> çalıştırır. Bir dinleyici bloke olursa sonraki dinleyiciler bekler. Asenkron yürütme için <code>setImmediate()</code> veya <code>process.nextTick()</code> kullanılır.</p><h3>Bellek Sızıntısı (Memory Leak) riski</h3><p>Event Emitter mimarisinde en sık yapılan hata, yaşam döngüsü biten nesnelerin dinleyicilerinin (<code>removeListener</code> veya <code>off</code>) kaldırılmamasıdır. Bu durum nesnelerin Garbage Collector tarafından temizlenmesini engeller ve Node.js'te <code>MaxListenersExceededWarning</code> uyarısına neden olur.</p></section>
+<section class="disc-sec"><h2>2. Derleyici mimarisinde Code Emitter (Kod Üretici)</h2><p>Bir derleyicinin (compiler) veya dönüştürücünün (transpiler) en son ve en can alıcı aşaması <strong>Emitter</strong> (Code Generator) katmanıdır. Derleme zinciri şu sırayla işler: <code>Kaynak Kod</code> → <code>Lexer (Token'lar)</code> → <code>Parser (Sözdizim Ağacı - AST)</code> → <code>Semantik Analiz</code> → <code>Optimizasyon</code> → <strong><code>Emitter</code></strong> → <code>Hedef Kod</code></p><p>Emitter, optimize edilmiş Soyut Sözdizim Ağacını (AST) veya Ara Temsili (IR - Intermediate Representation) baştan sona dolaşır (genellikle Visitor Pattern ile). Her bir düğümü hedef platformun anlayacağı talimatlara döker: Bu çıktı ham makine dili (x86/ARM Assembly), sanal makine baytkodu (JVM, V8 Bytecode) veya başka bir yüksek seviyeli dil (TypeScript'ten JavaScript'e derleme gibi) olabilir.</p></section>
+<div class="dict-analogy"><p><strong>Event Emitter:</strong> Yangın alarm butonudur. Butona basıldığında (emit), buton binadaki kaç kişinin ve hangi sirenlerin çaldığını bilmez; yalnızca sinyal yayar ve bağlı tüm alarm sistemleri (listeners) devreye girer.</p><p><strong>Code Emitter:</strong> Bir mimarın çizdiği ayrıntılı teknik planları (AST) alıp şantiye ustalarının doğrudan uygulayabileceği kalıp ve demir donatı talimatlarına döken başmühendistir.</p></div>
+<section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Emitter ne demek ve Türkçe karşılığı nedir?</p><p class="dict-faq-a">Emitter, İngilizcede "yayıcı" veya "verici" anlamına gelir. Yazılımda genellikle "olay yayıcı" (event emitter) veya derleyicilerde "kod üretici / yayıcı" (code emitter) olarak kullanılır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Event Emitter kullanmanın en büyük avantajı nedir?</p><p class="dict-faq-a">Bileşenler arasındaki bağımlılığı (coupling) sıfıra indirir. Bir modül bir olayı fırlatır; olayı kimin, ne zaman ve nasıl işlediğiyle ilgilenmez. Bu da modülerliği ve test edilebilirliği artırır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Derleyicilerde Emitter hangi görevi üstlenir?</p><p class="dict-faq-a">Kaynak kodun ayrıştırılıp optimize edilmiş ağaç yapısını (AST) alarak hedef çıktıyı (Assembly, makine kodu, baytkod veya dönüştürülmüş kaynak kod) üreten son bileşendir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">RxJS Observable ile Event Emitter arasındaki fark nedir?</p><p class="dict-faq-a">Event Emitter genellikle çoklu yayın (multicast) yapar ve anlık olay bildirimleri için kullanılır. RxJS Observable ise zaman içindeki zengin veri akışlarını (streams), filtreleme, haritalama ve geciktirme gibi fonksiyonel operatörlerle dönüştürme gücü sunar.</p></div></div></section>
+<section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/parser/">Parser</a><a href="/dictionary/compiler/">Compiler</a><a href="/dictionary/runtime/">Runtime</a><a href="/dictionary/assembly/">Assembly</a><a href="/dictionary/api/">API</a><a href="/dictionary/bundler/">Bundler</a></div></section>
 <section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/yaml-cpp/">YAML Cpp</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>

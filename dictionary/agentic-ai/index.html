@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Agentic AI nedir? · TreScout Sözlük</title>
-<meta name="description" content="Yapay zekanın sadece metin üretmek yerine hedeflere ulaşmak için inisiyatif almasıdır.">
+<title>Agentic AI Nedir, Ne Demek? Otonom Yapay Zekâ Ajanları · TreScout</title>
+<meta name="description" content="Agentic AI nedir, ne demek? Otonom yapay zekâ ajanları, araç kullanımı (Tool Use), çoklu ajan orkestrasyonu ve karar verme mimarisi rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/agentic-ai/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/agentic-ai/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/agentic-ai/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/agentic-ai/">
 <link rel="canonical" href="https://trescout.com/dictionary/agentic-ai/">
-<meta property="og:title" content="Agentic AI nedir?">
-<meta property="og:description" content="Yapay zekanın sadece metin üretmek yerine hedeflere ulaşmak için inisiyatif almasıdır.">
+<meta property="og:title" content="Agentic AI Nedir, Ne Demek? Otonom Yapay Zekâ Ajanları">
+<meta property="og:description" content="Agentic AI nedir, ne demek? Otonom yapay zekâ ajanları, araç kullanımı (Tool Use), çoklu ajan orkestrasyonu ve karar verme mimarisi rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/agentic-ai/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,15 +24,17 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Agentic AI nedir?">
+<meta name="twitter:title" content="Agentic AI Nedir, Ne Demek? Otonom Yapay Zekâ Ajanları">
+<meta name="twitter:description" content="Agentic AI nedir, ne demek? Otonom yapay zekâ ajanları, araç kullanımı (Tool Use), çoklu ajan orkestrasyonu ve karar verme mimarisi rehberi.">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/agentic-ai.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Agentic AI",
+  "alternateName": "Ajanik Yapay Zekâ",
   "inLanguage": "tr",
-  "description": "Yapay zekanın pasif bir araç olmaktan çıkıp, hedefleri doğrultusunda proaktif davranan bir yapıya bürünmesidir. Sistemin kendi hatalarını fark edip düzeltme yeteneği bu kavramın merkezindedir.",
+  "description": "Agentic AI (ajanik yapay zekâ), önceden belirlenmiş hedeflere ulaşmak için bağımsız kararlar alabilen, çok adımlı eylemleri planlayan, harici araçları (API) kullanan ve hatalarını düzeltebilen otonom sistemler bütünüdür.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -47,22 +49,38 @@
   "@type": "FAQPage",
   "mainEntity": [
     {
-      "@type": "Question",
-      "name": "Agentic AI ile AI Agent farkı nedir?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "AI Agent tek bir birimi, Agentic AI ise bu yeteneklerin bütününe verilen genel ismi ifade eder."
-      }
+        "@type": "Question",
+        "name": "Agentic AI ile sıradan bir yapay zekâ sohbet botu (Chatbot) arasındaki temel fark nedir?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sohbet botu pasif olarak sorulara yanıt üretir ve bekler; Agentic AI ise hedefi gerçekleştirmek için kendi kendine alt görevler planlar, araçları (API) çalıştırır ve otonom eyleme geçer."
+        }
     },
     {
-      "@type": "Question",
-      "name": "Bu teknoloji iş dünyasını nasıl değiştirir?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Tekrarlayan ve planlama gerektiren işleri tamamen yapay zekaya devretmemizi sağlar."
-      }
+        "@type": "Question",
+        "name": "ReAct çerçevesi ne anlama gelir?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Akıl yürütme (Reasoning) ve Eylem (Acting) kelimelerinden oluşan bu mimari, ajanın her eylem öncesinde düşünmesini, eylem sonucunu gözlemlemesini ve döngüsel olarak kendini düzeltmesini sağlar."
+        }
+    },
+    {
+        "@type": "Question",
+        "name": "Human-in-the-Loop (HITL) yaklaşımı neden gereklidir?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kritik veri silme, ödeme yapma veya kamuya mesaj paylaşma gibi geri dönüşü olmayan riskli adımlarda son kararın bir insan onayına bırakılmasını sağlayarak yapay zekâ risklerini önler."
+        }
+    },
+    {
+        "@type": "Question",
+        "name": "Çoklu ajan (Multi-Agent) sistemleri neden tek bir ajandan daha başarılıdır?",
+        "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Farklı rollerde (araştırmacı, yazar, denetçi) uzmanlaşmış küçük ajanların birbirinin çıktısını denetlemesi halüsinasyonları azaltır ve karmaşık projelerin parçalara bölünerek çözülmesini sağlar."
+        }
     }
-  ]
+]
 }
 </script>
 <link rel="alternate" type="text/markdown" href="/dictionary/agentic-ai.md">
@@ -71,10 +89,7 @@
 <link rel="stylesheet" href="/assets/site.css">
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
-
-<meta name="twitter:description" content="Yapay zekanın sadece metin üretmek yerine hedeflere ulaşmak için inisiyatif almasıdır.">
-
-<meta property="og:image:alt" content="Agentic AI nedir?">
+<meta property="og:image:alt" content="Agentic AI nedir, ne demek?">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
@@ -82,12 +97,56 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Yapay Zekâ</span><time class="dict-time" datetime="2026-06-03">Son güncelleme: 3 Haziran 2026</time></div>
-<h1 class="disc-title">Agentic AI <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Yapay Zekâ</span><time class="dict-time" datetime="2026-09-20">Son güncelleme: 20 Eylül 2026</time></div>
+<h1 class="disc-title">Agentic AI <span class="disc-accent">nedir, ne demek?</span></h1>
+<p class="dict-en">Ajanik Yapay Zekâ</p>
+<p class="disc-lead">Agentic AI (ajanik yapay zekâ), önceden belirlenmiş hedeflere ulaşmak için bağımsız kararlar alabilen, çok adımlı eylemleri planlayan, harici araçları (API) kullanan ve hatalarını düzeltebilen otonom sistemler bütünüdür.</p>
 
-<p class="disc-lead">Yapay zekanın sadece metin üretmek yerine hedeflere ulaşmak için inisiyatif almasıdır.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Yapay zekanın pasif bir araç olmaktan çıkıp, hedefleri doğrultusunda proaktif davranan bir yapıya bürünmesidir. Sistemin kendi hatalarını fark edip düzeltme yeteneği bu kavramın merkezindedir.</p></section><div class="dict-analogy">Şöyle düşünün: Bir arabanın sadece sizin sürmenizi beklemesi yerine, rotayı bilip trafiğe göre kendi kendine en iyi yolu seçen otonom bir araç olması gibidir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Sistem, karmaşık bir sorunu çözmek için farklı araçları birbiriyle koordine eder. Bir adım başarısız olursa, alternatif bir yol deneyerek hedefine ulaşmaya çalışır.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Şirket içi iş akışlarını otomatize eden yazılımlarda ve karmaşık yazılım geliştirme süreçlerinde kullanılır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Yapay zekâ ile karıştırılır; bu aslında yapay zekanın uygulama biçimindeki bir evrimdir.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Agentic AI ile AI Agent farkı nedir?</p><p class="dict-faq-a">AI Agent tek bir birimi, Agentic AI ise bu yeteneklerin bütününe verilen genel ismi ifade eder.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Bu teknoloji iş dünyasını nasıl değiştirir?</p><p class="dict-faq-a">Tekrarlayan ve planlama gerektiren işleri tamamen yapay zekaya devretmemizi sağlar.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/ai-agent/">AI Agent</a><a href="/dictionary/self-orchestration/">Self-orchestration</a><a href="/dictionary/compound-engineering/">Compound Engineering</a></div></section>
+<section class="disc-sec">
+<h2>Etimoloji ve Faillik Paradigması</h2>
+<p>Agentic AI kavramı, yapay zekâ teknolojisinin pasif bir bilgi verme arayüzünden (Chatbot) aktif bir eylem ve karar alma öznesine (Autonomous Agent) evrilmesini ifade eder. İngilizce 'agency' (faillik, eylemlilik, irade koyma) kelimesinden türeyen bu kavram, kullanıcının yalnızca nihai hedefi belirttiği ve geriye kalan tüm stratejik alt adımları sistemin kendi inisiyatifiyle planlayıp yürüttüğü sistemleri tanımlar.</p><p>Geleneksel üretken yapay zekâ sistemleri 'prompt-response' (soru-cevap) döngüsüne hapsolmuştur; bir soru sorulduğunda tek bir metin bloğu üretir ve pasif şekilde bir sonraki komutu bekler. Agentic AI sistemleri ise bir çevre (environment) içinde konumlanır; sensörleri veya veri girişleri aracılığıyla durumu gözlemler, hedefe giden adımları tasarlar, gerek duyduğunda internette arama yapar, kod yazar, veritabanına bağlanır ve karşılaştığı hatalarda rotasını revize ederek sonuca ulaşır.</p>
+</section>
+
+<div class="dict-analogy">Şöyle düşünün: Danışma masasındaki memur ile operasyon direktörü arasındaki farkı hayal edin. Memura (geleneksel LLM) 'Paris biletini nasıl alırım?' derseniz adımları anlatır ve susar; eyleme geçmez. Operasyon direktörüne (Agentic AI) ise 'Bana yarın için en uygun bileti al' dersiniz. Direktör uçuş sitelerine API ile bağlanır, fiyatları karşılaştırır, rezervasyonu yapar ve bileti telefonunuza indirir. Agentic AI, tavsiye veren danışmandan işi bizzat bitiren icracı bir asistana dönüşümdür.</div>
+
+<section class="disc-sec">
+<h2>Teknik Derinlik ve Bilişsel Mimari</h2>
+<p>- <strong>Bilişsel Döngü (Reasoning &amp; ReAct):</strong> Ajan Düşün -> Eylem Planla -> Araç Çağır -> Gözlemle döngüsünü hedefe ulaşana kadar dinamik olarak yürütür.<br>
+- <strong>Araç Entegrasyonu (Tool Use):</strong> REST API'ler, SQL veritabanları, izole Python çalıştırma ortamları ve tarayıcı otomasyonlarıyla dış dünyada işlem yapar.<br>
+- <strong>Bellek Mimarisi:</strong> Anlık düşünce adımları bağlam penceresinde, kalıcı deneyimler ise vektör veritabanlarında epizodik hafıza olarak saklanır.<br>
+- <strong>Çoklu Ajan Kümeleri (Multi-Agent Swarms):</strong> Farklı uzmanlıktaki ajanlar (araştırmacı, kod yazıcı, denetçi) birbirini kontrol ederek karmaşık işleri tamamlar.<br>
+- <strong>Model Context Protocol (MCP) Standardı:</strong> Ajanların harici servislerle evrensel ve güvenli bir arayüzle konuşması sağlanır.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Sosyolojik Boyut: İş Gücünün Geleceği ve HITL Sorumluluğu</h2>
+<p>Agentic AI, yazılım mühendisliği ve iş gücü piyasasında köklü bir paradigma değişimini temsil eder. İnsanların bilgisayarlara komut satırıyla veya fareyle tek tek ne yapacağını söylediği mikro-yönetim çağı kapanmakta; insanların yalnızca hedefleri ve etik sınırları belirlediği orkestra şefliği dönemi başlamaktadır.</p><p>Ancak bu otonomi devasa güvenlik ve etik sorumluluklar getirir. Kendi kendine finansal işlem yapabilen, sunucularda kod çalıştıran veya sözleşme onaylayan ajanların halüsinasyon görmesi veya yetki sınırlarını aşması felaketlere yol açabilir. Bu nedenle modern mimariler, kritik onay noktalarında insan denetimini şart koşan 'Human-in-the-Loop' (HITL) mekanizmalarını ve katı güvenlik sınırlarını (guardrails) zorunlu kılar.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Sık Yapılan Hatalar ve Yanılgılar</h2>
+<p>- <strong>Sonsuz Döngüleri Önlememek:</strong> Ajanın hata anında kendini durmaksızın tekrar etmesini engellemek için maksimum adım sayısı belirlenmelidir.<br>
+- <strong>Aşırı Yetki Vermek:</strong> Veritabanı silme veya finansal transfer gibi eylemlere kontrolsüz yetki vermek güvenlik zaafıdır; salt okunur kısıtlar getirilmelidir.<br>
+- <strong>Basit İşlerde Ajan Kullanmak:</strong> Tek bir prompt ile halledilecek görevlerde gereksiz ajan kümeleri kurmak maliyeti ve gecikmeyi artırır.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Sıkça Sorulanlar</h2>
+<div class="dict-faq">
+<div class="dict-faq-item"><p class="dict-faq-q">Agentic AI ile sıradan bir yapay zekâ sohbet botu (Chatbot) arasındaki temel fark nedir?</p><p class="dict-faq-a">Sohbet botu pasif olarak sorulara yanıt üretir ve bekler; Agentic AI ise hedefi gerçekleştirmek için kendi kendine alt görevler planlar, araçları (API) çalıştırır ve otonom eyleme geçer.</p></div>
+<div class="dict-faq-item"><p class="dict-faq-q">ReAct çerçevesi ne anlama gelir?</p><p class="dict-faq-a">Akıl yürütme (Reasoning) ve Eylem (Acting) kelimelerinden oluşan bu mimari, ajanın her eylem öncesinde düşünmesini, eylem sonucunu gözlemlemesini ve döngüsel olarak kendini düzeltmesini sağlar.</p></div>
+<div class="dict-faq-item"><p class="dict-faq-q">Human-in-the-Loop (HITL) yaklaşımı neden gereklidir?</p><p class="dict-faq-a">Kritik veri silme, ödeme yapma veya kamuya mesaj paylaşma gibi geri dönüşü olmayan riskli adımlarda son kararın bir insan onayına bırakılmasını sağlayarak yapay zekâ risklerini önler.</p></div>
+<div class="dict-faq-item"><p class="dict-faq-q">Çoklu ajan (Multi-Agent) sistemleri neden tek bir ajandan daha başarılıdır?</p><p class="dict-faq-a">Farklı rollerde (araştırmacı, yazar, denetçi) uzmanlaşmış küçük ajanların birbirinin çıktısını denetlemesi halüsinasyonları azaltır ve karmaşık projelerin parçalara bölünerek çözülmesini sağlar.</p></div>
+</div>
+</section>
+
+<section class="disc-sec">
+<h2>İlgili terimler</h2>
+<div class="dict-related"><a href="/dictionary/ai-agent/">AI Agent</a><a href="/dictionary/llm/">LLM</a><a href="/dictionary/rag/">RAG</a><a href="/dictionary/tools/">Tools</a><a href="/dictionary/mcp/">MCP</a><a href="/dictionary/subagents/">Subagents</a></div>
+</section>
+
 <section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/personal-ai-infrastructure/">Personal_AI_Infrastructure</a></div></section>
+
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>
