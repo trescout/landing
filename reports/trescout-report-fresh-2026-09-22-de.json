@@ -1,0 +1,436 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-22",
+  "capturedAt": "2026-09-22T09:02:21.250Z",
+  "editorial": "Dieser Bericht enthält die Trends, die heute zum ersten Mal hervorgehoben wurden, ohne die Datensätze zu wiederholen, die in den normalen Berichten der letzten 30 Tage enthalten waren.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "akitaonrails/ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "summary": "Das in Rust entwickelte ai-memory bietet eine Langzeitgedächtnislösung (long term memory) für KI-gestützte Codierungstools. Diese Struktur, die die Aufgabenübergabe zwischen verschiedenen KI-Anbietern erleichtert, zielt darauf ab, die Kontinuität in Softwareentwicklungsprozessen zu gewährleisten.",
+          "meta": "Rust · ★ 7.924 · +167 heute",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "akitaonrails/ai-memory",
+            "capturedAt": "2026-09-22T09:02:22.412Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 7924,
+              "engagementCount": 167,
+              "rank": 4,
+              "extra": {
+                "starsToday": 167
+              }
+            }
+          }
+        },
+        {
+          "title": "mvt-project/mvt",
+          "url": "https://github.com/mvt-project/mvt",
+          "summary": "Das Mobile Verification Toolkit ist ein forensisches IT-Tool, das zur Erkennung von Sicherheitsverletzungen auf Mobilgeräten verwendet wird. Diese in Python entwickelte Software analysiert Gerätedaten und deckt Spuren potenzieller Cyberangriffe auf.",
+          "meta": "Python · ★ 13.746 · +169 heute",
+          "snapshot": {
+            "sourceId": "mvt-project/mvt",
+            "capturedAt": "2026-09-22T09:02:22.412Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 13746,
+              "engagementCount": 169,
+              "rank": 8,
+              "extra": {
+                "starsToday": 169
+              }
+            }
+          }
+        },
+        {
+          "title": "zhouxiaoka/autoclip",
+          "url": "https://github.com/zhouxiaoka/autoclip",
+          "summary": "AutoClip ist ein Videobearbeitungstool, das mithilfe von künstlicher Intelligenz automatisch wichtige Momente in langen Videos erkennt und herausschneidet. Diese Python-basierte Software zielt darauf ab, den Prozess für Content-Ersteller zu beschleunigen, Videos in Highlights zu unterteilen.",
+          "meta": "Python · ★ 8.573 · +250 heute",
+          "snapshot": {
+            "sourceId": "zhouxiaoka/autoclip",
+            "capturedAt": "2026-09-22T09:02:22.412Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 8573,
+              "engagementCount": 250,
+              "rank": 9,
+              "extra": {
+                "starsToday": 250
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "MiMo v2.6",
+          "url": "https://mimo.xiaomi.com/mimo-v2-6",
+          "summary": "MiMo v2.6, entwickelt von Xiaomi, ist ein Framework für Bewegungsplanung und -steuerung, das für Robotersysteme konzipiert wurde. Diese Plattform wurde entwickelt, um die autonome Bewegungsfähigkeit in komplexen Umgebungen zu verbessern und optimiert die Prozesse der Datenverarbeitung und Entscheidungsfindung von Robotern.",
+          "meta": "885 Punkte · 395 Kommentare",
+          "snapshot": {
+            "sourceId": "49792730",
+            "capturedAt": "2026-09-22T09:02:21.489Z",
+            "metadata": {
+              "popularity": 885,
+              "engagementCount": 395,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49792730",
+                  "popularity": 885,
+                  "engagementCount": 395
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "volf_",
+                "createdAt": "2026-09-21T20:12:12Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49792730"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49792730",
+              "popularity": 885,
+              "engagementCount": 395
+            }
+          ]
+        },
+        {
+          "title": "Attention is all you have",
+          "url": "https://alicegg.tech/2026/09/21/attention",
+          "summary": "Der Aufmerksamkeitsmechanismus (Attention Mechanism) steht im Zentrum der Transformer-Architektur, die das Fundament moderner KI-Modelle bildet. Dieser Ansatz gewichtet die Beziehungen zwischen verschiedenen Elementen in den Daten und ermöglicht es dem Modell, den Kontext effektiver zu verstehen.",
+          "meta": "788 Punkte · 232 Kommentare",
+          "snapshot": {
+            "sourceId": "49787726",
+            "capturedAt": "2026-09-22T09:02:21.489Z",
+            "metadata": {
+              "popularity": 788,
+              "engagementCount": 232,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49787726",
+                  "popularity": 788,
+                  "engagementCount": 232
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "zer0tonin",
+                "createdAt": "2026-09-21T14:26:56Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49787726"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49787726",
+              "popularity": 788,
+              "engagementCount": 232
+            }
+          ]
+        },
+        {
+          "title": "I don't want to read what you didn't write",
+          "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+          "summary": "Die Zunahme von KI-generierten Inhalten verändert die Erwartungen der Leser an die Originalität von Texten und die Arbeit der Autoren. Dieser Trend fordert, dass Texte, die mit generativen KI-Tools erstellt wurden, transparent gekennzeichnet werden müssen.",
+          "meta": "655 Punkte · 248 Kommentare",
+          "snapshot": {
+            "sourceId": "49794330",
+            "capturedAt": "2026-09-22T09:02:21.489Z",
+            "metadata": {
+              "popularity": 655,
+              "engagementCount": 248,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49794330",
+                  "popularity": 655,
+                  "engagementCount": 248
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "mooreds",
+                "createdAt": "2026-09-21T22:30:41Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49794330"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49794330",
+              "popularity": 655,
+              "engagementCount": 248
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Document Retrieval-Aware Chunking (D-RAC): Universal Retrieval-Aware Ingestion of Enterprise Documents via PDF Normalization and Multimodal Markdown Conversion",
+          "url": "https://huggingface.co/papers/2609.24220",
+          "summary": "Document Retrieval Aware Chunking (D-RAC) bewahrt komplexe visuelle Layouts und Tabellen in Unternehmensdokumenten, wodurch sichergestellt wird, dass Daten von KI-Systemen präziser verarbeitet werden. Die Methode wandelt PDF- und ähnliche Formate in eine multimodale Auszeichnungssprache (Multimodal Markdown) um und minimiert so Verluste bei der Lesereihenfolge und Hierarchie, die durch herkömmliche Methoden verursacht werden.",
+          "meta": "32 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.24220",
+            "capturedAt": "2026-09-22T09:02:21.424Z",
+            "metadata": {
+              "popularity": 32,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.24220",
+                "publishedAt": "2026-09-21T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Mira-Scene: Pixel-Aligned Layouts for Generative 3D Scene",
+          "url": "https://huggingface.co/papers/2609.23796",
+          "summary": "Mira-Scene ist eine neue Methode, die entwickelt wurde, um Objekte aus einem einzigen Bild in einem konsistenten 3D-Szenenlayout (3D scene layout) zu platzieren. Dieser Ansatz, der die Geometrie von den Layout-Informationen trennt, um Objektdetails zu bewahren, nutzt eine pixelbasierte Ausrichtungsstruktur, um Platzierungsschwierigkeiten während des Szenenerstellungsprozesses zu beheben.",
+          "meta": "2 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.23796",
+            "capturedAt": "2026-09-22T09:02:21.424Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.23796",
+                "publishedAt": "2026-09-20T00:00:00.000Z",
+                "githubRepo": "https://github.com/VAST-AI-Research/Mira-Scene",
+                "githubStars": 8
+              }
+            }
+          }
+        },
+        {
+          "title": "Deep Persona: A Psychologically Grounded Architecture and Evaluation Framework for Role-Playing Agents and Simulations",
+          "url": "https://huggingface.co/papers/2609.22255",
+          "summary": "Deep Persona bietet eine psychologisch fundierte, dreischichtige Architektur, um die Charakterkonsistenz in großen Sprachmodellen (large language models) zu gewährleisten. Dieser Ansatz zielt darauf ab, überzeugendere Rollenspiel-Agenten (role-playing agents) zu schaffen, indem Charaktere durch beobachtbare Ausdrücke, verborgene Überzeugungen und grundlegende Motivationen konstruiert werden.",
+          "meta": "10 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.22255",
+            "capturedAt": "2026-09-22T09:02:21.424Z",
+            "metadata": {
+              "popularity": 10,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.22255",
+                "publishedAt": "2026-09-06T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "CARE: Experience-Guided Atomic Corrective Execution for Vision-Language-Action Policies",
+          "url": "https://huggingface.co/papers/2609.24118",
+          "summary": "CARE bietet ein Framework für korrigierende Ausführung (corrective execution), das bei robotischen Manipulationsaufgaben im Fehlerfall eingreift und durch das Lernen aus Misserfolgen Verbesserungen erzielt. Es zielt darauf ab, Leistungsverluste bei Vision-Language-Action-Richtlinien (vision-language-action policies) bei unerwarteten Abweichungen durch die Modellierung fehlgeschlagener Versuche zu beheben.",
+          "meta": "9 Likes · 2 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.24118",
+            "capturedAt": "2026-09-22T09:02:21.424Z",
+            "metadata": {
+              "popularity": 9,
+              "engagementCount": 2,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.24118",
+                "publishedAt": "2026-09-21T00:00:00.000Z",
+                "githubRepo": "https://github.com/xiaojunlan/care",
+                "githubStars": 30
+              }
+            }
+          }
+        },
+        {
+          "title": "OmniEdu: Open Foundation Models for Learning and Teaching",
+          "url": "https://huggingface.co/papers/2609.23088",
+          "summary": "OmniEdu ist eine Familie von Open-Source-Grundlagenmodellen (foundation models), die für Bildungs- und Lehrprozesse auf K-12-Niveau entwickelt wurden. Durch die Kombination der Problemlösungs- und Nachhilfefähigkeiten bildungsorientierter Sprachmodelle bietet es die Fähigkeit, Lehrplanstrukturen zu verstehen und Schwierigkeiten von Schülern zu diagnostizieren.",
+          "meta": "22 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.23088",
+            "capturedAt": "2026-09-22T09:02:21.424Z",
+            "metadata": {
+              "popularity": 22,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.23088",
+                "publishedAt": "2026-09-19T00:00:00.000Z",
+                "githubRepo": "https://github.com/haolpku/Omni-Edu",
+                "githubStars": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Stop Making TUIs",
+          "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+          "summary": "Terminalbasierte Benutzeroberflächen (TUI) bieten angesichts der Flexibilität moderner Bildschirmtechnologien und grafischer Benutzeroberflächen ein einschränkendes Erlebnis. Dieser Ansatz führt dazu, dass Benutzer auf visuelle Effizienz und erweiterte Interaktionsmöglichkeiten verzichten müssen.",
+          "meta": "25 Punkte · 30 Kommentare",
+          "snapshot": {
+            "sourceId": "kyb21s",
+            "capturedAt": "2026-09-22T09:02:21.754Z",
+            "metadata": {
+              "popularity": 25,
+              "engagementCount": 30,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/kyb21s/stop_making_tuis",
+                  "popularity": 25,
+                  "engagementCount": 30
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vibecoding"
+                ],
+                "createdAt": "2026-08-22T01:52:31.811-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/kyb21s/stop_making_tuis",
+              "popularity": 25,
+              "engagementCount": 30
+            }
+          ]
+        },
+        {
+          "title": "Robot comment classifier",
+          "url": "https://entropicthoughts.com/ai-comment-classifier",
+          "summary": "Ein Modell, das Kommentare unter Verwendung von KI-Ausgaben klassifiziert, kombiniert traditionelle statistische Methoden wie logistische Regression und Support-Vektor-Maschinen (support vector machines). Dieser Ansatz vereint die Analysefähigkeiten großer Sprachmodelle (large language models) mit leichteren und schneller arbeitenden Klassifizierungsalgorithmen.",
+          "meta": "8 Punkte · 5 Kommentare",
+          "snapshot": {
+            "sourceId": "ilfiqa",
+            "capturedAt": "2026-09-22T09:02:21.754Z",
+            "metadata": {
+              "popularity": 8,
+              "engagementCount": 5,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/ilfiqa/robot_comment_classifier",
+                  "popularity": 8,
+                  "engagementCount": 5
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "ai"
+                ],
+                "createdAt": "2026-08-22T05:18:39.546-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ilfiqa/robot_comment_classifier",
+              "popularity": 8,
+              "engagementCount": 5
+            }
+          ]
+        },
+        {
+          "title": "Programming Language Semantics and Memory Safety",
+          "url": "https://burakemir.ch/post/formal-semantics/",
+          "summary": "Die formale Semantik (formal semantics) von Programmiersprachen untersucht die mathematischen Grundlagen von Speichersicherheitsmechanismen (memory safety), um die Softwaresicherheit zu gewährleisten. Diese Arbeit konzentriert sich darauf, wie Sprachdesign und Verifizierungsprozesse verbessert werden können, um Speicherfehler in komplexen Systemen zu verhindern.",
+          "meta": "27 Punkte · 31 Kommentare",
+          "snapshot": {
+            "sourceId": "lmpkkr",
+            "capturedAt": "2026-09-22T09:02:21.754Z",
+            "metadata": {
+              "popularity": 27,
+              "engagementCount": 31,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/lmpkkr/programming_language_semantics_memory",
+                  "popularity": 27,
+                  "engagementCount": 31
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "plt"
+                ],
+                "createdAt": "2026-08-21T23:19:40.678-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/lmpkkr/programming_language_semantics_memory",
+              "popularity": 27,
+              "engagementCount": 31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "framework",
+      "explanation": "Eine Struktur, die bei der Softwareentwicklung die Arbeit erleichtert und eine Sammlung fertiger Werkzeuge und Regeln bietet."
+    },
+    {
+      "term": "long term memory",
+      "explanation": "Die Fähigkeit einer künstlichen Intelligenz, Informationen aus der Vergangenheit über einen langen Zeitraum zu speichern und bei Bedarf wieder abzurufen."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Systeme, die mithilfe der gelernten Daten neue Inhalte wie Texte, Bilder oder Töne von Grund auf neu erstellen können."
+    },
+    {
+      "term": "attention mechanism",
+      "explanation": "Eine Methode, die es der KI ermöglicht, die Bedeutung besser zu erfassen, indem sie sich auf die wichtigsten Wörter in einem Text konzentriert."
+    },
+    {
+      "term": "transformer",
+      "explanation": "Eine Architektur, die die Grundlage heutiger fortschrittlicher KI-Modelle bildet und Beziehungen zwischen Daten sehr schnell analysiert."
+    }
+  ]
+}

