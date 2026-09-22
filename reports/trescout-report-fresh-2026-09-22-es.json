@@ -1,0 +1,436 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-22",
+  "capturedAt": "2026-09-22T09:02:21.250Z",
+  "editorial": "Este informe contiene las tendencias que han destacado por primera vez hoy, sin repetir los registros que aparecen en los informes normales de los últimos 30 días.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "akitaonrails/ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "summary": "Desarrollado en el lenguaje Rust, ai-memory ofrece una solución de memoria a largo plazo (long term memory) para herramientas de codificación impulsadas por inteligencia artificial. Esta estructura, que facilita la transferencia de tareas entre diferentes proveedores de IA, tiene como objetivo garantizar la continuidad en los procesos de desarrollo de software.",
+          "meta": "Rust · ★ 7.924 · +167 hoy",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "akitaonrails/ai-memory",
+            "capturedAt": "2026-09-22T09:02:22.412Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 7924,
+              "engagementCount": 167,
+              "rank": 4,
+              "extra": {
+                "starsToday": 167
+              }
+            }
+          }
+        },
+        {
+          "title": "mvt-project/mvt",
+          "url": "https://github.com/mvt-project/mvt",
+          "summary": "Mobile Verification Toolkit es una herramienta de informática forense utilizada para detectar brechas de seguridad en dispositivos móviles. Este software, desarrollado en Python, analiza los datos del dispositivo para revelar posibles rastros de ciberataques.",
+          "meta": "Python · ★ 13.746 · +169 hoy",
+          "snapshot": {
+            "sourceId": "mvt-project/mvt",
+            "capturedAt": "2026-09-22T09:02:22.412Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 13746,
+              "engagementCount": 169,
+              "rank": 8,
+              "extra": {
+                "starsToday": 169
+              }
+            }
+          }
+        },
+        {
+          "title": "zhouxiaoka/autoclip",
+          "url": "https://github.com/zhouxiaoka/autoclip",
+          "summary": "AutoClip es una herramienta de edición de video que utiliza inteligencia artificial para detectar y recortar automáticamente los momentos importantes de videos largos. Este software basado en Python tiene como objetivo acelerar el proceso de los creadores de contenido para dividir los videos en secciones destacadas.",
+          "meta": "Python · ★ 8.573 · +250 hoy",
+          "snapshot": {
+            "sourceId": "zhouxiaoka/autoclip",
+            "capturedAt": "2026-09-22T09:02:22.412Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 8573,
+              "engagementCount": 250,
+              "rank": 9,
+              "extra": {
+                "starsToday": 250
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "MiMo v2.6",
+          "url": "https://mimo.xiaomi.com/mimo-v2-6",
+          "summary": "MiMo v2.6, desarrollado por Xiaomi, es un marco (framework) de planificación y control de movimiento diseñado para sistemas robóticos. Desarrollada para aumentar la capacidad de movimiento autónomo en entornos complejos, esta plataforma optimiza los procesos de procesamiento de datos ambientales y toma de decisiones de los robots.",
+          "meta": "885 puntos · 395 comentarios",
+          "snapshot": {
+            "sourceId": "49792730",
+            "capturedAt": "2026-09-22T09:02:21.489Z",
+            "metadata": {
+              "popularity": 885,
+              "engagementCount": 395,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49792730",
+                  "popularity": 885,
+                  "engagementCount": 395
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "volf_",
+                "createdAt": "2026-09-21T20:12:12Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49792730"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49792730",
+              "popularity": 885,
+              "engagementCount": 395
+            }
+          ]
+        },
+        {
+          "title": "Attention is all you have",
+          "url": "https://alicegg.tech/2026/09/21/attention",
+          "summary": "El mecanismo de atención (attention mechanism) se encuentra en el centro de la arquitectura transformer, que constituye la base de los modelos modernos de inteligencia artificial. Este enfoque permite que el modelo comprenda el contexto de manera más efectiva al ponderar las relaciones entre diferentes elementos de los datos.",
+          "meta": "788 puntos · 232 comentarios",
+          "snapshot": {
+            "sourceId": "49787726",
+            "capturedAt": "2026-09-22T09:02:21.489Z",
+            "metadata": {
+              "popularity": 788,
+              "engagementCount": 232,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49787726",
+                  "popularity": 788,
+                  "engagementCount": 232
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "zer0tonin",
+                "createdAt": "2026-09-21T14:26:56Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49787726"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49787726",
+              "popularity": 788,
+              "engagementCount": 232
+            }
+          ]
+        },
+        {
+          "title": "I don't want to read what you didn't write",
+          "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+          "summary": "El aumento de los contenidos generados por inteligencia artificial está cambiando las expectativas de los lectores sobre la originalidad de los textos y el esfuerzo autoral. Esta tendencia aboga por que los textos preparados con herramientas de inteligencia artificial generativa (generative AI) deban indicarse con transparencia.",
+          "meta": "655 puntos · 248 comentarios",
+          "snapshot": {
+            "sourceId": "49794330",
+            "capturedAt": "2026-09-22T09:02:21.489Z",
+            "metadata": {
+              "popularity": 655,
+              "engagementCount": 248,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49794330",
+                  "popularity": 655,
+                  "engagementCount": 248
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "mooreds",
+                "createdAt": "2026-09-21T22:30:41Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49794330"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49794330",
+              "popularity": 655,
+              "engagementCount": 248
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Document Retrieval-Aware Chunking (D-RAC): Universal Retrieval-Aware Ingestion of Enterprise Documents via PDF Normalization and Multimodal Markdown Conversion",
+          "url": "https://huggingface.co/papers/2609.24220",
+          "summary": "El fragmentado consciente del acceso a documentos (D-RAC) permite que los sistemas de inteligencia artificial procesen los datos con mayor precisión al preservar los diseños visuales complejos y las tablas de los documentos corporativos. El método convierte formatos como PDF y similares en un lenguaje de marcado multimodal (multimodal markdown), minimizando las pérdidas de orden de lectura y jerarquía causadas por los métodos tradicionales.",
+          "meta": "32 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2609.24220",
+            "capturedAt": "2026-09-22T09:02:21.424Z",
+            "metadata": {
+              "popularity": 32,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.24220",
+                "publishedAt": "2026-09-21T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Mira-Scene: Pixel-Aligned Layouts for Generative 3D Scene",
+          "url": "https://huggingface.co/papers/2609.23796",
+          "summary": "Mira-Scene es un nuevo método desarrollado para colocar objetos obtenidos a partir de una sola imagen en un diseño de escena 3D coherente. Este enfoque, que separa la geometría de la información de diseño para preservar los detalles de los objetos, utiliza una estructura de alineación de píxeles para resolver las dificultades de posicionamiento en el proceso de creación de escenas.",
+          "meta": "2 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2609.23796",
+            "capturedAt": "2026-09-22T09:02:21.424Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.23796",
+                "publishedAt": "2026-09-20T00:00:00.000Z",
+                "githubRepo": "https://github.com/VAST-AI-Research/Mira-Scene",
+                "githubStars": 8
+              }
+            }
+          }
+        },
+        {
+          "title": "Deep Persona: A Psychologically Grounded Architecture and Evaluation Framework for Role-Playing Agents and Simulations",
+          "url": "https://huggingface.co/papers/2609.22255",
+          "summary": "Deep Persona presenta una arquitectura de tres capas basada en la psicología para garantizar la coherencia de los personajes en los modelos de lenguaje grandes (large language models). Este enfoque tiene como objetivo crear agentes de juego de rol (role-playing agents) más convincentes mediante la construcción de personajes a través de expresiones observables, creencias ocultas y motivaciones fundamentales.",
+          "meta": "10 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2609.22255",
+            "capturedAt": "2026-09-22T09:02:21.424Z",
+            "metadata": {
+              "popularity": 10,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.22255",
+                "publishedAt": "2026-09-06T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "CARE: Experience-Guided Atomic Corrective Execution for Vision-Language-Action Policies",
+          "url": "https://huggingface.co/papers/2609.24118",
+          "summary": "CARE ofrece un marco de ejecución correctiva (corrective execution) que interviene en el momento del error en tareas de manipulación robótica y logra mejoras aprendiendo de las experiencias de fracaso. Su objetivo es mitigar las pérdidas de rendimiento que experimentan las políticas de visión-lenguaje-acción (vision-language-action) ante desviaciones inesperadas, mediante el modelado de intentos fallidos.",
+          "meta": "9 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2609.24118",
+            "capturedAt": "2026-09-22T09:02:21.424Z",
+            "metadata": {
+              "popularity": 9,
+              "engagementCount": 2,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.24118",
+                "publishedAt": "2026-09-21T00:00:00.000Z",
+                "githubRepo": "https://github.com/xiaojunlan/care",
+                "githubStars": 30
+              }
+            }
+          }
+        },
+        {
+          "title": "OmniEdu: Open Foundation Models for Learning and Teaching",
+          "url": "https://huggingface.co/papers/2609.23088",
+          "summary": "OmniEdu es una familia de modelos fundamentales (foundation models) de código abierto desarrollados para los procesos de enseñanza y aprendizaje a nivel K-12. Combina las capacidades de resolución de problemas y tutoría de los modelos de lenguaje orientados a la educación en una sola estructura, ofreciendo la habilidad de comprender la estructura curricular y diagnosticar las dificultades de los estudiantes.",
+          "meta": "22 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2609.23088",
+            "capturedAt": "2026-09-22T09:02:21.424Z",
+            "metadata": {
+              "popularity": 22,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.23088",
+                "publishedAt": "2026-09-19T00:00:00.000Z",
+                "githubRepo": "https://github.com/haolpku/Omni-Edu",
+                "githubStars": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Stop Making TUIs",
+          "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
+          "summary": "Las interfaces de usuario basadas en terminal (TUI) ofrecen una experiencia limitante si se considera la flexibilidad que brindan las tecnologías de pantalla modernas y las interfaces gráficas. Este enfoque provoca que los usuarios se vean privados de la eficiencia visual y de las posibilidades de interacción avanzada.",
+          "meta": "25 puntos · 30 comentarios",
+          "snapshot": {
+            "sourceId": "kyb21s",
+            "capturedAt": "2026-09-22T09:02:21.754Z",
+            "metadata": {
+              "popularity": 25,
+              "engagementCount": 30,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/kyb21s/stop_making_tuis",
+                  "popularity": 25,
+                  "engagementCount": 30
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vibecoding"
+                ],
+                "createdAt": "2026-08-22T01:52:31.811-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/kyb21s/stop_making_tuis",
+              "popularity": 25,
+              "engagementCount": 30
+            }
+          ]
+        },
+        {
+          "title": "Robot comment classifier",
+          "url": "https://entropicthoughts.com/ai-comment-classifier",
+          "summary": "Un modelo que clasifica comentarios utilizando resultados de inteligencia artificial combina métodos estadísticos tradicionales como la regresión logística y las máquinas de vectores de soporte (support vector machines). Este enfoque integra las capacidades de análisis de los modelos de lenguaje grandes (large language models) con algoritmos de clasificación más ligeros y rápidos.",
+          "meta": "8 puntos · 5 comentarios",
+          "snapshot": {
+            "sourceId": "ilfiqa",
+            "capturedAt": "2026-09-22T09:02:21.754Z",
+            "metadata": {
+              "popularity": 8,
+              "engagementCount": 5,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/ilfiqa/robot_comment_classifier",
+                  "popularity": 8,
+                  "engagementCount": 5
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "ai"
+                ],
+                "createdAt": "2026-08-22T05:18:39.546-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ilfiqa/robot_comment_classifier",
+              "popularity": 8,
+              "engagementCount": 5
+            }
+          ]
+        },
+        {
+          "title": "Programming Language Semantics and Memory Safety",
+          "url": "https://burakemir.ch/post/formal-semantics/",
+          "summary": "La semántica formal (formal semantics) de los lenguajes de programación examina los fundamentos matemáticos de los mecanismos de seguridad de memoria (memory safety) para garantizar la seguridad del software. Este estudio se centra en cómo mejorar los procesos de diseño y verificación de lenguajes para prevenir errores de memoria en sistemas complejos.",
+          "meta": "27 puntos · 31 comentarios",
+          "snapshot": {
+            "sourceId": "lmpkkr",
+            "capturedAt": "2026-09-22T09:02:21.754Z",
+            "metadata": {
+              "popularity": 27,
+              "engagementCount": 31,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/lmpkkr/programming_language_semantics_memory",
+                  "popularity": 27,
+                  "engagementCount": 31
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "plt"
+                ],
+                "createdAt": "2026-08-21T23:19:40.678-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/lmpkkr/programming_language_semantics_memory",
+              "popularity": 27,
+              "engagementCount": 31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "framework",
+      "explanation": "Una estructura que facilita el trabajo al desarrollar software, ofreciendo un conjunto de herramientas y reglas predefinidas."
+    },
+    {
+      "term": "long term memory",
+      "explanation": "La capacidad de la inteligencia artificial para almacenar información pasada durante mucho tiempo y reutilizarla cuando sea necesario."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Sistemas capaces de generar nuevos contenidos como texto, imágenes o audio desde cero utilizando los datos que han aprendido."
+    },
+    {
+      "term": "attention mechanism",
+      "explanation": "Un método que permite a la inteligencia artificial comprender mejor el significado al centrarse en las palabras más importantes dentro de un texto."
+    },
+    {
+      "term": "transformer",
+      "explanation": "Una arquitectura que forma la base de los modelos avanzados de inteligencia artificial actuales y analiza muy rápidamente las relaciones entre los datos."
+    }
+  ]
+}
