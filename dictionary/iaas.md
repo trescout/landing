@@ -1,31 +1,61 @@
-# IaaS nedir?
+# IaaS nedir, ne demek?
 
 > Infrastructure as a Service
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-06-27
+**Son güncelleme:** 2026-09-22
 
-İnternet üzerinden sanal sunucu ve depolama alanı gibi temel donanım kaynaklarının kiralanmasıdır.
+IaaS (**Infrastructure as a Service**, hizmet olarak altyapı), donanımın kiralanmasıdır.
 
-## Tanım
-Bilgisayarınızın gücü yetmediğinde veya bir sunucuya ihtiyaç duyduğunuzda, dev şirketlerin (Amazon, Microsoft gibi) devasa veri merkezlerinden bir parça kiralarsınız. Bu modelde işletim sistemini ve yazılımları siz kurarsınız, donanım sorumluluğu onlardadır.
+## Tanım ve Kelime Kökeni
+Güç yetmeyince dev veri merkezinden parça kiralanır. İşletim sistemi ve yazılım sizde, donanım sorumluluğu sağlayıcıdadır. Boş arsa benzetmesi yerindedir: Altyapı hazır, bina sizindir.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Site:** Trafiğe göre makine.
+- **Yedek:** Uzak disk.
+- **Test:** Geçici ortam.
+
+## Teknik Derinlik ve Mimari
+Katmanlar:
+- **Sanal makine:** İşlemci ve bellek dilimi.
+- **Depolama:** Blok ve nesne alanı.
+- **Ağ:** Sanal ağ ve adres.
+
+Kodla makine:
+
+```
+resource "aws_instance" "web" {
+  ami           = "ami-12345"
+  instance_type = "t3.micro"
+}
+```
+
+Maliyet kuralı: Açık unutulan makine yazar. Etiket ve alarm disiplini şarttır.
+
+## Sık Karıştırılanlar
+PaaS sanılır. IaaS donanım verir, PaaS hazır ortam sunar. Biri arsa, diğeri mobilyalı dairedir.
+
+## Farklı Disiplinlerde Kullanımı
+- **Arsa:** Altyapılı boş arazi.
+- **Depo:** Rafı hazır ambar.
+- **Tarla:** Sürülü toprak kiralama.
 
 ## Bir benzetmeyle
-Boş bir arsa kiralamak gibidir; üzerine ne inşa edeceğiniz tamamen size kalmıştır, sadece arsanın altyapısını kiralarsınız.
-
-## Nasıl çalışır?
-İnternet üzerinden bir panel aracılığıyla sanal bilgisayarlar oluşturulur ve yönetilir.
-
-## Nerede kullanılır?
-AWS, Azure ve Google Cloud gibi bulut sağlayıcılarında kullanılır.
-
-## Sık karıştırılanlar
-PaaS ile karıştırılabilir; IaaS temel donanımı verir, PaaS ise hazır bir çalışma ortamı sunar.
+Boş arsa kiralamaya benzer; altyapı hazırdır, bina size aittir.
 
 ## Sıkça sorulanlar
 
 **IaaS güvenli mi?**  
-Evet, ancak işletim sistemi ve yazılım güvenliğinden siz sorumlusunuz.
+Altyapı güvenlidir, iç güvenlik sizdedir. Yama ve erişim disiplini şarttır.
+
+**PaaS farkı nedir?**  
+IaaS donanım verir, PaaS ortam sunar. Kontrol sizdeyse ilki, hız istenirse ikincisi seçilir.
+
+**Maliyet nasıl tutulur?**  
+Kullanılmayan kapatılır, doğru boyut seçilir, alarm kurulur.
+
+**Ne zaman seçilir?**  
+Tam kontrol ve özel kurulum gerektiğinde. Standart işte PaaS yeterlidir.
 
 ## İlgili terimler
 - [SaaS](/dictionary/saas/)

@@ -27,7 +27,7 @@ En général oui, mais certaines extensions comme .gov sont réservées exclusiv
 ## Termes liés
 - [DNS Tunneling](/fr/dictionary/dns-tunneling/)
 - [Nameservers](/fr/dictionary/nameservers/)
-- [Networking Stack](/fr/dictionary/networking-stack/)
+- [Network Stack](/fr/dictionary/network-stack/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/top-level-domain/

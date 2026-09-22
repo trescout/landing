@@ -1,31 +1,59 @@
-# Google Cloud nedir?
+# Google Cloud nedir, ne demek?
 
 > Google Cloud Platform
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-07-01
+**Son güncelleme:** 2026-09-22
 
-Google tarafından sunulan, internet üzerinden veri depolama ve uygulama çalıştırma hizmetleri platformudur.
+Google Cloud (tam adıyla **Google Cloud Platform**), Google altyapısını kiralayan bulut hizmetidir.
 
-## Tanım
-Kendi sunucularınızı kurmak yerine, Google'ın devasa altyapısını kiraladığınız bir bulut hizmetidir. Burada yapay zeka modelleri eğitebilir, web siteleri barındırabilir veya büyük veri analizleri yapabilirsiniz. İhtiyacınız kadar kaynak kullanıp sadece kullandığınız kadar ödersiniz.
+## Tanım ve Kelime Kökeni
+Sunucu kurmadan hesaplama, depolama ve yapay zekâ kiralanır. İhtiyaç kadar kaynak, kullandıkça ödeme düzenidir. Kurumsal yazılım, mobil arka uç ve veri işlerinde koşar.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Kurumsal:** İş uygulamaları.
+- **Mobil:** Arka uç servisleri.
+- **Veri:** Ambar ve analiz.
+
+## Teknik Derinlik ve Mimari
+Servisler:
+- **Compute:** Sanal makine.
+- **Storage:** Nesne deposu.
+- **BigQuery:** Analitik ambar.
+- **Vertex:** Yapay zekâ platformu.
+
+Makine listesi:
+
+```
+gcloud compute instances list
+```
+
+Erişilebilirlik yüksektir, kesintisiz garanti sözleşmeyle okunur. Asla kapanmaz iddiası verilmez.
+
+## Sık Karıştırılanlar
+Drive sanılır. Drive dosya saklar, Cloud uygulama çalıştırır. Biri dolap, diğeri atölyedir.
+
+## Farklı Disiplinlerde Kullanımı
+- **Şebeke:** Prizden elektrik.
+- **Santral:** Kiralık üretim.
+- **Depo:** Kiralık ambar.
 
 ## Bir benzetmeyle
-Kendi evinizde elektrik üretmek yerine, şebekeden elektrik almak gibidir; altyapı ile uğraşmazsınız, sadece kullanırsınız.
-
-## Nasıl çalışır?
-Bir hesap açarak Google'ın sunduğu araçları seçer ve uygulamalarınızı buraya yüklersiniz.
-
-## Nerede kullanılır?
-Kurumsal yazılımlarda, mobil uygulama arka planlarında ve büyük veri projelerinde kullanılır.
-
-## Sık karıştırılanlar
-Google Drive ile karıştırılabilir; Drive dosya saklar, Cloud ise uygulama çalıştırır.
+Evde elektrik üretmek yerine şebekeden almak gibidir.
 
 ## Sıkça sorulanlar
 
-**Neden kendi bilgisayarımı değil de bunu kullanayım?**  
-Çünkü çok daha güçlüdür, asla kapanmaz ve dünyanın her yerinden erişilebilir.
+**Neden kendi bilgisayarım değil?**  
+Güç, erişim ve bakım yükü buluta kalır. Ölçek gerektiğinde fark açılır.
+
+**Maliyeti nedir?**  
+Kullandıkça ödenir. Boşta kaynak kapatılır, bütçe alarmı kurulur.
+
+**AWS farkı nedir?**  
+Servis adları değişir, mantık aynıdır. Ekip bilgisi seçimi belirler.
+
+**Ücretsiz başlanır mı?**  
+Sınırlı katman ve deneme kredisi vardır. Limit takip edilir.
 
 ## İlgili terimler
 - [SaaS](/dictionary/saas/)

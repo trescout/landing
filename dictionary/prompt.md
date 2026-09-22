@@ -1,29 +1,58 @@
-# Prompt nedir?
+# Prompt nedir, ne demek?
 
 **Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-07-11
+**Son güncelleme:** 2026-09-22
 
-Yapay zekâdan belirli bir görev yapmasını veya bir soruya cevap vermesini istemek için kullanılan yazılı talimattır.
+Prompt (Türkçe karşılığıyla **istem**), modele verilen yazılı talimattır.
 
-## Tanım
-Prompt, yapay zekâ ile kurduğunuz iletişimin temelidir. Bir yapay zekâ modeline 'Bana şu konuyu anlat' dediğinizde, bu cümle bir prompt olur. Promptun kalitesi, yapay zekânın vereceği cevabın doğruluğunu ve uygunluğunu doğrudan etkiler.
+## Tanım ve Kelime Kökeni
+"Prompt" **istem** demektir. İletişimin temelidir: Net talimat net cevap getirir. Rol, bağlam ve biçim üçlüsüyle yazılır.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Sohbet:** Soru ve görev verme.
+- **Görsel:** Sahne tarifi.
+- **Kod:** İş tanımı.
+
+## Teknik Derinlik ve Mimari
+Kalıp:
+
+```
+Rol: çevirmen
+İş: metni Türkçeye çevir
+Biçim: madde listesi
+```
+
+Kurallar:
+- **Bağlam:** Gerekli bilgi verilir.
+- **Sınır:** Yapılmayacak yazılır.
+- **Örnek:** Bir numune konur.
+
+Kötü istem kısa ve bağlamsızdır. İyi istem ölçülebilir çıktı ister.
+
+## Sık Karıştırılanlar
+Mühendisliği sanılır. İstem tek talimattır, mühendislik optimizasyon sanatıdır. Biri cümle, diğeri zanaattır.
+
+## Farklı Disiplinlerde Kullanımı
+- **Liste:** Görev pusulası.
+- **Sipariş:** Mutfak fişi.
+- **Tarif:** Ölçülü talimat.
 
 ## Bir benzetmeyle
-Bir asistana verdiğiniz görev listesi gibidir; ne kadar net ve detaylı talimat verirseniz, asistan işi o kadar istediğiniz gibi yapar.
-
-## Nasıl çalışır?
-Doğrudan bir soru sorabilir, bir bağlam verebilir veya 'şu formatta cevap ver' gibi kısıtlamalar ekleyebilirsiniz. İyi bir prompt, yapay zekânın ne yapması gerektiğini ve neyi yapmaması gerektiğini netleştirir.
-
-## Nerede kullanılır?
-ChatGPT, Claude, Midjourney gibi tüm üretken yapay zekâ arayüzlerinde kullanılır.
-
-## Sık karıştırılanlar
-Prompt Engineering ile karıştırılabilir; prompt tek bir talimat iken, prompt engineering bu talimatları optimize etme sanatıdır.
+Asistana verilen görev listesi gibidir; netlik arttıkça isabet artar.
 
 ## Sıkça sorulanlar
 
-**Kötü bir prompt nedir?**  
-Çok kısa, belirsiz veya bağlam içermeyen talimatlardır. Örneğin sadece 'yaz' demek, yapay zekânın ne yazacağını bilememesine neden olur.
+**Kötü istem nedir?**  
+Kısa, belirsiz ve bağlamsız olandır. Ölçü konmayan istek savrulur.
+
+**Uzun mu kısa mı?**  
+Yeterli olanı. Gerekli bağlam ve sınır konur, laf kalabalığı yapılmaz.
+
+**Türkçe olur mu?**  
+Evet. Model Türkçe anlar, terim tutarlılığına dikkat edilir.
+
+**Saklanır mı?**  
+Servise göre değişir. Hassas veri yazılmadan politika okunur.
 
 ## İlgili terimler
 - [Prompt Engineering](/dictionary/prompt-engineering/)

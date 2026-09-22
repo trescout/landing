@@ -21,7 +21,7 @@ El sistema deja de recibir nuevos comandos o manejar el tráfico, por lo que nor
 
 ## Términos relacionados
 - [API Gateway](/es/dictionary/api-gateway/)
-- [Networking Stack](/es/dictionary/networking-stack/)
+- [Network Stack](/es/dictionary/network-stack/)
 - [Cloud Native](/es/dictionary/cloud-native/)
 
 ## Herramientas relacionadas

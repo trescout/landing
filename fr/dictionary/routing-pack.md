@@ -17,7 +17,7 @@ Cela affecte directement la vitesse et la sécurité de la transmission des donn
 
 
 ## Termes liés
-- [Networking Stack](/fr/dictionary/networking-stack/)
+- [Network Stack](/fr/dictionary/network-stack/)
 - [API Gateway](/fr/dictionary/api-gateway/)
 - [Proxy](/fr/dictionary/proxy/)
 

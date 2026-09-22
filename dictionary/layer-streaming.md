@@ -1,29 +1,56 @@
-# Layer Streaming nedir?
+# Layer Streaming nedir, ne demek?
 
 **Kategori:** Veri & Altyapı  
-**Son güncelleme:** 2026-08-16
+**Son güncelleme:** 2026-09-22
 
-Büyük verilerin veya yazılım katmanlarının tamamı inmeden parça parça işlenmeye başlanmasıdır.
+Layer streaming (Türkçe karşılığıyla **katmanlı akış**), verinin parça parça işlenmesidir.
 
-## Tanım
-Katmanlı veri akışı, özellikle çok büyük boyutlu dosyaların veya yazılım paketlerinin yüklenme süresini beklemeden, ihtiyaç duyulan parçaların anında işleme alınmasını sağlar. Bu yöntem, bekleme süresini minimize ederek kullanıcı deneyimini iyileştirir.
+## Tanım ve Kelime Kökeni
+"Layer" **katman** demektir. Tamamı inmeden ihtiyaç olan parça işlenir. Bekleme kısalır, deneyim hızlanır. Büyük dosya ve paket işlerinde çalışır.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Açılış:** Uygulamanın hızlı belirmesi.
+- **Video:** Düşükten yükseğe görüntü.
+- **Harita:** Yaklaştıkça detay.
+
+## Teknik Derinlik ve Mimari
+Düzen:
+- **Öncelik:** Görünen önce iner.
+- **Artımlı:** Parça geldikçe işlenir.
+- **Önbellek:** Gelen saklanır.
+
+Tembel yükleme:
+
+```
+<img src="foto.webp" loading="lazy" alt="...">
+```
+
+Hız yanılgısı: Hat hızlanmaz, bekleme gizlenir. Ölçüde ilk anlamlı çizim süresi izlenir.
+
+## Sık Karıştırılanlar
+İndirme sanılır. İndirme bekletir, akış başlatır. Biri depo, diğeri banttır.
+
+## Farklı Disiplinlerde Kullanımı
+- **Sayfa:** Basıldıkça okuma.
+- **Dizi:** Bölüm bölüm izleme.
+- **İnşaat:** Kat kat teslim.
 
 ## Bir benzetmeyle
-Tüm kitabın kargolanmasını beklemeden, her sayfa basıldıkça okumaya başlamak gibidir.
-
-## Nasıl çalışır?
-Veri, küçük parçalara bölünür ve öncelik sırasına göre sisteme aktarılır. Sistem, eline geçen ilk parçayla hemen çalışmaya başlar.
-
-## Nerede kullanılır?
-Büyük yazılım uygulamalarının hızlı açılmasında ve yüksek çözünürlüklü veri akışlarında kullanılır.
-
-## Sık karıştırılanlar
-Geleneksel dosya indirme yöntemleriyle karıştırılmamalıdır; burada beklemek yerine işe başlanır.
+Kitabın tamamını beklemeden basılan sayfayı okumaya benzer.
 
 ## Sıkça sorulanlar
 
-**Bu yöntem internet hızını artırır mı?**  
-İnternet hızını artırmaz, ancak veriyi daha verimli kullanarak bekleme süresini ortadan kaldırır.
+**Hızı artırır mı?**  
+Hattı değil, beklemeyi kısaltır. Deneyim hızlanır, sayaç aynı kalır.
+
+**Ne zaman kullanılır?**  
+Büyük veri ve yavaş hatta. Küçük dosyada fark etmez.
+
+**Maliyeti nedir?**  
+Sıralama ve önbellek mantığı ister. Karmaşıklık bedeli vardır.
+
+**Nasıl ölçülür?**  
+İlk anlamlı çizim ve etkileşim süresiyle. İndirme toplamı değil.
 
 ## İlgili terimler
 - [Streaming Applications](/dictionary/streaming-applications/)

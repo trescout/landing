@@ -54,7 +54,7 @@ Programcı bellek tahsis eder, ancak silme işlemini düşünmez. Arka planda ç
 - **Maliyeti:** Periyodik olarak çalışan GC taramaları işlemciyi meşgul eder ve oyunlarda veya yüksek frekanslı alım-satım (HFT) sistemlerinde mikro gecikmelere ("Stop-The-World" duraklamaları) yol açar.
 
 ### C. Sahiplik ve Ömür Modeli (Ownership & Borrowing - Rust)
-Modern yazılımın çığır açıcı yaklaşımıdır. Rust derleyicisi, her bellek bloğunun tek bir sahibi olduğunu ve bu sahibin kapsamından (scope) çıkıldığı an belleğin otomatik serbest bırakılacağını derleme anında doğrular.
+Rust derleyicisi, her bellek bloğunun tek bir sahibi olduğunu ve bu sahibin kapsamından (scope) çıkıldığı an belleğin otomatik serbest bırakılacağını derleme anında doğrular.
 - **Sonuç:** Çalışma zamanında ağır bir çöp toplayıcı çalıştırmadan, C hızında %100 bellek güvenliği (Memory Safety).
 
 ## 3. İşletim sistemi seviyesinde bellek: Sanal bellek ve OOM Killer

@@ -1,29 +1,56 @@
-# Environment Variables nedir?
+# Environment Variables nedir, ne demek?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-08-08
+**Son güncelleme:** 2026-09-22
 
-Programların çalışma anında ihtiyaç duyduğu ayarları ve gizli anahtarları tutan küçük tanımlayıcılardır.
+Environment variables (Türkçe karşılığıyla **ortam değişkenleri**), ayarları kod dışında tutan tanımlayıcılardır.
 
-## Tanım
-Kodunuzun içine yazmamanız gereken şifreler, API anahtarları veya farklı sunucu adresleri gibi bilgileri sistem düzeyinde tutmanızı sağlar. Program çalışırken bu değişkenleri okur ve ona göre davranır. Böylece aynı kod farklı ortamlarda farklı ayarlarla çalışabilir.
+## Tanım ve Kelime Kökeni
+"Environment" **ortam** demektir. Parola ve adres kodda durmaz, sistemde durur. Aynı kod farklı ortamda farklı davranır.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Sunucu:** Bağlantı dizgileri.
+- **Uygulama:** Mod seçimi.
+- **CI:** Gizli anahtarlar.
+
+## Teknik Derinlik ve Mimari
+Düzen:
+- **.env:** Yerel dosya, depoya girmez.
+- **Öncelik:** Ortam sistem dosyayı ezer.
+- **Şema:** Gerekli ad listesi.
+
+Örnek değer:
+
+```
+DATABASE_URL=postgres://kullanici:parola@localhost:5432/db
+```
+
+Kural: Gerçek değer örneğe yazılmaz, yer tutucu konur. Sızan anahtar iptal edilir.
+
+## Sık Karıştırılanlar
+Sabit değer sanılır. Sabit kodda durur, değişken dışarıdadır. Biri dövme, diğeri rozettir.
+
+## Farklı Disiplinlerde Kullanımı
+- **Kart:** Değişen ayar kartı.
+- **Kumanda pili:** Tak çıkar güç.
+- **Anahtarlık:** Taşınan erişim.
 
 ## Bir benzetmeyle
-Bir cihazın içine sabit kodlanmış ayarlar yerine, cihazın içine yerleştirilen ve her seferinde değiştirilebilen bir ayar kartı gibidir.
-
-## Nasıl çalışır?
-İşletim sistemi veya özel bir dosya üzerinden tanımlanır, program başladığında bu değerleri hafızasına alır.
-
-## Nerede kullanılır?
-Sunucu kurulumlarında, uygulama yapılandırmalarında ve güvenlik gerektiren tüm yazılım projelerinde kullanılır.
-
-## Sık karıştırılanlar
-Kodun içine yazılan sabit değerler (hardcoded) ile karıştırılmamalıdır, çünkü bu yöntem güvenlik riski yaratır.
+Cihaza gömülü ayar yerine takılıp değişen kart gibidir.
 
 ## Sıkça sorulanlar
 
-**Neden bu değişkenleri gizli tutmalıyız?**  
-Kodunuzu paylaştığınızda şifrelerinizin başkalarının eline geçmesini önlemek için.
+**Neden gizli tutulur?**  
+Paylaşımda ele geçer, hesap açılır. Gizli kalır, risk küçülür.
+
+**.env nedir?**  
+Yerel değer dosyasıdır. Depoya girmez, örneği girer.
+
+**Sızarsa ne olur?**  
+Anahtar iptal edilir, kayıt denetlenir. Gecikme büyüktür.
+
+**Öncelik nedir?**  
+Sistem ortamı dosyayı ezer. Canlı değer sistemden gelir.
 
 ## İlgili terimler
 - [Secrets](/dictionary/secrets/)

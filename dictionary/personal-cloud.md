@@ -1,32 +1,56 @@
-# Personal Cloud nedir?
+# Personal Cloud nedir, ne demek?
 
 **Kategori:** Veri & Altyapı  
-**Son güncelleme:** 2026-06-28
+**Son güncelleme:** 2026-09-22
 
-Kişisel dosyaların internet üzerinden her yerden erişilebilecek şekilde özel bir alanda saklanmasıdır.
+Personal cloud (Türkçe karşılığıyla **kişisel bulut**), verinin kendi cihazınızda durduğu bulut düzenidir.
 
-## Tanım
-Kişisel bulut, verilerinizi büyük şirketlerin sunucuları yerine kendi kontrolünüzdeki bir cihazda veya özel bir alanda tutmanızı sağlar. Bu sayede verileriniz üzerinde tam hakimiyet kurarsınız. İnternet bağlantısı olan her yerden dosyalarınıza ulaşabilirsiniz.
+## Tanım ve Kelime Kökeni
+Büyük şirket sunucusu yerine kendi cihazınız esas alınır. İnternet olan her yerden dosyalara ulaşılır, kontrol sizdedir. Fotoğraf, yedek ve medya işlerinde koşar.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Fotoğraf:** Aile arşivi.
+- **Paylaşım:** Bağlantıyla gönderme.
+- **Medya:** Ev sinema arşivi.
+
+## Teknik Derinlik ve Mimari
+Kurulum:
+- **Donanım:** NAS veya mini PC.
+- **Yazılım:** Senkron uygulaması.
+- **Erişim:** Güvenli tünel.
+
+Eşitleme örneği:
+
+```
+rclone sync fotograflar/ uzak:yedek/
+```
+
+Kural: Tek kopya bulut sayılmaz. Uzak yedek ayrı tutulur.
+
+## Sık Karıştırılanlar
+Drive sanılır. Drive şirketindir, kişisel bulut sizindir. Biri kira, diğeri mülkiyettir.
+
+## Farklı Disiplinlerde Kullanımı
+- **Kasa:** Anahtarı sizde kasa.
+- **Kiler:** Ev stoku.
+- **Arşiv:** Kişisel evrak odası.
 
 ## Bir benzetmeyle
-Bankadaki kiralık kasa yerine, evinizde çok güvenli bir kasa kullanmak ve anahtarın sadece sizde olması gibidir.
-
-## Nasıl çalışır?
-Genellikle evdeki bir NAS cihazı veya kişisel bir sunucu üzerinden kurulur. Özel yazılımlar sayesinde telefonunuzdan veya bilgisayarınızdan bu alana bağlanırsınız.
-
-## Nerede kullanılır?
-Fotoğraf yedekleme, dosya paylaşımı ve kişisel medya sunucularında kullanılır.
-
-## Sık karıştırılanlar
-Genel bulut depolama (Google Drive gibi) ile karıştırılabilir, ancak burada donanım veya kontrol size aittir.
+Banka kasası yerine evdeki güvenli kasayı kullanmaya benzer.
 
 ## Sıkça sorulanlar
 
-**İnternetim kesilirse dosyalarıma erişebilir miyim?**  
-Eğer cihaz evinizdeyse yerel ağ üzerinden erişebilirsiniz, ancak dışarıdan erişim internete bağlıdır.
+**Kesilince erişilir mi?**  
+Ev ağında evet, dışarıdan hayır. Yerel kopya kurtarır.
 
 **Güvenli mi?**  
-Kontrol sizde olduğu için güvenliği sizin yönetmeniz gerekir.
+Yönetim sizdedir. Güncelleme ve parola disiplini şarttır.
+
+**Maliyeti nedir?**  
+Donanım bir kez alınır. Elektrik ve bakım sürer.
+
+**Drive farkı nedir?**  
+Drive kiradır, kişisel bulut mülkiyettir. Kontrol sizdedir.
 
 ## İlgili terimler
 - [NAS](/dictionary/nas/)

@@ -25,7 +25,7 @@ No, the data cannot be directly read by humans as it is in binary format, it is 
 
 ## Related terms
 - [API](/en/dictionary/api/)
-- [Networking Stack](/en/dictionary/networking-stack/)
+- [Network Stack](/en/dictionary/network-stack/)
 - [Serialization](/en/dictionary/serialization/)
 
 ## Related tools

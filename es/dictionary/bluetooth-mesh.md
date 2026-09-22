@@ -24,7 +24,7 @@ A medida que aumenta la cantidad de dispositivos, también se expande el área d
 
 ## Términos relacionados
 - [Mesh](/es/dictionary/mesh/)
-- [Networking Stack](/es/dictionary/networking-stack/)
+- [Network Stack](/es/dictionary/network-stack/)
 
 ## Herramientas relacionadas
 - [Bitchat](/es/discover/bitchat/)

@@ -1,31 +1,61 @@
-# End-to-End Testing nedir?
+# End-to-End Testing nedir, ne demek?
 
 > E2E Testing
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-06-14
+**Son güncelleme:** 2026-09-22
 
-Bir uygulamanın gerçek bir kullanıcı gibi baştan sona tüm işleyişinin doğrulanmasıdır.
+End-to-end testing (kısaca **E2E test**), uygulamayı kullanıcı gibi baştan sona denemedir.
 
-## Tanım
-Sistemin tek tek parçalarını değil, tüm uygulamanın bir bütün olarak nasıl çalıştığını test eder. Kullanıcı uygulamaya girer, bir butona tıklar, veritabanına gider ve sonuç döner. Bu sürecin tamamının hatasız olup olmadığına bakılır.
+## Tanım ve Kelime Kökeni
+"End-to-end" **uçtan uca** demektir. Parça değil bütün denenir: Giriş yapılır, düğmeye basılır, veri gider, sonuç döner. Yayın öncesi uyum kapısıdır.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Yayın:** Sürüm öncesi tur.
+- **Mağaza:** Satın alma yolu.
+- **Form:** Kayıt akışı.
+
+## Teknik Derinlik ve Mimari
+Düzen:
+- **Kritik yol:** Önce para eden akış.
+- **Otomasyon:** Tarayıcı süren araç.
+- **Veri:** Test hesabı ve sıfırlama.
+
+Örnek:
+
+```
+test("giriş", async () => {
+  await sayfa.goto("/giris");
+  await bekle("#panel");
+});
+```
+
+Yavaşlık nedeni: Gerçek tarayıcı açılır. Kritik yol seçilir, her şey test edilmez.
+
+## Sık Karıştırılanlar
+Birim test sanılır. O parçaya bakar, bu bütüne bakar. Biri vida, diğeri sürüş testidir.
+
+## Farklı Disiplinlerde Kullanımı
+- **Araba:** Anahtardan yola çıkış.
+- **Prova:** Genel tekrar.
+- **Final:** Yayın provası.
 
 ## Bir benzetmeyle
-Bir arabanın sadece motorunu değil, anahtarı çevirip yola çıkıp çıkmadığını ve tüm sistemlerin uyumunu test etmek gibidir.
-
-## Nasıl çalışır?
-Otomasyon araçları, gerçek bir tarayıcıyı veya uygulamayı sanki bir insan kullanıyormuş gibi yönetir. Tüm adımları tek tek simüle eder.
-
-## Nerede kullanılır?
-Yazılım yayına alınmadan hemen önce, tüm özelliklerin birbiriyle uyumunu kontrol etmek için kullanılır.
-
-## Sık karıştırılanlar
-Unit testing ile karıştırılabilir; unit testing parçaya, E2E ise bütüne bakar.
+Motoru değil, anahtarı çevirip yola çıkmayı denemeye benzer.
 
 ## Sıkça sorulanlar
 
-**Neden sadece bunu yapmıyoruz?**  
-Çünkü çok yavaştır ve hata oluştuğunda sorunun tam olarak nerede olduğunu bulmak daha zordur.
+**Neden yalnızca bu yapılmıyor?**  
+Yavaştır, arıza yeri bulanıktır. Birimle birlikte kullanılır.
+
+**Ne sıklıkla koşar?**  
+Yayın öncesi ve gecede. Her committe kritik alt küme koşar.
+
+**Kim yazar?**  
+Geliştirici ve testçi birlikte yazar. Sahibi bellidir.
+
+**Kırılgan mıdır?**  
+Arayüz değişince kırılır. Seçici ve dayanıklı yazılır.
 
 ## İlgili terimler
 - [Unit Testing](/dictionary/unit-testing/)

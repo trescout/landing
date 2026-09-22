@@ -1,33 +1,61 @@
-# Runtime Environment nedir?
+# Runtime Environment nedir, ne demek?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-07-27
+**Son güncelleme:** 2026-09-22
 
-Bir yazılımın bilgisayarda çalışabilmesi için ihtiyaç duyduğu temel destekleyici ortam.
+Runtime environment (Türkçe karşılığıyla **çalışma ortamı**), kodun koştuğu kütüphane ve kaynak katmanıdır.
 
-## Tanım
-Yazılım kodunu bir tarif gibi düşünürseniz, bu ortam da o tarifin pişirildiği mutfaktır. Kodun çalışması için gerekli olan kütüphaneleri ve sistem kaynaklarını sağlar.
+## Tanım ve Kelime Kökeni
+Tarif mutfak ister: Kod da çalışmak için kütüphane, yorumlayıcı ve sistem kaynağı ister. Bu katman görünmez, ama program her çalıştığında destek verir. Tarayıcı, sunucu ve işletim sistemi düzeyinde her yerde bulunur.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Web:** Tarayıcıda koşan JavaScript.
+- **Sunucu:** Node veya Python hizmeti.
+- **Oyun:** Sürücü ve sistem dosyaları.
+
+## Teknik Derinlik ve Mimari
+Katmanlar:
+- **Yorumlayıcı veya sanal makine:** Kodu çalıştıran motor.
+- **Standart kütüphane:** Hazır işlevler.
+- **Bağımlılıklar:** Dış paketler.
+
+Sürüm denetimi:
+
+```
+node --version
+```
+
+Ekipte sürüm tutmazsa "bende çalışıyordu" sorunu çıkar. Çözüm sürümü dosyaya yazmak ve konteynerle sabitlemektir.
+
+## Sık Karıştırılanlar
+Yazılımın kendisi sanılır. Oysa ortam, yazılımın içinde yaşadığı evdir. Ev değişirse aynı yazılım farklı davranabilir.
+
+## Farklı Disiplinlerde Kullanımı
+- **Mutfak:** Tarifi pişiren ocak ve kaplar.
+- **Akvaryum:** Balığın yaşadığı su ve ısı.
+- **Sahne:** Işık ve ses düzeni.
 
 ## Bir benzetmeyle
-Bir oyunun çalışması için bilgisayarınızda yüklü olması gereken ekran kartı sürücüleri ve sistem dosyaları gibidir.
-
-## Nasıl çalışır?
-Bir programı yüklediğinizde, o programın ihtiyaç duyduğu bu ortam da genellikle arka planda kurulur. Siz görmezsiniz ama program her çalıştığında bu ortamdan destek alır.
-
-## Nerede kullanılır?
-Web tarayıcıları, uygulama sunucuları ve işletim sistemi seviyesindeki tüm yazılımlarda bulunur.
-
-## Sık karıştırılanlar
-Yazılımın kendisi ile karıştırılmamalıdır; bu ortam yazılımın içinde yaşadığı evdir.
+Bir oyunun çalışması için bilgisayarda yüklü olması gereken sürücüler ve sistem dosyaları gibidir.
 
 ## Sıkça sorulanlar
 
 **Neden hata verir?**  
-Genellikle gerekli ortam dosyaları eksik veya yanlış sürümde olduğu için hata verir.
+Genellikle ortam dosyası eksik veya sürüm yanlıştır. Sürüm notuna bakılır, eksik kurulur.
+
+**Sürüm nasıl öğrenilir?**  
+Çalıştırıcının sürüm bayrağıyla. Ekipte tek sürüm dosyada yazılır.
+
+**Docker çözer mi?**  
+Ortam farkını evet: Herkes aynı kutuda koşar. Kod hatasını çözmez.
+
+**Tarayıcı da ortam mıdır?**  
+Evet. JavaScript motoru ve API setiyle başlı başına çalışma ortamıdır.
 
 ## İlgili terimler
 - [Runtime](/dictionary/runtime/)
 - [Compiler](/dictionary/compiler/)
+- [Virtual Machines](/dictionary/virtual-machines/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/runtime-environment/

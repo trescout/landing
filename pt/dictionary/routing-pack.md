@@ -17,7 +17,7 @@ Afeta diretamente a velocidade e a segurança da transmissão de dados.
 
 
 ## Termos relacionados
-- [Networking Stack](/pt/dictionary/networking-stack/)
+- [Network Stack](/pt/dictionary/network-stack/)
 - [API Gateway](/pt/dictionary/api-gateway/)
 - [Proxy](/pt/dictionary/proxy/)
 

@@ -31,7 +31,7 @@ Temel haliyle şifresizdir, ancak günümüzde SSL/TLS ile güvenli hale getiril
 Hızlı, hafif ve kurulumu çok kolay olduğu için tercih edilir.
 
 ## İlgili terimler
-- [Networking Stack](/dictionary/networking-stack/)
+- [Network Stack](/dictionary/network-stack/)
 - [Terminal](/dictionary/terminal/)
 
 ---

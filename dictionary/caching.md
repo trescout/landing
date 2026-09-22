@@ -1,29 +1,56 @@
-# Caching nedir?
+# Caching nedir, ne demek?
 
 **Kategori:** Veri & Altyapı  
-**Son güncelleme:** 2026-08-07
+**Son güncelleme:** 2026-09-22
 
-Sık kullanılan verilerin, hızlı erişim sağlamak amacıyla geçici olarak bellekte saklanmasıdır.
+Caching (Türkçe karşılığıyla **önbellekleme**), sık veriyi hızlı kata kopyalamadır.
 
-## Tanım
-Caching, bir sistemin aynı veriyi tekrar tekrar hesaplamasını veya uzak bir kaynaktan çekmesini engellemek için kullanılan bir hızlandırma yöntemidir. Veri, hızlı erişilebilen bir alana (önbelleğe) kopyalanır ve ihtiyaç duyulduğunda buradan sunulur. Bu, sistemin genel yanıt süresini ciddi oranda düşürür.
+## Tanım ve Kelime Kökeni
+"Cache" **saklı stok** demektir. Sistem aynı veriyi tekrar hesaplamak yerine kopyasından verir. Yanıt süresi düşer, yük hafifler. Tarayıcıdan veri merkezine her katta çalışır.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Tarayıcı:** Sayfa ve resim saklama.
+- **Uygulama:** Çevrimdışı kopya.
+- **Sunucu:** Sorgu sonucu saklama.
+
+## Teknik Derinlik ve Mimari
+Stratejiler:
+- **LRU:** En eski kullanılmayan çıkar.
+- **TTL:** Süresi dolan düşer.
+- **Cache-aside:** Uygulama yönetir.
+
+Tarayıcı yönergesi:
+
+```
+Cache-Control: public, max-age=3600
+```
+
+Bu satır kopyanın bir saat geçerli olduğunu söyler. Tutarlılık bedeli vardır: Kaynak değişince kopya eskir, kritik veride süre kısa tutulur.
+
+## Sık Karıştırılanlar
+Veritabanı sanılır. Veritabanı kalıcı ve geniştir, önbellek geçici ve hızlıdır. Biri kasa, diğeri cep cüzdanıdır.
+
+## Farklı Disiplinlerde Kullanımı
+- **Çanta:** Sık kitap el altında.
+- **Buzdolabı:** Günlük yemek önde.
+- **Kiler:** Toplu stok arkada.
 
 ## Bir benzetmeyle
-Sürekli kullandığınız bir kitabı çantanızda taşımak gibidir; her seferinde kütüphaneye gidip kitabı raftan almanız gerekmez, elinizin altındadır.
-
-## Nasıl çalışır?
-Sistem, bir veriyi talep ettiğinde önce önbelleğe bakar; veri oradaysa hemen alır, yoksa ana kaynaktan çeker ve bir kopyasını önbelleğe bırakır.
-
-## Nerede kullanılır?
-Web tarayıcılarında, uygulamalarda ve büyük ölçekli veri merkezlerinde performansı artırmak için yaygın olarak kullanılır.
-
-## Sık karıştırılanlar
-Veritabanı ile karıştırılabilir ancak cache geçici ve hızlıdır, veritabanı ise kalıcı ve daha geniştir.
+Sık kullanılan kitabı çantada taşımak gibidir; her seferinde kütüphaneye gidilmez.
 
 ## Sıkça sorulanlar
 
 **Önbellek dolarsa ne olur?**  
-Eski veya az kullanılan veriler silinir ve yerlerine yeni veriler yazılır.
+Eski ve az kullanılan düşer, yenisi yazılır. Politika bunu yönetir.
+
+**Ne zaman temizlenir?**  
+Süre dolunca, kapasite taşınca veya elle. Kritik veri kısa süreli tutulur.
+
+**Tutarsızlık olur mu?**  
+Olabilir. Kaynak değişince kopya eskir, sürüm ve süre disiplini gerekir.
+
+**Nerede tutulur?**  
+Bellek, disk veya CDN ucunda. Hız ve kapasite dengesine göre seçilir.
 
 ## İlgili terimler
 - [KV Cache](/dictionary/kv-cache/)

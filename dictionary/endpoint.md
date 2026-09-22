@@ -1,32 +1,58 @@
-# Endpoint nedir?
+# Endpoint nedir, ne demek?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-07-01
+**Son güncelleme:** 2026-09-22
 
-Ağa bağlı olan bilgisayar, telefon veya tablet gibi uç noktadaki cihazlardır.
+Endpoint (Türkçe karşılığıyla **uç nokta**), ağın kullanıcı ucundaki cihaz veya API ucudur.
 
-## Tanım
-Bir ağın sonuna ulaşan ve kullanıcı tarafından doğrudan etkileşime girilen cihazlara uç nokta denir. Bilgi bu cihazlarda son bulur veya buradan başlar. Güvenlik dünyasında, ağın en dıştaki savunma hattı olarak kabul edilirler.
+## Tanım ve Kelime Kökeni
+"End point" **bitiş noktası** demektir. İki anlamı vardır: Fiziksel uçtaki cihaz ve yazılımdaki API ucu. Bilgi cihazda biter veya API ucunda alınır. Güvenlikte dış savunma hattıdır.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Kurumsal:** Dizüstü ve telefon filosu.
+- **Ev:** Akıllı cihazlar.
+- **API:** Uygulama istek uçları.
+
+## Teknik Derinlik ve Mimari
+İki yüz:
+- **Cihaz:** EDR ile izlenir, yama ve şifreleme uygulanır.
+- **API:** Adres ve metotla çağrılır (`GET /api/siparis/4521`).
+
+Örnek istek:
+
+```
+GET /api/siparis/4521
+```
+
+Saldırıların çoğu zayıf uçtan girer. Yama disiplini ve en az yetki kuraldır.
+
+## Sık Karıştırılanlar
+Sunucu sanılır. Sunucu merkezdir, uç nokta kullanıcıdadır. API ucuyla da karışır: O adrestir, bu cihazdır.
+
+## Farklı Disiplinlerde Kullanımı
+- **Adres:** Paketin vardığı kapı.
+- **Durak:** Hattın son noktası.
+- **Kapı numarası:** Dairenin adresi.
 
 ## Bir benzetmeyle
-Bir kargo şirketinin dağıtım ağında, paketin teslim edildiği ev veya ofis adresidir.
-
-## Nasıl çalışır?
-Bu cihazlar bir ağa bağlanarak veri alışverişi yapar. Güvenlik yazılımları, bu cihazları korumak için sürekli izleme yapar.
-
-## Nerede kullanılır?
-Kurumsal ağlarda, evdeki akıllı cihazlarda ve sunucu sistemlerinde bulunur.
-
-## Sık karıştırılanlar
-Sunucu ile karıştırılabilir; sunucu ağın merkezi, endpoint ise kullanıcının olduğu yerdir.
+Kargo ağında paketin vardığı ev adresi gibidir.
 
 ## Sıkça sorulanlar
 
-**Neden uç nokta güvenliği önemlidir?**  
-Çünkü çoğu siber saldırı, zayıf korunan bir bilgisayar veya telefon üzerinden ağa sızarak başlar.
+**Neden güvenlik önemli?**  
+Saldırı zayıf uçtan girer. Yama ve izleme ilk savunmadır.
+
+**API ucu nedir?**  
+Çağrılabilir adrestir. Metot ve yolla istek karşılanır.
+
+**Nasıl korunur?**  
+Yama, şifreleme ve en az yetkiyle. EDR izlemesi eklenir.
+
+**Sunucu farkı nedir?**  
+Sunucu merkezde hizmet verir, uç nokta kenarda tüketir.
 
 ## İlgili terimler
-- [Networking Stack](/dictionary/networking-stack/)
+- [Network Stack](/dictionary/network-stack/)
 - [VPN](/dictionary/vpn/)
 - [Security Scanner](/dictionary/security-scanner/)
 

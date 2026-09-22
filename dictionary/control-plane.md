@@ -27,7 +27,7 @@ Sistem yeni komut alamaz veya trafiği yönetemez hale gelir, bu nedenle genelli
 
 ## İlgili terimler
 - [API Gateway](/dictionary/api-gateway/)
-- [Networking Stack](/dictionary/networking-stack/)
+- [Network Stack](/dictionary/network-stack/)
 - [Cloud Native](/dictionary/cloud-native/)
 
 ---

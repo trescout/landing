@@ -1,29 +1,53 @@
-# Backup Program nedir?
+# Backup Program nedir, ne demek?
 
 **Kategori:** Veri & Altyapı  
-**Son güncelleme:** 2026-06-12
+**Son güncelleme:** 2026-09-22
 
-Dijital verilerinizin bir kopyasını alarak kaybolmalarını önleyen yazılımdır.
+Backup program (Türkçe karşılığıyla **yedekleme programı**), veriyi düzenli kopyalayan yazılımdır.
 
-## Tanım
-Yedekleme programları, bilgisayarınızdaki veya sunucunuzdaki önemli dosyaları düzenli aralıklarla başka bir konuma kopyalar. Donanım arızası, siber saldırı veya yanlışlıkla silme gibi durumlarda verilerinizi geri getirmenizi sağlar. Güvenli bir dijital yaşamın temel taşıdır.
+## Tanım ve Kelime Kökeni
+"Backup" **yedek** demektir. Dosyalar aralıklarla başka konuma kopyalanır. Arıza, saldırı veya silinmede geri dönülür. Güvenli dijital yaşamın temelidir.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Kişisel:** Fotoğraf ve belge yedeği.
+- **Sunucu:** Gece otomatik kopya.
+- **Bulut:** Hesap eşitlemesi.
+
+## Teknik Derinlik ve Mimari
+Türler:
+- **Tam:** Her şeyin kopyası, yavaş ama basit.
+- **Artımlı:** Değişenin kopyası, hızlı.
+- **3-2-1 kuralı:** 3 kopya, 2 ortam, 1 uzak.
+
+Örnek:
+
+```
+rsync -av belgeler/ /yedek/belgeler/
+```
+
+Kural: Yedek denenmeden güvenilmez. Geri yükleme periyodik test edilir.
+
+## Farklı Disiplinlerde Kullanımı
+- **Fotokopi:** Kasada duran kopya.
+- **Kasa:** Değerli evrak saklama.
+- **Sigorta:** Felaket teminatı.
 
 ## Bir benzetmeyle
-Önemli evraklarınızın fotokopisini çekip başka bir kasada saklamak gibidir; orijinaline bir şey olursa kopyası elinizdedir.
-
-## Nasıl çalışır?
-Programı kurarsınız, yedeklenecek klasörleri ve sıklığı seçersiniz. Yazılım arka planda çalışarak belirttiğiniz zamanlarda verilerinizi kopyalar.
-
-## Nerede kullanılır?
-Kişisel bilgisayarlarda, kurumsal sunucularda ve bulut depolama sistemlerinde kullanılır.
+Önemli evrakın fotokopisini başka kasada saklamaya benzer.
 
 ## Sıkça sorulanlar
 
-**Yedekleme neden önemlidir?**  
-Dijital dünyada veri kaybı genellikle geri döndürülemez bir felakettir.
+**Neden önemlidir?**  
+Kayıp genelde dönüşüzdür. Yedek, hatanın bedelini küçültür.
 
-**Yedekleri nereye almalıyım?**  
-İdeal olan, yedeklerin orijinal cihazdan fiziksel olarak farklı bir yerde (bulut veya harici disk) tutulmasıdır.
+**Nereye alınmalı?**  
+Orijinalden ayrı yere: Bulut veya harici disk. Aynı disk yedek sayılmaz.
+
+**Ne sıklıkla alınmalı?**  
+Değişim hızına göre. Günlük işte günlük, kritik hatta saatlik alınır.
+
+**Test edilir mi?**  
+Evet. Geri yükleme denenmeden yedek güven vermez.
 
 ## İlgili terimler
 - [Incremental Backup](/dictionary/incremental-backup/)

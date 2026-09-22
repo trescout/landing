@@ -20,7 +20,7 @@ Le relais empêche la perte de connexion lorsque la distance est trop grande ou 
 
 
 ## Termes liés
-- [Networking Stack](/fr/dictionary/networking-stack/)
+- [Network Stack](/fr/dictionary/network-stack/)
 - [Proxy](/fr/dictionary/proxy/)
 - [VPN](/fr/dictionary/vpn/)
 

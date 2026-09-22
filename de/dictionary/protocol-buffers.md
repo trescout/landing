@@ -23,7 +23,7 @@ Nein, die Daten k√∂nnen nicht direkt von Menschen gelesen werden, da sie im Bin√
 
 ## Verwandte Begriffe
 - [API](/de/dictionary/api/)
-- [Networking Stack](/de/dictionary/networking-stack/)
+- [Network Stack](/de/dictionary/network-stack/)
 - [Serialization](/de/dictionary/serialization/)
 
 ## Verwandte Werkzeuge

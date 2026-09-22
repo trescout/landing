@@ -1,34 +1,58 @@
-# OSINT nedir?
+# OSINT nedir, ne demek?
 
 > Open Source Intelligence
 
 **Kategori:** Veri & Altyapı  
-**Son güncelleme:** 2026-06-11
+**Son güncelleme:** 2026-09-22
 
-İnternet üzerindeki herkese açık kaynaklardan bilgi toplayıp analiz etme yöntemidir.
+OSINT (**Open Source Intelligence**, açık kaynak istihbaratı), herkese açık bilgiyi analiz etme disiplinidir.
 
-## Tanım
-Gizli yöntemlere başvurmadan, herkesin erişebildiği sosyal medya, haber siteleri veya kamu kayıtları gibi yerlerden veri toplarsınız. Bu verileri birleştirerek anlamlı sonuçlara ulaşırsınız. Bilgiye ulaşmak için değil, ulaşılan bilgiyi anlamlandırmak için kullanılır.
+## Tanım ve Kelime Kökeni
+Gizli yola girilmez: Sosyal medya, haber ve kamu kayıtları taranır, çapraz doğrulanır. Marifet erişimde değil, anlamlandırmadadır.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Güvenlik:** Sızıntı ve iz takibi.
+- **Gazetecilik:** Kaynak doğrulama.
+- **Pazar:** Rakip izleme.
+
+## Teknik Derinlik ve Mimari
+Döngü:
+- **Toplama:** Arama ve kayıt taraması.
+- **Doğrulama:** Bağımsız kaynakla teyit.
+- **Analiz:** Parçaları birleştirme.
+
+Arama operatörü:
+
+```
+site:ornek.com filetype:pdf
+```
+
+Etik sınır: Açık olan toplanır, özel olana girilmez. Kişisel veri amacı dışında işlenmez.
+
+## Sık Karıştırılanlar
+Hackerlık sanılır. O sızar, bu okur. Biri kapı kırar, diğeri kütüphanede çalışır.
+
+## Farklı Disiplinlerde Kullanımı
+- **Kütüphane:** Binlerce kitaptan sonuç.
+- **Dedektif:** İz sürme.
+- **Arkeoloji:** Parçadan bütün.
 
 ## Bir benzetmeyle
-Bir kütüphanedeki binlerce kitabı okuyup, sadece o kitaplardaki bilgileri kullanarak bir olayın perde arkasını çözmeye benzer.
-
-## Nasıl çalışır?
-İlgili konu hakkında arama motorlarını, sosyal medya araçlarını ve halka açık veritabanlarını kullanarak veri toplayın ve bu verileri çapraz sorgulama ile doğrulayın.
-
-## Nerede kullanılır?
-Siber güvenlik, gazetecilik ve pazar araştırmalarında yaygın olarak kullanılır.
-
-## Sık karıştırılanlar
-Hackerlık veya sızma ile karıştırılabilir, ancak tamamen yasal ve açık kaynaklara dayanır.
+Kütüphanedeki kitaplarla olayın perdesini aralamaya benzer.
 
 ## Sıkça sorulanlar
 
-**OSINT yasal mı?**  
-Evet, sadece halka açık bilgileri kullandığınız için tamamen yasaldır.
+**Yasal mı?**  
+Açık kaynakla sınırlı kaldıkça evet. İzinsiz erişim suçtur.
 
-**Hangi araçlar kullanılır?**  
-Google aramaları, sosyal medya tarayıcıları ve harita servisleri gibi temel araçlar yeterlidir.
+**Hangi araçlar?**  
+Arama motoru, harita ve sosyal tarama yeterlidir. Uzmanı veri birleştirir.
+
+**Nereden başlanır?**  
+Tek soru ve kaynak listesiyle. Doğrulama alışkanlığı edinilir.
+
+**Sınırı nedir?**  
+Özel veri ve izinsiz profilleme yasaktır. Amaç dışı işleme yapılmaz.
 
 ## İlgili terimler
 - [Graph-based Investigation](/dictionary/graph-based-investigation/)

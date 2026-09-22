@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>SQL Client nedir? · TreScout Sözlük</title>
-<meta name="description" content="Veritabanındaki bilgileri sorgulamanıza ve yönetmenize yardımcı olan uygulama.">
+<title>SQL Client Nedir, Ne Demek? Veritabanı İstemcisi Rehberi · TreScout</title>
+<meta name="description" content="SQL Client nedir, Türkçe karşılığı nedir? DBeaver, DataGrip, psql örnekleri, bağlantı, prepared statement ve güvenli kullanım rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/sql-client/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/sql-client/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/sql-client/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/sql-client/">
 <link rel="canonical" href="https://trescout.com/dictionary/sql-client/">
-<meta property="og:title" content="SQL Client nedir?">
-<meta property="og:description" content="Veritabanındaki bilgileri sorgulamanıza ve yönetmenize yardımcı olan uygulama.">
+<meta property="og:title" content="SQL Client Nedir, Ne Demek? Veritabanı İstemcisi Rehberi · TreScout">
+<meta property="og:description" content="SQL Client nedir, Türkçe karşılığı nedir? DBeaver, DataGrip, psql örnekleri, bağlantı, prepared statement ve güvenli kullanım rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/sql-client/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="SQL Client nedir?">
+<meta name="twitter:title" content="SQL Client Nedir, Ne Demek? Veritabanı İstemcisi Rehberi · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/sql-client.webp">
 <script type="application/ld+json">
 {
@@ -32,7 +32,7 @@
   "@type": "DefinedTerm",
   "name": "SQL Client",
   "inLanguage": "tr",
-  "description": "Veritabanı devasa bir kütüphane arşivi gibidir. SQL Client ise bu arşive girip istediğiniz kitabı bulmanızı veya yeni kitap eklemenizi sağlayan arayüzdür.",
+  "description": "SQL Client (SQL istemcisi), ilişkisel veritabanlarına bağlanıp SQL sorgusu çalıştırmanızı sağlayan uygulamadır.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -51,7 +51,31 @@
       "name": "SQL bilmek şart mı?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Evet, bu araçları etkili kullanmak için temel SQL komutlarını bilmeniz gerekir."
+        "text": "Temel komutları (SELECT, WHERE, JOIN) bilmeniz gerekir. Grafiksel araçlar yardımcı olur, ancak karmaşık sorular için SQL şarttır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Ücretsiz istemci var mı?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Evet. DBeaver Community ve psql ücretsizdir. Birçok veritabanının kendi resmi aracı da ücretsiz sunulur."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "İstemci veriyi saklar mı?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hayır. İstemci yalnızca bağlantı penceresidir. Veri sunucuda durur, istemciyi silmeniz veriyi silmez."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Bağlantıyı nasıl güvenli tutarım?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Şifreli bağlantı kullanın, güçlü parola belirleyin, erişimi IP ile sınırlayın ve bağlantı bilgilerini kimseyle paylaşmayın."
       }
     }
   ]
@@ -64,7 +88,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Veritabanındaki bilgileri sorgulamanıza ve yönetmenize yardımcı olan uygulama.">
+<meta name="twitter:description" content="SQL Client nedir, Türkçe karşılığı nedir? DBeaver, DataGrip, psql örnekleri, bağlantı, prepared statement ve güvenli kullanım rehberi.">
 
 <meta property="og:image:alt" content="SQL Client nedir?">
 </head>
@@ -74,12 +98,11 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Veri &amp; Altyapı</span><time class="dict-time" datetime="2026-07-27">Son güncelleme: 27 Temmuz 2026</time></div>
-<h1 class="disc-title">SQL Client <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Veri &amp; Altyapı</span><time class="dict-time" datetime="2026-09-22">Son güncelleme: 22 Eylül 2026</time></div>
+<h1 class="disc-title">SQL Client <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">Veritabanındaki bilgileri sorgulamanıza ve yönetmenize yardımcı olan uygulama.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Veritabanı devasa bir kütüphane arşivi gibidir. SQL Client ise bu arşive girip istediğiniz kitabı bulmanızı veya yeni kitap eklemenizi sağlayan arayüzdür.</p></section><div class="dict-analogy">Excel&#x27;in veriler üzerinde işlem yapmanızı sağlayan arayüzü gibi, veritabanı için de bu araç kullanılır.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Veritabanı adresini girersiniz, bağlanırsınız ve SQL dilinde sorular yazarak verileri çekersiniz.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Veri analizi, yazılım geliştirme ve veritabanı yönetimi işlerinde kullanılır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Veritabanının kendisi değildir, sadece ona bağlanan bir penceredir.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">SQL bilmek şart mı?</p><p class="dict-faq-a">Evet, bu araçları etkili kullanmak için temel SQL komutlarını bilmeniz gerekir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/database/">Database</a><a href="/dictionary/data-pipeline/">Data Pipeline</a></div></section>
-<section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/chat2db/">Chat2DB</a></div></section>
+<p class="disc-lead">SQL Client (Türkçe karşılığıyla <strong>SQL istemcisi</strong>), ilişkisel veritabanlarına bağlanıp SQL sorgusu çalıştırmanızı sağlayan uygulamadır.</p>
+<section class="disc-sec"><h2>Tanım ve Kelime Kökeni</h2><p>SQL, <strong>Structured Query Language</strong> (Yapılandırılmış Sorgu Dili) ifadesinin kısaltmasıdır. <strong>Client</strong> ise hizmeti kullanan taraf demektir: Veritabanı sunucusu veriyi tutar, istemci ona bağlanıp soru sorar. DBeaver, DataGrip, TablePlus ve komut satırındaki <code>psql</code> yaygın örneklerdir.</p></section><section class="disc-sec"><h2>Gündelik Hayatta Nasıl Bilinir ve Kullanılır?</h2><p><strong>Veri analisti:</strong> Satış tablosundan son ayın raporunu çeker.<br><strong>Geliştirici:</strong> Uygulamasının okuduğu kayıtları gözle denetler.<br><strong>Veritabanı yöneticisi:</strong> Yedekleri, kullanıcıları ve izinleri yönetir.</p><p>Tipik bir kullanım, adresi girip bağlanmak ve şu tür bir soru yazmaktır:</p><p><pre><code>SELECT ad, eposta FROM musteriler WHERE sehir = 'İstanbul' LIMIT 10;</code></pre></p></section><section class="disc-sec"><h2>Teknik Derinlik ve Mimari</h2><p>Bir SQL istemcisinin arka planında şunlar çalışır:</p><p><strong>Bağlantı ve sürücü:</strong> İstemci, adres, port, kullanıcı adı ve parola ile sunucuya bağlanır. Her veritabanının kendi iletişim kuralı ve sürücüsü vardır.<br><strong>Sorgu gönderimi:</strong> Yazdığınız SQL metni sunucuya iletilir, sonuç satırlar halinde geri döner.<br><strong>Hazır ifadeler (Prepared Statements):</strong> Tekrarlanan sorgular önceden derlenir. Bu, hem hız kazandırır hem de zararlı girdi enjeksiyonuna karşı korur.<br><strong>İşlemler (Transactions):</strong> Birden çok yazma adımı tek bir bütün olarak işlenir. Hata olursa hiçbiri uygulanmaz.<br><strong>Güvenli bağlantı:</strong> Parola ve veriler şifreli kanaldan taşınır. Herkesin eriştiği ağlarda şifresiz bağlantı kullanılmamalıdır.</p></section><section class="disc-sec"><h2>ORM ile İstemci Farkı</h2><p>ORM (Object-Relational Mapping), SQL yazmadan kod içinden veritabanıyla konuşmanızı sağlayan katmandır. SQL istemcisi ise SQL yazdığınız penceredir. ORM üretkenliği artırır, istemci ise neyin gerçekten çalıştığını görmenizi sağlar. İkisi birbirinin rakibi değil, tamamlayıcısıdır.</p></section><section class="disc-sec"><h2>Farklı Disiplinlerde Kullanımı</h2><p><strong>Kütüphanecilik:</strong> Danışma görevlisi rafların yerini bilir, istediğiniz kaydı bulur.<br><strong>Muhasebe:</strong> Defterdeki kalemleri tek tek inceleyen denetçi.<br><strong>Lojistik:</strong> Depodaki ürünleri listeleyen el terminali.</p></section><div class="dict-analogy">Devasa bir kütüphanenin danışma görevlisi gibidir: Rafların (tabloların) yerini bilir, istediğiniz kitabı (kaydı) bulur, yenilerini rafa yerleştirir.</div><section class="disc-sec"><h2>Sıkça Sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">SQL bilmek şart mı?</p><p class="dict-faq-a">Temel komutları (SELECT, WHERE, JOIN) bilmeniz gerekir. Grafiksel araçlar yardımcı olur, ancak karmaşık sorular için SQL şarttır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Ücretsiz istemci var mı?</p><p class="dict-faq-a">Evet. DBeaver Community ve psql ücretsizdir. Birçok veritabanının kendi resmi aracı da ücretsiz sunulur.</p></div><div class="dict-faq-item"><p class="dict-faq-q">İstemci veriyi saklar mı?</p><p class="dict-faq-a">Hayır. İstemci yalnızca bağlantı penceresidir. Veri sunucuda durur, istemciyi silmeniz veriyi silmez.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Bağlantıyı nasıl güvenli tutarım?</p><p class="dict-faq-a">Şifreli bağlantı kullanın, güçlü parola belirleyin, erişimi IP ile sınırlayın ve bağlantı bilgilerini kimseyle paylaşmayın.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/database/">Database</a><a href="/dictionary/data-pipeline/">Data Pipeline</a><a href="/dictionary/orm/">ORM</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

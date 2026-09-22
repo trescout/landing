@@ -1490,6 +1490,96 @@
       "permanent": true
     },
     {
+      "source": "/dictionary/networking-stack",
+      "destination": "/dictionary/network-stack/",
+      "permanent": true
+    },
+    {
+      "source": "/dictionary/networking-stack/",
+      "destination": "/dictionary/network-stack/",
+      "permanent": true
+    },
+    {
+      "source": "/dictionary/networking-stack.md",
+      "destination": "/dictionary/network-stack.md",
+      "permanent": true
+    },
+    {
+      "source": "/en/dictionary/networking-stack",
+      "destination": "/en/dictionary/network-stack/",
+      "permanent": true
+    },
+    {
+      "source": "/en/dictionary/networking-stack/",
+      "destination": "/en/dictionary/network-stack/",
+      "permanent": true
+    },
+    {
+      "source": "/en/dictionary/networking-stack.md",
+      "destination": "/en/dictionary/network-stack.md",
+      "permanent": true
+    },
+    {
+      "source": "/fr/dictionary/networking-stack",
+      "destination": "/fr/dictionary/network-stack/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/dictionary/networking-stack/",
+      "destination": "/fr/dictionary/network-stack/",
+      "permanent": true
+    },
+    {
+      "source": "/fr/dictionary/networking-stack.md",
+      "destination": "/fr/dictionary/network-stack.md",
+      "permanent": true
+    },
+    {
+      "source": "/pt/dictionary/networking-stack",
+      "destination": "/pt/dictionary/network-stack/",
+      "permanent": true
+    },
+    {
+      "source": "/pt/dictionary/networking-stack/",
+      "destination": "/pt/dictionary/network-stack/",
+      "permanent": true
+    },
+    {
+      "source": "/pt/dictionary/networking-stack.md",
+      "destination": "/pt/dictionary/network-stack.md",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/networking-stack",
+      "destination": "/es/dictionary/network-stack/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/networking-stack/",
+      "destination": "/es/dictionary/network-stack/",
+      "permanent": true
+    },
+    {
+      "source": "/es/dictionary/networking-stack.md",
+      "destination": "/es/dictionary/network-stack.md",
+      "permanent": true
+    },
+    {
+      "source": "/de/dictionary/networking-stack",
+      "destination": "/de/dictionary/network-stack/",
+      "permanent": true
+    },
+    {
+      "source": "/de/dictionary/networking-stack/",
+      "destination": "/de/dictionary/network-stack/",
+      "permanent": true
+    },
+    {
+      "source": "/de/dictionary/networking-stack.md",
+      "destination": "/de/dictionary/network-stack.md",
+      "permanent": true
+    },
+    {
       "source": "/dictionary/pipelines",
       "destination": "/dictionary/pipeline/",
       "permanent": true

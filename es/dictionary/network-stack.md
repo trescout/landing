@@ -23,7 +23,7 @@ Si una de estas capas funciona incorrectamente, su conexión a Internet se inter
 
 
 ## Términos relacionados
-- [Networking Stack](/es/dictionary/networking-stack/)
+- [VPN](/es/dictionary/vpn/)
 - [API](/es/dictionary/api/)
 - [Packet Fragmentation](/es/dictionary/packet-fragmentation/)
 

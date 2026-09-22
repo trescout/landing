@@ -21,7 +21,7 @@ No, su red local no puede conectarse con el mundo exterior y permanece aislada.
 
 ## Términos relacionados
 - [API Gateway](/es/dictionary/api-gateway/)
-- [Networking Stack](/es/dictionary/networking-stack/)
+- [Network Stack](/es/dictionary/network-stack/)
 - [Proxy](/es/dictionary/proxy/)
 
 ## Herramientas relacionadas

@@ -1,29 +1,45 @@
-# Wordlists nedir?
+# Wordlists nedir, ne demek?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-07-01
+**Son güncelleme:** 2026-09-22
 
-Sistemlere giriş denemeleri yapmak için kullanılan, sık tercih edilen kelimelerin ve şifrelerin bulunduğu listelerdir.
+Wordlist (Türkçe karşılığıyla **kelime listesi**), güvenlik testinde denenen aday listesidir.
 
-## Tanım
-Siber güvenlik testlerinde kullanılan bu listeler, binlerce veya milyonlarca olası şifre kombinasyonunu içerir. Bir sistemin şifre korumasının ne kadar güçlü olduğunu anlamak için bu listelerle otomatik denemeler yapılır. Bu süreç genellikle 'brute force' yani kaba kuvvet saldırısı olarak adlandırılır.
+## Tanım ve Kelime Kökeni
+"Word" **kelime**, "list" ise **liste** demektir. Binlerce olası parola sıralanır, koruma gücü ölçülür. Laboratuvar ve sızma testinde koşar.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Laboratuvar:** Dayanıklılık ölçümü.
+- **Denetim:** Politika denetimi.
+- **Eğitim:** Farkındalık dersi.
+
+## Teknik Derinlik ve Mimari
+Mantık: Liste denenir, zayıf parola düşer. Savunma: Uzun parola, kilitleme ve MFA. Kural: İzinsiz sisteme deneme suçtur, test kapsamlı ve yazılı izinlidir. Araç adı verilmez, yöntem anlatılır.
+
+## Sık Karıştırılanlar
+Veritabanı sanılır. Oysa düz metin dosyalarıdır. Biri kütüphane, diğeri listedir.
+
+## Farklı Disiplinlerde Kullanımı
+- **Defter:** Sayı kombinasyon listesi.
+- **Anahtar demeti:** Denenen anahtarlar.
+- **Şifre çarkı:** Olasılık tekeri.
 
 ## Bir benzetmeyle
-Bir kasanın şifresini bulmak için tüm olası sayı kombinasyonlarını not ettiğiniz bir defter gibidir.
-
-## Nasıl çalışır?
-Güvenlik yazılımı, bu listedeki her bir kelimeyi tek tek dener; eğer biri tutarsa sisteme giriş sağlanır.
-
-## Nerede kullanılır?
-Siber güvenlik laboratuvarlarında ve penetrasyon testlerinde kullanılır.
-
-## Sık karıştırılanlar
-Veri tabanları ile karıştırılabilir; bunlar sadece düz metin dosyalarıdır.
+Kasa şifresini bulmak için olasılıkları yazan defter gibidir.
 
 ## Sıkça sorulanlar
 
-**Bu listeler yasal mı?**  
-Güvenlik testlerinde kullanılması yasal ve gereklidir, ancak izinsiz sistemlere saldırmak suçtur.
+**Yasal mı?**  
+Testte evet, izinsizde hayır. Kapsam ve izin belgelidir.
+
+**Nasıl korunulur?**  
+Uzun parola, kilitleme ve MFA ile. Liste zayıfı avlar.
+
+**Nereden bulunur?**  
+Açık güvenlik setleri vardır. Amaç savunmadır, saldırı değil.
+
+**Etkili mi?**  
+Zayıf parolaya karşı evet. Güçlü politika listeyi boşa çıkarır.
 
 ## İlgili terimler
 - [Common User Passwords Profiler](/dictionary/common-user-passwords-profiler/)

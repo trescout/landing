@@ -15,6 +15,7 @@ This tool, which allows creating a free temporary email service using the Cloudf
 - Official source →
 
 ## Related dictionary terms
+Rust Artificial Intelligence
 
 ## Links
 - GitHub repository →

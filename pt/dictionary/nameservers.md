@@ -24,7 +24,7 @@ Você não pode acessar sites pelo nome porque seu navegador da Internet não co
 
 ## Termos relacionados
 - [DNS Tunneling](/pt/dictionary/dns-tunneling/)
-- [Networking Stack](/pt/dictionary/networking-stack/)
+- [Network Stack](/pt/dictionary/network-stack/)
 - [Gateway](/pt/dictionary/gateway/)
 
 ---

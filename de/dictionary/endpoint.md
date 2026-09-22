@@ -20,7 +20,7 @@ Denn die meisten Cyberangriffe beginnen damit, dass sie über einen schlecht ges
 
 
 ## Verwandte Begriffe
-- [Networking Stack](/de/dictionary/networking-stack/)
+- [Network Stack](/de/dictionary/network-stack/)
 - [VPN](/de/dictionary/vpn/)
 - [Security Scanner](/de/dictionary/security-scanner/)
 

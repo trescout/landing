@@ -21,7 +21,7 @@ Não, a sua rede local não consegue se conectar ao mundo exterior e permanece i
 
 ## Termos relacionados
 - [API Gateway](/pt/dictionary/api-gateway/)
-- [Networking Stack](/pt/dictionary/networking-stack/)
+- [Network Stack](/pt/dictionary/network-stack/)
 - [Proxy](/pt/dictionary/proxy/)
 
 ## Ferramentas relacionadas

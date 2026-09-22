@@ -1,37 +1,62 @@
-# Workflows nedir?
+# Workflows nedir, ne demek?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-06-23
+**Son güncelleme:** 2026-09-22
 
-Bir işin başından sonuna kadar izlediği düzenli ve mantıksal adımlar dizisidir.
+Workflow (Türkçe karşılığıyla **iş akışı**), işin düzenli adım dizisidir.
 
-## Tanım
-İş akışları, bir görevi yerine getirirken hangi sırayla ne yapmanız gerektiğini belirleyen bir yol haritasıdır. Bu süreçler, karmaşık işleri küçük ve yönetilebilir parçalara böler. Doğru kurgulanmış bir iş akışı, hataları azaltır ve verimliliği artırır.
+## Tanım ve Kelime Kökeni
+"Flow" **akış** demektir. Hedefe giden adımlar sıraya dizilir, karmaşık iş küçük parçalara bölünür. Doğru akış hatayı azaltır, hızı artırır.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Geliştirme:** Kod inceleme hattı.
+- **Destek:** Bilet karşılama düzeni.
+- **Ofis:** Onay zinciri.
+
+## Teknik Derinlik ve Mimari
+Akış tarifi:
+- **Tetikleyici:** Başlatan olay.
+- **Adım:** Sıralı işler.
+- **Koşul:** Dallanma kuralı.
+- **Çıktı:** Sonuç ve kayıt.
+
+Tetikleme örneği:
+
+```
+on: [push]
+```
+
+Bu satır, koda her gönderimde akışın çalışacağını söyler. Otomasyon kuralı: İkinci kez elle yapılan iş adaya yazılır.
+
+## Sık Karıştırılanlar
+Pipeline sanılır. Pipeline teknik veri akışıdır, workflow daha genel iş düzenidir. Her pipeline bir workflow sayılır, tersi şart değildir.
+
+## Farklı Disiplinlerde Kullanımı
+- **Tarif:** Hazırlık, pişirme ve servis.
+- **Montaj:** Parça sırası.
+- **Kontuar:** Kayıt ve yönlendirme.
 
 ## Bir benzetmeyle
-Bir yemek tarifi düşünün; malzemeleri hazırlamak, pişirmek ve servis etmek birer adımdır. İşte bu adımların tamamı sizin 'yemek yapma iş akışınızdır'.
-
-## Nasıl çalışır?
-Önce yapılacak işin hedefini belirlersiniz. Ardından bu hedefe ulaşmak için gereken adımları sırayla yazarsınız. Son olarak bu adımları otomatize ederek veya manuel takip ederek işi tamamlarsınız.
-
-## Nerede kullanılır?
-Yazılım geliştirme süreçlerinde, müşteri destek sistemlerinde veya günlük ofis işlerinde sıkça kullanılır.
-
-## Sık karıştırılanlar
-Genellikle 'pipeline' ile karıştırılır; ancak iş akışı daha genel bir kavramken, pipeline daha çok teknik veri akışlarını ifade eder.
+Yemek tarifi gibidir; malzeme hazırlama, pişirme ve servis adımlarının tamamı iş akışıdır.
 
 ## Sıkça sorulanlar
 
-**İş akışlarını neden otomatize etmeliyim?**  
-Tekrarlayan işleri otomatize etmek, hata payını düşürür ve size zaman kazandırır.
+**Neden otomatize edilmeli?**  
+Tekrar hata ve zaman üretir. Otomasyon ikisini de kısar.
 
 **İş akışları değişebilir mi?**  
-Evet, ihtiyaçlar değiştikçe iş akışlarını güncelleyip daha verimli hale getirmek en iyi uygulamadır.
+Evet. İhtiyaç değiştikçe güncellenir, sürümü tutulur.
+
+**Nereden başlanır?**  
+En sık tekrarlanan işten. Adımlar yazılır, biri otomasyona alınır.
+
+**Araç şart mı?**  
+Hayır. Kâğıt liste de akıştır. Hacim büyüyünce araç gerekir.
 
 ## İlgili terimler
 - [Pipeline](/dictionary/pipeline/)
-- [Pipelines](/dictionary/pipeline/)
 - [Data Pipeline](/dictionary/data-pipeline/)
+- [CI-CD](/dictionary/ci-cd/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/workflows/

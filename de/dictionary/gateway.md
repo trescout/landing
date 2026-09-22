@@ -21,7 +21,7 @@ Nein, Ihr lokales Netzwerk kann keine Verbindung zur Außenwelt herstellen und b
 
 ## Verwandte Begriffe
 - [API Gateway](/de/dictionary/api-gateway/)
-- [Networking Stack](/de/dictionary/networking-stack/)
+- [Network Stack](/de/dictionary/network-stack/)
 - [Proxy](/de/dictionary/proxy/)
 
 ## Verwandte Werkzeuge

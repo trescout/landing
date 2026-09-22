@@ -1,32 +1,57 @@
-# Home Server nedir?
+# Home Server nedir, ne demek?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-08-09
+**Son güncelleme:** 2026-09-22
 
-Evdeki cihazların dosya paylaşımı ve medya yönetimi gibi işlerini üstlenen sürekli açık kişisel sunucudur.
+Home server (Türkçe karşılığıyla **ev sunucusu**), evde sürekli çalışan kişisel sunucudur.
 
-## Tanım
-Evinizde 7/24 çalışan ve merkezi bir görev üstlenen bilgisayardır. Kendi bulutunuzu oluşturmanıza, dosyalarınızı yedeklemenize veya ev içindeki medya içeriklerini yönetmenize olanak tanır.
+## Tanım ve Kelime Kökeni
+"Home" **ev** demektir. Kendi bulutunuz kurulur, dosya yedeklenir, medya yönetilir. Abonelikten kurtulma ve tam kontrol motivasyonu taşır.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Medya:** Film ve müzik arşivi.
+- **Yedek:** Aile fotoğrafları.
+- **Otomasyon:** Ev cihazları.
+
+## Teknik Derinlik ve Mimari
+Kurulum:
+- **Donanım:** Eski PC, mini cihaz veya NAS.
+- **Sistem:** Hafif Linux dağıtımı.
+- **Servis:** Konteynerle yönetim.
+- **Erişim:** Güvenli tünel.
+
+Çalışanlar:
+
+```
+docker ps --format "table {{.Names}}\t{{.Status}}"
+```
+
+Kural: Yedek ev dışında da tutulur. Tek kopya yedek sayılmaz.
+
+## Sık Karıştırılanlar
+Masaüstü sanılır. O ara ara açılır, bu 7/24 hizmet verir. Biri çalışma masası, diğeri nöbetçidir.
+
+## Farklı Disiplinlerde Kullanımı
+- **Görevli:** Düzeni tutan yardımcı.
+- **Arşiv:** Evrak odası.
+- **Kiler:** Stok deposu.
 
 ## Bir benzetmeyle
-Kendi evinizin içinde kurduğunuz, dijital eşyalarınızı düzenli tutan ve istediğinizde size sunan küçük bir kütüphane görevlisi gibidir.
-
-## Nasıl çalışır?
-Eski bir bilgisayar, Raspberry Pi gibi küçük cihazlar veya özel sunucu donanımları üzerine gerekli yazılımlar kurularak oluşturulur.
-
-## Nerede kullanılır?
-Medya sunucuları, akıllı ev yönetimi ve kişisel yedekleme sistemlerinde kullanılır.
-
-## Sık karıştırılanlar
-Sadece bir masaüstü bilgisayar ile karıştırılabilir, ancak bu cihaz sürekli çalışmak ve hizmet vermek üzere özelleştirilmiştir.
+Dijital eşyaları düzenleyip sunan ev kütüphanecisi gibidir.
 
 ## Sıkça sorulanlar
 
-**Neden bir sunucuya ihtiyacım var?**  
-Verileriniz üzerinde tam kontrol sahibi olmak ve abonelik ücretlerinden kurtulmak için.
+**Neden sunucu gerekir?**  
+Kontrol ve abonelikten kurtulma için. Veri evde kalır.
 
-**Çok elektrik harcar mı?**  
-Küçük cihazlar (Raspberry Pi gibi) kullanıldığında oldukça düşük enerji tüketir.
+**Elektrik harcar mı?**  
+Küçük cihaz az harcar. Ölçümle takip edilir.
+
+**İnternet gerekli mi?**  
+Ev içi hayır, dış erişimde evet. Tünel güvenli kurulur.
+
+**Güvenli mi?**  
+Güncelleme ve parola disipliniyle evet. Dışa açık port denetlenir.
 
 ## İlgili terimler
 - [Self-hosting](/dictionary/self-hosting/)

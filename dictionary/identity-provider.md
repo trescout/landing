@@ -1,32 +1,57 @@
-# Identity Provider nedir?
+# Identity Provider nedir, ne demek?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-08-10
+**Son güncelleme:** 2026-09-22
 
-Kullanıcı giriş bilgilerini doğrulayan ve uygulamalara güvenli erişim sağlayan merkezi servis.
+Identity provider (Türkçe karşılığıyla **kimlik sağlayıcı**), girişleri doğrulayan merkezi servistir.
 
-## Tanım
-Bir uygulamaya her seferinde yeni şifre oluşturmak yerine, merkezi bir sistem üzerinden kimliğinizi kanıtlamanızı sağlar. Uygulama, kim olduğunuzu bu servise sorar ve onay alır.
+## Tanım ve Kelime Kökeni
+Her uygulamaya ayrı şifre yerine tek merkezden giriş yapılır. Uygulama kim olduğunuzu servise sorar, onay alır. Parolanız uygulamalara dağılmaz, merkezde kalır.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Şirket:** Tek girişle tüm sistemler.
+- **Web:** Sosyal hesapla giriş.
+- **Kurumsal:** Çalışan yaşam döngüsü.
+
+## Teknik Derinlik ve Mimari
+Akış:
+
+```
+giriş → doğrulama → jeton → uygulama
+```
+
+Parçalar:
+- **Kimlik jetonu:** Kim olduğunuzun belgesi.
+- **Erişim jetonu:** Ne yapabileceğinizin izni.
+- **MFA:** Parolaya ek ikinci kanıt.
+- **Oturum:** Tek girişle çok uygulama (SSO).
+
+Kural: Jeton süresi kısa tutulur, yenileme arka planda döner.
+
+## Sık Karıştırılanlar
+Şifre yöneticisi sanılır. O parolayı saklar, bu kimliği onaylar. Biri kasa, diğeri noterdir.
+
+## Farklı Disiplinlerde Kullanımı
+- **Resepsiyon:** Pasaporta karşı kart anahtar.
+- **Noter:** Kimlik tasdiki.
+- **Pasaport kontrolü:** Damga ile geçiş.
 
 ## Bir benzetmeyle
-Bir otelin resepsiyonunda pasaportunuzu gösterip kart anahtar almanız gibidir; otel odasına girmek için resepsiyonun onayına güvenir.
-
-## Nasıl çalışır?
-Kullanıcı giriş yapar, servis kimliği doğrular ve uygulamaya bir 'giriş yapıldı' anahtarı gönderir.
-
-## Nerede kullanılır?
-Şirket içi sistemlerde, SSO (Tek Oturum Açma) yapılarında ve modern web uygulamalarında kullanılır.
-
-## Sık karıştırılanlar
-Sadece bir şifre yöneticisi değil, kimlik doğrulama otoritesidir.
+Otel resepsiyonunda pasaport gösterip kart anahtar almaya benzer; oda kapısı resepsiyon onayına güvenir.
 
 ## Sıkça sorulanlar
 
 **Güvenli midir?**  
-Evet, şifrenizi her uygulamaya vermediğiniz için daha güvenlidir.
+Evet. Parola her uygulamaya dağılmadığı için saldırı yüzeyi küçülür.
 
 **Sistem çökerse ne olur?**  
-Merkezi servis olduğu için tüm bağlı uygulamalara erişim kesilebilir.
+Bağlı uygulamalar etkilenir. Yedeklilik ve acil erişim planı şarttır.
+
+**SSO farkı nedir?**  
+SSO tek giriş deneyimidir, sağlayıcı altyapısıdır. Biri yüz, diğeri omurgadır.
+
+**Kendim kurabilir miyim?**  
+Evet, açık kaynak seçenekler vardır. Yama ve yedek disiplini size aittir.
 
 ## İlgili terimler
 - [SSO](/dictionary/sso/)

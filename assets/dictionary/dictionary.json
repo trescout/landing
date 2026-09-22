@@ -2286,21 +2286,7 @@
     "kisa_es": "Es un teclado mecánico giratorio que se utiliza para marcar números en teléfonos antiguos.",
     "kisa_de": "Es handelt sich um eine rotierende mechanische Tastatur, die zum Wählen von Nummern auf alten Telefonen verwendet wird.",
     "date": "2026-06-18"
-  },
-  {
-    "slug": "networking-stack",
-    "en": "Networking Stack",
-    "full": "",
-    "cat": "dev",
-    "kisa": "Bilgisayarların birbirleriyle iletişim kurmasını sağlayan yazılım ve protokollerin katmanlı yapısıdır.",
-    "kisa_en": "It is the layered structure of software and protocols that enable computers to communicate with each other.",
-    "kisa_fr": "Il s'agit d'une structure en couches de logiciels et de protocoles qui permet aux ordinateurs de communiquer entre eux.",
-    "kisa_pt": "É a estrutura em camadas de software e protocolos que permite que os computadores se comuniquem entre si.",
-    "kisa_es": "Es la estructura en capas de software y protocolos que permite que las computadoras se comuniquen entre sí.",
-    "kisa_de": "Es handelt sich um die geschichtete Struktur von Software und Protokollen, die es Computern ermöglicht, miteinander zu kommunizieren.",
-    "date": "2026-06-18"
-  },
-  {
+  },  {
     "slug": "time-series-foundation-model",
     "en": "Time Series Foundation Model",
     "full": "",

@@ -1,29 +1,59 @@
-# Mermaid nedir?
+# Mermaid nedir, ne demek?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-09-05
+**Son güncelleme:** 2026-09-22
 
-Kod yazarak hızlıca akış şemaları ve grafikler oluşturmanızı sağlayan bir araçtır.
+Mermaid, metin yazarak diyagram çizen açık kaynak JavaScript kütüphanesidir.
 
-## Tanım
-Karmaşık çizim araçlarıyla uğraşmak yerine, tıpkı metin yazar gibi komutlarla diyagramlar oluşturmanıza olanak tanır. Yazdığınız kod otomatik olarak şık bir akış şemasına veya grafik tablosuna dönüşür.
+## Tanım ve Kelime Kökeni
+Çizim aracında kutu sürüklemek yerine şema metinle yazılır, araç görsele çevirir. Metin sürümlenebilir olduğu için dokümantasyonla birlikte yaşar ve incelemeden geçer. Adını denizkızı mitinden alır, tekniklikle ilgisi yoktur.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Dokümantasyon:** README içinde mimari şeması.
+- **Planlama:** Gantt ile takvim görünümü.
+- **Rapor:** Akış ve sıra şemaları.
+
+## Teknik Derinlik ve Mimari
+Başlıca türler:
+- **Flowchart:** Karar ve akış kutuları.
+- **Sequence:** Zaman eksenli etkileşim.
+- **Gantt:** Görev takvimi.
+- **ER:** Varlık ilişki şeması.
+
+Basit akış örneği:
+
+```
+flowchart LR
+    A[İstek] --> B[Sunucu]
+    B --> C[Yanıt]
+```
+
+GitHub ve GitLab bu blokları doğrudan çizer, eklenti gerekmez. Canlı önizleme için resmi editör kullanılır.
+
+## Sık Karıştırılanlar
+Çizim araçları sanılır. Oysa Mermaid metin tabanlıdır, sürükle-bırak içermez. Görsel hassasiyette çizim gerekirse grafik editörü gerekir.
+
+## Farklı Disiplinlerde Kullanımı
+- **Müzik:** Notalama ile sesin yazıya dökülmesi.
+- **Stenografi:** Konuşmanın kısayolla yazılması.
+- **Matematik:** Formülle şeklin anlatılması.
 
 ## Bir benzetmeyle
-Bir mimarın çizim yapmak yerine, binanın özelliklerini yazarak binayı anında inşa etmesi gibidir.
-
-## Nasıl çalışır?
-Markdown dosyalarının içine özel bir blok açıp Mermaid söz dizimiyle şemayı tanımlarsınız; araç bunu anında görselleştirir.
-
-## Nerede kullanılır?
-Dokümantasyon yazarken, proje planlamada ve teknik raporlarda kullanılır.
-
-## Sık karıştırılanlar
-Geleneksel çizim araçlarıyla karıştırılır; Mermaid tamamen metin tabanlıdır ve sürükle-bırak gerektirmez.
+Bir mimarın çizim yapmak yerine binanın özelliklerini yazarak şemayı anında elde etmesi gibidir.
 
 ## Sıkça sorulanlar
 
-**Mermaid ile hangi tür grafikler çizilir?**  
-Akış şemaları, dizi diyagramları, Gantt şemaları ve daha pek çok teknik çizim yapılabilir.
+**Mermaid ile hangi grafikler çizilir?**  
+Akış, sıra, Gantt, pasta, ER ve zihin haritası gibi teknik şemalar çizilir.
+
+**GitHub destekler mi?**  
+Evet. Markdown içindeki mermaid blokları doğrudan çizilir.
+
+**Ücretsiz mi?**  
+Çekirdek kütüphane açık kaynak ve ücretsizdir. Barındırılan editörlerde ücretli katman olabilir.
+
+**Ne zaman yetersiz kalır?**  
+Piksel hassasiyeti ve serbest çizim gerektiğinde. O iş grafik editörünündür.
 
 ## İlgili terimler
 - [Markdown](/dictionary/markdown/)

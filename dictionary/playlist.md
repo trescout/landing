@@ -1,4 +1,4 @@
-# Playlist ne demek? Nedir, nasıl kullanılır ve teknik mimarisi nasıldır?
+# Playlist ne demek? Nedir, nasıl kullanılır?
 
 **Kategori:** Veri & Altyapı  
 **Son güncelleme:** 2026-09-19
@@ -17,19 +17,19 @@ Son kullanıcıların dijital deneyiminde playlist'ler dört temel biçimde kar�
 
 ## Bilgisayar Bilimlerinde (CS) ve Yazılım Mühendisliğinde Playlist Mimarisi
 Yazılım ve veri mühendisliği açısından bir playlist yalnızca şarkıların bir listesi değildir; arka planda çalışan sofistike bir veri yapısı ve dağıtık sistemdir:
-- **Veri Yapısı Olarak Playlist:** Temelinde **Çift Yönlü Bağlı Liste (Doubly Linked List)** veya dinamik dizi (array) mimarisi yatar. Önceki (`previous`) ve sonraki (`next`) eleman işaretçileri (pointers) sayesinde ileri-geri sarma, araya şarkı sıkıştırma ve rastgele çalma (Fisher-Yates shuffle algoritması) O(1) veya O(n) karmaşıklığında yönetilir.
+- **Veri Yapısı Olarak Playlist:** Temelinde **Çift Yönlü Bağlı Liste (Doubly Linked List)** veya dinamik dizi (array) mimarisi yatar. Önceki (`previous`) ve sonraki (`next`) eleman işaretçileri (pointers) sayesinde ileri-geri sarma, araya şarkı ekleme O(1), rastgele karıştırma (Fisher-Yates) O(n) karmaşıklığında yönetilir.
 - **Öneri Sistemleri (Recommendation Engines):** Modern streaming servisleri bir playlist oluştururken iki temel yapay zekâ yaklaşımını birleştirir:
   1. *İşbirlikçi Filtreleme (Collaborative Filtering):* Benzer dinleme geçmişine sahip milyonlarca kullanıcının davranış matrislerini (Matrix Factorization) karşılaştırır.
   2. *Akustik Vektör Gömme (Audio Embeddings):* Müziğin ritmini, enstrüman yoğunluğunu, gamını ve frekans dağılımını derin öğrenme modelleriyle sayısal vektörlere dönüştürerek matematiksel olarak birbirine en yakın parçaları listeye dizer.
 - **Pointer/Metadata Odaklı Tasarım:** Playlist dosyaları medyanın kendisini değil, yalnızca metaverilerini (ID, süre, sanatçı) ve CDN üzerindeki konumunu (URI) depolar. Bu sayede gigabaytlarca müzik içeren bir liste diskte yalnızca birkaç kilobayt yer kaplar.
 
 ## Farklı Disiplinlerde ve Entelektüel Alanda Kullanımı
-- **Yapay Zekâ Eğitimi (Data Pipeline):** Büyük dil modelleri (LLM) veya görüntü işleme ağları eğitilirken, terabaytlarca veri parçası eğitime rastgele ya da belirli bir ağırlık dengesine göre sıralı olarak beslenir. Bu veri işleme sırasını belirleyen yapılara veri mühendisliğinde "Data Playlist" denir.
+- **Yapay Zekâ Eğitimi (Data Pipeline):** Büyük dil modelleri (LLM) veya görüntü işleme ağları eğitilirken, terabaytlarca veri parçası eğitime rastgele ya da belirli bir ağırlık dengesine göre sıralı olarak beslenir. Bu sıralı besleme, veri hattı (data pipeline) içindeki eğitim kuyruklarıyla yönetilir.
 - **Radyo ve Yayıncılık Tarihi:** Dijitalleşme öncesinde radyo istasyonları plakları ve kasetleri belirli saat aralıklarında çalmak üzere "Rotation Log" (rotasyon çizelgesi) adıyla fiziki playlist'ler hazırlardı. Günümüz dijital müzik listeleri bu yayıncılık geleneğinin doğrudan devamıdır.
-- **Bilişsel Psikoloji ve Verimlilik:** Belirli frekanslardaki ritmik listelerin (Lo-Fi, Binaural Beats, Barok müzik) odaklanmayı (Deep Work) ve dopamin salgısını tetiklediği bilimsel olarak kanıtlanmıştır.
+- **Bilişsel Psikoloji ve Verimlilik:** Bazı araştırmalar, ritmik listelerin (Lo-Fi, Barok müzik) odaklanmaya yardımcı olabileceğini öne sürüyor. Etki kişiden kişiye değişir.
 
 ## Bir benzetmeyle
-Bir partide çalınacak müzikleri önceden kurgulayıp akışına göre sıraya dizen profesyonel bir DJ kabini gibidir; misafirler sıradaki şarkıyı düşünmez, ortamın enerjisine göre liste kusursuzca akar.
+Bir partide çalınacak müzikleri önceden kurgulayıp akışına göre sıraya dizen profesyonel bir DJ kabini gibidir; misafirler sıradaki şarkıyı düşünmez, ortamın enerjisine göre liste kendiliğinden akar.
 
 ## Sıkça sorulanlar
 

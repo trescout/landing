@@ -23,7 +23,7 @@ Se uma dessas camadas funcionar incorretamente, sua conex√£o com a internet ser√
 
 
 ## Termos relacionados
-- [Networking Stack](/pt/dictionary/networking-stack/)
+- [VPN](/pt/dictionary/vpn/)
 - [API](/pt/dictionary/api/)
 - [Packet Fragmentation](/pt/dictionary/packet-fragmentation/)
 

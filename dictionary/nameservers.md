@@ -30,7 +30,7 @@ Web sitelerine isimleriyle ulaşamazsınız, çünkü internet tarayıcınız si
 
 ## İlgili terimler
 - [DNS Tunneling](/dictionary/dns-tunneling/)
-- [Networking Stack](/dictionary/networking-stack/)
+- [Network Stack](/dictionary/network-stack/)
 - [Gateway](/dictionary/gateway/)
 
 ---

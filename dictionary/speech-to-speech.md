@@ -5,13 +5,13 @@
 
 Speech-to-Speech (S2S / sesten sese yapay zekâ), ses dalgalarını ara bir metin katmanına dönüştürmeden doğrudan kaynaktan hedefe analiz edip yeni bir ses sinyali üreten uçtan uca derin öğrenme teknolojisidir.
 
-## Geleneksel kaskat mimariden uçtan uca devrime
+## Geleneksel kaskat mimariden uçtan uca mimariye
 Geleneksel sesli çeviri ve diyalog sistemleri, "kaskat" (cascade) adı verilen üç bağımsız aşamadan oluşuyordu:
 1. **STT (Speech-to-Text):** Konuşmanın dinlenip metne dökülmesi.
 2. **LLM / MT (Çeviri / Metin İşleme):** Metnin anlaşılması, yanıt üretilmesi veya başka bir dile çevrilmesi.
 3. **TTS (Text-to-Speech):** Üretilen metnin sentetik bir ses motoruyla yeniden seslendirilmesi.
 
-Bu üç adımlı kaskat yaklaşımın iki ölümcül problemi vardı:
+Bu üç adımlı kaskat yaklaşımın iki temel sorunu vardı:
 - **Yüksek Gecikme (Latency):** Her bir modelin çıktısı diğerinin girdisi olduğundan, yanıt süresi 2 ila 4 saniyeyi buluyor ve doğal sohbet akışını imkânsız kılıyordu.
 - **Duygu ve Akustik Bilgi Kaybı:** Metin yalnızca kelimeleri taşır. Konuşmacının ses tonundaki heyecan, ironi, fısıltı, soru vurgusu ve nefes aralıkları metne dönüştürülürken tamamen buharlaşıyordu.
 
@@ -22,7 +22,7 @@ Yeni nesil multimodal mimariler (OpenAI GPT-4o Ses Modu, Meta SeamlessM4T, Kyuta
 Geleneksel sistem, konuşmanızı önce steno ile kağıda döken, sonra başka bir odaya koşup bu kağıdı tercümana çevirten, son olarak da üçüncü bir kişiye bu çeviriyi mikrofondan okutan hantal bir bürokrasiye benzer. Uçtan uca S2S ise konuşmanızı dinlerken aynı anda sizin ses tonunuzla, duygularınızla ve aksanınızla diğer dilde konuşabilen telepatik bir eşzamanlı tercümandır.
 
 ## Teknik altyapı: Ses tokenizasyonu ve sürekli gizil uzay
-Sesten sese sistemlerin arkasındaki çığır açıcı mühendislik adımları şunlardır:
+Sesten sese sistemlerin arkasındaki temel mühendislik adımları şunlardır:
 
 1. **Nöral Ses Kodekleri (Neural Audio Codecs):** EnCodec, SoundStream veya Descript Audio Codec (DAC) gibi mimariler, ham ses dalgalarını sıkıştırarak saniyede binlerce ayrık veya sürekli "ses token'ına" dönüştürür.
 2. **Anlamsal ve Akustik Ayrıştırma (Semantic vs Acoustic Tokens):** Gelişmiş modeller sesi iki vektöre ayırır: Ne söylendiğini temsil eden anlamsal (semantic) vektör ve nasıl söylendiğini (tını, duygu, ortam akustiği) temsil eden akustik vektör.

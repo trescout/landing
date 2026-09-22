@@ -20,7 +20,7 @@ Porque a maioria dos ataques cibernéticos começa infiltrando-se na rede atrav�
 
 
 ## Termos relacionados
-- [Networking Stack](/pt/dictionary/networking-stack/)
+- [Network Stack](/pt/dictionary/network-stack/)
 - [VPN](/pt/dictionary/vpn/)
 - [Security Scanner](/pt/dictionary/security-scanner/)
 

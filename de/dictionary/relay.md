@@ -20,7 +20,7 @@ Relay verhindert, dass die Verbindung verloren geht, wenn die Entfernung zu gro√
 
 
 ## Verwandte Begriffe
-- [Networking Stack](/de/dictionary/networking-stack/)
+- [Network Stack](/de/dictionary/network-stack/)
 - [Proxy](/de/dictionary/proxy/)
 - [VPN](/de/dictionary/vpn/)
 

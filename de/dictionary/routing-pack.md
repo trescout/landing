@@ -17,7 +17,7 @@ Dies wirkt sich direkt auf die Geschwindigkeit und Sicherheit der Datenübertrag
 
 
 ## Verwandte Begriffe
-- [Networking Stack](/de/dictionary/networking-stack/)
+- [Network Stack](/de/dictionary/network-stack/)
 - [API Gateway](/de/dictionary/api-gateway/)
 - [Proxy](/de/dictionary/proxy/)
 

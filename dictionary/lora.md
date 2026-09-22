@@ -1,34 +1,60 @@
-# LoRA nedir?
+# LoRA nedir, ne demek?
 
 > Low-Rank Adaptation
 
 **Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-08-15
+**Son güncelleme:** 2026-09-22
 
-Büyük bir yapay zekâ modelini, tümünü değiştirmeden sadece küçük bir kısmını güncelleyerek belirli bir konuda uzmanlaştırma tekniğidir.
+LoRA (**Low-Rank Adaptation**, düşük sıralı uyarlama), modeli küçük ekle uzmanlaştırma tekniğidir.
 
-## Tanım
-LoRA, devasa bir yapay zekâ modelini eğitmek için gereken devasa işlem gücünü azaltan bir yöntemdir. Modelin temel yeteneklerini korurken, ona yeni bir stil veya bilgi eklemek için sadece çok küçük bir katmanını eğitirsiniz.
+## Tanım ve Kelime Kökeni
+"Low-rank" **düşük sıralı** demektir. Dev model dondurulur, küçük adaptör eğitilir, üstüne takılır. Temel yetenek korunur, yeni stil eklenir. Maliyet tam eğitimin kesridir.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Görsel:** Kişisel stil üretimi.
+- **Yazı:** Kurum dili uyarlaması.
+- **Ses:** Karakter sesi.
+
+## Teknik Derinlik ve Mimari
+Düzen:
+- **Dondurma:** Ana ağırlık sabitlenir.
+- **Adaptör:** İki küçük matris eğitilir.
+- **Rank:** Boyut ayarı, genelde 8 veya 16.
+- **Birleştirme:** Çıktıda toplanır.
+
+Yapılandırma:
+
+```
+rank: 8
+hedef: dikkat katmanları
+```
+
+QLoRA sürümü belleği daha da kısar. Unutma riski tam eğitime göre düşüktür.
+
+## Sık Karıştırılanlar
+Fine-tuning sanılır. O tüm modeli kapsar, bu hafif ektir. Biri ev yenileme, diğeri oda boyamadır.
+
+## Farklı Disiplinlerde Kullanımı
+- **Not:** Kütüphaneye yapışan kağıt.
+- **Lens:** Kameraya takılan filtre.
+- **Yama:** Giysiye dikilen arma.
 
 ## Bir benzetmeyle
-Koca bir kütüphaneyi yeniden yazmak yerine, üzerine sadece birkaç önemli not içeren küçük bir yapışkan not eklemek gibidir.
-
-## Nasıl çalışır?
-Modelin ağırlıklarını dondurursunuz ve sadece LoRA adı verilen küçük bir dosya eğitirsiniz. Bu dosyayı ana modelin üzerine takarak onu özelleştirirsiniz.
-
-## Nerede kullanılır?
-Kişiselleştirilmiş görsel oluşturma veya özel yazı stilleri geliştirme süreçlerinde kullanılır.
-
-## Sık karıştırılanlar
-Fine-tuning ile karıştırılır; fine-tuning tüm modeli kapsayabilirken, LoRA çok daha hafif ve odaklıdır.
+Koca kütüphaneye yapışan küçük not gibidir; kitap durur, bilgi eklenir.
 
 ## Sıkça sorulanlar
 
-**LoRA kullanmak modeli yavaşlatır mı?**  
-Hayır, genellikle çok hafif olduğu için performans kaybı yaratmaz.
+**Yavaşlatır mı?**  
+Genellikle hayır. Ek küçüktür, gecikme fark edilmez.
 
-**Tek bir modele birden fazla LoRA takılabilir mi?**  
-Evet, farklı özellikler için farklı LoRA dosyaları birleştirilebilir.
+**Birden fazla takılır mı?**  
+Evet. Farklı işler için adaptörler birleştirilir.
+
+**Unutma olur mu?**  
+Tam eğitime göre azdır. Rank ve veri dengesi belirler.
+
+**Ne zaman yetmez?**  
+Derin bilgi gerekiyorsa tam eğitim veya RAG gerekir.
 
 ## İlgili terimler
 - [Fine-tuning](/dictionary/fine-tuning/)

@@ -1,33 +1,61 @@
-# Headless Browser nedir?
+# Headless Browser nedir, ne demek?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-09-08
+**Son güncelleme:** 2026-09-22
 
-Görsel ekranı olmayan, tamamen kodlar üzerinden internet sayfalarını yükleyip veri işleyen tarayıcı.
+Headless browser (Türkçe karşılığıyla **başsız tarayıcı**), ekransız çalışan tam tarayıcıdır.
 
-## Tanım
-Normalde internete girdiğinizde gördüğünüz görsel arayüzün (butonlar, resimler) arka planda çalıştırılmadan, sadece kod yapısının işlendiği bir tarayıcı türüdür. Görsel arayüzü çizmediği için çok hızlı çalışır ve bilgisayarın kaynaklarını daha az tüketir.
+## Tanım ve Kelime Kökeni
+"Headless" **başsız** demektir: Pencere çizilmez, kod işler. Görsel yük kalkınca hız artar, kaynak düşer. Test ve veri işlerinin sessiz işçisidir.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Test:** Sayfa regresyon denetimi.
+- **Veri:** Site tarama.
+- **Rapor:** Ekran görüntüsü üretimi.
+
+## Teknik Derinlik ve Mimari
+Yetenekler:
+- **Gezinme:** Adrese gitme ve tıklama.
+- **Görüntü:** Ekran ve PDF çıktısı.
+- **Ağ:** İstek yakalama.
+
+Örnek:
+
+```
+npx playwright screenshot https://ornek.com shot.png
+```
+
+Tespit notu: Siteler başsız izi yakalayabilir. Stealth kipi izi gizler, kullanım politikaya uyar.
+
+## Sık Karıştırılanlar
+Stealth sanılır. Stealth, başsızın bot korumasından kaçan kipidir. Biri motor, diğeri kamuflajdır.
+
+## Farklı Disiplinlerde Kullanımı
+- **Kağıt baskı:** Görsele değil veriye bakma.
+- **Kör uçuş:** Göstergeyle yön bulma.
+- **Arka mutfak:** Müşterisiz üretim.
 
 ## Bir benzetmeyle
-Bir web sitesini ziyaret etmek için ekranı izlemek yerine, sitenin tüm HTML kodunu bir kağıda basıp okumak gibidir; görselliğe değil sadece veriye odaklanırsınız.
-
-## Nasıl çalışır?
-Geliştiriciler, otomasyon araçları kullanarak bu tarayıcıya 'şu siteye git ve şu veriyi al' komutunu verirler.
-
-## Nerede kullanılır?
-Web sitelerinin otomatik test edilmesinde ve veri çekme işlemlerinde kullanılır.
-
-## Sık karıştırılanlar
-Stealth Headless Browser
+Sitenin HTML çıktısını kağıda basıp okumaya benzer; görüntü yok, veri var.
 
 ## Sıkça sorulanlar
 
-**Neden görsel arayüzü yok?**  
-Çünkü sadece veriye ihtiyacımız var, sayfayı görmemize gerek yok.
+**Neden arayüz yok?**  
+Veri işlenir, görüntü gerekmez. Hız ve kaynak kazandırır.
+
+**Tespit edilir mi?**  
+Edilebilir. Stealth kipi izi azaltır, site politikası belirleyicidir.
+
+**Ne zaman GUI gerekir?**  
+Görsel denetim ve el testinde. Otomasyonda başsız yeterlidir.
+
+**Kaynak farkı nedir?**  
+Bellek ve CPU düşer, paralel koşum artar. Ölçek buradan gelir.
 
 ## İlgili terimler
 - [Stealth Headless Browser](/dictionary/stealth-headless-browser/)
 - [Web Scraping](/dictionary/web-scraping/)
+- [Testing Framework](/dictionary/testing-framework/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/headless-browser/

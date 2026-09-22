@@ -1,29 +1,56 @@
-# Local-first Memory nedir?
+# Local-first Memory nedir, ne demek?
 
 **Kategori:** Veri & Altyapı  
-**Son güncelleme:** 2026-08-27
+**Son güncelleme:** 2026-09-22
 
-Verilerin internete ihtiyaç duymadan doğrudan cihazınızda saklandığı ve her an erişilebilir olduğu bir bilgi depolama yaklaşımı.
+Local-first memory (Türkçe karşılığıyla **önce-yerel bellek**), verinin cihazda durduğu yaklaşımdır.
 
-## Tanım
-Bilgilerinizin bulut sunucular yerine doğrudan bilgisayarınızda veya telefonunuzda tutulmasıdır. Bu sayede internetiniz kesilse bile verilerinize ulaşabilir ve onları düzenleyebilirsiniz. Gizlilik ve hız açısından oldukça güvenli bir yöntemdir.
+## Tanım ve Kelime Kökeni
+"Local-first" **önce yerel** demektir. Bulut yerine cihaz esas alınır. Kesintide çalışır, gizlilik korunur. Not uygulamaları ve yerel yapay zekâ bu düzendendir.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Not:** Çevrimdışı defter.
+- **Görev:** Yerel liste.
+- **Medya:** Cihaz arşivi.
+
+## Teknik Derinlik ve Mimari
+Düzen:
+- **Yerel veritabanı:** Cihaz içi dosya.
+- **Senkron:** CRDT ile çakışmasız birleşme.
+- **Yedek:** Ayrı kopya disiplini.
+
+Tarayıcı kaydı:
+
+```
+localStorage.setItem("not", metin);
+```
+
+Kural: Cihaz bozulursa veri gider. Yedek bulutta veya diskte tutulur.
+
+## Sık Karıştırılanlar
+Çevrimdışı mod sanılır. O geçici durumdur, bu sahiplik düzenidir. Veri sizindir, kirada değildir.
+
+## Farklı Disiplinlerde Kullanımı
+- **Çekmece:** Kilitli ev çekmecesi.
+- **Kasa:** Kişisel emanet.
+- **Cüzdan:** Cepte taşınan değer.
 
 ## Bir benzetmeyle
-Bilgilerinizi bir banka kasasında değil, kendi evinizdeki kilitli bir çekmecede saklamak gibidir.
-
-## Nasıl çalışır?
-Veriler yerel bir veritabanında tutulur ve cihazınızdaki uygulamalar doğrudan bu yerel dosyalarla konuşur.
-
-## Nerede kullanılır?
-Gizlilik odaklı not uygulamalarında ve yerel yapay zekâ sistemlerinde kullanılır.
-
-## Sık karıştırılanlar
-Sadece çevrimdışı çalışmakla karıştırılabilir ancak bu yaklaşımda veri sahipliği tamamen sizdedir.
+Bilgiyi banka kasası yerine evdeki kilitli çekmecede tutmaya benzer.
 
 ## Sıkça sorulanlar
 
-**Cihazım bozulursa verilerim gider mi?**  
-Yerel saklandığı için cihazın yedeğini almanız gerekir, bulut sistemlerindeki gibi otomatik yedekleme için ekstra ayar gerekebilir.
+**Cihaz bozulursa ne olur?**  
+Veri gider. Yedek ayrı yerde tutulur, bulut otomatik sanılmaz.
+
+**Senkron nasıl olur?**  
+CRDT ile çakışmasız birleşir. Cihazlar buluşunca eşitlenir.
+
+**Ne zaman bulut?**  
+Paylaşım ve yedek gerektiğinde. Yerel esas, bulut kopyadır.
+
+**Güvenli mi?**  
+Cihaz şifrelemesiyle evet. Kayıp cihaza karşı kilit şarttır.
 
 ## İlgili terimler
 - [Local-first](/dictionary/local-first/)

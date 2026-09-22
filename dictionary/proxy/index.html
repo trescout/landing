@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Proxy nedir? · TreScout Sözlük</title>
-<meta name="description" content="İnternet üzerindeki işlemlerinizi sizin yerinize yapan bir aracı sunucudur.">
+<title>Proxy Nedir, Ne Demek? Vekil Sunucu Rehberi · TreScout</title>
+<meta name="description" content="Proxy nedir, ne demek? Forward ve reverse ayrımı, SOCKS, VPN farkı ve proxy değişkeni örneğiyle vekil sunucu rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/proxy/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/proxy/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/proxy/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/proxy/">
 <link rel="canonical" href="https://trescout.com/dictionary/proxy/">
-<meta property="og:title" content="Proxy nedir?">
-<meta property="og:description" content="İnternet üzerindeki işlemlerinizi sizin yerinize yapan bir aracı sunucudur.">
+<meta property="og:title" content="Proxy Nedir, Ne Demek? Vekil Sunucu Rehberi · TreScout">
+<meta property="og:description" content="Proxy nedir, ne demek? Forward ve reverse ayrımı, SOCKS, VPN farkı ve proxy değişkeni örneğiyle vekil sunucu rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/proxy/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Proxy nedir?">
+<meta name="twitter:title" content="Proxy Nedir, Ne Demek? Vekil Sunucu Rehberi · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/proxy.webp">
 <script type="application/ld+json">
 {
@@ -32,7 +32,7 @@
   "@type": "DefinedTerm",
   "name": "Proxy",
   "inLanguage": "tr",
-  "description": "Proxy, bilgisayarınız ile internet arasında bir bekçi gibi durur. Siz bir siteye girmek istediğinizde, önce proxy sunucusuna gidersiniz; o da sizin yerinize siteye bağlanır. Bu yöntem hem kimliğinizi gizlemek hem de internet trafiğini yönetmek için kullanılır.",
+  "description": "Proxy (vekil sunucu), isteklerinizi sizin adınıza hedefe ileten aracıdır.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -51,7 +51,7 @@
       "name": "Güvenli mi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Kullandığınız proxy sunucusuna bağlıdır; güvenilir olmayan proxy'ler bilgilerinizi izleyebilir."
+        "text": "Vekile bağlıdır. Güvenilmez sunucu trafiği izleyebilir, bu yüzden bilinen sağlayıcı seçilir."
       }
     },
     {
@@ -59,7 +59,23 @@
       "name": "Neden kullanılır?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Engelli sitelere girmek, internet hızını optimize etmek veya kimliği gizlemek için tercih edilir."
+        "text": "Denetim, gizlilik ve erişim için. Üçü de ayrı ihtiyaçtır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Reverse nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dışarıdan geleni sunucuya dağıtan yöndür. Yük dengeleme ve koruma sağlar."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Hızlandırır mı?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Önbellekli içerikte evet, şifreli ve uzak trafikte genellikle yavaşlatır."
       }
     }
   ]
@@ -72,7 +88,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="İnternet üzerindeki işlemlerinizi sizin yerinize yapan bir aracı sunucudur.">
+<meta name="twitter:description" content="Proxy nedir, ne demek? Forward ve reverse ayrımı, SOCKS, VPN farkı ve proxy değişkeni örneğiyle vekil sunucu rehberi.">
 
 <meta property="og:image:alt" content="Proxy nedir?">
 </head>
@@ -82,12 +98,11 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-06-03">Son güncelleme: 3 Haziran 2026</time></div>
-<h1 class="disc-title">Proxy <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-22">Son güncelleme: 22 Eylül 2026</time></div>
+<h1 class="disc-title">Proxy <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">İnternet üzerindeki işlemlerinizi sizin yerinize yapan bir aracı sunucudur.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Proxy, bilgisayarınız ile internet arasında bir bekçi gibi durur. Siz bir siteye girmek istediğinizde, önce proxy sunucusuna gidersiniz; o da sizin yerinize siteye bağlanır. Bu yöntem hem kimliğinizi gizlemek hem de internet trafiğini yönetmek için kullanılır.</p></section><div class="dict-analogy">Birine mesaj göndermek istediğinizde, mesajı doğrudan ona değil de bir arkadaşınıza verip arkadaşınızın sizin adınıza o kişiye iletmesi gibidir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>İnternet ayarlarınıza proxy adresini girersiniz. Artık tüm verileriniz önce o sunucuya gider, oradan hedefe ulaşır.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Şirket ağlarında, gizlilik gerektiren durumlarda ve kısıtlı içeriklere erişmek için kullanılır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>VPN ile benzerdir ancak proxy genellikle sadece belirli uygulamalar veya tarayıcılar için çalışır.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Güvenli mi?</p><p class="dict-faq-a">Kullandığınız proxy sunucusuna bağlıdır; güvenilir olmayan proxy&#x27;ler bilgilerinizi izleyebilir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Neden kullanılır?</p><p class="dict-faq-a">Engelli sitelere girmek, internet hızını optimize etmek veya kimliği gizlemek için tercih edilir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/self-hosting/">Self-hosting</a><a href="/dictionary/offline/">Offline</a></div></section>
-<section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/flclash/">FlClash</a><a href="/discover/nginx/">Nginx</a><a href="/discover/headroom/">Headroom</a><a href="/discover/openflux/">OpenFlux</a></div></section>
+<p class="disc-lead">Proxy (Türkçe karşılığıyla <strong>vekil sunucu</strong>), isteklerinizi sizin adınıza hedefe ileten aracıdır.</p>
+<section class="disc-sec"><h2>Tanım ve Kelime Kökeni</h2><p>"Proxy" <strong>vekil</strong> demektir. Bilgisayarınızla internet arasında bekçi gibi durur: Siteye doğrudan değil, vekil üzerinden bağlanırsınız. Kimlik gizleme ve trafik yönetiminde kullanılır.</p></section><section class="disc-sec"><h2>Gündelik Hayatta Nasıl Bilinir ve Kullanılır?</h2><p><strong>Şirket:</strong> Çıkış trafiğinin denetimi.<br><strong>Gizlilik:</strong> Adres gizleme.<br><strong>Erişim:</strong> Bölgesel kısıt aşımı.</p></section><section class="disc-sec"><h2>Teknik Derinlik ve Mimari</h2><p>İki yön vardır:</p><p><strong>Forward:</strong> İstemciyi gizler, dışarı çıkar.<br><strong>Reverse:</strong> Sunucuyu korur, içeri alır. Nginx bu işi yapar.</p><p>Türler: HTTP, HTTPS ve SOCKS. Ortam değişkeni örneği:</p><p><pre><code>export https_proxy="http://vekil:8080"</code></pre></p><p>Önbellek de tutar: Sık istenen içerik vekilden verilir, hat rahatlar.</p></section><section class="disc-sec"><h2>Sık Karıştırılanlar</h2><p>VPN sanılır. VPN tüm cihazı tünele sokar, proxy genellikle uygulama veya tarayıcı düzeyinde çalışır. Gizlilik derinliği farklıdır.</p></section><section class="disc-sec"><h2>Farklı Disiplinlerde Kullanımı</h2><p><strong>Arkadaş:</strong> Mesajı sizin adınıza ileten kişi.<br><strong>Resepsiyon:</strong> Ziyaretçiyi karşılayan görevli.<br><strong>Tercüman:</strong> Sözü aktaran aracı.</p></section><div class="dict-analogy">Mesajı doğrudan değil, arkadaşınız üzerinden iletmeniz gibidir; alıcı sizi değil aracıyı görür.</div><section class="disc-sec"><h2>Sıkça Sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Güvenli mi?</p><p class="dict-faq-a">Vekile bağlıdır. Güvenilmez sunucu trafiği izleyebilir, bu yüzden bilinen sağlayıcı seçilir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Neden kullanılır?</p><p class="dict-faq-a">Denetim, gizlilik ve erişim için. Üçü de ayrı ihtiyaçtır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Reverse nedir?</p><p class="dict-faq-a">Dışarıdan geleni sunucuya dağıtan yöndür. Yük dengeleme ve koruma sağlar.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Hızlandırır mı?</p><p class="dict-faq-a">Önbellekli içerikte evet, şifreli ve uzak trafikte genellikle yavaşlatır.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/self-hosting/">Self-Hosting</a><a href="/dictionary/offline/">Offline</a><a href="/dictionary/vpn/">VPN</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

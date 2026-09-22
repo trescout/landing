@@ -29,7 +29,7 @@ Generally yes, but some extensions like .gov are exclusive to government institu
 ## Related terms
 - [DNS Tunneling](/en/dictionary/dns-tunneling/)
 - [Nameservers](/en/dictionary/nameservers/)
-- [Networking Stack](/en/dictionary/networking-stack/)
+- [Network Stack](/en/dictionary/network-stack/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/top-level-domain/

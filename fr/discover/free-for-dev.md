@@ -15,6 +15,7 @@ Free-for-dev est une liste de ressources qui rassemble les niveaux gratuits de l
 - Source officielle →
 
 ## Termes liés du glossaire
+PaaS IaaS SaaS
 
 ## Liens
 - Dépôt GitHub →

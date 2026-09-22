@@ -25,7 +25,7 @@ If one of these layers malfunctions, your internet connection will be lost or yo
 
 
 ## Related terms
-- [Networking Stack](/en/dictionary/networking-stack/)
+- [VPN](/en/dictionary/vpn/)
 - [API](/en/dictionary/api/)
 - [Packet Fragmentation](/en/dictionary/packet-fragmentation/)
 

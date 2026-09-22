@@ -23,7 +23,7 @@ No, your local network cannot connect to the outside world and remains isolated.
 
 ## Related terms
 - [API Gateway](/en/dictionary/api-gateway/)
-- [Networking Stack](/en/dictionary/networking-stack/)
+- [Network Stack](/en/dictionary/network-stack/)
 - [Proxy](/en/dictionary/proxy/)
 
 ## Related tools

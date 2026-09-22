@@ -12,7 +12,7 @@ Ihr Betriebssystem führt diese Ebenen im Hintergrund automatisch aus, sobald Si
 Er ist als grundlegende Komponente in Servern, PCs und Netzwerk-Routern vorhanden.
 
 ## Häufig verwechselt mit
-Dies ist dasselbe Konzept wie Networking-Stack.
+Dies ist dasselbe Konzept wie Network-Stack.
 
 ## Häufige Fragen
 **Verwalte ich diese Ebenen selbst?**
@@ -23,7 +23,7 @@ Wenn eine dieser Ebenen fehlerhaft arbeitet, wird Ihre Internetverbindung unterb
 
 
 ## Verwandte Begriffe
-- [Networking Stack](/de/dictionary/networking-stack/)
+- [VPN](/de/dictionary/vpn/)
 - [API](/de/dictionary/api/)
 - [Packet Fragmentation](/de/dictionary/packet-fragmentation/)
 

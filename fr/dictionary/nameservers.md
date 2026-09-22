@@ -24,7 +24,7 @@ Vous ne pouvez pas accéder aux sites Web par leur nom car votre navigateur Inte
 
 ## Termes liés
 - [DNS Tunneling](/fr/dictionary/dns-tunneling/)
-- [Networking Stack](/fr/dictionary/networking-stack/)
+- [Network Stack](/fr/dictionary/network-stack/)
 - [Gateway](/fr/dictionary/gateway/)
 
 ---

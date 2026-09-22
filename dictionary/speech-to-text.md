@@ -1,29 +1,56 @@
-# Speech-to-Text nedir?
+# Speech-to-Text nedir, ne demek?
 
 **Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-07-01
+**Son güncelleme:** 2026-09-22
 
-Söylenen sözleri dinleyip bunları otomatik olarak yazılı metne dönüştüren teknolojidir.
+Speech-to-text (kısaca **STT**, konuşmadan metne), sesi yazılı metne çeviren teknolojidir.
 
-## Tanım
-Ses dalgalarını analiz ederek onları dijital karakterlere çeviren bir süreçtir. Yapay zeka, insan sesindeki tonlamaları ve kelimeleri ayırt ederek metin haline getirir. Günümüzde oldukça hızlı ve hatasız çalışmaktadır.
+## Tanım ve Kelime Kökeni
+Ses dalgaları sayısal özniteliklere çevrilir, model kelimeleri tanır. Yapay zekâ tonlama ve bağlamı da okur. Hatasız değildir, ancak temiz kayıtta isabeti yüksektir.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Toplantı:** Otomatik tutanak.
+- **Asistan:** Sesli komut.
+- **Altyazı:** Video metni.
+
+## Teknik Derinlik ve Mimari
+Hat:
+- **Önişleme:** Gürültü temizliği.
+- **Akustik model:** Sesin sese, sesin harfe eşlenmesi.
+- **Dil modeli:** Cümle olasılığı.
+
+Yerel deneme:
+
+```
+whisper toplanti.mp3 --language tr --model base
+```
+
+Model büyüdükçe isabet artar, süre uzar. Gizli kayıt için izin ve bilgilendirme şarttır.
+
+## Sık Karıştırılanlar
+Text-to-speech sanılır. O metni sese çevirir, bu sesi metne. İkisi ters yöndür.
+
+## Farklı Disiplinlerde Kullanımı
+- **Sekreter:** Konuşurken not tutma.
+- **Daktilo:** Söyleneni yazma.
+- **Altyazı odası:** Yayına metin yetiştirme.
 
 ## Bir benzetmeyle
-Siz konuşurken sizin yerinize not tutan çok hızlı bir sekreter gibidir.
-
-## Nasıl çalışır?
-Mikrofonunuzdan gelen ses verisi sisteme girer, yapay zeka bu veriyi işler ve ekranınıza metin olarak yansıtır.
-
-## Nerede kullanılır?
-Toplantı notu alma uygulamalarında, sesli asistanlarda ve altyazı oluşturma araçlarında kullanılır.
-
-## Sık karıştırılanlar
-Text-to-Speech (yazıdan sese çeviri) ile karıştırılabilir; bu tam tersi işlemdir.
+Konuşurken yerinize not tutan hızlı sekreter gibidir.
 
 ## Sıkça sorulanlar
 
 **Her aksanı anlar mı?**  
-Modern modeller çoğu aksanı anlasa da, çok nadir dillerde veya bozuk ses kayıtlarında hata yapabilir.
+Yaygın aksanlarda iyidir, nadir dil ve bozuk kayıtta hata artar.
+
+**Doğruluğu nedir?**  
+Temiz kayıtta yüksektir, gürültü ve jargon düşürür. Kritik metin gözden geçirilir.
+
+**Türkçe destekler mi?**  
+Evet. Büyük modeller Türkçede güçlüdür, aksan ve terminoloji test edilir.
+
+**Gizlilik riski var mı?**  
+Bulut serviste ses dışarı gider. Hassas toplantıda yerel model tercih edilir.
 
 ## İlgili terimler
 - [Text-to-Speech](/dictionary/text-to-speech/)

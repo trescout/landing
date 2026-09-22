@@ -27,7 +27,7 @@ Geralmente sim, mas algumas extensões como .gov são exclusivas para órgãos g
 ## Termos relacionados
 - [DNS Tunneling](/pt/dictionary/dns-tunneling/)
 - [Nameservers](/pt/dictionary/nameservers/)
-- [Networking Stack](/pt/dictionary/networking-stack/)
+- [Network Stack](/pt/dictionary/network-stack/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/top-level-domain/

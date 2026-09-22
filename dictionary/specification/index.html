@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Specification nedir? · TreScout Sözlük</title>
-<meta name="description" content="Bir projenin, yazılımın veya ürünün ne yapması gerektiğini ve hangi kurallara uyması gerektiğini belirten detaylı teknik dokümandır.">
+<title>Specification Nedir? Teknik Şartname Rehberi · TreScout</title>
+<meta name="description" content="Specification nedir, ne demek? Gereksinim farkı, kabul kriterleri ve OpenAPI örneğiyle teknik şartname rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/specification/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/specification/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/specification/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/specification/">
 <link rel="canonical" href="https://trescout.com/dictionary/specification/">
-<meta property="og:title" content="Specification nedir?">
-<meta property="og:description" content="Bir projenin, yazılımın veya ürünün ne yapması gerektiğini ve hangi kurallara uyması gerektiğini belirten detaylı teknik dokümandır.">
+<meta property="og:title" content="Specification Nedir? Teknik Şartname Rehberi · TreScout">
+<meta property="og:description" content="Specification nedir, ne demek? Gereksinim farkı, kabul kriterleri ve OpenAPI örneğiyle teknik şartname rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/specification/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Specification nedir?">
+<meta name="twitter:title" content="Specification Nedir? Teknik Şartname Rehberi · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/specification.webp">
 <script type="application/ld+json">
 {
@@ -32,7 +32,7 @@
   "@type": "DefinedTerm",
   "name": "Specification",
   "inLanguage": "tr",
-  "description": "Specification (kısaca 'spec'), bir binanın mimari projesi gibidir. Yazılımcılar kod yazmaya başlamadan önce bu dokümana bakarak ne inşa edeceklerini anlarlar. Hataları azaltmak ve beklentileri netleştirmek için kullanılır.",
+  "description": "Specification (spec), ürünün ne yapacağını ve kurallarını yazan teknik belgedir.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -51,7 +51,31 @@
       "name": "Spec değişebilir mi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Evet, proje ilerledikçe ihtiyaçlara göre güncellenebilir ancak bu durum genellikle maliyeti etkiler."
+        "text": "Evet, ancak her değişiklik maliyet ve takvim etkisiyle birlikte onaylanmalıdır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Spec dosyasını kim yazar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ürün yöneticisi, mühendis veya analist yazar. Önemli olan tek sahip ve sürüm disiplinidir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Ne kadar detay gerekir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Belirsizliği bitirecek kadar. Aşırısı yazanı yorar, azı geliştiriciyi tıkar."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Agile içinde spec olur mu?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Evet, hafifler. Kabul kriterli kullanıcı hikâyeleri ve API kontratları spec işlevi görür."
       }
     }
   ]
@@ -64,7 +88,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Bir projenin, yazılımın veya ürünün ne yapması gerektiğini ve hangi kurallara uyması gerektiğini belirten detaylı teknik dokümandır.">
+<meta name="twitter:description" content="Specification nedir, ne demek? Gereksinim farkı, kabul kriterleri ve OpenAPI örneğiyle teknik şartname rehberi.">
 
 <meta property="og:image:alt" content="Specification nedir?">
 </head>
@@ -74,11 +98,14 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-07-05">Son güncelleme: 5 Temmuz 2026</time></div>
-<h1 class="disc-title">Specification <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-22">Son güncelleme: 22 Eylül 2026</time></div>
+<h1 class="disc-title">Specification <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">Bir projenin, yazılımın veya ürünün ne yapması gerektiğini ve hangi kurallara uyması gerektiğini belirten detaylı teknik dokümandır.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Specification (kısaca &#x27;spec&#x27;), bir binanın mimari projesi gibidir. Yazılımcılar kod yazmaya başlamadan önce bu dokümana bakarak ne inşa edeceklerini anlarlar. Hataları azaltmak ve beklentileri netleştirmek için kullanılır.</p></section><div class="dict-analogy">Bir yemek tarifindeki malzeme listesi ve pişirme adımları gibidir; tarife uymazsanız yemeğin tadı farklı olur.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Proje sahipleri veya mühendisler tarafından yazılır. İçerisinde özellikler, güvenlik kuralları ve performans beklentileri yer alır.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Yazılım geliştirme süreçlerinde, ihale dosyalarında ve ürün tasarım aşamalarında kullanılır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Requirement (gereksinim) ile benzerdir; requirement &#x27;ne istiyoruz&#x27;, specification ise &#x27;bunu nasıl yapacağız&#x27; sorusuna odaklanır.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Spec değişebilir mi?</p><p class="dict-faq-a">Evet, proje ilerledikçe ihtiyaçlara göre güncellenebilir ancak bu durum genellikle maliyeti etkiler.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/spec-driven-development/">Spec-driven Development</a><a href="/dictionary/framework/">Framework</a><a href="/dictionary/tech-stack/">Tech Stack</a></div></section>
+<p class="disc-lead">Specification (kısaca <strong>spec</strong>, Türkçe karşılığıyla <strong>şartname</strong>), ürünün ne yapacağını ve kurallarını yazan teknik belgedir.</p>
+<section class="disc-sec"><h2>Tanım ve Kelime Kökeni</h2><p>Binanın mimari projesi gibidir: Yazılımcı koda başlamadan belgeye bakar, ne inşa edeceğini anlar. Hataları azaltır, beklentiyi netleştirir. API dünyasında OpenAPI, donanımda veri sayfaları (datasheet) bu işi görür.</p></section><section class="disc-sec"><h2>Gündelik Hayatta Nasıl Bilinir ve Kullanılır?</h2><p><strong>Yazılım:</strong> Özellik ve kural dokümanı.<br><strong>İhale:</strong> Teknik şartname dosyası.<br><strong>Ürün:</strong> Tasarım ve kabul ölçütü.</p></section><section class="disc-sec"><h2>Teknik Derinlik ve Mimari</h2><p>İyi spec şunları içerir:</p><p><strong>Kapsam:</strong> Neler var, neler yok.<br><strong>Kabul kriteri:</strong> Bitti sayılması için test edilebilir koşullar.<br><strong>Sınırlar:</strong> Performans, güvenlik, uyumluluk.<br><strong>Sürüm:</strong> Değişiklik geçmişi.</p><p>API ucunun spec karşılığı:</p><p><pre><code>paths:
+  /siparis:
+    post:
+      summary: Yeni sipariş oluşturur</code></pre></p><p>Kural: Ölçülemeyen madde spec değildir, dilektir. Her madde test edilebilir yazılır.</p></section><section class="disc-sec"><h2>Sık Karıştırılanlar</h2><p>Requirement ile benzerdir. Requirement ne istendiğini söyler, specification nasıl yapılacağını anlatır. Biri hedef, diğeri plandır.</p></section><section class="disc-sec"><h2>Farklı Disiplinlerde Kullanımı</h2><p><strong>Yemek tarifi:</strong> Malzeme ve adım listesi.<br><strong>Montaj kılavuzu:</strong> Parça ve sıra şeması.<br><strong>İhale:</strong> İdari ve teknik şartname.</p></section><div class="dict-analogy">Bir yemek tarifindeki malzeme listesi ve pişirme adımları gibidir; tarife uymazsanız yemeğin tadı farklı olur.</div><section class="disc-sec"><h2>Sıkça Sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Spec değişebilir mi?</p><p class="dict-faq-a">Evet, ancak her değişiklik maliyet ve takvim etkisiyle birlikte onaylanmalıdır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Spec dosyasını kim yazar?</p><p class="dict-faq-a">Ürün yöneticisi, mühendis veya analist yazar. Önemli olan tek sahip ve sürüm disiplinidir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Ne kadar detay gerekir?</p><p class="dict-faq-a">Belirsizliği bitirecek kadar. Aşırısı yazanı yorar, azı geliştiriciyi tıkar.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Agile içinde spec olur mu?</p><p class="dict-faq-a">Evet, hafifler. Kabul kriterli kullanıcı hikâyeleri ve API kontratları spec işlevi görür.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/spec-driven-development/">Spec-driven Development</a><a href="/dictionary/framework/">Framework</a><a href="/dictionary/tech-stack/">Tech Stack</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

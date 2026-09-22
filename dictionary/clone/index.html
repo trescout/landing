@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Clone nedir? · TreScout Sözlük</title>
-<meta name="description" content="İnternetteki bir yazılım projesinin tüm dosyalarını ve geçmişini kendi bilgisayarınıza kopyalama işlemidir.">
+<title>Clone Nedir, Ne Demek? Git Clone Rehberi · TreScout</title>
+<meta name="description" content="Clone nedir, Türkçe karşılığı nedir? git clone komutu, shallow clone, fork farkı ve git pull ile güncelleme rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/clone/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/clone/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/clone/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/clone/">
 <link rel="canonical" href="https://trescout.com/dictionary/clone/">
-<meta property="og:title" content="Clone nedir?">
-<meta property="og:description" content="İnternetteki bir yazılım projesinin tüm dosyalarını ve geçmişini kendi bilgisayarınıza kopyalama işlemidir.">
+<meta property="og:title" content="Clone Nedir, Ne Demek? Git Clone Rehberi · TreScout">
+<meta property="og:description" content="Clone nedir, Türkçe karşılığı nedir? git clone komutu, shallow clone, fork farkı ve git pull ile güncelleme rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/clone/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Clone nedir?">
+<meta name="twitter:title" content="Clone Nedir, Ne Demek? Git Clone Rehberi · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/clone.webp">
 <script type="application/ld+json">
 {
@@ -32,7 +32,7 @@
   "@type": "DefinedTerm",
   "name": "Clone",
   "inLanguage": "tr",
-  "description": "Genellikle GitHub gibi platformlarda bulunan açık kaynaklı bir projeyi, üzerinde çalışabilmek veya inceleyebilmek için kendi yerel ortamınıza indirmektir. Bu, sadece dosyaları indirmekten öte, projenin tüm geliştirme geçmişini de beraberinde getirir.",
+  "description": "Clone (klonlama), uzak bir Git deposunun tüm geçmişiyle birlikte yerel kopyasını oluşturma işlemidir.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -51,7 +51,31 @@
       "name": "Klonlayınca projeyi değiştirebilir miyim?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Evet, kendi bilgisayarınızdaki kopyada istediğiniz değişikliği yapabilirsiniz, ancak orijinal projeyi etkilemezsiniz."
+        "text": "Evet. Kendi kopyanızda dilediğiniz değişikliği yaparsınız. Orijinal depo etkilenmez. Değişikliğinizi projeye önermek isterseniz pull request açarsınız."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Fork ile clone arasındaki fark nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fork sunucuda kopya oluşturur (sizin hesabınızda), clone o kopyayı bilgisayarınıza indirir. Katkı akışı genellikle fork, ardından clone biçimindedir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Depo çok büyükse ne yapmalıyım?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "--depth 1 ile sığ klon alın veya yalnızca tek dalı (--single-branch) indirin. Geçmişe ihtiyaç duyarsanız sonra derinleştirebilirsiniz."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Klonu güncel tutar mıyım?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Evet. Klasör içinde git pull çalıştırmanız yeterlidir. Değişikliğiniz varsa önce onları commitlemeniz veya saklamanız (git stash) gerekir."
       }
     }
   ]
@@ -64,7 +88,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="İnternetteki bir yazılım projesinin tüm dosyalarını ve geçmişini kendi bilgisayarınıza kopyalama işlemidir.">
+<meta name="twitter:description" content="Clone nedir, Türkçe karşılığı nedir? git clone komutu, shallow clone, fork farkı ve git pull ile güncelleme rehberi.">
 
 <meta property="og:image:alt" content="Clone nedir?">
 </head>
@@ -74,12 +98,11 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-06-14">Son güncelleme: 14 Haziran 2026</time></div>
-<h1 class="disc-title">Clone <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-22">Son güncelleme: 22 Eylül 2026</time></div>
+<h1 class="disc-title">Clone <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">İnternetteki bir yazılım projesinin tüm dosyalarını ve geçmişini kendi bilgisayarınıza kopyalama işlemidir.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Genellikle GitHub gibi platformlarda bulunan açık kaynaklı bir projeyi, üzerinde çalışabilmek veya inceleyebilmek için kendi yerel ortamınıza indirmektir. Bu, sadece dosyaları indirmekten öte, projenin tüm geliştirme geçmişini de beraberinde getirir.</p></section><div class="dict-analogy">Bir kütüphanedeki kitabın sadece bir sayfasının fotoğrafını çekmek değil, kitabın tüm kopyasını kendi kütüphanenize almak gibidir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Komut satırı üzerinden &#x27;git clone&#x27; komutu ve projenin adresi kullanılarak yapılır.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Yazılım geliştiricilerin projeye başlamadan önce yaptıkları ilk işlemdir.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Klonlayınca projeyi değiştirebilir miyim?</p><p class="dict-faq-a">Evet, kendi bilgisayarınızdaki kopyada istediğiniz değişikliği yapabilirsiniz, ancak orijinal projeyi etkilemezsiniz.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/cli/">CLI</a><a href="/dictionary/open-source/">Open Source</a><a href="/dictionary/self-hosting/">Self-hosting</a></div></section>
-<section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/moneyprinterturbo/">MoneyPrinterTurbo</a><a href="/discover/voxcpm/">VoxCPM</a><a href="/discover/clone-wars/">Clone-Wars</a><a href="/discover/hermes-webui/">Hermes WebUI</a><a href="/discover/openstock/">OpenStock</a><a href="/discover/flowsint/">Flowsint</a><a href="/discover/production-agentic-rag-course/">Production Agentic RAG Course</a><a href="/discover/moss-tts/">MOSS-TTS</a></div></section>
+<p class="disc-lead">Clone (Türkçe karşılığıyla <strong>klonlama</strong>), uzak bir Git deposunun tüm geçmişiyle birlikte yerel kopyasını oluşturma işlemidir.</p>
+<section class="disc-sec"><h2>Tanım ve Kelime Kökeni</h2><p>"Clone" İngilizcede <strong>birebir kopya</strong> anlamına gelir. Git dünyasında <code>git clone</code> komutuyla kullanılır: Yalnızca güncel dosyaları değil, projenin tüm commit geçmişini, dallarını ve etiketlerini de indirirsiniz.</p></section><section class="disc-sec"><h2>Gündelik Hayatta Nasıl Bilinir ve Kullanılır?</h2><p>Açık kaynak bir projeyi incelemek veya katkı yapmak istediğinizde ilk adım genellikle klonlamaktır:</p><p><pre><code>git clone https://github.com/kullanici/proje.git</code></pre></p><p>Komut çalışınca bulunduğunuz dizinde <code>proje</code> klasörü oluşur. Depo çok büyükse geçmişin bir kısmını almak için sığ klon kullanılır:</p><p><pre><code>git clone --depth 1 https://github.com/kullanici/proje.git</code></pre></p></section><section class="disc-sec"><h2>Teknik Derinlik ve Mimari</h2><p>Klonlanan klasörün içindeki <code>.git</code> dizini, deponun hafızasıdır: Tüm commit nesneleri, dal işaretçileri ve uzak adres burada durur. Klondan sonra:</p><p><code>git fetch</code> uzak değişiklikleri indirir, dosyalarınıza dokunmaz.<br><code>git pull</code> indirir ve mevcut dalınıza birleştirir.<br><code>git push</code> sizin commitlerinizi uzağa gönderir (yetkiniz varsa).<br><code>fork</code> ise sunucu tarafında kopya oluşturur. Klon, o kopyayı veya asıl depoyu bilgisayarınıza indirir. İkisi farklı kavramlardır.</p></section><section class="disc-sec"><h2>Farklı Disiplinlerde Kullanımı</h2><p><strong>Biyoloji:</strong> Canlının genetik kopyası. Yazılımdaki klon ise verinin kopyasıdır, canlıyla ilgisi yoktur.<br><strong>Medya:</strong> Aslı dururken çalışılacak yedek kostümler.<br><strong>Sanallaştırma:</strong> Hazır kalıptan yeni makine üretme.</p></section><div class="dict-analogy">Kütüphanedeki kitabın yalnızca bir sayfasının fotoğrafını çekmek değil, kitabın tüm kopyasını kendi rafınıza almak gibidir.</div><section class="disc-sec"><h2>Sıkça Sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Klonlayınca projeyi değiştirebilir miyim?</p><p class="dict-faq-a">Evet. Kendi kopyanızda dilediğiniz değişikliği yaparsınız. Orijinal depo etkilenmez. Değişikliğinizi projeye önermek isterseniz pull request açarsınız.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Fork ile clone arasındaki fark nedir?</p><p class="dict-faq-a">Fork sunucuda kopya oluşturur (sizin hesabınızda), clone o kopyayı bilgisayarınıza indirir. Katkı akışı genellikle fork, ardından clone biçimindedir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Depo çok büyükse ne yapmalıyım?</p><p class="dict-faq-a">--depth 1 ile sığ klon alın veya yalnızca tek dalı (--single-branch) indirin. Geçmişe ihtiyaç duyarsanız sonra derinleştirebilirsiniz.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Klonu güncel tutar mıyım?</p><p class="dict-faq-a">Evet. Klasör içinde git pull çalıştırmanız yeterlidir. Değişikliğiniz varsa önce onları commitlemeniz veya saklamanız (git stash) gerekir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/cli/">CLI</a><a href="/dictionary/open-source/">Open Source</a><a href="/dictionary/self-hosting/">Self-Hosting</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

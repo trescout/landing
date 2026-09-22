@@ -1,31 +1,59 @@
-# VLM nedir?
+# VLM nedir, ne demek?
 
 > Vision Language Model
 
 **Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-09-05
+**Son güncelleme:** 2026-09-22
 
-Hem metinleri hem de görselleri aynı anda anlayıp bunlar üzerine yorum yapabilen yapay zekâ modelidir.
+VLM (**Vision Language Model**, görü-dil modeli), görsel ve metni birlikte anlayan modeldir.
 
-## Tanım
-Sadece metinle değil, gözleriyle de dünyayı algılayan bir sistemdir. Bir fotoğrafa bakıp içindeki nesneleri tanımlayabilir, bir grafiği yorumlayabilir veya el yazısı bir notu dijital metne dönüştürebilir.
+## Tanım ve Kelime Kökeni
+Metin modeline göz eklenmesidir: Fotoğrafa bakıp nesneyi tanımlar, grafiği yorumlar, el yazısını metne çevirir. Multimodal ailenin görsel-metin üyesidir.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Analiz:** Görüntü açıklama.
+- **Asistan:** Fotoğraflı soru yanıtlama.
+- **Erişilebilirlik:** Görseli sesli anlatma.
+
+## Teknik Derinlik ve Mimari
+Birleşim:
+- **Görüntü kodlayıcı:** Pikseli vektöre çevirir.
+- **Dil modeli:** Metni ve vektörü birlikte işler.
+- **Hizalama:** İkisinin eşleştiği eğitim (CLIP benzeri).
+
+Akış örneği:
+
+```
+girdi: foto + "Bu grafikteki tepe kaç?"
+çıktı: "120, mart ayında."
+```
+
+Sınır: Küçük detay ve el yazısı zorlar, kritik işte insan denetler.
+
+## Sık Karıştırılanlar
+Multimodal sanılır. Multimodal ailenin adıdır, VLM görsel-metin üyesidir. Biri küme, diğeri elemandır.
+
+## Farklı Disiplinlerde Kullanımı
+- **Okuma:** Metni sesli anlama.
+- **Altyazı:** Filme yazı ekleme.
+- **Rehber:** Müzede eser anlatma.
 
 ## Bir benzetmeyle
-Sadece okuma yazma bilen birine, hem okuma hem de görme yeteneği kazandırmak gibidir.
-
-## Nasıl çalışır?
-Model, görsel veriyi metin verisiyle birleştiren özel bir eğitim sürecinden geçer. Siz bir resim yükleyip soru sorduğunuzda, model görseldeki detayları metin bilgisiyle sentezleyerek cevap verir.
-
-## Nerede kullanılır?
-Görüntü analizinde, otomatik içerik açıklamada ve görsel tabanlı yapay zekâ asistanlarında kullanılır.
-
-## Sık karıştırılanlar
-Multimodal modellerle benzerdir; VLM, multimodal yapay zekânın görsel-metin odaklı bir alt kümesidir.
+Sadece okuyabilene görme yetisi kazandırmaya benzer.
 
 ## Sıkça sorulanlar
 
-**VLM ile klasik yapay zekâ arasındaki fark nedir?**  
-Klasik modeller sadece metin işlerken, VLM modelleri görsel veriyi de doğrudan anlayabilir.
+**Klasik modelden farkı nedir?**  
+Metne ek olarak görseli anlar. Fotoğraf sorusu yanıtlanabilir.
+
+**Nasıl eğitilir?**  
+Resim ve metin çiftleriyle hizalanır. Eşleşme arttıkça anlama artar.
+
+**Türkçe destekler mi?**  
+Modele göre değişir. Çok dilli eğitimli olanlar destekler.
+
+**Maliyeti nedir?**  
+Metin modelinden yüksektir. Görsel işlem ek yük getirir.
 
 ## İlgili terimler
 - [Multimodal](/dictionary/multimodal/)

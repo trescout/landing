@@ -1,26 +1,58 @@
-# Clean Code nedir?
+# Clean Code nedir, ne demek?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-07-03
+**Son güncelleme:** 2026-09-22
 
-Başka yazılımcıların kolayca okuyabileceği, anlaşılır, basit ve hatasız yazılmış kod yapısıdır.
+Clean code (Türkçe karşılığıyla **temiz kod**), insanın okuyabildiği koddur.
 
-## Tanım
-Temiz kod, sadece bilgisayarın değil, insanların da anlayabileceği şekilde yazılmış koddur. Karmaşık ve iç içe geçmiş yapılar yerine, isimleri anlamlı, görevleri net ve düzenli parçalara bölünmüş kodlar tercih edilir. Bu yaklaşım, projenin uzun vadede bakımını kolaylaştırır ve hataları azaltır.
+## Tanım ve Kelime Kökeni
+Makine her kodu çalıştırır, insan her kodu okuyamaz. Anlamlı isim, küçük fonksiyon ve sade akış okunabilirliği getirir. Robert Martin bu disiplinin referans adıdır.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Ekip:** Ortak kod tabanı.
+- **İnceleme:** Okunabilirlik denetimi.
+- **Bakım:** Eski koda dönüş.
+
+## Teknik Derinlik ve Mimari
+İlkeler:
+- **İsim:** Niyeti anlatan ad.
+- **Boyut:** Tek işlik fonksiyon.
+- **Tekrar:** Ortak parça tek yerde.
+
+Örnek:
+
+```
+# önce
+def h(a, b):
+    return a + a*b
+# sonra
+def indirimli_fiyat(fiyat, oran):
+    return fiyat + fiyat * oran
+```
+
+Kural: Çalışan kod ilk adım, okunan kod ikinci adımdır.
+
+## Farklı Disiplinlerde Kullanımı
+- **Raflar:** Tür ve yazara göre dizim.
+- **Masa:** Derli çalışma alanı.
+- **Bahçe:** Budanmış dal düzeni.
 
 ## Bir benzetmeyle
-Bir kütüphanedeki kitapların rastgele değil, türlerine ve yazarlarına göre düzenli raflara dizilmesi gibidir; aradığınızı anında bulursunuz.
-
-## Nasıl çalışır?
-Değişkenlere anlamlı isimler vererek, fonksiyonları tek bir iş yapacak şekilde küçülterek ve gereksiz karmaşıklıktan kaçınarak yazılır.
-
-## Nerede kullanılır?
-Profesyonel yazılım geliştirme ekiplerinin tamamında, kod kalitesini korumak için temel bir prensiptir.
+Kütüphane raflarının tür ve yazara göre dizili olması gibidir.
 
 ## Sıkça sorulanlar
 
-**Kodun çalışması yetmez mi?**  
-Kodun çalışması sadece ilk adımdır; temiz kod ise o kodun gelecekte başkası tarafından değiştirilebilir olmasını sağlar.
+**Çalışması yetmez mi?**  
+Yetmez. Çalışan kod bugünü, okunan kod yarını kurtarır.
+
+**Yavaşlatır mı?**  
+Başta evet, bakımda hayır. Toplamda kazandırır.
+
+**Nasıl ölçülür?**  
+İnceleme süresi ve hata oranıyla. Sayı tek başına yetmez.
+
+**Nereden başlanır?**  
+İsim ve fonksiyondan. Dokunulan kod temizlenir.
 
 ## İlgili terimler
 - [Refactoring](/dictionary/refactoring/)

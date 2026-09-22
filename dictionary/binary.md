@@ -1,26 +1,53 @@
-# Binary nedir?
+# Binary nedir, ne demek?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-07-08
+**Son güncelleme:** 2026-09-22
 
-Bilgisayarın sadece 0 ve 1 kullanarak anladığı en temel makine dilidir.
+Binary (Türkçe karşılığıyla **ikili**), 0 ve 1 ile çalışan makine dilidir.
 
-## Tanım
-Bilgisayarların içinde elektrik akımı ya var ya da yoktur. Bu 'var' ve 'yok' durumlarını 1 ve 0 olarak temsil ederiz. Yazdığınız tüm karmaşık programlar, en nihayetinde bilgisayar tarafından bu ikili sisteme dönüştürülerek çalıştırılır.
+## Tanım ve Kelime Kökeni
+Devrede akım ya vardır ya yoktur, karşılığı 1 ve 0 olur. Tüm programlar en derinde bu dile çevrilir. İnsanlar binary yazmaz, diller derleyiciyle çevirir.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **İşlemci:** Komut işletimi.
+- **Bellek:** Hücre değerleri.
+- **Dosya:** En derin katman.
+
+## Teknik Derinlik ve Mimari
+Birimler:
+- **Bit:** Tek 0 veya 1.
+- **Byte:** 8 bitlik grup.
+- **Kelime:** İşlemci genişliği.
+
+Örnek, 13 sayısı:
+
+```
+13 = 1101 (8+4+0+1)
+```
+
+Neden ikili: İki durumu ayırt etmek çok durumdan kararlı ve hızlıdır. Üçlü denemeler tarihe karıştı.
+
+## Farklı Disiplinlerde Kullanımı
+- **Lamba:** Açık ve kapalı.
+- **Mors:** Nokta ve çizgi.
+- **Anahtar:** İleri ve geri.
 
 ## Bir benzetmeyle
-Bir lambanın sadece açık veya kapalı olması gibi; bilgisayar da tüm dünyayı sadece açık ve kapalı anahtarların birleşimiyle anlar.
-
-## Nasıl çalışır?
-İnsanlar doğrudan binary yazmazlar; programlama dilleri, yazdığımız metinleri derleyiciler aracılığıyla binary formatına çevirir.
-
-## Nerede kullanılır?
-İşlemciler, bellek yönetimi ve dosya formatlarının en derin katmanlarında bulunur.
+Lambanın açık veya kapalı olması gibidir; bilgisayar dünyayı anahtarlarla anlar.
 
 ## Sıkça sorulanlar
 
 **Neden sadece 0 ve 1?**  
-Çünkü elektronik devrelerde iki durumu (voltaj var/yok) ayırt etmek, daha fazla durumu ayırt etmekten çok daha kararlı ve hızlıdır.
+İki durumu ayırt etmek kararlı ve hızlıdır. Fazlası hata ve maliyet üretir.
+
+**Byte nedir?**  
+8 bitlik gruptur. Karakter ve küçük sayıların birimidir.
+
+**İnsanlar okur mu?**  
+Nadiren. Hata ayıklamada onaltılık görünüm kullanılır, ikiliğe inilmez.
+
+**Üçlü sistem olmaz mı?**  
+Denendi, tutmadı. İkili sadelikte kazandı.
 
 ## İlgili terimler
 - [Compiler](/dictionary/compiler/)

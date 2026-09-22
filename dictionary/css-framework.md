@@ -1,29 +1,57 @@
-# CSS Framework nedir?
+# CSS Framework nedir, ne demek?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-08-06
+**Son güncelleme:** 2026-09-22
 
-Web sayfalarının görünümünü hızlıca güzelleştirmek için hazır tasarım şablonları ve kuralları sunan bir araç setidir.
+CSS framework (Türkçe karşılığıyla **CSS çatısı**), hazır stiller sunan araç setidir.
 
-## Tanım
-Web sitesi yaparken butonların, menülerin veya yazı tiplerinin nasıl görüneceğini sıfırdan yazmak yerine, bu frameworklerin sunduğu hazır yapıları kullanırsınız. Bu, profesyonel görünümlü siteleri çok daha kısa sürede yapmanızı sağlar.
+## Tanım ve Kelime Kökeni
+Düğme, menü ve yazı tipini sıfırdan yazmak yerine hazır sınıf kullanılır. Profesyonel görünüm kısa sürede çıkar. Tailwind, Bootstrap ve Bulma bilinen örnekleridir.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Site:** Hızlı arayüz kurma.
+- **Panel:** Yönetim ekranları.
+- **Prototip:** Fikir denemesi.
+
+## Teknik Derinlik ve Mimari
+Yaklaşımlar:
+- **Bileşenli:** Hazır düğme ve kart.
+- **Utility-first:** Küçük sınıfların birleşimi.
+
+Örnek düğme:
+
+```
+<button class="rounded bg-blue-600 px-4 py-2 text-white">
+  Kaydet
+</button>
+```
+
+Benzerlik korkusu yersizdir: Renk ve tip değişince yüz değişir. Performans için kullanılmayan stil ayıklanır.
+
+## Sık Karıştırılanlar
+Utility-first sanılır. O yaklaşımdır, framework araçtır. Araç yaklaşımı destekler veya desteklemez.
+
+## Farklı Disiplinlerde Kullanımı
+- **Kapı seti:** Hazır kasa ve kanat.
+- **Lego:** Birleşen parçalar.
+- **Hazır yemek:** Isıtılan tabak.
 
 ## Bir benzetmeyle
-Bir ev inşa ederken hazır kapı, pencere ve mobilya setleri kullanmak gibidir; temel yapıyı siz kurarsınız ama detayları hazır setten seçersiniz.
-
-## Nasıl çalışır?
-Framework'ün dosyalarını projenize eklersiniz ve sunduğu hazır isimleri kodlarınızda kullanırsınız.
-
-## Nerede kullanılır?
-Web sitelerinin arayüz geliştirme süreçlerinde kullanılır.
-
-## Sık karıştırılanlar
-Utility-first ile karıştırılabilir; utility-first bir yaklaşım, framework ise bu yaklaşımı destekleyen veya desteklemeyen bir araçtır.
+Ev kurarken hazır kapı ve mobilya seti seçmeye benzer.
 
 ## Sıkça sorulanlar
 
-**Her site birbirine benzemez mi?**  
-Frameworkler esnektir; kendi renklerinizi ve tarzınızı ekleyerek özgün tasarımlar yapabilirsiniz.
+**Siteler benzemez mi?**  
+Benzemez. Renk, tip ve düzen değişince kimlik değişir.
+
+**Ne zaman kullanılır?**  
+Hız gereken işte. Özel tasarımda el işçiliği seçilir.
+
+**Performansı nedir?**  
+Kullanılmayan stil ayıklanırsa hafiftir. Ham hali şişirir.
+
+**Hangisi seçilmeli?**  
+Ekip alışkanlığı belirler. Dokümantasyon ve topluluk aranır.
 
 ## İlgili terimler
 - [Utility-first](/dictionary/utility-first/)

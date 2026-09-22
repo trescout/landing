@@ -1,32 +1,51 @@
-# Face Swapping nedir?
+# Face Swapping nedir, ne demek?
 
 **Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-07-30
+**Son güncelleme:** 2026-09-22
 
-Bir görüntüdeki veya videodaki yüzü, yapay zekâ kullanarak başka bir kişinin yüzüyle değiştirme işlemi.
+Face swapping (Türkçe karşılığıyla **yüz değiştirme**), bir yüzdeki ifadeyi başka yüze videoda aktarma işlemidir.
 
-## Tanım
-Face swapping, bir videoda veya fotoğrafta yer alan kişinin yüzünü alıp, başka bir kişinin yüzüyle kusursuz bir şekilde değiştiren bir teknolojidir. Yapay zekâ, yüz hatlarını, ışığı ve açıyı eşleştirerek değişimin doğal görünmesini sağlar. Genellikle eğlence ve görsel efekt amaçlı kullanılır.
+## Tanım ve Kelime Kökeni
+Model, kaynak yüzün hatlarını, ışığını ve açısını hedef videoyla eşleştirir. Sonuç doğal görünür, ancak her zaman iz bırakır. Eğlence ve efekt işlerinde kullanılır, izinsiz kullanımda hukuki sorun doğar.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Filtreler:** Sosyal medya yüz efektleri.
+- **Sinema:** Gençleştirme ve dublör sahneleri.
+- **Eğlence:** Mizah uygulamaları.
+
+## Teknik Derinlik ve Mimari
+Hat şöyledir:
+- **Nokta eşleme:** Göz, burun ve ağız konumu bulunur.
+- **Hizalama:** Kaynak yüz hedef açıya döndürülür.
+- **Işık uyumu:** Renk ve gölge eşitlenir.
+- **Karıştırma:** Kenarlar yumuşatılır.
+
+Tespit ipuçları: Göz kırpma ritmi, kenar bulanıklığı ve ışık tutarsızlığı incelenir. İzin kuralı nettir: Başkasının yüzü izinsiz kullanılmaz.
+
+## Sık Karıştırılanlar
+Deepfake ile benzerdir. Deepfake ses ve senaryo da üretir, face swapping genellikle yüz aktarımına odaklanır. İkisi de izin gerektirir.
+
+## Farklı Disiplinlerde Kullanımı
+- **Tiyatro:** Mimikle hareket eden maske.
+- **Dublör:** Tehlikeli sahnede yüz değişimi.
+- **Fotomontaj:** Karede yüz birleştirme.
 
 ## Bir benzetmeyle
-Bir tiyatro oyununda oyuncunun yüzüne gerçekçi bir maske oturtup, o maskenin oyuncunun tüm mimikleriyle birlikte hareket etmesini sağlamak gibidir.
-
-## Nasıl çalışır?
-Yapay zekâ, iki yüz arasındaki temel noktaları (gözler, burun, ağız) eşleştirir ve hedef videodaki ışıklandırmaya göre yeni yüzü videoya işler.
-
-## Nerede kullanılır?
-Sosyal medya filtrelerinde, film post-prodüksiyon süreçlerinde ve eğlence uygulamalarında kullanılır.
-
-## Sık karıştırılanlar
-Deepfake ile benzerdir ancak face swapping genellikle sadece yüzün yer değiştirmesine odaklanır.
+Tiyatroda oyuncunun yüzüne oturan ve tüm mimiklerle hareket eden gerçekçi maske gibidir.
 
 ## Sıkça sorulanlar
 
-**Face swapping için yüksek donanım gerekir mi?**  
-Basit uygulamalar telefonda çalışabilir ancak profesyonel sonuçlar için güçlü ekran kartları gerekir.
+**Yüksek donanım gerekir mi?**  
+Basit uygulamalar telefonda çalışır, profesyonel sonuç güçlü ekran kartı ister.
 
 **Her açıda çalışır mı?**  
-Yüzün tam göründüğü açılarda en iyi sonucu verir; profil veya çok keskin açılarda hata yapabilir.
+Tam görünen yüzde iyidir, profil ve keskin açıda hata artar.
+
+**Yasal mıdır?**  
+Kendi yüzünüzde ve izinli işlerde evet. İzinsiz kullanım kişilik hakkı ihlalidir.
+
+**Sahte olduğu nasıl anlaşılır?**  
+Göz ritmi, kenar yumuşaklığı ve ışık uyumu incelenir. Tespit araçları da vardır.
 
 ## İlgili terimler
 - [Deepfake](/dictionary/deepfake/)

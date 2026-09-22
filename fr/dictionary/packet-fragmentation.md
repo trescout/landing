@@ -20,7 +20,7 @@ L'appareil de réception se rend compte qu'il manque des pièces et demande à l
 
 
 ## Termes liés
-- [Networking Stack](/fr/dictionary/networking-stack/)
+- [Network Stack](/fr/dictionary/network-stack/)
 - [DNS Tunneling](/fr/dictionary/dns-tunneling/)
 
 ## Outils liés

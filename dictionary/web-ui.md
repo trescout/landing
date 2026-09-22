@@ -1,34 +1,58 @@
-# Web UI nedir?
+# Web UI nedir, ne demek?
 
 > Web User Interface
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-07-24
+**Son güncelleme:** 2026-09-22
 
-Bir yazılımı bilgisayarınıza kurmak yerine internet tarayıcısı üzerinden kullanmanıza olanak tanıyan görsel arayüz.
+Web UI (**Web User Interface**, web arayüzü), uygulamanın tarayıcıda görünen kontrol yüzüdür.
 
-## Tanım
-Web UI, bir uygulamanın düğmelerini, menülerini ve grafiklerini tarayıcınızın içinde görmenizi sağlar. Herhangi bir özel kurulum yapmadan, sadece bir web sitesine girer gibi uygulamaya erişebilirsiniz. Bu, yazılımın güncellemelerinin sizin tarafınızdan değil, sunucu tarafında yönetilmesini sağlar.
+## Tanım ve Kelime Kökeni
+Düğmeler, menüler ve grafikler tarayıcıda çizilir. Kurulum gerekmez, adrese gidilir. Güncellemeler sunucuda yapılır, kullanıcı tarafı tazelenir.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **E-posta:** Tarayıcıda posta kutusu.
+- **Sohbet:** Yapay zekâ bot ekranı.
+- **Düzenleme:** Çevrimiçi tasarım araçları.
+
+## Teknik Derinlik ve Mimari
+Katmanlar:
+- **İstemci:** Gördüğünüz yüz, HTML ve CSS ile çizilir.
+- **Sunucu:** İş mantığı ve veri.
+- **API:** İkisi arası köprü.
+
+Basit düğme:
+
+```
+<button type="submit">Gönder</button>
+```
+
+Erişilebilirlik kuralı: Klavye ile gezilebilen, ekran okuyucuya anlamlı yüz tercih edilir.
+
+## Sık Karıştırılanlar
+Web sitesi sanılır. Site içerik sunar, Web UI uygulama yönetir. Biri broşür, diğeri kontrol panelidir.
+
+## Farklı Disiplinlerde Kullanımı
+- **Restoran menüsü:** Seçim ve sipariş yüzü.
+- **Kokpit:** Gösterge ve düğme düzeni.
+- **Kumanda:** Cihaz kontrol paneli.
 
 ## Bir benzetmeyle
-Bir restoranın mutfağına girip yemek yapmak yerine, önünüze gelen menüden seçim yapıp garsonun siparişi getirmesini beklediğiniz masaya benzer.
-
-## Nasıl çalışır?
-Tarayıcınızı açıp ilgili adrese gidersiniz ve karşınıza çıkan görsel paneli kullanmaya başlarsınız. Arka planda çalışan kodlar sunucudadır, siz sadece ekrandaki etkileşimli öğelerle işlem yaparsınız.
-
-## Nerede kullanılır?
-E-posta servisleri, yapay zeka sohbet botları ve çevrimiçi düzenleme araçlarının neredeyse tamamında kullanılır.
-
-## Sık karıştırılanlar
-Web sitesi ile karıştırılabilir; ancak Web UI, bir sitenin içeriğinden ziyade bir uygulamanın kontrol panelini ifade eder.
+Restoran mutfağına girmek yerine menüden seçip garsonu beklemeye benzer.
 
 ## Sıkça sorulanlar
 
-**Web UI kullanmak için internet gerekli mi?**  
-Evet, çünkü arayüzün işlevleri genellikle uzak bir sunucuyla bağlantılıdır.
+**İnternet gerekli mi?**  
+Genellikle evet. İşlevler uzak sunucuya bağlıdır, çevrimdışı kip sınırlıdır.
 
-**Herhangi bir tarayıcıda çalışır mı?**  
-Modern tarayıcıların çoğu ile uyumludur, ancak geliştirici tercihine göre farklılık gösterebilir.
+**Her tarayıcıda çalışır mı?**  
+Modern tarayıcılarda evet. Eski sürümlerde görünüm bozulabilir.
+
+**Çevrimdışı çalışır mı?**  
+Kısmen. Önbelleğe alınan bölümler açılır, canlı işlem için bağlantı gerekir.
+
+**API farkı nedir?**  
+API makineye veri verir, Web UI insana yüz verir. İkisi birlikte çalışır.
 
 ## İlgili terimler
 - [User Interface](/dictionary/user-interface/)

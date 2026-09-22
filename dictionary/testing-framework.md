@@ -1,26 +1,55 @@
-# Testing Framework nedir?
+# Testing Framework nedir, ne demek?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-06-14
+**Son güncelleme:** 2026-09-22
 
-Yazılım testlerini düzenli, hızlı ve kolay bir şekilde yazıp çalıştırmanızı sağlayan hazır araçlar bütünüdür.
+Testing framework (Türkçe karşılığıyla **test çatısı**), test yazıp koşturan hazır altyapıdır.
 
-## Tanım
-Test yazarken sürekli aynı kodları yazmak yerine, size hazır kurallar ve yapılar sunan bir kütüphanedir. Testlerin sonuçlarını raporlar, hataları gösterir ve süreci standartlaştırır. Yazılımcıların işini kolaylaştıran bir yardımcı araç setidir.
+## Tanım ve Kelime Kökeni
+"Framework" **çatı** demektir. Tek tek komut yazmak yerine kurallar ve koşucu hazır gelir. Sonuç raporlanır, hata işaretlenir. Test düzeni standartlaşır.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Geliştirme:** Her committe koşan set.
+- **CI:** Hattaki kalite kapısı.
+- **Sürüm:** Yayın öncesi tarama.
+
+## Teknik Derinlik ve Mimari
+Parçalar:
+- **Koşucu (Runner):** Testleri bulup çalıştırır.
+- **İddia (Assertion):** Beklenenle gerçek kıyaslanır.
+- **Rapor:** Geçen ve kalan listesi.
+
+Örnek:
+
+```
+test("toplama", () => {
+  expect(topla(2, 3)).toBe(5);
+});
+```
+
+Seçim ölçütü: Dil uyumu, topluluk ve CI desteği. Popüler olan bakımlı olur.
+
+## Farklı Disiplinlerde Kullanımı
+- **Alet çantası:** İşe göre takım.
+- **Ölçü seti:** Kalibreli aletler.
+- **Spor salonu:** Programlı ekipman.
 
 ## Bir benzetmeyle
-Sadece bir tornavida ile değil, tüm tamir aletlerinin olduğu düzenli bir çanta ile işe başlamak gibidir.
-
-## Nasıl çalışır?
-Projenize bu aracı dahil edersiniz ve size sunduğu komutlarla testlerinizi yazarsınız. Araç, testlerinizi otomatik olarak çalıştırır ve hangilerinin başarılı veya başarısız olduğunu size listeler.
-
-## Nerede kullanılır?
-Yazılım geliştirme projelerinde, özellikle sürekli güncellenen sistemlerde kullanılır.
+Tek tornavida yerine düzenli alet çantasıyla işe başlamaya benzer.
 
 ## Sıkça sorulanlar
 
-**Hangi framework'ü seçmeliyim?**  
-Kullandığınız programlama diline ve projenin ihtiyaçlarına göre en popüler olanı seçmek genellikle en iyisidir.
+**Hangisi seçilmeli?**  
+Dile ve ihtiyaca göre popüler olanı. Bakım ve dokümantasyon belirleyicidir.
+
+**Ne zaman yazılır?**  
+Kodla birlikte. Sonraya kalan test yarım kalır.
+
+**E2E farkı nedir?**  
+Birim parça dener, uçtan uca yolculuğu dener. İkisi birlikte kullanılır.
+
+**Kapsam hedefi nedir?**  
+Ekipçe belirlenir. Kritik yol yüksek, kenar düşük tutulur.
 
 ## İlgili terimler
 - [Unit Testing](/dictionary/unit-testing/)

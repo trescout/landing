@@ -1,32 +1,51 @@
-# Continuous Batching nedir?
+# Continuous Batching nedir, ne demek?
 
 **Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-08-18
+**Son güncelleme:** 2026-09-22
 
-Yapay zekâ modellerinin gelen istekleri bekletmeden, sürekli ve akıcı bir şekilde işlemesini sağlayan bir optimizasyon yöntemidir.
+Continuous batching (Türkçe karşılığıyla **sürekli gruplama**), istekleri bekletmeden motora alan tekniktir.
 
-## Tanım
-Normalde yapay zekâ modelleri istekleri gruplar halinde işler ve bir grubun bitmesini bekler. Sürekli gruplama yöntemi ise, sistemin yeni gelen istekleri mevcut işlem bitmeden sürece dahil etmesine olanak tanır. Bu sayede kullanıcılar cevapları daha hızlı ve beklemeden alır.
+## Tanım ve Kelime Kökeni
+Klasik grup bitmeden yeni istek girer. Donanım boş kalmaz, cevap hızlı döner. Sohbet botu ve yoğun servislerin motor odasıdır.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Sohbet:** Anlık yanıt hattı.
+- **API:** Yoğun uçlar.
+- **Bulut:** Maliyetli GPU kuyruğu.
+
+## Teknik Derinlik ve Mimari
+Akış:
+
+```
+gelen → boş çekirdeğe yerleş → biten çıkar → yeni girer
+```
+
+Kazanç: Verim ve gecikme düşer. Sınır: Adil kuyruk gerekir, aç istek takılır. vLLM bilinen uygulayıcısıdır.
+
+## Sık Karıştırılanlar
+Hız sanılır. Oysa konu verimdir: Aynı donanımla çok iş yapılır. Hız yan üründür.
+
+## Farklı Disiplinlerde Kullanımı
+- **Şef:** Masaları bekletmeden pişirme.
+- **Otobüs:** Doldukça kalkmayan ring.
+- **Asansör:** Ara kat yolcusu alma.
 
 ## Bir benzetmeyle
-Bir restoranda mutfağın sadece bir masanın tüm yemeklerini bitirip sonra diğerine geçmesi yerine, her masadan gelen siparişleri sürekli olarak pişirmeye devam eden bir şef gibidir.
-
-## Nasıl çalışır?
-Modelin işlem kapasitesi boş kaldığı anda, sırada bekleyen yeni istekler hemen sisteme enjekte edilir. Bu, donanım kaynaklarının her an tam verimle çalışmasını sağlar.
-
-## Nerede kullanılır?
-ChatGPT gibi sohbet botlarının arka planında ve yüksek trafikli yapay zekâ servislerinde kullanılır.
-
-## Sık karıştırılanlar
-Sadece işlem hızıyla karıştırılabilir, ancak bu yöntem özellikle verimlilikle ilgilidir.
+Tek masayı bitirmeden her masaya servis veren şef gibidir.
 
 ## Sıkça sorulanlar
 
 **Neden önemli?**  
-Kullanıcıların bekleme süresini azaltır ve sunucu maliyetlerini düşürür.
+Bekleme düşer, maliyet düşer. Yoğun hatta fark açılır.
 
 **Her modelde var mı?**  
-Hayır, bu genellikle gelişmiş çıkarım motorlarının bir özelliğidir.
+Hayır. Gelişmiş motorların özelliğidir.
+
+**Gecikme ne olur?**  
+Ortalama düşer, kuyruk adaleti gözetilir.
+
+**Ne zaman gerekir?**  
+Eşzamanlı istek artınca. Düşük yükte fark edilmez.
 
 ## İlgili terimler
 - [Inference Engine](/dictionary/inference-engine/)

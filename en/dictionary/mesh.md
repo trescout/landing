@@ -20,7 +20,7 @@ Since they are not connected to a single point, the risk of system collapse is m
 
 ## Related terms
 - [Service Mesh](/en/dictionary/service-mesh/)
-- [Networking Stack](/en/dictionary/networking-stack/)
+- [Network Stack](/en/dictionary/network-stack/)
 - [Distributed](/en/dictionary/distributed/)
 
 ## Related tools

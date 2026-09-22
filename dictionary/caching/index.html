@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Caching nedir? · TreScout Sözlük</title>
-<meta name="description" content="Sık kullanılan verilerin, hızlı erişim sağlamak amacıyla geçici olarak bellekte saklanmasıdır.">
+<title>Caching Nedir? Önbellek Stratejileri Rehberi · TreScout</title>
+<meta name="description" content="Caching nedir, ne demek? LRU, TTL, Cache-Control örneği ve tutarlılık notuyla önbellek rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/dictionary/caching/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/caching/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="es" href="https://trescout.com/es/dictionary/caching/">
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/caching/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/caching/">
-<meta property="og:title" content="Caching nedir?">
-<meta property="og:description" content="Sık kullanılan verilerin, hızlı erişim sağlamak amacıyla geçici olarak bellekte saklanmasıdır.">
+<meta property="og:title" content="Caching Nedir? Önbellek Stratejileri Rehberi · TreScout">
+<meta property="og:description" content="Caching nedir, ne demek? LRU, TTL, Cache-Control örneği ve tutarlılık notuyla önbellek rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/caching/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Caching nedir?">
+<meta name="twitter:title" content="Caching Nedir? Önbellek Stratejileri Rehberi · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/caching.webp">
 <script type="application/ld+json">
 {
@@ -32,7 +32,7 @@
   "@type": "DefinedTerm",
   "name": "Caching",
   "inLanguage": "tr",
-  "description": "Caching, bir sistemin aynı veriyi tekrar tekrar hesaplamasını veya uzak bir kaynaktan çekmesini engellemek için kullanılan bir hızlandırma yöntemidir. Veri, hızlı erişilebilen bir alana (önbelleğe) kopyalanır ve ihtiyaç duyulduğunda buradan sunulur. Bu, sistemin genel yanıt süresini ciddi oranda düşürür.",
+  "description": "Caching (önbellekleme), sık veriyi hızlı kata kopyalamadır.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -51,7 +51,31 @@
       "name": "Önbellek dolarsa ne olur?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Eski veya az kullanılan veriler silinir ve yerlerine yeni veriler yazılır."
+        "text": "Eski ve az kullanılan düşer, yenisi yazılır. Politika bunu yönetir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Ne zaman temizlenir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Süre dolunca, kapasite taşınca veya elle. Kritik veri kısa süreli tutulur."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Tutarsızlık olur mu?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Olabilir. Kaynak değişince kopya eskir, sürüm ve süre disiplini gerekir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Nerede tutulur?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bellek, disk veya CDN ucunda. Hız ve kapasite dengesine göre seçilir."
       }
     }
   ]
@@ -64,7 +88,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Sık kullanılan verilerin, hızlı erişim sağlamak amacıyla geçici olarak bellekte saklanmasıdır.">
+<meta name="twitter:description" content="Caching nedir, ne demek? LRU, TTL, Cache-Control örneği ve tutarlılık notuyla önbellek rehberi.">
 
 <meta property="og:image:alt" content="Caching nedir?">
 </head>
@@ -74,12 +98,11 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Veri &amp; Altyapı</span><time class="dict-time" datetime="2026-08-07">Son güncelleme: 7 Ağustos 2026</time></div>
-<h1 class="disc-title">Caching <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Veri &amp; Altyapı</span><time class="dict-time" datetime="2026-09-22">Son güncelleme: 22 Eylül 2026</time></div>
+<h1 class="disc-title">Caching <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">Sık kullanılan verilerin, hızlı erişim sağlamak amacıyla geçici olarak bellekte saklanmasıdır.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Caching, bir sistemin aynı veriyi tekrar tekrar hesaplamasını veya uzak bir kaynaktan çekmesini engellemek için kullanılan bir hızlandırma yöntemidir. Veri, hızlı erişilebilen bir alana (önbelleğe) kopyalanır ve ihtiyaç duyulduğunda buradan sunulur. Bu, sistemin genel yanıt süresini ciddi oranda düşürür.</p></section><div class="dict-analogy">Sürekli kullandığınız bir kitabı çantanızda taşımak gibidir; her seferinde kütüphaneye gidip kitabı raftan almanız gerekmez, elinizin altındadır.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Sistem, bir veriyi talep ettiğinde önce önbelleğe bakar; veri oradaysa hemen alır, yoksa ana kaynaktan çeker ve bir kopyasını önbelleğe bırakır.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Web tarayıcılarında, uygulamalarda ve büyük ölçekli veri merkezlerinde performansı artırmak için yaygın olarak kullanılır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Veritabanı ile karıştırılabilir ancak cache geçici ve hızlıdır, veritabanı ise kalıcı ve daha geniştir.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Önbellek dolarsa ne olur?</p><p class="dict-faq-a">Eski veya az kullanılan veriler silinir ve yerlerine yeni veriler yazılır.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/kv-cache/">KV Cache</a><a href="/dictionary/prefix-cache/">Prefix Cache</a><a href="/dictionary/database/">Database</a></div></section>
-<section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/guava/">Guava</a><a href="/discover/omlx/">Omlx</a></div></section>
+<p class="disc-lead">Caching (Türkçe karşılığıyla <strong>önbellekleme</strong>), sık veriyi hızlı kata kopyalamadır.</p>
+<section class="disc-sec"><h2>Tanım ve Kelime Kökeni</h2><p>"Cache" <strong>saklı stok</strong> demektir. Sistem aynı veriyi tekrar hesaplamak yerine kopyasından verir. Yanıt süresi düşer, yük hafifler. Tarayıcıdan veri merkezine her katta çalışır.</p></section><section class="disc-sec"><h2>Gündelik Hayatta Nasıl Bilinir ve Kullanılır?</h2><p><strong>Tarayıcı:</strong> Sayfa ve resim saklama.<br><strong>Uygulama:</strong> Çevrimdışı kopya.<br><strong>Sunucu:</strong> Sorgu sonucu saklama.</p></section><section class="disc-sec"><h2>Teknik Derinlik ve Mimari</h2><p>Stratejiler:</p><p><strong>LRU:</strong> En eski kullanılmayan çıkar.<br><strong>TTL:</strong> Süresi dolan düşer.<br><strong>Cache-aside:</strong> Uygulama yönetir.</p><p>Tarayıcı yönergesi:</p><p><pre><code>Cache-Control: public, max-age=3600</code></pre></p><p>Bu satır kopyanın bir saat geçerli olduğunu söyler. Tutarlılık bedeli vardır: Kaynak değişince kopya eskir, kritik veride süre kısa tutulur.</p></section><section class="disc-sec"><h2>Sık Karıştırılanlar</h2><p>Veritabanı sanılır. Veritabanı kalıcı ve geniştir, önbellek geçici ve hızlıdır. Biri kasa, diğeri cep cüzdanıdır.</p></section><section class="disc-sec"><h2>Farklı Disiplinlerde Kullanımı</h2><p><strong>Çanta:</strong> Sık kitap el altında.<br><strong>Buzdolabı:</strong> Günlük yemek önde.<br><strong>Kiler:</strong> Toplu stok arkada.</p></section><div class="dict-analogy">Sık kullanılan kitabı çantada taşımak gibidir; her seferinde kütüphaneye gidilmez.</div><section class="disc-sec"><h2>Sıkça Sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Önbellek dolarsa ne olur?</p><p class="dict-faq-a">Eski ve az kullanılan düşer, yenisi yazılır. Politika bunu yönetir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Ne zaman temizlenir?</p><p class="dict-faq-a">Süre dolunca, kapasite taşınca veya elle. Kritik veri kısa süreli tutulur.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Tutarsızlık olur mu?</p><p class="dict-faq-a">Olabilir. Kaynak değişince kopya eskir, sürüm ve süre disiplini gerekir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Nerede tutulur?</p><p class="dict-faq-a">Bellek, disk veya CDN ucunda. Hız ve kapasite dengesine göre seçilir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/kv-cache/">KV Cache</a><a href="/dictionary/prefix-cache/">Prefix Cache</a><a href="/dictionary/database/">Database</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

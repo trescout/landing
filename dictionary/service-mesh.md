@@ -1,26 +1,57 @@
-# Service Mesh nedir?
+# Service Mesh nedir, ne demek?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-06-14
+**Son güncelleme:** 2026-09-22
 
-Karmaşık yazılım sistemlerinde, farklı servislerin birbirleriyle güvenli ve düzenli iletişim kurmasını sağlayan bir altyapı katmanıdır.
+Service mesh, mikro hizmetlerin trafiğini yöneten görünmez altyapı katmanıdır.
 
-## Tanım
-Yüzlerce küçük parçadan oluşan bir sistemde bu parçaların birbirini bulması ve güvenli konuşması zordur. Service mesh, bu iletişimi yöneten, trafiği düzenleyen ve güvenlik duvarı gibi çalışan görünmez bir ağdır.
+## Tanım ve Kelime Kökeni
+Yüzlerce parçalı sistemde parçaların birbirini bulması ve güvenli konuşması zordur. Service mesh iletişimi yönetir, trafiği düzenler, güvenliği sağlar. Koda dokunmadan ağ politikası uygular.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Bulut:** Mikro hizmetli büyük uygulamalar.
+- **Banka:** Sıkı güvenlikli servis trafiği.
+- **E-ticaret:** Kampanya yükü altında sipariş hattı.
+
+## Teknik Derinlik ve Mimari
+Parçalar:
+- **Sidecar:** Her servisin yanındaki küçük vekil, trafik buradan akar.
+- **Control plane:** Kuralları dağıtan beyin.
+- **Data plane:** İşi yapan vekiller.
+- **mTLS:** Servisler arası şifreli kimlik.
+- **Dayanıklılık:** Yeniden deneme ve devre kesici.
+
+Yeniden deneme kuralı:
+
+```
+retries:
+  attempts: 3
+  perTryTimeout: 2s
+```
+
+Istio ve Linkerd bilinen uygulamalarıdır. Küçük sistemde maliyeti faydasını aşar.
+
+## Farklı Disiplinlerde Kullanımı
+- **Havaalanı:** Uçakları çarpıştırmayan kule.
+- **Trafik:** Akışı düzenleyen sinyal ağı.
+- **Posta:** Gönderiyi ayıran dağıtım merkezi.
 
 ## Bir benzetmeyle
-Büyük bir havaalanındaki uçuş trafiğini yöneten kule gibidir; uçakların (servislerin) birbirine çarpmadan ve güvenli bir şekilde hareket etmesini sağlar.
-
-## Nasıl çalışır?
-Uygulamanızın yanına küçük bir yardımcı araç yerleştirilir. Tüm iletişim bu araç üzerinden geçer, böylece ana kodunuzu değiştirmeden trafik yönetimi yapabilirsiniz.
-
-## Nerede kullanılır?
-Mikro hizmet mimarisine sahip büyük ölçekli bulut uygulamalarında kullanılır.
+Büyük bir havaalanındaki uçuş trafiğini yöneten kule gibidir; servislerin birbirine çarpmadan güvenli hareket etmesini sağlar.
 
 ## Sıkça sorulanlar
 
 **Her projeye gerekli mi?**  
-Hayır, sadece çok fazla parçadan oluşan büyük sistemlerde karmaşayı yönetmek için gereklidir.
+Hayır. Az servisli sistemde yük getirir. Karmaşa büyüyünce anlam kazanır.
+
+**Maliyeti nedir?**  
+Vekil başına bellek ve gecikme ekler. Gözlemlenebilirlik kazancı karşılığında ödenir.
+
+**Kubernetes şart mı?**  
+Hayır, ama çoğunlukla birlikte kullanılır. Sanal makinelerde de koşan sürümler vardır.
+
+**API gateway yerine geçer mi?**  
+Hayır. Gateway dış kapıdır, mesh iç trafiktir. İkisi birlikte çalışır.
 
 ## İlgili terimler
 - [Cloud Native](/dictionary/cloud-native/)

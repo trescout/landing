@@ -26,7 +26,7 @@ As the number of devices increases, the coverage area of ​​the network also 
 
 ## Related terms
 - [Mesh](/en/dictionary/mesh/)
-- [Networking Stack](/en/dictionary/networking-stack/)
+- [Network Stack](/en/dictionary/network-stack/)
 
 ## Related tools
 - [Bitchat](/en/discover/bitchat/)

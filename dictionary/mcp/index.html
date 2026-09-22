@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>MCP nedir? · Model Context Protocol · TreScout Sözlük</title>
-<meta name="description" content="Yapay zekâ modellerinin dış dünyadaki verilerle güvenli şekilde konuşmasını sağlayan standarttır.">
+<title>MCP Nedir? Model Context Protocol Mimarisi ve Kullanımı · TreScout</title>
+<meta name="description" content="MCP nedir, ne demek? Host, client, server mimarisi, tool ve resource yapısıyla Model Context Protocol rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/mcp/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/mcp/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/mcp/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/mcp/">
 <link rel="canonical" href="https://trescout.com/dictionary/mcp/">
-<meta property="og:title" content="MCP nedir?">
-<meta property="og:description" content="Yapay zekâ modellerinin dış dünyadaki verilerle güvenli şekilde konuşmasını sağlayan standarttır.">
+<meta property="og:title" content="MCP Nedir? Model Context Protocol Mimarisi ve Kullanımı · TreScout">
+<meta property="og:description" content="MCP nedir, ne demek? Host, client, server mimarisi, tool ve resource yapısıyla Model Context Protocol rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/mcp/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="MCP nedir?">
+<meta name="twitter:title" content="MCP Nedir? Model Context Protocol Mimarisi ve Kullanımı · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/mcp.webp">
 <script type="application/ld+json">
 {
@@ -33,7 +33,7 @@
   "name": "MCP",
   "alternateName": "Model Context Protocol",
   "inLanguage": "tr",
-  "description": "Model Context Protocol (MCP), yapay zekâ modellerinin dış dünyadaki verilerle ve yazılımlarla güvenli bir şekilde konuşmasını sağlayan evrensel bir köprüdür. Farklı uygulamaların yapay zekâ ile aynı dili konuşmasını sağlar.",
+  "description": "MCP (Model Context Protocol), yapay zekâ uygulamalarının dış veri ve araçlara standart yolla bağlanmasını sağlayan açık protokoldür.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -52,7 +52,7 @@
       "name": "MCP neden gereklidir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Her uygulama için ayrı bağlantı kurmak yerine standart bir yol izleyerek güvenliği ve verimliliği artırır."
+        "text": "Her uygulama için ayrı bağlantı yazmak yerine standart yol izlenir. Bu, güvenliği ve bakımı kolaylaştırır."
       }
     },
     {
@@ -60,7 +60,23 @@
       "name": "MCP açık kaynak mı?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Evet, yapay zekâ ekosisteminin birlikte çalışabilirliğini artırmak için geliştirilmiş açık bir standarttır."
+        "text": "Evet. Açık standarttır, farklı uygulamalar kendi istemci ve sunucularını yazabilir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "API yerine neden MCP kullanılsın?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "API sunucuya özeldir, her biri ayrı öğrenilir. MCP ortak dil sunar, model yeni sunucuya hazır bağlanır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Güvenli midir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tasarımı izin temellidir, ancak sunucunun erişim kapsamını dar tutmanız ve yazma işlemlerinde onay istemeniz gerekir."
       }
     }
   ]
@@ -73,7 +89,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Yapay zekâ modellerinin dış dünyadaki verilerle güvenli şekilde konuşmasını sağlayan standarttır.">
+<meta name="twitter:description" content="MCP nedir, ne demek? Host, client, server mimarisi, tool ve resource yapısıyla Model Context Protocol rehberi.">
 
 <meta property="og:image:alt" content="MCP nedir?">
 </head>
@@ -83,12 +99,18 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Yapay Zekâ</span><time class="dict-time" datetime="2026-06-03">Son güncelleme: 3 Haziran 2026</time></div>
-<h1 class="disc-title">MCP <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Yapay Zekâ</span><time class="dict-time" datetime="2026-09-22">Son güncelleme: 22 Eylül 2026</time></div>
+<h1 class="disc-title">MCP <span class="disc-accent">nedir, ne demek?</span></h1>
 <p class="dict-en">Model Context Protocol</p>
-<p class="disc-lead">Yapay zekâ modellerinin dış dünyadaki verilerle güvenli şekilde konuşmasını sağlayan standarttır.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Model Context Protocol (MCP), yapay zekâ modellerinin dış dünyadaki verilerle ve yazılımlarla güvenli bir şekilde konuşmasını sağlayan evrensel bir köprüdür. Farklı uygulamaların yapay zekâ ile aynı dili konuşmasını sağlar.</p></section><div class="dict-analogy">Şöyle düşünün: Bir priz standardı gibidir; her cihazın aynı fişle çalışması gibi, farklı veri kaynaklarının da yapay zekaya kolayca bağlanmasını sağlar.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Geliştiriciler MCP sayesinde yapay zekayı veritabanlarına veya dosya sistemlerine güvenli bir şekilde bağlar. Model, bu protokol üzerinden ihtiyaç duyduğu veriyi çeker.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Şirket içi özel belgelerin yapay zekâ tarafından okunması veya canlı veritabanlarından rapor alınması gereken durumlarda kullanılır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>API ile karıştırılır; API bir kapıyken, MCP bu kapıdan geçen verinin standart bir dilde konuşulmasını sağlayan bir kural setidir.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">MCP neden gereklidir?</p><p class="dict-faq-a">Her uygulama için ayrı bağlantı kurmak yerine standart bir yol izleyerek güvenliği ve verimliliği artırır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">MCP açık kaynak mı?</p><p class="dict-faq-a">Evet, yapay zekâ ekosisteminin birlikte çalışabilirliğini artırmak için geliştirilmiş açık bir standarttır.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/api/">API</a><a href="/dictionary/data-pipeline/">Data Pipeline</a><a href="/dictionary/ai-agent/">AI Agent</a></div></section>
-<section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/langflow/">Langflow</a><a href="/discover/opencut/">OpenCut</a><a href="/discover/goose/">Goose</a><a href="/discover/ai-engineering-from-scratch/">AI Engineering from Scratch</a><a href="/discover/chrome-devtools-mcp/">Chrome Devtools MCP</a><a href="/discover/codebase-memory-mcp/">Codebase Memory MCP</a><a href="/discover/claude-howto/">Claude Howto</a><a href="/discover/openclaude/">Openclaude</a></div></section>
+<p class="disc-lead">MCP (<strong>Model Context Protocol</strong>), yapay zekâ uygulamalarının dış veri ve araçlara standart yolla bağlanmasını sağlayan açık protokoldür.</p>
+<section class="disc-sec"><h2>Tanım ve Kelime Kökeni</h2><p>Her uygulama için ayrı bağlantı yazmak yerine tek standart kullanılır. Protokol, yapay zekâ ekosisteminin birlikte çalışabilirliğini artırmak için geliştirilmiş açık bir standarttır. Priz benzetmesi yerindedir: Her cihazın aynı fişle çalışması gibi, farklı veri kaynakları da yapay zekâya aynı yolla bağlanır.</p></section><section class="disc-sec"><h2>Gündelik Hayatta Nasıl Bilinir ve Kullanılır?</h2><p><strong>Asistanlar:</strong> Yapay zekâ uygulamasının takviminizi ve dosyalarınızı okuması.<br><strong>Geliştirme:</strong> Kod editörünün depo ve dokümantasyona bağlanması.<br><strong>Raporlama:</strong> Canlı veritabanından özet çıkarılması.</p></section><section class="disc-sec"><h2>Teknik Derinlik ve Mimari</h2><p>Mimari üç parçadan oluşur:</p><p><strong>Host:</strong> Yapay zekâ uygulaması (ör. masaüstü asistan veya editör).<br><strong>Client:</strong> Host içindeki bağlantı yöneticisi.<br><strong>Server:</strong> Veri veya aracı sunan küçük program (dosya sistemi, veritabanı, GitHub).</p><p>Sunucular üç yetenek sunar:</p><p><strong>Tool:</strong> Modelin çağırabileceği işlev (dosya arama, sorgu çalıştırma).<br><strong>Resource:</strong> Modelin okuyabileceği veri (belge, şema).<br><strong>Prompt:</strong> Hazır görev şablonu.</p><p>Tipik bir istemci ayarı şöyledir:</p><p><pre><code>{
+  "mcpServers": {
+    "dosya": {
+      "command": "npx",
+      "args": ["-y", "ornek-mcp-dosya"]
+    }
+  }
+}</code></pre></p><p>Güvenlik kuralı: Sunucu yalnızca izin verilen klasör ve işlemlere erişir. Modelin her isteği kullanıcı onayından geçebilmelidir.</p></section><section class="disc-sec"><h2>Sık Karıştırılanlar</h2><p>API ile karıştırılabilir. API tek bir kapıdır, MCP ise bu kapıdan geçen verinin standart dilde konuşulmasını sağlayan kural setidir. API sunucuya özeldir, MCP sunucular arası ortaktır.</p></section><section class="disc-sec"><h2>Farklı Disiplinlerde Kullanımı</h2><p><strong>Elektrik:</strong> Her cihazın uyduğu priz standardı.<br><strong>Demiryolu:</strong> Vagonları birleştiren kanca standardı.<br><strong>Dil:</strong> Diplomaside kullanılan ortak protokol dili.</p></section><div class="dict-analogy">Bir priz standardı gibidir; her cihazın aynı fişle çalışması gibi, farklı veri kaynaklarının da yapay zekâya kolayca bağlanmasını sağlar.</div><section class="disc-sec"><h2>Sıkça Sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">MCP neden gereklidir?</p><p class="dict-faq-a">Her uygulama için ayrı bağlantı yazmak yerine standart yol izlenir. Bu, güvenliği ve bakımı kolaylaştırır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">MCP açık kaynak mı?</p><p class="dict-faq-a">Evet. Açık standarttır, farklı uygulamalar kendi istemci ve sunucularını yazabilir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">API yerine neden MCP kullanılsın?</p><p class="dict-faq-a">API sunucuya özeldir, her biri ayrı öğrenilir. MCP ortak dil sunar, model yeni sunucuya hazır bağlanır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Güvenli midir?</p><p class="dict-faq-a">Tasarımı izin temellidir, ancak sunucunun erişim kapsamını dar tutmanız ve yazma işlemlerinde onay istemeniz gerekir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/api/">API</a><a href="/dictionary/data-pipeline/">Data Pipeline</a><a href="/dictionary/ai-agent/">AI Agent</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

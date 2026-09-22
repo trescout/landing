@@ -1,34 +1,58 @@
-# RAM nedir?
+# RAM nedir, ne demek?
 
 > Random Access Memory
 
 **Kategori:** Veri & Altyapı  
-**Son güncelleme:** 2026-08-10
+**Son güncelleme:** 2026-09-22
 
-Bilgisayarın aktif olarak kullandığı verileri hızlıca okuyup yazdığı geçici hafıza birimi.
+RAM (**Random Access Memory**, rastgele erişimli bellek), işlemcinin aktif veriyi tuttuğu geçici bellektir.
 
-## Tanım
-Bilgisayar kapandığında içindeki verilerin silindiği, ancak işlemciye çok yakın olduğu için ışık hızında çalışan bir çalışma alanıdır. İşlemci, bir işi yaparken ihtiyaç duyduğu tüm dosyaları buraya çeker.
+## Tanım ve Kelime Kökeni
+Bilgisayar kapanınca içeriği silinir, ama işlemciye yakın olduğu için çok yüksek hızda çalışır. İşlemci iş yaparken dosyaları buraya çeker. Programlar açıldığında diskten RAM içine kopyalanır.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Bilgisayar:** Sekmeler ve uygulamalar.
+- **Telefon:** Arka plandaki uygulamalar.
+- **Sunucu:** Eşzamanlı istekler.
+
+## Teknik Derinlik ve Mimari
+Türler:
+- **DRAM:** Ana bellek, yoğun ve ucuz.
+- **SRAM:** Önbellek, hızlı ve pahalı.
+- **Swap:** Diskten ayrılan yedek alan, yavaşlatır.
+
+Durum denetimi:
+
+```
+free -h
+```
+
+Kural: Dolunca sistem yavaşlar veya uygulama kapanır. 8 GB temel, 16 GB rahat, 32 GB iş istasyonudur. İhtiyaç üstü kapasite boşta bekler.
+
+## Sık Karıştırılanlar
+Depolama sanılır. RAM geçici çalışma alanıdır, disk kalıcı kütüphanedir. Kapanınca RAM boşalır, disk kalır.
+
+## Farklı Disiplinlerde Kullanımı
+- **Masa:** Genişlik arttıkça açık dosya sayısı.
+- **Tezgah:** Malzemenin el altında durması.
+- **Beyaz tahta:** Geçici not alanı.
 
 ## Bir benzetmeyle
-Bilgisayarın masası gibidir; masanın üstü ne kadar genişse, aynı anda o kadar çok dosyayı açıp üzerinde çalışabilirsiniz.
-
-## Nasıl çalışır?
-Programlar açıldığında sabit diskten RAM'e kopyalanır, işlemci buradan verileri alır ve işler.
-
-## Nerede kullanılır?
-Tüm bilgisayarlarda, telefonlarda ve sunucularda temel donanım parçasıdır.
-
-## Sık karıştırılanlar
-Depolama (HDD/SSD) ile karıştırılır; RAM geçici çalışma alanıdır, depolama ise kalıcı kütüphanedir.
+Bilgisayarın masası gibidir; masa genişledikçe aynı anda açık dosya sayısı artar.
 
 ## Sıkça sorulanlar
 
 **RAM dolarsa ne olur?**  
-Bilgisayar yavaşlar veya uygulamalar kapanır.
+Sistem yavaşlar veya uygulamalar kapanır. Gereksiz sekmeler kapatılır, gerekirse kapasite artırılır.
 
-**Daha fazla RAM her zaman hızı artırır mı?**  
-İhtiyaç duyulan seviyeye kadar artırır, fazlası boşta bekler.
+**Fazlası hızlandırır mı?**  
+İhtiyaç kadar evet, üstü boşta bekler. Darboğaz diskse RAM artışı fark etmez.
+
+**SSD farkı nedir?**  
+SSD kalıcı depodur, RAM geçici alandır. İkisi birlikte çalışır, biri diğerinin yerini tutmaz.
+
+**Ne kadar yeterli?**  
+Günlük işte 8, geliştirmede 16, ağır işte 32 GB pratik karşılıklardır.
 
 ## İlgili terimler
 - [VRAM](/dictionary/vram/)

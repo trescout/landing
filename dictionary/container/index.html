@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Container nedir? · TreScout Sözlük</title>
-<meta name="description" content="Bir yazılımın çalışması için gereken her şeyi içinde barındıran ve her bilgisayarda aynı şekilde çalışmasını sağlayan taşınabilir bir kutudur.">
+<title>Container Nedir, Ne Demek? Konteyner ve Docker Rehberi · TreScout</title>
+<meta name="description" content="Container nedir, ne demek? İmaj, Dockerfile, sanal makine farkı ve docker komutlarıyla konteyner rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/dictionary/container/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/container/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="es" href="https://trescout.com/es/dictionary/container/">
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/container/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/container/">
-<meta property="og:title" content="Container nedir?">
-<meta property="og:description" content="Bir yazılımın çalışması için gereken her şeyi içinde barındıran ve her bilgisayarda aynı şekilde çalışmasını sağlayan taşınabilir bir kutudur.">
+<meta property="og:title" content="Container Nedir, Ne Demek? Konteyner ve Docker Rehberi · TreScout">
+<meta property="og:description" content="Container nedir, ne demek? İmaj, Dockerfile, sanal makine farkı ve docker komutlarıyla konteyner rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/container/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Container nedir?">
+<meta name="twitter:title" content="Container Nedir, Ne Demek? Konteyner ve Docker Rehberi · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/container.webp">
 <script type="application/ld+json">
 {
@@ -32,7 +32,7 @@
   "@type": "DefinedTerm",
   "name": "Container",
   "inLanguage": "tr",
-  "description": "Konteynerler, bir uygulamanın kodunu, kütüphanelerini ve ayarlarını tek bir paket haline getirir. Bu sayede yazılımınız, sizin bilgisayarınızda nasıl çalışıyorsa sunucuda veya başka birinin bilgisayarında da aynı şekilde çalışır. Yani, 'benim bilgisayarımda çalışıyordu' sorununu tamamen ortadan kaldırır.",
+  "description": "Container (konteyner), uygulamanın kod ve bağımlılıklarıyla tek pakette, her ortamda aynı çalışmasıdır.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -51,7 +51,7 @@
       "name": "Konteyner neden bu kadar popüler?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Çünkü yazılımın her ortamda aynı kararlılıkla çalışmasını garanti eder ve kurulum süreçlerini dakikalardan saniyelere indirir."
+        "text": "Her ortamda aynı çalışmayı ve hızlı kurulumu sağladığı için. Mikro hizmet ve bulut düzeniyle birlikte standart haline geldi."
       }
     },
     {
@@ -59,7 +59,23 @@
       "name": "Konteyner ile sanal makine farkı nedir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Sanal makineler kendi işletim sistemlerini taşır, konteynerler ise ana işletim sisteminin çekirdeğini paylaşır; bu yüzden konteynerler çok daha hızlıdır."
+        "text": "Makine kendi işletim sistemini taşır, konteyner ana çekirdeği paylaşır. Konteyner hafif ve hızlı, makine yalıtımda güçlüdür."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Konteyner güvenli midir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Çekirdek paylaşıldığı için makine kadar izole değildir. İmajları güvenilir kaynaktan çekmeniz ve güncel tutmanız gerekir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Ne zaman sanal makine tercih edilir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Farklı işletim sistemi veya güçlü yalıtım gerektiğinde. Geri kalan çoğu iş yükünde konteyner yeterlidir."
       }
     }
   ]
@@ -72,7 +88,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Bir yazılımın çalışması için gereken her şeyi içinde barındıran ve her bilgisayarda aynı şekilde çalışmasını sağlayan taşınabilir bir kutudur.">
+<meta name="twitter:description" content="Container nedir, ne demek? İmaj, Dockerfile, sanal makine farkı ve docker komutlarıyla konteyner rehberi.">
 
 <meta property="og:image:alt" content="Container nedir?">
 </head>
@@ -82,12 +98,15 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-08-20">Son güncelleme: 20 Ağustos 2026</time></div>
-<h1 class="disc-title">Container <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-22">Son güncelleme: 22 Eylül 2026</time></div>
+<h1 class="disc-title">Container <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">Bir yazılımın çalışması için gereken her şeyi içinde barındıran ve her bilgisayarda aynı şekilde çalışmasını sağlayan taşınabilir bir kutudur.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Konteynerler, bir uygulamanın kodunu, kütüphanelerini ve ayarlarını tek bir paket haline getirir. Bu sayede yazılımınız, sizin bilgisayarınızda nasıl çalışıyorsa sunucuda veya başka birinin bilgisayarında da aynı şekilde çalışır. Yani, &#x27;benim bilgisayarımda çalışıyordu&#x27; sorununu tamamen ortadan kaldırır.</p></section><div class="dict-analogy">Bir mutfak düşünün; her yemek için gerekli tüm malzemeleri, baharatları ve araçları tek bir kutuya koyup istediğiniz yere götürüyorsunuz. Nerede açarsanız açın, aynı yemeği aynı lezzetle pişirebiliyorsunuz.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Geliştiriciler, Docker gibi araçlar kullanarak uygulamanın ihtiyaç duyduğu her şeyi bir &#x27;konteyner imajı&#x27; içine paketler. Bu paket, işletim sisteminden bağımsız olarak izole bir alanda çalışır. Böylece sistemdeki diğer uygulamalarla çakışma yaşanmaz.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Bulut bilişimde, yazılım dağıtımında ve karmaşık uygulamaların yönetilmesinde kullanılır. Özellikle büyük ekiplerin birbiriyle uyumlu çalışması gereken projelerde standarttır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Sanal makineler (Virtual Machines) ile sıkça karıştırılır; ancak konteynerler çok daha hafif ve hızlıdır çünkü işletim sistemini paylaşırlar.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Konteyner neden bu kadar popüler?</p><p class="dict-faq-a">Çünkü yazılımın her ortamda aynı kararlılıkla çalışmasını garanti eder ve kurulum süreçlerini dakikalardan saniyelere indirir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Konteyner ile sanal makine farkı nedir?</p><p class="dict-faq-a">Sanal makineler kendi işletim sistemlerini taşır, konteynerler ise ana işletim sisteminin çekirdeğini paylaşır; bu yüzden konteynerler çok daha hızlıdır.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/containers/">Containers</a><a href="/dictionary/virtual-machines/">Virtual Machines</a><a href="/dictionary/deployment/">Deployment</a></div></section>
-<section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/n8n/">N8n</a><a href="/discover/core/">Core</a><a href="/discover/stirling-pdf/">Stirling-PDF</a><a href="/discover/container/">Container</a><a href="/discover/mattermost/">Mattermost</a><a href="/discover/keycloak/">Keycloak</a><a href="/discover/ppf-contact-solver/">PPF Contact Solver</a></div></section>
+<p class="disc-lead">Container (Türkçe karşılığıyla <strong>konteyner</strong>), uygulamanın kod ve bağımlılıklarıyla tek pakette, her ortamda aynı çalışmasıdır.</p>
+<section class="disc-sec"><h2>Tanım ve Kelime Kökeni</h2><p>Konteynerler uygulamanın kodunu, kütüphanelerini ve ayarlarını tek pakete koyar. Sizin bilgisayarınızda nasıl çalışıyorsa sunucuda da öyle çalışır. Fikir eskidir (chroot, LXC), 2013 sonrası Docker ile yaygınlaştı, bugün OCI standardıyla tanımlanır.</p></section><section class="disc-sec"><h2>Gündelik Hayatta Nasıl Bilinir ve Kullanılır?</h2><p><strong>Dağıtım:</strong> Geliştiriciden canlıya aynı paket.<br><strong>Mikro hizmet:</strong> Her servisin kendi kutusu.<br><strong>CI:</strong> Her testin temiz kutuda koşması.</p></section><section class="disc-sec"><h2>Teknik Derinlik ve Mimari</h2><p>Kavramlar:</p><p><strong>İmaj:</strong> Salt okunur kalıp, katmanlardan oluşur.<br><strong>Konteyner:</strong> İmajın çalışan örneği.<br><strong>Dockerfile:</strong> Kalıbın tarifi.<br><strong>Kayıt (Registry):</strong> İmajların tutulduğu depo.</p><p>Basit bir tarif:</p><p><pre><code>FROM python:3.12-slim
+COPY . /uygulama
+WORKDIR /uygulama
+CMD ["python", "app.py"]</code></pre></p><p>Derleme ve çalıştırma:</p><p><pre><code>docker build -t ornek:1.0 .
+docker run -p 8000:8000 ornek:1.0</code></pre></p><p>Sanal makine farkı: Makine kendi işletim sistemini taşır, konteyner ana çekirdeği paylaşır. Bu yüzden konteynerler daha hafif ve hızlı açılır.</p></section><section class="disc-sec"><h2>Sık Karıştırılanlar</h2><p>Sanal makine sanılır. Makine tam işletim sistemi taşır, konteyner yalnızca uygulamayı taşır. Yalıtım makinede güçlü, konteynerde yeterlidir; seçim yüke göre yapılır.</p></section><section class="disc-sec"><h2>Farklı Disiplinlerde Kullanımı</h2><p><strong>Nakliye:</strong> Standart boy konteynerle gemi, tren, kamyon uyumu.<br><strong>Mutfak:</strong> Malzemesi içinde hazır yemek kutusu.<br><strong>Kamp:</strong> Çantasında düzeniyle taşınan kamp seti.</p></section><div class="dict-analogy">Her yemek için gerekli tüm malzemeleri, baharatları ve araçları tek bir kutuya koyup istediğiniz yere götürmek gibidir; nerede açarsanız açın, aynı yemeği pişirirsiniz.</div><section class="disc-sec"><h2>Sıkça Sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Konteyner neden bu kadar popüler?</p><p class="dict-faq-a">Her ortamda aynı çalışmayı ve hızlı kurulumu sağladığı için. Mikro hizmet ve bulut düzeniyle birlikte standart haline geldi.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Konteyner ile sanal makine farkı nedir?</p><p class="dict-faq-a">Makine kendi işletim sistemini taşır, konteyner ana çekirdeği paylaşır. Konteyner hafif ve hızlı, makine yalıtımda güçlüdür.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Konteyner güvenli midir?</p><p class="dict-faq-a">Çekirdek paylaşıldığı için makine kadar izole değildir. İmajları güvenilir kaynaktan çekmeniz ve güncel tutmanız gerekir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Ne zaman sanal makine tercih edilir?</p><p class="dict-faq-a">Farklı işletim sistemi veya güçlü yalıtım gerektiğinde. Geri kalan çoğu iş yükünde konteyner yeterlidir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/containers/">Containers</a><a href="/dictionary/virtual-machines/">Virtual Machines</a><a href="/dictionary/deployment/">Deployment</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

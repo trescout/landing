@@ -23,7 +23,7 @@ No, los datos no pueden ser leídos directamente por humanos ya que están en fo
 
 ## Términos relacionados
 - [API](/es/dictionary/api/)
-- [Networking Stack](/es/dictionary/networking-stack/)
+- [Network Stack](/es/dictionary/network-stack/)
 - [Serialization](/es/dictionary/serialization/)
 
 ## Herramientas relacionadas

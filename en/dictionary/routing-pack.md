@@ -19,7 +19,7 @@ It directly affects the speed and security of data transmission.
 
 
 ## Related terms
-- [Networking Stack](/en/dictionary/networking-stack/)
+- [Network Stack](/en/dictionary/network-stack/)
 - [API Gateway](/en/dictionary/api-gateway/)
 - [Proxy](/en/dictionary/proxy/)
 

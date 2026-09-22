@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Localhost nedir? · TreScout Sözlük</title>
-<meta name="description" content="Bir yazılımın internete çıkmadan sadece o an kullanılan bilgisayar üzerinde çalışması durumudur.">
+<title>Localhost Nedir, Ne Demek? 127.0.0.1 ve Port Rehberi · TreScout</title>
+<meta name="description" content="Localhost nedir, ne demek? 127.0.0.1, port kavramı, curl örneği ve 0.0.0.0 farkıyla yerel geliştirme rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/dictionary/localhost/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/localhost/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="es" href="https://trescout.com/es/dictionary/localhost/">
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/localhost/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/localhost/">
-<meta property="og:title" content="Localhost nedir?">
-<meta property="og:description" content="Bir yazılımın internete çıkmadan sadece o an kullanılan bilgisayar üzerinde çalışması durumudur.">
+<meta property="og:title" content="Localhost Nedir, Ne Demek? 127.0.0.1 ve Port Rehberi · TreScout">
+<meta property="og:description" content="Localhost nedir, ne demek? 127.0.0.1, port kavramı, curl örneği ve 0.0.0.0 farkıyla yerel geliştirme rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/localhost/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -25,8 +25,8 @@
 <meta property="og:image:alt" content="Localhost nedir?">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Localhost nedir?">
-<meta name="twitter:description" content="Bir yazılımın internete çıkmadan sadece o an kullanılan bilgisayar üzerinde çalışması durumudur.">
+<meta name="twitter:title" content="Localhost Nedir, Ne Demek? 127.0.0.1 ve Port Rehberi · TreScout">
+<meta name="twitter:description" content="Localhost nedir, ne demek? 127.0.0.1, port kavramı, curl örneği ve 0.0.0.0 farkıyla yerel geliştirme rehberi.">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/localhost.webp">
 <script type="application/ld+json">
 {
@@ -34,7 +34,7 @@
   "@type": "DefinedTerm",
   "name": "Localhost",
   "inLanguage": "tr",
-  "description": "Yazılımcılar bir web sitesi yaparken, onu hemen internete yüklemezler. Önce kendi bilgisayarlarında 'localhost' adresini kullanarak test ederler. Bu, bilgisayarınızın kendi kendine 'ben bir sunucuyum' demesi gibidir. Dışarıdan kimse göremez, sadece siz görürsünüz.",
+  "description": "Localhost, bilgisayarınızın kendisini adresleyen özel ağ adıdır (127.0.0.1).",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -53,7 +53,31 @@
       "name": "Neden localhost kullanıyoruz?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Hataları internete açmadan, güvenli bir şekilde kendi bilgisayarımızda düzeltmek için."
+        "text": "Hataları internete açmadan, güvenli şekilde kendi bilgisayarımızda düzeltmek için."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "127.0.0.1 nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Localhost adının sayı karşılığıdır. Her bilgisayarda kendisini gösterir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Port nedir, neden gerekir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Aynı bilgisayardaki uygulamaları ayıran kapı numarasıdır. Tarayıcı adresindeki iki nokta sonrasıdır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Dışarıdan erişilebilir mi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hayır. Başkalarının görmesi için yayın ve alan adı gerekir. Test bağlantısını paylaşmak için tünel araçları kullanılır."
       }
     }
   ]
@@ -72,12 +96,11 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-19">Son güncelleme: 19 Eylül 2026</time></div>
-<h1 class="disc-title">Localhost <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-22">Son güncelleme: 22 Eylül 2026</time></div>
+<h1 class="disc-title">Localhost <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">Bir yazılımın internete çıkmadan sadece o an kullanılan bilgisayar üzerinde çalışması durumudur.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Yazılımcılar bir web sitesi yaparken, onu hemen internete yüklemezler. Önce kendi bilgisayarlarında &#x27;localhost&#x27; adresini kullanarak test ederler. Bu, bilgisayarınızın kendi kendine &#x27;ben bir sunucuyum&#x27; demesi gibidir. Dışarıdan kimse göremez, sadece siz görürsünüz.</p></section><div class="dict-analogy">Bir tiyatro oyununu sahneye koymadan önce boş bir odada sadece oyuncularla prova yapmak gibidir; seyirci henüz yoktur.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Tarayıcınızın adres çubuğuna &#x27;localhost&#x27; yazarak kendi bilgisayarınızda çalışan yazılıma ulaşırsınız.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Yazılım geliştirme süreçlerinde ve test aşamalarında kullanılır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>İnternet sitesi ile karıştırılabilir; ancak localhost sadece sizin bilgisayarınıza özeldir.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Neden localhost kullanıyoruz?</p><p class="dict-faq-a">Hataları internete açmadan, güvenli bir şekilde kendi bilgisayarımızda düzeltmek için.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/ide/">IDE</a><a href="/dictionary/deployment/">Deployment</a></div></section>
-<section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/penpot/">Penpot</a><a href="/discover/project-nomad/">Project N.O.M.A.D</a><a href="/discover/jenkins/">Jenkins</a><a href="/discover/openstock/">OpenStock</a><a href="/discover/personal-ai-infrastructure/">Personal_AI_Infrastructure</a><a href="/discover/portless/">Portless</a><a href="/discover/flowsint/">Flowsint</a><a href="/discover/teslamate/">Teslamate</a></div></section>
+<p class="disc-lead">Localhost, bilgisayarınızın kendisini adresleyen özel ağ adıdır. Karşılığı 127.0.0.1 adresidir.</p>
+<section class="disc-sec"><h2>Tanım ve Kelime Kökeni</h2><p>"Local" <strong>yerel</strong>, "host" ise <strong>ev sahibi bilgisayar</strong> demektir. Yazılımcı siteyi hemen internete yüklemez, önce kendi bilgisayarında bu adresle test eder. Bilgisayarınız kendi kendine sunucu rolü oynar. Dışarıdan kimse göremez, yalnızca siz görürsünüz.</p></section><section class="disc-sec"><h2>Gündelik Hayatta Nasıl Bilinir ve Kullanılır?</h2><p><strong>Web geliştirme:</strong> <code>npm run dev</code> sonrası tarayıcıda açılan adres.<br><strong>Veritabanı:</strong> Yerelde kurulu Postgres veya Redis bağlantısı.<br><strong>API deneme:</strong> Henüz yayınlanmamış uçların test edilmesi.</p></section><section class="disc-sec"><h2>Teknik Derinlik ve Mimari</h2><p>Bilmeniz gerekenler:</p><p><strong>127.0.0.0/8:</strong> Kendine dönüş (loopback) aralığı, genellikle 127.0.0.1 kullanılır.<br><strong>Port:</strong> Aynı bilgisayardaki kapı numarası. İki uygulama aynı portu kaparsa çakışır.<br><strong>0.0.0.0 farkı:</strong> Localhost yalnız size açıktır, 0.0.0.0 ağdaki herkese dinletir.</p><p>Sağlık denetimi örneği:</p><p><pre><code>curl http://localhost:3000/api/health</code></pre></p><p>Yanıt gelmiyorsa uygulama çalışmıyor veya port yanlıştır. Güvenlik duvarı localhost trafiğini genellikle serbest bırakır.</p></section><section class="disc-sec"><h2>Sık Karıştırılanlar</h2><p>İnternet sitesi sanılır. Oysa localhost yalnızca sizin bilgisayarınıza özeldir, alan adı ve yayın gerektirmez.</p></section><section class="disc-sec"><h2>Farklı Disiplinlerde Kullanımı</h2><p><strong>Tiyatro:</strong> Seyircisiz prova odası.<br><strong>Müzik:</strong> Kayıttan önce ses kontrolü.<br><strong>Mutfak:</strong> Servisten önce tadım.</p></section><div class="dict-analogy">Bir tiyatro oyununu sahneye koymadan önce boş bir odada yalnızca oyuncularla prova yapmak gibidir; seyirci henüz yoktur.</div><section class="disc-sec"><h2>Sıkça Sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Neden localhost kullanıyoruz?</p><p class="dict-faq-a">Hataları internete açmadan, güvenli şekilde kendi bilgisayarımızda düzeltmek için.</p></div><div class="dict-faq-item"><p class="dict-faq-q">127.0.0.1 nedir?</p><p class="dict-faq-a">Localhost adının sayı karşılığıdır. Her bilgisayarda kendisini gösterir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Port nedir, neden gerekir?</p><p class="dict-faq-a">Aynı bilgisayardaki uygulamaları ayıran kapı numarasıdır. Tarayıcı adresindeki iki nokta sonrasıdır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Dışarıdan erişilebilir mi?</p><p class="dict-faq-a">Hayır. Başkalarının görmesi için yayın ve alan adı gerekir. Test bağlantısını paylaşmak için tünel araçları kullanılır.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/ide/">IDE</a><a href="/dictionary/deployment/">Deployment</a><a href="/dictionary/network-stack/">Network Stack</a></div></section>
 <aside class="disc-cta"><p><strong>İlgili araçları ve günlük raporları keşfet.</strong> Her gün yeni bir teknoloji terimi ve aracı çıkıyor; geride kalmamak için TreScout bültenine katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" data-page-type="dictionary" data-content-slug="localhost" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

@@ -24,7 +24,7 @@ No puede acceder a sitios web por su nombre porque su navegador de Internet no p
 
 ## Términos relacionados
 - [DNS Tunneling](/es/dictionary/dns-tunneling/)
-- [Networking Stack](/es/dictionary/networking-stack/)
+- [Network Stack](/es/dictionary/network-stack/)
 - [Gateway](/es/dictionary/gateway/)
 
 ---

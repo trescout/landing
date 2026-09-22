@@ -21,7 +21,7 @@ O sistema torna-se incapaz de receber novos comandos ou gerenciar o tráfego, po
 
 ## Termos relacionados
 - [API Gateway](/pt/dictionary/api-gateway/)
-- [Networking Stack](/pt/dictionary/networking-stack/)
+- [Network Stack](/pt/dictionary/network-stack/)
 - [Cloud Native](/pt/dictionary/cloud-native/)
 
 ## Ferramentas relacionadas

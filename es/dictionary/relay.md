@@ -20,7 +20,7 @@ El relé evita que se pierda la conexión cuando la distancia es demasiado grand
 
 
 ## Términos relacionados
-- [Networking Stack](/es/dictionary/networking-stack/)
+- [Network Stack](/es/dictionary/network-stack/)
 - [Proxy](/es/dictionary/proxy/)
 - [VPN](/es/dictionary/vpn/)
 
