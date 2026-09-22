@@ -1,34 +1,58 @@
-# BYOK nedir?
+# BYOK nedir, ne demek?
 
 > Bring Your Own Key
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-08-15
+**Son güncelleme:** 2026-09-22
 
-Kullanıcının kendi verilerini şifrelemek için kendi güvenlik anahtarlarını getirmesine izin veren bir güvenlik yaklaşımıdır.
+BYOK (**Bring Your Own Key**, kendi anahtarını getir), şifre anahtarının sizde durduğu düzendir.
 
-## Tanım
-BYOK, verilerinizin saklandığı yer ile verilerinizi açan anahtarın birbirinden bağımsız olmasını sağlar. Bu sayede veriyi saklayan servis sağlayıcı bile, sizin anahtarınız olmadan verilerinize erişemez.
+## Tanım ve Kelime Kökeni
+Verinin durduğu yerle anahtarın durduğu yer ayrılır. Sağlayıcı veriyi görür, açamaz. Kontrol sizdedir, sorumluluk da sizdedir.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Bulut:** Şifreli disk ve yedek.
+- **Kurumsal:** Regülasyonlu veri.
+- **YZ:** Kendi API anahtarı.
+
+## Teknik Derinlik ve Mimari
+Düzen:
+- **Üretim:** Güçlü rastgele anahtar.
+- **Saklama:** Donanım kasası (HSM) veya yönetici.
+- **Rotasyon:** Periyodik yenileme.
+
+Üretim örneği:
+
+```
+openssl rand -base64 32
+```
+
+Kayıp kuralı: Anahtar giderse veri gider. Yedek ve vasiyet planı şarttır.
+
+## Sık Karıştırılanlar
+Şifreleme sanılır. Şifreleme kilittir, BYOK anahtarın kimde durduğudur. Biri kapı, diğeri anahtarlık düzenidir.
+
+## Farklı Disiplinlerde Kullanımı
+- **Kasa:** Kendi anahtarınızla açma.
+- **Emanet:** Mühürlü zarf teslimi.
+- **Kiralık kasa:** Banka bilmez içerik.
 
 ## Bir benzetmeyle
-Bir kasaya eşyalarınızı koyduğunuzda, kasanın sahibi kasanın anahtarını değil, sizin kendi getirdiğiniz özel anahtarı kullanmanızdır.
-
-## Nasıl çalışır?
-Güvenlik ayarlarından kendi şifreleme anahtarınızı oluşturup sisteme yüklersiniz. Sistem veriyi sizin anahtarınızla kilitler.
-
-## Nerede kullanılır?
-Bulut depolama hizmetlerinde ve kurumsal veri merkezlerinde kullanılır.
-
-## Sık karıştırılanlar
-Sadece şifreleme ile karıştırılır, ancak buradaki anahtar kontrolü tamamen sizdedir.
+Kasaya kendi getirdiğiniz anahtarla kilit vurmaya benzer.
 
 ## Sıkça sorulanlar
 
-**Anahtarımı kaybedersem ne olur?**  
-Verilerinize erişimi kalıcı olarak kaybedebilirsiniz, bu yüzden anahtar yönetimi çok kritiktir.
+**Kaybedersem ne olur?**  
+Erişim kalıcı gider. Yedek ve vasiyet planı şarttır.
 
-**Neden BYOK kullanmalıyım?**  
-Veri gizliliğini artırmak ve servis sağlayıcının veriye erişimini kısıtlamak için.
+**Neden kullanılır?**  
+Sağlayıcı erişimini kapatmak için. Gizlilik ve uyum gerektirir.
+
+**YZ araçlarında nedir?**  
+Kendi API anahtarıyla çalışmadır. Kota ve fatura sizdedir.
+
+**Maliyeti nedir?**  
+Kasa ve yönetim bedeli vardır. Kritik veride karşılığını verir.
 
 ## İlgili terimler
 - [Cybersecurity Skills](/dictionary/cybersecurity-skills/)

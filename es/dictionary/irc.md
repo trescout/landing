@@ -25,7 +25,7 @@ Se prefiere porque es rápido, ligero y muy fácil de instalar.
 
 
 ## Términos relacionados
-- [Networking Stack](/es/dictionary/networking-stack/)
+- [Network Stack](/es/dictionary/network-stack/)
 - [Terminal](/es/dictionary/terminal/)
 
 ## Herramientas relacionadas

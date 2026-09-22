@@ -1,29 +1,61 @@
-# Refactoring nedir?
+# Refactoring nedir, ne demek?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-06-18
+**Son güncelleme:** 2026-09-22
 
-Yazılımın dışarıdan görünen davranışını değiştirmeden, içindeki kod yapısını daha düzenli ve verimli hale getirme işlemidir.
+Refactoring (Türkçe karşılığıyla **yeniden düzenleme**), davranışı koruyup kodu sadeleştirmedir.
 
-## Tanım
-Refactoring, bir binanın dış görünüşünü bozmadan içindeki tesisatı yenilemek veya eşyaların yerini daha kullanışlı olacak şekilde değiştirmek gibidir. Yazılımın çalışmasında bir değişiklik olmaz ancak kodun okunabilirliği artar ve gelecekte yeni özellik eklemek kolaylaşır. Teknik borcu azaltmak için düzenli olarak yapılması gereken bir temizlik sürecidir.
+## Tanım ve Kelime Kökeni
+Dış görünüş bozulmadan iç tesisat yenilenir. Kodun okunabilirliği artar, yeni özellik eklemek kolaylaşır. Teknik borcu kapatan temizlik sürecidir. Martin Fowler bu disiplinin referans adıdır.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **İnceleme:** Kod gözden geçirme turları.
+- **Borç ödeme:** Sprint içine serpiştirilen temizlik.
+- **Devralma:** Eski koda girmeden önce sadeleştirme.
+
+## Teknik Derinlik ve Mimari
+Yaygın hamleler:
+- **Fonksiyon çıkarma:** Uzun bloğu adlandırılmış parçaya bölme.
+- **Yeniden adlandırma:** Niyeti anlatan isim.
+- **Ölü kod:** Kullanılmayanı silme.
+
+Örnek:
+
+```
+# önce
+def f(a):
+    return a*a*3.14
+# sonra
+def daire_alani(yaricap):
+    return yaricap * yaricap * 3.14
+```
+
+Kural: Önce test yazılır, sonra dokunulur. Test yoksa ilk iş testtir.
+
+## Sık Karıştırılanlar
+Özellik veya hata düzeltme sanılır. Oysa çıktı değişmez, yalnızca iç yapı düzelir. Davranış aynı, kod farklıdır.
+
+## Farklı Disiplinlerde Kullanımı
+- **Tesisat:** Duvar dururken boru yenileme.
+- **Redaksiyon:** Konu aynı, cümle akıcı.
+- **Budama:** Ağaç aynı, dal düzenli.
 
 ## Bir benzetmeyle
-Bir kitabın konusunu değiştirmeden, cümleleri daha akıcı hale getirmek ve imla hatalarını düzeltmek için metni yeniden düzenlemeye benzer.
-
-## Nasıl çalışır?
-Gereksiz kod blokları silinir, karmaşık fonksiyonlar daha basit parçalara bölünür ve değişken isimleri daha anlaşılır hale getirilir.
-
-## Nerede kullanılır?
-Yazılım geliştirme süreçlerinde, kod gözden geçirme (code review) aşamalarında uygulanır.
-
-## Sık karıştırılanlar
-Yeni özellik eklemek veya hata düzeltmek (bug fix) ile karıştırılmamalıdır; bu sadece kodun kalitesini artırır.
+Kitabın konusunu değiştirmeden cümleleri akıcı hale getirmeye benzer.
 
 ## Sıkça sorulanlar
 
 **Neden yapıyoruz?**  
-Kod daha temiz olursa, ileride yaşanabilecek hataların önüne geçilir ve geliştirme süreci hızlanır.
+Temiz kod hata ve yavaşlamayı önler, yeni işi hızlandırır.
+
+**Ne zaman yapılır?**  
+Dokunulan kodda, küçük parçalar halinde. Büyük temizlik ayrı planlanır.
+
+**Riski nedir?**  
+Testsiz dokunuş davranışı bozar. Test güvencesi olmadan girilmez.
+
+**Ne sıklıkla yapılır?**  
+Sürekli, küçük dozda. Sprint içine serpiştirilir, ertelenmez.
 
 ## İlgili terimler
 - [Agentic Coding Tool](/dictionary/agentic-coding-tool/)

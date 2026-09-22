@@ -24,7 +24,7 @@ Não, os dispositivos estabelecem uma rede local entre si.
 
 ## Termos relacionados
 - [Mesh](/pt/dictionary/mesh/)
-- [Networking Stack](/pt/dictionary/networking-stack/)
+- [Network Stack](/pt/dictionary/network-stack/)
 
 ## Ferramentas relacionadas
 - [Bitchat](/pt/discover/bitchat/)

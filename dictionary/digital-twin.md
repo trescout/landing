@@ -1,32 +1,56 @@
-# Digital Twin nedir?
+# Digital Twin nedir, ne demek?
 
 **Kategori:** Veri & Altyapı  
-**Son güncelleme:** 2026-06-03
+**Son güncelleme:** 2026-09-22
 
-Fiziksel bir nesnenin veya sistemin dijital kopyasıdır.
+Digital twin (Türkçe karşılığıyla **dijital ikiz**), nesnenin canlı veriyle beslenen kopyasıdır.
 
-## Tanım
-Dijital ikiz, fiziksel bir nesnenin veya sistemin dijital dünyadaki birebir kopyasıdır. Bu kopya, gerçek dünyadaki nesneden aldığı verilerle sürekli güncellenerek onun davranışlarını simüle eder.
+## Tanım ve Kelime Kökeni
+"Twin" **ikiz** demektir. Gerçek nesneden sensör verisi akar, model davranış simüle eder. Arıza ve performans önceden görülür. Fabrika ve şehir işlerinde koşar.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Fabrika:** Bakım tahmini.
+- **Şehir:** Trafik simülasyonu.
+- **Enerji:** Türbin izleme.
+
+## Teknik Derinlik ve Mimari
+Akış:
+
+```
+sensör → model → tahmin → bakım emri
+```
+
+Parçalar:
+- **Veri:** Sensör ve kayıt akışı.
+- **Model:** Fizik ve öğrenme karması.
+- **Eylem:** Bakım ve ayar emri.
+
+Kural: Veri kesilirse ikiz körleşir. Besleme sürekliliği şarttır.
+
+## Sık Karıştırılanlar
+3B model sanılır. O statik resimdir, bu canlı sistemdir. Biri fotoğraf, diğeri aynadır.
+
+## Farklı Disiplinlerde Kullanımı
+- **Uçak:** Havada ve simülasyonda eş uçuş.
+- **Ayna:** Hareketi yansıtan yüzey.
+- **Gölge:** Nesneyi izleyen karartı.
 
 ## Bir benzetmeyle
-Şöyle düşünün: Bir uçağın tüm parçalarının dijital ortamda yansıtılması ve gerçek uçak havadayken dijital kopyasının da aynı verilerle simüle edilmesi gibidir.
-
-## Nasıl çalışır?
-Sensörler aracılığıyla gerçek dünyadan veri toplanır. Bu veriler dijital modele aktarılır ve model, gerçek nesnenin ne zaman arızalanabileceğini veya nasıl performans göstereceğini hesaplar.
-
-## Nerede kullanılır?
-Fabrikalarda makinelerin bakım zamanını kestirmek veya şehir planlamasında trafik akışını simüle etmek için kullanılır.
-
-## Sık karıştırılanlar
-Basit bir 3D model ile karıştırılmamalıdır; dijital ikiz canlı veri ile sürekli beslenen dinamik bir yapıdır.
+Uçağın dijital kopyasının aynı verilerle eş uçması gibidir.
 
 ## Sıkça sorulanlar
 
-**Dijital ikiz ile simülasyon aynı mıdır?**  
-Simülasyon bir kez çalıştırılabilir, dijital ikiz ise gerçek zamanlı verilerle sürekli yaşayan bir sistemdir.
+**Simülasyon farkı nedir?**  
+Simülasyon bir kez koşar, ikiz canlı beslenir. Biri film, diğeri yayındır.
 
-**Her şeyin dijital ikizi olabilir mi?**  
-Teorik olarak evet, ancak maliyet ve veri toplama imkanları belirleyicidir.
+**Her şeyin ikizi olur mu?**  
+Kuramsal evet, pratikte maliyet ve veri belirler.
+
+**Maliyeti nedir?**  
+Sensör, model ve bakım bedeli vardır. Arıza kazancı karşılığında ödenir.
+
+**Nerede kullanılır?**  
+Fabrika, şehir ve enerjide. Kritik varlık önce gelir.
 
 ## İlgili terimler
 - [World Model](/dictionary/world-model/)

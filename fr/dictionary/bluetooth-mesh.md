@@ -24,7 +24,7 @@ Non, les appareils établissent un réseau local entre eux.
 
 ## Termes liés
 - [Mesh](/fr/dictionary/mesh/)
-- [Networking Stack](/fr/dictionary/networking-stack/)
+- [Network Stack](/fr/dictionary/network-stack/)
 
 ## Outils liés
 - [Bitchat](/fr/discover/bitchat/)

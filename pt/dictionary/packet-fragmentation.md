@@ -20,7 +20,7 @@ O dispositivo receptor percebe que faltam peças e pede ao remetente para reenvi
 
 
 ## Termos relacionados
-- [Networking Stack](/pt/dictionary/networking-stack/)
+- [Network Stack](/pt/dictionary/network-stack/)
 - [DNS Tunneling](/pt/dictionary/dns-tunneling/)
 
 ## Ferramentas relacionadas

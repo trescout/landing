@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Logging nedir? · TreScout Sözlük</title>
-<meta name="description" content="Bir programın çalışırken yaptığı işlemleri veya karşılaştığı hataları takip etmek için kronolojik olarak kayıt altına almasıdır.">
+<title>Logging Nedir? Kayıt Seviyeleri ve Yapı Rehberi · TreScout</title>
+<meta name="description" content="Logging nedir, ne demek? DEBUG, INFO, ERROR seviyeleri, JSON kaydı ve PII kuralıyla loglama rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/dictionary/logging/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/logging/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="es" href="https://trescout.com/es/dictionary/logging/">
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/logging/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/logging/">
-<meta property="og:title" content="Logging nedir?">
-<meta property="og:description" content="Bir programın çalışırken yaptığı işlemleri veya karşılaştığı hataları takip etmek için kronolojik olarak kayıt altına almasıdır.">
+<meta property="og:title" content="Logging Nedir? Kayıt Seviyeleri ve Yapı Rehberi · TreScout">
+<meta property="og:description" content="Logging nedir, ne demek? DEBUG, INFO, ERROR seviyeleri, JSON kaydı ve PII kuralıyla loglama rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/logging/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Logging nedir?">
+<meta name="twitter:title" content="Logging Nedir? Kayıt Seviyeleri ve Yapı Rehberi · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/logging.webp">
 <script type="application/ld+json">
 {
@@ -32,7 +32,7 @@
   "@type": "DefinedTerm",
   "name": "Logging",
   "inLanguage": "tr",
-  "description": "Programlar bazen sessizce hata verir. Logging sayesinde, bir hata oluştuğunda programın o ana kadar ne yaptığını, hangi veriyi işlediğini adım adım görebilirsiniz. Bu, bir nevi programın 'kara kutusu'dur.",
+  "description": "Logging (kayıt tutma), programın olaylarını kronolojik yazmasıdır.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -51,7 +51,31 @@
       "name": "Her şeyi kaydetmek iyi midir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Hayır, çok fazla kayıt sistemi yavaşlatabilir ve önemli hataları bulmayı zorlaştırabilir; dengeli kayıt tutulmalıdır."
+        "text": "Hayır. Fazlası yavaşlatır ve önemliyi gizler, dengeli kayıt tutulur."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Seviye nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kaydın aciliyet etiketidir. Aramada süzgeç görevi görür."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Kayıtlar nereye yazılır?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dosya, merkezi sistem veya bulut servisine. Üretimde merkezi toplama önerilir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Ne kadar saklanır?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Politikaya göre değişir. Hata ayıklama haftalar, denetim yıllar ister."
       }
     }
   ]
@@ -64,7 +88,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Bir programın çalışırken yaptığı işlemleri veya karşılaştığı hataları takip etmek için kronolojik olarak kayıt altına almasıdır.">
+<meta name="twitter:description" content="Logging nedir, ne demek? DEBUG, INFO, ERROR seviyeleri, JSON kaydı ve PII kuralıyla loglama rehberi.">
 
 <meta property="og:image:alt" content="Logging nedir?">
 </head>
@@ -74,12 +98,13 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-08-06">Son güncelleme: 6 Ağustos 2026</time></div>
-<h1 class="disc-title">Logging <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-22">Son güncelleme: 22 Eylül 2026</time></div>
+<h1 class="disc-title">Logging <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">Bir programın çalışırken yaptığı işlemleri veya karşılaştığı hataları takip etmek için kronolojik olarak kayıt altına almasıdır.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Programlar bazen sessizce hata verir. Logging sayesinde, bir hata oluştuğunda programın o ana kadar ne yaptığını, hangi veriyi işlediğini adım adım görebilirsiniz. Bu, bir nevi programın &#x27;kara kutusu&#x27;dur.</p></section><div class="dict-analogy">Bir uçağın uçuş sırasında tüm verilerini kaydeden kara kutusu gibi, programın da tüm hareketlerini günlüğüne işlemesidir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Kodun içine &#x27;buraya gelindi&#x27;, &#x27;şu veri işlendi&#x27; gibi komutlar eklersiniz. Program çalıştıkça bu bilgiler bir dosyaya veya izleme sistemine yazılır.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Sunucu uygulamalarında, büyük yazılım sistemlerinde ve hata ayıklama süreçlerinde kullanılır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Observability ile karıştırılabilir; logging bu gözlemlenebilirliğin temel yapı taşlarından biridir.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Her şeyi kaydetmek iyi midir?</p><p class="dict-faq-a">Hayır, çok fazla kayıt sistemi yavaşlatabilir ve önemli hataları bulmayı zorlaştırabilir; dengeli kayıt tutulmalıdır.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/observability/">Observability</a><a href="/dictionary/traces/">Traces</a><a href="/dictionary/logs/">Logs</a></div></section>
-<section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/spdlog/">Spdlog</a></div></section>
+<p class="disc-lead">Logging (Türkçe karşılığıyla <strong>kayıt tutma</strong>), programın olaylarını kronolojik yazmasıdır.</p>
+<section class="disc-sec"><h2>Tanım ve Kelime Kökeni</h2><p>"Log" <strong>kütük, kayıt</strong> demektir. Program sessizce hata verdiğinde, o ana kadar ne yaptığı kayıttan okunur. Uçağın kara kutusu gibidir: Kaza sonrası ilk bakılan yerdir.</p></section><section class="disc-sec"><h2>Gündelik Hayatta Nasıl Bilinir ve Kullanılır?</h2><p><strong>Sunucu:</strong> Hata ayıklama.<br><strong>Ürün:</strong> Kullanım izleme.<br><strong>Güvenlik:</strong> Olay kaydı.</p></section><section class="disc-sec"><h2>Teknik Derinlik ve Mimari</h2><p>Seviyeler:</p><p><strong>DEBUG:</strong> Geliştirici detayı.<br><strong>INFO:</strong> Normal akış.<br><strong>WARN:</strong> Şüpheli durum.<br><strong>ERROR:</strong> Başarısız iş.</p><p>Kurallar:</p><p><strong>Yapılandırılmış kayıt:</strong> JSON format, aranabilirlik.<br><strong>PII yasağı:</strong> Parola ve kimlik kayda girmez.<br><strong>Döndürme:</strong> Dosya büyüyünce arşivlenir.</p><p>Örnek:</p><p><pre><code>import logging
+logging.basicConfig(level=logging.INFO)
+logging.info("Ödeme alındı: sipariş=%s", siparis_id)</code></pre></p><p>Fazla kayıt sistemi yavaşlatır, az kayıt kör bırakır. Üretimde INFO, sorunda DEBUG açılır.</p></section><section class="disc-sec"><h2>Sık Karıştırılanlar</h2><p>Observability sanılır. Oysa logging onun yapı taşıdır: Log ham malzemedir, gözlem yeteneği üründür.</p></section><section class="disc-sec"><h2>Farklı Disiplinlerde Kullanımı</h2><p><strong>Kara kutu:</strong> Uçuş verisi kaydı.<br><strong>Günlük:</strong> Tarih sıra notlar.<br><strong>Kamera kaydı:</strong> Olay arşivi.</p></section><div class="dict-analogy">Uçağın uçuş verilerini kaydeden kara kutusu gibidir; programın hareketleri günlüğe işlenir.</div><section class="disc-sec"><h2>Sıkça Sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Her şeyi kaydetmek iyi midir?</p><p class="dict-faq-a">Hayır. Fazlası yavaşlatır ve önemliyi gizler, dengeli kayıt tutulur.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Seviye nedir?</p><p class="dict-faq-a">Kaydın aciliyet etiketidir. Aramada süzgeç görevi görür.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Kayıtlar nereye yazılır?</p><p class="dict-faq-a">Dosya, merkezi sistem veya bulut servisine. Üretimde merkezi toplama önerilir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Ne kadar saklanır?</p><p class="dict-faq-a">Politikaya göre değişir. Hata ayıklama haftalar, denetim yıllar ister.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/observability/">Observability</a><a href="/dictionary/traces/">Traces</a><a href="/dictionary/logs/">Logs</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

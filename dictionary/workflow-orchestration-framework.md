@@ -1,29 +1,57 @@
-# Workflow Orchestration Framework nedir?
+# Workflow Orchestration Framework nedir, ne demek?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-07-13
+**Son güncelleme:** 2026-09-22
 
-Karmaşık işlerin hangi sırayla ve nasıl yapılacağını yöneten bir düzenleme altyapısıdır.
+Workflow orchestration framework, bağımlı görevleri sıraya koyup hatayı yöneten altyapıdır.
 
-## Tanım
-Birbirine bağlı çok sayıda görevin olduğu süreçlerde, hangi işin önce biteceğini, hangisinin hata durumunda tekrar deneneceğini belirleyen bir yönetim sistemidir. Bir görev bittiğinde otomatik olarak diğerini başlatır. Bu sayede karmaşık süreçler hatasız ve düzenli işler.
+## Tanım ve Kelime Kökeni
+"Orchestration" **orkestra yönetimi** demektir. Görev bitince sıradaki başlar, hata olunca yeniden denenir veya haber verilir. Elle takip edilemeyen çok parçalı işler bu düzene emanet edilir.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Veri:** Gece çalışan hatlar.
+- **Ajan:** Görev zincirleri.
+- **Kurumsal:** Onaylı süreçler.
+
+## Teknik Derinlik ve Mimari
+Parçalar:
+- **DAG:** Görev ve bağımlılık grafiği.
+- **Retry:** Hata durumunda yeniden deneme.
+- **Zamanlama:** Cron benzeri tetikleme.
+- **Gözlem:** Çalışma geçmişi ve uyarı.
+
+Basit zincir:
+
+```
+indir >> temizle >> analiz_et
+```
+
+Airflow, Prefect ve Temporal bilinen uygulamalarıdır. Liste uygulaması sanılmamalıdır: Liste hatırlatır, orkestrasyon yönetir.
+
+## Sık Karıştırılanlar
+Yapılacaklar listesi sanılır. Liste pasiftir, framework hata yönetir ve otomatik karar verir.
+
+## Farklı Disiplinlerde Kullanımı
+- **Orkestra:** Giriş ve susma düzeni.
+- **Hava trafik:** Kalkış sıralaması.
+- **Demiryolu:** Tren tarifesi.
 
 ## Bir benzetmeyle
-Bir orkestra şefi gibidir; kemanların ne zaman çalacağını, davulun ne zaman gireceğini ve kimin susması gerektiğini yöneterek ortaya uyumlu bir müzik çıkarır.
-
-## Nasıl çalışır?
-Siz süreci tanımlarsınız; örneğin 'önce veriyi indir, sonra temizle, en son analiz et' dersiniz. Framework bu adımları izler, eğer indirme başarısız olursa süreci durdurup size haber verir.
-
-## Nerede kullanılır?
-Büyük veri işleme süreçlerinde, yapay zeka ajanlarının görev yönetiminde ve kurumsal yazılım sistemlerinde kullanılır.
-
-## Sık karıştırılanlar
-Sadece bir 'liste' veya 'yapılacaklar' uygulaması değildir; bu sistemler süreçteki hataları yönetebilir ve otomatik kararlar verebilir.
+Orkestra şefi gibidir; kemanların ne zaman çalacağını, davulun ne zaman gireceğini yönetir.
 
 ## Sıkça sorulanlar
 
-**Neden buna ihtiyaç duyarız?**  
-Elle takip edilemeyecek kadar çok ve birbirine bağlı işin olduğu durumlarda hata yapmamak için kullanılır.
+**Neden ihtiyaç duyulur?**  
+Bağımlı işler elle izlenemez hale gelince hata kaçınılmaz olur. Düzen hatayı ve tekrarlanan işi üstlenir.
+
+**Ne zaman gerekli?**  
+Görev sayısı ve bağımlılık artınca. Üç adımlı işe kurmak fazla gelebilir.
+
+**Cron farkı nedir?**  
+Cron zamanlar, orkestrasyon bağımlılık ve hatayı da yönetir. Cron tetikler, framework koşturur.
+
+**Hangisi seçilmeli?**  
+Ekosistem ve ekip bilgisine göre. Küçük işte hafif, büyük hatta tam donanımlı tercih edilir.
 
 ## İlgili terimler
 - [Agentic Workflows](/dictionary/agentic-workflows/)

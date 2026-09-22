@@ -1,36 +1,60 @@
-# Proxy nedir?
+# Proxy nedir, ne demek?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-06-03
+**Son güncelleme:** 2026-09-22
 
-İnternet üzerindeki işlemlerinizi sizin yerinize yapan bir aracı sunucudur.
+Proxy (Türkçe karşılığıyla **vekil sunucu**), isteklerinizi sizin adınıza hedefe ileten aracıdır.
 
-## Tanım
-Proxy, bilgisayarınız ile internet arasında bir bekçi gibi durur. Siz bir siteye girmek istediğinizde, önce proxy sunucusuna gidersiniz; o da sizin yerinize siteye bağlanır. Bu yöntem hem kimliğinizi gizlemek hem de internet trafiğini yönetmek için kullanılır.
+## Tanım ve Kelime Kökeni
+"Proxy" **vekil** demektir. Bilgisayarınızla internet arasında bekçi gibi durur: Siteye doğrudan değil, vekil üzerinden bağlanırsınız. Kimlik gizleme ve trafik yönetiminde kullanılır.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Şirket:** Çıkış trafiğinin denetimi.
+- **Gizlilik:** Adres gizleme.
+- **Erişim:** Bölgesel kısıt aşımı.
+
+## Teknik Derinlik ve Mimari
+İki yön vardır:
+- **Forward:** İstemciyi gizler, dışarı çıkar.
+- **Reverse:** Sunucuyu korur, içeri alır. Nginx bu işi yapar.
+
+Türler: HTTP, HTTPS ve SOCKS. Ortam değişkeni örneği:
+
+```
+export https_proxy="http://vekil:8080"
+```
+
+Önbellek de tutar: Sık istenen içerik vekilden verilir, hat rahatlar.
+
+## Sık Karıştırılanlar
+VPN sanılır. VPN tüm cihazı tünele sokar, proxy genellikle uygulama veya tarayıcı düzeyinde çalışır. Gizlilik derinliği farklıdır.
+
+## Farklı Disiplinlerde Kullanımı
+- **Arkadaş:** Mesajı sizin adınıza ileten kişi.
+- **Resepsiyon:** Ziyaretçiyi karşılayan görevli.
+- **Tercüman:** Sözü aktaran aracı.
 
 ## Bir benzetmeyle
-Birine mesaj göndermek istediğinizde, mesajı doğrudan ona değil de bir arkadaşınıza verip arkadaşınızın sizin adınıza o kişiye iletmesi gibidir.
-
-## Nasıl çalışır?
-İnternet ayarlarınıza proxy adresini girersiniz. Artık tüm verileriniz önce o sunucuya gider, oradan hedefe ulaşır.
-
-## Nerede kullanılır?
-Şirket ağlarında, gizlilik gerektiren durumlarda ve kısıtlı içeriklere erişmek için kullanılır.
-
-## Sık karıştırılanlar
-VPN ile benzerdir ancak proxy genellikle sadece belirli uygulamalar veya tarayıcılar için çalışır.
+Mesajı doğrudan değil, arkadaşınız üzerinden iletmeniz gibidir; alıcı sizi değil aracıyı görür.
 
 ## Sıkça sorulanlar
 
 **Güvenli mi?**  
-Kullandığınız proxy sunucusuna bağlıdır; güvenilir olmayan proxy'ler bilgilerinizi izleyebilir.
+Vekile bağlıdır. Güvenilmez sunucu trafiği izleyebilir, bu yüzden bilinen sağlayıcı seçilir.
 
 **Neden kullanılır?**  
-Engelli sitelere girmek, internet hızını optimize etmek veya kimliği gizlemek için tercih edilir.
+Denetim, gizlilik ve erişim için. Üçü de ayrı ihtiyaçtır.
+
+**Reverse nedir?**  
+Dışarıdan geleni sunucuya dağıtan yöndür. Yük dengeleme ve koruma sağlar.
+
+**Hızlandırır mı?**  
+Önbellekli içerikte evet, şifreli ve uzak trafikte genellikle yavaşlatır.
 
 ## İlgili terimler
-- [Self-hosting](/dictionary/self-hosting/)
+- [Self-Hosting](/dictionary/self-hosting/)
 - [Offline](/dictionary/offline/)
+- [VPN](/dictionary/vpn/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/proxy/

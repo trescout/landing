@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>End-to-End Testing nedir? · E2E Testing · TreScout Sözlük</title>
-<meta name="description" content="Bir uygulamanın gerçek bir kullanıcı gibi baştan sona tüm işleyişinin doğrulanmasıdır.">
+<title>End-to-End Testing Nedir? Uçtan Uca Test Rehberi · TreScout</title>
+<meta name="description" content="End-to-end testing nedir, ne demek? Kritik yol, test örneği, yavaşlık nedeni ve birim test farkıyla E2E rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/end-to-end-testing/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/end-to-end-testing/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/end-to-end-testing/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/end-to-end-testing/">
 <link rel="canonical" href="https://trescout.com/dictionary/end-to-end-testing/">
-<meta property="og:title" content="End-to-End Testing nedir?">
-<meta property="og:description" content="Bir uygulamanın gerçek bir kullanıcı gibi baştan sona tüm işleyişinin doğrulanmasıdır.">
+<meta property="og:title" content="End-to-End Testing Nedir? Uçtan Uca Test Rehberi · TreScout">
+<meta property="og:description" content="End-to-end testing nedir, ne demek? Kritik yol, test örneği, yavaşlık nedeni ve birim test farkıyla E2E rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/end-to-end-testing/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="End-to-End Testing nedir?">
+<meta name="twitter:title" content="End-to-End Testing Nedir? Uçtan Uca Test Rehberi · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/end-to-end-testing.webp">
 <script type="application/ld+json">
 {
@@ -33,7 +33,7 @@
   "name": "End-to-End Testing",
   "alternateName": "E2E Testing",
   "inLanguage": "tr",
-  "description": "Sistemin tek tek parçalarını değil, tüm uygulamanın bir bütün olarak nasıl çalıştığını test eder. Kullanıcı uygulamaya girer, bir butona tıklar, veritabanına gider ve sonuç döner. Bu sürecin tamamının hatasız olup olmadığına bakılır.",
+  "description": "End-to-end testing (E2E test), uygulamayı kullanıcı gibi baştan sona denemedir.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -49,10 +49,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Neden sadece bunu yapmıyoruz?",
+      "name": "Neden yalnızca bu yapılmıyor?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Çünkü çok yavaştır ve hata oluştuğunda sorunun tam olarak nerede olduğunu bulmak daha zordur."
+        "text": "Yavaştır, arıza yeri bulanıktır. Birimle birlikte kullanılır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Ne sıklıkla koşar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yayın öncesi ve gecede. Her committe kritik alt küme koşar."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Kim yazar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Geliştirici ve testçi birlikte yazar. Sahibi bellidir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Kırılgan mıdır?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Arayüz değişince kırılır. Seçici ve dayanıklı yazılır."
       }
     }
   ]
@@ -65,7 +89,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Bir uygulamanın gerçek bir kullanıcı gibi baştan sona tüm işleyişinin doğrulanmasıdır.">
+<meta name="twitter:description" content="End-to-end testing nedir, ne demek? Kritik yol, test örneği, yavaşlık nedeni ve birim test farkıyla E2E rehberi.">
 
 <meta property="og:image:alt" content="End-to-End Testing nedir?">
 </head>
@@ -75,12 +99,14 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-06-14">Son güncelleme: 14 Haziran 2026</time></div>
-<h1 class="disc-title">End-to-End Testing <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-22">Son güncelleme: 22 Eylül 2026</time></div>
+<h1 class="disc-title">End-to-End Testing <span class="disc-accent">nedir, ne demek?</span></h1>
 <p class="dict-en">E2E Testing</p>
-<p class="disc-lead">Bir uygulamanın gerçek bir kullanıcı gibi baştan sona tüm işleyişinin doğrulanmasıdır.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Sistemin tek tek parçalarını değil, tüm uygulamanın bir bütün olarak nasıl çalıştığını test eder. Kullanıcı uygulamaya girer, bir butona tıklar, veritabanına gider ve sonuç döner. Bu sürecin tamamının hatasız olup olmadığına bakılır.</p></section><div class="dict-analogy">Bir arabanın sadece motorunu değil, anahtarı çevirip yola çıkıp çıkmadığını ve tüm sistemlerin uyumunu test etmek gibidir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Otomasyon araçları, gerçek bir tarayıcıyı veya uygulamayı sanki bir insan kullanıyormuş gibi yönetir. Tüm adımları tek tek simüle eder.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Yazılım yayına alınmadan hemen önce, tüm özelliklerin birbiriyle uyumunu kontrol etmek için kullanılır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Unit testing ile karıştırılabilir; unit testing parçaya, E2E ise bütüne bakar.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Neden sadece bunu yapmıyoruz?</p><p class="dict-faq-a">Çünkü çok yavaştır ve hata oluştuğunda sorunun tam olarak nerede olduğunu bulmak daha zordur.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/unit-testing/">Unit Testing</a><a href="/dictionary/testing-framework/">Testing Framework</a><a href="/dictionary/web-interface/">Web Interface</a></div></section>
-<section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/cypress/">Cypress</a></div></section>
+<p class="disc-lead">End-to-end testing (kısaca <strong>E2E test</strong>), uygulamayı kullanıcı gibi baştan sona denemedir.</p>
+<section class="disc-sec"><h2>Tanım ve Kelime Kökeni</h2><p>"End-to-end" <strong>uçtan uca</strong> demektir. Parça değil bütün denenir: Giriş yapılır, düğmeye basılır, veri gider, sonuç döner. Yayın öncesi uyum kapısıdır.</p></section><section class="disc-sec"><h2>Gündelik Hayatta Nasıl Bilinir ve Kullanılır?</h2><p><strong>Yayın:</strong> Sürüm öncesi tur.<br><strong>Mağaza:</strong> Satın alma yolu.<br><strong>Form:</strong> Kayıt akışı.</p></section><section class="disc-sec"><h2>Teknik Derinlik ve Mimari</h2><p>Düzen:</p><p><strong>Kritik yol:</strong> Önce para eden akış.<br><strong>Otomasyon:</strong> Tarayıcı süren araç.<br><strong>Veri:</strong> Test hesabı ve sıfırlama.</p><p>Örnek:</p><p><pre><code>test("giriş", async () =&gt; {
+  await sayfa.goto("/giris");
+  await bekle("#panel");
+});</code></pre></p><p>Yavaşlık nedeni: Gerçek tarayıcı açılır. Kritik yol seçilir, her şey test edilmez.</p></section><section class="disc-sec"><h2>Sık Karıştırılanlar</h2><p>Birim test sanılır. O parçaya bakar, bu bütüne bakar. Biri vida, diğeri sürüş testidir.</p></section><section class="disc-sec"><h2>Farklı Disiplinlerde Kullanımı</h2><p><strong>Araba:</strong> Anahtardan yola çıkış.<br><strong>Prova:</strong> Genel tekrar.<br><strong>Final:</strong> Yayın provası.</p></section><div class="dict-analogy">Motoru değil, anahtarı çevirip yola çıkmayı denemeye benzer.</div><section class="disc-sec"><h2>Sıkça Sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Neden yalnızca bu yapılmıyor?</p><p class="dict-faq-a">Yavaştır, arıza yeri bulanıktır. Birimle birlikte kullanılır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Ne sıklıkla koşar?</p><p class="dict-faq-a">Yayın öncesi ve gecede. Her committe kritik alt küme koşar.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Kim yazar?</p><p class="dict-faq-a">Geliştirici ve testçi birlikte yazar. Sahibi bellidir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Kırılgan mıdır?</p><p class="dict-faq-a">Arayüz değişince kırılır. Seçici ve dayanıklı yazılır.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/unit-testing/">Unit Testing</a><a href="/dictionary/testing-framework/">Testing Framework</a><a href="/dictionary/web-interface/">Web Interface</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

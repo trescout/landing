@@ -1,26 +1,56 @@
-# Claude Code Templates nedir?
+# Claude Code Templates nedir, ne demek?
 
 **Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-07-12
+**Son güncelleme:** 2026-09-22
 
-Yapay zekâ destekli kodlama araçlarının belirli projeleri hızlıca başlatması için sunduğu hazır taslaklar.
+Claude Code templates, Claude Code ile proje başlatmayı hızlandıran hazır dosya iskeletleridir.
 
-## Tanım
-Bu şablonlar, bir projeye başlarken gereken temel dosya yapısını ve ayarları otomatik olarak oluşturur. Yapay zekâ asistanının projenin ne tür bir uygulama olduğunu anlamasını kolaylaştırır. Böylece boş bir sayfadan başlamak yerine, hazır bir iskelet üzerinden ilerlersiniz.
+## Tanım ve Kelime Kökeni
+"Template" **şablon** demektir. Boş sayfadan başlamak yerine iskelet alınır: Dizin yapısı, ayarlar ve yönerge dosyası hazır gelir. Asistan projenin türünü iskeletten anlar, önerileri isabetli olur.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Prototip:** Fikrin hızlı denenmesi.
+- **Standart:** Ekip içi aynı iskelet.
+- **Öğrenme:** Örnek üzerinden kural kapma.
+
+## Teknik Derinlik ve Mimari
+Tipik iskelet:
+
+```
+projem/
+├── CLAUDE.md
+├── src/
+└── README.md
+```
+
+Parçalar:
+- **CLAUDE.md:** Asistana proje kuralları.
+- **src:** Kod dizini.
+- **Komutlar:** Sık işlerin kısayolları.
+
+Kural: İskelet başlangıçtır, kural defteri değil. Proje büyüdükçe dosya sade tutulur.
+
+## Farklı Disiplinlerde Kullanımı
+- **Prefabrik:** Temeli hazır yapı.
+- **Terzi kalıbı:** Bedene göre kesim şablonu.
+- **Yemek tarifi:** Ölçülü başlangıç seti.
 
 ## Bir benzetmeyle
-Bir ev inşa ederken temel ve duvarların hazır olduğu bir prefabrik yapı kullanmak gibidir.
-
-## Nasıl çalışır?
-Yapay zekâ aracınıza projenin türünü söylersiniz ve o, ilgili şablonu kullanarak gerekli dosyaları sizin için hazırlar.
-
-## Nerede kullanılır?
-Yeni bir yazılım projesi başlatırken, özellikle hızlı prototip oluşturma aşamalarında kullanılır.
+Ev inşa ederken temeli ve duvarları hazır prefabrik yapı kullanmak gibidir.
 
 ## Sıkça sorulanlar
 
-**Bu şablonlar özelleştirilebilir mi?**  
-Evet, çoğu şablon projenin ihtiyaçlarına göre daha sonra değiştirilebilir.
+**Şablonlar özelleştirilebilir mi?**  
+Evet. İskelet başlangıçtır, projeye göre budanır ve genişletilir.
+
+**Nerede bulunur?**  
+Topluluk depolarında ve araç belgelerinde. Kaynağı ve güncelliği denetlenir.
+
+**Güvenilir mi?**  
+Kaynağına göre değişir. Bilinmeyen iskelet körü körüne çalıştırılmaz, içeriği okunur.
+
+**Kendim yazabilir miyim?**  
+Evet. Ekip iskeleti en değerlisidir, tekrardan doğar.
 
 ## İlgili terimler
 - [AI Coding Agent](/dictionary/ai-coding-agent/)

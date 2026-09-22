@@ -30,7 +30,7 @@ Cihaz sayısı arttıkça ağın kapsama alanı da genişler.
 
 ## İlgili terimler
 - [Mesh](/dictionary/mesh/)
-- [Networking Stack](/dictionary/networking-stack/)
+- [Network Stack](/dictionary/network-stack/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/bluetooth-mesh/

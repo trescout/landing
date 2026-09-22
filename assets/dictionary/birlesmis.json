@@ -16,6 +16,7 @@
   "diffusion-models": "diffusion-model",
   "jupyter-notebook": "jupyter-notebooks",
   "knowledge-graphs": "knowledge-graph",
+  "networking-stack": "network-stack",
   "pipelines": "pipeline",
   "plugins": "plugin",
   "prompts": "prompt",

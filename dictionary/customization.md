@@ -1,32 +1,54 @@
-# Customization nedir?
+# Customization nedir, ne demek?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-07-31
+**Son güncelleme:** 2026-09-22
 
-Bir yazılımın veya sistemin, kullanıcının özel tercihlerine ve ihtiyaçlarına göre yeniden şekillendirilmesidir.
+Customization (Türkçe karşılığıyla **özelleştirme**), hazır ürünü kendi ihtiyacınıza göre uyarlamanızdır.
 
-## Tanım
-Customization, hazır bir ürünü alıp onu kendi çalışma tarzınıza uygun hale getirme sürecidir. Bu, arayüz renklerini değiştirmekten, sistemin çalışma kurallarını belirlemeye kadar uzanabilir. Amaç, yazılımın size uyum sağlamasıdır, sizin yazılıma değil.
+## Tanım ve Kelime Kökeni
+"Customize" **isteğe göre uyarlamak** demektir. Arayüz renginden iş akışı kuralına kadar uzanır. Amaç ürünün size uymasıdır, sizin ürüne değil. Terzi metaforu yerindedir: Hazır takım elbise alınır, bedene göre daraltılır.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Tema:** Koyu mod ve renk seçimi.
+- **Kısayol:** Tuş atamaları.
+- **Kurumsal:** Onay akışı ve alan tanımları.
+
+## Teknik Derinlik ve Mimari
+Uyarlama katmanları, ucuzdan pahalıya:
+- **Ayar:** Menüden seçim, risksizdir.
+- **Yapılandırma:** Dosya ve şablonla kural yazma.
+- **Eklenti:** Çekirdeğe dokunmadan yetenek ekleme.
+- **Çatallama:** Kodu kopyalayıp ayrı yola gitme, en pahalısıdır.
+
+Kural: Katman yükseldikçe güncelleme maliyeti artar. Çatallanan ürünün her yeni sürümü elle birleştirilir.
+
+## Sık Karıştırılanlar
+Personalization ile benzerdir. Fark şudur: Customization içinde siz sistemi ayarlarsınız, personalization içinde sistem sizi gözleyip kendini ayarlar. Biri el emeği, diğeri otomatiktir.
+
+## Farklı Disiplinlerde Kullanımı
+- **Terzi:** Hazır giyimin bedene uyarlanması.
+- **Mobilya:** Ölçüye göre dolap yaptırma.
+- **Otomobil:** Donanım paketi seçimi.
 
 ## Bir benzetmeyle
-Hazır bir takım elbise alıp onu terziye giderek kendi vücut ölçülerinize göre daraltmak veya genişletmek gibidir.
-
-## Nasıl çalışır?
-Ayarlar menüsünden tercihlerinizi seçerek veya yazılımın izin verdiği ölçüde kod üzerinde küçük değişiklikler yaparak uygulanır.
-
-## Nerede kullanılır?
-Kişisel bilgisayar ayarlarından, karmaşık kurumsal yazılımların iş akışlarına kadar her alanda karşınıza çıkar.
-
-## Sık karıştırılanlar
-Kişiselleştirme (personalization) ile benzerdir ancak customization genellikle daha teknik bir yapılandırma sürecini ifade eder.
+Hazır bir takım elbise alıp terziye giderek kendi ölçülerinize göre daraltmak gibidir.
 
 ## Sıkça sorulanlar
 
 **Her yazılım özelleştirilebilir mi?**  
-Hayır, bazı yazılımlar kapalı kutu gibidir ve kullanıcıya hiçbir ayar seçeneği sunmaz.
+Hayır. Kapalı kutu ürünler ayar sunmaz. Satın almadan önce uyarlama katmanlarını sormanız gerekir.
+
+**Personalization ile farkı nedir?**  
+Customization içinde siz ayarlarsınız, personalization içinde sistem sizi gözler. Biri el emeği, diğeri otomatiktir.
+
+**Sınırı nedir?**  
+Çekirdek güncellenemez hale geldiği noktadır. Aşırı uyarlanan ürün yenilenemez, çakılır kalır.
+
+**Güncelleme uyarlamayı bozar mı?**  
+Eklenti katmanında genellikle hayır, çatallamada genellikle evet. Bu yüzden en düşük yeterli katman seçilir.
 
 ## İlgili terimler
-- [Plugins](/dictionary/plugin/)
+- [Plugin](/dictionary/plugin/)
 - [Framework](/dictionary/framework/)
 - [User Experience](/dictionary/user-experience/)
 

@@ -1,34 +1,60 @@
-# BI nedir?
+# BI nedir, ne demek?
 
 > Business Intelligence
 
 **Kategori:** Veri & Altyapı  
-**Son güncelleme:** 2026-07-17
+**Son güncelleme:** 2026-09-22
 
-Ham verileri anlamlı raporlara dönüştürerek iş kararlarını destekleyen analiz araçlarıdır.
+BI (**Business Intelligence**, iş zekâsı), ham veriyi karar destekleyen raporlara dönüştüren disiplindir.
 
-## Tanım
-İş zekâsı, elinizdeki karmaşık ve yığın halindeki verileri görsel grafiklere ve özet raporlara dönüştürür. Bu sayede şirketler, geçmişte ne olduğunu ve gelecekte ne olabileceğini daha net görür. Sadece bir veri toplama aracı değil, aynı zamanda stratejik bir karar verme rehberidir.
+## Tanım ve Kelime Kökeni
+Karmaşık veri yığınları grafik ve özetlere çevrilir. Geçmişin muhasebesi ve geleceğin tahmini bu ekranlardan okunur. Toplama aracı değil, karar rehberidir.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Finans:** Aylık kapanış raporları.
+- **Satış:** Bölge ve ürün kırılımı.
+- **Operasyon:** Stok ve teslimat takibi.
+
+## Teknik Derinlik ve Mimari
+Hat:
+- **Toplama:** Kaynaklardan çekme.
+- **Temizleme:** Hatalı ve yinelenen kayıt ayıklama.
+- **Modelleme:** Tablo ve ilişki düzeni.
+- **Görselleştirme:** Dashboard ekranları.
+
+Basit metrik örneği:
+
+```
+SELECT bolge, SUM(tutar) FROM satislar
+GROUP BY bolge ORDER BY 2 DESC;
+```
+
+Self-service araçlarla iş birimi kendi raporunu kurar, teknik ekip altyapıyı tutar.
+
+## Sık Karıştırılanlar
+Veri analitiği sanılır. Analitik soru sorar, BI düzenli cevap verir. Biri keşif, diğeri rapor düzenidir.
+
+## Farklı Disiplinlerde Kullanımı
+- **Şef:** Malzemeden menü çıkarma.
+- **Gösterge paneli:** Hız ve yakıt bilgisi.
+- **Hava durumu:** Ölçümden tahmin üretme.
 
 ## Bir benzetmeyle
-Bir mutfaktaki binlerce farklı malzemeyi (veri) alıp, müşteriye sunulacak lezzetli bir menüye (karar) dönüştüren usta bir şef gibidir.
-
-## Nasıl çalışır?
-Önce veriler farklı kaynaklardan toplanır, ardından temizlenip düzenlenir. Son aşamada ise BI araçları bu verileri dashboard dediğimiz ekranlarda görselleştirir. Siz de bu ekranlara bakarak satışlarınızı veya operasyonlarınızı optimize edersiniz.
-
-## Nerede kullanılır?
-Şirketlerin finansal raporlarında, satış tahminlerinde ve müşteri davranış analizlerinde sıkça kullanılır.
-
-## Sık karıştırılanlar
-Veri analitiği ile benzerdir ancak BI daha çok geçmiş ve mevcut durumun yönetimine odaklanır.
+Mutfaktaki binlerce malzemeden müşteriye sunulacak menü çıkaran usta şef gibidir.
 
 ## Sıkça sorulanlar
 
 **BI neden önemlidir?**  
-Tahminlere dayalı değil, veriye dayalı kararlar almanızı sağlar.
+Tahmin yerine veriye dayalı karar verdirir. Geçmişi görünür, geleceği planlanır kılar.
 
 **Herkes BI kullanabilir mi?**  
-Evet, günümüzde sürükle-bırak yöntemiyle çalışan çok basit BI araçları mevcuttur.
+Evet. Sürükle-bırak araçlarla iş birimleri kendi raporunu kurar.
+
+**Hangi araçlar kullanılır?**  
+Power BI, Tableau, Metabase ve Looker yaygındır. Seçim veri kaynağı ve bütçeye göre yapılır.
+
+**Küçük şirkete gerekli mi?**  
+Basit haliyle evet. Tek e-tablo raporu bile BI başlangıcıdır.
 
 ## İlgili terimler
 - [Data Pipeline](/dictionary/data-pipeline/)

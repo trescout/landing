@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Logs nedir? · TreScout Sözlük</title>
-<meta name="description" content="Bir yazılımın arka planda yaptığı işlemlerin ve karşılaştığı hataların zaman damgasıyla tutulan kayıtlarıdır.">
+<title>Logs Nedir? Kayıt Okuma ve Yönetme Rehberi · TreScout</title>
+<meta name="description" content="Logs nedir, ne demek? Zaman damgası, seviye, döndürme ve PII kuralıyla kayıt yönetimi rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/logs/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/logs/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/logs/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/logs/">
 <link rel="canonical" href="https://trescout.com/dictionary/logs/">
-<meta property="og:title" content="Logs nedir?">
-<meta property="og:description" content="Bir yazılımın arka planda yaptığı işlemlerin ve karşılaştığı hataların zaman damgasıyla tutulan kayıtlarıdır.">
+<meta property="og:title" content="Logs Nedir? Kayıt Okuma ve Yönetme Rehberi · TreScout">
+<meta property="og:description" content="Logs nedir, ne demek? Zaman damgası, seviye, döndürme ve PII kuralıyla kayıt yönetimi rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/logs/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Logs nedir?">
+<meta name="twitter:title" content="Logs Nedir? Kayıt Okuma ve Yönetme Rehberi · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/logs.webp">
 <script type="application/ld+json">
 {
@@ -32,7 +32,7 @@
   "@type": "DefinedTerm",
   "name": "Logs",
   "inLanguage": "tr",
-  "description": "Yazılımlar çalışırken sessizce arka planda ne yaptıklarını bir deftere not ederler. Bir hata oluştuğunda geliştiriciler bu defteri açıp 'saat kaçta ne olmuş' diye bakarlar. Bu kayıtlar, sistemin sağlığını anlamak için en önemli araçtır.",
+  "description": "Log (kayıt), sistem olaylarının zaman damgalı satırlarıdır.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -48,10 +48,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Neden loglara ihtiyaç duyarız?",
+      "name": "Neden log gerekir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Sistem çöktüğünde nedenini bulmanın tek yolu logları okumaktır."
+        "text": "Çöküşün nedeni kayıttadır. Kayıtsız sistem kör uçar."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Nereye yazılır?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dosya veya merkezi sisteme. Üretimde merkezi toplama önerilir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Ne kadar saklanır?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Politikaya göre değişir. Hata ayıklama haftalar, denetim yıllar ister."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Kişisel veri yazılır mı?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hayır. Parola ve kimlik kayda girmez, maskelenir."
       }
     }
   ]
@@ -64,7 +88,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Bir yazılımın arka planda yaptığı işlemlerin ve karşılaştığı hataların zaman damgasıyla tutulan kayıtlarıdır.">
+<meta name="twitter:description" content="Logs nedir, ne demek? Zaman damgası, seviye, döndürme ve PII kuralıyla kayıt yönetimi rehberi.">
 
 <meta property="og:image:alt" content="Logs nedir?">
 </head>
@@ -74,12 +98,11 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-06-27">Son güncelleme: 27 Haziran 2026</time></div>
-<h1 class="disc-title">Logs <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-22">Son güncelleme: 22 Eylül 2026</time></div>
+<h1 class="disc-title">Logs <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">Bir yazılımın arka planda yaptığı işlemlerin ve karşılaştığı hataların zaman damgasıyla tutulan kayıtlarıdır.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Yazılımlar çalışırken sessizce arka planda ne yaptıklarını bir deftere not ederler. Bir hata oluştuğunda geliştiriciler bu defteri açıp &#x27;saat kaçta ne olmuş&#x27; diye bakarlar. Bu kayıtlar, sistemin sağlığını anlamak için en önemli araçtır.</p></section><div class="dict-analogy">Bir uçağın kara kutusu gibidir; uçuş boyunca her şey kaydedilir ve bir sorun olduğunda kayıtlar incelenerek ne olduğu anlaşılır.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Yazılımın içine yerleştirilen komutlar sayesinde her önemli olay bir dosyaya veya veritabanına yazdırılır.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Sunucularda, uygulamalarda ve hata ayıklama süreçlerinde kullanılır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Traces ile karıştırılabilir; loglar bir olayın kaydıdır, traces ise o olayın izlediği yoldur.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Neden loglara ihtiyaç duyarız?</p><p class="dict-faq-a">Sistem çöktüğünde nedenini bulmanın tek yolu logları okumaktır.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/observability/">Observability</a><a href="/dictionary/qa/">QA</a></div></section>
-<section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/grafana/">Grafana</a><a href="/discover/modly/">Modly</a></div></section>
+<p class="disc-lead">Log (Türkçe karşılığıyla <strong>kayıt</strong>), sistem olaylarının zaman damgalı satırlarıdır.</p>
+<section class="disc-sec"><h2>Tanım ve Kelime Kökeni</h2><p>"Log" gemi jurnali demektir: Kaptan olanı biteni deftere yazar. Yazılım da arka planda ne yaptığını satır satır yazar. Hata anında defter açılır, saatine bakılır. Sistem sağlığının ilk kaynağıdır.</p></section><section class="disc-sec"><h2>Gündelik Hayatta Nasıl Bilinir ve Kullanılır?</h2><p><strong>Sunucu:</strong> Hata ayıklama.<br><strong>Uygulama:</strong> Çökme raporu.<br><strong>Güvenlik:</strong> Olay izi.</p></section><section class="disc-sec"><h2>Teknik Derinlik ve Mimari</h2><p>İyi kaydın kuralları:</p><p><strong>Zaman damgası:</strong> Her satırda saat.<br><strong>Seviye:</strong> INFO ve ERROR ayrımı.<br><strong>Döndürme:</strong> Dosya büyüyünce arşiv.<br><strong>PII yasağı:</strong> Kişisel veri kayda girmez.</p><p>Örnek satır:</p><p><pre><code>2026-09-22T10:00:01 sipariş=4521 sonuc=ok sure_ms=38</code></pre></p><p>Arama bu formatta kolaylaşır. Dağınık metin aranamaz, düzenli kayıt aranır.</p></section><section class="disc-sec"><h2>Sık Karıştırılanlar</h2><p>Trace sanılır. Log olay kaydıdır, trace olayın yoludur. Biri fotoğraf, diğeri filmdir.</p></section><section class="disc-sec"><h2>Farklı Disiplinlerde Kullanımı</h2><p><strong>Kara kutu:</strong> Uçuş verisi.<br><strong>Günlük:</strong> Tarih sıra notlar.<br><strong>Kasa fişi:</strong> İşlem dökümü.</p></section><div class="dict-analogy">Uçağın kara kutusu gibidir; uçuş boyu kayıt tutulur, sorunda geriye sarılır.</div><section class="disc-sec"><h2>Sıkça Sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Neden log gerekir?</p><p class="dict-faq-a">Çöküşün nedeni kayıttadır. Kayıtsız sistem kör uçar.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Nereye yazılır?</p><p class="dict-faq-a">Dosya veya merkezi sisteme. Üretimde merkezi toplama önerilir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Ne kadar saklanır?</p><p class="dict-faq-a">Politikaya göre değişir. Hata ayıklama haftalar, denetim yıllar ister.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Kişisel veri yazılır mı?</p><p class="dict-faq-a">Hayır. Parola ve kimlik kayda girmez, maskelenir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/observability/">Observability</a><a href="/dictionary/qa/">QA</a><a href="/dictionary/traces/">Traces</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

@@ -24,7 +24,7 @@ Sie können Websites nicht namentlich aufrufen, da Ihr Internetbrowser nicht fin
 
 ## Verwandte Begriffe
 - [DNS Tunneling](/de/dictionary/dns-tunneling/)
-- [Networking Stack](/de/dictionary/networking-stack/)
+- [Network Stack](/de/dictionary/network-stack/)
 - [Gateway](/de/dictionary/gateway/)
 
 ---

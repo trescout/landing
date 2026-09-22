@@ -1,32 +1,58 @@
-# Free Tier nedir?
+# Free Tier nedir, ne demek?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-06-28
+**Son güncelleme:** 2026-09-22
 
-Bir hizmetin sınırlı özelliklerle ücretsiz olarak sunulan başlangıç seviyesidir.
+Free tier (Türkçe karşılığıyla **ücretsiz katman**), hizmetin sınırlı bedava sürümüdür.
 
-## Tanım
-Şirketlerin kullanıcıları sisteme alıştırmak için sunduğu bir deneme modelidir. Genellikle belirli bir kullanım kotası veya bazı gelişmiş özelliklerin kısıtlandığı bir pakettir. İhtiyaç arttığında kullanıcılar ücretli planlara geçiş yapar.
+## Tanım ve Kelime Kökeni
+"Tier" **katman** demektir. Alıştırmak için kota veya özellik kısıtlı paket sunulur. İhtiyaç büyüyünce ücretliye geçilir. SaaS, YZ API ve bulutta standarttır.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Deneme:** API anahtarıyla ilk proje.
+- **Hobi:** Küçük site barındırma.
+- **Öğrenme:** Yeni araç denemesi.
+
+## Teknik Derinlik ve Mimari
+Kota türleri:
+- **Kullanım:** Günlük istek sayısı.
+- **Özellik:** Gelişmiş kapı kapalı.
+- **Süre:** Deneme gün sayısı.
+
+Tipik tablo:
+
+```
+istek: 1000/gün
+depolama: 5 GB
+destek: topluluk
+```
+
+Kart kuralı: Bazısı kart ister, bazısı istemez. Limit dolunca uyarı gelir, aşım ücrete döner.
+
+## Sık Karıştırılanlar
+Bedava yazılım sanılır. O tamamen açıktır, bu ticari modelin parçasıdır. Biri hediye, diğeri tezgahtır.
+
+## Farklı Disiplinlerde Kullanımı
+- **Tadımlık:** Kahve yanı küçük bardak.
+- **Deneme sürüşü:** Galeri turu.
+- **Kütüphane:** Ücretsiz üyelik.
 
 ## Bir benzetmeyle
-Bir kafede kahve almadan önce tadımlık küçük bir bardak deneme içeceği verilmesi gibidir.
-
-## Nasıl çalışır?
-Kullanıcı hesap oluşturur ve sistem otomatik olarak ücretsiz limitleri tanımlar. Limit dolduğunda sistem sizi uyarıp yükseltme ister.
-
-## Nerede kullanılır?
-Yazılım servislerinde (SaaS), yapay zeka API'lerinde ve bulut platformlarında yaygındır.
-
-## Sık karıştırılanlar
-Tamamen ücretsiz yazılımlarla karıştırılmamalıdır; bu bir ticari modelin parçasıdır.
+Kahve almadan önce verilen tadımlık bardak gibidir.
 
 ## Sıkça sorulanlar
 
 **Sınırsız mı?**  
-Hayır, genellikle kullanım miktarı veya özellik bazlı kısıtlamalar vardır.
+Hayır. Miktar veya özellik kısıtı vardır, tabloda yazar.
 
-**Ne zaman ücret ödemem gerekir?**  
-Limitlerinizi aştığınızda veya daha gelişmiş özelliklere ihtiyaç duyduğunuzda ödeme yaparsınız.
+**Ne zaman ödenir?**  
+Limit aşılınca veya gelişmiş gerekince. Önce uyarı gelir.
+
+**Kart istenir mi?**  
+Servise göre değişir. İsteyende limit aşımı otomatik ücretlenir.
+
+**Ne zaman yükseltilir?**  
+Kota yetmeyince veya destek gerekince. Deneme bitmeden karar verilir.
 
 ## İlgili terimler
 - [SaaS](/dictionary/saas/)

@@ -1,34 +1,52 @@
-# AGI nedir?
+# AGI nedir, ne demek?
 
 > Artificial General Intelligence
 
 **Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-06-03
+**Son güncelleme:** 2026-09-22
 
-İnsan seviyesinde veya üzerinde zeka sergileyen yapay zeka hedefidir.
+AGI (**Artificial General Intelligence**, genel yapay zekâ), her entelektüel işi insan düzeyinde yapan hedeflenen zekâdır.
 
-## Tanım
-Yapay Genel Zeka (AGI), bir yapay zekanın herhangi bir entelektüel görevi bir insan kadar iyi veya daha iyi yapabilme kapasitesidir. Şu anki yapay zekalar belirli alanlarda uzmanlaşırken, AGI hedefi çok yönlü ve kendi kendine öğrenen bir zekadır.
+## Tanım ve Kelime Kökeni
+Bugünkü modeller dar uzmandır, AGI çok yönlüdür: Görmediği alanda öğrenir, strateji değiştirir. Araştırmaların ufku, ürünlerin henüz ötesidir.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Araştırma:** Yol haritası hedefi.
+- **Politika:** Düzenleme tartışması.
+- **Eğitim:** Müfredat felsefesi.
+
+## Teknik Derinlik ve Mimari
+Ayrımlar:
+- **Dar:** Tek görevde usta.
+- **Genel:** Görevler arası aktarım.
+- **Ölçüt:** Yeni alanda uzmanlık eşiği.
+
+Yol: Büyük model, ajan döngüsü ve geri bildirimli öğrenme birleşiyor. Takvim tahmini spekülasyondur, ölçüt tartışması gerçektir.
+
+## Sık Karıştırılanlar
+Dil modelleri sanılır. Onlar dar uzmandır, bu genel hedeftir. Biri sporcu, diğeri olimpiyat rüyasıdır.
+
+## Farklı Disiplinlerde Kullanımı
+- **Satranç:** Tek oyun ustası.
+- **Aşçı:** Mutfak geneli.
+- **Şair:** Dil geneli.
 
 ## Bir benzetmeyle
-Şöyle düşünün: Sadece satranç oynayan bir bilgisayar programı yerine, hem yemek yapabilen hem de şiir yazabilen bir zeka hayal edin.
-
-## Nasıl çalışır?
-AGI, farklı uzmanlık alanlarını birleştirerek yeni durumlara uyum sağlar. Belirli bir komut setiyle değil, genel mantık yürütme ve problem çözme yetenekleriyle çalışır.
-
-## Nerede kullanılır?
-Henüz tam anlamıyla mevcut değildir ancak yapay zeka araştırmalarının nihai hedefi olarak kabul edilir.
-
-## Sık karıştırılanlar
-Bugünkü gelişmiş dil modelleriyle sıkça karıştırılır ancak onlar henüz sadece belirli görevlerde uzmanlaşmış dar zekalardır.
+Satranç ustası yerine hem yemek yapan hem şiir yazan zeka gibidir.
 
 ## Sıkça sorulanlar
 
-**AGI'ye ulaştığımızı nasıl anlarız?**  
-Yapay zeka, hiç görmediği bir alanda bile insan yardımı olmadan uzman seviyesinde performans gösterdiğinde buna yaklaşmış oluruz.
+**Nasıl anlaşılır?**  
+Yeni alanda yardımsız uzmanlık gösterince yaklaşılmış olur.
 
-**AGI tehlikeli mi?**  
-Bu, etik ve güvenlik tartışmalarının merkezinde yer alan, kontrol edilebilirliği üzerine çokça kafa yorulan bir konudur.
+**Tehlikeli mi?**  
+Denetlenebilirlik tartışmalıdır. Güvenlik araştırması eşlik eder.
+
+**Ne zaman gelir?**  
+Bilinmez. Tahminler dağınıktır, ölçütler nettir.
+
+**İşleri bitirir mi?**  
+Dönüştürür. Rutin erir, denetim ve yaratı kalır.
 
 ## İlgili terimler
 - [World Model](/dictionary/world-model/)

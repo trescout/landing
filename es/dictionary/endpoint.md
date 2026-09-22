@@ -20,7 +20,7 @@ Porque la mayoría de los ciberataques comienzan infiltrándose en la red a trav
 
 
 ## Términos relacionados
-- [Networking Stack](/es/dictionary/networking-stack/)
+- [Network Stack](/es/dictionary/network-stack/)
 - [VPN](/es/dictionary/vpn/)
 - [Security Scanner](/es/dictionary/security-scanner/)
 

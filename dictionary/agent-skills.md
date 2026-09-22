@@ -1,32 +1,55 @@
-# Agent Skills nedir?
+# Agent Skills nedir, ne demek?
 
 **Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-06-22
+**Son güncelleme:** 2026-09-22
 
-Yapay zekâ ajanlarının belirli görevleri yerine getirmek için kullandığı özel yetenekler veya araçlar.
+Agent skills (Türkçe karşılığıyla **ajan yetenekleri**), ajanların iş yapan araç setleridir.
 
-## Tanım
-Ajan yetenekleri, bir yapay zekânın dünyayla etkileşime girmesini sağlayan özel fonksiyonlardır. Bu yetenekler sayesinde ajan, internette arama yapabilir, bir dosyayı okuyabilir, kod çalıştırabilir veya e-posta gönderebilir. Ajan ne kadar çok yeteneğe sahipse, o kadar karmaşık işleri tek başına halledebilir.
+## Tanım ve Kelime Kökeni
+Ajan dünyayla yetenekleriyle konuşur: Arama yapar, dosya okur, kod çalıştırır. Yetenek çokluğu değil, doğru yetenek işi bitirir. Kavram sesli asistan becerilerinden ajan dönemine taşındı.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Platform:** Hazır yetenek kütüphaneleri.
+- **Otomasyon:** Zamanlanmış görevler.
+- **Geliştirme:** Depo ve test araçları.
+
+## Teknik Derinlik ve Mimari
+Yetenek tarifi:
+
+```
+{
+  "name": "dosya-oku",
+  "description": "Belirtilen dosyayı okur",
+  "parameters": { "yol": "string" }
+}
+```
+
+Akış: Görev gelir, ajan açıklamaya bakıp yeteneği seçer, parametreyi doldurur, sonucu değerlendirir. Yazma yetkisi onay ister. Kural: Az ve net yetenek, çok ve muğlak yetenekten iyidir.
+
+## Sık Karıştırılanlar
+Genel zekâ sanılır. Oysa kastedilen belirli işi yapma becerisidir. Model anlar, yetenek yapar.
+
+## Farklı Disiplinlerde Kullanımı
+- **Çakı:** Bıçak, tornavida ve makas takımı.
+- **Alet çantası:** İşe göre seçilen anahtar.
+- **Uygulama mağazası:** İhtiyaca göre indirilen program.
 
 ## Bir benzetmeyle
-Bir ajanı bir İsviçre çakısına benzetirseniz, yetenekler o çakının üzerindeki bıçak, tornavida veya makas gibi farklı işlevlerdir.
-
-## Nasıl çalışır?
-Ajan, kendisine verilen görevi analiz eder ve bu görevi çözmek için hangi yeteneğin gerekli olduğuna karar verir. Ardından o yeteneği tetikleyerek işlemi gerçekleştirir ve sonucu değerlendirir.
-
-## Nerede kullanılır?
-AI ajan platformlarında, otomasyon araçlarında ve yazılım geliştirme süreçlerinde kullanılır.
-
-## Sık karıştırılanlar
-Yapay zekânın genel zekâsıyla değil, sadece belirli bir işi yapabilme becerisiyle ilgilidir.
+Ajanı İsviçre çakısına benzetirseniz, yetenekler bıçak, tornavida ve makas gibi farklı işlevlerdir.
 
 ## Sıkça sorulanlar
 
-**Ajan yeteneklerini ben mi ekliyorum?**  
-Evet, genellikle ajanlara hangi araçları kullanabileceklerini siz tanımlarsınız veya hazır kütüphanelerden seçersiniz.
+**Yetenekleri ben mi ekliyorum?**  
+Genellikle evet. Araçları siz tanımlarsınız veya hazır kütüphaneden seçersiniz.
 
 **Her ajanın yeteneği aynı mıdır?**  
-Hayır, ajanın kullanım amacına göre (örneğin sadece veri analizi yapan bir ajan) yetenekleri özelleştirilir.
+Hayır. Amaca göre özelleştirilir, veri analisti ajanla kodcu ajanın seti farklıdır.
+
+**Güvenli midir?**  
+Okuma düşük risklidir. Yazma ve ödeme işlemlerinde onay ve kapsam sınırı şarttır.
+
+**Hazır kütüphane var mı?**  
+Evet. Platformlar yaygın yetenekleri paketler, özel iş için kendiniz yazarsınız.
 
 ## İlgili terimler
 - [AI Agent Skill](/dictionary/ai-agent-skill/)

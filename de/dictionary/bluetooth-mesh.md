@@ -24,7 +24,7 @@ Mit zunehmender Geräteanzahl vergrößert sich auch der Abdeckungsbereich des N
 
 ## Verwandte Begriffe
 - [Mesh](/de/dictionary/mesh/)
-- [Networking Stack](/de/dictionary/networking-stack/)
+- [Network Stack](/de/dictionary/network-stack/)
 
 ## Verwandte Werkzeuge
 - [Bitchat](/de/discover/bitchat/)

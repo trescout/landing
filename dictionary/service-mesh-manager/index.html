@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Service Mesh Manager nedir? · TreScout Sözlük</title>
-<meta name="description" content="Karmaşık yazılım sistemlerinde farklı parçaların birbirleriyle nasıl iletişim kurduğunu yöneten ve denetleyen araçtır.">
+<title>Service Mesh Manager Nedir? Mesh Yönetim Rehberi · TreScout</title>
+<meta name="description" content="Service mesh manager nedir, ne demek? Kiali, sertifika rotasyonu, istioctl örneği ve mesh farkıyla yönetim rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/service-mesh-manager/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/service-mesh-manager/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/service-mesh-manager/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/service-mesh-manager/">
 <link rel="canonical" href="https://trescout.com/dictionary/service-mesh-manager/">
-<meta property="og:title" content="Service Mesh Manager nedir?">
-<meta property="og:description" content="Karmaşık yazılım sistemlerinde farklı parçaların birbirleriyle nasıl iletişim kurduğunu yöneten ve denetleyen araçtır.">
+<meta property="og:title" content="Service Mesh Manager Nedir? Mesh Yönetim Rehberi · TreScout">
+<meta property="og:description" content="Service mesh manager nedir, ne demek? Kiali, sertifika rotasyonu, istioctl örneği ve mesh farkıyla yönetim rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/service-mesh-manager/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Service Mesh Manager nedir?">
+<meta name="twitter:title" content="Service Mesh Manager Nedir? Mesh Yönetim Rehberi · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/service-mesh-manager.webp">
 <script type="application/ld+json">
 {
@@ -32,7 +32,7 @@
   "@type": "DefinedTerm",
   "name": "Service Mesh Manager",
   "inLanguage": "tr",
-  "description": "Büyük uygulamalar yüzlerce küçük servisten oluşur. Bu servislerin güvenli ve hatasız haberleşmesi zordur. Yönetici araçlar, bu trafiği izler, güvenliği sağlar ve sorun çıktığında müdahale eder.",
+  "description": "Service mesh manager, servis trafiğini izleyip yöneten konsol ve araç setidir.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -48,10 +48,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Neden manuel yönetmiyoruz?",
+      "name": "Neden manuel yönetilmiyor?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yüzlerce servis varken manuel yönetim imkansızdır; bu araçlar hata payını sıfıra indirir."
+        "text": "Servis çokluğu izlemeyi imkansız kılar. Araç hatayı ve gecikmeyi kısaltır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Mesh olmadan çalışır mı?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hayır. Manager mesh üstünde koşar, altyapı şarttır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Hangisi seçilmeli?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mesh ile uyumlu olanı. Istio kuruluysa onun konsolu seçilir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Maliyeti nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kaynak ve öğrenme bedeli vardır. Karmaşa büyüyünce karşılığını verir."
       }
     }
   ]
@@ -64,7 +88,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Karmaşık yazılım sistemlerinde farklı parçaların birbirleriyle nasıl iletişim kurduğunu yöneten ve denetleyen araçtır.">
+<meta name="twitter:description" content="Service mesh manager nedir, ne demek? Kiali, sertifika rotasyonu, istioctl örneği ve mesh farkıyla yönetim rehberi.">
 
 <meta property="og:image:alt" content="Service Mesh Manager nedir?">
 </head>
@@ -74,11 +98,11 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-06-14">Son güncelleme: 14 Haziran 2026</time></div>
-<h1 class="disc-title">Service Mesh Manager <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-22">Son güncelleme: 22 Eylül 2026</time></div>
+<h1 class="disc-title">Service Mesh Manager <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">Karmaşık yazılım sistemlerinde farklı parçaların birbirleriyle nasıl iletişim kurduğunu yöneten ve denetleyen araçtır.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Büyük uygulamalar yüzlerce küçük servisten oluşur. Bu servislerin güvenli ve hatasız haberleşmesi zordur. Yönetici araçlar, bu trafiği izler, güvenliği sağlar ve sorun çıktığında müdahale eder.</p></section><div class="dict-analogy">Büyük bir havaalanındaki uçak trafiğini yöneten kule gibidir; hangi uçağın ne zaman kalkacağını ve nereye gideceğini düzenler.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Sistemin içine yerleşen küçük yazılımlar üzerinden tüm ağ trafiğini gözlemler ve önceden belirlenen kurallara göre yönlendirir.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Bulut tabanlı (cloud-native) büyük ölçekli yazılım mimarilerinde kullanılır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Sadece bir ağ geçidi değil, tüm servisler arası trafiği yöneten kapsamlı bir yapıdır.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Neden manuel yönetmiyoruz?</p><p class="dict-faq-a">Yüzlerce servis varken manuel yönetim imkansızdır; bu araçlar hata payını sıfıra indirir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/service-mesh/">Service Mesh</a><a href="/dictionary/cloud-native/">Cloud Native</a></div></section>
+<p class="disc-lead">Service mesh manager, servis trafiğini izleyip yöneten konsol ve araç setidir.</p>
+<section class="disc-sec"><h2>Tanım ve Kelime Kökeni</h2><p>"Manager" <strong>yönetici</strong> demektir. Mesh trafiği taşır, manager izler ve yönetir: Kuralları dağıtır, sağlığı gösterir, sertifikaları döndürür. Kuledeki radar ekranı gibidir.</p></section><section class="disc-sec"><h2>Gündelik Hayatta Nasıl Bilinir ve Kullanılır?</h2><p><strong>Bulut:</strong> Büyük mikro hizmet ağları.<br><strong>Güvenlik:</strong> Trafik denetimi.<br><strong>Operasyon:</strong> Arıza ayıklama.</p></section><section class="disc-sec"><h2>Teknik Derinlik ve Mimari</h2><p>İşlevler:</p><p><strong>Görünürlük:</strong> Servis haritası ve akış grafiği (Kiali benzeri).<br><strong>Politika:</strong> Trafik ve güvenlik kuralı dağıtımı.<br><strong>Sertifika:</strong> Kimlik yenileme otomasyonu.</p><p>Durum denetimi:</p><p><pre><code>istioctl proxy-status</code></pre></p><p>Manuel yönetim yüzlerce serviste imkansızdır, araç hata payını küçültür. Sıfırlar iddiası verilmez, azaltır.</p></section><section class="disc-sec"><h2>Sık Karıştırılanlar</h2><p>Ağ geçidi sanılır. Geçit kapıda durur, manager tüm iç trafiği yönetir. Biri kapı, diğeri kontrol merkezidir.</p></section><section class="disc-sec"><h2>Farklı Disiplinlerde Kullanımı</h2><p><strong>Kule:</strong> Radar ekranlı yönetim.<br><strong>Trafik merkezi:</strong> Sinyal ve kamera ağı.<br><strong>Orkestra şefi:</strong> Bölüm düzeni.</p></section><div class="dict-analogy">Uçak trafiğini yöneten kulenin radar ekranı gibidir; hangi uçağın nerede olduğu buradan izlenir.</div><section class="disc-sec"><h2>Sıkça Sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Neden manuel yönetilmiyor?</p><p class="dict-faq-a">Servis çokluğu izlemeyi imkansız kılar. Araç hatayı ve gecikmeyi kısaltır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Mesh olmadan çalışır mı?</p><p class="dict-faq-a">Hayır. Manager mesh üstünde koşar, altyapı şarttır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Hangisi seçilmeli?</p><p class="dict-faq-a">Mesh ile uyumlu olanı. Istio kuruluysa onun konsolu seçilir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Maliyeti nedir?</p><p class="dict-faq-a">Kaynak ve öğrenme bedeli vardır. Karmaşa büyüyünce karşılığını verir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/service-mesh/">Service Mesh</a><a href="/dictionary/cloud-native/">Cloud Native</a><a href="/dictionary/observability/">Observability</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

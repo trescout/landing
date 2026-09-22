@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Output nedir? · TreScout Sözlük</title>
-<meta name="description" content="Bir bilgisayar programının veya yapay zekâ sisteminin işlem sonucunda ürettiği veridir.">
+<title>Output Nedir, Ne Demek? Çıktı ve Doğrulama Rehberi · TreScout</title>
+<meta name="description" content="Output nedir, ne demek? stdout, çıkış kodu, JSON formatı ve model çıktısı doğrulamayla çıktı rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/output/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/output/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/output/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/output/">
 <link rel="canonical" href="https://trescout.com/dictionary/output/">
-<meta property="og:title" content="Output nedir?">
-<meta property="og:description" content="Bir bilgisayar programının veya yapay zekâ sisteminin işlem sonucunda ürettiği veridir.">
+<meta property="og:title" content="Output Nedir, Ne Demek? Çıktı ve Doğrulama Rehberi · TreScout">
+<meta property="og:description" content="Output nedir, ne demek? stdout, çıkış kodu, JSON formatı ve model çıktısı doğrulamayla çıktı rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/output/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Output nedir?">
+<meta name="twitter:title" content="Output Nedir, Ne Demek? Çıktı ve Doğrulama Rehberi · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/output.webp">
 <script type="application/ld+json">
 {
@@ -32,7 +32,7 @@
   "@type": "DefinedTerm",
   "name": "Output",
   "inLanguage": "tr",
-  "description": "Çıktı, sistemin kendisine verilen girdiyi işleyerek ortaya koyduğu sonuçtur. Bu bir metin, bir görsel, bir ses dosyası veya sadece bir onay mesajı olabilir. TreScout olarak çıktıyı, sistemin 'işini bitirip size sunduğu ürün' olarak tanımlıyoruz.",
+  "description": "Output (çıktı), işlem sonucu üretilen veridir.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -51,7 +51,31 @@
       "name": "Çıktı neden hatalı olur?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Genellikle girdi hatalıysa veya sistemin işleme kapasitesi yeterli değilse hatalı çıktı üretilir."
+        "text": "Genellikle girdi hatalıdır veya kapasite yetersizdir. Önce girdi, sonra işlem denetlenir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "stdout nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Programın normal sonuç yazdığı kanaldır. Hatalar ayrı kanala (stderr) gider, ikisi karıştırılmaz."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Model çıktısı güvenilir mi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Koşullu. Taslak ve öneride yararlıdır, kritik kararda insan denetimi şarttır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Çıktı formatı nasıl seçilir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tüketiciye göre: Makineye JSON, insana metin. İkisi birden gerekiyorsa ayrı uç verilir."
       }
     }
   ]
@@ -64,7 +88,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Bir bilgisayar programının veya yapay zekâ sisteminin işlem sonucunda ürettiği veridir.">
+<meta name="twitter:description" content="Output nedir, ne demek? stdout, çıkış kodu, JSON formatı ve model çıktısı doğrulamayla çıktı rehberi.">
 
 <meta property="og:image:alt" content="Output nedir?">
 </head>
@@ -74,12 +98,12 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-07-06">Son güncelleme: 6 Temmuz 2026</time></div>
-<h1 class="disc-title">Output <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-22">Son güncelleme: 22 Eylül 2026</time></div>
+<h1 class="disc-title">Output <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">Bir bilgisayar programının veya yapay zekâ sisteminin işlem sonucunda ürettiği veridir.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Çıktı, sistemin kendisine verilen girdiyi işleyerek ortaya koyduğu sonuçtur. Bu bir metin, bir görsel, bir ses dosyası veya sadece bir onay mesajı olabilir. TreScout olarak çıktıyı, sistemin &#x27;işini bitirip size sunduğu ürün&#x27; olarak tanımlıyoruz.</p></section><div class="dict-analogy">Bir fırına hamur (girdi) koyduğunuzda, fırından çıkan ekmek (çıktı) gibidir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Sistem veriyi işler, kurallara veya modellere göre dönüştürür ve kullanıcıya veya başka bir sisteme iletir.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Her türlü yazılımda, API yanıtlarında ve yapay zekâ modellerinin cevaplarında karşımıza çıkar.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Girdi (input) ile karıştırılmamalıdır; girdi başlangıç, çıktı ise sonuçtur.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Çıktı neden hatalı olur?</p><p class="dict-faq-a">Genellikle girdi hatalıysa veya sistemin işleme kapasitesi yeterli değilse hatalı çıktı üretilir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/inference/">Inference</a><a href="/dictionary/api/">API</a><a href="/dictionary/token/">Token</a></div></section>
-<section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/liteparse/">Liteparse</a></div></section>
+<p class="disc-lead">Output (Türkçe karşılığıyla <strong>çıktı</strong>), işlem sonucu üretilen veridir.</p>
+<section class="disc-sec"><h2>Tanım ve Kelime Kökeni</h2><p>Girdi işlenir, sonuç çıkar: Metin, görsel, ses veya onay mesajı. API yanıtından model cevabına her sonuç çıktıdır. Girdi başlangıç, çıktı sonuçtur.</p></section><section class="disc-sec"><h2>Gündelik Hayatta Nasıl Bilinir ve Kullanılır?</h2><p><strong>API:</strong> JSON yanıt gövdesi.<br><strong>Komut satırı:</strong> Ekrana basılan metin.<br><strong>Model:</strong> Üretilen cevap.</p></section><section class="disc-sec"><h2>Teknik Derinlik ve Mimari</h2><p>Çıktı kanalları:</p><p><strong>stdout:</strong> Normal sonuç akışı.<br><strong>stderr:</strong> Hata akışı, ayrı tutulur.<br><strong>Çıkış kodu:</strong> Sıfır başarı, diğerleri hata türüdür.<br><strong>Format:</strong> Makine için JSON, insan için metin.</p><p>Örnek:</p><p><pre><code>echo "merhaba" &gt; cikti.txt
+echo $?</code></pre></p><p>İlk satır dosyaya yazar, ikinci satır önceki işin kodunu gösterir. Model çıktılarında kural farklıdır: Kritik işte çıktı doğrulanmadan kullanılmaz.</p></section><section class="disc-sec"><h2>Sık Karıştırılanlar</h2><p>Girdi ile karıştırılmamalıdır. Girdi başlangıçtır, çıktı sonuçtur. Log ile de karışır: Log ara izdir, çıktı teslimdir.</p></section><section class="disc-sec"><h2>Farklı Disiplinlerde Kullanımı</h2><p><strong>Fırın:</strong> Hamur girer, ekmek çıkar.<br><strong>Fabrika:</strong> Parça girer, ürün çıkar.<br><strong>Sınav:</strong> Soru girer, puan çıkar.</p></section><div class="dict-analogy">Bir fırına hamur koyduğunuzda fırından çıkan ekmek gibidir; girdi hamur, çıktı ekmektir.</div><section class="disc-sec"><h2>Sıkça Sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Çıktı neden hatalı olur?</p><p class="dict-faq-a">Genellikle girdi hatalıdır veya kapasite yetersizdir. Önce girdi, sonra işlem denetlenir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">stdout nedir?</p><p class="dict-faq-a">Programın normal sonuç yazdığı kanaldır. Hatalar ayrı kanala (stderr) gider, ikisi karıştırılmaz.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Model çıktısı güvenilir mi?</p><p class="dict-faq-a">Koşullu. Taslak ve öneride yararlıdır, kritik kararda insan denetimi şarttır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Çıktı formatı nasıl seçilir?</p><p class="dict-faq-a">Tüketiciye göre: Makineye JSON, insana metin. İkisi birden gerekiyorsa ayrı uç verilir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/inference/">Inference</a><a href="/dictionary/api/">API</a><a href="/dictionary/token/">Token</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

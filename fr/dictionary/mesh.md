@@ -18,7 +18,7 @@ Puisqu’ils ne sont pas connectés à un seul point, le risque d’effondrement
 
 ## Termes liés
 - [Service Mesh](/fr/dictionary/service-mesh/)
-- [Networking Stack](/fr/dictionary/networking-stack/)
+- [Network Stack](/fr/dictionary/network-stack/)
 - [Distributed](/fr/dictionary/distributed/)
 
 ## Outils liés

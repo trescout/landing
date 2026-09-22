@@ -25,7 +25,7 @@ Na sua forma básica não tem senha, mas hoje em dia pode ser protegido com SSL/
 
 
 ## Termos relacionados
-- [Networking Stack](/pt/dictionary/networking-stack/)
+- [Network Stack](/pt/dictionary/network-stack/)
 - [Terminal](/pt/dictionary/terminal/)
 
 ## Ferramentas relacionadas

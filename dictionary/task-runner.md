@@ -1,29 +1,54 @@
-# Task Runner nedir?
+# Task Runner nedir, ne demek?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-08-08
+**Son güncelleme:** 2026-09-22
 
-Tekrarlayan yazılım görevlerini otomatik olarak sırayla çalıştıran yardımcı araçtır.
+Task runner (Türkçe karşılığıyla **görev koşturucu**), tekrarlı işleri sırayla çalıştıran araçtır.
 
-## Tanım
-Kodun test edilmesi, dosyaların sıkıştırılması veya sunucuya gönderilmesi gibi angarya işleri manuel yapmak yerine bu araçlara devredersiniz. Bir komutla tüm süreci başlatır. Yazılım geliştirme sürecini hızlandırır ve hata payını düşürür.
+## Tanım ve Kelime Kökeni
+Test, sıkıştırma ve dağıtım gibi angarya işler tek komuta bağlanır. Liste takip edilir, süreç hızlanır, hata düşer.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Web:** Derleme ve sıkıştırma.
+- **CI:** Hat adımları.
+- **Yayın:** Tek komutla dağıtım.
+
+## Teknik Derinlik ve Mimari
+Npm betikleri:
+
+```
+"scripts": {
+  "test": "pytest",
+  "build": "vite build"
+}
+```
+
+Çalıştırma `npm run test` biçimindedir. Makefile ve Just alternatifleridir. Kural: Üç kez elle yapılan iş betiğe yazılır.
+
+## Sık Karıştırılanlar
+Terminal sanılır. Terminal çalıştırır, koşturucu yönetir. Biri sahne, diğeri yönetmendir.
+
+## Farklı Disiplinlerde Kullanımı
+- **Robot:** Sıralı mutfak işleri.
+- **Çamaşır makinesi:** Programlı yıkama.
+- **Otopilot:** Rota takibi.
 
 ## Bir benzetmeyle
-Bir restoranda mutfaktaki tüm hazırlık işlerini (doğrama, pişirme, servis) belirlediğiniz sırayla yapan bir mutfak robotu gibidir.
-
-## Nasıl çalışır?
-Bir yapılandırma dosyası ile hangi işin hangi sırayla yapılacağını tanımlarsınız, araç bu listeyi takip eder.
-
-## Nerede kullanılır?
-Web geliştirme projelerinde, kod derleme süreçlerinde ve CI/CD hatlarında kullanılır.
-
-## Sık karıştırılanlar
-Sadece bir komutu çalıştıran terminalden farklıdır; burada bir süreç yönetimi ve sıralama söz konusudur.
+Mutfak işlerini sırayla yapan robot gibidir; liste verilir, süreç işler.
 
 ## Sıkça sorulanlar
 
-**Hangi tür işler için kullanılır?**  
-Kod kalitesini kontrol etmek, dosyaları optimize etmek ve otomatik dağıtım yapmak için.
+**Hangi işlerde kullanılır?**  
+Test, derleme ve dağıtımda. Tekrar eden her iş adaydır.
+
+**Hangisi seçilmeli?**  
+Ekosistem belirler: JS tarafında npm, sistemde Make yaygındır.
+
+**CI farkı nedir?**  
+Koşturucu yerelde çalışır, CI bulutta koşar. İkisi birlikte kullanılır.
+
+**Ne zaman yazılır?**  
+Üçüncü tekrarda. İlki elle, ikincisi notla, üçüncü betikle yapılır.
 
 ## İlgili terimler
 - [CLI](/dictionary/cli/)

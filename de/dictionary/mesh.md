@@ -18,7 +18,7 @@ Da sie nicht mit einem einzigen Punkt verbunden sind, ist die Gefahr eines Syste
 
 ## Verwandte Begriffe
 - [Service Mesh](/de/dictionary/service-mesh/)
-- [Networking Stack](/de/dictionary/networking-stack/)
+- [Network Stack](/de/dictionary/network-stack/)
 - [Distributed](/de/dictionary/distributed/)
 
 ## Verwandte Werkzeuge

@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Refactoring nedir? · TreScout Sözlük</title>
-<meta name="description" content="Yazılımın dışarıdan görünen davranışını değiştirmeden, içindeki kod yapısını daha düzenli ve verimli hale getirme işlemidir.">
+<title>Refactoring Nedir? Kod Sadeleştirme Rehberi · TreScout</title>
+<meta name="description" content="Refactoring nedir, ne demek? Fonksiyon çıkarma, test güvencesi, önce-sonra örneği ve zamanlama rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/refactoring/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/refactoring/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/refactoring/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/refactoring/">
 <link rel="canonical" href="https://trescout.com/dictionary/refactoring/">
-<meta property="og:title" content="Refactoring nedir?">
-<meta property="og:description" content="Yazılımın dışarıdan görünen davranışını değiştirmeden, içindeki kod yapısını daha düzenli ve verimli hale getirme işlemidir.">
+<meta property="og:title" content="Refactoring Nedir? Kod Sadeleştirme Rehberi · TreScout">
+<meta property="og:description" content="Refactoring nedir, ne demek? Fonksiyon çıkarma, test güvencesi, önce-sonra örneği ve zamanlama rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/refactoring/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Refactoring nedir?">
+<meta name="twitter:title" content="Refactoring Nedir? Kod Sadeleştirme Rehberi · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/refactoring.webp">
 <script type="application/ld+json">
 {
@@ -32,7 +32,7 @@
   "@type": "DefinedTerm",
   "name": "Refactoring",
   "inLanguage": "tr",
-  "description": "Refactoring, bir binanın dış görünüşünü bozmadan içindeki tesisatı yenilemek veya eşyaların yerini daha kullanışlı olacak şekilde değiştirmek gibidir. Yazılımın çalışmasında bir değişiklik olmaz ancak kodun okunabilirliği artar ve gelecekte yeni özellik eklemek kolaylaşır. Teknik borcu azaltmak için düzenli olarak yapılması gereken bir temizlik sürecidir.",
+  "description": "Refactoring (yeniden düzenleme), davranışı koruyup kodu sadeleştirmedir.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -51,7 +51,31 @@
       "name": "Neden yapıyoruz?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Kod daha temiz olursa, ileride yaşanabilecek hataların önüne geçilir ve geliştirme süreci hızlanır."
+        "text": "Temiz kod hata ve yavaşlamayı önler, yeni işi hızlandırır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Ne zaman yapılır?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dokunulan kodda, küçük parçalar halinde. Büyük temizlik ayrı planlanır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Riski nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Testsiz dokunuş davranışı bozar. Test güvencesi olmadan girilmez."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Ne sıklıkla yapılır?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sürekli, küçük dozda. Sprint içine serpiştirilir, ertelenmez."
       }
     }
   ]
@@ -64,7 +88,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Yazılımın dışarıdan görünen davranışını değiştirmeden, içindeki kod yapısını daha düzenli ve verimli hale getirme işlemidir.">
+<meta name="twitter:description" content="Refactoring nedir, ne demek? Fonksiyon çıkarma, test güvencesi, önce-sonra örneği ve zamanlama rehberi.">
 
 <meta property="og:image:alt" content="Refactoring nedir?">
 </head>
@@ -74,12 +98,16 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-06-18">Son güncelleme: 18 Haziran 2026</time></div>
-<h1 class="disc-title">Refactoring <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-22">Son güncelleme: 22 Eylül 2026</time></div>
+<h1 class="disc-title">Refactoring <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">Yazılımın dışarıdan görünen davranışını değiştirmeden, içindeki kod yapısını daha düzenli ve verimli hale getirme işlemidir.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Refactoring, bir binanın dış görünüşünü bozmadan içindeki tesisatı yenilemek veya eşyaların yerini daha kullanışlı olacak şekilde değiştirmek gibidir. Yazılımın çalışmasında bir değişiklik olmaz ancak kodun okunabilirliği artar ve gelecekte yeni özellik eklemek kolaylaşır. Teknik borcu azaltmak için düzenli olarak yapılması gereken bir temizlik sürecidir.</p></section><div class="dict-analogy">Bir kitabın konusunu değiştirmeden, cümleleri daha akıcı hale getirmek ve imla hatalarını düzeltmek için metni yeniden düzenlemeye benzer.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Gereksiz kod blokları silinir, karmaşık fonksiyonlar daha basit parçalara bölünür ve değişken isimleri daha anlaşılır hale getirilir.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Yazılım geliştirme süreçlerinde, kod gözden geçirme (code review) aşamalarında uygulanır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Yeni özellik eklemek veya hata düzeltmek (bug fix) ile karıştırılmamalıdır; bu sadece kodun kalitesini artırır.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Neden yapıyoruz?</p><p class="dict-faq-a">Kod daha temiz olursa, ileride yaşanabilecek hataların önüne geçilir ve geliştirme süreci hızlanır.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/agentic-coding-tool/">Agentic Coding Tool</a><a href="/dictionary/unit-testing/">Unit Testing</a><a href="/dictionary/tech-stack/">Tech Stack</a></div></section>
-<section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/continue/">Continue</a></div></section>
+<p class="disc-lead">Refactoring (Türkçe karşılığıyla <strong>yeniden düzenleme</strong>), davranışı koruyup kodu sadeleştirmedir.</p>
+<section class="disc-sec"><h2>Tanım ve Kelime Kökeni</h2><p>Dış görünüş bozulmadan iç tesisat yenilenir. Kodun okunabilirliği artar, yeni özellik eklemek kolaylaşır. Teknik borcu kapatan temizlik sürecidir. Martin Fowler bu disiplinin referans adıdır.</p></section><section class="disc-sec"><h2>Gündelik Hayatta Nasıl Bilinir ve Kullanılır?</h2><p><strong>İnceleme:</strong> Kod gözden geçirme turları.<br><strong>Borç ödeme:</strong> Sprint içine serpiştirilen temizlik.<br><strong>Devralma:</strong> Eski koda girmeden önce sadeleştirme.</p></section><section class="disc-sec"><h2>Teknik Derinlik ve Mimari</h2><p>Yaygın hamleler:</p><p><strong>Fonksiyon çıkarma:</strong> Uzun bloğu adlandırılmış parçaya bölme.<br><strong>Yeniden adlandırma:</strong> Niyeti anlatan isim.<br><strong>Ölü kod:</strong> Kullanılmayanı silme.</p><p>Örnek:</p><p><pre><code># önce
+def f(a):
+    return a*a*3.14
+# sonra
+def daire_alani(yaricap):
+    return yaricap * yaricap * 3.14</code></pre></p><p>Kural: Önce test yazılır, sonra dokunulur. Test yoksa ilk iş testtir.</p></section><section class="disc-sec"><h2>Sık Karıştırılanlar</h2><p>Özellik veya hata düzeltme sanılır. Oysa çıktı değişmez, yalnızca iç yapı düzelir. Davranış aynı, kod farklıdır.</p></section><section class="disc-sec"><h2>Farklı Disiplinlerde Kullanımı</h2><p><strong>Tesisat:</strong> Duvar dururken boru yenileme.<br><strong>Redaksiyon:</strong> Konu aynı, cümle akıcı.<br><strong>Budama:</strong> Ağaç aynı, dal düzenli.</p></section><div class="dict-analogy">Kitabın konusunu değiştirmeden cümleleri akıcı hale getirmeye benzer.</div><section class="disc-sec"><h2>Sıkça Sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Neden yapıyoruz?</p><p class="dict-faq-a">Temiz kod hata ve yavaşlamayı önler, yeni işi hızlandırır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Ne zaman yapılır?</p><p class="dict-faq-a">Dokunulan kodda, küçük parçalar halinde. Büyük temizlik ayrı planlanır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Riski nedir?</p><p class="dict-faq-a">Testsiz dokunuş davranışı bozar. Test güvencesi olmadan girilmez.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Ne sıklıkla yapılır?</p><p class="dict-faq-a">Sürekli, küçük dozda. Sprint içine serpiştirilir, ertelenmez.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/agentic-coding-tool/">Agentic Coding Tool</a><a href="/dictionary/unit-testing/">Unit Testing</a><a href="/dictionary/tech-stack/">Tech Stack</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

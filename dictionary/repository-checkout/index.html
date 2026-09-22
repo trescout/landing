@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Repository Checkout nedir? · TreScout Sözlük</title>
-<meta name="description" content="Bir yazılım projesinin tüm dosyalarını merkezi bir sunucudan kendi bilgisayarınıza kopyalama işlemidir.">
+<title>Repository Checkout Nedir? Git Sürüm Geçiş Rehberi · TreScout</title>
+<meta name="description" content="Repository checkout nedir, ne demek? Clone farkı, git switch, sparse checkout ve etiket geçişiyle sürüm rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/repository-checkout/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/repository-checkout/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/repository-checkout/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/repository-checkout/">
 <link rel="canonical" href="https://trescout.com/dictionary/repository-checkout/">
-<meta property="og:title" content="Repository Checkout nedir?">
-<meta property="og:description" content="Bir yazılım projesinin tüm dosyalarını merkezi bir sunucudan kendi bilgisayarınıza kopyalama işlemidir.">
+<meta property="og:title" content="Repository Checkout Nedir? Git Sürüm Geçiş Rehberi · TreScout">
+<meta property="og:description" content="Repository checkout nedir, ne demek? Clone farkı, git switch, sparse checkout ve etiket geçişiyle sürüm rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/repository-checkout/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Repository Checkout nedir?">
+<meta name="twitter:title" content="Repository Checkout Nedir? Git Sürüm Geçiş Rehberi · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/repository-checkout.webp">
 <script type="application/ld+json">
 {
@@ -32,7 +32,7 @@
   "@type": "DefinedTerm",
   "name": "Repository Checkout",
   "inLanguage": "tr",
-  "description": "Checkout, bir projenin belirli bir sürümünü sunucudan alıp kendi çalışma alanınıza indirmektir. Bu sayede projenin o anki haline erişebilir ve üzerinde değişiklik yapmaya başlayabilirsiniz. Yazılım dünyasında projenin yerel bir kopyasını oluşturmanın temel adımıdır.",
+  "description": "Repository checkout, deponun belirli bir sürümünü çalışma alanınıza indirme işlemidir.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -51,7 +51,31 @@
       "name": "Sadece dosyaları mı indirir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Sadece dosyaları değil, projenin geçmişini ve versiyon bilgilerini de beraberinde getirir."
+        "text": "Hayır. Geçmiş ve sürüm bilgisi de gelir, bu yüzden eski hale dönebilirsiniz."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Clone ile farkı nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Clone ilk indirmedir, checkout indirilmiş depoda geçiştir. Sıralama bu yöndedir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Eski sürüme nasıl dönülür?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Etiket veya commit karmasıyla geçilir. Kayıtlı iş varsa önce saklanır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Switch nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Dal geçmenin modern komutudur. Checkout çok iş yaptığı için Git ikiye böldü: switch dala, restore dosyaya."
       }
     }
   ]
@@ -64,7 +88,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Bir yazılım projesinin tüm dosyalarını merkezi bir sunucudan kendi bilgisayarınıza kopyalama işlemidir.">
+<meta name="twitter:description" content="Repository checkout nedir, ne demek? Clone farkı, git switch, sparse checkout ve etiket geçişiyle sürüm rehberi.">
 
 <meta property="og:image:alt" content="Repository Checkout nedir?">
 </head>
@@ -74,12 +98,13 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-07-03">Son güncelleme: 3 Temmuz 2026</time></div>
-<h1 class="disc-title">Repository Checkout <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-22">Son güncelleme: 22 Eylül 2026</time></div>
+<h1 class="disc-title">Repository Checkout <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">Bir yazılım projesinin tüm dosyalarını merkezi bir sunucudan kendi bilgisayarınıza kopyalama işlemidir.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Checkout, bir projenin belirli bir sürümünü sunucudan alıp kendi çalışma alanınıza indirmektir. Bu sayede projenin o anki haline erişebilir ve üzerinde değişiklik yapmaya başlayabilirsiniz. Yazılım dünyasında projenin yerel bir kopyasını oluşturmanın temel adımıdır.</p></section><div class="dict-analogy">Bir kütüphanedeki kitabın sadece ismini bilmek yerine, onu ödünç alıp masanıza getirerek sayfalarını tek tek okumaya başlamak gibidir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Genellikle Git gibi araçlar kullanılarak terminal üzerinden &#x27;git checkout&#x27; komutuyla veya geliştirme ortamındaki butonlar aracılığıyla yapılır.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Bir projeye yeni başladığınızda veya projenin farklı bir versiyonuna geçiş yapmanız gerektiğinde kullanılır.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Sadece dosyaları mı indirir?</p><p class="dict-faq-a">Sadece dosyaları değil, projenin geçmişini ve versiyon bilgilerini de beraberinde getirir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/git-push/">Git Push</a><a href="/dictionary/tech-stack/">Tech Stack</a><a href="/dictionary/cloning/">Cloning</a></div></section>
-<section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/checkout/">Checkout</a></div></section>
+<p class="disc-lead">Repository checkout, deponun belirli bir sürümünü çalışma alanınıza indirme işlemidir.</p>
+<section class="disc-sec"><h2>Tanım ve Kelime Kökeni</h2><p>Projenin o anki halini sunucudan alıp masanıza getirirsiniz. Kütüphaneden kitap ödünç almaya benzer: Kaynak yerinde durur, siz kopyayla çalışırsınız. Geçmiş ve sürüm bilgisi kopyayla birlikte gelir.</p></section><section class="disc-sec"><h2>Gündelik Hayatta Nasıl Bilinir ve Kullanılır?</h2><p><strong>Yeni proje:</strong> Depoyu ilk kez indirme.<br><strong>Sürüm geçişi:</strong> Eski etikete dönüp hatayı inceleme.<br><strong>Dal deneme:</strong> Arkadaşın dalını yerelde açma.</p></section><section class="disc-sec"><h2>Teknik Derinlik ve Mimari</h2><p>Akış şöyledir:</p><p><pre><code>git clone https://github.com/ornek/proje.git
+cd proje
+git checkout v2.0.0</code></pre></p><p>Ayrımlar:</p><p><strong>Clone:</strong> Deponun tamamını ilk kez indirme.<br><strong>Checkout:</strong> İndirilmiş depoda sürüm veya dal değiştirme.<br><strong>Switch/Restore:</strong> Modern Git içinde dal geçme ve dosya geri alma komutları.<br><strong>Sparse:</strong> Devasa depoda yalnızca gerekli klasörü indirme.</p><p>Kural: Kayıtlı işiniz varken geçmeyin, önce commit yapın veya saklayın.</p></section><section class="disc-sec"><h2>Farklı Disiplinlerde Kullanımı</h2><p><strong>Kütüphane:</strong> Kitabı raftan alıp masaya getirme.<br><strong>Arşiv:</strong> Klasörü depodan çıkarıp inceleme.<br><strong>Fotoğraf:</strong> Negatiften baskı alma.</p></section><div class="dict-analogy">Kütüphanedeki kitabı ödünç alıp masanıza getirerek sayfaları tek tek okumaya başlamak gibidir.</div><section class="disc-sec"><h2>Sıkça Sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Sadece dosyaları mı indirir?</p><p class="dict-faq-a">Hayır. Geçmiş ve sürüm bilgisi de gelir, bu yüzden eski hale dönebilirsiniz.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Clone ile farkı nedir?</p><p class="dict-faq-a">Clone ilk indirmedir, checkout indirilmiş depoda geçiştir. Sıralama bu yöndedir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Eski sürüme nasıl dönülür?</p><p class="dict-faq-a">Etiket veya commit karmasıyla geçilir. Kayıtlı iş varsa önce saklanır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Switch nedir?</p><p class="dict-faq-a">Dal geçmenin modern komutudur. Checkout çok iş yaptığı için Git ikiye böldü: switch dala, restore dosyaya.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/git-push/">Git Push</a><a href="/dictionary/tech-stack/">Tech Stack</a><a href="/dictionary/cloning/">Cloning</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

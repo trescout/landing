@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>CI/CD nedir? · Continuous Integration / Continuous Deployment · TreScout Sözlük</title>
-<meta name="description" content="Yazılım güncellemelerinin otomatik olarak test edilip yayına alınmasını sağlayan süreçtir.">
+<title>CI/CD Nedir? Otomatik Test ve Yayın Hattı Rehberi · TreScout</title>
+<meta name="description" content="CI/CD nedir, ne demek? Pipeline aşamaları, GitHub Actions örneği, manuel onay ve delivery farkıyla CI CD rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/dictionary/ci-cd/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/ci-cd/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="es" href="https://trescout.com/es/dictionary/ci-cd/">
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/ci-cd/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/ci-cd/">
-<meta property="og:title" content="CI/CD nedir?">
-<meta property="og:description" content="Yazılım güncellemelerinin otomatik olarak test edilip yayına alınmasını sağlayan süreçtir.">
+<meta property="og:title" content="CI/CD Nedir? Otomatik Test ve Yayın Hattı Rehberi · TreScout">
+<meta property="og:description" content="CI/CD nedir, ne demek? Pipeline aşamaları, GitHub Actions örneği, manuel onay ve delivery farkıyla CI CD rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/ci-cd/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="CI/CD nedir?">
+<meta name="twitter:title" content="CI/CD Nedir? Otomatik Test ve Yayın Hattı Rehberi · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/ci-cd.webp">
 <script type="application/ld+json">
 {
@@ -33,7 +33,7 @@
   "name": "CI/CD",
   "alternateName": "Continuous Integration / Continuous Deployment",
   "inLanguage": "tr",
-  "description": "Yazılımcıların yazdığı kodun hatasız bir şekilde kullanıcıya ulaşması için kurulan otomatik bir üretim hattıdır. Sürekli Entegrasyon (CI) kodun sürekli birleştirilip test edilmesini, Sürekli Dağıtım (CD) ise bu kodun otomatik olarak canlı sisteme aktarılmasını sağlar.",
+  "description": "CI/CD (Continuous Integration / Continuous Deployment), kodun otomatik test edilip yayına alınmasıdır.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -52,7 +52,7 @@
       "name": "Neden bu kadar önemli?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Hatalı kodun canlıya çıkmasını engeller ve geliştirme hızını artırır."
+        "text": "Hatalı kodu canlıdan çevirir, hızı artırır. Güvenle sık yayın yapılır."
       }
     },
     {
@@ -60,7 +60,23 @@
       "name": "Her zaman otomatik mi olmalı?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Genellikle evet, ancak kritik güncellemelerde manuel onay adımları eklenebilir."
+        "text": "Genellikle evet, kritik yayında manuel kapı eklenir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Delivery ile farkı nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Delivery hazırlar ve bekler, deployment basar ve gider. İlki onaylı, ikincisi tam otomatiktir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Bozulursa ne olur?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hat durur, yayın kesilir. Yedek plan ve hızlı geri alma bu yüzden şarttır."
       }
     }
   ]
@@ -73,7 +89,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Yazılım güncellemelerinin otomatik olarak test edilip yayına alınmasını sağlayan süreçtir.">
+<meta name="twitter:description" content="CI/CD nedir, ne demek? Pipeline aşamaları, GitHub Actions örneği, manuel onay ve delivery farkıyla CI CD rehberi.">
 
 <meta property="og:image:alt" content="CI/CD nedir?">
 </head>
@@ -83,12 +99,13 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-08-09">Son güncelleme: 9 Ağustos 2026</time></div>
-<h1 class="disc-title">CI/CD <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-22">Son güncelleme: 22 Eylül 2026</time></div>
+<h1 class="disc-title">CI/CD <span class="disc-accent">nedir, ne demek?</span></h1>
 <p class="dict-en">Continuous Integration / Continuous Deployment</p>
-<p class="disc-lead">Yazılım güncellemelerinin otomatik olarak test edilip yayına alınmasını sağlayan süreçtir.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Yazılımcıların yazdığı kodun hatasız bir şekilde kullanıcıya ulaşması için kurulan otomatik bir üretim hattıdır. Sürekli Entegrasyon (CI) kodun sürekli birleştirilip test edilmesini, Sürekli Dağıtım (CD) ise bu kodun otomatik olarak canlı sisteme aktarılmasını sağlar.</p></section><div class="dict-analogy">Bir restoran mutfağında yemeğin hazırlanıp, tadım testinden geçip, anında müşterinin masasına servis edilmesini sağlayan otomatik bir bant sistemi gibidir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Kodunuzu sisteme gönderdiğinizde, sistem önce otomatik testleri çalıştırır. Testler başarılıysa kodunuzu paketler ve yayına hazırlar.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Modern yazılım geliştirme ekiplerinde, özellikle hızlı güncelleme yayınlayan uygulamalarda kullanılır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Sadece manuel test süreci ile karıştırılabilir, ancak bu tamamen otomatik bir akıştır.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Neden bu kadar önemli?</p><p class="dict-faq-a">Hatalı kodun canlıya çıkmasını engeller ve geliştirme hızını artırır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Her zaman otomatik mi olmalı?</p><p class="dict-faq-a">Genellikle evet, ancak kritik güncellemelerde manuel onay adımları eklenebilir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/continuous-integration/">Continuous Integration</a><a href="/dictionary/continuous-deployment/">Continuous Deployment</a><a href="/dictionary/deployment/">Deployment</a><a href="/dictionary/qa/">QA</a></div></section>
-<section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/strix/">Strix</a><a href="/discover/openship/">Openship</a><a href="/discover/flue/">Flue</a><a href="/discover/devops-interview-guide/">DevOps-Interview-Guide</a></div></section>
+<p class="disc-lead">CI/CD (<strong>Continuous Integration / Continuous Deployment</strong>), kodun otomatik test edilip yayına alınmasıdır.</p>
+<section class="disc-sec"><h2>Tanım ve Kelime Kökeni</h2><p>Yazılan kodun hatasız kullanıcıya ulaşması için kurulan otomatik hattır. CI kodu sürekli birleştirip test eder, CD canlıya aktarır. El emeği yayın dönemi kapanır.</p></section><section class="disc-sec"><h2>Gündelik Hayatta Nasıl Bilinir ve Kullanılır?</h2><p><strong>Ekip:</strong> Her commit sonrası test.<br><strong>Mobil:</strong> Mağazaya otomatik sürüm.<br><strong>Web:</strong> Birleşince yayına alma.</p></section><section class="disc-sec"><h2>Teknik Derinlik ve Mimari</h2><p>Hat aşamaları:</p><p><strong>Lint:</strong> Stil denetimi.<br><strong>Test:</strong> Birim ve uçtan uca.<br><strong>Derleme:</strong> Paket üretimi.<br><strong>Yayın:</strong> Kademeli açılış.</p><p>Örnek adım:</p><p><pre><code>steps:
+  - run: npm ci
+  - run: npm test</code></pre></p><p>Kritik yayında manuel onay kapısı konur. Delivery ile farkı: Delivery hazırlar, deployment basar. İlki bekler, ikincisi gider.</p></section><section class="disc-sec"><h2>Sık Karıştırılanlar</h2><p>Manuel test sanılır. Oysa hat tamamen otomatiktir: Kod gelir, test koşar, sonuç çıkar. İnsan yalnızca kapıda bekler.</p></section><section class="disc-sec"><h2>Farklı Disiplinlerde Kullanımı</h2><p><strong>Mutfak bandı:</strong> Hazırlık, tadım ve servis.<br><strong>Montaj hattı:</strong> Parça, denetim ve paket.<br><strong>Bagaj bandı:</strong> Kayıt, tarama ve yükleme.</p></section><div class="dict-analogy">Restoran mutfağında yemeğin hazırlanıp tadım testinden geçip müşteriye servis edilmesini sağlayan bant gibidir.</div><section class="disc-sec"><h2>Sıkça Sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Neden bu kadar önemli?</p><p class="dict-faq-a">Hatalı kodu canlıdan çevirir, hızı artırır. Güvenle sık yayın yapılır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Her zaman otomatik mi olmalı?</p><p class="dict-faq-a">Genellikle evet, kritik yayında manuel kapı eklenir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Delivery ile farkı nedir?</p><p class="dict-faq-a">Delivery hazırlar ve bekler, deployment basar ve gider. İlki onaylı, ikincisi tam otomatiktir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Bozulursa ne olur?</p><p class="dict-faq-a">Hat durur, yayın kesilir. Yedek plan ve hızlı geri alma bu yüzden şarttır.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/continuous-integration/">Continuous Integration</a><a href="/dictionary/continuous-deployment/">Continuous Deployment</a><a href="/dictionary/deployment/">Deployment</a><a href="/dictionary/qa/">QA</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

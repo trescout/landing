@@ -18,7 +18,7 @@ Al no estar conectados a un único punto, el riesgo de colapso del sistema es mu
 
 ## Términos relacionados
 - [Service Mesh](/es/dictionary/service-mesh/)
-- [Networking Stack](/es/dictionary/networking-stack/)
+- [Network Stack](/es/dictionary/network-stack/)
 - [Distributed](/es/dictionary/distributed/)
 
 ## Herramientas relacionadas

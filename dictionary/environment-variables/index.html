@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Environment Variables nedir? · TreScout Sözlük</title>
-<meta name="description" content="Programların çalışma anında ihtiyaç duyduğu ayarları ve gizli anahtarları tutan küçük tanımlayıcılardır.">
+<title>Environment Variables Nedir? Ortam Değişkeni Rehberi · TreScout</title>
+<meta name="description" content="Environment variables nedir, ne demek? .env düzeni, öncelik sırası, örnek değer ve sızıntı kuralıyla değişken rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/dictionary/environment-variables/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/environment-variables/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="es" href="https://trescout.com/es/dictionary/environment-variables/">
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/environment-variables/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/environment-variables/">
-<meta property="og:title" content="Environment Variables nedir?">
-<meta property="og:description" content="Programların çalışma anında ihtiyaç duyduğu ayarları ve gizli anahtarları tutan küçük tanımlayıcılardır.">
+<meta property="og:title" content="Environment Variables Nedir? Ortam Değişkeni Rehberi · TreScout">
+<meta property="og:description" content="Environment variables nedir, ne demek? .env düzeni, öncelik sırası, örnek değer ve sızıntı kuralıyla değişken rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/environment-variables/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Environment Variables nedir?">
+<meta name="twitter:title" content="Environment Variables Nedir? Ortam Değişkeni Rehberi · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/environment-variables.webp">
 <script type="application/ld+json">
 {
@@ -32,7 +32,7 @@
   "@type": "DefinedTerm",
   "name": "Environment Variables",
   "inLanguage": "tr",
-  "description": "Kodunuzun içine yazmamanız gereken şifreler, API anahtarları veya farklı sunucu adresleri gibi bilgileri sistem düzeyinde tutmanızı sağlar. Program çalışırken bu değişkenleri okur ve ona göre davranır. Böylece aynı kod farklı ortamlarda farklı ayarlarla çalışabilir.",
+  "description": "Environment variables (ortam değişkenleri), ayarları kod dışında tutan tanımlayıcılardır.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -48,10 +48,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Neden bu değişkenleri gizli tutmalıyız?",
+      "name": "Neden gizli tutulur?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Kodunuzu paylaştığınızda şifrelerinizin başkalarının eline geçmesini önlemek için."
+        "text": "Paylaşımda ele geçer, hesap açılır. Gizli kalır, risk küçülür."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": ".env nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yerel değer dosyasıdır. Depoya girmez, örneği girer."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Sızarsa ne olur?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Anahtar iptal edilir, kayıt denetlenir. Gecikme büyüktür."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Öncelik nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sistem ortamı dosyayı ezer. Canlı değer sistemden gelir."
       }
     }
   ]
@@ -64,7 +88,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Programların çalışma anında ihtiyaç duyduğu ayarları ve gizli anahtarları tutan küçük tanımlayıcılardır.">
+<meta name="twitter:description" content="Environment variables nedir, ne demek? .env düzeni, öncelik sırası, örnek değer ve sızıntı kuralıyla değişken rehberi.">
 
 <meta property="og:image:alt" content="Environment Variables nedir?">
 </head>
@@ -74,12 +98,11 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-08-08">Son güncelleme: 8 Ağustos 2026</time></div>
-<h1 class="disc-title">Environment Variables <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-22">Son güncelleme: 22 Eylül 2026</time></div>
+<h1 class="disc-title">Environment Variables <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">Programların çalışma anında ihtiyaç duyduğu ayarları ve gizli anahtarları tutan küçük tanımlayıcılardır.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Kodunuzun içine yazmamanız gereken şifreler, API anahtarları veya farklı sunucu adresleri gibi bilgileri sistem düzeyinde tutmanızı sağlar. Program çalışırken bu değişkenleri okur ve ona göre davranır. Böylece aynı kod farklı ortamlarda farklı ayarlarla çalışabilir.</p></section><div class="dict-analogy">Bir cihazın içine sabit kodlanmış ayarlar yerine, cihazın içine yerleştirilen ve her seferinde değiştirilebilen bir ayar kartı gibidir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>İşletim sistemi veya özel bir dosya üzerinden tanımlanır, program başladığında bu değerleri hafızasına alır.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Sunucu kurulumlarında, uygulama yapılandırmalarında ve güvenlik gerektiren tüm yazılım projelerinde kullanılır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Kodun içine yazılan sabit değerler (hardcoded) ile karıştırılmamalıdır, çünkü bu yöntem güvenlik riski yaratır.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Neden bu değişkenleri gizli tutmalıyız?</p><p class="dict-faq-a">Kodunuzu paylaştığınızda şifrelerinizin başkalarının eline geçmesini önlemek için.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/secrets/">Secrets</a><a href="/dictionary/runtime/">Runtime</a><a href="/dictionary/api/">API</a></div></section>
-<section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/mise/">Mise</a></div></section>
+<p class="disc-lead">Environment variables (Türkçe karşılığıyla <strong>ortam değişkenleri</strong>), ayarları kod dışında tutan tanımlayıcılardır.</p>
+<section class="disc-sec"><h2>Tanım ve Kelime Kökeni</h2><p>"Environment" <strong>ortam</strong> demektir. Parola ve adres kodda durmaz, sistemde durur. Aynı kod farklı ortamda farklı davranır.</p></section><section class="disc-sec"><h2>Gündelik Hayatta Nasıl Bilinir ve Kullanılır?</h2><p><strong>Sunucu:</strong> Bağlantı dizgileri.<br><strong>Uygulama:</strong> Mod seçimi.<br><strong>CI:</strong> Gizli anahtarlar.</p></section><section class="disc-sec"><h2>Teknik Derinlik ve Mimari</h2><p>Düzen:</p><p><strong>.env:</strong> Yerel dosya, depoya girmez.<br><strong>Öncelik:</strong> Ortam sistem dosyayı ezer.<br><strong>Şema:</strong> Gerekli ad listesi.</p><p>Örnek değer:</p><p><pre><code>DATABASE_URL=postgres://kullanici:parola@localhost:5432/db</code></pre></p><p>Kural: Gerçek değer örneğe yazılmaz, yer tutucu konur. Sızan anahtar iptal edilir.</p></section><section class="disc-sec"><h2>Sık Karıştırılanlar</h2><p>Sabit değer sanılır. Sabit kodda durur, değişken dışarıdadır. Biri dövme, diğeri rozettir.</p></section><section class="disc-sec"><h2>Farklı Disiplinlerde Kullanımı</h2><p><strong>Kart:</strong> Değişen ayar kartı.<br><strong>Kumanda pili:</strong> Tak çıkar güç.<br><strong>Anahtarlık:</strong> Taşınan erişim.</p></section><div class="dict-analogy">Cihaza gömülü ayar yerine takılıp değişen kart gibidir.</div><section class="disc-sec"><h2>Sıkça Sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Neden gizli tutulur?</p><p class="dict-faq-a">Paylaşımda ele geçer, hesap açılır. Gizli kalır, risk küçülür.</p></div><div class="dict-faq-item"><p class="dict-faq-q">.env nedir?</p><p class="dict-faq-a">Yerel değer dosyasıdır. Depoya girmez, örneği girer.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Sızarsa ne olur?</p><p class="dict-faq-a">Anahtar iptal edilir, kayıt denetlenir. Gecikme büyüktür.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Öncelik nedir?</p><p class="dict-faq-a">Sistem ortamı dosyayı ezer. Canlı değer sistemden gelir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/secrets/">Secrets</a><a href="/dictionary/runtime/">Runtime</a><a href="/dictionary/api/">API</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

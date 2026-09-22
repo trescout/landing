@@ -1,32 +1,56 @@
-# Automatic Tagging nedir?
+# Automatic Tagging nedir, ne demek?
 
 **Kategori:** Veri & Altyapı  
-**Son güncelleme:** 2026-07-07
+**Son güncelleme:** 2026-09-22
 
-Verilerin veya dosyaların içeriği analiz edilerek sistem tarafından otomatik olarak kategorize edilmesidir.
+Automatic tagging (Türkçe karşılığıyla **otomatik etiketleme**), içeriği okuyup etiket yapıştıran işlemdir.
 
-## Tanım
-Automatic tagging, büyük miktardaki veriyi manuel olarak sınıflandırmak yerine yapay zekanın içeriği okuyup uygun etiketleri yapıştırmasıdır. Örneğin, bir fotoğrafı yüklediğinizde sistemin içindeki nesneleri tanıyıp 'doğa', 'deniz' veya 'insan' şeklinde etiketlemesi bu işleme örnektir. Bu yöntem, verilerin düzenli kalmasını ve kolayca bulunmasını sağlar.
+## Tanım ve Kelime Kökeni
+"Tag" **etiket** demektir. Model veriyi tarar, nesne ve kavramları tanır, tanımlı listeden uygun etiketi dosyaya işler. Arşiv aranabilir hale gelir.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Fotoğraf:** Nesne ve yüz etiketleri.
+- **Belge:** Konu sınıflaması.
+- **Sosyal:** İçerik düzeni.
+
+## Teknik Derinlik ve Mimari
+Düzen:
+- **Sınıflandırma:** İçeriğin kümeye atanması.
+- **Eşik:** Güven puanı altı etiketsiz kalır.
+- **Denetim:** Kritik işte insan onayı.
+
+Örnek çıktı:
+
+```
+{"etiketler": ["doğa", "deniz"], "güven": 0.92}
+```
+
+Kural: Eşik yüksekse eksik, düşükse gürültü artar. Ölçüme göre ayarlanır.
+
+## Sık Karıştırılanlar
+Manuel etiketleme sanılır. O insan elidir, bu model çıktısıdır. Hız makinede, hüküm insandadır.
+
+## Farklı Disiplinlerde Kullanımı
+- **Kütüphaneci:** Kapak kategorisi yazma.
+- **Postane:** Damga vurma.
+- **Mühür:** Belge işaretleme.
 
 ## Bir benzetmeyle
-Kütüphanedeki binlerce kitabı tek tek okuyup kapaklarına doğru kategoriyi yazan çok hızlı bir kütüphaneci gibidir.
-
-## Nasıl çalışır?
-Yapay zeka modeli veriyi tarar, önemli anahtar kelimeleri veya görsel özellikleri belirler ve bu özellikleri önceden tanımlanmış etiketlerle eşleştirerek dosyaya atar.
-
-## Nerede kullanılır?
-Dijital fotoğraf kütüphanelerinde, kurumsal belge yönetim sistemlerinde ve sosyal medya platformlarında kullanılır.
-
-## Sık karıştırılanlar
-Manuel etiketleme ile karıştırılabilir, ancak burada insan müdahalesi yoktur.
+Binlerce kitabı okuyup kapağına kategoriyi yazan hızlı kütüphaneci gibidir.
 
 ## Sıkça sorulanlar
 
-**Her zaman doğru etiketler mi?**  
-Yapay zekanın eğitim kalitesine bağlıdır; bazen yanlış etiketleme yapabilir.
+**Her zaman doğru mu?**  
+Eğitime bağlıdır. Yanlış çıkar, eşik ve denetimle yönetilir.
 
 **Neden önemli?**  
-Veri yığınları içinde aradığınızı saniyeler içinde bulmanızı sağlar.
+Yığın içinde saniyelik buluş sağlar. Arşiv değer katar.
+
+**Eşiği nedir?**  
+Kabul puanıdır. Yüksek eksiltir, düşük kirletir.
+
+**Maliyeti nedir?**  
+Model ve denetim bedeli vardır. Hacim belirler.
 
 ## İlgili terimler
 - [Document Parsing](/dictionary/document-parsing/)

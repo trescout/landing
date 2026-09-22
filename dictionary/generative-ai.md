@@ -1,32 +1,58 @@
-# Generative AI nedir?
+# Generative AI nedir, ne demek?
 
 **Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-06-03
+**Son güncelleme:** 2026-09-22
 
-Yeni içerik, metin, görsel veya ses üretebilen yapay zeka teknolojilerinin genel adıdır.
+Generative AI (Türkçe karşılığıyla **üretken yapay zekâ**), yeni içerik üreten modellerin genel adıdır.
 
-## Tanım
-Generative AI, mevcut verileri analiz edip bunlardan yeni ve özgün içerikler üretebilen yapay zeka teknolojilerinin genel adıdır. Sadece olanı analiz etmez, sizin isteğinize göre yepyeni metinler, görseller veya sesler yaratır.
+## Tanım ve Kelime Kökeni
+"Generate" **üretmek** demektir. Model veriyi analiz edip yepyeni metin, görsel veya ses yaratır. Olanı sınıflandırmakla kalmaz, olmayanı üretir. LLM, difüzyon ve GAN bu ailenin üyeleridir.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Tasarım:** Logo ve görsel taslakları.
+- **Kod:** Fonksiyon ve test iskeleti.
+- **İçerik:** Taslak metin ve özet.
+
+## Teknik Derinlik ve Mimari
+Üretim hattı:
+- **Eğitim:** Milyarlarca örnekten kalıp öğrenme.
+- **İstem:** İsteğin prompt ile verilmesi.
+- **Örnekleme:** Olasılıklı üretim, sıcaklık ayarı.
+
+İyi prompt kalıbı:
+
+```
+Konu: kedi
+Stil: suluboya
+Boyut: kare
+```
+
+Sınır: Model emin olmadığı yerde uydurur (halüsinasyon). Kritik işte çıktı doğrulanır.
+
+## Sık Karıştırılanlar
+Metin modelleri sanılır. Oysa görsel, ses ve video üretenler de bu ailedendir. Metin yalnızca bir üyedir.
+
+## Farklı Disiplinlerde Kullanımı
+- **Ressam:** Fırçayla yeni tablo.
+- **Besteci:** Notalarla yeni ezgi.
+- **Yazar:** Kelimelerle yeni öykü.
 
 ## Bir benzetmeyle
-Şöyle düşünün: Sadece resimlere bakan bir sanat eleştirmeni değil, eline fırçayı alıp yeni bir tablo çizen bir ressam gibidir.
-
-## Nasıl çalışır?
-Milyarlarca örneği inceleyerek içeriklerin nasıl oluşturulduğuna dair kuralları öğrenir. Ardından, verdiğiniz bir komutla (prompt) bu kuralları kullanarak daha önce hiç var olmamış bir şeyi üretir.
-
-## Nerede kullanılır?
-Yaratıcı işlerde, tasarımda, yazılım kodlamada ve içerik üretiminde devrim yaratmaktadır.
-
-## Sık karıştırılanlar
-Sadece metin üreten modellerle karıştırılır; oysa görsel, ses ve video üreten modeller de bu kategoriye girer.
+Sadece resimlere bakan eleştirmen değil, eline fırçayı alıp yeni tablo çizen ressam gibidir.
 
 ## Sıkça sorulanlar
 
-**Generative AI telif hakkını ihlal eder mi?**  
-Bu hala tartışmalı bir konu, ancak üretilen içeriklerin özgünlüğü konusunda sürekli yeni düzenlemeler yapılıyor.
+**Telif hakkını ihlal eder mi?**  
+Tartışmalıdır. Eğitim verisi ve çıktı sahipliği ülkeden ülkeye değişir, ticari işte hukuk görüşü alınır.
 
 **Herkes kullanabilir mi?**  
-Evet, bugün basit bir komut yazabilen herkes bu teknolojiden faydalanabilir.
+Evet. Komut yazabilen herkes başlar, ustalık prompt ve doğrulamada belli olur.
+
+**Halüsinasyon nedir?**  
+Modelin emin olmadığı yerde uydurmasıdır. Kaynak gösterme ve doğrulama ile yönetilir.
+
+**Maliyeti nedir?**  
+Kullanıma göre değişir. Küçük işler cüzi, ağır eğitim ve milyon çağrı pahalıdır.
 
 ## İlgili terimler
 - [LLM](/dictionary/llm/)

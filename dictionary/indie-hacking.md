@@ -1,32 +1,53 @@
-# Indie Hacking nedir?
+# Indie Hacking nedir, ne demek?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-07-15
+**Son güncelleme:** 2026-09-22
 
-Büyük şirketlerin desteği olmadan, tek başına veya çok küçük ekiplerle dijital ürünler geliştirip piyasaya sürme kültürüdür.
+Indie hacking (Türkçe karşılığıyla **bağımsız girişimcilik**), tek başına veya küçük ekiple ürün geliştirip gelir elde etme kültürüdür.
 
-## Tanım
-Indie hacking, kendi yazılımınızı veya dijital ürününüzü sıfırdan oluşturup bağımsız bir şekilde yönettiğiniz bir çalışma modelidir. Bu süreçte sadece kod yazmakla kalmaz, aynı zamanda ürünün pazarlamasını, satışını ve müşteri desteğini de üstlenirsiniz. Temel amaç, bir şirkete bağlı kalmadan kendi gelir kaynağınızı yaratmaktır.
+## Tanım ve Kelime Kökeni
+"Indie" **bağımsız**, "hacking" ise **becerikli çözüm** demektir. Kendi ürününüzü sıfırdan kurar, pazarlamasını ve desteğini de üstlenirsiniz. Temel amaç şirkete bağlı kalmadan kendi gelir kaynağınızı yaratmaktır. Kodun yanında işin tamamı sizindir.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Mikro SaaS:** Tek soruna odaklı küçük abonelik ürünü.
+- **İçerik:** Bülten, e-kitap, kurs.
+- **Şablon:** Tasarım ve kod paketleri.
+- **Araç:** Tek işlevlik web uygulamaları.
+
+## Teknik Derinlik ve Mimari
+Çalışma düzeni:
+- **MVP:** Haftalar içinde çıkan en küçük sürüm.
+- **Az kod:** Hazır araç ve otomasyonla ekip küçültme.
+- **Tek metrik:** Aylık tekrarlayan gelir (MRR) takibi.
+- **Dağıtım:** Topluluk, arama ve sosyal kanallarla erişim.
+- **Maliyet disiplini:** Sunucu ve araç gideri gelirin altında tutulur.
+
+Kural: Önce ödeme yapan kullanıcı, sonra özellik. Kimsenin ödemediği özellik borçtur.
+
+## Sık Karıştırılanlar
+Hobi projesi sanılır. Hobide gelir hedefi yoktur, indie hacking içinde ticarileşme şarttır. Freelance ile de karışır: Freelance saat satar, indie ürün satar.
+
+## Farklı Disiplinlerde Kullanımı
+- **Yemek kamyonu:** Küçük mutfak, kendi menü, kendi müşteri.
+- **Sokak müzisyeni:** Repertuvar ve bahşiş ekonomisi.
+- **Butik fırın:** Az çeşit, sadık müşteri.
 
 ## Bir benzetmeyle
-Bir şirkette çalışmak, büyük bir restoran zincirinde şef olmaya benzer; indie hacking ise kendi küçük yemek kamyonunuzu işletip menüyü ve tüm işleyişi kendinizin belirlemesine benzer.
-
-## Nasıl çalışır?
-Önce çözmek istediğiniz küçük bir problem bulursunuz, ardından basit bir ürün geliştirirsiniz. Bu ürünü internet üzerinden kullanıcılara sunar ve geri bildirimlere göre geliştirirsiniz. Başarılı olduğunda, bu ürün sizin için pasif veya aktif bir gelir kapısı haline gelir.
-
-## Nerede kullanılır?
-Genellikle kişisel projelerde, küçük girişimcilik topluluklarında ve bağımsız yazılım geliştirme süreçlerinde karşınıza çıkar.
-
-## Sık karıştırılanlar
-Sadece bir hobi projesiyle karıştırılabilir, ancak indie hacking'in temelinde ürünün ticarileştirilmesi ve gelir elde etme hedefi yatar.
+Büyük restoran zincirinde şef olmak yerine kendi küçük yemek kamyonunuzu işletmeye benzer; menüyü ve işleyişi siz belirlersiniz.
 
 ## Sıkça sorulanlar
 
-**Indie hacker olmak için çok iyi kod bilmek şart mı?**  
-Hayır, temel düzeyde kod bilgisi yeterlidir. Birçok indie hacker, hazır araçlar ve az kod gerektiren platformlar kullanarak da başarılı olmaktadır.
+**Çok iyi kod bilmek şart mı?**  
+Hayır. Temel düzey yeterlidir, hazır araçlar açığı kapatır. Asıl iş doğru sorunu bulmaktır.
 
 **Bu süreçte en önemli şey nedir?**  
-Kod yazmaktan ziyade, insanların gerçekten ihtiyaç duyduğu bir problemi bulmak ve o sorunu çözmektir.
+Ödeme yapan kullanıcı bulmaktır. Koddan önce sorun ve dağıtım kanalı gelir.
+
+**Ne kadar sermaye gerekir?**  
+Çoğu iş bootstrap ile başlar: Domain, barındırma ve araçlar için küçük bütçe yeterlidir.
+
+**Başarısızlık oranı nedir?**  
+Yüksektir, çoğu deneme tutmaz. Küçük başlayıp hızlı vazgeçmek yöntemin parçasıdır.
 
 ## İlgili terimler
 - [SaaS](/dictionary/saas/)

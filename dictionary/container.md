@@ -1,32 +1,67 @@
-# Container nedir?
+# Container nedir, ne demek?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-08-20
+**Son güncelleme:** 2026-09-22
 
-Bir yazılımın çalışması için gereken her şeyi içinde barındıran ve her bilgisayarda aynı şekilde çalışmasını sağlayan taşınabilir bir kutudur.
+Container (Türkçe karşılığıyla **konteyner**), uygulamanın kod ve bağımlılıklarıyla tek pakette, her ortamda aynı çalışmasıdır.
 
-## Tanım
-Konteynerler, bir uygulamanın kodunu, kütüphanelerini ve ayarlarını tek bir paket haline getirir. Bu sayede yazılımınız, sizin bilgisayarınızda nasıl çalışıyorsa sunucuda veya başka birinin bilgisayarında da aynı şekilde çalışır. Yani, 'benim bilgisayarımda çalışıyordu' sorununu tamamen ortadan kaldırır.
+## Tanım ve Kelime Kökeni
+Konteynerler uygulamanın kodunu, kütüphanelerini ve ayarlarını tek pakete koyar. Sizin bilgisayarınızda nasıl çalışıyorsa sunucuda da öyle çalışır. Fikir eskidir (chroot, LXC), 2013 sonrası Docker ile yaygınlaştı, bugün OCI standardıyla tanımlanır.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Dağıtım:** Geliştiriciden canlıya aynı paket.
+- **Mikro hizmet:** Her servisin kendi kutusu.
+- **CI:** Her testin temiz kutuda koşması.
+
+## Teknik Derinlik ve Mimari
+Kavramlar:
+- **İmaj:** Salt okunur kalıp, katmanlardan oluşur.
+- **Konteyner:** İmajın çalışan örneği.
+- **Dockerfile:** Kalıbın tarifi.
+- **Kayıt (Registry):** İmajların tutulduğu depo.
+
+Basit bir tarif:
+
+```
+FROM python:3.12-slim
+COPY . /uygulama
+WORKDIR /uygulama
+CMD ["python", "app.py"]
+```
+
+Derleme ve çalıştırma:
+
+```
+docker build -t ornek:1.0 .
+docker run -p 8000:8000 ornek:1.0
+```
+
+Sanal makine farkı: Makine kendi işletim sistemini taşır, konteyner ana çekirdeği paylaşır. Bu yüzden konteynerler daha hafif ve hızlı açılır.
+
+## Sık Karıştırılanlar
+Sanal makine sanılır. Makine tam işletim sistemi taşır, konteyner yalnızca uygulamayı taşır. Yalıtım makinede güçlü, konteynerde yeterlidir; seçim yüke göre yapılır.
+
+## Farklı Disiplinlerde Kullanımı
+- **Nakliye:** Standart boy konteynerle gemi, tren, kamyon uyumu.
+- **Mutfak:** Malzemesi içinde hazır yemek kutusu.
+- **Kamp:** Çantasında düzeniyle taşınan kamp seti.
 
 ## Bir benzetmeyle
-Bir mutfak düşünün; her yemek için gerekli tüm malzemeleri, baharatları ve araçları tek bir kutuya koyup istediğiniz yere götürüyorsunuz. Nerede açarsanız açın, aynı yemeği aynı lezzetle pişirebiliyorsunuz.
-
-## Nasıl çalışır?
-Geliştiriciler, Docker gibi araçlar kullanarak uygulamanın ihtiyaç duyduğu her şeyi bir 'konteyner imajı' içine paketler. Bu paket, işletim sisteminden bağımsız olarak izole bir alanda çalışır. Böylece sistemdeki diğer uygulamalarla çakışma yaşanmaz.
-
-## Nerede kullanılır?
-Bulut bilişimde, yazılım dağıtımında ve karmaşık uygulamaların yönetilmesinde kullanılır. Özellikle büyük ekiplerin birbiriyle uyumlu çalışması gereken projelerde standarttır.
-
-## Sık karıştırılanlar
-Sanal makineler (Virtual Machines) ile sıkça karıştırılır; ancak konteynerler çok daha hafif ve hızlıdır çünkü işletim sistemini paylaşırlar.
+Her yemek için gerekli tüm malzemeleri, baharatları ve araçları tek bir kutuya koyup istediğiniz yere götürmek gibidir; nerede açarsanız açın, aynı yemeği pişirirsiniz.
 
 ## Sıkça sorulanlar
 
 **Konteyner neden bu kadar popüler?**  
-Çünkü yazılımın her ortamda aynı kararlılıkla çalışmasını garanti eder ve kurulum süreçlerini dakikalardan saniyelere indirir.
+Her ortamda aynı çalışmayı ve hızlı kurulumu sağladığı için. Mikro hizmet ve bulut düzeniyle birlikte standart haline geldi.
 
 **Konteyner ile sanal makine farkı nedir?**  
-Sanal makineler kendi işletim sistemlerini taşır, konteynerler ise ana işletim sisteminin çekirdeğini paylaşır; bu yüzden konteynerler çok daha hızlıdır.
+Makine kendi işletim sistemini taşır, konteyner ana çekirdeği paylaşır. Konteyner hafif ve hızlı, makine yalıtımda güçlüdür.
+
+**Konteyner güvenli midir?**  
+Çekirdek paylaşıldığı için makine kadar izole değildir. İmajları güvenilir kaynaktan çekmeniz ve güncel tutmanız gerekir.
+
+**Ne zaman sanal makine tercih edilir?**  
+Farklı işletim sistemi veya güçlü yalıtım gerektiğinde. Geri kalan çoğu iş yükünde konteyner yeterlidir.
 
 ## İlgili terimler
 - [Containers](/dictionary/containers/)

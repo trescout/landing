@@ -23,7 +23,7 @@ Si l'une de ces couches fonctionne mal, votre connexion Internet est interrompue
 
 
 ## Termes liés
-- [Networking Stack](/fr/dictionary/networking-stack/)
+- [VPN](/fr/dictionary/vpn/)
 - [API](/fr/dictionary/api/)
 - [Packet Fragmentation](/fr/dictionary/packet-fragmentation/)
 

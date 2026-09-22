@@ -20,7 +20,7 @@ Das empfangende Gerät erkennt, dass Teile fehlen und fordert den Absender auf, 
 
 
 ## Verwandte Begriffe
-- [Networking Stack](/de/dictionary/networking-stack/)
+- [Network Stack](/de/dictionary/network-stack/)
 - [DNS Tunneling](/de/dictionary/dns-tunneling/)
 
 ## Verwandte Werkzeuge

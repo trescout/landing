@@ -1,29 +1,56 @@
-# Durable Objects nedir?
+# Durable Objects nedir, ne demek?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-08-08
+**Son güncelleme:** 2026-09-22
 
-İnternet üzerinde sürekli çalışan ve durumunu kaybetmeden veri saklayabilen küçük yazılım birimleridir.
+Durable objects (Türkçe karşılığıyla **kalıcı nesneler**), durumunu koruyan küçük bulut birimleridir.
 
-## Tanım
-Normalde internetteki programlar geçicidir, ancak bu yapılar veriyi kendi içinde tutarak kesintisiz çalışır. Bir kullanıcı etkileşimi bittiğinde bile veriyi unutmazlar. Dağıtık sistemlerde tutarlılığı korumak için idealdir.
+## Tanım ve Kelime Kökeni
+"Durable" **kalıcı** demektir. Geçici işlevlerin tersine veri birimde yaşar, istek bitince unutulmaz. Tutarlılık gereken dağıtık işlerin ilacıdır.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Oyun:** Oda durumu takibi.
+- **Sohbet:** Bağlantı oturumu.
+- **Servis:** Sayaç ve kilit.
+
+## Teknik Derinlik ve Mimari
+Düzen:
+- **Kimlik:** Her birimin adı vardır.
+- **Tek yazıcı:** Aynı anda tek el yazar.
+- **WebSocket:** Sürekli bağlantı.
+
+Akış:
+
+```
+istek → oda-nesnesi → durum güncellenir → yanıt
+```
+
+Serverless farkı: İşlev sıfırdan başlar, nesne kaldığı yerden devam eder.
+
+## Sık Karıştırılanlar
+Serverless sanılır. İşlev geçicidir, nesne kalıcıdır. Biri günübirlikçi, diğeri kiracıdır.
+
+## Farklı Disiplinlerde Kullanımı
+- **Sekreter:** Defteri bırakmayan yardımcı.
+- **Kasa defteri:** Gün sonu bakiyesi.
+- **Emanet:** Sahibini bekleyen dolap.
 
 ## Bir benzetmeyle
-Sadece gerektiğinde uyanan bir uygulama yerine, her zaman tetikte bekleyen ve not defterini hiç bırakmayan bir sekreter gibidir.
-
-## Nasıl çalışır?
-Sunucu üzerinde belirli bir kimlik ile yaşarlar ve gelen her isteği kendi hafızalarındaki güncel durumla işlerler.
-
-## Nerede kullanılır?
-Gerçek zamanlı oyunlarda, sohbet uygulamalarında ve durumu korunması gereken web servislerinde kullanılır.
-
-## Sık karıştırılanlar
-Geçici sunucu fonksiyonları (serverless) ile karıştırılmamalıdır; çünkü onlar her seferinde sıfırdan başlar.
+Not defterini hiç bırakmayan tetikte sekreter gibidir.
 
 ## Sıkça sorulanlar
 
 **Veri nerede saklanır?**  
-Bu birimin kendi içinde, yani doğrudan çalışma ortamının bir parçası olarak saklanır.
+Birimin içinde, çalışma ortamının parçası olarak tutulur.
+
+**Ne zaman kullanılır?**  
+Durum gerektiren gerçek zamanlı işte: Oda, sayaç ve kilit.
+
+**Maliyeti nedir?**  
+Sürekli yaşadığı için boşta da yazar. Trafik desenine göre hesaplanır.
+
+**Serverless farkı nedir?**  
+İşlev unutur, nesne hatırlar. Durum varsa nesne seçilir.
 
 ## İlgili terimler
 - [Runtime](/dictionary/runtime/)

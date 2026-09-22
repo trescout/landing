@@ -27,7 +27,7 @@ It is preferred because it is fast, light and very easy to install.
 
 
 ## Related terms
-- [Networking Stack](/en/dictionary/networking-stack/)
+- [Network Stack](/en/dictionary/network-stack/)
 - [Terminal](/en/dictionary/terminal/)
 
 ## Related tools

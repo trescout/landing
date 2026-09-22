@@ -1,29 +1,58 @@
-# OpenExecutive nedir?
+# OpenExecutive nedir, ne demek?
 
 **Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-08-27
+**Son güncelleme:** 2026-09-22
 
-Kurumsal yönetim süreçlerini otomatikleştirmek için tasarlanmış, açık kaynaklı bir yapay zekâ yönetim sistemi.
+OpenExecutive, kurumsal süreçleri otomatikleştiren açık kaynak yönetim katmanıdır.
 
-## Tanım
-Şirket içi karar alma, raporlama ve operasyonel süreçleri yöneten bir yapay zekâ yapısıdır. İnsan yöneticilerin üzerindeki rutin iş yükünü hafifletmeyi ve veriye dayalı kararları hızlandırmayı hedefler.
+## Tanım ve Kelime Kökeni
+"Open" **açık**, "executive" ise **yönetici** demektir. Karar, raporlama ve operasyon akışlarını kurallara bağlar. Rutin yükü alır, stratejik kararı insana bırakır.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Rapor:** Otomatik özet ve dağıtım.
+- **Onay:** Kurala göre yönlendirme.
+- **İzleme:** Sapma uyarısı.
+
+## Teknik Derinlik ve Mimari
+Katman:
+- **Veri bağlantısı:** Kaynak sistemlere erişim.
+- **Kural motoru:** Eşik ve koşul tanımı.
+- **Eylem:** Bildirim, kayıt ve tetikleme.
+- **İnsan onayı:** Kritik adımda durma.
+
+Örnek kural:
+
+```
+kural: stok < 10 → satınalma talebi aç
+sahip: operasyon müdürü
+```
+
+Kural: Otomasyon önerir, sorumluluk onaylar. İmza insandadır.
+
+## Sık Karıştırılanlar
+Sohbet botu sanılır. Bot yanıt verir, bu katman sürece gömülür. Biri pencere, diğeri tesisattır.
+
+## Farklı Disiplinlerde Kullanımı
+- **Yardımcı:** Rutin işi üstlenen destek.
+- **Otopilot:** Rotayı koruyan düzen.
+- **Sekreterya:** Evrak akış düzeni.
 
 ## Bir benzetmeyle
-Şirketin tüm departmanlarına anlık veri sağlayan ve operasyonları denetleyen dijital bir genel müdür yardımcısı gibidir.
-
-## Nasıl çalışır?
-Şirket verilerine bağlanır, süreçleri analiz eder ve belirlenen kurallar çerçevesinde otomatik kararlar alır.
-
-## Nerede kullanılır?
-Kurumsal yazılım yönetiminde ve operasyonel verimlilik projelerinde kullanılır.
-
-## Sık karıştırılanlar
-Sadece bir sohbet botu değildir; tüm iş süreçlerine entegre olan bir yönetim katmanıdır.
+Departmanlara anlık veri sağlayan ve operasyonu denetleyen dijital yardımcı gibidir.
 
 ## Sıkça sorulanlar
 
-**İnsan yöneticilerin yerini mi alacak?**  
-Hayır, sadece rutin işleri yaparak yöneticilerin daha stratejik kararlara odaklanmasını sağlar.
+**Yöneticinin yerini mi alır?**  
+Hayır. Rutin işi alır, stratejik karar insanda kalır.
+
+**Veri güvenliği nasıl sağlanır?**  
+Erişim kapsamı dar tutulur, kritik adım onaylıdır. Denetim kaydı tutulur.
+
+**Nereden başlanır?**  
+Tekrarlanan tek süreçle. Ölçülür, sonra yayılır.
+
+**Açık kaynak avantajı nedir?**  
+Denetim ve uyarlama özgürlüğüdür. Barındırma sorumluluğu sizdedir.
 
 ## İlgili terimler
 - [AI Agent](/dictionary/ai-agent/)

@@ -27,7 +27,7 @@ Im Allgemeinen ja, aber einige Endungen wie .gov sind nur staatlichen Einrichtun
 ## Verwandte Begriffe
 - [DNS Tunneling](/de/dictionary/dns-tunneling/)
 - [Nameservers](/de/dictionary/nameservers/)
-- [Networking Stack](/de/dictionary/networking-stack/)
+- [Network Stack](/de/dictionary/network-stack/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/top-level-domain/

@@ -1,29 +1,50 @@
-# Frontier AI nedir?
+# Frontier AI nedir, ne demek?
 
 **Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-09-08
+**Son güncelleme:** 2026-09-22
 
-Mevcut teknolojik sınırları zorlayan, en gelişmiş ve en yüksek yetenekli yapay zekâ sistemleri.
+Frontier AI (Türkçe karşılığıyla **sınır yapay zekâsı**), en yetenekli güncel modellerdir.
 
-## Tanım
-Henüz genel kabul görmüş standartların ötesinde, çok yüksek işlem gücü ve karmaşık mantık yürütme kapasitesine sahip yapay zekâ modelleridir. Bu sistemler, bilimsel keşiflerden karmaşık stratejik planlamalara kadar pek çok ileri düzey alanda kullanılır.
+## Tanım ve Kelime Kökeni
+"Frontier" **sınır** demektir. Standartların ötesinde, yüksek işlem gücü ve akıl yürütme kapasiteli sistemlerdir. Bilimsel keşiften stratejik plana ileri işlerde koşar.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Araştırma:** Literatür ve deney tasarımı.
+- **Mühendislik:** Karmaşık kod üretimi.
+- **Analiz:** Büyük veri özeti.
+
+## Teknik Derinlik ve Mimari
+Belirleyiciler:
+- **Ölçek:** Veri ve işlem büyüklüğü.
+- **Değerlendirme:** Zorlu test setleri.
+- **Hizalama:** Güvenlik katmanları.
+
+Erişim notu: Maliyet yüksek olduğu için genelde API veya ücretli servis üzerinden sunulur. Doğrudan ağırlık paylaşımı modele göre değişir.
+
+## Sık Karıştırılanlar
+AGI sanılır. Frontier bugünün en iyisidir, AGI hedeflenen genel zekâdır. Biri mevcut zirve, diğeri ufuktur.
+
+## Farklı Disiplinlerde Kullanımı
+- **Formula 1:** Pistin en hızlı aracı.
+- **Everest:** Dağcılığın zirve rotası.
+- **Deney uçağı:** Sınır test platformu.
 
 ## Bir benzetmeyle
-Bir otomobil dünyasında standart binek araçlar varken, en son teknolojiyle üretilmiş bir Formula 1 aracı gibidir; en hızlı ve en gelişmiş olanı temsil eder.
-
-## Nasıl çalışır?
-Devasa veri setleri ve binlerce ekran kartının birleşimiyle eğitilirler.
-
-## Nerede kullanılır?
-İleri düzey bilimsel araştırmalar, karmaşık problem çözme ve büyük ölçekli otomasyonlarda kullanılır.
-
-## Sık karıştırılanlar
-AGI
+Standart araçlar arasında Formula 1 aracı gibidir; en hızlı ve en gelişmiş olandır.
 
 ## Sıkça sorulanlar
 
 **Herkes kullanabilir mi?**  
-Genellikle çok yüksek maliyetli oldukları için erişimleri kısıtlıdır veya ücretli servisler üzerinden sunulurlar.
+Maliyet nedeniyle genelde ücretli servis üzerinden. Açık ağırlıklar istisnadır.
+
+**AGI farkı nedir?**  
+Frontier mevcut zirvedir, AGI genel zekâ hedefidir. Biri bugün, diğeri yarındır.
+
+**Erişim nasıl olur?**  
+API ve abonelikle. Kota ve fiyat modele göre değişir.
+
+**Riski nedir?**  
+Güçlü yetenek yanlış elde risk taşır. Erişim katmanlı ve denetimlidir.
 
 ## İlgili terimler
 - [AGI](/dictionary/agi/)

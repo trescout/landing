@@ -21,7 +21,7 @@ Das System ist nicht mehr in der Lage, neue Befehle zu empfangen oder den Datenv
 
 ## Verwandte Begriffe
 - [API Gateway](/de/dictionary/api-gateway/)
-- [Networking Stack](/de/dictionary/networking-stack/)
+- [Network Stack](/de/dictionary/network-stack/)
 - [Cloud Native](/de/dictionary/cloud-native/)
 
 ## Verwandte Werkzeuge

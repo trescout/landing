@@ -1,29 +1,52 @@
-# Working Memory nedir?
+# Working Memory nedir, ne demek?
 
 **Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-08-16
+**Son güncelleme:** 2026-09-22
 
-Yapay zekânın işlem sırasında bilgileri geçici olarak tuttuğu kısa süreli hafıza alanıdır.
+Working memory (Türkçe karşılığıyla **çalışma belleği**), modelin o anki iş için tuttuğu geçici bilgidir.
 
-## Tanım
-Çalışma belleği, yapay zekânın bir görevi yerine getirirken o anki bağlamı ve gerekli verileri aktif tuttuğu yerdir. Görev bittiğinde veya bağlam değiştiğinde bu bilgiler genellikle temizlenir.
+## Tanım ve Kelime Kökeni
+Görev bitince veya bağlam değişince içerik temizlenir. Bağlam penceresi kabı, çalışma belleği içindeki aktif bilgidir. Sohbet geçmişi ve ara sonuçlar burada durur.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Sohbet:** Önceki mesajların hatırlanması.
+- **Akıl yürütme:** Ara adımların tutulması.
+- **Araç:** Çağrı sonuçlarının bekletilmesi.
+
+## Teknik Derinlik ve Mimari
+Bütçe hesabı:
+
+```
+bağlam: 128K token
+geçmiş: 100K → kalan 28K
+```
+
+Taşınca model eskiye elveda der: Budama, özetleme veya kaydırma uygulanır. RAG farkı: RAG dışarıdan bilgi getirir, çalışma belleği o anki bilgiyi tutar. İkisi birlikte çalışır.
+
+## Sık Karıştırılanlar
+Uzun süreli hafız sanılır. O kalıcı profildir, bu geçici tezgahtır. Oturum kapanınca burası boşalır.
+
+## Farklı Disiplinlerde Kullanımı
+- **Kenar notu:** Problem bitince atılan karalama.
+- **Tezgah:** İş bitince toplanan alet.
+- **RAM:** Güç kesilince silinen alan.
 
 ## Bir benzetmeyle
-Bir matematik problemini çözerken kağıdın kenarına aldığınız geçici notlar gibidir; problem bitince o notların önemi kalmaz.
-
-## Nasıl çalışır?
-Modelin o anki işlem döngüsü içinde, girdi verilerini ve ara sonuçları hızlı erişim için belleğinde tutmasıyla gerçekleşir.
-
-## Nerede kullanılır?
-Sohbet geçmişinin korunmasında ve karmaşık mantık yürütme süreçlerinde kullanılır.
-
-## Sık karıştırılanlar
-Uzun süreli hafızadan farkı, sadece o anki görevle sınırlı olmasıdır.
+Matematik çözerken kenara alınan geçici notlar gibidir; problem bitince önemi kalmaz.
 
 ## Sıkça sorulanlar
 
-**Çalışma belleği dolarsa ne olur?**  
-Model, eski bilgileri unutmaya başlar veya bağlamı kaybedebilir.
+**Dolarsa ne olur?**  
+Eski bilgi unutulur, bağlam kayar. Özetleme ve budama ile yönetilir.
+
+**Nasıl büyütülür?**  
+Büyük pencereli model seçilir veya RAG ile dış bilgi eklenir.
+
+**RAG farkı nedir?**  
+RAG dışarıdan getirir, bellek o anı tutar. İkisi tamamlayıcıdır.
+
+**Unutur mu?**  
+Evet. Geçici alandır, kalıcılık beklenmez. Kalıcı bilgi dışarı yazılır.
 
 ## İlgili terimler
 - [Memory](/dictionary/memory/)

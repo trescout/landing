@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Identity Provider nedir? · TreScout Sözlük</title>
-<meta name="description" content="Kullanıcı giriş bilgilerini doğrulayan ve uygulamalara güvenli erişim sağlayan merkezi servis.">
+<title>Identity Provider Nedir? Kimlik Sağlayıcı Rehberi · TreScout</title>
+<meta name="description" content="Identity provider nedir, ne demek? OIDC akışı, jeton türleri, MFA ve SSO farkıyla kimlik sağlayıcı rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/dictionary/identity-provider/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/identity-provider/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="es" href="https://trescout.com/es/dictionary/identity-provider/">
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/identity-provider/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/identity-provider/">
-<meta property="og:title" content="Identity Provider nedir?">
-<meta property="og:description" content="Kullanıcı giriş bilgilerini doğrulayan ve uygulamalara güvenli erişim sağlayan merkezi servis.">
+<meta property="og:title" content="Identity Provider Nedir? Kimlik Sağlayıcı Rehberi · TreScout">
+<meta property="og:description" content="Identity provider nedir, ne demek? OIDC akışı, jeton türleri, MFA ve SSO farkıyla kimlik sağlayıcı rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/identity-provider/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Identity Provider nedir?">
+<meta name="twitter:title" content="Identity Provider Nedir? Kimlik Sağlayıcı Rehberi · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/identity-provider.webp">
 <script type="application/ld+json">
 {
@@ -32,7 +32,7 @@
   "@type": "DefinedTerm",
   "name": "Identity Provider",
   "inLanguage": "tr",
-  "description": "Bir uygulamaya her seferinde yeni şifre oluşturmak yerine, merkezi bir sistem üzerinden kimliğinizi kanıtlamanızı sağlar. Uygulama, kim olduğunuzu bu servise sorar ve onay alır.",
+  "description": "Identity provider (kimlik sağlayıcı), girişleri doğrulayan merkezi servistir.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -51,7 +51,7 @@
       "name": "Güvenli midir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Evet, şifrenizi her uygulamaya vermediğiniz için daha güvenlidir."
+        "text": "Evet. Parola her uygulamaya dağılmadığı için saldırı yüzeyi küçülür."
       }
     },
     {
@@ -59,7 +59,23 @@
       "name": "Sistem çökerse ne olur?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Merkezi servis olduğu için tüm bağlı uygulamalara erişim kesilebilir."
+        "text": "Bağlı uygulamalar etkilenir. Yedeklilik ve acil erişim planı şarttır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "SSO farkı nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "SSO tek giriş deneyimidir, sağlayıcı altyapısıdır. Biri yüz, diğeri omurgadır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Kendim kurabilir miyim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Evet, açık kaynak seçenekler vardır. Yama ve yedek disiplini size aittir."
       }
     }
   ]
@@ -72,7 +88,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Kullanıcı giriş bilgilerini doğrulayan ve uygulamalara güvenli erişim sağlayan merkezi servis.">
+<meta name="twitter:description" content="Identity provider nedir, ne demek? OIDC akışı, jeton türleri, MFA ve SSO farkıyla kimlik sağlayıcı rehberi.">
 
 <meta property="og:image:alt" content="Identity Provider nedir?">
 </head>
@@ -82,11 +98,11 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-08-10">Son güncelleme: 10 Ağustos 2026</time></div>
-<h1 class="disc-title">Identity Provider <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-22">Son güncelleme: 22 Eylül 2026</time></div>
+<h1 class="disc-title">Identity Provider <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">Kullanıcı giriş bilgilerini doğrulayan ve uygulamalara güvenli erişim sağlayan merkezi servis.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Bir uygulamaya her seferinde yeni şifre oluşturmak yerine, merkezi bir sistem üzerinden kimliğinizi kanıtlamanızı sağlar. Uygulama, kim olduğunuzu bu servise sorar ve onay alır.</p></section><div class="dict-analogy">Bir otelin resepsiyonunda pasaportunuzu gösterip kart anahtar almanız gibidir; otel odasına girmek için resepsiyonun onayına güvenir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Kullanıcı giriş yapar, servis kimliği doğrular ve uygulamaya bir &#x27;giriş yapıldı&#x27; anahtarı gönderir.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Şirket içi sistemlerde, SSO (Tek Oturum Açma) yapılarında ve modern web uygulamalarında kullanılır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Sadece bir şifre yöneticisi değil, kimlik doğrulama otoritesidir.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Güvenli midir?</p><p class="dict-faq-a">Evet, şifrenizi her uygulamaya vermediğiniz için daha güvenlidir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Sistem çökerse ne olur?</p><p class="dict-faq-a">Merkezi servis olduğu için tüm bağlı uygulamalara erişim kesilebilir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/sso/">SSO</a><a href="/dictionary/oidc/">OIDC</a><a href="/dictionary/rbac/">RBAC</a></div></section>
+<p class="disc-lead">Identity provider (Türkçe karşılığıyla <strong>kimlik sağlayıcı</strong>), girişleri doğrulayan merkezi servistir.</p>
+<section class="disc-sec"><h2>Tanım ve Kelime Kökeni</h2><p>Her uygulamaya ayrı şifre yerine tek merkezden giriş yapılır. Uygulama kim olduğunuzu servise sorar, onay alır. Parolanız uygulamalara dağılmaz, merkezde kalır.</p></section><section class="disc-sec"><h2>Gündelik Hayatta Nasıl Bilinir ve Kullanılır?</h2><p><strong>Şirket:</strong> Tek girişle tüm sistemler.<br><strong>Web:</strong> Sosyal hesapla giriş.<br><strong>Kurumsal:</strong> Çalışan yaşam döngüsü.</p></section><section class="disc-sec"><h2>Teknik Derinlik ve Mimari</h2><p>Akış:</p><p><pre><code>giriş → doğrulama → jeton → uygulama</code></pre></p><p>Parçalar:</p><p><strong>Kimlik jetonu:</strong> Kim olduğunuzun belgesi.<br><strong>Erişim jetonu:</strong> Ne yapabileceğinizin izni.<br><strong>MFA:</strong> Parolaya ek ikinci kanıt.<br><strong>Oturum:</strong> Tek girişle çok uygulama (SSO).</p><p>Kural: Jeton süresi kısa tutulur, yenileme arka planda döner.</p></section><section class="disc-sec"><h2>Sık Karıştırılanlar</h2><p>Şifre yöneticisi sanılır. O parolayı saklar, bu kimliği onaylar. Biri kasa, diğeri noterdir.</p></section><section class="disc-sec"><h2>Farklı Disiplinlerde Kullanımı</h2><p><strong>Resepsiyon:</strong> Pasaporta karşı kart anahtar.<br><strong>Noter:</strong> Kimlik tasdiki.<br><strong>Pasaport kontrolü:</strong> Damga ile geçiş.</p></section><div class="dict-analogy">Otel resepsiyonunda pasaport gösterip kart anahtar almaya benzer; oda kapısı resepsiyon onayına güvenir.</div><section class="disc-sec"><h2>Sıkça Sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Güvenli midir?</p><p class="dict-faq-a">Evet. Parola her uygulamaya dağılmadığı için saldırı yüzeyi küçülür.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Sistem çökerse ne olur?</p><p class="dict-faq-a">Bağlı uygulamalar etkilenir. Yedeklilik ve acil erişim planı şarttır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">SSO farkı nedir?</p><p class="dict-faq-a">SSO tek giriş deneyimidir, sağlayıcı altyapısıdır. Biri yüz, diğeri omurgadır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Kendim kurabilir miyim?</p><p class="dict-faq-a">Evet, açık kaynak seçenekler vardır. Yama ve yedek disiplini size aittir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/sso/">SSO</a><a href="/dictionary/oidc/">OIDC</a><a href="/dictionary/rbac/">RBAC</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

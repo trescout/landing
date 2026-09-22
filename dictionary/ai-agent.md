@@ -1,32 +1,57 @@
-# AI Agent nedir?
+# AI Agent nedir, ne demek?
 
 **Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-06-03
+**Son güncelleme:** 2026-09-22
 
-Kendi başına karar verip görevleri yerine getiren otonom yapay zeka sistemidir.
+AI agent (Türkçe karşılığıyla **yapay zekâ ajanı**), hedefe ulaşmak için araç kullanan ve karar alan otonom yazılımdır.
 
-## Tanım
-Sadece soruya cevap vermekle kalmayıp, hedefe ulaşmak için araçları kullanan ve kararlar alan otonom yazılımlardır. Kendi başına bir görevi tamamlamak için adımlar planlayabilir.
+## Tanım ve Kelime Kökeni
+Sohbet robotu soruyu yanıtlar, ajan işi bitirir. Hedef verilir, adımları planlar, arama yapar, dosya okur, araç çağırır. Kendi başına görevi tamamlamaya çalışır. Bu yüzden asistanın ötesinde, çalışanın taslağıdır.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **E-posta:** Gelen kutusunu toplayıp özet çıkarma.
+- **Araştırma:** Kaynak tarayıp rapor yazma.
+- **Kod:** Depoda gezip yama önerme.
+
+## Teknik Derinlik ve Mimari
+Döngü şöyledir:
+
+```
+hedef → plan → araç çağır → sonucu gözle → bitir ya da revize et
+```
+
+Parçalar:
+- **Planlama:** Hedefin alt görevlere bölünmesi.
+- **Araçlar:** Arama, dosya, API çağrıları.
+- **Hafıza:** Konuşma ve görev geçmişi.
+- **İnsan onayı (HITL):** Kritik adımda durup sorma.
+
+Kural: Yetki, görevin ciddiyetine göre verilir. Okuma serbest, yazma onaylı, ödeme çift onaylı olur.
+
+## Sık Karıştırılanlar
+Chatbot sanılır. Chatbot konuşur, ajan aksiyon alır. Sohbet arayüzü aynı görünür, arkada çalışan farklıdır.
+
+## Farklı Disiplinlerde Kullanımı
+- **Aşçı yardımcısı:** Tarifi okuyup yemeği pişirme.
+- **Vale:** Anahtarı alıp işi bitirip getirme.
+- **Seyahat acentesi:** Bilet, otel ve transferi toplama.
 
 ## Bir benzetmeyle
-Şöyle düşünün: Sadece tarif veren bir kitap değil, mutfağa girip tarife göre yemeği pişiren, eksik malzeme varsa markete gidip alan bir aşçı yardımcısı gibidir.
-
-## Nasıl çalışır?
-Agent, kendisine verilen hedefi küçük görevlere böler. İhtiyaç duyduğunda internette arama yapar, dosya okur veya başka yazılımlarla iletişime geçer.
-
-## Nerede kullanılır?
-Otomatik e-posta yanıtlayan sistemlerde, karmaşık veri analizi yapan projelerde veya kişisel asistanlarda kullanılır.
-
-## Sık karıştırılanlar
-Sıradan chatbotlar ile karıştırılır; chatbot sadece konuşur, agent ise aksiyon alır.
+Sadece tarif veren kitap değil, mutfağa girip tarife göre yemeği pişiren, eksik malzeme varsa markete gidip alan aşçı yardımcısı gibidir.
 
 ## Sıkça sorulanlar
 
 **Agentlar tehlikeli olabilir mi?**  
-Kontrolsüz bırakıldıklarında yanlış işlemler yapabilirler, bu yüzden insan denetimi önemlidir.
+Denetimsiz bırakılırsa yanlış işlem yapabilir. Yetki kademesi ve insan onayı riski yönetir.
 
 **Agentlar nasıl karar verir?**  
-Kendilerine verilen kurallar ve hedefler doğrultusunda olasılık hesapları yaparak ilerlerler.
+Hedef ve kurallara göre olasılık hesabı yapar, araç sonuçlarına bakarak planı günceller.
+
+**Chatbot ile farkı nedir?**  
+Chatbot yanıt üretir, ajan iş bitirir. Ajan araç çağırır ve dış dünyada değişiklik yapar.
+
+**Hangi araçları kullanır?**  
+Arama, dosya, takvim, API ve kod çalıştırma gibi tanımlı yetenekleri. Liste göreve göre açılır.
 
 ## İlgili terimler
 - [Agentic AI](/dictionary/agentic-ai/)

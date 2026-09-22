@@ -1,32 +1,58 @@
-# System Programming Language nedir?
+# System Programming Language nedir, ne demek?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-06-07
+**Son güncelleme:** 2026-09-22
 
-İşletim sistemi veya donanım sürücüsü gibi temel seviyede yazılımlar geliştirmek için kullanılan güçlü dildir.
+System programming language (Türkçe karşılığıyla **sistem programlama dili**), donanımla konuşan dillerdir.
 
-## Tanım
-Bilgisayarın donanımıyla doğrudan konuşabilen, hafıza yönetimi üzerinde tam kontrol sağlayan dillerdir. Çok hızlıdırlar ancak hata yapmaya karşı daha az toleranslıdırlar.
+## Tanım ve Kelime Kökeni
+Bellek yönetiminde tam kontrol verir, hızlı çalışır, hataya az tolerans gösterir. C, C++ ve Rust bilinen örnekleridir. İşletim sistemi, sürücü ve oyun motoru bu dillerle yazılır.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **İşletim sistemi:** Çekirdek ve sürücüler.
+- **Oyun:** Motor çekirdeği.
+- **Sunucu:** Yüksek trafikli servisler.
+
+## Teknik Derinlik ve Mimari
+Özellikler:
+- **Bellek kontrolü:** Ayırma ve bırakma elde.
+- **Sıfır maliyetli soyutlama:** Rust ilkesi.
+- **Derleme:** Makine koduna doğrudan.
+
+İlk program:
+
+```
+fn main() {
+    println!("merhaba");
+}
+```
+
+Bedeli disiplindir: İşaretçi hatası çökertir, derleyici uyarısı ciddiye alınır.
+
+## Sık Karıştırılanlar
+Web dilleri sanılır. Onlar arayüzle ilgilenir, bunlar donanımla. Biri vitrin, diğeri motordur.
+
+## Farklı Disiplinlerde Kullanımı
+- **Motor:** Kaporta değil mekanik.
+- **Temel:** Binanın taşıyıcısı.
+- **İskelet:** Vücudun çatısı.
 
 ## Bir benzetmeyle
-Bir arabanın üstündeki kaportayı boyamak yerine, doğrudan motoruyla ve şanzımanıyla uğraşmak gibidir.
-
-## Nasıl çalışır?
-Bu diller, donanımın nasıl çalışacağını en ince ayrıntısına kadar yönetmenize izin verir.
-
-## Nerede kullanılır?
-İşletim sistemleri (Windows, Linux), oyun motorları ve yüksek performanslı sunucularda kullanılır.
-
-## Sık karıştırılanlar
-Web dilleri ile karıştırılmamalıdır; web dilleri daha çok kullanıcı arayüzü ile ilgilenirken, bunlar donanımla ilgilenir.
+Kaportayı boyamak yerine motor ve şanzımanla uğraşmaya benzer.
 
 ## Sıkça sorulanlar
 
-**Hangi diller bu kategoriye girer?**  
-C, C++ ve Rust en bilinen örnekleridir.
+**Hangileri girer?**  
+C, C++ ve Rust en bilinenlerdir. Go ve Zig de bu sınıfa yaklaşır.
 
-**Neden herkes bu dilleri kullanmıyor?**  
-Öğrenmesi zordur ve çok dikkatli kod yazmayı gerektirir.
+**Neden herkes kullanmıyor?**  
+Öğrenmesi zor ve dikkat ister. Verimlilik bedeli vardır.
+
+**Hangisiyle başlanmalı?**  
+Rust modern ve yol göstericidir. C temel atmada klasiktir.
+
+**Web yazılır mı?**  
+Yazılır ama pratik değildir. Doğru iş doğru dille yapılır.
 
 ## İlgili terimler
 - [Computer Science](/dictionary/computer-science/)

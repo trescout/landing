@@ -26,7 +26,7 @@ You cannot access websites by name because your internet browser cannot find whe
 
 ## Related terms
 - [DNS Tunneling](/en/dictionary/dns-tunneling/)
-- [Networking Stack](/en/dictionary/networking-stack/)
+- [Network Stack](/en/dictionary/network-stack/)
 - [Gateway](/en/dictionary/gateway/)
 
 ---

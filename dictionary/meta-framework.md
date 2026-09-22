@@ -1,29 +1,56 @@
-# Meta-framework nedir?
+# Meta-framework nedir, ne demek?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-08-16
+**Son güncelleme:** 2026-09-22
 
-Temel yazılım araçlarının üzerine inşa edilen, kapsamlı geliştirme platformudur.
+Meta-framework (Türkçe karşılığıyla **üst çatı**), kütüphaneleri tek düzende toplayan yapıdır.
 
-## Tanım
-Meta-framework, yazılım geliştirme sürecini hızlandırmak için temel kütüphanelerin sunduğu özellikleri bir araya getiren üst düzey bir yapıdır. Genellikle web geliştirme süreçlerinde, karmaşık ayarları otomatikleştirerek geliştiricinin işini kolaylaştırır.
+## Tanım ve Kelime Kökeni
+"Meta" **ötesi** demektir. Kütüphane parça verir, üst çatı düzen kurar: Yönlendirme, veri çekme ve derleme hazır gelir. Az kodla çok iş yapılır.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Site:** Hızlı kurulan sayfalar.
+- **Panel:** Yönetim ekranları.
+- **Blog:** Yazı dizini.
+
+## Teknik Derinlik ve Mimari
+Getirdikleri:
+- **Dosya yönlendirme:** Klasör yola dönüşür.
+- **SSR:** Sunucu çizimi.
+- **Optimizasyon:** Resim ve yazı tipi düzeni.
+
+Sayfa yolu:
+
+```
+app/blog/[slug]/page.tsx
+```
+
+Kilitlenme notu: Çatıya gömülmek taşınmayı zorlaştırır. Çıkış kapısı baştan bilinir.
+
+## Sık Karıştırılanlar
+Kütüphane sanılır. Kütüphane çağrılır, çatı çağırır. Biri alet, diğeri atölyedir.
+
+## Farklı Disiplinlerde Kullanımı
+- **Şirket:** Plan ve ekip veren yapı.
+- **Şef:** Menü ve mutfak düzeni.
+- **Anahtar teslim:** Bitmiş ev teslimi.
 
 ## Bir benzetmeyle
-Sadece tuğla ve çimento satan bir yapı marketi yerine, size hazır bir ev planı ve montaj ekibi sunan bir inşaat şirketi gibidir.
-
-## Nasıl çalışır?
-Temel araçların sunduğu özellikleri birleştirip, yönlendirilmiş bir yapı sunarak geliştiricinin daha az kodla daha çok iş yapmasını sağlar.
-
-## Nerede kullanılır?
-Modern web siteleri ve karmaşık yazılım projelerinin hızlıca ayağa kaldırılmasında kullanılır.
-
-## Sık karıştırılanlar
-Standart kütüphanelerden farkı, tüm süreci yöneten bir çatı görevi görmesidir.
+Tuğla satan market yerine plan ve ekip veren şirket gibidir.
 
 ## Sıkça sorulanlar
 
-**Neden meta-framework kullanmalıyım?**  
-Proje kurulumu ve yapılandırma gibi zaman alıcı işleri otomatikleştirerek geliştirme hızınızı artırır.
+**Neden kullanılır?**  
+Kurulum ve ayar yükünü alır, hıza odaklanılır.
+
+**Kütüphane farkı nedir?**  
+Kütüphane çağrılır, çatı yönetir. Kontrol ve hız takas edilir.
+
+**Ne zaman seçilir?**  
+Standart işte hemen, özel mimaride temkinli seçilir.
+
+**Kilitler mi?**  
+Derin gömülme kilitler. Sınırda tutulursa taşınır.
 
 ## İlgili terimler
 - [Framework](/dictionary/framework/)

@@ -1,34 +1,59 @@
-# Text-to-Speech nedir?
+# Text-to-Speech nedir, ne demek?
 
 > TTS
 
 **Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-06-03
+**Son güncelleme:** 2026-09-22
 
-Yazılı metinlerin yapay zeka tarafından insan sesiyle seslendirilmesidir.
+Text-to-speech (kısaca **TTS**, metinden sese), yazılı metni insan sesiyle seslendiren teknolojidir.
 
-## Tanım
-Text-to-Speech (Metinden Sese), yazılı metinlerin yapay zeka tarafından doğal ve akıcı bir insan sesiyle okunmasını sağlayan teknolojidir. Bu teknoloji, okuma engeli olanlar veya elleri meşgul olanlar için büyük kolaylık sağlar.
+## Tanım ve Kelime Kökeni
+Yazılı metin analiz edilir, vurgu ve tonlama belirlenir, ardından yapay zekâ modeli metni ses dalgasına dönüştürür. Teknoloji üç kuşaktan geçti: Kurallı formant sentez, kayıt parçalarını birleştiren yöntem ve bugünkü nöral modeller. Nöral kuşakla doğallık belirgin şekilde arttı.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Sesli kitap:** Makaleyi yürürken dinleme.
+- **Navigasyon:** Dönüş uyarıları.
+- **Asistanlar:** Telefon ve akıllı hoparlör yanıtları.
+- **Erişilebilirlik:** Okuma güçlüğü çekenler için ekran okuma.
+
+## Teknik Derinlik ve Mimari
+Hat üç adımdan oluşur:
+- **Metin önişleme:** Kısaltmalar açılır, sayılar okunuşa çevrilir.
+- **Prosodi:** Vurgu, durak ve ton eğrisi planlanır.
+- **Ses üretimi:** Vocoder dalgayı sentezler.
+
+Açık kaynakla denemek için:
+
+```
+espeak-ng -v tr "Merhaba, TreScout sözlüğündesiniz."
+```
+
+Kalite modele ve veriye bağlıdır. Robotik tını genellikle küçük veya tek tip veriyle eğitilmiş modellerde duyulur.
+
+## Sık Karıştırılanlar
+Ses kaydı sanılır. Kayıt önceden okunmuş sabittir, TTS ise her metni anlık üretir. Bu yüzden kayıtta olmayan cümleyi yalnızca TTS seslendirebilir.
+
+## Farklı Disiplinlerde Kullanımı
+- **Dublaj:** Metinden farklı dilde ses üretme.
+- **Radyo:** Otomatik bülten seslendirme.
+- **Oyun:** Dinamik diyalog üretimi.
 
 ## Bir benzetmeyle
-Şöyle düşünün: Bir kitabın sayfalarını çeviren birinin, metni sanki karşısındaymışsınız gibi size sesli olarak okuması gibidir.
-
-## Nasıl çalışır?
-Yazılı metin analiz edilir, vurgular ve tonlamalar belirlenir. Ardından yapay zeka modeli bu metni ses dalgalarına dönüştürerek hoparlörden duyulacak hale getirir.
-
-## Nerede kullanılır?
-Sesli kitap uygulamalarında, navigasyon cihazlarında ve dijital asistanlarda sürekli olarak kullanılır.
-
-## Sık karıştırılanlar
-Ses kaydı ile karıştırılır; ancak bu teknoloji önceden kaydedilmiş bir ses değil, anlık olarak üretilen bir sestir.
+Bir kitabın sayfalarını çeviren birinin, metni karşısındaymışsınız gibi size sesli okuması gibidir.
 
 ## Sıkça sorulanlar
 
 **Sesler neden bazen robotik geliyor?**  
-Kullanılan modelin kalitesine ve eğitildiği veri setinin çeşitliliğine bağlı olarak doğallık değişebilir.
+Modelin ve eğitim verisinin sınırındandır. Büyük ve çeşitli veriyle eğitilmiş nöral modellerde tını belirgin şekilde doğaldır.
 
 **Kendi sesimi kullanabilir miyim?**  
-Evet, ses klonlama teknolojileri ile kendi sesinizi sisteme tanıtarak metinleri kendi sesinizle okutabilirsiniz.
+Evet, ses klonlama ile kısa bir kayıt sonrası metinleri kendi sesinizle okutabilirsiniz. Başkasının sesini izinsiz kullanmak hukuki risk doğurur.
+
+**Türkçe kalitesi yeterli mi?**  
+Açık kaynak motorlarda anlaşılır düzeydedir. Ticari servisler daha doğal prosodi sunar, deneme ile karşılaştırmanız önerilir.
+
+**Ticari üründe kullanılabilir mi?**  
+Lisansına göre değişir. Açık motorların çoğu ticari kullanıma açıktır, bulut servisler kullanım başına ücretlendirir.
 
 ## İlgili terimler
 - [Speech Synthesis](/dictionary/speech-synthesis/)

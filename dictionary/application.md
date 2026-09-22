@@ -1,32 +1,59 @@
-# Application nedir?
+# Application nedir, ne demek?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-07-15
+**Son güncelleme:** 2026-09-22
 
-Bilgisayar, telefon veya tablet gibi cihazlarda belirli bir görevi yerine getirmek için tasarlanmış yazılım programıdır.
+Application (Türkçe karşılığıyla **uygulama**), belirli işi yapan kullanıcı yazılımıdır.
 
-## Tanım
-Application, yani uygulama, kullanıcıların günlük işlerini kolaylaştıran dijital araçlardır. Bir metin yazmaktan fotoğraf düzenlemeye veya internette gezinmeye kadar her şey bir uygulama üzerinden gerçekleşir. Bu yazılımlar işletim sistemi üzerinde çalışır ve kullanıcıya görsel bir arayüz sunar.
+## Tanım ve Kelime Kökeni
+Metin yazmadan fotoğraf düzenlemeye her iş bir uygulama üzerinden yapılır. İşletim sistemi üzerinde çalışır, görsel arayüz sunar. Ev benzetmesi yerindedir: Sistem evin kendisi, uygulamalar mobilyalarıdır.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Telefon:** Mesajlaşma ve banka.
+- **Masaüstü:** Ofis ve tasarım.
+- **Web:** Tarayıcıda açılanlar.
+
+## Teknik Derinlik ve Mimari
+Türler:
+- **Native:** Cihaza özel, hızlı ve tam yetkili.
+- **Web:** Tarayıcıda çalışan, kurulum gerektirmez.
+- **PWA:** İkisinin arası, yüklenebilir web.
+
+PWA kimliği:
+
+```
+{
+  "name": "Notlarım",
+  "display": "standalone"
+}
+```
+
+Dağıtım mağazadan veya webden olur. İzinler ilk açılışta istenir, gizlilik politikası okunur.
+
+## Sık Karıştırılanlar
+İşletim sistemi sanılır. Sistem cihazı yönetir, uygulama tek iş yapar. Sürücüler yazılım ama uygulama değildir.
+
+## Farklı Disiplinlerde Kullanımı
+- **Mobilya:** Evin içindeki eşyalar.
+- **Mutfak aleti:** Tek işlik cihazlar.
+- **Araba aksesuarı:** Sonradan takılan parça.
 
 ## Bir benzetmeyle
-İşletim sistemini bir evin temeli ve duvarları olarak düşünürseniz, uygulamalar evin içindeki mobilyalar ve eşyalardır; her biri farklı bir işe yarar.
-
-## Nasıl çalışır?
-Kullanıcı, uygulama mağazalarından veya internetten indirdiği dosyayı çalıştırır. Uygulama, cihazın kaynaklarını kullanarak kullanıcının komutlarını işler ve sonuçları ekrana yansıtır.
-
-## Nerede kullanılır?
-Akıllı telefonlarda, masaüstü bilgisayarlarda ve web tarayıcılarında her an karşımıza çıkar.
-
-## Sık karıştırılanlar
-İşletim sistemi ile karıştırılabilir; işletim sistemi cihazın genelini yönetirken, uygulama sadece belirli bir işi yapar.
+İşletim sistemini evin temeli ve duvarları sayarsanız, uygulamalar içindeki mobilya ve eşyalardır.
 
 ## Sıkça sorulanlar
 
-**Uygulama ile yazılım aynı şey mi?**  
-Uygulama, yazılımın bir alt kümesidir. Her uygulama bir yazılımdır ancak her yazılım bir uygulama değildir (örneğin sürücüler yazılımdır ama uygulama değildir).
+**Uygulama ile yazılım aynı mı?**  
+Uygulama yazılımın alt kümesidir. Her uygulama yazılımdır, her yazılım uygulama değildir.
 
 **Uygulamalar nasıl güncellenir?**  
-Geliştiriciler, hataları düzeltmek veya yeni özellikler eklemek için uygulama dosyalarını günceller, bu da cihazınıza otomatik veya manuel olarak indirilir.
+Mağazadan otomatik veya elle. Web olanlar açılışta yenilenir.
+
+**Web ve native farkı nedir?**  
+Native hızlı ve tam yetkili, web kurulum gerektirmez. PWA arayı kapatır.
+
+**Mağaza şart mı?**  
+Dağıtım için pratiktir, zorunlu değildir. Web ve kurumsal dağıtım alternatiftir.
 
 ## İlgili terimler
 - [User Interface](/dictionary/user-interface/)

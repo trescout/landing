@@ -1,32 +1,58 @@
-# Harness nedir?
+# Harness nedir, ne demek?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-07-22
+**Son güncelleme:** 2026-09-22
 
-Bir yazılımın veya sistemin beklenen standartlarda çalışıp çalışmadığını denetleyen kontrol mekanizmasıdır.
+Harness (Türkçe karşılığıyla **test koşum takımı**), kodu otomatik test eden çerçevedir.
 
-## Tanım
-Yazılım dünyasında harness, genellikle test süreçlerini otomatize eden bir çerçevedir. Bir kod parçası yazıldığında, bu kodun farklı senaryolarda doğru tepki verip vermediğini sürekli kontrol eder. Sistemin 'sağlık kontrolü'nü yapan bir güvenlik ağı gibidir.
+## Tanım ve Kelime Kökeni
+"Harness" **koşum takımı** demektir. Kod her güncellendiğinde testler koşar, bozulma uyarısı verir. Sistemin sağlık kontrolünü yapan güvenlik ağıdır.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Geliştirme:** Her commit sonrası test.
+- **CI:** Hattaki otomatik kapı.
+- **Kalite:** Sürüm öncesi tarama.
+
+## Teknik Derinlik ve Mimari
+Parçalar:
+- **Test senaryosu:** Beklenen davranış tanımı.
+- **Fixture:** Hazır test verisi.
+- **Mock:** Dış servisin taklidi.
+- **Rapor:** Geçen ve kalan listesi.
+
+Örnek:
+
+```
+def test_toplama():
+    assert topla(2, 3) == 5
+```
+
+Kural: Hızlı testler her committe, yavaşlar gecede koşar. Kapsam hedefi ekipçe belirlenir.
+
+## Sık Karıştırılanlar
+Yazılımın kendisi sanılır. Oysa harness kodu değil, kodu denetleyen çevredir. Biri oyuncu, diğeri hakemdir.
+
+## Farklı Disiplinlerde Kullanımı
+- **Fabrika hattı:** Her aracın fren ve far denetimi.
+- **Emniyet kemeri:** Çarpışmada tutan düzenek.
+- **Antrenman:** Performans ölçüm parkuru.
 
 ## Bir benzetmeyle
-Bir araba fabrikasında üretilen her aracın frenlerinin, motorunun ve ışıklarının test edildiği o otomatik kontrol hattı bir harness'tır.
-
-## Nasıl çalışır?
-Geliştiriciler, kodları için test senaryoları yazar ve bu senaryoları bir harness içerisine yerleştirir. Sistem, kod her güncellendiğinde bu testleri otomatik olarak çalıştırır ve hata varsa uyarı verir.
-
-## Nerede kullanılır?
-Yazılım geliştirme süreçlerinde, sürekli entegrasyon (CI) hatlarında ve kalite kontrol aşamalarında kullanılır.
-
-## Sık karıştırılanlar
-Sadece yazılımın kendisi değil, yazılımı test eden 'çevre' veya 'altyapı'dır.
+Fabrikada her aracın fren ve farını denetleyen otomatik kontrol hattı gibidir.
 
 ## Sıkça sorulanlar
 
-**Test harness neden gereklidir?**  
-İnsan hatasını azaltmak ve kodun her değişimde bozulmadığından emin olmak için.
+**Neden gereklidir?**  
+İnsan hatasını azaltır, her değişimde bozulmayı yakalar.
 
-**Her yazılım için bir harness şart mı?**  
-Profesyonel projelerde güvenilirliği sağlamak için standart bir uygulamadır.
+**Her yazılımda şart mı?**  
+Profesyonel işte standarttır. Deneme kodunda abartı olur.
+
+**Ne zaman yazılır?**  
+Kodla birlikte, tercihen önce. Sonraya kalan test yarım kalır.
+
+**Kapsam hedefi nedir?**  
+Ekipçe belirlenir. Kritik yolda yüksek, kenarda düşük tutulur.
 
 ## İlgili terimler
 - [Testing Framework](/dictionary/testing-framework/)

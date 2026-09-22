@@ -26,7 +26,7 @@ Veri kaybıyla karıştırılabilir, ancak bu kontrollü bir bölme işlemidir.
 Alıcı cihaz parçaların eksik olduğunu anlar ve göndericiden o parçayı tekrar göndermesini ister.
 
 ## İlgili terimler
-- [Networking Stack](/dictionary/networking-stack/)
+- [Network Stack](/dictionary/network-stack/)
 - [DNS Tunneling](/dictionary/dns-tunneling/)
 
 ---

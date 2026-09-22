@@ -1,33 +1,60 @@
-# Gateway nedir?
+# Gateway nedir, ne demek?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-07-01
+**Son güncelleme:** 2026-09-22
 
-Farklı ağlar arasında veri trafiğini yöneten ve geçişi sağlayan bağlantı noktasıdır.
+Gateway (Türkçe karşılığıyla **ağ geçidi**), farklı ağlar arasında trafiği yöneten bağlantı noktasıdır.
 
-## Tanım
-İki farklı ağın birbiriyle konuşmasını sağlayan bir köprü gibidir. Örneğin evinizdeki internet ile dış dünyadaki interneti birbirine bağlayan cihaz bir ağ geçididir. Verinin doğru adrese gitmesini kontrol eder.
+## Tanım ve Kelime Kökeni
+"Gate" **kapı**, "way" ise **yol** demektir. İki ağın birbiriyle konuşmasını sağlayan köprüdür: Evinizdeki internet ile dış dünyayı birbirine bağlayan cihaz tipik örnektir. Gelen veriyi inceler, hangi ağa gideceğine karar verir.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Ev modemi:** Evinizi sağlayıcı ağına bağlar.
+- **Kurumsal giriş:** Ofis trafiğinin denetim noktası.
+- **Bulut:** Sanal ağların birbirine açılan kapısı.
+
+## Teknik Derinlik ve Mimari
+Geçidin işleri:
+- **Adres çevirisi (NAT):** İç adresleri dışa tek adresten çıkarır.
+- **Filtreleme:** İstenmeyen trafiği kapıda tutar.
+- **Yönlendirme:** Paketi doğru ağa verir.
+
+Varsayılan yol bilgisi şöyledir:
+
+```
+default via 192.168.1.1 dev eth0
+```
+
+Bu satır, tanınmayan hedefin modem üzerinden gönderileceğini söyler. API gateway ise farklı katmandadır: Ağ değil, servis isteklerini yönetir.
+
+## Sık Karıştırılanlar
+API Gateway ile karıştırılabilir. API Gateway yazılım servislerini yönetir, ağ geçidi ağ seviyesinde çalışır. Biri uygulama kapısı, diğeri yol kapısıdır.
+
+## Farklı Disiplinlerde Kullanımı
+- **Sınır kapısı:** Gelenlerin denetlenip yönlendirilmesi.
+- **Liman:** Gemilerin gümrükten geçişi.
+- **Resepsiyon:** Ziyaretçinin doğru kata yönlendirilmesi.
 
 ## Bir benzetmeyle
 Bir ülkenin sınır kapısı gibidir; gelenleri kontrol eder ve doğru yöne gitmelerini sağlar.
 
-## Nasıl çalışır?
-Gelen veriyi inceler, hangi ağa gitmesi gerektiğine karar verir ve trafiği yönlendirir.
-
-## Nerede kullanılır?
-Ev modemlerinde, kurumsal ağ girişlerinde ve bulut sistemlerinde bulunur.
-
-## Sık karıştırılanlar
-API Gateway ile karıştırılabilir; API Gateway yazılım dünyasındaki servisleri yönetirken, ağ geçidi fiziksel veya ağ seviyesinde çalışır.
-
 ## Sıkça sorulanlar
 
-**Gateway olmadan internete girebilir miyim?**  
-Hayır, yerel ağınız dış dünyaya bağlanamaz ve izole kalır.
+**Gateway olmadan internete girilir mi?**  
+Hayır. Yerel ağ dış dünyaya bağlanamaz, izole kalır.
+
+**API gateway ile farkı nedir?**  
+Ağ geçidi paket taşır, API gateway istek yönetir. Biri yol, diğeri uygulama katmanıdır.
+
+**Evde hangisi kullanılır?**  
+Modeminizin içindeki geçit iş görür. Ek ayar gerekmez, adres otomatik dağıtılır.
+
+**İki ağ ayrı tutulabilir mi?**  
+Evet. Güvenlik duvarı kurallarıyla geçiş kapatılır, ağlar izole çalışır.
 
 ## İlgili terimler
 - [API Gateway](/dictionary/api-gateway/)
-- [Networking Stack](/dictionary/networking-stack/)
+- [Network Stack](/dictionary/network-stack/)
 - [Proxy](/dictionary/proxy/)
 
 ---

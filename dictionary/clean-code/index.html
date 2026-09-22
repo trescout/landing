@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Clean Code nedir? · TreScout Sözlük</title>
-<meta name="description" content="Başka yazılımcıların kolayca okuyabileceği, anlaşılır, basit ve hatasız yazılmış kod yapısıdır.">
+<title>Clean Code Nedir? Temiz Kod İlkeleri · TreScout</title>
+<meta name="description" content="Clean code nedir, ne demek? Anlamlı isim, küçük fonksiyon, önce-sonra örneği ve başlangıç rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/clean-code/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/clean-code/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/clean-code/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/clean-code/">
 <link rel="canonical" href="https://trescout.com/dictionary/clean-code/">
-<meta property="og:title" content="Clean Code nedir?">
-<meta property="og:description" content="Başka yazılımcıların kolayca okuyabileceği, anlaşılır, basit ve hatasız yazılmış kod yapısıdır.">
+<meta property="og:title" content="Clean Code Nedir? Temiz Kod İlkeleri · TreScout">
+<meta property="og:description" content="Clean code nedir, ne demek? Anlamlı isim, küçük fonksiyon, önce-sonra örneği ve başlangıç rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/clean-code/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Clean Code nedir?">
+<meta name="twitter:title" content="Clean Code Nedir? Temiz Kod İlkeleri · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/clean-code.webp">
 <script type="application/ld+json">
 {
@@ -32,7 +32,7 @@
   "@type": "DefinedTerm",
   "name": "Clean Code",
   "inLanguage": "tr",
-  "description": "Temiz kod, sadece bilgisayarın değil, insanların da anlayabileceği şekilde yazılmış koddur. Karmaşık ve iç içe geçmiş yapılar yerine, isimleri anlamlı, görevleri net ve düzenli parçalara bölünmüş kodlar tercih edilir. Bu yaklaşım, projenin uzun vadede bakımını kolaylaştırır ve hataları azaltır.",
+  "description": "Clean code (temiz kod), insanın okuyabildiği koddur.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -48,10 +48,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Kodun çalışması yetmez mi?",
+      "name": "Çalışması yetmez mi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Kodun çalışması sadece ilk adımdır; temiz kod ise o kodun gelecekte başkası tarafından değiştirilebilir olmasını sağlar."
+        "text": "Yetmez. Çalışan kod bugünü, okunan kod yarını kurtarır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Yavaşlatır mı?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Başta evet, bakımda hayır. Toplamda kazandırır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Nasıl ölçülür?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "İnceleme süresi ve hata oranıyla. Sayı tek başına yetmez."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Nereden başlanır?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "İsim ve fonksiyondan. Dokunulan kod temizlenir."
       }
     }
   ]
@@ -64,7 +88,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Başka yazılımcıların kolayca okuyabileceği, anlaşılır, basit ve hatasız yazılmış kod yapısıdır.">
+<meta name="twitter:description" content="Clean code nedir, ne demek? Anlamlı isim, küçük fonksiyon, önce-sonra örneği ve başlangıç rehberi.">
 
 <meta property="og:image:alt" content="Clean Code nedir?">
 </head>
@@ -74,12 +98,16 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-07-03">Son güncelleme: 3 Temmuz 2026</time></div>
-<h1 class="disc-title">Clean Code <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-22">Son güncelleme: 22 Eylül 2026</time></div>
+<h1 class="disc-title">Clean Code <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">Başka yazılımcıların kolayca okuyabileceği, anlaşılır, basit ve hatasız yazılmış kod yapısıdır.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Temiz kod, sadece bilgisayarın değil, insanların da anlayabileceği şekilde yazılmış koddur. Karmaşık ve iç içe geçmiş yapılar yerine, isimleri anlamlı, görevleri net ve düzenli parçalara bölünmüş kodlar tercih edilir. Bu yaklaşım, projenin uzun vadede bakımını kolaylaştırır ve hataları azaltır.</p></section><div class="dict-analogy">Bir kütüphanedeki kitapların rastgele değil, türlerine ve yazarlarına göre düzenli raflara dizilmesi gibidir; aradığınızı anında bulursunuz.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Değişkenlere anlamlı isimler vererek, fonksiyonları tek bir iş yapacak şekilde küçülterek ve gereksiz karmaşıklıktan kaçınarak yazılır.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Profesyonel yazılım geliştirme ekiplerinin tamamında, kod kalitesini korumak için temel bir prensiptir.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Kodun çalışması yetmez mi?</p><p class="dict-faq-a">Kodun çalışması sadece ilk adımdır; temiz kod ise o kodun gelecekte başkası tarafından değiştirilebilir olmasını sağlar.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/refactoring/">Refactoring</a><a href="/dictionary/unit-testing/">Unit Testing</a><a href="/dictionary/engineering-skills/">Engineering Skills</a></div></section>
-<section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/clean-code-javascript/">Clean Code Javascript</a></div></section>
+<p class="disc-lead">Clean code (Türkçe karşılığıyla <strong>temiz kod</strong>), insanın okuyabildiği koddur.</p>
+<section class="disc-sec"><h2>Tanım ve Kelime Kökeni</h2><p>Makine her kodu çalıştırır, insan her kodu okuyamaz. Anlamlı isim, küçük fonksiyon ve sade akış okunabilirliği getirir. Robert Martin bu disiplinin referans adıdır.</p></section><section class="disc-sec"><h2>Gündelik Hayatta Nasıl Bilinir ve Kullanılır?</h2><p><strong>Ekip:</strong> Ortak kod tabanı.<br><strong>İnceleme:</strong> Okunabilirlik denetimi.<br><strong>Bakım:</strong> Eski koda dönüş.</p></section><section class="disc-sec"><h2>Teknik Derinlik ve Mimari</h2><p>İlkeler:</p><p><strong>İsim:</strong> Niyeti anlatan ad.<br><strong>Boyut:</strong> Tek işlik fonksiyon.<br><strong>Tekrar:</strong> Ortak parça tek yerde.</p><p>Örnek:</p><p><pre><code># önce
+def h(a, b):
+    return a + a*b
+# sonra
+def indirimli_fiyat(fiyat, oran):
+    return fiyat + fiyat * oran</code></pre></p><p>Kural: Çalışan kod ilk adım, okunan kod ikinci adımdır.</p></section><section class="disc-sec"><h2>Farklı Disiplinlerde Kullanımı</h2><p><strong>Masa:</strong> Derli çalışma alanı.<br><strong>Raflar:</strong> Tür ve yazara göre dizim.<br><strong>Bahçe:</strong> Budanmış dal düzeni.</p></section><div class="dict-analogy">Kütüphane raflarının tür ve yazara göre dizili olması gibidir.</div><section class="disc-sec"><h2>Sıkça Sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Çalışması yetmez mi?</p><p class="dict-faq-a">Yetmez. Çalışan kod bugünü, okunan kod yarını kurtarır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Yavaşlatır mı?</p><p class="dict-faq-a">Başta evet, bakımda hayır. Toplamda kazandırır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Nasıl ölçülür?</p><p class="dict-faq-a">İnceleme süresi ve hata oranıyla. Sayı tek başına yetmez.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Nereden başlanır?</p><p class="dict-faq-a">İsim ve fonksiyondan. Dokunulan kod temizlenir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/refactoring/">Refactoring</a><a href="/dictionary/unit-testing/">Unit Testing</a><a href="/dictionary/engineering-skills/">Engineering Skills</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

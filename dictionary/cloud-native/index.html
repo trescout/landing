@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Cloud Native nedir? · TreScout Sözlük</title>
-<meta name="description" content="Uygulamaların bulut ortamında en yüksek verimle çalışacak şekilde tasarlanması ve yönetilmesi yaklaşımıdır.">
+<title>Cloud Native Nedir, Ne Demek? Bulut Yerlisi Rehberi · TreScout</title>
+<meta name="description" content="Cloud native nedir, ne demek? Konteyner, Kubernetes, mikro hizmet ve 12-factor ile bulut yerlisi mimari rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/cloud-native/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/cloud-native/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/cloud-native/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/cloud-native/">
 <link rel="canonical" href="https://trescout.com/dictionary/cloud-native/">
-<meta property="og:title" content="Cloud Native nedir?">
-<meta property="og:description" content="Uygulamaların bulut ortamında en yüksek verimle çalışacak şekilde tasarlanması ve yönetilmesi yaklaşımıdır.">
+<meta property="og:title" content="Cloud Native Nedir, Ne Demek? Bulut Yerlisi Rehberi · TreScout">
+<meta property="og:description" content="Cloud native nedir, ne demek? Konteyner, Kubernetes, mikro hizmet ve 12-factor ile bulut yerlisi mimari rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/cloud-native/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Cloud Native nedir?">
+<meta name="twitter:title" content="Cloud Native Nedir, Ne Demek? Bulut Yerlisi Rehberi · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/cloud-native.webp">
 <script type="application/ld+json">
 {
@@ -32,7 +32,7 @@
   "@type": "DefinedTerm",
   "name": "Cloud Native",
   "inLanguage": "tr",
-  "description": "Bu yaklaşım, bir yazılımı sadece buluta yüklemek değil, bulutun sunduğu esneklik, ölçeklenebilirlik ve dayanıklılık özelliklerini kullanarak inşa etmektir. Uygulama, bulutun dinamik yapısına uyum sağlayacak şekilde parçalara bölünür.",
+  "description": "Cloud native (bulut yerlisi), uygulamayı bulutun esneklik ve ölçeklenebilirliğinden tam yararlanacak şekilde tasarlama yaklaşımıdır.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -48,10 +48,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Neden önemlidir?",
+      "name": "Uygulamayı buluta taşımak cloud native yapar mı?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Uygulamanın her zaman ayakta kalmasını ve hızla büyümesini sağladığı için."
+        "text": "Hayır. Eski tip uygulamayı aynen taşımak yalnızca yer değiştirir. Cloud native için mimarinin küçük parçalara bölünmesi ve otomatik yönetime uygun olması gerekir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Küçük projeye gerekli midir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Her zaman değil. Tek sunucuda rahat çalışan bir blog için bu düzenek fazla gelebilir. Trafik dalgalıysa veya ekip büyüyorsa anlam kazanır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Maliyeti artırır mı?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kurulum ve öğrenme maliyeti vardır. Karşılığında arıza süresi ve ölçekleme maliyeti düşer. Hesabı iş yükünüze göre yapmanız gerekir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Nereden başlanmalıdır?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Uygulamayı konteynere koymakla başlayın. Sonra health check, loglama ve otomatik dağıtım ekleyin. Orkestrasyon en son adımdır."
       }
     }
   ]
@@ -64,7 +88,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Uygulamaların bulut ortamında en yüksek verimle çalışacak şekilde tasarlanması ve yönetilmesi yaklaşımıdır.">
+<meta name="twitter:description" content="Cloud native nedir, ne demek? Konteyner, Kubernetes, mikro hizmet ve 12-factor ile bulut yerlisi mimari rehberi.">
 
 <meta property="og:image:alt" content="Cloud Native nedir?">
 </head>
@@ -74,12 +98,11 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-06-14">Son güncelleme: 14 Haziran 2026</time></div>
-<h1 class="disc-title">Cloud Native <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-22">Son güncelleme: 22 Eylül 2026</time></div>
+<h1 class="disc-title">Cloud Native <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">Uygulamaların bulut ortamında en yüksek verimle çalışacak şekilde tasarlanması ve yönetilmesi yaklaşımıdır.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Bu yaklaşım, bir yazılımı sadece buluta yüklemek değil, bulutun sunduğu esneklik, ölçeklenebilirlik ve dayanıklılık özelliklerini kullanarak inşa etmektir. Uygulama, bulutun dinamik yapısına uyum sağlayacak şekilde parçalara bölünür.</p></section><div class="dict-analogy">Bir evi sadece bir yere yerleştirmek değil, her an başka bir yere taşınabilir ve ihtiyaca göre odaları genişletilebilir modüler bir yapı olarak tasarlamak gibidir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Uygulamalar konteynerler (containers) içine yerleştirilir ve otomatik yönetim araçlarıyla yönetilir. Böylece trafik arttığında uygulama kendi kendine kapasitesini artırabilir.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Modern web servislerinde, büyük ölçekli uygulamalarda ve mikro hizmet mimarilerinde kullanılır.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Neden önemlidir?</p><p class="dict-faq-a">Uygulamanın her zaman ayakta kalmasını ve hızla büyümesini sağladığı için.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/containers/">Containers</a><a href="/dictionary/virtual-machines/">Virtual Machines</a><a href="/dictionary/runtime/">Runtime</a></div></section>
-<section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/meshery/">Meshery</a></div></section>
+<p class="disc-lead">Cloud native (Türkçe karşılığıyla <strong>bulut yerlisi</strong>), uygulamayı bulutun esneklik ve ölçeklenebilirliğinden tam yararlanacak şekilde tasarlama yaklaşımıdır.</p>
+<section class="disc-sec"><h2>Tanım ve Kelime Kökeni</h2><p>Kavramı <strong>CNCF</strong> (Cloud Native Computing Foundation) şemsiyesi toplar. Buradaki kritik ayrım şudur: Bir yazılımı buluta yüklemek onu cloud native yapmaz. Cloud native, uygulamanın en baştan bulutun dinamik yapısına göre, küçük ve bağımsız parçalar halinde inşa edilmesidir.</p></section><section class="disc-sec"><h2>Gündelik Hayatta Nasıl Bilinir ve Kullanılır?</h2><p><strong>Yoğun günler:</strong> Kampanya günü trafiği katlanınca kapasitenin kendiliğinden artması.<br><strong>Arıza anı:</strong> Bir sunucu çökünce işin başka kopyaya sessizce devredilmesi.<br><strong>Güncelleme:</strong> Uygulama kapalıyken değil, çalışırken parça parça yenilenmesi.</p></section><section class="disc-sec"><h2>Teknik Derinlik ve Mimari</h2><p>Cloud native yığınının parçaları:</p><p><strong>Konteyner:</strong> Uygulama ve bağımlılıklarının taşınabilir kutusu.<br><strong>Orkestrasyon:</strong> Kutuların çalıştırılması, çoğaltılması ve sağlık denetimi (ör. Kubernetes).<br><strong>Mikro hizmet:</strong> Büyük uygulamanın bağımsız dağıtılabilen küçük servislere bölünmesi.<br><strong>Gözlemlenebilirlik:</strong> Log, metrik ve izleme ile sistemin içinin görünür tutulması.</p><p>Ölçek büyütme tek komutla olur:</p><p><pre><code>kubectl scale deployment web --replicas=5</code></pre></p><p>Bu komut, <code>web</code> servisinin kopya sayısını beşe çıkarır. Trafik düşünce sayı geri alınır.</p></section><section class="disc-sec"><h2>Farklı Disiplinlerde Kullanımı</h2><p><strong>Prefabrik yapı:</strong> İhtiyaca göre oda eklenebilen modüler ev.<br><strong>Elektrik şebekesi:</strong> Talebe göre devreye giren santraller.<br><strong>Lojistik:</strong> Yoğunluğa göre açılıp kapanan dağıtım hatları.</p></section><div class="dict-analogy">Bir evi tek seferde bir yere yerleştirmek değil, her an başka yere taşınabilen ve ihtiyaca göre odaları genişletilebilen modüler bir yapı olarak tasarlamak gibidir.</div><section class="disc-sec"><h2>Sıkça Sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Uygulamayı buluta taşımak cloud native yapar mı?</p><p class="dict-faq-a">Hayır. Eski tip uygulamayı aynen taşımak yalnızca yer değiştirir. Cloud native için mimarinin küçük parçalara bölünmesi ve otomatik yönetime uygun olması gerekir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Küçük projeye gerekli midir?</p><p class="dict-faq-a">Her zaman değil. Tek sunucuda rahat çalışan bir blog için bu düzenek fazla gelebilir. Trafik dalgalıysa veya ekip büyüyorsa anlam kazanır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Maliyeti artırır mı?</p><p class="dict-faq-a">Kurulum ve öğrenme maliyeti vardır. Karşılığında arıza süresi ve ölçekleme maliyeti düşer. Hesabı iş yükünüze göre yapmanız gerekir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Nereden başlanmalıdır?</p><p class="dict-faq-a">Uygulamayı konteynere koymakla başlayın. Sonra health check, loglama ve otomatik dağıtım ekleyin. Orkestrasyon en son adımdır.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/containers/">Containers</a><a href="/dictionary/virtual-machines/">Virtual Machines</a><a href="/dictionary/runtime/">Runtime</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

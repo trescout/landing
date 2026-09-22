@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Compiler nedir? · TreScout Sözlük</title>
-<meta name="description" content="İnsanların yazdığı kodları, bilgisayarın doğrudan anlayıp çalıştırabileceği makine diline çeviren programdır.">
+<title>Compiler Nedir, Ne Demek? Derleyici Rehberi · TreScout</title>
+<meta name="description" content="Compiler nedir, Türkçe karşılığı nedir? Derleme aşamaları, gcc örneği, interpreter ve JIT farkıyla derleyici rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/compiler/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/compiler/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/compiler/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/compiler/">
 <link rel="canonical" href="https://trescout.com/dictionary/compiler/">
-<meta property="og:title" content="Compiler nedir?">
-<meta property="og:description" content="İnsanların yazdığı kodları, bilgisayarın doğrudan anlayıp çalıştırabileceği makine diline çeviren programdır.">
+<meta property="og:title" content="Compiler Nedir, Ne Demek? Derleyici Rehberi · TreScout">
+<meta property="og:description" content="Compiler nedir, Türkçe karşılığı nedir? Derleme aşamaları, gcc örneği, interpreter ve JIT farkıyla derleyici rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/compiler/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Compiler nedir?">
+<meta name="twitter:title" content="Compiler Nedir, Ne Demek? Derleyici Rehberi · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/compiler.webp">
 <script type="application/ld+json">
 {
@@ -32,7 +32,7 @@
   "@type": "DefinedTerm",
   "name": "Compiler",
   "inLanguage": "tr",
-  "description": "Bilgisayarlar sadece 0 ve 1'lerden anlar. Yazılımcılar ise daha anlaşılır bir dilde kod yazar. Derleyici, bu yazılımcı dilini alıp bilgisayarın işlemcisinin anlayacağı dile dönüştüren bir çevirmen görevi görür.",
+  "description": "Compiler (derleyici), yazdığınız kodu bilgisayarın çalıştırabileceği makine diline çeviren programdır.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -51,7 +51,31 @@
       "name": "Her dilin derleyicisi farklı mı?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Evet, her programlama dili kendi kurallarına uygun bir derleyiciye veya yorumlayıcıya ihtiyaç duyar."
+        "text": "Evet. Her dil kendi kurallarına uygun derleyici veya yorumlayıcı ister. Bazı diller ikisini birlikte kullanır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Interpreter ile farkı nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Derleyici kodu önceden çevirip dosya üretir, program sonra hızlı çalışır. Yorumlayıcı satır satır çevirip çalıştırır, esnektir ama genellikle yavaştır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "JIT nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Just-in-time derleme, çalışırken sık kullanılan bölümleri makine koduna çevirir. İkisinin arası bir yoldur, Java ve JavaScript kullanır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "İlk derleyiciyi kim derledi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tavuk-yumurta sorusudur. İlk derleyiciler makine koduyla elle yazıldı, sonrakiler önceki derleyiciyle derlendi (bootstrapping)."
       }
     }
   ]
@@ -64,7 +88,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="İnsanların yazdığı kodları, bilgisayarın doğrudan anlayıp çalıştırabileceği makine diline çeviren programdır.">
+<meta name="twitter:description" content="Compiler nedir, Türkçe karşılığı nedir? Derleme aşamaları, gcc örneği, interpreter ve JIT farkıyla derleyici rehberi.">
 
 <meta property="og:image:alt" content="Compiler nedir?">
 </head>
@@ -74,12 +98,12 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-06-14">Son güncelleme: 14 Haziran 2026</time></div>
-<h1 class="disc-title">Compiler <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-22">Son güncelleme: 22 Eylül 2026</time></div>
+<h1 class="disc-title">Compiler <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">İnsanların yazdığı kodları, bilgisayarın doğrudan anlayıp çalıştırabileceği makine diline çeviren programdır.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Bilgisayarlar sadece 0 ve 1&#x27;lerden anlar. Yazılımcılar ise daha anlaşılır bir dilde kod yazar. Derleyici, bu yazılımcı dilini alıp bilgisayarın işlemcisinin anlayacağı dile dönüştüren bir çevirmen görevi görür.</p></section><div class="dict-analogy">İngilizce yazılmış bir yemek tarifini, hiç İngilizce bilmeyen bir şefe onun anlayacağı dilde yazılı bir talimata dönüştürmek gibidir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Kodunuzu yazıp kaydedersiniz, ardından derleyici komutunu çalıştırırsınız. Derleyici kodunuzu tarar, hata yoksa onu çalıştırılabilir bir dosyaya dönüştürür.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Tüm yazılım geliştirme süreçlerinin temelinde yer alır.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Her dilin derleyicisi farklı mı?</p><p class="dict-faq-a">Evet, her programlama dili kendi kurallarına uygun bir derleyiciye veya yorumlayıcıya ihtiyaç duyar.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/rust/">Rust</a><a href="/dictionary/runtime/">Runtime</a><a href="/dictionary/compile-time/">Compile-time</a></div></section>
-<section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/llvm-project/">Llvm Project</a><a href="/discover/swc/">SWC</a><a href="/discover/fmt/">FMT</a></div></section>
+<p class="disc-lead">Compiler (Türkçe karşılığıyla <strong>derleyici</strong>), yazdığınız kodu bilgisayarın çalıştırabileceği makine diline çeviren programdır.</p>
+<section class="disc-sec"><h2>Tanım ve Kelime Kökeni</h2><p>"Compile" <strong>derlemek, toplamak</strong> demektir. Bilgisayarlar yalnızca 0 ve 1 dizilerini anlar. Yazılımcılar ise okunabilir dilde yazar. Derleyici, bu iki dünya arasında çevirmenlik yapar: Kodu tarar, hata yoksa çalıştırılabilir dosyaya dönüştürür.</p></section><section class="disc-sec"><h2>Gündelik Hayatta Nasıl Bilinir ve Kullanılır?</h2><p><strong>Uygulama kurma:</strong> İndirdiğiniz programın derlenmiş hali çalışır.<br><strong>Hata mesajları:</strong> Noktalı virgül unuttuğunuzda derleyici uyarır.<br><strong>Oyun motorları:</strong> Her platform için ayrı derleme çıktısı.</p></section><section class="disc-sec"><h2>Teknik Derinlik ve Mimari</h2><p>Derleme dört aşamadan geçer:</p><p><strong>Tarama ve çözümleme:</strong> Kod parçalara ayrılır, cümle yapısı çıkarılır.<br><strong>Anlam denetimi:</strong> Tanımsız değişken ve tür uyuşmazlığı aranır.<br><strong>Optimizasyon:</strong> Eşdeğer ama daha hızlı kod üretilir.<br><strong>Kod üretimi:</strong> İşlemciye özel makine kodu yazılır.</p><p>C dilinde derleme şöyledir:</p><p><pre><code>gcc merhaba.c -o merhaba
+./merhaba</code></pre></p><p>İlk satır çevirir, ikinci satır çalıştırır. Yorumlayıcı (interpreter) ise satır satır çalıştırır, ayrı çıktı dosyası üretmez.</p></section><section class="disc-sec"><h2>Farklı Disiplinlerde Kullanımı</h2><p><strong>Tercümanlık:</strong> Simültane çeviri (yorumlayıcı) ve yazılı çeviri (derleyici) ayrımı.<br><strong>Matbaa:</strong> Taslağın baskı kalıbına dönüştürülmesi.<br><strong>Mutfak:</strong> Tarifin önceden hazırlanmış yemeğe dönüşmesi.</p></section><div class="dict-analogy">İngilizce yazılmış bir yemek tarifini, hiç İngilizce bilmeyen bir şefe onun anlayacağı dilde yazılı bir talimata dönüştürmek gibidir.</div><section class="disc-sec"><h2>Sıkça Sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Her dilin derleyicisi farklı mı?</p><p class="dict-faq-a">Evet. Her dil kendi kurallarına uygun derleyici veya yorumlayıcı ister. Bazı diller ikisini birlikte kullanır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Interpreter ile farkı nedir?</p><p class="dict-faq-a">Derleyici kodu önceden çevirip dosya üretir, program sonra hızlı çalışır. Yorumlayıcı satır satır çevirip çalıştırır, esnektir ama genellikle yavaştır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">JIT nedir?</p><p class="dict-faq-a">Just-in-time derleme, çalışırken sık kullanılan bölümleri makine koduna çevirir. İkisinin arası bir yoldur, Java ve JavaScript kullanır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">İlk derleyiciyi kim derledi?</p><p class="dict-faq-a">Tavuk-yumurta sorusudur. İlk derleyiciler makine koduyla elle yazıldı, sonrakiler önceki derleyiciyle derlendi (bootstrapping).</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/rust/">Rust</a><a href="/dictionary/runtime/">Runtime</a><a href="/dictionary/compile-time/">Compile-time</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

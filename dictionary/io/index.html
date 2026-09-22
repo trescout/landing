@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>I/O nedir? · Input/Output · TreScout Sözlük</title>
-<meta name="description" content="Bir bilgisayar sisteminin dış dünyadan veri alması ve dış dünyaya veri göndermesi süreci.">
+<title>I/O Nedir? Input Output ve Blokaj Rehberi · TreScout</title>
+<meta name="description" content="I/O nedir, ne demek? Blocking, buffer, darboğaz ve Node okuma örneğiyle girdi çıktı rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/io/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/io/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/io/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/io/">
 <link rel="canonical" href="https://trescout.com/dictionary/io/">
-<meta property="og:title" content="I/O nedir?">
-<meta property="og:description" content="Bir bilgisayar sisteminin dış dünyadan veri alması ve dış dünyaya veri göndermesi süreci.">
+<meta property="og:title" content="I/O Nedir? Input Output ve Blokaj Rehberi · TreScout">
+<meta property="og:description" content="I/O nedir, ne demek? Blocking, buffer, darboğaz ve Node okuma örneğiyle girdi çıktı rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/io/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="I/O nedir?">
+<meta name="twitter:title" content="I/O Nedir? Input Output ve Blokaj Rehberi · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/io.webp">
 <script type="application/ld+json">
 {
@@ -33,7 +33,7 @@
   "name": "I/O",
   "alternateName": "Input/Output",
   "inLanguage": "tr",
-  "description": "Bilgisayarın klavyeden yazı alması, internetten veri indirmesi veya ekrana bir şey yazdırması I/O işlemidir. Sistem dış dünyayla her türlü iletişimi bu kanal üzerinden kurar. Bilgisayarın 'duyuları ve elleri' gibidir.",
+  "description": "I/O (Input/Output), sistemin dış dünyayla veri alışverişidir.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -52,7 +52,31 @@
       "name": "I/O neden darboğaz olur?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "İşlemci çok hızlı çalışsa bile, veri giriş veya çıkış hızı (örneğin disk hızı) yavaşsa sistem beklemek zorunda kalır."
+        "text": "İşlemci hızlıdır, disk ve ağ yavaştır. Veri yetişmeyince sistem bekler, darboğaz burada oluşur."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Blocking nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sonuç gelene kadar bekleyen çağrıdır. Arayüzü kilitler, sunucuda iş israf eder."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Nasıl hızlandırılır?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Önbellek, toplu okuma ve eşzamansız çağrıyla. Önce ölçülür, sonra en yavaş halka düzeltilir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Async ne alaka?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Bekleme sırasında başka iş yapma düzenidir. Tek iş parçacığıyla çok iş çevrilir."
       }
     }
   ]
@@ -65,7 +89,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Bir bilgisayar sisteminin dış dünyadan veri alması ve dış dünyaya veri göndermesi süreci.">
+<meta name="twitter:description" content="I/O nedir, ne demek? Blocking, buffer, darboğaz ve Node okuma örneğiyle girdi çıktı rehberi.">
 
 <meta property="og:image:alt" content="I/O nedir?">
 </head>
@@ -75,12 +99,11 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-07-12">Son güncelleme: 12 Temmuz 2026</time></div>
-<h1 class="disc-title">I/O <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-22">Son güncelleme: 22 Eylül 2026</time></div>
+<h1 class="disc-title">I/O <span class="disc-accent">nedir, ne demek?</span></h1>
 <p class="dict-en">Input/Output</p>
-<p class="disc-lead">Bir bilgisayar sisteminin dış dünyadan veri alması ve dış dünyaya veri göndermesi süreci.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Bilgisayarın klavyeden yazı alması, internetten veri indirmesi veya ekrana bir şey yazdırması I/O işlemidir. Sistem dış dünyayla her türlü iletişimi bu kanal üzerinden kurar. Bilgisayarın &#x27;duyuları ve elleri&#x27; gibidir.</p></section><div class="dict-analogy">Bir insanın dış dünyadan bilgi alması (gözler, kulaklar) ve dış dünyaya tepki vermesi (konuşmak, hareket etmek) gibidir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Veriler giriş aygıtlarından (klavye, sensör) sisteme girer, işlemci tarafından işlenir ve çıkış aygıtlarına (ekran, hoparlör) gönderilir.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Tüm bilgisayar programlarında ve donanım etkileşimlerinde temel bir kavramdır.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">I/O neden darboğaz olur?</p><p class="dict-faq-a">İşlemci çok hızlı çalışsa bile, veri giriş veya çıkış hızı (örneğin disk hızı) yavaşsa sistem beklemek zorunda kalır.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/api/">API</a><a href="/dictionary/data-pipeline/">Data Pipeline</a><a href="/dictionary/streaming-applications/">Streaming Applications</a></div></section>
-<section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/asio/">Asio</a></div></section>
+<p class="disc-lead">I/O (<strong>Input/Output</strong>, girdi-çıktı), sistemin dış dünyayla veri alışverişidir.</p>
+<section class="disc-sec"><h2>Tanım ve Kelime Kökeni</h2><p>Klavye yazısı, indirilen dosya, ekrana basılan sonuç: Hepsi I/O işlemidir. Sistem dış dünyayla bu kanal üzerinden konuşur. Bilgisayarın duyuları ve elleri gibidir.</p></section><section class="disc-sec"><h2>Gündelik Hayatta Nasıl Bilinir ve Kullanılır?</h2><p><strong>Klavye:</strong> Yazı girişi.<br><strong>Ağ:</strong> Dosya indirme.<br><strong>Ekran:</strong> Sonuç gösterme.</p></section><section class="disc-sec"><h2>Teknik Derinlik ve Mimari</h2><p>Kavramlar:</p><p><strong>Blocking:</strong> İşlem bitene kadar bekleme.<br><strong>Non-blocking:</strong> Beklemeden devam, sonuç gelince haber.<br><strong>Buffer:</strong> Hız farkını dengeleyen ara depo.<br><strong>Darboğaz:</strong> En yavaş halka tüm hattı yavaşlatır, genellikle disk veya ağdır.</p><p>Dosya okuma örneği:</p><p><pre><code>const veri = await fs.readFile("not.txt", "utf8");</code></pre></p><p>Bu satır dosya gelene kadar beklemez, diğer işler sürer. Sonuç hazır olunca devam edilir.</p></section><section class="disc-sec"><h2>Farklı Disiplinlerde Kullanımı</h2><p><strong>İnsan:</strong> Göz kulak girişi, konuşma çıkışı.<br><strong>Restoran:</strong> Sipariş girişi, servis çıkışı.<br><strong>Fabrika:</strong> Hammadde girişi, ürün çıkışı.</p></section><div class="dict-analogy">Bir insanın dış dünyadan bilgi alması ve dış dünyaya tepki vermesi gibidir; gözler giriş, konuşma çıkıştır.</div><section class="disc-sec"><h2>Sıkça Sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">I/O neden darboğaz olur?</p><p class="dict-faq-a">İşlemci hızlıdır, disk ve ağ yavaştır. Veri yetişmeyince sistem bekler, darboğaz burada oluşur.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Blocking nedir?</p><p class="dict-faq-a">Sonuç gelene kadar bekleyen çağrıdır. Arayüzü kilitler, sunucuda iş israf eder.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Nasıl hızlandırılır?</p><p class="dict-faq-a">Önbellek, toplu okuma ve eşzamansız çağrıyla. Önce ölçülür, sonra en yavaş halka düzeltilir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Async ne alaka?</p><p class="dict-faq-a">Bekleme sırasında başka iş yapma düzenidir. Tek iş parçacığıyla çok iş çevrilir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/api/">API</a><a href="/dictionary/data-pipeline/">Data Pipeline</a><a href="/dictionary/streaming-applications/">Streaming Applications</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

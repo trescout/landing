@@ -29,7 +29,7 @@ Hayır, veriler ikili formatta olduğu için insanlar tarafından doğrudan okun
 
 ## İlgili terimler
 - [API](/dictionary/api/)
-- [Networking Stack](/dictionary/networking-stack/)
+- [Network Stack](/dictionary/network-stack/)
 - [Serialization](/dictionary/serialization/)
 
 ---

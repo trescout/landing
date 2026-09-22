@@ -1,29 +1,57 @@
 # Introduction to Autonomous Robots nedir?
 
 **Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-06-14
+**Son güncelleme:** 2026-09-22
 
-Dışarıdan sürekli komut almadan, kendi kararlarını verip çevresinde hareket edebilen makinelerin temel çalışma prensibidir.
+Otonom robotlar, sürekli komut almadan çevresinde hareket eden makinelerdir.
 
-## Tanım
-Bu alan, robotların etrafını algılaması (sensörler), bu veriyi işlemesi (yapay zeka) ve bir eylem gerçekleştirmesi (motorlar) üzerine kuruludur. Robotun sadece programlandığı yolu değil, engelleri aşarak hedefe ulaşmasını sağlar.
+## Tanım ve Kelime Kökeni
+"Autonomous" **özerk** demektir. Üçlü düzen: Algı (sensör), işlem (yapay zekâ) ve eylem (motor). Robot yolu ezberlemez, engeli aşıp hedefe gider.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Depo:** Raf arası taşıma.
+- **Fabrika:** Montaj hattı.
+- **Araç:** Sürücü destek sistemleri.
+
+## Teknik Derinlik ve Mimari
+Döngü:
+
+```
+algıla → planla → hareket et → denetle
+```
+
+Parçalar:
+- **Algı:** Kamera, lidar ve radar.
+- **Konum:** Harita üstünde yer bulma.
+- **Plan:** Engel çevresinden rota.
+- **Denetim:** Hata duruşu ve insan devralması.
+
+ROS ortak çatıdır. Güvenlik kuralı: İnsan yakınında hız ve güç sınırlanır.
+
+## Sık Karıştırılanlar
+Kumandalı robot sanılır. O tamamen insan elindedir, bu hedefle baş başadır. Biri kukla, diğeri çıraktır.
+
+## Farklı Disiplinlerde Kullanımı
+- **Oyuncak araba:** Yolu kendi bulan model.
+- **Asansör:** Düğmeye göre kat seçimi.
+- **Otopilot:** Rotayı koruyan düzen.
 
 ## Bir benzetmeyle
-Bir oyuncak arabayı uzaktan kumandayla yönetmek yerine, ona nereye gitmesi gerektiğini söyleyip kendi yolunu bulmasını beklemek gibidir.
-
-## Nasıl çalışır?
-Robotlara kameralar ve sensörler takılır. Gelen veriler yapay zeka modelleriyle işlenerek robotun ne yapacağına karar verilir.
-
-## Nerede kullanılır?
-Depolarda, fabrikalarda ve otonom araçlarda kullanılır.
-
-## Sık karıştırılanlar
-Uzaktan kumandalı robotlarla karıştırılabilir; onlar tamamen insan kontrolündedir.
+Oyuncak arabayı kumandayla sürmek yerine gideceği yeri söyleyip yolunu bulmasını beklemeye benzer.
 
 ## Sıkça sorulanlar
 
 **Nasıl öğrenirler?**  
-Genellikle çevrelerindeki verileri sürekli analiz ederek ve deneme yanılma yöntemleriyle.
+Veri analizi ve deneme yanılmayla. Simülasyonda prova, sahada ince ayar yapılır.
+
+**Güvenli mi?**  
+Tasarlandığı sınırda evet. Hata duruşu ve insan devralması şarttır.
+
+**Nerede kullanılır?**  
+Depo, fabrika ve yolda. Tekrarlı ve tehlikeli işlerde öndedir.
+
+**Ne zaman yaygınlaşır?**  
+Maliyet ve mevzuat belirler. Kapalı alan önce, açık yol sonra gelir.
 
 ## İlgili terimler
 - [Physical AI](/dictionary/physical-ai/)

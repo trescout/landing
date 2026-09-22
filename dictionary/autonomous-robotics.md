@@ -1,29 +1,51 @@
-# Autonomous Robotics nedir?
+# Autonomous Robotics nedir, ne demek?
 
 **Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-06-14
+**Son güncelleme:** 2026-09-22
 
-İnsan müdahalesi olmadan, çevresini algılayıp kendi kararlarını vererek hareket edebilen makinelerdir.
+Autonomous robotics (Türkçe karşılığıyla **otonom robotik**), desteksiz hareket eden makineler bilimidir.
 
-## Tanım
-Bu robotlar, sensörleri aracılığıyla dünyayı görür, haritalar çıkarır ve hedeflerine ulaşmak için en iyi yolu kendileri hesaplar. Sadece komutları uygulamazlar, değişen durumlara göre strateji değiştirirler.
+## Tanım ve Kelime Kökeni
+Robotlar sensörle görür, harita çıkarır, yolu hesaplar. Komutu uygular, duruma göre strateji değiştirir. Belirsizlikte çözüm üretir.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Depo:** Raf arası taşıma.
+- **Tarım:** Sıra takibi.
+- **Keşif:** Tehlikeli alan taraması.
+
+## Teknik Derinlik ve Mimari
+Parçalar:
+- **Algı:** Kamera, lidar ve radar.
+- **SLAM:** Eşzamanlı harita ve konum.
+- **Plan:** Engel çevresi rota.
+- **Denetim:** Hata duruşu.
+
+ROS ortak çatıdır. Yapay zekâ görüntü ve sensör verisini işler, karar mekanizmasını besler.
+
+## Sık Karıştırılanlar
+Programlı robot sanılır. O sabit yolu tekrarlar, bu belirsizlikte çözüm üretir. Biri bant, diğeri şofördür.
+
+## Farklı Disiplinlerde Kullanımı
+- **Sürücüsüz araç:** Trafiğe göre yol.
+- **Otopilot:** Rota koruma.
+- **Posta güvercini:** Hedefe dönüş.
 
 ## Bir benzetmeyle
-Uzaktan kumandalı bir araba değil, kendi kendine gideceği yeri bilen ve trafiğe göre yolunu değiştiren bir sürücüsüz araç gibidir.
-
-## Nasıl çalışır?
-Yapay zeka modelleri, kamera görüntüleri ve sensör verilerini işleyerek robotun karar verme mekanizmasını çalıştırır.
-
-## Nerede kullanılır?
-Depo lojistiği, tarım, keşif görevleri ve üretim hatlarında kullanılır.
-
-## Sık karıştırılanlar
-Programlanmış robotlardan farkı, belirsiz durumlarda bile kendi başına çözüm üretebilmeleridir.
+Kumandalı araba değil, yolunu trafiğe göre bulan sürücüsüz araç gibidir.
 
 ## Sıkça sorulanlar
 
-**Bu robotlar hata yapmaz mı?**  
-Hata yapabilirler, bu yüzden güvenlik katmanları ve sürekli öğrenme algoritmaları ile desteklenirler.
+**Hata yapmaz mı?**  
+Yapar. Güvenlik katmanı ve öğrenme ile desteklenir.
+
+**Nerede kullanılır?**  
+Depo, tarım ve keşifte. Tekrarlı ve tehlikeli işte öndedir.
+
+**Maliyeti nedir?**  
+Sensör ve yazılım bedeli vardır. İşgücü kazancı karşılığında ödenir.
+
+**Kumandalıdan farkı nedir?**  
+Kumandalı insan elindedir, otonom hedefle baş başadır.
 
 ## İlgili terimler
 - [Introduction to Autonomous Robots](/dictionary/autonomous-robots-intro/)

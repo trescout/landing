@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Service Mesh nedir? · TreScout Sözlük</title>
-<meta name="description" content="Karmaşık yazılım sistemlerinde, farklı servislerin birbirleriyle güvenli ve düzenli iletişim kurmasını sağlayan bir altyapı katmanıdır.">
+<title>Service Mesh Nedir? Mikro Hizmet Trafik Rehberi · TreScout</title>
+<meta name="description" content="Service mesh nedir, ne demek? Sidecar, mTLS, retry kuralı ve Istio ile mikro hizmet trafik rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/service-mesh/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/service-mesh/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/service-mesh/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/service-mesh/">
 <link rel="canonical" href="https://trescout.com/dictionary/service-mesh/">
-<meta property="og:title" content="Service Mesh nedir?">
-<meta property="og:description" content="Karmaşık yazılım sistemlerinde, farklı servislerin birbirleriyle güvenli ve düzenli iletişim kurmasını sağlayan bir altyapı katmanıdır.">
+<meta property="og:title" content="Service Mesh Nedir? Mikro Hizmet Trafik Rehberi · TreScout">
+<meta property="og:description" content="Service mesh nedir, ne demek? Sidecar, mTLS, retry kuralı ve Istio ile mikro hizmet trafik rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/service-mesh/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Service Mesh nedir?">
+<meta name="twitter:title" content="Service Mesh Nedir? Mikro Hizmet Trafik Rehberi · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/service-mesh.webp">
 <script type="application/ld+json">
 {
@@ -32,7 +32,7 @@
   "@type": "DefinedTerm",
   "name": "Service Mesh",
   "inLanguage": "tr",
-  "description": "Yüzlerce küçük parçadan oluşan bir sistemde bu parçaların birbirini bulması ve güvenli konuşması zordur. Service mesh, bu iletişimi yöneten, trafiği düzenleyen ve güvenlik duvarı gibi çalışan görünmez bir ağdır.",
+  "description": "Service mesh, mikro hizmetlerin trafiğini yöneten görünmez altyapı katmanıdır.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -51,7 +51,31 @@
       "name": "Her projeye gerekli mi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Hayır, sadece çok fazla parçadan oluşan büyük sistemlerde karmaşayı yönetmek için gereklidir."
+        "text": "Hayır. Az servisli sistemde yük getirir. Karmaşa büyüyünce anlam kazanır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Maliyeti nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vekil başına bellek ve gecikme ekler. Gözlemlenebilirlik kazancı karşılığında ödenir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Kubernetes şart mı?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hayır, ama çoğunlukla birlikte kullanılır. Sanal makinelerde de koşan sürümler vardır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "API gateway yerine geçer mi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hayır. Gateway dış kapıdır, mesh iç trafiktir. İkisi birlikte çalışır."
       }
     }
   ]
@@ -64,7 +88,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Karmaşık yazılım sistemlerinde, farklı servislerin birbirleriyle güvenli ve düzenli iletişim kurmasını sağlayan bir altyapı katmanıdır.">
+<meta name="twitter:description" content="Service mesh nedir, ne demek? Sidecar, mTLS, retry kuralı ve Istio ile mikro hizmet trafik rehberi.">
 
 <meta property="og:image:alt" content="Service Mesh nedir?">
 </head>
@@ -74,12 +98,13 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-06-14">Son güncelleme: 14 Haziran 2026</time></div>
-<h1 class="disc-title">Service Mesh <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-22">Son güncelleme: 22 Eylül 2026</time></div>
+<h1 class="disc-title">Service Mesh <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">Karmaşık yazılım sistemlerinde, farklı servislerin birbirleriyle güvenli ve düzenli iletişim kurmasını sağlayan bir altyapı katmanıdır.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Yüzlerce küçük parçadan oluşan bir sistemde bu parçaların birbirini bulması ve güvenli konuşması zordur. Service mesh, bu iletişimi yöneten, trafiği düzenleyen ve güvenlik duvarı gibi çalışan görünmez bir ağdır.</p></section><div class="dict-analogy">Büyük bir havaalanındaki uçuş trafiğini yöneten kule gibidir; uçakların (servislerin) birbirine çarpmadan ve güvenli bir şekilde hareket etmesini sağlar.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Uygulamanızın yanına küçük bir yardımcı araç yerleştirilir. Tüm iletişim bu araç üzerinden geçer, böylece ana kodunuzu değiştirmeden trafik yönetimi yapabilirsiniz.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Mikro hizmet mimarisine sahip büyük ölçekli bulut uygulamalarında kullanılır.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Her projeye gerekli mi?</p><p class="dict-faq-a">Hayır, sadece çok fazla parçadan oluşan büyük sistemlerde karmaşayı yönetmek için gereklidir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/cloud-native/">Cloud Native</a><a href="/dictionary/api/">API</a><a href="/dictionary/proxy/">Proxy</a></div></section>
-<section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/meshery/">Meshery</a></div></section>
+<p class="disc-lead">Service mesh, mikro hizmetlerin trafiğini yöneten görünmez altyapı katmanıdır.</p>
+<section class="disc-sec"><h2>Tanım ve Kelime Kökeni</h2><p>Yüzlerce parçalı sistemde parçaların birbirini bulması ve güvenli konuşması zordur. Service mesh iletişimi yönetir, trafiği düzenler, güvenliği sağlar. Koda dokunmadan ağ politikası uygular.</p></section><section class="disc-sec"><h2>Gündelik Hayatta Nasıl Bilinir ve Kullanılır?</h2><p><strong>Bulut:</strong> Mikro hizmetli büyük uygulamalar.<br><strong>Banka:</strong> Sıkı güvenlikli servis trafiği.<br><strong>E-ticaret:</strong> Kampanya yükü altında sipariş hattı.</p></section><section class="disc-sec"><h2>Teknik Derinlik ve Mimari</h2><p>Parçalar:</p><p><strong>Sidecar:</strong> Her servisin yanındaki küçük vekil, trafik buradan akar.<br><strong>Control plane:</strong> Kuralları dağıtan beyin.<br><strong>Data plane:</strong> İşi yapan vekiller.<br><strong>mTLS:</strong> Servisler arası şifreli kimlik.<br><strong>Dayanıklılık:</strong> Yeniden deneme ve devre kesici.</p><p>Yeniden deneme kuralı:</p><p><pre><code>retries:
+  attempts: 3
+  perTryTimeout: 2s</code></pre></p><p>Istio ve Linkerd bilinen uygulamalarıdır. Küçük sistemde maliyeti faydasını aşar.</p></section><section class="disc-sec"><h2>Farklı Disiplinlerde Kullanımı</h2><p><strong>Havaalanı:</strong> Uçakları çarpıştırmayan kule.<br><strong>Trafik:</strong> Akışı düzenleyen sinyal ağı.<br><strong>Posta:</strong> Gönderiyi ayıran dağıtım merkezi.</p></section><div class="dict-analogy">Büyük bir havaalanındaki uçuş trafiğini yöneten kule gibidir; servislerin birbirine çarpmadan güvenli hareket etmesini sağlar.</div><section class="disc-sec"><h2>Sıkça Sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Her projeye gerekli mi?</p><p class="dict-faq-a">Hayır. Az servisli sistemde yük getirir. Karmaşa büyüyünce anlam kazanır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Maliyeti nedir?</p><p class="dict-faq-a">Vekil başına bellek ve gecikme ekler. Gözlemlenebilirlik kazancı karşılığında ödenir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Kubernetes şart mı?</p><p class="dict-faq-a">Hayır, ama çoğunlukla birlikte kullanılır. Sanal makinelerde de koşan sürümler vardır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">API gateway yerine geçer mi?</p><p class="dict-faq-a">Hayır. Gateway dış kapıdır, mesh iç trafiktir. İkisi birlikte çalışır.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/cloud-native/">Cloud Native</a><a href="/dictionary/api/">API</a><a href="/dictionary/proxy/">Proxy</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

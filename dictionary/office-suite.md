@@ -1,29 +1,53 @@
-# Office Suite nedir?
+# Office Suite nedir, ne demek?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-07-09
+**Son güncelleme:** 2026-09-22
 
-Günlük ofis işlerini dijital ortamda yapmak için bir araya getirilmiş yazılım paketidir.
+Office suite (Türkçe karşılığıyla **ofis paketi**), belge, tablo ve sunumu tek çatıda toplayan yazılım grubudur.
 
-## Tanım
-Belge yazma, hesap tablosu oluşturma ve sunum hazırlama gibi temel işleri tek bir çatı altında sunan programlar grubudur. Birbirleriyle uyumlu çalışırlar ve verilerin birinden diğerine kolayca aktarılmasını sağlarlar.
+## Tanım ve Kelime Kökeni
+"Suite" **takım, grup** demektir. Parçalar ortak arayüz ve format kullanır, veri aralarında kolay taşınır. Tek kurulumla yazı, hesap ve sunum işi görülür.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **İş:** Rapor ve bütçe tabloları.
+- **Eğitim:** Ödev ve sunum.
+- **Kişisel:** Mektup ve liste.
+
+## Teknik Derinlik ve Mimari
+Parçalar:
+- **Kelime işlemci:** Belge yazımı.
+- **Hesap tablosu:** Formül ve grafik.
+- **Sunum:** Slayt dizimi.
+
+Uyumluluk notu: Açık format (ODF) ile kapalı format (OOXML) arası geçişte biçim kayabilir. Toplu dönüştürme örneği:
+
+```
+soffice --headless --convert-to pdf rapor.docx
+```
+
+Bulut sürümler kurulum istemez, çevrimdışı çalışma sınırlıdır.
+
+## Farklı Disiplinlerde Kullanımı
+- **Kırtasiye:** Kalem, kağıt ve makine seti.
+- **Alet çantası:** İşe göre takım.
+- **Mutfak seti:** Tencere ve bıçak grubu.
 
 ## Bir benzetmeyle
-Bir kırtasiye dükkanı gibidir; kalem, kağıt, hesap makinesi ve sunum tahtası tek bir çantanın içindedir.
-
-## Nasıl çalışır?
-Genellikle tek bir kurulum dosyasıyla bilgisayarınıza yüklenir. Ortak bir arayüz ve dosya formatı kullandıkları için dosyalar arasında geçiş yapmak çok kolaydır.
-
-## Nerede kullanılır?
-İş dünyasında, eğitimde ve kişisel bilgisayar kullanımında standarttır.
+Kırtasiye çantası gibidir; kalem, kağıt ve hesap makinesi tek çantada taşınır.
 
 ## Sıkça sorulanlar
 
 **Bulut tabanlı olanları var mı?**  
-Evet, günümüzde çoğu office suite tarayıcı üzerinden online olarak da çalışabiliyor.
+Evet. Çoğu paket tarayıcıdan da çalışır, dosyalar bulutta tutulur.
 
 **Hepsi ücretli mi?**  
-Hayır, hem ücretsiz hem de ücretli birçok seçenek mevcuttur.
+Hayır. Ücretsiz ve ücretli seçenekler vardır, ihtiyaç belirler.
+
+**Ücretsiz hangisi seçilmeli?**  
+LibreOffice masaüstünde, Google Docs bulutta pratik başlangıçlardır.
+
+**Uyumluluk sorunu olur mu?**  
+Formatlar arası geçişte olabilir. Kritik belgede hedef formatta deneme yapılır.
 
 ## İlgili terimler
 - [SaaS](/dictionary/saas/)

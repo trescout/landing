@@ -22,7 +22,7 @@ The receiving device realizes that parts are missing and asks the sender to rese
 
 
 ## Related terms
-- [Networking Stack](/en/dictionary/networking-stack/)
+- [Network Stack](/en/dictionary/network-stack/)
 - [DNS Tunneling](/en/dictionary/dns-tunneling/)
 
 ## Related tools

@@ -33,7 +33,7 @@ Genellikle evet, ancak .gov gibi bazı uzantılar sadece devlet kurumlarına öz
 ## İlgili terimler
 - [DNS Tunneling](/dictionary/dns-tunneling/)
 - [Nameservers](/dictionary/nameservers/)
-- [Networking Stack](/dictionary/networking-stack/)
+- [Network Stack](/dictionary/network-stack/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/top-level-domain/

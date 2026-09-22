@@ -23,7 +23,7 @@ The system becomes unable to receive new commands or manage traffic, which is wh
 
 ## Related terms
 - [API Gateway](/en/dictionary/api-gateway/)
-- [Networking Stack](/en/dictionary/networking-stack/)
+- [Network Stack](/en/dictionary/network-stack/)
 - [Cloud Native](/en/dictionary/cloud-native/)
 
 ## Related tools

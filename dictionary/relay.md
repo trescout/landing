@@ -26,7 +26,7 @@ Proxy ile benzerlik gösterse de, relay genellikle fiziksel veya ağ katmanında
 Mesafe çok uzak olduğunda veya ağlar birbirine doğrudan erişemediğinde relay bağlantının kopmasını engeller.
 
 ## İlgili terimler
-- [Networking Stack](/dictionary/networking-stack/)
+- [Network Stack](/dictionary/network-stack/)
 - [Proxy](/dictionary/proxy/)
 - [VPN](/dictionary/vpn/)
 

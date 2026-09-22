@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Thread-safety nedir? · TreScout Sözlük</title>
-<meta name="description" content="Bir programın aynı anda birden fazla işlem yaparken verilerin bozulmasını engelleyen güvenlik özelliği.">
+<title>Thread Safety Nedir, Ne Demek? Güvenli Eşzamanlılık Rehberi · TreScout</title>
+<meta name="description" content="Thread safety nedir, ne demek? Mutex, kilit, race condition ve Go ile Python örnekleriyle güvenli eşzamanlılık rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/thread-safety/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/thread-safety/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/thread-safety/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/thread-safety/">
 <link rel="canonical" href="https://trescout.com/dictionary/thread-safety/">
-<meta property="og:title" content="Thread-safety nedir?">
-<meta property="og:description" content="Bir programın aynı anda birden fazla işlem yaparken verilerin bozulmasını engelleyen güvenlik özelliği.">
+<meta property="og:title" content="Thread Safety Nedir, Ne Demek? Güvenli Eşzamanlılık Rehberi · TreScout">
+<meta property="og:description" content="Thread safety nedir, ne demek? Mutex, kilit, race condition ve Go ile Python örnekleriyle güvenli eşzamanlılık rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/thread-safety/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Thread-safety nedir?">
+<meta name="twitter:title" content="Thread Safety Nedir, Ne Demek? Güvenli Eşzamanlılık Rehberi · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/thread-safety.webp">
 <script type="application/ld+json">
 {
@@ -32,7 +32,7 @@
   "@type": "DefinedTerm",
   "name": "Thread-safety",
   "inLanguage": "tr",
-  "description": "Bilgisayarlar aynı anda birçok iş yapar. Eğer iki farklı işlem aynı veriyi aynı anda değiştirmeye çalışırsa kaos çıkar. Bu özellik, işlemlerin birbirini beklemesini veya sırayla çalışmasını sağlar.",
+  "description": "Thread safety (iş parçacığı güvenliği), bir kodun aynı anda birden çok iş parçacığı tarafından çalıştırıldığında veriyi bozmamasıdır.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -51,7 +51,31 @@
       "name": "Thread-safe olmazsa ne olur?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Verileriniz karışır, uygulamalar çöker veya yanlış hesaplamalar oluşur."
+        "text": "Veriler karışır, hesaplar yanlış çıkar veya uygulama çöker. Hata her çalışta tekrarlanmadığı için ayıklaması zordur."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Her koda kilit eklenmeli midir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hayır. Tek iş parçacıklı kodda kilit gereksiz yük getirir. Yalnızca ortak veriye dokunan eşzamanlı bölümler korunur."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Deadlock nedir, nasıl önlenir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "İki işlemin birbirinin kilidini bekleyip takılmasıdır. Kilitleri hep aynı sırada almak ve kritik bölgeyi kısa tutmak riski azaltır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Test ile yakalanır mı?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Zor yakalanır, çünkü hata zamanlamaya bağlıdır. Yük testi ve özel yarış dedektörleri (race detector) kullanılır."
       }
     }
   ]
@@ -64,7 +88,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Bir programın aynı anda birden fazla işlem yaparken verilerin bozulmasını engelleyen güvenlik özelliği.">
+<meta name="twitter:description" content="Thread safety nedir, ne demek? Mutex, kilit, race condition ve Go ile Python örnekleriyle güvenli eşzamanlılık rehberi.">
 
 <meta property="og:image:alt" content="Thread-safety nedir?">
 </head>
@@ -74,11 +98,14 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-07-27">Son güncelleme: 27 Temmuz 2026</time></div>
-<h1 class="disc-title">Thread-safety <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-22">Son güncelleme: 22 Eylül 2026</time></div>
+<h1 class="disc-title">Thread Safety <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">Bir programın aynı anda birden fazla işlem yaparken verilerin bozulmasını engelleyen güvenlik özelliği.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Bilgisayarlar aynı anda birçok iş yapar. Eğer iki farklı işlem aynı veriyi aynı anda değiştirmeye çalışırsa kaos çıkar. Bu özellik, işlemlerin birbirini beklemesini veya sırayla çalışmasını sağlar.</p></section><div class="dict-analogy">Tek bir tuvaletin olduğu bir evde, kapıya kilit takmak gibidir; biri içerideyken diğeri beklemek zorundadır.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Program yazılırken veriye erişim kuralları belirlenir. Bir işlem veriyi kullanırken diğerleri ona &#x27;kilitli&#x27; statüsünde görünür.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Bankacılık uygulamaları, web sunucuları ve çoklu işlem yapan tüm yazılımlarda zorunludur.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Sadece güvenlik (hacklenme) ile ilgili değildir, veri tutarlılığı ile ilgilidir.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Thread-safe olmazsa ne olur?</p><p class="dict-faq-a">Verileriniz karışır, uygulamalar çöker veya yanlış hesaplamalar oluşur.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/concurrency/">Concurrency</a><a href="/dictionary/system-programming-language/">System Programming Language</a></div></section>
+<p class="disc-lead">Thread safety (Türkçe karşılığıyla <strong>iş parçacığı güvenliği</strong>), bir kodun aynı anda birden çok iş parçacığı tarafından çalıştırıldığında veriyi bozmamasıdır.</p>
+<section class="disc-sec"><h2>Tanım ve Kelime Kökeni</h2><p>"Thread" <strong>iş parçacığı</strong>, "safety" ise <strong>güvenlik</strong> demektir. Buradaki güvenlik, korsanlara karşı korunmak değil, verinin tutarlı kalmasıdır: İki işlem aynı hesabı aynı anda güncellerse sonuç yanlış çıkabilir. Thread-safe kod, bu yarışı kurallara bağlar. Bankacılık uygulamaları, web sunucuları ve çok işlemcili tüm yazılımlar buna ihtiyaç duyar.</p></section><section class="disc-sec"><h2>Gündelik Hayatta Nasıl Bilinir ve Kullanılır?</h2><p><strong>Bankacılık:</strong> Aynı hesaptan iki para çekme isteğinin bakiyeyi eksiye düşürmemesi.<br><strong>Bilet satışı:</strong> Son koltuğun iki kişiye birden satılmaması.<br><strong>Sayaçlar:</strong> Ziyaretçi sayacının her istekte tam bir artması.</p></section><section class="disc-sec"><h2>Teknik Derinlik ve Mimari</h2><p>Tipik araçlar şunlardır:</p><p><strong>Kilit (Mutex/Lock):</strong> Kritik bölgeye aynı anda tek iş parçacığı girer, diğeri bekler.<br><strong>Atomik işlem:</strong> Bölünemeyen tek adımda okuma ve yazma.<br><strong>Değişmez veri (Immutable):</strong> Değiştirilemeyen veri yarışa girmez, kopyası çıkarılır.<br><strong>Mesajlaşma:</strong> Ortak veri yerine kuyruk üzerinden haberleşme (ör. Go kanalları).</p><p>Küçük bir Python örneği:</p><p><pre><code>import threading
+kilit = threading.Lock()
+with kilit:
+    bakiye += 100</code></pre></p><p>Kilitli satırlar çalışırken başka iş parçacığı araya giremez. Kilit unutulursa veya yanlış sırada alınırsa program takılabilir (deadlock). Bu yüzden kritik bölge kısa tutulur.</p></section><section class="disc-sec"><h2>Sık Karıştırılanlar</h2><p>Siber güvenlikle ilgili değildir. Konu korsanlar değil, veri tutarlılığıdır: Aynı veriye aynı anda dokunan iki işlemin birbirini ezmemesi.</p></section><section class="disc-sec"><h2>Farklı Disiplinlerde Kullanımı</h2><p><strong>Trafik:</strong> Tek şeritli köprüde geçiş sırasını belirleyen ışıklar.<br><strong>Mutfak:</strong> Tek bıçağı sırayla kullanan aşçılar.<br><strong>Kütüphane:</strong> Tek nüsha kitabın ödünç defteriyle el değiştirmesi.</p></section><div class="dict-analogy">Tek tuvaletli bir evde kapıya kilit takmak gibidir; biri içerideyken diğeri beklemek zorundadır.</div><section class="disc-sec"><h2>Sıkça Sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Thread-safe olmazsa ne olur?</p><p class="dict-faq-a">Veriler karışır, hesaplar yanlış çıkar veya uygulama çöker. Hata her çalışta tekrarlanmadığı için ayıklaması zordur.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Her koda kilit eklenmeli midir?</p><p class="dict-faq-a">Hayır. Tek iş parçacıklı kodda kilit gereksiz yük getirir. Yalnızca ortak veriye dokunan eşzamanlı bölümler korunur.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Deadlock nedir, nasıl önlenir?</p><p class="dict-faq-a">İki işlemin birbirinin kilidini bekleyip takılmasıdır. Kilitleri hep aynı sırada almak ve kritik bölgeyi kısa tutmak riski azaltır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Test ile yakalanır mı?</p><p class="dict-faq-a">Zor yakalanır, çünkü hata zamanlamaya bağlıdır. Yük testi ve özel yarış dedektörleri (race detector) kullanılır.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/concurrency/">Concurrency</a><a href="/dictionary/system-programming-language/">System Programming Language</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

@@ -80,7 +80,7 @@ Bir ağ arayüzünün parçalanma (fragmentation) olmadan tek bir çerçevede ta
 
 ## İlgili terimler
 
-- [Networking Stack](/dictionary/networking-stack/)
+- [VPN](/dictionary/vpn/)
 - [Runtime](/dictionary/runtime/)
 - [Memory Management](/dictionary/memory-management/)
 - [Packet Fragmentation](/dictionary/packet-fragmentation/)

@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Extensibility nedir? · TreScout Sözlük</title>
-<meta name="description" content="Bir sistemin temel yapısı bozulmadan yeni özellikler eklenerek geliştirilmeye uygun olması.">
+<title>Extensibility Nedir, Ne Demek? Genişletilebilirlik Rehberi · TreScout</title>
+<meta name="description" content="Extensibility nedir, Türkçe karşılığı nedir? Eklenti mimarisi, plugin API, hook sistemi ve WordPress ile VS Code örnekleriyle genişletilebilirlik rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/extensibility/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/extensibility/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/extensibility/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/extensibility/">
 <link rel="canonical" href="https://trescout.com/dictionary/extensibility/">
-<meta property="og:title" content="Extensibility nedir?">
-<meta property="og:description" content="Bir sistemin temel yapısı bozulmadan yeni özellikler eklenerek geliştirilmeye uygun olması.">
+<meta property="og:title" content="Extensibility Nedir, Ne Demek? Genişletilebilirlik Rehberi · TreScout">
+<meta property="og:description" content="Extensibility nedir, Türkçe karşılığı nedir? Eklenti mimarisi, plugin API, hook sistemi ve WordPress ile VS Code örnekleriyle genişletilebilirlik rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/extensibility/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Extensibility nedir?">
+<meta name="twitter:title" content="Extensibility Nedir, Ne Demek? Genişletilebilirlik Rehberi · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/extensibility.webp">
 <script type="application/ld+json">
 {
@@ -32,7 +32,7 @@
   "@type": "DefinedTerm",
   "name": "Extensibility",
   "inLanguage": "tr",
-  "description": "Genişletilebilirlik, bir yazılımın esnek olması demektir. Yazılımın ana koduna dokunmadan, eklentiler veya modüller aracılığıyla yeni yetenekler kazandırabilirsiniz. Bu, sistemin uzun ömürlü olmasını sağlar.",
+  "description": "Extensibility (genişletilebilirlik), bir yazılımın ana koduna dokunmadan eklenti ve modüllerle yeni yetenekler kazanabilmesidir.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -51,7 +51,31 @@
       "name": "Her yazılım genişletilebilir mi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Hayır, eğer yazılım en baştan bu esneklikle tasarlanmadıysa, sonradan ekleme yapmak çok zor olabilir."
+        "text": "Hayır. Yazılım en baştan bu esneklikle tasarlanmadıysa, sonradan eklenti desteği eklemek genellikle pahalı ve riskli olur."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Eklenti ile çatallama (fork) arasındaki fark nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Eklentide ana kodu kopyalamazsınız, sisteme dışarıdan bağlanırsınız. Çatallamada ise kodun tamamını kopyalayıp ayrı bir yola gidersiniz."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Eklentiler güvenli midir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kaynağına göre değişir. Resmi mağazalardan, güncel ve çok kullanılan eklentileri tercih edin. Gereksiz izin isteyen eklentilere dikkat edin."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Genişletilebilirlik performansı düşürür mü?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Her eklenti bir miktar yük getirir. Az ve bakımlı eklenti kullandığınızda etkisi genellikle fark edilmez."
       }
     }
   ]
@@ -64,7 +88,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Bir sistemin temel yapısı bozulmadan yeni özellikler eklenerek geliştirilmeye uygun olması.">
+<meta name="twitter:description" content="Extensibility nedir, Türkçe karşılığı nedir? Eklenti mimarisi, plugin API, hook sistemi ve WordPress ile VS Code örnekleriyle genişletilebilirlik rehberi.">
 
 <meta property="og:image:alt" content="Extensibility nedir?">
 </head>
@@ -74,11 +98,14 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-07-12">Son güncelleme: 12 Temmuz 2026</time></div>
-<h1 class="disc-title">Extensibility <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-22">Son güncelleme: 22 Eylül 2026</time></div>
+<h1 class="disc-title">Extensibility <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">Bir sistemin temel yapısı bozulmadan yeni özellikler eklenerek geliştirilmeye uygun olması.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Genişletilebilirlik, bir yazılımın esnek olması demektir. Yazılımın ana koduna dokunmadan, eklentiler veya modüller aracılığıyla yeni yetenekler kazandırabilirsiniz. Bu, sistemin uzun ömürlü olmasını sağlar.</p></section><div class="dict-analogy">Bir İsviçre çakısı gibidir; üzerine yeni bir tornavida veya fener ucu ekleyebileceğiniz bir yapısı vardır.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Sistem, dışarıdan gelen modülleri kabul edecek bir &#x27;arayüz&#x27; ile tasarlanır.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Tarayıcı eklentilerinde, içerik yönetim sistemlerinde (WordPress gibi) ve büyük kurumsal yazılımlarda kullanılır.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Her yazılım genişletilebilir mi?</p><p class="dict-faq-a">Hayır, eğer yazılım en baştan bu esneklikle tasarlanmadıysa, sonradan ekleme yapmak çok zor olabilir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/plugin/">Plugins</a><a href="/dictionary/framework/">Framework</a><a href="/dictionary/api/">API</a></div></section>
+<p class="disc-lead">Extensibility (Türkçe karşılığıyla <strong>genişletilebilirlik</strong>), bir yazılımın ana koduna dokunmadan eklenti ve modüllerle yeni yetenekler kazanabilmesidir.</p>
+<section class="disc-sec"><h2>Tanım ve Kelime Kökeni</h2><p>"Extensibility" terimi, İngilizce <strong>extend</strong> (genişletmek) kökünden türemiştir. Yazılım mühendisliğinde açık-kapalı ilkesi (Open-Closed Principle) ile yakından ilişkilidir: Bir modül genişletmeye açık, değişikliğe kapalı olmalıdır. Yani yeni bir özellik gerektiğinde mevcut kodu bozmak yerine, sisteme yeni bir parça eklemeniz yeterlidir.</p></section><section class="disc-sec"><h2>Gündelik Hayatta Nasıl Bilinir ve Kullanılır?</h2><p>Son kullanıcı olarak genişletilebilirlikle her gün karşılaşırsınız:</p><p><strong>Tarayıcı eklentileri:</strong> Reklam engelleyici veya parola yöneticisini tarayıcınıza kurmanız.<br><strong>Editör eklentileri:</strong> VS Code içine Python veya Prettier eklentisi eklemeniz.<br><strong>İçerik sistemleri:</strong> WordPress sitesine iletişim formu veya önbellek eklentisi kurmanız.<br><strong>Tasarım araçları:</strong> Figma topluluğundan hazır bileşen paketi yüklemeniz.</p></section><section class="disc-sec"><h2>Teknik Derinlik ve Mimari</h2><p>Genişletilebilir bir sistemin çekirdeği küçüktür, çevresi eklentilerle büyür. Bu mimarinin tipik parçaları şunlardır:</p><p><strong>Eklenti arayüzü (Plugin API):</strong> Çekirdeğin eklentilere açtığı kontrollü kapıdır. Eklenti yalnızca bu arayüz üzerinden sisteme dokunur.<br><strong>Kanca ve olay sistemi (Hooks &amp; Events):</strong> Çekirdek, belirli anlarda olay yayınlar. Eklentiler bu olaylara abone olur.<br><strong>Bildirim dosyası (Manifest):</strong> Her eklenti, adını, sürümünü ve istediği izinleri bildiren küçük bir dosya taşır. Sistem, kurallara uymayan eklentiyi yüklemez.<br><strong>Korumalı alan (Sandbox) ve izinler:</strong> Eklentilerin erişimi sınırlanır. Böylece hatalı bir eklenti tüm sistemi çökertemez.<br><strong>Sürüm uyumluluğu:</strong> Çekirdek güncellenirken arayüzün geriye uyumlu tutulması gerekir. Aksi halde eklentiler bozulur.</p><p>Küçük bir örnek, tipik bir eklenti bildirimi şöyledir:</p><p><pre><code>{
+  "name": "ornek-eklenti",
+  "version": "1.0.0"
+}</code></pre></p></section><section class="disc-sec"><h2>Farklı Disiplinlerde Kullanımı</h2><p><strong>Mimari:</strong> Taşıyıcı duvarlara dokunmadan yeni modüller eklenebilen prefabrik yapılar.<br><strong>Üretim:</strong> Aynı gövdeye farklı aparatlar takılabilen mutfak robotları.<br><strong>Oyun:</strong> Ana oyunu değiştirmeden yeni harita ve görev ekleyen mod toplulukları.</p></section><div class="dict-analogy">Bir İsviçre çakısı gibidir; gövde aynı kalır, üzerine yeni bir tornavida veya fener ucu ekleyebilirsiniz.</div><section class="disc-sec"><h2>Sıkça Sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Her yazılım genişletilebilir mi?</p><p class="dict-faq-a">Hayır. Yazılım en baştan bu esneklikle tasarlanmadıysa, sonradan eklenti desteği eklemek genellikle pahalı ve riskli olur.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Eklenti ile çatallama (fork) arasındaki fark nedir?</p><p class="dict-faq-a">Eklentide ana kodu kopyalamazsınız, sisteme dışarıdan bağlanırsınız. Çatallamada ise kodun tamamını kopyalayıp ayrı bir yola gidersiniz.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Eklentiler güvenli midir?</p><p class="dict-faq-a">Kaynağına göre değişir. Resmi mağazalardan, güncel ve çok kullanılan eklentileri tercih edin. Gereksiz izin isteyen eklentilere dikkat edin.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Genişletilebilirlik performansı düşürür mü?</p><p class="dict-faq-a">Her eklenti bir miktar yük getirir. Az ve bakımlı eklenti kullandığınızda etkisi genellikle fark edilmez.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/plugin/">Plugin</a><a href="/dictionary/api/">API</a><a href="/dictionary/framework/">Framework</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

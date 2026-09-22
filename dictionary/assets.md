@@ -8,7 +8,7 @@ Asset (dijital varlık), yazılım, web ve oyun geliştirme projelerinde program
 ## Etimoloji ve Finanstan Bilişime Kavramsal Dönüşüm
 İngilizce kökenli *asset* sözcüğü, köken olarak Fransızca *assez* (yeterli) ve Latince *ad satis* (tatmin edici miktarda) köklerine dayanır. Finans ve muhasebe dünyasında bir şirketin bilançosundaki "aktifleri, iktisadi kıymetleri ve ekonomik varlıkları" tanımlar.
 
-Bilişim dünyasında ise bu metafor mükemmel bir şekilde korunmuştur: Bir yazılım projesinde algoritmayı ve mantığı yürüten kaynak kodlar şirketin operasyonel iş gücüyse; projeye görsel kimlik, ses, atmosfer ve veri zenginliği kazandıran tüm medya dosyaları projenin sermayesi, yani **dijital varlıklarıdır (assets)**. Kod tek başına bir iskelet sunarken, varlıklar bu iskelete can ve biçim verir.
+Bilişim dünyasında ise bu metafor büyük ölçüde korunmuştur: Bir yazılım projesinde algoritmayı ve mantığı yürüten kaynak kodlar şirketin operasyonel iş gücüyse; projeye görsel kimlik, ses, atmosfer ve veri zenginliği kazandıran tüm medya dosyaları projenin sermayesi, yani **dijital varlıklarıdır (assets)**. Kod tek başına bir iskelet sunarken, varlıklar bu iskelete can ve biçim verir.
 
 ## 1. Web ve Mobil Mühendisliğinde Statik Varlıklar (Static Assets)
 Modern web ve mobil mimarilerinde kaynak kodlar ile statik varlıklar katı mimari kurallarla birbirinden ayrılır:

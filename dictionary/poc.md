@@ -1,31 +1,62 @@
-# PoC nedir?
+# PoC nedir, ne demek?
 
 > Proof of Concept
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-09-05
+**Son güncelleme:** 2026-09-22
 
-Bir fikrin pratikte çalışıp çalışmadığını kanıtlamak için yapılan küçük çaplı ön denemedir.
+PoC (**Proof of Concept**, kavram kanıtı), fikrin çalışıp çalışmadığını gösteren küçük denemedir.
 
-## Tanım
-Büyük bir projeye başlamadan önce, temel teknolojinin beklendiği gibi performans gösterip göstermediğini anlamak için yapılan kısa süreli bir çalışmadır. Bu aşamada mükemmel bir tasarım veya tam ölçekli bir ürün beklenmez; sadece temel işlevsellik test edilir.
+## Tanım ve Kelime Kökeni
+"Concept" **kavram**, "proof" ise **kanıt** demektir. Büyük yatırımdan önce temel teknolojinin işlediği gösterilir. Bitmiş tasarım beklenmez, yalnızca çekirdek işlev denenir.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Yazılım:** Riskli entegrasyon denemesi.
+- **Yatırım:** Yatırım öncesi doğrulama.
+- **Donanım:** Prototip öncesi devre testi.
+
+## Teknik Derinlik ve Mimari
+Plan:
+- **Hedef:** Tek soruya yanıt.
+- **Kapsam:** En kritik özellik.
+- **Ölçü:** Sayısal başarı eşiği.
+- **Süre:** Zaman kutusu, genellikle 1-2 hafta.
+
+Örnek çerçeve:
+
+```
+Hedef: Öneri motoru çalışır mı?
+Veri: 1000 satır örnek
+Başarı: %70 isabet
+Süre: 2 hafta
+```
+
+Sonuç başarılıysa yatırıma geçilir, değilse vazgeçilir. İkisi de kazançtır: Biri yol, diğeri ders verir.
+
+## Sık Karıştırılanlar
+Prototip sanılır. Prototip ürün örneğidir, PoC yapılabilirlik deneyidir. Biri gösterir, diğeri kanıtlar.
+
+## Farklı Disiplinlerde Kullanımı
+- **Maket:** Binadan önce ölçekli model.
+- **Ev denemesi:** Menüye girmeden mutfak testi.
+- **Fragman:** Filmden önce tepki ölçümü.
 
 ## Bir benzetmeyle
-Bir binayı inşa etmeden önce yapılan maket veya bir yemeği restoran menüsüne eklemeden önce evde deneme amaçlı pişirmek gibidir.
-
-## Nasıl çalışır?
-Sınırlı kaynakla, sadece en kritik özelliği çalışır hale getirerek veriler toplanır. Eğer sonuç başarılıysa projeye yatırım yapılır, değilse vazgeçilir.
-
-## Nerede kullanılır?
-Yazılım geliştirme süreçlerinde ve yeni teknoloji yatırımlarında kullanılır.
-
-## Sık karıştırılanlar
-Prototip ile karıştırılır; prototip ürünün bir örneğidir, PoC ise fikrin yapılabilirliğini kanıtlayan bir deneydir.
+Bina dikmeden maket yapmak veya yemeği menüye eklemeden evde denemek gibidir.
 
 ## Sıkça sorulanlar
 
-**PoC başarılı olursa ne olur?**  
-Fikrin uygulanabilir olduğu kanıtlandığı için tam ölçekli geliştirme aşamasına geçilir.
+**Başarılı olursa ne olur?**  
+Uygulanabilirlik kanıtlanır, tam geliştirmeye geçilir.
+
+**Ne kadar sürer?**  
+Genellikle 1-2 hafta. Uzayan iş PoC değil projeye dönmüştür.
+
+**Başarısız olursa ne olur?**  
+Kayıp sınırlı kalır, ders çıkarılır. Erken vazgeçiş kazançtır.
+
+**Prototipten farkı nedir?**  
+Prototip gösterir, PoC kanıtlar. Biri vitrin, diğeri deneydir.
 
 ## İlgili terimler
 - [Framework](/dictionary/framework/)

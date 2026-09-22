@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Telemetry nedir? · TreScout Sözlük</title>
-<meta name="description" content="Bir yazılımın kullanımı ve hataları hakkında sistemden otomatik olarak toplanan teknik veriler.">
+<title>Telemetry Nedir, Ne Demek? Uzaktan Ölçüm Rehberi · TreScout</title>
+<meta name="description" content="Telemetry nedir, Türkçe karşılığı nedir? Log, metrik, trace üçlüsü, OpenTelemetry ve gizlilik ayarlarıyla uzaktan ölçüm rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/dictionary/telemetry/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/telemetry/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="es" href="https://trescout.com/es/dictionary/telemetry/">
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/telemetry/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/telemetry/">
-<meta property="og:title" content="Telemetry nedir?">
-<meta property="og:description" content="Bir yazılımın kullanımı ve hataları hakkında sistemden otomatik olarak toplanan teknik veriler.">
+<meta property="og:title" content="Telemetry Nedir, Ne Demek? Uzaktan Ölçüm Rehberi · TreScout">
+<meta property="og:description" content="Telemetry nedir, Türkçe karşılığı nedir? Log, metrik, trace üçlüsü, OpenTelemetry ve gizlilik ayarlarıyla uzaktan ölçüm rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/telemetry/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -25,8 +25,8 @@
 <meta property="og:image:alt" content="Telemetry nedir?">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Telemetry nedir?">
-<meta name="twitter:description" content="Bir yazılımın kullanımı ve hataları hakkında sistemden otomatik olarak toplanan teknik veriler.">
+<meta name="twitter:title" content="Telemetry Nedir, Ne Demek? Uzaktan Ölçüm Rehberi · TreScout">
+<meta name="twitter:description" content="Telemetry nedir, Türkçe karşılığı nedir? Log, metrik, trace üçlüsü, OpenTelemetry ve gizlilik ayarlarıyla uzaktan ölçüm rehberi.">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/telemetry.webp">
 <script type="application/ld+json">
 {
@@ -34,7 +34,7 @@
   "@type": "DefinedTerm",
   "name": "Telemetry",
   "inLanguage": "tr",
-  "description": "Uygulamaların geliştiricilere, yazılımın nasıl çalıştığına dair gönderdiği raporlardır. Bu veriler sayesinde geliştiriciler, hangi özelliğin çok kullanıldığını veya uygulamanın nerede çöktüğünü anlayabilir. Kullanıcılar için genellikle arka planda sessizce akan bir veri akışıdır.",
+  "description": "Telemetry (uzaktan ölçüm), yazılım ve cihazların durum bilgisini otomatik toplayıp merkeze iletmesidir.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -53,7 +53,31 @@
       "name": "Gizliliğimi etkiler mi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Genellikle anonim veriler toplanır ancak hangi verilerin gönderildiğini ayarlar kısmından kontrol edebilirsiniz."
+        "text": "Genellikle anonim ve toplu veri toplanır. Hangi verilerin gönderildiğini uygulamanın ayarlar bölümünden görebilir, kapatabilirsiniz."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Observability ile farkı nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Telemetry veriyi toplar ve iletir. Observability, toplanan veriyle sistemin içini anlama yeteneğidir. Biri araç, diğeri amaçtır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Kapatılabilir mi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Çoğu uygulamada evet, ayarlardan kapatılır. Kurumsal cihazlarda politika gereği açık kalabilir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Maliyeti var mıdır?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Evet. Veri taşıma ve saklama bedeli vardır. Bu yüzden yüksek trafikte örnekleme yapılır, her olay değil bir kısmı gönderilir."
       }
     }
   ]
@@ -72,11 +96,11 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-08">Son güncelleme: 8 Eylül 2026</time></div>
-<h1 class="disc-title">Telemetry <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-22">Son güncelleme: 22 Eylül 2026</time></div>
+<h1 class="disc-title">Telemetry <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">Bir yazılımın kullanımı ve hataları hakkında sistemden otomatik olarak toplanan teknik veriler.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Uygulamaların geliştiricilere, yazılımın nasıl çalıştığına dair gönderdiği raporlardır. Bu veriler sayesinde geliştiriciler, hangi özelliğin çok kullanıldığını veya uygulamanın nerede çöktüğünü anlayabilir. Kullanıcılar için genellikle arka planda sessizce akan bir veri akışıdır.</p></section><div class="dict-analogy">Bir arabanın içindeki sensörlerin, motorun sıcaklığını ve yakıt durumunu sürekli olarak sürücü paneline bildirmesi gibidir.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Yazılımın içine yerleştirilen küçük kod parçaları, belirli olaylar gerçekleştiğinde bu bilgileri güvenli bir sunucuya iletir.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Yazılım hata ayıklama, kullanıcı deneyimi iyileştirme ve performans takibinde kullanılır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Logging</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Gizliliğimi etkiler mi?</p><p class="dict-faq-a">Genellikle anonim veriler toplanır ancak hangi verilerin gönderildiğini ayarlar kısmından kontrol edebilirsiniz.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/logs/">Logs</a><a href="/dictionary/observability/">Observability</a><a href="/dictionary/traces/">Traces</a></div></section>
+<p class="disc-lead">Telemetry (Türkçe karşılığıyla <strong>uzaktan ölçüm</strong>), yazılım ve cihazların durum bilgisini otomatik toplayıp merkeze iletmesidir.</p>
+<section class="disc-sec"><h2>Tanım ve Kelime Kökeni</h2><p>Sözcük, Yunanca <strong>tele</strong> (uzak) ve <strong>metron</strong> (ölçü) köklerinden gelir. Uygulamalar, yazılımın nasıl çalıştığına dair raporları geliştiriciye gönderir: Hangi özellik çok kullanılıyor, uygulama nerede çöküyor. Kullanıcı için genellikle arka planda sessizce akan bir veri akışıdır.</p></section><section class="disc-sec"><h2>Gündelik Hayatta Nasıl Bilinir ve Kullanılır?</h2><p><strong>Hata ayıklama:</strong> Çökme raporlarının otomatik toplanması.<br><strong>Ürün kararı:</strong> Az kullanılan düğmenin sadeleştirilmesi.<br><strong>Performans:</strong> Açılış süresinin sürüm sürüm izlenmesi.</p></section><section class="disc-sec"><h2>Teknik Derinlik ve Mimari</h2><p>Gözlemlenebilirliğin üç sütunu:</p><p><strong>Log:</strong> Olay satırları ("ödeme başladı", "ödeme bitti").<br><strong>Metrik:</strong> Sayısal ölçüler (istek sayısı, gecikme ortalaması).<br><strong>Trace:</strong> İsteğin servisler arası yolculuğunun kaydı.</p><p>Toplama için <strong>OpenTelemetry</strong> gibi açık standartlar kullanılır. İki kurala dikkat edilir: Yüksek trafikte her isteği değil örneğini (sampling) göndermek ve kişisel veriyi (e-posta, konum) kayda almamak. Hangi verinin gittiğini uygulamanın ayarlar bölümünden görebilir ve kapatabilirsiniz.</p></section><section class="disc-sec"><h2>Sık Karıştırılanlar</h2><p>Logging ile karıştırılabilir. Log, tekil olay satırıdır. Metrik sayısal özettir. Trace, isteğin yolculuğudur. Telemetry ise bu üçünü toplama ve iletme işinin adıdır.</p></section><section class="disc-sec"><h2>Farklı Disiplinlerde Kullanımı</h2><p><strong>Hastane:</strong> Hasta monitörünün nabzı hemşire ekranına taşıması.<br><strong>Havacılık:</strong> Uçuş verilerinin kara kutuda saklanması.<br><strong>Enerji:</strong> Sayaçların tüketimi merkeze bildirmesi.</p></section><div class="dict-analogy">Bir arabanın içindeki sensörlerin, motorun sıcaklığını ve yakıt durumunu sürekli olarak sürücü paneline bildirmesi gibidir.</div><section class="disc-sec"><h2>Sıkça Sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Gizliliğimi etkiler mi?</p><p class="dict-faq-a">Genellikle anonim ve toplu veri toplanır. Hangi verilerin gönderildiğini uygulamanın ayarlar bölümünden görebilir, kapatabilirsiniz.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Observability ile farkı nedir?</p><p class="dict-faq-a">Telemetry veriyi toplar ve iletir. Observability, toplanan veriyle sistemin içini anlama yeteneğidir. Biri araç, diğeri amaçtır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Kapatılabilir mi?</p><p class="dict-faq-a">Çoğu uygulamada evet, ayarlardan kapatılır. Kurumsal cihazlarda politika gereği açık kalabilir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Maliyeti var mıdır?</p><p class="dict-faq-a">Evet. Veri taşıma ve saklama bedeli vardır. Bu yüzden yüksek trafikte örnekleme yapılır, her olay değil bir kısmı gönderilir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/logs/">Logs</a><a href="/dictionary/observability/">Observability</a><a href="/dictionary/traces/">Traces</a></div></section>
 <aside class="disc-cta"><p><strong>İlgili araçları ve günlük raporları keşfet.</strong> Her gün yeni bir teknoloji terimi ve aracı çıkıyor; geride kalmamak için TreScout bültenine katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" data-page-type="dictionary" data-content-slug="telemetry" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

@@ -1,34 +1,58 @@
-# SLM nedir?
+# SLM nedir, ne demek?
 
 > Small Language Model
 
 **Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-06-03
+**Son güncelleme:** 2026-09-22
 
-Daha az veriyle eğitilmiş, hızlı çalışan ve düşük donanımlarda bile verimli sonuç veren küçük yapay zeka modelleridir.
+SLM (**Small Language Model**, küçük dil modeli), az kaynakla koşan kompakt modeldir.
 
-## Tanım
-SLM, daha az veri ve daha küçük bir mimari ile eğitilmiş, verimliliğe odaklanan yapay zeka modelleridir. Büyük modeller kadar genel kültürleri olmasa da belirli görevlerde çok hızlı ve düşük maliyetle çalışabilirler.
+## Tanım ve Kelime Kökeni
+Az parametre, küçük mimari ve verimlilik odağı vardır. Genel kültürü dardır, görevinde hızlıdır. Telefon ve dizüstünde internetsiz koşar.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Mobil:** Cihaz içi asistan.
+- **Gizlilik:** Verisi çıkmayan iş.
+- **Sınıflandırma:** Tek görevli hatlar.
+
+## Teknik Derinlik ve Mimari
+Ölçek:
+- **Boyut:** 1-8 milyar parametre bandı.
+- **Kuantizasyon:** Küçültülmüş ağırlık.
+- **İnce ayar:** Göreve uyarlama.
+
+Yerel deneme:
+
+```
+ollama run phi
+```
+
+Kural: Genel soruda dev, özel işte küçük yeterlidir. Maliyet ve hız dengesi belirler.
+
+## Sık Karıştırılanlar
+Zayıf sanılır. Genelde dardır, görevde güçlüdür. Biri ansiklopedi, diğeri el kitabıdır.
+
+## Farklı Disiplinlerde Kullanımı
+- **El kitabı:** Çantada taşınan özet.
+- **Cep feneri:** Hedefli ışık.
+- **Scooter:** Kısa mesafe aracı.
 
 ## Bir benzetmeyle
-Şöyle düşünün: Her şeyi bilen bir ansiklopedi yerine, çantanızda taşıdığınız ve ihtiyacınız olan her şeyi hızlıca bulabileceğiniz pratik bir el kitabı gibidir.
-
-## Nasıl çalışır?
-Daha az parametre (içsel bağlantı) kullanılarak eğitilirler. Bu sayede kendi bilgisayarınızda veya telefonunuzda bile internete ihtiyaç duymadan çalışabilirler.
-
-## Nerede kullanılır?
-Mobil uygulamalarda, gizlilik gerektiren yerel cihazlarda ve sadece belirli bir görevi (örneğin metin sınıflandırma) yapması gereken sistemlerde kullanılır.
-
-## Sık karıştırılanlar
-LLM'lerden daha zayıf olduğu düşünülür; ancak belirli bir görevde LLM kadar hatta daha iyi performans gösterebilirler.
+Ansiklopedi yerine çantada taşınan el kitabı gibidir.
 
 ## Sıkça sorulanlar
 
-**SLM daha mı az zeki?**  
-Genel bilgi kapasitesi daha azdır ancak odaklandığı görevde oldukça yeteneklidir.
+**Daha mı az zeki?**  
+Genelde dardır, görevde yeteneklidir. Ölçü işe göre değişir.
 
-**Neden devasa LLM yerine SLM kullanayım?**  
-Daha hızlıdır, daha az enerji harcar ve verileriniz cihazınızdan çıkmadığı için daha güvenlidir.
+**Neden dev yerine küçük?**  
+Hız, maliyet ve gizlilik için. Veri çıkmaz, fatura şişmez.
+
+**Hangisiyle başlanır?**  
+Popüler küçüklerden biriyle yerelde. İhtiyaç büyütür.
+
+**Ne zaman yetmez?**  
+Geniş bilgi ve akıl yürütmede dev gerekir. Hibrit düzen kurulur.
 
 ## İlgili terimler
 - [LLM](/dictionary/llm/)

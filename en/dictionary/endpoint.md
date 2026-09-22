@@ -22,7 +22,7 @@ Because most cyber attacks start by infiltrating the network through a poorly pr
 
 
 ## Related terms
-- [Networking Stack](/en/dictionary/networking-stack/)
+- [Network Stack](/en/dictionary/network-stack/)
 - [VPN](/en/dictionary/vpn/)
 - [Security Scanner](/en/dictionary/security-scanner/)
 

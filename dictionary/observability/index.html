@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Observability nedir? · TreScout Sözlük</title>
-<meta name="description" content="Bir sistemin iç durumunu dışarıdan gelen verilerle izleme yeteneğidir.">
+<title>Observability Nedir? Log Metrik Trace Rehberi · TreScout</title>
+<meta name="description" content="Observability nedir, ne demek? Log, metrik, trace üçlüsü, korelasyon kimliği ve maliyet notuyla gözlemlenebilirlik rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/observability/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/observability/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/observability/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/observability/">
 <link rel="canonical" href="https://trescout.com/dictionary/observability/">
-<meta property="og:title" content="Observability nedir?">
-<meta property="og:description" content="Bir sistemin iç durumunu dışarıdan gelen verilerle izleme yeteneğidir.">
+<meta property="og:title" content="Observability Nedir? Log Metrik Trace Rehberi · TreScout">
+<meta property="og:description" content="Observability nedir, ne demek? Log, metrik, trace üçlüsü, korelasyon kimliği ve maliyet notuyla gözlemlenebilirlik rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/observability/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Observability nedir?">
+<meta name="twitter:title" content="Observability Nedir? Log Metrik Trace Rehberi · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/observability.webp">
 <script type="application/ld+json">
 {
@@ -32,7 +32,7 @@
   "@type": "DefinedTerm",
   "name": "Observability",
   "inLanguage": "tr",
-  "description": "Observability, karmaşık yazılım sistemlerinin iç dünyasında neler olup bittiğini anlamamızı sağlayan bir gözlem mekanizmasıdır. Sadece bir hata olduğunda uyarı vermekle kalmaz, sistemin neden yavaşladığını veya neden beklenen sonucu vermediğini verilerle açıklar.",
+  "description": "Observability (gözlemlenebilirlik), sistemin içini dış veriyle anlama yeteneğidir.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -48,18 +48,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Neden sadece hata kaydı tutmak yetmiyor?",
+      "name": "Neden kayıt yetmiyor?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Hata kaydı sorunu söyler ama nedenini açıklamaz, observability ise sistemin içindeki tüm adımları görmenizi sağlar."
+        "text": "Kayıt sorunu söyler, nedeni açıklamaz. Üç sütun birleşince resim tamamlanır."
       }
     },
     {
       "@type": "Question",
-      "name": "Her sistem için gerekli mi?",
+      "name": "Her sisteme gerekli mi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Basit uygulamalar için abartı olabilir ancak çok sayıda parçadan oluşan yapay zekâ sistemlerinde hayati önem taşır."
+        "text": "Basit işte abartı olur, parçalı sistemde hayati olur. Ölçek kararı verir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Maliyeti nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Taşıma ve saklama bedeli vardır. Örnekleme ve süre politikası maliyeti tutar."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Nereden başlanır?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yapılandırılmış kayıt ve korelasyon kimliğinden. Sonra metrik ve iz eklenir."
       }
     }
   ]
@@ -72,7 +88,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Bir sistemin iç durumunu dışarıdan gelen verilerle izleme yeteneğidir.">
+<meta name="twitter:description" content="Observability nedir, ne demek? Log, metrik, trace üçlüsü, korelasyon kimliği ve maliyet notuyla gözlemlenebilirlik rehberi.">
 
 <meta property="og:image:alt" content="Observability nedir?">
 </head>
@@ -82,12 +98,11 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-06-03">Son güncelleme: 3 Haziran 2026</time></div>
-<h1 class="disc-title">Observability <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-22">Son güncelleme: 22 Eylül 2026</time></div>
+<h1 class="disc-title">Observability <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">Bir sistemin iç durumunu dışarıdan gelen verilerle izleme yeteneğidir.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Observability, karmaşık yazılım sistemlerinin iç dünyasında neler olup bittiğini anlamamızı sağlayan bir gözlem mekanizmasıdır. Sadece bir hata olduğunda uyarı vermekle kalmaz, sistemin neden yavaşladığını veya neden beklenen sonucu vermediğini verilerle açıklar.</p></section><div class="dict-analogy">Şöyle düşünün: Arabanızın sadece motor arıza ışığının yanması hata takibidir, ancak motorun sıcaklığını, yağ basıncını ve yakıt akışını anlık izleyen gösterge paneli observability sağlar.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Sistemden gelen loglar, metrikler ve izleme verileri toplanır. Bu veriler birleştirilerek sistemin sağlık durumu görselleştirilir. Böylece sorun henüz kullanıcıya yansımadan tespit edilebilir.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Büyük sunucu ağlarında ve yapay zekâ modellerinin performansını izlemek için kullanılır. Özellikle sistemin nerede tıkandığını bulmak için kritik bir araçtır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Genellikle sadece hata kaydı tutmak olan &#x27;monitoring&#x27; ile karıştırılır, ancak observability sistemin neden hata verdiğini anlamaya odaklanır.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Neden sadece hata kaydı tutmak yetmiyor?</p><p class="dict-faq-a">Hata kaydı sorunu söyler ama nedenini açıklamaz, observability ise sistemin içindeki tüm adımları görmenizi sağlar.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Her sistem için gerekli mi?</p><p class="dict-faq-a">Basit uygulamalar için abartı olabilir ancak çok sayıda parçadan oluşan yapay zekâ sistemlerinde hayati önem taşır.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/observability/">Observability</a><a href="/dictionary/state-management/">State Management</a><a href="/dictionary/data-pipeline/">Data Pipeline</a><a href="/dictionary/api/">API</a></div></section>
-<section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/posthog/">Posthog</a><a href="/discover/cilium/">Cilium</a><a href="/discover/iii/">iii</a></div></section>
+<p class="disc-lead">Observability (Türkçe karşılığıyla <strong>gözlemlenebilirlik</strong>), sistemin içini dış veriyle anlama yeteneğidir.</p>
+<section class="disc-sec"><h2>Tanım ve Kelime Kökeni</h2><p>"Observe" <strong>gözlemlemek</strong> demektir. Hata ışığı sorunu söyler, gösterge paneli nedenini açıklar. Observability paneldir: Yavaşlığın ve sapmanın kaynağı veriyle bulunur.</p></section><section class="disc-sec"><h2>Gündelik Hayatta Nasıl Bilinir ve Kullanılır?</h2><p><strong>Sunucu:</strong> Yavaşlık kaynağı bulma.<br><strong>Model:</strong> Sapma izleme.<br><strong>Ürün:</strong> Kullanım takibi.</p></section><section class="disc-sec"><h2>Teknik Derinlik ve Mimari</h2><p>Üç sütun:</p><p><strong>Log:</strong> Olay satırları.<br><strong>Metrik:</strong> Sayısal ölçüler.<br><strong>Trace:</strong> İsteğin yolculuğu.</p><p>Bağlayıcı korelasyon kimliğidir: Aynı istek üç sütunda da aynı kimlikle aranır.</p><p><pre><code>istek_id=abc123 adım=odeme sonuc=ok sure_ms=42</code></pre></p><p>OpenTelemetry ortak formattır. Maliyet kuralı: Her şeyi sonsuz saklamak yerine örnekleme ve süre politikası uygulanır.</p></section><section class="disc-sec"><h2>Sık Karıştırılanlar</h2><p>Monitoring sanılır. Monitoring eşiği izler, observability nedeni açıklar. Biri alarm, diğeri teşhistir.</p></section><section class="disc-sec"><h2>Farklı Disiplinlerde Kullanımı</h2><p><strong>Panel:</strong> Hız ve yakıt göstergeleri.<br><strong>Hastane:</strong> Hasta monitörü.<br><strong>Kokpit:</strong> Uçuş ekranları.</p></section><div class="dict-analogy">Motor arıza ışığı yerine sıcaklık, yağ ve yakıtı anlık gösteren panel gibidir.</div><section class="disc-sec"><h2>Sıkça Sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Neden kayıt yetmiyor?</p><p class="dict-faq-a">Kayıt sorunu söyler, nedeni açıklamaz. Üç sütun birleşince resim tamamlanır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Her sisteme gerekli mi?</p><p class="dict-faq-a">Basit işte abartı olur, parçalı sistemde hayati olur. Ölçek kararı verir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Maliyeti nedir?</p><p class="dict-faq-a">Taşıma ve saklama bedeli vardır. Örnekleme ve süre politikası maliyeti tutar.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Nereden başlanır?</p><p class="dict-faq-a">Yapılandırılmış kayıt ve korelasyon kimliğinden. Sonra metrik ve iz eklenir.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/logs/">Logs</a><a href="/dictionary/traces/">Traces</a><a href="/dictionary/state-management/">State Management</a><a href="/dictionary/data-pipeline/">Data Pipeline</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

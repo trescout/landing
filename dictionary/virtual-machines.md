@@ -1,32 +1,56 @@
-# Virtual Machines nedir?
+# Virtual Machines nedir, ne demek?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-06-12
+**Son güncelleme:** 2026-09-22
 
-Bir bilgisayarın içinde, sanki ayrı bir cihazmış gibi çalışan sanal işletim sistemleridir.
+Virtual machine (Türkçe karşılığıyla **sanal makine**), donanımı bölüşen bağımsız bilgisayardır.
 
-## Tanım
-Sanal makineler, fiziksel donanımınızı bölümlere ayırarak tek bir bilgisayarda aynı anda birden fazla işletim sistemi çalıştırmanıza olanak tanır. Her bir sanal makine, sanki kendi bağımsız bilgisayarı varmış gibi davranır ve kendi kaynaklarını kullanır. Bu sayede ana sisteminize zarar vermeden farklı yazılımları veya ayarları güvenle deneyebilirsiniz.
+## Tanım ve Kelime Kökeni
+"Virtual" **sanal** demektir. Tek makinede çok işletim sistemi koşar. Her biri kendi kaynağıyla izole çalışır, ana sisteme zarar vermez.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Sunucu:** Çok kiracılı barındırma.
+- **Test:** Farklı sistem denemesi.
+- **Geliştirme:** Temiz deneme ortamı.
+
+## Teknik Derinlik ve Mimari
+Katmanlar:
+- **Hipervizör:** Donanımı bölen yazılım.
+- **Konuk:** Üstte koşan sistem.
+- **Snapshot:** Anlık görüntü, geri dönüş bileti.
+
+Hızlı makine:
+
+```
+multipass launch --name test --cpus 2 --memory 4G
+```
+
+Konteyner farkı: Makine sistem taşır, konteyner uygulama taşır. Yalıtım makinede güçlüdür.
+
+## Sık Karıştırılanlar
+Konteyner sanılır. Makine tam sistemdir, konteyner paylaşımlı çekirdektir. Biri daire, diğeri oda arkadaşlığıdır.
+
+## Farklı Disiplinlerde Kullanımı
+- **Odalar:** Bağımsız kapılı bölmeler.
+- **Daire:** Ortak bina, özel alan.
+- **Bavul:** Bölmeli taşıma.
 
 ## Bir benzetmeyle
-Tek bir evin içinde, her birinin kendi eşyası ve kapısı olan bağımsız odalar kiralamak gibidir; odalar aynı binayı paylaşsa da birbirlerinden tamamen bağımsızdır.
-
-## Nasıl çalışır?
-Bir yazılım yardımıyla donanımınızın bir kısmını ayırırsınız. Bu ayrılan kısma bir işletim sistemi kurarsınız. Kurduğunuz bu sistem, ana bilgisayarınızdan habersiz kendi dünyasında çalışmaya başlar.
-
-## Nerede kullanılır?
-Sunucu yönetiminde, yazılım testlerinde ve farklı işletim sistemlerine ihtiyaç duyulan işlerde kullanılır.
-
-## Sık karıştırılanlar
-Konteynerlerle sıkça karıştırılır; sanal makineler tam bir işletim sistemi taşırken, konteynerler sadece uygulamayı taşır.
+Tek evde kapısı ayrı odalar kiralamaya benzer.
 
 ## Sıkça sorulanlar
 
-**Sanal makine bilgisayarı yavaşlatır mı?**  
-Evet, çünkü ana bilgisayarınızın işlemci ve bellek kaynaklarını paylaşarak çalışır.
+**Yavaşlatır mı?**  
+Paylaşım bedeli vardır. Doğru boyutlandırmada fark edilmez.
 
-**Sanal makinede virüs olursa ana bilgisayara geçer mi?**  
-Genellikle hayır, çünkü sanal makine ana sistemden izole bir ortamdadır.
+**Virüs geçer mi?**  
+Genelde hayır. İzolasyon güçlüdür, paylaşılan klasör denetlenir.
+
+**Ne kadar kaynak verilir?**  
+İşe göre belirlenir. İzleme ile kademeli ayarlanır.
+
+**Konteyner farkı nedir?**  
+Makine sistem taşır, konteyner uygulama. Yalıtım ve hız takas edilir.
 
 ## İlgili terimler
 - [Containers](/dictionary/containers/)

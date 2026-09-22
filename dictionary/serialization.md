@@ -1,4 +1,4 @@
-# Serialization nedir?
+# Serialization nedir, ne demek ve nasıl çalışır?
 
 **Kategori:** Geliştirme  
 **Son güncelleme:** 2026-09-19

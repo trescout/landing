@@ -22,7 +22,7 @@ Relay prevents the connection from being lost when the distance is too far or th
 
 
 ## Related terms
-- [Networking Stack](/en/dictionary/networking-stack/)
+- [Network Stack](/en/dictionary/network-stack/)
 - [Proxy](/en/dictionary/proxy/)
 - [VPN](/en/dictionary/vpn/)
 

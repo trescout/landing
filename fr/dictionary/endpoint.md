@@ -20,7 +20,7 @@ Car la plupart des cyberattaques commencent par infiltrer le réseau via un ordi
 
 
 ## Termes liés
-- [Networking Stack](/fr/dictionary/networking-stack/)
+- [Network Stack](/fr/dictionary/network-stack/)
 - [VPN](/fr/dictionary/vpn/)
 - [Security Scanner](/fr/dictionary/security-scanner/)
 

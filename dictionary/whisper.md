@@ -1,29 +1,56 @@
-# Whisper nedir?
+# Whisper nedir, ne demek?
 
 **Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-07-14
+**Son güncelleme:** 2026-09-22
 
-Konuşulan dili yüksek doğrulukla metne dönüştüren, yapay zekâ tabanlı bir ses tanıma teknolojisidir.
+Whisper, OpenAI tarafından geliştirilen açık kaynak konuşma tanıma modelidir.
 
-## Tanım
-Whisper, OpenAI tarafından geliştirilmiş, çok dilli ve çok yönlü bir ses tanıma modelidir. Arka plan gürültüsü olsa bile konuşmaları oldukça başarılı bir şekilde yazıya dökebilir. Çeviri yapma yeteneği de vardır, yani farklı dillerdeki sesleri metne çevirebilir.
+## Tanım ve Kelime Kökeni
+"Whisper" **fısıltı** demektir. Çok dilli ve gürültüye dayanıklıdır, çeviri de yapar. Toplantıdan altyazıya ses işlerinin yükünü alır.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Altyazı:** Video metni.
+- **Tutanak:** Toplantı kaydı.
+- **Komut:** Sesli arayüz.
+
+## Teknik Derinlik ve Mimari
+Hat:
+- **Kodlayıcı:** Sesi sayısal vektöre çevirir.
+- **Kod çözücü:** Metni üretir.
+- **Dil algısı:** Dili tanıyıp çevirir.
+
+Yerel çalıştırma:
+
+```
+whisper konusma.mp3 --language tr --model small
+```
+
+Model büyüdükçe isabet artar, süre uzar. Gizli işte bulut yerine yerel koşulur.
+
+## Sık Karıştırılanlar
+Genel transkripsiyonla karışır. Whisper bir modeldir, transkripsiyon iştir. Biri alet, diğeri zanaattır.
+
+## Farklı Disiplinlerde Kullanımı
+- **Sekreter:** Konuşurken not alma.
+- **Tercüman:** Dilden dile aktarma.
+- **Daktilo:** Söyleneni yazma.
 
 ## Bir benzetmeyle
-Dünyadaki neredeyse tüm dilleri bilen ve gürültülü bir ortamda bile söylenen her kelimeyi kusursuzca not alan bir sekreter gibidir.
-
-## Nasıl çalışır?
-Sesi küçük parçalara ayırır, bu parçaları dil modelleriyle eşleştirir ve anlamlı cümleler haline getirerek metne dönüştürür.
-
-## Nerede kullanılır?
-Video altyazı oluşturma araçlarında, toplantı notu tutan uygulamalarda ve sesli komut sistemlerinde kullanılır.
-
-## Sık karıştırılanlar
-Diğer ses tanıma araçlarından, çok geniş dil desteği ve yüksek doğruluk oranıyla ayrılır.
+Gürültüde bile her kelimeyi yakalayan dikkatli sekreter gibidir.
 
 ## Sıkça sorulanlar
 
-**Whisper'ı kendi uygulamamda kullanabilir miyim?**  
-Evet, Whisper açık kaynaklı bir model olduğu için geliştiriciler kendi projelerine entegre edebilir.
+**Kendi uygulamamda kullanabilir miyim?**  
+Evet. Açık kaynak lisansla projeye gömülür, ticari kullanım metne bakılarak yapılır.
+
+**Türkçe destekler mi?**  
+Evet. Temiz kayıtta isabeti yüksektir, jargon denetlenir.
+
+**Çeviri yapar mı?**  
+Evet. Sesi başka dilde metne çevirebilir, kritik işte redakte edilir.
+
+**Donanım gerekir mi?**  
+Küçük model CPU ile koşar, büyük model GPU ister.
 
 ## İlgili terimler
 - [Speech-to-Text](/dictionary/speech-to-text/)

@@ -1,4 +1,4 @@
-# Productivity ne demek? Nedir, nasıl ölçülür ve geliştirici üretkenliği nasıldır?
+# Productivity ne demek? Nedir, nasıl artırılır?
 
 **Kategori:** Yapay Zekâ  
 **Son güncelleme:** 2026-09-19

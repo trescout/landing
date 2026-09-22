@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Benchmark nedir? · TreScout Sözlük</title>
-<meta name="description" content="Bir yazılımın veya donanımın performansını standart testlerle ölçüp diğerleriyle kıyaslama yöntemidir.">
+<title>Benchmark Nedir? Kıyaslama Testi Rehberi · TreScout</title>
+<meta name="description" content="Benchmark nedir, ne demek? Veri sızıntısı, Goodhart yasası, zamanlama örneği ve test farkıyla kıyaslama rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/benchmark/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/benchmark/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/benchmark/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/benchmark/">
 <link rel="canonical" href="https://trescout.com/dictionary/benchmark/">
-<meta property="og:title" content="Benchmark nedir?">
-<meta property="og:description" content="Bir yazılımın veya donanımın performansını standart testlerle ölçüp diğerleriyle kıyaslama yöntemidir.">
+<meta property="og:title" content="Benchmark Nedir? Kıyaslama Testi Rehberi · TreScout">
+<meta property="og:description" content="Benchmark nedir, ne demek? Veri sızıntısı, Goodhart yasası, zamanlama örneği ve test farkıyla kıyaslama rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/benchmark/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Benchmark nedir?">
+<meta name="twitter:title" content="Benchmark Nedir? Kıyaslama Testi Rehberi · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/benchmark.webp">
 <script type="application/ld+json">
 {
@@ -32,7 +32,7 @@
   "@type": "DefinedTerm",
   "name": "Benchmark",
   "inLanguage": "tr",
-  "description": "Benchmark, bir sistemin ne kadar hızlı, ne kadar akıllı veya ne kadar verimli olduğunu anlamak için kullanılan bir ölçü birimidir. Farklı modelleri veya bilgisayarları aynı zorlu sorulara tabi tutarak kimin daha iyi sonuç verdiğini sayısal olarak ortaya koyar. Bu sayede hangisinin işinize daha uygun olduğunu seçebilirsiniz.",
+  "description": "Benchmark (kıyaslama ölçütü), performansı standart testle ölçüp karşılaştırmadır.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -48,18 +48,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Yüksek benchmark skoru her zaman iyi midir?",
+      "name": "Yüksek skor her zaman iyi midir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Genellikle evet, ancak benchmark testleri bazen gerçek dünya kullanımını tam yansıtmayabilir."
+        "text": "Genellikle evet, ancak test gerçeği yansıtmıyorsa skor yanıltır. Senaryo çeşitliliği aranır."
       }
     },
     {
       "@type": "Question",
-      "name": "Benchmark sonuçlarına güvenmeli miyim?",
+      "name": "Sonuçlara güvenilir mi?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Evet, ama sadece tek bir teste değil, farklı senaryoları içeren genel sonuçlara bakmak daha sağlıklıdır."
+        "text": "Tek teste değil, çok senaryolu tabloya bakılır. Sızıntı denetimi yapılmış set tercih edilir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Veri sızıntısı nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Test sorusunun eğitime karışmasıdır. Model ezberler, skor şişer, gerçek düşer."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Hangi metriğe bakılır?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "İşe göre değişir: Doğruluk, hız ve maliyet birlikte okunur. Teki yetmez."
       }
     }
   ]
@@ -72,7 +88,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Bir yazılımın veya donanımın performansını standart testlerle ölçüp diğerleriyle kıyaslama yöntemidir.">
+<meta name="twitter:description" content="Benchmark nedir, ne demek? Veri sızıntısı, Goodhart yasası, zamanlama örneği ve test farkıyla kıyaslama rehberi.">
 
 <meta property="og:image:alt" content="Benchmark nedir?">
 </head>
@@ -82,12 +98,11 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Yapay Zekâ</span><time class="dict-time" datetime="2026-06-16">Son güncelleme: 16 Haziran 2026</time></div>
-<h1 class="disc-title">Benchmark <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Yapay Zekâ</span><time class="dict-time" datetime="2026-09-22">Son güncelleme: 22 Eylül 2026</time></div>
+<h1 class="disc-title">Benchmark <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">Bir yazılımın veya donanımın performansını standart testlerle ölçüp diğerleriyle kıyaslama yöntemidir.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Benchmark, bir sistemin ne kadar hızlı, ne kadar akıllı veya ne kadar verimli olduğunu anlamak için kullanılan bir ölçü birimidir. Farklı modelleri veya bilgisayarları aynı zorlu sorulara tabi tutarak kimin daha iyi sonuç verdiğini sayısal olarak ortaya koyar. Bu sayede hangisinin işinize daha uygun olduğunu seçebilirsiniz.</p></section><div class="dict-analogy">Okuldaki sınavlar gibidir; tüm öğrencilere aynı soruları sorarsınız ki kimin konuyu daha iyi anladığını adil bir şekilde karşılaştırabilesiniz.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Sisteme önceden belirlenmiş bir görev seti verilir ve bu görevi tamamlama süresi veya doğruluk oranı kaydedilir. Sonuçlar bir skor tablosuna dönüştürülür.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Yapay zekâ modellerinin zekasını ölçmede, işlemci hızlarını karşılaştırmada ve oyunların grafik performansını belirlemede kullanılır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Test ile karıştırılır; test bir şeyin çalışıp çalışmadığını kontrol eder, benchmark ise çalışanın ne kadar iyi olduğunu kıyaslar.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Yüksek benchmark skoru her zaman iyi midir?</p><p class="dict-faq-a">Genellikle evet, ancak benchmark testleri bazen gerçek dünya kullanımını tam yansıtmayabilir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Benchmark sonuçlarına güvenmeli miyim?</p><p class="dict-faq-a">Evet, ama sadece tek bir teste değil, farklı senaryoları içeren genel sonuçlara bakmak daha sağlıklıdır.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/benchmark/">Benchmarks</a><a href="/dictionary/ai-models/">AI Models</a><a href="/dictionary/inference/">Inference</a></div></section>
-<section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/ponytail/">Ponytail</a><a href="/discover/ruview/">RuView</a><a href="/discover/cua/">CUA</a><a href="/discover/whichllm/">Whichllm</a><a href="/discover/sia/">SIA</a><a href="/discover/harvey-labs/">Harvey Labs</a></div></section>
+<p class="disc-lead">Benchmark (Türkçe karşılığıyla <strong>kıyaslama ölçütü</strong>), performansı standart testle ölçüp karşılaştırmadır.</p>
+<section class="disc-sec"><h2>Tanım ve Kelime Kökeni</h2><p>"Bench mark" marangozun tezgaha vurduğu ölçü işaretinden gelir. Sistem aynı sorulara tutulur, skor tablosu çıkar. Hızın, zekânın veya verimin sayısıdır. Modelden işlemciye her şey bu teraziye girer.</p></section><section class="disc-sec"><h2>Gündelik Hayatta Nasıl Bilinir ve Kullanılır?</h2><p><strong>Model:</strong> Zekâ ve doğruluk sıralaması.<br><strong>İşlemci:</strong> Hız karşılaştırması.<br><strong>Oyun:</strong> Kare hızı testleri.</p></section><section class="disc-sec"><h2>Teknik Derinlik ve Mimari</h2><p>Sağlıklı kıyasın kuralları:</p><p><strong>Aynı set:</strong> Herkes aynı soruyu yanıtlar.<br><strong>Sızıntı denetimi:</strong> Test sorusu eğitime karışmışsa skor şişer.<br><strong>Çok metrik:</strong> Tek sayı değil, hız ve doğruluk birlikte.</p><p>Basit süre ölçümü:</p><p><pre><code>time python model.py --eval ornek.jsonl</code></pre></p><p>Goodhart uyarısı: Ölçü hedef olunca oyun başlar. Skor için optimize edilen sistem gerçeği ıskalar.</p></section><section class="disc-sec"><h2>Sık Karıştırılanlar</h2><p>Test sanılır. Test çalışıp çalışmadığına bakar, benchmark ne kadar iyi olduğuna. Biri kapı, diğeri yarışmadır.</p></section><section class="disc-sec"><h2>Farklı Disiplinlerde Kullanımı</h2><p><strong>Sınav:</strong> Aynı soruyla adil sıralama.<br><strong>Atletizm:</strong> Rekor çizelgesi.<br><strong>Marangoz:</strong> Tezgah ölçü işareti.</p></section><div class="dict-analogy">Okuldaki sınav gibidir; herkese aynı soru sorulur, konu hakimiyeti adil kıyaslanır.</div><section class="disc-sec"><h2>Sıkça Sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Yüksek skor her zaman iyi midir?</p><p class="dict-faq-a">Genellikle evet, ancak test gerçeği yansıtmıyorsa skor yanıltır. Senaryo çeşitliliği aranır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Sonuçlara güvenilir mi?</p><p class="dict-faq-a">Tek teste değil, çok senaryolu tabloya bakılır. Sızıntı denetimi yapılmış set tercih edilir.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Veri sızıntısı nedir?</p><p class="dict-faq-a">Test sorusunun eğitime karışmasıdır. Model ezberler, skor şişer, gerçek düşer.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Hangi metriğe bakılır?</p><p class="dict-faq-a">İşe göre değişir: Doğruluk, hız ve maliyet birlikte okunur. Teki yetmez.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/ai-models/">AI Models</a><a href="/dictionary/inference/">Inference</a><a href="/dictionary/kv-cache/">KV Cache</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>

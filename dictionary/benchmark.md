@@ -1,37 +1,61 @@
-# Benchmark nedir?
+# Benchmark nedir, ne demek?
 
 **Kategori:** Yapay Zekâ  
-**Son güncelleme:** 2026-06-16
+**Son güncelleme:** 2026-09-22
 
-Bir yazılımın veya donanımın performansını standart testlerle ölçüp diğerleriyle kıyaslama yöntemidir.
+Benchmark (Türkçe karşılığıyla **kıyaslama ölçütü**), performansı standart testle ölçüp karşılaştırmadır.
 
-## Tanım
-Benchmark, bir sistemin ne kadar hızlı, ne kadar akıllı veya ne kadar verimli olduğunu anlamak için kullanılan bir ölçü birimidir. Farklı modelleri veya bilgisayarları aynı zorlu sorulara tabi tutarak kimin daha iyi sonuç verdiğini sayısal olarak ortaya koyar. Bu sayede hangisinin işinize daha uygun olduğunu seçebilirsiniz.
+## Tanım ve Kelime Kökeni
+"Bench mark" marangozun tezgaha vurduğu ölçü işaretinden gelir. Sistem aynı sorulara tutulur, skor tablosu çıkar. Hızın, zekânın veya verimin sayısıdır. Modelden işlemciye her şey bu teraziye girer.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Model:** Zekâ ve doğruluk sıralaması.
+- **İşlemci:** Hız karşılaştırması.
+- **Oyun:** Kare hızı testleri.
+
+## Teknik Derinlik ve Mimari
+Sağlıklı kıyasın kuralları:
+- **Aynı set:** Herkes aynı soruyu yanıtlar.
+- **Sızıntı denetimi:** Test sorusu eğitime karışmışsa skor şişer.
+- **Çok metrik:** Tek sayı değil, hız ve doğruluk birlikte.
+
+Basit süre ölçümü:
+
+```
+time python model.py --eval ornek.jsonl
+```
+
+Goodhart uyarısı: Ölçü hedef olunca oyun başlar. Skor için optimize edilen sistem gerçeği ıskalar.
+
+## Sık Karıştırılanlar
+Test sanılır. Test çalışıp çalışmadığına bakar, benchmark ne kadar iyi olduğuna. Biri kapı, diğeri yarışmadır.
+
+## Farklı Disiplinlerde Kullanımı
+- **Sınav:** Aynı soruyla adil sıralama.
+- **Atletizm:** Rekor çizelgesi.
+- **Marangoz:** Tezgah ölçü işareti.
 
 ## Bir benzetmeyle
-Okuldaki sınavlar gibidir; tüm öğrencilere aynı soruları sorarsınız ki kimin konuyu daha iyi anladığını adil bir şekilde karşılaştırabilesiniz.
-
-## Nasıl çalışır?
-Sisteme önceden belirlenmiş bir görev seti verilir ve bu görevi tamamlama süresi veya doğruluk oranı kaydedilir. Sonuçlar bir skor tablosuna dönüştürülür.
-
-## Nerede kullanılır?
-Yapay zeka modellerinin zekasını ölçmede, işlemci hızlarını karşılaştırmada ve oyunların grafik performansını belirlemede kullanılır.
-
-## Sık karıştırılanlar
-Test ile karıştırılır; test bir şeyin çalışıp çalışmadığını kontrol eder, benchmark ise çalışanın ne kadar iyi olduğunu kıyaslar.
+Okuldaki sınav gibidir; herkese aynı soru sorulur, konu hakimiyeti adil kıyaslanır.
 
 ## Sıkça sorulanlar
 
-**Yüksek benchmark skoru her zaman iyi midir?**  
-Genellikle evet, ancak benchmark testleri bazen gerçek dünya kullanımını tam yansıtmayabilir.
+**Yüksek skor her zaman iyi midir?**  
+Genellikle evet, ancak test gerçeği yansıtmıyorsa skor yanıltır. Senaryo çeşitliliği aranır.
 
-**Benchmark sonuçlarına güvenmeli miyim?**  
-Evet, ama sadece tek bir teste değil, farklı senaryoları içeren genel sonuçlara bakmak daha sağlıklıdır.
+**Sonuçlara güvenilir mi?**  
+Tek teste değil, çok senaryolu tabloya bakılır. Sızıntı denetimi yapılmış set tercih edilir.
+
+**Veri sızıntısı nedir?**  
+Test sorusunun eğitime karışmasıdır. Model ezberler, skor şişer, gerçek düşer.
+
+**Hangi metriğe bakılır?**  
+İşe göre değişir: Doğruluk, hız ve maliyet birlikte okunur. Teki yetmez.
 
 ## İlgili terimler
-- [Benchmarks](/dictionary/benchmark/)
 - [AI Models](/dictionary/ai-models/)
 - [Inference](/dictionary/inference/)
+- [KV Cache](/dictionary/kv-cache/)
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/benchmark/

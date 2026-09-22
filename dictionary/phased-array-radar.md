@@ -1,32 +1,52 @@
-# Phased Array Radar nedir?
+# Phased Array Radar nedir, ne demek?
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-08-18
+**Son güncelleme:** 2026-09-22
 
-Hareketli parçalar kullanmadan, elektronik sinyallerle yönünü değiştirerek hedefleri takip eden gelişmiş bir radar sistemidir.
+Phased array radar (Türkçe karşılığıyla **faz dizili radar**), ışını elektronik yönlendiren hareketsiz radar sistemidir.
 
-## Tanım
-Geleneksel radarlar anteni fiziksel olarak döndürerek tarama yaparken, bu teknoloji sabit bir anten dizisi kullanır. Elektronik sinyallerin zamanlamasını değiştirerek radar ışınlarını farklı yönlere saptırır. Bu sayede çok daha hızlı ve hassas bir takip imkanı sağlar.
+## Tanım ve Kelime Kökeni
+Klasik radar anteni dönerek tarar, bu sistem sabittir: Dizideki her vericiye giden sinyalin zamanlaması (faz) ayarlanır, dalgalar istenen yönde birleşir. Işın saniyeler içinde yön değiştirir, mekanik parça yoktur.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Savunma:** Hava sahası izleme.
+- **Hava trafik:** Yaklaşma kontrolü.
+- **Otonom araç:** Çevre sensörleri.
+- **Meteoroloji:** Yağış takibi.
+
+## Teknik Derinlik ve Mimari
+Parçalar:
+- **Anten dizisi:** Yüzlerce küçük verici.
+- **Faz kaydırıcı:** Her vericinin zamanlaması.
+- **Hüzmeleme (Beamforming):** Dalgaların yönde toplanması.
+- **Çoklu takip:** Işının hedefler arası hızlı gezmesi.
+
+Üstünlükleri: Hız, aynı anda çok hedef, arızaya dayanıklılık. Bedeli: Maliyet ve işlem yükü. Sivil havacılık ve meteorolojide yaygınlaşması bu yüzden kademeli oldu.
+
+## Sık Karıştırılanlar
+Dönen antenli klasik radar sanılır. Klasikte ayna döner, burada sinyal döner. Hareketli parça yoktur, tarama elektroniktir.
+
+## Farklı Disiplinlerde Kullanımı
+- **Göz:** Başı çevirmeden odak değiştirme.
+- **Hoparlör:** Sesi yöne veren dizi.
+- **El feneri:** Demeti elle çevirmeden yönlendirme.
 
 ## Bir benzetmeyle
-Bir kalabalıkta birini ararken başınızı sürekli sağa sola çevirmek yerine, gözlerinizi hareket ettirmeden sadece odak noktanızı saniyeler içinde değiştirerek bakmaya benzer.
-
-## Nasıl çalışır?
-Anten dizisindeki her bir vericiye giden sinyalin fazı (zamanlaması) hassas bir şekilde ayarlanır. Bu faz farkları, radyo dalgalarının belirli bir yönde birleşmesini sağlar.
-
-## Nerede kullanılır?
-Askeri savunma sistemlerinde, hava trafik kontrolünde ve modern otonom araçların sensörlerinde kullanılır.
-
-## Sık karıştırılanlar
-Dönen antenli klasik radarlarla karıştırılabilir; en büyük fark hareketli parça içermemesidir.
+Kalabalıkta başı çevirmeden göz odağını saniyeler içinde değiştirmeye benzer.
 
 ## Sıkça sorulanlar
 
 **Neden daha avantajlı?**  
-Çok daha hızlı tepki verir ve mekanik arıza riski düşüktür.
+Hızlı tepki verir, çok hedef izler, mekanik arıza riski düşüktür.
 
 **Sadece askeri mi?**  
-Hayır, hava durumu tahminleri ve otonom araç teknolojilerinde de yaygındır.
+Hayır. Hava trafik, meteoroloji ve otonom araçlarda da kullanılır.
+
+**Maliyeti nedir?**  
+Klasik radara göre yüksektir. Dizi ve işlemci bedeli vardır, kritik işlerde ödenir.
+
+**Sivil kullanım yaygın mı?**  
+Artıyor. Maliyet düştükçe havaalanı ve meteoroloji kurulumları çoğalıyor.
 
 ## İlgili terimler
 - [Autonomous Robotics](/dictionary/autonomous-robotics/)

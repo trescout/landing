@@ -1,34 +1,53 @@
-# PVR nedir?
+# PVR nedir, ne demek?
 
 > Personal Video Recorder
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-09-12
+**Son güncelleme:** 2026-09-22
 
-Televizyon yayınlarını dijital ortama kaydedip daha sonra izlemenizi sağlayan teknoloji.
+PVR (**Personal Video Recorder**, kişisel video kaydedici), yayını kaydedip sonra izleten teknolojidir.
 
-## Tanım
-Canlı yayınlanan bir programı o an izleyemiyorsanız, PVR cihazı bunu sizin yerinize sabit diskine kaydeder. Böylece yayını durdurabilir, geri sarabilir veya istediğiniz zaman baştan izleyebilirsiniz. Günümüzde bu işlevin çoğu internet tabanlı yayın platformları tarafından otomatik olarak yapılmaktadır.
+## Tanım ve Kelime Kökeni
+"Personal" **kişisel**, kasetli VCR döneminden dijital diske geçiştir. Canlı izlenemeyen program diske yazılır, durdurulur, geri sarılır. Günümüzde çoğu işlevi internet platformları üstlenir.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Uydu:** Alıcı kutusunda kayıt.
+- **Akıllı TV:** Dahili kayıt.
+- **Spor:** Maçı sonra izleme.
+
+## Teknik Derinlik ve Mimari
+İşlevler:
+- **Kayıt:** Seçili programın diske yazılması.
+- **Timeshift:** Canlıyı duraklatıp devam etme.
+- **EPG:** Rehberden zamanlı kayıt.
+- **Bulut DVR:** Kaydın sunucuda tutulması.
+
+Kural: Telifli içeriğin paylaşımı yasaktır, kişisel izleme serbesttir. Depolama dolunca eski kayıt silinir.
+
+## Sık Karıştırılanlar
+VCR sanılır. VCR kasetlidir, PVR dijitaldir. DVR ile aynı işi yapar, ad kişisel vurgu taşır.
+
+## Farklı Disiplinlerde Kullanımı
+- **Kitap kopyası:** Sonra okumak için ayırma.
+- **Podcast:** İndirip yolda dinleme.
+- **Ekran kaydı:** Dersi arşivleme.
 
 ## Bir benzetmeyle
-Bir kitabın sayfalarını o an okumak yerine, kitabı kopyalayıp daha sonra istediğiniz zaman okumak için kenara ayırmaya benzer.
-
-## Nasıl çalışır?
-Cihazın kumandası üzerinden kayıt tuşuna basarsınız veya bir programlama yaparak cihazın yayını otomatik kaydetmesini sağlarsınız.
-
-## Nerede kullanılır?
-Dijital uydu alıcılarında, akıllı televizyonlarda ve kablolu yayın kutularında bulunur.
-
-## Sık karıştırılanlar
-VCR (video kaset) ile karıştırılmamalıdır; PVR tamamen dijitaldir ve kaset kullanmaz.
+Kitabı o an okumak yerine kopyalayıp kenara ayırmaya benzer.
 
 ## Sıkça sorulanlar
 
 **PVR ile DVR aynı mı?**  
-Evet, teknik olarak aynı işlemi yaparlar; PVR terimi genellikle kişisel cihazları vurgulamak için kullanılır.
+Teknik olarak evet. PVR adında kişisel vurgu vardır, işlev aynıdır.
 
 **Neden hala kullanılıyor?**  
-Canlı spor müsabakaları veya yerel yayınlar gibi internetten izlenmesi zor olan içerikler için hala pratiktir.
+Canlı spor ve yerel yayın gibi internette zor bulunan içerikte pratiktir.
+
+**İnternet varken gerekli mi?**  
+Her yerde değil. Kayıt dışı yayın ve kesinti anında işe yarar.
+
+**Yasal sınırı nedir?**  
+Kişisel izleme serbesttir, paylaşım ve dağıtım yasaktır.
 
 ## İlgili terimler
 - [IPTV](/dictionary/iptv/)

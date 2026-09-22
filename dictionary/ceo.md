@@ -1,31 +1,54 @@
-# CEO nedir?
+# CEO nedir, ne demek?
 
 > Chief Executive Officer
 
 **Kategori:** Geliştirme  
-**Son güncelleme:** 2026-08-06
+**Son güncelleme:** 2026-09-22
 
-Bir şirketin tüm operasyonlarını ve stratejik kararlarını yöneten en üst düzey yetkilidir.
+CEO (**Chief Executive Officer**, en üst yönetici), şirketin tüm operasyon ve stratejisinden sorumlu kişidir.
 
-## Tanım
-CEO, bir organizasyonun kaptanı gibidir. Şirketin hedeflerini belirler, büyük kararların sorumluluğunu üstlenir ve ekibin vizyon doğrultusunda ilerlemesini sağlar. Günlük işleyişten ziyade kurumun geleceğine odaklanır.
+## Tanım ve Kelime Kökeni
+Kurumun kaptanıdır: Hedefi belirler, büyük kararın sorumluluğunu üstlenir, ekibi vizyonda tutar. Günlük işten çok geleceğe bakar. Yönetim kurulu tarafından atanır, kurula hesap verir.
+
+## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
+- **Kurumsal:** Yıllık hedef ve bütçe onayı.
+- **Girişim:** Yatırım turu ve işe alım.
+- **Kriz:** Yön değişikliği kararı.
+
+## Teknik Derinlik ve Mimari
+İş listesi:
+- **Strateji:** Nereye oynanacağı.
+- **Sermaye:** Paranın hangi işe ayrılacağı.
+- **Kadro:** Üst ekibin kurulması.
+- **Kurul ilişkisi:** Raporlama ve onay akışı.
+- **Paydaş:** Yatırımcı, çalışan ve müşteri dengesi.
+
+Kural: CEO her işe karışmaz, karışması gereken işi seçer. Operasyon departmanlardadır, yön kendisindedir.
+
+## Sık Karıştırılanlar
+Chair sanılır. CEO icraat yapar, chair kurulu yönetir. Biri gemiyi sürer, diğeri rotayı denetler.
+
+## Farklı Disiplinlerde Kullanımı
+- **Gemi:** Rotayı çizen kaptan.
+- **Orkestra:** Tempoyu veren şef.
+- **Teknik direktör:** Kadroyu kuran hoca.
 
 ## Bir benzetmeyle
-Bir gemideki kaptan gibidir; geminin nereye gideceğine karar verir ve tüm mürettebatın koordineli çalışmasından sorumludur.
-
-## Nasıl çalışır?
-CEO, yönetim kurulu tarafından atanır ve şirketin başarısı için stratejiler geliştirir. Yatırımcılar, çalışanlar ve müşteriler arasında köprü kurar.
-
-## Nerede kullanılır?
-Kurumsal şirketlerde, teknoloji girişimlerinde ve büyük ölçekli organizasyonlarda bulunur.
-
-## Sık karıştırılanlar
-Yönetim kurulu başkanı (Chair) ile karıştırılabilir; CEO icraat yapar, Chair ise kurulu yönetir.
+Gemideki kaptan gibidir; geminin nereye gideceğine karar verir ve mürettebatın koordineli çalışmasından sorumludur.
 
 ## Sıkça sorulanlar
 
 **CEO her işe karışır mı?**  
-Hayır, CEO daha çok stratejik kararlara odaklanır ve operasyonel işleri departman yöneticilerine devreder.
+Hayır. Stratejiye odaklanır, operasyonu departmanlara bırakır.
+
+**Nasıl olunur?**  
+Alan derinliği, liderlik geçmişi ve kurul güveni gerekir. Tek yol yoktur.
+
+**Kurucu ile farkı nedir?**  
+Kurucu başlatır, CEO işletir. Bazen aynı kişidir, büyüyünce ayrışır.
+
+**Chair ile farkı nedir?**  
+CEO icrayı yönetir, chair kurulu yönetir. İkisi birbirini dengeler.
 
 ## İlgili terimler
 - [Project Management](/dictionary/project-management/)

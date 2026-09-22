@@ -23,7 +23,7 @@ Não, os dados não podem ser lidos diretamente por humanos, pois estão em form
 
 ## Termos relacionados
 - [API](/pt/dictionary/api/)
-- [Networking Stack](/pt/dictionary/networking-stack/)
+- [Network Stack](/pt/dictionary/network-stack/)
 - [Serialization](/pt/dictionary/serialization/)
 
 ## Ferramentas relacionadas

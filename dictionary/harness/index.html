@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Harness nedir? · TreScout Sözlük</title>
-<meta name="description" content="Bir yazılımın veya sistemin beklenen standartlarda çalışıp çalışmadığını denetleyen kontrol mekanizmasıdır.">
+<title>Harness Nedir? Test Koşum Takımı Rehberi · TreScout</title>
+<meta name="description" content="Harness nedir, ne demek? Fixture, pytest örneği, mock ve kapsam hedefiyle test koşum rehberi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/harness/">
 <link rel="alternate" hreflang="en" href="https://trescout.com/en/dictionary/harness/">
@@ -14,8 +14,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/harness/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/harness/">
 <link rel="canonical" href="https://trescout.com/dictionary/harness/">
-<meta property="og:title" content="Harness nedir?">
-<meta property="og:description" content="Bir yazılımın veya sistemin beklenen standartlarda çalışıp çalışmadığını denetleyen kontrol mekanizmasıdır.">
+<meta property="og:title" content="Harness Nedir? Test Koşum Takımı Rehberi · TreScout">
+<meta property="og:description" content="Harness nedir, ne demek? Fixture, pytest örneği, mock ve kapsam hedefiyle test koşum rehberi.">
 <meta property="og:url" content="https://trescout.com/dictionary/harness/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -24,7 +24,7 @@
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Harness nedir?">
+<meta name="twitter:title" content="Harness Nedir? Test Koşum Takımı Rehberi · TreScout">
 <meta name="twitter:image" content="https://trescout.com/assets/dictionary/og/harness.webp">
 <script type="application/ld+json">
 {
@@ -32,7 +32,7 @@
   "@type": "DefinedTerm",
   "name": "Harness",
   "inLanguage": "tr",
-  "description": "Yazılım dünyasında harness, genellikle test süreçlerini otomatize eden bir çerçevedir. Bir kod parçası yazıldığında, bu kodun farklı senaryolarda doğru tepki verip vermediğini sürekli kontrol eder. Sistemin 'sağlık kontrolü'nü yapan bir güvenlik ağı gibidir.",
+  "description": "Harness (test koşum takımı), kodu otomatik test eden çerçevedir.",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
     "name": "TreScout Teknoloji Sözlüğü",
@@ -48,18 +48,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Test harness neden gereklidir?",
+      "name": "Neden gereklidir?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "İnsan hatasını azaltmak ve kodun her değişimde bozulmadığından emin olmak için."
+        "text": "İnsan hatasını azaltır, her değişimde bozulmayı yakalar."
       }
     },
     {
       "@type": "Question",
-      "name": "Her yazılım için bir harness şart mı?",
+      "name": "Her yazılımda şart mı?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Profesyonel projelerde güvenilirliği sağlamak için standart bir uygulamadır."
+        "text": "Profesyonel işte standarttır. Deneme kodunda abartı olur."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Ne zaman yazılır?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kodla birlikte, tercihen önce. Sonraya kalan test yarım kalır."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Kapsam hedefi nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ekipçe belirlenir. Kritik yolda yüksek, kenarda düşük tutulur."
       }
     }
   ]
@@ -72,7 +88,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 <link rel="stylesheet" href="/assets/dictionary.css">
 
-<meta name="twitter:description" content="Bir yazılımın veya sistemin beklenen standartlarda çalışıp çalışmadığını denetleyen kontrol mekanizmasıdır.">
+<meta name="twitter:description" content="Harness nedir, ne demek? Fixture, pytest örneği, mock ve kapsam hedefiyle test koşum rehberi.">
 
 <meta property="og:image:alt" content="Harness nedir?">
 </head>
@@ -82,12 +98,12 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/dictionary/">← Sözlük</a>
-<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-07-22">Son güncelleme: 22 Temmuz 2026</time></div>
-<h1 class="disc-title">Harness <span class="disc-accent">nedir?</span></h1>
+<div class="disc-top"><span class="disc-eyebrow">Sözlük · Geliştirme</span><time class="dict-time" datetime="2026-09-22">Son güncelleme: 22 Eylül 2026</time></div>
+<h1 class="disc-title">Harness <span class="disc-accent">nedir, ne demek?</span></h1>
 
-<p class="disc-lead">Bir yazılımın veya sistemin beklenen standartlarda çalışıp çalışmadığını denetleyen kontrol mekanizmasıdır.</p>
-<section class="disc-sec"><h2>Tanım</h2><p>Yazılım dünyasında harness, genellikle test süreçlerini otomatize eden bir çerçevedir. Bir kod parçası yazıldığında, bu kodun farklı senaryolarda doğru tepki verip vermediğini sürekli kontrol eder. Sistemin &#x27;sağlık kontrolü&#x27;nü yapan bir güvenlik ağı gibidir.</p></section><div class="dict-analogy">Bir araba fabrikasında üretilen her aracın frenlerinin, motorunun ve ışıklarının test edildiği o otomatik kontrol hattı bir harness&#x27;tır.</div><section class="disc-sec"><h2>Nasıl çalışır?</h2><p>Geliştiriciler, kodları için test senaryoları yazar ve bu senaryoları bir harness içerisine yerleştirir. Sistem, kod her güncellendiğinde bu testleri otomatik olarak çalıştırır ve hata varsa uyarı verir.</p></section><section class="disc-sec"><h2>Nerede kullanılır?</h2><p>Yazılım geliştirme süreçlerinde, sürekli entegrasyon (CI) hatlarında ve kalite kontrol aşamalarında kullanılır.</p></section><section class="disc-sec"><h2>Sık karıştırılanlar</h2><p>Sadece yazılımın kendisi değil, yazılımı test eden &#x27;çevre&#x27; veya &#x27;altyapı&#x27;dır.</p></section><section class="disc-sec"><h2>Sıkça sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Test harness neden gereklidir?</p><p class="dict-faq-a">İnsan hatasını azaltmak ve kodun her değişimde bozulmadığından emin olmak için.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Her yazılım için bir harness şart mı?</p><p class="dict-faq-a">Profesyonel projelerde güvenilirliği sağlamak için standart bir uygulamadır.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/testing-framework/">Testing Framework</a><a href="/dictionary/unit-testing/">Unit Testing</a><a href="/dictionary/qa/">QA</a></div></section>
-<section class="disc-sec"><h2>İlgili araçlar</h2><div class="dict-related"><a href="/discover/jcode/">Jcode</a><a href="/discover/harness/">Harness · Ajan Ekip Fabrikası</a><a href="/discover/munder-difflin/">Munder Difflin</a><a href="/discover/claude-code-harness/">Claude Code Harness</a></div></section>
+<p class="disc-lead">Harness (Türkçe karşılığıyla <strong>test koşum takımı</strong>), kodu otomatik test eden çerçevedir.</p>
+<section class="disc-sec"><h2>Tanım ve Kelime Kökeni</h2><p>"Harness" <strong>koşum takımı</strong> demektir. Kod her güncellendiğinde testler koşar, bozulma uyarısı verir. Sistemin sağlık kontrolünü yapan güvenlik ağıdır.</p></section><section class="disc-sec"><h2>Gündelik Hayatta Nasıl Bilinir ve Kullanılır?</h2><p><strong>Geliştirme:</strong> Her commit sonrası test.<br><strong>CI:</strong> Hattaki otomatik kapı.<br><strong>Kalite:</strong> Sürüm öncesi tarama.</p></section><section class="disc-sec"><h2>Teknik Derinlik ve Mimari</h2><p>Parçalar:</p><p><strong>Test senaryosu:</strong> Beklenen davranış tanımı.<br><strong>Fixture:</strong> Hazır test verisi.<br><strong>Mock:</strong> Dış servisin taklidi.<br><strong>Rapor:</strong> Geçen ve kalan listesi.</p><p>Örnek:</p><p><pre><code>def test_toplama():
+    assert topla(2, 3) == 5</code></pre></p><p>Kural: Hızlı testler her committe, yavaşlar gecede koşar. Kapsam hedefi ekipçe belirlenir.</p></section><section class="disc-sec"><h2>Sık Karıştırılanlar</h2><p>Yazılımın kendisi sanılır. Oysa harness kodu değil, kodu denetleyen çevredir. Biri oyuncu, diğeri hakemdir.</p></section><section class="disc-sec"><h2>Farklı Disiplinlerde Kullanımı</h2><p><strong>Fabrika hattı:</strong> Her aracın fren ve far denetimi.<br><strong>Emniyet kemeri:</strong> Çarpışmada tutan düzenek.<br><strong>Antrenman:</strong> Performans ölçüm parkuru.</p></section><div class="dict-analogy">Fabrikada her aracın fren ve farını denetleyen otomatik kontrol hattı gibidir.</div><section class="disc-sec"><h2>Sıkça Sorulanlar</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Neden gereklidir?</p><p class="dict-faq-a">İnsan hatasını azaltır, her değişimde bozulmayı yakalar.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Her yazılımda şart mı?</p><p class="dict-faq-a">Profesyonel işte standarttır. Deneme kodunda abartı olur.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Ne zaman yazılır?</p><p class="dict-faq-a">Kodla birlikte, tercihen önce. Sonraya kalan test yarım kalır.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Kapsam hedefi nedir?</p><p class="dict-faq-a">Ekipçe belirlenir. Kritik yolda yüksek, kenarda düşük tutulur.</p></div></div></section><section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related"><a href="/dictionary/testing-framework/">Testing Framework</a><a href="/dictionary/unit-testing/">Unit Testing</a><a href="/dictionary/qa/">QA</a></div></section>
 <aside class="disc-cta"><p><strong>Her sabah Sektörden Terimler e-postanızda.</strong> Teknoloji dünyasında her gün yeni bir terim çıkıyor; geride kalmamak için TreScout'a katılın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/dictionary/">Tüm sözlük →</a></aside>
 <p class="disc-disclaimer">Bu açıklama TreScout için sade dille hazırlandı · yanlış ya da eksik gördüğünüz bir şey olursa <a href="mailto:hello@trescout.com">hello@trescout.com</a>. TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.</p>
 </article>
