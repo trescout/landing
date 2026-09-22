@@ -53,7 +53,7 @@ Kendi elektrik santralinizi kurmak yerine şebekeden elektrik satın almak gibid
 Donanım yatırımı yapmadan kurumsal altyapıya anında erişirsiniz. Trafik dalgalıysa ölçekleme ve hazır servisler zaman kazandırır.
 
 **Ücretsiz başlanabilir mi?**  
-Evet, yeni hesaplara 12 ay sınırlı ücretsiz katman sunulur. Limitleri ve bitiş tarihini takip etmeniz gerekir.
+Evet. Yeni hesaplar için ücretsiz plan, kredi ve süre koşulları zamanla değişebilir; başlamadan önce AWS Free Tier sayfasındaki güncel limitleri kontrol etmeniz gerekir.
 
 **Verilerim nerede tutulur?**  
 Seçtiğiniz bölgede tutulur. KVKK gibi düzenlemeler için bölge seçimini ve şifrelemeyi politikanıza göre yapmanız gerekir.

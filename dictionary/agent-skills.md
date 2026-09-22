@@ -3,10 +3,10 @@
 **Kategori:** Yapay Zekâ  
 **Son güncelleme:** 2026-09-22
 
-Agent skills (Türkçe karşılığıyla **ajan yetenekleri**), ajanların iş yapan araç setleridir.
+Agent skills (Türkçe karşılığıyla **ajan yetenekleri**), bir ajanın belirli bir görevi tutarlı biçimde yapması için gereken talimatları, araçları ve kaynakları bir araya getiren paketlerdir.
 
 ## Tanım ve Kelime Kökeni
-Ajan dünyayla yetenekleriyle konuşur: Arama yapar, dosya okur, kod çalıştırır. Yetenek çokluğu değil, doğru yetenek işi bitirir. Kavram sesli asistan becerilerinden ajan dönemine taşındı.
+Bir skill, ajana hangi işi ne zaman ve hangi sınırlar içinde yapacağını anlatır. Arama, dosya okuma veya kod çalıştırma gibi araçlara erişim sağlayabilir; ancak her skill doğrudan bir araç değildir. İyi tasarlanmış skill, gerekli bağlamı ve doğrulama adımlarını açıkça tanımlar.
 
 ## Gündelik Hayatta Nasıl Bilinir ve Kullanılır?
 - **Platform:** Hazır yetenek kütüphaneleri.
@@ -14,17 +14,17 @@ Ajan dünyayla yetenekleriyle konuşur: Arama yapar, dosya okur, kod çalıştı
 - **Geliştirme:** Depo ve test araçları.
 
 ## Teknik Derinlik ve Mimari
-Yetenek tarifi:
+Biçim platforma göre değişir; sadeleştirilmiş bir skill tanımı şöyledir:
 
 ```
 {
-  "name": "dosya-oku",
-  "description": "Belirtilen dosyayı okur",
-  "parameters": { "yol": "string" }
+  "name": "dosya-ozetle",
+  "description": "Belirtilen dosyadan kısa bir özet çıkarır",
+  "instructions": ["Önce dosyayı oku.", "Hassas veriyi özet içinde maskele."]
 }
 ```
 
-Akış: Görev gelir, ajan açıklamaya bakıp yeteneği seçer, parametreyi doldurur, sonucu değerlendirir. Yazma yetkisi onay ister. Kural: Az ve net yetenek, çok ve muğlak yetenekten iyidir.
+Akış: Görev gelir, ajan açıklamaya göre uygun skill'i seçer, gerekli araçları çağırır ve sonucu doğrular. Yazma, ağ veya ödeme gibi etkili işlemlerde uygulamanın yetki sınırları ve gerektiğinde insan onayı devreye girer. Kural: Az ve net skill, çok ve belirsiz skill'den iyidir.
 
 ## Sık Karıştırılanlar
 Genel zekâ sanılır. Oysa kastedilen belirli işi yapma becerisidir. Model anlar, yetenek yapar.
@@ -40,7 +40,7 @@ Ajanı İsviçre çakısına benzetirseniz, yetenekler bıçak, tornavida ve mak
 ## Sıkça sorulanlar
 
 **Yetenekleri ben mi ekliyorum?**  
-Genellikle evet. Araçları siz tanımlarsınız veya hazır kütüphaneden seçersiniz.
+Platforma göre değişir. Bazı ortamlarda hazır skill'ler seçilir, bazılarında ekip kendi skill paketlerini tanımlar.
 
 **Her ajanın yeteneği aynı mıdır?**  
 Hayır. Amaca göre özelleştirilir, veri analisti ajanla kodcu ajanın seti farklıdır.
