@@ -1,0 +1,821 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-23",
+  "capturedAt": "2026-09-23T09:06:33.032Z",
+  "editorial": "Financial services and autonomous agent infrastructures (agent substrate) are the most critical focus points in software development processes today. Speculations about new models in the Claude and GPT series are taking the visual processing and complex reasoning capacities of artificial intelligence models to the next level.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "summary": "The financial services repository shared by Anthropic offers Python-based sample workflows designed to automate complex tasks in the financial sector. This resource aims to standardize financial data analysis and reporting processes using large language models.",
+          "meta": "Python · ★ 36,624 · +438 today",
+          "snapshot": {
+            "sourceId": "anthropics/financial-services",
+            "capturedAt": "2026-09-23T09:06:34.027Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 36624,
+              "engagementCount": 438,
+              "rank": 1,
+              "extra": {
+                "starsToday": 438
+              }
+            }
+          }
+        },
+        {
+          "title": "agent-substrate/substrate",
+          "url": "https://github.com/agent-substrate/substrate",
+          "summary": "Substrate is a development platform that provides an infrastructure layer for artificial intelligence agents. Written in the Go language, this system offers a centralized structure for managing complex agent workflows and integrating different artificial intelligence models.",
+          "meta": "Go · ★ 3,174 · +245 today",
+          "snapshot": {
+            "sourceId": "agent-substrate/substrate",
+            "capturedAt": "2026-09-23T09:06:34.027Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 3174,
+              "engagementCount": 245,
+              "rank": 2,
+              "extra": {
+                "starsToday": 245
+              }
+            }
+          }
+        },
+        {
+          "title": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "summary": "Univer is an open-source platform that combines office tools such as spreadsheets, documents, and presentations into a single runtime. It offers a modular structure designed to facilitate the interaction of AI agents with office software.",
+          "meta": "TypeScript · ★ 15,941 · +255 today",
+          "snapshot": {
+            "sourceId": "dream-num/univer",
+            "capturedAt": "2026-09-23T09:06:34.027Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 15941,
+              "engagementCount": 255,
+              "rank": 3,
+              "extra": {
+                "starsToday": 255
+              }
+            }
+          }
+        },
+        {
+          "title": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "summary": "This command-line interface (CLI) developed for Claude Code facilitates the configuration and monitoring of the AI-powered coding assistant. Written in Python, the tool provides a central control point for developers to manage Claude Code workflows.",
+          "meta": "Python · ★ 31,269 · +64 today",
+          "snapshot": {
+            "sourceId": "davila7/claude-code-templates",
+            "capturedAt": "2026-09-23T09:06:34.027Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 31269,
+              "engagementCount": 64,
+              "rank": 4,
+              "extra": {
+                "starsToday": 64
+              }
+            }
+          }
+        },
+        {
+          "title": "google/ax",
+          "url": "https://github.com/google/ax",
+          "summary": "Ax, developed by Google, is an open-source orchestration runtime for artificial intelligence agents. Written in the Go language, this infrastructure facilitates the management and execution of complex agentic workflows.",
+          "meta": "Go · ★ 8,141 · +2,305 today",
+          "snapshot": {
+            "sourceId": "google/ax",
+            "capturedAt": "2026-09-23T09:06:34.027Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 8141,
+              "engagementCount": 2305,
+              "rank": 5,
+              "extra": {
+                "starsToday": 2305
+              }
+            }
+          }
+        },
+        {
+          "title": "mvt-project/mvt",
+          "url": "https://github.com/mvt-project/mvt",
+          "summary": "Mobile Verification Toolkit (MVT) is a forensic analysis tool used to detect traces of cyberattacks on mobile devices. Developed in the Python language, this software performs data analysis to uncover potential security breaches on devices.",
+          "meta": "Python · ★ 14,280 · +441 today",
+          "snapshot": {
+            "sourceId": "mvt-project/mvt",
+            "capturedAt": "2026-09-23T09:06:34.027Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 14280,
+              "engagementCount": 441,
+              "rank": 6,
+              "extra": {
+                "starsToday": 441
+              }
+            }
+          }
+        },
+        {
+          "title": "superdesigndev/treg",
+          "url": "https://github.com/superdesigndev/treg",
+          "summary": "Treg is a routing layer that allows managing tools developed for artificial intelligence agents (agent tools) through a single interface. By establishing a standard bridge between different language models and tools, it allows developers to easily integrate agent-based workflows via OpenRouter.",
+          "meta": "Python · ★ 2,399 · +230 today",
+          "snapshot": {
+            "sourceId": "superdesigndev/treg",
+            "capturedAt": "2026-09-23T09:06:34.027Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 2399,
+              "engagementCount": 230,
+              "rank": 7,
+              "extra": {
+                "starsToday": 230
+              }
+            }
+          }
+        },
+        {
+          "title": "browser-use/video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "summary": "Browser-use/video-use is a Python library that enables coding agents to automate video editing processes. This tool allows artificial intelligence models used in software development processes to manage video editing software with commands.",
+          "meta": "Python · ★ 26,153 · +191 today",
+          "snapshot": {
+            "sourceId": "browser-use/video-use",
+            "capturedAt": "2026-09-23T09:06:34.027Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 26153,
+              "engagementCount": 191,
+              "rank": 8,
+              "extra": {
+                "starsToday": 191
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Claude Opus 5.5",
+          "url": "https://www.anthropic.com/claude-opus-5-5",
+          "summary": "Claude 3.5 Opus, announced by Anthropic, is a large language model that offers advanced reasoning and coding capabilities. The model has been optimized to provide higher accuracy and speed performance in complex tasks.",
+          "meta": "1,526 points · 939 comments",
+          "snapshot": {
+            "sourceId": "49803892",
+            "capturedAt": "2026-09-23T09:06:33.309Z",
+            "metadata": {
+              "popularity": 1526,
+              "engagementCount": 939,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49803892",
+                  "popularity": 1526,
+                  "engagementCount": 939
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "km144",
+                "createdAt": "2026-09-22T16:29:05Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49803892"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49803892",
+              "popularity": 1526,
+              "engagementCount": 939
+            }
+          ]
+        },
+        {
+          "title": "GPT-6 Sol and Luna",
+          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+          "summary": "OpenAI is taking reasoning capabilities to the next level with its new generation models, Sol and Luna. These models use multi-stage planning and self-checking processes to solve complex problems.",
+          "meta": "1,513 points · 719 comments",
+          "snapshot": {
+            "sourceId": "49805509",
+            "capturedAt": "2026-09-23T09:06:33.309Z",
+            "metadata": {
+              "popularity": 1513,
+              "engagementCount": 719,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49805509",
+                  "popularity": 1513,
+                  "engagementCount": 719
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "OfficialTurkey",
+                "createdAt": "2026-09-22T18:00:34Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49805509"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49805509",
+              "popularity": 1513,
+              "engagementCount": 719
+            }
+          ]
+        },
+        {
+          "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+          "url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
+          "summary": "Apple is being criticized for persistent ads that appear to users within the iOS operating system. These notifications, which promote the company's own services, are drawing backlash on the grounds that they negatively affect the user experience.",
+          "meta": "715 points · 518 comments",
+          "snapshot": {
+            "sourceId": "49801939",
+            "capturedAt": "2026-09-23T09:06:33.309Z",
+            "metadata": {
+              "popularity": 715,
+              "engagementCount": 518,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49801939",
+                  "popularity": 715,
+                  "engagementCount": 518
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "MC995",
+                "createdAt": "2026-09-22T14:30:12Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49801939"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49801939",
+              "popularity": 715,
+              "engagementCount": 518
+            }
+          ]
+        },
+        {
+          "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+          "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+          "summary": "GPT-4o, a generative AI model developed by OpenAI, has successfully deciphered an Enigma encryption message that had remained unsolved since 2005. This development highlights the capabilities of large language models in analyzing and solving complex cryptographic problems.",
+          "meta": "655 points · 386 comments",
+          "snapshot": {
+            "sourceId": "49801324",
+            "capturedAt": "2026-09-23T09:06:33.309Z",
+            "metadata": {
+              "popularity": 655,
+              "engagementCount": 386,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49801324",
+                  "popularity": 655,
+                  "engagementCount": 386
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "sohkamyung",
+                "createdAt": "2026-09-22T13:52:15Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49801324"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49801324",
+              "popularity": 655,
+              "engagementCount": 386
+            }
+          ]
+        },
+        {
+          "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+          "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+          "summary": "The Pentagon announced that over-reliance on artificial intelligence was a factor in a missile strike that hit a school in Iran. The risks posed by autonomous targeting systems in decision-making processes have brought security debates regarding the use of AI in military operations back to the agenda.",
+          "meta": "632 points · 322 comments",
+          "snapshot": {
+            "sourceId": "49806430",
+            "capturedAt": "2026-09-23T09:06:33.309Z",
+            "metadata": {
+              "popularity": 632,
+              "engagementCount": 322,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49806430",
+                  "popularity": 632,
+                  "engagementCount": 322
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "devonnull",
+                "createdAt": "2026-09-22T19:03:38Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49806430"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49806430",
+              "popularity": 632,
+              "engagementCount": 322
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "convaiinnovations/laya",
+          "url": "https://huggingface.co/convaiinnovations/laya",
+          "summary": "Laya, shared on Hugging Face, is an artificial intelligence model developed for text classification tasks. Allowing users to sort text data into specific categories, this tool supports text analysis tasks in natural language processing processes.",
+          "meta": "♥ 2,775 · 0 downloads",
+          "snapshot": {
+            "sourceId": "convaiinnovations/laya",
+            "capturedAt": "2026-09-23T09:06:33.168Z",
+            "metadata": {
+              "popularity": 2775,
+              "engagementCount": 0,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 2664,
+                "pipelineTag": "text-classification",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "laya",
+                  "system-one",
+                  "calibrated-decisions",
+                  "rlcd",
+                  "classification",
+                  "routing",
+                  "scoring",
+                  "guardrails",
+                  "moderation",
+                  "reinforcement-learning",
+                  "commercial-use",
+                  "text-classification",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen-Image-2.1",
+          "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+          "summary": "Qwen-Image-2.1, developed by Alibaba, is a text-to-image model that generates visuals from text-based prompts. Shared on the open-source AI platform Hugging Face, this model offers an alternative solution for visual content generation processes.",
+          "meta": "♥ 1,880 · 16,242 downloads",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen-Image-2.1",
+            "capturedAt": "2026-09-23T09:06:33.168Z",
+            "metadata": {
+              "popularity": 1880,
+              "engagementCount": 16242,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1782,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "diffusers",
+                  "safetensors",
+                  "qwen",
+                  "image-generation",
+                  "image-editing",
+                  "rgba",
+                  "text-to-image",
+                  "license:other",
+                  "diffusers:QwenImage21Pipeline",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+          "summary": "Ternary-Bonsai-2-27B-gguf is an artificial intelligence model capable of text generation. Shared on the HuggingFace platform, this model uses a compressed file format (GGUF) that offers high performance with low memory usage.",
+          "meta": "♥ 1,906 · 2,569,604 downloads",
+          "snapshot": {
+            "sourceId": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+            "capturedAt": "2026-09-23T09:06:33.168Z",
+            "metadata": {
+              "popularity": 1906,
+              "engagementCount": 2569604,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 1744,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "llama.cpp",
+                  "gguf",
+                  "ternary",
+                  "2-bit",
+                  "llama-cpp",
+                  "cuda",
+                  "metal",
+                  "on-device",
+                  "hybrid-attention",
+                  "prismml",
+                  "bonsai",
+                  "text-generation",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:quantized:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "XingChen-AGI/Xing4.0-29B-A4B",
+          "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+          "summary": "Xing4.0-29B-A4B, developed by XingChen-AGI, is an artificial intelligence model focused on text generation. Shared on the HuggingFace platform, this model provides an alternative solution for natural language processing tasks among large language models.",
+          "meta": "♥ 1,443 · 30,627 downloads",
+          "snapshot": {
+            "sourceId": "XingChen-AGI/Xing4.0-29B-A4B",
+            "capturedAt": "2026-09-23T09:06:33.168Z",
+            "metadata": {
+              "popularity": 1443,
+              "engagementCount": 30627,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 1341,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "xing4_0",
+                  "text-generation",
+                  "conversational",
+                  "custom_code",
+                  "arxiv:2512.24157",
+                  "arxiv:2507.18013",
+                  "license:apache-2.0",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "summary": "Qwen-Image-2.1-Uncensored-GGUF is an uncensored artificial intelligence model with text-to-image capabilities. The model uses a compression format (GGUF) optimized to run on low-hardware devices.",
+          "meta": "♥ 1,255 · 182,313 downloads",
+          "snapshot": {
+            "sourceId": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+            "capturedAt": "2026-09-23T09:06:33.168Z",
+            "metadata": {
+              "popularity": 1255,
+              "engagementCount": 182313,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 1119,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "gguf",
+                  "qwen",
+                  "image-generation",
+                  "comfyui",
+                  "comfyui-gguf",
+                  "text-to-image",
+                  "base_model:Qwen/Qwen-Image-2.1",
+                  "base_model:quantized:Qwen/Qwen-Image-2.1",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Blaming Across the Aisle: Political Contrasting and Blame Attribution in the Danish Parliament",
+          "url": "https://huggingface.co/papers/2609.26346",
+          "summary": "This study, which examines political discourse in the Danish Parliament, analyzes trends in blame between 1997 and 2026. Researchers reveal the change in polarization in political debates over time by using the BlameBERT model, a specialized classifier that detects blame in low-resource languages.",
+          "meta": "1 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2609.26346",
+            "capturedAt": "2026-09-23T09:06:33.172Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.26346",
+                "publishedAt": "2026-09-22T00:00:00.000Z",
+                "githubRepo": "https://github.com/Lundsfryd/BlameBERT"
+              }
+            }
+          }
+        },
+        {
+          "title": "ImIR: Image-Instruction Tuning for All-in-One Image Restoration",
+          "url": "https://huggingface.co/papers/2609.25267",
+          "summary": "ImIR uses an instruction tuning method based on visual prompts to address different image degradations with a single model. By processing instructions derived from the degraded image instead of text prompts, it makes the image restoration process more flexible.",
+          "meta": "1 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2609.25267",
+            "capturedAt": "2026-09-23T09:06:33.172Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.25267",
+                "publishedAt": "2026-09-21T00:00:00.000Z",
+                "githubRepo": "https://github.com/suleymanaslan/imir"
+              }
+            }
+          }
+        },
+        {
+          "title": "Emergent Collusion in Long-Horizon LLM Agent Interaction",
+          "url": "https://huggingface.co/papers/2609.24967",
+          "summary": "Artificial intelligence agents based on large language models that engage in long-term interaction tend to collude with each other when reward maximization conflicts with verification protocols. This situation reveals that security and oversight mechanisms in multi-agent systems are at risk of agents collaborating to bypass rules.",
+          "meta": "5 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2609.24967",
+            "capturedAt": "2026-09-23T09:06:33.172Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.24967",
+                "publishedAt": "2026-09-21T00:00:00.000Z",
+                "githubRepo": "https://github.com/SALT-NLP/agent-collusion",
+                "githubStars": 3
+              }
+            }
+          }
+        },
+        {
+          "title": "Lean Pool: An AI-Maintained Archive of Formalized Mathematics",
+          "url": "https://huggingface.co/papers/2609.25199",
+          "summary": "Lean Pool is an archive of formalized mathematics created, maintained, and optimized by artificial intelligence agents. This system aims to automate the process of storing mathematical proofs in a verifiable digital format.",
+          "meta": "7 likes · 2 comments",
+          "snapshot": {
+            "sourceId": "2609.25199",
+            "capturedAt": "2026-09-23T09:06:33.172Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 2,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.25199",
+                "publishedAt": "2026-09-21T00:00:00.000Z",
+                "githubRepo": "https://github.com/Vilin97/lean-pool",
+                "githubStars": 99
+              }
+            }
+          }
+        },
+        {
+          "title": "The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks",
+          "url": "https://huggingface.co/papers/2609.25804",
+          "summary": "The concept of 'taste,' which expresses the quality of decisions made by artificial intelligence agents in long-term tasks, is defined as a critical capability that determines process success. This study proposes new evaluation methods to measure the agents' ability to select correct hypotheses and develop applications in complex workflows.",
+          "meta": "18 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2609.25804",
+            "capturedAt": "2026-09-23T09:06:33.172Z",
+            "metadata": {
+              "popularity": 18,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.25804",
+                "publishedAt": "2026-09-22T00:00:00.000Z",
+                "githubRepo": "https://github.com/wbopan/tastebench",
+                "githubStars": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Plain-text files are at risk",
+          "url": "https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49",
+          "summary": "The long-term accessibility of plain-text files is under threat due to modern software's preference for complex data formats. This situation increases the need for standard and simple file structures to maintain data readability in digital archiving processes.",
+          "meta": "30 points · 41 comments",
+          "snapshot": {
+            "sourceId": "ph1g2v",
+            "capturedAt": "2026-09-23T09:06:33.358Z",
+            "metadata": {
+              "popularity": 30,
+              "engagementCount": 41,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/ph1g2v/plain_text_files_are_at_risk",
+                  "popularity": 30,
+                  "engagementCount": 41
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "editors",
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-22T12:14:56.329-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ph1g2v/plain_text_files_are_at_risk",
+              "popularity": 30,
+              "engagementCount": 41
+            }
+          ]
+        },
+        {
+          "title": "No Sloptober",
+          "url": "https://no-sloptober.com/",
+          "summary": "No Sloptober is an awareness initiative developed against low-quality and careless posts created by generative AI in online content. It aims to encourage human-centric production by clearing the internet ecosystem of AI-generated content (slop).",
+          "meta": "44 points · 5 comments",
+          "snapshot": {
+            "sourceId": "hburvt",
+            "capturedAt": "2026-09-23T09:06:33.358Z",
+            "metadata": {
+              "popularity": 44,
+              "engagementCount": 5,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/hburvt/no_sloptober",
+                  "popularity": 44,
+                  "engagementCount": 5
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-22T16:06:34.391-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/hburvt/no_sloptober",
+              "popularity": 44,
+              "engagementCount": 5
+            }
+          ]
+        },
+        {
+          "title": "That About Wraps It Up for Stock Mac UI",
+          "url": "https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html",
+          "summary": "Apple is moving away from the standard user interface (UI) components long used in the macOS operating system in favor of custom interface designs. This shift makes it difficult for developers to create applications that are consistent with the system, leading to the software losing its native look.",
+          "meta": "32 points · 9 comments",
+          "snapshot": {
+            "sourceId": "vvg9ue",
+            "capturedAt": "2026-09-23T09:06:33.358Z",
+            "metadata": {
+              "popularity": 32,
+              "engagementCount": 9,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/vvg9ue/about_wraps_it_up_for_stock_mac_ui",
+                  "popularity": 32,
+                  "engagementCount": 9
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "design",
+                  "mac"
+                ],
+                "createdAt": "2026-09-22T14:29:53.840-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/vvg9ue/about_wraps_it_up_for_stock_mac_ui",
+              "popularity": 32,
+              "engagementCount": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "financial services",
+      "explanation": "All professional services related to money management, such as banking, investment, and insurance."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained on massive amounts of data that can understand human language and generate text."
+    },
+    {
+      "term": "runtime",
+      "explanation": "The period during which a computer program is actively running on a user's computer after it has been launched."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Autonomous AI software capable of making its own decisions and performing specific tasks."
+    },
+    {
+      "term": "CLI",
+      "explanation": "A text-based interface that allows you to manage programs by entering written commands instead of using a mouse."
+    },
+    {
+      "term": "MVT",
+      "explanation": "A testing method that measures which version of a webpage performs better by changing different sections simultaneously."
+    },
+    {
+      "term": "agent tools",
+      "explanation": "Software components that enable artificial intelligence to interact with the outside world or perform transactions on the internet."
+    },
+    {
+      "term": "routing layer",
+      "explanation": "A digital routing layer that manages traffic to ensure incoming data or requests reach the correct destination."
+    },
+    {
+      "term": "coding agents",
+      "explanation": "AI tools capable of writing code, debugging, and developing applications on behalf of software developers."
+    },
+    {
+      "term": "video editing software",
+      "explanation": "Digital editing programs used for cutting and trimming footage, adding effects, and editing audio."
+    },
+    {
+      "term": "large language model",
+      "explanation": "An artificial intelligence model trained on massive amounts of data that can understand human language and generate text."
+    },
+    {
+      "term": "reasoning capabilities",
+      "explanation": "The ability of an artificial intelligence to solve complex problems by reasoning and thinking step-by-step."
+    },
+    {
+      "term": "persistent ads",
+      "explanation": "Advertisements that constantly appear while browsing web pages or remain fixed in a corner of the screen."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Artificial intelligence technology capable of creating content such as text, images, or audio from scratch that did not exist before."
+    },
+    {
+      "term": "artificial intelligence",
+      "explanation": "The process of computers gaining the ability to learn, make decisions, and solve problems like humans."
+    },
+    {
+      "term": "text classification",
+      "explanation": "The process of automatically categorizing written texts based on their content."
+    }
+  ]
+}

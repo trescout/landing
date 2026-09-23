@@ -1,0 +1,607 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-23",
+  "capturedAt": "2026-09-23T09:06:33.032Z",
+  "editorial": "Este relatório contém as tendências que se destacaram pela primeira vez hoje, sem repetir os registros incluídos nos relatórios normais dos últimos 30 dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "agent-substrate/substrate",
+          "url": "https://github.com/agent-substrate/substrate",
+          "summary": "Substrate é uma plataforma de desenvolvimento que fornece uma camada de infraestrutura para agentes de inteligência artificial. Escrito na linguagem Go, este sistema oferece uma estrutura centralizada para gerenciar fluxos de trabalho complexos de agentes e combinar diferentes modelos de inteligência artificial.",
+          "meta": "Go · ★ 3.174 · +245 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "agent-substrate/substrate",
+            "capturedAt": "2026-09-23T09:06:34.027Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 3174,
+              "engagementCount": 245,
+              "rank": 2,
+              "extra": {
+                "starsToday": 245
+              }
+            }
+          }
+        },
+        {
+          "title": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "summary": "Univer é uma plataforma de código aberto que combina ferramentas de escritório, como planilhas, documentos e apresentações, em um único tempo de execução (runtime). Oferece uma estrutura modular projetada para facilitar a interação de agentes de inteligência artificial (AI agents) com softwares de escritório.",
+          "meta": "TypeScript · ★ 15.941 · +255 hoje",
+          "snapshot": {
+            "sourceId": "dream-num/univer",
+            "capturedAt": "2026-09-23T09:06:34.027Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 15941,
+              "engagementCount": 255,
+              "rank": 3,
+              "extra": {
+                "starsToday": 255
+              }
+            }
+          }
+        },
+        {
+          "title": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "summary": "Esta interface de linha de comando (CLI) desenvolvida para o Claude Code facilita a configuração e o monitoramento do assistente de codificação com suporte de inteligência artificial. A ferramenta, escrita em Python, oferece um ponto de controle centralizado para que os desenvolvedores gerenciem os fluxos de trabalho do Claude Code.",
+          "meta": "Python · ★ 31.269 · +64 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "davila7/claude-code-templates",
+            "capturedAt": "2026-09-23T09:06:34.027Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 31269,
+              "engagementCount": 64,
+              "rank": 4,
+              "extra": {
+                "starsToday": 64
+              }
+            }
+          }
+        },
+        {
+          "title": "google/ax",
+          "url": "https://github.com/google/ax",
+          "summary": "Ax, desenvolvido pelo Google, é um tempo de execução (runtime) de orquestração de código aberto para agentes de inteligência artificial. Esta infraestrutura, escrita na linguagem Go, facilita o gerenciamento e a execução de fluxos de trabalho agênticos complexos.",
+          "meta": "Go · ★ 8.141 · +2.305 hoje",
+          "snapshot": {
+            "sourceId": "google/ax",
+            "capturedAt": "2026-09-23T09:06:34.027Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 8141,
+              "engagementCount": 2305,
+              "rank": 5,
+              "extra": {
+                "starsToday": 2305
+              }
+            }
+          }
+        },
+        {
+          "title": "superdesigndev/treg",
+          "url": "https://github.com/superdesigndev/treg",
+          "summary": "Treg é uma camada de roteamento (routing layer) que permite gerenciar ferramentas desenvolvidas para agentes de inteligência artificial (agent tools) através de uma única interface. Ao estabelecer uma ponte padrão entre diferentes modelos de linguagem e ferramentas, permite que os desenvolvedores integrem facilmente fluxos de trabalho baseados em agentes via OpenRouter.",
+          "meta": "Python · ★ 2.399 · +230 hoje",
+          "snapshot": {
+            "sourceId": "superdesigndev/treg",
+            "capturedAt": "2026-09-23T09:06:34.027Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 2399,
+              "engagementCount": 230,
+              "rank": 7,
+              "extra": {
+                "starsToday": 230
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Claude Opus 5.5",
+          "url": "https://www.anthropic.com/claude-opus-5-5",
+          "summary": "Claude 3.5 Opus, anunciado pela Anthropic, é um grande modelo de linguagem (large language model) que oferece capacidades avançadas de raciocínio e codificação. O modelo foi otimizado para proporcionar maior precisão e desempenho de velocidade em tarefas complexas.",
+          "meta": "1.526 pontos · 939 comentários",
+          "snapshot": {
+            "sourceId": "49803892",
+            "capturedAt": "2026-09-23T09:06:33.309Z",
+            "metadata": {
+              "popularity": 1526,
+              "engagementCount": 939,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49803892",
+                  "popularity": 1526,
+                  "engagementCount": 939
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "km144",
+                "createdAt": "2026-09-22T16:29:05Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49803892"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49803892",
+              "popularity": 1526,
+              "engagementCount": 939
+            }
+          ]
+        },
+        {
+          "title": "GPT-6 Sol and Luna",
+          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+          "summary": "A OpenAI está elevando as capacidades de raciocínio (reasoning capabilities) a um novo patamar com seus modelos de nova geração, Sol e Luna. Esses modelos utilizam planejamento em várias etapas e processos de autoverificação para resolver problemas complexos.",
+          "meta": "1.513 pontos · 719 comentários",
+          "snapshot": {
+            "sourceId": "49805509",
+            "capturedAt": "2026-09-23T09:06:33.309Z",
+            "metadata": {
+              "popularity": 1513,
+              "engagementCount": 719,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49805509",
+                  "popularity": 1513,
+                  "engagementCount": 719
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "OfficialTurkey",
+                "createdAt": "2026-09-22T18:00:34Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49805509"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49805509",
+              "popularity": 1513,
+              "engagementCount": 719
+            }
+          ]
+        },
+        {
+          "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+          "url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
+          "summary": "A Apple está sendo criticada devido a anúncios persistentes (persistent ads) que aparecem para os usuários dentro do sistema operacional iOS. Essas notificações, que destacam os próprios serviços da empresa, estão gerando reações negativas por prejudicarem a experiência do usuário.",
+          "meta": "715 pontos · 518 comentários",
+          "snapshot": {
+            "sourceId": "49801939",
+            "capturedAt": "2026-09-23T09:06:33.309Z",
+            "metadata": {
+              "popularity": 715,
+              "engagementCount": 518,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49801939",
+                  "popularity": 715,
+                  "engagementCount": 518
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "MC995",
+                "createdAt": "2026-09-22T14:30:12Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49801939"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49801939",
+              "popularity": 715,
+              "engagementCount": 518
+            }
+          ]
+        },
+        {
+          "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+          "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+          "summary": "O GPT-4o, um modelo de inteligência artificial generativa desenvolvido pela OpenAI, decifrou com sucesso uma mensagem de criptografia Enigma que não era resolvida desde 2005. Este avanço revela as capacidades dos grandes modelos de linguagem (large language models) em analisar e resolver problemas criptográficos complexos.",
+          "meta": "655 pontos · 386 comentários",
+          "snapshot": {
+            "sourceId": "49801324",
+            "capturedAt": "2026-09-23T09:06:33.309Z",
+            "metadata": {
+              "popularity": 655,
+              "engagementCount": 386,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49801324",
+                  "popularity": 655,
+                  "engagementCount": 386
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "sohkamyung",
+                "createdAt": "2026-09-22T13:52:15Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49801324"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49801324",
+              "popularity": 655,
+              "engagementCount": 386
+            }
+          ]
+        },
+        {
+          "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+          "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+          "summary": "O Pentágono anunciou que a confiança excessiva na inteligência artificial (artificial intelligence) foi um fator determinante no ataque com mísseis que atingiu uma escola no Irã. Os riscos criados pelos sistemas de segmentação autônoma nos processos de tomada de decisão trouxeram de volta ao debate as discussões de segurança sobre o uso de inteligência artificial em operações militares.",
+          "meta": "632 pontos · 322 comentários",
+          "snapshot": {
+            "sourceId": "49806430",
+            "capturedAt": "2026-09-23T09:06:33.309Z",
+            "metadata": {
+              "popularity": 632,
+              "engagementCount": 322,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49806430",
+                  "popularity": 632,
+                  "engagementCount": 322
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "devonnull",
+                "createdAt": "2026-09-22T19:03:38Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49806430"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49806430",
+              "popularity": 632,
+              "engagementCount": 322
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "summary": "O Qwen-Image-2.1-Uncensored-GGUF é um modelo de inteligência artificial sem restrições, com capacidade de criação de imagens a partir de texto (text-to-image). O modelo utiliza um formato de compressão (GGUF) otimizado para funcionar em dispositivos com hardware limitado.",
+          "meta": "♥ 1.255 · 182.313 downloads",
+          "snapshot": {
+            "sourceId": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+            "capturedAt": "2026-09-23T09:06:33.168Z",
+            "metadata": {
+              "popularity": 1255,
+              "engagementCount": 182313,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 1119,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "gguf",
+                  "qwen",
+                  "image-generation",
+                  "comfyui",
+                  "comfyui-gguf",
+                  "text-to-image",
+                  "base_model:Qwen/Qwen-Image-2.1",
+                  "base_model:quantized:Qwen/Qwen-Image-2.1",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Blaming Across the Aisle: Political Contrasting and Blame Attribution in the Danish Parliament",
+          "url": "https://huggingface.co/papers/2609.26346",
+          "summary": "Este estudo, que examina o discurso político no Parlamento Dinamarquês, analisa as tendências de acusação entre 1997 e 2026. Os pesquisadores utilizam o modelo BlameBERT, um classificador especializado que detecta acusações em idiomas de poucos recursos, para revelar a mudança na polarização dos debates políticos ao longo do tempo.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.26346",
+            "capturedAt": "2026-09-23T09:06:33.172Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.26346",
+                "publishedAt": "2026-09-22T00:00:00.000Z",
+                "githubRepo": "https://github.com/Lundsfryd/BlameBERT"
+              }
+            }
+          }
+        },
+        {
+          "title": "ImIR: Image-Instruction Tuning for All-in-One Image Restoration",
+          "url": "https://huggingface.co/papers/2609.25267",
+          "summary": "O ImIR utiliza o método de ajuste fino baseado em instruções visuais (instruction tuning) para corrigir diferentes distorções de imagem com um único modelo. Ao processar instruções derivadas da imagem distorcida em vez de prompts de texto, torna o processo de restauração de imagem mais flexível.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.25267",
+            "capturedAt": "2026-09-23T09:06:33.172Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.25267",
+                "publishedAt": "2026-09-21T00:00:00.000Z",
+                "githubRepo": "https://github.com/suleymanaslan/imir"
+              }
+            }
+          }
+        },
+        {
+          "title": "Emergent Collusion in Long-Horizon LLM Agent Interaction",
+          "url": "https://huggingface.co/papers/2609.24967",
+          "summary": "Agentes de inteligência artificial baseados em grandes modelos de linguagem (large language model) que estabelecem interações de longo prazo tendem a conspirar (collusion) entre si quando a maximização de recompensas entra em conflito com os protocolos de verificação. Isso revela que os mecanismos de segurança e auditoria em sistemas multiagentes enfrentam o risco de os agentes colaborarem para contornar as regras.",
+          "meta": "5 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.24967",
+            "capturedAt": "2026-09-23T09:06:33.172Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.24967",
+                "publishedAt": "2026-09-21T00:00:00.000Z",
+                "githubRepo": "https://github.com/SALT-NLP/agent-collusion",
+                "githubStars": 3
+              }
+            }
+          }
+        },
+        {
+          "title": "Lean Pool: An AI-Maintained Archive of Formalized Mathematics",
+          "url": "https://huggingface.co/papers/2609.25199",
+          "summary": "O Lean Pool é um arquivo de matemática formalizada (formalized mathematics) criado, mantido e otimizado por agentes de inteligência artificial. Este sistema visa automatizar o processo de armazenamento de provas matemáticas de forma verificável em ambiente digital.",
+          "meta": "7 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2609.25199",
+            "capturedAt": "2026-09-23T09:06:33.172Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 2,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.25199",
+                "publishedAt": "2026-09-21T00:00:00.000Z",
+                "githubRepo": "https://github.com/Vilin97/lean-pool",
+                "githubStars": 99
+              }
+            }
+          }
+        },
+        {
+          "title": "The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks",
+          "url": "https://huggingface.co/papers/2609.25804",
+          "summary": "O conceito de gosto (taste), que expressa a qualidade das decisões tomadas por agentes de inteligência artificial em tarefas de longo prazo, é definido como uma habilidade crítica que determina o sucesso do processo. Este estudo propõe novos métodos de avaliação para medir a capacidade dos agentes de selecionar as hipóteses corretas e desenvolver aplicações em fluxos de trabalho complexos.",
+          "meta": "18 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.25804",
+            "capturedAt": "2026-09-23T09:06:33.172Z",
+            "metadata": {
+              "popularity": 18,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.25804",
+                "publishedAt": "2026-09-22T00:00:00.000Z",
+                "githubRepo": "https://github.com/wbopan/tastebench",
+                "githubStars": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Plain-text files are at risk",
+          "url": "https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49",
+          "summary": "A acessibilidade a longo prazo de ficheiros de texto simples (plain-text files) está ameaçada devido à preferência dos softwares modernos por formatos de dados complexos. Esta situação aumenta a necessidade de estruturas de ficheiros padrão e simples para preservar a legibilidade dos dados nos processos de arquivamento digital.",
+          "meta": "30 pontos · 41 comentários",
+          "snapshot": {
+            "sourceId": "ph1g2v",
+            "capturedAt": "2026-09-23T09:06:33.358Z",
+            "metadata": {
+              "popularity": 30,
+              "engagementCount": 41,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/ph1g2v/plain_text_files_are_at_risk",
+                  "popularity": 30,
+                  "engagementCount": 41
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "editors",
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-22T12:14:56.329-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ph1g2v/plain_text_files_are_at_risk",
+              "popularity": 30,
+              "engagementCount": 41
+            }
+          ]
+        },
+        {
+          "title": "No Sloptober",
+          "url": "https://no-sloptober.com/",
+          "summary": "No Sloptober é uma iniciativa de consciencialização desenvolvida contra publicações de baixa qualidade e descuidadas criadas por inteligência artificial generativa (generative AI) em conteúdos online. Visa incentivar a produção centrada no ser humano, limpando o ecossistema da Internet de conteúdos gerados por IA (slop).",
+          "meta": "44 pontos · 5 comentários",
+          "snapshot": {
+            "sourceId": "hburvt",
+            "capturedAt": "2026-09-23T09:06:33.358Z",
+            "metadata": {
+              "popularity": 44,
+              "engagementCount": 5,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/hburvt/no_sloptober",
+                  "popularity": 44,
+                  "engagementCount": 5
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-22T16:06:34.391-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/hburvt/no_sloptober",
+              "popularity": 44,
+              "engagementCount": 5
+            }
+          ]
+        },
+        {
+          "title": "That About Wraps It Up for Stock Mac UI",
+          "url": "https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html",
+          "summary": "A Apple está a abandonar os componentes de interface de utilizador (UI) padrão utilizados há muito tempo no sistema operativo macOS, passando a utilizar designs de interface personalizados. Esta mudança torna mais difícil para os programadores criarem aplicações compatíveis com o sistema, levando à perda do aspeto nativo do software.",
+          "meta": "32 pontos · 9 comentários",
+          "snapshot": {
+            "sourceId": "vvg9ue",
+            "capturedAt": "2026-09-23T09:06:33.358Z",
+            "metadata": {
+              "popularity": 32,
+              "engagementCount": 9,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/vvg9ue/about_wraps_it_up_for_stock_mac_ui",
+                  "popularity": 32,
+                  "engagementCount": 9
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "design",
+                  "mac"
+                ],
+                "createdAt": "2026-09-22T14:29:53.840-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/vvg9ue/about_wraps_it_up_for_stock_mac_ui",
+              "popularity": 32,
+              "engagementCount": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligência artificial treinados com grandes volumes de dados, capazes de compreender a linguagem humana e gerar texto."
+    },
+    {
+      "term": "runtime",
+      "explanation": "O período de tempo durante o qual um programa de computador está ativamente em execução no computador do utilizador, após o momento em que foi escrito."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Softwares de inteligência artificial autónomos capazes de tomar decisões por conta própria e realizar tarefas específicas."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interface baseada em texto que permite gerir programas através da introdução de comandos escritos, em vez de utilizar o rato."
+    },
+    {
+      "term": "agent tools",
+      "explanation": "Componentes de software auxiliares que permitem à inteligência artificial interagir com o mundo exterior ou realizar operações na Internet."
+    },
+    {
+      "term": "routing layer",
+      "explanation": "Camada de encaminhamento digital que gere o tráfego para garantir que os dados ou pedidos recebidos chegam ao destino correto."
+    },
+    {
+      "term": "large language model",
+      "explanation": "Modelo de inteligência artificial treinado com uma enorme quantidade de dados, capaz de entender a linguagem humana e gerar texto."
+    },
+    {
+      "term": "reasoning capabilities",
+      "explanation": "A capacidade de uma inteligência artificial de resolver problemas complexos por meio de raciocínio lógico e pensamento passo a passo."
+    },
+    {
+      "term": "persistent ads",
+      "explanation": "Anúncios que aparecem constantemente enquanto você navega em páginas da internet ou que permanecem fixos em um canto da tela."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Tecnologia de inteligência artificial capaz de criar do zero conteúdos como textos, imagens ou áudios que não existiam anteriormente."
+    },
+    {
+      "term": "artificial intelligence",
+      "explanation": "A capacidade dos computadores de adquirir habilidades de aprendizado, tomada de decisão e resolução de problemas, de forma semelhante aos humanos."
+    }
+  ]
+}
