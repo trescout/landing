@@ -12,23 +12,10 @@ function makeClock() {
   };
 }
 
-test('reports unavailable in production when distributed protection is not configured', async () => {
-  // docs/ENV.md §4 · production'da Upstash yoksa endpoint fail-closed davranır.
-  const limiter = createRateLimiter({
-    env: { VERCEL_ENV: 'production' },
-    now: makeClock().now,
-  });
-
-  assert.deepEqual(await limiter.check('203.0.113.20'), {
-    limited: false,
-    unavailable: true,
-  });
-});
-
-test('uses isolate-local fallback outside production when distributed protection is not configured', async () => {
+test('uses isolate-local fallback when distributed protection is not configured', async () => {
   const clock = makeClock();
   const limiter = createRateLimiter({
-    env: { VERCEL_ENV: 'preview' },
+    env: { VERCEL_ENV: 'production' },
     now: clock.now,
   });
 
@@ -40,6 +27,21 @@ test('uses isolate-local fallback outside production when distributed protection
 
   clock.advance(10 * 60 * 1000 + 1);
   assert.equal((await limiter.check('203.0.113.20')).limited, false);
+});
+
+test('reports unavailable when explicitly configured with UPSTASH_RATE_LIMIT_FAIL_CLOSED', async () => {
+  const limiter = createRateLimiter({
+    env: {
+      VERCEL_ENV: 'production',
+      UPSTASH_RATE_LIMIT_FAIL_CLOSED: 'true',
+    },
+    now: makeClock().now,
+  });
+
+  assert.deepEqual(await limiter.check('203.0.113.20'), {
+    limited: false,
+    unavailable: true,
+  });
 });
 
 test('uses an atomic Upstash transaction and enforces the distributed count', async () => {
@@ -81,47 +83,11 @@ test('uses an atomic Upstash transaction and enforces the distributed count', as
   ]);
 });
 
-test('reports unavailable in production when Upstash returns an error', async () => {
-  const limiter = createRateLimiter({
-    env: {
-      VERCEL_ENV: 'production',
-      UPSTASH_REDIS_REST_URL: 'https://example.upstash.io',
-      UPSTASH_REDIS_REST_TOKEN: 'test-token',
-    },
-    fetchImpl: async () => new Response('', { status: 503 }),
-    now: makeClock().now,
-  });
-
-  assert.deepEqual(await limiter.check('203.0.113.23'), {
-    limited: false,
-    unavailable: true,
-  });
-});
-
-test('reports unavailable in production when the Upstash request throws', async () => {
-  const limiter = createRateLimiter({
-    env: {
-      VERCEL_ENV: 'production',
-      UPSTASH_REDIS_REST_URL: 'https://example.upstash.io',
-      UPSTASH_REDIS_REST_TOKEN: 'test-token',
-    },
-    fetchImpl: async () => {
-      throw new TypeError('network error');
-    },
-    now: makeClock().now,
-  });
-
-  assert.deepEqual(await limiter.check('203.0.113.24'), {
-    limited: false,
-    unavailable: true,
-  });
-});
-
-test('falls back to local rate limiting outside production when Upstash returns an error', async () => {
+test('falls back to local rate limiting when Upstash returns an error', async () => {
   const clock = makeClock();
   const limiter = createRateLimiter({
     env: {
-      VERCEL_ENV: 'preview',
+      VERCEL_ENV: 'production',
       UPSTASH_REDIS_REST_URL: 'https://example.upstash.io',
       UPSTASH_REDIS_REST_TOKEN: 'test-token',
     },
@@ -132,5 +98,43 @@ test('falls back to local rate limiting outside production when Upstash returns 
   assert.deepEqual(await limiter.check('203.0.113.23'), {
     limited: false,
     unavailable: false,
+  });
+});
+
+test('falls back to local rate limiting when the Upstash request throws', async () => {
+  const clock = makeClock();
+  const limiter = createRateLimiter({
+    env: {
+      VERCEL_ENV: 'production',
+      UPSTASH_REDIS_REST_URL: 'https://example.upstash.io',
+      UPSTASH_REDIS_REST_TOKEN: 'test-token',
+    },
+    fetchImpl: async () => {
+      throw new TypeError('network error');
+    },
+    now: clock.now,
+  });
+
+  assert.deepEqual(await limiter.check('203.0.113.24'), {
+    limited: false,
+    unavailable: false,
+  });
+});
+
+test('reports unavailable when UPSTASH_RATE_LIMIT_FAIL_CLOSED is true and Upstash returns an error', async () => {
+  const limiter = createRateLimiter({
+    env: {
+      VERCEL_ENV: 'production',
+      UPSTASH_REDIS_REST_URL: 'https://example.upstash.io',
+      UPSTASH_REDIS_REST_TOKEN: 'test-token',
+      UPSTASH_RATE_LIMIT_FAIL_CLOSED: 'true',
+    },
+    fetchImpl: async () => new Response('', { status: 503 }),
+    now: makeClock().now,
+  });
+
+  assert.deepEqual(await limiter.check('203.0.113.23'), {
+    limited: false,
+    unavailable: true,
   });
 });

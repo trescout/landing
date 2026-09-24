@@ -25,11 +25,10 @@ export function createRateLimiter({
 } = {}) {
   const redisUrl = (env.UPSTASH_REDIS_REST_URL || '').replace(/\/+$/, '');
   const redisToken = env.UPSTASH_REDIS_REST_TOKEN || '';
-  // Production'da dağıtık sayaç yoksa isolate-local Map koruma sayılmaz:
-  // her isolate kendi sayacını tutar, saldırgan yeni isolate'lerle limiti
-  // sessizce atlatır. Bu yüzden production fail-closed davranır (docs/ENV.md §4,
-  // docs/BETA-MEASUREMENT.md). Local/preview'da fallback yeterli.
-  const failClosed = env.VERCEL_ENV === 'production';
+  // Varsayılan: Upstash yoksa veya geçici kesinti yaşarsa yerel bellek sayacına
+  // gracefully fallback yapılır; erken erişim kayıt akışı 503 ile kesilmez.
+  // Yalnızca açıkça UPSTASH_RATE_LIMIT_FAIL_CLOSED=true set edilirse fail-closed davranır.
+  const failClosed = (env.UPSTASH_RATE_LIMIT_FAIL_CLOSED || '').trim().toLowerCase() === 'true';
   const rateHits = new Map();
 
   async function checkDistributed(ip) {
