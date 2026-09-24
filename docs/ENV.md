@@ -8,8 +8,9 @@ Bu repo Vercel'a deploy edildiğinde gerekli olan environment değişkenleri.
 |---|---|---|
 | `RESEND_API_KEY` | ✅ | Resend API key · "Full access" veya minimum `audiences:write` + `emails:send` scope'lu |
 | `RESEND_AUDIENCE_ID` | ✅ | Resend Audience UUID · erken erişim e-postaları buraya kaydedilir |
-| `UPSTASH_REDIS_REST_URL` | ✅ production | Upstash Redis REST URL · atomik dağıtık rate limit transaction’ı için |
-| `UPSTASH_REDIS_REST_TOKEN` | ✅ production | Upstash Redis REST token · yalnız Vercel server env’de tutulur |
+| `UPSTASH_REDIS_REST_URL` | ❌ isteğe bağlı | Upstash Redis REST URL · dağıtık rate limit için (yoksa bellek içi fallback çalışır) |
+| `UPSTASH_REDIS_REST_TOKEN` | ❌ isteğe bağlı | Upstash Redis REST token · yalnız Vercel server env’de tutulur |
+| `UPSTASH_RATE_LIMIT_FAIL_CLOSED` | ❌ | Redis yoksa/çökerse formu 503 ile kapatma kilidi · **varsayılan KAPALI** |
 | `SUBSCRIBE_NOTIFY_ENABLED` | ❌ | Yönetici bildirim e-postası kilidi · **varsayılan KAPALI**, yalnız `true` açar |
 
 ## Kurulum adımları
@@ -43,7 +44,7 @@ Bu repo Vercel'a deploy edildiğinde gerekli olan environment değişkenleri.
 1. https://console.upstash.com/redis → aynı bölgeye bir Redis database oluşturun.
 2. REST URL ve REST token değerlerini Vercel `trescout-landing` projesinin **Production** ve gerekiyorsa **Preview** environment’larına ekleyin.
 3. `UPSTASH_REDIS_REST_URL` ve `UPSTASH_REDIS_REST_TOKEN` frontend’e, HTML asset’lerine veya GitHub Actions loglarına yazılmamalıdır.
-4. Rate limit sayacı Upstash’ın atomik `/multi-exec` transaction endpoint’i üzerinden artırılır. Production’da bu iki değişken yoksa endpoint fail-closed davranır ve yeni kayıtları geçici olarak `503` ile durdurur; bu, dağıtık koruma varmış gibi davranıp rate limit’i sessizce atlatmaktan daha güvenlidir.
+4. Rate limit sayacı Upstash’ın atomik `/multi-exec` transaction endpoint’i üzerinden artırılır. Upstash değişkenleri yoksa veya geçici bir kesinti yaşanırsa, erken erişim kaydı durdurulmaz; güvenli yerel bellek (in-memory) fallback devreye girer. Yalnızca `UPSTASH_RATE_LIMIT_FAIL_CLOSED=true` set edilirse fail-closed davranır.
 
 5. Redeploy
 
@@ -97,7 +98,7 @@ için değişkeni silmek veya `false` yapmak yeterlidir.
 ## Güvenlik notları
 
 - `RESEND_API_KEY`, `UPSTASH_REDIS_REST_URL` ve `UPSTASH_REDIS_REST_TOKEN` sadece sunucu tarafında kullanılır (Edge Function). Frontend'e sızmaz.
-- Production’da Upstash yoksa process-memory fallback kullanılmaz; endpoint kayıt kabul etmez.
+- Upstash erişilemez olduğunda veya tanımlı değilken kayıtların kesilmemesi için process-memory fallback devreye girer (UPSTASH_RATE_LIMIT_FAIL_CLOSED=true olmadığı sürece).
 - Yönetici bildirimi varsayılan kapalı · `SUBSCRIBE_NOTIFY_ENABLED` set edilmeden sağlayıcının `/emails` uç noktasına hiç gidilmez.
 - Vercel env vars şifrelenmiş saklanır.
 - Key sızdığında: Resend Dashboard'dan **revoke** → yeni key oluştur → Vercel'da güncelle → redeploy.
