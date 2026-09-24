@@ -1,0 +1,584 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-24",
+  "capturedAt": "2026-09-24T09:02:18.808Z",
+  "editorial": "Ce rapport contient les tendances qui sont apparues pour la première fois aujourd'hui, sans répéter les enregistrements figurant dans les rapports normaux des 30 derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "strands-agents/harness-sdk",
+          "url": "https://github.com/strands-agents/harness-sdk",
+          "summary": "Harness SDK est un kit de développement open source offrant un contrôle et une gestion de bout en bout pour les agents d'intelligence artificielle. Compatible avec les langages Python et TypeScript, cet outil permet la standardisation des agents de niveau production fonctionnant sur différents modèles et infrastructures cloud.",
+          "meta": "Python · ★ 8 011 · +115 aujourd'hui",
+          "snapshot": {
+            "sourceId": "strands-agents/harness-sdk",
+            "capturedAt": "2026-09-24T09:02:20.030Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 8011,
+              "engagementCount": 115,
+              "rank": 9,
+              "extra": {
+                "starsToday": 115
+              }
+            }
+          }
+        },
+        {
+          "title": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "summary": "CLI-Anything est un framework qui rend les interfaces de ligne de commande (CLI) accessibles aux agents d'intelligence artificielle. En permettant aux logiciels d'être gérés par des commandes en langage naturel, il rend les outils traditionnels compatibles avec les flux de travail basés sur les agents.",
+          "meta": "Python · ★ 50 097 · +57 aujourd'hui",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "HKUDS/CLI-Anything",
+            "capturedAt": "2026-09-24T09:02:20.030Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 50097,
+              "engagementCount": 57,
+              "rank": 10,
+              "extra": {
+                "starsToday": 57
+              }
+            }
+          }
+        },
+        {
+          "title": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "summary": "Impeccable est un langage de conception (design language) développé pour améliorer les résultats de conception des modèles d'intelligence artificielle. Cette bibliothèque basée sur JavaScript vise à accroître la cohérence visuelle et la qualité esthétique des systèmes d'intelligence artificielle générative (generative AI).",
+          "meta": "JavaScript · ★ 70 557 · +304 aujourd'hui",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "pbakaus/impeccable",
+            "capturedAt": "2026-09-24T09:02:20.030Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 70557,
+              "engagementCount": 304,
+              "rank": 12,
+              "extra": {
+                "starsToday": 304
+              }
+            }
+          }
+        },
+        {
+          "title": "DeusData/codebase-memory-mcp",
+          "url": "https://github.com/DeusData/codebase-memory-mcp",
+          "summary": "Développé par DeusData, codebase-memory-mcp est un serveur haute performance qui transforme les bases de code logiciel en un graphe de connaissances (knowledge graph) persistant. Utilisant le protocole MCP (Model Context Protocol), cette technologie prend en charge 158 langages de programmation différents, réduisant les opérations de requête de code au niveau de la milliseconde et diminuant considérablement la consommation de jetons.",
+          "meta": "C · ★ 44 744 · +190 aujourd'hui",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "DeusData/codebase-memory-mcp",
+            "capturedAt": "2026-09-24T09:02:20.030Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 44744,
+              "engagementCount": 190,
+              "rank": 14,
+              "extra": {
+                "starsToday": 190
+              }
+            }
+          }
+        },
+        {
+          "title": "harry7557558/spirula-studio",
+          "url": "https://github.com/harry7557558/spirula-studio",
+          "summary": "Spirula Studio est un outil de formation multiplateforme qui transforme des vidéos en représentations de scènes en trois dimensions (3D Gaussian Splatting) et les convertit en maillages (mesh). Le logiciel utilise les interfaces graphiques Vulkan ou CUDA pour offrir un environnement de travail compatible avec différents fabricants de matériel.",
+          "meta": "C++ · ★ 838 · +69 aujourd'hui",
+          "snapshot": {
+            "sourceId": "harry7557558/spirula-studio",
+            "capturedAt": "2026-09-24T09:02:20.030Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 838,
+              "engagementCount": 69,
+              "rank": 15,
+              "extra": {
+                "starsToday": 69
+              }
+            }
+          }
+        },
+        {
+          "title": "TNT-Likely/PanWatch",
+          "url": "https://github.com/TNT-Likely/PanWatch",
+          "summary": "PanWatch est un assistant d'investissement que vous pouvez héberger sur votre propre serveur, qui suit les données boursières et utilise des agents d'intelligence artificielle (TradingAgents) pour les décisions d'investissement. Il surveille les marchés boursiers en temps réel et propose une gestion de portefeuille, une analyse intelligente et un support de notification.",
+          "meta": "Python · ★ 1 710 · +95 aujourd'hui",
+          "snapshot": {
+            "sourceId": "TNT-Likely/PanWatch",
+            "capturedAt": "2026-09-24T09:02:20.030Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 1710,
+              "engagementCount": 95,
+              "rank": 17,
+              "extra": {
+                "starsToday": 95
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Italian parliament votes for return to nuclear energy",
+          "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+          "summary": "Le parlement italien a entamé les démarches législatives nécessaires pour un retour à l'énergie nucléaire, interdite après le référendum de 1987. Le pays vise à inclure des technologies nucléaires avancées (advanced nuclear technologies) dans son portefeuille énergétique afin d'accroître son indépendance énergétique et de réduire ses émissions de carbone.",
+          "meta": "768 votes · 573 commentaires",
+          "snapshot": {
+            "sourceId": "49819221",
+            "capturedAt": "2026-09-24T09:02:19.083Z",
+            "metadata": {
+              "popularity": 768,
+              "engagementCount": 573,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49819221",
+                  "popularity": 768,
+                  "engagementCount": 573
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "geox",
+                "createdAt": "2026-09-23T17:06:16Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49819221"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49819221",
+              "popularity": 768,
+              "engagementCount": 573
+            }
+          ]
+        },
+        {
+          "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+          "summary": "Claude, le modèle d'intelligence artificielle développé par Anthropic, a découvert un nouveau système enzymatique doté de répétitions similaires à CRISPR. Cette étude démontre le potentiel des grands modèles de langage (large language models) pour accélérer les découvertes scientifiques dans l'analyse des données biologiques et la recherche génétique.",
+          "meta": "641 votes · 656 commentaires",
+          "snapshot": {
+            "sourceId": "49820134",
+            "capturedAt": "2026-09-24T09:02:19.083Z",
+            "metadata": {
+              "popularity": 641,
+              "engagementCount": 656,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49820134",
+                  "popularity": 641,
+                  "engagementCount": 656
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "raahelb",
+                "createdAt": "2026-09-23T18:06:47Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49820134"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49820134",
+              "popularity": 641,
+              "engagementCount": 656
+            }
+          ]
+        },
+        {
+          "title": "Fixing the Portobello Police Station Clock",
+          "url": "https://pointinthecloud.com/2026-04-11-211700.html",
+          "summary": "La restauration de l'horloge historique du commissariat de Portobello offre une étude de cas technique montrant comment les anciens systèmes mécaniques peuvent être restaurés avec des méthodes modernes. Le projet prouve que les mécanismes d'horlogerie analogiques peuvent être intégrés à des outils de surveillance numérique (IoT) pour préserver leur fonctionnalité à long terme.",
+          "meta": "439 votes · 102 commentaires",
+          "snapshot": {
+            "sourceId": "49817469",
+            "capturedAt": "2026-09-24T09:02:19.083Z",
+            "metadata": {
+              "popularity": 439,
+              "engagementCount": 102,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49817469",
+                  "popularity": 439,
+                  "engagementCount": 102
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "avidly",
+                "createdAt": "2026-09-23T15:18:53Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49817469"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49817469",
+              "popularity": 439,
+              "engagementCount": 102
+            }
+          ]
+        },
+        {
+          "title": "Meta VR Glasses",
+          "url": "https://www.meta.com/vr-glasses/",
+          "summary": "Meta développe des lunettes de réalité augmentée (augmented reality) qui fusionnent le monde physique avec des couches numériques. Ces appareils visent à intégrer l'expérience de réalité virtuelle (virtual reality) dans l'usage quotidien en proposant des interfaces visuelles permettant aux utilisateurs d'interagir avec les objets qui les entourent.",
+          "meta": "386 votes · 341 commentaires",
+          "snapshot": {
+            "sourceId": "49824268",
+            "capturedAt": "2026-09-24T09:02:19.083Z",
+            "metadata": {
+              "popularity": 386,
+              "engagementCount": 341,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49824268",
+                  "popularity": 386,
+                  "engagementCount": 341
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "polymorph1sm",
+                "createdAt": "2026-09-23T23:47:56Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49824268"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49824268",
+              "popularity": 386,
+              "engagementCount": 341
+            }
+          ]
+        },
+        {
+          "title": "Linux support is coming to Snapdragon X2 Series",
+          "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+          "summary": "Qualcomm a annoncé qu'il offrirait un support Linux officiel pour les processeurs de la série Snapdragon X2. Ce développement permet aux ordinateurs à architecture ARM (PC basés sur Windows) d'être utilisés plus largement sur les systèmes d'exploitation open source.",
+          "meta": "380 votes · 165 commentaires",
+          "snapshot": {
+            "sourceId": "49823582",
+            "capturedAt": "2026-09-24T09:02:19.083Z",
+            "metadata": {
+              "popularity": 380,
+              "engagementCount": 165,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49823582",
+                  "popularity": 380,
+                  "engagementCount": 165
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "aaronday",
+                "createdAt": "2026-09-23T22:38:16Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49823582"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49823582",
+              "popularity": 380,
+              "engagementCount": 165
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Six Layers Less: Encoder Pruning for Whisper with Label-Free Recovery",
+          "url": "https://huggingface.co/papers/2609.27980",
+          "summary": "Whisper, un modèle de conversion de la parole en texte, propose une nouvelle méthode pour réduire les couches de l'encodeur (encoder), contrairement aux opérations d'élagage effectuées côté décodeur (decoder). Cette approche vise à augmenter la vitesse du modèle tout en minimisant la perte de performance grâce à un processus de récupération sans étiquette.",
+          "meta": "1 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.27980",
+            "capturedAt": "2026-09-24T09:02:18.948Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.27980",
+                "publishedAt": "2026-09-23T00:00:00.000Z",
+                "githubRepo": "https://github.com/rasgaard/whisper-encoder-layer-prune"
+              }
+            }
+          }
+        },
+        {
+          "title": "Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI",
+          "url": "https://huggingface.co/papers/2609.24815",
+          "summary": "Uranus est une infrastructure de simulation axée sur les données, développée pour la formation et l'évaluation des systèmes robotiques. En utilisant un modèle de diffusion autorégressif conditionné par des trajectoires communes, il offre un environnement virtuel évolutif qui réduit les coûts d'interaction dans le monde physique.",
+          "meta": "1 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.24815",
+            "capturedAt": "2026-09-24T09:02:18.948Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.24815",
+                "publishedAt": "2026-09-23T00:00:00.000Z",
+                "githubRepo": "https://github.com/D-Robotics-AI-Lab/Uranus-OSS",
+                "githubStars": 4
+              }
+            }
+          }
+        },
+        {
+          "title": "MemoryAthena: Adaptive Routing over Latent and Generated Memories",
+          "url": "https://huggingface.co/papers/2609.25853",
+          "summary": "MemoryAthena combine des méthodes de mémoire apprise (learned memory) dans les modèles d'intelligence artificielle avec des approches de rappel direct et de mémoire générative (generated memory). Au lieu de stocker les données dans un tableau, le système traite les informations via trois voies distinctes : l'accès direct à la mémoire, la génération à partir d'indices et la génération à partir des états internes du modèle.",
+          "meta": "1 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.25853",
+            "capturedAt": "2026-09-24T09:02:18.948Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.25853",
+                "publishedAt": "2026-09-22T00:00:00.000Z",
+                "githubRepo": "https://github.com/OLAResearch/ATHENA",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "On the Diffusibility of High-Dimensional Latents",
+          "url": "https://huggingface.co/papers/2609.28473",
+          "summary": "Les auto-encodeurs de représentation (representation autoencoders) permettent aux modèles de diffusion de fonctionner dans l'espace des caractéristiques des encodeurs visuels pré-entraînés. Bien que le réglage fin (fine-tuning) de ces encodeurs pour la reconstruction d'images permette de récupérer les détails visuels, il modifie la structure géométrique en réduisant la dimension effective de la représentation produite.",
+          "meta": "2 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.28473",
+            "capturedAt": "2026-09-24T09:02:18.948Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.28473",
+                "publishedAt": "2026-09-23T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "All modalities are equal, but video is more equal: Closing the Cross-Attention Gap in Joint Video Generation",
+          "url": "https://huggingface.co/papers/2609.27901",
+          "summary": "Les recherches sur les transformateurs de diffusion multimodaux (multimodal diffusion transformers) montrent un déséquilibre dans l'interaction entre la vidéo et d'autres types de données. Cette étude vise à combler cette lacune en révélant que, bien que la capacité des données vidéo à influencer d'autres modules soit élevée, la capacité des modules secondaires tels que l'audio ou le mouvement à restreindre la vidéo reste faible.",
+          "meta": "4 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.27901",
+            "capturedAt": "2026-09-24T09:02:18.948Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.27901",
+                "publishedAt": "2026-09-23T00:00:00.000Z",
+                "githubRepo": "https://github.com/ohad204/RecCAR",
+                "githubStars": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
+          "url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html",
+          "summary": "Radicle, une plateforme de collaboration de code pair-à-pair (peer-to-peer), a annoncé une faille de sécurité détectée dans son protocole réseau. Il est recommandé de passer à la version actuelle pour corriger cette vulnérabilité dans ce système qui permet aux utilisateurs de partager du code via le réseau.",
+          "meta": "110 votes · 37 commentaires",
+          "snapshot": {
+            "sourceId": "ad5vwg",
+            "capturedAt": "2026-09-24T09:02:19.377Z",
+            "metadata": {
+              "popularity": 110,
+              "engagementCount": 37,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/ad5vwg/radicle_disclosure_vulnerability",
+                  "popularity": 110,
+                  "engagementCount": 37
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "distributed",
+                  "security",
+                  "vcs"
+                ],
+                "createdAt": "2026-09-23T09:34:37.015-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ad5vwg/radicle_disclosure_vulnerability",
+              "popularity": 110,
+              "engagementCount": 37
+            }
+          ]
+        },
+        {
+          "title": "The Story of Mel",
+          "url": "https://users.cs.utah.edu/~elb/folklore/mel.html",
+          "summary": "The Story of Mel est une histoire devenue légendaire dans le monde du logiciel des années 1980, concernant un programmeur qui écrivait des codes complexes pour optimiser des ressources matérielles limitées. Elle est considérée comme un exemple de folklore dans la culture logicielle, représentant la maîtrise technique et l'équilibre entre la lisibilité du code et sa performance.",
+          "meta": "18 votes · 6 commentaires",
+          "snapshot": {
+            "sourceId": "wf4wid",
+            "capturedAt": "2026-09-24T09:02:19.377Z",
+            "metadata": {
+              "popularity": 18,
+              "engagementCount": 6,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/wf4wid/story_mel",
+                  "popularity": 18,
+                  "engagementCount": 6
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "assembly",
+                  "historical"
+                ],
+                "createdAt": "2026-09-23T23:09:40.357-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/wf4wid/story_mel",
+              "popularity": 18,
+              "engagementCount": 6
+            }
+          ]
+        },
+        {
+          "title": "I want my mesh networks to be signed, not encrypted",
+          "url": "https://andanti.no/blog/SignedMesh.html",
+          "summary": "Une architecture de réseau signé (signed mesh) est proposée, se concentrant sur l'intégrité des données et l'authentification plutôt que sur la confidentialité dans les réseaux maillés (mesh networks). Cette approche vise à assurer la sécurité du réseau en utilisant des signatures numériques prouvant la source des données au lieu de chiffrer le trafic réseau.",
+          "meta": "28 votes · 17 commentaires",
+          "snapshot": {
+            "sourceId": "r3ydgj",
+            "capturedAt": "2026-09-24T09:02:19.377Z",
+            "metadata": {
+              "popularity": 28,
+              "engagementCount": 17,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/r3ydgj/i_want_my_mesh_networks_be_signed_not",
+                  "popularity": 28,
+                  "engagementCount": 17
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "cryptography",
+                  "networking"
+                ],
+                "createdAt": "2026-09-23T09:39:46.740-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/r3ydgj/i_want_my_mesh_networks_be_signed_not",
+              "popularity": 28,
+              "engagementCount": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "large language models",
+      "explanation": "Modèles d'intelligence artificielle entraînés sur de très grandes quantités de données, capables de comprendre le langage humain et de générer du texte."
+    },
+    {
+      "term": "framework",
+      "explanation": "Un système de base qui facilite votre travail lors du développement de logiciels, en proposant des structures et des règles prêtes à l'emploi."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interface textuelle qui exécute des programmes avec des commandes écrites plutôt qu'avec la souris."
+    },
+    {
+      "term": "design language",
+      "explanation": "Ensemble de conventions de couleur, de forme et de police utilisées pour garantir la cohérence visuelle d'une application."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Technologie capable de générer du nouveau texte, des images ou du son à partir de connaissances apprises au préalable."
+    },
+    {
+      "term": "knowledge graph",
+      "explanation": "Base de données qui présente les relations entre les informations en les reliant dans une structure de réseau."
+    },
+    {
+      "term": "MCP",
+      "explanation": "Protocole permettant aux modèles d'intelligence artificielle de se connecter à différentes sources de données et outils de manière standardisée."
+    },
+    {
+      "term": "mesh",
+      "explanation": "Fonctionnement conjoint de nombreux appareils ou services interconnectés comme s'il s'agissait d'un seul réseau."
+    }
+  ]
+}

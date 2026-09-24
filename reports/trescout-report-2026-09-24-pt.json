@@ -1,0 +1,993 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-24",
+  "capturedAt": "2026-09-24T09:02:18.808Z",
+  "editorial": "Hoje, o mundo da tecnologia foca tanto em avanços impulsionados por inteligência artificial (artificial intelligence) em descobertas biológicas quanto na otimização de infraestrutura. Especialmente as descobertas do modelo Claude sobre novos sistemas enzimáticos e os trabalhos de poda de código (encoder pruning) no modelo Whisper mostram que os avanços técnicos focados em eficiência estão ganhando velocidade.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "summary": "O repositório de serviços financeiros (financial services) compartilhado pela Anthropic oferece exemplos de código baseados em Python projetados para automatizar tarefas complexas no setor financeiro. Este recurso orienta desenvolvedores que desejam aprimorar processos de análise financeira e processamento de dados usando grandes modelos de linguagem (large language models).",
+          "meta": "Python · ★ 37.141 · +664 hoje",
+          "snapshot": {
+            "sourceId": "anthropics/financial-services",
+            "capturedAt": "2026-09-24T09:02:20.030Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 37141,
+              "engagementCount": 664,
+              "rank": 1,
+              "extra": {
+                "starsToday": 664
+              }
+            }
+          }
+        },
+        {
+          "title": "google/ax",
+          "url": "https://github.com/google/ax",
+          "summary": "O Ax, desenvolvido pelo Google, é um tempo de execução de orquestração (orchestration runtime) de código aberto para agentes de inteligência artificial. Escrita na linguagem Go, esta plataforma facilita o gerenciamento e a escalabilidade de fluxos de trabalho agenticos complexos.",
+          "meta": "Go · ★ 9.553 · +1.543 hoje",
+          "snapshot": {
+            "sourceId": "google/ax",
+            "capturedAt": "2026-09-24T09:02:20.030Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 9553,
+              "engagementCount": 1543,
+              "rank": 2,
+              "extra": {
+                "starsToday": 1543
+              }
+            }
+          }
+        },
+        {
+          "title": "davila7/claude-code-templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "summary": "Esta ferramenta de linha de comando (CLI tool) desenvolvida para o Claude Code facilita a configuração e o monitoramento do assistente de codificação impulsionado por inteligência artificial. Este software baseado em Python permite que os desenvolvedores gerenciem seus fluxos de trabalho do Claude Code de forma mais eficiente.",
+          "meta": "Python · ★ 31.652 · +389 hoje",
+          "snapshot": {
+            "sourceId": "davila7/claude-code-templates",
+            "capturedAt": "2026-09-24T09:02:20.030Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 31652,
+              "engagementCount": 389,
+              "rank": 3,
+              "extra": {
+                "starsToday": 389
+              }
+            }
+          }
+        },
+        {
+          "title": "BuilderIO/agent-native",
+          "url": "https://github.com/BuilderIO/agent-native",
+          "summary": "O agent-native, desenvolvido pela BuilderIO, é um framework em TypeScript usado para criar aplicações impulsionadas por inteligência artificial. Ele permite que desenvolvedores de software integrem agentes autônomos (agentic apps) que realizam tarefas complexas em suas aplicações.",
+          "meta": "TypeScript · ★ 6.710 · +87 hoje",
+          "snapshot": {
+            "sourceId": "BuilderIO/agent-native",
+            "capturedAt": "2026-09-24T09:02:20.030Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 6710,
+              "engagementCount": 87,
+              "rank": 4,
+              "extra": {
+                "starsToday": 87
+              }
+            }
+          }
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "O Superpowers oferece um framework de desenvolvimento de habilidades (agentic skills framework) e uma metodologia de desenvolvimento de software para agentes de inteligência artificial. O objetivo é padronizar o processo de criação de sistemas autônomos que realizam tarefas complexas.",
+          "meta": "Shell · ★ 290.917 · +474 hoje",
+          "snapshot": {
+            "sourceId": "obra/superpowers",
+            "capturedAt": "2026-09-24T09:02:20.030Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 290917,
+              "engagementCount": 474,
+              "rank": 5,
+              "extra": {
+                "starsToday": 474
+              }
+            }
+          }
+        },
+        {
+          "title": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "summary": "O Univer é uma plataforma de software de código aberto que combina ferramentas de escritório, como planilhas, documentos e apresentações, em um único tempo de execução (runtime). Ele oferece uma infraestrutura projetada para que agentes de inteligência artificial (AI agents) possam processar documentos diretamente.",
+          "meta": "TypeScript · ★ 16.578 · +1.142 hoje",
+          "snapshot": {
+            "sourceId": "dream-num/univer",
+            "capturedAt": "2026-09-24T09:02:20.030Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 16578,
+              "engagementCount": 1142,
+              "rank": 6,
+              "extra": {
+                "starsToday": 1142
+              }
+            }
+          }
+        },
+        {
+          "title": "Open-Dev-Society/OpenStock",
+          "url": "https://github.com/Open-Dev-Society/OpenStock",
+          "summary": "O OpenStock é uma plataforma de dados financeiros de código aberto que permite acompanhar dados da bolsa de valores e realizar análises de empresas. Oferecendo uma alternativa gratuita a ferramentas pagas de análise de mercado, ele permite que os usuários façam o acompanhamento de preços em tempo real e criem alertas personalizados.",
+          "meta": "TypeScript · ★ 19.038 · +344 hoje",
+          "snapshot": {
+            "sourceId": "Open-Dev-Society/OpenStock",
+            "capturedAt": "2026-09-24T09:02:20.030Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 19038,
+              "engagementCount": 344,
+              "rank": 7,
+              "extra": {
+                "starsToday": 344
+              }
+            }
+          }
+        },
+        {
+          "title": "agent-substrate/substrate",
+          "url": "https://github.com/agent-substrate/substrate",
+          "summary": "O Agent Substrate, desenvolvido na linguagem Go, é um sistema central que fornece uma camada de infraestrutura para agentes de inteligência artificial. Projetada para suportar diferentes arquiteturas de agentes, esta plataforma visa padronizar fluxos de trabalho complexos.",
+          "meta": "Go · ★ 3.646 · +558 hoje",
+          "snapshot": {
+            "sourceId": "agent-substrate/substrate",
+            "capturedAt": "2026-09-24T09:02:20.030Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 3646,
+              "engagementCount": 558,
+              "rank": 8,
+              "extra": {
+                "starsToday": 558
+              }
+            }
+          }
+        },
+        {
+          "title": "strands-agents/harness-sdk",
+          "url": "https://github.com/strands-agents/harness-sdk",
+          "summary": "O Harness SDK é um kit de desenvolvimento de código aberto que fornece controle e gerenciamento de ponta a ponta para agentes de inteligência artificial. Compatível com as linguagens Python e TypeScript, esta ferramenta permite a padronização de agentes em nível de produção que operam em diferentes modelos e infraestruturas de nuvem.",
+          "meta": "Python · ★ 8.011 · +115 hoje",
+          "snapshot": {
+            "sourceId": "strands-agents/harness-sdk",
+            "capturedAt": "2026-09-24T09:02:20.030Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 8011,
+              "engagementCount": 115,
+              "rank": 9,
+              "extra": {
+                "starsToday": 115
+              }
+            }
+          }
+        },
+        {
+          "title": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "summary": "O CLI-Anything é um framework que torna as interfaces de linha de comando (CLI) acessíveis para agentes de inteligência artificial. Ao permitir que softwares sejam gerenciados por comandos em linguagem natural, ele torna as ferramentas tradicionais compatíveis com fluxos de trabalho baseados em agentes.",
+          "meta": "Python · ★ 50.097 · +57 hoje",
+          "snapshot": {
+            "sourceId": "HKUDS/CLI-Anything",
+            "capturedAt": "2026-09-24T09:02:20.030Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 50097,
+              "engagementCount": 57,
+              "rank": 10,
+              "extra": {
+                "starsToday": 57
+              }
+            }
+          }
+        },
+        {
+          "title": "superdesigndev/treg",
+          "url": "https://github.com/superdesigndev/treg",
+          "summary": "O Treg é uma biblioteca que combina ferramentas desenvolvidas para agentes de inteligência artificial (agent tools) e oferece uma estrutura semelhante ao OpenRouter. Ele permite que os desenvolvedores criem ferramentas compatíveis com diferentes modelos de inteligência artificial e as gerenciem por meio de um sistema centralizado.",
+          "meta": "Python · ★ 2.887 · +506 hoje",
+          "snapshot": {
+            "sourceId": "superdesigndev/treg",
+            "capturedAt": "2026-09-24T09:02:20.030Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 2887,
+              "engagementCount": 506,
+              "rank": 11,
+              "extra": {
+                "starsToday": 506
+              }
+            }
+          }
+        },
+        {
+          "title": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "summary": "Impeccable é uma linguagem de design (design language) desenvolvida para melhorar as saídas de design de modelos de inteligência artificial. Esta biblioteca baseada em JavaScript visa aumentar a consistência visual e a qualidade estética dos sistemas de inteligência artificial generativa (generative AI).",
+          "meta": "JavaScript · ★ 70.557 · +304 hoje",
+          "snapshot": {
+            "sourceId": "pbakaus/impeccable",
+            "capturedAt": "2026-09-24T09:02:20.030Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 70557,
+              "engagementCount": 304,
+              "rank": 12,
+              "extra": {
+                "starsToday": 304
+              }
+            }
+          }
+        },
+        {
+          "title": "mvt-project/mvt",
+          "url": "https://github.com/mvt-project/mvt",
+          "summary": "O Mobile Verification Toolkit é uma ferramenta Python que realiza exames forenses digitais para detectar possíveis violações de segurança em dispositivos móveis. Ao analisar os dados do dispositivo, ajuda a revelar sinais de ataques cibernéticos ou acesso não autorizado.",
+          "meta": "Python · ★ 14.564 · +543 hoje",
+          "snapshot": {
+            "sourceId": "mvt-project/mvt",
+            "capturedAt": "2026-09-24T09:02:20.030Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 14564,
+              "engagementCount": 543,
+              "rank": 13,
+              "extra": {
+                "starsToday": 543
+              }
+            }
+          }
+        },
+        {
+          "title": "DeusData/codebase-memory-mcp",
+          "url": "https://github.com/DeusData/codebase-memory-mcp",
+          "summary": "Desenvolvido pela DeusData, o codebase-memory-mcp é um servidor de alto desempenho que transforma bases de código de software em um grafo de conhecimento (knowledge graph) persistente. Utilizando o protocolo de ferramenta de inspeção (MCP), esta tecnologia suporta 158 linguagens de programação diferentes, reduzindo as operações de consulta de código para o nível de milissegundos e diminuindo significativamente o uso de tokens.",
+          "meta": "C · ★ 44.744 · +190 hoje",
+          "snapshot": {
+            "sourceId": "DeusData/codebase-memory-mcp",
+            "capturedAt": "2026-09-24T09:02:20.030Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 44744,
+              "engagementCount": 190,
+              "rank": 14,
+              "extra": {
+                "starsToday": 190
+              }
+            }
+          }
+        },
+        {
+          "title": "harry7557558/spirula-studio",
+          "url": "https://github.com/harry7557558/spirula-studio",
+          "summary": "O Spirula Studio é uma ferramenta de treinamento multiplataforma que converte vídeos em representações de cenas tridimensionais (3D Gaussian Splatting) e as transforma em malhas (mesh). O software utiliza interfaces gráficas Vulkan ou CUDA para oferecer um ambiente de trabalho compatível com diferentes fabricantes de hardware.",
+          "meta": "C++ · ★ 838 · +69 hoje",
+          "snapshot": {
+            "sourceId": "harry7557558/spirula-studio",
+            "capturedAt": "2026-09-24T09:02:20.030Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 838,
+              "engagementCount": 69,
+              "rank": 15,
+              "extra": {
+                "starsToday": 69
+              }
+            }
+          }
+        },
+        {
+          "title": "browser-use/video-use",
+          "url": "https://github.com/browser-use/video-use",
+          "summary": "O video-use, baseado em Python, permite que agentes de inteligência artificial que escrevem código (coding agents) automatizem processos de edição de vídeo. Os usuários podem gerenciar processos de edição de vídeo programaticamente com comandos em linguagem natural.",
+          "meta": "Python · ★ 26.689 · +746 hoje",
+          "snapshot": {
+            "sourceId": "browser-use/video-use",
+            "capturedAt": "2026-09-24T09:02:20.030Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 26689,
+              "engagementCount": 746,
+              "rank": 16,
+              "extra": {
+                "starsToday": 746
+              }
+            }
+          }
+        },
+        {
+          "title": "TNT-Likely/PanWatch",
+          "url": "https://github.com/TNT-Likely/PanWatch",
+          "summary": "O PanWatch é um assistente de investimento que você pode hospedar em seu próprio servidor, que monitora dados da bolsa de valores e utiliza agentes de inteligência artificial (TradingAgents) para decisões de investimento. Ele oferece gerenciamento de portfólio, análise inteligente e suporte a notificações ao monitorar os mercados de ações em tempo real.",
+          "meta": "Python · ★ 1.710 · +95 hoje",
+          "snapshot": {
+            "sourceId": "TNT-Likely/PanWatch",
+            "capturedAt": "2026-09-24T09:02:20.030Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 1710,
+              "engagementCount": 95,
+              "rank": 17,
+              "extra": {
+                "starsToday": 95
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Italian parliament votes for return to nuclear energy",
+          "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+          "summary": "O parlamento italiano iniciou os passos legais necessários para o retorno à energia nuclear, que foi proibida após o referendo de 1987. O país visa incluir tecnologias nucleares avançadas (advanced nuclear technologies) em seu portfólio energético para aumentar a independência energética e reduzir as emissões de carbono.",
+          "meta": "768 pontos · 573 comentários",
+          "snapshot": {
+            "sourceId": "49819221",
+            "capturedAt": "2026-09-24T09:02:19.083Z",
+            "metadata": {
+              "popularity": 768,
+              "engagementCount": 573,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49819221",
+                  "popularity": 768,
+                  "engagementCount": 573
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "geox",
+                "createdAt": "2026-09-23T17:06:16Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49819221"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49819221",
+              "popularity": 768,
+              "engagementCount": 573
+            }
+          ]
+        },
+        {
+          "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+          "summary": "O Claude, modelo de inteligência artificial desenvolvido pela Anthropic, descobriu um novo sistema enzimático com repetições semelhantes ao CRISPR. Este estudo demonstra o potencial dos grandes modelos de linguagem (large language models) para acelerar descobertas científicas na análise de dados biológicos e pesquisas genéticas.",
+          "meta": "641 pontos · 656 comentários",
+          "snapshot": {
+            "sourceId": "49820134",
+            "capturedAt": "2026-09-24T09:02:19.083Z",
+            "metadata": {
+              "popularity": 641,
+              "engagementCount": 656,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49820134",
+                  "popularity": 641,
+                  "engagementCount": 656
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "raahelb",
+                "createdAt": "2026-09-23T18:06:47Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49820134"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49820134",
+              "popularity": 641,
+              "engagementCount": 656
+            }
+          ]
+        },
+        {
+          "title": "Fixing the Portobello Police Station Clock",
+          "url": "https://pointinthecloud.com/2026-04-11-211700.html",
+          "summary": "O reparo do relógio histórico na Delegacia de Polícia de Portobello apresenta um estudo de caso técnico que mostra como sistemas mecânicos antigos podem ser restaurados com métodos modernos. O projeto prova que os mecanismos de relógios analógicos podem ter sua funcionalidade a longo prazo preservada através da integração com ferramentas de monitoramento digital (IoT).",
+          "meta": "439 pontos · 102 comentários",
+          "snapshot": {
+            "sourceId": "49817469",
+            "capturedAt": "2026-09-24T09:02:19.083Z",
+            "metadata": {
+              "popularity": 439,
+              "engagementCount": 102,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49817469",
+                  "popularity": 439,
+                  "engagementCount": 102
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "avidly",
+                "createdAt": "2026-09-23T15:18:53Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49817469"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49817469",
+              "popularity": 439,
+              "engagementCount": 102
+            }
+          ]
+        },
+        {
+          "title": "Meta VR Glasses",
+          "url": "https://www.meta.com/vr-glasses/",
+          "summary": "A Meta está desenvolvendo óculos de realidade aumentada (augmented reality) que combinam o mundo físico com camadas digitais. Esses dispositivos visam levar a experiência de realidade virtual (virtual reality) ao uso diário, oferecendo interfaces visuais que permitem aos usuários interagir com objetos ao seu redor.",
+          "meta": "386 pontos · 341 comentários",
+          "snapshot": {
+            "sourceId": "49824268",
+            "capturedAt": "2026-09-24T09:02:19.083Z",
+            "metadata": {
+              "popularity": 386,
+              "engagementCount": 341,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49824268",
+                  "popularity": 386,
+                  "engagementCount": 341
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "polymorph1sm",
+                "createdAt": "2026-09-23T23:47:56Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49824268"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49824268",
+              "popularity": 386,
+              "engagementCount": 341
+            }
+          ]
+        },
+        {
+          "title": "Linux support is coming to Snapdragon X2 Series",
+          "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+          "summary": "A Qualcomm anunciou que oferecerá suporte oficial ao Linux para os processadores da série Snapdragon X2. Este desenvolvimento permite que computadores com arquitetura ARM (PCs baseados em Windows) sejam usados de forma mais ampla em sistemas operacionais de código aberto.",
+          "meta": "380 pontos · 165 comentários",
+          "snapshot": {
+            "sourceId": "49823582",
+            "capturedAt": "2026-09-24T09:02:19.083Z",
+            "metadata": {
+              "popularity": 380,
+              "engagementCount": 165,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49823582",
+                  "popularity": 380,
+                  "engagementCount": 165
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "aaronday",
+                "createdAt": "2026-09-23T22:38:16Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49823582"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49823582",
+              "popularity": 380,
+              "engagementCount": 165
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "convaiinnovations/laya",
+          "url": "https://huggingface.co/convaiinnovations/laya",
+          "summary": "O Laya, desenvolvido pela Convai Innovations, é um modelo de inteligência artificial otimizado para tarefas de classificação de texto (text classification). Compartilhado no Hugging Face, este modelo permite que os usuários categorizem dados de texto em grupos específicos.",
+          "meta": "♥ 3.230 · 0 downloads",
+          "snapshot": {
+            "sourceId": "convaiinnovations/laya",
+            "capturedAt": "2026-09-24T09:02:18.944Z",
+            "metadata": {
+              "popularity": 3230,
+              "engagementCount": 0,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 3089,
+                "pipelineTag": "text-classification",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "laya",
+                  "system-one",
+                  "calibrated-decisions",
+                  "rlcd",
+                  "classification",
+                  "routing",
+                  "scoring",
+                  "guardrails",
+                  "moderation",
+                  "reinforcement-learning",
+                  "commercial-use",
+                  "text-classification",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen-Image-2.1",
+          "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+          "summary": "O Qwen-Image-2.1, desenvolvido pela Alibaba, é um modelo de geração de imagens (text-to-image) que produz imagens de alta qualidade a partir de comandos de texto. Compartilhado na plataforma de inteligência artificial de código aberto HuggingFace, este modelo oferece uma nova opção para os usuários em processos de produção de conteúdo visual.",
+          "meta": "♥ 2.096 · 28.407 downloads",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen-Image-2.1",
+            "capturedAt": "2026-09-24T09:02:18.944Z",
+            "metadata": {
+              "popularity": 2096,
+              "engagementCount": 28407,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1970,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "diffusers",
+                  "safetensors",
+                  "qwen",
+                  "image-generation",
+                  "image-editing",
+                  "rgba",
+                  "text-to-image",
+                  "license:other",
+                  "diffusers:QwenImage21Pipeline",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+          "summary": "O Ternary-Bonsai-2-27B, desenvolvido pela Prism-ml, é um modelo de inteligência artificial focado em geração de texto (text generation). O modelo visa utilizar os recursos de hardware de forma mais eficiente ao comprimir os valores dos pesos em um formato ternário.",
+          "meta": "♥ 1.975 · 2.815.979 downloads",
+          "snapshot": {
+            "sourceId": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+            "capturedAt": "2026-09-24T09:02:18.944Z",
+            "metadata": {
+              "popularity": 1975,
+              "engagementCount": 2815979,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 1805,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "llama.cpp",
+                  "gguf",
+                  "ternary",
+                  "2-bit",
+                  "llama-cpp",
+                  "cuda",
+                  "metal",
+                  "on-device",
+                  "hybrid-attention",
+                  "prismml",
+                  "bonsai",
+                  "text-generation",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:quantized:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "XingChen-AGI/Xing4.0-29B-A4B",
+          "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+          "summary": "O Xing4.0-29B-A4B, desenvolvido pela XingChen-AGI, é um modelo de linguagem de pesos abertos focado em geração de texto (text generation). Hospedado no Hugging Face, este modelo foi projetado para ser utilizado em tarefas abrangentes de processamento de linguagem.",
+          "meta": "♥ 1.639 · 39.009 downloads",
+          "snapshot": {
+            "sourceId": "XingChen-AGI/Xing4.0-29B-A4B",
+            "capturedAt": "2026-09-24T09:02:18.944Z",
+            "metadata": {
+              "popularity": 1639,
+              "engagementCount": 39009,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 1516,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "xing4_0",
+                  "text-generation",
+                  "conversational",
+                  "custom_code",
+                  "arxiv:2512.24157",
+                  "arxiv:2507.18013",
+                  "license:apache-2.0",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "summary": "O Qwen-Image-2.1-Uncensored é um modelo de inteligência artificial de texto para imagem (text-to-image) com capacidade de geração visual. O modelo, com sua estrutura sem censura (uncensored) onde as restrições de conteúdo foram removidas, permite que os usuários produzam imagens em uma gama mais ampla.",
+          "meta": "♥ 1.515 · 350.678 downloads",
+          "snapshot": {
+            "sourceId": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+            "capturedAt": "2026-09-24T09:02:18.944Z",
+            "metadata": {
+              "popularity": 1515,
+              "engagementCount": 350678,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 1337,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "gguf",
+                  "qwen",
+                  "image-generation",
+                  "comfyui",
+                  "comfyui-gguf",
+                  "text-to-image",
+                  "base_model:Qwen/Qwen-Image-2.1",
+                  "base_model:quantized:Qwen/Qwen-Image-2.1",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Six Layers Less: Encoder Pruning for Whisper with Label-Free Recovery",
+          "url": "https://huggingface.co/papers/2609.27980",
+          "summary": "O Whisper, um modelo de conversão de fala em texto, apresenta um novo método para reduzir as camadas do codificador (encoder), ao contrário das operações de poda realizadas no lado do decodificador (decoder). Esta abordagem visa aumentar a velocidade do modelo enquanto minimiza a perda de desempenho com um processo de recuperação que não requer etiquetas.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.27980",
+            "capturedAt": "2026-09-24T09:02:18.948Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.27980",
+                "publishedAt": "2026-09-23T00:00:00.000Z",
+                "githubRepo": "https://github.com/rasgaard/whisper-encoder-layer-prune"
+              }
+            }
+          }
+        },
+        {
+          "title": "Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI",
+          "url": "https://huggingface.co/papers/2609.24815",
+          "summary": "Uranus é uma infraestrutura de simulação orientada a dados desenvolvida para o treinamento e avaliação de sistemas robóticos. Utilizando um modelo de difusão autorregressivo condicionado por trajetória comum (autoregressive diffusion model), oferece um ambiente virtual escalável que reduz os custos de interação no mundo físico.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.24815",
+            "capturedAt": "2026-09-24T09:02:18.948Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.24815",
+                "publishedAt": "2026-09-23T00:00:00.000Z",
+                "githubRepo": "https://github.com/D-Robotics-AI-Lab/Uranus-OSS",
+                "githubStars": 4
+              }
+            }
+          }
+        },
+        {
+          "title": "MemoryAthena: Adaptive Routing over Latent and Generated Memories",
+          "url": "https://huggingface.co/papers/2609.25853",
+          "summary": "O MemoryAthena combina métodos de memória aprendida (learned memory) em modelos de inteligência artificial com abordagens de recuperação direta e memória generativa (generated memory). Em vez de armazenar dados em uma tabela, o sistema processa informações através de três caminhos diferentes: acesso direto à memória, geração a partir de dicas e geração a partir dos estados internos do próprio modelo.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.25853",
+            "capturedAt": "2026-09-24T09:02:18.948Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.25853",
+                "publishedAt": "2026-09-22T00:00:00.000Z",
+                "githubRepo": "https://github.com/OLAResearch/ATHENA",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "On the Diffusibility of High-Dimensional Latents",
+          "url": "https://huggingface.co/papers/2609.28473",
+          "summary": "Os autoencoders de representação (representation autoencoders) permitem que modelos de difusão operem nos espaços de características de codificadores visuais pré-treinados. Embora o ajuste fino (fine-tuning) desses codificadores para a reconstrução de imagens recupere detalhes visuais, ele altera a estrutura geométrica ao reduzir a dimensão efetiva da representação produzida.",
+          "meta": "2 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.28473",
+            "capturedAt": "2026-09-24T09:02:18.948Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.28473",
+                "publishedAt": "2026-09-23T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "All modalities are equal, but video is more equal: Closing the Cross-Attention Gap in Joint Video Generation",
+          "url": "https://huggingface.co/papers/2609.27901",
+          "summary": "Pesquisas sobre transformadores de difusão multimodal (multimodal diffusion transformers) mostram um desequilíbrio na interação entre vídeo e outros tipos de dados. Este estudo visa preencher essa lacuna, revelando que, embora a capacidade dos dados de vídeo de influenciar outros módulos seja alta, a capacidade de módulos secundários, como áudio ou movimento, de restringir o vídeo permanece fraca.",
+          "meta": "4 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.27901",
+            "capturedAt": "2026-09-24T09:02:18.948Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.27901",
+                "publishedAt": "2026-09-23T00:00:00.000Z",
+                "githubRepo": "https://github.com/ohad204/RecCAR",
+                "githubStars": 0
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
+          "url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html",
+          "summary": "A Radicle, plataforma de colaboração de código ponto a ponto (peer-to-peer), anunciou uma vulnerabilidade de segurança detectada em seu protocolo de rede. Recomenda-se a atualização para a versão mais recente para corrigir a falha neste sistema que permite aos usuários compartilhar código através da rede.",
+          "meta": "110 pontos · 37 comentários",
+          "snapshot": {
+            "sourceId": "ad5vwg",
+            "capturedAt": "2026-09-24T09:02:19.377Z",
+            "metadata": {
+              "popularity": 110,
+              "engagementCount": 37,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/ad5vwg/radicle_disclosure_vulnerability",
+                  "popularity": 110,
+                  "engagementCount": 37
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "distributed",
+                  "security",
+                  "vcs"
+                ],
+                "createdAt": "2026-09-23T09:34:37.015-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ad5vwg/radicle_disclosure_vulnerability",
+              "popularity": 110,
+              "engagementCount": 37
+            }
+          ]
+        },
+        {
+          "title": "The Story of Mel",
+          "url": "https://users.cs.utah.edu/~elb/folklore/mel.html",
+          "summary": "The Story of Mel é uma história sobre um programador que se tornou lendário no mundo do software nos anos 80, focada nos códigos complexos que ele escrevia para otimizar recursos de hardware limitados. É vista como um exemplo de folclore na cultura de software que representa a maestria técnica e o equilíbrio entre a legibilidade do código e o desempenho.",
+          "meta": "18 pontos · 6 comentários",
+          "snapshot": {
+            "sourceId": "wf4wid",
+            "capturedAt": "2026-09-24T09:02:19.377Z",
+            "metadata": {
+              "popularity": 18,
+              "engagementCount": 6,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/wf4wid/story_mel",
+                  "popularity": 18,
+                  "engagementCount": 6
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "assembly",
+                  "historical"
+                ],
+                "createdAt": "2026-09-23T23:09:40.357-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/wf4wid/story_mel",
+              "popularity": 18,
+              "engagementCount": 6
+            }
+          ]
+        },
+        {
+          "title": "I want my mesh networks to be signed, not encrypted",
+          "url": "https://andanti.no/blog/SignedMesh.html",
+          "summary": "Propõe-se uma arquitetura de rede assinada (signed mesh) que foca na integridade dos dados e na autenticação, em vez da privacidade em redes mesh. Esta abordagem visa garantir a segurança da rede usando assinaturas digitais que comprovam a origem dos dados, em vez de criptografar o tráfego da rede.",
+          "meta": "28 pontos · 17 comentários",
+          "snapshot": {
+            "sourceId": "r3ydgj",
+            "capturedAt": "2026-09-24T09:02:19.377Z",
+            "metadata": {
+              "popularity": 28,
+              "engagementCount": 17,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/r3ydgj/i_want_my_mesh_networks_be_signed_not",
+                  "popularity": 28,
+                  "engagementCount": 17
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "cryptography",
+                  "networking"
+                ],
+                "createdAt": "2026-09-23T09:39:46.740-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/r3ydgj/i_want_my_mesh_networks_be_signed_not",
+              "popularity": 28,
+              "engagementCount": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "financial services",
+      "explanation": "Todos os serviços profissionais relacionados à gestão de dinheiro, como bancos, investimentos e seguros."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligência artificial treinados com grandes volumes de dados, capazes de compreender a linguagem humana e gerar texto."
+    },
+    {
+      "term": "orchestration runtime",
+      "explanation": "Ambiente de gestão que garante que processos complexos de software sejam executados na ordem e no momento corretos."
+    },
+    {
+      "term": "CLI tool",
+      "explanation": "Pequeno programa utilitário que permite que o computador execute uma tarefa específica através de comandos escritos."
+    },
+    {
+      "term": "framework",
+      "explanation": "Sistema base que facilita o trabalho durante o desenvolvimento de software, oferecendo estruturas e regras prontas."
+    },
+    {
+      "term": "agentic apps",
+      "explanation": "Aplicações inteligentes capazes de tomar decisões em nome do usuário e agir de forma autônoma para atingir objetivos."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "Infraestrutura organizada que permite que softwares com inteligência artificial adquiram novas habilidades e as utilizem."
+    },
+    {
+      "term": "runtime",
+      "explanation": "Ambiente ou tempo de execução fundamental necessário para que um software funcione no computador."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Assistentes digitais capazes de observar o ambiente e agir de forma autônoma para realizar tarefas específicas."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interface baseada em texto que permite executar programas através de comandos escritos, em vez de usar o mouse."
+    },
+    {
+      "term": "agent tools",
+      "explanation": "Funções especiais que permitem que a inteligência artificial interaja com o mundo exterior ou extraia dados."
+    },
+    {
+      "term": "design language",
+      "explanation": "Conjunto de regras de cores, formas e fontes utilizadas para garantir a consistência visual de uma aplicação."
+    },
+    {
+      "term": "generative AI",
+      "explanation": "Tecnologia capaz de gerar novo texto, imagem ou áudio com base em informações aprendidas anteriormente."
+    },
+    {
+      "term": "knowledge graph",
+      "explanation": "Banco de dados que apresenta informações em uma estrutura de rede, conectando as relações entre elas."
+    },
+    {
+      "term": "MCP",
+      "explanation": "Protocolo que permite que modelos de inteligência artificial se conectem a diferentes fontes de dados e ferramentas de forma padronizada."
+    },
+    {
+      "term": "mesh",
+      "explanation": "O funcionamento conjunto de vários dispositivos ou serviços interconectados como se fossem uma única rede."
+    }
+  ]
+}
