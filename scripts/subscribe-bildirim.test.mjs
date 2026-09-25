@@ -23,15 +23,14 @@ process.env.RESEND_AUDIENCE_ID = 'test-audience-id';
 process.env.TRESCOUT_PREVIEW_ORIGINS = '';
 delete process.env.UPSTASH_REDIS_REST_URL;
 delete process.env.UPSTASH_REDIS_REST_TOKEN;
-// Bildirim kilidi varsayılanı KAPALI · her test kendi durumunu açıkça kurar.
+// Bildirim kilidi varsayılanı AÇIK · her test kendi durumunu açıkça kurar.
 delete process.env.SUBSCRIBE_NOTIFY_ENABLED;
 
-/** Bildirim kilidini yalnız o test için açar · handler env'i çağrı anında okur. */
-function bildirimKilidiniAc() {
-  process.env.SUBSCRIBE_NOTIFY_ENABLED = 'true';
+function bildirimKilidiniKapat() {
+  process.env.SUBSCRIBE_NOTIFY_ENABLED = 'false';
 }
 
-function bildirimKilidiniKapat() {
+function bildirimKilidiniSifirla() {
   delete process.env.SUBSCRIBE_NOTIFY_ENABLED;
 }
 
@@ -52,7 +51,7 @@ let calls = [];
 /** Sahte fetch · çağrıları kaydeder, yanıtı responder üretir. */
 function stubFetch(responder) {
   calls = [];
-  bildirimKilidiniKapat();
+  bildirimKilidiniSifirla();
   globalThis.fetch = async (url, init) => {
     calls.push({ url: String(url), init });
     return responder(String(url), init);
@@ -89,7 +88,6 @@ test('kayıt başarılıyken bildirim ağ hatası verse de kullanıcıya ok dön
     if (url.includes('/audiences/')) return new Response('{}', { status: 201 });
     throw new TypeError('fetch failed');
   });
-  bildirimKilidiniAc();
 
   const response = await handler(istek({ email: 'ok@example.com', consent: true }));
 
@@ -104,7 +102,6 @@ test('bildirim HTTP hatası verse de kullanıcıya ok döner', async () => {
     if (url.includes('/audiences/')) return new Response('{}', { status: 201 });
     return new Response('rate limited', { status: 429 });
   });
-  bildirimKilidiniAc();
 
   const response = await handler(istek({ email: 'ok2@example.com', consent: true }));
 
@@ -117,7 +114,6 @@ test('tekrar kayıtta (409) duplicate bayrağı döner, bildirim konusu buna gö
     if (url.includes('/audiences/')) return new Response('exists', { status: 409 });
     return new Response('{}', { status: 200 });
   });
-  bildirimKilidiniAc();
 
   const response = await handler(istek({ email: 'dup@example.com', consent: true }));
 
@@ -215,53 +211,51 @@ test('izin verilmeyen origin 403 döner ve sağlayıcıya gidilmez', async () =>
   assert.equal(calls.length, 0);
 });
 
-test('bildirim kilidi varsayılan olarak KAPALI · /emails çağrısı hiç yapılmaz', async () => {
-  // Env'de SUBSCRIBE_NOTIFY_ENABLED yok · stubFetch zaten kilidi kapatıyor.
+test('bildirim kilidi varsayılan olarak AÇIK · /emails çağrısı yapılır', async () => {
+  stubFetch((url) => {
+    if (url.includes('/audiences/')) return new Response('{}', { status: 201 });
+    if (url.endsWith('/emails')) return new Response('{}', { status: 200 });
+    throw new Error('beklenmeyen istek: ' + url);
+  });
+
+  const response = await handler(istek({ email: 'varsayilan@example.com', consent: true }));
+
+  assert.equal(response.status, 200);
+  assert.deepEqual(await response.json(), { ok: true, duplicate: false });
+  assert.equal(calls.length, 2);
+  assert.ok(calls[0].url.includes('/audiences/'));
+  assert.ok(calls[1].url.endsWith('/emails'));
+});
+
+test('SUBSCRIBE_NOTIFY_ENABLED="false" yapıldığında /emails çağrısı hiç yapılmaz', async () => {
   stubFetch((url) => {
     if (url.includes('/audiences/')) return new Response('{}', { status: 201 });
     throw new Error('kilit kapalıyken /emails çağrılmamalı');
   });
+  bildirimKilidiniKapat();
 
   const response = await handler(istek({ email: 'kilit@example.com', consent: true }));
 
-  // Kayıt normal işler · kullanıcı etkilenmez.
   assert.equal(response.status, 200);
   assert.deepEqual(await response.json(), { ok: true, duplicate: false });
-  // Tek çağrı Audience'a · sağlayıcının /emails uç noktasına hiç gidilmez.
   assert.equal(calls.length, 1);
   assert.ok(calls[0].url.includes('/audiences/'));
-  assert.equal(calls.filter((call) => call.url.endsWith('/emails')).length, 0);
+  bildirimKilidiniSifirla();
 });
 
-test('kilit kapalıyken tekrar kayıt da (409) sağlayıcıya gitmez', async () => {
+test('kilit kapalıyken ("false") tekrar kayıt da (409) sağlayıcıya gitmez', async () => {
   stubFetch((url) => {
     if (url.includes('/audiences/')) return new Response('exists', { status: 409 });
     throw new Error('kilit kapalıyken /emails çağrılmamalı');
   });
+  bildirimKilidiniKapat();
 
   const response = await handler(istek({ email: 'kilitdup@example.com', consent: true }));
 
   assert.equal(response.status, 200);
   assert.deepEqual(await response.json(), { ok: true, duplicate: true });
   assert.equal(calls.length, 1);
-});
-
-test('yalnız "true" değeri kilidi açar · başka değerler kapalı sayılır', async () => {
-  for (const deger of ['false', '1', 'yes', 'TRUE ', '', 'evet']) {
-    stubFetch((url) => {
-      if (url.includes('/audiences/')) return new Response('{}', { status: 201 });
-      throw new Error(`kilit "${deger}" değeriyle açılmamalı`);
-    });
-    process.env.SUBSCRIBE_NOTIFY_ENABLED = deger;
-
-    const response = await handler(istek({ email: 'deger@example.com', consent: true }));
-
-    assert.equal(response.status, 200, `değer: ${deger}`);
-    // 'TRUE ' trim + lowercase ile açılır · bu bilinçli, diğerleri kapalı.
-    const beklenen = deger.trim().toLowerCase() === 'true' ? 2 : 1;
-    assert.equal(calls.length, beklenen, `değer: ${deger}`);
-  }
-  bildirimKilidiniKapat();
+  bildirimKilidiniSifirla();
 });
 
 test.after(() => {
