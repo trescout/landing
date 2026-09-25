@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Spdlog · Descubrir · TreScout</title>
-<meta name="description" content="spdlog is a very fast logging library developed for the C++ programming language. · Spdlog · Descubra este proyecto de código abierto en TreScout.">
+<meta name="description" content="Biblioteca de registro ultrarrápida para C++, header-only o precompilada, con búfer circular asíncrono y formato {fmt}.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/es/discover/spdlog.md">
 <link rel="canonical" href="https://trescout.com/es/discover/spdlog/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/spdlog/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/spdlog/">
 <meta property="og:title" content="Spdlog">
-<meta property="og:description" content="spdlog is a very fast logging library developed for the C++ programming language. · Spdlog · Descubra este proyecto de código abierto en TreScout.">
+<meta property="og:description" content="Biblioteca de registro ultrarrápida para C++, header-only o precompilada, con búfer circular asíncrono y formato {fmt}.">
 <meta property="og:url" content="https://trescout.com/es/discover/spdlog/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="es_ES">
@@ -27,15 +27,15 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Spdlog">
-<meta name="twitter:description" content="spdlog is a very fast logging library developed for the C++ programming language. · Spdlog · Descubra este proyecto de código abierto en TreScout.">
+<meta name="twitter:description" content="Biblioteca de registro ultrarrápida para C++, header-only o precompilada, con búfer circular asíncrono y formato {fmt}.">
 <meta name="twitter:image" content="https://trescout.com/assets/discover/og/spdlog-es.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Registro rápido para proyectos C++",
+  "headline": "Biblioteca rápida de registros para proyectos C++",
   "inLanguage": "es",
-  "description": "spdlog es una biblioteca de registro muy rápida desarrollada para el lenguaje de programación C++. Ofrece gestión de resultados de alto rendimiento para acelerar los procesos de depuración y monitoreo en proyectos de software.",
+  "description": "spdlog es una biblioteca de registro (logging) ultrarrápida para C++, disponible como biblioteca de solo encabezados (header-only) o precompilada. Desarrollada con estándares C++ modernos, proporciona salidas sin latencia y con máximo rendimiento.",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -59,24 +59,48 @@
 <link rel="stylesheet" href="/assets/discover.css">
 </head>
 <body>
-<a class="skip-link" href="#main">Skip to main content</a>
+<a class="skip-link" href="#main">Skip</a>
 <nav><div class="container nav-inner"><a class="logo-link" href="/es/" aria-label="TreScout"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/es/discover/" class="btn btn-ghost">Descubrir</a><a href="/es/dictionary/" class="btn btn-ghost">Glosario</a><a href="/es/reports/" class="btn btn-ghost">Archivo de informes</a><a href="/es/compare/rss-vs-ai/" class="btn btn-ghost">Comparar</a><a href="/discover/spdlog/" class="btn btn-ghost" aria-label="TR">TR</a><a href="/en/discover/spdlog/" class="btn btn-ghost" aria-label="EN">EN</a><a href="/fr/discover/spdlog/" class="btn btn-ghost" aria-label="FR">FR</a><a href="/pt/discover/spdlog/" class="btn btn-ghost" aria-label="PT">PT</a><a href="/de/discover/spdlog/" class="btn btn-ghost" aria-label="DE">DE</a></div></div></nav>
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/es/discover/">← Descubrir</a>
-<div class="disc-top"><span class="disc-eyebrow">Descubrir · GitHub · Spdlog</span><span class="disc-momentum">↑ +10 hoy</span></div>
-<h1 class="disc-title">Registro rápido para proyectos C++</h1>
-<p class="disc-lead">spdlog es una biblioteca de registro muy rápida desarrollada para el lenguaje de programación C++. Ofrece gestión de resultados de alto rendimiento para acelerar los procesos de depuración y monitoreo en proyectos de software.</p>
+<div class="disc-top"><span class="disc-eyebrow">Descubrir · GitHub · spdlog</span><span class="disc-momentum">↑ +14 hoy</span></div>
+<h1 class="disc-title">Biblioteca rápida de registros para proyectos C++</h1>
+<p class="disc-lead">spdlog es una biblioteca de registro (logging) ultrarrápida para C++, disponible como biblioteca de solo encabezados (header-only) o precompilada. Desarrollada con estándares C++ modernos, proporciona salidas sin latencia y con máximo rendimiento.</p>
 <ul class="disc-meta"><li>★ 29.437</li><li>C++</li><li>GitHub Trending · 2026-08-05</li></ul>
-      <section class="disc-sec disc-updates"><h2>Actualizaciones</h2><ul class="disc-update-list"><li><strong>6 de agosto de 2026:</strong> Estrellas 29,402 → 29,437, última versión v1.17.0 (4 de enero de 2026).</li></ul></section>
-      <section class="disc-sec"><h2>Qué aporta</h2><ul class="disc-wins"><li>Gestión de registros de alto rendimiento</li><li>Salida a diferentes destinos como archivo, consola y depurador.</li><li>El nivel de registro dinámico cambia en tiempo de ejecución</li></ul></section>
-      <section class="disc-sec"><h2>Instalación</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>macOS (Homebrew)</span><button type="button" class="disc-copy" aria-label="Copiar comando">Copiar</button></div><pre><code>brew install spdlog</code></pre></div></section>
-      <section class="disc-sec"><h2>Cómo empezar</h2><p>Para incluirlo en su proyecto, simplemente copie la carpeta de inclusión de la página de GitHub a su directorio de trabajo. Alternativamente, puede instalar la biblioteca usando el comando apropiado para su sistema a través de administradores de paquetes como Debian, Homebrew o vcpkg.</p></section>
-      <section class="disc-sec"><h2>Términos relacionados del glosario</h2><div class="disc-related"><a href="/es/dictionary/logging/">Logging</a></div></section>
-      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Para quién es</span><span class="disc-fact-v">Para desarrolladores de C++ que desean acelerar la depuración y el monitoreo de proyectos de software.</span></div></div>
+      <section class="disc-sec"><h2>Actualizaciones</h2><ul class="disc-wins"><li><strong>6 de agosto de 2026:</strong> Estrellas 29.402 → 29.437, última versión v1.17.0 (4 de enero de 2026).</li></ul></section>
+      <section class="disc-sec"><h2>Qué aporta</h2><ul class="disc-wins"><li><strong>Rendimiento de millones de líneas por segundo:</strong> Arquitectura sin asignaciones dinámicas para una latencia de microsegundos en el hilo principal.</li><li><strong>Cola circular asíncrona sin bloqueos:</strong> Transfiere la escritura a un grupo de hilos de fondo, protegiendo las rutas críticas de cuellos de botella de E/S.</li><li><strong>Múltiples destinos (sinks):</strong> Salida simultánea a consola con colores, archivos rotativos por tamaño, registros diarios y syslog.</li><li><strong>Potencia de formato {fmt} integrada:</strong> Usa la biblioteca {fmt} (estandarizada en C++20) para un formateo seguro, rápido y expresivo.</li><li><strong>Flexibilidad header-only o compilada:</strong> Intégrala copiando una carpeta en tu proyecto o enlázala estáticamente para compilaciones más rápidas.</li></ul></section>
+      <section class="disc-sec"><h2>Instalación</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>macOS (Homebrew)</span><button type="button" class="disc-copy" aria-label="Copy">Copy</button></div><pre><code>brew install spdlog</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Gestor vcpkg</span><button type="button" class="disc-copy" aria-label="Copy">Copy</button></div><pre><code>vcpkg install spdlog</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Integración CMake FetchContent</span><button type="button" class="disc-copy" aria-label="Copy">Copy</button></div><pre><code>include(FetchContent)
+FetchContent_Declare(
+  spdlog
+  GIT_REPOSITORY https://github.com/gabime/spdlog.git
+  GIT_TAG v1.17.0
+)
+FetchContent_MakeAvailable(spdlog)
+target_link_libraries(mi_proyecto PRIVATE spdlog::spdlog)</code></pre></div></section>
+      <section class="disc-sec"><h2>Cómo empezar y uso básico</h2><p>Comenzar a usar spdlog no requiere esfuerzo. Tras incluir la cabecera, llama a funciones globales o crea instancias de loggers específicos:</p><div class="disc-cmd"><div class="disc-cmd-head"><span>Ejemplo básico en C++</span><button type="button" class="disc-copy" aria-label="Copy">Copy</button></div><pre><code>#include &quot;spdlog/spdlog.h&quot;
+#include &quot;spdlog/sinks/rotating_file_sink.h&quot;
+
+int main() {
+    // Registro estandar en consola
+    spdlog::info(&quot;spdlog iniciado correctamente.&quot;);
+    spdlog::warn(&quot;Atencion: ¡el uso de memoria esta subiendo!&quot;);
+    spdlog::error(&quot;Codigo de error: {:d}, mensaje: {}&quot;, 404, &quot;Pagina no encontrada&quot;);
+
+    // Logger de archivo rotativo (max 5MB, 3 archivos)
+    auto file_logger = spdlog::rotating_logger_mt(&quot;file_logger&quot;, &quot;logs/app.txt&quot;, 1024 * 1024 * 5, 3);
+    file_logger-&gt;info(&quot;Este mensaje es seguro entre hilos y se archiva automaticamente.&quot;);
+
+    return 0;
+}</code></pre></div></section>
+      <section class="disc-sec"><h2>Arquitectura técnica y funcionamiento interno</h2><p>La excepcional velocidad de spdlog se apoya en un diseño modular con cero sobrecoste:</p><ul class="disc-wins"><li><strong>Separación entre Logger y Sink:</strong> El logger filtra por nivel (trace, debug, info, warn, err, critical) y pasa el registro a uno o varios destinos.</li><li><strong>Seguridad de hilos (_mt vs _st):</strong> Clases sink disponibles con sincronización mutex (_mt) o versiones mono-hilo sin bloqueo (_st).</li><li><strong>Búfer circular asíncrono:</strong> El pool de hilos en background procesa los registros sin ralentizar la lógica del programa.</li><li><strong>Vaciado inteligente (Flush):</strong> Los datos se almacenan en búfer y se fuerzan a disco automáticamente ante errores críticos.</li></ul></section>
+      <section class="disc-sec"><h2>Si no programas</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Pega esto en tu agente de IA (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Copy">Copy</button></div><p class="disc-ai-text">Quiero configurar spdlog en un proyecto moderno de C++ con CMake en modo asíncrono. ¿Podrías darme una función de inicialización y un archivo CMakeLists.txt con salida en color por consola, archivo rotativo de 10MB y vaciado inmediato ante errores?</p></div></section>
+      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Para quién</span><span class="disc-fact-v">Desarrolladores C++, creadores de motores de videojuegos y sistemas embebidos que requieren mínima latencia.</span></div><div class="disc-fact"><span class="disc-fact-k">Licencia</span><span class="disc-fact-v">MIT (Licencia de código abierto permisiva)</span></div><div class="disc-fact"><span class="disc-fact-k">Integración</span><span class="disc-fact-v">Solo encabezados o biblioteca precompilada</span></div><div class="disc-fact"><span class="disc-fact-k">Estándares</span><span class="disc-fact-v">C++11, C++14, C++17, C++20</span></div></div>
+      <section class="disc-sec"><h2>Preguntas frecuentes</h2><ul class="disc-wins"><li><strong>¿Por qué elegir spdlog frente a printf o std::cout?</strong> spdlog es inmensamente más rápido, seguro entre hilos, ofrece niveles estructurados y soporte asíncrono con {fmt}.</li><li><strong>¿Se pueden registrar clases personalizadas?</strong> Sí, sobrecargando el operator<< o especializando fmt::formatter para tus tipos.</li><li><strong>¿Es adecuado para videojuegos y trading de alta frecuencia?</strong> Sí, gracias a los búferes asíncronos y sinks lock-free, los registros toman nanosegundos sin pausar el hilo gráfico.</li><li><strong>¿Admite formato JSON estructurado?</strong> Sí, puedes configurar patrones personalizados para generar logs en JSON compatibles con Datadog o Grafana Loki.</li></ul></section>
       <section class="disc-sec"><h2>Enlaces</h2><ul class="disc-links"><li><a href="https://github.com/gabime/spdlog" target="_blank" rel="noopener">Repositorio en GitHub →</a></li><li><a href="https://trescout.com/discover/spdlog/">Leer en turco →</a></li></ul></section>
-<p class="disc-disclaimer">TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-08-05: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se <strong>tradujo automáticamente</strong> del original en turco · prevalece la versión turca.</p>
-<aside class="disc-cta"><p><strong>Reciba descubrimientos similares en el informe diario.</strong> TreScout rastrea GitHub, Hacker News y HuggingFace cada día y le resume lo esencial.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-es" data-page-type="discover" data-content-slug="spdlog" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Su correo electrónico" autocomplete="email" required><button class="btn btn-primary" type="submit">Acceso anticipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>He leído el <a href="/es/privacy.html" target="_blank" rel="noopener">aviso de privacidad</a> y acepto que mi correo se trate con esta finalidad.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/es/discover/">Todos los descubrimientos →</a></aside>
+<p class="disc-disclaimer">TreScout no desarrolló esta herramienta · la descubrimos en las tendencias de GitHub y la resumimos en español. Esta página describe el repositorio a fecha de 2026-08-05.</p>
+<section class="disc-sec"><h2>Términos relacionados del glosario</h2><div class="disc-related"><a href="/es/dictionary/logging/">Logging</a><a href="/es/dictionary/logs/">Logs</a><a href="/es/dictionary/runtime/">Runtime</a><a href="/es/dictionary/memory-management/">Memory Management</a></div></section>
+      <aside class="disc-cta"><p><strong>Reciba descubrimientos similares en el informe diario.</strong> TreScout rastrea GitHub, Hacker News y HuggingFace cada día y le resume lo esencial.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-es" data-page-type="discover" data-content-slug="spdlog" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Su correo electrónico" autocomplete="email" required><button class="btn btn-primary" type="submit">Acceso anticipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>He leído el <a href="/es/privacy.html" target="_blank" rel="noopener">aviso de privacidad</a> y acepto que mi correo se trate con esta finalidad.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/es/discover/">Todos los descubrimientos →</a></aside>
 </article>
 </main>
 <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">TreScout rastrea, resume y entrega. Usted solo lee.</p></div><div class="footer-col"><div class="footer-col-title">Producto</div><ul><li><a href="/es/discover/">Descubrir</a></li><li><a href="/es/dictionary/">Glosario</a></li><li><a href="/es/reports/">Archivo de informes</a></li><li><a href="/es/compare/rss-vs-ai/">Comparar</a></li><li><a href="/es/#top">Acceso anticipado</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Contacto</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/es/privacy.html" target="_blank" rel="noopener">Aviso de privacidad</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Redes</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Todos los derechos reservados.</span></div></div></footer>

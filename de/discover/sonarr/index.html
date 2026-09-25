@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Sonarr · Entdecken · TreScout</title>
-<meta name="description" content="Sonarr is a smart personal video recorder (PVR) developed for newsgroup and bittorrent users.">
+<meta name="description" content="Sonarr ist ein intelligenter Open-Source-PVR, der Serien für Usenet- und BitTorrent-Nutzer automatisch überwacht, herunterlädt und organisiert.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/de/discover/sonarr.md">
 <link rel="canonical" href="https://trescout.com/de/discover/sonarr/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/sonarr/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/sonarr/">
 <meta property="og:title" content="Sonarr">
-<meta property="og:description" content="Sonarr is a smart personal video recorder (PVR) developed for newsgroup and bittorrent users.">
+<meta property="og:description" content="Sonarr ist ein intelligenter Open-Source-PVR, der Serien für Usenet- und BitTorrent-Nutzer automatisch überwacht, herunterlädt und organisiert.">
 <meta property="og:url" content="https://trescout.com/de/discover/sonarr/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="de_DE">
@@ -27,15 +27,15 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Sonarr">
-<meta name="twitter:description" content="Sonarr is a smart personal video recorder (PVR) developed for newsgroup and bittorrent users.">
+<meta name="twitter:description" content="Sonarr ist ein intelligenter Open-Source-PVR, der Serien für Usenet- und BitTorrent-Nutzer automatisch überwacht, herunterlädt und organisiert.">
 <meta name="twitter:image" content="https://trescout.com/assets/discover/og/sonarr-de.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Verwalten Sie Ihr Serienarchiv automatisch",
+  "headline": "Serienarchiv und Heim-Streaming automatisch verwalten",
   "inLanguage": "de",
-  "description": "Sonarr ist ein intelligenter persönlicher Videorekorder (PVR) für Newsgroups- und Bittorrent-Nutzer. Es ist ein Open-Source-Medienverwaltungstool, mit dem Benutzer ihre Serieninhalte automatisch verfolgen, herunterladen und organisieren können.",
+  "description": "Sonarr ist ein quelloffener, intelligenter Videorekorder (PVR) und Medienautomatisierungs-Manager für Usenet- und BitTorrent-Nutzer. Entwickelt in C# und .NET, überwacht er neue Episoden, steuert Download-Clients, benennt Dateien um und integriert sie nahtlos in Plex- und Jellyfin-Bibliotheken.",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -50,7 +50,7 @@
   "about": {
     "@type": "SoftwareSourceCode",
     "name": "Sonarr",
-    "codeRepository": "https://sonarr.tv"
+    "codeRepository": "https://github.com/Sonarr/Sonarr"
   }
 }
 </script>
@@ -59,23 +59,42 @@
 <link rel="stylesheet" href="/assets/discover.css">
 </head>
 <body>
-<a class="skip-link" href="#main">Skip to main content</a>
+<a class="skip-link" href="#main">Skip</a>
 <nav><div class="container nav-inner"><a class="logo-link" href="/de/" aria-label="TreScout"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/de/discover/" class="btn btn-ghost">Entdecken</a><a href="/de/dictionary/" class="btn btn-ghost">Glossar</a><a href="/de/reports/" class="btn btn-ghost">Berichtsarchiv</a><a href="/de/compare/rss-vs-ai/" class="btn btn-ghost">Vergleich</a><a href="/discover/sonarr/" class="btn btn-ghost" aria-label="TR">TR</a><a href="/en/discover/sonarr/" class="btn btn-ghost" aria-label="EN">EN</a><a href="/fr/discover/sonarr/" class="btn btn-ghost" aria-label="FR">FR</a><a href="/pt/discover/sonarr/" class="btn btn-ghost" aria-label="PT">PT</a><a href="/es/discover/sonarr/" class="btn btn-ghost" aria-label="ES">ES</a></div></div></nav>
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/de/discover/">← Entdecken</a>
-<div class="disc-top"><span class="disc-eyebrow">Entdecken · GitHub · Sonarr</span><span class="disc-momentum">↑ +191 heute</span></div>
-<h1 class="disc-title">Verwalten Sie Ihr Serienarchiv automatisch</h1>
-<p class="disc-lead">Sonarr ist ein intelligenter persönlicher Videorekorder (PVR) für Newsgroups- und Bittorrent-Nutzer. Es ist ein Open-Source-Medienverwaltungstool, mit dem Benutzer ihre Serieninhalte automatisch verfolgen, herunterladen und organisieren können.</p>
+<div class="disc-top"><span class="disc-eyebrow">Entdecken · GitHub · Sonarr</span><span class="disc-momentum">↑ +148 heute</span></div>
+<h1 class="disc-title">Serienarchiv und Heim-Streaming automatisch verwalten</h1>
+<p class="disc-lead">Sonarr ist ein quelloffener, intelligenter Videorekorder (PVR) und Medienautomatisierungs-Manager für Usenet- und BitTorrent-Nutzer. Entwickelt in C# und .NET, überwacht er neue Episoden, steuert Download-Clients, benennt Dateien um und integriert sie nahtlos in Plex- und Jellyfin-Bibliotheken.</p>
 <ul class="disc-meta"><li>★ 16.274</li><li>C#</li><li>GitHub Trending · 2026-09-12</li></ul>
-      <section class="disc-sec disc-updates"><h2>Aktualisierungen</h2><ul class="disc-update-list"><li><strong>17. September 2026:</strong> Sterne 15,798 → 16,274, neueste Version v4.0.20.3014 (16. September 2026).</li><li><strong>12. September 2026:</strong> Sterne 15,796 → 15,798, neueste Version v4.0.19.2979 (26. Juni 2026).</li></ul></section>
-      <section class="disc-sec"><h2>Was es bringt</h2><ul class="disc-wins"><li>Erkennt und lädt neue Serienfolgen automatisch herunter.</li><li>Aktualisiert Ihre vorhandenen Dateien automatisch auf eine höhere Qualität.</li><li>Organisiert Ihre Mediendateien und benennt sie nach Ihren Wünschen um.</li></ul></section>
-      <section class="disc-sec"><h2>So fangen Sie an</h2><ul class="disc-links"><li>Offizielle Quelle →</li></ul></section>
-      <section class="disc-sec"><h2>Verwandte Begriffe aus dem Glossar</h2><div class="disc-related"><a href="/de/dictionary/newsgroup/">Newsgroup</a><a href="/de/dictionary/pvr/">PVR</a></div></section>
-      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Für wen es gedacht ist</span><span class="disc-fact-v">Geeignet für Medienbegeisterte, die Serien- und Videoinhalte organisiert verfolgen, herunterladen und archivieren möchten.</span></div><div class="disc-fact"><span class="disc-fact-k">Lizenz</span><span class="disc-fact-v">GPL-3.0</span></div></div>
-      <section class="disc-sec"><h2>Links</h2><ul class="disc-links"><li><a href="https://sonarr.tv" target="_blank" rel="noopener">GitHub-Repository →</a></li><li><a href="https://trescout.com/discover/sonarr/">Auf Türkisch lesen →</a></li></ul></section>
-<p class="disc-disclaimer">TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-09-12 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde <strong>maschinell übersetzt</strong> aus dem türkischen Original · maßgeblich ist die türkische Fassung.</p>
-<aside class="disc-cta"><p><strong>Erhalten Sie ähnliche Entdeckungen im täglichen Bericht.</strong> TreScout durchsucht täglich GitHub, Hacker News und HuggingFace und fasst das Wesentliche zusammen.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-de" data-page-type="discover" data-content-slug="sonarr" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Ihre E-Mail-Adresse" autocomplete="email" required><button class="btn btn-primary" type="submit">Vorabzugang</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Ich habe den <a href="/de/privacy.html" target="_blank" rel="noopener">Datenschutzhinweis</a> gelesen und bin damit einverstanden, dass meine E-Mail-Adresse zu diesem Zweck verarbeitet wird.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/de/discover/">Alle Entdeckungen →</a></aside>
+      <section class="disc-sec"><h2>Aktualisierungen</h2><ul class="disc-wins"><li><strong>17. September 2026:</strong> Sterne 16.274, neueste Version v4.0.20.3014 (.NET 8 Runtime-Optimierungen und Upgrades für Custom Formats Scoring).</li></ul></section>
+      <section class="disc-sec"><h2>Was es bringt</h2><ul class="disc-wins"><li><strong>Automatische Episodenverfolgung & Kalender:</strong> Behält Ausstrahlungstermine im integrierten Kalender im Blick und startet Downloads bei Veröffentlichung.</li><li><strong>Intelligente Qualitäts-Upgrades:</strong> Ersetzt niedrig aufgelöste Episoden (720p HDTV) im Laufe der Zeit automatisch durch Spitzenversionen (1080p / 4K HDR WEB-DL).</li><li><strong>Speicherschonende Hardlinks:</strong> Ermöglicht weiteres Torrent-Seeding ohne zusätzlichen Speicherplatzbedarf auf dem Medienserver.</li><li><strong>Umfassende Client- & Indexer-Anbindung:</strong> Nahtlose Zusammenarbeit mit qBittorrent, Transmission, Deluge, SABnzbd und NZBGet.</li><li><strong>Standardisierte Dateiorganisation:</strong> Benennt Episoden und Staffelordner automatisch nach den Anforderungen von Plex, Jellyfin und Emby.</li></ul></section>
+      <section class="disc-sec"><h2>Installationsoptionen: Docker und lokaler Dienst</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Docker Compose Einrichtung</span><button type="button" class="disc-copy" aria-label="Kopieren">Kopieren</button></div><pre><code>services:
+  sonarr:
+    image: lscr.io/linuxserver/sonarr:latest
+    container_name: sonarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/Berlin
+    volumes:
+      - /opt/sonarr/data:/config
+      - /mnt/storage/media/tv:/tv
+      - /mnt/storage/downloads:/downloads
+    ports:
+      - 8989:8989
+    restart: unless-stopped</code></pre></div></section>
+      <section class="disc-sec"><h2>Ausführung und Ersteinrichtung</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Container starten</span><button type="button" class="disc-copy" aria-label="Copy">Copy</button></div><pre><code>docker compose up -d</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Weboberfläche öffnen</span><button type="button" class="disc-copy" aria-label="Copy">Copy</button></div><pre><code>http://localhost:8989</code></pre></div></section>
+      <section class="disc-sec"><h2>Technische Architektur und Funktionsweise</h2><p>Sonarr fungiert als Orchestrierungszentrale in modernen Self-Hosted-Medienumgebungen:</p><ul class="disc-wins"><li><strong>Torznab- und Newznab-Protokollbrücke:</strong> Kommuniziert über Prowlarr oder Jackett via standardisierte XML- und JSON-Schnittstellen mit Indexern.</li><li><strong>Atomare Dateioperationen und Hardlinks:</strong> Verknüpft Dateisystem-Inodes direkt, statt Gigabytes an Videodaten zu kopieren – null zusätzliche Festplattenabnutzung.</li><li><strong>Custom Formats Scoring-Engine:</strong> Bewertet Releases nach bevorzugten Audioformaten (Atmos, DTS-HD), Videocodecs (AV1, HEVC) und Releasegruppen.</li></ul></section>
+      <section class="disc-sec"><h2>Integration ins Medien-Ökosystem (Plex, Jellyfin, Prowlarr)</h2><p>Im perfekten Homelab arbeitet Sonarr im Verbund mit ergänzenden Diensten:</p><ul class="disc-steps"><li><strong>Indexer-Abgleich mit Prowlarr:</strong> Verwalten Sie Tracker zentral und übertragen Sie Konfigurationen automatisch nach Sonarr.</li><li><strong>Downloadsteuerung mit qBittorrent / SABnzbd:</strong> Setzen Sie Uploadlimits und trennen Sie Medienpfade über Kategorien.</li><li><strong>Sofortige Bibliotheksaktualisierung:</strong> Benachrichtigt Plex oder Jellyfin per Webhook, sobald eine Datei fertig einsortiert wurde.</li></ul></section>
+      <section class="disc-sec"><h2>Wenn Sie nicht programmieren</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Fügen Sie dies in Ihren KI-Agenten ein (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Kopieren">Kopieren</button></div><p class="disc-ai-text">Ich möchte Sonarr zusammen mit qBittorrent, Prowlarr und Jellyfin per Docker Compose betreiben. Kannst du mir eine vollständige docker-compose.yml mit konsistenter Volume-Struktur für funktionierende Hardlinks bereitstellen und die ersten Einrichtungsschritte in Sonarr erklären?</p></div></section>
+      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Für wen</span><span class="disc-fact-v">Homelab-Enthusiasten, Serienfans und Nutzer, die ihre Mediensammlung ohne manuellen Aufwand pflegen wollen.</span></div><div class="disc-fact"><span class="disc-fact-k">Lizenz</span><span class="disc-fact-v">GPL-3.0 (Freie Open-Source-Lizenz)</span></div><div class="disc-fact"><span class="disc-fact-k">Technologie</span><span class="disc-fact-v">C# und .NET basierte Webanwendung</span></div><div class="disc-fact"><span class="disc-fact-k">Web-Port</span><span class="disc-fact-v">Standard 8989</span></div></div>
+      <section class="disc-sec"><h2>Häufig gestellte Fragen</h2><ul class="disc-wins"><li><strong>Lädt Sonarr Mediendateien selbst herunter?</strong> Nein. Sonarr ist kein Download-Client, sondern der Manager. Er durchsucht Indexer, übergibt Aufträge an qBittorrent oder SABnzbd und verschiebt die fertigen Dateien in die Bibliothek.</li><li><strong>Was ist ein Hardlink und belegt er doppelten Speicher?</strong> Nein. Ein Hardlink ist ein zweiter Verweis auf dieselben physischen Datenblöcke der Festplatte. Die Datei erscheint in zwei Ordnern, belegt den Speicherplatz aber nur einmal.</li><li><strong>Was ist der Unterschied zwischen Sonarr und Radarr?</strong> Sonarr ist auf Serien und Staffeln spezialisiert, während Radarr dasselbe Konzept für Spielfilme umsetzt.</li><li><strong>Muss Sonarr über ein VPN laufen?</strong> Sonarr fragt nur Metadaten ab und benötigt in der Regel kein VPN. Es wird jedoch dringend empfohlen, den Download-Client (qBittorrent) über einen VPN-Tunnel zu betreiben.</li></ul></section>
+      <section class="disc-sec"><h2>Links</h2><ul class="disc-links"><li><a href="https://github.com/Sonarr/Sonarr" target="_blank" rel="noopener">GitHub-Repository →</a></li><li><a href="https://trescout.com/discover/sonarr/">Auf Türkisch lesen →</a></li></ul></section>
+<p class="disc-disclaimer">TreScout hat dieses Tool nicht selbst entwickelt · wir haben es in den GitHub-Trends entdeckt und auf Deutsch zusammengefasst. Diese Seite beschreibt den Stand des Repositorys vom 2026-09-12.</p>
+<section class="disc-sec"><h2>Verwandte Begriffe aus dem Glossar</h2><div class="disc-related"><a href="/de/dictionary/self-hosted/">Self-Hosted</a><a href="/de/dictionary/offline/">Offline</a><a href="/de/dictionary/open-source/">Open Source</a><a href="/de/dictionary/local/">Local</a></div></section>
+      <aside class="disc-cta"><p><strong>Erhalten Sie ähnliche Entdeckungen im täglichen Bericht.</strong> TreScout durchsucht täglich GitHub, Hacker News und HuggingFace und fasst das Wesentliche zusammen.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-de" data-page-type="discover" data-content-slug="sonarr" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Ihre E-Mail-Adresse" autocomplete="email" required><button class="btn btn-primary" type="submit">Vorabzugang</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Ich habe den <a href="/de/privacy.html" target="_blank" rel="noopener">Datenschutzhinweis</a> gelesen und bin damit einverstanden, dass meine E-Mail-Adresse zu diesem Zweck verarbeitet wird.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/de/discover/">Alle Entdeckungen →</a></aside>
 </article>
 </main>
 <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">TreScout durchsucht, fasst zusammen und liefert. Sie lesen nur.</p></div><div class="footer-col"><div class="footer-col-title">Produkt</div><ul><li><a href="/de/discover/">Entdecken</a></li><li><a href="/de/dictionary/">Glossar</a></li><li><a href="/de/reports/">Berichtsarchiv</a></li><li><a href="/de/compare/rss-vs-ai/">Vergleich</a></li><li><a href="/de/#top">Vorabzugang</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Kontakt</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/de/privacy.html" target="_blank" rel="noopener">Datenschutzhinweis</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Netzwerke</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Alle Rechte vorbehalten.</span></div></div></footer>

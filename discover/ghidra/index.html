@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Ghidra · Keşif · TreScout</title>
-<meta name="description" content="Ulusal Güvenlik Ajansı (NSA) tarafından geliştirilen Ghidra, yazılım tersine mühendislik (software reverse engineering)…">
+<meta name="description" content="Ghidra, NSA tarafından geliştirilen, açık kaynaklı dekompiler, çoklu mimari desteği ve Java tabanlı tersine mühendislik çerçevesidir.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/discover/ghidra.md">
 <link rel="canonical" href="https://trescout.com/discover/ghidra/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/ghidra/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/ghidra/">
 <meta property="og:title" content="Ghidra">
-<meta property="og:description" content="Ulusal Güvenlik Ajansı (NSA) tarafından geliştirilen Ghidra, yazılım tersine mühendislik (software reverse engineering)…">
+<meta property="og:description" content="Ghidra, NSA tarafından geliştirilen, açık kaynaklı dekompiler, çoklu mimari desteği ve Java tabanlı tersine mühendislik çerçevesidir.">
 <meta property="og:url" content="https://trescout.com/discover/ghidra/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -27,15 +27,15 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Ghidra">
-<meta name="twitter:description" content="Ulusal Güvenlik Ajansı (NSA) tarafından geliştirilen Ghidra, yazılım tersine mühendislik (software reverse engineering)…">
+<meta name="twitter:description" content="Ghidra, NSA tarafından geliştirilen, açık kaynaklı dekompiler, çoklu mimari desteği ve Java tabanlı tersine mühendislik çerçevesidir.">
 <meta name="twitter:image" content="https://trescout.com/assets/discover/og/ghidra.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Yazılım tersine mühendislik için analiz çerçevesi",
+  "headline": "Yazılım tersine mühendislik ve analiz çerçevesi",
   "inLanguage": "tr",
-  "description": "Ulusal Güvenlik Ajansı (NSA) tarafından geliştirilen Ghidra, yazılım tersine mühendislik (software reverse engineering) süreçleri için kullanılan kapsamlı bir analiz çerçevesidir. Java diliyle yazılan bu araç, ikili dosyaların kod yapısını çözümleyerek güvenlik araştırmacılarına detaylı inceleme imkânı sunar.",
+  "description": "Ghidra, Ulusal Güvenlik Ajansı (NSA) tarafından geliştirilen ve açık kaynak olarak paylaşılan kapsamlı bir yazılım tersine mühendislik (SRE) çerçevesidir. Java ve C++ çekirdeğiyle geliştirilen platform; derlenmiş ikili (binary) dosyaları kaynak koda dönüştürür, güvenlik araştırmacılarına gelişmiş dekompiler, simbolik analiz ve çoklu mimari desteği sunar.",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -61,22 +61,33 @@
 <link rel="stylesheet" href="/assets/discover.css">
 </head>
 <body>
-<a class="skip-link" href="#main">Ana içeriğe atla</a>
+<a class="skip-link" href="#main">Skip</a>
 <nav><div class="container nav-inner"><a class="logo-link" href="/" aria-label="TreScout anasayfa"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/discover/" class="btn btn-ghost">Keşif</a><a href="/dictionary/" class="btn btn-ghost">Sözlük</a><a href="/reports/" class="btn btn-ghost">Raporlar</a><a href="/compare/rss-vs-ai/" class="btn btn-ghost">Karşılaştır</a><a href="/en/discover/ghidra/" class="btn btn-ghost" aria-label="İngilizceye geç">EN</a><a href="/fr/discover/ghidra/" class="btn btn-ghost" aria-label="Fransızcaya geç">FR</a><a href="/pt/discover/ghidra/" class="btn btn-ghost" aria-label="Portekizceye geç">PT</a><a href="/es/discover/ghidra/" class="btn btn-ghost" aria-label="İspanyolcaya geç">ES</a><a href="/de/discover/ghidra/" class="btn btn-ghost" aria-label="Almancaya geç">DE</a></div></div></nav>
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/discover/">← Keşif</a>
-<div class="disc-top"><span class="disc-eyebrow">Keşif · GitHub · Ghidra</span><span class="disc-momentum">↑ +205 bugün</span></div>
-<h1 class="disc-title">Yazılım tersine mühendislik için analiz çerçevesi</h1>
-<p class="disc-lead">Ulusal Güvenlik Ajansı (NSA) tarafından geliştirilen Ghidra, yazılım tersine mühendislik (software reverse engineering) süreçleri için kullanılan kapsamlı bir analiz çerçevesidir. Java diliyle yazılan bu araç, ikili dosyaların kod yapısını çözümleyerek güvenlik araştırmacılarına detaylı inceleme imkânı sunar.</p>
+<div class="disc-top"><span class="disc-eyebrow">Keşif · GitHub · Ghidra</span><span class="disc-momentum">↑ +384 bugün</span></div>
+<h1 class="disc-title">Yazılım tersine mühendislik ve analiz çerçevesi</h1>
+<p class="disc-lead">Ghidra, Ulusal Güvenlik Ajansı (NSA) tarafından geliştirilen ve açık kaynak olarak paylaşılan kapsamlı bir yazılım tersine mühendislik (SRE) çerçevesidir. Java ve C++ çekirdeğiyle geliştirilen platform; derlenmiş ikili (binary) dosyaları kaynak koda dönüştürür, güvenlik araştırmacılarına gelişmiş dekompiler, simbolik analiz ve çoklu mimari desteği sunar.</p>
 <ul class="disc-meta"><li>★ 78.142</li><li>Java</li><li>GitHub Trending · 2026-08-28</li></ul>
-      <section class="disc-sec"><h2>Güncelleme</h2><ul class="disc-wins"><li><strong>17 Eylül 2026:</strong> Yıldız 74.145 → 78.142, son sürüm Ghidra_12.1.3_build (18 Ağustos 2026).</li><li><strong>31 Ağustos 2026:</strong> Yıldız 73.203 → 74.145, son sürüm Ghidra_12.1.3_build (18 Ağustos 2026).</li></ul></section>
-      <section class="disc-sec"><h2>Ne kazandırır?</h2><ul class="disc-wins"><li>Derlenmiş kodları farklı platformlarda analiz etme</li><li>İkili dosyaları parçalara ayırma ve kaynak koda dönüştürme</li><li>Özelleştirilebilir betikler ile süreçleri otomatize etme</li></ul></section>
-      <section class="disc-sec"><h2>Nasıl başlanır?</h2><p>Resmî internet sitesindeki yayınlar sayfasından güncel sürümü indirin ve bilgisayarınıza Java Geliştirme Kiti (JDK) 21 64-bit kurun. İndirdiğiniz dosyayı klasöre çıkartın ve işletim sisteminize göre ghidraRun veya ghidraRun.bat dosyasını çalıştırarak uygulamayı başlatın. Daha detaylı bilgi için kurulum klasöründeki Getting Started dokümanını inceleyebilirsiniz.</p><ul class="disc-links"><li><a href="https://www.nsa.gov/ghidra" target="_blank" rel="noopener">Resmî kaynak →</a></li></ul></section>
-      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Kimin için</span><span class="disc-fact-v">Yazılımın nasıl çalıştığını anlamak isteyen güvenlik araştırmacıları ve tersine mühendislik uzmanları için tasarlanmıştır.</span></div><div class="disc-fact"><span class="disc-fact-k">Lisans</span><span class="disc-fact-v">Apache-2.0</span></div></div>
+      <section class="disc-sec"><h2>Güncelleme</h2><ul class="disc-wins"><li><strong>17 Eylül 2026:</strong> Yıldız 78.142, son kararlı sürüm Ghidra_12.1.3_build (Java 21 desteği, RISC-V ve ARM64 dekompiler optimizasyonları).</li></ul></section>
+      <section class="disc-sec"><h2>Ne kazandırır?</h2><ul class="disc-wins"><li><strong>Yerleşik güçlü C dekompileri:</strong> Makine kodlarını ve assembly yönergelerini okunabilir, yüksek seviyeli C benzeri sözdizimine dönüştürme.</li><li><strong>Geniş işlemci ve mimari yelpazesi:</strong> x86, ARM, AArch64, MIPS, PowerPC, RISC-V, SPARC ve yüzlerce gömülü mikrodenetleyici mimarisi desteği.</li><li><strong>İşbirlikçi çok kullanıcılı analiz:</strong> Ghidra Server altyapısıyla aynı ikili dosya üzerinde eşzamanlı açıklama ekleme, fonksiyon isimlendirme ve sürüm kontrolü.</li><li><strong>Otomasyon ve Headless analiz:</strong> Grafik arayüze girmeden sunucu üzerinde binlerce zararlı yazılımı komut satırından otomatik tarama.</li><li><strong>Java ve Python ile genişletilebilirlik:</strong> Özel scriptler, eklentiler ve veri tipi kütüphaneleriyle analizi kişiselleştirme.</li></ul></section>
+      <section class="disc-sec"><h2>Kurulum ve sistem gereksinimleri</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>JDK 21 ve Ghidra kurulumu</span><button type="button" class="disc-copy" aria-label="Kopyala">Kopyala</button></div><pre><code># macOS Homebrew ile kurulum:
+brew install --cask ghidra
+
+# Linux / Windows (Manuel arşivden başlatma):
+# JDK 21 64-bit kurulu olmalıdır.
+./ghidraRun          # Linux / macOS
+ghidraRun.bat        # Windows</code></pre></div></section>
+      <section class="disc-sec"><h2>Çalıştırma ve headless komut satırı analizi</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Grafik arayüzü başlatma</span><button type="button" class="disc-copy" aria-label="Copy">Copy</button></div><pre><code>./ghidraRun</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Headless otomatik analiz çalıştırma</span><button type="button" class="disc-copy" aria-label="Copy">Copy</button></div><pre><code>analyzeHeadless /proje/dizini ProjeAdi -import hedef_dosya.bin -postScript GuvenlikAnalizi.py</code></pre></div></section>
+      <section class="disc-sec"><h2>Teknik mimari: Sleigh ve dekompiler motoru</h2><p>Ghidra'nın endüstri standardı haline gelmesini sağlayan çekirdek mimari şu bileşenlerden oluşur:</p><ul class="disc-wins"><li><strong>Sleigh işlemci modelleme dili:</strong> Yeni bir işlemci veya komut seti mimarisini (ISA) Ghidra'ya tanıtmak için kullanılan deklaratif tanımlama dili.</li><li><strong>P-Code ara temsil katmanı (IR):</strong> Tüm işlemci yönergelerini ortak bir ara dile (P-Code) çevirerek mimariden bağımsız veri akışı ve kontrol akışı analizi yapma.</li><li><strong>C++ tabanlı dekompiler motoru:</strong> Kontrol akış grafiklerini basitleştiren, değişken tiplerini çıkaran ve karmaşık döngüleri C koduna indirgeyen yüksek performanslı yerel motor.</li></ul></section>
+      <section class="disc-sec"><h2>Tersine mühendislik ve zafiyet analizi iş akışları</h2><p>Ghidra, karmaşık siber güvenlik ve yazılım denetim süreçlerinde temel araç olarak konumlanır:</p><ul class="disc-steps"><li><strong>Zararlı yazılım analizi (Malware Triage):</strong> Şüpheli yürütülebilir dosyaları izole ortamda açıp gizli API çağrılarını, C2 alan adlarını ve şifreleme anahtarlarını ortaya çıkarma.</li><li><strong>İkili dosya karşılaştırma (Program Diff):</strong> Güvenlik yaması öncesi ve sonrasındaki iki dosya arasındaki farkları görselleştirerek kapatılan zafiyeti tespit etme.</li><li><strong>Gömülü yazılım (Firmware) analizi:</strong> IoT cihazlarından alınan ham flash bellek dökümlerini bellek haritasına oturtup bootloader ve çekirdek fonksiyonlarını çözümleme.</li></ul></section>
+      <section class="disc-sec"><h2>Kod bilmiyorsanız</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın</span><button type="button" class="disc-copy" aria-label="Kopyala">Kopyala</button></div><p class="disc-ai-text">Şüpheli bir ikili (binary) dosyayı Ghidra kullanarak incelemek istiyorum. Ghidra'da yeni bir proje açma, dosyayı içe aktarma, otomatik analizi (Auto Analysis) çalıştırma, Decompiler penceresinde fonksiyonları inceleme ve dışarıya çağrılan şüpheli API fonksiyonlarını tespit etme adımlarını adım adım açıklar mısın?</p></div></section>
+      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Kimin için</span><span class="disc-fact-v">Zararlı yazılım araştırmacıları, zafiyet avcıları, tersine mühendislik uzmanları ve gömülü sistem geliştiricileri.</span></div><div class="disc-fact"><span class="disc-fact-k">Lisans</span><span class="disc-fact-v">Apache-2.0 (Açık kaynak lisansı)</span></div><div class="disc-fact"><span class="disc-fact-k">Geliştirici</span><span class="disc-fact-v">National Security Agency (NSA) ve Açık Kaynak Topluluğu</span></div><div class="disc-fact"><span class="disc-fact-k">Gereksinim</span><span class="disc-fact-v">Java Development Kit (JDK) 21 64-bit</span></div></div>
+      <section class="disc-sec"><h2>Sıkça sorulan sorular</h2><ul class="disc-wins"><li><strong>Ghidra ile IDA Pro arasındaki temel farklar nelerdir?</strong> IDA Pro ticari ve yüksek lisans bedellerine sahipken, Ghidra tamamen ücretsiz ve açık kaynaklıdır. Ghidra, tüm mimariler için yerleşik dekompiler sunar ve çok kullanıcılı işbirliği sunucusu içerir.</li><li><strong>Zararlı yazılım analizi yaparken Ghidra güvenli midir?</strong> Evet, statik analiz sırasında dosya çalıştırılmaz, yalnızca kodları çözümlenir. Ancak analizin izole bir sanal makinede (VM) yapılması güvenlik açısından esastır.</li><li><strong>Ghidra Server nasıl kurulur?</strong> Ghidra paketinde yer alan server dizinindeki svrAdmin betiğiyle yerel ağda birkaç dakika içinde bir takım sunucusu açılabilir ve kullanıcı yetkileri atanabilir.</li><li><strong>Python 3 betikleri Ghidra içinde çalıştırılabilir mi?</strong> Ghidra varsayılan olarak Jython (Python 2.7) ile gelse de, PyGhidra eklentisi sayesinde modern Python 3 ortamları ve harici kütüphaneler (NumPy, Capstone) doğrudan kullanılabilir.</li></ul></section>
       <section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links"><li><a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank" rel="noopener">GitHub deposu →</a></li></ul></section>
 <p class="disc-disclaimer">TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.</p>
-<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related"><a href="/dictionary/software-reverse-engineering/">Software Reverse Engineering</a><a href="/dictionary/nsa/">NSA</a></div></section>
+<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related"><a href="/dictionary/binary/">Binary</a><a href="/dictionary/open-source/">Open Source</a><a href="/dictionary/local/">Local</a><a href="/dictionary/offline/">Offline</a></div></section>
       <aside class="disc-cta"><p><strong>Benzer keşifleri günlük raporda al.</strong> TreScout; GitHub, Hacker News ve HuggingFace trendlerini her gün tarar, öne çıkan açık kaynak araçları Türkçe özetler.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover" data-page-type="discover" data-content-slug="ghidra" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/discover/">Tüm keşifler →</a></aside>
 </article>
 </main>
