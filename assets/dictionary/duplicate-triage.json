@@ -6,6 +6,30 @@
       "karar": "ayri_tut",
       "gerekce": "Raporlarda tekil teknik kavram veya proje adı ile çoğul genel kategori farklı bağlamlarda kullanılıyor. Yalnız slug benzerliği canonical birleştirme için yeterli değil.",
       "incelenme_tarihi": "2026-08-26"
+    },
+    {
+      "cift": ["dex", "dexs"],
+      "karar": "ayri_tut",
+      "gerekce": "Raporlarda ve DeFi ekosisteminde tekil DEX protokol kavramını, çoğul DEXs ise merkeziyetsiz borsalar kümesini ve pazar kategorisini temsil ediyor; rapor bağlantı bütünlüğü için ayrı tutuldu.",
+      "incelenme_tarihi": "2026-09-26"
+    },
+    {
+      "cift": ["open-weight", "open-weights"],
+      "karar": "ayri_tut",
+      "gerekce": "Tekil open-weight mimari ve lisanslama niteliğini tanımlarken, çoğul open-weights açık ağırlıklı modeller ailesini ve piyasa sınıfını ifade ediyor; raporlardaki kategori bağlamı korundu.",
+      "incelenme_tarihi": "2026-09-26"
+    },
+    {
+      "cift": ["coding-assistant", "coding-assistants"],
+      "karar": "ayri_tut",
+      "gerekce": "Tekil coding-assistant yapay zeka kodlama asistanı kavramını ve çalışma mekanizmasını açıklarken, çoğul coding-assistants piyasadaki araçlar ekosistemini ve kategoriyi temsil ediyor; rapor ve arama niyeti ayrımı için korundu.",
+      "incelenme_tarihi": "2026-09-26"
+    },
+    {
+      "cift": ["foundation-model", "foundation-models"],
+      "karar": "ayri_tut",
+      "gerekce": "Tekil foundation-model temel model mimari paradigmasını tanımlarken, çoğul foundation-models sektördeki modeller sınıfını ve ekosistem haritasını temsil ediyor; raporlardaki referans bütünlüğü için ayrı tutuldu.",
+      "incelenme_tarihi": "2026-09-26"
     }
   ]
 }
