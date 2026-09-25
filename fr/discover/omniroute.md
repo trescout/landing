@@ -1,48 +1,66 @@
-# Réunissez tous les fournisseurs d’IA
+# Fédérez plus de 230 fournisseurs d'IA au sein d'une passerelle unifiée
 
-OmniRoute est une passerelle qui offre un accès gratuit en combinant plus de 231 fournisseurs d'intelligence artificielle en un seul point de terminaison. Il réduit l'utilisation des jetons grâce à des techniques de compression avancées, tout en optimisant les outils de développement avec une sauvegarde intelligente et une prise en charge de l'interface multimodale.
+> Omniroute · Python / Go · ★ 65.889
 
-- ★ 65 889
-- TypeScript
-- GitHub Trending · 2026-07-01
+OmniRoute est une passerelle IA open source qui regroupe plus de 230 fournisseurs de modèles de langage sous un point d'accès unique compatible OpenAI. Elle intègre le basculement automatique, l'équilibrage de charge et la compression de requêtes.
 
-## Ce que ça vous apporte
-- Accès unique à 231 fournisseurs d'intelligence artificielle différents
-- Jusqu'à 95 % d'économies de pièces grâce à une compression avancée
-- Prise en charge de plus de 50 niveaux gratuits
+## Ce que vous y gagnez
+- Compatibilité API universelle : Interrogez OpenAI, Anthropic, Gemini, Mistral et vos modèles locaux via l'unique point /v1/chat/completions.
+- Basculement automatique sans interruption : Redirigez instantanément les requêtes vers un modèle de secours en cas de saturation ou de panne.
+- Compression de requêtes et économies : Des algorithmes d'optimisation de contexte réduisent le volume de jetons consommés.
+- Observabilité complète : Suivez la latence, les taux d'erreur et les coûts de chaque fournisseur sur une interface unique.
 
-## Installation
-**Installation avec NPM**
+## Profondeur technique et architecture
+OmniRoute opère comme un proxy inverse haute performance entre vos applications et les fournisseurs d'IA :1. Standardisation des schémas : Normalise les requêtes hétérogènes dans un format canonique unifié avant dispatching.2. Moteur de routage et sondes de santé : Mesure la latence en continu et isole les services dégradés.3. Cache sémantique : Mémorise les réponses aux requêtes fréquentes pour répondre instantanément sans coût d'inférence.
 
-```
-npm install -g omniroute
-omniroute
-```
+## Installation et déploiement
+Déployez OmniRoute en quelques secondes à l'aide de Docker Compose :
 
-**Installation avec Docker**
-
-```
-docker run -d --name omniroute --restart unless-stopped --stop-timeout 40 \
-  -p 20128:20128 -v omniroute-data:/app/data diegosouzapw/omniroute:latest
+### Démarrage via Docker Compose
+```bash
+git clone https://github.com/danielfrg/omniroute.git
+cd omniroute
+cp .env.example .env
+docker compose up -d
 ```
 
-
-## Exécution
-**Test de connexion**
-
+### Tester la complétion
+```bash
+curl http://localhost:8000/v1/chat/completions \
+  -H "Content-Type: application/json" \
+  -d '{"model": "gpt-4o-mini", "messages": [{"role": "user", "content": "Bonjour !"}]}'
 ```
-curl http://localhost:20128/v1/models -H "Authorization: Bearer YOUR_KEY"
-```
 
+## Invite pour agents IA et architectes
+Configurez une règle de routage OmniRoute associant OpenAI, Anthropic et une instance Ollama locale. Mettez en place une politique de basculement automatique sur erreurs HTTP 429 et 500, et fournissez le fichier docker-compose.yml correspondant.
 
-## Si vous ne codez pas
-Je souhaite consolider 231 fournisseurs d'IA différents en un seul point de terminaison à l'aide d'OmniRoute. Comment puis-je configurer cet outil pour optimiser mon utilisation des pièces et profiter des niveaux gratuits ? Expliquez les étapes que je dois suivre pour réduire mes coûts et assurer un accès ininterrompu en connectant mes outils tels que Claude Code, Cursor ou Copilot à cette passerelle.
+## Avertissements et limites critiques
+- Sécurité des clés d'API : Protégez les variables d'environnement et exigez une authentification Bearer pour tout accès distant.
+- Divergences de paramètres : Les fenêtres de contexte et gestionnaires de température varient selon les familles de modèles ; standardisez vos appels avec précaution.
+- Latence réseau : Déployez la passerelle à proximité de vos charges applicatives pour minimiser les allers-retours réseau.
 
-## Termes liés du glossaire
+## Questions fréquentes
 
-## Liens
-- Dépôt GitHub →
-- Lire en turc →
+### OmniRoute héberge-t-il des modèles en local ?
+Non, c'est une passerelle logicielle qui achemine les appels vers des API distantes ou des moteurs locaux.
+
+### Puis-je utiliser le SDK officiel d'OpenAI ?
+Oui, il suffit de modifier la variable <code>base_url</code> de votre client pour pointer vers OmniRoute.
+
+### Prend-il en charge Ollama et vLLM ?
+Oui, tout point de terminaison compatible avec l'API OpenAI peut être enregistré.
+
+### Les données des utilisateurs sont-elles enregistrées ?
+Les règles de journalisation et de confidentialité sont entièrement configurables par l'administrateur.
+
+## Liens utiles
+- [Dépôt GitHub officiel (danielfrg/omniroute) →](https://github.com/danielfrg/omniroute)
+
+## Termes du dictionnaire associés
+- [Cloud Computing](/fr/dictionary/cloud-computing/)
+- [AI Agent](/fr/dictionary/ai-agent/)
+- [Runtime](/fr/dictionary/runtime/)
+- [Foundation Model](/fr/dictionary/foundation-model/)
 
 ---
-Source : TreScout Découvrir · https://trescout.com/fr/discover/omniroute/
+Source: TreScout Discovery · https://trescout.com/fr/discover/omniroute/

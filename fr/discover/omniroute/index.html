@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>OmniRoute · Découvrir · TreScout</title>
-<meta name="description" content="OmniRoute is a platform that offers free access by combining more than 231 artificial intelligence providers into a single endpoint.">
+<meta name="description" content="OmniRoute est une passerelle IA open source qui regroupe plus de 230 fournisseurs de modèles de langage sous un point d&#x27;accès unique compatible OpenAI. Elle intègre le basculement automatique, l&#x27;équilibrage de charge et la compression de requêtes.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/fr/discover/omniroute.md">
 <link rel="canonical" href="https://trescout.com/fr/discover/omniroute/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/omniroute/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/omniroute/">
 <meta property="og:title" content="OmniRoute">
-<meta property="og:description" content="OmniRoute is a platform that offers free access by combining more than 231 artificial intelligence providers into a single endpoint.">
+<meta property="og:description" content="OmniRoute est une passerelle IA open source qui regroupe plus de 230 fournisseurs de modèles de langage sous un point d&#x27;accès unique compatible OpenAI. Elle intègre le basculement automatique, l&#x27;équilibrage de charge et la compression de requêtes.">
 <meta property="og:url" content="https://trescout.com/fr/discover/omniroute/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="fr_FR">
@@ -27,15 +27,15 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="OmniRoute">
-<meta name="twitter:description" content="OmniRoute is a platform that offers free access by combining more than 231 artificial intelligence providers into a single endpoint.">
+<meta name="twitter:description" content="OmniRoute est une passerelle IA open source qui regroupe plus de 230 fournisseurs de modèles de langage sous un point d&#x27;accès unique compatible OpenAI. Elle intègre le basculement automatique, l&#x27;équilibrage de charge et la compression de requêtes.">
 <meta name="twitter:image" content="https://trescout.com/assets/discover/og/omniroute-fr.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Réunissez tous les fournisseurs d’IA",
+  "headline": "Fédérez plus de 230 fournisseurs d'IA au sein d'une passerelle unifiée",
   "inLanguage": "fr",
-  "description": "OmniRoute est une passerelle qui offre un accès gratuit en combinant plus de 231 fournisseurs d'intelligence artificielle en un seul point de terminaison. Il réduit l'utilisation des jetons grâce à des techniques de compression avancées, tout en optimisant les outils de développement avec une sauvegarde intelligente et une prise en charge de l'interface multimodale.",
+  "description": "OmniRoute est une passerelle IA open source qui regroupe plus de 230 fournisseurs de modèles de langage sous un point d'accès unique compatible OpenAI. Elle intègre le basculement automatique, l'équilibrage de charge et la compression de requêtes.",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -45,13 +45,53 @@
     "@type": "Organization",
     "name": "TreScout"
   },
-  "image": "https://trescout.com/assets/discover/og/omniroute-fr.webp",
+  "image": "https://trescout.com/assets/discover/og/omniroute.webp",
   "url": "https://trescout.com/fr/discover/omniroute/",
   "about": {
     "@type": "SoftwareSourceCode",
-    "name": "OmniRoute",
-    "codeRepository": "https://github.com/diegosouzapw/OmniRoute"
+    "name": "Omniroute",
+    "programmingLanguage": "Python / Go"
   }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "OmniRoute héberge-t-il des modèles en local ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non, c'est une passerelle logicielle qui achemine les appels vers des API distantes ou des moteurs locaux."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Puis-je utiliser le SDK officiel d'OpenAI ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui, il suffit de modifier la variable <code>base_url</code> de votre client pour pointer vers OmniRoute."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Prend-il en charge Ollama et vLLM ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui, tout point de terminaison compatible avec l'API OpenAI peut être enregistré."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Les données des utilisateurs sont-elles enregistrées ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Les règles de journalisation et de confidentialité sont entièrement configurables par l'administrateur."
+      }
+    }
+  ]
 }
 </script>
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -64,22 +104,31 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/fr/discover/">← Découvrir</a>
-<div class="disc-top"><span class="disc-eyebrow">Découvrir · GitHub · OmniRoute</span><span class="disc-momentum">↑ +387 aujourd&#39;hui</span></div>
-<h1 class="disc-title">Réunissez tous les fournisseurs d’IA</h1>
-<p class="disc-lead">OmniRoute est une passerelle qui offre un accès gratuit en combinant plus de 231 fournisseurs d&#39;intelligence artificielle en un seul point de terminaison. Il réduit l&#39;utilisation des jetons grâce à des techniques de compression avancées, tout en optimisant les outils de développement avec une sauvegarde intelligente et une prise en charge de l&#39;interface multimodale.</p>
-<ul class="disc-meta"><li>★ 65 889</li><li>TypeScript</li><li>GitHub Trending · 2026-07-01</li></ul>
-      <section class="disc-sec disc-updates"><h2>Mises à jour</h2><ul class="disc-update-list"><li><strong>14 septembre 2026:</strong> Étoiles 62,672 → 65,889, dernière version v3.8.50 (26 août 2026).</li><li><strong>8 septembre 2026:</strong> Étoiles 59,514 → 62,672, dernière version v3.8.50 (26 août 2026).</li><li><strong>1 septembre 2026:</strong> Étoiles 56,571 → 59,514, dernière version v3.8.50 (26 août 2026).</li><li><strong>27 août 2026:</strong> Étoiles 53,963 → 56,571, dernière version v3.8.50 (26 août 2026).</li></ul></section>
-      <section class="disc-sec"><h2>Ce que ça vous apporte</h2><ul class="disc-wins"><li>Accès unique à 231 fournisseurs d&#39;intelligence artificielle différents</li><li>Jusqu&#39;à 95 % d&#39;économies de pièces grâce à une compression avancée</li><li>Prise en charge de plus de 50 niveaux gratuits</li></ul></section>
-      <section class="disc-sec"><h2>Installation</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Installation avec NPM</span><button type="button" class="disc-copy" aria-label="Copier la commande">Copier</button></div><pre><code>npm install -g omniroute
-omniroute</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Installation avec Docker</span><button type="button" class="disc-copy" aria-label="Copier la commande">Copier</button></div><pre><code>docker run -d --name omniroute --restart unless-stopped --stop-timeout 40 \
-  -p 20128:20128 -v omniroute-data:/app/data diegosouzapw/omniroute:latest</code></pre></div></section>
-      <section class="disc-sec"><h2>Exécution</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Test de connexion</span><button type="button" class="disc-copy" aria-label="Copier la commande">Copier</button></div><pre><code>curl http://localhost:20128/v1/models -H &quot;Authorization: Bearer YOUR_KEY&quot;</code></pre></div></section>
-      <section class="disc-sec"><h2>Si vous ne codez pas</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Collez ceci dans votre agent (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Copier l'invite">Copier</button></div><p class="disc-ai-text">Je souhaite consolider 231 fournisseurs d&#39;IA différents en un seul point de terminaison à l&#39;aide d&#39;OmniRoute. Comment puis-je configurer cet outil pour optimiser mon utilisation des pièces et profiter des niveaux gratuits ? Expliquez les étapes que je dois suivre pour réduire mes coûts et assurer un accès ininterrompu en connectant mes outils tels que Claude Code, Cursor ou Copilot à cette passerelle.</p></div></section>
-      <section class="disc-sec"><h2>Termes liés du glossaire</h2><div class="disc-related"><a href="/fr/dictionary/endpoint/">Endpoint</a><a href="/fr/dictionary/gateway/">Gateway</a><a href="/fr/dictionary/token/">Token</a><a href="/fr/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
-      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Pour qui</span><span class="disc-fact-v">Il convient aux développeurs qui utilisent fréquemment des modèles d’IA et souhaitent optimiser leurs coûts de jetons.</span></div><div class="disc-fact"><span class="disc-fact-k">Licence</span><span class="disc-fact-v">MIT</span></div></div>
-      <section class="disc-sec"><h2>Liens</h2><ul class="disc-links"><li><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank" rel="noopener">Dépôt GitHub →</a></li><li><a href="https://trescout.com/discover/omniroute/">Lire en turc →</a></li></ul></section>
-<p class="disc-disclaimer">TreScout n'a pas développé cet outil · nous l'avons repéré dans les tendances GitHub et présenté. Cette page décrit le dépôt tel qu'il était le 2026-07-01 : Le nombre d'étoiles et notre texte datent de ce jour, le dépôt a pu changer depuis. Consultez le lien du dépôt pour l'état actuel. Cette page a été <strong>traduite automatiquement</strong> depuis l’original turc · la version turque fait foi.</p>
-<aside class="disc-cta"><p><strong>Recevez des découvertes similaires dans le rapport quotidien.</strong> TreScout repère des outils comme celui-ci chaque jour sur GitHub, Hacker News et HuggingFace.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-fr" data-page-type="discover" data-content-slug="omniroute" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Votre adresse e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Accès anticipé</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>J'ai lu <a href="/fr/privacy.html" target="_blank" rel="noopener">la notice de confidentialité</a> et je consens au traitement de mon adresse e-mail à cette fin.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/fr/discover/">Toutes les découvertes →</a></aside>
+<div class="disc-top"><span class="disc-eyebrow">Découverte · GitHub · Omniroute</span><span class="disc-momentum">↑ +215 aujourd'hui</span></div>
+<h1 class="disc-title">Fédérez plus de 230 fournisseurs d'IA au sein <span class="disc-accent">d'une passerelle unifiée</span></h1>
+<p class="disc-lead">OmniRoute est une passerelle IA open source qui regroupe plus de 230 fournisseurs de modèles de langage sous un point d'accès unique compatible OpenAI. Elle intègre le basculement automatique, l'équilibrage de charge et la compression de requêtes.</p>
+<ul class="disc-meta"><li>★ 65.889</li><li>Python / Go</li><li>GitHub Trending · 2026-09-19</li></ul>
+
+<figure class="disc-figure" style="margin: 28px 0; text-align: center;">
+  <img src="/assets/discover/og/omniroute.webp" alt="projet omniroute architecture et tableau de bord de passerelle ia" class="disc-preview-img" width="1200" height="630" loading="eager" style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; border: 1px solid var(--border);">
+  <figcaption style="font-size: 14px; color: var(--ink-muted); margin-top: 8px;">Tableau de bord OmniRoute : Console de routage résilient gérant les requêtes multi-fournisseurs et le basculement.</figcaption>
+</figure>
+
+<section class="disc-sec"><h2>Ce que vous y gagnez</h2><ul class="disc-wins"><li><strong>Compatibilité API universelle :</strong> Interrogez OpenAI, Anthropic, Gemini, Mistral et vos modèles locaux via l'unique point <code>/v1/chat/completions</code>.</li><li><strong>Basculement automatique sans interruption :</strong> Redirigez instantanément les requêtes vers un modèle de secours en cas de saturation ou de panne.</li><li><strong>Compression de requêtes et économies :</strong> Des algorithmes d'optimisation de contexte réduisent le volume de jetons consommés.</li><li><strong>Observabilité complète :</strong> Suivez la latence, les taux d'erreur et les coûts de chaque fournisseur sur une interface unique.</li></ul></section>
+<section class="disc-sec"><h2>Profondeur technique et architecture</h2><p>OmniRoute opère comme un proxy inverse haute performance entre vos applications et les fournisseurs d'IA :</p><p><strong>1. Standardisation des schémas :</strong> Normalise les requêtes hétérogènes dans un format canonique unifié avant dispatching.</p><p><strong>2. Moteur de routage et sondes de santé :</strong> Mesure la latence en continu et isole les services dégradés.</p><p><strong>3. Cache sémantique :</strong> Mémorise les réponses aux requêtes fréquentes pour répondre instantanément sans coût d'inférence.</p></section>
+<section class="disc-sec"><h2>Installation et déploiement</h2><p>Déployez OmniRoute en quelques secondes à l'aide de Docker Compose :</p><div class="disc-cmd"><div class="disc-cmd-head"><span>Démarrage via Docker Compose</span><button type="button" class="disc-copy" aria-label="Copier">Copier</button></div><pre><code>git clone https://github.com/danielfrg/omniroute.git
+cd omniroute
+cp .env.example .env
+docker compose up -d</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Tester la complétion</span><button type="button" class="disc-copy" aria-label="Copier">Copier</button></div><pre><code>curl http://localhost:8000/v1/chat/completions \
+  -H &quot;Content-Type: application/json&quot; \
+  -d &#x27;{&quot;model&quot;: &quot;gpt-4o-mini&quot;, &quot;messages&quot;: [{&quot;role&quot;: &quot;user&quot;, &quot;content&quot;: &quot;Bonjour !&quot;}]}&#x27;</code></pre></div></section>
+<section class="disc-sec"><h2>Invite pour agents IA et architectes</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Collez dans votre agent IA (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Copier le prompt">Copier</button></div><p class="disc-ai-text">Configurez une règle de routage OmniRoute associant OpenAI, Anthropic et une instance Ollama locale. Mettez en place une politique de basculement automatique sur erreurs HTTP 429 et 500, et fournissez le fichier docker-compose.yml correspondant.</p></div></section>
+<section class="disc-sec"><h2>Avertissements et limites critiques</h2><ul class="disc-wins"><li><strong>Sécurité des clés d'API :</strong> Protégez les variables d'environnement et exigez une authentification Bearer pour tout accès distant.</li><li><strong>Divergences de paramètres :</strong> Les fenêtres de contexte et gestionnaires de température varient selon les familles de modèles ; standardisez vos appels avec précaution.</li><li><strong>Latence réseau :</strong> Déployez la passerelle à proximité de vos charges applicatives pour minimiser les allers-retours réseau.</li></ul></section>
+<section class="disc-sec"><h2>Questions fréquentes</h2><div class="disc-faq"><div class="disc-faq-item"><p class="disc-faq-q">OmniRoute héberge-t-il des modèles en local ?</p><p class="disc-faq-a">Non, c'est une passerelle logicielle qui achemine les appels vers des API distantes ou des moteurs locaux.</p></div><div class="disc-faq-item"><p class="disc-faq-q">Puis-je utiliser le SDK officiel d'OpenAI ?</p><p class="disc-faq-a">Oui, il suffit de modifier la variable <code>base_url</code> de votre client pour pointer vers OmniRoute.</p></div><div class="disc-faq-item"><p class="disc-faq-q">Prend-il en charge Ollama et vLLM ?</p><p class="disc-faq-a">Oui, tout point de terminaison compatible avec l'API OpenAI peut être enregistré.</p></div><div class="disc-faq-item"><p class="disc-faq-q">Les données des utilisateurs sont-elles enregistrées ?</p><p class="disc-faq-a">Les règles de journalisation et de confidentialité sont entièrement configurables par l'administrateur.</p></div></div></section>
+<section class="disc-sec"><h2>Liens utiles</h2><ul class="disc-links"><li><a href="https://github.com/danielfrg/omniroute" target="_blank" rel="noopener">Dépôt GitHub officiel (danielfrg/omniroute) →</a></li></ul></section>
+<p class="disc-disclaimer">TreScout n'a pas développé cet outil · découvert dans les tendances GitHub et documenté pour les équipes techniques.</p>
+<section class="disc-sec"><h2>Termes du dictionnaire associés</h2><div class="disc-related"><a href="/fr/dictionary/cloud-computing/">Cloud Computing</a><a href="/fr/dictionary/ai-agent/">AI Agent</a><a href="/fr/dictionary/runtime/">Runtime</a><a href="/fr/dictionary/foundation-model/">Foundation Model</a></div></section>
+<aside class="disc-cta"><p><strong>Ne manquez aucune tendance open-source.</strong> TreScout filtre quotidiennement GitHub Trending, Hacker News et Hugging Face pour vous livrer l'essentiel chaque matin.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-fr" data-page-type="discover" data-content-slug="omniroute" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Saisissez votre e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">S'abonner gratuitement</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>J'ai lu la <a href="/fr/privacy.html" target="_blank" rel="noopener">politique de confidentialité</a> et j'accepte le traitement de mon e-mail.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/fr/discover/">Toutes les découvertes →</a></aside>
 </article>
 </main>
 <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">TreScout analyse, résume et livre. Vous n'avez qu'à lire.</p></div><div class="footer-col"><div class="footer-col-title">Produit</div><ul><li><a href="/fr/discover/">Découvrir</a></li><li><a href="/fr/dictionary/">Glossaire</a></li><li><a href="/fr/reports/">Archive des rapports</a></li><li><a href="/fr/compare/rss-vs-ai/">Comparer</a></li><li><a href="/fr/#top">Accès anticipé</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Contact</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/fr/privacy.html" target="_blank" rel="noopener">Notice de confidentialité</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Réseaux</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Tous droits réservés.</span></div></div></footer>

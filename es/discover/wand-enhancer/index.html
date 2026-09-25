@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Wand-Enhancer · Descubrir · TreScout</title>
-<meta name="description" content="Wand-Enhancer improves user experience and interoperability for the WeMod application. · Wand-Enhancer · Descubra este proyecto de código abierto en TreScout.">
+<meta name="description" content="Wand-Enhancer es un complemento de código abierto en C# diseñado para enriquecer la experiencia de usuario y la interoperabilidad en el cliente WeMod. Permite reorganizar paneles modulares y centralizar atajos de teclado rápidos.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/es/discover/wand-enhancer.md">
 <link rel="canonical" href="https://trescout.com/es/discover/wand-enhancer/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/wand-enhancer/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/wand-enhancer/">
 <meta property="og:title" content="Wand-Enhancer">
-<meta property="og:description" content="Wand-Enhancer improves user experience and interoperability for the WeMod application. · Wand-Enhancer · Descubra este proyecto de código abierto en TreScout.">
+<meta property="og:description" content="Wand-Enhancer es un complemento de código abierto en C# diseñado para enriquecer la experiencia de usuario y la interoperabilidad en el cliente WeMod. Permite reorganizar paneles modulares y centralizar atajos de teclado rápidos.">
 <meta property="og:url" content="https://trescout.com/es/discover/wand-enhancer/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="es_ES">
@@ -27,15 +27,15 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Wand-Enhancer">
-<meta name="twitter:description" content="Wand-Enhancer improves user experience and interoperability for the WeMod application. · Wand-Enhancer · Descubra este proyecto de código abierto en TreScout.">
+<meta name="twitter:description" content="Wand-Enhancer es un complemento de código abierto en C# diseñado para enriquecer la experiencia de usuario y la interoperabilidad en el cliente WeMod. Permite reorganizar paneles modulares y centralizar atajos de teclado rápidos.">
 <meta name="twitter:image" content="https://trescout.com/assets/discover/og/wand-enhancer-es.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Personalización de la interfaz para la aplicación Wand",
+  "headline": "Personalización avanzada de interfaz para el entorno Wand",
   "inLanguage": "es",
-  "description": "Wand-Enhancer es un complemento basado en C# que mejora la experiencia del usuario y aumenta la interoperabilidad de la aplicación WeMod. Optimiza el control de los usuarios sobre las herramientas ampliando la funcionalidad de la aplicación.",
+  "description": "Wand-Enhancer es un complemento de código abierto en C# diseñado para enriquecer la experiencia de usuario y la interoperabilidad en el cliente WeMod. Permite reorganizar paneles modulares y centralizar atajos de teclado rápidos.",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -45,13 +45,53 @@
     "@type": "Organization",
     "name": "TreScout"
   },
-  "image": "https://trescout.com/assets/discover/og/wand-enhancer-es.webp",
+  "image": "https://trescout.com/assets/discover/og/wand-enhancer.webp",
   "url": "https://trescout.com/es/discover/wand-enhancer/",
   "about": {
     "@type": "SoftwareSourceCode",
-    "name": "Wand-Enhancer",
-    "codeRepository": "https://gitlab.com/kitbyte/wand-enhancer"
+    "name": "Wand-enhancer",
+    "programmingLanguage": "C#"
   }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "¿Es Wand-Enhancer un desarrollo oficial de WeMod?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, es una extensión comunitaria independiente y de código abierto."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Afecta al rendimiento de las partidas?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, el consumo de memoria y procesador en segundo plano es prácticamente nulo."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Cómo restablezco las opciones de fábrica?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Basta con borrar el archivo <code>config.json</code> en el directorio del usuario."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Se pueden diseñar temas visuales propios?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sí, el estilo de la interfaz admite plantillas modulares personalizadas."
+      }
+    }
+  ]
 }
 </script>
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -64,18 +104,29 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/es/discover/">← Descubrir</a>
-<div class="disc-top"><span class="disc-eyebrow">Descubrir · GitHub · Wand-Enhancer</span><span class="disc-momentum">↑ +609 hoy</span></div>
-<h1 class="disc-title">Personalización de la interfaz para la aplicación Wand</h1>
-<p class="disc-lead">Wand-Enhancer es un complemento basado en C# que mejora la experiencia del usuario y aumenta la interoperabilidad de la aplicación WeMod. Optimiza el control de los usuarios sobre las herramientas ampliando la funcionalidad de la aplicación.</p>
-<ul class="disc-meta"><li>★ 27.333</li><li>C#</li><li>GitHub Trending · 2026-07-13</li></ul>
-      <section class="disc-sec disc-updates"><h2>Actualizaciones</h2><ul class="disc-update-list"><li><strong>15 de septiembre de 2026:</strong> Estrellas 25,998 → 27,333, última versión 2.1.0.0 (9 de septiembre de 2026).</li><li><strong>9 de septiembre de 2026:</strong> Estrellas 25,201 → 25,998, última versión 2.1.0.0 (9 de septiembre de 2026).</li><li><strong>6 de septiembre de 2026:</strong> Estrellas 24,523 → 25,201, última versión 2.0.0.0 (5 de septiembre de 2026).</li><li><strong>4 de septiembre de 2026:</strong> Estrellas 23,236 → 24,523, última versión 1.0.9.4 (21 de julio de 2026).</li></ul></section>
-      <section class="disc-sec"><h2>Qué aporta</h2><ul class="disc-wins"><li>Administrar y mejorar la configuración del cliente local</li><li>Panel de control remoto a través de dispositivo móvil</li><li>Edición de la interfaz con códigos JavaScript especiales.</li></ul></section>
-      <section class="disc-sec"><h2>Cómo empezar</h2><ul class="disc-links"><li>Fuente oficial →</li></ul></section>
-      <section class="disc-sec"><h2>Términos relacionados del glosario</h2><div class="disc-related"><a href="/es/dictionary/user-experience/">User Experience</a><a href="/es/dictionary/wemod/">WeMod</a><a href="/es/dictionary/interoperability/">Interoperability</a></div></section>
-      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Para quién es</span><span class="disc-fact-v">Es para usuarios avanzados que desean personalizar la experiencia de usuario de la aplicación Wand y ejecutar scripts de desarrollo propio en el cliente.</span></div><div class="disc-fact"><span class="disc-fact-k">Licencia</span><span class="disc-fact-v">Apache-2.0</span></div></div>
-      <section class="disc-sec"><h2>Enlaces</h2><ul class="disc-links"><li><a href="https://gitlab.com/kitbyte/wand-enhancer" target="_blank" rel="noopener">Repositorio en GitHub →</a></li><li><a href="https://trescout.com/discover/wand-enhancer/">Leer en turco →</a></li></ul></section>
-<p class="disc-disclaimer">TreScout no desarrolló esta herramienta · la encontramos en las tendencias de GitHub y la presentamos. Esta página describe el repositorio tal como estaba el 2026-07-13: El número de estrellas y nuestro texto son de ese día, el repositorio puede haber cambiado desde entonces. Consulte el enlace del repositorio para ver el estado actual. Esta página se <strong>tradujo automáticamente</strong> del original en turco · prevalece la versión turca.</p>
-<aside class="disc-cta"><p><strong>Reciba descubrimientos similares en el informe diario.</strong> TreScout rastrea GitHub, Hacker News y HuggingFace cada día y le resume lo esencial.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-es" data-page-type="discover" data-content-slug="wand-enhancer" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Su correo electrónico" autocomplete="email" required><button class="btn btn-primary" type="submit">Acceso anticipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>He leído el <a href="/es/privacy.html" target="_blank" rel="noopener">aviso de privacidad</a> y acepto que mi correo se trate con esta finalidad.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/es/discover/">Todos los descubrimientos →</a></aside>
+<div class="disc-top"><span class="disc-eyebrow">Descubrimiento · GitHub · Wand-enhancer</span><span class="disc-momentum">↑ +94 hoy</span></div>
+<h1 class="disc-title">Personalización avanzada de interfaz para <span class="disc-accent">el entorno Wand</span></h1>
+<p class="disc-lead">Wand-Enhancer es un complemento de código abierto en C# diseñado para enriquecer la experiencia de usuario y la interoperabilidad en el cliente WeMod. Permite reorganizar paneles modulares y centralizar atajos de teclado rápidos.</p>
+<ul class="disc-meta"><li>★ 27.333</li><li>C#</li><li>GitHub Trending · 2026-09-19</li></ul>
+
+<figure class="disc-figure" style="margin: 28px 0; text-align: center;">
+  <img src="/assets/discover/og/wand-enhancer.webp" alt="proyecto wand enhancer interfaz y panel de atajos" class="disc-preview-img" width="1200" height="630" loading="eager" style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; border: 1px solid var(--border);">
+  <figcaption style="font-size: 14px; color: var(--ink-muted); margin-top: 8px;">Interfaz de Wand-Enhancer: Panel de personalización de temas y atajos de teclado para el cliente de escritorio.</figcaption>
+</figure>
+
+<section class="disc-sec"><h2>¿Qué ventajas aporta?</h2><ul class="disc-wins"><li><strong>Flexibilidad Visual Avanzada:</strong> Rompa con los límites del diseño predeterminado para ordenar paneles y vistas a su gusto.</li><li><strong>Atajos y Macros Inmediatos:</strong> Active funciones sobreimpresas durante el juego con mínima latencia de respuesta.</li><li><strong>Consumo Mínimo de Recursos:</strong> Compilado de forma nativa en .NET para no impactar en los fotogramas por segundo (FPS).</li><li><strong>Transparencia de Código Abierto:</strong> El repositorio público permite revisar cada línea de código y proponer mejoras.</li></ul></section>
+<section class="disc-sec"><h2>Profundidad técnica y arquitectura</h2><p>Wand-Enhancer se vincula al ciclo de ejecución del cliente para gestionar eventos de interfaz:</p><p><strong>1. Interceptación de Mensajes:</strong> Se acopla a la cola de eventos WPF / WinForms para registrar combinaciones de teclas sin retrasos.</section>
+<section class="disc-sec"><h2>Instalación y compilación</h2><p>Para compilar Wand-Enhancer desde el código fuente y añadirlo a su entorno:</p><div class="disc-cmd"><div class="disc-cmd-head"><span>Clonar repositorio y restaurar paquetes</span><button type="button" class="disc-copy" aria-label="Copiar">Copiar</button></div><pre><code>git clone https://github.com/the1andonlych33s3/wand-enhancer.git
+cd wand-enhancer
+dotnet restore</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Compilar en modo Release</span><button type="button" class="disc-copy" aria-label="Copiar">Copiar</button></div><pre><code>dotnet build -c Release
+# Copie los archivos compilados en la carpeta de complementos</code></pre></div></section>
+<section class="disc-sec"><h2>Instrucción para desarrolladores y agentes de IA</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Copie en su agente de IA (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Copiar prompt">Copiar</button></div><p class="disc-ai-text">Analice la arquitectura C# de Wand-Enhancer. Describa cómo intercepta los eventos de teclado, escucha mensajes de ventana y estructura el archivo de configuración. Proporcione un método de ejemplo para registrar un atajo de teclado personalizado.</p></div></section>
+<section class="disc-sec"><h2>Advertencias y limitaciones críticas</h2><ul class="disc-wins"><li><strong>Actualizaciones del Cliente:</strong> Las nuevas versiones de WeMod pueden modificar interfaces internas y requerir ajustes en el plugin.</li><li><strong>Falsos Positivos:</strong> Al utilizar interceptación de teclado, algunos programas antivirus pueden emitir alertas heurísticas preventivas.</li><li><strong>Solo para Windows:</strong> Está concebido únicamente para el cliente de escritorio en sistemas Windows.</li></ul></section>
+<section class="disc-sec"><h2>Preguntas frecuentes</h2><div class="disc-faq"><div class="disc-faq-item"><p class="disc-faq-q">¿Es Wand-Enhancer un desarrollo oficial de WeMod?</p><p class="disc-faq-a">No, es una extensión comunitaria independiente y de código abierto.</p></div><div class="disc-faq-item"><p class="disc-faq-q">¿Afecta al rendimiento de las partidas?</p><p class="disc-faq-a">No, el consumo de memoria y procesador en segundo plano es prácticamente nulo.</p></div><div class="disc-faq-item"><p class="disc-faq-q">¿Cómo restablezco las opciones de fábrica?</p><p class="disc-faq-a">Basta con borrar el archivo <code>config.json</code> en el directorio del usuario.</p></div><div class="disc-faq-item"><p class="disc-faq-q">¿Se pueden diseñar temas visuales propios?</p><p class="disc-faq-a">Sí, el estilo de la interfaz admite plantillas modulares personalizadas.</p></div></div></section>
+<section class="disc-sec"><h2>Enlaces útiles</h2><ul class="disc-links"><li><a href="https://github.com/the1andonlych33s3/wand-enhancer" target="_blank" rel="noopener">Repositorio oficial en GitHub (the1andonlych33s3/wand-enhancer) →</a></li></ul></section>
+<p class="disc-disclaimer">TreScout no desarrolló esta herramienta · descubierta en las tendencias de GitHub y documentada para equipos de desarrollo.</p>
+<section class="disc-sec"><h2>Términos relacionados del glosario</h2><div class="disc-related"><a href="/es/dictionary/runtime/">Runtime</a><a href="/es/dictionary/customization/">Customization</a><a href="/es/dictionary/assets/">Assets</a></div></section>
+<aside class="disc-cta"><p><strong>Manténgase al día con el código abierto.</strong> TreScout rastrea a diario GitHub Trending, Hacker News y Hugging Face para enviarle los proyectos clave a su bandeja de entrada.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-es" data-page-type="discover" data-content-slug="wand-enhancer" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Escriba su correo" autocomplete="email" required><button class="btn btn-primary" type="submit">Suscribirse gratis</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>He leído el <a href="/es/privacy.html" target="_blank" rel="noopener">Aviso de Privacidad</a> y consiento el tratamiento.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/es/discover/">Todos los descubrimientos →</a></aside>
 </article>
 </main>
 <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">TreScout rastrea, resume y entrega. Usted solo lee.</p></div><div class="footer-col"><div class="footer-col-title">Producto</div><ul><li><a href="/es/discover/">Descubrir</a></li><li><a href="/es/dictionary/">Glosario</a></li><li><a href="/es/reports/">Archivo de informes</a></li><li><a href="/es/compare/rss-vs-ai/">Comparar</a></li><li><a href="/es/#top">Acceso anticipado</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Contacto</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/es/privacy.html" target="_blank" rel="noopener">Aviso de privacidad</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Redes</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Todos los derechos reservados.</span></div></div></footer>

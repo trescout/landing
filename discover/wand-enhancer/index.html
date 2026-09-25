@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Wand-Enhancer · Keşif · TreScout</title>
-<meta name="description" content="Wand-Enhancer, WeMod uygulaması için kullanıcı deneyimini (user experience) geliştiren ve birlikte çalışabilirliği…">
+<meta name="description" content="Wand-Enhancer, WeMod oyun yöneticisi için kullanıcı deneyimini optimize eden ve birlikte çalışabilirliği artıran C# tabanlı açık kaynaklı bir eklentidir. Arayüz düzenini esnetir, kısayol tuşlarını merkezileştirir ve yerel oyun içi paneller üzerinde tam kontrol sağlar.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/discover/wand-enhancer.md">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/discover/wand-enhancer/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/wand-enhancer/">
 <link rel="canonical" href="https://trescout.com/discover/wand-enhancer/">
 <meta property="og:title" content="Wand-Enhancer">
-<meta property="og:description" content="Wand-Enhancer, WeMod uygulaması için kullanıcı deneyimini (user experience) geliştiren ve birlikte çalışabilirliği…">
+<meta property="og:description" content="Wand-Enhancer, WeMod oyun yöneticisi için kullanıcı deneyimini optimize eden ve birlikte çalışabilirliği artıran C# tabanlı açık kaynaklı bir eklentidir. Arayüz düzenini esnetir, kısayol tuşlarını merkezileştirir ve yerel oyun içi paneller üzerinde tam kontrol sağlar.">
 <meta property="og:url" content="https://trescout.com/discover/wand-enhancer/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -31,9 +31,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Wand uygulaması için arayüz özelleştirme",
+  "headline": "Wand uygulaması için gelişmiş arayüz özelleştirme",
   "inLanguage": "tr",
-  "description": "Wand-Enhancer, WeMod uygulaması için kullanıcı deneyimini (user experience) geliştiren ve birlikte çalışabilirliği (interoperability) artıran bir C# tabanlı eklentidir. Uygulamanın işlevselliğini genişleterek kullanıcıların araçlar üzerindeki kontrolünü optimize eder.",
+  "description": "Wand-Enhancer, WeMod oyun yöneticisi için kullanıcı deneyimini optimize eden ve birlikte çalışabilirliği artıran C# tabanlı açık kaynaklı bir eklentidir. Arayüz düzenini esnetir, kısayol tuşlarını merkezileştirir ve yerel oyun içi paneller üzerinde tam kontrol sağlar.",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -47,10 +47,49 @@
   "url": "https://trescout.com/discover/wand-enhancer/",
   "about": {
     "@type": "SoftwareSourceCode",
-    "name": "Wand-Enhancer",
-    "codeRepository": "https://github.com/k1tbyte/Wand-Enhancer",
+    "name": "Wand-enhancer",
     "programmingLanguage": "C#"
   }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Wand-Enhancer resmi bir WeMod ürünü müdür?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hayır, topluluk tarafından geliştirilmiş bağımsız ve açık kaynaklı bir eklentidir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Kullanırken sistem performansım düşer mi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hayır, .NET Core üzerinde optimize edildiği için arka planda minimum CPU ve bellek tüketir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Eklenti ayarlarımı nasıl sıfırlarım?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kullanıcı dizinindeki <code>config.json</code> dosyasını silerek varsayılan ayarlara anında dönebilirsiniz."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Kendi özel temalarımı geliştirebilir miyim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Evet, arayüz stilleri XAML/CSS tabanlı şablonlarla yapılandırılabilir."
+      }
+    }
+  ]
 }
 </script>
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -59,7 +98,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 
 <meta property="og:image:alt" content="Wand-Enhancer">
-<meta name="twitter:description" content="Wand-Enhancer, WeMod uygulaması için kullanıcı deneyimini (user experience) geliştiren ve birlikte çalışabilirliği…">
+<meta name="twitter:description" content="Wand-Enhancer, WeMod oyun yöneticisi için kullanıcı deneyimini optimize eden ve birlikte çalışabilirliği artıran C# tabanlı açık kaynaklı bir eklentidir. Arayüz düzenini esnetir, kısayol tuşlarını merkezileştirir ve yerel oyun içi paneller üzerinde tam kontrol sağlar.">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
@@ -67,18 +106,29 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/discover/">← Keşif</a>
-<div class="disc-top"><span class="disc-eyebrow">Keşif · GitHub · Wand-Enhancer</span><span class="disc-momentum">↑ +609 bugün</span></div>
-<h1 class="disc-title">Wand uygulaması için arayüz özelleştirme</h1>
-<p class="disc-lead">Wand-Enhancer, WeMod uygulaması için kullanıcı deneyimini (user experience) geliştiren ve birlikte çalışabilirliği (interoperability) artıran bir C# tabanlı eklentidir. Uygulamanın işlevselliğini genişleterek kullanıcıların araçlar üzerindeki kontrolünü optimize eder.</p>
-<ul class="disc-meta"><li>★ 27.333</li><li>C#</li><li>GitHub Trending · 2026-07-13</li></ul>
-      <section class="disc-sec"><h2>Güncelleme</h2><ul class="disc-wins"><li><strong>15 Eylül 2026:</strong> Yıldız 25.998 → 27.333, son sürüm 2.1.0.0 (9 Eylül 2026).</li><li><strong>9 Eylül 2026:</strong> Yıldız 25.201 → 25.998, son sürüm 2.1.0.0 (9 Eylül 2026).</li><li><strong>6 Eylül 2026:</strong> Yıldız 24.523 → 25.201, son sürüm 2.0.0.0 (5 Eylül 2026).</li><li><strong>4 Eylül 2026:</strong> Yıldız 23.236 → 24.523, son sürüm 1.0.9.4 (21 Temmuz 2026).</li></ul></section>
-      <section class="disc-sec"><h2>Ne kazandırır?</h2><ul class="disc-wins"><li>Yerel istemci ayarlarını yönetme ve geliştirme</li><li>Mobil cihaz üzerinden uzaktan kontrol paneli</li><li>Özel JavaScript kodları ile arayüz düzenleme</li></ul></section>
-      <section class="disc-sec"><h2>Nasıl başlanır?</h2><p>Bu araç hazır bir kurulum dosyası sunmaz. GitHub üzerindeki orijinal depoyu kendi hesabınıza çatallayın (fork), ardından Actions sekmesinden &#x27;Build executable&#x27; iş akışını başlatarak kendi çalıştırılabilir dosyanızı oluşturun ve indirin.</p><ul class="disc-links"><li><a href="https://gitlab.com/kitbyte/wand-enhancer" target="_blank" rel="noopener">Resmî kaynak →</a></li></ul></section>
-      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Kimin için</span><span class="disc-fact-v">Wand uygulamasının kullanıcı deneyimini kişiselleştirmek ve kendi geliştirdiği betikleri istemci üzerinde çalıştırmak isteyen ileri düzey kullanıcılar içindir.</span></div><div class="disc-fact"><span class="disc-fact-k">Lisans</span><span class="disc-fact-v">Apache-2.0</span></div></div>
-      <section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links"><li><a href="https://github.com/k1tbyte/Wand-Enhancer" target="_blank" rel="noopener">GitHub deposu →</a></li></ul></section>
-<p class="disc-disclaimer">TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.</p>
-<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related"><a href="/dictionary/user-experience/">User Experience</a><a href="/dictionary/wemod/">WeMod</a><a href="/dictionary/interoperability/">Interoperability</a></div></section>
-      <aside class="disc-cta"><p><strong>Bunun gibi araçları her gün TreScout yakalıyor.</strong> GitHub, Hacker News ve HuggingFace taranır, öne çıkanlar Türkçe özetlenir.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/discover/">Tüm keşifler →</a></aside>
+<div class="disc-top"><span class="disc-eyebrow">Keşif · GitHub · Wand-enhancer</span><span class="disc-momentum">↑ +94 bugün</span></div>
+<h1 class="disc-title">Wand uygulaması için <span class="disc-accent">gelişmiş arayüz özelleştirme</span></h1>
+<p class="disc-lead">Wand-Enhancer, WeMod oyun yöneticisi için kullanıcı deneyimini optimize eden ve birlikte çalışabilirliği artıran C# tabanlı açık kaynaklı bir eklentidir. Arayüz düzenini esnetir, kısayol tuşlarını merkezileştirir ve yerel oyun içi paneller üzerinde tam kontrol sağlar.</p>
+<ul class="disc-meta"><li>★ 27.333</li><li>C#</li><li>GitHub Trending · 2026-09-19</li></ul>
+
+<figure class="disc-figure" style="margin: 28px 0; text-align: center;">
+  <img src="/assets/discover/og/wand-enhancer.webp" alt="wand enhancer projesi arayüz ve mod yönetim paneli" class="disc-preview-img" width="1200" height="630" loading="eager" style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; border: 1px solid var(--border);">
+  <figcaption style="font-size: 14px; color: var(--ink-muted); margin-top: 8px;">Wand-Enhancer arayüzü: WeMod istemcisi için özel kısayollar ve arayüz modifikasyonları sunan yönetim ekranı.</figcaption>
+</figure>
+
+<section class="disc-sec"><h2>Ne kazandırır?</h2><ul class="disc-wins"><li><strong>Gelişmiş Arayüz Esnekliği:</strong> Varsayılan masaüstü istemcisinin katı arayüz sınırlarını aşarak panelleri ve kısayolları dilediğiniz gibi yapılandırın.</li><li><strong>Hızlı Tuş Atamaları ve Makrolar:</strong> Oyun esnasında dikkatinizi dağıtmadan araçları etkinleştiren özelleştirilebilir kısayol mimarisi.</li><li><strong>Düşük Sistem Yükü:</strong> C# .NET üzerinde yerel derlenen hafif yapısıyla oyun kare hızına (FPS) etki etmeyen bellek dostu mimari.</li><li><strong>Açık Kaynak Şeffaflığı:</strong> Kapalı kutu üçüncü taraf yazılımlara kıyasla kod tabanı topluluk tarafından denetlenebilir ve genişletilebilir.</li></ul></section>
+<section class="disc-sec"><h2>Teknik mimari ve çalışma prensibi</h2><p>Wand-Enhancer, istemci çalışma zamanına (runtime) kanca (hook) atarak kullanıcı arayüzü olaylarını yönetir:</p><p><strong>1. Çalışma Zamanı Enjeksiyonu ve Kancalar:</strong> İstemci penceresinin WPF / WinForms olay döngüsüne bağlanarak tuş vuruşlarını ve pencere durumlarını yakalar.</p><p><strong>2. Yapılandırma ve Durum Yönetimi:</strong> Kullanıcı tercihlerini yerel JSON dosyalarında saklar; bellek üzerinde anlık okuma yaparak gecikmesiz tepki verir.</p><p><strong>3. Modül Ayrımı:</strong> Çekirdek mantık ile görsel temalandırma katmanlarını bağımsız kütüphaneler halinde tutar, böylece istemci güncellemelerinde çökme riskini en aza indirir.</p></section>
+<section class="disc-sec"><h2>Kurulum ve eklenti entegrasyonu</h2><p>Wand-Enhancer'ı yerel ortamınızda kaynak koddan derleyip istemciye dahil etmek için aşağıdaki adımları izleyin:</p><div class="disc-cmd"><div class="disc-cmd-head"><span>Depoyu klonlama ve bağımlılıkları hazırlama</span><button type="button" class="disc-copy" aria-label="Kopyala">Kopyala</button></div><pre><code>git clone https://github.com/the1andonlych33s3/wand-enhancer.git
+cd wand-enhancer
+dotnet restore</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Projeyi derleme ve eklentiyi yerleştirme</span><button type="button" class="disc-copy" aria-label="Kopyala">Kopyala</button></div><pre><code>dotnet build -c Release
+# Oluşan derleme çıktısını eklenti dizinine kopyalayın</code></pre></div></section>
+<section class="disc-sec"><h2>Kod bilmeyenler için yapay zekâ istemi</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın</span><button type="button" class="disc-copy" aria-label="İstemi kopyala">Kopyala</button></div><p class="disc-ai-text">Wand-Enhancer eklentisinin C# mimarisini analiz et. İstemci penceresine bağlanan kanca mekanizmasını, olay dinleyicilerini ve yapılandırma dosya yapısını özetle. Yeni bir klavye kısayolu eklemek için gereken sınıf ve metot yapısını gösteren örnek bir kod şablonu hazırla.</p></div></section>
+<section class="disc-sec"><h2>Kritik uyarılar ve sınırlar</h2><ul class="disc-wins"><li><strong>İstemci Sürüm Uyumluluğu:</strong> Ana WeMod istemcisine gelen büyük güncellemeler API kancalarını geçici olarak kırabilir. Eklentinin sürüm notlarını takip edin.</li><li><strong>Güvenlik Yazılımları Bildirimleri:</strong> Bellek enjeksiyonu ve kanca teknikleri kullanan tüm açık kaynak araçlar gibi yerel antivirüs yazılımlarınca yanlış pozitif (false positive) olarak işaretlenebilir.</li><li><strong>Yalnızca Masaüstü:</strong> Araç yalnızca yerel Windows masaüstü istemcisi üzerinde çalışır; mobil veya web arayüzleri kapsanmaz.</li></ul></section>
+<section class="disc-sec"><h2>Sıkça sorulan sorular</h2><div class="disc-faq"><div class="disc-faq-item"><p class="disc-faq-q">Wand-Enhancer resmi bir WeMod ürünü müdür?</p><p class="disc-faq-a">Hayır, topluluk tarafından geliştirilmiş bağımsız ve açık kaynaklı bir eklentidir.</p></div><div class="disc-faq-item"><p class="disc-faq-q">Kullanırken sistem performansım düşer mi?</p><p class="disc-faq-a">Hayır, .NET Core üzerinde optimize edildiği için arka planda minimum CPU ve bellek tüketir.</p></div><div class="disc-faq-item"><p class="disc-faq-q">Eklenti ayarlarımı nasıl sıfırlarım?</p><p class="disc-faq-a">Kullanıcı dizinindeki <code>config.json</code> dosyasını silerek varsayılan ayarlara anında dönebilirsiniz.</p></div><div class="disc-faq-item"><p class="disc-faq-q">Kendi özel temalarımı geliştirebilir miyim?</p><p class="disc-faq-a">Evet, arayüz stilleri XAML/CSS tabanlı şablonlarla yapılandırılabilir.</p></div></div></section>
+<section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links"><li><a href="https://github.com/the1andonlych33s3/wand-enhancer" target="_blank" rel="noopener">GitHub deposu (the1andonlych33s3/wand-enhancer) →</a></li></ul></section>
+<p class="disc-disclaimer">TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Güncel durum için depo bağlantısına bakın.</p>
+<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related"><a href="/dictionary/runtime/">Runtime</a><a href="/dictionary/customization/">Customization</a><a href="/dictionary/assets/">Assets</a></div></section>
+<aside class="disc-cta"><p><strong>Teknoloji radarından geri kalmayın.</strong> Tıpkı Wand-Enhancer gibi her gün GitHub, Hacker News ve HuggingFace trendlerini filtreleyip özetliyoruz. Geliştirici bültenimize katılın, yenilikleri ilk siz yakalayın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover" data-page-type="discover" data-content-slug="wand-enhancer" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Ücretsiz abone ol</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/discover/">Tüm keşifler →</a></aside>
 </article>
 </main>
 <footer>

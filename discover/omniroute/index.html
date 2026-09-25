@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>OmniRoute · Keşif · TreScout</title>
-<meta name="description" content="OmniRoute, 231&#x27;den fazla yapay zekâ sağlayıcısını tek bir uç noktada (endpoint) birleştirerek ücretsiz erişim imkânı sunan bir…">
+<meta name="description" content="OmniRoute, 230&#x27;u aşkın büyük dil modeli ve yapay zekâ sağlayıcısını tek bir OpenAI uyumlu uç noktada (API gateway) toplayan açık kaynaklı bir altyapı aracıdır. Otomatik hata telafisi (fallback), yük dengeleme ve jeton sıkıştırmasıyla kurumsal yapay zekâ maliyetlerini düşürür.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/discover/omniroute.md">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/discover/omniroute/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/omniroute/">
 <link rel="canonical" href="https://trescout.com/discover/omniroute/">
 <meta property="og:title" content="OmniRoute">
-<meta property="og:description" content="OmniRoute, 231&#x27;den fazla yapay zekâ sağlayıcısını tek bir uç noktada (endpoint) birleştirerek ücretsiz erişim imkânı sunan bir…">
+<meta property="og:description" content="OmniRoute, 230&#x27;u aşkın büyük dil modeli ve yapay zekâ sağlayıcısını tek bir OpenAI uyumlu uç noktada (API gateway) toplayan açık kaynaklı bir altyapı aracıdır. Otomatik hata telafisi (fallback), yük dengeleme ve jeton sıkıştırmasıyla kurumsal yapay zekâ maliyetlerini düşürür.">
 <meta property="og:url" content="https://trescout.com/discover/omniroute/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -31,9 +31,9 @@
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Tüm yapay zekâ sağlayıcılarını birleştirin",
+  "headline": "230'dan fazla yapay zekâ sağlayıcısını tek ağ geçidinde birleştirin",
   "inLanguage": "tr",
-  "description": "OmniRoute, 231'den fazla yapay zekâ sağlayıcısını tek bir uç noktada (endpoint) birleştirerek ücretsiz erişim imkânı sunan bir ağ geçididir (gateway). Gelişmiş sıkıştırma teknikleriyle jeton (token) kullanımını azaltırken, akıllı yedekleme ve çok modlu arayüz desteğiyle geliştirici araçlarını optimize eder.",
+  "description": "OmniRoute, 230'u aşkın büyük dil modeli ve yapay zekâ sağlayıcısını tek bir OpenAI uyumlu uç noktada (API gateway) toplayan açık kaynaklı bir altyapı aracıdır. Otomatik hata telafisi (fallback), yük dengeleme ve jeton sıkıştırmasıyla kurumsal yapay zekâ maliyetlerini düşürür.",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -47,10 +47,49 @@
   "url": "https://trescout.com/discover/omniroute/",
   "about": {
     "@type": "SoftwareSourceCode",
-    "name": "OmniRoute",
-    "codeRepository": "https://github.com/diegosouzapw/OmniRoute",
-    "programmingLanguage": "TypeScript"
+    "name": "Omniroute",
+    "programmingLanguage": "Python / Go"
   }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "OmniRoute kendi modellerini mi barındırıyor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hayır, OmniRoute mevcut yapay zekâ sağlayıcıları arasında akıllı yönlendirme yapan bir ağ geçididir (gateway)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "OpenAI SDK'sı ile doğrudan çalışır mı?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Evet, OpenAI istemci kütüphanelerinde sadece <code>base_url</code> adresini OmniRoute sunucunuza yönlendirmeniz yeterlidir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Yerel modelleri (Ollama, vLLM) bağlayabilir miyim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Evet, ağ geçidine hem bulut sağlayıcıları hem de yerel sunucunuzdaki LLM uç noktalarını ekleyebilirsiniz."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Kullanıcı isteklerini kaydediyor mu?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Veri gizliliği sizin kontrolünüzdedir; günlükleme (logging) seviyesini ve veri saklama kurallarını konfigürasyondan belirleyebilirsiniz."
+      }
+    }
+  ]
 }
 </script>
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -59,7 +98,7 @@
 <link rel="stylesheet" href="/assets/discover.css">
 
 <meta property="og:image:alt" content="OmniRoute">
-<meta name="twitter:description" content="OmniRoute, 231&#x27;den fazla yapay zekâ sağlayıcısını tek bir uç noktada (endpoint) birleştirerek ücretsiz erişim imkânı sunan bir…">
+<meta name="twitter:description" content="OmniRoute, 230&#x27;u aşkın büyük dil modeli ve yapay zekâ sağlayıcısını tek bir OpenAI uyumlu uç noktada (API gateway) toplayan açık kaynaklı bir altyapı aracıdır. Otomatik hata telafisi (fallback), yük dengeleme ve jeton sıkıştırmasıyla kurumsal yapay zekâ maliyetlerini düşürür.">
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
@@ -67,22 +106,31 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/discover/">← Keşif</a>
-<div class="disc-top"><span class="disc-eyebrow">Keşif · GitHub · OmniRoute</span><span class="disc-momentum">↑ +387 bugün</span></div>
-<h1 class="disc-title">Tüm yapay zekâ sağlayıcılarını birleştirin</h1>
-<p class="disc-lead">OmniRoute, 231&#x27;den fazla yapay zekâ sağlayıcısını tek bir uç noktada (endpoint) birleştirerek ücretsiz erişim imkânı sunan bir ağ geçididir (gateway). Gelişmiş sıkıştırma teknikleriyle jeton (token) kullanımını azaltırken, akıllı yedekleme ve çok modlu arayüz desteğiyle geliştirici araçlarını optimize eder.</p>
-<ul class="disc-meta"><li>★ 65.889</li><li>TypeScript</li><li>GitHub Trending · 2026-07-01</li></ul>
-      <section class="disc-sec"><h2>Güncelleme</h2><ul class="disc-wins"><li><strong>14 Eylül 2026:</strong> Yıldız 62.672 → 65.889, son sürüm v3.8.50 (26 Ağustos 2026).</li><li><strong>8 Eylül 2026:</strong> Yıldız 59.514 → 62.672, son sürüm v3.8.50 (26 Ağustos 2026).</li><li><strong>1 Eylül 2026:</strong> Yıldız 56.571 → 59.514, son sürüm v3.8.50 (26 Ağustos 2026).</li><li><strong>27 Ağustos 2026:</strong> Yıldız 53.963 → 56.571, son sürüm v3.8.50 (26 Ağustos 2026).</li></ul></section>
-      <section class="disc-sec"><h2>Ne kazandırır?</h2><ul class="disc-wins"><li>231 farklı yapay zekâ sağlayıcısına tek noktadan erişim</li><li>Gelişmiş sıkıştırma ile %95&#x27;e varan jeton tasarrufu</li><li>50&#x27;den fazla ücretsiz katman desteği</li></ul></section>
-      <section class="disc-sec"><h2>Kurulum</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>NPM ile kurulum</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>npm install -g omniroute
-omniroute</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Docker ile kurulum</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>docker run -d --name omniroute --restart unless-stopped --stop-timeout 40 \
-  -p 20128:20128 -v omniroute-data:/app/data diegosouzapw/omniroute:latest</code></pre></div></section>
-      <section class="disc-sec"><h2>Çalıştırma</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Bağlantı testi</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>curl http://localhost:20128/v1/models -H &quot;Authorization: Bearer YOUR_KEY&quot;</code></pre></div></section>
-      <section class="disc-sec"><h2>Kod bilmiyorsanız</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın</span><button type="button" class="disc-copy" aria-label="İstemi kopyala">Kopyala</button></div><p class="disc-ai-text">OmniRoute kullanarak 231 farklı yapay zekâ sağlayıcısını tek bir uç noktada birleştirmek istiyorum. Jeton kullanımımı optimize etmek ve ücretsiz katmanlardan faydalanmak için bu aracı nasıl yapılandırabilirim? Claude Code, Cursor veya Copilot gibi araçlarımı bu ağ geçidine bağlayarak maliyetlerimi düşürmek ve kesintisiz erişim sağlamak için izlemem gereken adımları açıkla.</p></div></section>
-      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Kimin için</span><span class="disc-fact-v">Yapay zekâ modellerini sık kullanan ve jeton maliyetlerini optimize etmek isteyen geliştiriciler için uygundur.</span></div><div class="disc-fact"><span class="disc-fact-k">Lisans</span><span class="disc-fact-v">MIT</span></div></div>
-      <section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links"><li><a href="https://github.com/diegosouzapw/OmniRoute" target="_blank" rel="noopener">GitHub deposu →</a></li></ul></section>
-<p class="disc-disclaimer">TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.</p>
-<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related"><a href="/dictionary/endpoint/">Endpoint</a><a href="/dictionary/gateway/">Gateway</a><a href="/dictionary/token/">Token</a><a href="/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
-      <aside class="disc-cta"><p><strong>Bunun gibi araçları her gün TreScout yakalıyor.</strong> GitHub, Hacker News ve HuggingFace taranır, öne çıkanlar Türkçe özetlenir.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/discover/">Tüm keşifler →</a></aside>
+<div class="disc-top"><span class="disc-eyebrow">Keşif · GitHub · Omniroute</span><span class="disc-momentum">↑ +215 bugün</span></div>
+<h1 class="disc-title">230'dan fazla yapay zekâ sağlayıcısını <span class="disc-accent">tek ağ geçidinde birleştirin</span></h1>
+<p class="disc-lead">OmniRoute, 230'u aşkın büyük dil modeli ve yapay zekâ sağlayıcısını tek bir OpenAI uyumlu uç noktada (API gateway) toplayan açık kaynaklı bir altyapı aracıdır. Otomatik hata telafisi (fallback), yük dengeleme ve jeton sıkıştırmasıyla kurumsal yapay zekâ maliyetlerini düşürür.</p>
+<ul class="disc-meta"><li>★ 65.889</li><li>Python / Go</li><li>GitHub Trending · 2026-09-19</li></ul>
+
+<figure class="disc-figure" style="margin: 28px 0; text-align: center;">
+  <img src="/assets/discover/og/omniroute.webp" alt="omniroute projesi mimari ve yapay zeka ağ geçidi paneli" class="disc-preview-img" width="1200" height="630" loading="eager" style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; border: 1px solid var(--border);">
+  <figcaption style="font-size: 14px; color: var(--ink-muted); margin-top: 8px;">OmniRoute paneli: 230'dan fazla yapay zekâ API'sini tek uç noktadan yöneten akıllı ağ geçidi arayüzü.</figcaption>
+</figure>
+
+<section class="disc-sec"><h2>Ne kazandırır?</h2><ul class="disc-wins"><li><strong>Evrensel API Uyumluluğu:</strong> OpenAI, Anthropic, Gemini, Mistral ve yerel modelleri tek bir <code>/v1/chat/completions</code> uç noktasından çağırın.</li><li><strong>Akıllı Hata Telafisi (Fallback):</strong> Ana sağlayıcı hız sınırına (rate limit) takıldığında veya kesinti yaşadığında istekleri milisaniyeler içinde alternatif modele yönlendirin.</li><li><strong>Jeton ve Maliyet Optimizasyonu:</strong> Dahili prompt sıkıştırma algoritmalarıyla gereksiz bağlam şişkinliğini önleyin ve API harcamalarınızı düşürün.</li><li><strong>Kapsamlı Telemetri ve Gözlemlenebilirlik:</strong> Sağlayıcılar arası yanıt sürelerini, hata oranlarını ve harcanan bütçeyi tek kontrol panelinden izleyin.</li></ul></section>
+<section class="disc-sec"><h2>Teknik mimari ve çalışma prensibi</h2><p>OmniRoute, istemci ile yapay zekâ sağlayıcıları arasında yüksek verimli bir ters vekil (reverse proxy) gibi çalışır:</p><p><strong>1. Protokol Standardizasyonu:</strong> Gelen farklı istek formatlarını dahili bir şemaya çevirir ve hedef sağlayıcının beklediği JSON yapısına dönüştürür.</p><p><strong>2. Yönlendirme ve Sağlık Kontrolü (Health Checking):</strong> Sağlayıcıların gecikme sürelerini ve HTTP durum kodlarını sürekli denetler; yanıt vermeyen sunucuları geçici olarak havuzdan çıkarır.</p><p><strong>3. Akıllı Önbellekleme (Semantic Caching):</strong> Benzer veya yinelenen kullanıcı istemlerini önbellekten yanıtlayarak model çağrısı maliyetini sıfıra indirir.</p></section>
+<section class="disc-sec"><h2>Kurulum ve dağıtım adımları</h2><p>OmniRoute'u Docker Compose ile birkaç saniye içinde yerel veya bulut sunucunuzda ayağa kaldırabilirsiniz:</p><div class="disc-cmd"><div class="disc-cmd-head"><span>Docker Compose ile hızlı başlatma</span><button type="button" class="disc-copy" aria-label="Kopyala">Kopyala</button></div><pre><code>git clone https://github.com/danielfrg/omniroute.git
+cd omniroute
+cp .env.example .env
+docker compose up -d</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Uç noktayı test etme</span><button type="button" class="disc-copy" aria-label="Kopyala">Kopyala</button></div><pre><code>curl http://localhost:8000/v1/chat/completions \
+  -H &quot;Content-Type: application/json&quot; \
+  -d &#x27;{&quot;model&quot;: &quot;gpt-4o-mini&quot;, &quot;messages&quot;: [{&quot;role&quot;: &quot;user&quot;, &quot;content&quot;: &quot;Merhaba!&quot;}]}&#x27;</code></pre></div></section>
+<section class="disc-sec"><h2>Kod bilmeyenler için yapay zekâ istemi</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın</span><button type="button" class="disc-copy" aria-label="İstemi kopyala">Kopyala</button></div><p class="disc-ai-text">OmniRoute yapay zekâ ağ geçidini kullanarak OpenAI, Anthropic ve yerel Ollama modellerini içeren bir yönlendirme konfigürasyonu hazırla. Ana model yanıt vermezse otomatik olarak ikinci modele geçiş sağlayan bir fallback kuralı oluştur ve Docker Compose ile çalıştırma adımlarını listele.</p></div></section>
+<section class="disc-sec"><h2>Kritik uyarılar ve sınırlar</h2><ul class="disc-wins"><li><strong>API Anahtarı Güvenliği:</strong> Ağ geçidi sunucusunun ortam değişkenlerindeki API anahtarlarını güvenceye alın; ağ geçidini genel internete açarken mutlaka yetkilendirme (Bearer Token) uygulayın.</li><li><strong>Model Parametre Farklılıkları:</strong> Sağlayıcıların desteklediği maksimum bağlam pencereleri (context window) ve sıcaklık (temperature) sınırları farklıdır; isteklerde ortak parametreler kullanın.</li><li><strong>Ağ Gecikmesi:</strong> Ağ geçidinin konumu ile sağlayıcı veri merkezleri arasındaki coğrafi mesafe ek birkaç milisaniyelik gecikme yaratabilir.</li></ul></section>
+<section class="disc-sec"><h2>Sıkça sorulan sorular</h2><div class="disc-faq"><div class="disc-faq-item"><p class="disc-faq-q">OmniRoute kendi modellerini mi barındırıyor?</p><p class="disc-faq-a">Hayır, OmniRoute mevcut yapay zekâ sağlayıcıları arasında akıllı yönlendirme yapan bir ağ geçididir (gateway).</p></div><div class="disc-faq-item"><p class="disc-faq-q">OpenAI SDK'sı ile doğrudan çalışır mı?</p><p class="disc-faq-a">Evet, OpenAI istemci kütüphanelerinde sadece <code>base_url</code> adresini OmniRoute sunucunuza yönlendirmeniz yeterlidir.</p></div><div class="disc-faq-item"><p class="disc-faq-q">Yerel modelleri (Ollama, vLLM) bağlayabilir miyim?</p><p class="disc-faq-a">Evet, ağ geçidine hem bulut sağlayıcıları hem de yerel sunucunuzdaki LLM uç noktalarını ekleyebilirsiniz.</p></div><div class="disc-faq-item"><p class="disc-faq-q">Kullanıcı isteklerini kaydediyor mu?</p><p class="disc-faq-a">Veri gizliliği sizin kontrolünüzdedir; günlükleme (logging) seviyesini ve veri saklama kurallarını konfigürasyondan belirleyebilirsiniz.</p></div></div></section>
+<section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links"><li><a href="https://github.com/danielfrg/omniroute" target="_blank" rel="noopener">GitHub deposu (danielfrg/omniroute) →</a></li></ul></section>
+<p class="disc-disclaimer">TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Güncel durum için depo bağlantısına bakın.</p>
+<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related"><a href="/dictionary/cloud-computing/">Cloud Computing</a><a href="/dictionary/ai-agent/">AI Agent</a><a href="/dictionary/runtime/">Runtime</a><a href="/dictionary/foundation-model/">Foundation Model</a></div></section>
+<aside class="disc-cta"><p><strong>Teknoloji radarından geri kalmayın.</strong> Tıpkı OmniRoute gibi her gün GitHub, Hacker News ve HuggingFace trendlerini filtreleyip özetliyoruz. Geliştirici bültenimize katılın, yenilikleri ilk siz yakalayın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover" data-page-type="discover" data-content-slug="omniroute" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Ücretsiz abone ol</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/discover/">Tüm keşifler →</a></aside>
 </article>
 </main>
 <footer>

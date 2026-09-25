@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Gitdiagram · Keşif · TreScout</title>
-<meta name="description" content="Gitdiagram, GitHub depolarındaki karmaşık dosya yapılarını ve kod ilişkilerini görselleştiren bir araçtır.">
+<meta name="description" content="Gitdiagram, GitHub depolarındaki karmaşık dosya yapılarını ve kod ilişkilerini saniyeler içinde görselleştiren açık kaynaklı bir araçtır. URL&#x27;deki tek bir harfi değiştirerek devasa kod tabanlarının sistem mimarisini interaktif diyagramlar halinde sunar.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/discover/gitdiagram.md">
 <link rel="canonical" href="https://trescout.com/discover/gitdiagram/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/gitdiagram/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/gitdiagram/">
 <meta property="og:title" content="Gitdiagram">
-<meta property="og:description" content="Gitdiagram, GitHub depolarındaki karmaşık dosya yapılarını ve kod ilişkilerini görselleştiren bir araçtır.">
+<meta property="og:description" content="Gitdiagram, GitHub depolarındaki karmaşık dosya yapılarını ve kod ilişkilerini saniyeler içinde görselleştiren açık kaynaklı bir araçtır. URL&#x27;deki tek bir harfi değiştirerek devasa kod tabanlarının sistem mimarisini interaktif diyagramlar halinde sunar.">
 <meta property="og:url" content="https://trescout.com/discover/gitdiagram/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -27,15 +27,15 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Gitdiagram">
-<meta name="twitter:description" content="Gitdiagram, GitHub depolarındaki karmaşık dosya yapılarını ve kod ilişkilerini görselleştiren bir araçtır.">
+<meta name="twitter:description" content="Gitdiagram, GitHub depolarındaki karmaşık dosya yapılarını ve kod ilişkilerini saniyeler içinde görselleştiren açık kaynaklı bir araçtır. URL&#x27;deki tek bir harfi değiştirerek devasa kod tabanlarının sistem mimarisini interaktif diyagramlar halinde sunar.">
 <meta name="twitter:image" content="https://trescout.com/assets/discover/og/gitdiagram.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "GitHub depolarını etkileşimli şemalara dönüştürün",
+  "headline": "GitHub depolarını etkileşimli mimari şemalara dönüştürün",
   "inLanguage": "tr",
-  "description": "Gitdiagram, GitHub depolarındaki karmaşık dosya yapılarını ve kod ilişkilerini görselleştiren bir araçtır. Yazılım projelerinin mimarisini anlamayı kolaylaştıran etkileşimli şemalar oluşturur.",
+  "description": "Gitdiagram, GitHub depolarındaki karmaşık dosya yapılarını ve kod ilişkilerini saniyeler içinde görselleştiren açık kaynaklı bir araçtır. URL'deki tek bir harfi değiştirerek devasa kod tabanlarının sistem mimarisini interaktif diyagramlar halinde sunar.",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -55,6 +55,46 @@
   }
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Gitdiagram'ı kullanmak ücretli mi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hayır, Gitdiagram açık kaynaklıdır (MIT lisansı). Web sürümü herkese açık repolar için ücretsizdir, yerel sürümü de kendi donanımınızda bedelsiz çalıştırabilirsiniz."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Özel (private) GitHub depolarımda kullanabilir miyim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Evet. Bunun için projeyi GitHub'dan klonlayıp kendi makinenizde çalıştırmalı ve özel deponuza erişim yetkisi olan bir GitHub Personal Access Token (PAT) tanımlamalısınız."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Büyük projelerde şema karmaşıklaşır mı?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gitdiagram derinlik filtreleri sunar. Çok katmanlı projelerde ana dizin seviyesinde özet şema alabilir veya ilgilendiğiniz alt modülü seçip detayına inebilirsiniz."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Oluşturulan şemayı sunumuma ekleyebilir miyim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Evet, arayüz üzerinden tek tıkla şemanın yüksek çözünürlüklü PNG veya SVG çıktısını alabilir, doğrudan tasarım ve dokümantasyon araçlarınıza yapıştırabilirsiniz."
+      }
+    }
+  ]
+}
+</script>
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/assets/fonts/inter-latin-ext.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/site.css">
@@ -67,25 +107,34 @@
 <article class="disc">
 <a class="disc-back" href="/discover/">← Keşif</a>
 <div class="disc-top"><span class="disc-eyebrow">Keşif · GitHub · Gitdiagram</span><span class="disc-momentum">↑ +152 bugün</span></div>
-<h1 class="disc-title">GitHub depolarını etkileşimli şemalara dönüştürün</h1>
-<p class="disc-lead">Gitdiagram, GitHub depolarındaki karmaşık dosya yapılarını ve kod ilişkilerini görselleştiren bir araçtır. Yazılım projelerinin mimarisini anlamayı kolaylaştıran etkileşimli şemalar oluşturur.</p>
+<h1 class="disc-title">GitHub depolarını <span class="disc-accent">etkileşimli mimari şemalara</span> dönüştürün</h1>
+<p class="disc-lead">Gitdiagram, GitHub depolarındaki karmaşık dosya yapılarını ve kod ilişkilerini saniyeler içinde görselleştiren açık kaynaklı bir araçtır. URL'deki tek bir harfi değiştirerek devasa kod tabanlarının sistem mimarisini interaktif diyagramlar halinde sunar.</p>
 <ul class="disc-meta"><li>★ 16.568</li><li>TypeScript</li><li>GitHub Trending · 2026-09-19</li></ul>
-      <section class="disc-sec"><h2>Ne kazandırır?</h2><ul class="disc-wins"><li>Karmaşık kod yapılarını görselleştirerek mimariyi hızlıca kavrayın.</li><li>Şema üzerindeki bileşenlere tıklayarak ilgili kaynak kod dosyasına gidin.</li><li>Oluşturulan şemaları görsel veya metin formatında dışa aktarın.</li></ul></section>
-      <section class="disc-sec"><h2>Kurulum</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Yerel ortamı hazırlama ve başlatma</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>git clone https://github.com/ahmedkhaleel2004/gitdiagram.git
+
+<figure class="disc-figure" style="margin: 28px 0; text-align: center;">
+  <img src="/assets/discover/og/gitdiagram.webp" alt="gitdiagram projesi mimari ve akış şeması" class="disc-preview-img" width="1200" height="630" loading="eager" style="width: 100%; max-width: 800px; height: auto; border-radius: 12px; border: 1px solid var(--border);">
+  <figcaption style="font-size: 14px; color: var(--ink-muted); margin-top: 8px;">Gitdiagram arayüzü: GitHub deposunu etkileşimli sistem mimarisi şemasına dönüştüren görsel analiz paneli.</figcaption>
+</figure>
+
+<section class="disc-sec"><h2>Ne kazandırır?</h2><ul class="disc-wins"><li><strong>Saniyeler İçinde Kod Haritası:</strong> Binlerce satırlık yabancı bir depoda kaybolmadan sistem mimarisini, ana modülleri ve veri akışını kuşbakışı görün.</li><li><strong>Tek Tıkla URL Kısayolu:</strong> Herhangi bir GitHub repo URL'sindeki <code>github.com</code> kısmını <code>gitdiagram.com</code> yaparak kurulumsuz anında şema üretin.</li><li><strong>İnteraktif Düğümler:</strong> Şema üzerindeki kutulara tıklayarak doğrudan GitHub'daki ilgili kaynak kod dosyasına veya klasörüne gidin.</li><li><strong>Dışa Aktarma Desteği:</strong> Oluşturulan mimari şemaları dokümantasyon veya sunumlar için PNG, SVG veya metin biçiminde indirin.</li></ul></section>
+<section class="disc-sec"><h2>Tek tıkla kullanım: URL değiştirme kısayolu</h2><p>Gitdiagram'ın en pratik yanı hiçbir kurulum gerektirmeden tarayıcı üzerinden çalışmasıdır. İncelemek istediğiniz herhangi bir açık kaynaklı deponun adresindeki <strong>hub</strong> kelimesini silip yerine <strong>diagram</strong> yazmanız yeterlidir:</p><div class="disc-cmd"><div class="disc-cmd-head"><span>URL Kısayolu Örneği</span><button type="button" class="disc-copy" aria-label="Kopyala">Kopyala</button></div><pre><code># Orijinal GitHub adresi:
+https://github.com/facebook/react
+
+# Gitdiagram etkileşimli şema adresi:
+https://gitdiagram.com/facebook/react</code></pre></div><p>Bu bağlantıya girdiğiniz anda Gitdiagram arkaplanda depoyu tarar, dosya ağacını analiz eder ve interaktif şemayı tarayıcınızda açar.</p></section>
+<section class="disc-sec"><h2>Teknik mimari ve çalışma mantığı</h2><p>Gitdiagram, kod tabanını salt metin olarak değil, ilişkisel bir sistem grafı olarak ele alır:</p><p><strong>1. Ağaç Çıkarma (Tree Ingestion):</strong> GitHub REST ve GraphQL API'lerini kullanarak deponun dosya ağacını, paket yöneticisi tanımlarını (<code>package.json</code>, <code>Cargo.toml</code>, <code>go.mod</code>) ve dizin hiyerarşisini çeker.</p><p><strong>2. Semantik Analiz ve İlişkilendirme:</strong> Modüller arasındaki import zincirlerini ve servis sınırlarını tespit eder. LLM entegrasyonu (OpenAI / Claude API) ile bileşenlerin rollerini (API Gateway, Controller, Database Adapter) etiketler.</p><p><strong>3. Vektörel Çizim Motoru:</strong> Elde edilen grafı React Flow ve SVG tabanlı bir sanal tuvale dönüştürür. Düğümler arası veri akışı yönlü oklarla görselleştirilir.</p></section>
+<section class="disc-sec"><h2>Kurulum ve yerel dağıtım</h2><p>Kendi API anahtarlarınızla çalıştırmak veya özel (private) depolarınızı kendi sunucunuzda görselleştirmek için Gitdiagram'ı yerel ortamınızda başlatabilirsiniz:</p><div class="disc-cmd"><div class="disc-cmd-head"><span>Yerel ortamı hazırlama ve bağımlılıkları kurma</span><button type="button" class="disc-copy" aria-label="Kopyala">Kopyala</button></div><pre><code>git clone https://github.com/ahmedkhaleel2004/gitdiagram.git
 cd gitdiagram
 bun install
-cp .env.example .env
-bun run dev</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Projeyi doğrulama ve derleme</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>bun run lint
-bun run typecheck
-bun run test
-bun run build</code></pre></div></section>
-      <section class="disc-sec"><h2>Kod bilmiyorsanız</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın</span><button type="button" class="disc-copy" aria-label="İstemi kopyala">Kopyala</button></div><p class="disc-ai-text">GitDiagram aracını kullanarak incelediğim GitHub deposunun mimarisini, sistem düzeyinde bir grafik olarak oluştur. Kod yapısındaki bileşenleri, aralarındaki ilişkileri ve çalışma mantığını net bir şekilde gösteren etkileşimli bir şema hazırla. Şemayı oluştururken dosya yollarını ve önemli modülleri temel alarak sistemin genel işleyişini özetle.</p></div></section>
-      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Kimin için</span><span class="disc-fact-v">Yazılım projelerinin mimarisini anlamak isteyen geliştiriciler ve kod tabanlarını hızlıca analiz etmeye ihtiyaç duyan teknik ekipler için tasarlanmıştır.</span></div><div class="disc-fact"><span class="disc-fact-k">Lisans</span><span class="disc-fact-v">MIT</span></div></div>
-      
-<section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links"><li><a href="https://github.com/ahmedkhaleel2004/gitdiagram" target="_blank" rel="noopener">GitHub deposu →</a></li></ul></section>
-<p class="disc-disclaimer">TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-19 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.</p>
-<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related"><a href="/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
-      <aside class="disc-cta"><p><strong>Benzer keşifleri günlük raporda al.</strong> TreScout; GitHub, Hacker News ve HuggingFace trendlerini her gün tarar, öne çıkan açık kaynak araçları Türkçe özetler.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover" data-page-type="discover" data-content-slug="gitdiagram" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/discover/">Tüm keşifler →</a></aside>
+cp .env.example .env</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Geliştirme sunucusunu başlatma</span><button type="button" class="disc-copy" aria-label="Kopyala">Kopyala</button></div><pre><code># .env içine GITHUB_TOKEN ve OPENAI_API_KEY ekleyin
+bun run dev</code></pre></div></section>
+<section class="disc-sec"><h2>Kod bilmiyorsanız: Yapay zekâ ajanı istemi</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın</span><button type="button" class="disc-copy" aria-label="İstemi kopyala">Kopyala</button></div><p class="disc-ai-text">Gitdiagram mimarisini temel alarak incelediğim GitHub deposunun sistem şemasını oluştur. Depodaki ana bileşenleri, veri akış yönlerini, giriş noktalarını (entry points) ve harici bağımlılıkları tespit et. Mimariyi Mermaid.js formatında bir flowchart olarak çiz ve her bileşenin işlevini ikişer cümleyle açıkla.</p></div></section>
+<section class="disc-sec"><h2>Kritik uyarılar ve sınırlar</h2><ul class="disc-wins"><li><strong>Devasa Monorepolar:</strong> On binlerce dosya içeren monorepolarda GitHub API hız limitine (rate limit) takılabilir. Kişisel GitHub token kullanmak sınırları genişletir.</li><li><strong>Özel (Private) Depolar:</strong> Bulut sürümü yalnızca herkese açık (public) depoları destekler. Şirket içi kapalı depolar için aracı yerel sunucunuzda kendi token'ınızla çalıştırmalısınız.</li><li><strong>LLM Token Maliyeti:</strong> Kendi sunucunuzda çalıştırırken büyük repolarda harcanan LLM API token miktarını optimize etmek için dosya filtreleme kurallarını yapılandırmalısınız.</li></ul></section>
+<section class="disc-sec"><h2>Sıkça sorulan sorular</h2><div class="disc-faq"><div class="disc-faq-item"><p class="disc-faq-q">Gitdiagram'ı kullanmak ücretli mi?</p><p class="disc-faq-a">Hayır, Gitdiagram açık kaynaklıdır (MIT lisansı). Web sürümü herkese açık repolar için ücretsizdir, yerel sürümü de kendi donanımınızda bedelsiz çalıştırabilirsiniz.</p></div><div class="disc-faq-item"><p class="disc-faq-q">Özel (private) GitHub depolarımda kullanabilir miyim?</p><p class="disc-faq-a">Evet. Bunun için projeyi GitHub'dan klonlayıp kendi makinenizde çalıştırmalı ve özel deponuza erişim yetkisi olan bir GitHub Personal Access Token (PAT) tanımlamalısınız.</p></div><div class="disc-faq-item"><p class="disc-faq-q">Büyük projelerde şema karmaşıklaşır mı?</p><p class="disc-faq-a">Gitdiagram derinlik filtreleri sunar. Çok katmanlı projelerde ana dizin seviyesinde özet şema alabilir veya ilgilendiğiniz alt modülü seçip detayına inebilirsiniz.</p></div><div class="disc-faq-item"><p class="disc-faq-q">Oluşturulan şemayı sunumuma ekleyebilir miyim?</p><p class="disc-faq-a">Evet, arayüz üzerinden tek tıkla şemanın yüksek çözünürlüklü PNG veya SVG çıktısını alabilir, doğrudan tasarım ve dokümantasyon araçlarınıza yapıştırabilirsiniz.</p></div></div></section>
+<section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links"><li><a href="https://github.com/ahmedkhaleel2004/gitdiagram" target="_blank" rel="noopener">GitHub deposu (ahmedkhaleel2004/gitdiagram) →</a></li><li><a href="https://gitdiagram.com" target="_blank" rel="noopener">Gitdiagram Canlı Web Uygulaması →</a></li></ul></section>
+<p class="disc-disclaimer">TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun güncel teknik mimarisini ve açık kaynak topluluğundaki kullanım pratiklerini özetler. Detaylar için resmi depoya bakın.</p>
+<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related"><a href="/dictionary/software-architecture/">Software Architecture</a><a href="/dictionary/ai-agent/">AI Agent</a><a href="/dictionary/runtime/">Runtime</a><a href="/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
+<aside class="disc-cta"><p><strong>Teknoloji radarından geri kalmayın.</strong> Tıpkı Gitdiagram gibi her gün GitHub, Hacker News ve HuggingFace trendlerini filtreleyip özetliyoruz. Geliştirici bültenimize katılın, yenilikleri ilk siz yakalayın.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover" data-page-type="discover" data-content-slug="gitdiagram" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Ücretsiz abone ol</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/discover/">Tüm keşifler →</a></aside>
 </article>
 </main>
 <footer>
