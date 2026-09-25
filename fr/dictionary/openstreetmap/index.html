@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Qu'est-ce que OpenStreetMap ? · Glossaire · TreScout</title>
-<meta name="description" content="Il s&#39;agit d&#39;un projet de carte gratuit et open source auquel n&#39;importe qui dans le monde peut contribuer.">
+<meta name="description" content="OpenStreetMap (OSM) est une base de données géographiques mondiale, libre et collaborative, créée et constamment enrichie par des millions de contributeurs bénévoles à travers la planète.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/fr/dictionary/openstreetmap/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/openstreetmap/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/openstreetmap/">
 <link rel="alternate" type="text/markdown" href="/fr/dictionary/openstreetmap.md">
 <meta property="og:title" content="Qu'est-ce que OpenStreetMap ?">
-<meta property="og:description" content="Il s&#39;agit d&#39;un projet de carte gratuit et open source auquel n&#39;importe qui dans le monde peut contribuer.">
+<meta property="og:description" content="OpenStreetMap (OSM) est une base de données géographiques mondiale, libre et collaborative, créée et constamment enrichie par des millions de contributeurs bénévoles à travers la planète.">
 <meta property="og:url" content="https://trescout.com/fr/dictionary/openstreetmap/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="fr_FR">
@@ -27,21 +27,61 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Qu&#39;est-ce que OpenStreetMap ?">
-<meta name="twitter:description" content="Il s&#39;agit d&#39;un projet de carte gratuit et open source auquel n&#39;importe qui dans le monde peut contribuer.">
+<meta name="twitter:description" content="OpenStreetMap (OSM) est une base de données géographiques mondiale, libre et collaborative, créée et constamment enrichie par des millions de contributeurs bénévoles à travers la planète.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "OpenStreetMap",
-  "description": "Il s'agit d'un projet de carte gratuit et open source auquel n'importe qui dans le monde peut contribuer.",
+  "description": "OpenStreetMap (OSM) est une base de données géographiques mondiale, libre et collaborative, créée et constamment enrichie par des millions de contributeurs bénévoles à travers la planète.",
   "inLanguage": "fr",
   "url": "https://trescout.com/fr/dictionary/openstreetmap/",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
-    "name": "TreScout Tech Dictionary",
+    "name": "Dictionnaire technique TreScout",
     "url": "https://trescout.com/fr/dictionary/"
   }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "L'utilisation d'OpenStreetMap est-elle vraiment gratuite ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui, les données sont fournies sous licence ODbL, autorisant l'usage personnel et commercial sous réserve de citer la source."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Comment la qualité des données est-elle vérifiée sans géomètres officiels ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Grâce aux outils de relecture communautaire, aux détecteurs automatiques d'incohérences et à la veille des contributeurs locaux."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Une entreprise peut-elle héberger son propre serveur cartographique OSM ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tout à fait ; la chaîne logicielle libre (PostGIS, Mapnik) permet de déployer son propre serveur de tuiles sans dépendre d'un tiers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelle est la différence fondamentale avec Google Maps ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Google Maps est un service propriétaire dont les données restent fermées ; OSM distribue la donnée brute, manipulable et téléchargeable à volonté."
+      }
+    }
+  ]
 }
 </script>
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -55,17 +95,19 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/fr/dictionary/">← Glossaire</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossaire · Data</span><time class="dict-time" datetime="2026-07-08">Dernière mise à jour : 8 juillet 2026</time></div>
-<h1 class="disc-title">Qu'est-ce que <span class="disc-accent">OpenStreetMap</span> ?</h1>
-<p class="disc-lead">Il s&#39;agit d&#39;un projet de carte gratuit et open source auquel n&#39;importe qui dans le monde peut contribuer.</p>
-<section class="disc-sec"><h2>Définition</h2><p>Contrairement aux cartes commerciales comme Google Maps, OpenStreetMap (OSM) est entièrement créée par des bénévoles. N&#39;importe qui peut ajouter de nouvelles routes, bâtiments ou points de repère à la carte. Ces données sont accessibles au public.</p></section>
-<div class="dict-analogy"><strong>Analogie :</strong> C&#39;est comme Wikipédia des cartes ; Tout le monde peut ajouter quelque chose, corriger des bugs et il reste constamment mis à jour grâce à la communauté.</div>
-<section class="disc-sec"><h2>Comment ça marche</h2><p>Vous pouvez télécharger des données cartographiques sur Internet et les utiliser gratuitement dans vos propres applications ou analyses.</p></section>
-<section class="disc-sec"><h2>Où est-ce utilisé</h2><p>Il est utilisé dans les applications logistiques, les outils de navigation et les projets d’urbanisme.</p></section>
-<section class="disc-sec"><h2>Questions fréquentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Pourquoi devrais-je utiliser OSM ?</p><p class="dict-faq-a">Idéal lorsque vous souhaitez un contrôle total sur les données et que vous souhaitez éviter les frais des services de cartographie commerciaux.</p></div></div></section>
-<section class="disc-sec"><h2>Termes liés</h2><div class="dict-related"><a href="/fr/dictionary/data-pipeline/">Data Pipeline</a><a href="/fr/dictionary/osint/">OSINT</a><a href="/fr/dictionary/graph-based-investigation/">Graph-based Investigation</a></div></section>
+<div class="disc-top"><span class="disc-eyebrow">Glossaire · Data</span><time class="dict-time" datetime="2026-09-22">Dernière mise à jour : 22 septembre 2026</time></div>
+<h1 class="disc-title">Qu'est-ce qu'OpenStreetMap (OSM) ?</h1>
+<p class="dict-en">Anglais : OpenStreetMap · Étymologie : anglais open (ouvert) + street (rue) + map (carte)</p>
+<p class="disc-lead">OpenStreetMap (OSM) est une base de données géographiques mondiale, libre et collaborative, créée et constamment enrichie par des millions de contributeurs bénévoles à travers la planète.</p>
+<section class="disc-sec"><h2>Définition et étymologie</h2><p>Lancé en 2004 par Steve Coast en réaction aux restrictions imposées par les cartographes propriétaires, OpenStreetMap est souvent désigné comme le Wikipédia de la cartographie. Contrairement aux services commerciaux qui facturent chaque affichage de tuile géographique, OSM met à disposition ses données vectorielles brutes sous licence libre ODbL.</p></section>
+<section class="disc-sec"><h2>Usage quotidien et contexte pratique</h2><p>Applications directes d'OpenStreetMap dans le numérique :</p><ul><li><strong>Navigation mobile hors ligne :</strong> Des applications comme OsmAnd, Organic Maps ou MAPS.ME fonctionnent sans connexion grâce aux données OSM.</li><li><strong>Services technologiques :</strong> Des entreprises comme Strava, Mapbox et Apple exploitent les calques OSM pour enrichir leurs produits.</li><li><strong>Aide humanitaire d'urgence :</strong> L'équipe HOT (Humanitarian OpenStreetMap Team) cartographie les zones de crise pour guider les secours sur le terrain.</li></ul></section>
+<section class="disc-sec"><h2>Profondeur technique et architecture</h2><p>Le modèle de données d'OSM repose sur trois primitives géométriques :</p><ul><li><strong>Nœud (Node) :</strong> Point géographique précis repéré par ses coordonnées de latitude et longitude.</li><li><strong>Ligne (Way) :</strong> Suite ordonnée de nœuds formant un tracé linéaire (rue, sentier) ou un polygone fermé (contour d'immeuble, forêt).</li><li><strong>Relation :</strong> Structure logique regroupant plusieurs nœuds et lignes pour modéliser des lignes de bus ou des frontières complexes.</li><li><strong>Étiquettes Clé/Valeur (Tags) :</strong> Attributs sémantiques universels (ex. highway=residential, amenity=pharmacy).</li></ul></section>
+<section class="disc-sec"><h2>Perspectives interdisciplinaires</h2><p>Analogies avec d'autres initiatives de biens communs :</p><ul><li><strong>Encyclopédies :</strong> Le modèle d'écriture et de relecture collective de Wikipédia.</li><li><strong>Logiciel libre :</strong> L'effort collectif mondial autour du noyau Linux mêlant passionnés et grandes entreprises.</li><li><strong>Sciences participatives :</strong> Les réseaux d'observation citoyenne de la faune ou des relevés météorologiques locaux.</li></ul></section>
+<div class="dict-analogy">C'est comme le Wikipédia des cartes géographiques : chacun peut ajouter le nouveau sentier de son quartier, corriger le nom d'une rue et contribuer à un atlas universel appartenant à tous.</div>
+<section class="disc-sec"><h2>Questions fréquentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">L'utilisation d'OpenStreetMap est-elle vraiment gratuite ?</p><p class="dict-faq-a">Oui, les données sont fournies sous licence ODbL, autorisant l'usage personnel et commercial sous réserve de citer la source.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Comment la qualité des données est-elle vérifiée sans géomètres officiels ?</p><p class="dict-faq-a">Grâce aux outils de relecture communautaire, aux détecteurs automatiques d'incohérences et à la veille des contributeurs locaux.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Une entreprise peut-elle héberger son propre serveur cartographique OSM ?</p><p class="dict-faq-a">Tout à fait ; la chaîne logicielle libre (PostGIS, Mapnik) permet de déployer son propre serveur de tuiles sans dépendre d'un tiers.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Quelle est la différence fondamentale avec Google Maps ?</p><p class="dict-faq-a">Google Maps est un service propriétaire dont les données restent fermées ; OSM distribue la donnée brute, manipulable et téléchargeable à volonté.</p></div></div></section>
+<section class="disc-sec"><h2>Termes liés</h2><div class="dict-related"><a href="/fr/dictionary/data-pipeline/">Data Pipeline</a><a href="/fr/dictionary/open-source/">Open Source</a><a href="/fr/dictionary/api/">API</a></div></section>
 <aside class="disc-cta"><p><strong>Explorez les outils associés et les rapports quotidiens.</strong> Suivez les nouveaux termes et outils technologiques chaque matin dans votre boîte de réception.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-fr" data-page-type="dictionary" data-content-slug="openstreetmap" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Votre adresse e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Accès anticipé</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>J'ai lu <a href="/fr/privacy.html" target="_blank" rel="noopener">la notice de confidentialité</a> et je consens au traitement de mon adresse e-mail à cette fin.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/fr/dictionary/">Tous les termes →</a></aside>
-<p class="disc-disclaimer">Cette explication a été rédigée en langage clair pour TreScout puis <strong>traduite automatiquement</strong> depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/openstreetmap/">Lire en turc →</a></p>
+<p class="disc-disclaimer">Cette explication a été rédigée en langage clair pour TreScout puis <strong>traduite automatiquement</strong> depuis l'original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/openstreetmap/">Lire en turc →</a></p>
 </article>
 </main>
 <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">TreScout analyse, résume et livre. Vous n'avez qu'à lire.</p></div><div class="footer-col"><div class="footer-col-title">Produit</div><ul><li><a href="/fr/discover/">Découvrir</a></li><li><a href="/fr/dictionary/">Glossaire</a></li><li><a href="/fr/reports/">Archive des rapports</a></li><li><a href="/fr/compare/rss-vs-ai/">Comparer</a></li><li><a href="/fr/#top">Accès anticipé</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Contact</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/fr/privacy.html" target="_blank" rel="noopener">Notice de confidentialité</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Réseaux</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Tous droits réservés.</span></div></div></footer>

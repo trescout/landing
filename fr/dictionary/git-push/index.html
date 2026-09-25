@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Qu'est-ce que Git Push ? · Glossaire · TreScout</title>
-<meta name="description" content="Il s&#39;agit du processus de téléchargement des modifications logicielles que vous apportez sur votre ordinateur local vers un serveur partagé sur Internet.">
+<meta name="description" content="Git Push est la commande fondamentale de contrôle de version qui expédie les commits locaux, l&#x27;historique et les objets vers un serveur Git distant, synchronisant la branche distante avec le travail accompli en local.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/fr/dictionary/git-push/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/git-push/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/git-push/">
 <link rel="alternate" type="text/markdown" href="/fr/dictionary/git-push.md">
 <meta property="og:title" content="Qu'est-ce que Git Push ?">
-<meta property="og:description" content="Il s&#39;agit du processus de téléchargement des modifications logicielles que vous apportez sur votre ordinateur local vers un serveur partagé sur Internet.">
+<meta property="og:description" content="Git Push est la commande fondamentale de contrôle de version qui expédie les commits locaux, l&#x27;historique et les objets vers un serveur Git distant, synchronisant la branche distante avec le travail accompli en local.">
 <meta property="og:url" content="https://trescout.com/fr/dictionary/git-push/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="fr_FR">
@@ -27,21 +27,61 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Qu&#39;est-ce que Git Push ?">
-<meta name="twitter:description" content="Il s&#39;agit du processus de téléchargement des modifications logicielles que vous apportez sur votre ordinateur local vers un serveur partagé sur Internet.">
+<meta name="twitter:description" content="Git Push est la commande fondamentale de contrôle de version qui expédie les commits locaux, l&#x27;historique et les objets vers un serveur Git distant, synchronisant la branche distante avec le travail accompli en local.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Git Push",
-  "description": "Il s'agit du processus de téléchargement des modifications logicielles que vous apportez sur votre ordinateur local vers un serveur partagé sur Internet.",
+  "description": "Git Push est la commande fondamentale de contrôle de version qui expédie les commits locaux, l'historique et les objets vers un serveur Git distant, synchronisant la branche distante avec le travail accompli en local.",
   "inLanguage": "fr",
   "url": "https://trescout.com/fr/dictionary/git-push/",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
-    "name": "TreScout Tech Dictionary",
+    "name": "Dictionnaire technique TreScout",
     "url": "https://trescout.com/fr/dictionary/"
   }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Quelle est la différence entre 'git commit' et 'git push' ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Git commit enregistre un instantané sur votre machine ; git push transmet cet historique sur le serveur distant partagé."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Pourquoi privilégier '--force-with-lease' à '--force' ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Parce que --force écrase brutalement le serveur même si un collègue a poussé du code ; --force-with-lease s'arrête si la branche a été modifiée par un tiers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "À quoi servent les hooks pre-push ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "À exécuter des tests unitaires en local avant l'envoi pour bloquer le push si des anomalies sont détectées."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Peut-on pousser vers plusieurs dépôts distants en même temps ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui, en configurant plusieurs URLs sous le même alias de dépôt dans le fichier .git/config."
+      }
+    }
+  ]
 }
 </script>
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -55,19 +95,19 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/fr/dictionary/">← Glossaire</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossaire · Dev</span><time class="dict-time" datetime="2026-06-27">Dernière mise à jour : 27 juin 2026</time></div>
-<h1 class="disc-title">Qu'est-ce que <span class="disc-accent">Git Push</span> ?</h1>
-<p class="disc-lead">Il s&#39;agit du processus de téléchargement des modifications logicielles que vous apportez sur votre ordinateur local vers un serveur partagé sur Internet.</p>
-<section class="disc-sec"><h2>Définition</h2><p>Lorsque vous développez un logiciel, vous écrivez et modifiez vos codes sur votre propre ordinateur. La commande « push » est utilisée pour partager ces modifications avec le reste de l&#39;équipe. De cette façon, toutes les mises à jour que vous effectuez sont envoyées vers un référentiel central.</p></section>
-<div class="dict-analogy"><strong>Analogie :</strong> C&#39;est comme télécharger un rapport que vous avez rédigé sur votre ordinateur vers un dossier public sur le cloud en appuyant sur le bouton « Enregistrer et envoyer ».</div>
-<section class="disc-sec"><h2>Comment ça marche</h2><p>Cela se fait en tapant la commande &#39;git push&#39; via un terminal ou un éditeur de code.</p></section>
-<section class="disc-sec"><h2>Où est-ce utilisé</h2><p>Il est utilisé dans les processus de développement de logiciels, notamment sur des plateformes telles que GitHub ou GitLab.</p></section>
-<section class="disc-sec"><h2>Souvent confondu avec</h2><p>Il est confondu avec git pull ; Pendant que pull récupère le code sur Internet, push l’envoie sur Internet.</p></section>
-<section class="disc-sec"><h2>Questions fréquentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Que se passe-t-il si je ne pousse pas ?</p><p class="dict-faq-a">Les modifications que vous apportez restent uniquement sur votre ordinateur et votre équipe ne peut pas les voir.</p></div></div></section>
-<section class="disc-sec"><h2>Termes liés</h2><div class="dict-related"><a href="/fr/dictionary/cli/">CLI</a><a href="/fr/dictionary/tech-stack/">Tech Stack</a><a href="/fr/dictionary/deployment/">Deployment</a></div></section>
+<div class="disc-top"><span class="disc-eyebrow">Glossaire · Dev</span><time class="dict-time" datetime="2026-09-19">Dernière mise à jour : 19 septembre 2026</time></div>
+<h1 class="disc-title">Qu'est-ce que Git Push ?</h1>
+<p class="dict-en">Anglais : Git Push · Étymologie : argot britannique git + latin pulsare (pousser, heurter)</p>
+<p class="disc-lead">Git Push est la commande fondamentale de contrôle de version qui expédie les commits locaux, l'historique et les objets vers un serveur Git distant, synchronisant la branche distante avec le travail accompli en local.</p>
+<div class="dict-analogy">C'est comme rédiger des chapitres d'un livre sur son traitement de texte privé, puis expédier le manuscrit à la maison d'édition centrale pour que tous les coauteurs reçoivent la version mise à jour.</div>
+<section class="disc-sec"><h2>1. Définition et modèle de données en 4 couches de Git</h2><p>Git est un système de gestion de versions distribué (DVCS) structuré en quatre zones d'état : le répertoire de travail, la zone d'index (staging), le dépôt local (.git) et le dépôt distant (GitHub, GitLab). Alors que <code>git commit</code> archive vos modifications sur votre propre disque dur, <code>git push</code> est l'action réseau qui transfère ces objets vers le serveur distant partagé par l'équipe.</p></section>
+<section class="disc-sec"><h2>2. Les commandes courantes (Aide-mémoire)</h2><p>Syntaxes indispensables au quotidien :</p><ul><li><strong>Premier envoi de branche :</strong> <code>git push -u origin feature-branche</code> (lie la branche locale à la branche distante).</li><li><strong>Envoi standard :</strong> <code>git push</code> (met à jour la branche de suivi configurée).</li><li><strong>Envoi de tags :</strong> <code>git push origin --tags</code> (publie les étiquettes de versions logicielles).</li><li><strong>Suppression distante :</strong> <code>git push origin --delete ancienne-branche</code>.</li><li><strong>Écrasement sécurisé :</strong> <code>git push --force-with-lease</code> (force la mise à jour seulement si aucun collègue n'a poussé de commit entre-temps).</li></ul></section>
+<section class="disc-sec"><h2>3. Erreurs fréquentes et résolutions</h2><p>Résoudre les rejets d'envoi classiques :</p><ul><li><strong>fatal: [rejected - non-fast-forward] :</strong> La branche distante contient des commits absents de votre poste. Solution : exécuter <code>git pull --rebase origin main</code> puis relancer le push.</li><li><strong>fatal: The current branch has no upstream branch :</strong> Utiliser le paramètre <code>-u</code> pour rattacher la branche locale à l'origin.</li><li><strong>Rejet de fichiers volumineux :</strong> Git refuse les fichiers de plus de 100 Mo ; recourir à Git LFS pour les données binaires massives.</li></ul></section>
+<section class="disc-sec"><h2>Questions fréquentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Quelle est la différence entre 'git commit' et 'git push' ?</p><p class="dict-faq-a">Git commit enregistre un instantané sur votre machine ; git push transmet cet historique sur le serveur distant partagé.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Pourquoi privilégier '--force-with-lease' à '--force' ?</p><p class="dict-faq-a">Parce que --force écrase brutalement le serveur même si un collègue a poussé du code ; --force-with-lease s'arrête si la branche a été modifiée par un tiers.</p></div><div class="dict-faq-item"><p class="dict-faq-q">À quoi servent les hooks pre-push ?</p><p class="dict-faq-a">À exécuter des tests unitaires en local avant l'envoi pour bloquer le push si des anomalies sont détectées.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Peut-on pousser vers plusieurs dépôts distants en même temps ?</p><p class="dict-faq-a">Oui, en configurant plusieurs URLs sous le même alias de dépôt dans le fichier .git/config.</p></div></div></section>
+<section class="disc-sec"><h2>Termes liés</h2><div class="dict-related"><a href="/fr/dictionary/cli/">CLI</a><a href="/fr/dictionary/code-snippets/">Code Snippets</a><a href="/fr/dictionary/checkout/">Checkout</a></div></section>
 <section class="disc-sec"><h2>Outils liés</h2><div class="dict-related"><a href="/fr/discover/no-mistakes/">No Mistakes</a></div></section>
 <aside class="disc-cta"><p><strong>Explorez les outils associés et les rapports quotidiens.</strong> Suivez les nouveaux termes et outils technologiques chaque matin dans votre boîte de réception.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-fr" data-page-type="dictionary" data-content-slug="git-push" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Votre adresse e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Accès anticipé</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>J'ai lu <a href="/fr/privacy.html" target="_blank" rel="noopener">la notice de confidentialité</a> et je consens au traitement de mon adresse e-mail à cette fin.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/fr/dictionary/">Tous les termes →</a></aside>
-<p class="disc-disclaimer">Cette explication a été rédigée en langage clair pour TreScout puis <strong>traduite automatiquement</strong> depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/git-push/">Lire en turc →</a></p>
+<p class="disc-disclaimer">Cette explication a été rédigée en langage clair pour TreScout puis <strong>traduite automatiquement</strong> depuis l'original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/git-push/">Lire en turc →</a></p>
 </article>
 </main>
 <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">TreScout analyse, résume et livre. Vous n'avez qu'à lire.</p></div><div class="footer-col"><div class="footer-col-title">Produit</div><ul><li><a href="/fr/discover/">Découvrir</a></li><li><a href="/fr/dictionary/">Glossaire</a></li><li><a href="/fr/reports/">Archive des rapports</a></li><li><a href="/fr/compare/rss-vs-ai/">Comparer</a></li><li><a href="/fr/#top">Accès anticipé</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Contact</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/fr/privacy.html" target="_blank" rel="noopener">Notice de confidentialité</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Réseaux</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Tous droits réservés.</span></div></div></footer>

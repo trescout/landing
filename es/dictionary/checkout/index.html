@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>¿Qué es Checkout? · Glosario · TreScout</title>
-<meta name="description" content="Es la etapa final donde se realizan las transacciones de pago y aprobación al final de un proceso de compra.">
+<meta name="description" content="Checkout es un término técnico con dos acepciones principales: el paso final de revisión y pago en una tienda online, o el comando de Git que conmuta de rama y restaura ficheros en el espacio de trabajo.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/es/dictionary/checkout/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/checkout/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/checkout/">
 <link rel="alternate" type="text/markdown" href="/es/dictionary/checkout.md">
 <meta property="og:title" content="¿Qué es Checkout?">
-<meta property="og:description" content="Es la etapa final donde se realizan las transacciones de pago y aprobación al final de un proceso de compra.">
+<meta property="og:description" content="Checkout es un término técnico con dos acepciones principales: el paso final de revisión y pago en una tienda online, o el comando de Git que conmuta de rama y restaura ficheros en el espacio de trabajo.">
 <meta property="og:url" content="https://trescout.com/es/dictionary/checkout/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="es_ES">
@@ -27,21 +27,61 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="¿Qué es Checkout?">
-<meta name="twitter:description" content="Es la etapa final donde se realizan las transacciones de pago y aprobación al final de un proceso de compra.">
+<meta name="twitter:description" content="Checkout es un término técnico con dos acepciones principales: el paso final de revisión y pago en una tienda online, o el comando de Git que conmuta de rama y restaura ficheros en el espacio de trabajo.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Checkout",
-  "description": "Es la etapa final donde se realizan las transacciones de pago y aprobación al final de un proceso de compra.",
+  "description": "Checkout es un término técnico con dos acepciones principales: el paso final de revisión y pago en una tienda online, o el comando de Git que conmuta de rama y restaura ficheros en el espacio de trabajo.",
   "inLanguage": "es",
   "url": "https://trescout.com/es/dictionary/checkout/",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
-    "name": "TreScout Tech Dictionary",
+    "name": "Diccionario Tecnológico TreScout",
     "url": "https://trescout.com/es/dictionary/"
   }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "¿Por qué Git reemplazó checkout por 'switch' y 'restore'?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Porque el checkout clásico asumía demasiadas funciones distintas a la vez, provocando errores accidentales al mezclar ramas y ficheros locales."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Cómo se reduce el abandono del carrito en el checkout?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Facilitando pasarelas de pago instantáneo (Apple Pay, Google Pay) y permitiendo la compra como invitado sin registro previo."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Qué implica encontrarse en estado 'detached HEAD'?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Significa que estás examinando un commit concreto sin estar posicionado en ninguna rama viva; cualquier commit adicional no quedará enlazado."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Para qué sirve la clave de idempotencia en pasarelas de pago?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Asegura que si la petición de cobro se reintenta por un fallo de conexión, el cargo en la tarjeta bancaria no se duplique."
+      }
+    }
+  ]
 }
 </script>
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -55,16 +95,16 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/es/dictionary/">← Glosario</a>
-<div class="disc-top"><span class="disc-eyebrow">Glosario · Dev</span><time class="dict-time" datetime="2026-07-04">Última actualización: 4 de julio de 2026</time></div>
-<h1 class="disc-title">¿Qué es <span class="disc-accent">Checkout</span>?</h1>
-<p class="disc-lead">Es la etapa final donde se realizan las transacciones de pago y aprobación al final de un proceso de compra.</p>
-<section class="disc-sec"><h2>Definición</h2><p>El checkout es el lugar donde el proceso de compra de los productos que agregas a tu carrito se oficializa en el mundo digital. En esta etapa se verifica la información del usuario, se recibe el pago y se registra el pedido en el sistema. Este es el punto donde un flujo de datos técnicamente seguro es más crítico.</p></section>
-<div class="dict-analogy"><strong>Analogía:</strong> Es el punto final en un supermercado donde después de llenar tu carrito con tus productos, vas a la caja, pagas y recibes tu recibo.</div>
-<section class="disc-sec"><h2>Cómo funciona</h2><p>El usuario presiona el botón &#39;comprar&#39;, el sistema transmite la información de pago encriptada a la red bancaria, recibe la confirmación y se devuelve un número de pedido al usuario.</p></section>
-<section class="disc-sec"><h2>Dónde se usa</h2><p>Se encuentra en sitios de comercio electrónico, pantallas de compra dentro de aplicaciones y paneles de suscripción.</p></section>
-<section class="disc-sec"><h2>Suele confundirse con</h2><p>No confundir con agregar al carrito; El carrito es una preparación, el pago es un resultado.</p></section>
-<section class="disc-sec"><h2>Preguntas frecuentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">¿Por qué es tan importante el pago?</p><p class="dict-faq-a">Porque aquí se procesan tanto datos financieros como se vive el momento más sensible cuando el usuario completa la decisión de compra.</p></div></div></section>
-<section class="disc-sec"><h2>Términos relacionados</h2><div class="dict-related"><a href="/es/dictionary/api/">API</a><a href="/es/dictionary/saas/">SaaS</a><a href="/es/dictionary/crm/">CRM</a></div></section>
+<div class="disc-top"><span class="disc-eyebrow">Glosario · Dev</span><time class="dict-time" datetime="2026-09-19">Última actualización: 19 de septiembre de 2026</time></div>
+<h1 class="disc-title">¿Qué es el Checkout? E-Commerce y Git</h1>
+<p class="dict-en">Inglés: Checkout · Etimología: inglés check (verificar) + out (salida/conclusión)</p>
+<p class="disc-lead">Checkout es un término técnico con dos acepciones principales: el paso final de revisión y pago en una tienda online, o el comando de Git que conmuta de rama y restaura ficheros en el espacio de trabajo.</p>
+<div class="dict-analogy">En el supermercado, el checkout es la caja registradora donde pagas y recoges el ticket; en una biblioteca, es el trámite en el mostrador para tomar prestado un ejemplar concreto y poder leerlo.</div>
+<section class="disc-sec"><h2>1. Arquitectura de Checkout en Comercio Electrónico</h2><p>En las aplicaciones de comercio online y plataformas de suscripción, el checkout es el punto neurálgico de conversión comercial. Técnicamente coordina reservas de existencias, cálculo de impuestos geográficos y pasarelas de pago criptográficamente seguras mediante elementos tokenizados que impiden la exposición de datos de tarjetas en los servidores de la tienda.</p></section>
+<section class="disc-sec"><h2>2. Comando Checkout en Git (git checkout)</h2><p>En el desarrollo de software, <code>git checkout</code> es el comando clásico utilizado para actualizar el árbol de trabajo con el contenido de otra rama o commit, desplazando el puntero HEAD. En versiones recientes de Git (2.23+), esta funcionalidad se ha dividido en dos herramientas específicas: <code>git switch</code> para cambiar de rama y <code>git restore</code> para descartar cambios en ficheros.</p></section>
+<section class="disc-sec"><h2>Comparativa: Comercio Electrónico frente a Git</h2><p>Aspectos distintivos de cada ámbito :</p><ul><li><strong>Checkout en E-Commerce:</strong> Cadena transaccional con control de inventario, pasarelas bancarias y webhooks asíncronos.</li><li><strong>Checkout en Git:</strong> Operación en disco local que reconstruye archivos a partir de los árboles de objetos del repositorio.</li><li><strong>Riesgo Operativo:</strong> En comercio causa pérdidas económicas inmediatas; en Git puede derivar en un estado de HEAD separado (detached HEAD).</li></ul></section>
+<section class="disc-sec"><h2>Preguntas frecuentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">¿Por qué Git reemplazó checkout por 'switch' y 'restore'?</p><p class="dict-faq-a">Porque el checkout clásico asumía demasiadas funciones distintas a la vez, provocando errores accidentales al mezclar ramas y ficheros locales.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Cómo se reduce el abandono del carrito en el checkout?</p><p class="dict-faq-a">Facilitando pasarelas de pago instantáneo (Apple Pay, Google Pay) y permitiendo la compra como invitado sin registro previo.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Qué implica encontrarse en estado 'detached HEAD'?</p><p class="dict-faq-a">Significa que estás examinando un commit concreto sin estar posicionado en ninguna rama viva; cualquier commit adicional no quedará enlazado.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Para qué sirve la clave de idempotencia en pasarelas de pago?</p><p class="dict-faq-a">Asegura que si la petición de cobro se reintenta por un fallo de conexión, el cargo en la tarjeta bancaria no se duplique.</p></div></div></section>
+<section class="disc-sec"><h2>Términos relacionados</h2><div class="dict-related"><a href="/es/dictionary/api/">API</a><a href="/es/dictionary/saas/">SaaS</a><a href="/es/dictionary/git-push/">Git Push</a></div></section>
 <section class="disc-sec"><h2>Herramientas relacionadas</h2><div class="dict-related"><a href="/es/discover/checkout/">Checkout</a></div></section>
 <aside class="disc-cta"><p><strong>Descubra herramientas relacionadas e informes diarios.</strong> Cada día surgen nuevos términos y herramientas · únase al acceso anticipado de TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-es" data-page-type="dictionary" data-content-slug="checkout" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Su correo electrónico" autocomplete="email" required><button class="btn btn-primary" type="submit">Acceso anticipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>He leído el <a href="/es/privacy.html" target="_blank" rel="noopener">aviso de privacidad</a> y acepto que mi correo se trate con esta finalidad.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/es/dictionary/">Todos los términos →</a></aside>
 <p class="disc-disclaimer">Esta explicación se redactó en lenguaje sencillo para TreScout y se <strong>tradujo automáticamente</strong> del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/checkout/">Leer en turco →</a></p>

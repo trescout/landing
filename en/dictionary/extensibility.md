@@ -1,27 +1,48 @@
 # What is Extensibility?
 
-The suitability of a system to be developed by adding new features without disrupting its basic structure.
+> English: Extensibility · Etymology: Latin extendere (to stretch out, expand)
 
-## Overview
-Extensibility means that a software is flexible. You can add new capabilities through plug-ins or modules without touching the main code of the software. This ensures the longevity of the system.
+**Category:** Dev  
+**Last updated:** 2026-09-22
 
-*Analogy: It's like a Swiss army knife; It has a structure on which you can add a new screwdriver or flashlight tip.*
+Extensibility is a software engineering design principle where a system is architected so that new capabilities, plugins, and modules can be added seamlessly without modifying existing core code.
 
-## How it works
-The system is designed with an 'interface' that will accept external modules.
+## Definition and Etymology
+The word extensibility derives from the Latin extendere, meaning to stretch out. In software architecture, an extensible system adheres to the Open-Closed Principle (the O in SOLID): open for extension, closed for modification. Rather than hardcoding every possible future feature into the central engine, developers design hooks, event listeners, and standardized interfaces that third-party extensions can latch onto.
 
-## Where it is used
-It is used in browser add-ons, content management systems (like WordPress), and large enterprise software.
+## Everyday Context and Practical Usage
+Extensibility is present in everyday developer and consumer tools:
+- **Code Editors:** VS Code remains lightweight while supporting thousands of themes, debuggers, and language servers via its extension marketplace.- **Web Browsers:** Chrome and Firefox allow users to install ad blockers, password managers, and developer tool extensions.- **Content Management Systems:** WordPress and Drupal run on extensible plugin and theme hooks, powering diverse websites from blogs to ecommerce.
 
-## Frequently asked questions
-**Is every software extensible?**
-No, if the software is not designed with this flexibility from the beginning, adding it later can be very difficult.
+## Technical Depth and Architecture
+Core architectural mechanisms for achieving extensibility:
+- **Plugin Architecture & Hook Systems:** Exposing lifecycle hooks (e.g. beforeSave, afterAuth) where external code injects custom behavior.- **Dependency Inversion & Interfaces:** Decoupling caller from implementation through abstract interface contracts.- **Event-Driven Pub/Sub:** Systems broadcast state changes, enabling listeners to react without tight coupling.- **WebAssembly (WASM) Sandboxing:** Running untrusted third-party extensions safely within isolated memory sandboxes.
 
+## Cross-Disciplinary Perspectives
+Parallels in non-software domains:
+- **Architecture & Construction:** Designing modular building foundations that allow adding extra stories or annexes without demolishing load-bearing walls.- **Tool Design:** Modular power tool handles compatible with interchangeable drill, saw, and sander heads.- **Game Design:** Tabletop board games designed with expansion pack slots and customizable rule modules.
+
+## Analogy
+It is like a Swiss Army knife whose core chassis remains compact, but which provides modular slots allowing you to attach a new screwdriver, scissors, or flashlight tip whenever needed.
+
+## Frequently Asked Questions
+
+**Is every software application extensible?**  
+No; building extensibility requires intentional abstraction upfront. Unplanned modularity often adds unnecessary complexity (over-engineering).
+
+**What is the difference between extensibility and maintainability?**  
+Maintainability is how easily you can fix bugs and refactor existing code; extensibility is how easily you can add completely new capabilities without altering existing code.
+
+**How do developers prevent rogue extensions from crashing the host?**  
+By executing extensions within isolated worker threads, WASM sandboxes, or process boundaries with restricted system permissions.
+
+**What role do public APIs play in extensibility?**  
+APIs and SDKs define the stable contractual boundary through which external developers interact with host system internals safely.
 
 ## Related terms
-- [Plugins](/en/dictionary/plugin/)
-- [Framework](/en/dictionary/framework/)
-- [API](/en/dictionary/api/)
+- [Plugin](/en/dictionary/plugin/)
+- [Emitter](/en/dictionary/emitter/)
+- [Tools](/en/dictionary/tools/)
 
 ---
-Source: TreScout Dictionary · https://trescout.com/en/dictionary/extensibility/
+Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/extensibility/

@@ -1,25 +1,48 @@
-# ¿Qué es OpenStreetMap?
+# ¿Qué es OpenStreetMap (OSM)?
 
-Es un proyecto de mapas gratuito y de código abierto al que cualquier persona en el mundo puede contribuir.
+> Inglés: OpenStreetMap · Etimología: inglés open (abierto) + street (calle) + map (mapa)
 
-## Definición
-A diferencia de los mapas comerciales como Google Maps, OpenStreetMap (OSM) es creado íntegramente por voluntarios. Cualquiera puede agregar nuevas carreteras, edificios o puntos de referencia al mapa. Estos datos están disponibles públicamente.
+**Categoría:** Data  
+**Última actualización:** 2026-09-22
 
-## Cómo funciona
-Puede descargar datos de mapas de Internet y utilizarlos en sus propias aplicaciones o análisis de forma gratuita.
+OpenStreetMap (OSM) es una base de datos geográfica libre, abierta y colaborativa del mundo entero, creada y actualizada de forma continua por una comunidad de millones de voluntarios.
 
-## Dónde se usa
-Se utiliza en aplicaciones de logística, herramientas de navegación y proyectos de planificación urbana.
+## Definición y etimología
+Fundado en 2004 por Steve Coast ante las limitaciones y elevados precios de los mapas comerciales, OpenStreetMap es conocido como la Wikipedia cartográfica. A diferencia de las plataformas propietarias, OSM pone a disposición pública toda la información vectorial bajo licencia abierta Open Database License (ODbL).
+
+## Contexto cotidiano e uso práctico
+Presencia habitual de OSM en la tecnología actual :
+- **Navegadores Offline:** Aplicaciones como OsmAnd, Organic Maps o MAPS.ME que permiten viajar sin consumir datos móviles.- **Servicios Deportivos y Tecnológicos:** Mapbox, Strava y plataformas de movilidad integran información detallada de senderos y caminos de OSM.- **Acción Humanitaria:** Equipos de emergencia que trazan carreteras y refugios tras catástrofes naturales para coordinar ambulancias.
+
+## Profundidad técnica y arquitectura
+Estructura elemental de los datos espaciales en OSM :
+- **Nodo (Node):** Coordenada geográfica concreta definida por latitud y longitud.- **Vía (Way):** Conjunto ordenado de nodos que representa carreteras, vías de tren o el perímetro cerrado de un parque o inmueble.- **Relación (Relation):** Conjunto estructurado que vincula vías y nodos para rutas de transporte o restricciones de giro.- **Etiquetas Clave/Valor (Tags):** Propiedades descriptivas normalizadas internacionalmente (ejemplo: highway=secondary, surface=asphalt).
+
+## Perspectivas interdisciplinares
+Modelos similares en el conocimiento abierto :
+- **Enciclopedias Digitales:** El sistema colaborativo y abierto que define a Wikipedia.- **Comunidad Linux:** El esfuerzo coordinado de miles de programadores para mantener sistemas operativos libres.- **Ciencia Ciudadana:** Redes de sensores atmosféricos instalados por particulares en sus hogares.
+
+## Por analogía
+Es como la Wikipedia de los mapas del mundo: cualquier usuario puede añadir el sendero recién abierto en su pueblo o corregir un sentido de circulación, enriqueciendo un mapa global propiedad de toda la sociedad.
 
 ## Preguntas frecuentes
-**¿Por qué debería utilizar OSM?**
-Ideal cuando desea un control total sobre los datos y desea evitar las tarifas de los servicios cartográficos comerciales.
 
+**¿Se puede utilizar OpenStreetMap para proyectos comerciales?**  
+Sí; la licencia ODbL autoriza el uso comercial y profesional con el único requisito de atribuir los créditos a OpenStreetMap.
+
+**¿Cómo se controla que los datos sean fiables y exactos?**  
+A través de herramientas comunitarias que auditan los cambios y de mapeadores locales que conocen el terreno en detalle.
+
+**¿Puede una empresa disponer de su propia infraestructura de mapas OSM?**  
+Sí; con tecnologías abiertas como PostGIS es posible autoalojar servidores de teselas y prescindir de cuotas por llamada a mapas de pago.
+
+**¿Qué diferencia a OSM frente a las soluciones de mapas de grandes tecnológicas?**  
+Los gigantes ofrecen servicios cerrados con límites de consumo; OSM ofrece la base cartográfica original en bruto para descargar y transformar.
 
 ## Términos relacionados
 - [Data Pipeline](/es/dictionary/data-pipeline/)
-- [OSINT](/es/dictionary/osint/)
-- [Graph-based Investigation](/es/dictionary/graph-based-investigation/)
+- [Open Source](/es/dictionary/open-source/)
+- [API](/es/dictionary/api/)
 
 ---
-Fuente: TreScout Glosario · https://trescout.com/es/dictionary/openstreetmap/
+Fuente: Diccionario Tecnológico TreScout · https://trescout.com/es/dictionary/openstreetmap/

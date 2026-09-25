@@ -1,28 +1,48 @@
-# Qu'est-ce que Office Suite ?
+# Qu'est-ce qu'une Suite Bureautique (Office Suite) ?
 
-Il s'agit d'un progiciel conçu pour effectuer le travail de bureau quotidien dans un environnement numérique.
+> Anglais : Office Suite · Étymologie : latin officium (devoir, bureau) + français suite (ensemble ordonné)
 
-## Définition
-Il s'agit d'un groupe de programmes qui proposent des tâches de base telles que la rédaction de documents, la création de feuilles de calcul et la préparation de présentations sous un même toit. Ils fonctionnent en harmonie les uns avec les autres et permettent de transférer facilement les données de l'un à l'autre.
+**Catégorie:** Dev  
+**Dernière mise à jour:** 2026-09-22
 
-## Comment ça marche
-Il est généralement installé sur votre ordinateur avec un seul fichier d'installation. Basculer entre les fichiers est très simple car ils utilisent une interface et un format de fichier communs.
+Une suite bureautique (office suite) est un ensemble intégré d'applications de productivité regroupant traitement de texte, tableur, outil de présentation et fonctions collaboratives sous une interface harmonisée.
 
-## Où est-ce utilisé
-C'est la norme dans les domaines des affaires, de l'éducation et de l'informatique personnelle.
+## Définition et étymologie
+Le mot suite désigne un assortiment d'éléments conçus pour fonctionner de concert. En informatique de bureau, la suite bureautique réunit des outils autrefois séparés, leur permettant de partager des formats de fichiers communs (ODF, OOXML), des polices et des raccourcis cohérents.
+
+## Usage quotidien et contexte pratique
+Exemples incontournables dans le monde du travail :
+- **Suites Cloud collaboratives :** Google Workspace (Docs, Sheets, Slides) et Microsoft 365 avec édition collaborative en direct.- **Suites libres et indépendantes :** LibreOffice et OnlyOffice garantissant la souveraineté numérique et le travail hors ligne.- **Suites mobiles :** Applications légères sur smartphones et tablettes pour valider des rapports en mobilité.
+
+## Profondeur technique et architecture
+Fondations logicielles des suites bureautiques modernes :
+- **Formats de fichiers normalisés :** Archives compressées contenant du XML (ODF normalisé ISO 26300 et OOXML normalisé ISO 29500).- **Algorithmes de collaboration (OT et CRDT) :** Résolution automatique des conflits lors de la frappe simultanée de plusieurs rédacteurs.- **Moteurs de rendu typographique :** Calcul vectoriel au pixel près pour l'affichage de tableaux, schémas et graphiques.
+
+## Perspectives interdisciplinaires
+Analogies dans d'autres métiers :
+- **Trousse d'écolier :** L'étui réunissant compas, stylos, gomme et règle sous une même fermeture.- **Boîte à outils d'artisan :** La servante d'atelier regroupant clés, tournevis et pinces calibrés.- **Mallette médicale :** L'ensemble d'instruments d'examen standardisés d'un médecin de campagne.
+
+## Par analogie
+C'est comme une trousse d'écolier complète : au lieu de chercher un stylo d'un côté et une règle de l'autre, tout le matériel nécessaire pour rédiger et calculer est réuni dans la même pochette.
 
 ## Questions fréquentes
-**Existe-t-il des solutions basées sur le cloud ?**
-Oui, aujourd’hui la plupart des suites bureautiques peuvent fonctionner en ligne via un navigateur.
 
-**Sont-ils tous payés ?**
-Non, il existe de nombreuses options, gratuites et payantes.
+**Pourquoi les suites bureautiques ont-elles abandonné les formats binaires ?**  
+Les formats binaires (.doc, .xls) étaient fermés et fragiles ; les formats XML zippés (.docx, .odt) assurent pérennité et facilité de récupération.
 
+**Quelle est la force des suites open source face aux géants du Cloud ?**  
+Elles assurent une stricte confidentialité des données, fonctionnent sans accès internet et n'imposent aucun abonnement récurrent.
+
+**Comment plusieurs personnes peuvent-elles écrire en même temps sur le même document ?**  
+Grâce aux algorithmes de transformation opérationnelle (OT) qui fusionnent les frappes au clavier sans écraser le texte d'autrui.
+
+**Les suites bureautiques sont-elles entièrement compatibles entre elles ?**  
+Une très large compatibilité existe sur les documents courants, mais des décalages mineurs subsistent sur les macros complexes.
 
 ## Termes liés
 - [SaaS](/fr/dictionary/saas/)
-- [Enterprise Resource Planning](/fr/dictionary/enterprise-resource-planning/)
-- [Document Parsing](/fr/dictionary/document-parsing/)
+- [User Interface](/fr/dictionary/user-interface/)
+- [Tools](/fr/dictionary/tools/)
 
 ---
-Source : TreScout Glossaire · https://trescout.com/fr/dictionary/office-suite/
+Source : Dictionnaire technique TreScout · https://trescout.com/fr/dictionary/office-suite/

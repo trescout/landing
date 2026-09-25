@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>O que é Context? · Glossário · TreScout</title>
-<meta name="description" content="É o conjunto das informações passadas e da situação atual que a inteligência artificial precisa para compreender corretamente um assunto.">
+<meta name="description" content="Contexto (context) é um fundamento computacional que define ou a janela de tokens ativa utilizada por inteligências artificiais para responder a prompts, ou o estado interno de registradores e memória que um sistema operacional preserva ao alternar tarefas.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/pt/dictionary/context/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/context/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/context/">
 <link rel="alternate" type="text/markdown" href="/pt/dictionary/context.md">
 <meta property="og:title" content="O que é Context?">
-<meta property="og:description" content="É o conjunto das informações passadas e da situação atual que a inteligência artificial precisa para compreender corretamente um assunto.">
+<meta property="og:description" content="Contexto (context) é um fundamento computacional que define ou a janela de tokens ativa utilizada por inteligências artificiais para responder a prompts, ou o estado interno de registradores e memória que um sistema operacional preserva ao alternar tarefas.">
 <meta property="og:url" content="https://trescout.com/pt/dictionary/context/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="pt_BR">
@@ -27,21 +27,61 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="O que é Context?">
-<meta name="twitter:description" content="É o conjunto das informações passadas e da situação atual que a inteligência artificial precisa para compreender corretamente um assunto.">
+<meta name="twitter:description" content="Contexto (context) é um fundamento computacional que define ou a janela de tokens ativa utilizada por inteligências artificiais para responder a prompts, ou o estado interno de registradores e memória que um sistema operacional preserva ao alternar tarefas.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Context",
-  "description": "É o conjunto das informações passadas e da situação atual que a inteligência artificial precisa para compreender corretamente um assunto.",
+  "description": "Contexto (context) é um fundamento computacional que define ou a janela de tokens ativa utilizada por inteligências artificiais para responder a prompts, ou o estado interno de registradores e memória que um sistema operacional preserva ao alternar tarefas.",
   "inLanguage": "pt-BR",
   "url": "https://trescout.com/pt/dictionary/context/",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
-    "name": "TreScout Tech Dictionary",
+    "name": "Dicionário Técnico TreScout",
     "url": "https://trescout.com/pt/dictionary/"
   }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "O que é o fenômeno 'lost in the middle' em LLMs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "É a tendência de modelos de linguagem reterem com mais precisão dados no início e no fim do prompt, perdendo detalhes colocados no meio de textos extensos."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Por que a troca de contexto de CPU gera perda de performance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Porque exige salvar e recarregar registradores do processador, invalidando linhas de memória cache rápida (TLB e L1/L2)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Qual o papel do Context no ecossistema React?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Permite disponibilizar estados compartilhados (como tema escuro ou login) diretamente para componentes profundos sem repassar props manuais."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Como a atenção do Transformer processa o contexto?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Calculando o produto escalar ponderado entre todos os tokens da sequência para ponderar a relevância de cada termo em relação aos outros."
+      }
+    }
+  ]
 }
 </script>
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -55,16 +95,16 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/pt/dictionary/">← Glossário</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossário · AI</span><time class="dict-time" datetime="2026-08-07">Última atualização: 7 de agosto de 2026</time></div>
-<h1 class="disc-title">O que é <span class="disc-accent">Context</span>?</h1>
-<p class="disc-lead">É o conjunto das informações passadas e da situação atual que a inteligência artificial precisa para compreender corretamente um assunto.</p>
-<section class="disc-sec"><h2>Definição</h2><p>Contexto são informações básicas que ajudam a IA ao responder uma pergunta ou executar uma tarefa. Essas informações podem incluir conversas anteriores, documentos carregados ou o estado atual do sistema. Quando não é fornecido contexto suficiente, a inteligência artificial pode perder os detalhes do assunto ou dar respostas gerais.</p></section>
-<div class="dict-analogy"><strong>Analogia:</strong> Quando você estiver conversando com um amigo, se você apenas disser: &#39;Sim, foi isso que ele disse&#39;, ele não entenderá você; No entanto, se você disser: &#39;Estou falando daquele filme de que falamos ontem&#39;, você fornecerá contexto.</div>
-<section class="disc-sec"><h2>Como funciona</h2><p>Ao dar instruções à inteligência artificial, os desenvolvedores fornecem diálogos anteriores ou documentos relevantes como entrada para o sistema.</p></section>
-<section class="disc-sec"><h2>Onde é usado</h2><p>É usado em chatbots, ferramentas de codificação e sistemas de inteligência artificial que gerenciam tarefas complexas.</p></section>
-<section class="disc-sec"><h2>Costuma ser confundido com</h2><p>Pode ser confundido com prompt; prompt é o comando em si, contexto é o plano de fundo que torna este comando significativo.</p></section>
-<section class="disc-sec"><h2>Perguntas frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">O que significa a janela de contexto?</p><p class="dict-faq-a">Refere-se à capacidade total de informação que a inteligência artificial pode processar de uma só vez.</p></div></div></section>
-<section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/context-window/">Context Window</a><a href="/pt/dictionary/prompt/">Prompt</a><a href="/pt/dictionary/rag/">RAG</a></div></section>
+<div class="disc-top"><span class="disc-eyebrow">Glossário · AI</span><time class="dict-time" datetime="2026-09-19">Última atualização: 19 de setembro de 2026</time></div>
+<h1 class="disc-title">O que é Contexto (Context)? IA e Sistemas</h1>
+<p class="dict-en">Inglês: Context · Etimologia: latim contexere (tecer junto, entrelaçar)</p>
+<p class="disc-lead">Contexto (context) é um fundamento computacional que define ou a janela de tokens ativa utilizada por inteligências artificiais para responder a prompts, ou o estado interno de registradores e memória que um sistema operacional preserva ao alternar tarefas.</p>
+<div class="dict-analogy">Se você chegar para alguém e apenas disser 'Sim, ele aprovou', a pessoa não saberá do que se trata; ao dizer 'Sobre aquele projeto que discutimos ontem', você fornece o contexto indispensável para a conversa fazer sentido.</div>
+<section class="disc-sec"><h2>1. O Contexto na Inteligência Artificial e LLMs</h2><p>Modelos de linguagem não guardam memórias vivas após cada execução. Para compreender e formular respostas coerentes, dependem integralmente da sua <strong>janela de contexto</strong>: o conjunto de tokens (instruções, mensagens passadas e documentos recuperados via RAG) enviados na requisição. A extensão dessa janela define quanta informação o modelo consegue processar simultaneamente.</p></section>
+<section class="disc-sec"><h2>2. O Contexto em Sistemas Operacionais e Programação</h2><p>No nível do sistema operacional, o contexto representa o estado exato de um processador ao executar um programa: valores de registradores, ponteiro de instrução (PC) e tabela de páginas de memória. Quando o sistema suspende um processo para rodar outro, ocorre uma <strong>troca de contexto (context switch)</strong>, salvando o estado anterior e restaurando o novo.</p></section>
+<section class="disc-sec"><h2>Perspectivas comparadas entre áreas da computação</h2><p>Aplicações distintas do conceito de contexto :</p><ul><li><strong>Modelos de Linguagem:</strong> Búfer de tokens e cache de atenção (KV Cache) que fornecem a memória de trabalho do raciocínio.</li><li><strong>Núcleo do Sistema Operacional:</strong> Bloco de Controle de Processo (PCB) registrando estados de registradores na CPU.</li><li><strong>Desenvolvimento de Software:</strong> Contextos em Go ou React que propagam sinais de cancelamento e variáveis globais na árvore de chamadas.</li></ul></section>
+<section class="disc-sec"><h2>Perguntas frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">O que é o fenômeno 'lost in the middle' em LLMs?</p><p class="dict-faq-a">É a tendência de modelos de linguagem reterem com mais precisão dados no início e no fim do prompt, perdendo detalhes colocados no meio de textos extensos.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Por que a troca de contexto de CPU gera perda de performance?</p><p class="dict-faq-a">Porque exige salvar e recarregar registradores do processador, invalidando linhas de memória cache rápida (TLB e L1/L2).</p></div><div class="dict-faq-item"><p class="dict-faq-q">Qual o papel do Context no ecossistema React?</p><p class="dict-faq-a">Permite disponibilizar estados compartilhados (como tema escuro ou login) diretamente para componentes profundos sem repassar props manuais.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Como a atenção do Transformer processa o contexto?</p><p class="dict-faq-a">Calculando o produto escalar ponderado entre todos os tokens da sequência para ponderar a relevância de cada termo em relação aos outros.</p></div></div></section>
+<section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/context-window/">Context Window</a><a href="/pt/dictionary/working-memory/">Working Memory</a><a href="/pt/dictionary/attention-mechanism/">Attention Mechanism</a></div></section>
 <section class="disc-sec"><h2>Ferramentas relacionadas</h2><div class="dict-related"><a href="/pt/discover/goose/">Goose</a><a href="/pt/discover/chrome-devtools-mcp/">Chrome Devtools MCP</a><a href="/pt/discover/openclaude/">Openclaude</a><a href="/pt/discover/code-review-graph/">Code Review Graph</a><a href="/pt/discover/fastmcp/">Fastmcp</a><a href="/pt/discover/context-mode/">Context Mode</a><a href="/pt/discover/unity-mcp/">Unity MCP</a><a href="/pt/discover/desktopcommandermcp/">DesktopCommanderMCP</a></div></section>
 <aside class="disc-cta"><p><strong>Explore ferramentas relacionadas e relatórios diários.</strong> Novos termos e ferramentas surgem todos os dias · junte-se ao acesso antecipado da TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-pt" data-page-type="dictionary" data-content-slug="context" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Seu e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Acesso antecipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Li o <a href="/pt/privacy.html" target="_blank" rel="noopener">aviso de privacidade</a> e concordo com o tratamento do meu e-mail para esta finalidade.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/pt/dictionary/">Todos os termos →</a></aside>
 <p class="disc-disclaimer">Esta explicação foi escrita em linguagem simples para a TreScout e <strong>traduzida automaticamente</strong> do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/context/">Ler em turco →</a></p>

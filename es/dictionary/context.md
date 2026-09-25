@@ -1,28 +1,43 @@
-# ¿Qué es Context?
+# ¿Qué es el Contexto (Context)? IA y Sistemas
 
-Es el conjunto de la información pasada y la situación actual que la inteligencia artificial necesita para comprender un tema correctamente.
+> Inglés: Context · Etimología: latín contexere (tejer juntos, entrelazar)
 
-## Definición
-El contexto es información de fondo que ayuda a la IA a responder una pregunta o realizar una tarea. Esta información puede incluir conversaciones anteriores, documentos cargados o el estado actual del sistema. Cuando no se proporciona suficiente contexto, la inteligencia artificial puede pasar por alto los detalles del tema o dar respuestas generales.
+**Categoría:** AI  
+**Última actualización:** 2026-09-19
 
-## Cómo funciona
-Al dar instrucciones a la inteligencia artificial, los desarrolladores proporcionan diálogos anteriores o documentos relevantes como entrada al sistema.
+El contexto (context) es un principio informático transversal que abarca desde la ventana de memoria activa que utilizan los modelos de lenguaje hasta el estado de registros y memoria que conserva un sistema operativo al alternar procesos.
 
-## Dónde se usa
-Se utiliza en chatbots, herramientas de codificación y sistemas de inteligencia artificial que gestionan tareas complejas.
+## Por analogía
+Si te cruzas con un colega y solo le dices 'Sí, al final aceptó', no sabrá a qué te refieres; si añades 'Respecto a la propuesta que enviamos ayer', le aportas el contexto necesario para entablar el diálogo.
 
-## Suele confundirse con
-Puede confundirse con aviso; El mensaje es el comando en sí, el contexto es el fondo que hace que este comando tenga sentido.
+## 1. El Contexto en la Inteligencia Artificial y LLMs
+Los modelos de lenguaje no poseen una conciencia persistente entre llamadas de inferencia. Para resolver dudas y entender matices, dependen por completo de su **ventana de contexto**: la secuencia de tokens suministrada en cada petición (instrucciones del sistema, historial y fragmentos documentales RAG). Cuanto más amplia sea esta ventana, mayor cantidad de datos puede analizar el algoritmo en una sola pasada.
+
+## 2. El Contexto en Sistemas Operativos y Programación
+En la ingeniería de sistemas, el contexto define la fotografía instantánea de la ejecución de un hilo: registros de CPU, contador de programa (PC) y referencias a páginas de memoria física. Cuando el sistema operativo suspende una tarea para ejecutar otra, realiza un **cambio de contexto (context switch)**, guardando los valores antiguos y cargando los nuevos en el procesador.
+
+## Comparativa entre diferentes disciplinas
+Manifestaciones prácticas del contexto :
+- **Modelos de Lenguaje:** Ventana de tokens y matriz KV Cache que sirven de memoria de trabajo efímera.- **Sistemas Operativos:** Bloque de Control de Procesos (PCB) que salva el estado del procesador en el kernel.- **Entornos de Desarrollo:** Objetos de contexto (como en React o Go) que trasladan credenciales y señales de cancelación a lo largo de las funciones.
 
 ## Preguntas frecuentes
-**¿Qué significa la ventana de contexto?**
-Se refiere a la capacidad total de información que la inteligencia artificial puede procesar al mismo tiempo.
 
+**¿Qué es el problema 'lost in the middle' en prompts de IA?**  
+La dificultad de los modelos neuronales para recordar con igual nitidez los datos situados en el tercio central de textos muy largos frente al principio y el final.
+
+**¿Por qué el cambio de contexto en CPUs reduce la velocidad?**  
+Porque guardar y restaurar registros de hardware interrumpe el flujo de cálculo y vacía cachés rápidas como la memoria TLB.
+
+**¿Qué utilidad tiene el Context API en librerías de interfaz?**  
+Permite propagar variables compartidas a cualquier componente de la jerarquía sin necesidad de pasarlas de padres a hijos manualmente.
+
+**¿Cómo evalúan los modelos Transformer el contexto?**  
+Multiplicando matrices de atención que puntúan la afinidad semántica entre todas las palabras presentes en la entrada.
 
 ## Términos relacionados
 - [Context Window](/es/dictionary/context-window/)
-- [Prompt](/es/dictionary/prompt/)
-- [RAG](/es/dictionary/rag/)
+- [Working Memory](/es/dictionary/working-memory/)
+- [Attention Mechanism](/es/dictionary/attention-mechanism/)
 
 ## Herramientas relacionadas
 - [Goose](/es/discover/goose/)
@@ -35,4 +50,4 @@ Se refiere a la capacidad total de información que la inteligencia artificial p
 - [DesktopCommanderMCP](/es/discover/desktopcommandermcp/)
 
 ---
-Fuente: TreScout Glosario · https://trescout.com/es/dictionary/context/
+Fuente: Diccionario Tecnológico TreScout · https://trescout.com/es/dictionary/context/
