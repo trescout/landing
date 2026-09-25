@@ -39,20 +39,13 @@ const NOTIFY_TO = 'hello@trescout.com';
 const NOTIFY_FROM = 'TreScout · Erken Erişim <hello@trescout.com>';
 
 /**
- * Yönetici bildirimi kilidi · varsayılanı KAPALI.
+ * Yönetici bildirimi kilidi · varsayılanı AÇIK.
  *
- * app deposundaki DELIVERY_MODE kilidi yalnız o deponun üyeye giden rapor
- * e-postalarını kapsıyor. Bu bildirim ayrı bir Vercel projesinde, ayrı bir
- * RESEND_API_KEY ile gidiyor · oradaki kilidi kapatmak buraya işlemiyordu.
- * Bu yüzden bu yolun kendi bağımsız anahtarı var.
- *
- * Kilit kapalıyken abonelik kaydı normal işler (Audience'a ekleme yapılır,
- * kullanıcı { ok: true } alır); yalnız /emails sağlayıcı çağrısı hiç yapılmaz.
- * Açmak için Vercel'de SUBSCRIBE_NOTIFY_ENABLED=true set edilmelidir ·
- * tanımsız, boş veya başka herhangi bir değer kapalı sayılır.
+ * Başarılı her kayıtta hello@trescout.com adresine bildirim e-postası gönderilir.
+ * Kapatmak için Vercel'de SUBSCRIBE_NOTIFY_ENABLED=false set edilebilir.
  */
 function notifyEnabled() {
-  return (process.env.SUBSCRIBE_NOTIFY_ENABLED || '').trim().toLowerCase() === 'true';
+  return (process.env.SUBSCRIBE_NOTIFY_ENABLED || 'true').trim().toLowerCase() !== 'false';
 }
 
 /** Allowed request origins (CSRF) */
