@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>What is Append-only log? · Dictionary · TreScout</title>
-<meta name="description" content="A secure ledger where past data cannot be altered and only new information can be appended at the end.">
+<title>Append-Only Log: Immutability, Write-Ahead Logs, and Event Sourcing · TreScout</title>
+<meta name="description" content="Master Append-Only Logs: immutable data structures, Write-Ahead Logs (WAL) in databases, Kafka event streaming, and cryptographic auditability.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/en/dictionary/append-only-log/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/append-only-log/">
@@ -15,8 +15,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/append-only-log/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/append-only-log/">
 <link rel="alternate" type="text/markdown" href="/en/dictionary/append-only-log.md">
-<meta property="og:title" content="What is Append-only log?">
-<meta property="og:description" content="A secure ledger where past data cannot be altered and only new information can be appended at the end.">
+<meta property="og:title" content="Append-Only Log: Immutability, Write-Ahead Logs, and Event Sourcing · TreScout">
+<meta property="og:description" content="Master Append-Only Logs: immutable data structures, Write-Ahead Logs (WAL) in databases, Kafka event streaming, and cryptographic auditability.">
 <meta property="og:url" content="https://trescout.com/en/dictionary/append-only-log/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
@@ -26,8 +26,8 @@
 <meta property="og:image:alt" content="What is Append-only log?">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="What is Append-only log?">
-<meta name="twitter:description" content="A secure ledger where past data cannot be altered and only new information can be appended at the end.">
+<meta name="twitter:title" content="Append-Only Log: Immutability, Write-Ahead Logs, and Event Sourcing · TreScout">
+<meta name="twitter:description" content="Master Append-Only Logs: immutable data structures, Write-Ahead Logs (WAL) in databases, Kafka event streaming, and cryptographic auditability.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
@@ -55,12 +55,30 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/en/dictionary/">← Dictionary</a>
-<div class="disc-top"><span class="disc-eyebrow">Dictionary · Data</span><time class="dict-time" datetime="2026-08-25">Last updated: August 25, 2026</time></div>
-<h1 class="disc-title">What is <span class="disc-accent">Append-only log</span>?</h1>
-<p class="disc-lead">A secure ledger where past data cannot be altered and only new information can be appended at the end.</p>
-<section class="disc-sec"><h2>Overview</h2><p>A secure ledger where past data cannot be altered and only new information can be appended at the end.</p></section>
+
+<div class="disc-top"><span class="disc-eyebrow">Dictionary · Data & Infra</span><time class="dict-time" datetime="2026-09-20">Last updated: September 20, 2026</time></div>
+
+<h1 class="disc-title">Append-Only Log <span class='disc-accent'>Immutability, Write-Ahead Logs, and distributed storage</span></h1>
+
+<p class="disc-lead">An append-only log is a fundamental data storage paradigm where new records can only be sequentially appended to the end of the file; existing data is strictly immutable and can never be modified or overwritten in place.</p>
+
+<section class="disc-sec"><h2>Etymology and the Immutability Paradigm</h2><p>The concept derives from classic financial bookkeeping ledgers: accountants never erase an incorrect entry with an eraser; they append a new compensating transaction. In computer science, an append-only log provides deterministic sequential write throughput by eliminating random disk write seeks.</p></section>
+
+<section class="disc-sec"><h2>Technical Depth and System Architecture</h2><p>Append-only structures form the backbone of modern data engineering:</p><ul><li><strong>Write-Ahead Logging (WAL):</strong> Databases like PostgreSQL, MySQL, and SQLite append every transaction to a WAL file sequentially on disk before writing to complex B-Tree structures, guaranteeing ACID durability against power failures.</li><li><strong>Log-Structured Merge-Trees (LSM-Trees):</strong> Storage engines (RocksDB, Cassandra) write updates to an append-only commit log and in-memory MemTable, periodically compacting immutable SSTables in the background.</li><li><strong>Distributed Event Streaming:</strong> Apache Kafka and Apache Pulsar treat the append-only commit log as an unbounded event stream partitioned across distributed clusters.</li></ul></section>
+
+<section class="disc-sec"><h2>Sociological Dimension: Digital Memory and Audit Trails</h2><p>In an era of deepfakes and data manipulation, append-only logs provide verifiable cryptographic integrity. In Git commits, certificate transparency logs, and public blockchains, every state modification produces a tamper-evident audit trail where historical truth cannot be silently altered.</p></section>
+
+<section class="disc-sec"><h2>Common Mistakes and Engineering Pitfalls</h2><p>Operating append-only architectures requires clear operational disciplines:</p><ul><li><strong>Unbounded Disk Growth:</strong> Without log retention policies, rolling segment files, and compaction strategies, logs will eventually exhaust server storage.</li><li><strong>Read Amplification:</strong> Reconstructing the current state of an entity requires replaying log records from the beginning unless periodic snapshot checkpoints are recorded.</li></ul></section>
+
+<div class="dict-analogy">An append-only log is like writing history in wet concrete or chisel on stone: once recorded, you cannot rub out past events; if you make a mistake, you must carve a new entry explaining the correction.</div>
+
+<section class="disc-sec"><h2>Frequently asked questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">What does append-only log mean in software?</p><p class="dict-faq-a">It is a storage design where data is written strictly sequentially to the end of the file, making historical entries immutable and tamper-resistant.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Why are append-only logs faster for disk writes?</p><p class="dict-faq-a">Because sequential disk writes avoid the physical seek latency of random writes, maximizing NVMe and hard disk throughput.</p></div><div class="dict-faq-item"><p class="dict-faq-q">How do databases prevent append-only logs from filling up the disk?</p><p class="dict-faq-a">Through log compaction, segment deletion, and periodic snapshotting where intermediate states are consolidated.</p></div></div></section>
+
+<section class="disc-sec"><h2>Related terms</h2><div class="dict-related"><a href="/en/dictionary/distributed/">Distributed</a><a href="/en/dictionary/serialization/">Serialization</a><a href="/en/dictionary/local/">Local</a><a href="/en/dictionary/self-hosted/">Self-hosted</a><a href="/en/dictionary/runtime/">Runtime</a><a href="/en/dictionary/memory-management/">Memory Management</a></div></section>
+
 <aside class="disc-cta"><p><strong>Explore related tools and daily reports.</strong> Stay on top of emerging tech terms and tools. Receive TreScout's daily summary in your inbox.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-en" data-page-type="dictionary" data-content-slug="append-only-log" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/dictionary/">All terms →</a></aside>
-<p class="disc-disclaimer">This explanation was written in plain language for TreScout and <strong>machine-translated</strong> from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/append-only-log/">Read in Turkish →</a></p>
+
+<div class="dict-disclaimer">This explanation was written in plain language for TreScout and <strong>machine-translated</strong> from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/append-only-log/">Read in Turkish →</a></div>
 </article>
 </main>
 <footer>

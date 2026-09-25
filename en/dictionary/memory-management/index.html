@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>What is Memory Management? · Dictionary · TreScout</title>
-<meta name="description" content="It is the regular placement and cleaning of data in order to use the computer&#39;s temporary memory efficiently.">
+<title>Memory Management: Stack, Heap, Garbage Collection, and Ownership · TreScout</title>
+<meta name="description" content="Understand Memory Management: Stack vs Heap allocation, manual memory, garbage collection, Rust ownership, virtual memory, and OOM killer.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/en/dictionary/memory-management/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/memory-management/">
@@ -15,8 +15,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/memory-management/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/memory-management/">
 <link rel="alternate" type="text/markdown" href="/en/dictionary/memory-management.md">
-<meta property="og:title" content="What is Memory Management?">
-<meta property="og:description" content="It is the regular placement and cleaning of data in order to use the computer&#39;s temporary memory efficiently.">
+<meta property="og:title" content="Memory Management: Stack, Heap, Garbage Collection, and Ownership · TreScout">
+<meta property="og:description" content="Understand Memory Management: Stack vs Heap allocation, manual memory, garbage collection, Rust ownership, virtual memory, and OOM killer.">
 <meta property="og:url" content="https://trescout.com/en/dictionary/memory-management/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
@@ -26,8 +26,8 @@
 <meta property="og:image:alt" content="What is Memory Management?">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="What is Memory Management?">
-<meta name="twitter:description" content="It is the regular placement and cleaning of data in order to use the computer&#39;s temporary memory efficiently.">
+<meta name="twitter:title" content="Memory Management: Stack, Heap, Garbage Collection, and Ownership · TreScout">
+<meta name="twitter:description" content="Understand Memory Management: Stack vs Heap allocation, manual memory, garbage collection, Rust ownership, virtual memory, and OOM killer.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
@@ -55,18 +55,28 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/en/dictionary/">← Dictionary</a>
-<div class="disc-top"><span class="disc-eyebrow">Dictionary · Dev</span><time class="dict-time" datetime="2026-06-07">Last updated: June 7, 2026</time></div>
-<h1 class="disc-title">What is <span class="disc-accent">Memory Management</span>?</h1>
-<p class="disc-lead">It is the regular placement and cleaning of data in order to use the computer&#39;s temporary memory efficiently.</p>
-<section class="disc-sec"><h2>Overview</h2><p>RAM, which is the temporary memory of computers, has limited space. Memory management is a system management that decides which data will remain in memory for how long and how it will be deleted when it is finished.</p></section>
-<div class="dict-analogy"><strong>Analogy:</strong> It&#39;s like a librarian taking the read books off the shelves and putting them into storage or sending them for recycling to prevent the shelves from overflowing.</div>
-<section class="disc-sec"><h2>How it works</h2><p>While programs are running, they write the data they need into memory. The system keeps track of this data and clears out what is no longer needed, making room for new data.</p></section>
-<section class="disc-sec"><h2>Where it is used</h2><p>It runs in the background on operating systems, game engines and all software that requires high performance.</p></section>
-<section class="disc-sec"><h2>Commonly confused with</h2><p>Not to be confused with storage (hard disk); This process only concerns temporary memory (RAM).</p></section>
-<section class="disc-sec"><h2>Frequently asked questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">What happens if memory management is poor?</p><p class="dict-faq-a">The computer may slow down, freeze, or programs may crash and close.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Should I do this?</p><p class="dict-faq-a">Most modern languages ​​do this automatically, but manual checking may be required if you are developing system-level software.</p></div></div></section>
-<section class="disc-sec"><h2>Related terms</h2><div class="dict-related"><a href="/en/dictionary/state-management/">State Management</a><a href="/en/dictionary/memory-engine/">Memory Engine</a></div></section>
+
+<div class="disc-top"><span class="disc-eyebrow">Dictionary · Dev</span><time class="dict-time" datetime="2026-09-19">Last updated: September 19, 2026</time></div>
+
+<h1 class="disc-title">Memory Management <span class='disc-accent'>Stack, Heap, garbage collection, and OS memory</span></h1>
+
+<p class="disc-lead">Memory management is the software and operating system mechanism that governs how volatile random-access memory (RAM) is dynamically allocated, tracked, and safely reclaimed during an application's lifecycle.</p>
+
+<section class="disc-sec"><h2>1. Memory Anatomy: The Division Between Stack and Heap</h2><p>A computer program organizes its allocated runtime memory into two distinct primary structures:</p><ul><li><strong>Stack Memory:</strong> A fast, contiguous LIFO (Last-In, First-Out) memory structure managed directly by the CPU instruction pointer. It holds function call frames, local primitive variables, and pointer addresses. Allocation is instantaneous as it merely increments the Stack Pointer register (RSP), and deallocation occurs automatically when a function scope returns.</li><li><strong>Heap Memory:</strong> A large, unstructured pool of volatile memory used for dynamic runtime allocations whose sizes or lifespans cannot be known at compile time. Requesting heap memory involves calling system allocators (like malloc), traversing memory fragmentation structures, and returning pointers, making it slower than stack operations.</li></ul></section>
+
+<section class="disc-sec"><h2>2. Three Core Paradigms of Memory Management</h2><p>Across programming languages, memory management adheres to three primary paradigms:</p><ol><li><strong>Manual Memory Management (C, C++):</strong> Developers explicitly allocate heap blocks using <code>malloc()</code> or <code>new</code> and must manually invoke <code>free()</code> or <code>delete</code>. While delivering maximum performance, manual management carries severe risks of memory leaks, use-after-free corruptions, and double-free security exploits.</li><li><strong>Automated Garbage Collection (Java, Go, JavaScript, Python):</strong> A runtime garbage collector (GC) periodically scans memory graphs to detect unreferenced objects and reclaim them. Advanced GCs employ generational hypotheses and concurrent mark-and-sweep algorithms, trading small CPU and latency pauses for programmer safety.</li><li><strong>Compile-Time Ownership and Borrowing (Rust):</strong> Rust introduces memory safety without a garbage collector through a strict compiler ownership model: every value has a single owner variable, and the compiler statically verifies borrow lifespans, freeing memory deterministically when owners drop out of scope.</li></ol></section>
+
+<section class="disc-sec"><h2>3. Operating System Level: Virtual Memory, Paging, and OOM Killer</h2><p>Beneath application code, the operating system kernel coordinates physical RAM via hardware Memory Management Units (MMU):</p><ul><li><strong>Virtual Memory & Paging:</strong> Each process operates within an isolated virtual address space divided into uniform 4 KB or 2 MB pages. The MMU maps virtual pages to physical hardware frames via page tables.</li><li><strong>Page Faults & Swap:</strong> When a program addresses memory currently swapped out to disk storage, the OS triggers a page fault to retrieve the data back into RAM.</li><li><strong>Out of Memory (OOM) Killer:</strong> When system memory is exhausted, the Linux kernel invokes the OOM Killer, scoring processes based on memory usage and terminating high-consumption processes (like runaway databases or web workers) to keep the core OS stable.</li></ul></section>
+
+<div class="dict-analogy">Stack memory is like a stack of plates on a dining table where you quickly place and remove items from the very top; heap memory is like a vast commercial warehouse where you rent storage space for arbitrary crates and need a cataloging system to remember where each parcel was placed.</div>
+
+<section class="disc-sec"><h2>Frequently asked questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">What is the difference between Stack and Heap memory?</p><p class="dict-faq-a">Stack memory is automatic, extremely fast, and limited to local function execution scopes; Heap memory is dynamic, large, and requires explicit tracking or garbage collection.</p></div><div class="dict-faq-item"><p class="dict-faq-q">What is a memory leak?</p><p class="dict-faq-a">A memory leak occurs when an application allocates heap memory but fails to release it after it is no longer needed, causing memory usage to climb until the system crashes.</p></div><div class="dict-faq-item"><p class="dict-faq-q">How does Rust achieve memory safety without a garbage collector?</p><p class="dict-faq-a">Rust uses compile-time ownership, borrowing, and lifetime rules that ensure memory is freed deterministically as soon as its owner variable goes out of scope.</p></div><div class="dict-faq-item"><p class="dict-faq-q">What triggers the Linux Out of Memory (OOM) Killer?</p><p class="dict-faq-a">When physical RAM and swap space are completely exhausted and the kernel cannot satisfy new allocation requests, it kills memory-heavy processes to prevent a total system freeze.</p></div></div></section>
+
+<section class="disc-sec"><h2>Related terms</h2><div class="dict-related"><a href="/en/dictionary/runtime/">Runtime</a><a href="/en/dictionary/state-management/">State Management</a><a href="/en/dictionary/serialization/">Serialization</a><a href="/en/dictionary/network-stack/">Network Stack</a><a href="/en/dictionary/assembly/">Assembly</a></div></section>
+
 <aside class="disc-cta"><p><strong>Explore related tools and daily reports.</strong> Stay on top of emerging tech terms and tools. Receive TreScout's daily summary in your inbox.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-en" data-page-type="dictionary" data-content-slug="memory-management" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/dictionary/">All terms →</a></aside>
-<p class="disc-disclaimer">This explanation was written in plain language for TreScout and <strong>machine-translated</strong> from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/memory-management/">Read in Turkish →</a></p>
+
+<div class="dict-disclaimer">This explanation was written in plain language for TreScout and <strong>machine-translated</strong> from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/memory-management/">Read in Turkish →</a></div>
 </article>
 </main>
 <footer>

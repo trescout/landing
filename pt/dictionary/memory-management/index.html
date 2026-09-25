@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>O que é Memory Management? · Glossário · TreScout</title>
-<meta name="description" content="É a colocação e limpeza regular de dados para utilizar a memória temporária do computador de forma eficiente.">
+<title>Gestão de Memória: Stack, Heap, Garbage Collection e Ownership · TreScout</title>
+<meta name="description" content="Entenda o gerenciamento de memória: alocação Stack vs Heap, coletores de lixo (GC), modelo de Ownership em Rust, memória virtual e OOM Killer.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/pt/dictionary/memory-management/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/memory-management/">
@@ -15,8 +15,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/memory-management/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/memory-management/">
 <link rel="alternate" type="text/markdown" href="/pt/dictionary/memory-management.md">
-<meta property="og:title" content="O que é Memory Management?">
-<meta property="og:description" content="É a colocação e limpeza regular de dados para utilizar a memória temporária do computador de forma eficiente.">
+<meta property="og:title" content="Gestão de Memória: Stack, Heap, Garbage Collection e Ownership · TreScout">
+<meta property="og:description" content="Entenda o gerenciamento de memória: alocação Stack vs Heap, coletores de lixo (GC), modelo de Ownership em Rust, memória virtual e OOM Killer.">
 <meta property="og:url" content="https://trescout.com/pt/dictionary/memory-management/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="pt_BR">
@@ -26,8 +26,8 @@
 <meta property="og:image:alt" content="O que é Memory Management?">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="O que é Memory Management?">
-<meta name="twitter:description" content="É a colocação e limpeza regular de dados para utilizar a memória temporária do computador de forma eficiente.">
+<meta name="twitter:title" content="Gestão de Memória: Stack, Heap, Garbage Collection e Ownership · TreScout">
+<meta name="twitter:description" content="Entenda o gerenciamento de memória: alocação Stack vs Heap, coletores de lixo (GC), modelo de Ownership em Rust, memória virtual e OOM Killer.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
@@ -55,18 +55,28 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/pt/dictionary/">← Glossário</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-06-07">Última atualização: 7 de junho de 2026</time></div>
-<h1 class="disc-title">O que é <span class="disc-accent">Memory Management</span>?</h1>
-<p class="disc-lead">É a colocação e limpeza regular de dados para utilizar a memória temporária do computador de forma eficiente.</p>
-<section class="disc-sec"><h2>Definição</h2><p>A RAM, que é a memória temporária dos computadores, tem espaço limitado. O gerenciamento de memória é um gerenciamento de sistema que decide quais dados permanecerão na memória por quanto tempo e como serão excluídos quando terminar.</p></section>
-<div class="dict-analogy"><strong>Analogia:</strong> É como se um bibliotecário tirasse os livros lidos das prateleiras e os guardasse ou os enviasse para reciclagem para evitar que as prateleiras transbordassem.</div>
-<section class="disc-sec"><h2>Como funciona</h2><p>Enquanto os programas estão em execução, eles gravam os dados necessários na memória. O sistema monitora esses dados e elimina o que não é mais necessário, abrindo espaço para novos dados.</p></section>
-<section class="disc-sec"><h2>Onde é usado</h2><p>Ele é executado em segundo plano em sistemas operacionais, mecanismos de jogos e todos os softwares que exigem alto desempenho.</p></section>
-<section class="disc-sec"><h2>Costuma ser confundido com</h2><p>Não confundir com armazenamento (disco rígido); Este processo diz respeito apenas à memória temporária (RAM).</p></section>
-<section class="disc-sec"><h2>Perguntas frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">O que acontece se o gerenciamento de memória for ruim?</p><p class="dict-faq-a">O computador pode ficar lento, congelar ou os programas podem travar e fechar.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Devo fazer isso?</p><p class="dict-faq-a">A maioria das linguagens modernas faz isso automaticamente, mas a verificação manual pode ser necessária se você estiver desenvolvendo software em nível de sistema.</p></div></div></section>
-<section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/state-management/">State Management</a><a href="/pt/dictionary/memory-engine/">Memory Engine</a></div></section>
+
+<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-09-19">Última atualização: 19 de setembro de 2026</time></div>
+
+<h1 class="disc-title">Memory Management <span class='disc-accent'>Stack, Heap, coletor de lixo e memória do sistema</span></h1>
+
+<p class="disc-lead">Gerenciamento de memória (memory management) é o conjunto de regras e mecanismos de software e hardware encarregados de alocar, rastrear e liberar a memória RAM durante a execução de programas.</p>
+
+<section class="disc-sec"><h2>1. Anatomia da Memória: Divisão entre Stack e Heap</h2><p>Todo programa em execução estrutura o espaço de memória volátil em dois blocos operacionais distintos :</p><ul><li><strong>Memória de Pilha (Stack):</strong> Estrutura sequencial LIFO (último a entrar, primeiro a sair) operada diretamente pelo registrador de pilha da CPU. Armazena variáveis locais simples e endereços de retorno de funções. A alocação e liberação são quase instantâneas ao avançar ou retroceder o ponteiro RSP.</li><li><strong>Memória de Monte (Heap):</strong> Amplo repositório dinâmico reservado para estruturas de dados complexas cujo tamanho final não pode ser determinado na compilação. Requer chamadas a alocadores do sistema operacional, sendo mais flexível, porém mais lenta que a pilha.</li></ul></section>
+
+<section class="disc-sec"><h2>2. Três Paradigmas Modernos de Gestão de Memória</h2><p>As linguagens de programação contemporâneas dividem-se em três abordagens centrais :</p><ol><li><strong>Gerenciamento Manual (C e C++):</strong> O programador requisita blocos via <code>malloc()</code> e assume a responsabilidade de liberá-los com <code>free()</code>. Concede máxima performance, mas pode causar falhas de segurança por ponteiros nulos ou vazamentos de memória.</li><li><strong>Coleta Automática de Lixo (Java, Go, JavaScript e Python):</strong> Um mecanismo integrado (Garbage Collector) varre os objetos em execução e devolve ao sistema os dados sem referências ativas, gerando pequenas pausas de processamento.</li><li><strong>Modelo de Posse e Empréstimo (Rust):</strong> Elimina o Garbage Collector sem abrir mão da segurança, validando a posse das variáveis em tempo de compilação e desalocando a memória no momento exato em que a variável sai de escopo.</li></ol></section>
+
+<section class="disc-sec"><h2>3. Nível de Sistema Operacional: Memória Virtual e OOM Killer</h2><p>Na base de todo o ecossistema, o kernel coordena a memória física auxiliado pela unidade MMU (Memory Management Unit) :</p><ul><li><strong>Memória Virtual e Paginação:</strong> Cada processo possui uma visão isolada e protegida da memória dividida em páginas padronizadas de 4 KB mapeadas para a RAM física.</li><li><strong>Page Faults e Swap:</strong> Caso um bloco de dados tenha sido transferido para o disco rígido, o processador gera uma interrupção para recarregar a informação de volta para a RAM.</li><li><strong>OOM Killer:</strong> Em situações de esgotamento total da memória física, o kernel do Linux aciona o OOM Killer para encerrar compulsariamente os processos mais pesados, preservando a estabilidade da máquina.</li></ul></section>
+
+<div class="dict-analogy">A memória Stack é como uma pilha de pratos na bancada onde colocamos e tiramos louças rapidamente do topo ; a memória Heap é como um grande depósito comercial onde caixas de qualquer tamanho são guardadas mediante um catálogo de localização.</div>
+
+<section class="disc-sec"><h2>Perguntas frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Qual a principal diferença entre Stack e Heap?</p><p class="dict-faq-a">A Stack é ultrarrápida, automática e atrelada ao escopo das funções ; a Heap é ampla, dinâmica e requer liberação manual ou atuação de um Garbage Collector.</p></div><div class="dict-faq-item"><p class="dict-faq-q">O que é vazamento de memória (memory leak)?</p><p class="dict-faq-a">É o erro que ocorre quando um programa aloca dados na Heap e perde sua referência sem liberá-los, acumulando consumo de RAM até travar o sistema.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Como o Rust garante segurança de memória sem Garbage Collector?</p><p class="dict-faq-a">Por meio do sistema de Ownership e Borrow Checker verificado na compilação, inserindo a rotina de limpeza de dados no código final.</p></div><div class="dict-faq-item"><p class="dict-faq-q">O que faz o OOM Killer no Linux?</p><p class="dict-faq-a">Ele finaliza processos de alto consumo de memória quando a RAM se esgota para evitar que o sistema operacional congele totalmente.</p></div></div></section>
+
+<section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/runtime/">Runtime</a><a href="/pt/dictionary/state-management/">State Management</a><a href="/pt/dictionary/serialization/">Serialization</a><a href="/pt/dictionary/network-stack/">Network Stack</a><a href="/pt/dictionary/assembly/">Assembly</a></div></section>
+
 <aside class="disc-cta"><p><strong>Explore ferramentas relacionadas e relatórios diários.</strong> Novos termos e ferramentas surgem todos os dias · junte-se ao acesso antecipado da TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-pt" data-page-type="dictionary" data-content-slug="memory-management" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Seu e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Acesso antecipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Li o <a href="/pt/privacy.html" target="_blank" rel="noopener">aviso de privacidade</a> e concordo com o tratamento do meu e-mail para esta finalidade.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/pt/dictionary/">Todos os termos →</a></aside>
-<p class="disc-disclaimer">Esta explicação foi escrita em linguagem simples para a TreScout e <strong>traduzida automaticamente</strong> do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/memory-management/">Ler em turco →</a></p>
+
+<div class="dict-disclaimer">Esta explicação foi escrita em linguagem simples para a TreScout e <strong>traduzida automaticamente</strong> do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/memory-management/">Ler em turco →</a></div>
 </article>
 </main>
 <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">A TreScout busca, resume e entrega. Você só precisa ler.</p></div><div class="footer-col"><div class="footer-col-title">Produto</div><ul><li><a href="/pt/discover/">Descobrir</a></li><li><a href="/pt/dictionary/">Glossário</a></li><li><a href="/pt/reports/">Arquivo de relatórios</a></li><li><a href="/pt/compare/rss-vs-ai/">Comparar</a></li><li><a href="/pt/#top">Acesso antecipado</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Contato</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/pt/privacy.html" target="_blank" rel="noopener">Aviso de privacidade</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Redes</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Todos os direitos reservados.</span></div></div></footer>

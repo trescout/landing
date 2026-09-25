@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>O que é Append-only log? · Glossário · TreScout</title>
-<meta name="description" content="Registre sécurisé où les anciennes données ne peuvent pas être modifiées, et où seules de nouvelles informations peuvent être ajoutées à la fin.">
+<title>Append-Only Log: Imutabilidade, Write-Ahead Logs e Event Sourcing · TreScout</title>
+<meta name="description" content="Conheça o Append-Only Log: estruturas imutáveis, Write-Ahead Logs (WAL) em bancos de dados, mensageria Kafka e auditoria criptográfica.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/pt/dictionary/append-only-log/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/append-only-log/">
@@ -15,8 +15,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/append-only-log/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/append-only-log/">
 <link rel="alternate" type="text/markdown" href="/pt/dictionary/append-only-log.md">
-<meta property="og:title" content="O que é Append-only log?">
-<meta property="og:description" content="Registre sécurisé où les anciennes données ne peuvent pas être modifiées, et où seules de nouvelles informations peuvent être ajoutées à la fin.">
+<meta property="og:title" content="Append-Only Log: Imutabilidade, Write-Ahead Logs e Event Sourcing · TreScout">
+<meta property="og:description" content="Conheça o Append-Only Log: estruturas imutáveis, Write-Ahead Logs (WAL) em bancos de dados, mensageria Kafka e auditoria criptográfica.">
 <meta property="og:url" content="https://trescout.com/pt/dictionary/append-only-log/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="pt_BR">
@@ -26,8 +26,8 @@
 <meta property="og:image:alt" content="O que é Append-only log?">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="O que é Append-only log?">
-<meta name="twitter:description" content="Registre sécurisé où les anciennes données ne peuvent pas être modifiées, et où seules de nouvelles informations peuvent être ajoutées à la fin.">
+<meta name="twitter:title" content="Append-Only Log: Imutabilidade, Write-Ahead Logs e Event Sourcing · TreScout">
+<meta name="twitter:description" content="Conheça o Append-Only Log: estruturas imutáveis, Write-Ahead Logs (WAL) em bancos de dados, mensageria Kafka e auditoria criptográfica.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
@@ -55,12 +55,30 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/pt/dictionary/">← Glossário</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossário · Data</span><time class="dict-time" datetime="2026-08-25">Última atualização: 25 de agosto de 2026</time></div>
-<h1 class="disc-title">O que é <span class="disc-accent">Append-only log</span>?</h1>
-<p class="disc-lead">Registre sécurisé où les anciennes données ne peuvent pas être modifiées, et où seules de nouvelles informations peuvent être ajoutées à la fin.</p>
-<section class="disc-sec"><h2>Definição</h2><p>Registre sécurisé où les anciennes données ne peuvent pas être modifiées, et où seules de nouvelles informations peuvent être ajoutées à la fin.</p></section>
+
+<div class="disc-top"><span class="disc-eyebrow">Glossário · Data & Infra</span><time class="dict-time" datetime="2026-09-20">Última atualização: 20 de setembro de 2026</time></div>
+
+<h1 class="disc-title">Append-Only Log <span class='disc-accent'>Imutabilidade, Write-Ahead Logs e armazenamento sequencial</span></h1>
+
+<p class="disc-lead">Append-only log (registro somente de acréscimo) é uma estrutura de armazenamento de dados onde novos registros são inseridos exclusivamente no final do arquivo, mantendo o histórico absolutamente imutável.</p>
+
+<section class="disc-sec"><h2>Etimologia e o Paradigma da Imutabilidade</h2><p>A ideia inspira-se nos livros contábeis clássicos : contadores não apagam linhas lançadas incorretamente, registram um novo lançamento de ajuste. Na ciência da computação, gravar dados em sequência contínua elimina custos de busca aleatória em disco.</p></section>
+
+<section class="disc-sec"><h2>Profundidade Técnica e Arquitetura de Sistemas</h2><p>Estruturas de acréscimo contínuo são o alicerce de sistemas distribuídos :</p><ul><li><strong>Write-Ahead Logging (WAL):</strong> Bancos relacionais como PostgreSQL gravam alterações em um arquivo WAL sequencial antes de atualizar índices em memória, assegurando consistência ACID.</li><li><strong>LSM-Trees (Log-Structured Merge-Trees):</strong> Bancos NoSQL como Cassandra e RocksDB priorizam gravações sequenciais antes de compactar tabelas imutáveis em segundo plano.</li><li><strong>Streaming de Mensagens:</strong> Plataformas como Apache Kafka tratam tópicos como logs particionados contínuos de eventos.</li></ul></section>
+
+<section class="disc-sec"><h2>Dimensão Sociológica: Memória Digital e Trilha de Auditoria</h2><p>Em tempos de manipulação de dados, a imutabilidade oferece prova irrefutável. No histórico de commits do Git ou em livros-razão descentralizados, cada operação deixa uma trilha criptográfica transparente contra fraudes.</p></section>
+
+<section class="disc-sec"><h2>Erros Comuns e Cuidados Operacionais</h2><p>A gestão de arquivos append-only demanda políticas ativas :</p><ul><li><strong>Esgotamento de Disco:</strong> O acréscimo ininterrupto de dados esgota o armazenamento sem rotinas de expiração e compactação periódica.</li><li><strong>Custo de Leitura:</strong> Reconstruir o estado consolidado de um objeto exige processar todo o histórico, sendo indispensável criar pontos de restauração (snapshots).</li></ul></section>
+
+<div class="dict-analogy">Um append-only log é como gravar inscrições em uma placa de mármore : o que foi entalhado no passado não pode ser raspado ; para corrigir algo, é necessário esculpir uma nova linha retificando o registro.</div>
+
+<section class="disc-sec"><h2>Perguntas frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">O que é um append-only log?</p><p class="dict-faq-a">É um padrão de arquivo onde registros só podem ser adicionados ao final, sendo proibido alterar ou apagar entradas existentes.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Por que essa abordagem é tão rápida para gravar dados?</p><p class="dict-faq-a">Porque a escrita sequencial aproveita a taxa de transferência máxima dos discos SSD e magnéticos sem exigir saltos de trilha.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Como controlar o tamanho do arquivo no longo prazo?</p><p class="dict-faq-a">Aplicando técnicas de compactação de log e salvando snapshots consolidados que substituem mensagens antigas desnecessárias.</p></div></div></section>
+
+<section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/distributed/">Distributed</a><a href="/pt/dictionary/serialization/">Serialization</a><a href="/pt/dictionary/local/">Local</a><a href="/pt/dictionary/self-hosted/">Self-hosted</a><a href="/pt/dictionary/runtime/">Runtime</a><a href="/pt/dictionary/memory-management/">Memory Management</a></div></section>
+
 <aside class="disc-cta"><p><strong>Explore ferramentas relacionadas e relatórios diários.</strong> Novos termos e ferramentas surgem todos os dias · junte-se ao acesso antecipado da TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-pt" data-page-type="dictionary" data-content-slug="append-only-log" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Seu e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Acesso antecipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Li o <a href="/pt/privacy.html" target="_blank" rel="noopener">aviso de privacidade</a> e concordo com o tratamento do meu e-mail para esta finalidade.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/pt/dictionary/">Todos os termos →</a></aside>
-<p class="disc-disclaimer">Esta explicação foi escrita em linguagem simples para a TreScout e <strong>traduzida automaticamente</strong> do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/append-only-log/">Ler em turco →</a></p>
+
+<div class="dict-disclaimer">Esta explicação foi escrita em linguagem simples para a TreScout e <strong>traduzida automaticamente</strong> do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/append-only-log/">Ler em turco →</a></div>
 </article>
 </main>
 <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">A TreScout busca, resume e entrega. Você só precisa ler.</p></div><div class="footer-col"><div class="footer-col-title">Produto</div><ul><li><a href="/pt/discover/">Descobrir</a></li><li><a href="/pt/dictionary/">Glossário</a></li><li><a href="/pt/reports/">Arquivo de relatórios</a></li><li><a href="/pt/compare/rss-vs-ai/">Comparar</a></li><li><a href="/pt/#top">Acesso antecipado</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Contato</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/pt/privacy.html" target="_blank" rel="noopener">Aviso de privacidade</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Redes</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Todos os direitos reservados.</span></div></div></footer>

@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>¿Qué es Apple Silicon? · Glosario · TreScout</title>
-<meta name="description" content="Es una arquitectura de procesador de alto rendimiento y bajo consumo de energía diseñada específicamente para computadoras por Apple.">
+<title>Apple Silicon: Arquitectura SoC, Memoria Unificada y Chips M · TreScout</title>
+<meta name="description" content="Conozca Apple Silicon: procesadores ARM System on Chip (SoC), Arquitectura de Memoria Unificada (UMA), núcleos big.LITTLE y emulación Rosetta 2.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/es/dictionary/apple-silicon/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/apple-silicon/">
@@ -15,8 +15,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/apple-silicon/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/apple-silicon/">
 <link rel="alternate" type="text/markdown" href="/es/dictionary/apple-silicon.md">
-<meta property="og:title" content="¿Qué es Apple Silicon?">
-<meta property="og:description" content="Es una arquitectura de procesador de alto rendimiento y bajo consumo de energía diseñada específicamente para computadoras por Apple.">
+<meta property="og:title" content="Apple Silicon: Arquitectura SoC, Memoria Unificada y Chips M · TreScout">
+<meta property="og:description" content="Conozca Apple Silicon: procesadores ARM System on Chip (SoC), Arquitectura de Memoria Unificada (UMA), núcleos big.LITTLE y emulación Rosetta 2.">
 <meta property="og:url" content="https://trescout.com/es/dictionary/apple-silicon/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="es_ES">
@@ -26,8 +26,8 @@
 <meta property="og:image:alt" content="¿Qué es Apple Silicon?">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="¿Qué es Apple Silicon?">
-<meta name="twitter:description" content="Es una arquitectura de procesador de alto rendimiento y bajo consumo de energía diseñada específicamente para computadoras por Apple.">
+<meta name="twitter:title" content="Apple Silicon: Arquitectura SoC, Memoria Unificada y Chips M · TreScout">
+<meta name="twitter:description" content="Conozca Apple Silicon: procesadores ARM System on Chip (SoC), Arquitectura de Memoria Unificada (UMA), núcleos big.LITTLE y emulación Rosetta 2.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
@@ -55,18 +55,28 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/es/dictionary/">← Glosario</a>
-<div class="disc-top"><span class="disc-eyebrow">Glosario · Dev</span><time class="dict-time" datetime="2026-06-12">Última actualización: 12 de junio de 2026</time></div>
-<h1 class="disc-title">¿Qué es <span class="disc-accent">Apple Silicon</span>?</h1>
-<p class="disc-lead">Es una arquitectura de procesador de alto rendimiento y bajo consumo de energía diseñada específicamente para computadoras por Apple.</p>
-<section class="disc-sec"><h2>Definición</h2><p>A diferencia de los procesadores tradicionales, Apple Silicon combina el procesador, la unidad gráfica y la memoria en un solo chip. Este diseño permite que los datos se muevan mucho más rápido entre unidades. Como resultado, los dispositivos se calientan menos y consumen menos batería y, al mismo tiempo, ofrecen un rendimiento mucho mayor.</p></section>
-<div class="dict-analogy"><strong>Analogía:</strong> Puede pensar en ello como unidades que trabajan en diferentes edificios que se trasladan a la misma oficina y se entregan archivos directamente entre sí en lugar de gritarse entre sí.</div>
-<section class="disc-sec"><h2>Cómo funciona</h2><p>Está construido sobre la arquitectura ARM. Apple ha optimizado esta arquitectura haciéndola perfectamente compatible con su propio software.</p></section>
-<section class="disc-sec"><h2>Dónde se usa</h2><p>Se utiliza en los modelos modernos de MacBook, iMac y iPad.</p></section>
-<section class="disc-sec"><h2>Preguntas frecuentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">¿Se ejecutarán las aplicaciones heredadas en Apple Silicon?</p><p class="dict-faq-a">Sí, las aplicaciones heredadas se ejecutan sin problemas gracias a una capa de traducción llamada Rosetta 2.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Por qué hace menos calor?</p><p class="dict-faq-a">Debido a que su eficiencia energética es muy alta, el procesador hace el mismo trabajo consumiendo menos energía.</p></div></div></section>
-<section class="disc-sec"><h2>Términos relacionados</h2><div class="dict-related"><a href="/es/dictionary/runtime/">Runtime</a><a href="/es/dictionary/computer-science/">Computer Science</a><a href="/es/dictionary/desktop-app/">Desktop App</a></div></section>
-<section class="disc-sec"><h2>Herramientas relacionadas</h2><div class="dict-related"><a href="/es/discover/container/">Container</a><a href="/es/discover/omlx/">Omlx</a><a href="/es/discover/palmier-pro/">Palmier Pro</a><a href="/es/discover/openmed/">Openmed</a></div></section>
+
+<div class="disc-top"><span class="disc-eyebrow">Glosario · Dev</span><time class="dict-time" datetime="2026-09-19">Última actualización: 19 de septiembre de 2026</time></div>
+
+<h1 class="disc-title">Apple Silicon <span class='disc-accent'>Arquitectura SoC, memoria unificada y computación ARM</span></h1>
+
+<p class="disc-lead">Apple Silicon es la familia de procesadores System on Chip (SoC) basados en arquitectura ARM diseñados por Apple para sus ordenadores Mac e iPad, integrando CPU, GPU, Neural Engine y memoria en una pastilla única.</p>
+
+<section class="disc-sec"><h2>Bases Conceptuales, Historia y Migración de x86 a ARM</h2><p>La palabra <em>silicon</em> (silicio) alude al elemento semiconductor sobre el que se graban los circuitos integrados. Apple Silicon representa la emancipación de Apple frente a suministradores de chips externos (Intel, Motorola, IBM) para controlar de extremo a extremo su hardware y software.</p><p>Históricamente, la marca ha realizado tres transiciones técnicas trascendentales :</p><ol><li><strong>1994:</strong> De los procesadores Motorola 68000 a la arquitectura PowerPC RISC.</li><li><strong>2006:</strong> De PowerPC a los procesadores x86 de Intel.</li><li><strong>2020:</strong> Salida de Intel y lanzamiento de la <strong>serie Apple Silicon M (M1, M2, M3, M4)</strong>, aprovechando diez años de avances en microchips ARM para el iPhone.</li></ol><p>Este hito demostró que la arquitectura ARM RISC de 64 bits podía liderar el sector informático en potencia de cálculo y eficiencia térmica.</p></section>
+
+<section class="disc-sec"><h2>Sistema en Chip (SoC) y Arquitectura de Memoria Unificada (UMA)</h2><p>Los ordenadores de escritorio comunes recurren a componentes aislados en la placa base: zócalos de CPU, tarjetas gráficas dedicadas por ranuras PCIe y módulos de RAM independientes. La transferencia continua de datos por el bus del sistema satura canales y dispara el consumo de electricidad.</p><p>Apple Silicon replantea esta estructura :</p><ul><li><strong>SoC Compacto:</strong> Los núcleos de CPU, las unidades de cómputo GPU, el acelerador neuronal (NPU) y el enclave de seguridad conviven en el mismo silicio.</li><li><strong>Memoria Unificada (UMA):</strong> Chips LPDDR5X interconectados junto al procesador proporcionan acceso directo sin copias redundantes (Zero-Copy) con anchos de banda de hasta 800 GB/s.</li></ul><p>En el terreno de la inteligencia artificial, la memoria unificada permite a un ordenador Mac Studio utilizar más de 120 GB de memoria de forma íntegra como VRAM para ejecutar modelos LLM masivos de 70B parámetros mediante el paquete de código abierto MLX.</p></section>
+
+<section class="disc-sec"><h2>Anatomía de Núcleos, Aceleradores Específicos y Rosetta 2</h2><p>La excelente relación entre potencia y consumo se sostiene en tres innovaciones clave :</p><ol><li><strong>Diseño Heterogéneo (big.LITTLE):</strong> Núcleos de alto rendimiento (P-cores) procesan tareas exigentes de edición o programación, mientras que los núcleos eficientes (E-cores) gestionan los procesos de fondo consumiendo una cantidad mínima de batería.</li><li><strong>Aceleradores Hardware:</strong> Bloques como el <strong>Neural Engine</strong> para operaciones de aprendizaje automático, el coprocesador <strong>AMX</strong> para cálculo matricial y el <strong>Media Engine</strong> para descodificar vídeo ProRes y AV1 por hardware.</li><li><strong>Traductor Binario Rosetta 2:</strong> Las aplicaciones programadas para Intel x86_64 se traducen a código nativo ARM64 de forma anticipada (AOT), con soporte hardware para el modelo de memoria TSO de x86.</li></ol></section>
+
+<div class="dict-analogy">Un ordenador convencional es como una compañía con departamentos repartidos en edificios distantes que intercambian informes mediante mensajeros; Apple Silicon sienta a todos los ingenieros y creativos ante una misma mesa redonda compartiendo una pizarra gigante.</div>
+
+<section class="disc-sec"><h2>Preguntas frecuentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">¿Qué es Apple Silicon y qué productos lo incorporan?</p><p class="dict-faq-a">Es la gama de procesadores ARM diseñados a medida por Apple que da soporte a las líneas MacBook, Mac mini, Mac Studio, Mac Pro e iPad Pro.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿En qué aventaja la Memoria Unificada a la RAM habitual?</p><p class="dict-faq-a">En que no divide la memoria entre CPU y tarjeta gráfica; todos los procesadores acceden al mismo espacio sin retardos por copia de datos.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Se pueden usar aplicaciones antiguas de Intel en los nuevos Mac?</p><p class="dict-faq-a">Sí, la herramienta Rosetta 2 integrada en macOS convierte el código de Intel a ARM de forma automática y con gran agilidad.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Por qué es idóneo Apple Silicon para desarrolladores de IA?</p><p class="dict-faq-a">Porque permite destinar enormes capacidades de memoria (hasta 192 GB) directamente al motor gráfico para ejecutar modelos LLM en local.</p></div></div></section>
+
+<section class="disc-sec"><h2>Términos relacionados</h2><div class="dict-related"><a href="/es/dictionary/runtime/">Runtime</a><a href="/es/dictionary/computer-science/">Computer Science</a><a href="/es/dictionary/assembly/">Assembly</a><a href="/es/dictionary/memory-management/">Memory Management</a><a href="/es/dictionary/emulator/">Emulator</a><a href="/es/dictionary/cloud-computing/">Cloud Computing</a></div></section>
+
 <aside class="disc-cta"><p><strong>Descubra herramientas relacionadas e informes diarios.</strong> Cada día surgen nuevos términos y herramientas · únase al acceso anticipado de TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-es" data-page-type="dictionary" data-content-slug="apple-silicon" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Su correo electrónico" autocomplete="email" required><button class="btn btn-primary" type="submit">Acceso anticipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>He leído el <a href="/es/privacy.html" target="_blank" rel="noopener">aviso de privacidad</a> y acepto que mi correo se trate con esta finalidad.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/es/dictionary/">Todos los términos →</a></aside>
-<p class="disc-disclaimer">Esta explicación se redactó en lenguaje sencillo para TreScout y se <strong>tradujo automáticamente</strong> del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/apple-silicon/">Leer en turco →</a></p>
+
+<div class="dict-disclaimer">Esta explicación se redactó en lenguaje llano para TreScout y se <strong>tradujo automáticamente</strong> a partir del original en turco · la versión en turco es la que prevalece. Si detecta algún error o carencia, escriba a <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/apple-silicon/">Leer en turco →</a></div>
 </article>
 </main>
 <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">TreScout rastrea, resume y entrega. Usted solo lee.</p></div><div class="footer-col"><div class="footer-col-title">Producto</div><ul><li><a href="/es/discover/">Descubrir</a></li><li><a href="/es/dictionary/">Glosario</a></li><li><a href="/es/reports/">Archivo de informes</a></li><li><a href="/es/compare/rss-vs-ai/">Comparar</a></li><li><a href="/es/#top">Acceso anticipado</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Contacto</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/es/privacy.html" target="_blank" rel="noopener">Aviso de privacidad</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Redes</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Todos los derechos reservados.</span></div></div></footer>

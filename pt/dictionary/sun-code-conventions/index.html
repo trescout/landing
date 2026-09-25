@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>O que é Sun Code Conventions? · Glossário · TreScout</title>
-<meta name="description" content="Um conjunto de padrões recomendados para serem seguidos na escrita do código, criado pela empresa que desenvolveu a linguagem Java.">
+<title>Sun Code Conventions: Padrões Java, Legibilidade e Clean Code · TreScout</title>
+<meta name="description" content="Conheça as convenções de código da Sun para Java (1999): nomenclatura CamelCase, limite de 80 colunas, indentação e manutenção de software.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/pt/dictionary/sun-code-conventions/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/sun-code-conventions/">
@@ -15,8 +15,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/sun-code-conventions/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/sun-code-conventions/">
 <link rel="alternate" type="text/markdown" href="/pt/dictionary/sun-code-conventions.md">
-<meta property="og:title" content="O que é Sun Code Conventions?">
-<meta property="og:description" content="Um conjunto de padrões recomendados para serem seguidos na escrita do código, criado pela empresa que desenvolveu a linguagem Java.">
+<meta property="og:title" content="Sun Code Conventions: Padrões Java, Legibilidade e Clean Code · TreScout">
+<meta property="og:description" content="Conheça as convenções de código da Sun para Java (1999): nomenclatura CamelCase, limite de 80 colunas, indentação e manutenção de software.">
 <meta property="og:url" content="https://trescout.com/pt/dictionary/sun-code-conventions/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="pt_BR">
@@ -26,8 +26,8 @@
 <meta property="og:image:alt" content="O que é Sun Code Conventions?">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="O que é Sun Code Conventions?">
-<meta name="twitter:description" content="Um conjunto de padrões recomendados para serem seguidos na escrita do código, criado pela empresa que desenvolveu a linguagem Java.">
+<meta name="twitter:title" content="Sun Code Conventions: Padrões Java, Legibilidade e Clean Code · TreScout">
+<meta name="twitter:description" content="Conheça as convenções de código da Sun para Java (1999): nomenclatura CamelCase, limite de 80 colunas, indentação e manutenção de software.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
@@ -55,13 +55,30 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/pt/dictionary/">← Glossário</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-09-01">Última atualização: 1 de setembro de 2026</time></div>
-<h1 class="disc-title">O que é <span class="disc-accent">Sun Code Conventions</span>?</h1>
-<p class="disc-lead">Um conjunto de padrões recomendados para serem seguidos na escrita do código, criado pela empresa que desenvolveu a linguagem Java.</p>
-<section class="disc-sec"><h2>Definição</h2><p>Um conjunto de padrões recomendados para serem seguidos na escrita do código, criado pela empresa que desenvolveu a linguagem Java.</p></section>
-<section class="disc-sec"><h2>Ferramentas relacionadas</h2><div class="dict-related"><a href="/pt/discover/checkstyle/">Checkstyle</a></div></section>
+
+<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-09-20">Última atualização: 20 de setembro de 2026</time></div>
+
+<h1 class="disc-title">Sun Code Conventions <span class='disc-accent'>Padrões Java, legibilidade e manutenção de código</span></h1>
+
+<p class="disc-lead">As Sun Code Conventions for the Java Programming Language, publicadas pela Sun Microsystems em 1999, formam o documento histórico que padronizou convenções de nomenclatura e legibilidade na programação corporativa.</p>
+
+<section class="disc-sec"><h2>Etimologia e o Legado da Engenharia de Software</h2><p>Lançado em 1999 pela Sun Microsystems, o documento partiu de uma premissa clássica da engenharia de software : <strong>80% do custo total de um software decorre de sua manutenção posterior</strong>, e o código é lido muito mais vezes do que é escrito.</p></section>
+
+<section class="disc-sec"><h2>Padrões Técnicos e Estrutura das Diretrizes</h2><p>O guia definiu normas de estilo rigorosas :</p><ul><li><strong>Padrões de Nomenclatura:</strong> Consolidação do CamelCase (<code>PascalCase</code> para classes, <code>camelCase</code> para métodos e variáveis, e caixa alta <code>UPPER_SNAKE_CASE</code> para constantes).</li><li><strong>Estrutura de Arquivos:</strong> Sequência obrigatória de declaração de pacotes, importações, atributos, construtores e métodos.</li><li><strong>Indentação e Margens:</strong> Uso de 4 espaços para indentação e teto de 80 colunas por linha (padrão de monitores da década de 1990).</li><li><strong>Estilo de Chaves:</strong> Padrão K&R, com a chave de abertura na mesma linha da instrução de controle.</li></ul></section>
+
+<section class="disc-sec"><h2>Dimensão Sociológica: Disciplina Coletiva e Propriedade do Código</h2><p>Antes da Sun, cada engenheiro programava com preferências pessoais conflitantes. A convenção provou que uma estética de código uniforme reduz o atrito em revisões de código e consolida a autoria coletiva do software na empresa.</p></section>
+
+<section class="disc-sec"><h2>Erros Históricos e Práticas Contemporâneas</h2><p>A evolução do maquinário moderno redimensionou certas imposições :</p><ul><li><strong>Apego Cego às 80 Colunas:</strong> Em monitores widescreen de alta resolução, equipes atuais adotam margens de 100 a 120 caracteres sem comprometer a leitura.</li><li><strong>Formatação Manual Obsoleta:</strong> Ferramentas modernas de automação (como Spotless e Prettier) cuidam da formatação automaticamente nos hooks do Git sem discussões humanas.</li></ul></section>
+
+<div class="dict-analogy">As Sun Code Conventions funcionam como as leis de trânsito para a engenharia de software : todos concordam em circular pela mesma faixa e respeitar a sinalização para que o tráfego flua sem colisões.</div>
+
+<section class="disc-sec"><h2>Perguntas frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">O que foram as Sun Code Conventions?</p><p class="dict-faq-a">Foi o primeiro guia oficial amplamente adotado que regulamentou a formatação e a estrutura visual de programas escritos em Java.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Por que a Sun fixou o limite de linha em 80 caracteres?</p><p class="dict-faq-a">Porque essa era a largura padrão dos monitores de terminal e relatórios impressos na década de 1990.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Essas diretrizes de 1999 ainda valem hoje?</p><p class="dict-faq-a">Seus padrões de nomes e convenções de blocos continuam como a base do Java atual, embora guias modernos como o do Google tenham atualizado o tamanho das linhas.</p></div></div></section>
+
+<section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/google-java-style-guide/">Google Java Style Guide</a><a href="/pt/dictionary/code-snippets/">Code Snippets</a><a href="/pt/dictionary/refactoring/">Refactoring</a><a href="/pt/dictionary/qa/">QA</a><a href="/pt/dictionary/syntax/">Syntax</a></div></section>
+
 <aside class="disc-cta"><p><strong>Explore ferramentas relacionadas e relatórios diários.</strong> Novos termos e ferramentas surgem todos os dias · junte-se ao acesso antecipado da TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-pt" data-page-type="dictionary" data-content-slug="sun-code-conventions" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Seu e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Acesso antecipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Li o <a href="/pt/privacy.html" target="_blank" rel="noopener">aviso de privacidade</a> e concordo com o tratamento do meu e-mail para esta finalidade.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/pt/dictionary/">Todos os termos →</a></aside>
-<p class="disc-disclaimer">Esta explicação foi escrita em linguagem simples para a TreScout e <strong>traduzida automaticamente</strong> do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/sun-code-conventions/">Ler em turco →</a></p>
+
+<div class="dict-disclaimer">Esta explicação foi escrita em linguagem simples para a TreScout e <strong>traduzida automaticamente</strong> do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/sun-code-conventions/">Ler em turco →</a></div>
 </article>
 </main>
 <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">A TreScout busca, resume e entrega. Você só precisa ler.</p></div><div class="footer-col"><div class="footer-col-title">Produto</div><ul><li><a href="/pt/discover/">Descobrir</a></li><li><a href="/pt/dictionary/">Glossário</a></li><li><a href="/pt/reports/">Arquivo de relatórios</a></li><li><a href="/pt/compare/rss-vs-ai/">Comparar</a></li><li><a href="/pt/#top">Acesso antecipado</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Contato</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/pt/privacy.html" target="_blank" rel="noopener">Aviso de privacidade</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Redes</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Todos os direitos reservados.</span></div></div></footer>

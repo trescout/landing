@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>¿Qué es Self-hosted? · Glosario · TreScout</title>
-<meta name="description" content="Aloja un software en su propia computadora o servidor dedicado en lugar de en un servicio en la nube de terceros.">
+<title>Self-Hosted: Homelabs, Repatriación de la Nube y Copias 3-2-1 · TreScout</title>
+<meta name="description" content="Conozca el universo Self-Hosted: combate a la fatiga de SaaS, arquitectura de homelabs, despliegue con Docker y regla de copia de seguridad 3-2-1.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/es/dictionary/self-hosted/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/self-hosted/">
@@ -15,8 +15,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/self-hosted/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/self-hosted/">
 <link rel="alternate" type="text/markdown" href="/es/dictionary/self-hosted.md">
-<meta property="og:title" content="¿Qué es Self-hosted?">
-<meta property="og:description" content="Aloja un software en su propia computadora o servidor dedicado en lugar de en un servicio en la nube de terceros.">
+<meta property="og:title" content="Self-Hosted: Homelabs, Repatriación de la Nube y Copias 3-2-1 · TreScout">
+<meta property="og:description" content="Conozca el universo Self-Hosted: combate a la fatiga de SaaS, arquitectura de homelabs, despliegue con Docker y regla de copia de seguridad 3-2-1.">
 <meta property="og:url" content="https://trescout.com/es/dictionary/self-hosted/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="es_ES">
@@ -26,8 +26,8 @@
 <meta property="og:image:alt" content="¿Qué es Self-hosted?">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="¿Qué es Self-hosted?">
-<meta name="twitter:description" content="Aloja un software en su propia computadora o servidor dedicado en lugar de en un servicio en la nube de terceros.">
+<meta name="twitter:title" content="Self-Hosted: Homelabs, Repatriación de la Nube y Copias 3-2-1 · TreScout">
+<meta name="twitter:description" content="Conozca el universo Self-Hosted: combate a la fatiga de SaaS, arquitectura de homelabs, despliegue con Docker y regla de copia de seguridad 3-2-1.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
@@ -55,19 +55,36 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/es/dictionary/">← Glosario</a>
-<div class="disc-top"><span class="disc-eyebrow">Glosario · Dev</span><time class="dict-time" datetime="2026-06-26">Última actualización: 26 de junio de 2026</time></div>
-<h1 class="disc-title">¿Qué es <span class="disc-accent">Self-hosted</span>?</h1>
-<p class="disc-lead">Aloja un software en su propia computadora o servidor dedicado en lugar de en un servicio en la nube de terceros.</p>
-<section class="disc-sec"><h2>Definición</h2><p>El enfoque autohospedado le brinda control total de sus datos. Dado que ejecuta el software en su propio hardware, no depende de los servidores de una empresa externa. Esto proporciona un control total, especialmente en lo que respecta a cuestiones de privacidad y seguridad.</p></section>
-<div class="dict-analogy"><strong>Analogía:</strong> Es como construir tu propia casa y colocar allí todas tus pertenencias en lugar de quedarte en un hotel; Tienes el control total.</div>
-<section class="disc-sec"><h2>Cómo funciona</h2><p>Descargue el código fuente o el archivo de instalación del software que desee. Prepare un servidor o computadora local e instale y ejecute el software allí. Realice las actualizaciones y el mantenimiento usted mismo.</p></section>
-<section class="disc-sec"><h2>Dónde se usa</h2><p>Se prefiere el almacenamiento personal en la nube en todos los proyectos que requieren privacidad y modelos especiales de inteligencia artificial.</p></section>
-<section class="disc-sec"><h2>Suele confundirse con</h2><p>No confundir con los servicios en la nube; En la nube alquilas el ordenador de otra persona, en el alojamiento propio utilizas un área bajo tu propio control.</p></section>
-<section class="disc-sec"><h2>Preguntas frecuentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">¿Requiere conocimientos técnicos?</p><p class="dict-faq-a">Sí, es posible que se requieran conocimientos básicos de administración de sistemas para gestionar los procesos de instalación y mantenimiento.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Es más seguro?</p><p class="dict-faq-a">Es más seguro en términos de privacidad de datos, pero es enteramente su responsabilidad garantizar la seguridad.</p></div></div></section>
-<section class="disc-sec"><h2>Términos relacionados</h2><div class="dict-related"><a href="/es/dictionary/self-hosting/">Self-hosting</a><a href="/es/dictionary/open-source/">Open Source</a><a href="/es/dictionary/offline/">Offline</a></div></section>
+
+<div class="disc-top"><span class="disc-eyebrow">Glosario · Dev</span><time class="dict-time" datetime="2026-09-19">Última actualización: 19 de septiembre de 2026</time></div>
+
+<h1 class="disc-title">Self-Hosted <span class='disc-accent'>Homelabs, repatriación de la nube e infraestructura propia</span></h1>
+
+<p class="disc-lead">Self-hosted (autoalojamiento) es la práctica técnica de instalar, configurar y operar servicios informáticos y aplicaciones web en servidores físicos propios en lugar de contratar servicios comerciales SaaS.</p>
+
+<section class="disc-sec"><h2>Etimología y Fundamento Conceptual</h2><p>El vocablo anglosajón <em>self-hosted</em> sintetiza autonomía e infraestructura de alojamiento. En informática representa la emancipación digital : mantener el control absoluto sobre los datos, sistemas operativos y aplicaciones sin ataduras con proveedores comerciales.</p></section>
+
+<section class="disc-sec"><h2>1. De la Saturación de SaaS a la Repatriación de la Nube</h2><p>El entusiasmo por el software por suscripción ha derivado en costes mensuales imprevistos y dependencia técnica. Inspirada por empresas como Basecamp, la <strong>repatriación de la nube</strong> promueve devolver cargas de trabajo estables a servidores dedicados propios para ahorrar costes notables.</p></section>
+
+<section class="disc-sec"><h2>2. Arquitectura de Hardware y la Cultura de Homelabs</h2><p>Los profesionales despliegan sus servicios sobre diversos equipos :</p><ul><li><strong>Microordenadores de Bajo Consumo:</strong> Dispositivos Raspberry Pi y mini PCs compactos (Intel N100) con consumos inferiores a 15 vatios.</li><li><strong>Servidores de Segunda Mano:</strong> Servidores en rack reutilizados con memorias ECC y discos redundantes para entornos de virtualización avanzada.</li><li><strong>Hipervisores Base:</strong> Distribuciones como Proxmox VE y TrueNAS orientadas a levantar contenedores y máquinas virtuales con solidez.</li></ul></section>
+
+<section class="disc-sec"><h2>3. El Ecosistema de Software para Autoalojamiento</h2><p>La generalización de los contenedores ha transformado el mantenimiento :</p><ul><li><strong>Contenedores con Docker:</strong> Automatización declarativa mediante ficheros Docker Compose que orquestan servicios en pocos segundos.</li><li><strong>Proxies Inversos:</strong> Servidores como Nginx Proxy Manager o Traefik que tramitan certificados TLS gratuitos de Let's Encrypt al vuelo.</li><li><strong>Redes Privadas Virtuales:</strong> Soluciones seguras como WireGuard o Tailscale para conectar dispositivos remotos sin abrir puertos inseguros en el router.</li></ul></section>
+
+<section class="disc-sec"><h2>4. Aplicaciones Libres Populares para Autoalojar</h2><p>El código abierto brinda alternativas completas para las necesidades corporativas :</p><ul><li><strong>Almacenamiento y Documentos:</strong> Nextcloud para archivos colaborativos, Immich para imágenes y Vaultwarden para contraseñas.</li><li><strong>Servidores Multimedia:</strong> Jellyfin y Plex para disfrutar de series y películas en red doméstica.</li><li><strong>Domótica Integrada:</strong> Home Assistant administrando la vivienda inteligente con procesamiento estrictamente local.</li></ul></section>
+
+<section class="disc-sec"><h2>5. Obligaciones Ineludibles: La Regla de Copia 3-2-1</h2><p>Ser el dueño del servidor exige protegerse contra posibles accidentes físicos :</p><ul><li><strong>La Estrategia 3-2-1:</strong> Disponer de <strong>3</strong> copias de los datos en <strong>2</strong> soportes de almacenamiento diferentes, guardando <strong>1</strong> copia en una ubicación exterior.</li><li><strong>Comprobación Periódica:</strong> Una copia de seguridad que no se prueba restaurando datos periódicamente no ofrece garantías reales.</li></ul></section>
+
+<div class="dict-analogy">Usar SaaS es como alquilar una habitación donde el dueño puede subirte el precio o cambiarte las llaves cuando quiera; autoalojar es ser propietario de tu propia casa: te encargas de la fontanería y las goteras, pero disfrutas de total libertad y privacidad.</div>
+
+<section class="disc-sec"><h2>Preguntas frecuentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">¿Qué significa la expresión self-hosted?</p><p class="dict-faq-a">Es el acto de poner en marcha y gestionar programas informáticos en servidores propios en vez de depender de servicios de terceros en la nube.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿En qué difiere Local de Self-Hosted?</p><p class="dict-faq-a">Local se ejecuta directamente en el ordenador que estás manejando ahora; self-hosted opera en un servidor dedicado encendido de forma continuada en red.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Cómo conectarse a los servicios de casa de forma segura?</p><p class="dict-faq-a">Mediante redes privadas virtuales como Tailscale o WireGuard que crean canales cifrados punto a punto sin abrir puertos públicos.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿En qué consiste la regla de copia de seguridad 3-2-1?</p><p class="dict-faq-a">Guardar 3 copias de la información en 2 tipos de almacenamiento distintos, dejando 1 de ellas fuera de las instalaciones principales.</p></div></div></section>
+
+<section class="disc-sec"><h2>Términos relacionados</h2><div class="dict-related"><a href="/es/dictionary/local/">Local</a><a href="/es/dictionary/offline/">Offline</a><a href="/es/dictionary/open-source/">Open Source</a><a href="/es/dictionary/deployment/">Deployment</a></div></section>
+
 <section class="disc-sec"><h2>Herramientas relacionadas</h2><div class="dict-related"><a href="/es/discover/immich/">Immich</a><a href="/es/discover/chatwoot/">Chatwoot</a><a href="/es/discover/open-generative-ai/">Open-Generative-AI</a><a href="/es/discover/openwa/">OpenWA</a><a href="/es/discover/openship/">Openship</a><a href="/es/discover/instatic/">Instatic</a><a href="/es/discover/trek/">TREK</a><a href="/es/discover/celld/">Celld</a></div></section>
+
 <aside class="disc-cta"><p><strong>Descubra herramientas relacionadas e informes diarios.</strong> Cada día surgen nuevos términos y herramientas · únase al acceso anticipado de TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-es" data-page-type="dictionary" data-content-slug="self-hosted" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Su correo electrónico" autocomplete="email" required><button class="btn btn-primary" type="submit">Acceso anticipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>He leído el <a href="/es/privacy.html" target="_blank" rel="noopener">aviso de privacidad</a> y acepto que mi correo se trate con esta finalidad.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/es/dictionary/">Todos los términos →</a></aside>
-<p class="disc-disclaimer">Esta explicación se redactó en lenguaje sencillo para TreScout y se <strong>tradujo automáticamente</strong> del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/self-hosted/">Leer en turco →</a></p>
+
+<div class="dict-disclaimer">Esta explicación se redactó en lenguaje llano para TreScout y se <strong>tradujo automáticamente</strong> a partir del original en turco · la versión en turco es la que prevalece. Si detecta algún error o carencia, escriba a <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/self-hosted/">Leer en turco →</a></div>
 </article>
 </main>
 <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">TreScout rastrea, resume y entrega. Usted solo lee.</p></div><div class="footer-col"><div class="footer-col-title">Producto</div><ul><li><a href="/es/discover/">Descubrir</a></li><li><a href="/es/dictionary/">Glosario</a></li><li><a href="/es/reports/">Archivo de informes</a></li><li><a href="/es/compare/rss-vs-ai/">Comparar</a></li><li><a href="/es/#top">Acceso anticipado</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Contacto</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/es/privacy.html" target="_blank" rel="noopener">Aviso de privacidad</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Redes</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Todos los derechos reservados.</span></div></div></footer>

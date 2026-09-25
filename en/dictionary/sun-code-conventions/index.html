@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>What is Sun Code Conventions? · Dictionary · TreScout</title>
-<meta name="description" content="A set of standards that are recommended to be followed when writing code, created by the company that developed the Java language.">
+<title>Sun Code Conventions: Java Standards, Readability, and Clean Code · TreScout</title>
+<meta name="description" content="Discover the 1999 Sun Code Conventions for the Java Programming Language: naming conventions, 80-character margins, indentation, and software maintenance.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/en/dictionary/sun-code-conventions/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/sun-code-conventions/">
@@ -15,8 +15,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/sun-code-conventions/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/sun-code-conventions/">
 <link rel="alternate" type="text/markdown" href="/en/dictionary/sun-code-conventions.md">
-<meta property="og:title" content="What is Sun Code Conventions?">
-<meta property="og:description" content="A set of standards that are recommended to be followed when writing code, created by the company that developed the Java language.">
+<meta property="og:title" content="Sun Code Conventions: Java Standards, Readability, and Clean Code · TreScout">
+<meta property="og:description" content="Discover the 1999 Sun Code Conventions for the Java Programming Language: naming conventions, 80-character margins, indentation, and software maintenance.">
 <meta property="og:url" content="https://trescout.com/en/dictionary/sun-code-conventions/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
@@ -26,8 +26,8 @@
 <meta property="og:image:alt" content="What is Sun Code Conventions?">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="What is Sun Code Conventions?">
-<meta name="twitter:description" content="A set of standards that are recommended to be followed when writing code, created by the company that developed the Java language.">
+<meta name="twitter:title" content="Sun Code Conventions: Java Standards, Readability, and Clean Code · TreScout">
+<meta name="twitter:description" content="Discover the 1999 Sun Code Conventions for the Java Programming Language: naming conventions, 80-character margins, indentation, and software maintenance.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
@@ -55,13 +55,30 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/en/dictionary/">← Dictionary</a>
-<div class="disc-top"><span class="disc-eyebrow">Dictionary · Dev</span><time class="dict-time" datetime="2026-09-01">Last updated: September 1, 2026</time></div>
-<h1 class="disc-title">What is <span class="disc-accent">Sun Code Conventions</span>?</h1>
-<p class="disc-lead">A set of standards that are recommended to be followed when writing code, created by the company that developed the Java language.</p>
-<section class="disc-sec"><h2>Overview</h2><p>A set of standards that are recommended to be followed when writing code, created by the company that developed the Java language.</p></section>
-<section class="disc-sec"><h2>Related tools</h2><div class="dict-related"><a href="/en/discover/checkstyle/">Checkstyle</a></div></section>
+
+<div class="disc-top"><span class="disc-eyebrow">Dictionary · Dev</span><time class="dict-time" datetime="2026-09-20">Last updated: September 20, 2026</time></div>
+
+<h1 class="disc-title">Sun Code Conventions <span class='disc-accent'>Java standards, code readability, and maintenance</span></h1>
+
+<p class="disc-lead">The Sun Code Conventions for the Java Programming Language, published by Sun Microsystems in 1999, is the foundational coding standards document that established universal naming, formatting, and structural paradigms for modern object-oriented software engineering.</p>
+
+<section class="disc-sec"><h2>Etymology and Software Engineering Heritage</h2><p>Published in 1999 under the authorship of Sun Microsystems, the Sun Code Conventions codified an essential truth of software economics: <strong>80% of the lifetime cost of software goes to maintenance</strong>, and code is read far more frequently than it is written. Establishing strict conventions turned disparate codebases into readable, coherent enterprise systems.</p></section>
+
+<section class="disc-sec"><h2>Technical Standards and Document Anatomy</h2><p>The convention document specified unambiguous formatting and structural rules:</p><ul><li><strong>Naming Conventions:</strong> CamelCase conventions (<code>PascalCase</code> for class names, <code>camelCase</code> for methods and variables, and <code>UPPER_SNAKE_CASE</code> for constants).</li><li><strong>File Layout & Ordering:</strong> Standardized declaration order (package statement, imports, class declarations, fields, constructors, methods).</li><li><strong>Indentation & Margins:</strong> 4-space indentation and an 80-character maximum line length (tailored to standard terminal screens and printer printouts of the era).</li><li><strong>Brace Placement:</strong> The &quot;Kernighan & Ritchie&quot; (K&R) brace style with opening braces on the same line as statements.</li></ul></section>
+
+<section class="disc-sec"><h2>Sociological Dimension: Collective Discipline and Code Ownership</h2><p>Before Sun's conventions, developers wrote code according to idiosyncratic personal preferences. Sun demonstrated that shared stylistic conventions eliminate cognitive friction during code reviews, dismantle individual ego in team settings, and treat source code as collective team infrastructure.</p></section>
+
+<section class="disc-sec"><h2>Common Mistakes and Historical Pitfalls</h2><p>Modern engineers should understand the context of historical guidelines:</p><ul><li><strong>Dogmatic Adherence to the 80-Character Limit:</strong> While sensible on 1990s VT100 terminals, modern high-resolution displays often prefer 100 or 120-character margins (as adopted by Google and modern linters).</li><li><strong>Treating Formatting as a Manual Task:</strong> Today, automated formatters like Prettier, Spotless, and rustfmt format code automatically during git pre-commit hooks, rendering manual style debates obsolete.</li></ul></section>
+
+<div class="dict-analogy">Sun Code Conventions is like the rules of road traffic for software: whether driving a sports car or a delivery van, everyone agrees to drive on the same side of the road and respect identical signals, preventing chaos and collisions.</div>
+
+<section class="disc-sec"><h2>Frequently asked questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">What were the Sun Code Conventions?</p><p class="dict-faq-a">They were the official coding standards established by Sun Microsystems in 1999 that standardized Java naming, indentation, file structure, and documentation.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Why did Sun mandate an 80-character line length?</p><p class="dict-faq-a">Because in the 1990s, computer terminals and documentation printouts were restricted to 80 monospaced columns.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Are Sun's 1999 conventions still used today?</p><p class="dict-faq-a">While superseded by modern guides like the Google Java Style Guide, virtually all modern Java codebases still follow Sun's core naming and indentation foundations.</p></div></div></section>
+
+<section class="disc-sec"><h2>Related terms</h2><div class="dict-related"><a href="/en/dictionary/google-java-style-guide/">Google Java Style Guide</a><a href="/en/dictionary/code-snippets/">Code Snippets</a><a href="/en/dictionary/refactoring/">Refactoring</a><a href="/en/dictionary/qa/">QA</a><a href="/en/dictionary/syntax/">Syntax</a></div></section>
+
 <aside class="disc-cta"><p><strong>Explore related tools and daily reports.</strong> Stay on top of emerging tech terms and tools. Receive TreScout's daily summary in your inbox.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-en" data-page-type="dictionary" data-content-slug="sun-code-conventions" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/dictionary/">All terms →</a></aside>
-<p class="disc-disclaimer">This explanation was written in plain language for TreScout and <strong>machine-translated</strong> from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/sun-code-conventions/">Read in Turkish →</a></p>
+
+<div class="dict-disclaimer">This explanation was written in plain language for TreScout and <strong>machine-translated</strong> from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/sun-code-conventions/">Read in Turkish →</a></div>
 </article>
 </main>
 <footer>
