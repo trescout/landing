@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Qu'est-ce que Google Java Style Guide ? · Glossaire · TreScout</title>
-<meta name="description" content="Un ensemble de règles déterminées par Google utilisées pour garantir que les codes écrits en Java sont ordonnés et lisibles.">
+<meta name="description" content="Le Google Java Style Guide est l&#x27;ensemble officiel de normes de codage défini par Google pour structurer et maintenir un code Java lisible.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/fr/dictionary/google-java-style-guide/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/google-java-style-guide/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/google-java-style-guide/">
 <link rel="alternate" type="text/markdown" href="/fr/dictionary/google-java-style-guide.md">
 <meta property="og:title" content="Qu'est-ce que Google Java Style Guide ?">
-<meta property="og:description" content="Un ensemble de règles déterminées par Google utilisées pour garantir que les codes écrits en Java sont ordonnés et lisibles.">
+<meta property="og:description" content="Le Google Java Style Guide est l&#x27;ensemble officiel de normes de codage défini par Google pour structurer et maintenir un code Java lisible.">
 <meta property="og:url" content="https://trescout.com/fr/dictionary/google-java-style-guide/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="fr_FR">
@@ -27,7 +27,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Qu&#39;est-ce que Google Java Style Guide ?">
-<meta name="twitter:description" content="Un ensemble de règles déterminées par Google utilisées pour garantir que les codes écrits en Java sont ordonnés et lisibles.">
+<meta name="twitter:description" content="Le Google Java Style Guide est l&#x27;ensemble officiel de normes de codage défini par Google pour structurer et maintenir un code Java lisible.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
@@ -50,18 +50,52 @@
 <link rel="stylesheet" href="/assets/dictionary.css">
 </head>
 <body>
-<a class="skip-link" href="#main">Aller au contenu principal</a>
+<a class="skip-link" href="#main">Skip</a>
 <nav><div class="container nav-inner"><a class="logo-link" href="/fr/" aria-label="TreScout"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/fr/discover/" class="btn btn-ghost">Découvrir</a><a href="/fr/dictionary/" class="btn btn-ghost">Glossaire</a><a href="/fr/reports/" class="btn btn-ghost">Archive des rapports</a><a href="/fr/compare/rss-vs-ai/" class="btn btn-ghost">Comparer</a><a href="/dictionary/google-java-style-guide/" class="btn btn-ghost" aria-label="TR">TR</a><a href="/en/dictionary/google-java-style-guide/" class="btn btn-ghost" aria-label="EN">EN</a><a href="/pt/dictionary/google-java-style-guide/" class="btn btn-ghost" aria-label="PT">PT</a><a href="/es/dictionary/google-java-style-guide/" class="btn btn-ghost" aria-label="ES">ES</a><a href="/de/dictionary/google-java-style-guide/" class="btn btn-ghost" aria-label="DE">DE</a></div></div></nav>
 <main id="main">
 <article class="disc">
-<a class="disc-back" href="/fr/dictionary/">← Glossaire</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossaire · Dev</span><time class="dict-time" datetime="2026-09-01">Dernière mise à jour : 1 septembre 2026</time></div>
-<h1 class="disc-title">Qu'est-ce que <span class="disc-accent">Google Java Style Guide</span> ?</h1>
-<p class="disc-lead">Un ensemble de règles déterminées par Google utilisées pour garantir que les codes écrits en Java sont ordonnés et lisibles.</p>
-<section class="disc-sec"><h2>Définition</h2><p>Un ensemble de règles déterminées par Google utilisées pour garantir que les codes écrits en Java sont ordonnés et lisibles.</p></section>
-<section class="disc-sec"><h2>Outils liés</h2><div class="dict-related"><a href="/fr/discover/checkstyle/">Checkstyle</a></div></section>
+<a class="disc-back" href="/fr/dictionary/">← Dictionnaire</a>
+<div class="disc-top"><span class="disc-eyebrow">Dictionnaire · Dév</span><time class="dict-time" datetime="2026-09-20">Dernière mise à jour : 20 septembre 2026</time></div>
+<h1 class="disc-title">Qu'est-ce que le <span class="disc-accent">Google Java Style Guide</span> ?</h1>
+
+<p class="disc-lead">Le Google Java Style Guide est un ensemble officiel de normes de codage établi par Google pour garantir la lisibilité, la cohérence et la maintenabilité des projets Java d'entreprise et open-source.</p>
+
+<section class="disc-sec">
+<h2>Étymologie et standards de code d'entreprise</h2>
+<p>Le Google Java Style Guide a été conçu pour permettre à des dizaines de milliers d'ingénieurs de Google de collaborer sans conflit sur des bases de code partagées monumentales. Depuis sa diffusion publique, il s'est imposé comme un standard de référence mondial dans l'écosystème Java.</p><p>Le guide standardise l'agencement des fichiers sources, les déclarations de paquetages, l'indentation, la nomenclature des classes et variables, la mise en page des blocs Javadoc et la gestion des exceptions. En éliminant les débats stériles lors des revues de code, il libère les développeurs pour qu'ils se concentrent sur la logique métier.</p>
+</section>
+
+<div class="dict-analogy">Imaginez une autoroute sans délimitation de voies ni feux de signalisation où chaque véhicule changerait de trajectoire à l'improviste : l'accident est garanti. Un guide de style joue le rôle du marquage au sol. Quand des milliers d'ingénieurs interviennent sur le même projet, nul n'entre en collision dès lors que les conventions sont suivies.</div>
+
+<section class="disc-sec">
+<h2>Profondeur technique et règles fondamentales</h2>
+<p>- <strong>Structure et indentation:</strong> Fichiers encodés en UTF-8. Tabulations strictement prohibées ; chaque niveau de bloc compte exactement deux (2) espaces. Largeur maximale de 100 caractères, accolades en fin de ligne selon le style K&R.</p><p>- <strong>Imports stricts:</strong> Les imports avec jokers (<code>import java.util.*;</code>) sont interdits. Chaque classe est importée individuellement et classée par ordre alphabétique.</p><p>- <strong>Conventions de nommage:</strong> Classes en <code>UpperCamelCase</code>, méthodes et variables en <code>lowerCamelCase</code>, constantes en <code>CONSTANT_CASE</code>. Les acronymes ne conservent que leur initiale en majuscule (<code>XmlHttpRequest</code>).</p><p>- <strong>Programmation défensive et automatisation:</strong> Annotation <code>@Override</code> obligatoire. Blocs catch vides interdits sans commentaire justificatif explicite. Contrôlé automatiquement par <code>google-java-format</code>, Checkstyle et Spotless.</p><p>- <strong>Standards Javadoc:</strong> Tout membre public exige une documentation Javadoc rigoureuse avec balises HTML soignées et étiquettes <code>@param</code>, <code>@return</code> et <code>@throws</code> complètes.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Aspect sociologique : Lisibilité et efficacité d'équipe</h2>
+<p>Les études en génie logiciel démontrent qu'un développeur passe plus de 80 % de son temps à relire du code existant plutôt qu'à en écrire. La lisibilité prime donc largement sur la facilité de frappe.</p><p>Le Google Java Style Guide invite les ingénieurs à mettre de côté leurs préférences esthétiques individuelles au bénéfice de l'efficacité collective. Pour les dépôts open-source, il constitue un contrat social garantissant une harmonie de code instantanée.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Erreurs fréquentes et idées reçues</h2>
+<p>- <strong>Formatage manuel:</strong> Compter les espaces à la main fait perdre un temps précieux ; il convient d'installer le greffon <code>google-java-format</code> dans son IDE et d'activer le formatage à l'enregistrement.</p><p>- <strong>Désactiver les règles en CI/CD:</strong> Désactiver Checkstyle sous la pression des délais engendre une dette technique grandissante.</p><p>- <strong>Commentaires redondants:</strong> Le code doit s'expliquer de lui-même ; commenter des accesseurs élémentaires sans valeur ajoutée est inutile.</p>
+</section>
+
+<section class="disc-sec">
+<h2>Questions fréquentes</h2>
+<div class="dict-faq">
+<div class="dict-faq-item"><p class="dict-faq-q">Pourquoi le guide utilise-t-il 2 espaces au lieu de 4 ?</p><p class="dict-faq-a">L'indentation à deux espaces empêche le code fortement imbriqué (lambdas, classes anonymes, builders) de déborder de la limite des 100 caractères.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Comment automatiser le style Google Java dans ses projets ?</p><p class="dict-faq-a">L'outil 'google-java-format' s'intègre directement aux IDE (IntelliJ, Eclipse, VS Code) ou s'automatise via le plugin Spotless dans Maven et Gradle.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Quelle différence avec les conventions historiques de Sun/Oracle ?</p><p class="dict-faq-a">Les conventions Sun utilisaient 4 espaces et une limite de 80 colonnes, tandis que Google impose 2 espaces, 100 colonnes et une stricte interdiction des imports génériques.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Checkstyle est-il identique au Google Java Style Guide ?</p><p class="dict-faq-a">Non. Le guide est la norme documentaire, alors que Checkstyle est l'analyseur statique qui valide le respect de ces règles via un fichier XML.</p></div>
+</div>
+</section>
+
+<section class="disc-sec">
+<h2>Termes associés</h2>
+<div class="dict-related"><a href="/fr/dictionary/sun-code-conventions/">Sun Code Conventions</a><a href="/fr/dictionary/code-snippets/">Code Snippets</a><a href="/fr/dictionary/refactoring/">Refactoring</a><a href="/fr/dictionary/qa/">QA</a><a href="/fr/dictionary/production-pipeline/">Production Pipeline</a><a href="/fr/dictionary/tdd/">TDD</a></div>
+</section>
+
 <aside class="disc-cta"><p><strong>Explorez les outils associés et les rapports quotidiens.</strong> Suivez les nouveaux termes et outils technologiques chaque matin dans votre boîte de réception.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-fr" data-page-type="dictionary" data-content-slug="google-java-style-guide" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Votre adresse e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Accès anticipé</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>J'ai lu <a href="/fr/privacy.html" target="_blank" rel="noopener">la notice de confidentialité</a> et je consens au traitement de mon adresse e-mail à cette fin.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/fr/dictionary/">Tous les termes →</a></aside>
-<p class="disc-disclaimer">Cette explication a été rédigée en langage clair pour TreScout puis <strong>traduite automatiquement</strong> depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/google-java-style-guide/">Lire en turc →</a></p>
+<p class="disc-disclaimer">Cette explication a été rédigée dans un langage clair pour TreScout et traduite de l'original turc · la version turque prévaut. <a href="https://trescout.com/dictionary/google-java-style-guide/">Lire en turc →</a></p>
 </article>
 </main>
 <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">TreScout analyse, résume et livre. Vous n'avez qu'à lire.</p></div><div class="footer-col"><div class="footer-col-title">Produit</div><ul><li><a href="/fr/discover/">Découvrir</a></li><li><a href="/fr/dictionary/">Glossaire</a></li><li><a href="/fr/reports/">Archive des rapports</a></li><li><a href="/fr/compare/rss-vs-ai/">Comparer</a></li><li><a href="/fr/#top">Accès anticipé</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Contact</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/fr/privacy.html" target="_blank" rel="noopener">Notice de confidentialité</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Réseaux</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Tous droits réservés.</span></div></div></footer>

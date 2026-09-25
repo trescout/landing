@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Cloudflare Temp Email · Entdecken · TreScout</title>
-<meta name="description" content="This tool, which allows you to create a free temporary email service using the Cloudflare infrastructure, allows you to receive and receive emails…">
+<meta name="description" content="Richten Sie einen kostenlosen, serverlosen und privaten Wegwerf-E-Mail-Dienst auf Cloudflare Workers, Pages und D1 unter eigener Domain ein.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/de/discover/cloudflare-temp-email.md">
 <link rel="canonical" href="https://trescout.com/de/discover/cloudflare-temp-email/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/cloudflare-temp-email/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/cloudflare-temp-email/">
 <meta property="og:title" content="Cloudflare Temp Email">
-<meta property="og:description" content="This tool, which allows you to create a free temporary email service using the Cloudflare infrastructure, allows you to receive and receive emails…">
+<meta property="og:description" content="Richten Sie einen kostenlosen, serverlosen und privaten Wegwerf-E-Mail-Dienst auf Cloudflare Workers, Pages und D1 unter eigener Domain ein.">
 <meta property="og:url" content="https://trescout.com/de/discover/cloudflare-temp-email/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="de_DE">
@@ -27,7 +27,7 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Cloudflare Temp Email">
-<meta name="twitter:description" content="This tool, which allows you to create a free temporary email service using the Cloudflare infrastructure, allows you to receive and receive emails…">
+<meta name="twitter:description" content="Richten Sie einen kostenlosen, serverlosen und privaten Wegwerf-E-Mail-Dienst auf Cloudflare Workers, Pages und D1 unter eigener Domain ein.">
 <meta name="twitter:image" content="https://trescout.com/assets/discover/og/cloudflare-temp-email-de.webp">
 <script type="application/ld+json">
 {
@@ -35,7 +35,7 @@
   "@type": "Article",
   "headline": "Kostenlose temporäre E-Mail auf Cloudflare",
   "inLanguage": "de",
-  "description": "Dieses Tool, das die Erstellung eines kostenlosen temporären E-Mail-Dienstes mithilfe der Cloudflare-Infrastruktur ermöglicht, unterstützt das Senden und Empfangen von E-Mails. Das Projekt bietet Funktionen wie Anhangsverwaltung, IMAP- und SMTP-Protokolle sowie Telegram-Bot-Integration.",
+  "description": "Cloudflare Temp Email ist eine Open-Source-Plattform zur Erstellung eines völlig kostenlosen, serverlosen Wegwerf-E-Mail-Dienstes (Disposable Email) mit eigener Domain über Cloudflare Workers, Pages und D1/KV. Es schützt die Privatsphäre durch Posteingangsverwaltung, Anhangunterstützung, Telegram-Bot-Integration und automatische Datenbereinigung.",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -50,7 +50,8 @@
   "about": {
     "@type": "SoftwareSourceCode",
     "name": "Cloudflare Temp Email",
-    "codeRepository": "https://mail.awsl.uk"
+    "codeRepository": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+    "programmingLanguage": "TypeScript"
   }
 }
 </script>
@@ -59,28 +60,82 @@
 <link rel="stylesheet" href="/assets/discover.css">
 </head>
 <body>
-<a class="skip-link" href="#main">Skip to main content</a>
-<nav><div class="container nav-inner"><a class="logo-link" href="/de/" aria-label="TreScout"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/de/discover/" class="btn btn-ghost">Entdecken</a><a href="/de/dictionary/" class="btn btn-ghost">Glossar</a><a href="/de/reports/" class="btn btn-ghost">Berichtsarchiv</a><a href="/de/compare/rss-vs-ai/" class="btn btn-ghost">Vergleich</a><a href="/discover/cloudflare-temp-email/" class="btn btn-ghost" aria-label="TR">TR</a><a href="/en/discover/cloudflare-temp-email/" class="btn btn-ghost" aria-label="EN">EN</a><a href="/fr/discover/cloudflare-temp-email/" class="btn btn-ghost" aria-label="FR">FR</a><a href="/pt/discover/cloudflare-temp-email/" class="btn btn-ghost" aria-label="PT">PT</a><a href="/es/discover/cloudflare-temp-email/" class="btn btn-ghost" aria-label="ES">ES</a></div></div></nav>
+<a class="skip-link" href="#main">Zum Hauptinhalt springen</a>
+<nav><div class="container nav-inner"><a class="logo-link" href="/de/" aria-label="TreScout Startseite"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/de/discover/" class="btn btn-ghost">Entdecken</a><a href="/de/dictionary/" class="btn btn-ghost">Glossar</a><a href="/de/reports/" class="btn btn-ghost">Berichtsarchiv</a><a href="/compare/rss-vs-ai/" class="btn btn-ghost">Vergleich</a><a href="/discover/cloudflare-temp-email/" class="btn btn-ghost" aria-label="Auf Türkisch wechseln">TR</a><a href="/en/discover/cloudflare-temp-email/" class="btn btn-ghost" aria-label="Switch to English">EN</a><a href="/fr/discover/cloudflare-temp-email/" class="btn btn-ghost" aria-label="Passer au français">FR</a><a href="/pt/discover/cloudflare-temp-email/" class="btn btn-ghost" aria-label="Mudar para português">PT</a><a href="/es/discover/cloudflare-temp-email/" class="btn btn-ghost" aria-label="Cambiar a español">ES</a></div></div></nav>
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/de/discover/">← Entdecken</a>
 <div class="disc-top"><span class="disc-eyebrow">Entdecken · GitHub · Cloudflare Temp Email</span><span class="disc-momentum">↑ +68 heute</span></div>
 <h1 class="disc-title">Kostenlose temporäre E-Mail auf Cloudflare</h1>
-<p class="disc-lead">Dieses Tool, das die Erstellung eines kostenlosen temporären E-Mail-Dienstes mithilfe der Cloudflare-Infrastruktur ermöglicht, unterstützt das Senden und Empfangen von E-Mails. Das Projekt bietet Funktionen wie Anhangsverwaltung, IMAP- und SMTP-Protokolle sowie Telegram-Bot-Integration.</p>
+<p class="disc-lead">Cloudflare Temp Email ist eine Open-Source-Plattform zur Erstellung eines völlig kostenlosen, serverlosen Wegwerf-E-Mail-Dienstes (Disposable Email) mit eigener Domain über Cloudflare Workers, Pages und D1/KV. Es schützt die Privatsphäre durch Posteingangsverwaltung, Anhangunterstützung, Telegram-Bot-Integration und automatische Datenbereinigung.</p>
 <ul class="disc-meta"><li>★ 11.734</li><li>TypeScript</li><li>GitHub Trending · 2026-07-23</li></ul>
-      <section class="disc-sec disc-updates"><h2>Aktualisierungen</h2><ul class="disc-update-list"><li><strong>13. September 2026:</strong> Sterne 11,391 → 11,734, neueste Version v1.12.0 (13. September 2026).</li><li><strong>23. August 2026:</strong> Sterne 11,332 → 11,391, neueste Version v1.11.1 (22. August 2026).</li><li><strong>19. August 2026:</strong> Sterne 11,156 → 11,332, neueste Version v1.11.0 (19. August 2026).</li><li><strong>2. August 2026:</strong> Sterne 10,884 → 11,156, neueste Version v1.10.0 (31. Juli 2026).</li></ul></section>
-      <section class="disc-sec"><h2>Was es bringt</h2><ul class="disc-wins"><li>Kostenfreie Einrichtung mit Cloudflare-Infrastruktur</li><li>Schnelles E-Mail-Parsing basierend auf Rust</li><li>Integration von Telegram-Bot und künstlicher Intelligenz</li></ul></section>
-      <section class="disc-sec"><h2>So fangen Sie an</h2><ul class="disc-links"><li>Offizielle Quelle →</li></ul></section>
-      <section class="disc-sec"><h2>Verwandte Begriffe aus dem Glossar</h2><div class="disc-related"><a href="/de/dictionary/rust/">Rust</a><a href="/de/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
-      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Für wen es gedacht ist</span><span class="disc-fact-v">Es richtet sich an Benutzer, die ihren eigenen temporären E-Mail-Dienst kostenlos und sicher hosten möchten.</span></div><div class="disc-fact"><span class="disc-fact-k">Lizenz</span><span class="disc-fact-v">MIT</span></div></div>
-      <section class="disc-sec"><h2>Links</h2><ul class="disc-links"><li><a href="https://mail.awsl.uk" target="_blank" rel="noopener">GitHub-Repository →</a></li><li><a href="https://trescout.com/discover/cloudflare-temp-email/">Auf Türkisch lesen →</a></li></ul></section>
-<p class="disc-disclaimer">TreScout hat dieses Werkzeug nicht entwickelt · wir haben es in den GitHub-Trends gefunden und stellen es vor. Diese Seite beschreibt das Repository so, wie es am 2026-07-23 war: Die Anzahl der Sterne und unser Text stammen von diesem Tag, das Repository kann sich seitdem geändert haben. Den aktuellen Stand finden Sie über den Link zum Repository. Diese Seite wurde <strong>maschinell übersetzt</strong> aus dem türkischen Original · maßgeblich ist die türkische Fassung.</p>
-<aside class="disc-cta"><p><strong>Erhalten Sie ähnliche Entdeckungen im täglichen Bericht.</strong> TreScout durchsucht täglich GitHub, Hacker News und HuggingFace und fasst das Wesentliche zusammen.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-de" data-page-type="discover" data-content-slug="cloudflare-temp-email" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Ihre E-Mail-Adresse" autocomplete="email" required><button class="btn btn-primary" type="submit">Vorabzugang</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Ich habe den <a href="/de/privacy.html" target="_blank" rel="noopener">Datenschutzhinweis</a> gelesen und bin damit einverstanden, dass meine E-Mail-Adresse zu diesem Zweck verarbeitet wird.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/de/discover/">Alle Entdeckungen →</a></aside>
+      <section class="disc-sec"><h2>Aktualisierungen</h2><ul class="disc-wins"><li><strong>13. September 2026:</strong> Sterne 11.391 → 11.734, neueste Version v1.12.0 (13. September 2026).</li><li><strong>23. August 2026:</strong> Sterne 11.332 → 11.391, neueste Version v1.11.1 (22. August 2026).</li><li><strong>19. August 2026:</strong> Sterne 11.156 → 11.332, neueste Version v1.11.0 (19. August 2026).</li><li><strong>2. August 2026:</strong> Sterne 10.884 → 11.156, neueste Version v1.10.0 (31. Juli 2026).</li></ul></section>
+      <section class="disc-sec"><h2>Was es bringt</h2><ul class="disc-wins"><li><strong>Null Server- und Betriebskosten:</strong> Läuft auf dem großzügigen kostenlosen Kontingent von Cloudflare (100.000 Workers-Anfragen/Tag, kostenloses Email Routing und Pages) ohne dedizierte Servermiete.</li><li><strong>Eigene Domain und unblockierbare Adressen:</strong> Erzeugt Wegwerfadressen unter Ihrer eigenen Domain und umgeht Sperrlisten gängiger öffentlicher Temp-Mail-Anbieter.</li><li><strong>Schnelles E-Mail-Parsing mit Rust und WASM:</strong> Verarbeitet komplexe MIME-, Multipart- und HTML-E-Mails in Millisekunden dank eines in Rust kompilierten WebAssembly-Moduls.</li><li><strong>Telegram-Bot und Sofortbenachrichtigungen:</strong> Erhalten Sie Benachrichtigungen über eingehende E-Mails direkt in Telegram, lesen Sie Nachrichten oder generieren Sie Adressen per Befehl.</li><li><strong>Automatische Bereinigung und sichere Verwaltung:</strong> Löscht abgelaufene E-Mails und Anhänge nach einer definierten Frist automatisch und schützt den Administratorzugriff per Passwort.</li></ul></section>
+      <section class="disc-sec"><h2>Erste Schritte und Bereitstellungsoptionen</h2><p>Für die Bereitstellung sind lediglich ein Cloudflare-Konto und eine über Cloudflare DNS verwaltete Domain erforderlich. Sie können das GitHub-Repository mit einem Klick über Cloudflare Pages anbinden oder die D1-Datenbank und Worker lokal über die Wrangler CLI bereitstellen.</p><ul class="disc-links"><li><a href="https://temp-mail-docs.awsl.uk" target="_blank" rel="noopener">Offizielle Installationsanleitung →</a></li><li><a href="https://mail.awsl.uk" target="_blank" rel="noopener">Live-Demo-Oberfläche →</a></li></ul></section>
+      <section class="disc-sec"><h2>Technische Architektur und Funktionsweise</h2><p>Cloudflare Temp Email eliminiert den Wartungsaufwand herkömmlicher Mailserver (Postfix, Dovecot) durch ein modernes serverloses Design:</p><ul class="disc-wins"><li><strong>Cloudflare Email Routing:</strong> Eingehender MX-Datenverkehr wird von der Cloudflare-Infrastruktur entgegengenommen und über eine Catch-all-Regel an den empfangenden Worker weitergeleitet.</li><li><strong>Edge Worker &amp; Rust WASM-Parser:</strong> Der E-Mail-Datenstrom wird an das optimierte Rust-WASM-Modul übergeben, um Header, Textinhalt, HTML und Anhänge verzögerungsfrei zu trennen.</li><li><strong>Speicherung mit Cloudflare D1 &amp; R2:</strong> E-Mail-Texte und Metadaten werden in der Edge-SQLite-Datenbank Cloudflare D1 gespeichert; Anhänge können optional nach Cloudflare R2 ausgelagert werden.</li><li><strong>Moderne Single-Page-App (SPA):</strong> Die Benutzeroberfläche wird über das globale Edge-CDN von Cloudflare Pages mit minimaler Latenz an Besucher ausgeliefert.</li><li><strong>REST-API &amp; externe Schnittstellen:</strong> Programmierbare Endpunkte ermöglichen automatisierten Tests oder CI/CD-Pipelines die Adressgenerierung und das Auslesen von Verifizierungscodes.</li></ul></section>
+      <section class="disc-sec"><h2>Installation und Bereitstellungsbeispiel</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Wrangler CLI Bereitstellungsschritte</span><button type="button" class="disc-copy" aria-label="Code kopieren">Kopieren</button></div><pre><code># 1. Repository klonen und Abhaengigkeiten installieren
+git clone https://github.com/dreamhunter2333/cloudflare_temp_email.git
+cd cloudflare_temp_email
+pnpm install
+
+# 2. Cloudflare D1-Datenbank anlegen
+npx wrangler d1 create temp_email_db
+
+# 3. Datenbankschema ausfuehren und deployen
+npx wrangler d1 execute temp_email_db --file=./db/schema.sql
+pnpm run deploy</code></pre></div></section>
+      <section class="disc-sec"><h2>Wenn Sie nicht programmieren</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Fügen Sie dies in Ihren KI-Agenten ein (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Eingabeaufforderung kopieren">Kopieren</button></div><p class="disc-ai-text">Ich möchte das Open-Source-Projekt dreamhunter2333/cloudflare_temp_email für temporäre E-Mails mit meiner eigenen Domain auf Cloudflare einrichten. Ich besitze ein Cloudflare-Konto und eine Domain auf Cloudflare DNS. Kannst du mir Schritt für Schritt erklären, wie ich die Email Routing Catch-all-Regeln konfiguriere, die D1-Datenbank erstelle und das Frontend auf Cloudflare Pages veröffentliche? Welche Umgebungsvariablen muss ich hinterlegen, um Benachrichtigungen über einen Telegram-Bot zu erhalten?</p></div></section>
+      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Für wen</span><span class="disc-fact-v">Entwickler, QS-Ingenieure und datenschutzbewusste Anwender, die einen kostenlosen, unblockierbaren Wegwerf-E-Mail-Dienst unter eigener Domain betreiben möchten.</span></div><div class="disc-fact"><span class="disc-fact-k">Lizenz</span><span class="disc-fact-v">MIT (Freie Open-Source-Lizenz)</span></div><div class="disc-fact"><span class="disc-fact-k">Infrastruktur</span><span class="disc-fact-v">Cloudflare Workers, Pages, D1 (SQLite) und Email Routing</span></div><div class="disc-fact"><span class="disc-fact-k">Sprachen &amp; Tools</span><span class="disc-fact-v">TypeScript, Rust (WASM), Vue 3, Wrangler</span></div></div>
+      <section class="disc-sec"><h2>Häufig gestellte Fragen</h2><ul class="disc-wins"><li><strong>Reicht der kostenlose Cloudflare-Tarif für den persönlichen Gebrauch?</strong> Ja. Der kostenlose Tarif umfasst täglich 100.000 Worker-Anfragen sowie freie Kontingente für Email Routing und D1. Für Einzelpersonen und kleine Teams ist ein Überschreiten dieser Grenzen so gut wie ausgeschlossen; der Betrieb bleibt kostenfrei.</li><li><strong>Ist eine eigene Domain zwingend erforderlich?</strong> Ja. Um E-Mails empfangen zu können, benötigen Sie eine auf Cloudflare DNS verwaltete Domain oder Subdomain. Dadurch wird zudem verhindert, dass Ihre Adressen von Webdiensten geblockt werden.</li><li><strong>Werden eingehende E-Mails dauerhaft gespeichert?</strong> Nein, dies ist ein temporärer Dienst. Administratoren können Aufbewahrungsfristen (z. B. 1 Stunde, 24 Stunden oder 7 Tage) definieren; abgelaufene Nachrichten werden automatisch aus dem Speicher entfernt.</li><li><strong>Unterstützt der Dienst das Versenden von Antworten?</strong> Ja. Obwohl Cloudflare Email Routing nur den Empfang übernimmt, unterstützt das Projekt über Schnittstellen zu Resend, Brevo oder externen SMTP-Servern auch das Beantworten und Versenden von E-Mails.</li></ul></section>
+<section class="disc-sec"><h2>Links</h2><ul class="disc-links"><li><a href="https://github.com/dreamhunter2333/cloudflare_temp_email" target="_blank" rel="noopener">GitHub-Repository →</a></li><li><a href="https://trescout.com/discover/cloudflare-temp-email/">Auf Türkisch lesen →</a></li></ul></section>
+<p class="disc-disclaimer">TreScout hat dieses Tool nicht selbst entwickelt · wir haben es in den GitHub-Trends entdeckt und auf Deutsch zusammengefasst. Diese Seite beschreibt den Stand des Repositorys vom 2026-07-23.</p>
+<section class="disc-sec"><h2>Verwandte Begriffe aus dem Glossar</h2><div class="disc-related"><a href="/de/dictionary/self-hosted/">Self-Hosted</a><a href="/de/dictionary/cloud-computing/">Cloud Computing</a><a href="/de/dictionary/digital-privacy/">Digital Privacy</a><a href="/de/dictionary/open-source/">Open Source</a><a href="/de/dictionary/api/">API</a><a href="/de/dictionary/rust/">Rust</a></div></section>
+      <aside class="disc-cta"><p><strong>Entdecken Sie täglich neue Entwickler-Tools mit TreScout.</strong> Wir scannen GitHub, Hacker News und HuggingFace und bereiten alles auf Deutsch auf.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-de" data-page-type="discover" data-content-slug="cloudflare-temp-email" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-Mail-Adresse eingeben" autocomplete="email" required><button class="btn btn-primary" type="submit">Frühzeitiger Zugang</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Ich habe die <a href="/de/privacy.html" target="_blank" rel="noopener">Datenschutzerklärung</a> gelesen und stimme der Verarbeitung zu.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/de/discover/">Alle Entdeckungen →</a></aside>
 </article>
 </main>
-<footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">TreScout durchsucht, fasst zusammen und liefert. Sie lesen nur.</p></div><div class="footer-col"><div class="footer-col-title">Produkt</div><ul><li><a href="/de/discover/">Entdecken</a></li><li><a href="/de/dictionary/">Glossar</a></li><li><a href="/de/reports/">Berichtsarchiv</a></li><li><a href="/de/compare/rss-vs-ai/">Vergleich</a></li><li><a href="/de/#top">Vorabzugang</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Kontakt</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/de/privacy.html" target="_blank" rel="noopener">Datenschutzhinweis</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Netzwerke</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Alle Rechte vorbehalten.</span></div></div></footer>
+<footer>
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand-block">
+        <div class="footer-logo">
+          <svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg>
+          <span>TreScout</span>
+        </div>
+        <p class="footer-tagline">TreScout scannt, fasst zusammen und liefert. Sie lesen einfach.</p>
+      </div>
+      <div class="footer-col">
+        <div class="footer-col-title">Produkt</div>
+        <ul>
+          <li><a href="/de/discover/">Entdecken</a></li>
+          <li><a href="/de/dictionary/">Glossar</a></li>
+          <li><a href="/de/reports/">Berichtsarchiv</a></li>
+          <li><a href="/de/compare/rss-vs-ai/">Vergleich</a></li>
+          <li><a href="/de/#top">Vorabzugang</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <div class="footer-col-title">Kontakt</div>
+        <ul>
+          <li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li>
+          <li><a href="/de/privacy.html" target="_blank" rel="noopener">Datenschutzerklärung</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <div class="footer-col-title">Social</div>
+        <ul>
+          <li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 2026 TreScout · Alle Rechte vorbehalten.</span>
+    </div>
+  </div>
+</footer>
 <script src="/assets/discover.js" defer></script>
 <script src="/assets/subscribe.js" defer></script>
-<script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script><script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script><script src="/assets/telemetry.js" defer></script>
+  <script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>
+  <script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>
+  <script src="/assets/provider-consent.js" defer></script>
 </body>
 </html>
