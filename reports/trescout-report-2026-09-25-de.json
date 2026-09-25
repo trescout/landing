@@ -1,0 +1,933 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-25",
+  "capturedAt": "2026-09-25T09:24:16.415Z",
+  "editorial": "In der Softwarewelt stehen heute die Sicherheit von Open-Source-Ökosystemen und Praktiken des AI Engineering im Vordergrund. Insbesondere der Trend von Entwicklern, eigene Modelle von Grund auf neu zu erstellen, sowie das Interesse an plattformunabhängiger Anwendungsbereitstellung (F-Droid 2.0) ziehen die Aufmerksamkeit von Technologieexperten auf sich.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "summary": "Diese Ressource, die für diejenigen erstellt wurde, die im Bereich AI Engineering bei Null anfangen möchten, erklärt praxisnah die Prozesse der Modellentwicklung mit Python und deren Bereitstellung. Sie bietet einen Lernpfad, der es Softwareentwicklern ermöglicht, ihre eigenen KI-Projekte von Anfang bis Ende aufzubauen.",
+          "meta": "Python · ★ 56.978 · +347 heute",
+          "snapshot": {
+            "sourceId": "rohitg00/ai-engineering-from-scratch",
+            "capturedAt": "2026-09-25T09:24:17.602Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 56978,
+              "engagementCount": 347,
+              "rank": 1,
+              "extra": {
+                "starsToday": 347
+              }
+            }
+          }
+        },
+        {
+          "title": "vectorize-io/hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "summary": "Hindsight bietet eine lernende Speicherschicht (Memory Layer) für KI-Agenten. Diese Open-Source-Bibliothek, die Entscheidungsprozesse von Agenten durch Schlussfolgerungen aus vergangenen Interaktionen verbessert, sorgt dafür, dass Systeme im Laufe der Zeit konsistentere Ergebnisse liefern.",
+          "meta": "Python · ★ 28.397 · +1.668 heute",
+          "snapshot": {
+            "sourceId": "vectorize-io/hindsight",
+            "capturedAt": "2026-09-25T09:24:17.602Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 28397,
+              "engagementCount": 1668,
+              "rank": 2,
+              "extra": {
+                "starsToday": 1668
+              }
+            }
+          }
+        },
+        {
+          "title": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "summary": "Univer ist eine Open-Source-Softwareplattform, die Office-Tools wie Tabellenkalkulationen, Dokumente und Präsentationen in einer einzigen Laufzeitumgebung (Runtime) vereint. Sie bietet eine modulare Struktur, die darauf ausgelegt ist, die Datenverarbeitungs- und Inhaltserstellungsprozesse von KI-Agenten zu standardisieren.",
+          "meta": "TypeScript · ★ 18.050 · +1.082 heute",
+          "snapshot": {
+            "sourceId": "dream-num/univer",
+            "capturedAt": "2026-09-25T09:24:17.602Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 18050,
+              "engagementCount": 1082,
+              "rank": 3,
+              "extra": {
+                "starsToday": 1082
+              }
+            }
+          }
+        },
+        {
+          "title": "google/ax",
+          "url": "https://github.com/google/ax",
+          "summary": "Ax, entwickelt von Google, ist eine Open-Source-Orchestrierungs-Laufzeitumgebung für KI-Agenten. Diese in Go geschriebene Infrastruktur stellt die notwendigen Werkzeuge bereit, um komplexe agentenbasierte Workflows zu verwalten und zu skalieren.",
+          "meta": "Go · ★ 10.941 · +1.373 heute",
+          "snapshot": {
+            "sourceId": "google/ax",
+            "capturedAt": "2026-09-25T09:24:17.602Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 10941,
+              "engagementCount": 1373,
+              "rank": 4,
+              "extra": {
+                "starsToday": 1373
+              }
+            }
+          }
+        },
+        {
+          "title": "NVIDIA/Model-Optimizer",
+          "url": "https://github.com/NVIDIA/Model-Optimizer",
+          "summary": "NVIDIA Model Optimizer ist eine Bibliothek, die Deep-Learning-Modelle mit Techniken wie Quantisierung, Destillation und Pruning komprimiert. Dieses Tool bereitet Modelle für die Verwendung in Inferenz-Engines wie TensorRT-LLM vor, um die Inferenzgeschwindigkeit zu erhöhen.",
+          "meta": "Python · ★ 4.209 · +44 heute",
+          "snapshot": {
+            "sourceId": "NVIDIA/Model-Optimizer",
+            "capturedAt": "2026-09-25T09:24:17.602Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 4209,
+              "engagementCount": 44,
+              "rank": 5,
+              "extra": {
+                "starsToday": 44
+              }
+            }
+          }
+        },
+        {
+          "title": "FxEmbed/FxEmbed",
+          "url": "https://github.com/FxEmbed/FxEmbed",
+          "summary": "FxEmbed ist ein Content-Embed-Tool, das dafür sorgt, dass Beiträge von X und Bluesky in Anwendungen wie Discord oder Telegram korrekt angezeigt werden. Es ermöglicht die vollständige Darstellung von Medienelementen wie mehreren Bildern, Videos und Umfragen auf Messaging-Plattformen.",
+          "meta": "TypeScript · ★ 5.416 · +182 heute",
+          "snapshot": {
+            "sourceId": "FxEmbed/FxEmbed",
+            "capturedAt": "2026-09-25T09:24:17.602Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 5416,
+              "engagementCount": 182,
+              "rank": 6,
+              "extra": {
+                "starsToday": 182
+              }
+            }
+          }
+        },
+        {
+          "title": "anthropics/financial-services",
+          "url": "https://github.com/anthropics/financial-services",
+          "summary": "Das von Anthropic veröffentlichte Repository für Finanzdienstleistungen bietet Python-basierte Beispielcodes für die Analyse und Verarbeitung von Finanzdaten. Diese Ressource stellt fertige Vorlagen bereit, damit Unternehmen große Sprachmodelle (Large Language Models) in ihre Finanz-Workflows integrieren können.",
+          "meta": "Python · ★ 37.453 · +509 heute",
+          "snapshot": {
+            "sourceId": "anthropics/financial-services",
+            "capturedAt": "2026-09-25T09:24:17.602Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 37453,
+              "engagementCount": 509,
+              "rank": 7,
+              "extra": {
+                "starsToday": 509
+              }
+            }
+          }
+        },
+        {
+          "title": "HKUDS/CLI-Anything",
+          "url": "https://github.com/HKUDS/CLI-Anything",
+          "summary": "CLI-Anything ist ein Framework, das Befehlszeilenschnittstellen (CLI) für KI-Agenten zugänglich macht. Es ermöglicht die Integration von Software in agentenbasierte Workflows über die Befehlszeile und verwandelt alle Anwendungen in eine agenten-native Struktur.",
+          "meta": "Python · ★ 50.452 · +413 heute",
+          "snapshot": {
+            "sourceId": "HKUDS/CLI-Anything",
+            "capturedAt": "2026-09-25T09:24:17.602Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 50452,
+              "engagementCount": 413,
+              "rank": 8,
+              "extra": {
+                "starsToday": 413
+              }
+            }
+          }
+        },
+        {
+          "title": "mvt-project/mvt",
+          "url": "https://github.com/mvt-project/mvt",
+          "summary": "Das Mobile Verification Toolkit ermöglicht forensische Untersuchungen auf Mobilgeräten, um potenzielle Sicherheitsverletzungen zu erkennen. Dieses Python-basierte Tool zielt darauf ab, Spuren von Cyberangriffen durch die Analyse von Gerätedaten aufzudecken.",
+          "meta": "Python · ★ 14.780 · +272 heute",
+          "snapshot": {
+            "sourceId": "mvt-project/mvt",
+            "capturedAt": "2026-09-25T09:24:17.602Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 14780,
+              "engagementCount": 272,
+              "rank": 9,
+              "extra": {
+                "starsToday": 272
+              }
+            }
+          }
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers bietet ein Framework für agentische Fähigkeiten (Agentic Skills Framework) und eine Methodik für die Softwareentwicklung. Dieses Tool zielt darauf ab, die Arbeitsabläufe autonomer Software, die komplexe Aufgaben ausführt, zu standardisieren.",
+          "meta": "Shell · ★ 291.367 · +611 heute",
+          "snapshot": {
+            "sourceId": "obra/superpowers",
+            "capturedAt": "2026-09-25T09:24:17.602Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 291367,
+              "engagementCount": 611,
+              "rank": 10,
+              "extra": {
+                "starsToday": 611
+              }
+            }
+          }
+        },
+        {
+          "title": "strands-agents/harness-sdk",
+          "url": "https://github.com/strands-agents/harness-sdk",
+          "summary": "Harness SDK ist ein Open-Source-Entwicklungskit, das End-to-End-Kontrollmechanismen und Testumgebungen für KI-Agenten erstellt. Dieses Tool, das die Sprachen Python und TypeScript unterstützt, ermöglicht die Entwicklung von produktionsreifen Agenten, die mit verschiedenen Cloud-Plattformen und KI-Modellen kompatibel sind.",
+          "meta": "Python · ★ 8.359 · +455 heute",
+          "snapshot": {
+            "sourceId": "strands-agents/harness-sdk",
+            "capturedAt": "2026-09-25T09:24:17.602Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 8359,
+              "engagementCount": 455,
+              "rank": 11,
+              "extra": {
+                "starsToday": 455
+              }
+            }
+          }
+        },
+        {
+          "title": "julyx10/lap",
+          "url": "https://github.com/julyx10/lap",
+          "summary": "Lap, entwickelt mit Vue, ist ein Offline-First-Fotomanager, mit dem Sie große lokale Fotoarchive ohne Internetverbindung verwalten können. Er ermöglicht es Benutzern, ihre persönlichen Bibliotheken schnell und sicher über den Browser zu organisieren.",
+          "meta": "Vue · ★ 2.989 · +122 heute",
+          "snapshot": {
+            "sourceId": "julyx10/lap",
+            "capturedAt": "2026-09-25T09:24:17.602Z",
+            "metadata": {
+              "language": "Vue",
+              "popularity": 2989,
+              "engagementCount": 122,
+              "rank": 12,
+              "extra": {
+                "starsToday": 122
+              }
+            }
+          }
+        },
+        {
+          "title": "superdesigndev/treg",
+          "url": "https://github.com/superdesigndev/treg",
+          "summary": "Treg ist ein Entwicklertool ähnlich wie OpenRouter, das die Verwaltung von Tools für KI-Agenten (Agent Tools) über eine einzige Schnittstelle ermöglicht. Es vereinfacht den Entwicklungsprozess, indem es die Tool-Integrationen standardisiert, die von Agenten benötigt werden, die mit verschiedenen Sprachmodellen arbeiten.",
+          "meta": "Python · ★ 3.272 · +468 heute",
+          "snapshot": {
+            "sourceId": "superdesigndev/treg",
+            "capturedAt": "2026-09-25T09:24:17.602Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 3272,
+              "engagementCount": 468,
+              "rank": 13,
+              "extra": {
+                "starsToday": 468
+              }
+            }
+          }
+        },
+        {
+          "title": "leejet/stable-diffusion.cpp",
+          "url": "https://github.com/leejet/stable-diffusion.cpp",
+          "summary": "Stable-diffusion.cpp ist eine Inferenz-Bibliothek, die Bildgenerierungsmodelle (wie Stable Diffusion, Flux, Wan) in reinem C/C++ ausführt. Dieses Tool ermöglicht es, leistungsstarke Modelle auf Systemen mit geringer Hardwareausstattung oder in speziellen Umgebungen ohne zusätzliche Abhängigkeiten auszuführen.",
+          "meta": "C++ · ★ 7.316 · +36 heute",
+          "snapshot": {
+            "sourceId": "leejet/stable-diffusion.cpp",
+            "capturedAt": "2026-09-25T09:24:17.602Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 7316,
+              "engagementCount": 36,
+              "rank": 14,
+              "extra": {
+                "starsToday": 36
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "F-Droid 2.0",
+          "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+          "summary": "F-Droid, das Repository für freie Software für Android, erneuert mit Version 2.0 seine Benutzeroberfläche und modernisiert das Erlebnis bei der App-Entdeckung. Das Update bringt Leistungsverbesserungen und neue Designstandards, um das Ökosystem für Open-Source-Software zugänglicher zu machen.",
+          "meta": "1.232 Punkte · 344 Kommentare",
+          "snapshot": {
+            "sourceId": "49831968",
+            "capturedAt": "2026-09-25T09:24:16.726Z",
+            "metadata": {
+              "popularity": 1232,
+              "engagementCount": 344,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49831968",
+                  "popularity": 1232,
+                  "engagementCount": 344
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "daveoc64",
+                "createdAt": "2026-09-24T15:26:12Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49831968"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49831968",
+              "popularity": 1232,
+              "engagementCount": 344
+            }
+          ]
+        },
+        {
+          "title": "Show HN: Make cursed fonts like Times New Bastard",
+          "url": "https://bastardica.mitpit.com/",
+          "summary": "Times New Bastard ist ein unterhaltsames Tool, das die kontextbasierte Ligatur-Funktion des OpenType-Schriftformats nutzt, um verschiedene Schriftarten in einem einzigen Text zu vermischen. Es bietet einen schnellen Konvertierungsprozess, indem es Python-Code mithilfe der WebAssembly-Technologie (WASM) clientseitig im Browser ausführt.",
+          "meta": "686 Punkte · 93 Kommentare",
+          "snapshot": {
+            "sourceId": "49823738",
+            "capturedAt": "2026-09-25T09:24:16.726Z",
+            "metadata": {
+              "popularity": 686,
+              "engagementCount": 93,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49823738",
+                  "popularity": 686,
+                  "engagementCount": 93
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "MitPitt",
+                "createdAt": "2026-09-23T22:53:28Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49823738"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49823738",
+              "popularity": 686,
+              "engagementCount": 93
+            }
+          ]
+        },
+        {
+          "title": "Two-tier encryption in the UK",
+          "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+          "summary": "Die Regierung des Vereinigten Königreichs arbeitet an einem zweistufigen Verschlüsselungsmodell, das den Zugriff auf Nachrichteninhalte auf Plattformen mit Ende-zu-Ende-Verschlüsselung ermöglichen soll. Diese Regelung zielt darauf ab, Strafverfolgungsbehörden eine rechtliche Überwachungsbefugnis zu erteilen und gleichzeitig Datenschutzstandards zu wahren.",
+          "meta": "447 Punkte · 398 Kommentare",
+          "snapshot": {
+            "sourceId": "49828731",
+            "capturedAt": "2026-09-25T09:24:16.726Z",
+            "metadata": {
+              "popularity": 447,
+              "engagementCount": 398,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49828731",
+                  "popularity": 447,
+                  "engagementCount": 398
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "ReturnoftheHack",
+                "createdAt": "2026-09-24T10:39:19Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49828731"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49828731",
+              "popularity": 447,
+              "engagementCount": 398
+            }
+          ]
+        },
+        {
+          "title": "Why is the liver so weirdly regenerative?",
+          "url": "https://dynomight.substack.com/p/liver",
+          "summary": "Die hohe Regenerationsfähigkeit der Leber ist ein evolutionärer Abwehrmechanismus gegen Schäden, denen das Organ während seiner Aufgabe, Giftstoffe aus dem Körper zu filtern, ausgesetzt ist. Diese biologische Eigenschaft erklärt die einzigartige Funktionsweise der Leber bei der Zellteilung und Gewebereparatur.",
+          "meta": "403 Punkte · 206 Kommentare",
+          "snapshot": {
+            "sourceId": "49832938",
+            "capturedAt": "2026-09-25T09:24:16.726Z",
+            "metadata": {
+              "popularity": 403,
+              "engagementCount": 206,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49832938",
+                  "popularity": 403,
+                  "engagementCount": 206
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "jbotz",
+                "createdAt": "2026-09-24T16:23:00Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49832938"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49832938",
+              "popularity": 403,
+              "engagementCount": 206
+            }
+          ]
+        },
+        {
+          "title": "Rails World 2026 Opening Keynote [video]",
+          "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+          "summary": "Die Eröffnungsrede der Rails World 2026 Konferenz für Ruby on Rails-Entwickler teilt die Zukunftsvision und neue technische Funktionen des Web-Frameworks Ruby on Rails. Die Präsentation enthält Informationen zu Updates, die sich auf die Verbesserung der Entwicklererfahrung konzentrieren, sowie zur langfristigen Roadmap der Plattform.",
+          "meta": "333 Punkte · 365 Kommentare",
+          "snapshot": {
+            "sourceId": "49817680",
+            "capturedAt": "2026-09-25T09:24:16.726Z",
+            "metadata": {
+              "popularity": 333,
+              "engagementCount": 365,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49817680",
+                  "popularity": 333,
+                  "engagementCount": 365
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "an0malous",
+                "createdAt": "2026-09-23T15:33:33Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49817680"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49817680",
+              "popularity": 333,
+              "engagementCount": 365
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "convaiinnovations/laya",
+          "url": "https://huggingface.co/convaiinnovations/laya",
+          "summary": "Laya, das auf HuggingFace geteilt wurde, ist ein Modell, das für Textklassifizierungsaufgaben entwickelt wurde. Es wird bei Aufgaben der natürlichen Sprachverarbeitung (Natural Language Processing) eingesetzt, um Texte in bestimmte Kategorien einzuteilen.",
+          "meta": "♥ 3.496 · 0 Downloads",
+          "snapshot": {
+            "sourceId": "convaiinnovations/laya",
+            "capturedAt": "2026-09-25T09:24:16.581Z",
+            "metadata": {
+              "popularity": 3496,
+              "engagementCount": 0,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 3320,
+                "pipelineTag": "text-classification",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "laya",
+                  "system-one",
+                  "calibrated-decisions",
+                  "rlcd",
+                  "classification",
+                  "routing",
+                  "scoring",
+                  "guardrails",
+                  "moderation",
+                  "reinforcement-learning",
+                  "commercial-use",
+                  "text-classification",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen-Image-2.1",
+          "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+          "summary": "Qwen-Image-2.1, entwickelt von Alibaba, ist ein Text-zu-Bild-Modell, das Textbefehle in visuelle Inhalte umwandelt. Dieses auf der Open-Source-KI-Plattform HuggingFace veröffentlichte Modell ermöglicht es Benutzern, hochwertige Bilder aus schriftlichen Beschreibungen zu erstellen.",
+          "meta": "♥ 2.242 · 42.469 Downloads",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen-Image-2.1",
+            "capturedAt": "2026-09-25T09:24:16.581Z",
+            "metadata": {
+              "popularity": 2242,
+              "engagementCount": 42469,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 2090,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "diffusers",
+                  "safetensors",
+                  "qwen",
+                  "image-generation",
+                  "image-editing",
+                  "rgba",
+                  "text-to-image",
+                  "license:other",
+                  "diffusers:QwenImage21Pipeline",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "summary": "Qwen-Image-2.1-Uncensored-GGUF ist ein KI-Modell mit Text-zu-Bild-Fähigkeiten, bei dem die Einschränkungen aufgehoben wurden. Das Modell wird in einem Dateiformat (GGUF) angeboten, das für die Ausführung auf Geräten mit geringer Hardwareleistung optimiert ist.",
+          "meta": "♥ 1.685 · 715.906 Downloads",
+          "snapshot": {
+            "sourceId": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+            "capturedAt": "2026-09-25T09:24:16.581Z",
+            "metadata": {
+              "popularity": 1685,
+              "engagementCount": 715906,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 1477,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "gguf",
+                  "qwen",
+                  "image-generation",
+                  "comfyui",
+                  "comfyui-gguf",
+                  "text-to-image",
+                  "base_model:Qwen/Qwen-Image-2.1",
+                  "base_model:quantized:Qwen/Qwen-Image-2.1",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+          "summary": "Ternary-Bonsai-2-27B ist ein leistungsstarkes Sprachmodell, das auf Textgenerierung spezialisiert ist. Dieses im GGUF-Format angebotene Modell bietet eine KI-Lösung, die durch effiziente Nutzung von Hardwareressourcen auf lokalen Geräten ausgeführt werden kann.",
+          "meta": "♥ 2.056 · 3.109.078 Downloads",
+          "snapshot": {
+            "sourceId": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+            "capturedAt": "2026-09-25T09:24:16.581Z",
+            "metadata": {
+              "popularity": 2056,
+              "engagementCount": 3109078,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 1392,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "llama.cpp",
+                  "gguf",
+                  "ternary",
+                  "2-bit",
+                  "llama-cpp",
+                  "cuda",
+                  "metal",
+                  "on-device",
+                  "hybrid-attention",
+                  "prismml",
+                  "bonsai",
+                  "text-generation",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:quantized:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "XingChen-AGI/Xing4.0-29B-A4B",
+          "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+          "summary": "Xing4.0-29B-A4B, entwickelt von XingChen-AGI, ist ein KI-Modell, das auf Textgenerierung (text generation) spezialisiert ist. Das auf der HuggingFace-Plattform gehostete Modell wird dank seiner umfassenden Sprachfähigkeiten in verschiedenen Prozessen der Inhaltserstellung eingesetzt.",
+          "meta": "♥ 1.649 · 42.950 Downloads",
+          "snapshot": {
+            "sourceId": "XingChen-AGI/Xing4.0-29B-A4B",
+            "capturedAt": "2026-09-25T09:24:16.581Z",
+            "metadata": {
+              "popularity": 1649,
+              "engagementCount": 42950,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 1252,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "xing4_0",
+                  "text-generation",
+                  "conversational",
+                  "custom_code",
+                  "arxiv:2512.24157",
+                  "arxiv:2507.18013",
+                  "license:apache-2.0",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Parts-of-Speech as Emergent Categories in SAE Latent Space",
+          "url": "https://huggingface.co/papers/2609.29362",
+          "summary": "Sparse Autoencoder sind eine Methode zur Untersuchung der internen Repräsentationen von Sprachmodellen. Forscher zeigen, dass Wortarten (parts-of-speech) in den verborgenen Schichten dieser Modelle nicht als einzelne Merkmale, sondern in strukturierten Gruppen kodiert sind.",
+          "meta": "6 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.29362",
+            "capturedAt": "2026-09-25T09:24:16.586Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.29362",
+                "publishedAt": "2026-09-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/colinglab/pos-sae-latents",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Coding Agents for Generalized Task and Motion Planning Problems",
+          "url": "https://huggingface.co/papers/2609.30233",
+          "summary": "Coding-Agenten werden eingesetzt, um geometrische und dynamische Einschränkungen bei Problemen der Aufgaben- und Bewegungsplanung (TAMP) zu automatisieren. Dieser Ansatz nutzt Code-Synthese-Fähigkeiten, um den Planungsaufwand bei neuen Problemstellungen zu reduzieren.",
+          "meta": "3 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.30233",
+            "capturedAt": "2026-09-25T09:24:16.586Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.30233",
+                "publishedAt": "2026-09-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/tomsilver/robocode",
+                "githubStars": 8
+              }
+            }
+          }
+        },
+        {
+          "title": "DeltaWAM: Delta World Action Models for Bimanual Manipulation",
+          "url": "https://huggingface.co/papers/2609.28811",
+          "summary": "DeltaWAM wurde entwickelt, um Ineffizienzen in Welt-Aktions-Modellen (world-action models) zu beheben, die es Robotern ermöglichen, Objekte mit beiden Händen zu manipulieren (bimanual manipulation). Das System beschleunigt robotische Steuerungsprozesse, indem es nur die Änderungen (Deltas) modelliert, anstatt alle Videobilder zu verarbeiten.",
+          "meta": "1 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.28811",
+            "capturedAt": "2026-09-25T09:24:16.586Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.28811",
+                "publishedAt": "2026-09-23T00:00:00.000Z",
+                "githubRepo": "https://github.com/AIGeeksGroup/DeltaWAM",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Rufus-Air: An Open LLM Post-Training Recipe",
+          "url": "https://huggingface.co/papers/2609.29421",
+          "summary": "Rufus-Air ist eine achtstufige Post-Training-Methode, die auf dem großen Sprachmodell GLM-4.5-Air-Base angewendet wird. Dieser Prozess bietet eine schrittweise Pipeline für verstärkendes Lernen (reinforcement learning), die von grundlegenden Fähigkeiten bis hin zu komplexem logischem Denken und Agenten-Fertigkeiten reicht.",
+          "meta": "1 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.29421",
+            "capturedAt": "2026-09-25T09:24:16.586Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.29421",
+                "publishedAt": "2026-09-24T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Neural Spectral Capacity: Measuring and Designing Architectures from Network Specification Alone",
+          "url": "https://huggingface.co/papers/2609.23087",
+          "summary": "Neural Spectral Capacity ist eine neue Methode, die die Architektur von KI-Modellen anhand des Spektrums der Singulärwerte ihrer Gewichtsmatrizen misst. Im Gegensatz zu herkömmlichen Metriken wie der Anzahl der Parameter und der Rechenleistung (FLOPs) zielt sie darauf ab, die interne architektonische Effizienz des Modells präziser zu bewerten.",
+          "meta": "2 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.23087",
+            "capturedAt": "2026-09-25T09:24:16.586Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.23087",
+                "publishedAt": "2026-09-19T00:00:00.000Z",
+                "githubRepo": "https://github.com/Optima-CityU/neural-spectral-capacity",
+                "githubStars": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+          "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+          "summary": "Die XMPP-basierte Messaging-App Conversations hat ihre Abhängigkeit von den Zahlungssystemen des Google Play Stores beendet und ist nun vollständig kostenlos. Der Entwickler ermutigt Nutzer dazu, die App direkt über die eigene Website oder den Open-Source-App-Store F-Droid zu beziehen.",
+          "meta": "116 Punkte · 16 Kommentare",
+          "snapshot": {
+            "sourceId": "4jqfz1",
+            "capturedAt": "2026-09-25T09:24:16.767Z",
+            "metadata": {
+              "popularity": 116,
+              "engagementCount": 16,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/4jqfz1/breaking_up_with_google_play_why",
+                  "popularity": 116,
+                  "engagementCount": 16
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "android"
+                ],
+                "createdAt": "2026-09-24T09:57:57.021-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/4jqfz1/breaking_up_with_google_play_why",
+              "popularity": 116,
+              "engagementCount": 16
+            }
+          ]
+        },
+        {
+          "title": "SourceHut account takeover via build logs (XSS in ansi2html.py)",
+          "url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+          "summary": "Eine Sicherheitslücke in den Build-Protokollen (build logs) der Softwareentwicklungsplattform SourceHut ermöglicht die Übernahme von Konten durch Cross-Site Scripting (XSS). Das Problem resultiert aus einer fehlerhaften Zeichenverarbeitungslogik im Textformatierungstool ansi2html.py.",
+          "meta": "66 Punkte · 3 Kommentare",
+          "snapshot": {
+            "sourceId": "ky1cr0",
+            "capturedAt": "2026-09-25T09:24:16.767Z",
+            "metadata": {
+              "popularity": 66,
+              "engagementCount": 3,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/ky1cr0/sourcehut_account_takeover_via_build",
+                  "popularity": 66,
+                  "engagementCount": 3
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "security"
+                ],
+                "createdAt": "2026-09-24T15:38:32.218-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ky1cr0/sourcehut_account_takeover_via_build",
+              "popularity": 66,
+              "engagementCount": 3
+            }
+          ]
+        },
+        {
+          "title": "I asked Meta’s Muse for its filesystem and it sent me 6.8 GB",
+          "url": "https://mouse.dev/blog/muse-runtime-export/",
+          "summary": "Das von Meta entwickelte KI-Modell Muse sendete als Reaktion auf eine Dateisystemanfrage eines Benutzers 6,8 GB an Daten. Dies verdeutlicht die Risiken in Bezug auf den Zugriff auf Laufzeitumgebungen (runtime) und die Datensicherheit bei großen Sprachmodellen (large language models).",
+          "meta": "58 Punkte · 10 Kommentare",
+          "snapshot": {
+            "sourceId": "mdczxv",
+            "capturedAt": "2026-09-25T09:24:16.767Z",
+            "metadata": {
+              "popularity": 58,
+              "engagementCount": 10,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/mdczxv/i_asked_meta_s_muse_for_its_filesystem_it",
+                  "popularity": 58,
+                  "engagementCount": 10
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-24T09:55:45.040-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/mdczxv/i_asked_meta_s_muse_for_its_filesystem_it",
+              "popularity": 58,
+              "engagementCount": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI engineering",
+      "explanation": "Der Prozess des Entwerfens von KI-Systemen und deren Aufbau zur Lösung realer Probleme."
+    },
+    {
+      "term": "memory layer",
+      "explanation": "Eine digitale Speicherschicht, die es KI-Modellen ermöglicht, sich an vergangene Interaktionen zu erinnern und Informationen zu speichern."
+    },
+    {
+      "term": "runtime",
+      "explanation": "Der Zeitpunkt, zu dem eine Software auf einem Computer ausgeführt wird, sowie die Umgebung, die sie während dieses Prozesses benötigt."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "KI-Programme, die eigene Entscheidungen treffen, Werkzeuge zur Zielerreichung nutzen und unabhängig agieren können."
+    },
+    {
+      "term": "orchestration runtime",
+      "explanation": "Arbeitsumgebung, die komplexe KI-Workflows verwaltet und die Reihenfolge sowie Kommunikation verschiedener Aufgaben koordiniert."
+    },
+    {
+      "term": "quantization",
+      "explanation": "Methode zur Verkleinerung von KI-Modellen durch Reduzierung der Präzision numerischer Werte, um das Modell leichter zu machen."
+    },
+    {
+      "term": "distillation",
+      "explanation": "Prozess der Übertragung des Wissens eines großen und komplexen KI-Modells auf ein kleineres und schnelleres Modell."
+    },
+    {
+      "term": "pruning",
+      "explanation": "Vorgang zur Effizienzsteigerung eines KI-Modells durch das Entfernen unnötiger Verbindungen, die die Leistung nicht beeinträchtigen."
+    },
+    {
+      "term": "inference engines",
+      "explanation": "Software-Engine, die es einem trainierten KI-Modell ermöglicht, Vorhersagen auf Basis neuer Daten zu treffen."
+    },
+    {
+      "term": "embed",
+      "explanation": "Prozess der Umwandlung von Daten in numerische Listen, damit Computer die semantischen Beziehungen zwischen ihnen verstehen können."
+    },
+    {
+      "term": "large language models",
+      "explanation": "KI-Modelle, die mit sehr großen Datenmengen trainiert wurden, um menschliche Sprache zu verstehen und Texte zu generieren."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Textbasierte Schnittstelle, die Programme über schriftliche Befehle anstelle einer Maus steuert."
+    },
+    {
+      "term": "framework",
+      "explanation": "Grundstruktur, die bei der Softwareentwicklung die Arbeit erleichtert und eine Sammlung fertiger Werkzeuge und Regeln bietet."
+    },
+    {
+      "term": "agent-native",
+      "explanation": "Systeme, die nicht nur dazu konzipiert sind, Menschen zu dienen, sondern direkt mit anderen KI-Agenten zusammenzuarbeiten."
+    },
+    {
+      "term": "Mobile Verification Toolkit",
+      "explanation": "Sicherheitstool zur Überprüfung von Smartphones auf Spyware."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "Ein strukturelles System, das es KI-Agenten ermöglicht, ihre Fähigkeiten in den Bereichen Planung, Werkzeugnutzung und Problemlösung zu verbessern."
+    }
+  ]
+}

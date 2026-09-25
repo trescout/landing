@@ -1,0 +1,563 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-25",
+  "capturedAt": "2026-09-25T09:24:16.415Z",
+  "editorial": "Este informe contiene las tendencias que han destacado por primera vez hoy, sin repetir los registros que aparecen en los informes normales de los últimos 30 días.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "vectorize-io/hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "summary": "Hindsight ofrece una capa de memoria (memory layer) de aprendizaje para agentes de inteligencia artificial. Esta biblioteca de código abierto, que mejora los procesos de toma de decisiones de los agentes al extraer conclusiones de interacciones pasadas, permite que los sistemas produzcan resultados más consistentes con el tiempo.",
+          "meta": "Python · ★ 28.397 · +1.668 hoy",
+          "snapshot": {
+            "sourceId": "vectorize-io/hindsight",
+            "capturedAt": "2026-09-25T09:24:17.602Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 28397,
+              "engagementCount": 1668,
+              "rank": 2,
+              "extra": {
+                "starsToday": 1668
+              }
+            }
+          }
+        },
+        {
+          "title": "NVIDIA/Model-Optimizer",
+          "url": "https://github.com/NVIDIA/Model-Optimizer",
+          "summary": "NVIDIA Model Optimizer es una biblioteca que comprime modelos de aprendizaje profundo mediante técnicas como la cuantización (quantization), la destilación (distillation) y la poda (pruning). Esta herramienta prepara los modelos para su uso en motores de inferencia (inference engines) como TensorRT-LLM con el fin de aumentar la velocidad de inferencia.",
+          "meta": "Python · ★ 4.209 · +44 hoy",
+          "snapshot": {
+            "sourceId": "NVIDIA/Model-Optimizer",
+            "capturedAt": "2026-09-25T09:24:17.602Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 4209,
+              "engagementCount": 44,
+              "rank": 5,
+              "extra": {
+                "starsToday": 44
+              }
+            }
+          }
+        },
+        {
+          "title": "FxEmbed/FxEmbed",
+          "url": "https://github.com/FxEmbed/FxEmbed",
+          "summary": "FxEmbed es una herramienta de incrustación (embed) de contenido que permite que las publicaciones de las plataformas X y Bluesky se vean correctamente en aplicaciones como Discord o Telegram. Asegura que elementos multimedia como múltiples imágenes, videos y encuestas se visualicen completamente en las plataformas de mensajería.",
+          "meta": "TypeScript · ★ 5.416 · +182 hoy",
+          "snapshot": {
+            "sourceId": "FxEmbed/FxEmbed",
+            "capturedAt": "2026-09-25T09:24:17.602Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 5416,
+              "engagementCount": 182,
+              "rank": 6,
+              "extra": {
+                "starsToday": 182
+              }
+            }
+          }
+        },
+        {
+          "title": "julyx10/lap",
+          "url": "https://github.com/julyx10/lap",
+          "summary": "Lap, desarrollado con Vue, es un gestor de fotos offline-first que le permite administrar grandes archivos fotográficos locales sin conexión a Internet. Permite a los usuarios organizar sus bibliotecas personales de forma rápida y segura a través del navegador.",
+          "meta": "Vue · ★ 2.989 · +122 hoy",
+          "snapshot": {
+            "sourceId": "julyx10/lap",
+            "capturedAt": "2026-09-25T09:24:17.602Z",
+            "metadata": {
+              "language": "Vue",
+              "popularity": 2989,
+              "engagementCount": 122,
+              "rank": 12,
+              "extra": {
+                "starsToday": 122
+              }
+            }
+          }
+        },
+        {
+          "title": "leejet/stable-diffusion.cpp",
+          "url": "https://github.com/leejet/stable-diffusion.cpp",
+          "summary": "Stable-diffusion.cpp es una biblioteca de inferencia que ejecuta modelos de generación de imágenes (como Stable Diffusion, Flux, Wan) en C/C++ puro. Esta herramienta permite ejecutar modelos de alto rendimiento en sistemas de bajo hardware o entornos especializados sin dependencias adicionales.",
+          "meta": "C++ · ★ 7.316 · +36 hoy",
+          "snapshot": {
+            "sourceId": "leejet/stable-diffusion.cpp",
+            "capturedAt": "2026-09-25T09:24:17.602Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 7316,
+              "engagementCount": 36,
+              "rank": 14,
+              "extra": {
+                "starsToday": 36
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "F-Droid 2.0",
+          "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+          "summary": "F-Droid, el repositorio de software libre para Android, renueva su interfaz de usuario con la versión 2.0, modernizando la experiencia de descubrimiento de aplicaciones. La actualización trae mejoras de rendimiento y nuevos estándares de diseño para hacer que el ecosistema de software de código abierto (open source software) sea más accesible.",
+          "meta": "1.232 puntos · 344 comentarios",
+          "snapshot": {
+            "sourceId": "49831968",
+            "capturedAt": "2026-09-25T09:24:16.726Z",
+            "metadata": {
+              "popularity": 1232,
+              "engagementCount": 344,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49831968",
+                  "popularity": 1232,
+                  "engagementCount": 344
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "daveoc64",
+                "createdAt": "2026-09-24T15:26:12Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49831968"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49831968",
+              "popularity": 1232,
+              "engagementCount": 344
+            }
+          ]
+        },
+        {
+          "title": "Show HN: Make cursed fonts like Times New Bastard",
+          "url": "https://bastardica.mitpit.com/",
+          "summary": "Times New Bastard es una herramienta centrada en el entretenimiento que combina diferentes fuentes en un solo texto utilizando la función de ligaduras contextuales del formato de fuente OpenType. Ofrece un proceso de conversión rápido ejecutando código Python en el lado del cliente con tecnología de ensamblaje web (WASM) que funciona en el navegador.",
+          "meta": "686 puntos · 93 comentarios",
+          "snapshot": {
+            "sourceId": "49823738",
+            "capturedAt": "2026-09-25T09:24:16.726Z",
+            "metadata": {
+              "popularity": 686,
+              "engagementCount": 93,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49823738",
+                  "popularity": 686,
+                  "engagementCount": 93
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "MitPitt",
+                "createdAt": "2026-09-23T22:53:28Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49823738"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49823738",
+              "popularity": 686,
+              "engagementCount": 93
+            }
+          ]
+        },
+        {
+          "title": "Two-tier encryption in the UK",
+          "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+          "summary": "El gobierno del Reino Unido está trabajando en un modelo de cifrado de dos etapas que proporcionaría acceso al contenido de los mensajes en plataformas que utilizan cifrado de extremo a extremo (end-to-end encryption). Esta regulación tiene como objetivo otorgar autoridad de supervisión legal a las fuerzas del orden mientras se mantienen los estándares de privacidad.",
+          "meta": "447 puntos · 398 comentarios",
+          "snapshot": {
+            "sourceId": "49828731",
+            "capturedAt": "2026-09-25T09:24:16.726Z",
+            "metadata": {
+              "popularity": 447,
+              "engagementCount": 398,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49828731",
+                  "popularity": 447,
+                  "engagementCount": 398
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "ReturnoftheHack",
+                "createdAt": "2026-09-24T10:39:19Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49828731"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49828731",
+              "popularity": 447,
+              "engagementCount": 398
+            }
+          ]
+        },
+        {
+          "title": "Why is the liver so weirdly regenerative?",
+          "url": "https://dynomight.substack.com/p/liver",
+          "summary": "La alta capacidad de regeneración del hígado es un mecanismo de defensa evolutivo contra los daños a los que está expuesto el órgano durante su tarea de limpiar toxinas del cuerpo. Esta característica biológica explica el funcionamiento único del hígado en cuanto a la división celular y la reparación de tejidos.",
+          "meta": "403 puntos · 206 comentarios",
+          "snapshot": {
+            "sourceId": "49832938",
+            "capturedAt": "2026-09-25T09:24:16.726Z",
+            "metadata": {
+              "popularity": 403,
+              "engagementCount": 206,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49832938",
+                  "popularity": 403,
+                  "engagementCount": 206
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "jbotz",
+                "createdAt": "2026-09-24T16:23:00Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49832938"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49832938",
+              "popularity": 403,
+              "engagementCount": 206
+            }
+          ]
+        },
+        {
+          "title": "Rails World 2026 Opening Keynote [video]",
+          "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+          "summary": "El discurso de apertura de la conferencia Rails World 2026, organizada para desarrolladores de Ruby on Rails, comparte la visión de futuro y las nuevas características técnicas del framework web Ruby on Rails. La presentación incluye información sobre actualizaciones centradas en mejorar la experiencia del desarrollador y la hoja de ruta a largo plazo de la plataforma.",
+          "meta": "333 puntos · 365 comentarios",
+          "snapshot": {
+            "sourceId": "49817680",
+            "capturedAt": "2026-09-25T09:24:16.726Z",
+            "metadata": {
+              "popularity": 333,
+              "engagementCount": 365,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49817680",
+                  "popularity": 333,
+                  "engagementCount": 365
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "an0malous",
+                "createdAt": "2026-09-23T15:33:33Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49817680"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49817680",
+              "popularity": 333,
+              "engagementCount": 365
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Parts-of-Speech as Emergent Categories in SAE Latent Space",
+          "url": "https://huggingface.co/papers/2609.29362",
+          "summary": "Los codificadores automáticos dispersos (sparse autoencoders) son un método utilizado para examinar las representaciones internas de los modelos de lenguaje. Los investigadores revelan que las categorías gramaticales (parts-of-speech) se codifican en las capas ocultas de estos modelos en grupos estructurados en lugar de características individuales.",
+          "meta": "6 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2609.29362",
+            "capturedAt": "2026-09-25T09:24:16.586Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.29362",
+                "publishedAt": "2026-09-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/colinglab/pos-sae-latents",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Coding Agents for Generalized Task and Motion Planning Problems",
+          "url": "https://huggingface.co/papers/2609.30233",
+          "summary": "Los agentes de codificación se utilizan para automatizar las restricciones geométricas y dinámicas en problemas de planificación de tareas y movimiento (TAMP). Este enfoque aprovecha las capacidades de síntesis de código para reducir el esfuerzo de planificación en nuevos ejemplos de problemas.",
+          "meta": "3 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2609.30233",
+            "capturedAt": "2026-09-25T09:24:16.586Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.30233",
+                "publishedAt": "2026-09-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/tomsilver/robocode",
+                "githubStars": 8
+              }
+            }
+          }
+        },
+        {
+          "title": "DeltaWAM: Delta World Action Models for Bimanual Manipulation",
+          "url": "https://huggingface.co/papers/2609.28811",
+          "summary": "DeltaWAM fue desarrollado para abordar las ineficiencias en los modelos de mundo-acción (world-action models) que permiten a los robots manipular objetos con ambas manos (bimanual manipulation). El sistema acelera los procesos de control robótico modelando solo los cambios (delta) en lugar de procesar todos los fotogramas de video.",
+          "meta": "1 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2609.28811",
+            "capturedAt": "2026-09-25T09:24:16.586Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.28811",
+                "publishedAt": "2026-09-23T00:00:00.000Z",
+                "githubRepo": "https://github.com/AIGeeksGroup/DeltaWAM",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Rufus-Air: An Open LLM Post-Training Recipe",
+          "url": "https://huggingface.co/papers/2609.29421",
+          "summary": "Rufus-Air es un método de post-entrenamiento (post-training) de ocho etapas aplicado sobre el modelo de lenguaje grande GLM-4.5-Air-Base. Este proceso ofrece una línea de aprendizaje por refuerzo (reinforcement learning) gradual que abarca desde capacidades básicas hasta razonamiento complejo y habilidades de agente.",
+          "meta": "1 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2609.29421",
+            "capturedAt": "2026-09-25T09:24:16.586Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.29421",
+                "publishedAt": "2026-09-24T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Neural Spectral Capacity: Measuring and Designing Architectures from Network Specification Alone",
+          "url": "https://huggingface.co/papers/2609.23087",
+          "summary": "La Capacidad Espectral Neuronal (Neural Spectral Capacity) es un nuevo método que mide la estructura arquitectónica de los modelos de inteligencia artificial según el espectro de valores singulares de las matrices de pesos. A diferencia de las métricas tradicionales como el número de parámetros y la potencia de procesamiento (FLOPs), tiene como objetivo evaluar la eficiencia arquitectónica interna del modelo de manera más precisa.",
+          "meta": "2 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2609.23087",
+            "capturedAt": "2026-09-25T09:24:16.586Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.23087",
+                "publishedAt": "2026-09-19T00:00:00.000Z",
+                "githubRepo": "https://github.com/Optima-CityU/neural-spectral-capacity",
+                "githubStars": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+          "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+          "summary": "Conversations, la aplicación de mensajería basada en XMPP, se ha vuelto completamente gratuita al terminar su dependencia de los sistemas de pago en la tienda Google Play. El desarrollador anima a los usuarios a obtener la aplicación directamente desde su propio sitio web o a través de la tienda de aplicaciones de código abierto F-Droid.",
+          "meta": "116 puntos · 16 comentarios",
+          "snapshot": {
+            "sourceId": "4jqfz1",
+            "capturedAt": "2026-09-25T09:24:16.767Z",
+            "metadata": {
+              "popularity": 116,
+              "engagementCount": 16,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/4jqfz1/breaking_up_with_google_play_why",
+                  "popularity": 116,
+                  "engagementCount": 16
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "android"
+                ],
+                "createdAt": "2026-09-24T09:57:57.021-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/4jqfz1/breaking_up_with_google_play_why",
+              "popularity": 116,
+              "engagementCount": 16
+            }
+          ]
+        },
+        {
+          "title": "SourceHut account takeover via build logs (XSS in ansi2html.py)",
+          "url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+          "summary": "Una vulnerabilidad de seguridad encontrada en los registros de compilación (build logs) de la plataforma de desarrollo de software SourceHut permite la toma de control de cuentas mediante secuencias de comandos en sitios cruzados (XSS). El problema se debe a una lógica de procesamiento de caracteres defectuosa en la herramienta de formato de texto ansi2html.py.",
+          "meta": "66 puntos · 3 comentarios",
+          "snapshot": {
+            "sourceId": "ky1cr0",
+            "capturedAt": "2026-09-25T09:24:16.767Z",
+            "metadata": {
+              "popularity": 66,
+              "engagementCount": 3,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/ky1cr0/sourcehut_account_takeover_via_build",
+                  "popularity": 66,
+                  "engagementCount": 3
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "security"
+                ],
+                "createdAt": "2026-09-24T15:38:32.218-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ky1cr0/sourcehut_account_takeover_via_build",
+              "popularity": 66,
+              "engagementCount": 3
+            }
+          ]
+        },
+        {
+          "title": "I asked Meta’s Muse for its filesystem and it sent me 6.8 GB",
+          "url": "https://mouse.dev/blog/muse-runtime-export/",
+          "summary": "Muse, el modelo de inteligencia artificial desarrollado por Meta, envió 6,8 GB de datos en respuesta a una solicitud del sistema de archivos de un usuario. Esta situación pone de manifiesto los riesgos relacionados con el acceso a los entornos de tiempo de ejecución (runtime) y la seguridad de los datos en los modelos de lenguaje grandes (large language models).",
+          "meta": "58 puntos · 10 comentarios",
+          "snapshot": {
+            "sourceId": "mdczxv",
+            "capturedAt": "2026-09-25T09:24:16.767Z",
+            "metadata": {
+              "popularity": 58,
+              "engagementCount": 10,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/mdczxv/i_asked_meta_s_muse_for_its_filesystem_it",
+                  "popularity": 58,
+                  "engagementCount": 10
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-24T09:55:45.040-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/mdczxv/i_asked_meta_s_muse_for_its_filesystem_it",
+              "popularity": 58,
+              "engagementCount": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "memory layer",
+      "explanation": "Una capa de memoria digital que permite a los modelos de inteligencia artificial recordar interacciones pasadas y almacenar información."
+    },
+    {
+      "term": "runtime",
+      "explanation": "El momento en que un software se ejecuta en una computadora y el entorno que necesita durante ese proceso."
+    },
+    {
+      "term": "quantization",
+      "explanation": "Método para aligerar un modelo de inteligencia artificial reduciendo la precisión de los valores numéricos para disminuir el espacio que ocupa."
+    },
+    {
+      "term": "distillation",
+      "explanation": "Proceso de transferir el conocimiento de un modelo de inteligencia artificial grande y complejo a un modelo más pequeño y rápido."
+    },
+    {
+      "term": "pruning",
+      "explanation": "Proceso de hacer que un modelo de inteligencia artificial sea más eficiente eliminando conexiones innecesarias que no afectan su rendimiento."
+    },
+    {
+      "term": "inference engines",
+      "explanation": "Motor de software que permite a un modelo de inteligencia artificial entrenado realizar predicciones sobre nuevos datos."
+    },
+    {
+      "term": "embed",
+      "explanation": "Proceso de convertir datos en listas numéricas para que las computadoras puedan entender la relación semántica entre ellos."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligencia artificial entrenados con volúmenes masivos de datos, capaces de comprender el lenguaje humano y generar texto."
+    },
+    {
+      "term": "framework",
+      "explanation": "Estructura fundamental que facilita el desarrollo de software al ofrecer un conjunto de herramientas y reglas predefinidas."
+    }
+  ]
+}

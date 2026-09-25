@@ -1,0 +1,563 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-25",
+  "capturedAt": "2026-09-25T09:24:16.415Z",
+  "editorial": "Bu rapor, son 30 gündeki normal raporlarda yer alan kayıtları tekrar etmeden bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "vectorize-io/hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "summary": "Hindsight, yapay zekâ ajanları için öğrenen bir bellek katmanı (memory layer) sunuyor. Geçmiş etkileşimlerden çıkarım yaparak ajanların karar alma süreçlerini iyileştiren bu açık kaynaklı kütüphane, sistemlerin zamanla daha tutarlı sonuçlar üretmesini sağlıyor.",
+          "meta": "Python · ★ 28.397 · +1.668 bugün",
+          "snapshot": {
+            "sourceId": "vectorize-io/hindsight",
+            "capturedAt": "2026-09-25T09:24:17.602Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 28397,
+              "engagementCount": 1668,
+              "rank": 2,
+              "extra": {
+                "starsToday": 1668
+              }
+            }
+          }
+        },
+        {
+          "title": "NVIDIA/Model-Optimizer",
+          "url": "https://github.com/NVIDIA/Model-Optimizer",
+          "summary": "NVIDIA Model Optimizer, derin öğrenme modellerini nicemleme (quantization), damıtma (distillation) ve budama (pruning) gibi tekniklerle sıkıştıran bir kütüphanedir. Bu araç, modellerin çıkarım hızını artırmak için TensorRT-LLM gibi çıkarım motorlarında (inference engines) kullanıma hazır hale getirir.",
+          "meta": "Python · ★ 4.209 · +44 bugün",
+          "snapshot": {
+            "sourceId": "NVIDIA/Model-Optimizer",
+            "capturedAt": "2026-09-25T09:24:17.602Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 4209,
+              "engagementCount": 44,
+              "rank": 5,
+              "extra": {
+                "starsToday": 44
+              }
+            }
+          }
+        },
+        {
+          "title": "FxEmbed/FxEmbed",
+          "url": "https://github.com/FxEmbed/FxEmbed",
+          "summary": "FxEmbed, X ve Bluesky platformlarındaki paylaşımların Discord veya Telegram gibi uygulamalarda düzgün görünmesini sağlayan bir içerik gömme (embed) aracıdır. Çoklu görsel, video ve anket gibi medya öğelerinin mesajlaşma platformlarında eksiksiz görüntülenmesini sağlar.",
+          "meta": "TypeScript · ★ 5.416 · +182 bugün",
+          "snapshot": {
+            "sourceId": "FxEmbed/FxEmbed",
+            "capturedAt": "2026-09-25T09:24:17.602Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 5416,
+              "engagementCount": 182,
+              "rank": 6,
+              "extra": {
+                "starsToday": 182
+              }
+            }
+          }
+        },
+        {
+          "title": "julyx10/lap",
+          "url": "https://github.com/julyx10/lap",
+          "summary": "Vue ile geliştirilen Lap, büyük yerel fotoğraf arşivlerini internet bağlantısı olmadan yönetmenizi sağlayan çevrimdışı öncelikli (offline-first) bir fotoğraf yöneticisi. Kullanıcıların kişisel kütüphanelerini tarayıcı üzerinden hızlı ve güvenli bir şekilde düzenlemesine olanak tanıyor.",
+          "meta": "Vue · ★ 2.989 · +122 bugün",
+          "snapshot": {
+            "sourceId": "julyx10/lap",
+            "capturedAt": "2026-09-25T09:24:17.602Z",
+            "metadata": {
+              "language": "Vue",
+              "popularity": 2989,
+              "engagementCount": 122,
+              "rank": 12,
+              "extra": {
+                "starsToday": 122
+              }
+            }
+          }
+        },
+        {
+          "title": "leejet/stable-diffusion.cpp",
+          "url": "https://github.com/leejet/stable-diffusion.cpp",
+          "summary": "Stable-diffusion.cpp, görüntü oluşturma modellerini (Stable Diffusion, Flux, Wan gibi) saf C/C++ ile çalıştıran bir çıkarım (inference) kütüphanesi. Bu araç, yüksek performanslı modellerin düşük donanımlı sistemlerde veya özel ortamlarda ek bağımlılık olmadan çalıştırılmasına olanak tanıyor.",
+          "meta": "C++ · ★ 7.316 · +36 bugün",
+          "snapshot": {
+            "sourceId": "leejet/stable-diffusion.cpp",
+            "capturedAt": "2026-09-25T09:24:17.602Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 7316,
+              "engagementCount": 36,
+              "rank": 14,
+              "extra": {
+                "starsToday": 36
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "F-Droid 2.0",
+          "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+          "summary": "Android için özgür yazılım deposu olan F-Droid, 2.0 sürümüyle kullanıcı arayüzünü yenileyerek uygulama keşfetme deneyimini modernize ediyor. Güncelleme, açık kaynaklı yazılım (open source software) ekosistemini daha erişilebilir kılmak için performans iyileştirmeleri ve yeni tasarım standartları getiriyor.",
+          "meta": "1.232 oy · 344 yorum",
+          "snapshot": {
+            "sourceId": "49831968",
+            "capturedAt": "2026-09-25T09:24:16.726Z",
+            "metadata": {
+              "popularity": 1232,
+              "engagementCount": 344,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49831968",
+                  "popularity": 1232,
+                  "engagementCount": 344
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "daveoc64",
+                "createdAt": "2026-09-24T15:26:12Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49831968"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49831968",
+              "popularity": 1232,
+              "engagementCount": 344
+            }
+          ]
+        },
+        {
+          "title": "Show HN: Make cursed fonts like Times New Bastard",
+          "url": "https://bastardica.mitpit.com/",
+          "summary": "Times New Bastard, Açık Tip (OpenType) yazı tipi formatının bağlam temelli karakter birleştirme (ligature) özelliğini kullanarak farklı yazı tiplerini tek bir metin içinde harmanlayan eğlence odaklı bir araçtır. Tarayıcı üzerinde çalışan web montajı (WASM) teknolojisiyle Python kodlarını istemci tarafında çalıştırarak hızlı bir dönüştürme süreci sunar.",
+          "meta": "686 oy · 93 yorum",
+          "snapshot": {
+            "sourceId": "49823738",
+            "capturedAt": "2026-09-25T09:24:16.726Z",
+            "metadata": {
+              "popularity": 686,
+              "engagementCount": 93,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49823738",
+                  "popularity": 686,
+                  "engagementCount": 93
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "MitPitt",
+                "createdAt": "2026-09-23T22:53:28Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49823738"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49823738",
+              "popularity": 686,
+              "engagementCount": 93
+            }
+          ]
+        },
+        {
+          "title": "Two-tier encryption in the UK",
+          "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+          "summary": "Birleşik Krallık hükümeti, uçtan uca şifreleme (end-to-end encryption) kullanan platformlarda mesaj içeriğine erişim sağlayacak iki aşamalı bir şifreleme modeli üzerinde çalışıyor. Bu düzenleme, gizlilik standartlarını korurken kolluk kuvvetlerine yasal denetim yetkisi vermeyi amaçlıyor.",
+          "meta": "447 oy · 398 yorum",
+          "snapshot": {
+            "sourceId": "49828731",
+            "capturedAt": "2026-09-25T09:24:16.726Z",
+            "metadata": {
+              "popularity": 447,
+              "engagementCount": 398,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49828731",
+                  "popularity": 447,
+                  "engagementCount": 398
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "ReturnoftheHack",
+                "createdAt": "2026-09-24T10:39:19Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49828731"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49828731",
+              "popularity": 447,
+              "engagementCount": 398
+            }
+          ]
+        },
+        {
+          "title": "Why is the liver so weirdly regenerative?",
+          "url": "https://dynomight.substack.com/p/liver",
+          "summary": "Karaciğerin yüksek yenilenme kapasitesi, organın vücuttaki toksinleri temizleme görevi sırasında maruz kaldığı hasarlara karşı evrimsel bir savunma mekanizmasıdır. Bu biyolojik özellik, karaciğerin hücre bölünmesi ve doku onarımı konusundaki özgün işleyişini açıklar.",
+          "meta": "403 oy · 206 yorum",
+          "snapshot": {
+            "sourceId": "49832938",
+            "capturedAt": "2026-09-25T09:24:16.726Z",
+            "metadata": {
+              "popularity": 403,
+              "engagementCount": 206,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49832938",
+                  "popularity": 403,
+                  "engagementCount": 206
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "jbotz",
+                "createdAt": "2026-09-24T16:23:00Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49832938"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49832938",
+              "popularity": 403,
+              "engagementCount": 206
+            }
+          ]
+        },
+        {
+          "title": "Rails World 2026 Opening Keynote [video]",
+          "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+          "summary": "Ruby on Rails geliştiricileri için düzenlenen Rails World 2026 konferansının açılış konuşması, web uygulama çatısı (web framework) olan Ruby on Rails'in gelecek vizyonunu ve yeni teknik özelliklerini paylaşıyor. Sunum, geliştirici deneyimini iyileştirmeye odaklanan güncellemeler ve platformun uzun vadeli yol haritası hakkında bilgiler içeriyor.",
+          "meta": "333 oy · 365 yorum",
+          "snapshot": {
+            "sourceId": "49817680",
+            "capturedAt": "2026-09-25T09:24:16.726Z",
+            "metadata": {
+              "popularity": 333,
+              "engagementCount": 365,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49817680",
+                  "popularity": 333,
+                  "engagementCount": 365
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "an0malous",
+                "createdAt": "2026-09-23T15:33:33Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49817680"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49817680",
+              "popularity": 333,
+              "engagementCount": 365
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Parts-of-Speech as Emergent Categories in SAE Latent Space",
+          "url": "https://huggingface.co/papers/2609.29362",
+          "summary": "Seyrek otomatik kodlayıcılar (sparse autoencoders), dil modellerinin içsel temsillerini incelemek için kullanılan bir yöntemdir. Araştırmacılar, dil bilgisi kategorilerinin (parts-of-speech) bu modellerdeki gizli katmanlarda tekil özellikler yerine yapılandırılmış gruplar halinde kodlandığını ortaya koyuyor.",
+          "meta": "6 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.29362",
+            "capturedAt": "2026-09-25T09:24:16.586Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.29362",
+                "publishedAt": "2026-09-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/colinglab/pos-sae-latents",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Coding Agents for Generalized Task and Motion Planning Problems",
+          "url": "https://huggingface.co/papers/2609.30233",
+          "summary": "Kodlama ajanları, görev ve hareket planlama (TAMP) problemlerindeki geometrik ve dinamik kısıtlamaları otomatize etmek için kullanılıyor. Bu yaklaşım, yeni problem örneklerinde planlama çabasını azaltmak amacıyla kod sentezleme yeteneklerinden yararlanıyor.",
+          "meta": "3 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.30233",
+            "capturedAt": "2026-09-25T09:24:16.586Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.30233",
+                "publishedAt": "2026-09-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/tomsilver/robocode",
+                "githubStars": 8
+              }
+            }
+          }
+        },
+        {
+          "title": "DeltaWAM: Delta World Action Models for Bimanual Manipulation",
+          "url": "https://huggingface.co/papers/2609.28811",
+          "summary": "DeltaWAM, robotların iki eliyle nesneleri tutmasını (bimanual manipulation) sağlayan dünya-aksiyon modellerindeki (world-action models) verimsizlikleri gidermek için geliştirildi. Sistem, tüm video karelerini işlemek yerine sadece değişimleri (delta) modelleyerek robotik kontrol süreçlerini hızlandırıyor.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.28811",
+            "capturedAt": "2026-09-25T09:24:16.586Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.28811",
+                "publishedAt": "2026-09-23T00:00:00.000Z",
+                "githubRepo": "https://github.com/AIGeeksGroup/DeltaWAM",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Rufus-Air: An Open LLM Post-Training Recipe",
+          "url": "https://huggingface.co/papers/2609.29421",
+          "summary": "Rufus-Air, büyük dil modeli GLM-4.5-Air-Base üzerinde uygulanan sekiz aşamalı bir eğitim sonrası (post-training) yöntemidir. Bu süreç, temel yeteneklerden karmaşık akıl yürütme ve ajan becerilerine kadar uzanan aşamalı bir pekiştirmeli öğrenme (reinforcement learning) hattı sunar.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.29421",
+            "capturedAt": "2026-09-25T09:24:16.586Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.29421",
+                "publishedAt": "2026-09-24T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Neural Spectral Capacity: Measuring and Designing Architectures from Network Specification Alone",
+          "url": "https://huggingface.co/papers/2609.23087",
+          "summary": "Nöral Spektral Kapasite (Neural Spectral Capacity), yapay zekâ modellerinin mimari yapısını ağırlık matrislerinin tekil değer spektrumuna göre ölçen yeni bir yöntemdir. Parametre sayısı ve işlem gücü (FLOPs) gibi geleneksel metriklerin aksine, modelin içsel mimari verimliliğini daha hassas şekilde değerlendirmeyi hedefler.",
+          "meta": "2 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.23087",
+            "capturedAt": "2026-09-25T09:24:16.586Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.23087",
+                "publishedAt": "2026-09-19T00:00:00.000Z",
+                "githubRepo": "https://github.com/Optima-CityU/neural-spectral-capacity",
+                "githubStars": 2
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+          "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+          "summary": "XMPP tabanlı mesajlaşma uygulaması Conversations, Google Play mağazasındaki ödeme sistemlerine olan bağımlılığını sonlandırarak tamamen ücretsiz hale geldi. Geliştirici, kullanıcıların uygulamayı doğrudan kendi web sitesinden veya açık kaynaklı uygulama mağazası F-Droid üzerinden edinmesini teşvik ediyor.",
+          "meta": "116 oy · 16 yorum",
+          "snapshot": {
+            "sourceId": "4jqfz1",
+            "capturedAt": "2026-09-25T09:24:16.767Z",
+            "metadata": {
+              "popularity": 116,
+              "engagementCount": 16,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/4jqfz1/breaking_up_with_google_play_why",
+                  "popularity": 116,
+                  "engagementCount": 16
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "android"
+                ],
+                "createdAt": "2026-09-24T09:57:57.021-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/4jqfz1/breaking_up_with_google_play_why",
+              "popularity": 116,
+              "engagementCount": 16
+            }
+          ]
+        },
+        {
+          "title": "SourceHut account takeover via build logs (XSS in ansi2html.py)",
+          "url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+          "summary": "Yazılım geliştirme platformu SourceHut bünyesindeki yapılandırma günlüklerinde (build logs) bulunan bir güvenlik açığı, siteler arası betik çalıştırma (XSS) yoluyla hesapların ele geçirilmesine olanak tanıyor. Sorun, metin biçimlendirme aracı ansi2html.py içindeki hatalı karakter işleme mantığından kaynaklanıyor.",
+          "meta": "66 oy · 3 yorum",
+          "snapshot": {
+            "sourceId": "ky1cr0",
+            "capturedAt": "2026-09-25T09:24:16.767Z",
+            "metadata": {
+              "popularity": 66,
+              "engagementCount": 3,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/ky1cr0/sourcehut_account_takeover_via_build",
+                  "popularity": 66,
+                  "engagementCount": 3
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "security"
+                ],
+                "createdAt": "2026-09-24T15:38:32.218-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/ky1cr0/sourcehut_account_takeover_via_build",
+              "popularity": 66,
+              "engagementCount": 3
+            }
+          ]
+        },
+        {
+          "title": "I asked Meta’s Muse for its filesystem and it sent me 6.8 GB",
+          "url": "https://mouse.dev/blog/muse-runtime-export/",
+          "summary": "Meta tarafından geliştirilen yapay zekâ modeli Muse, bir kullanıcının dosya sistemi talebine yanıt olarak 6,8 GB boyutunda veri gönderdi. Bu durum, büyük dil modellerinin (large language models) çalışma zamanı (runtime) ortamlarına erişim ve veri güvenliği konusundaki riskleri ortaya koyuyor.",
+          "meta": "58 oy · 10 yorum",
+          "snapshot": {
+            "sourceId": "mdczxv",
+            "capturedAt": "2026-09-25T09:24:16.767Z",
+            "metadata": {
+              "popularity": 58,
+              "engagementCount": 10,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/mdczxv/i_asked_meta_s_muse_for_its_filesystem_it",
+                  "popularity": 58,
+                  "engagementCount": 10
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-24T09:55:45.040-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/mdczxv/i_asked_meta_s_muse_for_its_filesystem_it",
+              "popularity": 58,
+              "engagementCount": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "memory layer",
+      "explanation": "Yapay zekâ modellerinin geçmiş etkileşimleri hatırlamasını ve bilgileri saklamasını sağlayan dijital bellek katmanı."
+    },
+    {
+      "term": "runtime",
+      "explanation": "Bir yazılımın bilgisayarda çalıştırıldığı an ve bu süreçte ihtiyaç duyduğu ortam."
+    },
+    {
+      "term": "quantization",
+      "explanation": "Yapay zekâ modellerinin kapladığı alanı küçültmek için sayısal değerlerin hassasiyetini düşürerek modeli hafifletme yöntemi."
+    },
+    {
+      "term": "distillation",
+      "explanation": "Büyük ve karmaşık bir yapay zekâ modelinin bilgisini, daha küçük ve hızlı bir modele aktarma süreci."
+    },
+    {
+      "term": "pruning",
+      "explanation": "Yapay zekâ modelinin performansını etkilemeyen gereksiz bağlantıları silerek modeli daha verimli hale getirme işlemi."
+    },
+    {
+      "term": "inference engines",
+      "explanation": "Eğitilmiş bir yapay zekâ modelinin yeni veriler üzerinde tahmin yürütmesini sağlayan yazılım motoru."
+    },
+    {
+      "term": "embed",
+      "explanation": "Verileri, bilgisayarların aralarındaki anlam ilişkisini anlayabileceği sayısal listelere dönüştürme işlemi."
+    },
+    {
+      "term": "large language models",
+      "explanation": "İnsan dilini anlayıp metin üretebilen, çok büyük veriyle eğitilmiş yapay zekâ modelleri."
+    },
+    {
+      "term": "framework",
+      "explanation": "Yazılım geliştirirken işleri kolaylaştıran, hazır araçlar ve kurallar bütünü sunan temel yapı."
+    }
+  ]
+}
