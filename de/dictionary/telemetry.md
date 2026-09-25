@@ -1,28 +1,51 @@
-# Was ist Telemetry?
+# Was ist Telemetrie (Telemetry)?
 
-Technische Daten, die automatisch vom System über die Nutzung und Fehler einer Software gesammelt werden.
+> Englisch: Telemetry · Wortherkunft: griechisch tele (fern, weit) + metron (Maß)
 
-## Definition
-Dies sind Berichte, die Anwendungen an Entwickler senden, um zu zeigen, wie die Software funktioniert. Dank dieser Daten können Entwickler verstehen, welche Funktionen häufig genutzt werden oder wo die Anwendung abstürzt. Für Benutzer ist dies in der Regel ein Datenstrom, der unbemerkt im Hintergrund abläuft.
+**Kategorie:** Dev  
+**Letzte Aktualisierung:** 2026-09-22
 
-## So funktioniert es
-Kleine Code-Fragmente, die in die Software eingebettet sind, übertragen diese Informationen an einen sicheren Server, sobald bestimmte Ereignisse eintreten.
+Telemetrie (Telemetry) beschreibt die automatisierte Erfassung, Aufzeichnung und Übertragung von Zustandsdaten, Diagnoseprotokollen, Metriken und Ablaufspuren entfernter Systeme an eine zentrale Monitoring-Plattform.
 
-## Wo es eingesetzt wird
-Es wird zur Fehlerbehebung, zur Verbesserung der Benutzererfahrung und zur Leistungsüberwachung eingesetzt.
+## Definition und Wortherkunft
+Der Begriff setzt sich aus den griechischen Wörtern tele (fern) und metron (messen) zusammen. In der Softwareentwicklung vermittelt Telemetrie Entwicklern ein klares Bild des realen Betriebsverhaltens: Welche Funktionen werden genutzt, wo treten Systemabstürze auf und an welcher Stelle stockt der Datenfluss.
+
+## Alltägliche Anwendung und Praxis
+Einsatzfelder der Telemetrie im Alltag:
+- **Fehlerberichte:** Automatisierte Übermittlung von Stacktraces bei unerwarteten Programmabbrüchen.- **Produktanalysen:** Messung von Nutzungsverläufen zur fundierten Priorisierung künftiger Features.- **Infrastrukturkontrolle:** Fortlaufende Erfassung von CPU-Last, Speicherauslastung und Durchsatz.
+
+## Technische Tiefe und Architektur
+Die drei Säulen der Observability:
+- **Logs:** Zeitstempel-bezogene Ereigniszeilen über isolierte Systemaktionen.- **Metriken:** Numerische Messwerte über Zeitintervalle (z. B. Fehlerraten, Durchsatz pro Sekunde).- **Traces:** Ablaufverfolgung eines Nutzerwunsches über verteilte Microservice-Aufrufe hinweg.- **OpenTelemetry:** Offener Industriestandard für herstellerunabhängige Instrumentierung und Datenerfassung.
 
 ## Häufig verwechselt mit
-Protokollierung
+Häufig wird Telemetrie mit reinem Logging verwechselt. Ein Log ist ein einzelner Textabschnitt; Telemetrie ist das übergeordnete Gesamtsystem zur gezielten Erfassung und Weiterleitung von Logs, Messwerten und Traces.
+
+## Interdisziplinäre Perspektiven
+Vergleichbare Prinzipien in anderen Fachgebieten:
+- **Medizin:** Der Patientenmonitor, der Puls und Sauerstoffwerte an die Schwesternstation funkt.- **Luftfahrt:** Flugüberwachungssysteme, die Triebwerksdaten in Echtzeit an Wartungsteams senden.- **Motorsport:** Rennwagen, die Sensordaten zu Reifendruck und Hitze an die Box übermitteln.
+
+## Als Analogie
+Es ist wie die Instrumentenanzeige im Auto: Sensoren messen Öldruck, Kühlwassertemperatur und Tankfüllung und melden Abweichungen sofort an das Armaturenbrett.
 
 ## Häufige Fragen
-**Beeinflusst es meine Privatsphäre?**
-In der Regel werden anonyme Daten gesammelt, aber Sie können in den Einstellungen überprüfen, welche Daten gesendet werden.
 
+**Gefährdet Telemetrie den Schutz der Privatsphäre?**  
+Seriöse Telemetrie bereinigt personenbezogene Daten (PII) vor der Übertragung und bietet Nutzern klare Abschaltmöglichkeiten.
+
+**Worin liegt der Unterschied zwischen Telemetrie und Monitoring?**  
+Telemetrie ist der Transportweg für Rohdaten; Monitoring ist die Auswertung dieser Daten inklusive Schwellenwert-Alarmierung.
+
+**Warum setzt sich OpenTelemetry überall durch?**  
+Weil es Metriken, Traces und Logs standardisiert und Firmen vor teuren Abhängigkeiten von proprietären Anbietern bewahrt.
+
+**Was passiert bei einem Netzwerkausfall?**  
+Lokale Telemetrie-Agenten puffern Datensätze im Speicher zwischen und senden sie gesammelt nach Wiederherstellung der Verbindung.
 
 ## Verwandte Begriffe
 - [Logs](/de/dictionary/logs/)
 - [Observability](/de/dictionary/observability/)
-- [Traces](/de/dictionary/traces/)
+- [Metrics](/de/dictionary/metrics/)
 
 ---
-Quelle: TreScout Glossar · https://trescout.com/de/dictionary/telemetry/
+Quelle: TreScout Tech-Glossar · https://trescout.com/de/dictionary/telemetry/

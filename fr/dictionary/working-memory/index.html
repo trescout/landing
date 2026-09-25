@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Qu'est-ce que Working Memory ? · Glossaire · TreScout</title>
-<meta name="description" content="Il s’agit de la zone de mémoire à court terme où l’intelligence artificielle conserve temporairement les informations pendant leur traitement.">
+<meta name="description" content="La working memory (mémoire de travail) en intelligence artificielle désigne l&#x27;ensemble des informations temporaires et actives conservées dans la fenêtre de contexte d&#x27;un modèle pour mener à bien un raisonnement ou une tâche en cours.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/fr/dictionary/working-memory/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/working-memory/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/working-memory/">
 <link rel="alternate" type="text/markdown" href="/fr/dictionary/working-memory.md">
 <meta property="og:title" content="Qu'est-ce que Working Memory ?">
-<meta property="og:description" content="Il s’agit de la zone de mémoire à court terme où l’intelligence artificielle conserve temporairement les informations pendant leur traitement.">
+<meta property="og:description" content="La working memory (mémoire de travail) en intelligence artificielle désigne l&#x27;ensemble des informations temporaires et actives conservées dans la fenêtre de contexte d&#x27;un modèle pour mener à bien un raisonnement ou une tâche en cours.">
 <meta property="og:url" content="https://trescout.com/fr/dictionary/working-memory/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="fr_FR">
@@ -27,21 +27,61 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Qu&#39;est-ce que Working Memory ?">
-<meta name="twitter:description" content="Il s’agit de la zone de mémoire à court terme où l’intelligence artificielle conserve temporairement les informations pendant leur traitement.">
+<meta name="twitter:description" content="La working memory (mémoire de travail) en intelligence artificielle désigne l&#x27;ensemble des informations temporaires et actives conservées dans la fenêtre de contexte d&#x27;un modèle pour mener à bien un raisonnement ou une tâche en cours.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Working Memory",
-  "description": "Il s’agit de la zone de mémoire à court terme où l’intelligence artificielle conserve temporairement les informations pendant leur traitement.",
+  "description": "La working memory (mémoire de travail) en intelligence artificielle désigne l'ensemble des informations temporaires et actives conservées dans la fenêtre de contexte d'un modèle pour mener à bien un raisonnement ou une tâche en cours.",
   "inLanguage": "fr",
   "url": "https://trescout.com/fr/dictionary/working-memory/",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
-    "name": "TreScout Tech Dictionary",
+    "name": "Dictionnaire technique TreScout",
     "url": "https://trescout.com/fr/dictionary/"
   }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Que se passe-t-il lorsque la mémoire de travail d'une IA est saturée ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Elle doit supprimer les échanges les plus anciens, synthétiser l'historique ou risquer d'oublier le début de la consigne."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelle est la différence entre mémoire de travail et poids du modèle ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Les poids représentent les connaissances permanentes apprises lors de l'entraînement ; la mémoire de travail est le texte passager injecté dans l'invite."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Peut-on agrandir la mémoire de travail indéfiniment ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non, car les coûts de calcul augmentent rapidement et le modèle risque de perdre de sa précision au milieu de contextes trop longs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "À quoi sert le cache KV ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Il évite de recalculer l'attention des jetons précédents à chaque nouveau mot produit, divisant le temps de réponse par dix."
+      }
+    }
+  ]
 }
 </script>
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -55,18 +95,20 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/fr/dictionary/">← Glossaire</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossaire · AI</span><time class="dict-time" datetime="2026-08-16">Dernière mise à jour : 16 août 2026</time></div>
-<h1 class="disc-title">Qu'est-ce que <span class="disc-accent">Working Memory</span> ?</h1>
-<p class="disc-lead">Il s’agit de la zone de mémoire à court terme où l’intelligence artificielle conserve temporairement les informations pendant leur traitement.</p>
-<section class="disc-sec"><h2>Définition</h2><p>La mémoire de travail est l&#39;endroit où l&#39;IA maintient actifs le contexte actuel et les données nécessaires lors de l&#39;exécution d&#39;une tâche. Ces informations sont généralement effacées lorsque la tâche est terminée ou que le contexte change.</p></section>
-<div class="dict-analogy"><strong>Analogie :</strong> C&#39;est comme des notes temporaires que vous prenez sur le côté d&#39;un papier tout en résolvant un problème de mathématiques ; Une fois le problème résolu, ces notes n’auront plus d’importance.</div>
-<section class="disc-sec"><h2>Comment ça marche</h2><p>Cela se produit lorsque le modèle conserve les données d&#39;entrée et les résultats intermédiaires dans sa mémoire pour un accès rapide dans le cycle de traitement en cours.</p></section>
-<section class="disc-sec"><h2>Où est-ce utilisé</h2><p>Il est utilisé pour préserver l’historique des discussions et les processus de raisonnement complexes.</p></section>
-<section class="disc-sec"><h2>Souvent confondu avec</h2><p>Sa différence avec la mémoire à long terme est qu&#39;elle est limitée uniquement à la tâche en cours.</p></section>
-<section class="disc-sec"><h2>Questions fréquentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Que se passe-t-il si la mémoire de travail est pleine ?</p><p class="dict-faq-a">Le modèle commence à oublier les anciennes informations ou peut perdre son contexte.</p></div></div></section>
-<section class="disc-sec"><h2>Termes liés</h2><div class="dict-related"><a href="/fr/dictionary/memory/">Memory</a><a href="/fr/dictionary/context-window/">Context Window</a><a href="/fr/dictionary/long-term-memory/">Long-term Memory</a></div></section>
+<div class="disc-top"><span class="disc-eyebrow">Glossaire · AI</span><time class="dict-time" datetime="2026-09-22">Dernière mise à jour : 22 septembre 2026</time></div>
+<h1 class="disc-title">Qu'est-ce que la Working Memory en IA ?</h1>
+<p class="dict-en">Anglais : Working Memory · Étymologie : vieil anglais weorc (travail) + latin memoria (mémoire)</p>
+<p class="disc-lead">La working memory (mémoire de travail) en intelligence artificielle désigne l'ensemble des informations temporaires et actives conservées dans la fenêtre de contexte d'un modèle pour mener à bien un raisonnement ou une tâche en cours.</p>
+<section class="disc-sec"><h2>Définition et étymologie</h2><p>Elle représente l'établi temporaire du modèle : une fois la tâche achevée ou la session réinitialisée, ce brouillon de travail s'efface. La fenêtre de contexte sert de contenant physique, tandis que les données et jetons qui y sont injectés constituent la mémoire active du calcul.</p></section>
+<section class="disc-sec"><h2>Usage quotidien et contexte pratique</h2><p>Fonctions principales de la mémoire de travail :</p><ul><li><strong>Continuité du dialogue :</strong> Retenir les questions et réponses précédentes au fil d'une conversation.</li><li><strong>Brouillon de raisonnement :</strong> Conserver les étapes intermédiaires lors d'un prompt guidé pas à pas (Chain-of-Thought).</li><li><strong>Coordination d'outils :</strong> Stocker temporairement les réponses d'API avant de rédiger la réponse finale.</li></ul></section>
+<section class="disc-sec"><h2>Profondeur technique et architecture</h2><p>Gestion du budget de jetons (tokens) :</p><ul><li><strong>Capacité maximale :</strong> Sur une fenêtre de 128 000 jetons, si l'historique en occupe 100 000, il ne reste que 28 000 jetons pour réfléchir et répondre.</li><li><strong>Cache KV (Key-Value) :</strong> Les modèles de type Transformer conservent en mémoire GPU les représentations des jetons passés pour accélérer la génération.</li><li><strong>Stratégies d'éviction :</strong> Lorsque la limite approche, le système résume les messages anciens pour libérer de l'espace.</li></ul></section>
+<section class="disc-sec"><h2>Souvent confondu avec</h2><p>On la confond souvent avec la mémoire à long terme. La mémoire à long terme est une base de données persistante (comme un profil utilisateur). La mémoire de travail est la mémoire vive temporaire qui disparaît dès la fermeture de la session.</p></section>
+<section class="disc-sec"><h2>Perspectives interdisciplinaires</h2><p>Analogies dans d'autres domaines :</p><ul><li><strong>Mathématiques :</strong> La feuille de brouillon où l'on pose ses calculs intermédiaires avant de la jeter.</li><li><strong>Menuiserie :</strong> L'établi sur lequel on dépose ses outils pendant la fabrication, rangé en fin de journée.</li><li><strong>Informatique :</strong> La mémoire vive (RAM) par rapport au disque dur de stockage permanent.</li></ul></section>
+<div class="dict-analogy">C'est comme une feuille de brouillon sur laquelle on note des calculs intermédiaires pour résoudre un problème de géométrie : une fois le résultat trouvé, on jette le brouillon.</div>
+<section class="disc-sec"><h2>Questions fréquentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Que se passe-t-il lorsque la mémoire de travail d'une IA est saturée ?</p><p class="dict-faq-a">Elle doit supprimer les échanges les plus anciens, synthétiser l'historique ou risquer d'oublier le début de la consigne.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Quelle est la différence entre mémoire de travail et poids du modèle ?</p><p class="dict-faq-a">Les poids représentent les connaissances permanentes apprises lors de l'entraînement ; la mémoire de travail est le texte passager injecté dans l'invite.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Peut-on agrandir la mémoire de travail indéfiniment ?</p><p class="dict-faq-a">Non, car les coûts de calcul augmentent rapidement et le modèle risque de perdre de sa précision au milieu de contextes trop longs.</p></div><div class="dict-faq-item"><p class="dict-faq-q">À quoi sert le cache KV ?</p><p class="dict-faq-a">Il évite de recalculer l'attention des jetons précédents à chaque nouveau mot produit, divisant le temps de réponse par dix.</p></div></div></section>
+<section class="disc-sec"><h2>Termes liés</h2><div class="dict-related"><a href="/fr/dictionary/memory/">Memory</a><a href="/fr/dictionary/context-window/">Context Window</a><a href="/fr/dictionary/attention-mechanism/">Attention Mechanism</a></div></section>
 <aside class="disc-cta"><p><strong>Explorez les outils associés et les rapports quotidiens.</strong> Suivez les nouveaux termes et outils technologiques chaque matin dans votre boîte de réception.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-fr" data-page-type="dictionary" data-content-slug="working-memory" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Votre adresse e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Accès anticipé</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>J'ai lu <a href="/fr/privacy.html" target="_blank" rel="noopener">la notice de confidentialité</a> et je consens au traitement de mon adresse e-mail à cette fin.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/fr/dictionary/">Tous les termes →</a></aside>
-<p class="disc-disclaimer">Cette explication a été rédigée en langage clair pour TreScout puis <strong>traduite automatiquement</strong> depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/working-memory/">Lire en turc →</a></p>
+<p class="disc-disclaimer">Cette explication a été rédigée en langage clair pour TreScout puis <strong>traduite automatiquement</strong> depuis l'original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/working-memory/">Lire en turc →</a></p>
 </article>
 </main>
 <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">TreScout analyse, résume et livre. Vous n'avez qu'à lire.</p></div><div class="footer-col"><div class="footer-col-title">Produit</div><ul><li><a href="/fr/discover/">Découvrir</a></li><li><a href="/fr/dictionary/">Glossaire</a></li><li><a href="/fr/reports/">Archive des rapports</a></li><li><a href="/fr/compare/rss-vs-ai/">Comparer</a></li><li><a href="/fr/#top">Accès anticipé</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Contact</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/fr/privacy.html" target="_blank" rel="noopener">Notice de confidentialité</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Réseaux</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Tous droits réservés.</span></div></div></footer>

@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>What is Serialization? · Dictionary · TreScout</title>
-<meta name="description" content="It is the process of converting complex data structures into a plain text or byte array that can be stored or transmitted.">
+<meta name="description" content="Serialization is the process of converting dynamically allocated in-memory data structures, objects, and pointer graphs into a linear byte stream or standardized text format suitable for network transmission or persistent disk storage.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/en/dictionary/serialization/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/serialization/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/serialization/">
 <link rel="alternate" type="text/markdown" href="/en/dictionary/serialization.md">
 <meta property="og:title" content="What is Serialization?">
-<meta property="og:description" content="It is the process of converting complex data structures into a plain text or byte array that can be stored or transmitted.">
+<meta property="og:description" content="Serialization is the process of converting dynamically allocated in-memory data structures, objects, and pointer graphs into a linear byte stream or standardized text format suitable for network transmission or persistent disk storage.">
 <meta property="og:url" content="https://trescout.com/en/dictionary/serialization/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="What is Serialization?">
-<meta name="twitter:description" content="It is the process of converting complex data structures into a plain text or byte array that can be stored or transmitted.">
+<meta name="twitter:description" content="Serialization is the process of converting dynamically allocated in-memory data structures, objects, and pointer graphs into a linear byte stream or standardized text format suitable for network transmission or persistent disk storage.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Serialization",
-  "description": "It is the process of converting complex data structures into a plain text or byte array that can be stored or transmitted.",
+  "description": "Serialization is the process of converting dynamically allocated in-memory data structures, objects, and pointer graphs into a linear byte stream or standardized text format suitable for network transmission or persistent disk storage.",
   "inLanguage": "en",
   "url": "https://trescout.com/en/dictionary/serialization/",
   "inDefinedTermSet": {
@@ -42,6 +42,46 @@
     "name": "TreScout Tech Dictionary",
     "url": "https://trescout.com/en/dictionary/"
   }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the fundamental difference between serialization and deserialization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Serialization flattens living memory structures into a linear byte sequence. Deserialization performs the reverse: reconstructing structured objects and pointer relationships from that byte stream."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why should Python's pickle never be used with untrusted data?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pickle allows serialized streams to instantiate arbitrary Python objects and execute constructor functions, enabling attackers to execute system commands directly upon deserialization."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does FlatBuffers achieve zero-copy deserialization?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It lays out data in memory-aligned binary structures with relative offsets so consumers can read fields directly from the buffer without heap allocation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is JSON preferred over Protobuf?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When human readability, quick exploratory debugging, and universal browser compatibility outweigh payload compression and CPU parsing efficiency."
+      }
+    }
+  ]
 }
 </script>
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -55,15 +95,17 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/en/dictionary/">← Dictionary</a>
-<div class="disc-top"><span class="disc-eyebrow">Dictionary · Dev</span><time class="dict-time" datetime="2026-07-11">Last updated: July 11, 2026</time></div>
-<h1 class="disc-title">What is <span class="disc-accent">Serialization</span>?</h1>
-<p class="disc-lead">It is the process of converting complex data structures into a plain text or byte array that can be stored or transmitted.</p>
-<section class="disc-sec"><h2>Overview</h2><p>You need to translate objects held in a complex way in the computer&#39;s memory (for example, a user profile) into a straight line in order to send them over the Internet or save them in a file. This process is called serialization. When the other party receives this data, it performs &#39;deserialization&#39; and restores it to its old complex structure.</p></section>
-<div class="dict-analogy"><strong>Analogy:</strong> Moving a piece of furniture is like taking it apart and placing it in a flat box; At destination you open the box and reassemble the furniture.</div>
-<section class="disc-sec"><h2>How it works</h2><p>Data is usually converted to JSON, XML, or faster binary formats. In this way, the original structure of the data is preserved and it becomes portable between different systems.</p></section>
-<section class="disc-sec"><h2>Where it is used</h2><p>It is used in API communications, database records, and creating save files in games.</p></section>
-<section class="disc-sec"><h2>Frequently asked questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Why do we need serialization?</p><p class="dict-faq-a">The data in the computer&#39;s memory is meaningful only for the current program. To send data to another computer or disk, we need to convert it to a universal format.</p></div></div></section>
-<section class="disc-sec"><h2>Related terms</h2><div class="dict-related"><a href="/en/dictionary/api/">API</a><a href="/en/dictionary/data-pipeline/">Data Pipeline</a></div></section>
+<div class="disc-top"><span class="disc-eyebrow">Dictionary · Dev</span><time class="dict-time" datetime="2026-09-19">Last updated: September 19, 2026</time></div>
+<h1 class="disc-title">What is Serialization and How Does it Work?</h1>
+<p class="dict-en">English: Serialization · Etymology: Latin series (row, succession) + facio (to make)</p>
+<p class="disc-lead">Serialization is the process of converting dynamically allocated in-memory data structures, objects, and pointer graphs into a linear byte stream or standardized text format suitable for network transmission or persistent disk storage.</p>
+<section class="disc-sec"><h2>What is Serialization and Why is it Necessary? Memory Model</h2><p>In modern operating systems, every running process resides in an isolated virtual address space. Objects instantiated inside heap memory reference each other through memory pointers. Because pointers are merely raw virtual memory addresses valid only within that specific process context, they cannot be transferred across network sockets or saved to disk as-is. Serialization decomposes complex object graphs, resolves references, and flattens them into portable, self-contained data representations.</p></section>
+<section class="disc-sec"><h2>Serialization Formats: Text-Based vs Binary Protocols</h2><p>Choosing the appropriate format involves tradeoffs across human readability, CPU parsing overhead, network payload size, and schema rigor:</p><ul><li><strong>Text-Based (JSON, YAML, XML):</strong> Human-readable, widely supported across programming languages, and simple to debug over HTTP APIs. However, they incur significant parsing overhead and payload inflation due to string encoding.</li><li><strong>Binary Formats (Protocol Buffers, MessagePack, Avro):</strong> Compact binary representations featuring explicit field numbering, compact varints, and strong typing. They yield substantial bandwidth savings and rapid deserialization.</li><li><strong>Schema Evolution:</strong> Enterprise protocols like Protobuf and Avro ensure backward and forward compatibility, allowing services to upgrade schemas without breaking older clients.</li></ul></section>
+<section class="disc-sec"><h2>Zero-Copy Deserialization Architecture</h2><p>Conventional deserialization reads incoming bytes from a network buffer and reconstructs new heap objects in memory, requiring allocation and memory copies. Modern high-throughput frameworks (such as Cap'n Proto and FlatBuffers) utilize <strong>Zero-Copy Deserialization</strong>:</p><ul><li><strong>In-Place Traversal:</strong> Data is organized with predetermined memory alignment and internal relative offsets.</li><li><strong>Direct Memory Mapping:</strong> The application queries fields directly from memory-mapped disk files or network buffers without heap allocations, delivering orders of magnitude higher throughput.</li></ul></section>
+<section class="disc-sec"><h2>Security Dimensions: Insecure Deserialization (CWE-502)</h2><p>When serialization formats serialize not just raw data fields but dynamic object classes, executable methods, or runtime closures (common in Python pickle, Java native serialization, or Ruby Marshal), severe security vulnerabilities emerge:</p><ul><li><strong>Remote Code Execution (RCE):</strong> Malicious payloads can construct gadget chains that trigger arbitrary system execution during deserialization before business validation runs.</li><li><strong>Best Practice Defenses:</strong> Treat untrusted network input strictly as structured data (preferring JSON, Protobuf, or strict schemas) and implement message integrity verification via HMAC or TLS.</li></ul></section>
+<div class="dict-analogy">It is like disassembling a piece of furniture into flat components to pack into a compact box for transport, and then following the instruction manual to reassemble it at the destination.</div>
+<section class="disc-sec"><h2>Frequently Asked Questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">What is the fundamental difference between serialization and deserialization?</p><p class="dict-faq-a">Serialization flattens living memory structures into a linear byte sequence. Deserialization performs the reverse: reconstructing structured objects and pointer relationships from that byte stream.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Why should Python's pickle never be used with untrusted data?</p><p class="dict-faq-a">Pickle allows serialized streams to instantiate arbitrary Python objects and execute constructor functions, enabling attackers to execute system commands directly upon deserialization.</p></div><div class="dict-faq-item"><p class="dict-faq-q">How does FlatBuffers achieve zero-copy deserialization?</p><p class="dict-faq-a">It lays out data in memory-aligned binary structures with relative offsets so consumers can read fields directly from the buffer without heap allocation.</p></div><div class="dict-faq-item"><p class="dict-faq-q">When is JSON preferred over Protobuf?</p><p class="dict-faq-a">When human readability, quick exploratory debugging, and universal browser compatibility outweigh payload compression and CPU parsing efficiency.</p></div></div></section>
+<section class="disc-sec"><h2>Related terms</h2><div class="dict-related"><a href="/en/dictionary/api/">API</a><a href="/en/dictionary/data-pipeline/">Data Pipeline</a><a href="/en/dictionary/buffer/">Buffer</a></div></section>
 <section class="disc-sec"><h2>Related tools</h2><div class="dict-related"><a href="/en/discover/yaml-cpp/">YAML Cpp</a></div></section>
 <aside class="disc-cta"><p><strong>Explore related tools and daily reports.</strong> Stay on top of emerging tech terms and tools. Receive TreScout's daily summary in your inbox.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-en" data-page-type="dictionary" data-content-slug="serialization" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/dictionary/">All terms →</a></aside>
 <p class="disc-disclaimer">This explanation was written in plain language for TreScout and <strong>machine-translated</strong> from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/serialization/">Read in Turkish →</a></p>

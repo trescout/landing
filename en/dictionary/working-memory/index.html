@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>What is Working Memory? · Dictionary · TreScout</title>
-<meta name="description" content="It is the short-term memory area where artificial intelligence temporarily keeps information during processing.">
+<meta name="description" content="Working memory in artificial intelligence refers to the active, temporary scratchpad information held inside a language model&#x27;s immediate context window to execute current reasoning steps, multi-turn dialogues, and tool interactions.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/en/dictionary/working-memory/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/working-memory/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/working-memory/">
 <link rel="alternate" type="text/markdown" href="/en/dictionary/working-memory.md">
 <meta property="og:title" content="What is Working Memory?">
-<meta property="og:description" content="It is the short-term memory area where artificial intelligence temporarily keeps information during processing.">
+<meta property="og:description" content="Working memory in artificial intelligence refers to the active, temporary scratchpad information held inside a language model&#x27;s immediate context window to execute current reasoning steps, multi-turn dialogues, and tool interactions.">
 <meta property="og:url" content="https://trescout.com/en/dictionary/working-memory/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="What is Working Memory?">
-<meta name="twitter:description" content="It is the short-term memory area where artificial intelligence temporarily keeps information during processing.">
+<meta name="twitter:description" content="Working memory in artificial intelligence refers to the active, temporary scratchpad information held inside a language model&#x27;s immediate context window to execute current reasoning steps, multi-turn dialogues, and tool interactions.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Working Memory",
-  "description": "It is the short-term memory area where artificial intelligence temporarily keeps information during processing.",
+  "description": "Working memory in artificial intelligence refers to the active, temporary scratchpad information held inside a language model's immediate context window to execute current reasoning steps, multi-turn dialogues, and tool interactions.",
   "inLanguage": "en",
   "url": "https://trescout.com/en/dictionary/working-memory/",
   "inDefinedTermSet": {
@@ -42,6 +42,46 @@
     "name": "TreScout Tech Dictionary",
     "url": "https://trescout.com/en/dictionary/"
   }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What happens when an AI model's working memory fills up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The system must evict earlier conversation turns, compress the history with summarization, or risk truncation errors."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does working memory differ from weights in a model?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Weights are permanent parametric knowledge learned during training; working memory is non-parametric dynamic context supplied in the prompt."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can an AI expand its working memory indefinitely?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No; expanding the context window increases quadratic computational complexity and degrades attention retrieval accuracy (the 'lost in the middle' effect)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the role of KV Cache in working memory?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The KV Cache stores precalculated attention representations of previous tokens in GPU memory, avoiding redundant computation during autoregressive generation."
+      }
+    }
+  ]
 }
 </script>
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -55,16 +95,18 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/en/dictionary/">← Dictionary</a>
-<div class="disc-top"><span class="disc-eyebrow">Dictionary · AI</span><time class="dict-time" datetime="2026-08-16">Last updated: August 16, 2026</time></div>
-<h1 class="disc-title">What is <span class="disc-accent">Working Memory</span>?</h1>
-<p class="disc-lead">It is the short-term memory area where artificial intelligence temporarily keeps information during processing.</p>
-<section class="disc-sec"><h2>Overview</h2><p>Working memory is where the AI ​​keeps the current context and necessary data active while performing a task. This information is usually cleared when the task is finished or the context changes.</p></section>
-<div class="dict-analogy"><strong>Analogy:</strong> It&#39;s like temporary notes you make on the side of a paper while solving a math problem; When the problem is over, those notes won&#39;t matter.</div>
-<section class="disc-sec"><h2>How it works</h2><p>It occurs when the model keeps input data and intermediate results in its memory for quick access within the current processing cycle.</p></section>
-<section class="disc-sec"><h2>Where it is used</h2><p>It is used in preserving chat history and complex reasoning processes.</p></section>
-<section class="disc-sec"><h2>Commonly confused with</h2><p>Its difference from long-term memory is that it is limited only to the current task.</p></section>
-<section class="disc-sec"><h2>Frequently asked questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">What happens if working memory becomes full?</p><p class="dict-faq-a">The model begins to forget old information or may lose context.</p></div></div></section>
-<section class="disc-sec"><h2>Related terms</h2><div class="dict-related"><a href="/en/dictionary/memory/">Memory</a><a href="/en/dictionary/context-window/">Context Window</a><a href="/en/dictionary/long-term-memory/">Long-term Memory</a></div></section>
+<div class="disc-top"><span class="disc-eyebrow">Dictionary · AI</span><time class="dict-time" datetime="2026-09-22">Last updated: September 22, 2026</time></div>
+<h1 class="disc-title">What is Working Memory in AI?</h1>
+<p class="dict-en">English: Working Memory · Etymology: Old English weorc (activity) + Latin memoria (mindful recall)</p>
+<p class="disc-lead">Working memory in artificial intelligence refers to the active, temporary scratchpad information held inside a language model's immediate context window to execute current reasoning steps, multi-turn dialogues, and tool interactions.</p>
+<section class="disc-sec"><h2>Definition and Etymology</h2><p>The concept represents the active workbench of an intelligence system: once an inference task completes or a conversation resets, this temporary scratchpad state is wiped clean. The model's context window acts as the container, while the tokens loaded within it constitute the active working memory.</p></section>
+<section class="disc-sec"><h2>Everyday Context and Practical Usage</h2><p>Key functional roles of working memory:</p><ul><li><strong>Conversational Continuity:</strong> Remembering statements from previous user turns in a multi-message session.</li><li><strong>Reasoning Scratchpad:</strong> Storing intermediate calculations and step-by-step logic during Chain-of-Thought (CoT) prompts.</li><li><strong>Tool Calling & Coordination:</strong> Holding JSON payloads returned by APIs before synthesizing the final response.</li></ul></section>
+<section class="disc-sec"><h2>Technical Depth and Architecture</h2><p>Token budget management in working memory:</p><ul><li><strong>Context Limits:</strong> If a model features a 128K token context window and conversation history consumes 100K tokens, only 28K tokens remain for reasoning and output.</li><li><strong>Attention Mechanism (KV Cache):</strong> Transformers preserve keys and values in memory caches to prevent redundant matrix recalculation during generation.</li><li><strong>Eviction & Summarization:</strong> When budgets overflow, systems summarize earlier turns or evict stale context slices.</li></ul></section>
+<section class="disc-sec"><h2>Commonly Confused With</h2><p>It is frequently confused with long-term memory. Long-term memory is a persistent user profile stored in external databases or vector stores. Working memory is strictly the transient RAM workbench that empties when the active session terminates.</p></section>
+<section class="disc-sec"><h2>Cross-Disciplinary Perspectives</h2><p>Parallels in other disciplines:</p><ul><li><strong>Mathematics:</strong> Scratch paper used to scribble intermediate formulas during an exam, discarded after obtaining the answer.</li><li><strong>Carpentry:</strong> The workbench where tools and planks rest while assembling a cabinet, cleared when the job is done.</li><li><strong>Computer Architecture:</strong> Fast CPU registers and L1 cache versus persistent hard drive storage.</li></ul></section>
+<div class="dict-analogy">It is like scrap paper used to write down intermediate steps while solving a complex math problem; once the final answer is calculated, the paper is thrown away.</div>
+<section class="disc-sec"><h2>Frequently Asked Questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">What happens when an AI model's working memory fills up?</p><p class="dict-faq-a">The system must evict earlier conversation turns, compress the history with summarization, or risk truncation errors.</p></div><div class="dict-faq-item"><p class="dict-faq-q">How does working memory differ from weights in a model?</p><p class="dict-faq-a">Weights are permanent parametric knowledge learned during training; working memory is non-parametric dynamic context supplied in the prompt.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Can an AI expand its working memory indefinitely?</p><p class="dict-faq-a">No; expanding the context window increases quadratic computational complexity and degrades attention retrieval accuracy (the 'lost in the middle' effect).</p></div><div class="dict-faq-item"><p class="dict-faq-q">What is the role of KV Cache in working memory?</p><p class="dict-faq-a">The KV Cache stores precalculated attention representations of previous tokens in GPU memory, avoiding redundant computation during autoregressive generation.</p></div></div></section>
+<section class="disc-sec"><h2>Related terms</h2><div class="dict-related"><a href="/en/dictionary/memory/">Memory</a><a href="/en/dictionary/context-window/">Context Window</a><a href="/en/dictionary/attention-mechanism/">Attention Mechanism</a></div></section>
 <aside class="disc-cta"><p><strong>Explore related tools and daily reports.</strong> Stay on top of emerging tech terms and tools. Receive TreScout's daily summary in your inbox.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-en" data-page-type="dictionary" data-content-slug="working-memory" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/dictionary/">All terms →</a></aside>
 <p class="disc-disclaimer">This explanation was written in plain language for TreScout and <strong>machine-translated</strong> from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/working-memory/">Read in Turkish →</a></p>
 </article>

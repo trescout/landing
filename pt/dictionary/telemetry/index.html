@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>O que é Telemetry? · Glossário · TreScout</title>
-<meta name="description" content="Dados técnicos coletados automaticamente pelo sistema sobre o uso e os erros de um software.">
+<meta name="description" content="Telemetria (telemetry) é a coleta, registro e transmissão automatizada de dados de desempenho, registros de eventos, métricas e rastros de diagnóstico a partir de sistemas remotos para plataformas centrais de análise.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/pt/dictionary/telemetry/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/telemetry/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/telemetry/">
 <link rel="alternate" type="text/markdown" href="/pt/dictionary/telemetry.md">
 <meta property="og:title" content="O que é Telemetry?">
-<meta property="og:description" content="Dados técnicos coletados automaticamente pelo sistema sobre o uso e os erros de um software.">
+<meta property="og:description" content="Telemetria (telemetry) é a coleta, registro e transmissão automatizada de dados de desempenho, registros de eventos, métricas e rastros de diagnóstico a partir de sistemas remotos para plataformas centrais de análise.">
 <meta property="og:url" content="https://trescout.com/pt/dictionary/telemetry/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="pt_BR">
@@ -27,21 +27,61 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="O que é Telemetry?">
-<meta name="twitter:description" content="Dados técnicos coletados automaticamente pelo sistema sobre o uso e os erros de um software.">
+<meta name="twitter:description" content="Telemetria (telemetry) é a coleta, registro e transmissão automatizada de dados de desempenho, registros de eventos, métricas e rastros de diagnóstico a partir de sistemas remotos para plataformas centrais de análise.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Telemetry",
-  "description": "Dados técnicos coletados automaticamente pelo sistema sobre o uso e os erros de um software.",
+  "description": "Telemetria (telemetry) é a coleta, registro e transmissão automatizada de dados de desempenho, registros de eventos, métricas e rastros de diagnóstico a partir de sistemas remotos para plataformas centrais de análise.",
   "inLanguage": "pt-BR",
   "url": "https://trescout.com/pt/dictionary/telemetry/",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
-    "name": "TreScout Tech Dictionary",
+    "name": "Dicionário Técnico TreScout",
     "url": "https://trescout.com/pt/dictionary/"
   }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "A telemetria compromete a privacidade dos usuários?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sistemas bem projetados removem dados sensíveis (PII) antes do envio e oferecem mecanismos claros de desativação."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Qual a diferença entre telemetria e monitoramento?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A telemetria transporta as medições coletadas; o monitoramento analisa essas medições e dispara alertas operacionais."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Por que o padrão OpenTelemetry se tornou tão popular?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Porque unifica a instrumentação de métricas e rastros em um formato aberto, sem prender a empresa a um único serviço de análise."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "O que acontece quando o dispositivo fica sem internet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Agentes de telemetria acumulam os eventos em memória ou disco local, enviando-os assim que a conexão for reestabelecida."
+      }
+    }
+  ]
 }
 </script>
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -55,16 +95,18 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/pt/dictionary/">← Glossário</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-09-08">Última atualização: 8 de setembro de 2026</time></div>
-<h1 class="disc-title">O que é <span class="disc-accent">Telemetry</span>?</h1>
-<p class="disc-lead">Dados técnicos coletados automaticamente pelo sistema sobre o uso e os erros de um software.</p>
-<section class="disc-sec"><h2>Definição</h2><p>São relatórios que os aplicativos enviam aos desenvolvedores sobre como o software está funcionando. Graças a esses dados, os desenvolvedores podem entender qual recurso é muito utilizado ou onde o aplicativo trava. Para os usuários, é geralmente um fluxo de dados que ocorre silenciosamente em segundo plano.</p></section>
-<div class="dict-analogy"><strong>Analogia:</strong> É como os sensores dentro de um carro relatando constantemente a temperatura do motor e o nível de combustível ao painel do motorista.</div>
-<section class="disc-sec"><h2>Como funciona</h2><p>Pequenos trechos de código inseridos no software transmitem essas informações para um servidor seguro quando eventos específicos ocorrem.</p></section>
-<section class="disc-sec"><h2>Onde é usado</h2><p>É usado na depuração de software, melhoria da experiência do usuário e monitoramento de desempenho.</p></section>
-<section class="disc-sec"><h2>Costuma ser confundido com</h2><p>registro</p></section>
-<section class="disc-sec"><h2>Perguntas frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Afeta a minha privacidade?</p><p class="dict-faq-a">Geralmente, dados anônimos são coletados, mas você pode verificar quais dados estão sendo enviados na seção de configurações.</p></div></div></section>
-<section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/logs/">Logs</a><a href="/pt/dictionary/observability/">Observability</a><a href="/pt/dictionary/traces/">Traces</a></div></section>
+<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-09-22">Última atualização: 22 de setembro de 2026</time></div>
+<h1 class="disc-title">O que é Telemetria (Telemetry)?</h1>
+<p class="dict-en">Inglês: Telemetry · Etimologia: grego tele (longe, distante) + metron (medida)</p>
+<p class="disc-lead">Telemetria (telemetry) é a coleta, registro e transmissão automatizada de dados de desempenho, registros de eventos, métricas e rastros de diagnóstico a partir de sistemas remotos para plataformas centrais de análise.</p>
+<section class="disc-sec"><h2>Definição e etimologia</h2><p>A palavra se origina dos radicais gregos tele (distante) e metron (medir). No desenvolvimento de software moderno, a telemetria informa continuamente aos engenheiros como suas aplicações se comportam em produção: revelando funcionalidades mais acessadas, gargalos de rede e falhas de execução.</p></section>
+<section class="disc-sec"><h2>Contexto cotidiano e uso prático</h2><p>Aplicações práticas da telemetria :</p><ul><li><strong>Depuração e Falhas:</strong> Envio automático do rastreamento de pilha (stack trace) quando ocorre uma pane.</li><li><strong>Decisões de Produto:</strong> Avaliação empírica do uso de recursos para guiar o roadmap.</li><li><strong>Operação de Nuvem:</strong> Acompanhamento de carga de CPU, consumo de memória e latência de rede.</li></ul></section>
+<section class="disc-sec"><h2>Profundidade técnica e arquitetura</h2><p>Os Três Pilares da Observabilidade :</p><ul><li><strong>Logs:</strong> Registros textuais pontuais contendo marcação temporal de acontecimentos.</li><li><strong>Métricas:</strong> Séries temporais numéricas como volume de requisições por segundo ou taxas de erro.</li><li><strong>Traces:</strong> O trajeto completo percorrido por uma requisição por múltiplos microsserviços.</li><li><strong>OpenTelemetry:</strong> Padrão aberto da indústria para instrumentação independente de fornecedor.</li></ul></section>
+<section class="disc-sec"><h2>Costuma ser confundido com</h2><p>Frequentemente confunde-se com simples registros de log. O log é um registro isolado; a telemetria é o conjunto articulado de métricas, traces e logs transmitidos de forma coordenada para uma central de dados.</p></section>
+<section class="disc-sec"><h2>Perspectivas interdisciplinares</h2><p>Comparações em outros campos :</p><ul><li><strong>Saúde:</strong> Monitores de UTI transmitindo frequência cardíaca e pressão para a central médica.</li><li><strong>Aviação:</strong> Sistemas de telemetria de voo enviando parâmetros de motores para equipes em terra.</li><li><strong>Fórmula 1:</strong> Sensores enviando telemetria aerodinâmica em tempo real para os engenheiros nos boxes.</li></ul></section>
+<div class="dict-analogy">É como os sensores eletrônicos de um carro que medem a rotação do motor, nível de combustível e temperatura, transmitindo tudo diretamente para o painel do motorista.</div>
+<section class="disc-sec"><h2>Perguntas frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">A telemetria compromete a privacidade dos usuários?</p><p class="dict-faq-a">Sistemas bem projetados removem dados sensíveis (PII) antes do envio e oferecem mecanismos claros de desativação.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Qual a diferença entre telemetria e monitoramento?</p><p class="dict-faq-a">A telemetria transporta as medições coletadas; o monitoramento analisa essas medições e dispara alertas operacionais.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Por que o padrão OpenTelemetry se tornou tão popular?</p><p class="dict-faq-a">Porque unifica a instrumentação de métricas e rastros em um formato aberto, sem prender a empresa a um único serviço de análise.</p></div><div class="dict-faq-item"><p class="dict-faq-q">O que acontece quando o dispositivo fica sem internet?</p><p class="dict-faq-a">Agentes de telemetria acumulam os eventos em memória ou disco local, enviando-os assim que a conexão for reestabelecida.</p></div></div></section>
+<section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/logs/">Logs</a><a href="/pt/dictionary/observability/">Observability</a><a href="/pt/dictionary/metrics/">Metrics</a></div></section>
 <aside class="disc-cta"><p><strong>Explore ferramentas relacionadas e relatórios diários.</strong> Novos termos e ferramentas surgem todos os dias · junte-se ao acesso antecipado da TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-pt" data-page-type="dictionary" data-content-slug="telemetry" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Seu e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Acesso antecipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Li o <a href="/pt/privacy.html" target="_blank" rel="noopener">aviso de privacidade</a> e concordo com o tratamento do meu e-mail para esta finalidade.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/pt/dictionary/">Todos os termos →</a></aside>
 <p class="disc-disclaimer">Esta explicação foi escrita em linguagem simples para a TreScout e <strong>traduzida automaticamente</strong> do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/telemetry/">Ler em turco →</a></p>
 </article>
