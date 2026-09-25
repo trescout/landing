@@ -29,7 +29,7 @@ Software engineering research demonstrates that developers spend more than 80% o
 ## Frequently asked questions
 
 ### Why does the Google Java Style Guide use 2 spaces instead of 4?
-Two-space indentation prevents deep nesting—such as chained lambdas, anonymous classes, and fluent builder patterns—from exceeding the horizontal 100-character column limit.
+Two-space indentation prevents deep nesting, such as chained lambdas, anonymous classes, and fluent builder patterns, from exceeding the horizontal 100-character column limit.
 
 ### How can Google Java styling be automated in projects?
 Engineers integrate the official 'google-java-format' tool into IDEs (IntelliJ, Eclipse, VS Code) or enforce it in Maven/Gradle builds via the Spotless plugin.

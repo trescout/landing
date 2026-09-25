@@ -1,4 +1,4 @@
-# Geliştiriciler için ücretsiz SaaS ve bulut altyapıları rehberi
+# Ücretsiz geliştirici araçları kaynak listesi
 
 free-for-dev, yazılım geliştiricilerin, girişimcilerin ve altyapı mühendislerinin sıfır sermaye ile MVP ve projeler inşa edebilmesi için kalıcı ücretsiz katman (free tier) sunan binden fazla SaaS, PaaS ve IaaS servisini listeleyen açık kaynaklı devasa bir kaynak kütüphanesidir.
 

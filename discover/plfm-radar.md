@@ -1,4 +1,4 @@
-# Açık kaynaklı faz dizili radar sistemi
+# Açık kaynaklı faz dizili radar
 
 PLFM RADAR, 10.5 GHz (X-bandı) frekansında çalışan, elektronik huzme yönlendirme (electronic beam steering) ve FPGA tabanlı sayısal sinyal işleme yeteneklerine sahip açık kaynaklı bir faz dizili radar sistemidir. Mekanik hareketli parça kullanmaksızın hava ve yer hedeflerini yüksek hassasiyetle tespit edip izler.
 

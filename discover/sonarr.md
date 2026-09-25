@@ -1,4 +1,4 @@
-# Dizi arşivinizi ve medya akışınızı otomatik yönetin
+# Dizi arşivinizi otomatik yönetin
 
 Sonarr, Usenet (haber grupları) ve BitTorrent kullanıcıları için geliştirilmiş açık kaynaklı, akıllı bir kişisel video kaydedici (PVR) ve medya otomasyon yöneticisidir. C# ve .NET altyapısıyla geliştirilen platform; yeni yayınlanan bölümleri takip eder, indirme istemcileriyle iletişim kurar, dosyaları yeniden adlandırıp Plex ve Jellyfin kütüphanelerine düzenli şekilde aktarır.
 

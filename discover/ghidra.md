@@ -1,4 +1,4 @@
-# Yazılım tersine mühendislik ve analiz çerçevesi
+# Yazılım tersine mühendislik için analiz çerçevesi
 
 Ghidra, Ulusal Güvenlik Ajansı (NSA) tarafından geliştirilen ve açık kaynak olarak paylaşılan kapsamlı bir yazılım tersine mühendislik (SRE) çerçevesidir. Java ve C++ çekirdeğiyle geliştirilen platform; derlenmiş ikili (binary) dosyaları kaynak koda dönüştürür, güvenlik araştırmacılarına gelişmiş dekompiler, simbolik analiz ve çoklu mimari desteği sunar.
 
