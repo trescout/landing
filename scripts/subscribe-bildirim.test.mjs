@@ -258,6 +258,62 @@ test('kilit kapalıyken ("false") tekrar kayıt da (409) sağlayıcıya gitmez',
   bildirimKilidiniSifirla();
 });
 
+test('gövdede source/path yokken Referer başlığından kaynak ve sayfa yedeklenir', async () => {
+  stubFetch((url) => {
+    if (url.includes('/audiences/')) return new Response('{}', { status: 201 });
+    if (url.endsWith('/emails')) return new Response('{}', { status: 200 });
+    throw new Error('beklenmeyen istek: ' + url);
+  });
+
+  ipCounter += 1;
+  const req = new Request('https://trescout.com/api/subscribe', {
+    method: 'POST',
+    headers: {
+      origin: 'https://trescout.com',
+      referer: 'https://trescout.com/dictionary/local/',
+      'content-type': 'application/json',
+      'x-forwarded-for': `203.0.113.${(ipCounter % 250) + 1}`,
+    },
+    body: JSON.stringify({ email: 'referer-test@example.com', consent: true }),
+  });
+
+  const response = await handler(req);
+  assert.equal(response.status, 200);
+  assert.equal(calls.length, 2);
+
+  const emailBody = JSON.parse(calls[1].init.body);
+  assert.ok(emailBody.text.includes('Kaynak: dictionary'));
+  assert.ok(emailBody.text.includes('Sayfa: https://trescout.com/dictionary/local/'));
+});
+
+test('İngilizce sayfadan urlencoded form geldiğinde Referer başlığından kaynak ve sayfa çıkarılır', async () => {
+  stubFetch((url) => {
+    if (url.includes('/audiences/')) return new Response('{}', { status: 201 });
+    if (url.endsWith('/emails')) return new Response('{}', { status: 200 });
+    throw new Error('beklenmeyen istek: ' + url);
+  });
+
+  ipCounter += 1;
+  const req = new Request('https://trescout.com/api/subscribe', {
+    method: 'POST',
+    headers: {
+      origin: 'https://trescout.com',
+      referer: 'https://trescout.com/en/dictionary/open-weight/',
+      'content-type': 'application/x-www-form-urlencoded',
+      'x-forwarded-for': `203.0.113.${(ipCounter % 250) + 1}`,
+    },
+    body: 'email=en-test%40example.com&consent=on',
+  });
+
+  const response = await handler(req);
+  assert.equal(response.status, 200);
+  assert.equal(calls.length, 2);
+
+  const emailBody = JSON.parse(calls[1].init.body);
+  assert.ok(emailBody.text.includes('Kaynak: dictionary-en'));
+  assert.ok(emailBody.text.includes('Sayfa: https://trescout.com/en/dictionary/open-weight/'));
+});
+
 test.after(() => {
   globalThis.fetch = realFetch;
   delete process.env.SUBSCRIBE_NOTIFY_ENABLED;
