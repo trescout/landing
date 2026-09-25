@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Qu'est-ce que Local ? · Glossaire · TreScout</title>
-<meta name="description" content="Cela signifie que les programmes ou les données s&#39;exécutent entièrement sur votre appareil, sans avoir besoin d&#39;Internet.">
+<title>Local en informatique : localhost, portée locale, Local-First et IA locale · TreScout</title>
+<meta name="description" content="Comprendre le terme local en informatique : interface loopback (127.0.0.1), portée des variables, mouvement Local-First et modèles d'IA locaux.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/fr/dictionary/local/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/local/">
@@ -15,8 +15,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/local/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/local/">
 <link rel="alternate" type="text/markdown" href="/fr/dictionary/local.md">
-<meta property="og:title" content="Qu'est-ce que Local ?">
-<meta property="og:description" content="Cela signifie que les programmes ou les données s&#39;exécutent entièrement sur votre appareil, sans avoir besoin d&#39;Internet.">
+<meta property="og:title" content="Local en informatique : localhost, portée locale, Local-First et IA locale · TreScout">
+<meta property="og:description" content="Comprendre le terme local en informatique : interface loopback (127.0.0.1), portée des variables, mouvement Local-First et modèles d'IA locaux.">
 <meta property="og:url" content="https://trescout.com/fr/dictionary/local/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="fr_FR">
@@ -26,8 +26,8 @@
 <meta property="og:image:alt" content="Qu&#39;est-ce que Local ?">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Qu&#39;est-ce que Local ?">
-<meta name="twitter:description" content="Cela signifie que les programmes ou les données s&#39;exécutent entièrement sur votre appareil, sans avoir besoin d&#39;Internet.">
+<meta name="twitter:title" content="Local en informatique : localhost, portée locale, Local-First et IA locale · TreScout">
+<meta name="twitter:description" content="Comprendre le terme local en informatique : interface loopback (127.0.0.1), portée des variables, mouvement Local-First et modèles d'IA locaux.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
@@ -55,19 +55,36 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/fr/dictionary/">← Glossaire</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossaire · Dev</span><time class="dict-time" datetime="2026-06-30">Dernière mise à jour : 30 juin 2026</time></div>
-<h1 class="disc-title">Qu'est-ce que <span class="disc-accent">Local</span> ?</h1>
-<p class="disc-lead">Cela signifie que les programmes ou les données s&#39;exécutent entièrement sur votre appareil, sans avoir besoin d&#39;Internet.</p>
-<section class="disc-sec"><h2>Définition</h2><p>Aujourd’hui, la plupart des applications envoient des données vers le cloud. Dans le principe de fonctionnement local, tout se termine dans le processeur de votre ordinateur ou téléphone. Cela signifie que vos données ne sont pas divulguées.</p></section>
-<div class="dict-analogy"><strong>Analogie :</strong> C&#39;est comme cuisiner dans votre propre cuisine avec vos propres ingrédients, plutôt que de manger au restaurant.</div>
-<section class="disc-sec"><h2>Comment ça marche</h2><p>Au lieu d&#39;utiliser le logiciel sur le cloud, vous téléchargez les fichiers d&#39;installation sur votre appareil. Même si vous désactivez Internet, le programme continue de fonctionner avec toutes ses fonctionnalités.</p></section>
-<section class="disc-sec"><h2>Où est-ce utilisé</h2><p>Il est utilisé dans les outils d’intelligence artificielle axés sur la confidentialité, les systèmes de gestion de fichiers personnels et les environnements de développement de logiciels sécurisés.</p></section>
-<section class="disc-sec"><h2>Souvent confondu avec</h2><p>Il est similaire à l&#39;auto-hébergement, mais local fait généralement référence à un seul appareil, tandis que l&#39;auto-hébergement fait référence à un serveur.</p></section>
-<section class="disc-sec"><h2>Questions fréquentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Quel est le plus grand avantage de travailler localement ?</p><p class="dict-faq-a">Son plus grand avantage est la confidentialité ; Vos données ne quittent jamais votre appareil.</p></div></div></section>
-<section class="disc-sec"><h2>Termes liés</h2><div class="dict-related"><a href="/fr/dictionary/self-hosted/">Self-hosted</a><a href="/fr/dictionary/offline/">Offline</a></div></section>
+
+<div class="disc-top"><span class="disc-eyebrow">Glossaire · Dev</span><time class="dict-time" datetime="2026-09-19">Dernière mise à jour : 19 septembre 2026</time></div>
+
+<h1 class="disc-title">Local <span class='disc-accent'>Localhost, portée des variables, Local-First et IA locale</span></h1>
+
+<p class="disc-lead">Le terme local en informatique qualifie les ressources matérielles, logiciels et espaces de stockage situés directement sur l'ordinateur physique de l'utilisateur, par opposition aux services distants du cloud.</p>
+
+<section class="disc-sec"><h2>Étymologie et les 4 strates du local en informatique</h2><p>Le mot <em>local</em> découle du latin <em>locus</em> (lieu). En informatique, il incarne l'autonomie et la proximité spatiale à travers quatre couches : les réseaux, l'exécution mémoire, l'architecture logicielle et l'intelligence artificielle.</p></section>
+
+<section class="disc-sec"><h2>1. Couche réseau : Localhost et interface de bouclage (Loopback)</h2><p>En réseau, le local fait référence à l'adresse de bouclage interne :</p><ul><li><strong>Adresse Loopback (127.0.0.1 et ::1) :</strong> Une adresse IP spéciale qui réinjecte directement les paquets dans la pile réseau du système d'exploitation sans solliciter de carte réseau physique.</li><li><strong>Bac à sable de développement :</strong> Faire tourner un serveur sur <code>localhost:3000</code> permet de tester des programmes en isolation totale sans risque d'exposition extérieure.</li></ul></section>
+
+<section class="disc-sec"><h2>2. Langages de programmation : la portée locale (Local Scope)</h2><p>Dans le code source, la portée (scope) détermine la durée de vie des variables :</p><ul><li><strong>Variables locales :</strong> Allouées sur la pile d'exécution (stack) lors de l'appel d'une fonction, elles disparaissent automatiquement à la fin de celle-ci.</li><li><strong>Isolation contre les effets de bord :</strong> Le cloisonnement local empêche les collisions de noms et les accès concurrents imprévus en mémoire.</li></ul></section>
+
+<section class="disc-sec"><h2>3. Révolution architecturale : le paradigme Local-First</h2><p>Théorisé par les chercheurs d'Ink & Switch, le modèle <strong>Local-First</strong> unit le confort collaboratif du cloud à l'autonomie et la rapidité des logiciels de bureau historiques :</p><ul><li><strong>Données souveraines sur l'appareil :</strong> L'application écrit en premier lieu dans une base locale (SQLite, IndexedDB) avec une latence quasi nulle.</li><li><strong>CRDTs (types de données répliquées sans conflit) :</strong> Des structures mathématiques qui fusionnent automatiquement les modifications hors-ligne entre plusieurs utilisateurs sans conflit de version.</li></ul></section>
+
+<section class="disc-sec"><h2>4. La révolution de l'intelligence artificielle locale (Local AI)</h2><p>Faire tourner des modèles d'IA sur sa propre machine marque un tournant majeur :</p><ul><li><strong>Démocratisation matérielle :</strong> Grâce aux puces Apple Silicon et aux GPU grand public, des modèles comme Llama ou Whisper tournent localement via Ollama ou llama.cpp.</li><li><strong>Confidentialité absolue :</strong> Les documents d'entreprise sensibles et le code source restent sur l'ordinateur sans transiter par des serveurs tiers.</li></ul></section>
+
+<section class="disc-sec"><h2>Comparaison : Local vs Self-Hosted vs Cloud</h2><ul><li><strong>Local :</strong> S'exécute sur le PC personnel de l'utilisateur ; zéro dépendance réseau et confidentialité immédiate.</li><li><strong>Self-Hosted (Auto-hébergé) :</strong> S'exécute sur un serveur privé ou un homelab personnel accessible à distance via un VPN ou un réseau local.</li><li><strong>Cloud :</strong> Infrastructure louée chez un géant du Web (AWS, GCP) ; grande capacité d'échelle au prix d'abonnements mensuels récurrents.</li></ul></section>
+
+<div class="dict-analogy">Le cloud est comme manger au restaurant où l'on dépend totalement des cuisiniers et où l'on paie l'addition à chaque fois ; l'auto-hébergement est comme cuisiner chez soi dans sa propre cuisine ; le local est comme avoir un en-cas dans son sac à dos, disponible immédiatement même au milieu des bois sans réseau.</div>
+
+<section class="disc-sec"><h2>Questions fréquentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Que signifie localhost en réseau ?</p><p class="dict-faq-a">C'est le nom de domaine réservé qui pointe vers l'adresse interne 127.0.0.1, permettant à une machine de communiquer avec ses propres services logiciels.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Qu'est-ce qu'une application Local-First ?</p><p class="dict-faq-a">Une application qui stocke et traite ses données en priorité sur votre disque dur et qui se synchronise en arrière-plan lorsque le réseau est disponible.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Pourquoi privilégier les modèles d'IA exécutés en local ?</p><p class="dict-faq-a">Pour préserver la stricte confidentialité des données privées, supprimer les frais d'API récurrents et travailler sans connexion Internet.</p></div></div></section>
+
+<section class="disc-sec"><h2>Termes liés</h2><div class="dict-related"><a href="/fr/dictionary/self-hosted/">Self-hosted</a><a href="/fr/dictionary/offline/">Offline</a><a href="/fr/dictionary/runtime/">Runtime</a><a href="/fr/dictionary/network-stack/">Network Stack</a></div></section>
+
 <section class="disc-sec"><h2>Outils liés</h2><div class="dict-related"><a href="/fr/discover/magnitude/">Magnitude</a></div></section>
+
 <aside class="disc-cta"><p><strong>Explorez les outils associés et les rapports quotidiens.</strong> Suivez les nouveaux termes et outils technologiques chaque matin dans votre boîte de réception.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-fr" data-page-type="dictionary" data-content-slug="local" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Votre adresse e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Accès anticipé</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>J'ai lu <a href="/fr/privacy.html" target="_blank" rel="noopener">la notice de confidentialité</a> et je consens au traitement de mon adresse e-mail à cette fin.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/fr/dictionary/">Tous les termes →</a></aside>
-<p class="disc-disclaimer">Cette explication a été rédigée en langage clair pour TreScout puis <strong>traduite automatiquement</strong> depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/local/">Lire en turc →</a></p>
+
+<div class="dict-disclaimer">Cette explication a été rédigée en langage clair pour TreScout puis <strong>traduite automatiquement</strong> depuis l'original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/local/">Lire en turc →</a></div>
 </article>
 </main>
 <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">TreScout analyse, résume et livre. Vous n'avez qu'à lire.</p></div><div class="footer-col"><div class="footer-col-title">Produit</div><ul><li><a href="/fr/discover/">Découvrir</a></li><li><a href="/fr/dictionary/">Glossaire</a></li><li><a href="/fr/reports/">Archive des rapports</a></li><li><a href="/fr/compare/rss-vs-ai/">Comparer</a></li><li><a href="/fr/#top">Accès anticipé</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Contact</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/fr/privacy.html" target="_blank" rel="noopener">Notice de confidentialité</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Réseaux</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Tous droits réservés.</span></div></div></footer>

@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>What is Distributed? · Dictionary · TreScout</title>
-<meta name="description" content="It is the sharing of a job among multiple devices connected to the network instead of a single center.">
+<title>Distributed Systems: CAP Theorem, Consensus, and Saga Patterns · TreScout</title>
+<meta name="description" content="Master Distributed Systems: 8 fallacies of distributed computing, CAP & PACELC models, Raft/Paxos consensus, logical clocks, and Saga transactions.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/en/dictionary/distributed/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/distributed/">
@@ -15,8 +15,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/distributed/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/distributed/">
 <link rel="alternate" type="text/markdown" href="/en/dictionary/distributed.md">
-<meta property="og:title" content="What is Distributed?">
-<meta property="og:description" content="It is the sharing of a job among multiple devices connected to the network instead of a single center.">
+<meta property="og:title" content="Distributed Systems: CAP Theorem, Consensus, and Saga Patterns · TreScout">
+<meta property="og:description" content="Master Distributed Systems: 8 fallacies of distributed computing, CAP & PACELC models, Raft/Paxos consensus, logical clocks, and Saga transactions.">
 <meta property="og:url" content="https://trescout.com/en/dictionary/distributed/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
@@ -26,8 +26,8 @@
 <meta property="og:image:alt" content="What is Distributed?">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="What is Distributed?">
-<meta name="twitter:description" content="It is the sharing of a job among multiple devices connected to the network instead of a single center.">
+<meta name="twitter:title" content="Distributed Systems: CAP Theorem, Consensus, and Saga Patterns · TreScout">
+<meta name="twitter:description" content="Master Distributed Systems: 8 fallacies of distributed computing, CAP & PACELC models, Raft/Paxos consensus, logical clocks, and Saga transactions.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
@@ -55,19 +55,36 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/en/dictionary/">← Dictionary</a>
-<div class="disc-top"><span class="disc-eyebrow">Dictionary · Dev</span><time class="dict-time" datetime="2026-07-04">Last updated: July 4, 2026</time></div>
-<h1 class="disc-title">What is <span class="disc-accent">Distributed</span>?</h1>
-<p class="disc-lead">It is the sharing of a job among multiple devices connected to the network instead of a single center.</p>
-<section class="disc-sec"><h2>Overview</h2><p>Distributed systems divide large and complex tasks into parts and distribute them to different devices, rather than leaving them to the power of a single computer. This way, the system works faster and even if one device fails, the rest of the job can continue. It is the basic working principle of large-scale applications.</p></section>
-<div class="dict-analogy"><strong>Analogy:</strong> Painting a house is like five friends sharing the work and painting different rooms at the same time, instead of one person doing the job.</div>
-<section class="disc-sec"><h2>How it works</h2><p>The system divides the main job to be done into small parts. It then sends these pieces over the network to other computers. Each computer finishes its share and sends the result back to the center, which combines them.</p></section>
-<section class="disc-sec"><h2>Where it is used</h2><p>It is used in cloud computing systems, big data analysis and in the background of modern web applications.</p></section>
-<section class="disc-sec"><h2>Commonly confused with</h2><p>Can be mixed with central systems; In centralized systems, all the load is on a single powerful computer.</p></section>
-<section class="disc-sec"><h2>Frequently asked questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Why don&#39;t we do everything on one computer?</p><p class="dict-faq-a">The processing power and storage capacity of a single computer is limited; distributed systems allow us to overcome these limits.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Are distributed systems more prone to errors?</p><p class="dict-faq-a">Yes, it has additional challenges such as network connectivity or device compatibility, but it is much more reliable when set up correctly.</p></div></div></section>
-<section class="disc-sec"><h2>Related terms</h2><div class="dict-related"><a href="/en/dictionary/cloud-native/">Cloud Native</a><a href="/en/dictionary/service-mesh/">Service Mesh</a><a href="/en/dictionary/multi-tenancy/">Multi-tenancy</a></div></section>
+
+<div class="disc-top"><span class="disc-eyebrow">Dictionary · Dev</span><time class="dict-time" datetime="2026-09-19">Last updated: September 19, 2026</time></div>
+
+<h1 class="disc-title">Distributed Systems <span class='disc-accent'>Fallacies, CAP theorem, consensus, and sagas</span></h1>
+
+<p class="disc-lead">A distributed system is a computing architecture where multiple independent machines (nodes) communicate and coordinate over a network, appearing to end users as a unified, coherent system.</p>
+
+<section class="disc-sec"><h2>Etymology and the Nature of Distributed Systems</h2><p>The term <em>distributed</em> comes from Latin <em>distribuere</em> (to divide, allocate, or apportion). As Leslie Lamport famously quipped: <em>&quot;A distributed system is one in which the failure of a computer you did not even know existed can render your own computer unusable.&quot;</em> Unlike centralized mainframes, distributed networks trade simplicity for infinite horizontal scalability and geographic fault tolerance.</p></section>
+
+<section class="disc-sec"><h2>The 8 Fallacies of Distributed Computing</h2><p>Formulated by L. Peter Deutsch and Sun Microsystems engineers, these eight false assumptions lead to brittle architectures if ignored:</p><ol><li>The network is reliable.</li><li>Latency is zero.</li><li>Bandwidth is infinite.</li><li>The network is secure.</li><li>Topology doesn't change.</li><li>There is one administrator.</li><li>Transport cost is zero.</li><li>The network is homogeneous.</li></ol></section>
+
+<section class="disc-sec"><h2>The CAP Theorem and PACELC Model</h2><p>Eric Brewer's <strong>CAP Theorem</strong> dictates that a distributed data store can guarantee at most two of three properties under network partitions:</p><ul><li><strong>Consistency (C):</strong> Every read receives the most recent write or an error.</li><li><strong>Availability (A):</strong> Every non-failing node returns a non-error response without guarantee of recent state.</li><li><strong>Partition Tolerance (P):</strong> The system continues to operate despite arbitrary message drops. Since network partitions cannot be avoided in real networks, systems must choose between CP (e.g., ZooKeeper, Google Spanner) or AP (e.g., Cassandra, DynamoDB).</li></ul><p>Daniel Abadi's <strong>PACELC model</strong> refines this: <em>If there is a Partition (P), trade off Availability (A) and Consistency (C); Else (E), trade off Latency (L) and Consistency (C).</em></p></section>
+
+<section class="disc-sec"><h2>Consensus Protocols: Raft and Paxos</h2><p>To agree on a single source of truth across untrusted networks, systems employ consensus algorithms:</p><ul><li><strong>Paxos:</strong> Leslie Lamport's mathematically proven algorithm based on proposer, acceptor, and learner roles; notoriously difficult to implement in real software.</li><li><strong>Raft:</strong> Designed by Ongaro and Ousterhout for understandability, Raft decomposes consensus into explicit Leader Election, Log Replication, and Safety invariants, powering systems like etcd and HashiCorp Consul.</li></ul></section>
+
+<section class="disc-sec"><h2>The Problem of Time in Distributed Systems and Solutions</h2><p>Without a single shared physical quartz clock, ordering events across machines is physically impossible due to clock drift (relativistic network delays):</p><ul><li><strong>Lamport Timestamps & Vector Clocks:</strong> Logical counters establishing causal relationships (&quot;happened-before&quot;) without relying on physical time.</li><li><strong>Google TrueTime:</strong> Hardware architecture integrating atomic clocks and GPS receivers into data centers, bounding clock uncertainty within small milliseconds intervals (used in Spanner).</li></ul></section>
+
+<section class="disc-sec"><h2>Distributed Data and Transaction Management: The Saga Pattern</h2><p>Classic two-phase commit (2PC) locks database rows and fails under high scale. Modern microservice architectures utilize the <strong>Saga Pattern</strong>:</p><ul><li>A series of local transactions coordinated either through an orchestrator (central state machine) or choreography (event-driven pub/sub).</li><li>If any step fails, the system executes explicit compensating transactions backwards to reverse completed actions safely without global locking.</li></ul></section>
+
+<div class="dict-analogy">A centralized system is like a solitary chef cooking orders in a small food truck; a distributed system is like a global restaurant chain operating across five continents where hundreds of kitchens must fulfill matching recipes while handling phone disconnects and shipping delays.</div>
+
+<section class="disc-sec"><h2>Frequently asked questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">What is a distributed system in computer science?</p><p class="dict-faq-a">It is an architecture where multiple independent computers connected by a network coordinate state and tasks to act as a single system.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Why can a distributed database not have both C and A during a network split?</p><p class="dict-faq-a">Because if nodes cannot communicate, you must either accept writes and risk divergence (favoring Availability) or reject writes to maintain consistency (favoring Consistency).</p></div><div class="dict-faq-item"><p class="dict-faq-q">What is the difference between Raft and Paxos?</p><p class="dict-faq-a">Both achieve distributed consensus, but Raft was designed specifically to be easier for human engineers to understand and implement reliably.</p></div><div class="dict-faq-item"><p class="dict-faq-q">How does the Saga pattern replace distributed transactions?</p><p class="dict-faq-a">By executing a chain of independent local transactions and triggering backward compensating actions if any intermediate step fails.</p></div></div></section>
+
+<section class="disc-sec"><h2>Related terms</h2><div class="dict-related"><a href="/en/dictionary/cloud-computing/">Cloud Computing</a><a href="/en/dictionary/network-stack/">Network Stack</a><a href="/en/dictionary/deployment/">Deployment</a><a href="/en/dictionary/runtime/">Runtime</a></div></section>
+
 <section class="disc-sec"><h2>Related tools</h2><div class="dict-related"><a href="/en/discover/elasticsearch/">Elasticsearch</a><a href="/en/discover/cassandra/">Cassandra</a></div></section>
+
 <aside class="disc-cta"><p><strong>Explore related tools and daily reports.</strong> Stay on top of emerging tech terms and tools. Receive TreScout's daily summary in your inbox.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-en" data-page-type="dictionary" data-content-slug="distributed" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/dictionary/">All terms →</a></aside>
-<p class="disc-disclaimer">This explanation was written in plain language for TreScout and <strong>machine-translated</strong> from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/distributed/">Read in Turkish →</a></p>
+
+<div class="dict-disclaimer">This explanation was written in plain language for TreScout and <strong>machine-translated</strong> from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/distributed/">Read in Turkish →</a></div>
 </article>
 </main>
 <footer>

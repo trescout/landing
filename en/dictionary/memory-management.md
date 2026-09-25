@@ -1,32 +1,49 @@
-# What is Memory Management?
+# Memory Management Stack, Heap, garbage collection, and OS memory
 
-It is the regular placement and cleaning of data in order to use the computer's temporary memory efficiently.
 
-## Overview
-RAM, which is the temporary memory of computers, has limited space. Memory management is a system management that decides which data will remain in memory for how long and how it will be deleted when it is finished.
+**Category:** Dev  
 
-*Analogy: It's like a librarian taking the read books off the shelves and putting them into storage or sending them for recycling to prevent the shelves from overflowing.*
+**Last updated:** 2026-09-19
 
-## How it works
-While programs are running, they write the data they need into memory. The system keeps track of this data and clears out what is no longer needed, making room for new data.
 
-## Where it is used
-It runs in the background on operating systems, game engines and all software that requires high performance.
+Memory management is the software and operating system mechanism that governs how volatile random-access memory (RAM) is dynamically allocated, tracked, and safely reclaimed during an application's lifecycle.
 
-## Commonly confused with
-Not to be confused with storage (hard disk); This process only concerns temporary memory (RAM).
+
+## 1. Memory Anatomy: The Division Between Stack and Heap
+A computer program organizes its allocated runtime memory into two distinct primary structures:
+- **Stack Memory:** A fast, contiguous LIFO (Last-In, First-Out) memory structure managed directly by the CPU instruction pointer. It holds function call frames, local primitive variables, and pointer addresses. Allocation is instantaneous as it merely increments the Stack Pointer register (RSP), and deallocation occurs automatically when a function scope returns.- **Heap Memory:** A large, unstructured pool of volatile memory used for dynamic runtime allocations whose sizes or lifespans cannot be known at compile time. Requesting heap memory involves calling system allocators (like malloc), traversing memory fragmentation structures, and returning pointers, making it slower than stack operations.
+
+## 2. Three Core Paradigms of Memory Management
+Across programming languages, memory management adheres to three primary paradigms:
+- **Manual Memory Management (C, C++):** Developers explicitly allocate heap blocks using <code>malloc()</code> or <code>new</code> and must manually invoke <code>free()</code> or <code>delete</code>. While delivering maximum performance, manual management carries severe risks of memory leaks, use-after-free corruptions, and double-free security exploits.- **Automated Garbage Collection (Java, Go, JavaScript, Python):** A runtime garbage collector (GC) periodically scans memory graphs to detect unreferenced objects and reclaim them. Advanced GCs employ generational hypotheses and concurrent mark-and-sweep algorithms, trading small CPU and latency pauses for programmer safety.- **Compile-Time Ownership and Borrowing (Rust):** Rust introduces memory safety without a garbage collector through a strict compiler ownership model: every value has a single owner variable, and the compiler statically verifies borrow lifespans, freeing memory deterministically when owners drop out of scope.
+
+## 3. Operating System Level: Virtual Memory, Paging, and OOM Killer
+Beneath application code, the operating system kernel coordinates physical RAM via hardware Memory Management Units (MMU):
+- **Virtual Memory & Paging:** Each process operates within an isolated virtual address space divided into uniform 4 KB or 2 MB pages. The MMU maps virtual pages to physical hardware frames via page tables.- **Page Faults & Swap:** When a program addresses memory currently swapped out to disk storage, the OS triggers a page fault to retrieve the data back into RAM.- **Out of Memory (OOM) Killer:** When system memory is exhausted, the Linux kernel invokes the OOM Killer, scoring processes based on memory usage and terminating high-consumption processes (like runaway databases or web workers) to keep the core OS stable.
+
+## Analogy
+Stack memory is like a stack of plates on a dining table where you quickly place and remove items from the very top; heap memory is like a vast commercial warehouse where you rent storage space for arbitrary crates and need a cataloging system to remember where each parcel was placed.
 
 ## Frequently asked questions
-**What happens if memory management is poor?**
-The computer may slow down, freeze, or programs may crash and close.
 
-**Should I do this?**
-Most modern languages ​​do this automatically, but manual checking may be required if you are developing system-level software.
+**What is the difference between Stack and Heap memory?**  
+Stack memory is automatic, extremely fast, and limited to local function execution scopes; Heap memory is dynamic, large, and requires explicit tracking or garbage collection.
 
+**What is a memory leak?**  
+A memory leak occurs when an application allocates heap memory but fails to release it after it is no longer needed, causing memory usage to climb until the system crashes.
+
+**How does Rust achieve memory safety without a garbage collector?**  
+Rust uses compile-time ownership, borrowing, and lifetime rules that ensure memory is freed deterministically as soon as its owner variable goes out of scope.
+
+**What triggers the Linux Out of Memory (OOM) Killer?**  
+When physical RAM and swap space are completely exhausted and the kernel cannot satisfy new allocation requests, it kills memory-heavy processes to prevent a total system freeze.
 
 ## Related terms
+- [Runtime](/en/dictionary/runtime/)
 - [State Management](/en/dictionary/state-management/)
-- [Memory Engine](/en/dictionary/memory-engine/)
+- [Serialization](/en/dictionary/serialization/)
+- [Network Stack](/en/dictionary/network-stack/)
+- [Assembly](/en/dictionary/assembly/)
 
 ---
-Source: TreScout Dictionary · https://trescout.com/en/dictionary/memory-management/
+Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/memory-management/

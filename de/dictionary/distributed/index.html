@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Was ist Distributed? · Glossar · TreScout</title>
-<meta name="description" content="Dabei handelt es sich um die Aufteilung eines Jobs auf mehrere mit dem Netzwerk verbundene Geräte statt auf ein einzelnes Zentrum.">
+<title>Verteilte Systeme: CAP-Theorem, Konsensprotokolle und Saga-Pattern · TreScout</title>
+<meta name="description" content="Verstehen Sie verteilte Systeme: 8 Irrtümer von Deutsch, CAP- und PACELC-Modell, Konsens per Raft/Paxos, logische Uhren und Saga-Transaktionen.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/de/dictionary/distributed/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/distributed/">
@@ -15,8 +15,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/distributed/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/distributed/">
 <link rel="alternate" type="text/markdown" href="/de/dictionary/distributed.md">
-<meta property="og:title" content="Was ist Distributed?">
-<meta property="og:description" content="Dabei handelt es sich um die Aufteilung eines Jobs auf mehrere mit dem Netzwerk verbundene Geräte statt auf ein einzelnes Zentrum.">
+<meta property="og:title" content="Verteilte Systeme: CAP-Theorem, Konsensprotokolle und Saga-Pattern · TreScout">
+<meta property="og:description" content="Verstehen Sie verteilte Systeme: 8 Irrtümer von Deutsch, CAP- und PACELC-Modell, Konsens per Raft/Paxos, logische Uhren und Saga-Transaktionen.">
 <meta property="og:url" content="https://trescout.com/de/dictionary/distributed/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="de_DE">
@@ -26,8 +26,8 @@
 <meta property="og:image:alt" content="Was ist Distributed?">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Was ist Distributed?">
-<meta name="twitter:description" content="Dabei handelt es sich um die Aufteilung eines Jobs auf mehrere mit dem Netzwerk verbundene Geräte statt auf ein einzelnes Zentrum.">
+<meta name="twitter:title" content="Verteilte Systeme: CAP-Theorem, Konsensprotokolle und Saga-Pattern · TreScout">
+<meta name="twitter:description" content="Verstehen Sie verteilte Systeme: 8 Irrtümer von Deutsch, CAP- und PACELC-Modell, Konsens per Raft/Paxos, logische Uhren und Saga-Transaktionen.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
@@ -55,19 +55,36 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/de/dictionary/">← Glossar</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossar · Dev</span><time class="dict-time" datetime="2026-07-04">Zuletzt aktualisiert: 4. Juli 2026</time></div>
-<h1 class="disc-title">Was ist <span class="disc-accent">Distributed</span>?</h1>
-<p class="disc-lead">Dabei handelt es sich um die Aufteilung eines Jobs auf mehrere mit dem Netzwerk verbundene Geräte statt auf ein einzelnes Zentrum.</p>
-<section class="disc-sec"><h2>Definition</h2><p>Verteilte Systeme unterteilen große und komplexe Aufgaben in Teile und verteilen sie auf verschiedene Geräte, anstatt sie einem einzelnen Computer zu überlassen. Auf diese Weise arbeitet das System schneller und selbst wenn ein Gerät ausfällt, kann der Rest der Arbeit weitergeführt werden. Es ist das grundlegende Arbeitsprinzip groß angelegter Anwendungen.</p></section>
-<div class="dict-analogy"><strong>Analogie:</strong> Ein Haus zu streichen ist so, als würden sich fünf Freunde die Arbeit teilen und gleichzeitig verschiedene Räume streichen, anstatt dass eine Person die Arbeit erledigt.</div>
-<section class="disc-sec"><h2>So funktioniert es</h2><p>Das System unterteilt die zu erledigende Hauptarbeit in kleine Teile. Anschließend werden diese Teile über das Netzwerk an andere Computer gesendet. Jeder Computer beendet seinen Anteil und sendet das Ergebnis zurück an die Zentrale, die sie zusammenführt.</p></section>
-<section class="disc-sec"><h2>Wo es eingesetzt wird</h2><p>Es wird in Cloud-Computing-Systemen, bei Big-Data-Analysen und im Hintergrund moderner Webanwendungen eingesetzt.</p></section>
-<section class="disc-sec"><h2>Häufig verwechselt mit</h2><p>Mischbar mit Zentralsystemen; In zentralisierten Systemen liegt die gesamte Last auf einem einzigen leistungsstarken Computer.</p></section>
-<section class="disc-sec"><h2>Häufige Fragen</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Warum machen wir nicht alles auf einem Computer?</p><p class="dict-faq-a">Die Rechenleistung und Speicherkapazität eines einzelnen Computers ist begrenzt; Verteilte Systeme ermöglichen es uns, diese Grenzen zu überwinden.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Sind verteilte Systeme fehleranfälliger?</p><p class="dict-faq-a">Ja, es gibt zusätzliche Herausforderungen wie Netzwerkkonnektivität oder Gerätekompatibilität, aber bei korrekter Einrichtung ist es viel zuverlässiger.</p></div></div></section>
-<section class="disc-sec"><h2>Verwandte Begriffe</h2><div class="dict-related"><a href="/de/dictionary/cloud-native/">Cloud Native</a><a href="/de/dictionary/service-mesh/">Service Mesh</a><a href="/de/dictionary/multi-tenancy/">Multi-tenancy</a></div></section>
+
+<div class="disc-top"><span class="disc-eyebrow">Glossar · Dev</span><time class="dict-time" datetime="2026-09-19">Zuletzt aktualisiert: 19. September 2026</time></div>
+
+<h1 class="disc-title">Distributed Systems <span class='disc-accent'>Irrtümer, CAP-Theorem, Konsens und Saga-Muster</span></h1>
+
+<p class="disc-lead">Ein verteiltes System (Distributed System) ist ein Verbund unabhängiger Rechnerknoten, die über ein Computernetzwerk kommunizieren und zusammenarbeiten, um für den Anwender wie ein einziges, konsistentes Gesamtsystem zu wirken.</p>
+
+<section class="disc-sec"><h2>Etymologie und das Wesen verteilter Systeme</h2><p>Der Begriff stammt vom lateinischen <em>distribuere</em> (aufteilen, zuteilen). Treffend beschrieb es Leslie Lamport : <em>«Ein verteiltes System ist ein System, bei dem der Ausfall eines Computers, von dessen Existenz man nicht einmal wusste, den eigenen Rechner lahmlegen kann.»</em> Sie bieten Ausfallsicherheit und Skalierbarkeit um den Preis höherer Komplexität.</p></section>
+
+<section class="disc-sec"><h2>Die 8 Irrtümer verteilter Systeme (Deutsch)</h2><p>Diese von Sun-Microsystems-Ingenieuren formulierten Fehlannahmen führen bei Nichtbeachtung zum Scheitern von Großprojekten :</p><ol><li>Das Netzwerk ist zuverlässig.</li><li>Die Latenzzeit ist gleich null.</li><li>Die Bandbreite ist unendlich.</li><li>Das Netzwerk ist sicher.</li><li>Die Netzwerktopologie ändert sich nie.</li><li>Es gibt nur einen einzigen Administrator.</li><li>Die Transportkosten sind gleich null.</li><li>Das Netzwerk ist homogen.</li></ol></section>
+
+<section class="disc-sec"><h2>Das CAP-Theorem und das PACELC-Modell</h2><p>Eric Brewers <strong>CAP-Theorem</strong> belegt, dass verteilte Datenbanken bei einer Netzwerkpartitionierung nur zwei von drei Garantien einhalten können :</p><ul><li><strong>Konsistenz (C):</strong> Jeder Lesezugriff liefert den neuesten Schreibwert oder einen Fehler.</li><li><strong>Verfügbarkeit (A):</strong> Jeder intakte Knoten antwortet ohne Ausfallgarantie auf aktuelle Daten.</li><li><strong>Partitionstoleranz (P):</strong> Das System übersteht Netzwerktrennungen. Da Netzwerkfehler unausweichlich sind, muss man zwischen CP (z. B. etcd) und AP (z. B. Cassandra) wählen.</li></ul><p>Das <strong>PACELC-Modell</strong> erweitert dies : <em>Tritt eine Partition (P) auf, wähle zwischen Verfügbarkeit (A) und Konsistenz (C) ; andernfalls (Else) wähle zwischen Latenz (L) und Konsistenz (C).</em></p></section>
+
+<section class="disc-sec"><h2>Konsensprotokolle: Raft und Paxos</h2><p>Um bei Übertragungsfehlern eine verbindliche gemeinsame Wahrheit herzustellen :</p><ul><li><strong>Paxos:</strong> Der mathematisch bewiesene Urvater aller Konsensalgorithmen von Leslie Lamport, berüchtigt für seine schwierige Implementierung.</li><li><strong>Raft:</strong> Speziell auf Verständlichkeit hin entwickelt, zerlegt es Konsens in Leader-Wahl, Log-Replikation und Zustandssicherheit (Herzstück von etcd).</li></ul></section>
+
+<section class="disc-sec"><h2>Das Zeitproblem und logische Uhren</h2><p>Ohne gemeinsame Atomuhr ist das Bestimmen der exakten zeitlichen Reihenfolge von Ereignissen über Netze hinweg physikalisch unmöglich :</p><ul><li><strong>Lamport- und Vektor-Uhren:</strong> Abstrakte Zähler, die kausale Abhängigkeiten abbilden, ohne reale Sekunden messen zu müssen.</li><li><strong>Google TrueTime:</strong> Eine Kombination aus Atomuhren und GPS-Empfängern in Rechenzentren, die Zeitunsicherheiten auf wenige Millisekunden eingrenzt.</li></ul></section>
+
+<section class="disc-sec"><h2>Verteiltes Datenmanagement: Das Saga-Pattern</h2><p>Das veraltete Two-Phase-Commit-Verfahren (2PC) blockiert Ressourcen und skaliert nicht. Moderne Architekturen nutzen das <strong>Saga-Pattern</strong> :</p><ul><li>Eine Abfolge lokaler Datenbanktransaktionen, koordiniert durch einen zentralen Orchestrator oder über Event-Choreografie.</li><li>Schlägt ein Teilschritt fehl, führt das System rückwärts kompensierende Transaktionen aus, um den Ausgangszustand sauber wiederherzustellen.</li></ul></section>
+
+<div class="dict-analogy">Ein zentralisiertes System ist wie ein einzelner Koch in einem Foodtruck; ein verteiltes System gleicht einer weltweiten Restaurantkette, in der hunderte Küchen die gleichen Menüs servieren müssen, während Telefonverbindungen ausfallen und Lieferanten im Stau stehen.</div>
+
+<section class="disc-sec"><h2>Häufig gestellte Fragen</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Was zeichnet ein verteiltes System aus?</p><p class="dict-faq-a">Dass mehrere eigenständige Rechner über ein Netzwerk Aufgaben gemeinsam bearbeiten und nach außen wie ein einziger Computer auftreten.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Warum kann man laut CAP-Theorem nicht Konsistenz und Verfügbarkeit gleichzeitig haben?</p><p class="dict-faq-a">Weil man bei einer gekappten Verbindung zwischen Servern entweder Anfragen ablehnen muss (Ausfall) oder inkonsistente Daten riskiert.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Worin liegt der Vorteil von Raft gegenüber Paxos?</p><p class="dict-faq-a">Raft wurde gezielt daraufhin entworfen, für Softwareentwickler leicht verständlich und fehlerfrei implementierbar zu sein.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Wie funktioniert das Saga-Pattern?</p><p class="dict-faq-a">Es unterteilt Geschäftsprozesse in lokale Transaktionen und führt bei Fehlern Ausgleichsoperationen durch, um globale Datenbanksperren zu vermeiden.</p></div></div></section>
+
+<section class="disc-sec"><h2>Verwandte Begriffe</h2><div class="dict-related"><a href="/de/dictionary/cloud-computing/">Cloud Computing</a><a href="/de/dictionary/network-stack/">Network Stack</a><a href="/de/dictionary/deployment/">Deployment</a><a href="/de/dictionary/runtime/">Runtime</a></div></section>
+
 <section class="disc-sec"><h2>Verwandte Werkzeuge</h2><div class="dict-related"><a href="/de/discover/elasticsearch/">Elasticsearch</a><a href="/de/discover/cassandra/">Cassandra</a></div></section>
+
 <aside class="disc-cta"><p><strong>Entdecken Sie passende Werkzeuge und tägliche Berichte.</strong> Jeden Tag entstehen neue Fachbegriffe und Tools · sichern Sie sich den Vorabzugang zu TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-de" data-page-type="dictionary" data-content-slug="distributed" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Ihre E-Mail-Adresse" autocomplete="email" required><button class="btn btn-primary" type="submit">Vorabzugang</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Ich habe den <a href="/de/privacy.html" target="_blank" rel="noopener">Datenschutzhinweis</a> gelesen und bin damit einverstanden, dass meine E-Mail-Adresse zu diesem Zweck verarbeitet wird.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/de/dictionary/">Alle Begriffe →</a></aside>
-<p class="disc-disclaimer">Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und <strong>maschinell übersetzt</strong> aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/distributed/">Auf Türkisch lesen →</a></p>
+
+<div class="dict-disclaimer">Diese Erklärung wurde in einfacher Sprache für TreScout verfasst und aus dem türkischen Original <strong>automatisch übersetzt</strong> · maßgeblich ist die türkische Fassung. Wenn etwas fehlerhaft oder unvollständig erscheint, schreiben Sie an <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/distributed/">Auf Türkisch lesen →</a></div>
 </article>
 </main>
 <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">TreScout durchsucht, fasst zusammen und liefert. Sie lesen nur.</p></div><div class="footer-col"><div class="footer-col-title">Produkt</div><ul><li><a href="/de/discover/">Entdecken</a></li><li><a href="/de/dictionary/">Glossar</a></li><li><a href="/de/reports/">Berichtsarchiv</a></li><li><a href="/de/compare/rss-vs-ai/">Vergleich</a></li><li><a href="/de/#top">Vorabzugang</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Kontakt</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/de/privacy.html" target="_blank" rel="noopener">Datenschutzhinweis</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Netzwerke</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Alle Rechte vorbehalten.</span></div></div></footer>

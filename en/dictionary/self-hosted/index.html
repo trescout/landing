@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>What is Self-hosted? · Dictionary · TreScout</title>
-<meta name="description" content="It is hosting a software on your own computer or dedicated server rather than on a third-party cloud service.">
+<title>Self-Hosted: Homelabs, Cloud Repatriation, and 3-2-1 Backups · TreScout</title>
+<meta name="description" content="Master Self-Hosted computing: overcoming SaaS fatigue, homelab hardware architectures, Docker orchestration, and the 3-2-1 backup discipline.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/en/dictionary/self-hosted/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/self-hosted/">
@@ -15,8 +15,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/self-hosted/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/self-hosted/">
 <link rel="alternate" type="text/markdown" href="/en/dictionary/self-hosted.md">
-<meta property="og:title" content="What is Self-hosted?">
-<meta property="og:description" content="It is hosting a software on your own computer or dedicated server rather than on a third-party cloud service.">
+<meta property="og:title" content="Self-Hosted: Homelabs, Cloud Repatriation, and 3-2-1 Backups · TreScout">
+<meta property="og:description" content="Master Self-Hosted computing: overcoming SaaS fatigue, homelab hardware architectures, Docker orchestration, and the 3-2-1 backup discipline.">
 <meta property="og:url" content="https://trescout.com/en/dictionary/self-hosted/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
@@ -26,8 +26,8 @@
 <meta property="og:image:alt" content="What is Self-hosted?">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="What is Self-hosted?">
-<meta name="twitter:description" content="It is hosting a software on your own computer or dedicated server rather than on a third-party cloud service.">
+<meta name="twitter:title" content="Self-Hosted: Homelabs, Cloud Repatriation, and 3-2-1 Backups · TreScout">
+<meta name="twitter:description" content="Master Self-Hosted computing: overcoming SaaS fatigue, homelab hardware architectures, Docker orchestration, and the 3-2-1 backup discipline.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
@@ -55,19 +55,36 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/en/dictionary/">← Dictionary</a>
-<div class="disc-top"><span class="disc-eyebrow">Dictionary · Dev</span><time class="dict-time" datetime="2026-06-26">Last updated: June 26, 2026</time></div>
-<h1 class="disc-title">What is <span class="disc-accent">Self-hosted</span>?</h1>
-<p class="disc-lead">It is hosting a software on your own computer or dedicated server rather than on a third-party cloud service.</p>
-<section class="disc-sec"><h2>Overview</h2><p>The self-hosted approach puts you in complete control of your data. Since you run the software on your own hardware, you are not dependent on the servers of an outside company. This provides complete control, especially regarding privacy and security issues.</p></section>
-<div class="dict-analogy"><strong>Analogy:</strong> It&#39;s like building your own house and placing all your belongings there instead of staying in a hotel; You have complete control.</div>
-<section class="disc-sec"><h2>How it works</h2><p>Download the source code or installation file of the software you want. Prepare a server or local computer and install and run the software there. Do updates and maintenance yourself.</p></section>
-<section class="disc-sec"><h2>Where it is used</h2><p>Personal cloud storage is preferred in all projects that require special artificial intelligence models and privacy.</p></section>
-<section class="disc-sec"><h2>Commonly confused with</h2><p>Not to be confused with cloud services; In the cloud, you rent someone else&#39;s computer, in self-hosted you use an area under your own control.</p></section>
-<section class="disc-sec"><h2>Frequently asked questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Does it require technical knowledge?</p><p class="dict-faq-a">Yes, basic system administration knowledge may be required to manage installation and maintenance processes.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Is it safer?</p><p class="dict-faq-a">It is safer in terms of data privacy, but it is entirely your responsibility to ensure security.</p></div></div></section>
-<section class="disc-sec"><h2>Related terms</h2><div class="dict-related"><a href="/en/dictionary/self-hosting/">Self-hosting</a><a href="/en/dictionary/open-source/">Open Source</a><a href="/en/dictionary/offline/">Offline</a></div></section>
+
+<div class="disc-top"><span class="disc-eyebrow">Dictionary · Dev</span><time class="dict-time" datetime="2026-09-19">Last updated: September 19, 2026</time></div>
+
+<h1 class="disc-title">Self-Hosted <span class='disc-accent'>Homelabs, cloud repatriation, and private infrastructure</span></h1>
+
+<p class="disc-lead">Self-hosted describes the software architecture and operational practice of deploying, configuring, and maintaining web services and applications on personally owned physical hardware or private servers rather than paying third-party SaaS vendors.</p>
+
+<section class="disc-sec"><h2>Etymology and Core Definition</h2><p>The compound term <em>self-hosted</em> combines reflexive autonomy with server hosting. In software engineering, self-hosting embodies technical sovereignty: retaining total ownership of data pipelines, operating systems, and server runtimes without external vendor lock-in.</p></section>
+
+<section class="disc-sec"><h2>1. From SaaS Fatigue to Cloud Repatriation</h2><p>The initial migration to public cloud and SaaS promised frictionless scaling, but led to compounding subscription fatigue, uncontrollable cloud egress fees, and arbitrary licensing price hikes. Pioneered by companies like Basecamp/37signals, <strong>cloud repatriation</strong> has inspired organizations and developers to bring predictable workloads back to owned bare-metal infrastructure, saving millions in operating expenses.</p></section>
+
+<section class="disc-sec"><h2>2. Hardware Architecture and the Homelab Ecosystem</h2><p>Self-hosting practitioners utilize diverse computational hardware tiers:</p><ul><li><strong>Single-Board Computers:</strong> Energy-efficient Raspberry Pi and mini-PCs (Intel N100) running lightweight services with 10W power draw.</li><li><strong>Repurposed Enterprise Servers:</strong> Used rackmount hardware (Dell PowerEdge, HP ProLiant) providing ECC memory and SAS storage pools for heavy virtualization.</li><li><strong>Hypervisor Foundation:</strong> Proxmox VE or TrueNAS Scale managing virtual machines and LXC containers directly on bare metal.</li></ul></section>
+
+<section class="disc-sec"><h2>3. The Modern Self-Hosted Software Stack</h2><p>Deploying self-hosted applications has been revolutionized by containerization:</p><ul><li><strong>Container Orchestration:</strong> Docker and Docker Compose defining multi-service networks declaratively in simple YAML files.</li><li><strong>Reverse Proxies & SSL:</strong> Traefik, Caddy, or Nginx Proxy Manager automatically negotiating Let's Encrypt TLS certificates.</li><li><strong>Secure Remote Access:</strong> WireGuard, Tailscale, or Cloudflare Tunnels exposing home services safely without opening vulnerable router firewall ports.</li></ul></section>
+
+<section class="disc-sec"><h2>4. Popular Open-Source Self-Hosted Solutions</h2><p>Thriving open-source ecosystems replace virtually every proprietary SaaS product:</p><ul><li><strong>Data Storage & Cloud Sync:</strong> Nextcloud for documents, Immich for Google Photos replacement, and Vaultwarden for Bitwarden password management.</li><li><strong>Media Streaming:</strong> Jellyfin or Plex for personal audio and video streaming.</li><li><strong>Home Automation:</strong> Home Assistant coordinating smart home sensors locally without cloud dependencies.</li></ul></section>
+
+<section class="disc-sec"><h2>5. Critical Operational Responsibilities: The 3-2-1 Backup Rule</h2><p>Taking control of your infrastructure means assuming full responsibility for disaster recovery:</p><ul><li><strong>The 3-2-1 Rule:</strong> Maintain at least <strong>3</strong> copies of your data on <strong>2</strong> different media types, with <strong>1</strong> copy kept off-site (e.g., encrypted cloud storage or a remote server).</li><li><strong>Testing Restores:</strong> An untested backup is not a backup; scheduled automated disaster recovery drills are vital.</li></ul></section>
+
+<div class="dict-analogy">Using SaaS is like renting an apartment where the landlord can raise the rent, change the locks, or enter whenever they want; self-hosting is like owning your own house: you are responsible for fixing the roof and plumbing, but you hold complete freedom and equity.</div>
+
+<section class="disc-sec"><h2>Frequently asked questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">What does self-hosted mean in computing?</p><p class="dict-faq-a">It refers to running software applications on your own private hardware or virtual servers instead of using vendor-managed SaaS platforms.</p></div><div class="dict-faq-item"><p class="dict-faq-q">What is the difference between Local and Self-Hosted?</p><p class="dict-faq-a">Local runs directly on your personal computer for immediate use; self-hosted runs on a dedicated server (like a homelab) accessible across your network 24/7.</p></div><div class="dict-faq-item"><p class="dict-faq-q">How do you access self-hosted services safely outside your home network?</p><p class="dict-faq-a">Using secure mesh VPNs like Tailscale or WireGuard, or reverse proxy tunnels that avoid opening public router ports.</p></div><div class="dict-faq-item"><p class="dict-faq-q">What is the 3-2-1 backup rule?</p><p class="dict-faq-a">A disaster recovery strategy of keeping 3 copies of data across 2 different storage media types with 1 copy stored in an off-site location.</p></div></div></section>
+
+<section class="disc-sec"><h2>Related terms</h2><div class="dict-related"><a href="/en/dictionary/local/">Local</a><a href="/en/dictionary/offline/">Offline</a><a href="/en/dictionary/open-source/">Open Source</a><a href="/en/dictionary/deployment/">Deployment</a></div></section>
+
 <section class="disc-sec"><h2>Related tools</h2><div class="dict-related"><a href="/en/discover/immich/">Immich</a><a href="/en/discover/chatwoot/">Chatwoot</a><a href="/en/discover/open-generative-ai/">Open-Generative-AI</a><a href="/en/discover/openwa/">OpenWA</a><a href="/en/discover/openship/">Openship</a><a href="/en/discover/instatic/">Instatic</a><a href="/en/discover/trek/">TREK</a><a href="/en/discover/celld/">Celld</a></div></section>
+
 <aside class="disc-cta"><p><strong>Explore related tools and daily reports.</strong> Stay on top of emerging tech terms and tools. Receive TreScout's daily summary in your inbox.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-en" data-page-type="dictionary" data-content-slug="self-hosted" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/dictionary/">All terms →</a></aside>
-<p class="disc-disclaimer">This explanation was written in plain language for TreScout and <strong>machine-translated</strong> from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/self-hosted/">Read in Turkish →</a></p>
+
+<div class="dict-disclaimer">This explanation was written in plain language for TreScout and <strong>machine-translated</strong> from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/self-hosted/">Read in Turkish →</a></div>
 </article>
 </main>
 <footer>
