@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Qu'est-ce que Assembly ? · Glossaire · TreScout</title>
-<meta name="description" content="C&#39;est le processus consistant à rassembler divers composants ou parties pour former un système complexe.">
+<title>Assembly : architecture x86, ARM et registres CPU · TreScout</title>
+<meta name="description" content="Découvrez le langage Assembly, l'architecture des registres processeur (x86-64 vs ARM), les appels système (syscalls) et WebAssembly.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/fr/dictionary/assembly/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/assembly/">
@@ -15,8 +15,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/assembly/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/assembly/">
 <link rel="alternate" type="text/markdown" href="/fr/dictionary/assembly.md">
-<meta property="og:title" content="Qu'est-ce que Assembly ?">
-<meta property="og:description" content="C&#39;est le processus consistant à rassembler divers composants ou parties pour former un système complexe.">
+<meta property="og:title" content="Assembly : architecture x86, ARM et registres CPU · TreScout">
+<meta property="og:description" content="Découvrez le langage Assembly, l'architecture des registres processeur (x86-64 vs ARM), les appels système (syscalls) et WebAssembly.">
 <meta property="og:url" content="https://trescout.com/fr/dictionary/assembly/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="fr_FR">
@@ -26,8 +26,8 @@
 <meta property="og:image:alt" content="Qu&#39;est-ce que Assembly ?">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Qu&#39;est-ce que Assembly ?">
-<meta name="twitter:description" content="C&#39;est le processus consistant à rassembler divers composants ou parties pour former un système complexe.">
+<meta name="twitter:title" content="Assembly : architecture x86, ARM et registres CPU · TreScout">
+<meta name="twitter:description" content="Découvrez le langage Assembly, l'architecture des registres processeur (x86-64 vs ARM), les appels système (syscalls) et WebAssembly.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
@@ -55,19 +55,49 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/fr/dictionary/">← Glossaire</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossaire · Dev</span><time class="dict-time" datetime="2026-07-23">Dernière mise à jour : 23 juillet 2026</time></div>
-<h1 class="disc-title">Qu'est-ce que <span class="disc-accent">Assembly</span> ?</h1>
-<p class="disc-lead">C&#39;est le processus consistant à rassembler divers composants ou parties pour former un système complexe.</p>
-<section class="disc-sec"><h2>Définition</h2><p>L&#39;assemblage est la combinaison de différentes bibliothèques, modules ou éléments matériels du monde logiciel en un seul ensemble fonctionnel. Vous pouvez y penser comme si vous posiez les briques d’un bâtiment ; Bien que chaque pièce ait un sens en soi, une structure fonctionnelle n&#39;émerge qu&#39;après le processus d&#39;assemblage. Dans les projets logiciels, ce processus est souvent lié aux étapes de « construction » ou de « compilation ».</p></section>
-<div class="dict-analogy"><strong>Analogie :</strong> C&#39;est comme créer un modèle de voiture fini en combinant toutes les pièces d&#39;un ensemble Lego ; Ce n’est pas une voiture lorsque les pièces sont isolées, mais elles fonctionnent lorsqu’elles sont combinées.</div>
-<section class="disc-sec"><h2>Comment ça marche</h2><p>Les développeurs rassemblent les morceaux de code, les bibliothèques et les fichiers de configuration qu&#39;ils écrivent pour créer un « package ».</p></section>
-<section class="disc-sec"><h2>Où est-ce utilisé</h2><p>Il est utilisé dans les processus de développement de logiciels, l’automatisation des usines et l’installation de grands systèmes.</p></section>
-<section class="disc-sec"><h2>Souvent confondu avec</h2><p>A ne pas confondre avec le langage assembleur ; ce terme est utilisé ici pour désigner « processus d&#39;unification ».</p></section>
-<section class="disc-sec"><h2>Questions fréquentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Pourquoi le divise-t-on en morceaux ?</p><p class="dict-faq-a">Pour une gestion plus facile, trouver des erreurs et réutiliser des pièces dans d’autres projets.</p></div></div></section>
-<section class="disc-sec"><h2>Termes liés</h2><div class="dict-related"><a href="/fr/dictionary/compilation/">Compilation</a><a href="/fr/dictionary/bundling/">Bundling</a><a href="/fr/dictionary/deployment/">Deployment</a></div></section>
+<div class="disc-top"><span class="disc-eyebrow">Glossaire · Dev</span><time class="dict-time" datetime="2026-09-19">Dernière mise à jour : 19 septembre 2026</time></div>
+<h1 class="disc-title">Assembly <span class='disc-accent'>Définition, registres et architecture système</span></h1>
+
+<p class="disc-lead">Le terme Assembly désigne deux réalités en informatique : d'une part le langage de programmation symbolique de plus bas niveau contrôlant directement le processeur (CPU), et d'autre part les unités de déploiement modulaires (.NET assembly).</p>
+
+<section class="disc-sec"><h2>1. Langage de programmation bas niveau (Assembly Language)</h2><p>Le processeur ne traite que des signaux binaires (code machine / opcodes). Le langage d'assemblage remplace ces octets bruts par des abréviations mnémotechniques lisibles :</p><ul><li><code>MOV</code> : copie des données entre registres ou adresses mémoire.</li><li><code>ADD</code> / <code>SUB</code> : effectue des calculs arithmétiques.</li><li><code>PUSH</code> / <code>POP</code> : empile ou dépile des valeurs sur la pile d'appels (stack).</li><li><code>JMP</code> / <code>JE</code> / <code>JNE</code> : modifie l'ordre d'exécution selon les indicateurs d'état.</li></ul><p>Les fichiers sources sont transformés directement en code machine par un assembleur (nasm, gas) sans machine virtuelle intermédiaire.</p></section>
+
+<section class="disc-sec"><h2>2. Registres processeur et architecture x86-64</h2><p>Dans un processeur 64 bits x86-64, les registres essentiels se divisent en deux groupes :</p><ul><li><strong>Registres généraux :</strong> <code>RAX</code> (accumulateur et valeur de retour), <code>RBX</code> (registre de base), <code>RCX</code> (compteur de boucle), <code>RDX</code> (données), <code>RDI</code> et <code>RSI</code> (destinations et sources de transferts de blocs).</li><li><strong>Registres spécialisés :</strong> <code>RSP</code> (pointeur de pile), <code>RBP</code> (pointeur de trame), <code>RIP</code> (pointeur d'instruction vers la commande suivante) et <code>RFLAGS</code> (drapeaux d'état).</li></ul></section>
+
+<section class="disc-sec"><h2>3. CISC vs RISC : différences entre x86-64 et ARM64</h2><p>L'architecture x86-64 repose sur le modèle <strong>CISC</strong> (jeu d'instructions complexe) permettant des instructions à longueur variable manipulant directement la mémoire. ARM64 (Apple Silicon, smartphones) adopte le modèle <strong>RISC</strong> (jeu d'instructions réduit) à longueur fixe de 32 bits et architecture Load-Store, offrant un rendement énergétique remarquable.</p></section>
+
+<section class="disc-sec"><h2>4. Appels système (Syscall) et exemple sous Linux x86-64</h2><pre><code>section .text
+global _start
+
+_start:
+    ; 1. Écriture sur la sortie standard (sys_write = syscall 1)
+    mov rax, 1          ; numéro de syscall: 1 (sys_write)
+    mov rdi, 1          ; descripteur de fichier: 1 (stdout)
+    mov rsi, msg        ; adresse mémoire du texte
+    mov rdx, 14         ; longueur du message
+    syscall             ; basculement en mode noyau
+
+    ; 2. Terminaison propre (sys_exit = syscall 60)
+    mov rax, 60         ; numéro de syscall: 60 (sys_exit)
+    xor rdi, rdi        ; code de sortie 0
+    syscall
+
+section .data
+    msg db "Bonjour monde!", 10</code></pre></section>
+
+<section class="disc-sec"><h2>5. .NET Assembly et WebAssembly (WASM)</h2><ul><li><strong>.NET Assembly :</strong> Lors de la compilation d'un projet C#, le code intermédiaire CIL et ses métadonnées sont encapsulés dans un fichier <code>.dll</code> ou <code>.exe</code> nommé assembly.</li><li><strong>WebAssembly (WASM) :</strong> Format binaire portable permettant d'exécuter du code compilé (Rust, C++) dans le navigateur avec des performances quasi natives.</li></ul></section>
+
+<div class="dict-analogy">Le langage assembleur ressemble au montage minutieux des ressorts, rouages et balanciers d'une montre mécanique à la pince de précision : il offre une puissance absolue au prix d'une rigueur sans concession.</div>
+
+<section class="disc-sec"><h2>Questions fréquentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Qu'est-ce que le langage Assembly et à quoi sert-il ?</p><p class="dict-faq-a">C'est le langage symbolique le plus proche du matériel, correspondant directement aux instructions du processeur, indispensable pour les pilotes et l'ingénierie inverse.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Quelle est la différence entre un assembleur et un compilateur ?</p><p class="dict-faq-a">Le compilateur transforme un code de haut niveau structuré en instructions machines, tandis que l'assembleur traduit les mnémoniques un pour un en octets binaires sans restructuration logique.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Où utilise-t-on encore l'assembleur aujourd'hui ?</p><p class="dict-faq-a">Dans les chargeurs d'amorçage (bootloaders), les systèmes embarqués critiques, l'analyse de malwares et l'optimisation de moteurs graphiques.</p></div></div></section>
+
+<section class="disc-sec"><h2>Termes liés</h2><div class="dict-related"><a href="/fr/dictionary/memory-management/">Memory Management</a><a href="/fr/dictionary/runtime/">Runtime</a><a href="/fr/dictionary/compilation/">Compilation</a><a href="/fr/dictionary/apple-silicon/">Apple Silicon</a><a href="/fr/dictionary/emulator/">Emulator</a></div></section>
+
 <section class="disc-sec"><h2>Outils liés</h2><div class="dict-related"><a href="/fr/discover/apollo-11/">Apollo-11</a></div></section>
+
 <aside class="disc-cta"><p><strong>Explorez les outils associés et les rapports quotidiens.</strong> Suivez les nouveaux termes et outils technologiques chaque matin dans votre boîte de réception.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-fr" data-page-type="dictionary" data-content-slug="assembly" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Votre adresse e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Accès anticipé</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>J'ai lu <a href="/fr/privacy.html" target="_blank" rel="noopener">la notice de confidentialité</a> et je consens au traitement de mon adresse e-mail à cette fin.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/fr/dictionary/">Tous les termes →</a></aside>
-<p class="disc-disclaimer">Cette explication a été rédigée en langage clair pour TreScout puis <strong>traduite automatiquement</strong> depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/assembly/">Lire en turc →</a></p>
+
+<div class="dict-disclaimer">Cette explication a été rédigée en langage clair pour TreScout puis <strong>traduite automatiquement</strong> depuis l'original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/assembly/">Lire en turc →</a></div>
 </article>
 </main>
 <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">TreScout analyse, résume et livre. Vous n'avez qu'à lire.</p></div><div class="footer-col"><div class="footer-col-title">Produit</div><ul><li><a href="/fr/discover/">Découvrir</a></li><li><a href="/fr/dictionary/">Glossaire</a></li><li><a href="/fr/reports/">Archive des rapports</a></li><li><a href="/fr/compare/rss-vs-ai/">Comparer</a></li><li><a href="/fr/#top">Accès anticipé</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Contact</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/fr/privacy.html" target="_blank" rel="noopener">Notice de confidentialité</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Réseaux</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Tous droits réservés.</span></div></div></footer>

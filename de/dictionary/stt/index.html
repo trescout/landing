@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Was ist STT? · Glossar · TreScout</title>
-<meta name="description" content="Es handelt sich um eine Technologie, die gesprochene Wörter abhört und sie in geschriebenen Text umwandelt.">
+<title>STT (Speech-to-Text): Akustische Modelle, Whisper und Transkription · TreScout</title>
+<meta name="description" content="Verstehen Sie STT (Speech-to-Text): Spektrogramm-Verarbeitung, Whisper-Architektur, WER-Fehlerraten und lokale Spracherkennungsmodelle.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/de/dictionary/stt/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/stt/">
@@ -15,8 +15,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/stt/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/stt/">
 <link rel="alternate" type="text/markdown" href="/de/dictionary/stt.md">
-<meta property="og:title" content="Was ist STT?">
-<meta property="og:description" content="Es handelt sich um eine Technologie, die gesprochene Wörter abhört und sie in geschriebenen Text umwandelt.">
+<meta property="og:title" content="STT (Speech-to-Text): Akustische Modelle, Whisper und Transkription · TreScout">
+<meta property="og:description" content="Verstehen Sie STT (Speech-to-Text): Spektrogramm-Verarbeitung, Whisper-Architektur, WER-Fehlerraten und lokale Spracherkennungsmodelle.">
 <meta property="og:url" content="https://trescout.com/de/dictionary/stt/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="de_DE">
@@ -26,8 +26,8 @@
 <meta property="og:image:alt" content="Was ist STT?">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Was ist STT?">
-<meta name="twitter:description" content="Es handelt sich um eine Technologie, die gesprochene Wörter abhört und sie in geschriebenen Text umwandelt.">
+<meta name="twitter:title" content="STT (Speech-to-Text): Akustische Modelle, Whisper und Transkription · TreScout">
+<meta name="twitter:description" content="Verstehen Sie STT (Speech-to-Text): Spektrogramm-Verarbeitung, Whisper-Architektur, WER-Fehlerraten und lokale Spracherkennungsmodelle.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
@@ -55,20 +55,28 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/de/dictionary/">← Glossar</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossar · AI</span><time class="dict-time" datetime="2026-08-15">Zuletzt aktualisiert: 15. August 2026</time></div>
-<h1 class="disc-title">Was ist <span class="disc-accent">STT</span>?</h1>
-<p class="dict-en">Speech-to-Text</p>
-<p class="disc-lead">Es handelt sich um eine Technologie, die gesprochene Wörter abhört und sie in geschriebenen Text umwandelt.</p>
-<section class="disc-sec"><h2>Definition</h2><p>STT analysiert Schallwellen und übersetzt sie in Wörter, die der Computer verstehen kann. Diese Systeme erzeugen Textausgaben, indem sie Intonationen und Akzente in der menschlichen Sprache analysieren.</p></section>
-<div class="dict-analogy"><strong>Analogie:</strong> Sie ist wie die schnellste Sekretärin der Welt, macht sich beim Reden schnell Notizen und wird nie müde.</div>
-<section class="disc-sec"><h2>So funktioniert es</h2><p>Über das Mikrofon werden Sprachdaten empfangen, künstliche Intelligenz analysiert diese Stimme und schreibt die passenden Texte auf den Bildschirm.</p></section>
-<section class="disc-sec"><h2>Wo es eingesetzt wird</h2><p>Es wird in Anwendungen zum Aufzeichnen von Besprechungsnotizen, Sprachbefehlssystemen und Untertitelungstools verwendet.</p></section>
-<section class="disc-sec"><h2>Häufig verwechselt mit</h2><p>Gemischt mit Sprachsynthese (Text-to-Speech); Einer wandelt Ton in Text um, der andere wandelt Text in Ton um.</p></section>
-<section class="disc-sec"><h2>Häufige Fragen</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Kann es verschiedene Sprachen verstehen?</p><p class="dict-faq-a">Ja, moderne STT-Modelle unterstützen viele Sprachen und Akzente.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Funktioniert es in lauten Umgebungen?</p><p class="dict-faq-a">Fortgeschrittene Modelle können Hintergrundgeräusche herausfiltern, die Fehlerquote kann sich jedoch in sehr lauten Umgebungen erhöhen.</p></div></div></section>
-<section class="disc-sec"><h2>Verwandte Begriffe</h2><div class="dict-related"><a href="/de/dictionary/speech-to-text/">Speech-to-Text</a><a href="/de/dictionary/voice-cloning/">Voice Cloning</a><a href="/de/dictionary/whisper/">Whisper</a></div></section>
-<section class="disc-sec"><h2>Verwandte Werkzeuge</h2><div class="dict-related"><a href="/de/discover/agents/">Agents</a><a href="/de/discover/speech-to-speech/">Speech to Speech</a><a href="/de/discover/transcribe-cpp/">Transcribe.cpp</a></div></section>
+<div class="disc-top"><span class="disc-eyebrow">Glossar · AI</span><time class="dict-time" datetime="2026-09-19">Zuletzt aktualisiert: 19. September 2026</time></div>
+<h1 class="disc-title">STT (Speech-to-Text) <span class='disc-accent'>Akustische Modellierung, Whisper und Spracherkennung</span></h1>
+
+<p class="disc-lead">STT (Speech-to-Text oder automatische Spracherkennung) bezeichnet das rechnergestützte Verfahren, gesprochene Audiosignale präzise zu erfassen und in geschriebenen Text zu transformieren.</p>
+
+<section class="disc-sec"><h2>Konzeptionelle Grundlagen, Ursprung und Entwicklung</h2><p>STT ist das englische Akronym für <strong>Speech-to-Text</strong> (Sprache zu Text). Während frühere Systeme auf Hidden-Markov-Modellen (HMM) basierten, stützen sich moderne Erkennungsdienste auf tiefe Transformer-Netzwerke, die auf hunderttausenden Stunden mehrsprachiger Sprachaufnahmen trainiert wurden.</p></section>
+
+<section class="disc-sec"><h2>Akustische Modellierung und Signalarchitektur</h2><p>Ein moderner Spracherkenner verarbeitet Signale über mehrere Stufen :</p><ol><li><strong>Vorverarbeitung & Spektrogramme:</strong> Das rohe Audiosignal wird über Kurzzeit-Fourier-Transformationen (STFT) in logarithmische Mel-Spektrogramme überführt.</li><li><strong>Akustischer Encoder:</strong> Transformer-Schichten extrahieren phonetische und kontextuelle Repräsentationen aus den Frequenzen.</li><li><strong>Text-Decoder:</strong> Ein autoregressiver Decoder wandelt Vektoren in Schriftzeichen um und setzt präzise Zeitstempel.</li><li><strong>Qualitätsmetrik:</strong> Die Genauigkeit wird standardmäßig über die Word Error Rate (WER) ermittelt.</li></ol></section>
+
+<section class="disc-sec"><h2>Praxisanwendungen und Open-Source-Ökosystem</h2><p>Die Spracherkennung ist das Fundament moderner Assistenzsysteme :</p><ul><li><strong>Meeting-Assistenten:</strong> Automatisierte Mitschriften und strukturierte Zusammenfassungen von Videokonferenzen.</li><li><strong>Untertitelung:</strong> Zeitgenaue Generierung von Untertiteln für Videos und Podcasts.</li><li><strong>Whisper-Ökosystem:</strong> Open-Source-Modelle erlauben die vollständig lokale, datenschutzkonforme Transkription ohne Cloud-Übertragung.</li></ul></section>
+
+<div class="dict-analogy">Eine STT-Engine fungiert wie ein Gerichtssteno-Graf mit absolutem Gehör: Er filtert Nebengeräusche heraus, erfasst verschiedene Dialekte mühelos und schreibt jedes Wort in Echtzeit lesbar nieder.</div>
+
+<section class="disc-sec"><h2>Häufig gestellte Fragen</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Was bedeutet die Abkürzung STT?</p><p class="dict-faq-a">Sie steht für Speech-to-Text, also die automatische Umwandlung gesprochener Sprache in digitalen Text.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Wie wird die Genauigkeit einer STT-Lösung gemessen?</p><p class="dict-faq-a">Über die Word Error Rate (WER), die prozentual erfasst, wie viele Wörter ersetzt, weggelassen oder fälschlich eingefügt wurden.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Kann STT komplett offline genutzt werden?</p><p class="dict-faq-a">Ja, moderne Open-Source-Lösungen wie Whisper lassen sich vollständig lokal und ohne Internetverbindung auf dem PC ausführen.</p></div></div></section>
+
+<section class="disc-sec"><h2>Verwandte Begriffe</h2><div class="dict-related"><a href="/de/dictionary/speech-to-text/">Speech-to-Text</a><a href="/de/dictionary/speech-to-speech/">Speech-to-Speech</a><a href="/de/dictionary/voice-cloning/">Voice Cloning</a><a href="/de/dictionary/whisper/">Whisper</a><a href="/de/dictionary/tokenizer/">Tokenizer</a><a href="/de/dictionary/apple-silicon/">Apple Silicon</a></div></section>
+
+<section class="disc-sec"><h2>Verwandte Werkzeuge</h2><div class="dict-related"><a href="/de/discover/plaud-desktop/">Plaud-Desktop</a></div></section>
+
 <aside class="disc-cta"><p><strong>Entdecken Sie passende Werkzeuge und tägliche Berichte.</strong> Jeden Tag entstehen neue Fachbegriffe und Tools · sichern Sie sich den Vorabzugang zu TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-de" data-page-type="dictionary" data-content-slug="stt" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Ihre E-Mail-Adresse" autocomplete="email" required><button class="btn btn-primary" type="submit">Vorabzugang</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Ich habe den <a href="/de/privacy.html" target="_blank" rel="noopener">Datenschutzhinweis</a> gelesen und bin damit einverstanden, dass meine E-Mail-Adresse zu diesem Zweck verarbeitet wird.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/de/dictionary/">Alle Begriffe →</a></aside>
-<p class="disc-disclaimer">Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und <strong>maschinell übersetzt</strong> aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/stt/">Auf Türkisch lesen →</a></p>
+
+<div class="dict-disclaimer">Diese Erklärung wurde in einfacher Sprache für TreScout verfasst und aus dem türkischen Original <strong>automatisch übersetzt</strong> · maßgeblich ist die türkische Fassung. Wenn etwas fehlerhaft oder unvollständig erscheint, schreiben Sie an <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/stt/">Auf Türkisch lesen →</a></div>
 </article>
 </main>
 <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">TreScout durchsucht, fasst zusammen und liefert. Sie lesen nur.</p></div><div class="footer-col"><div class="footer-col-title">Produkt</div><ul><li><a href="/de/discover/">Entdecken</a></li><li><a href="/de/dictionary/">Glossar</a></li><li><a href="/de/reports/">Berichtsarchiv</a></li><li><a href="/de/compare/rss-vs-ai/">Vergleich</a></li><li><a href="/de/#top">Vorabzugang</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Kontakt</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/de/privacy.html" target="_blank" rel="noopener">Datenschutzhinweis</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Netzwerke</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Alle Rechte vorbehalten.</span></div></div></footer>

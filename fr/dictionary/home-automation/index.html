@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Qu'est-ce que Home Automation ? · Glossaire · TreScout</title>
-<meta name="description" content="Il s’agit du contrôle automatique des appareils de votre maison via l’intelligence artificielle ou internet.">
+<title>Home Automation : protocoles domotiques, MQTT et IA locale · TreScout</title>
+<meta name="description" content="Explorez la domotique (Home Automation) : protocoles Matter, Thread, Zigbee, serveurs locaux Home Assistant, architecture MQTT et sécurité IoT.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/fr/dictionary/home-automation/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/home-automation/">
@@ -15,8 +15,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/home-automation/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/home-automation/">
 <link rel="alternate" type="text/markdown" href="/fr/dictionary/home-automation.md">
-<meta property="og:title" content="Qu'est-ce que Home Automation ?">
-<meta property="og:description" content="Il s’agit du contrôle automatique des appareils de votre maison via l’intelligence artificielle ou internet.">
+<meta property="og:title" content="Home Automation : protocoles domotiques, MQTT et IA locale · TreScout">
+<meta property="og:description" content="Explorez la domotique (Home Automation) : protocoles Matter, Thread, Zigbee, serveurs locaux Home Assistant, architecture MQTT et sécurité IoT.">
 <meta property="og:url" content="https://trescout.com/fr/dictionary/home-automation/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="fr_FR">
@@ -26,8 +26,8 @@
 <meta property="og:image:alt" content="Qu&#39;est-ce que Home Automation ?">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Qu&#39;est-ce que Home Automation ?">
-<meta name="twitter:description" content="Il s’agit du contrôle automatique des appareils de votre maison via l’intelligence artificielle ou internet.">
+<meta name="twitter:title" content="Home Automation : protocoles domotiques, MQTT et IA locale · TreScout">
+<meta name="twitter:description" content="Explorez la domotique (Home Automation) : protocoles Matter, Thread, Zigbee, serveurs locaux Home Assistant, architecture MQTT et sécurité IoT.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
@@ -55,19 +55,32 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/fr/dictionary/">← Glossaire</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossaire · AI</span><time class="dict-time" datetime="2026-07-13">Dernière mise à jour : 13 juillet 2026</time></div>
-<h1 class="disc-title">Qu'est-ce que <span class="disc-accent">Home Automation</span> ?</h1>
-<p class="disc-lead">Il s’agit du contrôle automatique des appareils de votre maison via l’intelligence artificielle ou internet.</p>
-<section class="disc-sec"><h2>Définition</h2><p>Il s&#39;agit de la gestion des lumières, des serrures, des systèmes de chauffage ou des appareils électroménagers depuis une centrale ou via des capteurs. Lorsque l&#39;intelligence artificielle est ajoutée, la maison peut connaître vos habitudes et chauffer la maison avant votre retour ou éteindre les lumières pendant que vous dormez.</p></section>
-<div class="dict-analogy"><strong>Analogie :</strong> C&#39;est comme avoir une aide à la maison qui réfléchit et s&#39;occupe de petites tâches à votre place.</div>
-<section class="disc-sec"><h2>Comment ça marche</h2><p>Vous installez des appareils intelligents dans votre maison et vous les connectez via une application. Par exemple, en définissant des règles telles que « allumer les lumières à 19 heures », vous permettez à la maison de fonctionner de manière autonome.</p></section>
-<section class="disc-sec"><h2>Où est-ce utilisé</h2><p>Il est utilisé dans les systèmes de maison intelligente, les caméras de sécurité et les thermostats intelligents économes en énergie.</p></section>
-<section class="disc-sec"><h2>Souvent confondu avec</h2><p>À ne pas confondre avec une simple télécommande ; L&#39;automatisation implique que le système prenne des décisions par lui-même, sans votre intervention.</p></section>
-<section class="disc-sec"><h2>Questions fréquentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Est-ce sécuritaire?</p><p class="dict-faq-a">Il est sécurisé dans un système bien configuré, mais il est important de maintenir les appareils à jour.</p></div></div></section>
-<section class="disc-sec"><h2>Termes liés</h2><div class="dict-related"><a href="/fr/dictionary/physical-ai/">Physical AI</a><a href="/fr/dictionary/ai-agent/">AI Agent</a></div></section>
+<div class="disc-top"><span class="disc-eyebrow">Glossaire · AI</span><time class="dict-time" datetime="2026-09-19">Dernière mise à jour : 19 septembre 2026</time></div>
+<h1 class="disc-title">Home Automation <span class='disc-accent'>Protocoles IoT, domotique locale et intelligence ambiante</span></h1>
+
+<p class="disc-lead">La domotique (home automation) est la gestion centralisée et autonome des équipements résidentiels (éclairage, climatisation, sécurité et énergie) par des capteurs, actionneurs et moteurs de règles.</p>
+
+<section class="disc-sec"><h2>1. Étymologie et définition fondamentale : qu'est-ce que la domotique ?</h2><p>Le terme associe le foyer à la racine grecque <em>automatos</em> (agissant par soi-même). La véritable domotique dépasse les simples gadgets en éliminant l'action humaine grâce à l'analyse contextuelle et aux déclencheurs d'événements programmés.</p></section>
+
+<section class="disc-sec"><h2>2. La domotique au quotidien : le leurre de la télécommande</h2><p>L'erreur la plus répandue consiste à confondre l'utilisation d'une application mobile avec de l'automatisation :</p><ul><li><strong>Télécommande numérique vs Véritable automatisation :</strong> Appuyer sur un bouton sur son smartphone pour allumer une ampoule n'est qu'une télécommande coûteuse. L'automatisation authentique détecte votre présence et ajuste l'éclairage de manière totalement autonome.</li><li><strong>Gestion locale prioritaire (Local-First) :</strong> Des passerelles comme Home Assistant traitent les événements en local, garantissant le fonctionnement complet de la maison même sans connexion Internet.</li></ul></section>
+
+<section class="disc-sec"><h2>3. Ingénierie système, protocoles IoT et architecture réseau</h2><p>L'écosystème domotique contemporain s'appuie sur des architectures maillées et légères :</p><ul><li><strong>Protocoles maillés (Zigbee & Thread) :</strong> Les capteurs communiquent via des réseaux radio basse consommation sans encombrer les bandes passantes du routeur Wi-Fi.</li><li><strong>Standard Matter :</strong> Norme unifiée basée sur IPv6 permettant l'interopérabilité directe entre écosystèmes (Apple Home, Google Home, Home Assistant).</li><li><strong>Protocole MQTT :</strong> Modèle de publication/abonnement léger et robuste pour diffuser les données de capteurs et piloter les relais en temps réel.</li></ul></section>
+
+<section class="disc-sec"><h2>4. Sécurité, vie privée et dimensions sociologiques</h2><p>L'introduction d'objets connectés au sein de l'habitat intime soulève des exigences strictes :</p><ul><li><strong>Surface d'attaque et risques de botnets :</strong> Des périphériques mal sécurisés peuvent être enrôlés dans des attaques DDoS massives à l'image du botnet Mirai.</li><li><strong>Confidentialité des données :</strong> Les assistants vocaux et caméras dépendant du cloud soulèvent des questions d'espionnage domestique, incitant à l'usage de modèles vocaux locaux.</li></ul></section>
+
+<section class="disc-sec"><h2>Confusions fréquentes</h2><ul><li><strong>Télécommande vs Automatisation :</strong> Déclencher une action manuelle depuis son téléphone n'est pas de l'automatisation ; le déclenchement autonome par capteurs l'est.</li><li><strong>Objets cloud vs Contrôle local :</strong> Les appareils dépendants du cloud deviennent inutilisables en cas de panne réseau externe, tandis que les hubs locaux restent opérationnels.</li></ul></section>
+
+<div class="dict-analogy">Une maison connectée sans automatisation est semblable à un salon encombré de dizaines de télécommandes ; une véritable domotique agit comme un majordome invisible qui devance naturellement vos habitudes.</div>
+
+<section class="disc-sec"><h2>Questions fréquentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Que signifie concrètement la domotique (home automation) ?</p><p class="dict-faq-a">C'est l'automatisation intelligente des appareils domestiques basée sur des capteurs et des règles programmées sans intervention manuelle.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Quel est le rôle du protocole Matter ?</p><p class="dict-faq-a">Matter est un standard ouvert universel garantissant le fonctionnement conjoint d'équipements de constructeurs variés sur un même réseau local.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Pourquoi privilégier une solution domotique locale ?</p><p class="dict-faq-a">Pour éliminer la latence, garantir la confidentialité des données personnelles et maintenir le fonctionnement du domicile en cas de coupure Internet.</p></div></div></section>
+
+<section class="disc-sec"><h2>Termes liés</h2><div class="dict-related"><a href="/fr/dictionary/digital-privacy/">Digital Privacy</a><a href="/fr/dictionary/physical-ai/">Physical AI</a><a href="/fr/dictionary/ai-agent/">AI Agent</a><a href="/fr/dictionary/end-to-end-privacy/">End-to-End Privacy</a><a href="/fr/dictionary/self-hosted/">Self-Hosted</a></div></section>
+
 <section class="disc-sec"><h2>Outils liés</h2><div class="dict-related"><a href="/fr/discover/core/">Core</a></div></section>
+
 <aside class="disc-cta"><p><strong>Explorez les outils associés et les rapports quotidiens.</strong> Suivez les nouveaux termes et outils technologiques chaque matin dans votre boîte de réception.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-fr" data-page-type="dictionary" data-content-slug="home-automation" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Votre adresse e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Accès anticipé</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>J'ai lu <a href="/fr/privacy.html" target="_blank" rel="noopener">la notice de confidentialité</a> et je consens au traitement de mon adresse e-mail à cette fin.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/fr/dictionary/">Tous les termes →</a></aside>
-<p class="disc-disclaimer">Cette explication a été rédigée en langage clair pour TreScout puis <strong>traduite automatiquement</strong> depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/home-automation/">Lire en turc →</a></p>
+
+<div class="dict-disclaimer">Cette explication a été rédigée en langage clair pour TreScout puis <strong>traduite automatiquement</strong> depuis l'original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/home-automation/">Lire en turc →</a></div>
 </article>
 </main>
 <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">TreScout analyse, résume et livre. Vous n'avez qu'à lire.</p></div><div class="footer-col"><div class="footer-col-title">Produit</div><ul><li><a href="/fr/discover/">Découvrir</a></li><li><a href="/fr/dictionary/">Glossaire</a></li><li><a href="/fr/reports/">Archive des rapports</a></li><li><a href="/fr/compare/rss-vs-ai/">Comparer</a></li><li><a href="/fr/#top">Accès anticipé</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Contact</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/fr/privacy.html" target="_blank" rel="noopener">Notice de confidentialité</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Réseaux</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Tous droits réservés.</span></div></div></footer>

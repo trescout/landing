@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>¿Qué es Cloud Computing? · Glosario · TreScout</title>
-<meta name="description" content="Es la prestación de servicios informáticos a través de servidores remotos a través de Internet.">
+<title>Cloud Computing: Arquitectura, Modelos de Servicio e Infraestructura · TreScout</title>
+<meta name="description" content="Aprenda qué es Cloud Computing: modelos IaaS, PaaS, SaaS, Serverless, hipervisores, contenedores, teorema CAP y estrategias FinOps.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/es/dictionary/cloud-computing/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/cloud-computing/">
@@ -15,8 +15,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/cloud-computing/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/cloud-computing/">
 <link rel="alternate" type="text/markdown" href="/es/dictionary/cloud-computing.md">
-<meta property="og:title" content="¿Qué es Cloud Computing?">
-<meta property="og:description" content="Es la prestación de servicios informáticos a través de servidores remotos a través de Internet.">
+<meta property="og:title" content="Cloud Computing: Arquitectura, Modelos de Servicio e Infraestructura · TreScout">
+<meta property="og:description" content="Aprenda qué es Cloud Computing: modelos IaaS, PaaS, SaaS, Serverless, hipervisores, contenedores, teorema CAP y estrategias FinOps.">
 <meta property="og:url" content="https://trescout.com/es/dictionary/cloud-computing/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="es_ES">
@@ -26,8 +26,8 @@
 <meta property="og:image:alt" content="¿Qué es Cloud Computing?">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="¿Qué es Cloud Computing?">
-<meta name="twitter:description" content="Es la prestación de servicios informáticos a través de servidores remotos a través de Internet.">
+<meta name="twitter:title" content="Cloud Computing: Arquitectura, Modelos de Servicio e Infraestructura · TreScout">
+<meta name="twitter:description" content="Aprenda qué es Cloud Computing: modelos IaaS, PaaS, SaaS, Serverless, hipervisores, contenedores, teorema CAP y estrategias FinOps.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
@@ -55,19 +55,32 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/es/dictionary/">← Glosario</a>
-<div class="disc-top"><span class="disc-eyebrow">Glosario · Dev</span><time class="dict-time" datetime="2026-08-09">Última actualización: 9 de agosto de 2026</time></div>
-<h1 class="disc-title">¿Qué es <span class="disc-accent">Cloud Computing</span>?</h1>
-<p class="disc-lead">Es la prestación de servicios informáticos a través de servidores remotos a través de Internet.</p>
-<section class="disc-sec"><h2>Definición</h2><p>Le permite realizar transacciones no en su propia computadora, sino en potentes servidores en el otro extremo de Internet. De esta manera, puede procesar grandes cantidades de datos o ejecutar aplicaciones incluso si la capacidad de su hardware es baja. Es una especie de almacén de alquiler digital y servicio de potencia de procesamiento.</p></section>
-<div class="dict-analogy"><strong>Analogía:</strong> Es como obtener electricidad de la red en lugar de tener un generador en casa; Usas lo que necesitas y pagas por lo que usas.</div>
-<section class="disc-sec"><h2>Cómo funciona</h2><p>Usted carga sus aplicaciones o datos a servidores remotos a los que se puede acceder a través de Internet. El proveedor de servicios gestiona esta infraestructura y usted se centra únicamente en su software o datos.</p></section>
-<section class="disc-sec"><h2>Dónde se usa</h2><p>Se utiliza para alojar sitios web, análisis de big data y sistemas de respaldo.</p></section>
-<section class="disc-sec"><h2>Suele confundirse con</h2><p>Puede confundirse con el almacenamiento de Internet, pero no es sólo almacenamiento sino también servicio de energía de procesamiento.</p></section>
-<section class="disc-sec"><h2>Preguntas frecuentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">¿Por qué no uso mi propia computadora?</p><p class="dict-faq-a">Porque le ahorra los enormes costes de hardware necesarios para el trabajo profesional y proporciona acceso desde cualquier lugar.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Es seguro?</p><p class="dict-faq-a">Cuando se configura correctamente, generalmente es más seguro que las computadoras personales.</p></div></div></section>
-<section class="disc-sec"><h2>Términos relacionados</h2><div class="dict-related"><a href="/es/dictionary/saas/">SaaS</a><a href="/es/dictionary/paas/">PaaS</a><a href="/es/dictionary/iaas/">IaaS</a><a href="/es/dictionary/personal-cloud/">Personal Cloud</a></div></section>
+<div class="disc-top"><span class="disc-eyebrow">Glosario · Dev</span><time class="dict-time" datetime="2026-09-19">Última actualización: 19 de septiembre de 2026</time></div>
+<h1 class="disc-title">Cloud Computing <span class='disc-accent'>Arquitectura, modelos e ingeniería de sistemas</span></h1>
+
+<p class="disc-lead">Cloud computing (computación en la nube) es la entrega bajo demanda de recursos informáticos como servidores, almacenamiento, bases de datos y redes a través de internet con pago por uso.</p>
+
+<section class="disc-sec"><h2>Definición, Origen Etimológico y Fundamentos</h2><p>La expresión <em>cloud computing</em> se popularizó a partir de diagramas de redes de telecomunicaciones en la década de 1990, donde la infraestructura subyacente se simbolizaba con un dibujo de nube. Permite sustituir centros de datos locales por servicios elásticos accesibles mediante API.</p></section>
+
+<section class="disc-sec"><h2>Modelos de Servicio y Despliegue (IaaS, PaaS, SaaS, Serverless)</h2><p>Los servicios en la nube se clasifican habitualmente en cuatro categorías principales:</p><ul><li><strong>IaaS (Infraestructura como Servicio):</strong> Servidores virtuales, almacenamiento escalable y redes definidas por software (AWS EC2, Google Compute Engine).</li><li><strong>PaaS (Plataforma como Servicio):</strong> Entornos gestionados para desplegar aplicaciones sin ocuparse de parches del sistema operativo (Heroku, Render).</li><li><strong>SaaS (Software como Servicio):</strong> Programas informáticos completos servidos en la web para el usuario final (Google Workspace, Salesforce).</li><li><strong>Serverless / FaaS:</strong> Arquitecturas orientadas a eventos donde el código se ejecuta únicamente cuando se recibe una petición (AWS Lambda, Cloudflare Workers).</li></ul></section>
+
+<section class="disc-sec"><h2>Arquitectura de Sistemas: Hipervisores, Contenedores y Teorema CAP</h2><p>A nivel técnico, la computación en la nube se fundamenta en virtualización y consistencia distribuida:</p><ul><li><strong>Hipervisores y Contenedores:</strong> Los hipervisores Tipo 1 (KVM, ESXi) crean máquinas virtuales completas, mientras que los contenedores (Docker, containerd) comparten el kernel del host garantizando máxima ligereza.</li><li><strong>Teorema CAP y Consenso:</strong> Los clústeres globales deben resolver los compromisos entre Consistencia, Disponibilidad y Tolerancia a particiones utilizando protocolos como Raft o Paxos.</li></ul></section>
+
+<section class="disc-sec"><h2>Factores Económicos, Ecológicos y Geopolíticos</h2><p>La adopción de la nube transforma los gastos de capital (CapEx) en gastos operativos flexibles (OpEx), haciendo imprescindible la disciplina FinOps para controlar costes de transferencia. Además, las normativas de soberanía de datos exigen aislamiento geográfico del almacenamiento cifrado.</p></section>
+
+<section class="disc-sec"><h2>Confusiones habituales</h2><ul><li><strong>Cloud Computing vs Alojamiento Web tradicional:</strong> El alojamiento web convencional asigna recursos estáticos en servidores fijos, mientras que la nube ofrece escalabilidad horizontal automática en múltiples zonas de disponibilidad.</li><li><strong>Nube Privada vs Servidor Local:</strong> Disponer de un servidor físico en la oficina no es una nube privada sin una plataforma de aprovisionamiento automatizada por API.</li></ul></section>
+
+<div class="dict-analogy">La computación en la nube funciona como la red de suministro eléctrico: en lugar de mantener un generador propio de combustible en el sótano, se conecta el enchufe a la red y se abona solo el consumo exacto.</div>
+
+<section class="disc-sec"><h2>Preguntas frecuentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">¿Cuáles son los principales beneficios de la computación en la nube?</p><p class="dict-faq-a">Escalabilidad elástica, alta disponibilidad sin interrupciones, menor carga de mantenimiento de hardware físico y despliegue global rápido.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Qué diferencia existe entre multi-cloud y nube híbrida?</p><p class="dict-faq-a">Multi-cloud utiliza dos o más proveedores públicos de manera simultánea, mientras que la nube híbrida enlaza infraestructuras locales propias con centros de datos públicos.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Cómo se optimizan los costes en la nube?</p><p class="dict-faq-a">Aplicando metodologías FinOps, reduciendo recursos infrautilizados, usando instancias spot y contratando planes de capacidad reservada.</p></div></div></section>
+
+<section class="disc-sec"><h2>Términos relacionados</h2><div class="dict-related"><a href="/es/dictionary/saas/">SaaS</a><a href="/es/dictionary/paas/">PaaS</a><a href="/es/dictionary/iaas/">IaaS</a><a href="/es/dictionary/personal-cloud/">Personal Cloud</a><a href="/es/dictionary/runtime/">Runtime</a><a href="/es/dictionary/network-stack/">Network Stack</a><a href="/es/dictionary/memory-management/">Memory Management</a></div></section>
+
 <section class="disc-sec"><h2>Herramientas relacionadas</h2><div class="dict-related"><a href="/es/discover/devops-interview-guide/">DevOps-Interview-Guide</a></div></section>
+
 <aside class="disc-cta"><p><strong>Descubra herramientas relacionadas e informes diarios.</strong> Cada día surgen nuevos términos y herramientas · únase al acceso anticipado de TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-es" data-page-type="dictionary" data-content-slug="cloud-computing" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Su correo electrónico" autocomplete="email" required><button class="btn btn-primary" type="submit">Acceso anticipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>He leído el <a href="/es/privacy.html" target="_blank" rel="noopener">aviso de privacidad</a> y acepto que mi correo se trate con esta finalidad.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/es/dictionary/">Todos los términos →</a></aside>
-<p class="disc-disclaimer">Esta explicación se redactó en lenguaje sencillo para TreScout y se <strong>tradujo automáticamente</strong> del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/cloud-computing/">Leer en turco →</a></p>
+
+<div class="dict-disclaimer">Esta explicación se redactó en lenguaje llano para TreScout y se <strong>tradujo automáticamente</strong> a partir del original en turco · la versión en turco es la que prevalece. Si detecta algún error o carencia, escriba a <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/cloud-computing/">Leer en turco →</a></div>
 </article>
 </main>
 <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">TreScout rastrea, resume y entrega. Usted solo lee.</p></div><div class="footer-col"><div class="footer-col-title">Producto</div><ul><li><a href="/es/discover/">Descubrir</a></li><li><a href="/es/dictionary/">Glosario</a></li><li><a href="/es/reports/">Archivo de informes</a></li><li><a href="/es/compare/rss-vs-ai/">Comparar</a></li><li><a href="/es/#top">Acceso anticipado</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Contacto</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/es/privacy.html" target="_blank" rel="noopener">Aviso de privacidad</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Redes</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Todos los derechos reservados.</span></div></div></footer>

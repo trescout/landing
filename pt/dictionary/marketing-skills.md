@@ -48,7 +48,7 @@ Alimentando o modelo com diretrizes estritas de marca, dados empíricos e proibi
 ## Termos relacionados
 - [AI Agent](/pt/dictionary/ai-agent/)
 - [Application](/pt/dictionary/application/)
-- [Benchmarks](/pt/dictionary/benchmarks/)
+- [Benchmarks](/pt/dictionary/benchmark/)
 
 ---
 Fonte: Dicionário Técnico TreScout · https://trescout.com/pt/dictionary/marketing-skills/

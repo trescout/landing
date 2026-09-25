@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Qu'est-ce que Deployment ? · Glossaire · TreScout</title>
-<meta name="description" content="Il s&#39;agit du processus consistant à télécharger un logiciel préparé sur le serveur et à le rendre opérationnel afin qu&#39;il soit accessible aux utilisateurs.">
+<title>Deployment : pipelines CI/CD, zéro interruption et architecture de rollback · TreScout</title>
+<meta name="description" content="Maîtrisez le déploiement logiciel : stratégies Blue-Green, Canary, GitOps, CI/CD, migrations de bases de données et rollbacks automatisés.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/fr/dictionary/deployment/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/deployment/">
@@ -15,8 +15,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/deployment/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/deployment/">
 <link rel="alternate" type="text/markdown" href="/fr/dictionary/deployment.md">
-<meta property="og:title" content="Qu'est-ce que Deployment ?">
-<meta property="og:description" content="Il s&#39;agit du processus consistant à télécharger un logiciel préparé sur le serveur et à le rendre opérationnel afin qu&#39;il soit accessible aux utilisateurs.">
+<meta property="og:title" content="Deployment : pipelines CI/CD, zéro interruption et architecture de rollback · TreScout">
+<meta property="og:description" content="Maîtrisez le déploiement logiciel : stratégies Blue-Green, Canary, GitOps, CI/CD, migrations de bases de données et rollbacks automatisés.">
 <meta property="og:url" content="https://trescout.com/fr/dictionary/deployment/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="fr_FR">
@@ -26,8 +26,8 @@
 <meta property="og:image:alt" content="Qu&#39;est-ce que Deployment ?">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Qu&#39;est-ce que Deployment ?">
-<meta name="twitter:description" content="Il s&#39;agit du processus consistant à télécharger un logiciel préparé sur le serveur et à le rendre opérationnel afin qu&#39;il soit accessible aux utilisateurs.">
+<meta name="twitter:title" content="Deployment : pipelines CI/CD, zéro interruption et architecture de rollback · TreScout">
+<meta name="twitter:description" content="Maîtrisez le déploiement logiciel : stratégies Blue-Green, Canary, GitOps, CI/CD, migrations de bases de données et rollbacks automatisés.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
@@ -55,19 +55,32 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/fr/dictionary/">← Glossaire</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossaire · Dev</span><time class="dict-time" datetime="2026-06-16">Dernière mise à jour : 16 juin 2026</time></div>
-<h1 class="disc-title">Qu'est-ce que <span class="disc-accent">Deployment</span> ?</h1>
-<p class="disc-lead">Il s&#39;agit du processus consistant à télécharger un logiciel préparé sur le serveur et à le rendre opérationnel afin qu&#39;il soit accessible aux utilisateurs.</p>
-<section class="disc-sec"><h2>Définition</h2><p>Le déploiement est la dernière étape du processus de développement logiciel. Vous récupérez votre code depuis votre propre ordinateur et le déplacez vers un serveur où des personnes du monde entier peuvent l&#39;utiliser. Votre logiciel commence désormais à fonctionner dans un environnement réel, et pas seulement sur votre ordinateur.</p></section>
-<div class="dict-analogy"><strong>Analogie :</strong> Lorsqu’un auteur écrit et termine son livre, c’est la phase de développement ; Imprimer le livre, le disposer dans les rayons et le présenter au lecteur est la phase de déploiement.</div>
-<section class="disc-sec"><h2>Comment ça marche</h2><p>Les développeurs soumettent leur code au serveur via des outils automatiques ou manuels. Le serveur reçoit ce code, effectue les paramétrages nécessaires et publie l&#39;application.</p></section>
-<section class="disc-sec"><h2>Où est-ce utilisé</h2><p>Il est utilisé lors de la publication de sites Web, de la soumission d&#39;applications mobiles au magasin ou de la présentation de modèles d&#39;intelligence artificielle sous forme d&#39;API.</p></section>
-<section class="disc-sec"><h2>Souvent confondu avec</h2><p>On le confond avec le développement ; Le développement consiste à préparer les aliments dans la cuisine et le déploiement consiste à servir les aliments à la table du client.</p></section>
-<section class="disc-sec"><h2>Questions fréquentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Que se passe-t-il si une erreur se produit lors du déploiement ?</p><p class="dict-faq-a">Le système revient généralement à l&#39;ancienne version de travail ou arrête la diffusion jusqu&#39;à ce que l&#39;erreur soit corrigée.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Le déploiement est-il toujours effectué manuellement ?</p><p class="dict-faq-a">Dans le monde moderne, c’est généralement automatique ; Vous envoyez le code et le système le publie tout seul.</p></div></div></section>
-<section class="disc-sec"><h2>Termes liés</h2><div class="dict-related"><a href="/fr/dictionary/runtime/">Runtime</a><a href="/fr/dictionary/compile-time/">Compile-time</a><a href="/fr/dictionary/api/">API</a></div></section>
+<div class="disc-top"><span class="disc-eyebrow">Glossaire · Dev</span><time class="dict-time" datetime="2026-09-19">Dernière mise à jour : 19 septembre 2026</time></div>
+<h1 class="disc-title">Deployment <span class='disc-accent'>Livraison continue, zéro interruption et observabilité</span></h1>
+
+<p class="disc-lead">Le déploiement (deployment) est l'ensemble des opérations consistant à compiler, tester, configurer et transférer un logiciel vers son environnement de production final pour les utilisateurs.</p>
+
+<section class="disc-sec"><h2>Cadre conceptuel, étymologie et évolution historique</h2><p>Issu du vocabulaire militaire français (<em>déployer</em>, étendre ses troupes), le déploiement logiciel a troqué les anciens transferts FTP manuels et coupures nocturnes contre des chaînes de livraison continue hautement automatisées basées sur des conteneurs immuables.</p></section>
+
+<section class="disc-sec"><h2>Stratégies de déploiement sans interruption (Zero-Downtime)</h2><p>Pour mettre à jour une application sans interrompre le service utilisateur, plusieurs motifs avancés s'imposent :</p><ol><li><strong>Déploiement Blue-Green :</strong> Deux environnements identiques coexistent ; le routeur bascule le trafic du cluster actif (Bleu) vers le nouveau (Vert) après validation complète.</li><li><strong>Déploiement Canary (Canari) :</strong> La nouvelle version est exposée à un échantillon réduit d'utilisateurs (2 % à 5 %) pour mesurer les métriques réelles avant généralisation.</li><li><strong>Mises à jour progressives (Rolling Updates) :</strong> Remplacement progressif des instances ou pods Kubernetes un par un sans perte de capacité globale.</li></ol></section>
+
+<section class="disc-sec"><h2>Pipelines CI/CD, GitOps et migrations de bases de données</h2><p>La robustesse des déploiements repose sur trois mécanismes techniques fondamentaux :</p><ul><li><strong>Pipelines CI/CD :</strong> Tests unitaires, linting et construction d'images Docker déclenchés automatiquement à chaque validation de code.</li><li><strong>GitOps :</strong> Gestion déclarative où le dépôt Git fait foi pour l'état souhaité de l'infrastructure (ArgoCD, Flux).</li><li><strong>Migrations de schémas de données :</strong> Stratégie d'extension-contraction assurant la rétrocompatibilité des tables SQL pendant la transition.</li></ul></section>
+
+<section class="disc-sec"><h2>Gestion des erreurs, observabilité et architecture de retour arrière (Rollback)</h2><p>En cas d'anomalie critique détectée en production, la réactivité est cruciale :</p><ul><li><strong>Rollback automatique :</strong> Les sondes d'observabilité (Datadog, Prometheus) restaurent la version précédente dès que le taux d'erreur dépasse un seuil prédéfini.</li><li><strong>Feature Flags (Drapeaux de fonctionnalités) :</strong> Permettent d'activer ou désactiver des fonctions à chaud sans nouveau déploiement.</li></ul></section>
+
+<section class="disc-sec"><h2>Confusions fréquentes</h2><ul><li><strong>Développement vs Déploiement :</strong> Le développement correspond à la préparation du plat en cuisine ; le déploiement correspond au service du plat à table pour le client.</li><li><strong>Déploiement vs Release :</strong> Le déploiement est l'acte technique d'installer le binaire sur un serveur ; la release est la décision marketing ou métier de l'ouvrir aux utilisateurs.</li></ul></section>
+
+<div class="dict-analogy">Le déploiement moderne s'apparente au changement de pneus d'une voiture de course en plein virage : l'équipe remplace les composants sans jamais immobiliser le véhicule.</div>
+
+<section class="disc-sec"><h2>Questions fréquentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Que signifie le terme deployment en informatique ?</p><p class="dict-faq-a">C'est l'étape technique consistant à transférer une application testée vers les serveurs de production pour la mettre à disposition du public.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Comment éviter toute coupure de service lors d'un déploiement ?</p><p class="dict-faq-a">En s'appuyant sur des équilibreurs de charge, des déploiements Blue-Green ou Canary, et des migrations SQL rétrocompatibles.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Qu'est-ce qu'un rollback et quand l'enclencher ?</p><p class="dict-faq-a">C'est l'action de revenir instantanément à la version logicielle stable précédente en cas de défaillance grave en production.</p></div></div></section>
+
+<section class="disc-sec"><h2>Termes liés</h2><div class="dict-related"><a href="/fr/dictionary/runtime/">Runtime</a><a href="/fr/dictionary/compile-time/">Compile-time</a><a href="/fr/dictionary/cloud-computing/">Cloud Computing</a><a href="/fr/dictionary/production-pipeline/">Production Pipeline</a><a href="/fr/dictionary/tech-stack/">Tech Stack</a><a href="/fr/dictionary/git-push/">Git Push</a></div></section>
+
 <section class="disc-sec"><h2>Outils liés</h2><div class="dict-related"><a href="/fr/discover/rocket-chat/">Rocket.Chat</a><a href="/fr/discover/chatwoot/">Chatwoot</a><a href="/fr/discover/argo-cd/">Argo Cd</a><a href="/fr/discover/openship/">Openship</a></div></section>
+
 <aside class="disc-cta"><p><strong>Explorez les outils associés et les rapports quotidiens.</strong> Suivez les nouveaux termes et outils technologiques chaque matin dans votre boîte de réception.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-fr" data-page-type="dictionary" data-content-slug="deployment" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Votre adresse e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Accès anticipé</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>J'ai lu <a href="/fr/privacy.html" target="_blank" rel="noopener">la notice de confidentialité</a> et je consens au traitement de mon adresse e-mail à cette fin.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/fr/dictionary/">Tous les termes →</a></aside>
-<p class="disc-disclaimer">Cette explication a été rédigée en langage clair pour TreScout puis <strong>traduite automatiquement</strong> depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/deployment/">Lire en turc →</a></p>
+
+<div class="dict-disclaimer">Cette explication a été rédigée en langage clair pour TreScout puis <strong>traduite automatiquement</strong> depuis l'original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/deployment/">Lire en turc →</a></div>
 </article>
 </main>
 <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">TreScout analyse, résume et livre. Vous n'avez qu'à lire.</p></div><div class="footer-col"><div class="footer-col-title">Produit</div><ul><li><a href="/fr/discover/">Découvrir</a></li><li><a href="/fr/dictionary/">Glossaire</a></li><li><a href="/fr/reports/">Archive des rapports</a></li><li><a href="/fr/compare/rss-vs-ai/">Comparer</a></li><li><a href="/fr/#top">Accès anticipé</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Contact</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/fr/privacy.html" target="_blank" rel="noopener">Notice de confidentialité</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Réseaux</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Tous droits réservés.</span></div></div></footer>

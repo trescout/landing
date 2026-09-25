@@ -48,7 +48,7 @@ Indem man den Agenten strikte redaktionelle Leitplanken vorgibt und übertrieben
 ## Verwandte Begriffe
 - [AI Agent](/de/dictionary/ai-agent/)
 - [Application](/de/dictionary/application/)
-- [Benchmarks](/de/dictionary/benchmarks/)
+- [Benchmarks](/de/dictionary/benchmark/)
 
 ---
 Quelle: TreScout Tech-Glossar · https://trescout.com/de/dictionary/marketing-skills/
