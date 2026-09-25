@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Qu'est-ce que Context ? · Glossaire · TreScout</title>
-<meta name="description" content="C’est l’ensemble des informations passées et de la situation actuelle dont l’intelligence artificielle a besoin pour comprendre correctement un sujet.">
+<meta name="description" content="Le contexte (context) est une notion clé de l&#x27;informatique désignant soit la fenêtre de mémoire textuelle d&#x27;un grand modèle de langage, soit l&#x27;état matériel d&#x27;un processeur lors de l&#x27;exécution de processus.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/fr/dictionary/context/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/context/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/context/">
 <link rel="alternate" type="text/markdown" href="/fr/dictionary/context.md">
 <meta property="og:title" content="Qu'est-ce que Context ?">
-<meta property="og:description" content="C’est l’ensemble des informations passées et de la situation actuelle dont l’intelligence artificielle a besoin pour comprendre correctement un sujet.">
+<meta property="og:description" content="Le contexte (context) est une notion clé de l&#x27;informatique désignant soit la fenêtre de mémoire textuelle d&#x27;un grand modèle de langage, soit l&#x27;état matériel d&#x27;un processeur lors de l&#x27;exécution de processus.">
 <meta property="og:url" content="https://trescout.com/fr/dictionary/context/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="fr_FR">
@@ -27,21 +27,61 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Qu&#39;est-ce que Context ?">
-<meta name="twitter:description" content="C’est l’ensemble des informations passées et de la situation actuelle dont l’intelligence artificielle a besoin pour comprendre correctement un sujet.">
+<meta name="twitter:description" content="Le contexte (context) est une notion clé de l&#x27;informatique désignant soit la fenêtre de mémoire textuelle d&#x27;un grand modèle de langage, soit l&#x27;état matériel d&#x27;un processeur lors de l&#x27;exécution de processus.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Context",
-  "description": "C’est l’ensemble des informations passées et de la situation actuelle dont l’intelligence artificielle a besoin pour comprendre correctement un sujet.",
+  "description": "Le contexte (context) est une notion clé de l'informatique désignant soit la fenêtre de mémoire textuelle d'un grand modèle de langage, soit l'état matériel d'un processeur lors de l'exécution de processus.",
   "inLanguage": "fr",
   "url": "https://trescout.com/fr/dictionary/context/",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
-    "name": "TreScout Tech Dictionary",
+    "name": "Dictionnaire technique TreScout",
     "url": "https://trescout.com/fr/dictionary/"
   }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Qu'appelle-t-on l'effet 'lost in the middle' dans les LLMs ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Le phénomène où un modèle d'IA mémorise mieux le début et la fin de son invite que les informations situées au cœur de longs textes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Pourquoi les changements de contexte CPU sont-ils coûteux ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Parce qu'ils obligent à vider les caches processeur rapides et à recharger les tables de pages virtuelles en mémoire."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "À quoi sert le contexte dans React ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "À propager des données globales (thème, utilisateur connecté) aux composants enfants sans devoir passer manuellement des props à chaque étage."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Comment les Transformers calculent-ils le contexte ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Par des matrices d'attention qui mesurent le lien sémantique existant entre chaque mot de la séquence active."
+      }
+    }
+  ]
 }
 </script>
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -55,19 +95,19 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/fr/dictionary/">← Glossaire</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossaire · AI</span><time class="dict-time" datetime="2026-08-07">Dernière mise à jour : 7 août 2026</time></div>
-<h1 class="disc-title">Qu'est-ce que <span class="disc-accent">Context</span> ?</h1>
-<p class="disc-lead">C’est l’ensemble des informations passées et de la situation actuelle dont l’intelligence artificielle a besoin pour comprendre correctement un sujet.</p>
-<section class="disc-sec"><h2>Définition</h2><p>Le contexte est une information de base qui aide l’IA à répondre à une question ou à effectuer une tâche. Ces informations peuvent inclure des conversations précédentes, des documents téléchargés ou l&#39;état actuel du système. Lorsqu’un contexte suffisant n’est pas fourni, l’intelligence artificielle peut passer à côté de détails sur le sujet ou donner des réponses générales.</p></section>
-<div class="dict-analogy"><strong>Analogie :</strong> Lorsque vous discutez avec un ami, si vous dites simplement : « Oui, c&#39;est ce qu&#39;il a dit », il ne vous comprendra pas ; Cependant, si vous dites : « Je parle du film dont nous avons parlé hier », vous fournirez un contexte.</div>
-<section class="disc-sec"><h2>Comment ça marche</h2><p>Lorsqu&#39;ils donnent des instructions à l&#39;intelligence artificielle, les développeurs fournissent des dialogues antérieurs ou des documents pertinents en entrée du système.</p></section>
-<section class="disc-sec"><h2>Où est-ce utilisé</h2><p>Il est utilisé dans les chatbots, les outils de codage et les systèmes d’intelligence artificielle qui gèrent des tâches complexes.</p></section>
-<section class="disc-sec"><h2>Souvent confondu avec</h2><p>Peut être confondu avec invite ; L&#39;invite est la commande elle-même, le contexte est l&#39;arrière-plan qui donne du sens à cette commande.</p></section>
-<section class="disc-sec"><h2>Questions fréquentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Que signifie la fenêtre contextuelle ?</p><p class="dict-faq-a">Il fait référence à la capacité totale d’informations que l’intelligence artificielle peut traiter en même temps.</p></div></div></section>
-<section class="disc-sec"><h2>Termes liés</h2><div class="dict-related"><a href="/fr/dictionary/context-window/">Context Window</a><a href="/fr/dictionary/prompt/">Prompt</a><a href="/fr/dictionary/rag/">RAG</a></div></section>
+<div class="disc-top"><span class="disc-eyebrow">Glossaire · AI</span><time class="dict-time" datetime="2026-09-19">Dernière mise à jour : 19 septembre 2026</time></div>
+<h1 class="disc-title">Qu'est-ce que le Contexte (Context) ? IA et Systèmes</h1>
+<p class="dict-en">Anglais : Context · Étymologie : latin contexere (tisser ensemble, assembler)</p>
+<p class="disc-lead">Le contexte (context) est une notion clé de l'informatique désignant soit la fenêtre de mémoire textuelle d'un grand modèle de langage, soit l'état matériel d'un processeur lors de l'exécution de processus.</p>
+<div class="dict-analogy">Si vous lancez à un ami 'Oui, ils sont d'accord', il ne comprendra rien ; mais si vous précisez 'Au sujet du film dont nous parlions hier', vous lui donnez le contexte indispensable à la compréhension.</div>
+<section class="disc-sec"><h2>1. Le contexte en Intelligence Artificielle et LLM</h2><p>Les modèles de langage ne disposent pas d'une mémoire continue comme le cerveau humain. Pour interpréter une question et y répondre précisément, ils s'appuient sur la <strong>fenêtre de contexte</strong> : la suite de jetons (tokens) transmise lors de chaque appel (consignes système, historique d'échange, documents RAG). La taille de cette fenêtre détermine la quantité d'informations qu'un modèle peut analyser en un seul calcul.</p></section>
+<section class="disc-sec"><h2>2. Le contexte dans les systèmes d'exploitation</h2><p>En programmation système, le contexte correspond à l'état complet d'un processeur à un instant T pour un fil d'exécution : registres CPU, compteur ordinal (PC) et pointeur de pile. Lorsqu'un système multitâche met en pause une tâche pour en exécuter une autre, il effectue un <strong>changement de contexte (context switch)</strong> en sauvegardant cet état en mémoire.</p></section>
+<section class="disc-sec"><h2>Tableau comparatif entre disciplines</h2><p>Manifestations concrètes du contexte selon le domaine :</p><ul><li><strong>IA Générative :</strong> Jetons textuels et cache d'attention (KV Cache) fournissant la mémoire de travail immédiate.</li><li><strong>Systèmes d'exploitation :</strong> Bloc de contrôle de processus (PCB) sauvegardant les registres matériels du CPU.</li><li><strong>Développement Web :</strong> Objets de contexte (comme dans React ou Go) transmettant signaux d'annulation et droits d'accès à travers l'arbre d'exécution.</li></ul></section>
+<section class="disc-sec"><h2>Questions fréquentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Qu'appelle-t-on l'effet 'lost in the middle' dans les LLMs ?</p><p class="dict-faq-a">Le phénomène où un modèle d'IA mémorise mieux le début et la fin de son invite que les informations situées au cœur de longs textes.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Pourquoi les changements de contexte CPU sont-ils coûteux ?</p><p class="dict-faq-a">Parce qu'ils obligent à vider les caches processeur rapides et à recharger les tables de pages virtuelles en mémoire.</p></div><div class="dict-faq-item"><p class="dict-faq-q">À quoi sert le contexte dans React ?</p><p class="dict-faq-a">À propager des données globales (thème, utilisateur connecté) aux composants enfants sans devoir passer manuellement des props à chaque étage.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Comment les Transformers calculent-ils le contexte ?</p><p class="dict-faq-a">Par des matrices d'attention qui mesurent le lien sémantique existant entre chaque mot de la séquence active.</p></div></div></section>
+<section class="disc-sec"><h2>Termes liés</h2><div class="dict-related"><a href="/fr/dictionary/context-window/">Context Window</a><a href="/fr/dictionary/working-memory/">Working Memory</a><a href="/fr/dictionary/attention-mechanism/">Attention Mechanism</a></div></section>
 <section class="disc-sec"><h2>Outils liés</h2><div class="dict-related"><a href="/fr/discover/goose/">Goose</a><a href="/fr/discover/chrome-devtools-mcp/">Chrome Devtools MCP</a><a href="/fr/discover/openclaude/">Openclaude</a><a href="/fr/discover/code-review-graph/">Code Review Graph</a><a href="/fr/discover/fastmcp/">Fastmcp</a><a href="/fr/discover/context-mode/">Context Mode</a><a href="/fr/discover/unity-mcp/">Unity MCP</a><a href="/fr/discover/desktopcommandermcp/">DesktopCommanderMCP</a></div></section>
 <aside class="disc-cta"><p><strong>Explorez les outils associés et les rapports quotidiens.</strong> Suivez les nouveaux termes et outils technologiques chaque matin dans votre boîte de réception.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-fr" data-page-type="dictionary" data-content-slug="context" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Votre adresse e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Accès anticipé</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>J'ai lu <a href="/fr/privacy.html" target="_blank" rel="noopener">la notice de confidentialité</a> et je consens au traitement de mon adresse e-mail à cette fin.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/fr/dictionary/">Tous les termes →</a></aside>
-<p class="disc-disclaimer">Cette explication a été rédigée en langage clair pour TreScout puis <strong>traduite automatiquement</strong> depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/context/">Lire en turc →</a></p>
+<p class="disc-disclaimer">Cette explication a été rédigée en langage clair pour TreScout puis <strong>traduite automatiquement</strong> depuis l'original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/context/">Lire en turc →</a></p>
 </article>
 </main>
 <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">TreScout analyse, résume et livre. Vous n'avez qu'à lire.</p></div><div class="footer-col"><div class="footer-col-title">Produit</div><ul><li><a href="/fr/discover/">Découvrir</a></li><li><a href="/fr/dictionary/">Glossaire</a></li><li><a href="/fr/reports/">Archive des rapports</a></li><li><a href="/fr/compare/rss-vs-ai/">Comparer</a></li><li><a href="/fr/#top">Accès anticipé</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Contact</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/fr/privacy.html" target="_blank" rel="noopener">Notice de confidentialité</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Réseaux</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Tous droits réservés.</span></div></div></footer>

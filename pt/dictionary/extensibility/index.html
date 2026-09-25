@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>O que é Extensibility? · Glossário · TreScout</title>
-<meta name="description" content="A adequação de um sistema a ser desenvolvido adicionando novas funcionalidades sem perturbar sua estrutura básica.">
+<meta name="description" content="Extensibilidade (extensibility) é o princípio de arquitetura de software que permite adicionar novas funcionalidades, módulos e plugins a um sistema sem a necessidade de modificar seu código-fonte principal.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/pt/dictionary/extensibility/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/extensibility/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/extensibility/">
 <link rel="alternate" type="text/markdown" href="/pt/dictionary/extensibility.md">
 <meta property="og:title" content="O que é Extensibility?">
-<meta property="og:description" content="A adequação de um sistema a ser desenvolvido adicionando novas funcionalidades sem perturbar sua estrutura básica.">
+<meta property="og:description" content="Extensibilidade (extensibility) é o princípio de arquitetura de software que permite adicionar novas funcionalidades, módulos e plugins a um sistema sem a necessidade de modificar seu código-fonte principal.">
 <meta property="og:url" content="https://trescout.com/pt/dictionary/extensibility/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="pt_BR">
@@ -27,21 +27,61 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="O que é Extensibility?">
-<meta name="twitter:description" content="A adequação de um sistema a ser desenvolvido adicionando novas funcionalidades sem perturbar sua estrutura básica.">
+<meta name="twitter:description" content="Extensibilidade (extensibility) é o princípio de arquitetura de software que permite adicionar novas funcionalidades, módulos e plugins a um sistema sem a necessidade de modificar seu código-fonte principal.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Extensibility",
-  "description": "A adequação de um sistema a ser desenvolvido adicionando novas funcionalidades sem perturbar sua estrutura básica.",
+  "description": "Extensibilidade (extensibility) é o princípio de arquitetura de software que permite adicionar novas funcionalidades, módulos e plugins a um sistema sem a necessidade de modificar seu código-fonte principal.",
   "inLanguage": "pt-BR",
   "url": "https://trescout.com/pt/dictionary/extensibility/",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
-    "name": "TreScout Tech Dictionary",
+    "name": "Dicionário Técnico TreScout",
     "url": "https://trescout.com/pt/dictionary/"
   }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Todo sistema deve ser projetado para ser extensível?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Não; criar camadas de extensão prematuras gera sobrecarga de desenvolvimento desnecessária quando os requisitos são simples."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Qual a diferença entre extensibilidade e manutenibilidade?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Manutenibilidade é a facilidade de consertar o código existente; extensibilidade é a facilidade de acrescentar recursos novos sem alterar o existente."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Como evitar que um plugin ruim derrube o programa principal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Executando o plugin em uma sandbox isolada (como WASM ou processos secundários) com limites estritos de memória e chamadas de sistema."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Como as APIs contribuem para a extensibilidade?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Elas padronizam as mensagens e parâmetros válidos entre o aplicativo hospedeiro e os módulos construídos pela comunidade."
+      }
+    }
+  ]
 }
 </script>
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -55,15 +95,17 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/pt/dictionary/">← Glossário</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-07-12">Última atualização: 12 de julho de 2026</time></div>
-<h1 class="disc-title">O que é <span class="disc-accent">Extensibility</span>?</h1>
-<p class="disc-lead">A adequação de um sistema a ser desenvolvido adicionando novas funcionalidades sem perturbar sua estrutura básica.</p>
-<section class="disc-sec"><h2>Definição</h2><p>Extensibilidade significa que um software é flexível. Você pode adicionar novos recursos por meio de plug-ins ou módulos sem mexer no código principal do software. Isso garante a longevidade do sistema.</p></section>
-<div class="dict-analogy"><strong>Analogia:</strong> É como um canivete suíço; Possui uma estrutura na qual você pode adicionar uma nova chave de fenda ou ponta de lanterna.</div>
-<section class="disc-sec"><h2>Como funciona</h2><p>O sistema foi projetado com uma &#39;interface&#39; que aceitará módulos externos.</p></section>
-<section class="disc-sec"><h2>Onde é usado</h2><p>Ele é usado em complementos de navegador, sistemas de gerenciamento de conteúdo (como WordPress) e software de grandes empresas.</p></section>
-<section class="disc-sec"><h2>Perguntas frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Todo software é extensível?</p><p class="dict-faq-a">Não, se o software não for projetado com essa flexibilidade desde o início, adicioná-lo posteriormente pode ser muito difícil.</p></div></div></section>
-<section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/plugin/">Plugins</a><a href="/pt/dictionary/framework/">Framework</a><a href="/pt/dictionary/api/">API</a></div></section>
+<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-09-22">Última atualização: 22 de setembro de 2026</time></div>
+<h1 class="disc-title">O que é Extensibilidade (Extensibility)?</h1>
+<p class="dict-en">Inglês: Extensibility · Etimologia: latim extendere (alongar, estender)</p>
+<p class="disc-lead">Extensibilidade (extensibility) é o princípio de arquitetura de software que permite adicionar novas funcionalidades, módulos e plugins a um sistema sem a necessidade de modificar seu código-fonte principal.</p>
+<section class="disc-sec"><h2>Definição e etimologia</h2><p>A palavra deriva do latim extendere, expressando a ideia de ampliação. Na engenharia de software, materializa o princípio Aberto/Fechado (o 'O' de SOLID): o sistema deve estar aberto para extensões, porém fechado para alterações em seu núcleo. A arquitetura oferece pontos de conexão (hooks) e interfaces que permitem a terceiros acoplar novos comportamentos com segurança.</p></section>
+<section class="disc-sec"><h2>Contexto cotidiano e uso prático</h2><p>Exemplos cotidianos de extensibilidade no ecossistema digital :</p><ul><li><strong>Editores de Código:</strong> O VS Code mantém seu núcleo ágil e veloz, suportando extensões para centenas de linguagens.</li><li><strong>Navegadores de Internet:</strong> Chrome e Firefox permitem acoplar tradutores e bloqueadores de anúncios sem alterar o motor de renderização.</li><li><strong>Plataformas Web:</strong> O WordPress construiu seu ecossistema global permitindo que desenvolvedores criem temas e plugins via ganchos de eventos.</li></ul></section>
+<section class="disc-sec"><h2>Profundidade técnica e arquitetura</h2><p>Mecanismos estruturais de extensibilidade :</p><ul><li><strong>Arquitetura de Plugins e Hooks:</strong> Eventos de ciclo de vida onde bibliotecas externas injetam rotinas personalizadas.</li><li><strong>Inversão de Dependências:</strong> Uso de interfaces abstratas para evitar dependências diretas de implementações proprietárias.</li><li><strong>Mensageria Pub/Sub:</strong> Publicação de eventos que ativam módulos ouvintes sem gerar acoplamento rígido.</li><li><strong>Isolamento com WebAssembly (WASM):</strong> Execução de extensões dentro de caixas de areia seguras em memória.</li></ul></section>
+<section class="disc-sec"><h2>Perspectivas interdisciplinares</h2><p>Analogias em outros setores :</p><ul><li><strong>Construção Civil:</strong> Edifícios modulares estruturados para permitir a adição de novos blocos sem quebrar vigas de sustentação.</li><li><strong>Ferramentas Elétricas:</strong> Motores portáteis universais que aceitam pontas de broca, lixa ou serra intercambiáveis.</li><li><strong>Jogos de Tabuleiro:</strong> Regras fundamentais desenhadas para receber pacotes de expansão posteriores sem quebrar a mecânica base.</li></ul></section>
+<div class="dict-analogy">É como um canivete suíço: o corpo central permanece firme e inalterado, mas oferece encaixes modulares para acrescentar uma chave de fenda ou lanterna quando necessário.</div>
+<section class="disc-sec"><h2>Perguntas frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Todo sistema deve ser projetado para ser extensível?</p><p class="dict-faq-a">Não; criar camadas de extensão prematuras gera sobrecarga de desenvolvimento desnecessária quando os requisitos são simples.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Qual a diferença entre extensibilidade e manutenibilidade?</p><p class="dict-faq-a">Manutenibilidade é a facilidade de consertar o código existente; extensibilidade é a facilidade de acrescentar recursos novos sem alterar o existente.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Como evitar que um plugin ruim derrube o programa principal?</p><p class="dict-faq-a">Executando o plugin em uma sandbox isolada (como WASM ou processos secundários) com limites estritos de memória e chamadas de sistema.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Como as APIs contribuem para a extensibilidade?</p><p class="dict-faq-a">Elas padronizam as mensagens e parâmetros válidos entre o aplicativo hospedeiro e os módulos construídos pela comunidade.</p></div></div></section>
+<section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/plugin/">Plugin</a><a href="/pt/dictionary/emitter/">Emitter</a><a href="/pt/dictionary/tools/">Tools</a></div></section>
 <aside class="disc-cta"><p><strong>Explore ferramentas relacionadas e relatórios diários.</strong> Novos termos e ferramentas surgem todos os dias · junte-se ao acesso antecipado da TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-pt" data-page-type="dictionary" data-content-slug="extensibility" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Seu e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Acesso antecipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Li o <a href="/pt/privacy.html" target="_blank" rel="noopener">aviso de privacidade</a> e concordo com o tratamento do meu e-mail para esta finalidade.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/pt/dictionary/">Todos os termos →</a></aside>
 <p class="disc-disclaimer">Esta explicação foi escrita em linguagem simples para a TreScout e <strong>traduzida automaticamente</strong> do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/extensibility/">Ler em turco →</a></p>
 </article>

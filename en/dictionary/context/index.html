@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>What is Context? · Dictionary · TreScout</title>
-<meta name="description" content="It is the whole of the past information and current situation that artificial intelligence needs to understand a subject correctly.">
+<meta name="description" content="Context is a foundational concept across computer science, defining either the active prompt memory and token window of large language models, or the operational CPU state, registers, and memory maps in operating systems.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/en/dictionary/context/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/context/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/context/">
 <link rel="alternate" type="text/markdown" href="/en/dictionary/context.md">
 <meta property="og:title" content="What is Context?">
-<meta property="og:description" content="It is the whole of the past information and current situation that artificial intelligence needs to understand a subject correctly.">
+<meta property="og:description" content="Context is a foundational concept across computer science, defining either the active prompt memory and token window of large language models, or the operational CPU state, registers, and memory maps in operating systems.">
 <meta property="og:url" content="https://trescout.com/en/dictionary/context/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="What is Context?">
-<meta name="twitter:description" content="It is the whole of the past information and current situation that artificial intelligence needs to understand a subject correctly.">
+<meta name="twitter:description" content="Context is a foundational concept across computer science, defining either the active prompt memory and token window of large language models, or the operational CPU state, registers, and memory maps in operating systems.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Context",
-  "description": "It is the whole of the past information and current situation that artificial intelligence needs to understand a subject correctly.",
+  "description": "Context is a foundational concept across computer science, defining either the active prompt memory and token window of large language models, or the operational CPU state, registers, and memory maps in operating systems.",
   "inLanguage": "en",
   "url": "https://trescout.com/en/dictionary/context/",
   "inDefinedTermSet": {
@@ -42,6 +42,46 @@
     "name": "TreScout Tech Dictionary",
     "url": "https://trescout.com/en/dictionary/"
   }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What causes the 'lost in the middle' effect in LLM context windows?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Language models tend to attend more strongly to the beginning and end of their context window, sometimes failing to retrieve specific facts buried in the middle of massive prompts."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why are CPU context switches computationally expensive?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because saving and restoring hardware registers incurs CPU overhead, invalidates translation lookaside buffers (TLB), and pollutes processor CPU caches."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the Context API work in React?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It provides a way to pass data deeply through the component tree without manually threading props at every intermediate level."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is the context window represented in Transformer models?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Through attention matrices that compute pairwise relevance between all tokens within the active context span."
+      }
+    }
+  ]
 }
 </script>
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -55,16 +95,16 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/en/dictionary/">← Dictionary</a>
-<div class="disc-top"><span class="disc-eyebrow">Dictionary · AI</span><time class="dict-time" datetime="2026-08-07">Last updated: August 7, 2026</time></div>
-<h1 class="disc-title">What is <span class="disc-accent">Context</span>?</h1>
-<p class="disc-lead">It is the whole of the past information and current situation that artificial intelligence needs to understand a subject correctly.</p>
-<section class="disc-sec"><h2>Overview</h2><p>Context is background information that helps AI when answering a question or performing a task. This information may include previous conversations, uploaded documents, or the current state of the system. When sufficient context is not provided, artificial intelligence may miss the details of the subject or give general answers.</p></section>
-<div class="dict-analogy"><strong>Analogy:</strong> When you&#39;re chatting with a friend, if you just say, &#39;Yes, that&#39;s what he said,&#39; he won&#39;t understand you; However, if you say, &#39;I&#39;m talking about that movie we talked about yesterday&#39;, you will provide context.</div>
-<section class="disc-sec"><h2>How it works</h2><p>When giving instructions to artificial intelligence, developers give past dialogues or relevant documents as input to the system.</p></section>
-<section class="disc-sec"><h2>Where it is used</h2><p>It is used in chatbots, coding tools, and artificial intelligence systems that manage complex tasks.</p></section>
-<section class="disc-sec"><h2>Commonly confused with</h2><p>Can be confused with prompt; prompt is the command itself, context is the background that makes this command meaningful.</p></section>
-<section class="disc-sec"><h2>Frequently asked questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">What does the context window mean?</p><p class="dict-faq-a">It refers to the total information capacity that artificial intelligence can process at one time.</p></div></div></section>
-<section class="disc-sec"><h2>Related terms</h2><div class="dict-related"><a href="/en/dictionary/context-window/">Context Window</a><a href="/en/dictionary/prompt/">Prompt</a><a href="/en/dictionary/rag/">RAG</a></div></section>
+<div class="disc-top"><span class="disc-eyebrow">Dictionary · AI</span><time class="dict-time" datetime="2026-09-19">Last updated: September 19, 2026</time></div>
+<h1 class="disc-title">What is Context? AI vs Systems</h1>
+<p class="dict-en">English: Context · Etymology: Latin contexere (to weave together)</p>
+<p class="disc-lead">Context is a foundational concept across computer science, defining either the active prompt memory and token window of large language models, or the operational CPU state, registers, and memory maps in operating systems.</p>
+<div class="dict-analogy">If you walk up to a friend and simply state 'Yes, they agreed', they will have no idea what you mean; but if you preface it with 'Regarding yesterday's discussion about the movie', you provide the necessary context for comprehension.</div>
+<section class="disc-sec"><h2>1. Context in Artificial Intelligence and LLMs</h2><p>Large language models do not possess biological memory or ongoing conscious state between API calls. To understand a question, interpret nuance, or continue a conversation, they rely entirely on the <strong>context window</strong>: the active sequence of input tokens (prompts, conversation history, and RAG document chunks) fed into the model during inference. The size of this context determines how much information an AI can reason about simultaneously.</p></section>
+<section class="disc-sec"><h2>2. Context in Operating Systems and Concurrent Programming</h2><p>In operating systems and systems programming, context represents the exact execution state of a thread or process at any given instant: program counter (PC), CPU registers, stack pointers, and memory page tables. When a multitasking operating system pauses one process to execute another, it performs a <strong>context switch</strong>, saving the old state and loading the new state into CPU hardware.</p></section>
+<section class="disc-sec"><h2>Comparative Perspectives Across Disciplines</h2><p>How context operates across disparate technology layers:</p><ul><li><strong>Artificial Intelligence:</strong> The token window and KV cache providing dynamic in-memory knowledge during inference.</li><li><strong>Operating Systems:</strong> Kernel data structures (Process Control Blocks / PCBs) tracking register state during scheduling.</li><li><strong>Web Frameworks:</strong> Context objects (such as in React, Go, or Express) passing request scopes, cancellation signals, and authorization credentials down the call tree.</li></ul></section>
+<section class="disc-sec"><h2>Frequently Asked Questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">What causes the 'lost in the middle' effect in LLM context windows?</p><p class="dict-faq-a">Language models tend to attend more strongly to the beginning and end of their context window, sometimes failing to retrieve specific facts buried in the middle of massive prompts.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Why are CPU context switches computationally expensive?</p><p class="dict-faq-a">Because saving and restoring hardware registers incurs CPU overhead, invalidates translation lookaside buffers (TLB), and pollutes processor CPU caches.</p></div><div class="dict-faq-item"><p class="dict-faq-q">How does the Context API work in React?</p><p class="dict-faq-a">It provides a way to pass data deeply through the component tree without manually threading props at every intermediate level.</p></div><div class="dict-faq-item"><p class="dict-faq-q">How is the context window represented in Transformer models?</p><p class="dict-faq-a">Through attention matrices that compute pairwise relevance between all tokens within the active context span.</p></div></div></section>
+<section class="disc-sec"><h2>Related terms</h2><div class="dict-related"><a href="/en/dictionary/context-window/">Context Window</a><a href="/en/dictionary/working-memory/">Working Memory</a><a href="/en/dictionary/attention-mechanism/">Attention Mechanism</a></div></section>
 <section class="disc-sec"><h2>Related tools</h2><div class="dict-related"><a href="/en/discover/goose/">Goose</a><a href="/en/discover/chrome-devtools-mcp/">Chrome Devtools MCP</a><a href="/en/discover/openclaude/">Openclaude</a><a href="/en/discover/code-review-graph/">Code Review Graph</a><a href="/en/discover/fastmcp/">Fastmcp</a><a href="/en/discover/context-mode/">Context Mode</a><a href="/en/discover/unity-mcp/">Unity MCP</a><a href="/en/discover/desktopcommandermcp/">DesktopCommanderMCP</a></div></section>
 <aside class="disc-cta"><p><strong>Explore related tools and daily reports.</strong> Stay on top of emerging tech terms and tools. Receive TreScout's daily summary in your inbox.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-en" data-page-type="dictionary" data-content-slug="context" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/dictionary/">All terms →</a></aside>
 <p class="disc-disclaimer">This explanation was written in plain language for TreScout and <strong>machine-translated</strong> from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/context/">Read in Turkish →</a></p>

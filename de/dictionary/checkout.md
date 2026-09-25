@@ -1,31 +1,46 @@
-# Was ist Checkout?
+# Was bedeutet Checkout? E-Commerce vs. Git
 
-Es ist die letzte Phase, in der am Ende eines Einkaufsvorgangs Zahlungs- und Genehmigungstransaktionen durchgeführt werden.
+> Englisch: Checkout · Wortherkunft: englisch check (prüfen) + out (hinaus/Abschluss)
 
-## Definition
-Der Checkout ist der Ort, an dem der Kaufvorgang der Produkte, die Sie Ihrem Warenkorb hinzufügen, in der digitalen Welt offiziell wird. In dieser Phase werden die Benutzerinformationen überprüft, die Zahlung eingegangen und die Bestellung im System erfasst. An dieser Stelle kommt es vor allem auf einen technisch sicheren Datenfluss an.
+**Kategorie:** Dev  
+**Letzte Aktualisierung:** 2026-09-19
 
-## So funktioniert es
-Der Benutzer drückt den „Kaufen“-Button, das System übermittelt die Zahlungsinformationen verschlüsselt an das Banknetzwerk, erhält eine Bestätigung und eine Bestellnummer wird an den Benutzer zurückgesendet.
+Checkout ist ein Begriff mit zwei zentralen technischen Bedeutungen: der finale Bezahl- und Bestellvorgang im Online-Handel oder die Git-Operation zum Wechseln von Entwicklungszweigen und Wiederherstellen von Dateien.
 
-## Wo es eingesetzt wird
-Es ist auf E-Commerce-Websites, In-App-Kaufbildschirmen und Abonnement-Panels zu finden.
+## Als Analogie
+Im Supermarkt ist der Checkout das Kassenband, an dem Sie bezahlen und den Beleg erhalten; in einer Leihbibliothek ist es die Verbuchung am Schalter, um ein Buch von der Ausleihe mit nach Hause zu nehmen.
 
-## Häufig verwechselt mit
-Nicht zu verwechseln mit „In den Warenkorb legen“; Der Warenkorb ist eine Vorbereitung, die Kasse ist ein Ergebnis.
+## 1. Checkout-Architektur im E-Commerce und SaaS
+Im Online-Handel beschreibt der Checkout den umsatzkritischen Übergang vom Warenkorb zur verbindlichen Bestellung. Systemisch steuert dieser Schritt Warenbestandsreservierungen, Adressvalidierungen und die Anbindung von Zahlungsdienstleistern über tokenisierte Schnittstellen (z. B. Stripe Elements), sodass sensible Kartendaten den Händlerserver nie berühren.
+
+## 2. Checkout im Versionskontrollsystem Git
+Für Programmierer ist <code>git checkout</code> die klassische Anweisung, um den HEAD-Zeiger auf einen anderen Entwicklungszweig (Branch) oder Commit zu richten und das Arbeitsverzeichnis entsprechend anzupassen. Seit Git 2.23 wurde dieser überladene Befehl in <code>git switch</code> (Zweigwechsel) und <code>git restore</code> (Dateien zurücksetzen) präzisiert.
+
+## Vergleich: E-Commerce gegen Git Checkout
+Gegenüberstellung der beiden Domänen:
+- **E-Commerce-Checkout:** Finanztransaktion mit Bestandsreservierung, Steuerberechnung und Webhook-Bestätigungen.- **Git Checkout:** Lokale Dateisystem-Operation zur Aktualisierung des HEAD-Zeigers und Wiederherstellung von Dateiversionen.- **Fehlerfolgen:** Im E-Commerce führt ein Ausfall zu Warenkorbabbrüchen; in Git führt Fehlbedienung zu einem abgetrennten Zustand (detached HEAD).
 
 ## Häufige Fragen
-**Warum ist der Checkout so wichtig?**
-Denn hier werden sowohl Finanzdaten verarbeitet als auch der sensibelste Moment erlebt, in dem der Nutzer seine Kaufentscheidung trifft.
 
+**Warum wurde 'git checkout' durch 'switch' und 'restore' ergänzt?**  
+Weil der alte checkout-Befehl zu viele Aufgaben vereinte: Zweige wechseln und lokale Dateien überschreiben. Die Aufteilung verhindert Datenverlust.
+
+**Wie verringert man Kaufabbrüche beim E-Commerce-Checkout?**  
+Durch One-Click-Zahlungsarten wie Apple Pay oder Google Pay sowie Gast-Bestellungen ohne verpflichtende Kontoerstellung.
+
+**Was bedeutet ein 'detached HEAD' in Git?**  
+Es bedeutet, dass man direkt auf einem einzelnen Commit statt auf einem Zweig arbeitet; neue Commits werden keinem Branch zugeordnet.
+
+**Welchen Zweck erfüllt ein Idempotenz-Schlüssel bei Online-Zahlungen?**  
+Er stellt sicher, dass wiederholte Netzwerkanfragen die Kreditkarte des Kunden bei Verbindungsabbrüchen nicht versehentlich doppelt belasten.
 
 ## Verwandte Begriffe
 - [API](/de/dictionary/api/)
 - [SaaS](/de/dictionary/saas/)
-- [CRM](/de/dictionary/crm/)
+- [Git Push](/de/dictionary/git-push/)
 
-## Verwandte Werkzeuge
+## Verwandte Tools
 - [Checkout](/de/discover/checkout/)
 
 ---
-Quelle: TreScout Glossar · https://trescout.com/de/dictionary/checkout/
+Quelle: TreScout Tech-Glossar · https://trescout.com/de/dictionary/checkout/

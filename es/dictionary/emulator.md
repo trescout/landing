@@ -1,35 +1,47 @@
-# ¿Qué es Emulator?
+# ¿Qué es un Emulador (Emulator)?
 
-Es una herramienta que permite ejecutar programas en otros dispositivos mediante software que emula el hardware de una computadora o consola de juegos.
+> Inglés: Emulator · Etimología: latín aemulari (imitar, emular con empeño)
 
-## Definición
-El emulador simula el procesador y la lógica operativa de un dispositivo en un entorno virtual. De esta manera, puede utilizar el software que se ejecuta en el dispositivo original en una plataforma diferente sin necesidad de la presencia física de ese dispositivo. Se suele utilizar sobre todo para jugar a juegos antiguos en ordenadores actuales.
+**Categoría:** Dev  
+**Última actualización:** 2026-09-19
 
-## Cómo funciona
-Usted instala el software del emulador y luego carga los archivos de software (generalmente llamados ROM) del sistema que desea ejecutar en el sistema. El emulador lee estos archivos y los muestra en la pantalla como si estuviera en el dispositivo original.
+Un emulador (emulator) es un programa informático que recrea minuciosamente la arquitectura de hardware, registros de procesador y circuitos de una máquina externa, permitiendo ejecutar su software nativo en una plataforma diferente.
 
-## Dónde se usa
-En el mundo de los videojuegos, se utiliza para revivir consolas antiguas, para que los desarrolladores de software las prueben en diferentes dispositivos o para ejecutar sistemas operativos antiguos.
+## Marco conceptual, etimología y diferencia con el simulador
+El término procede del latín aemulari, que describe la acción de imitar con exactitud. Mientras que un simulador imita el comportamiento de cara al usuario sin modelar el interior de los componentes (como un simulador de trenes), el emulador recrea la circuitería lógica: la CPU, la tarjeta de sonido y la memoria de vídeo interna.
 
-## Suele confundirse con
-Puede confundirse con simulador; Mientras que el simulador sólo imita el comportamiento, el emulador intenta copiar exactamente la lógica de funcionamiento del hardware.
+## Arquitectura y ciclo Fetch-Decode-Execute
+El núcleo de un emulador es un procesador virtual que procesa código máquina :
+- **Emulación por Intérprete:** Traduce y ejecuta una a una cada instrucción del procesador emulado. Es precisa pero exige gran consumo de cálculo.- **Traducción Binaria Dinámica (JIT):** Recompila bloques de código de otra arquitectura en instrucciones nativas de la máquina anfitriona y los guarda en caché.- **Emulación de Ciclo Exacto:** Sincroniza temporalmente cada chip en base a los ciclos de reloj para mantener la fidelidad sonora y gráfica original.
+
+## Utilidad en desarrollo, ciberseguridad y empresas
+Campos donde los emuladores son imprescindibles :
+- **Desarrollo de Apps Móviles:** Emuladores de teléfonos móviles integrados en Android Studio para probar aplicaciones sin disponer del terminal físico.- **Análisis Forense y Seguridad:** Detonación de troyanos en entornos emulados con QEMU para estudiar su comportamiento en un entorno estéril.- **Sistemas Críticos Legados:** Mantenimiento de software bancario histórico ejecutado sobre servidores actuales en la nube.
+
+## Aspectos legales y propiedad intelectual
+Sentencias judiciales históricas han confirmado la legalidad del desarrollo de emuladores mediante ingeniería inversa en sala limpia. Lo que vulnera los derechos de autor es la distribución ilegítima de archivos BIOS oficiales o ROMs de juegos con derechos vigentes.
+
+## Por analogía
+Para comprender un libro en otro idioma: un simulador es una guía resumen que explica de qué va; un emulador intérprete busca cada vocablo en el diccionario palabra a palabra; un recompilador JIT traduce páginas completas a tu lengua materna de antemano para leer con total fluidez.
 
 ## Preguntas frecuentes
-**¿Es legal utilizar un emulador?**
-El software emulador en sí es legal, pero el uso de archivos de juegos con derechos de autor sin permiso puede crear problemas legales.
 
-**¿Puede ejecutar algo en mi computadora?**
-Por lo general, la potencia de su hardware debe ser mayor que la del dispositivo emulado.
+**¿En qué se diferencian un emulador y una máquina virtual?**  
+Una máquina virtual ejecuta código sobre la misma arquitectura de procesador con ayuda de la placa base; el emulador traduce por software instrucciones pensadas para otra CPU distinta.
 
+**¿Es legal la creación de emuladores?**  
+Sí; la ingeniería inversa para replicar el funcionamiento de un hardware es lícita, siempre que no se distribuya código privativo de BIOS ni obras protegidas.
+
+**¿Por qué emular consolas antiguas puede exigir procesadores rápidos?**  
+Porque la emulación de ciclo exacto precisa miles de ciclos del ordenador actual para reproducir con total fidelidad temporal un solo ciclo del hardware antiguo.
+
+**¿Qué es QEMU?**  
+Una potente suite libre de emulación capaz de simular sistemas operativos completos para plataformas ARM, PowerPC, MIPS y x86.
 
 ## Términos relacionados
 - [ROM](/es/dictionary/rom/)
-- [Sandbox](/es/dictionary/sandbox/)
 - [Virtual Machines](/es/dictionary/virtual-machines/)
-
-## Herramientas relacionadas
-- [Cool Retro Term](/es/discover/cool-retro-term/)
-- [Sharpemu](/es/discover/sharpemu/)
+- [Apple Silicon](/es/dictionary/apple-silicon/)
 
 ---
-Fuente: TreScout Glosario · https://trescout.com/es/dictionary/emulator/
+Fuente: Diccionario Tecnológico TreScout · https://trescout.com/es/dictionary/emulator/
