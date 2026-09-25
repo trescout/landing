@@ -1,28 +1,51 @@
-# O que é Working Memory?
+# O que é Working Memory em IA?
 
-É a área da memória de curto prazo onde a inteligência artificial mantém temporariamente as informações durante o processamento.
+> Inglês: Working Memory · Etimologia: inglês arcaico weorc (trabalho) + latim memoria (lembrança)
 
-## Definição
-A memória de trabalho é onde a IA mantém o contexto atual e os dados necessários ativos durante a execução de uma tarefa. Essas informações geralmente são apagadas quando a tarefa é concluída ou o contexto muda.
+**Categoria:** AI  
+**Última atualização:** 2026-09-22
 
-## Como funciona
-Ocorre quando o modelo mantém dados de entrada e resultados intermediários em sua memória para acesso rápido dentro do ciclo de processamento atual.
+Working memory (memória de trabalho) em inteligência artificial é a área temporária de informações mantida ativa dentro da janela de contexto do modelo durante o raciocínio e a execução de tarefas imediatas.
 
-## Onde é usado
-É usado para preservar o histórico de bate-papo e processos de raciocínio complexos.
+## Definição e etimologia
+Ela atua como a bancada de trabalho do sistema: quando a tarefa termina ou a sessão é encerrada, os dados temporários são descartados. A janela de contexto é o recipiente físico, enquanto os tokens nela carregados formam o conteúdo ativo da memória operacional.
+
+## Contexto cotidiano e uso prático
+Papéis essenciais da memória de trabalho :
+- **Retenção no Diálogo:** Lembrar do que o usuário disse nas mensagens anteriores durante a conversa.- **Raciocínio Passo a Passo:** Guardar deduções lógicas intermediárias em prompts de Chain-of-Thought.- **Uso de Ferramentas:** Processar resultados brutos retornados por APIs antes de redigir a resposta final.
+
+## Profundidade técnica e arquitetura
+Controle do orçamento de contexto :
+- **Limites de Tokens:** Em uma janela de 128 mil tokens, se o histórico consome 100 mil, restam apenas 28 mil para o raciocínio e saída.- **KV Cache:** Mecanismo que guarda as matrizes de atenção das palavras anteriores na GPU para acelerar a geração.- **Descarte e Sumarização:** Quando o espaço se esgota, o sistema resume mensagens antigas para abrir espaço.
 
 ## Costuma ser confundido com
-Sua diferença em relação à memória de longo prazo é que ela é limitada apenas à tarefa atual.
+É comum confundir com memória de longo prazo. A de longo prazo é um banco vetorial persistente que sobrevive entre conversas; a memória de trabalho é a RAM temporária que se esvazia com o fim da execução.
+
+## Perspectivas interdisciplinares
+Comparações em outros campos :
+- **Matemática:** O papel de rascunho usado para fazer contas durante uma prova e jogado fora depois.- **Marcenaria:** A bancada onde ficam as ferramentas durante a montagem de um móvel.- **Computação:** A memória cache do processador frente ao disco rígido secundário.
+
+## Por analogia
+É como um pedaço de rascunho que usamos para fazer contas rápidas enquanto resolvemos um problema complexo; encontrada a resposta final, o rascunho perde a utilidade.
 
 ## Perguntas frequentes
-**O que acontece se a memória de trabalho ficar cheia?**
-O modelo começa a esquecer informações antigas ou pode perder o contexto.
 
+**O que acontece quando a memória de trabalho da IA enche?**  
+O sistema precisa compactar os diálogos passados ou descartar mensagens antigas para não truncar a resposta.
+
+**Qual a diferença entre essa memória e o treinamento do modelo?**  
+O treinamento gera os pesos permanentes do cérebro da IA; a memória de trabalho é apenas o texto temporário da conversa atual.
+
+**Aumentar indefinidamente a memória de trabalho tem custo?**  
+Sim, o processamento da atenção cresce de forma quadrática e o modelo pode ter dificuldade para achar fatos no meio do texto.
+
+**Qual a função do KV Cache?**  
+Ele armazena os cálculos de atenção dos tokens já gerados, evitando que o modelo recalcule tudo a cada nova palavra emitida.
 
 ## Termos relacionados
 - [Memory](/pt/dictionary/memory/)
 - [Context Window](/pt/dictionary/context-window/)
-- [Long-term Memory](/pt/dictionary/long-term-memory/)
+- [Attention Mechanism](/pt/dictionary/attention-mechanism/)
 
 ---
-Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/working-memory/
+Fonte: Dicionário Técnico TreScout · https://trescout.com/pt/dictionary/working-memory/

@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Was ist Working Memory? · Glossar · TreScout</title>
-<meta name="description" content="Es handelt sich um den Bereich des Kurzzeitgedächtnisses, in dem künstliche Intelligenz Informationen während der Verarbeitung vorübergehend speichert.">
+<meta name="description" content="Working Memory (Arbeitsgedächtnis) bezeichnet in der künstlichen Intelligenz den aktiven, temporären Notizbereich innerhalb des Kontextfensters eines Sprachmodells, der zur Ausführung unmittelbarer Denk- und Dialogschritte dient.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/de/dictionary/working-memory/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/working-memory/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/working-memory/">
 <link rel="alternate" type="text/markdown" href="/de/dictionary/working-memory.md">
 <meta property="og:title" content="Was ist Working Memory?">
-<meta property="og:description" content="Es handelt sich um den Bereich des Kurzzeitgedächtnisses, in dem künstliche Intelligenz Informationen während der Verarbeitung vorübergehend speichert.">
+<meta property="og:description" content="Working Memory (Arbeitsgedächtnis) bezeichnet in der künstlichen Intelligenz den aktiven, temporären Notizbereich innerhalb des Kontextfensters eines Sprachmodells, der zur Ausführung unmittelbarer Denk- und Dialogschritte dient.">
 <meta property="og:url" content="https://trescout.com/de/dictionary/working-memory/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="de_DE">
@@ -27,21 +27,61 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Was ist Working Memory?">
-<meta name="twitter:description" content="Es handelt sich um den Bereich des Kurzzeitgedächtnisses, in dem künstliche Intelligenz Informationen während der Verarbeitung vorübergehend speichert.">
+<meta name="twitter:description" content="Working Memory (Arbeitsgedächtnis) bezeichnet in der künstlichen Intelligenz den aktiven, temporären Notizbereich innerhalb des Kontextfensters eines Sprachmodells, der zur Ausführung unmittelbarer Denk- und Dialogschritte dient.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Working Memory",
-  "description": "Es handelt sich um den Bereich des Kurzzeitgedächtnisses, in dem künstliche Intelligenz Informationen während der Verarbeitung vorübergehend speichert.",
+  "description": "Working Memory (Arbeitsgedächtnis) bezeichnet in der künstlichen Intelligenz den aktiven, temporären Notizbereich innerhalb des Kontextfensters eines Sprachmodells, der zur Ausführung unmittelbarer Denk- und Dialogschritte dient.",
   "inLanguage": "de",
   "url": "https://trescout.com/de/dictionary/working-memory/",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
-    "name": "TreScout Tech Dictionary",
+    "name": "TreScout Tech-Glossar",
     "url": "https://trescout.com/de/dictionary/"
   }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Was geschieht bei einem vollen Arbeitsgedächtnis?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Das Modell muss frühere Dialogteile kürzen oder zusammenfassen, um nicht den Faden zu verlieren."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Worin unterscheidet es sich von den Trainingsgewichten?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Gewichte sind das permanente Wissen aus dem Training; das Arbeitsgedächtnis enthält nur die aktuellen Wörter der laufenden Eingabe."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Kann man das Arbeitsgedächtnis beliebig vergrößern?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nein, da der Rechenaufwand stark ansteigt und Modelle bei extrem langen Texten relevante Fakten in der Textmitte übersehen können."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Welche Funktion erfüllt der KV-Cache?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Er speichert die Berechnungen bereits verarbeiteter Wörter im GPU-Speicher und verhindert zeitraubende Doppelberechnungen."
+      }
+    }
+  ]
 }
 </script>
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -55,16 +95,18 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/de/dictionary/">← Glossar</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossar · AI</span><time class="dict-time" datetime="2026-08-16">Zuletzt aktualisiert: 16. August 2026</time></div>
-<h1 class="disc-title">Was ist <span class="disc-accent">Working Memory</span>?</h1>
-<p class="disc-lead">Es handelt sich um den Bereich des Kurzzeitgedächtnisses, in dem künstliche Intelligenz Informationen während der Verarbeitung vorübergehend speichert.</p>
-<section class="disc-sec"><h2>Definition</h2><p>Im Arbeitsgedächtnis hält die KI den aktuellen Kontext und die notwendigen Daten aktiv, während sie eine Aufgabe ausführt. Diese Informationen werden normalerweise gelöscht, wenn die Aufgabe abgeschlossen ist oder sich der Kontext ändert.</p></section>
-<div class="dict-analogy"><strong>Analogie:</strong> Es ist wie mit temporären Notizen, die man auf der Seite eines Papiers macht, während man ein mathematisches Problem löst. Wenn das Problem gelöst ist, spielen diese Notizen keine Rolle mehr.</div>
-<section class="disc-sec"><h2>So funktioniert es</h2><p>Dies geschieht, wenn das Modell Eingabedaten und Zwischenergebnisse für einen schnellen Zugriff innerhalb des aktuellen Verarbeitungszyklus in seinem Speicher behält.</p></section>
-<section class="disc-sec"><h2>Wo es eingesetzt wird</h2><p>Es wird zur Aufbewahrung des Chatverlaufs und komplexer Argumentationsprozesse verwendet.</p></section>
-<section class="disc-sec"><h2>Häufig verwechselt mit</h2><p>Der Unterschied zum Langzeitgedächtnis besteht darin, dass es nur auf die aktuelle Aufgabe beschränkt ist.</p></section>
-<section class="disc-sec"><h2>Häufige Fragen</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Was passiert, wenn der Arbeitsspeicher voll ist?</p><p class="dict-faq-a">Das Modell beginnt, alte Informationen zu vergessen oder verliert möglicherweise den Kontext.</p></div></div></section>
-<section class="disc-sec"><h2>Verwandte Begriffe</h2><div class="dict-related"><a href="/de/dictionary/memory/">Memory</a><a href="/de/dictionary/context-window/">Context Window</a><a href="/de/dictionary/long-term-memory/">Long-term Memory</a></div></section>
+<div class="disc-top"><span class="disc-eyebrow">Glossar · AI</span><time class="dict-time" datetime="2026-09-22">Zuletzt aktualisiert: 22. September 2026</time></div>
+<h1 class="disc-title">Was ist Working Memory in der KI?</h1>
+<p class="dict-en">Englisch: Working Memory · Wortherkunft: altenglisch weorc (Werk/Arbeit) + lateinisch memoria (Gedächtnis)</p>
+<p class="disc-lead">Working Memory (Arbeitsgedächtnis) bezeichnet in der künstlichen Intelligenz den aktiven, temporären Notizbereich innerhalb des Kontextfensters eines Sprachmodells, der zur Ausführung unmittelbarer Denk- und Dialogschritte dient.</p>
+<section class="disc-sec"><h2>Definition und Wortherkunft</h2><p>Sie fungiert als die Werkbank des KI-Systems: Sobald eine Anfrage abgeschlossen oder die Sitzung zurückgesetzt wird, leert sich dieser flüchtige Notizspeicher. Das Kontextfenster bildet den Rahmen, während die darin geladenen Tokens den aktiven Arbeitsspeicher darstellen.</p></section>
+<section class="disc-sec"><h2>Alltägliche Anwendung und Praxis</h2><p>Wesentliche Aufgaben des Arbeitsgedächtnisses:</p><ul><li><strong>Dialogführung:</strong> Erinnerung an vorherige Fragen und Antworten im laufenden Gespräch.</li><li><strong>Denk-Zwischenschritte:</strong> Festhalten von Zwischenergebnissen bei schrittweisen Logikketten (Chain-of-Thought).</li><li><strong>Tool-Integration:</strong> Temporäres Aufnehmen von Schnittstellen-Rückmeldungen vor Ausgabe der finalen Antwort.</li></ul></section>
+<section class="disc-sec"><h2>Technische Tiefe und Architektur</h2><p>Verwaltung des Token-Budgets:</p><ul><li><strong>Kapazitätsgrenzen:</strong> Fasst das Fenster 128.000 Tokens und belegt der bisherige Verlauf 100.000, verbleiben 28.000 Tokens für Überlegung und Antwort.</li><li><strong>KV-Cache:</strong> Transformers speichern vorberechnete Aufmerksamkeitswerte im Grafikspeicher, um Neuberechnungen pro Wort zu vermeiden.</li><li><strong>Verdrängungsstrategien:</strong> Nähert sich das Limit, fasst das System frühere Abschnitte zusammen oder blendet alte Nachrichten aus.</li></ul></section>
+<section class="disc-sec"><h2>Häufig verwechselt mit</h2><p>Oft wird es mit dem Langzeitgedächtnis verwechselt. Das Langzeitgedächtnis ist eine dauerhafte Vektordatenbank über Sitzungsgrenzen hinweg. Das Arbeitsgedächtnis ist der flüchtige Arbeitsspeicher, der nach Gesprächsende gelöscht wird.</p></section>
+<section class="disc-sec"><h2>Interdisziplinäre Perspektiven</h2><p>Vergleichbare Prinzipien in anderen Lebensbereichen:</p><ul><li><strong>Mathematik:</strong> Das Schmierblatt für Nebenrechnungen während einer Prüfung, das danach im Papierkorb landet.</li><li><strong>Werkstatt:</strong> Die Werkbank, auf der Einzelteile während des Zusammenbaus liegen und die abends aufgeräumt wird.</li><li><strong>Computertechnik:</strong> Schnelle CPU-Register und L1-Cache im Vergleich zur Festplatte.</li></ul></section>
+<div class="dict-analogy">Es ist wie ein Notizzettel, auf dem man Zwischenschritte beim Lösen einer schweren Matheaufgabe notiert; ist die Lösung gefunden, wirft man den Zettel weg.</div>
+<section class="disc-sec"><h2>Häufige Fragen</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Was geschieht bei einem vollen Arbeitsgedächtnis?</p><p class="dict-faq-a">Das Modell muss frühere Dialogteile kürzen oder zusammenfassen, um nicht den Faden zu verlieren.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Worin unterscheidet es sich von den Trainingsgewichten?</p><p class="dict-faq-a">Gewichte sind das permanente Wissen aus dem Training; das Arbeitsgedächtnis enthält nur die aktuellen Wörter der laufenden Eingabe.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Kann man das Arbeitsgedächtnis beliebig vergrößern?</p><p class="dict-faq-a">Nein, da der Rechenaufwand stark ansteigt und Modelle bei extrem langen Texten relevante Fakten in der Textmitte übersehen können.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Welche Funktion erfüllt der KV-Cache?</p><p class="dict-faq-a">Er speichert die Berechnungen bereits verarbeiteter Wörter im GPU-Speicher und verhindert zeitraubende Doppelberechnungen.</p></div></div></section>
+<section class="disc-sec"><h2>Verwandte Begriffe</h2><div class="dict-related"><a href="/de/dictionary/memory/">Memory</a><a href="/de/dictionary/context-window/">Context Window</a><a href="/de/dictionary/attention-mechanism/">Attention Mechanism</a></div></section>
 <aside class="disc-cta"><p><strong>Entdecken Sie passende Werkzeuge und tägliche Berichte.</strong> Jeden Tag entstehen neue Fachbegriffe und Tools · sichern Sie sich den Vorabzugang zu TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-de" data-page-type="dictionary" data-content-slug="working-memory" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Ihre E-Mail-Adresse" autocomplete="email" required><button class="btn btn-primary" type="submit">Vorabzugang</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Ich habe den <a href="/de/privacy.html" target="_blank" rel="noopener">Datenschutzhinweis</a> gelesen und bin damit einverstanden, dass meine E-Mail-Adresse zu diesem Zweck verarbeitet wird.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/de/dictionary/">Alle Begriffe →</a></aside>
 <p class="disc-disclaimer">Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und <strong>maschinell übersetzt</strong> aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/working-memory/">Auf Türkisch lesen →</a></p>
 </article>

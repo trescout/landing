@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Qu'est-ce que Specification ? · Glossaire · TreScout</title>
-<meta name="description" content="Il s&#39;agit d&#39;un document technique détaillé qui précise ce qu&#39;un projet, un logiciel ou un produit doit faire et quelles règles il doit suivre.">
+<meta name="description" content="Une spécification (souvent appelée spec) est un document technique formel qui décrit précisément les fonctionnalités, règles de fonctionnement, interfaces et critères d&#x27;acceptation attendus d&#x27;un produit ou système logiciel.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/fr/dictionary/specification/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/specification/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/specification/">
 <link rel="alternate" type="text/markdown" href="/fr/dictionary/specification.md">
 <meta property="og:title" content="Qu'est-ce que Specification ?">
-<meta property="og:description" content="Il s&#39;agit d&#39;un document technique détaillé qui précise ce qu&#39;un projet, un logiciel ou un produit doit faire et quelles règles il doit suivre.">
+<meta property="og:description" content="Une spécification (souvent appelée spec) est un document technique formel qui décrit précisément les fonctionnalités, règles de fonctionnement, interfaces et critères d&#x27;acceptation attendus d&#x27;un produit ou système logiciel.">
 <meta property="og:url" content="https://trescout.com/fr/dictionary/specification/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="fr_FR">
@@ -27,21 +27,61 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Qu&#39;est-ce que Specification ?">
-<meta name="twitter:description" content="Il s&#39;agit d&#39;un document technique détaillé qui précise ce qu&#39;un projet, un logiciel ou un produit doit faire et quelles règles il doit suivre.">
+<meta name="twitter:description" content="Une spécification (souvent appelée spec) est un document technique formel qui décrit précisément les fonctionnalités, règles de fonctionnement, interfaces et critères d&#x27;acceptation attendus d&#x27;un produit ou système logiciel.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Specification",
-  "description": "Il s'agit d'un document technique détaillé qui précise ce qu'un projet, un logiciel ou un produit doit faire et quelles règles il doit suivre.",
+  "description": "Une spécification (souvent appelée spec) est un document technique formel qui décrit précisément les fonctionnalités, règles de fonctionnement, interfaces et critères d'acceptation attendus d'un produit ou système logiciel.",
   "inLanguage": "fr",
   "url": "https://trescout.com/fr/dictionary/specification/",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
-    "name": "TreScout Tech Dictionary",
+    "name": "Dictionnaire technique TreScout",
     "url": "https://trescout.com/fr/dictionary/"
   }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Une spécification peut-elle être modifiée en cours de projet ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui, mais toute modification doit être concertée et documentée pour éviter les dérives de périmètre non maîtrisées."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Qu'appelle-t-on le Spec-driven Development ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Une approche d'ingénierie où le contrat d'API et les spécifications sont rédigés avant l'implémentation du code."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Qui rédige les spécifications ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Les chefs de produit, architectes logiciels et ingénieurs seniors collaborent pour concilier vision métier et contraintes techniques."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelle est la différence entre spécification fonctionnelle et technique ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La fonctionnelle décrit les interactions utilisateur, tandis que la technique détaille les flux de données, bases de données et protocoles."
+      }
+    }
+  ]
 }
 </script>
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -55,18 +95,20 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/fr/dictionary/">← Glossaire</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossaire · Dev</span><time class="dict-time" datetime="2026-07-05">Dernière mise à jour : 5 juillet 2026</time></div>
-<h1 class="disc-title">Qu'est-ce que <span class="disc-accent">Specification</span> ?</h1>
-<p class="disc-lead">Il s&#39;agit d&#39;un document technique détaillé qui précise ce qu&#39;un projet, un logiciel ou un produit doit faire et quelles règles il doit suivre.</p>
-<section class="disc-sec"><h2>Définition</h2><p>La spécification (« spec » en abrégé) est comme le projet architectural d&#39;un bâtiment. Les développeurs de logiciels comprennent ce qu&#39;ils vont construire en consultant ce document avant de commencer à écrire du code. Il est utilisé pour réduire les erreurs et clarifier les attentes.</p></section>
-<div class="dict-analogy"><strong>Analogie :</strong> C&#39;est comme la liste des ingrédients et les étapes de cuisson d&#39;une recette ; Si vous ne suivez pas la recette, la nourriture aura un goût différent.</div>
-<section class="disc-sec"><h2>Comment ça marche</h2><p>Il est rédigé par des maîtres d’ouvrage ou des ingénieurs. Il comprend des fonctionnalités, des règles de sécurité et des attentes en matière de performances.</p></section>
-<section class="disc-sec"><h2>Où est-ce utilisé</h2><p>Il est utilisé dans les processus de développement de logiciels, les dossiers d’appel d’offres et les étapes de conception de produits.</p></section>
-<section class="disc-sec"><h2>Souvent confondu avec</h2><p>Similaire à l&#39;exigence ; l&#39;exigence se concentre sur « que voulons-nous », tandis que la spécification se concentre sur « comment allons-nous le faire ».</p></section>
-<section class="disc-sec"><h2>Questions fréquentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Les spécifications peuvent-elles changer ?</p><p class="dict-faq-a">Oui, il peut être mis à jour en fonction des besoins au fur et à mesure de l’avancement du projet, mais cela affecte souvent le coût.</p></div></div></section>
-<section class="disc-sec"><h2>Termes liés</h2><div class="dict-related"><a href="/fr/dictionary/spec-driven-development/">Spec-driven Development</a><a href="/fr/dictionary/framework/">Framework</a><a href="/fr/dictionary/tech-stack/">Tech Stack</a></div></section>
+<div class="disc-top"><span class="disc-eyebrow">Glossaire · Dev</span><time class="dict-time" datetime="2026-09-22">Dernière mise à jour : 22 septembre 2026</time></div>
+<h1 class="disc-title">Qu'est-ce qu'une Spécification (Specification) ?</h1>
+<p class="dict-en">Anglais : Specification · Étymologie : latin species (aspect, sorte) + facere (faire)</p>
+<p class="disc-lead">Une spécification (souvent appelée spec) est un document technique formel qui décrit précisément les fonctionnalités, règles de fonctionnement, interfaces et critères d'acceptation attendus d'un produit ou système logiciel.</p>
+<section class="disc-sec"><h2>Définition et étymologie</h2><p>La spécification est l'équivalent du plan d'architecte dans le bâtiment : avant d'écrire la moindre ligne de code, l'équipe s'y réfère pour comprendre exactement ce qu'il faut construire. Elle élimine les ambiguïtés et sert de référentiel aux tests. Dans le domaine des API, OpenAPI constitue une spécification standardisée.</p></section>
+<section class="disc-sec"><h2>Usage quotidien et contexte pratique</h2><p>Applications directes dans les projets :</p><ul><li><strong>Développement logiciel :</strong> Spécifications fonctionnelles, contrats d'API et diagrammes d'états.</li><li><strong>Appels d'offres :</strong> Cahiers des charges techniques déterminant la conformité d'une prestation.</li><li><strong>Normes industrielles :</strong> Documents RFC de l'IETF ou recommandations W3C fixant les standards du web.</li></ul></section>
+<section class="disc-sec"><h2>Profondeur technique et architecture</h2><p>Éléments indispensables d'une spécification réussie :</p><ul><li><strong>Périmètre :</strong> Délimitation claire de ce qui est inclus et explicitement exclu.</li><li><strong>Critères d'acceptation :</strong> Conditions vérifiables pour valider qu'une fonctionnalité est terminée.</li><li><strong>Modèles de données :</strong> Schémas d'entrées/sorties, codes d'erreur et règles de validation.</li><li><strong>Exigences non fonctionnelles :</strong> Seuils de performance, sécurité et tolérance aux pannes.</li></ul></section>
+<section class="disc-sec"><h2>Souvent confondu avec</h2><p>On la confond souvent avec l'expression de besoin (requirement). Le besoin exprime ce que l'utilisateur souhaite accomplir ; la spécification décrit comment le système y répond techniquement. L'un est l'objectif, l'autre est la solution d'ingénierie.</p></section>
+<section class="disc-sec"><h2>Perspectives interdisciplinaires</h2><p>Équivalents dans d'autres disciplines :</p><ul><li><strong>Cuisine :</strong> Une fiche technique de recette avec grammages et temps de cuisson précis.</li><li><strong>Bâtiment :</strong> Le plan d'exécution indiquant le passage des canalisations et les matériaux.</li><li><strong>Industrie :</strong> Une notice de montage précisant le couple de serrage et l'ordre des pièces.</li></ul></section>
+<div class="dict-analogy">C'est comme la liste des ingrédients et les étapes de cuisson d'une recette de pâtisserie : si l'on ne suit pas précisément les instructions, le gâteau ne prend pas.</div>
+<section class="disc-sec"><h2>Questions fréquentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Une spécification peut-elle être modifiée en cours de projet ?</p><p class="dict-faq-a">Oui, mais toute modification doit être concertée et documentée pour éviter les dérives de périmètre non maîtrisées.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Qu'appelle-t-on le Spec-driven Development ?</p><p class="dict-faq-a">Une approche d'ingénierie où le contrat d'API et les spécifications sont rédigés avant l'implémentation du code.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Qui rédige les spécifications ?</p><p class="dict-faq-a">Les chefs de produit, architectes logiciels et ingénieurs seniors collaborent pour concilier vision métier et contraintes techniques.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Quelle est la différence entre spécification fonctionnelle et technique ?</p><p class="dict-faq-a">La fonctionnelle décrit les interactions utilisateur, tandis que la technique détaille les flux de données, bases de données et protocoles.</p></div></div></section>
+<section class="disc-sec"><h2>Termes liés</h2><div class="dict-related"><a href="/fr/dictionary/spec-driven-development/">Spec-driven Development</a><a href="/fr/dictionary/schema/">Schema</a><a href="/fr/dictionary/api/">API</a></div></section>
 <aside class="disc-cta"><p><strong>Explorez les outils associés et les rapports quotidiens.</strong> Suivez les nouveaux termes et outils technologiques chaque matin dans votre boîte de réception.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-fr" data-page-type="dictionary" data-content-slug="specification" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Votre adresse e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Accès anticipé</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>J'ai lu <a href="/fr/privacy.html" target="_blank" rel="noopener">la notice de confidentialité</a> et je consens au traitement de mon adresse e-mail à cette fin.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/fr/dictionary/">Tous les termes →</a></aside>
-<p class="disc-disclaimer">Cette explication a été rédigée en langage clair pour TreScout puis <strong>traduite automatiquement</strong> depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/specification/">Lire en turc →</a></p>
+<p class="disc-disclaimer">Cette explication a été rédigée en langage clair pour TreScout puis <strong>traduite automatiquement</strong> depuis l'original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/specification/">Lire en turc →</a></p>
 </article>
 </main>
 <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">TreScout analyse, résume et livre. Vous n'avez qu'à lire.</p></div><div class="footer-col"><div class="footer-col-title">Produit</div><ul><li><a href="/fr/discover/">Découvrir</a></li><li><a href="/fr/dictionary/">Glossaire</a></li><li><a href="/fr/reports/">Archive des rapports</a></li><li><a href="/fr/compare/rss-vs-ai/">Comparer</a></li><li><a href="/fr/#top">Accès anticipé</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Contact</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/fr/privacy.html" target="_blank" rel="noopener">Notice de confidentialité</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Réseaux</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Tous droits réservés.</span></div></div></footer>

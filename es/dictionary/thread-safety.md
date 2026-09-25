@@ -1,27 +1,51 @@
-# ¿Qué es Thread-safety?
+# ¿Qué es Thread Safety?
 
-Una característica de seguridad de un programa que evita que los datos se dañen al realizar múltiples operaciones al mismo tiempo.
+> Inglés: Thread Safety · Etimología: inglés antiguo thraed (hilo) + latín salvus (intacto/seguro)
 
-## Definición
-Las computadoras hacen muchas cosas a la vez. Si dos procesos diferentes intentan cambiar los mismos datos al mismo tiempo, se producirá el caos. Esta característica permite que los procesos se esperen unos a otros o se ejecuten secuencialmente.
+**Categoría:** Dev  
+**Última actualización:** 2026-09-22
 
-## Cómo funciona
-Las reglas de acceso a los datos se determinan mientras se escribe el programa. Mientras que un proceso utiliza los datos, los demás parecen tener un estado "bloqueado".
+Thread safety (seguridad de hilos) es la garantía de que una función, módulo o estructura de datos opera sin errores ni corrupción de memoria cuando es ejecutada concurrentemente por múltiples hilos de procesamiento.
 
-## Dónde se usa
-Es obligatorio para aplicaciones bancarias, servidores web y todo el software multitarea.
+## Definición y etimología
+El concepto une thread (hilo de ejecución en el procesador) con safety (coherencia de datos). No tiene que ver con ataques informáticos, sino con la sincronización interna: cuando dos tareas modifican la misma variable a la vez sin coordinación, los datos intermedios se corrompen.
+
+## Contexto cotidiano e uso práctico
+Campos habituales de aplicación :
+- **Sistemas Financieros:** Evitar que dos pagos simultáneos dejen una cuenta bancaria con saldo negativo incoherente.- **Plataformas de Entradas:** Asegurar que una butaca de teatro no pueda asignarse a dos compradores a la vez.- **Servidores de Backend:** Servir cientos de peticiones por segundo compartiendo variables globales en memoria.
+
+## Profundidad técnica y arquitectura
+Técnicas principales para lograr thread safety :
+- **Cerrojos (Mutex / Locks):** Permiten que únicamente un hilo acceda a la sección crítica en cada instante.- **Operaciones Atómicas:** Instrucciones de hardware directas que impiden interrupciones a mitad de una modificación.- **Estructuras Inmutables:** Datos de solo lectura accesibles por múltiples hilos de forma paralela sin bloqueos.- **Modelo de Propiedad de Rust:** El compilador analiza las referencias en memoria e impide condiciones de carrera antes de la ejecución.
 
 ## Suele confundirse con
-No se trata sólo de seguridad (piratería), sino de coherencia de los datos.
+Se confunde a menudo con la ciberseguridad. Thread safety no protege contra malware o intrusiones de red; previene fallos lógicos debidos a accesos concurrentes no sincronizados en la memoria.
+
+## Perspectivas interdisciplinares
+Situaciones paralelas en la vida real :
+- **Circulación:** Un puente estrecho de un solo carril regulado por semáforos temporizados.- **Taller:** Dos mecánicos que se turnan ordenadamente para usar la única herramienta disponible.- **Mostrador:** Un único empleado que atiende a los clientes uno por uno mediante turno asignado.
+
+## Por analogía
+Es como poner un cerrojo en el cuarto de baño compartido de una vivienda: mientras una persona está dentro, las demás esperan en el pasillo hasta que termine.
 
 ## Preguntas frecuentes
-**¿Qué sucede si no es seguro para subprocesos?**
-Sus datos se estropean, las aplicaciones fallan o se producen errores de cálculo.
 
+**¿Qué ocurre si un sistema carece de thread safety?**  
+Se producen condiciones de carrera que corrompen variables en memoria de forma aleatoria e impredecible.
+
+**¿El uso intensivo de cerrojos siempre es la mejor solución?**  
+No, porque los cerrojos excesivos reducen el rendimiento e introducen riesgos de bloqueo mutuo (deadlock).
+
+**¿Cómo ayuda Rust a escribir código seguro entre hilos?**  
+A través de su sistema de ownership y borrowing, que garantiza en tiempo de compilación que no existan mutaciones compartidas.
+
+**¿Por qué las estructuras inmutables son thread-safe por naturaleza?**  
+Porque al no poder modificarse una vez creadas, múltiples hilos pueden leer sus datos simultáneamente sin interferirse.
 
 ## Términos relacionados
 - [Concurrency](/es/dictionary/concurrency/)
 - [System Programming Language](/es/dictionary/system-programming-language/)
+- [Mutex](/es/dictionary/mutex/)
 
 ---
-Fuente: TreScout Glosario · https://trescout.com/es/dictionary/thread-safety/
+Fuente: Diccionario Tecnológico TreScout · https://trescout.com/es/dictionary/thread-safety/

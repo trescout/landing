@@ -1,30 +1,51 @@
-# What is Specification?
+# What is a Specification?
 
-It is a detailed technical document that specifies what a project, software or product should do and what rules it must follow.
+> English: Specification · Etymology: Latin species (appearance/type) + facere (to make)
 
-## Overview
-Specification ('spec' for short) is like the architectural project of a building. Software developers understand what they will build by looking at this document before they start writing code. It is used to reduce errors and clarify expectations.
+**Category:** Dev  
+**Last updated:** 2026-09-22
 
-*Analogy: It's like the ingredient list and cooking steps in a recipe; If you don't follow the recipe, the food will taste different.*
+A specification (commonly abbreviated as spec) is a formal technical document that defines the explicit requirements, behavior, interfaces, constraints, and acceptance criteria of a software system or hardware product.
 
-## How it works
-It is written by project owners or engineers. It includes features, security rules and performance expectations.
+## Definition and Etymology
+A specification serves as the architectural blueprint of a software project. Before engineers begin writing code, the spec establishes an unambiguous definition of what is being constructed. It minimizes misinterpretations, clarifies non-functional boundaries, and serves as the baseline for testing. In API engineering, standards like OpenAPI function as rigorous specifications.
 
-## Where it is used
-It is used in software development processes, tender files and product design stages.
+## Everyday Context and Practical Usage
+Common applications across engineering workflows:
+- **Software Development:** Product requirements documents (PRDs), API schema contracts, and protocol definitions.- **Hardware & Procurement:** Technical datasheets outlining electrical, mechanical, and thermal tolerances.- **Standards Organizations:** RFCs and ISO/W3C specifications defining interoperability across global networks.
 
-## Commonly confused with
-Similar to requirement; requirement focuses on 'what do we want', while specification focuses on 'how will we do it'.
+## Technical Depth and Architecture
+Essential structural components of a robust specification:
+- **Scope:** Explicit boundary definitions outlining included features and out-of-scope items.- **Acceptance Criteria:** Unambiguous conditions required to sign off on completion.- **Data Models & Interfaces:** Field types, validation rules, error response codes, and rate limits.- **Non-Functional Requirements:** Latency thresholds, throughput goals, and security standards.
 
-## Frequently asked questions
-**Can the spec change?**
-Yes, it can be updated according to needs as the project progresses, but this often affects the cost.
+## Commonly Confused With
+It is frequently confused with a requirement. A requirement states what business need or user outcome is desired; a specification details how that requirement is technically realized and verified. The requirement is the goal, the specification is the actionable blueprint.
 
+## Cross-Disciplinary Perspectives
+Parallels in other technical disciplines:
+- **Culinary Arts:** A precise recipe listing gram-accurate ingredients and sequential cooking steps.- **Construction:** Structural architectural drawings defining load-bearing pillars and plumbing layouts.- **Manufacturing:** Assembly guides specifying part numbers, torque tolerances, and sequence diagrams.
+
+## Analogy
+It is like the detailed ingredient list and preparation steps in a pastry recipe; if you alter the quantities or temperature, the resulting cake will fail.
+
+## Frequently Asked Questions
+
+**Can a technical specification evolve during a project?**  
+Yes, but revisions should follow deliberate change management rather than ad-hoc scope creep, keeping all stakeholders aligned.
+
+**What is Spec-driven Development (SDD)?**  
+A methodology where specifications, API contracts, and schema definitions are authored and reviewed prior to writing production code.
+
+**Who is responsible for writing specifications?**  
+Product managers, systems architects, and lead engineers collaborate to balance customer needs with technical feasibility.
+
+**What distinguishes functional from non-functional specifications?**  
+Functional specs define system behavior and inputs/outputs, while non-functional specs define performance, scalability, and security limits.
 
 ## Related terms
 - [Spec-driven Development](/en/dictionary/spec-driven-development/)
-- [Framework](/en/dictionary/framework/)
-- [Tech Stack](/en/dictionary/tech-stack/)
+- [Schema](/en/dictionary/schema/)
+- [API](/en/dictionary/api/)
 
 ---
-Source: TreScout Dictionary · https://trescout.com/en/dictionary/specification/
+Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/specification/

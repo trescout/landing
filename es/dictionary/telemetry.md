@@ -1,28 +1,51 @@
-# ¿Qué es Telemetry?
+# ¿Qué es la Telemetría (Telemetry)?
 
-Datos técnicos recopilados automáticamente del sistema sobre el uso y los errores de un software.
+> Inglés: Telemetry · Etimología: griego tele (lejos, a distancia) + metron (medida)
 
-## Definición
-Son informes que las aplicaciones envían a los desarrolladores sobre cómo funciona el software. Gracias a estos datos, los desarrolladores pueden entender qué función se utiliza más o dónde se bloquea la aplicación. Para los usuarios, suele ser un flujo de datos que ocurre silenciosamente en segundo plano.
+**Categoría:** Dev  
+**Última actualización:** 2026-09-22
 
-## Cómo funciona
-Pequeños fragmentos de código integrados en el software transmiten esta información a un servidor seguro cuando ocurren eventos específicos.
+La telemetría (telemetry) es el proceso automatizado de medir, recopilar y transmitir datos de estado, registros, métricas y trazas diagnósticas desde aplicaciones remotas hacia consolas centrales de supervisión.
 
-## Dónde se usa
-Se utiliza para la depuración de software, la mejora de la experiencia del usuario y el seguimiento del rendimiento.
+## Definición y etimología
+El término procede del griego tele (distante) y metron (medida). En la ingeniería de software actual, la telemetría proporciona visibilidad en tiempo real sobre el funcionamiento de las aplicaciones: qué apartados son los más usados, dónde se producen caídas y qué llamadas presentan latencias anómalas.
+
+## Contexto cotidiano e uso práctico
+Casos frecuentes de uso de la telemetría :
+- **Diagnóstico de Errores:** Registro y envío de informes de fallo detallados tras una excepción no controlada.- **Métricas de Uso:** Análisis agregado del comportamiento de los usuarios para mejorar la interfaz.- **Salud de Infraestructura:** Control de consumo de memoria, disco y red en clústeres de servidores.
+
+## Profundidad técnica y arquitectura
+Los tres pilares de la observabilidad moderna :
+- **Logs:** Mensajes con sello de tiempo que certifican que un hecho concreto ha tenido lugar.- **Métricas:** Agrupaciones numéricas que permiten calcular porcentajes de error y cargas de trabajo.- **Trazas (Traces):** Reconstrucción del recorrido de una petición entre distintos microservicios.- **OpenTelemetry:** Estándar libre promovido para unificar la captura de datos sin ataduras a proveedores.
 
 ## Suele confundirse con
-registrando
+A menudo se confunde con la generación de logs. Un log es una línea de evento aislada; la telemetría abarca el conjunto estructurado de métricas numéricas, trazas distribuidas y logs centralizados.
+
+## Perspectivas interdisciplinares
+Modelos similares en otras actividades :
+- **Medicina:** El monitor de constantes vitales que envía pulsaciones y oxígeno a la sala de enfermería.- **Aviación:** Los sistemas de abordo que emiten telemetría de turbinas a los equipos de pista.- **Competición:** Los coches de carreras que transmiten miles de telemetrías por segundo al muro de boxes.
+
+## Por analogía
+Es como el conjunto de indicadores y sensores de un coche que avisan de la temperatura del refrigerante y la presión del aceite en el salpicadero del conductor.
 
 ## Preguntas frecuentes
-**¿Afecta a mi privacidad?**
-Por lo general, se recopilan datos anónimos, pero puede verificar qué datos se envían en la sección de configuración.
 
+**¿Afecta la telemetría a la privacidad personal?**  
+Las buenas prácticas exigen disociar cualquier dato personal (PII) antes de transmitir la información y dar opción de desactivarla.
+
+**¿En qué se diferencian telemetría y monitorización?**  
+La telemetria es el vehículo técnico que recoge y traslada los datos; la monitorización interpreta esos datos y alerta de incidentes.
+
+**¿Por qué OpenTelemetry es tan relevante?**  
+Porque consolida métricas, trazas y registros bajo un protocolo libre, evitando quedar sujeto a soluciones de pago cerradas.
+
+**¿Qué ocurre si se interrumpe la conexión de red?**  
+Los agentes de telemetría almacenan los datos localmente en un búfer y los retransmiten cuando el enlace vuelve a estar operativo.
 
 ## Términos relacionados
 - [Logs](/es/dictionary/logs/)
 - [Observability](/es/dictionary/observability/)
-- [Traces](/es/dictionary/traces/)
+- [Metrics](/es/dictionary/metrics/)
 
 ---
-Fuente: TreScout Glosario · https://trescout.com/es/dictionary/telemetry/
+Fuente: Diccionario Tecnológico TreScout · https://trescout.com/es/dictionary/telemetry/
