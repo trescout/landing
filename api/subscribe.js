@@ -222,8 +222,26 @@ function dilSec(req) {
   }
 }
 
+function inferSourceFromPath(path, lang) {
+  if (!path) return 'unknown';
+  if (path === '/' || path === `/${lang}/` || path === `/${lang}`) {
+    return lang && lang !== 'tr' ? `home-${lang}` : 'home';
+  }
+  if (path.includes('/dictionary/')) {
+    return lang && lang !== 'tr' ? `dictionary-${lang}` : 'dictionary';
+  }
+  if (path.includes('/discover/')) {
+    return lang && lang !== 'tr' ? `discover-${lang}` : 'discover';
+  }
+  if (path.includes('/reports/')) {
+    return lang && lang !== 'tr' ? `report-detail-${lang}` : 'report-detail';
+  }
+  return 'unknown';
+}
+
 export default async function handler(req) {
-  const M = MESAJ[dilSec(req)];
+  const lang = dilSec(req);
+  const M = MESAJ[lang];
 
   if (req.method !== 'POST') {
     return errorResponse(M, 'method', 405);
@@ -279,10 +297,26 @@ export default async function handler(req) {
   }
 
   const email = (body.email || '').toString().trim().toLowerCase();
-  const source = (body.source || 'unknown').toString().slice(0, 32);
+
   // Kayıt hangi sayfadan geldi · data-source sayfa TİPİNİ veriyor (ör. tüm
   // 488 İngilizce sözlük sayfası 'dictionary-en'), path tek girdiyi veriyor.
-  const path = (body.path || '').toString().slice(0, 120).replace(/[^\w\-/.]/g, '');
+  // JS engellendiğinde veya yerel form gönderiminde Referer başlığından yedeklenir.
+  let path = (body.path || '').toString().slice(0, 120).replace(/[^\w\-/.]/g, '');
+  const referer = req.headers.get('referer') || '';
+  if (!path && referer) {
+    try {
+      const refUrl = new URL(referer);
+      path = refUrl.pathname.slice(0, 120).replace(/[^\w\-/.]/g, '');
+    } catch {
+      // ignore
+    }
+  }
+
+  let source = (body.source || '').toString().trim().slice(0, 32);
+  if (!source || source === 'unknown') {
+    source = inferSourceFromPath(path, lang);
+  }
+
   const consent = body.consent === true || body.consent === 'true' || body.consent === 'on';
 
   if (!consent) {

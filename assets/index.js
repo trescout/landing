@@ -173,6 +173,7 @@
               body: JSON.stringify({
                 email: email,
                 source: form.dataset.source || 'unknown',
+                path: location.pathname,
                 pageType: pageType,
                 contentSlug: contentSlug,
                 placement: placement,
