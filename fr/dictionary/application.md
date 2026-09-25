@@ -1,31 +1,57 @@
-# Qu'est-ce que Application ?
+# Qu'est-ce qu'une Application ?
 
-Il s'agit d'un logiciel conçu pour effectuer une tâche spécifique sur des appareils tels que des ordinateurs, des téléphones ou des tablettes.
+> Logiciel d'application
 
-## Définition
-Les applications sont des outils numériques qui facilitent le travail quotidien des utilisateurs. De la saisie d'un texte à la modification d'une photo ou à la navigation sur le Web, tout se passe via une application. Ces logiciels fonctionnent sur le système d'exploitation et fournissent une interface visuelle à l'utilisateur.
+**Catégorie:** Dev  
+**Dernière mise à jour:** 2026-09-22
 
-## Comment ça marche
-L'utilisateur exécute le fichier téléchargé depuis les magasins d'applications ou sur Internet. L'application traite les commandes de l'utilisateur en utilisant les ressources de l'appareil et affiche les résultats à l'écran.
+Une application (communément appelée appli) est un logiciel orienté utilisateur conçu pour accomplir des tâches spécifiques, s'exécutant au-dessus du système d'exploitation.
 
-## Où est-ce utilisé
-Il apparaît en permanence sur les smartphones, les ordinateurs de bureau et les navigateurs Web.
+## Définition et étymologie
+Du traitement de texte à la retouche photo, chaque tâche numérique s'effectue au travers d'une application. Elle repose sur le système d'exploitation et fournit une interface graphique ou en ligne de commande. La métaphore du logement est parlante : le système d'exploitation est la maison, les applications sont les meubles qui la rendent fonctionnelle.
+
+## Usage quotidien et contexte pratique
+- **Smartphones :** Applications bancaires, messageries instantanées et réseaux sociaux.
+- **Postes de travail :** Environnements de développement (IDE), suites bureautiques et outils de CAO.
+- **Navigateurs web :** Applications web modernes (SaaS) accessibles sans installation locale.
+
+## Profondeur technique et architecture
+Couches architecturales fondamentales :- **Couche présentation :** Interface utilisateur graphique (GUI) ou console (CLI) gérant les interactions.
+- **Logique métier :** Règles opérationnelles, calculs et gestion des états fonctionnels.
+- **Couche d'accès aux données :** Persistance et requêtes auprès des bases de données locales ou distantes.
+
+Les applications peuvent être compilées nativement pour un noyau système (Linux, Windows, macOS) ou exécutées dans des moteurs virtuels (V8, JVM).
 
 ## Souvent confondu avec
-Il peut être confondu avec le système d'exploitation ; Alors que le système d'exploitation gère l'ensemble du périphérique, l'application n'effectue qu'un travail spécifique.
+Souvent confondue avec le système d'exploitation ou les pilotes. Le système gère le matériel et alloue les ressources ; les applications exploitent ces ressources pour accomplir des tâches utiles aux utilisateurs.
+
+## Perspectives interdisciplinaires
+- **Architecture :** Fondations et canalisations d'un immeuble vs aménagement intérieur.
+- **Transport :** Réseau autoroutier vs véhicules individuels et commerciaux.
+- **Électricité :** Réseau électrique vs appareils électroménagers branchés sur les prises.
+
+## Par analogie
+Le système d'exploitation est comme une maison pourvue d'eau et d'électricité ; les applications sont les appareils et meubles qui permettent d'y vivre et de travailler.
 
 ## Questions fréquentes
-**Les applications et les logiciels sont-ils la même chose ?**
-Une application est un sous-ensemble de logiciels. Chaque application est un logiciel, mais tous les logiciels ne sont pas une application (par exemple, les pilotes sont des logiciels mais pas des applications).
 
-**Comment mettre à jour les applications ?**
-Les développeurs mettent à jour les fichiers d'application pour corriger des bugs ou ajouter de nouvelles fonctionnalités, qui sont téléchargées automatiquement ou manuellement sur votre appareil.
+**Quelle est la différence entre logiciel système et logiciel d'application ?**  
+Le logiciel système pilote le matériel et l'environnement d'exécution ; l'application propose des fonctionnalités concrètes directement exploitables par l'utilisateur final.
 
+**Qu'est-ce qui distingue une application native d'une application web ?**  
+L'application native est compilée pour le processeur et l'OS hôte avec des performances maximales ; l'application web s'exécute dans un navigateur sur n'importe quel terminal.
+
+**Une application peut-elle fonctionner sans OS ?**  
+Uniquement sur des systèmes embarqués nus (bare-metal) ou des unikernels ; les applications conventionnelles requièrent impérativement les appels système de l'OS.
+
+**Comment une application conserve-t-elle ses données ?**  
+Elle persiste ses états via des fichiers locaux, des bases SQLite ou des bases distantes accessibles par des API REST et gRPC.
 
 ## Termes liés
-- [User Interface](/fr/dictionary/user-interface/)
-- [GUI](/fr/dictionary/gui/)
 - [Runtime](/fr/dictionary/runtime/)
+- [Architecture logicielle](/fr/dictionary/software-architecture/)
+- [Système d'exploitation](/fr/dictionary/operating-system/)
+- [Application Web](/fr/dictionary/web-app/)
 
 ---
-Source : TreScout Glossaire · https://trescout.com/fr/dictionary/application/
+Source : Dictionnaire technique TreScout · https://trescout.com/fr/dictionary/application/

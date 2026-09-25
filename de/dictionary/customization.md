@@ -1,28 +1,57 @@
 # Was ist Customization?
 
-Dabei handelt es sich um die Umgestaltung einer Software oder eines Systems entsprechend den spezifischen Vorlieben und Bedürfnissen des Benutzers.
+> Software-Anpassung / Customizing
 
-## Definition
-Unter Individualisierung versteht man den Prozess, bei dem ein fertiges Produkt an Ihre eigene Arbeitsweise angepasst wird. Dies kann von der Änderung der Schnittstellenfarben bis zur Festlegung der Betriebsregeln des Systems reichen. Das Ziel besteht darin, dass sich die Software an Sie anpasst, nicht Sie an die Software.
+**Kategorie:** Dev  
+**Letzte Aktualisierung:** 2026-09-22
 
-## So funktioniert es
-Die Implementierung erfolgt durch Auswahl Ihrer Präferenzen aus dem Einstellungsmenü oder durch geringfügige Änderungen am Code, die von der Software zugelassen werden.
+Customization (im Deutschen als Anpassung oder Customizing bezeichnet) beschreibt das gezielte Modifizieren von Software, Oberflächen und Prozessen an individuelle Anforderungen.
 
-## Wo es eingesetzt wird
-Sie begegnen ihm in jedem Bereich, von den PC-Einstellungen bis hin zu den Arbeitsabläufen komplexer Unternehmenssoftware.
+## Definition und Wortherkunft
+Customizing bedeutet, ein Standardprodukt auf spezifische Nutzerwünsche zuzuschneiden. Dies reicht von optischen Anpassungen über anwendungsspezifische Workflows bis hin zu maßgeschneiderten Schnittstellenanbindungen. Das Ziel: Die Software dient dem Menschen, nicht umgekehrt.
+
+## Alltägliche Anwendung und Praxis
+- **Benutzeroberflächen:** Workspace-Aufteilung, Themes, Schnellzugriffe und Tastatur-Shortcuts.
+- **Unternehmenssysteme:** Benutzerdefinierte Datenbankfelder, Freigabeprozesse und Masken in ERP/CRM-Systemen.
+- **Entwicklertools:** Installation spezifischer Erweiterungen und Formatierungsregeln im Code-Editor.
+
+## Technische Tiefe und Architektur
+Architektonische Umsetzungsmethoden:- **Deklarative Konfiguration:** JSON- oder YAML-basierte Regelwerke ohne Eingriff in den Programmiercode.
+- **Plugin- und Hook-Architektur:** Saubere Schnittstellen für Erweiterungsmodule in isolierten Umgebungen.
+- **Skriptbasierte Erweiterung:** Ausführung benutzerdefinierter Skripte über Webhooks und Ereignis-Trigger.
+
+Professionelle IT-Architekturen entkoppeln Anpassungen über Schnittstellen (APIs), um problemlose Software-Updates des Kernsystems zu ermöglichen.
 
 ## Häufig verwechselt mit
-Es ähnelt der Personalisierung, bezieht sich jedoch im Allgemeinen auf einen eher technischen Konfigurationsprozess.
+Wird häufig mit einfachen Grundeinstellungen verwechselt. Einen Benachrichtigungston auszuwählen ist Standardkonfiguration; Customizing verändert logische Abläufe und Arbeitsweisen.
+
+## Interdisziplinäre Perspektiven
+- **Maßschneiderei:** Einen Anzug von der Stange millimetergenau an den Körper anpassen lassen.
+- **Motorsport:** Fahrwerk und Schaltung individuell auf Fahrstil und Rennstrecke abstimmen.
+- **Arbeitsplatz:** Schreibtisch und Monitore ergonomisch auf Körpergröße und Haltung einstellen.
+
+## Als Analogie
+Vergleichbar mit dem Kauf eines Markenanzugs von der Stange, den ein Schneidermeister an Ärmeln und Taille nachbessert, damit er wie maßgeschneidert sitzt.
 
 ## Häufige Fragen
-**Kann jede Software individuell angepasst werden?**
-Nein, manche Software ist wie eine geschlossene Box und bietet dem Benutzer keine Einstellungsmöglichkeiten.
 
+**Was ist der Unterschied zwischen Konfiguration und Customizing?**  
+Konfigurieren bedeutet das Ein- oder Ausschalten vorhandener Optionen; Customizing erschafft neue, maßgeschneiderte Logiken und Eingabemasken.
+
+**Erhöht starkes Customizing die Wartungskosten?**  
+Ja. Stark individualisierte Systeme erfordern bei System-Updates erhöhten Testaufwand, weshalb standardisierte Schnittstellen unverzichtbar sind.
+
+**Wie wird die Stabilität gesichert?**  
+Indem Anpassungen über isolierte Plugin-Laufzeiten und abwärtskompatible Programmierschnittstellen angebunden werden.
+
+**Wann sollte man auf Standardabläufe setzen?**  
+Wenn die Bordmittel des Systems die Kernanforderungen abdecken, um unnötige Entwicklungs- und Pflegekosten zu vermeiden.
 
 ## Verwandte Begriffe
-- [Plugins](/de/dictionary/plugin/)
-- [Framework](/de/dictionary/framework/)
-- [User Experience](/de/dictionary/user-experience/)
+- [Erweiterbarkeit](/de/dictionary/extensibility/)
+- [Plugin](/de/dictionary/plugin/)
+- [Konfiguration](/de/dictionary/configuration/)
+- [Custom Hooks](/de/dictionary/custom-hooks/)
 
 ---
-Quelle: TreScout Glossar · https://trescout.com/de/dictionary/customization/
+Quelle: TreScout Tech-Glossar · https://trescout.com/de/dictionary/customization/

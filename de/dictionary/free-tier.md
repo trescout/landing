@@ -1,26 +1,51 @@
-# Was ist Free Tier?
+# Was ist ein Free Tier?
 
-Es handelt sich um die Einstiegsstufe eines Dienstes, der kostenlos mit eingeschränkten Funktionen angeboten wird.
+> Kostenloses Kontingent / Free Tier
 
-## Definition
-Es handelt sich um ein Testmodell, das Unternehmen anbieten, um Benutzer an das System zu gewöhnen. Dabei handelt es sich in der Regel um ein Paket, bei dem ein bestimmtes Nutzungskontingent oder einige erweiterte Funktionen eingeschränkt sind. Wenn der Bedarf steigt, wechseln Nutzer zu kostenpflichtigen Tarifen.
+**Kategorie:** Dev  
+**Letzte Aktualisierung:** 2026-09-22
 
-## So funktioniert es
-Der Benutzer erstellt ein Konto und das System definiert automatisch kostenlose Limits. Wenn das Limit erreicht ist, warnt Sie das System und fordert ein Upgrade an.
+Ein Free Tier (im Deutschen als kostenlose Tarifstufe bezeichnet) ist ein dauerhaft gebührenfreies, kontingentiertes Nutzungsmodell von Cloud- und SaaS-Anbietern für Entwickler und Evaluierungsphasen.
 
-## Wo es eingesetzt wird
-Es kommt häufig bei Softwarediensten (SaaS), KI-APIs und Cloud-Plattformen vor.
+## Definition und Wortherkunft
+Das Wort Tier beschreibt eine Tarifstufe. Plattformen stellen begrenzte Freikontingente an Rechenzeit, Datenbankvolumen oder API-Aufrufen bereit, damit Entwickler ihre Werkzeuge ohne Einstiegshürde kennenlernen können. Wächst das Vorhaben, wechselt der Nutzer nahtlos in ein kostenpflichtiges Abonnement.
+
+## Alltägliche Anwendung und Praxis
+- **Hobby-Projekte:** Hosting eigener Portfolios und privater Webdienste ohne monatliche Fixkosten.
+- **Prototypenbau:** Ausprobieren neuer KI-Modelle und Cloud-Dienste vor der Budgetfreigabe.
+- **Weiterbildung:** Praktisches Erlernen moderner Programmierwerkzeuge in realen Cloud-Umgebungen.
+
+## Technische Tiefe und Architektur
+Typische Begrenzungskriterien:- **Volumenbasierte Limits:** Maximale Anzahl täglicher oder monatlicher API-Aufrufe.
+- **Funktionsbasierte Grenzen:** Kernfunktionen freigeschaltet, Enterprise-Optionen gesperrt.
+- **Ressourcen-Obergrenzen:** Geteilte CPU-Kerne und limitierter Arbeitsspeicher (z. B. 512 MB RAM).<div class="disc-cmd"><pre><code>Anfragen: 1.000 / Tag
+Speicher: 5 GB
+Support: Community-Forum</code></pre></div>Zahlungsmittelanforderung: Einige Entwicklerplattformen verlangen keine Kreditkarte und drosseln den Dienst beim Erreichen des Limits; andere buchen Überschreitungen automatisch kostenpflichtig ab.
 
 ## Häufig verwechselt mit
-Nicht zu verwechseln mit völlig freier Software; es ist Teil eines Geschäftsmodells.
+Wird häufig mit einer befristeten Testversion (Free Trial) oder Open-Source-Software verwechselt. Eine Testversion läuft nach 14 oder 30 Tagen ab; ein echtes Free Tier bleibt dauerhaft bestehen, solange die Kontingente eingehalten werden.
+
+## Interdisziplinäre Perspektiven
+- **Kostprobe:** Ein kleines Gläschen Espresso zur Verkostung vor dem Bohnenkauf.
+- **Probefahrt:** Eine Runde um den Block drehen, bevor der Kaufvertrag unterschrieben wird.
+- **Stadtbibliothek:** Kostenlose Ausleihe von Büchern bis zum Erreichen der maximalen Leihgrenze.
+
+## Als Analogie
+Wie die kostenlose Probierportion Kaffee in einer Rösterei: Sie testen das Aroma ganz entspannt, ohne dafür das Portemonnaie zücken zu müssen.
 
 ## Häufige Fragen
-**Unbegrenzt?**
-Nein, es gibt normalerweise Einschränkungen basierend auf der Nutzungsmenge oder den Funktionen.
 
-**Wann muss ich eine Gebühr bezahlen?**
-Sie zahlen, wenn Sie Ihr Limit überschreiten oder erweiterte Funktionen benötigen.
+**Ist das Free Tier dauerhaft kostenlos nutzbar?**  
+Ja, sofern Ihr monatlicher Verbrauch und die Speicherbelegung verlässlich innerhalb der festgelegten Freikontingente bleiben.
 
+**Ab wann fallen Gebühren an?**  
+Sobald Sie die definierten Freimengen überschreiten oder gezielt kostenpflichtige Zusatzmodule aktivieren.
+
+**Muss zwingend eine Kreditkarte hinterlegt werden?**  
+Nicht bei allen Anbietern. Viele entwicklerfreundliche Plattformen begnügen sich mit einer E-Mail-Adresse oder einem GitHub-Login.
+
+**Wann ist ein Upgrade in einen Bezahltarif ratsam?**  
+Sobald ein Projekt in die Produktivphase übergeht, garantierte Ausfallsicherheit (SLA) verlangt oder die Nutzungsgrenzen erreicht werden.
 
 ## Verwandte Begriffe
 - [SaaS](/de/dictionary/saas/)
@@ -28,4 +53,4 @@ Sie zahlen, wenn Sie Ihr Limit überschreiten oder erweiterte Funktionen benöti
 - [PaaS](/de/dictionary/paas/)
 
 ---
-Quelle: TreScout Glossar · https://trescout.com/de/dictionary/free-tier/
+Quelle: TreScout Tech-Glossar · https://trescout.com/de/dictionary/free-tier/

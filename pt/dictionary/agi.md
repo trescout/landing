@@ -1,34 +1,57 @@
 # O que é AGI?
 
-> Artificial General Intelligence
+> Inteligência Artificial Geral
 
-É o objetivo da IA exibir inteligência de nível humano ou superior.
+**Categoria:** AI  
+**Última atualização:** 2026-09-22
 
-## Definição
-Inteligência Geral Artificial (AGI) é a capacidade de uma inteligência artificial de realizar qualquer tarefa intelectual tão bem ou melhor que um ser humano. Embora as IAs atuais sejam especializadas em determinadas áreas, o objetivo da AGI é uma inteligência versátil e de autoaprendizagem.
+AGI (Artificial General Intelligence, inteligência artificial geral) é a inteligência artificial hipotética capaz de realizar qualquer tarefa intelectual com capacidade igual ou superior à humana.
 
-## Como funciona
-A AGI adapta-se a novas situações combinando diferentes áreas de especialização. Não funciona com um conjunto específico de comandos, mas com raciocínio geral e habilidades de resolução de problemas.
+## Definição e etimologia
+Enquanto os modelos atuais são especialistas restritos a domínios específicos, a AGI é multifacetada: aprende em áreas inéditas, reformula estratégias e transfere aprendizados entre contextos variados. Representa a fronteira da pesquisa científica em IA.
 
-## Onde é usado
-Ainda não está totalmente disponível, mas é considerado o objetivo final da pesquisa em inteligência artificial.
+## Contexto cotidiano e uso prático
+- **Pesquisa Avançada:** O objetivo principal que orienta investimentos em supercomputação e novos paradigmas.
+- **Governança e Política:** O centro dos debates regulatórios internacionais e diretrizes de segurança.
+- **Educação:** A reformulação dos currículos para priorizar pensamento crítico e supervisão.
+
+## Profundidade técnica e arquitetura
+Distinções Arquiteturais Fundamentais:- **IA Estreita:** Alto desempenho restrito a tarefas pontuais (visão computacional, código, tradução).
+- **IA Geral:** Transferência autônoma de habilidades entre tarefas completamente distintas.
+- **Critério:** Patamar de proficiência autônoma em cenários nunca antes vistos.
+
+O caminho combina grandes modelos de base, ciclos de agentes autônomos e aprendizado por reforço com recompensas verificáveis.
 
 ## Costuma ser confundido com
-Muitas vezes é confundido com os modelos de linguagem avançados de hoje, mas ainda são inteligências estreitas que se especializam apenas em determinadas tarefas.
+Frequentemente confundida com os modelos de linguagem (LLMs). Os LLMs são ferramentas avançadas porém especializadas em predição de texto; a AGI é o objetivo holístico e autônomo. Um é um maratonista veloz, o outro é o conceito universal do atletismo.
+
+## Perspectivas interdisciplinares
+- **Mestre de Xadrez:** Domínio absoluto de um jogo isolado.
+- **Chef de Cozinha:** Sintonia com ingredientes, ferramentas e improviso.
+- **Poeta:** Fluência artística e sensibilidade conceitual.
+
+## Por analogia
+Em vez de um programa de computador que apenas calcula lances de xadrez, imagine uma inteligência capaz de cozinhar pratos complexos e compor poesia com a mesma maestria.
 
 ## Perguntas frequentes
-**Como sabemos quando alcançamos AGI?**
-Estaremos perto disso quando a inteligência artificial puder funcionar a um nível especializado sem assistência humana, mesmo numa área nunca vista antes.
 
-**AGI é perigoso?**
-Esta é uma questão que está no centro das discussões éticas e de segurança, e cuja controlabilidade tem sido muito pensada.
+**Como saberemos que a AGI foi alcançada?**  
+A AGI será confirmada quando um sistema demonstrar maestria e resolução criativa de problemas em áreas inteiramente novas sem intervenção humana.
 
+**A AGI representa um risco existencial?**  
+O alinhamento ético e a auditabilidade de sistemas autônomos são desafios críticos; a pesquisa em segurança de IA deve avançar no mesmo ritmo da capacidade computacional.
+
+**Quando a AGI estará disponível?**  
+Previsões variam de poucos anos a décadas; cronogramas são especulativos, mas os critérios de medição e testes práticos são concretos.
+
+**Ela substituirá empregos humanos?**  
+Haverá uma transformação estrutural. Funções rotineiras serão automatizadas, enquanto a direção estratégica, empatia e validação ética permanecerão indispensáveis.
 
 ## Termos relacionados
 - [World Model](/pt/dictionary/world-model/)
 - [AI Agent](/pt/dictionary/ai-agent/)
 - [Foundation Model](/pt/dictionary/foundation-model/)
-- [Artificial Intelligence](/pt/dictionary/artificial-intelligence/)
+- [Inteligência Artificial](/pt/dictionary/artificial-intelligence/)
 
 ---
-Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/agi/
+Fonte: Dicionário Técnico TreScout · https://trescout.com/pt/dictionary/agi/
