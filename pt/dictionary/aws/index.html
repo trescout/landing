@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>O que é Amazon Web Services? · Glossário · TreScout</title>
-<meta name="description" content="Uma enorme plataforma em nuvem onde você pode alugar serviços de TI como servidores, armazenamento e bancos de dados pela internet.">
+<meta name="description" content="AWS (Amazon Web Services) é a plataforma em nuvem da Amazon que oferece infraestrutura sob demanda de servidores, banco de dados, armazenamento e ferramentas de software pela internet.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/pt/dictionary/aws/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/aws/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/aws/">
 <link rel="alternate" type="text/markdown" href="/pt/dictionary/aws.md">
 <meta property="og:title" content="O que é Amazon Web Services?">
-<meta property="og:description" content="Uma enorme plataforma em nuvem onde você pode alugar serviços de TI como servidores, armazenamento e bancos de dados pela internet.">
+<meta property="og:description" content="AWS (Amazon Web Services) é a plataforma em nuvem da Amazon que oferece infraestrutura sob demanda de servidores, banco de dados, armazenamento e ferramentas de software pela internet.">
 <meta property="og:url" content="https://trescout.com/pt/dictionary/aws/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="pt_BR">
@@ -27,21 +27,61 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="O que é Amazon Web Services?">
-<meta name="twitter:description" content="Uma enorme plataforma em nuvem onde você pode alugar serviços de TI como servidores, armazenamento e bancos de dados pela internet.">
+<meta name="twitter:description" content="AWS (Amazon Web Services) é a plataforma em nuvem da Amazon que oferece infraestrutura sob demanda de servidores, banco de dados, armazenamento e ferramentas de software pela internet.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Amazon Web Services",
-  "description": "Uma enorme plataforma em nuvem onde você pode alugar serviços de TI como servidores, armazenamento e bancos de dados pela internet.",
+  "description": "AWS (Amazon Web Services) é a plataforma em nuvem da Amazon que oferece infraestrutura sob demanda de servidores, banco de dados, armazenamento e ferramentas de software pela internet.",
   "inLanguage": "pt-BR",
   "url": "https://trescout.com/pt/dictionary/aws/",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
-    "name": "TreScout Tech Dictionary",
+    "name": "Dicionário Técnico TreScout",
     "url": "https://trescout.com/pt/dictionary/"
   }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Quais as principais vantagens da AWS?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Escalabilidade elástica sem compra de hardware, implantação global rápida e redução de despesas de capital (CapEx para OpEx)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Existe um plano gratuito para testes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sim. O AWS Free Tier concede acesso sem custo a limites definidos de instâncias EC2, buckets S3 e execuções no Lambda para novos clientes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Onde meus dados ficam fisicamente salvos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Exatamente na Região geográfica que você selecionar ao criar o recurso, respeitando leis locais como a LGPD no Brasil."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Como evitar surpresas na fatura mensal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Criando alertas de orçamento no AWS Budgets, desativando recursos ociosos e definindo limites rígidos de cobrança."
+      }
+    }
+  ]
 }
 </script>
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -55,17 +95,18 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/pt/dictionary/">← Glossário</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-08-27">Última atualização: 27 de agosto de 2026</time></div>
-<h1 class="disc-title">O que é <span class="disc-accent">Amazon Web Services</span>?</h1>
+<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-09-22">Última atualização: 22 de setembro de 2026</time></div>
+<h1 class="disc-title">O que é <span class="disc-accent">AWS</span>?</h1>
 <p class="dict-en">Amazon Web Services</p>
-<p class="disc-lead">Uma enorme plataforma em nuvem onde você pode alugar serviços de TI como servidores, armazenamento e bancos de dados pela internet.</p>
-<section class="disc-sec"><h2>Definição</h2><p>Em vez de instalar seus próprios servidores físicos, ele permite que você use os enormes data centers da Amazon em todo o mundo, alugando-os pela Internet. Você pode aumentar a capacidade quando precisar e reduzi-la quando terminar.</p></section>
-<div class="dict-analogy"><strong>Analogia:</strong> É como comprar eletricidade da rede em vez de construir a sua própria central elétrica; Você só paga pelo que usa.</div>
-<section class="disc-sec"><h2>Como funciona</h2><p>Você o usa criando máquinas virtuais e bancos de dados por meio da interface da web ou de ferramentas de software.</p></section>
-<section class="disc-sec"><h2>Onde é usado</h2><p>Ele é usado em segundo plano em quase todos os sites e aplicativos modernos.</p></section>
-<section class="disc-sec"><h2>Costuma ser confundido com</h2><p>Não é apenas um serviço de hospedagem de sites; É um serviço de infraestrutura muito mais abrangente.</p></section>
-<section class="disc-sec"><h2>Perguntas frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Por que devo usar AWS?</p><p class="dict-faq-a">Ter instantaneamente uma infraestrutura de nível profissional sem lidar com custos de hardware.</p></div></div></section>
-<section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/cloud-computing/">Cloud Computing</a><a href="/pt/dictionary/iaas/">IaaS</a><a href="/pt/dictionary/paas/">PaaS</a></div></section>
+<p class="disc-lead">AWS (<strong>Amazon Web Services</strong>) é a plataforma em nuvem da Amazon que oferece infraestrutura sob demanda de servidores, banco de dados, armazenamento e ferramentas de software pela internet.</p>
+<section class="disc-sec"><h2>Definição e etimologia</h2><p>Em vez de adquirir servidores físicos dispendiosos para manter em data centers locais, empresas alugam capacidade elástica dos centros de processamento da Amazon. A infraestrutura cresce em picos de demanda e diminui quando a atividade cai, operando no modelo de pagamento pelo que for consumido.</p></section>
+<section class="disc-sec"><h2>Contexto cotidiano e uso prático</h2><p><strong>Aplicações Web:</strong> Servidores que escalam dinamicamente durante campanhas promocionais.<br><strong>Backup e Conformidade:</strong> Armazenamento seguro de longo prazo para dados corporativos críticos.<br><strong>Distribuição de Vídeo:</strong> Pontos de presença globais que entregam streaming com latência mínima.<br><strong>Startups:</strong> Operações globais viabilizadas sem necessidade de investimento em hardware prévio.</p></section>
+<section class="disc-sec"><h2>Profundidade técnica e arquitetura</h2><p>Principais Serviços Estruturais :</p><p><strong>EC2:</strong> Máquinas virtuais com capacidades customizadas de CPU e memória RAM.<br><strong>S3:</strong> Armazenamento de objetos com altíssima durabilidade e redundância de dados.<br><strong>RDS:</strong> Gerenciamento automatizado de bancos relacionais como PostgreSQL e MySQL.<br><strong>Lambda:</strong> Computação serverless executada estritamente quando há demanda de eventos.</p><p>Organiza-se em Regiões e Zonas de Disponibilidade (AZs). O Modelo de Responsabilidade Compartilhada determina que a AWS protege a infraestrutura física, cabendo ao cliente configurar a segurança de seus sistemas e dados.</p><div class="disc-cmd"><div class="disc-cmd-head"><span>Listar instâncias ativas via AWS CLI</span></div><pre><code>aws ec2 describe-instances --query "Reservations[].Instances[].State.Name"</code></pre></div></section>
+<section class="disc-sec"><h2>Costuma ser confundido com</h2><p>Costuma ser confundida com hospedagem de sites tradicional. Uma hospedagem comum apenas serve páginas simples; a AWS é um ecossistema com centenas de serviços integrados de inteligência artificial, mensageria e redes privadas.</p></section>
+<section class="disc-sec"><h2>Perspectivas interdisciplinares</h2><p><strong>Rede de Energia:</strong> Usar a tomada elétrica pública em vez de gerenciar um gerador a diesel próprio.<br><strong>Self Storage:</strong> Alugar compartimentos conforme a quantidade de caixas aumenta.<br><strong>Transporte por App:</strong> Pagar apenas pelo trajeto percorrido sem assumir custos de um veículo próprio.</p></section>
+<div class="dict-analogy">É como puxar energia da rede elétrica da cidade em vez de montar sua própria usina no quintal: você usa o quanto precisa e paga apenas pelo consumo apurado.</div>
+<section class="disc-sec"><h2>Perguntas frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Quais as principais vantagens da AWS?</p><p class="dict-faq-a">Escalabilidade elástica sem compra de hardware, implantação global rápida e redução de despesas de capital (CapEx para OpEx).</p></div><div class="dict-faq-item"><p class="dict-faq-q">Existe um plano gratuito para testes?</p><p class="dict-faq-a">Sim. O AWS Free Tier concede acesso sem custo a limites definidos de instâncias EC2, buckets S3 e execuções no Lambda para novos clientes.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Onde meus dados ficam fisicamente salvos?</p><p class="dict-faq-a">Exatamente na Região geográfica que você selecionar ao criar o recurso, respeitando leis locais como a LGPD no Brasil.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Como evitar surpresas na fatura mensal?</p><p class="dict-faq-a">Criando alertas de orçamento no AWS Budgets, desativando recursos ociosos e definindo limites rígidos de cobrança.</p></div></div></section>
+<section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/cloud-computing/">Computação em Nuvem</a><a href="/pt/dictionary/iaas/">IaaS</a><a href="/pt/dictionary/paas/">PaaS</a></div></section>
 <aside class="disc-cta"><p><strong>Explore ferramentas relacionadas e relatórios diários.</strong> Novos termos e ferramentas surgem todos os dias · junte-se ao acesso antecipado da TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-pt" data-page-type="dictionary" data-content-slug="aws" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Seu e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Acesso antecipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Li o <a href="/pt/privacy.html" target="_blank" rel="noopener">aviso de privacidade</a> e concordo com o tratamento do meu e-mail para esta finalidade.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/pt/dictionary/">Todos os termos →</a></aside>
 <p class="disc-disclaimer">Esta explicação foi escrita em linguagem simples para a TreScout e <strong>traduzida automaticamente</strong> do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/aws/">Ler em turco →</a></p>
 </article>

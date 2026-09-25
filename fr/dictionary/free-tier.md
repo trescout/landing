@@ -1,26 +1,51 @@
-# Qu'est-ce que Free Tier ?
+# Qu'est-ce qu'un Free Tier ?
 
-C'est le niveau d'entrée d'un service proposé gratuitement avec des fonctionnalités limitées.
+> Niveau Gratuit / Offre Gratuite
 
-## Définition
-Il s'agit d'un modèle d'essai que les entreprises proposent pour habituer les utilisateurs au système. Il s'agit généralement d'un package dans lequel un certain quota d'utilisation ou certaines fonctionnalités avancées sont restreints. Lorsque le besoin augmente, les utilisateurs passent aux forfaits payants.
+**Catégorie:** Dev  
+**Dernière mise à jour:** 2026-09-22
 
-## Comment ça marche
-L'utilisateur crée un compte et le système définit automatiquement des limites gratuites. Lorsque la limite est atteinte, le système vous avertit et demande une mise à niveau.
+Un free tier (ou niveau gratuit) est une formule d'abonnement permanente sans frais, soumise à des quotas d'utilisation, proposée par les fournisseurs de cloud et de SaaS pour permettre de tester et d'héberger des projets.
 
-## Où est-ce utilisé
-C'est courant dans les services logiciels (SaaS), les API d'IA et les plateformes cloud.
+## Définition et étymologie
+Le terme tier désigne un palier de service. Les éditeurs mettent à disposition des quotas gratuits (heures de calcul, requêtes API, stockage) pour familiariser les développeurs avec leurs technologies. Lorsque les besoins grandissent, l'utilisateur bascule naturellement vers des offres payantes.
+
+## Usage quotidien et contexte pratique
+- **Projets personnels :** Hébergement d'un site vitrine ou d'une API d'expérimentation sans abonnement.
+- **Phase d'évaluation :** Test de performances d'une plateforme d'IA avant engagement budgétaire.
+- **Apprentissage :** Découverte des fonctionnalités d'un outil cloud sans carte de crédit.
+
+## Profondeur technique et architecture
+Principaux types de quotas :- **Quota volumétrique :** Plafond de requêtes mensuelles (ex. 10 000 requêtes/mois).
+- **Quota fonctionnel :** Accès aux fonctions de base, les fonctions avancées restant payantes.
+- **Quota temporel ou matériel :** Processeurs partagés et mémoire limitée (ex. 512 Mo de RAM).<div class="disc-cmd"><pre><code>Requêtes : 1 000 / jour
+Stockage : 5 Go
+Support : Communautaire</code></pre></div>Règle de carte bancaire : Certains services bloquent les requêtes en cas de dépassement ; d'autres exigent une carte et facturent automatiquement les excédents.
 
 ## Souvent confondu avec
-À ne pas confondre avec un logiciel entièrement gratuit ; cela fait partie d’un modèle économique.
+Souvent confondu avec un essai gratuit (free trial) ou un logiciel open source. L'essai gratuit s'arrête au bout de 14 ou 30 jours ; le free tier est permanent tant que vous respectez les limites d'utilisation.
+
+## Perspectives interdisciplinaires
+- **Dégustation :** Une dosette offerte pour découvrir un arôme de café.
+- **Essai automobile :** Un tour de piste offert avant de signer un bon de commande.
+- **Médiathèque :** Emprunt gratuit de livres jusqu'à une limite maximale de volumes.
+
+## Par analogie
+Comme une petite tasse de café offerte pour vous faire découvrir le produit avant de vous décider à acheter le paquet entier.
 
 ## Questions fréquentes
-**Illimité?**
-Non, il existe généralement des restrictions basées sur la quantité d'utilisation ou les fonctionnalités.
 
-**Quand dois-je payer des frais ?**
-Vous payez lorsque vous dépassez vos limites ou avez besoin de fonctionnalités plus avancées.
+**Le free tier est-il réellement gratuit à vie ?**  
+Oui, tant que votre consommation mensuelle ne dépasse pas les seuils de quota définis par l'éditeur.
 
+**Quand commence-t-on à payer ?**  
+Dès que vos volumes d'appels API ou d'espace de stockage excèdent les limites gratuites, ou lors de l'activation d'options premium.
+
+**Une carte bancaire est-elle systématiquement exigée ?**  
+Non. De nombreuses plateformes cloud orientées développeurs permettent de créer un compte avec un simple identifiant GitHub.
+
+**Quand faut-il passer à une offre payante ?**  
+Dès que votre trafic atteint 80 % de la limite autorisée ou que vous avez besoin de garanties de disponibilité (SLA).
 
 ## Termes liés
 - [SaaS](/fr/dictionary/saas/)
@@ -28,4 +53,4 @@ Vous payez lorsque vous dépassez vos limites ou avez besoin de fonctionnalités
 - [PaaS](/fr/dictionary/paas/)
 
 ---
-Source : TreScout Glossaire · https://trescout.com/fr/dictionary/free-tier/
+Source : Dictionnaire technique TreScout · https://trescout.com/fr/dictionary/free-tier/
