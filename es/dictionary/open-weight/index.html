@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>¿Qué es Open Weight? · Glosario · TreScout</title>
-<meta name="description" content="Modelos de inteligencia artificial cuya estructura interna y parámetros se han hecho públicos para que los desarrolladores puedan ejecutarlos en sus propio">
+<meta name="description" content="Open weight describe los modelos de inteligencia artificial cuyos pesos y parámetros de entrenamiento se distribuyen de forma descargable, permitiendo su ejecución, cuantización y ajuste fino en hardware privado.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/es/dictionary/open-weight/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/open-weight/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/open-weight/">
 <link rel="alternate" type="text/markdown" href="/es/dictionary/open-weight.md">
 <meta property="og:title" content="¿Qué es Open Weight?">
-<meta property="og:description" content="Modelos de inteligencia artificial cuya estructura interna y parámetros se han hecho públicos para que los desarrolladores puedan ejecutarlos en sus propio">
+<meta property="og:description" content="Open weight describe los modelos de inteligencia artificial cuyos pesos y parámetros de entrenamiento se distribuyen de forma descargable, permitiendo su ejecución, cuantización y ajuste fino en hardware privado.">
 <meta property="og:url" content="https://trescout.com/es/dictionary/open-weight/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="es_ES">
@@ -27,21 +27,61 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="¿Qué es Open Weight?">
-<meta name="twitter:description" content="Modelos de inteligencia artificial cuya estructura interna y parámetros se han hecho públicos para que los desarrolladores puedan ejecutarlos en sus propio">
+<meta name="twitter:description" content="Open weight describe los modelos de inteligencia artificial cuyos pesos y parámetros de entrenamiento se distribuyen de forma descargable, permitiendo su ejecución, cuantización y ajuste fino en hardware privado.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Open Weight",
-  "description": "Modelos de inteligencia artificial cuya estructura interna y parámetros se han hecho públicos para que los desarrolladores puedan ejecutarlos en sus propios dispositivos.",
+  "description": "Open weight describe los modelos de inteligencia artificial cuyos pesos y parámetros de entrenamiento se distribuyen de forma descargable, permitiendo su ejecución, cuantización y ajuste fino en hardware privado.",
   "inLanguage": "es",
   "url": "https://trescout.com/es/dictionary/open-weight/",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
-    "name": "TreScout Tech Dictionary",
+    "name": "Diccionario Tecnológico TreScout",
     "url": "https://trescout.com/es/dictionary/"
   }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "¿Qué libertades ofrece disponer de los pesos abiertos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Permite alojar el modelo en infraestructuras propias, cuantizarlo para dispositivos móviles y personalizarlo con datos privados."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿En qué aventaja a los servicios de API comerciales?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Garantiza soberanía absoluta sobre los datos, coste fijo predecible e inmunidad ante cambios arbitrarios de políticas de terceros."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Qué requisitos de hardware exige un modelo 8B?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Un equipo con 16 GB de memoria unificada o una tarjeta gráfica de 8 a 12 GB de VRAM ejecuta modelos cuantizados a 4 bits con fluidez."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Se pueden comercializar productos basados en open weight?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La inmensa mayoría de familias modernas (Llama, Mistral, Qwen) autorizan el uso comercial explícitamente en sus licencias."
+      }
+    }
+  ]
 }
 </script>
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -55,16 +95,18 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/es/dictionary/">← Glosario</a>
-<div class="disc-top"><span class="disc-eyebrow">Glosario · AI</span><time class="dict-time" datetime="2026-09-08">Última actualización: 8 de septiembre de 2026</time></div>
-<h1 class="disc-title">¿Qué es <span class="disc-accent">Open Weight</span>?</h1>
-<p class="disc-lead">Modelos de inteligencia artificial cuya estructura interna y parámetros se han hecho públicos para que los desarrolladores puedan ejecutarlos en sus propios dispositivos.</p>
-<section class="disc-sec"><h2>Definición</h2><p>Es el acto de compartir con todos los valores numéricos (pesos) que se consideran el &#39;cerebro&#39; de un modelo de inteligencia artificial. Esto le permite ver cómo funciona el modelo e instalarlo y usarlo en su propia computadora. Sin embargo, esto no significa que los datos de entrenamiento del modelo también sean abiertos.</p></section>
-<div class="dict-analogy"><strong>Analogía:</strong> Es como compartir la receta de un plato y sus ingredientes con todos; cualquiera puede cocinar el plato en su propia cocina.</div>
-<section class="disc-sec"><h2>Cómo funciona</h2><p>Los desarrolladores descargan estos pesos para ejecutar el modelo en sus propios servidores o computadoras locales.</p></section>
-<section class="disc-sec"><h2>Dónde se usa</h2><p>Se utiliza en aplicaciones locales de inteligencia artificial, proyectos privados y trabajos de personalización de modelos.</p></section>
-<section class="disc-sec"><h2>Suele confundirse con</h2><p>IA de código abierto</p></section>
-<section class="disc-sec"><h2>Preguntas frecuentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">¿Cuál es la diferencia con el código abierto (Open Source)?</p><p class="dict-faq-a">El código abierto (Open Source) generalmente también incluye los datos de entrenamiento, mientras que el peso abierto (Open Weight) solo comparte la versión final del modelo.</p></div></div></section>
-<section class="disc-sec"><h2>Términos relacionados</h2><div class="dict-related"><a href="/es/dictionary/open-weights/">Open Weights</a><a href="/es/dictionary/llm/">LLM</a><a href="/es/dictionary/slm/">SLM</a></div></section>
+<div class="disc-top"><span class="disc-eyebrow">Glosario · AI</span><time class="dict-time" datetime="2026-09-22">Última actualización: 22 de septiembre de 2026</time></div>
+<h1 class="disc-title">¿Qué es el <span class="disc-accent">Open Weight</span>?</h1>
+<p class="dict-en">Pesos de Modelo Accesibles Públicamente</p>
+<p class="disc-lead">Open weight describe los modelos de inteligencia artificial cuyos pesos y parámetros de entrenamiento se distribuyen de forma descargable, permitiendo su ejecución, cuantización y ajuste fino en hardware privado.</p>
+<section class="disc-sec"><h2>Definición y etimología</h2><p>Frente al monopolio de las API comerciales cerradas que cobran por cada interacción, los modelos open weight entregan la matriz de parámetros matemáticos directamente al usuario. Esto garantiza la privacidad estricta y desbloquea el desarrollo desconectado de la red.</p></section>
+<section class="disc-sec"><h2>Contexto cotidiano e uso práctico</h2><p><strong>Inferencia Local Desconectada:</strong> Despliegue de modelos en ordenadores portátiles o servidores internos sin conexión a Internet.<br><strong>Protección de Datos Sensibles:</strong> Seguridad de que la información corporativa confidencial no transita por centros de datos externos.<br><strong>Ahorro de Costes Operativos:</strong> Eliminación de cuotas recurrentes de facturación por uso intensivo de API.</p></section>
+<section class="disc-sec"><h2>Profundidad técnica y arquitectura</h2><p>Fundamentos Técnicos de los Pesos Abiertos:</p><p><strong>Formatos de Distribución:</strong> Almacenamiento en archivos Safetensors o contenedores GGUF compatibles con cuantización INT4/INT8.<br><strong>Plataformas de Inferencia:</strong> Carga optimizada mediante herramientas de alto rendimiento como vLLM, llama.cpp y Ollama.<br><strong>Adaptadores LoRA:</strong> Especialización funcional de bajo coste computacional mediante matrices de bajo rango (PEFT).</p></section>
+<section class="disc-sec"><h2>Suele confundirse con</h2><p>A menudo se confunde con el software de código abierto en sentido estricto. El open source exige compartir los scripts y datos de origen; el open weight proporciona la red neuronal ya entrenada para su despliegue práctico.</p></section>
+<section class="disc-sec"><h2>Perspectivas interdisciplinares</h2><p><strong>Panadería:</strong> Recibir la masa lista para hornear en casa a su gusto frente a comprar una barra industrial empaquetada.<br><strong>Software:</strong> Descargar un ejecutable autónomo frente a utilizar una herramienta SaaS en la nube.<br><strong>Grabación:</strong> Disponer de las pistas maestras de una pista de audio frente a reproducir una pista cerrada en una plataforma digital.</p></section>
+<div class="dict-analogy">Equivale a entregar la masa y los ingredientes preparados para que cada uno pueda hornear y sazonar el plato en su propia cocina.</div>
+<section class="disc-sec"><h2>Preguntas frecuentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">¿Qué libertades ofrece disponer de los pesos abiertos?</p><p class="dict-faq-a">Permite alojar el modelo en infraestructuras propias, cuantizarlo para dispositivos móviles y personalizarlo con datos privados.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿En qué aventaja a los servicios de API comerciales?</p><p class="dict-faq-a">Garantiza soberanía absoluta sobre los datos, coste fijo predecible e inmunidad ante cambios arbitrarios de políticas de terceros.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Qué requisitos de hardware exige un modelo 8B?</p><p class="dict-faq-a">Un equipo con 16 GB de memoria unificada o una tarjeta gráfica de 8 a 12 GB de VRAM ejecuta modelos cuantizados a 4 bits con fluidez.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Se pueden comercializar productos basados en open weight?</p><p class="dict-faq-a">La inmensa mayoría de familias modernas (Llama, Mistral, Qwen) autorizan el uso comercial explícitamente en sus licencias.</p></div></div></section>
+<section class="disc-sec"><h2>Términos relacionados</h2><div class="dict-related"><a href="/es/dictionary/open-source-ai/">Open Source AI</a><a href="/es/dictionary/foundation-model/">Foundation Model</a><a href="/es/dictionary/slm/">SLM</a></div></section>
 <aside class="disc-cta"><p><strong>Descubra herramientas relacionadas e informes diarios.</strong> Cada día surgen nuevos términos y herramientas · únase al acceso anticipado de TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-es" data-page-type="dictionary" data-content-slug="open-weight" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Su correo electrónico" autocomplete="email" required><button class="btn btn-primary" type="submit">Acceso anticipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>He leído el <a href="/es/privacy.html" target="_blank" rel="noopener">aviso de privacidad</a> y acepto que mi correo se trate con esta finalidad.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/es/dictionary/">Todos los términos →</a></aside>
 <p class="disc-disclaimer">Esta explicación se redactó en lenguaje sencillo para TreScout y se <strong>tradujo automáticamente</strong> del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/open-weight/">Leer en turco →</a></p>
 </article>

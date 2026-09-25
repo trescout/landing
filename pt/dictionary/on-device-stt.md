@@ -1,30 +1,54 @@
 # O que é On-device STT?
 
-> On-device Speech-to-Text
+> Reconhecimento de Voz no Próprio Dispositivo
 
-É uma tecnologia que converte áudio em texto diretamente no aparelho, sem necessidade de internet.
+**Categoria:** AI  
+**Última atualização:** 2026-09-22
 
-## Definição
-A conversão de voz em texto no dispositivo é executada no próprio processador do dispositivo, sem a necessidade de servidores em nuvem. Desta forma, a privacidade fica protegida e não é afetada por interrupções na Internet.
+On-device STT (Speech-to-Text no dispositivo) refere-se ao reconhecimento de fala que processa e converte áudio em texto diretamente no hardware do usuário, sem trafegar gravações sonoras para servidores em nuvem.
 
-## Como funciona
-Os dados de voz são recebidos pelo microfone e processados ​​instantaneamente pelo modelo de inteligência artificial local no dispositivo e transcritos em texto.
+## Definição e etimologia
+Motivado pela proteção de dados e pela necessidade de digitação sem atrasos, o STT local processa ondas sonoras diretamente em NPUs e aceleradores neurais locais. O áudio do microfone nunca é transmitido pela internet.
 
-## Onde é usado
-Ele é usado em aplicativos de mensagens de voz em smartphones e sistemas de comando de voz que exigem privacidade.
+## Contexto cotidiano e uso prático
+- **Dispositivos Móveis:** Ditado contínuo em mensageiros mesmo em viagens ou locais sem sinal de celular.
+- **Consultórios e Escritórios:** Degravação sigilosa de depoimentos jurídicos e prontuários médicos.
+- **Assistentes Residenciais:** Caixas de som inteligentes que entendem comandos sem monitorar a rotina da casa.
+
+## Profundidade técnica e arquitetura
+Mecanismos Arquiteturais:- **Modelos Quantizados:** Redes neurais compactas (Whisper.cpp, Vosk) convertidas para 4 ou 8 bits sem perda perceptível de acurácia.
+- **Processamento em NPU:** Execução nativa em silício especializado (Apple Neural Engine, Qualcomm AI Engine) poupando a bateria.
+- **Detecção Ativa de Voz (VAD):** Algoritmos leves que descartam silêncio antes do acionamento dos módulos de linguagem.
 
 ## Costuma ser confundido com
-A diferença dos sistemas de processamento de voz baseados em nuvem é que seus dados não saem do dispositivo.
+Frequentemente confundido com APIs de voz baseadas em nuvem. A nuvem depende de conexão e servidores de terceiros; o STT no dispositivo trabalha com total autonomia e privacidade inviolável.
+
+## Perspectivas interdisciplinares
+- **Tradução:** Ter um intérprete ao seu lado na sala de reuniões vs fazer chamada telefônica para um serviço internacional.
+- **Taquigrafia:** Um escrivão registrando a sessão presencialmente vs enviar fitas para transcrição externa.
+- **Revelação:** Ter um laboratório fotográfico próprio em casa vs enviar o rolo de filme pelo correio.
+
+## Por analogia
+É comparável a ter um tradutor presencial no mesmo ambiente: suas palavras viram texto imediatamente sem ninguém escutando pela linha telefônica.
 
 ## Perguntas frequentes
-**Por que devo escolher isso em vez da nuvem?**
-Não requer conexão com a internet e é mais seguro porque seus dados permanecem no seu dispositivo.
 
+**A precisão do reconhecimento local é comparável à da nuvem?**  
+Sim, arquiteturas destiladas modernas do Whisper alcançam precisão quase idêntica em fala cotidiana.
+
+**O sistema funciona 100% desconectado?**  
+Sim, todo o vocabulário e a rede neural ficam armazenados na memória interna do aparelho.
+
+**Qual o consumo de armazenamento no celular ou PC?**  
+Os modelos otimizados ocupam entre 40 MB e 350 MB de espaço.
+
+**Quais são as ferramentas open source mais populares?**  
+Whisper.cpp, Sherpa-ONNX, Vosk e WhisperX.
 
 ## Termos relacionados
-- [STT](/pt/dictionary/stt/)
 - [Speech-to-Text](/pt/dictionary/speech-to-text/)
-- [Local](/pt/dictionary/local/)
+- [SLM](/pt/dictionary/slm/)
+- [Privacidade Digital](/pt/dictionary/digital-privacy/)
 
 ---
-Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/on-device-stt/
+Fonte: Dicionário Técnico TreScout · https://trescout.com/pt/dictionary/on-device-stt/

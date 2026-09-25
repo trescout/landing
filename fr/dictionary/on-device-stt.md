@@ -1,30 +1,54 @@
-# Qu'est-ce que On-device STT ?
+# Qu'est-ce que l'On-device STT ?
 
-> On-device Speech-to-Text
+> Reconnaissance Vocale Embarquée sur l'Appareil
 
-Il s'agit d'une technologie qui convertit l'audio en texte directement sur l'appareil, sans avoir besoin d'Internet.
+**Catégorie:** AI  
+**Dernière mise à jour:** 2026-09-22
 
-## Définition
-La conversion voix-texte sur l'appareil s'exécute sur le propre processeur de l'appareil sans avoir besoin de serveurs cloud. De cette manière, la vie privée est protégée et n’est pas affectée par les pannes Internet.
+L'on-device STT (Speech-to-Text embarqué) désigne la technologie de reconnaissance vocale qui retranscrit la parole en texte directement sur l'appareil de l'utilisateur, sans transmettre d'enregistrement audio vers des serveurs distants.
 
-## Comment ça marche
-Les données vocales sont reçues par le microphone et instantanément traitées par le modèle d'intelligence artificielle local dans l'appareil et transcrites en texte.
+## Définition et étymologie
+Indispensable pour préserver la confidentialité et garantir un fonctionnement instantané, le STT embarqué exécute des modèles neuronaux acoustiques directement sur les puces du terminal (NPU, GPU). Les flux vocaux ne quittent jamais la machine hôte.
 
-## Où est-ce utilisé
-Il est utilisé dans les applications de mémos vocaux sur les smartphones et les systèmes de commande vocale qui nécessitent de la confidentialité.
+## Usage quotidien et contexte pratique
+- **Smartphones et tablettes :** Dictée vocale instantanée fonctionnant en mode avion sans connexion.
+- **Transcriptions sensibles :** Rédaction de comptes rendus médicaux et d'audiences juridiques confidentielles.
+- **Appareils domotiques :** Ordres vocaux exécutés localement sans écoute clandestine externe.
+
+## Profondeur technique et architecture
+Architecture technique :- **Modèles acoustiques quantifiés :** Variantes allégées (Whisper.cpp, Vosk) optimisées en précision 4 ou 8 bits.
+- **Accélération matérielle neuronale :** Utilisation des moteurs neuronaux dédiés (Apple Neural Engine, NPU Snapdragon) pour préserver la batterie.
+- **Détection d'activité vocale (VAD) :** Filtrage initial (Silero VAD) activant le modèle uniquement lors des prises de parole réelles.
 
 ## Souvent confondu avec
-La différence avec les systèmes de traitement vocal basés sur le cloud est que vos données ne quittent pas l'appareil.
+Souvent confondu avec les API vocales cloud. Le cloud envoie la voix vers des centres de données distants ; le STT embarqué effectue l'intégralité de l'inférence sur le processeur local.
+
+## Perspectives interdisciplinaires
+- **Interprétariat :** Avoir un interprète personnel à ses côtés dans la pièce plutôt que faire appel à une centrale téléphonique à distance.
+- **Sténographie :** Un greffier présent dans la salle d'audience vs l'envoi d'enregistrements audio à un prestataire externe.
+- **Photographie :** Développer ses négatifs dans sa propre chambre noire vs expédier ses pellicules à l'autre bout du pays.
+
+## Par analogie
+C'est comme avoir un traducteur personnel assis à vos côtés : vous parlez et les mots sont retranscrits sur le champ, sans intermédiaire extérieur.
 
 ## Questions fréquentes
-**Pourquoi devrais-je choisir cela plutôt que le cloud ?**
-Il ne nécessite pas de connexion Internet et est plus sûr car vos données restent sur votre appareil.
 
+**Le STT embarqué est-il aussi précis que les services cloud ?**  
+Oui, les modèles récents comme Whisper-small ou distil-whisper atteignent des scores de précision très proches des API cloud.
+
+**Fonctionne-t-il sans connexion Internet ?**  
+Oui, dès lors que les poids du modèle sont téléchargés sur l'appareil, aucune connexion n'est requise.
+
+**Quel espace de stockage occupe un tel modèle ?**  
+Selon le niveau de compression, la taille varie généralement entre 50 Mo et 400 Mo.
+
+**Quels frameworks open source permettent de l'intégrer ?**  
+Whisper.cpp, Sherpa-ONNX, Vosk et WhisperX.
 
 ## Termes liés
-- [STT](/fr/dictionary/stt/)
 - [Speech-to-Text](/fr/dictionary/speech-to-text/)
-- [Local](/fr/dictionary/local/)
+- [SLM](/fr/dictionary/slm/)
+- [Confidentialité Numérique](/fr/dictionary/digital-privacy/)
 
 ---
-Source : TreScout Glossaire · https://trescout.com/fr/dictionary/on-device-stt/
+Source : Dictionnaire technique TreScout · https://trescout.com/fr/dictionary/on-device-stt/

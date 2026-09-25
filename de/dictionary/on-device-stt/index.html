@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Was ist On-device STT? · Glossar · TreScout</title>
-<meta name="description" content="Es handelt sich um eine Technologie, die Audio direkt auf dem Gerät in Text umwandelt, ohne dass eine Internetverbindung erforderlich ist.">
+<meta name="description" content="On-device STT (Speech-to-Text auf dem Gerät) bezeichnet Spracherkennungstechnologien, die gesprochenes Audio direkt auf der Hardware des Nutzers in Text umwandeln, ohne Tondateien an externe Cloud-Server zu senden.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/de/dictionary/on-device-stt/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/on-device-stt/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/on-device-stt/">
 <link rel="alternate" type="text/markdown" href="/de/dictionary/on-device-stt.md">
 <meta property="og:title" content="Was ist On-device STT?">
-<meta property="og:description" content="Es handelt sich um eine Technologie, die Audio direkt auf dem Gerät in Text umwandelt, ohne dass eine Internetverbindung erforderlich ist.">
+<meta property="og:description" content="On-device STT (Speech-to-Text auf dem Gerät) bezeichnet Spracherkennungstechnologien, die gesprochenes Audio direkt auf der Hardware des Nutzers in Text umwandeln, ohne Tondateien an externe Cloud-Server zu senden.">
 <meta property="og:url" content="https://trescout.com/de/dictionary/on-device-stt/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="de_DE">
@@ -27,21 +27,61 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Was ist On-device STT?">
-<meta name="twitter:description" content="Es handelt sich um eine Technologie, die Audio direkt auf dem Gerät in Text umwandelt, ohne dass eine Internetverbindung erforderlich ist.">
+<meta name="twitter:description" content="On-device STT (Speech-to-Text auf dem Gerät) bezeichnet Spracherkennungstechnologien, die gesprochenes Audio direkt auf der Hardware des Nutzers in Text umwandeln, ohne Tondateien an externe Cloud-Server zu senden.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "On-device STT",
-  "description": "Es handelt sich um eine Technologie, die Audio direkt auf dem Gerät in Text umwandelt, ohne dass eine Internetverbindung erforderlich ist.",
+  "description": "On-device STT (Speech-to-Text auf dem Gerät) bezeichnet Spracherkennungstechnologien, die gesprochenes Audio direkt auf der Hardware des Nutzers in Text umwandeln, ohne Tondateien an externe Cloud-Server zu senden.",
   "inLanguage": "de",
   "url": "https://trescout.com/de/dictionary/on-device-stt/",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
-    "name": "TreScout Tech Dictionary",
+    "name": "TreScout Tech-Glossar",
     "url": "https://trescout.com/de/dictionary/"
   }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Ist die Erkennungsgenauigkeit vergleichbar mit Cloud-Diensten?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ja, moderne quantisierte Modelle wie Whisper-small erreichen auf Standard-Datensätzen nahezu identische Fehlerraten."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Funktioniert die Transkription vollständig offline?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ja, sobald die Modellgewichte lokal gespeichert sind, wird keine Internetverbindung mehr benötigt."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Wie viel Speicherplatz belegt ein solches Sprachmodell?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Je nach Komprimierung und Parameteranzahl bewegen sich kompakte Modelle zwischen 40 MB und 350 MB."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Welche Open-Source-Engines treiben diese Entwicklung an?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Whisper.cpp, Sherpa-ONNX, Vosk und WhisperX."
+      }
+    }
+  ]
 }
 </script>
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -55,17 +95,18 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/de/dictionary/">← Glossar</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossar · AI</span><time class="dict-time" datetime="2026-08-16">Zuletzt aktualisiert: 16. August 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glossar · AI</span><time class="dict-time" datetime="2026-09-22">Zuletzt aktualisiert: 22. September 2026</time></div>
 <h1 class="disc-title">Was ist <span class="disc-accent">On-device STT</span>?</h1>
-<p class="dict-en">On-device Speech-to-Text</p>
-<p class="disc-lead">Es handelt sich um eine Technologie, die Audio direkt auf dem Gerät in Text umwandelt, ohne dass eine Internetverbindung erforderlich ist.</p>
-<section class="disc-sec"><h2>Definition</h2><p>Die Sprach-zu-Text-Konvertierung auf dem Gerät läuft auf dem geräteeigenen Prozessor, ohne dass Cloud-Server erforderlich sind. Auf diese Weise bleibt die Privatsphäre geschützt und wird durch Internetausfälle nicht beeinträchtigt.</p></section>
-<div class="dict-analogy"><strong>Analogie:</strong> Es ist, als befände man sich im selben Raum mit einem Übersetzer, der das gesamte Wörterbuch im Kopf trägt, anstatt dass ein Übersetzer in einen anderen Raum geht und ein Wörterbuch nachschlägt.</div>
-<section class="disc-sec"><h2>So funktioniert es</h2><p>Sprachdaten werden vom Mikrofon empfangen und sofort vom lokalen Modell der künstlichen Intelligenz im Gerät verarbeitet und in Text transkribiert.</p></section>
-<section class="disc-sec"><h2>Wo es eingesetzt wird</h2><p>Es wird in Sprachnotizanwendungen auf Smartphones und Sprachbefehlssystemen verwendet, die Privatsphäre erfordern.</p></section>
-<section class="disc-sec"><h2>Häufig verwechselt mit</h2><p>Der Unterschied zu cloudbasierten Sprachverarbeitungssystemen besteht darin, dass Ihre Daten das Gerät nicht verlassen.</p></section>
-<section class="disc-sec"><h2>Häufige Fragen</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Warum sollte ich dies der Cloud vorziehen?</p><p class="dict-faq-a">Es erfordert keine Internetverbindung und ist sicherer, da Ihre Daten auf Ihrem Gerät verbleiben.</p></div></div></section>
-<section class="disc-sec"><h2>Verwandte Begriffe</h2><div class="dict-related"><a href="/de/dictionary/stt/">STT</a><a href="/de/dictionary/speech-to-text/">Speech-to-Text</a><a href="/de/dictionary/local/">Local</a></div></section>
+<p class="dict-en">Lokale Spracherkennung auf dem Endgerät</p>
+<p class="disc-lead">On-device STT (Speech-to-Text auf dem Gerät) bezeichnet Spracherkennungstechnologien, die gesprochenes Audio direkt auf der Hardware des Nutzers in Text umwandeln, ohne Tondateien an externe Cloud-Server zu senden.</p>
+<section class="disc-sec"><h2>Definition und Wortherkunft</h2><p>Vor dem Hintergrund strenger Datenschutzanforderungen und gewünschter Null-Latenz führt On-Device STT neuronale Akustikmodelle direkt auf lokalen NPUs und Grafikchips aus. Sprachaufnahmen verlassen das Endgerät zu keinem Zeitpunkt.</p></section>
+<section class="disc-sec"><h2>Alltägliche Anwendung und Praxis</h2><p><strong>Smartphones und Tablets:</strong> Zuverlässige Spracheingabe im Flugmodus ohne Internetempfang.<br><strong>Vertrauliche Diktate:</strong> Lokale Protokollierung von Patientengesprächen, Anwaltsnotizen und Vorstandsmeetings.<br><strong>Smart-Home-Steuerung:</strong> Sprachbediente Haushaltsgeräte, die lokale Befehle ausführen, ohne das Wohnzimmer abzuhören.</p></section>
+<section class="disc-sec"><h2>Technische Tiefe und Architektur</h2><p>Architektur und Inferenz-Stack:</p><p><strong>Quantisierte Akustikmodelle:</strong> Kompakte neuronale Netze (Whisper.cpp, Vosk) mit 4-Bit- und 8-Bit-Quantisierung für minimale Ressourcennutzung.<br><strong>NPU-Hardwarebeschleunigung:</strong> Nutzung integrierter KI-Kerne (Apple Neural Engine, Qualcomm NPU) zur Schonung des Akkus.<br><strong>Voice Activity Detection (VAD):</strong> Energiesparende Vorstufen (Silero VAD), die Sprechpausen und Stille vor der Inferenz ausfiltern.</p></section>
+<section class="disc-sec"><h2>Häufig verwechselt mit</h2><p>Wird häufig mit Cloud-Sprach-APIs verwechselt. Cloud-Dienste leiten Audiodaten über das Internet an Rechenzentren weiter; On-Device STT löst die Inferenz vollständig autonom auf dem lokalen Chip.</p></section>
+<section class="disc-sec"><h2>Interdisziplinäre Perspektiven</h2><p><strong>Dolmetschen:</strong> Ein persönlicher Dolmetscher vor Ort im Raum vs. eine telefonische Übersetzungszentrale.<br><strong>Protokollführung:</strong> Ein Stenograf live im Gerichtssaal vs. der postalische Versand von Tonbändern an ein Schreibbüro.<br><strong>Fotografie:</strong> Eigene Dunkelkammer im Keller vs. das Einsenden von Filmen an ein Fotolabor.</p></section>
+<div class="dict-analogy">Es gleicht einem persönlichen Übersetzer, der direkt neben Ihnen im Raum sitzt: Er hört zu und tippt den Text sofort mit, ohne dass Fremde am Telefon mithören.</div>
+<section class="disc-sec"><h2>Häufige Fragen</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Ist die Erkennungsgenauigkeit vergleichbar mit Cloud-Diensten?</p><p class="dict-faq-a">Ja, moderne quantisierte Modelle wie Whisper-small erreichen auf Standard-Datensätzen nahezu identische Fehlerraten.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Funktioniert die Transkription vollständig offline?</p><p class="dict-faq-a">Ja, sobald die Modellgewichte lokal gespeichert sind, wird keine Internetverbindung mehr benötigt.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Wie viel Speicherplatz belegt ein solches Sprachmodell?</p><p class="dict-faq-a">Je nach Komprimierung und Parameteranzahl bewegen sich kompakte Modelle zwischen 40 MB und 350 MB.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Welche Open-Source-Engines treiben diese Entwicklung an?</p><p class="dict-faq-a">Whisper.cpp, Sherpa-ONNX, Vosk und WhisperX.</p></div></div></section>
+<section class="disc-sec"><h2>Verwandte Begriffe</h2><div class="dict-related"><a href="/de/dictionary/speech-to-text/">Speech-to-Text</a><a href="/de/dictionary/slm/">SLM</a><a href="/de/dictionary/digital-privacy/">Digitale Privatsphäre</a></div></section>
 <aside class="disc-cta"><p><strong>Entdecken Sie passende Werkzeuge und tägliche Berichte.</strong> Jeden Tag entstehen neue Fachbegriffe und Tools · sichern Sie sich den Vorabzugang zu TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-de" data-page-type="dictionary" data-content-slug="on-device-stt" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Ihre E-Mail-Adresse" autocomplete="email" required><button class="btn btn-primary" type="submit">Vorabzugang</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Ich habe den <a href="/de/privacy.html" target="_blank" rel="noopener">Datenschutzhinweis</a> gelesen und bin damit einverstanden, dass meine E-Mail-Adresse zu diesem Zweck verarbeitet wird.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/de/dictionary/">Alle Begriffe →</a></aside>
 <p class="disc-disclaimer">Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und <strong>maschinell übersetzt</strong> aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/on-device-stt/">Auf Türkisch lesen →</a></p>
 </article>
