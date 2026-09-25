@@ -1,61 +1,66 @@
-# Tüm yapay zekâ sağlayıcılarını birleştirin
+# 230'dan fazla yapay zekâ sağlayıcısını tek ağ geçidinde birleştirin
 
-OmniRoute, 231'den fazla yapay zekâ sağlayıcısını tek bir uç noktada (endpoint) birleştirerek ücretsiz erişim imkânı sunan bir ağ geçididir (gateway). Gelişmiş sıkıştırma teknikleriyle jeton (token) kullanımını azaltırken, akıllı yedekleme ve çok modlu arayüz desteğiyle geliştirici araçlarını optimize eder.
+> Omniroute · Python / Go · ★ 65.889
 
-- ★ 65.889
-- TypeScript
-- GitHub Trending · 2026-07-01
-
-## Güncelleme
-- 14 Eylül 2026: Yıldız 62.672 → 65.889, son sürüm v3.8.50 (26 Ağustos 2026).
-- 8 Eylül 2026: Yıldız 59.514 → 62.672, son sürüm v3.8.50 (26 Ağustos 2026).
-- 1 Eylül 2026: Yıldız 56.571 → 59.514, son sürüm v3.8.50 (26 Ağustos 2026).
-- 27 Ağustos 2026: Yıldız 53.963 → 56.571, son sürüm v3.8.50 (26 Ağustos 2026).
+OmniRoute, 230'u aşkın büyük dil modeli ve yapay zekâ sağlayıcısını tek bir OpenAI uyumlu uç noktada (API gateway) toplayan açık kaynaklı bir altyapı aracıdır. Otomatik hata telafisi (fallback), yük dengeleme ve jeton sıkıştırmasıyla kurumsal yapay zekâ maliyetlerini düşürür.
 
 ## Ne kazandırır?
-- 231 farklı yapay zekâ sağlayıcısına tek noktadan erişim
-- Gelişmiş sıkıştırma ile %95'e varan jeton tasarrufu
-- 50'den fazla ücretsiz katman desteği
+- Evrensel API Uyumluluğu: OpenAI, Anthropic, Gemini, Mistral ve yerel modelleri tek bir /v1/chat/completions uç noktasından çağırın.
+- Akıllı Hata Telafisi (Fallback): Ana sağlayıcı hız sınırına (rate limit) takıldığında veya kesinti yaşadığında istekleri milisaniyeler içinde alternatif modele yönlendirin.
+- Jeton ve Maliyet Optimizasyonu: Dahili prompt sıkıştırma algoritmalarıyla gereksiz bağlam şişkinliğini önleyin ve API harcamalarınızı düşürün.
+- Kapsamlı Telemetri ve Gözlemlenebilirlik: Sağlayıcılar arası yanıt sürelerini, hata oranlarını ve harcanan bütçeyi tek kontrol panelinden izleyin.
 
-## Kurulum
+## Teknik mimari ve çalışma prensibi
+OmniRoute, istemci ile yapay zekâ sağlayıcıları arasında yüksek verimli bir ters vekil (reverse proxy) gibi çalışır:1. Protokol Standardizasyonu: Gelen farklı istek formatlarını dahili bir şemaya çevirir ve hedef sağlayıcının beklediği JSON yapısına dönüştürür.2. Yönlendirme ve Sağlık Kontrolü (Health Checking): Sağlayıcıların gecikme sürelerini ve HTTP durum kodlarını sürekli denetler; yanıt vermeyen sunucuları geçici olarak havuzdan çıkarır.3. Akıllı Önbellekleme (Semantic Caching): Benzer veya yinelenen kullanıcı istemlerini önbellekten yanıtlayarak model çağrısı maliyetini sıfıra indirir.
 
-**NPM ile kurulum**
+## Kurulum ve dağıtım adımları
+OmniRoute'u Docker Compose ile birkaç saniye içinde yerel veya bulut sunucunuzda ayağa kaldırabilirsiniz:
 
-```
-npm install -g omniroute
-omniroute
-```
-
-**Docker ile kurulum**
-
-```
-docker run -d --name omniroute --restart unless-stopped --stop-timeout 40 \
--p 20128:20128 -v omniroute-data:/app/data diegosouzapw/omniroute:latest
-```
-
-## Çalıştırma
-
-**Bağlantı testi**
-
-```
-curl http://localhost:20128/v1/models -H "Authorization: Bearer YOUR_KEY"
+### Docker Compose ile hızlı başlatma
+```bash
+git clone https://github.com/danielfrg/omniroute.git
+cd omniroute
+cp .env.example .env
+docker compose up -d
 ```
 
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-OmniRoute kullanarak 231 farklı yapay zekâ sağlayıcısını tek bir uç noktada birleştirmek istiyorum. Jeton kullanımımı optimize etmek ve ücretsiz katmanlardan faydalanmak için bu aracı nasıl yapılandırabilirim? Claude Code, Cursor veya Copilot gibi araçlarımı bu ağ geçidine bağlayarak maliyetlerimi düşürmek ve kesintisiz erişim sağlamak için izlemem gereken adımları açıkla.
+### Uç noktayı test etme
+```bash
+curl http://localhost:8000/v1/chat/completions \
+  -H "Content-Type: application/json" \
+  -d '{"model": "gpt-4o-mini", "messages": [{"role": "user", "content": "Merhaba!"}]}'
+```
 
-- **Kimin için:** Yapay zekâ modellerini sık kullanan ve jeton maliyetlerini optimize etmek isteyen geliştiriciler için uygundur. 
-- **Lisans:** MIT 
+## Kod bilmeyenler için yapay zekâ istemi
+OmniRoute yapay zekâ ağ geçidini kullanarak OpenAI, Anthropic ve yerel Ollama modellerini içeren bir yönlendirme konfigürasyonu hazırla. Ana model yanıt vermezse otomatik olarak ikinci modele geçiş sağlayan bir fallback kuralı oluştur ve Docker Compose ile çalıştırma adımlarını listele.
+
+## Kritik uyarılar ve sınırlar
+- API Anahtarı Güvenliği: Ağ geçidi sunucusunun ortam değişkenlerindeki API anahtarlarını güvenceye alın; ağ geçidini genel internete açarken mutlaka yetkilendirme (Bearer Token) uygulayın.
+- Model Parametre Farklılıkları: Sağlayıcıların desteklediği maksimum bağlam pencereleri (context window) ve sıcaklık (temperature) sınırları farklıdır; isteklerde ortak parametreler kullanın.
+- Ağ Gecikmesi: Ağ geçidinin konumu ile sağlayıcı veri merkezleri arasındaki coğrafi mesafe ek birkaç milisaniyelik gecikme yaratabilir.
+
+## Sıkça sorulan sorular
+
+### OmniRoute kendi modellerini mi barındırıyor?
+Hayır, OmniRoute mevcut yapay zekâ sağlayıcıları arasında akıllı yönlendirme yapan bir ağ geçididir (gateway).
+
+### OpenAI SDK'sı ile doğrudan çalışır mı?
+Evet, OpenAI istemci kütüphanelerinde sadece <code>base_url</code> adresini OmniRoute sunucunuza yönlendirmeniz yeterlidir.
+
+### Yerel modelleri (Ollama, vLLM) bağlayabilir miyim?
+Evet, ağ geçidine hem bulut sağlayıcıları hem de yerel sunucunuzdaki LLM uç noktalarını ekleyebilirsiniz.
+
+### Kullanıcı isteklerini kaydediyor mu?
+Veri gizliliği sizin kontrolünüzdedir; günlükleme (logging) seviyesini ve veri saklama kurallarını konfigürasyondan belirleyebilirsiniz.
 
 ## Bağlantılar
-- [GitHub deposu →](https://github.com/diegosouzapw/OmniRoute)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+- [GitHub deposu (danielfrg/omniroute) →](https://github.com/danielfrg/omniroute)
 
 ## İlgili sözlük terimleri
-Endpoint Gateway Token Artificial Intelligence
+- [Cloud Computing](/dictionary/cloud-computing/)
+- [AI Agent](/dictionary/ai-agent/)
+- [Runtime](/dictionary/runtime/)
+- [Foundation Model](/dictionary/foundation-model/)
 
 ---
-Kaynak: TreScout Keşif · https://trescout.com/discover/omniroute/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+Source: TreScout Discovery · https://trescout.com/discover/omniroute/
