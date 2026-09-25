@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Was ist Open Weight? · Glossar · TreScout</title>
-<meta name="description" content="KI-Modelle, deren interne Struktur und Parameter für Entwickler offengelegt wurden, damit diese sie auf ihren eigenen Geräten ausführen können.">
+<meta name="description" content="Open Weight bezeichnet KI-Modelle, deren trainierte Parametergewichte frei heruntergeladen werden können, sodass Entwickler das neuronale Netz auf eigener Hardware ausführen, quantisieren und anpassen können.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/de/dictionary/open-weight/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/open-weight/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/open-weight/">
 <link rel="alternate" type="text/markdown" href="/de/dictionary/open-weight.md">
 <meta property="og:title" content="Was ist Open Weight?">
-<meta property="og:description" content="KI-Modelle, deren interne Struktur und Parameter für Entwickler offengelegt wurden, damit diese sie auf ihren eigenen Geräten ausführen können.">
+<meta property="og:description" content="Open Weight bezeichnet KI-Modelle, deren trainierte Parametergewichte frei heruntergeladen werden können, sodass Entwickler das neuronale Netz auf eigener Hardware ausführen, quantisieren und anpassen können.">
 <meta property="og:url" content="https://trescout.com/de/dictionary/open-weight/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="de_DE">
@@ -27,21 +27,61 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Was ist Open Weight?">
-<meta name="twitter:description" content="KI-Modelle, deren interne Struktur und Parameter für Entwickler offengelegt wurden, damit diese sie auf ihren eigenen Geräten ausführen können.">
+<meta name="twitter:description" content="Open Weight bezeichnet KI-Modelle, deren trainierte Parametergewichte frei heruntergeladen werden können, sodass Entwickler das neuronale Netz auf eigener Hardware ausführen, quantisieren und anpassen können.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Open Weight",
-  "description": "KI-Modelle, deren interne Struktur und Parameter für Entwickler offengelegt wurden, damit diese sie auf ihren eigenen Geräten ausführen können.",
+  "description": "Open Weight bezeichnet KI-Modelle, deren trainierte Parametergewichte frei heruntergeladen werden können, sodass Entwickler das neuronale Netz auf eigener Hardware ausführen, quantisieren und anpassen können.",
   "inLanguage": "de",
   "url": "https://trescout.com/de/dictionary/open-weight/",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
-    "name": "TreScout Tech Dictionary",
+    "name": "TreScout Tech-Glossar",
     "url": "https://trescout.com/de/dictionary/"
   }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Welche Möglichkeiten eröffnen offene Modellgewichte?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sie können Modelle auf eigenen Servern hosten, für Mobilgeräte optimieren, mit eigenen Daten nachtrainieren und offline nutzen."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Worin liegt der Hauptvorteil gegenüber geschlossenen APIs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Vollständige Datenhoheit, Ausfallsicherheit ohne Internet und planbare Betriebskosten bei großen Anfragemengen."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Welche Hardware wird für gängige 8B-Modelle benötigt?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ein handelsüblicher Rechner mit 16 GB Arbeitsspeicher oder eine Grafikkarte mit 8 bis 12 GB VRAM reicht für 4-Bit-Modelle völlig aus."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Dürfen Open-Weight-Modelle kommerziell eingesetzt werden?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Die meisten modernen Modellfamilien (wie Llama, Mistral und Qwen) gestatten die kommerzielle Nutzung im Rahmen ihrer Lizenzbedingungen ausdrücklich."
+      }
+    }
+  ]
 }
 </script>
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -55,16 +95,18 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/de/dictionary/">← Glossar</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossar · AI</span><time class="dict-time" datetime="2026-09-08">Zuletzt aktualisiert: 8. September 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glossar · AI</span><time class="dict-time" datetime="2026-09-22">Zuletzt aktualisiert: 22. September 2026</time></div>
 <h1 class="disc-title">Was ist <span class="disc-accent">Open Weight</span>?</h1>
-<p class="disc-lead">KI-Modelle, deren interne Struktur und Parameter für Entwickler offengelegt wurden, damit diese sie auf ihren eigenen Geräten ausführen können.</p>
-<section class="disc-sec"><h2>Definition</h2><p>Dies ist die Weitergabe der numerischen Werte (Gewichte), die als das „Gehirn“ eines KI-Modells gelten, an die Öffentlichkeit. Dies ermöglicht es Ihnen zu sehen, wie das Modell funktioniert, und es auf Ihrem eigenen Computer zu installieren und zu nutzen. Dies bedeutet jedoch nicht, dass auch die Trainingsdaten des Modells offen sind.</p></section>
-<div class="dict-analogy"><strong>Analogie:</strong> Es ist vergleichbar damit, das Rezept und die Zutaten eines Gerichts mit jedem zu teilen; jeder kann das Gericht in seiner eigenen Küche kochen.</div>
-<section class="disc-sec"><h2>So funktioniert es</h2><p>Entwickler laden diese Gewichte herunter, um das Modell auf ihren eigenen Servern oder lokalen Computern auszuführen.</p></section>
-<section class="disc-sec"><h2>Wo es eingesetzt wird</h2><p>Wird für lokale KI-Anwendungen, private Projekte und Arbeiten zur Modellanpassung verwendet.</p></section>
-<section class="disc-sec"><h2>Häufig verwechselt mit</h2><p>Open-Source-KI</p></section>
-<section class="disc-sec"><h2>Häufige Fragen</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Was ist der Unterschied zu Open Source?</p><p class="dict-faq-a">Open Source umfasst in der Regel auch die Trainingsdaten, während Open Weight nur den finalen Zustand des Modells teilt.</p></div></div></section>
-<section class="disc-sec"><h2>Verwandte Begriffe</h2><div class="dict-related"><a href="/de/dictionary/open-weights/">Open Weights</a><a href="/de/dictionary/llm/">LLM</a><a href="/de/dictionary/slm/">SLM</a></div></section>
+<p class="dict-en">Öffentlich zugängliche Modellgewichte</p>
+<p class="disc-lead">Open Weight bezeichnet KI-Modelle, deren trainierte Parametergewichte frei heruntergeladen werden können, sodass Entwickler das neuronale Netz auf eigener Hardware ausführen, quantisieren und anpassen können.</p>
+<section class="disc-sec"><h2>Definition und Wortherkunft</h2><p>Im Unterschied zu geschlossenen Cloud-APIs, die den Zugriff auf kostenpflichtige Token-Aufrufe beschränken, stellen Open-Weight-Modelle die rohen Tensordateien bereit. Dies ermöglicht volle Datenhoheit, Unabhängigkeit von externen Schnittstellen und verlustarme lokale Inferenz.</p></section>
+<section class="disc-sec"><h2>Alltägliche Anwendung und Praxis</h2><p><strong>Lokale Inferenz auf Arbeitsplatzrechnern:</strong> Ausführung quantisierter Sprachmodelle auf Laptops ohne ständige Internetverbindung.<br><strong>Strikter Datenschutz:</strong> Sensible Unternehmensdaten und Programmcode verlassen niemals das lokale Firmennetzwerk.<br><strong>Kosteneffizienz bei hohen Volumina:</strong> Ersetzung laufender API-Abonnements durch einmalig amortisierte Serverhardware.</p></section>
+<section class="disc-sec"><h2>Technische Tiefe und Architektur</h2><p>Technische Funktionsweise von Open Weights:</p><p><strong>Tensor-Formate:</strong> Bereitstellung in modernen Safetensors- oder GGUF-Archiven mit 4-Bit- oder 8-Bit-Ganzzahlquantisierung.<br><strong>Laufzeit-Engines:</strong> Hochperformante Ausführung über Tools wie vLLM, Ollama, llama.cpp und TGI.<br><strong>Ressourcenschonende Anpassung (PEFT):</strong> Verhaltensoptimierung über leichtgewichtige LoRA-Adapter ohne Neuberechnung des Basismodells.</p></section>
+<section class="disc-sec"><h2>Häufig verwechselt mit</h2><p>Wird häufig mit vollwertiger Open-Source-KI verwechselt. Open Source verlangt die vollständige Offenlegung des Trainingscodes und der Datensätze; Open Weight stellt primär das fertige Zahlenwerk der trainierten Gewichte bereit.</p></section>
+<section class="disc-sec"><h2>Interdisziplinäre Perspektiven</h2><p><strong>Backen:</strong> Einen fertigen Vorteig erhalten und im eigenen Ofen frisch ausbacken vs. ein verpacktes Brot im Supermarkt kaufen.<br><strong>Software:</strong> Eine native Binärdatei lokal installieren vs. eine Cloud-SaaS-Lösung im Browser mieten.<br><strong>Musik:</strong> Zugriff auf die Original-Tonspuren für ein Remix haben vs. einen Song über einen Streaming-Dienst anhören.</p></section>
+<div class="dict-analogy">Es gleicht dem Bereitstellen von Zutaten und Anleitung, sodass jeder das Gericht in seiner eigenen Küche frisch zubereiten und nachwürzen kann.</div>
+<section class="disc-sec"><h2>Häufige Fragen</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Welche Möglichkeiten eröffnen offene Modellgewichte?</p><p class="dict-faq-a">Sie können Modelle auf eigenen Servern hosten, für Mobilgeräte optimieren, mit eigenen Daten nachtrainieren und offline nutzen.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Worin liegt der Hauptvorteil gegenüber geschlossenen APIs?</p><p class="dict-faq-a">Vollständige Datenhoheit, Ausfallsicherheit ohne Internet und planbare Betriebskosten bei großen Anfragemengen.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Welche Hardware wird für gängige 8B-Modelle benötigt?</p><p class="dict-faq-a">Ein handelsüblicher Rechner mit 16 GB Arbeitsspeicher oder eine Grafikkarte mit 8 bis 12 GB VRAM reicht für 4-Bit-Modelle völlig aus.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Dürfen Open-Weight-Modelle kommerziell eingesetzt werden?</p><p class="dict-faq-a">Die meisten modernen Modellfamilien (wie Llama, Mistral und Qwen) gestatten die kommerzielle Nutzung im Rahmen ihrer Lizenzbedingungen ausdrücklich.</p></div></div></section>
+<section class="disc-sec"><h2>Verwandte Begriffe</h2><div class="dict-related"><a href="/de/dictionary/open-source-ai/">Open Source AI</a><a href="/de/dictionary/foundation-model/">Foundation Model</a><a href="/de/dictionary/slm/">SLM</a></div></section>
 <aside class="disc-cta"><p><strong>Entdecken Sie passende Werkzeuge und tägliche Berichte.</strong> Jeden Tag entstehen neue Fachbegriffe und Tools · sichern Sie sich den Vorabzugang zu TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-de" data-page-type="dictionary" data-content-slug="open-weight" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Ihre E-Mail-Adresse" autocomplete="email" required><button class="btn btn-primary" type="submit">Vorabzugang</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Ich habe den <a href="/de/privacy.html" target="_blank" rel="noopener">Datenschutzhinweis</a> gelesen und bin damit einverstanden, dass meine E-Mail-Adresse zu diesem Zweck verarbeitet wird.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/de/dictionary/">Alle Begriffe →</a></aside>
 <p class="disc-disclaimer">Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und <strong>maschinell übersetzt</strong> aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/open-weight/">Auf Türkisch lesen →</a></p>
 </article>

@@ -1,35 +1,54 @@
-# Was ist SLM?
+# Was ist ein SLM?
 
-> Small Language Model
+> Kompaktes Sprachmodell (Small Language Model)
 
-Dabei handelt es sich um kleine Modelle der künstlichen Intelligenz, die mit weniger Daten trainiert werden, schnell arbeiten und auch auf geringer Hardware effiziente Ergebnisse liefern.
+**Kategorie:** AI  
+**Letzte Aktualisierung:** 2026-09-22
 
-## Definition
-SLM sind auf Effizienz ausgerichtete Modelle der künstlichen Intelligenz, die mit weniger Daten und einer kleineren Architektur trainiert werden. Obwohl sie nicht über so viel Allgemeinwissen wie größere Modelle verfügen, können sie bestimmte Aufgaben sehr schnell und kostengünstig bearbeiten.
+Ein SLM (Small Language Model / Kleines Sprachmodell) ist ein ressourcenschonendes neuronales Sprachmodell mit typischerweise 1 bis 8 Milliarden Parametern, das für den schnellen lokalen Betrieb auf Standard-Endgeräten optimiert ist.
 
-## So funktioniert es
-Sie werden mit weniger Parametern trainiert (intrinsische Verbindungen). Auf diese Weise können sie sogar auf Ihrem eigenen Computer oder Telefon arbeiten, ohne dass eine Internetverbindung erforderlich ist.
+## Definition und Wortherkunft
+Während gigantische Frontier-Modelle riesige Serverfarmen voraussetzen, setzen SLMs auf höchste Datenqualität und minimale Inferenzlatenz. Sie bringen KI-Funktionen direkt, kostengünstig und datenschutzkonform auf Laptops, Smartphones und Industrie-Hardware.
 
-## Wo es eingesetzt wird
-Es wird in mobilen Anwendungen, auf lokalen Geräten, die Privatsphäre erfordern, und in Systemen verwendet, die nur eine bestimmte Aufgabe ausführen müssen (z. B. Textklassifizierung).
+## Alltägliche Anwendung und Praxis
+- **Lokale Smartphone-Assistenten:** Textzusammenfassungen und Schreibhilfen im Offline-Betrieb ohne Netzwerkanbindung.
+- **Edge Computing in der Industrie:** Steuerungs- und Diagnoseaufgaben in lokalen Steuergeräten und IoT-Umgebungen.
+- **Effiziente Microservices:** Kostengünstige Klassifizierung und Datenextraktion bei hohem Anfragevolumen.
+
+## Technische Tiefe und Architektur
+Architektur und Optimierung:- **Fokus auf kuratierte Trainingsdaten:** Trainiert auf didaktisch aufbereiteten Fachtexten und synthetischen Datensätzen (Microsoft Phi, Google Gemma).
+- **Effiziente 4-Bit-Quantisierung:** Lauffähig mit 2 bis 5 GB Arbeitsspeicher bei minimalem Verlust an logischer Präzision.
+- **Hohe Verarbeitungsgeschwindigkeit:** Ausgabe von 30 bis über 80 Wörtern pro Sekunde auf modernen Notebook-Chips.
 
 ## Häufig verwechselt mit
-Gilt als schwächer als LLMs; Sie können jedoch bei einer bestimmten Aufgabe genauso gute oder sogar bessere Leistungen erbringen als ein LLM.
+Wird häufig mit einem unzureichenden oder abgespeckten Modell verwechselt. Ein SLM ist kein minderwertiges System, sondern ein gezielt geschärftes Werkzeug zur Lösung realer Aufgaben ohne unnötige Rechenverschwendung.
+
+## Interdisziplinäre Perspektiven
+- **Nachschlagewerk:** Ein kompaktes Taschenhandbuch im Rucksack dabeihaben vs. eine vielbändige Bibliothek konsultieren.
+- **Fortbewegung:** Im Stadtverkehr wendig auf einem Motorroller unterwegs sein vs. einen Schwerlasttransporter steuern.
+- **Handwerk:** Ein Taschenmesser am Gürtel tragen vs. einen schweren Werkstattwagen durch die Gegend schieben.
+
+## Als Analogie
+Es gleicht einem kompakten Handbuch im Rucksack statt einer vielbändigen Enzyklopädie: Es liefert Ihnen sofort die gesuchte Antwort, wo immer Sie gerade sind.
 
 ## Häufige Fragen
-**Ist SLM weniger intelligent?**
-Sein Allgemeinwissen ist geringer, aber er beherrscht die Aufgabe, auf die er sich konzentriert, sehr gut.
 
-**Warum SLM statt riesigem LLM verwenden?**
-Es ist schneller, verbraucht weniger Energie und ist sicherer, da Ihre Daten Ihr Gerät nicht verlassen.
+**Welche Parametergröße kennzeichnet ein SLM?**  
+In der Regel zwischen 1 und 8 Milliarden Parameter, passend für den Arbeitsspeicher herkömmlicher Computer.
 
+**Kann ein SLM mit großen Sprachmodellen konkurrieren?**  
+Bei spezialisierten Aufgaben (wie Datenstrukturierung, Code-Ergänzung oder Textzusammenfassung) erzielen gut trainierte SLMs oft gleichwertige Ergebnisse.
+
+**Welche sind die bekanntesten SLM-Modelle?**  
+Microsoft Phi-3/Phi-4, Google Gemma 2B, Llama 3 8B und Mistral 7B.
+
+**Wie schnell laufen SLMs auf aktuellen Notebooks?**  
+Mit optimierten Runtimes wie llama.cpp oder Apple MLX erreichen sie problemlos 40 bis 80+ Tokens pro Sekunde.
 
 ## Verwandte Begriffe
-- [LLM](/de/dictionary/llm/)
-- [Quantization](/de/dictionary/quantization/)
-- [Offline](/de/dictionary/offline/)
-- [Open Weights](/de/dictionary/open-weights/)
-- [Distillation](/de/dictionary/distillation/)
+- [Foundation Model](/de/dictionary/foundation-model/)
+- [On-device STT](/de/dictionary/on-device-stt/)
+- [Open Weight](/de/dictionary/open-weight/)
 
 ---
-Quelle: TreScout Glossar · https://trescout.com/de/dictionary/slm/
+Quelle: TreScout Tech-Glossar · https://trescout.com/de/dictionary/slm/

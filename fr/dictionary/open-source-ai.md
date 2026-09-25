@@ -1,31 +1,54 @@
-# Qu'est-ce que Open Source AI ?
+# Qu'est-ce que l'Open Source AI ?
 
-Ce sont des modèles d’intelligence artificielle dont les codes, les poids de modèle et la logique de travail sont ouverts à tous pour examiner, modifier et améliorer.
+> Intelligence Artificielle Open Source
 
-## Définition
-Contrairement aux modèles fermés, les modèles d’IA open source sont transparents. Quiconque le souhaite peut télécharger ces modèles sur son ordinateur et les entraîner avec ses propres données ou y apporter des modifications. Cette approche garantit que la technologie est démocratisée et développée rapidement par la communauté.
+**Catégorie:** AI  
+**Dernière mise à jour:** 2026-09-22
 
-## Comment ça marche
-Les développeurs partagent leurs modèles sur des plateformes comme Hugging Face. Les utilisateurs ont un contrôle total en exécutant ces modèles sur leurs propres serveurs (auto-hébergement).
+L'Open Source AI (IA open source) désigne les systèmes d'intelligence artificielle dont le code d'entraînement, les poids du modèle et les jeux de données sont mis à la disposition du public sous licence libre.
 
-## Où est-ce utilisé
-Il est utilisé dans des projets de recherche, des applications personnelles d’intelligence artificielle et des projets d’entreprise où la transparence est importante.
+## Définition et étymologie
+Héritière des principes fondamentaux du logiciel libre, l'IA open source démocratise les technologies cognitives. Elle protège les entreprises contre les monopoles technologiques en autorisant l'inspection, l'adaptation et le déploiement souverain de modèles sur ses propres serveurs.
+
+## Usage quotidien et contexte pratique
+- **Déploiements souverains :** Installation de modèles de pointe au sein d'infrastructures d'entreprises isolées du Web.
+- **Spécialisation métier :** Réentraînement (fine-tuning) sur des corpus juridiques, médicaux ou industriels internes.
+- **Recherche académique reproductible :** Audit scientifique indépendant des biais algorithmiques et des mécanismes d'attention.
+
+## Profondeur technique et architecture
+Composantes d'une IA véritablement ouverte :- **Code et points de contrôle (weights) :** Accès aux scripts d'entraînement complets et aux fichiers de tenseurs au format standard.
+- **Transparence des données :** Documentation des jeux de données d'apprentissage et des méthodes de filtrage.
+- **Écosystème d'exécution :** Moteurs d'inférence performants (vLLM, llama.cpp, Ollama) optimisant le matériel local.
 
 ## Souvent confondu avec
-Peut être mélangé avec des poids ouverts ; Cependant, l’IA Open Source inclut souvent également la transparence des données et des processus de formation.
+Souvent confondue avec des modèles propriétaires dits 'open-weight' dotés de restrictions commerciales. La véritable IA open source garantit les libertés d'étude, d'usage et de redistribution sans clauses discriminatoires.
+
+## Perspectives interdisciplinaires
+- **Gastronomie :** Publier la recette exacte et les dosages d'un grand chef pour que chacun puisse la cuisiner vs garder le secret dans une boîte verrouillée.
+- **Mécanique :** Plans de fabrication d'un moteur électrique accessibles à tous les artisans vs moteur scellé.
+- **Médecine :** Protocoles médicaux publiés dans des revues ouvertes vs formules pharmaceutiques sous secret exclusif.
+
+## Par analogie
+Plutôt que de cacher le secret de fabrication, c'est comme partager la recette intégrale et les ingrédients pour que chacun puisse cuisiner et l'enrichir librement.
 
 ## Questions fréquentes
-**Les modèles open source sont-ils plus faibles ?**
-C'était le cas autrefois, mais aujourd'hui, de nombreux modèles open source ont atteint un niveau où ils peuvent rivaliser avec les modèles fermés des entreprises géantes.
 
-**Pourquoi devrais-je utiliser l’open source ?**
-Parce qu'il offre la confidentialité des données, des économies de coûts et une intégration complète dans votre propre système.
+**Quelle est la différence entre open-source et open-weight ?**  
+L'open-weight ne publie que les poids pré-entraînés ; la véritable IA open source dévoile également le code, l'architecture et les données d'entraînement.
 
+**Les modèles ouverts rivalisent-ils avec les modèles propriétaires ?**  
+Oui, des modèles ouverts de premier plan (DeepSeek, Llama, Mistral) égalent fréquemment les performances des API commerciales fermées.
+
+**Est-ce un choix sécurisé pour une entreprise ?**  
+Absolument, car les données confidentielles ne quittent jamais le pare-feu interne de l'organisation.
+
+**Quelles sont les licences les plus courantes ?**  
+Les licences Apache 2.0 et MIT, ainsi que des cadres communautaires comme OpenRAIL.
 
 ## Termes liés
-- [Open Weights](/fr/dictionary/open-weights/)
-- [Self-hosting](/fr/dictionary/self-hosting/)
-- [Open Source](/fr/dictionary/open-source/)
+- [Open Weight](/fr/dictionary/open-weight/)
+- [Foundation Model](/fr/dictionary/foundation-model/)
+- [Intelligence Artificielle](/fr/dictionary/artificial-intelligence/)
 
 ---
-Source : TreScout Glossaire · https://trescout.com/fr/dictionary/open-source-ai/
+Source : Dictionnaire technique TreScout · https://trescout.com/fr/dictionary/open-source-ai/

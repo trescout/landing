@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>¿Qué es SLM? · Glosario · TreScout</title>
-<meta name="description" content="Son pequeños modelos de inteligencia artificial que se entrenan con menos datos, funcionan rápido y brindan resultados eficientes incluso con poco hardware">
+<meta name="description" content="Un SLM (Small Language Model / Modelo de Lenguaje Pequeño) es una red neuronal compacta y eficiente, habitualmente de entre 1.000 y 8.000 millones de parámetros, diseñada para ejecutarse en dispositivos de usuario con mínimo consumo.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/es/dictionary/slm/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/slm/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/slm/">
 <link rel="alternate" type="text/markdown" href="/es/dictionary/slm.md">
 <meta property="og:title" content="¿Qué es SLM?">
-<meta property="og:description" content="Son pequeños modelos de inteligencia artificial que se entrenan con menos datos, funcionan rápido y brindan resultados eficientes incluso con poco hardware">
+<meta property="og:description" content="Un SLM (Small Language Model / Modelo de Lenguaje Pequeño) es una red neuronal compacta y eficiente, habitualmente de entre 1.000 y 8.000 millones de parámetros, diseñada para ejecutarse en dispositivos de usuario con mínimo consumo.">
 <meta property="og:url" content="https://trescout.com/es/dictionary/slm/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="es_ES">
@@ -27,21 +27,61 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="¿Qué es SLM?">
-<meta name="twitter:description" content="Son pequeños modelos de inteligencia artificial que se entrenan con menos datos, funcionan rápido y brindan resultados eficientes incluso con poco hardware">
+<meta name="twitter:description" content="Un SLM (Small Language Model / Modelo de Lenguaje Pequeño) es una red neuronal compacta y eficiente, habitualmente de entre 1.000 y 8.000 millones de parámetros, diseñada para ejecutarse en dispositivos de usuario con mínimo consumo.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "SLM",
-  "description": "Son pequeños modelos de inteligencia artificial que se entrenan con menos datos, funcionan rápido y brindan resultados eficientes incluso con poco hardware.",
+  "description": "Un SLM (Small Language Model / Modelo de Lenguaje Pequeño) es una red neuronal compacta y eficiente, habitualmente de entre 1.000 y 8.000 millones de parámetros, diseñada para ejecutarse en dispositivos de usuario con mínimo consumo.",
   "inLanguage": "es",
   "url": "https://trescout.com/es/dictionary/slm/",
   "inDefinedTermSet": {
     "@type": "DefinedTermSet",
-    "name": "TreScout Tech Dictionary",
+    "name": "Diccionario Tecnológico TreScout",
     "url": "https://trescout.com/es/dictionary/"
   }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "¿Qué escala de parámetros abarca un SLM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Por lo general, modelos comprendidos entre 1B y 8B parámetros, compatibles con ordenadores y teléfonos estándar."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Puede rendir mejor que un modelo gigante?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "En tareas concretas y con el debido ajuste fino (extracción de entidades, código o resúmenes), a menudo iguala el acierto de modelos masivos."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Cuáles son los modelos de referencia en esta categoría?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Microsoft Phi-3, Google Gemma 2B, Llama 3 8B y Mistral 7B."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Qué velocidad alcanzan en portátiles comerciales?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A través de llama.cpp o MLX, generan habitualmente entre 30 y 80 tokens por segundo."
+      }
+    }
+  ]
 }
 </script>
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -55,17 +95,18 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/es/dictionary/">← Glosario</a>
-<div class="disc-top"><span class="disc-eyebrow">Glosario · AI</span><time class="dict-time" datetime="2026-06-03">Última actualización: 3 de junio de 2026</time></div>
-<h1 class="disc-title">¿Qué es <span class="disc-accent">SLM</span>?</h1>
-<p class="dict-en">Small Language Model</p>
-<p class="disc-lead">Son pequeños modelos de inteligencia artificial que se entrenan con menos datos, funcionan rápido y brindan resultados eficientes incluso con poco hardware.</p>
-<section class="disc-sec"><h2>Definición</h2><p>Los SLM son modelos de inteligencia artificial centrados en la eficiencia, entrenados con menos datos y una arquitectura más pequeña. Aunque no tienen tantos conocimientos generales como los modelos más grandes, pueden realizar determinadas tareas muy rápidamente y a bajo coste.</p></section>
-<div class="dict-analogy"><strong>Analogía:</strong> En lugar de una enciclopedia que todo lo sabe, es más bien un manual práctico que puedes llevar en tu bolso y donde puedes encontrar todo lo que necesitas rápidamente.</div>
-<section class="disc-sec"><h2>Cómo funciona</h2><p>Se entrenan utilizando menos parámetros (conexiones intrínsecas). De esta forma, podrán funcionar incluso en tu propia computadora o teléfono sin necesidad de internet.</p></section>
-<section class="disc-sec"><h2>Dónde se usa</h2><p>Se utiliza en aplicaciones móviles, en dispositivos locales que requieren privacidad y en sistemas que solo necesitan realizar una tarea específica (por ejemplo, clasificación de texto).</p></section>
-<section class="disc-sec"><h2>Suele confundirse con</h2><p>Considerado más débil que los LLM; pero pueden desempeñarse tan bien o incluso mejor que un LLM en una tarea determinada.</p></section>
-<section class="disc-sec"><h2>Preguntas frecuentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">¿Es SLM menos inteligente?</p><p class="dict-faq-a">Su capacidad de conocimiento general es menor, pero es muy hábil en la tarea en la que se enfoca.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Por qué utilizar SLM en lugar de un enorme LLM?</p><p class="dict-faq-a">Es más rápido, consume menos energía y es más seguro porque sus datos no salen de su dispositivo.</p></div></div></section>
-<section class="disc-sec"><h2>Términos relacionados</h2><div class="dict-related"><a href="/es/dictionary/llm/">LLM</a><a href="/es/dictionary/quantization/">Quantization</a><a href="/es/dictionary/offline/">Offline</a><a href="/es/dictionary/open-weights/">Open Weights</a><a href="/es/dictionary/distillation/">Distillation</a></div></section>
+<div class="disc-top"><span class="disc-eyebrow">Glosario · AI</span><time class="dict-time" datetime="2026-09-22">Última actualización: 22 de septiembre de 2026</time></div>
+<h1 class="disc-title">¿Qué es un <span class="disc-accent">SLM</span>?</h1>
+<p class="dict-en">Modelo de Lenguaje Pequeño (Small Language Model)</p>
+<p class="disc-lead">Un SLM (Small Language Model / Modelo de Lenguaje Pequeño) es una red neuronal compacta y eficiente, habitualmente de entre 1.000 y 8.000 millones de parámetros, diseñada para ejecutarse en dispositivos de usuario con mínimo consumo.</p>
+<section class="disc-sec"><h2>Definición y etimología</h2><p>Frente a los mastodónticos modelos de centros de datos, los SLM priorizan la calidad de los datos de entrenamiento y la baja latencia de respuesta. Acercan la inteligencia artificial a teléfonos, portátiles y procesadores embebidos con total privacidad.</p></section>
+<section class="disc-sec"><h2>Contexto cotidiano e uso práctico</h2><p><strong>Asistentes Locales en Móviles:</strong> Redacción de respuestas y análisis de documentos sin enviar información a la red.<br><strong>Dispositivos Periféricos (Edge Computing):</strong> Automatización de sensores y diagnósticos industriales en fábricas.<br><strong>Enrutamiento en Microservicios:</strong> Procesamiento ágil de clasificaciones y extracción de entidades con un gasto energético mínimo.</p></section>
+<section class="disc-sec"><h2>Profundidad técnica y arquitectura</h2><p>Innovaciones Técnicas Fundamentales:</p><p><strong>Calidad sobre Cantidad en los Datos:</strong> Entrenamiento con libros de texto estructurados y datos sintéticos refinados (Microsoft Phi, Google Gemma).<br><strong>Compresión por Cuantización:</strong> Ejecución fluida en 4 bits ocupando apenas entre 2 y 5 GB de memoria gráfica.<br><strong>Inferencia de Alta Velocidad:</strong> Rendimiento de decenas de palabras por segundo en procesadores convencionales.</p></section>
+<section class="disc-sec"><h2>Suele confundirse con</h2><p>A menudo se confunde con un modelo inferior o recortado. Un SLM no es un sistema defectuoso; es un instrumento especializado diseñado con precisión para resolver tareas cotidianas sin costes desproporcionados.</p></section>
+<section class="disc-sec"><h2>Perspectivas interdisciplinares</h2><p><strong>Consulta:</strong> Llevar un manual de bolsillo en la mochila frente a consultar una enciclopedia de biblioteca en múltiples tomos.<br><strong>Movilidad:</strong> Moverse por una gran ciudad en una motocicleta ligera frente a maniobrar con un camión de gran tonelaje.<br><strong>Equipamiento:</strong> Disponer de una navaja multiusos en el cinturón frente a transportar una caja de herramientas pesada.</p></section>
+<div class="dict-analogy">Es igual que llevar en la mochila un práctico manual de bolsillo en vez de una enciclopedia de treinta tomos: le ofrece la respuesta idónea en cualquier lugar.</div>
+<section class="disc-sec"><h2>Preguntas frecuentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">¿Qué escala de parámetros abarca un SLM?</p><p class="dict-faq-a">Por lo general, modelos comprendidos entre 1B y 8B parámetros, compatibles con ordenadores y teléfonos estándar.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Puede rendir mejor que un modelo gigante?</p><p class="dict-faq-a">En tareas concretas y con el debido ajuste fino (extracción de entidades, código o resúmenes), a menudo iguala el acierto de modelos masivos.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Cuáles son los modelos de referencia en esta categoría?</p><p class="dict-faq-a">Microsoft Phi-3, Google Gemma 2B, Llama 3 8B y Mistral 7B.</p></div><div class="dict-faq-item"><p class="dict-faq-q">¿Qué velocidad alcanzan en portátiles comerciales?</p><p class="dict-faq-a">A través de llama.cpp o MLX, generan habitualmente entre 30 y 80 tokens por segundo.</p></div></div></section>
+<section class="disc-sec"><h2>Términos relacionados</h2><div class="dict-related"><a href="/es/dictionary/foundation-model/">Foundation Model</a><a href="/es/dictionary/on-device-stt/">On-device STT</a><a href="/es/dictionary/open-weight/">Open Weight</a></div></section>
 <aside class="disc-cta"><p><strong>Descubra herramientas relacionadas e informes diarios.</strong> Cada día surgen nuevos términos y herramientas · únase al acceso anticipado de TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-es" data-page-type="dictionary" data-content-slug="slm" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Su correo electrónico" autocomplete="email" required><button class="btn btn-primary" type="submit">Acceso anticipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>He leído el <a href="/es/privacy.html" target="_blank" rel="noopener">aviso de privacidad</a> y acepto que mi correo se trate con esta finalidad.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/es/dictionary/">Todos los términos →</a></aside>
 <p class="disc-disclaimer">Esta explicación se redactó en lenguaje sencillo para TreScout y se <strong>tradujo automáticamente</strong> del original en turco · prevalece la versión turca. Si algo le parece erróneo o incompleto, escriba a <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/slm/">Leer en turco →</a></p>
 </article>
