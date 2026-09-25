@@ -48,7 +48,7 @@ Configurando al agente con límites estrictos de veracidad, sin hipérboles y fu
 ## Términos relacionados
 - [AI Agent](/es/dictionary/ai-agent/)
 - [Application](/es/dictionary/application/)
-- [Benchmarks](/es/dictionary/benchmarks/)
+- [Benchmarks](/es/dictionary/benchmark/)
 
 ---
 Fuente: Diccionario Tecnológico TreScout · https://trescout.com/es/dictionary/marketing-skills/

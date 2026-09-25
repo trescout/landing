@@ -48,7 +48,7 @@ En ancrant les agents dans des données d'usage réelles et des chartes éditori
 ## Termes liés
 - [AI Agent](/fr/dictionary/ai-agent/)
 - [Application](/fr/dictionary/application/)
-- [Benchmarks](/fr/dictionary/benchmarks/)
+- [Benchmarks](/fr/dictionary/benchmark/)
 
 ---
 Source : Dictionnaire technique TreScout · https://trescout.com/fr/dictionary/marketing-skills/

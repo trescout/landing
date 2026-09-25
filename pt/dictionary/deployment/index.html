@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>O que é Deployment? · Glossário · TreScout</title>
-<meta name="description" content="É o processo de enviar um software preparado para o servidor e torná-lo operacional para que possa ser acessado pelos usuários.">
+<title>Deployment: Pipelines CI/CD, Zero-Downtime e Arquitetura de Rollback · TreScout</title>
+<meta name="description" content="Aprenda sobre implantação de software: estratégias Blue-Green, Canary releases, GitOps, pipelines CI/CD e rollback automático.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/pt/dictionary/deployment/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/deployment/">
@@ -15,8 +15,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/deployment/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/deployment/">
 <link rel="alternate" type="text/markdown" href="/pt/dictionary/deployment.md">
-<meta property="og:title" content="O que é Deployment?">
-<meta property="og:description" content="É o processo de enviar um software preparado para o servidor e torná-lo operacional para que possa ser acessado pelos usuários.">
+<meta property="og:title" content="Deployment: Pipelines CI/CD, Zero-Downtime e Arquitetura de Rollback · TreScout">
+<meta property="og:description" content="Aprenda sobre implantação de software: estratégias Blue-Green, Canary releases, GitOps, pipelines CI/CD e rollback automático.">
 <meta property="og:url" content="https://trescout.com/pt/dictionary/deployment/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="pt_BR">
@@ -26,8 +26,8 @@
 <meta property="og:image:alt" content="O que é Deployment?">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="O que é Deployment?">
-<meta name="twitter:description" content="É o processo de enviar um software preparado para o servidor e torná-lo operacional para que possa ser acessado pelos usuários.">
+<meta name="twitter:title" content="Deployment: Pipelines CI/CD, Zero-Downtime e Arquitetura de Rollback · TreScout">
+<meta name="twitter:description" content="Aprenda sobre implantação de software: estratégias Blue-Green, Canary releases, GitOps, pipelines CI/CD e rollback automático.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
@@ -55,19 +55,32 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/pt/dictionary/">← Glossário</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-06-16">Última atualização: 16 de junho de 2026</time></div>
-<h1 class="disc-title">O que é <span class="disc-accent">Deployment</span>?</h1>
-<p class="disc-lead">É o processo de enviar um software preparado para o servidor e torná-lo operacional para que possa ser acessado pelos usuários.</p>
-<section class="disc-sec"><h2>Definição</h2><p>A implantação é a última etapa do processo de desenvolvimento de software. Você pega seu código do seu próprio computador e o move para um servidor onde pessoas ao redor do mundo podem usá-lo. Agora seu software começa a funcionar em um ambiente ativo, não apenas no seu computador.</p></section>
-<div class="dict-analogy"><strong>Analogia:</strong> Quando um autor escreve e termina seu livro, é a fase de desenvolvimento; Imprimir o livro, colocá-lo nas estantes e apresentá-lo ao leitor é a fase de implantação.</div>
-<section class="disc-sec"><h2>Como funciona</h2><p>Os desenvolvedores enviam seu código ao servidor por meio de ferramentas automáticas ou manuais. O servidor recebe esse código, faz as configurações necessárias e publica a aplicação.</p></section>
-<section class="disc-sec"><h2>Onde é usado</h2><p>É usado na publicação de sites, no envio de aplicativos móveis para a loja ou na apresentação de modelos de inteligência artificial como API.</p></section>
-<section class="disc-sec"><h2>Costuma ser confundido com</h2><p>Confunde-se com desenvolvimento; Desenvolvimento é cozinhar a comida na cozinha e implantação é servir a comida na mesa do cliente.</p></section>
-<section class="disc-sec"><h2>Perguntas frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">O que acontece se ocorrer um erro durante a implantação?</p><p class="dict-faq-a">O sistema geralmente reverte para a versão antiga e funcional ou interrompe a transmissão até que o erro seja corrigido.</p></div><div class="dict-faq-item"><p class="dict-faq-q">A implantação é sempre feita manualmente?</p><p class="dict-faq-a">No mundo moderno geralmente é automático; Você envia o código e o sistema o publica sozinho.</p></div></div></section>
-<section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/runtime/">Runtime</a><a href="/pt/dictionary/compile-time/">Compile-time</a><a href="/pt/dictionary/api/">API</a></div></section>
+<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-09-19">Última atualização: 19 de setembro de 2026</time></div>
+<h1 class="disc-title">Deployment <span class='disc-accent'>Entrega contínua, zero-downtime e observabilidade</span></h1>
+
+<p class="disc-lead">Deployment (implantação de software) é o conjunto de etapas estruturadas para compilar, testar, configurar e disponibilizar código novo em servidores de produção para os usuários finais.</p>
+
+<section class="disc-sec"><h2>Estrutura Conceitual, Etimologia e Evolução Histórica</h2><p>Com origem no vocabulário de logística militar (do francês <em>déployer</em>, posicionar em campo), a implantação de software superou as antigas cópias manuais por FTP para adotar pipelines automatizados de entrega contínua e infraestrutura imutável.</p></section>
+
+<section class="disc-sec"><h2>Estratégias de Implantação sem Indisponibilidade (Zero-Downtime)</h2><p>Para atualizar aplicações sem interromper a experiência dos usuários, adotam-se métodos modernos :</p><ol><li><strong>Implantação Blue-Green:</strong> Mantém dois ambientes espelhados; o roteador de tráfego migra os usuários do ambiente antigo (Blue) para o novo (Green) instantaneamente.</li><li><strong>Canary Releases:</strong> O novo código é liberado para uma pequena fração de usuários reais (ex: 5%) para validar telemetria antes da liberação integral.</li><li><strong>Rolling Updates:</strong> Atualização sequencial de nós ou contêineres Kubernetes sem interrupção de capacidade do sistema.</li></ol></section>
+
+<section class="disc-sec"><h2>Pipelines CI/CD, GitOps e Migração de Banco de Dados</h2><p>Uma engenharia de software confiável baseia-se em três pilares integrados :</p><ul><li><strong>Automação CI/CD:</strong> Execução obrigatória de testes automatizados, checagens de vulnerabilidades e geração de imagens Docker em cada commit.</li><li><strong>GitOps:</strong> Abordagem declarativa onde o repositório Git atua como a única fonte de verdade para a infraestrutura (ArgoCD, Flux).</li><li><strong>Migrações de Esquema:</strong> Aplicação do padrão expand-and-contract em bancos relacionais para preservar compatibilidade com versões antigas e novas.</li></ul></section>
+
+<section class="disc-sec"><h2>Gestão de Falhas, Observabilidade e Arquitetura de Rollback</h2><p>Quando falhas imprevistas passam pelos ambientes de teste, a recuperação precisa ser imediata :</p><ul><li><strong>Rollback Automatizado:</strong> Ferramentas de observabilidade acionam reversão imediata caso métricas de erro superem os limites de tolerância.</li><li><strong>Feature Flags:</strong> Chaves que desativam funcionalidades problemáticas em tempo real sem a necessidade de reconstruir ou reimplantar binários.</li></ul></section>
+
+<section class="disc-sec"><h2>Confusões comuns</h2><ul><li><strong>Desenvolvimento vs Implantação:</strong> Desenvolvimento é o preparo da receita na cozinha; implantação é a entrega do prato servido à mesa do cliente.</li><li><strong>Deployment vs Release:</strong> Deployment é a manobra técnica de instalar o código nos servidores; release é o momento comercial em que a novidade se torna utilizável pelo cliente.</li></ul></section>
+
+<div class="dict-analogy">O deployment contínuo é como trocar os pneus de um carro de corrida em plena pista sem frear o veículo: as peças são substituídas com precisão sem interromper o serviço.</div>
+
+<section class="disc-sec"><h2>Perguntas frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">O que significa deployment em desenvolvimento de software?</p><p class="dict-faq-a">É o processo técnico de disponibilizar código validado nos servidores de produção de forma confiável e monitorada.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Como funciona o zero-downtime deployment?</p><p class="dict-faq-a">Através de balanceadores de carga que desviam requisições entre instâncias antigas e novas gradualmente, sem quedas de conexão.</p></div><div class="dict-faq-item"><p class="dict-faq-q">O que é um rollback e como ele protege a operação?</p><p class="dict-faq-a">É o retorno automático à versão funcional anterior assim que falhas ou exceções anormais são detectadas no ambiente produtivo.</p></div></div></section>
+
+<section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/runtime/">Runtime</a><a href="/pt/dictionary/compile-time/">Compile-time</a><a href="/pt/dictionary/cloud-computing/">Cloud Computing</a><a href="/pt/dictionary/production-pipeline/">Production Pipeline</a><a href="/pt/dictionary/tech-stack/">Tech Stack</a><a href="/pt/dictionary/git-push/">Git Push</a></div></section>
+
 <section class="disc-sec"><h2>Ferramentas relacionadas</h2><div class="dict-related"><a href="/pt/discover/rocket-chat/">Rocket.Chat</a><a href="/pt/discover/chatwoot/">Chatwoot</a><a href="/pt/discover/argo-cd/">Argo Cd</a><a href="/pt/discover/openship/">Openship</a></div></section>
+
 <aside class="disc-cta"><p><strong>Explore ferramentas relacionadas e relatórios diários.</strong> Novos termos e ferramentas surgem todos os dias · junte-se ao acesso antecipado da TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-pt" data-page-type="dictionary" data-content-slug="deployment" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Seu e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Acesso antecipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Li o <a href="/pt/privacy.html" target="_blank" rel="noopener">aviso de privacidade</a> e concordo com o tratamento do meu e-mail para esta finalidade.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/pt/dictionary/">Todos os termos →</a></aside>
-<p class="disc-disclaimer">Esta explicação foi escrita em linguagem simples para a TreScout e <strong>traduzida automaticamente</strong> do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/deployment/">Ler em turco →</a></p>
+
+<div class="dict-disclaimer">Esta explicação foi escrita em linguagem simples para a TreScout e <strong>traduzida automaticamente</strong> do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/deployment/">Ler em turco →</a></div>
 </article>
 </main>
 <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">A TreScout busca, resume e entrega. Você só precisa ler.</p></div><div class="footer-col"><div class="footer-col-title">Produto</div><ul><li><a href="/pt/discover/">Descobrir</a></li><li><a href="/pt/dictionary/">Glossário</a></li><li><a href="/pt/reports/">Arquivo de relatórios</a></li><li><a href="/pt/compare/rss-vs-ai/">Comparar</a></li><li><a href="/pt/#top">Acesso antecipado</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Contato</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/pt/privacy.html" target="_blank" rel="noopener">Aviso de privacidade</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Redes</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Todos os direitos reservados.</span></div></div></footer>

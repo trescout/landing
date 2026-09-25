@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>What is Cloud Computing? · Dictionary · TreScout</title>
-<meta name="description" content="It is the provision of computing services via remote servers over the internet.">
+<title>Cloud Computing: Architecture, Service Models, and Infrastructure · TreScout</title>
+<meta name="description" content="Explore Cloud Computing, service models (IaaS, PaaS, SaaS, Serverless), hypervisors, containers, CAP theorem, and multicloud strategies.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/en/dictionary/cloud-computing/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/cloud-computing/">
@@ -15,8 +15,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/cloud-computing/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/cloud-computing/">
 <link rel="alternate" type="text/markdown" href="/en/dictionary/cloud-computing.md">
-<meta property="og:title" content="What is Cloud Computing?">
-<meta property="og:description" content="It is the provision of computing services via remote servers over the internet.">
+<meta property="og:title" content="Cloud Computing: Architecture, Service Models, and Infrastructure · TreScout">
+<meta property="og:description" content="Explore Cloud Computing, service models (IaaS, PaaS, SaaS, Serverless), hypervisors, containers, CAP theorem, and multicloud strategies.">
 <meta property="og:url" content="https://trescout.com/en/dictionary/cloud-computing/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
@@ -26,8 +26,8 @@
 <meta property="og:image:alt" content="What is Cloud Computing?">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="What is Cloud Computing?">
-<meta name="twitter:description" content="It is the provision of computing services via remote servers over the internet.">
+<meta name="twitter:title" content="Cloud Computing: Architecture, Service Models, and Infrastructure · TreScout">
+<meta name="twitter:description" content="Explore Cloud Computing, service models (IaaS, PaaS, SaaS, Serverless), hypervisors, containers, CAP theorem, and multicloud strategies.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
@@ -55,19 +55,32 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/en/dictionary/">← Dictionary</a>
-<div class="disc-top"><span class="disc-eyebrow">Dictionary · Dev</span><time class="dict-time" datetime="2026-08-09">Last updated: August 9, 2026</time></div>
-<h1 class="disc-title">What is <span class="disc-accent">Cloud Computing</span>?</h1>
-<p class="disc-lead">It is the provision of computing services via remote servers over the internet.</p>
-<section class="disc-sec"><h2>Overview</h2><p>It allows you to perform transactions not on your own computer, but on powerful servers at the other end of the internet. In this way, you can process large data or run applications even if your hardware capacity is low. It is a kind of digital rental warehouse and processing power service.</p></section>
-<div class="dict-analogy"><strong>Analogy:</strong> It&#39;s like getting electricity from the grid instead of having a generator in your own home; You use what you need and pay for what you use.</div>
-<section class="disc-sec"><h2>How it works</h2><p>You upload your applications or data to remote servers accessible over the internet. The service provider manages this infrastructure, and you focus only on your software or data.</p></section>
-<section class="disc-sec"><h2>Where it is used</h2><p>It is used when hosting websites, big data analysis and backup systems.</p></section>
-<section class="disc-sec"><h2>Commonly confused with</h2><p>It may be confused with internet storage, but it is not just storage but also processing power service.</p></section>
-<section class="disc-sec"><h2>Frequently asked questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Why don&#39;t I use my own computer?</p><p class="dict-faq-a">Because it saves you from the huge hardware costs required for professional work and provides access from anywhere.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Is it safe?</p><p class="dict-faq-a">When configured correctly, it is generally more secure than personal computers.</p></div></div></section>
-<section class="disc-sec"><h2>Related terms</h2><div class="dict-related"><a href="/en/dictionary/saas/">SaaS</a><a href="/en/dictionary/paas/">PaaS</a><a href="/en/dictionary/iaas/">IaaS</a><a href="/en/dictionary/personal-cloud/">Personal Cloud</a></div></section>
+<div class="disc-top"><span class="disc-eyebrow">Dictionary · Dev</span><time class="dict-time" datetime="2026-09-19">Last updated: September 19, 2026</time></div>
+<h1 class="disc-title">Cloud Computing <span class='disc-accent'>Architecture, models, and systems engineering</span></h1>
+
+<p class="disc-lead">Cloud computing is the on-demand delivery of computing resources, including servers, storage, databases, networking, and software intelligence, over the internet with pay-as-you-go pricing.</p>
+
+<section class="disc-sec"><h2>Definition, Etymology, and Conceptual Foundations</h2><p>The term <em>cloud computing</em> draws inspiration from network engineering diagrams of the 1990s, where complex telecommunications fabrics were abstracted as cloud icons. Instead of procuring and managing on-premises data centers, organizations consume elastic infrastructure on demand through standardized APIs.</p></section>
+
+<section class="disc-sec"><h2>Core Service and Deployment Models (IaaS, PaaS, SaaS, Serverless)</h2><p>Modern cloud architectures are organized into four primary service tiers:</p><ul><li><strong>IaaS (Infrastructure as a Service):</strong> Raw virtualized hardware, compute instances, block storage, and software-defined networks (e.g., AWS EC2, GCP Compute Engine).</li><li><strong>PaaS (Platform as a Service):</strong> Managed application environments where developers deploy code without server maintenance (e.g., Heroku, Render, AWS Elastic Beanstalk).</li><li><strong>SaaS (Software as a Service):</strong> Fully managed, end-user applications delivered via web browsers (e.g., Google Workspace, Salesforce, Slack).</li><li><strong>Serverless / FaaS:</strong> Event-driven execution where microservices run on demand with zero idle costs (e.g., AWS Lambda, Cloudflare Workers).</li></ul></section>
+
+<section class="disc-sec"><h2>Computer Science and System Architecture: Hypervisors, Containers, and CAP</h2><p>At the architectural core of the cloud are virtualization and distributed consensus:</p><ul><li><strong>Hypervisors vs Containers:</strong> Type-1 hypervisors (KVM, ESXi) virtualize complete operating systems, whereas container engines (Docker, containerd) share the host Linux kernel namespaces and cgroups for lightweight isolation.</li><li><strong>CAP Theorem & Distributed Consensus:</strong> In massive distributed clouds, systems navigate trade-offs between Consistency, Availability, and Partition Tolerance, utilizing Raft or Paxos algorithms for state coordination.</li></ul></section>
+
+<section class="disc-sec"><h2>Economic, Ecological, and Geopolitical Dimensions</h2><p>Migrating to the cloud transforms capital expenditures (CapEx) into predictable operational expenses (OpEx), but introduces complexities regarding cloud egress fees and FinOps governance. Furthermore, data sovereignty laws (GDPR, CCPA) mandate geo-distributed data centers with regional encryption boundaries.</p></section>
+
+<section class="disc-sec"><h2>Commonly confused with</h2><ul><li><strong>Cloud Computing vs Web Hosting:</strong> Traditional web hosting provides fixed resources on shared physical servers, whereas cloud computing offers instant horizontal auto-scaling and distributed resiliency across global availability zones.</li><li><strong>Private Cloud vs On-Premises:</strong> A server closet is not a private cloud; a true private cloud requires self-service API orchestration, automated elasticity, and tenant metering.</li></ul></section>
+
+<div class="dict-analogy">Cloud computing is like the modern electrical power grid: rather than building and fueling your own private generator in the basement, you simply plug your devices into the wall and pay only for the exact kilowatt-hours consumed.</div>
+
+<section class="disc-sec"><h2>Frequently asked questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">What are the main advantages of cloud computing?</p><p class="dict-faq-a">Elastic scalability, high fault tolerance, global low latency via content delivery networks, automated backups, and reduced physical hardware overhead.</p></div><div class="dict-faq-item"><p class="dict-faq-q">What is the difference between multi-cloud and hybrid cloud?</p><p class="dict-faq-a">Multi-cloud refers to utilizing services from two or more independent cloud vendors (e.g., AWS and GCP), while hybrid cloud combines on-premises private infrastructure with public cloud environments.</p></div><div class="dict-faq-item"><p class="dict-faq-q">How do organizations optimize cloud spending?</p><p class="dict-faq-a">Through FinOps disciplines, leveraging spot instances, autoscaling policies, committed-use discounts, and continuous resource rightsizing.</p></div></div></section>
+
+<section class="disc-sec"><h2>Related terms</h2><div class="dict-related"><a href="/en/dictionary/saas/">SaaS</a><a href="/en/dictionary/paas/">PaaS</a><a href="/en/dictionary/iaas/">IaaS</a><a href="/en/dictionary/personal-cloud/">Personal Cloud</a><a href="/en/dictionary/runtime/">Runtime</a><a href="/en/dictionary/network-stack/">Network Stack</a><a href="/en/dictionary/memory-management/">Memory Management</a></div></section>
+
 <section class="disc-sec"><h2>Related tools</h2><div class="dict-related"><a href="/en/discover/devops-interview-guide/">DevOps-Interview-Guide</a></div></section>
+
 <aside class="disc-cta"><p><strong>Explore related tools and daily reports.</strong> Stay on top of emerging tech terms and tools. Receive TreScout's daily summary in your inbox.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-en" data-page-type="dictionary" data-content-slug="cloud-computing" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/dictionary/">All terms →</a></aside>
-<p class="disc-disclaimer">This explanation was written in plain language for TreScout and <strong>machine-translated</strong> from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/cloud-computing/">Read in Turkish →</a></p>
+
+<div class="dict-disclaimer">This explanation was written in plain language for TreScout and <strong>machine-translated</strong> from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/cloud-computing/">Read in Turkish →</a></div>
 </article>
 </main>
 <footer>

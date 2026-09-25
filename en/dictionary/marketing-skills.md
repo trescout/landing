@@ -48,7 +48,7 @@ By grounding agents in proprietary product telemetry, genuine customer feedback,
 ## Related terms
 - [AI Agent](/en/dictionary/ai-agent/)
 - [Application](/en/dictionary/application/)
-- [Benchmarks](/en/dictionary/benchmarks/)
+- [Benchmarks](/en/dictionary/benchmark/)
 
 ---
 Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/marketing-skills/

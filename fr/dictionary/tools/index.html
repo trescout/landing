@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Qu'est-ce que Tools ? · Glossaire · TreScout</title>
-<meta name="description" content="Ce sont des fonctions ou des outils auxiliaires qui permettent à un logiciel d&#39;interagir avec le monde extérieur pour effectuer certaines opérations.">
+<title>Tools en informatique et IA : DevTools, MCP et Function Calling · TreScout</title>
+<meta name="description" content="Comprendre les outils (tools) en logiciel et IA : DevTools, philosophie Unix, Function Calling des LLM, standard MCP et cybersécurité.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/fr/dictionary/tools/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/tools/">
@@ -15,8 +15,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/tools/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/tools/">
 <link rel="alternate" type="text/markdown" href="/fr/dictionary/tools.md">
-<meta property="og:title" content="Qu'est-ce que Tools ?">
-<meta property="og:description" content="Ce sont des fonctions ou des outils auxiliaires qui permettent à un logiciel d&#39;interagir avec le monde extérieur pour effectuer certaines opérations.">
+<meta property="og:title" content="Tools en informatique et IA : DevTools, MCP et Function Calling · TreScout">
+<meta property="og:description" content="Comprendre les outils (tools) en logiciel et IA : DevTools, philosophie Unix, Function Calling des LLM, standard MCP et cybersécurité.">
 <meta property="og:url" content="https://trescout.com/fr/dictionary/tools/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="fr_FR">
@@ -26,8 +26,8 @@
 <meta property="og:image:alt" content="Qu&#39;est-ce que Tools ?">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Qu&#39;est-ce que Tools ?">
-<meta name="twitter:description" content="Ce sont des fonctions ou des outils auxiliaires qui permettent à un logiciel d&#39;interagir avec le monde extérieur pour effectuer certaines opérations.">
+<meta name="twitter:title" content="Tools en informatique et IA : DevTools, MCP et Function Calling · TreScout">
+<meta name="twitter:description" content="Comprendre les outils (tools) en logiciel et IA : DevTools, philosophie Unix, Function Calling des LLM, standard MCP et cybersécurité.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
@@ -55,19 +55,32 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/fr/dictionary/">← Glossaire</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossaire · Dev</span><time class="dict-time" datetime="2026-06-24">Dernière mise à jour : 24 juin 2026</time></div>
-<h1 class="disc-title">Qu'est-ce que <span class="disc-accent">Tools</span> ?</h1>
-<p class="disc-lead">Ce sont des fonctions ou des outils auxiliaires qui permettent à un logiciel d&#39;interagir avec le monde extérieur pour effectuer certaines opérations.</p>
-<section class="disc-sec"><h2>Définition</h2><p>Dans le monde de l&#39;IA, les « outils » permettent au modèle d&#39;effectuer des tâches qu&#39;il ne peut pas effectuer seul (comme effectuer une recherche sur Internet, utiliser une calculatrice ou lire un fichier). Lorsque le modèle doit utiliser un outil, il le fait sous la forme d&#39;un appel de fonction. Cela permet à l&#39;agent de passer d&#39;un système qui produit simplement du texte à un assistant qui interagit avec le monde.</p></section>
-<div class="dict-analogy"><strong>Analogie :</strong> C&#39;est comme si un peintre peignait un tableau en utilisant non seulement ses mains mais aussi des matériaux auxiliaires tels que des pinceaux et de la peinture.</div>
-<section class="disc-sec"><h2>Comment ça marche</h2><p>Ajoutez des instructions (invites système) qui indiquent à votre agent quel outil utiliser et quand. Définissez clairement le format d&#39;entrée et de sortie de l&#39;outil afin que le modèle ne fasse pas d&#39;erreurs.</p></section>
-<section class="disc-sec"><h2>Où est-ce utilisé</h2><p>Il est utilisé dans les systèmes basés sur des agents, les outils d&#39;automatisation et les systèmes RAG.</p></section>
-<section class="disc-sec"><h2>Souvent confondu avec</h2><p>C&#39;est similaire aux plugins ; Les outils sont des fonctions généralement intégrées au niveau du code, tandis que les plugins offrent des fonctionnalités plus complètes.</p></section>
-<section class="disc-sec"><h2>Questions fréquentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">L’intelligence artificielle peut-elle choisir elle-même les véhicules ?</p><p class="dict-faq-a">Oui, les agents avancés peuvent décider quel outil résoudra quel problème.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Comment fabriquer mon propre véhicule ?</p><p class="dict-faq-a">Vous pouvez le faire en écrivant une fonction et en la définissant pour l&#39;agent via une API ou une bibliothèque.</p></div></div></section>
-<section class="disc-sec"><h2>Termes liés</h2><div class="dict-related"><a href="/fr/dictionary/mcp/">MCP</a><a href="/fr/dictionary/ai-agent/">AI Agent</a><a href="/fr/dictionary/plugin/">Plugins</a><a href="/fr/dictionary/sdk/">SDK</a></div></section>
+<div class="disc-top"><span class="disc-eyebrow">Glossaire · Dev</span><time class="dict-time" datetime="2026-09-19">Dernière mise à jour : 19 septembre 2026</time></div>
+<h1 class="disc-title">Tools <span class='disc-accent'>Outillage développeur, Function Calling et MCP</span></h1>
+
+<p class="disc-lead">Les outils (tools) désignent deux domaines vitaux en informatique : les utilitaires qui décuplent la productivité des développeurs, et les interfaces permettant aux modèles d'IA d'interagir avec le monde extérieur.</p>
+
+<section class="disc-sec"><h2>Étymologie et métaphore de l'outil en informatique</h2><p>Le mot anglais <em>tool</em> dérive du vieil anglais <em>tol</em> (instrument de travail). De même que la fabrication d'outils a transformé l'histoire humaine, la philosophie Unix a forgé l'informatique moderne : concevoir des programmes modulaires accomplissant une tâche unique et composables via des flux textuels.</p></section>
+
+<section class="disc-sec"><h2>1. Outils pour développeurs (DevTools)</h2><p>L'ingénierie logicielle repose sur des strates d'outils spécialisés :</p><ul><li><strong>Compilateurs et moteurs de build :</strong> GCC, Clang, rustc et Vite traduisent le code source en instructions machines optimisées.</li><li><strong>Débogueurs et profileurs :</strong> GDB, LLDB et les DevTools des navigateurs inspectent l'état de la mémoire et les trames réseau en direct.</li><li><strong>Analyse statique et linters :</strong> ESLint, Ruff ou SonarQube garantissent la qualité du code avant même son exécution.</li></ul></section>
+
+<section class="disc-sec"><h2>2. Le tournant de l'IA : Tool Use et Function Calling</h2><p>Sans outils, les grands modèles de langage (LLM) restent de simples générateurs statistiques de texte. L'utilisation d'outils comble quatre lacunes majeures :</p><ol><li><strong>Informations en temps réel :</strong> Interrogation d'API météo ou financières pour dépasser la date limite d'entraînement.</li><li><strong>Rigueur mathématique :</strong> Délégation des calculs à des interpréteurs Python fiables.</li><li><strong>Capacité d'action :</strong> Envoi de messages, modification de bases de données ou déclenchement de webhooks.</li><li><strong>Exploration système :</strong> Navigation dans des arborescences de fichiers et des dépôts Git.</li></ol></section>
+
+<section class="disc-sec"><h2>3. Model Context Protocol (MCP) : le standard universel</h2><p>Pour éviter la multiplication de formats propriétaires incompatibles, Anthropic a conçu le <strong>Model Context Protocol (MCP)</strong>. À l'image de LSP pour les éditeurs de code, MCP offre un protocole JSON-RPC standardisé unifiant la communication entre clients IA et serveurs d'outils distants.</p></section>
+
+<section class="disc-sec"><h2>4. Outils à double usage en cybersécurité</h2><p>En sécurité informatique, les outils présentent une nature intrinsèquement ambivalente :</p><ul><li><strong>Tests d'intrusion et audit :</strong> Nmap, Wireshark et Burp Suite permettent aux experts défensifs de corriger les failles avant toute exploitation malveillante.</li><li><strong>Fuzzing automatisé :</strong> Des injecteurs comme AFL++ soumettent les protocoles à des flux de données aléatoires pour déceler les failles de mémoire zero-day.</li></ul></section>
+
+<div class="dict-analogy">Un modèle de langage sans outils est comme un génie enfermé dans une pièce sans fenêtres ; lui fournir des outils revient à lui donner des mains, une calculatrice et un téléphone pour interagir avec le monde.</div>
+
+<section class="disc-sec"><h2>Questions fréquentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Que signifie le concept d'outil (tool) en IA ?</p><p class="dict-faq-a">C'est une fonction ou une API externe qu'un modèle de langage peut appeler automatiquement par des arguments JSON structurés pour exécuter une action réelle.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Qu'est-ce que le protocole MCP d'Anthropic ?</p><p class="dict-faq-a">C'est un standard ouvert facilitant l'interconnexion sécurisée entre assistants IA et sources de données ou logiciels tiers.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Comment le modèle sélectionne-t-il le bon outil ?</p><p class="dict-faq-a">Il analyse les descriptions textuelles et les schémas de paramètres de chaque outil disponible, puis génère un appel JSON conforme.</p></div></div></section>
+
+<section class="disc-sec"><h2>Termes liés</h2><div class="dict-related"><a href="/fr/dictionary/mcp/">MCP</a><a href="/fr/dictionary/ai-agent/">AI Agent</a><a href="/fr/dictionary/plugin/">Plugin</a><a href="/fr/dictionary/sdk/">SDK</a></div></section>
+
 <section class="disc-sec"><h2>Outils liés</h2><div class="dict-related"><a href="/fr/discover/ecc/">ECC</a><a href="/fr/discover/system-prompts-and-models-of-ai-tools/">System Prompts and Models of AI Tools</a><a href="/fr/discover/claude-plugins-official/">Claude Plugins Official</a></div></section>
+
 <aside class="disc-cta"><p><strong>Explorez les outils associés et les rapports quotidiens.</strong> Suivez les nouveaux termes et outils technologiques chaque matin dans votre boîte de réception.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-fr" data-page-type="dictionary" data-content-slug="tools" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Votre adresse e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Accès anticipé</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>J'ai lu <a href="/fr/privacy.html" target="_blank" rel="noopener">la notice de confidentialité</a> et je consens au traitement de mon adresse e-mail à cette fin.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/fr/dictionary/">Tous les termes →</a></aside>
-<p class="disc-disclaimer">Cette explication a été rédigée en langage clair pour TreScout puis <strong>traduite automatiquement</strong> depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/tools/">Lire en turc →</a></p>
+
+<div class="dict-disclaimer">Cette explication a été rédigée en langage clair pour TreScout puis <strong>traduite automatiquement</strong> depuis l'original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/tools/">Lire en turc →</a></div>
 </article>
 </main>
 <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">TreScout analyse, résume et livre. Vous n'avez qu'à lire.</p></div><div class="footer-col"><div class="footer-col-title">Produit</div><ul><li><a href="/fr/discover/">Découvrir</a></li><li><a href="/fr/dictionary/">Glossaire</a></li><li><a href="/fr/reports/">Archive des rapports</a></li><li><a href="/fr/compare/rss-vs-ai/">Comparer</a></li><li><a href="/fr/#top">Accès anticipé</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Contact</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/fr/privacy.html" target="_blank" rel="noopener">Notice de confidentialité</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Réseaux</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Tous droits réservés.</span></div></div></footer>
