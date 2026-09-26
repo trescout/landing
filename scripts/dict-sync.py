@@ -22,7 +22,8 @@ DICT = os.path.join(ROOT, "dictionary")
 OG = os.path.join(ROOT, "assets", "dictionary")
 MANIFEST = os.path.join(OG, "dictionary.json")
 SITEMAP = os.path.join(ROOT, "sitemap.xml")
-MODEL = os.environ.get("GEMINI_MODEL") or os.environ.get("TREESCOUT_TRANSLATION_MODEL") or "gemini-3.1-flash-lite"
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import gemini_zinciri  # noqa: E402 · model zinciri, 429 ayrımı, istek aralığı
 DRY = "--dry" in sys.argv
 CAT_TR = {"ai": "Yapay Zekâ", "dev": "Geliştirme", "data": "Veri & Altyapı"}
 import datetime
@@ -136,24 +137,6 @@ SYS=("Sen TreScout için Türkçe teknoloji sözlüğü editörüsün; kod bilme
  '"cat"("ai"|"dev"|"data"),"kisa"(verilen açıklamayı temel al, tek cümle),"tanim"(2-4 cümle),"analoji"(günlük benzetme 1-2 cümle),'
  '"nasil"(2-4 cümle),"nerede"(2-3 cümle),"karistirilan"(1-2 cümle veya ""),"sss"([{"soru","cevap"}] 2-3 adet),'
  '"related"(mevcut/yeni slug listesinden 3-5)}. ÇIKTI: SADECE YENİ terimlerin JSON dizisi, başka metin yok.')
-def _http_retry_delay(error, attempt):
-    """Provider'ın Retry-After/retryDelay bilgisini kullan; response body loglama."""
-    header = error.headers.get("Retry-After") if error.headers else None
-    if header:
-        try:
-            return min(max(float(header), 1.0), 90.0)
-        except ValueError:
-            pass
-    try:
-        body = error.read().decode("utf-8", errors="replace")
-        m = re.search(r'"retryDelay"\s*:\s*"([0-9.]+)s"', body)
-        if m:
-            return min(max(float(m.group(1)), 1.0), 90.0)
-    except Exception:
-        pass
-    return min((attempt + 1) * 5.0, 60.0)
-
-
 def gemini(existing, candidates, key):
     payload = ("MEVCUT terimler:\n" + json.dumps([{"slug": s, "ad": n} for s, n in existing], ensure_ascii=False) +
                "\n\nADAY terimler:\n" + json.dumps(candidates, ensure_ascii=False))
@@ -162,45 +145,23 @@ def gemini(existing, candidates, key):
         "contents": [{"parts": [{"text": payload}]}],
         "generationConfig": {"temperature": 0.5, "responseMimeType": "application/json", "maxOutputTokens": 8192}
     }
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
-    encoded_body = json.dumps(body).encode("utf-8")
-    last = None
-    for attempt in range(5):  # geçici 429/500/503/timeout için retry + backoff
+    # Kota/erişim hatasında zincir None döner (tekrar denemek sonucu değiştirmez);
+    # biçim hatasında bir kez daha istenir. Hata, çağıranın yedek yoluna düşer.
+    for attempt in range(2):
+        raw_text = gemini_zinciri.metin(gemini_zinciri.istek(body, key, timeout=150, deneme_sayisi=5))
+        if not raw_text:
+            raise RuntimeError("Gemini yanıt vermedi (kota ya da erişim)")
         try:
-            req = urllib.request.Request(
-                url,
-                data=encoded_body,
-                headers={"Content-Type": "application/json", "x-goog-api-key": key},
-                method="POST"
-            )
-            with urllib.request.urlopen(req, timeout=150) as resp:
-                raw_json = json.loads(resp.read().decode("utf-8"))
-            raw_text = raw_json["candidates"][0]["content"]["parts"][0]["text"].strip()
-            try:
-                return json.loads(raw_text)
-            except Exception:
-                fence = re.search(r'```(?:json)?\s*([\s\S]*?)\s*```', raw_text)
-                if fence:
-                    return json.loads(fence.group(1).strip())
-                arr = re.search(r'\[\s*\{[\s\S]*\}\s*\]', raw_text)
-                if arr:
-                    return json.loads(arr.group(0).strip())
+            return json.loads(raw_text)
+        except Exception:
+            fence = re.search(r'```(?:json)?\s*([\s\S]*?)\s*```', raw_text)
+            if fence:
+                return json.loads(fence.group(1).strip())
+            arr = re.search(r'\[\s*\{[\s\S]*\}\s*\]', raw_text)
+            if arr:
+                return json.loads(arr.group(0).strip())
+            if attempt == 1:
                 raise
-        except urllib.error.HTTPError as e:
-            last = e
-            if e.code in (429, 500, 502, 503) and attempt < 4:
-                delay = max(_http_retry_delay(e, attempt), (attempt + 1) * 10.0)
-                print(f"Gemini 429/5xx received, waiting {delay:.1f}s before attempt {attempt + 2}/5...")
-                time.sleep(delay)
-                continue
-            raise
-        except Exception as e:
-            last = e
-            if attempt < 4:
-                time.sleep((attempt + 1) * 10)
-                continue
-            raise
-    raise last
 
 # ---------- 3) render ----------
 LOGO='<svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg>'
