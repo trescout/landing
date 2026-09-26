@@ -46,7 +46,7 @@ test('taşan plan açık hata verir · rapor hiç başlamaz', async () => {
 
 // 2. GREEN · minimum kod (gerçek karşılık: lib/ai/rpd-budget.ts → assertBudget)
 export async function assertBudget(planned: number): Promise<void> {
-  const remaining = ...; // 1500 limit − 100 tampon − sayaç
+  const remaining = ...; // 500 limit − 100 tampon − sayaç
   if (planned > remaining) throw new Error(`Gemini RPD bütçesi yetersiz ...`);
 }
 
