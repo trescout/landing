@@ -49,11 +49,13 @@ _cache = json.load(open(CACHE, encoding="utf-8")) if os.path.exists(CACHE) else 
 _yeni = 0
 _basarisiz = 0
 _basarisiz_metni = set()
+# O an basılan sayfada karşılığı olmayan metin sayısı · main() her sayfada sıfırlar.
+_sayfa_eksik = 0
 
 
 def tr2en(s):
     """Türkçeden hedef dile · Gemini birincil, GTX ikincil; başarısızlıkta None."""
-    global _yeni, _basarisiz
+    global _yeni, _basarisiz, _sayfa_eksik
     s = (s or "").strip()
     if not s:
         return ""
@@ -66,6 +68,7 @@ def tr2en(s):
     if s in _cache:
         return _cache[s]
     if s in _basarisiz_metni:
+        _sayfa_eksik += 1
         return None
     out = translate_text(s, LANG)
     if out:
@@ -75,6 +78,7 @@ def tr2en(s):
         return out
     _basarisiz += 1
     _basarisiz_metni.add(s)
+    _sayfa_eksik += 1
     print(f"  ! çeviri başarısız (önbelleğe yazılmadı, sayfa korunacak): {s[:60]}")
     return None
 
@@ -545,11 +549,18 @@ def main():
     sluglar = [ONLY] if ONLY else sorted(cat)
     if LIMIT:
         sluglar = sluglar[:LIMIT]
-    yazilan = 0
+    global _sayfa_eksik
+    yazilan = korunan = 0
     for i, slug in enumerate(sluglar, 1):
+        _sayfa_eksik = 0
         h = build(slug, cat, chrome)
         if not h:
             print(f"  ! {slug}: Türkçe sayfa yok · atlandı")
+            continue
+        # Yarım çeviri yayına gitmesin · mevcut sayfa diskte kalır (bkz. dictionary-en.py).
+        if _sayfa_eksik:
+            korunan += 1
+            print(f"  ! {slug}: {_sayfa_eksik} metin çevrilemedi · sayfa yazılmadı, mevcut hali korundu")
             continue
         if DRY:
             print(f"  ~ {slug}: {len(h.split())} kelime")
@@ -564,6 +575,8 @@ def main():
             print(f"  · {i}/{len(sluglar)} sayfa · önbellek {len(_cache)} kayıt")
     if not DRY:
         json.dump(_cache, open(CACHE, "w", encoding="utf-8"), ensure_ascii=False, indent=1, sort_keys=True)
+    if korunan:
+        print(f"  ! {korunan} keşif sayfası çeviri eksiği yüzünden yazılmadı · ertesi koşuda tekrar denenecek")
     print(f"✅ {yazilan} {LANG} keşif sayfası · {_yeni} yeni çeviri · önbellek {len(_cache)} kayıt")
 
 
