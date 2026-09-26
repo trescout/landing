@@ -1,12 +1,17 @@
 """Gemini model zinciri · landing'deki tüm Python Gemini çağrılarının tek girişi.
 
 Free tier'da kota MODEL BAŞINA tutuluyor. Zincir en iyi modelden başlar, onun
-günlük kotası bitince sıradakine geçer. Varsayılan sıra (AI Studio Rate Limit
-tablosu, 2026-09-27, free tier):
-  Flash ailesi   · 5 RPM / 20 RPD her biri  → 6 model, günde ~120 istek
-  Flash-Lite     · 15 RPM / 500 RPD her biri → 2 model, günde 1000 istek
-Günlük normal hacim ~80-150 istek (5 dil); çoğu gün Flash'larla karşılanır,
-birikmiş iş Lite'lara düşer.
+günlük kotası bitince sıradakine geçer. Sıra KALİTEYE göre; kapasite sıradan
+bağımsız (toplam ~1120 istek/gün). Limitler AI Studio Rate Limit tablosu
+(2026-09-27, free tier):
+  3.8 / 3.7 / 3.6 / 3.5 Flash  · 5 RPM / 20 RPD   (günde 80)
+  3.5 Flash-Lite               · 15 RPM / 500 RPD  · Google: "3 Flash'ı birçok
+                                 değerlendirmede geçiyor", 2.5 ve 3 Flash
+                                 iş yüklerine alternatif (blog, 3.6 duyurusu)
+  3 Flash (preview), 2.5 Flash · 5 RPM / 20 RPD   (günde 40)
+  3.1 Flash-Lite               · 15 RPM / 500 RPD  · en zayıf, en sonda
+Günlük normal hacim ~80-150 istek (5 dil): çoğu gün ilk dört Flash + 3.5 Lite ile
+biter; 3 Flash, 2.5 Flash ve 3.1 Lite yalnız birikmiş iş günlerinde devreye girer.
 
 Zincir öğesi "model:rpm" biçiminde · rpm istekler arası aralığı belirler
 (60/rpm sn). Günlük limiti koda gömmüyoruz: hangi hesabın anahtarı kullanılırsa
@@ -38,8 +43,9 @@ import urllib.error
 import urllib.request
 
 VARSAYILAN_ZINCIR = ("gemini-3.8-flash:5,gemini-3.7-flash:5,gemini-3.6-flash:5,gemini-3.5-flash:5,"
+                     "gemini-3.5-flash-lite:15,"
                      "gemini-3-flash-preview:5,gemini-2.5-flash:5,"
-                     "gemini-3.5-flash-lite:15,gemini-3.1-flash-lite:15")
+                     "gemini-3.1-flash-lite:15")
 
 
 def _zincir_coz(metin: str) -> list[tuple[str, float]]:
