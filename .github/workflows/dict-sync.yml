@@ -243,24 +243,29 @@ jobs:
           if [ "$IS_MANUAL" = "true" ] && [ -n "$DICTIONARY_SLUGS$DISCOVERY_SLUGS" ]; then
             targeted=true
           fi
+          # Bir dilin hatası sonrakileri durdurmasın · bash -e ile ilk exit 1'de
+          # döngü bitiyordu (2026-09-25: en sözlüğü kotaya takıldı, en keşif ve
+          # fr/pt/es/de hiç koşmadı). Hata toplanıp adım sonunda veriliyor.
+          hata=0
           for d in ${{ steps.diller.outputs.kodlar }}; do
             echo "── $d"
             if [ "$targeted" = "true" ]; then
               if [ -n "$DICTIONARY_SLUGS" ]; then
                 for slug in "${DICT_ONLY[@]}"; do
-                  [ -n "$slug" ] && python3 scripts/dictionary-en.py --lang=$d --slug="$slug"
+                  [ -z "$slug" ] || python3 scripts/dictionary-en.py --lang=$d --slug="$slug" || hata=1
                 done
               fi
               if [ -n "$DISCOVERY_SLUGS" ]; then
                 for slug in "${DISC_ONLY[@]}"; do
-                  [ -n "$slug" ] && python3 scripts/discover-en.py --lang=$d --slug="$slug"
+                  [ -z "$slug" ] || python3 scripts/discover-en.py --lang=$d --slug="$slug" || hata=1
                 done
               fi
             else
-              python3 scripts/dictionary-en.py --lang=$d
-              python3 scripts/discover-en.py --lang=$d
+              python3 scripts/dictionary-en.py --lang=$d || hata=1
+              python3 scripts/discover-en.py --lang=$d || hata=1
             fi
           done
+          exit $hata
 
       # İKİNCİ TUR · çapraz bağlantı kuralı İKİ YÖNLÜ:
       #   keşif sayfası → "İlgili sözlük terimleri" · sözlük sayfası → "İlgili araçlar"
@@ -280,15 +285,17 @@ jobs:
           IS_MANUAL: ${{ github.event_name == 'workflow_dispatch' }}
         run: |
           IFS=',' read -ra DICT_ONLY <<< "$DICTIONARY_SLUGS"
+          hata=0
           for d in ${{ steps.diller.outputs.kodlar }}; do
             if [ -n "$DICTIONARY_SLUGS" ]; then
               for slug in "${DICT_ONLY[@]}"; do
-                [ -n "$slug" ] && python3 scripts/dictionary-en.py --lang=$d --slug="$slug"
+                [ -z "$slug" ] || python3 scripts/dictionary-en.py --lang=$d --slug="$slug" || hata=1
               done
             elif [ "$IS_MANUAL" != "true" ]; then
-              python3 scripts/dictionary-en.py --lang=$d
+              python3 scripts/dictionary-en.py --lang=$d || hata=1
             fi
           done
+          exit $hata
 
       # Dizin sayfaları · kart ızgarası + arama/sıralama. Detay sayfalarından
       # SONRA çalışmalı: kabuğu (nav/footer) o dilin üretilmiş bir sayfasından
