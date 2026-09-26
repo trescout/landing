@@ -1,0 +1,570 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-26",
+  "capturedAt": "2026-09-26T09:07:54.744Z",
+  "editorial": "This report contains trends that have emerged for the first time today, without repeating records included in normal reports from the last 30 days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "summary": "Paperclip is an open-source application that allows you to manage AI agents in the workplace from a single hub. Developed with TypeScript, this tool makes it easier to coordinate the workflows of different agents and standardize operational processes.",
+          "meta": "TypeScript · ★ 85,663 · +2,109 today",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "paperclipai/paperclip",
+            "capturedAt": "2026-09-26T09:07:56.034Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 85663,
+              "engagementCount": 2109,
+              "rank": 1,
+              "extra": {
+                "starsToday": 2109
+              }
+            }
+          }
+        },
+        {
+          "title": "androoAGI/starnet",
+          "url": "https://github.com/androoAGI/starnet",
+          "summary": "Starnet is a desktop management tool that enables AI agents to perform real tasks on a computer with a local-first working principle. It allows users to define their own keys and monitor the workflows of agent teams through a pixel art interface.",
+          "meta": "JavaScript · ★ 575 · +93 today",
+          "snapshot": {
+            "sourceId": "androoAGI/starnet",
+            "capturedAt": "2026-09-26T09:07:56.034Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 575,
+              "engagementCount": 93,
+              "rank": 8,
+              "extra": {
+                "starsToday": 93
+              }
+            }
+          }
+        },
+        {
+          "title": "derv82/wifit3",
+          "url": "https://github.com/derv82/wifit3",
+          "summary": "Wifit3 is a Python tool developed to test wireless network security, which works only with USB devices and supports different operating systems. It is a cross-platform compatible alternative to Wifite, the popular security software that automates network auditing processes.",
+          "meta": "Python · ★ 1,060 · +183 today",
+          "snapshot": {
+            "sourceId": "derv82/wifit3",
+            "capturedAt": "2026-09-26T09:07:56.034Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 1060,
+              "engagementCount": 183,
+              "rank": 9,
+              "extra": {
+                "starsToday": 183
+              }
+            }
+          }
+        },
+        {
+          "title": "kelseyhightower/kubernetes-the-hard-way",
+          "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+          "summary": "Kubernetes the Hard Way, prepared by Kelsey Hightower, is a guide that teaches how to install the container management platform Kubernetes from scratch without using any automation scripts. This work provides a technical training resource for users who want to understand the system's core components and operating principles through manual configuration processes.",
+          "meta": "★ 50,174 · +119 today",
+          "snapshot": {
+            "sourceId": "kelseyhightower/kubernetes-the-hard-way",
+            "capturedAt": "2026-09-26T09:07:56.034Z",
+            "metadata": {
+              "popularity": 50174,
+              "engagementCount": 119,
+              "rank": 10,
+              "extra": {
+                "starsToday": 119
+              }
+            }
+          }
+        },
+        {
+          "title": "shy3130/tick-stock-panel",
+          "url": "https://github.com/shy3130/tick-stock-panel",
+          "summary": "Tick-stock-panel is a customizable stock selection, monitoring, and backtesting platform that works with Chinese stock market (A-share) data. It is an open-source Python tool that automates strategy development and stock analysis processes with the support of large language models.",
+          "meta": "Python · ★ 5,204 · +44 today",
+          "snapshot": {
+            "sourceId": "shy3130/tick-stock-panel",
+            "capturedAt": "2026-09-26T09:07:56.034Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 5204,
+              "engagementCount": 44,
+              "rank": 12,
+              "extra": {
+                "starsToday": 44
+              }
+            }
+          }
+        },
+        {
+          "title": "openbao/openbao",
+          "url": "https://github.com/openbao/openbao",
+          "summary": "OpenBao is security software developed to manage, store, and distribute sensitive data such as passwords, certificates, and encryption keys. Written in the Go language, this tool provides a central control point to ensure the security of critical data.",
+          "meta": "Go · ★ 7,846 · +49 today",
+          "snapshot": {
+            "sourceId": "openbao/openbao",
+            "capturedAt": "2026-09-26T09:07:56.034Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 7846,
+              "engagementCount": 49,
+              "rank": 16,
+              "extra": {
+                "starsToday": 49
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "url": "https://swarmtraces.org/",
+          "summary": "Swarmtraces provides an analysis detailing how AI agents exploit a vulnerability on Hugging Face. The study examines the methods and security vulnerabilities used by autonomous agents when gaining access to systems from a technical perspective.",
+          "meta": "468 points · 283 comments",
+          "snapshot": {
+            "sourceId": "49849985",
+            "capturedAt": "2026-09-26T09:07:54.998Z",
+            "metadata": {
+              "popularity": 468,
+              "engagementCount": 283,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49849985",
+                  "popularity": 468,
+                  "engagementCount": 283
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "specked-citrus",
+                "createdAt": "2026-09-25T21:09:27Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49849985"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49849985",
+              "popularity": 468,
+              "engagementCount": 283
+            }
+          ]
+        },
+        {
+          "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+          "url": "https://ollaya.dev/",
+          "summary": "Ollaya is a platform that enables running decision models on Ollama, a tool for running local language models. It allows users to automate complex logical processes with open-source models.",
+          "meta": "443 points · 117 comments",
+          "snapshot": {
+            "sourceId": "49848269",
+            "capturedAt": "2026-09-26T09:07:54.998Z",
+            "metadata": {
+              "popularity": 443,
+              "engagementCount": 117,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49848269",
+                  "popularity": 443,
+                  "engagementCount": 117
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "Ardakilic",
+                "createdAt": "2026-09-25T18:33:50Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49848269"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49848269",
+              "popularity": 443,
+              "engagementCount": 117
+            }
+          ]
+        },
+        {
+          "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+          "summary": "A US appeals court has upheld a decision that AI company Anthropic carries supply chain risks. This ruling creates restrictions on Anthropic's participation in federal tenders and its status in public projects, as the company develops defense technologies.",
+          "meta": "441 points · 762 comments",
+          "snapshot": {
+            "sourceId": "49845977",
+            "capturedAt": "2026-09-26T09:07:54.998Z",
+            "metadata": {
+              "popularity": 441,
+              "engagementCount": 762,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49845977",
+                  "popularity": 441,
+                  "engagementCount": 762
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "cramer4next",
+                "createdAt": "2026-09-25T15:29:25Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49845977"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49845977",
+              "popularity": 441,
+              "engagementCount": 762
+            }
+          ]
+        },
+        {
+          "title": "Plan mode is dead",
+          "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+          "summary": "In AI-powered coding tools, the \"plan mode,\" which requires planning from the user beforehand, is being replaced by direct implementation phases. Developers prefer faster workflows where the AI writes and corrects code in real-time instead of preparatory stages that break down complex processes.",
+          "meta": "307 points · 286 comments",
+          "snapshot": {
+            "sourceId": "49840054",
+            "capturedAt": "2026-09-26T09:07:54.998Z",
+            "metadata": {
+              "popularity": 307,
+              "engagementCount": 286,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49840054",
+                  "popularity": 307,
+                  "engagementCount": 286
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "jmvldz",
+                "createdAt": "2026-09-25T03:59:11Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49840054"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49840054",
+              "popularity": 307,
+              "engagementCount": 286
+            }
+          ]
+        },
+        {
+          "title": "First Principles Thinking",
+          "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
+          "summary": "First principles thinking is an analytical method that allows for rebuilding complex problems by breaking them down into their smallest, verifiable parts. Instead of copying existing assumptions or traditional methods, this approach focuses on generating original solutions by analyzing the fundamental facts of a subject.",
+          "meta": "259 points · 112 comments",
+          "snapshot": {
+            "sourceId": "49844736",
+            "capturedAt": "2026-09-26T09:07:54.998Z",
+            "metadata": {
+              "popularity": 259,
+              "engagementCount": 112,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49844736",
+                  "popularity": 259,
+                  "engagementCount": 112
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "sunils34",
+                "createdAt": "2026-09-25T13:55:37Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49844736"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49844736",
+              "popularity": 259,
+              "engagementCount": 112
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Learning to Discover Interesting Mathematics",
+          "url": "https://huggingface.co/papers/2609.28603",
+          "summary": "Large language models are gaining proficiency in solving complex mathematical problems and generating new theorems. Researchers are defining a new method based on the relationship between theorem proof length and information content to measure the original value and utility of the mathematical knowledge produced by these models.",
+          "meta": "6 likes · 2 comments",
+          "snapshot": {
+            "sourceId": "2609.28603",
+            "capturedAt": "2026-09-26T09:07:54.882Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.28603",
+                "publishedAt": "2026-09-23T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "RGBD20K: A Large-Scale Benchmark for RGB-D Semantic Segmentation",
+          "url": "https://huggingface.co/papers/2609.29028",
+          "summary": "RGBD20K is a large-scale dataset developed for training semantic segmentation models that combine color image and depth data (RGB-D). Covering 160 different categories, this resource offers higher diversity and detailed labeling compared to existing popular datasets (NYUv2, SUN RGB-D).",
+          "meta": "7 likes · 2 comments",
+          "snapshot": {
+            "sourceId": "2609.29028",
+            "capturedAt": "2026-09-26T09:07:54.882Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.29028",
+                "publishedAt": "2026-09-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/ShaohuaDong2021/RGBD20K",
+                "githubStars": 4
+              }
+            }
+          }
+        },
+        {
+          "title": "AV-GRPO: Modality-Anchored Decoupling Diffusion Reinforcement Learning for Joint Audio-Video Generation",
+          "url": "https://huggingface.co/papers/2609.29816",
+          "summary": "AV-GRPO is a modality-focused reinforcement learning method developed to solve coordination problems in audio and video generation. By separating reward signals from different data types, it aims to improve synchronization between audio and video and their alignment with text.",
+          "meta": "3 likes · 2 comments",
+          "snapshot": {
+            "sourceId": "2609.29816",
+            "capturedAt": "2026-09-26T09:07:54.882Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 2,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.29816",
+                "publishedAt": "2026-09-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/zhiyuxu03/AV-GRPO",
+                "githubStars": 13
+              }
+            }
+          }
+        },
+        {
+          "title": "Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs",
+          "url": "https://huggingface.co/papers/2609.29845",
+          "summary": "The Transformer architecture underlying large language models (LLMs) can simultaneously provide both probability distributions as output when inputs from different text streams are combined. This phenomenon, called the Superposition Linearity Hypothesis, shows that models exhibit a fundamental linearity despite their complex structures.",
+          "meta": "58 likes · 2 comments",
+          "snapshot": {
+            "sourceId": "2609.29845",
+            "capturedAt": "2026-09-26T09:07:54.882Z",
+            "metadata": {
+              "popularity": 58,
+              "engagementCount": 2,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.29845",
+                "publishedAt": "2026-09-24T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures",
+          "url": "https://huggingface.co/papers/2609.29429",
+          "summary": "Jev is a model trained with the Reinforcement Learning with Calibrated Decisions (RLCD) method that provides probabilistic answers to multiple questions about text inputs in a single call. Unlike existing classifiers used to detect alignment failures in language models, it offers a more flexible and efficient evaluation process.",
+          "meta": "2 likes · 2 comments",
+          "snapshot": {
+            "sourceId": "2609.29429",
+            "capturedAt": "2026-09-26T09:07:54.882Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.29429",
+                "publishedAt": "2026-09-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/sumleo/RLCDAlignBench",
+                "githubStars": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Commodified Intelligence",
+          "url": "https://herecomesthemoon.net/2026/09/commodified-intelligence/",
+          "summary": "The commoditization of artificial intelligence models allows intelligence to be positioned as a standard input in software development processes. This enables complex cognitive capabilities to be consumed as easily accessible and scalable commodity services through application development platforms.",
+          "meta": "29 points · 27 comments",
+          "snapshot": {
+            "sourceId": "nidcls",
+            "capturedAt": "2026-09-26T09:07:55.138Z",
+            "metadata": {
+              "popularity": 29,
+              "engagementCount": 27,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/nidcls/commodified_intelligence",
+                  "popularity": 29,
+                  "engagementCount": 27
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-25T13:24:29.215-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/nidcls/commodified_intelligence",
+              "popularity": 29,
+              "engagementCount": 27
+            }
+          ]
+        },
+        {
+          "title": "What About Rails?",
+          "url": "https://jardo.dev/what-about-rails",
+          "summary": "Ruby on Rails is being re-evaluated in modern web development processes for its speed and efficiency-focused structure. Software developers are choosing the monolithic framework offered by Rails as an alternative to complex microservice architectures.",
+          "meta": "46 points · 16 comments",
+          "snapshot": {
+            "sourceId": "rvvqos",
+            "capturedAt": "2026-09-26T09:07:55.138Z",
+            "metadata": {
+              "popularity": 46,
+              "engagementCount": 16,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/rvvqos/what_about_rails",
+                  "popularity": 46,
+                  "engagementCount": 16
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "ruby",
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-25T09:44:57.530-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/rvvqos/what_about_rails",
+              "popularity": 46,
+              "engagementCount": 16
+            }
+          ]
+        },
+        {
+          "title": "Goodbye Google",
+          "url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+          "summary": "Software developer Robert O'Callahan explains that he has stopped using Google's services due to the decline in quality in Google's search results and its ad-focused strategies. He is restructuring his personal digital ecosystem by switching to independent alternatives instead of the Google search engine.",
+          "meta": "84 points · 16 comments",
+          "snapshot": {
+            "sourceId": "sxlf4a",
+            "capturedAt": "2026-09-26T09:07:55.138Z",
+            "metadata": {
+              "popularity": 84,
+              "engagementCount": 16,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/sxlf4a/goodbye_google",
+                  "popularity": 84,
+                  "engagementCount": 16
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "ai",
+                  "person"
+                ],
+                "createdAt": "2026-09-25T00:51:12.558-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/sxlf4a/goodbye_google",
+              "popularity": 84,
+              "engagementCount": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI agents",
+      "explanation": "Software that can make decisions on its own and perform specific tasks without human intervention."
+    },
+    {
+      "term": "local-first",
+      "explanation": "The principle of storing and processing data directly in the device's own memory without needing the internet."
+    },
+    {
+      "term": "A-share",
+      "explanation": "A type of stock traded on Chinese stock exchanges and reserved for local investors."
+    },
+    {
+      "term": "backtesting",
+      "explanation": "Testing how successful an investment strategy would be using historical data."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Artificial intelligence models trained on massive amounts of data that can understand human language and generate text."
+    },
+    {
+      "term": "autonomous agents",
+      "explanation": "Intelligent software that creates its own strategy and acts independently to achieve defined goals."
+    }
+  ]
+}

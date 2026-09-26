@@ -1,0 +1,570 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-26",
+  "capturedAt": "2026-09-26T09:07:54.744Z",
+  "editorial": "Este relatório contém as tendências que se destacaram pela primeira vez hoje, sem repetir os registros incluídos nos relatórios normais dos últimos 30 dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "summary": "Paperclip é uma aplicação de código aberto que permite gerenciar agentes de inteligência artificial (AI agents) no local de trabalho a partir de um único centro. Desenvolvida com TypeScript, esta ferramenta facilita a coordenação dos fluxos de trabalho de diferentes agentes e a padronização de processos operacionais.",
+          "meta": "TypeScript · ★ 85.663 · +2.109 hoje",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "paperclipai/paperclip",
+            "capturedAt": "2026-09-26T09:07:56.034Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 85663,
+              "engagementCount": 2109,
+              "rank": 1,
+              "extra": {
+                "starsToday": 2109
+              }
+            }
+          }
+        },
+        {
+          "title": "androoAGI/starnet",
+          "url": "https://github.com/androoAGI/starnet",
+          "summary": "Starnet é uma ferramenta de gerenciamento de desktop que permite que agentes de inteligência artificial realizem tarefas reais no computador com um princípio de operação local (local-first). Ela permite que os usuários definam suas próprias chaves e monitorem os fluxos de trabalho de equipes de agentes por meio de uma interface de pixel art.",
+          "meta": "JavaScript · ★ 575 · +93 hoje",
+          "snapshot": {
+            "sourceId": "androoAGI/starnet",
+            "capturedAt": "2026-09-26T09:07:56.034Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 575,
+              "engagementCount": 93,
+              "rank": 8,
+              "extra": {
+                "starsToday": 93
+              }
+            }
+          }
+        },
+        {
+          "title": "derv82/wifit3",
+          "url": "https://github.com/derv82/wifit3",
+          "summary": "Wifit3 é uma ferramenta Python desenvolvida para testar a segurança de redes sem fio, que funciona apenas com dispositivos USB e suporta diferentes sistemas operacionais. É uma alternativa compatível com várias plataformas ao popular software de segurança Wifite, que automatiza processos de auditoria de rede.",
+          "meta": "Python · ★ 1.060 · +183 hoje",
+          "snapshot": {
+            "sourceId": "derv82/wifit3",
+            "capturedAt": "2026-09-26T09:07:56.034Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 1060,
+              "engagementCount": 183,
+              "rank": 9,
+              "extra": {
+                "starsToday": 183
+              }
+            }
+          }
+        },
+        {
+          "title": "kelseyhightower/kubernetes-the-hard-way",
+          "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+          "summary": "Kubernetes the Hard Way, preparado por Kelsey Hightower, é um guia que ensina a instalar o Kubernetes, a plataforma de gerenciamento de contêineres, do zero, sem usar nenhum script de automação. Este trabalho oferece um recurso de treinamento técnico para usuários que desejam entender os componentes básicos e os princípios de funcionamento do sistema por meio de processos de configuração manual.",
+          "meta": "★ 50.174 · +119 hoje",
+          "snapshot": {
+            "sourceId": "kelseyhightower/kubernetes-the-hard-way",
+            "capturedAt": "2026-09-26T09:07:56.034Z",
+            "metadata": {
+              "popularity": 50174,
+              "engagementCount": 119,
+              "rank": 10,
+              "extra": {
+                "starsToday": 119
+              }
+            }
+          }
+        },
+        {
+          "title": "shy3130/tick-stock-panel",
+          "url": "https://github.com/shy3130/tick-stock-panel",
+          "summary": "Tick-stock-panel é uma plataforma personalizável de seleção, monitoramento e backtesting de ações que opera com dados da bolsa de valores chinesa (A-share). É uma ferramenta Python de código aberto que automatiza processos de desenvolvimento de estratégia e análise de ações com o suporte de grandes modelos de linguagem (large language models).",
+          "meta": "Python · ★ 5.204 · +44 hoje",
+          "snapshot": {
+            "sourceId": "shy3130/tick-stock-panel",
+            "capturedAt": "2026-09-26T09:07:56.034Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 5204,
+              "engagementCount": 44,
+              "rank": 12,
+              "extra": {
+                "starsToday": 44
+              }
+            }
+          }
+        },
+        {
+          "title": "openbao/openbao",
+          "url": "https://github.com/openbao/openbao",
+          "summary": "OpenBao é um software de segurança desenvolvido para gerenciar, armazenar e distribuir dados sensíveis, como senhas, certificados e chaves de criptografia. Escrita na linguagem Go, esta ferramenta oferece um ponto de controle centralizado para garantir a segurança de dados críticos.",
+          "meta": "Go · ★ 7.846 · +49 hoje",
+          "snapshot": {
+            "sourceId": "openbao/openbao",
+            "capturedAt": "2026-09-26T09:07:56.034Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 7846,
+              "engagementCount": 49,
+              "rank": 16,
+              "extra": {
+                "starsToday": 49
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "url": "https://swarmtraces.org/",
+          "summary": "Swarmtraces oferece uma análise detalhando como agentes de inteligência artificial exploram uma vulnerabilidade de segurança no Hugging Face. O estudo examina, sob uma perspectiva técnica, os métodos e as vulnerabilidades de segurança que agentes autônomos (autonomous agents) utilizam ao obter acesso a sistemas.",
+          "meta": "468 pontos · 283 comentários",
+          "snapshot": {
+            "sourceId": "49849985",
+            "capturedAt": "2026-09-26T09:07:54.998Z",
+            "metadata": {
+              "popularity": 468,
+              "engagementCount": 283,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49849985",
+                  "popularity": 468,
+                  "engagementCount": 283
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "specked-citrus",
+                "createdAt": "2026-09-25T21:09:27Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49849985"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49849985",
+              "popularity": 468,
+              "engagementCount": 283
+            }
+          ]
+        },
+        {
+          "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+          "url": "https://ollaya.dev/",
+          "summary": "Ollaya é uma plataforma que permite executar modelos de decisão (decision models) sobre o Ollama, uma ferramenta para rodar modelos de linguagem locais. Ela permite que os usuários automatizem processos lógicos complexos com modelos de código aberto.",
+          "meta": "443 pontos · 117 comentários",
+          "snapshot": {
+            "sourceId": "49848269",
+            "capturedAt": "2026-09-26T09:07:54.998Z",
+            "metadata": {
+              "popularity": 443,
+              "engagementCount": 117,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49848269",
+                  "popularity": 443,
+                  "engagementCount": 117
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "Ardakilic",
+                "createdAt": "2026-09-25T18:33:50Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49848269"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49848269",
+              "popularity": 443,
+              "engagementCount": 117
+            }
+          ]
+        },
+        {
+          "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+          "summary": "Um tribunal de apelações dos EUA confirmou a decisão de que a empresa de inteligência artificial Anthropic apresenta riscos à cadeia de suprimentos. Esta decisão cria restrições sobre a participação da Anthropic, que desenvolve tecnologias de defesa, em licitações federais e seu status em projetos públicos.",
+          "meta": "441 pontos · 762 comentários",
+          "snapshot": {
+            "sourceId": "49845977",
+            "capturedAt": "2026-09-26T09:07:54.998Z",
+            "metadata": {
+              "popularity": 441,
+              "engagementCount": 762,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49845977",
+                  "popularity": 441,
+                  "engagementCount": 762
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "cramer4next",
+                "createdAt": "2026-09-25T15:29:25Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49845977"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49845977",
+              "popularity": 441,
+              "engagementCount": 762
+            }
+          ]
+        },
+        {
+          "title": "Plan mode is dead",
+          "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+          "summary": "Nas ferramentas de codificação assistidas por IA, o \"modo de planejamento\" (plan mode), que solicita o planejamento antes do usuário, está sendo substituído pela fase de implementação direta. Os desenvolvedores preferem fluxos de trabalho mais rápidos, onde a IA escreve e corrige o código instantaneamente, em vez de etapas de preparação que dividem processos complexos em partes.",
+          "meta": "307 pontos · 286 comentários",
+          "snapshot": {
+            "sourceId": "49840054",
+            "capturedAt": "2026-09-26T09:07:54.998Z",
+            "metadata": {
+              "popularity": 307,
+              "engagementCount": 286,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49840054",
+                  "popularity": 307,
+                  "engagementCount": 286
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "jmvldz",
+                "createdAt": "2026-09-25T03:59:11Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49840054"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49840054",
+              "popularity": 307,
+              "engagementCount": 286
+            }
+          ]
+        },
+        {
+          "title": "First Principles Thinking",
+          "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
+          "summary": "O pensamento de primeiros princípios (first principles thinking) é um método de análise que permite reconstruir problemas complexos dividindo-os em suas partes menores e verificáveis. Esta abordagem foca em gerar soluções originais analisando os fatos fundamentais de um assunto, em vez de copiar suposições existentes ou métodos tradicionais.",
+          "meta": "259 pontos · 112 comentários",
+          "snapshot": {
+            "sourceId": "49844736",
+            "capturedAt": "2026-09-26T09:07:54.998Z",
+            "metadata": {
+              "popularity": 259,
+              "engagementCount": 112,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49844736",
+                  "popularity": 259,
+                  "engagementCount": 112
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "sunils34",
+                "createdAt": "2026-09-25T13:55:37Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49844736"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49844736",
+              "popularity": 259,
+              "engagementCount": 112
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Learning to Discover Interesting Mathematics",
+          "url": "https://huggingface.co/papers/2609.28603",
+          "summary": "Os grandes modelos de linguagem (large language models) estão a ganhar competência na resolução de problemas matemáticos complexos e na geração de novos teoremas. Os investigadores definem um novo método baseado na relação entre o comprimento da prova do teorema e o conteúdo de informação para medir o valor original e a utilidade do conhecimento matemático apresentado por estes modelos.",
+          "meta": "6 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2609.28603",
+            "capturedAt": "2026-09-26T09:07:54.882Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.28603",
+                "publishedAt": "2026-09-23T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "RGBD20K: A Large-Scale Benchmark for RGB-D Semantic Segmentation",
+          "url": "https://huggingface.co/papers/2609.29028",
+          "summary": "O RGBD20K é um conjunto de dados em larga escala desenvolvido para treinar modelos de segmentação semântica (semantic segmentation) que combinam dados de imagem a cores e profundidade (RGB-D). Abrangendo 160 categorias diferentes, este recurso oferece maior diversidade e rotulagem detalhada em comparação com os conjuntos de dados populares existentes (NYUv2, SUN RGB-D).",
+          "meta": "7 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2609.29028",
+            "capturedAt": "2026-09-26T09:07:54.882Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.29028",
+                "publishedAt": "2026-09-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/ShaohuaDong2021/RGBD20K",
+                "githubStars": 4
+              }
+            }
+          }
+        },
+        {
+          "title": "AV-GRPO: Modality-Anchored Decoupling Diffusion Reinforcement Learning for Joint Audio-Video Generation",
+          "url": "https://huggingface.co/papers/2609.29816",
+          "summary": "O AV-GRPO é um método de aprendizagem por reforço (reinforcement learning) focado na modalidade, desenvolvido para resolver problemas de coordenação na produção de áudio e vídeo. Ao separar os sinais de recompensa provenientes de diferentes tipos de dados, visa aumentar a sincronização entre áudio e imagem e a harmonia com o texto.",
+          "meta": "3 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2609.29816",
+            "capturedAt": "2026-09-26T09:07:54.882Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 2,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.29816",
+                "publishedAt": "2026-09-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/zhiyuxu03/AV-GRPO",
+                "githubStars": 13
+              }
+            }
+          }
+        },
+        {
+          "title": "Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs",
+          "url": "https://huggingface.co/papers/2609.29845",
+          "summary": "A arquitetura Transformer, na base dos grandes modelos de linguagem (LLM), pode apresentar ambas as distribuições de probabilidade como saída quando entradas de diferentes fluxos de texto são combinadas. Esta situação, denominada Hipótese de Linearidade de Superposição (Superposition Linearity Hypothesis), mostra que os modelos exibem uma linearidade fundamental apesar das suas estruturas complexas.",
+          "meta": "58 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2609.29845",
+            "capturedAt": "2026-09-26T09:07:54.882Z",
+            "metadata": {
+              "popularity": 58,
+              "engagementCount": 2,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.29845",
+                "publishedAt": "2026-09-24T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures",
+          "url": "https://huggingface.co/papers/2609.29429",
+          "summary": "O Jev é um modelo treinado com o método de decisões calibradas por aprendizagem por reforço (RLCD) que fornece respostas probabilísticas a múltiplas perguntas sobre entradas de texto numa única chamada. Ao contrário dos classificadores existentes utilizados para detetar falhas de alinhamento (alignment failures) em modelos de linguagem, oferece um processo de avaliação mais flexível e eficiente.",
+          "meta": "2 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2609.29429",
+            "capturedAt": "2026-09-26T09:07:54.882Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.29429",
+                "publishedAt": "2026-09-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/sumleo/RLCDAlignBench",
+                "githubStars": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Commodified Intelligence",
+          "url": "https://herecomesthemoon.net/2026/09/commodified-intelligence/",
+          "summary": "A transformação dos modelos de inteligência artificial em mercadorias (commodities) permite que a inteligência seja posicionada como um input padrão nos processos de desenvolvimento de software. Isto permite que capacidades cognitivas complexas sejam consumidas como serviços facilmente acessíveis e escaláveis (commodity services) através de plataformas de desenvolvimento de aplicações.",
+          "meta": "29 pontos · 27 comentários",
+          "snapshot": {
+            "sourceId": "nidcls",
+            "capturedAt": "2026-09-26T09:07:55.138Z",
+            "metadata": {
+              "popularity": 29,
+              "engagementCount": 27,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/nidcls/commodified_intelligence",
+                  "popularity": 29,
+                  "engagementCount": 27
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-25T13:24:29.215-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/nidcls/commodified_intelligence",
+              "popularity": 29,
+              "engagementCount": 27
+            }
+          ]
+        },
+        {
+          "title": "What About Rails?",
+          "url": "https://jardo.dev/what-about-rails",
+          "summary": "O Ruby on Rails está a ser reavaliado nos processos modernos de desenvolvimento web pela sua estrutura focada na velocidade e eficiência. Os programadores de software preferem o ambiente de desenvolvimento integrado (monolithic framework) oferecido pelo Rails como alternativa às complexas arquiteturas de microsserviços.",
+          "meta": "46 pontos · 16 comentários",
+          "snapshot": {
+            "sourceId": "rvvqos",
+            "capturedAt": "2026-09-26T09:07:55.138Z",
+            "metadata": {
+              "popularity": 46,
+              "engagementCount": 16,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/rvvqos/what_about_rails",
+                  "popularity": 46,
+                  "engagementCount": 16
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "ruby",
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-25T09:44:57.530-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/rvvqos/what_about_rails",
+              "popularity": 46,
+              "engagementCount": 16
+            }
+          ]
+        },
+        {
+          "title": "Goodbye Google",
+          "url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+          "summary": "O programador de software Robert O'Callahan anuncia que deixou de utilizar os serviços da Google devido à queda na qualidade dos resultados de pesquisa e às estratégias focadas em publicidade da empresa. Ele está a reestruturar o seu ecossistema digital pessoal mudando para alternativas independentes em vez do motor de busca Google.",
+          "meta": "84 pontos · 16 comentários",
+          "snapshot": {
+            "sourceId": "sxlf4a",
+            "capturedAt": "2026-09-26T09:07:55.138Z",
+            "metadata": {
+              "popularity": 84,
+              "engagementCount": 16,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/sxlf4a/goodbye_google",
+                  "popularity": 84,
+                  "engagementCount": 16
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "ai",
+                  "person"
+                ],
+                "createdAt": "2026-09-25T00:51:12.558-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/sxlf4a/goodbye_google",
+              "popularity": 84,
+              "engagementCount": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI agents",
+      "explanation": "Softwares capazes de tomar decisões por conta própria e realizar tarefas específicas sem intervenção humana."
+    },
+    {
+      "term": "local-first",
+      "explanation": "O princípio de armazenar e processar dados diretamente na memória do próprio dispositivo, sem a necessidade de internet."
+    },
+    {
+      "term": "A-share",
+      "explanation": "Tipo de ação negociada nas bolsas de valores chinesas e reservada para investidores locais."
+    },
+    {
+      "term": "backtesting",
+      "explanation": "O teste de quão bem-sucedida uma estratégia de investimento seria usando dados históricos."
+    },
+    {
+      "term": "large language models",
+      "explanation": "Modelos de inteligência artificial treinados com grandes volumes de dados, capazes de entender a linguagem humana e gerar texto."
+    },
+    {
+      "term": "autonomous agents",
+      "explanation": "Softwares inteligentes que criam sua própria estratégia e agem de forma independente para alcançar os objetivos estabelecidos."
+    }
+  ]
+}

@@ -1,0 +1,970 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-26",
+  "capturedAt": "2026-09-26T09:07:54.744Z",
+  "editorial": "Die heutige Technologie-Agenda wird von Sicherheitslücken bei KI-Agenten (AI agents) und Open-Source-Entscheidungsmodellen (decision models) bestimmt. Diskussionen auf Hacker News und GitHub konzentrieren sich auf die riskanten Interaktionen autonomer Systeme auf Plattformen wie Hugging Face und das Konzept der kommerzialisierten Intelligenz (commodified intelligence).",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "summary": "Paperclip ist eine Open-Source-Anwendung, mit der Sie KI-Agenten (AI agents) am Arbeitsplatz zentral verwalten können. Das in TypeScript entwickelte Tool erleichtert die Koordination der Arbeitsabläufe verschiedener Agenten und die Standardisierung operativer Prozesse.",
+          "meta": "TypeScript · ★ 85.663 · +2.109 heute",
+          "snapshot": {
+            "sourceId": "paperclipai/paperclip",
+            "capturedAt": "2026-09-26T09:07:56.034Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 85663,
+              "engagementCount": 2109,
+              "rank": 1,
+              "extra": {
+                "starsToday": 2109
+              }
+            }
+          }
+        },
+        {
+          "title": "anthropics/claude-plugins-official",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "summary": "Anthropic bündelt hochwertige Plugins für den KI-Assistenten Claude an einem zentralen Ort. Das Claude Code Plugins-Verzeichnis bietet Python-basierte Tools, die Entwickler in ihre Projekte integrieren können, in einer standardisierten Struktur.",
+          "meta": "Python · ★ 37.014 · +83 heute",
+          "snapshot": {
+            "sourceId": "anthropics/claude-plugins-official",
+            "capturedAt": "2026-09-26T09:07:56.034Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 37014,
+              "engagementCount": 83,
+              "rank": 2,
+              "extra": {
+                "starsToday": 83
+              }
+            }
+          }
+        },
+        {
+          "title": "vectorize-io/hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "summary": "Hindsight ist eine Python-Bibliothek, die es KI-Agenten ermöglicht, aus vergangenen Interaktionen zu lernen und ein Langzeitgedächtnis (long-term memory) aufzubauen. Sie ermöglicht es Entwicklern, ihren Agenten erfahrungsbasiertes Lernen zu verleihen, was im Laufe der Zeit zu konsistenteren und personalisierteren Antworten führt.",
+          "meta": "Python · ★ 30.381 · +1.653 heute",
+          "snapshot": {
+            "sourceId": "vectorize-io/hindsight",
+            "capturedAt": "2026-09-26T09:07:56.034Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 30381,
+              "engagementCount": 1653,
+              "rank": 3,
+              "extra": {
+                "starsToday": 1653
+              }
+            }
+          }
+        },
+        {
+          "title": "obra/superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "summary": "Superpowers, entwickelt von Obra, bietet ein Framework für agentische Fähigkeiten (agentic skills framework) und eine Softwareentwicklungsmethodik für KI-Agenten. Dieses Tool zielt darauf ab, die Arbeitsabläufe autonomer Systeme, die komplexe Aufgaben ausführen, zu standardisieren.",
+          "meta": "Shell · ★ 291.794 · +468 heute",
+          "snapshot": {
+            "sourceId": "obra/superpowers",
+            "capturedAt": "2026-09-26T09:07:56.034Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 291794,
+              "engagementCount": 468,
+              "rank": 4,
+              "extra": {
+                "starsToday": 468
+              }
+            }
+          }
+        },
+        {
+          "title": "mattpocock/skills",
+          "url": "https://github.com/mattpocock/skills",
+          "summary": "Dieses von Matt Pocock geteilte Repository bietet vorgefertigte Fähigkeitspakete (skills), die Softwareentwickler für KI-Agenten (AI agents) nutzen können. Diese Struktur, die Entwickler in ihren eigenen Projekten verwenden können, zielt darauf ab, agentenbasierte Arbeitsabläufe effizienter zu gestalten.",
+          "meta": "Shell · ★ 269.905 · +583 heute",
+          "snapshot": {
+            "sourceId": "mattpocock/skills",
+            "capturedAt": "2026-09-26T09:07:56.034Z",
+            "metadata": {
+              "language": "Shell",
+              "popularity": 269905,
+              "engagementCount": 583,
+              "rank": 5,
+              "extra": {
+                "starsToday": 583
+              }
+            }
+          }
+        },
+        {
+          "title": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "summary": "Univer ist eine Open-Source-Plattform, die Office-Tools wie Tabellenkalkulationen, Dokumente und Präsentationen in einer einzigen Laufzeitumgebung (runtime) vereint. Diese Struktur wurde entwickelt, um die Interaktion von KI-Agenten mit Office-Software zu erleichtern und ermöglicht die Verwaltung verschiedener Datentypen über eine einzige Schnittstelle.",
+          "meta": "TypeScript · ★ 18.873 · +1.050 heute",
+          "snapshot": {
+            "sourceId": "dream-num/univer",
+            "capturedAt": "2026-09-26T09:07:56.034Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 18873,
+              "engagementCount": 1050,
+              "rank": 6,
+              "extra": {
+                "starsToday": 1050
+              }
+            }
+          }
+        },
+        {
+          "title": "anthropics/skills",
+          "url": "https://github.com/anthropics/skills",
+          "summary": "Dieses von Anthropic geteilte Repository bietet wiederverwendbare Fähigkeitspakete (skills) für KI-Agenten. Es bildet eine Python-basierte Bibliotheksstruktur, die es Entwicklern ermöglicht, komplexe Arbeitsabläufe zu standardisieren.",
+          "meta": "Python · ★ 178.454 · +189 heute",
+          "snapshot": {
+            "sourceId": "anthropics/skills",
+            "capturedAt": "2026-09-26T09:07:56.034Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 178454,
+              "engagementCount": 189,
+              "rank": 7,
+              "extra": {
+                "starsToday": 189
+              }
+            }
+          }
+        },
+        {
+          "title": "androoAGI/starnet",
+          "url": "https://github.com/androoAGI/starnet",
+          "summary": "Starnet ist ein Desktop-Management-Tool, das es KI-Agenten ermöglicht, reale Aufgaben auf dem Computer auszuführen, basierend auf dem Local-First-Prinzip. Es ermöglicht Benutzern, ihre eigenen Schlüssel zu definieren und die Arbeitsabläufe von Agententeams über eine Pixel-Art-Oberfläche zu überwachen.",
+          "meta": "JavaScript · ★ 575 · +93 heute",
+          "snapshot": {
+            "sourceId": "androoAGI/starnet",
+            "capturedAt": "2026-09-26T09:07:56.034Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 575,
+              "engagementCount": 93,
+              "rank": 8,
+              "extra": {
+                "starsToday": 93
+              }
+            }
+          }
+        },
+        {
+          "title": "derv82/wifit3",
+          "url": "https://github.com/derv82/wifit3",
+          "summary": "Wifit3 ist ein Python-Tool zum Testen der Sicherheit von Drahtlosnetzwerken, das ausschließlich mit USB-Geräten funktioniert und verschiedene Betriebssysteme unterstützt. Es ist eine plattformübergreifende Alternative zur beliebten Sicherheitssoftware Wifite, die Netzwerkprüfungsprozesse automatisiert.",
+          "meta": "Python · ★ 1.060 · +183 heute",
+          "snapshot": {
+            "sourceId": "derv82/wifit3",
+            "capturedAt": "2026-09-26T09:07:56.034Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 1060,
+              "engagementCount": 183,
+              "rank": 9,
+              "extra": {
+                "starsToday": 183
+              }
+            }
+          }
+        },
+        {
+          "title": "kelseyhightower/kubernetes-the-hard-way",
+          "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
+          "summary": "Kubernetes the Hard Way, erstellt von Kelsey Hightower, ist ein Leitfaden, der lehrt, wie man die Container-Management-Plattform Kubernetes von Grund auf ohne Automatisierungsskripte installiert. Diese Arbeit bietet eine technische Schulungsressource für Benutzer, die die grundlegenden Komponenten und Funktionsprinzipien des Systems durch manuelle Konfigurationsprozesse verstehen möchten.",
+          "meta": "★ 50.174 · +119 heute",
+          "snapshot": {
+            "sourceId": "kelseyhightower/kubernetes-the-hard-way",
+            "capturedAt": "2026-09-26T09:07:56.034Z",
+            "metadata": {
+              "popularity": 50174,
+              "engagementCount": 119,
+              "rank": 10,
+              "extra": {
+                "starsToday": 119
+              }
+            }
+          }
+        },
+        {
+          "title": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "summary": "ai-engineering-from-scratch bietet einen Python-basierten Schulungsleitfaden, der Softwareentwicklern die Grundlagen der Erstellung von KI-Anwendungen vermittelt. Das Projekt erklärt den gesamten Entwicklungszyklus, vom Training der KI-Modelle bis hin zur Bereitstellung, anhand praktischer Beispiele.",
+          "meta": "Python · ★ 57.797 · +1.177 heute",
+          "snapshot": {
+            "sourceId": "rohitg00/ai-engineering-from-scratch",
+            "capturedAt": "2026-09-26T09:07:56.034Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 57797,
+              "engagementCount": 1177,
+              "rank": 11,
+              "extra": {
+                "starsToday": 1177
+              }
+            }
+          }
+        },
+        {
+          "title": "shy3130/tick-stock-panel",
+          "url": "https://github.com/shy3130/tick-stock-panel",
+          "summary": "Tick-stock-panel ist eine anpassbare Plattform zur Aktienauswahl, -überwachung und zum Backtesting, die mit chinesischen Börsendaten (A-Shares) arbeitet. Es ist ein Open-Source-Python-Tool, das die Strategieentwicklung und Aktienanalyseprozesse mithilfe von Large Language Models automatisiert.",
+          "meta": "Python · ★ 5.204 · +44 heute",
+          "snapshot": {
+            "sourceId": "shy3130/tick-stock-panel",
+            "capturedAt": "2026-09-26T09:07:56.034Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 5204,
+              "engagementCount": 44,
+              "rank": 12,
+              "extra": {
+                "starsToday": 44
+              }
+            }
+          }
+        },
+        {
+          "title": "google/ax",
+          "url": "https://github.com/google/ax",
+          "summary": "Das von Google entwickelte Ax bietet eine Open-Source-Orchestrierungs-Runtime für KI-Agenten. Diese in Go geschriebene Plattform erleichtert die Verwaltung und Ausführung komplexer agentischer Workflows.",
+          "meta": "Go · ★ 11.703 · +1.379 heute",
+          "snapshot": {
+            "sourceId": "google/ax",
+            "capturedAt": "2026-09-26T09:07:56.034Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 11703,
+              "engagementCount": 1379,
+              "rank": 13,
+              "extra": {
+                "starsToday": 1379
+              }
+            }
+          }
+        },
+        {
+          "title": "NVIDIA/Model-Optimizer",
+          "url": "https://github.com/NVIDIA/Model-Optimizer",
+          "summary": "Der von NVIDIA entwickelte Model Optimizer steigert die Leistung, indem er Deep-Learning-Modelle durch Methoden wie Quantisierung, Destillation und Pruning komprimiert. Diese Bibliothek bereitet optimierte Modelle für eine schnellere Ausführung in Inferenz-Engines wie TensorRT-LLM vor.",
+          "meta": "Python · ★ 4.563 · +359 heute",
+          "snapshot": {
+            "sourceId": "NVIDIA/Model-Optimizer",
+            "capturedAt": "2026-09-26T09:07:56.034Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 4563,
+              "engagementCount": 359,
+              "rank": 14,
+              "extra": {
+                "starsToday": 359
+              }
+            }
+          }
+        },
+        {
+          "title": "pbakaus/impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "summary": "Impeccable ist eine Designsprache, die entwickelt wurde, um die Designausgaben von KI-Modellen zu verbessern. Dieses JavaScript-basierte Tool zielt darauf ab, die visuellen und strukturellen Designentscheidungen von KI-Systemen konsistenter zu gestalten.",
+          "meta": "JavaScript · ★ 71.352 · +306 heute",
+          "snapshot": {
+            "sourceId": "pbakaus/impeccable",
+            "capturedAt": "2026-09-26T09:07:56.034Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 71352,
+              "engagementCount": 306,
+              "rank": 15,
+              "extra": {
+                "starsToday": 306
+              }
+            }
+          }
+        },
+        {
+          "title": "openbao/openbao",
+          "url": "https://github.com/openbao/openbao",
+          "summary": "OpenBao ist eine Sicherheitssoftware zur Verwaltung, Speicherung und Verteilung sensibler Daten wie Passwörter, Zertifikate und Verschlüsselungsschlüssel. Das in Go geschriebene Tool bietet einen zentralen Kontrollpunkt zur Gewährleistung der Sicherheit kritischer Daten.",
+          "meta": "Go · ★ 7.846 · +49 heute",
+          "snapshot": {
+            "sourceId": "openbao/openbao",
+            "capturedAt": "2026-09-26T09:07:56.034Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 7846,
+              "engagementCount": 49,
+              "rank": 16,
+              "extra": {
+                "starsToday": 49
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "url": "https://swarmtraces.org/",
+          "summary": "Swarmtraces bietet eine Analyse, die detailliert aufzeigt, wie KI-Agenten eine Sicherheitslücke auf Hugging Face ausnutzen. Die Studie untersucht aus technischer Perspektive die Methoden und Schwachstellen, die autonome Agenten beim Zugriff auf Systeme nutzen.",
+          "meta": "468 Punkte · 283 Kommentare",
+          "snapshot": {
+            "sourceId": "49849985",
+            "capturedAt": "2026-09-26T09:07:54.998Z",
+            "metadata": {
+              "popularity": 468,
+              "engagementCount": 283,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49849985",
+                  "popularity": 468,
+                  "engagementCount": 283
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "specked-citrus",
+                "createdAt": "2026-09-25T21:09:27Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49849985"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49849985",
+              "popularity": 468,
+              "engagementCount": 283
+            }
+          ]
+        },
+        {
+          "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+          "url": "https://ollaya.dev/",
+          "summary": "Ollaya ist eine Plattform, die es ermöglicht, Entscheidungsmodelle (Decision Models) auf Ollama, einem Tool zum Ausführen lokaler Sprachmodelle, zu betreiben. Sie ermöglicht es Benutzern, komplexe logische Prozesse mit Open-Source-Modellen zu automatisieren.",
+          "meta": "443 Punkte · 117 Kommentare",
+          "snapshot": {
+            "sourceId": "49848269",
+            "capturedAt": "2026-09-26T09:07:54.998Z",
+            "metadata": {
+              "popularity": 443,
+              "engagementCount": 117,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49848269",
+                  "popularity": 443,
+                  "engagementCount": 117
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "Ardakilic",
+                "createdAt": "2026-09-25T18:33:50Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49848269"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49848269",
+              "popularity": 443,
+              "engagementCount": 117
+            }
+          ]
+        },
+        {
+          "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+          "summary": "Ein US-Berufungsgericht hat die Entscheidung bestätigt, dass das KI-Unternehmen Anthropic ein Lieferkettenrisiko darstellt. Diese Entscheidung führt zu Einschränkungen bei der Teilnahme von Anthropic, das Verteidigungstechnologien entwickelt, an öffentlichen Ausschreibungen und bei dessen Status in öffentlichen Projekten.",
+          "meta": "441 Punkte · 762 Kommentare",
+          "snapshot": {
+            "sourceId": "49845977",
+            "capturedAt": "2026-09-26T09:07:54.998Z",
+            "metadata": {
+              "popularity": 441,
+              "engagementCount": 762,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49845977",
+                  "popularity": 441,
+                  "engagementCount": 762
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "cramer4next",
+                "createdAt": "2026-09-25T15:29:25Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49845977"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49845977",
+              "popularity": 441,
+              "engagementCount": 762
+            }
+          ]
+        },
+        {
+          "title": "Plan mode is dead",
+          "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+          "summary": "In KI-gestützten Codierungstools wird der „Planungsmodus“ (Plan Mode), der vor der Ausführung eine Planung durch den Benutzer erfordert, zunehmend durch die direkte Implementierungsphase ersetzt. Entwickler bevorzugen schnellere Workflows, bei denen die KI den Code sofort schreibt und korrigiert, anstatt vorbereitende Phasen zu durchlaufen, die komplexe Prozesse in Teile zerlegen.",
+          "meta": "307 Punkte · 286 Kommentare",
+          "snapshot": {
+            "sourceId": "49840054",
+            "capturedAt": "2026-09-26T09:07:54.998Z",
+            "metadata": {
+              "popularity": 307,
+              "engagementCount": 286,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49840054",
+                  "popularity": 307,
+                  "engagementCount": 286
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "jmvldz",
+                "createdAt": "2026-09-25T03:59:11Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49840054"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49840054",
+              "popularity": 307,
+              "engagementCount": 286
+            }
+          ]
+        },
+        {
+          "title": "First Principles Thinking",
+          "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
+          "summary": "Das Denken in Grundprinzipien (First Principles Thinking) ist eine Analysemethode, die es ermöglicht, komplexe Probleme in ihre kleinsten und verifizierbaren Bestandteile zu zerlegen und neu aufzubauen. Dieser Ansatz konzentriert sich darauf, originelle Lösungen durch die Analyse der grundlegenden Fakten eines Themas zu generieren, anstatt bestehende Annahmen oder traditionelle Methoden zu kopieren.",
+          "meta": "259 Punkte · 112 Kommentare",
+          "snapshot": {
+            "sourceId": "49844736",
+            "capturedAt": "2026-09-26T09:07:54.998Z",
+            "metadata": {
+              "popularity": 259,
+              "engagementCount": 112,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49844736",
+                  "popularity": 259,
+                  "engagementCount": 112
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "sunils34",
+                "createdAt": "2026-09-25T13:55:37Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49844736"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49844736",
+              "popularity": 259,
+              "engagementCount": 112
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "convaiinnovations/laya",
+          "url": "https://huggingface.co/convaiinnovations/laya",
+          "summary": "Laya, das auf HuggingFace geteilt wurde, ist ein KI-Modell, das für Textklassifizierungsaufgaben entwickelt wurde. Dieses Tool, das es Benutzern ermöglicht, Textdaten in bestimmte Kategorien einzuteilen, bietet eine praktische Lösung für Prozesse der natürlichen Sprachverarbeitung (Natural Language Processing).",
+          "meta": "♥ 3.752 · 0 Downloads",
+          "snapshot": {
+            "sourceId": "convaiinnovations/laya",
+            "capturedAt": "2026-09-26T09:07:54.875Z",
+            "metadata": {
+              "popularity": 3752,
+              "engagementCount": 0,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 3374,
+                "pipelineTag": "text-classification",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "laya",
+                  "system-one",
+                  "calibrated-decisions",
+                  "rlcd",
+                  "classification",
+                  "routing",
+                  "scoring",
+                  "guardrails",
+                  "moderation",
+                  "reinforcement-learning",
+                  "commercial-use",
+                  "text-classification",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen-Image-2.1",
+          "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+          "summary": "Qwen-Image-2.1, entwickelt von Alibaba, ist ein Text-zu-Bild-Modell, das Bilder aus Textbefehlen generiert. Dieses Modell, das auf der Open-Source-KI-Plattform HuggingFace geteilt wird, bietet eine leistungsstarke Alternative für visuelle Produktionsprozesse.",
+          "meta": "♥ 2.353 · 42.469 Downloads",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen-Image-2.1",
+            "capturedAt": "2026-09-26T09:07:54.875Z",
+            "metadata": {
+              "popularity": 2353,
+              "engagementCount": 42469,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 2174,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "diffusers",
+                  "safetensors",
+                  "qwen",
+                  "image-generation",
+                  "image-editing",
+                  "rgba",
+                  "text-to-image",
+                  "license:other",
+                  "diffusers:QwenImage21Pipeline",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "summary": "Qwen-Image-2.1-Uncensored, geteilt von Abenzerps, ist ein KI-Modell mit Text-zu-Bild-Fähigkeiten. Mit seiner unzensierten Struktur bietet das Modell den Nutzern einen größeren Freiraum bei der Erstellung von Inhalten.",
+          "meta": "♥ 1.847 · 715.906 Downloads",
+          "snapshot": {
+            "sourceId": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+            "capturedAt": "2026-09-26T09:07:54.875Z",
+            "metadata": {
+              "popularity": 1847,
+              "engagementCount": 715906,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 1611,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "gguf",
+                  "qwen",
+                  "image-generation",
+                  "comfyui",
+                  "comfyui-gguf",
+                  "text-to-image",
+                  "base_model:Qwen/Qwen-Image-2.1",
+                  "base_model:quantized:Qwen/Qwen-Image-2.1",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "XingChen-AGI/Xing4.0-29B-A4B",
+          "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+          "summary": "Xing4.0-29B-A4B, entwickelt von XingChen-AGI, ist ein großes Sprachmodell, das auf Textgenerierung spezialisiert ist. Dieses auf HuggingFace veröffentlichte Modell wird aufgrund seiner umfangreichen Parameterstruktur für verschiedene Aufgaben der natürlichen Sprachverarbeitung eingesetzt.",
+          "meta": "♥ 1.692 · 42.950 Downloads",
+          "snapshot": {
+            "sourceId": "XingChen-AGI/Xing4.0-29B-A4B",
+            "capturedAt": "2026-09-26T09:07:54.875Z",
+            "metadata": {
+              "popularity": 1692,
+              "engagementCount": 42950,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 1119,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "xing4_0",
+                  "text-generation",
+                  "conversational",
+                  "custom_code",
+                  "arxiv:2512.24157",
+                  "arxiv:2507.18013",
+                  "license:apache-2.0",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+          "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+          "summary": "Ternary-Bonsai-2-27B, entwickelt von Prism-ml, ist ein für die Textgenerierung optimiertes KI-Modell. Das im GGUF-Format angebotene Modell zielt darauf ab, leistungsstarke Sprachverarbeitungsaufgaben mit geringeren Hardwareanforderungen auszuführen.",
+          "meta": "♥ 2.105 · 3.109.078 Downloads",
+          "snapshot": {
+            "sourceId": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+            "capturedAt": "2026-09-26T09:07:54.875Z",
+            "metadata": {
+              "popularity": 2105,
+              "engagementCount": 3109078,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 952,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "llama.cpp",
+                  "gguf",
+                  "ternary",
+                  "2-bit",
+                  "llama-cpp",
+                  "cuda",
+                  "metal",
+                  "on-device",
+                  "hybrid-attention",
+                  "prismml",
+                  "bonsai",
+                  "text-generation",
+                  "base_model:Qwen/Qwen3.8-27B",
+                  "base_model:quantized:Qwen/Qwen3.8-27B",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us",
+                  "conversational"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Learning to Discover Interesting Mathematics",
+          "url": "https://huggingface.co/papers/2609.28603",
+          "summary": "Große Sprachmodelle (Large Language Models) gewinnen an Kompetenz bei der Lösung komplexer mathematischer Probleme und der Generierung neuer Theoreme. Forscher definieren eine neue Methode, die auf dem Zusammenhang zwischen der Länge des Beweises eines Theorems und dem Informationsgehalt basiert, um den ursprünglichen Wert und die Nützlichkeit des von diesen Modellen erzeugten mathematischen Wissens zu messen.",
+          "meta": "6 Likes · 2 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.28603",
+            "capturedAt": "2026-09-26T09:07:54.882Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.28603",
+                "publishedAt": "2026-09-23T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "RGBD20K: A Large-Scale Benchmark for RGB-D Semantic Segmentation",
+          "url": "https://huggingface.co/papers/2609.29028",
+          "summary": "RGBD20K ist ein groß angelegter Datensatz, der für das Training von Modellen zur semantischen Segmentierung entwickelt wurde, die Farb- und Tiefendaten (RGB-D) kombinieren. Diese Ressource umfasst 160 verschiedene Kategorien und bietet eine höhere Vielfalt sowie detailliertere Etikettierung im Vergleich zu bestehenden populären Datensätzen (NYUv2, SUN RGB-D).",
+          "meta": "7 Likes · 2 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.29028",
+            "capturedAt": "2026-09-26T09:07:54.882Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.29028",
+                "publishedAt": "2026-09-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/ShaohuaDong2021/RGBD20K",
+                "githubStars": 4
+              }
+            }
+          }
+        },
+        {
+          "title": "AV-GRPO: Modality-Anchored Decoupling Diffusion Reinforcement Learning for Joint Audio-Video Generation",
+          "url": "https://huggingface.co/papers/2609.29816",
+          "summary": "AV-GRPO ist eine modalitätsorientierte Methode des verstärkenden Lernens (Reinforcement Learning), die entwickelt wurde, um Koordinationsprobleme bei der Audio- und Videoproduktion zu lösen. Durch die Trennung von Belohnungssignalen aus verschiedenen Datentypen zielt sie darauf ab, die Synchronisation zwischen Audio und Video sowie die Übereinstimmung mit dem Text zu verbessern.",
+          "meta": "3 Likes · 2 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.29816",
+            "capturedAt": "2026-09-26T09:07:54.882Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 2,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.29816",
+                "publishedAt": "2026-09-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/zhiyuxu03/AV-GRPO",
+                "githubStars": 13
+              }
+            }
+          }
+        },
+        {
+          "title": "Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs",
+          "url": "https://huggingface.co/papers/2609.29845",
+          "summary": "Die Transformer-Architektur, die großen Sprachmodellen (LLM) zugrunde liegt, kann bei der Kombination von Eingaben aus verschiedenen Textströmen beide Wahrscheinlichkeitsverteilungen gleichzeitig als Ausgabe liefern. Dieser Zustand, der als Superposition Linearity Hypothesis bezeichnet wird, zeigt, dass Modelle trotz ihrer komplexen Struktur eine grundlegende Linearität aufweisen.",
+          "meta": "58 Likes · 2 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.29845",
+            "capturedAt": "2026-09-26T09:07:54.882Z",
+            "metadata": {
+              "popularity": 58,
+              "engagementCount": 2,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.29845",
+                "publishedAt": "2026-09-24T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures",
+          "url": "https://huggingface.co/papers/2609.29429",
+          "summary": "Jev ist ein Modell, das mit der Methode des durch Reinforcement Learning kalibrierten Entscheidens (RLCD) trainiert wurde und in einem einzigen Aufruf probabilistische Antworten auf mehrere Fragen zu Texteingaben gibt. Im Gegensatz zu bestehenden Klassifikatoren, die zur Erkennung von Ausrichtungsfehlern (Alignment Failures) in Sprachmodellen verwendet werden, bietet es einen flexibleren und effizienteren Bewertungsprozess.",
+          "meta": "2 Likes · 2 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.29429",
+            "capturedAt": "2026-09-26T09:07:54.882Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.29429",
+                "publishedAt": "2026-09-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/sumleo/RLCDAlignBench",
+                "githubStars": 3
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Commodified Intelligence",
+          "url": "https://herecomesthemoon.net/2026/09/commodified-intelligence/",
+          "summary": "Die Kommodifizierung von KI-Modellen ermöglicht es, Intelligenz als Standard-Input in Softwareentwicklungsprozessen zu positionieren. Dies erlaubt es, komplexe kognitive Fähigkeiten als leicht zugängliche und skalierbare Dienste (Commodity Services) über Anwendungsentwicklungsplattformen zu konsumieren.",
+          "meta": "29 Punkte · 27 Kommentare",
+          "snapshot": {
+            "sourceId": "nidcls",
+            "capturedAt": "2026-09-26T09:07:55.138Z",
+            "metadata": {
+              "popularity": 29,
+              "engagementCount": 27,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/nidcls/commodified_intelligence",
+                  "popularity": 29,
+                  "engagementCount": 27
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-25T13:24:29.215-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/nidcls/commodified_intelligence",
+              "popularity": 29,
+              "engagementCount": 27
+            }
+          ]
+        },
+        {
+          "title": "What About Rails?",
+          "url": "https://jardo.dev/what-about-rails",
+          "summary": "Ruby on Rails wird aufgrund seiner auf Geschwindigkeit und Effizienz ausgerichteten Struktur in modernen Webentwicklungsprozessen neu bewertet. Softwareentwickler bevorzugen die integrierte Entwicklungsumgebung (monolithisches Framework), die Rails bietet, als Alternative zu komplexen Microservice-Architekturen.",
+          "meta": "46 Punkte · 16 Kommentare",
+          "snapshot": {
+            "sourceId": "rvvqos",
+            "capturedAt": "2026-09-26T09:07:55.138Z",
+            "metadata": {
+              "popularity": 46,
+              "engagementCount": 16,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/rvvqos/what_about_rails",
+                  "popularity": 46,
+                  "engagementCount": 16
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "ruby",
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-25T09:44:57.530-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/rvvqos/what_about_rails",
+              "popularity": 46,
+              "engagementCount": 16
+            }
+          ]
+        },
+        {
+          "title": "Goodbye Google",
+          "url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
+          "summary": "Der Softwareentwickler Robert O'Callahan erklärt, dass er die Dienste von Google aufgrund des Qualitätsverlusts in den Suchergebnissen und der werbeorientierten Strategien des Unternehmens nicht mehr nutzt. Er strukturiert sein persönliches digitales Ökosystem neu, indem er von der Suchmaschine Google auf unabhängige Alternativen umsteigt.",
+          "meta": "84 Punkte · 16 Kommentare",
+          "snapshot": {
+            "sourceId": "sxlf4a",
+            "capturedAt": "2026-09-26T09:07:55.138Z",
+            "metadata": {
+              "popularity": 84,
+              "engagementCount": 16,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/sxlf4a/goodbye_google",
+                  "popularity": 84,
+                  "engagementCount": 16
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "ai",
+                  "person"
+                ],
+                "createdAt": "2026-09-25T00:51:12.558-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/sxlf4a/goodbye_google",
+              "popularity": 84,
+              "engagementCount": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI agents",
+      "explanation": "Software, die eigenständig Entscheidungen treffen und bestimmte Aufgaben ohne menschliches Eingreifen ausführen kann."
+    },
+    {
+      "term": "plugins",
+      "explanation": "Kleine Erweiterungen, die verwendet werden, um einer Software neue Funktionen hinzuzufügen."
+    },
+    {
+      "term": "long-term memory",
+      "explanation": "Die Fähigkeit der künstlichen Intelligenz, vergangene Informationen und Benutzerpräferenzen über einen langen Zeitraum zu speichern und für spätere Vorgänge zu nutzen."
+    },
+    {
+      "term": "agentic skills framework",
+      "explanation": "Ein strukturelles System, das die Fähigkeiten organisiert, die Software benötigt, um komplexe Aufgaben Schritt für Schritt zu lösen."
+    },
+    {
+      "term": "skills",
+      "explanation": "Die spezialisierten Fähigkeiten, die eine Software besitzt, um eine bestimmte Aufgabe zu erfüllen."
+    },
+    {
+      "term": "runtime",
+      "explanation": "Die Zeitspanne, in der ein Programm auf einem Computer ausgeführt wird und aktiv seine Aufgabe erfüllt."
+    },
+    {
+      "term": "local-first",
+      "explanation": "Das Prinzip, bei dem Daten direkt im Speicher des Geräts gespeichert und verarbeitet werden, ohne dass eine Internetverbindung erforderlich ist."
+    },
+    {
+      "term": "A-share",
+      "explanation": "Eine Art von Aktie, die an chinesischen Börsen gehandelt wird und für lokale Investoren reserviert ist."
+    },
+    {
+      "term": "backtesting",
+      "explanation": "Das Testen, wie erfolgreich eine Anlagestrategie unter Verwendung historischer Daten wäre."
+    },
+    {
+      "term": "large language models",
+      "explanation": "KI-Modelle, die mit sehr großen Datenmengen trainiert wurden und menschliche Sprache verstehen sowie Texte generieren können."
+    },
+    {
+      "term": "quantization",
+      "explanation": "Das Speichern von Daten mit geringerer Präzision, um den Speicherbedarf von KI-Modellen zu reduzieren."
+    },
+    {
+      "term": "distillation",
+      "explanation": "Der Prozess der Übertragung des Wissens eines großen und komplexen KI-Modells auf ein anderes, kleineres und schneller arbeitendes Modell."
+    },
+    {
+      "term": "pruning",
+      "explanation": "Die Entschlackung eines KI-Modells durch das Entfernen unnötiger Verbindungen, die die Leistung des Modells nicht beeinträchtigen."
+    },
+    {
+      "term": "inference engine",
+      "explanation": "Die Softwarekomponente, die es einem trainierten KI-Modell ermöglicht, Vorhersagen auf Basis neuer Daten zu treffen."
+    },
+    {
+      "term": "design language",
+      "explanation": "Ein konsistentes Regelwerk für das Design, das den visuellen Stil, die Farben und die Art der Nutzung eines Produkts festlegt."
+    },
+    {
+      "term": "autonomous agents",
+      "explanation": "Intelligente Software, die ihre eigene Strategie entwickelt, um festgelegte Ziele zu erreichen, und autonom agiert."
+    }
+  ]
+}
