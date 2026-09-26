@@ -44,13 +44,13 @@ Açık kaynak faz dizili radar altyapısı geniş bir uygulama yelpazesine sahip
 - Meteorolojik ve atmosferik araştırmalar: Bulut hareketleri ve yağış yoğunluğunu yerel ölçekte mikro-Doppler yöntemleriyle analiz etme.
 
 ## Kod bilmiyorsanız
-🤖 Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 PLFM RADAR projesinin 10.5 GHz faz dizili donanım şemalarını ve FPGA sinyal işleme bloklarını incelemek istiyorum. FMCW cıvıltı sinyali üretimini, Menzil-Doppler 2D FFT hesaplamasını ve Python tabanlı PPI radar ekranına veri aktarımını açıklayan bir simülasyon Python betiği hazırlar mısın? Yapay bir hedef için mesafe ve hız tespit algoritmasını adım adım gösterir misin?
 
-- **Kimin için:** Radar araştırmacıları, savunma sanayii mühendisleri, drone geliştiricileri ve RF/SDR meraklıları.
-- **Lisans:** Açık kaynak donanım ve yazılım lisansı
-- **Frekans Bandı:** 10.5 GHz (X-Band) FMCW
-- **Hedef Menzili:** 3 km (Drone/Taktik) - 20 km (Geniş alan gözetleme)
+- **Kimin için:** Radar araştırmacıları, savunma sanayii mühendisleri, drone geliştiricileri ve RF/SDR meraklıları. 
+- **Lisans:** Açık kaynak donanım ve yazılım lisansı 
+- **Frekans Bandı:** 10.5 GHz (X-Band) FMCW 
+- **Hedef Menzili:** 3 km (Drone/Taktik) - 20 km (Geniş alan gözetleme) 
 
 ## Sıkça sorulan sorular
 - Sistemi evde veya laboratuvarda üretmek mümkün mü? Evet. Projenin tüm PCB şemaları, Gerber üretim dosyaları ve FPGA Verilog/VHDL kodları GitHub deposunda açık kaynak olarak sunulmuştur. Standart PCB üreticilerinden kartlar sipariş edilip laboratuvar ortamında lehimlenebilir.
@@ -59,10 +59,13 @@ PLFM RADAR projesinin 10.5 GHz faz dizili donanım şemalarını ve FPGA sinyal 
 - Hangi FPGA geliştirme kartlarıyla uyumludur? Xilinx Zynq-7000 serisi veya modern AMD UltraScale+ RFSoC kartları doğrudan desteklenir; yüksek hızlı ADC/DAC arayüzleri FMC konektörü üzerinden bağlanır.
 
 ## Bağlantılar
-- [GitHub →](https://github.com/NawfalMotii79/PLFM_RADAR)
+- [GitHub deposu →](https://github.com/NawfalMotii79/PLFM_RADAR)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-18 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 Edge Computing Open Source Local Offline
 
 ---
-Source: TreScout Discover · https://trescout.com/discover/plfm-radar/
+Kaynak: TreScout Keşif · https://trescout.com/discover/plfm-radar/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.

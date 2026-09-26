@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Checkstyle · Keşif · TreScout</title>
-<meta name="description" content="Checkstyle, Java programcılarının belirlenen kodlama standartlarına uygun yazılım geliştirmesine yardımcı olan bir analiz…">
+<meta name="description" content="Checkstyle, Java projelerinde Google Java Style ve Sun kod kurallarına uyumu otomatik denetleyen, CI/CD boru hatlarına entegre edilebilen öncü bir statik analiz aracıdır.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/discover/checkstyle.md">
 <link rel="canonical" href="https://trescout.com/discover/checkstyle/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/checkstyle/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/checkstyle/">
 <meta property="og:title" content="Checkstyle">
-<meta property="og:description" content="Checkstyle, Java programcılarının belirlenen kodlama standartlarına uygun yazılım geliştirmesine yardımcı olan bir analiz…">
+<meta property="og:description" content="Checkstyle, Java projelerinde Google Java Style ve Sun kod kurallarına uyumu otomatik denetleyen, CI/CD boru hatlarına entegre edilebilen öncü bir statik analiz aracıdır.">
 <meta property="og:url" content="https://trescout.com/discover/checkstyle/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -27,15 +27,15 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Checkstyle">
-<meta name="twitter:description" content="Checkstyle, Java programcılarının belirlenen kodlama standartlarına uygun yazılım geliştirmesine yardımcı olan bir analiz…">
+<meta name="twitter:description" content="Checkstyle, Java projelerinde Google Java Style ve Sun kod kurallarına uyumu otomatik denetleyen, CI/CD boru hatlarına entegre edilebilen öncü bir statik analiz aracıdır.">
 <meta name="twitter:image" content="https://trescout.com/assets/discover/og/checkstyle.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Checkstyle",
+  "headline": "Java kodlarında kurumsal stil ve kalite denetimi",
   "inLanguage": "tr",
-  "description": "Checkstyle, Java programcılarının belirlenen kodlama standartlarına uygun yazılım geliştirmesine yardımcı olan bir analiz aracıdır. Google Java Stil Rehberi (Google Java Style Guide) ve Sun Kod Kuralları (Sun Code Conventions) gibi standartları destekleyerek kod kalitesini denetler.",
+  "description": "Checkstyle, Java projelerinde Google Java Style ve Sun kod kurallarına uyumu otomatik denetleyen, CI/CD boru hatlarına entegre edilebilen öncü bir statik analiz aracıdır.",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -67,13 +67,24 @@
 <article class="disc">
 <a class="disc-back" href="/discover/">← Keşif</a>
 <div class="disc-top"><span class="disc-eyebrow">Keşif · GitHub</span><span class="disc-momentum">↑ +115 bugün</span></div>
-<h1 class="disc-title">Checkstyle</h1>
-<p class="disc-lead">Checkstyle, Java programcılarının belirlenen kodlama standartlarına uygun yazılım geliştirmesine yardımcı olan bir analiz aracıdır. Google Java Stil Rehberi (Google Java Style Guide) ve Sun Kod Kuralları (Sun Code Conventions) gibi standartları destekleyerek kod kalitesini denetler.</p>
+<h1 class="disc-title">Java kodlarında kurumsal stil ve kalite denetimi</h1>
+<p class="disc-lead">Checkstyle, Java projelerinde Google Java Style ve Sun kod kurallarına uyumu otomatik denetleyen, CI/CD boru hatlarına entegre edilebilen öncü bir statik analiz aracıdır.</p>
 <ul class="disc-meta"><li>★ 9.288</li><li>Java</li><li>GitHub Trending · 2026-08-31</li></ul>
-      
-<section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links"><li><a href="https://github.com/checkstyle/checkstyle" target="_blank" rel="noopener">GitHub deposu →</a></li></ul></section>
+      <section class="disc-sec"><h2>Güncelleme</h2><ul class="disc-wins"><li><strong>31 Ağustos 2026:</strong> Yıldız 9.288, sürüm v10.18.0 ile Java 23 dil özellikleri ve gelişmiş AST kural denetimi.</li></ul></section>
+      <section class="disc-sec"><h2>Ne kazandırır?</h2><ul class="disc-wins"><li><strong>Kurumsal standartlara uyum:</strong> Google Java Style ve Sun Code Conventions şablonları ile ekip genelinde sıfır biçimlendirme tartışması.</li><li><strong>Soyut sözdizim ağacı (AST) analizi:</strong> Yalnızca metin araması değil, Java kodunun anlamsal gramer yapısını derinlemesine denetleyebilme.</li><li><strong>Zengin dahili kural kütüphanesi:</strong> İsimlendirme standartları, boşluk düzeni, iç içe blok derinliği, javadoc eksiklikleri ve karmaşıklık metrikleri.</li><li><strong>Derleme aracı ekosistemi:</strong> Maven (maven-checkstyle-plugin) ve Gradle eklentileri ile derleme adımında otomatik kalite kapısı.</li><li><strong>Özelleştirilebilir XML yapılandırması:</strong> Ekip gereksinimlerine göre kuralları esnetme, dışlama (suppression) ve uyarı/hata seviyelerini yönetme.</li></ul></section>
+      <section class="disc-sec"><h2>Kurulum</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Bağımsız CLI jar dosyasını indir</span><button type="button" class="disc-copy" aria-label="Kopyala">Kopyala</button></div><pre><code>curl -sSL -O https://github.com/checkstyle/checkstyle/releases/download/checkstyle-10.18.0/checkstyle-10.18.0-all.jar</code></pre></div></section>
+      <section class="disc-sec"><h2>Çalıştırma</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Google Java Style kurallarıyla analiz et</span><button type="button" class="disc-copy" aria-label="Kopyala">Kopyala</button></div><pre><code>java -jar checkstyle-10.18.0-all.jar -c /google_checks.xml src/
+# veya Maven ile:
+./mvnw checkstyle:check</code></pre></div></section>
+      <section class="disc-sec"><h2>Teknik mimari ve çalışma prensibi</h2><p>Checkstyle, Java kaynak dosyalarını AST ağaçlarına dönüştürerek kural tabanlı gezinen bir denetim mimarisi kullanır:</p><ul class="disc-wins"><li><strong>Java Parser ve ANTLR Altyapısı:</strong> ANTLR tabanlı gramer çözümleyici ile her sınıfı, metodu ve ifadeyi ağaç düğümlerine ayırır.</li><li><strong>Olay Tabanlı Ziyaretçi (Visitor) Deseni:</strong> Her kural denetleyicisi yalnızca ilgilendiği AST düğümlerine abone olarak yüksek performanslı tarama sağlar.</li><li><strong>SuppressionFilter ve Yorum İhlal İstisnaları:</strong> CHECKSTYLE:OFF etiketleri veya XML filtreleriyle belirli satır ve sınıfları denetim dışı bırakabilme.</li></ul></section>
+      <section class="disc-sec"><h2>Kural setleri ve CI/CD entegrasyonu</h2><p>Checkstyle'ı yazılım geliştirme döngüsünün parçası haline getirmek kod kalitesini kalıcı olarak güvenceye alır:</p><ul class="disc-steps"><li><strong>GitHub Actions ile Pull Request Kapısı:</strong> Her PR açıldığında checkstyle denetimini çalıştırarak standart dışı kodların ana dala girmesini engelleyin.</li><li><strong>IDE Entegrasyonu (IntelliJ & Eclipse):</strong> Geliştiricilerin kod yazarken gerçek zamanlı stil uyarıları almasını sağlayarak geri bildirim döngüsünü hızlandırın.</li><li><strong>HTML ve XML Raporları Üretimi:</strong> Kod tabanındaki teknik borcu ve stil ihlallerini grafik ve tablolar halinde raporlayarak arşivleyin.</li></ul></section>
+      <section class="disc-sec"><h2>Kod bilmiyorsanız</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın</span><button type="button" class="disc-copy" aria-label="Kopyala">Kopyala</button></div><p class="disc-ai-text">Mevcut bir Spring Boot projesinde Maven ile Checkstyle eklentisini nasıl yapılandıracağımı, Google Java Style kurallarını nasıl temel alacağımı ve ekip standartlarımıza göre satır uzunluğu sınırını 120 karaktere nasıl güncelleyeceğimi pom.xml ve checkstyle.xml örnekleriyle açıklar mısın?</p></div></section>
+      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Kimin için</span><span class="disc-fact-v">Java geliştiricileri, yazılım mimarları, kalite güvence ekipleri ve teknik liderler.</span></div><div class="disc-fact"><span class="disc-fact-k">Lisans</span><span class="disc-fact-v">LGPL-2.1 (Açık kaynak kütüphane lisansı)</span></div><div class="disc-fact"><span class="disc-fact-k">Çatı</span><span class="disc-fact-v">Java Statik Kod Analiz Aracı</span></div><div class="disc-fact"><span class="disc-fact-k">Platformlar</span><span class="disc-fact-v">JVM (Java Virtual Machine), Linux, macOS, Windows</span></div></div>
+      <section class="disc-sec"><h2>Sıkça sorulan sorular</h2><ul class="disc-wins"><li><strong>Checkstyle kodumu otomatik olarak düzeltir mi?</strong> Hayır. Checkstyle kurallara uymayan satırları tespit eden bir analiz aracıdır (linter). Otomatik kod yeniden biçimlendirme için Spotless veya google-java-format gibi araçlarla birlikte kullanılır.</li><li><strong>Google Java Style ile Sun standartları arasındaki fark nedir?</strong> Sun standartları 1999 yılındaki orijinal Java kurallarını (4 boşluk girinti, 80 karakter satır) temel alır. Google Java Style ise 2 boşluk girinti ve 100 karakter sınırıyla modern endüstriyel pratiği yansıtır.</li><li><strong>Checkstyle derlemeyi durdurabilir mi?</strong> Evet. Maven veya Gradle üzerinde failOnViolation veya maxAllowedViolations parametreleriyle stil hatası bulunan kodların derlenmesi engellenebilir.</li><li><strong>Büyük projelerde performansı nasıldır?</strong> Checkstyle soyut sözdizim ağacı (AST) üzerinde çalıştığı için yüz binlerce satırlık projeleri dahi saniyeler içinde tarayabilir.</li></ul></section>
+      <section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links"><li><a href="https://github.com/checkstyle/checkstyle" target="_blank" rel="noopener">GitHub deposu →</a></li></ul></section>
 <p class="disc-disclaimer">TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-31 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.</p>
-<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related"><a href="/dictionary/google-java-style-guide/">Google Java Style Guide</a><a href="/dictionary/sun-code-conventions/">Sun Code Conventions</a></div></section>
+
+<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related"><a href="/dictionary/ci-cd/">CI/CD</a><a href="/dictionary/open-source/">Açık Kaynak</a><a href="/dictionary/cli/">CLI</a><a href="/dictionary/framework/">Framework</a><a href="/dictionary/api/">API</a></div></section>
       <aside class="disc-cta"><p><strong>Benzer keşifleri günlük raporda al.</strong> TreScout; GitHub, Hacker News ve HuggingFace trendlerini her gün tarar, öne çıkan açık kaynak araçları Türkçe özetler.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover" data-page-type="discover" data-content-slug="checkstyle" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/discover/">Tüm keşifler →</a></aside>
 </article>
 </main>

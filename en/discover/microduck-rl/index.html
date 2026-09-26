@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Microduck Rl · Discover · TreScout</title>
-<meta name="description" content="Developed by Pollen Robotics, microduck_rl is a reinforcement learning (reinforcement) learning tool for the robotics platform Microduck.">
+<meta name="description" content="Engineered by Pollen Robotics, microduck_rl provides physics-based reinforcement learning environments on MuJoCo and mjlab for the Microduck bipedal robot.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/en/discover/microduck-rl.md">
 <link rel="canonical" href="https://trescout.com/en/discover/microduck-rl/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/microduck-rl/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/microduck-rl/">
 <meta property="og:title" content="Microduck Rl">
-<meta property="og:description" content="Developed by Pollen Robotics, microduck_rl is a reinforcement learning (reinforcement) learning tool for the robotics platform Microduck.">
+<meta property="og:description" content="Engineered by Pollen Robotics, microduck_rl provides physics-based reinforcement learning environments on MuJoCo and mjlab for the Microduck bipedal robot.">
 <meta property="og:url" content="https://trescout.com/en/discover/microduck-rl/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
@@ -27,15 +27,15 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Microduck Rl">
-<meta name="twitter:description" content="Developed by Pollen Robotics, microduck_rl is a reinforcement learning (reinforcement) learning tool for the robotics platform Microduck.">
+<meta name="twitter:description" content="Engineered by Pollen Robotics, microduck_rl provides physics-based reinforcement learning environments on MuJoCo and mjlab for the Microduck bipedal robot.">
 <meta name="twitter:image" content="https://trescout.com/assets/discover/og/microduck-rl-en.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Microduck Rl",
+  "headline": "Reinforcement learning simulation suite for Microduck robotics",
   "inLanguage": "en",
-  "description": "Developed by Pollen Robotics, microduck_rl provides reinforcement learning training environments for the Microduck robotic platform. This Python-based library facilitates the development of robotic control algorithms on the physics-based simulation tool mjlab.",
+  "description": "Engineered by Pollen Robotics, microduck_rl provides physics-based reinforcement learning environments on MuJoCo and mjlab for the Microduck bipedal robot.",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -65,13 +65,27 @@
 <article class="disc">
 <a class="disc-back" href="/en/discover/">← Discover</a>
 <div class="disc-top"><span class="disc-eyebrow">Discover · GitHub</span><span class="disc-momentum">↑ +168 today</span></div>
-<h1 class="disc-title">Microduck Rl</h1>
-<p class="disc-lead">Developed by Pollen Robotics, microduck_rl provides reinforcement learning training environments for the Microduck robotic platform. This Python-based library facilitates the development of robotic control algorithms on the physics-based simulation tool mjlab.</p>
+<h1 class="disc-title">Reinforcement learning simulation suite for Microduck robotics</h1>
+<p class="disc-lead">Engineered by Pollen Robotics, microduck_rl provides physics-based reinforcement learning environments on MuJoCo and mjlab for the Microduck bipedal robot.</p>
 <ul class="disc-meta"><li>★ 1,001</li><li>Python</li><li>GitHub Trending · 2026-08-31</li></ul>
-      <section class="disc-sec"><h2>Related dictionary terms</h2><div class="disc-related"><a href="/en/dictionary/reinforcement-learning/">Reinforcement Learning</a></div></section>
+      <section class="disc-sec"><h2>Updates</h2><ul class="disc-wins"><li><strong>August 31, 2026:</strong> 1,001 stars, featuring MuJoCo mjlab physics integration and locomotion task environments.</li></ul></section>
+      <section class="disc-sec"><h2>What you get</h2><ul class="disc-wins"><li><strong>Accurate MuJoCo physics simulation:</strong> High-frequency simulation of joint torques, ground contact friction, and gravitational dynamics.</li><li><strong>Pre-packaged locomotion environments:</strong> Turnkey reward functions and gym environments for walking, balancing, and terrain traversal.</li><li><strong>Sim-to-Real transferability:</strong> Domain-randomized policies engineered for deployment onto physical Microduck robotics hardware.</li><li><strong>Modern reinforcement learning stack:</strong> Battle-tested integrations with Proximal Policy Optimization (PPO) and SAC algorithms.</li><li><strong>Interactive 3D visual rendering:</strong> Inspect policy behavior and gait trajectory in real-time visual physics viewports.</li></ul></section>
+      <section class="disc-sec"><h2>Installation</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Clone repository and install simulation suite</span><button type="button" class="disc-copy" aria-label="Copy">Copy</button></div><pre><code>git clone https://github.com/pollen-robotics/microduck_rl.git
+cd microduck_rl
+pip install -e .</code></pre></div></section>
+      <section class="disc-sec"><h2>Running it</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Run policy training or evaluation renderer</span><button type="button" class="disc-copy" aria-label="Copy">Copy</button></div><pre><code>python -m microduck_rl.train --task walk
+# Eğitilen politikayı simülatörde izleme:
+python -m microduck_rl.enjoy --checkpoint checkpoint.pt</code></pre></div></section>
+      <section class="disc-sec"><h2>Technical architecture and working principle</h2><p>microduck_rl bridges the MuJoCo physics engine with the standard Gymnasium API via mjlab:</p><ul class="disc-wins"><li><strong>MuJoCo & mjlab kinematic layer:</strong> Declarative MJCF/XML robot specifications modeling joint kinematics, actuator dynamics, and mass properties.</li><li><strong>Gymnasium observation and action spaces:</strong> Standardized continuous action vectors mapped to motor torques and IMU sensor observations.</li><li><strong>Domain randomization pipeline:</strong> Perturbs friction, link masses, and latency dynamically to ensure robust Sim-to-Real transferability.</li></ul></section>
+      <section class="disc-sec"><h2>Physics simulation and robotic control policies</h2><p>Robotics researchers utilize microduck_rl to design reliable locomotion policies in risk-free simulations:</p><ul class="disc-steps"><li><strong>Zero hardware risk during exploration:</strong> Eliminate robot tipping and servo burnout risks by training in virtual environments first.</li><li><strong>Accelerated parallel training throughput:</strong> Run simulations at 100x wall-clock speeds across parallel environments to complete training in hours.</li><li><strong>Custom terrain & obstacle benchmarking:</strong> Introduce slopes, staircases, and irregular friction patches to validate adaptive foot placement.</li></ul></section>
+      <section class="disc-sec"><h2>If you do not code</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Paste into your AI agent (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Copy">Copy</button></div><p class="disc-ai-text">I want to train a walking locomotion policy for the Microduck robot using Pollen Robotics' microduck_rl and MuJoCo. Can you guide me on configuring the simulation environment, executing PPO training, and preparing the policy for Sim-to-Real deployment?</p></div></section>
+      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Who it is for</span><span class="disc-fact-v">Robotics researchers, mechatronics engineers, reinforcement learning scientists, and roboticists.</span></div><div class="disc-fact"><span class="disc-fact-k">License</span><span class="disc-fact-v">Apache-2.0 (Open-source license)</span></div><div class="disc-fact"><span class="disc-fact-k">Framework</span><span class="disc-fact-v">Python, MuJoCo & mjlab Robotics Framework</span></div><div class="disc-fact"><span class="disc-fact-k">Platforms</span><span class="disc-fact-v">Linux, macOS, Windows</span></div></div>
+      <section class="disc-sec"><h2>Frequently asked questions</h2><ul class="disc-wins"><li><strong>Is physical Microduck hardware required to use this suite?</strong> No. The entire repository runs virtually inside MuJoCo physics viewports without requiring physical robotics hardware.</li><li><strong>Is a GPU strictly necessary?</strong> MuJoCo executes CPU-based multi-threading efficiently, but using an NVIDIA GPU with CUDA substantially accelerates parallel RL rollouts.</li><li><strong>How are trained checkpoints transferred to real hardware?</strong> Exported PyTorch or ONNX checkpoint tensors are transferred onto the on-board controller computer driving motor currents directly.</li><li><strong>Can other robot morphologies be trained?</strong> While tailored to Microduck kinematics, the mjlab environment architecture can be adapted to other bipedal or quadruped robots.</li></ul></section>
       <section class="disc-sec"><h2>Links</h2><ul class="disc-links"><li><a href="https://github.com/pollen-robotics/microduck_rl" target="_blank" rel="noopener">GitHub repository →</a></li><li><a href="https://trescout.com/discover/microduck-rl/">Read in Turkish →</a></li></ul></section>
 <p class="disc-disclaimer">TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-31: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was <strong>machine-translated</strong> from the Turkish original · the Turkish version prevails.</p>
-<aside class="disc-cta"><p><strong>Get similar discoveries in the daily report.</strong> TreScout scouts GitHub, Hacker News and HuggingFace trends daily, delivering curated summaries.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-en" data-page-type="discover" data-content-slug="microduck-rl" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/discover/">All discoveries →</a></aside>
+
+<section class="disc-sec"><h2>Related dictionary terms</h2><div class="disc-related"><a href="/en/dictionary/ai/">Artificial Intelligence</a><a href="/en/dictionary/open-source/">Open Source</a><a href="/en/dictionary/machine-learning/">Machine Learning</a><a href="/en/dictionary/cli/">CLI</a><a href="/en/dictionary/framework/">Framework</a></div></section>
+      <aside class="disc-cta"><p><strong>Get similar discoveries in the daily report.</strong> TreScout scouts GitHub, Hacker News and HuggingFace trends daily, delivering curated summaries.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-en" data-page-type="discover" data-content-slug="microduck-rl" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/discover/">All discoveries →</a></aside>
 </article>
 </main>
 <footer>

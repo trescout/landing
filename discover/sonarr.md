@@ -20,22 +20,22 @@ Sonarr, Usenet (haber grupları) ve BitTorrent kullanıcıları için geliştiri
 
 **Docker Compose ile kurulum**
 
-```yaml
+```
 services:
-  sonarr:
-    image: lscr.io/linuxserver/sonarr:latest
-    container_name: sonarr
-    environment:
-      - PUID=1000
-      - PGID=1000
-      - TZ=Europe/Istanbul
-    volumes:
-      - /opt/sonarr/data:/config
-      - /mnt/storage/media/tv:/tv
-      - /mnt/storage/downloads:/downloads
-    ports:
-      - 8989:8989
-    restart: unless-stopped
+sonarr:
+image: lscr.io/linuxserver/sonarr:latest
+container_name: sonarr
+environment:
+- PUID=1000
+- PGID=1000
+- TZ=Europe/Istanbul
+volumes:
+- /opt/sonarr/data:/config
+- /mnt/storage/media/tv:/tv
+- /mnt/storage/downloads:/downloads
+ports:
+- 8989:8989
+restart: unless-stopped
 ```
 
 ## Çalıştırma ve temel yapılandırma
@@ -67,13 +67,13 @@ Kusursuz bir ev medya sunucusu (Homelab) için Sonarr diğer açık kaynak araç
 - Plex veya Jellyfin kütüphane bildirimi: Yeni bir bölüm diske yazıldığında medya sunucusuna anında bildirim gönderip kütüphaneyi taratın.
 
 ## Kod bilmiyorsanız
-🤖 Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Ev sunucumda Docker üzerinde Sonarr, qBittorrent, Prowlarr ve Jellyfin servislerini birlikte çalıştırmak istiyorum. Sabit bağlantıların (hardlink) sorunsuz çalışması için tek bir kök dizin bağlama (volume mount) yapısını içeren eksiksiz bir docker-compose.yml dosyası ve Sonarr web panelinde yapmam gereken ilk ayarları adım adım açıklar mısın?
 
-- **Kimin için:** Ev sunucusu (Homelab) sahipleri, medya tutkunları ve dizi arşivlerini zahmetsizce yönetmek isteyenler.
-- **Lisans:** GPL-3.0 (Açık kaynak lisansı)
-- **Altyapı:** C# ve .NET tabanlı web servisi
-- **Web Portu:** Varsayılan 8989
+- **Kimin için:** Ev sunucusu (Homelab) sahipleri, medya tutkunları ve dizi arşivlerini zahmetsizce yönetmek isteyenler. 
+- **Lisans:** GPL-3.0 (Açık kaynak lisansı) 
+- **Altyapı:** C# ve .NET tabanlı web servisi 
+- **Web Portu:** Varsayılan 8989 
 
 ## Sıkça sorulan sorular
 - Sonarr dosyanın kendisini doğrudan indirir mi? Hayır. Sonarr bir indirme istemcisi değildir; bir yöneticidir. Arama yapar, torrent/NZB dosyasını qBittorrent veya SABnzbd gibi istemcilere iletir ve inen dosyayı arşiv klasörüne taşır.
@@ -82,10 +82,13 @@ Ev sunucumda Docker üzerinde Sonarr, qBittorrent, Prowlarr ve Jellyfin servisle
 - VPN kullanmak gerekir mi? Sonarr sadece RSS ve meta veri sorguları yaptığı için genellikle VPN gerektirmez; ancak torrent indirme istemcisinin (qBittorrent) bir VPN tüneli arkasında çalışması tavsiye edilir.
 
 ## Bağlantılar
-- [GitHub →](https://github.com/Sonarr/Sonarr)
+- [GitHub deposu →](https://github.com/Sonarr/Sonarr)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-12 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 Self-Hosted Offline Open Source Local
 
 ---
-Source: TreScout Discover · https://trescout.com/discover/sonarr/
+Kaynak: TreScout Keşif · https://trescout.com/discover/sonarr/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.

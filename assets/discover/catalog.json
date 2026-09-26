@@ -32648,7 +32648,7 @@
   {
     "slug": "googletest",
     "title": "Googletest",
-    "tagline": "Não foi possível produzir um resumo para este item hoje.",
+    "tagline": "GoogleTest, modern C++ projelerinde birim testleri ve mock nesneleri çalıştırmanızı sağlayan açık kaynak test çatısıdır.",
     "meta": "★ 38.987 · C++",
     "image": "/assets/discover/og/googletest.webp",
     "source": "GitHub",
@@ -32658,15 +32658,29 @@
     ],
     "stars": 38987,
     "summary": "Não foi possível produzir um resumo para este item hoje. Consulte o link da fonte para obter detalhes.",
-    "lite": true,
-    "needs_enrichment": true,
-    "enrich_reason": "komut_yok",
-    "tagline_en": "This is the most important product possible.",
-    "tagline_fr": "C'est le produit le plus important possible.",
-    "tagline_pt": "Este é o produto mais importante possível.",
-    "tagline_es": "Este es el producto más importante posible.",
-    "tagline_de": "Dies ist das wichtigste Produkt überhaupt.",
-    "last_seen": "2026-08-28"
+    "lite": false,
+    "tagline_en": "GoogleTest is an open-source C++ testing and mocking framework widely adopted across the software industry.",
+    "tagline_fr": "GoogleTest est un framework open source de tests et de mocks en C++ largement adopté dans l'industrie.",
+    "tagline_pt": "GoogleTest é uma estrutura de testes e simulações em C++ de código aberto amplamente adotada pela indústria.",
+    "tagline_es": "GoogleTest es un framework de pruebas y mocks en C++ de código abierto ampliamente adoptado en la industria.",
+    "tagline_de": "GoogleTest ist ein quelloffenes C++-Test- und Mocking-Framework für moderne Softwareprojekte.",
+    "last_seen": "2026-08-28",
+    "headline": "C++ projelerinde endüstri standardı birim testleri",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "CMake FetchContent ile projeye ekleme",
+          "komut": "include(FetchContent)\nFetchContent_Declare(\n  googletest\n  URL https://github.com/google/googletest/archive/refs/tags/v1.15.2.tar.gz\n)\nFetchContent_MakeAvailable(googletest)"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Testi derleme ve CTest ile yürütme",
+          "komut": "cmake -B build -S .\ncmake --build build\nctest --test-dir build --output-on-failure"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/google/googletest"
+    }
   },
   {
     "slug": "gods-eye-view",
@@ -32871,7 +32885,7 @@
   {
     "slug": "tailcat",
     "title": "Tailcat",
-    "tagline": "Tailscale tarafından geliştirilen Tailcat, ağ trafiğini güvenli bir şekilde aktarmak için kullanılan komut satırı aracı…",
+    "tagline": "Tailcat, Netcat komut satırı aracının Tailscale mesh ağı üzerinde çalışan ve eşler arası güvenli tünel oluşturan Go sürümüdür.",
     "meta": "★ 2.435 · Go",
     "image": "/assets/discover/og/tailcat.webp",
     "source": "GitHub",
@@ -32881,15 +32895,29 @@
     ],
     "stars": 2435,
     "summary": "Tailscale tarafından geliştirilen Tailcat, ağ trafiğini güvenli bir şekilde aktarmak için kullanılan komut satırı aracı Netcat'in Tailscale ağ katmanı üzerinde çalışan bir sürümüdür. Kontrol düzlemi (control plane) gereksinimi olmadan, doğrudan cihazlar arası veri iletimi sağlar.",
-    "lite": true,
-    "needs_enrichment": true,
-    "enrich_reason": "komut_yok",
-    "tagline_en": "Tailcat, developed by Tailscale, is a command line tool used to transfer network traffic securely.",
-    "tagline_fr": "Tailcat, développé par Tailscale, est un outil de ligne de commande utilisé pour transférer le trafic réseau en toute sécurité.",
-    "tagline_pt": "Tailcat, desenvolvido pela Tailscale, é uma ferramenta de linha de comando usada para transferir tráfego de rede com segurança.",
-    "tagline_es": "Tailcat, desarrollado por Tailscale, es una herramienta de línea de comandos que se utiliza para transferir tráfico de red de forma segura.",
-    "tagline_de": "Tailcat, entwickelt von Tailscale, ist ein Befehlszeilentool zur sicheren Übertragung des Netzwerkverkehrs.",
-    "last_seen": "2026-08-28"
+    "lite": false,
+    "tagline_en": "Tailcat is a Go port of Netcat operating directly across Tailscale mesh networks for encrypted peer-to-peer data transport.",
+    "tagline_fr": "Tailcat est un portage Go de Netcat fonctionnant sur les réseaux maillés Tailscale pour le transport de données chiffré poste à poste.",
+    "tagline_pt": "O Tailcat é uma versão em Go do Netcat operando diretamente em redes mesh Tailscale para transporte criptografado ponto a ponto.",
+    "tagline_es": "Tailcat es una adaptación en Go de Netcat que opera sobre redes en malla Tailscale para transporte cifrado punto a punto.",
+    "tagline_de": "Tailcat ist ein Go-Port von Netcat, der direkt über Tailscale-Mesh-Netzwerke für verschlüsselten Peer-to-Peer-Datentransport sorgt.",
+    "last_seen": "2026-08-28",
+    "headline": "Tailscale ağlarında güvenli Netcat tünelleme",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Go ile doğrudan kurulum",
+          "komut": "go install tailscale.com/cmd/tailcat@latest"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Dinleme modunu başlatma ve istemci bağlama",
+          "komut": "# Sunucu düğümde dinle:\ntailcat -l 8080\n# İstemci düğümden bağlan:\ntailcat hedef-node 8080"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/tailscale/tailcat"
+    }
   },
   {
     "slug": "ghidra",
@@ -32936,7 +32964,7 @@
   {
     "slug": "freellmapi",
     "title": "Freellmapi",
-    "tagline": "FreeLLMAPI, 34 farklı ücretsiz büyük dil modeli (large language model) sağlayıcısını tek bir OpenAI uyumlu uç noktada…",
+    "tagline": "FreeLLMAPI, 34 ücretsiz yapay zekâ sağlayıcısını OpenAI uyumlu tek bir REST uç noktasında birleştiren ters proxy servisidir.",
     "meta": "★ 21.410 · TypeScript",
     "image": "/assets/discover/og/freellmapi.webp",
     "source": "GitHub",
@@ -32947,20 +32975,34 @@
     ],
     "stars": 21410,
     "summary": "FreeLLMAPI, 34 farklı ücretsiz büyük dil modeli (large language model) sağlayıcısını tek bir OpenAI uyumlu uç noktada (endpoint) birleştiriyor. Akıllı yönlendirme ve otomatik hata yönetimi özellikleriyle, geliştiricilerin farklı modelleri tek bir arayüz üzerinden denemesine olanak tanıyor.",
-    "lite": true,
-    "needs_enrichment": true,
-    "enrich_reason": "komut_yok",
-    "tagline_en": "FreeLLMAPI integrates 34 different free large language model providers into a single OpenAI compatible endpoint.",
-    "tagline_fr": "FreeLLMAPI intègre 34 fournisseurs de modèles de langage étendus gratuits dans un seul point de terminaison compatible OpenAI.",
-    "tagline_pt": "FreeLLMAPI integra 34 diferentes provedores de modelos de linguagem gratuitos em um único endpoint compatível com OpenAI.",
-    "tagline_es": "FreeLLMAPI integra 34 proveedores diferentes de modelos de lenguaje grandes y gratuitos en un único punto final compatible con OpenAI.",
-    "tagline_de": "FreeLLMAPI integriert 34 verschiedene kostenlose Anbieter großer Sprachmodelle in einen einzigen OpenAI-kompatiblen Endpunkt.",
-    "last_seen": "2026-08-28"
+    "lite": false,
+    "tagline_en": "FreeLLMAPI is an open-source reverse proxy aggregating 34 free AI model providers into a unified OpenAI-compatible endpoint.",
+    "tagline_fr": "FreeLLMAPI est un proxy inverse open source regroupant 34 fournisseurs d'IA gratuits dans un point de terminaison compatible OpenAI.",
+    "tagline_pt": "O FreeLLMAPI é um proxy reverso de código aberto que reúne 34 provedores de IA gratuitos em um único endpoint compatível com OpenAI.",
+    "tagline_es": "FreeLLMAPI es un proxy inverso de código abierto que reúne 34 proveedores de IA gratuitos en un único endpoint compatible con OpenAI.",
+    "tagline_de": "FreeLLMAPI ist ein quelloffener Reverse-Proxy, der 34 kostenlose KI-Anbieter unter einem OpenAI-kompatiblen Endpunkt bündelt.",
+    "last_seen": "2026-08-28",
+    "headline": "34 ücretsiz LLM sağlayıcısını tek API'de birleştirin",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Depoyu klonlama ve bağımlılıkları yükleme",
+          "komut": "git clone https://github.com/tashfeenahmed/freellmapi.git\ncd freellmapi\nnpm install"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Servisi başlatma ve model sorgulama",
+          "komut": "npm start\n# OpenAI uyumlu istek:\ncurl http://localhost:3000/v1/chat/completions \\\n  -H \"Content-Type: application/json\" \\\n  -d '{\"model\":\"gpt-4o-mini\",\"messages\":[{\"role\":\"user\",\"content\":\"Merhaba!\"}]}'"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/tashfeenahmed/freellmapi"
+    }
   },
   {
     "slug": "openmaic",
     "title": "OpenMAIC",
-    "tagline": "OpenMAIC, çoklu yapay zekâ ajanı etkileşimlerini tek tıkla simüle eden sürükleyici bir öğrenme platformu.",
+    "tagline": "OpenMAIC, çoklu yapay zekâ ajanı etkileşimlerini tek tıkla simüle eden açık kaynaklı bir sınıf ve öğrenme platformudur.",
     "meta": "★ 25.572 · TypeScript",
     "image": "/assets/discover/og/openmaic.webp",
     "source": "GitHub",
@@ -32971,15 +33013,29 @@
     ],
     "stars": 25572,
     "summary": "OpenMAIC, çoklu yapay zekâ ajanı etkileşimlerini tek tıkla simüle eden sürükleyici bir öğrenme platformu. TypeScript ile geliştirilen bu açık kaynaklı araç, kullanıcıların farklı ajan modelleriyle etkileşimli bir sınıf ortamı deneyimlemesini sağlıyor.",
-    "lite": true,
-    "needs_enrichment": true,
-    "enrich_reason": "komut_yok",
-    "tagline_en": "OpenMAIC is an immersive learning platform that simulates multiple AI agent interactions with a single click.",
-    "tagline_fr": "OpenMAIC est une plateforme d'apprentissage immersive qui simule plusieurs interactions d'agents IA en un seul clic.",
-    "tagline_pt": "OpenMAIC é uma plataforma de aprendizagem imersiva que simula múltiplas interações de agentes de IA com um único clique.",
-    "tagline_es": "OpenMAIC es una plataforma de aprendizaje inmersiva que simula múltiples interacciones de agentes de IA con un solo clic.",
-    "tagline_de": "OpenMAIC ist eine immersive Lernplattform, die mehrere KI-Agenteninteraktionen mit einem einzigen Klick simuliert.",
-    "last_seen": "2026-09-11"
+    "lite": false,
+    "tagline_en": "OpenMAIC is an open-source classroom simulation platform modeling interactive dynamics between multiple AI agents.",
+    "tagline_fr": "OpenMAIC est une plateforme open source simulant des dynamiques de classe interactives entre plusieurs agents d'IA.",
+    "tagline_pt": "O OpenMAIC é uma plataforma de código aberto que simula a dinâmica de salas de aula interativas com múltiplos agentes de IA.",
+    "tagline_es": "OpenMAIC es una plataforma de código abierto que simula la dinámica de aulas interactivas con múltiples agentes de IA.",
+    "tagline_de": "OpenMAIC ist eine Open-Source-Plattform zur Simulation interaktiver Klassenzimmerdynamiken mit mehreren KI-Agenten.",
+    "last_seen": "2026-09-11",
+    "headline": "Çoklu yapay zekâ ajanlarıyla etkileşimli sınıf simülasyonu",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Depoyu klonlama ve bağımlılıkları yükleme",
+          "komut": "git clone https://github.com/THU-MAIC/OpenMAIC.git\ncd OpenMAIC\npnpm install"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Geliştirme sunucusunu başlatma",
+          "komut": "pnpm run dev\n# Tarayıcıda http://localhost:3000 adresini açın"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/THU-MAIC/OpenMAIC"
+    }
   },
   {
     "slug": "ipatool",
@@ -32994,20 +33050,34 @@
     ],
     "stars": 10388,
     "summary": "Majd tarafından geliştirilen ipatool, Apple uygulama mağazasından iOS, iPadOS, tvOS ve visionOS için uygulama paketlerini (IPA dosyaları) aramanıza ve indirmenize olanak tanıyan bir komut satırı aracıdır. Go diliyle yazılan bu araç, uygulama dosyalarına doğrudan erişim sağlayarak yazılım geliştiricilerin ve araştırmacıların paket yönetimi süreçlerini kolaylaştırır.",
-    "lite": true,
-    "needs_enrichment": true,
-    "enrich_reason": "komut_yok",
+    "lite": false,
     "tagline_en": "Developed by Majd, ipatool offers application packages (IPA…) for iOS, iPadOS, tvOS and visionOS from the Apple app store.",
     "tagline_fr": "Développé par Majd, ipatool propose des packages applicatifs (IPA…) pour iOS, iPadOS, tvOS et visionOS depuis l'app store d'Apple.",
     "tagline_pt": "Desenvolvido pela Majd, o ipatool oferece pacotes de aplicativos (IPA…) para iOS, iPadOS, tvOS e visionOS na loja de aplicativos da Apple.",
     "tagline_es": "Desarrollado por Majd, ipatool ofrece paquetes de aplicaciones (IPA…) para iOS, iPadOS, tvOS y visionOS desde la tienda de aplicaciones de Apple.",
     "tagline_de": "ipatool wurde von Majd entwickelt und bietet Anwendungspakete (IPA…) für iOS, iPadOS, tvOS und visionOS aus dem Apple App Store.",
-    "last_seen": "2026-09-01"
+    "last_seen": "2026-09-01",
+    "headline": "iOS IPA paketlerini doğrudan indirin",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Homebrew veya Go ile kurulum",
+          "komut": "brew tap majd/repo https://github.com/majd/repo\nbrew install ipatool"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Apple Kimliği ile giriş yap ve IPA indir",
+          "komut": "ipatool auth login --email ornek@icloud.com\nipatool search \"Telegram\"\nipatool download -b org.telegram.Telegram-iOS"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/majd/ipatool"
+    }
   },
   {
     "slug": "minimind",
     "title": "Minimind",
-    "tagline": "MiniMind, 64 milyon parametreli bir büyük dil modelini (large language model) sıfırdan ve iki saat gibi kısa bir sürede…",
+    "tagline": "MiniMind, 64 milyon parametreli bir büyük dil modelini sıfırdan ve yaklaşık iki saatte eğitmeyi sağlayan açık kaynaklı Python projesidir.",
     "meta": "★ 55.708 · Python",
     "image": "/assets/discover/og/minimind.webp",
     "source": "GitHub",
@@ -33018,20 +33088,34 @@
     ],
     "stars": 55708,
     "summary": "MiniMind, 64 milyon parametreli bir büyük dil modelini (large language model) sıfırdan ve iki saat gibi kısa bir sürede eğitmeyi sağlayan bir Python projesi. Donanım kaynakları kısıtlı olan kullanıcılar için yapay zekâ modellerinin çalışma prensiplerini anlamaya yönelik pratik bir öğrenme ortamı sunuyor.",
-    "lite": true,
-    "needs_enrichment": true,
-    "enrich_reason": "komut_yok",
-    "tagline_en": "MiniMind created a large language model with 64 million parameters from scratch in as little as two hours.",
-    "tagline_fr": "MiniMind a créé un grand modèle de langage avec 64 millions de paramètres en seulement deux heures.",
-    "tagline_pt": "A MiniMind criou um grande modelo de linguagem com 64 milhões de parâmetros do zero em apenas duas horas.",
-    "tagline_es": "MiniMind creó un modelo de lenguaje grande con 64 millones de parámetros desde cero en tan solo dos horas.",
-    "tagline_de": "MiniMind hat in nur zwei Stunden ein großes Sprachmodell mit 64 Millionen Parametern von Grund auf erstellt.",
-    "last_seen": "2026-09-02"
+    "lite": false,
+    "tagline_en": "MiniMind is a minimal educational repository enabling the training of a 64M-parameter LLM from scratch in approximately two hours.",
+    "tagline_fr": "MiniMind est un projet éducatif permettant d'entraîner un modèle LLM de 64M paramètres à partir de zéro en environ deux heures.",
+    "tagline_pt": "O MiniMind é um projeto educacional para treinar um modelo de linguagem de 64M de parâmetros do zero em cerca de duas horas.",
+    "tagline_es": "MiniMind es un proyecto educativo para entrenar un modelo de lenguaje de 64M de parámetros desde cero en unas dos horas.",
+    "tagline_de": "MiniMind ist ein Bildungsprojekt, mit dem ein 64M-Parameter-Sprachmodell in etwa zwei Stunden von Grund auf trainiert werden kann.",
+    "last_seen": "2026-09-02",
+    "headline": "Sıfırdan iki saatte eğitilen 64M parametreli dil modeli",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Depoyu klonlama ve bağımlılıkları yükleme",
+          "komut": "git clone https://github.com/jingyaogong/minimind.git\ncd minimind\npip install -r requirements.txt"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Ön eğitim başlatma ve model çıktısını test etme",
+          "komut": "python 1-pretrain.py\n# Eğitilen modelle test çıkarımı:\npython 5-eval.py"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/jingyaogong/minimind"
+    }
   },
   {
     "slug": "ods",
     "title": "ODS",
-    "tagline": "Osmantic/ODS, kişisel bilgisayarları büyük dil modeli çıkarımı (LLM inference), ses işleme ve görsel oluşturma gibi…",
+    "tagline": "Osmantic/ODS, kişisel bilgisayarları büyük dil modeli çıkarımı, ses işleme ve görsel üretim yeteneklerine sahip yerel yapay zekâ sunucusuna dönüştürür.",
     "meta": "★ 5.181 · Python",
     "image": "/assets/discover/og/ods.webp",
     "source": "GitHub",
@@ -33042,20 +33126,34 @@
     ],
     "stars": 5181,
     "summary": "Osmantic/ODS, kişisel bilgisayarları büyük dil modeli çıkarımı (LLM inference), ses işleme ve görsel oluşturma gibi yeteneklere sahip bir yapay zekâ sunucusuna dönüştüren açık kaynaklı bir platformdur. Yazılım, yerel donanım üzerinde çalışan arama destekli üretim (RAG) ve akıllı ajan iş akışları oluşturulmasına olanak tanır.",
-    "lite": true,
-    "needs_enrichment": true,
-    "enrich_reason": "komut_yok",
-    "tagline_en": "Osmantic/ODS uses personal computers such as large language model inference (LLM inference), audio processing and visual rendering.",
-    "tagline_fr": "Osmantic/ODS utilise des ordinateurs personnels tels que l'inférence de grands modèles de langage (inférence LLM), le traitement audio et le rendu visuel.",
-    "tagline_pt": "Osmantic/ODS usa computadores pessoais, como inferência de modelo de linguagem grande (inferência LLM), processamento de áudio e renderização visual.",
-    "tagline_es": "Osmantic/ODS utiliza computadoras personales como inferencia de modelos de lenguaje grande (inferencia LLM), procesamiento de audio y representación visual.",
-    "tagline_de": "Osmantic/ODS nutzt Personalcomputer wie Large Language Model Inference (LLM-Inferenz), Audioverarbeitung und visuelles Rendering.",
-    "last_seen": "2026-09-01"
+    "lite": false,
+    "tagline_en": "Osmantic/ODS transforms personal computers into private AI servers supporting local LLM inference, voice processing, and image generation.",
+    "tagline_fr": "Osmantic/ODS transforme les ordinateurs personnels en serveurs d'IA locaux pour l'inférence LLM, le traitement vocal et la génération d'images.",
+    "tagline_pt": "O Osmantic/ODS transforma computadores pessoais em servidores locais de IA para inferência de LLM, processamento de voz e geração de imagens.",
+    "tagline_es": "Osmantic/ODS transforma ordenadores personales en servidores locales de IA para inferencia de LLM, procesamiento de voz y generación de imágenes.",
+    "tagline_de": "Osmantic/ODS verwandelt PCs in lokale KI-Server für LLM-Inferenz, Sprachverarbeitung und Bildgenerierung.",
+    "last_seen": "2026-09-01",
+    "headline": "Kişisel bilgisayarınızı yerel yapay zekâ sunucusuna dönüştürün",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Depoyu klonlama ve ortamı kurma",
+          "komut": "git clone https://github.com/Osmantic/ODS.git\ncd ODS\npip install -e ."
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Yerel yapay zekâ sunucusunu başlatma",
+          "komut": "python -m ods.server --port 8000\n# Web paneline http://localhost:8000 adresinden erişin"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/Osmantic/ODS"
+    }
   },
   {
     "slug": "checkstyle",
     "title": "Checkstyle",
-    "tagline": "Checkstyle, Java programcılarının belirlenen kodlama standartlarına uygun yazılım geliştirmesine yardımcı olan bir analiz…",
+    "tagline": "Checkstyle, Java programcılarının Google Java Style ve Sun standartlarına uygun yazılım geliştirmesini sağlayan statik analiz aracıdır.",
     "meta": "★ 9.288 · Java",
     "image": "/assets/discover/og/checkstyle.webp",
     "source": "GitHub",
@@ -33065,20 +33163,34 @@
     ],
     "stars": 9288,
     "summary": "Checkstyle, Java programcılarının belirlenen kodlama standartlarına uygun yazılım geliştirmesine yardımcı olan bir analiz aracıdır. Google Java Stil Rehberi (Google Java Style Guide) ve Sun Kod Kuralları (Sun Code Conventions) gibi standartları destekleyerek kod kalitesini denetler.",
-    "lite": true,
-    "needs_enrichment": true,
-    "enrich_reason": "komut_yok",
-    "tagline_en": "Checkstyle is an analysis tool that helps Java programmers develop software that complies with specified coding standards.",
-    "tagline_fr": "Checkstyle est un outil d'analyse qui aide les programmeurs Java à développer des logiciels conformes aux normes de codage spécifiées.",
-    "tagline_pt": "Checkstyle é uma ferramenta de análise que ajuda programadores Java a desenvolver software que esteja em conformidade com padrões de codificação especificados.",
-    "tagline_es": "Checkstyle es una herramienta de análisis que ayuda a los programadores de Java a desarrollar software que cumpla con estándares de codificación específicos.",
-    "tagline_de": "Checkstyle ist ein Analysetool, das Java-Programmierern hilft, Software zu entwickeln, die bestimmten Codierungsstandards entspricht.",
-    "last_seen": "2026-09-01"
+    "lite": false,
+    "tagline_en": "Checkstyle is a static code analysis tool that helps Java developers adhere to Google Java Style and Sun conventions.",
+    "tagline_fr": "Checkstyle est un outil d'analyse statique aidant les développeurs Java à respecter les conventions Google Java Style et Sun.",
+    "tagline_pt": "O Checkstyle é uma ferramenta de análise estática que ajuda desenvolvedores Java a aderirem aos padrões Google Java Style e Sun.",
+    "tagline_es": "Checkstyle es una herramienta de análisis estático que ayuda a desarrolladores Java a cumplir con las normas de Google Java Style y Sun.",
+    "tagline_de": "Checkstyle ist ein statisches Code-Analyse-Tool, das Java-Entwicklern hilft, Google Java Style und Sun-Konventionen einzuhalten.",
+    "last_seen": "2026-09-01",
+    "headline": "Java kodlarında kurumsal stil ve kalite denetimi",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Bağımsız CLI jar dosyasını indir",
+          "komut": "curl -sSL -O https://github.com/checkstyle/checkstyle/releases/download/checkstyle-10.18.0/checkstyle-10.18.0-all.jar"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Google Java Style kurallarıyla analiz et",
+          "komut": "java -jar checkstyle-10.18.0-all.jar -c /google_checks.xml src/\n# veya Maven ile:\n./mvnw checkstyle:check"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/checkstyle/checkstyle"
+    }
   },
   {
     "slug": "user-scanner",
     "title": "User Scanner",
-    "tagline": "Python ile geliştirilen User-Scanner, tek bir e-posta adresi veya kullanıcı adı üzerinden 465'ten fazla farklı kaynaktan veri…",
+    "tagline": "User-Scanner, tek bir kullanıcı adı veya e-posta ile 465'ten fazla platformda dijital iz taraması yapan açık kaynaklı OSINT aracıdır.",
     "meta": "★ 3.910 · Python",
     "image": "/assets/discover/og/user-scanner.webp",
     "source": "GitHub",
@@ -33088,20 +33200,34 @@
     ],
     "stars": 3910,
     "summary": "Python ile geliştirilen User-Scanner, tek bir e-posta adresi veya kullanıcı adı üzerinden 465'ten fazla farklı kaynaktan veri toplayan bir açık kaynak istihbarat (OSINT) aracıdır. Güvenlik araştırmacıları ve dijital iz takibi yapanlar için tasarlanan yazılım, geniş bir tarama vektörü yelpazesiyle derinlemesine veri analizi sunar.",
-    "lite": true,
-    "needs_enrichment": true,
-    "enrich_reason": "komut_yok",
-    "tagline_en": "Developed with Python, User-Scanner retrieves data from more than 465 different sources via a single email address or username.",
-    "tagline_fr": "Développé avec Python, User-Scanner récupère les données de plus de 465 sources différentes via une seule adresse e-mail ou nom d'utilisateur.",
-    "tagline_pt": "Desenvolvido em Python, o User-Scanner recupera dados de mais de 465 fontes diferentes por meio de um único endereço de e-mail ou nome de usuário.",
-    "tagline_es": "Desarrollado con Python, User-Scanner recupera datos de más de 465 fuentes diferentes a través de una única dirección de correo electrónico o nombre de usuario.",
-    "tagline_de": "Der mit Python entwickelte User-Scanner ruft Daten aus mehr als 465 verschiedenen Quellen über eine einzige E-Mail-Adresse oder einen einzigen Benutzernamen ab.",
-    "last_seen": "2026-09-01"
+    "lite": false,
+    "tagline_en": "User-Scanner is an open-source OSINT tool that gathers digital intelligence across 465+ platforms using a single username or email.",
+    "tagline_fr": "User-Scanner est un outil OSINT open source qui analyse l'empreinte numérique sur plus de 465 plateformes à partir d'un identifiant ou e-mail.",
+    "tagline_pt": "O User-Scanner é uma ferramenta OSINT de código aberto que rastreia pegadas digitais em mais de 465 plataformas a partir de um nome de usuário ou e-mail.",
+    "tagline_es": "User-Scanner es una herramienta OSINT de código abierto que rastrea huellas digitales en más de 465 plataformas a partir de un usuario o correo.",
+    "tagline_de": "User-Scanner ist ein Open-Source-OSINT-Tool, das digitale Spuren über 465+ Plattformen anhand eines Benutzernamens oder einer E-Mail aufspürt.",
+    "last_seen": "2026-09-01",
+    "headline": "465'ten fazla platformda OSINT kullanıcı analizi",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Depoyu klonlama ve bağımlılıkları yükleme",
+          "komut": "git clone https://github.com/kaifcodec/user-scanner.git\ncd user-scanner\npip install -r requirements.txt"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Hedef kullanıcı adını ve e-postayı tarama",
+          "komut": "python3 user_scanner.py -u hedef_kullanici\n# veya e-posta ile:\npython3 user_scanner.py -e hedef@ornek.com"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/kaifcodec/user-scanner"
+    }
   },
   {
     "slug": "patent-disclosure-skill",
     "title": "Patent Disclosure Skill",
-    "tagline": "Patent disclosure skill, patent başvurularında buluş noktalarının belirlenmesi ve teknik açıklama metinlerinin (patent…",
+    "tagline": "Patent disclosure skill, patent başvurularında buluş noktalarının analizi ve teknik açıklama metinlerinin hazırlanmasını otomatikleştiren yapay zekâ aracıdır.",
     "meta": "★ 6.058 · Python",
     "image": "/assets/discover/og/patent-disclosure-skill.webp",
     "source": "GitHub",
@@ -33111,20 +33237,34 @@
     ],
     "stars": 6058,
     "summary": "Patent disclosure skill, patent başvurularında buluş noktalarının belirlenmesi ve teknik açıklama metinlerinin (patent disclosure) hazırlanması süreçlerini otomatikleştiren bir Python aracıdır. Patentlerin anlaşılır şekilde yorumlanması, politika değişikliklerinin takibi ve inceleme süreçlerine yönelik yanıtların oluşturulması için destek sağlar.",
-    "lite": true,
-    "needs_enrichment": true,
-    "enrich_reason": "komut_yok",
-    "tagline_en": "Patent disclosure skill is used to determine invention points in patent applications and to prepare technical description texts (patent…",
-    "tagline_fr": "La compétence en matière de divulgation de brevets est utilisée pour déterminer les points d'invention dans les demandes de brevet et pour préparer des textes de description technique (brevet…",
-    "tagline_pt": "A habilidade de divulgação de patentes é usada para determinar pontos de invenção em pedidos de patente e para preparar textos descritivos técnicos (patentes…",
-    "tagline_es": "La habilidad de divulgación de patentes se utiliza para determinar los puntos de invención en las solicitudes de patente y para preparar textos de descripción técnica (patente...",
-    "tagline_de": "Die Fähigkeit zur Patentoffenbarung wird verwendet, um Erfindungspunkte in Patentanmeldungen zu ermitteln und technische Beschreibungstexte (Patent…) zu erstellen.",
-    "last_seen": "2026-09-02"
+    "lite": false,
+    "tagline_en": "Patent disclosure skill is an open-source AI agent workflow that automates inventive step analysis and patent disclosure drafting.",
+    "tagline_fr": "Patent disclosure skill est un agent d'IA open source automatisant l'analyse inventive et la rédaction de divulgations de brevets.",
+    "tagline_pt": "O Patent disclosure skill é um fluxo de agente de IA de código aberto que automatiza a análise inventiva e a redação de patentes.",
+    "tagline_es": "Patent disclosure skill es un flujo de agente de IA de código abierto que automatiza el análisis inventivo y la redacción de patentes.",
+    "tagline_de": "Patent disclosure skill ist ein quelloffener KI-Agenten-Workflow, der Erfindungsanalysen und Patentoffenlegungstexte automatisiert.",
+    "last_seen": "2026-09-02",
+    "headline": "Yapay zekâ ile patent buluş açıklamalarını otomatikleştirin",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Depoyu klonlama ve bağımlılıkları yükleme",
+          "komut": "git clone https://github.com/handsomestWei/patent-disclosure-skill.git\ncd patent-disclosure-skill\npip install -r requirements.txt"
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Patent analiz ve açıklama üretimini başlatma",
+          "komut": "python run_skill.py --input bulus_taslagi.txt --output patent_disclosure.md"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/handsomestWei/patent-disclosure-skill"
+    }
   },
   {
     "slug": "microduck-rl",
     "title": "Microduck Rl",
-    "tagline": "Pollen Robotics tarafından geliştirilen microduck_rl, robotik platformu Microduck için pekiştirmeli öğrenme (reinforcement…",
+    "tagline": "Pollen Robotics tarafından geliştirilen microduck_rl, Microduck robot platformu için mjlab ve MuJoCo tabanlı pekiştirmeli öğrenme ortamları sunar.",
     "meta": "★ 1.001 · Python",
     "image": "/assets/discover/og/microduck-rl.webp",
     "source": "GitHub",
@@ -33134,15 +33274,29 @@
     ],
     "stars": 1001,
     "summary": "Pollen Robotics tarafından geliştirilen microduck_rl, robotik platformu Microduck için pekiştirmeli öğrenme (reinforcement learning) eğitim ortamları sunuyor. Python tabanlı bu kütüphane, fizik tabanlı simülasyon aracı mjlab üzerinde robotik kontrol algoritmalarının geliştirilmesini kolaylaştırıyor.",
-    "lite": true,
-    "needs_enrichment": true,
-    "enrich_reason": "komut_yok",
-    "tagline_en": "Developed by Pollen Robotics, microduck_rl is a reinforcement learning (reinforcement) learning tool for the robotics platform Microduck.",
-    "tagline_fr": "Développé par Pollen Robotics, microduck_rl est un outil d'apprentissage par renforcement (renforcement) pour la plateforme robotique Microduck.",
-    "tagline_pt": "Desenvolvido pela Pollen Robotics, microduck_rl é uma ferramenta de aprendizagem por reforço (reforço) para a plataforma robótica Microduck.",
-    "tagline_es": "Desarrollado por Pollen Robotics, microduck_rl es una herramienta de aprendizaje por refuerzo (refuerzo) para la plataforma de robótica Microduck.",
-    "tagline_de": "microduck_rl wurde von Pollen Robotics entwickelt und ist ein Reinforcement-Learning-Lerntool für die Robotikplattform Microduck.",
-    "last_seen": "2026-09-01"
+    "lite": false,
+    "tagline_en": "Developed by Pollen Robotics, microduck_rl provides reinforcement learning environments on mjlab and MuJoCo for the Microduck platform.",
+    "tagline_fr": "Développé par Pollen Robotics, microduck_rl offre des environnements d'apprentissage par renforcement basés sur mjlab et MuJoCo.",
+    "tagline_pt": "Desenvolvido pela Pollen Robotics, o microduck_rl fornece ambientes de aprendizado por reforço baseados em mjlab e MuJoCo.",
+    "tagline_es": "Desarrollado por Pollen Robotics, microduck_rl proporciona entornos de aprendizaje por refuerzo basados en mjlab y MuJoCo.",
+    "tagline_de": "microduck_rl von Pollen Robotics bietet MuJoCo- und mjlab-basierte Reinforcement-Learning-Umgebungen für Microduck-Roboter.",
+    "last_seen": "2026-09-01",
+    "headline": "Pollen Robotics Microduck için pekiştirmeli öğrenme ortamı",
+    "cmds": {
+      "kurulum": [
+        {
+          "baslik": "Depoyu klonlama ve simülasyon ortamını kurma",
+          "komut": "git clone https://github.com/pollen-robotics/microduck_rl.git\ncd microduck_rl\npip install -e ."
+        }
+      ],
+      "calistirma": [
+        {
+          "baslik": "Eğitim veya politika değerlendirme çalıştırma",
+          "komut": "python -m microduck_rl.train --task walk\n# Eğitilen politikayı simülatörde izleme:\npython -m microduck_rl.enjoy --checkpoint checkpoint.pt"
+        }
+      ],
+      "kaynak": "Resmî kaynak: https://github.com/pollen-robotics/microduck_rl"
+    }
   },
   {
     "slug": "openclaude",

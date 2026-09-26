@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>ODS · Discover · TreScout</title>
-<meta name="description" content="Osmantic/ODS uses personal computers such as large language model inference (LLM inference), audio processing and visual rendering.">
+<meta name="description" content="Open-source Osmantic/ODS equips personal workstations with local LLM inference, vector-powered RAG pipelines, and autonomous agent orchestration without cloud dependencies.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/en/discover/ods.md">
 <link rel="canonical" href="https://trescout.com/en/discover/ods/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/ods/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/ods/">
 <meta property="og:title" content="ODS">
-<meta property="og:description" content="Osmantic/ODS uses personal computers such as large language model inference (LLM inference), audio processing and visual rendering.">
+<meta property="og:description" content="Open-source Osmantic/ODS equips personal workstations with local LLM inference, vector-powered RAG pipelines, and autonomous agent orchestration without cloud dependencies.">
 <meta property="og:url" content="https://trescout.com/en/discover/ods/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
@@ -27,15 +27,15 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="ODS">
-<meta name="twitter:description" content="Osmantic/ODS uses personal computers such as large language model inference (LLM inference), audio processing and visual rendering.">
+<meta name="twitter:description" content="Open-source Osmantic/ODS equips personal workstations with local LLM inference, vector-powered RAG pipelines, and autonomous agent orchestration without cloud dependencies.">
 <meta name="twitter:image" content="https://trescout.com/assets/discover/og/ods-en.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "ODS",
+  "headline": "Turn your PC into a local AI inference and agent server",
   "inLanguage": "en",
-  "description": "Osmantic/ODS is an open-source platform that transforms personal computers into AI servers capable of tasks such as large language model (LLM) inference, audio processing, and image generation. The software enables the creation of retrieval-augmented generation (RAG) and intelligent agent workflows running on local hardware.",
+  "description": "Open-source Osmantic/ODS equips personal workstations with local LLM inference, vector-powered RAG pipelines, and autonomous agent orchestration without cloud dependencies.",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -65,13 +65,26 @@
 <article class="disc">
 <a class="disc-back" href="/en/discover/">← Discover</a>
 <div class="disc-top"><span class="disc-eyebrow">Discover · GitHub</span><span class="disc-momentum">↑ +331 today</span></div>
-<h1 class="disc-title">ODS</h1>
-<p class="disc-lead">Osmantic/ODS is an open-source platform that transforms personal computers into AI servers capable of tasks such as large language model (LLM) inference, audio processing, and image generation. The software enables the creation of retrieval-augmented generation (RAG) and intelligent agent workflows running on local hardware.</p>
+<h1 class="disc-title">Turn your PC into a local AI inference and agent server</h1>
+<p class="disc-lead">Open-source Osmantic/ODS equips personal workstations with local LLM inference, vector-powered RAG pipelines, and autonomous agent orchestration without cloud dependencies.</p>
 <ul class="disc-meta"><li>★ 5,181</li><li>Python</li><li>GitHub Trending · 2026-08-31</li></ul>
-      <section class="disc-sec"><h2>Related dictionary terms</h2><div class="disc-related"><a href="/en/dictionary/llm-inference/">LLM Inference</a><a href="/en/dictionary/inference/">Inference</a><a href="/en/dictionary/rag/">RAG</a><a href="/en/dictionary/llm/">LLM</a><a href="/en/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
+      <section class="disc-sec"><h2>Updates</h2><ul class="disc-wins"><li><strong>August 31, 2026:</strong> 5,181 stars, featuring local RAG pipelines and multimodal model inference updates.</li></ul></section>
+      <section class="disc-sec"><h2>What you get</h2><ul class="disc-wins"><li><strong>Complete privacy and local execution:</strong> Run AI models strictly on local GPUs and CPUs with zero telemetry or remote cloud exposure.</li><li><strong>Built-in Retrieval-Augmented Generation (RAG):</strong> Index and semantically query private notes, enterprise documentation, and code repositories.</li><li><strong>Multimodal capability suite:</strong> Combines LLM generation, Whisper audio transcription, speech synthesis, and image creation in one engine.</li><li><strong>OpenAI-compatible local gateway:</strong> Seamlessly redirect existing AI tools and developer frameworks to your local machine via API parity.</li><li><strong>Autonomous agent workflows:</strong> Orchestrate multi-step task chains equipped with local tool access and autonomous reasoning loops.</li></ul></section>
+      <section class="disc-sec"><h2>Installation</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Clone repository and install package</span><button type="button" class="disc-copy" aria-label="Copy">Copy</button></div><pre><code>git clone https://github.com/Osmantic/ODS.git
+cd ODS
+pip install -e .</code></pre></div></section>
+      <section class="disc-sec"><h2>Running it</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Start local AI server process</span><button type="button" class="disc-copy" aria-label="Copy">Copy</button></div><pre><code>python -m ods.server --port 8000
+# Web paneline http://localhost:8000 adresinden erişin</code></pre></div></section>
+      <section class="disc-sec"><h2>Technical architecture and working principle</h2><p>Osmantic/ODS operates a modular micro-service architecture coordinating local inference and vector indexing:</p><ul class="disc-wins"><li><strong>Local inference engine (llama.cpp & vLLM):</strong> Loads GGUF and GPU weight formats with minimal memory overhead and optimized quantization.</li><li><strong>Embedded vector store:</strong> Lightweight vector storage powered by ChromaDB and SQLite for fast chunking and document retrieval.</li><li><strong>Async task queue and state machine:</strong> Orchestrates multi-turn reasoning loops and native tool-calling execution states.</li></ul></section>
+      <section class="disc-sec"><h2>Local RAG workflows and private agent pipelines</h2><p>ODS allows organizations to deploy powerful AI pipelines while preserving absolute data sovereignty:</p><ul class="disc-steps"><li><strong>Confidential document intelligence:</strong> Query proprietary contracts and financial spreadsheets securely via local RAG without cloud risks.</li><li><strong>Private code assistant integration:</strong> Index enterprise repositories to drive local code completions in editors like VS Code and Cursor.</li><li><strong>Autonomous background processing:</strong> Schedule background agent tasks that inspect, summarize, and convert local filesystem datasets.</li></ul></section>
+      <section class="disc-sec"><h2>If you do not code</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Paste into your AI agent (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Copy">Copy</button></div><p class="disc-ai-text">Can you explain how to install ODS on my local workstation, ingest private PDF documents into the embedded vector store, and run local RAG queries against a Llama 3 model with terminal commands and Python code?</p></div></section>
+      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Who it is for</span><span class="disc-fact-v">Privacy-conscious enterprises, local AI engineers, and system administrators.</span></div><div class="disc-fact"><span class="disc-fact-k">License</span><span class="disc-fact-v">MIT (Permissive open source license)</span></div><div class="disc-fact"><span class="disc-fact-k">Framework</span><span class="disc-fact-v">Python & llama.cpp Local AI Server</span></div><div class="disc-fact"><span class="disc-fact-k">Platforms</span><span class="disc-fact-v">Linux, macOS, Windows</span></div></div>
+      <section class="disc-sec"><h2>Frequently asked questions</h2><ul class="disc-wins"><li><strong>Does it operate completely offline in air-gapped setups?</strong> Yes. Once model weights are locally downloaded, ODS operates in completely offline, air-gapped enterprise environments.</li><li><strong>Which model architectures and formats are supported?</strong> Supports GGUF-quantized models (Llama 3, Mistral, Qwen, DeepSeek) as well as unquantized HuggingFace formats.</li><li><strong>Does ODS include a browser interface?</strong> Yes. It features an integrated web dashboard to manage models, upload documents, and interact with private chat agents.</li><li><strong>Can it execute on CPU hardware without a dedicated GPU?</strong> Yes. Powered by llama.cpp, ODS leverages AVX2/AVX-512 CPU vector instructions for performant CPU inference.</li></ul></section>
       <section class="disc-sec"><h2>Links</h2><ul class="disc-links"><li><a href="https://github.com/Osmantic/ODS" target="_blank" rel="noopener">GitHub repository →</a></li><li><a href="https://trescout.com/discover/ods/">Read in Turkish →</a></li></ul></section>
 <p class="disc-disclaimer">TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-31: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was <strong>machine-translated</strong> from the Turkish original · the Turkish version prevails.</p>
-<aside class="disc-cta"><p><strong>Get similar discoveries in the daily report.</strong> TreScout scouts GitHub, Hacker News and HuggingFace trends daily, delivering curated summaries.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-en" data-page-type="discover" data-content-slug="ods" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/discover/">All discoveries →</a></aside>
+
+<section class="disc-sec"><h2>Related dictionary terms</h2><div class="disc-related"><a href="/en/dictionary/ai/">Artificial Intelligence</a><a href="/en/dictionary/llm/">LLM</a><a href="/en/dictionary/open-source/">Open Source</a><a href="/en/dictionary/api/">API</a><a href="/en/dictionary/cli/">CLI</a></div></section>
+      <aside class="disc-cta"><p><strong>Get similar discoveries in the daily report.</strong> TreScout scouts GitHub, Hacker News and HuggingFace trends daily, delivering curated summaries.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-en" data-page-type="discover" data-content-slug="ods" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/discover/">All discoveries →</a></aside>
 </article>
 </main>
 <footer>

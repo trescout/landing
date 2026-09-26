@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>User Scanner · Discover · TreScout</title>
-<meta name="description" content="Developed with Python, User-Scanner retrieves data from more than 465 different sources via a single email address or username.">
+<meta name="description" content="Python-based User-Scanner performs automated open-source intelligence (OSINT) sweeps across 465+ social networks, forums, and developer platforms from a single target.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/en/discover/user-scanner.md">
 <link rel="canonical" href="https://trescout.com/en/discover/user-scanner/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/user-scanner/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/user-scanner/">
 <meta property="og:title" content="User Scanner">
-<meta property="og:description" content="Developed with Python, User-Scanner retrieves data from more than 465 different sources via a single email address or username.">
+<meta property="og:description" content="Python-based User-Scanner performs automated open-source intelligence (OSINT) sweeps across 465+ social networks, forums, and developer platforms from a single target.">
 <meta property="og:url" content="https://trescout.com/en/discover/user-scanner/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
@@ -27,15 +27,15 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="User Scanner">
-<meta name="twitter:description" content="Developed with Python, User-Scanner retrieves data from more than 465 different sources via a single email address or username.">
+<meta name="twitter:description" content="Python-based User-Scanner performs automated open-source intelligence (OSINT) sweeps across 465+ social networks, forums, and developer platforms from a single target.">
 <meta name="twitter:image" content="https://trescout.com/assets/discover/og/user-scanner-en.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "User Scanner",
+  "headline": "OSINT username reconnaissance across 465+ platforms",
   "inLanguage": "en",
-  "description": "Developed with Python, User-Scanner is an open-source intelligence (OSINT) tool that collects data from over 465 different sources using a single email address or username. Designed for security researchers and digital footprint trackers, the software offers in-depth data analysis with a wide range of scanning vectors.",
+  "description": "Python-based User-Scanner performs automated open-source intelligence (OSINT) sweeps across 465+ social networks, forums, and developer platforms from a single target.",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -65,13 +65,27 @@
 <article class="disc">
 <a class="disc-back" href="/en/discover/">← Discover</a>
 <div class="disc-top"><span class="disc-eyebrow">Discover · GitHub</span><span class="disc-momentum">↑ +462 today</span></div>
-<h1 class="disc-title">User Scanner</h1>
-<p class="disc-lead">Developed with Python, User-Scanner is an open-source intelligence (OSINT) tool that collects data from over 465 different sources using a single email address or username. Designed for security researchers and digital footprint trackers, the software offers in-depth data analysis with a wide range of scanning vectors.</p>
+<h1 class="disc-title">OSINT username reconnaissance across 465+ platforms</h1>
+<p class="disc-lead">Python-based User-Scanner performs automated open-source intelligence (OSINT) sweeps across 465+ social networks, forums, and developer platforms from a single target.</p>
 <ul class="disc-meta"><li>★ 3,910</li><li>Python</li><li>GitHub Trending · 2026-08-31</li></ul>
-      <section class="disc-sec"><h2>Related dictionary terms</h2><div class="disc-related"><a href="/en/dictionary/osint/">OSINT</a><a href="/en/dictionary/open-source/">Open Source</a></div></section>
+      <section class="disc-sec"><h2>Updates</h2><ul class="disc-wins"><li><strong>August 31, 2026:</strong> 3,910 stars, expanded to 465+ platforms with asynchronous HTTP reconnaissance engine.</li></ul></section>
+      <section class="disc-sec"><h2>What you get</h2><ul class="disc-wins"><li><strong>Massive platform coverage:</strong> Verify account existence across GitHub, Reddit, Steam, Telegram, and 465+ services in one pass.</li><li><strong>Asynchronous high-speed queries:</strong> Query hundreds of endpoints concurrently in seconds powered by Python asyncio and aiohttp.</li><li><strong>False positive suppression:</strong> Smart pattern matching that validates both HTTP status codes and specific body error responses.</li><li><strong>Structured JSON and CSV exports:</strong> Export intelligence artifacts into standard formats ready for cybersecurity auditing workflows.</li><li><strong>Local execution and privacy:</strong> Run reconnaissance entirely from local terminals with zero telemetry or third-party relay servers.</li></ul></section>
+      <section class="disc-sec"><h2>Installation</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Clone repository and install dependencies</span><button type="button" class="disc-copy" aria-label="Copy">Copy</button></div><pre><code>git clone https://github.com/kaifcodec/user-scanner.git
+cd user-scanner
+pip install -r requirements.txt</code></pre></div></section>
+      <section class="disc-sec"><h2>Running it</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Scan target username and email address</span><button type="button" class="disc-copy" aria-label="Copy">Copy</button></div><pre><code>python3 user_scanner.py -u hedef_kullanici
+# veya e-posta ile:
+python3 user_scanner.py -e hedef@ornek.com</code></pre></div></section>
+      <section class="disc-sec"><h2>Technical architecture and working principle</h2><p>User-Scanner operates an asynchronous reconnaissance pipeline configured with modular platform profiles:</p><ul class="disc-wins"><li><strong>Manifest-driven site database:</strong> Modular JSON specifications encoding URL patterns, status expectations, and signature regexes across 465+ sites.</li><li><strong>Concurrent connection pooling:</strong> Optimizes network throughput via persistent TCP sessions and local DNS resolution caching.</li><li><strong>Browser header and User-Agent rotation:</strong> Emulates genuine client browser headers to avoid WAF blocks and premature rate limits.</li></ul></section>
+      <section class="disc-sec"><h2>OSINT research scenarios and data analysis</h2><p>Security researchers and digital investigators apply User-Scanner in critical investigation workflows:</p><ul class="disc-steps"><li><strong>Digital footprint and credential audit:</strong> Map target presence across social domains to assess exposure after credential compromise events.</li><li><strong>Corporate exposure assessments:</strong> Audit whether enterprise emails or employee usernames are registered across unsanctioned external services.</li><li><strong>Social engineering defence:</strong> Identify impersonation profiles and exposed developer handles vulnerable to targeted spear phishing.</li></ul></section>
+      <section class="disc-sec"><h2>If you do not code</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Paste into your AI agent (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Copy">Copy</button></div><p class="disc-ai-text">Can you provide a step-by-step guide on running User-Scanner to sweep a target username across 465+ platforms, exporting results to JSON, and filtering confirmed active accounts for a security assessment?</p></div></section>
+      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Who it is for</span><span class="disc-fact-v">Cybersecurity researchers, OSINT analysts, digital forensics investigators, and ethical hackers.</span></div><div class="disc-fact"><span class="disc-fact-k">License</span><span class="disc-fact-v">GPL-3.0 (Open source copyleft license)</span></div><div class="disc-fact"><span class="disc-fact-k">Framework</span><span class="disc-fact-v">Python Asynchronous OSINT Scanner</span></div><div class="disc-fact"><span class="disc-fact-k">Platforms</span><span class="disc-fact-v">Linux, macOS, Windows</span></div></div>
+      <section class="disc-sec"><h2>Frequently asked questions</h2><ul class="disc-wins"><li><strong>Is using User-Scanner legal?</strong> Yes. User-Scanner queries publicly accessible web endpoints to check account existence; it never bypasses access controls, authenticates unlawfully, or attempts brute-forcing.</li><li><strong>Does it support Tor or proxy chains?</strong> Yes. Requests can be routed through SOCKS5 or HTTP proxies to mask IP addresses and prevent rate-limiting bottlenecks.</li><li><strong>How long does a full sweep take?</strong> Thanks to its asynchronous engine, scanning over 465 platforms typically completes in 20 to 45 seconds depending on network throughput.</li><li><strong>How does email reconnaissance function?</strong> In email mode, the scanner validates publicly visible response signals on supported account recovery and registration checks.</li></ul></section>
       <section class="disc-sec"><h2>Links</h2><ul class="disc-links"><li><a href="https://github.com/kaifcodec/user-scanner" target="_blank" rel="noopener">GitHub repository →</a></li><li><a href="https://trescout.com/discover/user-scanner/">Read in Turkish →</a></li></ul></section>
 <p class="disc-disclaimer">TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-31: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was <strong>machine-translated</strong> from the Turkish original · the Turkish version prevails.</p>
-<aside class="disc-cta"><p><strong>Get similar discoveries in the daily report.</strong> TreScout scouts GitHub, Hacker News and HuggingFace trends daily, delivering curated summaries.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-en" data-page-type="discover" data-content-slug="user-scanner" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/discover/">All discoveries →</a></aside>
+
+<section class="disc-sec"><h2>Related dictionary terms</h2><div class="disc-related"><a href="/en/dictionary/cli/">CLI</a><a href="/en/dictionary/open-source/">Open Source</a><a href="/en/dictionary/api/">API</a><a href="/en/dictionary/framework/">Framework</a><a href="/en/dictionary/ci-cd/">CI/CD</a></div></section>
+      <aside class="disc-cta"><p><strong>Get similar discoveries in the daily report.</strong> TreScout scouts GitHub, Hacker News and HuggingFace trends daily, delivering curated summaries.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-en" data-page-type="discover" data-content-slug="user-scanner" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/discover/">All discoveries →</a></aside>
 </article>
 </main>
 <footer>

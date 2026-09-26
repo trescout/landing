@@ -47,13 +47,13 @@ free-for-dev listesini kullanarak sıfır maliyetli modern bir web uygulaması k
 - Veri tabanı bağlantı havuzlama (Pooling): Sunucusuz ortamlarda bağlantı sınırlarına takılmamak için PgBouncer veya yerleşik pooler kullanın.
 
 ## Kod bilmiyorsanız
-🤖 Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Yeni bir web girişimi için tamamen ücretsiz servislerden oluşan modern bir bulut altyapısı kurmak istiyorum. free-for-dev listesindeki en popüler ücretsiz sağlayıcıları (barındırma, veritabanı, kimlik doğrulama ve e-posta servisi) birleştiren, kota sınırlarını aşmayacak sıfır maliyetli bir mimari planı ve kurulum adımlarını açıklar mısın?
 
-- **Kimin için:** Girişimciler, bağımsız geliştiriciler, öğrenciler ve altyapı maliyetini sıfırlamak isteyen mühendisler.
-- **Lisans:** CC BY 4.0 (Açık içerik lisansı)
-- **Küratör:** R.I. Pienaar ve 1000'den fazla açık kaynak katkıcısı
-- **Servis Sayısı:** 1.000'den fazla doğrulanmış ücretsiz servis
+- **Kimin için:** Girişimciler, bağımsız geliştiriciler, öğrenciler ve altyapı maliyetini sıfırlamak isteyen mühendisler. 
+- **Lisans:** CC BY 4.0 (Açık içerik lisansı) 
+- **Küratör:** R.I. Pienaar ve 1000'den fazla açık kaynak katkıcısı 
+- **Servis Sayısı:** 1.000'den fazla doğrulanmış ücretsiz servis 
 
 ## Sıkça sorulan sorular
 - Ücretsiz katman ile deneme sürümü (Free Trial) arasındaki fark nedir? Deneme sürümleri genellikle 7 ila 30 gün sonra sona erer ve ödeme ister. free-for-dev listesindeki servisler ise belirli kotalar dahilinde süresiz olarak ücretsizdir.
@@ -62,10 +62,13 @@ Yeni bir web girişimi için tamamen ücretsiz servislerden oluşan modern bir b
 - Büyük ölçekli projeler için bu servisler yeterli midir? MVP, ilk kullanıcılar ve orta ölçekli trafik için fazlasıyla yeterlidir; ürün gelir üretmeye başladığında aynı platformlar üzerinde tek tıkla ücretli planlara geçilebilir.
 
 ## Bağlantılar
-- [GitHub →](https://github.com/ripienaar/free-for-dev)
+- [GitHub deposu →](https://github.com/ripienaar/free-for-dev)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-27 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 SaaS PaaS IaaS Cloud Computing Open Source API
 
 ---
-Source: TreScout Discover · https://trescout.com/discover/free-for-dev/
+Kaynak: TreScout Keşif · https://trescout.com/discover/free-for-dev/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.

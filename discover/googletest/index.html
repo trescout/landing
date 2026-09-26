@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Googletest · Keşif · TreScout</title>
-<meta name="description" content="Não foi possível produzir um resumo para este item hoje.">
+<meta name="description" content="GoogleTest ve GoogleMock, modern C++ projelerinde birim testleri, sahte nesneler (mock) ve parametrik testler çalıştırmanızı sağlayan endüstri standardı açık kaynak test çatısıdır.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/discover/googletest.md">
 <link rel="canonical" href="https://trescout.com/discover/googletest/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/googletest/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/googletest/">
 <meta property="og:title" content="Googletest">
-<meta property="og:description" content="Não foi possível produzir um resumo para este item hoje.">
+<meta property="og:description" content="GoogleTest ve GoogleMock, modern C++ projelerinde birim testleri, sahte nesneler (mock) ve parametrik testler çalıştırmanızı sağlayan endüstri standardı açık kaynak test çatısıdır.">
 <meta property="og:url" content="https://trescout.com/discover/googletest/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -27,15 +27,15 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Googletest">
-<meta name="twitter:description" content="Não foi possível produzir um resumo para este item hoje.">
+<meta name="twitter:description" content="GoogleTest ve GoogleMock, modern C++ projelerinde birim testleri, sahte nesneler (mock) ve parametrik testler çalıştırmanızı sağlayan endüstri standardı açık kaynak test çatısıdır.">
 <meta name="twitter:image" content="https://trescout.com/assets/discover/og/googletest.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Googletest",
+  "headline": "C++ projelerinde endüstri standardı birim testleri",
   "inLanguage": "tr",
-  "description": "Não foi possível produzir um resumo para este item hoje. Consulte o link da fonte para obter detalhes.",
+  "description": "GoogleTest ve GoogleMock, modern C++ projelerinde birim testleri, sahte nesneler (mock) ve parametrik testler çalıştırmanızı sağlayan endüstri standardı açık kaynak test çatısıdır.",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -67,13 +67,30 @@
 <article class="disc">
 <a class="disc-back" href="/discover/">← Keşif</a>
 <div class="disc-top"><span class="disc-eyebrow">Keşif · GitHub</span></div>
-<h1 class="disc-title">Googletest</h1>
-<p class="disc-lead">Não foi possível produzir um resumo para este item hoje. Consulte o link da fonte para obter detalhes.</p>
+<h1 class="disc-title">C++ projelerinde endüstri standardı birim testleri</h1>
+<p class="disc-lead">GoogleTest ve GoogleMock, modern C++ projelerinde birim testleri, sahte nesneler (mock) ve parametrik testler çalıştırmanızı sağlayan endüstri standardı açık kaynak test çatısıdır.</p>
 <ul class="disc-meta"><li>★ 38.987</li><li>C++</li><li>GitHub Trending · 2026-08-27</li></ul>
-      
-<section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links"><li><a href="https://github.com/google/googletest" target="_blank" rel="noopener">GitHub deposu →</a></li></ul></section>
+      <section class="disc-sec"><h2>Güncelleme</h2><ul class="disc-wins"><li><strong>27 Ağustos 2026:</strong> Yıldız 38.987, v1.15.2 sürümü ile C++20 konseptleri ve gelişmiş mock doğrulama desteği.</li></ul></section>
+      <section class="disc-sec"><h2>Ne kazandırır?</h2><ul class="disc-wins"><li><strong>Zengin doğrulama makroları:</strong> ASSERT_* (kritik hata, testi sonlandırır) ve EXPECT_* (hatayı kaydeder, test akışını devam ettirir) makroları ile net hata teşhisi.</li><li><strong>Gelişmiş Mock altyapısı (GoogleMock):</strong> Bağımlılıkları izole etmek için MOCK_METHOD ile arayüzleri kolayca taklit edebilme ve çağrı beklentilerini tanımlama.</li><li><strong>Parametrik test yeteneği:</strong> Aynı test mantığını onlarca farklı girdi ve veri kümesi üzerinde tek bir şablonla otomatik olarak tekrarlayabilme.</li><li><strong>Çoklu platform ve thread güvenliği:</strong> Linux, macOS ve Windows ortamlarında thread-safe mimari ve ölüm testleri (death tests) ile çökme senaryolarını doğrulama.</li><li><strong>CI/CD ve raporlama entegrasyonu:</strong> JUnit uyumlu XML ve JSON çıktı formatları ile GitHub Actions, Jenkins ve GitLab CI boru hatlarıyla kusursuz entegrasyon.</li></ul></section>
+      <section class="disc-sec"><h2>Kurulum</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>CMake FetchContent ile projeye ekleme</span><button type="button" class="disc-copy" aria-label="Kopyala">Kopyala</button></div><pre><code>include(FetchContent)
+FetchContent_Declare(
+  googletest
+  URL https://github.com/google/googletest/archive/refs/tags/v1.15.2.tar.gz
+)
+FetchContent_MakeAvailable(googletest)</code></pre></div></section>
+      <section class="disc-sec"><h2>Çalıştırma</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Testi derleme ve CTest ile yürütme</span><button type="button" class="disc-copy" aria-label="Kopyala">Kopyala</button></div><pre><code>cmake -B build -S .
+cmake --build build
+ctest --test-dir build --output-on-failure</code></pre></div></section>
+      <section class="disc-sec"><h2>Teknik mimari ve çalışma prensibi</h2><p>GoogleTest, modüler bir C++ mimarisi üzerine inşa edilmiştir ve modern derleyicilerle doğrudan optimize edilir:</p><ul class="disc-wins"><li><strong>Test Fixture ve Yaşam Döngüsü Yönetimi:</strong> SetUp ve TearDown yordamları ile her test öncesinde ve sonrasında bellek kaynakları güvenle yönetilir.</li><li><strong>Ölüm Testleri (Death Tests) için Süreç İzolasyonu:</strong> Programın beklenmedik şekilde çökmesini veya assert üretmesini fork mekanizmasıyla izole çocuk süreçlerde yakalar.</li><li><strong>Tip Parametreli Test Şablonları:</strong> Şablonlu sınıfları (C++ templates) farklı veri tipleriyle tek seferde test etmek için Type-Parameterized test altyapısı sunar.</li></ul></section>
+      <section class="disc-sec"><h2>Test senaryoları ve GoogleMock entegrasyonu</h2><p>Modern C++ projelerinde sahte nesnelerle bağımlılıkları yalıtarak test yazımı pratik avantajlar sağlar:</p><ul class="disc-steps"><li><strong>Veritabanı ve Ağ Çağrılarını Soyutlama:</strong> MOCK_METHOD kullanarak gerçek ağ bağlantısı kurmadan beklenen API yanıtlarını ve gecikmeleri simüle edin.</li><li><strong>Çağrı Sayısı ve Parametre Doğrulama:</strong> EXPECT_CALL makrosu ile bir fonksiyonun kaç kez, hangi argümanlarla ve hangi sırayla çağrıldığını denetleyin.</li><li><strong>Hata Fırlatma Senaryolarını İnceleme:</strong> İstisna fırlatan (throw) kod bloklarını EXPECT_THROW makrolarıyla test ederek dayanıklılığı garanti altına alın.</li></ul></section>
+      <section class="disc-sec"><h2>Kod bilmiyorsanız</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın</span><button type="button" class="disc-copy" aria-label="Kopyala">Kopyala</button></div><p class="disc-ai-text">Modern bir C++ projesinde GoogleTest ve GoogleMock kullanarak bir veri ayrıştırıcı (parser) sınıfı için birim testleri yazmak istiyorum. CMakeLists.txt dosyamı nasıl yapılandıracağımı, örnek bir TEST_F test fikstürünü ve MOCK_METHOD ile sahte nesne oluşturup çağrı beklentilerini nasıl doğrulayacağımı kod örnekleriyle açıklar mısın?</p></div></section>
+      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Kimin için</span><span class="disc-fact-v">C++ yazılım mühendisleri, gömülü sistem geliştiricileri ve sistem mimarları.</span></div><div class="disc-fact"><span class="disc-fact-k">Lisans</span><span class="disc-fact-v">BSD 3-Clause (Esnek açık kaynak lisansı)</span></div><div class="disc-fact"><span class="disc-fact-k">Çatı</span><span class="disc-fact-v">C++ Test ve Mock Kütüphanesi</span></div><div class="disc-fact"><span class="disc-fact-k">Platformlar</span><span class="disc-fact-v">Linux, macOS, Windows, Android, iOS</span></div></div>
+      <section class="disc-sec"><h2>Sıkça sorulan sorular</h2><ul class="disc-wins"><li><strong>GoogleTest'i projeye dahil etmenin en modern yolu nedir?</strong> Modern CMake projelerinde FetchContent mekanizması en çok önerilen yaklaşımdır. Harici bir paket yöneticisine ihtiyaç duymadan kaynak kodu indirir ve hedef derleme sürecine bağlar.</li><li><strong>EXPECT_* ile ASSERT_* arasındaki temel fark nedir?</strong> EXPECT_* makroları başarısız olduğunda hatayı günlüğe kaydeder ancak fonksiyonun geri kalanının çalışmasına izin verir. ASSERT_* ise hatada derhal mevcut test fonksiyonundan çıkar.</li><li><strong>GoogleMock ayrı bir kütüphane midir?</strong> GoogleMock başlangıçta ayrı bir projeydi ancak uzun süredir GoogleTest deposuyla tek bir çatı altında birleştirilmiştir; ikisi birlikte kurulur ve kullanılır.</li><li><strong>Thread güvenliği sunuyor mu?</strong> Evet. GoogleTest, pthreads destekleyen sistemlerde ve Windows üzerinde thread-safe olarak çalışır; birden fazla thread üzerinden gelen eşzamanlı bildirimleri doğru şekilde senkronize eder.</li></ul></section>
+      <section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links"><li><a href="https://github.com/google/googletest" target="_blank" rel="noopener">GitHub deposu →</a></li></ul></section>
 <p class="disc-disclaimer">TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-27 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.</p>
-<aside class="disc-cta"><p><strong>Benzer keşifleri günlük raporda al.</strong> TreScout; GitHub, Hacker News ve HuggingFace trendlerini her gün tarar, öne çıkan açık kaynak araçları Türkçe özetler.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover" data-page-type="discover" data-content-slug="googletest" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/discover/">Tüm keşifler →</a></aside>
+
+<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related"><a href="/dictionary/ci-cd/">CI/CD</a><a href="/dictionary/open-source/">Açık Kaynak</a><a href="/dictionary/cli/">CLI</a><a href="/dictionary/api/">API</a><a href="/dictionary/framework/">Framework</a></div></section>
+      <aside class="disc-cta"><p><strong>Benzer keşifleri günlük raporda al.</strong> TreScout; GitHub, Hacker News ve HuggingFace trendlerini her gün tarar, öne çıkan açık kaynak araçları Türkçe özetler.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover" data-page-type="discover" data-content-slug="googletest" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/discover/">Tüm keşifler →</a></aside>
 </article>
 </main>
 <footer>
