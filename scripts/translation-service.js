@@ -1,25 +1,92 @@
 const https = require('https');
+const fs = require('fs');
+const os = require('os');
+const path = require('path');
 
 // Model zinciri · scripts/gemini_zinciri.py ile AYNI kurallar (iki dilde tek
-// sözleşme; birini değiştirirseniz diğerini de değiştirin). Kota model başına:
-// günlük kotası biten (429 + "PerDay") ya da bulunamayan (404) model bu koşuda
-// bırakılır, sıradakine geçilir. Dakikalık 429'da beklenip aynı modelle denenir.
-const MODELS = (process.env.GEMINI_MODELS || process.env.GEMINI_MODEL || process.env.TREESCOUT_TRANSLATION_MODEL
-  || 'gemini-3.5-flash-lite,gemini-3.1-flash-lite').split(',').map(m => m.trim()).filter(Boolean);
-const MIN_INTERVAL_MS = Number(process.env.GEMINI_MIN_INTERVAL || 4.2) * 1000;
-const CONSECUTIVE_429_LIMIT = 3;
-const exhausted = new Set();
-const consecutive429 = new Map();
+// sözleşme; birini değiştirirseniz diğerini de değiştirin, check-gemini-zinciri.py
+// varsayılan zincirin aynı kaldığını denetler). Sıra, sınıflar ve gerekçeler
+// için Python modülünün başlığına bakın.
+const DEFAULT_CHAIN = 'gemini-3.8-flash:5,gemini-3.7-flash:5,gemini-3.6-flash:5,gemini-3.5-flash:5,'
+  + 'gemini-3-flash-preview:5,gemini-2.5-flash:5,'
+  + 'gemini-3.5-flash-lite:15,gemini-3.1-flash-lite:15';
+const CHAIN = (process.env.GEMINI_MODELS || process.env.GEMINI_MODEL || process.env.TREESCOUT_TRANSLATION_MODEL || DEFAULT_CHAIN)
+  .split(',').map(s => s.trim()).filter(Boolean)
+  .map(s => { const [model, rpm] = s.split(':'); return [model.trim(), Number(rpm) || 15]; });
+const MODELS = CHAIN.map(([m]) => m);
+const RPM = new Map(CHAIN);
+const FAILURE_LIMIT = 3;
+const MIN_OUTPUT_TOKENS = 8192;
+// Biten modeller süreçler arasında paylaşılır (Python modülüyle AYNI dosya) ·
+// gerekçe gemini_zinciri.py'de. Dosya repo dışında, kota Pasifik gününe ait.
+const STATE_FILE = process.env.GEMINI_ZINCIR_DURUM
+  || path.join(process.env.RUNNER_TEMP || os.tmpdir(), 'trescout-gemini-zinciri.json');
+
+function quotaDay() {
+  return new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Los_Angeles' }).format(new Date());
+}
+
+function readState() {
+  try {
+    const d = JSON.parse(fs.readFileSync(STATE_FILE, 'utf8'));
+    return d.gun === quotaDay() ? new Set(d.bitenler || []) : new Set();
+  } catch { return new Set(); }
+}
+
+function writeState(model) {
+  try {
+    const all = [...new Set([...readState(), model])].sort();
+    fs.writeFileSync(STATE_FILE, JSON.stringify({ gun: quotaDay(), bitenler: all }));
+  } catch { /* yalnız hız kazancı; yazılamazsa zincir yine çalışır */ }
+}
+
+const exhausted = new Set([...readState()].filter(m => MODELS.includes(m)));
+if (exhausted.size) console.error(`  · Gemini: bugün kotası biten modeller atlanıyor (${[...exhausted].sort().join(', ')})`);
+const consecutiveFailures = new Map();
+let geminiDisabled = false;
 let lastRequestAt = 0;
 
 function activeModel() {
+  if (geminiDisabled) return null;
   return MODELS.find(m => !exhausted.has(m)) || null;
 }
 
-function dropModel(model, reason) {
+function dropModel(model, reason, persist = true) {
   exhausted.add(model);
+  if (persist) writeState(model);
   const next = activeModel();
   console.log(`  ! Gemini ${model}: ${reason} · ${next ? `${next} ile devam` : 'zincirde model kalmadı, Gemini bu koşuda kapalı'}`);
+}
+
+function disableGemini(reason) {
+  if (geminiDisabled) return;
+  geminiDisabled = true;
+  console.log(`  ! Gemini kapatıldı: ${reason} · anahtar/hesap sorunu, hiçbir model denenmeyecek`);
+}
+
+function recordFailure(model) {
+  const n = (consecutiveFailures.get(model) || 0) + 1;
+  consecutiveFailures.set(model, n);
+  // Kalıcı değil: sebep kota değil, ertesi süreç modeli yeniden denesin
+  if (n >= FAILURE_LIMIT && !exhausted.has(model)) dropModel(model, `üst üste ${FAILURE_LIMIT} başarısız istek`, false);
+}
+
+function classify(status, body) {
+  if (status === 429) return /PerDay|quota_exceeded|daily quota/i.test(body) ? 'daily' : 'transient';
+  if (status === 401 || status === 402 || /API_KEY_INVALID|FAILED_PRECONDITION|failed_precondition|leaked/.test(body)) return 'key';
+  if (status === 404 || status === 403) return 'model';
+  if ([408, 500, 502, 503, 504].includes(status)) return 'transient';
+  return 'request';
+}
+
+// Yalnız TAM yanıtın metni · engellendi (blockReason) ya da yarıda kesildiyse
+// (finishReason != STOP, ör. MAX_TOKENS) boş döner; yarım çeviri asla yazılmaz.
+function responseText(data) {
+  if (!data || data?.promptFeedback?.blockReason) return '';
+  const candidate = data?.candidates?.[0];
+  if (!candidate) return '';
+  if (candidate.finishReason && candidate.finishReason !== 'STOP') return '';
+  return (candidate?.content?.parts || []).filter(p => !p?.thought).map(p => p?.text || '').join('').trim();
 }
 
 function sleep(ms) {
@@ -55,38 +122,49 @@ function requestJson(url, options, body, timeoutMs) {
 async function geminiRequest(body, timeoutMs, attempts = 4) {
   const key = (process.env.GEMINI_API_KEY || '').trim();
   if (!key) return null;
+  // Düşünme token'ları maxOutputTokens'a sayılıyor · bkz. gemini_zinciri.py
+  const parsed = JSON.parse(body);
+  parsed.generationConfig = { ...(parsed.generationConfig || {}) };
+  parsed.generationConfig.maxOutputTokens = Math.max(Number(parsed.generationConfig.maxOutputTokens) || 0, MIN_OUTPUT_TOKENS);
+  const payload = JSON.stringify(parsed);
   let attempt = 0;
   for (;;) {
     const model = activeModel();
     if (!model) return null;
-    const wait = lastRequestAt + MIN_INTERVAL_MS - Date.now();
+    const interval = process.env.GEMINI_MIN_INTERVAL != null
+      ? Number(process.env.GEMINI_MIN_INTERVAL) * 1000
+      : (60000 / (RPM.get(model) || 15)) * 1.05;
+    const wait = lastRequestAt + interval - Date.now();
     if (wait > 0) await sleep(wait);
     lastRequestAt = Date.now();
     try {
       const data = await requestJson(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json', 'x-goog-api-key': key },
-      }, body, timeoutMs);
-      consecutive429.set(model, 0);
+      }, payload, timeoutMs);
+      if (!responseText(data)) { recordFailure(model); return null; }
+      consecutiveFailures.set(model, 0);
       return data;
     } catch (error) {
       const status = error?.status;
       const raw = String(error?.body || '');
-      if (status === 429 && raw.includes('PerDay')) { dropModel(model, 'günlük kota doldu'); attempt = 0; continue; }
-      if (status === 404) { dropModel(model, 'model bulunamadı (404)'); attempt = 0; continue; }
-      const msg = String(error?.message || error);
-      const retryable = [429, 500, 502, 503].includes(status) || /timeout|ECONNRESET|UNAVAILABLE/i.test(msg);
-      if (retryable && attempt < attempts - 1) {
-        const hinted = raw.match(/"retryDelay"\s*:\s*"([0-9.]+)s"/);
-        await sleep(hinted ? Math.min(Math.max(Number(hinted[1]), 1), 90) * 1000 : Math.min(5000 * (attempt + 1), 60000));
-        attempt += 1;
-        continue;
+      if (status) {
+        const kind = classify(status, raw);
+        if (kind === 'daily') { dropModel(model, 'günlük kota doldu'); attempt = 0; continue; }
+        if (kind === 'model') { dropModel(model, `model kullanılamıyor (${status})`); attempt = 0; continue; }
+        if (kind === 'key') { disableGemini(`HTTP ${status}`); return null; }
+        if (kind === 'transient' && attempt < attempts - 1) {
+          const hinted = raw.match(/"retryDelay"\s*:\s*"([0-9.]+)s"/);
+          await sleep(hinted ? Math.min(Math.max(Number(hinted[1]), 1), 90) * 1000 : Math.min(5000 * (attempt + 1), 60000));
+          attempt += 1;
+          continue;
+        }
+        recordFailure(model);
+        return null;
       }
-      if (status === 429) {
-        const n = (consecutive429.get(model) || 0) + 1;
-        consecutive429.set(model, n);
-        if (n >= CONSECUTIVE_429_LIMIT) dropModel(model, `üst üste ${CONSECUTIVE_429_LIMIT} kez 429`);
-      }
+      // ağ hatası / zaman aşımı / geçersiz JSON
+      if (attempt < attempts - 1) { await sleep(Math.min(5000 * (attempt + 1), 30000)); attempt += 1; continue; }
+      recordFailure(model);
       return null;
     }
   }
@@ -113,8 +191,7 @@ async function gemini(text, lang) {
     generationConfig: { temperature: 0.1, maxOutputTokens: 2048 },
   });
   const data = await geminiRequest(body, 60000);
-  const textParts = data?.candidates?.[0]?.content?.parts || [];
-  return clean(textParts.map(part => part?.text || '').join('')) || null;
+  return clean(responseText(data)) || null;
 }
 
 async function gtx(text, lang) {
@@ -183,7 +260,7 @@ async function geminiBatch(texts, lang) {
     const data = await geminiRequest(body, 90000);
     if (!data) return null;
     try {
-      const raw = clean((data?.candidates?.[0]?.content?.parts || []).map(part => part?.text || '').join(''));
+      const raw = clean(responseText(data));
       const parsed = parseJsonPayload(raw);
       const rows = Array.isArray(parsed) ? parsed : parsed?.translations;
       if (!Array.isArray(rows) || rows.length !== texts.length) throw new Error('Gemini batch shape mismatch');

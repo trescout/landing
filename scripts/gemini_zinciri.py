@@ -1,64 +1,148 @@
 """Gemini model zinciri · landing'deki tüm Python Gemini çağrılarının tek girişi.
 
-Free tier'da kota MODEL BAŞINA tutuluyor (ör. 3.5 Flash Lite ve 3.1 Flash Lite
-için ayrı ayrı 15 RPM / 500 RPD). Zincir önce daha iyi modeli kullanır, onun
-günlük kotası bitince sıradakine geçer. Limitleri koda gömmüyoruz: hangi
-hesabın anahtarı kullanılırsa kullanılsın, günlük kotanın bittiğini 429
-yanıtındaki quota kimliğinden ("...PerDay...") anlıyoruz.
+Free tier'da kota MODEL BAŞINA tutuluyor. Zincir en iyi modelden başlar, onun
+günlük kotası bitince sıradakine geçer. Varsayılan sıra (AI Studio Rate Limit
+tablosu, 2026-09-27, free tier):
+  Flash ailesi   · 5 RPM / 20 RPD her biri  → 6 model, günde ~120 istek
+  Flash-Lite     · 15 RPM / 500 RPD her biri → 2 model, günde 1000 istek
+Günlük normal hacim ~80-150 istek (5 dil); çoğu gün Flash'larla karşılanır,
+birikmiş iş Lite'lara düşer.
 
-429 iki türlü:
-- dakikalık (RPM): önerilen retryDelay kadar bekleyip AYNI modelle tekrar dene
-- günlük (RPD): o model bu koşu için bitti, beklemek anlamsız · sıradakine geç
-Eskiden ikisi aynı "duraklat ve tekrar dene" döngüsüne giriyordu; günlük kota
-bittiğinde koşu saatlerce boşuna bekliyordu (2026-09-26: iş 180 dk sınırına
-takılıp iptal oldu).
+Zincir öğesi "model:rpm" biçiminde · rpm istekler arası aralığı belirler
+(60/rpm sn). Günlük limiti koda gömmüyoruz: hangi hesabın anahtarı kullanılırsa
+kullanılsın, kotanın bittiği yanıttan anlaşılır.
+
+Hata sınıfları (https://ai.google.dev/gemini-api/docs/api-errors):
+- günlük kota (429 quota_exceeded / "PerDay") ve model yok (404) ya da modele
+  erişim yok (403) → model bu koşuda bırakılır, sıradakine geçilir
+- anahtar/hesap (401 kimlik, 402 kredi, 400 FAILED_PRECONDITION, API_KEY_INVALID)
+  → hiçbir model çalışmaz, Gemini bu koşuda kapatılır
+- geçici (429 dakikalık, 408, 500, 503, 504, ağ) → beklenip aynı modelle denenir
+- istek hatası (400 INVALID_ARGUMENT) → bu istek başarısız, model kalır
+- 200 ama engellendi / yarıda kesildi (blockReason, finishReason != STOP) →
+  bu istek başarısız sayılır; yarım çeviri asla dönmez
+Aynı model üst üste _ART_ARDA_SINIR kez başarısız olursa (sınıf ne olursa olsun)
+bırakılır · bilinmeyen bir hata biçimi koşuyu saatlerce oyalamasın.
 
 Zincir: GEMINI_MODELS (virgülle) > GEMINI_MODEL / TREESCOUT_TRANSLATION_MODEL
 (tek model, geriye uyum) > varsayılan.
 """
 
+import datetime
 import json
 import os
 import re
+import tempfile
 import time
 import urllib.error
 import urllib.request
 
-VARSAYILAN_ZINCIR = "gemini-3.5-flash-lite,gemini-3.1-flash-lite"
+VARSAYILAN_ZINCIR = ("gemini-3.8-flash:5,gemini-3.7-flash:5,gemini-3.6-flash:5,gemini-3.5-flash:5,"
+                     "gemini-3-flash-preview:5,gemini-2.5-flash:5,"
+                     "gemini-3.5-flash-lite:15,gemini-3.1-flash-lite:15")
 
-MODELLER = [m.strip() for m in (
+
+def _zincir_coz(metin: str) -> list[tuple[str, float]]:
+    zincir = []
+    for oge in metin.split(","):
+        oge = oge.strip()
+        if not oge:
+            continue
+        model, _, rpm = oge.partition(":")
+        zincir.append((model.strip(), float(rpm) if rpm.strip() else 15.0))
+    return zincir
+
+
+ZINCIR = _zincir_coz(
     os.environ.get("GEMINI_MODELS")
     or os.environ.get("GEMINI_MODEL")
     or os.environ.get("TREESCOUT_TRANSLATION_MODEL")
     or VARSAYILAN_ZINCIR
-).split(",") if m.strip()]
+)
+MODELLER = [m for m, _ in ZINCIR]
+_RPM = dict(ZINCIR)
 
-# İstekler arası asgari süre · 15 RPM = 4 sn. Dakikalık 429'u baştan önler.
-ASGARI_ARALIK = float(os.environ.get("GEMINI_MIN_INTERVAL", "4.2"))
-
-_bitenler: set[str] = set()
-_son_istek = 0.0
-# Yanıtta "PerDay" görünmese de (hesap/tier farkı) bir model üst üste bu kadar
-# kez tüm 429 denemelerini tüketirse bitmiş sayılır · koşu boşuna beklemesin.
 _ART_ARDA_SINIR = 3
-_art_arda_429: dict[str, int] = {}
+ASGARI_CIKTI = 8192
+
+# Biten modeller süreçler arasında paylaşılır · dict-sync günde ~20 ayrı süreç
+# başlatıyor; her biri zincire baştan başlasaydı kotası bitmiş her Flash'ı bir
+# kez daha dener (günde ~120 boş istek, 12 sn aralıkla ~25 dk). Kota Pasifik
+# gece yarısı sıfırlandığı için kayıt o güne ait. Dosya repo DIŞINDA
+# (dict-sync `git add -A` ile commit'lemesin).
+DURUM_DOSYASI = os.environ.get("GEMINI_ZINCIR_DURUM") or os.path.join(
+    os.environ.get("RUNNER_TEMP") or tempfile.gettempdir(), "trescout-gemini-zinciri.json")
+
+
+def _kota_gunu() -> str:
+    try:
+        from zoneinfo import ZoneInfo
+        return datetime.datetime.now(ZoneInfo("America/Los_Angeles")).date().isoformat()
+    except Exception:
+        return (datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=8)).date().isoformat()
+
+
+def _durum_oku() -> set[str]:
+    try:
+        with open(DURUM_DOSYASI, encoding="utf-8") as f:
+            d = json.load(f)
+        return set(d.get("bitenler") or []) if d.get("gun") == _kota_gunu() else set()
+    except Exception:
+        return set()
+
+
+def _durum_yaz(model: str) -> None:
+    try:
+        bitenler = _durum_oku() | {model}
+        with open(DURUM_DOSYASI, "w", encoding="utf-8") as f:
+            json.dump({"gun": _kota_gunu(), "bitenler": sorted(bitenler)}, f)
+    except Exception:
+        pass  # durum dosyası yalnız hız kazancı; yazılamazsa zincir yine çalışır
+
+
+_bitenler: set[str] = _durum_oku() & set(MODELLER)
+if _bitenler:
+    import sys as _sys
+    print(f"  · Gemini: bugün kotası biten modeller atlanıyor ({', '.join(sorted(_bitenler))})", file=_sys.stderr, flush=True)
+_art_arda_hata: dict[str, int] = {}
+_kapali = False
+_son_istek = 0.0
 
 
 def aktif_model() -> str | None:
-    """Zincirde günlük kotası bitmemiş ilk model · hepsi bittiyse None."""
+    """Zincirde bırakılmamış ilk model · hepsi bittiyse ya da Gemini kapalıysa None."""
+    if _kapali:
+        return None
     return next((m for m in MODELLER if m not in _bitenler), None)
 
 
-def _birak(model: str, neden: str) -> None:
+def _birak(model: str, neden: str, kalici: bool = True) -> None:
     _bitenler.add(model)
+    if kalici:
+        _durum_yaz(model)
     sonraki = aktif_model()
     devam = f"{sonraki} ile devam" if sonraki else "zincirde model kalmadı, Gemini bu koşuda kapalı"
     print(f"  ! Gemini {model}: {neden} · {devam}", flush=True)
 
 
-def _bekle_sira() -> None:
+def _kapat(neden: str) -> None:
+    global _kapali
+    if not _kapali:
+        _kapali = True
+        print(f"  ! Gemini kapatıldı: {neden} · anahtar/hesap sorunu, hiçbir model denenmeyecek", flush=True)
+
+
+def _basarisiz(model: str) -> None:
+    _art_arda_hata[model] = _art_arda_hata.get(model, 0) + 1
+    if _art_arda_hata[model] >= _ART_ARDA_SINIR and model not in _bitenler:
+        # Kalıcı değil: sebep kota değil, ertesi süreç modeli yeniden denesin
+        _birak(model, f"üst üste {_ART_ARDA_SINIR} başarısız istek", kalici=False)
+
+
+def _bekle_sira(model: str) -> None:
     global _son_istek
-    kalan = _son_istek + ASGARI_ARALIK - time.time()
+    aralik = float(os.environ.get("GEMINI_MIN_INTERVAL") or (60.0 / _RPM.get(model, 15.0)) * 1.05)
+    kalan = _son_istek + aralik - time.time()
     if kalan > 0:
         time.sleep(kalan)
     _son_istek = time.time()
@@ -77,22 +161,45 @@ def _gecikme(error: urllib.error.HTTPError, govde: str, deneme: int) -> float:
     return min(5.0 * (deneme + 1), 60.0)
 
 
-def istek(body: dict, key: str, timeout: float = 90, deneme_sayisi: int = 4) -> dict | None:
-    """generateContent'i zincir üzerinden çağırır; yanıt JSON'unu ya da None döner.
+def siniflandir(kod: int, govde: str) -> str:
+    """HTTP hatasını sınıflandır: gunluk | model | anahtar | gecici | istek."""
+    if kod == 429:
+        if re.search(r"PerDay|quota_exceeded|daily quota", govde, re.I):
+            return "gunluk"
+        return "gecici"
+    # Anahtar kontrolü 403'ten önce: sızdırılmış anahtar 403 + "leaked" döner,
+    # "model" sayılsaydı zincirdeki her model boşuna denenirdi.
+    if kod in (401, 402) or re.search(r"API_KEY_INVALID|FAILED_PRECONDITION|failed_precondition|leaked", govde):
+        return "anahtar"
+    if kod in (404, 403):
+        return "model"
+    if kod in (408, 500, 502, 503, 504):
+        return "gecici"
+    return "istek"
 
-    None: tüm modellerin günlük kotası bitti, ya da kalıcı hata. Çağıran,
+
+def istek(body: dict, key: str, timeout: float = 90, deneme_sayisi: int = 4) -> dict | None:
+    """generateContent'i zincir üzerinden çağırır; kullanılabilir yanıt JSON'u ya da None.
+
+    None: istek başarısız, tüm modeller bitti ya da Gemini kapalı. Çağıran,
     None'da aynı isteği tekrar denememeli (sonuç değişmez).
     """
     if not key:
         return None
-    veri = json.dumps(body, ensure_ascii=False).encode("utf-8")
+    # Flash ailesinde düşünme varsayılan açık (medium) ve düşünme token'ları
+    # maxOutputTokens'a sayılıyor (ai.google.dev/gemini-api/docs/thinking).
+    # Küçük sınır (ör. başlıkta 64) cevaba yer bırakmıyor, MAX_TOKENS ile boş
+    # dönüyordu. thinkingLevel göndermiyoruz: modeller arasında destek tutarsız.
+    ayar = dict(body.get("generationConfig") or {})
+    ayar["maxOutputTokens"] = max(int(ayar.get("maxOutputTokens") or 0), ASGARI_CIKTI)
+    veri = json.dumps({**body, "generationConfig": ayar}, ensure_ascii=False).encode("utf-8")
     deneme = 0
     while True:
         model = aktif_model()
         if not model:
             return None
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
-        _bekle_sira()
+        _bekle_sira(model)
         try:
             req = urllib.request.Request(
                 url, data=veri, method="POST",
@@ -100,44 +207,55 @@ def istek(body: dict, key: str, timeout: float = 90, deneme_sayisi: int = 4) -> 
             )
             with urllib.request.urlopen(req, timeout=timeout) as resp:
                 yanit = json.loads(resp.read().decode("utf-8"))
-            _art_arda_429[model] = 0
+            if not metin(yanit):
+                # 200 ama engellendi ya da yarıda kesildi · içerik kaynaklı olabilir
+                _basarisiz(model)
+                return None
+            _art_arda_hata[model] = 0
             return yanit
         except urllib.error.HTTPError as e:
             try:
                 govde = e.read().decode("utf-8", errors="replace")
             except Exception:
                 govde = ""
-            if e.code == 429 and "PerDay" in govde:
+            sinif = siniflandir(e.code, govde)
+            if sinif == "gunluk":
                 _birak(model, "günlük kota doldu")
                 deneme = 0
                 continue
-            if e.code == 404:
-                _birak(model, "model bulunamadı (404)")
+            if sinif == "model":
+                _birak(model, f"model kullanılamıyor ({e.code})")
                 deneme = 0
                 continue
-            if e.code in (429, 500, 502, 503) and deneme < deneme_sayisi - 1:
+            if sinif == "anahtar":
+                _kapat(f"HTTP {e.code}")
+                return None
+            if sinif == "gecici" and deneme < deneme_sayisi - 1:
                 time.sleep(_gecikme(e, govde, deneme))
                 deneme += 1
                 continue
-            if e.code == 429:
-                _art_arda_429[model] = _art_arda_429.get(model, 0) + 1
-                if _art_arda_429[model] >= _ART_ARDA_SINIR:
-                    _birak(model, f"üst üste {_ART_ARDA_SINIR} kez 429")
+            _basarisiz(model)
             return None
         except Exception:
             if deneme < deneme_sayisi - 1:
                 time.sleep(min(5.0 * (deneme + 1), 30.0))
                 deneme += 1
                 continue
+            _basarisiz(model)
             return None
 
 
 def metin(yanit: dict | None) -> str:
-    """Yanıttaki ilk adayın metni · yoksa boş string."""
+    """Yanıttaki ilk adayın TAM metni · engellendi/yarıda kesildiyse boş string."""
     if not yanit:
+        return ""
+    if (yanit.get("promptFeedback") or {}).get("blockReason"):
         return ""
     adaylar = yanit.get("candidates") or []
     if not adaylar:
         return ""
+    bitis = adaylar[0].get("finishReason")
+    if bitis and bitis != "STOP":
+        return ""
     parcalar = (adaylar[0].get("content") or {}).get("parts") or []
-    return "".join(str(p.get("text") or "") for p in parcalar).strip()
+    return "".join(str(p.get("text") or "") for p in parcalar if not p.get("thought")).strip()

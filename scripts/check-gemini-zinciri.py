@@ -28,16 +28,21 @@ for p in sorted(glob.glob(os.path.join(ROOT, "scripts", "*.py")) + glob.glob(os.
         if DESEN.search(satir):
             hatalar.append(f"{os.path.relpath(p, ROOT)}:{no}: Gemini adresi/modeli zincir dışında · gemini_zinciri.py kullanın")
 
-py_zincir = re.search(r'VARSAYILAN_ZINCIR = "([^"]+)"', open(PY, encoding="utf-8").read())
-js_zincir = re.search(r"\|\|\s*'(gemini-[^']+)'\)\.split", open(JS, encoding="utf-8").read())
+def varsayilan(yol, desen):
+    """Atamadaki tüm string parçalarını birleştir (zincir birden çok satıra bölünüyor)."""
+    m = re.search(desen, open(yol, encoding="utf-8").read(), re.S)
+    return "".join(re.findall(r"[\"']([^\"']*)[\"']", m.group(1))) if m else None
+
+py_zincir = varsayilan(PY, r"VARSAYILAN_ZINCIR = \((.*?)\)\n")
+js_zincir = varsayilan(JS, r"const DEFAULT_CHAIN = (.*?);\n")
 if not py_zincir or not js_zincir:
     hatalar.append("varsayılan zincir iki dosyadan birinde bulunamadı (guard deseni güncellenmeli)")
-elif py_zincir.group(1) != js_zincir.group(1):
-    hatalar.append(f"varsayılan zincir ayrıştı · py={py_zincir.group(1)} js={js_zincir.group(1)}")
+elif py_zincir != js_zincir:
+    hatalar.append(f"varsayılan zincir ayrıştı · py={py_zincir} js={js_zincir}")
 
 if hatalar:
     print("❌ Gemini zincir guard'ı:")
     for h in hatalar:
         print("  -", h)
     sys.exit(1)
-print(f"✅ Gemini zinciri tek yerde · varsayılan: {py_zincir.group(1)}")
+print(f"✅ Gemini zinciri tek yerde · varsayılan: {py_zincir}")
