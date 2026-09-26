@@ -56,6 +56,9 @@ jobs:
         run: python3 scripts/check-footer-consistency.py
       - name: Logo geometri kontrolü
         run: python3 scripts/check-logo-consistency.py
+      # Gemini model zinciri tek yerde · yeni betik tek modele bağlanmasın.
+      - name: Gemini model zinciri kontrolü
+        run: python3 scripts/check-gemini-zinciri.py
       # Ana sayfa kataloğu tam katalogdan türetiliyor · katalog değişip türev
       # geride kalırsa ana sayfa eski kartları gösterir.
       # Düzeltmesi: python3 scripts/catalog-home.py

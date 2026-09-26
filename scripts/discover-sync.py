@@ -207,7 +207,8 @@ PRE=('<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type=
 VERCEL='<script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>\n<script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>\n<script src="/assets/provider-consent.js" defer></script>\n'
 
 # ============ ZENGİN OTO (README'den gerçek komut + Gemini anlatım) ============
-MODEL=os.environ.get("GEMINI_MODEL") or os.environ.get("TREESCOUT_TRANSLATION_MODEL") or "gemini-3.1-flash-lite"
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import gemini_zinciri  # noqa: E402 · model zinciri, 429 ayrımı, istek aralığı
 def gemini_key():
     k=os.environ.get("GEMINI_API_KEY")
     if k: return k
@@ -297,44 +298,19 @@ def start_url(md):
         u=(g[0] or g[1]).rstrip('"\'/.,);]>')
         if u and not BAD.search(u): return u
     return ""
-def _http_retry_delay(error, attempt):
-    """Provider'ın Retry-After/retryDelay bilgisini kullan; response body loglama."""
-    header = error.headers.get("Retry-After") if error.headers else None
-    if header:
-        try:
-            return min(max(float(header), 1.0), 90.0)
-        except ValueError:
-            pass
-    try:
-        body = error.read().decode("utf-8", errors="replace")
-        m = re.search(r'"retryDelay"\s*:\s*"([0-9.]+)s"', body)
-        if m:
-            return min(max(float(m.group(1)), 1.0), 90.0)
-    except Exception:
-        pass
-    return min((attempt + 1) * 4.0, 60.0)
-
 
 def gemini_enrich(title,summary,readme,blocks,key):
     payload=("ARAÇ: "+title+"\nÖZET: "+(summary or "")+"\n\nREADME:\n"+readme[:8000]+
              "\n\nAYIKLANAN GERÇEK KOMUTLAR (komutu yalnızca bunlardan, birebir seç):\n"+json.dumps(blocks,ensure_ascii=False))
     body={"systemInstruction":{"parts":[{"text":ENRICH_SYS}]},"contents":[{"parts":[{"text":payload}]}],
           "generationConfig":{"temperature":0.4,"responseMimeType":"application/json","maxOutputTokens":2048}}
-    # key header'da taşınır · URL query param'ı log/proxy'lerde sızabilir
-    url=f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
-    req=urllib.request.Request(url,data=json.dumps(body).encode(),headers={"Content-Type":"application/json","x-goog-api-key":key},method="POST")
-    for attempt in range(4):
-        try:
-            raw=json.loads(urllib.request.urlopen(req,timeout=120).read().decode())["candidates"][0]["content"]["parts"][0]["text"]
-            return json.loads(raw)
-        except urllib.error.HTTPError as e:
-            if e.code in (429,500,502,503) and attempt<3:
-                time.sleep(_http_retry_delay(e, attempt))
-                continue
-            return None
-        except Exception:
-            if attempt<3: time.sleep((attempt+1)*4); continue
-            return None
+    # Kota/erişim hatasında zincir None döner, tekrar denemek sonucu değiştirmez;
+    # yalnız biçim hatasında bir kez daha istenir.
+    for attempt in range(2):
+        raw=gemini_zinciri.metin(gemini_zinciri.istek(body,key,timeout=120))
+        if not raw: return None
+        try: return json.loads(raw)
+        except Exception: continue
     return None
 
 def enrich_entry(url,title,summary,key):
@@ -570,21 +546,13 @@ def gemini_headline(title,tagline,key,extra=""):
     payload=f"ARAÇ: {title}\nTANIM: {tagline or ''}"+(f"\n{extra}" if extra else "")
     body={"systemInstruction":{"parts":[{"text":HEADLINE_SYS}]},"contents":[{"parts":[{"text":payload}]}],
           "generationConfig":{"temperature":0.5,"responseMimeType":"application/json","maxOutputTokens":64}}
-    url=f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
-    req=urllib.request.Request(url,data=json.dumps(body).encode(),headers={"Content-Type":"application/json","x-goog-api-key":key},method="POST")
-    for attempt in range(4):
+    for attempt in range(2):
+        raw=gemini_zinciri.metin(gemini_zinciri.istek(body,key,timeout=60))
+        if not raw: return None
         try:
-            raw=json.loads(urllib.request.urlopen(req,timeout=60).read().decode())["candidates"][0]["content"]["parts"][0]["text"]
             b=normalize_headline((json.loads(raw).get("baslik") or "").strip())
             return b or None
-        except urllib.error.HTTPError as e:
-            if e.code in (429,500,502,503) and attempt<3:
-                time.sleep(_http_retry_delay(e, attempt))
-                continue
-            return None
-        except Exception:
-            if attempt<3: time.sleep((attempt+1)*4); continue
-            return None
+        except Exception: continue
     return None
 
 def _set_page_headline(c, headline):

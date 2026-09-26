@@ -12,8 +12,10 @@ import urllib.error
 import urllib.parse
 import urllib.request
 import re
+import sys
 
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL") or os.environ.get("TREESCOUT_TRANSLATION_MODEL") or "gemini-3.1-flash-lite"
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import gemini_zinciri  # noqa: E402 · model zinciri, 429 ayrımı, istek aralığı
 
 # Rate-limit pause state. A quota wall is a property of the whole process, not
 # of one passage: once the provider has refused every retry of a call, later
@@ -23,8 +25,6 @@ GEMINI_MODEL = os.environ.get("GEMINI_MODEL") or os.environ.get("TREESCOUT_TRANS
 # doubles on each consecutive exhaustion so a run that has truly hit the daily
 # quota parks itself instead of probing every ninety seconds.
 _PAUSE_CAP = 600.0
-_GEMINI_PAUSED_UNTIL = 0.0
-_GEMINI_PAUSE_STREAK = 0
 _GTX_PAUSED_UNTIL = 0.0
 _GTX_PAUSE_STREAK = 0
 
@@ -67,18 +67,6 @@ def _duyur(saglayici: str, span: float, streak: int) -> None:
               f"(tekrarında pencere ikiye katlanır)", flush=True)
 
 
-def _pause_gemini(delay: float) -> None:
-    global _GEMINI_PAUSED_UNTIL, _GEMINI_PAUSE_STREAK
-    _GEMINI_PAUSE_STREAK += 1
-    span = _pause_span(delay, _GEMINI_PAUSE_STREAK)
-    _duyur("Gemini", span, _GEMINI_PAUSE_STREAK)
-    _GEMINI_PAUSED_UNTIL = max(_GEMINI_PAUSED_UNTIL, time.time() + span)
-
-
-def _gemini_is_paused() -> bool:
-    return time.time() < _GEMINI_PAUSED_UNTIL
-
-
 def _pause_gtx(delay: float) -> None:
     global _GTX_PAUSED_UNTIL, _GTX_PAUSE_STREAK
     _GTX_PAUSE_STREAK += 1
@@ -115,45 +103,10 @@ def _gemini(text: str, lang: str, key: str) -> str | None:
             "maxOutputTokens": 2048,
         },
     }
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
-    encoded_body = json.dumps(body).encode("utf-8")
-    if _gemini_is_paused():
-        return None
-    for attempt in range(4):
-        try:
-            request = urllib.request.Request(
-                url,
-                data=encoded_body,
-                headers={"Content-Type": "application/json", "x-goog-api-key": key},
-                method="POST",
-            )
-            with urllib.request.urlopen(request, timeout=60) as response:
-                payload = json.loads(response.read().decode("utf-8"))
-            candidates = payload.get("candidates") or []
-            parts = (candidates[0].get("content") or {}).get("parts") or []
-            result = "".join(str(part.get("text") or "") for part in parts).strip()
-            if result:
-                if result.startswith("```") and result.endswith("```"):
-                    result = result.split("\n", 1)[-1][:-3].strip()
-                return result or None
-            raise ValueError("Gemini empty translation response")
-        except urllib.error.HTTPError as error:
-            if error.code == 429:
-                delay = max(_http_retry_delay(error, attempt), (attempt + 1) * 3.0)
-                if attempt == 3:
-                    _pause_gemini(delay)
-                    return None
-                time.sleep(delay)
-                continue
-            if error.code not in (500, 502, 503) or attempt == 3:
-                return None
-            time.sleep(_http_retry_delay(error, attempt))
-            continue
-        except Exception:
-            if attempt == 3:
-                return None
-            time.sleep(_retry_delay(attempt))
-    return None
+    result = gemini_zinciri.metin(gemini_zinciri.istek(body, key, timeout=60))
+    if result.startswith("```") and result.endswith("```"):
+        result = result.split("\n", 1)[-1][:-3].strip()
+    return result or None
 
 
 def _gtx(text: str, lang: str) -> str | None:
@@ -229,69 +182,49 @@ def _gemini_batch(texts: list[str], lang: str, key: str) -> dict[str, str] | Non
             "responseMimeType": "application/json",
         },
     }
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
-    encoded_body = json.dumps(body, ensure_ascii=False).encode("utf-8")
-    if _gemini_is_paused():
-        return None
-    for attempt in range(3):
+    # Biçim hatasında bir kez daha dene; kota/erişim hatasında (None) tekrar
+    # denemek sonucu değiştirmez, zincir zaten sıradaki modele geçti.
+    for attempt in range(2):
+        raw = gemini_zinciri.metin(gemini_zinciri.istek(body, key, timeout=90))
+        if not raw:
+            return None
         try:
-            request = urllib.request.Request(
-                url,
-                data=encoded_body,
-                headers={"Content-Type": "application/json", "x-goog-api-key": key},
-                method="POST",
-            )
-            with urllib.request.urlopen(request, timeout=90) as response:
-                payload = json.loads(response.read().decode("utf-8"))
-            candidates = payload.get("candidates") or []
-            parts = (candidates[0].get("content") or {}).get("parts") or []
-            raw = "".join(str(part.get("text") or "") for part in parts).strip()
-            if raw.startswith("```"):
-                raw = raw.split("\n", 1)[-1].removesuffix("```").strip()
-            try:
-                parsed = json.loads(raw)
-            except Exception:
-                fence = re.search(r'```(?:json)?\s*([\s\S]*?)\s*```', raw)
-                if fence:
-                    parsed = json.loads(fence.group(1).strip())
-                else:
-                    arr = re.search(r'\[\s*\{[\s\S]*\}\s*\]', raw)
-                    if arr:
-                        parsed = json.loads(arr.group(0).strip())
-                    else:
-                        raise
-            rows = parsed if isinstance(parsed, list) else parsed.get("translations")
-            if not isinstance(rows, list) or len(rows) != len(items):
-                raise ValueError("Gemini batch translation shape mismatch")
-            result: dict[str, str] = {}
-            for row in rows:
-                if not isinstance(row, dict):
-                    raise ValueError("Gemini batch row is not an object")
-                index = int(str(row.get("id", "")))
-                if index < 0 or index >= len(items):
-                    raise ValueError("Gemini batch id is invalid")
-                value = str(row.get("text") or "").strip()
-                if not value:
-                    raise ValueError("Gemini batch item is empty")
-                result[items[index]["text"]] = value
-            return result
-        except urllib.error.HTTPError as error:
-            if error.code == 429:
-                delay = max(_http_retry_delay(error, attempt), (attempt + 1) * 5.0)
-                if attempt == 2:
-                    _pause_gemini(delay)
-                    return None
-                time.sleep(delay)
-                continue
-            if error.code not in (500, 502, 503) or attempt == 2:
-                return None
-            time.sleep(_http_retry_delay(error, attempt))
-            continue
+            return _batch_coz(raw, items)
         except Exception:
-            if attempt == 2:
-                return None
-            time.sleep(_retry_delay(attempt))
+            continue
     return None
+
+
+def _batch_coz(raw: str, items: list[dict]) -> dict[str, str]:
+    if raw.startswith("```"):
+        raw = raw.split("\n", 1)[-1].removesuffix("```").strip()
+    try:
+        parsed = json.loads(raw)
+    except Exception:
+        fence = re.search(r'```(?:json)?\s*([\s\S]*?)\s*```', raw)
+        if fence:
+            parsed = json.loads(fence.group(1).strip())
+        else:
+            arr = re.search(r'\[\s*\{[\s\S]*\}\s*\]', raw)
+            if arr:
+                parsed = json.loads(arr.group(0).strip())
+            else:
+                raise
+    rows = parsed if isinstance(parsed, list) else parsed.get("translations")
+    if not isinstance(rows, list) or len(rows) != len(items):
+        raise ValueError("Gemini batch translation shape mismatch")
+    result: dict[str, str] = {}
+    for row in rows:
+        if not isinstance(row, dict):
+            raise ValueError("Gemini batch row is not an object")
+        index = int(str(row.get("id", "")))
+        if index < 0 or index >= len(items):
+            raise ValueError("Gemini batch id is invalid")
+        value = str(row.get("text") or "").strip()
+        if not value:
+            raise ValueError("Gemini batch item is empty")
+        result[items[index]["text"]] = value
+    return result
 
 
 def translate_texts(texts: list[str], lang: str) -> dict[str, str | None]:
@@ -308,11 +241,9 @@ def translate_texts(texts: list[str], lang: str) -> dict[str, str | None]:
             if text in translated and translated[text]:
                 result[text] = translated[text]
             else:
-                single_gemini = _gemini(text, lang, key) if key else None
+                single_gemini = _gemini(text, lang, key) if key and gemini_zinciri.aktif_model() else None
                 if single_gemini:
                     result[text] = single_gemini
                 else:
                     result[text] = _gtx(text, lang)
-        if start + batch_size < len(unique):
-            time.sleep(1.0)
     return result
