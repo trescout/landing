@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Microduck Rl · Keşif · TreScout</title>
-<meta name="description" content="Pollen Robotics tarafından geliştirilen microduck_rl, robotik platformu Microduck için pekiştirmeli öğrenme (reinforcement…">
+<meta name="description" content="Pollen Robotics tarafından geliştirilen microduck_rl, Microduck robot platformu için MuJoCo ve mjlab üzerinde pekiştirmeli öğrenme (reinforcement learning) eğitim ortamları ve kontrol politikaları sunar.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/discover/microduck-rl.md">
 <link rel="canonical" href="https://trescout.com/discover/microduck-rl/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/microduck-rl/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/microduck-rl/">
 <meta property="og:title" content="Microduck Rl">
-<meta property="og:description" content="Pollen Robotics tarafından geliştirilen microduck_rl, robotik platformu Microduck için pekiştirmeli öğrenme (reinforcement…">
+<meta property="og:description" content="Pollen Robotics tarafından geliştirilen microduck_rl, Microduck robot platformu için MuJoCo ve mjlab üzerinde pekiştirmeli öğrenme (reinforcement learning) eğitim ortamları ve kontrol politikaları sunar.">
 <meta property="og:url" content="https://trescout.com/discover/microduck-rl/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -27,15 +27,15 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Microduck Rl">
-<meta name="twitter:description" content="Pollen Robotics tarafından geliştirilen microduck_rl, robotik platformu Microduck için pekiştirmeli öğrenme (reinforcement…">
+<meta name="twitter:description" content="Pollen Robotics tarafından geliştirilen microduck_rl, Microduck robot platformu için MuJoCo ve mjlab üzerinde pekiştirmeli öğrenme (reinforcement learning) eğitim ortamları ve kontrol politikaları sunar.">
 <meta name="twitter:image" content="https://trescout.com/assets/discover/og/microduck-rl.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Microduck Rl",
+  "headline": "Pollen Robotics Microduck için pekiştirmeli öğrenme ortamı",
   "inLanguage": "tr",
-  "description": "Pollen Robotics tarafından geliştirilen microduck_rl, robotik platformu Microduck için pekiştirmeli öğrenme (reinforcement learning) eğitim ortamları sunuyor. Python tabanlı bu kütüphane, fizik tabanlı simülasyon aracı mjlab üzerinde robotik kontrol algoritmalarının geliştirilmesini kolaylaştırıyor.",
+  "description": "Pollen Robotics tarafından geliştirilen microduck_rl, Microduck robot platformu için MuJoCo ve mjlab üzerinde pekiştirmeli öğrenme (reinforcement learning) eğitim ortamları ve kontrol politikaları sunar.",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -67,12 +67,26 @@
 <article class="disc">
 <a class="disc-back" href="/discover/">← Keşif</a>
 <div class="disc-top"><span class="disc-eyebrow">Keşif · GitHub</span><span class="disc-momentum">↑ +168 bugün</span></div>
-<h1 class="disc-title">Microduck Rl</h1>
-<p class="disc-lead">Pollen Robotics tarafından geliştirilen microduck_rl, robotik platformu Microduck için pekiştirmeli öğrenme (reinforcement learning) eğitim ortamları sunuyor. Python tabanlı bu kütüphane, fizik tabanlı simülasyon aracı mjlab üzerinde robotik kontrol algoritmalarının geliştirilmesini kolaylaştırıyor.</p>
+<h1 class="disc-title">Pollen Robotics Microduck için pekiştirmeli öğrenme ortamı</h1>
+<p class="disc-lead">Pollen Robotics tarafından geliştirilen microduck_rl, Microduck robot platformu için MuJoCo ve mjlab üzerinde pekiştirmeli öğrenme (reinforcement learning) eğitim ortamları ve kontrol politikaları sunar.</p>
 <ul class="disc-meta"><li>★ 1.001</li><li>Python</li><li>GitHub Trending · 2026-08-31</li></ul>
+      <section class="disc-sec"><h2>Güncelleme</h2><ul class="disc-wins"><li><strong>31 Ağustos 2026:</strong> Yıldız 1.001, MuJoCo mjlab fizik motoru ve lokomosyon görevleri desteği.</li></ul></section>
+      <section class="disc-sec"><h2>Ne kazandırır?</h2><ul class="disc-wins"><li><strong>Gerçekçi MuJoCo fizik simülasyonu:</strong> Robotun eklem torklarını, sürtünmesini ve yer çekimi etkilerini yüksek hızda simüle edebilme.</li><li><strong>Hazır lokomosyon ve denge görevleri:</strong> Yürüme (walk), denge kurma ve engelleri aşma senaryoları için önceden tanımlanmış ödül fonksiyonları.</li><li><strong>Sim-to-Real transferine uygunluk:</strong> Fiziksel Microduck donanımına kolayca aktarılabilen gürültü dirençli kontrol politikaları.</li><li><strong>Modern pekiştirmeli öğrenme algoritmaları:</strong> PPO (Proximal Policy Optimization) ve SAC destekli eğitim altyapısı.</li><li><strong>Görsel 3B değerlendirme arayüzü:</strong> Eğitilen robot ajanının hareketlerini ekranda 3 boyutlu simülatörde anlık izleme.</li></ul></section>
+      <section class="disc-sec"><h2>Kurulum</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Depoyu klonlama ve simülasyon ortamını kurma</span><button type="button" class="disc-copy" aria-label="Kopyala">Kopyala</button></div><pre><code>git clone https://github.com/pollen-robotics/microduck_rl.git
+cd microduck_rl
+pip install -e .</code></pre></div></section>
+      <section class="disc-sec"><h2>Çalıştırma</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Eğitim veya politika değerlendirme çalıştırma</span><button type="button" class="disc-copy" aria-label="Kopyala">Kopyala</button></div><pre><code>python -m microduck_rl.train --task walk
+# Eğitilen politikayı simülatörde izleme:
+python -m microduck_rl.enjoy --checkpoint checkpoint.pt</code></pre></div></section>
+      <section class="disc-sec"><h2>Teknik mimari ve çalışma prensibi</h2><p>microduck_rl, mjlab soyutlaması üzerinden MuJoCo simülatörünü Gymnasium API'si ile bağlar:</p><ul class="disc-wins"><li><strong>MuJoCo ve mjlab Fizik Katmanı:</strong> Robotun kinematics, eklem sınırları ve eyleyici modellerini tanımlayan XML/MJCF dosyaları.</li><li><strong>Gymnasium Uyumlu Gözlem ve Eylem Uzayları:</strong> Motor açıları, hızlar, ivmeölçer (IMU) verileri ve hedef tork vektörlerinin standardizasyonu.</li><li><strong>Domain Randomization Mekanizması:</strong> Sürtünme katsayıları, kütle dağılımı ve sensör gürültülerini rastgele değiştirerek gerçek dünyaya dayanıklı modeller eğitme.</li></ul></section>
+      <section class="disc-sec"><h2>Fizik simülasyonu ve robotik kontrol politikaları</h2><p>Robotik araştırmacıları microduck_rl ile laboratuvar ortamında güvenli algoritmalar geliştirebilir:</p><ul class="disc-steps"><li><strong>Donanım Hasarını Önleme:</strong> Robotun düşme ve bacak kırılma risklerini fiziksel robota geçmeden önce tamamen sanal ortamda çözün.</li><li><strong>Milyonlarca Adımı Hızlandırılmış Zamanda Eğitme:</strong> Fizik motorunu gerçek zamandan 100 kat daha hızlı işleterek günlerce sürecek eğitimi saatler içinde tamamlama.</li><li><strong>Özel Görev ve Arazi Tasarımı:</strong> Merdivenler, eğimli zeminler ve kaygan yüzeyler ekleyerek robotun farklı arazilere uyumunu test edin.</li></ul></section>
+      <section class="disc-sec"><h2>Kod bilmiyorsanız</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın</span><button type="button" class="disc-copy" aria-label="Kopyala">Kopyala</button></div><p class="disc-ai-text">Pollen Robotics'in microduck_rl kütüphanesini kullanarak Microduck robotu için bir yürüme (walking) politikası eğitmek istiyorum. MuJoCo ortamını nasıl yapılandıracağımı, PPO algoritması ile eğitim komutunu nasıl başlatacağımı ve ortaya çıkan kontrol politikasını fiziksel robota aktarma adımlarını açıklar mısın?</p></div></section>
+      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Kimin için</span><span class="disc-fact-v">Robotik araştırmacıları, mekatronik mühendisleri, pekiştirmeli öğrenme uzmanları ve hobiciler.</span></div><div class="disc-fact"><span class="disc-fact-k">Lisans</span><span class="disc-fact-v">Apache-2.0 (Açık kaynak lisansı)</span></div><div class="disc-fact"><span class="disc-fact-k">Çatı</span><span class="disc-fact-v">Python, MuJoCo & mjlab Robotik Çatısı</span></div><div class="disc-fact"><span class="disc-fact-k">Platformlar</span><span class="disc-fact-v">Linux, macOS, Windows</span></div></div>
+      <section class="disc-sec"><h2>Sıkça sorulan sorular</h2><ul class="disc-wins"><li><strong>microduck_rl'i çalıştırmak için fiziksel Microduck robotuna sahip olmak şart mı?</strong> Hayır. Kod tabanı tamamen MuJoCo simülatörü üzerinde sanal olarak çalıştırılabilir; bilgisayarınızda robotun 3B simülasyonunu izleyebilirsiniz.</li><li><strong>GPU desteği gerekli mi?</strong> MuJoCo CPU üzerinde de oldukça hızlı çalışır; ancak paralel ortamlarla pekiştirmeli öğrenme eğitimi yaparken CUDA destekli bir GPU süreci ciddi oranda hızlandırır.</li><li><strong>Eğitilen model fiziksel robota nasıl aktarılır?</strong> Eğitim tamamlandığında üretilen ONNX veya PyTorch checkpoint dosyası, Microduck'ın yerleşik kontrol bilgisayarına yüklenerek doğrudan motor torklarına bağlanır.</li><li><strong>Farklı robot modellerini destekler mi?</strong> microduck_rl öncelikli olarak Microduck için optimize edilmiştir; ancak modüler yapısı sayesinde benzer bipedal veya quadruped robot MJCF modellerine uyarlanabilir.</li></ul></section>
       <section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links"><li><a href="https://github.com/pollen-robotics/microduck_rl" target="_blank" rel="noopener">GitHub deposu →</a></li></ul></section>
 <p class="disc-disclaimer">TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-31 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.</p>
-<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related"><a href="/dictionary/reinforcement-learning/">Reinforcement Learning</a></div></section>
+
+<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related"><a href="/dictionary/ai/">Yapay Zekâ</a><a href="/dictionary/open-source/">Açık Kaynak</a><a href="/dictionary/machine-learning/">Makine Öğrenimi</a><a href="/dictionary/cli/">CLI</a><a href="/dictionary/framework/">Framework</a></div></section>
       <aside class="disc-cta"><p><strong>Benzer keşifleri günlük raporda al.</strong> TreScout; GitHub, Hacker News ve HuggingFace trendlerini her gün tarar, öne çıkan açık kaynak araçları Türkçe özetler.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover" data-page-type="discover" data-content-slug="microduck-rl" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/discover/">Tüm keşifler →</a></aside>
 </article>
 </main>

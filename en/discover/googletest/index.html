@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Googletest · Discover · TreScout</title>
-<meta name="description" content="This is the most important product possible. · Googletest · Explore this open-source project on TreScout.">
+<meta name="description" content="GoogleTest and GoogleMock provide industry-standard unit testing, mock objects, and parameterized test suites for modern C++ software.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/en/discover/googletest.md">
 <link rel="canonical" href="https://trescout.com/en/discover/googletest/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/googletest/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/googletest/">
 <meta property="og:title" content="Googletest">
-<meta property="og:description" content="This is the most important product possible. · Googletest · Explore this open-source project on TreScout.">
+<meta property="og:description" content="GoogleTest and GoogleMock provide industry-standard unit testing, mock objects, and parameterized test suites for modern C++ software.">
 <meta property="og:url" content="https://trescout.com/en/discover/googletest/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
@@ -27,15 +27,15 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Googletest">
-<meta name="twitter:description" content="This is the most important product possible. · Googletest · Explore this open-source project on TreScout.">
+<meta name="twitter:description" content="GoogleTest and GoogleMock provide industry-standard unit testing, mock objects, and parameterized test suites for modern C++ software.">
 <meta name="twitter:image" content="https://trescout.com/assets/discover/og/googletest-en.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Googletest",
+  "headline": "Industry-standard C++ unit testing and mocking",
   "inLanguage": "en",
-  "description": "This is the most important product possible. Consulte that link da fonte para obter detalhes.",
+  "description": "GoogleTest and GoogleMock provide industry-standard unit testing, mock objects, and parameterized test suites for modern C++ software.",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -65,12 +65,30 @@
 <article class="disc">
 <a class="disc-back" href="/en/discover/">← Discover</a>
 <div class="disc-top"><span class="disc-eyebrow">Discover · GitHub</span></div>
-<h1 class="disc-title">Googletest</h1>
-<p class="disc-lead">This is the most important product possible. Consulte that link da fonte para obter detalhes.</p>
+<h1 class="disc-title">Industry-standard C++ unit testing and mocking</h1>
+<p class="disc-lead">GoogleTest and GoogleMock provide industry-standard unit testing, mock objects, and parameterized test suites for modern C++ software.</p>
 <ul class="disc-meta"><li>★ 38,987</li><li>C++</li><li>GitHub Trending · 2026-08-27</li></ul>
+      <section class="disc-sec"><h2>Updates</h2><ul class="disc-wins"><li><strong>August 27, 2026:</strong> 38,987 stars, v1.15.2 release featuring C++20 concepts and enhanced mock verification.</li></ul></section>
+      <section class="disc-sec"><h2>What you get</h2><ul class="disc-wins"><li><strong>Comprehensive assertion macros:</strong> Clear diagnostics using ASSERT_* (fatal, aborts test) and EXPECT_* (non-fatal, continues test) macros.</li><li><strong>Advanced mocking suite (GoogleMock):</strong> Isolate dependencies using MOCK_METHOD to easily mock interfaces and specify invocation expectations.</li><li><strong>Value-parameterized tests:</strong> Execute identical test logic across dozens of input datasets using parameterized test patterns.</li><li><strong>Cross-platform thread safety:</strong> Thread-safe execution on Linux, macOS, and Windows with robust death tests for crash verification.</li><li><strong>CI/CD and reporting integration:</strong> Seamless pipeline integration with GitHub Actions and GitLab CI via JUnit-compatible XML and JSON outputs.</li></ul></section>
+      <section class="disc-sec"><h2>Installation</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Integrate via CMake FetchContent</span><button type="button" class="disc-copy" aria-label="Copy">Copy</button></div><pre><code>include(FetchContent)
+FetchContent_Declare(
+  googletest
+  URL https://github.com/google/googletest/archive/refs/tags/v1.15.2.tar.gz
+)
+FetchContent_MakeAvailable(googletest)</code></pre></div></section>
+      <section class="disc-sec"><h2>Running it</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Build and run tests via CTest</span><button type="button" class="disc-copy" aria-label="Copy">Copy</button></div><pre><code>cmake -B build -S .
+cmake --build build
+ctest --test-dir build --output-on-failure</code></pre></div></section>
+      <section class="disc-sec"><h2>Technical architecture and working principle</h2><p>GoogleTest is architected around a modular C++ design optimized directly for modern compilers:</p><ul class="disc-wins"><li><strong>Test fixture and lifecycle management:</strong> SetUp and TearDown methods guarantee deterministic resource allocation and cleanup for every test.</li><li><strong>Process isolation for death tests:</strong> Forks isolated child processes to safely verify assertions, crashes, and error exit statuses.</li><li><strong>Type-parameterized test templates:</strong> Provides type-parameterized test infrastructure to validate templated classes across diverse types.</li></ul></section>
+      <section class="disc-sec"><h2>Testing scenarios and GoogleMock integration</h2><p>Isolating dependencies using mock objects in modern C++ delivers substantial practical advantages:</p><ul class="disc-steps"><li><strong>Abstracting network and database calls:</strong> Simulate remote API responses and latencies without opening real network sockets using MOCK_METHOD.</li><li><strong>Invocation count and argument verification:</strong> Inspect how many times, with which parameters, and in what order methods were invoked via EXPECT_CALL.</li><li><strong>Resilience testing under exceptions:</strong> Verify robust error handling across throwing code paths with EXPECT_THROW assertion macros.</li></ul></section>
+      <section class="disc-sec"><h2>If you do not code</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Paste into your AI agent (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Copy">Copy</button></div><p class="disc-ai-text">I want to write unit tests for a parser class in a modern C++ project using GoogleTest and GoogleMock. Can you provide code examples showing how to configure CMakeLists.txt, set up a TEST_F fixture, and mock dependencies with MOCK_METHOD and EXPECT_CALL?</p></div></section>
+      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Who it is for</span><span class="disc-fact-v">C++ software engineers, embedded developers, and system architects.</span></div><div class="disc-fact"><span class="disc-fact-k">License</span><span class="disc-fact-v">BSD 3-Clause (Permissive open-source license)</span></div><div class="disc-fact"><span class="disc-fact-k">Framework</span><span class="disc-fact-v">C++ Testing and Mocking Library</span></div><div class="disc-fact"><span class="disc-fact-k">Platforms</span><span class="disc-fact-v">Linux, macOS, Windows, Android, iOS</span></div></div>
+      <section class="disc-sec"><h2>Frequently asked questions</h2><ul class="disc-wins"><li><strong>What is the modern way to include GoogleTest in a project?</strong> In modern CMake projects, CMake's FetchContent module is the recommended approach, automatically downloading and compiling GoogleTest as part of the build without external package managers.</li><li><strong>What is the difference between EXPECT_* and ASSERT_*?</strong> EXPECT_* macros log failure details while allowing execution of subsequent statements in the test. ASSERT_* halts execution of the current test function immediately upon failure.</li><li><strong>Is GoogleMock a separate library?</strong> GoogleMock was originally a standalone project but has long been merged into the GoogleTest monorepo; both libraries are installed and configured together.</li><li><strong>Is GoogleTest thread-safe?</strong> Yes. On systems supporting pthreads and on Windows, GoogleTest is thread-safe, safely synchronizing test assertions from concurrent worker threads.</li></ul></section>
       <section class="disc-sec"><h2>Links</h2><ul class="disc-links"><li><a href="https://github.com/google/googletest" target="_blank" rel="noopener">GitHub repository →</a></li><li><a href="https://trescout.com/discover/googletest/">Read in Turkish →</a></li></ul></section>
 <p class="disc-disclaimer">TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-27: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was <strong>machine-translated</strong> from the Turkish original · the Turkish version prevails.</p>
-<aside class="disc-cta"><p><strong>Get similar discoveries in the daily report.</strong> TreScout scouts GitHub, Hacker News and HuggingFace trends daily, delivering curated summaries.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-en" data-page-type="discover" data-content-slug="googletest" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/discover/">All discoveries →</a></aside>
+
+<section class="disc-sec"><h2>Related dictionary terms</h2><div class="disc-related"><a href="/en/dictionary/ci-cd/">CI/CD</a><a href="/en/dictionary/open-source/">Open Source</a><a href="/en/dictionary/cli/">CLI</a><a href="/en/dictionary/api/">API</a><a href="/en/dictionary/framework/">Framework</a></div></section>
+      <aside class="disc-cta"><p><strong>Get similar discoveries in the daily report.</strong> TreScout scouts GitHub, Hacker News and HuggingFace trends daily, delivering curated summaries.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-en" data-page-type="discover" data-content-slug="googletest" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/discover/">All discoveries →</a></aside>
 </article>
 </main>
 <footer>

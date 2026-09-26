@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Tailcat · Keşif · TreScout</title>
-<meta name="description" content="Tailscale tarafından geliştirilen Tailcat, ağ trafiğini güvenli bir şekilde aktarmak için kullanılan komut satırı aracı…">
+<meta name="description" content="Tailcat, klasik netcat işlevselliğini Tailscale VPN mesh katmanına taşıyarak kontrol düzlemi veya açık port zorunluluğu olmadan güvenli veri aktarımı sağlar.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/discover/tailcat.md">
 <link rel="canonical" href="https://trescout.com/discover/tailcat/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/tailcat/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/tailcat/">
 <meta property="og:title" content="Tailcat">
-<meta property="og:description" content="Tailscale tarafından geliştirilen Tailcat, ağ trafiğini güvenli bir şekilde aktarmak için kullanılan komut satırı aracı…">
+<meta property="og:description" content="Tailcat, klasik netcat işlevselliğini Tailscale VPN mesh katmanına taşıyarak kontrol düzlemi veya açık port zorunluluğu olmadan güvenli veri aktarımı sağlar.">
 <meta property="og:url" content="https://trescout.com/discover/tailcat/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -27,15 +27,15 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Tailcat">
-<meta name="twitter:description" content="Tailscale tarafından geliştirilen Tailcat, ağ trafiğini güvenli bir şekilde aktarmak için kullanılan komut satırı aracı…">
+<meta name="twitter:description" content="Tailcat, klasik netcat işlevselliğini Tailscale VPN mesh katmanına taşıyarak kontrol düzlemi veya açık port zorunluluğu olmadan güvenli veri aktarımı sağlar.">
 <meta name="twitter:image" content="https://trescout.com/assets/discover/og/tailcat.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Tailcat",
+  "headline": "Tailscale ağlarında güvenli Netcat tünelleme",
   "inLanguage": "tr",
-  "description": "Tailscale tarafından geliştirilen Tailcat, ağ trafiğini güvenli bir şekilde aktarmak için kullanılan komut satırı aracı Netcat'in Tailscale ağ katmanı üzerinde çalışan bir sürümüdür. Kontrol düzlemi (control plane) gereksinimi olmadan, doğrudan cihazlar arası veri iletimi sağlar.",
+  "description": "Tailcat, klasik netcat işlevselliğini Tailscale VPN mesh katmanına taşıyarak kontrol düzlemi veya açık port zorunluluğu olmadan güvenli veri aktarımı sağlar.",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -67,12 +67,25 @@
 <article class="disc">
 <a class="disc-back" href="/discover/">← Keşif</a>
 <div class="disc-top"><span class="disc-eyebrow">Keşif · GitHub</span><span class="disc-momentum">↑ +986 bugün</span></div>
-<h1 class="disc-title">Tailcat</h1>
-<p class="disc-lead">Tailscale tarafından geliştirilen Tailcat, ağ trafiğini güvenli bir şekilde aktarmak için kullanılan komut satırı aracı Netcat&#x27;in Tailscale ağ katmanı üzerinde çalışan bir sürümüdür. Kontrol düzlemi (control plane) gereksinimi olmadan, doğrudan cihazlar arası veri iletimi sağlar.</p>
+<h1 class="disc-title">Tailscale ağlarında güvenli Netcat tünelleme</h1>
+<p class="disc-lead">Tailcat, klasik netcat işlevselliğini Tailscale VPN mesh katmanına taşıyarak kontrol düzlemi veya açık port zorunluluğu olmadan güvenli veri aktarımı sağlar.</p>
 <ul class="disc-meta"><li>★ 2.435</li><li>Go</li><li>GitHub Trending · 2026-08-28</li></ul>
+      <section class="disc-sec"><h2>Güncelleme</h2><ul class="disc-wins"><li><strong>28 Ağustos 2026:</strong> Yıldız 2.435, yerleşik WireGuard şifrelemesi ve tsnet kütüphanesi entegrasyonu.</li></ul></section>
+      <section class="disc-sec"><h2>Ne kazandırır?</h2><ul class="disc-wins"><li><strong>Sıfır port yönlendirme (Port Forwarding):</strong> NAT arkasındaki veya güvenlik duvarı kısıtlı cihazlar arasında açık port açmadan doğrudan iletişim.</li><li><strong>Uçtan uca WireGuard şifrelemesi:</strong> Tüm TCP ve ham veri aktarımlarını otomatik olarak Tailscale kimlik doğrulaması ve WireGuard ile şifreleme.</li><li><strong>Gömülü tsnet kütüphanesi:</strong> İşletim sistemi düzeyinde Tailscale istemcisi kurmaya gerek olmadan bağımsız bir Tailscale düğümü gibi çalışma.</li><li><strong>Hızlı dosya ve boru hattı aktarımı:</strong> Standart giriş/çıkış (stdin/stdout) boruları ile tar, gzip veya dd komutlarını makineler arasında akıtma.</li><li><strong>Ağ hata ayıklama ve teşhis:</strong> Geleneksel netcat benzeri pratik komutlarla mikroservisler ve uzak makineler arasındaki port erişilebilirliğini test etme.</li></ul></section>
+      <section class="disc-sec"><h2>Kurulum</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Go ile doğrudan kurulum</span><button type="button" class="disc-copy" aria-label="Kopyala">Kopyala</button></div><pre><code>go install tailscale.com/cmd/tailcat@latest</code></pre></div></section>
+      <section class="disc-sec"><h2>Çalıştırma</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Dinleme modunu başlatma ve istemci bağlama</span><button type="button" class="disc-copy" aria-label="Kopyala">Kopyala</button></div><pre><code># Sunucu düğümde dinle:
+tailcat -l 8080
+# İstemci düğümden bağlan:
+tailcat hedef-node 8080</code></pre></div></section>
+      <section class="disc-sec"><h2>Teknik mimari ve çalışma prensibi</h2><p>Tailcat, geleneksel netcat sözdizimini Tailscale'in kullanıcı alanı ağ kütüphanesi tsnet ile birleştirir:</p><ul class="disc-wins"><li><strong>tsnet Kullanıcı Alanı Ağı:</strong> Kök (root) yetkilerine veya sanal TUN aygıtına ihtiyaç duymadan doğrudan uygulama içinde VPN oturumu oluşturur.</li><li><strong>MagicDNS Düğüm Çözümleme:</strong> IP adresleri yerine 'sunucu-node' gibi Tailscale makine adlarıyla anında bağlantı kurabilme.</li><li><strong>DERP Röle Desteği:</strong> Doğrudan P2P bağlantının mümkün olmadığı aşırı kısıtlayıcı ağlarda Tailscale DERP röleleri üzerinden veri aktarımını sürdürme.</li></ul></section>
+      <section class="disc-sec"><h2>Güvenli ağ tünelleme ve uçtan uca senaryolar</h2><p>Tailcat, geliştiricilere ve sistem yöneticilerine karmaşık VPN yapılandırmalarına gerek kalmadan hızlı çözümler sunar:</p><ul class="disc-steps"><li><strong>Hızlı Güvenli Dosya Gönderimi:</strong> Alıcıda `tailcat -l 9000 > yedek.tar.gz` ve göndericide `tailcat hedef 9000 < yedek.tar.gz` ile sıfır konfigürasyonlu transfer.</li><li><strong>Geçici HTTP Servisi Paylaşımı:</strong> Geliştirme aşamasındaki yerel web sunucusunu tek komutla tailnet ağındaki çalışma arkadaşlarınıza açma.</li><li><strong>Gömülü Cihaz ve Raspberry Pi Erişimi:</strong> Dinamik IP'ye sahip ve ev ağındaki kısıtlı IoT cihazlarına uzaktan güvenle veri gönderme.</li></ul></section>
+      <section class="disc-sec"><h2>Kod bilmiyorsanız</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın</span><button type="button" class="disc-copy" aria-label="Kopyala">Kopyala</button></div><p class="disc-ai-text">Tailcat aracını kullanarak iki farklı sunucu arasında Tailscale mesh ağı üzerinden şifreli bir dosya transferi tüneli kurmak istiyorum. Sunucu tarafında dinleyiciyi nasıl başlatacağımı, istemci tarafında tar arşivini standart çıktıdan nasıl aktaracağımı ve tsnet kimlik doğrulamasını nasıl yöneteceğimi açıklar mısın?</p></div></section>
+      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Kimin için</span><span class="disc-fact-v">Sistem yöneticileri, DevOps mühendisleri, ağ uzmanları ve bulut mimarları.</span></div><div class="disc-fact"><span class="disc-fact-k">Lisans</span><span class="disc-fact-v">BSD 3-Clause (Esnek açık kaynak lisansı)</span></div><div class="disc-fact"><span class="disc-fact-k">Çatı</span><span class="disc-fact-v">Go & Tailscale tsnet Kütüphanesi</span></div><div class="disc-fact"><span class="disc-fact-k">Platformlar</span><span class="disc-fact-v">Linux, macOS, Windows</span></div></div>
+      <section class="disc-sec"><h2>Sıkça sorulan sorular</h2><ul class="disc-wins"><li><strong>Makinemde kurulu bir Tailscale istemcisine ihtiyaç var mı?</strong> Hayır. Tailcat içinde yerleşik tsnet motoru barındırır; bağımsız bir ikili dosya olarak kendi Tailscale bağlantısını başlatır.</li><li><strong>Trafik gerçekten uçtan uca şifreli midir?</strong> Evet. Tailcat, Tailscale ağının çekirdeğindeki WireGuard protokolünü kullanır; veriler cihazlar arasında doğrudan şifrelenir.</li><li><strong>UDP trafiğini destekliyor mu?</strong> Tailcat öncelikli olarak TCP akışları ve soket tünelleme için optimize edilmiştir; klasik netcat'in TCP yeteneklerini güvenli hale getirir.</li><li><strong>Bağlantı için kimlik doğrulama nasıl yapılır?</strong> Tailcat ilk çalıştırıldığında terminalde bir Tailscale giriş bağlantısı verir veya TAILSCALE_AUTHKEY ortam değişkeni ile otomatik kimlik doğrular.</li></ul></section>
       <section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links"><li><a href="https://github.com/tailscale/tailcat" target="_blank" rel="noopener">GitHub deposu →</a></li></ul></section>
 <p class="disc-disclaimer">TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.</p>
-<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related"><a href="/dictionary/control-plane/">Control Plane</a></div></section>
+
+<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related"><a href="/dictionary/cli/">CLI</a><a href="/dictionary/open-source/">Açık Kaynak</a><a href="/dictionary/api/">API</a><a href="/dictionary/framework/">Framework</a><a href="/dictionary/ci-cd/">CI/CD</a></div></section>
       <aside class="disc-cta"><p><strong>Benzer keşifleri günlük raporda al.</strong> TreScout; GitHub, Hacker News ve HuggingFace trendlerini her gün tarar, öne çıkan açık kaynak araçları Türkçe özetler.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover" data-page-type="discover" data-content-slug="tailcat" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/discover/">Tüm keşifler →</a></aside>
 </article>
 </main>

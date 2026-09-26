@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Minimind · Discover · TreScout</title>
-<meta name="description" content="MiniMind created a large language model with 64 million parameters from scratch in as little as two hours.">
+<meta name="description" content="MiniMind teaches LLM architecture fundamentals from first principles, covering tokenization, pretraining, supervised fine-tuning (SFT), LoRA, and DPO in clean PyTorch.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/en/discover/minimind.md">
 <link rel="canonical" href="https://trescout.com/en/discover/minimind/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/minimind/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/minimind/">
 <meta property="og:title" content="Minimind">
-<meta property="og:description" content="MiniMind created a large language model with 64 million parameters from scratch in as little as two hours.">
+<meta property="og:description" content="MiniMind teaches LLM architecture fundamentals from first principles, covering tokenization, pretraining, supervised fine-tuning (SFT), LoRA, and DPO in clean PyTorch.">
 <meta property="og:url" content="https://trescout.com/en/discover/minimind/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
@@ -27,15 +27,15 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Minimind">
-<meta name="twitter:description" content="MiniMind created a large language model with 64 million parameters from scratch in as little as two hours.">
+<meta name="twitter:description" content="MiniMind teaches LLM architecture fundamentals from first principles, covering tokenization, pretraining, supervised fine-tuning (SFT), LoRA, and DPO in clean PyTorch.">
 <meta name="twitter:image" content="https://trescout.com/assets/discover/og/minimind-en.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "MiniMind",
+  "headline": "Train a 64M-parameter LLM from scratch in two hours",
   "inLanguage": "en",
-  "description": "MiniMind is a Python project that enables training a large language model with 64 million parameters from scratch in as little as two hours. It provides a practical learning environment for users with limited hardware resources to understand the working principles of artificial intelligence models.",
+  "description": "MiniMind teaches LLM architecture fundamentals from first principles, covering tokenization, pretraining, supervised fine-tuning (SFT), LoRA, and DPO in clean PyTorch.",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -65,13 +65,27 @@
 <article class="disc">
 <a class="disc-back" href="/en/discover/">← Discover</a>
 <div class="disc-top"><span class="disc-eyebrow">Discover · GitHub</span><span class="disc-momentum">↑ +472 today</span></div>
-<h1 class="disc-title">MiniMind</h1>
-<p class="disc-lead">MiniMind is a Python project that enables training a large language model with 64 million parameters from scratch in as little as two hours. It provides a practical learning environment for users with limited hardware resources to understand the working principles of artificial intelligence models.</p>
+<h1 class="disc-title">Train a 64M-parameter LLM from scratch in two hours</h1>
+<p class="disc-lead">MiniMind teaches LLM architecture fundamentals from first principles, covering tokenization, pretraining, supervised fine-tuning (SFT), LoRA, and DPO in clean PyTorch.</p>
 <ul class="disc-meta"><li>★ 55,708</li><li>Python</li><li>GitHub Trending · 2026-08-31</li></ul>
-      <section class="disc-sec"><h2>Related dictionary terms</h2><div class="disc-related"><a href="/en/dictionary/llm/">LLM</a><a href="/en/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
+      <section class="disc-sec"><h2>Updates</h2><ul class="disc-wins"><li><strong>August 31, 2026:</strong> 55,708 stars, adding Mixture of Experts (MoE) support and direct preference optimization (DPO).</li></ul></section>
+      <section class="disc-sec"><h2>What you get</h2><ul class="disc-wins"><li><strong>Train in two hours on consumer GPUs:</strong> Train a functional transformer LLM completely from scratch in ~2 hours on a single RTX 3090/4090 GPU.</li><li><strong>End-to-end LLM lifecycle pipeline:</strong> Covers Byte-Pair Encoding tokenization, pretraining, SFT, LoRA adapters, and DPO alignment.</li><li><strong>Pure PyTorch clarity:</strong> Readable, transparent transformer layers without obfuscating third-party framework wrappers.</li><li><strong>Mixture of Experts (MoE) support:</strong> Experiment with dense transformers as well as 8x sparse Mixture of Experts architectures.</li><li><strong>Exceptional pedagogical resource:</strong> The ideal practical sandbox for students and AI engineers looking to demystify generative model training.</li></ul></section>
+      <section class="disc-sec"><h2>Installation</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Clone repository and install dependencies</span><button type="button" class="disc-copy" aria-label="Copy">Copy</button></div><pre><code>git clone https://github.com/jingyaogong/minimind.git
+cd minimind
+pip install -r requirements.txt</code></pre></div></section>
+      <section class="disc-sec"><h2>Running it</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Start pretraining and run model evaluation</span><button type="button" class="disc-copy" aria-label="Copy">Copy</button></div><pre><code>python 1-pretrain.py
+# Eğitilen modelle test çıkarımı:
+python 5-eval.py</code></pre></div></section>
+      <section class="disc-sec"><h2>Technical architecture and working principle</h2><p>MiniMind adopts a modern auto-regressive Decoder-Only Transformer architecture modeled after LLaMA and Mistral:</p><ul class="disc-wins"><li><strong>RoPE and SwiGLU activations:</strong> Incorporates Rotary Position Embeddings (RoPE) and SwiGLU activation functions following frontier standards.</li><li><strong>Stable RMSNorm normalisation:</strong> Uses Root Mean Square Normalization (RMSNorm) for accelerated, stable gradient propagation over LayerNorm.</li><li><strong>Flash Attention v2 integration:</strong> Optimizes memory bandwidth and compute speed via fused Flash Attention GPU kernels.</li></ul></section>
+      <section class="disc-sec"><h2>Training stages: Pretraining, SFT, and DPO</h2><p>MiniMind's modular scripts walk through the step-by-step evolution of an LLM from raw text to dialogue:</p><ul class="disc-steps"><li><strong>Stage 1 - Pretraining (1-pretrain.py):</strong> Acquires syntax and general knowledge by predicting the next token over raw web and wiki corpora.</li><li><strong>Stage 2 - Supervised Fine-Tuning (2-sft.py):</strong> Aligns the model to follow user instructions using conversational question-answer datasets.</li><li><strong>Stage 3 - Direct Preference Optimization (4-dpo.py):</strong> Steers model behavior toward preferred conversational styles using paired positive/negative responses.</li></ul></section>
+      <section class="disc-sec"><h2>If you do not code</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Paste into your AI agent (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Copy">Copy</button></div><p class="disc-ai-text">I want to train a 64M-parameter LLM from scratch using MiniMind in PyTorch with my custom text corpus. Can you explain how to train the tokenizer, launch 1-pretrain.py, and apply LoRA fine-tuning step by step with code examples?</p></div></section>
+      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Who it is for</span><span class="disc-fact-v">AI researchers, machine learning engineers, data scientists, and computer science students.</span></div><div class="disc-fact"><span class="disc-fact-k">License</span><span class="disc-fact-v">Apache-2.0 (Open-source license)</span></div><div class="disc-fact"><span class="disc-fact-k">Framework</span><span class="disc-fact-v">PyTorch Minimalist LLM Training Framework</span></div><div class="disc-fact"><span class="disc-fact-k">Platforms</span><span class="disc-fact-v">Linux, macOS (Apple Silicon MPS), Windows</span></div></div>
+      <section class="disc-sec"><h2>Frequently asked questions</h2><ul class="disc-wins"><li><strong>How much VRAM is required to train MiniMind?</strong> The 64M model trains comfortably in 6GB to 12GB of VRAM, running smoothly even on budget GPUs like the RTX 3060 or 4060.</li><li><strong>Does it run on Apple Silicon Macs?</strong> Yes. PyTorch MPS (Metal Performance Shaders) support enables training and inference directly on Apple M-series chips.</li><li><strong>How capable is a 64M-parameter model?</strong> At 64M parameters, it excels at demonstrating language fluency, dialogue formatting, and structured generation rather than complex multi-step reasoning.</li><li><strong>What datasets are bundled or supported?</strong> The repo provides automated scripts to download curated open-source pretraining and SFT conversational datasets.</li></ul></section>
       <section class="disc-sec"><h2>Links</h2><ul class="disc-links"><li><a href="https://github.com/jingyaogong/minimind" target="_blank" rel="noopener">GitHub repository →</a></li><li><a href="https://trescout.com/discover/minimind/">Read in Turkish →</a></li></ul></section>
 <p class="disc-disclaimer">TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-31: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was <strong>machine-translated</strong> from the Turkish original · the Turkish version prevails.</p>
-<aside class="disc-cta"><p><strong>Get similar discoveries in the daily report.</strong> TreScout scouts GitHub, Hacker News and HuggingFace trends daily, delivering curated summaries.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-en" data-page-type="discover" data-content-slug="minimind" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/discover/">All discoveries →</a></aside>
+
+<section class="disc-sec"><h2>Related dictionary terms</h2><div class="disc-related"><a href="/en/dictionary/ai/">Artificial Intelligence</a><a href="/en/dictionary/llm/">LLM</a><a href="/en/dictionary/open-source/">Open Source</a><a href="/en/dictionary/machine-learning/">Machine Learning</a><a href="/en/dictionary/cli/">CLI</a></div></section>
+      <aside class="disc-cta"><p><strong>Get similar discoveries in the daily report.</strong> TreScout scouts GitHub, Hacker News and HuggingFace trends daily, delivering curated summaries.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-en" data-page-type="discover" data-content-slug="minimind" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/discover/">All discoveries →</a></aside>
 </article>
 </main>
 <footer>

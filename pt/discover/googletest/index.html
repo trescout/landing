@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Googletest · Descobrir · TreScout</title>
-<meta name="description" content="This is the most important product possible. · Googletest · Explore este projeto open source na TreScout.">
+<meta name="description" content="GoogleTest e GoogleMock oferecem testes unitários de padrão industrial, objetos simulados (mocks) e testes parametrizados para C++ moderno.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/pt/discover/googletest.md">
 <link rel="canonical" href="https://trescout.com/pt/discover/googletest/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/googletest/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/googletest/">
 <meta property="og:title" content="Googletest">
-<meta property="og:description" content="This is the most important product possible. · Googletest · Explore este projeto open source na TreScout.">
+<meta property="og:description" content="GoogleTest e GoogleMock oferecem testes unitários de padrão industrial, objetos simulados (mocks) e testes parametrizados para C++ moderno.">
 <meta property="og:url" content="https://trescout.com/pt/discover/googletest/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="pt_BR">
@@ -27,15 +27,15 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Googletest">
-<meta name="twitter:description" content="This is the most important product possible. · Googletest · Explore este projeto open source na TreScout.">
+<meta name="twitter:description" content="GoogleTest e GoogleMock oferecem testes unitários de padrão industrial, objetos simulados (mocks) e testes parametrizados para C++ moderno.">
 <meta name="twitter:image" content="https://trescout.com/assets/discover/og/googletest-pt.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Teste do Google",
+  "headline": "Testes unitários e mocks em C++ no padrão da indústria",
   "inLanguage": "pt-BR",
-  "description": "Este é o produto mais importante possível. Consulte esse link da fonte para obter detalhes.",
+  "description": "GoogleTest e GoogleMock oferecem testes unitários de padrão industrial, objetos simulados (mocks) e testes parametrizados para C++ moderno.",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -65,12 +65,30 @@
 <article class="disc">
 <a class="disc-back" href="/pt/discover/">← Descobrir</a>
 <div class="disc-top"><span class="disc-eyebrow">Descobrir · GitHub · Googletest</span></div>
-<h1 class="disc-title">Teste do Google</h1>
-<p class="disc-lead">Este é o produto mais importante possível. Consulte esse link da fonte para obter detalhes.</p>
+<h1 class="disc-title">Testes unitários e mocks em C++ no padrão da indústria</h1>
+<p class="disc-lead">GoogleTest e GoogleMock oferecem testes unitários de padrão industrial, objetos simulados (mocks) e testes parametrizados para C++ moderno.</p>
 <ul class="disc-meta"><li>★ 38.987</li><li>C++</li><li>GitHub Trending · 2026-08-27</li></ul>
-      <section class="disc-sec"><h2>Links</h2><ul class="disc-links"><li><a href="https://github.com/google/googletest" target="_blank" rel="noopener">Repositório no GitHub →</a></li><li><a href="https://trescout.com/discover/googletest/">Ler em turco →</a></li></ul></section>
+      <section class="disc-sec"><h2>Atualizações</h2><ul class="disc-wins"><li><strong>27 de agosto de 2026:</strong> 38.987 estrelas, versão v1.15.2 com suporte a conceitos de C++20 e validação avançada de mocks.</li></ul></section>
+      <section class="disc-sec"><h2>O que você ganha</h2><ul class="disc-wins"><li><strong>Macros de asserção abrangentes:</strong> Diagnósticos claros com macros ASSERT_* (fatal, interrompe o teste) e EXPECT_* (não fatal, continua a execução).</li><li><strong>Conjunto avançado de mocks (GoogleMock):</strong> Isole dependências usando MOCK_METHOD para simular interfaces e definir expectativas de chamadas.</li><li><strong>Testes parametrizados por valores:</strong> Execute a mesma lógica de teste em dezenas de conjuntos de dados usando padrões de teste parametrizados.</li><li><strong>Segurança de threads multiplataforma:</strong> Execução thread-safe em Linux, macOS e Windows com testes de falha fatal (death tests).</li><li><strong>Integração CI/CD e relatórios:</strong> Integração nativa com GitHub Actions e GitLab CI através de relatórios XML e JSON compatíveis com JUnit.</li></ul></section>
+      <section class="disc-sec"><h2>Instalação</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Integração via CMake FetchContent</span><button type="button" class="disc-copy" aria-label="Copiar">Copiar</button></div><pre><code>include(FetchContent)
+FetchContent_Declare(
+  googletest
+  URL https://github.com/google/googletest/archive/refs/tags/v1.15.2.tar.gz
+)
+FetchContent_MakeAvailable(googletest)</code></pre></div></section>
+      <section class="disc-sec"><h2>Execução</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Compilar e executar testes via CTest</span><button type="button" class="disc-copy" aria-label="Copiar">Copiar</button></div><pre><code>cmake -B build -S .
+cmake --build build
+ctest --test-dir build --output-on-failure</code></pre></div></section>
+      <section class="disc-sec"><h2>Arquitetura técnica e princípio de funcionamento</h2><p>O GoogleTest é construído sobre uma arquitetura C++ modular otimizada para compiladores modernos:</p><ul class="disc-wins"><li><strong>Gerenciamento de fixtures e ciclo de vida:</strong> Os métodos SetUp e TearDown garantem alocação e liberação previsíveis de recursos em cada teste.</li><li><strong>Isolamento de processos para death tests:</strong> Cria processos filhos isolados para verificar com segurança travamentos e encerramentos anormais.</li><li><strong>Modelos de testes parametrizados por tipo:</strong> Valida classes genéricas com templates C++ em múltiplos tipos de dados sem duplicar código.</li></ul></section>
+      <section class="disc-sec"><h2>Cenários de teste e integração com GoogleMock</h2><p>Isolar dependências usando objetos simulados (mocks) em C++ moderno oferece vantagens práticas imediatas:</p><ul class="disc-steps"><li><strong>Abstração de chamadas de rede e banco de dados:</strong> Simule respostas de API e latências sem sockets reais utilizando MOCK_METHOD.</li><li><strong>Validação de contagem de chamadas e argumentos:</strong> Verifique quantas vezes, com quais parâmetros e em que ordem os métodos foram executados com EXPECT_CALL.</li><li><strong>Testes de resiliência com exceções:</strong> Garanta o tratamento correto de erros em trechos de código que lançam exceções usando EXPECT_THROW.</li></ul></section>
+      <section class="disc-sec"><h2>Se você não programa</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Cole no seu agente de IA (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Copiar">Copiar</button></div><p class="disc-ai-text">Quero escrever testes unitários para uma classe de parser em C++ usando GoogleTest e GoogleMock. Pode fornecer exemplos de configuração do CMakeLists.txt, uma fixture TEST_F e criação de mocks com MOCK_METHOD e EXPECT_CALL?</p></div></section>
+      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Para quem</span><span class="disc-fact-v">Engenheiros de software C++, desenvolvedores de sistemas embarcados e arquitetos de sistemas.</span></div><div class="disc-fact"><span class="disc-fact-k">Licença</span><span class="disc-fact-v">BSD 3-Clause (Licença de código aberto permissiva)</span></div><div class="disc-fact"><span class="disc-fact-k">Estrutura</span><span class="disc-fact-v">Biblioteca de testes e mocks para C++</span></div><div class="disc-fact"><span class="disc-fact-k">Plataformas</span><span class="disc-fact-v">Linux, macOS, Windows, Android, iOS</span></div></div>
+      <section class="disc-sec"><h2>Perguntas frequentes</h2><ul class="disc-wins"><li><strong>Qual é a forma moderna de incluir o GoogleTest em um projeto?</strong> Em projetos CMake modernos, o módulo FetchContent é o método recomendado, baixando e compilando o GoogleTest sem gerenciadores externos.</li><li><strong>Qual é a diferença entre EXPECT_* e ASSERT_*?</strong> As macros EXPECT_* registram falhas e permitem a continuidade do teste. As macros ASSERT_* interrompem imediatamente a execução da função de teste atual.</li><li><strong>O GoogleMock é uma biblioteca separada?</strong> O GoogleMock era originalmente separado, mas foi incorporado ao repositório unificado do GoogleTest há muito tempo; ambos funcionam juntos.</li><li><strong>O GoogleTest é seguro para threads?</strong> Sim. Em plataformas com suporte a pthreads e no Windows, o GoogleTest é thread-safe e sincroniza asserções de threads concorrentes.</li></ul></section>
+      <section class="disc-sec"><h2>Links</h2><ul class="disc-links"><li><a href="https://github.com/google/googletest" target="_blank" rel="noopener">Repositório GitHub →</a></li><li><a href="https://trescout.com/discover/googletest/">Ler em turco →</a></li></ul></section>
 <p class="disc-disclaimer">A TreScout não desenvolveu esta ferramenta · nós a encontramos nas tendências do GitHub e a apresentamos. Esta página descreve o repositório em 2026-08-27: A contagem de estrelas e o nosso texto são daquele dia, o repositório pode ter mudado desde então. Consulte o link do repositório para ver o estado atual. Esta página foi <strong>traduzida automaticamente</strong> do original em turco · a versão turca é a que vale.</p>
-<aside class="disc-cta"><p><strong>Receba descobertas semelhantes no relatório diário.</strong> A TreScout vasculha o GitHub, Hacker News e HuggingFace todos os dias e resume o essencial.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-pt" data-page-type="discover" data-content-slug="googletest" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Seu e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Acesso antecipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Li o <a href="/pt/privacy.html" target="_blank" rel="noopener">aviso de privacidade</a> e concordo com o tratamento do meu e-mail para esta finalidade.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/pt/discover/">Todas as descobertas →</a></aside>
+
+<section class="disc-sec"><h2>Termos de dicionário relacionados</h2><div class="disc-related"><a href="/pt/dictionary/ci-cd/">CI/CD</a><a href="/pt/dictionary/open-source/">Código Aberto</a><a href="/pt/dictionary/cli/">CLI</a><a href="/pt/dictionary/api/">API</a><a href="/pt/dictionary/framework/">Framework</a></div></section>
+      <aside class="disc-cta"><p><strong>Receba descobertas semelhantes no relatório diário.</strong> A TreScout vasculha o GitHub, Hacker News e HuggingFace todos os dias e resume o essencial.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-pt" data-page-type="discover" data-content-slug="googletest" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Seu e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Acesso antecipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Li o <a href="/pt/privacy.html" target="_blank" rel="noopener">aviso de privacidade</a> e concordo com o tratamento do meu e-mail para esta finalidade.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/pt/discover/">Todas as descobertas →</a></aside>
 </article>
 </main>
 <footer><div class="container"><div class="footer-grid"><div class="footer-brand-block"><div class="footer-logo"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></div><p class="footer-tagline">A TreScout busca, resume e entrega. Você só precisa ler.</p></div><div class="footer-col"><div class="footer-col-title">Produto</div><ul><li><a href="/pt/discover/">Descobrir</a></li><li><a href="/pt/dictionary/">Glossário</a></li><li><a href="/pt/reports/">Arquivo de relatórios</a></li><li><a href="/pt/compare/rss-vs-ai/">Comparar</a></li><li><a href="/pt/#top">Acesso antecipado</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Contato</div><ul><li><a href="mailto:hello@trescout.com">hello@trescout.com</a></li><li><a href="/pt/privacy.html" target="_blank" rel="noopener">Aviso de privacidade</a></li></ul></div><div class="footer-col"><div class="footer-col-title">Redes</div><ul><li><a href="https://x.com/GetTreScout" target="_blank" rel="noopener noreferrer">X / Twitter</a></li></ul></div></div><div class="footer-bottom"><span>© 2026 TreScout · Todos os direitos reservados.</span></div></div></footer>

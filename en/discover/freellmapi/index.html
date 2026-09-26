@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Freellmapi · Discover · TreScout</title>
-<meta name="description" content="FreeLLMAPI integrates 34 different free large language model providers into a single OpenAI compatible endpoint.">
+<meta name="description" content="FreeLLMAPI consolidates 34 free large language model providers behind an OpenAI-compatible interface with smart routing and automated failover.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/en/discover/freellmapi.md">
 <link rel="canonical" href="https://trescout.com/en/discover/freellmapi/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/freellmapi/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/freellmapi/">
 <meta property="og:title" content="Freellmapi">
-<meta property="og:description" content="FreeLLMAPI integrates 34 different free large language model providers into a single OpenAI compatible endpoint.">
+<meta property="og:description" content="FreeLLMAPI consolidates 34 free large language model providers behind an OpenAI-compatible interface with smart routing and automated failover.">
 <meta property="og:url" content="https://trescout.com/en/discover/freellmapi/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
@@ -27,15 +27,15 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Freellmapi">
-<meta name="twitter:description" content="FreeLLMAPI integrates 34 different free large language model providers into a single OpenAI compatible endpoint.">
+<meta name="twitter:description" content="FreeLLMAPI consolidates 34 free large language model providers behind an OpenAI-compatible interface with smart routing and automated failover.">
 <meta name="twitter:image" content="https://trescout.com/assets/discover/og/freellmapi-en.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Freellmapi",
+  "headline": "Aggregate 34 free LLM providers under a unified OpenAI API",
   "inLanguage": "en",
-  "description": "FreeLLMAPI combines 34 different free large language model providers into a single OpenAI-compatible endpoint. With smart routing and automatic error handling features, it allows developers to test different models through a single interface.",
+  "description": "FreeLLMAPI consolidates 34 free large language model providers behind an OpenAI-compatible interface with smart routing and automated failover.",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -65,13 +65,29 @@
 <article class="disc">
 <a class="disc-back" href="/en/discover/">← Discover</a>
 <div class="disc-top"><span class="disc-eyebrow">Discover · GitHub</span><span class="disc-momentum">↑ +477 today</span></div>
-<h1 class="disc-title">Freellmapi</h1>
-<p class="disc-lead">FreeLLMAPI combines 34 different free large language model providers into a single OpenAI-compatible endpoint. With smart routing and automatic error handling features, it allows developers to test different models through a single interface.</p>
+<h1 class="disc-title">Aggregate 34 free LLM providers under a unified OpenAI API</h1>
+<p class="disc-lead">FreeLLMAPI consolidates 34 free large language model providers behind an OpenAI-compatible interface with smart routing and automated failover.</p>
 <ul class="disc-meta"><li>★ 21,410</li><li>TypeScript</li><li>GitHub Trending · 2026-08-28</li></ul>
-      <section class="disc-sec"><h2>Related dictionary terms</h2><div class="disc-related"><a href="/en/dictionary/endpoint/">Endpoint</a><a href="/en/dictionary/llm/">LLM</a></div></section>
+      <section class="disc-sec"><h2>Updates</h2><ul class="disc-wins"><li><strong>August 28, 2026:</strong> 21,410 stars, integrating 34 free AI providers with full streaming response support.</li></ul></section>
+      <section class="disc-sec"><h2>What you get</h2><ul class="disc-wins"><li><strong>34 free model providers:</strong> Unified gateway connecting to Google Gemini, Groq, Cloudflare Workers AI, and HuggingFace with zero subscription fees.</li><li><strong>OpenAI REST API drop-in compatibility:</strong> Native /v1/chat/completions endpoint works out of the box with LangChain, LlamaIndex, and standard OpenAI SDKs.</li><li><strong>Smart routing and automated failover:</strong> Automatically routes requests to alternative active providers whenever rate limits or outages occur.</li><li><strong>Server-Sent Events (SSE) streaming:</strong> Stream tokens in real time directly to frontend interfaces with minimal latency.</li><li><strong>Lightweight self-hosted deployment:</strong> Deployable via Docker or Node.js in seconds on personal workstations or production servers.</li></ul></section>
+      <section class="disc-sec"><h2>Installation</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Clone repository and install dependencies</span><button type="button" class="disc-copy" aria-label="Copy">Copy</button></div><pre><code>git clone https://github.com/tashfeenahmed/freellmapi.git
+cd freellmapi
+npm install</code></pre></div></section>
+      <section class="disc-sec"><h2>Running it</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Start server and query completion endpoint</span><button type="button" class="disc-copy" aria-label="Copy">Copy</button></div><pre><code>npm start
+# OpenAI uyumlu istek:
+curl http://localhost:3000/v1/chat/completions \
+  -H "Content-Type: application/json" \
+  -d '{"model":"gpt-4o-mini","messages":[{"role":"user","content":"Merhaba!"}]}'</code></pre></div></section>
+      <section class="disc-sec"><h2>Technical architecture and working principle</h2><p>FreeLLMAPI operates as a reverse proxy adapting OpenAI client payloads into provider-specific schemas:</p><ul class="disc-wins"><li><strong>Provider adapter architecture:</strong> Extensible abstraction layer normalizing disparate REST and WebSocket protocols into standard OpenAI JSON.</li><li><strong>Dynamic load balancing & rate tracking:</strong> Tracks active rate-limit thresholds to steer traffic dynamically to the most responsive model endpoints.</li><li><strong>In-memory caching & retry logic:</strong> Caches repetitive prompt tokens and automatically retries transient timeouts across alternate backends.</li></ul></section>
+      <section class="disc-sec"><h2>Model routing and failover resilience</h2><p>Engineers leverage FreeLLMAPI to conduct production-grade evaluation pipelines without incurring API costs:</p><ul class="disc-steps"><li><strong>Multi-model output benchmarking:</strong> Dispatch identical prompts across competing open-weight backends to evaluate response quality and latency.</li><li><strong>Zero-cost prototyping & MVP cycles:</strong> Build and iterate on AI-powered prototypes without binding commercial credit cards or paid API keys.</li><li><strong>High-availability fallback pipelines:</strong> Ensure zero application downtime by falling back dynamically to secondary models if primary providers degrade.</li></ul></section>
+      <section class="disc-sec"><h2>If you do not code</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Paste into your AI agent (Claude Code · Codex · Antigravity)</span><button type="button" class="disc-copy" aria-label="Copy">Copy</button></div><p class="disc-ai-text">Can you show me how to deploy FreeLLMAPI with Docker, point the official OpenAI Node.js SDK to this local endpoint, and configure automated fallback routing across providers with code examples?</p></div></section>
+      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Who it is for</span><span class="disc-fact-v">AI engineers, open-source researchers, full-stack developers, and prototype builders.</span></div><div class="disc-fact"><span class="disc-fact-k">License</span><span class="disc-fact-v">MIT (Permissive open source license)</span></div><div class="disc-fact"><span class="disc-fact-k">Framework</span><span class="disc-fact-v">TypeScript / Node.js Reverse Proxy</span></div><div class="disc-fact"><span class="disc-fact-k">Platforms</span><span class="disc-fact-v">Docker, Linux, macOS, Windows</span></div></div>
+      <section class="disc-sec"><h2>Frequently asked questions</h2><ul class="disc-wins"><li><strong>Do I need to purchase API keys to use FreeLLMAPI?</strong> No. The proxy aggregates 34 providers offering free tiers or public inference without subscription commitments.</li><li><strong>Which large language models are supported?</strong> Supported architectures include Llama 3, Mistral, Gemma, and Google Gemini free endpoints across multiple provider backends.</li><li><strong>Is it suitable for enterprise data privacy?</strong> FreeLLMAPI runs completely locally on your hardware, but underlying free provider endpoints enforce their respective privacy and data retention policies.</li><li><strong>Does it work with LangChain or CrewAI?</strong> Yes. Because it adheres strictly to the OpenAI specification, setting baseURL to localhost:3000/v1 integrates immediately with LangChain, LlamaIndex, and CrewAI.</li></ul></section>
       <section class="disc-sec"><h2>Links</h2><ul class="disc-links"><li><a href="https://github.com/tashfeenahmed/freellmapi" target="_blank" rel="noopener">GitHub repository →</a></li><li><a href="https://trescout.com/discover/freellmapi/">Read in Turkish →</a></li></ul></section>
 <p class="disc-disclaimer">TreScout did not build this tool · we found it in GitHub trends and wrote it up. This page describes the repository as of 2026-08-28: The star count and our text belong to that day, the repository may have changed since. Check the repository link for the current state. This page was <strong>machine-translated</strong> from the Turkish original · the Turkish version prevails.</p>
-<aside class="disc-cta"><p><strong>Get similar discoveries in the daily report.</strong> TreScout scouts GitHub, Hacker News and HuggingFace trends daily, delivering curated summaries.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-en" data-page-type="discover" data-content-slug="freellmapi" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/discover/">All discoveries →</a></aside>
+
+<section class="disc-sec"><h2>Related dictionary terms</h2><div class="disc-related"><a href="/en/dictionary/ai/">Artificial Intelligence</a><a href="/en/dictionary/api/">API</a><a href="/en/dictionary/llm/">LLM</a><a href="/en/dictionary/open-source/">Open Source</a><a href="/en/dictionary/cli/">CLI</a></div></section>
+      <aside class="disc-cta"><p><strong>Get similar discoveries in the daily report.</strong> TreScout scouts GitHub, Hacker News and HuggingFace trends daily, delivering curated summaries.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover-en" data-page-type="discover" data-content-slug="freellmapi" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/discover/">All discoveries →</a></aside>
 </article>
 </main>
 <footer>

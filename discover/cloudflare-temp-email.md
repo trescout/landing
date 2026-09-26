@@ -36,7 +36,9 @@ Cloudflare Temp Email, geleneksel SMTP sunucuları (Postfix, Dovecot) kurma ve y
 
 ## Kurulum ve örnek dağıtım
 
-```bash
+**Wrangler CLI ile Dağıtım Adımları**
+
+```
 # 1. Depoyu klonlayin ve bagimliliklari kurun
 git clone https://github.com/dreamhunter2333/cloudflare_temp_email.git
 cd cloudflare_temp_email

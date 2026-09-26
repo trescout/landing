@@ -62,13 +62,13 @@ Ipatool, Apple ekosisteminin özel istemci protokollerini çözümleyerek doğru
 - Eski sürüm arşivleme: Sürüm tanımlayıcıları (version ID) üzerinden kritik uygulamaların geçmiş sürümlerini yedekleyip saklayın.
 
 ## Kod bilmiyorsanız
-🤖 Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 iOS için geliştirilen bir uygulamanın IPA paketini ipatool kullanarak bilgisayarıma indirmek, içeriğini açarak gömülü kütüphaneleri ve Info.plist dosyasındaki izin yapılandırmalarını güvenlik açısından incelemek istiyorum. Terminalde ipatool ile nasıl oturum açacağımı, arama yapıp indireceğimi ve ardından IPA dosyasını çıkartıp statik analiz yapacağımı adım adım açıklar mısın?
 
-- **Kimin için:** iOS güvenlik araştırmacıları, mobil geliştiriciler, tersine mühendislik uzmanları ve IPA arşivleyiciler.
-- **Lisans:** MIT (Özgür açık kaynak lisansı)
-- **Çatı:** Go tabanlı çapraz platform CLI
-- **Platformlar:** macOS, Linux, Windows
+- **Kimin için:** iOS güvenlik araştırmacıları, mobil geliştiriciler, tersine mühendislik uzmanları ve IPA arşivleyiciler. 
+- **Lisans:** MIT (Özgür açık kaynak lisansı) 
+- **Çatı:** Go tabanlı çapraz platform CLI 
+- **Platformlar:** macOS, Linux, Windows 
 
 ## Sıkça sorulan sorular
 - Apple ID bilgilerimi girmek güvenli mi? Ipatool açık kaynaklıdır ve şifreleri üçüncü taraf bir sunucuya göndermez; doğrudan resmi Apple sunucularına iletir ve yerel Keychain kasasında saklar. Yine de güvenlik incelemeleri için ikincil veya test amaçlı bir Apple ID kullanılması önerilir.
@@ -77,10 +77,13 @@ iOS için geliştirilen bir uygulamanın IPA paketini ipatool kullanarak bilgisa
 - Linux sunucularda Xcode olmadan çalışır mı? Evet. Ipatool saf Go ile yazıldığı için macOS bağımlılığı taşımaz; Linux veya Windows sunucularda bağımsız bir binary olarak sorunsuz çalışır.
 
 ## Bağlantılar
-- [GitHub →](https://github.com/majd/ipatool)
+- [GitHub deposu →](https://github.com/majd/ipatool)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-31 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 Sideloader CLI Open Source API Apple Silicon
 
 ---
-Source: TreScout Discover · https://trescout.com/discover/ipatool/
+Kaynak: TreScout Keşif · https://trescout.com/discover/ipatool/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.

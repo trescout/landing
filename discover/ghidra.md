@@ -26,8 +26,8 @@ brew install --cask ghidra
 
 # Linux / Windows (Manuel arşivden başlatma):
 # JDK 21 64-bit kurulu olmalıdır.
-./ghidraRun          # Linux / macOS
-ghidraRun.bat        # Windows
+./ghidraRun # Linux / macOS
+ghidraRun.bat # Windows
 ```
 
 ## Çalıştırma ve headless komut satırı analizi
@@ -59,13 +59,13 @@ Ghidra, karmaşık siber güvenlik ve yazılım denetim süreçlerinde temel ara
 - Gömülü yazılım (Firmware) analizi: IoT cihazlarından alınan ham flash bellek dökümlerini bellek haritasına oturtup bootloader ve çekirdek fonksiyonlarını çözümleme.
 
 ## Kod bilmiyorsanız
-🤖 Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 Şüpheli bir ikili (binary) dosyayı Ghidra kullanarak incelemek istiyorum. Ghidra'da yeni bir proje açma, dosyayı içe aktarma, otomatik analizi (Auto Analysis) çalıştırma, Decompiler penceresinde fonksiyonları inceleme ve dışarıya çağrılan şüpheli API fonksiyonlarını tespit etme adımlarını adım adım açıklar mısın?
 
-- **Kimin için:** Zararlı yazılım araştırmacıları, zafiyet avcıları, tersine mühendislik uzmanları ve gömülü sistem geliştiricileri.
-- **Lisans:** Apache-2.0 (Açık kaynak lisansı)
-- **Geliştirici:** National Security Agency (NSA) ve Açık Kaynak Topluluğu
-- **Gereksinim:** Java Development Kit (JDK) 21 64-bit
+- **Kimin için:** Zararlı yazılım araştırmacıları, zafiyet avcıları, tersine mühendislik uzmanları ve gömülü sistem geliştiricileri. 
+- **Lisans:** Apache-2.0 (Açık kaynak lisansı) 
+- **Geliştirici:** National Security Agency (NSA) ve Açık Kaynak Topluluğu 
+- **Gereksinim:** Java Development Kit (JDK) 21 64-bit 
 
 ## Sıkça sorulan sorular
 - Ghidra ile IDA Pro arasındaki temel farklar nelerdir? IDA Pro ticari ve yüksek lisans bedellerine sahipken, Ghidra tamamen ücretsiz ve açık kaynaklıdır. Ghidra, tüm mimariler için yerleşik dekompiler sunar ve çok kullanıcılı işbirliği sunucusu içerir.
@@ -74,10 +74,13 @@ Ghidra, karmaşık siber güvenlik ve yazılım denetim süreçlerinde temel ara
 - Python 3 betikleri Ghidra içinde çalıştırılabilir mi? Ghidra varsayılan olarak Jython (Python 2.7) ile gelse de, PyGhidra eklentisi sayesinde modern Python 3 ortamları ve harici kütüphaneler (NumPy, Capstone) doğrudan kullanılabilir.
 
 ## Bağlantılar
-- [GitHub →](https://github.com/NationalSecurityAgency/ghidra)
+- [GitHub deposu →](https://github.com/NationalSecurityAgency/ghidra)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
 Binary Open Source Local Offline
 
 ---
-Source: TreScout Discover · https://trescout.com/discover/ghidra/
+Kaynak: TreScout Keşif · https://trescout.com/discover/ghidra/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.

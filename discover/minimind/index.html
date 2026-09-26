@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Minimind · Keşif · TreScout</title>
-<meta name="description" content="MiniMind, 64 milyon parametreli bir büyük dil modelini (large language model) sıfırdan ve iki saat gibi kısa bir sürede…">
+<meta name="description" content="MiniMind, büyük dil modellerinin (LLM) çalışma prensiplerini anlamak isteyen geliştiriciler için tokenizasyon, ön eğitim, gözetimli ince ayar (SFT), LoRA ve DPO aşamalarını yalın PyTorch kodlarıyla sunar.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/discover/minimind.md">
 <link rel="canonical" href="https://trescout.com/discover/minimind/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/minimind/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/minimind/">
 <meta property="og:title" content="Minimind">
-<meta property="og:description" content="MiniMind, 64 milyon parametreli bir büyük dil modelini (large language model) sıfırdan ve iki saat gibi kısa bir sürede…">
+<meta property="og:description" content="MiniMind, büyük dil modellerinin (LLM) çalışma prensiplerini anlamak isteyen geliştiriciler için tokenizasyon, ön eğitim, gözetimli ince ayar (SFT), LoRA ve DPO aşamalarını yalın PyTorch kodlarıyla sunar.">
 <meta property="og:url" content="https://trescout.com/discover/minimind/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -27,15 +27,15 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Minimind">
-<meta name="twitter:description" content="MiniMind, 64 milyon parametreli bir büyük dil modelini (large language model) sıfırdan ve iki saat gibi kısa bir sürede…">
+<meta name="twitter:description" content="MiniMind, büyük dil modellerinin (LLM) çalışma prensiplerini anlamak isteyen geliştiriciler için tokenizasyon, ön eğitim, gözetimli ince ayar (SFT), LoRA ve DPO aşamalarını yalın PyTorch kodlarıyla sunar.">
 <meta name="twitter:image" content="https://trescout.com/assets/discover/og/minimind.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Minimind",
+  "headline": "Sıfırdan iki saatte eğitilen 64M parametreli dil modeli",
   "inLanguage": "tr",
-  "description": "MiniMind, 64 milyon parametreli bir büyük dil modelini (large language model) sıfırdan ve iki saat gibi kısa bir sürede eğitmeyi sağlayan bir Python projesi. Donanım kaynakları kısıtlı olan kullanıcılar için yapay zekâ modellerinin çalışma prensiplerini anlamaya yönelik pratik bir öğrenme ortamı sunuyor.",
+  "description": "MiniMind, büyük dil modellerinin (LLM) çalışma prensiplerini anlamak isteyen geliştiriciler için tokenizasyon, ön eğitim, gözetimli ince ayar (SFT), LoRA ve DPO aşamalarını yalın PyTorch kodlarıyla sunar.",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -67,12 +67,26 @@
 <article class="disc">
 <a class="disc-back" href="/discover/">← Keşif</a>
 <div class="disc-top"><span class="disc-eyebrow">Keşif · GitHub</span><span class="disc-momentum">↑ +472 bugün</span></div>
-<h1 class="disc-title">Minimind</h1>
-<p class="disc-lead">MiniMind, 64 milyon parametreli bir büyük dil modelini (large language model) sıfırdan ve iki saat gibi kısa bir sürede eğitmeyi sağlayan bir Python projesi. Donanım kaynakları kısıtlı olan kullanıcılar için yapay zekâ modellerinin çalışma prensiplerini anlamaya yönelik pratik bir öğrenme ortamı sunuyor.</p>
+<h1 class="disc-title">Sıfırdan iki saatte eğitilen 64M parametreli dil modeli</h1>
+<p class="disc-lead">MiniMind, büyük dil modellerinin (LLM) çalışma prensiplerini anlamak isteyen geliştiriciler için tokenizasyon, ön eğitim, gözetimli ince ayar (SFT), LoRA ve DPO aşamalarını yalın PyTorch kodlarıyla sunar.</p>
 <ul class="disc-meta"><li>★ 55.708</li><li>Python</li><li>GitHub Trending · 2026-08-31</li></ul>
+      <section class="disc-sec"><h2>Güncelleme</h2><ul class="disc-wins"><li><strong>31 Ağustos 2026:</strong> Yıldız 55.708, MoE (Mixture of Experts) mimarisi ve DPO pekiştirmeli hizalama desteği.</li></ul></section>
+      <section class="disc-sec"><h2>Ne kazandırır?</h2><ul class="disc-wins"><li><strong>Tüketici donanımında 2 saatte eğitim:</strong> Tek bir NVIDIA RTX 3090/4090 ekran kartında yaklaşık 2 saatte sıfırdan eğitilebilen kompakt mimari.</li><li><strong>Tam LLM eğitim yaşam döngüsü:</strong> BPE tokenizasyon, pretraining, gözetimli ince ayar (SFT), LoRA adaptasyonu ve DPO hizalama boru hattı.</li><li><strong>Minimalist ve okunabilir kod tabanı:</strong> Karmaşık üçüncü taraf soyutlamaları olmadan saf PyTorch ile yazılmış şeffaf Transformer blokları.</li><li><strong>MoE (Uzman Karışımı) desteği:</strong> Dense modellerin yanı sıra 8x MoE mimarisini sıfırdan deneme ve çalıştırma olanağı.</li><li><strong>Mükemmel eğitim ve pedagoji kaynağı:</strong> Büyük dil modellerinin iç işleyişini deneysel olarak kavramak isteyen araştırmacılar için ideal kılavuz.</li></ul></section>
+      <section class="disc-sec"><h2>Kurulum</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Depoyu klonlama ve bağımlılıkları yükleme</span><button type="button" class="disc-copy" aria-label="Kopyala">Kopyala</button></div><pre><code>git clone https://github.com/jingyaogong/minimind.git
+cd minimind
+pip install -r requirements.txt</code></pre></div></section>
+      <section class="disc-sec"><h2>Çalıştırma</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Ön eğitim başlatma ve model çıktısını test etme</span><button type="button" class="disc-copy" aria-label="Kopyala">Kopyala</button></div><pre><code>python 1-pretrain.py
+# Eğitilen modelle test çıkarımı:
+python 5-eval.py</code></pre></div></section>
+      <section class="disc-sec"><h2>Teknik mimari ve çalışma prensibi</h2><p>MiniMind, LLaMA ve Mistral benzeri modern oto-regresif Decoder-Only Transformer mimarisini temel alır:</p><ul class="disc-wins"><li><strong>RoPE ve SwiGLU Aktivasyonları:</strong> Dönel konumsal gömmeler (Rotary Position Embeddings) ve SwiGLU aktivasyon fonksiyonları ile modern mimari standartları.</li><li><strong>RMSNorm ile Kararlı Gradyan Akışı:</strong> Geleneksel LayerNorm yerine daha hızlı ve kararlı olan RMSNorm katman normalizasyonu kullanımı.</li><li><strong>Flash Attention Entegrasyonu:</strong> Büyük dikkat matrislerini GPU belleğinde hızlıca hesaplamak için Flash Attention v2 optimizasyonu.</li></ul></section>
+      <section class="disc-sec"><h2>Eğitim aşamaları: Ön eğitim, SFT ve DPO</h2><p>MiniMind'ın modüler yapısı, bir dil modelinin ham metinden diyaloğa dönüşümünü adım adım görselleştirir:</p><ul class="disc-steps"><li><strong>Aşama 1 - Ön Eğitim (1-pretrain.py):</strong> Ham metinler üzerinde bir sonraki tokeni tahmin etme mantığıyla dilbilgisi ve genel dünya bilgisini öğrenir.</li><li><strong>Aşama 2 - Gözetimli İnce Ayar (2-sft.py):</strong> Soru-cevap ve talimat veri kümeleri ile modeli kullanıcı komutlarına itaat eden bir asistana dönüştürür.</li><li><strong>Aşama 3 - DPO Hizalama (4-dpo.py):</strong> İyi ve kötü yanıt çiftleri üzerinden modeli kullanıcı tercihlerine göre doğrudan optimize eder.</li></ul></section>
+      <section class="disc-sec"><h2>Kod bilmiyorsanız</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın</span><button type="button" class="disc-copy" aria-label="Kopyala">Kopyala</button></div><p class="disc-ai-text">MiniMind deposunu kullanarak PyTorch ile sıfırdan 64M parametreli bir dil modeli eğitmek istiyorum. Kendi Türkçe metin veri kümeme göre tokenizer'ı nasıl hazırlayacağımı, 1-pretrain.py betiğini nasıl çalıştıracağımı ve ardından LoRA ile nasıl ince ayar yapacağımı adım adım açıklar mısın?</p></div></section>
+      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Kimin için</span><span class="disc-fact-v">Yapay zekâ araştırmacıları, makine öğrenimi mühendisleri, veri bilimciler ve öğrenciler.</span></div><div class="disc-fact"><span class="disc-fact-k">Lisans</span><span class="disc-fact-v">Apache-2.0 (Açık kaynak lisansı)</span></div><div class="disc-fact"><span class="disc-fact-k">Çatı</span><span class="disc-fact-v">PyTorch Tabanlı Minimalist LLM Çatısı</span></div><div class="disc-fact"><span class="disc-fact-k">Platformlar</span><span class="disc-fact-v">Linux, macOS (Apple Silicon MPS), Windows</span></div></div>
+      <section class="disc-sec"><h2>Sıkça sorulan sorular</h2><ul class="disc-wins"><li><strong>MiniMind'ı eğitmek için ne kadar VRAM gerekir?</strong> 64M parametreli model, batch size ayarına bağlı olarak 6GB ile 12GB VRAM aralığında rahatça eğitilebilir; RTX 3060 veya RTX 4060 bile yeterlidir.</li><li><strong>Apple Silicon (Mac M serisi) üzerinde çalışır mı?</strong> Evet. PyTorch MPS (Metal Performance Shaders) hızlandırması ile Mac bilgisayarlarda da eğitim ve çıkarım yapılabilir.</li><li><strong>Modelin çıktıları günlük konuşma için yeterli mi?</strong> 64M küçük bir modeldir; karmaşık mantıksal akıl yürütme yerine dil yapısını, temel soruları yanıtlama ve metin tamamlama yeteneklerini sergilemek için optimize edilmiştir.</li><li><strong>Hangi veri kümeleri hazır olarak geliyor?</strong> Depo, Çince ve İngilizce ön eğitim ve SFT için filtrelenmiş açık veri kümelerini otomatik indirme komutları sunar.</li></ul></section>
       <section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links"><li><a href="https://github.com/jingyaogong/minimind" target="_blank" rel="noopener">GitHub deposu →</a></li></ul></section>
 <p class="disc-disclaimer">TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-31 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.</p>
-<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related"><a href="/dictionary/llm/">LLM</a><a href="/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
+
+<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related"><a href="/dictionary/ai/">Yapay Zekâ</a><a href="/dictionary/llm/">LLM</a><a href="/dictionary/open-source/">Açık Kaynak</a><a href="/dictionary/machine-learning/">Makine Öğrenimi</a><a href="/dictionary/cli/">CLI</a></div></section>
       <aside class="disc-cta"><p><strong>Benzer keşifleri günlük raporda al.</strong> TreScout; GitHub, Hacker News ve HuggingFace trendlerini her gün tarar, öne çıkan açık kaynak araçları Türkçe özetler.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover" data-page-type="discover" data-content-slug="minimind" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/discover/">Tüm keşifler →</a></aside>
 </article>
 </main>
