@@ -1,0 +1,42 @@
+name: AI Traceability
+
+# AGENTS.md her PR'da "AI Traceability" bölümü istiyor, ama hiçbir şey
+# denetlemiyordu: 2026-09-12 ile 09-26 arası PR'ların çoğunda bölüm yoktu.
+# Kural okunuyordu (aynı PR'lar için AI_USAGE_LOG satırları yazılmış); ajanlar
+# PR'ı `gh pr create --body` ile açtığı için şablon hiç görünmüyor, açıklama
+# aracın kendi alışkanlığıyla yazılıyordu. Denetlenmeyen biçim kuralı atlanır;
+# kırmızı kontrol ise ajanın da önüne çıkar.
+#
+# Denetim: başlık var mı + "Tool/Araç" alanı DOLDURULMUŞ mu (şablonun HTML
+# yorumu olduğu gibi bırakıldıysa boş sayılır). PR açıklaması düzenlenince
+# kontrol yeniden koşar.
+on:
+  pull_request:
+    types: [opened, edited, synchronize, reopened]
+
+permissions:
+  contents: read
+
+jobs:
+  traceability:
+    if: github.event.pull_request.user.type != 'Bot'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: PR açıklamasında AI Traceability
+        env:
+          PR_BODY: ${{ github.event.pull_request.body }}
+        run: |
+          python3 - <<'PY'
+          import os, re, sys
+          govde = re.sub(r"<!--.*?-->", "", os.environ.get("PR_BODY") or "", flags=re.S)
+          baslik = re.search(r"^#{1,4}[^\n]*AI Traceability", govde, re.M | re.I)
+          arac = re.search(r"(Tool|Araç)[*_ \t]*:[*_ \t]*[A-Za-z]", govde[baslik.end():] if baslik else "")
+          if baslik and arac:
+              print("✅ AI Traceability bölümü var ve araç belirtilmiş")
+              sys.exit(0)
+          eksik = "'## AI Traceability' başlığı" if not baslik else "'Tool:' alanı (boş ya da yalnız şablon yorumu)"
+          print(f"::error::PR açıklamasında {eksik} eksik. AGENTS.md AI Traceability kuralı · şablon: .github/pull_request_template.md. "
+                "Açıklamayı düzenleyin (gh pr edit --body ...); bu kontrol kendiliğinden yeniden koşar.")
+          sys.exit(1)
+          PY
