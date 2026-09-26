@@ -223,9 +223,14 @@ jobs:
       # eksik kalanlar ertesi koşuda kaldığı yerden devam ediyor. Koşunun
       # kırmızı kalması için en sonda ayrı bir adım var · sessizce yeşile
       # dönmesin.
+      # Adım süresi sınırı · iş sınırı (180 dk) dolunca iş İPTAL oluyor ve commit
+      # adımına gelinmiyor, önbellek yine runner'la gidiyor (2026-09-26 koşusu 108.
+      # dakikada böyle kesildi). Önceki adımlar ~70 dk sürüyor; bu adım 75'te kesilirse
+      # continue-on-error sayesinde ikinci tur, guard'lar ve commit için süre kalıyor.
       - name: Sayfaları üret · her dilde sözlük SONRA keşif
         id: sayfalar
         continue-on-error: true
+        timeout-minutes: 75
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           DICTIONARY_SLUGS: ${{ github.event.inputs.dictionary_slugs }}
