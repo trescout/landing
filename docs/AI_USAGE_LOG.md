@@ -114,3 +114,5 @@
 
 
 
+| 2026-09-26 | Burhan | dict-sync kurtarma (PR #241): 23 Eylül'den beri commit atamayan içerik hattında iki kök neden giderildi · dictionary-en.py / discover-en.py çevirisi eksik sayfayı artık yazmıyor (mevcut hali korunuyor), üretim adımına 75 dk sınır eklendi · taklit çeviri servisiyle yerelde doğrulandı | Claude Code (Claude Opus 5.5) | Denetim + Skills Agent; Türkçe kullanıcı metni üretilmedi | `fix/ceviri-basarisiz-sayfa-yazilmasin` |
+| 2026-09-27 | Burhan | dict-sync dil döngüsü (PR #242): bash -e yüzünden bir dilin hatası sonraki dilleri ve keşif sayfalarını durduruyordu (25 Eylül logu) · hatalar toplanıp adım sonunda veriliyor · adım gövdesi bash -e ile taklit komutlarla doğrulandı | Claude Code (Claude Opus 5.5) | Denetim + Manual workflow fix; Türkçe kullanıcı metni üretilmedi | `fix/dict-sync-dil-dongusu-durmasin` |
