@@ -1,0 +1,963 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-27",
+  "capturedAt": "2026-09-27T09:38:15.364Z",
+  "editorial": "Günün teknoloji gündeminde yapay zekâ destekli görsel işleme modelleri ile düşük gecikmeli video akış teknolojileri (streaming) öne çıkıyor. Geliştirici ekosisteminde ise veri görselleştirme araçları ve açık kaynak kodlu video oynatıcı çatalları (fork) üzerine yoğun bir ilgi gözlemleniyor.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "summary": "Paperclip, iş yerindeki yapay zekâ ajanlarını (AI agents) yönetmek için geliştirilmiş açık kaynaklı bir uygulama. TypeScript ile yazılan bu araç, farklı ajanların iş akışlarını tek bir merkezden kontrol etmenizi sağlıyor.",
+          "meta": "TypeScript · ★ 88.188 · +2.608 bugün",
+          "snapshot": {
+            "sourceId": "paperclipai/paperclip",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 88188,
+              "engagementCount": 2608,
+              "rank": 1,
+              "extra": {
+                "starsToday": 2608
+              }
+            }
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "vectorize-io/hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "summary": "Hindsight, yapay zekâ ajanlarının geçmiş etkileşimlerden ders çıkararak uzun süreli bellek (long-term memory) oluşturmasını sağlayan bir Python kütüphanesi. Geliştiricilerin, ajanların zaman içinde öğrenen ve bağlamsal farkındalığı artan sistemler kurmasına olanak tanıyor.",
+          "meta": "Python · ★ 34.548 · +2.147 bugün",
+          "snapshot": {
+            "sourceId": "vectorize-io/hindsight",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 34548,
+              "engagementCount": 2147,
+              "rank": 2,
+              "extra": {
+                "starsToday": 2147
+              }
+            }
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "NVIDIA/Model-Optimizer",
+          "url": "https://github.com/NVIDIA/Model-Optimizer",
+          "summary": "NVIDIA tarafından geliştirilen Model Optimizer, derin öğrenme modellerini nicemleme (quantization), damıtma (distillation) ve budama (pruning) gibi tekniklerle sıkıştırıyor. Bu kütüphane, modellerin çıkarım hızını artırmak için TensorRT-LLM veya vLLM gibi çıkarım motorlarında (inference engines) kullanılacak optimize edilmiş çıktılar üretiyor.",
+          "meta": "Python · ★ 4.859 · +357 bugün",
+          "snapshot": {
+            "sourceId": "NVIDIA/Model-Optimizer",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 4859,
+              "engagementCount": 357,
+              "rank": 3,
+              "extra": {
+                "starsToday": 357
+              }
+            }
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "summary": "Univer, elektronik tablo, doküman, sunum ve PDF gibi ofis araçlarını tek bir çalışma zamanında (runtime) birleştiren açık kaynaklı bir platformdur. Yapay zekâ ajanlarının ofis yazılımlarıyla etkileşimini kolaylaştırmak için tasarlanmış bir altyapı sunar.",
+          "meta": "TypeScript · ★ 19.798 · +849 bugün",
+          "snapshot": {
+            "sourceId": "dream-num/univer",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 19798,
+              "engagementCount": 849,
+              "rank": 4,
+              "extra": {
+                "starsToday": 849
+              }
+            }
+          },
+          "streakDays": 5
+        },
+        {
+          "title": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "summary": "Google tarafından geliştirilen TensorFlow, makine öğrenimi modelleri oluşturmak ve eğitmek için kullanılan açık kaynaklı bir kütüphanedir. Karmaşık sayısal hesaplamaları kolaylaştıran yapısıyla hem araştırmacılar hem de yazılım geliştiriciler için uçtan uca bir yapay zekâ platformu sunar.",
+          "meta": "C++ · ★ 200.527 · +46 bugün",
+          "snapshot": {
+            "sourceId": "tensorflow/tensorflow",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 200527,
+              "engagementCount": 46,
+              "rank": 5,
+              "extra": {
+                "starsToday": 46
+              }
+            }
+          }
+        },
+        {
+          "title": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "summary": "Yapay zekâ mühendisliği (AI engineering) alanına sıfırdan başlamak isteyenler için hazırlanan bu kaynak, Python kullanarak model geliştirme ve bu modelleri yayına alma süreçlerini uygulamalı olarak anlatıyor. Yazılım geliştiricilerin teorik bilgiyi pratik projelere dönüştürmesini sağlayan kapsamlı bir öğrenme yol haritası sunuyor.",
+          "meta": "Python · ★ 58.649 · +827 bugün",
+          "snapshot": {
+            "sourceId": "rohitg00/ai-engineering-from-scratch",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 58649,
+              "engagementCount": 827,
+              "rank": 6,
+              "extra": {
+                "starsToday": 827
+              }
+            }
+          },
+          "streakDays": 3
+        },
+        {
+          "title": "openbao/openbao",
+          "url": "https://github.com/openbao/openbao",
+          "summary": "OpenBao, parolalar, sertifikalar ve şifreleme anahtarları gibi hassas verileri yönetmek, depolamak ve dağıtmak için kullanılan bir güvenlik yazılımı. Go diliyle geliştirilen bu araç, gizli veri yönetimi (secrets management) süreçlerini merkezi bir yapıda yürütmeyi sağlıyor.",
+          "meta": "Go · ★ 8.081 · +364 bugün",
+          "snapshot": {
+            "sourceId": "openbao/openbao",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 8081,
+              "engagementCount": 364,
+              "rank": 7,
+              "extra": {
+                "starsToday": 364
+              }
+            }
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "block/buzz",
+          "url": "https://github.com/block/buzz",
+          "summary": "Block tarafından geliştirilen Buzz, Rust diliyle yazılmış bir kovan zihni (hive mind) iletişim platformu. Dağıtık sistemler üzerinde eş zamanlı veri paylaşımını ve kolektif karar alma süreçlerini kolaylaştırmayı amaçlıyor.",
+          "meta": "Rust · ★ 34.918 · +339 bugün",
+          "snapshot": {
+            "sourceId": "block/buzz",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 34918,
+              "engagementCount": 339,
+              "rank": 8,
+              "extra": {
+                "starsToday": 339
+              }
+            }
+          }
+        },
+        {
+          "title": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "summary": "Microsoft tarafından geliştirilen Visual Studio Code, yazılım geliştirme süreçlerinde kullanılan açık kaynaklı bir kod düzenleyici (code editor). Geniş eklenti desteği ve özelleştirilebilir arayüzü sayesinde farklı programlama dilleri için standart bir çalışma ortamı sunuyor.",
+          "meta": "TypeScript · ★ 193.137 · +95 bugün",
+          "snapshot": {
+            "sourceId": "microsoft/vscode",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 193137,
+              "engagementCount": 95,
+              "rank": 9,
+              "extra": {
+                "starsToday": 95
+              }
+            }
+          }
+        },
+        {
+          "title": "zhaoxuya520/reverse-skill",
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "summary": "Reverse-skill, tersine mühendislik ve sızma testi süreçlerini otomatikleştirmek için geliştirilmiş bir yapay zekâ yönlendirme paketidir. Claude Code ve Cursor gibi yapay zekâ destekli kodlama araçlarıyla (AI coding clients) entegre çalışarak, güvenlik araştırmacılarına ihtiyaç duydukları araç zincirlerini otomatik olarak kurma ve bilgi tabanını geliştirme imkânı sunar.",
+          "meta": "PowerShell · ★ 38.201 · +361 bugün",
+          "snapshot": {
+            "sourceId": "zhaoxuya520/reverse-skill",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "PowerShell",
+              "popularity": 38201,
+              "engagementCount": 361,
+              "rank": 10,
+              "extra": {
+                "starsToday": 361
+              }
+            }
+          }
+        },
+        {
+          "title": "llvm/llvm-project",
+          "url": "https://github.com/llvm/llvm-project",
+          "summary": "LLVM Projesi, yazılım geliştirme süreçlerinde kullanılan modüler ve yeniden kullanılabilir derleyici (compiler) ile araç zinciri (toolchain) teknolojilerini barındırır. Farklı programlama dilleri için yüksek performanslı kod üretimi sağlayan altyapı bileşenleri sunar.",
+          "meta": "LLVM · ★ 40.789 · +41 bugün",
+          "snapshot": {
+            "sourceId": "llvm/llvm-project",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "LLVM",
+              "popularity": 40789,
+              "engagementCount": 41,
+              "rank": 11,
+              "extra": {
+                "starsToday": 41
+              }
+            }
+          }
+        },
+        {
+          "title": "anthropics/claude-code-action",
+          "url": "https://github.com/anthropics/claude-code-action",
+          "summary": "Anthropic tarafından geliştirilen Claude Code Action, yazılım geliştirme süreçlerinde kod tabanı üzerinde doğrudan değişiklik yapabilen bir yapay zekâ aracıdır. Geliştiricilerin kod düzenleme görevlerini otomatize etmesini sağlayan bu TypeScript tabanlı çözüm, yapay zekâ destekli kodlama asistanlarının (GitHub Copilot gibi) yeteneklerini genişletmeyi hedefler.",
+          "meta": "TypeScript · ★ 9.168 · +31 bugün",
+          "snapshot": {
+            "sourceId": "anthropics/claude-code-action",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 9168,
+              "engagementCount": 31,
+              "rank": 12,
+              "extra": {
+                "starsToday": 31
+              }
+            }
+          }
+        },
+        {
+          "title": "actions/runner-images",
+          "url": "https://github.com/actions/runner-images",
+          "summary": "GitHub, yazılım geliştirme süreçlerini otomatikleştiren GitHub Actions platformu için gerekli olan sanal makine imajlarını (runner images) açık kaynaklı olarak sunuyor. Bu imajlar, CI/CD süreçlerinde kullanılan derleme ortamlarının standartlaşmasını ve tutarlı bir şekilde çalışmasını sağlıyor.",
+          "meta": "PowerShell · ★ 13.357 · +19 bugün",
+          "snapshot": {
+            "sourceId": "actions/runner-images",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "PowerShell",
+              "popularity": 13357,
+              "engagementCount": 19,
+              "rank": 13,
+              "extra": {
+                "starsToday": 19
+              }
+            }
+          }
+        },
+        {
+          "title": "mobile-next/mobile-mcp",
+          "url": "https://github.com/mobile-next/mobile-mcp",
+          "summary": "Mobile-mcp, yapay zekâ modellerinin mobil cihazlar ve emülatörler üzerinde işlem yapmasını sağlayan bir Model Bağlam Protokolü (Model Context Protocol) sunucusudur. Bu araç, mobil otomasyon ve veri kazıma (scraping) süreçlerini standart bir protokol üzerinden yönetmenize olanak tanır.",
+          "meta": "TypeScript · ★ 7.580 · +168 bugün",
+          "snapshot": {
+            "sourceId": "mobile-next/mobile-mcp",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 7580,
+              "engagementCount": 168,
+              "rank": 14,
+              "extra": {
+                "starsToday": 168
+              }
+            }
+          }
+        },
+        {
+          "title": "vercel/next.js",
+          "url": "https://github.com/vercel/next.js",
+          "summary": "Next.js, modern web uygulamaları geliştirmek için kullanılan bir React çerçevesi (framework). Sunucu taraflı işleme (server-side rendering) ve statik site oluşturma gibi özelliklerle web projelerinin performansını artırıyor.",
+          "meta": "JavaScript · ★ 142.730 · +54 bugün",
+          "snapshot": {
+            "sourceId": "vercel/next.js",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 142730,
+              "engagementCount": 54,
+              "rank": 15,
+              "extra": {
+                "starsToday": 54
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+          "url": "https://github.com/InfinityLoop1308/PipePipe",
+          "summary": "PipePipe, YouTube içeriklerinde sponsorlu bölümleri otomatik atlayan bir eklenti (SponsorBlock) içeren, açık kaynaklı video oynatıcı NewPipe'ın çatallanmış (fork) bir sürümüdür. Kullanıcılara video içindeki reklamları ve tanıtımları manuel müdahale gerektirmeden atlama imkânı sağlar.",
+          "meta": "412 oy · 226 yorum",
+          "snapshot": {
+            "sourceId": "49842764",
+            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "metadata": {
+              "popularity": 412,
+              "engagementCount": 226,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49842764",
+                  "popularity": 412,
+                  "engagementCount": 226
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "Qision",
+                "createdAt": "2026-09-25T10:55:40Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49842764"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49842764",
+              "popularity": 412,
+              "engagementCount": 226
+            }
+          ]
+        },
+        {
+          "title": "Fifteen years later, the Apple Cards origin story",
+          "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+          "summary": "Apple'ın dijital kartvizit sistemi Apple Cards, on beş yıl önce geliştiricilerin iletişim bilgilerini paylaşma yöntemlerini standartlaştırmak amacıyla ortaya çıktı. Bu teknoloji, kişi bilgilerini cihazlar arasında aktarmayı sağlayan vCard formatını kullanarak dijital kimlik yönetimini kolaylaştırdı.",
+          "meta": "393 oy · 102 yorum",
+          "snapshot": {
+            "sourceId": "49854693",
+            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "metadata": {
+              "popularity": 393,
+              "engagementCount": 102,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49854693",
+                  "popularity": 393,
+                  "engagementCount": 102
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "ksec",
+                "createdAt": "2026-09-26T09:13:41Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49854693"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49854693",
+              "popularity": 393,
+              "engagementCount": 102
+            }
+          ]
+        },
+        {
+          "title": "Does Georgism work? Five years later",
+          "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+          "summary": "Georgizm, toprak değerinin vergilendirilmesini temel alan ve ekonomik verimliliği artırmayı hedefleyen bir iktisadi modeldir. Beş yıllık uygulama sonuçları, bu vergi sisteminin arazi kullanımını optimize etme ve kentsel gelişimi teşvik etme potansiyelini tartışmaya açmaktadır.",
+          "meta": "331 oy · 240 yorum",
+          "snapshot": {
+            "sourceId": "49844657",
+            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "metadata": {
+              "popularity": 331,
+              "engagementCount": 240,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49844657",
+                  "popularity": 331,
+                  "engagementCount": 240
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "silveraxe93",
+                "createdAt": "2026-09-25T13:48:38Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49844657"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49844657",
+              "popularity": 331,
+              "engagementCount": 240
+            }
+          ]
+        },
+        {
+          "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+          "url": "https://github.com/reladraw/reladraw",
+          "summary": "Reladraw, diyagram elemanlarının konumuna kullanıcı tarafından karar verilmesine olanak tanıyan bir diyagram dili. Otomatik yerleşim yapan araçların (Mermaid, Graphviz) kısıtlamaları ile manuel çizim yazılımlarının (Draw.io) zaman alan yapısı arasındaki boşluğu doldurmayı hedefliyor.",
+          "meta": "299 oy · 82 yorum",
+          "snapshot": {
+            "sourceId": "49858513",
+            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "metadata": {
+              "popularity": 299,
+              "engagementCount": 82,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49858513",
+                  "popularity": 299,
+                  "engagementCount": 82
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "jpwalsh234",
+                "createdAt": "2026-09-26T17:10:40Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49858513"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49858513",
+              "popularity": 299,
+              "engagementCount": 82
+            }
+          ]
+        },
+        {
+          "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
+          "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
+          "summary": "Yarı iletken üretim ekipmanları üreticisi ASML, 2026 yılında Avrupa pazarında herhangi bir satış gerçekleştiremediğini açıkladı. Şirket, bölgedeki çip üretim kapasitesini artırmak ve yerel talebi canlandırmak için Avrupa Birliği'nden destek bekliyor.",
+          "meta": "273 oy · 621 yorum",
+          "snapshot": {
+            "sourceId": "49844663",
+            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "metadata": {
+              "popularity": 273,
+              "engagementCount": 621,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49844663",
+                  "popularity": 273,
+                  "engagementCount": 621
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "MC995",
+                "createdAt": "2026-09-25T13:49:06Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49844663"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49844663",
+              "popularity": 273,
+              "engagementCount": 621
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "convaiinnovations/laya",
+          "url": "https://huggingface.co/convaiinnovations/laya",
+          "summary": "HuggingFace üzerinde paylaşılan Laya, metin sınıflandırma (text classification) işlemleri için geliştirilmiş bir yapay zekâ modelidir. Kullanıcıların doğal dildeki verileri belirli kategorilere ayırmasına olanak tanıyan bu araç, metin analizi süreçlerini otomatikleştirmek için kullanılır.",
+          "meta": "♥ 3.966 · 0 indirme",
+          "snapshot": {
+            "sourceId": "convaiinnovations/laya",
+            "capturedAt": "2026-09-27T09:38:15.501Z",
+            "metadata": {
+              "popularity": 3966,
+              "engagementCount": 0,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 3019,
+                "pipelineTag": "text-classification",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "laya",
+                  "system-one",
+                  "calibrated-decisions",
+                  "rlcd",
+                  "classification",
+                  "routing",
+                  "scoring",
+                  "guardrails",
+                  "moderation",
+                  "reinforcement-learning",
+                  "commercial-use",
+                  "text-classification",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          },
+          "streakDays": 8
+        },
+        {
+          "title": "Qwen/Qwen-Image-2.1",
+          "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+          "summary": "Alibaba tarafından geliştirilen Qwen-Image-2.1, metin komutlarından yüksek kaliteli görseller üreten bir görsel oluşturma modeli (text-to-image model). Açık kaynaklı yapay zekâ platformu Hugging Face üzerinde paylaşılan bu model, görsel içerik üretimi süreçlerinde geliştiricilere yeni bir seçenek sunuyor.",
+          "meta": "♥ 2.426 · 52.804 indirme",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen-Image-2.1",
+            "capturedAt": "2026-09-27T09:38:15.501Z",
+            "metadata": {
+              "popularity": 2426,
+              "engagementCount": 52804,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 2235,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "diffusers",
+                  "safetensors",
+                  "qwen",
+                  "image-generation",
+                  "image-editing",
+                  "rgba",
+                  "text-to-image",
+                  "license:other",
+                  "diffusers:QwenImage21Pipeline",
+                  "region:us"
+                ]
+              }
+            }
+          },
+          "streakDays": 7
+        },
+        {
+          "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "summary": "Qwen-Image-2.1-Uncensored-GGUF, metinden görsel oluşturma (text-to-image) yeteneğine sahip, kısıtlamaları kaldırılmış bir yapay zekâ modelidir. GGUF formatı sayesinde, donanım kaynakları kısıtlı cihazlarda yerel olarak çalıştırılabilen bir görüntü üretim aracı sunar.",
+          "meta": "♥ 1.991 · 964.220 indirme",
+          "snapshot": {
+            "sourceId": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+            "capturedAt": "2026-09-27T09:38:15.501Z",
+            "metadata": {
+              "popularity": 1991,
+              "engagementCount": 964220,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 1724,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "gguf",
+                  "qwen",
+                  "image-generation",
+                  "comfyui",
+                  "comfyui-gguf",
+                  "text-to-image",
+                  "base_model:Qwen/Qwen-Image-2.1",
+                  "base_model:quantized:Qwen/Qwen-Image-2.1",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          },
+          "streakDays": 5
+        },
+        {
+          "title": "XingChen-AGI/Xing4.0-29B-A4B",
+          "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+          "summary": "XingChen-AGI tarafından geliştirilen Xing4.0-29B-A4B, metin oluşturma (text-generation) yeteneklerine odaklanan büyük bir dil modeli. Açık kaynaklı yapay zekâ modellerinin paylaşıldığı platform HuggingFace üzerinde erişime sunulan bu model, karmaşık metin işleme görevlerini yerine getirmek üzere tasarlandı.",
+          "meta": "♥ 1.759 · 45.028 indirme",
+          "snapshot": {
+            "sourceId": "XingChen-AGI/Xing4.0-29B-A4B",
+            "capturedAt": "2026-09-27T09:38:15.501Z",
+            "metadata": {
+              "popularity": 1759,
+              "engagementCount": 45028,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 987,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "xing4_0",
+                  "text-generation",
+                  "conversational",
+                  "custom_code",
+                  "arxiv:2512.24157",
+                  "arxiv:2507.18013",
+                  "license:apache-2.0",
+                  "region:us"
+                ]
+              }
+            }
+          },
+          "streakDays": 8
+        },
+        {
+          "title": "Edge0/Audio8-ASR-Infinite",
+          "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
+          "summary": "Edge0 tarafından geliştirilen Audio8-ASR-Infinite, ses kayıtlarını metne dönüştüren bir otomatik konuşma tanıma (automatic speech recognition) modeli. Bu model, ses verilerini işleyerek metin tabanlı dijital içeriklere dönüştürme sürecini kolaylaştırıyor.",
+          "meta": "♥ 878 · 19.434 indirme",
+          "snapshot": {
+            "sourceId": "Edge0/Audio8-ASR-Infinite",
+            "capturedAt": "2026-09-27T09:38:15.501Z",
+            "metadata": {
+              "popularity": 878,
+              "engagementCount": 19434,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 778,
+                "pipelineTag": "automatic-speech-recognition",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "audio8_asr_infinite",
+                  "text-generation",
+                  "streaming",
+                  "realtime",
+                  "speech-recognition",
+                  "audio",
+                  "automatic-speech-recognition",
+                  "custom_code",
+                  "zh",
+                  "en",
+                  "license:apache-2.0",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Learning to Discover Interesting Mathematics",
+          "url": "https://huggingface.co/papers/2609.28603",
+          "summary": "Büyük dil modelleri (large language models), karmaşık matematiksel problemleri çözerek yeni teoremler üretme kapasitesine ulaşıyor. Araştırmacılar, bu modellerin ürettiği bilginin değerini belirlemek için kanıt uzunluğu ile teorem karmaşıklığı arasındaki ilişkiyi temel alan bir ilginçlik ölçütü tanımlıyor.",
+          "meta": "8 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2609.28603",
+            "capturedAt": "2026-09-27T09:38:15.509Z",
+            "metadata": {
+              "popularity": 8,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.28603",
+                "publishedAt": "2026-09-23T00:00:00.000Z"
+              }
+            }
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "RGBD20K: A Large-Scale Benchmark for RGB-D Semantic Segmentation",
+          "url": "https://huggingface.co/papers/2609.29028",
+          "summary": "RGBD20K, RGB-D anlamsal bölümleme (semantic segmentation) modellerinin eğitimi için geliştirilen geniş kapsamlı bir veri setidir. 160 farklı kategoride yüksek kaliteli etiketleme sunarak, mevcut popüler kıyaslama araçlarının (NYUv2, SUN RGB-D) sunduğu çeşitlilik sınırlarını genişletmeyi hedefler.",
+          "meta": "7 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2609.29028",
+            "capturedAt": "2026-09-27T09:38:15.509Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.29028",
+                "publishedAt": "2026-09-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/ShaohuaDong2021/RGBD20K",
+                "githubStars": 5
+              }
+            }
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "AV-GRPO: Modality-Anchored Decoupling Diffusion Reinforcement Learning for Joint Audio-Video Generation",
+          "url": "https://huggingface.co/papers/2609.29816",
+          "summary": "AV-GRPO, ses ve video üretiminde karşılaşılan eşzamanlılık ve kalite sorunlarını çözmek için geliştirilen bir pekiştirmeli öğrenme (reinforcement learning) yöntemidir. Model, ses ve görüntü verilerini birbirinden ayırarak (decoupling) her bir modülün daha hassas optimize edilmesini sağlar.",
+          "meta": "4 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2609.29816",
+            "capturedAt": "2026-09-27T09:38:15.509Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 2,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.29816",
+                "publishedAt": "2026-09-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/zhiyuxu03/AV-GRPO",
+                "githubStars": 17
+              }
+            }
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs",
+          "url": "https://huggingface.co/papers/2609.29845",
+          "summary": "Büyük dil modellerinin (LLM) girdi akışlarını birleştirildiğinde çıktıları da doğrusal bir şekilde birleştirdiği, Süperpozisyon Doğrusallığı Hipotezi (Superposition Linearity Hypothesis) ile ortaya kondu. Bu bulgu, süperpozisyonun eğitim sürecinden değil, doğrudan Transformer mimarisinin temel yapısından kaynaklandığını gösteriyor.",
+          "meta": "71 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2609.29845",
+            "capturedAt": "2026-09-27T09:38:15.509Z",
+            "metadata": {
+              "popularity": 71,
+              "engagementCount": 2,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.29845",
+                "publishedAt": "2026-09-24T00:00:00.000Z"
+              }
+            }
+          },
+          "streakDays": 2
+        },
+        {
+          "title": "Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures",
+          "url": "https://huggingface.co/papers/2609.29429",
+          "summary": "Pekiştirmeli öğrenme ile kalibre edilmiş kararlar (RLCD) yöntemiyle eğitilen Jev, dil modellerindeki hizalama hatalarını tespit etmek için tek bir çağrıda çok sayıda soruya olasılıksal yanıtlar veriyor. Bu yaklaşım, her kriter için ayrı işlem yapan üretken yargıçlar veya sabit etiketler sunan sınıflandırıcılar (Llama Guard gibi) yerine daha verimli bir denetim mekanizması sağlıyor.",
+          "meta": "5 beğeni · 2 yorum",
+          "snapshot": {
+            "sourceId": "2609.29429",
+            "capturedAt": "2026-09-27T09:38:15.509Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.29429",
+                "publishedAt": "2026-09-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/sumleo/RLCDAlignBench",
+                "githubStars": 14
+              }
+            }
+          },
+          "streakDays": 2
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Valve Introduces Pyrowave Video Codec In Beta For Low Latency Streaming",
+          "url": "https://www.phoronix.com/news/Valve-Steam-Beta-Pyrowave",
+          "summary": "Valve, düşük gecikmeli yayıncılık için geliştirdiği görüntü kodlayıcı (video codec) Pyrowave'u Steam beta sürümünde kullanıma sundu. Bu teknoloji, oyun akışlarında görsel kaliteyi korurken veri iletim hızını artırmayı hedefliyor.",
+          "meta": "15 oy · 3 yorum",
+          "snapshot": {
+            "sourceId": "hq6xj2",
+            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "metadata": {
+              "popularity": 15,
+              "engagementCount": 3,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/hq6xj2/valve_introduces_pyrowave_video_codec",
+                  "popularity": 15,
+                  "engagementCount": 3
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "graphics"
+                ],
+                "createdAt": "2026-09-26T22:41:44.295-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/hq6xj2/valve_introduces_pyrowave_video_codec",
+              "popularity": 15,
+              "engagementCount": 3
+            }
+          ]
+        },
+        {
+          "title": "Rusty thoughts on \"Parse, don't validate\"",
+          "url": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
+          "summary": "\"Ayrıştır, doğrulama\" (Parse, don't validate) yaklaşımı, verinin işlenmeden önce doğru biçime dönüştürülerek hataların kaynakta önlenmesini savunuyor. Bu yöntem, Rust programlama dilinin güçlü tip sistemiyle birleştiğinde yazılım hatalarını azaltan güvenli bir veri işleme modeli oluşturuyor.",
+          "meta": "23 oy · 9 yorum",
+          "snapshot": {
+            "sourceId": "uvmajz",
+            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "metadata": {
+              "popularity": 23,
+              "engagementCount": 9,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/uvmajz/rusty_thoughts_on_parse_don_t_validate",
+                  "popularity": 23,
+                  "engagementCount": 9
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "programming",
+                  "rust"
+                ],
+                "createdAt": "2026-09-26T15:45:24.308-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/uvmajz/rusty_thoughts_on_parse_don_t_validate",
+              "popularity": 23,
+              "engagementCount": 9
+            }
+          ]
+        },
+        {
+          "title": "Infecting the Steam Link with NixOS",
+          "url": "https://feyor.sh/blog/infecting-the-steam-link-with-nixos/",
+          "summary": "Valve tarafından geliştirilen oyun yayınlama cihazı Steam Link, üzerine NixOS işletim sistemi kurularak özelleştirilebilir bir donanıma dönüştürülebiliyor. Bu süreç, cihazın sınırlı yazılım ortamını aşarak kullanıcıların kendi yapılandırmalarını (configuration) çalıştırmasına olanak tanıyor.",
+          "meta": "38 oy · 1 yorum",
+          "snapshot": {
+            "sourceId": "wpv5ed",
+            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "metadata": {
+              "popularity": 38,
+              "engagementCount": 1,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/wpv5ed/infecting_steam_link_with_nixos",
+                  "popularity": 38,
+                  "engagementCount": 1
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "hardware",
+                  "nix"
+                ],
+                "createdAt": "2026-09-26T08:45:59.865-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/wpv5ed/infecting_steam_link_with_nixos",
+              "popularity": 38,
+              "engagementCount": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI agents",
+      "explanation": "Kendi başına karar verip hedeflere ulaşmak için çeşitli araçları kullanabilen otonom yazılımlar."
+    },
+    {
+      "term": "long-term memory",
+      "explanation": "Yapay zekânın geçmişteki bilgileri ve kullanıcı tercihlerini unutmadan uzun süre saklayıp ihtiyaç duyduğunda hatırlaması."
+    },
+    {
+      "term": "quantization",
+      "explanation": "Yapay zekâ modellerinin kapladığı alanı küçültmek için içindeki sayısal verilerin hassasiyetini azaltarak daha az yer kaplamasını sağlama yöntemi."
+    },
+    {
+      "term": "distillation",
+      "explanation": "Büyük ve karmaşık bir yapay zekâ modelinin öğrendiklerini, daha küçük ve hızlı bir modele aktarma süreci."
+    },
+    {
+      "term": "pruning",
+      "explanation": "Yapay zekâ modelinin içindeki gereksiz veya etkisiz bağlantıları silerek modelin daha hafif ve hızlı çalışmasını sağlama işlemi."
+    },
+    {
+      "term": "inference engines",
+      "explanation": "Eğitilmiş bir yapay zekâ modelini çalıştırıp gelen sorulara cevap üretmesini sağlayan yazılım altyapısı."
+    },
+    {
+      "term": "runtime",
+      "explanation": "Bir yazılımın bilgisayarda veya sunucuda aktif olarak çalıştırıldığı süre ve bu süreci yöneten ortam."
+    },
+    {
+      "term": "AI engineering",
+      "explanation": "Yapay zekâ modellerini gerçek dünya problemlerini çözmek için sistemlere entegre etme ve uygulama geliştirme süreci."
+    },
+    {
+      "term": "secrets management",
+      "explanation": "Yazılımların çalışması için gereken şifre ve anahtar gibi gizli bilgileri güvenli bir şekilde saklama ve yönetme yöntemi."
+    },
+    {
+      "term": "hive mind",
+      "explanation": "Birbirine bağlı birçok sistemin veya zekânın ortak bir amaç için tek bir merkezden yönetiliyormuş gibi hareket etmesi."
+    },
+    {
+      "term": "code editor",
+      "explanation": "Yazılımcıların bilgisayar kodlarını yazarken düzenlemesine, hataları görmesine ve dosyaları yönetmesine yarayan özel metin programı."
+    },
+    {
+      "term": "AI coding clients",
+      "explanation": "Yazılım geliştirme sürecinde kod önerileri sunan, hataları düzelten veya otomatik kod yazan yapay zekâ destekli araçlar."
+    },
+    {
+      "term": "compiler",
+      "explanation": "İnsanların yazdığı kodları bilgisayarın doğrudan anlayıp çalıştırabileceği makine diline çeviren yazılım."
+    },
+    {
+      "term": "toolchain",
+      "explanation": "Bir yazılımı geliştirmek, test etmek ve yayına almak için kullanılan birbirini takip eden araçlar bütünü."
+    },
+    {
+      "term": "GitHub Copilot gibi",
+      "explanation": "Yazılımcı kod yazarken ona gerçek zamanlı olarak kod önerilerinde bulunan ve işini hızlandıran yapay zekâ asistanları."
+    },
+    {
+      "term": "runner images",
+      "explanation": "Yazılımın çalışması için gereken tüm ayarların ve kütüphanelerin önceden yüklendiği, her yerde aynı şekilde çalışması için hazırlanan sanal paketler."
+    }
+  ]
+}

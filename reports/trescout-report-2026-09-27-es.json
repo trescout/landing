@@ -1,0 +1,948 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-27",
+  "capturedAt": "2026-09-27T09:38:15.364Z",
+  "editorial": "En la agenda tecnológica del día destacan los modelos de procesamiento visual impulsados por inteligencia artificial y las tecnologías de transmisión de video (streaming) de baja latencia. En el ecosistema de desarrolladores, se observa un gran interés en las herramientas de visualización de datos y en las bifurcaciones (forks) de reproductores de video de código abierto.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "summary": "Paperclip es una aplicación de código abierto desarrollada para gestionar agentes de inteligencia artificial (AI agents) en el lugar de trabajo. Escrita en TypeScript, esta herramienta permite controlar los flujos de trabajo de diferentes agentes desde un único centro.",
+          "meta": "TypeScript · ★ 88.188 · +2.608 hoy",
+          "snapshot": {
+            "sourceId": "paperclipai/paperclip",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 88188,
+              "engagementCount": 2608,
+              "rank": 1,
+              "extra": {
+                "starsToday": 2608
+              }
+            }
+          }
+        },
+        {
+          "title": "vectorize-io/hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "summary": "Hindsight es una biblioteca de Python que permite a los agentes de inteligencia artificial crear una memoria a largo plazo (long-term memory) aprendiendo de interacciones pasadas. Permite a los desarrolladores crear sistemas en los que los agentes aprenden con el tiempo y aumentan su conciencia contextual.",
+          "meta": "Python · ★ 34.548 · +2.147 hoy",
+          "snapshot": {
+            "sourceId": "vectorize-io/hindsight",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 34548,
+              "engagementCount": 2147,
+              "rank": 2,
+              "extra": {
+                "starsToday": 2147
+              }
+            }
+          }
+        },
+        {
+          "title": "NVIDIA/Model-Optimizer",
+          "url": "https://github.com/NVIDIA/Model-Optimizer",
+          "summary": "Model Optimizer, desarrollado por NVIDIA, comprime modelos de aprendizaje profundo mediante técnicas como la cuantización (quantization), la destilación (distillation) y la poda (pruning). Esta biblioteca genera salidas optimizadas para ser utilizadas en motores de inferencia (inference engines) como TensorRT-LLM o vLLM, con el fin de aumentar la velocidad de inferencia de los modelos.",
+          "meta": "Python · ★ 4.859 · +357 hoy",
+          "snapshot": {
+            "sourceId": "NVIDIA/Model-Optimizer",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 4859,
+              "engagementCount": 357,
+              "rank": 3,
+              "extra": {
+                "starsToday": 357
+              }
+            }
+          }
+        },
+        {
+          "title": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "summary": "Univer es una plataforma de código abierto que combina herramientas de oficina como hojas de cálculo, documentos, presentaciones y PDF en un único tiempo de ejecución (runtime). Ofrece una infraestructura diseñada para facilitar la interacción de los agentes de inteligencia artificial con el software de oficina.",
+          "meta": "TypeScript · ★ 19.798 · +849 hoy",
+          "snapshot": {
+            "sourceId": "dream-num/univer",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 19798,
+              "engagementCount": 849,
+              "rank": 4,
+              "extra": {
+                "starsToday": 849
+              }
+            }
+          }
+        },
+        {
+          "title": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "summary": "TensorFlow, desarrollado por Google, es una biblioteca de código abierto utilizada para crear y entrenar modelos de aprendizaje automático. Con su estructura que facilita los cálculos numéricos complejos, ofrece una plataforma de inteligencia artificial de extremo a extremo tanto para investigadores como para desarrolladores de software.",
+          "meta": "C++ · ★ 200.527 · +46 hoy",
+          "snapshot": {
+            "sourceId": "tensorflow/tensorflow",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 200527,
+              "engagementCount": 46,
+              "rank": 5,
+              "extra": {
+                "starsToday": 46
+              }
+            }
+          }
+        },
+        {
+          "title": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "summary": "Este recurso, preparado para quienes desean comenzar desde cero en el campo de la ingeniería de inteligencia artificial (AI engineering), explica de forma práctica los procesos de desarrollo de modelos y su puesta en producción utilizando Python. Ofrece una hoja de ruta de aprendizaje integral que permite a los desarrolladores de software convertir el conocimiento teórico en proyectos prácticos.",
+          "meta": "Python · ★ 58.649 · +827 hoy",
+          "snapshot": {
+            "sourceId": "rohitg00/ai-engineering-from-scratch",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 58649,
+              "engagementCount": 827,
+              "rank": 6,
+              "extra": {
+                "starsToday": 827
+              }
+            }
+          }
+        },
+        {
+          "title": "openbao/openbao",
+          "url": "https://github.com/openbao/openbao",
+          "summary": "OpenBao es un software de seguridad utilizado para gestionar, almacenar y distribuir datos confidenciales como contraseñas, certificados y claves de cifrado. Desarrollado en lenguaje Go, esta herramienta permite llevar a cabo procesos de gestión de secretos (secrets management) en una estructura centralizada.",
+          "meta": "Go · ★ 8.081 · +364 hoy",
+          "snapshot": {
+            "sourceId": "openbao/openbao",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 8081,
+              "engagementCount": 364,
+              "rank": 7,
+              "extra": {
+                "starsToday": 364
+              }
+            }
+          }
+        },
+        {
+          "title": "block/buzz",
+          "url": "https://github.com/block/buzz",
+          "summary": "Buzz, desarrollado por Block, es una plataforma de comunicación de mente colmena (hive mind) escrita en lenguaje Rust. Su objetivo es facilitar el intercambio de datos simultáneo y los procesos de toma de decisiones colectiva en sistemas distribuidos.",
+          "meta": "Rust · ★ 34.918 · +339 hoy",
+          "snapshot": {
+            "sourceId": "block/buzz",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 34918,
+              "engagementCount": 339,
+              "rank": 8,
+              "extra": {
+                "starsToday": 339
+              }
+            }
+          }
+        },
+        {
+          "title": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "summary": "Visual Studio Code, desarrollado por Microsoft, es un editor de código (code editor) de código abierto utilizado en los procesos de desarrollo de software. Gracias a su amplio soporte de extensiones y su interfaz personalizable, ofrece un entorno de trabajo estándar para diferentes lenguajes de programación.",
+          "meta": "TypeScript · ★ 193.137 · +95 hoy",
+          "snapshot": {
+            "sourceId": "microsoft/vscode",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 193137,
+              "engagementCount": 95,
+              "rank": 9,
+              "extra": {
+                "starsToday": 95
+              }
+            }
+          }
+        },
+        {
+          "title": "zhaoxuya520/reverse-skill",
+          "url": "https://github.com/zhaoxuya520/reverse-skill",
+          "summary": "Reverse-skill es un paquete de orientación de inteligencia artificial desarrollado para automatizar los procesos de ingeniería inversa y pruebas de penetración. Al trabajar integrado con herramientas de codificación impulsadas por IA (AI coding clients) como Claude Code y Cursor, ofrece a los investigadores de seguridad la posibilidad de instalar automáticamente las cadenas de herramientas que necesitan y desarrollar su base de conocimientos.",
+          "meta": "PowerShell · ★ 38.201 · +361 hoy",
+          "snapshot": {
+            "sourceId": "zhaoxuya520/reverse-skill",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "PowerShell",
+              "popularity": 38201,
+              "engagementCount": 361,
+              "rank": 10,
+              "extra": {
+                "starsToday": 361
+              }
+            }
+          }
+        },
+        {
+          "title": "llvm/llvm-project",
+          "url": "https://github.com/llvm/llvm-project",
+          "summary": "El Proyecto LLVM alberga tecnologías de compilador (compiler) y cadena de herramientas (toolchain) modulares y reutilizables utilizadas en los procesos de desarrollo de software. Ofrece componentes de infraestructura que permiten la generación de código de alto rendimiento para diferentes lenguajes de programación.",
+          "meta": "LLVM · ★ 40.789 · +41 hoy",
+          "snapshot": {
+            "sourceId": "llvm/llvm-project",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "LLVM",
+              "popularity": 40789,
+              "engagementCount": 41,
+              "rank": 11,
+              "extra": {
+                "starsToday": 41
+              }
+            }
+          }
+        },
+        {
+          "title": "anthropics/claude-code-action",
+          "url": "https://github.com/anthropics/claude-code-action",
+          "summary": "Claude Code Action, desarrollado por Anthropic, es una herramienta de inteligencia artificial capaz de realizar cambios directamente en la base de código durante los procesos de desarrollo de software. Esta solución basada en TypeScript, que permite a los desarrolladores automatizar tareas de edición de código, tiene como objetivo ampliar las capacidades de los asistentes de codificación impulsados por IA (como GitHub Copilot).",
+          "meta": "TypeScript · ★ 9.168 · +31 hoy",
+          "snapshot": {
+            "sourceId": "anthropics/claude-code-action",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 9168,
+              "engagementCount": 31,
+              "rank": 12,
+              "extra": {
+                "starsToday": 31
+              }
+            }
+          }
+        },
+        {
+          "title": "actions/runner-images",
+          "url": "https://github.com/actions/runner-images",
+          "summary": "GitHub ofrece de forma abierta las imágenes de máquinas virtuales (runner images) necesarias para su plataforma GitHub Actions, que automatiza los procesos de desarrollo de software. Estas imágenes garantizan la estandarización y el funcionamiento coherente de los entornos de compilación utilizados en los procesos de CI/CD.",
+          "meta": "PowerShell · ★ 13.357 · +19 hoy",
+          "snapshot": {
+            "sourceId": "actions/runner-images",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "PowerShell",
+              "popularity": 13357,
+              "engagementCount": 19,
+              "rank": 13,
+              "extra": {
+                "starsToday": 19
+              }
+            }
+          }
+        },
+        {
+          "title": "mobile-next/mobile-mcp",
+          "url": "https://github.com/mobile-next/mobile-mcp",
+          "summary": "Mobile-mcp es un servidor de Protocolo de Contexto de Modelo (Model Context Protocol) que permite a los modelos de inteligencia artificial realizar operaciones en dispositivos móviles y emuladores. Esta herramienta le permite gestionar procesos de automatización móvil y extracción de datos (scraping) a través de un protocolo estándar.",
+          "meta": "TypeScript · ★ 7.580 · +168 hoy",
+          "snapshot": {
+            "sourceId": "mobile-next/mobile-mcp",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 7580,
+              "engagementCount": 168,
+              "rank": 14,
+              "extra": {
+                "starsToday": 168
+              }
+            }
+          }
+        },
+        {
+          "title": "vercel/next.js",
+          "url": "https://github.com/vercel/next.js",
+          "summary": "Next.js es un marco (framework) de React utilizado para desarrollar aplicaciones web modernas. Mejora el rendimiento de los proyectos web con características como el renderizado del lado del servidor (server-side rendering) y la generación de sitios estáticos.",
+          "meta": "JavaScript · ★ 142.730 · +54 hoy",
+          "snapshot": {
+            "sourceId": "vercel/next.js",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 142730,
+              "engagementCount": 54,
+              "rank": 15,
+              "extra": {
+                "starsToday": 54
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+          "url": "https://github.com/InfinityLoop1308/PipePipe",
+          "summary": "PipePipe es una versión bifurcada (fork) del reproductor de video de código abierto NewPipe, que incluye un complemento (SponsorBlock) que salta automáticamente las secciones patrocinadas en el contenido de YouTube. Ofrece a los usuarios la posibilidad de saltar anuncios y promociones dentro de los videos sin necesidad de intervención manual.",
+          "meta": "412 puntos · 226 comentarios",
+          "snapshot": {
+            "sourceId": "49842764",
+            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "metadata": {
+              "popularity": 412,
+              "engagementCount": 226,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49842764",
+                  "popularity": 412,
+                  "engagementCount": 226
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "Qision",
+                "createdAt": "2026-09-25T10:55:40Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49842764"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49842764",
+              "popularity": 412,
+              "engagementCount": 226
+            }
+          ]
+        },
+        {
+          "title": "Fifteen years later, the Apple Cards origin story",
+          "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+          "summary": "El sistema de tarjetas de presentación digitales de Apple, Apple Cards, surgió hace quince años con el objetivo de estandarizar los métodos de intercambio de información de contacto de los desarrolladores. Esta tecnología facilitó la gestión de la identidad digital mediante el uso del formato vCard, que permite transferir información de contacto entre dispositivos.",
+          "meta": "393 puntos · 102 comentarios",
+          "snapshot": {
+            "sourceId": "49854693",
+            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "metadata": {
+              "popularity": 393,
+              "engagementCount": 102,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49854693",
+                  "popularity": 393,
+                  "engagementCount": 102
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "ksec",
+                "createdAt": "2026-09-26T09:13:41Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49854693"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49854693",
+              "popularity": 393,
+              "engagementCount": 102
+            }
+          ]
+        },
+        {
+          "title": "Does Georgism work? Five years later",
+          "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+          "summary": "El georgismo es un modelo económico basado en la tributación del valor de la tierra que tiene como objetivo aumentar la eficiencia económica. Los resultados de cinco años de implementación abren el debate sobre el potencial de este sistema fiscal para optimizar el uso de la tierra y fomentar el desarrollo urbano.",
+          "meta": "331 puntos · 240 comentarios",
+          "snapshot": {
+            "sourceId": "49844657",
+            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "metadata": {
+              "popularity": 331,
+              "engagementCount": 240,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49844657",
+                  "popularity": 331,
+                  "engagementCount": 240
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "silveraxe93",
+                "createdAt": "2026-09-25T13:48:38Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49844657"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49844657",
+              "popularity": 331,
+              "engagementCount": 240
+            }
+          ]
+        },
+        {
+          "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+          "url": "https://github.com/reladraw/reladraw",
+          "summary": "Reladraw es un lenguaje de diagramas que permite al usuario decidir la posición de los elementos del diagrama. Su objetivo es cerrar la brecha entre las limitaciones de las herramientas de diseño automático (Mermaid, Graphviz) y la estructura que consume mucho tiempo de los programas de dibujo manual (Draw.io).",
+          "meta": "299 puntos · 82 comentarios",
+          "snapshot": {
+            "sourceId": "49858513",
+            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "metadata": {
+              "popularity": 299,
+              "engagementCount": 82,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49858513",
+                  "popularity": 299,
+                  "engagementCount": 82
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "jpwalsh234",
+                "createdAt": "2026-09-26T17:10:40Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49858513"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49858513",
+              "popularity": 299,
+              "engagementCount": 82
+            }
+          ]
+        },
+        {
+          "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
+          "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
+          "summary": "ASML, fabricante de equipos de producción de semiconductores, anunció que no realizó ninguna venta en el mercado europeo en 2026. La empresa espera el apoyo de la Unión Europea para aumentar la capacidad de producción de chips en la región y estimular la demanda local.",
+          "meta": "273 puntos · 621 comentarios",
+          "snapshot": {
+            "sourceId": "49844663",
+            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "metadata": {
+              "popularity": 273,
+              "engagementCount": 621,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49844663",
+                  "popularity": 273,
+                  "engagementCount": 621
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "MC995",
+                "createdAt": "2026-09-25T13:49:06Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49844663"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49844663",
+              "popularity": 273,
+              "engagementCount": 621
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "convaiinnovations/laya",
+          "url": "https://huggingface.co/convaiinnovations/laya",
+          "summary": "Laya, compartido en HuggingFace, es un modelo de inteligencia artificial desarrollado para operaciones de clasificación de texto (text classification). Esta herramienta, que permite a los usuarios clasificar datos en lenguaje natural en categorías específicas, se utiliza para automatizar los procesos de análisis de texto.",
+          "meta": "♥ 3.966 · 0 descargas",
+          "snapshot": {
+            "sourceId": "convaiinnovations/laya",
+            "capturedAt": "2026-09-27T09:38:15.501Z",
+            "metadata": {
+              "popularity": 3966,
+              "engagementCount": 0,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 3019,
+                "pipelineTag": "text-classification",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "laya",
+                  "system-one",
+                  "calibrated-decisions",
+                  "rlcd",
+                  "classification",
+                  "routing",
+                  "scoring",
+                  "guardrails",
+                  "moderation",
+                  "reinforcement-learning",
+                  "commercial-use",
+                  "text-classification",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen-Image-2.1",
+          "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+          "summary": "Qwen-Image-2.1, desarrollado por Alibaba, es un modelo de generación de imágenes (text-to-image) que crea imágenes de alta calidad a partir de comandos de texto. Este modelo, compartido en la plataforma de inteligencia artificial de código abierto Hugging Face, ofrece a los desarrolladores una nueva opción en los procesos de producción de contenido visual.",
+          "meta": "♥ 2.426 · 52.804 descargas",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen-Image-2.1",
+            "capturedAt": "2026-09-27T09:38:15.501Z",
+            "metadata": {
+              "popularity": 2426,
+              "engagementCount": 52804,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 2235,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "diffusers",
+                  "safetensors",
+                  "qwen",
+                  "image-generation",
+                  "image-editing",
+                  "rgba",
+                  "text-to-image",
+                  "license:other",
+                  "diffusers:QwenImage21Pipeline",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "summary": "Qwen-Image-2.1-Uncensored-GGUF es un modelo de inteligencia artificial con capacidad de generación de imágenes a partir de texto (text-to-image) al que se le han eliminado las restricciones. Gracias al formato GGUF, ofrece una herramienta de producción de imágenes que puede ejecutarse localmente en dispositivos con recursos de hardware limitados.",
+          "meta": "♥ 1.991 · 964.220 descargas",
+          "snapshot": {
+            "sourceId": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+            "capturedAt": "2026-09-27T09:38:15.501Z",
+            "metadata": {
+              "popularity": 1991,
+              "engagementCount": 964220,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 1724,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "gguf",
+                  "qwen",
+                  "image-generation",
+                  "comfyui",
+                  "comfyui-gguf",
+                  "text-to-image",
+                  "base_model:Qwen/Qwen-Image-2.1",
+                  "base_model:quantized:Qwen/Qwen-Image-2.1",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "XingChen-AGI/Xing4.0-29B-A4B",
+          "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+          "summary": "Xing4.0-29B-A4B, desarrollado por XingChen-AGI, es un modelo de lenguaje grande centrado en capacidades de generación de texto (text-generation). Este modelo, disponible en HuggingFace, la plataforma donde se comparten modelos de inteligencia artificial de código abierto, ha sido diseñado para realizar tareas complejas de procesamiento de texto.",
+          "meta": "♥ 1.759 · 45.028 descargas",
+          "snapshot": {
+            "sourceId": "XingChen-AGI/Xing4.0-29B-A4B",
+            "capturedAt": "2026-09-27T09:38:15.501Z",
+            "metadata": {
+              "popularity": 1759,
+              "engagementCount": 45028,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 987,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "xing4_0",
+                  "text-generation",
+                  "conversational",
+                  "custom_code",
+                  "arxiv:2512.24157",
+                  "arxiv:2507.18013",
+                  "license:apache-2.0",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Edge0/Audio8-ASR-Infinite",
+          "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
+          "summary": "Audio8-ASR-Infinite, desarrollado por Edge0, es un modelo de reconocimiento automático de voz (automatic speech recognition) que convierte grabaciones de audio en texto. Este modelo facilita el proceso de transformar datos de audio en contenido digital basado en texto.",
+          "meta": "♥ 878 · 19.434 descargas",
+          "snapshot": {
+            "sourceId": "Edge0/Audio8-ASR-Infinite",
+            "capturedAt": "2026-09-27T09:38:15.501Z",
+            "metadata": {
+              "popularity": 878,
+              "engagementCount": 19434,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 778,
+                "pipelineTag": "automatic-speech-recognition",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "audio8_asr_infinite",
+                  "text-generation",
+                  "streaming",
+                  "realtime",
+                  "speech-recognition",
+                  "audio",
+                  "automatic-speech-recognition",
+                  "custom_code",
+                  "zh",
+                  "en",
+                  "license:apache-2.0",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Learning to Discover Interesting Mathematics",
+          "url": "https://huggingface.co/papers/2609.28603",
+          "summary": "Los modelos de lenguaje grandes (large language models) están alcanzando la capacidad de resolver problemas matemáticos complejos y generar nuevos teoremas. Los investigadores definen un criterio de interés basado en la relación entre la longitud de la prueba y la complejidad del teorema para determinar el valor del conocimiento generado por estos modelos.",
+          "meta": "8 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2609.28603",
+            "capturedAt": "2026-09-27T09:38:15.509Z",
+            "metadata": {
+              "popularity": 8,
+              "engagementCount": 2,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.28603",
+                "publishedAt": "2026-09-23T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "RGBD20K: A Large-Scale Benchmark for RGB-D Semantic Segmentation",
+          "url": "https://huggingface.co/papers/2609.29028",
+          "summary": "RGBD20K es un conjunto de datos integral desarrollado para el entrenamiento de modelos de segmentación semántica (semantic segmentation) RGB-D. Al ofrecer etiquetado de alta calidad en 160 categorías diferentes, tiene como objetivo ampliar los límites de diversidad que ofrecen las herramientas de evaluación comparativa populares actuales (NYUv2, SUN RGB-D).",
+          "meta": "7 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2609.29028",
+            "capturedAt": "2026-09-27T09:38:15.509Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 2,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.29028",
+                "publishedAt": "2026-09-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/ShaohuaDong2021/RGBD20K",
+                "githubStars": 5
+              }
+            }
+          }
+        },
+        {
+          "title": "AV-GRPO: Modality-Anchored Decoupling Diffusion Reinforcement Learning for Joint Audio-Video Generation",
+          "url": "https://huggingface.co/papers/2609.29816",
+          "summary": "AV-GRPO es un método de aprendizaje por refuerzo (reinforcement learning) desarrollado para resolver problemas de sincronización y calidad encontrados en la producción de audio y video. El modelo desacopla (decoupling) los datos de audio y video, permitiendo una optimización más precisa de cada módulo.",
+          "meta": "4 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2609.29816",
+            "capturedAt": "2026-09-27T09:38:15.509Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 2,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.29816",
+                "publishedAt": "2026-09-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/zhiyuxu03/AV-GRPO",
+                "githubStars": 17
+              }
+            }
+          }
+        },
+        {
+          "title": "Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs",
+          "url": "https://huggingface.co/papers/2609.29845",
+          "summary": "La Hipótesis de Linealidad de Superposición (Superposition Linearity Hypothesis) ha demostrado que cuando se combinan los flujos de entrada de los modelos de lenguaje grandes (LLM), sus salidas también se combinan de forma lineal. Este hallazgo muestra que la superposición no proviene del proceso de entrenamiento, sino directamente de la estructura fundamental de la arquitectura Transformer.",
+          "meta": "71 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2609.29845",
+            "capturedAt": "2026-09-27T09:38:15.509Z",
+            "metadata": {
+              "popularity": 71,
+              "engagementCount": 2,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.29845",
+                "publishedAt": "2026-09-24T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures",
+          "url": "https://huggingface.co/papers/2609.29429",
+          "summary": "Jev, entrenado con el método de decisiones calibradas por aprendizaje por refuerzo (RLCD), proporciona respuestas probabilísticas a múltiples preguntas en una sola llamada para detectar errores de alineación en los modelos de lenguaje. Este enfoque proporciona un mecanismo de auditoría más eficiente en comparación con los jueces generativos que procesan cada criterio por separado o los clasificadores que ofrecen etiquetas fijas (como Llama Guard).",
+          "meta": "5 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2609.29429",
+            "capturedAt": "2026-09-27T09:38:15.509Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.29429",
+                "publishedAt": "2026-09-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/sumleo/RLCDAlignBench",
+                "githubStars": 14
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Valve Introduces Pyrowave Video Codec In Beta For Low Latency Streaming",
+          "url": "https://www.phoronix.com/news/Valve-Steam-Beta-Pyrowave",
+          "summary": "Valve ha lanzado Pyrowave, un códec de video desarrollado para la transmisión de baja latencia, en la versión beta de Steam. Esta tecnología tiene como objetivo aumentar la velocidad de transmisión de datos mientras mantiene la calidad visual en las transmisiones de juegos.",
+          "meta": "15 puntos · 3 comentarios",
+          "snapshot": {
+            "sourceId": "hq6xj2",
+            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "metadata": {
+              "popularity": 15,
+              "engagementCount": 3,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/hq6xj2/valve_introduces_pyrowave_video_codec",
+                  "popularity": 15,
+                  "engagementCount": 3
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "graphics"
+                ],
+                "createdAt": "2026-09-26T22:41:44.295-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/hq6xj2/valve_introduces_pyrowave_video_codec",
+              "popularity": 15,
+              "engagementCount": 3
+            }
+          ]
+        },
+        {
+          "title": "Rusty thoughts on \"Parse, don't validate\"",
+          "url": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
+          "summary": "El enfoque \"Analiza, no valides\" (Parse, don't validate) aboga por prevenir errores en la fuente convirtiendo los datos al formato correcto antes de procesarlos. Este método, cuando se combina con el sólido sistema de tipos del lenguaje de programación Rust, crea un modelo de procesamiento de datos seguro que reduce los errores de software.",
+          "meta": "23 puntos · 9 comentarios",
+          "snapshot": {
+            "sourceId": "uvmajz",
+            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "metadata": {
+              "popularity": 23,
+              "engagementCount": 9,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/uvmajz/rusty_thoughts_on_parse_don_t_validate",
+                  "popularity": 23,
+                  "engagementCount": 9
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "programming",
+                  "rust"
+                ],
+                "createdAt": "2026-09-26T15:45:24.308-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/uvmajz/rusty_thoughts_on_parse_don_t_validate",
+              "popularity": 23,
+              "engagementCount": 9
+            }
+          ]
+        },
+        {
+          "title": "Infecting the Steam Link with NixOS",
+          "url": "https://feyor.sh/blog/infecting-the-steam-link-with-nixos/",
+          "summary": "Steam Link, el dispositivo de transmisión de juegos desarrollado por Valve, puede convertirse en un hardware personalizable instalando el sistema operativo NixOS. Este proceso permite a los usuarios superar el entorno de software limitado del dispositivo y ejecutar sus propias configuraciones (configuration).",
+          "meta": "38 puntos · 1 comentarios",
+          "snapshot": {
+            "sourceId": "wpv5ed",
+            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "metadata": {
+              "popularity": 38,
+              "engagementCount": 1,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/wpv5ed/infecting_steam_link_with_nixos",
+                  "popularity": 38,
+                  "engagementCount": 1
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "hardware",
+                  "nix"
+                ],
+                "createdAt": "2026-09-26T08:45:59.865-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/wpv5ed/infecting_steam_link_with_nixos",
+              "popularity": 38,
+              "engagementCount": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI agents",
+      "explanation": "Software autónomo capaz de tomar decisiones por sí mismo y utilizar diversas herramientas para alcanzar objetivos."
+    },
+    {
+      "term": "long-term memory",
+      "explanation": "La capacidad de la inteligencia artificial para almacenar información pasada y preferencias del usuario durante mucho tiempo sin olvidarlas y recordarlas cuando sea necesario."
+    },
+    {
+      "term": "quantization",
+      "explanation": "Método para reducir el espacio que ocupan los modelos de inteligencia artificial disminuyendo la precisión de los datos numéricos que contienen para que ocupen menos espacio."
+    },
+    {
+      "term": "distillation",
+      "explanation": "Proceso de transferir lo aprendido por un modelo de inteligencia artificial grande y complejo a un modelo más pequeño y rápido."
+    },
+    {
+      "term": "pruning",
+      "explanation": "Proceso de eliminar conexiones innecesarias o ineficaces dentro de un modelo de inteligencia artificial para que funcione de manera más ligera y rápida."
+    },
+    {
+      "term": "inference engines",
+      "explanation": "Infraestructura de software que permite ejecutar un modelo de inteligencia artificial entrenado y generar respuestas a las preguntas recibidas."
+    },
+    {
+      "term": "runtime",
+      "explanation": "El tiempo durante el cual un software se ejecuta activamente en una computadora o servidor, y el entorno que gestiona este proceso."
+    },
+    {
+      "term": "AI engineering",
+      "explanation": "Proceso de integrar modelos de inteligencia artificial en sistemas para resolver problemas del mundo real y desarrollar aplicaciones."
+    },
+    {
+      "term": "secrets management",
+      "explanation": "Método para almacenar y gestionar de forma segura información confidencial, como contraseñas y claves, necesarias para que el software funcione."
+    },
+    {
+      "term": "hive mind",
+      "explanation": "El hecho de que muchos sistemas o inteligencias interconectados actúen como si fueran gestionados desde un único centro para un propósito común."
+    },
+    {
+      "term": "code editor",
+      "explanation": "Programa de texto especializado que ayuda a los desarrolladores a organizar su código, detectar errores y gestionar archivos mientras escriben."
+    },
+    {
+      "term": "AI coding clients",
+      "explanation": "Herramientas asistidas por inteligencia artificial que ofrecen sugerencias de código, corrigen errores o escriben código automáticamente durante el proceso de desarrollo de software."
+    },
+    {
+      "term": "compiler",
+      "explanation": "Software que traduce el código escrito por humanos al lenguaje máquina que la computadora puede entender y ejecutar directamente."
+    },
+    {
+      "term": "toolchain",
+      "explanation": "Conjunto de herramientas consecutivas utilizadas para desarrollar, probar y publicar un software."
+    },
+    {
+      "term": "GitHub Copilot gibi",
+      "explanation": "Asistentes de inteligencia artificial que ofrecen sugerencias de código en tiempo real a los desarrolladores mientras escriben, acelerando su trabajo."
+    },
+    {
+      "term": "runner images",
+      "explanation": "Paquetes virtuales en los que se preinstalan todos los ajustes y bibliotecas necesarios para que el software funcione, preparados para ejecutarse de la misma manera en cualquier lugar."
+    }
+  ]
+}

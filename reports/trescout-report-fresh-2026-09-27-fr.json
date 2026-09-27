@@ -1,0 +1,517 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-27",
+  "capturedAt": "2026-09-27T09:38:15.364Z",
+  "editorial": "Ce rapport contient les tendances qui sont apparues pour la première fois aujourd'hui, sans répéter les enregistrements figurant dans les rapports normaux des 30 derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "tensorflow/tensorflow",
+          "url": "https://github.com/tensorflow/tensorflow",
+          "summary": "TensorFlow, développé par Google, est une bibliothèque open source utilisée pour créer et entraîner des modèles d'apprentissage automatique. Grâce à sa structure qui facilite les calculs numériques complexes, elle offre une plateforme d'intelligence artificielle de bout en bout, tant pour les chercheurs que pour les développeurs de logiciels.",
+          "meta": "C++ · ★ 200 527 · +46 aujourd'hui",
+          "snapshot": {
+            "sourceId": "tensorflow/tensorflow",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "C++",
+              "popularity": 200527,
+              "engagementCount": 46,
+              "rank": 5,
+              "extra": {
+                "starsToday": 46
+              }
+            }
+          }
+        },
+        {
+          "title": "block/buzz",
+          "url": "https://github.com/block/buzz",
+          "summary": "Buzz, développé par Block, est une plateforme de communication de type « esprit de ruche » (hive mind) écrite en langage Rust. Elle vise à faciliter le partage de données en temps réel et les processus de prise de décision collective sur des systèmes distribués.",
+          "meta": "Rust · ★ 34 918 · +339 aujourd'hui",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "block/buzz",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 34918,
+              "engagementCount": 339,
+              "rank": 8,
+              "extra": {
+                "starsToday": 339
+              }
+            }
+          }
+        },
+        {
+          "title": "microsoft/vscode",
+          "url": "https://github.com/microsoft/vscode",
+          "summary": "Visual Studio Code, développé par Microsoft, est un éditeur de code open source utilisé dans les processus de développement logiciel. Grâce à sa large prise en charge des extensions et à son interface personnalisable, il offre un environnement de travail standard pour différents langages de programmation.",
+          "meta": "TypeScript · ★ 193 137 · +95 aujourd'hui",
+          "snapshot": {
+            "sourceId": "microsoft/vscode",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 193137,
+              "engagementCount": 95,
+              "rank": 9,
+              "extra": {
+                "starsToday": 95
+              }
+            }
+          }
+        },
+        {
+          "title": "anthropics/claude-code-action",
+          "url": "https://github.com/anthropics/claude-code-action",
+          "summary": "Claude Code Action, développé par Anthropic, est un outil d'intelligence artificielle capable d'apporter des modifications directes à la base de code dans les processus de développement logiciel. Cette solution basée sur TypeScript, qui permet aux développeurs d'automatiser les tâches d'édition de code, vise à étendre les capacités des assistants de codage assistés par IA (comme GitHub Copilot).",
+          "meta": "TypeScript · ★ 9 168 · +31 aujourd'hui",
+          "snapshot": {
+            "sourceId": "anthropics/claude-code-action",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 9168,
+              "engagementCount": 31,
+              "rank": 12,
+              "extra": {
+                "starsToday": 31
+              }
+            }
+          }
+        },
+        {
+          "title": "actions/runner-images",
+          "url": "https://github.com/actions/runner-images",
+          "summary": "GitHub propose en open source les images de machines virtuelles (runner images) nécessaires à sa plateforme GitHub Actions, qui automatise les processus de développement logiciel. Ces images permettent la standardisation et le fonctionnement cohérent des environnements de compilation utilisés dans les processus CI/CD.",
+          "meta": "PowerShell · ★ 13 357 · +19 aujourd'hui",
+          "snapshot": {
+            "sourceId": "actions/runner-images",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "PowerShell",
+              "popularity": 13357,
+              "engagementCount": 19,
+              "rank": 13,
+              "extra": {
+                "starsToday": 19
+              }
+            }
+          }
+        },
+        {
+          "title": "mobile-next/mobile-mcp",
+          "url": "https://github.com/mobile-next/mobile-mcp",
+          "summary": "Mobile-mcp est un serveur de protocole de contexte de modèle (Model Context Protocol) qui permet aux modèles d'intelligence artificielle d'effectuer des opérations sur des appareils mobiles et des émulateurs. Cet outil vous permet de gérer les processus d'automatisation mobile et de web scraping via un protocole standard.",
+          "meta": "TypeScript · ★ 7 580 · +168 aujourd'hui",
+          "snapshot": {
+            "sourceId": "mobile-next/mobile-mcp",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 7580,
+              "engagementCount": 168,
+              "rank": 14,
+              "extra": {
+                "starsToday": 168
+              }
+            }
+          }
+        },
+        {
+          "title": "vercel/next.js",
+          "url": "https://github.com/vercel/next.js",
+          "summary": "Next.js est un framework React utilisé pour développer des applications web modernes. Il améliore les performances des projets web grâce à des fonctionnalités telles que le rendu côté serveur (server-side rendering) et la génération de sites statiques.",
+          "meta": "JavaScript · ★ 142 730 · +54 aujourd'hui",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "vercel/next.js",
+            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 142730,
+              "engagementCount": 54,
+              "rank": 15,
+              "extra": {
+                "starsToday": 54
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+          "url": "https://github.com/InfinityLoop1308/PipePipe",
+          "summary": "PipePipe est une version dérivée (fork) du lecteur vidéo open source NewPipe, incluant une extension (SponsorBlock) qui saute automatiquement les segments sponsorisés dans les contenus YouTube. Il permet aux utilisateurs de passer les publicités et les promotions dans les vidéos sans intervention manuelle.",
+          "meta": "412 votes · 226 commentaires",
+          "snapshot": {
+            "sourceId": "49842764",
+            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "metadata": {
+              "popularity": 412,
+              "engagementCount": 226,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49842764",
+                  "popularity": 412,
+                  "engagementCount": 226
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "Qision",
+                "createdAt": "2026-09-25T10:55:40Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49842764"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49842764",
+              "popularity": 412,
+              "engagementCount": 226
+            }
+          ]
+        },
+        {
+          "title": "Fifteen years later, the Apple Cards origin story",
+          "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+          "summary": "Le système de cartes de visite numériques d'Apple, Apple Cards, a vu le jour il y a quinze ans dans le but de standardiser la manière dont les développeurs partagent leurs coordonnées. Cette technologie a facilité la gestion de l'identité numérique en utilisant le format vCard, qui permet de transférer des informations de contact entre les appareils.",
+          "meta": "393 votes · 102 commentaires",
+          "snapshot": {
+            "sourceId": "49854693",
+            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "metadata": {
+              "popularity": 393,
+              "engagementCount": 102,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49854693",
+                  "popularity": 393,
+                  "engagementCount": 102
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "ksec",
+                "createdAt": "2026-09-26T09:13:41Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49854693"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49854693",
+              "popularity": 393,
+              "engagementCount": 102
+            }
+          ]
+        },
+        {
+          "title": "Does Georgism work? Five years later",
+          "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+          "summary": "Le géorgisme est un modèle économique basé sur l'imposition de la valeur foncière, visant à accroître l'efficacité économique. Les résultats de cinq années d'application ouvrent le débat sur le potentiel de ce système fiscal à optimiser l'utilisation des terres et à encourager le développement urbain.",
+          "meta": "331 votes · 240 commentaires",
+          "snapshot": {
+            "sourceId": "49844657",
+            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "metadata": {
+              "popularity": 331,
+              "engagementCount": 240,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49844657",
+                  "popularity": 331,
+                  "engagementCount": 240
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "silveraxe93",
+                "createdAt": "2026-09-25T13:48:38Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49844657"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49844657",
+              "popularity": 331,
+              "engagementCount": 240
+            }
+          ]
+        },
+        {
+          "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+          "url": "https://github.com/reladraw/reladraw",
+          "summary": "Reladraw est un langage de diagramme qui permet à l'utilisateur de décider de l'emplacement des éléments du diagramme. Il vise à combler le fossé entre les contraintes des outils de mise en page automatique (Mermaid, Graphviz) et la nature chronophage des logiciels de dessin manuel (Draw.io).",
+          "meta": "299 votes · 82 commentaires",
+          "snapshot": {
+            "sourceId": "49858513",
+            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "metadata": {
+              "popularity": 299,
+              "engagementCount": 82,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49858513",
+                  "popularity": 299,
+                  "engagementCount": 82
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "jpwalsh234",
+                "createdAt": "2026-09-26T17:10:40Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49858513"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49858513",
+              "popularity": 299,
+              "engagementCount": 82
+            }
+          ]
+        },
+        {
+          "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
+          "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
+          "summary": "ASML, fabricant d'équipements de production de semi-conducteurs, a annoncé n'avoir réalisé aucune vente sur le marché européen en 2026. L'entreprise attend le soutien de l'Union européenne pour augmenter la capacité de production de puces dans la région et stimuler la demande locale.",
+          "meta": "273 votes · 621 commentaires",
+          "snapshot": {
+            "sourceId": "49844663",
+            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "metadata": {
+              "popularity": 273,
+              "engagementCount": 621,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49844663",
+                  "popularity": 273,
+                  "engagementCount": 621
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "MC995",
+                "createdAt": "2026-09-25T13:49:06Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49844663"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49844663",
+              "popularity": 273,
+              "engagementCount": 621
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "Edge0/Audio8-ASR-Infinite",
+          "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
+          "summary": "Audio8-ASR-Infinite, développé par Edge0, est un modèle de reconnaissance automatique de la parole (automatic speech recognition) qui convertit les enregistrements audio en texte. Ce modèle facilite le processus de traitement des données audio pour les transformer en contenu numérique textuel.",
+          "meta": "♥ 878 · 19 434 téléchargements",
+          "snapshot": {
+            "sourceId": "Edge0/Audio8-ASR-Infinite",
+            "capturedAt": "2026-09-27T09:38:15.501Z",
+            "metadata": {
+              "popularity": 878,
+              "engagementCount": 19434,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 778,
+                "pipelineTag": "automatic-speech-recognition",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "audio8_asr_infinite",
+                  "text-generation",
+                  "streaming",
+                  "realtime",
+                  "speech-recognition",
+                  "audio",
+                  "automatic-speech-recognition",
+                  "custom_code",
+                  "zh",
+                  "en",
+                  "license:apache-2.0",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": []
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Valve Introduces Pyrowave Video Codec In Beta For Low Latency Streaming",
+          "url": "https://www.phoronix.com/news/Valve-Steam-Beta-Pyrowave",
+          "summary": "Valve a rendu disponible Pyrowave, un codec vidéo développé pour la diffusion à faible latence, dans la version bêta de Steam. Cette technologie vise à augmenter la vitesse de transmission des données tout en préservant la qualité visuelle dans les flux de jeux.",
+          "meta": "15 votes · 3 commentaires",
+          "snapshot": {
+            "sourceId": "hq6xj2",
+            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "metadata": {
+              "popularity": 15,
+              "engagementCount": 3,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/hq6xj2/valve_introduces_pyrowave_video_codec",
+                  "popularity": 15,
+                  "engagementCount": 3
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "graphics"
+                ],
+                "createdAt": "2026-09-26T22:41:44.295-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/hq6xj2/valve_introduces_pyrowave_video_codec",
+              "popularity": 15,
+              "engagementCount": 3
+            }
+          ]
+        },
+        {
+          "title": "Rusty thoughts on \"Parse, don't validate\"",
+          "url": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
+          "summary": "L'approche « Analyser, ne pas valider » (Parse, don't validate) préconise de convertir les données au format correct avant leur traitement afin de prévenir les erreurs à la source. Combinée au système de typage fort du langage de programmation Rust, cette méthode crée un modèle de traitement de données sécurisé qui réduit les erreurs logicielles.",
+          "meta": "23 votes · 9 commentaires",
+          "snapshot": {
+            "sourceId": "uvmajz",
+            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "metadata": {
+              "popularity": 23,
+              "engagementCount": 9,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/uvmajz/rusty_thoughts_on_parse_don_t_validate",
+                  "popularity": 23,
+                  "engagementCount": 9
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "programming",
+                  "rust"
+                ],
+                "createdAt": "2026-09-26T15:45:24.308-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/uvmajz/rusty_thoughts_on_parse_don_t_validate",
+              "popularity": 23,
+              "engagementCount": 9
+            }
+          ]
+        },
+        {
+          "title": "Infecting the Steam Link with NixOS",
+          "url": "https://feyor.sh/blog/infecting-the-steam-link-with-nixos/",
+          "summary": "Steam Link, l'appareil de diffusion de jeux développé par Valve, peut être transformé en matériel personnalisable en y installant le système d'exploitation NixOS. Ce processus permet de dépasser l'environnement logiciel limité de l'appareil et de laisser les utilisateurs exécuter leurs propres configurations.",
+          "meta": "38 votes · 1 commentaires",
+          "snapshot": {
+            "sourceId": "wpv5ed",
+            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "metadata": {
+              "popularity": 38,
+              "engagementCount": 1,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/wpv5ed/infecting_steam_link_with_nixos",
+                  "popularity": 38,
+                  "engagementCount": 1
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "hardware",
+                  "nix"
+                ],
+                "createdAt": "2026-09-26T08:45:59.865-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/wpv5ed/infecting_steam_link_with_nixos",
+              "popularity": 38,
+              "engagementCount": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "hive mind",
+      "explanation": "Action de plusieurs systèmes ou intelligences interconnectés agissant comme s'ils étaient gérés depuis un centre unique pour un objectif commun."
+    },
+    {
+      "term": "code editor",
+      "explanation": "Programme textuel spécialisé permettant aux développeurs d'écrire, d'éditer, de déboguer et de gérer leurs fichiers de code informatique."
+    },
+    {
+      "term": "GitHub Copilot gibi",
+      "explanation": "Des assistants d'intelligence artificielle qui proposent des suggestions de code en temps réel aux développeurs pendant qu'ils écrivent, accélérant ainsi leur travail."
+    },
+    {
+      "term": "runner images",
+      "explanation": "Des paquets virtuels préparés pour fonctionner de la même manière partout, dans lesquels tous les paramètres et bibliothèques nécessaires au fonctionnement du logiciel sont préinstallés."
+    }
+  ]
+}
