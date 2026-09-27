@@ -121,6 +121,18 @@ function requestJson(url, options, body, timeoutMs) {
   });
 }
 
+// Süreç sonunda model başına istek özeti · bkz. gemini_zinciri.py _sayac
+const requestCounts = new Map();
+const countRequest = (model, outcome) => {
+  const k = `${model} ${outcome}`;
+  requestCounts.set(k, (requestCounts.get(k) || 0) + 1);
+};
+process.on('exit', () => {
+  if (requestCounts.size) {
+    console.log(`  · Gemini istek özeti: ${[...requestCounts].sort().map(([k, n]) => `${k}: ${n}`).join(' · ')}`);
+  }
+});
+
 async function geminiRequest(body, timeoutMs, attempts = 4) {
   const key = (process.env.GEMINI_API_KEY || '').trim();
   if (!key) return null;
@@ -156,6 +168,7 @@ async function geminiRequest(body, timeoutMs, attempts = 4) {
         method: 'POST',
         headers: { 'Content-Type': 'application/json', 'x-goog-api-key': key },
       }, payload, timeoutMs);
+      countRequest(model, 'ok');
       if (!responseText(data)) {
         const reason = data?.promptFeedback?.blockReason || data?.candidates?.[0]?.finishReason || 'boş yanıt';
         console.log(`  ! Gemini ${model}: yanıt kullanılamadı (${reason})`);
@@ -166,6 +179,7 @@ async function geminiRequest(body, timeoutMs, attempts = 4) {
       return data;
     } catch (error) {
       const status = error?.status;
+      countRequest(model, status ? String(status) : 'yanıtsız');
       const raw = String(error?.body || '');
       if (status) {
         const kind = classify(status, raw);
