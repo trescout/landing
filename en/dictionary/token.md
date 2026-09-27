@@ -35,9 +35,9 @@ Since computers understand numbers, not words, we need to convert the text into 
 - [OmniRoute](/en/discover/omniroute/)
 - [Codebase Memory MCP](/en/discover/codebase-memory-mcp/)
 - [Open Code Review](/en/discover/open-code-review/)
-- [Code Review Graph](/en/discover/code-review-graph/)
+- [Airllm](/en/discover/airllm/)
 - [Book to Skill](/en/discover/book-to-skill/)
-- [TencentDB-Agent-Memory](/en/discover/tencentdb-agent-memory/)
+- [Code Review Graph](/en/discover/code-review-graph/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/token/

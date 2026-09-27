@@ -31,13 +31,13 @@ Pode ser escrito, mas é preciso codificar tudo do zero, o que leva muito tempo.
 
 ## Ferramentas relacionadas
 - [Cline](/pt/discover/cline/)
+- [OmniRoute](/pt/discover/omniroute/)
 - [Opendataloader PDF](/pt/discover/opendataloader-pdf/)
+- [Freellmapi](/pt/discover/freellmapi/)
 - [CUA](/pt/discover/cua/)
 - [iii](/pt/discover/iii/)
 - [Logto](/pt/discover/logto/)
 - [CubeSandbox](/pt/discover/cubesandbox/)
-- [Copilot SDK](/pt/discover/copilot-sdk/)
-- [U3 SDK](/pt/discover/u3-sdk/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/sdk/

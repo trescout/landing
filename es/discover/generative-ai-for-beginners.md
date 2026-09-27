@@ -2,7 +2,7 @@
 
 Este contenido de formación preparado por Microsoft ofrece un plan de estudios de 21 lecciones para aquellos que quieran adentrarse en las tecnologías de inteligencia artificial generativa (IA generativa). Este recurso, en formato Jupyter Notebook, enseña conceptos básicos y métodos de implementación para que los desarrolladores creen sus propios proyectos.
 
-- ★ 114.349
+- ★ 120.620
 - Jupyter Notebook
 - GitHub Trending · 2026-08-02
 

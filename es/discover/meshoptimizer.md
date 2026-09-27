@@ -2,7 +2,7 @@
 
 La biblioteca Meshoptimizer optimiza los datos de malla tridimensional, reduciendo el tamaño de los archivos y aumentando el rendimiento de renderizado. Desarrollada en C++, esta herramienta organiza datos geométricos para mejorar el uso de la memoria en aplicaciones gráficas.
 
-- ★ 8.177
+- ★ 8.452
 - C++
 - GitHub Trending · 2026-07-11
 

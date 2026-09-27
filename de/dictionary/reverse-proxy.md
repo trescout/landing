@@ -28,6 +28,7 @@ Es handelt sich sowohl um eine Software- als auch um eine Serverschicht, auf der
 - [Observability](/de/dictionary/observability/)
 
 ## Verwandte Werkzeuge
+- [OmniRoute](/de/discover/omniroute/)
 - [Nginx](/de/discover/nginx/)
 
 ---

@@ -25,6 +25,8 @@ Anstatt jeden Dienst einzeln für die Außenwelt zu öffnen, sorgt die Verwaltun
 - [Reverse Proxy](/de/dictionary/reverse-proxy/)
 
 ## Verwandte Werkzeuge
+- [OmniRoute](/de/discover/omniroute/)
+- [Gitdiagram](/de/discover/gitdiagram/)
 - [OpenWA](/de/discover/openwa/)
 - [Grok2api](/de/discover/grok2api/)
 

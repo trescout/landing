@@ -2,15 +2,15 @@
 
 Sub2API, Claude, OpenAI, Gemini ve Grok aboneliklerine tek noktadan erişim ve maliyet paylaşımı sağlayan açık kaynaklı bir aracı hizmettir.
 
-- ★ 42.011
+- ★ 42.879
 - Go
 - GitHub Trending · 2026-08-23
 
 ## Güncelleme
+- 27 Eylül 2026: Yıldız 42.011 → 42.879, son sürüm v0.2.8 (23 Eylül 2026).
 - 19 Eylül 2026: Yıldız 41.928 → 42.011, son sürüm v0.2.7 (19 Eylül 2026).
 - 18 Eylül 2026: Yıldız 41.561 → 41.928, son sürüm v0.2.6 (18 Eylül 2026).
 - 15 Eylül 2026: Yıldız 40.970 → 41.561, son sürüm v0.2.5 (15 Eylül 2026).
-- 9 Eylül 2026: Yıldız 40.838 → 40.970, son sürüm v0.2.4 (9 Eylül 2026).
 
 ## Ne kazandırır?
 - Farklı yapay zekâ aboneliklerini tek arayüzde birleştirir

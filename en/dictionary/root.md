@@ -26,7 +26,9 @@ Because the security risk is very high; If a malicious software gets root permis
 - [Containers](/en/dictionary/containers/)
 
 ## Related tools
+- [Trivy](/en/discover/trivy/)
 - [Universal Android Debloater Next Generation](/en/discover/universal-android-debloater-next-generation/)
+- [Tailcat](/en/discover/tailcat/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/root/

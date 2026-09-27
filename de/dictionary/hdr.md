@@ -27,6 +27,7 @@ Nein, um HDR-Inhalte anzeigen zu können, werden speziell entwickelte HDR-kompat
 - [Video Editor](/de/dictionary/video-editor/)
 
 ## Verwandte Werkzeuge
+- [Sonarr](/de/discover/sonarr/)
 - [Renodx](/de/discover/renodx/)
 
 ---

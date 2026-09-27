@@ -28,8 +28,5 @@ Users stop using apps they find difficult, so good UX is essential for success.
 - [Design System](/en/dictionary/design-system/)
 - [Generative UI](/en/dictionary/generative-ui/)
 
-## Related tools
-- [Wand-Enhancer](/en/discover/wand-enhancer/)
-
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/user-experience/

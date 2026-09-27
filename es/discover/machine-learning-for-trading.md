@@ -2,7 +2,7 @@
 
 Preparado por Stefan Jansen, este recurso proporciona ejemplos de código completos y cuadernos Jupyter para aplicaciones de aprendizaje automático en el comercio algorítmico. Sirve como una guía práctica para quienes desean desarrollar análisis de datos y modelos de pronóstico en los mercados financieros.
 
-- ★ 20.241
+- ★ 21.060
 - GitHub Trending · 2026-06-02
 
 ## Qué aporta

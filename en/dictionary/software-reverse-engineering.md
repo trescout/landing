@@ -26,8 +26,5 @@ It is generally accepted for security research, but caution should be exercised 
 - [Binary](/en/dictionary/binary/)
 - [Security Scanner](/en/dictionary/security-scanner/)
 
-## Related tools
-- [Ghidra](/en/discover/ghidra/)
-
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/software-reverse-engineering/

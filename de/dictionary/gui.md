@@ -33,6 +33,7 @@ Das Zeichnen visueller Elemente erfordert Rechenleistung, daher werden auf sehr 
 - [Imgui](/de/discover/imgui/)
 - [Page Agent](/de/discover/page-agent/)
 - [Chat2DB](/de/discover/chat2db/)
+- [PLFM RADAR](/de/discover/plfm-radar/)
 - [BrewUI](/de/discover/brewui/)
 
 ---

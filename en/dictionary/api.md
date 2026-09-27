@@ -37,9 +37,9 @@ Since it only allows sharing of permitted data, it only opens the relevant part 
 - [Firecrawl](/en/discover/firecrawl/)
 - [Transformers](/en/discover/transformers/)
 - [Langflow](/en/discover/langflow/)
+- [Free for Dev](/en/discover/free-for-dev/)
 - [ComfyUI](/en/discover/comfyui/)
 - [MoneyPrinterTurbo](/en/discover/moneyprinterturbo/)
-- [Supabase](/en/discover/supabase/)
 - [TradingAgents](/en/discover/tradingagents/)
 
 ---

@@ -35,7 +35,7 @@ Você pode abri-lo com qualquer editor de texto, mas pode lê-lo formatado mais 
 - [MinerU](/pt/discover/mineru/)
 - [Scrapling](/pt/discover/scrapling/)
 - [Obsidian Skills](/pt/discover/obsidian-skills/)
-- [Book to Skill](/pt/discover/book-to-skill/)
+- [OpenMAIC](/pt/discover/openmaic/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/markdown/

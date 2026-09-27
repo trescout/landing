@@ -28,5 +28,8 @@ Sim, neste caso o modelo escolhe sempre a palavra mais segura e de maior probabi
 - [Prompt Engineering](/pt/dictionary/prompt-engineering/)
 - [Hallucination](/pt/dictionary/hallucination/)
 
+## Ferramentas relacionadas
+- [OmniRoute](/pt/discover/omniroute/)
+
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/temperature/

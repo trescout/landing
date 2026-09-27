@@ -42,7 +42,7 @@ Zvec kütüphanesini kullanarak bir koleksiyon oluşturmam gerekiyor. Python dil
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-17 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-In-process Vector Database Vector Database In-process Database Artificial Intelligence
+In-process Vector Database In-process Vector Database Database Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/zvec/

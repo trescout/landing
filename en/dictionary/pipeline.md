@@ -32,6 +32,8 @@ Yes, automation lies at the core of the pipeline concept.
 ## Related tools
 - [Transformers](/en/discover/transformers/)
 - [OpenMontage](/en/discover/openmontage/)
+- [Freellmapi](/en/discover/freellmapi/)
+- [Sonarr](/en/discover/sonarr/)
 - [Liteparse](/en/discover/liteparse/)
 
 ---

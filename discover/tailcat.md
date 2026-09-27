@@ -2,12 +2,12 @@
 
 Tailcat, klasik netcat işlevselliğini Tailscale VPN mesh katmanına taşıyarak kontrol düzlemi veya açık port zorunluluğu olmadan güvenli veri aktarımı sağlar.
 
-- ★ 2.435
+- ★ 7.746
 - Go
 - GitHub Trending · 2026-08-28
 
 ## Güncelleme
-- 28 Ağustos 2026: Yıldız 2.435, yerleşik WireGuard şifrelemesi ve tsnet kütüphanesi entegrasyonu.
+- 27 Eylül 2026: Yıldız 2.435 → 7.746, son sürüm v0.7.0 (20 Eylül 2026).
 
 ## Ne kazandırır?
 - Sıfır port yönlendirme (Port Forwarding): NAT arkasındaki veya güvenlik duvarı kısıtlı cihazlar arasında açık port açmadan doğrudan iletişim.
@@ -34,6 +34,8 @@ tailcat -l 8080
 # İstemci düğümden bağlan:
 tailcat hedef-node 8080
 ```
+
+Kaynak: Resmî kaynak: https://github.com/tailscale/tailcat
 
 ## Teknik mimari ve çalışma prensibi
 
@@ -68,7 +70,7 @@ Tailcat aracını kullanarak iki farklı sunucu arasında Tailscale mesh ağı �
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-CLI Açık Kaynak API Framework CI/CD
+Root VPN Mesh Open Source Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/tailcat/

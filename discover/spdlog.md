@@ -24,50 +24,11 @@ spdlog, C++ programlama dili için geliştirilmiş, yalnızca başlıklardan (he
 brew install spdlog
 ```
 
-**vcpkg ile paket kurulumu**
-
-```
-vcpkg install spdlog
-```
-
-**CMake FetchContent entegrasyonu**
-
-```
-include(FetchContent)
-FetchContent_Declare(
-spdlog
-GIT_REPOSITORY https://github.com/gabime/spdlog.git
-GIT_TAG v1.17.0
-)
-FetchContent_MakeAvailable(spdlog)
-target_link_libraries(projem PRIVATE spdlog::spdlog)
-```
-
 Kaynak: Homebrew formülü
 
 ## Nasıl başlanır ve temel kullanım
 
 spdlog kütüphanesini kullanmaya başlamak son derece zahmetsizdir. Başlık dosyasını projenize dahil ettikten sonra doğrudan küresel loglama fonksiyonlarını çağırabilir veya özelleştirilmiş logger nesneleri oluşturabilirsiniz:
-
-**Temel C++ Kullanım Örneği**
-
-```
-#include "spdlog/spdlog.h"
-#include "spdlog/sinks/rotating_file_sink.h"
-
-int main() {
-// Standart konsol loglaması
-spdlog::info("spdlog basariyla baslatildi.");
-spdlog::warn("Dikkat: Bellek kullanimi yukseliyor!");
-spdlog::error("Hata kodu: {:d}, aciklama: {}", 404, "Sayfa bulunamadi");
-
-// Boyuta gore donen (rotating) dosya logger'i (maksimum 5MB, 3 dosya)
-auto file_logger = spdlog::rotating_logger_mt("dosya_log", "logs/uygulama.txt", 1024 * 1024 * 5, 3);
-file_logger->info("Bu mesaj hem thread-safe hem de otomatik arsivlenen dosyaya yazilir.");
-
-return 0;
-}
-```
 
 ## Teknik mimari ve çalışma prensibi
 
@@ -98,7 +59,7 @@ Modern bir C++ projesinde CMake kullanarak spdlog kütüphanesini asenkron mimar
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Logging Open Source
+Logging Open Source Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/spdlog/

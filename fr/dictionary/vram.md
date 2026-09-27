@@ -27,6 +27,7 @@ Le modèle d'IA devient trop lent ou cesse de fonctionner avec une erreur « mé
 - [AI Models](/fr/dictionary/ai-models/)
 
 ## Outils liés
+- [Minimind](/fr/discover/minimind/)
 - [Colibri](/fr/discover/colibri/)
 - [Airllm](/fr/discover/airllm/)
 

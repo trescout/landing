@@ -26,8 +26,5 @@ Es erfordert spezielle Client-Software, die über das NNTP-Protokoll arbeitet.
 - [Communications Operating System](/de/dictionary/communications-operating-system/)
 - [IRC](/de/dictionary/irc/)
 
-## Verwandte Werkzeuge
-- [Sonarr](/de/discover/sonarr/)
-
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/newsgroup/

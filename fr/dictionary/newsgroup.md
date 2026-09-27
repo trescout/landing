@@ -26,8 +26,5 @@ Il nécessite des logiciels clients spécifiques fonctionnant via le protocole N
 - [Communications Operating System](/fr/dictionary/communications-operating-system/)
 - [IRC](/fr/dictionary/irc/)
 
-## Outils liés
-- [Sonarr](/fr/discover/sonarr/)
-
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/newsgroup/

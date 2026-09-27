@@ -35,9 +35,9 @@ Uma vez que só permite a partilha de dados permitidos, abre apenas a parte rele
 - [Firecrawl](/pt/discover/firecrawl/)
 - [Transformers](/pt/discover/transformers/)
 - [Langflow](/pt/discover/langflow/)
+- [Free for Dev](/pt/discover/free-for-dev/)
 - [ComfyUI](/pt/discover/comfyui/)
 - [MoneyPrinterTurbo](/pt/discover/moneyprinterturbo/)
-- [Supabase](/pt/discover/supabase/)
 - [TradingAgents](/pt/discover/tradingagents/)
 
 ---

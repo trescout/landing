@@ -58,7 +58,7 @@ Iroh kütüphanesini kullanarak anahtar tabanlı bir ağ bağlantısı kurmak is
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-17 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Network Stack Key-based CLI Rust Artificial Intelligence
+Key-based CLI Rust Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/iroh/

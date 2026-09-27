@@ -1,27 +1,34 @@
 # What is Generative AI?
 
-It is the general name of artificial intelligence technologies that can produce new content, text, visuals or audio.
+Generative AI is the general name of models that produce new content.
 
-## Overview
-Generative AI is the general name of artificial intelligence technologies that can analyze existing data and produce new and original content from them. It doesn't just analyze what's happening, it creates brand new texts, images or sounds according to your wishes.
+## Definition and Word Origin
+"Generate" means to produce. The model analyzes the data and creates brand new text, visuals or audio. It not only classifies what is, but also produces what is not. LLM, diffusion and GAN are members of this family.
 
-*Analogy: He is not like an art critic who just looks at pictures, but like a painter who takes a brush and paints a new picture.*
+## How to Know and Use in Daily Life?
+Design: Logo and visual drafts. Code: Function and test skeleton. Content: Draft text and summary.
 
-## How it works
-It learns the rules of how content is created by examining billions of examples. Then, with a command you give, it uses these rules to produce something that has never existed before.
+## Technical Depth and Architecture
+Production line:
 
-## Where it is used
-It is revolutionizing creative work, design, software coding and content production.
+## Frequently Mixed Things
+They are mistaken for text models. However, those who produce visual, audio and video are also from this family. Text is only one member.
 
-## Commonly confused with
-It is confused with models that only produce text; However, models that produce images, audio and video also fall into this category.
+## Use in Different Disciplines
+Painter: New painting with brush. Composer: New melody with notes. Writer: New story with words.
 
-## Frequently asked questions
-**Does Generative AI violate copyright?**
-This is still a controversial issue, but new regulations are constantly being made regarding the originality of the content produced.
+## Frequently Asked Questions
+**Does it violate copyright?**
+It is controversial. Ownership of training data and output varies from country to country, legal opinion is taken in commercial business.
 
 **Can everyone use it?**
-Yes, today anyone who can type a simple command can benefit from this technology.
+Yes. Anyone who can write commands starts, mastery becomes evident in the prompt and verification.
+
+**What is a hallucination?**
+Where the model is unsure, it makes up. It is governed by attribution and verification.
+
+**What does it cost?**
+Varies depending on usage. Small jobs are tiny, heavy training and million calls are expensive.
 
 
 ## Related terms
@@ -39,7 +46,6 @@ Yes, today anyone who can type a simple command can benefit from this technology
 - [Awesome Generative AI Guide](/en/discover/awesome-generative-ai-guide/)
 - [Aisuite](/en/discover/aisuite/)
 - [TRELLIS.2](/en/discover/trellis-2/)
-- [Weathernext](/en/discover/weathernext/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/generative-ai/

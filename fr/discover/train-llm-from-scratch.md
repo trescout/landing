@@ -2,7 +2,7 @@
 
 train-llm-from-scratch propose une méthode simple, étape par étape, pour entraîner un grand modèle de langage à partir de zéro, du téléchargement de l'ensemble de données à la génération de texte. C'est une ressource pratique pour votre processus d'apprentissage.
 
-- ★ 8 864
+- ★ 11 240
 - Jupyter Notebook
 - MIT
 - GitHub Trending · 30 May 2026

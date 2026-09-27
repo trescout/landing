@@ -2,12 +2,12 @@
 
 MiniMind, büyük dil modellerinin (LLM) çalışma prensiplerini anlamak isteyen geliştiriciler için tokenizasyon, ön eğitim, gözetimli ince ayar (SFT), LoRA ve DPO aşamalarını yalın PyTorch kodlarıyla sunar.
 
-- ★ 55.708
+- ★ 62.670
 - Python
 - GitHub Trending · 2026-08-31
 
 ## Güncelleme
-- 31 Ağustos 2026: Yıldız 55.708, MoE (Mixture of Experts) mimarisi ve DPO pekiştirmeli hizalama desteği.
+- 27 Eylül 2026: Yıldız 55.708 → 62.670, son sürüm v2 (21 Ekim 2025).
 
 ## Ne kazandırır?
 - Tüketici donanımında 2 saatte eğitim: Tek bir NVIDIA RTX 3090/4090 ekran kartında yaklaşık 2 saatte sıfırdan eğitilebilen kompakt mimari.
@@ -35,6 +35,8 @@ python 1-pretrain.py
 # Eğitilen modelle test çıkarımı:
 python 5-eval.py
 ```
+
+Kaynak: Resmî kaynak: https://github.com/jingyaogong/minimind
 
 ## Teknik mimari ve çalışma prensibi
 
@@ -71,7 +73,7 @@ MiniMind deposunu kullanarak PyTorch ile sıfırdan 64M parametreli bir dil mode
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-31 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Yapay Zekâ LLM Açık Kaynak Makine Öğrenimi CLI
+Tokenizer LoRA VRAM Attention Transformer Apple Silicon
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/minimind/

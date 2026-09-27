@@ -25,5 +25,8 @@ Es wird bevorzugt, um auf Anwendungen zuzugreifen, die nicht in offiziellen Stor
 ## Verwandte Begriffe
 - [Deployment](/de/dictionary/deployment/)
 
+## Verwandte Werkzeuge
+- [Ipatool](/de/discover/ipatool/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/sideloading/

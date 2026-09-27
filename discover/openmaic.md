@@ -2,12 +2,12 @@
 
 Tsinghua Üniversitesi araştırmacıları tarafından geliştirilen OpenMAIC, öğretmen, öğrenci ve gözlemci rollerindeki çoklu yapay zekâ ajanlarını etkileşimli bir sınıf ortamında buluşturur.
 
-- ★ 25.572
+- ★ 39.156
 - TypeScript
 - GitHub Trending · 2026-08-31
 
 ## Güncelleme
-- 31 Ağustos 2026: Yıldız 25.572, çoklu ajan rol simülasyonu ve gerçek zamanlı sesli diyalog entegrasyonu.
+- 27 Eylül 2026: Yıldız 25.572 → 39.156, son sürüm v1.1.1 (26 Eylül 2026).
 
 ## Ne kazandırır?
 - Rol tabanlı çoklu ajan mimarisi: Öğretmen, soru soran öğrenci, tartışmacı ve özetleyici rollerindeki LLM ajanlarının dinamik etkileşimi.
@@ -34,6 +34,8 @@ pnpm install
 pnpm run dev
 # Tarayıcıda http://localhost:3000 adresini açın
 ```
+
+Kaynak: Resmî kaynak: https://github.com/THU-MAIC/OpenMAIC
 
 ## Teknik mimari ve çalışma prensibi
 
@@ -70,7 +72,7 @@ OpenMAIC platformunda kendi ders notlarımı yükleyerek bir Sokratik tartışma
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-31 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Yapay Zekâ LLM Açık Kaynak API Framework
+Markdown GPU PDF LLM API Open Source
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openmaic/

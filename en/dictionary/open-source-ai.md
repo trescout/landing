@@ -1,54 +1,40 @@
 # What is Open Source AI?
 
-> Open Source Artificial Intelligence
+Open source AI (open source artificial intelligence in Turkish) are models whose weights and codes can be examined and run by anyone.
 
-**Category:** AI  
-**Last updated:** 2026-09-22
+## Definition and Word Origin
+Unlike closed models, these models are transparent: Anyone who wants can download them, examine them with their own data, and make changes to them. Llama, Mistral and DeepSeek are known examples. It is arguable that training data should also be open; OSI conducts a separate definition study on this subject.
 
-Open Source AI refers to artificial intelligence systems whose source code, model weights, training recipes, and datasets are publicly accessible for audit, modification, and self-hosting under permissive open licenses.
-
-## Definition and Etymology
-Modeled after the foundational principles of the open-source software movement, open-source AI democratizes machine intelligence. It prevents monopolistic platform lock-in by granting researchers and developers total freedom to inspect neural weights, patch biases, and fine-tune models on proprietary enterprise data.
-
-## Everyday Context and Practical Usage
-- **Independent Enterprise Hosting:** Deploying state-of-the-art models within air-gapped private sovereign clouds.
-- **Domain-Specific Specialization:** Fine-tuning base checkpoints on internal medical, financial, or industrial manufacturing corpora.
-- **Transparent Academic Research:** Auditing neural mechanics, attention heads, and safety limits under reproducible conditions.
+## How to Know and Use in Daily Life?
+Local chat: Personal assistant that works without internet. Research: Baseline model tested. Enterprise: In-house solution without moving data out.
 
 ## Technical Depth and Architecture
-Open Source AI Definition Layers:- **Permissive Code & Weights:** Releasing complete PyTorch/JAX training pipelines along with full FP16/BF16 model checkpoints.
-- **Data Transparency:** Disclosing training data pipelines, filtering heuristics, and deduplication methodologies.
-- **Open Toolchain Ecosystem:** Thriving runtime tooling like Hugging Face Transformers, vLLM, Ollama, and llama.cpp enabling friction-free serving.
+Components:
 
-## Commonly Confused With
-Often confused with closed-API models or proprietary 'open-weight' releases with restrictive commercial clauses. Genuine open-source AI conforms to OSI (Open Source Initiative) criteria, granting unrestricted rights to study, adapt, and run the software.
+## Frequently Mixed Things
+Can be mixed with Open Weights. Open Weights is just the weights being open. Open source AI, on the other hand, includes code and process transparency, its scope is broader.
 
-## Cross-Disciplinary Perspectives
-- **Culinary Arts:** Publishing a Michelin-starred recipe and exact ingredients for everyone to cook vs serving food from a locked kitchen.
-- **Mechanical Engineering:** Open-source blueprints of an electric engine vs a proprietary sealed motor requiring dealer-only repairs.
-- **Science:** Peer-reviewed open-access clinical research vs proprietary trade secrets.
-
-## Analogy
-Rather than keeping a culinary recipe strictly secret, it is like sharing both the recipe and the exact ingredients openly so chefs everywhere can inspect, cook, and improve upon it.
+## Use in Different Disciplines
+Recipe: Recipe shared with ingredients and measurements. Textbook: Open source that anyone can read and correct. Seed bank: Ancestral seed shared by farmers.
 
 ## Frequently Asked Questions
+**Are open source models weaker?**
+It used to be, but today many open models compete with their closed rivals. Closed models are ahead in the race for the top, but in practical matters the gap has closed.
 
-**What is the difference between open-source AI and open-weight AI?**  
-Open-weight models provide model weights but may withhold training code or datasets; full open-source AI provides code, training pipelines, and data recipes.
+**Why should I use open source?**
+For data privacy, cost and full integration. Your data does not go out and you do not pay a license fee.
 
-**Can open-source AI match closed proprietary models?**  
-Yes, open frontier architectures (such as DeepSeek, Llama, and Mistral) frequently achieve parity with or exceed proprietary commercial APIs.
+**Is commercial use allowed?**
+It varies depending on the license. Apache and MIT are free, some community licenses impose user number or revenue limits.
 
-**Is it safe for enterprises to deploy open-source AI?**  
-Yes, it provides enhanced security because models run inside private corporate firewalls without sending proprietary data to third parties.
+**Which one to start with?**
+Start locally with small, quantized models. If the need grows, you move it to the server.
 
-**What licenses govern open-source AI models?**  
-Standard licenses include Apache 2.0 and MIT, alongside community licenses like OpenRAIL.
 
 ## Related terms
-- [Open Weight](/en/dictionary/open-weight/)
-- [Foundation Model](/en/dictionary/foundation-model/)
-- [Artificial Intelligence](/en/dictionary/artificial-intelligence/)
+- [Open Weights](/en/dictionary/open-weights/)
+- [Self-Hosting](/en/dictionary/self-hosting/)
+- [Open Source](/en/dictionary/open-source/)
 
 ---
-Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/open-source-ai/
+Source: TreScout Dictionary · https://trescout.com/en/dictionary/open-source-ai/

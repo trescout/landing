@@ -2,7 +2,7 @@
 
 Cet ensemble de plugins open source d'Anthropic rassemble des compétences, des connecteurs, des commandes slash et des sous-agents pour chaque fonction métier. Cette solution, qui permet à Claude d'agir comme un expert dans son domaine, comprend 11 plugins prêts à l'emploi conçus pour Claude Cowork.
 
-- ★ 24 405
+- ★ 25 686
 - Python
 - Apache-2.0
 - GitHub Trending · 26 May 2026

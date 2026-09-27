@@ -2,7 +2,7 @@
 
 This training content prepared by Microsoft offers a 21-lesson curriculum for those who want to get into generative artificial intelligence (generative AI) technologies. This resource, in Jupyter Notebook format, teaches basic concepts and implementation methods for developers to create their own projects.
 
-- ★ 114,349
+- ★ 120,620
 - Jupyter Notebook
 - GitHub Trending · 2026-08-02
 

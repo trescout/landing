@@ -26,8 +26,5 @@ Requiere software cliente especial que funcione a través del protocolo NNTP.
 - [Communications Operating System](/es/dictionary/communications-operating-system/)
 - [IRC](/es/dictionary/irc/)
 
-## Herramientas relacionadas
-- [Sonarr](/es/discover/sonarr/)
-
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/newsgroup/

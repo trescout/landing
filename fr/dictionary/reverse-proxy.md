@@ -28,6 +28,7 @@ C'est à la fois un logiciel et une couche serveur sur laquelle s'exécute ce lo
 - [Observability](/fr/dictionary/observability/)
 
 ## Outils liés
+- [OmniRoute](/fr/discover/omniroute/)
 - [Nginx](/fr/discover/nginx/)
 
 ---

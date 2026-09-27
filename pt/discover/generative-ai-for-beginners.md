@@ -2,7 +2,7 @@
 
 Este conteúdo de treinamento preparado pela Microsoft oferece um currículo de 21 aulas para quem deseja entrar em tecnologias de inteligência artificial generativa (IA generativa). Este recurso, no formato Jupyter Notebook, ensina conceitos básicos e métodos de implementação para desenvolvedores criarem seus próprios projetos.
 
-- ★ 114.349
+- ★ 120.620
 - Jupyter Notebook
 - GitHub Trending · 2026-08-02
 

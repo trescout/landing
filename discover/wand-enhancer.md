@@ -76,7 +76,7 @@ Evet, arayüz stilleri XAML/CSS tabanlı şablonlarla yapılandırılabilir.
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Runtime Customization Assets
+WeMod Runtime CPU API Open Source Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/wand-enhancer/

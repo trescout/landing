@@ -24,7 +24,9 @@ Porque o risco de segurança é muito elevado; Se um software malicioso obtiver 
 - [Containers](/pt/dictionary/containers/)
 
 ## Ferramentas relacionadas
+- [Trivy](/pt/discover/trivy/)
 - [Universal Android Debloater Next Generation](/pt/discover/universal-android-debloater-next-generation/)
+- [Tailcat](/pt/discover/tailcat/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/root/

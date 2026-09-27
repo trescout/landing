@@ -29,6 +29,7 @@ No, to view HDR content, specially manufactured HDR-compatible screens are requi
 - [Video Editor](/en/dictionary/video-editor/)
 
 ## Related tools
+- [Sonarr](/en/discover/sonarr/)
 - [Renodx](/en/discover/renodx/)
 
 ---

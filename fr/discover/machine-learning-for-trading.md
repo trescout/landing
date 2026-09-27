@@ -2,7 +2,7 @@
 
 Préparée par Stefan Jansen, cette ressource fournit des exemples de code complets et des notebooks Jupyter pour les applications d'apprentissage automatique dans le trading algorithmique. Il sert de guide pratique pour ceux qui souhaitent développer des analyses de données et des modèles de prévision sur les marchés financiers.
 
-- ★ 20 241
+- ★ 21 060
 - GitHub Trending · 2026-06-02
 
 ## Ce que ça vous apporte

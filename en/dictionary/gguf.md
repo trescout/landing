@@ -33,6 +33,7 @@ Yes, GGUF versions of most popular models are prepared and shared by the communi
 
 ## Related tools
 - [Llama.cpp](/en/discover/llama-cpp/)
+- [ODS](/en/discover/ods/)
 - [Transcribe.cpp](/en/discover/transcribe-cpp/)
 
 ---

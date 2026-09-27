@@ -23,5 +23,8 @@ Non, Xcode ne fonctionne que sur le système d'exploitation macOS d'Apple.
 - [Coding Agent](/fr/dictionary/coding-agent/)
 - [Frontend Stack](/fr/dictionary/frontend-stack/)
 
+## Outils liés
+- [Ipatool](/fr/discover/ipatool/)
+
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/xcode/

@@ -35,6 +35,7 @@ Einige IDEs konzentrieren sich auf bestimmte Sprachen, während andere dank Plug
 - [Free Claude Code](/de/discover/free-claude-code/)
 - [Continue](/de/discover/continue/)
 - [Oh My Pi](/de/discover/oh-my-pi/)
+- [Checkstyle](/de/discover/checkstyle/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/ide/

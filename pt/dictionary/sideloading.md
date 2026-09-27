@@ -25,5 +25,8 @@ Nem sempre; pois você pode não ter passado por verificações de segurança, c
 ## Termos relacionados
 - [Deployment](/pt/dictionary/deployment/)
 
+## Ferramentas relacionadas
+- [Ipatool](/pt/discover/ipatool/)
+
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/sideloading/

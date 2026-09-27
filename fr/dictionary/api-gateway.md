@@ -25,6 +25,8 @@ Au lieu d’ouvrir chaque service individuellement au monde extérieur, sa gesti
 - [Reverse Proxy](/fr/dictionary/reverse-proxy/)
 
 ## Outils liés
+- [OmniRoute](/fr/discover/omniroute/)
+- [Gitdiagram](/fr/discover/gitdiagram/)
 - [OpenWA](/fr/discover/openwa/)
 - [Grok2api](/fr/discover/grok2api/)
 

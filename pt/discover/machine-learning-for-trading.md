@@ -2,7 +2,7 @@
 
 Preparado por Stefan Jansen, este recurso fornece exemplos de código abrangentes e notebooks Jupyter para aplicações de aprendizado de máquina em negociação algorítmica. Serve como um guia prático para quem deseja desenvolver análises de dados e modelos de previsão nos mercados financeiros.
 
-- ★ 20.241
+- ★ 21.060
 - GitHub Trending · 2026-06-02
 
 ## O que você ganha

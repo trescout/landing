@@ -2,7 +2,7 @@
 
 OpenClaude es una interfaz de inteligencia artificial flexible que puede ejecutarse en cualquier tipo de hardware y utilizar diferentes fuentes de datos. Este proyecto de código abierto, desarrollado con el lenguaje TypeScript, permite a los usuarios ejecutar modelos de inteligencia artificial personalizados en su propia infraestructura.
 
-- ★ 33.217
+- ★ 33.540
 - TypeScript
 - GitHub Trending · 2026-09-02
 

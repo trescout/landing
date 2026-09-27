@@ -24,8 +24,5 @@ C'est généralement accepté pour la recherche en sécurité, mais il faut êtr
 - [Binary](/fr/dictionary/binary/)
 - [Security Scanner](/fr/dictionary/security-scanner/)
 
-## Outils liés
-- [Ghidra](/fr/discover/ghidra/)
-
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/software-reverse-engineering/

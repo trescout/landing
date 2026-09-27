@@ -25,7 +25,9 @@ Si l'analyseur trouve les données dans un format qu'il ne peut pas comprendre, 
 - [Data Pipeline](/fr/dictionary/data-pipeline/)
 
 ## Outils liés
+- [Googletest](/fr/discover/googletest/)
 - [Opendataloader PDF](/fr/discover/opendataloader-pdf/)
+- [Checkstyle](/fr/discover/checkstyle/)
 - [YAML Cpp](/fr/discover/yaml-cpp/)
 
 ---

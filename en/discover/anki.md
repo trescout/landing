@@ -2,7 +2,7 @@
 
 Anki is a flashcard software that facilitates learning by using the spaced repetition algorithm. Developed in the Rust language, this open-source tool helps users transfer complex information into long-term memory.
 
-- ★ 31,285
+- ★ 31,583
 - Rust
 - GitHub Trending · 2026-09-19
 

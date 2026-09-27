@@ -28,12 +28,13 @@ Dabei handelt es sich um kleine unabhängige Verarbeitungseinheiten innerhalb ei
 
 ## Verwandte Werkzeuge
 - [Llmfit](/de/discover/llmfit/)
+- [CasaOS](/de/discover/casaos/)
+- [Airllm](/de/discover/airllm/)
+- [Wand-Enhancer](/de/discover/wand-enhancer/)
+- [Omlx](/de/discover/omlx/)
 - [Ktransformers](/de/discover/ktransformers/)
 - [Pocket TTS](/de/discover/pocket-tts/)
-- [Whichllm](/de/discover/whichllm/)
-- [Marin](/de/discover/marin/)
-- [Transcribe.cpp](/de/discover/transcribe-cpp/)
-- [Sharpemu](/de/discover/sharpemu/)
+- [ODS](/de/discover/ods/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/cpu/

@@ -2,7 +2,7 @@
 
 LibreTranslate ofrece una interfaz de traducción automática (API) gratuita y de código abierto. Esta herramienta basada en Python, que puede alojar en su propio servidor, le permite trabajar sin conexión a Internet.
 
-- ★ 15.834
+- ★ 16.858
 - GitHub Trending · 2026-06-19
 
 ## Qué aporta

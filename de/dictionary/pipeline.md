@@ -30,6 +30,8 @@ Ja, die Automatisierung ist der Kern des Pipeline-Konzepts.
 ## Verwandte Werkzeuge
 - [Transformers](/de/discover/transformers/)
 - [OpenMontage](/de/discover/openmontage/)
+- [Freellmapi](/de/discover/freellmapi/)
+- [Sonarr](/de/discover/sonarr/)
 - [Liteparse](/de/discover/liteparse/)
 
 ---

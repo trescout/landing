@@ -28,6 +28,7 @@ Il est standard dans presque tous les modèles d’IA modernes qui utilisent l�
 - [NLP](/fr/dictionary/nlp/)
 
 ## Outils liés
+- [Minimind](/fr/discover/minimind/)
 - [AI Engineering from Scratch](/fr/discover/ai-engineering-from-scratch/)
 - [FlashKDA](/fr/discover/flashkda/)
 

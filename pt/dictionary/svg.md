@@ -31,6 +31,7 @@ Não, o SVG é mais adequado para ilustrações e logotipos; Os formatos baseado
 
 ## Ferramentas relacionadas
 - [Diagram Design](/pt/discover/diagram-design/)
+- [Gitdiagram](/pt/discover/gitdiagram/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/svg/

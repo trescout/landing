@@ -23,5 +23,8 @@ No, Xcode sólo se ejecuta en el sistema operativo macOS de Apple.
 - [Coding Agent](/es/dictionary/coding-agent/)
 - [Frontend Stack](/es/dictionary/frontend-stack/)
 
+## Herramientas relacionadas
+- [Ipatool](/es/discover/ipatool/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/xcode/

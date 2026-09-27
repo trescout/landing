@@ -35,6 +35,7 @@ Certains IDE se concentrent sur des langages spécifiques, tandis que d'autres p
 - [Free Claude Code](/fr/discover/free-claude-code/)
 - [Continue](/fr/discover/continue/)
 - [Oh My Pi](/fr/discover/oh-my-pi/)
+- [Checkstyle](/fr/discover/checkstyle/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/ide/

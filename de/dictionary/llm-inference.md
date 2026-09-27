@@ -27,8 +27,5 @@ Die Geschwindigkeit und die Kosten von Anwendungen hängen davon ab, wie effizie
 - [Inference](/de/dictionary/inference/)
 - [Generative AI](/de/dictionary/generative-ai/)
 
-## Verwandte Werkzeuge
-- [ODS](/de/discover/ods/)
-
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/llm-inference/

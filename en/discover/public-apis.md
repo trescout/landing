@@ -2,7 +2,7 @@
 
 Public-apis is a comprehensive list of free application programming interfaces (APIs) that application developers can use in their projects. It serves as a central reference point that facilitates access to external data sources needed in software development processes.
 
-- ★ 460,356
+- ★ 483,588
 - Python
 - GitHub Trending · 2026-08-16
 

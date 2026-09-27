@@ -24,7 +24,9 @@ Porque el riesgo de seguridad es muy alto; Si un software malicioso obtiene perm
 - [Containers](/es/dictionary/containers/)
 
 ## Herramientas relacionadas
+- [Trivy](/es/discover/trivy/)
 - [Universal Android Debloater Next Generation](/es/discover/universal-android-debloater-next-generation/)
+- [Tailcat](/es/discover/tailcat/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/root/

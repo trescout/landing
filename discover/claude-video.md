@@ -2,15 +2,15 @@
 
 Claude-video, Claude modeline video içeriğini analiz etme yeteneği kazandıran bir Python aracıdır. Yazılım, videoları indirip karelere ayırarak ve metne dönüştürerek (transcription) görsel veriyi yapay zekâ modelinin işleyebileceği formata getirir.
 
-- ★ 16.553
+- ★ 17.705
 - Python
 - GitHub Trending · 2026-07-07
 
 ## Güncelleme
+- 27 Eylül 2026: Yıldız 16.553 → 17.705, son sürüm v0.3.2 (25 Eylül 2026).
 - 31 Ağustos 2026: Yıldız 15.503 → 16.553, son sürüm v0.2.0 (1 Temmuz 2026).
 - 15 Ağustos 2026: Yıldız 14.427 → 15.503, son sürüm v0.2.0 (1 Temmuz 2026).
 - 7 Ağustos 2026: Yıldız 13.424 → 14.427, son sürüm v0.2.0 (1 Temmuz 2026).
-- 2 Ağustos 2026: Yıldız 4.554 → 13.424, son sürüm v0.2.0 (1 Temmuz 2026).
 
 ## Ne kazandırır?
 - Videoları kare kare analiz eder

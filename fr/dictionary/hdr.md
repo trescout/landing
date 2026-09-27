@@ -27,6 +27,7 @@ Non, pour afficher des contenus HDR, il est nécessaire d'utiliser des écrans c
 - [Video Editor](/fr/dictionary/video-editor/)
 
 ## Outils liés
+- [Sonarr](/fr/discover/sonarr/)
 - [Renodx](/fr/discover/renodx/)
 
 ---

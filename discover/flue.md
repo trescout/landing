@@ -2,15 +2,15 @@
 
 Astro ekibi tarafından geliştirilen Flue, TypeScript tabanlı bir kum havuzu ajan çatısı (sandbox agent framework) olarak öne çıkıyor. Bu yapı, geliştiricilerin güvenli ve izole edilmiş ortamlarda yapay zekâ ajanları oluşturmasına olanak tanıyor.
 
-- ★ 8.295
+- ★ 8.374
 - TypeScript
 - GitHub Trending · 2026-06-06
 
 ## Güncelleme
+- 27 Eylül 2026: Yıldız 8.295 → 8.374, son sürüm @flue/cli@2.1.1 (23 Eylül 2026).
 - 19 Eylül 2026: Yıldız 8.255 → 8.295, son sürüm @flue/cli@2.1.0 (18 Eylül 2026).
 - 17 Eylül 2026: Yıldız 8.244 → 8.255, son sürüm @flue/cli@2.0.8 (16 Eylül 2026).
 - 16 Eylül 2026: Yıldız 7.625 → 8.244, son sürüm @flue/cli@2.0.7 (15 Eylül 2026).
-- 2 Ağustos 2026: Yıldız 4.594 → 7.625.
 
 ## Ne kazandırır?
 - TypeScript tabanlı, programlanabilir ve başsız ajanlar oluşturma.
@@ -54,7 +54,7 @@ Flue framework'ünü kullanarak bir yapay zekâ ajanı geliştirmek istiyorum. P
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Sandbox Agent Framework Prompt CI/CD Runtime Sandbox Framework
+Sandbox Agent Framework Prompt Sandbox CI/CD Runtime Framework
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/flue/

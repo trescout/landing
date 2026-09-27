@@ -1,21 +1,31 @@
 # What is Testing Framework?
 
-It is a set of ready-made tools that enable you to write and run software tests regularly, quickly and easily.
+Testing framework (test framework in Turkish) is a ready-made infrastructure that writes and runs tests.
 
-## Overview
-It is a library that offers you ready-made rules and structures instead of constantly writing the same codes while writing tests. It reports the results of tests, indicates errors and standardizes the process. It is an auxiliary tool set that makes the work of software developers easier.
+## Definition and Word Origin
+"Framework" means roof. Instead of writing commands one by one, the rules and runner come ready-made. The result is reported, the error is marked. The test order becomes standardised.
 
-*Analogy: It's like starting out with not just a screwdriver but a tidy bag of all the repair tools.*
+## How to Know and Use in Daily Life?
+Development: Set running on every commit.CI: Quality gate in line.Version: Pre-release scanning.
 
-## How it works
-You include this tool in your project and write your tests with the commands it offers you. The tool automatically runs your tests and lists which ones passed or failed.
+## Technical Depth and Architecture
+Parts:
 
-## Where it is used
-It is used in software development projects, especially in systems that are constantly updated.
+## Use in Different Disciplines
+Tool bag: Tool according to the job. Measurement set: Caliber tools. Gym: Programmed equipment.
 
-## Frequently asked questions
-**Which framework should I choose?**
-It's usually best to choose the most popular one based on the programming language you're using and the needs of the project.
+## Frequently Asked Questions
+**Which one should be chosen?**
+Popular according to language and need. Maintenance and documentation are decisive.
+
+**When is it written?**
+With code. The remaining test will be left unfinished.
+
+**What is the E2E difference?**
+He tries piece by piece, he tries the journey from end to end. Both are used together.
+
+**What is the coverage goal?**
+It is determined by the team. The critical path is kept high and the edge is kept low.
 
 
 ## Related terms

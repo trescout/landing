@@ -31,6 +31,8 @@ Ja, sie können verstehen, was im Inhalt enthalten ist, indem sie Videos Bild f�
 
 ## Verwandte Werkzeuge
 - [UI-TARS-desktop](/de/discover/ui-tars-desktop/)
+- [Patent Disclosure Skill](/de/discover/patent-disclosure-skill/)
+- [ODS](/de/discover/ods/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/multimodal/

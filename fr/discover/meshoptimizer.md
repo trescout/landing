@@ -2,7 +2,7 @@
 
 La bibliothèque Meshoptimizer optimise les données de maillage tridimensionnel, réduisant ainsi la taille des fichiers et augmentant les performances de rendu. Développé en C++, cet outil organise les données géométriques pour améliorer l'utilisation de la mémoire dans les applications graphiques.
 
-- ★ 8 177
+- ★ 8 452
 - C++
 - GitHub Trending · 2026-07-11
 

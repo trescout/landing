@@ -26,8 +26,5 @@ Os usuários param de usar aplicativos que consideram difíceis, portanto, uma b
 - [Design System](/pt/dictionary/design-system/)
 - [Generative UI](/pt/dictionary/generative-ui/)
 
-## Ferramentas relacionadas
-- [Wand-Enhancer](/pt/discover/wand-enhancer/)
-
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/user-experience/

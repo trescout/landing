@@ -25,5 +25,8 @@ Se prefiere para acceder a aplicaciones que no se encuentran en las tiendas ofic
 ## Términos relacionados
 - [Deployment](/es/dictionary/deployment/)
 
+## Herramientas relacionadas
+- [Ipatool](/es/discover/ipatool/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/sideloading/

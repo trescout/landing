@@ -27,7 +27,9 @@ If the parser finds the data in a format it cannot understand, it gives a 'synta
 - [Data Pipeline](/en/dictionary/data-pipeline/)
 
 ## Related tools
+- [Googletest](/en/discover/googletest/)
 - [Opendataloader PDF](/en/discover/opendataloader-pdf/)
+- [Checkstyle](/en/discover/checkstyle/)
 - [YAML Cpp](/en/discover/yaml-cpp/)
 
 ---

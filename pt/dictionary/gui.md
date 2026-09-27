@@ -33,6 +33,7 @@ Desenhar elementos visuais requer poder de processamento; portanto, interfaces b
 - [Imgui](/pt/discover/imgui/)
 - [Page Agent](/pt/discover/page-agent/)
 - [Chat2DB](/pt/discover/chat2db/)
+- [PLFM RADAR](/pt/discover/plfm-radar/)
 - [BrewUI](/pt/discover/brewui/)
 
 ---

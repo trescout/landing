@@ -2,7 +2,7 @@
 
 Claude Code is a toolkit containing agents, commands, and hooks designed to accelerate AI-powered development processes. It brings together all the components necessary to automate software development workflows under a single roof.
 
-- ★ 2,453
+- ★ 3,630
 - JavaScript
 - GitHub Trending · 2026-09-06
 

@@ -25,7 +25,9 @@ Si el analizador encuentra los datos en un formato que no puede comprender, gene
 - [Data Pipeline](/es/dictionary/data-pipeline/)
 
 ## Herramientas relacionadas
+- [Googletest](/es/discover/googletest/)
 - [Opendataloader PDF](/es/discover/opendataloader-pdf/)
+- [Checkstyle](/es/discover/checkstyle/)
 - [YAML Cpp](/es/discover/yaml-cpp/)
 
 ---

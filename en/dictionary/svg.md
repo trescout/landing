@@ -33,6 +33,7 @@ No, SVG is better suited for illustrations and logos; Pixel-based formats are be
 
 ## Related tools
 - [Diagram Design](/en/discover/diagram-design/)
+- [Gitdiagram](/en/discover/gitdiagram/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/svg/

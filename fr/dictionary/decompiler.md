@@ -28,6 +28,7 @@ Techniquement, la plupart peuvent l'être, mais certains logiciels sont protég�
 - [Software Reverse Engineering](/fr/dictionary/software-reverse-engineering/)
 
 ## Outils liés
+- [Ghidra](/fr/discover/ghidra/)
 - [ASC](/fr/discover/asc/)
 
 ---

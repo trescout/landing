@@ -27,6 +27,7 @@ No, para visualizar contenido HDR se necesitan pantallas compatibles con HDR fab
 - [Video Editor](/es/dictionary/video-editor/)
 
 ## Herramientas relacionadas
+- [Sonarr](/es/discover/sonarr/)
 - [Renodx](/es/discover/renodx/)
 
 ---

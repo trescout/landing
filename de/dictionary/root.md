@@ -24,7 +24,9 @@ Denn das Sicherheitsrisiko ist sehr hoch; Wenn eine Schadsoftware Root-Rechte er
 - [Containers](/de/dictionary/containers/)
 
 ## Verwandte Werkzeuge
+- [Trivy](/de/discover/trivy/)
 - [Universal Android Debloater Next Generation](/de/discover/universal-android-debloater-next-generation/)
+- [Tailcat](/de/discover/tailcat/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/root/

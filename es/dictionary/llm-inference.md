@@ -27,8 +27,5 @@ La velocidad y el costo de las aplicaciones dependen de la eficiencia con la que
 - [Inference](/es/dictionary/inference/)
 - [Generative AI](/es/dictionary/generative-ai/)
 
-## Herramientas relacionadas
-- [ODS](/es/discover/ods/)
-
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/llm-inference/

@@ -25,5 +25,8 @@ Il est privilégié pour accéder à des applications non disponibles dans les b
 ## Termes liés
 - [Deployment](/fr/dictionary/deployment/)
 
+## Outils liés
+- [Ipatool](/fr/discover/ipatool/)
+
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/sideloading/

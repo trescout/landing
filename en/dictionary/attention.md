@@ -30,6 +30,7 @@ It is standard in almost all modern AI models that use the Transformer architect
 - [NLP](/en/dictionary/nlp/)
 
 ## Related tools
+- [Minimind](/en/discover/minimind/)
 - [AI Engineering from Scratch](/en/discover/ai-engineering-from-scratch/)
 - [FlashKDA](/en/discover/flashkda/)
 

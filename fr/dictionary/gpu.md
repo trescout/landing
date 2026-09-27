@@ -31,13 +31,13 @@ Oui, mais ceux utilisés pour l’IA sont généralement des modèles profession
 
 ## Outils liés
 - [Pytorch](/fr/discover/pytorch/)
+- [Minimind](/fr/discover/minimind/)
+- [OpenMAIC](/fr/discover/openmaic/)
 - [Llmfit](/fr/discover/llmfit/)
+- [Airllm](/fr/discover/airllm/)
+- [Omlx](/fr/discover/omlx/)
 - [Ktransformers](/fr/discover/ktransformers/)
 - [Olmocr](/fr/discover/olmocr/)
-- [Cupy](/fr/discover/cupy/)
-- [Needle](/fr/discover/needle/)
-- [Train LLM from Scratch](/fr/discover/train-llm-from-scratch/)
-- [optimizerDuck](/fr/discover/optimizerduck/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/gpu/

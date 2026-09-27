@@ -30,7 +30,10 @@ Im Allgemeinen nein, sie können mit Ihren Daten Einnahmen generieren.
 - [Offline](/de/dictionary/offline/)
 
 ## Verwandte Werkzeuge
+- [CasaOS](/de/discover/casaos/)
+- [Sonarr](/de/discover/sonarr/)
 - [Amnezia Client](/de/discover/amnezia-client/)
+- [Tailcat](/de/discover/tailcat/)
 - [MasterDnsVPN](/de/discover/masterdnsvpn/)
 
 ---

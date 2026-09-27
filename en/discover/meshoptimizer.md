@@ -2,7 +2,7 @@
 
 The Meshoptimizer library optimizes three-dimensional mesh data, reducing file sizes and increasing rendering performance. Developed in C++, this tool organizes geometric data to improve memory usage in graphics applications.
 
-- ★ 8,177
+- ★ 8,452
 - C++
 - GitHub Trending · 2026-07-11
 

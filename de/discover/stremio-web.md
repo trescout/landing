@@ -2,7 +2,7 @@
 
 Stremio ist eine Media-Player-Anwendung, die verschiedene Inhaltsanbieter in einer einzigen Benutzeroberfläche vereint. Diese webbasierte Version ermöglicht es Benutzern, Serien und Filme direkt über den Browser anzusehen, ohne eine Installation vornehmen zu müssen.
 
-- ★ 13.631
+- ★ 13.968
 - JavaScript
 - GitHub Trending · 2026-09-07
 

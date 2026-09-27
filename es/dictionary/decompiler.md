@@ -28,6 +28,7 @@ Técnicamente, la mayoría se puede, pero algunos programas están protegidos co
 - [Software Reverse Engineering](/es/dictionary/software-reverse-engineering/)
 
 ## Herramientas relacionadas
+- [Ghidra](/es/discover/ghidra/)
 - [ASC](/es/discover/asc/)
 
 ---

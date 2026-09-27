@@ -2,7 +2,7 @@
 
 Stirling-PDF est un outil de traitement de documents open source qui permet aux utilisateurs de modifier des fichiers PDF sur n'importe quel appareil. Développée avec TypeScript, cette application centralise les processus de gestion documentaire en s'exécutant sur des serveurs locaux.
 
-- ★ 89 027
+- ★ 93 069
 - TypeScript
 - GitHub Trending · 2026-06-23
 

@@ -2,12 +2,12 @@
 
 Python tabanlı Patent Disclosure Skill, teknik buluş taslaklarını analiz ederek resmi patent formatına uygun teknik açıklamalar, istemler (claims) ve önceki teknik (prior art) karşılaştırmaları üretir.
 
-- ★ 6.058
+- ★ 10.360
 - Python
 - GitHub Trending · 2026-08-31
 
 ## Güncelleme
-- 31 Ağustos 2026: Yıldız 6.058, otomatik istem (claim) ağacı üretimi ve önceki teknik analiz desteği.
+- 27 Eylül 2026: Yıldız 6.058 → 10.360.
 
 ## Ne kazandırır?
 - Yapılandırılmış patent metni üretimi: Buluşun teknik alanı, arka planı, özeti ve detaylı açıklama bölümlerini standart patent normlarına uygun oluşturma.
@@ -33,6 +33,8 @@ pip install -r requirements.txt
 ```
 python run_skill.py --input bulus_taslagi.txt --output patent_disclosure.md
 ```
+
+Kaynak: Resmî kaynak: https://github.com/handsomestWei/patent-disclosure-skill
 
 ## Teknik mimari ve çalışma prensibi
 
@@ -69,7 +71,7 @@ Geliştirdiğim dağıtık bir veritabanı önbellekleme algoritması için pate
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-31 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Yapay Zekâ LLM Açık Kaynak CLI API
+Disclosure patent disclosure Multimodal Markdown Skill LLM
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/patent-disclosure-skill/

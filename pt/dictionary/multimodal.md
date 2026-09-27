@@ -31,6 +31,8 @@ Sim, eles podem entender o que está no conteúdo analisando os vídeos quadro a
 
 ## Ferramentas relacionadas
 - [UI-TARS-desktop](/pt/discover/ui-tars-desktop/)
+- [Patent Disclosure Skill](/pt/discover/patent-disclosure-skill/)
+- [ODS](/pt/discover/ods/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/multimodal/

@@ -2,14 +2,14 @@
 
 Agent-Reach, yapay zekâ ajanlarına internetin tamamını tarama ve içerik okuma yeteneği kazandıran bir komut satırı arayüzü (CLI) aracıdır. Twitter, Reddit ve GitHub gibi platformlardan veri çekmek için herhangi bir uygulama programlama arayüzü (API) ücreti ödemeden doğrudan erişim sağlar.
 
-- ★ 80.033
+- ★ 85.611
 - GitHub Trending · 2026-06-06
 
 ## Güncelleme
+- 27 Eylül 2026: Yıldız 80.033 → 85.611, son sürüm v1.5.0 (11 Haziran 2026).
 - 13 Eylül 2026: Yıldız 75.829 → 80.033, son sürüm v1.5.0 (11 Haziran 2026).
 - 27 Ağustos 2026: Yıldız 71.997 → 75.829, son sürüm v1.5.0 (11 Haziran 2026).
 - 15 Ağustos 2026: Yıldız 67.818 → 71.997, son sürüm v1.5.0 (11 Haziran 2026).
-- 7 Ağustos 2026: Yıldız 64.497 → 67.818, son sürüm v1.5.0 (11 Haziran 2026).
 
 ## Ne kazandırır?
 - Twitter, Reddit ve GitHub gibi platformlara ücretsiz erişim sağlar.
@@ -53,7 +53,7 @@ Lütfen Agent Reach aracını kurmama yardımcı ol. GitHub üzerindeki resmi ku
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-06 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Agent API CLI Artificial Intelligence
+Agent CLI API Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/agent-reach/

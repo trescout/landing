@@ -2,12 +2,12 @@
 
 Açık kaynaklı Osmantic/ODS, kişisel donanımınız üzerinde çalışan yerel büyük dil modeli çıkarımı, vektör arama tabanlı RAG boru hatları ve otonom ajan iş akışları kurmanızı sağlar.
 
-- ★ 5.181
+- ★ 6.854
 - Python
 - GitHub Trending · 2026-08-31
 
 ## Güncelleme
-- 31 Ağustos 2026: Yıldız 5.181, yerel RAG boru hattı ve multimodal model desteği güncellemesi.
+- 27 Eylül 2026: Yıldız 5.181 → 6.854, son sürüm v3.0.0 (24 Eylül 2026).
 
 ## Ne kazandırır?
 - Tam veri gizliliği ve yerel yürütme: Verilerinizi harici bulut sunucularına göndermeden yerel GPU ve CPU üzerinde güvenli yapay zekâ işletimi.
@@ -34,6 +34,8 @@ pip install -e .
 python -m ods.server --port 8000
 # Web paneline http://localhost:8000 adresinden erişin
 ```
+
+Kaynak: Resmî kaynak: https://github.com/Osmantic/ODS
 
 ## Teknik mimari ve çalışma prensibi
 
@@ -70,7 +72,7 @@ Kişisel bilgisayarımda ODS sunucusunu kurarak şirketimin PDF belgelerini yere
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-31 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Yapay Zekâ LLM Açık Kaynak API CLI
+Multimodal Vector Database GGUF Whisper CPU RAG
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ods/

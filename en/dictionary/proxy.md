@@ -1,37 +1,48 @@
 # What is Proxy?
 
-It is an intermediary server that performs your transactions on the Internet on your behalf.
+Proxy (in Turkish, proxy server) is the intermediary that transmits your requests to the target on your behalf.
 
-## Overview
-A proxy acts like a guard between your computer and the internet. When you want to enter a site, you first go to the proxy server; It then connects to the site on your behalf. This method is used to both hide your identity and manage internet traffic.
+## Definition and Word Origin
+"Proxy" means proxy. It acts like a guard between your computer and the internet: You connect to the site through a proxy, not directly. It is used for identity concealment and traffic management.
 
-*Analogy: It's like when you want to send a message to someone, you give the message to a friend rather than directly to them and your friend forwards it to that person on your behalf.*
+## How to Know and Use in Daily Life?
+Company: Control of exit traffic. Privacy: Address hiding. Access: Exceeding regional restrictions.
 
-## How it works
-You enter the proxy address in your internet settings. Now all your data first goes to that server and reaches the destination from there.
+## Technical Depth and Architecture
+There are two directions:
 
-## Where it is used
-It is used in company networks, in situations requiring confidentiality and to access restricted content.
+## Frequently Mixed Things
+It is considered a VPN. VPN tunnels the entire device, while proxy usually operates at the application or browser level. The depth of privacy varies.
 
-## Commonly confused with
-It's similar to a VPN, but a proxy usually only works for certain apps or browsers.
+## Use in Different Disciplines
+Friend: The person who conveys the message on your behalf. Reception: The officer who welcomes the visitor. Interpreter: The intermediary who conveys the word.
 
-## Frequently asked questions
+## Frequently Asked Questions
 **Is it safe?**
-It depends on the proxy server you use; Untrusted proxies can track your information.
+It depends on the proxy. Untrustworthy server may monitor traffic, so known provider is chosen.
 
 **Why is it used?**
-It is preferred for entering blocked sites, optimizing internet speed or hiding identity.
+For control, privacy and access. All three are separate needs.
+
+**What is Reverse?**
+It is the direction that distributes what comes from outside to the server. Provides load balancing and protection.
+
+**Does it speed up?**
+On cached content yes, on encrypted and remote traffic it generally slows it down.
 
 
 ## Related terms
-- [Self-hosting](/en/dictionary/self-hosting/)
+- [Self-Hosting](/en/dictionary/self-hosting/)
 - [Offline](/en/dictionary/offline/)
+- [VPN](/en/dictionary/vpn/)
 
 ## Related tools
+- [OmniRoute](/en/discover/omniroute/)
 - [FlClash](/en/discover/flclash/)
 - [Nginx](/en/discover/nginx/)
+- [Freellmapi](/en/discover/freellmapi/)
 - [Headroom](/en/discover/headroom/)
+- [User Scanner](/en/discover/user-scanner/)
 - [OpenFlux](/en/discover/openflux/)
 
 ---

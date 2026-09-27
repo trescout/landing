@@ -28,6 +28,7 @@ Technisch gesehen können die meisten dekompiliert werden, aber einige Softwarep
 - [Software Reverse Engineering](/de/dictionary/software-reverse-engineering/)
 
 ## Verwandte Werkzeuge
+- [Ghidra](/de/discover/ghidra/)
 - [ASC](/de/discover/asc/)
 
 ---

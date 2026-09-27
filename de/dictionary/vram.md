@@ -27,6 +27,7 @@ Das KI-Modell wird zu langsam oder funktioniert nicht mehr mit der Fehlermeldung
 - [AI Models](/de/dictionary/ai-models/)
 
 ## Verwandte Werkzeuge
+- [Minimind](/de/discover/minimind/)
 - [Colibri](/de/discover/colibri/)
 - [Airllm](/de/discover/airllm/)
 

@@ -2,25 +2,35 @@
 
 > E2E Testing
 
-It is the verification of the entire operation of an application from start to finish, just like a real user.
+End-to-end testing (E2E testing for short) is testing the application from start to finish like the user.
 
-## Overview
-It tests how the entire application works as a whole, not individual parts of the system. The user enters the application, clicks a button, goes to the database and the result is returned. It is checked whether the entire process is error-free or not.
+## Definition and Word Origin
+"End-to-end" means end-to-end. The whole is tried, not the part: The input is made, the button is pressed, the data goes, the result is returned. It is the gateway to pre-publication compliance.
 
-*Analogy: It is like testing not only the engine of a car, but also whether it can turn the key and drive and the compatibility of all systems.*
+## How to Know and Use in Daily Life?
+Release: Pre-release tour.Shop: Purchase path.Form: Signup flow.
 
-## How it works
-Automation tools manage a real browser or application as if a human were using it. It simulates all steps one by one.
+## Technical Depth and Architecture
+Order:
 
-## Where it is used
-It is used to check the compatibility of all features with each other just before the software is released.
+## Frequently Mixed Things
+It is considered a unit test. He looks at the part, this one looks at the whole. One is screw, the other is driving test.
 
-## Commonly confused with
-It can be confused with unit testing; Unit testing looks at the part, while E2E looks at the whole.
+## Use in Different Disciplines
+Car: Starting from the key. Rehearsal: General repetition. Final: Broadcast rehearsal.
 
-## Frequently asked questions
-**Why don't we just do this?**
-Because it is very slow and when an error occurs it is harder to find exactly where the problem is.
+## Frequently Asked Questions
+**Why isn't just this done?**
+It is slow, the fault location is blurred. Used with the unit.
+
+**How often does he run?**
+Pre-broadcast and overnight. The critical subset runs in each commit.
+
+**Who writes?**
+Developer and tester write together. The owner is known.
+
+**Is it fragile?**
+It breaks when the interface changes. It is written selectively and durable.
 
 
 ## Related terms

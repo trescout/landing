@@ -2,12 +2,12 @@
 
 Python tabanlı User-Scanner, tek bir kullanıcı adı veya e-posta üzerinden 465'ten fazla sosyal ağ, forum ve kod deposunda açık kaynak istihbaratı (OSINT) taraması gerçekleştirir.
 
-- ★ 3.910
+- ★ 5.007
 - Python
 - GitHub Trending · 2026-08-31
 
 ## Güncelleme
-- 31 Ağustos 2026: Yıldız 3.910, 465'ten fazla platform desteği ve asenkron HTTP tarama motoru güncellemesi.
+- 27 Eylül 2026: Yıldız 3.910 → 5.007, son sürüm v1.5.2 (17 Eylül 2026).
 
 ## Ne kazandırır?
 - Geniş platform kapsamı: GitHub, Reddit, Twitter, Steam, Telegram ve 465'i aşkın sitede tek seferde hesap varlığı doğrulama.
@@ -35,6 +35,8 @@ python3 user_scanner.py -u hedef_kullanici
 # veya e-posta ile:
 python3 user_scanner.py -e hedef@ornek.com
 ```
+
+Kaynak: Resmî kaynak: https://github.com/kaifcodec/user-scanner
 
 ## Teknik mimari ve çalışma prensibi
 
@@ -71,7 +73,7 @@ Bir güvenlik denetiminde User-Scanner aracını kullanarak tek bir kullanıcı 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-31 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-CLI Açık Kaynak API Framework CI/CD
+OSINT Proxy Open Source Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/user-scanner/

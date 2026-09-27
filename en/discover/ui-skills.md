@@ -2,7 +2,7 @@
 
 Developed for design engineers, ui-skills brings together the technical skills and competencies needed in user interface (UI) development processes. This TypeScript-based resource offers a competency map for professionals transitioning from interface design to coding.
 
-- ★ 7,867
+- ★ 9,151
 - TypeScript
 - GitHub Trending · 2026-07-17
 

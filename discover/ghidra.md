@@ -2,12 +2,14 @@
 
 Ghidra, Ulusal Güvenlik Ajansı (NSA) tarafından geliştirilen ve açık kaynak olarak paylaşılan kapsamlı bir yazılım tersine mühendislik (SRE) çerçevesidir. Java ve C++ çekirdeğiyle geliştirilen platform; derlenmiş ikili (binary) dosyaları kaynak koda dönüştürür, güvenlik araştırmacılarına gelişmiş dekompiler, simbolik analiz ve çoklu mimari desteği sunar.
 
-- ★ 78.142
+- ★ 79.733
 - Java
 - GitHub Trending · 2026-08-28
 
 ## Güncelleme
-- 17 Eylül 2026: Yıldız 78.142, son kararlı sürüm Ghidra_12.1.3_build (Java 21 desteği, RISC-V ve ARM64 dekompiler optimizasyonları).
+- 27 Eylül 2026: Yıldız 78.142 → 79.733, son sürüm Ghidra_12.1.4_build (21 Eylül 2026).
+- 17 Eylül 2026: Yıldız 74.145 → 78.142, son sürüm Ghidra_12.1.3_build (18 Ağustos 2026).
+- 31 Ağustos 2026: Yıldız 73.203 → 74.145, son sürüm Ghidra_12.1.3_build (18 Ağustos 2026).
 
 ## Ne kazandırır?
 - Yerleşik güçlü C dekompileri: Makine kodlarını ve assembly yönergelerini okunabilir, yüksek seviyeli C benzeri sözdizimine dönüştürme.
@@ -79,7 +81,7 @@ Ghidra, karmaşık siber güvenlik ve yazılım denetim süreçlerinde temel ara
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Binary Open Source Local Offline
+NSA Assembly Decompiler Binary API Open Source
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ghidra/

@@ -2,12 +2,12 @@
 
 Pollen Robotics tarafından geliştirilen microduck_rl, Microduck robot platformu için MuJoCo ve mjlab üzerinde pekiştirmeli öğrenme (reinforcement learning) eğitim ortamları ve kontrol politikaları sunar.
 
-- ★ 1.001
+- ★ 2.281
 - Python
 - GitHub Trending · 2026-08-31
 
 ## Güncelleme
-- 31 Ağustos 2026: Yıldız 1.001, MuJoCo mjlab fizik motoru ve lokomosyon görevleri desteği.
+- 27 Eylül 2026: Yıldız 1.001 → 2.281.
 
 ## Ne kazandırır?
 - Gerçekçi MuJoCo fizik simülasyonu: Robotun eklem torklarını, sürtünmesini ve yer çekimi etkilerini yüksek hızda simüle edebilme.
@@ -35,6 +35,8 @@ python -m microduck_rl.train --task walk
 # Eğitilen politikayı simülatörde izleme:
 python -m microduck_rl.enjoy --checkpoint checkpoint.pt
 ```
+
+Kaynak: Resmî kaynak: https://github.com/pollen-robotics/microduck_rl
 
 ## Teknik mimari ve çalışma prensibi
 
@@ -71,7 +73,7 @@ Pollen Robotics'in microduck_rl kütüphanesini kullanarak Microduck robotu içi
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-31 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Yapay Zekâ Açık Kaynak Makine Öğrenimi CLI Framework
+Reinforcement Learning CPU GPU API Open Source Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/microduck-rl/

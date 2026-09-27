@@ -33,6 +33,7 @@ Dibujar elementos visuales requiere potencia de procesamiento, por lo que a vece
 - [Imgui](/es/discover/imgui/)
 - [Page Agent](/es/discover/page-agent/)
 - [Chat2DB](/es/discover/chat2db/)
+- [PLFM RADAR](/es/discover/plfm-radar/)
 - [BrewUI](/es/discover/brewui/)
 
 ---

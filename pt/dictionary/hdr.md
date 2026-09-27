@@ -27,6 +27,7 @@ Não, para visualizar conteúdos HDR, são necessárias telas compatíveis com H
 - [Video Editor](/pt/dictionary/video-editor/)
 
 ## Ferramentas relacionadas
+- [Sonarr](/pt/discover/sonarr/)
 - [Renodx](/pt/discover/renodx/)
 
 ---

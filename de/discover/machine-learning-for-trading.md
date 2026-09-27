@@ -2,7 +2,7 @@
 
 Diese von Stefan Jansen erstellte Ressource bietet umfassende Codebeispiele und Jupyter-Notebooks für maschinelle Lernanwendungen im algorithmischen Handel. Es dient als praktischer Leitfaden für diejenigen, die Datenanalyse- und Prognosemodelle für Finanzmärkte entwickeln möchten.
 
-- ★ 20.241
+- ★ 21.060
 - GitHub Trending · 2026-06-02
 
 ## Was es bringt

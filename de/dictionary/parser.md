@@ -25,7 +25,9 @@ Wenn der Parser die Daten in einem Format findet, das er nicht verstehen kann, g
 - [Data Pipeline](/de/dictionary/data-pipeline/)
 
 ## Verwandte Werkzeuge
+- [Googletest](/de/discover/googletest/)
 - [Opendataloader PDF](/de/discover/opendataloader-pdf/)
+- [Checkstyle](/de/discover/checkstyle/)
 - [YAML Cpp](/de/discover/yaml-cpp/)
 
 ---

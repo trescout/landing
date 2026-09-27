@@ -27,5 +27,8 @@ It is preferred to access applications not available in official stores or to by
 ## Related terms
 - [Deployment](/en/dictionary/deployment/)
 
+## Related tools
+- [Ipatool](/en/discover/ipatool/)
+
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/sideloading/

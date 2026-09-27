@@ -25,6 +25,8 @@ En lugar de abrir cada servicio de forma individual al exterior, gestionarlo des
 - [Reverse Proxy](/es/dictionary/reverse-proxy/)
 
 ## Herramientas relacionadas
+- [OmniRoute](/es/discover/omniroute/)
+- [Gitdiagram](/es/discover/gitdiagram/)
 - [OpenWA](/es/discover/openwa/)
 - [Grok2api](/es/discover/grok2api/)
 

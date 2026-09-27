@@ -35,18 +35,6 @@ winget install AquaSecurity.Trivy
 trivy image imaj-adi:etiket
 ```
 
-**Yerel kaynak kodu ve sırları tara**
-
-```
-trivy fs --scanners vuln,secret,misconfig .
-```
-
-**CycloneDX formatında SBOM oluştur**
-
-```
-trivy image --format cyclonedx --output sbom.json imaj-adi:etiket
-```
-
 Kaynak: Resmî kaynak: https://github.com/aquasecurity/trivy
 
 ## Teknik mimari ve çalışma prensibi
@@ -60,12 +48,6 @@ Trivy, Aqua Security ve açık kaynak topluluğu tarafından geliştirilen, mode
 ## DevSecOps ve CI/CD boru hattı entegrasyonu
 
 Trivy, modern yazılım dağıtım süreçlerinde bir kalite kapısı (quality gate) olarak konumlandırılır. Güvenlik açıklarının üretime sızmasını engellemek için CI/CD aşamasında belirli ciddiyet eşikleri tanımlanabilir:
-
-**Kritik açıklarda derlemeyi durdurma komutu**
-
-```
-trivy image --exit-code 1 --severity CRITICAL,HIGH imaj-adi:etiket
-```
 - Erken aşama geri bildirimi: Geliştiriciler kodlarını uzak depoya göndermeden önce yerel ortamlarında Trivy çalıştırarak açık kaynak kütüphanelerindeki zafiyetleri anında görür.
 - Otomatik SARIF raporlama: Üretilen SARIF çıktıları GitHub Code Scanning veya GitLab Security panolarına aktarılarak ekiplerin merkezi zafiyet takibi yapması sağlanır.
 - Canlı küme denetimi (Trivy Operator): Kubernetes ortamında çalışan iş yüklerini sürekli izleyerek yeni keşfedilen sıfırıncı gün (0-day) açıklarını anlık olarak raporlar.
@@ -91,7 +73,7 @@ GitHub Actions üzerinde her kod gönderiminde (push) ve çekme isteğinde (PR) 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Secrets SBOM Open Source
+Secrets SBOM Root Workflows Database Binary
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/trivy/

@@ -2,7 +2,7 @@
 
 Die Meshoptimizer-Bibliothek optimiert dreidimensionale Netzdaten, reduziert die Dateigröße und erhöht die Rendering-Leistung. Dieses in C++ entwickelte Tool organisiert geometrische Daten, um die Speichernutzung in Grafikanwendungen zu verbessern.
 
-- ★ 8.177
+- ★ 8.452
 - C++
 - GitHub Trending · 2026-07-11
 

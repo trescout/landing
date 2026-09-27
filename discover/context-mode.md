@@ -50,7 +50,7 @@ Yapay zekâ ajanım, bundan sonra veri işleme görevlerini doğrudan yapmak yer
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-08 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Context Window Context Window Optimization Model Context Protocol Model Context Protocol Context MCP
+Context Window Optimization Context Window Model Context Protocol Model Context Protocol Context MCP
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/context-mode/

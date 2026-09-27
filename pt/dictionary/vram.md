@@ -27,6 +27,7 @@ O modelo de IA fica muito lento ou para de funcionar com um erro de ‘falta de 
 - [AI Models](/pt/dictionary/ai-models/)
 
 ## Ferramentas relacionadas
+- [Minimind](/pt/discover/minimind/)
 - [Colibri](/pt/discover/colibri/)
 - [Airllm](/pt/discover/airllm/)
 

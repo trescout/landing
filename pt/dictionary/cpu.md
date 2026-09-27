@@ -28,12 +28,13 @@ São pequenas unidades de processamento independentes dentro de um processador q
 
 ## Ferramentas relacionadas
 - [Llmfit](/pt/discover/llmfit/)
+- [CasaOS](/pt/discover/casaos/)
+- [Airllm](/pt/discover/airllm/)
+- [Wand-Enhancer](/pt/discover/wand-enhancer/)
+- [Omlx](/pt/discover/omlx/)
 - [Ktransformers](/pt/discover/ktransformers/)
 - [Pocket TTS](/pt/discover/pocket-tts/)
-- [Whichllm](/pt/discover/whichllm/)
-- [Marin](/pt/discover/marin/)
-- [Transcribe.cpp](/pt/discover/transcribe-cpp/)
-- [Sharpemu](/pt/discover/sharpemu/)
+- [ODS](/pt/discover/ods/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/cpu/

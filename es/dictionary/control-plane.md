@@ -24,8 +24,5 @@ El sistema deja de recibir nuevos comandos o manejar el tráfico, por lo que nor
 - [Network Stack](/es/dictionary/network-stack/)
 - [Cloud Native](/es/dictionary/cloud-native/)
 
-## Herramientas relacionadas
-- [Tailcat](/es/discover/tailcat/)
-
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/control-plane/

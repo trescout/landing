@@ -30,6 +30,7 @@ It is both a software and a server layer on which this software runs.
 - [Observability](/en/dictionary/observability/)
 
 ## Related tools
+- [OmniRoute](/en/discover/omniroute/)
 - [Nginx](/en/discover/nginx/)
 
 ---

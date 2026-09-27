@@ -67,7 +67,7 @@ Yeni bir web girişimi için tamamen ücretsiz servislerden oluşan modern bir b
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-27 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-SaaS PaaS IaaS Cloud Computing Open Source API
+PaaS IaaS Free Tier SaaS Caching RAM
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/free-for-dev/

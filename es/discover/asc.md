@@ -2,7 +2,7 @@
 
 ASC es una interfaz de descompilador de Android extremadamente rápida desarrollada para investigadores de aplicaciones móviles y agentes de inteligencia artificial. Escrita en Python, esta herramienta tiene como objetivo acelerar el proceso de análisis de archivos de aplicaciones complejos.
 
-- ★ 1.336
+- ★ 1.980
 - Python
 - GitHub Trending · 2026-09-16
 

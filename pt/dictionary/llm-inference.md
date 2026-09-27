@@ -27,8 +27,5 @@ A velocidade e o custo das aplicações dependem de quão eficiente é o process
 - [Inference](/pt/dictionary/inference/)
 - [Generative AI](/pt/dictionary/generative-ai/)
 
-## Ferramentas relacionadas
-- [ODS](/pt/discover/ods/)
-
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/llm-inference/

@@ -2,12 +2,12 @@
 
 Checkstyle, Java projelerinde Google Java Style ve Sun kod kurallarına uyumu otomatik denetleyen, CI/CD boru hatlarına entegre edilebilen öncü bir statik analiz aracıdır.
 
-- ★ 9.288
+- ★ 9.575
 - Java
 - GitHub Trending · 2026-08-31
 
 ## Güncelleme
-- 31 Ağustos 2026: Yıldız 9.288, sürüm v10.18.0 ile Java 23 dil özellikleri ve gelişmiş AST kural denetimi.
+- 27 Eylül 2026: Yıldız 9.288 → 9.575, son sürüm checkstyle-14.1.0 (30 Ağustos 2026).
 
 ## Ne kazandırır?
 - Kurumsal standartlara uyum: Google Java Style ve Sun Code Conventions şablonları ile ekip genelinde sıfır biçimlendirme tartışması.
@@ -33,6 +33,8 @@ java -jar checkstyle-10.18.0-all.jar -c /google_checks.xml src/
 # veya Maven ile:
 ./mvnw checkstyle:check
 ```
+
+Kaynak: Resmî kaynak: https://github.com/checkstyle/checkstyle
 
 ## Teknik mimari ve çalışma prensibi
 
@@ -69,7 +71,7 @@ Mevcut bir Spring Boot projesinde Maven ile Checkstyle eklentisini nasıl yapıl
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-31 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-CI/CD Açık Kaynak CLI Framework API
+Sun Code Conventions Parser IDE CI/CD CLI Open Source
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/checkstyle/

@@ -30,7 +30,9 @@ Yes, but it may increase transaction cost and response time.
 - [Token](/en/dictionary/token/)
 
 ## Related tools
+- [OmniRoute](/en/discover/omniroute/)
 - [Context Mode](/en/discover/context-mode/)
+- [Omlx](/en/discover/omlx/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/context-window/

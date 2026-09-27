@@ -31,13 +31,13 @@ Ja, aber für KI werden in der Regel professionelle Modelle verwendet, die mit m
 
 ## Verwandte Werkzeuge
 - [Pytorch](/de/discover/pytorch/)
+- [Minimind](/de/discover/minimind/)
+- [OpenMAIC](/de/discover/openmaic/)
 - [Llmfit](/de/discover/llmfit/)
+- [Airllm](/de/discover/airllm/)
+- [Omlx](/de/discover/omlx/)
 - [Ktransformers](/de/discover/ktransformers/)
 - [Olmocr](/de/discover/olmocr/)
-- [Cupy](/de/discover/cupy/)
-- [Needle](/de/discover/needle/)
-- [Train LLM from Scratch](/de/discover/train-llm-from-scratch/)
-- [optimizerDuck](/de/discover/optimizerduck/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/gpu/

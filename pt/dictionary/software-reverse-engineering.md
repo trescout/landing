@@ -24,8 +24,5 @@ Não deve ser confundido com a escrita de código; aqui, o objetivo não é prod
 - [Binary](/pt/dictionary/binary/)
 - [Security Scanner](/pt/dictionary/security-scanner/)
 
-## Ferramentas relacionadas
-- [Ghidra](/pt/discover/ghidra/)
-
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/software-reverse-engineering/

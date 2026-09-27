@@ -2,7 +2,7 @@
 
 OpenStock est une alternative open source aux plateformes d'échange coûteuses. Il offre un suivi des prix en temps réel, des alertes personnalisées et des analyses d'entreprise. Il est accessible à tous et gratuit pour toujours.
 
-- ★ 15 130
+- ★ 19 315
 - TypeScript
 - AGPL-3.0
 - GitHub Trending · 26 May 2026

@@ -31,6 +31,7 @@ Ja, GGUF-Versionen der meisten gängigen Modelle werden von der Community erstel
 
 ## Verwandte Werkzeuge
 - [Llama.cpp](/de/discover/llama-cpp/)
+- [ODS](/de/discover/ods/)
 - [Transcribe.cpp](/de/discover/transcribe-cpp/)
 
 ---

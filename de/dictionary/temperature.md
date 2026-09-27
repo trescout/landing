@@ -28,5 +28,8 @@ Ja, in diesem Fall wählt das Modell immer das sicherste Wort mit der höchsten 
 - [Prompt Engineering](/de/dictionary/prompt-engineering/)
 - [Hallucination](/de/dictionary/hallucination/)
 
+## Verwandte Werkzeuge
+- [OmniRoute](/de/discover/omniroute/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/temperature/

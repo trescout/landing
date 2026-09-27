@@ -35,9 +35,9 @@ Puisqu'il permet uniquement le partage des données autorisées, il n'ouvre que 
 - [Firecrawl](/fr/discover/firecrawl/)
 - [Transformers](/fr/discover/transformers/)
 - [Langflow](/fr/discover/langflow/)
+- [Free for Dev](/fr/discover/free-for-dev/)
 - [ComfyUI](/fr/discover/comfyui/)
 - [MoneyPrinterTurbo](/fr/discover/moneyprinterturbo/)
-- [Supabase](/fr/discover/supabase/)
 - [TradingAgents](/fr/discover/tradingagents/)
 
 ---

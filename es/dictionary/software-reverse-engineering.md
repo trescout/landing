@@ -24,8 +24,5 @@ Generalmente aceptado para investigaciones de seguridad, pero se debe tener prec
 - [Binary](/es/dictionary/binary/)
 - [Security Scanner](/es/dictionary/security-scanner/)
 
-## Herramientas relacionadas
-- [Ghidra](/es/discover/ghidra/)
-
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/software-reverse-engineering/

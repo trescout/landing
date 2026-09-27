@@ -2,11 +2,12 @@
 
 Everyone-can-use-english, İngilizce öğrenme sürecini yapılandırılmış bir müfredatla destekleyen açık kaynaklı bir eğitim projesi. Dil becerilerini geliştirmek isteyen kullanıcılar için pratik yöntemler ve çalışma kaynakları sunuyor.
 
-- ★ 36.451
+- ★ 38.349
 - TypeScript
 - GitHub Trending · 2026-08-13
 
 ## Güncelleme
+- 27 Eylül 2026: Yıldız 36.451 → 38.349, son sürüm v0.7.9 (7 Mart 2025).
 - 15 Ağustos 2026: Yıldız 36.233 → 36.451, son sürüm v0.7.9 (7 Mart 2025).
 
 ## Ne kazandırır?

@@ -2,28 +2,35 @@
 
 > TTS
 
-It is the vocalization of written texts with a human voice by artificial intelligence.
+Text-to-speech (TTS for short, text-to-speech) is a technology that speaks written text with the human voice.
 
-## Overview
-Text-to-Speech is a technology that allows written texts to be read by artificial intelligence in a natural and fluent human voice. This technology provides great convenience for those with reading disabilities or those with busy hands.
+## Definition and Word Origin
+The written text is analyzed, stress and intonation are determined, then the artificial intelligence model converts the text into a sound wave. The technology has gone through three generations: canonical formant synthesis, the method of combining recording parts, and today's neural models. Naturalness increased significantly with the neural belt.
 
-*Analogy: It's like someone turning the pages of a book and reading the text out loud to you as if you were in front of them.*
+## How to Know and Use in Daily Life?
+Audiobook: Listening to the article while walking. Navigation: Turn alerts. Assistants: Phone and smart speaker responses. Accessibility: Screen reading for those with reading difficulties.
 
-## How it works
-The written text is analyzed, stresses and intonations are determined. The artificial intelligence model then converts this text into sound waves and makes it audible through the speaker.
+## Technical Depth and Architecture
+The line consists of three steps:
 
-## Where it is used
-It's used constantly in audiobook apps, navigation devices, and digital assistants.
+## Frequently Mixed Things
+It is thought to be a voice recording. The record is a pre-read constant, while TTS produces each text instantaneously. Therefore, only TTS can voice the sentence that is not recorded.
 
-## Commonly confused with
-It is mixed with audio recording; However, this technology is not a pre-recorded sound, but an instantly produced sound.
+## Use in Different Disciplines
+Dubbing: Producing sound in a different language from the text. Radio: Automatic bulletin dubbing. Game: Dynamic dialogue production.
 
-## Frequently asked questions
+## Frequently Asked Questions
 **Why do voices sometimes sound robotic?**
-Naturalness may vary depending on the quality of the model used and the diversity of the data set on which it is trained.
+It is from the boundary of the model and training data. Timbre is distinctly natural in neural models trained on large and diverse data.
 
 **Can I use my own voice?**
-Yes, with voice cloning technologies, you can introduce your own voice to the system and have the texts read with your own voice.
+Yes, with voice cloning, you can have the texts read with your own voice after a short recording. Using someone else's voice without permission creates legal risks.
+
+**Is Turkish quality sufficient?**
+It is understandable in open source engines. Commercial services offer more natural prosody, it is recommended to compare with a trial.
+
+**Can it be used in commercial product?**
+It varies depending on your license. Most open engines are available for commercial use, cloud services charge per use.
 
 
 ## Related terms

@@ -2,11 +2,12 @@
 
 Rust programlama diliyle geliştirilen Pumpkin, Minecraft sunucularını daha hızlı ve verimli bir şekilde barındırmayı hedefleyen açık kaynaklı bir altyapı sunuyor. Bellek güvenliği ve yüksek performans odaklı yapısıyla sunucu yönetimi süreçlerini optimize etmeyi amaçlıyor.
 
-- ★ 11.082
+- ★ 11.354
 - Rust
 - GitHub Trending · 2026-07-23
 
 ## Güncelleme
+- 27 Eylül 2026: Yıldız 11.082 → 11.354, son sürüm 0.2.0+26.3-26.51 (20 Eylül 2026).
 - 5 Eylül 2026: Yıldız 10.510 → 11.082, son sürüm 0.1.0-dev+26.2-26.45 (4 Eylül 2026).
 - 2 Ağustos 2026: Yıldız 8.562 → 10.510.
 

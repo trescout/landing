@@ -29,6 +29,8 @@ Non, différents types de bases de données sont utilisés selon le type de donn
 
 ## Outils liés
 - [Supabase](/fr/discover/supabase/)
+- [Trivy](/fr/discover/trivy/)
+- [Gitdiagram](/fr/discover/gitdiagram/)
 - [Zvec](/fr/discover/zvec/)
 - [Cassandra](/fr/discover/cassandra/)
 

@@ -2,7 +2,7 @@
 
 LibreTranslate bietet eine kostenlose Open-Source-Schnittstelle (API) für maschinelle Übersetzung. Mit diesem Python-basierten Tool, das Sie auf Ihrem eigenen Server hosten können, können Sie offline ohne Internetverbindung arbeiten.
 
-- ★ 15.834
+- ★ 16.858
 - GitHub Trending · 2026-06-19
 
 ## Was es bringt

@@ -27,8 +27,5 @@ La vitesse et le coût des applications dépendent de l'efficacité avec laquell
 - [Inference](/fr/dictionary/inference/)
 - [Generative AI](/fr/dictionary/generative-ai/)
 
-## Outils liés
-- [ODS](/fr/discover/ods/)
-
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/llm-inference/

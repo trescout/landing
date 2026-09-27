@@ -31,6 +31,7 @@ Oui, les versions GGUF de la plupart des modèles populaires sont préparées et
 
 ## Outils liés
 - [Llama.cpp](/fr/discover/llama-cpp/)
+- [ODS](/fr/discover/ods/)
 - [Transcribe.cpp](/fr/discover/transcribe-cpp/)
 
 ---

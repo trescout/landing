@@ -2,7 +2,7 @@
 
 Octop, developed by TencentCloud, is a multi-user and multi-agent AI assistant that you can host on your own server. This Python-based system allows different users to interact with multiple AI agents simultaneously.
 
-- ★ 4,064
+- ★ 5,129
 - Python
 - GitHub Trending · 2026-09-18
 

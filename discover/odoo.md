@@ -2,8 +2,11 @@
 
 Odoo, işletmelerin tüm operasyonel süreçlerini tek bir çatı altında yönetmelerini sağlayan açık kaynaklı bir kurumsal kaynak planlama (enterprise resource planning) platformudur. Python diliyle geliştirilen bu sistem, satıştan muhasebeye kadar geniş bir yelpazede modüler iş uygulamaları sunar.
 
-- ★ 52.082
+- ★ 54.692
 - GitHub Trending · 2026-06-04
+
+## Güncelleme
+- 27 Eylül 2026: Yıldız 52.082 → 54.692.
 
 ## Ne kazandırır?
 - Satış, muhasebe ve depo gibi iş süreçlerini tek merkezden yönetir.

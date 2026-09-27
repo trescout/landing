@@ -24,7 +24,9 @@ Parce que le risque pour la sécurité est très élevé ; Si un logiciel malvei
 - [Containers](/fr/dictionary/containers/)
 
 ## Outils liés
+- [Trivy](/fr/discover/trivy/)
 - [Universal Android Debloater Next Generation](/fr/discover/universal-android-debloater-next-generation/)
+- [Tailcat](/fr/discover/tailcat/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/root/

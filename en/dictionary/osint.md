@@ -2,28 +2,35 @@
 
 > Open Source Intelligence
 
-It is a method of collecting and analyzing information from publicly available sources on the Internet.
+OSINT (Open Source Intelligence) is the discipline of analyzing publicly available information.
 
-## Overview
-You collect data from publicly accessible places, such as social media, news sites, or public records, without resorting to covert methods. By combining this data, you reach meaningful results. It is used not to access information, but to make sense of the information obtained.
+## Definition and Word Origin
+No secret path: Social media, news and public records are scanned and cross-verified. The trick is not in access, but in making sense.
 
-*Analogy: It's like reading thousands of books in a library and using only the information in those books to unravel the story behind an event.*
+## How to Know and Use in Daily Life?
+Security: Leak and trace tracking. Journalism: Source verification. Market: Competitor monitoring.
 
-## How it works
-Collect data on the relevant topic using search engines, social media tools and public databases and verify this data through cross-examination.
+## Technical Depth and Architecture
+Loop:
 
-## Where it is used
-It is widely used in cybersecurity, journalism and market research.
+## Frequently Mixed Things
+It's considered hacking. He infiltrates, he reads. One breaks down doors, the other works in the library.
 
-## Commonly confused with
-It can be confused with hacking or infiltration, but it is based on completely legal and open sources.
+## Use in Different Disciplines
+Library: Result from thousands of books. Detective: Tracking. Archeology: Whole from parts.
 
-## Frequently asked questions
-**Is OSINT legal?**
-Yes, it's completely legal since you're just using publicly available information.
+## Frequently Asked Questions
+**Is it legal?**
+Yes, as long as it's limited to open source. Unauthorized access is a crime.
 
-**What tools are used?**
-Basic tools like Google searches, social media browsers and mapping services are sufficient.
+**Which tools?**
+Search engine, map and social browsing are enough. Expert combines data.
+
+**Where to start?**
+With one question and a list of resources. The habit of verification is acquired.
+
+**What is the limit?**
+Private data and unauthorized profiling are prohibited. No unintended processing is allowed.
 
 
 ## Related terms

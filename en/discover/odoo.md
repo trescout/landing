@@ -2,7 +2,7 @@
 
 Odoo is an open source enterprise resource planning platform that allows businesses to manage all their operational processes under a single roof. Developed with Python language, this system offers a wide range of modular business applications from sales to accounting.
 
-- ★ 52,082
+- ★ 54,692
 - GitHub Trending · 2026-06-04
 
 ## What you get

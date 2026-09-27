@@ -2,11 +2,12 @@
 
 Omniget, 1.800'den fazla platformdan video, müzik ve kitap indirmeyi sağlayan açık kaynaklı bir masaüstü uygulamasıdır. İçerisinde yerleşik bir kurs oynatıcısı, e-kitap okuyucu ve müzik kütüphanesi bulunduran bu araç, indirme işlemlerini terminal kullanmadan grafik arayüz üzerinden gerçekleştirir.
 
-- ★ 13.300
+- ★ 14.413
 - Rust
 - GitHub Trending · 2026-09-14
 
 ## Güncelleme
+- 27 Eylül 2026: Yıldız 13.300 → 14.413, son sürüm v0.10.1 (21 Eylül 2026).
 - 16 Eylül 2026: Yıldız 12.132 → 13.300, son sürüm v0.9.2 (11 Eylül 2026).
 - 14 Eylül 2026: Yıldız 12.126 → 12.132, son sürüm v0.9.2 (11 Eylül 2026).
 

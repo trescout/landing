@@ -30,6 +30,8 @@ Sí, la automatización es el núcleo del concepto de canalización.
 ## Herramientas relacionadas
 - [Transformers](/es/discover/transformers/)
 - [OpenMontage](/es/discover/openmontage/)
+- [Freellmapi](/es/discover/freellmapi/)
+- [Sonarr](/es/discover/sonarr/)
 - [Liteparse](/es/discover/liteparse/)
 
 ---

@@ -2,7 +2,7 @@
 
 Odoo es una plataforma de planificación de recursos empresariales de código abierto que permite a las empresas gestionar todos sus procesos operativos bajo un mismo techo. Desarrollado con lenguaje Python, este sistema ofrece una amplia gama de aplicaciones comerciales modulares, desde ventas hasta contabilidad.
 
-- ★ 52.082
+- ★ 54.692
 - GitHub Trending · 2026-06-04
 
 ## Qué aporta

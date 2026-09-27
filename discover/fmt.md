@@ -2,11 +2,12 @@
 
 fmt, C++ programlama dili için geliştirilen modern bir metin biçimlendirme kütüphanesidir. Standart C++ kütüphanesindeki printf ve iostream yöntemlerine, daha hızlı ve güvenli bir alternatif sunar.
 
-- ★ 24.577
+- ★ 25.810
 - C++
 - GitHub Trending · 2026-09-03
 
 ## Güncelleme
+- 27 Eylül 2026: Yıldız 24.577 → 25.810, son sürüm 12.2.0 (16 Haziran 2026).
 - 3 Eylül 2026: Yıldız 24.572 → 24.577, son sürüm 12.2.0 (16 Haziran 2026).
 
 ## Ne kazandırır?

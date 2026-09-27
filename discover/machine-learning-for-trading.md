@@ -2,10 +2,11 @@
 
 Stefan Jansen tarafından hazırlanan bu kaynak, algoritmik ticarette makine öğrenimi (machine learning) uygulamaları için kapsamlı kod örnekleri ve Jupyter not defterleri sunuyor. Finansal piyasalarda veri analizi ve tahmin modelleri geliştirmek isteyenler için pratik bir rehber niteliği taşıyor.
 
-- ★ 20.241
+- ★ 21.060
 - GitHub Trending · 2026-06-02
 
 ## Güncelleme
+- 27 Eylül 2026: Yıldız 20.241 → 21.060, son sürüm v3.1.0-artifacts (20 Eylül 2026).
 - 2 Ağustos 2026: Yıldız 18.065 → 20.241, son sürüm v3.0.0-artifacts (24 Temmuz 2026).
 
 ## Ne kazandırır?

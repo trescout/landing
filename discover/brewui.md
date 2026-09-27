@@ -2,11 +2,12 @@
 
 Homebrew, macOS işletim sisteminde yazılım paketlerini yönetmeye yarayan bir komut satırı aracıdır. BrewUI ise bu aracın karmaşık komutlarını grafiksel bir arayüzle (GUI) yönetmenizi sağlayan resmi bir masaüstü uygulamasıdır.
 
-- ★ 2.014
+- ★ 2.283
 - Swift
 - GitHub Trending · 2026-09-16
 
 ## Güncelleme
+- 27 Eylül 2026: Yıldız 2.014 → 2.283, son sürüm v0.4.4 (22 Eylül 2026).
 - 18 Eylül 2026: Yıldız 1.658 → 2.014, son sürüm v0.4.3 (17 Eylül 2026).
 - 16 Eylül 2026: Yıldız 1.654 → 1.658, son sürüm v0.4.2 (15 Eylül 2026).
 

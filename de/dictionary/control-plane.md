@@ -24,8 +24,5 @@ Das System ist nicht mehr in der Lage, neue Befehle zu empfangen oder den Datenv
 - [Network Stack](/de/dictionary/network-stack/)
 - [Cloud Native](/de/dictionary/cloud-native/)
 
-## Verwandte Werkzeuge
-- [Tailcat](/de/discover/tailcat/)
-
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/control-plane/

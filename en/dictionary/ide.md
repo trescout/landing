@@ -37,6 +37,7 @@ Some IDEs are focused on specific languages, while others can work in almost any
 - [Free Claude Code](/en/discover/free-claude-code/)
 - [Continue](/en/discover/continue/)
 - [Oh My Pi](/en/discover/oh-my-pi/)
+- [Checkstyle](/en/discover/checkstyle/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/ide/

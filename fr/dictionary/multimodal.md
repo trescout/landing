@@ -31,6 +31,8 @@ Oui, ils peuvent comprendre le contenu du contenu en analysant les vidéos image
 
 ## Outils liés
 - [UI-TARS-desktop](/fr/discover/ui-tars-desktop/)
+- [Patent Disclosure Skill](/fr/discover/patent-disclosure-skill/)
+- [ODS](/fr/discover/ods/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/multimodal/

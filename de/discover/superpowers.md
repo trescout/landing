@@ -2,7 +2,7 @@
 
 Superpowers ist eine umfassende Softwareentwicklungsmethodik mit zusammengesetzten Fähigkeiten für Ihre Programmieragenten. Standardisiert agentenbasierte Arbeitsabläufe. Funktioniert mit Claude Code, Codex CLI, Gemini CLI und mehr.
 
-- ★ 288.623
+- ★ 291.963
 - Shell
 - MIT
 - GitHub Trending · 28 May 2026

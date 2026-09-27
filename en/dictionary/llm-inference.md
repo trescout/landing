@@ -29,8 +29,5 @@ The speed and cost of applications depend on how efficiently the inference proce
 - [Inference](/en/dictionary/inference/)
 - [Generative AI](/en/dictionary/generative-ai/)
 
-## Related tools
-- [ODS](/en/discover/ods/)
-
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/llm-inference/

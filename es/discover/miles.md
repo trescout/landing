@@ -2,7 +2,7 @@
 
 Miles es un marco orientado a empresas que gestiona procesos de aprendizaje por refuerzo para modelos de lenguaje grandes (LLM) y modelos de lenguaje visual (VLM). Desarrollada para optimizar los procesos de post-entrenamiento, esta herramienta basada en Python evoluciona simultáneamente con el proyecto slime.
 
-- ★ 2.603
+- ★ 3.003
 - Python
 - GitHub Trending · 2026-09-05
 

@@ -24,8 +24,5 @@ O sistema torna-se incapaz de receber novos comandos ou gerenciar o tráfego, po
 - [Network Stack](/pt/dictionary/network-stack/)
 - [Cloud Native](/pt/dictionary/cloud-native/)
 
-## Ferramentas relacionadas
-- [Tailcat](/pt/discover/tailcat/)
-
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/control-plane/

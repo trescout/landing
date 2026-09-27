@@ -28,7 +28,9 @@ Oui, mais cela peut augmenter les coûts de transaction et le temps de réponse.
 - [Token](/fr/dictionary/token/)
 
 ## Outils liés
+- [OmniRoute](/fr/discover/omniroute/)
 - [Context Mode](/fr/discover/context-mode/)
+- [Omlx](/fr/discover/omlx/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/context-window/

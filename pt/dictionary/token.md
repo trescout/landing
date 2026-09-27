@@ -33,9 +33,9 @@ Como os computadores entendem números e não palavras, precisamos converter o t
 - [OmniRoute](/pt/discover/omniroute/)
 - [Codebase Memory MCP](/pt/discover/codebase-memory-mcp/)
 - [Open Code Review](/pt/discover/open-code-review/)
-- [Code Review Graph](/pt/discover/code-review-graph/)
+- [Airllm](/pt/discover/airllm/)
 - [Book to Skill](/pt/discover/book-to-skill/)
-- [TencentDB-Agent-Memory](/pt/discover/tencentdb-agent-memory/)
+- [Code Review Graph](/pt/discover/code-review-graph/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/token/

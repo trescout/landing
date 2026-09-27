@@ -2,15 +2,15 @@
 
 Croc, iki bilgisayar arasında uçtan uca şifreleme (end-to-end encryption) kullanarak güvenli dosya ve veri aktarımı sağlayan bir araçtır. Go programlama diliyle geliştirilen bu yazılım, aktarım sürecini kolaylaştırmak için geçici bir röle (relay) mekanizması kullanır.
 
-- ★ 40.324
+- ★ 40.451
 - Go
 - GitHub Trending · 2026-07-22
 
 ## Güncelleme
+- 27 Eylül 2026: Yıldız 40.324 → 40.451, son sürüm v11.5.4 (26 Eylül 2026).
 - 14 Eylül 2026: Yıldız 40.287 → 40.324, son sürüm v11.5.3 (13 Eylül 2026).
 - 10 Eylül 2026: Yıldız 40.279 → 40.287, son sürüm v11.5.2 (9 Eylül 2026).
 - 9 Eylül 2026: Yıldız 40.262 → 40.279, son sürüm v11.5.1 (8 Eylül 2026).
-- 7 Eylül 2026: Yıldız 40.219 → 40.262, son sürüm v11.5.0 (6 Eylül 2026).
 
 ## Ne kazandırır?
 - Uçtan uca şifreli veri gönderimi

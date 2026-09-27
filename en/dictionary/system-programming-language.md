@@ -1,27 +1,34 @@
 # What is System Programming Language?
 
-It is a powerful language used to develop basic level software such as an operating system or hardware driver.
+System programming languages ​​are languages ​​that speak to hardware.
 
-## Overview
-They are languages ​​that can talk directly to the computer's hardware and provide full control over memory management. They are very fast but less tolerant of making mistakes.
+## Definition and Word Origin
+It gives full control in memory management, runs fast, and has low tolerance for errors. C, C++ and Rust are known examples. The operating system, driver and game engine are written in these languages.
 
-*Analogy: It's like dealing directly with the engine and transmission of a car instead of painting the bodywork on it.*
+## How to Know and Use in Daily Life?
+Operating system: Kernel and drivers. Game: Engine core. Server: High traffic services.
 
-## How it works
-These languages ​​allow you to manage down to the smallest detail how the hardware operates.
+## Technical Depth and Architecture
+Features:
 
-## Where it is used
-It is used in operating systems (Windows, Linux), game engines and high-performance servers.
+## Frequently Mixed Things
+They are considered web languages. They deal with the interface, these with the hardware. One is the showcase, the other is the engine.
 
-## Commonly confused with
-Not to be confused with web languages; While web languages ​​deal more with the user interface, these deal with the hardware.
+## Use in Different Disciplines
+Engine: Mechanical, not the body. Foundation: The carrier of the building. Skeleton: The roof of the body.
 
-## Frequently asked questions
-**Which languages ​​fall into this category?**
-C, C++ and Rust are the most well-known examples.
+## Frequently Asked Questions
+**Which ones enter?**
+C, C++ and Rust are the most known. Go and Zig also approach this class.
 
-**Why doesn't everyone use these languages?**
-It is difficult to learn and requires very careful coding.
+**Why doesn't everyone use it?**
+It is difficult to learn and requires attention. There is a cost to efficiency.
+
+**Which one to start with?**
+Rust is modern and guiding. C is the classic for laying the groundwork.
+
+**Can the web be written?**
+It can be written but it is not practical. The right job is done with the right language.
 
 
 ## Related terms

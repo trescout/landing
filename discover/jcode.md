@@ -2,15 +2,15 @@
 
 Rust diliyle geliştirilen jcode, kodlama odaklı yapay zekâ ajanlarını test etmek ve değerlendirmek için bir çerçeve (harness) sunuyor. Yazılım geliştirme süreçlerinde kullanılan ajanların performansını ölçmek amacıyla standart bir altyapı sağlıyor.
 
-- ★ 19.885
+- ★ 20.149
 - Rust
 - GitHub Trending · 2026-06-21
 
 ## Güncelleme
+- 27 Eylül 2026: Yıldız 19.885 → 20.149, son sürüm v0.88.0 (23 Eylül 2026).
 - 19 Eylül 2026: Yıldız 19.260 → 19.885, son sürüm v0.85.0 (19 Eylül 2026).
 - 7 Eylül 2026: Yıldız 19.190 → 19.260, son sürüm v0.84.0 (7 Eylül 2026).
 - 6 Eylül 2026: Yıldız 19.126 → 19.190, son sürüm v0.82.0 (6 Eylül 2026).
-- 5 Eylül 2026: Yıldız 19.081 → 19.126, son sürüm v0.81.7 (4 Eylül 2026).
 
 ## Ne kazandırır?
 - Çoklu oturum iş akışlarında yüksek kaynak verimliliği

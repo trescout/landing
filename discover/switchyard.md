@@ -2,11 +2,12 @@
 
 NVIDIA tarafından geliştirilen Switchyard, Rust diliyle yazılmış yüksek performanslı bir yapay zekâ çıkarım (inference) motoru. Büyük dil modellerini (LLM) farklı donanım altyapılarında verimli şekilde çalıştırmak için optimize edilmiş bir çalışma zamanı (runtime) ortamı sunuyor.
 
-- ★ 2.617
+- ★ 3.227
 - Rust
 - GitHub Trending · 2026-08-13
 
 ## Güncelleme
+- 27 Eylül 2026: Yıldız 2.617 → 3.227, son sürüm v0.3.0 (22 Eylül 2026).
 - 31 Ağustos 2026: Yıldız 1.566 → 2.617, son sürüm v0.2.0 (10 Ağustos 2026).
 - 15 Ağustos 2026: Yıldız 923 → 1.566, son sürüm v0.2.0 (10 Ağustos 2026).
 
@@ -53,7 +54,7 @@ Benim için bir yapay zekâ trafik yönlendiricisi olarak hareket et. Switchyard
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-13 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Inference Runtime LLM API Rust Artificial Intelligence
+Inference Runtime LLM Rust API Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/switchyard/

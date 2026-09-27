@@ -2,7 +2,7 @@
 
 Publié par Microsoft, VibeVoice a été développé comme un framework d'IA vocale open source. Grâce à sa structure basée sur Python, le système permet aux utilisateurs de former leurs propres modèles sonores et de les intégrer dans leurs applications.
 
-- ★ 51 860
+- ★ 54 502
 - GitHub Trending · 2026-06-07
 
 ## Ce que ça vous apporte

@@ -23,5 +23,8 @@ Nein, Xcode läuft nur auf Apples macOS-Betriebssystem.
 - [Coding Agent](/de/dictionary/coding-agent/)
 - [Frontend Stack](/de/dictionary/frontend-stack/)
 
+## Verwandte Werkzeuge
+- [Ipatool](/de/discover/ipatool/)
+
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/xcode/

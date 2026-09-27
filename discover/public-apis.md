@@ -2,9 +2,12 @@
 
 Public-apis, uygulama geliştiricilerin projelerinde kullanabileceği ücretsiz uygulama programlama arayüzlerini (API) kategorize edilmiş bir şekilde sunan kapsamlı bir liste. Yazılım geliştirme süreçlerinde ihtiyaç duyulan harici veri kaynaklarına erişimi kolaylaştıran merkezi bir referans noktası görevi görüyor.
 
-- ★ 460.356
+- ★ 483.588
 - Python
 - GitHub Trending · 2026-08-16
+
+## Güncelleme
+- 27 Eylül 2026: Yıldız 460.356 → 483.588.
 
 ## Ne kazandırır?
 - Uygulama geliştirme süreçlerinde ihtiyaç duyulan veriye hızlı erişim sağlar.

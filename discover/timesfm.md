@@ -2,15 +2,15 @@
 
 Google Research tarafından geliştirilen Zaman Serisi Temel Modeli (Time Series Foundation Model), zaman serisi tahminleme işlemleri için önceden eğitilmiş bir yapı sunuyor. Model, farklı veri setleri üzerinde genel tahminleme yetenekleri sağlamak amacıyla tasarlanmıştır.
 
-- ★ 31.902
+- ★ 33.792
 - Python
 - GitHub Trending · 2026-06-18
 
 ## Güncelleme
+- 27 Eylül 2026: Yıldız 31.902 → 33.792, son sürüm v3.0.0 (28 Ağustos 2026).
 - 8 Eylül 2026: Yıldız 30.360 → 31.902, son sürüm v3.0.0 (28 Ağustos 2026).
 - 3 Eylül 2026: Yıldız 28.335 → 30.360, son sürüm v3.0.0 (28 Ağustos 2026).
 - 31 Ağustos 2026: Yıldız 27.185 → 28.335, son sürüm v3.0.0 (28 Ağustos 2026).
-- 2 Ağustos 2026: Yıldız 22.167 → 27.185, son sürüm v2.0.2 (2 Temmuz 2026).
 
 ## Ne kazandırır?
 - Önceden eğitilmiş temel model ile hızlı tahminleme

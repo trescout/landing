@@ -35,9 +35,9 @@ Dado que solo permite compartir datos permitidos, solo abre la parte relevante d
 - [Firecrawl](/es/discover/firecrawl/)
 - [Transformers](/es/discover/transformers/)
 - [Langflow](/es/discover/langflow/)
+- [Free for Dev](/es/discover/free-for-dev/)
 - [ComfyUI](/es/discover/comfyui/)
 - [MoneyPrinterTurbo](/es/discover/moneyprinterturbo/)
-- [Supabase](/es/discover/supabase/)
 - [TradingAgents](/es/discover/tradingagents/)
 
 ---

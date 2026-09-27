@@ -38,7 +38,7 @@ Ktransformers kullanarak büyük dil modellerini CPU ve GPU üzerinde heterojen 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Fine-tuning CPU GPU Large Language Models Artificial Intelligence
+Fine-tuning CPU Large Language Models GPU Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ktransformers/

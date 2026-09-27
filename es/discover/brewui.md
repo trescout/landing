@@ -2,7 +2,7 @@
 
 Homebrew es una herramienta de línea de comandos para gestionar paquetes de software en el sistema operativo macOS. BrewUI es una aplicación de escritorio oficial que le permite gestionar los comandos complejos de esta herramienta a través de una interfaz gráfica (GUI).
 
-- ★ 2.014
+- ★ 2.283
 - Swift
 - GitHub Trending · 2026-09-16
 

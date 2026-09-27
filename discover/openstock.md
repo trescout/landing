@@ -2,12 +2,13 @@
 
 OpenStock , pahalı borsa platformlarına karşı geliştirilmiş açık kaynaklı bir alternatiftir. Gerçek zamanlı fiyat takibi, kişiselleştirilmiş uyarılar ve şirket analizleri sunar. Herkes için erişilebilir ve sonsuza dek ücretsizdir.
 
-- ★ 15.130
+- ★ 19.315
 - TypeScript
 - AGPL-3.0
 - GitHub Trending · 26 May 2026
 
 ## Güncelleme
+- 27 Eylül 2026: Yıldız 15.130 → 19.315.
 - 18 Eylül 2026: Yıldız 14.018 → 15.130.
 - 2 Ağustos 2026: Yıldız 11.968 → 14.018.
 

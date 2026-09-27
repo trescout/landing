@@ -2,7 +2,7 @@
 
 Anki est un logiciel de cartes mémoire qui facilite l'apprentissage en utilisant l'algorithme de répétition espacée (spaced repetition). Développé en langage Rust, cet outil open source aide les utilisateurs à transférer des informations complexes dans leur mémoire à long terme.
 
-- ★ 31 285
+- ★ 31 583
 - Rust
 - GitHub Trending · 2026-09-19
 

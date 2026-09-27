@@ -2,7 +2,7 @@
 
 fmt is a modern text formatting library developed for the C++ programming language. It offers a faster and safer alternative to the printf and iostream methods in the standard C++ library.
 
-- ★ 24,577
+- ★ 25,810
 - C++
 - GitHub Trending · 2026-09-03
 

@@ -2,7 +2,7 @@
 
 Publicado por Microsoft, VibeVoice fue desarrollado como un marco de inteligencia artificial de voz de código abierto. Con su estructura basada en Python, el sistema permite a los usuarios entrenar sus propios modelos de sonido e integrarlos en sus aplicaciones.
 
-- ★ 51.860
+- ★ 54.502
 - GitHub Trending · 2026-06-07
 
 ## Qué aporta

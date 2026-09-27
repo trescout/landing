@@ -33,6 +33,8 @@ Yes, they can understand what is in the content by analyzing videos frame by fra
 
 ## Related tools
 - [UI-TARS-desktop](/en/discover/ui-tars-desktop/)
+- [Patent Disclosure Skill](/en/discover/patent-disclosure-skill/)
+- [ODS](/en/discover/ods/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/multimodal/

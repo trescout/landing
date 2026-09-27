@@ -1,27 +1,34 @@
 # What is AI Agent?
 
-It is an autonomous artificial intelligence system that makes decisions and performs tasks on its own.
+AI agent (in Turkish, artificial intelligence agent) is autonomous software that uses tools and makes decisions to achieve the goal.
 
-## Overview
-They are autonomous software that not only answers the question but also uses tools and makes decisions to achieve the goal. Can plan steps to complete a task on his own.
+## Definition and Word Origin
+The chatbot answers the question, the agent finishes the job. The target is given, plans the steps, makes a call, reads a file, calls a vehicle. He tries to complete the task on his own. So beyond the assistant, it is the outline of the employee.
 
-*Analogy: It is not just a book that gives recipes, it is like an assistant chef who goes into the kitchen and cooks the food according to the recipe, and if there are missing ingredients, he goes to the market and buys them.*
+## How to Know and Use in Daily Life?
+E-mail: Collecting the inbox and making a summary. Research: Scanning the source and writing a report. Code: Browsing the repository and recommending patches.
 
-## How it works
-The agent divides the target given to it into small tasks. It searches the internet, reads files or communicates with other software when needed.
+## Technical Depth and Architecture
+The cycle is as follows:
 
-## Where it is used
-It is used in automatic email responding systems, complex data analysis projects or personal assistants.
+## Frequently Mixed Things
+It is thought to be a chatbot. Chatbot talks, agent takes action. The chat interface looks the same, the background worker is different.
 
-## Commonly confused with
-It is confused with ordinary chatbots; The chatbot just talks, the agent takes action.
+## Use in Different Disciplines
+Assistant chef: Read the recipe and cook the food.Valet: Take the key, finish the job and bring it back.Travel agency: Collect tickets, hotel and transfer.
 
-## Frequently asked questions
+## Frequently Asked Questions
 **Can agents be dangerous?**
-They can perform incorrect operations when left uncontrolled, which is why human supervision is important.
+If left unsupervised, it may misbehave. Authority level and human approval manage risk.
 
 **How do agents make decisions?**
-They progress by making probability calculations in line with the rules and targets given to them.
+It calculates the probability according to the target and rules, and updates the plan by looking at the tool results.
+
+**What is the difference with chatbot?**
+The chatbot generates the response, the agent completes the job. The agent calls for a ride and makes changes to the outside world.
+
+**What tools does it use?**
+Defined capabilities such as search, file, calendar, API and code execution. The list opens by task.
 
 
 ## Related terms

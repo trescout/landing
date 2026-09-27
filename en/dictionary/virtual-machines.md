@@ -1,27 +1,34 @@
 # What is Virtual Machines?
 
-They are virtual operating systems that run inside a computer as if it were a separate device.
+A virtual machine is an independent computer that shares hardware.
 
-## Overview
-Virtual machines allow you to run multiple operating systems simultaneously on a single computer by partitioning your physical hardware. Each virtual machine behaves as if it were its own independent computer and uses its own resources. In this way, you can safely try different software or settings without damaging your main system.
+## Definition and Word Origin
+"Virtual" means virtual. Runs multiple operating systems on a single machine. Each of them works isolated with its own source and does not harm the main system.
 
-*Analogy: It's like renting independent rooms within a single house, each with its own furniture and door; Even though the rooms share the same building, they are completely independent from each other.*
+## How to Know and Use in Daily Life?
+Server: Multi-tenant hosting. Testing: Different system trial. Development: Clean trial environment.
 
-## How it works
-You separate part of your hardware with the help of software. You install an operating system in this reserved section. This system you have installed begins to work in its own world without the knowledge of your main computer.
+## Technical Depth and Architecture
+Layers:
 
-## Where it is used
-It is used in server management, software testing and in jobs that require different operating systems.
+## Frequently Mixed Things
+It is considered a container. The machine is the full system, the container is the shared kernel. One is an apartment, the other is a roommate.
 
-## Commonly confused with
-Frequently mixed with containers; While virtual machines carry a full operating system, containers carry only the application.
+## Use in Different Disciplines
+Rooms: Partitions with independent doors. Apartment: Shared building, private area. Suitcase: Partitioned transportation.
 
-## Frequently asked questions
-**Does a virtual machine slow down the computer?**
-Yes, because it works by sharing the processor and memory resources of your host computer.
+## Frequently Asked Questions
+**Does it slow down?**
+There is a sharing fee. It is not noticeable when sizing correctly.
 
-**If a virus occurs in the virtual machine, does it transfer to the host computer?**
-Usually no, because the virtual machine is in an isolated environment from the host system.
+**Will the virus pass?**
+Generally no. Isolation is strong, shared folder is controlled.
+
+**How much resources are given?**
+It is determined by the job. It is adjusted gradually by monitoring.
+
+**What is the container difference?**
+The machine carries the system, container application. Insulation and speed are traded off.
 
 
 ## Related terms

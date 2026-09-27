@@ -2,7 +2,7 @@
 
 Miles ist ein unternehmensorientiertes Framework, das Reinforcement-Learning-Prozesse für große Sprachmodelle (LLMs) und visuelle Sprachmodelle (VLMs) verwaltet. Dieses Python-basierte Tool wurde zur Optimierung von Post-Training-Prozessen entwickelt und entwickelt sich parallel zum Slime-Projekt weiter.
 
-- ★ 2.603
+- ★ 3.003
 - Python
 - GitHub Trending · 2026-09-05
 

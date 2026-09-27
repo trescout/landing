@@ -32,7 +32,10 @@ Generally no, they can generate revenue from your data.
 - [Offline](/en/dictionary/offline/)
 
 ## Related tools
+- [CasaOS](/en/discover/casaos/)
+- [Sonarr](/en/discover/sonarr/)
 - [Amnezia Client](/en/discover/amnezia-client/)
+- [Tailcat](/en/discover/tailcat/)
 - [MasterDnsVPN](/en/discover/masterdnsvpn/)
 
 ---

@@ -69,7 +69,7 @@ Kişisel ev sunucumda CasaOS kurulu. Evimdeki tüm cihazlar için AdGuard Home (
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Self-Hosted Offline Open Source Local
+VPN RAM Self-hosted CPU Terminal Open Source
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/casaos/

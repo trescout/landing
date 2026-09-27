@@ -2,7 +2,7 @@
 
 Dieser von Microsoft erstellte Schulungsinhalt bietet einen 21-Stunden-Lehrplan für diejenigen, die in Technologien der generativen künstlichen Intelligenz (generative KI) einsteigen möchten. Diese Ressource im Jupyter Notebook-Format vermittelt Entwicklern grundlegende Konzepte und Implementierungsmethoden zum Erstellen ihrer eigenen Projekte.
 
-- ★ 114.349
+- ★ 120.620
 - Jupyter Notebook
 - GitHub Trending · 2026-08-02
 

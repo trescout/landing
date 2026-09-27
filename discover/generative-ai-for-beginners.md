@@ -2,9 +2,12 @@
 
 Microsoft tarafından hazırlanan bu eğitim içeriği, üretken yapay zekâ (generative AI) teknolojilerine giriş yapmak isteyenler için 21 derslik bir müfredat sunuyor. Jupyter Notebook formatındaki bu kaynak, geliştiricilerin kendi projelerini oluşturmaları için temel kavramları ve uygulama yöntemlerini öğretiyor.
 
-- ★ 114.349
+- ★ 120.620
 - Jupyter Notebook
 - GitHub Trending · 2026-08-02
+
+## Güncelleme
+- 27 Eylül 2026: Yıldız 114.349 → 120.620.
 
 ## Ne kazandırır?
 - 21 derslik kapsamlı müfredat

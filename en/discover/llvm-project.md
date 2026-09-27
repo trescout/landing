@@ -2,7 +2,7 @@
 
 The LLVM Project is an infrastructure that provides modular and reusable compiler and toolchain technologies. It enables code optimization and adaptation to different hardware architectures in software development processes.
 
-- ★ 40,353
+- ★ 40,755
 - LLVM
 - GitHub Trending · 2026-09-07
 

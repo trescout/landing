@@ -2,12 +2,12 @@
 
 GoogleTest ve GoogleMock, modern C++ projelerinde birim testleri, sahte nesneler (mock) ve parametrik testler çalıştırmanızı sağlayan endüstri standardı açık kaynak test çatısıdır.
 
-- ★ 38.987
+- ★ 39.588
 - C++
 - GitHub Trending · 2026-08-27
 
 ## Güncelleme
-- 27 Ağustos 2026: Yıldız 38.987, v1.15.2 sürümü ile C++20 konseptleri ve gelişmiş mock doğrulama desteği.
+- 27 Eylül 2026: Yıldız 38.987 → 39.588, son sürüm v1.18.0 (10 Ağustos 2026).
 
 ## Ne kazandırır?
 - Zengin doğrulama makroları: ASSERT_* (kritik hata, testi sonlandırır) ve EXPECT_* (hatayı kaydeder, test akışını devam ettirir) makroları ile net hata teşhisi.
@@ -38,6 +38,8 @@ cmake -B build -S .
 cmake --build build
 ctest --test-dir build --output-on-failure
 ```
+
+Kaynak: Resmî kaynak: https://github.com/google/googletest
 
 ## Teknik mimari ve çalışma prensibi
 
@@ -74,7 +76,7 @@ Modern bir C++ projesinde GoogleTest ve GoogleMock kullanarak bir veri ayrışt�
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-27 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-CI/CD Açık Kaynak CLI API Framework
+Parser CI/CD API Open Source Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/googletest/

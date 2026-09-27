@@ -2,7 +2,7 @@
 
 Hyperresearch is an AI agent-based research tool that collects data from the internet, analyzes it, and transforms it into a permanent knowledge base. Developed with Python, this system consolidates scattered internet research into an organized and searchable wiki structure.
 
-- ★ 2,835
+- ★ 3,632
 - Python
 - GitHub Trending · 2026-09-12
 

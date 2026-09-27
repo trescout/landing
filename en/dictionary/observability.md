@@ -1,34 +1,41 @@
 # What is Observability?
 
-It is the ability to monitor the internal state of a system with external data.
+Observability is the ability to understand the inside of the system with external data.
 
-## Overview
-Observability is an observation mechanism that allows us to understand what is happening in the inner world of complex software systems. It not only warns when there is an error, but also explains with data why the system slows down or does not produce the expected results.
+## Definition and Word Origin
+"Observe" means to observe. The error light tells you the problem, the dashboard explains why. Observability is the panel: The source of slowness and deviation is found with the data.
 
-*Analogy: Just turning on your car's engine malfunction light is error monitoring, but the dashboard that instantly monitors engine temperature, oil pressure and fuel flow provides observability.*
+## How to Know and Use in Daily Life?
+Server: Finding the source of slowness.Model: Deviation monitoring.Product: Usage monitoring.
 
-## How it works
-Logs, metrics and monitoring data from the system are collected. By combining these data, the health status of the system is visualized. Thus, the problem can be detected before it is reflected to the user.
+## Technical Depth and Architecture
+Three columns:
 
-## Where it is used
-It is used in large server networks and to monitor the performance of artificial intelligence models. It is a critical tool, especially for finding where the system is clogged.
+## Frequently Mixed Things
+It is considered monitoring. Monitoring monitors the threshold, observability explains the reason. One is alarm, the other is diagnostic.
 
-## Commonly confused with
-It's often confused with 'monitoring', which is just logging errors, but observability focuses on understanding why the system is failing.
+## Use in Different Disciplines
+Panel: Speed ​​and fuel indicators. Hospital: Patient monitor. Cockpit: Flight screens.
 
-## Frequently asked questions
-**Why isn't just keeping an error log enough?**
-The error log tells the problem but does not explain the reason, while observability allows you to see all the steps inside the system.
+## Frequently Asked Questions
+**Why isn't registration enough?**
+The record tells the problem, not the cause. When the three columns come together, the picture is completed.
 
-**Is it required for every system?**
-It may be an exaggeration for simple applications, but it is vital in artificial intelligence systems consisting of many parts.
+**Is it necessary for every system?**
+It would be an exaggeration in a simple task, but it would be vital in a fragmented system. Scale decides.
+
+**What does it cost?**
+There is a transportation and storage fee. Sampling and duration policy keeps the cost.
+
+**Where to start?**
+From structured record and correlation ID. Then the metric and trace are added.
 
 
 ## Related terms
-- [Observability](/en/dictionary/observability/)
+- [Logs](/en/dictionary/logs/)
+- [Traces](/en/dictionary/traces/)
 - [State Management](/en/dictionary/state-management/)
 - [Data Pipeline](/en/dictionary/data-pipeline/)
-- [API](/en/dictionary/api/)
 
 ## Related tools
 - [Posthog](/en/discover/posthog/)

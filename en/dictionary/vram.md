@@ -29,6 +29,7 @@ The AI ​​model becomes too slow or stops working with an 'out of memory' err
 - [AI Models](/en/dictionary/ai-models/)
 
 ## Related tools
+- [Minimind](/en/discover/minimind/)
 - [Colibri](/en/discover/colibri/)
 - [Airllm](/en/discover/airllm/)
 

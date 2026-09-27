@@ -28,6 +28,7 @@ Uma camada intermediária é sempre mais eficiente para segurança, velocidade e
 - [Observability](/pt/dictionary/observability/)
 
 ## Ferramentas relacionadas
+- [OmniRoute](/pt/discover/omniroute/)
 - [Nginx](/pt/discover/nginx/)
 
 ---

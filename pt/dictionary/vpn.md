@@ -30,7 +30,10 @@ Geralmente não, eles podem gerar receita com seus dados.
 - [Offline](/pt/dictionary/offline/)
 
 ## Ferramentas relacionadas
+- [CasaOS](/pt/discover/casaos/)
+- [Sonarr](/pt/discover/sonarr/)
 - [Amnezia Client](/pt/discover/amnezia-client/)
+- [Tailcat](/pt/discover/tailcat/)
 - [MasterDnsVPN](/pt/discover/masterdnsvpn/)
 
 ---

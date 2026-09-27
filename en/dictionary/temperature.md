@@ -30,5 +30,8 @@ Yes, in this case the model always chooses the safest and highest probability wo
 - [Prompt Engineering](/en/dictionary/prompt-engineering/)
 - [Hallucination](/en/dictionary/hallucination/)
 
+## Related tools
+- [OmniRoute](/en/discover/omniroute/)
+
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/temperature/

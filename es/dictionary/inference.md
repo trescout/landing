@@ -31,11 +31,9 @@ No, el modelo sólo hace predicciones utilizando la información que tiene dispo
 - [Llama.cpp](/es/discover/llama-cpp/)
 - [Ds4](/es/discover/ds4/)
 - [LTX 2](/es/discover/ltx-2/)
-- [ODS](/es/discover/ods/)
 - [Magnitude](/es/discover/magnitude/)
 - [SIE](/es/discover/sie/)
 - [Switchyard](/es/discover/switchyard/)
-- [Transcribe.cpp](/es/discover/transcribe-cpp/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/inference/

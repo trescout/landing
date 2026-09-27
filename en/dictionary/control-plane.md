@@ -26,8 +26,5 @@ The system becomes unable to receive new commands or manage traffic, which is wh
 - [Network Stack](/en/dictionary/network-stack/)
 - [Cloud Native](/en/dictionary/cloud-native/)
 
-## Related tools
-- [Tailcat](/en/discover/tailcat/)
-
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/control-plane/

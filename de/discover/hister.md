@@ -2,7 +2,7 @@
 
 Indiziert lokal besuchte Webseiten und gespeicherte Dateien und bietet Volltextsuche sowie erweiterte Abfragefilter. Optionales semantisches Suchen sendet Dokumenttext an die gewählte Embeddings-Endpoint.
 
-- ★ 4.602
+- ★ 5.740
 - Go
 - GitHub Trending · 2026-08-25
 

@@ -2,12 +2,12 @@
 
 Ipatool, Apple App Store üzerinden iOS, iPadOS, tvOS ve visionOS uygulama paketlerini (IPA dosyaları) doğrudan aramanızı, lisanslamanızı ve indirmenizi sağlayan açık kaynaklı bir komut satırı aracıdır. Go diliyle geliştirilen araç, fiziksel bir iPhone cihazına veya iTunes yazılımına ihtiyaç duymadan uygulama arşivleme ve güvenlik araştırmalarını mümkün kılar.
 
-- ★ 10.388
+- ★ 11.407
 - Go
 - GitHub Trending · 2026-08-31
 
 ## Güncelleme
-- 31 Ağustos 2026: Yıldız 10.388, kararlı sürüm v2.1.4 (Apple StoreKit API uyumluluğu ve 2FA iyileştirmeleri).
+- 27 Eylül 2026: Yıldız 10.388 → 11.407, son sürüm v2.6.0 (13 Eylül 2026).
 
 ## Ne kazandırır?
 - Cihaz bağımsız IPA indirme: Fiziksel iPhone, iPad veya Mac bilgisayara bağlı kalmadan doğrudan Apple sunucularından resmi IPA paketlerini çekebilme.
@@ -23,29 +23,19 @@ Ipatool, Apple App Store üzerinden iOS, iPadOS, tvOS ve visionOS uygulama paket
 ```
 brew tap majd/repo https://github.com/majd/repo
 brew install ipatool
-# veya Go ile:
-go install github.com/majd/ipatool@latest
 ```
 
 ## Çalıştırma
 
-**Apple ID ile giriş yapma**
+**Apple Kimliği ile giriş yap ve IPA indir**
 
 ```
 ipatool auth login --email ornek@icloud.com
-```
-
-**Uygulama arama**
-
-```
 ipatool search "Telegram"
-```
-
-**IPA paketini indirme**
-
-```
 ipatool download -b org.telegram.Telegram-iOS
 ```
+
+Kaynak: Resmî kaynak: https://github.com/majd/ipatool
 
 ## Teknik mimari ve çalışma prensibi
 
@@ -82,7 +72,7 @@ iOS için geliştirilen bir uygulamanın IPA paketini ipatool kullanarak bilgisa
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-31 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Sideloader CLI Open Source API Apple Silicon
+Xcode Sideloading Binary CI/CD Terminal CLI
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/ipatool/

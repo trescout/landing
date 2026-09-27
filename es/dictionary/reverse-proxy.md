@@ -28,6 +28,7 @@ Es a la vez una capa de software y de servidor en la que se ejecuta este softwar
 - [Observability](/es/dictionary/observability/)
 
 ## Herramientas relacionadas
+- [OmniRoute](/es/discover/omniroute/)
 - [Nginx](/es/discover/nginx/)
 
 ---

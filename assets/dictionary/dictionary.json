@@ -2286,7 +2286,8 @@
     "kisa_es": "Es un teclado mecánico giratorio que se utiliza para marcar números en teléfonos antiguos.",
     "kisa_de": "Es handelt sich um eine rotierende mechanische Tastatur, die zum Wählen von Nummern auf alten Telefonen verwendet wird.",
     "date": "2026-06-18"
-  },  {
+  },
+  {
     "slug": "time-series-foundation-model",
     "en": "Time Series Foundation Model",
     "full": "",

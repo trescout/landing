@@ -2,7 +2,7 @@
 
 Elaborado por Microsoft, AI for Beginners enseña temas de introducción a la inteligencia artificial a través de Jupyter Notebooks, con un plan de estudios de 12 semanas. Este contenido de 24 lecciones ofrece un recurso educativo estructurado para aquellos que quieran aprender conceptos básicos con ejemplos aplicados.
 
-- ★ 65.496
+- ★ 69.105
 - Jupyter Notebook
 - GitHub Trending · 2026-07-01
 

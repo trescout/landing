@@ -24,8 +24,5 @@ Wird allgemein für die Sicherheitsforschung akzeptiert, es ist jedoch Vorsicht 
 - [Binary](/de/dictionary/binary/)
 - [Security Scanner](/de/dictionary/security-scanner/)
 
-## Verwandte Werkzeuge
-- [Ghidra](/de/discover/ghidra/)
-
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/software-reverse-engineering/

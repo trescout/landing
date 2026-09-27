@@ -2,9 +2,12 @@
 
 Sequoia-X, Çin borsa verilerini kullanarak teknik analiz formüllerine göre otomatik hisse senedi seçimi yapan bir Python tabanlı yazılım. Gün sonu piyasa kapanışından sonra tarama işlemlerini gerçekleştirerek sonuçları kurumsal mesajlaşma uygulaması olan Feishu üzerinden iletiyor.
 
-- ★ 6.376
+- ★ 7.594
 - Python
 - GitHub Trending · 2026-09-03
+
+## Güncelleme
+- 27 Eylül 2026: Yıldız 6.376 → 7.594.
 
 ## Ne kazandırır?
 - Hisse senedi verilerini yerel veritabanında saklar

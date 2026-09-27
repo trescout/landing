@@ -2,50 +2,36 @@
 
 > Artificial General Intelligence
 
-**Category:** AI  
-**Last updated:** 2026-09-22
+AGI (Artificial General Intelligence) is the targeted intelligence that does every intellectual work at the human level.
 
-AGI (Artificial General Intelligence) refers to hypothetical artificial intelligence that can understand, learn, and perform any intellectual task at or above human capability.
+## Definition and Word Origin
+Today's models are narrowly specialized, AGI is versatile: It learns in the field it does not see, changes strategies. The horizon of research is beyond products.
 
-## Definition and Etymology
-While today's AI systems are narrow specialists trained for specific tasks, AGI is inherently versatile: it learns dynamically in unencountered environments, transfers skills across domains, and adapts strategies without human reprogramming. AGI represents the theoretical frontier of AI research.
-
-## Everyday Context and Practical Usage
-- **Frontier Research:** The north-star milestone guiding long-term model roadmaps and compute clusters.
-- **Policy & Governance:** The central subject of global regulatory frameworks, alignment treaties, and safety standards.
-- **Education:** The catalyst for reimagining foundational human learning and cognitive skills.
+## How to Know and Use in Daily Life?
+Research: Roadmap objective.Policy: Regulatory debate.Education: Curriculum philosophy.
 
 ## Technical Depth and Architecture
-Core Architectural Distinctions:- **Narrow AI:** High performance restricted to single domains (image recognition, coding, protein folding).
-- **General AI:** Autonomous cross-domain transfer learning, reasoning, and conceptual synthesis.
-- **Evaluation Metric:** Zero-shot proficiency in unencountered environments without fine-tuning.
+Distinctions:
 
-The technical path combines frontier foundation models, autonomous agentic cognitive loops, episodic working memory, and reinforcement learning with verifiable rewards.
+## Frequently Mixed Things
+They are thought to be language models. They are narrowly specialized, this is the general goal. One is an athlete, the other is an Olympic dream.
 
-## Commonly Confused With
-Often conflated with large language models (LLMs). Contemporary LLMs are sophisticated narrow systems predicting next tokens; AGI is the holistic cognitive destination. One is an Olympic runner; the other is the entirety of athleticism.
-
-## Cross-Disciplinary Perspectives
-- **Chess Master:** Specialist mastery over a deterministic rule set.
-- **Executive Chef:** Intuitive culinary adaptation across tools, tastes, and ingredients.
-- **Poet:** Creative, nuanced linguistic and emotional synthesis.
-
-## Analogy
-Rather than a chess engine that only calculates board moves, imagine an intelligence that simultaneously masters cuisine, crafts original poetry, and designs novel software.
+## Use in Different Disciplines
+Chess: One game master. Cook: General in kitchen. Poet: General in language.
 
 ## Frequently Asked Questions
+**How to understand?**
+You are approached when you demonstrate unaided expertise in a new field.
 
-**How will we know when AGI is achieved?**  
-True AGI will be recognized when an autonomous system demonstrates unassisted, expert-level mastery and novel problem-solving across entirely unfamiliar scientific and practical domains.
+**Is it dangerous?**
+Auditability is controversial. Accompanied by security vetting.
 
-**Is AGI inherently dangerous?**  
-Controllability, value alignment, and agentic oversight remain crucial open questions, requiring rigorous alignment research to precede autonomy.
+**When will it arrive?**
+Unknown. Predictions are messy, metrics are clear.
 
-**When is AGI expected to arrive?**  
-Timelines among leading researchers range from several years to several decades; while prediction dates vary, evaluation benchmarks remain concrete.
+**Does it get the job done?**
+It transforms. Routine dissolves, control and creation remain.
 
-**Will AGI replace human employment?**  
-It will fundamentally transform it. Repetitive cognitive labor is automated, shifting human value toward creative direction, ethical supervision, and strategic synthesis.
 
 ## Related terms
 - [World Model](/en/dictionary/world-model/)
@@ -54,4 +40,4 @@ It will fundamentally transform it. Repetitive cognitive labor is automated, shi
 - [Artificial Intelligence](/en/dictionary/artificial-intelligence/)
 
 ---
-Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/agi/
+Source: TreScout Dictionary · https://trescout.com/en/dictionary/agi/

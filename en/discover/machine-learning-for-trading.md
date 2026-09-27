@@ -2,7 +2,7 @@
 
 Prepared by Stefan Jansen, this resource provides comprehensive code examples and Jupyter notebooks for machine learning applications in algorithmic trading. It serves as a practical guide for those who want to develop data analysis and forecast models in financial markets.
 
-- ★ 20,241
+- ★ 21,060
 - GitHub Trending · 2026-06-02
 
 ## What you get

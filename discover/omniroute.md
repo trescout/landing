@@ -78,7 +78,7 @@ Veri gizliliği sizin kontrolünüzdedir; günlükleme (logging) seviyesini ve v
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Cloud Computing AI Agent Runtime Foundation Model
+Temperature Reverse Proxy Logging Context Window API Gateway Prompt
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/omniroute/

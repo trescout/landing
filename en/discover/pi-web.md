@@ -2,7 +2,7 @@
 
 Pi-web offers an improved web-based user interface (web UI) for the Pi coding agent. This tool, written in TypeScript language, makes it possible to manage coding processes through a visual interface.
 
-- ★ 6,265
+- ★ 6,855
 - TypeScript
 - GitHub Trending · 2026-07-22
 

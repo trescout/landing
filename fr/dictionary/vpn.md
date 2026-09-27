@@ -30,7 +30,10 @@ Généralement non, ils peuvent générer des revenus à partir de vos données.
 - [Offline](/fr/dictionary/offline/)
 
 ## Outils liés
+- [CasaOS](/fr/discover/casaos/)
+- [Sonarr](/fr/discover/sonarr/)
 - [Amnezia Client](/fr/discover/amnezia-client/)
+- [Tailcat](/fr/discover/tailcat/)
 - [MasterDnsVPN](/fr/discover/masterdnsvpn/)
 
 ---

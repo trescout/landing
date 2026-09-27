@@ -41,29 +41,6 @@ Geleneksel LLM çıkarım motorları (vLLM, Ollama veya HuggingFace) modelin tü
 
 AirLLM, HuggingFace AutoModel API'sine çok benzer, son derece sade bir Python sözdizimine sahiptir:
 
-**Python ile 70B Model Çalıştırma**
-
-```
-from airllm import AutoModel
-
-# 70B modeli yalnizca 4GB VRAM ile baslatin
-model = AutoModel.from_pretrained("meta-llama/Meta-Llama-3-70B-Instruct")
-
-input_text = ["Turkiye'nin yapay zeka alanindaki potansiyelini ozetle."]
-input_tokens = model.tokenizer(input_text, return_tensors="pt", padding=True)
-
-# Cikti uretimi (katmanlar sirayla yurutulur)
-generation_output = model.generate(
-input_tokens['input_ids'].cuda(),
-max_new_tokens=100,
-use_cache=True,
-return_dict_in_generate=True
-)
-
-output = model.tokenizer.decode(generation_output.sequences[0])
-print(output)
-```
-
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
 AirLLM kütüphanesini kullanarak 70 milyar parametreli bir modeli (örneğin meta-llama/Llama-3-70B-Instruct) 4GB VRAM kapasitesine sahip yerel ekran kartımda çalıştırmak istiyorum. Kurulum için pip install airllm komutunu kullandım. Modelimi yüklemek, metin girdisiyle çıktı almak ve bellek taşmasını önlemek için gerekli olan Python kodunu açıklar mısın? Süreçte disk alanımın yeterli olduğundan emin olmam gerektiğini biliyorum, izlemem gereken adımları detaylandırır mısın?
@@ -85,7 +62,7 @@ AirLLM kütüphanesini kullanarak 70 milyar parametreli bir modeli (örneğin me
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-VRAM LLM Large Language Models Transformer Open Source
+VRAM Transformer Apple Silicon RAM Jupyter Notebooks CPU
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/airllm/

@@ -2,12 +2,12 @@
 
 FreeLLMAPI, 34 farklı ücretsiz büyük dil modeli sağlayıcısını OpenAI formatında tek bir REST API altında toplayarak akıllı yönlendirme ve arıza toleransı sunar.
 
-- ★ 21.410
+- ★ 29.054
 - TypeScript
 - GitHub Trending · 2026-08-28
 
 ## Güncelleme
-- 28 Ağustos 2026: Yıldız 21.410, 34 ücretsiz yapay zekâ sağlayıcısı ve streaming yanıt desteği.
+- 27 Eylül 2026: Yıldız 21.410 → 29.054, son sürüm v0.12.0 (24 Eylül 2026).
 
 ## Ne kazandırır?
 - 34 ücretsiz model sağlayıcısı: Google Gemini, Groq, Cloudflare Workers AI ve HuggingFace dahil onlarca ücretsiz sağlayıcıya tek noktadan erişim.
@@ -37,6 +37,8 @@ curl http://localhost:3000/v1/chat/completions \
 -H "Content-Type: application/json" \
 -d '{"model":"gpt-4o-mini","messages":[{"role":"user","content":"Merhaba!"}]}'
 ```
+
+Kaynak: Resmî kaynak: https://github.com/tashfeenahmed/freellmapi
 
 ## Teknik mimari ve çalışma prensibi
 
@@ -73,7 +75,7 @@ FreeLLMAPI aracını Docker ile yerel sunucumda nasıl çalıştıracağımı, O
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-28 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Yapay Zekâ API LLM Açık Kaynak CLI
+Pipeline Proxy Localhost SDK LLM API
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/freellmapi/

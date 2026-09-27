@@ -2,7 +2,7 @@
 
 An AGPLv3-licensed private search engine for pages you visit and files you store. It provides full-text indexing, advanced query filters, and optional semantic search.
 
-- ★ 4,602
+- ★ 5,740
 - Go
 - GitHub Trending · 2026-08-25
 

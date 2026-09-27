@@ -30,6 +30,7 @@ Technically most can be, but some software is protected by 'obfuscation' methods
 - [Software Reverse Engineering](/en/dictionary/software-reverse-engineering/)
 
 ## Related tools
+- [Ghidra](/en/discover/ghidra/)
 - [ASC](/en/discover/asc/)
 
 ---

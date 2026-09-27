@@ -33,13 +33,13 @@ It can be written, but you have to code everything from scratch, which takes too
 
 ## Related tools
 - [Cline](/en/discover/cline/)
+- [OmniRoute](/en/discover/omniroute/)
 - [Opendataloader PDF](/en/discover/opendataloader-pdf/)
+- [Freellmapi](/en/discover/freellmapi/)
 - [CUA](/en/discover/cua/)
 - [iii](/en/discover/iii/)
 - [Logto](/en/discover/logto/)
 - [CubeSandbox](/en/discover/cubesandbox/)
-- [Copilot SDK](/en/discover/copilot-sdk/)
-- [U3 SDK](/en/discover/u3-sdk/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/sdk/

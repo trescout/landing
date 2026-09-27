@@ -36,8 +36,8 @@ Normalerweise gibt das System Fehler aus, aber es gibt auch kritische Befehle, d
 - [Spec Kit](/de/discover/spec-kit/)
 - [Codex](/de/discover/codex/)
 - [Graphify](/de/discover/graphify/)
-- [TradingAgents](/de/discover/tradingagents/)
 - [PI](/de/discover/pi/)
+- [TradingAgents](/de/discover/tradingagents/)
 - [Angular](/de/discover/angular/)
 
 ---
