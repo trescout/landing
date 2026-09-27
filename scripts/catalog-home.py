@@ -54,10 +54,19 @@ def tagline(kayit, dil):
     return ozel or str(kayit.get("tagline_en") or "").strip()
 
 
+def sayfa_var(dil, slug):
+    """O dilde keşif sayfası diskte mi · çevirisi eksik sayfa yazılmıyor, ana
+    sayfa radarı ona bağlanırsa 404 olur (bkz. build-en.js sayfaVar)."""
+    onek = "" if dil == "tr" else dil
+    return os.path.exists(os.path.join(ROOT, onek, "discover", str(slug), "index.html"))
+
+
 def ozet(kayitlar, dil):
     cikti = []
     for kayit in kayitlar:
         if not isinstance(kayit, dict):
+            continue
+        if not sayfa_var(dil, kayit.get("slug") or ""):
             continue
         satir = {}
         for alan in ALANLAR:

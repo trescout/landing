@@ -218,6 +218,13 @@ allHtmls.forEach(relPath => {
       else oppLink = '/en/reports/';
     } else oppLink = '/en/';
   }
+  // Karşı dildeki sayfa yoksa o bölümün dizinine düş (diğer dil düğmelerindeki
+  // dilBaglantisi ile aynı kural). Çevirisi eksik sayfa yazılmıyor; 2026-09-27'de
+  // 27 yeni aracın TR sayfasındaki EN düğmesi 404'e gidiyordu.
+  if (!fs.existsSync(path.join(ROOT, oppLink.replace(/^\/|\/$/g, ''), 'index.html'))) {
+    const bolum = oppLink.match(/^(\/en)?\/(dictionary|discover|reports)\//);
+    oppLink = bolum ? `${bolum[1] || ''}/${bolum[2]}/` : (isEn ? '/' : '/en/');
+  }
 
   // Fransızca hedefi · aynı bölüm + aynı slug. Karşılığı yoksa Fransızca ana
   // sayfaya düşer (404 vermesin). 2026-08-08: Fransızca yayındaydı ama Türkçe ve
