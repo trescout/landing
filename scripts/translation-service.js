@@ -9,7 +9,7 @@ const path = require('path');
 // için Python modülünün başlığına bakın.
 const DEFAULT_CHAIN = 'gemini-3.8-flash:5,gemini-3.7-flash:5,gemini-3.6-flash:5,gemini-3.5-flash:5,'
   + 'gemini-3.5-flash-lite:15,'
-  + 'gemini-3-flash-preview:5,gemini-2.5-flash:5,'
+  + 'gemini-3-flash-preview:5,'
   + 'gemini-3.1-flash-lite:15';
 // gemini-3.1-flash-lite en sonda · landing ayrı projede (gerekçe gemini_zinciri.py).
 const CHAIN = (process.env.GEMINI_MODELS || process.env.GEMINI_MODEL || process.env.TREESCOUT_TRANSLATION_MODEL || DEFAULT_CHAIN)

@@ -44,8 +44,10 @@ import urllib.request
 
 VARSAYILAN_ZINCIR = ("gemini-3.8-flash:5,gemini-3.7-flash:5,gemini-3.6-flash:5,gemini-3.5-flash:5,"
                      "gemini-3.5-flash-lite:15,"
-                     "gemini-3-flash-preview:5,gemini-2.5-flash:5,"
+                     "gemini-3-flash-preview:5,"
                      "gemini-3.1-flash-lite:15")
+# gemini-2.5-flash çıkarıldı (2026-09-27): her koşuda 404 "model kullanılamıyor"
+# veriyordu, AI Studio kota tablosunda da artık yok.
 # gemini-3.1-flash-lite 2026-09-27'de bir süre zincirden çıkarılmıştı (landing#263)
 # çünkü günlük rapor da tek model olarak onu kullanıyor ve kotayı paylaştığımız
 # sanılıyordu. Landing artık kendi repo secret'ıyla AYRI bir Google Cloud

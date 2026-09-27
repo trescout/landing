@@ -15,3 +15,6 @@
 *.env
 __pycache__/
 reports/*.pdf.orig
+
+# dict-sync koşular arası çeviri önbelleği (actions/cache) · commit edilmez
+.ceviri-onbellegi/
