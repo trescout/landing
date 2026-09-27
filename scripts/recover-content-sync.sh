@@ -79,6 +79,7 @@ python3 scripts/redirect-uret.py
 python3 scripts/sitemap-sync.py
 node scripts/fix-all-headers-and-footers.js
 python3 scripts/hreflang-normalize.py
+python3 scripts/ilgili-temizle.py
 
 python3 scripts/check-no-inline-csp.py
 python3 scripts/check-nav-consistency.py
