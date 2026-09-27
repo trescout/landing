@@ -48,6 +48,12 @@ concurrency:
   group: dict-sync
   cancel-in-progress: false
 
+# Python çıktısı tamponlanmasın · 2026-09-27'de sayfa üretimi 44 dk boyunca
+# logda tek satır göstermedi (tek model 15 RPM ile çalışıyordu), "takıldı"
+# sanılıp iptal edildi ve o arada üretilen iş kayboldu.
+env:
+  PYTHONUNBUFFERED: "1"
+
 jobs:
   grow:
     runs-on: ubuntu-latest
