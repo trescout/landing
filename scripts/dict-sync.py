@@ -50,6 +50,22 @@ def clean_typography(s):
 def esc(s):
     import html
     return html.escape(clean_typography(s), quote=True)
+def tekil(slug):
+    """Slug'ın son parçasını kaba İngilizce tekile indir · yalnız ikiz karşılaştırması için.
+
+    Kusursuz değil ("series" → "sery"), ama iki taraf da aynı fonksiyondan
+    geçtiği için tutarlı: yalnız aynı köke düşen çiftler eşleşir.
+    """
+    bas, _, son = slug.rpartition("-")
+    if len(son) > 4 and son.endswith("ies"):
+        son = son[:-3] + "y"
+    elif len(son) > 4 and re.search(r"(ch|sh|x|ss)es$", son):
+        son = son[:-2]
+    elif len(son) > 3 and son.endswith("s") and not son.endswith(("ss", "us", "is")):
+        son = son[:-1]
+    return f"{bas}-{son}" if bas else son
+
+
 def slugify(t):
     t = t.lower().strip()
     for a,b in [("ç","c"),("ğ","g"),("ı","i"),("ş","s"),("ö","o"),("ü","u")]: t=t.replace(a,b)
@@ -374,8 +390,20 @@ def main():
         for part in (m.get("full") or "").split("·"):
             p=part.strip()
             if p: keys.add(p.lower()); keys.add(slugify(p))
+    # Tekil/çoğul ikizleri de kopya say · Gemini yolu anlamsal kopyayı
+    # ayıklıyor, ama kota bitince devreye giren yedek yol adayları olduğu gibi
+    # ekliyordu. İkiz issue'ları (#124, #125, #201, #211, #249) hep kota
+    # günlerinde açıldı. Mevcut ve "ayrı tut" kararı verilmiş çiftlere
+    # dokunmaz (duplicate-triage.json); yalnız YENİ ikizin yaratılmasını önler.
+    tekiller = {tekil(k) for k in keys if k}
     def is_dup(term):
-        return slugify(term) in existing_slugs or term.lower().strip() in keys or slugify(term) in keys
+        s = slugify(term)
+        if s in existing_slugs or term.lower().strip() in keys or s in keys:
+            return True
+        if tekil(s) in tekiller:
+            print(f"  · ikiz aday atlandı (tekil/çoğul): {term}")
+            return True
+        return False
     candidates=[t for t in terms if not is_dup(t["term"])]
     print(f"tam-kopya olmayan aday: {len(candidates)} (gerisi zaten var)")
     if not candidates: print("eklenecek yeni terim yok · sözlük güncel ✅"); return
