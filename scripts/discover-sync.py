@@ -73,12 +73,39 @@ def report_items():
             if sec.get("sourceName")!="github": continue
             for it in sec.get("items",[]):
                 u=norm_url(it.get("url",""))
-                # Aynı günün tekrarsız raporu ana raporu alfabetik olarak
-                # ezebilir. Her repo için dosya sırasına değil ISO tarihe göre
-                # en yeni rapor kazanmalı; eski tarih sabitlenmemeli.
-                if u and (u not in seen or date >= str(seen[u].get("_date") or "")):
-                    seen[u]={**it,"_date":date}
+                if not u: continue
+                # Dosya adı sırası kronolojik DEĞİL (ana raporların hepsi
+                # tekrarsızlardan önce geliyor) · tarih karşılaştırması şart.
+                #   _ilk   : raporda ilk görüldüğü gün · yeni kayıt O GÜNÜN
+                #            haliyle (özet, yıldız) açılır
+                #   _date  : son görüldüğü gün (last_seen)
+                #   _gunler: görüldüğü her gün → o günkü meta (yıldız)
+                # 2026-09-27: hat 19 Eylül'den beri durmuştu; birikmiş raporlar
+                # birlikte işlenince yeni kayıtlar SON raporun tarihini aldı
+                # (financial-services ilk 21 Eylül, katalogda 25 Eylül).
+                e=seen.get(u)
+                if e is None:
+                    seen[u]={**it,"_date":date,"_ilk":date,"_gunler":{date:it.get("meta","")}}
+                    continue
+                e["_gunler"].setdefault(date, it.get("meta",""))
+                if date < e["_ilk"]:
+                    seen[u]={**it,"_date":e["_date"],"_ilk":date,"_gunler":e["_gunler"]}
+                elif date > e["_date"]:
+                    e["_date"]=date
     return list(seen.values())
+
+
+def rapor_katmanlari(gunler, ilk_yildiz):
+    """Rapora yeniden girdiği günler için güncelleme katmanları · tazelemeyle
+    (refresh) AYNI önem eşiği: en az 1000 ya da %5 yıldız farkı. Hat her gün
+    çalışsaydı oluşacak katmanları geç eklenen kayda da kazandırır."""
+    katman=[]; onceki=ilk_yildiz
+    for gun in sorted(gunler)[1:]:
+        _, yildiz, _ = parse_meta(gunler[gun])
+        if onceki and yildiz and abs(yildiz-onceki) >= max(1000, onceki*0.05):
+            katman.append({"tarih":gun,"yildiz":yildiz,"onceki_yildiz":onceki})
+            onceki=yildiz
+    return katman
 
 def parse_meta(meta):
     lang=""; stars=0
@@ -487,6 +514,14 @@ def base_entry(n, rich, reason, key=None):
     c={"slug":n["slug"],"title":n["title"],"tagline":n["tagline"],"meta":meta,
        "image":f"/assets/discover/og/{n['slug']}.webp","source":"GitHub","date":n["date"],
        "tags":n["tags"],"stars":n["stars"]}
+    if n.get("last_seen"):
+        c["last_seen"]=n["last_seen"]
+    katman=rapor_katmanlari(n.get("_gunler") or {}, n["stars"])
+    if katman:
+        c["guncellemeler"]=katman
+        c["stars"]=katman[-1]["yildiz"]
+        meta=f"★ {c['stars']:,}".replace(',','.')+(f" · {n['lang']}" if n['lang'] else "")
+    c["meta"]=meta
     if n.get("summary"):
         c["summary"] = n["summary"]
     curated = bool(rich or n.get("editorial") or n.get("cmds"))
@@ -864,8 +899,9 @@ def seed_source_discovery(slugs):
             "slug": slug, "title": title,
             "tagline": make_tagline(summary, title), "summary": summary,
             "url": it.get("url", ""), "lang": lang, "stars": stars,
-            "momentum": momentum, "date": it.get("_date", TODAY),
-            "last_seen": it.get("_date", TODAY), "tags": infer_tags(summary),
+            "momentum": momentum, "date": it.get("_ilk") or it.get("_date", TODAY),
+            "last_seen": it.get("_date", TODAY), "_gunler": it.get("_gunler") or {},
+            "tags": infer_tags(summary),
         })
     if not new:
         print("kaynak seed’i zaten yayınlanmış · keşif güncel")
@@ -977,7 +1013,8 @@ def main():
         summary=it.get("summary","").strip()
         new.append({"slug":slug,"title":title,"tagline":make_tagline(summary,title),"summary":summary,
                     "url":it.get("url",""),"lang":lang,"stars":stars,"momentum":momentum,
-                    "date":it.get("_date",TODAY),"last_seen":it.get("_date",TODAY),"tags":infer_tags(summary)})
+                    "date":it.get("_ilk") or it.get("_date",TODAY),"last_seen":it.get("_date",TODAY),
+                    "_gunler":it.get("_gunler") or {},"tags":infer_tags(summary)})
     print(f"rapor GitHub repo: {len(items)} · mevcut (URL): {len(ex)} · yeniden gündemde: {seen_existing} · YENİ: {len(new)}")
     for n in new: print(f"  + {n['slug']}  ({n['title']})")
     if DRY: print("[--dry] yazılmadı."); return
