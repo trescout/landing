@@ -523,28 +523,6 @@
       border-bottom-color: var(--accent);
       outline: none;
     }
-    /* DURUM satırı · bugün çalışan ile erken erişimde gelecek olanı ayırır */
-    .hero-status {
-      margin-top: 10px;
-      padding-left: 12px;
-      border-left: 2px solid rgba(244, 211, 94, 0.45);
-      font-size: var(--text-caption);
-      line-height: 1.6;
-      color: var(--ink-muted);
-    }
-    .hero-status a {
-      color: var(--ink);
-      border-bottom: 1px solid rgba(244, 211, 94, 0.4);
-      text-decoration: none;
-      transition: color 0.15s, border-color 0.15s;
-    }
-    .hero-status a:hover,
-    .hero-status a:focus-visible {
-      color: var(--accent);
-      border-bottom-color: var(--accent);
-      outline: none;
-    }
-
     /* ---------- AYDINLATMA METNİ MODAL ---------- */
     .privacy-modal {
       position: fixed;
