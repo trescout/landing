@@ -11,10 +11,11 @@ SIKI (çıkış kodu 1):
   - dizin sayfalarındaki kartlar (discover/ ve dictionary/ index.html, tüm diller)
   - menüdeki dil düğmeleri (nav-actions içindeki btn-ghost bağlantıları)
   - ana sayfa radarının verisi (assets/discover/catalog-home-XX.json)
+  - "ilgili terim/araç" çipleri (dict-related / disc-related) · hat bunları
+    scripts/ilgili-temizle.py ile guard'dan önce temizliyor (2026-09-27: 101
+    sayfada 141 ölü çip vardı)
 RAPOR (çıkış kodu 0, yalnız sayı ve örnek):
-  - içerikteki "ilgili terim/araç" bağlantıları · bir kısmı hiç oluşturulmamış
-    terimlere gidiyor (elle/ajanla yazılmış zenginleştirilmiş sayfalar); aday
-    terim oluşturulunca kendiliğinden düzeliyor. Karar verilince sıkıya alınabilir.
+  - kalan içerik bağlantıları (düz metin vb.)
 
 Kullanım: python3 scripts/check-dizin-baglantilari.py
 """
@@ -27,6 +28,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.chdir(ROOT)
 ONEKLER = [""] + [f"{k}/" for k in DILLER]
 DETAY = re.compile(r'href="(/(?:(?:' + "|".join(DILLER) + r')/)?(?:discover|dictionary)/[^"/#?]+/)"')
+ILGILI = re.compile(r'<div class="(?:dict|disc)-related">(.*?)</div>', re.S)
 NAV = re.compile(r'<div class="nav-actions">(.*?)</div></div></nav>', re.S)
 _var = {}
 
@@ -46,6 +48,7 @@ for p in sorted(glob.glob("**/*.html", recursive=True)):
     dizin = any(p == f"{o}{b}/index.html" for o in ONEKLER for b in ("discover", "dictionary"))
     nav = NAV.search(t)
     nav_html = nav.group(1) if nav else ""
+    ilgili_html = "".join(ILGILI.findall(t))
     for u in set(DETAY.findall(t)):
         if var(u):
             continue
@@ -53,6 +56,8 @@ for p in sorted(glob.glob("**/*.html", recursive=True)):
             siki.append(f"{p}: dizin kartı → {u}")
         elif u in nav_html:
             siki.append(f"{p}: menü dil düğmesi → {u}")
+        elif f'href="{u}"' in ilgili_html:
+            siki.append(f"{p}: ilgili çipi → {u} (scripts/ilgili-temizle.py)")
         else:
             rapor[u] += 1
             rapor_ornek.setdefault(u, p)
