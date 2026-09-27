@@ -8,7 +8,10 @@ on:
     paths:
       - 'reports/**'
   schedule:
-    - cron: '30 5 * * *'   # her gün 05:30 UTC · app raporu (~04:00) + publish sonrası yedek
+    # 07:20 UTC · Gemini ücretsiz kotası Pasifik gece yarısında (07:00 UTC)
+    # sıfırlanıyor. Rapor 04:17 UTC'ye alınınca (app#90) push tetiklemesi
+    # sıfırlamadan önceye düştü; ağır günlük iş taze kotayla bu koşuda yapılır.
+    - cron: '20 7 * * *'
   workflow_dispatch:
     inputs:
       reprocess_slugs:
