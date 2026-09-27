@@ -48,9 +48,9 @@ const consecutiveFailures = new Map();
 let geminiDisabled = false;
 let lastRequestAt = 0;
 
-function activeModel() {
+function activeModel(skip = new Set()) {
   if (geminiDisabled) return null;
-  return MODELS.find(m => !exhausted.has(m)) || null;
+  return MODELS.find(m => !exhausted.has(m) && !skip.has(m)) || null;
 }
 
 function dropModel(model, reason, persist = true) {
@@ -133,8 +133,17 @@ async function geminiRequest(body, timeoutMs, attempts = 4) {
   parsed.generationConfig.maxOutputTokens = Math.max(Number(parsed.generationConfig.maxOutputTokens) || 0, MIN_OUTPUT_TOKENS);
   const payload = JSON.stringify(parsed);
   let attempt = 0;
+  // Bu istekte takılan modeller · 5xx/zaman aşımında bir tekrar, sonra sıradaki
+  // model (gerekçe gemini_zinciri.py istek()).
+  const skip = new Set();
+  const failover = (model, reason) => {
+    recordFailure(model);
+    skip.add(model);
+    console.log(`  ! Gemini ${model}: ${reason} · bu istek ${activeModel(skip) || 'başka model yok'}`);
+    attempt = 0;
+  };
   for (;;) {
-    const model = activeModel();
+    const model = activeModel(skip);
     if (!model) return null;
     const interval = process.env.GEMINI_MIN_INTERVAL != null
       ? Number(process.env.GEMINI_MIN_INTERVAL) * 1000
@@ -169,21 +178,26 @@ async function geminiRequest(body, timeoutMs, attempts = 4) {
         }
         if (kind === 'model') { dropModel(model, `model kullanılamıyor (${status})`); attempt = 0; continue; }
         if (kind === 'key') { disableGemini(`HTTP ${status}`); return null; }
-        if (kind === 'transient' && attempt < attempts - 1) {
-          const hinted = raw.match(/"retryDelay"\s*:\s*"([0-9.]+)s"/);
-          await sleep(hinted ? Math.min(Math.max(Number(hinted[1]), 1), 90) * 1000 : Math.min(5000 * (attempt + 1), 60000));
-          attempt += 1;
+        const st = raw.match(/"status"\s*:\s*"([A-Z_]+)"/);
+        if (kind === 'transient') {
+          const limit = status === 429 ? attempts - 1 : 1;
+          if (attempt < limit) {
+            const hinted = raw.match(/"retryDelay"\s*:\s*"([0-9.]+)s"/);
+            await sleep(hinted ? Math.min(Math.max(Number(hinted[1]), 1), 90) * 1000 : Math.min(5000 * (attempt + 1), 60000));
+            attempt += 1;
+            continue;
+          }
+          failover(model, `istek başarısız (HTTP ${status}${st ? ' ' + st[1] : ''})`);
           continue;
         }
-        const st = raw.match(/"status"\s*:\s*"([A-Z_]+)"/);
         console.log(`  ! Gemini ${model}: istek başarısız (HTTP ${status}${st ? ' ' + st[1] : ''})`);
         recordFailure(model);
         return null;
       }
       // ağ hatası / zaman aşımı / geçersiz JSON
-      if (attempt < attempts - 1) { await sleep(Math.min(5000 * (attempt + 1), 30000)); attempt += 1; continue; }
-      recordFailure(model);
-      return null;
+      if (attempt < 1) { await sleep(5000); attempt += 1; continue; }
+      failover(model, `yanıt yok (${String(error?.message || error).slice(0, 60)})`);
+      continue;
     }
   }
 }

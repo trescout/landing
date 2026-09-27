@@ -122,11 +122,11 @@ _kapali = False
 _son_istek = 0.0
 
 
-def aktif_model() -> str | None:
+def aktif_model(haric=()) -> str | None:
     """Zincirde bırakılmamış ilk model · hepsi bittiyse ya da Gemini kapalıysa None."""
     if _kapali:
         return None
-    return next((m for m in MODELLER if m not in _bitenler), None)
+    return next((m for m in MODELLER if m not in _bitenler and m not in haric), None)
 
 
 def _birak(model: str, neden: str, kalici: bool = True) -> None:
@@ -219,8 +219,20 @@ def istek(body: dict, key: str, timeout: float = 90, deneme_sayisi: int = 4) -> 
     ayar["maxOutputTokens"] = max(int(ayar.get("maxOutputTokens") or 0), ASGARI_CIKTI)
     veri = json.dumps({**body, "generationConfig": ayar}, ensure_ascii=False).encode("utf-8")
     deneme = 0
+    # Bu istekte takılan modeller · aşırı yük (5xx) ya da zaman aşımında aynı
+    # model yalnız bir kez daha denenir, sonra istek sıradaki modelle sürer.
+    # Eskiden aynı model 4 kez deneniyordu: zaman aşımında tek istek ~8,5 dk
+    # bekliyor, kota harcanmadan koşu "takılıyordu" (2026-09-27, 3.7/3.8 Flash 503).
+    atla: set[str] = set()
+
+    def gec(model: str, neden: str) -> None:
+        _basarisiz(model)
+        atla.add(model)
+        sonraki = aktif_model(atla)
+        print(f"  ! Gemini {model}: {neden} · bu istek {sonraki or 'başka model yok'}", flush=True)
+
     while True:
-        model = aktif_model()
+        model = aktif_model(atla)
         if not model:
             return None
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
@@ -263,21 +275,28 @@ def istek(body: dict, key: str, timeout: float = 90, deneme_sayisi: int = 4) -> 
             if sinif == "anahtar":
                 _kapat(f"HTTP {e.code}")
                 return None
-            if sinif == "gecici" and deneme < deneme_sayisi - 1:
-                time.sleep(_gecikme(e, govde, deneme))
-                deneme += 1
-                continue
             durum = re.search(r'"status"\s*:\s*"([A-Z_]+)"', govde)
+            if sinif == "gecici":
+                # 429 (dakika sınırı): bekleyip aynı modelle; 5xx: bir kez daha
+                sinir = deneme_sayisi - 1 if e.code == 429 else 1
+                if deneme < sinir:
+                    time.sleep(_gecikme(e, govde, deneme))
+                    deneme += 1
+                    continue
+                gec(model, f"istek başarısız (HTTP {e.code}{' ' + durum.group(1) if durum else ''})")
+                deneme = 0
+                continue
             print(f"  ! Gemini {model}: istek başarısız (HTTP {e.code}{' ' + durum.group(1) if durum else ''})", flush=True)
             _basarisiz(model)
             return None
-        except Exception:
-            if deneme < deneme_sayisi - 1:
-                time.sleep(min(5.0 * (deneme + 1), 30.0))
+        except Exception as hata:
+            if deneme < 1:
+                time.sleep(5.0)
                 deneme += 1
                 continue
-            _basarisiz(model)
-            return None
+            gec(model, f"yanıt yok ({type(hata).__name__})")
+            deneme = 0
+            continue
 
 
 def metin(yanit: dict | None) -> str:
