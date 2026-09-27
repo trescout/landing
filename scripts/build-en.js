@@ -349,7 +349,11 @@ const dictIndexDir = path.join(ROOT, LANG, 'dictionary');
 fs.mkdirSync(dictIndexDir, { recursive: true });
 const dictKabuk = kabuk('dictionary', { TR: '/dictionary/', EN: '/en/dictionary/', FR: '/fr/dictionary/' });
 
-const dictCards = dictionary.map(t => {
+// Yalnız bu dilde sayfası OLAN kayıtlar karta girsin · çevirisi eksik sayfa
+// yazılmıyor (dictionary-en.py / discover-en.py), kart ona bağlanırsa 404 olur.
+// 2026-09-27: keşif dizinlerinde 5 dilde 27'şer kırık kart yayına girdi.
+const sayfaVar = (bolum, slug) => fs.existsSync(path.join(ROOT, LANG, bolum, slug, 'index.html'));
+const dictCards = dictionary.filter(t => sayfaVar('dictionary', t.slug)).map(t => {
   // Çeviri eksikse Türkçeye düşme: önce İngilizce, o da yoksa boş (translate-i18n
   // adımı yumuşatıldı; eksik çeviri ertesi koşuda tamamlanır).
   const desc = t[D.kisa_alan] || t.kisa_en || '';
@@ -419,7 +423,7 @@ const discIndexDir = path.join(ROOT, LANG, 'discover');
 fs.mkdirSync(discIndexDir, { recursive: true });
 const discKabuk = kabuk('discover', { TR: '/discover/', EN: '/en/discover/', FR: '/fr/discover/' });
 
-const discCards = [...catalog].sort((a, b) =>
+const discCards = catalog.filter(c => sayfaVar('discover', c.slug)).sort((a, b) =>
   String(b.date || '').localeCompare(String(a.date || '')) || (b.stars || 0) - (a.stars || 0),
 ).map(c => {
   const tagline = c[D.tagline_alan] || c.tagline_en || '';

@@ -135,6 +135,16 @@
     .then(function (r) { return r.json(); })
     .then(function (d) {
       items = Array.isArray(d) ? d : [];
+      /* Izgara yalnız bu dilde sayfası OLAN araçları göstersin. catalog.json
+         bütün dillerde ortak; hangi sayfanın var olduğunu sunucunun bastığı
+         kartlar biliyor (build-en.js yalnız diskteki sayfaya kart basıyor).
+         Sunucu kartı yoksa filtre uygulanmaz. */
+      var basili = {};
+      grid.querySelectorAll('a.disc-card[href]').forEach(function (a) {
+        var m = a.getAttribute('href').match(/\/discover\/([^\/]+)\/?$/);
+        if (m) basili[decodeURIComponent(m[1])] = true;
+      });
+      if (Object.keys(basili).length) items = items.filter(function (it) { return basili[it.slug]; });
       if (!items.length) { grid.innerHTML = '<p class="disc-loading">Yakında ilk keşifler burada.</p>'; return; }
       chips(); render();
       var s = document.getElementById('disc-search');

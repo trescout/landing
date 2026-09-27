@@ -446,6 +446,9 @@ jobs:
       # proje, mevcut kaydın last_seen alanı yüzünden bu sırayı bozamamalı.
       - name: Keşif sıralama guard’ı
         run: python3 scripts/check-discovery-sort.py
+      # Çevirisi eksik sayfa yazılmıyor · dizin/menü/radar ona bağlanmasın (404).
+      - name: Var olmayan sayfaya bağlantı guard’ı
+        run: python3 scripts/check-dizin-baglantilari.py
 
       # Ürün keşfi/erken erişim sayfaları doğrudan telemetry veya ortak loader taşımalı.
       - name: Rapor sayfası script sözleşme testi

@@ -56,13 +56,18 @@ def main() -> int:
             continue
         prefix = "" if language == "tr" else f"/{language}"
         actual = rendered_slugs(path, prefix)
-        if actual != expected:
+        # Dizin yalnız o dilde sayfası OLAN araçlara kart basıyor (build-en.js
+        # sayfaVar · çevirisi eksik sayfa yazılmıyor). Sıra kuralı aynı, beklenen
+        # küme o dilde var olan sayfalar.
+        dil_kok = ROOT if language == "tr" else ROOT / language
+        beklenen = [s for s in expected if (dil_kok / "discover" / s / "index.html").exists()]
+        if actual != beklenen:
             first_difference = next(
-                (i for i, (left, right) in enumerate(zip(actual, expected)) if left != right),
-                min(len(actual), len(expected)),
+                (i for i, (left, right) in enumerate(zip(actual, beklenen)) if left != right),
+                min(len(actual), len(beklenen)),
             )
             errors.append(
-                f"{language}: expected {len(expected)} cards in first-discovery order, "
+                f"{language}: expected {len(beklenen)} cards in first-discovery order, "
                 f"got {len(actual)}; first difference at position {first_difference + 1}"
             )
 
