@@ -146,6 +146,9 @@ SYS=("Sen TreScout için Türkçe teknoloji sözlüğü editörüsün; kod bilme
  "Sana MEVCUT sözlük terimleri (slug · ad) ve raporlardan gelen ADAY terimler (terim · açıklama) verilecek. "
  "Her aday için: MEVCUT bir terimle TAM OLARAK AYNI kavram mı (kesin kopya / birebir eşanlamlı, ör. 'large language models' = 'llm')? "
  "SADECE tam kopyaysa çıktıya KOYMA. En ufak anlamlı fark bile varsa EKLE (kapsayıcı ol). Eklenecekse ders-gibi içerik üret. "
+ "Bir adayda 'ikizi' alanı varsa aday, o MEVCUT terimin tekil/çoğul biçimidir; tekil/çoğul farkı TEK BAŞINA anlamlı fark DEĞİLDİR. "
+ "Niyet aynıysa KOYMA. Niyet gerçekten farklıysa (ör. tekil = kavram, çoğul = ekosistem/kategori/araç ailesi) EKLE ve "
+ "'tanim' ile 'karistirilan' alanlarında ikizinden farkını açıkça yaz; iki sayfa birbirinin kopyası gibi okunmamalı. "
  "KURALLAR: 'siz' dili; em dash (—) YASAK; UYDURMA (emin değilsen genel-doğru); jargon yığma; marka TreScout. "
  "'AI' ve 'yapay zeka' YAZMA: her zaman 'yapay zekâ' (şapkalı â, küçük harf). İngilizce terimi parantezde verebilirsin. "
  "İki noktadan (:) sonra cümle geliyorsa BÜYÜK harfle başlat. "
@@ -395,35 +398,45 @@ def main():
     # ekliyordu. İkiz issue'ları (#124, #125, #201, #211, #249) hep kota
     # günlerinde açıldı. Mevcut ve "ayrı tut" kararı verilmiş çiftlere
     # dokunmaz (duplicate-triage.json); yalnız YENİ ikizin yaratılmasını önler.
-    tekiller = {tekil(k) for k in keys if k}
+    # Tekil/çoğul ikizleri · kararı NİYET verir, kural değil. Mevcut sözlükte
+    # bilerek ayrı tutulan çiftler var (duplicate-triage.json · "ayri_tut").
+    # İkiz aday "ikizi" alanıyla işaretlenir: Gemini niyete bakıp karar verir;
+    # Gemini yoksa (kota) aday ERTELENİR · adaylar her koşuda raporlardan
+    # yeniden toplandığı için ertesi gün tekrar gelir. Eskiden yedek yol
+    # ikizi niyete bakmadan ekliyordu (#124, #125, #201, #211, #249).
+    tekil_esi = {}
+    for m in manifest:
+        tekil_esi.setdefault(tekil(m["slug"]), m["slug"])
+        tekil_esi.setdefault(tekil(slugify(m["en"])), m["slug"])
     def is_dup(term):
         s = slugify(term)
-        if s in existing_slugs or term.lower().strip() in keys or s in keys:
-            return True
-        if tekil(s) in tekiller:
-            print(f"  · ikiz aday atlandı (tekil/çoğul): {term}")
-            return True
-        return False
+        return s in existing_slugs or term.lower().strip() in keys or s in keys
     candidates=[t for t in terms if not is_dup(t["term"])]
+    for c in candidates:
+        ikiz = tekil_esi.get(tekil(slugify(c["term"])))
+        if ikiz:
+            c["ikizi"] = ikiz
     print(f"tam-kopya olmayan aday: {len(candidates)} (gerisi zaten var)")
     if not candidates: print("eklenecek yeni terim yok · sözlük güncel ✅"); return
     key=gemini_key()
     if not key: print("HATA: GEMINI_API_KEY yok (ortam değişkeni ya da app/.env.local)."); sys.exit(1)
     existing=[(m["slug"],m["en"]) for m in manifest]
     try:
-        new=gemini(existing, [{"term":c["term"],"aciklama":c["explanation"]} for c in candidates], key)
+        new=gemini(existing, [{"term":c["term"],"aciklama":c["explanation"], **({"ikizi":c["ikizi"]} if c.get("ikizi") else {})} for c in candidates], key)
     except Exception as e:
-        print(f"UYARI: Gemini API çağrısı geçici olarak başarısız ({e}). Adaylar kaynak açıklamalarıyla ekleniyor...")
-        new=[]
-        for c in candidates:
-            s=slugify(c["term"])
-            src=(c.get("explanation") or "").strip()
-            if s and s not in existing_slugs and src:
-                new.append({
-                    "slug": s, "en": c["term"], "full": "", "cat": "dev",
-                    "kisa": src, "tanim": src, "analoji": "", "nasil": "",
-                    "nerede": "", "karistirilan": "", "sss": [], "related": [],
-                })
+        # Gemini yoksa aday EKLENMEZ, ertelenir · adaylar her koşuda raporlardan
+        # yeniden toplandığı için ilk Gemini'li koşuda değerlendirilir. Eskiden
+        # yedek yol hepsini ham açıklamayla ekliyordu: 2026-09-24'te 09:11
+        # koşusunda Gemini 27 adaydan 9'unu seçti; 10:21 koşusunda kota bitmişti
+        # ve yedek yol reddedilen "weekly", "figma-gibi" dahil 27'sini ekledi
+        # (analojisiz/SSS'siz ince sayfalar, tekil/çoğul ikizler). Aynı gün
+        # ekleme sabahki ilk koşuda korunuyor: sözlük adımı hattın ilk Gemini
+        # çağrısı ve kota yeni sıfırlanmış; model zinciriyle kotaya takılması
+        # pratikte yalnız Gemini tamamen erişilemezken olur. Rapor (e-posta/PDF)
+        # terimleri kendi sözlük bölümünde zaten açıklıyor.
+        print(f"UYARI: Gemini erişilemedi ({e}). {len(candidates)} aday ertelendi, ilk Gemini'li koşuda değerlendirilecek:")
+        print("  " + ", ".join(c["term"] for c in candidates))
+        return
     # güvenlik: Gemini'nin döndürdüğü slug'ı normalize et · ham slug path'e
     # girince "../x" gibi bir değer os.path.join ile dictionary/ dışına yazardı
     for n in new: n["slug"]=slugify(n.get("slug") or "")
