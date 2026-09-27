@@ -8,6 +8,12 @@
 (function () {
   'use strict';
 
+  // Çeviri eksikse Türkçeye düşme (Türkçe sayfa hariç): önce İngilizce, sonra boş.
+  function yerelTanitim(entry, locale) {
+    if (locale === 'tr') return entry.tagline || '';
+    return entry['tagline_' + locale] || entry.tagline_en || '';
+  }
+
   function emit(name, detail) {
     document.dispatchEvent(new CustomEvent('trescout:interaction', {
       detail: Object.assign({ name: name }, detail || {})
@@ -193,7 +199,7 @@
     var title = document.createElement('h3');
     title.textContent = entry.title || entry.slug;
     var text = document.createElement('p');
-    text.textContent = entry['tagline_' + locale] || entry.tagline || '';
+    text.textContent = yerelTanitim(entry, locale);
     var tags = document.createElement('div');
     tags.className = 'radar-card-tags';
     (entry.tags || []).slice(0, 2).forEach(function (tag) {
@@ -280,7 +286,7 @@
         var title = document.createElement('h4');
         title.textContent = entry.title || entry.slug;
         var description = document.createElement('p');
-        description.textContent = entry['tagline_' + locale] || entry.tagline || '';
+        description.textContent = yerelTanitim(entry, locale);
         var meta = document.createElement('span');
         meta.className = 'daily-flow-step-meta';
         meta.textContent = (entry.source || 'GitHub') + ' · ' + displayDate(entry.date || entry.last_review, lang);

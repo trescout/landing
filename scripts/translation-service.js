@@ -151,7 +151,13 @@ async function geminiRequest(body, timeoutMs, attempts = 4) {
       const raw = String(error?.body || '');
       if (status) {
         const kind = classify(status, raw);
-        if (kind === 'daily') { dropModel(model, 'günlük kota doldu'); attempt = 0; continue; }
+        if (kind === 'daily') {
+          // Hangi kotanın bittiğini logla · gerekçe gemini_zinciri.py'de
+          const quota = raw.match(/"quotaId"\s*:\s*"([^"]+)"/);
+          dropModel(model, `günlük kota doldu (${quota ? quota[1] : 'quotaId yok'})`);
+          attempt = 0;
+          continue;
+        }
         if (kind === 'model') { dropModel(model, `model kullanılamıyor (${status})`); attempt = 0; continue; }
         if (kind === 'key') { disableGemini(`HTTP ${status}`); return null; }
         if (kind === 'transient' && attempt < attempts - 1) {

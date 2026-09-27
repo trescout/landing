@@ -201,7 +201,8 @@ catalog.forEach(c => {
   const enDir = path.join(ROOT, 'en', 'discover', slug);
   fs.mkdirSync(enDir, { recursive: true });
 
-  const tagline = c.tagline_en || c.tagline || `${title} open-source repository overview.`;
+  // Çeviri eksikse Türkçeye DÜŞME · İngilizce sayfada Türkçe metin yanlış dildir.
+  const tagline = c.tagline_en || `${title} open-source repository overview.`;
   const htmlContent = `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -349,7 +350,9 @@ fs.mkdirSync(dictIndexDir, { recursive: true });
 const dictKabuk = kabuk('dictionary', { TR: '/dictionary/', EN: '/en/dictionary/', FR: '/fr/dictionary/' });
 
 const dictCards = dictionary.map(t => {
-  const desc = t[D.kisa_alan] || t.kisa || '';
+  // Çeviri eksikse Türkçeye düşme: önce İngilizce, o da yoksa boş (translate-i18n
+  // adımı yumuşatıldı; eksik çeviri ertesi koşuda tamamlanır).
+  const desc = t[D.kisa_alan] || t.kisa_en || '';
   const full = t.full ? `<p class="dict-card-en">${t.full}</p>` : '';
   const cat = t.cat || 'ai';
   const searchAttr = `${t.en} ${t.full || ''} ${desc} ${t.slug}`.replace(/"/g, '&quot;');
@@ -419,7 +422,7 @@ const discKabuk = kabuk('discover', { TR: '/discover/', EN: '/en/discover/', FR:
 const discCards = [...catalog].sort((a, b) =>
   String(b.date || '').localeCompare(String(a.date || '')) || (b.stars || 0) - (a.stars || 0),
 ).map(c => {
-  const tagline = c[D.tagline_alan] || c.tagline || '';
+  const tagline = c[D.tagline_alan] || c.tagline_en || '';
   const searchAttr = `${c.title} ${tagline} ${c.slug}`.replace(/"/g, '&quot;');
   // Kapak metni görsele gömülü · o dilin kapağı varsa onu kullan (kapak-gorselleri.py)
   const dilKapak = `/assets/discover/og/${c.slug}-${LANG}.webp`;
