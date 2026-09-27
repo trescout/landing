@@ -1099,6 +1099,34 @@ def dil(kod):
     return DILLER[kod]
 
 
+# Menüdeki dil seçici · 2026-09-27. Beş dil düğmesi menünün yarısını kaplıyor,
+# mobilde ekran dışına taşıyor ve dil değişince menüyü kaydırıyordu (Burhan'ın
+# GG3 kaydı). Bağlantılar AYNEN kalıyor (<a ... aria-label>XX</a>), yalnız bir
+# <details> içine alınıyor: JS gerektirmez, CSP'ye uyar, dil_dugmeleri_yaz ve
+# nav guard'ı bağlantı metnine baktığı için değişmeden çalışır. Kanonik TR/EN
+# karşılığı scripts/fix-all-headers-and-footers.js'te · ikisini birlikte değiştirin.
+DIL_SEC_ARIA = {"tr": "Dil seçin", "en": "Choose language", "fr": "Choisir la langue",
+                "pt": "Escolher idioma", "es": "Elegir idioma", "de": "Sprache wählen"}
+
+
+def dil_secici(kod, dugmeler_html):
+    return (f'<details class="dil-secici"><summary class="btn btn-ghost" '
+            f'aria-label="{DIL_SEC_ARIA.get(kod, "Language")}">{kod.upper()}</summary>'
+            f'<div class="dil-listesi">{dugmeler_html}</div></details>')
+
+
+_NAV_DIL = re.compile(r'(<div class="nav-actions">(?:(?!</div>).)*?)'
+                      r'((?:<a href="[^"]*" class="btn btn-ghost" aria-label="[^"]*">(?:TR|EN|FR|PT|ES|DE)</a>)+)'
+                      r'(</div></div></nav>)', re.S)
+
+
+def dil_seciciye_cevir(html, kod):
+    """Eski menüdeki dil düğmelerini dil seçiciye al · zaten dönüşmüşse dokunmaz."""
+    if 'class="dil-secici"' in html:
+        return html
+    return _NAV_DIL.sub(lambda m: m.group(1) + dil_secici(kod, m.group(2)) + m.group(3), html, count=1)
+
+
 def chrome(d, logo_svg):
     """Yeni dilin İLK üretimi için nav + footer · sonra normalize edici devralır.
 
@@ -1117,9 +1145,10 @@ def chrome(d, logo_svg):
         f'<a href="{onek}/" class="btn btn-ghost" aria-label="{etiket}">{etiket}</a>'
         for etiket, onek in d["dil_dugmeleri"]
     )
+    kod = o.strip("/") or "tr"
     nav = (f'<nav><div class="container nav-inner"><a class="logo-link" href="{o}/" aria-label="TreScout">'
            f'{logo_svg}<span>TreScout</span></a><div class="nav-actions">{nav_link}'
-           f'{diller}</div></div></nav>')
+           f'{dil_secici(kod, diller)}</div></div></nav>')
 
     nasil = (f'<li><a href="{o}/#how-it-works">{d["footer_nasil"]}</a></li>' if d.get("footer_nasil") else "")
     urun = nasil + "".join(f'<li><a href="{o}/{yol}/">{ad}</a></li>'

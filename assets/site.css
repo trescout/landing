@@ -197,6 +197,64 @@ nav.scrolled {
   gap: 8px;
   align-items: center;
 }
+/* Menü öğeleri çerçeveli ve genişlikleri SABİT · 2026-09-27 (Burhan'ın GG3 kaydı).
+   Her yuva, o öğenin altı dildeki en uzun karşılığına göre (Inter 600 14px,
+   yatay dolgu 40px): Découvrir 112px · Dictionary 110px · Arquivo de relatórios
+   182px · Karşılaştır 109px. Dil değişince menü artık kaymıyor. Yeni dil
+   eklerken daha uzun bir etiket gelirse bu değerleri güncelleyin
+   (check-nav-consistency.py uzunluğu denetler). */
+.nav-actions > a.btn-ghost {
+  justify-content: center;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 10px;
+}
+@media (min-width: 641px) {
+  .nav-actions > a.btn-ghost:nth-of-type(1) { min-width: 7.1rem; }
+  .nav-actions > a.btn-ghost:nth-of-type(2) { min-width: 7rem; }
+  .nav-actions > a.btn-ghost:nth-of-type(3) { min-width: 11.5rem; }
+  .nav-actions > a.btn-ghost:nth-of-type(4) { min-width: 6.9rem; }
+}
+/* Dil seçici · JS'siz <details>. Bağlantı metni dil kodu (EN, FR...), görünen
+   ad CSS'ten geliyor; ekran okuyucu aria-label'ı okur. */
+.dil-secici { position: relative; }
+.dil-secici > summary {
+  list-style: none;
+  cursor: pointer;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 10px;
+  user-select: none;
+}
+.dil-secici > summary::-webkit-details-marker { display: none; }
+.dil-secici > summary::after { content: "\25BE"; margin-left: 6px; font-size: 0.8em; opacity: 0.7; }
+.dil-secici[open] > summary { border-color: rgba(244, 211, 94, 0.45); }
+.dil-listesi {
+  position: absolute;
+  right: 0;
+  top: calc(100% + 6px);
+  z-index: 60;
+  display: flex;
+  flex-direction: column;
+  min-width: 11rem;
+  padding: 6px;
+  background: #132338;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: 12px;
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.45);
+}
+.dil-listesi a.btn-ghost {
+  justify-content: flex-start;
+  gap: 10px;
+  padding: 8px 12px;
+  border: 0;
+  font-size: 14px;
+}
+.dil-listesi a.btn-ghost::after { font-weight: 500; opacity: 0.85; }
+.dil-listesi a[href^="/en/"]::after { content: "English"; }
+.dil-listesi a[href^="/fr/"]::after { content: "Français"; }
+.dil-listesi a[href^="/pt/"]::after { content: "Português"; }
+.dil-listesi a[href^="/es/"]::after { content: "Español"; }
+.dil-listesi a[href^="/de/"]::after { content: "Deutsch"; }
+.dil-listesi a:not([href^="/en/"]):not([href^="/fr/"]):not([href^="/pt/"]):not([href^="/es/"]):not([href^="/de/"])::after { content: "Türkçe"; }
 @media (max-width: 640px) {
   .container { padding: 0 16px; }
   .nav-inner {
@@ -207,15 +265,30 @@ nav.scrolled {
   .logo-link { gap: 8px; }
   /* Mobilde menü linklerini gizlemek yerine ikinci satırda kaydırılabilir tut.
      Böylece ana bölümlere footer'a kadar inmeden ulaşılabilir. */
+  /* Dil seçiciyle menü 5 öğeye indi · yana kaydırmak yerine gerekirse iki satıra
+     yayılıyor. overflow-x:auto açılan dil listesini kırpardı; ayrıca PT/ES/DE
+     eskiden ekran dışında kalıyordu. */
   .nav-actions {
     flex: 1 1 100%;
     min-width: 0;
     width: 100%;
     gap: 6px;
-    overflow-x: auto;
+    flex-wrap: wrap;
     justify-content: flex-start;
-    scrollbar-width: none;
   }
+  /* Dil listesi mobilde menünün altında, kapsayıcı genişliğinde açılır · seçici
+     satırın neresine düşerse düşsün ekrandan taşmasın. */
+  .nav-inner { position: relative; }
+  .dil-secici { position: static; }
+  .dil-listesi {
+    left: 0;
+    right: 0;
+    top: calc(100% - 4px);
+    min-width: 0;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  .dil-listesi a.btn-ghost { flex: 1 1 40%; }
   .nav-actions::-webkit-scrollbar { display: none; }
   .nav-actions .btn-ghost {
     display: inline-flex;
