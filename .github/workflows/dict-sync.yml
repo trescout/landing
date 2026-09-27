@@ -283,7 +283,13 @@ jobs:
       # adımına gelinmiyor, önbellek yine runner'la gidiyor (2026-09-26 koşusu 108.
       # dakikada böyle kesildi). Önceki adımlar ~70 dk sürüyor; bu adım 75'te kesilirse
       # continue-on-error sayesinde ikinci tur, guard'lar ve commit için süre kalıyor.
-      - name: Sayfaları üret · her dilde sözlük SONRA keşif
+      # SIRA: önce TÜM dillerde keşif, sonra TÜM dillerde sözlük. Search Console
+      # (25 Haz - 24 Eyl 2026): tıklamaların ~%74'ü keşif sayfalarından, sözlük
+      # 72 bin gösterimde ~130 tık. Kota gün ortasında biterse ertelenen iş
+      # sözlük olsun, keşif değil. Sözlüğün "İlgili araçlar"ı keşif sayfaları
+      # diskte olduğu için ilk turda tam; keşfin "İlgili sözlük terimleri"
+      # (aynı gün eklenen terimler) ikinci turda tamamlanıyor.
+      - name: Sayfaları üret · tüm dillerde keşif SONRA sözlük
         id: sayfalar
         continue-on-error: true
         timeout-minutes: 75
@@ -309,21 +315,26 @@ jobs:
           for d in ${{ steps.diller.outputs.kodlar }}; do
             echo "── $d"
             if [ "$targeted" = "true" ]; then
-              if [ -n "$DICTIONARY_SLUGS" ]; then
-                for slug in "${DICT_ONLY[@]}"; do
-                  [ -z "$slug" ] || python3 scripts/dictionary-en.py --lang=$d --slug="$slug" || hata=1
-                done
-              fi
               if [ -n "$DISCOVERY_SLUGS" ]; then
                 for slug in "${DISC_ONLY[@]}"; do
                   [ -z "$slug" ] || python3 scripts/discover-en.py --lang=$d --slug="$slug" || hata=1
                 done
               fi
+              if [ -n "$DICTIONARY_SLUGS" ]; then
+                for slug in "${DICT_ONLY[@]}"; do
+                  [ -z "$slug" ] || python3 scripts/dictionary-en.py --lang=$d --slug="$slug" || hata=1
+                done
+              fi
             else
-              python3 scripts/dictionary-en.py --lang=$d || hata=1
               python3 scripts/discover-en.py --lang=$d || hata=1
             fi
           done
+          if [ "$targeted" != "true" ]; then
+            for d in ${{ steps.diller.outputs.kodlar }}; do
+              echo "── $d sözlük"
+              python3 scripts/dictionary-en.py --lang=$d || hata=1
+            done
+          fi
           exit $hata
 
       # İKİNCİ TUR · çapraz bağlantı kuralı İKİ YÖNLÜ:
@@ -333,32 +344,32 @@ jobs:
       # bir terim yeni bir aracı gösteriyorsa o bölüm çevirilerde hiç basılmıyor
       # (2026-08-15: "svg" terimi beş dilde "İlgili araçlar" olmadan çıktı;
       # Almanca eklenirken de 353 sözlük sayfası aynı sebeple eksikti).
-      # Çeviriler önbellekli · ikinci tur birkaç saniye.
+      # Üretim artık keşif ÖNCE, bu yüzden ikinci tur keşfi yeniden basıyor.
+      # Yalnız önbellekten: GEMINI_SON_TARIH=1 ile yeni Gemini isteği yok,
+      # önbellekte olmayan sayfa ertesi koşuya kalıyor.
       # Aynı gerekçe · ikinci tur da kısmi başarısızlıkta hattı düşürmesin.
-      - name: Sözlük ikinci tur (keşif sayfaları artık diskte)
+      - name: Keşif ikinci tur (sözlük sayfaları artık diskte)
         id: ikinci_tur
         continue-on-error: true
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          DICTIONARY_SLUGS: ${{ github.event.inputs.dictionary_slugs }}
+          GEMINI_SON_TARIH: "1"
+          DISCOVERY_SLUGS: ${{ github.event.inputs.discovery_slugs }}
           IS_MANUAL: ${{ github.event_name == 'workflow_dispatch' }}
         run: |
-          IFS=',' read -ra DICT_ONLY <<< "$DICTIONARY_SLUGS"
+          IFS=',' read -ra DISC_ONLY <<< "$DISCOVERY_SLUGS"
           hata=0
           for d in ${{ steps.diller.outputs.kodlar }}; do
-            if [ -n "$DICTIONARY_SLUGS" ]; then
-              for slug in "${DICT_ONLY[@]}"; do
-                [ -z "$slug" ] || python3 scripts/dictionary-en.py --lang=$d --slug="$slug" || hata=1
+            if [ -n "$DISCOVERY_SLUGS" ]; then
+              for slug in "${DISC_ONLY[@]}"; do
+                [ -z "$slug" ] || python3 scripts/discover-en.py --lang=$d --slug="$slug" || hata=1
               done
             elif [ "$IS_MANUAL" != "true" ]; then
-              python3 scripts/dictionary-en.py --lang=$d || hata=1
+              python3 scripts/discover-en.py --lang=$d || hata=1
             fi
           done
           exit $hata
 
-      # Dizin sayfaları · kart ızgarası + arama/sıralama. Detay sayfalarından
-      # SONRA çalışmalı: kabuğu (nav/footer) o dilin üretilmiş bir sayfasından
-      # kopyalıyor.
       - name: Dil dizin sayfaları (tüm diller)
         run: |
           for d in ${{ steps.diller.outputs.kodlar }}; do

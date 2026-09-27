@@ -45,13 +45,16 @@ done
 # betiği bitiriyordu: 2026-09-26'da kurtarma 68 dk sonra burada düştü, push'a
 # hiç dönülmedi. Eksik sayfalar yazılmıyor (mevcut hali kalıyor), ertesi koşu
 # önbellekten devam ediyor.
+# Sıra dict-sync.yml ile aynı: önce tüm dillerde keşif (trafiğin çoğu), sonra
+# sözlük, sonra keşif ikinci turu (yalnız önbellek, yeni Gemini isteği yok).
 for d in $LANG_CODES; do
-  python3 scripts/dictionary-en.py --lang="$d" || ceviri_hata=1
   python3 scripts/discover-en.py --lang="$d" || ceviri_hata=1
 done
-
 for d in $LANG_CODES; do
   python3 scripts/dictionary-en.py --lang="$d" || ceviri_hata=1
+done
+for d in $LANG_CODES; do
+  GEMINI_SON_TARIH=1 python3 scripts/discover-en.py --lang="$d" || ceviri_hata=1
 done
 [[ "$ceviri_hata" == 0 ]] || echo "  ! bazı çeviriler eksik · üretilen sayfalar ve önbellek yine commit'lenecek"
 
