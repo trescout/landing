@@ -33,6 +33,8 @@ Zincir: GEMINI_MODELS (virgülle) > GEMINI_MODEL / TREESCOUT_TRANSLATION_MODEL
 (tek model, geriye uyum) > varsayılan.
 """
 
+import atexit
+import collections
 import datetime
 import json
 import os
@@ -118,6 +120,16 @@ if _bitenler:
     import sys as _sys
     print(f"  · Gemini: bugün kotası biten modeller atlanıyor ({', '.join(sorted(_bitenler))})", file=_sys.stderr, flush=True)
 _art_arda_hata: dict[str, int] = {}
+# Süreç sonunda model başına istek özeti · "kota nereye gidiyor" sorusu log'dan
+# sayıyla okunabilsin (2026-09-27: 22 dk'da yalnız 339 çeviri, sebep okunamadı).
+_sayac: collections.Counter = collections.Counter()
+
+
+@atexit.register
+def _ozet_yaz() -> None:
+    if _sayac:
+        parca = " · ".join(f"{m} {s}: {n}" for (m, s), n in sorted(_sayac.items()))
+        print(f"  · Gemini istek özeti: {parca}", flush=True)
 _kapali = False
 _son_istek = 0.0
 
@@ -244,6 +256,7 @@ def istek(body: dict, key: str, timeout: float = 90, deneme_sayisi: int = 4) -> 
             )
             with urllib.request.urlopen(req, timeout=timeout) as resp:
                 yanit = json.loads(resp.read().decode("utf-8"))
+            _sayac[(model, "ok")] += 1
             if not metin(yanit):
                 # 200 ama engellendi ya da yarıda kesildi · sebebi logla (2026-09-27:
                 # sözlük çağrısı sessizce None döndü, sebep okunamadı)
@@ -256,6 +269,7 @@ def istek(body: dict, key: str, timeout: float = 90, deneme_sayisi: int = 4) -> 
             _art_arda_hata[model] = 0
             return yanit
         except urllib.error.HTTPError as e:
+            _sayac[(model, str(e.code))] += 1
             try:
                 govde = e.read().decode("utf-8", errors="replace")
             except Exception:
@@ -290,6 +304,7 @@ def istek(body: dict, key: str, timeout: float = 90, deneme_sayisi: int = 4) -> 
             _basarisiz(model)
             return None
         except Exception as hata:
+            _sayac[(model, "yanıtsız")] += 1
             if deneme < 1:
                 time.sleep(5.0)
                 deneme += 1
