@@ -251,6 +251,9 @@ jobs:
           DISCOVERY_SLUGS: ${{ github.event.inputs.discovery_slugs }}
           IS_MANUAL: ${{ github.event_name == 'workflow_dispatch' }}
         run: |
+          # Yumuşak sınır 60 dk (sert sınır 75): sonra Gemini'ye yeni istek
+          # gitmez, çevrilemeyen sayfalar ertelenir, bitenler yayınlanır.
+          export GEMINI_SON_TARIH=$(( $(date +%s) + 60 * 60 ))
           IFS=',' read -ra DICT_ONLY <<< "$DICTIONARY_SLUGS"
           IFS=',' read -ra DISC_ONLY <<< "$DISCOVERY_SLUGS"
           targeted=false
