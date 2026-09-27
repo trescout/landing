@@ -222,131 +222,6 @@
     return card;
   }
 
-  var FLOW_TEXT = {
-    tr: { step: ['Günün seçkisinden', 'Kısa özet', 'Kaynak bilgisi'], loading: 'Gerçek katalog kayıtları yükleniyor…', error: 'Katalog şu anda yüklenemedi. Lütfen daha sonra tekrar deneyin.', empty: 'Bu örnek konu için henüz kayıt bulunamadı.' },
-    en: { step: ['From today’s selection', 'Short summary', 'Source details'], loading: 'Loading real catalog entries…', error: 'The catalog could not be loaded right now. Please try again later.', empty: 'There are no entries for this example topic yet.' },
-    fr: { step: ['Dans la sélection du jour', 'Résumé court', 'Informations sur la source'], loading: 'Chargement des entrées réelles du catalogue…', error: 'Le catalogue est indisponible pour le moment. Veuillez réessayer plus tard.', empty: 'Aucune entrée pour ce sujet d’exemple pour le moment.' },
-    pt: { step: ['Na seleção do dia', 'Resumo curto', 'Informações da fonte'], loading: 'Carregando registros reais do catálogo…', error: 'O catálogo não pôde ser carregado agora. Tente novamente mais tarde.', empty: 'Ainda não há registros para este tema de exemplo.' },
-    es: { step: ['En la selección del día', 'Resumen breve', 'Datos de la fuente'], loading: 'Cargando entradas reales del catálogo…', error: 'El catálogo no se pudo cargar ahora. Inténtelo de nuevo más tarde.', empty: 'Todavía no hay entradas para este tema de ejemplo.' },
-    de: { step: ['Aus der Tagesauswahl', 'Kurze Zusammenfassung', 'Quellenangaben'], loading: 'Echte Katalogeinträge werden geladen…', error: 'Der Katalog konnte gerade nicht geladen werden. Bitte versuchen Sie es später erneut.', empty: 'Für dieses Beispielthema gibt es noch keine Einträge.' }
-  };
-
-  function initDailyFlow(root) {
-    var list = root.querySelector('[data-flow-list]');
-    var topicButtons = Array.prototype.slice.call(root.querySelectorAll('[data-flow-topic]'));
-    var timeButtons = Array.prototype.slice.call(root.querySelectorAll('[data-flow-time]'));
-    var selection = root.querySelector('[data-flow-selection]');
-    if (!list || !topicButtons.length || !timeButtons.length || !selection) return;
-
-    var lang = language();
-    var locale = contentLanguage(lang);
-    var copy = FLOW_TEXT[locale] || FLOW_TEXT.en;
-    var catalog = [];
-    var latestDate = '';
-    var activeTopic = topicButtons[0].getAttribute('data-flow-topic');
-    var activeTime = timeButtons[0].getAttribute('data-flow-time');
-
-    function setPressed(buttons, value) {
-      buttons.forEach(function (button) {
-        button.setAttribute('aria-pressed', button.getAttribute('data-flow-topic') === value || button.getAttribute('data-flow-time') === value ? 'true' : 'false');
-      });
-    }
-
-    function topicLabel() {
-      var button = topicButtons.find(function (item) { return item.getAttribute('data-flow-topic') === activeTopic; });
-      return button ? button.textContent.trim() : activeTopic;
-    }
-
-    function render() {
-      setPressed(topicButtons, activeTopic);
-      setPressed(timeButtons, activeTime);
-      selection.textContent = activeTime + ' · ' + topicLabel();
-      list.replaceChildren();
-      var current = latestDate ? catalog.filter(function (entry) { return catalogDate(entry) === latestDate; }) : catalog;
-      var selected = current.filter(function (entry) { return matches(entry, activeTopic, lang); }).slice(0, 3);
-      if (!selected.length) {
-        var empty = document.createElement('p');
-        empty.className = 'daily-flow-empty';
-        empty.textContent = copy.empty;
-        list.appendChild(empty);
-        list.setAttribute('aria-busy', 'false');
-        return;
-      }
-      selected.forEach(function (entry, index) {
-        var step = document.createElement('article');
-        step.className = 'daily-flow-step';
-        var number = document.createElement('span');
-        number.className = 'daily-flow-step-number';
-        number.textContent = String(index + 1).padStart(2, '0');
-        var body = document.createElement('div');
-        body.className = 'daily-flow-step-body';
-        var label = document.createElement('span');
-        label.className = 'daily-flow-step-label';
-        label.textContent = copy.step[index];
-        var title = document.createElement('h4');
-        title.textContent = entry.title || entry.slug;
-        var description = document.createElement('p');
-        description.textContent = yerelTanitim(entry, locale);
-        var meta = document.createElement('span');
-        meta.className = 'daily-flow-step-meta';
-        meta.textContent = (entry.source || 'GitHub') + ' · ' + displayDate(entry.date || entry.last_review, lang);
-        body.appendChild(label);
-        body.appendChild(title);
-        body.appendChild(description);
-        body.appendChild(meta);
-        step.appendChild(number);
-        step.appendChild(body);
-        list.appendChild(step);
-      });
-      list.setAttribute('aria-busy', 'false');
-      emit('daily_flow_preview_rendered', { language: lang, topic: activeTopic, time: activeTime, count: selected.length });
-    }
-
-    topicButtons.forEach(function (button) {
-      button.addEventListener('click', function () {
-        activeTopic = button.getAttribute('data-flow-topic');
-        render();
-        emit('daily_flow_topic_select', { language: lang, topic: activeTopic });
-      });
-    });
-    timeButtons.forEach(function (button) {
-      button.addEventListener('click', function () {
-        activeTime = button.getAttribute('data-flow-time');
-        render();
-        emit('daily_flow_time_select', { language: lang, time: activeTime });
-      });
-    });
-    root.querySelectorAll('[data-flow-cta]').forEach(function (link) {
-      link.addEventListener('click', function () {
-        emit('daily_flow_cta', { language: lang, topic: activeTopic, time: activeTime });
-      });
-    });
-
-    whenVisible(root, function () {
-      loadCatalog()
-        .then(function (entries) {
-          catalog = entries;
-          latestDate = latestCatalogDate(catalog);
-          catalog.sort(function (a, b) {
-            return catalogDate(b).localeCompare(catalogDate(a)) || Number(b.stars || 0) - Number(a.stars || 0);
-          });
-          render();
-          emit('daily_flow_catalog_loaded', { language: lang, count: catalog.length });
-        })
-        .catch(function () {
-          list.replaceChildren();
-          var empty = document.createElement('p');
-          empty.className = 'daily-flow-empty';
-          empty.textContent = copy.error || copy.loading;
-          list.appendChild(empty);
-          list.setAttribute('aria-busy', 'false');
-          emit('daily_flow_error', { language: lang });
-        });
-    });
-
-    emit('daily_flow_view', { language: lang });
-  }
-
   function initRadar(root) {
     var grid = root.querySelector('[data-radar-grid]');
     var filters = Array.prototype.slice.call(root.querySelectorAll('[data-radar-filter]'));
@@ -434,7 +309,6 @@
   function init() {
     document.querySelectorAll('[data-report-tasting]').forEach(initReportTasting);
     document.querySelectorAll('[data-discovery-radar]').forEach(initRadar);
-    document.querySelectorAll('[data-daily-flow]').forEach(initDailyFlow);
   }
 
   if (document.readyState === 'loading') {
