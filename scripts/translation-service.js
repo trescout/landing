@@ -143,7 +143,12 @@ async function geminiRequest(body, timeoutMs, attempts = 4) {
         method: 'POST',
         headers: { 'Content-Type': 'application/json', 'x-goog-api-key': key },
       }, payload, timeoutMs);
-      if (!responseText(data)) { recordFailure(model); return null; }
+      if (!responseText(data)) {
+        const reason = data?.promptFeedback?.blockReason || data?.candidates?.[0]?.finishReason || 'boş yanıt';
+        console.log(`  ! Gemini ${model}: yanıt kullanılamadı (${reason})`);
+        recordFailure(model);
+        return null;
+      }
       consecutiveFailures.set(model, 0);
       return data;
     } catch (error) {
@@ -166,6 +171,8 @@ async function geminiRequest(body, timeoutMs, attempts = 4) {
           attempt += 1;
           continue;
         }
+        const st = raw.match(/"status"\s*:\s*"([A-Z_]+)"/);
+        console.log(`  ! Gemini ${model}: istek başarısız (HTTP ${status}${st ? ' ' + st[1] : ''})`);
         recordFailure(model);
         return null;
       }
