@@ -460,9 +460,26 @@ jobs:
             git config user.email "hello@trescout.com"
             git add -A
             git commit -m "chore(content-sync): rapordan yeni sözlük/keşif içeriği eklendi [skip ci]"
-            # Generated sayfaların üretimi uzun sürebiliyor. Bu sırada main ilerlerse
-            # eski generated ağacı rebase etmek yerine latest main üstünde baştan üret.
-            # Böylece başka bir writer'ın içeriği ezilmez, generated sayfalar da stale kalmaz.
+            # Üretim uzun sürüyor; bu sırada main ilerlerse push reddedilir.
+            # Önce REBASE: main'e gelen commit'ler çoğu zaman üretilen dosyalara
+            # dokunmuyor (betik/workflow PR'ları). Rebase temizse ve hızlı guard'lar
+            # birleşik ağaçta geçerse doğrudan push. Yalnız gerçek çakışmada (ör.
+            # rapor yayını sitemap.xml'e dokunduysa) ya da guard düşerse eski yol:
+            # latest main üstünde baştan üret · başka bir writer'ın içeriği ezilmez.
+            # 2026-09-26: üretim bittikten sonra main'e betik PR'ları merge edildi;
+            # eski yol ilk denemenin işini (çeviri önbelleği dahil) reset ile attı,
+            # 68 dk baştan üretti ve kotası bitmiş çeviride düşüp hiç push etmedi.
+            hizli_guardlar() {
+              python3 scripts/generate-manifest.py \
+                && python3 scripts/check-content-manifest.py \
+                && python3 scripts/check-no-inline-csp.py \
+                && python3 scripts/check-nav-consistency.py \
+                && python3 scripts/check-footer-consistency.py \
+                && python3 scripts/check-headline-consistency.py \
+                && python3 scripts/check-brand-typography.py \
+                && python3 scripts/check-hreflang.py \
+                && python3 scripts/catalog-home.py --check
+            }
             for deneme in 1 2 3 4 5; do
               if git push; then
                 echo "Yeni içerik eklendi ve push edildi (deneme $deneme)."
@@ -471,11 +488,25 @@ jobs:
               if [ "$deneme" -eq 5 ]; then
                 break
               fi
-              echo "→ push reddedildi · latest main çekilip generated tree yeniden basılıyor ($deneme/5)"
               git fetch origin main
-              git reset --hard origin/main
-              git clean -fd
-              bash scripts/recover-content-sync.sh
+              if git rebase origin/main && hizli_guardlar; then
+                if [ -n "$(git status --porcelain)" ]; then
+                  git add -A
+                  git commit --amend --no-edit
+                fi
+                echo "→ push reddedildi · main üstüne rebase edildi, guard'lar geçti ($deneme/5)"
+              else
+                git rebase --abort 2>/dev/null || true
+                echo "→ push reddedildi · rebase çakıştı ya da guard düştü · latest main üstünde baştan üretiliyor ($deneme/5)"
+                git reset --hard origin/main
+                git clean -fd
+                # Çeviri eksikleri kurtarmayı durdurmasın (bkz. recover-content-sync.sh)
+                bash scripts/recover-content-sync.sh || echo "  ! kurtarma betiği hata verdi · üretilen kadarıyla devam"
+                if [ -n "$(git status --porcelain)" ]; then
+                  git add -A
+                  git commit -m "chore(content-sync): rapordan yeni sözlük/keşif içeriği eklendi [skip ci]"
+                fi
+              fi
               sleep $((deneme * 5))
             done
             echo "✗ beş denemede push edilemedi."

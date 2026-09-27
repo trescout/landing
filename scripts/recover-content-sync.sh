@@ -37,14 +37,21 @@ for d in $LANG_CODES; do
   python3 scripts/kapak-gorselleri.py --lang="$d"
 done
 
+# Çeviri eksikleri kurtarmayı durdurmasın · dict-sync.yml'deki üretim
+# adımlarıyla aynı kural (PR #242). set -e altında dictionary-en.py'nin exit 1'i
+# betiği bitiriyordu: 2026-09-26'da kurtarma 68 dk sonra burada düştü, push'a
+# hiç dönülmedi. Eksik sayfalar yazılmıyor (mevcut hali kalıyor), ertesi koşu
+# önbellekten devam ediyor.
+ceviri_hata=0
 for d in $LANG_CODES; do
-  python3 scripts/dictionary-en.py --lang="$d"
-  python3 scripts/discover-en.py --lang="$d"
+  python3 scripts/dictionary-en.py --lang="$d" || ceviri_hata=1
+  python3 scripts/discover-en.py --lang="$d" || ceviri_hata=1
 done
 
 for d in $LANG_CODES; do
-  python3 scripts/dictionary-en.py --lang="$d"
+  python3 scripts/dictionary-en.py --lang="$d" || ceviri_hata=1
 done
+[[ "$ceviri_hata" == 0 ]] || echo "  ! bazı çeviriler eksik · üretilen sayfalar ve önbellek yine commit'lenecek"
 
 for d in $LANG_CODES; do
   node scripts/build-en.js --lang="$d"
