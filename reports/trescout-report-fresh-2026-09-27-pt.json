@@ -1,7 +1,7 @@
 {
   "snapshotVersion": 1,
   "date": "2026-09-27",
-  "capturedAt": "2026-09-27T09:38:15.364Z",
+  "capturedAt": "2026-09-27T09:50:26.602Z",
   "editorial": "Este relatório contém as tendências que se destacaram pela primeira vez hoje, sem repetir os registros incluídos nos relatórios normais dos últimos 30 dias.",
   "sections": [
     {
@@ -10,14 +10,14 @@
         {
           "title": "tensorflow/tensorflow",
           "url": "https://github.com/tensorflow/tensorflow",
-          "summary": "O TensorFlow, desenvolvido pelo Google, é uma biblioteca de código aberto usada para criar e treinar modelos de aprendizagem de máquina. Com sua estrutura que facilita cálculos numéricos complexos, oferece uma plataforma de inteligência artificial de ponta a ponta tanto para pesquisadores quanto para desenvolvedores de software.",
-          "meta": "C++ · ★ 200.527 · +46 hoje",
+          "summary": "O TensorFlow, desenvolvido pelo Google, é uma biblioteca de código aberto usada para criar e treinar modelos de aprendizado de máquina (machine learning). Permite que os desenvolvedores projetem redes neurais (neural networks) complexas e implantem esses modelos de forma escalável.",
+          "meta": "C++ · ★ 200.528 · +46 hoje",
           "snapshot": {
             "sourceId": "tensorflow/tensorflow",
-            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "capturedAt": "2026-09-27T09:50:27.872Z",
             "metadata": {
               "language": "C++",
-              "popularity": 200527,
+              "popularity": 200528,
               "engagementCount": 46,
               "rank": 5,
               "extra": {
@@ -29,15 +29,15 @@
         {
           "title": "block/buzz",
           "url": "https://github.com/block/buzz",
-          "summary": "Buzz, desenvolvido pela Block, é uma plataforma de comunicação de mente coletiva (hive mind) escrita na linguagem Rust. Visa facilitar o compartilhamento de dados simultâneo e processos de tomada de decisão coletiva em sistemas distribuídos.",
-          "meta": "Rust · ★ 34.918 · +339 hoje",
+          "summary": "Buzz, desenvolvido pela Block, é uma plataforma de comunicação de mente coletiva (hive mind) escrita na linguagem Rust. Visa otimizar o compartilhamento de dados simultâneo e os processos de tomada de decisão coletiva em sistemas distribuídos.",
+          "meta": "Rust · ★ 34.921 · +339 hoje",
           "returning": true,
           "snapshot": {
             "sourceId": "block/buzz",
-            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "capturedAt": "2026-09-27T09:50:27.872Z",
             "metadata": {
               "language": "Rust",
-              "popularity": 34918,
+              "popularity": 34921,
               "engagementCount": 339,
               "rank": 8,
               "extra": {
@@ -49,14 +49,14 @@
         {
           "title": "microsoft/vscode",
           "url": "https://github.com/microsoft/vscode",
-          "summary": "O Visual Studio Code, desenvolvido pela Microsoft, é um editor de código (code editor) de código aberto usado nos processos de desenvolvimento de software. Graças ao seu amplo suporte a extensões e interface personalizável, oferece um ambiente de trabalho padrão para diferentes linguagens de programação.",
-          "meta": "TypeScript · ★ 193.137 · +95 hoje",
+          "summary": "O Visual Studio Code, desenvolvido pela Microsoft, é um editor de código (code editor) de código aberto que acelera os processos de desenvolvimento de software. Escrito em TypeScript, esta ferramenta oferece um ambiente de trabalho personalizável para diferentes linguagens de programação e plataformas, graças ao seu amplo suporte a extensões.",
+          "meta": "TypeScript · ★ 193.142 · +95 hoje",
           "snapshot": {
             "sourceId": "microsoft/vscode",
-            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "capturedAt": "2026-09-27T09:50:27.872Z",
             "metadata": {
               "language": "TypeScript",
-              "popularity": 193137,
+              "popularity": 193142,
               "engagementCount": 95,
               "rank": 9,
               "extra": {
@@ -68,14 +68,14 @@
         {
           "title": "anthropics/claude-code-action",
           "url": "https://github.com/anthropics/claude-code-action",
-          "summary": "Claude Code Action, desenvolvido pela Anthropic, é uma ferramenta de inteligência artificial capaz de realizar alterações diretamente na base de código durante os processos de desenvolvimento de software. Esta solução baseada em TypeScript, que permite aos desenvolvedores automatizar tarefas de edição de código, visa expandir as capacidades dos assistentes de codificação baseados em IA (como o GitHub Copilot).",
-          "meta": "TypeScript · ★ 9.168 · +31 hoje",
+          "summary": "Claude Code Action, desenvolvido pela Anthropics, é uma ferramenta que permite aos desenvolvedores realizar operações assistidas por inteligência artificial diretamente em suas bases de código. Esta solução baseada em TypeScript visa acelerar os fluxos de trabalho de desenvolvimento de software, automatizando os processos de edição e análise de código.",
+          "meta": "TypeScript · ★ 9.171 · +31 hoje",
           "snapshot": {
             "sourceId": "anthropics/claude-code-action",
-            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "capturedAt": "2026-09-27T09:50:27.872Z",
             "metadata": {
               "language": "TypeScript",
-              "popularity": 9168,
+              "popularity": 9171,
               "engagementCount": 31,
               "rank": 12,
               "extra": {
@@ -87,14 +87,14 @@
         {
           "title": "actions/runner-images",
           "url": "https://github.com/actions/runner-images",
-          "summary": "O GitHub disponibiliza como código aberto as imagens de máquinas virtuais (runner images) necessárias para a plataforma GitHub Actions, que automatiza processos de desenvolvimento de software. Essas imagens garantem a padronização e o funcionamento consistente dos ambientes de compilação utilizados nos processos de CI/CD.",
-          "meta": "PowerShell · ★ 13.357 · +19 hoje",
+          "summary": "As imagens de runner do GitHub Actions hospedam os ambientes de máquina virtual usados pela plataforma GitHub Actions, que automatiza os processos de desenvolvimento de software. Essas imagens fornecem o sistema operacional e os conjuntos de ferramentas pré-configurados necessários nos processos de teste e implantação de software.",
+          "meta": "PowerShell · ★ 13.359 · +19 hoje",
           "snapshot": {
             "sourceId": "actions/runner-images",
-            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "capturedAt": "2026-09-27T09:50:27.872Z",
             "metadata": {
               "language": "PowerShell",
-              "popularity": 13357,
+              "popularity": 13359,
               "engagementCount": 19,
               "rank": 13,
               "extra": {
@@ -106,14 +106,14 @@
         {
           "title": "mobile-next/mobile-mcp",
           "url": "https://github.com/mobile-next/mobile-mcp",
-          "summary": "Mobile-mcp é um servidor de Protocolo de Contexto de Modelo (Model Context Protocol) que permite que modelos de inteligência artificial operem em dispositivos móveis e emuladores. Esta ferramenta permite gerenciar processos de automação móvel e extração de dados (scraping) através de um protocolo padrão.",
-          "meta": "TypeScript · ★ 7.580 · +168 hoje",
+          "summary": "Mobile-mcp é um servidor de Protocolo de Contexto de Modelo (Model Context Protocol) que realiza automação e extração de dados em dispositivos móveis e simuladores. Esta ferramenta permite que modelos de inteligência artificial interajam diretamente com as plataformas iOS e Android para executar tarefas.",
+          "meta": "TypeScript · ★ 7.586 · +168 hoje",
           "snapshot": {
             "sourceId": "mobile-next/mobile-mcp",
-            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "capturedAt": "2026-09-27T09:50:27.872Z",
             "metadata": {
               "language": "TypeScript",
-              "popularity": 7580,
+              "popularity": 7586,
               "engagementCount": 168,
               "rank": 14,
               "extra": {
@@ -125,15 +125,15 @@
         {
           "title": "vercel/next.js",
           "url": "https://github.com/vercel/next.js",
-          "summary": "Next.js é um framework React usado para desenvolver aplicações web modernas. Ele aumenta o desempenho de projetos web com recursos como renderização no lado do servidor (server-side rendering) e geração de sites estáticos.",
-          "meta": "JavaScript · ★ 142.730 · +54 hoje",
+          "summary": "Next.js é um framework React usado para desenvolver aplicações web modernas. Com recursos como renderização do lado do servidor (server-side rendering) e geração de sites estáticos, ele oferece uma solução padrão para projetos web focados em desempenho.",
+          "meta": "JavaScript · ★ 142.733 · +54 hoje",
           "returning": true,
           "snapshot": {
             "sourceId": "vercel/next.js",
-            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "capturedAt": "2026-09-27T09:50:27.872Z",
             "metadata": {
               "language": "JavaScript",
-              "popularity": 142730,
+              "popularity": 142733,
               "engagementCount": 54,
               "rank": 15,
               "extra": {
@@ -150,19 +150,19 @@
         {
           "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
           "url": "https://github.com/InfinityLoop1308/PipePipe",
-          "summary": "PipePipe é uma versão bifurcada (fork) do reprodutor de vídeo de código aberto NewPipe, que inclui um plugin (SponsorBlock) que pula automaticamente seções patrocinadas em conteúdos do YouTube. Ele oferece aos usuários a capacidade de pular anúncios e promoções dentro dos vídeos sem a necessidade de intervenção manual.",
-          "meta": "412 pontos · 226 comentários",
+          "summary": "PipePipe é uma versão bifurcada (fork) do NewPipe, um reprodutor de vídeo de código aberto que permite assistir a conteúdos do YouTube sem anúncios. O aplicativo melhora a experiência do usuário ao integrar o SponsorBlock, uma ferramenta de bloqueio de conteúdo que pula automaticamente seções patrocinadas dentro dos vídeos.",
+          "meta": "417 pontos · 226 comentários",
           "snapshot": {
             "sourceId": "49842764",
-            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "capturedAt": "2026-09-27T09:50:26.867Z",
             "metadata": {
-              "popularity": 412,
+              "popularity": 417,
               "engagementCount": 226,
               "discussions": [
                 {
                   "source": "hackernews",
                   "url": "https://news.ycombinator.com/item?id=49842764",
-                  "popularity": 412,
+                  "popularity": 417,
                   "engagementCount": 226
                 }
               ],
@@ -178,7 +178,7 @@
             {
               "source": "hackernews",
               "url": "https://news.ycombinator.com/item?id=49842764",
-              "popularity": 412,
+              "popularity": 417,
               "engagementCount": 226
             }
           ]
@@ -186,19 +186,19 @@
         {
           "title": "Fifteen years later, the Apple Cards origin story",
           "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-          "summary": "O sistema de cartões de visita digitais da Apple, Apple Cards, surgiu há quinze anos com o objetivo de padronizar a forma como os desenvolvedores compartilham informações de contato. Esta tecnologia facilitou a gestão de identidade digital usando o formato vCard, que permite transferir informações de contato entre dispositivos.",
-          "meta": "393 pontos · 102 comentários",
+          "summary": "Apple Cards era um projeto de protótipo desenvolvido pela Apple para cartões de visita digitais, mas que nunca foi lançado ao público. Esta tecnologia foi projetada como um sistema que permitia aos usuários compartilhar informações de contato entre dispositivos.",
+          "meta": "394 pontos · 102 comentários",
           "snapshot": {
             "sourceId": "49854693",
-            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "capturedAt": "2026-09-27T09:50:26.867Z",
             "metadata": {
-              "popularity": 393,
+              "popularity": 394,
               "engagementCount": 102,
               "discussions": [
                 {
                   "source": "hackernews",
                   "url": "https://news.ycombinator.com/item?id=49854693",
-                  "popularity": 393,
+                  "popularity": 394,
                   "engagementCount": 102
                 }
               ],
@@ -214,7 +214,7 @@
             {
               "source": "hackernews",
               "url": "https://news.ycombinator.com/item?id=49854693",
-              "popularity": 393,
+              "popularity": 394,
               "engagementCount": 102
             }
           ]
@@ -222,20 +222,20 @@
         {
           "title": "Does Georgism work? Five years later",
           "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
-          "summary": "O Georgismo é um modelo econômico baseado na tributação do valor da terra, visando aumentar a eficiência econômica. Os resultados de cinco anos de aplicação colocam em debate o potencial deste sistema tributário para otimizar o uso da terra e incentivar o desenvolvimento urbano.",
-          "meta": "331 pontos · 240 comentários",
+          "summary": "O georgismo é um modelo econômico que defende a tributação exclusiva do valor da terra. Os efeitos de longo prazo desta abordagem continuam a ser debatidos em relação aos seus resultados sobre a eficiência econômica e a justiça de renda.",
+          "meta": "336 pontos · 244 comentários",
           "snapshot": {
             "sourceId": "49844657",
-            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "capturedAt": "2026-09-27T09:50:26.867Z",
             "metadata": {
-              "popularity": 331,
-              "engagementCount": 240,
+              "popularity": 336,
+              "engagementCount": 244,
               "discussions": [
                 {
                   "source": "hackernews",
                   "url": "https://news.ycombinator.com/item?id=49844657",
-                  "popularity": 331,
-                  "engagementCount": 240
+                  "popularity": 336,
+                  "engagementCount": 244
                 }
               ],
               "rank": 3,
@@ -250,27 +250,27 @@
             {
               "source": "hackernews",
               "url": "https://news.ycombinator.com/item?id=49844657",
-              "popularity": 331,
-              "engagementCount": 240
+              "popularity": 336,
+              "engagementCount": 244
             }
           ]
         },
         {
           "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
           "url": "https://github.com/reladraw/reladraw",
-          "summary": "Reladraw é uma linguagem de diagramação que permite ao usuário decidir a posição dos elementos do diagrama. O objetivo é preencher a lacuna entre as restrições de ferramentas de layout automático (Mermaid, Graphviz) e a natureza demorada dos softwares de desenho manual (Draw.io).",
-          "meta": "299 pontos · 82 comentários",
+          "summary": "Reladraw é uma ferramenta de criação de diagramas baseada em código que permite aos usuários posicionar elementos de diagrama manualmente. Ele visa encontrar um equilíbrio entre as limitações de ferramentas de layout automático, como Mermaid ou Graphviz, e a natureza demorada de softwares de desenho manual, como o Draw.io.",
+          "meta": "301 pontos · 82 comentários",
           "snapshot": {
             "sourceId": "49858513",
-            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "capturedAt": "2026-09-27T09:50:26.867Z",
             "metadata": {
-              "popularity": 299,
+              "popularity": 301,
               "engagementCount": 82,
               "discussions": [
                 {
                   "source": "hackernews",
                   "url": "https://news.ycombinator.com/item?id=49858513",
-                  "popularity": 299,
+                  "popularity": 301,
                   "engagementCount": 82
                 }
               ],
@@ -286,7 +286,7 @@
             {
               "source": "hackernews",
               "url": "https://news.ycombinator.com/item?id=49858513",
-              "popularity": 299,
+              "popularity": 301,
               "engagementCount": 82
             }
           ]
@@ -294,20 +294,20 @@
         {
           "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
           "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
-          "summary": "A ASML, fabricante de equipamentos de produção de semicondutores, anunciou que não realizou nenhuma venda no mercado europeu em 2026. A empresa aguarda apoio da União Europeia para aumentar a capacidade de produção de chips na região e estimular a demanda local.",
-          "meta": "273 pontos · 621 comentários",
+          "summary": "A ASML, fabricante de equipamentos de produção de semicondutores, anunciou que não realizou nenhuma venda no mercado europeu em 2026. A empresa espera apoio da administração da União Europeia para aumentar a capacidade de produção de chips na região e estimular a demanda local.",
+          "meta": "278 pontos · 631 comentários",
           "snapshot": {
             "sourceId": "49844663",
-            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "capturedAt": "2026-09-27T09:50:26.867Z",
             "metadata": {
-              "popularity": 273,
-              "engagementCount": 621,
+              "popularity": 278,
+              "engagementCount": 631,
               "discussions": [
                 {
                   "source": "hackernews",
                   "url": "https://news.ycombinator.com/item?id=49844663",
-                  "popularity": 273,
-                  "engagementCount": 621
+                  "popularity": 278,
+                  "engagementCount": 631
                 }
               ],
               "rank": 5,
@@ -322,8 +322,8 @@
             {
               "source": "hackernews",
               "url": "https://news.ycombinator.com/item?id=49844663",
-              "popularity": 273,
-              "engagementCount": 621
+              "popularity": 278,
+              "engagementCount": 631
             }
           ]
         }
@@ -335,17 +335,17 @@
         {
           "title": "Edge0/Audio8-ASR-Infinite",
           "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
-          "summary": "Audio8-ASR-Infinite, desenvolvido pela Edge0, é um modelo de reconhecimento automático de fala (automatic speech recognition) que converte gravações de áudio em texto. Este modelo facilita o processo de processamento de dados de áudio e sua conversão em conteúdo digital baseado em texto.",
-          "meta": "♥ 878 · 19.434 downloads",
+          "summary": "O Audio8-ASR-Infinite, compartilhado no HuggingFace, é um modelo de reconhecimento automático de fala (automatic speech recognition) que converte dados de áudio em texto. Este modelo oferece uma estrutura otimizada para processar gravações de áudio de longa duração.",
+          "meta": "♥ 886 · 19.434 downloads",
           "snapshot": {
             "sourceId": "Edge0/Audio8-ASR-Infinite",
-            "capturedAt": "2026-09-27T09:38:15.501Z",
+            "capturedAt": "2026-09-27T09:50:26.754Z",
             "metadata": {
-              "popularity": 878,
+              "popularity": 886,
               "engagementCount": 19434,
               "rank": 5,
               "extra": {
-                "trendingScore": 778,
+                "trendingScore": 785,
                 "pipelineTag": "automatic-speech-recognition",
                 "tags": [
                   "transformers",
@@ -379,11 +379,11 @@
         {
           "title": "Valve Introduces Pyrowave Video Codec In Beta For Low Latency Streaming",
           "url": "https://www.phoronix.com/news/Valve-Steam-Beta-Pyrowave",
-          "summary": "A Valve disponibilizou o Pyrowave, um codec de vídeo desenvolvido para streaming de baixa latência, na versão beta do Steam. Esta tecnologia visa aumentar a velocidade de transmissão de dados enquanto mantém a qualidade visual em transmissões de jogos.",
+          "summary": "A Valve disponibilizou o codificador de vídeo (video codec) Pyrowave, desenvolvido para transmissão de baixa latência, na versão beta do Steam. Esta nova tecnologia visa reduzir a latência na transmissão de dados enquanto mantém a qualidade da imagem durante o streaming de jogos.",
           "meta": "15 pontos · 3 comentários",
           "snapshot": {
             "sourceId": "hq6xj2",
-            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "capturedAt": "2026-09-27T09:50:26.945Z",
             "metadata": {
               "popularity": 15,
               "engagementCount": 3,
@@ -416,11 +416,11 @@
         {
           "title": "Rusty thoughts on \"Parse, don't validate\"",
           "url": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
-          "summary": "A abordagem \"Analise, não valide\" (Parse, don't validate) defende que os erros sejam evitados na fonte, convertendo os dados para o formato correto antes de serem processados. Quando combinado com o sistema de tipos forte da linguagem de programação Rust, este método cria um modelo de processamento de dados seguro que reduz erros de software.",
+          "summary": "A abordagem \"Analise, não valide\" (Parse, don't validate) defende que os dados sejam convertidos para o formato correto antes de serem processados, evitando erros na fonte. Este método, quando combinado com o forte sistema de tipos (type system) da linguagem de programação Rust, cria um modelo de processamento de dados seguro que reduz erros de software.",
           "meta": "23 pontos · 9 comentários",
           "snapshot": {
             "sourceId": "uvmajz",
-            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "capturedAt": "2026-09-27T09:50:26.945Z",
             "metadata": {
               "popularity": 23,
               "engagementCount": 9,
@@ -454,11 +454,11 @@
         {
           "title": "Infecting the Steam Link with NixOS",
           "url": "https://feyor.sh/blog/infecting-the-steam-link-with-nixos/",
-          "summary": "O Steam Link, dispositivo de streaming de jogos desenvolvido pela Valve, pode ser transformado em um hardware personalizável instalando o sistema operacional NixOS. Este processo permite superar o ambiente de software limitado do dispositivo, permitindo que os usuários executem suas próprias configurações (configuration).",
+          "summary": "O Steam Link, dispositivo de transmissão de jogos produzido pela Valve, pode ser transformado em um hardware personalizável instalando o sistema operacional (operating system) NixOS. Este método permite que os usuários superem o ambiente de software restrito do dispositivo e executem suas próprias configurações.",
           "meta": "38 pontos · 1 comentários",
           "snapshot": {
             "sourceId": "wpv5ed",
-            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "capturedAt": "2026-09-27T09:50:26.945Z",
             "metadata": {
               "popularity": 38,
               "engagementCount": 1,
@@ -498,20 +498,40 @@
   ],
   "glossary": [
     {
+      "term": "machine learning",
+      "explanation": "A capacidade de computadores realizarem tarefas ganhando experiência através de dados, sem serem explicitamente programados."
+    },
+    {
+      "term": "neural networks",
+      "explanation": "Uma estrutura de inteligência artificial que processa informações em camadas, inspirada na forma como o cérebro humano funciona."
+    },
+    {
       "term": "hive mind",
-      "explanation": "Vários sistemas ou inteligências interconectados agindo como se fossem gerenciados a partir de um único centro para um objetivo comum."
+      "explanation": "O ato de múltiplos sistemas ou pessoas agirem como uma única mente, trabalhando em prol de um objetivo comum."
     },
     {
       "term": "code editor",
-      "explanation": "Programa de texto especializado que ajuda os desenvolvedores a organizar, visualizar erros e gerenciar arquivos enquanto escrevem códigos de computador."
-    },
-    {
-      "term": "GitHub Copilot gibi",
-      "explanation": "Assistentes de inteligência artificial que sugerem código em tempo real para o desenvolvedor enquanto ele escreve, acelerando seu trabalho."
+      "explanation": "Um editor de texto especializado que permite aos desenvolvedores utilizar recursos como coloração de sintaxe e verificação de erros ao escrever códigos."
     },
     {
       "term": "runner images",
-      "explanation": "Pacotes virtuais preparados para que o software funcione da mesma maneira em qualquer lugar, com todas as configurações e bibliotecas necessárias já pré-instaladas."
+      "explanation": "Pacotes de ambientes virtuais prontos que contêm todas as configurações e arquivos necessários para a execução de um software."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Um sistema de ponte que permite que modelos de inteligência artificial se conectem a diferentes fontes de dados de forma segura e padronizada."
+    },
+    {
+      "term": "framework",
+      "explanation": "Uma estrutura de trabalho que oferece estruturas e regras prontas, facilitando tarefas fundamentais durante o desenvolvimento de software."
+    },
+    {
+      "term": "server-side rendering",
+      "explanation": "Método em que as páginas da web são preparadas no lado do servidor antes de serem enviadas ao usuário para uma exibição rápida."
+    },
+    {
+      "term": "fork",
+      "explanation": "O processo de criar uma cópia de um projeto de software existente e começar a fazer novas alterações nele de forma independente."
     }
   ]
 }

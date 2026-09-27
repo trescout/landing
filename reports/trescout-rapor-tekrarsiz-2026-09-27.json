@@ -1,7 +1,7 @@
 {
   "snapshotVersion": 1,
   "date": "2026-09-27",
-  "capturedAt": "2026-09-27T09:38:15.364Z",
+  "capturedAt": "2026-09-27T09:50:26.602Z",
   "editorial": "Bu rapor, son 30 gündeki normal raporlarda yer alan kayıtları tekrar etmeden bugün ilk kez öne çıkan trendleri içerir.",
   "sections": [
     {
@@ -10,14 +10,14 @@
         {
           "title": "tensorflow/tensorflow",
           "url": "https://github.com/tensorflow/tensorflow",
-          "summary": "Google tarafından geliştirilen TensorFlow, makine öğrenimi modelleri oluşturmak ve eğitmek için kullanılan açık kaynaklı bir kütüphanedir. Karmaşık sayısal hesaplamaları kolaylaştıran yapısıyla hem araştırmacılar hem de yazılım geliştiriciler için uçtan uca bir yapay zekâ platformu sunar.",
-          "meta": "C++ · ★ 200.527 · +46 bugün",
+          "summary": "Google tarafından geliştirilen TensorFlow, makine öğrenimi (machine learning) modelleri oluşturmak ve eğitmek için kullanılan açık kaynaklı bir kütüphane. Geliştiricilerin karmaşık sinir ağlarını (neural networks) tasarlamasına ve bu modelleri ölçeklenebilir şekilde dağıtmasına olanak tanıyor.",
+          "meta": "C++ · ★ 200.528 · +46 bugün",
           "snapshot": {
             "sourceId": "tensorflow/tensorflow",
-            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "capturedAt": "2026-09-27T09:50:27.872Z",
             "metadata": {
               "language": "C++",
-              "popularity": 200527,
+              "popularity": 200528,
               "engagementCount": 46,
               "rank": 5,
               "extra": {
@@ -29,14 +29,14 @@
         {
           "title": "block/buzz",
           "url": "https://github.com/block/buzz",
-          "summary": "Block tarafından geliştirilen Buzz, Rust diliyle yazılmış bir kovan zihni (hive mind) iletişim platformu. Dağıtık sistemler üzerinde eş zamanlı veri paylaşımını ve kolektif karar alma süreçlerini kolaylaştırmayı amaçlıyor.",
-          "meta": "Rust · ★ 34.918 · +339 bugün",
+          "summary": "Block tarafından geliştirilen Buzz, Rust diliyle yazılmış bir kovan zihni (hive mind) iletişim platformudur. Dağıtık sistemlerde eş zamanlı veri paylaşımını ve toplu karar alma süreçlerini optimize etmeyi hedefler.",
+          "meta": "Rust · ★ 34.921 · +339 bugün",
           "snapshot": {
             "sourceId": "block/buzz",
-            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "capturedAt": "2026-09-27T09:50:27.872Z",
             "metadata": {
               "language": "Rust",
-              "popularity": 34918,
+              "popularity": 34921,
               "engagementCount": 339,
               "rank": 8,
               "extra": {
@@ -49,14 +49,14 @@
         {
           "title": "microsoft/vscode",
           "url": "https://github.com/microsoft/vscode",
-          "summary": "Microsoft tarafından geliştirilen Visual Studio Code, yazılım geliştirme süreçlerinde kullanılan açık kaynaklı bir kod düzenleyici (code editor). Geniş eklenti desteği ve özelleştirilebilir arayüzü sayesinde farklı programlama dilleri için standart bir çalışma ortamı sunuyor.",
-          "meta": "TypeScript · ★ 193.137 · +95 bugün",
+          "summary": "Microsoft tarafından geliştirilen Visual Studio Code, yazılım geliştirme süreçlerini hızlandıran açık kaynaklı bir kod düzenleyici (code editor). TypeScript ile yazılan bu araç, geniş eklenti desteği sayesinde farklı programlama dilleri ve platformlar için özelleştirilebilir bir çalışma ortamı sunuyor.",
+          "meta": "TypeScript · ★ 193.142 · +95 bugün",
           "snapshot": {
             "sourceId": "microsoft/vscode",
-            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "capturedAt": "2026-09-27T09:50:27.872Z",
             "metadata": {
               "language": "TypeScript",
-              "popularity": 193137,
+              "popularity": 193142,
               "engagementCount": 95,
               "rank": 9,
               "extra": {
@@ -68,14 +68,14 @@
         {
           "title": "anthropics/claude-code-action",
           "url": "https://github.com/anthropics/claude-code-action",
-          "summary": "Anthropic tarafından geliştirilen Claude Code Action, yazılım geliştirme süreçlerinde kod tabanı üzerinde doğrudan değişiklik yapabilen bir yapay zekâ aracıdır. Geliştiricilerin kod düzenleme görevlerini otomatize etmesini sağlayan bu TypeScript tabanlı çözüm, yapay zekâ destekli kodlama asistanlarının (GitHub Copilot gibi) yeteneklerini genişletmeyi hedefler.",
-          "meta": "TypeScript · ★ 9.168 · +31 bugün",
+          "summary": "Anthropics tarafından geliştirilen Claude Code Action, geliştiricilerin kod tabanları üzerinde doğrudan yapay zekâ destekli işlemler gerçekleştirmesini sağlayan bir araçtır. Bu TypeScript tabanlı çözüm, kod düzenleme ve analiz süreçlerini otomatize ederek yazılım geliştirme iş akışlarını hızlandırmayı hedefler.",
+          "meta": "TypeScript · ★ 9.171 · +31 bugün",
           "snapshot": {
             "sourceId": "anthropics/claude-code-action",
-            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "capturedAt": "2026-09-27T09:50:27.872Z",
             "metadata": {
               "language": "TypeScript",
-              "popularity": 9168,
+              "popularity": 9171,
               "engagementCount": 31,
               "rank": 12,
               "extra": {
@@ -87,14 +87,14 @@
         {
           "title": "actions/runner-images",
           "url": "https://github.com/actions/runner-images",
-          "summary": "GitHub, yazılım geliştirme süreçlerini otomatikleştiren GitHub Actions platformu için gerekli olan sanal makine imajlarını (runner images) açık kaynaklı olarak sunuyor. Bu imajlar, CI/CD süreçlerinde kullanılan derleme ortamlarının standartlaşmasını ve tutarlı bir şekilde çalışmasını sağlıyor.",
-          "meta": "PowerShell · ★ 13.357 · +19 bugün",
+          "summary": "GitHub Actions runner görüntüleri (runner images), yazılım geliştirme süreçlerini otomatize eden GitHub Actions platformunun kullandığı sanal makine ortamlarını barındırıyor. Bu görüntüler, yazılım test ve dağıtım süreçlerinde ihtiyaç duyulan önceden yapılandırılmış işletim sistemi ve araç setlerini sağlıyor.",
+          "meta": "PowerShell · ★ 13.359 · +19 bugün",
           "snapshot": {
             "sourceId": "actions/runner-images",
-            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "capturedAt": "2026-09-27T09:50:27.872Z",
             "metadata": {
               "language": "PowerShell",
-              "popularity": 13357,
+              "popularity": 13359,
               "engagementCount": 19,
               "rank": 13,
               "extra": {
@@ -106,14 +106,14 @@
         {
           "title": "mobile-next/mobile-mcp",
           "url": "https://github.com/mobile-next/mobile-mcp",
-          "summary": "Mobile-mcp, yapay zekâ modellerinin mobil cihazlar ve emülatörler üzerinde işlem yapmasını sağlayan bir Model Bağlam Protokolü (Model Context Protocol) sunucusudur. Bu araç, mobil otomasyon ve veri kazıma (scraping) süreçlerini standart bir protokol üzerinden yönetmenize olanak tanır.",
-          "meta": "TypeScript · ★ 7.580 · +168 bugün",
+          "summary": "Mobile-mcp, mobil cihazlar ve simülatörler üzerinde otomasyon ile veri kazıma işlemlerini gerçekleştiren bir Model Bağlam Protokolü (Model Context Protocol) sunucusudur. Bu araç, yapay zekâ modellerinin iOS ve Android platformlarıyla doğrudan etkileşime girerek görevleri yürütmesini sağlar.",
+          "meta": "TypeScript · ★ 7.586 · +168 bugün",
           "snapshot": {
             "sourceId": "mobile-next/mobile-mcp",
-            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "capturedAt": "2026-09-27T09:50:27.872Z",
             "metadata": {
               "language": "TypeScript",
-              "popularity": 7580,
+              "popularity": 7586,
               "engagementCount": 168,
               "rank": 14,
               "extra": {
@@ -125,14 +125,14 @@
         {
           "title": "vercel/next.js",
           "url": "https://github.com/vercel/next.js",
-          "summary": "Next.js, modern web uygulamaları geliştirmek için kullanılan bir React çerçevesi (framework). Sunucu taraflı işleme (server-side rendering) ve statik site oluşturma gibi özelliklerle web projelerinin performansını artırıyor.",
-          "meta": "JavaScript · ★ 142.730 · +54 bugün",
+          "summary": "Next.js, modern web uygulamaları geliştirmek için kullanılan bir React çerçevesidir (framework). Sunucu taraflı oluşturma (server-side rendering) ve statik site üretimi gibi özellikleriyle performans odaklı web projeleri için standart bir çözüm sunar.",
+          "meta": "JavaScript · ★ 142.733 · +54 bugün",
           "snapshot": {
             "sourceId": "vercel/next.js",
-            "capturedAt": "2026-09-27T09:38:16.810Z",
+            "capturedAt": "2026-09-27T09:50:27.872Z",
             "metadata": {
               "language": "JavaScript",
-              "popularity": 142730,
+              "popularity": 142733,
               "engagementCount": 54,
               "rank": 15,
               "extra": {
@@ -150,19 +150,19 @@
         {
           "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
           "url": "https://github.com/InfinityLoop1308/PipePipe",
-          "summary": "PipePipe, YouTube içeriklerinde sponsorlu bölümleri otomatik atlayan bir eklenti (SponsorBlock) içeren, açık kaynaklı video oynatıcı NewPipe'ın çatallanmış (fork) bir sürümüdür. Kullanıcılara video içindeki reklamları ve tanıtımları manuel müdahale gerektirmeden atlama imkânı sağlar.",
-          "meta": "412 oy · 226 yorum",
+          "summary": "PipePipe, YouTube içeriklerini reklamsız izlemeyi sağlayan açık kaynaklı bir video oynatıcı olan NewPipe'ın çatallanmış (fork) bir sürümüdür. Uygulama, videolar içindeki sponsorlu bölümleri otomatik olarak atlayan içerik engelleme aracı SponsorBlock'u entegre ederek kullanıcı deneyimini geliştiriyor.",
+          "meta": "417 oy · 226 yorum",
           "snapshot": {
             "sourceId": "49842764",
-            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "capturedAt": "2026-09-27T09:50:26.867Z",
             "metadata": {
-              "popularity": 412,
+              "popularity": 417,
               "engagementCount": 226,
               "discussions": [
                 {
                   "source": "hackernews",
                   "url": "https://news.ycombinator.com/item?id=49842764",
-                  "popularity": 412,
+                  "popularity": 417,
                   "engagementCount": 226
                 }
               ],
@@ -178,7 +178,7 @@
             {
               "source": "hackernews",
               "url": "https://news.ycombinator.com/item?id=49842764",
-              "popularity": 412,
+              "popularity": 417,
               "engagementCount": 226
             }
           ]
@@ -186,19 +186,19 @@
         {
           "title": "Fifteen years later, the Apple Cards origin story",
           "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-          "summary": "Apple'ın dijital kartvizit sistemi Apple Cards, on beş yıl önce geliştiricilerin iletişim bilgilerini paylaşma yöntemlerini standartlaştırmak amacıyla ortaya çıktı. Bu teknoloji, kişi bilgilerini cihazlar arasında aktarmayı sağlayan vCard formatını kullanarak dijital kimlik yönetimini kolaylaştırdı.",
-          "meta": "393 oy · 102 yorum",
+          "summary": "Apple Cards, Apple'ın dijital kartvizitler için geliştirdiği ancak hiçbir zaman halka açılmayan bir prototip projesiydi. Bu teknoloji, kullanıcıların iletişim bilgilerini cihazlar arası paylaşmasını sağlayan bir sistem olarak tasarlandı.",
+          "meta": "394 oy · 102 yorum",
           "snapshot": {
             "sourceId": "49854693",
-            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "capturedAt": "2026-09-27T09:50:26.867Z",
             "metadata": {
-              "popularity": 393,
+              "popularity": 394,
               "engagementCount": 102,
               "discussions": [
                 {
                   "source": "hackernews",
                   "url": "https://news.ycombinator.com/item?id=49854693",
-                  "popularity": 393,
+                  "popularity": 394,
                   "engagementCount": 102
                 }
               ],
@@ -214,7 +214,7 @@
             {
               "source": "hackernews",
               "url": "https://news.ycombinator.com/item?id=49854693",
-              "popularity": 393,
+              "popularity": 394,
               "engagementCount": 102
             }
           ]
@@ -222,20 +222,20 @@
         {
           "title": "Does Georgism work? Five years later",
           "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
-          "summary": "Georgizm, toprak değerinin vergilendirilmesini temel alan ve ekonomik verimliliği artırmayı hedefleyen bir iktisadi modeldir. Beş yıllık uygulama sonuçları, bu vergi sisteminin arazi kullanımını optimize etme ve kentsel gelişimi teşvik etme potansiyelini tartışmaya açmaktadır.",
-          "meta": "331 oy · 240 yorum",
+          "summary": "Georgizm, sadece arazi değerinin vergilendirilmesini savunan bir ekonomik modeldir. Bu yaklaşımın uzun vadeli etkileri, ekonomik verimlilik ve gelir adaleti üzerindeki sonuçları üzerinden tartışılmaya devam ediyor.",
+          "meta": "336 oy · 244 yorum",
           "snapshot": {
             "sourceId": "49844657",
-            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "capturedAt": "2026-09-27T09:50:26.867Z",
             "metadata": {
-              "popularity": 331,
-              "engagementCount": 240,
+              "popularity": 336,
+              "engagementCount": 244,
               "discussions": [
                 {
                   "source": "hackernews",
                   "url": "https://news.ycombinator.com/item?id=49844657",
-                  "popularity": 331,
-                  "engagementCount": 240
+                  "popularity": 336,
+                  "engagementCount": 244
                 }
               ],
               "rank": 3,
@@ -250,27 +250,27 @@
             {
               "source": "hackernews",
               "url": "https://news.ycombinator.com/item?id=49844657",
-              "popularity": 331,
-              "engagementCount": 240
+              "popularity": 336,
+              "engagementCount": 244
             }
           ]
         },
         {
           "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
           "url": "https://github.com/reladraw/reladraw",
-          "summary": "Reladraw, diyagram elemanlarının konumuna kullanıcı tarafından karar verilmesine olanak tanıyan bir diyagram dili. Otomatik yerleşim yapan araçların (Mermaid, Graphviz) kısıtlamaları ile manuel çizim yazılımlarının (Draw.io) zaman alan yapısı arasındaki boşluğu doldurmayı hedefliyor.",
-          "meta": "299 oy · 82 yorum",
+          "summary": "Reladraw, kullanıcıların diyagram öğelerini manuel olarak konumlandırmasına olanak tanıyan kod tabanlı bir şema oluşturma aracıdır. Otomatik yerleşim yapan Mermaid veya Graphviz gibi araçların kısıtlamaları ile Draw.io gibi manuel çizim yazılımlarının zaman alıcı yapısı arasında bir denge kurmayı hedefler.",
+          "meta": "301 oy · 82 yorum",
           "snapshot": {
             "sourceId": "49858513",
-            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "capturedAt": "2026-09-27T09:50:26.867Z",
             "metadata": {
-              "popularity": 299,
+              "popularity": 301,
               "engagementCount": 82,
               "discussions": [
                 {
                   "source": "hackernews",
                   "url": "https://news.ycombinator.com/item?id=49858513",
-                  "popularity": 299,
+                  "popularity": 301,
                   "engagementCount": 82
                 }
               ],
@@ -286,7 +286,7 @@
             {
               "source": "hackernews",
               "url": "https://news.ycombinator.com/item?id=49858513",
-              "popularity": 299,
+              "popularity": 301,
               "engagementCount": 82
             }
           ]
@@ -294,20 +294,20 @@
         {
           "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
           "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
-          "summary": "Yarı iletken üretim ekipmanları üreticisi ASML, 2026 yılında Avrupa pazarında herhangi bir satış gerçekleştiremediğini açıkladı. Şirket, bölgedeki çip üretim kapasitesini artırmak ve yerel talebi canlandırmak için Avrupa Birliği'nden destek bekliyor.",
-          "meta": "273 oy · 621 yorum",
+          "summary": "Yarı iletken üretim ekipmanları üreticisi ASML, 2026 yılında Avrupa pazarında herhangi bir satış gerçekleştiremediğini açıkladı. Şirket, bölgedeki çip üretim kapasitesini artırmak ve yerel talebi canlandırmak için Avrupa Birliği yönetiminden destek bekliyor.",
+          "meta": "278 oy · 631 yorum",
           "snapshot": {
             "sourceId": "49844663",
-            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "capturedAt": "2026-09-27T09:50:26.867Z",
             "metadata": {
-              "popularity": 273,
-              "engagementCount": 621,
+              "popularity": 278,
+              "engagementCount": 631,
               "discussions": [
                 {
                   "source": "hackernews",
                   "url": "https://news.ycombinator.com/item?id=49844663",
-                  "popularity": 273,
-                  "engagementCount": 621
+                  "popularity": 278,
+                  "engagementCount": 631
                 }
               ],
               "rank": 5,
@@ -322,8 +322,8 @@
             {
               "source": "hackernews",
               "url": "https://news.ycombinator.com/item?id=49844663",
-              "popularity": 273,
-              "engagementCount": 621
+              "popularity": 278,
+              "engagementCount": 631
             }
           ]
         }
@@ -335,17 +335,17 @@
         {
           "title": "Edge0/Audio8-ASR-Infinite",
           "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
-          "summary": "Edge0 tarafından geliştirilen Audio8-ASR-Infinite, ses kayıtlarını metne dönüştüren bir otomatik konuşma tanıma (automatic speech recognition) modeli. Bu model, ses verilerini işleyerek metin tabanlı dijital içeriklere dönüştürme sürecini kolaylaştırıyor.",
-          "meta": "♥ 878 · 19.434 indirme",
+          "summary": "HuggingFace üzerinde paylaşılan Audio8-ASR-Infinite, ses verilerini metne dönüştüren bir otomatik konuşma tanıma (automatic speech recognition) modeli. Bu model, uzun süreli ses kayıtlarını işlemek üzere optimize edilmiş bir yapı sunuyor.",
+          "meta": "♥ 886 · 19.434 indirme",
           "snapshot": {
             "sourceId": "Edge0/Audio8-ASR-Infinite",
-            "capturedAt": "2026-09-27T09:38:15.501Z",
+            "capturedAt": "2026-09-27T09:50:26.754Z",
             "metadata": {
-              "popularity": 878,
+              "popularity": 886,
               "engagementCount": 19434,
               "rank": 5,
               "extra": {
-                "trendingScore": 778,
+                "trendingScore": 785,
                 "pipelineTag": "automatic-speech-recognition",
                 "tags": [
                   "transformers",
@@ -379,11 +379,11 @@
         {
           "title": "Valve Introduces Pyrowave Video Codec In Beta For Low Latency Streaming",
           "url": "https://www.phoronix.com/news/Valve-Steam-Beta-Pyrowave",
-          "summary": "Valve, düşük gecikmeli yayıncılık için geliştirdiği görüntü kodlayıcı (video codec) Pyrowave'u Steam beta sürümünde kullanıma sundu. Bu teknoloji, oyun akışlarında görsel kaliteyi korurken veri iletim hızını artırmayı hedefliyor.",
+          "summary": "Valve, düşük gecikmeli yayıncılık için geliştirdiği Pyrowave video kodlayıcıyı (video codec) Steam beta sürümünde kullanıma sundu. Bu yeni teknoloji, oyun akışı sırasında görüntü kalitesini korurken veri iletimindeki gecikmeyi azaltmayı hedefliyor.",
           "meta": "15 oy · 3 yorum",
           "snapshot": {
             "sourceId": "hq6xj2",
-            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "capturedAt": "2026-09-27T09:50:26.945Z",
             "metadata": {
               "popularity": 15,
               "engagementCount": 3,
@@ -416,11 +416,11 @@
         {
           "title": "Rusty thoughts on \"Parse, don't validate\"",
           "url": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
-          "summary": "\"Ayrıştır, doğrulama\" (Parse, don't validate) yaklaşımı, verinin işlenmeden önce doğru biçime dönüştürülerek hataların kaynakta önlenmesini savunuyor. Bu yöntem, Rust programlama dilinin güçlü tip sistemiyle birleştiğinde yazılım hatalarını azaltan güvenli bir veri işleme modeli oluşturuyor.",
+          "summary": "\"Ayrıştır, doğrulama\" (Parse, don't validate) yaklaşımı, verinin işlenmeden önce doğru biçime dönüştürülerek hataların kaynakta engellenmesini savunuyor. Bu yöntem, Rust programlama dilinin güçlü tip sistemi (type system) ile birleştiğinde yazılım hatalarını azaltan güvenli bir veri işleme modeli oluşturuyor.",
           "meta": "23 oy · 9 yorum",
           "snapshot": {
             "sourceId": "uvmajz",
-            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "capturedAt": "2026-09-27T09:50:26.945Z",
             "metadata": {
               "popularity": 23,
               "engagementCount": 9,
@@ -454,11 +454,11 @@
         {
           "title": "Infecting the Steam Link with NixOS",
           "url": "https://feyor.sh/blog/infecting-the-steam-link-with-nixos/",
-          "summary": "Valve tarafından geliştirilen oyun yayınlama cihazı Steam Link, üzerine NixOS işletim sistemi kurularak özelleştirilebilir bir donanıma dönüştürülebiliyor. Bu süreç, cihazın sınırlı yazılım ortamını aşarak kullanıcıların kendi yapılandırmalarını (configuration) çalıştırmasına olanak tanıyor.",
+          "summary": "Valve tarafından üretilen oyun yayınlama cihazı Steam Link, üzerine NixOS işletim sistemi (operating system) kurularak özelleştirilebilir bir donanıma dönüştürülebiliyor. Bu yöntem, cihazın kısıtlı yazılım ortamını aşarak kullanıcıların kendi yapılandırmalarını çalıştırmasına olanak tanıyor.",
           "meta": "38 oy · 1 yorum",
           "snapshot": {
             "sourceId": "wpv5ed",
-            "capturedAt": "2026-09-27T09:38:15.671Z",
+            "capturedAt": "2026-09-27T09:50:26.945Z",
             "metadata": {
               "popularity": 38,
               "engagementCount": 1,
@@ -498,20 +498,40 @@
   ],
   "glossary": [
     {
+      "term": "machine learning",
+      "explanation": "Bilgisayarların açıkça programlanmadan, veriler üzerinden deneyim kazanarak görevleri yerine getirmesi."
+    },
+    {
+      "term": "neural networks",
+      "explanation": "İnsan beyninin çalışma şeklinden esinlenerek bilgiyi katmanlar halinde işleyen yapay zeka yapısı."
+    },
+    {
       "term": "hive mind",
-      "explanation": "Birbirine bağlı birçok sistemin veya zekânın ortak bir amaç için tek bir merkezden yönetiliyormuş gibi hareket etmesi."
+      "explanation": "Birden fazla sistemin veya kişinin tek bir zihin gibi hareket ederek ortak bir amaç için çalışması."
     },
     {
       "term": "code editor",
-      "explanation": "Yazılımcıların bilgisayar kodlarını yazarken düzenlemesine, hataları görmesine ve dosyaları yönetmesine yarayan özel metin programı."
-    },
-    {
-      "term": "GitHub Copilot gibi",
-      "explanation": "Yazılımcı kod yazarken ona gerçek zamanlı olarak kod önerilerinde bulunan ve işini hızlandıran yapay zekâ asistanları."
+      "explanation": "Yazılımcıların bilgisayar kodlarını yazarken renklendirme ve hata denetimi gibi özelliklerden yararlandığı özel metin düzenleyici."
     },
     {
       "term": "runner images",
-      "explanation": "Yazılımın çalışması için gereken tüm ayarların ve kütüphanelerin önceden yüklendiği, her yerde aynı şekilde çalışması için hazırlanan sanal paketler."
+      "explanation": "Yazılımın çalışması için gereken tüm ayarları ve dosyaları içinde barındıran hazır sanal ortam paketleri."
+    },
+    {
+      "term": "Model Context Protocol",
+      "explanation": "Yapay zeka modellerinin farklı veri kaynaklarına güvenli ve standart bir şekilde bağlanmasını sağlayan köprü sistemi."
+    },
+    {
+      "term": "framework",
+      "explanation": "Yazılım geliştirirken temel işleri kolaylaştıran, hazır yapılar ve kurallar sunan bir çalışma çatısı."
+    },
+    {
+      "term": "server-side rendering",
+      "explanation": "Web sayfalarının kullanıcıya gönderilmeden önce sunucu tarafında hazırlanıp hızlıca görüntülenmesi yöntemi."
+    },
+    {
+      "term": "fork",
+      "explanation": "Mevcut bir yazılım projesinin kopyasını alıp üzerinde bağımsız olarak yeni değişiklikler yapmaya başlama işlemi."
     }
   ]
 }
