@@ -66,6 +66,39 @@ jobs:
         with:
           python-version: '3.12'
 
+      # Çeviri önbelleği (assets/{dictionary,discover}/XX-cache.json) depoda
+      # duruyor ama yalnız başarılı push'ta kaydediliyordu. Başarısız koşu o
+      # ana kadar ödediği çevirileri de kaybediyor, sonraki koşu aynılarını
+      # yeniden istiyordu: 26-27 Eylül'de 7 koşunun hiçbiri push edemedi ve iki
+      # projenin kotası aynı işe tekrar tekrar harcandı. Artık önbellek her
+      # koşunun sonunda (başarısız/iptal dahil) saklanıyor, sonraki koşu
+      # depodakiyle birleştirip kaldığı yerden devam ediyor.
+      - name: Çeviri önbelleğini geri yükle (önceki koşulardan)
+        uses: actions/cache/restore@v4
+        with:
+          path: .ceviri-onbellegi
+          key: dict-sync-ceviri-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: dict-sync-ceviri-
+      - name: Çeviri önbelleğini depodakiyle birleştir
+        run: |
+          python3 - <<'PY'
+          import glob, json, os
+          n = 0
+          for yedek in glob.glob(".ceviri-onbellegi/*/*-cache.json"):
+              hedef = os.path.join("assets", os.path.relpath(yedek, ".ceviri-onbellegi"))
+              try:
+                  eski = json.load(open(yedek, encoding="utf-8"))
+                  depo = json.load(open(hedef, encoding="utf-8")) if os.path.exists(hedef) else {}
+              except (OSError, ValueError):
+                  continue
+              yeni = {k: v for k, v in eski.items() if k not in depo}
+              if yeni:
+                  depo.update(yeni)
+                  json.dump(depo, open(hedef, "w", encoding="utf-8"), ensure_ascii=False, indent=1, sort_keys=True)
+                  n += len(yeni)
+          print(f"→ önceki koşulardan {n} çeviri geri kazanıldı")
+          PY
+
       # Generator syntax hatası varsa API/LLM çağrıları ve içerik yazımı başlamadan
       # önce fail etsin. Özellikle üretilen Python stringlerinde yarım kalmış
       # satırlar günlük hattı sessizce durdurmamalı.
@@ -565,3 +598,16 @@ jobs:
         if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.skip_indexnow == 'true' }}
         run: echo "IndexNow skipped for approved report recovery; no search-engine notification sent."
 
+      # Başarısız ya da iptal edilen koşuda da önbellek kaybolmasın (yukarıdaki
+      # geri yükleme adımına bakın).
+      - name: Çeviri önbelleğini sakla
+        if: ${{ always() }}
+        run: |
+          mkdir -p .ceviri-onbellegi/dictionary .ceviri-onbellegi/discover
+          cp assets/dictionary/*-cache.json .ceviri-onbellegi/dictionary/ 2>/dev/null || true
+          cp assets/discover/*-cache.json .ceviri-onbellegi/discover/ 2>/dev/null || true
+      - uses: actions/cache/save@v4
+        if: ${{ always() }}
+        with:
+          path: .ceviri-onbellegi
+          key: dict-sync-ceviri-${{ github.run_id }}-${{ github.run_attempt }}
