@@ -124,6 +124,9 @@ function requestJson(url, options, body, timeoutMs) {
 async function geminiRequest(body, timeoutMs, attempts = 4) {
   const key = (process.env.GEMINI_API_KEY || '').trim();
   if (!key) return null;
+  // Yumuşak süre sınırı · bkz. gemini_zinciri.py sure_doldu()
+  const son = Number(process.env.GEMINI_SON_TARIH || 0);
+  if (son && Date.now() / 1000 > son) return null;
   // Düşünme token'ları maxOutputTokens'a sayılıyor · bkz. gemini_zinciri.py
   const parsed = JSON.parse(body);
   parsed.generationConfig = { ...(parsed.generationConfig || {}) };

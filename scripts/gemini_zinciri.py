@@ -189,13 +189,25 @@ def siniflandir(kod: int, govde: str) -> str:
     return "istek"
 
 
+def sure_doldu() -> bool:
+    """GEMINI_SON_TARIH (epoch sn) geçtiyse yeni istek yok.
+
+    Sayfa üretimi adımın sert süre sınırına takılırsa (75 dk) o ana kadarki
+    bütün iş push edilmeden gidiyor (2026-09-27, koşu 36309346058). Yumuşak
+    sınırda çeviri "eksik" döner, sayfa yazılmaz ve ertesi koşuya kalır; biten
+    sayfalar yayınlanır.
+    """
+    son = os.environ.get("GEMINI_SON_TARIH", "").strip()
+    return bool(son) and time.time() > float(son)
+
+
 def istek(body: dict, key: str, timeout: float = 90, deneme_sayisi: int = 4) -> dict | None:
     """generateContent'i zincir üzerinden çağırır; kullanılabilir yanıt JSON'u ya da None.
 
     None: istek başarısız, tüm modeller bitti ya da Gemini kapalı. Çağıran,
     None'da aynı isteği tekrar denememeli (sonuç değişmez).
     """
-    if not key:
+    if not key or sure_doldu():
         return None
     # Flash ailesinde düşünme varsayılan açık (medium) ve düşünme token'ları
     # maxOutputTokens'a sayılıyor (ai.google.dev/gemini-api/docs/thinking).
