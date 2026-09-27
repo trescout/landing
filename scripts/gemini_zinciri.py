@@ -214,7 +214,12 @@ def istek(body: dict, key: str, timeout: float = 90, deneme_sayisi: int = 4) -> 
             with urllib.request.urlopen(req, timeout=timeout) as resp:
                 yanit = json.loads(resp.read().decode("utf-8"))
             if not metin(yanit):
-                # 200 ama engellendi ya da yarıda kesildi · içerik kaynaklı olabilir
+                # 200 ama engellendi ya da yarıda kesildi · sebebi logla (2026-09-27:
+                # sözlük çağrısı sessizce None döndü, sebep okunamadı)
+                aday = (yanit.get("candidates") or [{}])[0]
+                sebep = ((yanit.get("promptFeedback") or {}).get("blockReason")
+                         or aday.get("finishReason") or "boş yanıt")
+                print(f"  ! Gemini {model}: yanıt kullanılamadı ({sebep})", flush=True)
                 _basarisiz(model)
                 return None
             _art_arda_hata[model] = 0
@@ -243,6 +248,8 @@ def istek(body: dict, key: str, timeout: float = 90, deneme_sayisi: int = 4) -> 
                 time.sleep(_gecikme(e, govde, deneme))
                 deneme += 1
                 continue
+            durum = re.search(r'"status"\s*:\s*"([A-Z_]+)"', govde)
+            print(f"  ! Gemini {model}: istek başarısız (HTTP {e.code}{' ' + durum.group(1) if durum else ''})", flush=True)
             _basarisiz(model)
             return None
         except Exception:

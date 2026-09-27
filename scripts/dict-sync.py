@@ -162,7 +162,7 @@ def gemini(existing, candidates, key):
     body = {
         "systemInstruction": {"parts": [{"text": SYS}]},
         "contents": [{"parts": [{"text": payload}]}],
-        "generationConfig": {"temperature": 0.5, "responseMimeType": "application/json", "maxOutputTokens": 8192}
+        "generationConfig": {"temperature": 0.5, "responseMimeType": "application/json", "maxOutputTokens": 32768}
     }
     # Kota/erişim hatasında zincir None döner (tekrar denemek sonucu değiştirmez);
     # biçim hatasında bir kez daha istenir. Hata, çağıranın yedek yoluna düşer.
@@ -421,9 +421,23 @@ def main():
     key=gemini_key()
     if not key: print("HATA: GEMINI_API_KEY yok (ortam değişkeni ya da app/.env.local)."); sys.exit(1)
     existing=[(m["slug"],m["en"]) for m in manifest]
-    try:
-        new=gemini(existing, [{"term":c["term"],"aciklama":c["explanation"], **({"ikizi":c["ikizi"]} if c.get("ikizi") else {})} for c in candidates], key)
-    except Exception as e:
+    # Adaylar KÜÇÜK GRUPLARLA gönderilir · 2026-09-27 koşusunda 34 aday tek
+    # çağrıda istendi; her terim için uzun JSON + Flash'ın düşünme token'ları
+    # çıktı sınırını aşınca yanıt yarıda kesildi (MAX_TOKENS → reddedildi) ve
+    # 34'ü birden ertelendi. Artık başarısız grup yalnız kendi adaylarını erteler.
+    istekler=[{"term":c["term"],"aciklama":c["explanation"], **({"ikizi":c["ikizi"]} if c.get("ikizi") else {})} for c in candidates]
+    GRUP=6
+    new=[]; ertelenen=[]; son_hata=None
+    for i in range(0, len(istekler), GRUP):
+        grup=istekler[i:i+GRUP]
+        try:
+            new += list(gemini(existing, grup, key) or [])
+        except Exception as e:
+            ertelenen += [g["term"] for g in grup]; son_hata=e
+    if ertelenen:
+        print(f"UYARI: Gemini {len(ertelenen)}/{len(istekler)} adayı değerlendiremedi ({son_hata}); ertelendi, ilk Gemini'li koşuda tekrar denenecek:")
+        print("  " + ", ".join(ertelenen))
+    if len(ertelenen) == len(istekler):
         # Gemini yoksa aday EKLENMEZ, ertelenir · adaylar her koşuda raporlardan
         # yeniden toplandığı için ilk Gemini'li koşuda değerlendirilir. Eskiden
         # yedek yol hepsini ham açıklamayla ekliyordu: 2026-09-24'te 09:11
@@ -434,8 +448,6 @@ def main():
         # çağrısı ve kota yeni sıfırlanmış; model zinciriyle kotaya takılması
         # pratikte yalnız Gemini tamamen erişilemezken olur. Rapor (e-posta/PDF)
         # terimleri kendi sözlük bölümünde zaten açıklıyor.
-        print(f"UYARI: Gemini erişilemedi ({e}). {len(candidates)} aday ertelendi, ilk Gemini'li koşuda değerlendirilecek:")
-        print("  " + ", ".join(c["term"] for c in candidates))
         return
     # güvenlik: Gemini'nin döndürdüğü slug'ı normalize et · ham slug path'e
     # girince "../x" gibi bir değer os.path.join ile dictionary/ dışına yazardı

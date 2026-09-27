@@ -269,6 +269,13 @@ def build(term, chrome):
     baslik = term.get("en") or slug
     full = ingilizce_acilim(term.get("full") or "")
     lead = tr2en(metin(blok(r'<p class="disc-lead">(.*?)</p>', b))) or (term.get(D["kisa_alan"]) or "")
+    # Meta açıklama kısa giriş cümlesiyle SEO/GEO guard'ını (≥50 kr) düşürmesin ·
+    # 2026-09-27: TR giriş "Chrome DevTools, tarayıcı içi geliştirici panelidir."
+    # çevirisi 49 karakterdi, koşu commit'ten önce durdu. Keşifteki kuralın ikizi
+    # (discover-en.py · tagline <90 → uzatılır): görünen girişe dokunulmaz,
+    # yalnız meta açıklama sözlükteki kısa tanımla tamamlanır.
+    kisa_ek = (term.get(D["kisa_alan"]) or "").strip()
+    aciklama = lead if len(lead) >= 90 or not kisa_ek or kisa_ek in lead else f"{lead} {kisa_ek}"
     analoji = metin(blok(r'<div class="dict-analogy">(.*?)</div>', b))
     analoji = analoji.replace("Şöyle düşünün:", "").strip()
     analoji_html = (f'<div class="dict-analogy"><strong>{D["analoji"]}</strong> {esc(tr2en(analoji))}</div>\n'
@@ -290,7 +297,7 @@ def build(term, chrome):
     head = (f'<!DOCTYPE html>\n<html lang="{D["html_lang"]}">\n<head>\n<meta charset="UTF-8">\n'
             '<meta name="viewport" content="width=device-width, initial-scale=1">\n'
             f'<title>{D["nedir"].format(terim=esc(baslik))} · {D["sozluk"]} · TreScout</title>\n'
-            f'<meta name="description" content="{esc(lead[:155])}">\n'
+            f'<meta name="description" content="{esc(aciklama[:155])}">\n'
             '<link rel="icon" type="image/svg+xml" href="/favicon.svg">\n'
             f'<link rel="canonical" href="{canon_en}">\n'
             f'<link rel="alternate" hreflang="tr" href="{canon_tr}">\n'
@@ -298,7 +305,7 @@ def build(term, chrome):
             f'<link rel="alternate" hreflang="x-default" href="{canon_en}">\n'
             f'<link rel="alternate" type="text/markdown" href="{D["onek"]}/dictionary/{slug}.md">\n'
             f'<meta property="og:title" content="{D["nedir"].format(terim=esc(baslik))}">\n'
-            f'<meta property="og:description" content="{esc(lead[:155])}">\n'
+            f'<meta property="og:description" content="{esc(aciklama[:155])}">\n'
             f'<meta property="og:url" content="{canon_en}">\n<meta property="og:type" content="article">\n'
             f'<meta property="og:locale" content="{D["og_locale"]}">\n'
             f'<meta property="og:image" content="{BASE}/og-image.png">\n'
@@ -307,7 +314,7 @@ def build(term, chrome):
             '<meta name="twitter:card" content="summary_large_image">\n'
             '<meta name="twitter:site" content="@GetTreScout">\n'
             f'<meta name="twitter:title" content="{esc(D["nedir"].format(terim=baslik))}">\n'
-            f'<meta name="twitter:description" content="{esc(lead[:155])}">\n'
+            f'<meta name="twitter:description" content="{esc(aciklama[:155])}">\n'
             f'<meta name="twitter:image" content="{BASE}/og-image.png">\n'
             f'<script type="application/ld+json">\n{ld}\n</script>\n'
             '<link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>\n'
