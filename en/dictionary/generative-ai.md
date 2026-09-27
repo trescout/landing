@@ -42,6 +42,7 @@ Varies depending on usage. Small jobs are tiny, heavy training and million calls
 - [System Prompts and Models of AI Tools](/en/discover/system-prompts-and-models-of-ai-tools/)
 - [Generative AI for Beginners](/en/discover/generative-ai-for-beginners/)
 - [Impeccable](/en/discover/impeccable/)
+- [Docling](/en/discover/docling/)
 - [Next AI Draw IO](/en/discover/next-ai-draw-io/)
 - [Awesome Generative AI Guide](/en/discover/awesome-generative-ai-guide/)
 - [Aisuite](/en/discover/aisuite/)

@@ -34,7 +34,6 @@ Dabei handelt es sich um kleine unabhängige Verarbeitungseinheiten innerhalb ei
 - [Omlx](/de/discover/omlx/)
 - [Ktransformers](/de/discover/ktransformers/)
 - [Pocket TTS](/de/discover/pocket-tts/)
-- [ODS](/de/discover/ods/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/cpu/

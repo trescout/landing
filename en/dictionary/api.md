@@ -40,7 +40,7 @@ Since it only allows sharing of permitted data, it only opens the relevant part 
 - [Free for Dev](/en/discover/free-for-dev/)
 - [ComfyUI](/en/discover/comfyui/)
 - [MoneyPrinterTurbo](/en/discover/moneyprinterturbo/)
-- [TradingAgents](/en/discover/tradingagents/)
+- [Browser Use](/en/discover/browser-use/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/api/

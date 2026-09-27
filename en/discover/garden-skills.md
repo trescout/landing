@@ -1,24 +1,23 @@
-# Open source skills for web design
+# Acquire ready-to-use skills in various fields
 
-Garden-skills é uma coleção de habilidades (skills) de código aberto desenvolvida para diversas funções, como web design, aquisição de informações e criação visual. For this purpose, you can use the software to integrate the software.
+Developed by ConardLi, garden-skills is an open-source collection that offers ready-to-use skill packages in various fields such as web design, information retrieval, and image generation. This modular structure, which developers can integrate into their projects, enables different functions to be used in a centralized arrangement.
 
 - ★ 12,173
-- CSS
-- GitHub Trending · 2026-08-27
+- GitHub Trending · 2026-08-26
 
 ## What you get
-- Speeds up web design and interface development processes
-- Turns text into cinematic presentations and videos
-- Offers modular tools for visual production and content design
+- Offers ready-to-use skill packages in the fields of web design, information retrieval, and image generation
+- Includes AI workflows that turn writing, lessons, and demos into video presentations
+- Contains practical guides for different interface prototypes and design systems
 
 ## Installation
-**Add all capabilities to the project**
+**Install all skills**
 
 ```
 npx skills add ConardLi/garden-skills
 ```
 
-**Add a specific capability to a project**
+**Install a single skill**
 
 ```
 npx skills add ConardLi/garden-skills -s web-design-engineer
@@ -34,7 +33,7 @@ npx skills list
 
 
 ## If you don't write code
-Add web design and presentation capabilities to my AI agent using the Garden Skills library. Activate the web-design-engineer or web-video-presentation modules according to the needs of your project and produce output using the design systems, style recipes and visualization rules offered by these modules.
+I want to improve my web development and presentation preparation processes by using the Garden Skills collection. Can you help me integrate the skill packages suitable for my project?
 
 ## Related dictionary terms
 

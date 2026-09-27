@@ -30,7 +30,7 @@ Projeyi bilgisayarınıza indirin veya kopyalayın. Ardından Unity Hub üzerind
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-10 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Assets SDK Open Source
+Assets Software Development SDK Open Source
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/u3-sdk/

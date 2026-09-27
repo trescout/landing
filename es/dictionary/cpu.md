@@ -34,7 +34,6 @@ Son pequeñas unidades de procesamiento independientes dentro de un procesador q
 - [Omlx](/es/discover/omlx/)
 - [Ktransformers](/es/discover/ktransformers/)
 - [Pocket TTS](/es/discover/pocket-tts/)
-- [ODS](/es/discover/ods/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/cpu/

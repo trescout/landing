@@ -1,24 +1,34 @@
 # What is Refactoring?
 
-It is the process of making the code structure inside the software more organized and efficient without changing its external behavior.
+Refactoring is the process of simplifying code while preserving its behavior.
 
-## Overview
-Refactoring is like renewing the plumbing inside a building or changing the location of items to make them more useful, without damaging the external appearance. There is no change in the operation of the software, but the readability of the code increases and it becomes easier to add new features in the future. It is a cleanup process that should be done regularly to reduce technical debt.
+## Definition and Word Origin
+The internal wiring is renewed without altering the external appearance. Code readability increases, and adding new features becomes easier. It is a cleanup process that pays off technical debt. Martin Fowler is the reference name for this discipline.
 
-*Analogy: It's like rearranging the text of a book to make sentences flow more smoothly and correct spelling errors, without changing the subject.*
+## How to Know and Use in Daily Life?
+Review: Code review rounds. Debt payment: Cleanup sprinkled into the sprint. Takeover: Simplification before diving into legacy code.
 
-## How it works
-Unnecessary code blocks are deleted, complex functions are broken down into simpler parts, and variable names are made more understandable.
+## Technical Depth and Architecture
+Common moves:
 
-## Where it is used
-It is applied in the code review stages of software development processes.
+## Frequently Mixed Things
+It is thought to be a feature or bug fix. Yet the output does not change, only the internal structure improves. Behavior is the same, code is different.
 
-## Commonly confused with
-It should not be confused with adding new features or fixing bugs; this just improves the quality of the code.
+## Use in Different Disciplines
+Plumbing: Pipe replacement while the wall stands. Editing: The topic is the same, the sentences flow. Pruning: The tree is the same, the branches are orderly.
 
-## Frequently asked questions
+## Frequently Asked Questions
 **Why do we do it?**
-If the code is cleaner, future errors will be prevented and the development process will be faster.
+Clean code prevents bugs and slowdowns, speeds up new work.
+
+**When is it done?**
+In the code being touched, in small pieces. Major cleanup is planned separately.
+
+**What is the risk?**
+A touch without tests breaks behavior. Do not enter without test assurance.
+
+**How often is it done?**
+Continuously, in small doses. Sprinkled into the sprint, not postponed.
 
 
 ## Related terms

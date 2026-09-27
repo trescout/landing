@@ -2,16 +2,16 @@
 
 Yapay zekâ mühendisliğine sıfırdan giriş: 485 ders, 20 faz ve yaklaşık 320 saatlik içerik. Lineer cebirden otonom ajanlara kadar her algoritmayı önce matematiğiyle, ardından elle kod yazarak öğretir. Python, TypeScript, Rust ve Julia dillerini kapsayan bu kurs tamamen ücretsiz ve açık kaynaklıdır.
 
-- ★ 58.406
+- ★ 58.825
 - Python
 - MIT
 - GitHub Trending · 26 May 2026
 
 ## Güncelleme
+- 27 Eylül 2026: Yıldız 58.406 → 58.825, son sürüm v2026.10 (27 Eylül 2026).
 - 27 Eylül 2026: Yıldız 52.978 → 58.406, son sürüm v2026.09 (7 Eylül 2026).
 - 8 Eylül 2026: Yıldız 52.433 → 52.978, son sürüm v2026.09 (7 Eylül 2026).
 - 5 Eylül 2026: Yıldız 49.881 → 52.433, son sürüm v2026.08 (10 Ağustos 2026).
-- 27 Ağustos 2026: Yıldız 46.486 → 49.881, son sürüm v2026.08 (10 Ağustos 2026).
 
 - **Kimin için:** AI'ı yüzeysel değil temelden öğrenmek isteyenler 
 - **Zorluk:** Başlangıçtan ileriye · faz faz ilerler 

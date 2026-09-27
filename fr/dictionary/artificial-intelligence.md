@@ -38,7 +38,6 @@ L’intelligence artificielle va changer la façon dont de nombreux travaux sont
 - [Hermes Agent](/fr/discover/hermes-agent/)
 - [Opencode](/fr/discover/opencode/)
 - [FreeDomain](/fr/discover/free-domain/)
-- [AutoGPT](/fr/discover/autogpt/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/artificial-intelligence/

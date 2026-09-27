@@ -2,28 +2,35 @@
 
 > Customer Relationship Management
 
-It is a digital system that allows companies to manage customer information, past interactions and sales processes from a single center.
+CRM (Customer Relationship Management) is a system that centralizes customer interactions.
 
-## Overview
-CRM helps a business keep track of all its relationships with its customers in a digital environment. Information such as when the customer called, which product he bought or what problems he had is stored here. In this way, companies can provide more personal and faster service to their customers.
+## Definition and Word Origin
+When the customer called, which product they purchased, or what issue they experienced is stored here. Sales, support, and marketing look at the same record, so the customer doesn't have to retell their story every time they call. It has a history stretching from a business card box to the Salesforce cloud.
 
-*Analogy: A CRM is essentially like the digital memory of a business; Just like you write down an old friend's birthday or their favorite food in your notebook, companies use this system to remember their customers.*
+## How to Know and Use in Daily Life?
+Sales: Candidate tracking and quote management. Support: Ticket logging and resolution history. Marketing: Bulk and personalized messages to segments.
 
-## How it works
-Companies enter customer data into CRM software and the system compiles this data into regular reports. Sales teams decide who to contact and when by looking at these reports. This way, no customer request goes unnoticed.
+## Technical Depth and Architecture
+Objects of the system:
 
-## Where it is used
-It is used extensively in sales departments, customer service centers and marketing teams.
+## Frequently Mixed Things
+It is thought to be an address book, but CRM goes beyond mere recording and generates sales strategy. Considering it just a database is also incomplete: The database is the foundation, CRM is the business tool built on top of it.
 
-## Commonly confused with
-It's often confused with just an 'address book', but a CRM doesn't just keep records, it also allows you to develop a sales strategy with those records.
+## Use in Different Disciplines
+Hospital: Patient file and appointment history.Library: Member card and borrowing record.School: Student information system.
 
-## Frequently asked questions
+## Frequently Asked Questions
 **Do I have to use CRM?**
-If your number of customers has increased and you are now having a hard time remembering who you talked to and what, yes, it is necessary to keep order.
+Almost yes, as the number of customers and interactions increases. If you are having trouble remembering who was talked to about what, the time has come.
 
 **Are CRM and database the same thing?**
-CRM is a specialized management software that uses database technology; So the database is the foundation, CRM is a business tool built on top of it.
+No. The database is the foundation, CRM is the business tool built upon it.
+
+**Is it necessary for a small business?**
+Yes, with free and simple plans. The order established when customers are few is worth its weight in gold during growth.
+
+**Are there open source CRMs?**
+Yes, there are options like SuiteCRM and Odoo. Hosting and maintenance costs belong to you.
 
 
 ## Related terms

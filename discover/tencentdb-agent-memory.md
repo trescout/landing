@@ -67,7 +67,7 @@ TencentDB Agent Memory kullanarak yapay zekâ ajanımın uzun süreli hafızası
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-09 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Mermaid Long-term Memory Memory Token Agent API
+Long-term Memory Mermaid Memory Token Agent API
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/tencentdb-agent-memory/

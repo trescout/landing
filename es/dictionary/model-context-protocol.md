@@ -38,7 +38,6 @@ Sí, MCP tiene una estructura que mantiene bajo control los permisos de acceso a
 - [Context Mode](/es/discover/context-mode/)
 - [Unity MCP](/es/discover/unity-mcp/)
 - [DesktopCommanderMCP](/es/discover/desktopcommandermcp/)
-- [TREK](/es/discover/trek/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/model-context-protocol/

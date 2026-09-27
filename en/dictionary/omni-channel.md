@@ -1,29 +1,40 @@
 # What is Omni-channel?
 
-It is the harmonious and uninterrupted operation of all sales channels such as stores, websites and mobile applications.
+Omni-channel refers to the synchronous operation of all sales channels.
 
-## Overview
-It is an approach that combines the customer's experience in a single center. For example, you can return a product you bought online from the store or easily purchase a product you looked at in the store from the mobile application.
+## Definition and Word Origin
+Omni means all. The store, website and app are not separate worlds, but doors to a single experience. A product bought online is returned to the store, and one looked at in the store is bought from the mobile app.
 
-*Analogy: It is like the actors on stage in a theater play telling a single story in perfect harmony with the crew and lighting people backstage.*
+## How to Know and Use in Daily Life?
+Retail: Try in store, order to your door. E-commerce: Cart syncing across devices. Support: Context retention when switching channels.
 
-## How it works
-All sales channels are connected to the same database and customer information is kept up to date everywhere.
+## Technical Depth and Architecture
+Spine:
 
-## Where it is used
-It is used in retail, e-commerce and customer service management.
+## Frequently Mixed Things
+Mistaken for multi-channel. In that, channels are many; in this, channels are connected. The difference in connection determines loyalty.
 
-## Commonly confused with
-The difference from multi-channel systems is that the channels are interconnected and synchronized.
+## Use in Different Disciplines
+Theater: The harmony of stage, backstage, and lighting. Orchestra: Sections playing a single piece. Airport: Transfer baggage layout.
 
-## Frequently asked questions
-**Why is omni-channel important?**
-It increases loyalty by ensuring that the customer receives the same service quality no matter which channel they use.
+## Frequently Asked Questions
+**Why is it important?**
+If the channel changes, the experience continues and loyalty increases. A disconnected channel loses customers.
+
+**What does it cost?**
+It requires integration and data organization. Gradual transition splits the cost.
+
+**Is it suitable for small businesses?**
+Yes, in its simple form. It starts with a shared inventory and return system.
+
+**How is it measured?**
+By channel transition rate, ease of returns, and repeat purchases.
 
 
 ## Related terms
 - [Omni-channel Desk](/en/dictionary/omni-channel-desk/)
 - [Enterprise Resource Planning](/en/dictionary/enterprise-resource-planning/)
+- [Omni-channel Support](/en/dictionary/omni-channel-support/)
 
 ## Related tools
 - [Chatwoot](/en/discover/chatwoot/)

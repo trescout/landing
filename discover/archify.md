@@ -1,10 +1,9 @@
-# Yapay zekâ ajanınıza sistem haritası çizdirin
+# Yapay zekâ ile interaktif sistem şemaları oluşturun
 
-Archify é uma habilidade de agente (agent skill) de inteligência artificial que cria diagramas técnicos, como fluxogramas arquiteturais e ciclos de dados, como arquivos HTML verificáveis e animados. Esta ferramenta, usada para visualizar projetos de sistemas complexos, suporta a exportação de resultados em alta resolução.
+Archify, mimari, veri akışı ve iş akışı şemalarını doğrulanabilir ve hareketli HTML dosyaları olarak oluşturan bir yapay zekâ yeteneğidir (agent skill). Karmaşık sistem tasarımlarını görselleştirmek için kullanılan bu araç, diyagramların yüksek çözünürlüklü dışa aktarımını destekler.
 
 - ★ 72.294
-- JavaScript
-- GitHub Trending · 2026-08-27
+- GitHub Trending · 2026-08-26
 
 ## Güncelleme
 - 27 Eylül 2026: Yıldız 64.166 → 72.294, son sürüm v2.16.0 (30 Ağustos 2026).
@@ -13,46 +12,32 @@ Archify é uma habilidade de agente (agent skill) de inteligência artificial qu
 - 10 Eylül 2026: Yıldız 53.771 → 56.659, son sürüm v2.16.0 (30 Ağustos 2026).
 
 ## Ne kazandırır?
-- Kod tabanını etkileşimli sistem haritalarına dönüştürür
-- Mimari değişiklikleri karşılaştırmalı olarak doğrular
-- Yüksek çözünürlüklü görsel çıktı ve paylaşım kartları üretir
+- fikirlerinizi ve planlarınızı hareketli HTML görsellerine dönüştürür
+- kod deposu gerektirmeden doğrudan metin açıklamalarıyla çalışır
+- detaylı mimari, veri akışı ve iş akışı şemaları hazırlar
 
 ## Kurulum
 
-**Genel kurulum**
+**Aracı kurmak için şu komutu çalıştırın**
 
 ```
 npx skills add tt-a1i/archify -g
 ```
 
-**Cursor için kurulum**
-
-```
-npx -y skills add tt-a1i/archify --skill archify --agent cursor --global --copy --yes
-```
-
-## Çalıştırma
-
-**Codex ile deneme**
-
-```
-npx skills use tt-a1i/archify@archify --agent codex
-```
-
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Bu kod tabanını analiz et ve Archify kullanarak yüksek seviyeli bir çalışma zamanı mimari diyagramı oluştur. 8-12 temel bileşeni, birincil veri yolunu, dış bağımlılıkları ve güven sınırlarını göster. Destekleyici detayları kenar çizgileri yerine bilgi kartları içerisinde sun.
+Use Archify to diagram a web request: Browser calls the API, the API checks Redis, and a cache miss queries PostgreSQL and fills the cache.
 
-- **Kimin için:** Karmaşık sistem mimarilerini görselleştirmek ve mimari değişiklikleri doğrulanabilir şekilde belgelemek isteyen yazılım geliştiriciler içindir. 
+- **Kimin için:** Karmaşık sistem tasarımlarını, iş akışlarını ve mimari planları görselleştirmek isteyen geliştiriciler ve ekipler için uygundur. 
 - **Lisans:** MIT 
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/tt-a1i/archify)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-27 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Skill Agent Artificial Intelligence
+Skill Agent API Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/archify/

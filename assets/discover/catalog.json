@@ -118,14 +118,14 @@
     "slug": "ai-engineering-from-scratch",
     "title": "AI Engineering from Scratch",
     "tagline": "Yapay zekâ mühendisliğini sıfırdan, uygulamalı kodlama ile öğreten 485 derslik ücretsiz kurs.",
-    "meta": "★ 58.406 · MIT",
+    "meta": "★ 58.825 · MIT",
     "source": "GitHub",
     "date": "2026-05-26",
     "tags": [
       "Öğrenme",
       "Geliştirici aracı"
     ],
-    "stars": 58406,
+    "stars": 58825,
     "image": "/assets/discover/og/ai-engineering-from-scratch.webp",
     "headline": "Sıfırdan yapay zekâ Mühendisliği Eğitimi",
     "last_review": "2026-09-27",
@@ -171,6 +171,13 @@
         "onceki_yildiz": 52978,
         "surum": "v2026.09",
         "surum_tarihi": "2026-09-07"
+      },
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 58825,
+        "onceki_yildiz": 58406,
+        "surum": "v2026.10",
+        "surum_tarihi": "2026-09-27"
       }
     ],
     "tagline_en": "A free 485-lesson course that teaches artificial intelligence engineering from scratch with applied coding.",
@@ -178,7 +185,7 @@
     "tagline_pt": "Um curso gratuito de 485 aulas que ensina engenharia de inteligência artificial do zero com codificação aplicada.",
     "tagline_es": "Un curso gratuito de 485 lecciones que enseña ingeniería de inteligencia artificial desde cero con codificación aplicada.",
     "tagline_de": "Ein kostenloser Kurs mit 485 Lektionen, der die Technik der künstlichen Intelligenz mit angewandter Codierung von Grund auf vermittelt.",
-    "last_seen": "2026-09-26"
+    "last_seen": "2026-09-27"
   },
   {
     "slug": "knowledge-work-plugins",
@@ -854,13 +861,13 @@
     "slug": "ppf-contact-solver",
     "title": "PPF Contact Solver",
     "tagline": "Fizik simülasyonları için temas çözücü: Kumaş, katı ve ip etkileşimlerinde ZOZO'nun fizik motoru.",
-    "meta": "★ 4.508 · Apache-2.0",
+    "meta": "★ 4.507 · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-26",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 4508,
+    "stars": 4507,
     "image": "/assets/discover/og/ppf-contact-solver.webp",
     "headline": "Fizik Simülasyonlarında Temasları Yönetin",
     "last_review": "2026-09-27",
@@ -941,6 +948,13 @@
         "onceki_yildiz": 4490,
         "surum": "addon-2026-09-22-2204",
         "surum_tarihi": "2026-09-22"
+      },
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 4507,
+        "onceki_yildiz": 4508,
+        "surum": "addon-2026-09-27-2158",
+        "surum_tarihi": "2026-09-27"
       }
     ],
     "tagline_en": "Contact solver for physics simulations: ZOZO's physics engine for fabric, solid and string interactions.",
@@ -2549,14 +2563,14 @@
     "slug": "ruview",
     "title": "RuView",
     "tagline": "WiFi CSI ile kablosuz sensing ve sinyal analizi için açık kaynaklı platform.",
-    "meta": "★ 95.124",
+    "meta": "★ 95.172",
     "image": "/assets/discover/og/ruview.webp",
     "source": "GitHub",
     "date": "2026-05-30",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 95124,
+    "stars": 95172,
     "summary": "WiFi Channel State Information (CSI) kullanarak ortam değişimlerini incelemenize yardımcı olur. ESP32 veya araştırma NIC’leriyle çalışabilir; donanımınız yoksa simüle edilmiş verilerle değerlendirme yapabilirsiniz.",
     "headline": "WiFi Sinyalleriyle Kablosuz Algılama Platformu",
     "lite": false,
@@ -2793,6 +2807,13 @@
         "onceki_yildiz": 94481,
         "surum": "v2828",
         "surum_tarihi": "2026-09-26"
+      },
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 95172,
+        "onceki_yildiz": 95124,
+        "surum": "v2872",
+        "surum_tarihi": "2026-09-27"
       }
     ],
     "last_review": "2026-09-27",
@@ -3275,14 +3296,14 @@
     "slug": "pi-subagents",
     "title": "Pi Subagents",
     "tagline": "Pi platformunda asenkron alt-ajan delegasyonu için TypeScript kütüphanesi.",
-    "meta": "★ 3.772 · Lisans: yok",
+    "meta": "★ 3.773 · Lisans: yok",
     "source": "GitHub",
     "date": "2026-06-01",
     "tags": [
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 3772,
+    "stars": 3773,
     "image": "/assets/discover/og/pi-subagents.webp",
     "headline": "Yapay zekâ ile asenkron görev yönetimi",
     "last_review": "2026-09-27",
@@ -3475,6 +3496,13 @@
         "onceki_yildiz": 3671,
         "surum": "v0.71.0",
         "surum_tarihi": "2026-09-23"
+      },
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 3773,
+        "onceki_yildiz": 3772,
+        "surum": "v0.72.1",
+        "surum_tarihi": "2026-09-27"
       }
     ],
     "tagline_en": "TypeScript library for asynchronous sub-agent delegation on the Pi platform.",
@@ -3753,7 +3781,7 @@
     "slug": "oh-my-pi",
     "title": "Oh My Pi",
     "tagline": "Oh-my-pi, terminal ortamında çalışan ve kod düzenleme süreçlerini otomatikleştiren bir yapay zekâ kodlama ajanıdır (AI coding…",
-    "meta": "★ 33.405",
+    "meta": "★ 33.457",
     "image": "/assets/discover/og/oh-my-pi.webp",
     "source": "GitHub",
     "date": "2026-06-02",
@@ -3761,7 +3789,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 33405,
+    "stars": 33457,
     "lite": false,
     "headline": "Terminalde yapay zekâ destekli kodlama",
     "last_review": "2026-09-27",
@@ -4024,6 +4052,13 @@
         "onceki_yildiz": 31871,
         "surum": "v18.3.2",
         "surum_tarihi": "2026-09-26"
+      },
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 33457,
+        "onceki_yildiz": 33405,
+        "surum": "v18.3.5",
+        "surum_tarihi": "2026-09-27"
       }
     ],
     "tagline_en": "Oh-my-pi is an artificial intelligence coding agent (AI coding…) that runs in a terminal environment and automates code editing processes.",
@@ -11094,7 +11129,7 @@
     "slug": "agent-native",
     "title": "Agent Native",
     "tagline": "BuilderIO tarafından geliştirilen agent-native, yapay zekâ ajanları için yerel uygulamalar (agent-native applications)…",
-    "meta": "★ 6.843 · TypeScript",
+    "meta": "★ 6.856 · TypeScript",
     "image": "/assets/discover/og/agent-native.webp",
     "source": "GitHub",
     "date": "2026-06-20",
@@ -11102,7 +11137,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 6843,
+    "stars": 6856,
     "lite": false,
     "headline": "Yapay zekâ ajanları için uygulama çerçevesi",
     "last_review": "2026-09-27",
@@ -11421,6 +11456,13 @@
         "onceki_yildiz": 4807,
         "surum": "v0.1.269",
         "surum_tarihi": "2026-09-26"
+      },
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 6856,
+        "onceki_yildiz": 6843,
+        "surum": "v0.1.270",
+        "surum_tarihi": "2026-09-27"
       }
     ],
     "tagline_en": "Agent-native, native applications for artificial intelligence agents developed by BuilderIO…",
@@ -12169,7 +12211,7 @@
     "slug": "hyperframes",
     "title": "Hyperframes",
     "tagline": "Heygen tarafından geliştirilen Hyperframes, HTML kodlarını doğrudan videoya dönüştüren bir çerçeve (framework) sunuyor.",
-    "meta": "★ 53.350 · TypeScript",
+    "meta": "★ 53.514 · TypeScript",
     "image": "/assets/discover/og/hyperframes.webp",
     "source": "GitHub",
     "date": "2026-06-23",
@@ -12177,7 +12219,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 53350,
+    "stars": 53514,
     "lite": false,
     "headline": "HTML kodlarını videoya dönüştürün",
     "last_review": "2026-09-27",
@@ -12454,6 +12496,13 @@
         "onceki_yildiz": 51494,
         "surum": "v0.8.79",
         "surum_tarihi": "2026-09-26"
+      },
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 53514,
+        "onceki_yildiz": 53350,
+        "surum": "v0.8.80",
+        "surum_tarihi": "2026-09-27"
       }
     ],
     "tagline_en": "Developed by Heygen, Hyperframes offers a framework that converts HTML codes directly into video.",
@@ -12530,7 +12579,7 @@
     "slug": "ai-website-cloner-template",
     "title": "AI Website Cloner Template",
     "tagline": "JCodesMore tarafından geliştirilen yapay zekâ web sitesi kopyalayıcı (AI website cloner), TypeScript tabanlı kodlama…",
-    "meta": "★ 34.582 · TypeScript",
+    "meta": "★ 35.345 · TypeScript",
     "image": "/assets/discover/og/ai-website-cloner-template.webp",
     "source": "GitHub",
     "date": "2026-06-23",
@@ -12538,7 +12587,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 34582,
+    "stars": 35345,
     "lite": false,
     "headline": "Yapay zekâ ile web sitesi kopyalama",
     "last_review": "2026-09-27",
@@ -12570,6 +12619,13 @@
         "onceki_yildiz": 33227,
         "surum": "v0.5.0",
         "surum_tarihi": "2026-09-17"
+      },
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 35345,
+        "onceki_yildiz": 34582,
+        "surum": "v0.5.1",
+        "surum_tarihi": "2026-09-27"
       }
     ],
     "tagline_en": "Artificial intelligence website cloner developed by JCodesMore is a TypeScript-based coding…",
@@ -12748,7 +12804,7 @@
     "slug": "orca",
     "title": "Orca",
     "tagline": "Stablyai tarafından geliştirilen Orca, birden fazla yapay zekâ ajanını eş zamanlı yönetmeye olanak tanıyan bir ajan geliştirme…",
-    "meta": "★ 78.942 · TypeScript",
+    "meta": "★ 79.293 · TypeScript",
     "image": "/assets/discover/og/orca.webp",
     "source": "GitHub",
     "date": "2026-06-25",
@@ -12756,7 +12812,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 78942,
+    "stars": 79293,
     "lite": false,
     "headline": "Birden fazla yapay zekâ ajanı yönetin",
     "last_review": "2026-09-27",
@@ -12970,6 +13026,13 @@
         "onceki_yildiz": 70640,
         "surum": "v1.4.214",
         "surum_tarihi": "2026-09-26"
+      },
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 79293,
+        "onceki_yildiz": 78942,
+        "surum": "v1.4.215",
+        "surum_tarihi": "2026-09-27"
       }
     ],
     "tagline_en": "Developed by Stablyai, Orca is an agent development tool that allows managing multiple artificial intelligence agents simultaneously.",
@@ -16817,7 +16880,7 @@
     "slug": "codexbar",
     "title": "CodexBar",
     "tagline": "CodexBar, OpenAI Codex ve Claude Code kullanım verilerini oturum açma zorunluluğu olmadan görüntülemeyi sağlayan bir araçtır.",
-    "meta": "★ 21.952 · Swift",
+    "meta": "★ 21.968 · Swift",
     "image": "/assets/discover/og/codexbar.webp",
     "source": "GitHub",
     "date": "2026-07-06",
@@ -16825,7 +16888,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 21952,
+    "stars": 21968,
     "lite": false,
     "headline": "Yapay zekâ kullanım limitlerini izleyin",
     "last_review": "2026-09-27",
@@ -17046,6 +17109,13 @@
         "onceki_yildiz": 21626,
         "surum": "v0.67.0",
         "surum_tarihi": "2026-09-26"
+      },
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 21968,
+        "onceki_yildiz": 21952,
+        "surum": "v0.68.0",
+        "surum_tarihi": "2026-09-27"
       }
     ],
     "tagline_en": "CodexBar is a tool that allows viewing OpenAI Codex and Claude Code usage data without requiring a login.",
@@ -18729,20 +18799,20 @@
     "tagline_pt": "Next.js é uma estrutura de renderização do lado do servidor usada para desenvolver aplicativos da web baseados em React.",
     "tagline_es": "Next.js es un marco de renderizado del lado del servidor que se utiliza para desarrollar aplicaciones web basadas en React.",
     "tagline_de": "Next.js ist ein serverseitiges Rendering-Framework, das zur Entwicklung von React-basierten Webanwendungen verwendet wird.",
-    "last_seen": "2026-08-06"
+    "last_seen": "2026-09-27"
   },
   {
     "slug": "core",
     "title": "Core",
     "tagline": "Home Assistant, yerel kontrol ve gizliliği önceliklendiren açık kaynaklı bir ev otomasyonu (home automation) platformudur.",
-    "meta": "★ 90.760 · Python",
+    "meta": "★ 91.171 · Python",
     "image": "/assets/discover/og/core.webp",
     "source": "GitHub",
     "date": "2026-07-12",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 90760,
+    "stars": 91171,
     "lite": false,
     "headline": "Yerel kontrollü ev otomasyonu platformu",
     "last_review": "2026-09-27",
@@ -18809,6 +18879,13 @@
         "onceki_yildiz": 90390,
         "surum": "2026.9.3",
         "surum_tarihi": "2026-09-18"
+      },
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 91171,
+        "onceki_yildiz": 90760,
+        "surum": "2026.9.4",
+        "surum_tarihi": "2026-09-27"
       }
     ],
     "tagline_en": "Home Assistant is an open source home automation platform that prioritizes local control and privacy.",
@@ -19901,14 +19978,14 @@
     "slug": "clypra",
     "title": "Clypra",
     "tagline": "Clypra, Tauri, React ve TypeScript kullanılarak geliştirilen açık kaynak kodlu bir video düzenleyici (video editor) uygulamasıdır.",
-    "meta": "★ 3.284 · TypeScript",
+    "meta": "★ 3.285 · TypeScript",
     "image": "/assets/discover/og/clypra.webp",
     "source": "GitHub",
     "date": "2026-07-15",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 3284,
+    "stars": 3285,
     "lite": false,
     "headline": "Açık kaynaklı masaüstü video düzenleyici",
     "last_review": "2026-09-27",
@@ -19996,6 +20073,13 @@
         "onceki_yildiz": 3240,
         "surum": "v1.5.3",
         "surum_tarihi": "2026-09-23"
+      },
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 3285,
+        "onceki_yildiz": 3284,
+        "surum": "v1.5.4",
+        "surum_tarihi": "2026-09-27"
       }
     ],
     "tagline_en": "Clypra is an open source video editor application developed using Tauri, React and TypeScript.",
@@ -20201,7 +20285,7 @@
     "slug": "deeptutor",
     "title": "DeepTutor",
     "tagline": "DeepTutor, öğrenci verilerini kullanarak kişiselleştirilmiş eğitim süreçleri sunan yaşam boyu öğrenme (lifelong learning)…",
-    "meta": "★ 40.334 · Python",
+    "meta": "★ 40.358 · Python",
     "image": "/assets/discover/og/deeptutor.webp",
     "source": "GitHub",
     "date": "2026-07-16",
@@ -20209,7 +20293,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 40334,
+    "stars": 40358,
     "lite": false,
     "headline": "Yapay zekâ destekli kişiselleştirilmiş eğitim",
     "last_review": "2026-09-27",
@@ -20346,6 +20430,13 @@
         "onceki_yildiz": 39561,
         "surum": "v1.6.11",
         "surum_tarihi": "2026-09-24"
+      },
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 40358,
+        "onceki_yildiz": 40334,
+        "surum": "v1.6.12",
+        "surum_tarihi": "2026-09-27"
       }
     ],
     "tagline_en": "DeepTutor is a lifelong learning platform that offers personalized education processes using student data.",
@@ -21866,7 +21957,7 @@
     "slug": "openship",
     "title": "Openship",
     "tagline": "OpenShip, kullanıcıların kendi sunucularında barındırabildiği bir uygulama dağıtım platformu (deployment platform) sunuyor.",
-    "meta": "★ 12.135 · TypeScript",
+    "meta": "★ 12.541 · TypeScript",
     "image": "/assets/discover/og/openship.webp",
     "source": "GitHub",
     "date": "2026-07-21",
@@ -21874,7 +21965,7 @@
       "Self-host",
       "Geliştirici aracı"
     ],
-    "stars": 12135,
+    "stars": 12541,
     "lite": false,
     "headline": "Kendi sunucunuzda uygulama dağıtımı",
     "last_review": "2026-09-27",
@@ -21941,6 +22032,13 @@
         "onceki_yildiz": 12101,
         "surum": "v0.7.2",
         "surum_tarihi": "2026-09-05"
+      },
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 12541,
+        "onceki_yildiz": 12135,
+        "surum": "v0.8.0",
+        "surum_tarihi": "2026-09-27"
       }
     ],
     "tagline_en": "OpenShip offers an application distribution platform that users can host on their own servers.",
@@ -23170,7 +23268,7 @@
     "tagline_pt": "Desenvolvido pela Block in Rust, o Buzz é uma plataforma descentralizada de comunicação da mente da colmeia (comunicação da mente da colmeia…",
     "tagline_es": "Desarrollado por Block en Rust, Buzz es una plataforma descentralizada de comunicación mental de colmena (comunicación mental de colmena...",
     "tagline_de": "Buzz wurde von Block in Rust entwickelt und ist eine dezentrale Hive-Mind-Kommunikationsplattform (Hive-Mind-Kommunikation).",
-    "last_seen": "2026-08-24"
+    "last_seen": "2026-09-27"
   },
   {
     "slug": "ego-lite",
@@ -25095,7 +25193,7 @@
     "slug": "reverse-skill",
     "title": "Reverse Skill",
     "tagline": "Reverse-skill, tersine mühendislik ve sızma testi süreçleri için yapay zekâ destekli bir yönlendirme paketi (routing pack)…",
-    "meta": "★ 36.401 · PowerShell",
+    "meta": "★ 38.272 · PowerShell",
     "image": "/assets/discover/og/reverse-skill.webp",
     "source": "GitHub",
     "date": "2026-08-01",
@@ -25103,7 +25201,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 36401,
+    "stars": 38272,
     "lite": false,
     "headline": "Sızma testleri için yapay zekâ yönlendirme",
     "last_review": "2026-09-27",
@@ -25212,6 +25310,13 @@
         "onceki_yildiz": 34619,
         "surum": "v1.0.1",
         "surum_tarihi": "2026-08-08"
+      },
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 38272,
+        "onceki_yildiz": 36401,
+        "surum": "v1.0.1",
+        "surum_tarihi": "2026-08-08"
       }
     ],
     "tagline_en": "An artificial intelligence-supported routing package for reverse-skill, reverse engineering and penetration testing processes…",
@@ -25219,20 +25324,20 @@
     "tagline_pt": "Um pacote de roteamento apoiado por inteligência artificial para processos de habilidade reversa, engenharia reversa e testes de penetração…",
     "tagline_es": "Un paquete de enrutamiento respaldado por inteligencia artificial para procesos de habilidad inversa, ingeniería inversa y pruebas de penetración...",
     "tagline_de": "Ein durch künstliche Intelligenz unterstütztes Routing-Paket für Reverse-Skill-, Reverse-Engineering- und Penetrationstest-Prozesse…",
-    "last_seen": "2026-09-01"
+    "last_seen": "2026-09-27"
   },
   {
     "slug": "kaneo",
     "title": "Kaneo",
     "tagline": "Kaneo, kullanıcı odaklı bir arayüzle geliştirilen açık kaynaklı bir proje yönetimi (project management) aracıdır.",
-    "meta": "★ 9.233 · TypeScript",
+    "meta": "★ 9.240 · TypeScript",
     "image": "/assets/discover/og/kaneo.webp",
     "source": "GitHub",
     "date": "2026-08-01",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 9233,
+    "stars": 9240,
     "lite": false,
     "headline": "Sade ve hızlı proje yönetimi",
     "last_review": "2026-09-27",
@@ -25355,6 +25460,13 @@
         "onceki_yildiz": 9115,
         "surum": "v2.28.3",
         "surum_tarihi": "2026-09-26"
+      },
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 9240,
+        "onceki_yildiz": 9233,
+        "surum": "v2.29.0",
+        "surum_tarihi": "2026-09-27"
       }
     ],
     "tagline_en": "Kaneo is an open source project management tool developed with a user-oriented interface.",
@@ -25899,7 +26011,7 @@
     "slug": "deepseek-reasonix",
     "title": "DeepSeek-Reasonix",
     "tagline": "DeepSeek-Reasonix, terminal üzerinde çalışan ve DeepSeek modellerini temel alan bir yapay zekâ kodlama ajanıdır.",
-    "meta": "★ 35.721 · Go",
+    "meta": "★ 35.710 · Go",
     "image": "/assets/discover/og/deepseek-reasonix.webp",
     "source": "GitHub",
     "date": "2026-08-03",
@@ -25907,7 +26019,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 35721,
+    "stars": 35710,
     "lite": false,
     "headline": "Terminal için yapay zekâ kodlama ajanı",
     "last_review": "2026-09-27",
@@ -26142,6 +26254,13 @@
         "onceki_yildiz": 35597,
         "surum": "desktop-v1.39.1",
         "surum_tarihi": "2026-09-26"
+      },
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 35710,
+        "onceki_yildiz": 35721,
+        "surum": "desktop-v1.39.2",
+        "surum_tarihi": "2026-09-27"
       }
     ],
     "tagline_en": "DeepSeek-Reasonix is ​​an AI coding agent that runs on the terminal and is based on DeepSeek models.",
@@ -26280,7 +26399,7 @@
     "slug": "free-claude-code",
     "title": "Free Claude Code",
     "tagline": "Alishahryar1 tarafından geliştirilen free-claude-code, Claude Code ve Codex gibi yapay zekâ modellerine terminal, uygulama…",
-    "meta": "★ 56.004 · Python",
+    "meta": "★ 56.025 · Python",
     "image": "/assets/discover/og/free-claude-code.webp",
     "source": "GitHub",
     "date": "2026-08-04",
@@ -26288,7 +26407,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 56004,
+    "stars": 56025,
     "lite": false,
     "headline": "Yapay zekâ ajanlarına ücretsiz erişim",
     "last_review": "2026-09-27",
@@ -26319,6 +26438,13 @@
         "yildiz": 56004,
         "onceki_yildiz": 53423,
         "surum": "v6.3.4",
+        "surum_tarihi": "2026-09-27"
+      },
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 56025,
+        "onceki_yildiz": 56004,
+        "surum": "v6.4.2",
         "surum_tarihi": "2026-09-27"
       }
     ]
@@ -27378,14 +27504,14 @@
     "slug": "mise",
     "title": "Mise",
     "tagline": "Mise, yazılım geliştirme araçlarını, ortam değişkenlerini (environment variables) ve görev çalıştırıcılarını (task runner) tek…",
-    "meta": "★ 34.323 · Rust",
+    "meta": "★ 34.339 · Rust",
     "image": "/assets/discover/og/mise.webp",
     "source": "GitHub",
     "date": "2026-08-08",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 34323,
+    "stars": 34339,
     "lite": false,
     "headline": "Geliştirme ortamınızı tek merkezden yönetin",
     "needs_enrichment": true,
@@ -27546,6 +27672,13 @@
         "onceki_yildiz": 34061,
         "surum": "v2026.9.14",
         "surum_tarihi": "2026-09-25"
+      },
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 34339,
+        "onceki_yildiz": 34323,
+        "surum": "v2026.9.15",
+        "surum_tarihi": "2026-09-27"
       }
     ],
     "tagline_fr": "Mise combine des outils de développement logiciel, des variables d'environnement et des exécuteurs de tâches en un seul…",
@@ -28273,7 +28406,7 @@
     "tagline_pt": "Paperclip é um software de código aberto que permite gerenciar agentes de IA no local de trabalho por meio de uma única interface.",
     "tagline_es": "Paperclip es un software de código abierto que le permite administrar agentes de IA en el lugar de trabajo a través de una única interfaz.",
     "tagline_de": "Paperclip ist eine Open-Source-Software, mit der Sie KI-Agenten am Arbeitsplatz über eine einzige Schnittstelle verwalten können.",
-    "last_seen": "2026-09-26"
+    "last_seen": "2026-09-27"
   },
   {
     "slug": "lifeos",
@@ -30679,14 +30812,14 @@
     "slug": "openlogi",
     "title": "OpenLogi",
     "tagline": "OpenLogi, Logitech Options+ için Rust ile yazılmış, yerel öncelikli ve açık kaynaklı bir alternatiftir. Hesap veya telemetri gerektirmeden düğmeleri, DPI'ı ve SmartShift'i yapılandırır.",
-    "meta": "★ 22.267 · Rust",
+    "meta": "★ 22.300 · Rust",
     "image": "/assets/discover/og/openlogi.webp",
     "source": "GitHub",
     "date": "2026-08-20",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 22267,
+    "stars": 22300,
     "lite": false,
     "headline": "Logitech cihazlar için açık kaynaklı yönetim",
     "tagline_en": "OpenLogi is a native, local-first, open-source alternative to Logitech Options+, written in Rust. It configures buttons, DPI, and SmartShift without accounts or telemetry.",
@@ -30779,6 +30912,13 @@
         "onceki_yildiz": 21261,
         "surum": "v0.8.8",
         "surum_tarihi": "2026-09-25"
+      },
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 22300,
+        "onceki_yildiz": 22267,
+        "surum": "v0.8.9",
+        "surum_tarihi": "2026-09-27"
       }
     ],
     "last_seen": "2026-08-24",
@@ -33524,7 +33664,7 @@
     "slug": "archify",
     "title": "Archify",
     "tagline": "Archify, mimari, veri akışı ve iş akışı şemalarını doğrulanabilir ve hareketli HTML dosyaları olarak oluşturan bir yapay zekâ…",
-    "meta": "★ 72.294 · JavaScript",
+    "meta": "★ 72.294",
     "image": "/assets/discover/og/archify.webp",
     "source": "GitHub",
     "date": "2026-08-26",
@@ -33533,9 +33673,8 @@
     ],
     "stars": 72294,
     "summary": "Archify, mimari, veri akışı ve iş akışı şemalarını doğrulanabilir ve hareketli HTML dosyaları olarak oluşturan bir yapay zekâ yeteneğidir (agent skill). Karmaşık sistem tasarımlarını görselleştirmek için kullanılan bu araç, diyagramların yüksek çözünürlüklü dışa aktarımını destekler.",
+    "headline": "Yapay zekâ ile interaktif sistem şemaları oluşturun",
     "lite": false,
-    "headline": "Yapay zekâ ajanınıza sistem haritası çizdirin",
-    "last_review": "2026-09-27",
     "guncellemeler": [
       {
         "tarih": "2026-08-27",
@@ -33622,18 +33761,18 @@
         "surum_tarihi": "2026-08-30"
       }
     ],
-    "last_seen": "2026-09-01",
-    "tagline_en": "Archify is an artificial intelligence agent skill that creates technical diagrams, such as flowcharts…",
-    "tagline_fr": "Archify est une capacité d'agent (compétence d'agent) d'intelligence artificielle qui crée des diagrammes techniques, comme des fluxogrammes…",
-    "tagline_pt": "Archify é uma habilidade de agente (habilidade de agente) de inteligência artificial que cria diagramas técnicos, como fluxogramas…",
-    "tagline_es": "Archify es una habilidade de agente (agent skills) de inteligência artificial que cria diagramas técnicos, como fluxogramas…",
-    "tagline_de": "Archify ist eine Agentenfähigkeit (Agentenfähigkeit) für künstliche Intelligenz, die technische Diagramme wie Fluxogramme erfordert …"
+    "last_review": "2026-09-27",
+    "tagline_en": "Archify is an AI that generates architecture, data flow, and workflow diagrams as verifiable and animated HTML files…",
+    "tagline_fr": "Archify est une intelligence artificielle qui génère des schémas d'architecture, de flux de données et de flux de travail sous forme de fichiers HTML vérifiables et animés...",
+    "tagline_pt": "Archify é uma inteligência artificial que cria diagramas de arquitetura, fluxo de dados e fluxo de trabalho como arquivos HTML verificáveis e animados...",
+    "tagline_es": "Archify es una IA que genera esquemas de arquitectura, flujo de datos y flujo de trabajo como archivos HTML verificables y animados...",
+    "tagline_de": "Archify ist eine KI, die Architektur-, Datenfluss- und Workflow-Diagramme als verifizierbare und animierte HTML-Dateien erstellt..."
   },
   {
     "slug": "garden-skills",
     "title": "Garden Skills",
     "tagline": "ConardLi tarafından geliştirilen garden-skills, web tasarımı, bilgi edinme ve görsel oluşturma gibi çeşitli alanlarda hazır…",
-    "meta": "★ 12.173 · CSS",
+    "meta": "★ 12.173",
     "image": "/assets/discover/og/garden-skills.webp",
     "source": "GitHub",
     "date": "2026-08-26",
@@ -33642,9 +33781,8 @@
     ],
     "stars": 12173,
     "summary": "ConardLi tarafından geliştirilen garden-skills, web tasarımı, bilgi edinme ve görsel oluşturma gibi çeşitli alanlarda hazır yetenek paketleri (skills) sunan açık kaynaklı bir koleksiyondur. Geliştiricilerin projelerine entegre edebileceği bu modüler yapı, farklı işlevlerin merkezi bir düzenle kullanılmasını sağlar.",
+    "headline": "Farklı alanlarda hazır beceriler kazanın",
     "lite": false,
-    "headline": "Web tasarımı için açık kaynaklı beceriler",
-    "last_review": "2026-09-27",
     "guncellemeler": [
       {
         "tarih": "2026-08-27",
@@ -33661,18 +33799,18 @@
         "surum_tarihi": "2026-07-12"
       }
     ],
-    "last_seen": "2026-08-27",
-    "tagline_en": "Garden-skills is an open-source collection of skills developed for various functions, such as web design…",
-    "tagline_fr": "Les compétences en jardinage sont une collection de compétences (compétences) de code ouvert pour diverses fonctions, comme la conception de sites Web…",
-    "tagline_pt": "Garden-skills é uma coleção de habilidades (habilidades) de código aberto desenvolvido para diversas funções, como web design…",
-    "tagline_es": "Garden-skills es una colección de habilidades (skills) de código abierto diseñada para diversas funciones, como diseño web…",
-    "tagline_de": "Garden-Skills ist eine Sammlung von Fähigkeiten (Fähigkeiten) mit Code, die sich jedoch für verschiedene Funktionen wie Webdesign eignet …"
+    "last_review": "2026-09-27",
+    "tagline_en": "Developed by ConardLi, garden-skills is ready-to-use in various fields such as web design, information acquisition, and visual creation…",
+    "tagline_fr": "Développé par ConardLi, garden-skills propose des compétences prêtes à l'emploi dans divers domaines tels que la conception web, l'acquisition de connaissances et la génération visuelle.",
+    "tagline_pt": "Desenvolvido por ConardLi, o garden-skills é um conjunto pronto para uso em várias áreas, como web design, aquisição de informações e criação visual.",
+    "tagline_es": "garden-skills, desarrollado por ConardLi, ofrece habilidades listas para usar en diversos campos como diseño web, adquisición de conocimientos y generación visual...",
+    "tagline_de": "Das von ConardLi entwickelte garden-skills bietet vorgefertigte Funktionen in verschiedenen Bereichen wie Webdesign, Informationsbeschaffung und visueller Generierung..."
   },
   {
     "slug": "browser-use",
     "title": "Browser Use",
     "tagline": "Browser-use, yapay zekâ ajanlarının web siteleriyle insanlar gibi etkileşime girmesini sağlayan bir Python kütüphanesi.",
-    "meta": "★ 112.224 · Python",
+    "meta": "★ 112.224",
     "image": "/assets/discover/og/browser-use.webp",
     "source": "GitHub",
     "date": "2026-08-26",
@@ -33681,9 +33819,8 @@
     ],
     "stars": 112224,
     "summary": "Browser-use, yapay zekâ ajanlarının web siteleriyle insanlar gibi etkileşime girmesini sağlayan bir Python kütüphanesi. İnternet üzerindeki karmaşık görevleri tarayıcı tabanlı işlemlerle otomatize etmeye imkân tanıyor.",
+    "headline": "Yapay zekâ tarayıcı otomasyonu",
     "lite": false,
-    "headline": "Yapay zekâ ile web tarayıcısını yönetin",
-    "last_review": "2026-09-27",
     "guncellemeler": [
       {
         "tarih": "2026-08-27",
@@ -33700,29 +33837,28 @@
         "surum_tarihi": "2026-09-04"
       }
     ],
-    "last_seen": "2026-09-09",
-    "tagline_en": "Browser-use is a Python library that allows artificial intelligence agents to interact with websites like...",
-    "tagline_fr": "L'utilisation du navigateur est une bibliothèque Python qui permet aux agents de renseignement artificiel d'interagir avec des sites Internet comme ceux-ci…",
-    "tagline_pt": "Browser-use é uma biblioteca Python que permite que agentes de inteligência artificial interajam com sites da internet como sistema operacional…",
-    "tagline_es": "El uso del navegador es una biblioteca Python que permite que agentes de inteligencia artificial interactúen con sitios de Internet como os…",
-    "tagline_de": "Die Browser-Nutzung ist eine Python-Bibliothek, die es Agenten der künstlichen Intelligenz ermöglicht, Websites wie das Internet mit anderen zu verbinden…"
+    "last_review": "2026-09-27",
+    "tagline_en": "Browser-use is a Python library that enables AI agents to interact with websites just like humans.",
+    "tagline_fr": "Browser-use est une bibliothèque Python qui permet aux agents d'intelligence artificielle d'interagir avec les sites web comme le font les humains.",
+    "tagline_pt": "Browser-use é uma biblioteca Python que permite que agentes de inteligência artificial interajam com sites como seres humanos.",
+    "tagline_es": "Browser-use es una biblioteca de Python que permite a los agentes de inteligencia artificial interactuar con sitios web como lo hacen las personas.",
+    "tagline_de": "Browser-use ist eine Python-Bibliothek, die es KI-Agenten ermöglicht, wie Menschen mit Websites zu interagieren."
   },
   {
     "slug": "scientific-agent-skills",
     "title": "Scientific Agent Skills",
     "tagline": "Scientific-agent-skills, yapay zekâ ajanlarını bilimsel araştırma süreçlerine uyarlayan hazır yetenek kütüphanesidir.",
-    "meta": "★ 44.519 · Python",
+    "meta": "★ 46.808",
     "image": "/assets/discover/og/scientific-agent-skills.webp",
     "source": "GitHub",
     "date": "2026-08-26",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 44519,
+    "stars": 46808,
     "summary": "Scientific-agent-skills, yapay zekâ ajanlarını bilimsel araştırma süreçlerine uyarlayan hazır yetenek kütüphanesidir. Biyoloji, kimya ve tıp alanlarında 163 doğrulanmış yetenek ve 100'den fazla veri tabanı sunarak kod düzenleyici Cursor veya yapay zekâ asistanı Claude Code gibi platformlarla entegre çalışır.",
+    "headline": "Bilimsel araştırmalar için yapay zekâ yetenekleri",
     "lite": false,
-    "headline": "Yapay zekâ ajanınıza bilimsel araştırma yetenekleri",
-    "last_review": "2026-09-27",
     "guncellemeler": [
       {
         "tarih": "2026-08-27",
@@ -33758,14 +33894,21 @@
         "onceki_yildiz": 44381,
         "surum": "v2.69.0",
         "surum_tarihi": "2026-09-11"
+      },
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 46808,
+        "onceki_yildiz": 44519,
+        "surum": "v2.69.0",
+        "surum_tarihi": "2026-09-11"
       }
     ],
-    "last_seen": "2026-09-02",
-    "tagline_en": "Scientific-agent-skills is a library containing 163 verified skills and over 100 databases…",
-    "tagline_fr": "Les compétences d'agent scientifique sont une bibliothèque qui contient 163 compétences (compétences) vérifiées et plus de 100 bancs de données…",
-    "tagline_pt": "Scientific-agent-skills é uma biblioteca que contém 163 habilidades verificadas e mais de 100 bancos de dados…",
-    "tagline_es": "Scientific-agent-skills es una biblioteca que contiene 163 habilidades (skills) verificadas y más de 100 bancos de datos…",
-    "tagline_de": "Scientific-agent-skills ist eine Bibliothek, die 163 habilidades (skills) verifiziert und mehr als 100 Bancos de dados enthält…"
+    "last_review": "2026-09-27",
+    "tagline_en": "Scientific-agent-skills is a ready-to-use capability library that adapts AI agents to scientific research processes.",
+    "tagline_fr": "Scientific-agent-skills est une bibliothèque de compétences prêtes à l'emploi qui adapte les agents d'intelligence artificielle aux processus de recherche scientifique.",
+    "tagline_pt": "Scientific-agent-skills é uma biblioteca de habilidades prontas que adapta agentes de inteligência artificial aos processos de pesquisa científica.",
+    "tagline_es": "Scientific-agent-skills es una biblioteca de habilidades preparadas que adapta los agentes de inteligencia artificial a los procesos de investigación científica.",
+    "tagline_de": "Scientific-agent-skills ist eine vorgefertigte Funktionsbibliothek, die KI-Agenten an wissenschaftliche Forschungsprozesse anpasst."
   },
   {
     "slug": "nitter",
@@ -33842,7 +33985,7 @@
     "stars": 39588,
     "summary": "Não foi possível produzir um resumo para este item hoje. Consulte o link da fonte para obter detalhes.",
     "lite": false,
-    "tagline_en": "GoogleTest is an open-source C++ testing and mocking framework widely adopted across the software industry.",
+    "tagline_en": "GoogleTest is an open-source testing framework that allows you to run unit tests and mock objects in modern C++ projects.",
     "tagline_fr": "GoogleTest est un framework de test open source qui vous permet d'exécuter des tests unitaires et des objets simulés dans des projets C++ modernes.",
     "tagline_pt": "GoogleTest é uma estrutura de teste de código aberto que permite executar testes de unidade e simular objetos em projetos C++ modernos.",
     "tagline_es": "GoogleTest es un marco de prueba de código abierto que le permite ejecutar pruebas unitarias y objetos simulados en proyectos modernos de C++.",
@@ -34096,7 +34239,7 @@
     "stars": 7746,
     "summary": "Tailscale tarafından geliştirilen Tailcat, ağ trafiğini güvenli bir şekilde aktarmak için kullanılan komut satırı aracı Netcat'in Tailscale ağ katmanı üzerinde çalışan bir sürümüdür. Kontrol düzlemi (control plane) gereksinimi olmadan, doğrudan cihazlar arası veri iletimi sağlar.",
     "lite": false,
-    "tagline_en": "Tailcat is a Go port of Netcat operating directly across Tailscale mesh networks for encrypted peer-to-peer data transport.",
+    "tagline_en": "Tailcat is the Go version of the Netcat command-line tool that runs over the Tailscale mesh network and creates a secure peer-to-peer tunnel.",
     "tagline_fr": "Tailcat est la version Go de l'outil de ligne de commande Netcat qui s'exécute sur le réseau maillé Tailscale et crée un tunneling peer-to-peer sécurisé.",
     "tagline_pt": "Tailcat é a versão Go da ferramenta de linha de comando Netcat que roda na rede mesh Tailscale e cria tunelamento ponto a ponto seguro.",
     "tagline_es": "Tailcat es la versión Go de la herramienta de línea de comandos Netcat que se ejecuta en la red de malla de Tailscale y crea túneles seguros de igual a igual.",
@@ -34193,7 +34336,7 @@
     "stars": 29054,
     "summary": "FreeLLMAPI, 34 farklı ücretsiz büyük dil modeli (large language model) sağlayıcısını tek bir OpenAI uyumlu uç noktada (endpoint) birleştiriyor. Akıllı yönlendirme ve otomatik hata yönetimi özellikleriyle, geliştiricilerin farklı modelleri tek bir arayüz üzerinden denemesine olanak tanıyor.",
     "lite": false,
-    "tagline_en": "FreeLLMAPI is an open-source reverse proxy aggregating 34 free AI model providers into a unified OpenAI-compatible endpoint.",
+    "tagline_en": "FreeLLMAPI is a reverse proxy service that combines 34 free AI providers into a single OpenAI-compatible REST endpoint.",
     "tagline_fr": "FreeLLMAPI est un service de proxy inverse qui combine 34 fournisseurs d'IA gratuits en un seul point de terminaison REST compatible OpenAI.",
     "tagline_pt": "FreeLLMAPI é um serviço de proxy reverso que combina 34 provedores de IA gratuitos em um único endpoint REST compatível com OpenAI.",
     "tagline_es": "FreeLLMAPI es un servicio de proxy inverso que combina 34 proveedores de IA gratuitos en un único punto final REST compatible con OpenAI.",
@@ -34241,7 +34384,7 @@
     "stars": 39156,
     "summary": "OpenMAIC, çoklu yapay zekâ ajanı etkileşimlerini tek tıkla simüle eden sürükleyici bir öğrenme platformu. TypeScript ile geliştirilen bu açık kaynaklı araç, kullanıcıların farklı ajan modelleriyle etkileşimli bir sınıf ortamı deneyimlemesini sağlıyor.",
     "lite": false,
-    "tagline_en": "OpenMAIC is an open-source classroom simulation platform modeling interactive dynamics between multiple AI agents.",
+    "tagline_en": "OpenMAIC is an open-source classroom and learning platform that simulates multi-AI agent interactions with a single click.",
     "tagline_fr": "OpenMAIC est une salle de classe et une plateforme d'apprentissage open source qui simule plusieurs interactions d'agents IA en un seul clic.",
     "tagline_pt": "OpenMAIC é uma sala de aula e plataforma de aprendizagem de código aberto que simula múltiplas interações de agentes de IA com um único clique.",
     "tagline_es": "OpenMAIC es una plataforma de aprendizaje y aula de código abierto que simula múltiples interacciones de agentes de IA con un solo clic.",
@@ -34336,7 +34479,7 @@
     "stars": 62670,
     "summary": "MiniMind, 64 milyon parametreli bir büyük dil modelini (large language model) sıfırdan ve iki saat gibi kısa bir sürede eğitmeyi sağlayan bir Python projesi. Donanım kaynakları kısıtlı olan kullanıcılar için yapay zekâ modellerinin çalışma prensiplerini anlamaya yönelik pratik bir öğrenme ortamı sunuyor.",
     "lite": false,
-    "tagline_en": "MiniMind is a minimal educational repository enabling the training of a 64M-parameter LLM from scratch in approximately two hours.",
+    "tagline_en": "MiniMind is an open-source Python project that allows training a 64-million-parameter large language model from scratch in about two hours.",
     "tagline_fr": "MiniMind est un projet Python open source qui permet de former un grand modèle de langage avec 64 millions de paramètres à partir de zéro en deux heures environ.",
     "tagline_pt": "MiniMind é um projeto Python de código aberto que permite treinar do zero um grande modelo de linguagem com 64 milhões de parâmetros em cerca de duas horas.",
     "tagline_es": "MiniMind es un proyecto Python de código abierto que permite entrenar un modelo de lenguaje grande con 64 millones de parámetros desde cero en aproximadamente dos horas.",
@@ -34384,7 +34527,7 @@
     "stars": 6854,
     "summary": "Osmantic/ODS, kişisel bilgisayarları büyük dil modeli çıkarımı (LLM inference), ses işleme ve görsel oluşturma gibi yeteneklere sahip bir yapay zekâ sunucusuna dönüştüren açık kaynaklı bir platformdur. Yazılım, yerel donanım üzerinde çalışan arama destekli üretim (RAG) ve akıllı ajan iş akışları oluşturulmasına olanak tanır.",
     "lite": false,
-    "tagline_en": "Osmantic/ODS transforms personal computers into private AI servers supporting local LLM inference, voice processing, and image generation.",
+    "tagline_en": "Osmantic/ODS turns personal computers into a local AI server capable of large language model inference, audio processing, and image generation.",
     "tagline_fr": "Osmantic/ODS transforme les ordinateurs personnels en serveurs d'IA natifs dotés de capacités massives d'inférence de modèle de langage, de traitement vocal et de génération visuelle.",
     "tagline_pt": "Osmantic/ODS transforma computadores pessoais em servidores de IA nativos com enorme inferência de modelos de linguagem, processamento de voz e recursos de geração visual.",
     "tagline_es": "Osmantic/ODS convierte las computadoras personales en servidores nativos de IA con inferencia masiva de modelos de lenguaje, procesamiento de voz y capacidades de generación visual.",
@@ -34431,7 +34574,7 @@
     "stars": 9575,
     "summary": "Checkstyle, Java programcılarının belirlenen kodlama standartlarına uygun yazılım geliştirmesine yardımcı olan bir analiz aracıdır. Google Java Stil Rehberi (Google Java Style Guide) ve Sun Kod Kuralları (Sun Code Conventions) gibi standartları destekleyerek kod kalitesini denetler.",
     "lite": false,
-    "tagline_en": "Checkstyle is a static code analysis tool that helps Java developers adhere to Google Java Style and Sun conventions.",
+    "tagline_en": "Checkstyle is a static analysis tool that helps Java programmers develop software adhering to Google Java Style and Sun standards.",
     "tagline_fr": "Checkstyle est un outil d'analyse statique qui permet aux programmeurs Java de développer des logiciels conformément aux normes Google Java Style et Sun.",
     "tagline_pt": "Checkstyle é uma ferramenta de análise estática que permite aos programadores Java desenvolver software de acordo com os padrões Google Java Style e Sun.",
     "tagline_es": "Checkstyle es una herramienta de análisis estático que permite a los programadores de Java desarrollar software de acuerdo con los estándares Google Java Style y Sun.",
@@ -34478,7 +34621,7 @@
     "stars": 5007,
     "summary": "Python ile geliştirilen User-Scanner, tek bir e-posta adresi veya kullanıcı adı üzerinden 465'ten fazla farklı kaynaktan veri toplayan bir açık kaynak istihbarat (OSINT) aracıdır. Güvenlik araştırmacıları ve dijital iz takibi yapanlar için tasarlanan yazılım, geniş bir tarama vektörü yelpazesiyle derinlemesine veri analizi sunar.",
     "lite": false,
-    "tagline_en": "User-Scanner is an open-source OSINT tool that gathers digital intelligence across 465+ platforms using a single username or email.",
+    "tagline_en": "User-Scanner is an open-source OSINT tool that scans for digital footprints across more than 465 platforms using a single username or email.",
     "tagline_fr": "User-Scanner est un outil OSINT open source qui recherche des traces numériques sur plus de 465 plates-formes avec un seul nom d'utilisateur ou une seule adresse e-mail.",
     "tagline_pt": "User-Scanner é uma ferramenta OSINT de código aberto que procura rastros digitais em mais de 465 plataformas com um único nome de usuário ou e-mail.",
     "tagline_es": "User-Scanner es una herramienta OSINT de código abierto que busca rastros digitales en más de 465 plataformas con un único nombre de usuario o correo electrónico.",
@@ -34525,7 +34668,7 @@
     "stars": 10360,
     "summary": "Patent disclosure skill, patent başvurularında buluş noktalarının belirlenmesi ve teknik açıklama metinlerinin (patent disclosure) hazırlanması süreçlerini otomatikleştiren bir Python aracıdır. Patentlerin anlaşılır şekilde yorumlanması, politika değişikliklerinin takibi ve inceleme süreçlerine yönelik yanıtların oluşturulması için destek sağlar.",
     "lite": false,
-    "tagline_en": "Patent disclosure skill is an open-source AI agent workflow that automates inventive step analysis and patent disclosure drafting.",
+    "tagline_en": "Patent disclosure skill is an artificial intelligence tool that automates the analysis of invention points and the preparation of technical description texts in patent applications.",
     "tagline_fr": "La compétence de divulgation de brevets est un outil d'intelligence artificielle qui automatise l'analyse des points d'invention et la préparation des textes de divulgation technique dans les demandes de brevet.",
     "tagline_pt": "A habilidade de divulgação de patentes é uma ferramenta de inteligência artificial que automatiza a análise de pontos de invenção e elaboração de textos de divulgação técnica em pedidos de patentes.",
     "tagline_es": "La habilidad de divulgación de patentes es una herramienta de inteligencia artificial que automatiza el análisis de puntos de invención y la preparación de textos de divulgación técnica en solicitudes de patente.",
@@ -34570,7 +34713,7 @@
     "stars": 2281,
     "summary": "Pollen Robotics tarafından geliştirilen microduck_rl, robotik platformu Microduck için pekiştirmeli öğrenme (reinforcement learning) eğitim ortamları sunuyor. Python tabanlı bu kütüphane, fizik tabanlı simülasyon aracı mjlab üzerinde robotik kontrol algoritmalarının geliştirilmesini kolaylaştırıyor.",
     "lite": false,
-    "tagline_en": "Developed by Pollen Robotics, microduck_rl provides reinforcement learning environments on mjlab and MuJoCo for the Microduck platform.",
+    "tagline_en": "Developed by Pollen Robotics, microduck_rl provides mjlab and MuJoCo-based reinforcement learning environments for the Microduck robot platform.",
     "tagline_fr": "Développé par Pollen Robotics, microduck_rl fournit des environnements d'apprentissage par renforcement basés sur mjlab et MuJoCo pour la plate-forme robotique Microduck.",
     "tagline_pt": "Desenvolvido pela Pollen Robotics, microduck_rl fornece ambientes de aprendizagem por reforço baseados em mjlab e MuJoCo para a plataforma do robô Microduck.",
     "tagline_es": "Desarrollado por Pollen Robotics, microduck_rl proporciona entornos de aprendizaje de refuerzo basados ​​en mjlab y MuJoCo para la plataforma robótica Microduck.",
@@ -34964,7 +35107,7 @@
     "slug": "atlas",
     "title": "Atlas",
     "tagline": "Atlas, yazılım geliştirme süreçlerinde kullanılan yapay zekâ ajanları için bir kaynak kontrolü (source control) sistemi.",
-    "meta": "★ 7.448 · Rust",
+    "meta": "★ 7.855 · Rust",
     "image": "/assets/discover/og/atlas.webp",
     "source": "GitHub",
     "date": "2026-09-03",
@@ -34972,7 +35115,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 7448,
+    "stars": 7855,
     "summary": "Atlas, yazılım geliştirme süreçlerinde kullanılan yapay zekâ ajanları için bir kaynak kontrolü (source control) sistemi. Birden fazla kodlama ajanının yaptığı değişiklikleri tek bir merkezden izlemeye ve sorgulamaya olanak tanıyor.",
     "lite": false,
     "headline": "Yapay zekâ ajanları için kaynak kontrolü",
@@ -35019,6 +35162,13 @@
         "onceki_yildiz": 4722,
         "surum": "alpha-0.3.3",
         "surum_tarihi": "2026-09-19"
+      },
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 7855,
+        "onceki_yildiz": 7448,
+        "surum": "alpha-0.3.4",
+        "surum_tarihi": "2026-09-27"
       }
     ],
     "tagline_en": "Atlas is a source control system for artificial intelligence agents used in software development processes.",
@@ -35099,7 +35249,7 @@
     "slug": "humanizer",
     "title": "Humanizer",
     "tagline": "Humanizer, yapay zekâ tarafından oluşturulan metinlerdeki karakteristik kalıpları silerek içeriği daha doğal bir anlatıma…",
-    "meta": "★ 49.735 · Python",
+    "meta": "★ 52.272 · Python",
     "image": "/assets/discover/og/humanizer.webp",
     "source": "GitHub",
     "date": "2026-09-03",
@@ -35107,7 +35257,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 49735,
+    "stars": 52272,
     "summary": "Humanizer, yapay zekâ tarafından oluşturulan metinlerdeki karakteristik kalıpları silerek içeriği daha doğal bir anlatıma dönüştüren bir Python kütüphanesidir. Yazılı metinlerin insan elinden çıkmış gibi görünmesini sağlayan bu araç, otomatik içerik üretimi yapan sistemlerin tespit edilmesini zorlaştırmayı hedefler.",
     "lite": false,
     "headline": "Yapay zekâ metinlerini insanileştirin",
@@ -35145,6 +35295,13 @@
         "tarih": "2026-09-18",
         "yildiz": 49735,
         "onceki_yildiz": 47061,
+        "surum": "v3.0.0",
+        "surum_tarihi": "2026-09-06"
+      },
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 52272,
+        "onceki_yildiz": 49735,
         "surum": "v3.0.0",
         "surum_tarihi": "2026-09-06"
       }
@@ -35464,7 +35621,7 @@
     "tagline_pt": "O Projeto LLVM é uma infraestrutura que oferece tecnologias de compilador e cadeia de ferramentas modulares e reutilizáveis.",
     "tagline_es": "El Proyecto LLVM es una infraestructura que ofrece tecnologías de compilador y cadena de herramientas modulares y reutilizables.",
     "tagline_de": "Das LLVM-Projekt ist eine Infrastruktur, die modulare und wiederverwendbare Compiler- und Toolchain-Technologien bietet.",
-    "last_seen": "2026-09-07"
+    "last_seen": "2026-09-27"
   },
   {
     "slug": "open-science",
@@ -36252,7 +36409,7 @@
     "slug": "deskcommcrm",
     "title": "DeskcommCRM",
     "tagline": "DeskcommCRM, sohbet üzerinden satış yapan işletmeler için geliştirilmiş açık kaynaklı bir müşteri ilişkileri yönetimi (CRM)…",
-    "meta": "★ 4.032 · TypeScript",
+    "meta": "★ 4.098 · TypeScript",
     "image": "/assets/discover/og/deskcommcrm.webp",
     "source": "GitHub",
     "date": "2026-09-12",
@@ -36261,7 +36418,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 4032,
+    "stars": 4098,
     "summary": "DeskcommCRM, sohbet üzerinden satış yapan işletmeler için geliştirilmiş açık kaynaklı bir müşteri ilişkileri yönetimi (CRM) platformu. WhatsApp entegrasyonu ve yerleşik yapay zekâ ajanlarıyla, benzer işlevlere sahip ticari yazılımlara (Kommo, Octadesk, Intercom) kendi sunucunuzda barındırabileceğiniz bir alternatif sunuyor.",
     "lite": false,
     "headline": "WhatsApp için açık kaynaklı yapay zekâlı CRM",
@@ -36314,6 +36471,13 @@
         "yildiz": 4032,
         "onceki_yildiz": 3245,
         "surum": "v1.54.0",
+        "surum_tarihi": "2026-09-27"
+      },
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 4098,
+        "onceki_yildiz": 4032,
+        "surum": "v1.56.0",
         "surum_tarihi": "2026-09-27"
       }
     ],
@@ -36416,14 +36580,14 @@
     "slug": "openflux",
     "title": "OpenFlux",
     "tagline": "Go diliyle geliştirilen OpenFlux, ağ yığını (network stack) araştırmaları için tasarlanmış bir TCP tünelleme aracıdır.",
-    "meta": "★ 1.866 · Go",
+    "meta": "★ 1.870 · Go",
     "image": "/assets/discover/og/openflux.webp",
     "source": "GitHub",
     "date": "2026-09-12",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 1866,
+    "stars": 1870,
     "summary": "Go diliyle geliştirilen OpenFlux, ağ yığını (network stack) araştırmaları için tasarlanmış bir TCP tünelleme aracıdır. Eklenebilir taşıma protokolleri (pluggable transports) desteği sayesinde ağ trafiği üzerinde esnek analiz ve yönetim imkânı sunar.",
     "lite": false,
     "headline": "Ağ trafiği için TCP tünelleme",
@@ -36456,6 +36620,13 @@
         "onceki_yildiz": 1631,
         "surum": "0.0.5",
         "surum_tarihi": "2026-09-25"
+      },
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 1870,
+        "onceki_yildiz": 1866,
+        "surum": "v0.1.0",
+        "surum_tarihi": "2026-09-27"
       }
     ],
     "tagline_en": "Developed in the Go language, OpenFlux is a TCP tunneling tool designed for network stack research.",
@@ -37360,7 +37531,7 @@
     "slug": "octop",
     "title": "Octop",
     "tagline": "TencentCloud tarafından geliştirilen Octop, kendi sunucunuzda barındırabileceğiniz çok kullanıcılı ve çok ajanlı bir yapay…",
-    "meta": "★ 5.129 · Python",
+    "meta": "★ 5.205 · Python",
     "image": "/assets/discover/og/octop.webp",
     "source": "GitHub",
     "date": "2026-09-18",
@@ -37369,7 +37540,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 5129,
+    "stars": 5205,
     "summary": "TencentCloud tarafından geliştirilen Octop, kendi sunucunuzda barındırabileceğiniz çok kullanıcılı ve çok ajanlı bir yapay zekâ asistanı. Python tabanlı bu sistem, farklı kullanıcıların aynı anda birden fazla yapay zekâ ajanıyla etkileşime girmesine olanak tanıyor.",
     "lite": false,
     "headline": "Kendi sunucunuzda çok kullanıcılı yapay zekâ",
@@ -37395,6 +37566,13 @@
         "onceki_yildiz": 4064,
         "surum": "v1.0.2b2",
         "surum_tarihi": "2026-09-23"
+      },
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 5205,
+        "onceki_yildiz": 5129,
+        "surum": "v1.0.2b3",
+        "surum_tarihi": "2026-09-27"
       }
     ],
     "tagline_en": "Octop, developed by TencentCloud, is a multi-user and multi-agent AI platform that you can host on your own server...",
@@ -37591,7 +37769,7 @@
     "slug": "higgsfield",
     "title": "Higgsfield",
     "tagline": "Higgsfield, milyarlarca ve trilyonlarca parametreye sahip modelleri eğitmek için tasarlanmış bir makine öğrenimi (machine…",
-    "meta": "★ 5.541 · Jupyter Notebook",
+    "meta": "★ 5.764",
     "image": "/assets/discover/og/higgsfield.webp",
     "source": "GitHub",
     "date": "2026-09-20",
@@ -37599,16 +37777,25 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 5541,
+    "stars": 5764,
     "summary": "Higgsfield, milyarlarca ve trilyonlarca parametreye sahip modelleri eğitmek için tasarlanmış bir makine öğrenimi (machine learning) çerçevesidir. Hata toleranslı ve yüksek ölçeklenebilir grafik işlem birimi (GPU) düzenleme yetenekleriyle büyük ölçekli yapay zekâ projelerini destekler.",
-    "lite": true,
-    "needs_enrichment": true,
-    "enrich_reason": "komut_yok",
-    "last_seen": "2026-09-21",
-    "tagline_fr": "Higgsfield est une technologie tolérante aux pannes et hautes performances développée pour entraîner des modèles avec des milliards et des milliards de paramètres.",
-    "tagline_pt": "Higgsfield é uma tecnologia tolerante a falhas e de alto desempenho desenvolvida para treinar modelos com bilhões e trilhões de parâmetros.",
-    "tagline_es": "Higgsfield es una tecnología de alto rendimiento y tolerante a fallas desarrollada para entrenar modelos con miles de millones y billones de parámetros.",
-    "tagline_de": "Higgsfield ist eine fehlertolerante und leistungsstarke Technologie, die zum Trainieren von Modellen mit Milliarden und Billionen Parametern entwickelt wurde."
+    "lite": false,
+    "headline": "Büyük yapay zekâ modellerini eğitme aracı",
+    "last_review": "2026-09-27",
+    "guncellemeler": [
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 5764,
+        "onceki_yildiz": 5541,
+        "surum": "v0.0.4-rc",
+        "surum_tarihi": "2024-03-23"
+      }
+    ],
+    "tagline_en": "Higgsfield is a machine learning (machine…",
+    "tagline_fr": "Higgsfield, un apprentissage automatique conçu pour entraîner des modèles dotés de milliards et de billions de paramètres...",
+    "tagline_pt": "Higgsfield, uma (máquina de aprendizagem) concebida para treinar modelos com milhares e biliões de parâmetros...",
+    "tagline_es": "Higgsfield, es un modelo de aprendizaje automático diseñado para entrenar modelos con miles y billones de parámetros (machine…",
+    "tagline_de": "Higgsfield ist ein für das Training von Modellen mit Milliarden und Billionen von Parametern entwickeltes maschinelles Lernmodell (machine…"
   },
   {
     "slug": "docling",
@@ -37631,29 +37818,39 @@
     "tagline_pt": "Docling converte formatos de documentos complexos em texto limpo ou formatos que modelos generativos de IA podem processar.",
     "tagline_es": "Docling convierte formatos de documentos complejos en texto limpio o formatos que los modelos generativos de IA pueden procesar.",
     "tagline_de": "Docling wandelt komplexe Dokumentformate in sauberen Text oder Formate um, die generative KI-Modelle verarbeiten können.",
-    "last_seen": "2026-09-20"
+    "last_seen": "2026-09-20",
+    "tagline_en": "Docling, transforming complex document formats into clean text or…"
   },
   {
     "slug": "quiche",
     "title": "Quiche",
     "tagline": "Cloudflare tarafından geliştirilen quiche, QUIC taşıma protokolünün ve HTTP/3 ağ standardının Rust diliyle yazılmış bir…",
-    "meta": "★ 12.452 · Rust",
+    "meta": "★ 12.638",
     "image": "/assets/discover/og/quiche.webp",
     "source": "GitHub",
     "date": "2026-09-20",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 12452,
+    "stars": 12638,
     "summary": "Cloudflare tarafından geliştirilen quiche, QUIC taşıma protokolünün ve HTTP/3 ağ standardının Rust diliyle yazılmış bir uygulamasını sunuyor. İnternet trafiğini hızlandırmayı amaçlayan bu kütüphane, ağ performansını optimize etmek isteyen geliştiriciler için düşük seviyeli bir altyapı sağlıyor.",
-    "lite": true,
-    "needs_enrichment": true,
-    "enrich_reason": "komut_yok",
-    "last_seen": "2026-09-22",
-    "tagline_fr": "Développé par Cloudflare, quiche est une version du protocole de transport QUIC et des standards HTTP/3 écrits en Rust.",
-    "tagline_pt": "Desenvolvido pela Cloudflare, quiche é uma versão do protocolo de transporte QUIC e dos padrões HTTP/3 escritos em Rust.",
-    "tagline_es": "Desarrollado por Cloudflare, quiche es una versión del protocolo de transporte QUIC y los estándares HTTP/3 escritos en Rust.",
-    "tagline_de": "Quiche wurde von Cloudflare entwickelt und ist eine in Rust geschriebene Version des QUIC-Transportprotokolls und der HTTP/3-Standards."
+    "lite": false,
+    "headline": "Rust ile quic ve http3 destegi",
+    "last_review": "2026-09-27",
+    "guncellemeler": [
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 12638,
+        "onceki_yildiz": 12452,
+        "surum": "0.30.0",
+        "surum_tarihi": "2026-09-17"
+      }
+    ],
+    "tagline_en": "Developed by Cloudflare, quiche is a...",
+    "tagline_fr": "Développé par Cloudflare, quiche est une implémentation écrite en langage Rust du protocole de transport QUIC et de la norme réseau HTTP/3...",
+    "tagline_pt": "Desenvolvido pela Cloudflare, o quiche é uma implementação escrita na linguagem Rust do protocolo de transporte QUIC e do padrão de rede HTTP/3...",
+    "tagline_es": "quiche, desarrollado por Cloudflare, es una implementación escrita en el lenguaje Rust del protocolo de transporte QUIC y del estándar de red HTTP/3…",
+    "tagline_de": "Quiche, entwickelt von Cloudflare, ist eine in der Programmiersprache Rust geschriebene Implementierung des QUIC-Transportprotokolls und des HTTP/3-Netzwerkstandards…"
   },
   {
     "slug": "weekly",
@@ -37668,21 +37865,22 @@
     ],
     "stars": 104338,
     "summary": "Teknoloji meraklılarına yönelik hazırlanan haftalık bülten (weekly), her cuma günü güncel dijital gelişmeleri ve yazılım dünyasındaki yenilikleri derliyor. GitHub üzerinde barındırılan bu içerik, geniş bir okuyucu kitlesi için bilgi kaynağı görevi görüyor.",
-    "lite": true,
+    "lite": false,
+    "headline": "Haftalık teknoloji bülteni",
     "needs_enrichment": true,
-    "enrich_reason": "komut_yok",
-    "last_seen": "2026-09-22",
-    "tagline_en": "Technology Enthusiasts Weekly, prepared by Ruanyf, is published every Friday in software…",
-    "tagline_fr": "Technology Enthusiasts Weekly, préparé par Ruanyf, est publié tous les vendredis dans un logiciel…",
-    "tagline_pt": "Technology Enthusiasts Weekly, elaborado por Ruanyf, é publicado todas as sextas-feiras em software…",
-    "tagline_es": "Technology Enthusiasts Weekly, elaborado por Ruanyf, se publica todos los viernes en software…",
-    "tagline_de": "Technology Enthusiasts Weekly, erstellt von Ruanyf, erscheint jeden Freitag in Software…"
+    "enrich_reason": "komutsuz",
+    "last_review": "2026-09-27",
+    "tagline_en": "The weekly bulletin prepared for technology enthusiasts, every Friday brings the latest digital developments and software...",
+    "tagline_fr": "La newsletter hebdomadaire préparée pour les passionnés de technologie, chaque vendredi les actualités numériques et les logiciels...",
+    "tagline_pt": "O boletim semanal (weekly) preparado para entusiastas da tecnologia traz todas as sextas-feiras os desenvolvimentos digitais atuais e o software…",
+    "tagline_es": "El boletín semanal preparado para entusiastas de la tecnología, todos los viernes comparte los últimos desarrollos digitales y de software...",
+    "tagline_de": "Ein für Technologiebegeisterte vorbereiteter wöchentlicher Newsletter (weekly), der jeden Freitag aktuelle digitale Entwicklungen und Software..."
   },
   {
     "slug": "codex-x",
     "title": "Codex-X",
     "tagline": "Codex-X, OpenAI Codex modellerini yönetmek için geliştirilen, Rust diliyle yazılmış görsel bir masaüstü ve komut satırı…",
-    "meta": "★ 3.816 · Rust",
+    "meta": "★ 3.958",
     "image": "/assets/discover/og/codex-x.webp",
     "source": "GitHub",
     "date": "2026-09-20",
@@ -37690,23 +37888,31 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 3816,
+    "stars": 3958,
     "summary": "Codex-X, OpenAI Codex modellerini yönetmek için geliştirilen, Rust diliyle yazılmış görsel bir masaüstü ve komut satırı arayüzü aracıdır. Yazılım; API yönetimi, oturum senkronizasyonu, istem enjeksiyonu (prompt injection) ve yetenek (skills) yönetimi gibi özelliklerle geliştirici deneyimini merkezileştirir.",
-    "lite": true,
-    "needs_enrichment": true,
-    "enrich_reason": "komut_yok",
-    "last_seen": "2026-09-22",
-    "tagline_en": "Codex-X is a visual desktop and command line management tool developed for OpenAI's coding model Codex.",
-    "tagline_fr": "Codex-X est un outil de gestion de bureau visuel et de ligne de commande développé pour le modèle de codage Codex d'OpenAI.",
-    "tagline_pt": "Codex-X é uma ferramenta visual de desktop e gerenciamento de linha de comando desenvolvida para o modelo de codificação Codex da OpenAI.",
-    "tagline_es": "Codex-X es una herramienta de gestión de línea de comandos y escritorio visual desarrollada para el modelo de codificación Codex de OpenAI.",
-    "tagline_de": "Codex-X ist ein visuelles Desktop- und Befehlszeilenverwaltungstool, das für das Codierungsmodell Codex von OpenAI entwickelt wurde."
+    "lite": false,
+    "headline": "Yapay zekâ model ayarlarını tek ekrandan yönetin",
+    "last_review": "2026-09-27",
+    "guncellemeler": [
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 3958,
+        "onceki_yildiz": 3816,
+        "surum": "v0.3.21",
+        "surum_tarihi": "2026-09-22"
+      }
+    ],
+    "tagline_en": "Codex-X is a visual desktop and command line tool written in Rust, developed to manage OpenAI Codex models...",
+    "tagline_fr": "Codex-X est une application de bureau visuelle et en ligne de commande écrite en Rust, développée pour gérer les modèles OpenAI Codex...",
+    "tagline_pt": "Codex-X é uma ferramenta visual de desktop e de linha de comando escrita em Rust, desenvolvida para gerenciar os modelos do OpenAI Codex…",
+    "tagline_es": "Codex-X es una interfaz visual de escritorio y de línea de comandos escrita en lenguaje Rust, desarrollada para gestionar los modelos de OpenAI Codex...",
+    "tagline_de": "Codex-X ist eine in der Programmiersprache Rust geschriebene grafische Desktop- und Befehlszeilenanwendung zur Verwaltung von OpenAI-Codex-Modellen..."
   },
   {
     "slug": "financial-services",
     "title": "Financial Services",
     "tagline": "Anthropic tarafından yayınlanan bu Python kütüphanesi, finansal hizmetler sektörüne yönelik yapay zekâ uygulamaları…",
-    "meta": "★ 37.453 · Python",
+    "meta": "★ 37.453",
     "image": "/assets/discover/og/financial-services.webp",
     "source": "GitHub",
     "date": "2026-09-21",
@@ -37716,10 +37922,8 @@
     ],
     "stars": 37453,
     "summary": "Anthropic tarafından yayınlanan bu Python kütüphanesi, finansal hizmetler sektörüne yönelik yapay zekâ uygulamaları geliştirmek için hazır şablonlar ve kod örnekleri sunuyor. Finansal veri analizi ve raporlama süreçlerini otomatikleştirmek isteyen geliştiricilere rehberlik etmeyi amaçlıyor.",
-    "lite": true,
-    "needs_enrichment": true,
-    "enrich_reason": "komut_yok",
-    "last_seen": "2026-09-25",
+    "lite": false,
+    "headline": "Finansal hizmetler için yapay zekâ şablonları",
     "guncellemeler": [
       {
         "tarih": "2026-09-25",
@@ -37727,11 +37931,12 @@
         "onceki_yildiz": 35579
       }
     ],
-    "tagline_en": "Published by Anthropic, the financial services repository is a Python-based sample solution for analyzing and processing financial data.",
-    "tagline_fr": "Publié par Anthropic, le référentiel de services financiers est un exemple de solution basée sur Python pour analyser et traiter les données financières.",
-    "tagline_pt": "Publicado pela Anthropic, o repositório de serviços financeiros é uma solução de amostra baseada em Python para análise e processamento de dados financeiros.",
-    "tagline_es": "Publicado por Anthropic, el repositorio de servicios financieros es una solución de muestra basada en Python para analizar y procesar datos financieros.",
-    "tagline_de": "Das von Anthropic herausgegebene Finanzdienstleistungs-Repository ist eine Python-basierte Beispiellösung für die Analyse und Verarbeitung von Finanzdaten."
+    "last_review": "2026-09-27",
+    "tagline_en": "This Python library released by Anthropic provides artificial intelligence applications tailored for the financial services sector...",
+    "tagline_fr": "Cette bibliothèque Python publiée par Anthropic propose des applications d'intelligence artificielle destinées au secteur des services financiers...",
+    "tagline_pt": "Esta biblioteca Python publicada pela Anthropic oferece suporte a aplicações de inteligência artificial voltadas para o setor de serviços financeiros…",
+    "tagline_es": "Esta biblioteca de Python publicada por Anthropic ofrece aplicaciones de inteligencia artificial orientadas al sector de servicios financieros...",
+    "tagline_de": "Diese von Anthropic veröffentlichte Python-Bibliothek bietet KI-Anwendungen für den Finanzdienstleistungssektor..."
   },
   {
     "slug": "paperless-ngx",
@@ -37807,31 +38012,37 @@
     "slug": "mvt",
     "title": "MVT",
     "tagline": "Mobile Verification Toolkit, mobil cihazlarda güvenlik ihlallerini tespit etmek için kullanılan bir adli bilişim aracıdır.",
-    "meta": "★ 14.780 · Python",
+    "meta": "★ 14.900",
     "image": "/assets/discover/og/mvt.webp",
     "source": "GitHub",
     "date": "2026-09-22",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 14780,
+    "stars": 14900,
     "summary": "Mobile Verification Toolkit, mobil cihazlarda güvenlik ihlallerini tespit etmek için kullanılan bir adli bilişim aracıdır. Python diliyle geliştirilen bu yazılım, cihaz verilerini analiz ederek olası siber saldırı izlerini ortaya çıkarır.",
-    "lite": true,
-    "needs_enrichment": true,
-    "enrich_reason": "komut_yok",
-    "last_seen": "2026-09-25",
+    "lite": false,
+    "headline": "Mobil cihazlarda siber saldırı izlerini arayın",
     "guncellemeler": [
       {
         "tarih": "2026-09-25",
         "yildiz": 14780,
         "onceki_yildiz": 13746
+      },
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 14900,
+        "onceki_yildiz": 14780,
+        "surum": "v2026.9.21",
+        "surum_tarihi": "2026-09-21"
       }
     ],
-    "tagline_en": "Mobile Verification Toolkit is designed to detect potential security breaches on mobile devices.",
-    "tagline_fr": "Mobile Verification Toolkit est conçu pour détecter les failles de sécurité potentielles sur les appareils mobiles.",
-    "tagline_pt": "O Mobile Verification Toolkit foi projetado para detectar possíveis violações de segurança em dispositivos móveis.",
-    "tagline_es": "Mobile Verification Toolkit está diseñado para detectar posibles violaciones de seguridad en dispositivos móviles.",
-    "tagline_de": "Das Mobile Verification Toolkit wurde entwickelt, um potenzielle Sicherheitsverletzungen auf Mobilgeräten zu erkennen."
+    "last_review": "2026-09-27",
+    "tagline_en": "Mobile Verification Toolkit is a forensic tool used to detect security breaches on mobile devices.",
+    "tagline_fr": "Mobile Verification Toolkit est un outil d'investigation numérique utilisé pour détecter les failles de sécurité sur les appareils mobiles.",
+    "tagline_pt": "O Mobile Verification Toolkit é uma ferramenta de computação forense usada para detectar violações de segurança em dispositivos móveis.",
+    "tagline_es": "Mobile Verification Toolkit es una herramienta de informática forense utilizada para detectar violaciones de seguridad en dispositivos móviles.",
+    "tagline_de": "Das Mobile Verification Toolkit ist ein forensisches Tool zur Erkennung von Sicherheitsverletzungen auf Mobilgeräten."
   },
   {
     "slug": "autoclip",
@@ -37861,7 +38072,7 @@
     "slug": "univer",
     "title": "Univer",
     "tagline": "Univer, elektronik tablo, doküman ve sunum gibi ofis araçlarını tek bir çalışma zamanında (runtime) birleştiren açık kaynaklı…",
-    "meta": "★ 18.873 · TypeScript",
+    "meta": "★ 19.922",
     "image": "/assets/discover/og/univer.webp",
     "source": "GitHub",
     "date": "2026-09-23",
@@ -37869,19 +38080,25 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 18873,
+    "stars": 19922,
     "summary": "Univer, elektronik tablo, doküman ve sunum gibi ofis araçlarını tek bir çalışma zamanında (runtime) birleştiren açık kaynaklı bir platformdur. Yapay zekâ ajanlarının (AI agents) ofis yazılımlarıyla etkileşimini kolaylaştırmak için tasarlanmış modüler bir yapı sunar.",
-    "lite": true,
-    "needs_enrichment": true,
-    "enrich_reason": "komut_yok",
-    "last_seen": "2026-09-26",
+    "lite": false,
+    "headline": "Açık kaynaklı ofis araçları seti",
     "guncellemeler": [
       {
         "tarih": "2026-09-25",
         "yildiz": 18050,
         "onceki_yildiz": 15941
+      },
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 19922,
+        "onceki_yildiz": 18873,
+        "surum": "v1.0.2",
+        "surum_tarihi": "2026-09-24"
       }
     ],
+    "last_review": "2026-09-27",
     "tagline_en": "Univer is an open source software that combines office tools such as spreadsheets, documents and presentations in a single runtime.",
     "tagline_fr": "Univer est un logiciel open source qui combine des outils bureautiques tels que des feuilles de calcul, des documents et des présentations dans un seul environnement d'exécution.",
     "tagline_pt": "Univer é um software de código aberto que combina ferramentas de escritório como planilhas, documentos e apresentações em um único tempo de execução.",
@@ -37892,7 +38109,7 @@
     "slug": "ax",
     "title": "AX",
     "tagline": "Google tarafından geliştirilen Ax, yapay zekâ ajanları için açık kaynaklı bir orkestrasyon çalışma zamanı (runtime).",
-    "meta": "★ 11.703 · Go",
+    "meta": "★ 12.083",
     "image": "/assets/discover/og/ax.webp",
     "source": "GitHub",
     "date": "2026-09-23",
@@ -37900,12 +38117,10 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 11703,
+    "stars": 12083,
     "summary": "Google tarafından geliştirilen Ax, yapay zekâ ajanları için açık kaynaklı bir orkestrasyon çalışma zamanı (runtime). Go diliyle yazılan bu altyapı, karmaşık agentik iş akışlarının yönetilmesini ve yürütülmesini kolaylaştırıyor.",
-    "lite": true,
-    "needs_enrichment": true,
-    "enrich_reason": "komut_yok",
-    "last_seen": "2026-09-26",
+    "lite": false,
+    "headline": "Yapay zekâ ajanları için orkestrasyon aracı",
     "guncellemeler": [
       {
         "tarih": "2026-09-24",
@@ -37916,19 +38131,27 @@
         "tarih": "2026-09-25",
         "yildiz": 10941,
         "onceki_yildiz": 9553
+      },
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 12083,
+        "onceki_yildiz": 11703,
+        "surum": "v0.3.1",
+        "surum_tarihi": "2026-09-25"
       }
     ],
-    "tagline_en": "Developed by Google, Ax offers an open source orchestration runtime for artificial intelligence agents.",
-    "tagline_fr": "Développé par Google, Axe propose un runtime d'orchestration open source pour les agents d'intelligence artificielle.",
-    "tagline_pt": "Desenvolvido pelo Google, Axe oferece um tempo de execução de orquestração de código aberto para agentes de inteligência artificial.",
-    "tagline_es": "Desarrollado por Google, Axe ofrece un tiempo de ejecución de orquestación de código abierto para agentes de inteligencia artificial.",
-    "tagline_de": "Axe wurde von Google entwickelt und bietet eine Open-Source-Orchestrierungslaufzeit für Agenten der künstlichen Intelligenz."
+    "last_review": "2026-09-27",
+    "tagline_en": "Ax, developed by Google, is an open-source orchestration runtime for artificial intelligence agents.",
+    "tagline_fr": "Ax, développé par Google, est un environnement d'exécution (runtime) d'orchestration open source pour les agents d'intelligence artificielle.",
+    "tagline_pt": "Desenvolvido pelo Google, o Ax é um tempo de execução (runtime) de orquestração de código aberto para agentes de inteligência artificial.",
+    "tagline_es": "Ax, desarrollado por Google, es un tiempo de ejecución (runtime) de orquestación de código abierto para agentes de inteligencia artificial.",
+    "tagline_de": "Ax, entwickelt von Google, ist eine Open-Source-Orchestrierungs-Laufzeitumgebung (Runtime) für KI-Agenten."
   },
   {
     "slug": "treg",
     "title": "Treg",
     "tagline": "Treg, yapay zekâ ajanları için geliştirilen araçları (agent tools) tek bir arayüz üzerinden yönetmeyi sağlayan bir yönlendirme…",
-    "meta": "★ 3.272 · Python",
+    "meta": "★ 3.272",
     "image": "/assets/discover/og/treg.webp",
     "source": "GitHub",
     "date": "2026-09-23",
@@ -37938,21 +38161,22 @@
     ],
     "stars": 3272,
     "summary": "Treg, yapay zekâ ajanları için geliştirilen araçları (agent tools) tek bir arayüz üzerinden yönetmeyi sağlayan bir yönlendirme katmanı (routing layer). Farklı dil modelleri ve araçlar arasında standart bir köprü kurarak geliştiricilerin ajan tabanlı iş akışlarını OpenRouter üzerinden kolayca entegre etmesine imkân tanıyor.",
-    "lite": true,
+    "lite": false,
+    "headline": "Yapay zekâ ajanı araçlarını yönetme katmanı",
     "needs_enrichment": true,
-    "enrich_reason": "komut_yok",
-    "last_seen": "2026-09-25",
-    "tagline_en": "Treg is an OpenRouter-like application that allows managing agent tools through a single interface.",
-    "tagline_fr": "Treg est une application de type OpenRouter qui permet de gérer les outils d'agent via une interface unique.",
-    "tagline_pt": "Treg é um aplicativo semelhante ao OpenRouter que permite gerenciar ferramentas de agente por meio de uma única interface.",
-    "tagline_es": "Treg es una aplicación similar a OpenRouter que permite gestionar las herramientas del agente a través de una única interfaz.",
-    "tagline_de": "Treg ist eine OpenRouter-ähnliche Anwendung, die die Verwaltung von Agent-Tools über eine einzige Schnittstelle ermöglicht."
+    "enrich_reason": "komutsuz",
+    "last_review": "2026-09-27",
+    "tagline_en": "Treg is a routing interface that allows managing tools developed for artificial intelligence agents (agent tools) through a single interface...",
+    "tagline_fr": "Treg est un outil de routage permettant de gérer les outils développés pour les agents d'intelligence artificielle (agent tools) via une interface unique...",
+    "tagline_pt": "Treg é uma ferramenta de roteamento que permite gerenciar as ferramentas desenvolvidas para agentes de inteligência artificial (agent tools) através de uma única interface…",
+    "tagline_es": "Treg es una interfaz de enrutamiento que permite gestionar las herramientas desarrolladas para agentes de inteligencia artificial (agent tools) a través de una sola interfaz...",
+    "tagline_de": "Treg ist ein Routing-System, mit dem für KI-Agenten entwickelte Tools (Agent Tools) über eine einzige Benutzeroberfläche verwaltet werden können..."
   },
   {
     "slug": "harness-sdk",
     "title": "Harness SDK",
     "tagline": "Harness SDK, yapay zekâ ajanları için uçtan uca kontrol ve yönetim sağlayan açık kaynaklı bir geliştirme kiti.",
-    "meta": "★ 8.359 · Python",
+    "meta": "★ 8.478",
     "image": "/assets/discover/og/harness-sdk.webp",
     "source": "GitHub",
     "date": "2026-09-24",
@@ -37960,17 +38184,25 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 8359,
+    "stars": 8478,
     "summary": "Harness SDK, yapay zekâ ajanları için uçtan uca kontrol ve yönetim sağlayan açık kaynaklı bir geliştirme kiti. Python ve TypeScript dilleriyle uyumlu olan bu araç, farklı modeller ve bulut altyapıları üzerinde çalışan üretim seviyesindeki ajanların standartlaştırılmasına olanak tanıyor.",
-    "lite": true,
-    "needs_enrichment": true,
-    "enrich_reason": "komut_yok",
-    "last_seen": "2026-09-25",
-    "tagline_en": "Harness SDK is an open source development tool that creates end-to-end control mechanisms and test environments for artificial intelligence agents.",
-    "tagline_fr": "Harness SDK est un outil de développement open source qui crée des mécanismes de contrôle de bout en bout et des environnements de test pour les agents d'intelligence artificielle.",
-    "tagline_pt": "Harness SDK é uma ferramenta de desenvolvimento de código aberto que cria mecanismos de controle ponta a ponta e ambientes de teste para agentes de inteligência artificial.",
-    "tagline_es": "Harness SDK es una herramienta de desarrollo de código abierto que crea mecanismos de control de un extremo a otro y entornos de prueba para agentes de inteligencia artificial.",
-    "tagline_de": "Harness SDK ist ein Open-Source-Entwicklungstool, das End-to-End-Kontrollmechanismen und Testumgebungen für Agenten der künstlichen Intelligenz erstellt."
+    "lite": false,
+    "headline": "Yapay zekâ ajanları için geliştirme kiti",
+    "last_review": "2026-09-27",
+    "guncellemeler": [
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 8478,
+        "onceki_yildiz": 8359,
+        "surum": "harness-cli/v0.1.4",
+        "surum_tarihi": "2026-09-25"
+      }
+    ],
+    "tagline_en": "Harness SDK is an open-source development kit providing end-to-end control and management for artificial intelligence agents.",
+    "tagline_fr": "Harness SDK est un kit de développement open source offrant un contrôle et une gestion de bout en bout pour les agents d'intelligence artificielle.",
+    "tagline_pt": "Harness SDK é um kit de desenvolvimento de código aberto que fornece controle e gerenciamento de ponta a ponta para agentes de inteligência artificial.",
+    "tagline_es": "Harness SDK es un kit de desarrollo de código abierto que proporciona control y gestión de extremo a extremo para agentes de inteligencia artificial.",
+    "tagline_de": "Das Harness SDK ist ein Open-Source-Entwicklungskit, das End-to-End-Kontrolle und -Verwaltung für KI-Agenten bietet."
   },
   {
     "slug": "spirula-studio",
@@ -38024,7 +38256,7 @@
     "slug": "hindsight",
     "title": "Hindsight",
     "tagline": "Hindsight, yapay zekâ ajanları için öğrenen bir bellek katmanı (memory layer) sunuyor.",
-    "meta": "★ 30.381 · Python",
+    "meta": "★ 35.563",
     "image": "/assets/discover/og/hindsight.webp",
     "source": "GitHub",
     "date": "2026-09-25",
@@ -38032,30 +38264,36 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 30381,
+    "stars": 35563,
     "summary": "Hindsight, yapay zekâ ajanları için öğrenen bir bellek katmanı (memory layer) sunuyor. Geçmiş etkileşimlerden çıkarım yaparak ajanların karar alma süreçlerini iyileştiren bu açık kaynaklı kütüphane, sistemlerin zamanla daha tutarlı sonuçlar üretmesini sağlıyor.",
-    "lite": true,
-    "needs_enrichment": true,
-    "enrich_reason": "komut_yok",
-    "last_seen": "2026-09-26",
+    "lite": false,
+    "headline": "Yapay zekâ ajanları için akıllı bellek katmanı",
     "guncellemeler": [
       {
         "tarih": "2026-09-26",
         "yildiz": 30381,
         "onceki_yildiz": 28397
+      },
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 35563,
+        "onceki_yildiz": 30381,
+        "surum": "v0.10.1",
+        "surum_tarihi": "2026-09-21"
       }
     ],
-    "tagline_en": "Hindsight enables artificial intelligence agents to create long-term memory by learning from past interactions.",
-    "tagline_fr": "Hindsight permet aux agents d’intelligence artificielle de créer une mémoire à long terme en apprenant des interactions passées.",
-    "tagline_pt": "A retrospectiva permite que agentes de inteligência artificial criem memória de longo prazo aprendendo com interações passadas.",
-    "tagline_es": "La retrospectiva permite a los agentes de inteligencia artificial crear memoria a largo plazo aprendiendo de interacciones pasadas.",
-    "tagline_de": "Hindsight ermöglicht es Agenten der künstlichen Intelligenz, ein Langzeitgedächtnis zu schaffen, indem sie aus vergangenen Interaktionen lernen."
+    "last_review": "2026-09-27",
+    "tagline_en": "Hindsight offers a learning memory layer for AI agents.",
+    "tagline_fr": "Hindsight offre une couche de mémoire d'apprentissage (memory layer) pour les agents d'intelligence artificielle.",
+    "tagline_pt": "O Hindsight oferece uma camada de memória de aprendizado (memory layer) para agentes de inteligência artificial.",
+    "tagline_es": "Hindsight ofrece una capa de memoria de aprendizaje (memory layer) para agentes de inteligencia artificial.",
+    "tagline_de": "Hindsight bietet eine lernende Speicherebene (Memory Layer) für KI-Agenten."
   },
   {
     "slug": "model-optimizer",
     "title": "Model-Optimizer",
     "tagline": "NVIDIA Model Optimizer, derin öğrenme modellerini nicemleme (quantization), damıtma (distillation) ve budama (pruning) gibi…",
-    "meta": "★ 4.563 · Python",
+    "meta": "★ 4.910",
     "image": "/assets/discover/og/model-optimizer.webp",
     "source": "GitHub",
     "date": "2026-09-25",
@@ -38063,17 +38301,25 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 4563,
+    "stars": 4910,
     "summary": "NVIDIA Model Optimizer, derin öğrenme modellerini nicemleme (quantization), damıtma (distillation) ve budama (pruning) gibi tekniklerle sıkıştıran bir kütüphanedir. Bu araç, modellerin çıkarım hızını artırmak için TensorRT-LLM gibi çıkarım motorlarında (inference engines) kullanıma hazır hale getirir.",
-    "lite": true,
-    "needs_enrichment": true,
-    "enrich_reason": "komut_yok",
-    "last_seen": "2026-09-26",
-    "tagline_en": "Developed by NVIDIA, Model Optimizer allows deep learning models to be quantized, distilled and…",
-    "tagline_fr": "Développé par NVIDIA, Model Optimizer permet de quantifier, distiller et…",
-    "tagline_pt": "Desenvolvido pela NVIDIA, o Model Optimizer permite que modelos de aprendizagem profunda sejam quantizados, destilados e…",
-    "tagline_es": "Desarrollado por NVIDIA, Model Optimizer permite cuantificar, destilar y...",
-    "tagline_de": "Model Optimizer wurde von NVIDIA entwickelt und ermöglicht die Quantisierung, Destillierung und… von Deep-Learning-Modellen."
+    "lite": false,
+    "headline": "Derin ogrenme modellerini sikistiran kutuphane",
+    "last_review": "2026-09-27",
+    "guncellemeler": [
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 4910,
+        "onceki_yildiz": 4563,
+        "surum": "0.47.0",
+        "surum_tarihi": "2026-09-23"
+      }
+    ],
+    "tagline_en": "NVIDIA Model Optimizer provides deep learning models with techniques such as quantization, distillation, and pruning...",
+    "tagline_fr": "NVIDIA Model Optimizer optimise les modèles d'apprentissage profond grâce à des techniques telles que la quantification (quantization), la distillation (distillation) et l'élagage (pruning)...",
+    "tagline_pt": "O NVIDIA Model Optimizer otimiza modelos de aprendizado profundo por meio de técnicas como quantização (quantization), destilação (distillation) e poda (pruning)...",
+    "tagline_es": "NVIDIA Model Optimizer optimiza modelos de aprendizaje profundo mediante técnicas como la cuantización (quantization), la destilación (distillation) y la poda (pruning)…",
+    "tagline_de": "NVIDIA Model Optimizer unterstützt Deep-Learning-Modelle durch Techniken wie Quantisierung (Quantization), Distillation (Distillation) und Pruning (Pruning)…"
   },
   {
     "slug": "fxembed",
@@ -38260,6 +38506,175 @@
     "tagline_pt": "OpenBao é uma plataforma para gerenciar, armazenar e distribuir dados confidenciais, como senhas, certificados e chaves de criptografia.",
     "tagline_es": "OpenBao es una plataforma para gestionar, almacenar y distribuir datos confidenciales como contraseñas, certificados y claves de cifrado.",
     "tagline_de": "OpenBao ist eine Plattform zum Verwalten, Speichern und Verteilen sensibler Daten wie Passwörter, Zertifikate und Verschlüsselungsschlüssel.",
-    "last_seen": "2026-09-26"
+    "last_seen": "2026-09-27"
+  },
+  {
+    "slug": "tensorflow",
+    "title": "Tensorflow",
+    "tagline": "Google tarafından geliştirilen TensorFlow, makine öğrenimi (machine learning) modelleri oluşturmak ve eğitmek için kullanılan…",
+    "meta": "★ 200.552 · C++",
+    "image": "/assets/discover/og/tensorflow.webp",
+    "source": "GitHub",
+    "date": "2026-09-27",
+    "tags": [
+      "Yapay zekâ araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 200552,
+    "last_seen": "2026-09-27",
+    "summary": "Google tarafından geliştirilen TensorFlow, makine öğrenimi (machine learning) modelleri oluşturmak ve eğitmek için kullanılan açık kaynaklı bir kütüphane. Geliştiricilerin karmaşık sinir ağlarını (neural networks) tasarlamasına ve bu modelleri ölçeklenebilir şekilde dağıtmasına olanak tanıyor.",
+    "lite": false,
+    "headline": "Yapay zekâ modelleri için açık kaynaklı platform",
+    "last_review": "2026-09-27",
+    "guncellemeler": [
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 200552,
+        "onceki_yildiz": 200528,
+        "surum": "v2.21.0",
+        "surum_tarihi": "2026-03-06"
+      }
+    ],
+    "tagline_en": "Developed by Google, TensorFlow is used to build and train machine learning models...",
+    "tagline_fr": "Développé par Google, TensorFlow est utilisé pour créer et entraîner des modèles d'apprentissage automatique (machine learning)...",
+    "tagline_pt": "Desenvolvido pelo Google, o TensorFlow é usado para criar e treinar modelos de aprendizado de máquina (machine learning)...",
+    "tagline_es": "Desarrollado por Google, TensorFlow es un... utilizado para crear y entrenar modelos de aprendizaje automático (machine learning).",
+    "tagline_de": "Das von Google entwickelte TensorFlow wird verwendet, um Modelle für maschinelles Lernen (machine learning) zu erstellen und zu trainieren..."
+  },
+  {
+    "slug": "vscode",
+    "title": "Vscode",
+    "tagline": "Microsoft tarafından geliştirilen Visual Studio Code, yazılım geliştirme süreçlerini hızlandıran açık kaynaklı bir kod…",
+    "meta": "★ 193.169 · TypeScript",
+    "image": "/assets/discover/og/vscode.webp",
+    "source": "GitHub",
+    "date": "2026-09-27",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 193169,
+    "last_seen": "2026-09-27",
+    "summary": "Microsoft tarafından geliştirilen Visual Studio Code, yazılım geliştirme süreçlerini hızlandıran açık kaynaklı bir kod düzenleyici (code editor). TypeScript ile yazılan bu araç, geniş eklenti desteği sayesinde farklı programlama dilleri ve platformlar için özelleştirilebilir bir çalışma ortamı sunuyor.",
+    "lite": false,
+    "headline": "Açık kaynaklı kod düzenleyici",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz",
+    "last_review": "2026-09-27",
+    "guncellemeler": [
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 193169,
+        "onceki_yildiz": 193142,
+        "surum": "1.139.1",
+        "surum_tarihi": "2026-09-25"
+      }
+    ],
+    "tagline_en": "Developed by Microsoft, Visual Studio Code is an open-source code...",
+    "tagline_fr": "Développé par Microsoft, Visual Studio Code est un éditeur de code open source qui accélère les processus de développement...",
+    "tagline_pt": "Desenvolvido pela Microsoft, o Visual Studio Code é um código de código aberto que acelera os processos de desenvolvimento de software...",
+    "tagline_es": "Desarrollado por Microsoft, Visual Studio Code es un código de código abierto que acelera los procesos de desarrollo de software...",
+    "tagline_de": "Visual Studio Code, entwickelt von Microsoft, ist ein Open-Source-Codeeditor, der Softwareentwicklungsprozesse beschleunigt..."
+  },
+  {
+    "slug": "claude-code-action",
+    "title": "Claude Code Action",
+    "tagline": "Anthropics tarafından geliştirilen Claude Code Action, geliştiricilerin kod tabanları üzerinde doğrudan yapay zekâ destekli…",
+    "meta": "★ 9.201 · TypeScript",
+    "image": "/assets/discover/og/claude-code-action.webp",
+    "source": "GitHub",
+    "date": "2026-09-27",
+    "tags": [
+      "Yapay zekâ araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 9201,
+    "last_seen": "2026-09-27",
+    "summary": "Anthropics tarafından geliştirilen Claude Code Action, geliştiricilerin kod tabanları üzerinde doğrudan yapay zekâ destekli işlemler gerçekleştirmesini sağlayan bir araçtır. Bu TypeScript tabanlı çözüm, kod düzenleme ve analiz süreçlerini otomatize ederek yazılım geliştirme iş akışlarını hızlandırmayı hedefler.",
+    "lite": false,
+    "headline": "Kod tabanınızda yapay zekâ işlemleri yürütün",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz",
+    "last_review": "2026-09-27",
+    "guncellemeler": [
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 9201,
+        "onceki_yildiz": 9171,
+        "surum": "v1",
+        "surum_tarihi": "2025-08-26"
+      }
+    ],
+    "tagline_en": "Developed by Anthropic, Claude Code Action enables developers to perform AI-powered...",
+    "tagline_fr": "Développé par Anthropic, Claude Code Action permet aux développeurs d'utiliser des fonctionnalités alimentées par l'intelligence artificielle directement sur leurs bases de code...",
+    "tagline_pt": "Desenvolvido pela Anthropic, o Claude Code Action é uma ferramenta assistida por inteligência artificial que permite aos desenvolvedores trabalharem diretamente em bases de código...",
+    "tagline_es": "Desarrollado por Anthropic, Claude Code Action permite a los desarrolladores realizar directamente acciones asistidas por inteligencia artificial en sus bases de código...",
+    "tagline_de": "Claude Code Action, entwickelt von Anthropic, ermöglicht es Entwicklern, KI-gestützte Aktionen direkt auf Codebasen auszuführen..."
+  },
+  {
+    "slug": "runner-images",
+    "title": "Runner Images",
+    "tagline": "GitHub Actions runner görüntüleri (runner images), yazılım geliştirme süreçlerini otomatize eden GitHub Actions platformunun…",
+    "meta": "★ 13.377 · PowerShell",
+    "image": "/assets/discover/og/runner-images.webp",
+    "source": "GitHub",
+    "date": "2026-09-27",
+    "tags": [
+      "Geliştirici aracı"
+    ],
+    "stars": 13377,
+    "last_seen": "2026-09-27",
+    "summary": "GitHub Actions runner görüntüleri (runner images), yazılım geliştirme süreçlerini otomatize eden GitHub Actions platformunun kullandığı sanal makine ortamlarını barındırıyor. Bu görüntüler, yazılım test ve dağıtım süreçlerinde ihtiyaç duyulan önceden yapılandırılmış işletim sistemi ve araç setlerini sağlıyor.",
+    "lite": false,
+    "headline": "GitHub Actions için sanal makine görüntüleri",
+    "needs_enrichment": true,
+    "enrich_reason": "komutsuz",
+    "last_review": "2026-09-27",
+    "guncellemeler": [
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 13377,
+        "onceki_yildiz": 13359,
+        "surum": "win25/20260922.270",
+        "surum_tarihi": "2026-09-23"
+      }
+    ],
+    "tagline_en": "GitHub Actions runner images are part of the GitHub Actions platform, which automates software development processes...",
+    "tagline_fr": "Les images de runners GitHub Actions (runner images) constituent la base de la plateforme GitHub Actions qui automatise les processus de développement logiciel...",
+    "tagline_pt": "As imagens de executor do GitHub Actions (runner images) fazem parte da plataforma GitHub Actions, que automatiza os processos de desenvolvimento de software...",
+    "tagline_es": "Las imágenes de ejecutor de GitHub Actions (runner images) forman parte de la plataforma GitHub Actions, que automatiza los procesos de desarrollo de software...",
+    "tagline_de": "GitHub Actions-Runner-Images (runner images) sind die Umgebung der GitHub Actions-Plattform, die Softwareentwicklungsprozesse automatisiert..."
+  },
+  {
+    "slug": "mobile-mcp",
+    "title": "Mobile MCP",
+    "tagline": "Mobile-mcp, mobil cihazlar ve simülatörler üzerinde otomasyon ile veri kazıma işlemlerini gerçekleştiren bir Model Bağlam…",
+    "meta": "★ 7.665 · TypeScript",
+    "image": "/assets/discover/og/mobile-mcp.webp",
+    "source": "GitHub",
+    "date": "2026-09-27",
+    "tags": [
+      "Yapay zekâ araçları",
+      "Geliştirici aracı"
+    ],
+    "stars": 7665,
+    "last_seen": "2026-09-27",
+    "summary": "Mobile-mcp, mobil cihazlar ve simülatörler üzerinde otomasyon ile veri kazıma işlemlerini gerçekleştiren bir Model Bağlam Protokolü (Model Context Protocol) sunucusudur. Bu araç, yapay zekâ modellerinin iOS ve Android platformlarıyla doğrudan etkileşime girerek görevleri yürütmesini sağlar.",
+    "lite": false,
+    "headline": "Yapay zekâ ile mobil cihaz otomasyonu",
+    "last_review": "2026-09-27",
+    "guncellemeler": [
+      {
+        "tarih": "2026-09-27",
+        "yildiz": 7665,
+        "onceki_yildiz": 7586,
+        "surum": "1.0.4",
+        "surum_tarihi": "2026-09-13"
+      }
+    ],
+    "tagline_en": "Mobile-mcp is a Model Context...",
+    "tagline_fr": "Mobile-mcp est un Model Context Protocol qui effectue des opérations d'automatisation et de web scraping sur des appareils mobiles et des émulateurs...",
+    "tagline_pt": "Mobile-mcp é um Contexto de Modelo que realiza automação e raspagem de dados em dispositivos móveis e simuladores...",
+    "tagline_es": "Mobile-mcp es un Contexto de Modelo que realiza operaciones de automatización y web scraping en dispositivos móviles y simuladores...",
+    "tagline_de": "Mobile-mcp ist ein Model-Context-Protokoll, das Automatisierungs- und Web-Scraping-Vorgänge auf Mobilgeräten und Simulatoren ausführt..."
   }
 ]

@@ -37,7 +37,6 @@ Oui, mais ceux utilisés pour l’IA sont généralement des modèles profession
 - [Airllm](/fr/discover/airllm/)
 - [Omlx](/fr/discover/omlx/)
 - [Ktransformers](/fr/discover/ktransformers/)
-- [Olmocr](/fr/discover/olmocr/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/gpu/

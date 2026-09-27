@@ -30,6 +30,7 @@ Prompt is a request, action is the concrete action that takes place as a result 
 - [Agentic Workflows](/en/dictionary/agentic-workflows/)
 
 ## Related tools
+- [Claude Code Action](/en/discover/claude-code-action/)
 - [Embabel Agent](/en/discover/embabel-agent/)
 
 ---

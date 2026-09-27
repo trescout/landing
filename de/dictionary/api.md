@@ -38,7 +38,7 @@ Da es nur die Weitergabe zulässiger Daten ermöglicht, öffnet es nur den relev
 - [Free for Dev](/de/discover/free-for-dev/)
 - [ComfyUI](/de/discover/comfyui/)
 - [MoneyPrinterTurbo](/de/discover/moneyprinterturbo/)
-- [TradingAgents](/de/discover/tradingagents/)
+- [Browser Use](/de/discover/browser-use/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/api/

@@ -1,54 +1,49 @@
-# Yapay zekâ ile web tarayıcısını yönetin
+# Yapay zekâ tarayıcı otomasyonu
 
-Browser-use é uma biblioteca Python que permite que agentes de inteligência artificial interajam com sites da internet como os humanos. Esta ferramenta, que controla o navegador para automatizar processos baseados na web, permite que tarefas online complexas sejam realizadas pela inteligência artificial.
+Browser-use, yapay zekâ ajanlarının web siteleriyle insanlar gibi etkileşime girmesini sağlayan bir Python kütüphanesi. İnternet üzerindeki karmaşık görevleri tarayıcı tabanlı işlemlerle otomatize etmeye imkân tanıyor.
 
 - ★ 112.224
-- Python
-- GitHub Trending · 2026-08-27
+- GitHub Trending · 2026-08-26
 
 ## Güncelleme
 - 4 Eylül 2026: Yıldız 111.369 → 112.224, son sürüm 0.13.10 (4 Eylül 2026).
 - 27 Ağustos 2026: Yıldız 111.348 → 111.369, son sürüm 0.13.8 (16 Ağustos 2026).
 
 ## Ne kazandırır?
-- İnternet sitelerinde formları otomatik doldurur
-- Web sayfalarından yapılandırılmış veri çıkarır
-- İnsan gibi tıklama ve yazma işlemleri yapar
+- Yapay zekâ ajanlarının web siteleriyle etkileşime girmesini sağlar.
+- Tarayıcı tabanlı işlemleri ve karmaşık görevleri otomatize eder.
+- Yerel veya bulut tabanlı tarayıcılarla çalışmayı destekler.
 
 ## Kurulum
 
-**Kütüphaneyi bilgisayarınıza kurun**
+**Kütüphaneyi Ekle**
 
 ```
 uv add browser-use
-# or: pip install browser-use
 ```
 
 ## Çalıştırma
 
-**Bulut üzerinden görev başlatın**
+**Betiği Çalıştır**
 
 ```
-curl -X POST https://api.browser-use.com/api/v4/runs \
--H "X-Browser-Use-API-Key: $BROWSER_USE_API_KEY" \
--H "Content-Type: application/json" \
--d '{"task": "Your task"}'
+uv run agent.py
 ```
 
 ## Kod bilmiyorsanız
 🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Install or upgrade browser-use to the latest stable version with uv using Python 3.12, run `browser-use skill install` to register the skill, and connect it to my browser. If setup or connection fails, follow https://github.com/browser-use/browser-harness/blob/main/install.md.
+Tarayıcı tabanlı işlemleri otomatize etmek için uv add browser-use komutuyla kütüphaneyi kurun, OpenAI API anahtarınızı .env dosyasına ekleyin ve uv run agent.py komutuyla tarayıcı ajanını çalıştırın.
 
-- **Kimin için:** Web üzerindeki tekrarlı işlerini otomatize etmek isteyen yazılımcılar ve yapay zekâ ajanlarını tarayıcı üzerinde çalıştırmak isteyen kullanıcılar içindir. 
+- **Kimin için:** Yapay zekâ ajanlarının internet üzerinde tarayıcı işlemleri yapmasını isteyen geliştiriciler içindir. 
 - **Lisans:** MIT 
 
 ## Bağlantılar
 - [GitHub deposu →](https://github.com/browser-use/browser-use)
 
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-27 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Skill Artificial Intelligence
+Agent API Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/browser-use/

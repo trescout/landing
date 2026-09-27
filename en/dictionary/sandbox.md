@@ -36,8 +36,8 @@ A well-structured sandbox completely restricts communication with the outside wo
 - [CUA](/en/discover/cua/)
 - [iii](/en/discover/iii/)
 - [CubeSandbox](/en/discover/cubesandbox/)
+- [AX](/en/discover/ax/)
 - [Flue](/en/discover/flue/)
-- [RLM](/en/discover/rlm/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/sandbox/

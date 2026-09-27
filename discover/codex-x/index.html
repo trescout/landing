@@ -4,12 +4,15 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Codex-X · Keşif · TreScout</title>
-<meta name="description" content="Codex-X, OpenAI&#x27;ın kodlama modeli Codex için geliştirilmiş görsel bir masaüstü ve komut satırı yönetim aracıdır.">
+<meta name="description" content="Codex-X, OpenAI Codex modellerini yönetmek için geliştirilen, Rust diliyle yazılmış görsel bir masaüstü ve komut satırı…">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/discover/codex-x.md">
 <link rel="canonical" href="https://trescout.com/discover/codex-x/">
+<link rel="alternate" hreflang="tr" href="https://trescout.com/discover/codex-x/">
+<link rel="alternate" hreflang="en" href="https://trescout.com/en/discover/codex-x/">
+<link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/codex-x/">
 <meta property="og:title" content="Codex-X">
-<meta property="og:description" content="Codex-X, OpenAI&#x27;ın kodlama modeli Codex için geliştirilmiş görsel bir masaüstü ve komut satırı yönetim aracıdır.">
+<meta property="og:description" content="Codex-X, OpenAI Codex modellerini yönetmek için geliştirilen, Rust diliyle yazılmış görsel bir masaüstü ve komut satırı…">
 <meta property="og:url" content="https://trescout.com/discover/codex-x/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -20,15 +23,15 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Codex-X">
-<meta name="twitter:description" content="Codex-X, OpenAI&#x27;ın kodlama modeli Codex için geliştirilmiş görsel bir masaüstü ve komut satırı yönetim aracıdır.">
+<meta name="twitter:description" content="Codex-X, OpenAI Codex modellerini yönetmek için geliştirilen, Rust diliyle yazılmış görsel bir masaüstü ve komut satırı…">
 <meta name="twitter:image" content="https://trescout.com/assets/discover/og/codex-x.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Codex-X",
+  "headline": "Yapay zekâ model ayarlarını tek ekrandan yönetin",
   "inLanguage": "tr",
-  "description": "Codex-X, OpenAI'ın kodlama modeli Codex için geliştirilmiş görsel bir masaüstü ve komut satırı yönetim aracıdır. Rust diliyle yazılan bu uygulama, farklı sağlayıcılar arasında geçiş yapma, oturum senkronizasyonu, istem enjeksiyonu ve yetenek (skills) yönetimi gibi işlevleri tek bir arayüzde toplar.",
+  "description": "Codex-X, OpenAI Codex modellerini yönetmek için geliştirilen, Rust diliyle yazılmış görsel bir masaüstü ve komut satırı arayüzü aracıdır. Yazılım; API yönetimi, oturum senkronizasyonu, istem enjeksiyonu (prompt injection) ve yetenek (skills) yönetimi gibi özelliklerle geliştirici deneyimini merkezileştirir.",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -43,8 +46,7 @@
   "about": {
     "@type": "SoftwareSourceCode",
     "name": "Codex-X",
-    "codeRepository": "https://github.com/yynxxxxx/Codex-X",
-    "programmingLanguage": "Rust"
+    "codeRepository": "https://github.com/yynxxxxx/Codex-X"
   }
 }
 </script>
@@ -55,17 +57,23 @@
 </head>
 <body>
 <a class="skip-link" href="#main">Ana içeriğe atla</a>
-<nav><div class="container nav-inner"><a class="logo-link" href="/" aria-label="TreScout anasayfa"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/discover/" class="btn btn-ghost">Keşif</a><a href="/dictionary/" class="btn btn-ghost">Sözlük</a><a href="/reports/" class="btn btn-ghost">Raporlar</a><a href="/compare/rss-vs-ai/" class="btn btn-ghost">Karşılaştır</a><details class="dil-secici"><summary class="btn btn-ghost" aria-label="Dil seçin">TR</summary><div class="dil-listesi"><a href="/en/discover/" class="btn btn-ghost" aria-label="İngilizceye geç">EN</a><a href="/fr/" class="btn btn-ghost" aria-label="Fransızcaya geç">FR</a><a href="/pt/" class="btn btn-ghost" aria-label="Portekizceye geç">PT</a><a href="/es/" class="btn btn-ghost" aria-label="İspanyolcaya geç">ES</a><a href="/de/" class="btn btn-ghost" aria-label="Almancaya geç">DE</a></div></details></div></div></nav>
+<nav><div class="container nav-inner"><a class="logo-link" href="/" aria-label="TreScout anasayfa"><svg width="32" height="32" viewBox="0 0 100 100" aria-hidden="true"><rect x="0" y="0" width="100" height="100" rx="22" fill="#1B4965"/><path d="M 20 56 A 30 30 0 0 1 80 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.3" stroke-linecap="round"/><path d="M 30 56 A 20 20 0 0 1 70 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/><path d="M 40 56 A 10 10 0 0 1 60 56" fill="none" stroke="#5FA8D3" stroke-width="2.5" opacity="0.75" stroke-linecap="round"/><rect x="20" y="56" width="60" height="11" rx="2" fill="#F4D35E"/><rect x="44.5" y="56" width="11" height="28" rx="2" fill="#F4D35E"/></svg><span>TreScout</span></a><div class="nav-actions"><a href="/discover/" class="btn btn-ghost">Keşif</a><a href="/dictionary/" class="btn btn-ghost">Sözlük</a><a href="/reports/" class="btn btn-ghost">Raporlar</a><a href="/compare/rss-vs-ai/" class="btn btn-ghost">Karşılaştır</a><details class="dil-secici"><summary class="btn btn-ghost" aria-label="Dil seçin">TR</summary><div class="dil-listesi"><a href="/en/discover/codex-x/" class="btn btn-ghost" aria-label="İngilizceye geç">EN</a><a href="/fr/" class="btn btn-ghost" aria-label="Fransızcaya geç">FR</a><a href="/pt/" class="btn btn-ghost" aria-label="Portekizceye geç">PT</a><a href="/es/" class="btn btn-ghost" aria-label="İspanyolcaya geç">ES</a><a href="/de/" class="btn btn-ghost" aria-label="Almancaya geç">DE</a></div></details></div></div></nav>
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/discover/">← Keşif</a>
-<div class="disc-top"><span class="disc-eyebrow">Keşif · GitHub</span><span class="disc-momentum">↑ +50 bugün</span></div>
-<h1 class="disc-title">Codex-X</h1>
-<p class="disc-lead">Codex-X, OpenAI&#x27;ın kodlama modeli Codex için geliştirilmiş görsel bir masaüstü ve komut satırı yönetim aracıdır. Rust diliyle yazılan bu uygulama, farklı sağlayıcılar arasında geçiş yapma, oturum senkronizasyonu, istem enjeksiyonu ve yetenek (skills) yönetimi gibi işlevleri tek bir arayüzde toplar.</p>
-<ul class="disc-meta"><li>★ 3.816</li><li>Rust</li><li>GitHub Trending · 2026-09-20</li></ul>
+<div class="disc-top"><span class="disc-eyebrow">Keşif · GitHub · Codex-X</span></div>
+<h1 class="disc-title">Yapay zekâ model ayarlarını tek ekrandan yönetin</h1>
+<p class="disc-lead">Codex-X, OpenAI Codex modellerini yönetmek için geliştirilen, Rust diliyle yazılmış görsel bir masaüstü ve komut satırı arayüzü aracıdır. Yazılım; API yönetimi, oturum senkronizasyonu, istem enjeksiyonu (prompt injection) ve yetenek (skills) yönetimi gibi özelliklerle geliştirici deneyimini merkezileştirir.</p>
+<ul class="disc-meta"><li>★ 3.958</li><li>GitHub Trending · 2026-09-20</li></ul>
+      <section class="disc-sec"><h2>Güncelleme</h2><ul class="disc-wins"><li><strong>27 Eylül 2026:</strong> Yıldız 3.816 → 3.958, son sürüm v0.3.21 (22 Eylül 2026).</li></ul></section>
+      <section class="disc-sec"><h2>Ne kazandırır?</h2><ul class="disc-wins"><li>İstem şablonlarını ve eklentileri arayüz üzerinden kolayca yönetin</li><li>Farklı yapay zekâ sağlayıcıları arasında hızlıca geçiş yapın</li><li>Oturum geçmişini ve token kullanım trendlerini takip edin</li></ul></section>
+      <section class="disc-sec"><h2>Kurulum</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Bağımlılıkları yükleme</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>pnpm install</code></pre></div></section>
+      <section class="disc-sec"><h2>Çalıştırma</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Geliştirme ortamını başlatma</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>pnpm dev</code></pre></div><div class="disc-cmd"><div class="disc-cmd-head"><span>Masaüstü uygulamasını derleme</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>pnpm --dir apps/desktop tauri build</code></pre></div></section>
+      <section class="disc-sec"><h2>Kod bilmiyorsanız</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın</span><button type="button" class="disc-copy" aria-label="İstemi kopyala">Kopyala</button></div><p class="disc-ai-text">Codex-X kullanarak yapay zekâ kodlama asistanım için hazırladığım istem şablonlarını ve sağlayıcı ayarlarını tek bir görsel arayüzde toplamak istiyorum. Uygulamayı yerel ortamımda kurup başlatarak API anahtarlarımı yapılandırmama ve oturum geçmişimi senkronize etmeme yardım et.</p></div></section>
+      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Kimin için</span><span class="disc-fact-v">Kodlama asistanı kullanan geliştiriciler</span></div><div class="disc-fact"><span class="disc-fact-k">Lisans</span><span class="disc-fact-v">MIT</span></div></div>
       <section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links"><li><a href="https://github.com/yynxxxxx/Codex-X" target="_blank" rel="noopener">GitHub deposu →</a></li></ul></section>
 <p class="disc-disclaimer">TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.</p>
-<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related"><a href="/dictionary/ai-skills/">AI Skills</a><a href="/dictionary/rust/">Rust</a></div></section>
+<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related"><a href="/dictionary/prompt-injection/">Prompt Injection</a><a href="/dictionary/prompt/">Prompt</a><a href="/dictionary/token/">Token</a><a href="/dictionary/ai-skills/">AI Skills</a><a href="/dictionary/rust/">Rust</a><a href="/dictionary/api/">API</a></div></section>
       <aside class="disc-cta"><p><strong>Benzer keşifleri günlük raporda al.</strong> TreScout; GitHub, Hacker News ve HuggingFace trendlerini her gün tarar, öne çıkan açık kaynak araçları Türkçe özetler.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover" data-page-type="discover" data-content-slug="codex-x" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/discover/">Tüm keşifler →</a></aside>
 </article>
 </main>
@@ -109,6 +117,7 @@
     </div>
   </div>
 </footer>
+<script src="/assets/discover.js" defer></script>
 <script src="/assets/subscribe.js" defer></script>
 <script type="text/plain" data-consent-src="/_vercel/insights/script.js"></script>
 <script type="text/plain" data-consent-src="/_vercel/speed-insights/script.js"></script>

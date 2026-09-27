@@ -40,7 +40,6 @@ Some technical knowledge may be required during the installation phase, but once
 - [Context Mode](/en/discover/context-mode/)
 - [Unity MCP](/en/discover/unity-mcp/)
 - [DesktopCommanderMCP](/en/discover/desktopcommandermcp/)
-- [TREK](/en/discover/trek/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/model-context-protocol-mcp/

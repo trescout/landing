@@ -38,7 +38,7 @@ Uma vez que só permite a partilha de dados permitidos, abre apenas a parte rele
 - [Free for Dev](/pt/discover/free-for-dev/)
 - [ComfyUI](/pt/discover/comfyui/)
 - [MoneyPrinterTurbo](/pt/discover/moneyprinterturbo/)
-- [TradingAgents](/pt/discover/tradingagents/)
+- [Browser Use](/pt/discover/browser-use/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/api/

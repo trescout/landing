@@ -36,7 +36,6 @@ They are small independent processing units within a processor that can perform 
 - [Omlx](/en/discover/omlx/)
 - [Ktransformers](/en/discover/ktransformers/)
 - [Pocket TTS](/en/discover/pocket-tts/)
-- [ODS](/en/discover/ods/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/cpu/

@@ -2,15 +2,15 @@
 
 Atlas, yazılım geliştirme süreçlerinde kullanılan yapay zekâ ajanları için bir kaynak kontrolü (source control) sistemi. Birden fazla kodlama ajanının yaptığı değişiklikleri tek bir merkezden izlemeye ve sorgulamaya olanak tanıyor.
 
-- ★ 7.448
+- ★ 7.855
 - Rust
 - GitHub Trending · 2026-09-03
 
 ## Güncelleme
+- 27 Eylül 2026: Yıldız 7.448 → 7.855, son sürüm alpha-0.3.4 (27 Eylül 2026).
 - 27 Eylül 2026: Yıldız 4.722 → 7.448, son sürüm alpha-0.3.3 (19 Eylül 2026).
 - 19 Eylül 2026: Yıldız 4.762 → 4.722, son sürüm alpha-0.3.3 (19 Eylül 2026).
 - 16 Eylül 2026: Yıldız 4.344 → 4.762, son sürüm alpha-0.3.2 (16 Eylül 2026).
-- 14 Eylül 2026: Yıldız 3.259 → 4.344, son sürüm alpha-0.3.1 (6 Eylül 2026).
 
 ## Ne kazandırır?
 - Farklı kodlama ajanlarının yaptığı değişiklikleri tek merkezden izler.

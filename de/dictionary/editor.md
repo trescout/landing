@@ -24,7 +24,6 @@ Ja, aber Code-Editoren helfen Ihnen, Ihre Arbeit mit Funktionen wie Fehlererkenn
 - [Coding Agent](/de/dictionary/coding-agent/)
 
 ## Verwandte Werkzeuge
-- [Scientific Agent Skills](/de/discover/scientific-agent-skills/)
 - [Editor](/de/discover/editor/)
 - [Palmier Pro](/de/discover/palmier-pro/)
 - [Clypra](/de/discover/clypra/)

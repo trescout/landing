@@ -76,7 +76,7 @@ Modern bir C++ projesinde GoogleTest ve GoogleMock kullanarak bir veri ayrışt�
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-27 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Parser CI/CD API Open Source Artificial Intelligence
+Fork Parser CI/CD API Open Source Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/googletest/

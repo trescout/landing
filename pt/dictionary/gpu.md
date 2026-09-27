@@ -37,7 +37,6 @@ Sim, mas os usados ​​para IA costumam ser modelos profissionais equipados co
 - [Airllm](/pt/discover/airllm/)
 - [Omlx](/pt/discover/omlx/)
 - [Ktransformers](/pt/discover/ktransformers/)
-- [Olmocr](/pt/discover/olmocr/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/gpu/

@@ -38,7 +38,7 @@ Dado que solo permite compartir datos permitidos, solo abre la parte relevante d
 - [Free for Dev](/es/discover/free-for-dev/)
 - [ComfyUI](/es/discover/comfyui/)
 - [MoneyPrinterTurbo](/es/discover/moneyprinterturbo/)
-- [TradingAgents](/es/discover/tradingagents/)
+- [Browser Use](/es/discover/browser-use/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/api/

@@ -34,9 +34,9 @@ Ja, sie können Ihre Dateien verwalten oder Ihre Anwendungen ausführen, wenn Si
 - [Andrej Karpathy Skills](/de/discover/andrej-karpathy-skills/)
 - [Ponytail](/de/discover/ponytail/)
 - [Awesome LLM Apps](/de/discover/awesome-llm-apps/)
+- [Browser Use](/de/discover/browser-use/)
 - [Agent Skills](/de/discover/agent-skills/)
 - [Taste Skill](/de/discover/taste-skill/)
-- [Agent-Reach](/de/discover/agent-reach/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/agent/

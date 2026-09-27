@@ -40,7 +40,6 @@ Artificial intelligence will change the way many jobs are done, but will general
 - [Hermes Agent](/en/discover/hermes-agent/)
 - [Opencode](/en/discover/opencode/)
 - [FreeDomain](/en/discover/free-domain/)
-- [AutoGPT](/en/discover/autogpt/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/artificial-intelligence/

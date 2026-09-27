@@ -1,33 +1,40 @@
 # What is Benchmark?
 
-It is a method of measuring the performance of a software or hardware with standard tests and comparing it with others.
+A benchmark is the measurement and comparison of performance using a standard test.
 
-## Overview
-A benchmark is a unit of measurement used to understand how fast, how smart or how efficient a system is. It numerically reveals who does better by subjecting different models or computers to the same challenging questions. In this way, you can choose which one is more suitable for your business.
+## Definition and Word Origin
+"Bench mark" comes from the measurement mark a carpenter makes on a workbench. The system is subjected to the same questions, and a scoreboard is generated. It is the numerical value of speed, intelligence, or efficiency. Everything from models to processors goes onto this scale.
 
-*Analogy: It's like exams at school; You ask all students the same questions so that you can fairly compare who understands the material better.*
+## How to Know and Use in Daily Life?
+Model: Intelligence and accuracy ranking. Processor: Speed comparison. Gaming: Frame rate tests.
 
-## How it works
-The system is given a predetermined set of tasks and the time or accuracy rate to complete this task is recorded. The results are converted into a leaderboard.
+## Technical Depth and Architecture
+Rules for a valid comparison:
 
-## Where it is used
-It is used to measure the intelligence of artificial intelligence models, compare processor speeds, and determine the graphics performance of games.
+## Frequently Mixed Things
+It is thought to be a test. A test checks whether it works, while a benchmark checks how good it is. One is a door, the other is a race.
 
-## Commonly confused with
-It is mixed with the test; Testing checks whether something works, while benchmarking compares how well it works.
+## Use in Different Disciplines
+Exam: Fair ranking with the same question. Athletics: Record chart. Carpenter: Workbench dimension mark.
 
-## Frequently asked questions
-**Is a high benchmark score always good?**
-Generally yes, but benchmark tests sometimes don't accurately reflect real-world usage.
+## Frequently Asked Questions
+**Is a high score always good?**
+Generally yes, but if the test does not reflect reality, the score is misleading. Scenario diversity is sought.
 
-**Should I trust benchmark results?**
-Yes, but it is better to look at the overall results that include different scenarios, not just a single test.
+**Can the results be trusted?**
+We look at the multi-scenario table, not just a single test. Sets that have undergone leakage checks are preferred.
+
+**What is data leakage?**
+It is when test questions get mixed into training data. The model memorizes, the score inflates, and actual performance drops.
+
+**Which metric is looked at?**
+It depends on the task: Accuracy, speed, and cost are evaluated together. A single one is not enough.
 
 
 ## Related terms
-- [Benchmarks](/en/dictionary/benchmark/)
 - [AI Models](/en/dictionary/ai-models/)
 - [Inference](/en/dictionary/inference/)
+- [KV Cache](/en/dictionary/kv-cache/)
 
 ## Related tools
 - [Ponytail](/en/discover/ponytail/)

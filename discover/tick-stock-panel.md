@@ -12,7 +12,7 @@ Tick-stock-panel, Çin borsası (A-share) verileriyle çalışan, özelleştiril
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Backtesting Large Language Models
+A-share Backtesting Large Language Models
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/tick-stock-panel/

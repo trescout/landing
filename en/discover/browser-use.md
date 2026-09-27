@@ -1,38 +1,33 @@
-# Manage web browser with artificial intelligence
+# AI browser automation
 
-Browser-use é uma biblioteca Python que permite que agentes de inteligência artificial interajam com sites da internet como os humanos. For this reason, the control is free, the automatizar process is based on the web, the permit is online, the complex is realizadas, the inteligência is artificial.
+Browser-use is a Python library that enables AI agents to interact with websites just like humans. It allows automating complex tasks on the internet through browser-based operations.
 
 - ★ 112,224
-- Python
-- GitHub Trending · 2026-08-27
+- GitHub Trending · 2026-08-26
 
 ## What you get
-- Automatically fills forms on websites
-- Extracts structured data from web pages
-- Clicks and types like a human
+- Enables AI agents to interact with websites.
+- Automates browser-based operations and complex tasks.
+- Supports working with local or cloud-based browsers.
 
 ## Installation
-**Install the library on your computer**
+**Add Library**
 
 ```
 uv add browser-use
-# or: pip install browser-use
 ```
 
 
 ## Running it
-**Start tasks from the cloud**
+**Run Script**
 
 ```
-curl -X POST https://api.browser-use.com/api/v4/runs \
-  -H "X-Browser-Use-API-Key: $BROWSER_USE_API_KEY" \
-  -H "Content-Type: application/json" \
-  -d '{"task": "Your task"}'
+uv run agent.py
 ```
 
 
 ## If you don't write code
-Install or upgrade browser-use to the latest stable version with uv using Python 3.12, run `browser-use skill install` to register the skill, and connect it to my browser. If setup or connection fails, follow https://github.com/browser-use/browser-harness/blob/main/install.md.
+To automate browser-based operations, install the library with the `uv add browser-use` command, add your OpenAI API key to the .env file, and run the browser agent with the `uv run agent.py` command.
 
 ## Related dictionary terms
 

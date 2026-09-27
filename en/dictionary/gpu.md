@@ -39,7 +39,6 @@ Yes, but those used for AI are usually professional models equipped with more me
 - [Airllm](/en/discover/airllm/)
 - [Omlx](/en/discover/omlx/)
 - [Ktransformers](/en/discover/ktransformers/)
-- [Olmocr](/en/discover/olmocr/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/gpu/

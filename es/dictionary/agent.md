@@ -34,9 +34,9 @@ Sí, pueden administrar sus archivos o ejecutar sus aplicaciones si les otorga l
 - [Andrej Karpathy Skills](/es/discover/andrej-karpathy-skills/)
 - [Ponytail](/es/discover/ponytail/)
 - [Awesome LLM Apps](/es/discover/awesome-llm-apps/)
+- [Browser Use](/es/discover/browser-use/)
 - [Agent Skills](/es/discover/agent-skills/)
 - [Taste Skill](/es/discover/taste-skill/)
-- [Agent-Reach](/es/discover/agent-reach/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/agent/

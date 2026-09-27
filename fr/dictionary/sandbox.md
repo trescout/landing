@@ -35,7 +35,6 @@ Un bac à sable bien structuré restreint complètement la communication avec le
 - [iii](/fr/discover/iii/)
 - [CubeSandbox](/fr/discover/cubesandbox/)
 - [Flue](/fr/discover/flue/)
-- [RLM](/fr/discover/rlm/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/sandbox/

@@ -34,9 +34,9 @@ Oui, ils peuvent gérer vos fichiers ou exécuter vos applications si vous leur 
 - [Andrej Karpathy Skills](/fr/discover/andrej-karpathy-skills/)
 - [Ponytail](/fr/discover/ponytail/)
 - [Awesome LLM Apps](/fr/discover/awesome-llm-apps/)
+- [Browser Use](/fr/discover/browser-use/)
 - [Agent Skills](/fr/discover/agent-skills/)
 - [Taste Skill](/fr/discover/taste-skill/)
-- [Agent-Reach](/fr/discover/agent-reach/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/agent/

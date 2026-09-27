@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Browser Use · Keşif · TreScout</title>
-<meta name="description" content="Browser-use é uma biblioteca Python que permite que agentes de inteligência artificial interajam com sites da internet como os…">
+<meta name="description" content="Browser-use, yapay zekâ ajanlarının web siteleriyle insanlar gibi etkileşime girmesini sağlayan bir Python kütüphanesi.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="alternate" type="text/markdown" href="/discover/browser-use.md">
 <link rel="canonical" href="https://trescout.com/discover/browser-use/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/discover/browser-use/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/discover/browser-use/">
 <meta property="og:title" content="Browser Use">
-<meta property="og:description" content="Browser-use é uma biblioteca Python que permite que agentes de inteligência artificial interajam com sites da internet como os…">
+<meta property="og:description" content="Browser-use, yapay zekâ ajanlarının web siteleriyle insanlar gibi etkileşime girmesini sağlayan bir Python kütüphanesi.">
 <meta property="og:url" content="https://trescout.com/discover/browser-use/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="tr_TR">
@@ -27,15 +27,15 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Browser Use">
-<meta name="twitter:description" content="Browser-use é uma biblioteca Python que permite que agentes de inteligência artificial interajam com sites da internet como os…">
+<meta name="twitter:description" content="Browser-use, yapay zekâ ajanlarının web siteleriyle insanlar gibi etkileşime girmesini sağlayan bir Python kütüphanesi.">
 <meta name="twitter:image" content="https://trescout.com/assets/discover/og/browser-use.webp">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Yapay zekâ ile web tarayıcısını yönetin",
+  "headline": "Yapay zekâ tarayıcı otomasyonu",
   "inLanguage": "tr",
-  "description": "Browser-use é uma biblioteca Python que permite que agentes de inteligência artificial interajam com sites da internet como os humanos. Esta ferramenta, que controla o navegador para automatizar processos baseados na web, permite que tarefas online complexas sejam realizadas pela inteligência artificial.",
+  "description": "Browser-use, yapay zekâ ajanlarının web siteleriyle insanlar gibi etkileşime girmesini sağlayan bir Python kütüphanesi. İnternet üzerindeki karmaşık görevleri tarayıcı tabanlı işlemlerle otomatize etmeye imkân tanıyor.",
   "author": {
     "@type": "Organization",
     "name": "TreScout",
@@ -50,8 +50,7 @@
   "about": {
     "@type": "SoftwareSourceCode",
     "name": "Browser Use",
-    "codeRepository": "https://github.com/browser-use/browser-use",
-    "programmingLanguage": "Python"
+    "codeRepository": "https://github.com/browser-use/browser-use"
   }
 }
 </script>
@@ -67,23 +66,18 @@
 <article class="disc">
 <a class="disc-back" href="/discover/">← Keşif</a>
 <div class="disc-top"><span class="disc-eyebrow">Keşif · GitHub · Browser Use</span></div>
-<h1 class="disc-title">Yapay zekâ ile web tarayıcısını yönetin</h1>
-<p class="disc-lead">Browser-use é uma biblioteca Python que permite que agentes de inteligência artificial interajam com sites da internet como os humanos. Esta ferramenta, que controla o navegador para automatizar processos baseados na web, permite que tarefas online complexas sejam realizadas pela inteligência artificial.</p>
-<ul class="disc-meta"><li>★ 112.224</li><li>Python</li><li>GitHub Trending · 2026-08-26</li></ul>
-      <section class="disc-sec"><h2>Güncelleme</h2><ul class="disc-wins"><li><strong>4 Eylül 2026:</strong> Yıldız 111.369 → 112.224, son sürüm 0.13.10 (2026-09-04).</li><li><strong>27 Ağustos 2026:</strong> Yıldız 111.348 → 111.369, son sürüm 0.13.8 (2026-08-16).</li></ul></section>
-      <section class="disc-sec"><h2>Ne kazandırır?</h2><ul class="disc-wins"><li>İnternet sitelerinde formları otomatik doldurur</li><li>Web sayfalarından yapılandırılmış veri çıkarır</li><li>İnsan gibi tıklama ve yazma işlemleri yapar</li></ul></section>
-      <section class="disc-sec"><h2>Kurulum</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Kütüphaneyi bilgisayarınıza kurun</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>uv add browser-use
-# or: pip install browser-use</code></pre></div></section>
-      <section class="disc-sec"><h2>Çalıştırma</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Bulut üzerinden görev başlatın</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>curl -X POST https://api.browser-use.com/api/v4/runs \
-  -H &quot;X-Browser-Use-API-Key: $BROWSER_USE_API_KEY&quot; \
-  -H &quot;Content-Type: application/json&quot; \
-  -d &#x27;{&quot;task&quot;: &quot;Your task&quot;}&#x27;</code></pre></div></section>
-      <section class="disc-sec"><h2>Kod bilmiyorsanız</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın</span><button type="button" class="disc-copy" aria-label="İstemi kopyala">Kopyala</button></div><p class="disc-ai-text">Install or upgrade browser-use to the latest stable version with uv using Python 3.12, run `browser-use skill install` to register the skill, and connect it to my browser. If setup or connection fails, follow https://github.com/browser-use/browser-harness/blob/main/install.md.</p></div></section>
-      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Kimin için</span><span class="disc-fact-v">Web üzerindeki tekrarlı işlerini otomatize etmek isteyen yazılımcılar ve yapay zekâ ajanlarını tarayıcı üzerinde çalıştırmak isteyen kullanıcılar içindir.</span></div><div class="disc-fact"><span class="disc-fact-k">Lisans</span><span class="disc-fact-v">MIT</span></div></div>
-      
-<section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links"><li><a href="https://github.com/browser-use/browser-use" target="_blank" rel="noopener">GitHub deposu →</a></li></ul></section>
+<h1 class="disc-title">Yapay zekâ tarayıcı otomasyonu</h1>
+<p class="disc-lead">Browser-use, yapay zekâ ajanlarının web siteleriyle insanlar gibi etkileşime girmesini sağlayan bir Python kütüphanesi. İnternet üzerindeki karmaşık görevleri tarayıcı tabanlı işlemlerle otomatize etmeye imkân tanıyor.</p>
+<ul class="disc-meta"><li>★ 112.224</li><li>GitHub Trending · 2026-08-26</li></ul>
+      <section class="disc-sec"><h2>Güncelleme</h2><ul class="disc-wins"><li><strong>4 Eylül 2026:</strong> Yıldız 111.369 → 112.224, son sürüm 0.13.10 (4 Eylül 2026).</li><li><strong>27 Ağustos 2026:</strong> Yıldız 111.348 → 111.369, son sürüm 0.13.8 (16 Ağustos 2026).</li></ul></section>
+      <section class="disc-sec"><h2>Ne kazandırır?</h2><ul class="disc-wins"><li>Yapay zekâ ajanlarının web siteleriyle etkileşime girmesini sağlar.</li><li>Tarayıcı tabanlı işlemleri ve karmaşık görevleri otomatize eder.</li><li>Yerel veya bulut tabanlı tarayıcılarla çalışmayı destekler.</li></ul></section>
+      <section class="disc-sec"><h2>Kurulum</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Kütüphaneyi Ekle</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>uv add browser-use</code></pre></div></section>
+      <section class="disc-sec"><h2>Çalıştırma</h2><div class="disc-cmd"><div class="disc-cmd-head"><span>Betiği Çalıştır</span><button type="button" class="disc-copy" aria-label="Komutu kopyala">Kopyala</button></div><pre><code>uv run agent.py</code></pre></div></section>
+      <section class="disc-sec"><h2>Kod bilmiyorsanız</h2><div class="disc-ai"><div class="disc-ai-head"><span>🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın</span><button type="button" class="disc-copy" aria-label="İstemi kopyala">Kopyala</button></div><p class="disc-ai-text">Tarayıcı tabanlı işlemleri otomatize etmek için uv add browser-use komutuyla kütüphaneyi kurun, OpenAI API anahtarınızı .env dosyasına ekleyin ve uv run agent.py komutuyla tarayıcı ajanını çalıştırın.</p></div></section>
+      <div class="disc-facts"><div class="disc-fact"><span class="disc-fact-k">Kimin için</span><span class="disc-fact-v">Yapay zekâ ajanlarının internet üzerinde tarayıcı işlemleri yapmasını isteyen geliştiriciler içindir.</span></div><div class="disc-fact"><span class="disc-fact-k">Lisans</span><span class="disc-fact-v">MIT</span></div></div>
+      <section class="disc-sec"><h2>Bağlantılar</h2><ul class="disc-links"><li><a href="https://github.com/browser-use/browser-use" target="_blank" rel="noopener">GitHub deposu →</a></li></ul></section>
 <p class="disc-disclaimer">TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-26 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.</p>
-<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related"><a href="/dictionary/skill/">Skill</a><a href="/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
+<section class="disc-sec"><h2>İlgili sözlük terimleri</h2><div class="disc-related"><a href="/dictionary/agent/">Agent</a><a href="/dictionary/api/">API</a><a href="/dictionary/artificial-intelligence/">Artificial Intelligence</a></div></section>
       <aside class="disc-cta"><p><strong>Benzer keşifleri günlük raporda al.</strong> TreScout; GitHub, Hacker News ve HuggingFace trendlerini her gün tarar, öne çıkan açık kaynak araçları Türkçe özetler.</p><form class="cta-form disc-cta-form js-subscribe" data-source="discover" data-page-type="discover" data-content-slug="browser-use" data-cta-placement="discover_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="E-postanızı yazın" autocomplete="email" required><button class="btn btn-primary" type="submit">Erken erişim</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span><a href="/privacy.html" target="_blank" rel="noopener">Aydınlatma Metni</a>'ni okudum, e-postamın bu amaçla işlenmesini onaylıyorum.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/discover/">Tüm keşifler →</a></aside>
 </article>
 </main>

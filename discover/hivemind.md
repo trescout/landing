@@ -46,7 +46,7 @@ Hivemind aracını kullanarak yapay zekâ ajanlarım arasında ortak bir bellek 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-11 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Centralized Memory Layer Memory Token Artificial Intelligence
+Centralized Memory Layer Memory Layer Memory Token Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/hivemind/
