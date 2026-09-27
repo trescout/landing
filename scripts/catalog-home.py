@@ -49,8 +49,9 @@ def hedef(dil):
 def tagline(kayit, dil):
     if dil == "tr":
         return str(kayit.get("tagline") or "").strip()
+    # Çeviri eksikse Türkçeye düşme: önce İngilizce, o da yoksa boş.
     ozel = str(kayit.get(f"tagline_{dil}") or "").strip()
-    return ozel or str(kayit.get("tagline") or "").strip()
+    return ozel or str(kayit.get("tagline_en") or "").strip()
 
 
 def ozet(kayitlar, dil):

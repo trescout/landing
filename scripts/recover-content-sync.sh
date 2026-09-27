@@ -25,12 +25,15 @@ fi
 python3 scripts/discover-sync.py --refresh || echo "refresh skipped after GitHub API failure"
 python3 scripts/cross-link.py
 python3 scripts/catalog-render.py
-node scripts/translate-i18n.js
+# Tanıtım çevirileri de kurtarmayı durdurmasın (dict-sync.yml'deki
+# tanitim_en / tanitim_xx adımlarıyla aynı kural).
+ceviri_hata=0
+node scripts/translate-i18n.js || ceviri_hata=1
 
 LANG_CODES="$(python3 scripts/diller.py --liste)"
 for d in $LANG_CODES; do
   [[ "$d" == "en" ]] && continue
-  node scripts/translate-i18n.js --lang="$d"
+  node scripts/translate-i18n.js --lang="$d" || ceviri_hata=1
 done
 
 for d in $LANG_CODES; do
@@ -42,7 +45,6 @@ done
 # betiği bitiriyordu: 2026-09-26'da kurtarma 68 dk sonra burada düştü, push'a
 # hiç dönülmedi. Eksik sayfalar yazılmıyor (mevcut hali kalıyor), ertesi koşu
 # önbellekten devam ediyor.
-ceviri_hata=0
 for d in $LANG_CODES; do
   python3 scripts/dictionary-en.py --lang="$d" || ceviri_hata=1
   python3 scripts/discover-en.py --lang="$d" || ceviri_hata=1

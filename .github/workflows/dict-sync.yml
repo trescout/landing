@@ -166,7 +166,16 @@ jobs:
       # bunlar olmadan İngilizce kartlarda TÜRKÇE görünüyordu. Betik hiçbir iş
       # akışında değildi, elle çalıştırılıyordu (2026-08-07 bulgusu).
       # Önbellekli: değişmeyen metin çeviri harcamaz.
+      # Çeviri eksiği hattı durdurmasın · 2026-09-27 koşusunda Gemini kapanınca
+      # translate-i18n.js 69 çeviriyi yapamadı, exit 1 verdi ve hat commit'e
+      # gelmeden durdu (#241/#242/#250 ile aynı sınıf, bu adımlar atlanmıştı).
+      # Güvenli: betik başarılı çevirileri ve önbelleği hata vermeden ÖNCE
+      # yazıyor, başarısızlar için Türkçe yedek yazmıyor; eksik alan sayfalarda
+      # İngilizceye ya da boşa düşüyor (build-en.js, catalog-home.py, istemci).
+      # Koşu sonda yine kırmızıya çekiliyor.
       - name: İngilizce tanıtım metinleri (tagline_en · kisa_en)
+        id: tanitim_en
+        continue-on-error: true
         if: ${{ github.event_name != 'workflow_dispatch' || (github.event.inputs.dictionary_slugs == '' && github.event.inputs.discovery_slugs == '') }}
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
@@ -183,14 +192,19 @@ jobs:
         run: echo "kodlar=$(python3 scripts/diller.py --liste)" >> "$GITHUB_OUTPUT"
 
       - name: Tanıtım metinleri (tagline_XX · kisa_XX)
+        id: tanitim_xx
+        continue-on-error: true
         if: ${{ github.event_name != 'workflow_dispatch' || (github.event.inputs.dictionary_slugs == '' && github.event.inputs.discovery_slugs == '') }}
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
+          # Bir dilin hatası sonrakileri durdurmasın (bkz. "Sayfaları üret").
+          hata=0
           for d in ${{ steps.diller.outputs.kodlar }}; do
             [ "$d" = "en" ] && continue   # İngilizce çevirisi ayrı adımda
-            node scripts/translate-i18n.js --lang=$d
+            node scripts/translate-i18n.js --lang=$d || hata=1
           done
+          exit $hata
 
       # Kapak görselleri · metin GÖRSELE gömülü olduğu için dile bağlı. Yeni
       # kayıtların kapağı burada basılıyor; çevirisi geçmemiş kayıt atlanır ve
@@ -524,11 +538,13 @@ jobs:
       # commit'lendikten SONRA burada kırmızıya çekiyoruz. Böylece hem günün
       # işi yayına giriyor hem de eksik çeviri gözden kaçmıyor.
       - name: Çeviri eksikleri raporlansın (içerik yayınlandıktan sonra)
-        if: ${{ steps.sayfalar.outcome == 'failure' || steps.ikinci_tur.outcome == 'failure' }}
+        if: ${{ steps.sayfalar.outcome == 'failure' || steps.ikinci_tur.outcome == 'failure' || steps.tanitim_en.outcome == 'failure' || steps.tanitim_xx.outcome == 'failure' }}
         run: |
           echo "✗ Bazı çeviriler tamamlanamadı · üretilen sayfalar ve önbellek commit'lendi."
           echo "  sayfa üretimi: ${{ steps.sayfalar.outcome }}"
           echo "  ikinci tur   : ${{ steps.ikinci_tur.outcome }}"
+          echo "  tanıtım (en) : ${{ steps.tanitim_en.outcome }}"
+          echo "  tanıtım (xx) : ${{ steps.tanitim_xx.outcome }}"
           echo "  Eksik kalan diller bir sonraki koşuda kaldığı yerden devam eder."
           echo "  Üst üste tekrar ediyorsa sağlayıcı günlük kotasına bakın."
           exit 1

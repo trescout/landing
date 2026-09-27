@@ -43,7 +43,8 @@
   }
   var M = _dilSec(TABLO);
   function etiket(t) { return M.etiket ? (M.etiket[t] || t) : t; }
-  function tanitim(it) { return it[M.alan] || it.tagline; }
+  // Çeviri eksikse Türkçeye düşme (Türkçe sayfa hariç): önce İngilizce, sonra boş.
+  function tanitim(it) { return it[M.alan] || (M.alan === 'tagline' ? '' : it.tagline_en) || ''; }
   function yol(slug) { return M.onek + slug + '/'; }
 
   function esc(s) {

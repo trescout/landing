@@ -226,7 +226,10 @@ def istek(body: dict, key: str, timeout: float = 90, deneme_sayisi: int = 4) -> 
                 govde = ""
             sinif = siniflandir(e.code, govde)
             if sinif == "gunluk":
-                _birak(model, "günlük kota doldu")
+                # Hangi kotanın bittiğini logla · 2026-09-27'de 8 model 4 dk'da
+                # "günlük kota" dedi, gövde loglanmadığı için sebep okunamadı.
+                kota = re.search(r'"quotaId"\s*:\s*"([^"]+)"', govde)
+                _birak(model, f"günlük kota doldu ({kota.group(1) if kota else 'quotaId yok'})")
                 deneme = 0
                 continue
             if sinif == "model":
