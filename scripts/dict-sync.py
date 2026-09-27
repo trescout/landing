@@ -424,20 +424,19 @@ def main():
     try:
         new=gemini(existing, [{"term":c["term"],"aciklama":c["explanation"], **({"ikizi":c["ikizi"]} if c.get("ikizi") else {})} for c in candidates], key)
     except Exception as e:
-        print(f"UYARI: Gemini API çağrısı geçici olarak başarısız ({e}). Adaylar kaynak açıklamalarıyla ekleniyor...")
-        new=[]
-        for c in candidates:
-            if c.get("ikizi"):
-                print(f"  · ikiz aday ertelendi (niyet kararı Gemini'ye kalıyor): {c['term']} ↔ {c['ikizi']}")
-                continue
-            s=slugify(c["term"])
-            src=(c.get("explanation") or "").strip()
-            if s and s not in existing_slugs and src:
-                new.append({
-                    "slug": s, "en": c["term"], "full": "", "cat": "dev",
-                    "kisa": src, "tanim": src, "analoji": "", "nasil": "",
-                    "nerede": "", "karistirilan": "", "sss": [], "related": [],
-                })
+        # Gemini yoksa aday EKLENMEZ, ertelenir · adaylar her koşuda raporlardan
+        # yeniden toplandığı için ilk Gemini'li koşuda değerlendirilir. Eskiden
+        # yedek yol hepsini ham açıklamayla ekliyordu: 2026-09-24'te 09:11
+        # koşusunda Gemini 27 adaydan 9'unu seçti; 10:21 koşusunda kota bitmişti
+        # ve yedek yol reddedilen "weekly", "figma-gibi" dahil 27'sini ekledi
+        # (analojisiz/SSS'siz ince sayfalar, tekil/çoğul ikizler). Aynı gün
+        # ekleme sabahki ilk koşuda korunuyor: sözlük adımı hattın ilk Gemini
+        # çağrısı ve kota yeni sıfırlanmış; model zinciriyle kotaya takılması
+        # pratikte yalnız Gemini tamamen erişilemezken olur. Rapor (e-posta/PDF)
+        # terimleri kendi sözlük bölümünde zaten açıklıyor.
+        print(f"UYARI: Gemini erişilemedi ({e}). {len(candidates)} aday ertelendi, ilk Gemini'li koşuda değerlendirilecek:")
+        print("  " + ", ".join(c["term"] for c in candidates))
+        return
     # güvenlik: Gemini'nin döndürdüğü slug'ı normalize et · ham slug path'e
     # girince "../x" gibi bir değer os.path.join ile dictionary/ dışına yazardı
     for n in new: n["slug"]=slugify(n.get("slug") or "")
