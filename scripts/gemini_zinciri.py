@@ -44,12 +44,13 @@ import urllib.request
 
 VARSAYILAN_ZINCIR = ("gemini-3.8-flash:5,gemini-3.7-flash:5,gemini-3.6-flash:5,gemini-3.5-flash:5,"
                      "gemini-3.5-flash-lite:15,"
-                     "gemini-3-flash-preview:5,gemini-2.5-flash:5")
-# gemini-3.1-flash-lite BİLEREK yok · günlük raporun (app: lib/ai/gemini.ts,
-# lib/report/translation.ts) tek modeli. 2026-09-27 gecesi landing koşuları bu
-# modelin kotasını UTC 01:00'den önce bitirdi, Inngest raporu üretemedi; rapor
-# ancak GitHub'daki yedek yol sabah taze kotayla ürettiği için kaçmadı. Landing
-# kapasitesi ~1120 → ~620 istek/gün (normal gün 80-150); rapor korunuyor.
+                     "gemini-3-flash-preview:5,gemini-2.5-flash:5,"
+                     "gemini-3.1-flash-lite:15")
+# gemini-3.1-flash-lite 2026-09-27'de bir süre zincirden çıkarılmıştı (landing#263)
+# çünkü günlük rapor da tek model olarak onu kullanıyor ve kotayı paylaştığımız
+# sanılıyordu. Landing artık kendi repo secret'ıyla AYRI bir Google Cloud
+# projesinde (kota proje başına) · rapor app'in anahtarında. En sonda duruyor:
+# zayıf model, yalnız öncekiler tükenince devreye girer.
 
 
 def _zincir_coz(metin: str) -> list[tuple[str, float]]:
