@@ -53,6 +53,20 @@ for p in sorted(glob.glob(os.path.join(ROOT, '**', '*.html'), recursive=True)):
     sayac[dil_kodu] = sayac.get(dil_kodu, 0) + 1
     if links != beklenen(rel):
         bad.append((rel, links))
+    elif '<details class="dil-secici">' not in open(p, encoding='utf-8').read():
+        # 2026-09-27 · dil düğmeleri <details class="dil-secici"> içinde olmalı
+        # (diller.py dil_secici · fix-all-headers-and-footers.js). Eski yapıyı
+        # basan bir üretici menüyü yine kaydırır ve mobilde dilleri gizler.
+        bad.append((rel, ('dil-secici yok',)))
+
+# Menü yuvaları sabit genişlikte (assets/site.css · .nav-actions nth-of-type).
+# Genişlikler en uzun etikete göre; yeni/uzun bir etiket gelirse CSS de güncellenmeli.
+YUVA_AZAMI = (9, 10, 21, 11)   # Découvrir · Dictionary · Arquivo de relatórios · Karşılaştır
+for onek, etiketler in [('tr/', EXPECTED_TR)] + sorted(SETLER.items()):
+    for i, (etiket, azami) in enumerate(zip(etiketler[:4], YUVA_AZAMI)):
+        if len(etiket) > azami:
+            bad.append((f"{onek}menü {i + 1}. yuva", (f"'{etiket}' {len(etiket)} karakter > {azami} · "
+                        "assets/site.css min-width ve YUVA_AZAMI güncellenmeli",)))
 
 if bad:
     print(f"❌ Nav tutarsız ({len(bad)}/{n} sayfa):")
