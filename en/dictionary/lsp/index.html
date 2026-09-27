@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>What is LSP? · Dictionary · TreScout</title>
-<meta name="description" content="LSP (Language Server Protocol) is a JSON-RPC-based open protocol that provides standard communication between modern code editors and analysis engines of p">
+<meta name="description" content="It is a standard communication protocol that provides smart features to your editor while writing code.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/en/dictionary/lsp/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/lsp/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/lsp/">
 <link rel="alternate" type="text/markdown" href="/en/dictionary/lsp.md">
 <meta property="og:title" content="What is LSP?">
-<meta property="og:description" content="LSP (Language Server Protocol) is a JSON-RPC-based open protocol that provides standard communication between modern code editors and analysis engines of p">
+<meta property="og:description" content="It is a standard communication protocol that provides smart features to your editor while writing code.">
 <meta property="og:url" content="https://trescout.com/en/dictionary/lsp/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="What is LSP?">
-<meta name="twitter:description" content="LSP (Language Server Protocol) is a JSON-RPC-based open protocol that provides standard communication between modern code editors and analysis engines of p">
+<meta name="twitter:description" content="It is a standard communication protocol that provides smart features to your editor while writing code.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "LSP",
-  "description": "LSP (Language Server Protocol) is a JSON-RPC-based open protocol that provides standard communication between modern code editors and analysis engines of programming languages.",
+  "description": "It is a standard communication protocol that provides smart features to your editor while writing code.",
   "inLanguage": "en",
   "url": "https://trescout.com/en/dictionary/lsp/",
   "inDefinedTermSet": {
@@ -55,15 +55,17 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/en/dictionary/">← Dictionary</a>
-<div class="disc-top"><span class="disc-eyebrow">Dictionary · Dev</span><time class="dict-time" datetime="2026-09-19">Last updated: September 19, 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Dictionary · Dev</span><time class="dict-time" datetime="2026-06-03">Last updated: June 3, 2026</time></div>
 <h1 class="disc-title">What is <span class="disc-accent">LSP</span>?</h1>
 <p class="dict-en">Language Server Protocol</p>
-<p class="disc-lead">LSP (Language Server Protocol) is a JSON-RPC-based open protocol that provides standard communication between modern code editors and analysis engines of programming languages.</p>
-<section class="disc-sec"><h2>1. Definition and the mathematical problem it solves: M × N complexity</h2><p>Language Server Protocol (LSP) is a universal protocol developed in 2016 under the leadership of Microsoft (VS Code team), Red Hat and Codenvy, and has become the cornerstone of developer tools today.</p></section>
-<div class="dict-analogy"><strong>Analogy:</strong> LSP is a simultaneous translator between local experts speaking all the languages ​​of the world with their own country&#39;s rules and an international diplomatic assembly listening to these experts; No matter who the editor in the assembly is, the message is delivered flawlessly.</div>
-<section class="disc-sec"><h2>2. How does LSP work? Protocol architecture and JSON-RPC 2.0</h2><p>LSP is a JSON-RPC 2.0 messaging protocol between the editor (Client) and the language analysis engine (Server) that usually works over local standard input/output (stdin/stdout) or local sockets (IPC).</p></section>
-<section class="disc-sec"><h2>Frequently asked questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">What does LSP mean and what does it stand for?</p><p class="dict-faq-a">It stands for Language Server Protocol. It is an open protocol that standardizes communication between code editors and the syntax, type checking, and autocompletion engines of programming languages.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Why does LSP solve the M × N problem?</p><p class="dict-faq-a">In the old model, M × N plug-ins had to be written specifically for each editor for M languages ​​and N editors. With LSP, each language writes a single server and each editor writes a single client, achieving the M + N integration formula.</p></div><div class="dict-faq-item"><p class="dict-faq-q">How does LSP prevent the editor from slowing down?</p><p class="dict-faq-a">The language&#39;s heavy syntax tree (AST) analysis and type parsing are executed in background processes (via JSON-RPC) isolated from the main editor process; so the interface never crashes.</p></div><div class="dict-faq-item"><p class="dict-faq-q">What is the difference between DAP and LSP?</p><p class="dict-faq-a">While LSP analyzes code writing, code completion and syntax errors; DAP (Debug Adapter Protocol) allows the code to be debugged step by step by setting breakpoints at run time.</p></div></div></section>
-<section class="disc-sec"><h2>Related terms</h2><div class="dict-related"><a href="/en/dictionary/agentic-coding-tool/">Agentic Coding Tool</a><a href="/en/dictionary/cli/">CLI</a><a href="/en/dictionary/keybindings/">Keybindings</a><a href="/en/dictionary/code-snippets/">Code Snippets</a><a href="/en/dictionary/runtime/">Runtime</a></div></section>
+<p class="disc-lead">It is a standard communication protocol that provides smart features to your editor while writing code.</p>
+<section class="disc-sec"><h2>Overview</h2><p>LSP is a bridge between code writing tools (editors) and servers that understand the logic of the code. Thanks to this protocol, the editor you use; It can offer features such as error detection, auto-completion and going to definitions in a standard way in all languages. It allows your editor to act intelligently without needing to know what language you are using.</p></section>
+<div class="dict-analogy"><strong>Analogy:</strong> It is like a translator providing communication between two people speaking different languages ​​by using a common language; No matter what you say, the editor will understand you thanks to the translator.</div>
+<section class="disc-sec"><h2>How it works</h2><p>Your editor sends the code you write to a &#39;language server&#39; running in the background. The server analyzes the code and gives you suggestions. You write your code faster and error-free, without feeling anything.</p></section>
+<section class="disc-sec"><h2>Where it is used</h2><p>It runs constantly in the background of modern code editors like VS Code.</p></section>
+<section class="disc-sec"><h2>Commonly confused with</h2><p>It is not just an editor feature, it is a universal conversational language between the editor and the language.</p></section>
+<section class="disc-sec"><h2>Frequently asked questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Why is it so important?</p><p class="dict-faq-a">Instead of developing features separately for each editor, it allows write-once language support to work everywhere.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Does it affect my speed?</p><p class="dict-faq-a">No, on the contrary, it speeds up your coding process by preventing you from making mistakes.</p></div></div></section>
+<section class="disc-sec"><h2>Related terms</h2><div class="dict-related"><a href="/en/dictionary/agentic-coding-tool/">Agentic Coding Tool</a><a href="/en/dictionary/cli/">CLI</a></div></section>
 <section class="disc-sec"><h2>Related tools</h2><div class="dict-related"><a href="/en/discover/oh-my-pi/">Oh My Pi</a></div></section>
 <aside class="disc-cta"><p><strong>Explore related tools and daily reports.</strong> Stay on top of emerging tech terms and tools. Receive TreScout's daily summary in your inbox.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-en" data-page-type="dictionary" data-content-slug="lsp" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/dictionary/">All terms →</a></aside>
 <p class="disc-disclaimer">This explanation was written in plain language for TreScout and <strong>machine-translated</strong> from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/lsp/">Read in Turkish →</a></p>

@@ -28,6 +28,7 @@ import os, re, sys, json, html, time, urllib.parse, urllib.request
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from diller import dil, tarih_yaz, chrome as chrome_kur, dil_dugmeleri_yaz, dil_hedefleri
 from translation_service import translate_text, translate_texts
+from sayfa_koruma import zayiflatir
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TR_DIR = os.path.join(ROOT, "discover")
@@ -550,7 +551,7 @@ def main():
     if LIMIT:
         sluglar = sluglar[:LIMIT]
     global _sayfa_eksik
-    yazilan = korunan = 0
+    yazilan = korunan = zayif_korunan = 0
     for i, slug in enumerate(sluglar, 1):
         _sayfa_eksik = 0
         h = build(slug, cat, chrome)
@@ -565,6 +566,12 @@ def main():
         if DRY:
             print(f"  ~ {slug}: {len(h.split())} kelime")
             continue
+        # Mevcut sayfayı zayıflatan çıktı yazılmaz (bkz. sayfa_koruma.py).
+        zayif = zayiflatir(h, os.path.join(EN_DIR, slug, "index.html"))
+        if zayif:
+            zayif_korunan += 1
+            print(f"  ! {slug}: yeni çıktı sayfayı zayıflatıyordu ({zayif}) · yazılmadı, mevcut hali korundu")
+            continue
         d = os.path.join(EN_DIR, slug)
         os.makedirs(d, exist_ok=True)
         open(os.path.join(d, "index.html"), "w", encoding="utf-8").write(h)
@@ -577,6 +584,8 @@ def main():
         json.dump(_cache, open(CACHE, "w", encoding="utf-8"), ensure_ascii=False, indent=1, sort_keys=True)
     if korunan:
         print(f"  ! {korunan} keşif sayfası çeviri eksiği yüzünden yazılmadı · ertesi koşuda tekrar denenecek")
+    if zayif_korunan:
+        print(f"  ! {zayif_korunan} keşif sayfası zayıflamasın diye yazılmadı (elle zenginleştirilmiş sayfalar)")
     print(f"✅ {yazilan} {LANG} keşif sayfası · {_yeni} yeni çeviri · önbellek {len(_cache)} kayıt")
 
 

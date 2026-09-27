@@ -22,6 +22,7 @@ import os, re, sys, json, html, time, urllib.parse, urllib.request
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from diller import dil, tarih_yaz, chrome as chrome_kur, dil_dugmeleri_yaz, dil_hedefleri
 from translation_service import translate_text, translate_texts
+from sayfa_koruma import zayiflatir
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TR_DIR = os.path.join(ROOT, "dictionary")
@@ -378,7 +379,7 @@ def main():
     if LIMIT:
         terms = terms[:LIMIT]
     global _sayfa_eksik
-    yazilan = korunan = 0
+    yazilan = korunan = zayif_korunan = 0
     for i, term in enumerate(terms, 1):
         _sayfa_eksik = 0
         h = build(term, chrome)
@@ -395,6 +396,13 @@ def main():
         if DRY:
             print(f"  ~ {term['slug']}: {len(h.split())} kelime")
             continue
+        # Mevcut sayfayı zayıflatan çıktı yazılmaz (bkz. sayfa_koruma.py · 2026-09-27
+        # gecesi 40 zenginleştirilmiş çeviri sayfası 7 bölümden 1'e düştü).
+        zayif = zayiflatir(h, os.path.join(EN_DIR, term["slug"], "index.html"))
+        if zayif:
+            zayif_korunan += 1
+            print(f"  ! {term['slug']}: yeni çıktı sayfayı zayıflatıyordu ({zayif}) · yazılmadı, mevcut hali korundu")
+            continue
         d = os.path.join(EN_DIR, term["slug"])
         os.makedirs(d, exist_ok=True)
         open(os.path.join(d, "index.html"), "w", encoding="utf-8").write(h)
@@ -408,6 +416,8 @@ def main():
     if _basarisiz:
         print(f"✗ {_basarisiz} çeviri başarısız · {korunan} sözlük sayfası yazılmadı, mevcut hali korundu")
         raise SystemExit(1)
+    if zayif_korunan:
+        print(f"  ! {zayif_korunan} sözlük sayfası zayıflamasın diye yazılmadı (elle zenginleştirilmiş sayfalar)")
     print(f"✅ {yazilan} {LANG} sözlük sayfası · {_yeni} yeni çeviri · önbellek {len(_cache)} kayıt")
 
 
