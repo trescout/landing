@@ -114,7 +114,9 @@ def _gtx(text: str, lang: str) -> str | None:
         "https://translate.googleapis.com/translate_a/single?client=gtx&sl=tr&"
         f"tl={urllib.parse.quote(lang)}&dt=t&q={urllib.parse.quote(text)}"
     )
-    if _gtx_is_paused():
+    # Yumuşak süre sınırı GTX yedeğini de kapsar: Gemini None dönünce çeviri
+    # buraya düşüyor ve sınırdan sonra iş yavaş GTX ile sürüyordu (2026-09-27).
+    if _gtx_is_paused() or gemini_zinciri.sure_doldu():
         return None
     for attempt in range(3):
         try:

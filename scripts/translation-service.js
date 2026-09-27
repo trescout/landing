@@ -213,6 +213,9 @@ async function gemini(text, lang) {
 }
 
 async function gtx(text, lang) {
+  // Yumuşak süre sınırı GTX yedeğini de kapsar · bkz. translation_service.py
+  const son = Number(process.env.GEMINI_SON_TARIH || 0);
+  if (son && Date.now() / 1000 > son) return null;
   const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=tr&tl=${encodeURIComponent(lang)}&dt=t&q=${encodeURIComponent(text)}`;
   for (let attempt = 0; attempt < 3; attempt += 1) {
     try {
