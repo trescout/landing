@@ -37,11 +37,15 @@
       z-index: 0;
       filter: blur(8px);
     }
-    /* Secondary yellow accent glow (bottom-right, subtle) */
+    /* Secondary yellow accent glow (bottom-right, subtle)
+       bottom -240px iken dairenin merkezi hero'nun alt kenarına 110px kalıyordu;
+       gradyan ~297px'te saydamlaştığı için overflow:hidden parlamayı görünür
+       yoğunluktayken kesiyor, gelen kutusu görselinin altında ~600px'lik düz
+       bir çizgi çıkıyordu. -40px'te merkez 310px yukarıda, kesim saydam bölgede. */
     .hero::after {
       content: '';
       position: absolute;
-      bottom: -240px;
+      bottom: -40px;
       right: -120px;
       width: 700px;
       height: 700px;
