@@ -1,73 +1,60 @@
 # Gérez votre serveur cloud personnel
 
-CasaOS est un système d'exploitation cloud personnel open-source, léger et élégant, conçu pour gérer des applications Docker en un clic sur serveurs domestiques, mini PC et Raspberry Pi. Développé en Go, il permet de bâtir sa souveraineté numérique sans commandes complexes en ligne de commande.
+CasaOS est un système d'exploitation cloud personnel open source, léger et élégant qui permet la gestion en un clic des applications basées sur Docker sur les serveurs domestiques, les mini PC et les appareils Raspberry Pi. Développée avec le langage Go, la plateforme vous permet d'établir votre propre souveraineté numérique sans avoir besoin de commandes de terminal complexes.
 
-- ★ 36.953
+- ★ 36 953
 - Go
 - GitHub Trending · 2026-06-26
 
-## Mises à jour
-- 2 août 2026: Étoiles 34 992 → 36 953, dernière version v0.4.15 (19 décembre 2024).
-
 ## Ce que ça vous apporte
-- Magasin d'applications riche en un clic: Installez Nextcloud, Plex, Jellyfin, AdGuard Home, qBittorrent, Home Assistant et plus de 100 services auto-hébergés en quelques secondes.
-- Tableau de bord web sobre et intuitif: Surveillez l'utilisation du processeur, la RAM, l'espace disque, le débit réseau et l'état des conteneurs via des widgets élégants.
-- Stockage visuel et gestion de fichiers: Montez automatiquement vos disques durs externes et clés USB, et partagez des dossiers sur Windows et Mac via Samba (SMB).
-- Support Docker Compose personnalisé: Déployez n'importe quel fichier Docker Compose personnalisé absent de la boutique en le collant dans l'interface web.
-- Cœur Go léger sans surcoût système: Consomme un minimum de mémoire en arrière-plan et tourne avec fluidité sur Raspberry Pi 4/5 ou vieux ordinateurs portables.
+- Boutique d'applications riche en un clic : configurez Nextcloud, Plex, Jellyfin, AdGuard Home, qBittorrent, Home Assistant et plus de 100 services auto-hébergés populaires en quelques secondes.
+- Tableau de bord Web élégant et intuitif : surveillez le processeur, la charge de la RAM, les taux d'occupation des disques, l'activité réseau et les conteneurs en cours d'exécution en direct via des cartes widget élégantes.
+- Stockage visuel et gestion des fichiers : connectez automatiquement les disques durs externes et les clés USB, partagez vos dossiers avec vos appareils Windows/Mac sur le réseau local via le protocole Samba (SMB).
+- Prise en charge de Docker Compose personnalisé : implémentez sans effort vos conteneurs personnalisés en collant tout fichier Docker Compose non disponible dans la boutique officielle dans l'interface Web.
+- Noyau Go léger et charge système nulle : consomme un minimum de mémoire en arrière-plan et offre des performances fluides, même sur les ordinateurs portables Raspberry Pi 4/5 ou plus anciens.
 
 ## Installation
-
-**Commande d'installation**
+**commande d'installation**
 
 ```
 curl -fsSL https://get.casaos.io | sudo bash
 ```
 
-## Exécution
 
-**Commande de mise à jour**
+## Exécution
+**commande de mise à jour**
 
 ```
 curl -fsSL https://get.casaos.io/update | sudo bash
 ```
 
+
 ## Architecture technique et principe de fonctionnement
+- Architecture de microservices Go : CasaOS Core (CasaOS-Gateway, MessageBus, LocalStorage et UserService) se compose de services Go légers qui s'exécutent indépendamment les uns des autres. La communication entre les services s'effectue via REST et WebSocket.
+- Abstraction du cycle de vie des conteneurs : détecte automatiquement les conflits de ports en communiquant directement avec le démon Docker, transforme les variables d'environnement et les chemins de montage de volumes en formulaires conviviaux.
+- Écosystème ZimaOS et IceWhale : Soutenu par IceWhale Technology, fabricant du matériel ZimaBoard et ZimaBlade, le projet est entièrement compatible avec le matériel cloud local.
+- Défragmentation intelligente des disques : crée un espace flexible pour les médias personnels et la sauvegarde en combinant des disques durs de différentes tailles dans un seul pool de stockage logique.
 
-Au lieu de fournir un noyau Linux complet, CasaOS opère comme une couche d'orchestration Docker moderne au-dessus de votre distribution Debian, Ubuntu ou Raspberry Pi OS existante. Cette architecture préserve la compatibilité matérielle tout en structurant les services via des microservices modulaires :
-- Architecture de microservices en Go: Le cœur de CasaOS (Gateway, MessageBus, LocalStorage et UserService) se compose de microservices Go indépendants communicant via REST et WebSocket.
-- Abstraction du cycle de vie des conteneurs: Dialogue directement avec le démon Docker pour détecter les conflits de ports et convertir variables d'environnement et volumes en champs ergonomiques.
-- Écosystème ZimaOS et IceWhale: Développé par IceWhale Technology (créateurs de ZimaBoard et ZimaBlade), le système garantit une parfaite synergie avec le matériel cloud personnel.
-- Agrégation intelligente de disques: Regroupe des disques de tailles variées en un seul espace de stockage logique pour les sauvegardes et le multimédia domestique.
-
-## Guide pas à pas pour créer son serveur domestique
-
-Pour transformer un ancien ordinateur ou mini PC en véritable cloud personnel, suivez ces étapes clés :
-- Installation de Linux: Installez Ubuntu Server ou Debian minimal sur la machine et raccordez-la à votre box Internet par câble Ethernet.
-- Installation de CasaOS en une ligne: Lancez le script officiel dans le terminal ; il installe et configure automatiquement Docker et ses dépendances.
-- Accès au tableau de bord: Depuis n'importe quel appareil du réseau local, saisissez l'adresse IP du serveur (ex. http://192.168.1.100) et créez votre compte administrateur.
-- Déploiement des applications: Ouvrez l'App Store pour installer Nextcloud pour vos fichiers ou Jellyfin pour vos films et séries en un clic.
+## Guide étape par étape pour configurer votre propre serveur domestique
+- Installation de base de Linux : installez un serveur Ubuntu propre ou Debian minimal sur votre appareil et connectez-le à votre réseau local avec un câble Ethernet.
+- Installation CasaOS en une ligne : exécutez le script d'installation officiel via le terminal ; Le script configure automatiquement Docker et ses dépendances.
+- Accéder à l'interface depuis le navigateur : Créez votre premier compte administrateur en saisissant l'adresse IP de votre serveur (par exemple http://192.168.1.100) dans votre navigateur depuis n'importe quel ordinateur du réseau.
+- Déploiement d'applications : accédez à l'onglet App Store et téléchargez votre cloud personnel avec Nextcloud et votre bibliothèque de films/séries avec Jellyfin en un seul clic.
 
 ## Si vous ne codez pas
-🤖 Si vous ne codez pas
-J'ai installé CasaOS sur mon serveur domestique. Je souhaite configurer AdGuard Home (bloqueur de publicités), Jellyfin (streaming multimédia) et Tailscale (accès distant sécurisé) pour tous les appareils de la maison. Peux-tu m'expliquer pas à pas comment installer ces services via l'App Store de CasaOS ou Docker Compose, et comment partager mes disques de stockage ?
+CasaOS est installé sur mon serveur personnel. Je souhaite installer et configurer les services AdGuard Home (bloqueur de publicité), Jellyfin (streaming multimédia) et Tailscale (accès sécurisé depuis l'extérieur de la maison) pour tous les appareils de ma maison. Pouvez-vous expliquer étape par étape comment installer ces services et configurer le partage de disque à partir du panneau Web CasaOS via Docker Compose personnalisé ou l'App Store ?
 
-- **Pour qui:** Passionnés de homelab et utilisateurs souhaitant gérer leur cloud personnel et conteneurs Docker sans ligne de commande.
-- **Licence:** Apache-2.0 (Licence open-source permissive)
-- **Développeur:** IceWhale Technology et communauté open-source
-- **Systèmes supportés:** Ubuntu, Debian, Raspberry Pi OS, Armbian (x86_64, aarch64, armv7)
+## Questions fréquemment posées
+- CasaOS effacera-t-il mon système d'exploitation Linux ou mes données existantes ? Non. CasaOS n’efface pas votre système d’exploitation existant ; Il est construit en tant que couche de gestion de bureau et Docker. Les fichiers existants sur vos disques sont conservés et deviennent accessibles via le panneau.
+- Comment puis-je accéder en toute sécurité à mon serveur CasaOS lorsque je ne suis pas chez moi ? Au lieu d'une redirection de port non sécurisée, vous pouvez installer Tailscale ou WireGuard sur CasaOS en un seul clic. De cette façon, vous pouvez accéder au tableau de bord depuis n'importe où dans le monde via un tunnel VPN crypté comme si vous étiez sur votre réseau domestique.
+- Quelle est la différence entre CasaOS et TrueNAS ou Unraid ? TrueNAS et Unraid sont des systèmes d'exploitation autonomes axés sur la gestion approfondie du stockage et les configurations RAID. CasaOS, quant à lui, offre une expérience cloud domestique légère, extrêmement facile à utiliser et centrée sur les applications.
+- Les applications installées démarreront-elles automatiquement après une panne de courant ? Oui. Tous les conteneurs Docker sur CasaOS sont démarrés avec la politique restart:sauf-stopped par défaut. Lorsque votre serveur sera redémarré, tous vos services continueront automatiquement à fonctionner là où ils s'étaient arrêtés.
 
-## Questions fréquentes
-- CasaOS efface-t-il mon système Linux ou mes fichiers existants ? Non. CasaOS n'écrase pas votre système ; il s'installe comme couche de gestion au-dessus de Linux. Vos fichiers existants sont préservés et deviennent accessibles dans l'interface.
-- Comment accéder à CasaOS hors de chez soi en toute sécurité ? Plutôt que d'ouvrir des ports non sécurisés sur votre box, installez Tailscale ou WireGuard sur CasaOS. Vous bénéficiez ainsi d'un tunnel VPN chiffré accessible partout dans le monde.
-- Quelle est la différence entre CasaOS, TrueNAS et Unraid ? TrueNAS et Unraid sont des systèmes de stockage complets orientés sur les configurations RAID complexes et ZFS. CasaOS privilégie la simplicité, la légèreté et une approche centrée sur les applications.
-- Les applications redémarrent-elles automatiquement après une coupure de courant ? Oui. Tous les conteneurs Docker démarrent avec la directive <code>restart: unless-stopped</code>, reprenant automatiquement leur fonctionnement dès le démarrage du serveur.
+## Termes liés du glossaire
 
 ## Liens
-- [GitHub →](https://github.com/IceWhaleTech/CasaOS)
-
-## Termes associés du glossaire
-Self-Hosted Offline Open Source Local
+- Dépôt GitHub →
+- Lire en turc →
 
 ---
-Source: TreScout Discover · https://trescout.com/fr/discover/casaos/
+Source : TreScout Découvrir · https://trescout.com/fr/discover/casaos/

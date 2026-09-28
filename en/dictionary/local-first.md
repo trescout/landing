@@ -32,6 +32,7 @@ Local-first applications can often back up to the cloud in an encrypted manner, 
 - [Agentsview](/en/discover/agentsview/)
 - [Wigolo](/en/discover/wigolo/)
 - [Open Science](/en/discover/open-science/)
+- [Starnet](/en/discover/starnet/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/local-first/

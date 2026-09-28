@@ -38,6 +38,7 @@ Certaines connaissances techniques peuvent être requises lors de la phase d’i
 - [Context Mode](/fr/discover/context-mode/)
 - [Unity MCP](/fr/discover/unity-mcp/)
 - [DesktopCommanderMCP](/fr/discover/desktopcommandermcp/)
+- [Mobile MCP](/fr/discover/mobile-mcp/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/model-context-protocol-mcp/

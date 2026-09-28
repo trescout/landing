@@ -1,24 +1,23 @@
-# Compétences open source pour la conception Web
+# Acquérir des compétences toutes faites dans différents domaines
 
-Les compétences en jardinage sont une collection de compétences (compétences) de code ouvert pour diverses fonctions, comme la conception de sites Web, l'acquisition d'informations et la création visuelle. À cette fin, vous pouvez utiliser le logiciel pour intégrer le logiciel.
+Développée par ConardLi, garden-skills est une collection open source qui propose des packages de compétences prêts à l'emploi dans divers domaines tels que la conception Web, l'acquisition d'informations et la création visuelle. Cette structure modulaire, que les développeurs peuvent intégrer dans leurs projets, permet d'utiliser différentes fonctions de manière centralisée.
 
 - ★ 12 173
-- CSS
-- GitHub Trending · 2026-08-27
+- GitHub Trending · 2026-08-26
 
 ## Ce que ça vous apporte
-- Accélère les processus de conception Web et de développement d’interfaces
-- Transforme le texte en présentations et vidéos cinématographiques
-- Offre des outils modulaires pour la production visuelle et la conception de contenu
+- Propose des packages de compétences prêts à l'emploi en matière de conception Web, d'acquisition d'informations et de création visuelle
+- Comprend des flux de travail d'IA qui transforment des articles, des conférences et des démos en présentations vidéo
+- Contient des guides pratiques pour différents prototypes d'interface et systèmes de conception
 
 ## Installation
-**Ajouter toutes les fonctionnalités au projet**
+**Installer toutes les capacités**
 
 ```
 npx skills add ConardLi/garden-skills
 ```
 
-**Ajouter une fonctionnalité spécifique à un projet**
+**Installer une seule compétence**
 
 ```
 npx skills add ConardLi/garden-skills -s web-design-engineer
@@ -34,7 +33,7 @@ npx skills list
 
 
 ## Si vous ne codez pas
-Ajoutez des fonctionnalités de conception Web et de présentation à mon agent IA à l’aide de la bibliothèque Garden Skills. Activez les modules d'ingénierie de conception Web ou de présentation vidéo Web en fonction des besoins de votre projet et produisez des résultats en utilisant les systèmes de conception, les recettes de style et les règles de visualisation proposées par ces modules.
+Je souhaite améliorer mes processus de développement Web et de préparation de présentations en utilisant la collection Garden Skills. Pouvez-vous m'aider à intégrer des packages de compétences appropriés dans mon projet ?
 
 ## Termes liés du glossaire
 

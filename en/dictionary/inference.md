@@ -33,6 +33,7 @@ No, the model only makes predictions using the available information it has.
 - [Llama.cpp](/en/discover/llama-cpp/)
 - [Ds4](/en/discover/ds4/)
 - [LTX 2](/en/discover/ltx-2/)
+- [Stable Diffusion.cpp](/en/discover/stable-diffusion-cpp/)
 - [Magnitude](/en/discover/magnitude/)
 - [Model-Optimizer](/en/discover/model-optimizer/)
 - [SIE](/en/discover/sie/)

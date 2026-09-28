@@ -39,6 +39,7 @@ Artificial intelligence will change the way many jobs are done, but will general
 - [ECC](/en/discover/ecc/)
 - [Hermes Agent](/en/discover/hermes-agent/)
 - [Opencode](/en/discover/opencode/)
+- [Tensorflow](/en/discover/tensorflow/)
 - [FreeDomain](/en/discover/free-domain/)
 
 ---

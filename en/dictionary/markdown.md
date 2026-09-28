@@ -36,6 +36,7 @@ You can open it with any text editor, but you can read it formatted more easily 
 - [Crawl4AI](/en/discover/crawl4ai/)
 - [Scrapling](/en/discover/scrapling/)
 - [MinerU](/en/discover/mineru/)
+- [UP](/en/discover/up/)
 - [Obsidian Skills](/en/discover/obsidian-skills/)
 
 ---

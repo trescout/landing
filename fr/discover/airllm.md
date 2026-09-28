@@ -1,87 +1,49 @@
-# Faites tourner des modèles d'IA géants avec 4 Go de VRAM
+# Exécutez des modèles d'IA géants avec 4 Go de VRAM
 
-AirLLM est une bibliothèque open-source révolutionnaire qui permet d'exécuter des modèles de langage géants (LLM) de 70 milliards et 405 milliards de paramètres sur des cartes graphiques grand public disposant de seulement 4 Go de mémoire vidéo (VRAM), sans serveurs dédiés ni clusters GPU onéreux.
+AirLLM est une bibliothèque open source révolutionnaire qui exécute des modèles de langage massifs (LLM) avec 70 milliards et 405 milliards de paramètres sur des cartes graphiques grand public standard avec seulement 4 Go de mémoire vidéo (VRAM) sans avoir besoin de serveurs d'entreprise ou de clusters GPU coûteux.
 
-- ★ 33.755
+- ★ 33 755
 - Jupyter Notebook
 - GitHub Trending · 2026-06-04
 
-## Mises à jour
-- 6 septembre 2026: Étoiles 33 307 → 33 755, dernière version v4.0.0 (5 septembre 2026).
-- 31 août 2026: Étoiles 31 598 → 33 307, dernière version v3.3.0 (28 août 2026).
-- 19 août 2026: Étoiles 30 796 → 31 598, dernière version v3.2.0 (18 août 2026).
-- 12 août 2026: Étoiles 29 265 → 30 796, dernière version v3.1.0 (29 juillet 2026).
-
 ## Ce que ça vous apporte
-- Exécution de modèles 70B sur 4 Go de VRAM: Lancez des modèles massifs comme Llama 3 70B, Qwen ou DeepSeek sur des GPU d'entrée de gamme comme la GTX 1650 ou RTX 3050.
-- Support de Llama 3.1 405B: Faites tourner le modèle phare de 405 milliards de paramètres sur un PC personnel à 8 Go de VRAM sans cluster de datacenter.
-- Exécution couche par couche (Layer-wise Execution): Charge séquentiellement les couches depuis le disque vers la mémoire et les traite une à une pour pulvériser le goulot d'étranglement de la VRAM.
-- Vitesse multipliée par 3 par compression de blocs: Lit les poids du modèle sur SSD NVMe par blocs optimisés pour accélérer le transfert disque vers GPU.
-- Précision complète sans perte de quantification: Supprime l'obligation de compresser en 4-bit, permettant l'inférence en précision originale 16-bit (bfloat16).
+- Exécution de modèles 70B avec 4 Go de VRAM : La puissance nécessaire pour exécuter des modèles à paramètres élevés tels que Llama 3 70B, Qwen ou DeepSeek, même sur des cartes graphiques GTX 1650 ou RTX 3050 d'entrée de gamme.
+- Prise en charge de 405B Llama 3.1 : possibilité d'exécuter 405 milliards de modèles de paramètres qui nécessitent des centaines de milliers de dollars de clusters GPU dans des centres de données sur des ordinateurs personnels dotés de 8 Go de VRAM.
+- Exécution par couche : au lieu d'insérer l'intégralité du modèle dans la VRAM, il surmonte le goulot d'étranglement de la VRAM en récupérant et en traitant séquentiellement les couches du disque vers la mémoire.
+- Vitesse jusqu'à 3x avec compression basée sur les blocs : accélère le transfert de données du disque vers le GPU en lisant les poids des modèles sur le SSD NVMe dans des blocs optimisés.
+- Précision totale sans perte de qualité de quantification : permet de raisonner même avec la précision d'origine de 16 bits (bfloat16) si vous le souhaitez, sans avoir à compresser les poids à 4 bits.
 
 ## Installation
-
 **Avec pip (PyPI)**
 
 ```
 pip install airllm
 ```
 
+
 ## Architecture technique et principe de fonctionnement
+- Nature séquentielle des couches Transformer : Un réseau Transformer se compose de 80 couches indépendantes. Chaque couche prend en entrée la sortie tensorielle de la couche précédente. Il n’est théoriquement pas nécessaire que l’intégralité du modèle reste en mémoire.
+- Streaming couche par couche (déchargement séquentiel) : AirLLM ne déplace qu'une seule couche actuellement calculée vers la VRAM (environ 1,5 Go). Lorsque le calcul de la passe avant de la couche concernée est terminé, la mémoire est vidée et la couche suivante est extraite du disque.
+- Compromis entre vitesse et mémoire : cette architecture n'est pas destinée aux chats interactifs qui génèrent des dizaines de jetons par seconde ; Il s'agit d'un outil de sauvegarde unique pour les processus d'analyse de données en masse, de raisonnement approfondi, de traduction, de génération de données synthétiques et d'évaluation de modèles (évaluations).
+- Lecture de fichiers mappés en mémoire (mmap) : connecte les tenseurs PyTorch directement au disque via la méthode mmap, en utilisant directement la bande passante du SSD NVMe sans gonfler inutilement la RAM du système.
 
-Les moteurs d'inférence classiques (vLLM, Ollama ou HuggingFace) exigent que l'intégralité des poids d'un modèle tienne simultanément dans la mémoire vidéo (VRAM). Un modèle de 70B requiert environ 140 Go en 16-bit et au moins 35 à 40 Go en 4-bit. AirLLM révolutionne ce postulat fondamental :
-- Nature séquentielle des couches Transformer: Un réseau Transformer compte environ 80 couches ordonnées. Chaque couche reçoit la sortie de la précédente. Conserver l'ensemble du réseau en VRAM à chaque instant n'est pas mathématiquement indispensable.
-- Déchargement séquentiel des couches (Sequential Offloading): AirLLM ne charge en VRAM que l'unique couche en cours de calcul (~1.5 Go). Une fois le calcul terminé, la mémoire est libérée pour accueillir la couche suivante depuis le disque.
-- Compromis vitesse et mémoire: Ce fonctionnement n'est pas pensé pour le chat instantané, mais constitue un atout économique exceptionnel pour l'analyse de données, le raisonnement approfondi, la traduction et l'évaluation de modèles.
-- Lecture mémoire mappée (mmap): Relie les tenseurs PyTorch directement au disque NVMe via mmap pour exploiter la bande passante maximale du SSD sans saturer la RAM système.
-
-## Exemple d'utilisation en Python
-
-AirLLM offre une syntaxe Python particulièrement épurée, calquée sur l'API AutoModel de HuggingFace :
-
-**Exécuter un modèle 70B en Python**
-
-```python
-from airllm import AutoModel
-
-# Initialiser un modele 70B avec seulement 4 Go de VRAM
-model = AutoModel.from_pretrained("meta-llama/Meta-Llama-3-70B-Instruct")
-
-input_text = ["Resumez l avenir des agents d IA open source."]
-input_tokens = model.tokenizer(input_text, return_tensors="pt", padding=True)
-
-# Generation de texte (les couches sont executees sequentiellement)
-generation_output = model.generate(
-    input_tokens['input_ids'].cuda(),
-    max_new_tokens=100,
-    use_cache=True,
-    return_dict_in_generate=True
-)
-
-output = model.tokenizer.decode(generation_output.sequences[0])
-print(output)
-```
+## Exemple d'utilisation de Python
+AirLLM a une syntaxe Python très simple, très similaire à l'API HuggingFace AutoModel :
 
 ## Si vous ne codez pas
-🤖 Si vous ne codez pas
-Je veux utiliser la bibliothèque AirLLM pour exécuter un modèle de 70 milliards de paramètres (ex. meta-llama/Llama-3-70B-Instruct) sur mon GPU local de 4 Go de VRAM. J'ai installé avec pip install airllm. Peux-tu me donner le code Python complet pour charger le modèle, générer une réponse et éviter les erreurs de mémoire ? Merci d'expliquer également l'espace disque requis et les étapes nécessaires.
+Je souhaite exécuter un modèle avec 70 milliards de paramètres (par exemple méta-llama/Llama-3-70B-Instruct) en utilisant la bibliothèque AirLLM sur ma carte graphique locale avec une capacité VRAM de 4 Go. J'ai utilisé la commande pip install airllm pour l'installation. Pouvez-vous s'il vous plaît expliquer le code Python nécessaire pour charger mon modèle, générer une saisie de texte et éviter un débordement de mémoire ? Je sais que je dois m'assurer de disposer de suffisamment d'espace disque pendant le processus, pouvez-vous détailler les étapes à suivre ?
 
-- **Pour qui:** Chercheurs et développeurs disposant de GPU modestes souhaitant tester localement des modèles de 70B et 405B pour l'évaluation et l'analyse.
-- **Licence:** Apache-2.0 (Licence open-source permissive)
-- **Prérequis matériel:** GPU avec minimum 4 Go de VRAM et stockage SSD NVMe rapide
-- **Écosystème:** Python, PyTorch et HuggingFace Transformers
+## Questions fréquemment posées
+- À quelle vitesse est-il d’exécuter un modèle avec AirLLM ? Étant donné qu'AirLLM déplace constamment les couches entre le disque et le GPU, le taux de génération de jetons dépend directement de la vitesse de lecture de votre disque SSD NVMe. Sur un SSD Gen4 typique, le modèle 70B fonctionne à 1 à 3 jetons par seconde. Bien que cette vitesse soit lente pour le chat interactif, elle est unique pour exécuter des modèles géants localement sans coût matériel.
+- Quelle quantité d’espace disque libre est requise pour AirLLM ? Un modèle avec des paramètres 70B nécessite environ 140 Go d'espace disque au format flottant 16 bits. Dans les versions quantifiées 4 bits, cet espace diminue à 35-40 Go. Pour le modèle 405B, au moins 800 Go d'espace disque NVMe libre doivent être alloués.
+- Puis-je utiliser les poids du modèle d'origine sans quantification ? Oui. L’un des principaux avantages d’AirLLM est qu’il élimine le besoin de quantification. Étant donné que la contrainte VRAM est résolue couche par couche, vous pouvez exécuter les pondérations originales de 16 bits sans aucune perte de raisonnement ou de précision.
+- AirLLM fonctionne-t-il uniquement sur Apple Silicon Mac ou CPU ? AirLLM est principalement optimisé pour l'accélération CUDA (NVIDIA GPU). Cependant, il prend également en charge expérimentalement l'exécution du processeur et les couches MPS (Apple Silicon Metal). L'efficacité la plus élevée est obtenue avec un SSD NVMe rapide et une carte graphique NVIDIA.
 
-## Questions fréquentes
-- À quelle vitesse fonctionne AirLLM lors de l'exécution ? Comme AirLLM transfère en permanence les couches entre SSD et GPU, la vitesse dépend directement du débit de votre SSD NVMe. Sur un SSD Gen4, un modèle 70B génère environ 1 à 3 tokens par seconde. Ce débit est idéal pour les traitements par lots sans aucun surcoût matériel.
-- Combien d'espace disque disponible est nécessaire ? Un modèle de 70B en float 16-bit demande environ 140 Go d'espace (ou 35-40 Go en 4-bit). Le modèle de 405B nécessite au moins 800 Go de stockage NVMe libre.
-- Puis-je utiliser les poids originaux sans quantification ? Oui. C'est l'un des plus grands atouts d'AirLLM : la contrainte de quantification est levée car la mémoire est gérée couche par couche, préservant 100 % de la précision originale.
-- AirLLM tourne-t-il sur Mac Apple Silicon ou uniquement sur CPU ? AirLLM est avant tout optimisé pour CUDA (GPU NVIDIA). Un support expérimental pour CPU et Apple Silicon Metal existe, mais les meilleures performances sont obtenues avec une carte NVIDIA et un SSD NVMe.
+## Termes liés du glossaire
 
 ## Liens
-- [GitHub →](https://github.com/lyogavin/airllm)
-
-## Termes associés du glossaire
-VRAM LLM Large Language Models Transformer Open Source
+- Dépôt GitHub →
+- Lire en turc →
 
 ---
-Source: TreScout Discover · https://trescout.com/fr/discover/airllm/
+Source : TreScout Découvrir · https://trescout.com/fr/discover/airllm/

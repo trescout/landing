@@ -31,6 +31,7 @@ Past price movements, transaction volumes and economic indicators are used.
 
 ## Related tools
 - [Awesome Systematic Trading](/en/discover/awesome-systematic-trading/)
+- [Tick Stock Panel](/en/discover/tick-stock-panel/)
 - [Free Stockdb](/en/discover/free-stockdb/)
 
 ---

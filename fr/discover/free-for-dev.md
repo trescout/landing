@@ -1,71 +1,54 @@
-# Répertoire d'infrastructures SaaS et cloud gratuites pour développeurs
+# Liste de ressources d'outils de développement gratuits
 
-free-for-dev est un vaste répertoire communautaire open-source répertoriant plus de 1 000 services SaaS, PaaS et IaaS proposant des offres gratuites permanentes (free tiers). Conçu pour les développeurs et fondateurs de projets, il permet de concevoir et déployer des MVP complets sans coût d'infrastructure.
+free-for-dev est une immense bibliothèque de ressources open source qui répertorie plus d'un millier de services SaaS, PaaS et IaaS offrant un niveau gratuit permanent afin que les développeurs de logiciels, les entrepreneurs et les ingénieurs d'infrastructure puissent créer des MVP et des projets sans capital.
 
-- ★ 137.565
+- ★ 137 565
 - HTML
 - GitHub Trending · 2026-06-27
 
-## Mises à jour
-- 16 septembre 2026: Étoiles 137 565, enrichi de bases de données serverless, stockage vectoriel et APIs d'inférence IA vérifiées.
-
 ## Ce que ça vous apporte
-- Développement de MVP sans investissement: Validez vos concepts auprès de réels utilisateurs sans facturation mensuelle ni surprise bancaire.
-- Plus de 1 000 services classés: Hébergement cloud, serverless, bases de données, CDN, authentification, CI/CD et observabilité.
-- Uniquement de vrais forfaits gratuits permanents: Exclusion stricte des versions d'essai temporaires de 14 jours.
-- Validation continue par la communauté: Testé et actualisé chaque jour par des milliers de développeurs qui retirent les liens obsolètes.
-- Combinaison multi-cloud: Associez les quotas gratuits de différents fournisseurs pour créer une infrastructure hybride robuste.
+- Développement MVP sans coût d'infrastructure : testez vos idées avec de vrais utilisateurs sans risque de carte de crédit ni paiement d'une facture de serveur mensuelle fixe.
+- Plus d'un millier de services catégorisés : Hébergement cloud, architectures sans serveur, bases de données, CDN, authentification, CI/CD et outils de supervision.
+- Véritables niveaux gratuits uniquement : les essais temporaires de 14 jours sont supprimés ; Seules les plateformes proposant des forfaits permanents (Always Free) sont acceptées.
+- Modération et fraîcheur de la communauté : écosystème en direct qui est constamment testé par des milliers de contributeurs open source et nettoie les services fermés.
+- Flexibilité architecturale : concevez une infrastructure hybride de niveau entreprise en combinant des quotas gratuits de différents fournisseurs de cloud.
 
-## Catégories phares et offres gratuites
+## Catégories en vedette et infrastructures gratuites
+- Serveur et Cloud Computing (IaaS/PaaS) : Oracle Cloud (ARM 4 cœurs toujours gratuit / 24 Go de RAM), Cloudflare Workers, Fly.io et Render.
+- Base de données et stockage (DBaaS) : Supabase (PostgreSQL), Neon (Serverless Postgres), Cloudflare D1/R2 et Upstash (Redis).
+- Authentification et sécurité (Auth & Sec) : certificats SSL Clerk, Auth0, Stytch et Let's Encrypt.
+- Intégration continue et tests (CI/CD) : actions GitHub (2000 min/mois), analyses de couverture de code GitLab CI et Codecov.
+- Observabilité et gestion des logs : Grafana Cloud, Better Stack, Sentry (suivi des erreurs) et Axiom.
 
-Le répertoire free-for-dev répond à l'ensemble des besoins d'un projet web ou mobile moderne :
-- Hébergement et calcul cloud (IaaS/PaaS): Oracle Cloud (Always Free 4 vCPU ARM / 24 Go RAM), Cloudflare Workers, Fly.io et Render.
-- Bases de données et stockage (DBaaS): Supabase (PostgreSQL), Neon (Postgres serverless), Cloudflare D1/R2 et Upstash (Redis).
-- Authentification et sécurité: Clerk, Auth0, Stytch et certificats Let's Encrypt.
-- Intégration continue (CI/CD): GitHub Actions (2 000 min/mois gratuites), GitLab CI et Codecov.
-- Observabilité et suivi des erreurs: Grafana Cloud, Better Stack, Sentry et Axiom.
+## Lignes directrices de la communauté et critères du niveau gratuit
+- Exigence d'un véritable forfait gratuit : seuls les services offrant une utilisation gratuite permanente sans limite de durée sont répertoriés.
+- Restriction relative aux exigences de carte de crédit : Ceux qui ne demandent pas de carte de crédit pendant la phase d'inscription ou qui n'effectuent aucun retrait uniquement à des fins de vérification d'identité sont clairement indiqués.
+- Vérification automatique des liens : chaque Pull Request envoyée au référentiel est testée pour les liens rompus par les robots GitHub Actions.
 
-## Règles communautaires et critères d'admission
+## Approche architecturale et guide du débutant
+- Frontend statique et déploiement : implémentation de React/Next.js sur Vercel ou Cloudflare Pages.
+- Niveau base de données : 500 Mo de PostgreSQL gratuit sur Supabase et sécurité basée sur les lignes (RLS) intégrée.
+- E-mails et notifications : 3 000 e-mails transactionnels gratuits par mois via Renvoyer.
 
-Chaque ressource soumise doit respecter des règles d'admission très précises :
-- Offre gratuite permanente obligatoire: Seuls les services utilisables sans limite de durée sont retenus.
-- Transparence bancaire: Mention expresse des services exigeant ou non une carte bancaire lors de l'inscription.
-- Contrôle automatisé des liens: Chaque Pull Request est soumise à des tests CI GitHub Actions pour éliminer les liens brisés.
-
-## Approche architecturale pour lancer son MVP
-
-Une architecture moderne à coût zéro bâtie avec les meilleures offres de free-for-dev :
-- Front-end et CDN: Déploiement mondial de vos applications Next.js sur Cloudflare Pages ou Vercel.
-- Base de données relationnelle: Instance PostgreSQL gratuite de 500 Mo avec Row-Level Security (RLS) sur Supabase.
-- Envoi d'e-mails transactionnels: Envoi gratuit de jusqu'à 3 000 e-mails par mois via Resend ou Brevo.
-
-## Optimisation des coûts et gestion des quotas
-
-Les meilleures pratiques pour garantir que vos projets restent strictement gratuits :
-- Plafond de dépenses strict à zéro: Verrouillez le seuil de dépense à 0 USD dans vos tableaux de bord pour parer tout dérapage.
-- Mise en cache maximale sur le réseau CDN: Placez Cloudflare devant vos APIs pour absorber plus de 80 % du trafic sans solliciter la base.
-- Gestion des pools de connexion: Utilisez PgBouncer dans les environnements serverless pour éviter la saturation des connexions.
+## Stratégies d’optimisation des coûts et de dépassement de quotas
+- Définir le budget et les limites de dépenses : définissez le plafond de dépenses (limite de dépenses) sur 0 USD dans les panneaux de la plateforme.
+- Utilisation de la mise en cache : réduisez les appels d'API de 80 % en mettant en cache les actifs statiques et dynamiques avec le CDN gratuit de Cloudflare.
+- Regroupement de connexions à la base de données : utilisez PgBouncer ou le pooler intégré pour éviter les limites de connexion dans les environnements sans serveur.
 
 ## Si vous ne codez pas
-🤖 Si vous ne codez pas
-Je souhaite lancer un projet web en utilisant exclusivement les services gratuits listés dans free-for-dev. Peux-tu concevoir une architecture complète combinant hébergement, base de données serverless, authentification et envoi d'e-mails à coût zéro garanti, en précisant les étapes de configuration ?
+Je souhaite établir une infrastructure cloud moderne composée de services entièrement gratuits pour une nouvelle initiative Web. Pourriez-vous s'il vous plaît décrire un plan d'architecture et des étapes d'installation à coût nul qui combinent les fournisseurs gratuits les plus populaires de la liste des logiciels gratuits pour le développement (hébergement, base de données, authentification et service de messagerie) et ne dépasseront pas les limites de quota ?
 
-- **Pour qui:** Développeurs, créateurs de startups, étudiants et ingénieurs cherchant à annuler leurs coûts d'infrastructure.
-- **Licence:** CC BY 4.0 (Licence de contenu ouvert)
-- **Curateur:** R.I. Pienaar et plus de 1 000 contributeurs open-source
-- **Nombre d'offres:** Plus de 1 000 services gratuits vérifiés
+## Questions fréquemment posées
+- Quelle est la différence entre le niveau gratuit et la version d'essai (Free Trial) ? Les essais expirent généralement après 7 à 30 jours et nécessitent un paiement. Les services figurant sur la liste des logiciels gratuits pour le développement sont gratuits indéfiniment dans la limite de certains quotas.
+- Existe-t-il des services qui peuvent être utilisés sans saisir de carte de crédit ? Oui. De nombreux services de la liste (Supabase, Vercel, Cloudflare, Fly.io) ne nécessitent pas de carte bancaire lors de l'inscription.
+- Que se passe-t-il lorsque les quotas gratuits sont remplis ? Si une limite de dépenses est fixée, le service rejette temporairement les demandes (HTTP 429 ou 503) mais aucun argent n'est déduit de votre carte.
+- Ces services sont-ils suffisants pour des projets à grande échelle ? MVP est plus que suffisant pour les premiers utilisateurs et le trafic moyen ; Une fois que le produit commence à générer des revenus, vous pouvez passer aux forfaits payants en un seul clic sur les mêmes plateformes.
 
-## Questions fréquentes
-- Quelle différence entre formule gratuite et essai gratuit ? Les essais gratuits expirent après 7 à 30 jours et deviennent payants. Les forfaits de free-for-dev restent utilisables indéfiniment tant que vous respectez les quotas.
-- Peut-on s'inscrire sans carte bancaire ? Oui. Une grande partie des services (Supabase, Cloudflare, Vercel) ne réclament aucun moyen de paiement lors de l'inscription.
-- Que se passe-t-il en cas de dépassement du quota ? Si vous avez fixé un plafond de dépense à zéro, le service renvoie une erreur (HTTP 429 ou 503) sans jamais débiter votre compte.
-- Ces forfaits suffisent-ils pour une mise en production ? Ils sont parfaitement adaptés pour les prototypes et premiers milliers d'utilisateurs. Dès que le projet dégage des revenus, le passage aux formules payantes s'effectue en un clic.
+## Termes liés du glossaire
 
 ## Liens
-- [GitHub →](https://github.com/ripienaar/free-for-dev)
-
-## Termes associés du glossaire
-SaaS PaaS IaaS Cloud Computing Open Source API
+- Dépôt GitHub →
+- Lire en turc →
 
 ---
-Source: TreScout Discover · https://trescout.com/fr/discover/free-for-dev/
+Source : TreScout Découvrir · https://trescout.com/fr/discover/free-for-dev/

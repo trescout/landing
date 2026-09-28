@@ -1,26 +1,19 @@
-# Serveur d'IA pour ordinateurs Mac
+# Serveur IA pour ordinateurs Mac
 
-Omlx est un serveur d'inférence de grands modèles de langage (LLM) local de nouvelle génération conçu pour les Mac Apple Silicon (M1/M2/M3/M4), offrant le traitement par lots continu (continuous batching) et la mise en cache SSD. Il combine le framework Apple MLX avec une API compatible OpenAI et une interface dans la barre des menus macOS.
+Omlx est un serveur d'inférence LLM (Large Language Model) natif de nouvelle génération qui offre des capacités de traitement par lots continu et de mise en cache SSD pour les ordinateurs Mac équipés de processeurs Apple Silicon (M1/M2/M3/M4). Il combine l'infrastructure Apple MLX avec une API compatible OpenAI et une interface de barre de menu macOS.
 
-- ★ 21.147
+- ★ 22 280
 - Python
 - GitHub Trending · 2026-08-18
 
-## Mises à jour
-- 31 août 2026: Étoiles 20 793 → 21 147, dernière version v0.6.4 (29 août 2026).
-- 27 août 2026: Étoiles 20 069 → 20 793, dernière version v0.6.3rc3 (24 août 2026).
-- 20 août 2026: Étoiles 19 758 → 20 069, dernière version v0.6.3rc2 (20 août 2026).
-- 19 août 2026: Étoiles 19 519 → 19 758, dernière version v0.6.3rc1 (19 août 2026).
-
 ## Ce que ça vous apporte
-- Accélération matérielle Apple MLX et Metal: Exploite directement l'architecture de mémoire unifiée (UMA) pour supprimer tout goulot d'étranglement de copie mémoire entre CPU et GPU.
-- Traitement par lots continu (Continuous Batching): Combine les requêtes simultanées de plusieurs utilisateurs ou agents IA dans une seule passe de calcul, triplant le débit du serveur.
-- Mise en cache SSD et pré-remplissage fractionné (Chunked Prefill): Déporte le cache clé-valeur (KV) sur le SSD NVMe lors des longs contextes pour éviter tout plantage par manque de mémoire (OOM).
-- API standard compatible OpenAI: Fonctionne sans configuration complexe avec Cursor, Open WebUI, Continue et LangChain via les points de terminaison /v1/chat/completions et /v1/models.
-- Contrôle dans la barre des menus macOS: Démarrez, arrêtez, changez de modèle et observez la consommation mémoire en temps réel sans ouvrir le terminal.
+- Accélération matérielle Apple MLX et Metal : élimine complètement le goulot d'étranglement de la copie de mémoire entre le CPU et le GPU en utilisant directement l'architecture de mémoire unifiée (UMA) des processeurs Apple Silicon.
+- Traitement par lots continu : augmente l'efficacité du serveur jusqu'à 3 fois en combinant plusieurs demandes simultanées d'utilisateurs et d'agents en un seul cycle de calcul.
+- Mise en cache SSD et pré-remplissage de morceaux : évite les pannes de mémoire insuffisante en stockant le cache clé-valeur (KV) sur le SSD NVMe pendant les longues fenêtres contextuelles.
+- API standard compatible OpenAI : Fonctionne sans configuration avec les outils Cursor, Open WebUI, Continue et LangChain grâce aux points de terminaison /v1/chat/completions et /v1/models.
+- Contrôle de la barre de menu macOS : offre la commodité de démarrer, d'arrêter, de sélectionner des modèles et de surveiller la consommation de mémoire avec des graphiques en direct sans entrer dans le terminal.
 
 ## Installation
-
 **Installation avec Homebrew**
 
 ```
@@ -28,31 +21,27 @@ brew tap jundot/omlx https://github.com/jundot/omlx
 brew install jundot/omlx/omlx
 ```
 
-## Exécution
 
-**Démarrer le service en arrière-plan**
+## Exécution
+**Démarrage du service en arrière-plan**
 
 ```
 omlx start
 ```
 
-**Télécharger et servir un modèle spécifique**
+**Téléchargez et soumettez un modèle spécifique**
 
 ```
 omlx run mlx-community/Llama-3.2-3B-Instruct-4bit
 ```
 
+
 ## Architecture technique et principe de fonctionnement
+- Utilisation complète de la mémoire unifiée (UMA) : contrairement aux PC dotés de graphiques discrets, dans les Mac Apple Silicon, 128 Go ou 192 Go de RAM peuvent être adressés directement par les cœurs GPU. Omlx traite cet énorme pool de mémoire avec une latence nulle avec des cœurs Metal Shading Language (MSL).
+- Gestion dynamique du cache KV (PagedAttention) : alloue des tenseurs clé-valeur sous forme de blocs paginés pour empêcher la fragmentation de la mémoire sur plusieurs sessions. La mémoire utilisée est immédiatement libérée à la fin de la requête.
+- Couche de cache débordant sur le SSD : lorsque le cache KV dépasse la RAM dans d'énormes fenêtres contextuelles telles que 32 Ko et 128 Ko, Omlx page automatiquement le disque SSD intégré haute vitesse d'Apple. Ainsi, le modèle continue l’inférence sans planter.
 
-Omlx s'appuie sur le framework d'apprentissage automatique MLX d'Apple. Il repose sur trois piliers conçus pour dépasser les limitations des moteurs d'inférence classiques (comme llama.cpp ou Ollama) sur Mac :
-- Exploitation totale de la mémoire unifiée (UMA): Contrairement aux PC équipés de cartes graphiques dédiées, les Mac Apple Silicon permettent aux cœurs GPU d'adresser directement 128 Go ou 192 Go de RAM. Omlx traite cette immense réserve sans latence via des noyaux Metal Shading Language (MSL).
-- Gestion dynamique du cache KV (PagedAttention): Alloue les tenseurs clé-valeur en blocs paginés pour éliminer la fragmentation mémoire lors des sessions multi-utilisateurs et libère la mémoire immédiatement après réponse.
-- Débordement du cache vers le SSD: Lorsque le cache KV dépasse la mémoire vive dans des contextes de 32K ou 128K tokens, Omlx bascule automatiquement les pages sur le SSD NVMe haute vitesse sans interrompre l'inférence.
-
-## Intégration d'API locale compatible OpenAI
-
-Une fois lancé, Omlx expose une API REST compatible OpenAI sur votre machine (par défaut http://localhost:8000). Vous pouvez connecter directement vos éditeurs de code et outils d'IA :
-
+## Intégration d'API native compatible OpenAI
 **Test d'API avec cURL**
 
 ```
@@ -60,31 +49,26 @@ curl http://localhost:8000/v1/chat/completions \
   -H "Content-Type: application/json" \
   -d '{
     "model": "default",
-    "messages": [{"role": "user", "content": "Quel est le principal avantage de l architecture Apple Silicon ?"}],
+    "messages": [{"role": "user", "content": "Apple Silicon mimarisinin temel avantajı nedir?"}],
     "temperature": 0.7
   }'
 ```
 
+
 ## Si vous ne codez pas
-🤖 Si vous ne codez pas
-Je souhaite faire tourner un grand modèle de langage local avec Omlx sur mon Mac Apple Silicon. Après avoir effectué l'installation via Homebrew, peux-tu m'expliquer pas à pas comment lancer le serveur en arrière-plan, choisir un modèle depuis la barre des menus et relier l'éditeur Cursor ou un script Python via la bibliothèque openai à ce modèle local ?
+Je souhaite exécuter un modèle de langage étendu natif à l'aide du serveur Omlx sur mon Mac Apple Silicon. Après avoir terminé l'installation avec Homebrew, pouvez-vous expliquer étape par étape comment exécuter le serveur en arrière-plan, gérer la sélection du modèle depuis la barre de menu et vous connecter à ce modèle local via l'éditeur de code Cursor ou la bibliothèque openai Python ?
 
-- **Pour qui:** Développeurs IA et utilisateurs de Mac Apple Silicon souhaitant une inférence ultra-rapide et une confidentialité totale en local.
-- **Licence:** Apache-2.0 (Licence open-source)
-- **Framework:** Moteur d'inférence local basé sur Apple MLX et Python
-- **Matériel:** Série Apple Silicon M1, M2, M3, M4 (support Pro, Max, Ultra)
+## Questions fréquemment posées
+- Quelle est la principale différence entre Omlx et Ollama? Alors qu'Ollama utilise généralement l'infrastructure llama.cpp basée sur C++, Omlx s'exécute directement sur le framework MLX développé par Apple. De cette manière, il offre une intégration plus profonde avec les unités motrices métalliques et neuronales des puces Apple Silicon, offrant un taux de génération de jetons plus élevé, en particulier dans l'empilement continu et les contextes longs.
+- Quels modèles peuvent fonctionner avec 16 Go ou 24 Go de RAM ? Les modèles avec des paramètres 8B quantifiés sur 4 bits (Llama 3, Qwen 2.5, Mistral) occupent environ 5 à 6 Go de mémoire et fonctionnent de manière extrêmement fluide sur les Mac de 16 Go. Sur les appareils dotés de 24 Go ou 36 Go de mémoire combinée, les modèles 14B ou 32B peuvent être facilement installés.
+- La mise en cache SSD épuise-t-elle la durée de vie du disque Mac ? Non. Omlx utilise des algorithmes de mise en mémoire tampon intelligents pour éviter les cycles d'écriture inutiles dans les opérations de mise en cache. Il n'intervient que lorsque la mémoire contextuelle approche de la limite de RAM, minimisant ainsi l'usure du disque.
+- Est-ce que cela fonctionne sur les anciens ordinateurs Mac à processeur Intel ? Non. Omlx est optimisé spécifiquement pour Apple Silicon (architecture ARM) et le framework Apple MLX. Il ne fonctionne pas sur les Mac à processeur Intel ou sur les ordinateurs Windows/Linux x86.
 
-## Questions fréquentes
-- Quelle est la différence fondamentale entre Omlx et Ollama ? Tandis qu'Ollama s'appuie sur le moteur llama.cpp en C++, Omlx est optimisé nativement sur le framework MLX d'Apple. Cette intégration étroite avec Metal et le Neural Engine offre une génération de tokens plus rapide, en particulier avec le batching continu et les longs contextes.
-- Quels modèles tourneront avec 16 Go ou 24 Go de mémoire unifiée ? Les modèles 8B quantifiés en 4-bit (Llama 3, Qwen 2.5, Mistral) occupent environ 5 à 6 Go et fonctionnent avec une grande fluidité sur 16 Go. Avec 24 Go ou 36 Go, des modèles de 14B ou 32B s'exécutent confortablement.
-- La mise en cache SSD use-t-elle le disque du Mac ? Non. Omlx emploie des tampons intelligents pour éviter les cycles d'écriture inutiles. Il n'intervient que si le cache approche la saturation de la RAM physique, réduisant l'usure au strict minimum.
-- Fonctionne-t-il sur les anciens Mac Intel ou sur Windows/Linux ? Non. Omlx est exclusivement optimisé pour Apple Silicon (architecture ARM) et Apple MLX. Il n'est pas compatible avec les processeurs Intel x86.
+## Termes liés du glossaire
 
 ## Liens
-- [GitHub →](https://github.com/jundot/omlx)
-
-## Termes associés du glossaire
-Apple Silicon Continuous Batching LLM Local Open Source
+- Dépôt GitHub →
+- Lire en turc →
 
 ---
-Source: TreScout Discover · https://trescout.com/fr/discover/omlx/
+Source : TreScout Découvrir · https://trescout.com/fr/discover/omlx/

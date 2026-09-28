@@ -1,32 +1,25 @@
-# Give scientific research capabilities to your AI agent
+# Artificial intelligence capabilities for scientific research
 
-Scientific-agent-skills é uma biblioteca que contém 163 habilidades (skills) verificadas e mais de 100 bancos de dados científicos, especializando agentes de inteligência artificial em processos de pesquisa científica. Ela permite que agentes que trabalham nas áreas de biologia, química e medicina realizem análises de dados de forma compatível com plataformas como o editor de código Cursor ou o assistente de inteligência artificial Claude Code.
+Scientific-agent-skills is a ready-made skill library that adapts artificial intelligence agents to scientific research processes. Offering 163 validated capabilities and more than 100 databases in the fields of biology, chemistry, and medicine, it integrates with platforms such as code editor Cursor or AI assistant Claude Code.
 
-- ★ 44,519
-- Python
-- GitHub Trending · 2026-08-27
+- ★ 46,808
+- GitHub Trending · 2026-08-26
 
 ## What you get
-- It provides 163 different scientific skills in the fields of biology, chemistry and medicine.
-- It provides direct interaction with more than 100 scientific databases.
-- It works compatible with artificial intelligence tools such as Cursor code editor and Claude Code.
+- It offers 166 ready-made skills in biology, chemistry, and medicine.
+- It enables AI assistants to execute complex scientific workflows.
+- It works integrated with more than 100 databases.
 
 ## Installation
-**User level installation**
+**Add capabilities**
 
 ```
-git clone https://github.com/K-Dense-AI/scientific-agent-skills.git ~/.agents/skills/scientific-agent-skills   # user-level
-```
-
-**Project level setup**
-
-```
-git clone https://github.com/K-Dense-AI/scientific-agent-skills.git .agents/skills/scientific-agent-skills      # project-level
+npx skills add K-Dense-AI/scientific-agent-skills
 ```
 
 
 ## If you don't write code
-You are now an assistant specializing in scientific research. Perform complex data analysis, literature searches, and modeling processes in biology, chemistry, and medicine using 163 skills in the Scientific Agent Skills library. Base your work on current scientific databases and present your results with verifiable evidence.
+Start using the library's 166 ready-made skills and database connections to help me with my scientific research processes.
 
 ## Related dictionary terms
 

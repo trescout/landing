@@ -2,15 +2,15 @@
 
 Paperclip, iş yerindeki yapay zekâ ajanlarını (AI agents) tek bir arayüz üzerinden yönetmenizi sağlayan açık kaynaklı bir platformdur. TypeScript ile geliştirilen bu araç, farklı görevler için kullanılan ajanların iş akışlarını merkezi bir noktadan kontrol etmenize olanak tanır.
 
-- ★ 87.410
+- ★ 92.029
 - TypeScript
 - GitHub Trending · 2026-08-11
 
 ## Güncelleme
+- 28 Eylül 2026: Yıldız 87.410 → 92.029, son sürüm v2026.916.1 (21 Eylül 2026).
 - 27 Eylül 2026: Yıldız 80.899 → 87.410, son sürüm v2026.916.1 (21 Eylül 2026).
 - 17 Eylül 2026: Yıldız 79.855 → 80.899, son sürüm v2026.916.0 (16 Eylül 2026).
 - 2 Eylül 2026: Yıldız 79.465 → 79.855, son sürüm v2026.831.1 (2 Eylül 2026).
-- 27 Ağustos 2026: Yıldız 78.760 → 79.465, son sürüm v2026.824.1 (25 Ağustos 2026).
 
 ## Ne kazandırır?
 - Birden fazla yapay zekâ ajanını tek bir arayüzden yönetin.

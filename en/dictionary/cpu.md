@@ -29,6 +29,7 @@ They are small independent processing units within a processor that can perform 
 - [Apple Silicon](/en/dictionary/apple-silicon/)
 
 ## Related tools
+- [Tensorflow](/en/discover/tensorflow/)
 - [Llmfit](/en/discover/llmfit/)
 - [CasaOS](/en/discover/casaos/)
 - [Airllm](/en/discover/airllm/)

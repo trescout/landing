@@ -37,6 +37,7 @@ Yes. Just run git pull inside the folder. If you have changes, you need to commi
 - [MoneyPrinterTurbo](/en/discover/moneyprinterturbo/)
 - [VoxCPM](/en/discover/voxcpm/)
 - [Clone-Wars](/en/discover/clone-wars/)
+- [Univer](/en/discover/univer/)
 - [OpenStock](/en/discover/openstock/)
 - [Hermes WebUI](/en/discover/hermes-webui/)
 - [Flowsint](/en/discover/flowsint/)

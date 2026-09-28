@@ -32,6 +32,7 @@ Yes, but those used for AI are usually professional models equipped with more me
 - [Deployment](/en/dictionary/deployment/)
 
 ## Related tools
+- [Tensorflow](/en/discover/tensorflow/)
 - [Pytorch](/en/discover/pytorch/)
 - [Minimind](/en/discover/minimind/)
 - [OpenMAIC](/en/discover/openmaic/)

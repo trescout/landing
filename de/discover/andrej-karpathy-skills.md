@@ -2,7 +2,7 @@
 
 Dieses Richtlinienpaket wird als Ableitung von Andrej Karpathys Beobachtungen zu Fehlern von LLMs beim Programmieren beschrieben. Es bietet Optionen als Claude-Code-Plugin, projektbezogene CLAUDE.md und Cursor-Regel.
 
-- ★ 205.391
+- ★ 215.668
 - GitHub Trending · 2026-08-23
 
 ## Was macht dieses Werkzeug?

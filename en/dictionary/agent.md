@@ -32,8 +32,8 @@ Yes, they can manage your files or run your applications if you give them the ne
 
 ## Related tools
 - [Hermes Agent](/en/discover/hermes-agent/)
-- [Opencode](/en/discover/opencode/)
 - [Andrej Karpathy Skills](/en/discover/andrej-karpathy-skills/)
+- [Opencode](/en/discover/opencode/)
 - [Ponytail](/en/discover/ponytail/)
 - [Awesome LLM Apps](/en/discover/awesome-llm-apps/)
 - [Browser Use](/en/discover/browser-use/)

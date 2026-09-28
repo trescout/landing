@@ -2,8 +2,11 @@
 
 Andrej Karpathy’nin LLM’lerin kodlama hatalarına ilişkin gözlemlerinden türetildiği belirtilen bu yönerge paketi, kodlama ajanlarının çalışma biçimine rehberlik eder. Claude Code plugin’i, proje başına CLAUDE.md ve Cursor kuralları için seçenekler sunar.
 
-- ★ 205.391
+- ★ 215.668
 - GitHub Trending · 2026-08-23
+
+## Güncelleme
+- 28 Eylül 2026: Yıldız 205.391 → 215.668.
 
 ## Bu araç ne yapar?
 

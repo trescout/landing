@@ -30,8 +30,8 @@ Sim, eles podem gerenciar seus arquivos ou executar seus aplicativos se você co
 
 ## Ferramentas relacionadas
 - [Hermes Agent](/pt/discover/hermes-agent/)
-- [Opencode](/pt/discover/opencode/)
 - [Andrej Karpathy Skills](/pt/discover/andrej-karpathy-skills/)
+- [Opencode](/pt/discover/opencode/)
 - [Ponytail](/pt/discover/ponytail/)
 - [Awesome LLM Apps](/pt/discover/awesome-llm-apps/)
 - [Browser Use](/pt/discover/browser-use/)

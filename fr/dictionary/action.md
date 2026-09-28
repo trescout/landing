@@ -28,6 +28,7 @@ L'invite est une demande, l'action est l'action concrète qui a lieu à la suite
 - [Agentic Workflows](/fr/dictionary/agentic-workflows/)
 
 ## Outils liés
+- [Claude Code Action](/fr/discover/claude-code-action/)
 - [Embabel Agent](/fr/discover/embabel-agent/)
 
 ---

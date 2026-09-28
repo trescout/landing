@@ -1,20 +1,19 @@
 # Container and cloud security scanner
 
-Trivy is a comprehensive and lightning-fast security scanner that detects vulnerabilities (CVEs), misconfigurations, and leaked secrets across containers, Kubernetes clusters, repositories, and cloud environments. With native Software Bill of Materials (SBOM) generation, it automates DevSecOps compliance from code to production.
+Trivy is a comprehensive security scanning tool that detects vulnerabilities, misconfigurations, and secrets in containers, Kubernetes clusters, code repositories, and cloud infrastructures in seconds. It automates DevSecOps processes end-to-end with software bill of materials (SBOM) support.
 
 - ★ 35,511
 - Go
 - GitHub Trending · 2026-06-04
 
 ## What you get
-- Multi-target scanning: Inspect container images (Docker, OCI), local filesystems, remote Git repositories, VM images, and live Kubernetes clusters with a single tool.
-- Zero operational overhead: Requires no external database servers or persistent heavyweight background daemons; runs as a self-contained standalone binary.
-- Secret and sensitive data detection: Identifies hardcoded API keys, passwords, and private tokens accidentally committed into source code or image layers.
-- Infrastructure as Code (IaC) linting: Validates Terraform, Dockerfile, Kubernetes YAML, and CloudFormation templates against security policies before deployment.
-- Native SBOM and license compliance: Generates CycloneDX and SPDX standard Software Bill of Materials to satisfy regulatory supply-chain compliance.
+- Multi-layered target scanning: Inspects container images (Docker, OCI), local file systems, remote Git repositories, virtual machine disks and live Kubernetes clusters with a single tool.
+- Zero additional infrastructure overhead: No need for an external database server or heavy agents running constantly; It delivers analysis in seconds as a single executable binary.
+- Capturing sensitive data and secrets: It detects API keys, passwords and private certificates accidentally embedded in the source code or image layers with its heuristic engine.
+- Infrastructure as code (IaC) audit: Catches security misconfigurations in Terraform, Dockerfile, Kubernetes YAML, and CloudFormation files before they go to production.
+- SBOM and open source license compliance: Complies software supply chain security with legal regulations by producing software bill of materials in CycloneDX and SPDX standards.
 
 ## Installation
-
 **macOS (Homebrew)**
 
 ```
@@ -27,68 +26,40 @@ brew install trivy
 winget install AquaSecurity.Trivy
 ```
 
-## Basic usage
 
+## Running it
 **Scan container image**
 
 ```
-trivy image image-name:tag
+trivy image imaj-adi:etiket
 ```
 
-**Scan local filesystem for vulnerabilities and secrets**
 
-```
-trivy fs --scanners vuln,secret,misconfig .
-```
-
-**Generate SBOM in CycloneDX format**
-
-```
-trivy image --format cyclonedx --output sbom.json image-name:tag
-```
-
-## Technical architecture and inner workings
-
-Developed by Aqua Security and the open-source community, Trivy delivers production-grade DevSecOps guardrails:
-- Trivy DB and cached vulnerability feeds: Automatically synchronizes a compact, local vulnerability database aggregated from NVD, GitHub Advisory Database, Red Hat, Debian, Ubuntu, and Alpine feeds for offline execution.
-- Static layer parsing: Examines OCI image tar archives and filesystem layers directly without running containers or requiring Docker daemon privileges.
-- IaC policy engine with Rego: Enforces Open Policy Agent (OPA) compliant rules to catch unencrypted buckets, open ports, and root privilege escalations.
-- Deep dependency graph analysis: Parses lockfiles (package-lock.json, poetry.lock, Cargo.lock, go.sum) to detect direct and transitive supply-chain flaws.
+## Technical architecture and working principle
+- Trivy DB and local cache: NVD automatically downloads a lightweight database cache containing GitHub Advisory Database, Red Hat, Debian, Ubuntu, and Alpine security bulletins. Since scans are performed through this local cache, it runs at lightning speed even in environments with network restrictions.
+- Static layer analysis: Directly parses OCI layers without running container images or needing a Docker daemon. This approach does not compromise system security during the scanning process.
+- IaC engine and Rego policies: Controls infrastructure templates with Open Policy Agent (OPA) compliant rules. Insecure open ports or services running with root privilege are reported immediately.
+- SBOM standardization: The package manager scans the lock files (package-lock.json, poetry.lock, Cargo.lock, etc.) and creates a complete dependency map of your application.
 
 ## DevSecOps and CI/CD pipeline integration
+- Early stage feedback: Developers instantly see vulnerabilities in open source libraries by running Trivy in their local environment before pushing their code to the remote repository.
+- Automatic SARIF reporting: The produced SARIF outputs are transferred to GitHub Code Scanning or GitLab Security dashboards, allowing teams to perform central vulnerability tracking.
+- Live cluster monitoring (Trivy Operator): It constantly monitors workloads running in the Kubernetes environment and instantly reports newly discovered zero-day (0-day) vulnerabilities.
 
-Trivy serves as an automated quality gate in software delivery pipelines. Set specific severity thresholds to halt builds when severe risks are introduced:
-
-**Fail CI build on Critical or High vulnerabilities**
-
-```
-trivy image --exit-code 1 --severity CRITICAL,HIGH image-name:tag
-```
-- Shift-left feedback: Developers identify flaws in third-party libraries locally before pushing commits to remote repositories.
-- Automated SARIF reports: Ingest SARIF outputs into GitHub Code Scanning or GitLab Security dashboards for centralized vulnerability triage.
-- Live cluster monitoring (Trivy Operator): Continuously scans running Kubernetes workloads to surface newly disclosed zero-day vulnerabilities.
-
-## If you do not code
-🤖 If you do not code
-I want to create a GitHub Actions workflow that scans my Docker image and source code with Trivy on every push and pull request. Can you provide a complete .github/workflows/trivy.yml file that fails the build (exit-code 1) only on CRITICAL and HIGH severity issues, uploads findings as SARIF to the GitHub Security tab, and generates a CycloneDX SBOM artifact?
-
-- **Who it is for:** DevOps engineers, security teams, and software developers automating vulnerability scanning and SBOM generation.
-- **License:** Apache-2.0 (Open source license)
-- **Maintainer:** Aqua Security and Open Source Community
-- **Output Formats:** Table, JSON, SARIF, CycloneDX, SPDX, Template
+## If you don't write code
+I want to set up a security workflow on GitHub Actions that scans my Docker image and source codes with Trivy at every code push and pull request (PR). Can you make a complete .github/workflows/trivy.yml file that stops the build only on CRITICAL and HIGH level vulnerabilities (exit-code 1), uploads the findings to the GitHub Security dashboard in SARIF format, and creates a SBOM file in CycloneDX format?
 
 ## Frequently asked questions
-- Can Trivy scan images without the Docker daemon? Yes. Trivy can pull and inspect images directly from remote registries (Docker Hub, GitHub Container Registry, AWS ECR) or read archived tar files without Docker running.
-- Does Trivy work in air-gapped environments? Yes. The vulnerability database can be pre-downloaded and transferred to isolated internal environments for completely offline scanning.
-- What is an SBOM and why use Trivy for it? A Software Bill of Materials (SBOM) lists all open-source packages, versions, and licenses within an application. Trivy produces industry-standard CycloneDX and SPDX files for both codebases and built containers.
-- How fast is a typical Trivy scan? Because Trivy evaluates vulnerabilities against its local pre-indexed database without network calls during execution, scans usually complete in a few seconds.
-
-## Links
-- [GitHub →](https://github.com/aquasecurity/trivy)
-- [Read in Turkish →](https://trescout.com/discover/trivy/)
+- Can Trivy Docker scan container images without a daemon? Yes. Trivy can download and scan images directly from remote image repositories (Docker Hub, GitHub Container Registry, AWS ECR, etc.) or local tar archives without the need for a Docker client or daemon.
+- Does it work in air-gapped environments without internet connection? Yes. The Trivy database (trivy-db) can be downloaded in advance and moved to a closed network environment. Trivy can scan through the local database cache without going online.
+- What is SBOM and why is Trivy preferred in this field? SBOM (Software Bill of Materials) is a digital content list that documents all open source libraries, versions and licenses included in your software. Trivy is one of the few standard tools that can produce SBOM at both the image level and the source code level.
+- How to exclude false positives or accepted risks? You can list the CVE codes you want to ignore line by line by adding a .trivyignore file to the project root directory. In this way, unnecessary compilation interruptions in CI/CD pipelines are prevented.
 
 ## Related dictionary terms
-Container CI-CD Vulnerability Scanning Cloud Native
+
+## Links
+- GitHub repository →
+- Read in Turkish →
 
 ---
 Source: TreScout Discover · https://trescout.com/en/discover/trivy/

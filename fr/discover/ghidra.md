@@ -1,83 +1,70 @@
-# Suite d'ingénierie inverse logicielle et d'analyse
+# Cadre d'analyse pour l'ingénierie inverse de logiciels
 
-Ghidra est une suite logicielle d'ingénierie inverse (SRE) complète et open-source développée par la National Security Agency (NSA). Équipée d'un moteur de décompilation performant en C++ et d'un environnement Java, elle traduit les binaires compilés en code source intelligible et offre une analyse symbolique avancée sur des dizaines d'architectures.
+Ghidra est un cadre complet d'ingénierie inverse logicielle (SRE) développé par la National Security Agency (NSA) et partagé en open source. Plateforme développée avec le noyau Java et C++ ; Il convertit les fichiers binaires compilés en code source, offrant aux chercheurs en sécurité des décompilations avancées, une analyse symbolique et une prise en charge multi-architecture.
 
-- ★ 78.142
+- ★ 79 733
 - Java
 - GitHub Trending · 2026-08-28
 
-## Mises à jour
-- 17 septembre 2026: Étoiles 78 142, dernière version Ghidra_12.1.3_build (support Java 21, optimisations des décompilateurs RISC-V et ARM64).
-
 ## Ce que ça vous apporte
-- Décompilateur C robuste intégré: Convertit le langage machine et l'assembleur en pseudo-code C lisible de haut niveau.
-- Large support multi-architecture: Prise en charge de x86, ARM, AArch64, MIPS, PowerPC, RISC-V, SPARC et de multiples microcontrôleurs.
-- Collaboration multi-utilisateurs: Travaillez en équipe sur le même fichier binaire avec annotations partagées et gestion de versions via Ghidra Server.
-- Analyse headless automatisée: Lancez des scripts d'audit de vulnérabilités et de détection de malwares en ligne de commande sans interface graphique.
-- Extensibilité Java et Python: Développez des plugins personnalisés, déballeurs de code et parseurs de types de données.
+- Décompilateurs C puissants intégrés : conversion du code machine et des instructions d'assemblage en une syntaxe lisible et de haut niveau de type C.
+- Large gamme de processeurs et d'architectures : prise en charge de x86, ARM, AArch64, MIPS, PowerPC, RISC-V, SPARC et des centaines d'architectures de microcontrôleurs embarqués.
+- Analyse collaborative multi-utilisateurs : annotation, dénomination de fonctions et contrôle de version simultanés sur le même fichier binaire avec l'infrastructure Ghidra Server.
+- Automatisation et analyse Headless : analyse automatique de milliers de logiciels malveillants sur le serveur à partir de la ligne de commande sans entrer dans l'interface graphique.
+- Extensibilité avec Java et Python : personnalisez l'analyse avec des scripts personnalisés, des plug-ins et des bibliothèques de types de données.
 
-## Installation et prérequis système
-
-**Installation de JDK 21 et Ghidra**
+## Configuration requise pour l'installation et le système
+**Installation du JDK 21 et de Ghidra**
 
 ```
-# Sur macOS via Homebrew :
+# macOS Homebrew ile kurulum:
 brew install --cask ghidra
 
-# Linux / Windows (Démarrage manuel depuis l'archive) :
-# Nécessite un JDK 21 64-bit installé.
+# Linux / Windows (Manuel arşivden başlatma):
+# JDK 21 64-bit kurulu olmalıdır.
 ./ghidraRun          # Linux / macOS
 ghidraRun.bat        # Windows
 ```
 
-## Exécution et analyse automatisée en ligne de commande
 
-**Lancer l'interface graphique**
+## Exécution et analyse de ligne de commande sans tête
+**Démarrage de l'interface graphique**
 
 ```
 ./ghidraRun
 ```
 
-**Exécuter une analyse headless sans GUI**
+**Exécution d'une analyse automatique sans tête**
 
 ```
-analyzeHeadless /chemin/projet NomProjet -import cible.bin -postScript AuditSecurite.py
+analyzeHeadless /proje/dizini ProjeAdi -import hedef_dosya.bin -postScript GuvenlikAnalizi.py
 ```
 
-## Architecture technique : Sleigh et moteur de décompilation
 
-Les piliers techniques qui font de Ghidra un standard de la sécurité comprennent :
-- Langage de spécification Sleigh: Langage déclaratif dédié permettant de décrire les jeux d'instructions et registres de nouveaux processeurs.
-- Représentation intermédiaire P-Code: Normalise toutes les instructions assembleur en un langage intermédiaire commun pour une analyse de flux indépendante du matériel.
-- Moteur de décompilation natif en C++: Élimine le code mort, structure les boucles de contrôle et reconstitue les types de variables avec une grande rapidité.
+## Architecture technique : moteur Sleigh et décompilateur
+- Langage de modélisation de processeur Sleigh : langage de description déclaratif utilisé pour introduire un nouveau processeur ou une nouvelle architecture de jeu d'instructions (ISA) dans Ghidra.
+- Couche de représentation intermédiaire (IR) P-Code : réalisation d'une analyse de flux de données et de flux de contrôle indépendante de l'architecture en traduisant toutes les instructions du processeur dans un langage intermédiaire commun (P-Code).
+- Moteur de décompilation basé sur C++ : moteur natif hautes performances qui simplifie les graphiques de flux de contrôle, extrait les types de variables et réduit les boucles complexes au code C.
 
-## Scénarios d'ingénierie inverse et d'audit de sécurité
-
-Ghidra intervient au cœur des investigations de sécurité offensive et défensive :
-- Analyse de logiciels malveillants (Malware Triage): Déchiffre les chaînes obfusquées et identifie les appels d'API système et serveurs C2.
-- Diffing de binaires (Program Diff): Compare deux versions d'un binaire pour isoler les correctifs de sécurité et comprendre la vulnérabilité corrigée.
-- Audit de microprogrammes (Firmware): Cartographie les images mémoire de cartes électroniques pour analyser bootloaders et firmwares IoT.
+## Workflows d’ingénierie inverse et d’analyse de vulnérabilité
+- Analyse des logiciels malveillants (Malware Triage) : ouverture isolée des exécutables suspects et révélation des appels API cachés, des domaines C2 et des clés de chiffrement.
+- Comparaison de fichiers binaires (Program Diff) : Détection de la vulnérabilité fermée en visualisant les différences entre deux fichiers avant et après le correctif de sécurité.
+- Analyse du micrologiciel : placer les vidages de mémoire flash brute des appareils IoT dans la carte mémoire et analyser les fonctions du chargeur de démarrage et du noyau.
 
 ## Si vous ne codez pas
-🤖 Si vous ne codez pas
-Je souhaite inspecter un exécutable suspect avec Ghidra. Peux-tu m'expliquer pas à pas comment créer un projet, importer le fichier, exécuter l'Auto Analysis, naviguer dans la fenêtre du décompilateur et repérer les appels d'API potentiellement dangereux ?
+Je souhaite examiner un fichier binaire suspect à l'aide de Ghidra. Pouvez-vous expliquer étape par étape comment ouvrir un nouveau projet dans Ghidra, importer le fichier, exécuter Auto Analysis, examiner les fonctions dans la fenêtre du décompilateur et détecter les fonctions API suspectes appelées ?
 
-- **Pour qui:** Analystes de malwares, chercheurs en vulnérabilités, ingénieurs en rétro-ingénierie et développeurs firmware.
-- **Licence:** Apache-2.0 (Licence open-source permissive)
-- **Développeur:** National Security Agency (NSA) et communauté open-source
-- **Prérequis:** Java Development Kit (JDK) 21 64-bit
+## Questions fréquemment posées
+- Quelles sont les principales différences entre Ghidra et IDA Pro ? Bien qu'IDA Pro ait des frais de licence commerciaux et élevés, Ghidra est entièrement gratuit et open source. Ghidra propose des décompilateurs intégrés pour toutes les architectures et comprend un serveur de collaboration multi-utilisateurs.
+- Ghidra est-il sûr lors de l’analyse de logiciels malveillants ? Oui, lors de l'analyse statique, le fichier n'est pas exécuté, seulement décodé. Cependant, il est essentiel pour la sécurité que l'analyse soit effectuée dans une machine virtuelle (VM) isolée.
+- Comment installer le serveur Ghidra ? Avec le script svrAdmin dans le répertoire du serveur inclus dans le package Ghidra, un serveur d'équipe peut être ouvert sur le réseau local en quelques minutes et des privilèges utilisateur peuvent être attribués.
+- Les scripts Python 3 peuvent-ils être exécutés dans Ghidra ? Bien que Ghidra soit livré par défaut avec Jython (Python 2.7), les environnements Python 3 modernes et les bibliothèques externes (NumPy, Capstone) peuvent être utilisés directement grâce au plugin PyGhidra.
 
-## Questions fréquentes
-- Quelles sont les différences clés entre Ghidra et IDA Pro ? Contrairement à IDA Pro qui impose des licences commerciales onéreuses par architecture, Ghidra est totalement gratuit, open-source, inclut le décompilateur pour toutes les cibles et intègre un serveur collaboratif.
-- L'analyse avec Ghidra présente-t-elle un danger face à un malware ? Non, l'analyse statique ne fait que désassembler les octets sans jamais exécuter le binaire. Néanmoins, opérer au sein d'une machine virtuelle isolée reste indispensable.
-- Comment mettre en place un serveur Ghidra ? Le script svrAdmin inclus dans l'archive permet de lancer un serveur collaboratif sur votre réseau local en quelques minutes avec gestion des comptes utilisateurs.
-- Peut-on utiliser Python 3 dans Ghidra ? Bien que Jython (Python 2.7) soit intégré par défaut, le module PyGhidra permet d'exécuter du code Python 3 moderne avec accès à l'ensemble des bibliothèques externes.
+## Termes liés du glossaire
 
 ## Liens
-- [GitHub →](https://github.com/NationalSecurityAgency/ghidra)
-
-## Termes associés du glossaire
-Binary Open Source Local Offline
+- Dépôt GitHub →
+- Lire en turc →
 
 ---
-Source: TreScout Discover · https://trescout.com/fr/discover/ghidra/
+Source : TreScout Découvrir · https://trescout.com/fr/discover/ghidra/

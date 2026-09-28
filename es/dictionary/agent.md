@@ -30,8 +30,8 @@ Sí, pueden administrar sus archivos o ejecutar sus aplicaciones si les otorga l
 
 ## Herramientas relacionadas
 - [Hermes Agent](/es/discover/hermes-agent/)
-- [Opencode](/es/discover/opencode/)
 - [Andrej Karpathy Skills](/es/discover/andrej-karpathy-skills/)
+- [Opencode](/es/discover/opencode/)
 - [Ponytail](/es/discover/ponytail/)
 - [Awesome LLM Apps](/es/discover/awesome-llm-apps/)
 - [Browser Use](/es/discover/browser-use/)

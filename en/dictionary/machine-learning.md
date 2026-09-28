@@ -30,6 +30,7 @@ Because it can do complex tasks in seconds, using data, that people cannot code 
 - [Data Pipeline](/en/dictionary/data-pipeline/)
 
 ## Related tools
+- [Tensorflow](/en/discover/tensorflow/)
 - [Opencv](/en/discover/opencv/)
 - [Cs249r Book](/en/discover/cs249r-book/)
 - [Machine Learning for Trading](/en/discover/machine-learning-for-trading/)

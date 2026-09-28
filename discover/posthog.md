@@ -7,10 +7,10 @@ PostHog, ürün geliştirme süreçleri için yapay zekâ gözlemlenebilirliği 
 - GitHub Trending · 2026-07-17
 
 ## Güncelleme
+- 28 Eylül 2026: Yıldız 39.977 → 39.977, son sürüm posthog-cli/v0.18.9 (28 Eylül 2026).
 - 28 Eylül 2026: Yıldız 39.949 → 39.977, son sürüm owners-yaml-v0.3.0 (28 Eylül 2026).
 - 27 Eylül 2026: Yıldız 39.857 → 39.949, son sürüm desktop-v0.61.566 (25 Eylül 2026).
 - 19 Eylül 2026: Yıldız 39.846 → 39.857, son sürüm desktop-v0.61.464 (19 Eylül 2026).
-- 18 Eylül 2026: Yıldız 39.828 → 39.846, son sürüm desktop-v0.61.447 (18 Eylül 2026).
 
 ## Ne kazandırır?
 - Kullanıcı davranışlarını analiz ederek hataları otomatik tespit edin.
