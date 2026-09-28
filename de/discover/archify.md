@@ -25,14 +25,6 @@ npx -y skills add tt-a1i/archify --skill archify --agent cursor --global --copy 
 ```
 
 
-## Ausführung
-**Versuche es mit Codex**
-
-```
-npx skills use tt-a1i/archify@archify --agent codex
-```
-
-
 ## Wenn Sie nicht programmieren
 Analysieren Sie diese Codebasis und erstellen Sie mit Archify ein allgemeines Laufzeitarchitekturdiagramm. Zeigen Sie 8–12 Schlüsselkomponenten, den primären Datenpfad, externe Abhängigkeiten und Vertrauensgrenzen an. Präsentieren Sie unterstützende Details in Karteikarten und nicht am Rand.
 

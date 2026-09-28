@@ -27,8 +27,15 @@ def _olcu(html):
     return len(_BASLIK.findall(govde)), kelime
 
 
-def zayiflatir(yeni_html, mevcut_yol):
-    """Yeni çıktı mevcut sayfayı zayıflatıyorsa gerekçe döner, yoksa None."""
+def zayiflatir(yeni_html, mevcut_yol, kaynak_yol=None):
+    """Yeni çıktı mevcut sayfayı zayıflatıyorsa gerekçe döner, yoksa None.
+
+    kaynak_yol: Türkçe kaynak sayfa. Yeni çıktı kaynağın bölüm sayısına
+    ulaşıyorsa küçülme meşrudur (kaynak yeniden işlenip kısalmış), engellenmez.
+    2026-09-28: archify yeniden işlendi, Türkçesi 7 → 6 bölüm oldu; koruma
+    6 bölümlük çevirileri engelledi, eski 7 bölümlük sayfalar kaldı ve bölüm
+    paritesi guard'ı "fazla bölüm" diye düştü.
+    """
     if not os.path.exists(mevcut_yol):
         return None
     try:
@@ -37,6 +44,13 @@ def zayiflatir(yeni_html, mevcut_yol):
         return None
     eski_bolum, eski_kelime = _olcu(eski)
     yeni_bolum, yeni_kelime = _olcu(yeni_html)
+    if kaynak_yol and os.path.exists(kaynak_yol):
+        try:
+            kaynak_bolum, _ = _olcu(open(kaynak_yol, encoding="utf-8").read())
+        except OSError:
+            kaynak_bolum = None
+        if kaynak_bolum is not None and yeni_bolum >= kaynak_bolum:
+            return None
     if yeni_bolum < eski_bolum:
         return f"bölüm {eski_bolum}→{yeni_bolum}"
     if eski_kelime and yeni_kelime < eski_kelime * ASGARI_METIN_ORANI:

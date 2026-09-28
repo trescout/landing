@@ -405,7 +405,8 @@ def main():
             continue
         # Mevcut sayfayı zayıflatan çıktı yazılmaz (bkz. sayfa_koruma.py · 2026-09-27
         # gecesi 40 zenginleştirilmiş çeviri sayfası 7 bölümden 1'e düştü).
-        zayif = zayiflatir(h, os.path.join(EN_DIR, term["slug"], "index.html"))
+        zayif = zayiflatir(h, os.path.join(EN_DIR, term["slug"], "index.html"),
+                           os.path.join(TR_DIR, term["slug"], "index.html"))
         if zayif:
             zayif_korunan += 1
             print(f"  ! {term['slug']}: yeni çıktı sayfayı zayıflatıyordu ({zayif}) · yazılmadı, mevcut hali korundu")

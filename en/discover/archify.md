@@ -25,14 +25,6 @@ npx -y skills add tt-a1i/archify --skill archify --agent cursor --global --copy 
 ```
 
 
-## Running it
-**Trying with Codex**
-
-```
-npx skills use tt-a1i/archify@archify --agent codex
-```
-
-
 ## If you don't write code
 Analyze this codebase and create a high-level runtime architecture diagram using Archify. Show 8-12 key components, primary data path, external dependencies, and trust boundaries. Present supporting details in flashcards rather than in margins.
 

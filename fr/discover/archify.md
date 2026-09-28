@@ -25,14 +25,6 @@ npx -y skills add tt-a1i/archify --skill archify --agent cursor --global --copy 
 ```
 
 
-## Exécution
-**Essayer avec le Codex**
-
-```
-npx skills use tt-a1i/archify@archify --agent codex
-```
-
-
 ## Si vous ne codez pas
 Analysez cette base de code et créez un diagramme d'architecture d'exécution de haut niveau à l'aide d'Archify. Affichez 8 à 12 composants clés, le chemin de données principal, les dépendances externes et les limites de confiance. Présentez les détails à l’appui dans des flashcards plutôt que dans les marges.
 
