@@ -2,7 +2,7 @@
 
 Worktrunk est une interface de ligne de commande (CLI) écrite en Rust qui simplifie la gestion des arbres de travail (worktree) Git. Développé spécifiquement pour prendre en charge les flux de travail parallèles des agents d'intelligence artificielle, cet outil accélère le travail sur plusieurs tâches simultanément.
 
-- ★ 8 424
+- ★ 8 444
 - Rust
 - GitHub Trending · 2026-09-13
 

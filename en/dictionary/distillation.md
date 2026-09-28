@@ -29,5 +29,8 @@ Yes, but fitting the knowledge of complex models into a small structure requires
 - [Quantization](/en/dictionary/quantization/)
 - [Foundation Model](/en/dictionary/foundation-model/)
 
+## Related tools
+- [Model-Optimizer](/en/discover/model-optimizer/)
+
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/distillation/

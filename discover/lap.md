@@ -11,6 +11,9 @@ Vue ile geliştirilen Lap, büyük yerel fotoğraf arşivlerini internet bağlan
 
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-25 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
+## İlgili sözlük terimleri
+Offline-first
+
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/lap/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.

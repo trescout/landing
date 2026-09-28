@@ -2,7 +2,7 @@
 
 Checkstyle is a leading static analysis tool that automatically audits compliance with Google Java Style and Sun code rules in Java projects and can be integrated into CI/CD pipelines.
 
-- ★ 9,575
+- ★ 9,577
 - Java
 - GitHub Trending · 2026-08-31
 

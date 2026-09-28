@@ -31,6 +31,7 @@ No, the interface can completely change for each user and each different task.
 
 ## Related tools
 - [CopilotKit](/en/discover/copilotkit/)
+- [JSON Render](/en/discover/json-render/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/generative-ui/

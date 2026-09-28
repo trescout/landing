@@ -2,7 +2,7 @@
 
 Sub2API é um serviço intermediário de código aberto que fornece acesso de ponto único e compartilhamento de custos para assinaturas Claude, OpenAI, Gemini e Grok.
 
-- ★ 42.879
+- ★ 42.966
 - Go
 - GitHub Trending · 2026-08-23
 

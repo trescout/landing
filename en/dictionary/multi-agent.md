@@ -34,6 +34,7 @@ When tasks become very complex, smaller specialized models combine to make fewer
 - [TradingAgents](/en/discover/tradingagents/)
 - [Gastown](/en/discover/gastown/)
 - [AI Berkshire](/en/discover/ai-berkshire/)
+- [Openrig](/en/discover/openrig/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/multi-agent/

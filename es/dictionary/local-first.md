@@ -26,8 +26,8 @@ Las aplicaciones locales a menudo pueden realizar copias de seguridad en la nube
 
 ## Herramientas relacionadas
 - [Openhuman](/es/discover/openhuman/)
-- [Agentsview](/es/discover/agentsview/)
 - [PI-Desktop](/es/discover/pi-desktop/)
+- [Agentsview](/es/discover/agentsview/)
 - [Wigolo](/es/discover/wigolo/)
 - [Open Science](/es/discover/open-science/)
 

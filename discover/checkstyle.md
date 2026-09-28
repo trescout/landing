@@ -2,11 +2,12 @@
 
 Checkstyle, Java projelerinde Google Java Style ve Sun kod kurallarına uyumu otomatik denetleyen, CI/CD boru hatlarına entegre edilebilen öncü bir statik analiz aracıdır.
 
-- ★ 9.575
+- ★ 9.577
 - Java
 - GitHub Trending · 2026-08-31
 
 ## Güncelleme
+- 28 Eylül 2026: Yıldız 9.575 → 9.577, son sürüm checkstyle-14.3.0 (27 Eylül 2026).
 - 27 Eylül 2026: Yıldız 9.288 → 9.575, son sürüm checkstyle-14.1.0 (30 Ağustos 2026).
 
 ## Ne kazandırır?

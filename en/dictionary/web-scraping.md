@@ -35,6 +35,7 @@ It is quite easy for simple sites, but requires advanced technical knowledge for
 - [MediaCrawler](/en/discover/mediacrawler/)
 - [Browser](/en/discover/browser/)
 - [Camofox Browser](/en/discover/camofox-browser/)
+- [Mobile MCP](/en/discover/mobile-mcp/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/web-scraping/

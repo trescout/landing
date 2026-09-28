@@ -34,6 +34,7 @@ Because it can do complex tasks in seconds, using data, that people cannot code 
 - [Cs249r Book](/en/discover/cs249r-book/)
 - [Machine Learning for Trading](/en/discover/machine-learning-for-trading/)
 - [Maths Cs AI Compendium](/en/discover/maths-cs-ai-compendium/)
+- [Higgsfield](/en/discover/higgsfield/)
 - [Bonsai-demo](/en/discover/bonsai-demo/)
 
 ---

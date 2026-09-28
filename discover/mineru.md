@@ -2,15 +2,15 @@
 
 MinerU, PDF ve Office gibi karmaşık belge formatlarını büyük dil modelleri (large language models) için uygun olan işaretleme dili (markdown) veya JSON formatına dönüştürüyor. Bu araç, yapılandırılmamış verileri ajan tabanlı iş akışlarında (agentic workflows) kullanılabilir hale getirmeyi amaçlıyor.
 
-- ★ 80.681
+- ★ 80.768
 - Python
 - GitHub Trending · 2026-06-26
 
 ## Güncelleme
+- 28 Eylül 2026: Yıldız 80.681 → 80.768, son sürüm mineru-4.0.8-released (27 Eylül 2026).
 - 27 Eylül 2026: Yıldız 80.233 → 80.681, son sürüm mineru-4.0.7-released (23 Eylül 2026).
 - 19 Eylül 2026: Yıldız 80.175 → 80.233, son sürüm mineru-4.0.3-released (18 Eylül 2026).
 - 18 Eylül 2026: Yıldız 80.091 → 80.175, son sürüm mineru-4.0.2-released (17 Eylül 2026).
-- 17 Eylül 2026: Yıldız 77.695 → 80.091, son sürüm mineru-4.0.0-released (16 Eylül 2026).
 
 ## Ne kazandırır?
 - PDF ve Office dosyalarını işaretleme diline çevirir

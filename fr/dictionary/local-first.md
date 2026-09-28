@@ -26,8 +26,8 @@ Les applications locales peuvent souvent être sauvegardées dans le cloud de ma
 
 ## Outils liés
 - [Openhuman](/fr/discover/openhuman/)
-- [Agentsview](/fr/discover/agentsview/)
 - [PI-Desktop](/fr/discover/pi-desktop/)
+- [Agentsview](/fr/discover/agentsview/)
 - [Wigolo](/fr/discover/wigolo/)
 - [Open Science](/fr/discover/open-science/)
 

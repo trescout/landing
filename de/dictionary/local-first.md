@@ -26,8 +26,8 @@ Local-First-Anwendungen können häufig verschlüsselt in der Cloud gesichert we
 
 ## Verwandte Werkzeuge
 - [Openhuman](/de/discover/openhuman/)
-- [Agentsview](/de/discover/agentsview/)
 - [PI-Desktop](/de/discover/pi-desktop/)
+- [Agentsview](/de/discover/agentsview/)
 - [Wigolo](/de/discover/wigolo/)
 - [Open Science](/de/discover/open-science/)
 
