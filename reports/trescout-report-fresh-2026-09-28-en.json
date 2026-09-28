@@ -1,0 +1,543 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-28",
+  "capturedAt": "2026-09-28T10:54:51.294Z",
+  "editorial": "This report contains trends that have emerged for the first time today, without repeating records included in normal reports from the last 30 days.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "NawfalMotii79/PLFM_RADAR",
+          "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+          "summary": "PLFM_RADAR is an open-source, low-cost phased array radar system operating at a 10.5 GHz frequency. This hardware-based project aims to make radio frequency sensing technologies accessible.",
+          "meta": "PLSQL · ★ 25,587 · +145 today",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "NawfalMotii79/PLFM_RADAR",
+            "capturedAt": "2026-09-28T10:54:52.458Z",
+            "metadata": {
+              "language": "PLSQL",
+              "popularity": 25587,
+              "engagementCount": 145,
+              "rank": 4,
+              "extra": {
+                "starsToday": 145
+              }
+            }
+          }
+        },
+        {
+          "title": "cs341-illinois/coursebook",
+          "url": "https://github.com/cs341-illinois/coursebook",
+          "summary": "The coursebook prepared by the University of Illinois is an open-source textbook explaining the fundamentals of systems programming. Presented in TeX format, this resource provides comprehensive educational material for those who want to learn low-level software development processes.",
+          "meta": "TeX · ★ 2,193 · +265 today",
+          "snapshot": {
+            "sourceId": "cs341-illinois/coursebook",
+            "capturedAt": "2026-09-28T10:54:52.458Z",
+            "metadata": {
+              "language": "TeX",
+              "popularity": 2193,
+              "engagementCount": 265,
+              "rank": 5,
+              "extra": {
+                "starsToday": 265
+              }
+            }
+          }
+        },
+        {
+          "title": "byoungd/up",
+          "url": "https://github.com/byoungd/up",
+          "summary": "byoungd/up is a comprehensive guide offering personal development resources ranging from software development processes to language learning. It contains practical tips, particularly focusing on methods for efficiently using artificial intelligence tools and learning English.",
+          "meta": "JavaScript · ★ 64,308 · +310 today",
+          "snapshot": {
+            "sourceId": "byoungd/up",
+            "capturedAt": "2026-09-28T10:54:52.458Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 64308,
+              "engagementCount": 310,
+              "rank": 6,
+              "extra": {
+                "starsToday": 310
+              }
+            }
+          }
+        },
+        {
+          "title": "mvschwarz/openrig",
+          "url": "https://github.com/mvschwarz/openrig",
+          "summary": "Openrig is a multi-agent infrastructure that combines Anthropic's coding tool Claude Code and OpenAI's coding model Codex into a single system. It allows developers to use different AI models simultaneously in the same workflow.",
+          "meta": "TypeScript · ★ 1,312 · +114 today",
+          "snapshot": {
+            "sourceId": "mvschwarz/openrig",
+            "capturedAt": "2026-09-28T10:54:52.458Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 1312,
+              "engagementCount": 114,
+              "rank": 7,
+              "extra": {
+                "starsToday": 114
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "When did Google get so weird?",
+          "url": "https://sancho.bearblog.dev/google-weird/",
+          "summary": "Users are discussing that the results provided by the search engine Google have become more complex and irrelevant compared to the past. The increase in advertisements in search results and the decline in content quality are leading to questioning the platform's core functionality.",
+          "meta": "1,339 points · 736 comments",
+          "snapshot": {
+            "sourceId": "49870367",
+            "capturedAt": "2026-09-28T10:54:51.642Z",
+            "metadata": {
+              "popularity": 1339,
+              "engagementCount": 736,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49870367",
+                  "popularity": 1339,
+                  "engagementCount": 736
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "sancho-panza",
+                "createdAt": "2026-09-27T20:12:54Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49870367"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49870367",
+              "popularity": 1339,
+              "engagementCount": 736
+            }
+          ]
+        },
+        {
+          "title": "Owed a billion dollars in Nvidia stock",
+          "url": "https://colo.to/nvidia-stock-narrative.html",
+          "summary": "The rapid rise in the market value of Nvidia shares is triggering discussions in the tech world about wealth accumulation based on company stocks. Investors are analyzing the economic impact of the gains obtained by engineers working at large tech companies through stock options and the new wealth profile this situation creates.",
+          "meta": "743 points · 306 comments",
+          "snapshot": {
+            "sourceId": "49872723",
+            "capturedAt": "2026-09-28T10:54:51.642Z",
+            "metadata": {
+              "popularity": 743,
+              "engagementCount": 306,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49872723",
+                  "popularity": 743,
+                  "engagementCount": 306
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "Eric_Gullichsen",
+                "createdAt": "2026-09-28T02:05:13Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49872723"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49872723",
+              "popularity": 743,
+              "engagementCount": 306
+            }
+          ]
+        },
+        {
+          "title": "Ember-1",
+          "url": "https://fireworks.ai/blog/ember-1",
+          "summary": "Ember-1, developed by Fireworks AI, is a high-performance multimodal large language model. Combining visual processing and text generation capabilities, this model aims to analyze complex visual data and generate fast responses.",
+          "meta": "477 points · 219 comments",
+          "snapshot": {
+            "sourceId": "49868830",
+            "capturedAt": "2026-09-28T10:54:51.642Z",
+            "metadata": {
+              "popularity": 477,
+              "engagementCount": 219,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49868830",
+                  "popularity": 477,
+                  "engagementCount": 219
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "gmays",
+                "createdAt": "2026-09-27T17:31:53Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49868830"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49868830",
+              "popularity": 477,
+              "engagementCount": 219
+            }
+          ]
+        },
+        {
+          "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+          "url": "https://loficities.com/",
+          "summary": "Lofi Cities is an audiovisual experience platform that combines browser-based generative music with pixel art cityscapes. It allows users to watch digital city atmospheres accompanied by lo-fi music generated through the browser.",
+          "meta": "255 points · 112 comments",
+          "snapshot": {
+            "sourceId": "49869574",
+            "capturedAt": "2026-09-28T10:54:51.642Z",
+            "metadata": {
+              "popularity": 255,
+              "engagementCount": 112,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49869574",
+                  "popularity": 255,
+                  "engagementCount": 112
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "safaelmali",
+                "createdAt": "2026-09-27T18:44:30Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49869574"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49869574",
+              "popularity": 255,
+              "engagementCount": 112
+            }
+          ]
+        },
+        {
+          "title": "In an $80 motel room, a discovery to shed light on the origins of life",
+          "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+          "summary": "Research conducted in a motel room offers new findings on how biological processes regarding the origin of life began. This study demonstrates that fundamental scientific discoveries can be made outside of complex laboratory environments.",
+          "meta": "251 points · 94 comments",
+          "snapshot": {
+            "sourceId": "49866951",
+            "capturedAt": "2026-09-28T10:54:51.642Z",
+            "metadata": {
+              "popularity": 251,
+              "engagementCount": 94,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49866951",
+                  "popularity": 251,
+                  "engagementCount": 94
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "danso",
+                "createdAt": "2026-09-27T14:30:55Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49866951"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49866951",
+              "popularity": 251,
+              "engagementCount": 94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Depth-adaptive Inference of Looped Language Models via Continuous Depth Batching",
+          "url": "https://huggingface.co/papers/2608.09444",
+          "summary": "Looped language models optimize computational cost by using different processing depths according to complexity. The continuous depth batching method allows tokens with different loop counts to be processed efficiently in standard inference engines (such as vLLM).",
+          "meta": "1 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2608.09444",
+            "capturedAt": "2026-09-28T10:54:51.446Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.09444",
+                "publishedAt": "2026-09-25T00:00:00.000Z",
+                "githubRepo": "https://github.com/kschwethelm/continuous-depth-batching"
+              }
+            }
+          }
+        },
+        {
+          "title": "BoundInk: Boundary-Aware Online Handwriting Generation",
+          "url": "https://huggingface.co/papers/2604.02103",
+          "summary": "BoundInk presents a framework that processes connections and spacing between characters in handwriting generation with boundary-awareness. Unlike traditional sequence modeling techniques, this method directly addresses character transitions to create more consistent and realistic handwriting outputs.",
+          "meta": "0 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2604.02103",
+            "capturedAt": "2026-09-28T10:54:51.446Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2604.02103",
+                "publishedAt": "2026-09-20T00:00:00.000Z",
+                "githubRepo": "https://github.com/jinsu0000/cashg-official"
+              }
+            }
+          }
+        },
+        {
+          "title": "IndicBankBench: Evaluating Safety and Reliability of Language Model Assistants in Indian Retail Banking",
+          "url": "https://huggingface.co/papers/2609.29167",
+          "summary": "IndicBankBench is a benchmark test consisting of 799 cases developed to measure the security and reliability of AI assistants in the Indian retail banking sector. This study aims to comprehensively evaluate model performance by detecting process errors such as incorrect account selection or reliance on outdated data.",
+          "meta": "4 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2609.29167",
+            "capturedAt": "2026-09-28T10:54:51.446Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.29167",
+                "publishedAt": "2026-09-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/npci/IndicBankBench",
+                "githubStars": 2
+              }
+            }
+          }
+        },
+        {
+          "title": "Paragraph Boundaries Are Not White Space:Compression Depth as the Signature of Hierarchical Structure",
+          "url": "https://huggingface.co/papers/2609.23551",
+          "summary": "Hierarchical rotary positional encoding defines paragraph and sentence boundaries in text structure as channels independent of the one-dimensional reading order. This method enables large language models to understand hierarchical relationships within text more precisely.",
+          "meta": "1 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2609.23551",
+            "capturedAt": "2026-09-28T10:54:51.446Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.23551",
+                "publishedAt": "2026-09-20T00:00:00.000Z",
+                "githubRepo": "https://github.com/ShuyangenFrance/hrope",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Enhancing Photogrammetric Digital Surface Models with Pretrained Diffusion Models and Multimodal Conditioning",
+          "url": "https://huggingface.co/papers/2609.31199",
+          "summary": "Pre-trained diffusion models are used to remove noise and gaps in digital surface models obtained from satellite imagery. This method enables the creation of high-accuracy 3D maps at a lower cost by combining photogrammetric data and Pléiades satellite images.",
+          "meta": "6 likes · 1 comments",
+          "snapshot": {
+            "sourceId": "2609.31199",
+            "capturedAt": "2026-09-28T10:54:51.446Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.31199",
+                "publishedAt": "2026-09-25T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "“They had no concept of a duty of care to their users.”",
+          "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+          "summary": "The lack of a sense of duty of care towards the user in software development processes opens up a debate on the security and ethical standards of digital platforms. This approach draws attention to the risks created by user safety falling behind technical requirements during software design.",
+          "meta": "147 points · 39 comments",
+          "snapshot": {
+            "sourceId": "1colyy",
+            "capturedAt": "2026-09-28T10:54:51.690Z",
+            "metadata": {
+              "popularity": 147,
+              "engagementCount": 39,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/1colyy/they_had_no_concept_duty_care_their_users",
+                  "popularity": 147,
+                  "engagementCount": 39
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vim"
+                ],
+                "createdAt": "2026-09-27T09:44:53.153-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/1colyy/they_had_no_concept_duty_care_their_users",
+              "popularity": 147,
+              "engagementCount": 39
+            }
+          ]
+        },
+        {
+          "title": "What makes Lisp difficult to read?",
+          "url": "https://paultm.nl/paren-thesis",
+          "summary": "The main element that makes the readability of the Lisp programming language difficult is the intensive use of parentheses that form the code structure. This situation makes it difficult for developers to analyze the code because it offers a structure different from conventional syntax rules.",
+          "meta": "20 points · 8 comments",
+          "snapshot": {
+            "sourceId": "fqype1",
+            "capturedAt": "2026-09-28T10:54:51.690Z",
+            "metadata": {
+              "popularity": 20,
+              "engagementCount": 8,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/fqype1/what_makes_lisp_difficult_read",
+                  "popularity": 20,
+                  "engagementCount": 8
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "plt"
+                ],
+                "createdAt": "2026-09-27T23:44:02.263-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/fqype1/what_makes_lisp_difficult_read",
+              "popularity": 20,
+              "engagementCount": 8
+            }
+          ]
+        },
+        {
+          "title": "postmarketOS rebrands as Nura",
+          "url": "https://nura.eco/blog/2026/09/27/nura-rename/",
+          "summary": "The open-source operating system developed for mobile devices, postmarketOS, has rebranded its identity as Nura. With this change, the project continues its vision of sustainable hardware and long-term software support under a new name.",
+          "meta": "64 points · 9 comments",
+          "snapshot": {
+            "sourceId": "msjitj",
+            "capturedAt": "2026-09-28T10:54:51.690Z",
+            "metadata": {
+              "popularity": 64,
+              "engagementCount": 9,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/msjitj/postmarketos_rebrands_as_nura",
+                  "popularity": 64,
+                  "engagementCount": 9
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "linux"
+                ],
+                "createdAt": "2026-09-27T12:34:21.672-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/msjitj/postmarketos_rebrands_as_nura",
+              "popularity": 64,
+              "engagementCount": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "phased array radar",
+      "explanation": "An advanced scanning system that tracks objects by directing electronic signals instead of moving parts."
+    },
+    {
+      "term": "systems programming",
+      "explanation": "The development of core software, such as operating systems and drivers, that communicates directly with computer hardware."
+    },
+    {
+      "term": "artificial intelligence",
+      "explanation": "The acquisition of the ability by computers to learn, reason, and solve problems like humans."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "The collaborative operation of multiple independent software programs that communicate with each other to perform a common task."
+    },
+    {
+      "term": "stock options",
+      "explanation": "An incentive method that gives employees the right to purchase company shares at a specific price in the future."
+    },
+    {
+      "term": "multimodal large language model",
+      "explanation": "Artificial intelligence models that can understand and process not only text but also different data types such as images and audio."
+    },
+    {
+      "term": "generative music",
+      "explanation": "Music that is automatically composed or generated by artificial intelligence within a framework of rules."
+    },
+    {
+      "term": "looped language models",
+      "explanation": "Cyclical artificial intelligence structures that continuously generate new content by using the output they produce as input again."
+    },
+    {
+      "term": "continuous depth batching",
+      "explanation": "A method that enables artificial intelligence models to process a large number of simultaneous requests continuously and quickly without waiting."
+    }
+  ]
+}

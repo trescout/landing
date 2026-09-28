@@ -1,0 +1,543 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-28",
+  "capturedAt": "2026-09-28T10:54:51.294Z",
+  "editorial": "Bu rapor, son 30 gündeki normal raporlarda yer alan kayıtları tekrar etmeden bugün ilk kez öne çıkan trendleri içerir.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "NawfalMotii79/PLFM_RADAR",
+          "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+          "summary": "PLFM_RADAR, 10.5 GHz frekansında çalışan açık kaynaklı ve düşük maliyetli bir faz dizili radar (phased array radar) sistemidir. Donanım tabanlı bu proje, radyo frekansı algılama teknolojilerini erişilebilir kılmayı amaçlar.",
+          "meta": "PLSQL · ★ 25.587 · +145 bugün",
+          "snapshot": {
+            "sourceId": "NawfalMotii79/PLFM_RADAR",
+            "capturedAt": "2026-09-28T10:54:52.458Z",
+            "metadata": {
+              "language": "PLSQL",
+              "popularity": 25587,
+              "engagementCount": 145,
+              "rank": 4,
+              "extra": {
+                "starsToday": 145
+              }
+            }
+          },
+          "returning": true
+        },
+        {
+          "title": "cs341-illinois/coursebook",
+          "url": "https://github.com/cs341-illinois/coursebook",
+          "summary": "Illinois Üniversitesi tarafından hazırlanan coursebook, sistem programlama (systems programming) temellerini anlatan açık kaynaklı bir ders kitabıdır. TeX formatında sunulan bu kaynak, düşük seviyeli yazılım geliştirme süreçlerini öğrenmek isteyenler için kapsamlı bir eğitim materyali sağlar.",
+          "meta": "TeX · ★ 2.193 · +265 bugün",
+          "snapshot": {
+            "sourceId": "cs341-illinois/coursebook",
+            "capturedAt": "2026-09-28T10:54:52.458Z",
+            "metadata": {
+              "language": "TeX",
+              "popularity": 2193,
+              "engagementCount": 265,
+              "rank": 5,
+              "extra": {
+                "starsToday": 265
+              }
+            }
+          }
+        },
+        {
+          "title": "byoungd/up",
+          "url": "https://github.com/byoungd/up",
+          "summary": "byoungd/up, yazılım geliştirme süreçlerinden dil öğrenimine kadar geniş bir yelpazede kişisel gelişim kaynakları sunan kapsamlı bir rehberdir. Özellikle yapay zekâ (artificial intelligence) araçlarını verimli kullanma ve İngilizce öğrenme yöntemleri üzerine odaklanan pratik ipuçları içerir.",
+          "meta": "JavaScript · ★ 64.308 · +310 bugün",
+          "snapshot": {
+            "sourceId": "byoungd/up",
+            "capturedAt": "2026-09-28T10:54:52.458Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 64308,
+              "engagementCount": 310,
+              "rank": 6,
+              "extra": {
+                "starsToday": 310
+              }
+            }
+          }
+        },
+        {
+          "title": "mvschwarz/openrig",
+          "url": "https://github.com/mvschwarz/openrig",
+          "summary": "Openrig, Anthropic'in kodlama aracı Claude Code ve OpenAI'ın kodlama modeli Codex'i tek bir sistemde birleştiren çoklu ajan (multi-agent) altyapısıdır. Geliştiricilerin farklı yapay zekâ modellerini aynı iş akışında eş zamanlı kullanmasına olanak tanır.",
+          "meta": "TypeScript · ★ 1.312 · +114 bugün",
+          "snapshot": {
+            "sourceId": "mvschwarz/openrig",
+            "capturedAt": "2026-09-28T10:54:52.458Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 1312,
+              "engagementCount": 114,
+              "rank": 7,
+              "extra": {
+                "starsToday": 114
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "When did Google get so weird?",
+          "url": "https://sancho.bearblog.dev/google-weird/",
+          "summary": "Kullanıcılar, arama motoru Google'ın sunduğu sonuçların geçmişe kıyasla daha karmaşık ve alakasız hale geldiğini tartışıyor. Arama sonuçlarında reklamların artması ve içerik kalitesindeki düşüş, platformun temel işlevselliğinin sorgulanmasına yol açıyor.",
+          "meta": "1.339 oy · 736 yorum",
+          "snapshot": {
+            "sourceId": "49870367",
+            "capturedAt": "2026-09-28T10:54:51.642Z",
+            "metadata": {
+              "popularity": 1339,
+              "engagementCount": 736,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49870367",
+                  "popularity": 1339,
+                  "engagementCount": 736
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "sancho-panza",
+                "createdAt": "2026-09-27T20:12:54Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49870367"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49870367",
+              "popularity": 1339,
+              "engagementCount": 736
+            }
+          ]
+        },
+        {
+          "title": "Owed a billion dollars in Nvidia stock",
+          "url": "https://colo.to/nvidia-stock-narrative.html",
+          "summary": "Nvidia hisselerinin piyasa değerindeki hızlı yükseliş, teknoloji dünyasında şirket hisselerine dayalı servet birikimi üzerine tartışmaları tetikliyor. Yatırımcılar, büyük teknoloji şirketlerinde çalışan mühendislerin hisse senedi opsiyonları (stock options) üzerinden elde ettiği kazançların ekonomik etkilerini ve bu durumun yarattığı yeni zenginlik profilini analiz ediyor.",
+          "meta": "743 oy · 306 yorum",
+          "snapshot": {
+            "sourceId": "49872723",
+            "capturedAt": "2026-09-28T10:54:51.642Z",
+            "metadata": {
+              "popularity": 743,
+              "engagementCount": 306,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49872723",
+                  "popularity": 743,
+                  "engagementCount": 306
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "Eric_Gullichsen",
+                "createdAt": "2026-09-28T02:05:13Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49872723"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49872723",
+              "popularity": 743,
+              "engagementCount": 306
+            }
+          ]
+        },
+        {
+          "title": "Ember-1",
+          "url": "https://fireworks.ai/blog/ember-1",
+          "summary": "Fireworks AI tarafından geliştirilen Ember-1, yüksek performanslı bir çok modlu büyük dil modeli (multimodal large language model). Görsel işleme ve metin üretme yeteneklerini birleştiren bu model, karmaşık görsel verileri analiz ederek hızlı yanıtlar oluşturmayı hedefliyor.",
+          "meta": "477 oy · 219 yorum",
+          "snapshot": {
+            "sourceId": "49868830",
+            "capturedAt": "2026-09-28T10:54:51.642Z",
+            "metadata": {
+              "popularity": 477,
+              "engagementCount": 219,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49868830",
+                  "popularity": 477,
+                  "engagementCount": 219
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "gmays",
+                "createdAt": "2026-09-27T17:31:53Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49868830"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49868830",
+              "popularity": 477,
+              "engagementCount": 219
+            }
+          ]
+        },
+        {
+          "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+          "url": "https://loficities.com/",
+          "summary": "Lofi Cities, tarayıcı tabanlı üretken müzik (generative music) ile piksel sanatı şehir manzaralarını birleştiren bir görsel-işitsel deneyim platformu. Kullanıcıların tarayıcı üzerinden oluşturulan lo-fi müzikler eşliğinde dijital şehir atmosferlerini izlemesine olanak tanıyor.",
+          "meta": "255 oy · 112 yorum",
+          "snapshot": {
+            "sourceId": "49869574",
+            "capturedAt": "2026-09-28T10:54:51.642Z",
+            "metadata": {
+              "popularity": 255,
+              "engagementCount": 112,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49869574",
+                  "popularity": 255,
+                  "engagementCount": 112
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "safaelmali",
+                "createdAt": "2026-09-27T18:44:30Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49869574"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49869574",
+              "popularity": 255,
+              "engagementCount": 112
+            }
+          ]
+        },
+        {
+          "title": "In an $80 motel room, a discovery to shed light on the origins of life",
+          "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+          "summary": "Bir motel odasında yürütülen araştırmalar, yaşamın kökenine dair biyolojik süreçlerin nasıl başladığına dair yeni bulgular sunuyor. Bu çalışma, karmaşık laboratuvar ortamları dışında da temel bilimsel keşiflerin yapılabileceğini gösteriyor.",
+          "meta": "251 oy · 94 yorum",
+          "snapshot": {
+            "sourceId": "49866951",
+            "capturedAt": "2026-09-28T10:54:51.642Z",
+            "metadata": {
+              "popularity": 251,
+              "engagementCount": 94,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49866951",
+                  "popularity": 251,
+                  "engagementCount": 94
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "danso",
+                "createdAt": "2026-09-27T14:30:55Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49866951"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49866951",
+              "popularity": 251,
+              "engagementCount": 94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Depth-adaptive Inference of Looped Language Models via Continuous Depth Batching",
+          "url": "https://huggingface.co/papers/2608.09444",
+          "summary": "Döngüsel dil modelleri (looped language models), karmaşıklığına göre farklı işlem derinlikleri kullanarak hesaplama maliyetini optimize eder. Sürekli derinlik gruplama (continuous depth batching) yöntemi, farklı döngü sayılarına sahip belirteçlerin (tokens) standart çıkarım motorlarında (vLLM gibi) verimli şekilde işlenmesini sağlar.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2608.09444",
+            "capturedAt": "2026-09-28T10:54:51.446Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.09444",
+                "publishedAt": "2026-09-25T00:00:00.000Z",
+                "githubRepo": "https://github.com/kschwethelm/continuous-depth-batching"
+              }
+            }
+          }
+        },
+        {
+          "title": "BoundInk: Boundary-Aware Online Handwriting Generation",
+          "url": "https://huggingface.co/papers/2604.02103",
+          "summary": "BoundInk, el yazısı üretiminde karakterler arasındaki bağlantı ve boşlukları sınır farkındalığı (boundary-awareness) ile işleyen bir çerçeve sunuyor. Bu yöntem, geleneksel dizi modelleme tekniklerinin aksine karakter geçişlerini doğrudan ele alarak daha tutarlı ve gerçekçi el yazısı çıktıları oluşturuyor.",
+          "meta": "0 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2604.02103",
+            "capturedAt": "2026-09-28T10:54:51.446Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2604.02103",
+                "publishedAt": "2026-09-20T00:00:00.000Z",
+                "githubRepo": "https://github.com/jinsu0000/cashg-official"
+              }
+            }
+          }
+        },
+        {
+          "title": "IndicBankBench: Evaluating Safety and Reliability of Language Model Assistants in Indian Retail Banking",
+          "url": "https://huggingface.co/papers/2609.29167",
+          "summary": "IndicBankBench, Hindistan perakende bankacılık sektöründeki yapay zekâ asistanlarının güvenlik ve güvenilirliğini ölçmek için geliştirilmiş 799 vakalık bir kıyaslama testidir (benchmark). Bu çalışma, asistanların yanlış hesap seçimi veya güncel olmayan veriye dayanma gibi süreç hatalarını tespit ederek model performansını kapsamlı şekilde değerlendirmeyi amaçlıyor.",
+          "meta": "4 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.29167",
+            "capturedAt": "2026-09-28T10:54:51.446Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.29167",
+                "publishedAt": "2026-09-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/npci/IndicBankBench",
+                "githubStars": 2
+              }
+            }
+          }
+        },
+        {
+          "title": "Paragraph Boundaries Are Not White Space:Compression Depth as the Signature of Hierarchical Structure",
+          "url": "https://huggingface.co/papers/2609.23551",
+          "summary": "Hiyerarşik döner konumsal kodlama (hierarchical rotary positional encoding), metin yapısındaki paragraf ve cümle sınırlarını tek boyutlu okuma sırasından bağımsız kanallar olarak tanımlıyor. Bu yöntem, dil modellerinin (large language models) metin içindeki hiyerarşik ilişkileri daha hassas anlamasını sağlıyor.",
+          "meta": "1 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.23551",
+            "capturedAt": "2026-09-28T10:54:51.446Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.23551",
+                "publishedAt": "2026-09-20T00:00:00.000Z",
+                "githubRepo": "https://github.com/ShuyangenFrance/hrope",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Enhancing Photogrammetric Digital Surface Models with Pretrained Diffusion Models and Multimodal Conditioning",
+          "url": "https://huggingface.co/papers/2609.31199",
+          "summary": "Uydu görüntülerinden elde edilen dijital yüzey modellerindeki (digital surface models) gürültü ve boşlukları gidermek için önceden eğitilmiş yayılım modelleri (diffusion models) kullanılıyor. Bu yöntem, fotogrametrik verileri ve Pléiades uydu görüntülerini birleştirerek daha düşük maliyetle yüksek doğrulukta 3D haritalar oluşturulmasını sağlıyor.",
+          "meta": "6 beğeni · 1 yorum",
+          "snapshot": {
+            "sourceId": "2609.31199",
+            "capturedAt": "2026-09-28T10:54:51.446Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.31199",
+                "publishedAt": "2026-09-25T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "“They had no concept of a duty of care to their users.”",
+          "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+          "summary": "Yazılım geliştirme süreçlerinde kullanıcıya karşı sorumluluk bilincinin (duty of care) eksikliği, dijital platformların güvenlik ve etik standartlarını tartışmaya açıyor. Bu yaklaşım, yazılım tasarımı sırasında kullanıcı güvenliğinin teknik gereksinimlerin gerisinde kalmasının yarattığı risklere dikkat çekiyor.",
+          "meta": "147 oy · 39 yorum",
+          "snapshot": {
+            "sourceId": "1colyy",
+            "capturedAt": "2026-09-28T10:54:51.690Z",
+            "metadata": {
+              "popularity": 147,
+              "engagementCount": 39,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/1colyy/they_had_no_concept_duty_care_their_users",
+                  "popularity": 147,
+                  "engagementCount": 39
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vim"
+                ],
+                "createdAt": "2026-09-27T09:44:53.153-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/1colyy/they_had_no_concept_duty_care_their_users",
+              "popularity": 147,
+              "engagementCount": 39
+            }
+          ]
+        },
+        {
+          "title": "What makes Lisp difficult to read?",
+          "url": "https://paultm.nl/paren-thesis",
+          "summary": "Lisp programlama dilinin okunabilirliğini zorlaştıran temel unsur, kod yapısını oluşturan yoğun parantez kullanımıdır. Bu durum, alışılagelmiş sözdizimi (syntax) kurallarından farklı bir yapı sunduğu için geliştiricilerin kodu çözümlemesini güçleştirir.",
+          "meta": "20 oy · 8 yorum",
+          "snapshot": {
+            "sourceId": "fqype1",
+            "capturedAt": "2026-09-28T10:54:51.690Z",
+            "metadata": {
+              "popularity": 20,
+              "engagementCount": 8,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/fqype1/what_makes_lisp_difficult_read",
+                  "popularity": 20,
+                  "engagementCount": 8
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "plt"
+                ],
+                "createdAt": "2026-09-27T23:44:02.263-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/fqype1/what_makes_lisp_difficult_read",
+              "popularity": 20,
+              "engagementCount": 8
+            }
+          ]
+        },
+        {
+          "title": "postmarketOS rebrands as Nura",
+          "url": "https://nura.eco/blog/2026/09/27/nura-rename/",
+          "summary": "Mobil cihazlar için geliştirilen açık kaynaklı işletim sistemi postmarketOS, marka kimliğini Nura olarak yeniledi. Bu değişimle birlikte proje, sürdürülebilir donanım ve uzun süreli yazılım desteği vizyonunu yeni bir isimle sürdürüyor.",
+          "meta": "64 oy · 9 yorum",
+          "snapshot": {
+            "sourceId": "msjitj",
+            "capturedAt": "2026-09-28T10:54:51.690Z",
+            "metadata": {
+              "popularity": 64,
+              "engagementCount": 9,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/msjitj/postmarketos_rebrands_as_nura",
+                  "popularity": 64,
+                  "engagementCount": 9
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "linux"
+                ],
+                "createdAt": "2026-09-27T12:34:21.672-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/msjitj/postmarketos_rebrands_as_nura",
+              "popularity": 64,
+              "engagementCount": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "phased array radar",
+      "explanation": "Hareketli parçalar yerine elektronik sinyalleri yönlendirerek nesneleri takip eden gelişmiş bir tarama sistemi."
+    },
+    {
+      "term": "systems programming",
+      "explanation": "Bilgisayarın donanımıyla doğrudan iletişim kuran işletim sistemi ve sürücü gibi temel yazılımların geliştirilmesi."
+    },
+    {
+      "term": "artificial intelligence",
+      "explanation": "Bilgisayarların insanlar gibi öğrenme, mantık yürütme ve problem çözme yeteneği kazanması."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "Birbirleriyle iletişim kurarak ortak bir görevi yerine getiren birden fazla bağımsız yazılımın bir arada çalışması."
+    },
+    {
+      "term": "stock options",
+      "explanation": "Çalışanlara şirketin hisselerini gelecekte belirli bir fiyattan satın alma hakkı veren bir teşvik yöntemi."
+    },
+    {
+      "term": "multimodal large language model",
+      "explanation": "Sadece metni değil, aynı zamanda görsel ve ses gibi farklı veri türlerini de anlayıp işleyebilen yapay zekâ modelleri."
+    },
+    {
+      "term": "generative music",
+      "explanation": "Yapay zekâ tarafından kurallar çerçevesinde otomatik olarak bestelenen veya oluşturulan müzik."
+    },
+    {
+      "term": "looped language models",
+      "explanation": "Ürettiği çıktıyı tekrar girdi olarak kullanarak sürekli yeni içerik türeten döngüsel yapay zekâ yapıları."
+    },
+    {
+      "term": "continuous depth batching",
+      "explanation": "Yapay zekâ modellerinin aynı anda gelen çok sayıda isteği beklemeden, sürekli ve hızlı bir şekilde işlemesini sağlayan yöntem."
+    }
+  ]
+}

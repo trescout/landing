@@ -1,0 +1,543 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-28",
+  "capturedAt": "2026-09-28T10:54:51.294Z",
+  "editorial": "Ce rapport contient les tendances qui sont apparues pour la première fois aujourd'hui, sans répéter les enregistrements figurant dans les rapports normaux des 30 derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "NawfalMotii79/PLFM_RADAR",
+          "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+          "summary": "PLFM_RADAR est un système de radar à balayage électronique (phased array radar) open source et à faible coût fonctionnant à une fréquence de 10,5 GHz. Ce projet basé sur le matériel vise à rendre les technologies de détection par radiofréquence accessibles.",
+          "meta": "PLSQL · ★ 25 587 · +145 aujourd'hui",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "NawfalMotii79/PLFM_RADAR",
+            "capturedAt": "2026-09-28T10:54:52.458Z",
+            "metadata": {
+              "language": "PLSQL",
+              "popularity": 25587,
+              "engagementCount": 145,
+              "rank": 4,
+              "extra": {
+                "starsToday": 145
+              }
+            }
+          }
+        },
+        {
+          "title": "cs341-illinois/coursebook",
+          "url": "https://github.com/cs341-illinois/coursebook",
+          "summary": "Le coursebook préparé par l'Université de l'Illinois est un manuel open source expliquant les bases de la programmation système (systems programming). Présentée au format TeX, cette ressource fournit un matériel pédagogique complet pour ceux qui souhaitent apprendre les processus de développement logiciel de bas niveau.",
+          "meta": "TeX · ★ 2 193 · +265 aujourd'hui",
+          "snapshot": {
+            "sourceId": "cs341-illinois/coursebook",
+            "capturedAt": "2026-09-28T10:54:52.458Z",
+            "metadata": {
+              "language": "TeX",
+              "popularity": 2193,
+              "engagementCount": 265,
+              "rank": 5,
+              "extra": {
+                "starsToday": 265
+              }
+            }
+          }
+        },
+        {
+          "title": "byoungd/up",
+          "url": "https://github.com/byoungd/up",
+          "summary": "byoungd/up est un guide complet proposant des ressources de développement personnel allant des processus de développement logiciel à l'apprentissage des langues. Il contient des conseils pratiques axés notamment sur l'utilisation efficace des outils d'intelligence artificielle (artificial intelligence) et les méthodes d'apprentissage de l'anglais.",
+          "meta": "JavaScript · ★ 64 308 · +310 aujourd'hui",
+          "snapshot": {
+            "sourceId": "byoungd/up",
+            "capturedAt": "2026-09-28T10:54:52.458Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 64308,
+              "engagementCount": 310,
+              "rank": 6,
+              "extra": {
+                "starsToday": 310
+              }
+            }
+          }
+        },
+        {
+          "title": "mvschwarz/openrig",
+          "url": "https://github.com/mvschwarz/openrig",
+          "summary": "Openrig est une infrastructure multi-agents (multi-agent) qui combine l'outil de codage Claude Code d'Anthropic et le modèle de codage Codex d'OpenAI dans un seul système. Elle permet aux développeurs d'utiliser simultanément différents modèles d'intelligence artificielle dans le même flux de travail.",
+          "meta": "TypeScript · ★ 1 312 · +114 aujourd'hui",
+          "snapshot": {
+            "sourceId": "mvschwarz/openrig",
+            "capturedAt": "2026-09-28T10:54:52.458Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 1312,
+              "engagementCount": 114,
+              "rank": 7,
+              "extra": {
+                "starsToday": 114
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "When did Google get so weird?",
+          "url": "https://sancho.bearblog.dev/google-weird/",
+          "summary": "Les utilisateurs débattent du fait que les résultats fournis par le moteur de recherche Google sont devenus plus complexes et moins pertinents qu'auparavant. L'augmentation des publicités dans les résultats de recherche et la baisse de la qualité du contenu amènent à remettre en question la fonctionnalité fondamentale de la plateforme.",
+          "meta": "1 339 votes · 736 commentaires",
+          "snapshot": {
+            "sourceId": "49870367",
+            "capturedAt": "2026-09-28T10:54:51.642Z",
+            "metadata": {
+              "popularity": 1339,
+              "engagementCount": 736,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49870367",
+                  "popularity": 1339,
+                  "engagementCount": 736
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "sancho-panza",
+                "createdAt": "2026-09-27T20:12:54Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49870367"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49870367",
+              "popularity": 1339,
+              "engagementCount": 736
+            }
+          ]
+        },
+        {
+          "title": "Owed a billion dollars in Nvidia stock",
+          "url": "https://colo.to/nvidia-stock-narrative.html",
+          "summary": "La hausse rapide de la valeur boursière des actions Nvidia déclenche des débats dans le monde technologique sur l'accumulation de richesse basée sur les actions d'entreprise. Les investisseurs analysent les impacts économiques des gains réalisés par les ingénieurs travaillant dans les grandes entreprises technologiques via des options d'achat d'actions (stock options) et le nouveau profil de richesse que cette situation engendre.",
+          "meta": "743 votes · 306 commentaires",
+          "snapshot": {
+            "sourceId": "49872723",
+            "capturedAt": "2026-09-28T10:54:51.642Z",
+            "metadata": {
+              "popularity": 743,
+              "engagementCount": 306,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49872723",
+                  "popularity": 743,
+                  "engagementCount": 306
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "Eric_Gullichsen",
+                "createdAt": "2026-09-28T02:05:13Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49872723"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49872723",
+              "popularity": 743,
+              "engagementCount": 306
+            }
+          ]
+        },
+        {
+          "title": "Ember-1",
+          "url": "https://fireworks.ai/blog/ember-1",
+          "summary": "Ember-1, développé par Fireworks AI, est un grand modèle multimodal (multimodal large language model) haute performance. Combinant des capacités de traitement visuel et de génération de texte, ce modèle vise à analyser des données visuelles complexes pour générer des réponses rapides.",
+          "meta": "477 votes · 219 commentaires",
+          "snapshot": {
+            "sourceId": "49868830",
+            "capturedAt": "2026-09-28T10:54:51.642Z",
+            "metadata": {
+              "popularity": 477,
+              "engagementCount": 219,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49868830",
+                  "popularity": 477,
+                  "engagementCount": 219
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "gmays",
+                "createdAt": "2026-09-27T17:31:53Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49868830"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49868830",
+              "popularity": 477,
+              "engagementCount": 219
+            }
+          ]
+        },
+        {
+          "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+          "url": "https://loficities.com/",
+          "summary": "Lofi Cities est une plateforme d'expérience audiovisuelle qui combine de la musique générative basée sur navigateur avec des paysages urbains en pixel art. Elle permet aux utilisateurs de regarder des atmosphères urbaines numériques accompagnées de musique lo-fi générée via le navigateur.",
+          "meta": "255 votes · 112 commentaires",
+          "snapshot": {
+            "sourceId": "49869574",
+            "capturedAt": "2026-09-28T10:54:51.642Z",
+            "metadata": {
+              "popularity": 255,
+              "engagementCount": 112,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49869574",
+                  "popularity": 255,
+                  "engagementCount": 112
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "safaelmali",
+                "createdAt": "2026-09-27T18:44:30Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49869574"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49869574",
+              "popularity": 255,
+              "engagementCount": 112
+            }
+          ]
+        },
+        {
+          "title": "In an $80 motel room, a discovery to shed light on the origins of life",
+          "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+          "summary": "Des recherches menées dans une chambre de motel offrent de nouvelles découvertes sur la manière dont les processus biologiques liés à l'origine de la vie ont commencé. Cette étude montre que des découvertes scientifiques fondamentales peuvent être réalisées en dehors des environnements de laboratoire complexes.",
+          "meta": "251 votes · 94 commentaires",
+          "snapshot": {
+            "sourceId": "49866951",
+            "capturedAt": "2026-09-28T10:54:51.642Z",
+            "metadata": {
+              "popularity": 251,
+              "engagementCount": 94,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49866951",
+                  "popularity": 251,
+                  "engagementCount": 94
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "danso",
+                "createdAt": "2026-09-27T14:30:55Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49866951"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49866951",
+              "popularity": 251,
+              "engagementCount": 94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Depth-adaptive Inference of Looped Language Models via Continuous Depth Batching",
+          "url": "https://huggingface.co/papers/2608.09444",
+          "summary": "Les modèles de langage en boucle (looped language models) optimisent le coût de calcul en utilisant différentes profondeurs de traitement selon la complexité. La méthode de regroupement continu de la profondeur (continuous depth batching) permet aux jetons (tokens) ayant des nombres de boucles différents d'être traités efficacement dans des moteurs d'inférence standard (comme vLLM).",
+          "meta": "1 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2608.09444",
+            "capturedAt": "2026-09-28T10:54:51.446Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.09444",
+                "publishedAt": "2026-09-25T00:00:00.000Z",
+                "githubRepo": "https://github.com/kschwethelm/continuous-depth-batching"
+              }
+            }
+          }
+        },
+        {
+          "title": "BoundInk: Boundary-Aware Online Handwriting Generation",
+          "url": "https://huggingface.co/papers/2604.02103",
+          "summary": "BoundInk propose un cadre qui traite les connexions et les espaces entre les caractères dans la production d'écriture manuscrite avec une conscience des limites (boundary-awareness). Contrairement aux techniques traditionnelles de modélisation de séquences, cette méthode traite directement les transitions entre les caractères pour créer des sorties manuscrites plus cohérentes et réalistes.",
+          "meta": "0 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2604.02103",
+            "capturedAt": "2026-09-28T10:54:51.446Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2604.02103",
+                "publishedAt": "2026-09-20T00:00:00.000Z",
+                "githubRepo": "https://github.com/jinsu0000/cashg-official"
+              }
+            }
+          }
+        },
+        {
+          "title": "IndicBankBench: Evaluating Safety and Reliability of Language Model Assistants in Indian Retail Banking",
+          "url": "https://huggingface.co/papers/2609.29167",
+          "summary": "IndicBankBench est un test de référence (benchmark) de 799 cas développé pour mesurer la sécurité et la fiabilité des assistants d'intelligence artificielle dans le secteur de la banque de détail en Inde. Cette étude vise à évaluer de manière exhaustive les performances des modèles en détectant les erreurs de processus telles que la sélection de compte erronée ou le recours à des données obsolètes.",
+          "meta": "4 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.29167",
+            "capturedAt": "2026-09-28T10:54:51.446Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.29167",
+                "publishedAt": "2026-09-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/npci/IndicBankBench",
+                "githubStars": 2
+              }
+            }
+          }
+        },
+        {
+          "title": "Paragraph Boundaries Are Not White Space:Compression Depth as the Signature of Hierarchical Structure",
+          "url": "https://huggingface.co/papers/2609.23551",
+          "summary": "Le codage positionnel rotatif hiérarchique (hierarchical rotary positional encoding) définit les limites des paragraphes et des phrases dans la structure du texte comme des canaux indépendants de l'ordre de lecture unidimensionnel. Cette méthode permet aux grands modèles de langage (large language models) de mieux comprendre les relations hiérarchiques au sein du texte.",
+          "meta": "1 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.23551",
+            "capturedAt": "2026-09-28T10:54:51.446Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.23551",
+                "publishedAt": "2026-09-20T00:00:00.000Z",
+                "githubRepo": "https://github.com/ShuyangenFrance/hrope",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Enhancing Photogrammetric Digital Surface Models with Pretrained Diffusion Models and Multimodal Conditioning",
+          "url": "https://huggingface.co/papers/2609.31199",
+          "summary": "Des modèles de diffusion pré-entraînés sont utilisés pour éliminer le bruit et les lacunes dans les modèles numériques de surface (digital surface models) obtenus à partir d'images satellites. Cette méthode permet de créer des cartes 3D de haute précision à moindre coût en combinant des données photogrammétriques et des images satellites Pléiades.",
+          "meta": "6 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.31199",
+            "capturedAt": "2026-09-28T10:54:51.446Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.31199",
+                "publishedAt": "2026-09-25T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "“They had no concept of a duty of care to their users.”",
+          "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+          "summary": "Le manque de conscience de la responsabilité envers l'utilisateur (duty of care) dans les processus de développement logiciel remet en question les normes de sécurité et d'éthique des plateformes numériques. Cette approche attire l'attention sur les risques créés par le fait que la sécurité des utilisateurs passe au second plan par rapport aux exigences techniques lors de la conception des logiciels.",
+          "meta": "147 votes · 39 commentaires",
+          "snapshot": {
+            "sourceId": "1colyy",
+            "capturedAt": "2026-09-28T10:54:51.690Z",
+            "metadata": {
+              "popularity": 147,
+              "engagementCount": 39,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/1colyy/they_had_no_concept_duty_care_their_users",
+                  "popularity": 147,
+                  "engagementCount": 39
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vim"
+                ],
+                "createdAt": "2026-09-27T09:44:53.153-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/1colyy/they_had_no_concept_duty_care_their_users",
+              "popularity": 147,
+              "engagementCount": 39
+            }
+          ]
+        },
+        {
+          "title": "What makes Lisp difficult to read?",
+          "url": "https://paultm.nl/paren-thesis",
+          "summary": "L'élément fondamental qui rend la lisibilité du langage de programmation Lisp difficile est l'utilisation intensive de parenthèses qui constituent la structure du code. Cette situation complique l'analyse du code par les développeurs car elle présente une structure différente des règles de syntaxe habituelles.",
+          "meta": "20 votes · 8 commentaires",
+          "snapshot": {
+            "sourceId": "fqype1",
+            "capturedAt": "2026-09-28T10:54:51.690Z",
+            "metadata": {
+              "popularity": 20,
+              "engagementCount": 8,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/fqype1/what_makes_lisp_difficult_read",
+                  "popularity": 20,
+                  "engagementCount": 8
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "plt"
+                ],
+                "createdAt": "2026-09-27T23:44:02.263-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/fqype1/what_makes_lisp_difficult_read",
+              "popularity": 20,
+              "engagementCount": 8
+            }
+          ]
+        },
+        {
+          "title": "postmarketOS rebrands as Nura",
+          "url": "https://nura.eco/blog/2026/09/27/nura-rename/",
+          "summary": "Le système d'exploitation open source développé pour les appareils mobiles, postmarketOS, a renouvelé son identité de marque sous le nom de Nura. Avec ce changement, le projet poursuit sa vision de matériel durable et de support logiciel à long terme sous un nouveau nom.",
+          "meta": "64 votes · 9 commentaires",
+          "snapshot": {
+            "sourceId": "msjitj",
+            "capturedAt": "2026-09-28T10:54:51.690Z",
+            "metadata": {
+              "popularity": 64,
+              "engagementCount": 9,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/msjitj/postmarketos_rebrands_as_nura",
+                  "popularity": 64,
+                  "engagementCount": 9
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "linux"
+                ],
+                "createdAt": "2026-09-27T12:34:21.672-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/msjitj/postmarketos_rebrands_as_nura",
+              "popularity": 64,
+              "engagementCount": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "phased array radar",
+      "explanation": "Un système de balayage avancé qui suit les objets en dirigeant des signaux électroniques au lieu de pièces mobiles."
+    },
+    {
+      "term": "systems programming",
+      "explanation": "Développement de logiciels de base tels que le système d'exploitation et les pilotes qui communiquent directement avec le matériel de l'ordinateur."
+    },
+    {
+      "term": "artificial intelligence",
+      "explanation": "L'acquisition par les ordinateurs de la capacité d'apprendre, de raisonner et de résoudre des problèmes comme les humains."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "Le fonctionnement conjoint de plusieurs logiciels indépendants qui communiquent entre eux pour accomplir une tâche commune."
+    },
+    {
+      "term": "stock options",
+      "explanation": "Une méthode d'incitation qui donne aux employés le droit d'acheter des actions de l'entreprise à un prix déterminé à l'avenir."
+    },
+    {
+      "term": "multimodal large language model",
+      "explanation": "Modèles d'intelligence artificielle capables de comprendre et de traiter non seulement du texte, mais aussi différents types de données tels que des images et du son."
+    },
+    {
+      "term": "generative music",
+      "explanation": "Musique composée ou créée automatiquement par l'intelligence artificielle dans le cadre de règles définies."
+    },
+    {
+      "term": "looped language models",
+      "explanation": "Structures d'intelligence artificielle cycliques qui génèrent continuellement de nouveaux contenus en utilisant leur propre sortie comme entrée."
+    },
+    {
+      "term": "continuous depth batching",
+      "explanation": "Méthode permettant aux modèles d'intelligence artificielle de traiter un grand nombre de requêtes simultanées de manière continue et rapide, sans attente."
+    }
+  ]
+}

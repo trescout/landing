@@ -1,0 +1,813 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-28",
+  "capturedAt": "2026-09-28T10:54:51.294Z",
+  "editorial": "Hoje, na agenda tecnológica, os trabalhos de código aberto sobre ferramentas de processamento de voz (voice processing tools) e modelos de geração de imagem (image generation models) chamam a atenção. As discussões em plataformas como Hacker News e Lobsters concentram-se na qualidade do motor de busca do Google e nas questões de responsabilidade ética (duty of care) nos processos de desenvolvimento de software.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "summary": "O VoiceStudio é uma plataforma de processamento de voz de código aberto que realiza operações como clonagem de voz, design de som e dublagem de vídeo sem conexão com a internet. Oferecendo uma alternativa local ao serviço de síntese de voz ElevenLabs, permite a narração de textos, ditado e criação de audiolivros em 646 idiomas diferentes.",
+          "meta": "Python · ★ 41.433 · +3.086 hoje",
+          "snapshot": {
+            "sourceId": "debpalash/VoiceStudio",
+            "capturedAt": "2026-09-28T10:54:52.458Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 41433,
+              "engagementCount": 3086,
+              "rank": 1,
+              "extra": {
+                "starsToday": 3086
+              }
+            }
+          }
+        },
+        {
+          "title": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "summary": "O Paperclip é uma aplicação de código aberto desenvolvida para gerir agentes de inteligência artificial (AI agents) no local de trabalho. O software permite o controlo centralizado de assistentes digitais que operam em diferentes plataformas.",
+          "meta": "TypeScript · ★ 91.457 · +2.401 hoje",
+          "snapshot": {
+            "sourceId": "paperclipai/paperclip",
+            "capturedAt": "2026-09-28T10:54:52.458Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 91457,
+              "engagementCount": 2401,
+              "rank": 2,
+              "extra": {
+                "starsToday": 2401
+              }
+            }
+          }
+        },
+        {
+          "title": "vectorize-io/hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "summary": "O Hindsight é uma biblioteca Python que permite aos agentes de inteligência artificial melhorar a sua memória ao aprender com interações passadas. Permite que os agentes armazenem as suas experiências como dados estruturados e utilizem essas informações em tarefas futuras.",
+          "meta": "Python · ★ 39.394 · +4.520 hoje",
+          "snapshot": {
+            "sourceId": "vectorize-io/hindsight",
+            "capturedAt": "2026-09-28T10:54:52.458Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 39394,
+              "engagementCount": 4520,
+              "rank": 3,
+              "extra": {
+                "starsToday": 4520
+              }
+            }
+          }
+        },
+        {
+          "title": "NawfalMotii79/PLFM_RADAR",
+          "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+          "summary": "O PLFM_RADAR é um sistema de radar de matriz faseada (phased array radar) de código aberto e baixo custo que opera na frequência de 10,5 GHz. Este projeto baseado em hardware visa tornar as tecnologias de deteção de radiofrequência acessíveis.",
+          "meta": "PLSQL · ★ 25.587 · +145 hoje",
+          "snapshot": {
+            "sourceId": "NawfalMotii79/PLFM_RADAR",
+            "capturedAt": "2026-09-28T10:54:52.458Z",
+            "metadata": {
+              "language": "PLSQL",
+              "popularity": 25587,
+              "engagementCount": 145,
+              "rank": 4,
+              "extra": {
+                "starsToday": 145
+              }
+            }
+          }
+        },
+        {
+          "title": "cs341-illinois/coursebook",
+          "url": "https://github.com/cs341-illinois/coursebook",
+          "summary": "O coursebook, preparado pela Universidade de Illinois, é um livro didático de código aberto que explica os fundamentos da programação de sistemas (systems programming). Disponibilizado em formato TeX, este recurso fornece um material educativo abrangente para aqueles que desejam aprender processos de desenvolvimento de software de baixo nível.",
+          "meta": "TeX · ★ 2.193 · +265 hoje",
+          "snapshot": {
+            "sourceId": "cs341-illinois/coursebook",
+            "capturedAt": "2026-09-28T10:54:52.458Z",
+            "metadata": {
+              "language": "TeX",
+              "popularity": 2193,
+              "engagementCount": 265,
+              "rank": 5,
+              "extra": {
+                "starsToday": 265
+              }
+            }
+          }
+        },
+        {
+          "title": "byoungd/up",
+          "url": "https://github.com/byoungd/up",
+          "summary": "O byoungd/up é um guia abrangente que oferece recursos de desenvolvimento pessoal, desde processos de desenvolvimento de software até à aprendizagem de línguas. Contém dicas práticas focadas especialmente na utilização eficiente de ferramentas de inteligência artificial (artificial intelligence) e métodos de aprendizagem de inglês.",
+          "meta": "JavaScript · ★ 64.308 · +310 hoje",
+          "snapshot": {
+            "sourceId": "byoungd/up",
+            "capturedAt": "2026-09-28T10:54:52.458Z",
+            "metadata": {
+              "language": "JavaScript",
+              "popularity": 64308,
+              "engagementCount": 310,
+              "rank": 6,
+              "extra": {
+                "starsToday": 310
+              }
+            }
+          }
+        },
+        {
+          "title": "mvschwarz/openrig",
+          "url": "https://github.com/mvschwarz/openrig",
+          "summary": "O Openrig é uma infraestrutura multiagente (multi-agent) que combina a ferramenta de codificação Claude Code da Anthropic e o modelo de codificação Codex da OpenAI num único sistema. Permite que os programadores utilizem diferentes modelos de inteligência artificial simultaneamente no mesmo fluxo de trabalho.",
+          "meta": "TypeScript · ★ 1.312 · +114 hoje",
+          "snapshot": {
+            "sourceId": "mvschwarz/openrig",
+            "capturedAt": "2026-09-28T10:54:52.458Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 1312,
+              "engagementCount": 114,
+              "rank": 7,
+              "extra": {
+                "starsToday": 114
+              }
+            }
+          }
+        },
+        {
+          "title": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "summary": "O Univer é uma plataforma de código aberto que combina ferramentas de escritório como folhas de cálculo, documentos, apresentações e PDF num único runtime. Concebida para agentes de inteligência artificial, esta estrutura permite gerir diferentes tipos de documentos numa interface centralizada.",
+          "meta": "TypeScript · ★ 20.898 · +895 hoje",
+          "snapshot": {
+            "sourceId": "dream-num/univer",
+            "capturedAt": "2026-09-28T10:54:52.458Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 20898,
+              "engagementCount": 895,
+              "rank": 8,
+              "extra": {
+                "starsToday": 895
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "When did Google get so weird?",
+          "url": "https://sancho.bearblog.dev/google-weird/",
+          "summary": "Os utilizadores discutem que os resultados apresentados pelo motor de busca Google se tornaram mais complexos e irrelevantes em comparação com o passado. O aumento de anúncios nos resultados de pesquisa e a queda na qualidade do conteúdo levam ao questionamento da funcionalidade básica da plataforma.",
+          "meta": "1.339 pontos · 736 comentários",
+          "snapshot": {
+            "sourceId": "49870367",
+            "capturedAt": "2026-09-28T10:54:51.642Z",
+            "metadata": {
+              "popularity": 1339,
+              "engagementCount": 736,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49870367",
+                  "popularity": 1339,
+                  "engagementCount": 736
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "sancho-panza",
+                "createdAt": "2026-09-27T20:12:54Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49870367"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49870367",
+              "popularity": 1339,
+              "engagementCount": 736
+            }
+          ]
+        },
+        {
+          "title": "Owed a billion dollars in Nvidia stock",
+          "url": "https://colo.to/nvidia-stock-narrative.html",
+          "summary": "A rápida subida do valor de mercado das ações da Nvidia desencadeia discussões no mundo tecnológico sobre a acumulação de riqueza baseada em ações de empresas. Os investidores analisam os impactos económicos dos ganhos obtidos pelos engenheiros que trabalham em grandes empresas tecnológicas através de opções de ações (stock options) e o novo perfil de riqueza criado por esta situação.",
+          "meta": "743 pontos · 306 comentários",
+          "snapshot": {
+            "sourceId": "49872723",
+            "capturedAt": "2026-09-28T10:54:51.642Z",
+            "metadata": {
+              "popularity": 743,
+              "engagementCount": 306,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49872723",
+                  "popularity": 743,
+                  "engagementCount": 306
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "Eric_Gullichsen",
+                "createdAt": "2026-09-28T02:05:13Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49872723"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49872723",
+              "popularity": 743,
+              "engagementCount": 306
+            }
+          ]
+        },
+        {
+          "title": "Ember-1",
+          "url": "https://fireworks.ai/blog/ember-1",
+          "summary": "O Ember-1, desenvolvido pela Fireworks AI, é um grande modelo de linguagem multimodal (multimodal large language model) de alto desempenho. Combinando capacidades de processamento visual e geração de texto, este modelo visa analisar dados visuais complexos para gerar respostas rápidas.",
+          "meta": "477 pontos · 219 comentários",
+          "snapshot": {
+            "sourceId": "49868830",
+            "capturedAt": "2026-09-28T10:54:51.642Z",
+            "metadata": {
+              "popularity": 477,
+              "engagementCount": 219,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49868830",
+                  "popularity": 477,
+                  "engagementCount": 219
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "gmays",
+                "createdAt": "2026-09-27T17:31:53Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49868830"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49868830",
+              "popularity": 477,
+              "engagementCount": 219
+            }
+          ]
+        },
+        {
+          "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+          "url": "https://loficities.com/",
+          "summary": "Lofi Cities é uma plataforma de experiência audiovisual que combina música generativa baseada em navegador com paisagens urbanas em pixel art. Permite que os usuários observem atmosferas urbanas digitais acompanhadas por músicas lo-fi geradas via navegador.",
+          "meta": "255 pontos · 112 comentários",
+          "snapshot": {
+            "sourceId": "49869574",
+            "capturedAt": "2026-09-28T10:54:51.642Z",
+            "metadata": {
+              "popularity": 255,
+              "engagementCount": 112,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49869574",
+                  "popularity": 255,
+                  "engagementCount": 112
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "safaelmali",
+                "createdAt": "2026-09-27T18:44:30Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49869574"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49869574",
+              "popularity": 255,
+              "engagementCount": 112
+            }
+          ]
+        },
+        {
+          "title": "In an $80 motel room, a discovery to shed light on the origins of life",
+          "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+          "summary": "Pesquisas conduzidas em um quarto de motel oferecem novas descobertas sobre como os processos biológicos relacionados à origem da vida começaram. Este estudo demonstra que descobertas científicas fundamentais podem ser feitas fora de ambientes laboratoriais complexos.",
+          "meta": "251 pontos · 94 comentários",
+          "snapshot": {
+            "sourceId": "49866951",
+            "capturedAt": "2026-09-28T10:54:51.642Z",
+            "metadata": {
+              "popularity": 251,
+              "engagementCount": 94,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49866951",
+                  "popularity": 251,
+                  "engagementCount": 94
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "danso",
+                "createdAt": "2026-09-27T14:30:55Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49866951"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49866951",
+              "popularity": 251,
+              "engagementCount": 94
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "convaiinnovations/laya",
+          "url": "https://huggingface.co/convaiinnovations/laya",
+          "summary": "Laya, compartilhado no HuggingFace, é um modelo de inteligência artificial desenvolvido para tarefas de classificação de texto (text classification). Esta ferramenta, que permite aos usuários categorizar dados de texto em grupos específicos, atende às necessidades de classificação em processos de processamento de linguagem natural.",
+          "meta": "♥ 4.199 · 0 downloads",
+          "snapshot": {
+            "sourceId": "convaiinnovations/laya",
+            "capturedAt": "2026-09-28T10:54:51.432Z",
+            "metadata": {
+              "popularity": 4199,
+              "engagementCount": 0,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 2596,
+                "pipelineTag": "text-classification",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "laya",
+                  "system-one",
+                  "calibrated-decisions",
+                  "rlcd",
+                  "classification",
+                  "routing",
+                  "scoring",
+                  "guardrails",
+                  "moderation",
+                  "reinforcement-learning",
+                  "commercial-use",
+                  "text-classification",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "summary": "Qwen-Image-2.1-Uncensored-GGUF é um modelo de inteligência artificial com capacidade de geração de imagem a partir de texto (text-to-image) e sem restrições. O modelo é oferecido em um formato de arquivo (GGUF) otimizado para rodar em dispositivos com hardware limitado.",
+          "meta": "♥ 2.166 · 1.062.921 downloads",
+          "snapshot": {
+            "sourceId": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+            "capturedAt": "2026-09-28T10:54:51.432Z",
+            "metadata": {
+              "popularity": 2166,
+              "engagementCount": 1062921,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1597,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "gguf",
+                  "qwen",
+                  "image-generation",
+                  "comfyui",
+                  "comfyui-gguf",
+                  "text-to-image",
+                  "base_model:Qwen/Qwen-Image-2.1",
+                  "base_model:quantized:Qwen/Qwen-Image-2.1",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen-Image-2.1",
+          "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+          "summary": "Desenvolvido pelo Alibaba, o Qwen-Image-2.1 é um modelo de texto para imagem (text-to-image) que cria imagens de alta resolução a partir de comandos de texto. Com sua estrutura de código aberto, oferece uma alternativa flexível nos processos de produção de conteúdo visual.",
+          "meta": "♥ 2.539 · 58.693 downloads",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen-Image-2.1",
+            "capturedAt": "2026-09-28T10:54:51.432Z",
+            "metadata": {
+              "popularity": 2539,
+              "engagementCount": 58693,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 1232,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "diffusers",
+                  "safetensors",
+                  "qwen",
+                  "image-generation",
+                  "image-editing",
+                  "rgba",
+                  "text-to-image",
+                  "license:other",
+                  "diffusers:QwenImage21Pipeline",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Edge0/Audio8-ASR-Infinite",
+          "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
+          "summary": "Publicado no HuggingFace, o Audio8-ASR-Infinite é um modelo de reconhecimento automático de fala (automatic speech recognition) que converte dados de áudio em texto. Com capacidades abrangentes de processamento de áudio, oferece aos desenvolvedores soluções de transcrição de alta precisão.",
+          "meta": "♥ 1.318 · 19.963 downloads",
+          "snapshot": {
+            "sourceId": "Edge0/Audio8-ASR-Infinite",
+            "capturedAt": "2026-09-28T10:54:51.432Z",
+            "metadata": {
+              "popularity": 1318,
+              "engagementCount": 19963,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 1170,
+                "pipelineTag": "automatic-speech-recognition",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "audio8_asr_infinite",
+                  "text-generation",
+                  "streaming",
+                  "realtime",
+                  "speech-recognition",
+                  "audio",
+                  "automatic-speech-recognition",
+                  "custom_code",
+                  "zh",
+                  "en",
+                  "license:apache-2.0",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "XingChen-AGI/Xing4.0-29B-A4B",
+          "url": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+          "summary": "Desenvolvido pela XingChen-AGI, o Xing4.0-29B-A4B é um modelo de inteligência artificial focado em geração de texto (text-generation). Hospedado na plataforma HuggingFace, este modelo de linguagem se destaca por suas capacidades abrangentes de processamento de dados.",
+          "meta": "♥ 1.788 · 45.834 downloads",
+          "snapshot": {
+            "sourceId": "XingChen-AGI/Xing4.0-29B-A4B",
+            "capturedAt": "2026-09-28T10:54:51.432Z",
+            "metadata": {
+              "popularity": 1788,
+              "engagementCount": 45834,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 788,
+                "pipelineTag": "text-generation",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "xing4_0",
+                  "text-generation",
+                  "conversational",
+                  "custom_code",
+                  "arxiv:2512.24157",
+                  "arxiv:2507.18013",
+                  "license:apache-2.0",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "Depth-adaptive Inference of Looped Language Models via Continuous Depth Batching",
+          "url": "https://huggingface.co/papers/2608.09444",
+          "summary": "Modelos de linguagem em loop (looped language models) otimizam o custo computacional usando diferentes profundidades de processamento de acordo com a complexidade. O método de agrupamento de profundidade contínua (continuous depth batching) permite que tokens com diferentes números de loops sejam processados de forma eficiente em motores de inferência padrão (como o vLLM).",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2608.09444",
+            "capturedAt": "2026-09-28T10:54:51.446Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2608.09444",
+                "publishedAt": "2026-09-25T00:00:00.000Z",
+                "githubRepo": "https://github.com/kschwethelm/continuous-depth-batching"
+              }
+            }
+          }
+        },
+        {
+          "title": "BoundInk: Boundary-Aware Online Handwriting Generation",
+          "url": "https://huggingface.co/papers/2604.02103",
+          "summary": "BoundInk apresenta uma estrutura que processa a conexão e o espaçamento entre caracteres na produção de escrita manual com consciência de limites (boundary-awareness). Ao contrário das técnicas tradicionais de modelagem de sequência, este método lida diretamente com as transições de caracteres, criando saídas de escrita manual mais consistentes e realistas.",
+          "meta": "0 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2604.02103",
+            "capturedAt": "2026-09-28T10:54:51.446Z",
+            "metadata": {
+              "popularity": 0,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2604.02103",
+                "publishedAt": "2026-09-20T00:00:00.000Z",
+                "githubRepo": "https://github.com/jinsu0000/cashg-official"
+              }
+            }
+          }
+        },
+        {
+          "title": "IndicBankBench: Evaluating Safety and Reliability of Language Model Assistants in Indian Retail Banking",
+          "url": "https://huggingface.co/papers/2609.29167",
+          "summary": "IndicBankBench é um teste de benchmark de 799 casos desenvolvido para medir a segurança e a confiabilidade de assistentes de inteligência artificial no setor de varejo bancário da Índia. Este estudo visa avaliar o desempenho do modelo de forma abrangente, detectando erros de processo, como seleção incorreta de contas ou dependência de dados desatualizados.",
+          "meta": "4 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.29167",
+            "capturedAt": "2026-09-28T10:54:51.446Z",
+            "metadata": {
+              "popularity": 4,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.29167",
+                "publishedAt": "2026-09-24T00:00:00.000Z",
+                "githubRepo": "https://github.com/npci/IndicBankBench",
+                "githubStars": 2
+              }
+            }
+          }
+        },
+        {
+          "title": "Paragraph Boundaries Are Not White Space:Compression Depth as the Signature of Hierarchical Structure",
+          "url": "https://huggingface.co/papers/2609.23551",
+          "summary": "A codificação posicional rotativa hierárquica (hierarchical rotary positional encoding) define os limites de parágrafos e frases na estrutura do texto como canais independentes da ordem de leitura unidimensional. Este método permite que modelos de linguagem (large language models) compreendam as relações hierárquicas dentro do texto com maior precisão.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.23551",
+            "capturedAt": "2026-09-28T10:54:51.446Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.23551",
+                "publishedAt": "2026-09-20T00:00:00.000Z",
+                "githubRepo": "https://github.com/ShuyangenFrance/hrope",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Enhancing Photogrammetric Digital Surface Models with Pretrained Diffusion Models and Multimodal Conditioning",
+          "url": "https://huggingface.co/papers/2609.31199",
+          "summary": "Modelos de difusão (diffusion models) pré-treinados estão sendo usados para remover ruídos e lacunas em modelos digitais de superfície (digital surface models) obtidos a partir de imagens de satélite. Este método combina dados fotogramétricos e imagens do satélite Pléiades para permitir a criação de mapas 3D de alta precisão com menor custo.",
+          "meta": "6 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.31199",
+            "capturedAt": "2026-09-28T10:54:51.446Z",
+            "metadata": {
+              "popularity": 6,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.31199",
+                "publishedAt": "2026-09-25T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "“They had no concept of a duty of care to their users.”",
+          "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+          "summary": "A falta de consciência de responsabilidade (duty of care) para com o usuário nos processos de desenvolvimento de software coloca em debate os padrões de segurança e ética das plataformas digitais. Essa abordagem chama a atenção para os riscos criados pelo fato de a segurança do usuário ficar atrás dos requisitos técnicos durante o design de software.",
+          "meta": "147 pontos · 39 comentários",
+          "snapshot": {
+            "sourceId": "1colyy",
+            "capturedAt": "2026-09-28T10:54:51.690Z",
+            "metadata": {
+              "popularity": 147,
+              "engagementCount": 39,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/1colyy/they_had_no_concept_duty_care_their_users",
+                  "popularity": 147,
+                  "engagementCount": 39
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "vim"
+                ],
+                "createdAt": "2026-09-27T09:44:53.153-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/1colyy/they_had_no_concept_duty_care_their_users",
+              "popularity": 147,
+              "engagementCount": 39
+            }
+          ]
+        },
+        {
+          "title": "What makes Lisp difficult to read?",
+          "url": "https://paultm.nl/paren-thesis",
+          "summary": "O elemento fundamental que dificulta a legibilidade da linguagem de programação Lisp é o uso intenso de parênteses que compõem a estrutura do código. Como essa situação apresenta uma estrutura diferente das regras de sintaxe habituais, torna difícil para os desenvolvedores analisar o código.",
+          "meta": "20 pontos · 8 comentários",
+          "snapshot": {
+            "sourceId": "fqype1",
+            "capturedAt": "2026-09-28T10:54:51.690Z",
+            "metadata": {
+              "popularity": 20,
+              "engagementCount": 8,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/fqype1/what_makes_lisp_difficult_read",
+                  "popularity": 20,
+                  "engagementCount": 8
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "plt"
+                ],
+                "createdAt": "2026-09-27T23:44:02.263-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/fqype1/what_makes_lisp_difficult_read",
+              "popularity": 20,
+              "engagementCount": 8
+            }
+          ]
+        },
+        {
+          "title": "postmarketOS rebrands as Nura",
+          "url": "https://nura.eco/blog/2026/09/27/nura-rename/",
+          "summary": "O sistema operacional de código aberto desenvolvido para dispositivos móveis, postmarketOS, renovou sua identidade de marca para Nura. Com essa mudança, o projeto continua sua visão de hardware sustentável e suporte de software de longo prazo sob um novo nome.",
+          "meta": "64 pontos · 9 comentários",
+          "snapshot": {
+            "sourceId": "msjitj",
+            "capturedAt": "2026-09-28T10:54:51.690Z",
+            "metadata": {
+              "popularity": 64,
+              "engagementCount": 9,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/msjitj/postmarketos_rebrands_as_nura",
+                  "popularity": 64,
+                  "engagementCount": 9
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "linux"
+                ],
+                "createdAt": "2026-09-27T12:34:21.672-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/msjitj/postmarketos_rebrands_as_nura",
+              "popularity": 64,
+              "engagementCount": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "AI agents",
+      "explanation": "Softwares autônomos que tomam decisões por conta própria e utilizam ferramentas para atingir objetivos."
+    },
+    {
+      "term": "phased array radar",
+      "explanation": "Um sistema de varredura avançado que rastreia objetos direcionando sinais eletrônicos em vez de peças móveis."
+    },
+    {
+      "term": "systems programming",
+      "explanation": "O desenvolvimento de softwares fundamentais, como sistemas operacionais e drivers, que se comunicam diretamente com o hardware do computador."
+    },
+    {
+      "term": "artificial intelligence",
+      "explanation": "A aquisição, por parte dos computadores, da capacidade de aprender, raciocinar e resolver problemas como os seres humanos."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "O funcionamento conjunto de múltiplos softwares independentes que se comunicam entre si para realizar uma tarefa comum."
+    },
+    {
+      "term": "runtime",
+      "explanation": "O momento em que um software é executado no computador e o gerenciamento dos recursos de que ele necessita durante esse processo."
+    },
+    {
+      "term": "stock options",
+      "explanation": "Um método de incentivo que dá aos funcionários o direito de comprar ações da empresa a um preço específico no futuro."
+    },
+    {
+      "term": "multimodal large language model",
+      "explanation": "Modelos de inteligência artificial capazes de compreender e processar não apenas texto, mas também diferentes tipos de dados, como imagens e áudio."
+    },
+    {
+      "term": "generative music",
+      "explanation": "Música composta ou criada automaticamente pela inteligência artificial dentro de um conjunto de regras."
+    },
+    {
+      "term": "text classification",
+      "explanation": "O processo de analisar o assunto ou conteúdo de um texto escrito e classificá-lo em categorias predeterminadas."
+    },
+    {
+      "term": "text-to-image",
+      "explanation": "Tecnologia que analisa textos escritos e gera imagens adequadas a eles."
+    },
+    {
+      "term": "GGUF",
+      "explanation": "Um formato de arquivo que permite que grandes modelos de inteligência artificial funcionem de forma mais rápida e eficiente em computadores padrão."
+    },
+    {
+      "term": "automatic speech recognition",
+      "explanation": "Sistema que analisa ondas sonoras faladas e as converte em texto escrito."
+    },
+    {
+      "term": "text-generation",
+      "explanation": "O processo de criação de textos significativos a partir de um comando ou frase inicial fornecida."
+    },
+    {
+      "term": "looped language models",
+      "explanation": "Estruturas de inteligência artificial cíclicas que geram continuamente novos conteúdos usando a saída produzida como entrada novamente."
+    },
+    {
+      "term": "continuous depth batching",
+      "explanation": "Método que permite que modelos de inteligência artificial processem um grande número de solicitações recebidas simultaneamente de forma contínua e rápida, sem espera."
+    }
+  ]
+}
