@@ -164,9 +164,41 @@ def _basarisiz(model: str) -> None:
         _birak(model, f"üst üste {_ART_ARDA_SINIR} başarısız istek", kalici=False)
 
 
+SIRA_DOSYASI = os.path.join(os.path.dirname(DURUM_DOSYASI) or ".", "trescout-gemini-sira.json")
+
+
 def _bekle_sira(model: str) -> None:
+    """Model başına istek aralığı · SÜREÇLER ARASI ortak.
+
+    dict-sync dilleri paralel üretiyor (5 süreç). RPM sınırı proje ve model
+    başına; aralık süreç içinde tutulsaydı beş süreç sınırı beş kat aşardı.
+    Kilitli bir dosyada her model için sıradaki boş zaman dilimi ayrılır,
+    beklemek kilidin dışında yapılır. Dosya kilitlenemezse süreç içi aralığa
+    düşülür.
+    """
     global _son_istek
     aralik = float(os.environ.get("GEMINI_MIN_INTERVAL") or (60.0 / _RPM.get(model, 15.0)) * 1.05)
+    try:
+        import fcntl
+        with open(SIRA_DOSYASI, "a+", encoding="utf-8") as f:
+            fcntl.flock(f, fcntl.LOCK_EX)
+            f.seek(0)
+            try:
+                veri = json.loads(f.read() or "{}")
+            except ValueError:
+                veri = {}
+            simdi = time.time()
+            dilim = max(simdi, float(veri.get(model, 0.0)) + aralik)
+            veri[model] = dilim
+            f.seek(0)
+            f.truncate()
+            f.write(json.dumps(veri))
+        if dilim > simdi:
+            time.sleep(dilim - simdi)
+        _son_istek = time.time()
+        return
+    except Exception:
+        pass
     kalan = _son_istek + aralik - time.time()
     if kalan > 0:
         time.sleep(kalan)

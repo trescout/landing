@@ -283,7 +283,7 @@ jobs:
       # adımına gelinmiyor, önbellek yine runner'la gidiyor (2026-09-26 koşusu 108.
       # dakikada böyle kesildi). Önceki adımlar ~70 dk sürüyor; bu adım 75'te kesilirse
       # continue-on-error sayesinde ikinci tur, guard'lar ve commit için süre kalıyor.
-      # SIRA: önce TÜM dillerde keşif, sonra TÜM dillerde sözlük. Search Console
+      # SIRA: her dilde önce keşif, sonra sözlük (diller paralel). Search Console
       # (25 Haz - 24 Eyl 2026): tıklamaların ~%74'ü keşif sayfalarından, sözlük
       # 72 bin gösterimde ~130 tık. Kota gün ortasında biterse ertelenen iş
       # sözlük olsun, keşif değil. Sözlüğün "İlgili araçlar"ı keşif sayfaları
@@ -312,9 +312,9 @@ jobs:
           # döngü bitiyordu (2026-09-25: en sözlüğü kotaya takıldı, en keşif ve
           # fr/pt/es/de hiç koşmadı). Hata toplanıp adım sonunda veriliyor.
           hata=0
-          for d in ${{ steps.diller.outputs.kodlar }}; do
-            echo "── $d"
-            if [ "$targeted" = "true" ]; then
+          if [ "$targeted" = "true" ]; then
+            for d in ${{ steps.diller.outputs.kodlar }}; do
+              echo "── $d"
               if [ -n "$DISCOVERY_SLUGS" ]; then
                 for slug in "${DISC_ONLY[@]}"; do
                   [ -z "$slug" ] || python3 scripts/discover-en.py --lang=$d --slug="$slug" || hata=1
@@ -325,15 +325,27 @@ jobs:
                   [ -z "$slug" ] || python3 scripts/dictionary-en.py --lang=$d --slug="$slug" || hata=1
                 done
               fi
-            else
-              python3 scripts/discover-en.py --lang=$d || hata=1
-            fi
-          done
-          if [ "$targeted" != "true" ]; then
-            for d in ${{ steps.diller.outputs.kodlar }}; do
-              echo "── $d sözlük"
-              python3 scripts/dictionary-en.py --lang=$d || hata=1
             done
+          else
+            # DİLLER PARALEL · her dil kendi sürecinde önce keşif, sonra sözlük.
+            # 2026-09-27 ölçümü: tek süreç 3.5 Flash-Lite'a dakikada ~4 istek
+            # atabiliyordu (yanıt ~15 sn), sınır 15. Üreticiler yalnız kendi
+            # dilinin dosyalarına yazıyor (sayfa, .md, XX-cache.json); istek
+            # aralığı gemini_zinciri'nde süreçler arası ortak (RPM aşılmaz).
+            # Log satırları [dil] önekiyle.
+            pids=()
+            for d in ${{ steps.diller.outputs.kodlar }}; do
+              (
+                set -o pipefail
+                {
+                  k=0; python3 scripts/discover-en.py --lang=$d || k=1
+                  python3 scripts/dictionary-en.py --lang=$d || k=1
+                  exit $k
+                } 2>&1 | sed -u "s/^/[$d] /"
+              ) &
+              pids+=($!)
+            done
+            for p in "${pids[@]}"; do wait "$p" || hata=1; done
           fi
           exit $hata
 
