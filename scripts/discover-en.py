@@ -567,7 +567,8 @@ def main():
             print(f"  ~ {slug}: {len(h.split())} kelime")
             continue
         # Mevcut sayfayı zayıflatan çıktı yazılmaz (bkz. sayfa_koruma.py).
-        zayif = zayiflatir(h, os.path.join(EN_DIR, slug, "index.html"))
+        zayif = zayiflatir(h, os.path.join(EN_DIR, slug, "index.html"),
+                           os.path.join(TR_DIR, slug, "index.html"))
         if zayif:
             zayif_korunan += 1
             print(f"  ! {slug}: yeni çıktı sayfayı zayıflatıyordu ({zayif}) · yazılmadı, mevcut hali korundu")

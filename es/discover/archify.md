@@ -25,14 +25,6 @@ npx -y skills add tt-a1i/archify --skill archify --agent cursor --global --copy 
 ```
 
 
-## Ejecución
-**Probando con el Codex**
-
-```
-npx skills use tt-a1i/archify@archify --agent codex
-```
-
-
 ## Si no programa
 Analice esta base de código y cree un diagrama de arquitectura de tiempo de ejecución de alto nivel utilizando Archify. Muestre entre 8 y 12 componentes clave, ruta de datos principal, dependencias externas y límites de confianza. Presente los detalles de apoyo en tarjetas didácticas en lugar de en los márgenes.
 
