@@ -2,15 +2,15 @@
 
 Ghost, modern yayıncılık, üyelikler, abonelikler ve e-posta bültenleri için bağımsız bir teknoloji platformudur.
 
-- ★ 55.438
+- ★ 55.459
 - JavaScript
 - GitHub Trending · 2026-08-22
 
 ## Güncelleme
+- 29 Eylül 2026: Yıldız 55.438 → 55.459, son sürüm v6.67.0 (29 Eylül 2026).
 - 27 Eylül 2026: Yıldız 55.318 → 55.438, son sürüm v6.65.0 (22 Eylül 2026).
 - 16 Eylül 2026: Yıldız 55.233 → 55.318, son sürüm v6.64.0 (15 Eylül 2026).
 - 9 Eylül 2026: Yıldız 55.098 → 55.233, son sürüm v6.63.0 (8 Eylül 2026).
-- 2 Eylül 2026: Yıldız 55.071 → 55.098, son sürüm v6.62.0 (1 Eylül 2026).
 
 ## Ne kazandırır?
 - Abonelik tabanlı gelir modelleri oluşturma

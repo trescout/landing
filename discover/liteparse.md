@@ -2,16 +2,16 @@
 
 Liteparse (run-llama); belgeleri hızlı ve verimli bir şekilde ayrıştırmak için Rust ile yazılmış açık kaynak bir belge ayrıştırıcıdır. Karmaşık doküman yapılarını işlenebilir hale getirerek AI ve RAG süreçlerinde kolaylık sağlar.
 
-- ★ 12.661
+- ★ 12.723
 - Rust
 - Apache-2.0
 - GitHub Trending · 30 May 2026
 
 ## Güncelleme
+- 29 Eylül 2026: Yıldız 12.661 → 12.723, son sürüm node-v2.15.0 (29 Eylül 2026).
 - 27 Eylül 2026: Yıldız 12.314 → 12.661, son sürüm node-v2.14.7 (22 Eylül 2026).
 - 16 Eylül 2026: Yıldız 12.311 → 12.314, son sürüm node-v2.14.6 (15 Eylül 2026).
 - 15 Eylül 2026: Yıldız 12.269 → 12.311, son sürüm docker-v2.14.5 (15 Eylül 2026).
-- 8 Eylül 2026: Yıldız 12.220 → 12.269, son sürüm node-v2.14.4 (7 Eylül 2026).
 
 - **Kimin için:** Belge/veri işleyen geliştiriciler 
 - **Zorluk:** Orta · geliştirici aracı 

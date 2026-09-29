@@ -2,11 +2,12 @@
 
 Google tarafından geliştirilen Guava, Java projelerinde sıkça ihtiyaç duyulan temel kütüphaneleri (core libraries) içeren bir araç setidir. Koleksiyonlar, önbelleğe alma (caching) ve dizgi işleme gibi yaygın görevleri basitleştirerek yazılım geliştirme sürecini hızlandırır.
 
-- ★ 51.884
+- ★ 51.915
 - Java
 - GitHub Trending · 2026-08-07
 
 ## Güncelleme
+- 29 Eylül 2026: Yıldız 51.884 → 51.915, son sürüm v33.7.2 (29 Eylül 2026).
 - 18 Ağustos 2026: Yıldız 51.668 → 51.884, son sürüm v33.7.1 (18 Ağustos 2026).
 - 7 Ağustos 2026: Yıldız 51.666 → 51.668, son sürüm v33.6.0 (14 Nisan 2026).
 

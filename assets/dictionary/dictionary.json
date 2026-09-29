@@ -8656,5 +8656,31 @@
     "kisa_pt": "São mecanismos de decisão que determinam automaticamente a opção mais lógica ou lucrativa, processando dados e regras de negócios específicas.",
     "kisa_es": "Son mecanismos de decisión que determinan automáticamente la opción más lógica o rentable procesando datos y reglas de negocio específicas.",
     "kisa_de": "Die Entscheidungsmechanismen, die Daten und bestimmte Geschäftsregeln verarbeiten, um automatisch die sinnvollste oder rentabelste Option zu ermitteln."
+  },
+  {
+    "slug": "attention-mechanism",
+    "en": "Attention Mechanism",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekânın bir metin içindeki en önemli kelimelere odaklanarak anlamı daha iyi kavramasını sağlayan yöntem.",
+    "date": "2026-09-29",
+    "kisa_en": "A method that enables artificial intelligence to better grasp meaning by focusing on the most important words within a text.",
+    "kisa_fr": "Méthode permettant à l'intelligence artificielle de mieux saisir le sens en se concentrant sur les mots les plus importants d'un texte.",
+    "kisa_pt": "Método que permite à inteligência artificial compreender melhor o significado, focando nas palavras mais importantes de um texto.",
+    "kisa_es": "Método que permite a la inteligencia artificial comprender mejor el significado enfocándose en las palabras más importantes dentro de un texto.",
+    "kisa_de": "Eine Methode, die es der künstlichen Intelligenz ermöglicht, die Bedeutung besser zu erfassen, indem sie sich auf die wichtigsten Wörter in einem Text konzentriert."
+  },
+  {
+    "slug": "model-weights",
+    "en": "Model Weights",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekânın eğitim sırasında öğrendiği bilgileri sakladığı ve kararlarını belirleyen sayısal değerler.",
+    "date": "2026-09-29",
+    "kisa_en": "Numerical values where artificial intelligence stores the information learned during training and which determine its decisions.",
+    "kisa_fr": "Valeurs numériques que l'intelligence artificielle stocke lors de l'apprentissage et qui déterminent ses décisions.",
+    "kisa_pt": "Valores numéricos que determinam as decisões da inteligência artificial e armazenam as informações aprendidas durante o treinamento.",
+    "kisa_es": "Valores numéricos donde la inteligencia artificial almacena la información aprendida durante el entrenamiento y que determinan sus decisiones.",
+    "kisa_de": "Numerische Werte, in denen die künstliche Intelligenz während des Trainings gelernte Informationen speichert und die ihre Entscheidungen bestimmen."
   }
 ]
