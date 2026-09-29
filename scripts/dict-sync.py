@@ -66,6 +66,22 @@ def tekil(slug):
     return f"{bas}-{son}" if bas else son
 
 
+# Rapor sözlüğüne bazen terim olmayan ifadeler giriyor ("Figma gibi", "weekly").
+# Karar Gemini'de, ama zincirin sonundaki zayıf modeller bunları kabul
+# edebiliyor: 2026-09-29'da 3.1 Flash-Lite "weekly" ve "Figma gibi"yi (slug'ı
+# da "figka-gibi" diye bozarak) ekledi; 24 Eylül'de güçlü model reddetmişti.
+# Kural tabanlı ön süzgeç: Türkçe dolgu sözcüğü içeren ifadeler ve günlük dilin
+# genel kelimeleri aday olmaz.
+_DOLGU = re.compile(r"(?i)(?:^|\s)(gibi|vb\.?|vs\.?|ve|ile|için|benzeri|türü)(?:\s|$)")
+_GENEL = {"weekly", "daily", "monthly", "yearly", "update", "updates", "tool", "tools",
+          "app", "apps", "user", "users", "data", "file", "files", "news", "blog"}
+
+
+def terim_degil(term):
+    t = (term or "").strip()
+    return bool(_DOLGU.search(t)) or t.lower() in _GENEL
+
+
 def slugify(t):
     t = t.lower().strip()
     for a,b in [("ç","c"),("ğ","g"),("ı","i"),("ş","s"),("ö","o"),("ü","u")]: t=t.replace(a,b)
@@ -202,6 +218,14 @@ def make_dict_form(slug=""):
 def render_page(e, en_map):
     slug=e["slug"]; en=e["en"]; full=e.get("full",""); cattr=CAT_TR.get(e["cat"],"")
     kisa=e["kisa"]; tanim=e.get("tanim",""); analoji=e.get("analoji",""); nasil=e.get("nasil","")
+    # Meta açıklama en az 50 karakter (SEO/GEO guard'ı, hatta SERT). Kısa
+    # tanımda tanımın ilk cümlesiyle tamamlanır · 2026-09-29'da tek bir kısa
+    # açıklama ("weekly") o günün bütün sözlük/keşif yayınını durdurdu.
+    aciklama=kisa
+    if len(aciklama) < 50 and tanim:
+        aciklama=(kisa.rstrip(". ")+". "+tanim.split(". ")[0].strip()).strip()
+        if len(aciklama) > 155: aciklama=aciklama[:152].rsplit(" ",1)[0]+"…"
+
     nerede=e.get("nerede",""); kar=e.get("karistirilan",""); sss=e.get("sss",[]); rel=e.get("related",[])
     canon=f"https://trescout.com/dictionary/{slug}/"
     ogfile=f"/assets/dictionary/og/{slug}.webp" if os.path.exists(os.path.join(OG,"og",slug+".webp")) else "/assets/dictionary/og-default.webp"
@@ -225,8 +249,8 @@ def render_page(e, en_map):
         if links: secs+=f'<section class="disc-sec"><h2>İlgili terimler</h2><div class="dict-related">{links}</div></section>'
     enline=f'<p class="dict-en">{esc(full)}</p>' if full else ''
     head=('<!DOCTYPE html>\n<html lang="tr">\n<head>\n<meta charset="UTF-8">\n<meta name="viewport" content="width=device-width, initial-scale=1">\n'
-      f'<title>{esc(title)}</title>\n<meta name="description" content="{esc(kisa)}">\n<link rel="icon" type="image/svg+xml" href="/favicon.svg">\n'
-      f'<link rel="canonical" href="{canon}">\n<meta property="og:title" content="{esc(en+" nedir?")}">\n<meta property="og:description" content="{esc(kisa)}">\n'
+      f'<title>{esc(title)}</title>\n<meta name="description" content="{esc(aciklama)}">\n<link rel="icon" type="image/svg+xml" href="/favicon.svg">\n'
+      f'<link rel="canonical" href="{canon}">\n<meta property="og:title" content="{esc(en+" nedir?")}">\n<meta property="og:description" content="{esc(aciklama)}">\n'
       f'<meta property="og:url" content="{canon}">\n<meta property="og:type" content="article">\n<meta property="og:locale" content="tr_TR">\n'
       f'<meta property="og:image" content="{ogimg}">\n<meta property="og:image:width" content="1200">\n<meta property="og:image:height" content="630">\n<meta property="og:image:alt" content="{esc(en+" nedir?")}">\n'
       f'<meta name="twitter:card" content="summary_large_image">\n<meta name="twitter:site" content="@GetTreScout">\n<meta name="twitter:title" content="{esc(en+" nedir?")}">\n<meta name="twitter:description" content="{esc(kisa[:155])}">\n<meta name="twitter:image" content="{ogimg}">\n'
@@ -411,7 +435,7 @@ def main():
     def is_dup(term):
         s = slugify(term)
         return s in existing_slugs or term.lower().strip() in keys or s in keys
-    candidates=[t for t in terms if not is_dup(t["term"])]
+    candidates=[t for t in terms if not is_dup(t["term"]) and not terim_degil(t["term"])]
     for c in candidates:
         ikiz = tekil_esi.get(tekil(slugify(c["term"])))
         if ikiz:
