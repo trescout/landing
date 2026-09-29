@@ -383,6 +383,8 @@ def main():
     chrome = en_chrome()
     if ONLY:
         terms = [t for t in terms if t["slug"] == ONLY]
+    # Önce bu dilde HİÇ OLMAYAN sayfalar · gerekçe discover-en.py main()
+    terms.sort(key=lambda t: os.path.exists(os.path.join(EN_DIR, t["slug"], "index.html")))
     if LIMIT:
         terms = terms[:LIMIT]
     global _sayfa_eksik

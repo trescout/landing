@@ -548,6 +548,11 @@ def main():
     cat = {c["slug"]: c for c in json.load(open(CATALOG, encoding="utf-8"))}
     chrome = en_chrome()
     sluglar = [ONLY] if ONLY else sorted(cat)
+    # Önce bu dilde HİÇ OLMAYAN sayfalar, sonra var olanların güncellemesi.
+    # 2026-09-29: alfabetik sırada kota ve süre mevcut sayfaların güncelleme
+    # çevirilerine gidiyor, eksik sayfalara sıra gelmiyordu (PT/ES/DE'de 35
+    # keşif sayfası iki gün yerinde saydı). sorted() kararlı: grup içi sıra aynı.
+    sluglar.sort(key=lambda s: os.path.exists(os.path.join(EN_DIR, s, "index.html")))
     if LIMIT:
         sluglar = sluglar[:LIMIT]
     global _sayfa_eksik
