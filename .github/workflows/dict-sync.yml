@@ -42,6 +42,15 @@ on:
         description: "Recovery only · comma-separated report discovery slugs to seed as lite without Gemini"
         required: false
         default: ''
+      yedek_anahtar:
+        description: "Elle · bu koşuda GEMINI_API_KEY yerine GEMINI_API_KEY_YEDEK secret'ını kullan (başka Gemini projesi)"
+        required: false
+        type: boolean
+        default: false
+      uretim_limiti:
+        description: "Elle · çeviri sayfası üretiminde dil ve üretici başına en çok KAÇ sayfa (önce eksikler). Boş = sınırsız"
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -126,7 +135,7 @@ jobs:
 
       - name: Sözlüğü büyüt (yeni rapor terimleri)
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEY: ${{ (github.event.inputs.yedek_anahtar == 'true' && secrets.GEMINI_API_KEY_YEDEK) || secrets.GEMINI_API_KEY }}
           DICTIONARY_SEED_TERMS: ${{ github.event.inputs.dictionary_seed_terms }}
         run: |
           if [ -n "$DICTIONARY_SEED_TERMS" ]; then
@@ -140,7 +149,7 @@ jobs:
 
       - name: Keşfi büyüt (yeni rapor repoları · zengin/lite)
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEY: ${{ (github.event.inputs.yedek_anahtar == 'true' && secrets.GEMINI_API_KEY_YEDEK) || secrets.GEMINI_API_KEY }}
           GITHUB_TOKEN: ${{ github.token }}
           DISCOVERY_SEED_SLUGS: ${{ github.event.inputs.discovery_seed_slugs }}
         run: |
@@ -155,7 +164,7 @@ jobs:
       - name: Keşif reprocess (elle · cmds render)
         if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.reprocess_slugs != '' }}
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEY: ${{ (github.event.inputs.yedek_anahtar == 'true' && secrets.GEMINI_API_KEY_YEDEK) || secrets.GEMINI_API_KEY }}
           GITHUB_TOKEN: ${{ github.token }}
           SLUGS: ${{ github.event.inputs.reprocess_slugs }}
         run: python3 scripts/discover-sync.py --reprocess="$SLUGS"
@@ -165,7 +174,7 @@ jobs:
       - name: Keşif başlık backfill (elle · editöryel H1)
         if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.headlines_limit != '' && github.event.inputs.headlines_limit != '0' }}
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEY: ${{ (github.event.inputs.yedek_anahtar == 'true' && secrets.GEMINI_API_KEY_YEDEK) || secrets.GEMINI_API_KEY }}
           LIMIT: ${{ github.event.inputs.headlines_limit }}
         run: python3 scripts/discover-sync.py --headlines --limit="$LIMIT"
 
@@ -220,7 +229,7 @@ jobs:
         continue-on-error: true
         if: ${{ github.event_name != 'workflow_dispatch' || (github.event.inputs.dictionary_slugs == '' && github.event.inputs.discovery_slugs == '') }}
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEY: ${{ (github.event.inputs.yedek_anahtar == 'true' && secrets.GEMINI_API_KEY_YEDEK) || secrets.GEMINI_API_KEY }}
         run: node scripts/translate-i18n.js
 
       # Fransızca · 2026-08-07'de eklendi. Aynı betikler --lang ile çalışıyor,
@@ -238,7 +247,7 @@ jobs:
         continue-on-error: true
         if: ${{ github.event_name != 'workflow_dispatch' || (github.event.inputs.dictionary_slugs == '' && github.event.inputs.discovery_slugs == '') }}
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEY: ${{ (github.event.inputs.yedek_anahtar == 'true' && secrets.GEMINI_API_KEY_YEDEK) || secrets.GEMINI_API_KEY }}
         run: |
           # Bir dilin hatası sonrakileri durdurmasın (bkz. "Sayfaları üret").
           hata=0
@@ -294,14 +303,19 @@ jobs:
         continue-on-error: true
         timeout-minutes: 75
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEY: ${{ (github.event.inputs.yedek_anahtar == 'true' && secrets.GEMINI_API_KEY_YEDEK) || secrets.GEMINI_API_KEY }}
           DICTIONARY_SLUGS: ${{ github.event.inputs.dictionary_slugs }}
           DISCOVERY_SLUGS: ${{ github.event.inputs.discovery_slugs }}
           IS_MANUAL: ${{ github.event_name == 'workflow_dispatch' }}
+          URETIM_LIMITI: ${{ github.event.inputs.uretim_limiti }}
         run: |
           # Yumuşak sınır 60 dk (sert sınır 75): sonra Gemini'ye yeni istek
           # gitmez, çevrilemeyen sayfalar ertelenir, bitenler yayınlanır.
           export GEMINI_SON_TARIH=$(( $(date +%s) + 60 * 60 ))
+          # Elle sınırlı üretim · üreticiler eksik sayfaları öne aldığı için
+          # --limit=N o dilin ilk N EKSİK sayfasını üretir.
+          LIMIT_ARG=""
+          if [[ "$URETIM_LIMITI" =~ ^[0-9]+$ ]]; then LIMIT_ARG="--limit=$URETIM_LIMITI"; fi
           IFS=',' read -ra DICT_ONLY <<< "$DICTIONARY_SLUGS"
           IFS=',' read -ra DISC_ONLY <<< "$DISCOVERY_SLUGS"
           targeted=false
@@ -338,8 +352,8 @@ jobs:
               (
                 set -o pipefail
                 {
-                  k=0; python3 scripts/discover-en.py --lang=$d || k=1
-                  python3 scripts/dictionary-en.py --lang=$d || k=1
+                  k=0; python3 scripts/discover-en.py --lang=$d $LIMIT_ARG || k=1
+                  python3 scripts/dictionary-en.py --lang=$d $LIMIT_ARG || k=1
                   exit $k
                 } 2>&1 | sed -u "s/^/[$d] /"
               ) &
@@ -364,7 +378,7 @@ jobs:
         id: ikinci_tur
         continue-on-error: true
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEY: ${{ (github.event.inputs.yedek_anahtar == 'true' && secrets.GEMINI_API_KEY_YEDEK) || secrets.GEMINI_API_KEY }}
           GEMINI_SON_TARIH: "1"
           DISCOVERY_SLUGS: ${{ github.event.inputs.discovery_slugs }}
           IS_MANUAL: ${{ github.event_name == 'workflow_dispatch' }}
@@ -540,7 +554,7 @@ jobs:
 
       - name: Değişiklik varsa commit'le
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEY: ${{ (github.event.inputs.yedek_anahtar == 'true' && secrets.GEMINI_API_KEY_YEDEK) || secrets.GEMINI_API_KEY }}
           GITHUB_TOKEN: ${{ github.token }}
           REPROCESS_SLUGS: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.reprocess_slugs || '' }}
           HEADLINES_LIMIT: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.headlines_limit || '0' }}
