@@ -28,6 +28,7 @@ Prompt é uma solicitação, ação é a ação concreta que ocorre como resulta
 - [Agentic Workflows](/pt/dictionary/agentic-workflows/)
 
 ## Ferramentas relacionadas
+- [Claude Code Action](/pt/discover/claude-code-action/)
 - [Embabel Agent](/pt/discover/embabel-agent/)
 
 ---

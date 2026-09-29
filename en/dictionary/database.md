@@ -32,6 +32,7 @@ No, different database types are used depending on the type of data (tables or d
 ## Related tools
 - [Supabase](/en/discover/supabase/)
 - [Trivy](/en/discover/trivy/)
+- [DBX](/en/discover/dbx/)
 - [Gitdiagram](/en/discover/gitdiagram/)
 - [Zvec](/en/discover/zvec/)
 - [Cassandra](/en/discover/cassandra/)

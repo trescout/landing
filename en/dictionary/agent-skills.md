@@ -1,27 +1,34 @@
 # What is Agent Skills?
 
-Special abilities or tools that AI agents use to perform specific tasks.
+Agent skills are packages that combine the instructions, tools, and resources an agent needs to perform a specific task consistently.
 
-## Overview
-Agent capabilities are special functions that enable an AI to interact with the world. With these capabilities, the agent can search the Internet, read a file, run code, or send an email. The more capabilities the agent has, the more complex tasks he can handle on his own.
+## Definition and Word Origin
+A skill tells the agent what work to do, when, and within what limits. It can provide access to tools such as searching, file reading, or running code; however, not every skill is directly a tool. A well-designed skill clearly defines the necessary context and validation steps.
 
-*Analogy: If you compare an agent to a Swiss army knife, capabilities are different functions on that pocket knife, like a blade, a screwdriver, or a pair of scissors.*
+## How to Know and Use in Daily Life?
+Platform: Ready-made skill libraries. Automation: Scheduled tasks. Development: Repository and testing tools.
 
-## How it works
-The agent analyzes the task assigned to him and decides what capability is required to solve this task. Then, it triggers that ability, performs the operation and evaluates the result.
+## Technical Depth and Architecture
+The format varies by platform; a simplified skill definition is as follows:
 
-## Where it is used
-It is used in AI agent platforms, automation tools, and software development processes.
+## Frequently Mixed Things
+It is thought to be general intelligence. Yet what is meant is the ability to do a specific job. The model understands, the skill performs.
 
-## Commonly confused with
-It is not about the general intelligence of the AI, but only its ability to do a specific job.
+## Use in Different Disciplines
+Pocket knife: A set of knives, screwdrivers, and scissors.Toolbox: A wrench chosen for the job.App store: A program downloaded according to need.
 
-## Frequently asked questions
-**Am I adding agent abilities?**
-Yes, you usually define to agents which tools they can use or choose from ready-made libraries.
+## Frequently Asked Questions
+**Am I adding the capabilities?**
+It depends on the platform. In some environments, ready-made skills are selected, while in others, the team defines their own skill packages.
 
 **Is every agent's ability the same?**
-No, its capabilities are customized depending on the agent's intended use (for example, an agent that only analyzes data).
+No. It is customized according to the purpose; the set for a data analyst agent and a coder agent is different.
+
+**Is it safe?**
+Reading is low risk. Approval and scope limits are mandatory for write and payment transactions.
+
+**Is there a ready-made library?**
+Yes. Platforms package common capabilities, and you write your own for custom work.
 
 
 ## Related terms

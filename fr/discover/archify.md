@@ -1,32 +1,25 @@
-# Demandez à votre agent IA de dessiner une carte du système
+# Créez des diagrammes de système interactifs avec l'intelligence artificielle
 
-Archify et habilité d'agent (compétence d'agent) d'intelligence artificielle qui crée des diagrammes techniques, comme des fluxogrammes architecturaux et des cycles de données, comme des archives HTML vérifiées et animées. Dans ce cas, aux États-Unis, pour visualiser des projets complexes, il est possible d'exporter les résultats à haute résolution.
+Archify est une compétence d'agent IA qui crée des diagrammes d'architecture, de flux de données et de flux de travail sous forme de fichiers HTML vérifiables et animés. Utilisé pour visualiser des conceptions de systèmes complexes, cet outil prend en charge l'exportation de diagrammes haute résolution.
 
-- ★ 72 294
-- JavaScript
-- GitHub Trending · 2026-08-27
+- ★ 73 342
+- GitHub Trending · 2026-08-26
 
 ## Ce que ça vous apporte
-- Transforme la base de code en cartes système interactives
-- Valide de manière comparative les changements architecturaux
-- Produit une sortie visuelle haute résolution et des cartes de partage
+- transforme vos idées et vos projets en visuels HTML animés
+- Fonctionne directement avec les descriptions textuelles sans nécessiter de référentiel de code
+- prépare des diagrammes détaillés d'architecture, de flux de données et de flux de travail
 
 ## Installation
-**Installation générale**
+**Exécutez cette commande pour installer l'outil**
 
 ```
 npx skills add tt-a1i/archify -g
 ```
 
-**Configuration du curseur**
-
-```
-npx -y skills add tt-a1i/archify --skill archify --agent cursor --global --copy --yes
-```
-
 
 ## Si vous ne codez pas
-Analysez cette base de code et créez un diagramme d'architecture d'exécution de haut niveau à l'aide d'Archify. Affichez 8 à 12 composants clés, le chemin de données principal, les dépendances externes et les limites de confiance. Présentez les détails à l’appui dans des flashcards plutôt que dans les marges.
+Utilisez Archify pour schématiser une requête Web : le navigateur appelle l'API, l'API vérifie Redis et un échec de cache interroge PostgreSQL et remplit le cache.
 
 ## Termes liés du glossaire
 

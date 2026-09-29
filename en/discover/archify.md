@@ -1,32 +1,25 @@
-# Have your AI agent draw a system map
+# Create interactive system diagrams with artificial intelligence
 
-Archify and habilidade de agente (agent skill) de inteligência artificial que cria diagramas técnicos, como fluxogramas arquiteturais e ciclos de dados, como arquivos HTML verificáveis ​​e animados. In this case, in the usa, para visualizar projectos desistemas complexos, suporta a exportação de resultados em alta resolução.
+Archify is an AI agent skill that generates architecture, data flow, and workflow diagrams as verifiable and animated HTML files. Used to visualize complex system designs, this tool supports high-resolution export of diagrams.
 
-- ★ 72,294
-- JavaScript
-- GitHub Trending · 2026-08-27
+- ★ 73,342
+- GitHub Trending · 2026-08-26
 
 ## What you get
-- Turns the code base into interactive system maps
-- Comparatively validates architectural changes
-- Produces high resolution visual output and sharing cards
+- transforms your ideas and plans into animated HTML visuals
+- works directly with text descriptions without requiring a code repository
+- prepares detailed architecture, data flow, and workflow diagrams
 
 ## Installation
-**General installation**
+**Run the following command to install the tool**
 
 ```
 npx skills add tt-a1i/archify -g
 ```
 
-**Setup for cursor**
-
-```
-npx -y skills add tt-a1i/archify --skill archify --agent cursor --global --copy --yes
-```
-
 
 ## If you don't write code
-Analyze this codebase and create a high-level runtime architecture diagram using Archify. Show 8-12 key components, primary data path, external dependencies, and trust boundaries. Present supporting details in flashcards rather than in margins.
+Use Archify to diagram a web request: Browser calls the API, the API checks Redis, and a cache miss queries PostgreSQL and fills the cache.
 
 ## Related dictionary terms
 

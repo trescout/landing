@@ -1,32 +1,25 @@
-# Peça ao seu agente de IA que desenhe um mapa do sistema
+# Crie diagramas de sistemas interativos com inteligência artificial
 
-Archify e habilidade de agente (agent skill) de inteligência artificial que cria diagramas técnicos, como fluxogramas arquitetônicos e ciclos de dados, como arquivos HTML verificáveis ​​e animados. Neste caso, nos EUA, para visualizar projetos de sistemas complexos, apoiamos a exportação de resultados em alta resolução.
+O Archify é uma habilidade de IA (agent skill) que gera diagramas de arquitetura, fluxo de dados e fluxo de trabalho como arquivos HTML verificáveis e animados. Usada para visualizar designs de sistemas complexos, esta ferramenta suporta a exportação de diagramas em alta resolução.
 
-- ★ 72.294
-- JavaScript
-- GitHub Trending · 2026-08-27
+- ★ 73.342
+- GitHub Trending · 2026-08-26
 
 ## O que você ganha
-- Transforma a base de código em mapas de sistema interativos
-- Valida comparativamente mudanças arquitetônicas
-- Produz saída visual de alta resolução e cartões de compartilhamento
+- transforma suas ideias e planos em recursos visuais HTML animados
+- funciona diretamente com descrições em texto, sem necessidade de repositório de código
+- prepara diagramas detalhados de arquitetura, fluxo de dados e fluxo de trabalho
 
 ## Instalação
-**Instalação geral**
+**Execute o seguinte comando para instalar a ferramenta**
 
 ```
 npx skills add tt-a1i/archify -g
 ```
 
-**Configuração do cursor**
-
-```
-npx -y skills add tt-a1i/archify --skill archify --agent cursor --global --copy --yes
-```
-
 
 ## Se você não programa
-Analise esta base de código e crie um diagrama de arquitetura de tempo de execução de alto nível usando Archify. Mostre de 8 a 12 componentes principais, caminho de dados primários, dependências externas e limites de confiança. Apresente detalhes de apoio em flashcards e não nas margens.
+Use Archify to diagram a web request: Browser calls the API, the API checks Redis, and a cache miss queries PostgreSQL and fills the cache.
 
 ## Termos relacionados do glossário
 

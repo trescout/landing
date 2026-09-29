@@ -1,87 +1,49 @@
-# Ejecuta modelos gigantes de IA con 4GB de VRAM
+# Ejecute modelos de IA gigantes con 4 GB de VRAM
 
-AirLLM es una innovadora librería de código abierto que permite ejecutar enormes modelos de lenguaje (LLM) de 70.000 y 405.000 millones de parámetros en tarjetas gráficas domésticas con apenas 4 GB de memoria de vídeo (VRAM), sin necesidad de servidores empresariales ni costosos clústeres de GPU.
+AirLLM es una biblioteca de código abierto revolucionaria que ejecuta grandes modelos de lenguaje (LLM) gigantescos de 70 mil millones y 405 mil millones de parámetros en tarjetas gráficas estándar de nivel de consumo con solo 4 GB de memoria de video (VRAM), sin necesidad de servidores empresariales ni costosos clústeres de GPU.
 
 - ★ 33.755
 - Jupyter Notebook
 - GitHub Trending · 2026-06-04
 
-## Actualizaciones
-- 6 de septiembre de 2026: Estrellas 33.307 → 33.755, última versión v4.0.0 (5 de septiembre de 2026).
-- 31 de agosto de 2026: Estrellas 31.598 → 33.307, última versión v3.3.0 (28 de agosto de 2026).
-- 19 de agosto de 2026: Estrellas 30.796 → 31.598, última versión v3.2.0 (18 de agosto de 2026).
-- 12 de agosto de 2026: Estrellas 29.265 → 30.796, última versión v3.1.0 (29 de julio de 2026).
-
-## Qué te aporta
-- Modelos de 70B con 4GB de VRAM: Ejecuta modelos pesados como Llama 3 70B, Qwen o DeepSeek en tarjetas básicas como GTX 1650 o RTX 3050.
-- Soporte para Llama 3.1 405B: Corre modelos insignia de 405.000 millones de parámetros en ordenadores con 8GB de VRAM sin infraestructuras de centros de datos.
-- Ejecución capa por capa (Layer-wise Execution): En lugar de cargar todo el modelo en memoria, procesa las capas secuencialmente desde el disco a la GPU, superando el límite de VRAM.
-- Hasta 3 veces más velocidad con compresión por bloques: Lee los pesos desde el SSD NVMe en bloques optimizados para acelerar la transferencia de datos a la GPU.
-- Máxima precisión sin degradación por cuantización: Elimina la obligación de comprimir a 4 bits, permitiendo razonar en precisión original de 16 bits (bfloat16).
+## Qué aporta
+- Ejecución de modelos de 70B con 4 GB de VRAM: La potencia de poder abrir modelos de alto parámetro como Llama 3 70B, Qwen o DeepSeek incluso en tarjetas gráficas de gama de entrada GTX 1650 o RTX 3050.
+- Soporte para Llama 3.1 de 405B: la capacidad de ejecutar modelos de 405 mil millones de parámetros, que requieren clústeres de GPU de cientos de miles de dólares en centros de datos, en ordenadores personales con 8 GB de VRAM.
+- Ejecución basada en capas (Layer-wise Execution): En lugar de cargar todo el modelo en la VRAM, supera el cuello de botella de la VRAM cargando y procesando las capas secuencialmente desde el disco a la memoria.
+- Hasta 3 veces más velocidad con compresión basada en bloques: acelera la transferencia de datos del disco a la GPU leyendo los pesos del modelo en bloques optimizados en el SSD NVMe.
+- Precisión completa sin pérdida por calidad de cuantización: Permite realizar inferencias incluso con la precisión original de 16 bits (bfloat16) si se desea, sin necesidad de comprimir los pesos a 4 bits.
 
 ## Instalación
-
-**Con pip (PyPI)**
+**pip (PyPI)**
 
 ```
 pip install airllm
 ```
 
-## Arquitectura técnica y principio de funcionamiento
 
-Los motores de inferencia convencionales (como vLLM, Ollama o HuggingFace) exigen que todos los parámetros del modelo queden alojados a la vez en la memoria gráfica (VRAM). Un modelo de 70B requiere unos 140 GB en 16 bits y al menos 35-40 GB incluso cuantizado a 4 bits. AirLLM redefine por completo este planteamiento:
-- Naturaleza secuencial de las capas Transformer: Una red Transformer agrupa unas 80 capas secuenciales. Cada una toma la salida tensorial de la anterior. No es imprescindible conservar toda la red en VRAM al mismo instante.
-- Descarga secuencial de capas (Sequential Offloading): AirLLM traslada a la VRAM solo la capa que se computa en ese instante (~1.5 GB). Tras el pase hacia delante, libera la memoria y transfiere la siguiente capa desde el disco.
-- Equilibrio entre velocidad y memoria: No está orientada a chats conversacionales en tiempo real de alta tasa de tokens, sino a procesamiento por lotes, análisis masivo de datos, traducción y evaluación profunda de modelos con coste de hardware nulo.
-- Lectura de archivos mapeada en memoria (mmap): Enlaza tensores de PyTorch directamente al almacenamiento NVMe mediante mmap, exprimiendo el ancho de banda del disco sin saturar la RAM del ordenador.
+## Arquitectura técnica y principio de funcionamiento
+- La naturaleza secuencial de las capas Transformer: Una red Transformer consta de 80 capas independientes. Cada capa toma como entrada la salida tensorial de la capa anterior. Teóricamente, no es obligatorio que todo el modelo permanezca en la memoria.
+- Descarga secuencial por capas (Sequential Offloading): AirLLM carga en la VRAM únicamente una sola capa calculada en ese momento (aproximadamente 1.5 GB). Cuando finaliza el cálculo de propagación hacia adelante (forward pass) de dicha capa, se libera la memoria y se carga la siguiente capa desde el disco.
+- Compromiso entre velocidad y memoria (Trade-off): Esta arquitectura no está diseñada para chats interactivos que generan decenas de tokens por segundo, sino que es una herramienta de ahorro excepcional para procesos de análisis de datos por lotes, razonamiento profundo, traducción, generación de datos sintéticos y evaluación de modelos (evals).
+- Lectura de archivos mapeados en memoria (mmap): conecta directamente los tensores de PyTorch al disco mediante el método mmap, aprovechando directamente el ancho de banda del SSD NVMe sin saturar innecesariamente la memoria RAM del sistema.
 
 ## Ejemplo de uso en Python
+AirLLM tiene una sintaxis de Python extremadamente sencilla, muy similar a la API AutoModel de HuggingFace:
 
-AirLLM cuenta con una sintaxis en Python limpia y muy familiar, semejante a la API AutoModel de HuggingFace:
-
-**Ejecutar un modelo 70B en Python**
-
-```python
-from airllm import AutoModel
-
-# Inicializar un modelo 70B con solo 4GB de VRAM
-model = AutoModel.from_pretrained("meta-llama/Meta-Llama-3-70B-Instruct")
-
-input_text = ["Resume el potencial de los agentes autonomos de inteligencia artificial."]
-input_tokens = model.tokenizer(input_text, return_tensors="pt", padding=True)
-
-# Generacion (las capas se ejecutan de manera secuencial)
-generation_output = model.generate(
-    input_tokens['input_ids'].cuda(),
-    max_new_tokens=100,
-    use_cache=True,
-    return_dict_in_generate=True
-)
-
-output = model.tokenizer.decode(generation_output.sequences[0])
-print(output)
-```
-
-## Si no programas
-🤖 Si no programas
-Quiero usar la librería AirLLM para ejecutar un modelo de 70.000 millones de parámetros (como meta-llama/Llama-3-70B-Instruct) en mi tarjeta gráfica local de 4GB de VRAM. He realizado la instalación con pip install airllm. ¿Podrías proporcionarme el código en Python para cargar el modelo, generar respuestas y prevenir errores de falta de memoria? Detalla el espacio libre necesario en disco y los pasos a seguir.
-
-- **Para quién:** Investigadores y desarrolladores con GPUs domésticas que necesitan evaluar modelos 70B y 405B localmente para extracción y análisis.
-- **Licencia:** Apache-2.0 (Licencia permisiva de código abierto)
-- **Requisitos de hardware:** GPU con al menos 4 GB de VRAM y almacenamiento SSD NVMe de alta velocidad
-- **Ecosistema:** Python, PyTorch y HuggingFace Transformers
+## Si no programa
+Quiero ejecutar un modelo de 70 mil millones de parámetros (por ejemplo, meta-llama/Llama-3-70B-Instruct) usando la biblioteca AirLLM en mi tarjeta gráfica local con una capacidad de 4 GB de VRAM. Utilicé el comando pip install airllm para la instalación. ¿Podrías explicar el código de Python necesario para cargar mi modelo, obtener una salida a partir de una entrada de texto y evitar el desbordamiento de memoria? Sé que debo asegurarme de tener suficiente espacio en disco en el proceso, ¿podrías detallar los pasos que debo seguir?
 
 ## Preguntas frecuentes
-- ¿A qué velocidad genera tokens AirLLM? Dado que AirLLM transfiere capas continuamente entre el disco y la GPU, la velocidad depende de la tasa de lectura del SSD NVMe. En un SSD PCIe Gen4, un modelo 70B genera entre 1 y 3 tokens por segundo. Aunque no es apto para un chat en tiempo real, permite ejecutar modelos masivos sin inversión adicional en hardware.
-- ¿Cuánto espacio en disco se necesita? Un modelo de 70B en coma flotante de 16 bits requiere unos 140 GB de disco (o 35-40 GB en 4 bits). Para el modelo de 405B se deben reservar al menos 800 GB libres en el SSD NVMe.
-- ¿Puedo usar pesos originales sin aplicar cuantización? Sí. Es una de las mayores fortalezas de AirLLM: al gestionar la memoria capa por capa, puedes prescindir de la cuantización y utilizar los pesos nativos de 16 bits sin pérdida de precisión.
-- ¿Funciona AirLLM en Mac con Apple Silicon o solo con CPU? AirLLM está optimizado primordialmente para aceleración CUDA (GPU NVIDIA). Cuenta con soporte experimental para CPU y Apple Silicon MPS, pero el rendimiento óptimo se logra con GPU NVIDIA y un SSD NVMe veloz.
-
-## Enlaces
-- [GitHub →](https://github.com/lyogavin/airllm)
+- ¿Qué tan rápido es ejecutar un modelo con AirLLM? Como AirLLM transfiere constantemente las capas entre el disco y la GPU, la velocidad de generación de tokens depende directamente de la velocidad de lectura de su disco SSD NVMe. En un SSD Gen4 típico, un modelo de 70B funciona a una velocidad de 1 a 3 tokens por segundo. Aunque esta velocidad es lenta para un chat interactivo, es única para ejecutar modelos gigantescos localmente con un coste de hardware cero.
+- ¿Cuánto espacio libre en disco se necesita para AirLLM? Un modelo de 70B parámetros requiere aproximadamente 140 GB de espacio en disco en formato flotante de 16 bits. En las versiones cuantizadas de 4 bits, este espacio se reduce a unos 35-40 GB. Para el modelo de 405B, se deben asignar al menos 800 GB de espacio libre en disco NVMe.
+- ¿Puedo utilizar los pesos originales del modelo sin realizar cuantización? Sí. Una de las mayores ventajas de AirLLM es que elimina la necesidad de cuantización. Dado que la limitación de VRAM se resuelve capa por capa, puede ejecutar los pesos originales de 16 bits sin experimentar ninguna pérdida de razonamiento o precisión.
+- ¿Funciona AirLLM en Mac con Apple Silicon o solo en CPU? AirLLM está optimizado principalmente para la aceleración con CUDA (GPU NVIDIA). Sin embargo, también admite de forma experimental la ejecución en CPU y las capas de MPS (Metal de Apple Silicon). El rendimiento más alto se obtiene con un SSD NVMe rápido y una tarjeta gráfica NVIDIA.
 
 ## Términos relacionados del glosario
-VRAM LLM Large Language Models Transformer Open Source
+
+## Enlaces
+- Repositorio en GitHub →
+- Leer en turco →
 
 ---
-Source: TreScout Discover · https://trescout.com/es/discover/airllm/
+Fuente: TreScout Descubrir · https://trescout.com/es/discover/airllm/

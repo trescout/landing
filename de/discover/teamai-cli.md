@@ -2,7 +2,7 @@
 
 Das von Tencent entwickelte teamai-cli ist ein Softwareentwicklungstool, das es Teams ermöglicht, über eine Befehlszeilenschnittstelle (CLI) mit KI-Tools zu interagieren. Dieses Tool zielt darauf ab, die Arbeitsprozesse von Teams zu digitalisieren, indem es generative KI-Funktionen in Arbeitsabläufe integriert.
 
-- ★ 5.018
+- ★ 5.060
 - TypeScript
 - GitHub Trending · 2026-09-10
 

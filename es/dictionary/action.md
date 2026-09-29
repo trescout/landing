@@ -28,6 +28,7 @@ Aviso es una solicitud, acción es la acción concreta que tiene lugar como resu
 - [Agentic Workflows](/es/dictionary/agentic-workflows/)
 
 ## Herramientas relacionadas
+- [Claude Code Action](/es/discover/claude-code-action/)
 - [Embabel Agent](/es/discover/embabel-agent/)
 
 ---

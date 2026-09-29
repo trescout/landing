@@ -30,8 +30,8 @@ Sí, requiere conocimientos básicos de administración de servidores y redes.
 ## Herramientas relacionadas
 - [N8n](/es/discover/n8n/)
 - [Penpot](/es/discover/penpot/)
-- [Plane](/es/discover/plane/)
 - [Twenty](/es/discover/twenty/)
+- [Plane](/es/discover/plane/)
 - [AIRI](/es/discover/airi/)
 - [Self-Hosting-Guide](/es/discover/self-hosting-guide/)
 - [OpenStock](/es/discover/openstock/)

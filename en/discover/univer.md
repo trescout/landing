@@ -2,7 +2,7 @@
 
 Univer is an open source platform that combines office tools such as spreadsheets, documents and presentations in a single runtime. It offers a modular structure designed to facilitate the interaction of artificial intelligence agents (AI agents) with office software.
 
-- ★ 21,050
+- ★ 21,590
 - GitHub Trending · 2026-09-23
 
 ## What you get

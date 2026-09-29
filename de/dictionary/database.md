@@ -30,6 +30,7 @@ Nein, je nach Art der Daten (Tabellen oder Dokumente) werden unterschiedliche Da
 ## Verwandte Werkzeuge
 - [Supabase](/de/discover/supabase/)
 - [Trivy](/de/discover/trivy/)
+- [DBX](/de/discover/dbx/)
 - [Gitdiagram](/de/discover/gitdiagram/)
 - [Zvec](/de/discover/zvec/)
 - [Cassandra](/de/discover/cassandra/)

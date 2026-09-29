@@ -30,8 +30,8 @@ Oui, cela nécessite des connaissances de base en administration de serveur et e
 ## Outils liés
 - [N8n](/fr/discover/n8n/)
 - [Penpot](/fr/discover/penpot/)
-- [Plane](/fr/discover/plane/)
 - [Twenty](/fr/discover/twenty/)
+- [Plane](/fr/discover/plane/)
 - [AIRI](/fr/discover/airi/)
 - [Self-Hosting-Guide](/fr/discover/self-hosting-guide/)
 - [OpenStock](/fr/discover/openstock/)

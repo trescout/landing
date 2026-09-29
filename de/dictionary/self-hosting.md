@@ -30,8 +30,8 @@ Ja, es erfordert grundlegende Serveradministrations- und Netzwerkkenntnisse.
 ## Verwandte Werkzeuge
 - [N8n](/de/discover/n8n/)
 - [Penpot](/de/discover/penpot/)
-- [Plane](/de/discover/plane/)
 - [Twenty](/de/discover/twenty/)
+- [Plane](/de/discover/plane/)
 - [AIRI](/de/discover/airi/)
 - [Self-Hosting-Guide](/de/discover/self-hosting-guide/)
 - [OpenStock](/de/discover/openstock/)

@@ -2,7 +2,7 @@
 
 Developed for Hermes Agent, oh-my-hermes offers coding intelligence, a long-term memory system, and model-driven workflow packages in a single plugin. This tool, which optimizes software development processes, provides developers with a comprehensive working environment through its Python-based structure.
 
-- ★ 2,982
+- ★ 3,018
 - Python
 - GitHub Trending · 2026-09-15
 

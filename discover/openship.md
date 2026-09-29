@@ -2,15 +2,15 @@
 
 OpenShip, kullanıcıların kendi sunucularında barındırabildiği bir uygulama dağıtım platformu (deployment platform) sunuyor. TypeScript diliyle geliştirilen bu araç, bulut tabanlı altyapı hizmetlerine alternatif olarak kendi kendine barındırma (self-hosted) süreçlerini kolaylaştırıyor.
 
-- ★ 12.541
+- ★ 13.545
 - TypeScript
 - GitHub Trending · 2026-07-21
 
 ## Güncelleme
+- 29 Eylül 2026: Yıldız 12.541 → 13.545, son sürüm v0.8.0 (27 Eylül 2026).
 - 27 Eylül 2026: Yıldız 12.135 → 12.541, son sürüm v0.8.0 (27 Eylül 2026).
 - 6 Eylül 2026: Yıldız 12.101 → 12.135, son sürüm v0.7.2 (5 Eylül 2026).
 - 5 Eylül 2026: Yıldız 11.887 → 12.101, son sürüm v0.7.1 (4 Eylül 2026).
-- 31 Ağustos 2026: Yıldız 11.739 → 11.887, son sürüm v0.6.9 (30 Ağustos 2026).
 
 ## Ne kazandırır?
 - Otomatik CI/CD süreçleri
@@ -57,7 +57,7 @@ Openship kullanarak bir projeyi yayına almak istiyorum. Proje dizinindeyken ope
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-21 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Deployment Self-hosted CI/CD CLI Artificial Intelligence
+Deployment Platform Deployment Self-hosted CI/CD CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/openship/

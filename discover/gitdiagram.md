@@ -94,7 +94,7 @@ Evet, arayüz üzerinden tek tıkla şemanın yüksek çözünürlüklü PNG vey
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun güncel teknik mimarisini ve açık kaynak topluluğundaki kullanım pratiklerini özetler. Detaylar için resmi depoya bakın.
 
 ## İlgili sözlük terimleri
-SVG Mermaid API Gateway Database Gateway Token
+SVG Mermaid API Gateway Gateway Database Token
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/gitdiagram/

@@ -2,14 +2,14 @@
 
 GitHub Copilot SDK, geliştiricilerin GitHub Copilot yapay zekâ ajanlarını kendi uygulama ve hizmetlerine entegre etmelerini sağlayan çok platformlu bir yazılım geliştirme kiti (SDK) sunuyor. Java diliyle hazırlanan bu araç, özelleştirilmiş yapay zekâ iş akışlarının farklı platformlarda standart bir yapıyla oluşturulmasına olanak tanıyor.
 
-- ★ 10.478
+- ★ 10.526
 - GitHub Trending · 2026-06-05
 
 ## Güncelleme
+- 29 Eylül 2026: Yıldız 10.478 → 10.526, son sürüm v1.0.15 (28 Eylül 2026).
 - 16 Eylül 2026: Yıldız 10.460 → 10.478, son sürüm v1.0.14 (16 Eylül 2026).
 - 5 Eylül 2026: Yıldız 10.412 → 10.460, son sürüm v1.0.13 (4 Eylül 2026).
 - 15 Ağustos 2026: Yıldız 10.354 → 10.412, son sürüm v1.0.11 (14 Ağustos 2026).
-- 6 Ağustos 2026: Yıldız 10.331 → 10.354, son sürüm rust/v1.0.9 (6 Ağustos 2026).
 
 ## Ne kazandırır?
 - Copilot motorunu uygulamalarınıza entegre edin
@@ -39,7 +39,7 @@ GitHub Copilot SDK kullanarak uygulamamda özel bir yapay zekâ iş akışı olu
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-06-05 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-BYOK SDK LLM Rust Artificial Intelligence
+BYOK SDK LLM Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/copilot-sdk/

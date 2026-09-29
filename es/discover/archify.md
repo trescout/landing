@@ -1,32 +1,25 @@
-# Haga que su agente de IA dibuje un mapa del sistema
+# Cree diagramas de sistemas interactivos con inteligencia artificial
 
-Archify y habilidade de agente (habilidad del agente) de inteligencia artificial que cria diagramas técnicos, como fluxogramas arquiteturais y ciclos de datos, como archivos HTML verificables y animados. En este caso, en EE.UU., para visualizar proyectos de sistemas complejos, soporta la exportación de resultados en alta resolución.
+Archify es una habilidad de agente de IA (agent skill) que genera esquemas de arquitectura, flujo de datos y flujos de trabajo como archivos HTML animados y verificables. Utilizada para visualizar diseños de sistemas complejos, esta herramienta admite la exportación de diagramas en alta resolución.
 
-- ★ 72.294
-- JavaScript
-- GitHub Trending · 2026-08-27
+- ★ 73.342
+- GitHub Trending · 2026-08-26
 
 ## Qué aporta
-- Convierte la base del código en mapas interactivos del sistema.
-- Valida comparativamente los cambios arquitectónicos.
-- Produce resultados visuales de alta resolución y tarjetas para compartir.
+- convierte tus ideas y planes en visuales HTML animados
+- funciona directamente con descripciones de texto sin necesidad de un repositorio de código
+- prepara esquemas detallados de arquitectura, flujo de datos y flujos de trabajo
 
 ## Instalación
-**Instalación general**
+**Ejecute el siguiente comando para instalar la herramienta**
 
 ```
 npx skills add tt-a1i/archify -g
 ```
 
-**Configuración del cursor**
-
-```
-npx -y skills add tt-a1i/archify --skill archify --agent cursor --global --copy --yes
-```
-
 
 ## Si no programa
-Analice esta base de código y cree un diagrama de arquitectura de tiempo de ejecución de alto nivel utilizando Archify. Muestre entre 8 y 12 componentes clave, ruta de datos principal, dependencias externas y límites de confianza. Presente los detalles de apoyo en tarjetas didácticas en lugar de en los márgenes.
+Use Archify to diagram a web request: Browser calls the API, the API checks Redis, and a cache miss queries PostgreSQL and fills the cache.
 
 ## Términos relacionados del glosario
 

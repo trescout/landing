@@ -1,38 +1,33 @@
-# Gestionar el navegador web con inteligencia artificial
+# Automatización de navegadores con inteligencia artificial
 
-El uso del navegador es una biblioteca Python que permite que agentes de inteligencia artificial interactúen con sitios de Internet como los humanos. Por esta razón, el control es gratuito, el proceso de automatización se basa en la web, el permiso es en línea, el complejo se realiza, la inteligencia es artificial.
+Browser-use es una biblioteca de Python que permite a los agentes de inteligencia artificial interactuar con sitios web como lo hacen las personas. Facilita la automatización de tareas complejas en Internet mediante operaciones basadas en el navegador.
 
 - ★ 112.224
-- Python
-- GitHub Trending · 2026-08-27
+- GitHub Trending · 2026-08-26
 
 ## Qué aporta
-- Rellena automáticamente formularios en sitios web
-- Extrae datos estructurados de páginas web.
-- Hace clic y escribe como un humano
+- Permite que los agentes de inteligencia artificial interactúen con sitios web.
+- Automatiza operaciones basadas en el navegador y tareas complejas.
+- Compatible para trabajar con navegadores locales o basados en la nube.
 
 ## Instalación
-**Instale la biblioteca en su computadora**
+**Agregar biblioteca**
 
 ```
 uv add browser-use
-# or: pip install browser-use
 ```
 
 
 ## Ejecución
-**Iniciar tareas desde la nube**
+**Ejecutar script**
 
 ```
-curl -X POST https://api.browser-use.com/api/v4/runs \
-  -H "X-Browser-Use-API-Key: $BROWSER_USE_API_KEY" \
-  -H "Content-Type: application/json" \
-  -d '{"task": "Your task"}'
+uv run agent.py
 ```
 
 
 ## Si no programa
-Instale o actualice el uso del navegador a la última versión estable con uv usando Python 3.12, ejecute "instalación de habilidades de uso del navegador" para registrar la habilidad y conéctela a mi navegador. Si la configuración o la conexión fallan, siga https://github.com/browser-use/browser-harness/blob/main/install.md.
+Para automatizar operaciones basadas en el navegador, instala la biblioteca con el comando uv add browser-use, añade tu clave de API de OpenAI al archivo .env y ejecuta el agente de navegación con el comando uv run agent.py.
 
 ## Términos relacionados del glosario
 

@@ -1,38 +1,33 @@
-# Gerencie o navegador da web com inteligência artificial
+# Automação de navegador por inteligência artificial
 
-Browser-use é uma biblioteca Python que permite que agentes de inteligência artificial interajam com sites da internet como os humanos. Por isso o controle é gratuito, o processo de automatização é baseado na web, a licença é online, o complexo é realizado, a inteligência é artificial.
+Browser-use é uma biblioteca Python que permite que agentes de inteligência artificial interajam com sites da mesma forma que os humanos. Ela possibilita a automatização de tarefas complexas na internet por meio de operações baseadas no navegador.
 
 - ★ 112.224
-- Python
-- GitHub Trending · 2026-08-27
+- GitHub Trending · 2026-08-26
 
 ## O que você ganha
-- Preenche formulários automaticamente em sites
-- Extrai dados estruturados de páginas da web
-- Cliques e digitações como um ser humano
+- Permite que agentes de inteligência artificial interajam com sites.
+- Automatiza operações baseadas no navegador e tarefas complexas.
+- Suporta o trabalho com navegadores locais ou baseados em nuvem.
 
 ## Instalação
-**Instale a biblioteca no seu computador**
+**Adicionar Biblioteca**
 
 ```
 uv add browser-use
-# or: pip install browser-use
 ```
 
 
 ## Execução
-**Inicie tarefas na nuvem**
+**Executar Script**
 
 ```
-curl -X POST https://api.browser-use.com/api/v4/runs \
-  -H "X-Browser-Use-API-Key: $BROWSER_USE_API_KEY" \
-  -H "Content-Type: application/json" \
-  -d '{"task": "Your task"}'
+uv run agent.py
 ```
 
 
 ## Se você não programa
-Instale ou atualize o uso do navegador para a versão estável mais recente com uv usando Python 3.12, execute `browser-use skill install` para registrar a habilidade e conecte-a ao meu navegador. Se a configuração ou conexão falhar, siga https://github.com/browser-use/browser-harness/blob/main/install.md.
+Para automatizar operações baseadas no navegador, instale a biblioteca com o comando uv add browser-use, adicione sua chave de API da OpenAI ao arquivo .env e execute o agente de navegação com o comando uv run agent.py.
 
 ## Termos relacionados do glossário
 

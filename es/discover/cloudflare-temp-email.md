@@ -1,78 +1,61 @@
 # Correo electrónico temporal gratuito en Cloudflare
 
-Cloudflare Temp Email es una plataforma de código abierto para crear un servicio de correo electrónico temporal (desechable) totalmente gratuito, sin servidor (serverless) y con tu propio dominio mediante Cloudflare Workers, Pages y D1/KV. Protege la privacidad mediante gestión de buzón, soporte para archivos adjuntos, bot de Telegram y limpieza automatizada.
+Cloudflare Temp Email es una plataforma de código abierto que le permite configurar un servicio de correo electrónico temporal (disposable email) totalmente gratuito, sin servidor (serverless) y que funciona con su propio dominio, utilizando la infraestructura de Cloudflare Workers, Pages y la base de datos D1/KV. Protege su privacidad personal mediante la gestión de bandejas de entrada, el almacenamiento de archivos adjuntos, la integración con bots de Telegram y mecanismos de limpieza automática.
 
 - ★ 11.734
 - TypeScript
 - GitHub Trending · 2026-07-23
 
-## Actualizaciones
-- 13 de septiembre de 2026: Estrellas 11.391 → 11.734, última versión v1.12.0 (13 de septiembre de 2026).
-- 23 de agosto de 2026: Estrellas 11.332 → 11.391, última versión v1.11.1 (22 de agosto de 2026).
-- 19 de agosto de 2026: Estrellas 11.156 → 11.332, última versión v1.11.0 (19 de agosto de 2026).
-- 2 de agosto de 2026: Estrellas 10.884 → 11.156, última versión v1.10.0 (31 de julio de 2026).
-
 ## Qué aporta
-- Coste cero de servidor y operación: Funciona con el generoso nivel gratuito de Cloudflare (100.000 peticiones Workers/día, Email Routing y Pages gratuitos) sin alquilar servidores externos.
-- Dominio personalizado y direcciones desbloqueables: Genera cuentas desechables usando tu propio dominio, eludiendo las listas de bloqueo aplicadas a los servicios públicos de correo temporal.
-- Análisis rápido de correo con Rust y WASM: Procesa mensajes complejos (MIME, multipart, HTML) en milisegundos mediante un módulo WebAssembly compilado en Rust.
-- Bot de Telegram y notificaciones inmediatas: Recibe alertas de nuevos correos directamente en Telegram, lee el contenido o genera nuevas direcciones al instante mediante comandos.
-- Limpieza automática y acceso protegido: Elimina automáticamente los mensajes y adjuntos caducados tras el periodo configurado y protege la administración con contraseña.
+- Cero costes de servidor y operativos: funciona sobre el generoso plan gratuito de Cloudflare (100.000 solicitudes de Workers al día, Email Routing gratuito y alojamiento de Pages) sin necesidad de alquilar un servidor externo.
+- Nombre de dominio personalizado y direcciones imposibles de bloquear: a diferencia de los servicios de correo electrónico temporal genéricos, genera direcciones de un solo uso con su propio nombre de dominio que no son detectadas por las listas negras de los sitios web.
+- Análisis de correo electrónico rápido con Rust y WASM: procesa correos electrónicos complejos con contenido MIME, multipart y HTML en milisegundos gracias a un módulo de WebAssembly compilado con Rust.
+- Bot de Telegram y notificaciones instantáneas: recibe notificaciones directamente a través de Telegram cuando llegue un nuevo correo electrónico, lee el contenido del mensaje o crea nuevas direcciones al instante mediante comandos del bot.
+- Limpieza automática y acceso seguro: elimina automáticamente los mensajes y archivos adjuntos antiguos tras un periodo determinado; impide el acceso no autorizado mediante una contraseña de administrador.
 
-## Cómo empezar y opciones de despliegue
+## Cómo empezar y opciones de instalación
+- Guía de instalación oficial →
+- Interfaz de demostración en vivo →
 
-El despliegue solo requiere una cuenta en Cloudflare y un dominio gestionado en Cloudflare DNS. Puedes desplegar en un clic conectando el repositorio de GitHub con Cloudflare Pages o aprovisionar la base D1 y los Workers localmente mediante Wrangler CLI.
-- [Guía oficial de instalación →](https://temp-mail-docs.awsl.uk)
-- [Interfaz de demostración en vivo →](https://mail.awsl.uk)
+## Arquitectura técnica y principio de funcionamiento
+- Integración de Cloudflare Email Routing: Todo el tráfico MX que llega a su dominio es recibido en la infraestructura de Cloudflare y, mediante una regla catch-all, se redirige directamente a la función Worker de captura.
+- Edge Worker y analizador Rust WASM: El flujo de correo electrónico entrante (raw stream) se transfiere a un motor Rust WASM optimizado que se ejecuta dentro del Worker para analizar rápidamente los encabezados, el cuerpo, el HTML y los archivos adjuntos.
+- Almacenamiento en Cloudflare D1 y R2: Los textos y metadatos de los correos electrónicos se almacenan en Cloudflare D1, una base de datos SQLite en el borde. Los archivos adjuntos se escriben opcionalmente en el almacenamiento de objetos Cloudflare R2.
+- Aplicación de página única (SPA) moderna: una interfaz web fácil de usar servida con latencia cero a través de la red CDN global de Cloudflare Pages.
+- API REST e integraciones externas: brinda la oportunidad de derivar nuevas direcciones de correo electrónico y consultar la bandeja de entrada a través de puntos finales de API REST para pruebas automatizadas o software de terceros.
 
-## Arquitectura técnica y funcionamiento interno
+## Instalación y despliegue de ejemplo
+**Pasos de despliegue con Wrangler CLI**
 
-Cloudflare Temp Email elimina la carga de mantener servidores de correo tradicionales (Postfix, Dovecot) mediante un diseño serverless moderno:
-- Enrutamiento de correo de Cloudflare (Email Routing): El tráfico MX entrante se recibe en la red de Cloudflare y se redirige a la función Worker receptora (catch-all).
-- Edge Worker y analizador Rust WASM: El flujo de correo en bruto es procesado por el motor Rust WASM optimizado para extraer cabeceras, cuerpo, HTML y adjuntos.
-- Almacenamiento Cloudflare D1 y R2: Los mensajes y metadatos se guardan en la base SQLite distribuida Cloudflare D1, mientras que los adjuntos pueden derivarse a Cloudflare R2.
-- Aplicación de página única (SPA) moderna: La interfaz web se entrega con latencia prácticamente nula a través de la red CDN global de Cloudflare Pages.
-- API REST e integraciones externas: Puntos de enlace programables permiten a pruebas automatizadas o flujos de CI/CD generar direcciones temporales y obtener códigos de verificación.
-
-## Instalación y ejemplo de despliegue
-
-```bash
-# 1. Clonar el repositorio e instalar dependencias
+```
+# 1. Depoyu klonlayin ve bagimliliklari kurun
 git clone https://github.com/dreamhunter2333/cloudflare_temp_email.git
 cd cloudflare_temp_email
 pnpm install
 
-# 2. Crear la base de datos Cloudflare D1
+# 2. Cloudflare D1 veritabanini olusturun
 npx wrangler d1 create temp_email_db
 
-# 3. Aplicar el esquema y desplegar
+# 3. Veritabani semasini calistirin ve yayinlayin
 npx wrangler d1 execute temp_email_db --file=./db/schema.sql
 pnpm run deploy
 ```
 
-## Si no programas
-🤖 Pega esto en tu agente de IA (Claude Code · Codex · Antigravity) 
-Quiero instalar el proyecto de código abierto dreamhunter2333/cloudflare_temp_email en Cloudflare con mi propio dominio. Dispongo de una cuenta de Cloudflare y un dominio configurado en Cloudflare DNS. ¿Podrías explicarme paso a paso cómo configurar las reglas de reenvío de Email Routing (catch-all), crear la base de datos D1 y publicar la interfaz en Cloudflare Pages? Además, ¿qué variables de entorno debo configurar para recibir alertas en un bot de Telegram?
 
-- **Para quién:** Desarrolladores, evaluadores de control de calidad y usuarios enfocados en la privacidad que buscan alojar un servicio de correo desechable gratis con dominio propio. 
-- **Licencia:** MIT (Código abierto) 
-- **Infraestructura:** Cloudflare Workers, Pages, D1 (SQLite) y Email Routing 
-- **Lenguajes y Herramientas:** TypeScript, Rust (WASM), Vue 3, Wrangler 
+## Si no programa
+Quiero configurar el proyecto de correo electrónico temporal de código abierto dreamhunter2333/cloudflare_temp_email que se ejecuta en Cloudflare con mi propio dominio. Tengo una cuenta de Cloudflare y un dominio vinculado a Cloudflare DNS. ¿Podrías explicarme paso a paso cómo configurar desde cero el enrutamiento de correo electrónico (Email Routing), la base de datos D1 y la interfaz de Cloudflare Pages a través del panel de control de Cloudflare? Además, ¿qué pasos de configuración debo seguir para redirigir los correos electrónicos entrantes a mi bot de Telegram?
 
 ## Preguntas frecuentes
-- ¿El plan gratuito de Cloudflare es suficiente para uso personal? Sí. El nivel gratuito ofrece 100.000 peticiones de Workers al día, junto con cuotas gratuitas de Email Routing y base de datos D1. Para usuarios individuales y pequeños equipos, superar estos límites es muy difícil; el sistema opera a coste cero.
-- ¿Es obligatorio contar con un dominio personalizado? Sí. Para recibir correos electrónicos, necesitas un dominio o subdominio gestionado en Cloudflare DNS. Esto también previene que tus direcciones sean bloqueadas por plataformas web.
-- ¿Los correos recibidos se guardan permanentemente? No, es un servicio de correo desechable. El administrador puede definir un periodo de retención (como 1 hora, 24 horas o 7 días); los registros expirados se eliminan automáticamente del almacenamiento.
-- ¿El servicio permite responder o enviar correos al exterior? Sí. Aunque Cloudflare Email Routing solo gestiona la recepción, el proyecto soporta el envío de correos salientes al integrarse con APIs de Resend, Brevo o un servidor SMTP externo.
-
-## Enlaces
-- [Repositorio en GitHub →](https://github.com/dreamhunter2333/cloudflare_temp_email)
-- [Leer en turco →](https://trescout.com/discover/cloudflare-temp-email/)
-
-TreScout no desarrolló esta herramienta · la descubrimos en las tendencias de GitHub y la resumimos en español. Esta página describe el repositorio a fecha de 2026-07-23.
+- ¿Es suficiente el plan gratuito de Cloudflare para uso personal? Sí. El plan gratuito de Cloudflare ofrece 100.000 solicitudes de Worker al día, Email Routing gratuito y una cuota para la base de datos D1. Para uso personal y equipos pequeños, es casi imposible superar estos límites; el sistema funciona con un coste totalmente nulo.
+- ¿Es necesario un dominio personalizado para utilizar el servicio? Sí. Para poder recibir correos electrónicos, debe disponer de un dominio (o subdominio, p. ej. mail.sudominio.com) gestionado a través de Cloudflare DNS. De este modo, podrá superar fácilmente los sitios que bloquean los servicios de correo electrónico temporal genéricos.
+- ¿Los correos electrónicos entrantes se almacenan permanentemente? No, este es un servicio de correo electrónico temporal. Como administrador del sistema, puede determinar el período de retención de los correos electrónicos (por ejemplo, 1 hora, 24 horas o 7 días) desde el panel; Las grabaciones caducadas se eliminan automáticamente del almacenamiento D1 y R2.
+- ¿Se pueden enviar respuestas de correo electrónico al exterior a través del servicio? Sí. Aunque Cloudflare Email Routing solo admite la recepción de correos electrónicos, el proyecto también permite enviar y responder correos electrónicos al exterior desde el panel web cuando se conecta una API de Resend, Brevo o un servidor SMTP personalizado.
 
 ## Términos relacionados del glosario
-Self-Hosted Cloud Computing Digital Privacy Open Source API Rust
+
+## Enlaces
+- Repositorio en GitHub →
+- Leer en turco →
 
 ---
 Fuente: TreScout Descubrir · https://trescout.com/es/discover/cloudflare-temp-email/

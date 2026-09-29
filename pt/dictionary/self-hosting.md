@@ -30,8 +30,8 @@ Sim, requer administração básica de servidor e conhecimento de rede.
 ## Ferramentas relacionadas
 - [N8n](/pt/discover/n8n/)
 - [Penpot](/pt/discover/penpot/)
-- [Plane](/pt/discover/plane/)
 - [Twenty](/pt/discover/twenty/)
+- [Plane](/pt/discover/plane/)
 - [AIRI](/pt/discover/airi/)
 - [Self-Hosting-Guide](/pt/discover/self-hosting-guide/)
 - [OpenStock](/pt/discover/openstock/)

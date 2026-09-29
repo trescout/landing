@@ -48,7 +48,7 @@ Bu görev için önce planı, belirsizlikleri ve etkilenecek dosyaları çıkar�
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-23 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Coding Agent Runtime Plugin AI Skills LLM Agent
+Coding Agent Plugin Runtime AI Skills LLM Agent
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/andrej-karpathy-skills/

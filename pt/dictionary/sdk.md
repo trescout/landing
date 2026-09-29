@@ -32,8 +32,8 @@ Pode ser escrito, mas é preciso codificar tudo do zero, o que leva muito tempo.
 ## Ferramentas relacionadas
 - [Cline](/pt/discover/cline/)
 - [OmniRoute](/pt/discover/omniroute/)
-- [Opendataloader PDF](/pt/discover/opendataloader-pdf/)
 - [Freellmapi](/pt/discover/freellmapi/)
+- [Opendataloader PDF](/pt/discover/opendataloader-pdf/)
 - [CUA](/pt/discover/cua/)
 - [iii](/pt/discover/iii/)
 - [Logto](/pt/discover/logto/)

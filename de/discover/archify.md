@@ -1,32 +1,25 @@
-# Lassen Sie Ihren KI-Agenten eine Systemkarte zeichnen
+# Erstellen Sie interaktive Systemdiagramme mit künstlicher Intelligenz
 
-Archifizierung und Beherrschung künstlicher Agenten (Agentenfähigkeiten), die Diagramme als Techniker, wie Flussdiagramme von Architekturen und Datenzyklen, wie HTML-Archive, überprüft und animiert, erstellen. In diesem Fall in den USA, um komplexe Projekte zu visualisieren und den Export von Ergebnissen mit hoher Auflösung zu unterstützen.
+Archify ist eine KI-Agentenfunktion (Agent Skill), die Architektur-, Datenfluss- und Workflow-Diagramme als verifizierbare und animierte HTML-Dateien generiert. Dieses Tool, das zur Visualisierung komplexer Systemdesigns verwendet wird, unterstützt den hochauflösenden Export von Diagrammen.
 
-- ★ 72.294
-- JavaScript
-- GitHub Trending · 2026-08-27
+- ★ 73.342
+- GitHub Trending · 2026-08-26
 
 ## Was es bringt
-- Wandelt die Codebasis in interaktive Systemkarten um
-- Validiert vergleichend architektonische Änderungen
-- Erzeugt hochauflösende visuelle Ausgabe und Freigabekarten
+- verwandelt Ihre Ideen und Pläne in animierte HTML-Grafiken
+- arbeitet direkt mit Textbeschreibungen, ohne dass ein Code-Repository erforderlich ist
+- erstellt detaillierte Architektur-, Datenfluss- und Workflow-Diagramme
 
 ## Installation
-**Allgemeine Installation**
+**Führen Sie den folgenden Befehl aus, um das Tool zu installieren**
 
 ```
 npx skills add tt-a1i/archify -g
 ```
 
-**Setup für Cursor**
-
-```
-npx -y skills add tt-a1i/archify --skill archify --agent cursor --global --copy --yes
-```
-
 
 ## Wenn Sie nicht programmieren
-Analysieren Sie diese Codebasis und erstellen Sie mit Archify ein allgemeines Laufzeitarchitekturdiagramm. Zeigen Sie 8–12 Schlüsselkomponenten, den primären Datenpfad, externe Abhängigkeiten und Vertrauensgrenzen an. Präsentieren Sie unterstützende Details in Karteikarten und nicht am Rand.
+Use Archify to diagram a web request: Browser calls the API, the API checks Redis, and a cache miss queries PostgreSQL and fills the cache.
 
 ## Verwandte Begriffe aus dem Glossar
 

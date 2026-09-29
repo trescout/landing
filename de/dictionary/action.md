@@ -28,6 +28,7 @@ Prompt ist eine Aufforderung, Aktion ist die konkrete Aktion, die als Ergebnis d
 - [Agentic Workflows](/de/dictionary/agentic-workflows/)
 
 ## Verwandte Werkzeuge
+- [Claude Code Action](/de/discover/claude-code-action/)
 - [Embabel Agent](/de/discover/embabel-agent/)
 
 ---
