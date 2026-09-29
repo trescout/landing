@@ -1,0 +1,633 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-29",
+  "capturedAt": "2026-09-29T11:02:40.492Z",
+  "editorial": "Ce rapport contient les tendances qui sont apparues pour la première fois aujourd'hui, sans répéter les enregistrements figurant dans les rapports normaux des 30 derniers jours.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "NVIDIA/OpenShell",
+          "url": "https://github.com/NVIDIA/OpenShell",
+          "summary": "OpenShell, développé par NVIDIA, offre un environnement d'exécution (runtime) sécurisé et axé sur la confidentialité pour les agents d'intelligence artificielle autonomes. Écrite en Rust, cette infrastructure vise à créer un espace d'exécution sécurisé en isolant l'accès des agents aux ressources système.",
+          "meta": "Rust · ★ 9 860 · +978 aujourd'hui",
+          "snapshot": {
+            "sourceId": "NVIDIA/OpenShell",
+            "capturedAt": "2026-09-29T11:02:41.583Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 9860,
+              "engagementCount": 978,
+              "rank": 2,
+              "extra": {
+                "starsToday": 978
+              }
+            }
+          }
+        },
+        {
+          "title": "t8y2/dbx",
+          "url": "https://github.com/t8y2/dbx",
+          "summary": "Développé en Rust, dbx propose un client de base de données léger de 25 Mo prenant en charge plus de 100 types de bases de données. L'application de bureau inclut des fonctionnalités telles qu'une interface de ligne de commande (CLI), la prise en charge de Docker, ainsi qu'un assistant IA intégré et le protocole de connexion aux modèles (MCP).",
+          "meta": "Rust · ★ 21 615 · +460 aujourd'hui",
+          "snapshot": {
+            "sourceId": "t8y2/dbx",
+            "capturedAt": "2026-09-29T11:02:41.583Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 21615,
+              "engagementCount": 460,
+              "rank": 5,
+              "extra": {
+                "starsToday": 460
+              }
+            }
+          }
+        },
+        {
+          "title": "oblien/openship",
+          "url": "https://github.com/oblien/openship",
+          "summary": "OpenShip est une plateforme de déploiement open source qui vous permet d'héberger des applications sur vos propres serveurs. Elle donne aux développeurs la possibilité de gérer les processus d'installation automatique offerts par les services basés sur le cloud au sein de leur propre infrastructure.",
+          "meta": "TypeScript · ★ 13 537 · +436 aujourd'hui",
+          "returning": true,
+          "snapshot": {
+            "sourceId": "oblien/openship",
+            "capturedAt": "2026-09-29T11:02:41.583Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 13537,
+              "engagementCount": 436,
+              "rank": 7,
+              "extra": {
+                "starsToday": 436
+              }
+            }
+          }
+        },
+        {
+          "title": "VectifyAI/PageIndex",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "summary": "PageIndex est un outil d'indexation de documents qui fonctionne avec une capacité de raisonnement sans avoir besoin de méthodes de recherche basées sur des vecteurs. Au lieu des bases de données vectorielles traditionnelles (Vector Databases), il utilise l'inférence logique basée sur le texte pour optimiser les processus RAG (Génération augmentée par récupération).",
+          "meta": "Python · ★ 36 705 · +822 aujourd'hui",
+          "snapshot": {
+            "sourceId": "VectifyAI/PageIndex",
+            "capturedAt": "2026-09-29T11:02:41.583Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 36705,
+              "engagementCount": 822,
+              "rank": 11,
+              "extra": {
+                "starsToday": 822
+              }
+            }
+          }
+        },
+        {
+          "title": "willfaust/Madeira",
+          "url": "https://github.com/willfaust/Madeira",
+          "summary": "Madeira est un projet de couche de compatibilité qui permet d'exécuter des jeux Windows sous architecture x86-64 sur des appareils iOS restreints (jailed). Le logiciel fonctionne en combinant FEX-Emu pour l'émulation de processeur, Wine pour la couche d'application Windows et DXMT pour la conversion graphique.",
+          "meta": "C · ★ 1 016 · +229 aujourd'hui",
+          "snapshot": {
+            "sourceId": "willfaust/Madeira",
+            "capturedAt": "2026-09-29T11:02:41.583Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 1016,
+              "engagementCount": 229,
+              "rank": 12,
+              "extra": {
+                "starsToday": 229
+              }
+            }
+          }
+        },
+        {
+          "title": "rakyll/hey",
+          "url": "https://github.com/rakyll/hey",
+          "summary": "Développé en langage Go, hey est un outil de test de charge utilisé pour mesurer les performances des serveurs web. Il offre une alternative moderne et rapide à l'outil de benchmarking classique appelé ApacheBench (ab).",
+          "meta": "Go · ★ 20 368 · +31 aujourd'hui",
+          "snapshot": {
+            "sourceId": "rakyll/hey",
+            "capturedAt": "2026-09-29T11:02:41.583Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 20368,
+              "engagementCount": 31,
+              "rank": 14,
+              "extra": {
+                "starsToday": 31
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Sonnet 5.5",
+          "url": "https://www.anthropic.com/claude-sonnet-5-5",
+          "summary": "Claude 3.5 Sonnet, annoncé par Anthropic, est un grand modèle de langage (large language model) offrant des performances élevées dans les tâches de raisonnement complexe et de codage. Le modèle se distingue par des temps de réponse plus rapides et des capacités de traitement visuel améliorées par rapport aux versions précédentes.",
+          "meta": "808 votes · 537 commentaires",
+          "snapshot": {
+            "sourceId": "49881850",
+            "capturedAt": "2026-09-29T11:02:40.921Z",
+            "metadata": {
+              "popularity": 808,
+              "engagementCount": 537,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49881850",
+                  "popularity": 808,
+                  "engagementCount": 537
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "D2OQZG8l5BI1S06",
+                "createdAt": "2026-09-28T17:58:11Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49881850"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49881850",
+              "popularity": 808,
+              "engagementCount": 537
+            }
+          ]
+        },
+        {
+          "title": "Pirating the Pirates",
+          "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+          "summary": "Les plateformes numériques utilisent des outils de blocage automatique basés sur l'intelligence artificielle pour lutter contre la diffusion non autorisée de contenus protégés par le droit d'auteur par des sites pirates. Ce processus entraîne parfois des erreurs techniques conduisant les propriétaires de contenu original à supprimer leurs propres publications, les confondant avec du contenu piraté.",
+          "meta": "600 votes · 300 commentaires",
+          "snapshot": {
+            "sourceId": "49880036",
+            "capturedAt": "2026-09-29T11:02:40.921Z",
+            "metadata": {
+              "popularity": 600,
+              "engagementCount": 300,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49880036",
+                  "popularity": 600,
+                  "engagementCount": 300
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "piotrgrabowski",
+                "createdAt": "2026-09-28T15:54:15Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49880036"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49880036",
+              "popularity": 600,
+              "engagementCount": 300
+            }
+          ]
+        },
+        {
+          "title": "Updated Google Maps shows destruction of the city of Rafah",
+          "url": "https://twitter.com/AliAbunimah/status/2103890594137309425",
+          "summary": "Google Maps met à jour ses images satellites pour refléter l'état actuel des destructions dans la ville de Rafah. Cette mise à jour permet de suivre les changements physiques dans la région via des données cartographiques numériques.",
+          "meta": "588 votes · 423 commentaires",
+          "snapshot": {
+            "sourceId": "49879645",
+            "capturedAt": "2026-09-29T11:02:40.921Z",
+            "metadata": {
+              "popularity": 588,
+              "engagementCount": 423,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49879645",
+                  "popularity": 588,
+                  "engagementCount": 423
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "slowin",
+                "createdAt": "2026-09-28T15:32:18Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49879645"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49879645",
+              "popularity": 588,
+              "engagementCount": 423
+            }
+          ]
+        },
+        {
+          "title": "It's Time to Investigate the AI Labs",
+          "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+          "summary": "Cal Newport soutient que les grands laboratoires d'intelligence artificielle doivent être soumis à des audits indépendants concernant les normes de transparence et de sécurité. Il propose d'ouvrir à l'examen public les travaux menés par les entreprises technologiques à huis clos, dans l'intérêt général et au regard des risques sociétaux.",
+          "meta": "516 votes · 209 commentaires",
+          "snapshot": {
+            "sourceId": "49883471",
+            "capturedAt": "2026-09-29T11:02:40.921Z",
+            "metadata": {
+              "popularity": 516,
+              "engagementCount": 209,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49883471",
+                  "popularity": 516,
+                  "engagementCount": 209
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "ibobev",
+                "createdAt": "2026-09-28T19:53:35Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49883471"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49883471",
+              "popularity": 516,
+              "engagementCount": 209
+            }
+          ]
+        },
+        {
+          "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+          "url": "https://github.com/firelex/jeff",
+          "summary": "Jeff propose des modèles de décision (decision models) de 0,8 milliard de paramètres compatibles avec Jev, entraînés dans un environnement domestique et offrant un temps de réponse inférieur à 30 millisecondes. Ces modèles d'IA légers constituent une alternative optimisée pour les processus de prise de décision à faible latence.",
+          "meta": "505 votes · 192 commentaires",
+          "snapshot": {
+            "sourceId": "49883844",
+            "capturedAt": "2026-09-29T11:02:40.921Z",
+            "metadata": {
+              "popularity": 505,
+              "engagementCount": 192,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49883844",
+                  "popularity": 505,
+                  "engagementCount": 192
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "firelex",
+                "createdAt": "2026-09-28T20:23:36Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49883844"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49883844",
+              "popularity": 505,
+              "engagementCount": 192
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "XingChen-AGI/TeleOCR",
+          "url": "https://huggingface.co/XingChen-AGI/TeleOCR",
+          "summary": "TeleOCR, développé par XingChen-AGI, est un modèle image-vers-texte (image-to-text) qui traite les textes présents dans les images pour les convertir en sorties textuelles significatives. Il vise particulièrement à assurer une grande précision dans la numérisation de documents complexes et les processus de reconnaissance optique de caractères (OCR).",
+          "meta": "♥ 830 · 30 354 téléchargements",
+          "snapshot": {
+            "sourceId": "XingChen-AGI/TeleOCR",
+            "capturedAt": "2026-09-29T11:02:40.638Z",
+            "metadata": {
+              "popularity": 830,
+              "engagementCount": 30354,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 699,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen2_5_vl",
+                  "image-text-to-text",
+                  "ocr",
+                  "document-parsing",
+                  "multimodal",
+                  "conversational",
+                  "custom_code",
+                  "zh",
+                  "en",
+                  "arxiv:2608.12898",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "text-generation-inference",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "G^2PTQ: Improving LLM Post-Training Quantization with Generalized Gradient Compensation",
+          "url": "https://huggingface.co/papers/2609.31009",
+          "summary": "G^2PTQ est une méthode développée pour remédier aux pertes de performance rencontrées lors du processus de quantification post-entraînement (post-training quantization) des grands modèles de langage (large language models). En combinant des objectifs locaux basés sur les couches avec des informations de gradient globales, il vise à réduire l'utilisation de la mémoire du modèle tout en maintenant son taux de précision.",
+          "meta": "1 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.31009",
+            "capturedAt": "2026-09-29T11:02:40.641Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.31009",
+                "publishedAt": "2026-09-25T00:00:00.000Z",
+                "githubRepo": "https://github.com/G2PTQ/G2PTQ",
+                "githubStars": 2
+              }
+            }
+          }
+        },
+        {
+          "title": "Groupwise Agentic Grading and Advantage Redistribution for Code Agent RL",
+          "url": "https://huggingface.co/papers/2609.32577",
+          "summary": "L'optimisation de politique basée sur les groupes (GRPO), utilisée dans le processus d'apprentissage par renforcement (reinforcement learning) des agents d'IA générateurs de code, ignore les différences de qualité en accordant la même récompense à tous les codes réussissant les tests. La méthode GAG propose un nouveau système de classement qui compare les sorties de code au sein d'un groupe, récompensant ainsi les implémentations plus propres et mieux ciblées.",
+          "meta": "7 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.32577",
+            "capturedAt": "2026-09-29T11:02:40.641Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.32577",
+                "publishedAt": "2026-09-26T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Relic: From Multi-Agent Collaboration to Persistent Organizational Capability",
+          "url": "https://huggingface.co/papers/2609.32965",
+          "summary": "Relic est un cadre qui transforme les erreurs de collaboration rencontrées dans les systèmes multi-agents d'IA en protocoles exécutables appartenant à l'organisation. Ce système empêche les équipes d'agents de répéter des erreurs similaires en convertissant les déductions faites sur les dysfonctionnements en règles permanentes.",
+          "meta": "3 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.32965",
+            "capturedAt": "2026-09-29T11:02:40.641Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.32965",
+                "publishedAt": "2026-09-26T00:00:00.000Z",
+                "githubRepo": "https://github.com/Hongyi-Du/Relic",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Nereus: Adaptive Parallelism for LLM Post-Training",
+          "url": "https://huggingface.co/papers/2609.34645",
+          "summary": "Nereus est un système de parallélisme adaptatif (adaptive parallelism) qui optimise dynamiquement l'utilisation des ressources lors des processus post-entraînement (post-training) des grands modèles de langage (large language models). Il augmente l'efficacité de l'entraînement en mettant à jour le plan de travail en temps réel en fonction de situations telles que la pression sur la mémoire dans les clusters GPU et les charges de travail variables.",
+          "meta": "5 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.34645",
+            "capturedAt": "2026-09-29T11:02:40.641Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.34645",
+                "publishedAt": "2026-09-28T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "FlowTool: Controlling Tool Parameter in Image Retouching via Flow Matching",
+          "url": "https://huggingface.co/papers/2609.35673",
+          "summary": "FlowTool permet un contrôle plus précis des paramètres des outils en modélisant les processus d'édition visuelle par la méthode de correspondance de flux (flow matching). En éliminant la nécessité de traitement séquentiel propre aux grands modèles de langage multimodaux (multimodal large language models) traditionnels, il génère directement des paramètres d'édition de haute qualité en fonction des commandes de l'utilisateur.",
+          "meta": "9 j'aime · 1 commentaires",
+          "snapshot": {
+            "sourceId": "2609.35673",
+            "capturedAt": "2026-09-29T11:02:40.641Z",
+            "metadata": {
+              "popularity": 9,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.35673",
+                "publishedAt": "2026-09-28T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Bill Gates tries to install Movie Maker",
+          "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+          "summary": "Les échanges d'e-mails concernant les difficultés techniques rencontrées par le fondateur de Microsoft, Bill Gates, lors de l'installation du logiciel de montage vidéo Windows Movie Maker, offrent un regard historique sur les processus d'expérience utilisateur (user experience) des grandes entreprises technologiques. Les documents partagés montrent que la complexité des processus d'installation de logiciels constituait par le passé un obstacle, même pour les cadres supérieurs de l'entreprise.",
+          "meta": "95 votes · 8 commentaires",
+          "snapshot": {
+            "sourceId": "lfqtgh",
+            "capturedAt": "2026-09-29T11:02:40.800Z",
+            "metadata": {
+              "popularity": 95,
+              "engagementCount": 8,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/lfqtgh/bill_gates_tries_install_movie_maker",
+                  "popularity": 95,
+                  "engagementCount": 8
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "windows"
+                ],
+                "createdAt": "2026-09-28T11:18:16.783-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/lfqtgh/bill_gates_tries_install_movie_maker",
+              "popularity": 95,
+              "engagementCount": 8
+            }
+          ]
+        },
+        {
+          "title": "What Would A Serious AI Product Look Like?",
+          "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+          "summary": "Pour améliorer l'expérience utilisateur dans les produits d'IA, des résultats prévisibles, une gestion sécurisée des erreurs et un mécanisme de contrôle transparent sont nécessaires. Les développeurs visent à concevoir des outils fiables et compatibles avec les flux de travail professionnels en réduisant l'incertitude des modèles d'IA générative (generative AI).",
+          "meta": "73 votes · 6 commentaires",
+          "snapshot": {
+            "sourceId": "q2rymh",
+            "capturedAt": "2026-09-29T11:02:40.800Z",
+            "metadata": {
+              "popularity": 73,
+              "engagementCount": 6,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/q2rymh/what_would_serious_ai_product_look_like",
+                  "popularity": 73,
+                  "engagementCount": 6
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "a11y",
+                  "design",
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-28T12:01:01.997-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/q2rymh/what_would_serious_ai_product_look_like",
+              "popularity": 73,
+              "engagementCount": 6
+            }
+          ]
+        },
+        {
+          "title": "Yes, no AI is now a feature",
+          "url": "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/",
+          "summary": "La suite logicielle bureautique LibreOffice a ajouté une fonctionnalité permettant aux utilisateurs de désactiver les outils d'IA générative (generative AI) dans leurs processus de traitement de texte. Cette mise à jour permet aux utilisateurs de garder un contrôle total sur leurs données et de désactiver complètement les automatisations assistées par l'IA.",
+          "meta": "116 votes · 10 commentaires",
+          "snapshot": {
+            "sourceId": "sxcz4v",
+            "capturedAt": "2026-09-29T11:02:40.800Z",
+            "metadata": {
+              "popularity": 116,
+              "engagementCount": 10,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/sxcz4v/yes_no_ai_is_now_feature",
+                  "popularity": 116,
+                  "engagementCount": 10
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "practices",
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-28T04:58:26.129-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/sxcz4v/yes_no_ai_is_now_feature",
+              "popularity": 116,
+              "engagementCount": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "runtime",
+      "explanation": "Le moment où un logiciel est exécuté sur un ordinateur et l'infrastructure de base dont il a besoin au cours de ce processus."
+    },
+    {
+      "term": "database client",
+      "explanation": "Le programme intermédiaire qui vous permet d'accéder aux informations de la base de données et de les gérer."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Une interface textuelle qui vous permet de gérer des programmes en écrivant des commandes écrites plutôt qu'avec la souris."
+    },
+    {
+      "term": "MCP",
+      "explanation": "Un système de pont qui permet aux modèles d'intelligence artificielle de se connecter à différentes sources de données et outils de manière standardisée."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "Plusieurs unités d'intelligence artificielle travaillant en communiquant entre elles pour résoudre une tâche complexe."
+    },
+    {
+      "term": "deployment platform",
+      "explanation": "Un service qui vous permet de mettre en ligne le logiciel que vous avez préparé et de le rendre accessible à tous."
+    },
+    {
+      "term": "Vector Databases",
+      "explanation": "Des dépôts de données spéciaux capables d'effectuer des recherches basées sur la similarité en convertissant les informations en nombres mathématiques."
+    },
+    {
+      "term": "jailed",
+      "explanation": "L'exécution d'un programme dans un espace sécurisé et restreint afin qu'il ne nuise pas au reste du système."
+    },
+    {
+      "term": "ab",
+      "explanation": "Un outil de test de performance simple utilisé pour mesurer combien de personnes un serveur web peut supporter simultanément."
+    },
+    {
+      "term": "large language model",
+      "explanation": "Des modèles d'intelligence artificielle entraînés sur de très grandes quantités de données, capables de comprendre le langage humain et de générer du texte."
+    },
+    {
+      "term": "Google Maps",
+      "explanation": "Un service de cartographie numérique et de navigation qui montre les lieux, les routes et les entreprises à travers le monde."
+    },
+    {
+      "term": "decision models",
+      "explanation": "Des structures logiques qui tentent de prendre la décision la plus précise concernant une situation à la lumière de règles ou de données spécifiques."
+    }
+  ]
+}

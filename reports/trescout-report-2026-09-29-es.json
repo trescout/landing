@@ -1,0 +1,935 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-29",
+  "capturedAt": "2026-09-29T11:02:40.492Z",
+  "editorial": "Hoy, la agenda tecnológica se centra en las técnicas de cuantización (quantization) de los modelos de lenguaje grandes (LLM) y en el aumento del rendimiento de los agentes autónomos que escriben código (code agents). Los investigadores están ampliando los conjuntos de herramientas para desarrolladores compartiendo nuevos métodos centrados en la optimización y eficiencia de modelos a través de GitHub y HuggingFace.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "summary": "VoiceStudio es una plataforma de procesamiento de voz de código abierto que realiza tareas como la clonación de voz y el doblaje de video sin necesidad de internet. Ofrece una alternativa local y gratuita al servicio de síntesis de voz ElevenLabs, proporcionando funciones como locución de texto, dictado y transcripción en 646 idiomas.",
+          "meta": "Python · ★ 46.164 · +3.221 hoy",
+          "snapshot": {
+            "sourceId": "debpalash/VoiceStudio",
+            "capturedAt": "2026-09-29T11:02:41.583Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 46164,
+              "engagementCount": 3221,
+              "rank": 1,
+              "extra": {
+                "starsToday": 3221
+              }
+            }
+          }
+        },
+        {
+          "title": "NVIDIA/OpenShell",
+          "url": "https://github.com/NVIDIA/OpenShell",
+          "summary": "OpenShell, desarrollado por NVIDIA, ofrece un entorno de ejecución (runtime) seguro y centrado en la privacidad para agentes de inteligencia artificial autónomos. Esta infraestructura, escrita en lenguaje Rust, tiene como objetivo crear un espacio de ejecución seguro aislando el acceso de los agentes a los recursos del sistema.",
+          "meta": "Rust · ★ 9.860 · +978 hoy",
+          "snapshot": {
+            "sourceId": "NVIDIA/OpenShell",
+            "capturedAt": "2026-09-29T11:02:41.583Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 9860,
+              "engagementCount": 978,
+              "rank": 2,
+              "extra": {
+                "starsToday": 978
+              }
+            }
+          }
+        },
+        {
+          "title": "vectorize-io/hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "summary": "Hindsight ofrece una capa de memoria (memory layer) de aprendizaje para agentes de inteligencia artificial. Permite que los agentes mejoren sus procesos de toma de decisiones mediante la inferencia a partir de interacciones pasadas.",
+          "meta": "Python · ★ 41.913 · +4.561 hoy",
+          "snapshot": {
+            "sourceId": "vectorize-io/hindsight",
+            "capturedAt": "2026-09-29T11:02:41.583Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 41913,
+              "engagementCount": 4561,
+              "rank": 3,
+              "extra": {
+                "starsToday": 4561
+              }
+            }
+          }
+        },
+        {
+          "title": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "summary": "Paperclip es una aplicación de código abierto que permite gestionar los agentes de inteligencia artificial (AI agents) en el lugar de trabajo desde un único centro. Desarrollada con TypeScript, esta herramienta facilita el seguimiento y la coordinación de los agentes utilizados en diferentes flujos de trabajo.",
+          "meta": "TypeScript · ★ 93.872 · +3.197 hoy",
+          "snapshot": {
+            "sourceId": "paperclipai/paperclip",
+            "capturedAt": "2026-09-29T11:02:41.583Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 93872,
+              "engagementCount": 3197,
+              "rank": 4,
+              "extra": {
+                "starsToday": 3197
+              }
+            }
+          }
+        },
+        {
+          "title": "t8y2/dbx",
+          "url": "https://github.com/t8y2/dbx",
+          "summary": "Desarrollado en lenguaje Rust, dbx ofrece un cliente de base de datos (database client) ligero de 25 MB que admite más de 100 tipos de bases de datos. La aplicación de escritorio incluye funciones como una interfaz de línea de comandos (CLI), soporte para Docker, un asistente de inteligencia artificial integrado y el Protocolo de Conexión de Modelos (MCP).",
+          "meta": "Rust · ★ 21.615 · +460 hoy",
+          "snapshot": {
+            "sourceId": "t8y2/dbx",
+            "capturedAt": "2026-09-29T11:02:41.583Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 21615,
+              "engagementCount": 460,
+              "rank": 5,
+              "extra": {
+                "starsToday": 460
+              }
+            }
+          }
+        },
+        {
+          "title": "mvschwarz/openrig",
+          "url": "https://github.com/mvschwarz/openrig",
+          "summary": "Openrig es una infraestructura multi-agente (multi-agent) que combina diferentes herramientas de codificación de inteligencia artificial como Claude Code y Codex en un solo sistema. Su objetivo es aumentar la eficiencia en la producción de código permitiendo que múltiples modelos trabajen simultáneamente en los procesos de desarrollo de software.",
+          "meta": "TypeScript · ★ 2.044 · +734 hoy",
+          "snapshot": {
+            "sourceId": "mvschwarz/openrig",
+            "capturedAt": "2026-09-29T11:02:41.583Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 2044,
+              "engagementCount": 734,
+              "rank": 6,
+              "extra": {
+                "starsToday": 734
+              }
+            }
+          }
+        },
+        {
+          "title": "oblien/openship",
+          "url": "https://github.com/oblien/openship",
+          "summary": "OpenShip es una plataforma de despliegue (deployment platform) de código abierto que le permite alojar aplicaciones en sus propios servidores. Ofrece a los desarrolladores la posibilidad de gestionar los procesos de instalación automática que ofrecen los servicios basados en la nube dentro de su propia infraestructura.",
+          "meta": "TypeScript · ★ 13.537 · +436 hoy",
+          "snapshot": {
+            "sourceId": "oblien/openship",
+            "capturedAt": "2026-09-29T11:02:41.583Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 13537,
+              "engagementCount": 436,
+              "rank": 7,
+              "extra": {
+                "starsToday": 436
+              }
+            }
+          }
+        },
+        {
+          "title": "averygan/reclip",
+          "url": "https://github.com/averygan/reclip",
+          "summary": "Reclip es una herramienta de descarga de medios ligera que puede alojar en su propio servidor y que permite descargar videos de casi cualquier sitio web. Este software, que ofrece una interfaz web sencilla, simplifica el proceso de guardar archivos de video en su dispositivo local.",
+          "meta": "HTML · ★ 9.788 · +114 hoy",
+          "snapshot": {
+            "sourceId": "averygan/reclip",
+            "capturedAt": "2026-09-29T11:02:41.583Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 9788,
+              "engagementCount": 114,
+              "rank": 8,
+              "extra": {
+                "starsToday": 114
+              }
+            }
+          }
+        },
+        {
+          "title": "cs341-illinois/coursebook",
+          "url": "https://github.com/cs341-illinois/coursebook",
+          "summary": "El libro de texto de programación de sistemas compartido por la Universidad de Illinois aborda los procesos de desarrollo de software de bajo nivel a un nivel fundamental. Este recurso de código abierto, preparado en lenguaje TeX, ofrece una guía académica sobre arquitectura de sistemas y gestión de memoria.",
+          "meta": "TeX · ★ 2.761 · +195 hoy",
+          "snapshot": {
+            "sourceId": "cs341-illinois/coursebook",
+            "capturedAt": "2026-09-29T11:02:41.583Z",
+            "metadata": {
+              "language": "TeX",
+              "popularity": 2761,
+              "engagementCount": 195,
+              "rank": 9,
+              "extra": {
+                "starsToday": 195
+              }
+            }
+          }
+        },
+        {
+          "title": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "summary": "Este recurso, preparado para quienes se inician en el campo de la ingeniería de inteligencia artificial (AI engineering), enseña los procesos de desarrollo de aplicaciones y despliegue desde cero utilizando el lenguaje Python. Al combinar el conocimiento teórico con proyectos prácticos, permite a los usuarios construir su propio software basado en inteligencia artificial.",
+          "meta": "Python · ★ 60.768 · +1.287 hoy",
+          "snapshot": {
+            "sourceId": "rohitg00/ai-engineering-from-scratch",
+            "capturedAt": "2026-09-29T11:02:41.583Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 60768,
+              "engagementCount": 1287,
+              "rank": 10,
+              "extra": {
+                "starsToday": 1287
+              }
+            }
+          }
+        },
+        {
+          "title": "VectifyAI/PageIndex",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "summary": "PageIndex es una herramienta de indexación de documentos que funciona con capacidad de razonamiento sin necesidad de métodos de búsqueda basados en vectores. Optimiza los procesos de RAG (Generación Aumentada por Recuperación) utilizando inferencia lógica basada en texto en lugar de bases de datos vectoriales (Vector Databases) tradicionales.",
+          "meta": "Python · ★ 36.705 · +822 hoy",
+          "snapshot": {
+            "sourceId": "VectifyAI/PageIndex",
+            "capturedAt": "2026-09-29T11:02:41.583Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 36705,
+              "engagementCount": 822,
+              "rank": 11,
+              "extra": {
+                "starsToday": 822
+              }
+            }
+          }
+        },
+        {
+          "title": "willfaust/Madeira",
+          "url": "https://github.com/willfaust/Madeira",
+          "summary": "Madeira es un proyecto de capa de compatibilidad que permite ejecutar juegos de Windows con arquitectura x86-64 en dispositivos iOS con jailbreak. El software funciona combinando FEX-Emu, que realiza la emulación del procesador, Wine, la capa de aplicación de Windows, y DXMT, el convertidor de gráficos.",
+          "meta": "C · ★ 1.016 · +229 hoy",
+          "snapshot": {
+            "sourceId": "willfaust/Madeira",
+            "capturedAt": "2026-09-29T11:02:41.583Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 1016,
+              "engagementCount": 229,
+              "rank": 12,
+              "extra": {
+                "starsToday": 229
+              }
+            }
+          }
+        },
+        {
+          "title": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "summary": "Univer es una plataforma de software de código abierto que combina herramientas de oficina como hojas de cálculo, documentos, presentaciones y edición de PDF en un solo tiempo de ejecución (runtime). Desarrollada con TypeScript, esta estructura ofrece una infraestructura que permite a los agentes de inteligencia artificial interactuar directamente con los documentos de oficina.",
+          "meta": "TypeScript · ★ 21.582 · +1.099 hoy",
+          "snapshot": {
+            "sourceId": "dream-num/univer",
+            "capturedAt": "2026-09-29T11:02:41.583Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 21582,
+              "engagementCount": 1099,
+              "rank": 13,
+              "extra": {
+                "starsToday": 1099
+              }
+            }
+          }
+        },
+        {
+          "title": "rakyll/hey",
+          "url": "https://github.com/rakyll/hey",
+          "summary": "hey, desarrollado en el lenguaje Go, es una herramienta de prueba de carga utilizada para medir el rendimiento de los servidores web. Ofrece una alternativa moderna y rápida a la herramienta de evaluación comparativa clásica llamada ApacheBench (ab).",
+          "meta": "Go · ★ 20.368 · +31 hoy",
+          "snapshot": {
+            "sourceId": "rakyll/hey",
+            "capturedAt": "2026-09-29T11:02:41.583Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 20368,
+              "engagementCount": 31,
+              "rank": 14,
+              "extra": {
+                "starsToday": 31
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "Sonnet 5.5",
+          "url": "https://www.anthropic.com/claude-sonnet-5-5",
+          "summary": "Claude 3.5 Sonnet, anunciado por Anthropic, es un modelo de lenguaje grande (large language model) que ofrece un alto rendimiento en tareas complejas de razonamiento y codificación. El modelo destaca por tiempos de respuesta más rápidos y capacidades de procesamiento visual mejoradas en comparación con las versiones anteriores.",
+          "meta": "808 puntos · 537 comentarios",
+          "snapshot": {
+            "sourceId": "49881850",
+            "capturedAt": "2026-09-29T11:02:40.921Z",
+            "metadata": {
+              "popularity": 808,
+              "engagementCount": 537,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49881850",
+                  "popularity": 808,
+                  "engagementCount": 537
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "D2OQZG8l5BI1S06",
+                "createdAt": "2026-09-28T17:58:11Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49881850"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49881850",
+              "popularity": 808,
+              "engagementCount": 537
+            }
+          ]
+        },
+        {
+          "title": "Pirating the Pirates",
+          "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+          "summary": "Las plataformas digitales utilizan herramientas de bloqueo automático impulsadas por inteligencia artificial contra la publicación no autorizada de contenido protegido por derechos de autor por parte de sitios piratas. Este proceso a veces conlleva errores técnicos que provocan que los propios propietarios del contenido original eliminen sus publicaciones al confundirlas con contenido pirata.",
+          "meta": "600 puntos · 300 comentarios",
+          "snapshot": {
+            "sourceId": "49880036",
+            "capturedAt": "2026-09-29T11:02:40.921Z",
+            "metadata": {
+              "popularity": 600,
+              "engagementCount": 300,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49880036",
+                  "popularity": 600,
+                  "engagementCount": 300
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "piotrgrabowski",
+                "createdAt": "2026-09-28T15:54:15Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49880036"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49880036",
+              "popularity": 600,
+              "engagementCount": 300
+            }
+          ]
+        },
+        {
+          "title": "Updated Google Maps shows destruction of the city of Rafah",
+          "url": "https://twitter.com/AliAbunimah/status/2103890594137309425",
+          "summary": "Google Maps actualiza las imágenes satelitales para reflejar el estado actual de destrucción en la ciudad de Rafah. Esta actualización permite realizar un seguimiento de los cambios físicos en la región a través de datos de mapas digitales.",
+          "meta": "588 puntos · 423 comentarios",
+          "snapshot": {
+            "sourceId": "49879645",
+            "capturedAt": "2026-09-29T11:02:40.921Z",
+            "metadata": {
+              "popularity": 588,
+              "engagementCount": 423,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49879645",
+                  "popularity": 588,
+                  "engagementCount": 423
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "slowin",
+                "createdAt": "2026-09-28T15:32:18Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49879645"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49879645",
+              "popularity": 588,
+              "engagementCount": 423
+            }
+          ]
+        },
+        {
+          "title": "It's Time to Investigate the AI Labs",
+          "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+          "summary": "Cal Newport sostiene que los grandes laboratorios de inteligencia artificial deben someterse a auditorías independientes sobre estándares de transparencia y seguridad. Propone abrir al escrutinio público, en términos de interés público y riesgos sociales, el trabajo que las empresas tecnológicas realizan a puerta cerrada.",
+          "meta": "516 puntos · 209 comentarios",
+          "snapshot": {
+            "sourceId": "49883471",
+            "capturedAt": "2026-09-29T11:02:40.921Z",
+            "metadata": {
+              "popularity": 516,
+              "engagementCount": 209,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49883471",
+                  "popularity": 516,
+                  "engagementCount": 209
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "ibobev",
+                "createdAt": "2026-09-28T19:53:35Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49883471"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49883471",
+              "popularity": 516,
+              "engagementCount": 209
+            }
+          ]
+        },
+        {
+          "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+          "url": "https://github.com/firelex/jeff",
+          "summary": "Jeff ofrece modelos de decisión de 0.8 mil millones de parámetros compatibles con Jev, entrenados en entornos domésticos y con un tiempo de respuesta inferior a 30 milisegundos. Estos modelos ligeros de inteligencia artificial constituyen una alternativa optimizada para procesos de toma de decisiones de baja latencia.",
+          "meta": "505 puntos · 192 comentarios",
+          "snapshot": {
+            "sourceId": "49883844",
+            "capturedAt": "2026-09-29T11:02:40.921Z",
+            "metadata": {
+              "popularity": 505,
+              "engagementCount": 192,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49883844",
+                  "popularity": 505,
+                  "engagementCount": 192
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "firelex",
+                "createdAt": "2026-09-28T20:23:36Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49883844"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49883844",
+              "popularity": 505,
+              "engagementCount": 192
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "convaiinnovations/laya",
+          "url": "https://huggingface.co/convaiinnovations/laya",
+          "summary": "Laya, desarrollado por Convai Innovations, es un modelo de inteligencia artificial optimizado para tareas de clasificación de texto (text classification). Este modelo, alojado en Hugging Face, aumenta la eficiencia de la clasificación en los procesos de procesamiento de lenguaje natural al categorizar los textos.",
+          "meta": "♥ 4.415 · 0 descargas",
+          "snapshot": {
+            "sourceId": "convaiinnovations/laya",
+            "capturedAt": "2026-09-29T11:02:40.638Z",
+            "metadata": {
+              "popularity": 4415,
+              "engagementCount": 0,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 2084,
+                "pipelineTag": "text-classification",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "laya",
+                  "system-one",
+                  "calibrated-decisions",
+                  "rlcd",
+                  "classification",
+                  "routing",
+                  "scoring",
+                  "guardrails",
+                  "moderation",
+                  "reinforcement-learning",
+                  "commercial-use",
+                  "text-classification",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Edge0/Audio8-ASR-Infinite",
+          "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
+          "summary": "Audio8-ASR-Infinite, compartido en HuggingFace, es un modelo de reconocimiento automático de voz (automatic speech recognition) que convierte datos de audio en texto. Con sus capacidades integrales de procesamiento de audio, ofrece a los desarrolladores procesos de transcripción de alta precisión.",
+          "meta": "♥ 1.458 · 23.674 descargas",
+          "snapshot": {
+            "sourceId": "Edge0/Audio8-ASR-Infinite",
+            "capturedAt": "2026-09-29T11:02:40.638Z",
+            "metadata": {
+              "popularity": 1458,
+              "engagementCount": 23674,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1282,
+                "pipelineTag": "automatic-speech-recognition",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "audio8_asr_infinite",
+                  "text-generation",
+                  "streaming",
+                  "realtime",
+                  "speech-recognition",
+                  "audio",
+                  "automatic-speech-recognition",
+                  "custom_code",
+                  "zh",
+                  "en",
+                  "license:apache-2.0",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "summary": "Qwen-Image-2.1-Uncensored-GGUF, compartido por Abenzerps, es un modelo de inteligencia artificial sin restricciones con capacidad de generación de imágenes a partir de texto (text-to-image). El modelo permite la generación de imágenes en dispositivos locales al ofrecer un formato de archivo comprimido (GGUF) que puede ejecutarse con bajos requisitos de hardware.",
+          "meta": "♥ 2.338 · 1.152.523 descargas",
+          "snapshot": {
+            "sourceId": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+            "capturedAt": "2026-09-29T11:02:40.638Z",
+            "metadata": {
+              "popularity": 2338,
+              "engagementCount": 1152523,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 1230,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "gguf",
+                  "qwen",
+                  "image-generation",
+                  "comfyui",
+                  "comfyui-gguf",
+                  "text-to-image",
+                  "base_model:Qwen/Qwen-Image-2.1",
+                  "base_model:quantized:Qwen/Qwen-Image-2.1",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen-Image-2.1",
+          "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+          "summary": "Qwen-Image-2.1, desarrollado por Alibaba, es un modelo de inteligencia artificial con capacidad de generación de imágenes a partir de texto (text-to-image). Este modelo, que tiene como objetivo ofrecer un alto nivel de precisión y detalle en los procesos de producción visual, está disponible en la plataforma de inteligencia artificial de código abierto HuggingFace.",
+          "meta": "♥ 2.624 · 64.362 descargas",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen-Image-2.1",
+            "capturedAt": "2026-09-29T11:02:40.638Z",
+            "metadata": {
+              "popularity": 2624,
+              "engagementCount": 64362,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 840,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "diffusers",
+                  "safetensors",
+                  "qwen",
+                  "image-generation",
+                  "image-editing",
+                  "rgba",
+                  "text-to-image",
+                  "license:other",
+                  "diffusers:QwenImage21Pipeline",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "XingChen-AGI/TeleOCR",
+          "url": "https://huggingface.co/XingChen-AGI/TeleOCR",
+          "summary": "TeleOCR, desarrollado por XingChen-AGI, es un modelo de imagen a texto (image-to-text) que procesa textos en imágenes y los convierte en salidas de texto significativas. Su objetivo es proporcionar una alta precisión, especialmente en la digitalización de documentos complejos y en los procesos de reconocimiento óptico de caracteres (OCR).",
+          "meta": "♥ 830 · 30.354 descargas",
+          "snapshot": {
+            "sourceId": "XingChen-AGI/TeleOCR",
+            "capturedAt": "2026-09-29T11:02:40.638Z",
+            "metadata": {
+              "popularity": 830,
+              "engagementCount": 30354,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 699,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen2_5_vl",
+                  "image-text-to-text",
+                  "ocr",
+                  "document-parsing",
+                  "multimodal",
+                  "conversational",
+                  "custom_code",
+                  "zh",
+                  "en",
+                  "arxiv:2608.12898",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "text-generation-inference",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "G^2PTQ: Improving LLM Post-Training Quantization with Generalized Gradient Compensation",
+          "url": "https://huggingface.co/papers/2609.31009",
+          "summary": "G^2PTQ es un método desarrollado para solucionar las pérdidas de rendimiento que ocurren durante el proceso de cuantización post-entrenamiento (post-training quantization) de los grandes modelos de lenguaje (large language models). Al combinar objetivos locales basados en capas con información de gradiente global, busca reducir el uso de memoria del modelo manteniendo al mismo tiempo la tasa de precisión.",
+          "meta": "1 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2609.31009",
+            "capturedAt": "2026-09-29T11:02:40.641Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.31009",
+                "publishedAt": "2026-09-25T00:00:00.000Z",
+                "githubRepo": "https://github.com/G2PTQ/G2PTQ",
+                "githubStars": 2
+              }
+            }
+          }
+        },
+        {
+          "title": "Groupwise Agentic Grading and Advantage Redistribution for Code Agent RL",
+          "url": "https://huggingface.co/papers/2609.32577",
+          "summary": "La optimización de políticas basada en grupos (GRPO), utilizada en el proceso de aprendizaje por refuerzo (reinforcement learning) de agentes de IA que escriben código, ignora las diferencias de calidad al otorgar la misma recompensa a todo el código que pasa las pruebas. El método GAG presenta un nuevo sistema de clasificación que compara los resultados de código dentro del grupo entre sí, premiando las implementaciones más limpias y orientadas a objetivos.",
+          "meta": "7 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2609.32577",
+            "capturedAt": "2026-09-29T11:02:40.641Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.32577",
+                "publishedAt": "2026-09-26T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "Relic: From Multi-Agent Collaboration to Persistent Organizational Capability",
+          "url": "https://huggingface.co/papers/2609.32965",
+          "summary": "Relic es un marco que convierte los errores de colaboración que ocurren en sistemas de múltiples agentes de IA en protocolos ejecutables propiedad de la organización. Este sistema evita que los equipos de agentes repitan errores similares al transformar las inferencias realizadas sobre las fallas experimentadas en reglas permanentes.",
+          "meta": "3 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2609.32965",
+            "capturedAt": "2026-09-29T11:02:40.641Z",
+            "metadata": {
+              "popularity": 3,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.32965",
+                "publishedAt": "2026-09-26T00:00:00.000Z",
+                "githubRepo": "https://github.com/Hongyi-Du/Relic",
+                "githubStars": 0
+              }
+            }
+          }
+        },
+        {
+          "title": "Nereus: Adaptive Parallelism for LLM Post-Training",
+          "url": "https://huggingface.co/papers/2609.34645",
+          "summary": "Nereus es un sistema de paralelismo adaptativo (adaptive parallelism) que optimiza dinámicamente el uso de recursos en los procesos post-entrenamiento (post-training) de los grandes modelos de lenguaje (large language models). Aumenta la eficiencia del entrenamiento actualizando el plan de trabajo en tiempo real según situaciones como la presión de memoria en clústeres de GPU y las cargas de trabajo variables.",
+          "meta": "5 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2609.34645",
+            "capturedAt": "2026-09-29T11:02:40.641Z",
+            "metadata": {
+              "popularity": 5,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.34645",
+                "publishedAt": "2026-09-28T00:00:00.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "FlowTool: Controlling Tool Parameter in Image Retouching via Flow Matching",
+          "url": "https://huggingface.co/papers/2609.35673",
+          "summary": "FlowTool permite un control más preciso de los parámetros de las herramientas al modelar los procesos de edición visual mediante el método de coincidencia de flujo (flow matching). Elimina la necesidad de procesamiento secuencial de los modelos multimodales de lenguaje grandes (multimodal large language models) tradicionales, generando parámetros de edición de alta calidad directamente según las instrucciones del usuario.",
+          "meta": "9 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2609.35673",
+            "capturedAt": "2026-09-29T11:02:40.641Z",
+            "metadata": {
+              "popularity": 9,
+              "engagementCount": 1,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.35673",
+                "publishedAt": "2026-09-28T00:00:00.000Z"
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "Bill Gates tries to install Movie Maker",
+          "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+          "summary": "La correspondencia por correo electrónico que contiene las dificultades técnicas que enfrentó el fundador de Microsoft, Bill Gates, al intentar instalar el software de edición de video Windows Movie Maker, ofrece una perspectiva histórica sobre los procesos de experiencia de usuario (user experience) de las grandes empresas tecnológicas. Los documentos compartidos muestran que la complejidad de los procesos de instalación de software representaba un obstáculo incluso para los altos ejecutivos internos en el pasado.",
+          "meta": "95 puntos · 8 comentarios",
+          "snapshot": {
+            "sourceId": "lfqtgh",
+            "capturedAt": "2026-09-29T11:02:40.800Z",
+            "metadata": {
+              "popularity": 95,
+              "engagementCount": 8,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/lfqtgh/bill_gates_tries_install_movie_maker",
+                  "popularity": 95,
+                  "engagementCount": 8
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "windows"
+                ],
+                "createdAt": "2026-09-28T11:18:16.783-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/lfqtgh/bill_gates_tries_install_movie_maker",
+              "popularity": 95,
+              "engagementCount": 8
+            }
+          ]
+        },
+        {
+          "title": "What Would A Serious AI Product Look Like?",
+          "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+          "summary": "Para mejorar la experiencia del usuario en productos de inteligencia artificial, se requieren resultados predecibles, una gestión de errores segura y un mecanismo de control transparente. Los desarrolladores tienen como objetivo diseñar herramientas confiables y compatibles con los flujos de trabajo profesionales al reducir la incertidumbre de los modelos de IA generativa (generative AI).",
+          "meta": "73 puntos · 6 comentarios",
+          "snapshot": {
+            "sourceId": "q2rymh",
+            "capturedAt": "2026-09-29T11:02:40.800Z",
+            "metadata": {
+              "popularity": 73,
+              "engagementCount": 6,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/q2rymh/what_would_serious_ai_product_look_like",
+                  "popularity": 73,
+                  "engagementCount": 6
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "a11y",
+                  "design",
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-28T12:01:01.997-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/q2rymh/what_would_serious_ai_product_look_like",
+              "popularity": 73,
+              "engagementCount": 6
+            }
+          ]
+        },
+        {
+          "title": "Yes, no AI is now a feature",
+          "url": "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/",
+          "summary": "LibreOffice, el paquete de software de oficina, ha añadido una función que permite a los usuarios desactivar las herramientas de IA generativa (generative AI) en los procesos de procesamiento de textos. Esta actualización permite a los usuarios tener un control total sobre sus datos y apagar completamente las automatizaciones asistidas por IA.",
+          "meta": "116 puntos · 10 comentarios",
+          "snapshot": {
+            "sourceId": "sxcz4v",
+            "capturedAt": "2026-09-29T11:02:40.800Z",
+            "metadata": {
+              "popularity": 116,
+              "engagementCount": 10,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/sxcz4v/yes_no_ai_is_now_feature",
+                  "popularity": 116,
+                  "engagementCount": 10
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "practices",
+                  "vibecoding"
+                ],
+                "createdAt": "2026-09-28T04:58:26.129-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/sxcz4v/yes_no_ai_is_now_feature",
+              "popularity": 116,
+              "engagementCount": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "runtime",
+      "explanation": "El momento en que un software se ejecuta en una computadora y la infraestructura básica que necesita durante este proceso."
+    },
+    {
+      "term": "memory layer",
+      "explanation": "Una capa de información temporal creada para que un sistema pueda recordar y utilizar datos rápidamente."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Software de IA autónomo capaz de tomar decisiones por sí mismo y utilizar herramientas para alcanzar objetivos."
+    },
+    {
+      "term": "database client",
+      "explanation": "Programa de herramientas que le permite acceder y gestionar la información en la base de datos."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interfaz basada en texto que le permite gestionar programas escribiendo comandos en lugar de usar el ratón."
+    },
+    {
+      "term": "MCP",
+      "explanation": "Sistema puente que permite a los modelos de inteligencia artificial conectarse a diferentes fuentes de datos y herramientas de forma estandarizada."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "Múltiples unidades de inteligencia artificial que trabajan comunicándose entre sí para resolver una tarea compleja."
+    },
+    {
+      "term": "deployment platform",
+      "explanation": "Servicio que le permite subir el software que ha preparado a Internet y ponerlo a disposición de todos."
+    },
+    {
+      "term": "AI engineering",
+      "explanation": "Disciplina de producir soluciones funcionales y escalables para problemas de la vida real utilizando tecnologías de inteligencia artificial."
+    },
+    {
+      "term": "Vector Databases",
+      "explanation": "Almacenes de datos especiales que pueden realizar búsquedas según similitudes convirtiendo la información en números matemáticos."
+    },
+    {
+      "term": "jailed",
+      "explanation": "Ejecución de un programa en un área segura y restringida para evitar que dañe el resto del sistema."
+    },
+    {
+      "term": "ab",
+      "explanation": "Una herramienta sencilla de prueba de rendimiento utilizada para medir cuántas personas puede soportar un servidor web al mismo tiempo."
+    },
+    {
+      "term": "large language model",
+      "explanation": "Modelos de inteligencia artificial entrenados con datos masivos capaces de entender el lenguaje humano y generar texto."
+    },
+    {
+      "term": "Google Maps",
+      "explanation": "Servicio de mapas digitales y navegación que muestra lugares, carreteras y negocios en todo el mundo."
+    },
+    {
+      "term": "decision models",
+      "explanation": "Estructuras lógicas que intentan tomar la decisión más precisa sobre una situación a la luz de reglas o datos específicos."
+    },
+    {
+      "term": "text classification",
+      "explanation": "El proceso de analizar el tema o contenido de un texto para clasificarlo en categorías predeterminadas."
+    }
+  ]
+}
