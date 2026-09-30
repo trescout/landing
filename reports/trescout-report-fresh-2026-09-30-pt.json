@@ -1,0 +1,453 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-30",
+  "capturedAt": "2026-09-30T10:49:27.656Z",
+  "editorial": "Este relatório contém as tendências que se destacaram pela primeira vez hoje, sem repetir os registros incluídos nos relatórios normais dos últimos 30 dias.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": []
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+          "summary": "O GPT-6.1 Sol, anunciado pela OpenAI, oferece capacidades de inteligência artificial semelhantes ao Astra por um quinto do custo dos modelos atuais. Este novo modelo visa tornar o acesso a sistemas inteligentes de alto desempenho mais acessível.",
+          "meta": "957 pontos · 840 comentários",
+          "snapshot": {
+            "sourceId": "49896586",
+            "capturedAt": "2026-09-30T10:49:27.930Z",
+            "metadata": {
+              "popularity": 957,
+              "engagementCount": 840,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49896586",
+                  "popularity": 957,
+                  "engagementCount": 840
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "crorella",
+                "createdAt": "2026-09-29T17:06:45Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49896586"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49896586",
+              "popularity": 957,
+              "engagementCount": 840
+            }
+          ]
+        },
+        {
+          "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+          "url": "https://github.com/ninjahawk/livenerf",
+          "summary": "Livenerf é uma ferramenta de benchmark usada para medir o desempenho de grandes modelos de linguagem. Ela permite monitorar, especialmente em modelos avançados como o Claude 3.5 Sonnet, se houve uma queda nas capacidades após as atualizações.",
+          "meta": "650 pontos · 259 comentários",
+          "snapshot": {
+            "sourceId": "49901736",
+            "capturedAt": "2026-09-30T10:49:27.930Z",
+            "metadata": {
+              "popularity": 650,
+              "engagementCount": 259,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49901736",
+                  "popularity": 650,
+                  "engagementCount": 259
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "bryan0",
+                "createdAt": "2026-09-29T22:36:14Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49901736"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49901736",
+              "popularity": 650,
+              "engagementCount": 259
+            }
+          ]
+        },
+        {
+          "title": "Dots: Always-on agents",
+          "url": "https://openai.com/index/introducing-dots/",
+          "summary": "Dots, apresentado pela OpenAI, é uma plataforma de agentes autônomos que interagem com a tela do computador dos usuários para realizar tarefas. Essa tecnologia automatiza fluxos de trabalho complexos, facilitando processos de transferência de dados e execução de operações entre softwares.",
+          "meta": "632 pontos · 494 comentários",
+          "snapshot": {
+            "sourceId": "49896604",
+            "capturedAt": "2026-09-30T10:49:27.930Z",
+            "metadata": {
+              "popularity": 632,
+              "engagementCount": 494,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49896604",
+                  "popularity": 632,
+                  "engagementCount": 494
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "alvis",
+                "createdAt": "2026-09-29T17:07:57Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49896604"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49896604",
+              "popularity": 632,
+              "engagementCount": 494
+            }
+          ]
+        },
+        {
+          "title": "America.gov",
+          "url": "https://america.gov/",
+          "summary": "O governo dos Estados Unidos redesenhou o endereço America.gov como a face digital oficial do país. A plataforma funciona como um portal de informações que oferece notícias atuais e conteúdos culturais para o mundo exterior.",
+          "meta": "579 pontos · 487 comentários",
+          "snapshot": {
+            "sourceId": "49893509",
+            "capturedAt": "2026-09-30T10:49:27.930Z",
+            "metadata": {
+              "popularity": 579,
+              "engagementCount": 487,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49893509",
+                  "popularity": 579,
+                  "engagementCount": 487
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "plesiv",
+                "createdAt": "2026-09-29T14:04:57Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49893509"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49893509",
+              "popularity": 579,
+              "engagementCount": 487
+            }
+          ]
+        },
+        {
+          "title": "How Delhi cut electricity loss from 50 to 5 percent",
+          "url": "https://spectrum.ieee.org/delhi-electricity-loss",
+          "summary": "Deli reduziu a taxa de perdas e roubos de 50% para 5% ao privatizar a distribuição de eletricidade e utilizar medidores inteligentes (smart meters) com análise de dados. Esse processo demonstra, com um exemplo concreto, o papel da modernização da infraestrutura e dos sistemas de monitoramento digital no aumento da eficiência energética.",
+          "meta": "528 pontos · 294 comentários",
+          "snapshot": {
+            "sourceId": "49892245",
+            "capturedAt": "2026-09-30T10:49:27.930Z",
+            "metadata": {
+              "popularity": 528,
+              "engagementCount": 294,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49892245",
+                  "popularity": 528,
+                  "engagementCount": 294
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "rbanffy",
+                "createdAt": "2026-09-29T12:43:29Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49892245"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49892245",
+              "popularity": 528,
+              "engagementCount": 294
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": []
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "APM-Bench: Benchmarking Cross-session Persistent Memory for Egocentric Streaming Video Assistants",
+          "url": "https://huggingface.co/papers/2609.37559",
+          "summary": "O APM-Bench é uma ferramenta de benchmark desenvolvida para medir a capacidade de modelos de vídeo baseados em fluxo de lembrar experiências passadas. Este sistema visa testar a consistência da memória de assistentes de IA em processos interrompidos, redefinindo interações do mundo real como ciclos de vida que contêm múltiplas sessões.",
+          "meta": "10 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.37559",
+            "capturedAt": "2026-09-30T10:49:27.737Z",
+            "metadata": {
+              "popularity": 10,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.37559",
+                "publishedAt": "2026-09-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/Jianguo-Huang11/APM-Bench",
+                "githubStars": 2
+              }
+            }
+          }
+        },
+        {
+          "title": "Reasoning with Image Generation",
+          "url": "https://huggingface.co/papers/2609.16409",
+          "summary": "A abordagem de raciocínio com geração de imagem (reasoning with image generation) permite que grandes modelos de linguagem multimodais (multimodal LLMs) resolvam problemas complexos passo a passo por meio da visualização. Este método aumenta o sucesso em tarefas visuais ao combinar os processos de raciocínio baseados em texto dos modelos com capacidades de manipulação visual.",
+          "meta": "7 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.16409",
+            "capturedAt": "2026-09-30T10:49:27.737Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.16409",
+                "publishedAt": "2026-09-14T22:29:03.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "WISE-ATTA: When to Ask for Labels in Budgeted Active Test-Time Adaptation",
+          "url": "https://huggingface.co/papers/2609.37687",
+          "summary": "O WISE-ATTA apresenta um método de adaptação ativa em tempo de teste com orçamento limitado (budgeted active test-time adaptation) para que modelos de IA se adaptem a mudanças na distribuição de dados durante a execução. Esta abordagem reduz o custo de atualização do modelo ao solicitar rótulos apenas para partes específicas, em vez de conjuntos de dados inteiros.",
+          "meta": "1 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.37687",
+            "capturedAt": "2026-09-30T10:49:27.737Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.37687",
+                "publishedAt": "2026-09-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/Muhammad-Huzaifaa/WISE-ATTA",
+                "githubStars": 3
+              }
+            }
+          }
+        },
+        {
+          "title": "LLMs are General Asynchronous Agents",
+          "url": "https://huggingface.co/papers/2609.35427",
+          "summary": "Grandes modelos de linguagem (large language models) estão ganhando a capacidade de operar de forma assíncrona (asynchronous) em vez de ciclos de processamento sequencial tradicionais. Esta abordagem permite que os modelos processem novas entradas sem interrupções enquanto realizam tarefas em ambientes com fluxo contínuo de dados, como assistentes de voz ou sistemas robóticos.",
+          "meta": "19 curtidas · 1 comentários",
+          "snapshot": {
+            "sourceId": "2609.35427",
+            "capturedAt": "2026-09-30T10:49:27.737Z",
+            "metadata": {
+              "popularity": 19,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.35427",
+                "publishedAt": "2026-09-28T00:00:00.000Z",
+                "githubRepo": "https://github.com/dvmazur/async_llm",
+                "githubStars": 4
+              }
+            }
+          }
+        },
+        {
+          "title": "Persistence Forcing: Exploiting Feature Specialization in Pixel-Space Diffusion",
+          "url": "https://huggingface.co/papers/2609.36014",
+          "summary": "Os transformadores de difusão baseados em pixels (pixel-space diffusion Transformers) utilizam um método de refinamento heterogêneo (heterogeneous refinement) em vez de lidar com diferentes níveis de detalhe com um único método ao processar dados de imagem. Esta abordagem permite uma representação mais eficiente de dados visuais, garantindo que a estrutura geral e as texturas finas sejam processadas com diferentes grupos de características.",
+          "meta": "2 curtidas · 2 comentários",
+          "snapshot": {
+            "sourceId": "2609.36014",
+            "capturedAt": "2026-09-30T10:49:27.737Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.36014",
+                "publishedAt": "2026-09-28T00:00:00.000Z",
+                "githubRepo": "https://github.com/ChongWang1024/PerF",
+                "githubStars": 10
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "OpenBSD's ports tree keeps GPL coreutils and rejects uutils (Rust rewrite)",
+          "url": "https://www.mail-archive.com/ports%40openbsd.org/msg143892.html",
+          "summary": "Os desenvolvedores do OpenBSD rejeitaram a proposta de adicionar ao sistema o pacote uutils, um conjunto de ferramentas básicas do sistema reescrito na linguagem Rust. A gestão do projeto afirmou que as ferramentas básicas GNU (coreutils) são necessárias para manter a consistência nas configurações atuais e que ferramentas alternativas podem levar a comportamentos inesperados nos fluxos de trabalho.",
+          "meta": "16 pontos · 23 comentários",
+          "snapshot": {
+            "sourceId": "vmmq7g",
+            "capturedAt": "2026-09-30T10:49:28.049Z",
+            "metadata": {
+              "popularity": 16,
+              "engagementCount": 23,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/vmmq7g/openbsd_s_ports_tree_keeps_gpl_coreutils",
+                  "popularity": 16,
+                  "engagementCount": 23
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "openbsd",
+                  "rust"
+                ],
+                "createdAt": "2026-09-30T02:47:04.435-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/vmmq7g/openbsd_s_ports_tree_keeps_gpl_coreutils",
+              "popularity": 16,
+              "engagementCount": 23
+            }
+          ]
+        },
+        {
+          "title": "CoW — a stacking window manager for Wayland",
+          "url": "https://cow-wm.codeberg.page/cow/",
+          "summary": "O CoW é um gerenciador de janelas em pilha (stacking window manager) que roda sobre o protocolo de exibição Wayland. Esta ferramenta, que permite aos usuários gerenciar janelas sobrepondo-as, está sendo desenvolvida para personalizar a experiência da interface gráfica em sistemas Linux.",
+          "meta": "122 pontos · 17 comentários",
+          "snapshot": {
+            "sourceId": "tyivfg",
+            "capturedAt": "2026-09-30T10:49:28.049Z",
+            "metadata": {
+              "popularity": 122,
+              "engagementCount": 17,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/tyivfg/cow_stacking_window_manager_for_wayland",
+                  "popularity": 122,
+                  "engagementCount": 17
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "freebsd",
+                  "linux"
+                ],
+                "createdAt": "2026-09-29T04:07:37.137-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/tyivfg/cow_stacking_window_manager_for_wayland",
+              "popularity": 122,
+              "engagementCount": 17
+            }
+          ]
+        },
+        {
+          "title": "Pining for Arc Downcasting in Rust",
+          "url": "https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/",
+          "summary": "A necessidade de realizar downcasting através de um contador de referência atômico (Arc) na linguagem de programação Rust torna difícil a personalização dinâmica de dados compartilhados. Devido às restrições atuais da biblioteca padrão, os desenvolvedores buscam novos métodos para realizar essas conversões de tipo de forma segura e eficiente.",
+          "meta": "41 pontos · 12 comentários",
+          "snapshot": {
+            "sourceId": "dayzwt",
+            "capturedAt": "2026-09-30T10:49:28.049Z",
+            "metadata": {
+              "popularity": 41,
+              "engagementCount": 12,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/dayzwt/pining_for_arc_downcasting_rust",
+                  "popularity": 41,
+                  "engagementCount": 12
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "rust"
+                ],
+                "createdAt": "2026-09-29T10:35:14.850-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/dayzwt/pining_for_arc_downcasting_rust",
+              "popularity": 41,
+              "engagementCount": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "reasoning",
+      "explanation": "Capacidade da inteligência artificial de tirar conclusões passando as informações fornecidas por um filtro lógico."
+    },
+    {
+      "term": "ab",
+      "explanation": "Ferramenta de teste simples usada para medir quantas pessoas os servidores web podem atender simultaneamente."
+    },
+    {
+      "term": "benchmark",
+      "explanation": "Processo de medir o desempenho de um sistema ou hardware com testes padrão e compará-lo com outros."
+    },
+    {
+      "term": "autonomous agents",
+      "explanation": "Softwares que definem seus próprios objetivos e tomam medidas para alcançá-los sem intervenção humana."
+    },
+    {
+      "term": "smart meters",
+      "explanation": "Dispositivos que medem o consumo de eletricidade ou água em tempo real e enviam os dados para uma central de forma digital."
+    }
+  ]
+}

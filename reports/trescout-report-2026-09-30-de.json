@@ -1,0 +1,938 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-30",
+  "capturedAt": "2026-09-30T10:49:27.656Z",
+  "editorial": "Open-Source-Projekte, die sich auf Audio-Processing-Tools und Visualisierungsmodelle konzentrieren, sorgen heute für eine deutliche Dynamik im Entwickler-Ökosystem. Insbesondere akademische Arbeiten zu Persistent Memory und Systemarchitektur verschieben weiterhin die Effizienzgrenzen von KI-Assistenten.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "summary": "VoiceStudio ist ein Open-Source-Tool zur Audioverarbeitung, das Aufgaben wie Stimmenklonen, Sounddesign und Videosynchronisation ohne Internetverbindung ausführt. Es stellt eine lokal laufende Alternative zum Sprachsynthesedienst ElevenLabs dar und bietet Unterstützung für 646 Sprachen.",
+          "meta": "Python · ★ 49.570 · +4.758 heute",
+          "snapshot": {
+            "sourceId": "debpalash/VoiceStudio",
+            "capturedAt": "2026-09-30T10:49:28.696Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 49570,
+              "engagementCount": 4758,
+              "rank": 1,
+              "extra": {
+                "starsToday": 4758
+              }
+            }
+          }
+        },
+        {
+          "title": "NVIDIA/OpenShell",
+          "url": "https://github.com/NVIDIA/OpenShell",
+          "summary": "Das von NVIDIA entwickelte OpenShell bietet eine sichere und datenschutzorientierte Laufzeitumgebung (Runtime) für autonome KI-Agenten. Diese in Rust geschriebene Infrastruktur zielt darauf ab, eine sichere Ausführungsschicht zu schaffen, indem sie den Zugriff der Agenten auf Systemressourcen kontrolliert.",
+          "meta": "Rust · ★ 11.115 · +990 heute",
+          "snapshot": {
+            "sourceId": "NVIDIA/OpenShell",
+            "capturedAt": "2026-09-30T10:49:28.696Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 11115,
+              "engagementCount": 990,
+              "rank": 2,
+              "extra": {
+                "starsToday": 990
+              }
+            }
+          }
+        },
+        {
+          "title": "vectorize-io/hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "summary": "Hindsight ist ein Framework für KI-Agenten, das aus vergangenen Interaktionen lernt und diese Informationen in ein Langzeitgedächtnis umwandelt. Indem es Agenten ermöglicht, ihre Erfahrungen als strukturierte Daten zu speichern, hilft es ihnen, bei ähnlichen Aufgaben präzisere Entscheidungen zu treffen.",
+          "meta": "Python · ★ 43.448 · +2.575 heute",
+          "snapshot": {
+            "sourceId": "vectorize-io/hindsight",
+            "capturedAt": "2026-09-30T10:49:28.696Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 43448,
+              "engagementCount": 2575,
+              "rank": 3,
+              "extra": {
+                "starsToday": 2575
+              }
+            }
+          }
+        },
+        {
+          "title": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "summary": "Paperclip ist eine Open-Source-Anwendung, mit der Sie KI-Agenten am Arbeitsplatz zentral verwalten können. Dieses mit TypeScript entwickelte Tool zielt darauf ab, die betriebliche Effizienz durch die Koordinierung der Arbeitsabläufe verschiedener Agenten zu steigern.",
+          "meta": "TypeScript · ★ 94.955 · +2.458 heute",
+          "snapshot": {
+            "sourceId": "paperclipai/paperclip",
+            "capturedAt": "2026-09-30T10:49:28.696Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 94955,
+              "engagementCount": 2458,
+              "rank": 4,
+              "extra": {
+                "starsToday": 2458
+              }
+            }
+          }
+        },
+        {
+          "title": "t8y2/dbx",
+          "url": "https://github.com/t8y2/dbx",
+          "summary": "Das in Rust entwickelte dbx ist ein leichtgewichtiges, plattformübergreifendes Datenbankverwaltungstool, das über 100 Datenbanktypen unterstützt. Neben der Desktop-Anwendung, der Befehlszeilenschnittstelle (CLI) und Docker-Unterstützung bietet es einen integrierten KI-Assistenten sowie das Model Context Protocol (MCP).",
+          "meta": "Rust · ★ 22.728 · +232 heute",
+          "snapshot": {
+            "sourceId": "t8y2/dbx",
+            "capturedAt": "2026-09-30T10:49:28.696Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 22728,
+              "engagementCount": 232,
+              "rank": 5,
+              "extra": {
+                "starsToday": 232
+              }
+            }
+          }
+        },
+        {
+          "title": "mvschwarz/openrig",
+          "url": "https://github.com/mvschwarz/openrig",
+          "summary": "Openrig ist eine Multi-Agenten-Infrastruktur, die das von Anthropic entwickelte KI-gestützte Codierungstool Claude Code mit dem OpenAI-basierten Codierungsmodell Codex in einem einzigen System vereint. Diese Software bietet eine kollaborative Arbeitsumgebung für Softwareentwicklungsprozesse, indem sie die Fähigkeiten verschiedener KI-Modelle bündelt.",
+          "meta": "TypeScript · ★ 2.654 · +737 heute",
+          "snapshot": {
+            "sourceId": "mvschwarz/openrig",
+            "capturedAt": "2026-09-30T10:49:28.696Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 2654,
+              "engagementCount": 737,
+              "rank": 6,
+              "extra": {
+                "starsToday": 737
+              }
+            }
+          }
+        },
+        {
+          "title": "oblien/openship",
+          "url": "https://github.com/oblien/openship",
+          "summary": "OpenShip ist eine Open-Source-Plattform für die Anwendungsbereitstellung (Deployment Platform), die Sie auf Ihrem eigenen Server hosten können. Sie bietet eine Alternative, die es Entwicklern ermöglicht, ihre Software zu verwalten, ohne von Cloud-Anbietern abhängig zu sein.",
+          "meta": "TypeScript · ★ 14.103 · +437 heute",
+          "snapshot": {
+            "sourceId": "oblien/openship",
+            "capturedAt": "2026-09-30T10:49:28.696Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 14103,
+              "engagementCount": 437,
+              "rank": 7,
+              "extra": {
+                "starsToday": 437
+              }
+            }
+          }
+        },
+        {
+          "title": "averygan/reclip",
+          "url": "https://github.com/averygan/reclip",
+          "summary": "Reclip ist ein leichtgewichtiges Medien-Download-Tool, das Sie auf Ihrem eigenen Server hosten können und mit dem Sie Videos von fast allen Websites herunterladen können. Diese Software, die über eine einfache Weboberfläche läuft, vereinfacht den Prozess des Speicherns von Videodateien auf Ihrem lokalen Gerät.",
+          "meta": "HTML · ★ 10.495 · +113 heute",
+          "snapshot": {
+            "sourceId": "averygan/reclip",
+            "capturedAt": "2026-09-30T10:49:28.696Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 10495,
+              "engagementCount": 113,
+              "rank": 8,
+              "extra": {
+                "starsToday": 113
+              }
+            }
+          }
+        },
+        {
+          "title": "cs341-illinois/coursebook",
+          "url": "https://github.com/cs341-illinois/coursebook",
+          "summary": "Das von der University of Illinois erstellte coursebook ist ein Open-Source-Lehrbuch, das Themen der Einführung in die Systemprogrammierung abdeckt. Diese im TeX-Format bereitgestellte Ressource bietet kostenlosen Zugang zu technischen Lehrmaterialien auf Universitätsniveau.",
+          "meta": "TeX · ★ 3.279 · +572 heute",
+          "snapshot": {
+            "sourceId": "cs341-illinois/coursebook",
+            "capturedAt": "2026-09-30T10:49:28.696Z",
+            "metadata": {
+              "language": "TeX",
+              "popularity": 3279,
+              "engagementCount": 572,
+              "rank": 9,
+              "extra": {
+                "starsToday": 572
+              }
+            }
+          }
+        },
+        {
+          "title": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "summary": "Dieser Open-Source-Leitfaden, der Softwareentwicklern die Grundlagen des KI-Engineerings vermittelt, umfasst die Phasen der Anwendungsentwicklung mit Python und das Deployment von Projekten. Die Ressource verbindet theoretisches Wissen mit praktischen Projekten und erklärt Schritt für Schritt, wie KI-basierte Systeme von Grund auf aufgebaut werden.",
+          "meta": "Python · ★ 61.927 · +786 heute",
+          "snapshot": {
+            "sourceId": "rohitg00/ai-engineering-from-scratch",
+            "capturedAt": "2026-09-30T10:49:28.696Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 61927,
+              "engagementCount": 786,
+              "rank": 10,
+              "extra": {
+                "starsToday": 786
+              }
+            }
+          }
+        },
+        {
+          "title": "VectifyAI/PageIndex",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "summary": "PageIndex ist eine Python-Bibliothek, die Dokumente durch Schlussfolgerungsfähigkeiten (Reasoning) indiziert, ohne auf vektorbasierte Suchmethoden angewiesen zu sein. Anstelle herkömmlicher Vektordatenbanken nutzt sie textbasierte logische Schlussfolgerungen, um Retrieval-Augmented Generation (RAG)-Prozesse zu optimieren.",
+          "meta": "Python · ★ 37.773 · +835 heute",
+          "snapshot": {
+            "sourceId": "VectifyAI/PageIndex",
+            "capturedAt": "2026-09-30T10:49:28.696Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 37773,
+              "engagementCount": 835,
+              "rank": 11,
+              "extra": {
+                "starsToday": 835
+              }
+            }
+          }
+        },
+        {
+          "title": "willfaust/Madeira",
+          "url": "https://github.com/willfaust/Madeira",
+          "summary": "Madeira ist eine Kompatibilitätsschicht, die es ermöglicht, Windows-basierte x86-64-Spiele auf gejailbreakten iOS-Geräten auszuführen. Durch die Kombination des FEX-Emu-Prozessoremulators, der Wine-Kompatibilitätssoftware und des DXMT-Grafikkonverters bringt sie Desktop-Spiele auf die mobile Plattform.",
+          "meta": "C · ★ 1.168 · +81 heute",
+          "snapshot": {
+            "sourceId": "willfaust/Madeira",
+            "capturedAt": "2026-09-30T10:49:28.696Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 1168,
+              "engagementCount": 81,
+              "rank": 12,
+              "extra": {
+                "starsToday": 81
+              }
+            }
+          }
+        },
+        {
+          "title": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "summary": "Univer ist eine Open-Source-Plattform, die Office-Tools wie Tabellenkalkulationen, Dokumente und Präsentationen in einer einzigen Laufzeitumgebung vereint. Die Infrastruktur, die entwickelt wurde, damit KI-Agenten diese Dokumente bearbeiten können, ermöglicht die Verwaltung verschiedener Dateiformate in einer zentralen Struktur.",
+          "meta": "TypeScript · ★ 22.060 · +696 heute",
+          "snapshot": {
+            "sourceId": "dream-num/univer",
+            "capturedAt": "2026-09-30T10:49:28.696Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 22060,
+              "engagementCount": 696,
+              "rank": 13,
+              "extra": {
+                "starsToday": 696
+              }
+            }
+          }
+        },
+        {
+          "title": "rakyll/hey",
+          "url": "https://github.com/rakyll/hey",
+          "summary": "Das in der Sprache Go entwickelte hey ist ein Lasttest-Tool (Load Generator), das zur Messung der Leistung von Webservern verwendet wird. Es bietet eine moderne Alternative zur Software ApacheBench (ab) und simuliert HTTP-Anfragen mit hoher Geschwindigkeit.",
+          "meta": "Go · ★ 20.579 · +34 heute",
+          "snapshot": {
+            "sourceId": "rakyll/hey",
+            "capturedAt": "2026-09-30T10:49:28.696Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 20579,
+              "engagementCount": 34,
+              "rank": 14,
+              "extra": {
+                "starsToday": 34
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+          "summary": "GPT-6.1 Sol, angekündigt von OpenAI, bietet Astra-ähnliche KI-Fähigkeiten zu einem Fünftel der Kosten bestehender Modelle. Dieses neue Modell zielt darauf ab, den Zugang zu leistungsstarken intelligenten Systemen erschwinglicher zu machen.",
+          "meta": "957 Punkte · 840 Kommentare",
+          "snapshot": {
+            "sourceId": "49896586",
+            "capturedAt": "2026-09-30T10:49:27.930Z",
+            "metadata": {
+              "popularity": 957,
+              "engagementCount": 840,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49896586",
+                  "popularity": 957,
+                  "engagementCount": 840
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "crorella",
+                "createdAt": "2026-09-29T17:06:45Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49896586"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49896586",
+              "popularity": 957,
+              "engagementCount": 840
+            }
+          ]
+        },
+        {
+          "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+          "url": "https://github.com/ninjahawk/livenerf",
+          "summary": "Livenerf ist ein Benchmark-Tool, das zur Messung der Leistung großer Sprachmodelle verwendet wird. Es ermöglicht insbesondere die Überwachung, ob fortgeschrittene Modelle wie Claude 3.5 Sonnet durch Updates einen Leistungsabfall erleiden.",
+          "meta": "650 Punkte · 259 Kommentare",
+          "snapshot": {
+            "sourceId": "49901736",
+            "capturedAt": "2026-09-30T10:49:27.930Z",
+            "metadata": {
+              "popularity": 650,
+              "engagementCount": 259,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49901736",
+                  "popularity": 650,
+                  "engagementCount": 259
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "bryan0",
+                "createdAt": "2026-09-29T22:36:14Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49901736"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49901736",
+              "popularity": 650,
+              "engagementCount": 259
+            }
+          ]
+        },
+        {
+          "title": "Dots: Always-on agents",
+          "url": "https://openai.com/index/introducing-dots/",
+          "summary": "Dots, vorgestellt von OpenAI, ist eine Plattform für autonome Agenten, die mit dem Computerbildschirm des Benutzers interagieren, um Aufgaben zu erledigen. Diese Technologie automatisiert komplexe Arbeitsabläufe und vereinfacht Prozesse zur Datenübertragung und Verarbeitung zwischen verschiedenen Softwareanwendungen.",
+          "meta": "632 Punkte · 494 Kommentare",
+          "snapshot": {
+            "sourceId": "49896604",
+            "capturedAt": "2026-09-30T10:49:27.930Z",
+            "metadata": {
+              "popularity": 632,
+              "engagementCount": 494,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49896604",
+                  "popularity": 632,
+                  "engagementCount": 494
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "alvis",
+                "createdAt": "2026-09-29T17:07:57Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49896604"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49896604",
+              "popularity": 632,
+              "engagementCount": 494
+            }
+          ]
+        },
+        {
+          "title": "America.gov",
+          "url": "https://america.gov/",
+          "summary": "Die Regierung der Vereinigten Staaten hat Amerika.gov als offizielles digitales Gesicht des Landes neu gestaltet. Die Plattform fungiert als Informationsportal, das aktuelle Nachrichten und kulturelle Inhalte für die Außenwelt bereitstellt.",
+          "meta": "579 Punkte · 487 Kommentare",
+          "snapshot": {
+            "sourceId": "49893509",
+            "capturedAt": "2026-09-30T10:49:27.930Z",
+            "metadata": {
+              "popularity": 579,
+              "engagementCount": 487,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49893509",
+                  "popularity": 579,
+                  "engagementCount": 487
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "plesiv",
+                "createdAt": "2026-09-29T14:04:57Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49893509"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49893509",
+              "popularity": 579,
+              "engagementCount": 487
+            }
+          ]
+        },
+        {
+          "title": "How Delhi cut electricity loss from 50 to 5 percent",
+          "url": "https://spectrum.ieee.org/delhi-electricity-loss",
+          "summary": "Delhi hat durch die Privatisierung der Stromverteilung sowie den Einsatz von intelligenten Stromzählern (Smart Meters) und Datenanalyse die Verlust- und Diebstahlquote von 50 Prozent auf 5 Prozent gesenkt. Dieser Prozess verdeutlicht anhand eines konkreten Beispiels die Rolle der Infrastrukturmodernisierung und digitaler Überwachungssysteme bei der Steigerung der Energieeffizienz.",
+          "meta": "528 Punkte · 294 Kommentare",
+          "snapshot": {
+            "sourceId": "49892245",
+            "capturedAt": "2026-09-30T10:49:27.930Z",
+            "metadata": {
+              "popularity": 528,
+              "engagementCount": 294,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49892245",
+                  "popularity": 528,
+                  "engagementCount": 294
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "rbanffy",
+                "createdAt": "2026-09-29T12:43:29Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49892245"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49892245",
+              "popularity": 528,
+              "engagementCount": 294
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "convaiinnovations/laya",
+          "url": "https://huggingface.co/convaiinnovations/laya",
+          "summary": "Laya, das auf HuggingFace geteilt wurde, ist ein KI-Modell, das für Textklassifizierungsaufgaben entwickelt wurde. Es beschleunigt Prozesse der natürlichen Sprachverarbeitung (Natural Language Processing), indem es bereitgestellte Texte in vordefinierte Kategorien einteilt.",
+          "meta": "♥ 4.576 · 0 Downloads",
+          "snapshot": {
+            "sourceId": "convaiinnovations/laya",
+            "capturedAt": "2026-09-30T10:49:27.722Z",
+            "metadata": {
+              "popularity": 4576,
+              "engagementCount": 0,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1598,
+                "pipelineTag": "text-classification",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "laya",
+                  "system-one",
+                  "calibrated-decisions",
+                  "rlcd",
+                  "classification",
+                  "routing",
+                  "scoring",
+                  "guardrails",
+                  "moderation",
+                  "reinforcement-learning",
+                  "commercial-use",
+                  "text-classification",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Edge0/Audio8-ASR-Infinite",
+          "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
+          "summary": "Audio8-ASR-Infinite, veröffentlicht auf HuggingFace, ist ein Modell zur automatischen Spracherkennung (Automatic Speech Recognition), das Audiodaten in Text umwandelt. Dieses Modell, das für die Verarbeitung umfangreicher Audiodateien optimiert ist, beschleunigt Transkriptionsprozesse mit einer hohen Genauigkeitsrate.",
+          "meta": "♥ 1.561 · 26.749 Downloads",
+          "snapshot": {
+            "sourceId": "Edge0/Audio8-ASR-Infinite",
+            "capturedAt": "2026-09-30T10:49:27.722Z",
+            "metadata": {
+              "popularity": 1561,
+              "engagementCount": 26749,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1368,
+                "pipelineTag": "automatic-speech-recognition",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "audio8_asr_infinite",
+                  "text-generation",
+                  "streaming",
+                  "realtime",
+                  "speech-recognition",
+                  "audio",
+                  "automatic-speech-recognition",
+                  "custom_code",
+                  "zh",
+                  "en",
+                  "license:apache-2.0",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "summary": "Qwen-Image-2.1-Uncensored-GGUF ist ein KI-Modell mit Text-zu-Bild-Fähigkeiten, bei dem die Einschränkungen aufgehoben wurden. Das GGUF-Format des Modells ermöglicht die Bilderzeugung auf lokalen Computern mit geringen Hardware-Ressourcen.",
+          "meta": "♥ 2.483 · 1.232.685 Downloads",
+          "snapshot": {
+            "sourceId": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+            "capturedAt": "2026-09-30T10:49:27.722Z",
+            "metadata": {
+              "popularity": 2483,
+              "engagementCount": 1232685,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 952,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "gguf",
+                  "qwen",
+                  "image-generation",
+                  "comfyui",
+                  "comfyui-gguf",
+                  "text-to-image",
+                  "base_model:Qwen/Qwen-Image-2.1",
+                  "base_model:quantized:Qwen/Qwen-Image-2.1",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "XingChen-AGI/TeleOCR",
+          "url": "https://huggingface.co/XingChen-AGI/TeleOCR",
+          "summary": "TeleOCR ist ein Bild-zu-Text-Modell, das Texte in Bildern verarbeitet und in aussagekräftige Textausgaben umwandelt. Es wurde entwickelt, um den Prozess der Umwandlung komplexer visueller Daten in digitale Textformate zu optimieren.",
+          "meta": "♥ 946 · 30.383 Downloads",
+          "snapshot": {
+            "sourceId": "XingChen-AGI/TeleOCR",
+            "capturedAt": "2026-09-30T10:49:27.722Z",
+            "metadata": {
+              "popularity": 946,
+              "engagementCount": 30383,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 809,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen2_5_vl",
+                  "image-text-to-text",
+                  "ocr",
+                  "document-parsing",
+                  "multimodal",
+                  "conversational",
+                  "custom_code",
+                  "zh",
+                  "en",
+                  "arxiv:2608.12898",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "text-generation-inference",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen-Image-2.1",
+          "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+          "summary": "Qwen-Image-2.1, entwickelt von Alibaba, ist ein Text-zu-Bild-Modell, das Textbefehle in visuelle Inhalte umwandelt. Dieses Modell, das auf der Open-Source-KI-Plattform HuggingFace geteilt wird, zielt darauf ab, ein hohes Maß an Genauigkeit und Detailreichtum bei der Bilderzeugung zu bieten.",
+          "meta": "♥ 2.686 · 70.687 Downloads",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen-Image-2.1",
+            "capturedAt": "2026-09-30T10:49:27.722Z",
+            "metadata": {
+              "popularity": 2686,
+              "engagementCount": 70687,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 636,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "diffusers",
+                  "safetensors",
+                  "qwen",
+                  "image-generation",
+                  "image-editing",
+                  "rgba",
+                  "text-to-image",
+                  "license:other",
+                  "diffusers:QwenImage21Pipeline",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "APM-Bench: Benchmarking Cross-session Persistent Memory for Egocentric Streaming Video Assistants",
+          "url": "https://huggingface.co/papers/2609.37559",
+          "summary": "APM-Bench ist ein Benchmark-Tool, das entwickelt wurde, um die Fähigkeit von flussbasierten Videomodellen zu messen, sich an vergangene Erfahrungen zu erinnern. Dieses System definiert reale Interaktionen als Lebenszyklen mit mehreren Sitzungen neu und zielt darauf ab, die Gedächtniskonsistenz von KI-Assistenten bei unterbrochenen Prozessen zu testen.",
+          "meta": "10 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.37559",
+            "capturedAt": "2026-09-30T10:49:27.737Z",
+            "metadata": {
+              "popularity": 10,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.37559",
+                "publishedAt": "2026-09-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/Jianguo-Huang11/APM-Bench",
+                "githubStars": 2
+              }
+            }
+          }
+        },
+        {
+          "title": "Reasoning with Image Generation",
+          "url": "https://huggingface.co/papers/2609.16409",
+          "summary": "Der Ansatz des Schlussfolgerns bei der Bilderzeugung (reasoning with image generation) ermöglicht es multimodalen großen Sprachmodellen (multimodal LLMs), komplexe Probleme durch Visualisierung Schritt für Schritt zu lösen. Diese Methode kombiniert die textbasierten logischen Schlussfolgerungsprozesse der Modelle mit visuellen Manipulationsfähigkeiten und steigert so den Erfolg bei visuellen Aufgaben.",
+          "meta": "7 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.16409",
+            "capturedAt": "2026-09-30T10:49:27.737Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.16409",
+                "publishedAt": "2026-09-14T22:29:03.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "WISE-ATTA: When to Ask for Labels in Budgeted Active Test-Time Adaptation",
+          "url": "https://huggingface.co/papers/2609.37687",
+          "summary": "WISE-ATTA führt die Methode der budgetierten aktiven Testzeit-Anpassung (budgeted active test-time adaptation) ein, damit KI-Modelle sich zur Laufzeit an Veränderungen der Datenverteilung anpassen können. Dieser Ansatz senkt die Kosten für die Modellaktualisierung, indem er Labels nur für bestimmte Teile anstelle ganzer Datensätze anfordert.",
+          "meta": "1 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.37687",
+            "capturedAt": "2026-09-30T10:49:27.737Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.37687",
+                "publishedAt": "2026-09-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/Muhammad-Huzaifaa/WISE-ATTA",
+                "githubStars": 3
+              }
+            }
+          }
+        },
+        {
+          "title": "LLMs are General Asynchronous Agents",
+          "url": "https://huggingface.co/papers/2609.35427",
+          "summary": "Große Sprachmodelle (large language models) gewinnen die Fähigkeit zur asynchronen Arbeitsweise anstelle von herkömmlichen sequenziellen Verarbeitungszyklen. Dieser Ansatz ermöglicht es Modellen, in Umgebungen mit kontinuierlichem Datenfluss, wie etwa bei Sprachassistenten oder Robotersystemen, neue Eingaben nahtlos zu verarbeiten, während sie gleichzeitig Berechnungen durchführen.",
+          "meta": "19 Likes · 1 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.35427",
+            "capturedAt": "2026-09-30T10:49:27.737Z",
+            "metadata": {
+              "popularity": 19,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.35427",
+                "publishedAt": "2026-09-28T00:00:00.000Z",
+                "githubRepo": "https://github.com/dvmazur/async_llm",
+                "githubStars": 4
+              }
+            }
+          }
+        },
+        {
+          "title": "Persistence Forcing: Exploiting Feature Specialization in Pixel-Space Diffusion",
+          "url": "https://huggingface.co/papers/2609.36014",
+          "summary": "Pixelbasierte Diffusion-Transformer (pixel-space diffusion Transformers) verwenden bei der Verarbeitung von Bilddaten die Methode der heterogenen Verfeinerung (heterogeneous refinement), anstatt verschiedene Detailebenen mit einer einzigen Methode zu behandeln. Dieser Ansatz ermöglicht eine effizientere Darstellung visueller Daten, indem die allgemeine Struktur und feine Texturen mit unterschiedlichen Merkmalsgruppen verarbeitet werden.",
+          "meta": "2 Likes · 2 Kommentare",
+          "snapshot": {
+            "sourceId": "2609.36014",
+            "capturedAt": "2026-09-30T10:49:27.737Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.36014",
+                "publishedAt": "2026-09-28T00:00:00.000Z",
+                "githubRepo": "https://github.com/ChongWang1024/PerF",
+                "githubStars": 10
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "OpenBSD's ports tree keeps GPL coreutils and rejects uutils (Rust rewrite)",
+          "url": "https://www.mail-archive.com/ports%40openbsd.org/msg143892.html",
+          "summary": "Die Entwickler von OpenBSD haben den Vorschlag abgelehnt, das in Rust neu geschriebene Paket grundlegender Systemwerkzeuge, uutils, in das System aufzunehmen. Das Projektmanagement erklärte, dass die GNU-Kernwerkzeuge (coreutils) notwendig seien, um die Konsistenz in bestehenden Konfigurationen zu wahren, und dass alternative Werkzeuge zu unerwartetem Verhalten in Arbeitsabläufen führen könnten.",
+          "meta": "16 Punkte · 23 Kommentare",
+          "snapshot": {
+            "sourceId": "vmmq7g",
+            "capturedAt": "2026-09-30T10:49:28.049Z",
+            "metadata": {
+              "popularity": 16,
+              "engagementCount": 23,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/vmmq7g/openbsd_s_ports_tree_keeps_gpl_coreutils",
+                  "popularity": 16,
+                  "engagementCount": 23
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "openbsd",
+                  "rust"
+                ],
+                "createdAt": "2026-09-30T02:47:04.435-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/vmmq7g/openbsd_s_ports_tree_keeps_gpl_coreutils",
+              "popularity": 16,
+              "engagementCount": 23
+            }
+          ]
+        },
+        {
+          "title": "CoW — a stacking window manager for Wayland",
+          "url": "https://cow-wm.codeberg.page/cow/",
+          "summary": "CoW ist ein Stacking-Window-Manager, der auf dem Wayland-Display-Protokoll läuft. Dieses Werkzeug, das es Benutzern ermöglicht, Fenster übereinander zu stapeln und zu verwalten, wird entwickelt, um die grafische Benutzeroberfläche auf Linux-Systemen anzupassen.",
+          "meta": "122 Punkte · 17 Kommentare",
+          "snapshot": {
+            "sourceId": "tyivfg",
+            "capturedAt": "2026-09-30T10:49:28.049Z",
+            "metadata": {
+              "popularity": 122,
+              "engagementCount": 17,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/tyivfg/cow_stacking_window_manager_for_wayland",
+                  "popularity": 122,
+                  "engagementCount": 17
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "freebsd",
+                  "linux"
+                ],
+                "createdAt": "2026-09-29T04:07:37.137-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/tyivfg/cow_stacking_window_manager_for_wayland",
+              "popularity": 122,
+              "engagementCount": 17
+            }
+          ]
+        },
+        {
+          "title": "Pining for Arc Downcasting in Rust",
+          "url": "https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/",
+          "summary": "Die Notwendigkeit, in der Programmiersprache Rust eine Typumwandlung (Downcasting) über einen atomaren Referenzzähler (Arc) durchzuführen, erschwert die dynamische Anpassung gemeinsam genutzter Daten. Aufgrund der Einschränkungen der aktuellen Standardbibliothek suchen Entwickler nach neuen Methoden, um solche Umwandlungen sicher und effizient durchzuführen.",
+          "meta": "41 Punkte · 12 Kommentare",
+          "snapshot": {
+            "sourceId": "dayzwt",
+            "capturedAt": "2026-09-30T10:49:28.049Z",
+            "metadata": {
+              "popularity": 41,
+              "engagementCount": 12,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/dayzwt/pining_for_arc_downcasting_rust",
+                  "popularity": 41,
+                  "engagementCount": 12
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "rust"
+                ],
+                "createdAt": "2026-09-29T10:35:14.850-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/dayzwt/pining_for_arc_downcasting_rust",
+              "popularity": 41,
+              "engagementCount": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "runtime",
+      "explanation": "Die grundlegende Umgebung, die eine Software benötigt, während sie auf einem Computer ausgeführt wird."
+    },
+    {
+      "term": "framework",
+      "explanation": "Eine Sammlung von vorgefertigten Codestrukturen und Werkzeugen, die bei der Softwareentwicklung zur Beschleunigung der Arbeit verwendet werden."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Intelligente Softwareprogramme, die selbstständig Entscheidungen treffen und bestimmte Aufgaben ausführen können."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Eine textbasierte Schnittstelle, die es ermöglicht, Programme durch die Eingabe von schriftlichen Befehlen anstelle einer Maus zu steuern."
+    },
+    {
+      "term": "MCP",
+      "explanation": "Ein Standardprotokoll, das es KI-Modellen ermöglicht, sich sicher mit verschiedenen Datenquellen und Werkzeugen zu verbinden."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "Eine Struktur, die aus mehreren KI-Einheiten besteht, die miteinander kommunizieren und sich eine komplexe Aufgabe teilen."
+    },
+    {
+      "term": "deployment platform",
+      "explanation": "Dienste, die es ermöglichen, entwickelte Software im Internet zu veröffentlichen und den Benutzern zur Verfügung zu stellen."
+    },
+    {
+      "term": "reasoning",
+      "explanation": "Die Fähigkeit der KI, die ihr gegebenen Informationen durch einen logischen Filter zu leiten und daraus Schlussfolgerungen zu ziehen."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Eine Methode, die es der KI ermöglicht, genauere Antworten zu generieren, indem sie aktuelle oder spezifische Dokumente heranzieht."
+    },
+    {
+      "term": "jailed",
+      "explanation": "Das Ausführen eines Programms in einem eingeschränkten und sicheren Bereich, damit es dem Rest des Computers keinen Schaden zufügen kann."
+    },
+    {
+      "term": "load generator",
+      "explanation": "Ein Werkzeug, das künstlichen Benutzerverkehr erzeugt, um zu messen, wie viel intensiven Datenverkehr ein System bewältigen kann."
+    },
+    {
+      "term": "ab",
+      "explanation": "Ein einfaches Testwerkzeug, mit dem gemessen wird, wie viele Personen gleichzeitig von Webservern bedient werden können."
+    },
+    {
+      "term": "benchmark",
+      "explanation": "Der Prozess, die Leistung eines Systems oder einer Hardware mit Standardtests zu messen und mit anderen zu vergleichen."
+    },
+    {
+      "term": "autonomous agents",
+      "explanation": "Software, die ohne menschliches Eingreifen eigene Ziele festlegt und Schritte unternimmt, um diese zu erreichen."
+    },
+    {
+      "term": "smart meters",
+      "explanation": "Geräte, die den Strom- oder Wasserverbrauch in Echtzeit messen und die Daten digital an eine Zentrale senden."
+    },
+    {
+      "term": "text classification",
+      "explanation": "Der Prozess, einen Text anhand seines Inhalts in vordefinierte Kategorien einzuteilen."
+    }
+  ]
+}

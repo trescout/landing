@@ -1,0 +1,938 @@
+{
+  "snapshotVersion": 1,
+  "date": "2026-09-30",
+  "capturedAt": "2026-09-30T10:49:27.656Z",
+  "editorial": "Los proyectos de código abierto centrados en herramientas de procesamiento de audio y modelos de visualización están creando una movilidad significativa en el ecosistema de desarrolladores. En particular, los estudios académicos sobre gestión de memoria (memoria persistente) y arquitectura de sistemas continúan superando los límites de eficiencia de los asistentes de inteligencia artificial.",
+  "sections": [
+    {
+      "sourceName": "github",
+      "items": [
+        {
+          "title": "debpalash/VoiceStudio",
+          "url": "https://github.com/debpalash/VoiceStudio",
+          "summary": "VoiceStudio es una herramienta de procesamiento de audio de código abierto que realiza operaciones como clonación de voz, diseño de sonido y doblaje de video sin conexión a Internet. Crea una alternativa que funciona localmente para el servicio de síntesis de voz ElevenLabs y ofrece soporte en 646 idiomas.",
+          "meta": "Python · ★ 49.570 · +4.758 hoy",
+          "snapshot": {
+            "sourceId": "debpalash/VoiceStudio",
+            "capturedAt": "2026-09-30T10:49:28.696Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 49570,
+              "engagementCount": 4758,
+              "rank": 1,
+              "extra": {
+                "starsToday": 4758
+              }
+            }
+          }
+        },
+        {
+          "title": "NVIDIA/OpenShell",
+          "url": "https://github.com/NVIDIA/OpenShell",
+          "summary": "OpenShell, desarrollado por NVIDIA, ofrece un entorno de tiempo de ejecución (runtime) seguro y centrado en la privacidad para agentes de inteligencia artificial autónomos. Esta infraestructura, escrita en el lenguaje Rust, tiene como objetivo crear una capa de ejecución segura mediante la supervisión del acceso de los agentes a los recursos del sistema.",
+          "meta": "Rust · ★ 11.115 · +990 hoy",
+          "snapshot": {
+            "sourceId": "NVIDIA/OpenShell",
+            "capturedAt": "2026-09-30T10:49:28.696Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 11115,
+              "engagementCount": 990,
+              "rank": 2,
+              "extra": {
+                "starsToday": 990
+              }
+            }
+          }
+        },
+        {
+          "title": "vectorize-io/hindsight",
+          "url": "https://github.com/vectorize-io/hindsight",
+          "summary": "Hindsight es un marco (framework) para agentes de inteligencia artificial que aprende de interacciones pasadas y convierte esta información en memoria a largo plazo. Al permitir que los agentes almacenen sus experiencias como datos estructurados, les ayuda a tomar decisiones más precisas en tareas similares.",
+          "meta": "Python · ★ 43.448 · +2.575 hoy",
+          "snapshot": {
+            "sourceId": "vectorize-io/hindsight",
+            "capturedAt": "2026-09-30T10:49:28.696Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 43448,
+              "engagementCount": 2575,
+              "rank": 3,
+              "extra": {
+                "starsToday": 2575
+              }
+            }
+          }
+        },
+        {
+          "title": "paperclipai/paperclip",
+          "url": "https://github.com/paperclipai/paperclip",
+          "summary": "Paperclip es una aplicación de código abierto que le permite gestionar agentes de inteligencia artificial (AI agents) en el lugar de trabajo desde un único centro. Desarrollada con TypeScript, esta herramienta tiene como objetivo aumentar la eficiencia operativa coordinando los flujos de trabajo de diferentes agentes.",
+          "meta": "TypeScript · ★ 94.955 · +2.458 hoy",
+          "snapshot": {
+            "sourceId": "paperclipai/paperclip",
+            "capturedAt": "2026-09-30T10:49:28.696Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 94955,
+              "engagementCount": 2458,
+              "rank": 4,
+              "extra": {
+                "starsToday": 2458
+              }
+            }
+          }
+        },
+        {
+          "title": "t8y2/dbx",
+          "url": "https://github.com/t8y2/dbx",
+          "summary": "Desarrollado con el lenguaje Rust, dbx es una herramienta de gestión de bases de datos ligera y multiplataforma que admite más de 100 tipos de bases de datos. Además de su aplicación de escritorio, interfaz de línea de comandos (CLI) y soporte para Docker, ofrece un asistente de inteligencia artificial integrado y el Protocolo de Contexto de Modelo (MCP).",
+          "meta": "Rust · ★ 22.728 · +232 hoy",
+          "snapshot": {
+            "sourceId": "t8y2/dbx",
+            "capturedAt": "2026-09-30T10:49:28.696Z",
+            "metadata": {
+              "language": "Rust",
+              "popularity": 22728,
+              "engagementCount": 232,
+              "rank": 5,
+              "extra": {
+                "starsToday": 232
+              }
+            }
+          }
+        },
+        {
+          "title": "mvschwarz/openrig",
+          "url": "https://github.com/mvschwarz/openrig",
+          "summary": "Openrig es una infraestructura multi-agente que combina Claude Code, la herramienta de codificación asistida por IA desarrollada por Anthropic, con el modelo de codificación basado en OpenAI, Codex, en un solo sistema. Este software ofrece un entorno de trabajo colaborativo en los procesos de desarrollo de software al reunir las capacidades de diferentes modelos de inteligencia artificial.",
+          "meta": "TypeScript · ★ 2.654 · +737 hoy",
+          "snapshot": {
+            "sourceId": "mvschwarz/openrig",
+            "capturedAt": "2026-09-30T10:49:28.696Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 2654,
+              "engagementCount": 737,
+              "rank": 6,
+              "extra": {
+                "starsToday": 737
+              }
+            }
+          }
+        },
+        {
+          "title": "oblien/openship",
+          "url": "https://github.com/oblien/openship",
+          "summary": "OpenShip es una plataforma de despliegue (deployment platform) de código abierto que puede alojar en su propio servidor. Ofrece una alternativa que permite a los desarrolladores gestionar su software sin depender de proveedores de la nube.",
+          "meta": "TypeScript · ★ 14.103 · +437 hoy",
+          "snapshot": {
+            "sourceId": "oblien/openship",
+            "capturedAt": "2026-09-30T10:49:28.696Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 14103,
+              "engagementCount": 437,
+              "rank": 7,
+              "extra": {
+                "starsToday": 437
+              }
+            }
+          }
+        },
+        {
+          "title": "averygan/reclip",
+          "url": "https://github.com/averygan/reclip",
+          "summary": "Reclip es una herramienta de descarga de medios ligera que puede alojar en su propio servidor y que sirve para descargar videos de casi todos los sitios web. Este software, que funciona a través de una interfaz web sencilla, simplifica el proceso de guardar archivos de video en su dispositivo local.",
+          "meta": "HTML · ★ 10.495 · +113 hoy",
+          "snapshot": {
+            "sourceId": "averygan/reclip",
+            "capturedAt": "2026-09-30T10:49:28.696Z",
+            "metadata": {
+              "language": "HTML",
+              "popularity": 10495,
+              "engagementCount": 113,
+              "rank": 8,
+              "extra": {
+                "starsToday": 113
+              }
+            }
+          }
+        },
+        {
+          "title": "cs341-illinois/coursebook",
+          "url": "https://github.com/cs341-illinois/coursebook",
+          "summary": "Coursebook, preparado por la Universidad de Illinois, es un libro de texto de código abierto que cubre temas de introducción a la programación de sistemas. Este recurso, presentado en formato TeX, proporciona acceso gratuito a materiales de educación técnica de nivel universitario.",
+          "meta": "TeX · ★ 3.279 · +572 hoy",
+          "snapshot": {
+            "sourceId": "cs341-illinois/coursebook",
+            "capturedAt": "2026-09-30T10:49:28.696Z",
+            "metadata": {
+              "language": "TeX",
+              "popularity": 3279,
+              "engagementCount": 572,
+              "rank": 9,
+              "extra": {
+                "starsToday": 572
+              }
+            }
+          }
+        },
+        {
+          "title": "rohitg00/ai-engineering-from-scratch",
+          "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "summary": "Esta guía de código abierto, que permite a los desarrolladores de software aprender los procesos de ingeniería de inteligencia artificial desde cero, incluye las etapas de desarrollo de aplicaciones con el lenguaje Python y la puesta en marcha de proyectos. El recurso, que combina el conocimiento teórico con proyectos prácticos, explica paso a paso cómo construir sistemas basados en inteligencia artificial de extremo a extremo.",
+          "meta": "Python · ★ 61.927 · +786 hoy",
+          "snapshot": {
+            "sourceId": "rohitg00/ai-engineering-from-scratch",
+            "capturedAt": "2026-09-30T10:49:28.696Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 61927,
+              "engagementCount": 786,
+              "rank": 10,
+              "extra": {
+                "starsToday": 786
+              }
+            }
+          }
+        },
+        {
+          "title": "VectifyAI/PageIndex",
+          "url": "https://github.com/VectifyAI/PageIndex",
+          "summary": "PageIndex es una biblioteca de Python que realiza indexación de documentos con capacidad de razonamiento sin necesidad de métodos de búsqueda basados en vectores. Optimiza los procesos de Generación Aumentada por Recuperación (RAG) utilizando inferencias lógicas basadas en texto en lugar de bases de datos vectoriales tradicionales.",
+          "meta": "Python · ★ 37.773 · +835 hoy",
+          "snapshot": {
+            "sourceId": "VectifyAI/PageIndex",
+            "capturedAt": "2026-09-30T10:49:28.696Z",
+            "metadata": {
+              "language": "Python",
+              "popularity": 37773,
+              "engagementCount": 835,
+              "rank": 11,
+              "extra": {
+                "starsToday": 835
+              }
+            }
+          }
+        },
+        {
+          "title": "willfaust/Madeira",
+          "url": "https://github.com/willfaust/Madeira",
+          "summary": "Madeira es una capa de compatibilidad que permite ejecutar juegos x86-64 basados en Windows en dispositivos iOS con jailbreak. Combina el emulador de procesador FEX-Emu, el software de compatibilidad Wine y el traductor de gráficos DXMT para llevar juegos de escritorio a la plataforma móvil.",
+          "meta": "C · ★ 1.168 · +81 hoy",
+          "snapshot": {
+            "sourceId": "willfaust/Madeira",
+            "capturedAt": "2026-09-30T10:49:28.696Z",
+            "metadata": {
+              "language": "C",
+              "popularity": 1168,
+              "engagementCount": 81,
+              "rank": 12,
+              "extra": {
+                "starsToday": 81
+              }
+            }
+          }
+        },
+        {
+          "title": "dream-num/univer",
+          "url": "https://github.com/dream-num/univer",
+          "summary": "Univer es una plataforma de código abierto que combina herramientas de oficina como hojas de cálculo, documentos y presentaciones en un solo tiempo de ejecución (runtime). La infraestructura, desarrollada para que los agentes de inteligencia artificial puedan procesar estos documentos, permite gestionar diferentes formatos de archivo en una estructura centralizada.",
+          "meta": "TypeScript · ★ 22.060 · +696 hoy",
+          "snapshot": {
+            "sourceId": "dream-num/univer",
+            "capturedAt": "2026-09-30T10:49:28.696Z",
+            "metadata": {
+              "language": "TypeScript",
+              "popularity": 22060,
+              "engagementCount": 696,
+              "rank": 13,
+              "extra": {
+                "starsToday": 696
+              }
+            }
+          }
+        },
+        {
+          "title": "rakyll/hey",
+          "url": "https://github.com/rakyll/hey",
+          "summary": "hey, desarrollado con el lenguaje Go, es una herramienta de prueba de carga (load generator) utilizada para medir el rendimiento de los servidores web. Ofrece una alternativa moderna al software ApacheBench (ab) y simula solicitudes HTTP a alta velocidad.",
+          "meta": "Go · ★ 20.579 · +34 hoy",
+          "snapshot": {
+            "sourceId": "rakyll/hey",
+            "capturedAt": "2026-09-30T10:49:28.696Z",
+            "metadata": {
+              "language": "Go",
+              "popularity": 20579,
+              "engagementCount": 34,
+              "rank": 14,
+              "extra": {
+                "starsToday": 34
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hackernews",
+      "items": [
+        {
+          "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+          "summary": "GPT-6.1 Sol, anunciado por OpenAI, ofrece capacidades de inteligencia artificial similares a Astra a una quinta parte del costo de los modelos actuales. Este nuevo modelo tiene como objetivo hacer que el acceso a sistemas inteligentes de alto rendimiento sea más asequible.",
+          "meta": "957 puntos · 840 comentarios",
+          "snapshot": {
+            "sourceId": "49896586",
+            "capturedAt": "2026-09-30T10:49:27.930Z",
+            "metadata": {
+              "popularity": 957,
+              "engagementCount": 840,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49896586",
+                  "popularity": 957,
+                  "engagementCount": 840
+                }
+              ],
+              "rank": 1,
+              "extra": {
+                "author": "crorella",
+                "createdAt": "2026-09-29T17:06:45Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49896586"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49896586",
+              "popularity": 957,
+              "engagementCount": 840
+            }
+          ]
+        },
+        {
+          "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+          "url": "https://github.com/ninjahawk/livenerf",
+          "summary": "Livenerf es una herramienta de evaluación comparativa (benchmark) utilizada para medir el rendimiento de los modelos de lenguaje grandes. Permite realizar un seguimiento de si los modelos avanzados, como Claude 3.5 Sonnet, experimentan una disminución en sus capacidades con las actualizaciones.",
+          "meta": "650 puntos · 259 comentarios",
+          "snapshot": {
+            "sourceId": "49901736",
+            "capturedAt": "2026-09-30T10:49:27.930Z",
+            "metadata": {
+              "popularity": 650,
+              "engagementCount": 259,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49901736",
+                  "popularity": 650,
+                  "engagementCount": 259
+                }
+              ],
+              "rank": 2,
+              "extra": {
+                "author": "bryan0",
+                "createdAt": "2026-09-29T22:36:14Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49901736"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49901736",
+              "popularity": 650,
+              "engagementCount": 259
+            }
+          ]
+        },
+        {
+          "title": "Dots: Always-on agents",
+          "url": "https://openai.com/index/introducing-dots/",
+          "summary": "Dots, presentado por OpenAI, es una plataforma de agentes autónomos que interactúan con la pantalla de la computadora de los usuarios para realizar tareas. Esta tecnología automatiza flujos de trabajo complejos, facilitando los procesos de transferencia de datos y ejecución de operaciones entre diferentes programas.",
+          "meta": "632 puntos · 494 comentarios",
+          "snapshot": {
+            "sourceId": "49896604",
+            "capturedAt": "2026-09-30T10:49:27.930Z",
+            "metadata": {
+              "popularity": 632,
+              "engagementCount": 494,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49896604",
+                  "popularity": 632,
+                  "engagementCount": 494
+                }
+              ],
+              "rank": 3,
+              "extra": {
+                "author": "alvis",
+                "createdAt": "2026-09-29T17:07:57Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49896604"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49896604",
+              "popularity": 632,
+              "engagementCount": 494
+            }
+          ]
+        },
+        {
+          "title": "America.gov",
+          "url": "https://america.gov/",
+          "summary": "El gobierno de los Estados Unidos ha rediseñado America.gov como la cara digital oficial del país. La plataforma funciona como un portal de información que ofrece noticias actuales y contenido cultural dirigido al mundo exterior.",
+          "meta": "579 puntos · 487 comentarios",
+          "snapshot": {
+            "sourceId": "49893509",
+            "capturedAt": "2026-09-30T10:49:27.930Z",
+            "metadata": {
+              "popularity": 579,
+              "engagementCount": 487,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49893509",
+                  "popularity": 579,
+                  "engagementCount": 487
+                }
+              ],
+              "rank": 4,
+              "extra": {
+                "author": "plesiv",
+                "createdAt": "2026-09-29T14:04:57Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49893509"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49893509",
+              "popularity": 579,
+              "engagementCount": 487
+            }
+          ]
+        },
+        {
+          "title": "How Delhi cut electricity loss from 50 to 5 percent",
+          "url": "https://spectrum.ieee.org/delhi-electricity-loss",
+          "summary": "Delhi redujo la tasa de pérdidas y robos de energía del 50% al 5% mediante la privatización de la distribución eléctrica y el uso de medidores inteligentes (smart meters) y análisis de datos. Este proceso demuestra, con un ejemplo concreto, el papel de la modernización de la infraestructura y los sistemas de seguimiento digital en el aumento de la eficiencia energética.",
+          "meta": "528 puntos · 294 comentarios",
+          "snapshot": {
+            "sourceId": "49892245",
+            "capturedAt": "2026-09-30T10:49:27.930Z",
+            "metadata": {
+              "popularity": 528,
+              "engagementCount": 294,
+              "discussions": [
+                {
+                  "source": "hackernews",
+                  "url": "https://news.ycombinator.com/item?id=49892245",
+                  "popularity": 528,
+                  "engagementCount": 294
+                }
+              ],
+              "rank": 5,
+              "extra": {
+                "author": "rbanffy",
+                "createdAt": "2026-09-29T12:43:29Z",
+                "hnUrl": "https://news.ycombinator.com/item?id=49892245"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "hackernews",
+              "url": "https://news.ycombinator.com/item?id=49892245",
+              "popularity": 528,
+              "engagementCount": 294
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "huggingface",
+      "items": [
+        {
+          "title": "convaiinnovations/laya",
+          "url": "https://huggingface.co/convaiinnovations/laya",
+          "summary": "Laya, compartido en HuggingFace, es un modelo de inteligencia artificial desarrollado para tareas de clasificación de texto. Acelera los procesos de procesamiento de lenguaje natural (natural language processing) al dividir los textos proporcionados en categorías predefinidas.",
+          "meta": "♥ 4.576 · 0 descargas",
+          "snapshot": {
+            "sourceId": "convaiinnovations/laya",
+            "capturedAt": "2026-09-30T10:49:27.722Z",
+            "metadata": {
+              "popularity": 4576,
+              "engagementCount": 0,
+              "rank": 1,
+              "extra": {
+                "trendingScore": 1598,
+                "pipelineTag": "text-classification",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "laya",
+                  "system-one",
+                  "calibrated-decisions",
+                  "rlcd",
+                  "classification",
+                  "routing",
+                  "scoring",
+                  "guardrails",
+                  "moderation",
+                  "reinforcement-learning",
+                  "commercial-use",
+                  "text-classification",
+                  "license:apache-2.0",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Edge0/Audio8-ASR-Infinite",
+          "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
+          "summary": "Audio8-ASR-Infinite, publicado en HuggingFace, es un modelo de reconocimiento automático de voz (automatic speech recognition) que convierte datos de audio en texto. Optimizado para procesar archivos de audio a gran escala, este modelo acelera los procesos de transcripción con una alta tasa de precisión.",
+          "meta": "♥ 1.561 · 26.749 descargas",
+          "snapshot": {
+            "sourceId": "Edge0/Audio8-ASR-Infinite",
+            "capturedAt": "2026-09-30T10:49:27.722Z",
+            "metadata": {
+              "popularity": 1561,
+              "engagementCount": 26749,
+              "rank": 2,
+              "extra": {
+                "trendingScore": 1368,
+                "pipelineTag": "automatic-speech-recognition",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "audio8_asr_infinite",
+                  "text-generation",
+                  "streaming",
+                  "realtime",
+                  "speech-recognition",
+                  "audio",
+                  "automatic-speech-recognition",
+                  "custom_code",
+                  "zh",
+                  "en",
+                  "license:apache-2.0",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "summary": "Qwen-Image-2.1-Uncensored-GGUF es un modelo de inteligencia artificial sin restricciones con capacidad de generación de imágenes a partir de texto (text-to-image). El formato GGUF del modelo permite generar imágenes en computadoras locales con bajos recursos de hardware.",
+          "meta": "♥ 2.483 · 1.232.685 descargas",
+          "snapshot": {
+            "sourceId": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+            "capturedAt": "2026-09-30T10:49:27.722Z",
+            "metadata": {
+              "popularity": 2483,
+              "engagementCount": 1232685,
+              "rank": 3,
+              "extra": {
+                "trendingScore": 952,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "gguf",
+                  "qwen",
+                  "image-generation",
+                  "comfyui",
+                  "comfyui-gguf",
+                  "text-to-image",
+                  "base_model:Qwen/Qwen-Image-2.1",
+                  "base_model:quantized:Qwen/Qwen-Image-2.1",
+                  "license:other",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "XingChen-AGI/TeleOCR",
+          "url": "https://huggingface.co/XingChen-AGI/TeleOCR",
+          "summary": "TeleOCR es un modelo de imagen a texto (image-to-text) que procesa el texto en imágenes y lo convierte en salidas de texto significativas. Ha sido desarrollado para optimizar el proceso de conversión de datos visuales complejos a formato de texto digital.",
+          "meta": "♥ 946 · 30.383 descargas",
+          "snapshot": {
+            "sourceId": "XingChen-AGI/TeleOCR",
+            "capturedAt": "2026-09-30T10:49:27.722Z",
+            "metadata": {
+              "popularity": 946,
+              "engagementCount": 30383,
+              "rank": 4,
+              "extra": {
+                "trendingScore": 809,
+                "pipelineTag": "image-text-to-text",
+                "tags": [
+                  "transformers",
+                  "safetensors",
+                  "qwen2_5_vl",
+                  "image-text-to-text",
+                  "ocr",
+                  "document-parsing",
+                  "multimodal",
+                  "conversational",
+                  "custom_code",
+                  "zh",
+                  "en",
+                  "arxiv:2608.12898",
+                  "license:apache-2.0",
+                  "eval-results",
+                  "text-generation-inference",
+                  "endpoints_compatible",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "title": "Qwen/Qwen-Image-2.1",
+          "url": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+          "summary": "Qwen-Image-2.1, desarrollado por Alibaba, es un modelo de texto a imagen (text-to-image) que convierte comandos de texto en contenido visual. Compartido en la plataforma de inteligencia artificial de código abierto HuggingFace, este modelo tiene como objetivo ofrecer un alto nivel de precisión y detalle en los procesos de generación de imágenes.",
+          "meta": "♥ 2.686 · 70.687 descargas",
+          "snapshot": {
+            "sourceId": "Qwen/Qwen-Image-2.1",
+            "capturedAt": "2026-09-30T10:49:27.722Z",
+            "metadata": {
+              "popularity": 2686,
+              "engagementCount": 70687,
+              "rank": 5,
+              "extra": {
+                "trendingScore": 636,
+                "pipelineTag": "text-to-image",
+                "tags": [
+                  "diffusers",
+                  "safetensors",
+                  "qwen",
+                  "image-generation",
+                  "image-editing",
+                  "rgba",
+                  "text-to-image",
+                  "license:other",
+                  "diffusers:QwenImage21Pipeline",
+                  "region:us"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "hfpapers",
+      "items": [
+        {
+          "title": "APM-Bench: Benchmarking Cross-session Persistent Memory for Egocentric Streaming Video Assistants",
+          "url": "https://huggingface.co/papers/2609.37559",
+          "summary": "APM-Bench es una herramienta de evaluación (benchmark) desarrollada para medir la capacidad de los modelos de video basados en flujo para recordar experiencias pasadas. Este sistema redefine las interacciones del mundo real como ciclos de vida que incluyen múltiples sesiones, con el objetivo de probar la consistencia de la memoria de los asistentes de inteligencia artificial en procesos interrumpidos.",
+          "meta": "10 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2609.37559",
+            "capturedAt": "2026-09-30T10:49:27.737Z",
+            "metadata": {
+              "popularity": 10,
+              "engagementCount": 1,
+              "rank": 1,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.37559",
+                "publishedAt": "2026-09-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/Jianguo-Huang11/APM-Bench",
+                "githubStars": 2
+              }
+            }
+          }
+        },
+        {
+          "title": "Reasoning with Image Generation",
+          "url": "https://huggingface.co/papers/2609.16409",
+          "summary": "El enfoque de razonamiento con generación de imágenes (reasoning with image generation) permite que los modelos de lenguaje grandes multimodales (multimodal LLMs) resuelvan problemas complejos paso a paso mediante la visualización. Este método aumenta el éxito en tareas visuales al combinar los procesos de razonamiento basados en texto de los modelos con capacidades de manipulación visual.",
+          "meta": "7 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2609.16409",
+            "capturedAt": "2026-09-30T10:49:27.737Z",
+            "metadata": {
+              "popularity": 7,
+              "engagementCount": 1,
+              "rank": 2,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.16409",
+                "publishedAt": "2026-09-14T22:29:03.000Z"
+              }
+            }
+          }
+        },
+        {
+          "title": "WISE-ATTA: When to Ask for Labels in Budgeted Active Test-Time Adaptation",
+          "url": "https://huggingface.co/papers/2609.37687",
+          "summary": "WISE-ATTA presenta un método de adaptación activa en tiempo de ejecución con presupuesto limitado (budgeted active test-time adaptation) para que los modelos de inteligencia artificial se adapten a los cambios en la distribución de datos durante su funcionamiento. Este enfoque reduce el costo de actualización del modelo al solicitar etiquetas solo para secciones específicas en lugar de conjuntos de datos completos.",
+          "meta": "1 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2609.37687",
+            "capturedAt": "2026-09-30T10:49:27.737Z",
+            "metadata": {
+              "popularity": 1,
+              "engagementCount": 1,
+              "rank": 3,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.37687",
+                "publishedAt": "2026-09-29T00:00:00.000Z",
+                "githubRepo": "https://github.com/Muhammad-Huzaifaa/WISE-ATTA",
+                "githubStars": 3
+              }
+            }
+          }
+        },
+        {
+          "title": "LLMs are General Asynchronous Agents",
+          "url": "https://huggingface.co/papers/2609.35427",
+          "summary": "Los modelos de lenguaje grandes (large language models) están adquiriendo la capacidad de trabajar de forma asíncrona en lugar de utilizar ciclos de procesamiento secuencial tradicionales. Este enfoque permite que los modelos procesen nuevas entradas sin interrupciones mientras realizan tareas en entornos con flujos de datos continuos, como asistentes de voz o sistemas robóticos.",
+          "meta": "19 me gusta · 1 comentarios",
+          "snapshot": {
+            "sourceId": "2609.35427",
+            "capturedAt": "2026-09-30T10:49:27.737Z",
+            "metadata": {
+              "popularity": 19,
+              "engagementCount": 1,
+              "rank": 4,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.35427",
+                "publishedAt": "2026-09-28T00:00:00.000Z",
+                "githubRepo": "https://github.com/dvmazur/async_llm",
+                "githubStars": 4
+              }
+            }
+          }
+        },
+        {
+          "title": "Persistence Forcing: Exploiting Feature Specialization in Pixel-Space Diffusion",
+          "url": "https://huggingface.co/papers/2609.36014",
+          "summary": "Los transformadores de difusión basados en píxeles (pixel-space diffusion Transformers) utilizan un método de refinamiento heterogéneo (heterogeneous refinement) en lugar de abordar diferentes niveles de detalle con un solo método al procesar datos de imagen. Este enfoque permite una representación más eficiente de los datos visuales al procesar la estructura general y las texturas finas con diferentes grupos de características.",
+          "meta": "2 me gusta · 2 comentarios",
+          "snapshot": {
+            "sourceId": "2609.36014",
+            "capturedAt": "2026-09-30T10:49:27.737Z",
+            "metadata": {
+              "popularity": 2,
+              "engagementCount": 2,
+              "rank": 5,
+              "extra": {
+                "arxivUrl": "https://arxiv.org/abs/2609.36014",
+                "publishedAt": "2026-09-28T00:00:00.000Z",
+                "githubRepo": "https://github.com/ChongWang1024/PerF",
+                "githubStars": 10
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sourceName": "lobsters",
+      "items": [
+        {
+          "title": "OpenBSD's ports tree keeps GPL coreutils and rejects uutils (Rust rewrite)",
+          "url": "https://www.mail-archive.com/ports%40openbsd.org/msg143892.html",
+          "summary": "Los desarrolladores de OpenBSD rechazaron la propuesta de incluir uutils, un paquete de herramientas básicas del sistema reescrito en el lenguaje Rust. La gestión del proyecto declaró que las herramientas básicas de GNU (coreutils) son necesarias para mantener la consistencia en las configuraciones actuales y que las herramientas alternativas podrían provocar comportamientos inesperados en los flujos de trabajo.",
+          "meta": "16 puntos · 23 comentarios",
+          "snapshot": {
+            "sourceId": "vmmq7g",
+            "capturedAt": "2026-09-30T10:49:28.049Z",
+            "metadata": {
+              "popularity": 16,
+              "engagementCount": 23,
+              "rank": 1,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/vmmq7g/openbsd_s_ports_tree_keeps_gpl_coreutils",
+                  "popularity": 16,
+                  "engagementCount": 23
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "openbsd",
+                  "rust"
+                ],
+                "createdAt": "2026-09-30T02:47:04.435-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/vmmq7g/openbsd_s_ports_tree_keeps_gpl_coreutils",
+              "popularity": 16,
+              "engagementCount": 23
+            }
+          ]
+        },
+        {
+          "title": "CoW — a stacking window manager for Wayland",
+          "url": "https://cow-wm.codeberg.page/cow/",
+          "summary": "CoW es un gestor de ventanas apilables (stacking window manager) que funciona sobre el protocolo de visualización Wayland. Esta herramienta, que permite a los usuarios gestionar ventanas superponiéndolas, se está desarrollando para personalizar la experiencia de la interfaz gráfica en sistemas Linux.",
+          "meta": "122 puntos · 17 comentarios",
+          "snapshot": {
+            "sourceId": "tyivfg",
+            "capturedAt": "2026-09-30T10:49:28.049Z",
+            "metadata": {
+              "popularity": 122,
+              "engagementCount": 17,
+              "rank": 2,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/tyivfg/cow_stacking_window_manager_for_wayland",
+                  "popularity": 122,
+                  "engagementCount": 17
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "freebsd",
+                  "linux"
+                ],
+                "createdAt": "2026-09-29T04:07:37.137-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/tyivfg/cow_stacking_window_manager_for_wayland",
+              "popularity": 122,
+              "engagementCount": 17
+            }
+          ]
+        },
+        {
+          "title": "Pining for Arc Downcasting in Rust",
+          "url": "https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/",
+          "summary": "La necesidad de realizar una conversión de tipos (downcasting) a través de un contador de referencias atómico (Arc) en el lenguaje de programación Rust dificulta la personalización dinámica de los datos compartidos. Debido a las restricciones actuales de la biblioteca estándar, los desarrolladores buscan nuevos métodos para realizar estas conversiones de forma segura y eficiente.",
+          "meta": "41 puntos · 12 comentarios",
+          "snapshot": {
+            "sourceId": "dayzwt",
+            "capturedAt": "2026-09-30T10:49:28.049Z",
+            "metadata": {
+              "popularity": 41,
+              "engagementCount": 12,
+              "rank": 3,
+              "discussions": [
+                {
+                  "source": "lobsters",
+                  "url": "https://lobste.rs/s/dayzwt/pining_for_arc_downcasting_rust",
+                  "popularity": 41,
+                  "engagementCount": 12
+                }
+              ],
+              "extra": {
+                "tags": [
+                  "rust"
+                ],
+                "createdAt": "2026-09-29T10:35:14.850-05:00"
+              }
+            }
+          },
+          "discussions": [
+            {
+              "source": "lobsters",
+              "url": "https://lobste.rs/s/dayzwt/pining_for_arc_downcasting_rust",
+              "popularity": 41,
+              "engagementCount": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sourceName": "releases",
+      "items": []
+    }
+  ],
+  "glossary": [
+    {
+      "term": "runtime",
+      "explanation": "El entorno básico que un software necesita mientras se ejecuta en una computadora."
+    },
+    {
+      "term": "framework",
+      "explanation": "Un conjunto de estructuras de código y herramientas listas para usar que se emplean para acelerar el trabajo durante el desarrollo de software."
+    },
+    {
+      "term": "AI agents",
+      "explanation": "Programas de software inteligentes capaces de tomar decisiones por sí mismos y realizar tareas específicas."
+    },
+    {
+      "term": "CLI",
+      "explanation": "Interfaz basada en texto que permite gestionar programas escribiendo comandos en lugar de usar el ratón."
+    },
+    {
+      "term": "MCP",
+      "explanation": "Protocolo estándar que permite a los modelos de inteligencia artificial conectarse de forma segura a diferentes fuentes de datos y herramientas."
+    },
+    {
+      "term": "multi-agent",
+      "explanation": "Estructura formada por múltiples unidades de inteligencia artificial que se comunican entre sí para compartir una tarea compleja."
+    },
+    {
+      "term": "deployment platform",
+      "explanation": "Servicios que permiten publicar y ofrecer al usuario el software desarrollado a través de Internet."
+    },
+    {
+      "term": "reasoning",
+      "explanation": "Capacidad de la inteligencia artificial para extraer conclusiones procesando la información recibida a través de un filtro lógico."
+    },
+    {
+      "term": "RAG",
+      "explanation": "Método que permite a la inteligencia artificial generar respuestas más precisas consultando documentos actuales o específicos."
+    },
+    {
+      "term": "jailed",
+      "explanation": "Ejecución de un programa en un entorno restringido y seguro para evitar que dañe al resto del equipo."
+    },
+    {
+      "term": "load generator",
+      "explanation": "Herramienta que genera tráfico de usuarios artificial para medir cuánto tráfico intenso puede soportar un sistema."
+    },
+    {
+      "term": "ab",
+      "explanation": "Herramienta de prueba sencilla utilizada para medir a cuántas personas pueden atender los servidores web simultáneamente."
+    },
+    {
+      "term": "benchmark",
+      "explanation": "Proceso de medir el rendimiento de un sistema o hardware mediante pruebas estándar y compararlo con otros."
+    },
+    {
+      "term": "autonomous agents",
+      "explanation": "Software que establece sus propios objetivos y toma medidas para alcanzarlos sin intervención humana."
+    },
+    {
+      "term": "smart meters",
+      "explanation": "Dispositivos que miden el consumo de electricidad o agua en tiempo real y envían los datos digitalmente a un centro."
+    },
+    {
+      "term": "text classification",
+      "explanation": "El proceso de clasificar un texto en categorías predeterminadas basándose en su contenido."
+    }
+  ]
+}
