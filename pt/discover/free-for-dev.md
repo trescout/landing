@@ -1,71 +1,54 @@
-# Guia de infraestruturas SaaS e nuvem gratuitas para desenvolvedores
+# Lista de recursos de ferramentas gratuitas para desenvolvedores
 
-O free-for-dev é uma enorme coletânea de código aberto com mais de 1.000 serviços SaaS, PaaS e IaaS que oferecem planos gratuitos perpétuos (free tiers). Criado para desenvolvedores, fundadores de startups e engenheiros de infraestrutura, ele viabiliza a criação de projetos completos com custo zero de servidores.
+free-for-dev é uma enorme biblioteca de recursos de código aberto que lista mais de mil serviços SaaS, PaaS e IaaS que oferecem um nível gratuito permanente para que desenvolvedores de software, empreendedores e engenheiros de infraestrutura possam construir MVPs e projetos com capital zero.
 
 - ★ 137.565
 - HTML
 - GitHub Trending · 2026-06-27
 
-## Atualizações
-- 16 de setembro de 2026: Estrelas 137.565, ampliado com novos bancos de dados serverless, vetoriais e APIs de inferência de IA verificadas.
-
 ## O que você ganha
-- Criação de MVPs com custo zero: Valide ideias com usuários reais sem mensalidades de servidores ou surpresas no cartão de crédito.
-- Mais de 1.000 ferramentas categorizadas: Hospedagem em nuvem, serverless, bancos de dados, CDN, autenticação, CI/CD e monitoramento.
-- Apenas planos gratuitos permanentes: Elimina avaliações temporárias de 14 dias; reúne apenas plataformas com cotas contínuas (Always Free).
-- Validação coletiva constante: Mantido por milhares de engenheiros de código aberto que removem links quebrados e planos descontinuados.
-- Estratégia multinuvem: Combine cotas gratuitas de diferentes provedores para montar infraestruturas escaláveis e econômicas.
+- Desenvolvimento MVP com custo zero de infraestrutura: Testando suas ideias com usuários reais sem risco de cartão de crédito ou pagando uma conta mensal fixa de servidor.
+- Mais de mil serviços categorizados: hospedagem em nuvem, arquiteturas serverless, bancos de dados, CDN, autenticação, CI/CD e ferramentas de monitoramento.
+- Apenas níveis gratuitos verdadeiros: testes temporários de 14 dias são eliminados; Somente plataformas que oferecem planos permanentes (Sempre Gratuitos) são aceitas.
+- Moderação e atualização da comunidade: Ecossistema ativo que é constantemente testado por milhares de colaboradores de código aberto e limpa serviços fechados.
+- Flexibilidade arquitetônica: projete infraestrutura híbrida de nível empresarial combinando cotas gratuitas de diferentes provedores de nuvem.
 
-## Categorias de destaque e recursos gratuitos
+## Categorias em destaque e infraestruturas gratuitas
+- Servidor e Cloud Computing (IaaS/PaaS): Oracle Cloud (Always Free 4 core ARM / 24 GB RAM), Cloudflare Workers, Fly.io e Render.
+- Banco de dados e armazenamento (DBaaS): Supabase (PostgreSQL), Neon (Serverless Postgres), Cloudflare D1/R2 e Upstash (Redis).
+- Autenticação e Segurança (Auth & Sec): Certificados SSL Clerk, Auth0, Stytch e Let's Encrypt.
+- Integração e testes contínuos (CI/CD): GitHub Actions (2.000 min/mês), análises de cobertura de código GitLab CI e Codecov.
+- Observabilidade e gerenciamento de logs: Grafana Cloud, Better Stack, Sentry (rastreamento de erros) e Axiom.
 
-O catálogo cobre todas as demandas de um aplicativo web ou móvel moderno:
-- Computação e Hospedagem em Nuvem (IaaS/PaaS): Oracle Cloud (Always Free 4 vCPUs ARM / 24 GB RAM), Cloudflare Workers, Fly.io e Render.
-- Bancos de Dados e Armazenamento (DBaaS): Supabase (PostgreSQL), Neon (Postgres Serverless), Cloudflare D1/R2 e Upstash (Redis).
-- Autenticação e Segurança: Clerk, Auth0, Stytch e certificados SSL automáticos Let's Encrypt.
-- Integração Contínua (CI/CD): GitHub Actions (2.000 min/mês grátis), GitLab CI e relatórios de cobertura do Codecov.
-- Observabilidade e Logs: Grafana Cloud, Better Stack, Sentry e Axiom.
+## Diretrizes da comunidade e critérios do nível gratuito
+- Requisito de plano realmente gratuito: apenas os serviços que oferecem uso gratuito permanente e sem limite de tempo são listados.
+- Restrição à exigência de cartão de crédito: São claramente indicados aqueles que não solicitam cartão de crédito durante a fase de registro ou que fazem zero saques apenas para fins de verificação de identidade.
+- Verificação automática de links: cada solicitação pull enviada ao repositório é testada em busca de links quebrados pelos bots do GitHub Actions.
 
-## Diretrizes da comunidade e critérios de seleção
+## Abordagem arquitetônica e guia para iniciantes
+- Frontend estático e implantação: implementação de React/Next.js em páginas Vercel ou Cloudflare.
+- Camada de banco de dados: 500 MB gratuitos de PostgreSQL no Supabase e segurança integrada baseada em linha (RLS).
+- E-mail e notificações: 3.000 e-mails transacionais gratuitos por mês via Reenvio.
 
-Cada serviço listado deve atender a critérios rigorosos de qualidade:
-- Plano gratuito permanente obrigatório: Somente serviços com planos sem prazo de validade são aceitos.
-- Transparência sobre cartão de crédito: Indicação explícita sobre necessidade de cartão ou cadastro sem cobrança.
-- Verificação automática de links: Pull requests são testados por robôs de integração contínua no GitHub Actions.
-
-## Arquitetura recomendada para início de projeto
-
-Uma infraestrutura moderna com custo zero combinando os principais serviços da lista:
-- Frontend e Distribuição Edge: Hospede Next.js ou React no Cloudflare Pages ou Vercel com CDN global gratuita.
-- Banco de Dados Relacional: Instância gratuita de 500 MB no Supabase com Row-Level Security (RLS) e PostgreSQL.
-- Disparo de E-mails Transacionais: Envie até 3.000 e-mails por mês gratuitamente com Resend ou Brevo.
-
-## Estratégias de otimização de custos e controle de limites
-
-Práticas fundamentais para manter suas aplicações rigorosamente gratuitas:
-- Trava de gastos em zero dólares: Defina limites de cobrança nos painéis com teto estrito em US$ 0.
-- Aproveitamento máximo de cache na CDN: Use a CDN gratuita da Cloudflare para atender mais de 80% das requisições estáticas e dinâmicas.
-- Pool de conexões em ambientes serverless: Configure o PgBouncer para evitar exceder o limite de conexões simultâneas do banco.
+## Estratégias de otimização de custos e superação de cota
+- Definindo orçamento e limites de gastos: Defina o limite de gastos (limite de gastos) para 0 USD nos painéis da plataforma.
+- Usando cache: reduza as chamadas de API em 80% armazenando em cache ativos estáticos e dinâmicos com o CDN gratuito da Cloudflare.
+- Pool de conexões de banco de dados: use PgBouncer ou pooler integrado para evitar limites de conexão em ambientes sem servidor.
 
 ## Se você não programa
-🤖 Se você não programa
-Quero lançar um aplicativo web usando apenas serviços com planos gratuitos perpétuos listados no free-for-dev. Você pode projetar uma arquitetura completa combinando hospedagem, banco de dados serverless, autenticação e envio de e-mails com garantia de custo zero e detalhar as etapas de configuração?
-
-- **Para quem:** Desenvolvedores, fundadores de startups, estudantes e quem busca zerar despesas com infraestrutura de nuvem.
-- **Licença:** CC BY 4.0 (Licença de conteúdo aberto)
-- **Curador:** R.I. Pienaar e mais de 1.000 colaboradores de código aberto
-- **Total de Serviços:** Mais de 1.000 ferramentas gratuitas verificadas
+Quero estabelecer uma infraestrutura de nuvem moderna que consista em serviços totalmente gratuitos para uma nova iniciativa web. Você poderia descrever um plano de arquitetura de custo zero e etapas de instalação que combine os provedores gratuitos mais populares na lista gratuita para desenvolvedores (hospedagem, banco de dados, autenticação e serviço de e-mail) e não exceda os limites de cota?
 
 ## Perguntas frequentes
-- Qual é a diferença entre free tier e free trial? Free trials expiram após 7 a 30 dias exigindo pagamento. Os serviços do free-for-dev possuem cotas gratuitas perenes que não expiram com o tempo.
-- É possível usar as ferramentas sem cadastrar cartão de crédito? Sim. Diversas plataformas (como Supabase, Cloudflare e Vercel) permitem cadastro completo sem fornecer dados financeiros.
-- O que acontece quando atinjo o limite da cota gratuita? Se houver trava de custos configurada, o serviço simplesmente recusa novas requisições (HTTP 429 ou 503), sem cobrar valores extras na sua fatura.
-- Esses planos suportam projetos em produção real? Sim, atendem com folga protótipos, MVPs e os primeiros milhares de usuários ativos. Quando o projeto faturar, basta migrar para planos pagos com um clique.
-
-## Links
-- [GitHub →](https://github.com/ripienaar/free-for-dev)
+- Qual é a diferença entre o nível gratuito e a versão de teste (Free Trial)? As avaliações geralmente expiram após 7 a 30 dias e exigem pagamento. Os serviços na lista gratuita para desenvolvedores são gratuitos indefinidamente dentro de certas cotas.
+- Existem serviços que podem ser usados ​​sem inserir um cartão de crédito? Sim. Muitos serviços da lista (Supabase, Vercel, Cloudflare, Fly.io) não exigem cartão de crédito durante o registro.
+- O que acontece quando as cotas gratuitas são preenchidas? Se for definido um limite de gastos, o serviço rejeita temporariamente as solicitações (HTTP 429 ou 503), mas nenhum dinheiro é deduzido do seu cartão.
+- Esses serviços são suficientes para projetos de grande escala? O MVP é mais que suficiente para usuários iniciais e tráfego médio; Assim que o produto começar a gerar receita, você poderá mudar para planos pagos com um único clique nas mesmas plataformas.
 
 ## Termos relacionados do glossário
-SaaS PaaS IaaS Cloud Computing Open Source API
+
+## Links
+- Repositório no GitHub →
+- Ler em turco →
 
 ---
-Source: TreScout Discover · https://trescout.com/pt/discover/free-for-dev/
+Fonte: TreScout Descobrir · https://trescout.com/pt/discover/free-for-dev/

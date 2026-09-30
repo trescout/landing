@@ -28,5 +28,8 @@ Sí, se puede implementar en casi todos los modelos de lenguajes principales.
 - [Self-hosting](/es/dictionary/self-hosting/)
 - [Inference](/es/dictionary/inference/)
 
+## Herramientas relacionadas
+- [Model-Optimizer](/es/discover/model-optimizer/)
+
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/quantization/

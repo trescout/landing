@@ -1,86 +1,61 @@
 # Descarga paquetes IPA de iOS directamente
 
-Ipatool es una herramienta de línea de comandos de código abierto que permite buscar, licenciar y descargar paquetes de aplicaciones (archivos IPA) para iOS, iPadOS, tvOS y visionOS directamente desde la App Store de Apple. Escrito en Go, facilita la auditoría de seguridad y el archivado de apps sin necesidad de un iPhone físico ni de iTunes.
+Ipatool es una herramienta de línea de comandos de código abierto que te permite buscar, licenciar y descargar directamente paquetes de aplicaciones (archivos IPA) para iOS, iPadOS, tvOS y visionOS desde la App Store de Apple. Desarrollada en Go, la herramienta facilita el archivado de aplicaciones y la investigación de seguridad sin necesidad de un dispositivo iPhone físico o del software iTunes.
 
-- ★ 10.388
+- ★ 11.407
 - Go
 - GitHub Trending · 2026-08-31
 
-## Actualizaciones
-- 31 de agosto de 2026: Estrellas 10.388, versión estable v2.1.4 (compatibilidad con API Apple StoreKit y mejoras en 2FA).
-
-## Qué te aporta
-- Descarga de IPA independiente del dispositivo: Obtén paquetes IPA oficiales directamente desde los servidores de Apple sin requerir un iPhone, iPad o Mac.
-- Autenticación con soporte para 2FA: Inicia sesión en App Store de forma segura en tu terminal local con verificación en dos pasos.
-- Licenciamiento de apps gratuitas: Adquiere la licencia de aplicaciones gratuitas en tu cuenta Apple ID con un solo comando antes de descargarlas.
-- Compatibilidad multiplataforma: Desarrollado en Go puro, funciona sin problemas en macOS, Linux y Windows sin dependencias de software de Apple.
-- Apto para automatización y CI/CD: CLI totalmente programable para integrarse en flujos de auditoría de seguridad móvil y archivado digital.
+## Qué aporta
+- Descarga de IPA independiente del dispositivo: Capacidad de extraer paquetes IPA oficiales directamente desde los servidores de Apple sin necesidad de estar conectado a un iPhone, iPad o Mac físico.
+- Autorización de cuenta y soporte para 2FA: gestión segura de la autenticación de doble factor (2FA) a través del terminal nativo para iniciar sesión en el App Store.
+- Adquisición de licencia gratuita (Purchase): Asociar aplicaciones gratuitas no descargadas previamente a su cuenta de Apple ID con un solo comando.
+- Soporte multiplataforma: Al estar compilado con Go puro, funciona en sistemas macOS, Linux y Windows sin ninguna dependencia adicional de Apple.
+- Automatización y compatibilidad con CI/CD: Estructura de CLI programable que se integra fácilmente en los flujos de trabajo de archivado y pruebas de seguridad de aplicaciones móviles.
 
 ## Instalación
-
-**Instalación con Homebrew o Go**
+**Instalación mediante Homebrew o Go**
 
 ```
 brew tap majd/repo https://github.com/majd/repo
 brew install ipatool
-# o con Go:
-go install github.com/majd/ipatool@latest
 ```
+
 
 ## Ejecución
-
-**Iniciar sesión con Apple ID**
-
-```
-ipatool auth login --email usuario@icloud.com
-```
-
-**Buscar aplicación**
+**Inicia sesión con tu ID de Apple y descarga IPA**
 
 ```
+ipatool auth login --email ornek@icloud.com
 ipatool search "Telegram"
-```
-
-**Descargar paquete IPA**
-
-```
 ipatool download -b org.telegram.Telegram-iOS
 ```
 
+
 ## Arquitectura técnica y principio de funcionamiento
+- Emulación de Apple StoreKit y del protocolo Bag: se autentica como un cliente oficial de iOS al imitar los puntos de conexión de la API de Apple Store (iTunes Bag, buyProduct y downloadProduct).
+- Empaquetado sinf de FairPlay DRM: El archivo IPA descargado conserva su estructura original, que incluye los bloques de cifrado DRM oficiales de Apple y los certificados de firma de la cuenta.
+- Integración con el llavero (Keyring) del sistema operativo: Almacena los tokens de sesión y las credenciales de usuario en el almacén seguro del sistema operativo (Keychain) en lugar de hacerlo en texto plano.
 
-Ipatool interpreta los protocolos cliente privados de Apple para comunicarse directamente con la infraestructura de la App Store:
-- Emulación de protocolos StoreKit y Bag: Simula las peticiones a iTunes Bag, buyProduct y downloadProduct para autenticarse como un cliente iOS legítimo.
-- Empaquetado FairPlay DRM intacto: El archivo IPA descargado preserva el cifrado oficial de Apple y los metadatos de compra originales.
-- Integración con el llavero del sistema (Keyring): Guarda los tokens de sesión en el llavero protegido del sistema operativo en lugar de archivos en texto plano.
+## Análisis de seguridad y escenarios de carga lateral (sideloading)
+- Análisis de código estático y vulnerabilidades: Cambie la extensión del archivo IPA descargado a .zip para examinar el Info.plist, las bibliotecas integradas y los archivos binarios Mach-O con Ghidra.
+- Sideloading y certificación: Instala archivos IPA oficiales en dispositivos de prueba volviéndolos a firmar con TrollStore, AltStore o certificados corporativos.
+- Archivado de versiones anteriores: realice copias de seguridad y almacene versiones anteriores de aplicaciones críticas mediante identificadores de versión (version ID).
 
-## Escenarios de auditoría de seguridad y sideloading
-
-Los archivos IPA descargados abren posibilidades esenciales para la ingeniería inversa y el despliegue independiente:
-- Análisis estático y detección de vulnerabilidades: Cambia la extensión del IPA a .zip para extraer Info.plist, frameworks embebidos y binarios Mach-O para inspeccionarlos en Ghidra.
-- Sideloading y refirmado: Vuelve a firmar los paquetes IPA oficiales con TrollStore, AltStore o certificados corporativos para instalarlos en tus terminales.
-- Archivado de versiones antiguas: Guarda copias de seguridad de versiones anteriores de apps críticas mediante sus identificadores de versión.
-
-## Si no programas
-🤖 Si no programas
-Quiero descargar el archivo IPA de una app de iOS usando ipatool y descomprimirlo para examinar los permisos en Info.plist y las librerías embebidas en busca de fallos de seguridad. ¿Podrías explicarme paso a paso cómo iniciar sesión en la terminal, buscar la app, descargarla y realizar el análisis estático inicial?
-
-- **Para quién:** Investigadores de seguridad en iOS, desarrolladores móviles, ingenieros inversos y archivistas de paquetes IPA.
-- **Licencia:** MIT (Licencia permisiva de código abierto)
-- **Estructura:** CLI multiplataforma desarrollada en Go
-- **Plataformas:** macOS, Linux, Windows
+## Si no programa
+Quiero descargar el paquete IPA de una aplicación desarrollada para iOS a mi ordenador usando ipatool, abrir su contenido para examinar las bibliotecas incrustadas y las configuraciones de permisos en el archivo Info.plist desde una perspectiva de seguridad. ¿Podría explicar paso a paso cómo iniciar sesión con ipatool en la terminal, buscar y descargar, y luego extraer el archivo IPA para realizar un análisis estático?
 
 ## Preguntas frecuentes
-- ¿Es seguro introducir mis credenciales de Apple ID? Ipatool es de código abierto y nunca envía credenciales a servidores de terceros; se comunica directamente con Apple y almacena los tokens en el llavero local. Para auditorías, es una buena práctica utilizar una Apple ID secundaria.
-- ¿Permite descargar apps de pago gratis? No. Ipatool no es una herramienta de piratería. Únicamente descarga aplicaciones gratuitas o aquellas que tu cuenta de Apple ID ya haya adquirido previamente.
-- ¿Los archivos IPA vienen descifrados (sin DRM)? No. Los archivos IPA conservan el cifrado FairPlay original de Apple. Para descifrar el binario se requiere volcado de memoria en un dispositivo con jailbreak o en Corellium.
-- ¿Funciona en servidores Linux sin Xcode? Sí. Al estar programado en Go puro sin dependencias de Xcode, se ejecuta perfectamente en servidores Linux y Windows.
-
-## Enlaces
-- [GitHub →](https://github.com/majd/ipatool)
+- ¿Es seguro introducir mis datos de Apple ID? Ipatool es de código abierto y no envía las contraseñas a un servidor de terceros; las transmite directamente a los servidores oficiales de Apple y las almacena en el llavero local. Aun así, se recomienda utilizar un Apple ID secundario o de prueba para fines de seguridad.
+- ¿Puede descargar aplicaciones de pago de forma gratuita? No. Ipatool no es una herramienta de piratería. Solo puede licenciar y descargar aplicaciones que su cuenta haya comprado previamente o que sean gratuitas en la tienda.
+- ¿Están descifrados los archivos IPA descargados con FairPlay DRM? No. Los archivos descargados tienen el cifrado FairPlay DRM original de Apple. Para descifrar (volcar) el archivo binario, es necesario ejecutarlo en un dispositivo con jailbreak.
+- ¿Funciona en servidores Linux sin Xcode? Sí. Como Ipatool está escrito en Go puro, no tiene dependencias de macOS; funciona sin problemas como un binario independiente en servidores Linux o Windows.
 
 ## Términos relacionados del glosario
-Sideloader CLI Open Source API Apple Silicon
+
+## Enlaces
+- Repositorio en GitHub →
+- Leer en turco →
 
 ---
-Source: TreScout Discover · https://trescout.com/es/discover/ipatool/
+Fuente: TreScout Descubrir · https://trescout.com/es/discover/ipatool/

@@ -2,7 +2,7 @@
 
 O coursebook, preparado pela Universidade de Illinois, é um livro didático de código aberto que explica os fundamentos da programação de sistemas (systems programming). Disponibilizado em formato TeX, este recurso fornece um material educacional abrangente para aqueles que desejam aprender processos de desenvolvimento de software de baixo nível.
 
-- ★ 2.197
+- ★ 3.266
 - TeX
 - GitHub Trending · 2026-09-28
 

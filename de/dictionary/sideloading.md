@@ -27,6 +27,7 @@ Es wird bevorzugt, um auf Anwendungen zuzugreifen, die nicht in offiziellen Stor
 
 ## Verwandte Werkzeuge
 - [Ipatool](/de/discover/ipatool/)
+- [Madeira](/de/discover/madeira/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/sideloading/

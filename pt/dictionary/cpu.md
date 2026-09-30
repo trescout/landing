@@ -27,6 +27,7 @@ São pequenas unidades de processamento independentes dentro de um processador q
 - [Apple Silicon](/pt/dictionary/apple-silicon/)
 
 ## Ferramentas relacionadas
+- [Tensorflow](/pt/discover/tensorflow/)
 - [Llmfit](/pt/discover/llmfit/)
 - [CasaOS](/pt/discover/casaos/)
 - [Airllm](/pt/discover/airllm/)

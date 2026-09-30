@@ -2,7 +2,7 @@
 
 Turso ofrece una base de datos SQL en proceso que es compatible con SQLite. Este sistema, desarrollado en lenguaje Rust, simplifica los procesos de gestión de datos al integrarse en los procesos de las aplicaciones.
 
-- ★ 24.428
+- ★ 24.445
 - Rust
 - GitHub Trending · 2026-06-21
 

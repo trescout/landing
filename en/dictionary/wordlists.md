@@ -1,24 +1,34 @@
 # What is Wordlists?
 
-These are lists of frequently used words and passwords used to attempt to log into systems.
+A wordlist is a list of candidates tested during security testing.
 
-## Overview
-These lists, used in cybersecurity testing, contain thousands or millions of possible password combinations. Automated tests are performed with these lists to understand how strong a system's password protection is. This process is often referred to as a 'brute force' attack.
+## Definition and Word Origin
+Word means word, and list means list. Thousands of possible passwords are listed, and their protection strength is measured. It runs in laboratory and penetration testing.
 
-*Analogy: It's like a notebook where you write down all the possible number combinations to find the combination to a safe.*
+## How to Know and Use in Daily Life?
+Laboratory: Durability testing. Audit: Policy audit. Training: Awareness course.
 
-## How it works
-Security software tries each word in this list one by one; If one catches it, the system is logged in.
+## Technical Depth and Architecture
+Logic: The list is tried, weak passwords fall. Defense: Long password, lockout, and MFA. Rule: Unauthorized attempts on a system are a crime; testing must be comprehensive and have written permission. No tool names are given, only the method is explained.
 
-## Where it is used
-It is used in cyber security laboratories and penetration tests.
+## Frequently Mixed Things
+It is thought to be a database. However, they are plain text files. One is a library, the other is a list.
 
-## Commonly confused with
-Can be confused with databases; these are just plain text files.
+## Use in Different Disciplines
+Ledger: Number combination list. Keychain: Tried keys. Cipher wheel: Probability wheel.
 
-## Frequently asked questions
-**Are these lists legal?**
-Its use in security testing is legal and necessary, but attacking unauthorized systems is a crime.
+## Frequently Asked Questions
+**Is it legal?**
+Yes in testing, no in unauthorized access. Scope and permission must be documented.
+
+**How to protect?**
+With a long password, lockout, and MFA. The list hunts for the weak.
+
+**Where can it be found?**
+There are open security sets. The purpose is defense, not attack.
+
+**Is it effective?**
+Yes, against weak passwords. A strong policy renders the list useless.
 
 
 ## Related terms

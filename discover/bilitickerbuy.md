@@ -2,10 +2,11 @@
 
 Bilibili üyelik satın alma işlemlerini otomatikleştiren bu Python tabanlı araç, bilet alım süreçlerini hızlandırmak için tasarlanmış bir yardımcı yazılımdır (ticket purchasing assistant). Kullanıcıların platform üzerindeki sınırlı stoklu ürünleri daha hızlı yakalamasına olanak tanır.
 
-- ★ 4.195
+- ★ 4.242
 - GitHub Trending · 2026-06-22
 
 ## Güncelleme
+- 30 Eylül 2026: Yıldız 4.195 → 4.242, son sürüm v2.15.18 (30 Eylül 2026).
 - 24 Ağustos 2026: Yıldız 4.173 → 4.195, son sürüm v2.15.17 (24 Ağustos 2026).
 - 2 Ağustos 2026: Yıldız 3.782 → 4.173, son sürüm v2.15.16 (4 Temmuz 2026).
 

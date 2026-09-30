@@ -1,24 +1,23 @@
-# Open-Source-Kenntnisse für Webdesign
+# Erwerben Sie vorgefertigte Fähigkeiten in verschiedenen Bereichen
 
-Garden-Skills ist eine Sammlung von Fähigkeiten (Fähigkeiten) mit Code, die sich jedoch für verschiedene Funktionen wie Webdesign, Informationsbeschaffung und visuelle Erstellung eignet. Zu diesem Zweck können Sie die Software zur Integration der Software nutzen.
+Garden-Skills wurde von ConardLi entwickelt und ist eine Open-Source-Sammlung, die vorgefertigte Kompetenzpakete in verschiedenen Bereichen wie Webdesign, Informationsbeschaffung und visuelle Erstellung bietet. Dieser modulare Aufbau, den Entwickler in ihre Projekte integrieren können, ermöglicht die zentrale Nutzung unterschiedlicher Funktionen.
 
 - ★ 12.173
-- CSS
-- GitHub Trending · 2026-08-27
+- GitHub Trending · 2026-08-26
 
 ## Was es bringt
-- Beschleunigt Webdesign- und Schnittstellenentwicklungsprozesse
-- Verwandelt Text in filmische Präsentationen und Videos
-- Bietet modulare Tools für die visuelle Produktion und Inhaltsgestaltung
+- Bietet vorgefertigte Kompetenzpakete in den Bereichen Webdesign, Informationsbeschaffung und visuelle Erstellung
+- Verfügt über KI-Workflows, die Artikel, Vorträge und Demos in Videopräsentationen umwandeln
+- Enthält praktische Anleitungen für verschiedene Schnittstellenprototypen und Designsysteme
 
 ## Installation
-**Fügen Sie dem Projekt alle Funktionen hinzu**
+**Installieren Sie alle Fähigkeiten**
 
 ```
 npx skills add ConardLi/garden-skills
 ```
 
-**Fügen Sie einem Projekt eine bestimmte Funktion hinzu**
+**Installieren Sie einen einzelnen Skill**
 
 ```
 npx skills add ConardLi/garden-skills -s web-design-engineer
@@ -34,7 +33,7 @@ npx skills list
 
 
 ## Wenn Sie nicht programmieren
-Fügen Sie meinem KI-Agenten mithilfe der Garden Skills-Bibliothek Webdesign- und Präsentationsfunktionen hinzu. Aktivieren Sie die Module „Web-Design-Engineer“ oder „Web-Video-Präsentation“ entsprechend den Anforderungen Ihres Projekts und erstellen Sie Ergebnisse mithilfe der Designsysteme, Stilrezepte und Visualisierungsregeln, die diese Module bieten.
+Ich möchte meine Webentwicklungs- und Präsentationsvorbereitungsprozesse mithilfe der Garden Skills-Sammlung verbessern. Können Sie mir helfen, entsprechende Kompetenzpakete in mein Projekt zu integrieren?
 
 ## Verwandte Begriffe aus dem Glossar
 

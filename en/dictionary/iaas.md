@@ -2,25 +2,35 @@
 
 > Infrastructure as a Service
 
-It is the rental of basic hardware resources such as virtual servers and storage space over the internet.
+IaaS (Infrastructure as a Service) is the rental of hardware.
 
-## Overview
-When your computer is out of power or you need a server, you rent a part of the huge data centers of giant companies (such as Amazon, Microsoft). In this model, you install the operating system and software, and they are responsible for the hardware.
+## Definition and Word Origin
+When the power is not enough, parts are rented from the giant data center. You have the operating system and software, the responsibility for the hardware is with the provider. The empty land analogy is apt: The infrastructure is ready, the building is yours.
 
-*Analogy: It's like renting an empty lot; What you build on it is entirely up to you, you just rent the infrastructure of the land.*
+## How to Know and Use in Daily Life?
+Site: Machine by traffic. Backup: Remote disk. Test: Temporary media.
 
-## How it works
-Virtual computers are created and managed via a panel over the Internet.
+## Technical Depth and Architecture
+Layers:
 
-## Where it is used
-It is used in cloud providers such as AWS, Azure and Google Cloud.
+## Frequently Mixed Things
+It is considered PaaS. IaaS provides hardware, PaaS provides ready environment. One is land and the other is a furnished flat.
 
-## Commonly confused with
-Can be confused with PaaS; IaaS provides the basic hardware, while PaaS provides a ready-made operating environment.
+## Use in Different Disciplines
+Land: Empty land with infrastructure. Warehouse: Warehouse with ready shelves. Field: Renting plowed land.
 
-## Frequently asked questions
+## Frequently Asked Questions
 **Is IaaS secure?**
-Yes, but you are responsible for operating system and software security.
+The infrastructure is secure, you have internal security. Patching and access discipline are essential.
+
+**What is the PaaS difference?**
+IaaS provides hardware, PaaS provides environment. If you have control, the first one is chosen, if speed is desired, the second one is chosen.
+
+**How to keep cost?**
+What is not in use is turned off, the right size is selected, the alarm is set.
+
+**When to choose?**
+When full control and custom installation is required. For standard work, PaaS is sufficient.
 
 
 ## Related terms

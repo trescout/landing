@@ -24,6 +24,7 @@ Sí, pero los editores de código te ayudan a realizar tu trabajo mucho más rá
 - [Coding Agent](/es/dictionary/coding-agent/)
 
 ## Herramientas relacionadas
+- [Vscode](/es/discover/vscode/)
 - [Editor](/es/discover/editor/)
 - [Palmier Pro](/es/discover/palmier-pro/)
 - [Clypra](/es/discover/clypra/)

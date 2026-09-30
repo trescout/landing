@@ -2,11 +2,12 @@
 
 Sistematik alım satım (systematic trading) alanındaki kütüphaneleri, stratejileri ve eğitim kaynaklarını bir araya getiren bu liste, Python tabanlı finansal modelleme süreçlerini destekliyor. Algoritmik ticaret (algorithmic trading) dünyasına giriş yapmak isteyenler için gerekli araçları ve literatürü tek bir merkezde topluyor.
 
-- ★ 13.502
+- ★ 14.504
 - Python
 - GitHub Trending · 2026-07-29
 
 ## Güncelleme
+- 30 Eylül 2026: Yıldız 13.502 → 14.504.
 - 19 Ağustos 2026: Yıldız 12.499 → 13.502.
 - 2 Ağustos 2026: Yıldız 9.886 → 12.499.
 

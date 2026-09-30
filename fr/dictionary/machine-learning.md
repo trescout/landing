@@ -28,6 +28,7 @@ Parce qu’il peut effectuer des tâches complexes en quelques secondes, en util
 - [Data Pipeline](/fr/dictionary/data-pipeline/)
 
 ## Outils liés
+- [Tensorflow](/fr/discover/tensorflow/)
 - [Opencv](/fr/discover/opencv/)
 - [Cs249r Book](/fr/discover/cs249r-book/)
 - [Machine Learning for Trading](/fr/discover/machine-learning-for-trading/)

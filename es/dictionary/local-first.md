@@ -30,6 +30,7 @@ Las aplicaciones locales a menudo pueden realizar copias de seguridad en la nube
 - [Agentsview](/es/discover/agentsview/)
 - [Open Science](/es/discover/open-science/)
 - [Wigolo](/es/discover/wigolo/)
+- [Starnet](/es/discover/starnet/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/local-first/

@@ -37,6 +37,7 @@ Künstliche Intelligenz wird die Art und Weise, wie viele Arbeiten erledigt werd
 - [ECC](/de/discover/ecc/)
 - [Hermes Agent](/de/discover/hermes-agent/)
 - [Opencode](/de/discover/opencode/)
+- [Tensorflow](/de/discover/tensorflow/)
 - [FreeDomain](/de/discover/free-domain/)
 
 ---

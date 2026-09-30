@@ -31,7 +31,9 @@ Nein, das Modell trifft Vorhersagen nur anhand der ihm zur Verfügung stehenden 
 - [Llama.cpp](/de/discover/llama-cpp/)
 - [Ds4](/de/discover/ds4/)
 - [LTX 2](/de/discover/ltx-2/)
+- [Stable Diffusion.cpp](/de/discover/stable-diffusion-cpp/)
 - [Magnitude](/de/discover/magnitude/)
+- [Model-Optimizer](/de/discover/model-optimizer/)
 - [SIE](/de/discover/sie/)
 - [Switchyard](/de/discover/switchyard/)
 

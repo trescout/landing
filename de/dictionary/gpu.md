@@ -30,6 +30,7 @@ Ja, aber für KI werden in der Regel professionelle Modelle verwendet, die mit m
 - [Deployment](/de/dictionary/deployment/)
 
 ## Verwandte Werkzeuge
+- [Tensorflow](/de/discover/tensorflow/)
 - [Pytorch](/de/discover/pytorch/)
 - [Minimind](/de/discover/minimind/)
 - [OpenMAIC](/de/discover/openmaic/)

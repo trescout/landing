@@ -30,6 +30,7 @@ Não, são utilizados diferentes tipos de bases de dados dependendo do tipo de d
 ## Ferramentas relacionadas
 - [Supabase](/pt/discover/supabase/)
 - [Trivy](/pt/discover/trivy/)
+- [DBX](/pt/discover/dbx/)
 - [Gitdiagram](/pt/discover/gitdiagram/)
 - [Zvec](/pt/discover/zvec/)
 - [Cassandra](/pt/discover/cassandra/)

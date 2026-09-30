@@ -2,25 +2,35 @@
 
 > Platform as a Service
 
-It is the provision of the necessary infrastructure for software developers to develop and publish their applications.
+PaaS (Platform as a Service) is the rental of a ready-made environment that runs the code.
 
-## Overview
-Software developers want to focus only on their codes instead of dealing with tasks such as setting up a server and making security settings. PaaS offers them a ready-made working environment where they can upload their codes and open them to the world with a single click.
+## Definition and Word Origin
+The code is loaded and the platform runs without dealing with server and security work. This is where the promise of opening up to the world with a single click comes from. Heroku, Vercel and App Engine are well-known examples.
 
-*Analogy: It's like renting a fitted kitchen; You just cook your meal (your code), the kitchen equipment and gas system are already ready.*
+## How to Know and Use in Daily Life?
+Web: Fast publishing sites.API: Unmaintained backends.Prototype: Idea experiments.
 
-## How it works
-You upload your code to the platform and it automatically runs it.
+## Technical Depth and Architecture
+The platform offers:
 
-## Where it is used
-It is used on developer platforms such as Heroku, Vercel or Google App Engine.
+## Frequently Mixed Things
+It is considered IaaS. IaaS provides hardware, PaaS provides a running environment. One is land, the other is a ready-made kitchen.
 
-## Commonly confused with
-Can be confused with IaaS; IaaS gives just the hardware, while PaaS gives everything needed to run the software.
+## Use in Different Disciplines
+Kitchen: Ready-made kitchen with equipment. Flat: Furnished for rent. Stage: Ready-made stage with lights.
 
-## Frequently asked questions
-**Is it necessary to use PaaS?**
-It's not, but it's a huge time saver for developers who don't want to deal with server administration.
+## Frequently Asked Questions
+**Is PaaS required?**
+No. It saves time for those who want to get rid of the server job, and is boring for those who want control.
+
+**What is the IaaS difference?**
+IaaS provides hardware, PaaS provides environment. It's a choice between control and speed.
+
+**Will there be a deadlock?**
+Yes, when buried in special services. Portable parts are kept standard.
+
+**What does it cost?**
+It increases slightly in small business and increases in large traffic. The invoice is monitored and a limit is set.
 
 
 ## Related terms

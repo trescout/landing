@@ -33,6 +33,7 @@ Tecnicamente sim, mas é ética e legalmente importante prestar atenção aos te
 - [MediaCrawler](/pt/discover/mediacrawler/)
 - [Browser](/pt/discover/browser/)
 - [Camofox Browser](/pt/discover/camofox-browser/)
+- [Mobile MCP](/pt/discover/mobile-mcp/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/web-scraping/

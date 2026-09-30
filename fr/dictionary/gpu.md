@@ -30,6 +30,7 @@ Oui, mais ceux utilisés pour l’IA sont généralement des modèles profession
 - [Deployment](/fr/dictionary/deployment/)
 
 ## Outils liés
+- [Tensorflow](/fr/discover/tensorflow/)
 - [Pytorch](/fr/discover/pytorch/)
 - [Minimind](/fr/discover/minimind/)
 - [OpenMAIC](/fr/discover/openmaic/)

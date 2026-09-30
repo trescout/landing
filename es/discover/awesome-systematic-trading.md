@@ -2,7 +2,7 @@
 
 Esta lista, que reúne bibliotecas, estrategias y recursos educativos en el campo del comercio sistemático, respalda los procesos de modelado financiero basados en Python. Reúne las herramientas y la literatura necesarias en un solo centro para quienes quieran ingresar al mundo del trading algorítmico.
 
-- ★ 13.502
+- ★ 14.504
 - Python
 - GitHub Trending · 2026-07-29
 

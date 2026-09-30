@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>What is Logs? · Dictionary · TreScout</title>
-<meta name="description" content="They are time-stamped records of the operations a software performs in the background and the errors it encounters.">
+<meta name="description" content="A log is a time-stamped line of system events. They are time-stamped records of the operations a software performs in the background and the errors it enco">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/en/dictionary/logs/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/logs/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/logs/">
 <link rel="alternate" type="text/markdown" href="/en/dictionary/logs.md">
 <meta property="og:title" content="What is Logs?">
-<meta property="og:description" content="They are time-stamped records of the operations a software performs in the background and the errors it encounters.">
+<meta property="og:description" content="A log is a time-stamped line of system events. They are time-stamped records of the operations a software performs in the background and the errors it enco">
 <meta property="og:url" content="https://trescout.com/en/dictionary/logs/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="What is Logs?">
-<meta name="twitter:description" content="They are time-stamped records of the operations a software performs in the background and the errors it encounters.">
+<meta name="twitter:description" content="A log is a time-stamped line of system events. They are time-stamped records of the operations a software performs in the background and the errors it enco">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Logs",
-  "description": "They are time-stamped records of the operations a software performs in the background and the errors it encounters.",
+  "description": "A log is a time-stamped line of system events.",
   "inLanguage": "en",
   "url": "https://trescout.com/en/dictionary/logs/",
   "inDefinedTermSet": {
@@ -55,16 +55,17 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/en/dictionary/">← Dictionary</a>
-<div class="disc-top"><span class="disc-eyebrow">Dictionary · Dev</span><time class="dict-time" datetime="2026-06-27">Last updated: June 27, 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Dictionary · Dev</span><time class="dict-time" datetime="2026-09-22">Last updated: September 22, 2026</time></div>
 <h1 class="disc-title">What is <span class="disc-accent">Logs</span>?</h1>
-<p class="disc-lead">They are time-stamped records of the operations a software performs in the background and the errors it encounters.</p>
-<section class="disc-sec"><h2>Overview</h2><p>While the software is running, they silently note in a notebook what they are doing in the background. When an error occurs, developers open this notebook and look at what happened at what time. These records are the most important tool for understanding the health of the system.</p></section>
-<div class="dict-analogy"><strong>Analogy:</strong> It is like the black box of an airplane; Everything is recorded throughout the flight, and if there is a problem, the records can be examined to understand what happened.</div>
-<section class="disc-sec"><h2>How it works</h2><p>Thanks to the commands built into the software, every important event is written to a file or database.</p></section>
-<section class="disc-sec"><h2>Where it is used</h2><p>It is used in servers, applications and debugging processes.</p></section>
-<section class="disc-sec"><h2>Commonly confused with</h2><p>Can be confused with traces; Logs are a record of an event, traces are the path followed by that event.</p></section>
-<section class="disc-sec"><h2>Frequently asked questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Why do we need logs?</p><p class="dict-faq-a">When the system crashes, the only way to find out why is to read the logs.</p></div></div></section>
-<section class="disc-sec"><h2>Related terms</h2><div class="dict-related"><a href="/en/dictionary/observability/">Observability</a><a href="/en/dictionary/qa/">QA</a></div></section>
+<p class="disc-lead">A log is a time-stamped line of system events.</p>
+<section class="disc-sec"><h2>Definition and Word Origin</h2><p>&quot;Log&quot; means ship&#39;s log: The captain writes down what happens in a notebook. Software also writes what it does in the background line by line. In case of an error, the notebook is opened, and the time is checked. It is the primary source of system health.</p></section>
+<div class="dict-analogy"><strong>Analogy:</strong> It is like an airplane&#39;s black box; it records throughout the flight, and in case of a problem, it is rewound.</div>
+<section class="disc-sec"><h2>How to Know and Use in Daily Life?</h2><p>Server: Debug.Application: Crash report.Security: Event trace.</p></section>
+<section class="disc-sec"><h2>Technical Depth and Architecture</h2><p>Rules of good logging:</p></section>
+<section class="disc-sec"><h2>Frequently Mixed Things</h2><p>Often mistaken for trace. A log is a record of an event, trace is the path of the event. One is a photograph, the other is a film.</p></section>
+<section class="disc-sec"><h2>Use in Different Disciplines</h2><p>Black box: Flight data. Log: Chronological notes. Receipt: Transaction record.</p></section>
+<section class="disc-sec"><h2>Frequently Asked Questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Why are logs necessary?</p><p class="dict-faq-a">The cause of the crash is in the logs. A system without logs flies blind.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Where should it be written?</p><p class="dict-faq-a">To a file or central system. Centralized collection is recommended for production.</p></div><div class="dict-faq-item"><p class="dict-faq-q">How long is it stored?</p><p class="dict-faq-a">It depends on the policy. Debugging takes weeks, auditing takes years.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Is personal data recorded?</p><p class="dict-faq-a">No. Passwords and identities are not recorded; they are masked.</p></div></div></section>
+<section class="disc-sec"><h2>Related terms</h2><div class="dict-related"><a href="/en/dictionary/observability/">Observability</a><a href="/en/dictionary/qa/">QA</a><a href="/en/dictionary/traces/">Traces</a></div></section>
 <section class="disc-sec"><h2>Related tools</h2><div class="dict-related"><a href="/en/discover/grafana/">Grafana</a><a href="/en/discover/modly/">Modly</a></div></section>
 <aside class="disc-cta"><p><strong>Explore related tools and daily reports.</strong> Stay on top of emerging tech terms and tools. Receive TreScout's daily summary in your inbox.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-en" data-page-type="dictionary" data-content-slug="logs" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/dictionary/">All terms →</a></aside>
 <p class="disc-disclaimer">This explanation was written in plain language for TreScout and <strong>machine-translated</strong> from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/logs/">Read in Turkish →</a></p>

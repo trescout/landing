@@ -38,6 +38,7 @@ Pode ser necessário algum conhecimento técnico durante a fase de instalação,
 - [Context Mode](/pt/discover/context-mode/)
 - [Unity MCP](/pt/discover/unity-mcp/)
 - [DesktopCommanderMCP](/pt/discover/desktopcommandermcp/)
+- [Mobile MCP](/pt/discover/mobile-mcp/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/model-context-protocol-mcp/

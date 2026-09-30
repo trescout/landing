@@ -29,6 +29,7 @@ No, se requiere un mantenimiento y actualizaciones constantes para que el softwa
 - [CI/CD](/es/dictionary/ci-cd/)
 
 ## Herramientas relacionadas
+- [Modern Software Dev Assignments](/es/discover/modern-software-dev-assignments/)
 - [U3 SDK](/es/discover/u3-sdk/)
 
 ---

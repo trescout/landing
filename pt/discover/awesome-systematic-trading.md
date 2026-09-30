@@ -2,7 +2,7 @@
 
 Esta lista, que reúne bibliotecas, estratégias e recursos educacionais na área de negociação sistemática, suporta processos de modelagem financeira baseados em Python. Reúne em um único centro as ferramentas e literatura necessárias para quem deseja entrar no mundo da negociação algorítmica.
 
-- ★ 13.502
+- ★ 14.504
 - Python
 - GitHub Trending · 2026-07-29
 

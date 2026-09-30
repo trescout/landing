@@ -27,6 +27,7 @@ Ce sont de petites unités de traitement indépendantes au sein d’un processeu
 - [Apple Silicon](/fr/dictionary/apple-silicon/)
 
 ## Outils liés
+- [Tensorflow](/fr/discover/tensorflow/)
 - [Llmfit](/fr/discover/llmfit/)
 - [CasaOS](/fr/discover/casaos/)
 - [Airllm](/fr/discover/airllm/)

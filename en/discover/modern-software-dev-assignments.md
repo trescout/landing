@@ -6,6 +6,8 @@ Prepared by Stanford University, these modern software development assignments t
 - Python
 - GitHub Trending · 2026-09-21
 
+## Related dictionary terms
+
 ## Links
 - GitHub repository →
 - Read in Turkish →

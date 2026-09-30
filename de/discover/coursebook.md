@@ -2,7 +2,7 @@
 
 Das von der University of Illinois erstellte Coursebook ist ein Open-Source-Lehrbuch, das die Grundlagen der Systemprogrammierung vermittelt. Diese im TeX-Format bereitgestellte Ressource bietet umfassendes Lehrmaterial für diejenigen, die Prozesse der Low-Level-Softwareentwicklung erlernen möchten.
 
-- ★ 2.197
+- ★ 3.266
 - TeX
 - GitHub Trending · 2026-09-28
 

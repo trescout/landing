@@ -31,7 +31,9 @@ Não, o modelo apenas faz previsões usando as informações que tem disponívei
 - [Llama.cpp](/pt/discover/llama-cpp/)
 - [Ds4](/pt/discover/ds4/)
 - [LTX 2](/pt/discover/ltx-2/)
+- [Stable Diffusion.cpp](/pt/discover/stable-diffusion-cpp/)
 - [Magnitude](/pt/discover/magnitude/)
+- [Model-Optimizer](/pt/discover/model-optimizer/)
 - [SIE](/pt/discover/sie/)
 - [Switchyard](/pt/discover/switchyard/)
 

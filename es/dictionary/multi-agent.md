@@ -32,6 +32,7 @@ Cuando las tareas se vuelven muy complejas, se combinan modelos especializados m
 - [TradingAgents](/es/discover/tradingagents/)
 - [Gastown](/es/discover/gastown/)
 - [AI Berkshire](/es/discover/ai-berkshire/)
+- [Openrig](/es/discover/openrig/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/multi-agent/

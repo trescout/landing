@@ -29,6 +29,7 @@ Não, é necessária uma manutenção e atualização contínuas para manter o s
 - [CI/CD](/pt/dictionary/ci-cd/)
 
 ## Ferramentas relacionadas
+- [Modern Software Dev Assignments](/pt/discover/modern-software-dev-assignments/)
 - [U3 SDK](/pt/discover/u3-sdk/)
 
 ---

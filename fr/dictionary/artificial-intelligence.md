@@ -37,6 +37,7 @@ L’intelligence artificielle va changer la façon dont de nombreux travaux sont
 - [ECC](/fr/discover/ecc/)
 - [Hermes Agent](/fr/discover/hermes-agent/)
 - [Opencode](/fr/discover/opencode/)
+- [Tensorflow](/fr/discover/tensorflow/)
 - [FreeDomain](/fr/discover/free-domain/)
 
 ---

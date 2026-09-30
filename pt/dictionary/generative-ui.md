@@ -29,6 +29,7 @@ Não, a interface pode mudar completamente para cada usuário e cada tarefa dife
 
 ## Ferramentas relacionadas
 - [CopilotKit](/pt/discover/copilotkit/)
+- [JSON Render](/pt/discover/json-render/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/generative-ui/

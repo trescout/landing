@@ -2,7 +2,7 @@
 
 Développée par Microsoft, Ontology-Playground est une application Web open source utilisée pour apprendre des ontologies et créer des conceptions visuelles sur Microsoft Fabric IQ. Cet outil entièrement statique permet aux utilisateurs de concevoir des modèles d'ontologie, de les exporter au format RDF/XML et de partager des diagrammes interactifs.
 
-- ★ 1 806
+- ★ 2 806
 - TypeScript
 - GitHub Trending · 2026-07-21
 

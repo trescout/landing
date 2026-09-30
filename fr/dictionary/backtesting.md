@@ -29,6 +29,7 @@ Les mouvements de prix passés, les volumes de transactions et les indicateurs �
 
 ## Outils liés
 - [Awesome Systematic Trading](/fr/discover/awesome-systematic-trading/)
+- [Tick Stock Panel](/fr/discover/tick-stock-panel/)
 - [Free Stockdb](/fr/discover/free-stockdb/)
 
 ---

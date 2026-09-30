@@ -29,6 +29,7 @@ Nein, Software muss kontinuierlich gewartet und aktualisiert werden, um auf dem 
 - [CI/CD](/de/dictionary/ci-cd/)
 
 ## Verwandte Werkzeuge
+- [Modern Software Dev Assignments](/de/discover/modern-software-dev-assignments/)
 - [U3 SDK](/de/discover/u3-sdk/)
 
 ---

@@ -33,6 +33,7 @@ Für einfache Websites ist dies recht einfach, für moderne und sichere Websites
 - [MediaCrawler](/de/discover/mediacrawler/)
 - [Browser](/de/discover/browser/)
 - [Camofox Browser](/de/discover/camofox-browser/)
+- [Mobile MCP](/de/discover/mobile-mcp/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/web-scraping/

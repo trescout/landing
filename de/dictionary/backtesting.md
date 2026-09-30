@@ -29,6 +29,7 @@ Dabei werden vergangene Preisbewegungen, Transaktionsvolumina und Wirtschaftsind
 
 ## Verwandte Werkzeuge
 - [Awesome Systematic Trading](/de/discover/awesome-systematic-trading/)
+- [Tick Stock Panel](/de/discover/tick-stock-panel/)
 - [Free Stockdb](/de/discover/free-stockdb/)
 
 ---

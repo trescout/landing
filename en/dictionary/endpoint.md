@@ -1,34 +1,42 @@
 # What is Endpoint?
 
-They are endpoint devices such as a computer, phone or tablet that are connected to the network.
+An endpoint is a device at the user end of a network or an API end.
 
-## Overview
-Devices that reach the end of a network and are directly interacted with by the user are called endpoints. Information ends or begins at these devices. In the security world, they are considered the outermost line of defense of the network.
+## Definition and Word Origin
+"End point" means end point. It has two meanings: the device at the physical end and the API end in the software. The information ends at the device or is received at the API end. It is the outer line of defense in security.
 
-*Analogy: In a cargo company's distribution network, it is the home or office address to which the package is delivered.*
+## How to Know and Use in Daily Life?
+Enterprise: Laptop and phone fleet. Home: Smart devices. API: Application request endpoints.
 
-## How it works
-These devices connect to a network and exchange data. Security software constantly monitors these devices to protect them.
+## Technical Depth and Architecture
+Two faces:
 
-## Where it is used
-It is found in corporate networks, home smart devices, and server systems.
+## Frequently Mixed Things
+It is mistaken for a server. The server is the center, the endpoint is at the user. It is also confused with an API endpoint: that is an address, this is a device.
 
-## Commonly confused with
-Can be confused with server; The server is the center of the network and the endpoint is where the user is.
+## Use in Different Disciplines
+Address: The door where the package arrives.
+Stop: The final point of the line.
+Door number: The address of the apartment.
 
-## Frequently asked questions
-**Why is endpoint security important?**
-Because most cyber attacks start by infiltrating the network through a poorly protected computer or phone.
+## Frequently Asked Questions
+**Why is security important?**
+The attack enters through the weak endpoint. Patching and monitoring are the first line of defense.
+
+**What is an API endpoint?**
+It is a callable address. Requests are handled via methods and paths.
+
+**How is it protected?**
+Through patching, encryption, and least privilege. EDR monitoring is added.
+
+**What is the difference from a server?**
+The server provides service at the center, while the endpoint consumes at the edge.
 
 
 ## Related terms
 - [Network Stack](/en/dictionary/network-stack/)
 - [VPN](/en/dictionary/vpn/)
 - [Security Scanner](/en/dictionary/security-scanner/)
-
-## Related tools
-- [OmniRoute](/en/discover/omniroute/)
-- [Freellmapi](/en/discover/freellmapi/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/endpoint/

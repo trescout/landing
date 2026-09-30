@@ -34,6 +34,7 @@ Vous pouvez l'ouvrir avec n'importe quel éditeur de texte, mais vous pouvez le 
 - [Crawl4AI](/fr/discover/crawl4ai/)
 - [Scrapling](/fr/discover/scrapling/)
 - [MinerU](/fr/discover/mineru/)
+- [UP](/fr/discover/up/)
 - [Obsidian Skills](/fr/discover/obsidian-skills/)
 
 ---

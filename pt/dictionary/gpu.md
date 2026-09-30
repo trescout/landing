@@ -30,6 +30,7 @@ Sim, mas os usados ​​para IA costumam ser modelos profissionais equipados co
 - [Deployment](/pt/dictionary/deployment/)
 
 ## Ferramentas relacionadas
+- [Tensorflow](/pt/discover/tensorflow/)
 - [Pytorch](/pt/discover/pytorch/)
 - [Minimind](/pt/discover/minimind/)
 - [OpenMAIC](/pt/discover/openmaic/)

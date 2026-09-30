@@ -28,10 +28,12 @@ Weil es komplexe Aufgaben in Sekundenschnelle erledigen kann und dabei Daten ver
 - [Data Pipeline](/de/dictionary/data-pipeline/)
 
 ## Verwandte Werkzeuge
+- [Tensorflow](/de/discover/tensorflow/)
 - [Opencv](/de/discover/opencv/)
 - [Cs249r Book](/de/discover/cs249r-book/)
 - [Machine Learning for Trading](/de/discover/machine-learning-for-trading/)
 - [Maths Cs AI Compendium](/de/discover/maths-cs-ai-compendium/)
+- [Higgsfield](/de/discover/higgsfield/)
 - [Bonsai-demo](/de/discover/bonsai-demo/)
 
 ---

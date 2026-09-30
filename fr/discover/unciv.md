@@ -1,68 +1,49 @@
-# Jeu de stratégie léger et open-source
+# Jeu de stratégie léger et open source
 
-Unciv est une adaptation open-source, minimaliste et multiplateforme de Civilization V pour bureau et Android. Développé avec Kotlin et LibGDX, le projet offre les mécaniques originales de stratégie 4X avec une consommation matérielle nulle et un riche support des mods.
+Unciv est une adaptation open-source, minimaliste et multiplateforme pour bureau et Android du jeu Civilization V. Développé avec l'infrastructure Kotlin et LibGDX, le projet propose les mécaniques du jeu de stratégie 4X original avec une charge matérielle nulle et un support élevé des mods.
 
-- ★ 11.285
+- ★ 11 364
 - Kotlin
 - GitHub Trending · 2026-06-18
 
-## Mises à jour
-- 18 septembre 2026: Étoiles 11 276 → 11 285, dernière version 4.22.1 (17 septembre 2026).
-- 15 septembre 2026: Étoiles 11 257 → 11 276, dernière version 4.22.0 (14 septembre 2026).
-- 10 septembre 2026: Étoiles 11 241 → 11 257, dernière version 4.21.19 (9 septembre 2026).
-- 8 septembre 2026: Étoiles 11 223 → 11 241, dernière version 4.21.18 (7 septembre 2026).
-
 ## Ce que ça vous apporte
-- Architecture légère et économe en batterie: Utilise des graphismes 2D vectoriels et en pixels pour tourner sans surchauffe même sur les appareils d'entrée de gamme.
-- Mécaniques fidèles de Civilization V: Planification urbaine, arbre technologique, politiques sociales, diplomatie et combats hexagonaux tactiques intacts.
-- Sauvegardes multiplateformes et multijoueur: Transférez facilement vos sauvegardes entre bureau et Android, ou jouez des parties au tour par tour.
-- Écosystème riche de mods communautaires: Installez de nouvelles civilisations, unités et scénarios d'un simple clic depuis le jeu.
-- Expérience libre et sans publicité: Sous licence MPL-2.0, sans achats intégrés, traçage ni collecte de données personnelles.
+- Architecture économe en batterie et peu gourmande en ressources : en utilisant des graphismes vectoriels 2D et en pixel art au lieu de moteurs de rendu 3D lourds, elle fonctionne sans aucune surchauffe, même sur les appareils mobiles les plus basiques.
+- Les mécaniques originales de Civilization V : la planification urbaine, l'arbre technologique, les politiques sociales, la diplomatie et le système de combat tactique hexagonal sont intégralement préservés.
+- Sauvegarde multiplateforme et prise en charge du mode multijoueur : vous pouvez transférer directement vos fichiers de sauvegarde entre le bureau et Android ou jouer à des matchs multijoueurs au tour par tour par e-mail ou sur serveur.
+- Écosystème de mods riche et axé sur la communauté : de nouvelles civilisations, unités, scénarios fantastiques et thèmes graphiques peuvent être téléchargés et activés en un seul clic depuis l'interface du jeu.
+- Expérience entièrement libre et sans publicité : distribué sous licence MPL-2.0, l'application ne contient aucun achat intégré, publicité, suivi ou collecte de données.
 
-## Pour commencer et options d'installation
+## Comment démarrer et options de configuration
+- Page Google Play Store →
+- Dépôt Open Source F-Droid →
+- Versions de bureau itch.io →
 
-Unciv est disponible sur plusieurs plateformes. Sur Android, installez via Google Play Store ou F-Droid. Sur ordinateur (Windows, Linux, macOS), utilisez les archives autonomes, Flatpak ou itch.io.
-- [Page Google Play Store →](https://play.google.com/store/apps/details?id=com.unciv.app)
-- [Dépôt open-source F-Droid →](https://f-droid.org/packages/com.unciv.app/)
-- [Versions bureau itch.io →](https://yairm210.itch.io/unciv)
+## Architecture technique et principe de fonctionnement
+- Moteur de jeu orienté état : chaque case hexagonale, unité, ville et relation diplomatique sur le plateau de jeu est stockée sous forme d'objets JSON purs. Cette structure maintient la taille des fichiers de sauvegarde à seulement quelques centaines de kilo-octets.
+- Moteur de modding déclaratif : les caractéristiques des civilisations, les arbres technologiques et les coûts des bâtiments sont définis via des fichiers JSON sans toucher au code source. Cela permet aux développeurs de mods de se passer de compilateur externe.
+- Calcul de tour déterministe : les mouvements d'intelligence artificielle et les résultats de combat sont calculés à l'aide d'algorithmes prédictifs. Cela évite les pertes de synchronisation dans les jeux multijoueurs asynchrones.
+- Compilation multiplateforme : grâce à LibGDX, une base de code Kotlin unique est packagée pour le bureau (JVM) et le mobile (runtime Android) avec des performances natives.
 
-## Architecture technique et fonctionnement interne
-
-Unciv repose sur LibGDX et Kotlin pour isoler la logique du jeu dans une structure de données déterministe et ultra-légère :
-- Moteur de jeu orienté état: Chaque case hexagonale, ville et unité est sérialisée en JSON pur, gardant les sauvegardes sous les 500 Ko.
-- Moteur de modding déclaratif: Règles et statistiques sont définies via JSON sans avoir besoin de recompiler le code source.
-- Calcul de tours déterministe: Décisions de l'IA et combats sont calculés de manière prévisible pour éviter les désynchronisations.
-- Compilation multiplateforme: Une base de code Kotlin unique cible à la fois le JVM bureau et le runtime Android.
-
-## Stratégies de jeu et dynamiques 4X
-
-Unciv illustre fidèlement le cycle 4X : eXplore, eXpand, eXploit et eXterminate :
-- Exploration initiale de la carte: Envoyez rapidement éclaireurs et guerriers pour ramasser les ruines antiques et contacter les cités-États.
-- Équilibre de bonheur et de nourriture: Fondez vos villes près de ressources de luxe pour éviter les pénalités de croissance.
-- Feuille de route technologique: Spécialisez vos recherches en fonction des forces uniques de votre civilisation.
-- Maîtrise du terrain: Profitez des fleuves et collines pour repousser des armées plus nombreuses avec peu d'unités.
+## Stratégies de gameplay et dynamiques 4X
+- Exploration de la carte lors des premiers tours : Récupérez les ruines antiques en déployant tôt vos unités de guerriers et d'éclaireurs sur la carte, et générez des revenus en or en établissant le premier contact avec les cités-états.
+- Équilibre entre bonheur et nourriture : veillez à vous installer à portée des ressources de luxe lors de la fondation de nouvelles villes. Lorsque votre taux de bonheur devient négatif, la croissance démographique et la production ralentissent considérablement.
+- Feuille de route technologique : Au lieu d'effectuer des recherches au hasard, concentrez-vous sur les points forts de votre civilisation ; suivez les voies de la forge et de la poudre à canon pour une victoire militaire, et de la philosophie et de l'éducation pour une victoire culturelle.
+- Exploiter les avantages du terrain : repoussez de grandes armées avec peu d'unités en utilisant la défense derrière les rivières, l'avantage des hauteurs et en créant des goulots d'étranglement.
 
 ## Si vous ne codez pas
-🤖 Si vous ne codez pas
-Je souhaite créer un mod JSON valide pour Unciv. Peux-tu me générer un modèle de mod avec un dirigeant apportant des bonus en science et culture, une unité montée sur mesure et un bâtiment de bibliothèque unique ? Explique-moi la structure des dossiers et le test dans le Mod Manager en jeu.
+Je souhaite préparer une structure de mod JSON valide pour le jeu Unciv. Pourrais-tu créer un modèle de mod Unciv d'exemple incluant une capacité de leader accordant un bonus à la production de science et de culture, une unité de cavalerie spéciale et un bâtiment de bibliothèque spécial ? Peux-tu expliquer étape par étape dans quelle structure de dossiers je dois enregistrer les fichiers JSON et comment je peux tester cela via l'interface du gestionnaire de mods (Mod Manager) en jeu ?
 
-- **Pour qui:** Joueurs et créateurs de mods cherchant un jeu de stratégie 4X léger, sans pub et open-source.
-- **Licence:** MPL-2.0 (Mozilla Public License 2.0)
-- **Moteur de jeu:** LibGDX (Kotlin multiplateforme)
-- **Plateformes:** Android, Windows, Linux, macOS
-
-## Foire aux questions
-- Unciv est-il fidèle à Civilization V ? Oui, les statistiques, l'arbre technologique et les conditions de victoire sont calqués sur Civ V (Gods & Kings et Brave New World) avec une interface 2D.
-- Faut-il une connexion internet pour jouer ? Non, Unciv se joue entièrement hors ligne contre l'ordinateur. La connexion n'est utile que pour les mods et le multijoueur.
-- Comment installer des mods ? Le menu Mods en jeu permet de parcourir et installer des centaines de créations communautaires en un clic.
-- Peut-on transférer ses parties entre mobile et PC ? Oui, copiez la sauvegarde textuelle dans le presse-papiers et importez-la sur l'autre appareil.
-
-## Liens
-- [GitHub →](https://github.com/yairm210/Unciv)
-- [Read in Turkish →](https://trescout.com/discover/unciv/)
+## Questions fréquemment posées
+- À quel point Unciv ressemble-t-il à Civilization V ? Les mécaniques de jeu, les statistiques des unités, l'arbre technologique et les conditions de victoire sont en grande partie identiques aux extensions Gods and Kings et Brave New World de Civilization V. La différence réside principalement dans l'utilisation d'un design visuel 2D épuré plutôt que de graphismes 3D.
+- Une connexion Internet est-elle nécessaire pour jouer ? Non. Unciv peut être joué entièrement hors ligne. Aucune connexion réseau n'est requise pour jouer contre des adversaires contrôlés par l'IA en mode solo. La connexion n'est nécessaire que pour le téléchargement de mods et les parties multijoueurs.
+- Comment installer des mods pour Unciv ? En accédant à l'onglet Mods du menu principal, vous pouvez consulter la liste des centaines de mods créés par la communauté et les télécharger sur votre appareil en un seul clic. Vous pouvez également effectuer une installation directe en ajoutant le lien vers n'importe quel dépôt de mod sur GitHub.
+- Est-il possible de transférer un fichier de sauvegarde entre un ordinateur de bureau et un téléphone ? Oui. Depuis le menu de sauvegarde en jeu, vous pouvez copier le fichier dans le presse-papiers, l'envoyer sous forme de texte par e-mail ou par message vers votre autre appareil, puis utiliser l'option de chargement depuis le presse-papiers pour reprendre votre partie là où vous vous étiez arrêté.
 
 ## Termes liés du glossaire
-Open Source Offline
+
+## Liens
+- Dépôt GitHub →
+- Lire en turc →
 
 ---
-Source: TreScout Discover · https://trescout.com/fr/discover/unciv/
+Source : TreScout Découvrir · https://trescout.com/fr/discover/unciv/

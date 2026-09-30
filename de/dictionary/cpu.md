@@ -27,6 +27,7 @@ Dabei handelt es sich um kleine unabhängige Verarbeitungseinheiten innerhalb ei
 - [Apple Silicon](/de/dictionary/apple-silicon/)
 
 ## Verwandte Werkzeuge
+- [Tensorflow](/de/discover/tensorflow/)
 - [Llmfit](/de/discover/llmfit/)
 - [CasaOS](/de/discover/casaos/)
 - [Airllm](/de/discover/airllm/)

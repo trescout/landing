@@ -32,6 +32,7 @@ Wenn Aufgaben sehr komplex werden, werden kleinere Spezialmodelle kombiniert, um
 - [TradingAgents](/de/discover/tradingagents/)
 - [Gastown](/de/discover/gastown/)
 - [AI Berkshire](/de/discover/ai-berkshire/)
+- [Openrig](/de/discover/openrig/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/multi-agent/

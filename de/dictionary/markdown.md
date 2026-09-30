@@ -34,6 +34,7 @@ Sie können es mit jedem Texteditor öffnen, aber mit speziellen Viewern können
 - [Crawl4AI](/de/discover/crawl4ai/)
 - [Scrapling](/de/discover/scrapling/)
 - [MinerU](/de/discover/mineru/)
+- [UP](/de/discover/up/)
 - [Obsidian Skills](/de/discover/obsidian-skills/)
 
 ---

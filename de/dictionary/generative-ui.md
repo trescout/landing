@@ -29,6 +29,7 @@ Nein, die Benutzeroberfläche kann sich für jeden Benutzer und jede Aufgabe vol
 
 ## Verwandte Werkzeuge
 - [CopilotKit](/de/discover/copilotkit/)
+- [JSON Render](/de/discover/json-render/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/generative-ui/

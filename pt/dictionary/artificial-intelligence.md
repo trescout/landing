@@ -37,6 +37,7 @@ A inteligência artificial mudará a forma como muitos trabalhos são realizados
 - [ECC](/pt/discover/ecc/)
 - [Hermes Agent](/pt/discover/hermes-agent/)
 - [Opencode](/pt/discover/opencode/)
+- [Tensorflow](/pt/discover/tensorflow/)
 - [FreeDomain](/pt/discover/free-domain/)
 
 ---

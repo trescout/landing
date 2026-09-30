@@ -2,7 +2,7 @@
 
 Préparé par l'Université de l'Illinois, le manuel de cours est un manuel open source qui explique les bases de la programmation système. Présentée au format TeX, cette ressource fournit du matériel de formation complet pour ceux qui souhaitent apprendre les processus de développement logiciel de bas niveau.
 
-- ★ 2 197
+- ★ 3 266
 - TeX
 - GitHub Trending · 2026-09-28
 

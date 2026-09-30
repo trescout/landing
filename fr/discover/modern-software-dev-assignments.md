@@ -6,6 +6,8 @@ Les missions de développement de logiciels modernes préparées par l'Universit
 - Python
 - GitHub Trending · 2026-09-21
 
+## Termes liés du glossaire
+
 ## Liens
 - Dépôt GitHub →
 - Lire en turc →

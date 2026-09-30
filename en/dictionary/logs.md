@@ -1,29 +1,40 @@
 # What is Logs?
 
-They are time-stamped records of the operations a software performs in the background and the errors it encounters.
+A log is a time-stamped line of system events.
 
-## Overview
-While the software is running, they silently note in a notebook what they are doing in the background. When an error occurs, developers open this notebook and look at what happened at what time. These records are the most important tool for understanding the health of the system.
+## Definition and Word Origin
+"Log" means ship's log: The captain writes down what happens in a notebook. Software also writes what it does in the background line by line. In case of an error, the notebook is opened, and the time is checked. It is the primary source of system health.
 
-*Analogy: It is like the black box of an airplane; Everything is recorded throughout the flight, and if there is a problem, the records can be examined to understand what happened.*
+## How to Know and Use in Daily Life?
+Server: Debug.Application: Crash report.Security: Event trace.
 
-## How it works
-Thanks to the commands built into the software, every important event is written to a file or database.
+## Technical Depth and Architecture
+Rules of good logging:
 
-## Where it is used
-It is used in servers, applications and debugging processes.
+## Frequently Mixed Things
+Often mistaken for trace. A log is a record of an event, trace is the path of the event. One is a photograph, the other is a film.
 
-## Commonly confused with
-Can be confused with traces; Logs are a record of an event, traces are the path followed by that event.
+## Use in Different Disciplines
+Black box: Flight data. Log: Chronological notes. Receipt: Transaction record.
 
-## Frequently asked questions
-**Why do we need logs?**
-When the system crashes, the only way to find out why is to read the logs.
+## Frequently Asked Questions
+**Why are logs necessary?**
+The cause of the crash is in the logs. A system without logs flies blind.
+
+**Where should it be written?**
+To a file or central system. Centralized collection is recommended for production.
+
+**How long is it stored?**
+It depends on the policy. Debugging takes weeks, auditing takes years.
+
+**Is personal data recorded?**
+No. Passwords and identities are not recorded; they are masked.
 
 
 ## Related terms
 - [Observability](/en/dictionary/observability/)
 - [QA](/en/dictionary/qa/)
+- [Traces](/en/dictionary/traces/)
 
 ## Related tools
 - [Grafana](/en/discover/grafana/)

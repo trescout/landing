@@ -27,6 +27,7 @@ Nem sempre; pois você pode não ter passado por verificações de segurança, c
 
 ## Ferramentas relacionadas
 - [Ipatool](/pt/discover/ipatool/)
+- [Madeira](/pt/discover/madeira/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/sideloading/

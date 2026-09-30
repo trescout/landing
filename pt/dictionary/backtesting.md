@@ -29,6 +29,7 @@ São utilizados movimentos de preços anteriores, volumes de transações e indi
 
 ## Ferramentas relacionadas
 - [Awesome Systematic Trading](/pt/discover/awesome-systematic-trading/)
+- [Tick Stock Panel](/pt/discover/tick-stock-panel/)
 - [Free Stockdb](/pt/discover/free-stockdb/)
 
 ---

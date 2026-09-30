@@ -1,24 +1,23 @@
-# Habilidades de código abierto para el diseño web.
+# Adquiera habilidades preparadas en diferentes campos
 
-Garden-skills es una colección de habilidades (skills) de código abierto diseñada para diversas funciones, como diseño web, adquisición de información y creación visual. Para ello, puede utilizar el software para integrar el software.
+Desarrollada por ConardLi, garden-skills es una colección de código abierto que ofrece paquetes de habilidades ya preparados en diversos campos, como diseño web, adquisición de información y creación visual. Esta estructura modular, que los desarrolladores pueden integrar en sus proyectos, permite utilizar diferentes funciones de forma centralizada.
 
 - ★ 12.173
-- CSS
-- GitHub Trending · 2026-08-27
+- GitHub Trending · 2026-08-26
 
 ## Qué aporta
-- Acelera los procesos de diseño web y desarrollo de interfaces.
-- Convierte texto en presentaciones cinematográficas y vídeos.
-- Ofrece herramientas modulares para producción visual y diseño de contenidos.
+- Ofrece paquetes de habilidades ya preparados en diseño web, adquisición de información y creación visual.
+- Presenta flujos de trabajo de IA que transforman artículos, conferencias y demostraciones en presentaciones de video.
+- Contiene guías prácticas para diferentes prototipos de interfaz y sistemas de diseño.
 
 ## Instalación
-**Agregar todas las capacidades al proyecto.**
+**Instalar todas las habilidades**
 
 ```
 npx skills add ConardLi/garden-skills
 ```
 
-**Agregar una capacidad específica a un proyecto**
+**Instalar una sola habilidad**
 
 ```
 npx skills add ConardLi/garden-skills -s web-design-engineer
@@ -34,7 +33,7 @@ npx skills list
 
 
 ## Si no programa
-Agregue capacidades de presentación y diseño web a mi agente de IA utilizando la biblioteca Garden Skills. Active los módulos de ingeniero de diseño web o presentación de video web de acuerdo con las necesidades de su proyecto y produzca resultados utilizando los sistemas de diseño, recetas de estilo y reglas de visualización que ofrecen estos módulos.
+Quiero mejorar mis procesos de desarrollo web y preparación de presentaciones utilizando la colección Garden Skills. ¿Pueden ayudarme a integrar paquetes de habilidades apropiados en mi proyecto?
 
 ## Términos relacionados del glosario
 

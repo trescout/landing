@@ -2,11 +2,12 @@
 
 Illinois Üniversitesi tarafından hazırlanan coursebook, sistem programlama (systems programming) temellerini anlatan açık kaynaklı bir ders kitabıdır. TeX formatında sunulan bu kaynak, düşük seviyeli yazılım geliştirme süreçlerini öğrenmek isteyenler için kapsamlı bir eğitim materyali sağlar.
 
-- ★ 2.197
+- ★ 3.266
 - TeX
 - GitHub Trending · 2026-09-28
 
 ## Güncelleme
+- 30 Eylül 2026: Yıldız 2.197 → 3.266, son sürüm fa19 (18 Ağustos 2019).
 - 28 Eylül 2026: Yıldız 2.193 → 2.197, son sürüm fa19 (18 Ağustos 2019).
 
 ## Ne kazandırır?

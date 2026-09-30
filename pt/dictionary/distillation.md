@@ -27,5 +27,8 @@ Sim, mas encaixar o conhecimento de modelos complexos em uma estrutura pequena e
 - [Quantization](/pt/dictionary/quantization/)
 - [Foundation Model](/pt/dictionary/foundation-model/)
 
+## Ferramentas relacionadas
+- [Model-Optimizer](/pt/discover/model-optimizer/)
+
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/distillation/

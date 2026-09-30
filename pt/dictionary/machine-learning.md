@@ -28,10 +28,12 @@ Porque ele pode realizar tarefas complexas em segundos, usando dados, que as pes
 - [Data Pipeline](/pt/dictionary/data-pipeline/)
 
 ## Ferramentas relacionadas
+- [Tensorflow](/pt/discover/tensorflow/)
 - [Opencv](/pt/discover/opencv/)
 - [Cs249r Book](/pt/discover/cs249r-book/)
 - [Machine Learning for Trading](/pt/discover/machine-learning-for-trading/)
 - [Maths Cs AI Compendium](/pt/discover/maths-cs-ai-compendium/)
+- [Higgsfield](/pt/discover/higgsfield/)
 - [Bonsai-demo](/pt/discover/bonsai-demo/)
 
 ---

@@ -27,6 +27,7 @@ Se prefiere para acceder a aplicaciones que no se encuentran en las tiendas ofic
 
 ## Herramientas relacionadas
 - [Ipatool](/es/discover/ipatool/)
+- [Madeira](/es/discover/madeira/)
 
 ---
 Fuente: TreScout Glosario · https://trescout.com/es/dictionary/sideloading/

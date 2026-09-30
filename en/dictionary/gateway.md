@@ -1,24 +1,34 @@
 # What is Gateway?
 
-It is the port that manages and transitions data traffic between different networks.
+A gateway is a connection point that manages traffic between different networks.
 
-## Overview
-It is like a bridge that allows two different networks to talk to each other. For example, the device that connects the internet in your home to the internet in the outside world is a gateway. It checks that the data goes to the correct address.
+## Definition and Word Origin
+Gate means door, and way means path. It is a bridge that allows two networks to communicate with each other: the device that connects the internet in your home to the outside world is a typical example. It examines incoming data and decides which network it should go to.
 
-*Analogy: It is like a border gate of a country; It controls the arrivals and ensures they go in the right direction.*
+## How to Know and Use in Daily Life?
+Home modem: Connects your home to the provider network. Enterprise gateway: The checkpoint for office traffic. Cloud: The gateway between virtual networks.
 
-## How it works
-It examines the incoming data, decides which network it should go to, and directs the traffic.
+## Technical Depth and Architecture
+Functions of the gateway:
 
-## Where it is used
-It is found in home modems, corporate network ports, and cloud systems.
+## Frequently Mixed Things
+It can be confused with an API Gateway. An API Gateway manages software services, while a network gateway operates at the network level. One is an application gateway, the other is a routing gateway.
 
-## Commonly confused with
-May be confused with API Gateway; While API Gateway manages services in the software world, the gateway operates at the physical or network level.
+## Use in Different Disciplines
+Border gate: Screening and directing arrivals. Port: Customs clearance for ships. Reception: Directing visitors to the correct floor.
 
-## Frequently asked questions
-**Can I access the internet without a gateway?**
-No, your local network cannot connect to the outside world and remains isolated.
+## Frequently Asked Questions
+**Can one access the internet without a gateway?**
+No. The local network cannot connect to the outside world and remains isolated.
+
+**What is the difference from an API gateway?**
+A network gateway carries packets, while an API gateway manages requests. One is the transport layer, the other is the application layer.
+
+**Which one is used at home?**
+The gateway inside your modem handles this. No additional settings are required, and addresses are distributed automatically.
+
+**Can two networks be kept separate?**
+Yes. By using firewall rules, traffic is blocked, and the networks operate in isolation.
 
 
 ## Related terms
@@ -29,6 +39,7 @@ No, your local network cannot connect to the outside world and remains isolated.
 ## Related tools
 - [OmniRoute](/en/discover/omniroute/)
 - [Fanqiang](/en/discover/fanqiang/)
+- [Gitdiagram](/en/discover/gitdiagram/)
 - [OpenWA](/en/discover/openwa/)
 - [Grok2api](/en/discover/grok2api/)
 

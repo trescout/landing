@@ -2,11 +2,12 @@
 
 Tencent tarafından geliştirilen BrowserSkill, yapay zekâ ajanlarının aktif tarayıcı oturumlarını kullanıcının çalışmasını bölmeden yönetmesini sağlayan bir tarayıcı otomasyon aracıdır. Komut satırı arayüzü ve tarayıcı eklentisi aracılığıyla, herhangi bir yapay zekâ ajanının mevcut oturum açılmış tarayıcı verilerine erişmesine olanak tanır.
 
-- ★ 7.375
+- ★ 7.941
 - TypeScript
 - GitHub Trending · 2026-09-18
 
 ## Güncelleme
+- 30 Eylül 2026: Yıldız 7.375 → 7.941, son sürüm cli-v0.3.2 (30 Eylül 2026).
 - 27 Eylül 2026: Yıldız 4.730 → 7.375, son sürüm cli-v0.3.1 (23 Eylül 2026).
 - 18 Eylül 2026: Yıldız 4.721 → 4.730, son sürüm cli-v0.3.0 (17 Eylül 2026).
 

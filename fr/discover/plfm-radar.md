@@ -1,68 +1,51 @@
-# Système radar à balayage électronique open-source
+# Radar multiéléments open source
 
-PLFM RADAR est un système radar à balayage électronique (phased array) open-source fonctionnant à 10,5 GHz (bande X), doté d'une orientation de faisceau électronique et d'un traitement numérique du signal sur FPGA. Il détecte et suit des cibles aériennes et terrestres sans pièces mécaniques rotatives.
+PLFM RADAR est un système radar à balayage de phase open source fonctionnant à une fréquence de 10,5 GHz (bande X), doté de capacités de pilotage électronique de faisceau (electronic beam steering) et de traitement numérique du signal basé sur FPGA. Il détecte et suit les cibles aériennes et terrestres avec une grande précision sans utiliser de pièces mécaniques mobiles.
 
-- ★ 24.168
+- ★ 25 440
 - C++
 - GitHub Trending · 2026-08-18
 
-## Mises à jour
-- 18 août 2026: Étoiles 24 168, version stable v2.0.2-p0-audit (filtrage de signal sur FPGA et calibration de portée).
-
 ## Ce que ça vous apporte
-- Orientation électronique du faisceau: Balaye un secteur de 90 degrés en quelques millisecondes via des déphaseurs sans usure mécanique.
-- Deux modes de portée opérationnels: Mode tactique 3 km pour la détection de drones et mode longue portée 20 km pour la surveillance périmétrique.
-- Traitement temps réel sur FPGA: Calculs de FFT et algorithmes CFAR exécutés directement sur le silicium du FPGA.
-- Matériel accessible à coût réduit: Réduit les coûts de centaines de milliers de dollars des radars militaires à moins de mille dollars.
-- Intégration Python et SDR: Visualisez les vecteurs de cibles en direct via des récepteurs SDR et une interface graphique Python PPI.
+- Orientation de faisceau électronique : balayage d'un secteur de 90 degrés en quelques millisecondes grâce à des déphaseurs, sans nécessiter de moteur mécanique ou d'antenne rotative.
+- Mode de fonctionnement double portée : capacité opérationnelle de 3 km à courte portée (détection d'UAV/drone) et de 20 km à longue portée (surveillance périmétrique et suivi d'aéronefs).
+- Traitement du signal en temps réel basé sur FPGA : traitement matériel des échos radar bruts sur FPGA avec des algorithmes FFT et CFAR à grande vitesse.
+- Matériel accessible à faible coût : réduire le coût des radars commerciaux et militaires, qui se chiffre en centaines de milliers de dollars, à moins de mille dollars grâce à des conceptions de circuits imprimés open source.
+- Intégration Python et SDR : surveillance en direct des données radar numériques via du matériel SDR open source et une interface Python.
 
 ## Composants matériels et architecture radar
+- Réseau d'antennes micro-ruban bande X 10,5 GHz : éléments d'antenne patch multiples conçus sur des substrats Rogers/FR4 à faibles pertes.
+- Déphaseurs à commande numérique : circuits intégrés RF qui orientent le faisceau dans l'espace en retardant la phase du signal de chaque élément d'antenne avec une précision de 5,6 degrés.
+- Synthétiseur de fréquence FMCW : oscillateur local à haute stabilité (VCO/PLL) générant une onde continue à modulation de fréquence linéaire.
 
-Le système PLFM RADAR s'articule autour d'un étage RF frontal, d'un réseau d'antennes et d'un étage numérique :
-- Réseau d'antennes patch 10,5 GHz bande X: Éléments rayonnants micro-ruban conçus sur substrat Rogers/FR4 à faibles pertes.
-- Déphaseurs à commande numérique: Modulent la phase de chaque élément d'antenne avec une précision de 5,6 degrés pour orienter le faisceau dans l'espace.
-- Synthétiseur de fréquence FMCW: Oscillateur local haute stabilité (VCO/PLL) produisant des ondes entretenues modulées en fréquence.
+## Logiciel de traitement du signal et de contrôle
+- FFT de portée-Doppler (FFT 2D) : calcul simultané de la distance et de la vitesse radiale d'une cible en appliquant d'abord une FFT de portée, puis une FFT Doppler au signal entrant.
+- Détecteur CFAR (Constant False Alarm Rate) : filtrage des cibles mobiles réelles parmi le bruit de fond et les échos de sol (clutter) grâce à un seuil dynamique.
+- Interface graphique Python et écran PPI : visualisation des traces de cibles sur une carte en direct via un écran radar circulaire traditionnel (PPI).
 
-## Traitement du signal et logiciel de contrôle
+## Principe de fonctionnement technique : FMCW et réseau de phase
+- Mesure de distance par différence de fréquence : le signal de battement (beat frequency) est obtenu en mélangeant le signal chirp émis avec le signal réfléchi par la cible. Cette fréquence est directement proportionnelle à la distance.
+- Formation de faisceau par interférence constructive : En appliquant un déphasage spécifique à chaque élément d'antenne du réseau, le signal est rendu constructif dans la direction souhaitée et destructif dans les autres directions.
 
-Les échos radar bruts sont filtrés matériellement pour extraire distance, vitesse et azimut des cibles :
-- 2D FFT Distance-Doppler: Transformée de Fourier rapide bidimensionnelle pour distinguer simultanément la distance et la vitesse radiale.
-- Détecteur CFAR (Taux de fausse alarme constant): Isole dynamiquement les cibles mobiles des bruits de sol et des échos parasites.
-- Interface graphique Python et affichage PPI: Affiche les cibles détectées sur un écran radar panoramique classique superposé à une carte.
-
-## Principe technique : FMCW et balayage de phase
-
-PLFM RADAR emploie l'émission continue modulée en fréquence (FMCW) plutôt que des impulsions haute puissance :
-- Mesure de distance par fréquence de battement: Le mélange de l'onde émise avec l'écho reçu génère une fréquence intermédiaire proportionnelle à la distance.
-- Formation de faisceau par interférences constructives: L'ajustement des phases relatives sur chaque antenne focalise l'onde dans la direction souhaitée.
-
-## Cas d'usage et scénarios opérationnels
-
-Cette technologie radar open-source ouvre de nombreuses applications concrètes :
-- Défense anti-drones à basse altitude: Détecte les micro-drones par temps de brume ou de nuit quand les caméras optiques sont inopérantes.
-- Sécurité des sites sensibles: Surveille les intrusions de véhicules ou de piétons sur un rayon de 3 km autour d'aéroports ou de centres de données.
-- Recherche météorologique: Mesure les vitesses de vent localisées et l'intensité des précipitations par micro-Doppler.
+## Scénarios d'utilisation et tests sur le terrain
+- Défense contre les drones et les UAV à basse altitude : détection de petits véhicules aériens sans pilote dans des conditions de brouillard ou de nuit où les caméras optiques s'avèrent insuffisantes.
+- Sécurité périmétrique des sites critiques : surveillance des approches non autorisées de personnes ou de véhicules dans un rayon de 3 km autour des aéroports, centres de données et sites industriels.
+- Recherches météorologiques et atmosphériques : analyse des mouvements nuageux et de l'intensité des précipitations à l'échelle locale par des méthodes micro-Doppler.
 
 ## Si vous ne codez pas
-🤖 Si vous ne codez pas
-Je souhaite analyser les schémas matériels 10,5 GHz et le traitement DSP sur FPGA du projet PLFM RADAR. Peux-tu générer un script de simulation en Python qui modélise l'émission d'un signal FMCW, applique la 2D FFT Distance-Doppler et extrait la position et la vitesse d'un drone simulé ?
+Je souhaite examiner les schémas matériels à commande de phase 10,5 GHz et les blocs de traitement du signal FPGA du projet PLFM RADAR. Pourriez-vous préparer un script Python de simulation expliquant la génération du signal chirp FMCW, le calcul FFT 2D Portée-Doppler et le transfert de données vers un écran radar PPI basé sur Python ? Pourriez-vous montrer étape par étape l'algorithme de détection de distance et de vitesse pour une cible artificielle ?
 
-- **Pour qui:** Chercheurs en radar, ingénieurs défense, développeurs de systèmes anti-drones et passionnés de SDR.
-- **Licence:** Licence matérielle et logicielle open-source
-- **Bande de fréquence:** 10,5 GHz (Bande X) FMCW
-- **Portée cible:** 3 km (tactique anti-drone) à 20 km (surveillance large)
+## Questions fréquemment posées
+- Est-il possible de fabriquer le système à la maison ou en laboratoire ? Oui. Tous les schémas PCB, les fichiers de production Gerber et les codes FPGA Verilog/VHDL du projet sont disponibles en open source dans le dépôt GitHub. Les cartes peuvent être commandées auprès de fabricants de PCB standard et soudées en laboratoire.
+- Quel est l'avantage du balayage électronique par rapport aux radars mécaniques ? Alors que les radars mécaniques effectuent 1 à 2 tours par seconde, les radars à balayage électronique peuvent modifier la direction du faisceau en quelques microsecondes. Il n'y a aucune pièce mécanique sujette à l'usure et ils peuvent se verrouiller instantanément sur plusieurs cibles.
+- Une autorisation de radiofréquence spécifique est-elle nécessaire pour l'utiliser ? La bande des 10,5 GHz est soumise dans de nombreux pays à des attributions de fréquences pour radioamateurs ou à usage industriel/scientifique (ISM). Bien que les tests en laboratoire à faible puissance de sortie soient libres, les réglementations locales doivent être respectées pour les transmissions longue portée en extérieur.
+- Avec quelles cartes de développement FPGA est-il compatible ? Les séries Xilinx Zynq-7000 ou les cartes modernes AMD UltraScale+ RFSoC sont directement prises en charge ; les interfaces ADC/DAC haute vitesse se connectent via le connecteur FMC.
 
-## Questions fréquentes
-- Peut-on fabriquer ce système en atelier ou laboratoire ? Oui. Tous les schémas PCB, fichiers Gerber et codes Verilog/VHDL sont disponibles sur le dépôt GitHub. Les circuits peuvent être commandés chez un fabricant de PCB standard.
-- Quel est le principal avantage par rapport à un radar tournant ? L'orientation électronique permet de basculer le faisceau en quelques microsecondes sans aucune pièce en mouvement, augmentant la fiabilité et le suivi simultané.
-- Une licence d'émission RF spécifique est-elle requise ? La bande 10,5 GHz fait l'objet d'allocations radioamateurs ou ISM dans plusieurs pays. En laboratoire à faible puissance l'usage est toléré, mais l'émission extérieure est soumise aux réglementations locales.
-- Quelles cartes de développement FPGA sont compatibles ? Les familles Xilinx Zynq-7000 et AMD UltraScale+ RFSoC sont directement prises en charge via connecteurs FMC pour les convertisseurs ADC/DAC rapides.
+## Termes liés du glossaire
 
 ## Liens
-- [GitHub →](https://github.com/NawfalMotii79/PLFM_RADAR)
-
-## Termes associés du glossaire
-Edge Computing Open Source Local Offline
+- Dépôt GitHub →
+- Lire en turc →
 
 ---
-Source: TreScout Discover · https://trescout.com/fr/discover/plfm-radar/
+Source : TreScout Découvrir · https://trescout.com/fr/discover/plfm-radar/

@@ -32,6 +32,7 @@ Quando as tarefas se tornam muito complexas, modelos especializados menores se c
 - [TradingAgents](/pt/discover/tradingagents/)
 - [Gastown](/pt/discover/gastown/)
 - [AI Berkshire](/pt/discover/ai-berkshire/)
+- [Openrig](/pt/discover/openrig/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/multi-agent/

@@ -30,6 +30,7 @@ En la mayoría de los sistemas, puede eliminar estos datos con el comando "borra
 ## Herramientas relacionadas
 - [Mempalace](/es/discover/mempalace/)
 - [Codebase Memory MCP](/es/discover/codebase-memory-mcp/)
+- [Hindsight](/es/discover/hindsight/)
 - [Cognee](/es/discover/cognee/)
 - [TencentDB-Agent-Memory](/es/discover/tencentdb-agent-memory/)
 - [AI Memory](/es/discover/ai-memory/)
