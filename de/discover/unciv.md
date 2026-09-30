@@ -1,68 +1,49 @@
-# Leichtes und quelloffenes Strategiespiel
+# Leichtes und Open-Source-Strategiespiel
 
-Unciv ist eine quelloffene, minimalistische und plattformübergreifende Adaption von Civilization V für Desktop und Android. Entwickelt mit Kotlin und LibGDX, bietet das Projekt die originalen 4X-Strategiemechaniken bei minimalem Ressourcenverbrauch und umfassender Mod-Unterstützung.
+Unciv ist eine Open-Source-, minimalistische und plattformübergreifende Desktop- und Android-Adaption von Civilization V. Das Projekt wurde mit Kotlin- und LibGDX-Infrastruktur entwickelt und bietet originale 4X-Strategiemechaniken ohne Hardwarelast und hohe Mod-Unterstützung.
 
-- ★ 11.285
+- ★ 11.364
 - Kotlin
 - GitHub Trending · 2026-06-18
 
-## Aktualisierungen
-- 18. September 2026: Sterne 11.276 → 11.285, neueste Version 4.22.1 (17. September 2026).
-- 15. September 2026: Sterne 11.257 → 11.276, neueste Version 4.22.0 (14. September 2026).
-- 10. September 2026: Sterne 11.241 → 11.257, neueste Version 4.21.19 (9. September 2026).
-- 8. September 2026: Sterne 11.223 → 11.241, neueste Version 4.21.18 (7. September 2026).
-
 ## Was es bringt
-- Geringer Hardware- und Akkuverbrauch: Nutzt flüssige 2D-Vektor- und Pixelgrafik, um selbst auf schwachen Mobilgeräten ohne Hitzeentwicklung zu laufen.
-- Originalgetreue Civilization V-Mechaniken: Städtebau, Technologiebaum, Sozialpolitiken, Diplomatie und Sechseck-Gitter-Kämpfe bleiben vollständig erhalten.
-- Plattformübergreifende Spielstände und Mehrspieler: Übertragen Sie Spielstände zwischen Android und PC oder tragen Sie rundenbasierte Matches aus.
-- Umfangreiches Community-Mod-Ökosystem: Neue Zivilisationen, Einheiten und Szenarien lassen sich mit einem Klick im Spielmenü aktivieren.
-- Vollkommen frei und werbefrei: Veröffentlicht unter MPL-2.0 ohne In-App-Käufe, Tracking oder Werbung.
+- Niedrige Hardware und batteriefreundliche Architektur: Es funktioniert selbst auf den einfachsten Mobilgeräten ohne Erwärmung, indem es 2D-Vektor- und Pixelgrafiken anstelle schwerer 3D-Rendering-Engines verwendet.
+- Die ursprüngliche Mechanik von Civilization V: Stadtplanung, Technologiebaum, Sozialpolitik, Diplomatie und taktisches Hex-Kampfsystem bleiben vollständig erhalten.
+- Plattformübergreifende Speicherung und Multiplayer-Unterstützung: Sie können gespeicherte Dateien direkt zwischen Desktop und Android verschieben oder E-Mail-/serverbasierte Round-Robin-Multiplayer-Matches spielen.
+- Community-gesteuertes, reichhaltiges Mod-Ökosystem: Neue Zivilisationen, Einheiten, Fantasy-Szenarien und Grafikthemen können mit einem einzigen Klick über die In-Game-Oberfläche installiert und aktiviert werden.
+- Völlig kostenloses und werbefreies Erlebnis: Vertrieb unter MPL-2.0-Lizenz; enthält keine In-App-Käufe, Werbung, Tracking oder Datenerfassung.
 
 ## Erste Schritte und Installationsoptionen
-
-Unciv ist für mehrere Plattformen verfügbar. Auf Android können Sie die App über den Google Play Store oder F-Droid installieren. Auf Desktop-Systemen (Windows, Linux, macOS) stehen Standalone-ZIP-Dateien, Flatpak und itch.io bereit.
-- [Google Play Store Seite →](https://play.google.com/store/apps/details?id=com.unciv.app)
-- [F-Droid Open-Source-Repository →](https://f-droid.org/packages/com.unciv.app/)
-- [itch.io Desktop-Versionen →](https://yairm210.itch.io/unciv)
+- Google Play Store-Seite →
+- F-Droid Open Source Repository →
+- itch.io Desktop-Versionen →
 
 ## Technische Architektur und Funktionsweise
+- Zustandsgesteuerte Spiel-Engine: Alle Hex-Kacheln, Einheiten, Städte und diplomatischen Beziehungen auf dem Spielbrett werden als reine JSON-Objekte gespeichert. Durch diese Struktur bleibt die Größe der Protokolldateien bei nur wenigen hundert Kilobyte.
+- Deklarative Modding-Engine: Zivilisationsfunktionen, Technologiebäume und Baukosten werden über JSON-Dateien definiert, ohne den Quellcode zu berühren. Auf diese Weise benötigen Mod-Entwickler keinen externen Compiler.
+- Deterministische Rundenberechnung: KI-Bewegungen und Kampfergebnisse werden mit vorhersehbaren Algorithmen berechnet. Dies verhindert Synchronisationsunterbrechungen in asynchronen Multiplayer-Spielen.
+- Multiplattform-Kompilierung: Dank LibGDX wird eine einzige Kotlin-Codebasis mit nativer Leistung für Desktop (JVM) und Mobilgeräte (Android-Laufzeit) gepackt.
 
-Unciv basiert auf LibGDX und Kotlin und baut auf eine deterministische, leichtgewichtige Zustandsverwaltung:
-- Zustandsorientierte Spiel-Engine: Hex-Felder, Einheiten und Städte werden als reines JSON serialisiert; Spielstände bleiben winzig.
-- Deklarative Modding-Engine: Zivilisationseigenschaften und Bauregeln werden in JSON definiert, ohne Quellcode neu zu kompilieren.
-- Deterministische Rundenberechnung: KI-Züge und Kämpfe laufen mathematisch vorhersagbar ab, was Desynchronisationen verhindert.
-- Plattformübergreifende Kompilierung: Eine einzige Kotlin-Codebasis läuft performant auf JVM-Desktop und Android.
-
-## Gameplay-Strategien und 4X-Dynamik
-
-Unciv setzt das klassische 4X-Prinzip perfekt um: eXplore, eXpand, eXploit und eXterminate:
-- Erkundung in den ersten Runden: Verteilen Sie Späher früh auf der Karte, um Ruinen zu plündern und Gold von Stadtstaaten zu erhalten.
-- Zufriedenheit und Nahrung im Gleichgewicht: Gründen Sie Städte in Reichweite von Luxusgütern, um Wachstumseinbußen zu vermeiden.
-- Zielgerichteter Technologiepfad: Forschen Sie gezielt nach den militärischen oder kulturellen Stärken Ihrer Zivilisation.
-- Geländevorteile im Kampf: Nutzen Sie Flussläufe und Hügel, um selbst mit kleinen Truppen große Armeen aufzuhalten.
+## Spielstrategien und 4X-Dynamik
+- Kartenerkundung in den ersten Runden: Verteilen Sie Ihre Krieger- und Spähereinheiten frühzeitig auf der Karte, um antike Artefakte zu sammeln, ersten Kontakt mit Stadtstaaten aufzunehmen und Goldeinnahmen zu erzielen.
+- Glück und Ernährungsbalance: Achten Sie bei der Gründung neuer Städte darauf, dass Sie sich in der Reichweite luxuriöser Ressourcen befinden. Wenn Ihre Zufriedenheitsrate negativ wird, verlangsamen sich Bevölkerungswachstum und Produktion deutlich.
+- Technologie-Roadmap: Konzentrieren Sie sich auf die Stärken Ihrer Zivilisation und nicht auf zufällige Forschung. Folgen Sie den Wegen der Schmiedekunst und des Schießpulvers für den militärischen Sieg, der Philosophie und der Bildung für den kulturellen Sieg.
+- Geländevorteile nutzen: Schlagen Sie große Armeen mit einer kleinen Anzahl von Einheiten ab, indem Sie Flussuferverteidigung, Hügelvorteile und enge Pässe schaffen.
 
 ## Wenn Sie nicht programmieren
-🤖 Wenn Sie nicht programmieren
-Ich möchte eine gültige JSON-Mod für Unciv erstellen. Kannst du mir eine Vorlage mit einem Anführer, der Wissenschaft und Kultur fördert, einer Kavallerie-Einheit und einem Bibliotheksgebäude erstellen? Erkläre bitte auch die Verzeichnisstruktur und wie man die Mod im Spiel testet.
-
-- **Für wen:** Spieler und Mod-Entwickler, die klassische 4X-Strategie leichtgewichtig und werbefrei erleben wollen.
-- **Lizenz:** MPL-2.0 (Mozilla Public License 2.0)
-- **Spiel-Engine:** LibGDX (Kotlin-basiert)
-- **Plattformen:** Android, Windows, Linux, macOS
+Ich möchte eine gültige JSON-Mod-Struktur für das Spiel Unciv vorbereiten. Können Sie eine Beispiel-Unciv-Mod-Vorlage erstellen, die eine spezielle Kavallerieeinheit und ein spezielles Bibliotheksgebäude enthält, das als Anführerfähigkeit einen Bonus auf Wissenschafts- und Kulturproduktion verleiht? Können Sie Schritt für Schritt erklären, welche JSON-Dateien ich in welcher Ordnerstruktur speichern soll und wie ich dies über die Mod-Manager-Oberfläche im Spiel testen kann?
 
 ## Häufig gestellte Fragen
-- Wie ähnlich ist Unciv zu Civilization V? Mechaniken, Einheitenwerte und Technologiebäume entsprechen Civilization V mit Erweiterungen, umgesetzt in 2D.
-- Wird eine Internetverbindung benötigt? Nein, Unciv ist im Einzelspieler komplett offline spielbar. Internet wird nur für Mods und Mehrspieler gebraucht.
-- Wie werden Mods installiert? Im Mods-Menü des Spiels können Hunderte von Community-Mods mit einem Klick heruntergeladen werden.
-- Können Spielstände zwischen PC und Smartphone getauscht werden? Ja, der Spielstand kann als Text in die Zwischenablage kopiert und auf dem anderen Gerät importiert werden.
-
-## Links
-- [GitHub →](https://github.com/yairm210/Unciv)
-- [Read in Turkish →](https://trescout.com/discover/unciv/)
+- Wie ähnlich ist Unciv zu Civilization V? Spielmechanik, Einheitenstatistik, Technologiebaum und Siegbedingungen sind weitgehend kompatibel mit den Add-ons Civilization V Gods and Kings und Brave New World. Der Unterschied besteht im Wesentlichen in der Verwendung eines einfachen visuellen 2D-Designs anstelle von 3D-Grafiken.
+- Ist zum Spielen eine Internetverbindung erforderlich? Nein. Unciv kann vollständig offline gespielt werden. Um im Einzelspielermodus gegen KI-Gegner zu spielen, ist keine Netzwerkverbindung erforderlich. Nur Mod-Downloads und Multiplayer-Matches erfordern eine Verbindung.
+- Wie installiere ich Unciv-Mods? Wenn Sie im Hauptmenü auf die Registerkarte „Mods“ gehen, können Sie Hunderte von Mods auflisten, die von der Community hochgeladen wurden, und sie mit einem einzigen Klick auf Ihr Gerät herunterladen. Sie können die Installation auch direkt durchführen, indem Sie einen Link zu einem beliebigen Mod-Repository auf GitHub hinzufügen.
+- Können Aufnahmedateien zwischen Desktop und Telefon übertragen werden? Ja. Sie können die gespeicherte Datei aus dem Aufnahmemenü im Spiel in die Zwischenablage kopieren, sie per E-Mail oder Nachricht im Textformat an Ihr anderes Gerät senden und dort mit der Option „Aus der Zwischenablage laden“ dort fortfahren, wo Sie aufgehört haben.
 
 ## Verwandte Begriffe aus dem Glossar
-Open Source Offline
+
+## Links
+- GitHub-Repository →
+- Auf Türkisch lesen →
 
 ---
-Source: TreScout Discover · https://trescout.com/de/discover/unciv/
+Quelle: TreScout Entdecken · https://trescout.com/de/discover/unciv/

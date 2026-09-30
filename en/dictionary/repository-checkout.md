@@ -1,21 +1,31 @@
 # What is Repository Checkout?
 
-It is the process of copying all the files of a software project from a central server to your own computer.
+Repository checkout is the process of downloading a specific version of the repository to your workspace.
 
-## Overview
-Checkout is taking a specific version of a project from the server and downloading it to your own workspace. In this way, you can access the current state of the project and start making changes to it. In the software world, it is the basic step of creating a local copy of the project.
+## Definition and Word Origin
+You get the current version of the project from the server and bring it to your desk. It's like borrowing a book from the library: The source remains, you work with the copy. History and version information comes with the copy.
 
-*Analogy: It's like borrowing a book from a library, bringing it to your desk and starting to read its pages one by one, instead of just knowing the name.*
+## How to Know and Use in Daily Life?
+New project: Downloading the repository for the first time. Version migration: Going back to the old tag and examining the error. Trying a branch: Opening the friend's branch locally.
 
-## How it works
-It is usually done using tools such as Git, via the terminal with the 'git checkout' command, or via buttons in the development environment.
+## Technical Depth and Architecture
+The flow is as follows:
 
-## Where it is used
-It is used when you are just starting a project or need to switch to a different version of the project.
+## Use in Different Disciplines
+Library: Taking the book from the shelf and bringing it to the table. Archive: Taking the folder out of storage and examining it. Photo: Printing from the negative.
 
-## Frequently asked questions
+## Frequently Asked Questions
 **Does it only download files?**
-It brings not only the files, but also the history and version information of the project.
+No. History and version information is also included, so you can revert back to the old version.
+
+**What is the difference with Clone?**
+Clone is the initial download, checkout is the pass through the downloaded repository. The order is in this direction.
+
+**How to revert to old version?**
+It is passed with a tag or commit hash. If there is a saved job, it is stored first.
+
+**What is Switch?**
+It is the modern command to branch. Since checkout does a lot of work, Git split it into two: switch to the branch, restore to the file.
 
 
 ## Related terms

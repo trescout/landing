@@ -1,24 +1,34 @@
 # What is Prompt?
 
-It is a written instruction used to ask the AI ​​to perform a specific task or answer a question.
+Prompt is a written instruction given to the model.
 
-## Overview
-Prompt is the basis of your communication with artificial intelligence. When you say 'Tell me about this' to an artificial intelligence model, this sentence becomes a prompt. The quality of the prompt directly affects the accuracy and appropriateness of the answer given by artificial intelligence.
+## Definition and Word Origin
+"Prompt" means request. It is the basis of communication: Clear instructions bring clear answers. It is written with the trio of role, context and form.
 
-*Analogy: It's like a task list you give to an assistant; The clearer and more detailed instructions you give, the more the assistant will do the job the way you want.*
+## How to Know and Use in Daily Life?
+Chat: Giving questions and tasks. Visual: Scene description. Code: Job description.
 
-## How it works
-You can ask a direct question, give context, or add constraints such as 'answer in this format'. A good prompt clarifies what the AI ​​should and should not do.
+## Technical Depth and Architecture
+Pattern:
 
-## Where it is used
-It is used in all productive artificial intelligence interfaces such as ChatGPT, Claude, Midjourney.
+## Frequently Mixed Things
+It is considered engineering. Prompt is the only instruction, engineering is the art of optimization. One is a sentence, the other is a craft.
 
-## Commonly confused with
-It can be confused with Prompt Engineering; While prompt is a single instruction, prompt engineering is the art of optimizing these instructions.
+## Use in Different Disciplines
+List: Task compass.Order: Kitchen receipt.Recipe: Measured instructions.
 
-## Frequently asked questions
-**What is a bad prompt?**
-They are instructions that are very short, vague, or lack context. For example, just saying 'write' will cause the AI ​​to not know what to write.
+## Frequently Asked Questions
+**What is bad will?**
+It is short, vague and without context. Desire without measure is thrown away.
+
+**Long or short?**
+That's enough. The necessary context and boundaries are set, and there is no fluff.
+
+**Is it Turkish?**
+Yes. The model understands Turkish, attention is paid to term consistency.
+
+**Is it hidden?**
+It varies depending on the service. The policy is read without writing sensitive data.
 
 
 ## Related terms
@@ -27,9 +37,11 @@ They are instructions that are very short, vague, or lack context. For example, 
 - [AI Agent](/en/dictionary/ai-agent/)
 
 ## Related tools
+- [OmniRoute](/en/discover/omniroute/)
 - [AI Engineering from Scratch](/en/discover/ai-engineering-from-scratch/)
 - [Awesome Gpt Image 2](/en/discover/awesome-gpt-image-2/)
 - [Flue](/en/discover/flue/)
+- [Codex-X](/en/discover/codex-x/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/prompt/

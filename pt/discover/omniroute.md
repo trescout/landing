@@ -1,66 +1,52 @@
-# Unifique mais de 230 provedores de IA em um único gateway resiliente
+# Combine mais de 230 provedores de inteligência artificial em um único gateway
 
-> Omniroute · Python / Go · ★ 65.889
+O OmniRoute é uma ferramenta de infraestrutura de código aberto que reúne mais de 230 grandes modelos de linguagem e provedores de IA em um único endpoint compatível com OpenAI (gateway de API). Ele reduz os custos de IA corporativa com fallback automático, balanceamento de carga e compressão de tokens.
 
-O OmniRoute é um gateway de IA de código aberto que consolida mais de 230 provedores de modelos de linguagem sob um único endpoint compatível com OpenAI. Oferece failover automático, balanceamento de carga e compressão de prompts.
+- ★ 65.889
+- Python / Go
+- GitHub Trending · 2026-09-19
 
 ## O que você ganha
-- Compatibilidade Universal com OpenAI: Acesse OpenAI, Anthropic, Gemini, Mistral e modelos locais por meio de um único endpoint /v1/chat/completions.
-- Failover Automático e Resiliente: Redirecione o tráfego para modelos alternativos em milissegundos se o provedor principal cair ou sofrer rate limit.
-- Otimização de Custos e Compressão: Algoritmos integrados reduzem o consumo desnecessário de tokens no prompt.
-- Observabilidade Completa: Monitore latências, taxas de erro e consumo financeiro em um painel consolidado.
+- Compatibilidade Universal de API: Chame modelos da OpenAI, Anthropic, Gemini, Mistral e modelos locais a partir de um único endpoint /v1/chat/completions.
+- Compensação Inteligente de Erros (Fallback): Redirecione solicitações para um modelo alternativo em milissegundos quando o provedor principal atingir o limite de taxa (rate limit) ou sofrer uma interrupção.
+- Otimização de Tokens e Custos: Evite o inchaço desnecessário de contexto com algoritmos internos de compressão de prompts e reduza seus gastos com API.
+- Telemetri ve Gözlemlenebilirlik Kapsamı: Yanıt sürelerini, hata oranlarını ve harcanan bütçeyi sağlayıcılar arasında tek bir kontrol panelinden izleyin.
 
-## Profundidade técnica e arquitetura
-O OmniRoute atua como um proxy reverso de alta performance entre suas aplicações e os provedores de inteligência artificial:1. Padronização de Protocolos: Converte requisições para um formato unificado antes de encaminhá-las aos serviços finais.2. Mecanismo de Roteamento e Monitoramento: Checa status HTTP e tempos de resposta, isolando nós instáveis automaticamente.3. Cache Semântico: Retém respostas de perguntas frequentes na memória para atender chamadas repetidas sem custo de API.
+## Arquitetura técnica e princípio de funcionamento
+O OmniRoute funciona como um proxy reverso de alta eficiência entre o cliente e os provedores de IA:
 
-## Instalação e execução
-Inicie o OmniRoute rapidamente em servidores locais ou na nuvem com Docker Compose:
+## Etapas de instalação e implantação
+**Início rápido com Docker Compose**
 
-### Inicialização com Docker Compose
-```bash
+```
 git clone https://github.com/danielfrg/omniroute.git
 cd omniroute
 cp .env.example .env
 docker compose up -d
 ```
 
-### Testar requisição de chat
-```bash
+**Testando o endpoint**
+
+```
 curl http://localhost:8000/v1/chat/completions \
   -H "Content-Type: application/json" \
-  -d '{"model": "gpt-4o-mini", "messages": [{"role": "user", "content": "Olá!"}]}'
+  -d '{"model": "gpt-4o-mini", "messages": [{"role": "user", "content": "Merhaba!"}]}'
 ```
 
-## Prompt para arquitetos e agentes de IA
-Configure uma regra de roteamento no OmniRoute que integre OpenAI, Anthropic e uma instância local do Ollama. Adicione uma política de fallback automática para erros HTTP 429 e 500, e detalhe o arquivo de configuração para Docker Compose.
 
-## Alertas e limitações críticas
-- Segurança de Chaves de API: Proteja as variáveis de ambiente e configure autenticação obrigatória (Bearer Token) no gateway.
-- Divergência de Parâmetros: Janelas de contexto e suporte a parâmetros específicos variam entre modelos; padronize chamadas de forma conservadora.
-- Latência de Rede do Proxy: Aloje o gateway próximo às suas aplicações principais para evitar atrasos adicionais de conexão.
+## Prompt de IA para não programadores
+Prepare uma configuração de roteamento usando o gateway de IA OmniRoute que inclua modelos da OpenAI, Anthropic e Ollama local. Crie uma regra de fallback que mude automaticamente para o segundo modelo caso o modelo principal não responda e liste os passos para executar com Docker Compose.
 
-## Perguntas frequentes
+## Avisos críticos e limitações
+- Segurança da Chave de API: Proteja as chaves de API nas variáveis de ambiente do servidor de gateway; ao expor o gateway à internet pública, certifique-se de implementar a autorização (Bearer Token).
+- Diferenças nos Parâmetros do Modelo: As janelas de contexto máximas e os limites de temperatura suportados pelos provedores variam; utilize parâmetros comuns nas solicitações.
+- Latência de Rede: A distância geográfica entre a localização do gateway e os data centers do provedor pode criar alguns milissegundos adicionais de latência.
 
-### O OmniRoute hospeda modelos internamente?
-Não, ele funciona como um roteador de chamadas para provedores externos ou locais.
+## Termos relacionados do glossário
 
-### Posso utilizar as bibliotecas oficiais da OpenAI?
-Sim, basta atualizar o parâmetro <code>base_url</code> no seu código para o endereço do OmniRoute.
-
-### Suporta runtimes locais como Ollama ou vLLM?
-Sim, qualquer endpoint compatível com a API da OpenAI pode ser conectado.
-
-### Os dados das requisições são armazenados?
-A política de logs e retenção de dados é 100% controlada por você nas configurações.
-
-## Links úteis
-- [Repositório no GitHub (danielfrg/omniroute) →](https://github.com/danielfrg/omniroute)
-
-## Termos relacionados no glossário
-- [Cloud Computing](/pt/dictionary/cloud-computing/)
-- [AI Agent](/pt/dictionary/ai-agent/)
-- [Runtime](/pt/dictionary/runtime/)
-- [Foundation Model](/pt/dictionary/foundation-model/)
+## Links
+- Repositório no GitHub →
+- Ler em turco →
 
 ---
-Source: TreScout Discovery · https://trescout.com/pt/discover/omniroute/
+Fonte: TreScout Descobrir · https://trescout.com/pt/discover/omniroute/

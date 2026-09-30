@@ -6,6 +6,8 @@ Developed with Vue, Lap is an offline-first photo manager that allows you to man
 - Vue
 - GitHub Trending · 2026-09-25
 
+## Related dictionary terms
+
 ## Links
 - GitHub repository →
 - Read in Turkish →

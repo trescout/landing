@@ -6,6 +6,8 @@ Das mit Vue entwickelte Lap ist ein Offline-First-Fotomanager, mit dem Sie groß
 - Vue
 - GitHub Trending · 2026-09-25
 
+## Verwandte Begriffe aus dem Glossar
+
 ## Links
 - GitHub-Repository →
 - Auf Türkisch lesen →

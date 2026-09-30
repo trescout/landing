@@ -1,63 +1,50 @@
-# Erweiterte Benutzeroberflächen-Anpassung für das Wand-Ökosystem
+# Erweiterte Schnittstellenanpassung für die Wand-App
 
-> Wand-enhancer · C# · ★ 27.333
+Wand-Enhancer ist ein C#-basiertes Open-Source-Plugin für den WeMod-Game-Manager, das die Benutzererfahrung optimiert und die Interoperabilität erhöht. Es optimiert das Interface-Layout, zentralisiert Hotkeys und bietet vollständige Kontrolle über lokale In-Game-Panels.
 
-Wand-Enhancer ist ein quelloffenes C#-Plugin zur Optimierung von Benutzeroberfläche und Tastenabläufen im WeMod-Desktop-Client. Es ermöglicht modulare Panel-Anordnungen und blitzschnelle Overlay-Interaktionen während des Spielens.
+- ★ 27.333
+- C#
+- GitHub Trending · 2026-09-19
 
-## Was bringt es?
-- Flexible Oberflächengestaltung: Passen Sie Menüs und Bedienfelder nach Ihren Wünschen an, statt an starre Vorgaben gebunden zu sein.
-- Schnelle Hotkeys und Makros: Steuern Sie Funktionen im Spiel verzögerungsfrei über frei belegbare Tastenkombinationen.
-- Minimale Systembelastung: Nativ in .NET kompiliert für sparsamen Speicherverbrauch ohne Auswirkungen auf die Bildrate (FPS).
-- Volle Open-Source-Transparenz: Quellcode liegt offen auf GitHub und kann jederzeit von der Community auditiert werden.
+## Was es bringt
+- Erweiterte Schnittstellenflexibilität: Konfigurieren Sie Bedienfelder und Verknüpfungen nach Ihren Wünschen und umgehen Sie dabei die strengen Schnittstellenbeschränkungen des Standard-Desktop-Clients.
+- Schnelle Tastenkombinationen und Makros: Anpassbare Verknüpfungsarchitektur, die Werkzeuge aktiviert, ohne Sie während des Spiels abzulenken.
+- Geringe Systemlast: Speicherfreundliche Architektur, die mit ihrer leichten, lokal auf C# .NET kompilierten Struktur die Bildrate (FPS) des Spiels nicht beeinträchtigt.
+- Open-Source-Transparenz: Im Vergleich zu geschlossener Software von Drittanbietern kann die Codebasis von der Community überprüft und erweitert werden.
 
-## Technische Tiefe und Architektur
-Wand-Enhancer klinkt sich in die Ereignisschleife des Host-Clients ein, um Benutzeroberflächen-Events zu verarbeiten:1. Prozess-Interzeption: Bindet sich an die WPF / WinForms-Nachrichtenschleife zur verzögerungsfreien Erkennung von Tastaturbefehlen.
+## Technische Architektur und Funktionsweise
+Wand-Enhancer verarbeitet Benutzeroberflächenereignisse, indem es sie mit der Client-Laufzeit verknüpft:
 
-## Installation und Erstellung
-Um Wand-Enhancer aus dem Quellcode zu kompilieren und lokal einzubinden:
+## Installation und Plugin-Integration
+**Klonen des Repositorys und Vorbereiten von Abhängigkeiten**
 
-### Repository klonen und Pakete wiederherstellen
-```bash
+```
 git clone https://github.com/the1andonlych33s3/wand-enhancer.git
 cd wand-enhancer
 dotnet restore
 ```
 
-### Release-Build erzeugen
-```bash
+**Kompilieren Sie das Projekt und installieren Sie das Plugin**
+
+```
 dotnet build -c Release
-# Kopieren Sie die Ausgabedateien in das Plugin-Verzeichnis
+# Oluşan derleme çıktısını eklenti dizinine kopyalayın
 ```
 
-## Prompt für Entwickler und KI-Agenten
-Analysieren Sie die C#-Architektur von Wand-Enhancer. Beschreiben Sie das Abfangen von Tastatur-Events, die Fensternachrichten-Handler und die Konfigurationsstruktur. Zeigen Sie ein Codebeispiel zur Registrierung eines benutzerdefinierten Hotkey-Handlers.
 
-## Kritische Hinweise und Grenzen
-- Client-Updates: Umfangreiche Aktualisierungen des WeMod-Clients können interne Schnittstellen verändern.
-- Antiviren-Heuristik: Da Tastatureingaben abgefangen werden, können Sicherheitslösungen vorsorglich Falschmeldungen anzeigen.
-- Ausschließlich für Windows: Entwickelt exklusiv für den Windows-Desktop-Client.
+## Aufforderung zur künstlichen Intelligenz für diejenigen, die nicht programmieren können
+Analysieren Sie die C#-Architektur des Wand-Enhancer-Plugins. Beschreiben Sie den Hook-Mechanismus, die Ereignis-Listener und die Struktur der Konfigurationsdatei, die eine Verbindung zum Client-Fenster herstellen. Bereiten Sie eine Beispielcodevorlage vor, die die Klassen- und Methodenstruktur zeigt, die zum Hinzufügen einer neuen Tastenkombination erforderlich ist.
 
-## Häufige Fragen
+## Wichtige Warnungen und Grenzwerte
+- Client-Versionskompatibilität: Größere Updates des Haupt-WeMod-Clients können API-Hooks vorübergehend unterbrechen. Befolgen Sie die Versionshinweise des Plugins.
+- Sicherheitssoftware-Benachrichtigungen: Wie alle Open-Source-Tools, die Memory-Injection- und Hook-Techniken verwenden, kann es von nativer Antivirensoftware als falsch positiv gekennzeichnet werden.
+- Nur Desktop: Das Tool funktioniert nur auf dem nativen Windows-Desktop-Client; Mobil- oder Webschnittstellen sind nicht abgedeckt.
 
-### Ist Wand-Enhancer ein offizielles WeMod-Produkt?
-Nein, es handelt sich um eine unabhängige Open-Source-Erweiterung der Community.
+## Verwandte Begriffe aus dem Glossar
 
-### Führt das Plugin zu Leistungseinbrüchen im Spiel?
-Nein, der sparsame Hintergrundprozess verbraucht kaum CPU- oder RAM-Ressourcen.
-
-### Wie setze ich die Einstellungen zurück?
-Löschen Sie einfach die Datei <code>config.json</code> im Benutzerverzeichnis.
-
-### Kann ich eigene Farbschemata erstellen?
-Ja, visuelle Stile lassen sich über modulare Vorlagen anpassen.
-
-## Nützliche Links
-- [Offizielles GitHub-Repository (the1andonlych33s3/wand-enhancer) →](https://github.com/the1andonlych33s3/wand-enhancer)
-
-## Verwandte Glossarbegriffe
-- [Runtime](/de/dictionary/runtime/)
-- [Customization](/de/dictionary/customization/)
-- [Assets](/de/dictionary/assets/)
+## Links
+- GitHub-Repository →
+- Auf Türkisch lesen →
 
 ---
-Source: TreScout Discovery · https://trescout.com/de/discover/wand-enhancer/
+Quelle: TreScout Entdecken · https://trescout.com/de/discover/wand-enhancer/

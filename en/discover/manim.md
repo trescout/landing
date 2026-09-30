@@ -47,6 +47,8 @@ People looking for a drag-and-drop animation tool or specifically wanting to ins
 ## First task prompt
 Can you help me write a simple ManimGL scene in which a circle transforms into a square?
 
+## Related dictionary terms
+
 ## Links
 - GitHub repository →
 - 3b1b ManimGL GitHub repository →

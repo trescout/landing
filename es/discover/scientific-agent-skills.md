@@ -1,32 +1,25 @@
-# Ofrezca capacidades de investigación científica a su agente de IA
+# Capacidades de inteligencia artificial para la investigación científica
 
-Scientific-agent-skills es una biblioteca que contiene 163 habilidades (skills) verificadas y más de 100 bancos de datos científicos, especializados en agentes de inteligencia artificial en procesos de investigación científica. Ela permite que agentes que trabajan en áreas de biología, química y medicina realicen análisis de datos de forma compatible con plataformas como el editor de código Cursor o el asistente de inteligencia artificial Claude Code.
+Scientific-Agent-Skills es una biblioteca de habilidades ya preparada que adapta los agentes de inteligencia artificial a los procesos de investigación científica. Ofreciendo 163 capacidades validadas y más de 100 bases de datos en los campos de la biología, la química y la medicina, se integra con plataformas como el editor de código Cursor o el asistente de IA Claude Code.
 
-- ★ 44.519
-- Python
-- GitHub Trending · 2026-08-27
+- ★ 47.133
+- GitHub Trending · 2026-08-26
 
 ## Qué aporta
-- Proporciona 163 habilidades científicas diferentes en los campos de la biología, la química y la medicina.
-- Proporciona interacción directa con más de 100 bases de datos científicas.
-- Funciona de forma compatible con herramientas de inteligencia artificial como el editor de código Cursor y Claude Code.
+- Ofrece 166 habilidades ya preparadas en biología, química y medicina.
+- Permite a los asistentes de IA ejecutar flujos de trabajo científicos complejos.
+- Funciona integrado con más de 100 bases de datos.
 
 ## Instalación
-**Instalación a nivel de usuario**
+**Agregar capacidades**
 
 ```
-git clone https://github.com/K-Dense-AI/scientific-agent-skills.git ~/.agents/skills/scientific-agent-skills   # user-level
-```
-
-**Configuración a nivel de proyecto**
-
-```
-git clone https://github.com/K-Dense-AI/scientific-agent-skills.git .agents/skills/scientific-agent-skills      # project-level
+npx skills add K-Dense-AI/scientific-agent-skills
 ```
 
 
 ## Si no programa
-Ahora eres asistente especializado en investigación científica. Realice análisis de datos complejos, búsquedas bibliográficas y procesos de modelado en biología, química y medicina utilizando 163 habilidades en la biblioteca Scientific Agent Skills. Base su trabajo en bases de datos científicas actuales y presente sus resultados con evidencia verificable.
+Comience a utilizar las 166 habilidades listas para usar y las conexiones de bases de datos de la biblioteca para ayudarme con mis procesos de investigación científica.
 
 ## Términos relacionados del glosario
 

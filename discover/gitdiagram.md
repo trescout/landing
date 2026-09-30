@@ -2,9 +2,12 @@
 
 Gitdiagram, GitHub depolarındaki karmaşık dosya yapılarını ve kod ilişkilerini saniyeler içinde görselleştiren açık kaynaklı bir araçtır. URL'deki tek bir harfi değiştirerek devasa kod tabanlarının sistem mimarisini interaktif diyagramlar halinde sunar.
 
-- ★ 16.568
+- ★ 17.581
 - TypeScript
 - GitHub Trending · 2026-09-19
+
+## Güncelleme
+- 30 Eylül 2026: Yıldız 16.568 → 17.581.
 
 Gitdiagram arayüzü: GitHub deposunu etkileşimli sistem mimarisi şemasına dönüştüren görsel analiz paneli. 
 

@@ -47,6 +47,8 @@ Personas que buscan una herramienta de animación de arrastrar y soltar o que qu
 ## Primer prompt
 ¿Puedes ayudarme a escribir una escena sencilla de ManimGL en la que un círculo se transforme en un cuadrado?
 
+## Términos relacionados del glosario
+
 ## Enlaces
 - Repositorio en GitHub →
 - Repositorio GitHub de ManimGL de 3b1b →

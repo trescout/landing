@@ -47,6 +47,8 @@ Les personnes qui recherchent un outil d’animation par glisser-déposer ou qui
 ## Premier prompt
 Pouvez-vous m’aider à écrire une scène ManimGL simple dans laquelle un cercle se transforme en carré ?
 
+## Termes liés du glossaire
+
 ## Liens
 - Dépôt GitHub →
 - Dépôt GitHub ManimGL de 3b1b →

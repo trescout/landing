@@ -6,6 +6,8 @@ Desenvolvido com Vue, o Lap é um gerenciador de fotos focado em funcionar offli
 - Vue
 - GitHub Trending · 2026-09-25
 
+## Termos relacionados do glossário
+
 ## Links
 - Repositório no GitHub →
 - Ler em turco →

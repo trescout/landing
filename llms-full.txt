@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve web/PDF rapor olarak yayımlar. E-posta teslimatı erken erişim aşamasında hazırlanıyor.
 
-Son güncelleme: 2026-09-30 · 600 araç · 668 terim
+Son güncelleme: 2026-09-30 · 600 araç · 671 terim
 
 ---
 
@@ -16463,6 +16463,48 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Load Generator nedir?
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-09-30
+
+Bir sistemin ne kadar yoğun trafiği kaldırabileceğini ölçmek için yapay kullanıcı trafiği oluşturan araç.
+
+## Tanım
+Yazılım projeleriniz canlıya çıkmadan önce binlerce kişinin aynı anda siteye girdiğini hayal edin. Bu durumu test etmek için gerçek insanları bekleyemezsiniz; işte bu noktada yük üreteci devreye girer. Sisteminizin sınırlarını zorlamak ve nerede çökeceğini görmek için yapay istekler fırlatır.
+
+## Bir benzetmeyle
+Yeni açılan bir otobanın dayanıklılığını test etmek için yola aynı anda binlerce maket araba salan test makineleri gibidir.
+
+## Nasıl çalışır?
+Hedef web sitesine veya sunucuya kısa süre içinde anormal miktarda tıklama, veri gönderme veya istek yapma komutu vererek çalışır. Alınan yanıtları ve sunucunun bu baskı altındaki tepkisini raporlar.
+
+## Nerede kullanılır?
+Web siteleri yayına alınmadan önceki stres testlerinde, sunucu kapasitesi planlamalarında ve performans iyileştirme süreçlerinde sıkça kullanılır.
+
+## Sık karıştırılanlar
+Güvenlik açıklarını bulmaya yarayan sızma test araçlarıyla karıştırılabilir; buradaki amaç sistemi kırmak değil, ne kadar yük taşıyabildiğini tartmaktır.
+
+## Sıkça sorulanlar
+
+**Gerçek kullanıcı trafiğinden farkı nedir?**  
+Tamamen otomatiktir ve önceden belirlenmiş senaryoları insanlardan çok daha hızlı ve hacimli şekilde tekrarlar.
+
+**Sistemi çökertebilir mi?**  
+Evet, kapasite sınırını aşarsanız test edilen sistemi geçici olarak yavaşlatabilir veya kilitliyebilirsiniz.
+
+## İlgili terimler
+- [Benchmark](/dictionary/benchmark/)
+- [Monitoring Tool](/dictionary/monitoring-tool/)
+- [Deployment](/dictionary/deployment/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/load-generator/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Local ne demek, nedir?
 
 **Kategori:** Geliştirme  
@@ -23675,6 +23717,50 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Reasoning nedir?
+
+**Kategori:** Yapay Zekâ  
+**Son güncelleme:** 2026-09-30
+
+Yapay zekânın kendisine verilen bilgileri sadece ezbere dayalı değil, mantıksal bir süzgeçten geçirerek adım adım sonuç çıkarma yeteneğidir.
+
+## Tanım
+Akıl yürütme olarak da bilinen bu kavram, yapay zekâ modellerinin karmaşık problemleri çözerken doğrudan bir cevap üretmek yerine, tıpkı bir insan gibi aşamalı düşünme süreçlerini kullanmasıdır. Bu yetenek sayesinde sistem, elindeki verileri analiz eder, mantıksal çıkarımlar yapar ve olası sonuçları değerlendirerek en doğru karara ulaşır. Özellikle matematik, kodlama ve stratejik planlama gibi derin düşünme gerektiren alanlarda modellerin çok daha güvenilir sonuçlar vermesini sağlar.
+
+## Bir benzetmeyle
+Bunu, çoktan seçmeli bir sınavda soruyu görür görmez şıkları tahmin etmek yerine, boş bir kâğıt üzerinde formülleri tek tek yazarak çözüme giden bir öğrenciye benzetebilirsiniz.
+
+## Nasıl çalışır?
+Yapay zekâ modelleri akıl yürütme yaparken içsel bir düşünme zinciri oluşturur. Kendisine yöneltilen soruyu küçük alt parçalara böler, her bir parçayı sırayla çözer ve kendi ürettiği ara adımları kontrol ederek ilerler. Eğer bir adımda hata yaptığını fark ederse, o adımı düzelterek nihai cevaba ulaşmak için yeni bir yol haritası çizer.
+
+## Nerede kullanılır?
+Karmaşık yazılım hatalarının ayıklanmasında, ileri düzey matematiksel problemlerin çözümünde ve çok aşamalı stratejik iş kararlarının analiz edilmesinde kullanılır. Ayrıca tıp ve hukuk gibi hata payının çok düşük olması gereken uzmanlık alanlarında da bu yetenekten yararlanılır.
+
+## Sık karıştırılanlar
+Sıklıkla basit örüntü eşleme veya ezbere bilgi getirme ile karıştırılır. Örüntü eşleme sadece geçmiş verilerdeki benzerlikleri bulurken, akıl yürütme daha önce hiç karşılaşılmamış yeni ve karmaşık durumlarda mantık kuralları çerçevesinde yeni çözümler üretir.
+
+## Sıkça sorulanlar
+
+**Yapay zekâ gerçekten insanlar gibi düşünüyor mu?**  
+Hayır. Yapay zekâ biyolojik bir bilince sahip değildir. Ancak matematiksel olasılıklar ve mantık kuralları çerçevesinde adım adım ilerleyerek insan düşünce yapısını çok başarılı bir şekilde taklit eder.
+
+**Her yapay zekâ modeli akıl yürütme yeteneğine sahip midir?**  
+Hayır. Geleneksel modeller genellikle hızlı ve doğrudan yanıtlar üretmek üzere tasarlanmıştır. Akıl yürütme yeteneği, özel olarak bu süreç için eğitilmiş yeni nesil gelişmiş modellerde bulunur.
+
+## İlgili terimler
+- [LLM](/dictionary/llm/)
+- [Reasoning Capabilities](/dictionary/reasoning-capabilities/)
+- [Agentic AI](/dictionary/agentic-ai/)
+- [AI Models](/dictionary/ai-models/)
+- [AGI](/dictionary/agi/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/reasoning/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Reasoning Capabilities nedir?
 
 **Kategori:** Yapay Zekâ  
@@ -26481,6 +26567,48 @@ Kodun hatasız yazılması gerekir; hatalı kodlar açık oluşturabilir.
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/smart-contracts/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Smart Meters nedir?
+
+**Kategori:** Veri & Altyapı  
+**Son güncelleme:** 2026-09-30
+
+Elektrik veya su tüketimini anlık olarak ölçüp verileri merkeze dijital yolla gönderen cihazlar.
+
+## Tanım
+Eski tip sayaçların üzerini okumak için görevlilerin kapı kapı gezdiği dönemi hatırlarsınız. Akıllı sayaçlar ise bu süreci tamamen dijitalleştirir. Kaynak kullanımınızı saatlik hatta dakikalık bazda takip edip ilgili kuruma kablosuz olarak raporlar.
+
+## Bir benzetmeyle
+Evdeki su borularına takılmış, ne kadar su harcadığınızı sürekli merkeze fısıldayan mini bir muhabir gibidir.
+
+## Nasıl çalışır?
+Üzerindeki sensörler aracılığıyla tüketimi dijital verilere dönüştürür ve hücresel ağlar veya Wi-Fi üzerinden ilgili enerji şirketinin sunucularına iletir.
+
+## Nerede kullanılır?
+Akıllı ev projelerinde, modern elektrik şebekelerinde ve belediye su yönetim sistemlerinde yaygın olarak kullanılır.
+
+## Sık karıştırılanlar
+Sadece sayaç okumaya yarayan basit dijital ekranlarla karıştırılmamalıdır; akıllı sayaçlar çift yönlü veri iletişimi ve otomasyon sunar.
+
+## Sıkça sorulanlar
+
+**Faturaları nasıl etkiler?**  
+Tüketimi anlık gösterdiği için hangi saatlerde daha çok harcama yaptığınızı görüp tasarruf etmenizi sağlar.
+
+**Verilerim güvende mi?**  
+Genellikle şifrelenmiş protokoller üzerinden iletilir, bu sayede tüketim alışkanlıklarınızın gizliliği korunmaya çalışılır.
+
+## İlgili terimler
+- [Edge Computing](/dictionary/edge-computing/)
+- [Data Pipeline](/dictionary/data-pipeline/)
+- [Dashboard](/dictionary/dashboard/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/smart-meters/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -35017,7 +35145,7 @@ Değişikliklerden önce ve sonra Git checkpoint oluşturmanız önerilir. İzin
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-23 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-Terminal CLI Artificial Intelligence
+Reasoning Terminal CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/codex/
@@ -36370,7 +36498,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 WiFi Channel State Information (CSI) kullanarak ortam değişimlerini incelemenize yardımcı olur. ESP32 veya araştırma NIC’leriyle çalışabilir; donanımınız yoksa simüle edilmiş verilerle değerlendirme yapabilirsiniz.
 
-- ★ 95.654
+- ★ 95.674
 - GitHub Trending · 2026-05-30
 
 ## Kurulum
@@ -36404,10 +36532,10 @@ docker run -p 3000:3000 ruvnet/wifi-densepose:latest
 Kaynak: Komutlar RuView resmî kullanıcı ve build rehberlerinden 24 Ağustos 2026’da kontrol edildi; Docker varsayılan olarak simüle edilmiş verilerle çalışabilir.
 
 ## Güncelleme
+- 30 Eylül 2026: Yıldız 95.654 → 95.674, son sürüm v2938 (30 Eylül 2026).
 - 30 Eylül 2026: Yıldız 95.172 → 95.654, son sürüm v2934 (30 Eylül 2026).
 - 27 Eylül 2026: Yıldız 95.124 → 95.172, son sürüm v2872 (27 Eylül 2026).
 - 27 Eylül 2026: Yıldız 94.481 → 95.124, son sürüm v2828 (26 Eylül 2026).
-- 17 Eylül 2026: Yıldız 94.220 → 94.481, son sürüm v2754 (16 Eylül 2026).
 
 ## Bu araç ne yapar?
 
@@ -45680,15 +45808,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Mise, yazılım geliştirme araçlarını, ortam değişkenlerini (environment variables) ve görev çalıştırıcılarını (task runner) tek bir çatı altında yönetmeyi sağlayan bir araçtır. Rust diliyle geliştirilen bu yazılım, farklı projeler için gerekli olan çalışma ortamlarını standartlaştırmayı ve hızlandırmayı hedefler.
 
-- ★ 34.419
+- ★ 34.461
 - Rust
 - GitHub Trending · 2026-08-08
 
 ## Güncelleme
+- 30 Eylül 2026: Yıldız 34.419 → 34.461, son sürüm v2026.9.18 (30 Eylül 2026).
 - 29 Eylül 2026: Yıldız 34.365 → 34.419, son sürüm v2026.9.17 (29 Eylül 2026).
 - 28 Eylül 2026: Yıldız 34.339 → 34.365, son sürüm v2026.9.16 (28 Eylül 2026).
 - 27 Eylül 2026: Yıldız 34.323 → 34.339, son sürüm v2026.9.15 (27 Eylül 2026).
-- 27 Eylül 2026: Yıldız 34.061 → 34.323, son sürüm v2026.9.14 (25 Eylül 2026).
 
 ## Ne kazandırır?
 - Proje araçlarını ve sürümlerini otomatik yönetir
@@ -49734,6 +49862,140 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Hafif veritabanı istemcisi
+
+Rust diliyle geliştirilen dbx, 100'den fazla veritabanı türünü destekleyen 25 MB boyutunda hafif bir veritabanı istemcisi (database client) sunuyor. Masaüstü uygulaması, komut satırı arayüzü (CLI) ve Docker desteğinin yanı sıra yerleşik yapay zekâ asistanı ve Model Bağlantı Protokolü (MCP) gibi özellikler içeriyor.
+
+- ★ 22.868
+- Rust
+- GitHub Trending · 2026-09-29
+
+## Güncelleme
+- 30 Eylül 2026: Yıldız 21.950 → 22.868, son sürüm v0.6.29 (30 Eylül 2026).
+- 29 Eylül 2026: Yıldız 21.621 → 21.950, son sürüm v0.6.28 (29 Eylül 2026).
+- 29 Eylül 2026: Yıldız 21.615 → 21.621, son sürüm v0.6.27 (28 Eylül 2026).
+
+## Ne kazandırır?
+- Yüzden fazla veritabanı türünü destekler.
+- Masaüstü, Docker ve komut satırı ile çalışır.
+- Yapay zekâ asistanı ve Model Bağlantı Protokolü içerir.
+
+## Kurulum
+
+**Masaüstü Uygulaması Kurulumu**
+
+```
+brew install --cask dbx
+```
+
+**Komut Satırı Aracı Kurulumu**
+
+```
+npm install -g @dbx-app/cli
+# or via Homebrew
+brew tap t8y2/tap && brew install dbx-cli
+dbx agent setup
+dbx connections list --json
+dbx query local "select 1" --json
+```
+
+## Çalıştırma
+
+**Docker ile Çalıştırma**
+
+```
+# The default keeps the key in the persistent /app/data volume.
+docker run -d --pull=always --name dbx -p 4224:4224 \
+-v dbx-data:/app/data \
+t8y2/dbx:latest
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+dbx uygulamasını kurmak ve çalıştırmak için gerekli adımları uygula. Masaüstü uygulaması için brew install --cask dbx komutunu, komut satırı aracı için ise npm install -g @dbx-app/cli
+# or via Homebrew
+brew tap t8y2/tap && brew install dbx-cli
+dbx agent setup
+dbx connections list --json
+dbx query local "select 1" --json komutlarını kullan. Docker ile çalıştırmak istersen # The default keeps the key in the persistent /app/data volume.
+docker run -d --pull=always --name dbx -p 4224:4224 \
+-v dbx-data:/app/data \
+t8y2/dbx:latest komutunu çalıştır.
+
+- **Kimin için:** Farklı veritabanı türlerini hafif bir arayüz ve yapay zekâ desteğiyle yönetmek isteyen geliştiriciler içindir. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/t8y2/dbx)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-29 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Database Client Local Database MCP Agent CLI
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/dbx/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# Logitech cihazlar için açık kaynaklı yönetim
+
+OpenLogi, Logitech Options+ için Rust ile yazılmış, yerel öncelikli ve açık kaynaklı bir alternatiftir. Hesap veya telemetri gerektirmeden düğmeleri, DPI'ı ve SmartShift'i yapılandırır.
+
+- ★ 22.531
+- Rust
+- GitHub Trending · 2026-08-20
+
+## Güncelleme
+- 30 Eylül 2026: Yıldız 22.300 → 22.531, son sürüm v0.8.10 (30 Eylül 2026).
+- 27 Eylül 2026: Yıldız 22.267 → 22.300, son sürüm v0.8.9 (27 Eylül 2026).
+- 27 Eylül 2026: Yıldız 21.261 → 22.267, son sürüm v0.8.8 (25 Eylül 2026).
+- 16 Eylül 2026: Yıldız 20.415 → 21.261, son sürüm v0.8.5 (16 Eylül 2026).
+
+## Ne kazandırır?
+- Hesap oluşturmadan yerel kontrol sağlar
+- Tüm tuşlara özel kısayollar atar
+- Linux dahil çoklu platform desteği sunar
+
+## Kurulum
+
+**Homebrew ile standart kurulum**
+
+```
+brew install --cask openlogi
+```
+
+**En güncel sürümü takip etme**
+
+```
+brew tap aprilnea/tap
+brew install --cask aprilnea/tap/openlogi@latest
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Logitech farem, klavyem ve web kameram üzerinde tam kontrol sağlamak istiyorum. OpenLogi kullanarak tuş atamalarımı, DPI hassasiyet ayarlarımı ve kamera görüntü kontrollerimi nasıl yapılandırabilirim? Özellikle TOML formatındaki yapılandırma dosyası ile cihazlarımı nasıl özelleştirebileceğimi ve uygulama bazlı profilleri nasıl oluşturabileceğimi adım adım açıkla.
+
+- **Kimin için:** Logitech çevre birimlerini hesap zorunluluğu olmadan, daha hafif ve kişiselleştirilebilir bir yazılımla yönetmek isteyen kullanıcılar içindir. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/AprilNEA/OpenLogi)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+DPI Rust Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/openlogi/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Kendi sunucunuzu yönetme rehberi
 
 Self-Hosting Guide, yerel ağlarda veya özel web sunucularında yazılım uygulamalarını barındırma ve yönetme süreçlerine dair kapsamlı bir rehber sunuyor. Bulut bilişim, büyük dil modelleri (large language models), otomasyon ve ağ yapılandırması gibi konularda teknik kaynaklar sağlıyor.
@@ -49788,62 +50050,6 @@ Self-hosting Large Language Models Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/self-hosting-guide/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Logitech cihazlar için açık kaynaklı yönetim
-
-OpenLogi, Logitech Options+ için Rust ile yazılmış, yerel öncelikli ve açık kaynaklı bir alternatiftir. Hesap veya telemetri gerektirmeden düğmeleri, DPI'ı ve SmartShift'i yapılandırır.
-
-- ★ 22.300
-- Rust
-- GitHub Trending · 2026-08-20
-
-## Güncelleme
-- 27 Eylül 2026: Yıldız 22.267 → 22.300, son sürüm v0.8.9 (27 Eylül 2026).
-- 27 Eylül 2026: Yıldız 21.261 → 22.267, son sürüm v0.8.8 (25 Eylül 2026).
-- 16 Eylül 2026: Yıldız 20.415 → 21.261, son sürüm v0.8.5 (16 Eylül 2026).
-- 10 Eylül 2026: Yıldız 19.378 → 20.415, son sürüm v0.8.3 (30 Ağustos 2026).
-
-## Ne kazandırır?
-- Hesap oluşturmadan yerel kontrol sağlar
-- Tüm tuşlara özel kısayollar atar
-- Linux dahil çoklu platform desteği sunar
-
-## Kurulum
-
-**Homebrew ile standart kurulum**
-
-```
-brew install --cask openlogi
-```
-
-**En güncel sürümü takip etme**
-
-```
-brew tap aprilnea/tap
-brew install --cask aprilnea/tap/openlogi@latest
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Logitech farem, klavyem ve web kameram üzerinde tam kontrol sağlamak istiyorum. OpenLogi kullanarak tuş atamalarımı, DPI hassasiyet ayarlarımı ve kamera görüntü kontrollerimi nasıl yapılandırabilirim? Özellikle TOML formatındaki yapılandırma dosyası ile cihazlarımı nasıl özelleştirebileceğimi ve uygulama bazlı profilleri nasıl oluşturabileceğimi adım adım açıkla.
-
-- **Kimin için:** Logitech çevre birimlerini hesap zorunluluğu olmadan, daha hafif ve kişiselleştirilebilir bir yazılımla yönetmek isteyen kullanıcılar içindir. 
-- **Lisans:** Apache-2.0 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/AprilNEA/OpenLogi)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-20 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-DPI Rust Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/openlogi/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -50188,83 +50394,6 @@ TUI CLI Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/witr/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Hafif veritabanı istemcisi
-
-Rust diliyle geliştirilen dbx, 100'den fazla veritabanı türünü destekleyen 25 MB boyutunda hafif bir veritabanı istemcisi (database client) sunuyor. Masaüstü uygulaması, komut satırı arayüzü (CLI) ve Docker desteğinin yanı sıra yerleşik yapay zekâ asistanı ve Model Bağlantı Protokolü (MCP) gibi özellikler içeriyor.
-
-- ★ 21.950
-- Rust
-- GitHub Trending · 2026-09-29
-
-## Güncelleme
-- 29 Eylül 2026: Yıldız 21.621 → 21.950, son sürüm v0.6.28 (29 Eylül 2026).
-- 29 Eylül 2026: Yıldız 21.615 → 21.621, son sürüm v0.6.27 (28 Eylül 2026).
-
-## Ne kazandırır?
-- Yüzden fazla veritabanı türünü destekler.
-- Masaüstü, Docker ve komut satırı ile çalışır.
-- Yapay zekâ asistanı ve Model Bağlantı Protokolü içerir.
-
-## Kurulum
-
-**Masaüstü Uygulaması Kurulumu**
-
-```
-brew install --cask dbx
-```
-
-**Komut Satırı Aracı Kurulumu**
-
-```
-npm install -g @dbx-app/cli
-# or via Homebrew
-brew tap t8y2/tap && brew install dbx-cli
-dbx agent setup
-dbx connections list --json
-dbx query local "select 1" --json
-```
-
-## Çalıştırma
-
-**Docker ile Çalıştırma**
-
-```
-# The default keeps the key in the persistent /app/data volume.
-docker run -d --pull=always --name dbx -p 4224:4224 \
--v dbx-data:/app/data \
-t8y2/dbx:latest
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-dbx uygulamasını kurmak ve çalıştırmak için gerekli adımları uygula. Masaüstü uygulaması için brew install --cask dbx komutunu, komut satırı aracı için ise npm install -g @dbx-app/cli
-# or via Homebrew
-brew tap t8y2/tap && brew install dbx-cli
-dbx agent setup
-dbx connections list --json
-dbx query local "select 1" --json komutlarını kullan. Docker ile çalıştırmak istersen # The default keeps the key in the persistent /app/data volume.
-docker run -d --pull=always --name dbx -p 4224:4224 \
--v dbx-data:/app/data \
-t8y2/dbx:latest komutunu çalıştır.
-
-- **Kimin için:** Farklı veritabanı türlerini hafif bir arayüz ve yapay zekâ desteğiyle yönetmek isteyen geliştiriciler içindir. 
-- **Lisans:** Apache-2.0 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/t8y2/dbx)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-29 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Database Client Local Database MCP Agent CLI
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/dbx/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -51821,6 +51950,114 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# GitHub depolarını etkileşimli mimari şemalara dönüştürün
+
+Gitdiagram, GitHub depolarındaki karmaşık dosya yapılarını ve kod ilişkilerini saniyeler içinde görselleştiren açık kaynaklı bir araçtır. URL'deki tek bir harfi değiştirerek devasa kod tabanlarının sistem mimarisini interaktif diyagramlar halinde sunar.
+
+- ★ 17.581
+- TypeScript
+- GitHub Trending · 2026-09-19
+
+## Güncelleme
+- 30 Eylül 2026: Yıldız 16.568 → 17.581.
+
+Gitdiagram arayüzü: GitHub deposunu etkileşimli sistem mimarisi şemasına dönüştüren görsel analiz paneli. 
+
+## Ne kazandırır?
+- Saniyeler İçinde Kod Haritası: Binlerce satırlık yabancı bir depoda kaybolmadan sistem mimarisini, ana modülleri ve veri akışını kuşbakışı görün.
+- Tek Tıkla URL Kısayolu: Herhangi bir GitHub repo URL'sindeki github.com kısmını gitdiagram.com yaparak kurulumsuz anında şema üretin.
+- İnteraktif Düğümler: Şema üzerindeki kutulara tıklayarak doğrudan GitHub'daki ilgili kaynak kod dosyasına veya klasörüne gidin.
+- Dışa Aktarma Desteği: Oluşturulan mimari şemaları dokümantasyon veya sunumlar için PNG, SVG veya metin biçiminde indirin.
+
+## Tek tıkla kullanım: URL değiştirme kısayolu
+
+Gitdiagram'ın en pratik yanı hiçbir kurulum gerektirmeden tarayıcı üzerinden çalışmasıdır. İncelemek istediğiniz herhangi bir açık kaynaklı deponun adresindeki hub kelimesini silip yerine diagram yazmanız yeterlidir:
+
+**URL Kısayolu Örneği**
+
+```
+# Orijinal GitHub adresi:
+https://github.com/facebook/react
+
+# Gitdiagram etkileşimli şema adresi:
+https://gitdiagram.com/facebook/react
+```
+
+Bu bağlantıya girdiğiniz anda Gitdiagram arkaplanda depoyu tarar, dosya ağacını analiz eder ve interaktif şemayı tarayıcınızda açar.
+
+## Teknik mimari ve çalışma mantığı
+
+Gitdiagram, kod tabanını salt metin olarak değil, ilişkisel bir sistem grafı olarak ele alır:
+
+1. Ağaç Çıkarma (Tree Ingestion): GitHub REST ve GraphQL API'lerini kullanarak deponun dosya ağacını, paket yöneticisi tanımlarını ( package.json , Cargo.toml , go.mod ) ve dizin hiyerarşisini çeker.
+
+2. Semantik Analiz ve İlişkilendirme: Modüller arasındaki import zincirlerini ve servis sınırlarını tespit eder. LLM entegrasyonu (OpenAI / Claude API) ile bileşenlerin rollerini (API Gateway, Controller, Database Adapter) etiketler.
+
+3. Vektörel Çizim Motoru: Elde edilen grafı React Flow ve SVG tabanlı bir sanal tuvale dönüştürür. Düğümler arası veri akışı yönlü oklarla görselleştirilir.
+
+## Kurulum ve yerel dağıtım
+
+Kendi API anahtarlarınızla çalıştırmak veya özel (private) depolarınızı kendi sunucunuzda görselleştirmek için Gitdiagram'ı yerel ortamınızda başlatabilirsiniz:
+
+**Yerel ortamı hazırlama ve bağımlılıkları kurma**
+
+```
+git clone https://github.com/ahmedkhaleel2004/gitdiagram.git
+cd gitdiagram
+bun install
+cp .env.example .env
+```
+
+**Geliştirme sunucusunu başlatma**
+
+```
+# .env içine GITHUB_TOKEN ve OPENAI_API_KEY ekleyin
+bun run dev
+```
+
+## Kod bilmiyorsanız: Yapay zekâ ajanı istemi
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Gitdiagram mimarisini temel alarak incelediğim GitHub deposunun sistem şemasını oluştur. Depodaki ana bileşenleri, veri akış yönlerini, giriş noktalarını (entry points) ve harici bağımlılıkları tespit et. Mimariyi Mermaid.js formatında bir flowchart olarak çiz ve her bileşenin işlevini ikişer cümleyle açıkla.
+
+## Kritik uyarılar ve sınırlar
+- Devasa Monorepolar: On binlerce dosya içeren monorepolarda GitHub API hız limitine (rate limit) takılabilir. Kişisel GitHub token kullanmak sınırları genişletir.
+- Özel (Private) Depolar: Bulut sürümü yalnızca herkese açık (public) depoları destekler. Şirket içi kapalı depolar için aracı yerel sunucunuzda kendi token'ınızla çalıştırmalısınız.
+- LLM Token Maliyeti: Kendi sunucunuzda çalıştırırken büyük repolarda harcanan LLM API token miktarını optimize etmek için dosya filtreleme kurallarını yapılandırmalısınız.
+
+## Sıkça sorulan sorular
+
+Gitdiagram'ı kullanmak ücretli mi?
+
+Hayır, Gitdiagram açık kaynaklıdır (MIT lisansı). Web sürümü herkese açık repolar için ücretsizdir, yerel sürümü de kendi donanımınızda bedelsiz çalıştırabilirsiniz.
+
+Özel (private) GitHub depolarımda kullanabilir miyim?
+
+Evet. Bunun için projeyi GitHub'dan klonlayıp kendi makinenizde çalıştırmalı ve özel deponuza erişim yetkisi olan bir GitHub Personal Access Token (PAT) tanımlamalısınız.
+
+Büyük projelerde şema karmaşıklaşır mı?
+
+Gitdiagram derinlik filtreleri sunar. Çok katmanlı projelerde ana dizin seviyesinde özet şema alabilir veya ilgilendiğiniz alt modülü seçip detayına inebilirsiniz.
+
+Oluşturulan şemayı sunumuma ekleyebilir miyim?
+
+Evet, arayüz üzerinden tek tıkla şemanın yüksek çözünürlüklü PNG veya SVG çıktısını alabilir, doğrudan tasarım ve dokümantasyon araçlarınıza yapıştırabilirsiniz.
+
+## Bağlantılar
+- [GitHub deposu (ahmedkhaleel2004/gitdiagram) →](https://github.com/ahmedkhaleel2004/gitdiagram)
+- [Gitdiagram Canlı Web Uygulaması →](https://gitdiagram.com)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun güncel teknik mimarisini ve açık kaynak topluluğundaki kullanım pratiklerini özetler. Detaylar için resmi depoya bakın.
+
+## İlgili sözlük terimleri
+SVG Mermaid API Gateway Gateway Database Token
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/gitdiagram/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Yapay zekâ ajanları için çalışma alanı yönetimi
 
 Gas Town, çoklu ajan çalışma alanı yöneticisi (multi-agent workspace manager) olarak farklı yapay zekâ ajanlarının bir arada çalışmasını sağlayan bir altyapı sunuyor. Go diliyle geliştirilen bu araç, karmaşık iş akışlarında ajanlar arası koordinasyonu ve kaynak yönetimini merkezileştiriyor.
@@ -52279,111 +52516,6 @@ Vector Index Bindings Vector Database RAG Rust Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/turbovec/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# GitHub depolarını etkileşimli mimari şemalara dönüştürün
-
-Gitdiagram, GitHub depolarındaki karmaşık dosya yapılarını ve kod ilişkilerini saniyeler içinde görselleştiren açık kaynaklı bir araçtır. URL'deki tek bir harfi değiştirerek devasa kod tabanlarının sistem mimarisini interaktif diyagramlar halinde sunar.
-
-- ★ 16.568
-- TypeScript
-- GitHub Trending · 2026-09-19
-
-Gitdiagram arayüzü: GitHub deposunu etkileşimli sistem mimarisi şemasına dönüştüren görsel analiz paneli. 
-
-## Ne kazandırır?
-- Saniyeler İçinde Kod Haritası: Binlerce satırlık yabancı bir depoda kaybolmadan sistem mimarisini, ana modülleri ve veri akışını kuşbakışı görün.
-- Tek Tıkla URL Kısayolu: Herhangi bir GitHub repo URL'sindeki github.com kısmını gitdiagram.com yaparak kurulumsuz anında şema üretin.
-- İnteraktif Düğümler: Şema üzerindeki kutulara tıklayarak doğrudan GitHub'daki ilgili kaynak kod dosyasına veya klasörüne gidin.
-- Dışa Aktarma Desteği: Oluşturulan mimari şemaları dokümantasyon veya sunumlar için PNG, SVG veya metin biçiminde indirin.
-
-## Tek tıkla kullanım: URL değiştirme kısayolu
-
-Gitdiagram'ın en pratik yanı hiçbir kurulum gerektirmeden tarayıcı üzerinden çalışmasıdır. İncelemek istediğiniz herhangi bir açık kaynaklı deponun adresindeki hub kelimesini silip yerine diagram yazmanız yeterlidir:
-
-**URL Kısayolu Örneği**
-
-```
-# Orijinal GitHub adresi:
-https://github.com/facebook/react
-
-# Gitdiagram etkileşimli şema adresi:
-https://gitdiagram.com/facebook/react
-```
-
-Bu bağlantıya girdiğiniz anda Gitdiagram arkaplanda depoyu tarar, dosya ağacını analiz eder ve interaktif şemayı tarayıcınızda açar.
-
-## Teknik mimari ve çalışma mantığı
-
-Gitdiagram, kod tabanını salt metin olarak değil, ilişkisel bir sistem grafı olarak ele alır:
-
-1. Ağaç Çıkarma (Tree Ingestion): GitHub REST ve GraphQL API'lerini kullanarak deponun dosya ağacını, paket yöneticisi tanımlarını ( package.json , Cargo.toml , go.mod ) ve dizin hiyerarşisini çeker.
-
-2. Semantik Analiz ve İlişkilendirme: Modüller arasındaki import zincirlerini ve servis sınırlarını tespit eder. LLM entegrasyonu (OpenAI / Claude API) ile bileşenlerin rollerini (API Gateway, Controller, Database Adapter) etiketler.
-
-3. Vektörel Çizim Motoru: Elde edilen grafı React Flow ve SVG tabanlı bir sanal tuvale dönüştürür. Düğümler arası veri akışı yönlü oklarla görselleştirilir.
-
-## Kurulum ve yerel dağıtım
-
-Kendi API anahtarlarınızla çalıştırmak veya özel (private) depolarınızı kendi sunucunuzda görselleştirmek için Gitdiagram'ı yerel ortamınızda başlatabilirsiniz:
-
-**Yerel ortamı hazırlama ve bağımlılıkları kurma**
-
-```
-git clone https://github.com/ahmedkhaleel2004/gitdiagram.git
-cd gitdiagram
-bun install
-cp .env.example .env
-```
-
-**Geliştirme sunucusunu başlatma**
-
-```
-# .env içine GITHUB_TOKEN ve OPENAI_API_KEY ekleyin
-bun run dev
-```
-
-## Kod bilmiyorsanız: Yapay zekâ ajanı istemi
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Gitdiagram mimarisini temel alarak incelediğim GitHub deposunun sistem şemasını oluştur. Depodaki ana bileşenleri, veri akış yönlerini, giriş noktalarını (entry points) ve harici bağımlılıkları tespit et. Mimariyi Mermaid.js formatında bir flowchart olarak çiz ve her bileşenin işlevini ikişer cümleyle açıkla.
-
-## Kritik uyarılar ve sınırlar
-- Devasa Monorepolar: On binlerce dosya içeren monorepolarda GitHub API hız limitine (rate limit) takılabilir. Kişisel GitHub token kullanmak sınırları genişletir.
-- Özel (Private) Depolar: Bulut sürümü yalnızca herkese açık (public) depoları destekler. Şirket içi kapalı depolar için aracı yerel sunucunuzda kendi token'ınızla çalıştırmalısınız.
-- LLM Token Maliyeti: Kendi sunucunuzda çalıştırırken büyük repolarda harcanan LLM API token miktarını optimize etmek için dosya filtreleme kurallarını yapılandırmalısınız.
-
-## Sıkça sorulan sorular
-
-Gitdiagram'ı kullanmak ücretli mi?
-
-Hayır, Gitdiagram açık kaynaklıdır (MIT lisansı). Web sürümü herkese açık repolar için ücretsizdir, yerel sürümü de kendi donanımınızda bedelsiz çalıştırabilirsiniz.
-
-Özel (private) GitHub depolarımda kullanabilir miyim?
-
-Evet. Bunun için projeyi GitHub'dan klonlayıp kendi makinenizde çalıştırmalı ve özel deponuza erişim yetkisi olan bir GitHub Personal Access Token (PAT) tanımlamalısınız.
-
-Büyük projelerde şema karmaşıklaşır mı?
-
-Gitdiagram derinlik filtreleri sunar. Çok katmanlı projelerde ana dizin seviyesinde özet şema alabilir veya ilgilendiğiniz alt modülü seçip detayına inebilirsiniz.
-
-Oluşturulan şemayı sunumuma ekleyebilir miyim?
-
-Evet, arayüz üzerinden tek tıkla şemanın yüksek çözünürlüklü PNG veya SVG çıktısını alabilir, doğrudan tasarım ve dokümantasyon araçlarınıza yapıştırabilirsiniz.
-
-## Bağlantılar
-- [GitHub deposu (ahmedkhaleel2004/gitdiagram) →](https://github.com/ahmedkhaleel2004/gitdiagram)
-- [Gitdiagram Canlı Web Uygulaması →](https://gitdiagram.com)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun güncel teknik mimarisini ve açık kaynak topluluğundaki kullanım pratiklerini özetler. Detaylar için resmi depoya bakın.
-
-## İlgili sözlük terimleri
-SVG Mermaid API Gateway Gateway Database Token
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/gitdiagram/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -60512,6 +60644,55 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Kodlama asistanları için yapay zekâ araçları
+
+Google tarafından geliştirilen komut satırı arayüzü (CLI), kodlama asistanlarını Google Bulut (Google Cloud) üzerinde yapay zekâ ajanları oluşturma, değerlendirme ve dağıtma konusunda uzmanlaştırıyor. Python tabanlı bu araç, ajan geliştirme süreçlerini standartlaştırarak bulut altyapısı üzerindeki operasyonel iş akışlarını hızlandırıyor.
+
+- ★ 6.033
+- Python
+- GitHub Trending · 2026-07-01
+
+## Güncelleme
+- 30 Eylül 2026: Yıldız 6.009 → 6.033, son sürüm v1.8.0 (30 Eylül 2026).
+- 27 Eylül 2026: Yıldız 5.948 → 6.009, son sürüm v1.7.0 (22 Eylül 2026).
+- 17 Eylül 2026: Yıldız 5.788 → 5.948, son sürüm v1.6.1 (16 Eylül 2026).
+- 2 Eylül 2026: Yıldız 5.770 → 5.788, son sürüm v1.5.0 (1 Eylül 2026).
+
+## Ne kazandırır?
+- Google Cloud üzerinde ajan geliştirme süreçlerini standartlaştırır
+- Kodlama asistanlarına ajan oluşturma ve dağıtma yetisi kazandırır
+- Ajan projeleri için değerlendirme ve ölçeklendirme desteği sağlar
+
+## Kurulum
+
+**Kodlama asistanına yetenek ekleme**
+
+```
+npx skills add google/agents-cli
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Google Cloud üzerinde bir yapay zekâ ajanı geliştirmek istiyorum. agents-cli aracını kullanarak ajan projeleri oluşturma, değerlendirme ve dağıtma süreçlerinde bana rehberlik et. İlk olarak bir ajan projesi iskeleti oluşturmamda yardımcı ol ve ardından bu projeyi nasıl geliştirebileceğimi adım adım açıkla.
+
+- **Kimin için:** Google Cloud üzerinde yapay zekâ ajanları geliştiren ve mevcut kodlama asistanlarının yeteneklerini artırmak isteyen geliştiriciler içindir. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/google/agents-cli)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Google Cloud CLI Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/agents-cli/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Yapay zekâ kodlama ajanları için çalışma alanı
 
 PI-Desktop, yerel öncelikli (local-first) çalışma prensibiyle geliştirilen bir yapay zekâ kodlama ajanıdır. Elektron (masaüstü uygulama geliştirme çatısı) ve Rust (sistem programlama dili) tabanlı mimarisiyle, kullanıcıların kendi eklentilerini kurabildiği kişiselleştirilebilir bir yazılım geliştirme ortamı sunar.
@@ -60572,55 +60753,6 @@ Local-first Terminal Rust Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/pi-desktop/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Kodlama asistanları için yapay zekâ araçları
-
-Google tarafından geliştirilen komut satırı arayüzü (CLI), kodlama asistanlarını Google Bulut (Google Cloud) üzerinde yapay zekâ ajanları oluşturma, değerlendirme ve dağıtma konusunda uzmanlaştırıyor. Python tabanlı bu araç, ajan geliştirme süreçlerini standartlaştırarak bulut altyapısı üzerindeki operasyonel iş akışlarını hızlandırıyor.
-
-- ★ 6.009
-- Python
-- GitHub Trending · 2026-07-01
-
-## Güncelleme
-- 27 Eylül 2026: Yıldız 5.948 → 6.009, son sürüm v1.7.0 (22 Eylül 2026).
-- 17 Eylül 2026: Yıldız 5.788 → 5.948, son sürüm v1.6.1 (16 Eylül 2026).
-- 2 Eylül 2026: Yıldız 5.770 → 5.788, son sürüm v1.5.0 (1 Eylül 2026).
-- 31 Ağustos 2026: Yıldız 5.736 → 5.770, son sürüm v1.4.2 (28 Ağustos 2026).
-
-## Ne kazandırır?
-- Google Cloud üzerinde ajan geliştirme süreçlerini standartlaştırır
-- Kodlama asistanlarına ajan oluşturma ve dağıtma yetisi kazandırır
-- Ajan projeleri için değerlendirme ve ölçeklendirme desteği sağlar
-
-## Kurulum
-
-**Kodlama asistanına yetenek ekleme**
-
-```
-npx skills add google/agents-cli
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Google Cloud üzerinde bir yapay zekâ ajanı geliştirmek istiyorum. agents-cli aracını kullanarak ajan projeleri oluşturma, değerlendirme ve dağıtma süreçlerinde bana rehberlik et. İlk olarak bir ajan projesi iskeleti oluşturmamda yardımcı ol ve ardından bu projeyi nasıl geliştirebileceğimi adım adım açıkla.
-
-- **Kimin için:** Google Cloud üzerinde yapay zekâ ajanları geliştiren ve mevcut kodlama asistanlarının yeteneklerini artırmak isteyen geliştiriciler içindir. 
-- **Lisans:** Apache-2.0 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/google/agents-cli)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-07-01 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Google Cloud CLI Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/agents-cli/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -61191,6 +61323,56 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yerel yapay zekâ modellerini bilgisayarınızda çalıştırın
+
+Magnitude, mevcut yapay zekâ ajanlarıyla entegre çalışan ve donanımınıza uygun yerel modelleri çalıştırmanızı sağlayan açık kaynaklı bir çıkarım sunucusu (inference server). Cline gibi kodlama asistanları ve çeşitli açık kaynaklı modellerle uyumlu çalışarak yerel bilgisayar gücünden yararlanmayı kolaylaştırıyor.
+
+- ★ 5.482
+- TypeScript
+- GitHub Trending · 2026-09-04
+
+## Güncelleme
+- 30 Eylül 2026: Yıldız 5.180 → 5.482, son sürüm @magnitudedev/cli@0.2.0 (30 Eylül 2026).
+- 27 Eylül 2026: Yıldız 4.663 → 5.180, son sürüm @magnitudedev/cli@0.1.5 (23 Eylül 2026).
+- 19 Eylül 2026: Yıldız 4.622 → 4.663, son sürüm @magnitudedev/cli@0.1.3 (18 Eylül 2026).
+- 18 Eylül 2026: Yıldız 4.600 → 4.622, son sürüm @magnitudedev/cli@0.1.2 (18 Eylül 2026).
+
+## Ne kazandırır?
+- Donanımınıza en uygun yerel modelleri otomatik belirler
+- İnternet bağlantısı olmadan tamamen çevrimdışı çalışır
+- Yapay zekâ asistanlarıyla entegre olarak token maliyetini sıfırlar
+
+## Kurulum
+
+**CLI aracını yükleyin ve kurulumu başlatı**
+
+```
+npm i -g @magnitudedev/cli
+magnitude setup
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Set up local models for me with the Magnitude CLI. Install it with `npm i -g @magnitudedev/cli` (or my package manager), then run `magnitude docs onboarding` and follow the instructions.
+
+- **Kimin için:** Kodlama asistanlarını kullanan ve verilerini bulut yerine kendi bilgisayarında tutmak isteyen geliştiriciler için uygundur. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/magnitudedev/magnitude)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Local Inference Server Inference Token CLI Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/magnitude/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # FxEmbed
 
 FxEmbed, X ve Bluesky platformlarındaki paylaşımların Discord veya Telegram gibi uygulamalarda düzgün görünmesini sağlayan bir içerik gömme (embed) aracıdır. Çoklu görsel, video ve anket gibi medya öğelerinin mesajlaşma platformlarında eksiksiz görüntülenmesini sağlar.
@@ -61682,56 +61864,6 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
-# Yerel yapay zekâ modellerini bilgisayarınızda çalıştırın
-
-Magnitude, mevcut yapay zekâ ajanlarıyla entegre çalışan ve donanımınıza uygun yerel modelleri çalıştırmanızı sağlayan açık kaynaklı bir çıkarım sunucusu (inference server). Cline gibi kodlama asistanları ve çeşitli açık kaynaklı modellerle uyumlu çalışarak yerel bilgisayar gücünden yararlanmayı kolaylaştırıyor.
-
-- ★ 5.180
-- TypeScript
-- GitHub Trending · 2026-09-04
-
-## Güncelleme
-- 27 Eylül 2026: Yıldız 4.663 → 5.180, son sürüm @magnitudedev/cli@0.1.5 (23 Eylül 2026).
-- 19 Eylül 2026: Yıldız 4.622 → 4.663, son sürüm @magnitudedev/cli@0.1.3 (18 Eylül 2026).
-- 18 Eylül 2026: Yıldız 4.600 → 4.622, son sürüm @magnitudedev/cli@0.1.2 (18 Eylül 2026).
-- 17 Eylül 2026: Yıldız 4.213 → 4.600, son sürüm @magnitudedev/cli@0.0.15 (16 Eylül 2026).
-
-## Ne kazandırır?
-- Donanımınıza en uygun yerel modelleri otomatik belirler
-- İnternet bağlantısı olmadan tamamen çevrimdışı çalışır
-- Yapay zekâ asistanlarıyla entegre olarak token maliyetini sıfırlar
-
-## Kurulum
-
-**CLI aracını yükleyin ve kurulumu başlatı**
-
-```
-npm i -g @magnitudedev/cli
-magnitude setup
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Set up local models for me with the Magnitude CLI. Install it with `npm i -g @magnitudedev/cli` (or my package manager), then run `magnitude docs onboarding` and follow the instructions.
-
-- **Kimin için:** Kodlama asistanlarını kullanan ve verilerini bulut yerine kendi bilgisayarında tutmak isteyen geliştiriciler için uygundur. 
-- **Lisans:** Apache-2.0 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/magnitudedev/magnitude)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-04 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Local Inference Server Inference Token CLI Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/magnitude/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
 # Yapay zekâ ajanınıza yerel web yetenekleri
 
 Wigolo, yapay zekâ kodlama ajanları için yerel öncelikli (local-first) arama, veri çekme ve tarama yetenekleri sunan bir araçtır. Model bağlamı protokolü (MCP) üzerinden çalışan bu sistem, bulut bağımlılığı olmadan ve API anahtarı gerektirmeden ücretsiz araştırma imkânı sağlar.
@@ -61972,6 +62104,55 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Eski cihazlarınızı ikinci monitöre dönüştürün
+
+OpenDisplay, iPhone veya iPad cihazlarını Mac bilgisayarlar için ikinci bir monitöre dönüştüren açık kaynaklı bir ekran genişletme aracıdır. USB veya kablosuz bağlantı üzerinden düşük gecikmeli görüntü aktarımı sağlayan uygulama, Apple'ın kendi çözümü olan Sidecar'a ücretsiz bir alternatif sunar.
+
+- ★ 4.912
+- Swift
+- GitHub Trending · 2026-09-15
+
+## Güncelleme
+- 30 Eylül 2026: Yıldız 4.905 → 4.912, son sürüm v1.24.0 (30 Eylül 2026).
+- 30 Eylül 2026: Yıldız 4.897 → 4.905, son sürüm v1.23.0 (30 Eylül 2026).
+- 29 Eylül 2026: Yıldız 4.823 → 4.897, son sürüm v1.22.1 (29 Eylül 2026).
+- 27 Eylül 2026: Yıldız 4.577 → 4.823, son sürüm v1.22.0 (23 Eylül 2026).
+
+## Ne kazandırır?
+- iPhone veya iPad cihazlarını Mac için gerçek bir ikinci ekran olarak kullanın.
+- USB kablosu ile düşük gecikmeli görüntü aktarımı sağlayın.
+- Abonelik veya hesap gerektirmeyen tamamen açık kaynaklı bir çözüm.
+
+## Kurulum
+
+**Proje oluşturma aracı kurulumu**
+
+```
+brew install xcodegen # project generation
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+OpenDisplay kullanarak iPhone veya iPad cihazımı Mac bilgisayarım için ikinci bir monitör olarak nasıl yapılandırabilirim? Cihazımı kablolu veya kablosuz bağlantı ile bağlarken dikkat etmem gereken ağ izinleri ve kablo türü gereksinimleri nelerdir?
+
+- **Kimin için:** Ekran alanını genişletmek isteyen ancak Apple Sidecar kısıtlamalarına takılmak istemeyen Mac kullanıcıları içindir. 
+- **Lisans:** GPL-3.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/peetzweg/opendisplay)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-15 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/opendisplay/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Derin ogrenme modellerini sikistiran kutuphane
 
 NVIDIA Model Optimizer, derin öğrenme modellerini nicemleme (quantization), damıtma (distillation) ve budama (pruning) gibi tekniklerle sıkıştıran bir kütüphanedir. Bu araç, modellerin çıkarım hızını artırmak için TensorRT-LLM gibi çıkarım motorlarında (inference engines) kullanıma hazır hale getirir.
@@ -62012,55 +62193,6 @@ Quantization Distillation Pruning Inference Artificial Intelligence
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/model-optimizer/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Eski cihazlarınızı ikinci monitöre dönüştürün
-
-OpenDisplay, iPhone veya iPad cihazlarını Mac bilgisayarlar için ikinci bir monitöre dönüştüren açık kaynaklı bir ekran genişletme aracıdır. USB veya kablosuz bağlantı üzerinden düşük gecikmeli görüntü aktarımı sağlayan uygulama, Apple'ın kendi çözümü olan Sidecar'a ücretsiz bir alternatif sunar.
-
-- ★ 4.905
-- Swift
-- GitHub Trending · 2026-09-15
-
-## Güncelleme
-- 30 Eylül 2026: Yıldız 4.897 → 4.905, son sürüm v1.23.0 (30 Eylül 2026).
-- 29 Eylül 2026: Yıldız 4.823 → 4.897, son sürüm v1.22.1 (29 Eylül 2026).
-- 27 Eylül 2026: Yıldız 4.577 → 4.823, son sürüm v1.22.0 (23 Eylül 2026).
-- 19 Eylül 2026: Yıldız 4.537 → 4.577, son sürüm v1.21.0 (18 Eylül 2026).
-
-## Ne kazandırır?
-- iPhone veya iPad cihazlarını Mac için gerçek bir ikinci ekran olarak kullanın.
-- USB kablosu ile düşük gecikmeli görüntü aktarımı sağlayın.
-- Abonelik veya hesap gerektirmeyen tamamen açık kaynaklı bir çözüm.
-
-## Kurulum
-
-**Proje oluşturma aracı kurulumu**
-
-```
-brew install xcodegen # project generation
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-OpenDisplay kullanarak iPhone veya iPad cihazımı Mac bilgisayarım için ikinci bir monitör olarak nasıl yapılandırabilirim? Cihazımı kablolu veya kablosuz bağlantı ile bağlarken dikkat etmem gereken ağ izinleri ve kablo türü gereksinimleri nelerdir?
-
-- **Kimin için:** Ekran alanını genişletmek isteyen ancak Apple Sidecar kısıtlamalarına takılmak istemeyen Mac kullanıcıları içindir. 
-- **Lisans:** GPL-3.0 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/peetzweg/opendisplay)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-15 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/opendisplay/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -62503,15 +62635,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 DeskcommCRM, sohbet üzerinden satış yapan işletmeler için geliştirilmiş açık kaynaklı bir müşteri ilişkileri yönetimi (CRM) platformu. WhatsApp entegrasyonu ve yerleşik yapay zekâ ajanlarıyla, benzer işlevlere sahip ticari yazılımlara (Kommo, Octadesk, Intercom) kendi sunucunuzda barındırabileceğiniz bir alternatif sunuyor.
 
-- ★ 4.281
+- ★ 4.287
 - TypeScript
 - GitHub Trending · 2026-09-12
 
 ## Güncelleme
+- 30 Eylül 2026: Yıldız 4.281 → 4.287, son sürüm v1.66.1 (30 Eylül 2026).
 - 30 Eylül 2026: Yıldız 4.264 → 4.281, son sürüm v1.66.0 (30 Eylül 2026).
 - 29 Eylül 2026: Yıldız 4.239 → 4.264, son sürüm v1.64.0 (29 Eylül 2026).
 - 29 Eylül 2026: Yıldız 4.187 → 4.239, son sürüm v1.63.2 (29 Eylül 2026).
-- 28 Eylül 2026: Yıldız 4.173 → 4.187, son sürüm v1.59.0 (28 Eylül 2026).
 
 ## Ne kazandırır?
 - WhatsApp üzerinden otomatik satış ve müşteri yönetimi sağlar.
@@ -62671,10 +62803,11 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Codex-X, OpenAI Codex modellerini yönetmek için geliştirilen, Rust diliyle yazılmış görsel bir masaüstü ve komut satırı arayüzü aracıdır. Yazılım; API yönetimi, oturum senkronizasyonu, istem enjeksiyonu (prompt injection) ve yetenek (skills) yönetimi gibi özelliklerle geliştirici deneyimini merkezileştirir.
 
-- ★ 3.958
+- ★ 3.999
 - GitHub Trending · 2026-09-20
 
 ## Güncelleme
+- 30 Eylül 2026: Yıldız 3.958 → 3.999, son sürüm v0.3.22 (30 Eylül 2026).
 - 27 Eylül 2026: Yıldız 3.816 → 3.958, son sürüm v0.3.21 (22 Eylül 2026).
 
 ## Ne kazandırır?
@@ -63226,11 +63359,12 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Superlinked tarafından geliştirilen SIE, yapay zekâ ajanlarının ihtiyaç duyduğu modelleri çalıştırmak için kullanılan açık kaynaklı bir çıkarım sunucusu (inference server) ve üretim kümesidir. Python tabanlı bu yapı, karmaşık model dağıtımlarını yönetmeyi ve ölçeklenebilir bir altyapı sunmayı hedefler.
 
-- ★ 3.325
+- ★ 3.350
 - Python
 - GitHub Trending · 2026-09-03
 
 ## Güncelleme
+- 30 Eylül 2026: Yıldız 3.325 → 3.350, son sürüm v0.9.0 (30 Eylül 2026).
 - 27 Eylül 2026: Yıldız 3.198 → 3.325, son sürüm v0.8.3 (26 Eylül 2026).
 - 4 Eylül 2026: Yıldız 3.157 → 3.198, son sürüm v0.7.3 (3 Eylül 2026).
 - 3 Eylül 2026: Yıldız 3.155 → 3.157, son sürüm v0.7.2 (27 Ağustos 2026).

@@ -1,79 +1,63 @@
-# Transforme repositórios GitHub em diagramas interativos de arquitetura
+# Converta repositórios do GitHub em esquemas de arquitetura interativos
 
-> Gitdiagram · TypeScript · ★ 16.568
+Gitdiagram é uma ferramenta de código aberto que visualiza estruturas de arquivos complexas e relações de código em repositórios do GitHub em segundos. Ao alterar uma única letra no URL, ela apresenta a arquitetura de sistemas de bases de código massivas em diagramas interativos.
 
-O Gitdiagram é uma ferramenta de código aberto que mapeia bases de código complexas em segundos. Trocando uma única palavra na URL do GitHub, ele gera diagramas interativos da arquitetura do sistema no seu navegador.
+- ★ 17.581
+- TypeScript
+- GitHub Trending · 2026-09-19
 
 ## O que você ganha
-- Mapeamento Rápido de Código: Entenda a arquitetura global e o fluxo de dados de repositórios desconhecidos sem se perder em subpastas.
-- Atalho Direto pela URL: Troque github.com por gitdiagram.com no link do repositório para abrir o diagrama sem instalar nada.
-- Navegação Interativa: Clique nos nós do esquema para ir direto ao arquivo de código-fonte correspondente no GitHub.
-- Exportação Flexível: Exporte os diagramas gerados em alta resolução como PNG, SVG ou texto estruturado para apresentações e documentação.
+- Mapa de Código em Segundos: Veja a arquitetura do sistema, os principais módulos e o fluxo de dados a partir de uma visão panorâmica, sem se perder em milhares de linhas de um repositório desconhecido.
+- Atalho de URL com Um Clique: Gere diagramas instantaneamente sem instalação, substituindo github.com por gitdiagram.com em qualquer URL de repositório do GitHub.
+- Nós Interativos: Clique nas caixas do esquema para ir diretamente para o arquivo ou pasta de código-fonte correspondente no GitHub.
+- Suporte de Exportação: Baixe os diagramas de arquitetura gerados nos formatos PNG, SVG ou texto para documentação ou apresentações.
 
-## Uso imediato: O atalho na URL
-A maior vantagem do Gitdiagram é funcionar direto pelo navegador sem fricção. Basta substituir hub por diagram no endereço do projeto no GitHub:Exemplo de Atalho de URLCopiar# Endereço original no GitHub:
+## Uso com um clique: atalho de alteração de URL
+**Exemplo de Atalho de URL**
+
+```
+# Orijinal GitHub adresi:
 https://github.com/facebook/react
 
-# Endereço do diagrama interativo no Gitdiagram:
-https://gitdiagram.com/facebook/reactAssim que a URL é aberta, o Gitdiagram analisa os arquivos em segundo plano e renderiza o diagrama visual interativo.
+# Gitdiagram etkileşimli şema adresi:
+https://gitdiagram.com/facebook/react
+```
 
-## Profundidade técnica e arquitetura
-O Gitdiagram processa o repositório como um grafo conectado de relacionamentos lógicos:
 
-1. Extração da Árvore de Arquivos: Consome as APIs REST e GraphQL do GitHub para ler dependências (package.json, Cargo.toml, go.mod) e mapear pastas.
+## Arquitetura técnica e lógica de funcionamento
+O Gitdiagram trata a base de código não apenas como texto simples, mas como um gráfico de sistema relacional:
 
-2. Análise Semântica e Vínculos: Identifica importações de módulos e limites de serviços. Modelos de LLM (OpenAI / Claude API) classificam papéis estruturais (API Gateway, controllers, bancos de dados).
+## Instalação e implantação local
+**Preparando o ambiente local e instalando as dependências**
 
-3. Motor Visual Vetorial: Desenha o grafo em uma tela interativa baseada em React Flow e SVG, com setas direcionais apontando o fluxo de dados.
-
-## Instalação e execução local
-Para analisar projetos privados ou utilizar chaves próprias de API sem limitações de tráfego, instale o Gitdiagram na sua máquina:
-
-### Clonar repositório e instalar dependências
-```bash
+```
 git clone https://github.com/ahmedkhaleel2004/gitdiagram.git
 cd gitdiagram
 bun install
 cp .env.example .env
 ```
 
-### Configurar ambiente e iniciar servidor
-```bash
-# Adicione GITHUB_TOKEN e OPENAI_API_KEY no arquivo .env
+**Iniciando o servidor de desenvolvimento**
+
+```
+# .env içine GITHUB_TOKEN ve OPENAI_API_KEY ekleyin
 bun run dev
 ```
 
-## Prompt para quem não programa e agentes de IA
-Com base na arquitetura do Gitdiagram, analise o repositório GitHub informado. Mapeie os principais componentes, portas de entrada, fluxo de dados e serviços externos. Gere um diagrama de blocos em formato Mermaid.js e descreva a função de cada módulo em duas frases curtas.
 
-## Alertas e limitações críticas
-- Monorepos Gigantes: Bases de código com dezenas de milhares de arquivos podem atingir o limite de requisições da API do GitHub sem um token autenticado.
-- Projetos Privados: A versão web pública atende apenas repositórios abertos. Para código corporativo sensível, rode a versão local.
-- Consumo de Tokens de IA: Na versão auto-hospedada, configure exclusão de testes e diretórios de pacotes para manter os custos de API sob controle.
+## Se você não sabe programar: Prompt do agente de inteligência artificial
+Com base na arquitetura do Gitdiagram, crie o diagrama de sistema do repositório do GitHub que examinei. Detecte os principais componentes, direções de fluxo de dados, pontos de entrada (entry points) e dependências externas no repositório. Desenhe a arquitetura como um fluxograma no formato Mermaid.js e explique a função de cada componente em duas frases cada.
 
-## Perguntas frequentes
+## Avisos críticos e limitações
+- Monorepos Gigantescos: Em monorepos contendo dezenas de milhares de arquivos, você pode atingir o limite de taxa (rate limit) da API do GitHub. O uso de um token pessoal do GitHub expande esses limites.
+- Repositórios Privados: A versão em nuvem suporta apenas repositórios públicos. Para repositórios internos fechados, você deve executar o agente no seu servidor local usando o seu próprio token.
+- Custo de Token de LLM: Para otimizar a quantidade de tokens de API de LLM gasta em repositórios grandes ao executar em seu próprio servidor, você deve configurar regras de filtragem de arquivos.
 
-### O Gitdiagram é gratuito?
-Sim, é 100% de código aberto sob licença MIT. O serviço online é gratuito para repositórios públicos.
+## Termos relacionados do glossário
 
-### Posso analisar repositórios privados da minha empresa?
-Sim, rodando o projeto localmente com um GitHub Personal Access Token (PAT) com permissão de leitura configurado.
-
-### Quais linguagens ele reconhece?
-Ele oferece suporte a TypeScript, Python, Go, Rust, Java e C++ inspecionando manifestos de pacotes e padrões de importação.
-
-### Consigo colocar os diagramas no README do meu projeto?
-Sim, você pode exportar como imagem SVG ou código Mermaid.js e colar diretamente na documentação do GitHub.
-
-## Links úteis
-- [Repositório no GitHub (ahmedkhaleel2004/gitdiagram) →](https://github.com/ahmedkhaleel2004/gitdiagram)
-- [Aplicação Web do Gitdiagram →](https://gitdiagram.com)
-
-## Termos relacionados no glossário
-- [Software Architecture](/pt/dictionary/software-architecture/)
-- [AI Agent](/pt/dictionary/ai-agent/)
-- [Runtime](/pt/dictionary/runtime/)
-- [Artificial Intelligence](/pt/dictionary/artificial-intelligence/)
+## Links
+- Repositório no GitHub →
+- Ler em turco →
 
 ---
-Source: TreScout Discovery · https://trescout.com/pt/discover/gitdiagram/
+Fonte: TreScout Descobrir · https://trescout.com/pt/discover/gitdiagram/

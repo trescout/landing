@@ -1,29 +1,40 @@
 # What is Script?
 
-It is a short and direct sequence of commands written to make the computer do a certain job automatically.
+Script is a short sequence of commands that performs a single task automatically.
 
-## Overview
-Scripts are generally written to quickly solve a single task, rather than complex structures such as large software projects. It can be used to rename a file, clear data, or launch a program. In the world of TreScout, these are your little digital assistants that make your job easier.
+## Definition and Word Origin
+Instead of a big project, a single task is solved: Changing file names, cleaning data, starting programs. A command is written to the text file and the interpreter runs. No compilation required, it's a write-and-run setup.
 
-*Analogy: It's like giving someone a written list of things to do, step by step, instead of telling someone what to do.*
+## How to Know and Use in Daily Life?
+System: Backup and cleaning. Data: Batch file operations. Browser: Page automation plugins.
 
-## How it works
-Commands are written into a simple text file and this file is executed by an interpreter.
+## Technical Depth and Architecture
+Working order:
 
-## Where it is used
-It is used in operating system automations, data cleaning jobs and web browser plug-ins.
+## Frequently Mixed Things
+It is considered an application. The application is large and compilable, the script is lightweight and instantaneous. The two are instruments of different scales.
 
-## Commonly confused with
-Not to be confused with large software applications; scripts are lighter and faster.
+## Use in Different Disciplines
+List: Step-by-step job description. Recipe card: Short measured instructions. Vending machine: A mechanism that works by pressing a coin.
 
-## Frequently asked questions
+## Frequently Asked Questions
 **Can anyone write?**
-Yes, it is quite easy to write simple scripts once you learn the basic logic.
+Yes. Simple scripts are written with basic logic, complex tasks come with practice.
+
+**Which language should be chosen?**
+Bash for system work and Python for general work are practical beginnings.
+
+**How to operate?**
+By interpreter name or directly with execution permission. On the Windows side, WSL or PowerShell is used.
+
+**Is it safe?**
+Scripts with known sources, yes. The script taken from the internet cannot be run without reading it.
 
 
 ## Related terms
 - [CLI](/en/dictionary/cli/)
 - [Tools](/en/dictionary/tools/)
+- [Shell](/en/dictionary/shell/)
 
 ## Related tools
 - [NVM](/en/discover/nvm/)

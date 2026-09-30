@@ -1,32 +1,25 @@
-# Geben Sie Ihrem KI-Agenten Möglichkeiten zur wissenschaftlichen Forschung
+# Fähigkeiten der künstlichen Intelligenz für die wissenschaftliche Forschung
 
-„Scientific-agent-skills“ ist eine Bibliothek, die 163 verifizierte Fähigkeiten (Skills) und mehr als 100 Bancos de dados científicos enthält, insbesondere Agenten der künstlichen Intelligenz in Prozessen der wissenschaftlichen Forschung. Dies ermöglicht es Agenten, die in den Bereichen Biologie, Wissenschaft und Medizin arbeiten, Analysen von Formaten durchzuführen, die mit Plattformen wie dem Cursor-Cursor-Editor oder dem künstlichen Intelligenzassistenten Claude Code kompatibel sind.
+Scientific-agent-skills ist eine vorgefertigte Kompetenzbibliothek, die Agenten der künstlichen Intelligenz an wissenschaftliche Forschungsprozesse anpasst. Es bietet 163 validierte Funktionen und mehr als 100 Datenbanken in den Bereichen Biologie, Chemie und Medizin und lässt sich in Plattformen wie den Code-Editor Cursor oder den KI-Assistenten Claude Code integrieren.
 
-- ★ 44.519
-- Python
-- GitHub Trending · 2026-08-27
+- ★ 47.133
+- GitHub Trending · 2026-08-26
 
 ## Was es bringt
-- Es vermittelt 163 verschiedene wissenschaftliche Kompetenzen in den Bereichen Biologie, Chemie und Medizin.
-- Es ermöglicht die direkte Interaktion mit mehr als 100 wissenschaftlichen Datenbanken.
-- Es funktioniert kompatibel mit Tools für künstliche Intelligenz wie dem Cursor-Code-Editor und Claude Code.
+- Es bietet 166 vorgefertigte Fertigkeiten in Biologie, Chemie und Medizin.
+- Es ermöglicht KI-Assistenten, komplexe wissenschaftliche Arbeitsabläufe auszuführen.
+- Es funktioniert integriert mit mehr als 100 Datenbanken.
 
 ## Installation
-**Installation auf Benutzerebene**
+**Funktionen hinzufügen**
 
 ```
-git clone https://github.com/K-Dense-AI/scientific-agent-skills.git ~/.agents/skills/scientific-agent-skills   # user-level
-```
-
-**Einrichtung auf Projektebene**
-
-```
-git clone https://github.com/K-Dense-AI/scientific-agent-skills.git .agents/skills/scientific-agent-skills      # project-level
+npx skills add K-Dense-AI/scientific-agent-skills
 ```
 
 
 ## Wenn Sie nicht programmieren
-Sie sind jetzt Assistent mit Schwerpunkt wissenschaftliche Forschung. Führen Sie komplexe Datenanalysen, Literaturrecherchen und Modellierungsprozesse in Biologie, Chemie und Medizin durch, indem Sie 163 Fertigkeiten in der Bibliothek „Scientific Agent Skills“ nutzen. Stützen Sie Ihre Arbeit auf aktuelle wissenschaftliche Datenbanken und präsentieren Sie Ihre Ergebnisse mit überprüfbaren Beweisen.
+Nutzen Sie die 166 vorgefertigten Fähigkeiten und Datenbankverbindungen der Bibliothek, um mich bei meinen wissenschaftlichen Rechercheprozessen zu unterstützen.
 
 ## Verwandte Begriffe aus dem Glossar
 

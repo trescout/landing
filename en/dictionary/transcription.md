@@ -1,24 +1,34 @@
 # What is Transcription?
 
-It is the process of analyzing voice conversations or recordings by artificial intelligence and converting them into written text.
+Transcription is the process of transcribing the audio recording into written text.
 
-## Overview
-Transcription is a process that converts sound waves into digital characters. Today, thanks to artificial intelligence, it has reached very high accuracy rates. Indispensable for taking meeting notes or transcribing interviews.
+## Definition and Word Origin
+"Transcribe" means to write down. The recording is loaded, frequencies are decoded, words are recognized, punctuation is added. The output is the document, caption or transcript. It is a matter of documentation.
 
-*Analogy: It's a digital version of a professional typist who quickly takes notes of what someone says.*
+## How to Know and Use in Daily Life?
+Subtitle: Video text. Minutes: Meeting recording. Archive: Voice memo directory.
 
-## How it works
-The audio file is loaded into the system, the AI ​​analyzes the sound frequencies, recognizes the words and creates the text by adding punctuation marks.
+## Technical Depth and Architecture
+Steps:
 
-## Where it is used
-It is used in video captioning, meeting minutes and voice memo applications.
+## Frequently Mixed Things
+It is thought to be the same as speech-to-text. The technology is the same, the work is different: STT translates instantly, transcription produces documents. One is the engine, the other is the work.
 
-## Commonly confused with
-It is the same concept as Speech-to-Text, only it is more documentation-oriented in terms of usage.
+## Use in Different Disciplines
+Secretary: Writing down what was said. Record clerk: Hearing minutes. Archive officer: Record directory.
 
-## Frequently asked questions
+## Frequently Asked Questions
 **Does it work in all languages?**
-Modern AI models support dozens of languages, but the success rate can vary with accented speech.
+Dozens of languages ​​are supported, accents and jargon change the hit.
+
+**What is the accuracy?**
+It is high in clean recording. The name and term are corrected in the final reading.
+
+**How long does it take?**
+Varies depending on recording size and model. Short notes are finished in minutes.
+
+**Is it paid?**
+Open models run for free, cloud services charge per time.
 
 
 ## Related terms

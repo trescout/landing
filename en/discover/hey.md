@@ -14,6 +14,8 @@ Developed in Go, hey is a load testing tool used to measure the performance of w
 ## Getting started
 - Official source →
 
+## Related dictionary terms
+
 ## Links
 - GitHub repository →
 - Read in Turkish →

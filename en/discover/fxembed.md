@@ -6,6 +6,8 @@ FxEmbed is a content embedding tool that ensures posts on X and Bluesky platform
 - TypeScript
 - GitHub Trending · 2026-09-25
 
+## Related dictionary terms
+
 ## Links
 - GitHub repository →
 - Read in Turkish →

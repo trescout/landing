@@ -14,6 +14,8 @@ GitHub Actions Runner Images enthalten die Umgebungen für virtuelle Maschinen, 
 ## So fangen Sie an
 Um eine virtuelle Maschine für dieses Tool zu erstellen, können Sie die Anweisungen in der Datei create-image-and-azure-resources.md im Ordner docs des Repositorys einsehen.
 
+## Verwandte Begriffe aus dem Glossar
+
 ## Links
 - GitHub-Repository →
 - Auf Türkisch lesen →

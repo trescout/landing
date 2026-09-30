@@ -1,21 +1,31 @@
 # What is Clean Code?
 
-It is a clear, simple and error-free code structure that can be easily read by other software developers.
+Clean code is the code that can be read by humans.
 
-## Overview
-Clean code is code written in a way that not only computers but also humans can understand it. Instead of complex and intertwined structures, codes with meaningful names and tasks divided into clear and regular parts are preferred. This approach makes the project easier to maintain in the long term and reduces errors.
+## Definition and Word Origin
+The machine runs every code, a human cannot read every code. Meaningful name, small function and simple flow bring readability. Robert Martin is the reference name of this discipline.
 
-*Analogy: It is like the books in a library being arranged on regular shelves according to their genres and authors, rather than randomly; You will instantly find what you are looking for.*
+## How to Know and Use in Daily Life?
+Team: Common code base. Review: Readability check. Maintenance: Revert to legacy code.
 
-## How it works
-It is written by giving meaningful names to variables, minimizing functions to do a single job, and avoiding unnecessary complexity.
+## Technical Depth and Architecture
+Principles:
 
-## Where it is used
-It is a fundamental principle for all professional software development teams to maintain code quality.
+## Use in Different Disciplines
+Desk: Tidy work area. Shelves: Sorted by genre and author. Garden: Pruned branch arrangement.
 
-## Frequently asked questions
-**Isn't it enough for the code to work?**
-Getting the code working is just the first step; Clean code ensures that the code can be changed by someone else in the future.
+## Frequently Asked Questions
+**Isn't it enough to work?**
+It's not enough. Working code saves today, read code saves tomorrow.
+
+**Does it slow down?**
+In the beginning yes, in maintenance no. It makes money in total.
+
+**How is it measured?**
+With review time and error rate. Number alone is not enough.
+
+**Where to start?**
+From name and function. The touched code is cleared.
 
 
 ## Related terms

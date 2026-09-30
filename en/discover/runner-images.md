@@ -14,6 +14,8 @@ GitHub Actions runner images contain the virtual machine environments used by th
 ## Getting started
 To create a virtual machine for this tool, you can review the instructions in the create-image-and-azure-resources.md file in the docs folder in the repo.
 
+## Related dictionary terms
+
 ## Links
 - GitHub repository →
 - Read in Turkish →

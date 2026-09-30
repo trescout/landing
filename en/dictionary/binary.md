@@ -1,21 +1,31 @@
 # What is Binary?
 
-It is the most basic machine language that the computer understands using only 0 and 1.
+Binary is a machine language that works with 0 and 1.
 
-## Overview
-Computers either have electric current inside them or they don't. We represent these 'present' and 'absent' states as 1 and 0. All complex programs you write are ultimately converted into this binary system and run by the computer.
+## Definition and Word Origin
+There is either current in the circuit or there is no current, the corresponding values ​​are 1 and 0. All programs are translated into this language at the deepest level. People don't write binaries, languages ​​translate them with compilers.
 
-*Analogy: Like a lamp just being on or off; And the computer understands the entire world only through the combination of public and private keys.*
+## How to Know and Use in Daily Life?
+Processor: Instruction execution. Memory: Cell values. File: Deepest layer.
 
-## How it works
-People don't write binary directly; Programming languages ​​convert the texts we write into binary format through compilers.
+## Technical Depth and Architecture
+Units:
 
-## Where it is used
-It resides in the deepest layers of processors, memory management and file formats.
+## Use in Different Disciplines
+Lamp: On and off. Morse: Dot and dash. Switch: Forward and reverse.
 
-## Frequently asked questions
+## Frequently Asked Questions
 **Why only 0 and 1?**
-Because distinguishing two states (voltage present/absent) in electronic circuits is much more stable and faster than distinguishing more states.
+It is stable and fast to distinguish the two situations. Too much produces errors and costs.
+
+**What is byte?**
+It is a group of 8 bits. It is the unit of characters and small numbers.
+
+**Do people read?**
+Rarely. Hexadecimal view is used for debugging, not binary.
+
+**Isn't there a triple system?**
+It was tried, but it didn't work. The duo won in simplicity.
 
 
 ## Related terms
@@ -24,8 +34,11 @@ Because distinguishing two states (voltage present/absent) in electronic circuit
 - [System Programming Language](/en/dictionary/system-programming-language/)
 
 ## Related tools
+- [Ghidra](/en/discover/ghidra/)
 - [Protobuf](/en/discover/protobuf/)
+- [Trivy](/en/discover/trivy/)
 - [OfficeCLI](/en/discover/officecli/)
+- [Ipatool](/en/discover/ipatool/)
 - [Hister](/en/discover/hister/)
 
 ---

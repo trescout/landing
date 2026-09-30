@@ -1,29 +1,40 @@
 # What is Runtime Environment?
 
-The basic supporting environment that a software needs to run on a computer.
+Runtime environment is the library and source layer where the code runs.
 
-## Overview
-If you think of software code as a recipe, this environment is the kitchen where that recipe is cooked. It provides the libraries and system resources necessary for the code to run.
+## Definition and Word Origin
+The recipe requires kitchen: The code also requires libraries, interpreters and system resources to run. This layer is invisible, but provides support every time the program runs. It is ubiquitous at the browser, server and operating system level.
 
-*Analogy: They are like video card drivers and system files that must be installed on your computer for a game to run.*
+## How to Know and Use in Daily Life?
+Web: JavaScript running in the browser. Server: Node or Python service. Game: Driver and system files.
 
-## How it works
-When you install a program, the environment needed by that program is usually installed in the background. You don't see it, but the program receives support from this environment every time it runs.
+## Technical Depth and Architecture
+Layers:
 
-## Where it is used
-It is found in web browsers, application servers, and all operating system-level software.
+## Frequently Mixed Things
+It is thought to be the software itself. However, the environment is the house in which the software lives. The same software may behave differently if the house changes.
 
-## Commonly confused with
-Not to be confused with the software itself; This environment is the house in which the software lives.
+## Use in Different Disciplines
+Kitchen: The stove and containers that cook the recipe. Aquarium: The water and temperature where the fish live. Stage: Light and sound system.
 
-## Frequently asked questions
+## Frequently Asked Questions
 **Why does it give an error?**
-It usually gives an error because the required media files are missing or are of the wrong version.
+Usually the media file is missing or the version is incorrect. Check the release note, it is installed incompletely.
+
+**How to find out the version?**
+With the version flag of the runner. In the team, a single version is written in a file.
+
+**Does Docker solve it?**
+Yes, the difference in environment: Everyone runs in the same box. It does not resolve the code error.
+
+**Is the browser also a medium?**
+Yes. It is a working environment in itself with its JavaScript engine and API set.
 
 
 ## Related terms
 - [Runtime](/en/dictionary/runtime/)
 - [Compiler](/en/dictionary/compiler/)
+- [Virtual Machines](/en/dictionary/virtual-machines/)
 
 ## Related tools
 - [Node](/en/discover/node/)

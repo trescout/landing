@@ -2,7 +2,7 @@
 
 Codex-X is a visual desktop and command-line interface tool written in Rust, developed to manage OpenAI Codex models. The software centralizes the developer experience with features such as API management, session synchronization, prompt injection, and skills management.
 
-- ★ 3,958
+- ★ 3,999
 - GitHub Trending · 2026-09-20
 
 ## What you get

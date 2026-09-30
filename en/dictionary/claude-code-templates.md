@@ -1,21 +1,31 @@
 # What is Claude Code Templates?
 
-Ready-made drafts that AI-supported coding tools provide to quickly launch certain projects.
+Claude Code templates are ready-made file frameworks that speed up project launches with Claude Code.
 
-## Overview
-These templates automatically create the basic file structure and settings needed when starting a project. It makes it easier for the AI ​​assistant to understand what type of application the project is. Thus, instead of starting from a blank page, you proceed from a ready-made skeleton.
+## Definition and Word Origin
+"Template" means template. Instead of starting from a blank page, the skeleton is taken: The directory structure, settings and instruction file come ready-made. The assistant understands the type of the project from the framework, and his suggestions are accurate.
 
-*Analogy: When building a house, it is like using a prefabricated structure where the foundation and walls are ready.*
+## How to Know and Use in Daily Life?
+Prototype: Quick testing of the idea. Standard: Same skeleton within the team. Learning: Learning the rule from the example.
 
-## How it works
-You tell your AI tool the type of project and it prepares the necessary files for you using the relevant template.
+## Technical Depth and Architecture
+Typical skeleton:
 
-## Where it is used
-It is used when starting a new software project, especially in the rapid prototyping stages.
+## Use in Different Disciplines
+Prefabricated: Ready-made structure. Tailor pattern: Cutting template according to size. Recipe: Measured starter set.
 
-## Frequently asked questions
-**Can these templates be customized?**
-Yes, most templates can be modified later to suit the needs of the project.
+## Frequently Asked Questions
+**Can the templates be customized?**
+Yes. The skeleton is the beginning, pruned and expanded according to the project.
+
+**Where is it located?**
+In community repositories and vehicle documentation. Its source and currency are checked.
+
+**Are they reliable?**
+It varies depending on the source. The unknown skeleton is not operated blindly, its contents are read.
+
+**Can I write it myself?**
+Yes. The team skeleton is the most valuable, it is born again.
 
 
 ## Related terms

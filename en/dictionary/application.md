@@ -1,57 +1,40 @@
-# What is an Application?
+# What is Application?
 
-> Application Software
+Application is user software that performs a specific job.
 
-**Category:** Dev  
-**Last updated:** 2026-09-22
+## Definition and Word Origin
+Everything from writing text to photo editing is done through an application. It runs on the operating system and offers a visual interface. The house analogy is apt: The system is the house, the applications are its furniture.
 
-An application (commonly referred to as an app) is user-facing software designed to accomplish specific tasks, running directly on top of system software and operating systems.
-
-## Definition and Etymology
-From word processing and data management to creative editing, everyday computing tasks are mediated by applications. An application interfaces with the operating system, orchestrates system resources, and presents interactive interfaces. The home metaphor holds true: the operating system is the house itself, while applications are the purposeful furniture within.
-
-## Everyday Context and Practical Usage
-- **Mobile Devices:** Messaging, banking, fitness tracking, and communication apps.
-- **Desktop Workstations:** Integrated development environments (IDEs), spreadsheets, and CAD suites.
-- **Web Browsers:** Cloud-native single-page applications accessed through standard HTTP protocols.
+## How to Know and Use in Daily Life?
+Phone: Messaging and banking. Desktop: Office and design. Web: Opens in the browser.
 
 ## Technical Depth and Architecture
-Core Architectural Layers:- **Presentation Layer:** Graphical (GUI) or text-based (TUI/CLI) user interfaces delivering user input and visual feedback.
-- **Business Logic:** Domain-specific operational rules, state workflows, and computations.
-- **Data Access Layer:** Persistence mechanisms communicating with local filesystems, caches, and remote databases.
+Types:
 
-Applications can be compiled natively for specific OS kernels (macOS, Linux, Windows), packaged as containerized microservices, or executed in virtual runtimes (JVM, browser V8 engine).
+## Frequently Mixed Things
+It is considered an operating system. The system manages the device, the application does one job. Drivers are software but not applications.
 
-## Commonly Confused With
-Often confused with operating systems or device drivers. System software manages hardware resources and schedules processes; applications consume those managed services to perform user-directed business logic.
-
-## Cross-Disciplinary Perspectives
-- **Architecture:** A building's foundation vs. interior furnishings tailored for living.
-- **Transportation:** Highway infrastructure vs. vehicles fulfilling diverse commercial journeys.
-- **Manufacturing:** Factory power grid vs. specialized assembly machines.
-
-## Analogy
-An operating system is like an empty house with electricity and plumbing; applications are the furniture, appliances, and tools that make it livable and useful.
+## Use in Different Disciplines
+Furniture: Items inside the house. Kitchen appliance: Single-use appliances. Car accessory: Part that is installed later.
 
 ## Frequently Asked Questions
+**Are the application and software the same?**
+Application is a subset of software. Every application is software, not every software is an application.
 
-**What distinguishes system software from application software?**  
-System software (operating systems, drivers) administers hardware and execution environments; application software provides direct utilities for end users to accomplish domain-specific tasks.
+**How to update apps?**
+Automatic or manual from the store. Web ones are refreshed at startup.
 
-**What is the difference between native and web applications?**  
-Native applications compile directly for specific OS hardware and binaries, offering high performance; web applications run inside browser engines across platforms via web standards.
+**What is the difference between web and native?**
+Native is fast and fully authorized, it does not require web installation. PWA catches up.
 
-**Can an application run without an operating system?**  
-Only in bare-metal embedded or unikernel architectures; standard consumer and enterprise applications strictly depend on OS system calls for execution.
+**Is the store necessary?**
+Practical for distribution, not mandatory. Web and enterprise distribution are alternatives.
 
-**How does an application preserve state?**  
-State is persisted locally through configuration files, SQLite databases, and caches, or remotely via cloud databases and object stores through REST and GraphQL APIs.
 
 ## Related terms
+- [User Interface](/en/dictionary/user-interface/)
+- [GUI](/en/dictionary/gui/)
 - [Runtime](/en/dictionary/runtime/)
-- [Software Architecture](/en/dictionary/software-architecture/)
-- [Operating System](/en/dictionary/operating-system/)
-- [Web App](/en/dictionary/web-app/)
 
 ---
-Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/application/
+Source: TreScout Dictionary · https://trescout.com/en/dictionary/application/

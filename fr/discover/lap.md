@@ -6,6 +6,8 @@ Développé avec Vue, Lap est un gestionnaire de photos hors ligne qui vous perm
 - Vue
 - GitHub Trending · 2026-09-25
 
+## Termes liés du glossaire
+
 ## Liens
 - Dépôt GitHub →
 - Lire en turc →

@@ -2,25 +2,35 @@
 
 > Google Cloud Platform
 
-It is a platform for data storage and application execution services over the internet, offered by Google.
+Google Cloud (full name Google Cloud Platform) is a cloud service that rents Google infrastructure.
 
-## Overview
-It is a cloud service where you rent Google's massive infrastructure instead of setting up your own servers. Here you can train artificial intelligence models, host websites or perform big data analysis. You use as many resources as you need and pay only for what you use.
+## Definition and Word Origin
+Computing, storage, and artificial intelligence are rented without setting up servers. It is a pay-as-you-go model for as many resources as needed. It runs enterprise software, mobile backends, and data processing tasks.
 
-*Analogy: It's like getting electricity from the grid instead of generating electricity in your own home; You don't have to deal with the infrastructure, you just use it.*
+## How to Know and Use in Daily Life?
+Enterprise: Business applications. Mobile: Backend services. Data: Warehousing and analytics.
 
-## How it works
-By creating an account, you choose the tools Google offers and install your applications there.
+## Technical Depth and Architecture
+Services:
 
-## Where it is used
-It is used in enterprise software, mobile application backgrounds and big data projects.
+## Frequently Mixed Things
+It is mistaken for Drive. Drive stores files, Cloud runs applications. One is a cabinet, the other is a workshop.
 
-## Commonly confused with
-It may be confused with Google Drive; Drive stores files, Cloud runs applications.
+## Use in Different Disciplines
+Network: Electricity from socket. Switchboard: Production for rent. Warehouse: Warehouse for rent.
 
-## Frequently asked questions
-**Why should I use this and not my own computer?**
-Because it is much more powerful, never shuts down and can be accessed from anywhere in the world.
+## Frequently Asked Questions
+**Why not my own computer?**
+The burden of power, access and maintenance falls to the cloud. The difference widens when scale is required.
+
+**What does it cost?**
+It is paid as you use it. The idle resource is shut down and a budget alarm is set.
+
+**What's the AWS difference?**
+Service names change, the logic is the same. Team knowledge determines selection.
+
+**Is it possible to start for free?**
+There are limited tier and trial credits. The limit is followed.
 
 
 ## Related terms

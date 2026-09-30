@@ -1,24 +1,34 @@
 # What is Whisper?
 
-It is an artificial intelligence-based voice recognition technology that converts spoken language into text with high accuracy.
+Whisper is an open source speech recognition model developed by OpenAI.
 
-## Overview
-Whisper is a multilingual and versatile voice recognition model developed by OpenAI. It can transcribe speech quite successfully, even with background noise. It also has the ability to translate, meaning it can convert sounds into text in different languages.
+## Definition and Word Origin
+"Whisper" means whisper. It is multilingual and noise-resistant, and also provides translation. It takes the burden off audio work from meeting to subtitling.
 
-*Analogy: He is like a secretary who knows almost all the languages ​​in the world and perfectly notes every word spoken, even in a noisy environment.*
+## How to Know and Use in Daily Life?
+Subtitle: Video text. Record: Meeting recording. Command: Voice interface.
 
-## How it works
-It breaks the sound into small pieces, matches these pieces with language models, and turns them into meaningful sentences and text.
+## Technical Depth and Architecture
+Line:
 
-## Where it is used
-It is used in video subtitling tools, meeting note-taking applications and voice command systems.
+## Frequently Mixed Things
+It interferes with general transcription. Whisper is a model, transcription is work. One is a tool, the other is a craft.
 
-## Commonly confused with
-It differs from other voice recognition tools with its wide language support and high accuracy rate.
+## Use in Different Disciplines
+Secretary: Taking notes while speaking. Translator: Translating from language to language. Typist: Writing down what is said.
 
-## Frequently asked questions
-**Can I use Whisper in my own application?**
-Yes, since Whisper is an open source model, developers can integrate it into their own projects.
+## Frequently Asked Questions
+**Can I use it in my own application?**
+Yes. It is embedded into the project with an open source license, commercial use is made by looking at the text.
+
+**Does it support Turkish?**
+Yes. Accuracy is high in clean recording, jargon is checked.
+
+**Does it translate?**
+Yes. It can convert audio into text in another language, and critical work is redacted.
+
+**Is hardware required?**
+The smaller model runs on CPU, the larger model requires GPU.
 
 
 ## Related terms
@@ -30,6 +40,7 @@ Yes, since Whisper is an open source model, developers can integrate it into the
 - [Whisper](/en/discover/whisper/)
 - [Claude Video](/en/discover/claude-video/)
 - [Openwhispr](/en/discover/openwhispr/)
+- [ODS](/en/discover/ods/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/whisper/

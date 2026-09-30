@@ -1,27 +1,34 @@
 # What is Harness?
 
-It is a control mechanism that checks whether a software or system operates at expected standards.
+Harness is a framework that automatically tests code.
 
-## Overview
-In the software world, harness is generally a framework that automates testing processes. Once a piece of code is written, it constantly checks whether this code reacts correctly in different scenarios. It is like a safety net that performs a 'health check' of the system.
+## Definition and Word Origin
+"Harness" means harness. Every time the code is updated, tests run and give a corruption warning. It is the safety network that checks the health of the system.
 
-*Analogy: That automatic control line where the brakes, engine and lights of every vehicle produced in a car factory are tested is a harness.*
+## How to Know and Use in Daily Life?
+Development: Testing after every commit. CI: Automatic door in line. Quality: Pre-release scanning.
 
-## How it works
-Developers write test scenarios for their codes and place these scenarios in a harness. The system automatically runs these tests every time the code is updated and warns if there are errors.
+## Technical Depth and Architecture
+Parts:
 
-## Where it is used
-It is used in software development processes, continuous integration (CI) lines and quality control stages.
+## Frequently Mixed Things
+It is thought to be the software itself. However, the harness is not the code, it is the environment that controls the code. One is the player and the other is the referee.
 
-## Commonly confused with
-It's not just the software itself, it's the 'environment' or 'infrastructure' that tests the software.
+## Use in Different Disciplines
+Factory line: Brake and headlight inspection of each vehicle. Seat belt: The mechanism that holds it in case of collision. Training: Performance measurement track.
 
-## Frequently asked questions
-**Why is a test harness necessary?**
-To reduce human error and make sure the code doesn't break with every change.
+## Frequently Asked Questions
+**Why is it necessary?**
+It reduces human error and captures degradation with every change.
 
-**Is a harness required for every software?**
-It is standard practice to ensure reliability in professional projects.
+**Is it required in every software?**
+It's standard in professional work. There is exaggeration in trial code.
+
+**When is it written?**
+With the code, preferably first. The remaining test will be left unfinished.
+
+**What is the coverage goal?**
+It is determined by the team. It is kept high on the critical path and low on the edge.
 
 
 ## Related terms
@@ -32,6 +39,7 @@ It is standard practice to ensure reliability in professional projects.
 ## Related tools
 - [Jcode](/en/discover/jcode/)
 - [Harness · Ajan Ekip Fabrikası](/en/discover/harness/)
+- [Harness SDK](/en/discover/harness-sdk/)
 - [Munder Difflin](/en/discover/munder-difflin/)
 - [Claude Code Harness](/en/discover/claude-code-harness/)
 

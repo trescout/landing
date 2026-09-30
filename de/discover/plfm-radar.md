@@ -1,68 +1,51 @@
-# Quelloffenes Phased-Array-Radarsystem
+# Open-Source-Phased-Array-Radar
 
-PLFM RADAR ist ein quelloffenes Phased-Array-Radarsystem, das bei 10,5 GHz (X-Band) arbeitet und über elektronische Strahlschwenkung (electronic beam steering) sowie FPGA-basierte digitale Signalverarbeitung verfügt. Es erfasst und verfolgt Luft- und Bodenziele präzise ohne mechanisch rotierende Bauteile.
+PLFM RADAR ist ein Open-Source-Phased-Array-Radarsystem, das bei 10,5 GHz (X-Band) mit elektronischer Strahllenkung und FPGA-basierten digitalen Signalverarbeitungsfunktionen arbeitet. Es erkennt und verfolgt Luft- und Bodenziele mit hoher Präzision, ohne mechanisch bewegliche Teile zu verwenden.
 
-- ★ 24.168
+- ★ 25.440
 - C++
 - GitHub Trending · 2026-08-18
 
-## Aktualisierungen
-- 18. August 2026: Sterne 24.168, stabile Version v2.0.2-p0-audit (FPGA-Signalfilterung und Reichweitenkalibrierung).
-
 ## Was es bringt
-- Elektronische Strahlsteuerung: Scannt einen 90-Grad-Sektor innerhalb von Millisekunden über Phasenverschieber ohne mechanischen Verschleiß.
-- Zwei Reichweitenmodi: 3 km Taktikmodus für Drohnenerkennung und 20 km Weitbereichsmodus zur Umfeldüberwachung.
-- FPGA-Echtzeit-Signalverarbeitung: Hardwarebeschleunigte 2D-FFT und CFAR-Zielerkennung direkt auf dem FPGA-Silizium.
-- Erschwingliche Open-Source-Hardware: Senkt die Kosten kommerzieller Militärradare von Hunderttausenden Dollar auf unter eintausend Dollar.
-- Python- und SDR-Integration: Verfolgen Sie Zielvektoren in Echtzeit über SDR-Hardware und eine Python-PPI-Radaranzeige.
+- Elektronische Strahllenkung: Scannen eines 90-Grad-Sektors mit Phasenschiebern in Millisekunden, ohne dass ein mechanischer Motor oder eine Drehantenne erforderlich sind.
+- Dual-Range-Betriebsmodus: 3 km im Nahbereich (UAV/Drohnenerkennung), 20 km im Fernbereich (Perimeterüberwachung und Flugzeugverfolgung).
+- FPGA-basierte Echtzeit-Signalverarbeitung: Hardware-Verarbeitung von Rohradarechos auf FPGA mit Hochgeschwindigkeits-FFT- und CFAR-Algorithmen.
+- Kostengünstige, zugängliche Hardware: Senkung der Kosten für kommerzielle und militärische Radare von Hunderttausenden Dollar auf weniger als tausend Dollar mit Open-Source-PCB-Designs.
+- Python- und SDR-Integration: Live-Überwachung digitaler Radardaten über Open-Source-SDR-Hardware und Python-Schnittstelle.
 
 ## Hardwarekomponenten und Radararchitektur
+- 10,5-GHz-X-Band-Mikrostreifenantennenarray: Multi-Patch-Antennenelemente, die auf verlustarmen Rogers/FR4-Schichten entwickelt wurden.
+- Numerisch gesteuerte Phasenschieber: HF-ICs, die den Strahl im Raum lenken, indem sie die Signalphase jedes Antennenelements mit einer Präzision von 5,6 Grad verzögern.
+- FMCW-Frequenzsynthesizer: Hochstabiler lokaler Oszillator (VCO/PLL), der eine kontinuierliche Welle mit linearer Frequenzmodulation erzeugt.
 
-Das PLFM RADAR gliedert sich in HF-Frontend, planares Antennenarray und digitale Signalverarbeitung:
-- 10,5 GHz X-Band Mikrostreifen-Patch-Array: Hochfrequenz-Antennenelemente auf verlustarmem Rogers/FR4-Substrat.
-- Digital gesteuerte Phasenverschieber: Verzögern die Signalphase jedes Antennenelements in 5,6-Grad-Schritten zur präzisen Strahlausrichtung.
-- FMCW-Frequenzsynthesizer: Hochstabiler Lokaloszillator (VCO/PLL) zur Erzeugung frequenzmodulierter Dauerstrichwellen.
+## Signalverarbeitungs- und Steuerungssoftware
+- Entfernungs-Doppler-FFT (2D-FFT): Gleichzeitige Berechnung der Entfernung und der Radialgeschwindigkeit des Ziels, indem zuerst die Entfernung und dann die Doppler-FFT auf das eingehende Signal angewendet werden.
+- CFAR-Detektor (Constant False Alarm Rate): Trennung realer beweglicher Ziele von Hintergrundgeräuschen und Bodenechos (Clutter) mit dynamischer Schwellenwertbestimmung.
+- Python-GUI und PPI-Bildschirm: Visualisierung von Zielspuren auf einer Live-Karte auf einem herkömmlichen kreisförmigen Radarbildschirm (PPI).
 
-## Signalverarbeitung und Steuerungssoftware
+## Technisches Funktionsprinzip: FMCW und Phased Array
+- Entfernungsmessung aus Frequenzdifferenz: Die Schwebungsfrequenz wird durch Mischen des gesendeten Chirp-Signals mit dem vom Ziel zurückgegebenen Signal ermittelt. Diese Frequenz ist direkt proportional zur Entfernung.
+- Strahlfokussierung mit konstruktiver Interferenz: Indem jedem Antennenelement im Array eine bestimmte Phasenverzögerung zugewiesen wird, wird das Signal in der gewünschten Richtung mit konstruktiver Interferenz und in anderen Richtungen mit destruktiver Interferenz versehen.
 
-Die Radarechos werden auf Hardwareebene gefiltert, um Entfernung, Radialgeschwindigkeit und Azimut zu bestimmen:
-- Entfernungs-Doppler 2D-FFT: Zweidimensionale Fourier-Transformation zur gleichzeitigen Auflösung von Abstand und Geschwindigkeit.
-- CFAR-Detektor (Konstante Falschalarmrate): Dynamische Schwellenwertanpassung zur Trennung echter Ziele von Bodenclutter und Rauschen.
-- Python GUI und PPI-Bildschirm: Visuelle Zielverfolgung auf einer klassischen Rundsicht-Radaranzeige (PPI) mit Kartenüberlagerung.
-
-## Technisches Funktionsprinzip: FMCW und Phased-Array
-
-PLFM RADAR setzt auf Dauerstrich-Frequenzmodulation (FMCW) statt auf herkömmliche Hochleistungsimpulse:
-- Abstandsmessung über Schwebungsfrequenz: Das Mischen des Sendesignals mit dem Echo ergibt eine Zwischenfrequenz, die direkt proportional zur Entfernung ist.
-- Strahlformung durch konstruktive Interferenz: Gezielte Phasenverschiebungen an den Antennen bündeln die elektromagnetische Welle in die gewünschte Richtung.
-
-## Einsatzszenarien und Praxistests
-
-Die offene Phased-Array-Architektur ermöglicht vielfältige Anwendungen:
-- Tiefflug-Drohnenabwehr: Erkennt kleine Drohnen bei Nebel oder Dunkelheit, wenn optische Kameras an ihre Grenzen stoßen.
-- Perimeterüberwachung kritischer Infrastruktur: Sichert Flughäfen und Rechenzentren in einem Umkreis von 3 km gegen unbefugte Annäherung.
-- Meteorologische Messungen: Analysiert kleinräumige Windbewegungen und Niederschlagsdichten über Mikro-Doppler-Signaturen.
+## Nutzungsszenarien und Feldtests
+- UAV- und Drohnenabwehr in geringer Höhe: Erkennung kleiner unbemannter Luftfahrzeuge bei Nebel oder Nachtbedingungen, bei denen optische Kameras nicht ausreichen.
+- Kritische Anlagenperimetersicherheit: Überwachung unbefugter Annäherung von Menschen oder Fahrzeugen in einem Umkreis von 3 km an Flughäfen, Rechenzentren und Industriestandorten.
+- Meteorologische und atmosphärische Forschung: Analyse von Wolkenbewegungen und Niederschlagsintensität auf lokaler Ebene mit Mikro-Doppler-Methoden.
 
 ## Wenn Sie nicht programmieren
-🤖 Wenn Sie nicht programmieren
-Ich möchte die 10,5-GHz-Schaltpläne und die FPGA-Signalverarbeitung des Projekts PLFM RADAR verstehen. Kannst du ein Python-Simulationsskript erstellen, das ein FMCW-Chirpsignal generiert, die 2D-FFT Entfernungs-Doppler-Berechnung durchführt und Abstand und Geschwindigkeit einer simulierten Drohne extrahiert?
-
-- **Für wen:** Radarforscher, Verteidigungsingenieure, Drohnenentwickler und RF/SDR-Enthusiasten.
-- **Lizenz:** Open-Source-Hardware- und Software-Lizenz
-- **Frequenzband:** 10,5 GHz (X-Band) FMCW
-- **Einsatzreichweite:** 3 km (taktische Drohnenerkennung) bis 20 km (Weitbereich)
+Ich würde gerne die 10,5-GHz-Phased-Array-Hardwareschaltpläne und FPGA-Signalverarbeitungsblöcke des PLFM RADAR-Projekts überprüfen. Können Sie ein Simulations-Python-Skript erstellen, das die FMCW-Chirp-Signalerzeugung, die Range-Doppler-2D-FFT-Berechnung und die Datenübertragung an die Python-basierte PPI-Radaranzeige beschreibt? Können Sie Schritt für Schritt den Algorithmus zur Entfernungs- und Geschwindigkeitserkennung für ein künstliches Ziel zeigen?
 
 ## Häufig gestellte Fragen
-- Kann dieses System selbst gebaut werden? Ja. Alle PCB-Schaltpläne, Gerber-Dateien und FPGA-Verilog-Codes liegen quelloffen auf GitHub bereit und können bei Fertigern in Auftrag gegeben werden.
-- Was ist der Vorteil von Phased-Arrays gegenüber rotierenden Antennen? Elektronische Strahlschwenkung erfolgt in Mikrosekunden, erfordert keine mechanischen Verschleißteile und erlaubt das parallele Verfolgen mehrerer Ziele.
-- Wird eine Sendegenehmigung benötigt? Das 10,5-GHz-Band ist in vielen Ländern für Amateurfunk oder ISM freigegeben. Laborprüfungen mit geringer Leistung sind meist unbedenklich; Außenabstrahlungen müssen den örtlichen Vorschriften entsprechen.
-- Welche FPGA-Entwicklungsboards werden unterstützt? Xilinx Zynq-7000 und AMD UltraScale+ RFSoC Boards werden über FMC-Schnittstellen mit schnellen ADC/DAC-Karten direkt unterstützt.
-
-## Links
-- [GitHub →](https://github.com/NawfalMotii79/PLFM_RADAR)
+- Ist es möglich, das System zu Hause oder im Labor herzustellen? Ja. Alle PCB-Schaltpläne, Gerber-Produktionsdateien und FPGA-Verilog/VHDL-Codes des Projekts sind als Open Source im GitHub-Repository verfügbar. Platinen können bei Standard-Leiterplattenherstellern bestellt und in einer Laborumgebung gelötet werden.
+- Was ist der Vorteil der elektronischen Strahlsteuerung gegenüber mechanischen Radargeräten? Während sich mechanische Radare mit 1–2 Umdrehungen pro Sekunde drehen, können Phased-Array-Radare die Richtung des Strahls in Mikrosekunden ändern. Es gibt keine verschleißenden mechanischen Teile und es können mehrere Ziele sofort erfasst werden.
+- Ist für den Betrieb eine spezielle Hochfrequenzgenehmigung erforderlich? Das 10,5-GHz-Band unterliegt in vielen Ländern der Amateurfunk- oder Industrie-/Wissenschaftsfrequenzzuteilung (ISM). Obwohl Labortests bei niedrigen Ausgangsleistungen zulässig sind, müssen bei Außenübertragungen über große Entfernungen die örtlichen Vorschriften beachtet werden.
+- Mit welchen FPGA-Entwicklungsboards ist es kompatibel? Xilinx Zynq-7000-Serie oder moderne AMD UltraScale+ RFSoC-Karten werden direkt unterstützt; Hochgeschwindigkeits-ADC/DAC-Schnittstellen werden über den FMC-Anschluss angeschlossen.
 
 ## Verwandte Begriffe aus dem Glossar
-Edge Computing Open Source Local Offline
+
+## Links
+- GitHub-Repository →
+- Auf Türkisch lesen →
 
 ---
-Source: TreScout Discover · https://trescout.com/de/discover/plfm-radar/
+Quelle: TreScout Entdecken · https://trescout.com/de/discover/plfm-radar/

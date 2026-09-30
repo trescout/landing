@@ -6,6 +6,8 @@ FxEmbed ist ein Tool zum Einbetten von Inhalten, mit dem Beiträge auf X- und Bl
 - TypeScript
 - GitHub Trending · 2026-09-25
 
+## Verwandte Begriffe aus dem Glossar
+
 ## Links
 - GitHub-Repository →
 - Auf Türkisch lesen →

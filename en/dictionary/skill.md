@@ -1,27 +1,34 @@
 # What is Skill?
 
-It is a set of specialized skills that artificial intelligence assistants use to perform a specific job or task.
+Skill is the defined unit that enables the artificial intelligence assistant to do work with an external tool.
 
-## Overview
-In the world of artificial intelligence, an assistant is not enough to just talk generally; sometimes he needs to read a file or search the internet. We call each of these special functions skills. These capabilities enable the assistant to interact with the outside world by going beyond standard language capabilities.
+## Definition and Word Origin
+The assistant's general speech is not enough; Sometimes it needs to read files and make searches. Each of these special functions is defined as a skill. The concept has moved from the voice assistant era to the agent era: from Alexa skills to today's agent skills.
 
-*Analogy: Think of a kitchen chef; Cooking is a general skill, but using a knife, preparing sauce or adjusting the oven are separate skills that a chef has. The artificial intelligence assistant is also the main chef, and the skills are the different kitchen tools and techniques in his hands.*
+## How to Know and Use in Daily Life?
+File: Reading and summarizing documents. Calendar: Setting up a meeting. Search: Getting current information.
 
-## How it works
-When you define a capability to an AI system, you give it rules and tools that describe how to do a job. The assistant analyzes a command it receives and automatically selects and executes the appropriate skill for that job.
+## Technical Depth and Architecture
+The skill is written in three parts:
 
-## Where it is used
-It is frequently used in AI assistant platforms, automation tools, and multi-agent systems that manage complex tasks.
+## Frequently Mixed Things
+It is thought to be general modeling ability. However, what is meant here is the assistant's ability to use external tools. The model understands the language, the skill does the work.
 
-## Commonly confused with
-It can be confused with general artificial intelligence capabilities, but what is meant here is the assistant's ability to use an external tool.
+## Use in Different Disciplines
+Kitchen: The knife and sauce techniques in the chef's hand. Drill: Function that varies depending on the tip. Phone: Every installed application.
 
-## Frequently asked questions
-**Does every artificial intelligence model have abilities?**
-Basic models only produce text, but assistants are given capabilities by adding external tools to these models.
+## Frequently Asked Questions
+**Does every model have the ability?**
+No. Basic models generate text, the ability is gained when external tools are added to the assistant.
 
 **How to develop skills?**
-Usually, API connections or special code blocks are written to enable the assistant to perform a specific task.
+Identified by API connection or code block. The description is written clearly, the model chooses correctly.
+
+**Is it safe?**
+Reading abilities are at low risk. Approval and scope limit are essential for transactions such as writing and payment.
+
+**Who writes talent?**
+Developers write it, platforms distribute it in the store. Writing a good description is half the job.
 
 
 ## Related terms
@@ -33,13 +40,13 @@ Usually, API connections or special code blocks are written to enable the assist
 
 ## Related tools
 - [Anthropic Skills](/en/discover/anthropic-skills/)
-- [Browser Use](/en/discover/browser-use/)
 - [Taste Skill](/en/discover/taste-skill/)
-- [Awesome Claude Skills](/en/discover/awesome-claude-skills/)
 - [Archify](/en/discover/archify/)
+- [Awesome Claude Skills](/en/discover/awesome-claude-skills/)
 - [Last30days Skill](/en/discover/last30days-skill/)
 - [I Have Adhd](/en/discover/i-have-adhd/)
 - [Reverse Skill](/en/discover/reverse-skill/)
+- [Book to Skill](/en/discover/book-to-skill/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/skill/

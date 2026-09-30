@@ -1,24 +1,31 @@
 # What is Chrome DevTools?
 
-It is a developer tool embedded in the web browser that helps examine the codes of websites and fix errors.
+Chrome DevTools is the in-browser developer panel.
 
-## Overview
-Chrome DevTools allow web developers to see the background of sites in the browser. You can change how the page looks, instantly catch errors in the codes, and analyze performance problems. It's kind of like an x-ray machine for websites.
+## Definition and Word Origin
+"DevTools" means developer tools. The background of the page is seen, errors are caught instantly, and performance is measured. It is an x-ray of the sites.
 
-*Analogy: It's like wearing special glasses that allow you to see a building's electrical wiring or pipes behind walls.*
+## How to Know and Use in Daily Life?
+Development: Code review.Bug: Console tracking.Learning: Site anatomy.
 
-## How it works
-You can open this tool by right-clicking on any page in your browser and selecting 'Inspect'. You can see the HTML and CSS codes of the site in the panel that opens and follow the errors in the console section.
+## Technical Depth and Architecture
+Panels:
 
-## Where it is used
-It is used in web development processes, debugging and to understand how websites work.
+## Use in Different Disciplines
+Glasses: Installation behind the wall. X-ray: Internal structure view. Hood: Engine compartment.
 
-## Frequently asked questions
-**Does it only work in Chrome?**
-Despite the name, similar tools are available in all modern browsers such as Firefox, Edge and Safari.
+## Frequently Asked Questions
+**Just Chrome?**
+No. Firefox, Edge and Safari offer similar panels.
 
-**Can I change the codes permanently?**
-No, the changes you make will only appear temporarily on your screen, everything will return to its previous state when you refresh the page.
+**Does it change permanently?**
+No. When you refresh it, it goes away and the file changes.
+
+**Should mobile be tried?**
+Yes. Size and touch are tested with device emulation.
+
+**Does it keep records?**
+In-session amount. Continuous monitoring requires a separate tool.
 
 
 ## Related terms

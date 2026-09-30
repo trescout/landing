@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>What is OpenStreetMap? · Dictionary · TreScout</title>
-<meta name="description" content="OpenStreetMap (OSM) is a free, collaborative, and open-license geographic database of the world, built and continuously updated by millions of volunteer mappers, civic contributors, and open-source cartographers.">
+<meta name="description" content="OpenStreetMap (OSM for short) is a free and open world map drawn together by volunteers. It is a free and open source map project that anyone in the world ">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/en/dictionary/openstreetmap/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/openstreetmap/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/openstreetmap/">
 <link rel="alternate" type="text/markdown" href="/en/dictionary/openstreetmap.md">
 <meta property="og:title" content="What is OpenStreetMap?">
-<meta property="og:description" content="OpenStreetMap (OSM) is a free, collaborative, and open-license geographic database of the world, built and continuously updated by millions of volunteer mappers, civic contributors, and open-source cartographers.">
+<meta property="og:description" content="OpenStreetMap (OSM for short) is a free and open world map drawn together by volunteers. It is a free and open source map project that anyone in the world ">
 <meta property="og:url" content="https://trescout.com/en/dictionary/openstreetmap/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="What is OpenStreetMap?">
-<meta name="twitter:description" content="OpenStreetMap (OSM) is a free, collaborative, and open-license geographic database of the world, built and continuously updated by millions of volunteer mappers, civic contributors, and open-source cartographers.">
+<meta name="twitter:description" content="OpenStreetMap (OSM for short) is a free and open world map drawn together by volunteers. It is a free and open source map project that anyone in the world ">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "OpenStreetMap",
-  "description": "OpenStreetMap (OSM) is a free, collaborative, and open-license geographic database of the world, built and continuously updated by millions of volunteer mappers, civic contributors, and open-source cartographers.",
+  "description": "OpenStreetMap (OSM for short) is a free and open world map drawn together by volunteers.",
   "inLanguage": "en",
   "url": "https://trescout.com/en/dictionary/openstreetmap/",
   "inDefinedTermSet": {
@@ -42,46 +42,6 @@
     "name": "TreScout Tech Dictionary",
     "url": "https://trescout.com/en/dictionary/"
   }
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Is OpenStreetMap completely free to use?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes; the data is distributed under the Open Database License (ODbL), which allows free commercial and private usage as long as attribution is given."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How does OSM maintain data quality without full-time cartographers?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Through community peer review, automated validation linters, and changeset monitoring tools that catch vandalism and mapping errors rapidly."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can developers host their own OSM tile server?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes; open-source toolchains (PostGIS, Mapnik, Osmosis) allow companies to self-host mapping infrastructure and eliminate commercial API costs."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What distinguishes OSM from Google Maps?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Google Maps provides a closed proprietary service with usage meters; OSM provides raw spatial vector data that you can download, query, and modify freely."
-      }
-    }
-  ]
 }
 </script>
 <link rel="preload" href="/assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -96,16 +56,15 @@
 <article class="disc">
 <a class="disc-back" href="/en/dictionary/">← Dictionary</a>
 <div class="disc-top"><span class="disc-eyebrow">Dictionary · Data</span><time class="dict-time" datetime="2026-09-22">Last updated: September 22, 2026</time></div>
-<h1 class="disc-title">What is OpenStreetMap (OSM)?</h1>
-<p class="dict-en">English: OpenStreetMap · Etymology: English open + street + map</p>
-<p class="disc-lead">OpenStreetMap (OSM) is a free, collaborative, and open-license geographic database of the world, built and continuously updated by millions of volunteer mappers, civic contributors, and open-source cartographers.</p>
-<section class="disc-sec"><h2>Definition and Etymology</h2><p>Founded in 2004 by Steve Coast in response to restrictive proprietary map licensing, OpenStreetMap is often called the Wikipedia of cartography. Unlike commercial mapping providers that restrict underlying spatial data behind subscription paywalls and API meters, OSM distributes raw geographic vector data freely under the Open Database License (ODbL).</p></section>
-<section class="disc-sec"><h2>Everyday Context and Practical Usage</h2><p>Pervasive practical applications of OSM across tech:</p><ul><li><strong>Mobile Navigation Apps:</strong> Privacy-respecting offline navigation tools like OsmAnd, Organic Maps, and MAPS.ME run entirely on OSM downloads.</li><li><strong>Tech Platforms:</strong> Apple, Strava, Niantic, and Mapbox incorporate OSM geographic layers into consumer apps.</li><li><strong>Humanitarian Relief:</strong> The Humanitarian OpenStreetMap Team (HOT) rapidly maps disaster zones following earthquakes and floods to guide rescue teams.</li></ul></section>
-<section class="disc-sec"><h2>Technical Depth and Architecture</h2><p>The core data model of OpenStreetMap consists of three fundamental primitives:</p><ul><li><strong>Node:</strong> A single geographic point defined by latitude and longitude coordinates (e.g. a bench, tree, or traffic light).</li><li><strong>Way:</strong> An ordered list of nodes forming either an open polyline (a street, river, or hiking trail) or a closed polygon (a building footprint or park).</li><li><strong>Relation:</strong> Groupings of nodes and ways modeling complex spatial constructs such as bus routes, turn restrictions, and multipolygon boundaries.</li><li><strong>Key-Value Tagging:</strong> Universal semantic metadata attributes (e.g. highway=primary, maxspeed=50, building=yes).</li></ul></section>
-<section class="disc-sec"><h2>Cross-Disciplinary Perspectives</h2><p>Parallels in other collaborative knowledge endeavors:</p><ul><li><strong>Encyclopedias:</strong> The open crowd-sourced authoring and editorial review model of Wikipedia.</li><li><strong>Open Source Software:</strong> The Linux kernel development ecosystem uniting hobbyists and multinational tech corporations.</li><li><strong>Citizen Science:</strong> Crowd-sourced astronomical sky surveys and bird migration tracking networks.</li></ul></section>
-<div class="dict-analogy">It is like the Wikipedia of world maps; anyone can spot a new walking trail, fix a misspelled street name, and contribute local knowledge so that the entire globe enjoys a continuously refined, community-owned atlas.</div>
-<section class="disc-sec"><h2>Frequently Asked Questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Is OpenStreetMap completely free to use?</p><p class="dict-faq-a">Yes; the data is distributed under the Open Database License (ODbL), which allows free commercial and private usage as long as attribution is given.</p></div><div class="dict-faq-item"><p class="dict-faq-q">How does OSM maintain data quality without full-time cartographers?</p><p class="dict-faq-a">Through community peer review, automated validation linters, and changeset monitoring tools that catch vandalism and mapping errors rapidly.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Can developers host their own OSM tile server?</p><p class="dict-faq-a">Yes; open-source toolchains (PostGIS, Mapnik, Osmosis) allow companies to self-host mapping infrastructure and eliminate commercial API costs.</p></div><div class="dict-faq-item"><p class="dict-faq-q">What distinguishes OSM from Google Maps?</p><p class="dict-faq-a">Google Maps provides a closed proprietary service with usage meters; OSM provides raw spatial vector data that you can download, query, and modify freely.</p></div></div></section>
-<section class="disc-sec"><h2>Related terms</h2><div class="dict-related"><a href="/en/dictionary/data-pipeline/">Data Pipeline</a><a href="/en/dictionary/open-source/">Open Source</a><a href="/en/dictionary/api/">API</a></div></section>
+<h1 class="disc-title">What is <span class="disc-accent">OpenStreetMap</span>?</h1>
+<p class="disc-lead">OpenStreetMap (OSM for short) is a free and open world map drawn together by volunteers.</p>
+<section class="disc-sec"><h2>Definition and Word Origin</h2><p>The project was launched in 2004. Unlike commercial maps, the data is not produced by a company, but by a community of volunteers: Anyone can add new roads, buildings or landmarks, and correct errors. The data is publicly available under an ODbL license. This means that you can use the data for free, but you must indicate the source when sharing it.</p></section>
+<div class="dict-analogy"><strong>Analogy:</strong> It&#39;s like the Wikipedia of maps; Anyone can add something, fix bugs, and it stays constantly updated thanks to the community.</div>
+<section class="disc-sec"><h2>How to Know and Use in Daily Life?</h2><p>Navigation applications: Applications such as OsmAnd and MAPS.ME get their maps from OSM data. Logistics: Route planning of distribution companies. Disaster relief: Quick mapping of crisis areas by volunteers (e.g. HOT community). City planning: Bicycle path and green space analyses.</p></section>
+<section class="disc-sec"><h2>Technical Depth and Architecture</h2><p>OSM data consists of three building blocks:</p></section>
+<section class="disc-sec"><h2>Use in Different Disciplines</h2><p>Encyclopedia: Wikipedia model where everyone writes and corrects. Open source software: Linux kernel grown with voluntary contributions. Citizen science: Collecting bird observation records in a common database.</p></section>
+<section class="disc-sec"><h2>Frequently Asked Questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Is it really free?</p><p class="dict-faq-a">The data is free with an ODbL license. If you host it on your own server, you won&#39;t pay any additional fees. Companies offering ready-made tile services may charge an additional fee.</p></div><div class="dict-faq-item"><p class="dict-faq-q">What is the difference with Google Maps?</p><p class="dict-faq-a">Google produces the data in-house and binds it to API quotas. OSM data is produced by the community, you can download the raw data and process it unlimitedly.</p></div><div class="dict-faq-item"><p class="dict-faq-q">How do I contribute to the map?</p><p class="dict-faq-a">You can create an account and start with the iD editor in the browser. Adding the missing shop on your street is a good first step.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Can I use it in my commercial product?</p><p class="dict-faq-a">Yes, but as required by ODbL, you must visibly provide OpenStreetMap attribution and share the derived data with the same license.</p></div></div></section>
+<section class="disc-sec"><h2>Related terms</h2><div class="dict-related"><a href="/en/dictionary/data-pipeline/">Data Pipeline</a><a href="/en/dictionary/osint/">OSINT</a><a href="/en/dictionary/graph-based-investigation/">Graph-based Investigation</a></div></section>
 <aside class="disc-cta"><p><strong>Explore related tools and daily reports.</strong> Stay on top of emerging tech terms and tools. Receive TreScout's daily summary in your inbox.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-en" data-page-type="dictionary" data-content-slug="openstreetmap" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/dictionary/">All terms →</a></aside>
 <p class="disc-disclaimer">This explanation was written in plain language for TreScout and <strong>machine-translated</strong> from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/openstreetmap/">Read in Turkish →</a></p>
 </article>

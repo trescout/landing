@@ -1,79 +1,63 @@
-# Transformez vos dépôts GitHub en diagrammes d'architecture interactifs
+# Transformez les référentiels GitHub en diagrammes architecturaux interactifs
 
-> Gitdiagram · TypeScript · ★ 16.568
+Gitdiagram est un outil open source qui visualise les structures de fichiers complexes et les relations de code dans les référentiels GitHub en quelques secondes. Il présente l'architecture système d'énormes bases de codes dans des diagrammes interactifs en modifiant une seule lettre dans l'URL.
 
-Gitdiagram est un outil open source qui visualise les bases de code complexes en quelques secondes. En changeant un seul mot dans l'URL de votre dépôt GitHub, il génère un schéma interactif du système directement dans votre navigateur.
+- ★ 17 581
+- TypeScript
+- GitHub Trending · 2026-09-19
 
-## Ce que vous y gagnez
-- Cartographie instantanée du code : Visualisez la structure globale et les flux de données d'un dépôt inconnu en quelques secondes.
-- Raccourci d'URL sans installation : Remplacez github.com par gitdiagram.com dans n'importe quel lien pour générer le schéma en direct.
-- Navigation interactive : Cliquez sur n'importe quel bloc du diagramme pour ouvrir directement le fichier source correspondant sur GitHub.
-- Formats d'export complets : Téléchargez vos schémas d'architecture en haute résolution au format PNG, SVG ou texte pour vos présentations.
+## Ce que ça vous apporte
+- Carte de code en quelques secondes : obtenez une vue d'ensemble de l'architecture du système, des principaux modules et du flux de données sans vous perdre dans un entrepôt inconnu de milliers de lignes.
+- Raccourci URL en un clic : générez instantanément des schémas sans installation en remplaçant github.com par gitdiagram.com dans n'importe quelle URL de dépôt GitHub.
+- Nœuds interactifs : accédez directement au fichier ou au dossier de code source approprié sur GitHub en cliquant sur les cases du diagramme.
+- Prise en charge de l'exportation : téléchargez les diagrammes architecturaux générés au format PNG, SVG ou texte pour la documentation ou les présentations.
 
-## Utilisation immédiate : Le raccourci d'URL
-Le point fort de Gitdiagram est son exécution immédiate sans configuration. Il vous suffit de remplacer le mot hub par diagram dans l'adresse du dépôt :Exemple de raccourci d'URLCopier# URL GitHub originale :
+## Opération en un clic : raccourci de changement d’URL
+**Exemple de raccourci URL**
+
+```
+# Orijinal GitHub adresi:
 https://github.com/facebook/react
 
-# URL de schéma interactif Gitdiagram :
-https://gitdiagram.com/facebook/reactDès l'ouverture, Gitdiagram analyse l'arborescence du dépôt en arrière-plan et affiche le graphe interactif dans votre navigateur.
+# Gitdiagram etkileşimli şema adresi:
+https://gitdiagram.com/facebook/react
+```
 
-## Profondeur technique et architecture
-Gitdiagram appréhende le code source comme un graphe relationnel complet plutôt qu'une simple liste de fichiers :
 
-1. Ingestion de l'arborescence : Utilise les API REST et GraphQL de GitHub pour inspecter les manifestes de paquets (package.json, Cargo.toml, go.mod) et les sous-dossiers.
-
-2. Analyse sémantique des dépendances : Détecte les imports inter-modules et délègue à des LLM (OpenAI / Claude API) la classification des rôles fonctionnels (API Gateway, contrôleurs, bases de données).
-
-3. Rendu vectoriel React Flow : Projette les relations sur un canevas SVG interactif où les flux d'exécution sont tracés par des flèches directionnelles.
+## Architecture technique et logique de fonctionnement
+Gitdiagram traite la base de code comme un graphe système relationnel, et non comme du texte pur :
 
 ## Installation et déploiement local
-Pour traiter des dépôts privés ou employer vos propres clés d'API sans limitation de débit, déployez Gitdiagram sur votre machine :
+**Préparer l'environnement local et installer les dépendances**
 
-### Cloner et installer les dépendances
-```bash
+```
 git clone https://github.com/ahmedkhaleel2004/gitdiagram.git
 cd gitdiagram
 bun install
 cp .env.example .env
 ```
 
-### Configurer et lancer le serveur de développement
-```bash
-# Renseignez GITHUB_TOKEN et OPENAI_API_KEY dans .env
+**Démarrage du serveur de développement**
+
+```
+# .env içine GITHUB_TOKEN ve OPENAI_API_KEY ekleyin
 bun run dev
 ```
 
-## Invite pour les non-développeurs et agents IA
-En vous appuyant sur la méthodologie de Gitdiagram, analysez le dépôt GitHub cible. Identifiez les composants majeurs, les points d'entrée, les flux de données et les dépendances externes. Générez un diagramme d'architecture au format Mermaid.js et décrivez chaque sous-système en deux phrases.
 
-## Avertissements et limites critiques
-- Monodépôts volumineux : Les projets comptant des dizaines de milliers de fichiers peuvent saturer les quotas de l'API GitHub sans jeton personnel authentifié.
-- Dépôts privés : L'instance hébergée publique ne traite que les dépôts publics. Pour du code propriétaire d'entreprise, installez l'outil en local.
-- Consommation de jetons LLM : En auto-hébergement, configurez des filtres d'exclusion (dossiers de tests et dépendances vendored) pour maîtriser vos coûts d'API.
+## Si vous ne savez pas coder : invite de l'agent IA
+Créez le diagramme système du référentiel GitHub que j'ai examiné sur la base de l'architecture Gitdiagram. Identifiez les principaux composants, les directions de flux de données, les points d'entrée et les dépendances externes dans le référentiel. Dessinez l'architecture sous forme d'organigramme au format Mermaid.js et décrivez la fonction de chaque composant en deux phrases.
 
-## Questions fréquentes
+## Avertissements critiques et limites
+- Monorepos énormes : les monorepos contenant des dizaines de milliers de fichiers peuvent être soumis à la limite de débit de l'API GitHub. L'utilisation de jetons GitHub personnels élargit les limites.
+- Dépôts privés : la version cloud ne prend en charge que les référentiels publics. Pour les référentiels fermés sur site, vous devez exécuter l'outil sur votre serveur local avec votre propre jeton.
+- Coût du jeton LLM : vous devez configurer des règles de filtrage de fichiers pour optimiser la quantité de jetons API LLM dépensés sur des dépôts volumineux lors de l'exécution sur votre propre serveur.
 
-### Gitdiagram est-il gratuit ?
-Oui, le projet est open source sous licence MIT. Le service web en ligne est totalement gratuit pour les projets publics.
+## Termes liés du glossaire
 
-### Puis-je l'utiliser sur mes dépôts privés ?
-Oui, en déployant le projet sur votre propre machine et en configurant un jeton d'accès personnel GitHub (PAT) avec droits de lecture.
-
-### Quels langages sont pris en charge ?
-Gitdiagram supporte TypeScript, Python, Go, Rust, Java et C++ en analysant les fichiers de configuration et les imports.
-
-### Puis-je intégrer les schémas dans un README GitHub ?
-Oui, vous pouvez exporter les schémas sous forme d'images SVG ou de blocs markdown Mermaid pour les intégrer à votre documentation.
-
-## Liens utiles
-- [Dépôt GitHub officiel (ahmedkhaleel2004/gitdiagram) →](https://github.com/ahmedkhaleel2004/gitdiagram)
-- [Application web Gitdiagram en direct →](https://gitdiagram.com)
-
-## Termes du dictionnaire associés
-- [Software Architecture](/fr/dictionary/software-architecture/)
-- [AI Agent](/fr/dictionary/ai-agent/)
-- [Runtime](/fr/dictionary/runtime/)
-- [Artificial Intelligence](/fr/dictionary/artificial-intelligence/)
+## Liens
+- Dépôt GitHub →
+- Lire en turc →
 
 ---
-Source: TreScout Discovery · https://trescout.com/fr/discover/gitdiagram/
+Source : TreScout Découvrir · https://trescout.com/fr/discover/gitdiagram/

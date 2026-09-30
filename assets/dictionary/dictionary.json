@@ -8682,5 +8682,44 @@
     "kisa_pt": "Valores numéricos que determinam as decisões da inteligência artificial e armazenam as informações aprendidas durante o treinamento.",
     "kisa_es": "Valores numéricos donde la inteligencia artificial almacena la información aprendida durante el entrenamiento y que determinan sus decisiones.",
     "kisa_de": "Numerische Werte, in denen die künstliche Intelligenz während des Trainings gelernte Informationen speichert und die ihre Entscheidungen bestimmen."
+  },
+  {
+    "slug": "reasoning",
+    "en": "Reasoning",
+    "full": "",
+    "cat": "ai",
+    "kisa": "Yapay zekânın kendisine verilen bilgileri sadece ezbere dayalı değil, mantıksal bir süzgeçten geçirerek adım adım sonuç çıkarma yeteneğidir.",
+    "date": "2026-09-30",
+    "kisa_en": "It is the ability of artificial intelligence to deduce results step-by-step by passing the information given to it through a logical filter rather than just relying on rote memorization.",
+    "kisa_fr": "C'est la capacité de l'intelligence artificielle à déduire des résultats étape par étape en passant les informations qui lui sont fournies à travers un filtre logique, et non seulement par mémorisation pure.",
+    "kisa_pt": "É a capacidade da inteligência artificial de extrair resultados passo a passo, passando as informações que lhe são fornecidas por um filtro lógico, e não apenas com base na memorização.",
+    "kisa_es": "Es la capacidad de la inteligencia artificial para extraer conclusiones paso a paso procesando la información que se le proporciona a través de un filtro lógico, no solo basándose en la memorización.",
+    "kisa_de": "Die Fähigkeit der künstlichen Intelligenz, die ihr gegebenen Informationen nicht nur auswendig zu lernen, sondern sie durch einen logischen Filter schrittweise zu Schlussfolgerungen zu verarbeiten."
+  },
+  {
+    "slug": "load-generator",
+    "en": "Load Generator",
+    "full": "",
+    "cat": "dev",
+    "kisa": "Bir sistemin ne kadar yoğun trafiği kaldırabileceğini ölçmek için yapay kullanıcı trafiği oluşturan araç.",
+    "date": "2026-09-30",
+    "kisa_en": "A tool that generates artificial user traffic to measure how much heavy traffic a system can handle.",
+    "kisa_fr": "Outil qui génère un trafic d'utilisateurs artificiel pour mesurer la charge de trafic intense qu'un système peut supporter.",
+    "kisa_pt": "Uma ferramenta que cria tráfego artificial de usuários para medir quanto tráfego intenso um sistema pode suportar.",
+    "kisa_es": "Herramienta que genera tráfico de usuarios artificial para medir cuánto tráfico intenso puede soportar un sistema.",
+    "kisa_de": "Ein Werkzeug, das künstlichen Benutzerverkehr erzeugt, um zu messen, wie viel intensiven Datenverkehr ein System bewältigen kann."
+  },
+  {
+    "slug": "smart-meters",
+    "en": "Smart Meters",
+    "full": "",
+    "cat": "data",
+    "kisa": "Elektrik veya su tüketimini anlık olarak ölçüp verileri merkeze dijital yolla gönderen cihazlar.",
+    "date": "2026-09-30",
+    "kisa_en": "Devices that instantaneously measure electricity or water consumption and digitally transmit the data to a central location.",
+    "kisa_fr": "Appareils qui mesurent instantanément la consommation d'électricité ou d'eau et envoient les données au centre par voie numérique.",
+    "kisa_pt": "Dispositivos que medem o consumo de eletricidade ou água instantaneamente e enviam os dados para a central por meios digitais.",
+    "kisa_es": "Dispositivos que miden el consumo de electricidad o agua en tiempo real y envían los datos al centro de forma digital.",
+    "kisa_de": "Geräte, die den Strom- oder Wasserverbrauch in Echtzeit messen und die Daten digital an eine Zentrale übermitteln."
   }
 ]

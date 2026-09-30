@@ -1,26 +1,22 @@
-# Serienarchiv und Heim-Streaming automatisch verwalten
+# Verwalten Sie Ihr Serienarchiv automatisch
 
-Sonarr ist ein quelloffener, intelligenter Videorekorder (PVR) und Medienautomatisierungs-Manager für Usenet- und BitTorrent-Nutzer. Entwickelt in C# und .NET, überwacht er neue Episoden, steuert Download-Clients, benennt Dateien um und integriert sie nahtlos in Plex- und Jellyfin-Bibliotheken.
+Sonarr ist ein intelligenter Open-Source-Videorecorder (PVR) und Medienautomatisierungsmanager, der für Usenet- (Newsgroups) und BitTorrent-Benutzer entwickelt wurde. Plattform entwickelt mit C#- und .NET-Infrastruktur; Verfolgt neu veröffentlichte Episoden, kommuniziert mit Download-Clients, benennt Dateien um und überträgt sie regelmäßig in Plex- und Jellyfin-Bibliotheken.
 
 - ★ 16.274
 - C#
 - GitHub Trending · 2026-09-12
 
-## Aktualisierungen
-- 17. September 2026: Sterne 16.274, neueste Version v4.0.20.3014 (.NET 8 Runtime-Optimierungen und Upgrades für Custom Formats Scoring).
-
 ## Was es bringt
-- Automatische Episodenverfolgung & Kalender: Behält Ausstrahlungstermine im integrierten Kalender im Blick und startet Downloads bei Veröffentlichung.
-- Intelligente Qualitäts-Upgrades: Ersetzt niedrig aufgelöste Episoden (720p HDTV) im Laufe der Zeit automatisch durch Spitzenversionen (1080p / 4K HDR WEB-DL).
-- Speicherschonende Hardlinks: Ermöglicht weiteres Torrent-Seeding ohne zusätzlichen Speicherplatzbedarf auf dem Medienserver.
-- Umfassende Client- & Indexer-Anbindung: Nahtlose Zusammenarbeit mit qBittorrent, Transmission, Deluge, SABnzbd und NZBGet.
-- Standardisierte Dateiorganisation: Benennt Episoden und Staffelordner automatisch nach den Anforderungen von Plex, Jellyfin und Emby.
+- Automatische Episodenverfolgung und Kalender: Verfolgen Sie die Sendetermine Ihrer Lieblingsserien über den integrierten Kalender und laden Sie neue Episoden automatisch herunter, sobald sie veröffentlicht werden.
+- Intelligente Qualitäts-Upgrades: Ersetzen Sie Abschnitte mit niedrigerer Auflösung (720p HDTV) im Laufe der Zeit automatisch durch Versionen mit höherer Qualität (1080p / 4K HDR WEB-DL).
+- Hardlinking-Unterstützung: Heruntergeladene Dateien bleiben bei der Torrent-Freigabe erhalten und werden dem Medienserver auf derselben Festplatte angezeigt, ohne sie zu duplizieren.
+- Umfassende Client- und Indexer-Integration: Reibungsloses Arbeiten mit qBittorrent, Transmission, Deluge, SABnzbd und NZBGet.
+- Anpassbare Dateibenennung: Automatische Benennung und Ordnerierung von Episodendateien gemäß den Standards von Medienservern (Plex, Jellyfin, Emby).
 
 ## Installationsoptionen: Docker und lokaler Dienst
+**Installation mit Docker Compose**
 
-**Docker Compose Einrichtung**
-
-```yaml
+```
 services:
   sonarr:
     image: lscr.io/linuxserver/sonarr:latest
@@ -28,7 +24,7 @@ services:
     environment:
       - PUID=1000
       - PGID=1000
-      - TZ=Europe/Berlin
+      - TZ=Europe/Istanbul
     volumes:
       - /opt/sonarr/data:/config
       - /mnt/storage/media/tv:/tv
@@ -38,54 +34,45 @@ services:
     restart: unless-stopped
 ```
 
-## Ausführung und Ersteinrichtung
 
-**Container starten**
+## Bedienung und Grundkonfiguration
+**Starten des Containers**
 
 ```
 docker compose up -d
 ```
 
-**Weboberfläche öffnen**
+**Zugriff auf die Weboberfläche**
 
 ```
 http://localhost:8989
 ```
 
+
 ## Technische Architektur und Funktionsweise
+- Torznab- und Newznab-Protokollbrücke: Kommuniziert mit Indexern (über Jackett oder Prowlarr) über die Standard-XML/JSON-API über RSS-Feeds und Suchanfragen.
+- Atomare Dateiverschiebung und Hardlink: Reduziert die Schreiblast auf die Festplatte und die Speicherverschwendung auf Null, indem der Dateisystem-Inode gemountet wird, anstatt die Datei nach Abschluss des Downloads zu kopieren.
+- Bewertungs-Engine für benutzerdefinierte Formate: Wählt die beste Version durch Bewertung bevorzugter Audio-Codecs (Atmos, DTS-HD), Videoformate (AV1, HEVC) und Herausgebergruppen aus.
 
-Sonarr fungiert als Orchestrierungszentrale in modernen Self-Hosted-Medienumgebungen:
-- Torznab- und Newznab-Protokollbrücke: Kommuniziert über Prowlarr oder Jackett via standardisierte XML- und JSON-Schnittstellen mit Indexern.
-- Atomare Dateioperationen und Hardlinks: Verknüpft Dateisystem-Inodes direkt, statt Gigabytes an Videodaten zu kopieren – null zusätzliche Festplattenabnutzung.
-- Custom Formats Scoring-Engine: Bewertet Releases nach bevorzugten Audioformaten (Atmos, DTS-HD), Videocodecs (AV1, HEVC) und Releasegruppen.
-
-## Integration ins Medien-Ökosystem (Plex, Jellyfin, Prowlarr)
-
-Im perfekten Homelab arbeitet Sonarr im Verbund mit ergänzenden Diensten:
-- Indexer-Abgleich mit Prowlarr: Verwalten Sie Tracker zentral und übertragen Sie Konfigurationen automatisch nach Sonarr.
-- Downloadsteuerung mit qBittorrent / SABnzbd: Setzen Sie Uploadlimits und trennen Sie Medienpfade über Kategorien.
-- Sofortige Bibliotheksaktualisierung: Benachrichtigt Plex oder Jellyfin per Webhook, sobald eine Datei fertig einsortiert wurde.
+## Integration des Medienökosystems (Plex, Jellyfin, Prowlarr)
+- Indexer-Synchronisierung mit Prowlarr: Importieren Sie Torrent-Tracker und Usenet-Indexer automatisch von einem einzigen Zentrum aus in Sonarr.
+- Download-Verwaltung mit qBittorrent / SABnzbd: Steuern Sie die Download-Geschwindigkeit und die Freigaberate über bestimmte Kategorien.
+- Plex- oder Jellyfin-Bibliotheksbenachrichtigung: Senden Sie eine sofortige Benachrichtigung an den Medienserver, wenn eine neue Episode auf die Festplatte geschrieben wird, und scannen Sie die Bibliothek.
 
 ## Wenn Sie nicht programmieren
-🤖 Wenn Sie nicht programmieren
-Ich möchte Sonarr zusammen mit qBittorrent, Prowlarr und Jellyfin per Docker Compose betreiben. Kannst du mir eine vollständige docker-compose.yml mit konsistenter Volume-Struktur für funktionierende Hardlinks bereitstellen und die ersten Einrichtungsschritte in Sonarr erklären?
-
-- **Für wen:** Homelab-Enthusiasten, Serienfans und Nutzer, die ihre Mediensammlung ohne manuellen Aufwand pflegen wollen.
-- **Lizenz:** GPL-3.0 (Freie Open-Source-Lizenz)
-- **Technologie:** C# und .NET basierte Webanwendung
-- **Web-Port:** Standard 8989
+Ich möchte die Dienste Sonarr, qBittorrent, Prowlarr und Jellyfin gemeinsam auf Docker auf meinem Heimserver ausführen. Können Sie bitte Schritt für Schritt die vollständige Datei „docker-compose.yml“ erklären, die eine Single-Volume-Mount-Struktur und die ersten Einstellungen enthält, die ich im Sonarr-Webpanel vornehmen muss, damit Hardlinks reibungslos funktionieren?
 
 ## Häufig gestellte Fragen
-- Lädt Sonarr Mediendateien selbst herunter? Nein. Sonarr ist kein Download-Client, sondern der Manager. Er durchsucht Indexer, übergibt Aufträge an qBittorrent oder SABnzbd und verschiebt die fertigen Dateien in die Bibliothek.
-- Was ist ein Hardlink und belegt er doppelten Speicher? Nein. Ein Hardlink ist ein zweiter Verweis auf dieselben physischen Datenblöcke der Festplatte. Die Datei erscheint in zwei Ordnern, belegt den Speicherplatz aber nur einmal.
-- Was ist der Unterschied zwischen Sonarr und Radarr? Sonarr ist auf Serien und Staffeln spezialisiert, während Radarr dasselbe Konzept für Spielfilme umsetzt.
-- Muss Sonarr über ein VPN laufen? Sonarr fragt nur Metadaten ab und benötigt in der Regel kein VPN. Es wird jedoch dringend empfohlen, den Download-Client (qBittorrent) über einen VPN-Tunnel zu betreiben.
-
-## Links
-- [GitHub →](https://github.com/Sonarr/Sonarr)
+- Lädt Sonarr die Datei selbst direkt herunter? Nein. Sonarr ist kein Download-Client; ist Manager. Es sucht, überträgt die Torrent-/NZB-Datei an Clients wie qBittorrent oder SABnzbd und verschiebt die heruntergeladene Datei in den Archivordner.
+- Was ist ein Hardlink und füllt er die Festplatte doppelt so stark aus? Nein. Beim Hardlinking wird ein zweiter Pfadzeiger auf die physischen Daten der Datei auf der Festplatte gesetzt. Es erscheint sowohl im Download- als auch im TV-Ordner, nimmt jedoch genauso viel Speicherplatz auf der Festplatte ein wie eine einzelne Datei.
+- Was ist der Unterschied zwischen Sonarr und Radarr? Während Sonarr bei Fernsehserien, Staffeln und Episoden Regie führt; Radarr bietet die gleiche Architektur für Spielfilme.
+- Ist die Verwendung eines VPN erforderlich? Da Sonarr nur RSS- und Metadatenabfragen durchführt, ist im Allgemeinen kein VPN erforderlich; Es wird jedoch empfohlen, dass der Torrent-Download-Client (qBittorrent) hinter einem VPN-Tunnel ausgeführt wird.
 
 ## Verwandte Begriffe aus dem Glossar
-Self-Hosted Offline Open Source Local
+
+## Links
+- GitHub-Repository →
+- Auf Türkisch lesen →
 
 ---
-Source: TreScout Discover · https://trescout.com/de/discover/sonarr/
+Quelle: TreScout Entdecken · https://trescout.com/de/discover/sonarr/

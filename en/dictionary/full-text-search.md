@@ -1,27 +1,34 @@
 # What is Full Text Search?
 
-It is a detailed search method performed by scanning the entire text content of a document or database, not just the titles.
+Full text search is a search method that finds words in the entire content of documents.
 
-## Overview
-Full text search allows you to find a word you are looking for wherever it appears in the document. While simple search methods usually only look at filenames, this method analyzes each sentence and word within the document. It is the most effective way to access the information you are looking for, especially in large archives.
+## Definition and Word Origin
+While simple search looks at the filename, full-text search scans every sentence within the document. It is the most effective way to access information in large archives. Its modern infrastructure is based on the structure called inverted index.
 
-*Analogy: It is like finding the sentence you are looking for by reading all the pages of a book one by one, instead of just looking at the table of contents.*
+## How to Know and Use in Daily Life?
+Search within the site: Searching for a topic on the blog. E-mail: Finding a message from years ago. Code: Searching for a function in the repository. Law: Scanning the jurisprudence archive.
 
-## How it works
-The system pre-converts all text into an index. When you type a word, this index instantly lists in which document and where the information you are looking for is located.
+## Technical Depth and Architecture
+The line is:
 
-## Where it is used
-It is used in search engines, database management systems and large document archives.
+## Frequently Mixed Things
+It can be confused with a metadata search. Metadata looks at file information (name, date, size), full text search looks at content. Vector search, on the other hand, looks at the meaning, not the word.
 
-## Commonly confused with
-It can be confused with a metadata search; While metadata only looks at file information, this method looks at the content.
+## Use in Different Disciplines
+Library: Scanning the entire text instead of the receipt catalogue. Book: Index section at the end. Archive: Searching for topics in the newspaper clipping collection.
 
-## Frequently asked questions
+## Frequently Asked Questions
 **Won't it run too slowly?**
-It gives very fast results thanks to pre-created indexing.
+Thanks to the pre-installed index, it gives results in seconds. Scanning without an index would be slow, so an index is a must.
 
 **Does it work on all types of files?**
-It usually works on text-based files, but can also be used on OCR-scanned documents.
+Yes, in text extractable files. In scanned documents, text is first obtained with OCR.
+
+**Do Turkish suffixes cause problems?**
+In qualified analysis, the suffixes are reduced to the root. In an engine with poor language support, the accuracy drops and Turkish-supported configuration is required.
+
+**When should you use vector search?**
+When searching for synonyms and concepts. If the keyword cannot be found, vector comes into play, both are powerful together.
 
 
 ## Related terms

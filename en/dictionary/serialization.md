@@ -1,51 +1,44 @@
-# What is Serialization and How Does it Work?
+# What is Serialization?
 
-> English: Serialization · Etymology: Latin series (row, succession) + facio (to make)
+Serialization is the dynamic allocation of objects, data structures, and pointer graphics in the working memory (RAM) of a programming language; It is the process of converting data into a flat, linear byte stream or text format that can be transmitted over the network or stored on disk.
 
-**Category:** Dev  
-**Last updated:** 2026-09-19
+## What Does Serialization Mean and Why Is It Necessary? Memory Model
+In modern operating systems, each process runs in its own isolated virtual address space. An object at runtime; It contains local variables on the stack, dynamically allocated memory blocks on the heap, function pointers (vtable) and reference addresses (0x7ffee4b2...).
 
-Serialization is the process of converting dynamically allocated in-memory data structures, objects, and pointer graphs into a linear byte stream or standardized text format suitable for network transmission or persistent disk storage.
-
-## What is Serialization and Why is it Necessary? Memory Model
-In modern operating systems, every running process resides in an isolated virtual address space. Objects instantiated inside heap memory reference each other through memory pointers. Because pointers are merely raw virtual memory addresses valid only within that specific process context, they cannot be transferred across network sockets or saved to disk as-is. Serialization decomposes complex object graphs, resolves references, and flattens them into portable, self-contained data representations.
-
-## Serialization Formats: Text-Based vs Binary Protocols
-Choosing the appropriate format involves tradeoffs across human readability, CPU parsing overhead, network payload size, and schema rigor:
-- **Text-Based (JSON, YAML, XML):** Human-readable, widely supported across programming languages, and simple to debug over HTTP APIs. However, they incur significant parsing overhead and payload inflation due to string encoding.- **Binary Formats (Protocol Buffers, MessagePack, Avro):** Compact binary representations featuring explicit field numbering, compact varints, and strong typing. They yield substantial bandwidth savings and rapid deserialization.- **Schema Evolution:** Enterprise protocols like Protobuf and Avro ensure backward and forward compatibility, allowing services to upgrade schemas without breaking older clients.
+## Serialization Formats: Text-Based vs Binary
+Choosing the right serialization format in software architecture; It requires a balance between human readability, CPU parsing cost, network bandwidth, and type safety.
 
 ## Zero-Copy Deserialization Architecture
-Conventional deserialization reads incoming bytes from a network buffer and reconstructs new heap objects in memory, requiring allocation and memory copies. Modern high-throughput frameworks (such as Cap'n Proto and FlatBuffers) utilize **Zero-Copy Deserialization**:
-- **In-Place Traversal:** Data is organized with predetermined memory alignment and internal relative offsets.- **Direct Memory Mapping:** The application queries fields directly from memory-mapped disk files or network buffers without heap allocations, delivering orders of magnitude higher throughput.
+In classic serialization libraries (JSON parsers or standard Protobuf) the deserialization process is carried out with these steps:
 
-## Security Dimensions: Insecure Deserialization (CWE-502)
-When serialization formats serialize not just raw data fields but dynamic object classes, executable methods, or runtime closures (common in Python pickle, Java native serialization, or Ruby Marshal), severe security vulnerabilities emerge:
-- **Remote Code Execution (RCE):** Malicious payloads can construct gadget chains that trigger arbitrary system execution during deserialization before business validation runs.- **Best Practice Defenses:** Treat untrusted network input strictly as structured data (preferring JSON, Protobuf, or strict schemas) and implement message integrity verification via HMAC or TLS.
+## Security Dimension: Insecure Deserialization (CWE-502)
+Catastrophic security vulnerabilities arise when serialization attempts to serialize object classes and runtime behaviors rather than just moving pure data. Insecure Deserialization (Insecure Reverse Serialization), which is in the OWASP Top 10 list, allows the attacker to run arbitrary code (Remote Code Execution - RCE) on the system.
 
-## Analogy
-It is like disassembling a piece of furniture into flat components to pack into a compact box for transport, and then following the instruction manual to reassemble it at the destination.
+## Frequently asked questions
+**What is the main difference between Serialization and Deserialization?**
+Serialization is the process of converting live objects in memory into a stream of bytes/text that can be stored or transmitted. Deserialization is the process of reading and parsing this byte sequence and converting it into an object that works again in the target system's memory.
 
-## Frequently Asked Questions
+**When should Protobuf or FlatBuffers be used instead of JSON in web projects?**
+For public web clients and public APIs, JSON is ideal due to its browser compatibility and ease of debugging. However, for internal microservices, mobile application backends or real-time data streams, Protobuf or FlatBuffers should be preferred to throttle network bandwidth and reduce CPU decomposition cost.
 
-**What is the fundamental difference between serialization and deserialization?**  
-Serialization flattens living memory structures into a linear byte sequence. Deserialization performs the reverse: reconstructing structured objects and pointer relationships from that byte stream.
+**How does the Insecure Deserialization attack work and how to prevent it?**
+The attacker injects malicious functions or class structures into the serialized data to be executed during deserialization. When the server parses this data, system commands can be triggered. To prevent this, formats that carry class logic should be abandoned and only schema formats that carry pure data (Protobuf, JSON Schema) should be used.
 
-**Why should Python's pickle never be used with untrusted data?**  
-Pickle allows serialized streams to instantiate arbitrary Python objects and execute constructor functions, enabling attackers to execute system commands directly upon deserialization.
+**What does zero-copy deserialization mean?**
+It is a technique of reading data directly with pointer offsets on the buffer memory, rather than copying the incoming byte stream by allocating new memory areas. It relieves the processor and garbage collector by resetting memory allocation.
 
-**How does FlatBuffers achieve zero-copy deserialization?**  
-It lays out data in memory-aligned binary structures with relative offsets so consumers can read fields directly from the buffer without heap allocation.
+**What is Schema Evolution? How to ensure backward and forward compatibility?**
+Data models change as software is updated. Systems such as Protobuf and Avro give unique numerical IDs to fields, allowing old clients to ignore new fields (backward compatibility) and new clients to read old data with default values ​​(forward compatibility).
 
-**When is JSON preferred over Protobuf?**  
-When human readability, quick exploratory debugging, and universal browser compatibility outweigh payload compression and CPU parsing efficiency.
 
 ## Related terms
 - [API](/en/dictionary/api/)
 - [Data Pipeline](/en/dictionary/data-pipeline/)
-- [Buffer](/en/dictionary/buffer/)
+- [Memory Management](/en/dictionary/memory-management/)
+- [Network Stack](/en/dictionary/network-stack/)
 
 ## Related tools
 - [YAML Cpp](/en/discover/yaml-cpp/)
 
 ---
-Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/serialization/
+Source: TreScout Dictionary · https://trescout.com/en/dictionary/serialization/

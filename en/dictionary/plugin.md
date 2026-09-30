@@ -1,33 +1,40 @@
 # What is Plugin?
 
-Small pieces of software that are installed later to provide additional features to the main program.
+Plugin is an independent modular software component that adds new capabilities, tools and functions to a system without changing the core code of the software or having to recompile it.
 
-## Overview
-These structures, also known as plug-ins, allow you to add new capabilities to a software without changing its core code. For example, if you have a browser, you can install a plug-in that blocks ads and make it do something that the browser cannot do. It is the most practical method used to expand the boundaries of the main program.
+## Conceptual origin and architectural philosophy
+The term "plugin" derives from the English verb "plug in". It refers to modules that can be plugged in and removed when software is needed, just like an effect pedal connected to a sound amplifier or hardware plugged into a computer via USB.
 
-*Analogy: Think of a smartphone; The phone itself is the main program, and each application you download from the application store is an add-on that adds new capabilities to your phone.*
+## Microkernel architecture and working principle
+Plugin-based systems are generally built with Microkernel Pattern. In this architecture, the system consists of two main parts:
 
-## How it works
-The main software provides special ports to which plug-ins can be connected. When you install the plugin, it starts talking to the main program through these ports and new buttons or features are added to the menu.
+## Similar concepts: Plugin, Extension, Add-on and Mod
+Although these terms are often used interchangeably in the software ecosystem, they have nuances:
 
-## Where it is used
-It is used in web browsers, graphic design programs and interfaces that enable artificial intelligence models to connect to the internet.
-
-## Commonly confused with
-It should not be confused with the program itself, but only with the auxiliary parts that support it.
+## Plugins and Model Context Protocol (MCP) in the age of artificial intelligence
+With the artificial intelligence revolution, plug-in architecture has gained a whole new dimension. Large language models (LLM) have ceased to be closed repositories of information and have turned into autonomous agents that can search the web, query databases and take action via APIs, thanks to plug-ins and "Tool/Function Calling" mechanisms. Model Context Protocol (MCP), developed by Anthropic, is the most up-to-date example of modern plug-in architecture, enabling LLMs to connect to different data sources and tools with a standard plug-in protocol.
 
 ## Frequently asked questions
-**Do add-ons slow down the computer?**
-Installing too many plugins may slightly slow down the startup or running speed of the main program.
+**What does plugin mean and what is its Turkish equivalent?**
+It comes from the English root "plug in" and is called "add-on" in Turkish. It is an independent piece of software that provides additional functionality to a main software.
 
-**Are there add-ons for each program?**
-No, only software that allows plug-in system (open architecture) supports this feature.
+**Do plugins cause performance degradation or security vulnerabilities?**
+Yes. Poorly optimized plugins can consume excessive memory and CPU. Additionally, third-party plugins should only be installed from trusted sources, as they can leave the door open to supply chain attacks.
+
+**What is the difference between Plugin and Extension?**
+While the term plugin mostly refers to modules (e.g. audio/video filters) that extend the application's core capabilities and data engine; Extension is mostly preferred for add-ons that improve the interface and user interaction.
+
+**Is Model Context Protocol (MCP) an add-on?**
+MCP is an open plug-in protocol that standardizes how AI models talk to external tools, databases, and services.
 
 
 ## Related terms
-- [Plugins](/en/dictionary/plugin/)
 - [SDK](/en/dictionary/sdk/)
 - [API](/en/dictionary/api/)
+- [LSP](/en/dictionary/lsp/)
+- [MCP](/en/dictionary/mcp/)
+- [Bundler](/en/dictionary/bundler/)
+- [Runtime](/en/dictionary/runtime/)
 
 ## Related tools
 - [Superpowers](/en/discover/superpowers/)
@@ -37,7 +44,7 @@ No, only software that allows plug-in system (open architecture) supports this f
 - [Understand Anything](/en/discover/understand-anything/)
 - [Claude Plugins Official](/en/discover/claude-plugins-official/)
 - [Codex Plugin Cc](/en/discover/codex-plugin-cc/)
-- [Compound Engineering](/en/discover/compound-engineering-plugin/)
+- [Knowledge Work Plugins](/en/discover/knowledge-work-plugins/)
 
 ---
 Source: TreScout Dictionary · https://trescout.com/en/dictionary/plugin/

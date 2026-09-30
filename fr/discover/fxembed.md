@@ -6,6 +6,8 @@ FxEmbed est un outil d'intégration de contenu qui permet aux publications sur l
 - TypeScript
 - GitHub Trending · 2026-09-25
 
+## Termes liés du glossaire
+
 ## Liens
 - Dépôt GitHub →
 - Lire en turc →

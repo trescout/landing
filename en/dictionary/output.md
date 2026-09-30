@@ -1,24 +1,34 @@
 # What is Output?
 
-It is the data produced by a computer program or artificial intelligence system as a result of the process.
+Output is the data produced as a result of the process.
 
-## Overview
-Output is the result that the system produces by processing the input given to it. This could be text, an image, an audio file, or just a confirmation message. As TreScout, we define output as the product that the system 'finishes its job and presents to you'.
+## Definition and Word Origin
+The input is processed, the result is output: text, image, sound or confirmation message. Every result from API response to model response is output. Input is the beginning, output is the result.
 
-*Analogy: When you put dough (input) into an oven, what comes out of the oven is like bread (output).*
+## How to Know and Use in Daily Life?
+API: JSON response body. Command line: Text printed to the screen. Model: Generated response.
 
-## How it works
-The system processes the data, transforms it according to rules or models, and transmits it to the user or another system.
+## Technical Depth and Architecture
+Output channels:
 
-## Where it is used
-It appears in all kinds of software, API responses and artificial intelligence models' responses.
+## Frequently Mixed Things
+Not to be confused with input. Input is the beginning, output is the result. It also mixes with log: Log is the intermediate track, the output is the delivery.
 
-## Commonly confused with
-Not to be confused with input; input is the beginning and output is the result.
+## Use in Different Disciplines
+Bakery: Dough enters, bread comes out. Factory: Part enters, product comes out. Exam: Question enters, points are subtracted.
 
-## Frequently asked questions
+## Frequently Asked Questions
 **Why would the output be incorrect?**
-Usually, if the input is faulty or the processing capacity of the system is not sufficient, faulty output is produced.
+Often the input is faulty or the capacity is insufficient. First the input, then the transaction is checked.
+
+**What is stdout?**
+It is the channel on which the program writes normal results. Errors go to separate channel (stderr), the two are not mixed.
+
+**Is the model output reliable?**
+Conditional. It is useful in drafting and proposal, human control is essential in critical decision.
+
+**How to choose output format?**
+To the consumer: JSON to the machine, text to the human. If both are required, separate ends are supplied.
 
 
 ## Related terms

@@ -14,6 +14,8 @@ Las imágenes de ejecutores (runner images) de GitHub Actions albergan los entor
 ## Cómo empezar
 Para crear una máquina virtual para esta herramienta, puede revisar las instrucciones en el archivo create-image-and-azure-resources.md ubicado en la carpeta docs del repositorio.
 
+## Términos relacionados del glosario
+
 ## Enlaces
 - Repositorio en GitHub →
 - Leer en turco →

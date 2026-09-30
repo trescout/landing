@@ -1,48 +1,37 @@
 # What is Extensibility?
 
-> English: Extensibility · Etymology: Latin extendere (to stretch out, expand)
+Extensibility is the ability of a software to gain new capabilities with plug-ins and modules without touching its main code.
 
-**Category:** Dev  
-**Last updated:** 2026-09-22
+## Definition and Word Origin
+The term "extensibility" derives from the English root extend. It is closely related to the Open-Closed Principle in software engineering: A module should be open to extension but closed to modification. So, when a new feature is needed, instead of breaking the existing code, you just add a new part to the system.
 
-Extensibility is a software engineering design principle where a system is architected so that new capabilities, plugins, and modules can be added seamlessly without modifying existing core code.
-
-## Definition and Etymology
-The word extensibility derives from the Latin extendere, meaning to stretch out. In software architecture, an extensible system adheres to the Open-Closed Principle (the O in SOLID): open for extension, closed for modification. Rather than hardcoding every possible future feature into the central engine, developers design hooks, event listeners, and standardized interfaces that third-party extensions can latch onto.
-
-## Everyday Context and Practical Usage
-Extensibility is present in everyday developer and consumer tools:
-- **Code Editors:** VS Code remains lightweight while supporting thousands of themes, debuggers, and language servers via its extension marketplace.- **Web Browsers:** Chrome and Firefox allow users to install ad blockers, password managers, and developer tool extensions.- **Content Management Systems:** WordPress and Drupal run on extensible plugin and theme hooks, powering diverse websites from blogs to ecommerce.
+## How to Know and Use in Daily Life?
+As an end user, you encounter extensibility every day:
 
 ## Technical Depth and Architecture
-Core architectural mechanisms for achieving extensibility:
-- **Plugin Architecture & Hook Systems:** Exposing lifecycle hooks (e.g. beforeSave, afterAuth) where external code injects custom behavior.- **Dependency Inversion & Interfaces:** Decoupling caller from implementation through abstract interface contracts.- **Event-Driven Pub/Sub:** Systems broadcast state changes, enabling listeners to react without tight coupling.- **WebAssembly (WASM) Sandboxing:** Running untrusted third-party extensions safely within isolated memory sandboxes.
+The core of an extensible system is small, its surroundings grow with add-ons. Typical parts of this architecture are:
 
-## Cross-Disciplinary Perspectives
-Parallels in non-software domains:
-- **Architecture & Construction:** Designing modular building foundations that allow adding extra stories or annexes without demolishing load-bearing walls.- **Tool Design:** Modular power tool handles compatible with interchangeable drill, saw, and sander heads.- **Game Design:** Tabletop board games designed with expansion pack slots and customizable rule modules.
-
-## Analogy
-It is like a Swiss Army knife whose core chassis remains compact, but which provides modular slots allowing you to attach a new screwdriver, scissors, or flashlight tip whenever needed.
+## Use in Different Disciplines
+Architecture: Prefabricated structures where new modules can be added without touching the load-bearing walls. Production: Food processors that can be attached to the same body with different apparatus. Game: Mod communities that add new maps and missions without changing the main game.
 
 ## Frequently Asked Questions
+**Is every software extensible?**
+No. Unless the software is designed with this flexibility from the beginning, adding plug-in support later is often expensive and risky.
 
-**Is every software application extensible?**  
-No; building extensibility requires intentional abstraction upfront. Unplanned modularity often adds unnecessary complexity (over-engineering).
+**What is the difference between a plugin and a fork?**
+You do not copy the main code in the plugin, you connect to the system from outside. In forking, you copy the entire code and go to a separate path.
 
-**What is the difference between extensibility and maintainability?**  
-Maintainability is how easily you can fix bugs and refactor existing code; extensibility is how easily you can add completely new capabilities without altering existing code.
+**Are plugins safe?**
+It varies depending on the source. Choose up-to-date and widely used plugins from official stores. Be careful of plugins that request unnecessary permissions.
 
-**How do developers prevent rogue extensions from crashing the host?**  
-By executing extensions within isolated worker threads, WASM sandboxes, or process boundaries with restricted system permissions.
+**Does extensibility reduce performance?**
+Each plugin imposes some load. When you use few and well-maintained plug-ins, the effect is often unnoticeable.
 
-**What role do public APIs play in extensibility?**  
-APIs and SDKs define the stable contractual boundary through which external developers interact with host system internals safely.
 
 ## Related terms
 - [Plugin](/en/dictionary/plugin/)
-- [Emitter](/en/dictionary/emitter/)
-- [Tools](/en/dictionary/tools/)
+- [API](/en/dictionary/api/)
+- [Framework](/en/dictionary/framework/)
 
 ---
-Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/extensibility/
+Source: TreScout Dictionary · https://trescout.com/en/dictionary/extensibility/

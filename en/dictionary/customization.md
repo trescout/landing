@@ -1,57 +1,40 @@
 # What is Customization?
 
-> Software Customization
+Customization means adapting the ready-made product to your own needs.
 
-**Category:** Dev  
-**Last updated:** 2026-09-22
+## Definition and Word Origin
+"Customize" means to customize. It ranges from interface color to workflow rule. The goal is for the product to fit you, not your product. The tailor metaphor is apt: Ready-made suits are purchased and narrowed down according to size.
 
-Customization refers to the process of modifying or adapting software products, user interfaces, and technical workflows to satisfy specific user requirements or organizational operational needs.
-
-## Definition and Etymology
-To customize means tailoring an existing off-the-shelf product to individual preferences. This spans from visual styling and dark-mode themes to programmatic API extensions, custom workflow rules, and bespoke business integrations. The overarching objective is making the technology adapt to the human user, rather than forcing the user to conform to rigid software constraints.
-
-## Everyday Context and Practical Usage
-- **User Interfaces:** Personalizing workspaces, shortcuts, color palettes, and widgets.
-- **Enterprise Systems:** Configuring ERP/CRM custom fields, data models, and automated approval logic.
-- **Developer Tooling:** Extending code editors through custom plugins, linters, and keymaps.
+## How to Know and Use in Daily Life?
+Theme: Dark mode and color selection. Shortcut: Key assignments. Enterprise: Approval flow and field definitions.
 
 ## Technical Depth and Architecture
-Architectural Dimensions of Customization:- **Configuration-Driven:** Declarative JSON, YAML, or schema settings that alter behavior without modifying core source code.
-- **Plugin & Hook Architecture:** Isolated extension points, event listeners, and WebAssembly sandboxes.
-- **Code-Level Forking:** Branching source repositories for deep, tailored modifications (carrying high upstream maintenance overhead).
+Adaptation layers, from cheap to expensive:
 
-Engineering discipline emphasizes configuration over source code branching, ensuring that upstream security patches and feature updates can be applied without breaking custom logic.
+## Frequently Mixed Things
+It is similar to Personalization. The difference is this: In customization, you adjust the system, in personalization, the system observes you and adjusts itself. One is manual, the other is automatic.
 
-## Commonly Confused With
-Often confused with configuration or personal preference settings. Minor toggle switches (like notification sounds) are simple configuration; true customization involves shaping behaviors, data pipelines, and workflow automation.
-
-## Cross-Disciplinary Perspectives
-- **Tailoring:** Adjusting an off-the-rack suit to fit precise physical measurements.
-- **Automotive:** Tuning suspension, interior finishes, and accessories to driving habits.
-- **Ergonomic Workspace:** Modifying desk height, monitor arms, and chairs to body dimensions.
-
-## Analogy
-Like buying an off-the-rack suit and having an expert tailor alter the seams, sleeves, and lapels so it fits your exact personal measurements perfectly.
+## Use in Different Disciplines
+Tailor: Adapting ready-made clothing to size. Furniture: Making wardrobes according to measurements. Automobile: Selection of hardware package.
 
 ## Frequently Asked Questions
+**Can every software be customized?**
+No. Closed box products do not offer adjustments. You need to ask about adaptation layers before purchasing.
 
-**What is the difference between configuration and customization?**  
-Configuration switches existing built-in toggles and parameters; customization introduces new workflows, custom scripts, data models, or visual components.
+**What is the difference with Personalization?**
+In customization, you make the settings, and in personalization, the system watches over you. One is manual, the other is automatic.
 
-**Does heavy customization increase maintenance debt?**  
-Yes. Highly customized enterprise deployments risk upgrade friction if modifications are not cleanly decoupled via public extension APIs and stable hooks.
+**What is the limit?**
+This is the point where the kernel becomes unupdatable. A product that is over-adapted cannot be renewed and remains stuck.
 
-**How do platforms support safe customization?**  
-Through sandboxed plugin runtimes (like WASM or isolated worker threads), declarative configuration files, and semantic API versioning.
+**Will the update break the adaptation?**
+In the plugin layer usually no, in forking usually yes. Therefore, the lowest sufficient layer is selected.
 
-**When should a team avoid custom development?**  
-When out-of-the-box standard workflows satisfy 80%+ of business needs, avoiding unnecessary bespoke engineering costs.
 
 ## Related terms
-- [Extensibility](/en/dictionary/extensibility/)
 - [Plugin](/en/dictionary/plugin/)
-- [Configuration](/en/dictionary/configuration/)
-- [Custom Hooks](/en/dictionary/custom-hooks/)
+- [Framework](/en/dictionary/framework/)
+- [User Experience](/en/dictionary/user-experience/)
 
 ---
-Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/customization/
+Source: TreScout Dictionary · https://trescout.com/en/dictionary/customization/

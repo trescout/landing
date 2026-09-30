@@ -2,22 +2,32 @@
 
 > Input/Output
 
-The process by which a computer system receives data from and sends data to the outside world.
+I/O (Input/Output) is the system's data exchange with the outside world.
 
-## Overview
-I/O is an I/O process when a computer receives text from the keyboard, downloads data from the internet, or prints something to the screen. The system establishes all kinds of communication with the outside world through this channel. It is like the 'senses and hands' of the computer.
+## Definition and Word Origin
+Keyboard typing, downloaded file, result printed on the screen: All are I/O operations. The system talks to the outside world through this channel. It is like the senses and hands of the computer.
 
-*Analogy: It is like a person receiving information from the outside world (eyes, ears) and reacting to the outside world (speaking, moving).*
+## How to Know and Use in Daily Life?
+Keyboard: Text input. Network: File download. Screen: Result display.
 
-## How it works
-Data enters the system from input devices (keyboard, sensor), is processed by the processor and sent to output devices (display, speakers).
+## Technical Depth and Architecture
+Concepts:
 
-## Where it is used
-It is a fundamental concept in all computer programs and hardware interactions.
+## Use in Different Disciplines
+Human: Eye and ear input, speech output. Restaurant: Order input, service output. Factory: Raw material input, product output.
 
-## Frequently asked questions
+## Frequently Asked Questions
 **Why is I/O a bottleneck?**
-Even if the processor works very fast, if the data input or output speed (for example disk speed) is slow, the system has to wait.
+Processor is fast, disk and network are slow. When the data does not catch up, the system waits and this is where the bottleneck occurs.
+
+**What is blocking?**
+It is a call that waits until the result comes. It crashes the interface, wastes work on the server.
+
+**How to speed it up?**
+With cache, batch read and asynchronous call. It is measured first, then the slowest ring is corrected.
+
+**What does async have to do with it?**
+It is another way of doing work while waiting. A lot of work can be done with a single thread.
 
 
 ## Related terms

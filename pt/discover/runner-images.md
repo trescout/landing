@@ -14,6 +14,8 @@ As imagens de executor (runner images) do GitHub Actions hospedam os ambientes d
 ## Como começar
 Para criar uma máquina virtual para esta ferramenta, você pode analisar as diretrizes no arquivo create-image-and-azure-resources.md na pasta docs localizada no repositório.
 
+## Termos relacionados do glossário
+
 ## Links
 - Repositório no GitHub →
 - Ler em turco →

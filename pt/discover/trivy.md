@@ -1,20 +1,19 @@
-# Scanner de segurança para contêineres e nuvem
+# Verificador de segurança de contêineres e nuvem
 
-O Trivy é uma ferramenta abrangente e extremamente rápida para detectar vulnerabilidades (CVEs), erros de configuração e segredos vazados em contêineres, clusters Kubernetes e repositórios. Com suporte nativo a SBOM, automatiza a segurança DevSecOps de ponta a ponta.
+Trivy é uma ferramenta abrangente de verificação de segurança que detecta vulnerabilidades, configurações incorretas e segredos em contêineres, clusters Kubernetes, repositórios de código e infraestruturas em nuvem em segundos. Ele automatiza os processos DevSecOps de ponta a ponta com suporte à lista de materiais de software (SBOM).
 
 - ★ 35.511
 - Go
 - GitHub Trending · 2026-06-04
 
 ## O que você ganha
-- Verificação para múltiplos alvos: Inspecione imagens Docker/OCI, sistemas de arquivos, repositórios Git remotos e clusters Kubernetes com uma única ferramenta.
-- Zero sobrecarga de infraestrutura: Não requer servidores de banco de dados externos nem daemons em segundo plano; roda como um binário independente.
-- Detecção de segredos e chaves sensíveis: Identifica chaves de API, senhas e certificados privados commitados indevidamente no código ou nas camadas da imagem.
-- Auditoria de infraestrutura como código (IaC): Valida arquivos Terraform, Dockerfile e manifestos Kubernetes YAML antes da implantação em produção.
-- Conformidade com SBOM e licenças: Gera listas de materiais de software (SBOM) nos padrões CycloneDX e SPDX para atender normas de segurança da cadeia de suprimentos.
+- Varredura de alvo em várias camadas: inspeciona imagens de contêiner (Docker, OCI), sistemas de arquivos locais, repositórios Git remotos, discos de máquinas virtuais e clusters Kubernetes ativos com uma única ferramenta.
+- Nenhuma sobrecarga adicional de infraestrutura: não há necessidade de um servidor de banco de dados externo ou de agentes pesados ​​em execução constante; Ele fornece análise em segundos como um único binário executável.
+- Captura de dados confidenciais e segredos: detecta chaves de API, senhas e certificados privados incorporados acidentalmente no código-fonte ou nas camadas de imagem com seu mecanismo heurístico.
+- Auditoria de infraestrutura como código (IaC): detecta configurações incorretas de segurança em arquivos Terraform, Dockerfile, Kubernetes YAML e CloudFormation antes de irem para produção.
+- Conformidade com SBOM e licença de código aberto: Cumpre a segurança da cadeia de fornecimento de software com os regulamentos legais, produzindo listas de materiais de software nos padrões CycloneDX e SPDX.
 
 ## Instalação
-
 **macOS (Homebrew)**
 
 ```
@@ -27,68 +26,40 @@ brew install trivy
 winget install AquaSecurity.Trivy
 ```
 
-## Uso básico
 
-**Verificar imagem de contêiner**
-
-```
-trivy image nome-imagem:tag
-```
-
-**Verificar código local e segredos**
+## Execução
+**Escanear imagem de contêiner**
 
 ```
-trivy fs --scanners vuln,secret,misconfig .
+trivy image imaj-adi:etiket
 ```
 
-**Gerar SBOM em formato CycloneDX**
 
-```
-trivy image --format cyclonedx --output sbom.json nome-imagem:tag
-```
+## Arquitetura técnica e princípio de funcionamento
+- Banco de dados Trivy e cache local: o NVD baixa automaticamente um cache de banco de dados leve contendo boletins de segurança do GitHub Advisory Database, Red Hat, Debian, Ubuntu e Alpine. Como as varreduras são realizadas por meio desse cache local, ele funciona na velocidade da luz, mesmo em ambientes com restrições de rede.
+- Análise de camada estática: analisa diretamente camadas OCI sem executar imagens de contêiner ou precisar de um daemon Docker. Esta abordagem não compromete a segurança do sistema durante o processo de digitalização.
+- Mecanismo IaC e políticas Rego: controla modelos de infraestrutura com regras compatíveis com Open Policy Agent (OPA). Portas abertas inseguras ou serviços executados com privilégios de root são relatados imediatamente.
+- Padronização SBOM: O gerenciador de pacotes verifica os arquivos de bloqueio (package-lock.json, poet.lock, Cargo.lock, etc.) e cria um mapa de dependência completo do seu aplicativo.
 
-## Arquitetura técnica e funcionamento interno
-
-Desenvolvido pela Aqua Security e comunidade open-source, o Trivy adota uma engenharia focada em velocidade e rigor:
-- Banco de vulnerabilidades local (Trivy DB): Sincroniza uma base leve com dados do NVD, GitHub Advisory, Red Hat e Debian para realizar verificações ultrarrápidas offline.
-- Análise estática de camadas: Decompõe camadas de imagem OCI sem executar o contêiner e sem depender do daemon do Docker, eliminando riscos de segurança.
-- Motor IaC baseado em Rego: Avalia modelos de infraestrutura com políticas OPA (Open Policy Agent) para identificar portas abertas e permissões de root.
-- Mapeamento profundo de dependências: Analisa arquivos de trava (package-lock.json, poetry.lock, Cargo.lock) para descobrir falhas transitivas.
-
-## Integração DevSecOps e esteiras de CI/CD
-
-O Trivy funciona como um portão de qualidade (quality gate) para barrar códigos vulneráveis antes da entrega em produção:
-
-**Falhar build em vulnerabilidades críticas ou altas**
-
-```
-trivy image --exit-code 1 --severity CRITICAL,HIGH nome-imagem:tag
-```
-- Feedback ágil à esquerda (Shift-left): Desenvolvedores identificam vulnerabilidades de pacotes open-source localmente antes do push.
-- Relatórios automatizados em SARIF: Exporte para as abas de segurança do GitHub ou GitLab para triagem centralizada de riscos.
-- Monitoramento de clusters (Trivy Operator): Rastreia continuamente cargas no Kubernetes para sinalizar vulnerabilidades de dia zero.
+## Integração de pipeline DevSecOps e CI/CD
+- Feedback em estágio inicial: os desenvolvedores veem instantaneamente vulnerabilidades em bibliotecas de código aberto executando o Trivy em seu ambiente local antes de enviar seu código para o repositório remoto.
+- Relatórios SARIF automáticos: as saídas SARIF produzidas são transferidas para os painéis GitHub Code Scanning ou GitLab Security, permitindo que as equipes executem o rastreamento central de vulnerabilidades.
+- Monitoramento de cluster ao vivo (Trivy Operator): ele monitora constantemente as cargas de trabalho em execução no ambiente Kubernetes e relata instantaneamente vulnerabilidades recém-descobertas de dia zero (0-day).
 
 ## Se você não programa
-🤖 Se você não programa
-Quero configurar um workflow do GitHub Actions que verifique minha imagem Docker e código com o Trivy a cada push e PR. Você pode criar um arquivo .github/workflows/trivy.yml completo que falhe o build (exit-code 1) apenas em vulnerabilidades CRITICAL e HIGH, envie os resultados em SARIF para a aba de segurança do GitHub e gere um artefato SBOM em formato CycloneDX?
-
-- **Para quem:** Engenheiros DevOps, equipes de segurança e desenvolvedores que buscam automatizar auditorias de vulnerabilidades e gerar SBOM.
-- **Licença:** Apache-2.0 (Código aberto permissivo)
-- **Desenvolvedor:** Aqua Security e comunidade open-source
-- **Formatos de saída:** Tabela, JSON, SARIF, CycloneDX, SPDX, Template
+Quero configurar um fluxo de trabalho de segurança no GitHub Actions que verifica minha imagem Docker e códigos-fonte com Trivy em cada solicitação push e pull de código (PR). Você pode criar um arquivo .github/workflows/trivy.yml completo que interrompa a construção apenas em vulnerabilidades CRÍTICAS e de ALTO nível (código de saída 1), carregue as descobertas para o painel de segurança do GitHub no formato SARIF e crie um arquivo SBOM no formato CycloneDX?
 
 ## Perguntas frequentes
-- O Trivy pode verificar imagens sem o daemon do Docker? Sim. O Trivy pode baixar e inspecionar imagens diretamente de registros remotos (Docker Hub, GitHub Container Registry) ou ler arquivos tar locais sem o Docker rodando.
-- Funciona em ambientes isolados (air-gapped)? Sim. O banco de dados do Trivy pode ser baixado previamente e transferido para redes isoladas para varreduras sem internet.
-- O que é SBOM e por que usar o Trivy? SBOM é a lista digital de componentes que documenta bibliotecas e licenças do software. O Trivy gera SBOMs padronizados tanto para o código quanto para contêineres.
-- Quão rápida é uma verificação típica? Como a consulta é feita contra o cache local pré-indexado sem depender da rede durante o scan, a análise completa ocorre em poucos segundos.
-
-## Links
-- [GitHub →](https://github.com/aquasecurity/trivy)
-- [Read in Turkish →](https://trescout.com/discover/trivy/)
+- O Trivy Docker pode escanear imagens de contêiner sem um daemon? Sim. Trivy pode baixar e digitalizar imagens diretamente de repositórios de imagens remotos (Docker Hub, GitHub Container Registry, AWS ECR, etc.) ou arquivos tar locais sem a necessidade de um cliente Docker ou daemon.
+- Funciona em ambientes isolados sem conexão com a internet? Sim. O banco de dados Trivy (trivy-db) pode ser baixado antecipadamente e movido para um ambiente de rede fechado. Trivy pode verificar o cache do banco de dados local sem ficar online.
+- O que é SBOM e por que Trivy é preferido nesta área? SBOM (Software Bill of Materials) é uma lista de conteúdo digital que documenta todas as bibliotecas, versões e licenças de código aberto incluídas em seu software. Trivy é uma das poucas ferramentas padrão que pode produzir SBOM tanto no nível da imagem quanto no nível do código-fonte.
+- Como excluir falsos positivos ou riscos aceitos? Você pode listar os códigos CVE que deseja ignorar linha por linha adicionando um arquivo .trivyignore ao diretório raiz do projeto. Dessa forma, são evitadas interrupções desnecessárias de compilação em pipelines de CI/CD.
 
 ## Termos relacionados do glossário
-Container CI-CD Vulnerability Scanning Cloud Native
+
+## Links
+- Repositório no GitHub →
+- Ler em turco →
 
 ---
-Source: TreScout Discover · https://trescout.com/pt/discover/trivy/
+Fonte: TreScout Descobrir · https://trescout.com/pt/discover/trivy/

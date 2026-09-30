@@ -47,6 +47,8 @@ Menschen, die ein Animationswerkzeug mit Drag-and-drop-Oberfläche suchen oder a
 ## Erster Prompt
 Können Sie mir helfen, eine einfache ManimGL-Szene zu schreiben, in der sich ein Kreis in ein Quadrat verwandelt?
 
+## Verwandte Begriffe aus dem Glossar
+
 ## Links
 - GitHub-Repository →
 - 3b1b-ManimGL-GitHub-Repository →

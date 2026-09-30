@@ -192,7 +192,7 @@
     "tagline_pt": "Um curso gratuito de 485 aulas que ensina engenharia de inteligência artificial do zero com codificação aplicada.",
     "tagline_es": "Un curso gratuito de 485 lecciones que enseña ingeniería de inteligencia artificial desde cero con codificación aplicada.",
     "tagline_de": "Ein kostenloser Kurs mit 485 Lektionen, der die Technik der künstlichen Intelligenz mit angewandter Codierung von Grund auf vermittelt.",
-    "last_seen": "2026-09-29"
+    "last_seen": "2026-09-30"
   },
   {
     "slug": "knowledge-work-plugins",
@@ -2624,14 +2624,14 @@
     "slug": "ruview",
     "title": "RuView",
     "tagline": "WiFi CSI ile kablosuz sensing ve sinyal analizi için açık kaynaklı platform.",
-    "meta": "★ 95.654",
+    "meta": "★ 95.674",
     "image": "/assets/discover/og/ruview.webp",
     "source": "GitHub",
     "date": "2026-05-30",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 95654,
+    "stars": 95674,
     "summary": "WiFi Channel State Information (CSI) kullanarak ortam değişimlerini incelemenize yardımcı olur. ESP32 veya araştırma NIC’leriyle çalışabilir; donanımınız yoksa simüle edilmiş verilerle değerlendirme yapabilirsiniz.",
     "headline": "WiFi Sinyalleriyle Kablosuz Algılama Platformu",
     "lite": false,
@@ -2881,6 +2881,13 @@
         "yildiz": 95654,
         "onceki_yildiz": 95172,
         "surum": "v2934",
+        "surum_tarihi": "2026-09-30"
+      },
+      {
+        "tarih": "2026-09-30",
+        "yildiz": 95674,
+        "onceki_yildiz": 95654,
+        "surum": "v2938",
         "surum_tarihi": "2026-09-30"
       }
     ],
@@ -15489,7 +15496,7 @@
     "slug": "agents-cli",
     "title": "Agents CLI",
     "tagline": "Google tarafından geliştirilen komut satırı arayüzü (CLI), kodlama asistanlarını Google Bulut (Google Cloud) üzerinde yapay…",
-    "meta": "★ 6.009 · Python",
+    "meta": "★ 6.033 · Python",
     "image": "/assets/discover/og/agents-cli.webp",
     "source": "GitHub",
     "date": "2026-07-01",
@@ -15497,7 +15504,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 6009,
+    "stars": 6033,
     "lite": false,
     "headline": "Kodlama asistanları için yapay zekâ araçları",
     "last_review": "2026-09-30",
@@ -15557,6 +15564,13 @@
         "onceki_yildiz": 5948,
         "surum": "v1.7.0",
         "surum_tarihi": "2026-09-22"
+      },
+      {
+        "tarih": "2026-09-30",
+        "yildiz": 6033,
+        "onceki_yildiz": 6009,
+        "surum": "v1.8.0",
+        "surum_tarihi": "2026-09-30"
       }
     ],
     "tagline_en": "The command line interface (CLI) developed by Google allows coding assistants to run on Google Cloud (Google Cloud).",
@@ -22651,7 +22665,7 @@
     "tagline_pt": "OpenShip oferece uma plataforma de distribuição de aplicativos que os usuários podem hospedar em seus próprios servidores.",
     "tagline_es": "OpenShip ofrece una plataforma de distribución de aplicaciones que los usuarios pueden alojar en sus propios servidores.",
     "tagline_de": "OpenShip bietet eine Anwendungsverteilungsplattform, die Benutzer auf ihren eigenen Servern hosten können.",
-    "last_seen": "2026-09-29"
+    "last_seen": "2026-09-30"
   },
   {
     "slug": "ontology-playground",
@@ -28268,14 +28282,14 @@
     "slug": "mise",
     "title": "Mise",
     "tagline": "Mise, yazılım geliştirme araçlarını, ortam değişkenlerini (environment variables) ve görev çalıştırıcılarını (task runner) tek…",
-    "meta": "★ 34.419 · Rust",
+    "meta": "★ 34.461 · Rust",
     "image": "/assets/discover/og/mise.webp",
     "source": "GitHub",
     "date": "2026-08-08",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 34419,
+    "stars": 34461,
     "lite": false,
     "headline": "Geliştirme ortamınızı tek merkezden yönetin",
     "needs_enrichment": true,
@@ -28457,6 +28471,13 @@
         "onceki_yildiz": 34365,
         "surum": "v2026.9.17",
         "surum_tarihi": "2026-09-29"
+      },
+      {
+        "tarih": "2026-09-30",
+        "yildiz": 34461,
+        "onceki_yildiz": 34419,
+        "surum": "v2026.9.18",
+        "surum_tarihi": "2026-09-30"
       }
     ],
     "tagline_fr": "Mise combine des outils de développement logiciel, des variables d'environnement et des exécuteurs de tâches en un seul…",
@@ -29205,7 +29226,7 @@
     "tagline_pt": "Paperclip é um software de código aberto que permite gerenciar agentes de IA no local de trabalho por meio de uma única interface.",
     "tagline_es": "Paperclip es un software de código abierto que le permite administrar agentes de IA en el lugar de trabajo a través de una única interfaz.",
     "tagline_de": "Paperclip ist eine Open-Source-Software, mit der Sie KI-Agenten am Arbeitsplatz über eine einzige Schnittstelle verwalten können.",
-    "last_seen": "2026-09-29"
+    "last_seen": "2026-09-30"
   },
   {
     "slug": "lifeos",
@@ -31660,14 +31681,14 @@
     "slug": "openlogi",
     "title": "OpenLogi",
     "tagline": "OpenLogi, Logitech Options+ için Rust ile yazılmış, yerel öncelikli ve açık kaynaklı bir alternatiftir. Hesap veya telemetri gerektirmeden düğmeleri, DPI'ı ve SmartShift'i yapılandırır.",
-    "meta": "★ 22.300 · Rust",
+    "meta": "★ 22.531 · Rust",
     "image": "/assets/discover/og/openlogi.webp",
     "source": "GitHub",
     "date": "2026-08-20",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 22300,
+    "stars": 22531,
     "lite": false,
     "headline": "Logitech cihazlar için açık kaynaklı yönetim",
     "tagline_en": "OpenLogi is a native, local-first, open-source alternative to Logitech Options+, written in Rust. It configures buttons, DPI, and SmartShift without accounts or telemetry.",
@@ -31767,6 +31788,13 @@
         "onceki_yildiz": 22267,
         "surum": "v0.8.9",
         "surum_tarihi": "2026-09-27"
+      },
+      {
+        "tarih": "2026-09-30",
+        "yildiz": 22531,
+        "onceki_yildiz": 22300,
+        "surum": "v0.8.10",
+        "surum_tarihi": "2026-09-30"
       }
     ],
     "last_seen": "2026-08-24",
@@ -35845,7 +35873,7 @@
     "tagline_pt": "Reclip, desenvolvida por Averygan, é uma ferramenta leve e própria para baixar vídeos de quase todos os sites da internet…",
     "tagline_es": "Reclip, desarrollado por Averygan, es una herramienta ligera y propia para descargar vídeos de casi cualquier sitio web...",
     "tagline_de": "Reclip, entwickelt von Averygan, ist ein leichtgewichtiges und eigenständiges Tool zum Herunterladen von Videos von fast allen Websites.",
-    "last_seen": "2026-09-29",
+    "last_seen": "2026-09-30",
     "guncellemeler": [
       {
         "tarih": "2026-09-11",
@@ -36028,7 +36056,7 @@
     "tagline_pt": "VoiceStudio é uma ferramenta de código aberto que realiza processos como clonagem de voz, dublagem e transcrição sem a necessidade de internet...",
     "tagline_es": "VoiceStudio es una herramienta de código abierto que realiza procesos como clonación de voz, doblaje y transcripción sin necesidad de internet...",
     "tagline_de": "VoiceStudio ist eine Open-Source-Anwendung, die Aufgaben wie Stimmenklonen, Synchronisation und Transkription ohne Internetverbindung durchführt...",
-    "last_seen": "2026-09-29"
+    "last_seen": "2026-09-30"
   },
   {
     "slug": "sequoia-x",
@@ -36064,7 +36092,7 @@
     "slug": "sie",
     "title": "SIE",
     "tagline": "Superlinked tarafından geliştirilen SIE, yapay zekâ ajanlarının ihtiyaç duyduğu modelleri çalıştırmak için kullanılan açık…",
-    "meta": "★ 3.325 · Python",
+    "meta": "★ 3.350 · Python",
     "image": "/assets/discover/og/sie.webp",
     "source": "GitHub",
     "date": "2026-09-03",
@@ -36072,7 +36100,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 3325,
+    "stars": 3350,
     "summary": "Superlinked tarafından geliştirilen SIE, yapay zekâ ajanlarının ihtiyaç duyduğu modelleri çalıştırmak için kullanılan açık kaynaklı bir çıkarım sunucusu (inference server) ve üretim kümesidir. Python tabanlı bu yapı, karmaşık model dağıtımlarını yönetmeyi ve ölçeklenebilir bir altyapı sunmayı hedefler.",
     "lite": false,
     "headline": "Yapay zekâ ajanları için çıkarım sunucusu",
@@ -36098,6 +36126,13 @@
         "onceki_yildiz": 3198,
         "surum": "v0.8.3",
         "surum_tarihi": "2026-09-26"
+      },
+      {
+        "tarih": "2026-09-30",
+        "yildiz": 3350,
+        "onceki_yildiz": 3325,
+        "surum": "v0.9.0",
+        "surum_tarihi": "2026-09-30"
       }
     ],
     "tagline_en": "SIE, developed by Superlinked, is an open-source framework used to run the models required by artificial intelligence agents...",
@@ -36328,7 +36363,7 @@
     "slug": "magnitude",
     "title": "Magnitude",
     "tagline": "Magnitude, mevcut yapay zekâ ajanlarıyla entegre çalışan ve donanımınıza uygun yerel modelleri çalıştırmanızı sağlayan açık…",
-    "meta": "★ 5.180 · TypeScript",
+    "meta": "★ 5.482 · TypeScript",
     "image": "/assets/discover/og/magnitude.webp",
     "source": "GitHub",
     "date": "2026-09-04",
@@ -36336,7 +36371,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 5180,
+    "stars": 5482,
     "summary": "Magnitude, mevcut yapay zekâ ajanlarıyla entegre çalışan ve donanımınıza uygun yerel modelleri çalıştırmanızı sağlayan açık kaynaklı bir çıkarım sunucusu (inference server). Cline gibi kodlama asistanları ve çeşitli açık kaynaklı modellerle uyumlu çalışarak yerel bilgisayar gücünden yararlanmayı kolaylaştırıyor.",
     "lite": false,
     "headline": "Yerel yapay zekâ modellerini bilgisayarınızda çalıştırın",
@@ -36397,6 +36432,13 @@
         "onceki_yildiz": 4663,
         "surum": "@magnitudedev/cli@0.1.5",
         "surum_tarihi": "2026-09-23"
+      },
+      {
+        "tarih": "2026-09-30",
+        "yildiz": 5482,
+        "onceki_yildiz": 5180,
+        "surum": "@magnitudedev/cli@0.2.0",
+        "surum_tarihi": "2026-09-30"
       }
     ],
     "tagline_en": "Magnitude is an open-source tool that integrates with existing AI agents and allows you to run local models compatible with your hardware...",
@@ -37455,7 +37497,7 @@
     "slug": "deskcommcrm",
     "title": "DeskcommCRM",
     "tagline": "DeskcommCRM, sohbet üzerinden satış yapan işletmeler için geliştirilmiş açık kaynaklı bir müşteri ilişkileri yönetimi (CRM)…",
-    "meta": "★ 4.281 · TypeScript",
+    "meta": "★ 4.287 · TypeScript",
     "image": "/assets/discover/og/deskcommcrm.webp",
     "source": "GitHub",
     "date": "2026-09-12",
@@ -37464,7 +37506,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 4281,
+    "stars": 4287,
     "summary": "DeskcommCRM, sohbet üzerinden satış yapan işletmeler için geliştirilmiş açık kaynaklı bir müşteri ilişkileri yönetimi (CRM) platformu. WhatsApp entegrasyonu ve yerleşik yapay zekâ ajanlarıyla, benzer işlevlere sahip ticari yazılımlara (Kommo, Octadesk, Intercom) kendi sunucunuzda barındırabileceğiniz bir alternatif sunuyor.",
     "lite": false,
     "headline": "WhatsApp için açık kaynaklı yapay zekâlı CRM",
@@ -37559,6 +37601,13 @@
         "yildiz": 4281,
         "onceki_yildiz": 4264,
         "surum": "v1.66.0",
+        "surum_tarihi": "2026-09-30"
+      },
+      {
+        "tarih": "2026-09-30",
+        "yildiz": 4287,
+        "onceki_yildiz": 4281,
+        "surum": "v1.66.1",
         "surum_tarihi": "2026-09-30"
       }
     ],
@@ -38281,14 +38330,14 @@
     "slug": "opendisplay",
     "title": "Opendisplay",
     "tagline": "OpenDisplay, iPhone veya iPad cihazlarını Mac bilgisayarlar için ikinci bir monitöre dönüştüren açık kaynaklı bir ekran…",
-    "meta": "★ 4.905 · Swift",
+    "meta": "★ 4.912 · Swift",
     "image": "/assets/discover/og/opendisplay.webp",
     "source": "GitHub",
     "date": "2026-09-15",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 4905,
+    "stars": 4912,
     "summary": "OpenDisplay, iPhone veya iPad cihazlarını Mac bilgisayarlar için ikinci bir monitöre dönüştüren açık kaynaklı bir ekran genişletme aracıdır. USB veya kablosuz bağlantı üzerinden düşük gecikmeli görüntü aktarımı sağlayan uygulama, Apple'ın kendi çözümü olan Sidecar'a ücretsiz bir alternatif sunar.",
     "lite": false,
     "headline": "Eski cihazlarınızı ikinci monitöre dönüştürün",
@@ -38334,6 +38383,13 @@
         "yildiz": 4905,
         "onceki_yildiz": 4897,
         "surum": "v1.23.0",
+        "surum_tarihi": "2026-09-30"
+      },
+      {
+        "tarih": "2026-09-30",
+        "yildiz": 4912,
+        "onceki_yildiz": 4905,
+        "surum": "v1.24.0",
         "surum_tarihi": "2026-09-30"
       }
     ],
@@ -38951,14 +39007,14 @@
     "slug": "gitdiagram",
     "title": "Gitdiagram",
     "tagline": "Gitdiagram, GitHub depolarındaki karmaşık dosya yapılarını ve kod ilişkilerini görselleştiren bir araçtır.",
-    "meta": "★ 16.568 · TypeScript",
+    "meta": "★ 17.581 · TypeScript",
     "image": "/assets/discover/og/gitdiagram.webp",
     "source": "GitHub",
     "date": "2026-09-19",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 16568,
+    "stars": 17581,
     "summary": "Gitdiagram, GitHub depolarındaki karmaşık dosya yapılarını ve kod ilişkilerini görselleştiren bir araçtır. Yazılım projelerinin mimarisini anlamayı kolaylaştıran etkileşimli şemalar oluşturur.",
     "lite": false,
     "headline": "GitHub depolarını <span class=\"disc-accent\">etkileşimli mimari şemalara</span> dönüştürün",
@@ -38968,7 +39024,14 @@
     "tagline_pt": "Gitdiagram é uma ferramenta que visualiza estruturas de arquivos complexas e relações de código em repositórios do GitHub.",
     "tagline_es": "Gitdiagram es una herramienta que visualiza estructuras de archivos complejas y relaciones de código en repositorios de GitHub.",
     "tagline_de": "Gitdiagram ist ein Tool, das komplexe Dateistrukturen und Code-Beziehungen in GitHub-Repositories visualisiert.",
-    "last_seen": "2026-09-19"
+    "last_seen": "2026-09-19",
+    "guncellemeler": [
+      {
+        "tarih": "2026-09-30",
+        "yildiz": 17581,
+        "onceki_yildiz": 16568
+      }
+    ]
   },
   {
     "slug": "higgsfield",
@@ -39088,7 +39151,7 @@
     "slug": "codex-x",
     "title": "Codex-X",
     "tagline": "Codex-X, OpenAI Codex modellerini yönetmek için geliştirilen, Rust diliyle yazılmış görsel bir masaüstü ve komut satırı…",
-    "meta": "★ 3.958",
+    "meta": "★ 3.999",
     "image": "/assets/discover/og/codex-x.webp",
     "source": "GitHub",
     "date": "2026-09-20",
@@ -39096,7 +39159,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 3958,
+    "stars": 3999,
     "summary": "Codex-X, OpenAI Codex modellerini yönetmek için geliştirilen, Rust diliyle yazılmış görsel bir masaüstü ve komut satırı arayüzü aracıdır. Yazılım; API yönetimi, oturum senkronizasyonu, istem enjeksiyonu (prompt injection) ve yetenek (skills) yönetimi gibi özelliklerle geliştirici deneyimini merkezileştirir.",
     "lite": false,
     "headline": "Yapay zekâ model ayarlarını tek ekrandan yönetin",
@@ -39108,6 +39171,13 @@
         "onceki_yildiz": 3816,
         "surum": "v0.3.21",
         "surum_tarihi": "2026-09-22"
+      },
+      {
+        "tarih": "2026-09-30",
+        "yildiz": 3999,
+        "onceki_yildiz": 3958,
+        "surum": "v0.3.22",
+        "surum_tarihi": "2026-09-30"
       }
     ],
     "tagline_en": "Codex-X is a visual desktop and command line tool written in Rust, developed to manage OpenAI Codex models...",
@@ -39336,7 +39406,7 @@
     "tagline_pt": "Univer é um software de código aberto que combina ferramentas de escritório como planilhas, documentos e apresentações em um único tempo de execução.",
     "tagline_es": "Univer es un software de código abierto que combina herramientas de oficina como hojas de cálculo, documentos y presentaciones en un solo tiempo de ejecución.",
     "tagline_de": "Univer ist eine Open-Source-Software, die Office-Tools wie Tabellenkalkulationen, Dokumente und Präsentationen in einer einzigen Laufzeit vereint.",
-    "last_seen": "2026-09-29"
+    "last_seen": "2026-09-30"
   },
   {
     "slug": "ax",
@@ -39538,7 +39608,7 @@
     "tagline_pt": "O Hindsight oferece uma camada de memória de aprendizado (memory layer) para agentes de inteligência artificial.",
     "tagline_es": "Hindsight ofrece una capa de memoria de aprendizaje (memory layer) para agentes de inteligencia artificial.",
     "tagline_de": "Hindsight bietet eine lernende Speicherebene (Memory Layer) für KI-Agenten.",
-    "last_seen": "2026-09-29"
+    "last_seen": "2026-09-30"
   },
   {
     "slug": "model-optimizer",
@@ -39955,7 +40025,7 @@
       "Geliştirici aracı"
     ],
     "stars": 3266,
-    "last_seen": "2026-09-29",
+    "last_seen": "2026-09-30",
     "summary": "Illinois Üniversitesi tarafından hazırlanan coursebook, sistem programlama (systems programming) temellerini anlatan açık kaynaklı bir ders kitabıdır. TeX formatında sunulan bu kaynak, düşük seviyeli yazılım geliştirme süreçlerini öğrenmek isteyenler için kapsamlı bir eğitim materyali sağlar.",
     "lite": false,
     "headline": "Açık kaynak sistem programlama ders kitabı",
@@ -40023,7 +40093,7 @@
       "Geliştirici aracı"
     ],
     "stars": 2638,
-    "last_seen": "2026-09-29",
+    "last_seen": "2026-09-30",
     "summary": "Openrig, Anthropic'in kodlama aracı Claude Code ve OpenAI'ın kodlama modeli Codex'i tek bir sistemde birleştiren çoklu ajan (multi-agent) altyapısıdır. Geliştiricilerin farklı yapay zekâ modellerini aynı iş akışında eş zamanlı kullanmasına olanak tanır.",
     "lite": false,
     "headline": "Yapay zekâ ajanlarını tek sistemde yönetin",
@@ -40077,7 +40147,7 @@
       "Geliştirici aracı"
     ],
     "stars": 11092,
-    "last_seen": "2026-09-29",
+    "last_seen": "2026-09-30",
     "summary": "NVIDIA tarafından geliştirilen OpenShell, otonom yapay zekâ ajanları için güvenli ve gizlilik odaklı bir çalışma zamanı (runtime) ortamı sunuyor. Rust diliyle yazılan bu altyapı, ajanların sistem kaynaklarına erişimini izole ederek güvenli bir yürütme alanı oluşturmayı amaçlıyor.",
     "lite": false,
     "headline": "Yapay zekâ ajanları için güvenli ortam",
@@ -40108,7 +40178,7 @@
     "slug": "dbx",
     "title": "DBX",
     "tagline": "Rust diliyle geliştirilen dbx, 100'den fazla veritabanı türünü destekleyen 25 MB boyutunda hafif bir veritabanı istemcisi…",
-    "meta": "★ 21.950 · Rust",
+    "meta": "★ 22.868 · Rust",
     "image": "/assets/discover/og/dbx.webp",
     "source": "GitHub",
     "date": "2026-09-29",
@@ -40116,8 +40186,8 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 21950,
-    "last_seen": "2026-09-29",
+    "stars": 22868,
+    "last_seen": "2026-09-30",
     "summary": "Rust diliyle geliştirilen dbx, 100'den fazla veritabanı türünü destekleyen 25 MB boyutunda hafif bir veritabanı istemcisi (database client) sunuyor. Masaüstü uygulaması, komut satırı arayüzü (CLI) ve Docker desteğinin yanı sıra yerleşik yapay zekâ asistanı ve Model Bağlantı Protokolü (MCP) gibi özellikler içeriyor.",
     "lite": false,
     "headline": "Hafif veritabanı istemcisi",
@@ -40136,6 +40206,13 @@
         "onceki_yildiz": 21621,
         "surum": "v0.6.28",
         "surum_tarihi": "2026-09-29"
+      },
+      {
+        "tarih": "2026-09-30",
+        "yildiz": 22868,
+        "onceki_yildiz": 21950,
+        "surum": "v0.6.29",
+        "surum_tarihi": "2026-09-30"
       }
     ],
     "tagline_en": "Developed in Rust, dbx is a lightweight 25 MB database client supporting more than 100 database types…",
@@ -40156,7 +40233,7 @@
       "Geliştirici aracı"
     ],
     "stars": 36716,
-    "last_seen": "2026-09-29",
+    "last_seen": "2026-09-30",
     "summary": "PageIndex, vektör tabanlı arama yöntemlerine ihtiyaç duymadan akıl yürütme yeteneğiyle çalışan bir belge indeksleme aracıdır. Geleneksel vektör veritabanları (Vector Databases) yerine metin tabanlı mantıksal çıkarım kullanarak RAG (Geri Getirme Destekli Üretim) süreçlerini optimize eder.",
     "lite": false,
     "headline": "Vektör tabanlı olmayan yapay zekâ belge arama motoru",
@@ -40188,7 +40265,7 @@
       "Geliştirici aracı"
     ],
     "stars": 1016,
-    "last_seen": "2026-09-29",
+    "last_seen": "2026-09-30",
     "summary": "Madeira, x86-64 mimarili Windows oyunlarını kısıtlanmış (jailed) iOS cihazlarda çalıştırmayı sağlayan bir uyumluluk katmanı projesi. Yazılım, işlemci emülasyonu yapan FEX-Emu, Windows uygulama katmanı Wine ve grafik dönüştürücü DXMT araçlarını birleştirerek çalışıyor.",
     "lite": false,
     "headline": "İphone Cihazlarda Windows Oyunları Çalıştırın",
@@ -40211,7 +40288,7 @@
       "Geliştirici aracı"
     ],
     "stars": 20370,
-    "last_seen": "2026-09-29",
+    "last_seen": "2026-09-30",
     "summary": "Go diliyle geliştirilen hey, web sunucularının performansını ölçmek için kullanılan bir yük test aracıdır. ApacheBench (ab) adlı klasik kıyaslama aracına modern ve hızlı bir alternatif sunar.",
     "lite": false,
     "headline": "Web sunucuları için yük testi aracı",

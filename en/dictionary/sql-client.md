@@ -1,29 +1,40 @@
 # What is SQL Client?
 
-Application that helps you query and manage information in the database.
+SQL Client is an application that allows you to connect to relational databases and run SQL queries.
 
-## Overview
-A database is like a huge library archive. SQL Client is the interface that allows you to enter this archive and find the book you want or add a new book.
+## Definition and Word Origin
+SQL is an abbreviation for Structured Query Language. Client means the party using the service: The database server keeps the data, the client connects to it and asks questions. DBeaver, DataGrip, TablePlus, and psql on the command line are common examples.
 
-*Analogy: Just like Excel's interface that allows you to operate on data, this tool is also used for the database.*
+## How to Know and Use in Daily Life?
+Data analyst: Pulls the last month's report from the sales table. Developer: Visually inspects the records read by the application. Database administrator: Manages backups, users and permissions.
 
-## How it works
-You enter the database address, connect, and pull data by typing questions in SQL.
+## Technical Depth and Architecture
+The following runs in the background of a SQL client:
 
-## Where it is used
-It is used in data analysis, software development and database management.
+## Difference between ORM and Client
+ORM (Object-Relational Mapping) is the layer that allows you to talk to the database from within code without writing SQL. SQL client is the window where you write SQL. ORM increases productivity, while the client lets you see what's actually working. The two are not competitors but complements of each other.
 
-## Commonly confused with
-It is not the database itself, just a window that connects to it.
+## Use in Different Disciplines
+Librarianship: The desk clerk knows the location of the shelves and finds the record you want. Accounting: The auditor who examines the items in the ledger one by one. Logistics: A handheld terminal that lists the products in the warehouse.
 
-## Frequently asked questions
+## Frequently Asked Questions
 **Is it necessary to know SQL?**
-Yes, you need to know basic SQL commands to use these tools effectively.
+You need to know basic commands (SELECT, WHERE, JOIN). Graphical tools are helpful, but for complex questions SQL is a must.
+
+**Is there a free client?**
+Yes. DBeaver Community and psql are free. Many databases also offer their own official tools for free.
+
+**Does the client store the data?**
+No. The client is just the connection window. The data stays on the server, deleting the client does not delete the data.
+
+**How do I keep the connection secure?**
+Use an encrypted connection, set a strong password, limit access by IP, and do not share connection information with anyone.
 
 
 ## Related terms
 - [Database](/en/dictionary/database/)
 - [Data Pipeline](/en/dictionary/data-pipeline/)
+- [ORM](/en/dictionary/orm/)
 
 ## Related tools
 - [Chat2DB](/en/discover/chat2db/)

@@ -1,24 +1,34 @@
 # What is Terminal?
 
-It is a black-screen interface that allows you to communicate directly with your computer without using a mouse, just by typing text commands.
+Terminal is the interface where you talk to the computer with text commands.
 
-## Overview
-The terminal is the door to the 'bonnet' of the computer. It is useful for making deep system settings, software development and file management that graphical interfaces (GUI) cannot do. It is the most basic working area of ​​software developers.
+## Definition and Word Origin
+It comes from old typewriter terminals. You type a command, press Enter, and the result returns as text. Deep settings, batch operations and server management that the graphical interface cannot do are made here. It is the daily work area of ​​the software developer.
 
-*Analogy: If the GUI is a restaurant's menu, the terminal is the restaurant's kitchen; Here you can directly intervene in the materials.*
+## How to Know and Use in Daily Life?
+Development: Package installation, compilation, testing. Server: Remote machine management. Automation: Repetitive work with scripts.
 
-## How it works
-You type commands on your keyboard and press 'Enter'. The computer processes this command instantly and returns the result to you as text.
+## Technical Depth and Architecture
+The distinction is important:
 
-## Where it is used
-It is used in software development processes, server management and automation works.
+## Frequently Mixed Things
+It is considered GUI. GUI is visual, terminal is textual. It also gets confused with shell: Terminal is the window, shell is the interpreter.
 
-## Commonly confused with
-It is mixed with GUI; The terminal is entirely text while the GUI is entirely visual.
+## Use in Different Disciplines
+Restaurant kitchen: Direct ingredients instead of menu. Cockpit: Direct control by button. Engine room: Manual turning of valves.
 
-## Frequently asked questions
+## Frequently Asked Questions
 **Is it necessary to learn the terminal?**
-If you want to get into the world of software, yes, because many tools only work through the terminal.
+If you're on the software path, yes. Many tools only work from the terminal, the basics are learned in days.
+
+**What is the difference with Shell?**
+Terminal is the window, shell is the interpreter. You can change the shell without changing the window.
+
+**Which one to start with?**
+With file commands: Where, list, enter, exit. The rest comes according to need.
+
+**Will the wrong command cause harm?**
+The reader does not give commands. In commands that delete and write, the path and wildcard are double-checked.
 
 
 ## Related terms

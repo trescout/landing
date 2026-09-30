@@ -2,28 +2,35 @@
 
 > Web User Interface
 
-A visual interface that allows you to use a software via an internet browser instead of installing it on your computer.
+Web UI (Web User Interface) is the control face of the application that appears in the browser.
 
-## Overview
-Web UI allows you to see an application's buttons, menus, and graphics inside your browser. You can access the application without any special installation, just like entering a website. This ensures that updates to the software are managed on the server side, rather than by you.
+## Definition and Word Origin
+Buttons, menus and graphics are drawn in the browser. No installation required, just go to the address. Updates are made on the server, the user side is refreshed.
 
-*Analogy: It is similar to a table where, instead of going into a restaurant kitchen and cooking, you choose from the menu in front of you and wait for the waiter to bring your order.*
+## How to Know and Use in Daily Life?
+Email: Mailbox in browser.Chat: AI bot screen.Edit: Online design tools.
 
-## How it works
-You open your browser, go to the relevant address and start using the visual panel that appears. The codes running in the background are on the server, you only manipulate the interactive elements on the screen.
+## Technical Depth and Architecture
+Layers:
 
-## Where it is used
-It is used in almost all email services, AI chatbots, and online editing tools.
+## Frequently Mixed Things
+It is considered a website. The site delivers content, the Web UI manages the application. One is the brochure, the other is the control panel.
 
-## Commonly confused with
-It may be confused with the website; However, Web UI refers to the control panel of an application rather than the content of a site.
+## Use in Different Disciplines
+Restaurant menu: Selection and order face. Cockpit: Display and button layout. Control: Device control panel.
 
-## Frequently asked questions
-**Is internet required to use Web UI?**
-Yes, because the functions of the interface are often connected to a remote server.
+## Frequently Asked Questions
+**Is internet required?**
+Usually yes. Functions depend on the remote server, offline mode is limited.
 
-**Does it work in any browser?**
-It is compatible with most modern browsers, but may vary based on developer preference.
+**Does it work in every browser?**
+In modern browsers yes. The appearance may be corrupted in older versions.
+
+**Does it work offline?**
+Partially. Cached partitions are opened, connection required for live operation.
+
+**What is the API difference?**
+API gives data to the machine, Web UI gives a face to the human. The two work together.
 
 
 ## Related terms

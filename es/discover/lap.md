@@ -6,6 +6,8 @@ Desarrollado con Vue, Lap es un gestor de fotos centrado en el modo sin conexió
 - Vue
 - GitHub Trending · 2026-09-25
 
+## Términos relacionados del glosario
+
 ## Enlaces
 - Repositorio en GitHub →
 - Leer en turco →

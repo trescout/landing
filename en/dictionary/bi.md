@@ -2,28 +2,35 @@
 
 > Business Intelligence
 
-They are analysis tools that support business decisions by transforming raw data into meaningful reports.
+BI (Business Intelligence) is the discipline that transforms raw data into decision-supporting reports.
 
-## Overview
-Business intelligence transforms your complex and bulk data into visual graphs and summary reports. In this way, companies see more clearly what has happened in the past and what may happen in the future. It is not just a data collection tool, but also a strategic decision-making guide.
+## Definition and Word Origin
+Complex masses of data are translated into graphs and summaries. Accounting of the past and prediction of the future can be read from these screens. It is not a collection tool, but a decision guide.
 
-*Analogy: It is like a master chef who takes thousands of different ingredients (data) in a kitchen and turns them into a delicious menu (decision) to be presented to the customer.*
+## How to Know and Use in Daily Life?
+Finance: Monthly closing reports. Sales: Region and product breakdown. Operation: Stock and delivery tracking.
 
-## How it works
-First, data is collected from different sources and then cleaned and organized. In the final stage, BI tools visualize this data on the screens we call dashboards. You can optimize your sales or operations by looking at these screens.
+## Technical Depth and Architecture
+Line:
 
-## Where it is used
-It is frequently used in companies' financial reports, sales forecasts and customer behavior analyses.
+## Frequently Mixed Things
+It is considered data analytics. Analytical asks questions, BI gives regular answers. One is discovery and the other is report order.
 
-## Commonly confused with
-It is similar to data analytics, but BI focuses more on managing the past and present situation.
+## Use in Different Disciplines
+Chef: Creating a menu from the ingredients. Instrument panel: Speed ​​and fuel information. Weather: Creating predictions from measurements.
 
-## Frequently asked questions
+## Frequently Asked Questions
 **Why is BI important?**
-It allows you to make data-based decisions, not guesses.
+It makes decisions based on data rather than guesswork. It makes the past visible and the future planable.
 
 **Can anyone use BI?**
-Yes, there are very simple BI tools available today that work with the drag-and-drop method.
+Yes. Business units set up their own reports with drag-and-drop tools.
+
+**What tools are used?**
+Power BI, Tableau, Metabase and Looker are common. The selection is based on data source and budget.
+
+**Is it necessary for a small company?**
+Simply put, yes. Even a single spreadsheet report is a BI start.
 
 
 ## Related terms

@@ -14,6 +14,8 @@ Les images de runner GitHub Actions hébergent les environnements de machines vi
 ## Pour commencer
 Pour créer une machine virtuelle pour cet outil, vous pouvez consulter les instructions dans le fichier create-image-and-azure-resources.md situé dans le dossier docs du dépôt.
 
+## Termes liés du glossaire
+
 ## Liens
 - Dépôt GitHub →
 - Lire en turc →
