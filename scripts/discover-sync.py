@@ -85,7 +85,10 @@ def report_items():
                 # birlikte işlenince yeni kayıtlar SON raporun tarihini aldı
                 # (financial-services ilk 21 Eylül, katalogda 25 Eylül).
                 # Yer tutucu özet kayda girmez · ilk GERÇEK özet aranır (aşağıda)
-                if not yer_tutucu(it.get("summary")) and (u not in gercek_ozet or date < gercek_ozet[u][0]):
+                # Boş özet de gerçek sayılmaz · rapor artık özeti üretilemeyen
+                # kaydı yer tutucu yerine özetsiz yayınlıyor (app#95)
+                if (it.get("summary") or "").strip() and not yer_tutucu(it.get("summary")) \
+                        and (u not in gercek_ozet or date < gercek_ozet[u][0]):
                     gercek_ozet[u]=(date, it.get("summary",""))
                 e=seen.get(u)
                 if e is None:
@@ -97,7 +100,7 @@ def report_items():
                 elif date > e["_date"]:
                     e["_date"]=date
     for u,e in seen.items():
-        if yer_tutucu(e.get("summary")):
+        if yer_tutucu(e.get("summary")) or not (e.get("summary") or "").strip():
             # İlk günün özeti yer tutucuysa raporlardaki ilk gerçek özet; hiç
             # yoksa boş (tanıtım metni başlıktan kurulur, kayıt lite kalır).
             e["summary"]=gercek_ozet.get(u,("",""))[1]
