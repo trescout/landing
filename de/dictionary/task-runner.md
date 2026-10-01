@@ -1,22 +1,34 @@
 # Was ist Task Runner?
 
-Es handelt sich um ein Hilfsprogramm, das sich wiederholende Softwareaufgaben automatisch nacheinander ausführt.
+Task Runner ist ein Tool, das sich wiederholende Aufgaben nacheinander ausführt.
 
-## Definition
-Sie delegieren Aufgaben wie das Testen von Code, das Komprimieren von Dateien oder das Senden an den Server an diese Tools, anstatt sie manuell zu erledigen. Es startet den gesamten Prozess mit einem Befehl. Es beschleunigt den Softwareentwicklungsprozess und verringert die Fehlerquote.
+## Definition und Wortherkunft
+Aufgaben wie Testen, Komprimieren und Bereitstellen sind in einem einzigen Befehl zusammengefasst. Die Liste wird befolgt, der Prozess beschleunigt sich, Fehler nehmen ab.
 
-## So funktioniert es
-Mit einer Konfigurationsdatei legen Sie fest, welche Aufgaben in welcher Reihenfolge ausgeführt werden sollen, und das Tool folgt dieser Liste.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Web: Kompilierung und Komprimierung.CI: Linienschritte.Veröffentlichung: Bereitstellung mit einem einzigen Befehl.
 
-## Wo es eingesetzt wird
-Es wird in Webentwicklungsprojekten, Codekompilierungsprozessen und CI/CD-Pipelines verwendet.
+## Technische Tiefe und Architektur
+Npm-Skripte:
 
-## Häufig verwechselt mit
-Es unterscheidet sich vom Terminal, das nur einen Befehl ausführt. Dabei handelt es sich um eine Prozesssteuerung und -sequenzierung.
+## Häufig gemischte Dinge
+Es gilt als Terminal. Das Terminal führt es aus, der Läufer verwaltet es. Der eine ist die Bühne, der andere der Regisseur.
 
-## Häufige Fragen
-**Für welche Art von Arbeit wird es verwendet?**
-Um die Codequalität zu überprüfen, Dateien zu optimieren und eine automatische Bereitstellung durchzuführen.
+## Einsatz in verschiedenen Disziplinen
+Roboter: Aufeinanderfolgende Küchenarbeiten.Waschmaschine: Programmiertes Waschen.Autopilot: Routenverfolgung.
+
+## Häufig gestellte Fragen
+**In welchen Berufen wird es eingesetzt?**
+Beim Testen, Kompilieren und Bereitstellen. Jeder wiederkehrende Job ist ein Kandidat.
+
+**Welches soll gewählt werden?**
+Das Ökosystem bestimmt: npm ist auf der JS-Seite üblich, Make ist auf dem System üblich.
+
+**Was ist der CI-Unterschied?**
+Runner läuft lokal, CI läuft in der Cloud. Beide werden zusammen verwendet.
+
+**Wann wird es geschrieben?**
+Bei der dritten Wiederholung. Das erste erfolgt per Hand, das zweite durch Anmerkungen, das dritte durch Skript.
 
 
 ## Verwandte Begriffe

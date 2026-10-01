@@ -2,26 +2,35 @@
 
 > Web User Interface
 
-Eine visuelle Schnittstelle, die es Ihnen ermöglicht, eine Software über einen Internetbrowser zu verwenden, anstatt sie auf Ihrem Computer zu installieren.
+Web UI (Web User Interface, Web-Benutzeroberfläche) ist die Steuerungsoberfläche der Anwendung, die im Browser angezeigt wird.
 
-## Definition
-Mit der Web-Benutzeroberfläche können Sie die Schaltflächen, Menüs und Grafiken einer Anwendung in Ihrem Browser anzeigen. Sie können ohne besondere Installation auf die Anwendung zugreifen, genau wie beim Aufrufen einer Website. Dadurch wird sichergestellt, dass Aktualisierungen der Software serverseitig und nicht von Ihnen verwaltet werden.
+## Definition und Wortherkunft
+Schaltflächen, Menüs und Grafiken werden im Browser gezeichnet. Es ist keine Installation erforderlich, man ruft einfach die Adresse auf. Updates werden auf dem Server durchgeführt, die Benutzerseite wird aktualisiert.
 
-## So funktioniert es
-Sie öffnen Ihren Browser, gehen zur entsprechenden Adresse und beginnen mit der Nutzung des angezeigten visuellen Panels. Die im Hintergrund laufenden Codes liegen auf dem Server, Sie manipulieren lediglich die interaktiven Elemente auf dem Bildschirm.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+E-Mail: Postfach im Browser.Chat: KI-Bot-Bildschirm.Bearbeitung: Online-Design-Tools.
 
-## Wo es eingesetzt wird
-Es wird in fast allen E-Mail-Diensten, KI-Chatbots und Online-Bearbeitungstools verwendet.
+## Technische Tiefe und Architektur
+Schichten:
 
-## Häufig verwechselt mit
-Es kann zu Verwechslungen mit der Website kommen; Allerdings bezieht sich Web-UI eher auf das Bedienfeld einer Anwendung als auf den Inhalt einer Website.
+## Häufig gemischte Dinge
+Es wird für eine Website gehalten. Eine Website bietet Inhalte, eine Web-UI verwaltet eine Anwendung. Das eine ist eine Broschüre, das andere ein Kontrollpanel.
 
-## Häufige Fragen
-**Ist für die Nutzung der Web-Benutzeroberfläche eine Internetverbindung erforderlich?**
-Ja, da die Funktionen der Schnittstelle häufig mit einem Remote-Server verbunden sind.
+## Einsatz in verschiedenen Disziplinen
+Restaurantmenü: Auswahl- und Bestelloberfläche.Cockpit: Anzeige- und Tastenlayout.Steuerung: Gerätekontrollpanel.
+
+## Häufig gestellte Fragen
+**Ist das Internet erforderlich?**
+Im Allgemeinen ja. Die Funktionen hängen von einem entfernten Server ab, der Offline-Modus ist begrenzt.
 
 **Funktioniert es in jedem Browser?**
-Es ist mit den meisten modernen Browsern kompatibel, kann jedoch je nach Entwicklerpräferenz variieren.
+In modernen Browsern ja. In älteren Versionen kann die Darstellung beeinträchtigt sein.
+
+**Funktioniert es offline?**
+Teilweise. Zwischengespeicherte Bereiche werden geladen, für Live-Vorgänge ist eine Verbindung erforderlich.
+
+**Was ist der Unterschied bei der API?**
+Die API liefert Daten an die Maschine, das Web-UI bietet eine Schnittstelle für den Menschen. Beide arbeiten zusammen.
 
 
 ## Verwandte Begriffe

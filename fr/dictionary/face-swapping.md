@@ -1,25 +1,34 @@
 # Qu'est-ce que Face Swapping ?
 
-Processus consistant à remplacer un visage dans une image ou une vidéo par le visage d’une autre personne grâce à l’intelligence artificielle.
+Le face swapping (ou échange de visages en français) est le processus consistant à transférer l'expression d'un visage vers un autre dans une vidéo.
 
-## Définition
-L'échange de visage est une technologie qui prend le visage d'une personne dans une vidéo ou une photo et le remplace de manière transparente par le visage d'une autre personne. L’IA fait correspondre les traits du visage, l’éclairage et l’angle pour rendre le changement naturel. Il est généralement utilisé à des fins de divertissement et d’effets visuels.
+## Définition et origine du mot
+Le modèle fait correspondre les contours, la lumière et l'angle du visage source avec la vidéo cible. Le résultat semble naturel, mais laisse toujours des traces. Il est utilisé pour le divertissement et les effets spéciaux, et son utilisation non autorisée peut entraîner des problèmes juridiques.
 
-## Comment ça marche
-L'intelligence artificielle fait correspondre les points clés (yeux, nez, bouche) entre deux visages et restitue le nouveau visage dans la vidéo en fonction de l'éclairage de la vidéo cible.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Filtres : Effets de visage sur les réseaux sociaux.Cinéma : Rajeunissement et scènes de doublure.Divertissement : Applications humoristiques.
 
-## Où est-ce utilisé
-Il est utilisé dans les filtres de médias sociaux, les processus de post-production de films et les applications de divertissement.
+## Profondeur technique et architecture
+La ligne est la suivante :
 
-## Souvent confondu avec
-C'est similaire au deepfake, mais l'échange de visage se concentre généralement uniquement sur le déplacement du visage.
+## Choses fréquemment mélangées
+C'est similaire au deepfake. Le deepfake génère également de l'audio et des scénarios, tandis que l'échange de visage (face swapping) se concentre généralement sur le transfert de visage. Tous deux nécessitent une autorisation.
 
-## Questions fréquentes
-**Un matériel sophistiqué est-il requis pour l'échange de visage ?**
-Des applications simples peuvent fonctionner sur le téléphone, mais les résultats professionnels nécessitent des cartes graphiques puissantes.
+## Utilisation dans différentes disciplines
+Théâtre : Un masque qui bouge avec les expressions faciales.Doublure : Échange de visage dans une scène dangereuse.Photomontage : Fusion de visages dans une image.
+
+## Foire aux questions
+**Un matériel performant est-il nécessaire ?**
+Les applications simples fonctionnent sur téléphone, mais les résultats professionnels nécessitent une carte graphique puissante.
 
 **Est-ce que ça marche sous tous les angles ?**
-Il donne les meilleurs résultats dans les angles où le visage est entièrement visible ; Il peut commettre des erreurs de profil ou des angles très vifs.
+Un visage vu de face est idéal, les erreurs augmentent avec le profil et les angles aigus.
+
+**Est-ce légal ?**
+Oui, pour votre propre visage et pour les travaux autorisés. L'utilisation sans autorisation constitue une violation des droits de la personnalité.
+
+**Comment savoir s'il s'agit d'un faux ?**
+Le rythme oculaire, la douceur des bords et l'harmonie de la lumière sont examinés. Il existe également des outils de détection.
 
 
 ## Termes liés

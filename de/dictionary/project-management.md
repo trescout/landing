@@ -1,19 +1,31 @@
 # Was ist Project Management?
 
-Es handelt sich um die Planung und Verwaltung von Zeit, Ressourcen und Aufgaben, um ein bestimmtes Ziel zu erreichen.
+Projektmanagement ist die Disziplin der Planung von Zeit, Ressourcen und Aufgaben, um ein Ziel zu erreichen.
 
-## Definition
-Es macht Ihnen klar, dass es bei einem Softwareprojekt nicht nur um das Schreiben von Code geht. Diese Disziplin steuert, welche Arbeiten zuerst erledigt werden, wer wofür verantwortlich ist und wann das Projekt abgeschlossen sein wird. Es geht darum, einen geordneten Fahrplan für ein erfolgreiches Ergebnis zu erstellen.
+## Definition und Wortherkunft
+Ein Softwareprojekt besteht nicht nur aus dem Schreiben von Code: Welche Aufgabe zuerst erledigt wird, wer für was verantwortlich ist und wann die Arbeit endet, wird mit dieser Disziplin gesteuert. Klassische Methoden (Gantt, Wasserfall) planen die Arbeit von Anfang an. Agile Methoden (Agile, Scrum, Kanban) hingegen erneuern den Plan in kurzen Zyklen.
 
-## So funktioniert es
-Der Prozess wird Schritt für Schritt mithilfe von Aufgabenlisten, Kalendern und Arbeitsverfolgungstools verfolgt.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Softwareteams: Zweiwöchige Sprints und tägliche kurze Meetings.Bauwesen: Zeitplan für Erkundung, Genehmigung und Abrechnung.Veranstaltung: Vorbereitungsliste für eine Hochzeit oder Konferenz.
 
-## Wo es eingesetzt wird
-Es wird in fast allen Branchen eingesetzt, von Softwareteams bis hin zu Bauprojekten.
+## Technische Tiefe und Architektur
+Die Bausteine der Disziplin:
 
-## Häufige Fragen
+## Einsatz in verschiedenen Disziplinen
+Küche: Der Koch, der plant, welches Gericht wann in den Ofen kommt.Orchester: Der Zeitplan, der die Proben auf den Tag des Konzerts abstimmt.Baustelle: Der Geländeplan, der die Reihenfolge von Kran und Beton festlegt.
+
+## Häufig gestellte Fragen
 **Warum verwenden Softwareentwickler dies?**
-Damit komplexe Projekte nicht auseinanderfallen und sich alle auf das gleiche Ziel konzentrieren können.
+Um das Auseinanderfallen eines komplexen Projekts zu verhindern und sicherzustellen, dass sich alle auf dasselbe Ziel konzentrieren.
+
+**Was ist der Unterschied zwischen Wasserfall und agil?**
+Der Wasserfall-Ansatz plant von Anfang an und betrachtet Änderungen als kostspielig. Agil plant in kurzen Zyklen und begrüßt Änderungen. Bei unklaren Aufgaben ist agil besser geeignet.
+
+**Sind Tools zwingend erforderlich?**
+Nein. Ein kleines Team kann auch mit einem Whiteboard verwaltet werden. Wenn das Team wächst, helfen digitale Tools (Jira, Trello, Linear), die Ordnung zu bewahren.
+
+**Wie wird es in einem kleinen Team angewendet?**
+Eine einzige Liste, ein wöchentliches Ziel und eine kurze Überprüfung reichen aus. Dass Sie das Meeting kurz halten, ist wichtiger als die Methode selbst.
 
 
 ## Verwandte Begriffe

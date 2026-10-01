@@ -1,25 +1,34 @@
 # Was ist Face Swapping?
 
-Der Prozess, bei dem mithilfe künstlicher Intelligenz ein Gesicht in einem Bild oder Video durch das Gesicht einer anderen Person ersetzt wird.
+Face Swapping (deutsch: Gesichtstausch) ist der Vorgang, bei dem der Gesichtsausdruck einer Person in einem Video auf ein anderes Gesicht übertragen wird.
 
-## Definition
-Face Swapping ist eine Technologie, die das Gesicht einer Person in einem Video oder Foto übernimmt und es nahtlos durch das Gesicht einer anderen Person ersetzt. Die KI passt Gesichtszüge, Beleuchtung und Winkel an, damit die Veränderung natürlich aussieht. Es wird im Allgemeinen zu Unterhaltungs- und visuellen Effektzwecken verwendet.
+## Definition und Wortherkunft
+Das Modell gleicht die Konturen, das Licht und den Winkel des Quellgesichts mit dem Zielvideo ab. Das Ergebnis sieht natürlich aus, hinterlässt jedoch immer Spuren. Es wird für Unterhaltungs- und Effektzwecke verwendet; eine unbefugte Nutzung führt zu rechtlichen Problemen.
 
-## So funktioniert es
-Künstliche Intelligenz ordnet die Schlüsselpunkte (Augen, Nase, Mund) zwischen zwei Gesichtern zu und rendert das neue Gesicht entsprechend der Beleuchtung im Zielvideo in das Video.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Filter: Gesichtseffekte in sozialen Medien.Kino: Verjüngung und Stunt-Szenen.Unterhaltung: Humor-Anwendungen.
 
-## Wo es eingesetzt wird
-Es wird in Social-Media-Filtern, Filmpostproduktionsprozessen und Unterhaltungsanwendungen eingesetzt.
+## Technische Tiefe und Architektur
+Die Zeile lautet wie folgt:
 
-## Häufig verwechselt mit
-Es ähnelt Deepfake, der Gesichtsaustausch konzentriert sich jedoch im Allgemeinen nur auf die Verschiebung des Gesichts.
+## Häufig gemischte Dinge
+Ähnlich wie Deepfake. Deepfake erzeugt auch Audio und Skripte, während Face Swapping sich meist auf die Gesichtsübertragung konzentriert. Beide erfordern eine Genehmigung.
 
-## Häufige Fragen
-**Ist für den Gesichtsaustausch eine hohe Hardware erforderlich?**
-Einfache Anwendungen können auf dem Telefon ausgeführt werden, professionelle Ergebnisse erfordern jedoch leistungsstarke Grafikkarten.
+## Einsatz in verschiedenen Disziplinen
+Theater: Eine Maske, die sich mit der Mimik bewegt.Stuntman: Gesichtstausch in gefährlichen Szenen.Fotomontage: Zusammenfügen von Gesichtern im Bild.
+
+## Häufig gestellte Fragen
+**Ist eine leistungsstarke Hardware erforderlich?**
+Einfache Anwendungen laufen auf dem Telefon, professionelle Ergebnisse erfordern eine leistungsstarke Grafikkarte.
 
 **Funktioniert es in allen Winkeln?**
-Die besten Ergebnisse werden bei Winkeln erzielt, bei denen das Gesicht vollständig sichtbar ist. Es kann zu Profilfehlern oder sehr scharfen Winkeln kommen.
+Ein frontal sichtbares Gesicht ist gut; bei Profilen und scharfen Winkeln nimmt die Fehlerquote zu.
+
+**Ist es legal?**
+Für das eigene Gesicht und bei genehmigten Arbeiten ja. Die unbefugte Nutzung stellt eine Verletzung der Persönlichkeitsrechte dar.
+
+**Wie erkennt man, ob es eine Fälschung ist?**
+Der Augenrhythmus, die Kantenglättung und die Lichtanpassung werden untersucht. Es gibt auch Erkennungstools.
 
 
 ## Verwandte Begriffe

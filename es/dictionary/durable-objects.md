@@ -1,22 +1,34 @@
 # ¿Qué es Durable Objects?
 
-Son pequeñas unidades de software que se ejecutan continuamente en Internet y pueden almacenar datos sin perder su estado.
+Los objetos duraderos son pequeñas unidades de nube que mantienen su estado.
 
-## Definición
-Normalmente, los programas en Internet son temporales, pero estas estructuras funcionan sin interrupción manteniendo los datos dentro de sí mismas. No olvidan los datos incluso cuando finaliza la interacción del usuario. Ideal para mantener la coherencia en sistemas distribuidos.
+## Definición y origen de la palabra
+"Durable" significa permanente. A diferencia de las funciones temporales, los datos residen en la unidad y no se olvidan cuando finaliza la solicitud. La coherencia es la cura para el trabajo distribuido.
 
-## Cómo funciona
-Viven en el servidor con una identidad específica y procesan cada solicitud entrante con el estado actual en su memoria.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Juego: Seguimiento del estado de la habitación.Conversación: Sesión de conexión.Servicio: Contador y cerradura.
 
-## Dónde se usa
-Se utiliza en juegos en tiempo real, aplicaciones de chat y servicios web cuyo estado debe mantenerse.
+## Profundidad técnica y arquitectura
+Diseño:
 
-## Suele confundirse con
-No confundir con funciones de servidor temporales (sin servidor); porque siempre empiezan desde cero.
+## Cosas frecuentemente mezcladas
+Se considera sin servidor. La función es temporal, el objeto es permanente. Uno es un excursionista y el otro es un inquilino.
+
+## Uso en diferentes disciplinas
+Secretario: El asistente que no deja el cuaderno atrás.Libro de caja: Saldo al final del día.Depósito: Un gabinete esperando a su dueño.
 
 ## Preguntas frecuentes
 **¿Dónde se almacenan los datos?**
-Se almacena dentro del propio volumen, es decir, directamente como parte del entorno operativo.
+Se mantiene dentro de la unidad como parte del entorno operativo.
+
+**¿Cuándo se utiliza?**
+En el trabajo en tiempo real requiriendo estados: Habitación, medidor y cerradura.
+
+**¿Cuánto cuesta?**
+Como vive todo el tiempo, también escribe sin hacer nada. Se calcula en función del patrón de tráfico.
+
+**¿Cuál es la diferencia entre sin servidor?**
+La función olvida, el objeto recuerda. Si hay una condición, se selecciona el objeto.
 
 
 ## Términos relacionados

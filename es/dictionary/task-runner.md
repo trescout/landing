@@ -1,22 +1,34 @@
 # ¿Qué es Task Runner?
 
-Es una herramienta de utilidad que ejecuta automáticamente tareas de software repetitivas de forma secuencial.
+Task Runner es una herramienta que ejecuta tareas repetitivas de forma secuencial.
 
-## Definición
-Delega tareas como probar código, comprimir archivos o enviarlos al servidor a estas herramientas en lugar de hacerlo manualmente. Inicia todo el proceso con un comando. Acelera el proceso de desarrollo de software y reduce el margen de error.
+## Definición y origen de la palabra
+Tareas como pruebas, compresión e implementación están vinculadas en un solo comando. Se sigue la lista, el proceso se acelera, los errores disminuyen.
 
-## Cómo funciona
-Con un archivo de configuración, usted define qué trabajo hacer y en qué orden, y la herramienta sigue esta lista.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Web: Compilación y compresión.CI: Pasos de línea.Publicación: Despliegue con un solo comando.
 
-## Dónde se usa
-Se utiliza en proyectos de desarrollo web, procesos de compilación de código y canalizaciones de CI/CD.
+## Profundidad técnica y arquitectura
+Guiones Npm:
 
-## Suele confundirse con
-Se diferencia del terminal que sólo ejecuta un comando; Aquí hay una gestión de procesos y una secuenciación involucradas.
+## Cosas frecuentemente mezcladas
+Se considera una terminal. La terminal lo ejecuta, el corredor lo gestiona. Uno es el escenario, el otro es el director.
+
+## Uso en diferentes disciplinas
+Robot: Tareas de cocina secuenciales.Lavadora: Lavado programado.Piloto automático: Seguimiento de rutas.
 
 ## Preguntas frecuentes
-**¿Para qué tipo de trabajo se utiliza?**
-Para comprobar la calidad del código, optimizar archivos y realizar una implementación automática.
+**¿En qué trabajos se utiliza?**
+En pruebas, compilación y despliegue. Cualquier trabajo recurrente es candidato.
+
+**¿Cuál se debe elegir?**
+El ecosistema determina: npm es común en el lado JS, Make es común en el sistema.
+
+**¿Cuál es la diferencia de CI?**
+Runner se ejecuta localmente, CI se ejecuta en la nube. Ambos se utilizan juntos.
+
+**¿Cuándo se escribe?**
+En la tercera repetición. El primero se hace a mano, el segundo mediante anotación, el tercero mediante guión.
 
 
 ## Términos relacionados

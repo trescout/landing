@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Was ist Task Runner? · Glossar · TreScout</title>
-<meta name="description" content="Es handelt sich um ein Hilfsprogramm, das sich wiederholende Softwareaufgaben automatisch nacheinander ausführt.">
+<meta name="description" content="Task Runner ist ein Tool, das sich wiederholende Aufgaben nacheinander ausführt. Es handelt sich um ein Hilfsprogramm, das sich wiederholende Softwareaufga">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/de/dictionary/task-runner/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/task-runner/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/task-runner/">
 <link rel="alternate" type="text/markdown" href="/de/dictionary/task-runner.md">
 <meta property="og:title" content="Was ist Task Runner?">
-<meta property="og:description" content="Es handelt sich um ein Hilfsprogramm, das sich wiederholende Softwareaufgaben automatisch nacheinander ausführt.">
+<meta property="og:description" content="Task Runner ist ein Tool, das sich wiederholende Aufgaben nacheinander ausführt. Es handelt sich um ein Hilfsprogramm, das sich wiederholende Softwareaufga">
 <meta property="og:url" content="https://trescout.com/de/dictionary/task-runner/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="de_DE">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Was ist Task Runner?">
-<meta name="twitter:description" content="Es handelt sich um ein Hilfsprogramm, das sich wiederholende Softwareaufgaben automatisch nacheinander ausführt.">
+<meta name="twitter:description" content="Task Runner ist ein Tool, das sich wiederholende Aufgaben nacheinander ausführt. Es handelt sich um ein Hilfsprogramm, das sich wiederholende Softwareaufga">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Task Runner",
-  "description": "Es handelt sich um ein Hilfsprogramm, das sich wiederholende Softwareaufgaben automatisch nacheinander ausführt.",
+  "description": "Task Runner ist ein Tool, das sich wiederholende Aufgaben nacheinander ausführt.",
   "inLanguage": "de",
   "url": "https://trescout.com/de/dictionary/task-runner/",
   "inDefinedTermSet": {
@@ -55,15 +55,19 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/de/dictionary/">← Glossar</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossar · Dev</span><time class="dict-time" datetime="2026-08-08">Zuletzt aktualisiert: 8. August 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glossar · Dev</span><time class="dict-time" datetime="2026-09-22">Zuletzt aktualisiert: 22. September 2026</time></div>
 <h1 class="disc-title">Was ist <span class="disc-accent">Task Runner</span>?</h1>
-<p class="disc-lead">Es handelt sich um ein Hilfsprogramm, das sich wiederholende Softwareaufgaben automatisch nacheinander ausführt.</p>
-<section class="disc-sec"><h2>Definition</h2><p>Sie delegieren Aufgaben wie das Testen von Code, das Komprimieren von Dateien oder das Senden an den Server an diese Tools, anstatt sie manuell zu erledigen. Es startet den gesamten Prozess mit einem Befehl. Es beschleunigt den Softwareentwicklungsprozess und verringert die Fehlerquote.</p></section>
-<div class="dict-analogy"><strong>Analogie:</strong> Es ist wie eine Küchenmaschine in einem Restaurant, die alle Vorbereitungsarbeiten in der Küche (Schneiden, Kochen, Servieren) in der von Ihnen angegebenen Reihenfolge erledigt.</div>
-<section class="disc-sec"><h2>So funktioniert es</h2><p>Mit einer Konfigurationsdatei legen Sie fest, welche Aufgaben in welcher Reihenfolge ausgeführt werden sollen, und das Tool folgt dieser Liste.</p></section>
-<section class="disc-sec"><h2>Wo es eingesetzt wird</h2><p>Es wird in Webentwicklungsprojekten, Codekompilierungsprozessen und CI/CD-Pipelines verwendet.</p></section>
-<section class="disc-sec"><h2>Häufig verwechselt mit</h2><p>Es unterscheidet sich vom Terminal, das nur einen Befehl ausführt. Dabei handelt es sich um eine Prozesssteuerung und -sequenzierung.</p></section>
-<section class="disc-sec"><h2>Häufige Fragen</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Für welche Art von Arbeit wird es verwendet?</p><p class="dict-faq-a">Um die Codequalität zu überprüfen, Dateien zu optimieren und eine automatische Bereitstellung durchzuführen.</p></div></div></section>
+<p class="disc-lead">Task Runner ist ein Tool, das sich wiederholende Aufgaben nacheinander ausführt.</p>
+<section class="disc-sec"><h2>Definition und Wortherkunft</h2><p>Aufgaben wie Testen, Komprimieren und Bereitstellen sind in einem einzigen Befehl zusammengefasst. Die Liste wird befolgt, der Prozess beschleunigt sich, Fehler nehmen ab.</p></section>
+<div class="dict-analogy"><strong>Analogie:</strong> Es ist wie ein Roboter, der die Küchenarbeiten der Reihe nach erledigt; Die Liste ist gegeben, der Prozess funktioniert.</div>
+<section class="disc-sec"><h2>Wie kann man es kennen und im täglichen Leben anwenden?</h2><p><strong>Web:</strong> Kompilierung und Komprimierung.<br><strong>CI:</strong> Linienschritte.<br><strong>Veröffentlichung:</strong> Bereitstellung mit einem einzigen Befehl.</p></section>
+<section class="disc-sec"><h2>Technische Tiefe und Architektur</h2><p>Npm-Skripte:</p><pre><code>"scripts": {
+  "test": "pytest",
+  "build": "vite build"
+}</code></pre><p>Der Lauf hat die Form npm run test. Makefile und Just sind Alternativen. Regel: Drei manuelle Aufgaben werden in das Skript geschrieben.</p></section>
+<section class="disc-sec"><h2>Häufig gemischte Dinge</h2><p>Es gilt als Terminal. Das Terminal führt es aus, der Läufer verwaltet es. Der eine ist die Bühne, der andere der Regisseur.</p></section>
+<section class="disc-sec"><h2>Einsatz in verschiedenen Disziplinen</h2><p><strong>Roboter:</strong> Aufeinanderfolgende Küchenarbeiten.<br><strong>Waschmaschine:</strong> Programmiertes Waschen.<br><strong>Autopilot:</strong> Routenverfolgung.</p></section>
+<section class="disc-sec"><h2>Häufig gestellte Fragen</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">In welchen Berufen wird es eingesetzt?</p><p class="dict-faq-a">Beim Testen, Kompilieren und Bereitstellen. Jeder wiederkehrende Job ist ein Kandidat.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Welches soll gewählt werden?</p><p class="dict-faq-a">Das Ökosystem bestimmt: npm ist auf der JS-Seite üblich, Make ist auf dem System üblich.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Was ist der CI-Unterschied?</p><p class="dict-faq-a">Runner läuft lokal, CI läuft in der Cloud. Beide werden zusammen verwendet.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Wann wird es geschrieben?</p><p class="dict-faq-a">Bei der dritten Wiederholung. Das erste erfolgt per Hand, das zweite durch Anmerkungen, das dritte durch Skript.</p></div></div></section>
 <section class="disc-sec"><h2>Verwandte Begriffe</h2><div class="dict-related"><a href="/de/dictionary/cli/">CLI</a><a href="/de/dictionary/continuous-integration/">Continuous Integration</a><a href="/de/dictionary/script/">Script</a></div></section>
 <section class="disc-sec"><h2>Verwandte Werkzeuge</h2><div class="dict-related"><a href="/de/discover/mise/">Mise</a></div></section>
 <aside class="disc-cta"><p><strong>Entdecken Sie passende Werkzeuge und tägliche Berichte.</strong> Jeden Tag entstehen neue Fachbegriffe und Tools · sichern Sie sich den Vorabzugang zu TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-de" data-page-type="dictionary" data-content-slug="task-runner" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Ihre E-Mail-Adresse" autocomplete="email" required><button class="btn btn-primary" type="submit">Vorabzugang</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Ich habe den <a href="/de/privacy.html" target="_blank" rel="noopener">Datenschutzhinweis</a> gelesen und bin damit einverstanden, dass meine E-Mail-Adresse zu diesem Zweck verarbeitet wird.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/de/dictionary/">Alle Begriffe →</a></aside>

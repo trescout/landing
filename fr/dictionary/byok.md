@@ -2,26 +2,35 @@
 
 > Bring Your Own Key
 
-Il s'agit d'une approche de sécurité qui permet à l'utilisateur d'apporter ses propres clés de sécurité pour chiffrer ses propres données.
+BYOK (Bring Your Own Key) est le système dans lequel vous conservez la clé de cryptage.
 
-## Définition
-BYOK garantit que l'emplacement où vos données sont stockées et la clé qui ouvre vos données sont indépendants l'un de l'autre. De cette manière, même le prestataire de services qui stocke les données ne peut pas accéder à vos données sans votre clé.
+## Définition et origine du mot
+Le lieu où sont conservées les données est séparé du lieu où est conservée la clé. Le fournisseur voit les données mais ne peut pas les ouvrir. Vous avez le contrôle, vous avez la responsabilité.
 
-## Comment ça marche
-Vous créez votre propre clé de cryptage à partir des paramètres de sécurité et la téléchargez sur le système. Le système verrouille les données avec votre clé.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Cloud : Disque crypté et sauvegarde.Entreprise : Données réglementées.IA : Propre clé API.
 
-## Où est-ce utilisé
-Il est utilisé dans les services de stockage cloud et les centres de données d'entreprise.
+## Profondeur technique et architecture
+Disposition :
 
-## Souvent confondu avec
-C'est confondu avec le simple cryptage, mais vous disposez ici d'un contrôle total des clés.
+## Choses fréquemment mélangées
+On pense qu’il s’agit d’un cryptage. Le cryptage est le verrou, BYOK est celui qui détient la clé. L’un est la porte et l’autre est l’agencement du porte-clés.
 
-## Questions fréquentes
-**Que se passe-t-il si je perds ma clé ?**
-Vous risquez de perdre définitivement l’accès à vos données, c’est pourquoi la gestion des clés est si essentielle.
+## Utilisation dans différentes disciplines
+Coffre-fort : Ouverture avec votre propre clé.Dépôt: Livraison sous enveloppe scellée.Coffre-fort : Contenu non bancable.
 
-**Pourquoi devrais-je utiliser BYOK ?**
-Pour accroître la confidentialité des données et restreindre l’accès des fournisseurs de services aux données.
+## Foire aux questions
+**Que se passe-t-il si je perds ?**
+L'accès est permanent. Un plan de sauvegarde et testamentaire est indispensable.
+
+**Pourquoi est-il utilisé ?**
+Pour désactiver l'accès au fournisseur. Cela nécessite confidentialité et conformité.
+
+**Qu’y a-t-il dans les outils d’IA ?**
+Il fonctionne avec sa propre clé API. Vous avez le quota et la facture.
+
+**Qu'est-ce que ça coûte ?**
+Il y a des frais en espèces et de gestion. Cela s’avère payant dans le domaine des données critiques.
 
 
 ## Termes liés

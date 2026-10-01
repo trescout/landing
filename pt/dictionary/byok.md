@@ -2,26 +2,35 @@
 
 > Bring Your Own Key
 
-É uma abordagem de segurança que permite ao usuário trazer suas próprias chaves de segurança para criptografar seus próprios dados.
+BYOK (Bring Your Own Key) é o sistema onde você guarda a chave de criptografia.
 
-## Definição
-BYOK garante que o local onde seus dados são armazenados e a chave que abre seus dados sejam independentes um do outro. Dessa forma, mesmo o provedor de serviços que armazena os dados não poderá acessá-los sem a sua chave.
+## Definição e origem da palavra
+O local onde os dados são guardados é separado do local onde a chave é guardada. O provedor vê os dados, mas não consegue abri-los. Você tem controle, você tem responsabilidade.
 
-## Como funciona
-Você cria sua própria chave de criptografia a partir das configurações de segurança e a carrega no sistema. O sistema bloqueia os dados com sua chave.
+## Como conhecer e usar no dia a dia?
+Nuvem: Disco criptografado e backup.Institucional: Dados regulamentados.IA: Chave de API própria.
 
-## Onde é usado
-É usado em serviços de armazenamento em nuvem e data centers corporativos.
+## Profundidade Técnica e Arquitetura
+Layout:
 
-## Costuma ser confundido com
-É confundido apenas com criptografia, mas você tem controle total da chave aqui.
+## Coisas frequentemente misturadas
+Acredita-se que seja criptografia. A criptografia é a fechadura, BYOK é quem detém a chave. Uma é a porta e a outra é o arranjo do chaveiro.
 
-## Perguntas frequentes
-**O que acontece se eu perder minha chave?**
-Você pode perder permanentemente o acesso aos seus dados, e é por isso que o gerenciamento de chaves é tão importante.
+## Use em diferentes disciplinas
+Cofre: Abrindo com sua própria chave.Depósito: Entrega em envelope lacrado.Cofre: Conteúdo inbancável.
 
-**Por que devo usar o BYOK?**
-Para aumentar a privacidade dos dados e restringir o acesso dos provedores de serviços aos dados.
+## Perguntas Frequentes
+**O que acontece se eu perder?**
+O acesso é permanente. Um plano de backup e testamentário é obrigatório.
+
+**Por que é usado?**
+Para desativar o acesso do provedor. Requer confidencialidade e conformidade.
+
+**O que há nas ferramentas de IA?**
+Funciona com sua própria chave de API. Você tem a cota e a fatura.
+
+**Quanto custa?**
+Há uma taxa em dinheiro e de administração. Vale a pena em dados críticos.
 
 
 ## Termos relacionados

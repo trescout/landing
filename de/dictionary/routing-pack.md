@@ -1,19 +1,31 @@
 # Was ist Routing Pack?
 
-Dabei handelt es sich um eine Reihe von Regeln, die sicherstellen, dass Datenpakete der effizientesten Route im Netzwerk folgen.
+Ein Routing-Paket ist ein Datenpaket, das Netzwerkgeräte verwenden, um Routing-Informationen untereinander auszutauschen.
 
-## Definition
-In Computernetzwerken werden Daten in kleinen Teilen übertragen. Das Routing-Paket funktioniert wie ein Verkehrspolizist und bestimmt, welchen Routen diese Teile folgen, um ihr Ziel zu erreichen. Dadurch wird sichergestellt, dass die Daten ohne Verlust oder unnötige Verzögerung an die richtige Adresse gelangen.
+## Definition und Wortherkunft
+Routing bedeutet Weiterleitung, pack bedeutet Paket. In Computernetzwerken werden Daten in kleinen Einheiten übertragen. Router entscheiden anhand ihrer Routing-Tabellen, welchen Weg diese Einheiten nehmen. Ein Routing-Paket ist ein Paket, das Informationen zur Aktualisierung dieser Tabellen enthält. Beispielsweise werden im OSPF-Protokoll Verbindungsankündigungen und im BGP-Protokoll Erreichbarkeitsaktualisierungen über solche Pakete verbreitet.
 
-## So funktioniert es
-Netzwerkgeräte lesen die Regeln in diesen Paketen und leiten die Daten an die nächste Station weiter. Auf diese Weise werden Verkehrsstaus verhindert.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Internet-Infrastruktur: Die Router der Dienstanbieter senden sich gegenseitig Pfadinformationen.Unternehmensnetzwerke: Bestimmung der Leitung, über die der Datenverkehr zwischen den Niederlassungen fließen soll.Heimnetzwerk: Dass Ihr Modem den Weg ins Internet kennt (wird normalerweise automatisch bezogen).
 
-## Wo es eingesetzt wird
-Es wird in Internet-Infrastrukturen und großen Unternehmensnetzwerken eingesetzt.
+## Technische Tiefe und Architektur
+Routing-Informationen bestehen aus folgenden Komponenten:
 
-## Häufige Fragen
-**Warum ist es wichtig?**
-Dies wirkt sich direkt auf die Geschwindigkeit und Sicherheit der Datenübertragung aus.
+## Einsatz in verschiedenen Disziplinen
+Fracht: Der Routenplan, der festlegt, welche Umschlagzentren die Sendung durchläuft.Flugverkehr: Die vorherige Ankündigung der Flugkorridore, denen das Flugzeug folgen wird.Post: Die Sortierung des Briefes im Verteilzentrum anhand der Postleitzahl.
+
+## Häufig gestellte Fragen
+**Ist Routing Pack ein Standardbegriff?**
+Es ist kein eigenständiger Standardname. Es ist ein allgemeiner Ausdruck für Pakete, die Routing-Informationen enthalten. Standards sind Protokollnamen wie OSPF oder BGP.
+
+**Was passiert, wenn das Paket verloren geht?**
+Der Absender sendet das Paket erneut, wenn er keine Antwort erhält. Da die Routing-Informationen in regelmäßigen Abständen aktualisiert werden, erholt sich die Tabelle in kurzer Zeit.
+
+**Kann ich das Routing in meinem Heimnetzwerk sehen?**
+Normalerweise ist das nicht nötig, das Modem verwaltet dies automatisch. Wenn Sie neugierig sind, können Sie mit dem Befehl traceroute den Weg sehen, den Ihr Paket nimmt.
+
+**Sind Routing-Informationen sicher?**
+In Unternehmensnetzwerken werden Protokolle durch Authentifizierung und Filterung geschützt. Andernfalls könnten gefälschte Routeninformationen den Datenverkehr in die falsche Richtung leiten.
 
 
 ## Verwandte Begriffe

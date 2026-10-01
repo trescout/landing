@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>O que é SQL Client? · Glossário · TreScout</title>
-<meta name="description" content="Aplicativo que auxilia na consulta e gerenciamento de informações do banco de dados.">
+<meta name="description" content="SQL Client (em português, cliente SQL), é uma aplicação que permite conectar-se a bancos de dados relacionais e executar consultas SQL.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/pt/dictionary/sql-client/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/sql-client/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/sql-client/">
 <link rel="alternate" type="text/markdown" href="/pt/dictionary/sql-client.md">
 <meta property="og:title" content="O que é SQL Client?">
-<meta property="og:description" content="Aplicativo que auxilia na consulta e gerenciamento de informações do banco de dados.">
+<meta property="og:description" content="SQL Client (em português, cliente SQL), é uma aplicação que permite conectar-se a bancos de dados relacionais e executar consultas SQL.">
 <meta property="og:url" content="https://trescout.com/pt/dictionary/sql-client/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="pt_BR">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="O que é SQL Client?">
-<meta name="twitter:description" content="Aplicativo que auxilia na consulta e gerenciamento de informações do banco de dados.">
+<meta name="twitter:description" content="SQL Client (em português, cliente SQL), é uma aplicação que permite conectar-se a bancos de dados relacionais e executar consultas SQL.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "SQL Client",
-  "description": "Aplicativo que auxilia na consulta e gerenciamento de informações do banco de dados.",
+  "description": "SQL Client (em português, cliente SQL), é uma aplicação que permite conectar-se a bancos de dados relacionais e executar consultas SQL.",
   "inLanguage": "pt-BR",
   "url": "https://trescout.com/pt/dictionary/sql-client/",
   "inDefinedTermSet": {
@@ -55,16 +55,17 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/pt/dictionary/">← Glossário</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossário · Data</span><time class="dict-time" datetime="2026-07-27">Última atualização: 27 de julho de 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glossário · Data</span><time class="dict-time" datetime="2026-09-22">Última atualização: 22 de setembro de 2026</time></div>
 <h1 class="disc-title">O que é <span class="disc-accent">SQL Client</span>?</h1>
-<p class="disc-lead">Aplicativo que auxilia na consulta e gerenciamento de informações do banco de dados.</p>
-<section class="disc-sec"><h2>Definição</h2><p>O banco de dados é como um enorme arquivo de biblioteca. SQL Client é a interface que permite entrar neste arquivo e encontrar o livro desejado ou adicionar um novo livro.</p></section>
-<div class="dict-analogy"><strong>Analogia:</strong> Assim como a interface do Excel que permite operar com dados, esta ferramenta também é utilizada para banco de dados.</div>
-<section class="disc-sec"><h2>Como funciona</h2><p>Você insere o endereço do banco de dados, conecta e extrai dados digitando perguntas em SQL.</p></section>
-<section class="disc-sec"><h2>Onde é usado</h2><p>É usado em análise de dados, desenvolvimento de software e gerenciamento de banco de dados.</p></section>
-<section class="disc-sec"><h2>Costuma ser confundido com</h2><p>Não é o banco de dados em si, apenas uma janela que se conecta a ele.</p></section>
-<section class="disc-sec"><h2>Perguntas frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">É necessário saber SQL?</p><p class="dict-faq-a">Sim, você precisa conhecer comandos SQL básicos para usar essas ferramentas de maneira eficaz.</p></div></div></section>
-<section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/database/">Database</a><a href="/pt/dictionary/data-pipeline/">Data Pipeline</a></div></section>
+<p class="disc-lead">SQL Client (em português, cliente SQL), é uma aplicação que permite conectar-se a bancos de dados relacionais e executar consultas SQL.</p>
+<section class="disc-sec"><h2>Definição e origem da palavra</h2><p>SQL é uma abreviatura de Structured Query Language. Cliente significa a parte que utiliza o serviço: O servidor de banco de dados mantém os dados, o cliente se conecta a ele e faz perguntas. DBeaver, DataGrip, TablePlus e psql na linha de comando são exemplos comuns.</p></section>
+<div class="dict-analogy"><strong>Analogia:</strong> É como o atendente de uma biblioteca gigantesca: ele sabe onde estão as estantes (tabelas), encontra o livro (registro) que você deseja e coloca novos nas estantes.</div>
+<section class="disc-sec"><h2>Como conhecer e usar no dia a dia?</h2><p><strong>Analista de dados:</strong> Extrai o relatório do último mês da tabela de vendas.<br><strong>Desenvolvedor:</strong> Verifica visualmente os registros lidos pela sua aplicação.<br><strong>Administrador de banco de dados:</strong> Gerencia backups, usuários e permissões.</p><p>Um uso típico é inserir o endereço, conectar-se e escrever um tipo de consulta como esta:</p><pre><code>SELECT ad, eposta FROM musteriler WHERE sehir = 'İstanbul' LIMIT 10;</code></pre></section>
+<section class="disc-sec"><h2>Profundidade Técnica e Arquitetura</h2><p>Nos bastidores de um cliente SQL, o seguinte acontece:</p><p><strong>Conexão e driver:</strong> O cliente conecta-se ao servidor com endereço, porta, nome de usuário e senha. Cada banco de dados possui seu próprio protocolo de comunicação e driver.<br><strong>Envio de consulta:</strong> O texto SQL que você escreveu é transmitido ao servidor e o resultado retorna em linhas.<br><strong>Declarações preparadas (Prepared Statements):</strong> Consultas repetidas são pré-compiladas. Isso aumenta a velocidade e protege contra a injeção de entradas maliciosas.<br><strong>Transações:</strong> Múltiplas etapas de escrita são processadas como um todo. Se ocorrer um erro, nenhuma delas é aplicada.<br><strong>Conexão segura:</strong> A senha e os dados são transmitidos por um canal criptografado. Conexões não criptografadas não devem ser usadas em redes públicas.</p></section>
+<section class="disc-sec"><h2>Diferença entre ORM e Cliente</h2><p>ORM (Object-Relational Mapping) é a camada que permite que você se comunique com o banco de dados a partir do código sem escrever SQL. O cliente SQL é a janela onde você escreve SQL. O ORM aumenta a produtividade, enquanto o cliente permite que você veja o que realmente está sendo executado. Eles não são rivais, mas complementares.</p></section>
+<section class="disc-sec"><h2>Use em diferentes disciplinas</h2><p><strong>Biblioteconomia:</strong> O atendente de referência sabe onde estão as estantes e encontra o registro que você deseja.<br><strong>Contabilidade:</strong> O auditor que examina os itens do livro contábil um por um.<br><strong>Logística:</strong> O terminal portátil que lista os produtos no armazém.</p></section>
+<section class="disc-sec"><h2>Perguntas Frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">É necessário saber SQL?</p><p class="dict-faq-a">Você precisa conhecer os comandos básicos (SELECT, WHERE, JOIN). Ferramentas gráficas ajudam, mas para consultas complexas, o SQL é essencial.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Existe algum cliente gratuito?</p><p class="dict-faq-a">Sim. O DBeaver Community e o psql são gratuitos. Muitas bases de dados também oferecem a sua própria ferramenta oficial gratuitamente.</p></div><div class="dict-faq-item"><p class="dict-faq-q">O cliente armazena os dados?</p><p class="dict-faq-a">Não. O cliente é apenas uma janela de conexão. Os dados permanecem no servidor; excluir o cliente não apaga os dados.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Como mantenho a conexão segura?</p><p class="dict-faq-a">Use uma conexão criptografada, defina uma senha forte, limite o acesso por IP e não compartilhe as informações de conexão com ninguém.</p></div></div></section>
+<section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/database/">Database</a><a href="/pt/dictionary/data-pipeline/">Data Pipeline</a><a href="/pt/dictionary/orm/">ORM</a></div></section>
 <section class="disc-sec"><h2>Ferramentas relacionadas</h2><div class="dict-related"><a href="/pt/discover/chat2db/">Chat2DB</a></div></section>
 <aside class="disc-cta"><p><strong>Explore ferramentas relacionadas e relatórios diários.</strong> Novos termos e ferramentas surgem todos os dias · junte-se ao acesso antecipado da TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-pt" data-page-type="dictionary" data-content-slug="sql-client" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Seu e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Acesso antecipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Li o <a href="/pt/privacy.html" target="_blank" rel="noopener">aviso de privacidade</a> e concordo com o tratamento do meu e-mail para esta finalidade.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/pt/dictionary/">Todos os termos →</a></aside>
 <p class="disc-disclaimer">Esta explicação foi escrita em linguagem simples para a TreScout e <strong>traduzida automaticamente</strong> do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/sql-client/">Ler em turco →</a></p>

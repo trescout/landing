@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Was ist Environment Variables? · Glossar · TreScout</title>
-<meta name="description" content="Dabei handelt es sich um kleine Bezeichner, die die Einstellungen und geheimen Schlüssel enthalten, die Programme zur Laufzeit benötigen.">
+<meta name="description" content="Umgebungsvariablen sind Bezeichner, die Einstellungen außerhalb des Codes halten. Dabei handelt es sich um kleine Bezeichner, die die Einstellungen und geh">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/de/dictionary/environment-variables/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/environment-variables/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/environment-variables/">
 <link rel="alternate" type="text/markdown" href="/de/dictionary/environment-variables.md">
 <meta property="og:title" content="Was ist Environment Variables?">
-<meta property="og:description" content="Dabei handelt es sich um kleine Bezeichner, die die Einstellungen und geheimen Schlüssel enthalten, die Programme zur Laufzeit benötigen.">
+<meta property="og:description" content="Umgebungsvariablen sind Bezeichner, die Einstellungen außerhalb des Codes halten. Dabei handelt es sich um kleine Bezeichner, die die Einstellungen und geh">
 <meta property="og:url" content="https://trescout.com/de/dictionary/environment-variables/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="de_DE">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Was ist Environment Variables?">
-<meta name="twitter:description" content="Dabei handelt es sich um kleine Bezeichner, die die Einstellungen und geheimen Schlüssel enthalten, die Programme zur Laufzeit benötigen.">
+<meta name="twitter:description" content="Umgebungsvariablen sind Bezeichner, die Einstellungen außerhalb des Codes halten. Dabei handelt es sich um kleine Bezeichner, die die Einstellungen und geh">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Environment Variables",
-  "description": "Dabei handelt es sich um kleine Bezeichner, die die Einstellungen und geheimen Schlüssel enthalten, die Programme zur Laufzeit benötigen.",
+  "description": "Umgebungsvariablen sind Bezeichner, die Einstellungen außerhalb des Codes halten.",
   "inLanguage": "de",
   "url": "https://trescout.com/de/dictionary/environment-variables/",
   "inDefinedTermSet": {
@@ -55,15 +55,16 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/de/dictionary/">← Glossar</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossar · Dev</span><time class="dict-time" datetime="2026-08-08">Zuletzt aktualisiert: 8. August 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glossar · Dev</span><time class="dict-time" datetime="2026-09-22">Zuletzt aktualisiert: 22. September 2026</time></div>
 <h1 class="disc-title">Was ist <span class="disc-accent">Environment Variables</span>?</h1>
-<p class="disc-lead">Dabei handelt es sich um kleine Bezeichner, die die Einstellungen und geheimen Schlüssel enthalten, die Programme zur Laufzeit benötigen.</p>
-<section class="disc-sec"><h2>Definition</h2><p>Es ermöglicht Ihnen, Informationen auf Systemebene zu behalten, wie z. B. Passwörter, API-Schlüssel oder verschiedene Serveradressen, die Sie nicht in Ihren Code schreiben sollten. Während das Programm läuft, liest es diese Variablen und verhält sich entsprechend. Somit kann derselbe Code in verschiedenen Umgebungen mit unterschiedlichen Einstellungen ausgeführt werden.</p></section>
-<div class="dict-analogy"><strong>Analogie:</strong> Anstelle fest codierter Einstellungen innerhalb eines Geräts handelt es sich um eine Art Einstellungskarte, die in das Gerät integriert ist und jedes Mal geändert werden kann.</div>
-<section class="disc-sec"><h2>So funktioniert es</h2><p>Es wird über das Betriebssystem oder eine spezielle Datei definiert und speichert diese Werte beim Start des Programms.</p></section>
-<section class="disc-sec"><h2>Wo es eingesetzt wird</h2><p>Es wird bei Serverinstallationen, Anwendungskonfigurationen und allen Softwareprojekten verwendet, die Sicherheit erfordern.</p></section>
-<section class="disc-sec"><h2>Häufig verwechselt mit</h2><p>Es sollte nicht mit fest codierten Werten verwechselt werden, die in den Code geschrieben werden, da diese Methode ein Sicherheitsrisiko darstellt.</p></section>
-<section class="disc-sec"><h2>Häufige Fragen</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Warum sollten wir diese Variablen privat halten?</p><p class="dict-faq-a">Um zu verhindern, dass Ihre Passwörter gefährdet werden, wenn Sie Ihren Code weitergeben.</p></div></div></section>
+<p class="disc-lead">Umgebungsvariablen sind Bezeichner, die Einstellungen außerhalb des Codes halten.</p>
+<section class="disc-sec"><h2>Definition und Wortherkunft</h2><p>„Umwelt“ bedeutet Umwelt. Passwort und Adresse bleiben nicht im Code, sondern im System. Derselbe Code verhält sich in verschiedenen Umgebungen unterschiedlich.</p></section>
+<div class="dict-analogy"><strong>Analogie:</strong> Es ist wie eine Karte, die anstelle einer im Gerät eingebetteten Einstellung eingesetzt und geändert wird.</div>
+<section class="disc-sec"><h2>Wie kann man es kennen und im täglichen Leben anwenden?</h2><p><strong>Moderator:</strong> Verbindungszeichenfolgen.<br><strong>Anwendung:</strong> Modusauswahl.<br><strong>CI:</strong> Geheime Schlüssel.</p></section>
+<section class="disc-sec"><h2>Technische Tiefe und Architektur</h2><p>Layout:</p><p><strong>.env:</strong> Die lokale Datei wird nicht gespeichert.<br><strong>Priorität:</strong> Das Mediensystem vernichtet die Datei.<br><strong>Schema:</strong> Erforderliche Namensliste.</p><p>Beispielwert:</p><pre><code>DATABASE_URL=postgres://kullanici:parola@localhost:5432/db</code></pre><p>Regel: Der tatsächliche Wert wird nicht in das Beispiel geschrieben, sondern ein Platzhalter platziert. Der durchgesickerte Schlüssel wird widerrufen.</p></section>
+<section class="disc-sec"><h2>Häufig gemischte Dinge</h2><p>Er gilt als konstanter Wert. Es stoppt beim Hardcode, die Variable liegt außerhalb. Das eine ist ein Tattoo und das andere ein Abzeichen.</p></section>
+<section class="disc-sec"><h2>Einsatz in verschiedenen Disziplinen</h2><p><strong>Karte:</strong> Karte „Einstellungen ändern“.<br><strong>Fernbedienungsbatterie:</strong> Plug-and-Play-Stromversorgung.<br><strong>Schlüsselanhänger:</strong> Portierter Zugriff.</p></section>
+<section class="disc-sec"><h2>Häufig gestellte Fragen</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Warum wird es geheim gehalten?</p><p class="dict-faq-a">Es wird durch Teilen erhalten und ein Konto eröffnet. Bleibt es geheim, wird das Risiko kleiner.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Was ist .env?</p><p class="dict-faq-a">Es handelt sich um eine lokale Wertedatei. Es kommt nicht ins Lager, sondern in die Probe.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Was passiert, wenn es ausläuft?</p><p class="dict-faq-a">Der Schlüssel wird gelöscht und der Datensatz überprüft. Die Verzögerung ist groß.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Was hat Priorität?</p><p class="dict-faq-a">Die Systemumgebung zerstört die Datei. Der Lebenswert kommt vom System.</p></div></div></section>
 <section class="disc-sec"><h2>Verwandte Begriffe</h2><div class="dict-related"><a href="/de/dictionary/secrets/">Secrets</a><a href="/de/dictionary/runtime/">Runtime</a><a href="/de/dictionary/api/">API</a></div></section>
 <section class="disc-sec"><h2>Verwandte Werkzeuge</h2><div class="dict-related"><a href="/de/discover/mise/">Mise</a></div></section>
 <aside class="disc-cta"><p><strong>Entdecken Sie passende Werkzeuge und tägliche Berichte.</strong> Jeden Tag entstehen neue Fachbegriffe und Tools · sichern Sie sich den Vorabzugang zu TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-de" data-page-type="dictionary" data-content-slug="environment-variables" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Ihre E-Mail-Adresse" autocomplete="email" required><button class="btn btn-primary" type="submit">Vorabzugang</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Ich habe den <a href="/de/privacy.html" target="_blank" rel="noopener">Datenschutzhinweis</a> gelesen und bin damit einverstanden, dass meine E-Mail-Adresse zu diesem Zweck verarbeitet wird.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/de/dictionary/">Alle Begriffe →</a></aside>

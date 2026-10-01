@@ -1,25 +1,34 @@
 # ¿Qué es Face Swapping?
 
-El proceso de reemplazar un rostro en una imagen o video con el rostro de otra persona utilizando inteligencia artificial.
+El intercambio de rostros (face swapping) es el proceso de transferir la expresión de una cara a otra en un video.
 
-## Definición
-El intercambio de rostros es una tecnología que toma el rostro de una persona en un video o una foto y lo reemplaza sin problemas con el rostro de otra persona. La IA combina los rasgos faciales, la iluminación y el ángulo para que el cambio parezca natural. Generalmente se utiliza con fines de entretenimiento y efectos visuales.
+## Definición y origen de la palabra
+El modelo hace coincidir los rasgos, la iluminación y el ángulo del rostro de origen con el video de destino. El resultado parece natural, pero siempre deja rastro. Se utiliza en entretenimiento y efectos especiales, y su uso no autorizado genera problemas legales.
 
-## Cómo funciona
-La inteligencia artificial hace coincidir los puntos clave (ojos, nariz, boca) entre dos caras y representa la nueva cara en el vídeo de acuerdo con la iluminación del vídeo de destino.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Filtros: Efectos faciales en redes sociales.Cine: Rejuvenecimiento y escenas de dobles.Entretenimiento: Aplicaciones de humor.
 
-## Dónde se usa
-Se utiliza en filtros de redes sociales, procesos de postproducción cinematográfica y aplicaciones de entretenimiento.
+## Profundidad técnica y arquitectura
+La ruta es la siguiente:
 
-## Suele confundirse con
-Es similar al deepfake, pero el intercambio de caras generalmente se centra únicamente en el desplazamiento de la cara.
+## Cosas frecuentemente mezcladas
+Es similar al deepfake. El deepfake también genera audio y guiones, mientras que el intercambio de rostros (face swapping) generalmente se centra en la transferencia facial. Ambos requieren permiso.
+
+## Uso en diferentes disciplinas
+Teatro: Una máscara que se mueve con la mímica.Doble de acción: Intercambio de rostros en escenas peligrosas.Fotomontaje: Combinación de rostros en el encuadre.
 
 ## Preguntas frecuentes
-**¿Se requiere mucho hardware para el intercambio de caras?**
-Se pueden ejecutar aplicaciones sencillas en el teléfono, pero los resultados profesionales requieren tarjetas gráficas potentes.
+**¿Se requiere hardware de alto rendimiento?**
+Las aplicaciones simples funcionan en el teléfono, pero los resultados profesionales requieren una tarjeta gráfica potente.
 
 **¿Funciona en todos los ángulos?**
-Da los mejores resultados en ángulos donde la cara es completamente visible; Puede cometer errores de perfil o ángulos muy agudos.
+Es bueno cuando el rostro se ve completamente; los errores aumentan en el perfil y en ángulos pronunciados.
+
+**¿Es legal?**
+Sí, en tu propio rostro y en trabajos autorizados. El uso sin permiso es una violación de los derechos personales.
+
+**¿Cómo saber si es falso?**
+Se examinan el ritmo ocular, la suavidad de los bordes y la armonía de la luz. También existen herramientas de detección.
 
 
 ## Términos relacionados

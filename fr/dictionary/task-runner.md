@@ -1,22 +1,34 @@
 # Qu'est-ce que Task Runner ?
 
-Il s'agit d'un outil utilitaire qui exécute automatiquement et séquentiellement des tâches logicielles répétitives.
+Task Runner est un outil qui exécute des tâches répétitives de manière séquentielle.
 
-## Définition
-Vous déléguez des tâches telles que tester le code, compresser des fichiers ou les envoyer au serveur à ces outils au lieu de les effectuer manuellement. Il démarre l’ensemble du processus avec une seule commande. Cela accélère le processus de développement logiciel et réduit la marge d’erreur.
+## Définition et origine du mot
+Les tâches telles que les tests, la compression et le déploiement sont liées à une seule commande. La liste est suivie, le processus s'accélère, les erreurs diminuent.
 
-## Comment ça marche
-Avec un fichier de configuration, vous définissez quelle tâche effectuer et dans quel ordre, et l'outil suit cette liste.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Web : Compilation et compression.CI : Étapes de ligne.Publication : Déploiement avec une seule commande.
 
-## Où est-ce utilisé
-Il est utilisé dans les projets de développement Web, les processus de compilation de code et les pipelines CI/CD.
+## Profondeur technique et architecture
+Scripts NPM :
 
-## Souvent confondu avec
-Cela diffère du terminal qui n’exécute qu’une seule commande ; Il y a une gestion et un séquençage de processus impliqués ici.
+## Choses fréquemment mélangées
+Il est considéré comme un terminal. Le terminal l'exécute, le runner le gère. L'un est la scène, l'autre est le metteur en scène.
 
-## Questions fréquentes
-**Pour quel type de travaux est-il utilisé ?**
-Pour vérifier la qualité du code, optimiser les fichiers et effectuer un déploiement automatique.
+## Utilisation dans différentes disciplines
+Robot: Tâches de cuisine séquentielles.Machine à laver: Lavage programmé.Pilote automatique : Suivi d'itinéraire.
+
+## Foire aux questions
+**Dans quels métiers est-il utilisé ?**
+En tests, compilation et déploiement. Tout emploi récurrent est un candidat.
+
+**Lequel faut-il choisir ?**
+L'écosystème détermine : npm est commun du côté JS, Make est commun sur le système.
+
+**Quelle est la différence entre les IC ?**
+Runner s'exécute localement, CI s'exécute dans le cloud. Les deux sont utilisés ensemble.
+
+**Quand faut-il l'écrire ?**
+À la troisième répétition. Le premier est réalisé à la main, le second par annotation, le troisième par script.
 
 
 ## Termes liés

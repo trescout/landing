@@ -1,22 +1,34 @@
 # Was ist Caching?
 
-Häufig verwendete Daten werden für den schnellen Zugriff vorübergehend im Speicher gespeichert.
+Beim Caching handelt es sich um das häufige Kopieren von Daten auf eine schnelle Ebene.
 
-## Definition
-Caching ist eine Beschleunigungsmethode, mit der verhindert werden soll, dass ein System wiederholt dieselben Daten berechnet oder von einer entfernten Quelle abruft. Die Daten werden in einen schnell zugänglichen Bereich (Cache) kopiert und von dort bei Bedarf bereitgestellt. Dadurch wird die Gesamtreaktionszeit des Systems erheblich verkürzt.
+## Definition und Wortherkunft
+„Cache“ bedeutet gespeicherter Bestand. Das System gibt dieselben Daten aus einer Kopie zurück, anstatt sie neu zu berechnen. Die Reaktionszeit verkürzt sich und die Last wird geringer. Es funktioniert auf jeder Etage, vom Browser bis zum Rechenzentrum.
 
-## So funktioniert es
-Wenn das System Daten anfordert, prüft es zunächst den Cache. Wenn die Daten vorhanden sind, werden sie sofort abgerufen, andernfalls werden sie von der Hauptquelle abgerufen und eine Kopie im Cache belassen.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Browser: Seiten- und Bildspeicherung.Anwendung: Offline-Kopie.Moderator: Abfrageergebnisse speichern.
 
-## Wo es eingesetzt wird
-Es wird häufig zur Verbesserung der Leistung in Webbrowsern, Anwendungen und großen Rechenzentren eingesetzt.
+## Technische Tiefe und Architektur
+Strategien:
 
-## Häufig verwechselt mit
-Es kann mit einer Datenbank verwechselt werden, aber der Cache ist temporär und schnell, während die Datenbank permanent und größer ist.
+## Häufig gemischte Dinge
+Es handelt sich um eine Datenbank. Die Datenbank ist persistent und groß, der Cache ist temporär und schnell. Das eine ist ein Safe und das andere ist eine Geldbörse.
 
-## Häufige Fragen
+## Einsatz in verschiedenen Disziplinen
+Tasche: Häufige Bücher zur Hand.Gefrierschrank: Tägliche Mahlzeit voraus.Keller: Der Restbestand ist hinten.
+
+## Häufig gestellte Fragen
 **Was passiert, wenn der Cache voll wird?**
-Alte oder selten genutzte Daten werden gelöscht und durch neue Daten ersetzt.
+Das Alte und weniger Genutzte fällt weg und das Neue wird geschrieben. Die Politik regelt dies.
+
+**Wann wird gereinigt?**
+Wenn die Zeit abläuft, ist die Kapazität überfüllt oder manuell. Kritische Daten werden nur für kurze Zeit gespeichert.
+
+**Gibt es Unstimmigkeiten?**
+Es könnte sein. Wenn sich die Quelle ändert, ist die Kopie veraltet und es ist Versions- und Zeitdisziplin erforderlich.
+
+**Wo wird es aufbewahrt?**
+Am Ende des Speichers, der Festplatte oder des CDN. Die Auswahl erfolgt nach dem Gleichgewicht zwischen Geschwindigkeit und Kapazität.
 
 
 ## Verwandte Begriffe
@@ -25,6 +37,8 @@ Alte oder selten genutzte Daten werden gelöscht und durch neue Daten ersetzt.
 - [Database](/de/dictionary/database/)
 
 ## Verwandte Werkzeuge
+- [Free for Dev](/de/discover/free-for-dev/)
+- [OmniRoute](/de/discover/omniroute/)
 - [Guava](/de/discover/guava/)
 - [Omlx](/de/discover/omlx/)
 

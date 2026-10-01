@@ -2,7 +2,7 @@
 
 > TreScout, GitHub, Hacker News ve HuggingFace gibi kaynakları her gün tarar, yapay zekâ ile Türkçe özetler ve web/PDF rapor olarak yayımlar. E-posta teslimatı erken erişim aşamasında hazırlanıyor.
 
-Son güncelleme: 2026-10-01 · 604 araç · 673 terim
+Son güncelleme: 2026-10-01 · 604 araç · 674 terim
 
 ---
 
@@ -42,6 +42,47 @@ Genel uluslararası hisse senedi kavramlarından farklı olarak coğrafi ve yasa
 
 ---
 Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/a-share/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
+# ab nedir?
+
+> ApacheBench
+
+**Kategori:** Geliştirme  
+**Son güncelleme:** 2026-10-01
+
+Bir web sunucusunun aynı anda kaç kişiyi kaldırabileceğini ölçmeye yarayan basit bir performans test aracı.
+
+## Tanım
+ab, web sunucularınızın dayanıklılığını test etmek için kullanılan klasik bir komut satırı aracıdır. Sunucunuza aynı anda binlerce sanal istek göndererek ne zaman yavaşlayacağını veya çökeceğini görmenizi sağlar. Özellikle yeni bir site yayına almadan önce kapasiteyi anlamak için hayati önem taşır.
+
+## Bir benzetmeyle
+Yeni açtığınız bir kafenin kapısına aynı anda yüzlerce müşteri yığıldığında kasanın ve garsonların nasıl tepki vereceğini anlamak için kapının önüne insan yığını simülasyonu koymak gibidir.
+
+## Nasıl çalışır?
+Terminal ekranını açıp test etmek istediğiniz web adresini ve göndermek istediğiniz istek sayısını yazarak çalıştırırsınız. Araç, test bittiğinde size saniyede kaç istek karşılandığını raporlar.
+
+## Nerede kullanılır?
+Web sunucusu kurulumlarında, performans testlerinde ve sistem optimizasyon süreçlerinde sıklıkla kullanılır.
+
+## Sık karıştırılanlar
+Gelişmiş yük test araçları veya gerçek tarayıcı otomasyonları ile karıştırılmasın, tamamen ham sunucu hızını ölçer.
+
+## Sıkça sorulanlar
+
+**Gerçek kullanıcı trafiğini tam olarak yansıtı mı?**  
+Hayır, sadece temel HTTP istekleri gönderir, tarayıcı üzerindeki JavaScript işlemlerini simüle etmez.
+
+## İlgili terimler
+- [ApacheBench (ab)](/dictionary/apache-bench/)
+- [Load Generator](/dictionary/load-generator/)
+- [CLI](/dictionary/cli/)
+
+---
+Kaynak: TreScout Teknoloji Sözlüğü · https://trescout.com/dictionary/ab/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -38490,6 +38531,63 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 ---
 
+# Yerel yapay zekâ modellerini eğit ve çalıştır
+
+Unsloth, büyük dil modelleri (LLM) ve görsel oluşturma modelleri (diffusion models) için yerel ortamda eğitim ve çalıştırma süreçlerini hızlandıran bir kütüphanedir. Bellek kullanımını optimize ederek popüler modellerin ince ayar (fine-tuning) süreçlerini daha erişilebilir hale getirir.
+
+- ★ 77.109
+- Python
+- GitHub Trending · 2026-08-14
+
+## Güncelleme
+- 1 Ekim 2026: Yıldız 76.901 → 77.109, son sürüm v0.1.902-beta (1 Ekim 2026).
+- 28 Eylül 2026: Yıldız 76.837 → 76.901, son sürüm v0.1.900-beta (28 Eylül 2026).
+- 27 Eylül 2026: Yıldız 76.409 → 76.837, son sürüm v0.1.815-beta (23 Eylül 2026).
+- 19 Eylül 2026: Yıldız 76.348 → 76.409, son sürüm v0.1.811-beta (18 Eylül 2026).
+
+## Ne kazandırır?
+- Büyük dil modellerini ve görsel oluşturma araçlarını yerel bilgisayarınızda çalıştırın.
+- İnce ayar süreçlerini iki kat daha hızlı ve %70 daha az bellek kullanımıyla gerçekleştirin.
+- Claude Code gibi yazılım geliştirme ajanlarını yerel modellerinizle entegre edin.
+
+## Kurulum
+
+**macOS, Linux ve WSL için kurulum**
+
+```
+curl -fsSL https://unsloth.ai/install.sh | sh
+```
+
+## Çalıştırma
+
+**Yazılım geliştirme ajanını başlatma**
+
+```
+unsloth start claude
+```
+
+## Kod bilmiyorsanız
+🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
+Unsloth kullanarak yerel bilgisayarımda bir yapay zekâ modeli eğitmek istiyorum. Donanım kaynaklarımı en verimli şekilde kullanmamı sağlayacak, bellek kullanımını optimize eden ve ince ayar sürecini hızlandıran en uygun yapılandırma ayarlarını adım adım açıklar mısın?
+
+- **Kimin için:** Kendi yapay zekâ modellerini yerel donanımı üzerinde eğitmek, optimize etmek ve geliştirdiği yazılım projelerine entegre etmek isteyen kullanıcılar içindir. 
+- **Lisans:** Apache-2.0 
+
+## Bağlantılar
+- [GitHub deposu →](https://github.com/unslothai/unsloth)
+
+TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-14 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
+
+## İlgili sözlük terimleri
+Fine-tuning LLM Artificial Intelligence
+
+---
+Kaynak: TreScout Keşif · https://trescout.com/discover/unsloth/
+TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
+
+
+---
+
 # Kodlarınızı yapay zekâyla Sorgulayın
 
 Karşınızda tanımadığınız 200.000 satırlık bir kod tabanı veya devasa bir doküman arşivi mi var? Understand Anything , tüm bu içeriği içine girip soru sorabileceğiniz bir haritaya dönüştürür. Claude Code, Codex, Antigravity ve Gemini CLI ile uyumlu çalışır.
@@ -38673,63 +38771,6 @@ Traces Logs
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/grafana/
-TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
-
-
----
-
-# Yerel yapay zekâ modellerini eğit ve çalıştır
-
-Unsloth, büyük dil modelleri (LLM) ve görsel oluşturma modelleri (diffusion models) için yerel ortamda eğitim ve çalıştırma süreçlerini hızlandıran bir kütüphanedir. Bellek kullanımını optimize ederek popüler modellerin ince ayar (fine-tuning) süreçlerini daha erişilebilir hale getirir.
-
-- ★ 76.901
-- Python
-- GitHub Trending · 2026-08-14
-
-## Güncelleme
-- 28 Eylül 2026: Yıldız 76.837 → 76.901, son sürüm v0.1.900-beta (28 Eylül 2026).
-- 27 Eylül 2026: Yıldız 76.409 → 76.837, son sürüm v0.1.815-beta (23 Eylül 2026).
-- 19 Eylül 2026: Yıldız 76.348 → 76.409, son sürüm v0.1.811-beta (18 Eylül 2026).
-- 18 Eylül 2026: Yıldız 75.968 → 76.348, son sürüm v0.1.810-beta (17 Eylül 2026).
-
-## Ne kazandırır?
-- Büyük dil modellerini ve görsel oluşturma araçlarını yerel bilgisayarınızda çalıştırın.
-- İnce ayar süreçlerini iki kat daha hızlı ve %70 daha az bellek kullanımıyla gerçekleştirin.
-- Claude Code gibi yazılım geliştirme ajanlarını yerel modellerinizle entegre edin.
-
-## Kurulum
-
-**macOS, Linux ve WSL için kurulum**
-
-```
-curl -fsSL https://unsloth.ai/install.sh | sh
-```
-
-## Çalıştırma
-
-**Yazılım geliştirme ajanını başlatma**
-
-```
-unsloth start claude
-```
-
-## Kod bilmiyorsanız
-🤖 Yapay zekâ ajanınıza (Claude Code · Codex · Antigravity) yapıştırın 
-Unsloth kullanarak yerel bilgisayarımda bir yapay zekâ modeli eğitmek istiyorum. Donanım kaynaklarımı en verimli şekilde kullanmamı sağlayacak, bellek kullanımını optimize eden ve ince ayar sürecini hızlandıran en uygun yapılandırma ayarlarını adım adım açıklar mısın?
-
-- **Kimin için:** Kendi yapay zekâ modellerini yerel donanımı üzerinde eğitmek, optimize etmek ve geliştirdiği yazılım projelerine entegre etmek isteyen kullanıcılar içindir. 
-- **Lisans:** Apache-2.0 
-
-## Bağlantılar
-- [GitHub deposu →](https://github.com/unslothai/unsloth)
-
-TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-08-14 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
-
-## İlgili sözlük terimleri
-Fine-tuning LLM Artificial Intelligence
-
----
-Kaynak: TreScout Keşif · https://trescout.com/discover/unsloth/
 TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetler.
 
 
@@ -48288,15 +48329,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Kilo, yazılım geliştirme süreçlerini hızlandırmak amacıyla tasarlanmış hepsi bir arada ajan tabanlı mühendislik platformudur (agentic engineering platform). Açık kaynak kodlu yazılım geliştirme ajanı (coding agent) üzerinden uygulama oluşturma, dağıtma ve yineleme süreçlerini standartlaştırır.
 
-- ★ 27.420
+- ★ 27.460
 - TypeScript
 - GitHub Trending · 2026-06-19
 
 ## Güncelleme
+- 1 Ekim 2026: Yıldız 27.420 → 27.460, son sürüm v7.8.3 (1 Ekim 2026).
 - 27 Eylül 2026: Yıldız 27.359 → 27.420, son sürüm jetbrains/v7.1.8 (25 Eylül 2026).
 - 19 Eylül 2026: Yıldız 27.351 → 27.359, son sürüm v7.7.5 (18 Eylül 2026).
 - 18 Eylül 2026: Yıldız 27.334 → 27.351, son sürüm v7.7.4 (18 Eylül 2026).
-- 17 Eylül 2026: Yıldız 27.321 → 27.334, son sürüm v7.7.3 (17 Eylül 2026).
 
 ## Ne kazandırır?
 - 500'den fazla model arasında geçiş yapabilme
@@ -51109,7 +51150,7 @@ Kurulum için Linux, macOS veya Windows işletim sisteminize uygun indirme bağl
 TreScout bu aracı geliştirmedi · GitHub trendlerinde keşfedip Türkçe tanıttı. Bu sayfa deponun 2026-09-29 tarihindeki hâlini anlatır: Yıldız sayısı ve yazdığımız metin o güne aittir, depo sonrasında değişmiş olabilir. Güncel durum için depo bağlantısına bakın.
 
 ## İlgili sözlük terimleri
-ApacheBench (ab) ab (ApacheBench)
+ApacheBench (ab) ab (ApacheBench) ab
 
 ---
 Kaynak: TreScout Keşif · https://trescout.com/discover/hey/
@@ -59958,15 +59999,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 BuilderIO tarafından geliştirilen agent-native, yapay zekâ ajanları için yerel uygulamalar (agent-native applications) oluşturmaya odaklanan bir TypeScript çerçevesidir (framework). Geliştiricilerin ajan tabanlı iş akışlarını doğrudan uygulama mimarisine entegre etmelerini sağlar.
 
-- ★ 6.997
+- ★ 7.012
 - TypeScript
 - GitHub Trending · 2026-06-20
 
 ## Güncelleme
+- 1 Ekim 2026: Yıldız 6.997 → 7.012, son sürüm @agent-native/core-corpus@0.198.8 (1 Ekim 2026).
 - 1 Ekim 2026: Yıldız 6.966 → 6.997, son sürüm @agent-native/skills@0.3.20 (1 Ekim 2026).
 - 30 Eylül 2026: Yıldız 6.927 → 6.966, son sürüm @agent-native/core@0.198.2 (30 Eylül 2026).
 - 29 Eylül 2026: Yıldız 6.905 → 6.927, son sürüm v0.1.273 (29 Eylül 2026).
-- 29 Eylül 2026: Yıldız 6.878 → 6.905, son sürüm v0.1.272 (28 Eylül 2026).
 
 ## Ne kazandırır?
 - Ajan ve kullanıcı arayüzünü tek veritabanında senkronize eder
@@ -60895,15 +60936,15 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 Yıkıcı Komut Koruması (destructive command guard), yapay zekâ ajanları tarafından çalıştırılan tehlikeli git ve kabuk (shell) komutlarını engellemek için geliştirilmiş bir güvenlik katmanıdır. Rust diliyle yazılan bu araç, sistem seviyesinde komut yürütme süreçlerini denetleyerek istenmeyen veri kaybı veya sistem hasarı risklerini azaltır.
 
-- ★ 6.072
+- ★ 6.074
 - Rust
 - GitHub Trending · 2026-07-13
 
 ## Güncelleme
+- 1 Ekim 2026: Yıldız 6.072 → 6.074, son sürüm v0.15.2 (1 Ekim 2026).
 - 29 Eylül 2026: Yıldız 6.070 → 6.072, son sürüm v0.15.1 (29 Eylül 2026).
 - 29 Eylül 2026: Yıldız 5.991 → 6.070, son sürüm v0.15.0 (29 Eylül 2026).
 - 16 Eylül 2026: Yıldız 5.953 → 5.991, son sürüm v0.14.4 (16 Eylül 2026).
-- 11 Eylül 2026: Yıldız 5.953 → 5.953, son sürüm v0.14.3 (10 Eylül 2026).
 
 ## Ne kazandırır?
 - Tehlikeli komutları yürütülmeden önce engeller
@@ -62735,7 +62776,7 @@ TreScout her gün GitHub, Hacker News ve HuggingFace trendlerini Türkçe özetl
 
 PPF Contact Solver , ZOZO'nun fizik motoru olarak fizik tabanlı simülasyonlarda kumaş, katı ve ip arasındaki temasları çözümlemek için tasarlanmıştır. Farklı geometrilerin etkileşimini hesaplayarak simülasyonlarda fiziksel tutarlılığı artırır. Blender eklentisi sayesinde uzaktan da çalıştırılabilir.
 
-- ★ 4.513
+- ★ 4.514
 - Python
 - Apache-2.0
 - GitHub Trending · 26 May 2026
@@ -62751,10 +62792,10 @@ docker run --rm -it --name ppf-contact-solver --gpus all -p 127.0.0.1:8080:8080 
 Kaynak: Resmî kaynak: https://github.com/st-tech/ppf-contact-solver
 
 ## Güncelleme
+- 1 Ekim 2026: Yıldız 4.513 → 4.514, son sürüm addon-2026-10-01-2043 (1 Ekim 2026).
 - 1 Ekim 2026: Yıldız 4.507 → 4.513, son sürüm addon-2026-10-01-0946 (1 Ekim 2026).
 - 27 Eylül 2026: Yıldız 4.508 → 4.507, son sürüm addon-2026-09-27-2158 (27 Eylül 2026).
 - 27 Eylül 2026: Yıldız 4.490 → 4.508, son sürüm addon-2026-09-22-2204 (22 Eylül 2026).
-- 19 Eylül 2026: Yıldız 4.476 → 4.490, son sürüm addon-2026-09-19-1501 (19 Eylül 2026).
 
 - **Kimin için:** Grafik/fizik simülasyonu yapan teknik kullanıcılar, araştırmacılar 
 - **Zorluk:** İleri · teknik/araştırma odaklı 

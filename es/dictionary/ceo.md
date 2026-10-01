@@ -2,23 +2,35 @@
 
 > Chief Executive Officer
 
-Es el funcionario de más alto nivel que gestiona todas las operaciones y decisiones estratégicas de una empresa.
+El CEO (Chief Executive Officer, director ejecutivo) es la persona responsable de toda la estrategia y las operaciones de la empresa.
 
-## Definición
-El CEO es como el capitán de una organización. Determina los objetivos de la empresa, asume la responsabilidad de las decisiones importantes y garantiza que el equipo avance de acuerdo con la visión. Se centra en el futuro de la institución más que en el funcionamiento diario.
+## Definición y origen de la palabra
+Es el capitán de la organización: establece el objetivo, asume la responsabilidad de las grandes decisiones y mantiene al equipo enfocado en la visión. Mira más hacia el futuro que hacia el trabajo diario. Es nombrado por la junta directiva y rinde cuentas ante ella.
 
-## Cómo funciona
-El director ejecutivo es designado por la junta directiva y desarrolla estrategias para el éxito de la empresa. Construye puentes entre inversores, empleados y clientes.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Institucional: Aprobación del objetivo anual y del presupuesto.Emprendimiento: Ronda de inversión y contratación.Crisis: Decisión de cambio de dirección.
 
-## Dónde se usa
-Se encuentra en empresas corporativas, nuevas empresas de tecnología y organizaciones de gran escala.
+## Profundidad técnica y arquitectura
+Lista de tareas:
 
-## Suele confundirse con
-Puede confundirse con el presidente del consejo directivo (Chair); El director general ejecuta, el presidente gestiona el consejo.
+## Cosas frecuentemente mezcladas
+Se confunde con el presidente (Chair). El CEO ejecuta, el presidente dirige el consejo. Uno conduce el barco, el otro supervisa la ruta.
+
+## Uso en diferentes disciplinas
+Barco: El capitán que traza la ruta.Orquesta: El director que marca el ritmo.Director técnico: El entrenador que forma el equipo.
 
 ## Preguntas frecuentes
 **¿Se inmiscuye el CEO en todo?**
-No, el CEO se centra más en decisiones estratégicas y delega tareas operativas a los directores de departamento.
+No. Se centra en la estrategia y deja la operativa a los departamentos.
+
+**¿Cómo llegar a serlo?**
+Se requiere profundidad de campo, historial de liderazgo y confianza de la junta directiva. No hay un único camino.
+
+**¿Cuál es la diferencia con el fundador?**
+El fundador inicia, el CEO opera. A veces son la misma persona, pero se separan cuando la empresa crece.
+
+**¿Cuál es la diferencia con el presidente (chair)?**
+El CEO gestiona la ejecución, el presidente gestiona la junta directiva. Ambos se equilibran mutuamente.
 
 
 ## Términos relacionados

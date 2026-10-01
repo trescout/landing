@@ -1,25 +1,34 @@
 # ¿Qué es Monorepo?
 
-Un método de desarrollo en el que se guardan varios proyectos de software en una única carpeta compartida.
+Monorepo (repositorio mono, repositorio único) es un sistema para mantener múltiples proyectos en un solo repositorio.
 
-## Definición
-En el mundo del software, en lugar de que los proyectos estén desconectados entre sí, todos los códigos interconectados se reúnen en un solo centro. Este método hace que el intercambio de código entre proyectos y las actualizaciones sean mucho más rápidos.
+## Definición y origen de la palabra
+"Mono" significa soltero. Los códigos vinculados se recopilan en el centro, se acelera el intercambio y la actualización. Los cambios de la biblioteca se reflejan inmediatamente en los proyectos.
 
-## Cómo funciona
-Los desarrolladores acceden a todos los proyectos a través de un único repositorio maestro, por lo que los cambios realizados en una biblioteca son visibles instantáneamente en otros proyectos.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Compañía: Base de código de varios equipos.Microservicio: Bibliotecas comunes.Móvil: Módulos compartidos.
 
-## Dónde se usa
-Se utiliza en grandes empresas de software y en proyectos donde se desarrollan microservicios interconectados.
+## Profundidad técnica y arquitectura
+Diseño:
 
-## Suele confundirse con
-No se trata de mezclar códigos, sino de gestionarlos periódicamente desde un único centro.
+## Cosas frecuentemente mezcladas
+Parece confusión. Sin embargo, se trata de una centralización regular. El desorden se debe a la falta de disciplina, no al orden.
+
+## Uso en diferentes disciplinas
+Edificio: La única biblioteca con categorías.Centro comercial: Tiendas con techos compartidos.Campus: Edificios con zonas comunes.
 
 ## Preguntas frecuentes
 **¿Es apto para todos?**
-No, la gestión puede resultar difícil en proyectos muy grandes.
+No. La gestión se vuelve difícil en un proyecto gigante, y demasiado en uno pequeño.
 
-**¿Afecta a la seguridad?**
-Proporciona una gestión de códigos más segura con la autorización correcta.
+**¿Es seguro?**
+Por autoridad, sí. Un único centro facilita el control.
+
+**¿Cuándo elegir?**
+Si compartir es intenso. Para el trabajo independiente, es suficiente un almacén separado.
+
+**¿Qué herramientas?**
+Bazel, Nx y Turborepo son comunes. El ecosistema determina.
 
 
 ## Términos relacionados

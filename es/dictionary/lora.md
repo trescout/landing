@@ -2,26 +2,35 @@
 
 > Low-Rank Adaptation
 
-Es una técnica para hacer que un gran modelo de inteligencia artificial se especialice en un tema en particular actualizando solo una pequeña parte sin cambiar todo el modelo.
+LoRA (adaptación de bajo rango) es una técnica para especializar el modelo con pequeñas adiciones.
 
-## Definición
-LoRA es un método que reduce la enorme potencia de procesamiento necesaria para entrenar un modelo de IA masivo. Entrena solo una capa muy pequeña del modelo para agregarle un nuevo estilo o información mientras conserva sus capacidades básicas.
+## Definición y origen de la palabra
+"Rango bajo" significa rango bajo. Se congela el modelo gigante, se adapta el pequeño adaptador y se fija a él. Se conserva el estilo básico, se añade un nuevo estilo. El costo es una fracción de la matrícula completa.
 
-## Cómo funciona
-Congelas los pesos del modelo y simplemente entrenas un pequeño archivo llamado LoRA. Al instalar este archivo sobre el modelo principal, lo personaliza.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Imagen: Producción de estilo personal.Escribiendo: Adaptación del lenguaje institucional.Sonido: Voz del personaje.
 
-## Dónde se usa
-Se utiliza en el proceso de creación de imágenes personalizadas o desarrollo de estilos de texto especiales.
+## Profundidad técnica y arquitectura
+Diseño:
 
-## Suele confundirse con
-Mezclado con ajustes finos; Si bien el ajuste fino puede cubrir todo el modelo, LoRA es mucho más liviano y enfocado.
+## Cosas frecuentemente mezcladas
+Se considera un ajuste fino. Cubre todo el modelo, es una adición liviana. Uno es la renovación de la casa y el otro es la pintura de la habitación.
+
+## Uso en diferentes disciplinas
+Notas: Papel pegado a la biblioteca.Lente: Filtro adjunto a la cámara.Parche: Un escudo de armas cosido a la ropa.
 
 ## Preguntas frecuentes
-**¿El uso de LoRA ralentiza el modelo?**
-No, generalmente no provoca ninguna pérdida de rendimiento porque es muy ligero.
+**¿Lo ralentiza?**
+Generalmente no. El complemento es pequeño, el retraso no se nota.
 
-**¿Se puede instalar más de un LoRA en un solo modelo?**
-Sí, se pueden combinar diferentes archivos LoRA para diferentes funciones.
+**¿Se usa más de una vez?**
+Sí. Los adaptadores se combinan para diferentes trabajos.
+
+**No lo olvides, ¿vale?**
+Es menos que una educación completa. Determina el rango y el equilibrio de datos.
+
+**¿Cuándo no es suficiente?**
+Si se requieren conocimientos profundos, se requiere formación completa o RAG.
 
 
 ## Términos relacionados
@@ -30,6 +39,7 @@ Sí, se pueden combinar diferentes archivos LoRA para diferentes funciones.
 - [Generative AI](/es/dictionary/generative-ai/)
 
 ## Herramientas relacionadas
+- [Minimind](/es/discover/minimind/)
 - [LTX 2](/es/discover/ltx-2/)
 
 ---

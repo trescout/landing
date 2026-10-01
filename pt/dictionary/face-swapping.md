@@ -1,25 +1,34 @@
 # O que é Face Swapping?
 
-O processo de substituir um rosto em uma imagem ou vídeo pelo rosto de outra pessoa usando inteligência artificial.
+Face swapping (troca de rostos) é o processo de transferir a expressão de um rosto para outro em um vídeo.
 
-## Definição
-A troca de rosto é uma tecnologia que pega o rosto de uma pessoa em um vídeo ou foto e o substitui perfeitamente pelo rosto de outra pessoa. A IA combina características faciais, iluminação e ângulo para fazer a mudança parecer natural. Geralmente é usado para fins de entretenimento e efeitos visuais.
+## Definição e origem da palavra
+O modelo combina os contornos, a iluminação e o ângulo do rosto de origem com o vídeo de destino. O resultado parece natural, mas sempre deixa vestígios. É usado em entretenimento e efeitos visuais, e o uso não autorizado gera problemas legais.
 
-## Como funciona
-A inteligência artificial combina os pontos-chave (olhos, nariz, boca) entre dois rostos e renderiza o novo rosto no vídeo de acordo com a iluminação do vídeo alvo.
+## Como conhecer e usar no dia a dia?
+Filtros: Efeitos faciais de redes sociais.Cinema: Rejuvenescimento e cenas de dublês.Entretenimento: Aplicações de humor.
 
-## Onde é usado
-É usado em filtros de redes sociais, processos de pós-produção de filmes e aplicações de entretenimento.
+## Profundidade Técnica e Arquitetura
+A linha é a seguinte:
 
-## Costuma ser confundido com
-É semelhante ao deepfake, mas a troca de rosto geralmente se concentra apenas no deslocamento do rosto.
+## Coisas frequentemente misturadas
+É semelhante ao deepfake. O deepfake também produz áudio e roteiro, enquanto a troca de rosto (face swapping) geralmente se concentra na transferência facial. Ambos exigem permissão.
 
-## Perguntas frequentes
-**É necessário hardware avançado para troca de rosto?**
-Aplicativos simples podem ser executados no telefone, mas resultados profissionais exigem placas gráficas poderosas.
+## Use em diferentes disciplinas
+Teatro: Uma máscara que se move com as expressões faciais.Dublê: Troca de rosto em cenas perigosas.Fotomontagem: Fusão de rostos no quadro.
+
+## Perguntas Frequentes
+**É necessário hardware de alto desempenho?**
+Aplicativos simples funcionam no celular, resultados profissionais exigem uma placa de vídeo potente.
 
 **Funciona em todos os ângulos?**
-Dá os melhores resultados em ângulos onde o rosto fica totalmente visível; Pode cometer erros de perfil ou ângulos muito acentuados.
+Rostos vistos de frente funcionam bem; erros aumentam em perfis e ângulos agudos.
+
+**É legal?**
+Sim, para o seu próprio rosto e em trabalhos autorizados. O uso não autorizado é uma violação dos direitos de personalidade.
+
+**Como saber se é falso?**
+O ritmo dos olhos, a suavidade das bordas e a harmonia da luz são examinados. Também existem ferramentas de detecção.
 
 
 ## Termos relacionados

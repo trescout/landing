@@ -2,29 +2,41 @@
 
 > Virtual Private Server
 
-É a utilização de um poderoso servidor físico na Internet, alugando-o como um computador privado.
+VPS (Virtual Private Server) é uma fatia independente do servidor físico dividida por virtualização, reservada para você.
 
-## Definição
-O VPS é criado por software que divide um servidor enorme em pequenos pedaços. Cada parte opera independentemente de outros usuários porque possui seu próprio sistema operacional e recursos. Desta forma, você pode instalar e gerenciar qualquer software que desejar, como se tivesse seu próprio servidor.
+## Definição e origem da palavra
+Um enorme servidor é dividido em partes menores pelo software hipervisor. Cada parte executa seu próprio sistema operacional e possui sua parcela de RAM e processador dedicados. Não importa o que as fatias vizinhas façam, a sua não será afetada. Portanto, você pode instalar e gerenciar o software que desejar como se tivesse seu próprio servidor.
 
-## Como funciona
-Você aluga um VPS de um provedor de nuvem, conecta-se ao seu servidor por meio de métodos de acesso remoto e faz as configurações desejadas.
+## Como conhecer e usar no dia a dia?
+Site: Blogs e lojas com tráfego crescente.Nuvem pessoal: Sincronização e backup de arquivos.Ambiente de teste: Não experimente antes de ir ao ar.Jogos e VPN: Servidor de jogo da Irmandade, túnel privado.
 
-## Onde é usado
-É usado para hospedar sites, configurar sistemas em nuvem pessoais ou criar ambientes de teste.
+## Profundidade Técnica e Arquitetura
+O que você precisa saber:
 
-## Costuma ser confundido com
-Pode ser confundido com hospedagem compartilhada; Na hospedagem compartilhada você compartilha recursos com outras pessoas, enquanto no VPS os recursos alocados para você são garantidos.
+## Coisas frequentemente misturadas
+Pode ser confundido com hospedagem compartilhada. Na hospedagem compartilhada, você compartilha recursos com outras pessoas; os recursos alocados a você no VPS são garantidos. O próximo passo é um servidor dedicado onde você tem a máquina inteira.
 
-## Perguntas frequentes
+## Use em diferentes disciplinas
+Apartamento: Prédio compartilhado, apartamento independente e porta trancada.Piso do escritório: Recepção compartilhada, área de trabalho privativa.Cofre: Seu próprio compartimento privado no prédio do banco.
+
+## Perguntas Frequentes
 **É necessário conhecimento técnico para gerenciar VPS?**
-Sim, é necessário conhecimento técnico básico para administração do servidor e configurações de segurança.
+Com o pacote não gerenciado, sim: você obtém atualização, firewall e backup. Conhecimento básico de Linux é suficiente. Se tiver dificuldade, você pode mudar para o pacote gerenciado.
+
+**Como é diferente da hospedagem compartilhada?**
+Em compartilhado, o recurso é compartilhado, a densidade de vizinhos deixa você mais lento. Sua participação no VPS é garantida e você tem autoridade root.
+
+**Com quantos recursos se deve começar?**
+Para sites pequenos, 1-2 GB de RAM geralmente é suficiente. É recomendável que você observe os gráficos de acompanhamento e os amplie gradualmente.
+
+**Como fazer backup?**
+O recurso de instantâneo do provedor mais a regra de backup externo são recomendados. Uma única cópia não é considerada um backup.
 
 
 ## Termos relacionados
 - [Virtual Machines](/pt/dictionary/virtual-machines/)
 - [Cloud Computing](/pt/dictionary/cloud-computing/)
-- [Self-hosting](/pt/dictionary/self-hosting/)
+- [Self-Hosting](/pt/dictionary/self-hosting/)
 
 ## Ferramentas relacionadas
 - [DeskcommCRM](/pt/discover/deskcommcrm/)

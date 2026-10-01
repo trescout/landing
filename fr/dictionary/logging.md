@@ -1,22 +1,34 @@
 # Qu'est-ce que Logging ?
 
-Il s'agit de l'enregistrement chronologique d'un programme pour garder une trace des opérations qu'il effectue ou des erreurs qu'il rencontre lors de son exécution.
+La journalisation (ou logging) consiste à enregistrer les événements d'un programme de manière chronologique.
 
-## Définition
-Les programmes génèrent parfois des erreurs silencieusement. Grâce à la journalisation, lorsqu'une erreur se produit, vous pouvez voir étape par étape ce que le programme a fait jusqu'à présent et quelles données il a traitées. C'est en quelque sorte la « boîte noire » du programme.
+## Définition et origine du mot
+Un journal (log) est un registre d'événements. Lorsqu'un programme rencontre une erreur silencieuse, il est possible de consulter ce registre pour comprendre ce qu'il a fait jusqu'à ce moment-là. C'est comme la boîte noire d'un avion : c'est le premier endroit que l'on examine après un incident.
 
-## Comment ça marche
-Vous ajoutez des commandes telles que « est venu ici », « ces données ont été traitées » dans le code. Pendant l'exécution du programme, ces informations sont écrites dans un fichier ou un système de surveillance.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Présentateur: Débogage.Produit: Suivi d'utilisation.Sécurité : Journalisation des événements.
 
-## Où est-ce utilisé
-Il est utilisé dans les applications serveur, les grands systèmes logiciels et les processus de débogage.
+## Profondeur technique et architecture
+Niveaux :
 
-## Souvent confondu avec
-Il peut être confondu avec l'observabilité ; La journalisation est l’un des éléments fondamentaux de cette observabilité.
+## Choses fréquemment mélangées
+On pense qu'il s'agit d'observabilité. Pourtant, la journalisation en est la pierre angulaire : le journal est la matière première, la capacité d'observation est le produit.
 
-## Questions fréquentes
+## Utilisation dans différentes disciplines
+Boîte noire : Enregistrement des données de vol.Journal : Notes par ordre chronologique.Enregistrement de la caméra : Archive des événements.
+
+## Foire aux questions
 **Est-ce bien de tout sauvegarder ?**
-Non, trop de journaux peuvent ralentir le système et rendre difficile la recherche d'erreurs critiques ; Des registres équilibrés doivent être conservés.
+Non. Un excès ralentit le système et masque l'essentiel ; un enregistrement équilibré est maintenu.
+
+**Qu'est-ce qu'un niveau ?**
+C'est l'étiquette d'urgence de l'enregistrement. Il sert de filtre lors de la recherche.
+
+**Où les enregistrements sont-ils écrits ?**
+Dans un fichier, un système central ou un service cloud. En production, une collecte centralisée est recommandée.
+
+**Combien de temps sont-ils conservés ?**
+Cela dépend de la politique. Le débogage nécessite des semaines, l'audit nécessite des années.
 
 
 ## Termes liés
@@ -25,6 +37,7 @@ Non, trop de journaux peuvent ralentir le système et rendre difficile la recher
 - [Logs](/fr/dictionary/logs/)
 
 ## Outils liés
+- [OmniRoute](/fr/discover/omniroute/)
 - [Spdlog](/fr/discover/spdlog/)
 
 ---

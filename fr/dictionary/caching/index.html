@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Qu'est-ce que Caching ? · Glossaire · TreScout</title>
-<meta name="description" content="Les données fréquemment utilisées sont temporairement stockées en mémoire pour un accès rapide.">
+<meta name="description" content="La mise en cache (caching) consiste à copier des données fréquemment utilisées vers une couche rapide.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/fr/dictionary/caching/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/caching/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/caching/">
 <link rel="alternate" type="text/markdown" href="/fr/dictionary/caching.md">
 <meta property="og:title" content="Qu'est-ce que Caching ?">
-<meta property="og:description" content="Les données fréquemment utilisées sont temporairement stockées en mémoire pour un accès rapide.">
+<meta property="og:description" content="La mise en cache (caching) consiste à copier des données fréquemment utilisées vers une couche rapide.">
 <meta property="og:url" content="https://trescout.com/fr/dictionary/caching/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="fr_FR">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Qu&#39;est-ce que Caching ?">
-<meta name="twitter:description" content="Les données fréquemment utilisées sont temporairement stockées en mémoire pour un accès rapide.">
+<meta name="twitter:description" content="La mise en cache (caching) consiste à copier des données fréquemment utilisées vers une couche rapide.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Caching",
-  "description": "Les données fréquemment utilisées sont temporairement stockées en mémoire pour un accès rapide.",
+  "description": "La mise en cache (caching) consiste à copier des données fréquemment utilisées vers une couche rapide.",
   "inLanguage": "fr",
   "url": "https://trescout.com/fr/dictionary/caching/",
   "inDefinedTermSet": {
@@ -55,17 +55,18 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/fr/dictionary/">← Glossaire</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossaire · Data</span><time class="dict-time" datetime="2026-08-07">Dernière mise à jour : 7 août 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glossaire · Data</span><time class="dict-time" datetime="2026-09-22">Dernière mise à jour : 22 septembre 2026</time></div>
 <h1 class="disc-title">Qu'est-ce que <span class="disc-accent">Caching</span> ?</h1>
-<p class="disc-lead">Les données fréquemment utilisées sont temporairement stockées en mémoire pour un accès rapide.</p>
-<section class="disc-sec"><h2>Définition</h2><p>La mise en cache est une méthode d&#39;accélération utilisée pour empêcher un système de calculer à plusieurs reprises les mêmes données ou de les extraire d&#39;une source distante. Les données sont copiées dans une zone rapidement accessible (cache) et servies à partir de là en cas de besoin. Cela réduit considérablement le temps de réponse global du système.</p></section>
-<div class="dict-analogy"><strong>Analogie :</strong> C&#39;est comme avoir un livre que vous utilisez tout le temps dans votre sac ; Vous n&#39;êtes pas obligé d&#39;aller à la bibliothèque et de récupérer le livre sur l&#39;étagère à chaque fois, il est à portée de main.</div>
-<section class="disc-sec"><h2>Comment ça marche</h2><p>Lorsque le système demande des données, il examine d&#39;abord le cache ; Si les données sont là, il les récupère immédiatement, sinon il les extrait de la source principale et en laisse une copie dans le cache.</p></section>
-<section class="disc-sec"><h2>Où est-ce utilisé</h2><p>Il est largement utilisé pour améliorer les performances des navigateurs Web, des applications et des centres de données à grande échelle.</p></section>
-<section class="disc-sec"><h2>Souvent confondu avec</h2><p>Il peut être confondu avec une base de données, mais le cache est temporaire et rapide, tandis que la base de données est permanente et plus volumineuse.</p></section>
-<section class="disc-sec"><h2>Questions fréquentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Que se passe-t-il si le cache est plein ?</p><p class="dict-faq-a">Les données anciennes ou rarement utilisées sont supprimées et remplacées par de nouvelles données.</p></div></div></section>
+<p class="disc-lead">La mise en cache (caching) consiste à copier des données fréquemment utilisées vers une couche rapide.</p>
+<section class="disc-sec"><h2>Définition et origine du mot</h2><p>Le cache désigne une mémoire tampon. Au lieu de recalculer les mêmes données, le système les fournit à partir d&#39;une copie. Le temps de réponse diminue et la charge est allégée. Il fonctionne à tous les niveaux, du navigateur au centre de données.</p></section>
+<div class="dict-analogy"><strong>Analogie :</strong> C&#39;est comme transporter son livre préféré dans son sac ; on ne va pas à la bibliothèque à chaque fois.</div>
+<section class="disc-sec"><h2>Comment connaître et utiliser dans la vie quotidienne ?</h2><p><strong>Navigateur :</strong> Stockage de pages et d&#39;images.<br><strong>Application :</strong> Copie hors ligne.<br><strong>Présentateur:</strong> Stockage des résultats de requête.</p></section>
+<section class="disc-sec"><h2>Profondeur technique et architecture</h2><p>Stratégies :</p><p><strong>LRU :</strong> Supprime le moins récemment utilisé.<br><strong>TTL :</strong> Ce qui expire est supprimé.<br><strong>Cache-aside :</strong> L&#39;application gère.</p><p>Directive du navigateur :</p><pre><code>Cache-Control: public, max-age=3600</code></pre><p>Cette ligne indique que la copie est valide pendant une heure. Il y a un coût de cohérence : lorsque la source change, la copie devient obsolète ; pour les données critiques, la durée est maintenue courte.</p></section>
+<section class="disc-sec"><h2>Choses fréquemment mélangées</h2><p>On pense à la base de données. La base de données est persistante et vaste, le cache est temporaire et rapide. L&#39;un est un coffre-fort, l&#39;autre est un portefeuille de poche.</p></section>
+<section class="disc-sec"><h2>Utilisation dans différentes disciplines</h2><p><strong>Sac :</strong> Livre souvent utilisé à portée de main.<br><strong>Réfrigérateur :</strong> Nourriture quotidienne devant.<br><strong>Garde-manger :</strong> Stock global en arrière-plan.</p></section>
+<section class="disc-sec"><h2>Foire aux questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Que se passe-t-il si le cache est plein ?</p><p class="dict-faq-a">L&#39;ancien et le moins utilisé est supprimé, le nouveau est écrit. La politique gère cela.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Quand est-ce nettoyé ?</p><p class="dict-faq-a">À l&#39;expiration du délai, lorsque la capacité est dépassée ou manuellement. Les données critiques sont conservées à court terme.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Y a-t-il un risque d&#39;incohérence ?</p><p class="dict-faq-a">C&#39;est possible. Lorsque la source change, la copie devient obsolète ; une discipline de version et de durée est nécessaire.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Où est-ce conservé ?</p><p class="dict-faq-a">En mémoire, sur disque ou en périphérie CDN. Le choix dépend de l&#39;équilibre entre vitesse et capacité.</p></div></div></section>
 <section class="disc-sec"><h2>Termes liés</h2><div class="dict-related"><a href="/fr/dictionary/kv-cache/">KV Cache</a><a href="/fr/dictionary/prefix-cache/">Prefix Cache</a><a href="/fr/dictionary/database/">Database</a></div></section>
-<section class="disc-sec"><h2>Outils liés</h2><div class="dict-related"><a href="/fr/discover/guava/">Guava</a><a href="/fr/discover/omlx/">Omlx</a></div></section>
+<section class="disc-sec"><h2>Outils liés</h2><div class="dict-related"><a href="/fr/discover/free-for-dev/">Free for Dev</a><a href="/fr/discover/omniroute/">OmniRoute</a><a href="/fr/discover/guava/">Guava</a><a href="/fr/discover/omlx/">Omlx</a></div></section>
 <aside class="disc-cta"><p><strong>Explorez les outils associés et les rapports quotidiens.</strong> Suivez les nouveaux termes et outils technologiques chaque matin dans votre boîte de réception.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-fr" data-page-type="dictionary" data-content-slug="caching" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Votre adresse e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Accès anticipé</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>J'ai lu <a href="/fr/privacy.html" target="_blank" rel="noopener">la notice de confidentialité</a> et je consens au traitement de mon adresse e-mail à cette fin.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/fr/dictionary/">Tous les termes →</a></aside>
 <p class="disc-disclaimer">Cette explication a été rédigée en langage clair pour TreScout puis <strong>traduite automatiquement</strong> depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/caching/">Lire en turc →</a></p>
 </article>

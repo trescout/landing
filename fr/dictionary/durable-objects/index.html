@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Qu'est-ce que Durable Objects ? · Glossaire · TreScout</title>
-<meta name="description" content="Ce sont de petites unités logicielles qui fonctionnent en permanence sur Internet et peuvent stocker des données sans perdre leur état.">
+<meta name="description" content="Les objets durables sont de petites unités cloud qui conservent leur état. Ce sont de petites unités logicielles qui fonctionnent en permanence sur Interne">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/fr/dictionary/durable-objects/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/durable-objects/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/durable-objects/">
 <link rel="alternate" type="text/markdown" href="/fr/dictionary/durable-objects.md">
 <meta property="og:title" content="Qu'est-ce que Durable Objects ?">
-<meta property="og:description" content="Ce sont de petites unités logicielles qui fonctionnent en permanence sur Internet et peuvent stocker des données sans perdre leur état.">
+<meta property="og:description" content="Les objets durables sont de petites unités cloud qui conservent leur état. Ce sont de petites unités logicielles qui fonctionnent en permanence sur Interne">
 <meta property="og:url" content="https://trescout.com/fr/dictionary/durable-objects/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="fr_FR">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Qu&#39;est-ce que Durable Objects ?">
-<meta name="twitter:description" content="Ce sont de petites unités logicielles qui fonctionnent en permanence sur Internet et peuvent stocker des données sans perdre leur état.">
+<meta name="twitter:description" content="Les objets durables sont de petites unités cloud qui conservent leur état. Ce sont de petites unités logicielles qui fonctionnent en permanence sur Interne">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Durable Objects",
-  "description": "Ce sont de petites unités logicielles qui fonctionnent en permanence sur Internet et peuvent stocker des données sans perdre leur état.",
+  "description": "Les objets durables sont de petites unités cloud qui conservent leur état.",
   "inLanguage": "fr",
   "url": "https://trescout.com/fr/dictionary/durable-objects/",
   "inDefinedTermSet": {
@@ -55,15 +55,16 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/fr/dictionary/">← Glossaire</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossaire · Dev</span><time class="dict-time" datetime="2026-08-08">Dernière mise à jour : 8 août 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glossaire · Dev</span><time class="dict-time" datetime="2026-09-22">Dernière mise à jour : 22 septembre 2026</time></div>
 <h1 class="disc-title">Qu'est-ce que <span class="disc-accent">Durable Objects</span> ?</h1>
-<p class="disc-lead">Ce sont de petites unités logicielles qui fonctionnent en permanence sur Internet et peuvent stocker des données sans perdre leur état.</p>
-<section class="disc-sec"><h2>Définition</h2><p>Normalement, les programmes sur Internet sont temporaires, mais ces structures fonctionnent sans interruption en gardant les données en elles-mêmes. Ils n&#39;oublient pas les données même à la fin d&#39;une interaction utilisateur. Idéal pour maintenir la cohérence dans les systèmes distribués.</p></section>
-<div class="dict-analogy"><strong>Analogie :</strong> Au lieu d&#39;une application qui se réveille uniquement lorsque cela est nécessaire, c&#39;est comme une secrétaire toujours en alerte et qui ne quitte jamais son carnet.</div>
-<section class="disc-sec"><h2>Comment ça marche</h2><p>Ils vivent sur le serveur avec une identité spécifique et traitent chaque demande entrante avec l&#39;état actuel dans leur mémoire.</p></section>
-<section class="disc-sec"><h2>Où est-ce utilisé</h2><p>Il est utilisé dans les jeux en temps réel, les applications de chat et les services Web dont l&#39;état doit être maintenu.</p></section>
-<section class="disc-sec"><h2>Souvent confondu avec</h2><p>A ne pas confondre avec les fonctions de serveur temporaires (sans serveur) ; parce qu&#39;ils repartent de zéro à chaque fois.</p></section>
-<section class="disc-sec"><h2>Questions fréquentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Où sont stockées les données ?</p><p class="dict-faq-a">Il est stocké dans le volume lui-même, c&#39;est-à-dire directement dans le cadre de l&#39;environnement d&#39;exploitation.</p></div></div></section>
+<p class="disc-lead">Les objets durables sont de petites unités cloud qui conservent leur état.</p>
+<section class="disc-sec"><h2>Définition et origine du mot</h2><p>« Durable » signifie permanent. Contrairement aux fonctions temporaires, les données résident dans l&#39;unité et ne sont pas oubliées à la fin de la requête. La cohérence est le remède au travail distribué.</p></section>
+<div class="dict-analogy"><strong>Analogie :</strong> Elle est comme la secrétaire alerte qui ne quitte jamais son carnet.</div>
+<section class="disc-sec"><h2>Comment connaître et utiliser dans la vie quotidienne ?</h2><p><strong>Jeu:</strong> Suivi de l&#39;état des chambres.<br><strong>Discussion :</strong> Séance de connexion.<br><strong>Service:</strong> Comptoir et serrure.</p></section>
+<section class="disc-sec"><h2>Profondeur technique et architecture</h2><p>Disposition :</p><p><strong>Identité:</strong> Chaque unité a un nom.<br><strong>Imprimante unique :</strong> Écrit d&#39;une main à la fois.<br><strong>WebSocket :</strong> Connexion constante.</p><p>Flux :</p><pre><code>istek → oda-nesnesi → durum güncellenir → yanıt</code></pre><p>Différence sans serveur : la fonction démarre à partir de zéro, l&#39;objet continue là où il s&#39;est arrêté.</p></section>
+<section class="disc-sec"><h2>Choses fréquemment mélangées</h2><p>Il est considéré comme sans serveur. La fonction est temporaire, l&#39;objet est permanent. L&#39;un est un excursionniste et l&#39;autre est un locataire.</p></section>
+<section class="disc-sec"><h2>Utilisation dans différentes disciplines</h2><p><strong>Secrétaire :</strong> L&#39;assistant qui ne laisse pas le cahier derrière lui.<br><strong>Livre de caisse :</strong> Solde de fin de journée.<br><strong>Dépôt:</strong> Une armoire qui attend son propriétaire.</p></section>
+<section class="disc-sec"><h2>Foire aux questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Où sont stockées les données ?</p><p class="dict-faq-a">Il est conservé au sein de l’unité dans le cadre de l’environnement opérationnel.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Quand est-ce utilisé ?</p><p class="dict-faq-a">Au travail en temps réel nécessitant un statut : Chambre, compteur et serrure.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Qu&#39;est-ce que ça coûte ?</p><p class="dict-faq-a">Parce qu&#39;il vit tout le temps, il écrit aussi sans rien faire. Il est calculé en fonction du modèle de trafic.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Quelle est la différence entre le sans serveur ?</p><p class="dict-faq-a">La fonction oublie, l&#39;objet se souvient. S&#39;il y a une condition, l&#39;objet est sélectionné.</p></div></div></section>
 <section class="disc-sec"><h2>Termes liés</h2><div class="dict-related"><a href="/fr/dictionary/runtime/">Runtime</a><a href="/fr/dictionary/state-management/">State Management</a><a href="/fr/dictionary/distributed/">Distributed</a></div></section>
 <section class="disc-sec"><h2>Outils liés</h2><div class="dict-related"><a href="/fr/discover/celld/">Celld</a></div></section>
 <aside class="disc-cta"><p><strong>Explorez les outils associés et les rapports quotidiens.</strong> Suivez les nouveaux termes et outils technologiques chaque matin dans votre boîte de réception.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-fr" data-page-type="dictionary" data-content-slug="durable-objects" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Votre adresse e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Accès anticipé</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>J'ai lu <a href="/fr/privacy.html" target="_blank" rel="noopener">la notice de confidentialité</a> et je consens au traitement de mon adresse e-mail à cette fin.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/fr/dictionary/">Tous les termes →</a></aside>

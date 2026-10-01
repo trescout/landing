@@ -1,22 +1,34 @@
 # Was ist Environment Variables?
 
-Dabei handelt es sich um kleine Bezeichner, die die Einstellungen und geheimen Schlüssel enthalten, die Programme zur Laufzeit benötigen.
+Umgebungsvariablen sind Bezeichner, die Einstellungen außerhalb des Codes halten.
 
-## Definition
-Es ermöglicht Ihnen, Informationen auf Systemebene zu behalten, wie z. B. Passwörter, API-Schlüssel oder verschiedene Serveradressen, die Sie nicht in Ihren Code schreiben sollten. Während das Programm läuft, liest es diese Variablen und verhält sich entsprechend. Somit kann derselbe Code in verschiedenen Umgebungen mit unterschiedlichen Einstellungen ausgeführt werden.
+## Definition und Wortherkunft
+„Umwelt“ bedeutet Umwelt. Passwort und Adresse bleiben nicht im Code, sondern im System. Derselbe Code verhält sich in verschiedenen Umgebungen unterschiedlich.
 
-## So funktioniert es
-Es wird über das Betriebssystem oder eine spezielle Datei definiert und speichert diese Werte beim Start des Programms.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Moderator: Verbindungszeichenfolgen.Anwendung: Modusauswahl.CI: Geheime Schlüssel.
 
-## Wo es eingesetzt wird
-Es wird bei Serverinstallationen, Anwendungskonfigurationen und allen Softwareprojekten verwendet, die Sicherheit erfordern.
+## Technische Tiefe und Architektur
+Layout:
 
-## Häufig verwechselt mit
-Es sollte nicht mit fest codierten Werten verwechselt werden, die in den Code geschrieben werden, da diese Methode ein Sicherheitsrisiko darstellt.
+## Häufig gemischte Dinge
+Er gilt als konstanter Wert. Es stoppt beim Hardcode, die Variable liegt außerhalb. Das eine ist ein Tattoo und das andere ein Abzeichen.
 
-## Häufige Fragen
-**Warum sollten wir diese Variablen privat halten?**
-Um zu verhindern, dass Ihre Passwörter gefährdet werden, wenn Sie Ihren Code weitergeben.
+## Einsatz in verschiedenen Disziplinen
+Karte: Karte „Einstellungen ändern“.Fernbedienungsbatterie: Plug-and-Play-Stromversorgung.Schlüsselanhänger: Portierter Zugriff.
+
+## Häufig gestellte Fragen
+**Warum wird es geheim gehalten?**
+Es wird durch Teilen erhalten und ein Konto eröffnet. Bleibt es geheim, wird das Risiko kleiner.
+
+**Was ist .env?**
+Es handelt sich um eine lokale Wertedatei. Es kommt nicht ins Lager, sondern in die Probe.
+
+**Was passiert, wenn es ausläuft?**
+Der Schlüssel wird gelöscht und der Datensatz überprüft. Die Verzögerung ist groß.
+
+**Was hat Priorität?**
+Die Systemumgebung zerstört die Datei. Der Lebenswert kommt vom System.
 
 
 ## Verwandte Begriffe

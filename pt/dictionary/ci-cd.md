@@ -2,26 +2,35 @@
 
 > Continuous Integration / Continuous Deployment
 
-É o processo que garante que as atualizações de software sejam testadas e lançadas automaticamente.
+CI/CD (Integração Contínua/Implantação Contínua) é o teste e liberação automática do código.
 
-## Definição
-É uma linha de produção automática estabelecida para garantir que o código escrito pelos desenvolvedores de software chegue ao usuário sem erros. A Integração Contínua (CI) garante que o código seja constantemente montado e testado, e a Implantação Contínua (CD) garante que esse código seja transferido automaticamente para o sistema ativo.
+## Definição e origem da palavra
+É uma linha automática estabelecida para garantir que o código escrito chegue ao usuário sem erros. A CI monta e testa constantemente o código e o transfere para o live CD. A era das publicações manuais chega ao fim.
 
-## Como funciona
-Quando você envia seu código ao sistema, o sistema executa primeiro testes automatizados. Se os testes forem bem-sucedidos, ele empacota seu código e o prepara para lançamento.
+## Como conhecer e usar no dia a dia?
+Equipe: Teste após cada commit.Móvel: Liberação automática para armazenar.Web: Solte quando combinado.
 
-## Onde é usado
-É usado em equipes modernas de desenvolvimento de software, especialmente em aplicativos que lançam atualizações rapidamente.
+## Profundidade Técnica e Arquitetura
+Estágios de linha:
 
-## Costuma ser confundido com
-Pode ser confundido com um processo de teste puramente manual, mas é um fluxo totalmente automatizado.
+## Coisas frequentemente misturadas
+Pensa-se que seja um teste manual. Porém, a linha é totalmente automática: vem o código, o teste roda, sai o resultado. A pessoa apenas espera na porta.
 
-## Perguntas frequentes
+## Use em diferentes disciplinas
+Fita de cozinha: Preparação, degustação e serviço.Linha de montagem: Peça, inspeção e pacote.Faixa de bagagem: Registro, navegação e upload.
+
+## Perguntas Frequentes
 **Por que isso é tão importante?**
-Ele evita que códigos defeituosos sejam publicados e aumenta a velocidade de desenvolvimento.
+Ele traduz o código defeituoso ao vivo e aumenta a velocidade. A transmissão frequente é feita com segurança.
 
 **Deveria ser sempre automático?**
-Geralmente sim, mas etapas de aprovação manual podem ser adicionadas para atualizações críticas.
+Geralmente sim, a porta manual é adicionada na versão crítica.
+
+**Qual é a diferença com Entrega?**
+A entrega prepara e espera, a implantação vai e vem. O primeiro é aprovado, o segundo é totalmente automático.
+
+**O que acontece se quebrar?**
+A linha para e a transmissão é interrompida. É por isso que um plano de backup e uma recuperação rápida são essenciais.
 
 
 ## Termos relacionados
@@ -31,10 +40,14 @@ Geralmente sim, mas etapas de aprovação manual podem ser adicionadas para atua
 - [QA](/pt/dictionary/qa/)
 
 ## Ferramentas relacionadas
+- [Free for Dev](/pt/discover/free-for-dev/)
 - [Strix](/pt/discover/strix/)
+- [Googletest](/pt/discover/googletest/)
+- [Trivy](/pt/discover/trivy/)
 - [Openship](/pt/discover/openship/)
+- [Ipatool](/pt/discover/ipatool/)
+- [Checkstyle](/pt/discover/checkstyle/)
 - [Flue](/pt/discover/flue/)
-- [DevOps-Interview-Guide](/pt/discover/devops-interview-guide/)
 
 ---
 Fonte: TreScout Glossário · https://trescout.com/pt/dictionary/ci-cd/

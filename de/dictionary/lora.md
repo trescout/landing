@@ -2,26 +2,35 @@
 
 > Low-Rank Adaptation
 
-Dabei handelt es sich um eine Technik, mit der ein großes Modell der künstlichen Intelligenz auf ein bestimmtes Thema spezialisiert wird, indem nur ein kleiner Teil davon aktualisiert wird, ohne das gesamte Modell zu ändern.
+LoRA (Low-Rank Adaptation) ist eine Technik zur Spezialisierung des Modells durch kleine Ergänzungen.
 
-## Definition
-LoRA ist eine Methode, die die enorme Rechenleistung reduziert, die zum Trainieren eines riesigen KI-Modells erforderlich ist. Sie trainieren nur eine sehr kleine Schicht des Modells, um ihm einen neuen Stil oder neue Informationen hinzuzufügen und gleichzeitig seine Grundfunktionen beizubehalten.
+## Definition und Wortherkunft
+„Niedriger Rang“ bedeutet niedriger Rang. Das Riesenmodell wird eingefroren, der kleine Adapter trainiert und daran befestigt. Das Grundflair bleibt erhalten, neuer Stil kommt hinzu. Die Kosten betragen nur einen Bruchteil der vollen Studiengebühren.
 
-## So funktioniert es
-Sie frieren die Gewichte des Modells ein und trainieren einfach eine kleine Datei namens LoRA. Indem Sie diese Datei über dem Hauptmodell installieren, passen Sie es an.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Bild: Persönliche Stilproduktion.Schreiben: Institutionelle Sprachanpassung.Klang: Charakterstimme.
 
-## Wo es eingesetzt wird
-Es wird bei der Erstellung personalisierter Grafiken oder der Entwicklung spezieller Textstile verwendet.
+## Technische Tiefe und Architektur
+Layout:
 
-## Häufig verwechselt mit
-Gemischt mit Feinabstimmung; Während die Feinabstimmung das gesamte Modell abdecken kann, ist LoRA viel einfacher und fokussierter.
+## Häufig gemischte Dinge
+Es gilt als Feinabstimmung. Es deckt das gesamte Modell ab und ist eine leichte Ergänzung. Das eine ist die Hausrenovierung und das andere das Streichen von Räumen.
 
-## Häufige Fragen
-**Verlangsamt die Verwendung von LoRA das Modell?**
-Nein, es verursacht im Allgemeinen keinen Leistungsverlust, da es sehr leicht ist.
+## Einsatz in verschiedenen Disziplinen
+Hinweise: Papier klebt an der Bibliothek.Linse: An der Kamera angebrachter Filter.Patch: Ein auf die Kleidung genähtes Wappen.
 
-**Kann mehr als ein LoRA auf einem einzelnen Modell installiert werden?**
-Ja, verschiedene LoRA-Dateien können für verschiedene Funktionen kombiniert werden.
+## Häufig gestellte Fragen
+**Verlangsamt es?**
+Normalerweise nein. Der Zusatz ist gering, die Verzögerung ist nicht spürbar.
+
+**Wird es mehr als einmal getragen?**
+Ja. Adapter werden für unterschiedliche Aufgaben kombiniert.
+
+**Vergiss das nicht, okay?**
+Es ist weniger als eine vollständige Ausbildung. Bestimmt Rang und Datenbalance.
+
+**Wann reicht es nicht?**
+Wenn fundierte Kenntnisse erforderlich sind, ist eine vollständige Schulung oder RAG erforderlich.
 
 
 ## Verwandte Begriffe
@@ -30,6 +39,7 @@ Ja, verschiedene LoRA-Dateien können für verschiedene Funktionen kombiniert we
 - [Generative AI](/de/dictionary/generative-ai/)
 
 ## Verwandte Werkzeuge
+- [Minimind](/de/discover/minimind/)
 - [LTX 2](/de/discover/ltx-2/)
 
 ---

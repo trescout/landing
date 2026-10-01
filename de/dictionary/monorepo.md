@@ -1,25 +1,34 @@
 # Was ist Monorepo?
 
-Eine Entwicklungsmethode, bei der mehrere Softwareprojekte in einem einzigen freigegebenen Ordner gespeichert werden.
+Monorepo (Mono-Repository, einzelnes Repository) ist ein System zum Speichern mehrerer Projekte in einem einzigen Repository.
 
-## Definition
-In der Softwarewelt werden Projekte nicht voneinander getrennt, sondern alle miteinander verbundenen Codes in einem einzigen Zentrum gesammelt. Diese Methode beschleunigt die projektübergreifende Codefreigabe und -aktualisierung erheblich.
+## Definition und Wortherkunft
+„Mono“ bedeutet Single. Verlinkte Codes werden zentral gesammelt, das Teilen und Aktualisieren wird beschleunigt. Bibliotheksänderungen werden sofort in Projekten widergespiegelt.
 
-## So funktioniert es
-Entwickler greifen über ein einziges Master-Repository auf alle Projekte zu, sodass in einer Bibliothek vorgenommene Änderungen sofort in anderen Projekten sichtbar sind.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Unternehmen: Codebasis für mehrere Teams.Mikroservice: Gemeinsame Bibliotheken.Mobile: Geteilte Module.
 
-## Wo es eingesetzt wird
-Es wird in großen Softwareunternehmen und in Projekten eingesetzt, in denen miteinander verbundene Microservices entwickelt werden.
+## Technische Tiefe und Architektur
+Layout:
 
-## Häufig verwechselt mit
-Es geht nicht darum, Codes zu vermischen, sondern sie regelmäßig von einem einzigen Zentrum aus zu verwalten.
+## Häufig gemischte Dinge
+Es scheint Verwirrung zu sein. Es handelt sich jedoch um eine reguläre Zentralisierung. Unordnung ist auf mangelnde Disziplin zurückzuführen, nicht auf Ordnung.
 
-## Häufige Fragen
+## Einsatz in verschiedenen Disziplinen
+Gebäude: Die einzige Bibliothek mit Kategorien.Einkaufszentrum: Geschäfte mit gemeinsamen Dächern.Campus: Gebäude mit Gemeinschaftsräumen.
+
+## Häufig gestellte Fragen
 **Ist es für jeden geeignet?**
-Nein, bei sehr großen Projekten kann das Management schwierig werden.
+Nein. Das Management wird bei einem riesigen Projekt schwierig und bei einem kleinen zu viel.
 
-**Beeinträchtigt es die Sicherheit?**
-Es bietet eine sicherere Codeverwaltung mit korrekter Autorisierung.
+**Ist es sicher?**
+Durch Autorität, ja. Ein einziges Zentrum erleichtert die Kontrolle.
+
+**Wann sollte man es wählen?**
+Wenn das Teilen intensiv ist. Für selbstständiges Arbeiten reicht ein separates Lager.
+
+**Welche Werkzeuge?**
+Bazel, Nx und Turborepo sind häufig. Das Ökosystem bestimmt.
 
 
 ## Verwandte Begriffe

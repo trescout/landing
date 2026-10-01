@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Was ist Durable Objects? · Glossar · TreScout</title>
-<meta name="description" content="Dabei handelt es sich um kleine Softwareeinheiten, die kontinuierlich im Internet laufen und Daten speichern können, ohne ihren Zustand zu verlieren.">
+<meta name="description" content="Dauerhafte Objekte sind kleine Wolkeneinheiten, die ihren Zustand beibehalten. Dabei handelt es sich um kleine Softwareeinheiten, die kontinuierlich im Int">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/de/dictionary/durable-objects/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/durable-objects/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/durable-objects/">
 <link rel="alternate" type="text/markdown" href="/de/dictionary/durable-objects.md">
 <meta property="og:title" content="Was ist Durable Objects?">
-<meta property="og:description" content="Dabei handelt es sich um kleine Softwareeinheiten, die kontinuierlich im Internet laufen und Daten speichern können, ohne ihren Zustand zu verlieren.">
+<meta property="og:description" content="Dauerhafte Objekte sind kleine Wolkeneinheiten, die ihren Zustand beibehalten. Dabei handelt es sich um kleine Softwareeinheiten, die kontinuierlich im Int">
 <meta property="og:url" content="https://trescout.com/de/dictionary/durable-objects/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="de_DE">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Was ist Durable Objects?">
-<meta name="twitter:description" content="Dabei handelt es sich um kleine Softwareeinheiten, die kontinuierlich im Internet laufen und Daten speichern können, ohne ihren Zustand zu verlieren.">
+<meta name="twitter:description" content="Dauerhafte Objekte sind kleine Wolkeneinheiten, die ihren Zustand beibehalten. Dabei handelt es sich um kleine Softwareeinheiten, die kontinuierlich im Int">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Durable Objects",
-  "description": "Dabei handelt es sich um kleine Softwareeinheiten, die kontinuierlich im Internet laufen und Daten speichern können, ohne ihren Zustand zu verlieren.",
+  "description": "Dauerhafte Objekte sind kleine Wolkeneinheiten, die ihren Zustand beibehalten.",
   "inLanguage": "de",
   "url": "https://trescout.com/de/dictionary/durable-objects/",
   "inDefinedTermSet": {
@@ -55,15 +55,16 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/de/dictionary/">← Glossar</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossar · Dev</span><time class="dict-time" datetime="2026-08-08">Zuletzt aktualisiert: 8. August 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glossar · Dev</span><time class="dict-time" datetime="2026-09-22">Zuletzt aktualisiert: 22. September 2026</time></div>
 <h1 class="disc-title">Was ist <span class="disc-accent">Durable Objects</span>?</h1>
-<p class="disc-lead">Dabei handelt es sich um kleine Softwareeinheiten, die kontinuierlich im Internet laufen und Daten speichern können, ohne ihren Zustand zu verlieren.</p>
-<section class="disc-sec"><h2>Definition</h2><p>Normalerweise sind Programme im Internet temporär, aber diese Strukturen funktionieren ohne Unterbrechung, indem sie die Daten in sich behalten. Sie vergessen die Daten auch dann nicht, wenn eine Benutzerinteraktion endet. Ideal zur Aufrechterhaltung der Konsistenz in verteilten Systemen.</p></section>
-<div class="dict-analogy"><strong>Analogie:</strong> Anstelle einer App, die nur bei Bedarf aufwacht, ist es wie eine Sekretärin, die immer in Alarmbereitschaft ist und ihr Notizbuch nie verlässt.</div>
-<section class="disc-sec"><h2>So funktioniert es</h2><p>Sie leben mit einer bestimmten Identität auf dem Server und verarbeiten jede eingehende Anfrage mit dem aktuellen Status in ihrem Speicher.</p></section>
-<section class="disc-sec"><h2>Wo es eingesetzt wird</h2><p>Es wird in Echtzeitspielen, Chat-Anwendungen und Webdiensten verwendet, deren Status beibehalten werden muss.</p></section>
-<section class="disc-sec"><h2>Häufig verwechselt mit</h2><p>Nicht zu verwechseln mit temporären Serverfunktionen (serverlos); weil sie jedes Mal bei Null anfangen.</p></section>
-<section class="disc-sec"><h2>Häufige Fragen</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Wo werden die Daten gespeichert?</p><p class="dict-faq-a">Die Speicherung erfolgt innerhalb des Volumes selbst, also direkt als Teil der Betriebsumgebung.</p></div></div></section>
+<p class="disc-lead">Dauerhafte Objekte sind kleine Wolkeneinheiten, die ihren Zustand beibehalten.</p>
+<section class="disc-sec"><h2>Definition und Wortherkunft</h2><p>„Dauerhaft“ bedeutet dauerhaft. Im Gegensatz zu temporären Funktionen verbleiben die Daten im Gerät und werden nicht vergessen, wenn die Anfrage endet. Konsistenz ist das Heilmittel für verteilte Arbeit.</p></section>
+<div class="dict-analogy"><strong>Analogie:</strong> Sie ist wie die aufmerksame Sekretärin, die ihr Notizbuch nie verlässt.</div>
+<section class="disc-sec"><h2>Wie kann man es kennen und im täglichen Leben anwenden?</h2><p><strong>Spiel:</strong> Verfolgung des Zimmerstatus.<br><strong>Chat:</strong> Verbindungssitzung.<br><strong>Service:</strong> Zähler und Schloss.</p></section>
+<section class="disc-sec"><h2>Technische Tiefe und Architektur</h2><p>Layout:</p><p><strong>Identität:</strong> Jede Einheit hat einen Namen.<br><strong>Einzeldrucker:</strong> Schreibt jeweils mit einer Hand.<br><strong>WebSocket:</strong> Ständige Verbindung.</p><p>Stream:</p><pre><code>istek → oda-nesnesi → durum güncellenir → yanıt</code></pre><p>Serverloser Unterschied: Die Funktion beginnt von vorne, das Objekt macht dort weiter, wo es aufgehört hat.</p></section>
+<section class="disc-sec"><h2>Häufig gemischte Dinge</h2><p>Es gilt als serverlos. Funktion ist temporär, Objekt ist dauerhaft. Der eine ist Tagesausflügler, der andere Mieter.</p></section>
+<section class="disc-sec"><h2>Einsatz in verschiedenen Disziplinen</h2><p><strong>Sekretär:</strong> Der Assistent, der das Notizbuch nicht zurücklässt.<br><strong>Kassenbuch:</strong> Tagesendsaldo.<br><strong>Kaution:</strong> Ein Schrank, der auf seinen Besitzer wartet.</p></section>
+<section class="disc-sec"><h2>Häufig gestellte Fragen</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Wo werden die Daten gespeichert?</p><p class="dict-faq-a">Es wird innerhalb der Einheit als Teil der Betriebsumgebung verwaltet.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Wann verwenden?</p><p class="dict-faq-a">Bei der Arbeit in Echtzeit mit Statusanforderung: Raum, Zähler und Schloss.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Wie hoch sind die Kosten?</p><p class="dict-faq-a">Weil er die ganze Zeit lebt, schreibt er auch untätig. Die Berechnung erfolgt anhand des Verkehrsmusters.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Was ist der Unterschied zwischen Serverless?</p><p class="dict-faq-a">Die Funktion vergisst, das Objekt erinnert sich. Wenn eine Bedingung vorliegt, wird das Objekt ausgewählt.</p></div></div></section>
 <section class="disc-sec"><h2>Verwandte Begriffe</h2><div class="dict-related"><a href="/de/dictionary/runtime/">Runtime</a><a href="/de/dictionary/state-management/">State Management</a><a href="/de/dictionary/distributed/">Distributed</a></div></section>
 <section class="disc-sec"><h2>Verwandte Werkzeuge</h2><div class="dict-related"><a href="/de/discover/celld/">Celld</a></div></section>
 <aside class="disc-cta"><p><strong>Entdecken Sie passende Werkzeuge und tägliche Berichte.</strong> Jeden Tag entstehen neue Fachbegriffe und Tools · sichern Sie sich den Vorabzugang zu TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-de" data-page-type="dictionary" data-content-slug="durable-objects" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Ihre E-Mail-Adresse" autocomplete="email" required><button class="btn btn-primary" type="submit">Vorabzugang</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Ich habe den <a href="/de/privacy.html" target="_blank" rel="noopener">Datenschutzhinweis</a> gelesen und bin damit einverstanden, dass meine E-Mail-Adresse zu diesem Zweck verarbeitet wird.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/de/dictionary/">Alle Begriffe →</a></aside>

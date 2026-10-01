@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>O que é CI/CD? · Glossário · TreScout</title>
-<meta name="description" content="É o processo que garante que as atualizações de software sejam testadas e lançadas automaticamente.">
+<meta name="description" content="CI/CD (Integração Contínua/Implantação Contínua) é o teste e liberação automática do código.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/pt/dictionary/ci-cd/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/ci-cd/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/ci-cd/">
 <link rel="alternate" type="text/markdown" href="/pt/dictionary/ci-cd.md">
 <meta property="og:title" content="O que é CI/CD?">
-<meta property="og:description" content="É o processo que garante que as atualizações de software sejam testadas e lançadas automaticamente.">
+<meta property="og:description" content="CI/CD (Integração Contínua/Implantação Contínua) é o teste e liberação automática do código.">
 <meta property="og:url" content="https://trescout.com/pt/dictionary/ci-cd/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="pt_BR">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="O que é CI/CD?">
-<meta name="twitter:description" content="É o processo que garante que as atualizações de software sejam testadas e lançadas automaticamente.">
+<meta name="twitter:description" content="CI/CD (Integração Contínua/Implantação Contínua) é o teste e liberação automática do código.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "CI/CD",
-  "description": "É o processo que garante que as atualizações de software sejam testadas e lançadas automaticamente.",
+  "description": "CI/CD (Integração Contínua/Implantação Contínua) é o teste e liberação automática do código.",
   "inLanguage": "pt-BR",
   "url": "https://trescout.com/pt/dictionary/ci-cd/",
   "inDefinedTermSet": {
@@ -55,18 +55,21 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/pt/dictionary/">← Glossário</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-08-09">Última atualização: 9 de agosto de 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-09-22">Última atualização: 22 de setembro de 2026</time></div>
 <h1 class="disc-title">O que é <span class="disc-accent">CI/CD</span>?</h1>
 <p class="dict-en">Continuous Integration / Continuous Deployment</p>
-<p class="disc-lead">É o processo que garante que as atualizações de software sejam testadas e lançadas automaticamente.</p>
-<section class="disc-sec"><h2>Definição</h2><p>É uma linha de produção automática estabelecida para garantir que o código escrito pelos desenvolvedores de software chegue ao usuário sem erros. A Integração Contínua (CI) garante que o código seja constantemente montado e testado, e a Implantação Contínua (CD) garante que esse código seja transferido automaticamente para o sistema ativo.</p></section>
-<div class="dict-analogy"><strong>Analogia:</strong> É como um sistema automático de esteira que permite que os alimentos sejam preparados na cozinha de um restaurante, testados e servidos imediatamente na mesa do cliente.</div>
-<section class="disc-sec"><h2>Como funciona</h2><p>Quando você envia seu código ao sistema, o sistema executa primeiro testes automatizados. Se os testes forem bem-sucedidos, ele empacota seu código e o prepara para lançamento.</p></section>
-<section class="disc-sec"><h2>Onde é usado</h2><p>É usado em equipes modernas de desenvolvimento de software, especialmente em aplicativos que lançam atualizações rapidamente.</p></section>
-<section class="disc-sec"><h2>Costuma ser confundido com</h2><p>Pode ser confundido com um processo de teste puramente manual, mas é um fluxo totalmente automatizado.</p></section>
-<section class="disc-sec"><h2>Perguntas frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Por que isso é tão importante?</p><p class="dict-faq-a">Ele evita que códigos defeituosos sejam publicados e aumenta a velocidade de desenvolvimento.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Deveria ser sempre automático?</p><p class="dict-faq-a">Geralmente sim, mas etapas de aprovação manual podem ser adicionadas para atualizações críticas.</p></div></div></section>
+<p class="disc-lead">CI/CD (Integração Contínua/Implantação Contínua) é o teste e liberação automática do código.</p>
+<section class="disc-sec"><h2>Definição e origem da palavra</h2><p>É uma linha automática estabelecida para garantir que o código escrito chegue ao usuário sem erros. A CI monta e testa constantemente o código e o transfere para o live CD. A era das publicações manuais chega ao fim.</p></section>
+<div class="dict-analogy"><strong>Analogia:</strong> É como uma fita que garante que a comida é preparada na cozinha do restaurante, passa no teste de sabor e é servida ao cliente.</div>
+<section class="disc-sec"><h2>Como conhecer e usar no dia a dia?</h2><p><strong>Equipe:</strong> Teste após cada commit.<br><strong>Móvel:</strong> Liberação automática para armazenar.<br><strong>Web:</strong> Solte quando combinado.</p></section>
+<section class="disc-sec"><h2>Profundidade Técnica e Arquitetura</h2><p>Estágios de linha:</p><p><strong>Fiapos:</strong> Controle de estilo.<br><strong>Teste:</strong> Unidade e ponta a ponta.<br><strong>Compilação:</strong> Produção de pacotes.<br><strong>Lançamento:</strong> Abertura gradual.</p><p>Etapa de exemplo:</p><pre><code>steps:
+  - run: npm ci
+  - run: npm test</code></pre><p>Uma porta de aprovação manual é colocada em publicações críticas. Diferença com entrega: a entrega prepara, a implantação imprime. O primeiro espera, o segundo vai.</p></section>
+<section class="disc-sec"><h2>Coisas frequentemente misturadas</h2><p>Pensa-se que seja um teste manual. Porém, a linha é totalmente automática: vem o código, o teste roda, sai o resultado. A pessoa apenas espera na porta.</p></section>
+<section class="disc-sec"><h2>Use em diferentes disciplinas</h2><p><strong>Fita de cozinha:</strong> Preparação, degustação e serviço.<br><strong>Linha de montagem:</strong> Peça, inspeção e pacote.<br><strong>Faixa de bagagem:</strong> Registro, navegação e upload.</p></section>
+<section class="disc-sec"><h2>Perguntas Frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Por que isso é tão importante?</p><p class="dict-faq-a">Ele traduz o código defeituoso ao vivo e aumenta a velocidade. A transmissão frequente é feita com segurança.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Deveria ser sempre automático?</p><p class="dict-faq-a">Geralmente sim, a porta manual é adicionada na versão crítica.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Qual é a diferença com Entrega?</p><p class="dict-faq-a">A entrega prepara e espera, a implantação vai e vem. O primeiro é aprovado, o segundo é totalmente automático.</p></div><div class="dict-faq-item"><p class="dict-faq-q">O que acontece se quebrar?</p><p class="dict-faq-a">A linha para e a transmissão é interrompida. É por isso que um plano de backup e uma recuperação rápida são essenciais.</p></div></div></section>
 <section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/continuous-integration/">Continuous Integration</a><a href="/pt/dictionary/continuous-deployment/">Continuous Deployment</a><a href="/pt/dictionary/deployment/">Deployment</a><a href="/pt/dictionary/qa/">QA</a></div></section>
-<section class="disc-sec"><h2>Ferramentas relacionadas</h2><div class="dict-related"><a href="/pt/discover/strix/">Strix</a><a href="/pt/discover/openship/">Openship</a><a href="/pt/discover/flue/">Flue</a><a href="/pt/discover/devops-interview-guide/">DevOps-Interview-Guide</a></div></section>
+<section class="disc-sec"><h2>Ferramentas relacionadas</h2><div class="dict-related"><a href="/pt/discover/free-for-dev/">Free for Dev</a><a href="/pt/discover/strix/">Strix</a><a href="/pt/discover/googletest/">Googletest</a><a href="/pt/discover/trivy/">Trivy</a><a href="/pt/discover/openship/">Openship</a><a href="/pt/discover/ipatool/">Ipatool</a><a href="/pt/discover/checkstyle/">Checkstyle</a><a href="/pt/discover/flue/">Flue</a></div></section>
 <aside class="disc-cta"><p><strong>Explore ferramentas relacionadas e relatórios diários.</strong> Novos termos e ferramentas surgem todos os dias · junte-se ao acesso antecipado da TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-pt" data-page-type="dictionary" data-content-slug="ci-cd" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Seu e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Acesso antecipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Li o <a href="/pt/privacy.html" target="_blank" rel="noopener">aviso de privacidade</a> e concordo com o tratamento do meu e-mail para esta finalidade.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/pt/dictionary/">Todos os termos →</a></aside>
 <p class="disc-disclaimer">Esta explicação foi escrita em linguagem simples para a TreScout e <strong>traduzida automaticamente</strong> do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/ci-cd/">Ler em turco →</a></p>
 </article>

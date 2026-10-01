@@ -1,22 +1,34 @@
 # O que é Environment Variables?
 
-Eles são pequenos identificadores que contêm as configurações e chaves secretas que os programas precisam em tempo de execução.
+Variáveis de ambiente são identificadores que mantêm as configurações fora do código.
 
-## Definição
-Ele permite que você mantenha informações no nível do sistema, como senhas, chaves de API ou diferentes endereços de servidor, que você não deve escrever em seu código. Enquanto o programa está em execução, ele lê essas variáveis ​​e age de acordo. Assim, o mesmo código pode ser executado em ambientes diferentes com configurações diferentes.
+## Definição e origem da palavra
+"Meio Ambiente" significa meio ambiente. Password and address do not stay in the code, they stay in the system. The same code behaves differently in different environment.
 
-## Como funciona
-É definido através do sistema operacional ou de um arquivo especial e, ao iniciar o programa, memoriza esses valores.
+## Como conhecer e usar no dia a dia?
+Apresentador: Strings de conexão.Aplicação: Seleção de modo.CI: Chaves secretas.
 
-## Onde é usado
-É utilizado em instalações de servidores, configurações de aplicativos e todos os projetos de software que requerem segurança.
+## Profundidade Técnica e Arquitetura
+Layout:
 
-## Costuma ser confundido com
-Não deve ser confundido com valores codificados gravados no código, porque esse método cria um risco de segurança.
+## Coisas frequentemente misturadas
+É considerado um valor fixo. O fixo permanece no código, a variável fica fora. Um é uma tatuagem, o outro é um distintivo.
 
-## Perguntas frequentes
-**Por que deveríamos manter essas variáveis ​​privadas?**
-Para evitar que suas senhas sejam comprometidas ao compartilhar seu código.
+## Use em diferentes disciplinas
+Cartão: Cartão de configuração variável.Bateria do controle: Energia plug-and-play.Chaveiro: Acesso portátil.
+
+## Perguntas Frequentes
+**Por que é mantido em segredo?**
+Se compartilhado, pode ser capturado e a conta pode ser aberta. Se permanecer privado, o risco diminui.
+
+**O que é .env?**
+É um arquivo de valores locais. Não entra no repositório, apenas o exemplo entra.
+
+**O que acontece se vazar?**
+A chave é revogada e os registros são auditados. O atraso é grande.
+
+**Qual é a prioridade?**
+O ambiente do sistema sobrescreve o arquivo. O valor de produção vem do sistema.
 
 
 ## Termos relacionados

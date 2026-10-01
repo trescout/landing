@@ -1,19 +1,31 @@
 # Qu'est-ce que Project Management ?
 
-C'est la planification et la gestion du temps, des ressources et des tâches pour atteindre un objectif spécifique.
+La gestion de projet est la discipline consistant à planifier le temps, les ressources et les tâches afin d'atteindre un objectif.
 
-## Définition
-Cela vous fait comprendre qu’un projet logiciel ne consiste pas seulement à écrire du code. Cette discipline contrôle quel travail sera effectué en premier, qui est responsable de quoi et quand le projet sera terminé. Il s’agit de tracer une feuille de route ordonnée pour un résultat positif.
+## Définition et origine du mot
+Un projet logiciel ne se résume pas à l'écriture de code : l'ordre des tâches, la répartition des responsabilités et les délais sont gérés grâce à cette discipline. Les méthodes classiques (Gantt, cascade) planifient le travail dès le départ. Les méthodes agiles (Agile, Scrum, Kanban), quant à elles, renouvellent le plan par cycles courts.
 
-## Comment ça marche
-Le processus est suivi étape par étape à l'aide de listes de tâches, de calendriers et d'outils de suivi du travail.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Équipes logicielles : Sprints de deux semaines et réunions quotidiennes rapides.Construction : Calendrier de découverte, d'autorisation et de décompte.Événement : Liste de préparation pour un mariage ou une conférence.
 
-## Où est-ce utilisé
-Il est utilisé dans presque tous les secteurs, des équipes logicielles aux projets de construction.
+## Profondeur technique et architecture
+Les piliers de la discipline :
 
-## Questions fréquentes
+## Utilisation dans différentes disciplines
+Cuisine : Le chef cuisinier qui planifie quel plat doit aller au four et à quel moment.Orchestre : Le programme qui organise les répétitions en fonction du jour du concert.Chantier : Le plan de site qui coordonne l'ordre des grues et du béton.
+
+## Foire aux questions
 **Pourquoi les développeurs de logiciels l'utilisent-ils ?**
-Pour éviter que des projets complexes ne s’effondrent et que tout le monde reste concentré sur le même objectif.
+Pour éviter que le projet complexe ne se fragmente et pour s'assurer que tout le monde se concentre sur le même objectif.
+
+**Quelle est la différence entre la méthode en cascade (Waterfall) et la méthode agile ?**
+La méthode en cascade planifie tout dès le départ et considère le changement comme coûteux. La méthode agile renouvelle le plan par cycles courts et accueille le changement. L'agilité est plus adaptée aux projets incertains.
+
+**Un outil est-il indispensable ?**
+Non. Une petite équipe peut être gérée avec un tableau papier. Lorsque l'équipe s'agrandit, les outils numériques (Jira, Trello, Linear) permettent de maintenir l'organisation.
+
+**Comment l'appliquer dans une petite équipe ?**
+Une liste unique, un objectif hebdomadaire et une courte revue suffisent. Garder les réunions brèves est plus important que la méthode elle-même.
 
 
 ## Termes liés

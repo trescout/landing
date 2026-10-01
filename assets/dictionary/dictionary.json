@@ -8747,5 +8747,18 @@
     "kisa_pt": "Método matemático que reúne elementos de dois grupos diferentes de modo a proporcionar a correspondência mais adequada entre si.",
     "kisa_es": "Método matemático que reúne elementos de dos grupos diferentes para lograr el emparejamiento óptimo entre ellos.",
     "kisa_de": "Ein mathematisches Verfahren, das Elemente aus zwei verschiedenen Gruppen so zusammenbringt, dass die am besten geeignete Zuordnung füreinander gewährleistet wird."
+  },
+  {
+    "slug": "ab",
+    "en": "ab",
+    "full": "ApacheBench",
+    "cat": "dev",
+    "kisa": "Bir web sunucusunun aynı anda kaç kişiyi kaldırabileceğini ölçmeye yarayan basit bir performans test aracı.",
+    "date": "2026-10-01",
+    "kisa_en": "A simple performance testing tool used to measure how many concurrent users a web server can handle.",
+    "kisa_fr": "Outil de test de performance simple utilisé pour mesurer combien d'utilisateurs un serveur web peut gérer simultanément.",
+    "kisa_pt": "Uma ferramenta simples de teste de desempenho usada para medir quantas pessoas um servidor web pode suportar ao mesmo tempo.",
+    "kisa_es": "Una herramienta sencilla de prueba de rendimiento que sirve para medir cuántas personas puede soportar un servidor web al mismo tiempo.",
+    "kisa_de": "Ein einfaches Leistungstest-Tool, mit dem gemessen werden kann, wie viele Personen ein Webserver gleichzeitig bewältigen kann."
   }
 ]

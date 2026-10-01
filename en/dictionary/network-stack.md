@@ -1,33 +1,37 @@
 # What is Network Stack?
 
-It is the set of software layers required for a computer to connect to the internet and exchange data.
+The Network Stack is the collection of hardware drivers, kernel, and user-space protocol layers that enable an operating system or hardware to transmit, route, and receive data packets over a network.
 
-## Overview
-When you send data over the internet, it does not go in a single step. The network stack is the set of software rules that manage the entire process, from the packaging of the data to its transmission through the cable and its reassembly on the other side. These layers form the bridge between the hardware and the applications you use.
+## 1. Layered architecture: OSI 7 Layer vs TCP/IP 4 Layer
+In network communication, the OSI 7-Layer Model defined by ISO is used in theory, and in practice the TCP/IP Model, which forms the backbone of the Internet:
 
-*Analogy: The stages of writing an envelope, mailing it, loading it onto a truck, and delivering it when sending a letter are like a network stack.*
+## 2. Packet encapsulation and decapsulation flow
+When a client sends a request to a web server, as the data moves down the stack, each layer adds its own header:
 
-## How it works
-Your operating system runs these layers automatically in the background the moment you connect to the internet; you simply open the browser.
+## 3. Network Stack lifecycle in the Linux kernel
 
-## Where it is used
-It is found as a fundamental component in servers, personal computers, and network routers.
-
-## Commonly confused with
-It is the same concept as the networking stack.
+## 4. Kernel Bypass and next-generation networking: eBPF / XDP and DPDK
 
 ## Frequently asked questions
-**Do I manage these layers?**
-No, your operating system and network drivers manage this process for you.
+**What does 'network stack' mean, and what is its Turkish equivalent?**
+In Turkish, it is called "ağ yığını" or "protokol yığını". It is a hierarchy of hardware and software rules layered on top of each other that enables a computer to communicate over a network.
 
-**Why is it important?**
-If one of these layers malfunctions, your internet connection will be lost or you will experience data loss.
+**Where is the fundamental difference between TCP and UDP located within the network stack?**
+It is located at the Transport Layer (L4). TCP guarantees that packets arrive complete and in order via an acknowledgment mechanism (ACK); UDP, on the other hand, fires packets at maximum speed without waiting for acknowledgment.
+
+**What is MTU (Maximum Transmission Unit)?**
+It is the largest packet size that a network interface can carry in a single frame without fragmentation. For standard Ethernet, the MTU value is 1500 bytes.
+
+**Why is Kernel Bypass architecture used?**
+It is used to eliminate the interrupt and memory copying overheads of the Linux kernel at extremely high data volumes such as 100 Gbps, and to process packets directly at the hardware level with zero latency using DPDK and eBPF/XDP.
 
 
 ## Related terms
 - [VPN](/en/dictionary/vpn/)
-- [API](/en/dictionary/api/)
+- [Runtime](/en/dictionary/runtime/)
+- [Memory Management](/en/dictionary/memory-management/)
 - [Packet Fragmentation](/en/dictionary/packet-fragmentation/)
+- [API](/en/dictionary/api/)
 
 ## Related tools
 - [OpenFlux](/en/discover/openflux/)

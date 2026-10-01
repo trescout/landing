@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>O que é Environment Variables? · Glossário · TreScout</title>
-<meta name="description" content="Eles são pequenos identificadores que contêm as configurações e chaves secretas que os programas precisam em tempo de execução.">
+<meta name="description" content="Variáveis de ambiente são identificadores que mantêm as configurações fora do código. Eles são pequenos identificadores que contêm as configurações e chave">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/pt/dictionary/environment-variables/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/environment-variables/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/environment-variables/">
 <link rel="alternate" type="text/markdown" href="/pt/dictionary/environment-variables.md">
 <meta property="og:title" content="O que é Environment Variables?">
-<meta property="og:description" content="Eles são pequenos identificadores que contêm as configurações e chaves secretas que os programas precisam em tempo de execução.">
+<meta property="og:description" content="Variáveis de ambiente são identificadores que mantêm as configurações fora do código. Eles são pequenos identificadores que contêm as configurações e chave">
 <meta property="og:url" content="https://trescout.com/pt/dictionary/environment-variables/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="pt_BR">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="O que é Environment Variables?">
-<meta name="twitter:description" content="Eles são pequenos identificadores que contêm as configurações e chaves secretas que os programas precisam em tempo de execução.">
+<meta name="twitter:description" content="Variáveis de ambiente são identificadores que mantêm as configurações fora do código. Eles são pequenos identificadores que contêm as configurações e chave">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Environment Variables",
-  "description": "Eles são pequenos identificadores que contêm as configurações e chaves secretas que os programas precisam em tempo de execução.",
+  "description": "Variáveis de ambiente são identificadores que mantêm as configurações fora do código.",
   "inLanguage": "pt-BR",
   "url": "https://trescout.com/pt/dictionary/environment-variables/",
   "inDefinedTermSet": {
@@ -55,15 +55,16 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/pt/dictionary/">← Glossário</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-08-08">Última atualização: 8 de agosto de 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-09-22">Última atualização: 22 de setembro de 2026</time></div>
 <h1 class="disc-title">O que é <span class="disc-accent">Environment Variables</span>?</h1>
-<p class="disc-lead">Eles são pequenos identificadores que contêm as configurações e chaves secretas que os programas precisam em tempo de execução.</p>
-<section class="disc-sec"><h2>Definição</h2><p>Ele permite que você mantenha informações no nível do sistema, como senhas, chaves de API ou diferentes endereços de servidor, que você não deve escrever em seu código. Enquanto o programa está em execução, ele lê essas variáveis ​​e age de acordo. Assim, o mesmo código pode ser executado em ambientes diferentes com configurações diferentes.</p></section>
-<div class="dict-analogy"><strong>Analogia:</strong> Em vez de configurações codificadas dentro de um dispositivo, é como um cartão de configurações integrado ao dispositivo e que pode ser alterado a cada vez.</div>
-<section class="disc-sec"><h2>Como funciona</h2><p>É definido através do sistema operacional ou de um arquivo especial e, ao iniciar o programa, memoriza esses valores.</p></section>
-<section class="disc-sec"><h2>Onde é usado</h2><p>É utilizado em instalações de servidores, configurações de aplicativos e todos os projetos de software que requerem segurança.</p></section>
-<section class="disc-sec"><h2>Costuma ser confundido com</h2><p>Não deve ser confundido com valores codificados gravados no código, porque esse método cria um risco de segurança.</p></section>
-<section class="disc-sec"><h2>Perguntas frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Por que deveríamos manter essas variáveis ​​privadas?</p><p class="dict-faq-a">Para evitar que suas senhas sejam comprometidas ao compartilhar seu código.</p></div></div></section>
+<p class="disc-lead">Variáveis de ambiente são identificadores que mantêm as configurações fora do código.</p>
+<section class="disc-sec"><h2>Definição e origem da palavra</h2><p>&quot;Meio Ambiente&quot; significa meio ambiente. Password and address do not stay in the code, they stay in the system. The same code behaves differently in different environment.</p></section>
+<div class="dict-analogy"><strong>Analogia:</strong> É como um cartão inserido e substituível em vez de uma configuração embutida no dispositivo.</div>
+<section class="disc-sec"><h2>Como conhecer e usar no dia a dia?</h2><p><strong>Apresentador:</strong> Strings de conexão.<br><strong>Aplicação:</strong> Seleção de modo.<br><strong>CI:</strong> Chaves secretas.</p></section>
+<section class="disc-sec"><h2>Profundidade Técnica e Arquitetura</h2><p>Layout:</p><p><strong>.env:</strong> Arquivo local, não entra no repositório.<br><strong>Prioridade:</strong> O sistema de ambiente sobrescreve o arquivo.<br><strong>Esquema:</strong> Lista de nomes necessários.</p><p>Valor de exemplo:</p><pre><code>DATABASE_URL=postgres://kullanici:parola@localhost:5432/db</code></pre><p>Regra: O valor real não é escrito no exemplo, coloca-se um marcador de posição. A chave vazada é cancelada.</p></section>
+<section class="disc-sec"><h2>Coisas frequentemente misturadas</h2><p>É considerado um valor fixo. O fixo permanece no código, a variável fica fora. Um é uma tatuagem, o outro é um distintivo.</p></section>
+<section class="disc-sec"><h2>Use em diferentes disciplinas</h2><p><strong>Cartão:</strong> Cartão de configuração variável.<br><strong>Bateria do controle:</strong> Energia plug-and-play.<br><strong>Chaveiro:</strong> Acesso portátil.</p></section>
+<section class="disc-sec"><h2>Perguntas Frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Por que é mantido em segredo?</p><p class="dict-faq-a">Se compartilhado, pode ser capturado e a conta pode ser aberta. Se permanecer privado, o risco diminui.</p></div><div class="dict-faq-item"><p class="dict-faq-q">O que é .env?</p><p class="dict-faq-a">É um arquivo de valores locais. Não entra no repositório, apenas o exemplo entra.</p></div><div class="dict-faq-item"><p class="dict-faq-q">O que acontece se vazar?</p><p class="dict-faq-a">A chave é revogada e os registros são auditados. O atraso é grande.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Qual é a prioridade?</p><p class="dict-faq-a">O ambiente do sistema sobrescreve o arquivo. O valor de produção vem do sistema.</p></div></div></section>
 <section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/secrets/">Secrets</a><a href="/pt/dictionary/runtime/">Runtime</a><a href="/pt/dictionary/api/">API</a></div></section>
 <section class="disc-sec"><h2>Ferramentas relacionadas</h2><div class="dict-related"><a href="/pt/discover/mise/">Mise</a></div></section>
 <aside class="disc-cta"><p><strong>Explore ferramentas relacionadas e relatórios diários.</strong> Novos termos e ferramentas surgem todos os dias · junte-se ao acesso antecipado da TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-pt" data-page-type="dictionary" data-content-slug="environment-variables" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Seu e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Acesso antecipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Li o <a href="/pt/privacy.html" target="_blank" rel="noopener">aviso de privacidade</a> e concordo com o tratamento do meu e-mail para esta finalidade.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/pt/dictionary/">Todos os termos →</a></aside>

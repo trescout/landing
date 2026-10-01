@@ -1,22 +1,34 @@
 # Qu'est-ce que CSS Framework ?
 
-Il s'agit d'une boîte à outils qui propose des modèles de conception et des règles prêts à l'emploi pour embellir rapidement l'apparence des pages Web.
+Un framework CSS est une boîte à outils proposant des styles prêts à l'emploi.
 
-## Définition
-Lors de la création d’un site Web, au lieu d’écrire de toutes pièces à quoi ressembleront les boutons, les menus ou les polices, vous utilisez les structures toutes faites proposées par ces frameworks. Cela vous permet de créer des sites d’aspect professionnel en beaucoup moins de temps.
+## Définition et origine du mot
+Au lieu d'écrire des boutons, des menus et des polices à partir de zéro, on utilise des classes prédéfinies. Un aspect professionnel est obtenu en peu de temps. Tailwind, Bootstrap et Bulma en sont des exemples connus.
 
-## Comment ça marche
-Vous ajoutez les fichiers du Framework à votre projet et utilisez les noms prêts à l'emploi qu'il propose dans vos codes.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Site : Mise en place rapide d'interfaces.Panneau: Écrans d'administration.Prototype : Test d'idées.
 
-## Où est-ce utilisé
-Il est utilisé dans les processus de développement d’interfaces de sites Web.
+## Profondeur technique et architecture
+Approches :
 
-## Souvent confondu avec
-Peut être confondu avec l'utilité d'abord ; Une approche axée sur l'utilité est un cadre, et un cadre est un outil qui peut ou non prendre en charge cette approche.
+## Choses fréquemment mélangées
+C'est considéré comme « utility-first ». C'est une approche, le framework est un outil. L'outil soutient ou ne soutient pas l'approche.
 
-## Questions fréquentes
-**Tous les sites ne sont-ils pas similaires ?**
-Les cadres sont flexibles ; Vous pouvez créer des designs originaux en ajoutant vos propres couleurs et styles.
+## Utilisation dans différentes disciplines
+Ensemble de porte : Cadre et vantail prêts à l'emploi.Lego : Pièces à assembler.Plat préparé : Assiette à réchauffer.
+
+## Foire aux questions
+**Les sites ne se ressemblent-ils pas ?**
+Non. Lorsque la couleur, le type et la mise en page changent, l'identité change.
+
+**Quand est-ce utilisé ?**
+Pour les travaux nécessitant de la vitesse. Le travail manuel est choisi pour une conception sur mesure.
+
+**Quelle est sa performance ?**
+Il est léger si les styles inutilisés sont supprimés. Sa forme brute est lourde.
+
+**Lequel faut-il choisir ?**
+L'équipe détermine l'habitude. La documentation et la communauté sont recherchées.
 
 
 ## Termes liés

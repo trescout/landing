@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>O que é Logging? · Glossário · TreScout</title>
-<meta name="description" content="É o registro cronológico de um programa para acompanhar as operações que ele realiza ou os erros que encontra durante sua execução.">
+<meta name="description" content="Logging (em português, registro de eventos) é a gravação cronológica dos eventos de um programa.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/pt/dictionary/logging/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/logging/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/logging/">
 <link rel="alternate" type="text/markdown" href="/pt/dictionary/logging.md">
 <meta property="og:title" content="O que é Logging?">
-<meta property="og:description" content="É o registro cronológico de um programa para acompanhar as operações que ele realiza ou os erros que encontra durante sua execução.">
+<meta property="og:description" content="Logging (em português, registro de eventos) é a gravação cronológica dos eventos de um programa.">
 <meta property="og:url" content="https://trescout.com/pt/dictionary/logging/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="pt_BR">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="O que é Logging?">
-<meta name="twitter:description" content="É o registro cronológico de um programa para acompanhar as operações que ele realiza ou os erros que encontra durante sua execução.">
+<meta name="twitter:description" content="Logging (em português, registro de eventos) é a gravação cronológica dos eventos de um programa.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Logging",
-  "description": "É o registro cronológico de um programa para acompanhar as operações que ele realiza ou os erros que encontra durante sua execução.",
+  "description": "Logging (em português, registro de eventos) é a gravação cronológica dos eventos de um programa.",
   "inLanguage": "pt-BR",
   "url": "https://trescout.com/pt/dictionary/logging/",
   "inDefinedTermSet": {
@@ -55,17 +55,20 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/pt/dictionary/">← Glossário</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-08-06">Última atualização: 6 de agosto de 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-09-22">Última atualização: 22 de setembro de 2026</time></div>
 <h1 class="disc-title">O que é <span class="disc-accent">Logging</span>?</h1>
-<p class="disc-lead">É o registro cronológico de um programa para acompanhar as operações que ele realiza ou os erros que encontra durante sua execução.</p>
-<section class="disc-sec"><h2>Definição</h2><p>Às vezes, os programas apresentam erros silenciosos. Graças ao registro, quando ocorre um erro, você pode ver passo a passo o que o programa fez até agora e quais dados processou. Esta é uma espécie de “caixa preta” do programa.</p></section>
-<div class="dict-analogy"><strong>Analogia:</strong> Assim como a caixa preta de um avião que registra todos os seus dados durante o voo, o programa registra todos os seus movimentos em um registro.</div>
-<section class="disc-sec"><h2>Como funciona</h2><p>Você adiciona comandos como &#39;veio aqui&#39;, &#39;estes dados foram processados&#39; no código. À medida que o programa é executado, essas informações são gravadas em um arquivo ou sistema de monitoramento.</p></section>
-<section class="disc-sec"><h2>Onde é usado</h2><p>É usado em aplicativos de servidor, grandes sistemas de software e processos de depuração.</p></section>
-<section class="disc-sec"><h2>Costuma ser confundido com</h2><p>Pode ser confundido com Observabilidade; A exploração madeireira é um dos blocos de construção fundamentais desta observabilidade.</p></section>
-<section class="disc-sec"><h2>Perguntas frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">É bom guardar tudo?</p><p class="dict-faq-a">Não, muitos logs podem tornar o sistema lento e dificultar a localização de erros críticos; Registros equilibrados devem ser mantidos.</p></div></div></section>
+<p class="disc-lead">Logging (em português, registro de eventos) é a gravação cronológica dos eventos de um programa.</p>
+<section class="disc-sec"><h2>Definição e origem da palavra</h2><p>Log significa registro ou histórico. Quando um programa apresenta um erro silenciosamente, é possível ler no registro o que ele estava fazendo até aquele momento. É como a caixa-preta de um avião: o primeiro lugar a ser verificado após um acidente.</p></section>
+<div class="dict-analogy"><strong>Analogia:</strong> É como a caixa-preta que registra os dados de voo da aeronave; as ações do programa são registradas no log.</div>
+<section class="disc-sec"><h2>Como conhecer e usar no dia a dia?</h2><p><strong>Apresentador:</strong> Depuração.<br><strong>Produto:</strong> Monitoramento de uso.<br><strong>Segurança:</strong> Registro de eventos.</p></section>
+<section class="disc-sec"><h2>Profundidade Técnica e Arquitetura</h2><p>Níveis:</p><p><strong>DEBUG:</strong> Detalhe do desenvolvedor.<br><strong>INFO:</strong> Fluxo normal.<br><strong>AVISO:</strong> Situação suspeita.<br><strong>ERRO:</strong> Tarefa falha.</p><p>Regras:</p><p><strong>Registro estruturado:</strong> Formato JSON, pesquisabilidade.<br><strong>Proibição de PII:</strong> Senhas e identidades não entram no registro.<br><strong>Rotação:</strong> O arquivo é arquivado quando cresce.</p><p>Exemplo:</p><pre><code>import logging
+logging.basicConfig(level=logging.INFO)
+logging.info("Ödeme alındı: sipariş=%s", siparis_id)</code></pre><p>Muitos registros deixam o sistema lento, poucos registros deixam você cego. Em produção usa-se INFO, em caso de problemas ativa-se DEBUG.</p></section>
+<section class="disc-sec"><h2>Coisas frequentemente misturadas</h2><p>Acha-se que é observabilidade. No entanto, o registro (logging) é o seu bloco de construção: o log é a matéria-prima, a capacidade de observação é o produto.</p></section>
+<section class="disc-sec"><h2>Use em diferentes disciplinas</h2><p><strong>Caixa-preta:</strong> Registro de dados de voo.<br><strong>Diário:</strong> Notas em ordem cronológica.<br><strong>Gravação da câmera:</strong> Arquivo de eventos.</p></section>
+<section class="disc-sec"><h2>Perguntas Frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">É bom guardar tudo?</p><p class="dict-faq-a">Não. O excesso torna o sistema lento e oculta o que é importante; o registro é mantido de forma equilibrada.</p></div><div class="dict-faq-item"><p class="dict-faq-q">O que é o nível?</p><p class="dict-faq-a">É a etiqueta de urgência do registro. Serve como filtro na busca.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Onde os registros são gravados?</p><p class="dict-faq-a">Em um arquivo, sistema central ou serviço de nuvem. Em produção, recomenda-se a coleta centralizada.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Por quanto tempo é armazenado?</p><p class="dict-faq-a">Depende da política. A depuração requer semanas, a auditoria requer anos.</p></div></div></section>
 <section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/observability/">Observability</a><a href="/pt/dictionary/traces/">Traces</a><a href="/pt/dictionary/logs/">Logs</a></div></section>
-<section class="disc-sec"><h2>Ferramentas relacionadas</h2><div class="dict-related"><a href="/pt/discover/spdlog/">Spdlog</a></div></section>
+<section class="disc-sec"><h2>Ferramentas relacionadas</h2><div class="dict-related"><a href="/pt/discover/omniroute/">OmniRoute</a><a href="/pt/discover/spdlog/">Spdlog</a></div></section>
 <aside class="disc-cta"><p><strong>Explore ferramentas relacionadas e relatórios diários.</strong> Novos termos e ferramentas surgem todos os dias · junte-se ao acesso antecipado da TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-pt" data-page-type="dictionary" data-content-slug="logging" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Seu e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Acesso antecipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Li o <a href="/pt/privacy.html" target="_blank" rel="noopener">aviso de privacidade</a> e concordo com o tratamento do meu e-mail para esta finalidade.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/pt/dictionary/">Todos os termos →</a></aside>
 <p class="disc-disclaimer">Esta explicação foi escrita em linguagem simples para a TreScout e <strong>traduzida automaticamente</strong> do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/logging/">Ler em turco →</a></p>
 </article>

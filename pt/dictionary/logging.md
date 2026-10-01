@@ -1,22 +1,34 @@
 # O que é Logging?
 
-É o registro cronológico de um programa para acompanhar as operações que ele realiza ou os erros que encontra durante sua execução.
+Logging (em português, registro de eventos) é a gravação cronológica dos eventos de um programa.
 
-## Definição
-Às vezes, os programas apresentam erros silenciosos. Graças ao registro, quando ocorre um erro, você pode ver passo a passo o que o programa fez até agora e quais dados processou. Esta é uma espécie de “caixa preta” do programa.
+## Definição e origem da palavra
+Log significa registro ou histórico. Quando um programa apresenta um erro silenciosamente, é possível ler no registro o que ele estava fazendo até aquele momento. É como a caixa-preta de um avião: o primeiro lugar a ser verificado após um acidente.
 
-## Como funciona
-Você adiciona comandos como 'veio aqui', 'estes dados foram processados' no código. À medida que o programa é executado, essas informações são gravadas em um arquivo ou sistema de monitoramento.
+## Como conhecer e usar no dia a dia?
+Apresentador: Depuração.Produto: Monitoramento de uso.Segurança: Registro de eventos.
 
-## Onde é usado
-É usado em aplicativos de servidor, grandes sistemas de software e processos de depuração.
+## Profundidade Técnica e Arquitetura
+Níveis:
 
-## Costuma ser confundido com
-Pode ser confundido com Observabilidade; A exploração madeireira é um dos blocos de construção fundamentais desta observabilidade.
+## Coisas frequentemente misturadas
+Acha-se que é observabilidade. No entanto, o registro (logging) é o seu bloco de construção: o log é a matéria-prima, a capacidade de observação é o produto.
 
-## Perguntas frequentes
+## Use em diferentes disciplinas
+Caixa-preta: Registro de dados de voo.Diário: Notas em ordem cronológica.Gravação da câmera: Arquivo de eventos.
+
+## Perguntas Frequentes
 **É bom guardar tudo?**
-Não, muitos logs podem tornar o sistema lento e dificultar a localização de erros críticos; Registros equilibrados devem ser mantidos.
+Não. O excesso torna o sistema lento e oculta o que é importante; o registro é mantido de forma equilibrada.
+
+**O que é o nível?**
+É a etiqueta de urgência do registro. Serve como filtro na busca.
+
+**Onde os registros são gravados?**
+Em um arquivo, sistema central ou serviço de nuvem. Em produção, recomenda-se a coleta centralizada.
+
+**Por quanto tempo é armazenado?**
+Depende da política. A depuração requer semanas, a auditoria requer anos.
 
 
 ## Termos relacionados
@@ -25,6 +37,7 @@ Não, muitos logs podem tornar o sistema lento e dificultar a localização de e
 - [Logs](/pt/dictionary/logs/)
 
 ## Ferramentas relacionadas
+- [OmniRoute](/pt/discover/omniroute/)
 - [Spdlog](/pt/discover/spdlog/)
 
 ---

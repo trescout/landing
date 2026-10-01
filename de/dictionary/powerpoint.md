@@ -1,22 +1,31 @@
 # Was ist PowerPoint?
 
-Es handelt sich um ein Präsentationsvorbereitungsprogramm, mit dem Sie Informationen in visuellen Folien präsentieren können.
+PowerPoint ist die folienbasierte Präsentationsanwendung von Microsoft.
 
-## Definition
-PowerPoint ist eine digitale Bühne, auf der Sie einem Publikum Ihre Ideen, Daten oder Projekte erläutern können. Es ermöglicht Ihnen, Text, Bilder und Grafiken in organisierten Folien zu kombinieren.
+## Definition und Wortherkunft
+Das Programm wurde 1987 von der Firma Forethought ins Leben gerufen und bald darauf von Microsoft übernommen. Es ist die digitale Bühne, auf der Sie einem Publikum Ihre Ideen, Daten oder Ihr Projekt erklären: Sie kombinieren Texte, Bilder und Grafiken zu organisierten Folien. Das Dateiformat .pptx ist eigentlich ein komprimiertes XML-Paket.
 
-## So funktioniert es
-Sie öffnen eine leere Folie und gestalten Seiten, indem Sie ihr Textfelder, Bilder oder Grafiken hinzufügen. Anschließend zeigen Sie diese Seiten nacheinander in einem Präsentationsmodus an.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Geschäftstreffen: Vierteljährliche Berichte und Projektstatuspräsentationen.Schule: Hausaufgaben und Verteidigung der Abschlussarbeit.Konferenzen: Keynote-Vorträge und Panels.Training: Vorlesungssets.
 
-## Wo es eingesetzt wird
-Wird bei Geschäftstreffen, Schulprojekten und Konferenzen verwendet.
+## Technische Tiefe und Architektur
+Bestandteile einer wirkungsvollen Präsentation:
 
-## Häufige Fragen
+## Einsatz in verschiedenen Disziplinen
+Unterrichtstafel: Board-Layout, das das Thema Schritt für Schritt erklärt.Fotoalbum: Der visuelle Fluss, der die Erzählung ausrichtet.Theater: Der Phasenplan schreitet Schritt für Schritt voran.
+
+## Häufig gestellte Fragen
 **Kann ich mir während einer Präsentation Notizen machen?**
-Ja, der Moderator kann seine Notizen auf seinem Bildschirm sehen, während das Publikum nur die Folie sieht.
+Ja. In der Moderatorenansicht sehen Sie Ihre Notizen, das Publikum sieht nur die Folie.
 
 **Kann es in andere Formate konvertiert werden?**
-Ja, Sie können Ihre Präsentation als PDF oder Video speichern.
+Ja. Sie können Ihre Präsentation als PDF oder Video speichern.
+
+**Gibt es eine kostenlose Alternative?**
+Ja. LibreOffice Impress und das webbasierte Google Slides leisten ähnliche Arbeit. Beachten Sie die Schriftart- und Animationsunterschiede beim Übergang.
+
+**Was tun, wenn die Datei zu groß wird?**
+Komprimieren Sie Bilder, verknüpfen Sie Videos (nicht einbetten) und löschen Sie nicht verwendete Originale. Das Speichern in Abschnitten statt in einzelnen Dateien funktioniert ebenfalls.
 
 
 ## Verwandte Begriffe

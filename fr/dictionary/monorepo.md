@@ -1,25 +1,34 @@
 # Qu'est-ce que Monorepo ?
 
-Une méthode de développement où plusieurs projets logiciels sont conservés dans un seul dossier partagé.
+Monorepo (dépôt mono, référentiel unique) est un système permettant de conserver plusieurs projets dans un seul référentiel.
 
-## Définition
-Dans le monde du logiciel, au lieu que les projets soient déconnectés les uns des autres, tous les codes interconnectés sont rassemblés dans un seul centre. Cette méthode rend le partage de code et les mises à jour entre projets beaucoup plus rapides.
+## Définition et origine du mot
+"Mono" signifie célibataire. Les codes liés sont collectés au centre, le partage et la mise à jour sont accélérés. Les modifications apportées à la bibliothèque sont immédiatement reflétées dans les projets.
 
-## Comment ça marche
-Les développeurs accèdent à tous les projets via un référentiel maître unique, de sorte que les modifications apportées dans une bibliothèque sont instantanément visibles dans les autres projets.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Entreprise: Base de code multi-équipes.Microservices : Bibliothèques communes.Mobile: Modules partagés.
 
-## Où est-ce utilisé
-Il est utilisé dans les grandes entreprises de logiciels et dans les projets où sont développés des microservices interconnectés.
+## Profondeur technique et architecture
+Disposition :
 
-## Souvent confondu avec
-Il ne s’agit pas de mélanger les codes, mais de les gérer régulièrement à partir d’un seul centre.
+## Choses fréquemment mélangées
+Cela ressemble à de la confusion. Il s’agit cependant d’une centralisation régulière. Le désordre est dû au manque de discipline et non à l’ordre.
 
-## Questions fréquentes
+## Utilisation dans différentes disciplines
+Bâtiment: La seule bibliothèque avec des catégories.Centre commercial: Magasins avec toits partagés.Campus: Immeubles avec espaces communs.
+
+## Foire aux questions
 **Est-ce adapté à tout le monde ?**
-Non, la gestion peut devenir difficile dans les très grands projets.
+Non. La gestion devient difficile dans un projet géant, et trop dans un petit.
 
-**Cela affecte-t-il la sécurité ?**
-Il offre une gestion de code plus sécurisée avec une autorisation correcte.
+**Est-ce sécuritaire?**
+Par autorité, oui. Un centre unique facilite le contrôle.
+
+**Quand le choisir ?**
+Si le partage est intense. Pour un travail indépendant, un entrepôt séparé suffit.
+
+**Quels outils ?**
+Bazel, Nx et Turborepo sont courants. L’écosystème détermine.
 
 
 ## Termes liés

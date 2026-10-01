@@ -1,22 +1,34 @@
 # Qu'est-ce que Caching ?
 
-Les données fréquemment utilisées sont temporairement stockées en mémoire pour un accès rapide.
+La mise en cache (caching) consiste à copier des données fréquemment utilisées vers une couche rapide.
 
-## Définition
-La mise en cache est une méthode d'accélération utilisée pour empêcher un système de calculer à plusieurs reprises les mêmes données ou de les extraire d'une source distante. Les données sont copiées dans une zone rapidement accessible (cache) et servies à partir de là en cas de besoin. Cela réduit considérablement le temps de réponse global du système.
+## Définition et origine du mot
+Le cache désigne une mémoire tampon. Au lieu de recalculer les mêmes données, le système les fournit à partir d'une copie. Le temps de réponse diminue et la charge est allégée. Il fonctionne à tous les niveaux, du navigateur au centre de données.
 
-## Comment ça marche
-Lorsque le système demande des données, il examine d'abord le cache ; Si les données sont là, il les récupère immédiatement, sinon il les extrait de la source principale et en laisse une copie dans le cache.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Navigateur : Stockage de pages et d'images.Application : Copie hors ligne.Présentateur: Stockage des résultats de requête.
 
-## Où est-ce utilisé
-Il est largement utilisé pour améliorer les performances des navigateurs Web, des applications et des centres de données à grande échelle.
+## Profondeur technique et architecture
+Stratégies :
 
-## Souvent confondu avec
-Il peut être confondu avec une base de données, mais le cache est temporaire et rapide, tandis que la base de données est permanente et plus volumineuse.
+## Choses fréquemment mélangées
+On pense à la base de données. La base de données est persistante et vaste, le cache est temporaire et rapide. L'un est un coffre-fort, l'autre est un portefeuille de poche.
 
-## Questions fréquentes
+## Utilisation dans différentes disciplines
+Sac : Livre souvent utilisé à portée de main.Réfrigérateur : Nourriture quotidienne devant.Garde-manger : Stock global en arrière-plan.
+
+## Foire aux questions
 **Que se passe-t-il si le cache est plein ?**
-Les données anciennes ou rarement utilisées sont supprimées et remplacées par de nouvelles données.
+L'ancien et le moins utilisé est supprimé, le nouveau est écrit. La politique gère cela.
+
+**Quand est-ce nettoyé ?**
+À l'expiration du délai, lorsque la capacité est dépassée ou manuellement. Les données critiques sont conservées à court terme.
+
+**Y a-t-il un risque d'incohérence ?**
+C'est possible. Lorsque la source change, la copie devient obsolète ; une discipline de version et de durée est nécessaire.
+
+**Où est-ce conservé ?**
+En mémoire, sur disque ou en périphérie CDN. Le choix dépend de l'équilibre entre vitesse et capacité.
 
 
 ## Termes liés
@@ -25,6 +37,8 @@ Les données anciennes ou rarement utilisées sont supprimées et remplacées pa
 - [Database](/fr/dictionary/database/)
 
 ## Outils liés
+- [Free for Dev](/fr/discover/free-for-dev/)
+- [OmniRoute](/fr/discover/omniroute/)
 - [Guava](/fr/discover/guava/)
 - [Omlx](/fr/discover/omlx/)
 

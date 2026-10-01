@@ -2,29 +2,41 @@
 
 > Virtual Private Server
 
-Il s’agit d’utiliser un serveur physique puissant sur Internet en le louant comme ordinateur privé.
+Le VPS (Virtual Private Server) est une tranche indépendante du serveur physique divisée par virtualisation, qui vous est réservée.
 
-## Définition
-VPS est créé par un logiciel divisant un énorme serveur en petits morceaux. Chaque partie fonctionne indépendamment des autres utilisateurs car elle possède son propre système d'exploitation et ses propres ressources. De cette façon, vous pouvez installer et gérer n'importe quel logiciel de votre choix comme si vous aviez votre propre serveur.
+## Définition et origine du mot
+Un énorme serveur est divisé en parties plus petites par un logiciel hyperviseur. Chaque partie exécute son propre système d'exploitation et dispose de sa part de RAM et de processeur dédiés. Peu importe ce que font les tranches voisines, la vôtre ne sera pas affectée. Par conséquent, vous pouvez installer et gérer les logiciels que vous souhaitez comme si vous aviez votre propre serveur.
 
-## Comment ça marche
-Vous louez un VPS auprès d'un fournisseur de cloud, puis vous vous connectez à votre serveur via des méthodes d'accès à distance et effectuez les réglages souhaités.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Site web: Blogs et magasins avec un trafic croissant.Cloud personnel : Synchronisation et sauvegarde de fichiers.Environnement de test : N'expérimentez pas avant de passer en direct.Jeux et VPN : Serveur de jeu en communauté, tunnel privé.
 
-## Où est-ce utilisé
-Il est utilisé pour héberger des sites Web, mettre en place des systèmes cloud personnels ou créer des environnements de test.
+## Profondeur technique et architecture
+Ce que vous devez savoir :
 
-## Souvent confondu avec
-Il peut être confondu avec l'hébergement mutualisé ; En hébergement mutualisé, vous partagez des ressources avec d’autres, tandis qu’en VPS, les ressources qui vous sont allouées sont garanties.
+## Choses fréquemment mélangées
+Il peut être confondu avec l'hébergement mutualisé. Dans l'hébergement mutualisé, vous partagez des ressources avec d'autres ; les ressources qui vous sont allouées dans VPS sont garanties. La prochaine étape est un serveur dédié sur lequel vous disposez de la machine entière.
 
-## Questions fréquentes
+## Utilisation dans différentes disciplines
+Appartement: Immeuble partagé, appartement indépendant et porte verrouillée.Étage de bureau : Réception commune, espace de travail privatif.Coffre-fort : Votre propre compartiment privé dans le bâtiment de la banque.
+
+## Foire aux questions
 **Des connaissances techniques sont-elles nécessaires pour gérer un VPS ?**
-Oui, des connaissances techniques de base sont requises pour l'administration du serveur et les paramètres de sécurité.
+Avec le package non géré, oui : vous obtenez la mise à jour, le pare-feu et la sauvegarde. Des connaissances de base sur Linux sont suffisantes. Si vous rencontrez des difficultés, vous pouvez passer au package géré.
+
+**En quoi est-ce différent de l’hébergement mutualisé ?**
+En partagé, la ressource est partagée, la densité des voisins vous ralentit. Votre part dans VPS est garantie et vous disposez de l’autorité root.
+
+**Avec combien de ressources faut-il commencer ?**
+Pour les petits sites, 1 à 2 Go de RAM suffisent généralement. Il est recommandé de consulter les tableaux de suivi et de les agrandir progressivement.
+
+**Comment sauvegarder ?**
+La fonctionnalité d'instantané du fournisseur ainsi que la règle de sauvegarde externe sont recommandées. Une seule copie n'est pas considérée comme une sauvegarde.
 
 
 ## Termes liés
 - [Virtual Machines](/fr/dictionary/virtual-machines/)
 - [Cloud Computing](/fr/dictionary/cloud-computing/)
-- [Self-hosting](/fr/dictionary/self-hosting/)
+- [Self-Hosting](/fr/dictionary/self-hosting/)
 
 ## Outils liés
 - [DeskcommCRM](/fr/discover/deskcommcrm/)

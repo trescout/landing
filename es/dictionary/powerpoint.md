@@ -1,22 +1,31 @@
 # ¿Qué es PowerPoint?
 
-Es un programa de preparación de presentaciones que le permite presentar información en diapositivas visuales.
+PowerPoint es la aplicación de presentación basada en diapositivas de Microsoft.
 
-## Definición
-PowerPoint es un escenario digital que puede utilizar para explicar sus ideas, datos o proyectos a una audiencia. Le permite combinar texto, imágenes y gráficos en diapositivas organizadas.
+## Definición y origen de la palabra
+El programa nació en 1987 de la empresa Forethought y poco después fue adquirido por Microsoft. Es el escenario digital que utiliza para explicar sus ideas, datos o proyecto a una audiencia: combina texto, imágenes y gráficos en diapositivas organizadas. El formato de archivo .pptx es en realidad un paquete XML comprimido.
 
-## Cómo funciona
-Abre una diapositiva en blanco y diseña páginas agregándole cuadros de texto, imágenes o gráficos. Luego muestra estas páginas secuencialmente en un modo de presentación.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Reuniones de negocios: Informes trimestrales y presentaciones del estado de los proyectos.Escuela: Defensas de tareas y tesis.Conferencias: Conferencias magistrales y paneles.Educación: Conjuntos de conferencias.
 
-## Dónde se usa
-Utilizado en reuniones de negocios, proyectos escolares y conferencias.
+## Profundidad técnica y arquitectura
+Partes de una presentación eficaz:
+
+## Uso en diferentes disciplinas
+Tablero de lecciones: Diseño del tablero que explica el tema paso a paso.Álbum de fotos: El flujo visual que alinea la narrativa.Teatro: El plano de la etapa avanza acto a acto.
 
 ## Preguntas frecuentes
 **¿Puedo tomar notas mientras hago una presentación?**
-Sí, el presentador puede ver sus notas en su pantalla, mientras que el público sólo ve la diapositiva.
+Sí. En la vista de presentador, usted ve sus notas, la audiencia solo ve la diapositiva.
 
 **¿Se puede convertir a otros formatos?**
-Sí, puedes guardar tu presentación como PDF o video.
+Sí. Puede guardar su presentación como PDF o video.
+
+**¿Existe una alternativa gratuita?**
+Sí. LibreOffice Impress y Google Slides basado en la web hacen un trabajo similar. Tenga en cuenta las diferencias de fuente y animación en la transición.
+
+**¿Qué hacer si el archivo crece demasiado?**
+Comprima imágenes, vincule (no incruste) videos y elimine los originales no utilizados. También funciona guardar en secciones en lugar de archivos individuales.
 
 
 ## Términos relacionados

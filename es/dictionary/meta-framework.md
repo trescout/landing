@@ -1,22 +1,34 @@
 # ¿Qué es Meta-framework?
 
-Es una plataforma de desarrollo integral construida sobre herramientas de software centrales.
+Metamarco (en turco, marco superior) es la estructura que reúne las bibliotecas en un único orden.
 
-## Definición
-Meta-framework es una estructura de alto nivel que combina las características ofrecidas por las bibliotecas básicas para acelerar el proceso de desarrollo de software. Por lo general, en los procesos de desarrollo web, facilita el trabajo del desarrollador al automatizar configuraciones complejas.
+## Definición y origen de la palabra
+"Meta" significa más allá. La biblioteca proporciona partes y establece el marco superior: el enrutamiento, la extracción de datos y la compilación están listos. Se puede hacer mucho con poco código.
 
-## Cómo funciona
-Combina las funciones que ofrecen las herramientas básicas y ofrece una estructura dirigida, lo que permite al desarrollador hacer más trabajo con menos código.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Sitio: Páginas instaladas rápidamente.Panel: Paneles de administración.Blog: Directorio de artículos.
 
-## Dónde se usa
-Se utiliza para iniciar rápidamente sitios web modernos y proyectos de software complejos.
+## Profundidad técnica y arquitectura
+Que traen:
 
-## Suele confundirse con
-Su diferencia con las bibliotecas estándar es que sirve como marco que gestiona todo el proceso.
+## Cosas frecuentemente mezcladas
+Se cree que es una biblioteca. La biblioteca llama, el techo llama. Uno es la herramienta, el otro es el taller.
+
+## Uso en diferentes disciplinas
+Compañía: Una estructura que proporciona planes y equipos.Chef: Diseño de menú y cocina.Llavero: Entrega a domicilio terminada.
 
 ## Preguntas frecuentes
-**¿Por qué debería utilizar metamarco?**
-Aumenta su velocidad de desarrollo al automatizar tareas que requieren mucho tiempo, como la instalación y configuración del proyecto.
+**¿Por qué se usa?**
+Asume la carga de la instalación y el ajuste, centrándose en la velocidad.
+
+**¿Cuál es la diferencia de la biblioteca?**
+La biblioteca se llama, el techo manda. Se intercambian control y velocidad.
+
+**¿Cuándo elegir?**
+En la obra estándar se elige inmediatamente, en la arquitectura especial se elige con cautela.
+
+**¿Cabellos?**
+Cerraduras empotradas profundamente. Si se mantiene en la frontera, será transportado.
 
 
 ## Términos relacionados

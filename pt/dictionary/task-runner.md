@@ -1,22 +1,34 @@
 # O que é Task Runner?
 
-É uma ferramenta utilitária que executa automaticamente tarefas repetitivas de software sequencialmente.
+O executor de tarefas é uma ferramenta que executa tarefas repetitivas sequencialmente.
 
-## Definição
-Você delega tarefas como testar código, compactar arquivos ou enviá-los ao servidor para essas ferramentas, em vez de fazê-las manualmente. Ele inicia todo o processo com um comando. Acelera o processo de desenvolvimento de software e reduz a margem de erro.
+## Definição e origem da palavra
+Tarefas como teste, compactação e implantação estão vinculadas a um único comando. A lista segue, o processo acelera, os erros diminuem.
 
-## Como funciona
-Com um arquivo de configuração, você define qual trabalho fazer e em que ordem, e a ferramenta segue esta lista.
+## Como conhecer e usar no dia a dia?
+Web: Compilação e compactação.CI: Etapas de linha.Lançamento: Implantação com um único comando.
 
-## Onde é usado
-É usado em projetos de desenvolvimento web, processos de compilação de código e pipelines de CI/CD.
+## Profundidade Técnica e Arquitetura
+Scripts NPM:
 
-## Costuma ser confundido com
-É diferente do terminal que executa apenas um comando; Há um gerenciamento e sequenciamento de processos envolvidos aqui.
+## Coisas frequentemente misturadas
+É considerado um terminal. O terminal executa, o runner gerencia. Um é o palco, o outro é o diretor.
 
-## Perguntas frequentes
-**Para que tipo de trabalho é utilizado?**
-Para verificar a qualidade do código, otimize arquivos e execute implantação automática.
+## Use em diferentes disciplinas
+Robô: Tarefas de cozinha sequenciais.Máquina de lavar: Lavagem programada.Piloto automático: Rastreamento de rota.
+
+## Perguntas Frequentes
+**Em quais trabalhos é utilizado?**
+Em testes, compilação e implantação. Qualquer trabalho recorrente é um candidato.
+
+**Qual escolher?**
+O ecossistema determina: npm é comum no lado JS, Make é comum no sistema.
+
+**Qual é a diferença do IC?**
+O Runner é executado localmente, o CI é executado na nuvem. Ambos são usados ​​juntos.
+
+**Quando deve ser escrito?**
+Na terceira repetição. A primeira é feita à mão, a segunda por anotação, a terceira por roteiro.
 
 
 ## Termos relacionados

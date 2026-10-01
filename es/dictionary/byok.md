@@ -2,26 +2,35 @@
 
 > Bring Your Own Key
 
-Es un enfoque de seguridad que permite al usuario traer sus propias claves de seguridad para cifrar sus propios datos.
+BYOK (Traiga su propia clave) es el sistema donde guarda la clave de cifrado.
 
-## Definición
-BYOK garantiza que la ubicación donde se almacenan sus datos y la clave que abre sus datos sean independientes entre sí. De esta manera, ni siquiera el proveedor de servicios que almacena los datos puede acceder a sus datos sin su clave.
+## Definición y origen de la palabra
+El lugar donde se guardan los datos está separado del lugar donde se guarda la clave. El proveedor ve los datos pero no puede abrirlos. Tienes control, tienes responsabilidad.
 
-## Cómo funciona
-Usted crea su propia clave de cifrado desde la configuración de seguridad y la carga en el sistema. El sistema bloquea los datos con su clave.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Nube: Disco cifrado y copia de seguridad.Institucional: Datos regulados.AI: Clave API propia.
 
-## Dónde se usa
-Se utiliza en servicios de almacenamiento en la nube y centros de datos corporativos.
+## Profundidad técnica y arquitectura
+Diseño:
 
-## Suele confundirse con
-Se confunde solo con cifrado, pero aquí tienes control total de claves.
+## Cosas frecuentemente mezcladas
+Se cree que es cifrado. El cifrado es la cerradura, BYOK es quien tiene la llave. Una es la puerta y la otra es la disposición del llavero.
+
+## Uso en diferentes disciplinas
+Caja fuerte: Apertura con tu propia llave.Depósito: Entrega en sobre cerrado.Caja de seguridad: Contenido no financiable.
 
 ## Preguntas frecuentes
-**¿Qué pasa si pierdo mi llave?**
-Es posible que pierda permanentemente el acceso a sus datos, razón por la cual la administración de claves es tan crítica.
+**¿Qué pasa si pierdo?**
+El acceso es permanente. Un plan de respaldo y testamentario es imprescindible.
 
-**¿Por qué debería utilizar BYOK?**
-Para aumentar la privacidad de los datos y restringir el acceso de los proveedores de servicios a los datos.
+**¿Por qué se usa?**
+Para desactivar el acceso del proveedor. Requiere confidencialidad y cumplimiento.
+
+**¿Qué hay en las herramientas de IA?**
+Funciona con su propia clave API. Tienes la cuota y la factura.
+
+**¿Cuánto cuesta?**
+Hay una comisión en efectivo y de gestión. Da sus frutos en datos críticos.
 
 
 ## Términos relacionados

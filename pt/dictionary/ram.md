@@ -2,26 +2,35 @@
 
 > Random Access Memory
 
-Uma unidade de memória temporária onde o computador lê e grava rapidamente os dados que utiliza ativamente.
+RAM (Random Access Memory) é a memória temporária onde o processador mantém os dados ativos.
 
-## Definição
-É um espaço de trabalho onde os dados são apagados quando o computador é desligado, mas funciona na velocidade da luz porque está muito próximo do processador. O processador extrai todos os arquivos necessários para realizar um trabalho aqui.
+## Definição e origem da palavra
+Seu conteúdo é apagado quando o computador é desligado, mas por estar próximo ao processador, funciona em altíssima velocidade. O processador extrai arquivos aqui enquanto trabalha. Quando os programas são abertos, eles são copiados do disco para a RAM.
 
-## Como funciona
-Quando os programas são abertos, eles são copiados do disco rígido para a RAM, o processador recebe e processa os dados de lá.
+## Como conhecer e usar no dia a dia?
+Computador: Guias e aplicativos.Telefone: Aplicativos em segundo plano.Apresentador: Solicitações simultâneas.
 
-## Onde é usado
-É uma peça essencial de hardware em todos os computadores, telefones e servidores.
+## Profundidade Técnica e Arquitetura
+Tipos:
 
-## Costuma ser confundido com
-Misto com armazenamento (HDD/SSD); RAM é o espaço de trabalho temporário, enquanto o armazenamento é a biblioteca permanente.
+## Coisas frequentemente misturadas
+É considerado armazenamento. RAM é um espaço de trabalho temporário, o disco é uma biblioteca permanente. Quando ele é desligado, a RAM é esvaziada e o disco permanece.
 
-## Perguntas frequentes
+## Use em diferentes disciplinas
+Mesa: O número de arquivos abertos aumenta à medida que a largura aumenta.Ficar em pé: Mantendo o material em mãos.Quadro branco: Área de notas temporárias.
+
+## Perguntas Frequentes
 **O que acontece se a RAM ficar cheia?**
-O computador fica lento ou os aplicativos fecham.
+O sistema fica lento ou os aplicativos fecham. As guias desnecessárias são fechadas e a capacidade é aumentada, se necessário.
 
-**Mais RAM sempre aumenta a velocidade?**
-Aumenta para o nível requerido e o excesso permanece ocioso.
+**Muito acelera?**
+Sim, ele espera ocioso o tempo que for necessário. Se o gargalo for o disco, aumentar a RAM não importa.
+
+**Qual é a diferença entre SSD?**
+SSD é armazenamento permanente, RAM é espaço temporário. Os dois trabalham juntos, um não substitui o outro.
+
+**Quanto é suficiente?**
+8 GB para trabalho diário, 16 GB para desenvolvimento e 32 GB para trabalho pesado são equivalentes práticos.
 
 
 ## Termos relacionados
@@ -30,9 +39,13 @@ Aumenta para o nível requerido e o excesso permanece ocioso.
 - [CPU](/pt/dictionary/cpu/)
 
 ## Ferramentas relacionadas
+- [Free for Dev](/pt/discover/free-for-dev/)
 - [Colibri](/pt/discover/colibri/)
 - [Llmfit](/pt/discover/llmfit/)
+- [CasaOS](/pt/discover/casaos/)
+- [Airllm](/pt/discover/airllm/)
 - [Invidious](/pt/discover/invidious/)
+- [Omlx](/pt/discover/omlx/)
 - [Needle](/pt/discover/needle/)
 
 ---

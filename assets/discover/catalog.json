@@ -901,13 +901,13 @@
     "slug": "ppf-contact-solver",
     "title": "PPF Contact Solver",
     "tagline": "Fizik simülasyonları için temas çözücü: Kumaş, katı ve ip etkileşimlerinde ZOZO'nun fizik motoru.",
-    "meta": "★ 4.513 · Apache-2.0",
+    "meta": "★ 4.514 · Apache-2.0",
     "source": "GitHub",
     "date": "2026-05-26",
     "tags": [
       "Geliştirici aracı"
     ],
-    "stars": 4513,
+    "stars": 4514,
     "image": "/assets/discover/og/ppf-contact-solver.webp",
     "headline": "Fizik Simülasyonlarında Temasları Yönetin",
     "last_review": "2026-10-01",
@@ -1001,6 +1001,13 @@
         "yildiz": 4513,
         "onceki_yildiz": 4507,
         "surum": "addon-2026-10-01-0946",
+        "surum_tarihi": "2026-10-01"
+      },
+      {
+        "tarih": "2026-10-01",
+        "yildiz": 4514,
+        "onceki_yildiz": 4513,
+        "surum": "addon-2026-10-01-2043",
         "surum_tarihi": "2026-10-01"
       }
     ],
@@ -10867,7 +10874,7 @@
     "slug": "kilocode",
     "title": "Kilocode",
     "tagline": "Kilo, yazılım geliştirme süreçlerini hızlandırmak amacıyla tasarlanmış hepsi bir arada ajan tabanlı mühendislik platformudur…",
-    "meta": "★ 27.420 · TypeScript",
+    "meta": "★ 27.460 · TypeScript",
     "image": "/assets/discover/og/kilocode.webp",
     "source": "GitHub",
     "date": "2026-06-19",
@@ -10875,7 +10882,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 27420,
+    "stars": 27460,
     "lite": false,
     "headline": "Çok yönlü yapay zekâ kodlama ajanı",
     "last_review": "2026-10-01",
@@ -11047,6 +11054,13 @@
         "onceki_yildiz": 27359,
         "surum": "jetbrains/v7.1.8",
         "surum_tarihi": "2026-09-25"
+      },
+      {
+        "tarih": "2026-10-01",
+        "yildiz": 27460,
+        "onceki_yildiz": 27420,
+        "surum": "v7.8.3",
+        "surum_tarihi": "2026-10-01"
       }
     ],
     "tagline_en": "Kilo is an all-in-one agent-based engineering platform designed to accelerate software development processes…",
@@ -11524,7 +11538,7 @@
     "slug": "agent-native",
     "title": "Agent Native",
     "tagline": "BuilderIO tarafından geliştirilen agent-native, yapay zekâ ajanları için yerel uygulamalar (agent-native applications)…",
-    "meta": "★ 6.997 · TypeScript",
+    "meta": "★ 7.012 · TypeScript",
     "image": "/assets/discover/og/agent-native.webp",
     "source": "GitHub",
     "date": "2026-06-20",
@@ -11532,7 +11546,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 6997,
+    "stars": 7012,
     "lite": false,
     "headline": "Yapay zekâ ajanları için uygulama çerçevesi",
     "last_review": "2026-10-01",
@@ -11892,6 +11906,13 @@
         "yildiz": 6997,
         "onceki_yildiz": 6966,
         "surum": "@agent-native/skills@0.3.20",
+        "surum_tarihi": "2026-10-01"
+      },
+      {
+        "tarih": "2026-10-01",
+        "yildiz": 7012,
+        "onceki_yildiz": 6997,
+        "surum": "@agent-native/core-corpus@0.198.8",
         "surum_tarihi": "2026-10-01"
       }
     ],
@@ -19856,7 +19877,7 @@
     "slug": "destructive-command-guard",
     "title": "Destructive Command Guard",
     "tagline": "Yıkıcı Komut Koruması (destructive command guard), yapay zekâ ajanları tarafından çalıştırılan tehlikeli git ve kabuk (shell)…",
-    "meta": "★ 6.072 · Rust",
+    "meta": "★ 6.074 · Rust",
     "image": "/assets/discover/og/destructive-command-guard.webp",
     "source": "GitHub",
     "date": "2026-07-13",
@@ -19864,7 +19885,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 6072,
+    "stars": 6074,
     "lite": false,
     "headline": "Yapay zekâ ajanları için komut koruması",
     "last_review": "2026-10-01",
@@ -19994,6 +20015,13 @@
         "onceki_yildiz": 6070,
         "surum": "v0.15.1",
         "surum_tarihi": "2026-09-29"
+      },
+      {
+        "tarih": "2026-10-01",
+        "yildiz": 6074,
+        "onceki_yildiz": 6072,
+        "surum": "v0.15.2",
+        "surum_tarihi": "2026-10-01"
       }
     ],
     "tagline_en": "Destructive Command Guard, dangerous git and shell attacks run by artificial intelligence agents…",
@@ -30765,7 +30793,7 @@
     "slug": "unsloth",
     "title": "Unsloth",
     "tagline": "Unsloth, büyük dil modelleri (LLM) ve görsel oluşturma modelleri (diffusion models) için yerel ortamda eğitim ve çalıştırma…",
-    "meta": "★ 76.901 · Python",
+    "meta": "★ 77.109 · Python",
     "image": "/assets/discover/og/unsloth.webp",
     "source": "GitHub",
     "date": "2026-08-14",
@@ -30773,7 +30801,7 @@
       "Yapay zekâ araçları",
       "Geliştirici aracı"
     ],
-    "stars": 76901,
+    "stars": 77109,
     "lite": false,
     "headline": "Yerel yapay zekâ modellerini eğit ve çalıştır",
     "tagline_en": "Unsloth provides native training and execution for large language models (LLM) and diffusion models.",
@@ -30859,6 +30887,13 @@
         "onceki_yildiz": 76837,
         "surum": "v0.1.900-beta",
         "surum_tarihi": "2026-09-28"
+      },
+      {
+        "tarih": "2026-10-01",
+        "yildiz": 77109,
+        "onceki_yildiz": 76901,
+        "surum": "v0.1.902-beta",
+        "surum_tarihi": "2026-10-01"
       }
     ],
     "last_seen": "2026-08-17"

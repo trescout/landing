@@ -1,51 +1,40 @@
 # What is Telemetry?
 
-> English: Telemetry · Etymology: Greek tele (far off, distant) + metron (measure)
+Telemetry is the automatic collection and transmission of status information from software and devices to a central location.
 
-**Category:** Dev  
-**Last updated:** 2026-09-22
+## Definition and Word Origin
+The word comes from the Greek roots tele (far) and metron (measure). Applications send reports on how the software is performing to the developer: which features are used the most, where the application crashes. For the user, it is generally a data stream flowing silently in the background.
 
-Telemetry refers to the automated recording, collection, and transmission of operational data, metrics, logs, and diagnostic traces from distributed software applications and hardware systems to central monitoring platforms.
-
-## Definition and Etymology
-The term combines the Greek tele (distant) and metron (measure). In modern software engineering, telemetry continuously streams runtime health and usage characteristics back to developers: tracking which capabilities are engaged, identifying where crashes manifest, and highlighting latency bottlenecks across distributed cloud systems.
-
-## Everyday Context and Practical Usage
-Everyday practical applications of telemetry:
-- **Crash Reporting:** Capturing automated stack traces and device states during application exceptions.- **Product Analytics:** Measuring feature adoption curves and navigation paths to prioritize engineering effort.- **Infrastructure Monitoring:** Tracking CPU saturation, memory utilization, and network throughput across Kubernetes nodes.
+## How to Know and Use in Daily Life?
+Debugging: Automatic collection of crash reports.Product decision: Simplifying an underused button.Performance: Monitoring startup time version by version.
 
 ## Technical Depth and Architecture
-The Three Pillars of Telemetry and Observability:
-- **Logs:** Discrete, timestamped event records (e.g. 'checkout transaction initiated').- **Metrics:** Numeric aggregations sampled over periodic time intervals (e.g. request rate, error percentage).- **Traces:** End-to-end journey maps following a single user request as it traverses multiple internal microservices.- **OpenTelemetry (OTel):** The global open-source standard providing vendor-neutral SDKs and collectors for unified telemetry ingestion.
+The three pillars of observability:
 
-## Commonly Confused With
-It is frequently confused with plain logging. A log is an isolated record of an individual event. In contrast, telemetry is the complete multi-dimensional umbrella encompassing metrics, structured logs, and distributed traces systematically transmitted across the network.
+## Frequently Mixed Things
+It can be confused with logging. A log is a single event line. A metric is a numerical summary. A trace is the journey of a request. Telemetry is the name of the process of collecting and transmitting these three.
 
-## Cross-Disciplinary Perspectives
-Analogous measurement practices in other industries:
-- **Medicine:** Hospital bedside monitors streaming cardiac pulse and oxygen saturation to the central nursing station.- **Aviation:** Flight data recorders and avionics beaming engine diagnostics in real time to ground maintenance teams.- **Motorsport:** Formula 1 race cars transmitting thousands of sensor readings every lap to trackside engineers.
-
-## Analogy
-It is like the sensor array in a modern automobile that continuously monitors engine temperature, oil pressure, and fuel reserves, reporting critical data straight to the driver dashboard.
+## Use in Different Disciplines
+Hospital: A patient monitor transmitting the pulse to the nurse's screen.Aviation: Storing flight data in the black box.Energy: Meters reporting consumption to the center.
 
 ## Frequently Asked Questions
+**Does it affect my privacy?**
+Data is generally collected anonymously and in aggregate. You can see which data is being sent in the settings section of the application and turn it off.
 
-**Does software telemetry compromise user privacy?**  
-Responsible telemetry anonymizes or strips Personally Identifiable Information (PII) before transmission and provides explicit opt-out toggles for end users.
+**What is the difference from observability?**
+Telemetry collects and transmits data. Observability is the ability to understand the inner workings of a system using the collected data. One is a tool, the other is a goal.
 
-**What is the difference between telemetry and monitoring?**  
-Telemetry is the raw mechanism of collecting and sending data; monitoring is the active process of querying that data and triggering alerts when thresholds are breached.
+**Can it be turned off?**
+In most applications, yes, it can be turned off in the settings. On corporate devices, it may remain on due to policy.
 
-**Why has OpenTelemetry become so dominant?**  
-Because it unifies metrics, traces, and logs under a single open standard, preventing vendor lock-in with proprietary monitoring vendors.
+**Is there a cost?**
+Yes. There is a cost for data transfer and storage. Therefore, sampling is performed during high traffic, where only a portion of events is sent rather than every single one.
 
-**How does telemetry handle network disconnections?**  
-Modern telemetry agents buffer event batches locally in memory or disk and replay transmissions once network connectivity is restored.
 
 ## Related terms
 - [Logs](/en/dictionary/logs/)
 - [Observability](/en/dictionary/observability/)
-- [Metrics](/en/dictionary/metrics/)
+- [Traces](/en/dictionary/traces/)
 
 ---
-Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/telemetry/
+Source: TreScout Dictionary · https://trescout.com/en/dictionary/telemetry/

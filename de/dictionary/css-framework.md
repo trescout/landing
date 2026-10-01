@@ -1,22 +1,34 @@
 # Was ist CSS Framework?
 
-Dabei handelt es sich um ein Toolkit, das vorgefertigte Designvorlagen und Regeln bietet, um das Erscheinungsbild von Webseiten schnell zu verschönern.
+CSS-Framework (CSS-Framework auf Türkisch) ist ein Toolset, das vorgefertigte Stile bietet.
 
-## Definition
-Wenn Sie eine Website erstellen, schreiben Sie nicht von Grund auf, wie die Schaltflächen, Menüs oder Schriftarten aussehen sollen, sondern nutzen die vorgefertigten Strukturen, die diese Frameworks bieten. Dadurch können Sie in viel kürzerer Zeit professionell aussehende Websites erstellen.
+## Definition und Wortherkunft
+Anstatt die Schaltfläche, das Menü und die Schriftart von Grund auf zu schreiben, wird eine vorgefertigte Klasse verwendet. Der professionelle Look entsteht in kurzer Zeit. Tailwind, Bootstrap und Bulma sind bekannte Beispiele.
 
-## So funktioniert es
-Sie fügen die Dateien des Frameworks zu Ihrem Projekt hinzu und verwenden die vorgefertigten Namen, die es in Ihren Codes bietet.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Website: Schnelle Schnittstelleneinrichtung.Panel: Verwaltungsbildschirme.Prototyp: Ideenexperiment.
 
-## Wo es eingesetzt wird
-Es wird in den Schnittstellenentwicklungsprozessen von Websites verwendet.
+## Technische Tiefe und Architektur
+Ansätze:
 
-## Häufig verwechselt mit
-Kann mit Utility-First verwechselt werden; Ein Utility-First-Ansatz ist ein Framework, und ein Framework ist ein Tool, das diesen Ansatz möglicherweise unterstützt oder auch nicht.
+## Häufig gemischte Dinge
+Es gilt als nutzwertorientiert. Es ist der Ansatz, das Framework ist das Werkzeug. Das Tool unterstützt den Ansatz entweder oder unterstützt ihn nicht.
 
-## Häufige Fragen
-**Sind nicht alle Websites ähnlich?**
-Frameworks sind flexibel; Sie können originelle Designs erstellen, indem Sie Ihre eigenen Farben und Stile hinzufügen.
+## Einsatz in verschiedenen Disziplinen
+Türset: Fertiger Rahmen und Flügel.Lego: Teile kombinieren.Fertiggerichte: Beheizte Platte.
+
+## Häufig gestellte Fragen
+**Sind die Seiten nicht ähnlich?**
+Im Gegensatz zu. Die Identität ändert sich, wenn sich Farbe, Typ und Layout ändern.
+
+**Wann verwenden?**
+Geschwindigkeit ist gefragt. Für das besondere Design wird Handarbeit gewählt.
+
+**Was ist seine Leistung?**
+Es ist leichtgewichtig, wenn der nicht verwendete Stil extrahiert wird. Es bläht den Rohzustand auf.
+
+**Welches soll gewählt werden?**
+Das Team gibt die Gewohnheit vor. Dokumentation und Community sind gefragt.
 
 
 ## Verwandte Begriffe

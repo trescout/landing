@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>O que é PowerPoint? · Glossário · TreScout</title>
-<meta name="description" content="É um programa de preparação de apresentações que permite apresentar informações em slides visuais.">
+<meta name="description" content="PowerPoint é o aplicativo de apresentação baseado em slides da Microsoft. É um programa de preparação de apresentações que permite apresentar informações e">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/pt/dictionary/powerpoint/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/powerpoint/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/powerpoint/">
 <link rel="alternate" type="text/markdown" href="/pt/dictionary/powerpoint.md">
 <meta property="og:title" content="O que é PowerPoint?">
-<meta property="og:description" content="É um programa de preparação de apresentações que permite apresentar informações em slides visuais.">
+<meta property="og:description" content="PowerPoint é o aplicativo de apresentação baseado em slides da Microsoft. É um programa de preparação de apresentações que permite apresentar informações e">
 <meta property="og:url" content="https://trescout.com/pt/dictionary/powerpoint/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="pt_BR">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="O que é PowerPoint?">
-<meta name="twitter:description" content="É um programa de preparação de apresentações que permite apresentar informações em slides visuais.">
+<meta name="twitter:description" content="PowerPoint é o aplicativo de apresentação baseado em slides da Microsoft. É um programa de preparação de apresentações que permite apresentar informações e">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "PowerPoint",
-  "description": "É um programa de preparação de apresentações que permite apresentar informações em slides visuais.",
+  "description": "PowerPoint é o aplicativo de apresentação baseado em slides da Microsoft.",
   "inLanguage": "pt-BR",
   "url": "https://trescout.com/pt/dictionary/powerpoint/",
   "inDefinedTermSet": {
@@ -55,14 +55,19 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/pt/dictionary/">← Glossário</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-08-15">Última atualização: 15 de agosto de 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-09-22">Última atualização: 22 de setembro de 2026</time></div>
 <h1 class="disc-title">O que é <span class="disc-accent">PowerPoint</span>?</h1>
-<p class="disc-lead">É um programa de preparação de apresentações que permite apresentar informações em slides visuais.</p>
-<section class="disc-sec"><h2>Definição</h2><p>PowerPoint é um palco digital que você pode usar para explicar suas ideias, dados ou projetos para um público. Ele permite combinar texto, imagens e gráficos em slides organizados.</p></section>
+<p class="disc-lead">PowerPoint é o aplicativo de apresentação baseado em slides da Microsoft.</p>
+<section class="disc-sec"><h2>Definição e origem da palavra</h2><p>O programa nasceu em 1987 da empresa Forethought e foi adquirido pela Microsoft logo depois. É o palco digital que você usa para explicar suas ideias, dados ou projetos para um público: você combina texto, imagens e gráficos em slides organizados. O formato de arquivo .pptx é na verdade um pacote XML compactado.</p></section>
 <div class="dict-analogy"><strong>Analogia:</strong> É como um baralho de cartas ilustrado que um contador de histórias segura nas mãos para apoiar sua narrativa.</div>
-<section class="disc-sec"><h2>Como funciona</h2><p>Você abre um slide em branco e cria páginas adicionando caixas de texto, imagens ou gráficos a ele. Em seguida, você mostra essas páginas sequencialmente em modo de apresentação.</p></section>
-<section class="disc-sec"><h2>Onde é usado</h2><p>Usado em reuniões de negócios, projetos escolares e conferências.</p></section>
-<section class="disc-sec"><h2>Perguntas frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Posso fazer anotações durante uma apresentação?</p><p class="dict-faq-a">Sim, o apresentador pode ver suas anotações na tela, enquanto o público vê apenas o slide.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Pode ser convertido para outros formatos?</p><p class="dict-faq-a">Sim, você pode salvar sua apresentação como PDF ou vídeo.</p></div></div></section>
+<section class="disc-sec"><h2>Como conhecer e usar no dia a dia?</h2><p><strong>Reuniões de negócios:</strong> Relatórios trimestrais e apresentações de status do projeto.<br><strong>Escola:</strong> Trabalhos de casa e defesas de teses.<br><strong>Conferências:</strong> Palestras e painéis.<br><strong>Educação:</strong> Conjuntos de palestras.</p></section>
+<section class="disc-sec"><h2>Profundidade Técnica e Arquitetura</h2><p>Partes de uma apresentação eficaz:</p><p><strong>Slide mestre (Slide Master):</strong> Modelo onde fonte, cor e logotipo são gerenciados em um só lugar. Em vez de formatar cada slide separadamente, você edita o original.<br><strong>Visualização do servidor:</strong> Você vê suas anotações, o público vê apenas o slide.<br><strong>Exportar:</strong> A apresentação pode ser salva como PDF ou vídeo.<br><strong>Automação:</strong> Representações repetidas podem ser geradas com código. Abrir uma apresentação vazia com Python é o seguinte:</p><pre><code>from pptx import Presentation
+sunum = Presentation()
+slayt = sunum.slides.add_slide(sunum.slide_layouts[5])
+slayt.shapes.title.text = "Merhaba"
+sunum.save("ornek.pptx")</code></pre><p>Via de regra, há apenas uma ideia por slide. Apoiar o texto com imagens é mais eficaz do que escrever texto na parede.</p></section>
+<section class="disc-sec"><h2>Use em diferentes disciplinas</h2><p><strong>Quadro de aula:</strong> Layout do quadro que explica o tema passo a passo.<br><strong>Álbum de fotos:</strong> O fluxo visual que alinha a narrativa.<br><strong>Teatro:</strong> Plano de estágio progredindo ato por ato.</p></section>
+<section class="disc-sec"><h2>Perguntas Frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Posso fazer anotações durante uma apresentação?</p><p class="dict-faq-a">Sim. Na visualização do apresentador, você vê suas anotações, o público vê apenas o slide.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Pode ser convertido para outros formatos?</p><p class="dict-faq-a">Sim. Você pode salvar sua apresentação como PDF ou vídeo.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Existe uma alternativa gratuita?</p><p class="dict-faq-a">Sim. O LibreOffice Impress e o Google Slides baseado na web fazem um trabalho semelhante. Observe as diferenças de fonte e animação na transição.</p></div><div class="dict-faq-item"><p class="dict-faq-q">O que fazer se o arquivo ficar muito grande?</p><p class="dict-faq-a">Compacte imagens, vincule (não incorpore) vídeos e elimine originais não utilizados. Salvar em seções em vez de arquivos únicos também funciona.</p></div></div></section>
 <section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/design-tool/">Design Tool</a><a href="/pt/dictionary/user-interface/">User Interface</a><a href="/pt/dictionary/dashboard/">Dashboard</a></div></section>
 <section class="disc-sec"><h2>Ferramentas relacionadas</h2><div class="dict-related"><a href="/pt/discover/markitdown/">MarkItDown</a><a href="/pt/discover/ppt-master/">Ppt Master</a><a href="/pt/discover/officecli/">OfficeCLI</a></div></section>
 <aside class="disc-cta"><p><strong>Explore ferramentas relacionadas e relatórios diários.</strong> Novos termos e ferramentas surgem todos os dias · junte-se ao acesso antecipado da TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-pt" data-page-type="dictionary" data-content-slug="powerpoint" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Seu e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Acesso antecipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Li o <a href="/pt/privacy.html" target="_blank" rel="noopener">aviso de privacidade</a> e concordo com o tratamento do meu e-mail para esta finalidade.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/pt/dictionary/">Todos os termos →</a></aside>

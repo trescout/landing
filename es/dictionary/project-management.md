@@ -1,19 +1,31 @@
 # ¿Qué es Project Management?
 
-Es la planificación y gestión del tiempo, recursos y tareas para lograr un objetivo específico.
+La gestión de proyectos es la disciplina de planificar el tiempo, los recursos y las tareas para alcanzar un objetivo.
 
-## Definición
-Te hace comprender que un proyecto de software no se trata solo de escribir código. Esta disciplina controla qué trabajo se realizará primero, quién es responsable de qué y cuándo se terminará el proyecto. Se trata de trazar una hoja de ruta ordenada para un resultado exitoso.
+## Definición y origen de la palabra
+Un proyecto de software no es solo escribir código: qué tarea se hace primero, quién es responsable de qué y cuándo terminará el trabajo se gestionan con esta disciplina. Los métodos clásicos (Gantt, cascada) planifican el trabajo desde el principio. Los métodos ágiles (Agile, Scrum, Kanban), por otro lado, renuevan el plan con ciclos cortos.
 
-## Cómo funciona
-El proceso se sigue paso a paso mediante listas de tareas, calendarios y herramientas de seguimiento del trabajo.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Equipos de software: Sprints de dos semanas y reuniones diarias breves.Construcción: Calendario de exploración, licencias y certificaciones de obra.Evento: Lista de preparación para bodas o conferencias.
 
-## Dónde se usa
-Se utiliza en casi todos los sectores, desde equipos de software hasta proyectos de construcción.
+## Profundidad técnica y arquitectura
+Bloques de construcción de la disciplina:
+
+## Uso en diferentes disciplinas
+Cocina: El chef que planifica qué plato debe entrar al horno y cuándo.Orquesta: El programa que organiza los ensayos según el día del concierto.Obra de construcción: El plan de campo que organiza el orden de las grúas y el hormigón.
 
 ## Preguntas frecuentes
 **¿Por qué los desarrolladores de software utilizan esto?**
-Para evitar que proyectos complejos se desmoronen y mantener a todos enfocados en el mismo objetivo.
+Para evitar que el proyecto complejo se desmorone y asegurar que todos se enfoquen en el mismo objetivo.
+
+**¿Cuál es la diferencia entre cascada y ágil?**
+El modelo en cascada planifica desde el principio y considera el cambio costoso. El modelo ágil renueva el plan en ciclos cortos y acepta el cambio. En trabajos inciertos, el modelo ágil es más adecuado.
+
+**¿Es necesaria una herramienta?**
+No. Un equipo pequeño también puede gestionarse con un tablero de papel. Cuando el equipo crece, las herramientas digitales (Jira, Trello, Linear) mantienen el orden.
+
+**¿Cómo se aplica en un equipo pequeño?**
+Una lista única, un objetivo semanal y una revisión breve son suficientes. Mantener la reunión corta es más importante que el método.
 
 
 ## Términos relacionados

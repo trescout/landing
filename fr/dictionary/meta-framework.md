@@ -1,22 +1,34 @@
 # Qu'est-ce que Meta-framework ?
 
-Il s'agit d'une plate-forme de développement complète construite sur des outils logiciels de base.
+Le méta-framework (en turc, cadre supérieur) est la structure qui regroupe les bibliothèques dans un seul ordre.
 
-## Définition
-Le méta-framework est une structure de haut niveau qui combine les fonctionnalités offertes par les bibliothèques de base pour accélérer le processus de développement logiciel. Habituellement, dans les processus de développement Web, cela facilite le travail du développeur en automatisant des paramètres complexes.
+## Définition et origine du mot
+« Meta » signifie au-delà. La bibliothèque fournit des pièces et établit le cadre supérieur : le routage, l'extraction de données et la compilation sont prêts. Beaucoup de choses peuvent être faites avec peu de code.
 
-## Comment ça marche
-Il combine les fonctionnalités offertes par les outils de base et offre une structure dirigée, permettant au développeur de faire plus de travail avec moins de code.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Site : Pages rapidement installées.Panneau: Écrans d'administration.Blog : Annuaire d'articles.
 
-## Où est-ce utilisé
-Il est utilisé pour lancer rapidement des sites Web modernes et des projets logiciels complexes.
+## Profondeur technique et architecture
+Ce qu'ils apportent :
 
-## Souvent confondu avec
-Sa différence avec les bibliothèques standards est qu'elle sert de cadre qui gère l'ensemble du processus.
+## Choses fréquemment mélangées
+On pense qu'il s'agit d'une bibliothèque. La bibliothèque appelle, le toit appelle. L'un est l'outil, l'autre est l'atelier.
 
-## Questions fréquentes
-**Pourquoi devrais-je utiliser le méta-framework ?**
-Il augmente votre vitesse de développement en automatisant les tâches fastidieuses telles que l'installation et la configuration du projet.
+## Utilisation dans différentes disciplines
+Entreprise: Une structure qui met à disposition des plans et des équipes.Chef : Agencement des menus et de la cuisine.Clé en main : Livraison à domicile terminée.
+
+## Foire aux questions
+**Pourquoi est-il utilisé ?**
+Cela prend le fardeau de l'installation et du réglage, en se concentrant sur la vitesse.
+
+**Quelle est la différence entre les bibliothèques ?**
+La bibliothèque s'appelle, le toit règne. Le contrôle et la vitesse sont échangés.
+
+**Quand le choisir ?**
+Dans un ouvrage standard, il est choisi immédiatement, dans une architecture spéciale, il est choisi avec prudence.
+
+**Des serrures ?**
+Serrures profondément encastrées. S'il est conservé à la frontière, il sera transporté.
 
 
 ## Termes liés

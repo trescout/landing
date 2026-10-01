@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>O que é LoRA? · Glossário · TreScout</title>
-<meta name="description" content="É uma técnica de fazer com que um grande modelo de inteligência artificial se especialize em um determinado assunto, atualizando apenas uma pequena parte d">
+<meta name="description" content="LoRA (Low-Rank Adaptation) é uma técnica de especialização do modelo com pequenas adições.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/pt/dictionary/lora/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/lora/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/lora/">
 <link rel="alternate" type="text/markdown" href="/pt/dictionary/lora.md">
 <meta property="og:title" content="O que é LoRA?">
-<meta property="og:description" content="É uma técnica de fazer com que um grande modelo de inteligência artificial se especialize em um determinado assunto, atualizando apenas uma pequena parte d">
+<meta property="og:description" content="LoRA (Low-Rank Adaptation) é uma técnica de especialização do modelo com pequenas adições.">
 <meta property="og:url" content="https://trescout.com/pt/dictionary/lora/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="pt_BR">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="O que é LoRA?">
-<meta name="twitter:description" content="É uma técnica de fazer com que um grande modelo de inteligência artificial se especialize em um determinado assunto, atualizando apenas uma pequena parte d">
+<meta name="twitter:description" content="LoRA (Low-Rank Adaptation) é uma técnica de especialização do modelo com pequenas adições.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "LoRA",
-  "description": "É uma técnica de fazer com que um grande modelo de inteligência artificial se especialize em um determinado assunto, atualizando apenas uma pequena parte dele sem alterar todo o modelo.",
+  "description": "LoRA (Low-Rank Adaptation) é uma técnica de especialização do modelo com pequenas adições.",
   "inLanguage": "pt-BR",
   "url": "https://trescout.com/pt/dictionary/lora/",
   "inDefinedTermSet": {
@@ -55,18 +55,20 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/pt/dictionary/">← Glossário</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossário · AI</span><time class="dict-time" datetime="2026-08-15">Última atualização: 15 de agosto de 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glossário · AI</span><time class="dict-time" datetime="2026-09-22">Última atualização: 22 de setembro de 2026</time></div>
 <h1 class="disc-title">O que é <span class="disc-accent">LoRA</span>?</h1>
 <p class="dict-en">Low-Rank Adaptation</p>
-<p class="disc-lead">É uma técnica de fazer com que um grande modelo de inteligência artificial se especialize em um determinado assunto, atualizando apenas uma pequena parte dele sem alterar todo o modelo.</p>
-<section class="disc-sec"><h2>Definição</h2><p>LoRA é um método que reduz o enorme poder de processamento necessário para treinar um modelo massivo de IA. Você treina apenas uma camada muito pequena do modelo para adicionar um novo estilo ou informação a ele, preservando seus recursos básicos.</p></section>
-<div class="dict-analogy"><strong>Analogia:</strong> Em vez de reescrever uma enorme biblioteca, é como adicionar um pequeno post-it com apenas algumas notas importantes.</div>
-<section class="disc-sec"><h2>Como funciona</h2><p>Você congela os pesos do modelo e apenas treina um pequeno arquivo chamado LoRA. Ao instalar este arquivo sobre o modelo principal, você o personaliza.</p></section>
-<section class="disc-sec"><h2>Onde é usado</h2><p>É usado no processo de criação de recursos visuais personalizados ou no desenvolvimento de estilos de texto especiais.</p></section>
-<section class="disc-sec"><h2>Costuma ser confundido com</h2><p>Misturado com ajuste fino; Embora o ajuste fino possa abranger todo o modelo, o LoRA é muito mais leve e focado.</p></section>
-<section class="disc-sec"><h2>Perguntas frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">O uso do LoRA torna o modelo mais lento?</p><p class="dict-faq-a">Não, geralmente não causa perda de desempenho porque é muito leve.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Mais de um LoRA pode ser instalado em um único modelo?</p><p class="dict-faq-a">Sim, diferentes arquivos LoRA podem ser combinados para diferentes recursos.</p></div></div></section>
+<p class="disc-lead">LoRA (Low-Rank Adaptation) é uma técnica de especialização do modelo com pequenas adições.</p>
+<section class="disc-sec"><h2>Definição e origem da palavra</h2><p>&quot;Classificação baixa&quot; significa classificação baixa. O modelo gigante está congelado, o pequeno adaptador é treinado e conectado a ele. O toque básico é mantido, um novo estilo é adicionado. O custo é uma fração do valor total do curso.</p></section>
+<div class="dict-analogy"><strong>Analogia:</strong> É como um pequeno bilhete preso numa grande biblioteca; O livro para e informações são adicionadas.</div>
+<section class="disc-sec"><h2>Como conhecer e usar no dia a dia?</h2><p><strong>Visual:</strong> Produção de estilo pessoal.<br><strong>Escrita:</strong> Adaptação de linguagem institucional.<br><strong>Som:</strong> Voz do personagem.</p></section>
+<section class="disc-sec"><h2>Profundidade Técnica e Arquitetura</h2><p>Layout:</p><p><strong>Sorvete:</strong> O peso principal é fixo.<br><strong>Adaptador:</strong> Duas pequenas matrizes são treinadas.<br><strong>Classificação:</strong> Configuração de tamanho, geralmente 8 ou 16.<br><strong>Aderindo:</strong> É coletado na saída.</p><p>Configuração:</p><pre><code>rank: 8
+hedef: dikkat katmanları</code></pre><p>A versão QLoRA limita ainda mais a memória. O risco de esquecimento é menor do que o treino completo.</p></section>
+<section class="disc-sec"><h2>Coisas frequentemente misturadas</h2><p>É considerado ajuste fino. Abrange todo o modelo, é uma adição leve. Uma é a reforma da casa e a outra é a pintura do quarto.</p></section>
+<section class="disc-sec"><h2>Use em diferentes disciplinas</h2><p><strong>Notas:</strong> Papel grudado na biblioteca.<br><strong>Lente:</strong> Filtro anexado à câmera.<br><strong>Correção:</strong> Um brasão costurado nas roupas.</p></section>
+<section class="disc-sec"><h2>Perguntas Frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Desacelera?</p><p class="dict-faq-a">Geralmente não. A adição é pequena, o atraso não é perceptível.</p></div><div class="dict-faq-item"><p class="dict-faq-q">É usado mais de uma vez?</p><p class="dict-faq-a">Sim. Os adaptadores são combinados para diferentes trabalhos.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Não esqueça, ok?</p><p class="dict-faq-a">É menos que a educação completa. Determina a classificação e o equilíbrio dos dados.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Quando não é suficiente?</p><p class="dict-faq-a">Se for necessário conhecimento aprofundado, é necessário treinamento completo ou RAG.</p></div></div></section>
 <section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/fine-tuning/">Fine-tuning</a><a href="/pt/dictionary/ai-models/">AI Models</a><a href="/pt/dictionary/generative-ai/">Generative AI</a></div></section>
-<section class="disc-sec"><h2>Ferramentas relacionadas</h2><div class="dict-related"><a href="/pt/discover/ltx-2/">LTX 2</a></div></section>
+<section class="disc-sec"><h2>Ferramentas relacionadas</h2><div class="dict-related"><a href="/pt/discover/minimind/">Minimind</a><a href="/pt/discover/ltx-2/">LTX 2</a></div></section>
 <aside class="disc-cta"><p><strong>Explore ferramentas relacionadas e relatórios diários.</strong> Novos termos e ferramentas surgem todos os dias · junte-se ao acesso antecipado da TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-pt" data-page-type="dictionary" data-content-slug="lora" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Seu e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Acesso antecipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Li o <a href="/pt/privacy.html" target="_blank" rel="noopener">aviso de privacidade</a> e concordo com o tratamento do meu e-mail para esta finalidade.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/pt/dictionary/">Todos os termos →</a></aside>
 <p class="disc-disclaimer">Esta explicação foi escrita em linguagem simples para a TreScout e <strong>traduzida automaticamente</strong> do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/lora/">Ler em turco →</a></p>
 </article>

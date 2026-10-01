@@ -2,26 +2,35 @@
 
 > Low-Rank Adaptation
 
-Il s’agit d’une technique qui consiste à spécialiser un grand modèle d’intelligence artificielle sur un sujet particulier en n’en mettant à jour qu’une petite partie sans changer l’ensemble du modèle.
+LoRA (Low-Rank Adaptation) est une technique de spécialisation du modèle avec de petits ajouts.
 
-## Définition
-LoRA est une méthode qui réduit la puissance de traitement massive requise pour entraîner un modèle d'IA massif. Vous n'entraînez qu'une très petite couche du modèle pour lui ajouter un nouveau style ou de nouvelles informations tout en préservant ses capacités de base.
+## Définition et origine du mot
+« Rang inférieur » signifie un classement faible. Le modèle géant est figé, le petit adaptateur est entraîné et fixé dessus. Le style de base est conservé, un nouveau style est ajouté. Le coût représente une fraction du montant total des frais de scolarité.
 
-## Comment ça marche
-Vous gèlez les poids du modèle et entraînez simplement un petit fichier appelé LoRA. En installant ce fichier sur le modèle principal, vous le personnalisez.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Visuel : Production de style personnel.En écrivant: Adaptation du langage institutionnel.Son: Voix du personnage.
 
-## Où est-ce utilisé
-Il est utilisé dans le processus de création de visuels personnalisés ou de développement de styles de texte spéciaux.
+## Profondeur technique et architecture
+Disposition :
 
-## Souvent confondu avec
-Mélangé avec un réglage fin ; Bien que le réglage fin puisse couvrir l’ensemble du modèle, LoRA est beaucoup plus léger et ciblé.
+## Choses fréquemment mélangées
+C’est considéré comme un réglage fin. Il couvre tout le modèle, c'est un ajout léger. L’un est la rénovation de la maison et l’autre la peinture des pièces.
 
-## Questions fréquentes
-**L'utilisation de LoRA ralentit-elle le modèle ?**
-Non, il n’entraîne généralement aucune perte de performances car il est très léger.
+## Utilisation dans différentes disciplines
+Remarques : Papier qui colle à la bibliothèque.Lentille: Filtre attaché à la caméra.Correctif: Un blason cousu sur un vêtement.
 
-**Peut-on installer plusieurs LoRA sur un même modèle ?**
-Oui, différents fichiers LoRA peuvent être combinés pour différentes fonctionnalités.
+## Foire aux questions
+**Est-ce que cela ralentit ?**
+Généralement non. Le complément est petit, le retard n'est pas appréciable.
+
+**Est-il porté plus d'une fois ?**
+Oui. Les adaptateurs sont combinés pour différents travaux.
+
+**N'oublie pas, d'accord ?**
+C’est loin d’être une éducation complète. Détermine le classement et l’équilibre des données.
+
+**Quand cela ne suffit-il pas ?**
+Si des connaissances approfondies sont requises, une formation complète ou RAG est requise.
 
 
 ## Termes liés
@@ -30,6 +39,7 @@ Oui, différents fichiers LoRA peuvent être combinés pour différentes fonctio
 - [Generative AI](/fr/dictionary/generative-ai/)
 
 ## Outils liés
+- [Minimind](/fr/discover/minimind/)
 - [LTX 2](/fr/discover/ltx-2/)
 
 ---

@@ -1,22 +1,34 @@
 # ¿Qué es Layer Streaming?
 
-Es el proceso de comenzar a procesar capas de big data o software pieza por pieza antes de descargarlas todas.
+La transmisión por capas es el procesamiento de datos pieza por pieza.
 
-## Definición
-El flujo de datos en capas permite que las piezas necesarias se procesen instantáneamente, especialmente sin esperar el tiempo de carga de archivos o paquetes de software muy grandes. Este método mejora la experiencia del usuario al minimizar el tiempo de espera.
+## Definición y origen de la palabra
+"Capa" significa capa. La pieza requerida se procesa antes de que esté completamente caída. La espera se hace más corta, la experiencia se vuelve más rápida. Funciona en trabajos de paquetes y archivos grandes.
 
-## Cómo funciona
-Los datos se dividen en pequeños fragmentos y se transfieren al sistema en orden de prioridad. El sistema empieza a funcionar inmediatamente con la primera pieza que recibe.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Apertura: La aplicación aparece rápidamente.Video: Imagen de baja a alta.Mapa: Detalle a medida que te acercas.
 
-## Dónde se usa
-Se utiliza para la apertura rápida de grandes aplicaciones de software y flujos de datos de alta resolución.
+## Profundidad técnica y arquitectura
+Diseño:
 
-## Suele confundirse con
-No confundir con los métodos tradicionales de descarga de archivos; En lugar de esperar aquí, comienza el trabajo.
+## Cosas frecuentemente mezcladas
+Se cree que es una descarga. Pausa la descarga, comienza la transmisión. Uno es el almacén, el otro es el cinturón.
+
+## Uso en diferentes disciplinas
+Página: Leer tal como está impreso.Telenovela: Mira episodio por episodio.Construcción: Entregado varias veces.
 
 ## Preguntas frecuentes
-**¿Este método aumenta la velocidad de Internet?**
-No aumenta la velocidad de Internet, pero elimina el tiempo de espera al utilizar los datos de manera más eficiente.
+**¿Aumenta la velocidad?**
+Acorta la espera, no la cola. La experiencia se acelera, el contador sigue siendo el mismo.
+
+**¿Cuándo se utiliza?**
+Big data e incluso lento. No importa si es un archivo pequeño.
+
+**¿Cuánto cuesta?**
+Requiere lógica de clasificación y caché. La complejidad tiene un precio.
+
+**¿Cómo se mide?**
+Con el primer momento significativo de dibujo e interacción. No el total de descarga.
 
 
 ## Términos relacionados

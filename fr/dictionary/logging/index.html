@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Qu'est-ce que Logging ? · Glossaire · TreScout</title>
-<meta name="description" content="Il s&#39;agit de l&#39;enregistrement chronologique d&#39;un programme pour garder une trace des opérations qu&#39;il effectue ou des erreurs qu&#39;il rencontre lors de son e">
+<meta name="description" content="La journalisation (ou logging) consiste à enregistrer les événements d&#39;un programme de manière chronologique.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/fr/dictionary/logging/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/logging/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/logging/">
 <link rel="alternate" type="text/markdown" href="/fr/dictionary/logging.md">
 <meta property="og:title" content="Qu'est-ce que Logging ?">
-<meta property="og:description" content="Il s&#39;agit de l&#39;enregistrement chronologique d&#39;un programme pour garder une trace des opérations qu&#39;il effectue ou des erreurs qu&#39;il rencontre lors de son e">
+<meta property="og:description" content="La journalisation (ou logging) consiste à enregistrer les événements d&#39;un programme de manière chronologique.">
 <meta property="og:url" content="https://trescout.com/fr/dictionary/logging/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="fr_FR">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Qu&#39;est-ce que Logging ?">
-<meta name="twitter:description" content="Il s&#39;agit de l&#39;enregistrement chronologique d&#39;un programme pour garder une trace des opérations qu&#39;il effectue ou des erreurs qu&#39;il rencontre lors de son e">
+<meta name="twitter:description" content="La journalisation (ou logging) consiste à enregistrer les événements d&#39;un programme de manière chronologique.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Logging",
-  "description": "Il s'agit de l'enregistrement chronologique d'un programme pour garder une trace des opérations qu'il effectue ou des erreurs qu'il rencontre lors de son exécution.",
+  "description": "La journalisation (ou logging) consiste à enregistrer les événements d'un programme de manière chronologique.",
   "inLanguage": "fr",
   "url": "https://trescout.com/fr/dictionary/logging/",
   "inDefinedTermSet": {
@@ -55,17 +55,20 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/fr/dictionary/">← Glossaire</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossaire · Dev</span><time class="dict-time" datetime="2026-08-06">Dernière mise à jour : 6 août 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glossaire · Dev</span><time class="dict-time" datetime="2026-09-22">Dernière mise à jour : 22 septembre 2026</time></div>
 <h1 class="disc-title">Qu'est-ce que <span class="disc-accent">Logging</span> ?</h1>
-<p class="disc-lead">Il s&#39;agit de l&#39;enregistrement chronologique d&#39;un programme pour garder une trace des opérations qu&#39;il effectue ou des erreurs qu&#39;il rencontre lors de son exécution.</p>
-<section class="disc-sec"><h2>Définition</h2><p>Les programmes génèrent parfois des erreurs silencieusement. Grâce à la journalisation, lorsqu&#39;une erreur se produit, vous pouvez voir étape par étape ce que le programme a fait jusqu&#39;à présent et quelles données il a traitées. C&#39;est en quelque sorte la « boîte noire » du programme.</p></section>
-<div class="dict-analogy"><strong>Analogie :</strong> Tout comme la boîte noire d&#39;un avion qui enregistre toutes ses données pendant le vol, le programme enregistre tous ses mouvements dans un journal.</div>
-<section class="disc-sec"><h2>Comment ça marche</h2><p>Vous ajoutez des commandes telles que « est venu ici », « ces données ont été traitées » dans le code. Pendant l&#39;exécution du programme, ces informations sont écrites dans un fichier ou un système de surveillance.</p></section>
-<section class="disc-sec"><h2>Où est-ce utilisé</h2><p>Il est utilisé dans les applications serveur, les grands systèmes logiciels et les processus de débogage.</p></section>
-<section class="disc-sec"><h2>Souvent confondu avec</h2><p>Il peut être confondu avec l&#39;observabilité ; La journalisation est l’un des éléments fondamentaux de cette observabilité.</p></section>
-<section class="disc-sec"><h2>Questions fréquentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Est-ce bien de tout sauvegarder ?</p><p class="dict-faq-a">Non, trop de journaux peuvent ralentir le système et rendre difficile la recherche d&#39;erreurs critiques ; Des registres équilibrés doivent être conservés.</p></div></div></section>
+<p class="disc-lead">La journalisation (ou logging) consiste à enregistrer les événements d&#39;un programme de manière chronologique.</p>
+<section class="disc-sec"><h2>Définition et origine du mot</h2><p>Un journal (log) est un registre d&#39;événements. Lorsqu&#39;un programme rencontre une erreur silencieuse, il est possible de consulter ce registre pour comprendre ce qu&#39;il a fait jusqu&#39;à ce moment-là. C&#39;est comme la boîte noire d&#39;un avion : c&#39;est le premier endroit que l&#39;on examine après un incident.</p></section>
+<div class="dict-analogy"><strong>Analogie :</strong> C&#39;est comme la boîte noire d&#39;un avion qui enregistre les données de vol ; les actions du programme sont consignées dans un journal.</div>
+<section class="disc-sec"><h2>Comment connaître et utiliser dans la vie quotidienne ?</h2><p><strong>Présentateur:</strong> Débogage.<br><strong>Produit:</strong> Suivi d&#39;utilisation.<br><strong>Sécurité :</strong> Journalisation des événements.</p></section>
+<section class="disc-sec"><h2>Profondeur technique et architecture</h2><p>Niveaux :</p><p><strong>DEBUG :</strong> Détail pour le développeur.<br><strong>INFO :</strong> Flux normal.<br><strong>ATTENTION :</strong> Situation suspecte.<br><strong>ERREUR :</strong> Tâche échouée.</p><p>Règles :</p><p><strong>Journal structuré :</strong> Format JSON, interrogeable.<br><strong>Interdiction des PII :</strong> Les mots de passe et les identifiants ne sont pas enregistrés.<br><strong>Rotation :</strong> Le fichier est archivé lorsqu&#39;il devient trop volumineux.</p><p>Exemple :</p><pre><code>import logging
+logging.basicConfig(level=logging.INFO)
+logging.info("Ödeme alındı: sipariş=%s", siparis_id)</code></pre><p>Trop de journaux ralentissent le système, trop peu rendent aveugle. INFO est activé en production, DEBUG en cas de problème.</p></section>
+<section class="disc-sec"><h2>Choses fréquemment mélangées</h2><p>On pense qu&#39;il s&#39;agit d&#39;observabilité. Pourtant, la journalisation en est la pierre angulaire : le journal est la matière première, la capacité d&#39;observation est le produit.</p></section>
+<section class="disc-sec"><h2>Utilisation dans différentes disciplines</h2><p><strong>Boîte noire :</strong> Enregistrement des données de vol.<br><strong>Journal :</strong> Notes par ordre chronologique.<br><strong>Enregistrement de la caméra :</strong> Archive des événements.</p></section>
+<section class="disc-sec"><h2>Foire aux questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Est-ce bien de tout sauvegarder ?</p><p class="dict-faq-a">Non. Un excès ralentit le système et masque l&#39;essentiel ; un enregistrement équilibré est maintenu.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Qu&#39;est-ce qu&#39;un niveau ?</p><p class="dict-faq-a">C&#39;est l&#39;étiquette d&#39;urgence de l&#39;enregistrement. Il sert de filtre lors de la recherche.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Où les enregistrements sont-ils écrits ?</p><p class="dict-faq-a">Dans un fichier, un système central ou un service cloud. En production, une collecte centralisée est recommandée.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Combien de temps sont-ils conservés ?</p><p class="dict-faq-a">Cela dépend de la politique. Le débogage nécessite des semaines, l&#39;audit nécessite des années.</p></div></div></section>
 <section class="disc-sec"><h2>Termes liés</h2><div class="dict-related"><a href="/fr/dictionary/observability/">Observability</a><a href="/fr/dictionary/traces/">Traces</a><a href="/fr/dictionary/logs/">Logs</a></div></section>
-<section class="disc-sec"><h2>Outils liés</h2><div class="dict-related"><a href="/fr/discover/spdlog/">Spdlog</a></div></section>
+<section class="disc-sec"><h2>Outils liés</h2><div class="dict-related"><a href="/fr/discover/omniroute/">OmniRoute</a><a href="/fr/discover/spdlog/">Spdlog</a></div></section>
 <aside class="disc-cta"><p><strong>Explorez les outils associés et les rapports quotidiens.</strong> Suivez les nouveaux termes et outils technologiques chaque matin dans votre boîte de réception.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-fr" data-page-type="dictionary" data-content-slug="logging" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Votre adresse e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Accès anticipé</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>J'ai lu <a href="/fr/privacy.html" target="_blank" rel="noopener">la notice de confidentialité</a> et je consens au traitement de mon adresse e-mail à cette fin.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/fr/dictionary/">Tous les termes →</a></aside>
 <p class="disc-disclaimer">Cette explication a été rédigée en langage clair pour TreScout puis <strong>traduite automatiquement</strong> depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/logging/">Lire en turc →</a></p>
 </article>

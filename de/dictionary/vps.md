@@ -2,29 +2,41 @@
 
 > Virtual Private Server
 
-Dabei handelt es sich um die Nutzung eines leistungsstarken physischen Servers im Internet durch die Vermietung als privaten Computer.
+VPS (Virtual Private Server) ist ein unabhängiger Teil des physischen Servers, der durch Virtualisierung unterteilt und für Sie reserviert ist.
 
-## Definition
-VPS entsteht durch Software, die einen riesigen Server in kleine Teile zerlegt. Jeder Teil arbeitet unabhängig von anderen Benutzern, da er über ein eigenes Betriebssystem und eigene Ressourcen verfügt. Auf diese Weise können Sie jede gewünschte Software installieren und verwalten, als ob Sie einen eigenen Server hätten.
+## Definition und Wortherkunft
+Ein riesiger Server wird durch Hypervisor-Software in kleinere Teile unterteilt. Jeder Teil führt sein eigenes Betriebssystem aus und verfügt über einen eigenen Anteil an dediziertem RAM und Prozessor. Egal, was benachbarte Slices tun, Ihres wird davon nicht betroffen sein. Daher können Sie die gewünschte Software installieren und verwalten, als ob Sie einen eigenen Server hätten.
 
-## So funktioniert es
-Sie mieten einen VPS bei einem Cloud-Anbieter, verbinden sich dann über Fernzugriffsmethoden mit Ihrem Server und nehmen die gewünschten Einstellungen vor.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Webseite: Blogs und Shops mit wachsendem Traffic.Persönliche Cloud: Dateisynchronisierung und -sicherung.Testumgebung: Experimentieren Sie nicht, bevor Sie live gehen.Gaming und VPN: Gemeinschaftsspielserver, privater Tunnel.
 
-## Wo es eingesetzt wird
-Es dient dazu, Websites zu hosten, persönliche Cloud-Systeme einzurichten oder Testumgebungen zu erstellen.
+## Technische Tiefe und Architektur
+Was Sie wissen müssen:
 
-## Häufig verwechselt mit
-Es kann mit Shared Hosting verwechselt werden; Beim Shared Hosting teilen Sie Ressourcen mit anderen, während beim VPS die Ihnen zugewiesenen Ressourcen garantiert sind.
+## Häufig gemischte Dinge
+Es kann mit Shared Hosting verwechselt werden. Beim Shared Hosting teilen Sie Ressourcen mit anderen; Die Ihnen in VPS zugewiesenen Ressourcen sind garantiert. Der nächste Schritt nach oben ist ein dedizierter Server, auf dem Sie die gesamte Maschine haben.
 
-## Häufige Fragen
+## Einsatz in verschiedenen Disziplinen
+Wohnung: Gemeinsames Gebäude, unabhängige Wohnung und verschlossene Tür.Büroetage: Gemeinsamer Empfang, privater Arbeitsbereich.Safe: Ihr eigenes Privatabteil im Bankgebäude.
+
+## Häufig gestellte Fragen
 **Sind für die Verwaltung von VPS technische Kenntnisse erforderlich?**
-Ja, für die Serveradministration und Sicherheitseinstellungen sind grundlegende technische Kenntnisse erforderlich.
+Mit dem unmanaged Paket ja: Sie erhalten das Update, die Firewall und das Backup. Grundlegende Linux-Kenntnisse sind ausreichend. Wenn Sie Schwierigkeiten haben, können Sie zum verwalteten Paket wechseln.
+
+**Wie unterscheidet es sich vom Shared Hosting?**
+Bei Shared wird die Ressource gemeinsam genutzt, die Nachbardichte verlangsamt Sie. Ihr Anteil am VPS ist garantiert und Sie verfügen über Root-Berechtigung.
+
+**Mit wie vielen Ressourcen sollte man beginnen?**
+Für kleine Websites reichen normalerweise 1–2 GB RAM aus. Es empfiehlt sich, einen Blick auf die Tracking-Charts zu werfen und diese nach und nach zu vergrößern.
+
+**Wie mache ich ein Backup?**
+Empfohlen wird die Snapshot-Funktion des Anbieters plus externe Backup-Regel. Eine einzelne Kopie gilt nicht als Backup.
 
 
 ## Verwandte Begriffe
 - [Virtual Machines](/de/dictionary/virtual-machines/)
 - [Cloud Computing](/de/dictionary/cloud-computing/)
-- [Self-hosting](/de/dictionary/self-hosting/)
+- [Self-Hosting](/de/dictionary/self-hosting/)
 
 ## Verwandte Werkzeuge
 - [DeskcommCRM](/de/discover/deskcommcrm/)

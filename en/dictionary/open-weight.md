@@ -1,54 +1,40 @@
 # What is Open Weight?
 
-> Publicly Accessible Model Weights
+Open weight refers to AI models whose model files are publicly available.
 
-**Category:** AI  
-**Last updated:** 2026-09-22
+## Definition and Word Origin
+The numerical values considered the brain of the model are shared. The downloader installs and runs it on their own computer. It is not required for the training data to be open; this distinction is critical.
 
-Open weight refers to AI foundation models whose trained parameter weights are publicly downloadable, allowing anyone to run, quantize, and fine-tune the model on private hardware.
-
-## Definition and Etymology
-In contrast to closed API providers that only expose a pay-per-token web endpoint, open-weight models allow developers to download raw neural network tensors. This enables complete control over deployment infrastructure, zero data leakage, and community-driven quantization.
-
-## Everyday Context and Practical Usage
-- **Edge AI Execution:** Running quantized models on laptops, workstations, or embedded devices with zero network connectivity.
-- **Enterprise Data Privacy:** Guaranteeing that sensitive customer records remain inside internal firewalls during inference.
-- **Cost Optimization:** Eliminating recurring API subscription fees by amortizing hardware costs over millions of tokens.
+## How to Know and Use in Daily Life?
+Local: Offline assistant.Private project: In-house adaptation.Research: Base model experiment.
 
 ## Technical Depth and Architecture
-Architectural Anatomy of Open Weights:- **Tensor Formats:** Distributed as Safetensors or GGUF files preserving precision in FP16, BF16, or 4-bit/8-bit integer formats.
-- **Local Inference Engines:** Executed through high-throughput serving runtimes such as vLLM, Ollama, llama.cpp, and TGI.
-- **Parameter-Efficient Fine-Tuning (PEFT):** Modifying model behavior using LoRA (Low-Rank Adaptation) adapters without retraining base weights.
+Triangle:
 
-## Commonly Confused With
-Often conflated with full open-source AI. Full open source requires sharing raw training code and source datasets; open weight primarily provides the final pre-trained numerical parameters, sometimes accompanied by custom commercial usage licenses.
+## Frequently Mixed Things
+It is thought to be Open Source AI. That covers code and process transparency, this is only the sharing of the final version. The difference in scope determines the license.
 
-## Cross-Disciplinary Perspectives
-- **Bakery:** Buying pre-mixed artisan flour and baking it in your own oven vs buying a factory-sealed loaf of bread.
-- **Software:** Downloading an executable binary vs accessing a cloud SaaS website.
-- **Music:** Having the master recording tracks to remix at home vs streaming a song from an online platform.
-
-## Analogy
-It is like sharing the ingredients and cooking instructions so anyone can prepare and customize the meal in their own home kitchen.
+## Use in Different Disciplines
+Specification: A meal shared with its ingredients.Textbook: A source that everyone reads.Seed: Shared heirloom seed.
 
 ## Frequently Asked Questions
+**What is the Open Source difference?**
+Open Source also covers data and process, open weight shares the final version. The scope is different.
 
-**What can you do with open weights?**  
-You can host models on your own servers, convert them to quantized formats (GGUF), create LoRA fine-tunes, and run them offline.
+**Is the data open as well?**
+Generally no. The weights are open, but the training set remains closed.
 
-**How do open-weight models differ from closed APIs?**  
-Closed APIs charge per token and keep models hosted remotely; open weights let you run inference on your own hardware with no external oversight.
+**Can it be used commercially?**
+It depends on the license. Apache and MIT are free; the community text should be read.
 
-**What hardware is required to run open-weight models?**  
-A 7B or 8B parameter model quantized to 4-bit can run smoothly on consumer GPUs or laptops with 8 GB to 16 GB of unified memory.
+**Is hardware required?**
+It depends on the model. Smaller ones run on laptops, larger ones run on servers.
 
-**Are open-weight models permitted for commercial applications?**  
-Most modern open-weight models (like Llama, Mistral, and Qwen) permit commercial deployment, subject to license thresholds.
 
 ## Related terms
-- [Open Source AI](/en/dictionary/open-source-ai/)
-- [Foundation Model](/en/dictionary/foundation-model/)
+- [Open Weights](/en/dictionary/open-weights/)
+- [LLM](/en/dictionary/llm/)
 - [SLM](/en/dictionary/slm/)
 
 ---
-Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/open-weight/
+Source: TreScout Dictionary · https://trescout.com/en/dictionary/open-weight/

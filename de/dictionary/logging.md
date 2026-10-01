@@ -1,22 +1,34 @@
 # Was ist Logging?
 
-Dabei handelt es sich um die chronologische Aufzeichnung eines Programms, um den Überblick über die von ihm ausgeführten Vorgänge oder die während der Ausführung auftretenden Fehler zu behalten.
+Unter Protokollierung versteht man das chronologische Aufzeichnen der Programmereignisse.
 
-## Definition
-Bei Programmen treten manchmal stillschweigend Fehler auf. Dank der Protokollierung können Sie im Fehlerfall Schritt für Schritt nachvollziehen, was das Programm bisher getan hat und welche Daten es verarbeitet hat. Dies ist sozusagen die „Black Box“ des Programms.
+## Definition und Wortherkunft
+„Log“ bedeutet protokollieren, aufzeichnen. Wenn das Programm stillschweigend ausfällt, wird aus dem Protokoll gelesen, was es bisher getan hat. Es ist wie die Black Box des Flugzeugs: Es ist der erste Ort, der nach einem Unfall überprüft wird.
 
-## So funktioniert es
-Sie fügen Befehle wie „kam hierher“, „diese Daten wurden verarbeitet“ in den Code ein. Während das Programm läuft, werden diese Informationen in eine Datei oder ein Überwachungssystem geschrieben.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Moderator: Fehlerbehebung.Produkt: Nutzungsüberwachung.Sicherheit: Ereignisprotokollierung.
 
-## Wo es eingesetzt wird
-Es wird in Serveranwendungen, großen Softwaresystemen und Debugging-Prozessen eingesetzt.
+## Technische Tiefe und Architektur
+Ebenen:
 
-## Häufig verwechselt mit
-Es kann mit Observability verwechselt werden; Die Protokollierung ist einer der Grundbausteine ​​dieser Beobachtbarkeit.
+## Häufig gemischte Dinge
+Es wird für Observability gehalten. Dabei ist Logging dessen Baustein: Logs sind der Rohstoff, Beobachtbarkeit ist das Produkt.
 
-## Häufige Fragen
+## Einsatz in verschiedenen Disziplinen
+Blackbox: Flugdatenaufzeichnung.Tagebuch: Chronologische Notizen.Kameraaufzeichnung: Veranstaltungsarchiv.
+
+## Häufig gestellte Fragen
 **Ist es gut, alles zu speichern?**
-Nein, zu viele Protokolle können das System verlangsamen und das Auffinden kritischer Fehler erschweren; Es sollten ausgewogene Aufzeichnungen geführt werden.
+Nein. Zu viel verlangsamt die Arbeit und verbirgt das Wichtige, um eine ausgewogene Aufzeichnung zu führen.
+
+**Was ist das Niveau?**
+Es ist das Dringlichkeitskennzeichen des Datensatzes. Es fungiert als Filter bei der Suche.
+
+**Wo werden die Aufzeichnungen geschrieben?**
+Datei an zentrales System oder Cloud-Dienst senden. In der Produktion wird eine zentrale Sammlung empfohlen.
+
+**Wie lange wird es aufbewahrt?**
+Das hängt von der Richtlinie ab. Das Debugging erfordert Wochen, Audits erfordern Jahre.
 
 
 ## Verwandte Begriffe
@@ -25,6 +37,7 @@ Nein, zu viele Protokolle können das System verlangsamen und das Auffinden krit
 - [Logs](/de/dictionary/logs/)
 
 ## Verwandte Werkzeuge
+- [OmniRoute](/de/discover/omniroute/)
 - [Spdlog](/de/discover/spdlog/)
 
 ---

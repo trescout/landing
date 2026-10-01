@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Qu'est-ce que CI/CD ? · Glossaire · TreScout</title>
-<meta name="description" content="C&#39;est le processus qui garantit que les mises à jour logicielles sont automatiquement testées et publiées.">
+<meta name="description" content="CI/CD (Continuous Integration/Continuous Deployment) est le test et la publication automatiques du code.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/fr/dictionary/ci-cd/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/ci-cd/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/ci-cd/">
 <link rel="alternate" type="text/markdown" href="/fr/dictionary/ci-cd.md">
 <meta property="og:title" content="Qu'est-ce que CI/CD ?">
-<meta property="og:description" content="C&#39;est le processus qui garantit que les mises à jour logicielles sont automatiquement testées et publiées.">
+<meta property="og:description" content="CI/CD (Continuous Integration/Continuous Deployment) est le test et la publication automatiques du code.">
 <meta property="og:url" content="https://trescout.com/fr/dictionary/ci-cd/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="fr_FR">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Qu&#39;est-ce que CI/CD ?">
-<meta name="twitter:description" content="C&#39;est le processus qui garantit que les mises à jour logicielles sont automatiquement testées et publiées.">
+<meta name="twitter:description" content="CI/CD (Continuous Integration/Continuous Deployment) est le test et la publication automatiques du code.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "CI/CD",
-  "description": "C'est le processus qui garantit que les mises à jour logicielles sont automatiquement testées et publiées.",
+  "description": "CI/CD (Continuous Integration/Continuous Deployment) est le test et la publication automatiques du code.",
   "inLanguage": "fr",
   "url": "https://trescout.com/fr/dictionary/ci-cd/",
   "inDefinedTermSet": {
@@ -55,18 +55,21 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/fr/dictionary/">← Glossaire</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossaire · Dev</span><time class="dict-time" datetime="2026-08-09">Dernière mise à jour : 9 août 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glossaire · Dev</span><time class="dict-time" datetime="2026-09-22">Dernière mise à jour : 22 septembre 2026</time></div>
 <h1 class="disc-title">Qu'est-ce que <span class="disc-accent">CI/CD</span> ?</h1>
 <p class="dict-en">Continuous Integration / Continuous Deployment</p>
-<p class="disc-lead">C&#39;est le processus qui garantit que les mises à jour logicielles sont automatiquement testées et publiées.</p>
-<section class="disc-sec"><h2>Définition</h2><p>Il s&#39;agit d&#39;une ligne de production automatique établie pour garantir que le code écrit par les développeurs de logiciels parvient à l&#39;utilisateur sans aucune erreur. L&#39;intégration continue (CI) garantit que le code est constamment assemblé et testé, et le déploiement continu (CD) garantit que ce code est automatiquement transféré au système actif.</p></section>
-<div class="dict-analogy"><strong>Analogie :</strong> C&#39;est comme un système de tapis automatique qui permet aux aliments d&#39;être préparés dans la cuisine d&#39;un restaurant, testés au goût et servis immédiatement à la table du client.</div>
-<section class="disc-sec"><h2>Comment ça marche</h2><p>Lorsque vous soumettez votre code au système, celui-ci exécute d&#39;abord des tests automatisés. Si les tests réussissent, il empaquette votre code et le prépare pour la publication.</p></section>
-<section class="disc-sec"><h2>Où est-ce utilisé</h2><p>Il est utilisé dans les équipes de développement de logiciels modernes, en particulier dans les applications qui publient rapidement des mises à jour.</p></section>
-<section class="disc-sec"><h2>Souvent confondu avec</h2><p>Il peut être confondu avec un processus de test purement manuel, mais il s&#39;agit d&#39;un flux entièrement automatisé.</p></section>
-<section class="disc-sec"><h2>Questions fréquentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Pourquoi est-ce si important ?</p><p class="dict-faq-a">Cela empêche la mise en ligne d’un code défectueux et augmente la vitesse de développement.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Doit-il toujours être automatique ?</p><p class="dict-faq-a">Généralement oui, mais des étapes d&#39;approbation manuelle peuvent être ajoutées pour les mises à jour critiques.</p></div></div></section>
+<p class="disc-lead">CI/CD (Continuous Integration/Continuous Deployment) est le test et la publication automatiques du code.</p>
+<section class="disc-sec"><h2>Définition et origine du mot</h2><p>Il s&#39;agit d&#39;une ligne automatique établie pour garantir que le code écrit parvienne à l&#39;utilisateur sans aucune erreur. CI assemble et teste constamment le code, et le transfère sur un live CD. L’ère des publications manuelles touche à sa fin.</p></section>
+<div class="dict-analogy"><strong>Analogie :</strong> C&#39;est comme un ruban adhésif qui garantit que la nourriture est préparée dans la cuisine du restaurant, qu&#39;elle a réussi le test de goût et qu&#39;elle est servie au client.</div>
+<section class="disc-sec"><h2>Comment connaître et utiliser dans la vie quotidienne ?</h2><p><strong>Équipe:</strong> Test après chaque commit.<br><strong>Mobile:</strong> Libération automatique en magasin.<br><strong>Web :</strong> Relâchez une fois combiné.</p></section>
+<section class="disc-sec"><h2>Profondeur technique et architecture</h2><p>Étapes de la ligne :</p><p><strong>Peluche:</strong> Contrôle du style.<br><strong>Test :</strong> Unité et bout à bout.<br><strong>Compilation :</strong> Réalisation de colis.<br><strong>Publication :</strong> Ouverture progressive.</p><p>Exemple d&#39;étape :</p><pre><code>steps:
+  - run: npm ci
+  - run: npm test</code></pre><p>Une porte d&#39;approbation manuelle est placée dans les publications critiques. Différence avec la livraison : la livraison prépare, le déploiement imprime. Le premier attend, le second s&#39;en va.</p></section>
+<section class="disc-sec"><h2>Choses fréquemment mélangées</h2><p>On pense qu&#39;il s&#39;agit d&#39;un test manuel. Cependant, la ligne est complètement automatique : le code arrive, le test s&#39;exécute, le résultat sort. On attend juste à la porte.</p></section>
+<section class="disc-sec"><h2>Utilisation dans différentes disciplines</h2><p><strong>Ruban de cuisine :</strong> Préparation, dégustation et service.<br><strong>Chaîne de montage:</strong> Pièce, inspection et emballage.<br><strong>Bande de bagage :</strong> Inscription, navigation et téléchargement.</p></section>
+<section class="disc-sec"><h2>Foire aux questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Pourquoi est-ce si important ?</p><p class="dict-faq-a">Il traduit le code défectueux en direct et augmente la vitesse. Les diffusions fréquentes se font en toute sécurité.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Doit-il toujours être automatique ?</p><p class="dict-faq-a">Généralement oui, une porte manuelle est ajoutée dans la version critique.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Quelle est la différence avec la livraison ?</p><p class="dict-faq-a">La livraison se prépare et attend, le déploiement se déroule de manière aléatoire. Le premier est homologué, le second est entièrement automatique.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Que se passe-t-il s&#39;il casse ?</p><p class="dict-faq-a">La ligne s&#39;arrête et la diffusion est interrompue. C&#39;est pourquoi un plan de sauvegarde et une récupération rapide sont essentiels.</p></div></div></section>
 <section class="disc-sec"><h2>Termes liés</h2><div class="dict-related"><a href="/fr/dictionary/continuous-integration/">Continuous Integration</a><a href="/fr/dictionary/continuous-deployment/">Continuous Deployment</a><a href="/fr/dictionary/deployment/">Deployment</a><a href="/fr/dictionary/qa/">QA</a></div></section>
-<section class="disc-sec"><h2>Outils liés</h2><div class="dict-related"><a href="/fr/discover/strix/">Strix</a><a href="/fr/discover/openship/">Openship</a><a href="/fr/discover/flue/">Flue</a><a href="/fr/discover/devops-interview-guide/">DevOps-Interview-Guide</a></div></section>
+<section class="disc-sec"><h2>Outils liés</h2><div class="dict-related"><a href="/fr/discover/free-for-dev/">Free for Dev</a><a href="/fr/discover/strix/">Strix</a><a href="/fr/discover/googletest/">Googletest</a><a href="/fr/discover/trivy/">Trivy</a><a href="/fr/discover/openship/">Openship</a><a href="/fr/discover/ipatool/">Ipatool</a><a href="/fr/discover/checkstyle/">Checkstyle</a><a href="/fr/discover/flue/">Flue</a></div></section>
 <aside class="disc-cta"><p><strong>Explorez les outils associés et les rapports quotidiens.</strong> Suivez les nouveaux termes et outils technologiques chaque matin dans votre boîte de réception.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-fr" data-page-type="dictionary" data-content-slug="ci-cd" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Votre adresse e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Accès anticipé</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>J'ai lu <a href="/fr/privacy.html" target="_blank" rel="noopener">la notice de confidentialité</a> et je consens au traitement de mon adresse e-mail à cette fin.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/fr/dictionary/">Tous les termes →</a></aside>
 <p class="disc-disclaimer">Cette explication a été rédigée en langage clair pour TreScout puis <strong>traduite automatiquement</strong> depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/ci-cd/">Lire en turc →</a></p>
 </article>

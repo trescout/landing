@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Was ist Logging? · Glossar · TreScout</title>
-<meta name="description" content="Dabei handelt es sich um die chronologische Aufzeichnung eines Programms, um den Überblick über die von ihm ausgeführten Vorgänge oder die während der Ausf">
+<meta name="description" content="Unter Protokollierung versteht man das chronologische Aufzeichnen der Programmereignisse. Dabei handelt es sich um die chronologische Aufzeichnung eines Pr">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/de/dictionary/logging/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/logging/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/logging/">
 <link rel="alternate" type="text/markdown" href="/de/dictionary/logging.md">
 <meta property="og:title" content="Was ist Logging?">
-<meta property="og:description" content="Dabei handelt es sich um die chronologische Aufzeichnung eines Programms, um den Überblick über die von ihm ausgeführten Vorgänge oder die während der Ausf">
+<meta property="og:description" content="Unter Protokollierung versteht man das chronologische Aufzeichnen der Programmereignisse. Dabei handelt es sich um die chronologische Aufzeichnung eines Pr">
 <meta property="og:url" content="https://trescout.com/de/dictionary/logging/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="de_DE">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Was ist Logging?">
-<meta name="twitter:description" content="Dabei handelt es sich um die chronologische Aufzeichnung eines Programms, um den Überblick über die von ihm ausgeführten Vorgänge oder die während der Ausf">
+<meta name="twitter:description" content="Unter Protokollierung versteht man das chronologische Aufzeichnen der Programmereignisse. Dabei handelt es sich um die chronologische Aufzeichnung eines Pr">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Logging",
-  "description": "Dabei handelt es sich um die chronologische Aufzeichnung eines Programms, um den Überblick über die von ihm ausgeführten Vorgänge oder die während der Ausführung auftretenden Fehler zu behalten.",
+  "description": "Unter Protokollierung versteht man das chronologische Aufzeichnen der Programmereignisse.",
   "inLanguage": "de",
   "url": "https://trescout.com/de/dictionary/logging/",
   "inDefinedTermSet": {
@@ -55,17 +55,20 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/de/dictionary/">← Glossar</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossar · Dev</span><time class="dict-time" datetime="2026-08-06">Zuletzt aktualisiert: 6. August 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glossar · Dev</span><time class="dict-time" datetime="2026-09-22">Zuletzt aktualisiert: 22. September 2026</time></div>
 <h1 class="disc-title">Was ist <span class="disc-accent">Logging</span>?</h1>
-<p class="disc-lead">Dabei handelt es sich um die chronologische Aufzeichnung eines Programms, um den Überblick über die von ihm ausgeführten Vorgänge oder die während der Ausführung auftretenden Fehler zu behalten.</p>
-<section class="disc-sec"><h2>Definition</h2><p>Bei Programmen treten manchmal stillschweigend Fehler auf. Dank der Protokollierung können Sie im Fehlerfall Schritt für Schritt nachvollziehen, was das Programm bisher getan hat und welche Daten es verarbeitet hat. Dies ist sozusagen die „Black Box“ des Programms.</p></section>
-<div class="dict-analogy"><strong>Analogie:</strong> So wie die Blackbox eines Flugzeugs während des Fluges alle Daten aufzeichnet, zeichnet das Programm alle seine Bewegungen in einem Protokoll auf.</div>
-<section class="disc-sec"><h2>So funktioniert es</h2><p>Sie fügen Befehle wie „kam hierher“, „diese Daten wurden verarbeitet“ in den Code ein. Während das Programm läuft, werden diese Informationen in eine Datei oder ein Überwachungssystem geschrieben.</p></section>
-<section class="disc-sec"><h2>Wo es eingesetzt wird</h2><p>Es wird in Serveranwendungen, großen Softwaresystemen und Debugging-Prozessen eingesetzt.</p></section>
-<section class="disc-sec"><h2>Häufig verwechselt mit</h2><p>Es kann mit Observability verwechselt werden; Die Protokollierung ist einer der Grundbausteine ​​dieser Beobachtbarkeit.</p></section>
-<section class="disc-sec"><h2>Häufige Fragen</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Ist es gut, alles zu speichern?</p><p class="dict-faq-a">Nein, zu viele Protokolle können das System verlangsamen und das Auffinden kritischer Fehler erschweren; Es sollten ausgewogene Aufzeichnungen geführt werden.</p></div></div></section>
+<p class="disc-lead">Unter Protokollierung versteht man das chronologische Aufzeichnen der Programmereignisse.</p>
+<section class="disc-sec"><h2>Definition und Wortherkunft</h2><p>„Log“ bedeutet protokollieren, aufzeichnen. Wenn das Programm stillschweigend ausfällt, wird aus dem Protokoll gelesen, was es bisher getan hat. Es ist wie die Black Box des Flugzeugs: Es ist der erste Ort, der nach einem Unfall überprüft wird.</p></section>
+<div class="dict-analogy"><strong>Analogie:</strong> Es ist wie die Blackbox des Flugzeugs, die Flugdaten aufzeichnet. Die Transaktionen des Programms werden protokolliert.</div>
+<section class="disc-sec"><h2>Wie kann man es kennen und im täglichen Leben anwenden?</h2><p><strong>Moderator:</strong> Fehlerbehebung.<br><strong>Produkt:</strong> Nutzungsüberwachung.<br><strong>Sicherheit:</strong> Ereignisprotokollierung.</p></section>
+<section class="disc-sec"><h2>Technische Tiefe und Architektur</h2><p>Ebenen:</p><p><strong>DEBUG:</strong> Entwicklerdetails.<br><strong>INFO:</strong> Normaler Ablauf.<br><strong>WARN:</strong> Verdächtiger Zustand.<br><strong>ERROR:</strong> Fehlgeschlagener Job.</p><p>Regeln:</p><p><strong>Strukturierter Datensatz:</strong> JSON-Format, Durchsuchbarkeit.<br><strong>PII-Verbot:</strong> Passwörter und Identitäten werden nicht protokolliert.<br><strong>Rotation:</strong> Die Datei wird bei zunehmender Größe archiviert.</p><p>Beispiel:</p><pre><code>import logging
+logging.basicConfig(level=logging.INFO)
+logging.info("Ödeme alındı: sipariş=%s", siparis_id)</code></pre><p>Zu viele Protokolle verlangsamen das System, zu wenige machen blind. In der Produktion wird INFO, bei Problemen DEBUG aktiviert.</p></section>
+<section class="disc-sec"><h2>Häufig gemischte Dinge</h2><p>Es wird für Observability gehalten. Dabei ist Logging dessen Baustein: Logs sind der Rohstoff, Beobachtbarkeit ist das Produkt.</p></section>
+<section class="disc-sec"><h2>Einsatz in verschiedenen Disziplinen</h2><p><strong>Blackbox:</strong> Flugdatenaufzeichnung.<br><strong>Tagebuch:</strong> Chronologische Notizen.<br><strong>Kameraaufzeichnung:</strong> Veranstaltungsarchiv.</p></section>
+<section class="disc-sec"><h2>Häufig gestellte Fragen</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Ist es gut, alles zu speichern?</p><p class="dict-faq-a">Nein. Zu viel verlangsamt die Arbeit und verbirgt das Wichtige, um eine ausgewogene Aufzeichnung zu führen.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Was ist das Niveau?</p><p class="dict-faq-a">Es ist das Dringlichkeitskennzeichen des Datensatzes. Es fungiert als Filter bei der Suche.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Wo werden die Aufzeichnungen geschrieben?</p><p class="dict-faq-a">Datei an zentrales System oder Cloud-Dienst senden. In der Produktion wird eine zentrale Sammlung empfohlen.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Wie lange wird es aufbewahrt?</p><p class="dict-faq-a">Das hängt von der Richtlinie ab. Das Debugging erfordert Wochen, Audits erfordern Jahre.</p></div></div></section>
 <section class="disc-sec"><h2>Verwandte Begriffe</h2><div class="dict-related"><a href="/de/dictionary/observability/">Observability</a><a href="/de/dictionary/traces/">Traces</a><a href="/de/dictionary/logs/">Logs</a></div></section>
-<section class="disc-sec"><h2>Verwandte Werkzeuge</h2><div class="dict-related"><a href="/de/discover/spdlog/">Spdlog</a></div></section>
+<section class="disc-sec"><h2>Verwandte Werkzeuge</h2><div class="dict-related"><a href="/de/discover/omniroute/">OmniRoute</a><a href="/de/discover/spdlog/">Spdlog</a></div></section>
 <aside class="disc-cta"><p><strong>Entdecken Sie passende Werkzeuge und tägliche Berichte.</strong> Jeden Tag entstehen neue Fachbegriffe und Tools · sichern Sie sich den Vorabzugang zu TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-de" data-page-type="dictionary" data-content-slug="logging" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Ihre E-Mail-Adresse" autocomplete="email" required><button class="btn btn-primary" type="submit">Vorabzugang</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Ich habe den <a href="/de/privacy.html" target="_blank" rel="noopener">Datenschutzhinweis</a> gelesen und bin damit einverstanden, dass meine E-Mail-Adresse zu diesem Zweck verarbeitet wird.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/de/dictionary/">Alle Begriffe →</a></aside>
 <p class="disc-disclaimer">Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und <strong>maschinell übersetzt</strong> aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/logging/">Auf Türkisch lesen →</a></p>
 </article>

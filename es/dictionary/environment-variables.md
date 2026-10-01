@@ -1,22 +1,34 @@
 # ¿Qué es Environment Variables?
 
-Son pequeños identificadores que contienen la configuración y las claves secretas que los programas necesitan en tiempo de ejecución.
+Las variables de entorno son identificadores que mantienen la configuración fuera del código.
 
-## Definición
-Te permite mantener información a nivel de sistema, como contraseñas, claves API o diferentes direcciones de servidor, que no debes escribir en tu código. Mientras el programa se ejecuta, lee estas variables y actúa en consecuencia. Por tanto, el mismo código puede ejecutarse en diferentes entornos con diferentes configuraciones.
+## Definición y origen de la palabra
+"Medio ambiente" significa medio ambiente. La contraseña y la dirección no permanecen en el código, permanecen en el sistema. El mismo código se comporta de manera diferente en diferentes entornos.
 
-## Cómo funciona
-Se define a través del sistema operativo o un archivo especial, y cuando se inicia el programa memoriza estos valores.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Presentador: Cadenas de conexión.Aplicación: Selección de modo.CI: Claves secretas.
 
-## Dónde se usa
-Se utiliza en instalaciones de servidores, configuraciones de aplicaciones y todos los proyectos de software que requieren seguridad.
+## Profundidad técnica y arquitectura
+Diseño:
 
-## Suele confundirse con
-No debe confundirse con los valores codificados escritos en el código, porque este método crea un riesgo de seguridad.
+## Cosas frecuentemente mezcladas
+Se considera un valor constante. Permanece en el código fijo, la variable está afuera. Uno es un tatuaje, el otro es una insignia.
+
+## Uso en diferentes disciplinas
+Tarjeta: Tarjeta de configuración variable.Batería del control remoto: Energía extraíble.Llavero: Acceso portátil.
 
 ## Preguntas frecuentes
-**¿Por qué deberíamos mantener estas variables en privado?**
-Para evitar que sus contraseñas se vean comprometidas cuando comparte su código.
+**¿Por qué se mantiene oculto?**
+Si se comparte, se descubre y se accede a la cuenta. Si permanece oculto, el riesgo disminuye.
+
+**¿Qué es .env?**
+Es un archivo de valores locales. No entra en el repositorio, pero sí su ejemplo.
+
+**¿Qué sucede si se filtra?**
+La clave se cancela y se auditan los registros. El retraso es considerable.
+
+**¿Cuál es la prioridad?**
+El entorno del sistema sobrescribe el archivo. El valor en vivo proviene del sistema.
 
 
 ## Términos relacionados

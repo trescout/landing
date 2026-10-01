@@ -1,22 +1,34 @@
 # Qu'est-ce que Environment Variables ?
 
-Ce sont de petits identifiants qui contiennent les paramètres et les clés secrètes dont les programmes ont besoin au moment de l'exécution.
+Les variables d'environnement sont des identifiants qui permettent de conserver les paramètres en dehors du code.
 
-## Définition
-Il vous permet de conserver des informations au niveau du système, comme des mots de passe, des clés API ou différentes adresses de serveur, que vous ne devez pas écrire dans votre code. Pendant l'exécution du programme, il lit ces variables et agit en conséquence. Ainsi, le même code peut s’exécuter dans différents environnements avec des paramètres différents.
+## Définition et origine du mot
+« Environnement » signifie environnement. Le mot de passe et l'adresse ne restent pas dans le code, ils restent dans le système. Le même code se comporte différemment dans différents environnements.
 
-## Comment ça marche
-Il est défini via le système d'exploitation ou un fichier spécial, et lorsque le programme démarre, il mémorise ces valeurs.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Présentateur: Chaînes de connexion.Application : Sélection du mode.CI : Clés secrètes.
 
-## Où est-ce utilisé
-Il est utilisé dans les installations de serveurs, les configurations d'applications et tous les projets logiciels nécessitant une sécurité.
+## Profondeur technique et architecture
+Disposition :
 
-## Souvent confondu avec
-Il ne faut pas la confondre avec les valeurs codées en dur écrites dans le code, car cette méthode crée un risque de sécurité.
+## Choses fréquemment mélangées
+Considéré comme une valeur fixe. Il reste dans le code fixe, la variable est à l'extérieur. L'un est un tatouage, l'autre est un badge.
 
-## Questions fréquentes
-**Pourquoi devrions-nous garder ces variables privées ?**
-Pour éviter que vos mots de passe ne soient compromis lorsque vous partagez votre code.
+## Utilisation dans différentes disciplines
+Carte : Carte de réglage variable.Pile de télécommande : Alimentation amovible.Porte-clés : Accès transportable.
+
+## Foire aux questions
+**Pourquoi est-ce gardé secret ?**
+S'il est partagé, il peut être intercepté et le compte peut être ouvert. S'il reste secret, le risque est réduit.
+
+**Qu'est-ce que .env ?**
+C'est un fichier de valeurs locales. Il n'entre pas dans le dépôt, seul son exemple y est inclus.
+
+**Que se passe-t-il s'il fuit ?**
+La clé est révoquée et les journaux sont audités. Le délai est important.
+
+**Quelle est la priorité ?**
+L'environnement système écrase le fichier. La valeur réelle provient du système.
 
 
 ## Termes liés

@@ -2,26 +2,35 @@
 
 > Continuous Integration / Continuous Deployment
 
-Es ist der Prozess, der sicherstellt, dass Software-Updates automatisch getestet und veröffentlicht werden.
+CI/CD (Continuous Integration / Continuous Deployment) ist das automatische Testen und Freigeben des Codes.
 
-## Definition
-Dabei handelt es sich um eine automatische Produktionslinie, die sicherstellen soll, dass der von Softwareentwicklern geschriebene Code fehlerfrei beim Benutzer ankommt. Continuous Integration (CI) sorgt dafür, dass der Code ständig zusammengestellt und getestet wird, und Continuous Deployment (CD) sorgt dafür, dass dieser Code automatisch in das Live-System übertragen wird.
+## Definition und Wortherkunft
+Dabei handelt es sich um eine automatische Linie, die dafür sorgt, dass der geschriebene Code fehlerfrei beim Benutzer ankommt. CI stellt den Code ständig zusammen, testet ihn und überträgt ihn auf eine Live-CD. Die Ära der manuellen Veröffentlichungen geht zu Ende.
 
-## So funktioniert es
-Wenn Sie Ihren Code an das System übermitteln, führt das System zunächst automatisierte Tests durch. Wenn die Tests erfolgreich sind, wird Ihr Code gepackt und für die Veröffentlichung vorbereitet.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Team: Test nach jedem Commit.Mobile: Automatische Freigabe zur Aufbewahrung.Web: Bei Kombination freigeben.
 
-## Wo es eingesetzt wird
-Es wird in modernen Softwareentwicklungsteams verwendet, insbesondere in Anwendungen, die Updates schnell veröffentlichen.
+## Technische Tiefe und Architektur
+Linienstufen:
 
-## Häufig verwechselt mit
-Es kann mit einem rein manuellen Testprozess verwechselt werden, es handelt sich jedoch um einen vollständig automatisierten Ablauf.
+## Häufig gemischte Dinge
+Es wird davon ausgegangen, dass es sich um einen manuellen Test handelt. Allerdings läuft der Ablauf völlig automatisch ab: Der Code kommt, der Test läuft, das Ergebnis kommt raus. Man wartet einfach an der Tür.
 
-## Häufige Fragen
+## Einsatz in verschiedenen Disziplinen
+Küchenband: Zubereitung, Verkostung und Service.Fließband: Teil, Inspektion und Verpackung.Gepäckband: Registrieren, Durchsuchen und Hochladen.
+
+## Häufig gestellte Fragen
 **Warum ist es so wichtig?**
-Es verhindert, dass fehlerhafter Code live geht und erhöht die Entwicklungsgeschwindigkeit.
+Es übersetzt den fehlerhaften Code live und erhöht die Geschwindigkeit. Häufiges Senden ist sicher.
 
 **Sollte es immer automatisch sein?**
-Im Allgemeinen ja, aber für kritische Updates können manuelle Genehmigungsschritte hinzugefügt werden.
+Im Allgemeinen ja, die manuelle Tür wird in der kritischen Version hinzugefügt.
+
+**Was ist der Unterschied zur Lieferung?**
+Die Lieferung bereitet sich vor und wartet, der Einsatz erfolgt und geht. Der erste ist zugelassen, der zweite ist vollautomatisch.
+
+**Was passiert, wenn es kaputt geht?**
+Die Leitung stoppt und die Übertragung wird unterbrochen. Deshalb sind ein Backup-Plan und eine schnelle Wiederherstellung unerlässlich.
 
 
 ## Verwandte Begriffe
@@ -31,10 +40,14 @@ Im Allgemeinen ja, aber für kritische Updates können manuelle Genehmigungsschr
 - [QA](/de/dictionary/qa/)
 
 ## Verwandte Werkzeuge
+- [Free for Dev](/de/discover/free-for-dev/)
 - [Strix](/de/discover/strix/)
+- [Googletest](/de/discover/googletest/)
+- [Trivy](/de/discover/trivy/)
 - [Openship](/de/discover/openship/)
+- [Ipatool](/de/discover/ipatool/)
+- [Checkstyle](/de/discover/checkstyle/)
 - [Flue](/de/discover/flue/)
-- [DevOps-Interview-Guide](/de/discover/devops-interview-guide/)
 
 ---
 Quelle: TreScout Glossar · https://trescout.com/de/dictionary/ci-cd/

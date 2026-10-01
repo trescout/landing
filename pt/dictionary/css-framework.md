@@ -1,22 +1,34 @@
 # O que é CSS Framework?
 
-É um kit de ferramentas que oferece modelos e regras de design prontos para embelezar rapidamente a aparência das páginas da web.
+Framework CSS (framework CSS em turco) é um conjunto de ferramentas que oferece estilos prontos.
 
-## Definição
-Ao criar um site, em vez de escrever do zero como ficarão os botões, menus ou fontes, você utiliza as estruturas prontas oferecidas por esses frameworks. Isso permite que você crie sites com aparência profissional em muito menos tempo.
+## Definição e origem da palavra
+Em vez de escrever botões, menus e fontes do zero, utilizam-se classes prontas. Um visual profissional é criado em pouco tempo. Tailwind, Bootstrap e Bulma são exemplos conhecidos.
 
-## Como funciona
-Você adiciona os arquivos do Framework ao seu projeto e utiliza os nomes prontos que ele oferece em seus códigos.
+## Como conhecer e usar no dia a dia?
+Site: Criação rápida de interface.Painel: Telas de administração.Protótipo: Teste de ideias.
 
-## Onde é usado
-É utilizado nos processos de desenvolvimento de interfaces de sites.
+## Profundidade Técnica e Arquitetura
+Abordagens:
 
-## Costuma ser confundido com
-Pode ser confundido com utilidade em primeiro lugar; Uma abordagem que prioriza a utilidade é uma estrutura, e uma estrutura é uma ferramenta que pode ou não apoiar essa abordagem.
+## Coisas frequentemente misturadas
+É considerado utility-first. Essa é a abordagem, o framework é a ferramenta. A ferramenta suporta ou não a abordagem.
 
-## Perguntas frequentes
-**Todos os sites não são semelhantes?**
-As estruturas são flexíveis; Você pode criar designs originais adicionando suas próprias cores e estilo.
+## Use em diferentes disciplinas
+Conjunto de porta: Batente e folha prontos.Lego: Peças que se encaixam.Refeição pronta: Prato aquecido.
+
+## Perguntas Frequentes
+**Os sites não ficam parecidos?**
+Não ficam. Quando a cor, o tipo e o layout mudam, a identidade muda.
+
+**Quando é usado?**
+Em trabalhos que exigem velocidade. O trabalho manual é escolhido em designs personalizados.
+
+**Qual é o desempenho?**
+É leve se o estilo não utilizado for removido. A forma bruta causa inchaço.
+
+**Qual escolher?**
+O hábito da equipe determina. Documentação e comunidade são procuradas.
 
 
 ## Termos relacionados

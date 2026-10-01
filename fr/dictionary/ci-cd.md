@@ -2,26 +2,35 @@
 
 > Continuous Integration / Continuous Deployment
 
-C'est le processus qui garantit que les mises à jour logicielles sont automatiquement testées et publiées.
+CI/CD (Continuous Integration/Continuous Deployment) est le test et la publication automatiques du code.
 
-## Définition
-Il s'agit d'une ligne de production automatique établie pour garantir que le code écrit par les développeurs de logiciels parvient à l'utilisateur sans aucune erreur. L'intégration continue (CI) garantit que le code est constamment assemblé et testé, et le déploiement continu (CD) garantit que ce code est automatiquement transféré au système actif.
+## Définition et origine du mot
+Il s'agit d'une ligne automatique établie pour garantir que le code écrit parvienne à l'utilisateur sans aucune erreur. CI assemble et teste constamment le code, et le transfère sur un live CD. L’ère des publications manuelles touche à sa fin.
 
-## Comment ça marche
-Lorsque vous soumettez votre code au système, celui-ci exécute d'abord des tests automatisés. Si les tests réussissent, il empaquette votre code et le prépare pour la publication.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Équipe: Test après chaque commit.Mobile: Libération automatique en magasin.Web : Relâchez une fois combiné.
 
-## Où est-ce utilisé
-Il est utilisé dans les équipes de développement de logiciels modernes, en particulier dans les applications qui publient rapidement des mises à jour.
+## Profondeur technique et architecture
+Étapes de la ligne :
 
-## Souvent confondu avec
-Il peut être confondu avec un processus de test purement manuel, mais il s'agit d'un flux entièrement automatisé.
+## Choses fréquemment mélangées
+On pense qu'il s'agit d'un test manuel. Cependant, la ligne est complètement automatique : le code arrive, le test s'exécute, le résultat sort. On attend juste à la porte.
 
-## Questions fréquentes
+## Utilisation dans différentes disciplines
+Ruban de cuisine : Préparation, dégustation et service.Chaîne de montage: Pièce, inspection et emballage.Bande de bagage : Inscription, navigation et téléchargement.
+
+## Foire aux questions
 **Pourquoi est-ce si important ?**
-Cela empêche la mise en ligne d’un code défectueux et augmente la vitesse de développement.
+Il traduit le code défectueux en direct et augmente la vitesse. Les diffusions fréquentes se font en toute sécurité.
 
 **Doit-il toujours être automatique ?**
-Généralement oui, mais des étapes d'approbation manuelle peuvent être ajoutées pour les mises à jour critiques.
+Généralement oui, une porte manuelle est ajoutée dans la version critique.
+
+**Quelle est la différence avec la livraison ?**
+La livraison se prépare et attend, le déploiement se déroule de manière aléatoire. Le premier est homologué, le second est entièrement automatique.
+
+**Que se passe-t-il s'il casse ?**
+La ligne s'arrête et la diffusion est interrompue. C'est pourquoi un plan de sauvegarde et une récupération rapide sont essentiels.
 
 
 ## Termes liés
@@ -31,10 +40,14 @@ Généralement oui, mais des étapes d'approbation manuelle peuvent être ajout�
 - [QA](/fr/dictionary/qa/)
 
 ## Outils liés
+- [Free for Dev](/fr/discover/free-for-dev/)
 - [Strix](/fr/discover/strix/)
+- [Googletest](/fr/discover/googletest/)
+- [Trivy](/fr/discover/trivy/)
 - [Openship](/fr/discover/openship/)
+- [Ipatool](/fr/discover/ipatool/)
+- [Checkstyle](/fr/discover/checkstyle/)
 - [Flue](/fr/discover/flue/)
-- [DevOps-Interview-Guide](/fr/discover/devops-interview-guide/)
 
 ---
 Source : TreScout Glossaire · https://trescout.com/fr/dictionary/ci-cd/

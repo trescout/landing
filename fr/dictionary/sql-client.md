@@ -1,27 +1,40 @@
 # Qu'est-ce que SQL Client ?
 
-Application qui vous aide à interroger et à gérer les informations dans la base de données.
+Un client SQL est une application qui vous permet de vous connecter à des bases de données relationnelles et d'exécuter des requêtes SQL.
 
-## Définition
-Une base de données est comme une immense bibliothèque d’archives. SQL Client est l'interface qui vous permet d'accéder à cette archive et de trouver le livre souhaité ou d'ajouter un nouveau livre.
+## Définition et origine du mot
+SQL est l'acronyme de Structured Query Language (langage de requête structuré). Le client désigne la partie qui utilise le service : le serveur de base de données stocke les données, et le client s'y connecte pour les interroger. DBeaver, DataGrip, TablePlus et psql en ligne de commande en sont des exemples courants.
 
-## Comment ça marche
-Vous entrez l'adresse de la base de données, vous connectez et extrayez les données en tapant des questions en SQL.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Analyste de données : Extrait le rapport du mois dernier à partir de la table des ventes.Développeur : Vérifie visuellement les enregistrements lus par son application.Administrateur de base de données : Gère les sauvegardes, les utilisateurs et les permissions.
 
-## Où est-ce utilisé
-Il est utilisé dans l'analyse de données, le développement de logiciels et la gestion de bases de données.
+## Profondeur technique et architecture
+En arrière-plan d'un client SQL, les éléments suivants fonctionnent :
 
-## Souvent confondu avec
-Ce n'est pas la base de données elle-même, juste une fenêtre qui s'y connecte.
+## Différence entre ORM et Client
+L'ORM (Object-Relational Mapping) est une couche qui vous permet de communiquer avec la base de données depuis le code sans écrire de SQL. Le client SQL est la fenêtre où vous écrivez du SQL. L'ORM augmente la productivité, tandis que le client vous permet de voir ce qui fonctionne réellement. Ils ne sont pas rivaux, mais complémentaires.
 
-## Questions fréquentes
+## Utilisation dans différentes disciplines
+Bibliothéconomie : Le bibliothécaire connaît l'emplacement des étagères et trouve le registre que vous demandez.Comptabilité : L'auditeur qui examine un par un les articles du registre.Logistique : Le terminal portable qui liste les produits en entrepôt.
+
+## Foire aux questions
 **Est-il nécessaire de connaître SQL ?**
-Oui, vous devez connaître les commandes SQL de base pour utiliser ces outils efficacement.
+Vous devez connaître les commandes de base (SELECT, WHERE, JOIN). Les outils graphiques aident, mais pour les requêtes complexes, le SQL est indispensable.
+
+**Existe-t-il un client gratuit ?**
+Oui. DBeaver Community et psql sont gratuits. De nombreuses bases de données proposent également leur propre outil officiel gratuitement.
+
+**Le client stocke-t-il les données ?**
+Non. Le client est uniquement une fenêtre de connexion. Les données restent sur le serveur, supprimer le client ne supprime pas les données.
+
+**Comment sécuriser la connexion ?**
+Utilisez une connexion chiffrée, définissez un mot de passe fort, limitez l'accès par IP et ne partagez les informations de connexion avec personne.
 
 
 ## Termes liés
 - [Database](/fr/dictionary/database/)
 - [Data Pipeline](/fr/dictionary/data-pipeline/)
+- [ORM](/fr/dictionary/orm/)
 
 ## Outils liés
 - [Chat2DB](/fr/discover/chat2db/)

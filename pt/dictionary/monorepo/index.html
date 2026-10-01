@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>O que é Monorepo? · Glossário · TreScout</title>
-<meta name="description" content="Um método de desenvolvimento onde vários projetos de software são mantidos em uma única pasta compartilhada.">
+<meta name="description" content="Monorepo (repositório mono, repositório único) é um sistema para manter vários projetos em um único repositório.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/pt/dictionary/monorepo/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/monorepo/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/monorepo/">
 <link rel="alternate" type="text/markdown" href="/pt/dictionary/monorepo.md">
 <meta property="og:title" content="O que é Monorepo?">
-<meta property="og:description" content="Um método de desenvolvimento onde vários projetos de software são mantidos em uma única pasta compartilhada.">
+<meta property="og:description" content="Monorepo (repositório mono, repositório único) é um sistema para manter vários projetos em um único repositório.">
 <meta property="og:url" content="https://trescout.com/pt/dictionary/monorepo/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="pt_BR">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="O que é Monorepo?">
-<meta name="twitter:description" content="Um método de desenvolvimento onde vários projetos de software são mantidos em uma única pasta compartilhada.">
+<meta name="twitter:description" content="Monorepo (repositório mono, repositório único) é um sistema para manter vários projetos em um único repositório.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Monorepo",
-  "description": "Um método de desenvolvimento onde vários projetos de software são mantidos em uma única pasta compartilhada.",
+  "description": "Monorepo (repositório mono, repositório único) é um sistema para manter vários projetos em um único repositório.",
   "inLanguage": "pt-BR",
   "url": "https://trescout.com/pt/dictionary/monorepo/",
   "inDefinedTermSet": {
@@ -55,15 +55,19 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/pt/dictionary/">← Glossário</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-08-10">Última atualização: 10 de agosto de 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-09-22">Última atualização: 22 de setembro de 2026</time></div>
 <h1 class="disc-title">O que é <span class="disc-accent">Monorepo</span>?</h1>
-<p class="disc-lead">Um método de desenvolvimento onde vários projetos de software são mantidos em uma única pasta compartilhada.</p>
-<section class="disc-sec"><h2>Definição</h2><p>No mundo do software, em vez de os projetos serem desconectados uns dos outros, todos os códigos interligados são reunidos em um único centro. Esse método torna o compartilhamento e as atualizações de código entre projetos muito mais rápidos.</p></section>
-<div class="dict-analogy"><strong>Analogia:</strong> É como manter todos os livros de uma biblioteca, categorizados, num edifício enorme, em vez de os distribuir por edifícios diferentes.</div>
-<section class="disc-sec"><h2>Como funciona</h2><p>Os desenvolvedores acessam todos os projetos por meio de um único repositório mestre, de modo que as alterações feitas em uma biblioteca ficam instantaneamente visíveis em outros projetos.</p></section>
-<section class="disc-sec"><h2>Onde é usado</h2><p>É utilizado em grandes empresas de software e em projetos onde são desenvolvidos microsserviços interligados.</p></section>
-<section class="disc-sec"><h2>Costuma ser confundido com</h2><p>Não se trata de misturar códigos, mas de gerenciá-los regularmente a partir de um único centro.</p></section>
-<section class="disc-sec"><h2>Perguntas frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">É adequado para todos?</p><p class="dict-faq-a">Não, o gerenciamento pode se tornar difícil em projetos muito grandes.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Isso afeta a segurança?</p><p class="dict-faq-a">Ele fornece gerenciamento de código mais seguro com autorização correta.</p></div></div></section>
+<p class="disc-lead">Monorepo (repositório mono, repositório único) é um sistema para manter vários projetos em um único repositório.</p>
+<section class="disc-sec"><h2>Definição e origem da palavra</h2><p>&quot;Mono&quot; significa solteiro. Os códigos vinculados são coletados no centro, o compartilhamento e a atualização são acelerados. As alterações na biblioteca são refletidas imediatamente nos projetos.</p></section>
+<div class="dict-analogy"><strong>Analogia:</strong> É como manter livros categorizados em um prédio gigante, em vez de distribuí-los entre prédios.</div>
+<section class="disc-sec"><h2>Como conhecer e usar no dia a dia?</h2><p><strong>Empresa:</strong> Base de código multiequipe.<br><strong>Microsserviço:</strong> Bibliotecas comuns.<br><strong>Móvel:</strong> Módulos compartilhados.</p></section>
+<section class="disc-sec"><h2>Profundidade Técnica e Arquitetura</h2><p>Layout:</p><pre><code>depo/
+├── uygulamalar/web
+├── uygulamalar/api
+└── kutuphaneler/ortak</code></pre><p>Ferramentas: Bazel, Nx e Turborepo. Custo: O armazém cresce, é necessária inteligência de compilação. O ganho da mudança atômica cobre o custo.</p></section>
+<section class="disc-sec"><h2>Coisas frequentemente misturadas</h2><p>Parece confusão. No entanto, é uma centralização regular. A bagunça se deve à falta de disciplina e não à ordem.</p></section>
+<section class="disc-sec"><h2>Use em diferentes disciplinas</h2><p><strong>Prédio:</strong> A única biblioteca com categorias.<br><strong>Centro comercial:</strong> Lojas com telhados partilhados.<br><strong>Campus:</strong> Edifícios com áreas comuns.</p></section>
+<section class="disc-sec"><h2>Perguntas Frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">É adequado para todos?</p><p class="dict-faq-a">Não. O gerenciamento se torna difícil em um projeto gigante, e demais em um projeto pequeno.</p></div><div class="dict-faq-item"><p class="dict-faq-q">É seguro?</p><p class="dict-faq-a">Por autoridade, sim. Um único centro facilita o controle.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Quando escolher?</p><p class="dict-faq-a">Se a partilha for intensa. Para trabalhos independentes, um armazém separado é suficiente.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Quais ferramentas?</p><p class="dict-faq-a">Bazel, Nx e Turborepo são comuns. O ecossistema determina.</p></div></div></section>
 <section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/repository-checkout/">Repository Checkout</a><a href="/pt/dictionary/git-push/">Git Push</a><a href="/pt/dictionary/code-review/">Code Review</a></div></section>
 <section class="disc-sec"><h2>Ferramentas relacionadas</h2><div class="dict-related"><a href="/pt/discover/portless/">Portless</a><a href="/pt/discover/code-graph-rag/">Code Graph RAG</a></div></section>
 <aside class="disc-cta"><p><strong>Explore ferramentas relacionadas e relatórios diários.</strong> Novos termos e ferramentas surgem todos os dias · junte-se ao acesso antecipado da TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-pt" data-page-type="dictionary" data-content-slug="monorepo" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Seu e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Acesso antecipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Li o <a href="/pt/privacy.html" target="_blank" rel="noopener">aviso de privacidade</a> e concordo com o tratamento do meu e-mail para esta finalidade.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/pt/dictionary/">Todos os termos →</a></aside>

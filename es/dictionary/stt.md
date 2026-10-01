@@ -2,32 +2,37 @@
 
 > Speech-to-Text
 
-Es tecnología que escucha palabras habladas y las convierte en texto escrito.
+STT (Speech-to-Text) es una tecnología de procesamiento de señales e inteligencia artificial que analiza el habla humana en ondas sonoras analógicas o digitales y las convierte en texto escrito con alta precisión.
 
-## Definición
-STT analiza las ondas sonoras y las traduce en palabras que la computadora puede entender. Estos sistemas producen texto analizando las entonaciones y los acentos del habla humana.
+## Origen conceptual, etimología y desarrollo histórico
+STT consta de las iniciales de la expresión inglesa Speech-to-Text. En turco, se utiliza como "voz a texto", "reconocimiento de voz" o "transcripción de voz".
 
-## Cómo funciona
-Los datos de voz se reciben a través del micrófono, la inteligencia artificial analiza esta voz y escribe los textos correspondientes en la pantalla.
+## Modelado acústico y estudio de arquitectura.
+Un motor STT moderno pasa por las siguientes capas al convertir ondas de sonido analógicas en texto digital:
 
-## Dónde se usa
-Se utiliza en aplicaciones para tomar notas en reuniones, sistemas de comando de voz y herramientas de subtítulos.
-
-## Suele confundirse con
-Mezclado con síntesis de voz (Text-to-Speech); Uno convierte sonido en texto y el otro convierte texto en sonido.
+## Áreas de uso y ecosistema de código abierto
 
 ## Preguntas frecuentes
-**¿Puede entender diferentes idiomas?**
-Sí, los modelos STT modernos admiten muchos idiomas y acentos.
+**¿Qué significa STT y qué significa?**
+STT es una abreviatura de "Speech-to-Text". Es una tecnología de inteligencia artificial que analiza señales de sonido, decodifica palabras y las convierte a formato de texto.
 
-**¿Funciona en ambientes ruidosos?**
-Los modelos avanzados pueden filtrar el ruido de fondo, pero el margen de error puede aumentar en entornos muy ruidosos.
+**¿Cuál es la diferencia entre STT y reconocimiento de voz?**
+El reconocimiento de voz (Speaker Identification) se centra en detectar quién es el hablante (identidad biométrica). STT, por otro lado, transcribe el contenido de las palabras habladas independientemente de la identidad del hablante.
+
+**¿Los modelos STT entienden correctamente los sonidos turcos?**
+Los modelos de última generación basados ​​en Whisper y Conformer se entrenan en grandes conjuntos de datos de voz turcos; Puede realizar transcripciones y puntuaciones con gran precisión en turco fonéticamente rico.
+
+**¿Es posible ejecutar STT local?**
+Sí; Gracias a motores optimizados como susurro.cpp o más rápido-whisper, puedes ejecutar tus datos de voz sin conexión y con total privacidad en tu propia computadora, sin enviarlos a ningún servidor en la nube.
 
 
 ## Términos relacionados
 - [Speech-to-Text](/es/dictionary/speech-to-text/)
+- [Speech-to-Speech](/es/dictionary/speech-to-speech/)
 - [Voice Cloning](/es/dictionary/voice-cloning/)
 - [Whisper](/es/dictionary/whisper/)
+- [Tokenizer](/es/dictionary/tokenizer/)
+- [Apple Silicon](/es/dictionary/apple-silicon/)
 
 ## Herramientas relacionadas
 - [Agents](/es/discover/agents/)
