@@ -1,24 +1,37 @@
 # ¿Qué es Infotainment Systems?
 
-Es un panel de entretenimiento con pantalla digital que combina navegación, música y controles del vehículo en los vehículos.
+Los sistemas de infoentretenimiento son paneles táctiles que integran la navegación, la música y los ajustes del vehículo.
 
-## Definición
-Estos sistemas, que están en el centro de los automóviles modernos, permiten al conductor ver información del viaje y brindan entretenimiento a los pasajeros. Es una combinación de las palabras información y entretenimiento.
+## Definición y origen de la palabra
+El término es una combinación de las palabras inglesas information (información) y entertainment (entretenimiento). Es la pantalla central en la consola frontal de los automóviles modernos: el conductor ve la información de viaje y los pasajeros acceden al entretenimiento. La duplicación de pantalla del teléfono (CarPlay, Android Auto) y la compatibilidad con asistentes de voz se han convertido en el estándar.
 
-## Cómo funciona
-Suele funcionar con una pantalla táctil y un sistema de comandos de voz. Actualiza mapas conectándose a Internet, lee sus mensajes emparejándose con su teléfono y le permite administrar la configuración del vehículo.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Navegación: Indicaciones de ruta con tráfico en tiempo real.Música y podcasts: Transmisión de audio sincronizada con el teléfono.Ajustes del vehículo: Control de climatización, asientos y modo de conducción.Estacionamiento y cámara: Cámaras de visión trasera y de entorno.
 
-## Dónde se usa
-Está situado en la consola delantera de los coches modernos, en un punto de fácil acceso para el conductor y los pasajeros.
+## Profundidad técnica y arquitectura
+Capas del sistema:
+
+## Uso en diferentes disciplinas
+Aviación: Pantallas de cabina de cristal en la cabina de mando.Hogar: Panel de hogar inteligente montado en la pared.Venta al por menor: Quioscos de información en tienda.
 
 ## Preguntas frecuentes
 **¿Son seguros estos sistemas?**
-Suelen estar diseñados con comandos de voz y menús simplificados para evitar distraer al conductor.
+Intentan reducir la distracción con comandos de voz y menús simplificados. Aun así, se recomienda realizar las operaciones complejas mientras el vehículo está estacionado.
+
+**¿Funciona sin teléfono?**
+La radio básica y los ajustes del vehículo funcionan. Para la navegación y el streaming, generalmente se requiere la vinculación del teléfono o una conexión celular.
+
+**¿Tiene costo de actualización?**
+Depende de la marca. La mayoría de las empresas lo ofrecen gratis durante los primeros años, luego pueden solicitar una suscripción. Debe preguntar al momento de la compra.
+
+**¿Se puede instalar en un vehículo antiguo?**
+Parcialmente sí con unidades multimedia universales. La compatibilidad con los controles del volante y la cámara varía según el vehículo, por lo que se requiere confirmación antes de la instalación.
 
 
 ## Términos relacionados
 - [Physical AI](/es/dictionary/physical-ai/)
 - [Web Interface](/es/dictionary/web-interface/)
+- [Dashboard](/es/dictionary/dashboard/)
 
 ## Herramientas relacionadas
 - [Headunit Revived](/es/discover/headunit-revived/)

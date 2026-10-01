@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Qu'est-ce que IaaS ? · Glossaire · TreScout</title>
-<meta name="description" content="Il s&#39;agit de la location de ressources matérielles de base telles que des serveurs virtuels et des espaces de stockage sur Internet.">
+<meta name="description" content="IaaS (Infrastructure as a Service, infrastructure en tant que service) consiste à louer du matériel informatique.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/fr/dictionary/iaas/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/iaas/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/iaas/">
 <link rel="alternate" type="text/markdown" href="/fr/dictionary/iaas.md">
 <meta property="og:title" content="Qu'est-ce que IaaS ?">
-<meta property="og:description" content="Il s&#39;agit de la location de ressources matérielles de base telles que des serveurs virtuels et des espaces de stockage sur Internet.">
+<meta property="og:description" content="IaaS (Infrastructure as a Service, infrastructure en tant que service) consiste à louer du matériel informatique.">
 <meta property="og:url" content="https://trescout.com/fr/dictionary/iaas/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="fr_FR">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Qu&#39;est-ce que IaaS ?">
-<meta name="twitter:description" content="Il s&#39;agit de la location de ressources matérielles de base telles que des serveurs virtuels et des espaces de stockage sur Internet.">
+<meta name="twitter:description" content="IaaS (Infrastructure as a Service, infrastructure en tant que service) consiste à louer du matériel informatique.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "IaaS",
-  "description": "Il s'agit de la location de ressources matérielles de base telles que des serveurs virtuels et des espaces de stockage sur Internet.",
+  "description": "IaaS (Infrastructure as a Service, infrastructure en tant que service) consiste à louer du matériel informatique.",
   "inLanguage": "fr",
   "url": "https://trescout.com/fr/dictionary/iaas/",
   "inDefinedTermSet": {
@@ -55,16 +55,20 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/fr/dictionary/">← Glossaire</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossaire · Dev</span><time class="dict-time" datetime="2026-06-27">Dernière mise à jour : 27 juin 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glossaire · Dev</span><time class="dict-time" datetime="2026-09-22">Dernière mise à jour : 22 septembre 2026</time></div>
 <h1 class="disc-title">Qu'est-ce que <span class="disc-accent">IaaS</span> ?</h1>
 <p class="dict-en">Infrastructure as a Service</p>
-<p class="disc-lead">Il s&#39;agit de la location de ressources matérielles de base telles que des serveurs virtuels et des espaces de stockage sur Internet.</p>
-<section class="disc-sec"><h2>Définition</h2><p>Lorsque votre ordinateur n’a plus de courant ou que vous avez besoin d’un serveur, vous louez une partie des immenses centres de données d’entreprises géantes (comme Amazon, Microsoft). Dans ce modèle, vous installez le système d&#39;exploitation et les logiciels, et ils sont responsables du matériel.</p></section>
-<div class="dict-analogy"><strong>Analogie :</strong> C&#39;est comme louer un terrain vide ; Ce que vous construisez dessus dépend entièrement de vous, vous louez simplement l&#39;infrastructure du terrain.</div>
-<section class="disc-sec"><h2>Comment ça marche</h2><p>Les ordinateurs virtuels sont créés et gérés via un panneau sur Internet.</p></section>
-<section class="disc-sec"><h2>Où est-ce utilisé</h2><p>Il est utilisé dans les fournisseurs de cloud tels qu&#39;AWS, Azure et Google Cloud.</p></section>
-<section class="disc-sec"><h2>Souvent confondu avec</h2><p>Peut être confondu avec PaaS ; IaaS fournit le matériel de base, tandis que PaaS fournit un environnement d&#39;exploitation prêt à l&#39;emploi.</p></section>
-<section class="disc-sec"><h2>Questions fréquentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">L&#39;IaaS est-il sécurisé ?</p><p class="dict-faq-a">Oui, mais vous êtes responsable de la sécurité du système d’exploitation et des logiciels.</p></div></div></section>
+<p class="disc-lead">IaaS (Infrastructure as a Service, infrastructure en tant que service) consiste à louer du matériel informatique.</p>
+<section class="disc-sec"><h2>Définition et origine du mot</h2><p>Lorsque la puissance est insuffisante, une partie est louée dans un centre de données géant. Le système d&#39;exploitation et le logiciel sont à votre charge, la responsabilité du matériel incombe au fournisseur. L&#39;analogie du terrain vide est appropriée : l&#39;infrastructure est prête, le bâtiment est à vous.</p></section>
+<div class="dict-analogy"><strong>Analogie :</strong> Similaire à la location d&#39;un terrain nu ; l&#39;infrastructure est prête, le bâtiment vous appartient.</div>
+<section class="disc-sec"><h2>Comment connaître et utiliser dans la vie quotidienne ?</h2><p><strong>Site :</strong> Machine selon le trafic.<br><strong>Sauvegarde :</strong> Disque distant.<br><strong>Test :</strong> Environnement temporaire.</p></section>
+<section class="disc-sec"><h2>Profondeur technique et architecture</h2><p>Couches :</p><p><strong>Machine virtuelle :</strong> Tranche de processeur et de mémoire.<br><strong>Stockage :</strong> Espace bloc et objet.<br><strong>Réseau :</strong> Réseau virtuel et adresse.</p><p>Machine par code :</p><pre><code>resource "aws_instance" "web" {
+  ami           = "ami-12345"
+  instance_type = "t3.micro"
+}</code></pre><p>Règle de coût : La machine oubliée allumée coûte cher. La discipline en matière d&#39;étiquetage et d&#39;alertes est indispensable.</p></section>
+<section class="disc-sec"><h2>Choses fréquemment mélangées</h2><p>Souvent confondu avec le PaaS. L&#39;IaaS fournit le matériel, le PaaS offre un environnement prêt à l&#39;emploi. L&#39;un est un terrain nu, l&#39;autre est un appartement meublé.</p></section>
+<section class="disc-sec"><h2>Utilisation dans différentes disciplines</h2><p><strong>Terrain :</strong> Terrain nu avec infrastructure.<br><strong>Entrepôt :</strong> Entrepôt avec étagères prêtes.<br><strong>Champ :</strong> Location de terre labourée.</p></section>
+<section class="disc-sec"><h2>Foire aux questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">L&#39;IaaS est-il sécurisé ?</p><p class="dict-faq-a">L&#39;infrastructure est sécurisée, la sécurité interne est de votre ressort. La discipline en matière de correctifs et d&#39;accès est indispensable.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Quelle est la différence avec le PaaS ?</p><p class="dict-faq-a">L&#39;IaaS fournit du matériel, le PaaS offre un environnement. Si vous voulez le contrôle, choisissez le premier ; si vous voulez de la rapidité, choisissez le second.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Comment maîtriser les coûts ?</p><p class="dict-faq-a">Éteignez ce qui n&#39;est pas utilisé, choisissez la bonne taille et configurez des alertes.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Quand le choisir ?</p><p class="dict-faq-a">Lorsqu&#39;un contrôle total et une installation personnalisée sont nécessaires. Pour un travail standard, le PaaS est suffisant.</p></div></div></section>
 <section class="disc-sec"><h2>Termes liés</h2><div class="dict-related"><a href="/fr/dictionary/saas/">SaaS</a><a href="/fr/dictionary/paas/">PaaS</a><a href="/fr/dictionary/virtual-machines/">Virtual Machines</a></div></section>
 <section class="disc-sec"><h2>Outils liés</h2><div class="dict-related"><a href="/fr/discover/free-for-dev/">Free for Dev</a></div></section>
 <aside class="disc-cta"><p><strong>Explorez les outils associés et les rapports quotidiens.</strong> Suivez les nouveaux termes et outils technologiques chaque matin dans votre boîte de réception.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-fr" data-page-type="dictionary" data-content-slug="iaas" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Votre adresse e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Accès anticipé</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>J'ai lu <a href="/fr/privacy.html" target="_blank" rel="noopener">la notice de confidentialité</a> et je consens au traitement de mon adresse e-mail à cette fin.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/fr/dictionary/">Tous les termes →</a></aside>

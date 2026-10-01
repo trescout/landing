@@ -1,22 +1,34 @@
 # Was ist Speech-to-Text?
 
-Dabei handelt es sich um eine Technologie, die gesprochene Wörter abhört und diese automatisch in geschriebenen Text umwandelt.
+Speech-to-Text (kurz STT, Speech to Text) ist die Technologie, die Sprache in geschriebenen Text umwandelt.
 
-## Definition
-Dabei handelt es sich um einen Prozess, der Schallwellen analysiert und in digitale Zeichen umwandelt. Künstliche Intelligenz unterscheidet die Betonungen und Wörter der menschlichen Stimme und wandelt sie in Text um. Heutzutage funktioniert es sehr schnell und fehlerfrei.
+## Definition und Wortherkunft
+Schallwellen werden in numerische Attribute übersetzt, das Modell erkennt Wörter. KI liest auch Intonation und Kontext. Es ist nicht fehlerfrei, aber seine Genauigkeit ist bei sauberer Aufnahme hoch.
 
-## So funktioniert es
-Die von Ihrem Mikrofon kommenden Audiodaten gelangen in das System, künstliche Intelligenz verarbeitet diese Daten und spiegelt sie als Text auf Ihrem Bildschirm wider.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Treffen: Automatische Minuten.Assistent: Sprachbefehl.Untertitel: Videotext.
 
-## Wo es eingesetzt wird
-Es wird in Anwendungen zum Notieren von Besprechungen, Sprachassistenten und Untertitelungstools verwendet.
+## Technische Tiefe und Architektur
+Linie:
 
-## Häufig verwechselt mit
-Es kann mit Text-to-Speech (Text-zu-Sprache-Übersetzung) verwechselt werden; Dies ist der genau gegenteilige Vorgang.
+## Häufig gemischte Dinge
+Man geht davon aus, dass es sich um Text-to-Speech handelt. Es wandelt diesen Text in Ton um, diesen Ton in Text. Die beiden sind entgegengesetzte Richtungen.
 
-## Häufige Fragen
+## Einsatz in verschiedenen Disziplinen
+Sekretär: Machen Sie sich beim Sprechen keine Notizen.Schreibmaschine: Schreiben Sie nicht, was gesagt wird.Untertitelraum: Vorbereitung von Texten für die Veröffentlichung.
+
+## Häufig gestellte Fragen
 **Versteht er jeden Akzent?**
-Obwohl moderne Modelle die meisten Akzente verstehen, können sie bei sehr seltenen Sprachen oder verzerrten Sprachaufnahmen Fehler machen.
+Gut mit gebräuchlichen Akzenten, Fehler nehmen mit seltener Sprache und gebrochenem Register zu.
+
+**Wie hoch ist die Genauigkeit?**
+Es zeichnet sich durch eine saubere Aufnahme aus und reduziert Rauschen und Fachjargon. Kritischer Text wird überprüft.
+
+**Unterstützt es Türkisch?**
+Ja. Große Models sprechen gut Türkisch, Akzent und Terminologie werden getestet.
+
+**Besteht ein Datenschutzrisiko?**
+Im Cloud-Dienst geht der Ton aus. Bei sensiblen Meetings wird das lokale Modell bevorzugt.
 
 
 ## Verwandte Begriffe

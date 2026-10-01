@@ -6,13 +6,13 @@ OpenStreetMap (OSM for short) is a free and open world map drawn together by vol
 The project was launched in 2004. Unlike commercial maps, the data is not produced by a company, but by a community of volunteers: Anyone can add new roads, buildings or landmarks, and correct errors. The data is publicly available under an ODbL license. This means that you can use the data for free, but you must indicate the source when sharing it.
 
 ## How to Know and Use in Daily Life?
-Navigation applications: Applications such as OsmAnd and MAPS.ME get their maps from OSM data. Logistics: Route planning of distribution companies. Disaster relief: Quick mapping of crisis areas by volunteers (e.g. HOT community). City planning: Bicycle path and green space analyses.
+Navigation apps: Applications such as OsmAnd and MAPS.ME get their maps from OSM data.Logistics: Route planning of distribution companies.Disaster relief: Volunteers quickly mapping crisis areas (e.g. HOT community).Town planning: Bicycle path and green area analysis.
 
 ## Technical Depth and Architecture
 OSM data consists of three building blocks:
 
 ## Use in Different Disciplines
-Encyclopedia: Wikipedia model where everyone writes and corrects. Open source software: Linux kernel grown with voluntary contributions. Citizen science: Collecting bird observation records in a common database.
+Encyclopedia: The Wikipedia model where everyone writes and edits.Open source software: Linux kernel growing with voluntary contribution.Citizen science: Collecting bird observation records in a common database.
 
 ## Frequently Asked Questions
 **Is it really free?**

@@ -1,22 +1,34 @@
 # O que é Transcription?
 
-É o processo de analisar conversas de voz ou gravações por inteligência artificial e convertê-las em texto escrito.
+Transcrição é o processo de transcrever a gravação de áudio em texto escrito.
 
-## Definição
-A transcrição é um processo que converte ondas sonoras em caracteres digitais. Hoje, graças à inteligência artificial, atingiu índices de precisão muito elevados. Indispensável para fazer anotações de reuniões ou transcrever entrevistas.
+## Definição e origem da palavra
+“Transcrever” significa anotar. A gravação é carregada, as frequências são decodificadas, as palavras são reconhecidas e a pontuação é adicionada. A saída é o documento, legenda ou transcrição. É uma questão de documentação.
 
-## Como funciona
-O arquivo de áudio é carregado no sistema, a IA analisa as frequências sonoras, reconhece as palavras e cria o texto adicionando sinais de pontuação.
+## Como conhecer e usar no dia a dia?
+Legenda: Texto de vídeo.Quantia: Gravação de reunião.Arquivo: Diretório de memorando de voz.
 
-## Onde é usado
-Ele é usado em aplicações de legendagem de vídeos, atas de reuniões e mensagens de voz.
+## Profundidade Técnica e Arquitetura
+Passos:
 
-## Costuma ser confundido com
-É o mesmo conceito do Speech-to-Text, só que é mais orientado para a documentação em termos de uso.
+## Coisas frequentemente misturadas
+É considerado o mesmo que fala para texto. A tecnologia é a mesma, o trabalho é diferente: o STT traduz instantaneamente, a transcrição produz documentos. Um é o motor, o outro é o trabalho.
 
-## Perguntas frequentes
+## Use em diferentes disciplinas
+Secretário(a): Escrever o que é dito.Escriturário de minutos: Ata de audiência.Oficial de arquivo: Diretório de registro.
+
+## Perguntas Frequentes
 **Funciona em todos os idiomas?**
-Os modelos modernos de IA suportam dezenas de idiomas, mas a taxa de sucesso pode variar de acordo com a fala com sotaque.
+Dezenas de idiomas são suportados, sotaques e jargões mudam o sucesso.
+
+**Qual é a precisão?**
+É alto em gravação limpa. O nome e o termo são corrigidos na leitura final.
+
+**Quanto tempo leva?**
+Varia dependendo do tamanho e modelo da gravação. Notas curtas são concluídas em minutos.
+
+**É pago?**
+Os modelos abertos são executados gratuitamente e os serviços em nuvem são cobrados por vez.
 
 
 ## Termos relacionados

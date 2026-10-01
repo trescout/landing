@@ -1,27 +1,40 @@
 # O que é Logs?
 
-Eles são registros com carimbo de data e hora das operações que um software executa em segundo plano e dos erros que encontra.
+Log, que significa registro em português, são linhas de eventos do sistema com carimbo de data/hora.
 
-## Definição
-Enquanto o software está em execução, eles anotam silenciosamente em um caderno o que estão fazendo em segundo plano. Quando ocorre um erro, os desenvolvedores abrem este notebook e verificam o que aconteceu e em que momento. Esses registros são a ferramenta mais importante para compreender a saúde do sistema.
+## Definição e origem da palavra
+"Log" significa diário de bordo: o capitão escreve o que aconteceu no caderno. O software também escreve linha por linha o que está fazendo em segundo plano. No momento de um erro, o caderno é aberto e a hora é verificada. É a primeira fonte de saúde do sistema.
 
-## Como funciona
-Graças aos comandos integrados ao software, cada evento importante é gravado em um arquivo ou banco de dados.
+## Como conhecer e usar no dia a dia?
+Apresentador: Depuração.Aplicação: Relatório de falha.Segurança: Rastreamento de eventos.
 
-## Onde é usado
-É usado em servidores, aplicativos e processos de depuração.
+## Profundidade Técnica e Arquitetura
+Regras de um bom registro:
 
-## Costuma ser confundido com
-Pode ser confundido com vestígios; Os logs são o registro de um evento, enquanto os rastreamentos são o caminho seguido por esse evento.
+## Coisas frequentemente misturadas
+Confundido com trace. Log é o registro do evento, trace é o caminho do evento. Um é uma foto, o outro é um filme.
 
-## Perguntas frequentes
-**Por que precisamos de registros?**
-Quando o sistema trava, a única maneira de descobrir o motivo é lendo os logs.
+## Use em diferentes disciplinas
+Caixa-preta: Dados de voo.Diário: Notas em ordem cronológica.Recibo de caixa: Registro de transações.
+
+## Perguntas Frequentes
+**Por que o log é necessário?**
+A causa da falha está no registro. Um sistema sem registros voa às cegas.
+
+**Onde é gravado?**
+Em um arquivo ou sistema centralizado. Em produção, recomenda-se a coleta centralizada.
+
+**Por quanto tempo é armazenado?**
+Depende da política. A depuração requer semanas, a auditoria requer anos.
+
+**Dados pessoais são registrados?**
+Não. Senhas e identificações não entram no registro, são mascaradas.
 
 
 ## Termos relacionados
 - [Observability](/pt/dictionary/observability/)
 - [QA](/pt/dictionary/qa/)
+- [Traces](/pt/dictionary/traces/)
 
 ## Ferramentas relacionadas
 - [Grafana](/pt/discover/grafana/)

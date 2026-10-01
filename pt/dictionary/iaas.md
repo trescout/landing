@@ -2,23 +2,35 @@
 
 > Infrastructure as a Service
 
-É o aluguel de recursos básicos de hardware como servidores virtuais e espaço de armazenamento pela internet.
+IaaS (Infrastructure as a Service, infraestrutura como serviço) é o aluguel de hardware.
 
-## Definição
-Quando seu computador fica sem energia ou você precisa de um servidor, você aluga uma parte dos enormes data centers de empresas gigantes (como Amazon, Microsoft). Neste modelo, você instala o sistema operacional e o software, e eles são responsáveis ​​pelo hardware.
+## Definição e origem da palavra
+Quando o poder não é suficiente, partes são alugadas de um grande centro de dados. O sistema operacional e o software são seus, a responsabilidade pelo hardware é do provedor. A analogia de um terreno vazio é apropriada: a infraestrutura está pronta, o edifício é seu.
 
-## Como funciona
-Os computadores virtuais são criados e gerenciados através de um painel na Internet.
+## Como conhecer e usar no dia a dia?
+Site: Máquina de acordo com o tráfego.Backup: Disco remoto.Teste: Ambiente temporário.
 
-## Onde é usado
-É usado em provedores de nuvem como AWS, Azure e Google Cloud.
+## Profundidade Técnica e Arquitetura
+Camadas:
 
-## Costuma ser confundido com
-Pode ser confundido com PaaS; IaaS fornece o hardware básico, enquanto PaaS fornece um ambiente operacional pronto.
+## Coisas frequentemente misturadas
+Confunde-se com PaaS. IaaS fornece hardware, PaaS oferece ambiente pronto. Um é o terreno, o outro é o apartamento mobiliado.
 
-## Perguntas frequentes
+## Use em diferentes disciplinas
+Terreno: Terreno vazio com infraestrutura.Armazém: Armazém com prateleiras prontas.Campo: Aluguel de terra arada.
+
+## Perguntas Frequentes
 **O IaaS é seguro?**
-Sim, mas você é responsável pela segurança do sistema operacional e do software.
+A infraestrutura é segura, a segurança interna é sua responsabilidade. Disciplina de patches e acesso é essencial.
+
+**Qual é a diferença do PaaS?**
+IaaS fornece hardware, PaaS oferece um ambiente. Se você precisa de controle, escolha o primeiro; se deseja velocidade, escolha o segundo.
+
+**Como manter os custos sob controle?**
+Desligue o que não está em uso, escolha o tamanho correto e configure alertas.
+
+**Quando escolher?**
+Quando for necessário controle total e instalação personalizada. Para tarefas padrão, o PaaS é suficiente.
 
 
 ## Termos relacionados

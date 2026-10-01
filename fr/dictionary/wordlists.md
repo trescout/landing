@@ -1,22 +1,34 @@
 # Qu'est-ce que Wordlists ?
 
-Il s'agit de listes de mots et de mots de passe fréquemment utilisés pour tenter de se connecter aux systèmes.
+La liste de mots (Wordlist) est la liste de candidats testés lors d'un test de sécurité.
 
-## Définition
-Ces listes, utilisées dans les tests de cybersécurité, contiennent des milliers, voire des millions de combinaisons de mots de passe possibles. Des tests automatisés sont effectués avec ces listes pour comprendre le niveau de protection par mot de passe d'un système. Ce processus est souvent appelé une attaque par « force brute ».
+## Définition et origine du mot
+Word signifie mot et list signifie liste. Des milliers de mots de passe potentiels sont classés et leur niveau de protection est mesuré. Ils sont exécutés lors de tests en laboratoire et de tests d'intrusion.
 
-## Comment ça marche
-Le logiciel de sécurité essaie chaque mot de cette liste un par un ; Si l'on l'attrape, le système est connecté.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Laboratoire : Mesure de la résistance.Contrôle : Audit de politique.Éducation: Cours de sensibilisation.
 
-## Où est-ce utilisé
-Il est utilisé dans les laboratoires de cybersécurité et les tests d’intrusion.
+## Profondeur technique et architecture
+Logique : La liste est testée, le mot de passe faible tombe. Défense : Mot de passe long, verrouillage et MFA. Règle : Tenter d'accéder à un système sans autorisation est un crime, le test doit être complet et faire l'objet d'une autorisation écrite. Le nom de l'outil n'est pas donné, la méthode est expliquée.
 
-## Souvent confondu avec
-Peut être confondu avec les bases de données ; ce ne sont que des fichiers texte brut.
+## Choses fréquemment mélangées
+On pense à une base de données. Pourtant, ce sont des fichiers texte brut. L'un est une bibliothèque, l'autre est une liste.
 
-## Questions fréquentes
-**Ces listes sont-elles légales ?**
-Son utilisation dans les tests de sécurité est légale et nécessaire, mais attaquer des systèmes non autorisés constitue un crime.
+## Utilisation dans différentes disciplines
+Cahier : Liste de combinaisons numériques.Trousseau de clés : Clés testées.Roue de mot de passe : Roue de probabilité.
+
+## Foire aux questions
+**Est-ce légal ?**
+Oui pour le test, non sans autorisation. Le périmètre et l'autorisation sont documentés.
+
+**Comment se protéger ?**
+Avec un mot de passe long, le verrouillage et le MFA. La liste chasse les faibles.
+
+**Où peut-on en trouver ?**
+Il existe des ensembles de sécurité ouverts. Le but est la défense, pas l'attaque.
+
+**Est-ce efficace ?**
+Contre un mot de passe faible, oui. Une politique forte rend la liste inutile.
 
 
 ## Termes liés

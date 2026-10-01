@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Qu'est-ce que Gateway ? · Glossaire · TreScout</title>
-<meta name="description" content="C&#39;est le port qui gère et fait transiter le trafic de données entre différents réseaux.">
+<meta name="description" content="Une passerelle (gateway en anglais) est un point de connexion qui gère le trafic entre différents réseaux.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/fr/dictionary/gateway/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/gateway/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/gateway/">
 <link rel="alternate" type="text/markdown" href="/fr/dictionary/gateway.md">
 <meta property="og:title" content="Qu'est-ce que Gateway ?">
-<meta property="og:description" content="C&#39;est le port qui gère et fait transiter le trafic de données entre différents réseaux.">
+<meta property="og:description" content="Une passerelle (gateway en anglais) est un point de connexion qui gère le trafic entre différents réseaux.">
 <meta property="og:url" content="https://trescout.com/fr/dictionary/gateway/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="fr_FR">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Qu&#39;est-ce que Gateway ?">
-<meta name="twitter:description" content="C&#39;est le port qui gère et fait transiter le trafic de données entre différents réseaux.">
+<meta name="twitter:description" content="Une passerelle (gateway en anglais) est un point de connexion qui gère le trafic entre différents réseaux.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Gateway",
-  "description": "C'est le port qui gère et fait transiter le trafic de données entre différents réseaux.",
+  "description": "Une passerelle (gateway en anglais) est un point de connexion qui gère le trafic entre différents réseaux.",
   "inLanguage": "fr",
   "url": "https://trescout.com/fr/dictionary/gateway/",
   "inDefinedTermSet": {
@@ -55,17 +55,18 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/fr/dictionary/">← Glossaire</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossaire · Dev</span><time class="dict-time" datetime="2026-07-01">Dernière mise à jour : 1 juillet 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glossaire · Dev</span><time class="dict-time" datetime="2026-09-22">Dernière mise à jour : 22 septembre 2026</time></div>
 <h1 class="disc-title">Qu'est-ce que <span class="disc-accent">Gateway</span> ?</h1>
-<p class="disc-lead">C&#39;est le port qui gère et fait transiter le trafic de données entre différents réseaux.</p>
-<section class="disc-sec"><h2>Définition</h2><p>C&#39;est comme un pont qui permet à deux réseaux différents de communiquer entre eux. Par exemple, l’appareil qui connecte Internet chez vous à Internet dans le monde extérieur est une passerelle. Il vérifie que les données vont à la bonne adresse.</p></section>
+<p class="disc-lead">Une passerelle (gateway en anglais) est un point de connexion qui gère le trafic entre différents réseaux.</p>
+<section class="disc-sec"><h2>Définition et origine du mot</h2><p>Gate signifie porte et way signifie chemin. Il s&#39;agit d&#39;une passerelle permettant à deux réseaux de communiquer entre eux : l&#39;appareil reliant l&#39;internet de votre domicile au monde extérieur en est l&#39;exemple typique. Il examine les données entrantes et décide vers quel réseau elles doivent être dirigées.</p></section>
 <div class="dict-analogy"><strong>Analogie :</strong> C&#39;est comme la porte frontière d&#39;un pays ; Il contrôle les arrivées et s&#39;assure qu&#39;elles se déroulent dans la bonne direction.</div>
-<section class="disc-sec"><h2>Comment ça marche</h2><p>Il examine les données entrantes, décide vers quel réseau elles doivent accéder et dirige le trafic.</p></section>
-<section class="disc-sec"><h2>Où est-ce utilisé</h2><p>On le trouve dans les modems domestiques, les ports réseau d&#39;entreprise et les systèmes cloud.</p></section>
-<section class="disc-sec"><h2>Souvent confondu avec</h2><p>Peut être confondu avec API Gateway ; Alors qu&#39;API Gateway gère les services dans le monde des logiciels, la passerelle fonctionne au niveau physique ou réseau.</p></section>
-<section class="disc-sec"><h2>Questions fréquentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Puis-je accéder à Internet sans passerelle ?</p><p class="dict-faq-a">Non, votre réseau local ne peut pas se connecter au monde extérieur et reste isolé.</p></div></div></section>
+<section class="disc-sec"><h2>Comment connaître et utiliser dans la vie quotidienne ?</h2><p><strong>Modem domestique :</strong> Connecte votre maison au réseau du fournisseur.<br><strong>Passerelle d&#39;entreprise :</strong> Point de contrôle du trafic de bureau.<br><strong>Cloud :</strong> La porte d&#39;entrée entre les réseaux virtuels.</p></section>
+<section class="disc-sec"><h2>Profondeur technique et architecture</h2><p>Les fonctions de la passerelle :</p><p><strong>Traduction d&#39;adresses (NAT) :</strong> Convertit les adresses internes en une seule adresse externe.<br><strong>Filtrage :</strong> Bloque le trafic indésirable à la porte.<br><strong>Routage :</strong> Achemine le paquet vers le bon réseau.</p><p>Les informations de route par défaut sont les suivantes :</p><pre><code>default via 192.168.1.1 dev eth0</code></pre><p>Cette ligne indique que toute destination non reconnue sera envoyée via le modem. La passerelle API, quant à elle, se situe à un niveau différent : elle gère les requêtes de service, et non le réseau.</p></section>
+<section class="disc-sec"><h2>Choses fréquemment mélangées</h2><p>Elle peut être confondue avec une passerelle API. La passerelle API gère les services logiciels, tandis que la passerelle réseau opère au niveau du réseau. L&#39;une est une porte d&#39;application, l&#39;autre est une porte de routage.</p></section>
+<section class="disc-sec"><h2>Utilisation dans différentes disciplines</h2><p><strong>Poste frontière :</strong> Contrôle et orientation des arrivants.<br><strong>Port :</strong> Passage des navires en douane.<br><strong>Réception:</strong> Orientation du visiteur vers le bon étage.</p></section>
+<section class="disc-sec"><h2>Foire aux questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Peut-on accéder à Internet sans passerelle (gateway) ?</p><p class="dict-faq-a">Non. Le réseau local ne peut pas se connecter au monde extérieur, il reste isolé.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Quelle est la différence avec une passerelle API (API gateway) ?</p><p class="dict-faq-a">La passerelle réseau transporte des paquets, la passerelle API gère des requêtes. L&#39;une est au niveau réseau, l&#39;autre au niveau application.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Laquelle utilise-t-on à la maison ?</p><p class="dict-faq-a">La passerelle intégrée à votre modem suffit. Aucun réglage supplémentaire n&#39;est nécessaire, l&#39;adresse est distribuée automatiquement.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Deux réseaux peuvent-ils être maintenus séparés ?</p><p class="dict-faq-a">Oui. Le passage est bloqué par des règles de pare-feu et les réseaux fonctionnent de manière isolée.</p></div></div></section>
 <section class="disc-sec"><h2>Termes liés</h2><div class="dict-related"><a href="/fr/dictionary/api-gateway/">API Gateway</a><a href="/fr/dictionary/network-stack/">Network Stack</a><a href="/fr/dictionary/proxy/">Proxy</a></div></section>
-<section class="disc-sec"><h2>Outils liés</h2><div class="dict-related"><a href="/fr/discover/omniroute/">OmniRoute</a><a href="/fr/discover/fanqiang/">Fanqiang</a><a href="/fr/discover/openwa/">OpenWA</a><a href="/fr/discover/grok2api/">Grok2api</a></div></section>
+<section class="disc-sec"><h2>Outils liés</h2><div class="dict-related"><a href="/fr/discover/omniroute/">OmniRoute</a><a href="/fr/discover/fanqiang/">Fanqiang</a><a href="/fr/discover/gitdiagram/">Gitdiagram</a><a href="/fr/discover/openwa/">OpenWA</a><a href="/fr/discover/grok2api/">Grok2api</a></div></section>
 <aside class="disc-cta"><p><strong>Explorez les outils associés et les rapports quotidiens.</strong> Suivez les nouveaux termes et outils technologiques chaque matin dans votre boîte de réception.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-fr" data-page-type="dictionary" data-content-slug="gateway" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Votre adresse e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Accès anticipé</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>J'ai lu <a href="/fr/privacy.html" target="_blank" rel="noopener">la notice de confidentialité</a> et je consens au traitement de mon adresse e-mail à cette fin.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/fr/dictionary/">Tous les termes →</a></aside>
 <p class="disc-disclaimer">Cette explication a été rédigée en langage clair pour TreScout puis <strong>traduite automatiquement</strong> depuis l’original turc · la version turque fait foi. Si quelque chose vous semble erroné ou manquant, écrivez à <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/gateway/">Lire en turc →</a></p>
 </article>

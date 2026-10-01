@@ -1,22 +1,34 @@
 # Qu'est-ce que Speech-to-Text ?
 
-C'est une technologie qui écoute les paroles prononcées et les convertit automatiquement en texte écrit.
+La technologie Speech-to-text (en abrégé STT, de la parole au texte) permet de convertir la voix en texte écrit.
 
-## Définition
-C'est un processus qui analyse les ondes sonores et les convertit en caractères numériques. L'intelligence artificielle distingue les intonations et les mots de la voix humaine et les transforme en texte. De nos jours, cela fonctionne très rapidement et sans erreur.
+## Définition et origine du mot
+Les ondes sonores sont converties en caractéristiques numériques, le modèle reconnaît les mots. L'intelligence artificielle lit également l'intonation et le contexte. Ce n'est pas sans erreur, mais la précision est élevée avec un enregistrement propre.
 
-## Comment ça marche
-Les données audio provenant de votre microphone entrent dans le système, l'intelligence artificielle traite ces données et les reflète sous forme de texte sur votre écran.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Réunion : Procès-verbal automatique.Assistant : Commande vocale.Sous-titres : Texte vidéo.
 
-## Où est-ce utilisé
-Il est utilisé dans les applications de prise de notes de réunion, les assistants vocaux et les outils de sous-titrage.
+## Profondeur technique et architecture
+Ligne :
 
-## Souvent confondu avec
-Il peut être confondu avec Text-to-Speech (traduction de texte en parole) ; C’est exactement le processus inverse.
+## Choses fréquemment mélangées
+On pense qu'il s'agit de synthèse vocale (text-to-speech). Celle-ci convertit le texte en son, tandis que celle-là convertit le son en texte. Les deux sont des directions opposées.
 
-## Questions fréquentes
+## Utilisation dans différentes disciplines
+Secrétaire : Prendre des notes en parlant.Dactylographe : Écrire ce qui est dit.Salle de sous-titrage : Préparer le texte pour la diffusion.
+
+## Foire aux questions
 **Comprend-il tous les accents ?**
-Bien que les modèles modernes comprennent la plupart des accents, ils peuvent commettre des erreurs avec des langues très rares ou des enregistrements vocaux déformés.
+Il est efficace avec les accents courants, mais les erreurs augmentent avec les langues rares et les enregistrements de mauvaise qualité.
+
+**Quelle est sa précision ?**
+Elle est élevée avec un enregistrement clair, mais diminue avec le bruit et le jargon. Les textes critiques doivent être relus.
+
+**Prend-il en charge le turc ?**
+Oui. Les grands modèles sont performants en turc, bien que l'accent et la terminologie doivent être testés.
+
+**Y a-t-il un risque pour la confidentialité ?**
+Avec un service cloud, l'audio est envoyé à l'extérieur. Pour les réunions sensibles, un modèle local est préférable.
 
 
 ## Termes liés

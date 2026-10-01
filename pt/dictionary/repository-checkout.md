@@ -1,19 +1,31 @@
 # O que é Repository Checkout?
 
-É o processo de copiar todos os arquivos de um projeto de software de um servidor central para o seu próprio computador.
+Check-out do repositório é o processo de download de uma versão específica do repositório para o seu espaço de trabalho.
 
-## Definição
-Checkout é pegar uma versão específica de um projeto do servidor e baixá-la para seu próprio espaço de trabalho. Desta forma, você pode acessar o estado atual do projeto e começar a fazer alterações nele. No mundo do software, é a etapa básica de criação de uma cópia local do projeto.
+## Definição e origem da palavra
+Você obtém a versão atual do projeto do servidor e a leva para sua mesa. É como pegar um livro emprestado na biblioteca: a fonte permanece, você trabalha com a cópia. As informações de histórico e versão acompanham a cópia.
 
-## Como funciona
-Geralmente é feito usando ferramentas como Git, via terminal com o comando 'git checkout', ou via botões no ambiente de desenvolvimento.
+## Como conhecer e usar no dia a dia?
+Novo projeto: Baixando o repositório pela primeira vez.Migração de versão: Não volte para a tag antiga e examine o erro.Experimente o ramo: Não abra a filial do seu amigo localmente.
 
-## Onde é usado
-É usado quando você está apenas iniciando um projeto ou precisa mudar para uma versão diferente do projeto.
+## Profundidade Técnica e Arquitetura
+O fluxo é o seguinte:
 
-## Perguntas frequentes
+## Use em diferentes disciplinas
+Biblioteca: Não tire o livro da estante e leve-o para a mesa.Arquivo: Remova a pasta do armazenamento e examine-a.Fotografia: Não aceite pressão do negativo.
+
+## Perguntas Frequentes
 **Ele só baixa arquivos?**
-Ele traz não só os arquivos, mas também o histórico e informações de versão do projeto.
+Não. Informações sobre histórico e versão também estão incluídas, para que você possa reverter para a versão antiga.
+
+**Qual é a diferença com Clone?**
+Clone é o download inicial, checkout é a passagem pelo repositório baixado. A ordem é nessa direção.
+
+**Como reverter para a versão antiga?**
+É passado com uma tag ou hash de commit. Se houver um trabalho salvo, ele será armazenado primeiro.
+
+**O que é mudar?**
+É o comando moderno para ramificar. Como o checkout dá muito trabalho, o Git o divide em dois: mudar para o branch, restaurar para o arquivo.
 
 
 ## Termos relacionados

@@ -1,52 +1,35 @@
-# What is a Chair?
+# What is Chair?
 
-> Board Chair / Chair of the Board
+Chair is the person who manages a board of directors and oversees the course of the institution.
 
-**Category:** Dev  
-**Last updated:** 2026-09-22
+## Definition and Word Origin
+"Chair" means chair in English. It comes from the chair on which the person managing the meeting sits, and over time it became the name of the office. It is a neutral title that does not specify gender. The Chair oversees the functioning of the board of directors and long-term strategy, not the daily affairs of the company.
 
-A Chair (short for Chair of the Board or Chairman/Chairwoman) is the executive presiding officer who leads a board of directors, ensuring strategic governance, fiduciary integrity, and long-term shareholder stewardship.
-
-## Definition and Etymology
-The title originates from the parliamentary custom where the designated presiding officer occupied the solitary ceremonial 'chair' of authority during governance assemblies. Today, it represents a gender-neutral office of strategic oversight. Rather than managing daily operational minutiae, the Chair steers boardroom deliberations, supervises executive accountability, and safeguards institutional longevity.
-
-## Everyday Context and Practical Usage
-- **Corporations:** Presiding over quarterly board meetings and evaluating CEO performance.
-- **Nonprofits & Foundations:** Guiding fiduciary committees, donor trust, and statutory adherence.
-- **Academic Institutions:** Presiding over university senates or academic departmental councils.
+## How to Know and Use in Daily Life?
+Companies: The chairman who conducts the board meetings.Associations: The person who carries out the general assembly and council processes.Universities: Head of department or department.
 
 ## Technical Depth and Architecture
-Key Governance Responsibilities:- **Agenda Setting:** Determining strategic topics, allocation of boardroom time, and committee charters.
-- **Deliberative Process:** Ensuring constructive debate, managing consensus, and recording dissenting votes.
-- **Executive Supervision:** Facilitating formal board evaluations of the CEO and senior management.
-- **Shareholder Liaison:** Acting as the governance bridge between institutional investors and directors.
+Duties of the President:
 
-Sound corporate governance frameworks (such as the UK Corporate Governance Code and OECD guidelines) strongly recommend separating the roles of Chair and CEO to guarantee impartial board oversight.
+## Frequently Mixed Things
+Can be confused with CEO. The CEO manages the company, and the chairman manages the board that manages the company. One is in charge of execution and the other is in charge of auditing.
 
-## Commonly Confused With
-Commonly confused with the Chief Executive Officer (CEO). The CEO runs the operational company; the Chair leads the governing board that oversees and evaluates the CEO. One directs execution; the other leads oversight.
-
-## Cross-Disciplinary Perspectives
-- **Court of Law:** A presiding judge ensuring procedural fairness and adherence to rules.
-- **Parliament:** The Speaker managing debate time and formal voting across members.
-- **Symposium:** The panel moderator directing questions and ensuring balanced discourse.
-
-## Analogy
-Like a presiding judge in a courtroom who ensures fair debate, enforces rules of procedure, and guarantees impartial outcomes without personally presenting evidence.
+## Use in Different Disciplines
+Court: The judge presiding over the hearing.Council: The vice president chairs the session.Panel: The moderator giving the floor to the speakers.
 
 ## Frequently Asked Questions
+**Does Chair manage the daily affairs of the company?**
+Usually no. Daily work is in the hands of the CEO and his team. The Chair deals with the functioning of the board and strategic oversight.
 
-**Does a Chair manage day-to-day company operations?**  
-No. Daily operations belong strictly to the CEO and executive officers. The Chair focuses on board governance, long-term strategic direction, and supervisory oversight.
+**Can the Chair and the CEO be the same person?**
+It is legally possible in some countries, but corporate governance principles recommend separation. Merger weakens control.
 
-**Can the Chair and CEO be the same individual?**  
-In some jurisdictions it is legally permitted, but modern corporate governance standards recommend separating them to prevent conflicts of interest and compromised oversight.
+**How to choose a chair?**
+They are usually elected by the board from among the board members. Term of office is written in the articles of association.
 
-**How is a Chair appointed?**  
-Typically elected by vote of the board of directors from among its sitting members, in accordance with the corporate bylaws.
+**Is a chair required in a small company?**
+If there is a board of directors, there is also a chairman. In small companies with a single partner, this role is usually held by the partner and is not filled separately.
 
-**Do early-stage startups need an independent Chair?**  
-In early seed stages, the founding CEO usually presides. Independent non-executive Chairs are typically introduced as institutional investors join the board.
 
 ## Related terms
 - [CEO](/en/dictionary/ceo/)
@@ -54,4 +37,4 @@ In early seed stages, the founding CEO usually presides. Independent non-executi
 - [AI Team Operations](/en/dictionary/ai-team-operations/)
 
 ---
-Source: TreScout Tech Dictionary · https://trescout.com/en/dictionary/chair/
+Source: TreScout Dictionary · https://trescout.com/en/dictionary/chair/

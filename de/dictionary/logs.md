@@ -1,27 +1,40 @@
 # Was ist Logs?
 
-Dabei handelt es sich um zeitgestempelte Aufzeichnungen der Vorgänge, die eine Software im Hintergrund ausführt, und der Fehler, auf die sie stößt.
+Ein Log ist eine zeitgestempelte Zeile von Systemereignissen.
 
-## Definition
-Während die Software läuft, notieren sie stillschweigend in einem Notizbuch, was sie im Hintergrund tun. Wenn ein Fehler auftritt, öffnen Entwickler dieses Notizbuch und schauen sich an, was zu welchem ​​Zeitpunkt passiert ist. Diese Aufzeichnungen sind das wichtigste Instrument, um den Zustand des Systems zu verstehen.
+## Definition und Wortherkunft
+"Log" bedeutet Logbuch eines Schiffes: Der Kapitän schreibt auf, was passiert ist. Auch die Software schreibt im Hintergrund Zeile für Zeile auf, was sie tut. Im Fehlerfall wird das Buch geöffnet und auf die Uhrzeit geschaut. Es ist die erste Quelle für die Systemgesundheit.
 
-## So funktioniert es
-Dank der in der Software integrierten Befehle wird jedes wichtige Ereignis in eine Datei oder Datenbank geschrieben.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Moderator: Fehlerbehebung.Anwendung: Absturzbericht.Sicherheit: Ereignisverfolgung.
 
-## Wo es eingesetzt wird
-Es wird in Servern, Anwendungen und Debugging-Prozessen verwendet.
+## Technische Tiefe und Architektur
+Regeln für gute Protokollierung:
 
-## Häufig verwechselt mit
-Kann mit Spuren verwechselt werden; Protokolle sind eine Aufzeichnung eines Ereignisses, während Spuren der Pfad sind, dem dieses Ereignis folgt.
+## Häufig gemischte Dinge
+Wird oft mit Trace verwechselt. Ein Log ist eine Ereignisaufzeichnung, ein Trace ist der Pfad des Ereignisses. Das eine ist ein Foto, das andere ein Film.
 
-## Häufige Fragen
-**Warum brauchen wir Protokolle?**
-Wenn das System abstürzt, können Sie die Ursache nur durch Lesen der Protokolle herausfinden.
+## Einsatz in verschiedenen Disziplinen
+Blackbox: Flugdaten.Tagebuch: Chronologische Notizen.Kassenbon: Transaktionsprotokoll.
+
+## Häufig gestellte Fragen
+**Warum werden Logs benötigt?**
+Die Ursache eines Absturzes liegt in der Aufzeichnung. Ein System ohne Protokollierung fliegt blind.
+
+**Wo wird es geschrieben?**
+In eine Datei oder ein zentrales System. In der Produktion wird eine zentrale Sammlung empfohlen.
+
+**Wie lange wird es aufbewahrt?**
+Das hängt von der Richtlinie ab. Das Debugging erfordert Wochen, Audits erfordern Jahre.
+
+**Werden personenbezogene Daten geschrieben?**
+Nein. Passwörter und Identitätsdaten werden nicht aufgezeichnet, sondern maskiert.
 
 
 ## Verwandte Begriffe
 - [Observability](/de/dictionary/observability/)
 - [QA](/de/dictionary/qa/)
+- [Traces](/de/dictionary/traces/)
 
 ## Verwandte Werkzeuge
 - [Grafana](/de/discover/grafana/)

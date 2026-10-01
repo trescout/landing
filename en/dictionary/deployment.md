@@ -1,33 +1,42 @@
 # What is Deployment?
 
-It is the process of uploading a prepared software to the server and making it operational so that it can be accessed by users.
+Deployment (software deployment / going live) is the process of compiling and installing a software component, which has been developed and tested in a local environment, onto target servers or cloud infrastructure, and making it available to end users.
 
-## Overview
-Deployment is the last step of the software development process. You take your code from your own computer and move it to a server where people around the world can use it. Now your software starts working in a live environment, not just on your computer.
+## Conceptual framework, etymology, and historical transformation
+Etimologically, the term deployment is rooted in military terminology, referring to the dispatching and readiness of troops, ammunition, or naval fleets into strategic combat positions ("to deploy"). In software engineering, it began in the 1970s and 80s with loading punched cards or magnetic tapes onto mainframes, evolved into manually executed FTP/SSH file transfers in the 1990s, and has today transformed into fully declarative and automated cloud pipelines (GitOps).
 
-*Analogy: When an author writes and finishes his book, it is the development phase; Printing the book, placing it on the shelves and presenting it to the reader is the deployment phase.*
+## Zero-Downtime deployment strategies
+The core deployment patterns developed to ensure users experience no service interruptions while applications are being updated are:
 
-## How it works
-Developers submit their code to the server through automatic or manual tools. The server receives this code, makes the necessary settings and publishes the application.
+## CI/CD pipeline, GitOps, and database migrations
+A successful deployment architecture is built upon three critical engineering foundations:
 
-## Where it is used
-It is used when publishing websites, submitting mobile applications to the store, or presenting artificial intelligence models as an API.
+## Error management, observability, and rollback architecture
+For production environment errors that are missed even in the most advanced test environments, there are two primary lifelines:
 
 ## Commonly confused with
-It is confused with development; Development is cooking the food in the kitchen, and deployment is serving the food to the customer's table.
 
 ## Frequently asked questions
-**What happens if an error occurs during deployment?**
-The system usually rollbacks to the old, working version or stops streaming until the error is corrected.
+**What does deployment mean and what is its Turkish equivalent?**
+It is a word of English origin meaning 'distribution' or 'going live'. It is the process of compiling a software package and making it operational on target servers or in a cloud environment.
 
-**Is deployment always done manually?**
-In the modern world it is usually automatic; You send the code and the system publishes it on its own.
+**What is the difference between Deployment and Release?**
+Deployment is the technical installation and execution of code on a server. Release, on the other hand, is the official opening of the feature to the end user's access via Feature Flags or marketing steps.
+
+**What is the main difference between Blue-Green and Canary deployment?**
+In a Blue-Green deployment, there are two identical environments, and traffic is switched 100% to the new environment instantly via a load balancer. In a Canary deployment, the new version is gradually introduced to a small slice of users, such as 1-5% first, and the ratio is increased while observing metrics.
+
+**How are database schema changes managed in a Zero-Downtime deployment?**
+They are managed using the Expand-Contract pattern. First, backwards-compatible new fields are added; after all the servers in the system switch to the new code and data flow is established, the old fields are cleaned up.
 
 
 ## Related terms
 - [Runtime](/en/dictionary/runtime/)
 - [Compile-time](/en/dictionary/compile-time/)
-- [API](/en/dictionary/api/)
+- [Cloud Computing](/en/dictionary/cloud-computing/)
+- [Production Pipeline](/en/dictionary/production-pipeline/)
+- [Tech Stack](/en/dictionary/tech-stack/)
+- [Git Push](/en/dictionary/git-push/)
 
 ## Related tools
 - [Rocket.Chat](/en/discover/rocket-chat/)

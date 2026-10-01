@@ -6,13 +6,13 @@ Mesh is a network structure in which devices or services connect to each other a
 "Mesh" means knitting, net in English. Just as nodes in a fishing net are connected to each other, each node in a mesh network is connected to its neighbors. Mesh Wi-Fi in wireless networks and service mesh in microservice architectures (e.g. Istio, Linkerd) are two common uses of this concept.
 
 ## How to Know and Use in Daily Life?
-Mesh Wi-Fi at home: While a single modem remains weak in a room, 2-3 mesh units placed in the house provide uninterrupted coverage under a single network. Your connection will not be lost when passing between rooms. Smart home: Lamp, thermostat and sensors are connected to each other, if one of them is turned off, the signal continues on its way through the neighboring device. Emergency networks: In areas where the infrastructure is damaged, phones are connected to each other and carry messages.
+Mesh Wi-Fi at home: While a single modem remains weak in a room, 2-3 mesh units placed in the house provide uninterrupted coverage under a single network. Your connection will not be lost when moving between rooms.Smart home: The lamp, thermostat and sensors are connected to each other, if one of them turns off, the signal continues its way through the neighboring device.Emergency networks: In areas where infrastructure is damaged, phones are connected to each other and carry messages.
 
 ## Technical Depth and Architecture
 There are three mechanisms that keep the mesh structure alive:
 
 ## Use in Different Disciplines
-Urbanization: Grid planned streets. If a street is closed, traffic flows through neighboring streets. Textile: Weaving fabric. Even if a single thread breaks, the tissue protects the whole. Biology: Neural networks. The signal can go around the damaged area.
+Urbanism: Grid planned streets. If a street is closed, traffic flows through neighboring streets.Textile: Fabric weave. Even if a single thread breaks, the tissue preserves its integrity.Biology: Neural networks. The signal can go around the damaged area.
 
 ## Frequently Asked Questions
 **What does Mesh Wi-Fi do?**

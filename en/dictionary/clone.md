@@ -12,7 +12,7 @@ When you want to review or contribute to an open source project, the first step 
 The .git directory inside the cloned folder is the memory of the repository: All commit objects, branch pointers, and the remote address reside here. After the clone:
 
 ## Use in Different Disciplines
-Biology: The genetic copy of the living thing. The clone in the software is a copy of the data, it has nothing to do with the living thing. Media: Backup costumes to be used while the original remains. Virtualization: Producing a new machine from a ready-made mold.
+Biology: The genetic copy of the living thing. The clone in the software is a copy of the data, it has nothing to do with the living organism.Media: Spare costumes to work on while the original remains.Virtualization: Producing a new machine from a ready-made mold.
 
 ## Frequently Asked Questions
 **Can I change the project after cloning?**

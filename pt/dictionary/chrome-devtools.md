@@ -1,22 +1,31 @@
 # O que é Chrome DevTools?
 
-É uma ferramenta de desenvolvedor incorporada ao navegador que ajuda a examinar os códigos dos sites e corrigir erros.
+Chrome DevTools é o painel do desenvolvedor no navegador.
 
-## Definição
-O Chrome DevTools permite que os desenvolvedores da web vejam o plano de fundo dos sites no navegador. Você pode alterar a aparência da página, detectar erros nos códigos instantaneamente e analisar problemas de desempenho. É como uma máquina de raio X para sites.
+## Definição e origem da palavra
+"DevTools" significa ferramentas de desenvolvedor. O plano de fundo da página é visto, os erros são detectados instantaneamente e o desempenho é medido. É uma radiografia dos sites.
 
-## Como funciona
-Você pode abrir esta ferramenta clicando com o botão direito em qualquer página do seu navegador e selecionando ‘Inspecionar’. Você pode ver os códigos HTML e CSS do site no painel que se abre e acompanhar os erros na seção do console.
+## Como conhecer e usar no dia a dia?
+Desenvolvimento: Revisão de código.Erro: Rastreamento de console.Aprendizado: Anatomia do local.
 
-## Onde é usado
-É utilizado em processos de desenvolvimento web, depuração e para entender como funcionam os sites.
+## Profundidade Técnica e Arquitetura
+Painéis:
 
-## Perguntas frequentes
-**Funciona apenas no Chrome?**
-Apesar do nome, ferramentas semelhantes estão disponíveis em todos os navegadores modernos, como Firefox, Edge e Safari.
+## Use em diferentes disciplinas
+Copos: Instalação atrás da parede.Raio X: Visualização da estrutura interna.Boné: Compartimento do motor.
 
-**Posso alterar os códigos permanentemente?**
-Não, as alterações que você fizer aparecerão apenas temporariamente na tela, tudo retornará ao estado anterior quando você atualizar a página.
+## Perguntas Frequentes
+**Apenas cromo?**
+Não. Firefox, Edge e Safari oferecem painéis semelhantes.
+
+**Isso muda permanentemente?**
+Não. Quando você o atualiza, ele desaparece e o arquivo é alterado.
+
+**O celular deve ser testado?**
+Sim. O tamanho e o toque são testados com emulação de dispositivo.
+
+**Ele mantém registros?**
+Valor na sessão. O monitoramento contínuo requer uma ferramenta separada.
 
 
 ## Termos relacionados

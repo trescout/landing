@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Was ist Gateway? · Glossar · TreScout</title>
-<meta name="description" content="Es handelt sich um den Port, der den Datenverkehr zwischen verschiedenen Netzwerken verwaltet und weiterleitet.">
+<meta name="description" content="Gateway ist der Verbindungspunkt, der den Datenverkehr zwischen verschiedenen Netzwerken verwaltet.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/de/dictionary/gateway/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/gateway/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/gateway/">
 <link rel="alternate" type="text/markdown" href="/de/dictionary/gateway.md">
 <meta property="og:title" content="Was ist Gateway?">
-<meta property="og:description" content="Es handelt sich um den Port, der den Datenverkehr zwischen verschiedenen Netzwerken verwaltet und weiterleitet.">
+<meta property="og:description" content="Gateway ist der Verbindungspunkt, der den Datenverkehr zwischen verschiedenen Netzwerken verwaltet.">
 <meta property="og:url" content="https://trescout.com/de/dictionary/gateway/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="de_DE">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Was ist Gateway?">
-<meta name="twitter:description" content="Es handelt sich um den Port, der den Datenverkehr zwischen verschiedenen Netzwerken verwaltet und weiterleitet.">
+<meta name="twitter:description" content="Gateway ist der Verbindungspunkt, der den Datenverkehr zwischen verschiedenen Netzwerken verwaltet.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Gateway",
-  "description": "Es handelt sich um den Port, der den Datenverkehr zwischen verschiedenen Netzwerken verwaltet und weiterleitet.",
+  "description": "Gateway ist der Verbindungspunkt, der den Datenverkehr zwischen verschiedenen Netzwerken verwaltet.",
   "inLanguage": "de",
   "url": "https://trescout.com/de/dictionary/gateway/",
   "inDefinedTermSet": {
@@ -55,17 +55,18 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/de/dictionary/">← Glossar</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossar · Dev</span><time class="dict-time" datetime="2026-07-01">Zuletzt aktualisiert: 1. Juli 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glossar · Dev</span><time class="dict-time" datetime="2026-09-22">Zuletzt aktualisiert: 22. September 2026</time></div>
 <h1 class="disc-title">Was ist <span class="disc-accent">Gateway</span>?</h1>
-<p class="disc-lead">Es handelt sich um den Port, der den Datenverkehr zwischen verschiedenen Netzwerken verwaltet und weiterleitet.</p>
-<section class="disc-sec"><h2>Definition</h2><p>Es ist wie eine Brücke, die es zwei verschiedenen Netzwerken ermöglicht, miteinander zu kommunizieren. Beispielsweise ist das Gerät, das das Internet in Ihrem Zuhause mit dem Internet in der Außenwelt verbindet, ein Gateway. Es prüft, ob die Daten an die richtige Adresse gelangen.</p></section>
+<p class="disc-lead">Gateway ist der Verbindungspunkt, der den Datenverkehr zwischen verschiedenen Netzwerken verwaltet.</p>
+<section class="disc-sec"><h2>Definition und Wortherkunft</h2><p>„Tor“ bedeutet Tür und „Weg“ bedeutet Straße. Es ist die Brücke, die es zwei Netzwerken ermöglicht, miteinander zu kommunizieren: Ein typisches Beispiel ist das Gerät, das das Internet in Ihrem Zuhause mit der Außenwelt verbindet. Es untersucht die eingehenden Daten und entscheidet, an welches Netzwerk sie weitergeleitet werden.</p></section>
 <div class="dict-analogy"><strong>Analogie:</strong> Es ist wie ein Grenztor eines Landes; Es kontrolliert die Ankünfte und stellt sicher, dass sie in die richtige Richtung gehen.</div>
-<section class="disc-sec"><h2>So funktioniert es</h2><p>Es untersucht die eingehenden Daten, entscheidet, an welches Netzwerk sie weitergeleitet werden sollen, und leitet den Datenverkehr.</p></section>
-<section class="disc-sec"><h2>Wo es eingesetzt wird</h2><p>Man findet es in Heimmodems, Unternehmensnetzwerk-Ports und Cloud-Systemen.</p></section>
-<section class="disc-sec"><h2>Häufig verwechselt mit</h2><p>Kann mit API Gateway verwechselt werden; Während API Gateway Dienste in der Softwarewelt verwaltet, arbeitet das Gateway auf physischer oder Netzwerkebene.</p></section>
-<section class="disc-sec"><h2>Häufige Fragen</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Kann ich ohne Gateway auf das Internet zugreifen?</p><p class="dict-faq-a">Nein, Ihr lokales Netzwerk kann keine Verbindung zur Außenwelt herstellen und bleibt isoliert.</p></div></div></section>
+<section class="disc-sec"><h2>Wie kann man es kennen und im täglichen Leben anwenden?</h2><p><strong>Heimmodem:</strong> Es verbindet Ihr Zuhause mit dem Anbieternetzwerk.<br><strong>Firmen-Login:</strong> Kontrollpunkt des Büroverkehrs.<br><strong>Cloud:</strong> Das Tor virtueller Netzwerke zueinander.</p></section>
+<section class="disc-sec"><h2>Technische Tiefe und Architektur</h2><p>Werke des Tores:</p><p><strong>Adressübersetzung (NAT):</strong> Es extrahiert interne Adressen aus einer einzelnen Adresse.<br><strong>Filterung:</strong> Es hält unerwünschten Verkehr an der Tür.<br><strong>Orientierung:</strong> Es übermittelt das Paket an das richtige Netzwerk.</p><p>Die Standardpfadinformationen lauten:</p><pre><code>default via 192.168.1.1 dev eth0</code></pre><p>Diese Zeile teilt Ihnen mit, dass das unbekannte Ziel über das Modem gesendet wird. Das API-Gateway befindet sich auf einer anderen Ebene: Es verwaltet Serviceanfragen, nicht das Netzwerk.</p></section>
+<section class="disc-sec"><h2>Häufig gemischte Dinge</h2><p>Es kann mit API Gateway verwechselt werden. API Gateway verwaltet Softwaredienste, das Gateway arbeitet auf Netzwerkebene. Eines ist das Anwendungstor, das andere ist das Pfadtor.</p></section>
+<section class="disc-sec"><h2>Einsatz in verschiedenen Disziplinen</h2><p><strong>Grenztor:</strong> Betreuung und Anleitung der ankommenden Gäste.<br><strong>Hafen:</strong> Schiffe passieren den Zoll.<br><strong>Rezeption:</strong> Den Besucher auf die richtige Etage leiten.</p></section>
+<section class="disc-sec"><h2>Häufig gestellte Fragen</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Kann ich ohne Gateway auf das Internet zugreifen?</p><p class="dict-faq-a">Nein. Das lokale Netzwerk kann nicht mit der Außenwelt verbunden werden, es bleibt isoliert.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Was ist der Unterschied zum API-Gateway?</p><p class="dict-faq-a">Das Gateway trägt das Paket, das API-Gateway bearbeitet die Anfrage. Einer ist der Pfad und der andere ist die Anwendungsschicht.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Welches wird zu Hause verwendet?</p><p class="dict-faq-a">Das Gateway in Ihrem Modem erledigt den Zweck. Es sind keine weiteren Einstellungen erforderlich, die Adresse wird automatisch verteilt.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Können die beiden Netzwerke getrennt gehalten werden?</p><p class="dict-faq-a">Ja. Mit Firewall-Regeln ist der Zugriff gesperrt und Netzwerke arbeiten isoliert.</p></div></div></section>
 <section class="disc-sec"><h2>Verwandte Begriffe</h2><div class="dict-related"><a href="/de/dictionary/api-gateway/">API Gateway</a><a href="/de/dictionary/network-stack/">Network Stack</a><a href="/de/dictionary/proxy/">Proxy</a></div></section>
-<section class="disc-sec"><h2>Verwandte Werkzeuge</h2><div class="dict-related"><a href="/de/discover/omniroute/">OmniRoute</a><a href="/de/discover/fanqiang/">Fanqiang</a><a href="/de/discover/openwa/">OpenWA</a><a href="/de/discover/grok2api/">Grok2api</a></div></section>
+<section class="disc-sec"><h2>Verwandte Werkzeuge</h2><div class="dict-related"><a href="/de/discover/omniroute/">OmniRoute</a><a href="/de/discover/fanqiang/">Fanqiang</a><a href="/de/discover/gitdiagram/">Gitdiagram</a><a href="/de/discover/openwa/">OpenWA</a><a href="/de/discover/grok2api/">Grok2api</a></div></section>
 <aside class="disc-cta"><p><strong>Entdecken Sie passende Werkzeuge und tägliche Berichte.</strong> Jeden Tag entstehen neue Fachbegriffe und Tools · sichern Sie sich den Vorabzugang zu TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-de" data-page-type="dictionary" data-content-slug="gateway" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Ihre E-Mail-Adresse" autocomplete="email" required><button class="btn btn-primary" type="submit">Vorabzugang</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Ich habe den <a href="/de/privacy.html" target="_blank" rel="noopener">Datenschutzhinweis</a> gelesen und bin damit einverstanden, dass meine E-Mail-Adresse zu diesem Zweck verarbeitet wird.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/de/dictionary/">Alle Begriffe →</a></aside>
 <p class="disc-disclaimer">Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und <strong>maschinell übersetzt</strong> aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/gateway/">Auf Türkisch lesen →</a></p>
 </article>

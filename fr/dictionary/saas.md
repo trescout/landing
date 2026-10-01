@@ -2,23 +2,35 @@
 
 > Software as a Service
 
-Il s'agit d'un modèle d'utilisation du logiciel en le louant sur Internet au lieu de l'installer sur votre ordinateur.
+Le SaaS (Software as a Service, logiciel en tant que service) est un modèle d'utilisation par abonnement via un navigateur, sans avoir à installer l'application sur votre ordinateur.
 
-## Définition
-Autrefois, pour utiliser un programme, il fallait acheter un CD et l'installer. Dans le modèle SaaS, il vous suffit d'ouvrir votre navigateur et de vous connecter au logiciel via Internet. Toutes les maintenances et mises à jour sont effectuées par la société qui propose le logiciel.
+## Définition et origine du mot
+Auparavant, pour utiliser un programme, vous deviez acheter un CD et l'installer. Avec le modèle SaaS, vous ouvrez votre navigateur et vous vous connectez au logiciel via Internet. La maintenance, les sauvegardes et les mises à jour sont prises en charge par l'entreprise qui fournit le logiciel. Vous effectuez généralement le paiement par abonnement mensuel ou annuel. Google Workspace, Salesforce et Netflix sont des exemples connus de ce modèle.
 
-## Comment ça marche
-L'adhésion est créée et le système est connecté via le navigateur Internet.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Bureau : E-mail, calendrier et édition de documents.Divertissement : Plateformes de séries et de musique.Travail : Suivi client (CRM), comptabilité, ressources humaines.Éducation: Plateformes de devoirs et d'examens.
 
-## Où est-ce utilisé
-Les plateformes populaires telles que Google Workspace, Netflix ou Salesforce suivent toutes ce modèle.
+## Profondeur technique et architecture
+En arrière-plan des produits SaaS, les éléments suivants fonctionnent :
 
-## Souvent confondu avec
-Peut être confondu avec PaaS ; Le SaaS est destiné à l'utilisateur final, le PaaS est destiné aux développeurs.
+## Choses fréquemment mélangées
+Peut être confondu avec le PaaS. Le SaaS est une application finie, destinée à l'utilisateur final. Le PaaS est une plateforme où les développeurs exécutent leurs propres applications. L'IaaS est encore plus bas : vous louez un serveur, un disque et un réseau, et vous installez le reste vous-même.
 
-## Questions fréquentes
+## Utilisation dans différentes disciplines
+Eau municipale : S'abonner au réseau plutôt que de creuser un puits.Appartement à louer : La maintenance est à la charge du propriétaire, l'utilisation est la vôtre.Transports en commun : Bénéficier d'un service de transport sans être propriétaire d'un véhicule.
+
+## Foire aux questions
 **Où mes données sont-elles stockées lorsque j'utilise le SaaS ?**
-Vos données sont stockées sur les serveurs sécurisés de la société qui fournit le logiciel.
+Stocké dans les centres de données du fournisseur. Assurez-vous de vérifier les conditions de sauvegarde, de chiffrement et d'accès dans le contrat.
+
+**Que se passe-t-il en cas de coupure d'Internet ?**
+Les fonctionnalités en ligne s'arrêtent. Certains produits offrent un fonctionnement hors ligne limité, mais une utilisation complète nécessite Internet.
+
+**Que deviennent mes données si j'annule l'abonnement ?**
+Une période de transition est généralement accordée. Vous devez exporter vos données avant la fin de cette période. Renseignez-vous sur le format d'exportation avant l'annulation.
+
+**Quelle est la différence avec le PaaS ?**
+Le SaaS est une application prête à l'emploi, vous vous connectez et vous l'utilisez. Le PaaS est une plateforme vide sur laquelle vous installez votre propre logiciel.
 
 
 ## Termes liés

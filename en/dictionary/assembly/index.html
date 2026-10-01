@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Assembly: x86, ARM, and Register Architecture · TreScout</title>
-<meta name="description" content="Understand Assembly language, CPU register architectures (x86-64 vs ARM), system calls (syscalls), .NET assemblies, and WebAssembly.">
+<title>What is Assembly? · Dictionary · TreScout</title>
+<meta name="description" content="Assembly refers to two basic concepts in computer science: First, the lowest-level symbolic programming language (Assembly Language) that directly governs ">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/en/dictionary/assembly/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/assembly/">
@@ -15,8 +15,8 @@
 <link rel="alternate" hreflang="de" href="https://trescout.com/de/dictionary/assembly/">
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/assembly/">
 <link rel="alternate" type="text/markdown" href="/en/dictionary/assembly.md">
-<meta property="og:title" content="Assembly: x86, ARM, and Register Architecture · TreScout">
-<meta property="og:description" content="Understand Assembly language, CPU register architectures (x86-64 vs ARM), system calls (syscalls), .NET assemblies, and WebAssembly.">
+<meta property="og:title" content="What is Assembly?">
+<meta property="og:description" content="Assembly refers to two basic concepts in computer science: First, the lowest-level symbolic programming language (Assembly Language) that directly governs ">
 <meta property="og:url" content="https://trescout.com/en/dictionary/assembly/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en_US">
@@ -26,15 +26,15 @@
 <meta property="og:image:alt" content="What is Assembly?">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
-<meta name="twitter:title" content="Assembly: x86, ARM, and Register Architecture · TreScout">
-<meta name="twitter:description" content="Understand Assembly language, CPU register architectures (x86-64 vs ARM), system calls (syscalls), .NET assemblies, and WebAssembly.">
+<meta name="twitter:title" content="What is Assembly?">
+<meta name="twitter:description" content="Assembly refers to two basic concepts in computer science: First, the lowest-level symbolic programming language (Assembly Language) that directly governs ">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Assembly",
-  "description": "It is the process of bringing together various components or parts to form a complex system.",
+  "description": "Assembly refers to two basic concepts in computer science: First, the lowest-level symbolic programming language (Assembly Language) that directly governs the hardware processor (CPU); The second is to turn compiled software modules (.NET assembly) into a single distributable package.",
   "inLanguage": "en",
   "url": "https://trescout.com/en/dictionary/assembly/",
   "inDefinedTermSet": {
@@ -56,48 +56,36 @@
 <article class="disc">
 <a class="disc-back" href="/en/dictionary/">← Dictionary</a>
 <div class="disc-top"><span class="disc-eyebrow">Dictionary · Dev</span><time class="dict-time" datetime="2026-09-19">Last updated: September 19, 2026</time></div>
-<h1 class="disc-title">Assembly <span class='disc-accent'>Definition, registers, and system architecture</span></h1>
-
-<p class="disc-lead">Assembly refers to two fundamental concepts in computer science: the lowest-level symbolic programming language that directly instructs the central processing unit (CPU), and compiled deployment packages (.NET assemblies) that bundle executable modules.</p>
-
-<section class="disc-sec"><h2>1. Low-Level Programming Language (Assembly Language)</h2><p>Computer processors only understand binary machine code (0s and 1s, or opcodes). Assembly language replaces raw hexadecimal opcodes with human-readable mnemonics:</p><ul><li><code>MOV</code>: Transfers data between registers or memory addresses.</li><li><code>ADD</code> / <code>SUB</code>: Executes arithmetic addition and subtraction directly on registers.</li><li><code>PUSH</code> / <code>POP</code>: Adds or removes 64-bit values onto the call stack.</li><li><code>JMP</code> / <code>JE</code> / <code>JNE</code>: Branches program execution flow based on condition flags.</li></ul><p>Assembly source code is assembled directly into binary machine instructions using tools like NASM or GAS without any virtual machine overhead.</p></section>
-
-<section class="disc-sec"><h2>2. CPU Registers and x86-64 Architecture</h2><p>In modern 64-bit x86-64 processors, key registers serve specialized and general computational functions:</p><ul><li><strong>General Purpose Registers:</strong> <code>RAX</code> (accumulator and return value), <code>RBX</code> (base register), <code>RCX</code> (loop counter), <code>RDX</code> (I/O and arithmetic), <code>RDI</code> and <code>RSI</code> (destination and source index pointers for string/block transfers).</li><li><strong>Special Purpose Registers:</strong> <code>RSP</code> (Stack Pointer - points to the top of the stack), <code>RBP</code> (Base Pointer - frame base), <code>RIP</code> (Instruction Pointer - points to the next instruction), and <code>RFLAGS</code> (status flags such as Zero, Carry, and Sign).</li></ul></section>
-
-<section class="disc-sec"><h2>3. CISC vs RISC: x86-64 vs ARM64 Differences</h2><p>x86-64 architecture follows the <strong>CISC</strong> (Complex Instruction Set Computer) philosophy, offering variable-length instructions capable of direct memory manipulation. Conversely, ARM64 (Apple Silicon, mobile chipsets) adheres to <strong>RISC</strong> (Reduced Instruction Set Computer) design with uniform 32-bit instructions and a strict load-store model, maximizing silicon energy efficiency.</p></section>
-
-<section class="disc-sec"><h2>4. System Calls (Syscalls) and Linux x86-64 Example</h2><pre><code>section .text
+<h1 class="disc-title">What is <span class="disc-accent">Assembly</span>?</h1>
+<p class="disc-lead">Assembly refers to two basic concepts in computer science: First, the lowest-level symbolic programming language (Assembly Language) that directly governs the hardware processor (CPU); The second is to turn compiled software modules (.NET assembly) into a single distributable package.</p>
+<section class="disc-sec"><h2>1. Low-level programming language (Assembly Language)</h2><p>The computer processor only understands binary signals (machine code / opcodes) 0 and 1. Assembly language consists of human-readable symbolic abbreviations (mnemonics) corresponding to these raw machine codes:</p><ul><li>MOV: Copies data from one register to another or memory address.</li><li>ADD / SUB: Executes mathematical addition and subtraction operations.</li><li>PUSH / POP: Adds or pulls data to the call stack.</li><li>JMP / JE / JNE: Branches the program flow to another memory address according to the comparison result.</li></ul><p>Written assembly codes are directly translated into machine code through converters called Assemblers (nasm, gas); There is no virtual machine layer in between.</p></section>
+<div class="dict-analogy"><strong>Analogy:</strong> Assembly language is like placing the gears, springs and shafts in a clock one by one with tweezers under a microscope; It provides the highest precision and performance but requires great care. Software assembly means placing this delicate mechanism inside the case and boxing it as a working wristwatch.</div>
+<section class="disc-sec"><h2>2. Processor registers and x86-64 architecture</h2><p>The most critical registers on a modern 64-bit x86-64 processor are:</p><ul><li>General Purpose Registers: RAX (accumulator and function return), RBX (base data pointer), RCX (loop counter), RDX (input/output data), RDI and RSI (target and source pointers).</li><li>Special Purpose Registers: RSP (Stack Pointer - top of the stack), RBP (Base Pointer - base of the function frame), RIP (Instruction Pointer - address of the next instruction to be executed) and RFLAGS (Zero, Carry flags).</li></ul></section>
+<section class="disc-sec"><h2>3. CISC vs RISC: difference between x86-64 and ARM64</h2><p>x86-64 architecture works with CISC (Complex Instruction Set) philosophy; It has variable instruction sizes and rich instructions that can operate directly on memory. ARM64 (Apple Silicon, Mobile) is based on RISC (Reduced Instruction Set); It provides great superiority in energy efficiency with its fixed 32-bit command length and Load-Store architecture.</p></section>
+<section class="disc-sec"><h2>4. System calls (Syscall) and Linux x86-64 example</h2><pre><code>section .text
 global _start
 
 _start:
-    ; 1. Print message to stdout (sys_write = syscall 1)
-    mov rax, 1          ; syscall: sys_write
-    mov rdi, 1          ; file descriptor: stdout
-    mov rsi, msg        ; memory buffer address
-    mov rdx, 14         ; message length
-    syscall             ; switch to kernel space
+    ; 1. Ekrana "Merhaba" yazdır (sys_write = syscall 1)
+    mov rax, 1          ; syscall numarası: 1 (sys_write)
+    mov rdi, 1          ; dosya tanıtıcı: 1 (stdout)
+    mov rsi, mesaj      ; metnin bellek adresi
+    mov rdx, 8          ; metin uzunluğu
+    syscall             ; çekirdeğe geçiş yap
 
-    ; 2. Terminate program cleanly (sys_exit = syscall 60)
-    mov rax, 60         ; syscall: sys_exit
-    xor rdi, rdi        ; return code 0
+    ; 2. Programı güvenle sonlandır (sys_exit = syscall 60)
+    mov rax, 60         ; syscall numarası: 60 (sys_exit)
+    xor rdi, rdi        ; çıkış kodu 0
     syscall
 
 section .data
-    msg db "Hello, world!", 10</code></pre></section>
-
-<section class="disc-sec"><h2>5. .NET Assemblies and WebAssembly (WASM)</h2><ul><li><strong>.NET Assembly:</strong> In modern managed runtimes, compiled C# produces Common Intermediate Language (CIL) bytes and metadata packaged as <code>.dll</code> or <code>.exe</code> assemblies.</li><li><strong>WebAssembly (WASM):</strong> A portable binary code format executing in browser sandboxes at near-native speed, compiled from languages like Rust, C++, and Go.</li></ul></section>
-
-<div class="dict-analogy">Assembly language is like assembling the gears, escapement, and springs of a mechanical watch with tweezers under a microscope; it offers unmatched precision and control, but requires painstaking attention to detail.</div>
-
-<section class="disc-sec"><h2>Frequently asked questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">What is Assembly language and what is it used for?</p><p class="dict-faq-a">Assembly is a low-level symbolic language that corresponds 1-to-1 with machine instruction sets, used for firmware, OS kernels, high-performance engines, and security analysis.</p></div><div class="dict-faq-item"><p class="dict-faq-q">What is the difference between an assembler and a compiler?</p><p class="dict-faq-a">A compiler translates abstract high-level languages (C++, Rust) into optimized assembly or machine code, whereas an assembler translates symbolic mnemonics directly into binary opcodes without restructuring algorithms.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Where is Assembly still used today?</p><p class="dict-faq-a">It is indispensable in operating system bootloaders, device drivers, embedded systems, reverse engineering, exploit development, and real-time graphics optimizations.</p></div></div></section>
-
+    mesaj db "Merhaba", 10</code></pre></section>
+<section class="disc-sec"><h2>5. .NET Assembly and WebAssembly (WASM)</h2><ul><li>.NET Assembly: When C# code is compiled, a logical assembly package (Assembly) is created in .dll or .exe format containing CIL/MSIL bytecodes and metadata.</li><li>WebAssembly (WASM): A portable stack virtual machine bytecode that allows C, C++, and Rust code to run in the browser with near-native performance.</li></ul></section>
+<section class="disc-sec"><h2>Frequently asked questions</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">What does assembly mean and what does it do?</p><p class="dict-faq-a">Assembly is the lowest-level symbolic programming language that corresponds 1 to 1 to the hardware instruction set of the computer processor. It is used to directly control CPU registers and memory.</p></div><div class="dict-faq-item"><p class="dict-faq-q">What is the difference between Assembler and Compiler?</p><p class="dict-faq-a">The compiler (C, C++, Rust) analyzes and optimizes and translates complex human logic and loops into machine code. Assembler, on the other hand, converts assembly instructions, which are already symbolic versions of machine code, directly into binary byte code.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Where is assembly language still used today?</p><p class="dict-faq-a">It is actively used in operating system kernels (bootloader), hardware device drivers, reverse engineering, malware analysis, cyber vulnerability detection and embedded systems (IoT/microcontroller).</p></div><div class="dict-faq-item"><p class="dict-faq-q">What is the difference between CISC and RISC?</p><p class="dict-faq-a">CISC (x86-64) has a rich instruction set that can perform multiple subprocesses and memory accesses in a single instruction; RISC (ARM), on the other hand, is a simplified and energy-efficient architecture that runs each command in a single clock cycle.</p></div></div></section>
 <section class="disc-sec"><h2>Related terms</h2><div class="dict-related"><a href="/en/dictionary/memory-management/">Memory Management</a><a href="/en/dictionary/runtime/">Runtime</a><a href="/en/dictionary/compilation/">Compilation</a><a href="/en/dictionary/apple-silicon/">Apple Silicon</a><a href="/en/dictionary/emulator/">Emulator</a></div></section>
-
-<section class="disc-sec"><h2>Related tools</h2><div class="dict-related"><a href="/en/discover/apollo-11/">Apollo-11</a></div></section>
-
+<section class="disc-sec"><h2>Related tools</h2><div class="dict-related"><a href="/en/discover/ghidra/">Ghidra</a><a href="/en/discover/apollo-11/">Apollo-11</a></div></section>
 <aside class="disc-cta"><p><strong>Explore related tools and daily reports.</strong> Stay on top of emerging tech terms and tools. Receive TreScout's daily summary in your inbox.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-en" data-page-type="dictionary" data-content-slug="assembly" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Enter your email" autocomplete="email" required><button class="btn btn-primary" type="submit">Join early access</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>I have read the <a href="/en/privacy.html" target="_blank" rel="noopener">Privacy Notice</a> and consent to my email being processed for this purpose.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/en/dictionary/">All terms →</a></aside>
-
-<div class="dict-disclaimer">This explanation was written in plain language for TreScout and <strong>machine-translated</strong> from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/assembly/">Read in Turkish →</a></div>
+<p class="disc-disclaimer">This explanation was written in plain language for TreScout and <strong>machine-translated</strong> from the Turkish original · the Turkish version prevails. If something looks wrong or missing, write to <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/assembly/">Read in Turkish →</a></p>
 </article>
 </main>
 <footer>

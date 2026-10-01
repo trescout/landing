@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Was ist Repository Checkout? · Glossar · TreScout</title>
-<meta name="description" content="Dabei handelt es sich um den Vorgang, bei dem alle Dateien eines Softwareprojekts von einem zentralen Server auf Ihren eigenen Computer kopiert werden.">
+<meta name="description" content="Beim Auschecken des Repositorys wird eine bestimmte Version des Repositorys in Ihren Arbeitsbereich heruntergeladen.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/de/dictionary/repository-checkout/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/repository-checkout/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/repository-checkout/">
 <link rel="alternate" type="text/markdown" href="/de/dictionary/repository-checkout.md">
 <meta property="og:title" content="Was ist Repository Checkout?">
-<meta property="og:description" content="Dabei handelt es sich um den Vorgang, bei dem alle Dateien eines Softwareprojekts von einem zentralen Server auf Ihren eigenen Computer kopiert werden.">
+<meta property="og:description" content="Beim Auschecken des Repositorys wird eine bestimmte Version des Repositorys in Ihren Arbeitsbereich heruntergeladen.">
 <meta property="og:url" content="https://trescout.com/de/dictionary/repository-checkout/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="de_DE">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Was ist Repository Checkout?">
-<meta name="twitter:description" content="Dabei handelt es sich um den Vorgang, bei dem alle Dateien eines Softwareprojekts von einem zentralen Server auf Ihren eigenen Computer kopiert werden.">
+<meta name="twitter:description" content="Beim Auschecken des Repositorys wird eine bestimmte Version des Repositorys in Ihren Arbeitsbereich heruntergeladen.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Repository Checkout",
-  "description": "Dabei handelt es sich um den Vorgang, bei dem alle Dateien eines Softwareprojekts von einem zentralen Server auf Ihren eigenen Computer kopiert werden.",
+  "description": "Beim Auschecken des Repositorys wird eine bestimmte Version des Repositorys in Ihren Arbeitsbereich heruntergeladen.",
   "inLanguage": "de",
   "url": "https://trescout.com/de/dictionary/repository-checkout/",
   "inDefinedTermSet": {
@@ -55,14 +55,17 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/de/dictionary/">← Glossar</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossar · Dev</span><time class="dict-time" datetime="2026-07-03">Zuletzt aktualisiert: 3. Juli 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glossar · Dev</span><time class="dict-time" datetime="2026-09-22">Zuletzt aktualisiert: 22. September 2026</time></div>
 <h1 class="disc-title">Was ist <span class="disc-accent">Repository Checkout</span>?</h1>
-<p class="disc-lead">Dabei handelt es sich um den Vorgang, bei dem alle Dateien eines Softwareprojekts von einem zentralen Server auf Ihren eigenen Computer kopiert werden.</p>
-<section class="disc-sec"><h2>Definition</h2><p>Beim Auschecken wird eine bestimmte Version eines Projekts vom Server heruntergeladen und in Ihren eigenen Arbeitsbereich heruntergeladen. Auf diese Weise können Sie auf den aktuellen Stand des Projekts zugreifen und Änderungen daran vornehmen. In der Softwarewelt ist es der grundlegende Schritt, eine lokale Kopie des Projekts zu erstellen.</p></section>
-<div class="dict-analogy"><strong>Analogie:</strong> Es ist, als würde man ein Buch aus einer Bibliothek ausleihen, es an den Schreibtisch bringen und beginnen, die einzelnen Seiten einzeln zu lesen, anstatt nur den Namen zu kennen.</div>
-<section class="disc-sec"><h2>So funktioniert es</h2><p>Dies geschieht in der Regel über Tools wie Git, über das Terminal mit dem Befehl „git checkout“ oder über Schaltflächen in der Entwicklungsumgebung.</p></section>
-<section class="disc-sec"><h2>Wo es eingesetzt wird</h2><p>Es wird verwendet, wenn Sie gerade ein Projekt starten oder zu einer anderen Version des Projekts wechseln müssen.</p></section>
-<section class="disc-sec"><h2>Häufige Fragen</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Lädt es nur Dateien herunter?</p><p class="dict-faq-a">Es enthält nicht nur die Dateien, sondern auch den Verlauf und die Versionsinformationen des Projekts.</p></div></div></section>
+<p class="disc-lead">Beim Auschecken des Repositorys wird eine bestimmte Version des Repositorys in Ihren Arbeitsbereich heruntergeladen.</p>
+<section class="disc-sec"><h2>Definition und Wortherkunft</h2><p>Sie holen sich die aktuelle Version des Projekts vom Server und bringen sie auf Ihren Schreibtisch. Es ist, als würde man ein Buch aus der Bibliothek ausleihen: Die Quelle bleibt, man arbeitet mit der Kopie. Verlaufs- und Versionsinformationen liegen der Kopie bei.</p></section>
+<div class="dict-analogy"><strong>Analogie:</strong> Es ist, als würde man sich ein Buch aus der Bibliothek ausleihen, es an den Schreibtisch bringen und beginnen, die Seiten eine nach der anderen zu lesen.</div>
+<section class="disc-sec"><h2>Wie kann man es kennen und im täglichen Leben anwenden?</h2><p><strong>Neues Projekt:</strong> Das Repository zum ersten Mal herunterladen.<br><strong>Versionsmigration:</strong> Gehen Sie nicht zum alten Tag zurück und untersuchen Sie den Fehler.<br><strong>Versuchen Sie es mit Branch:</strong> Eröffnen Sie nicht die Filiale Ihres Freundes vor Ort.</p></section>
+<section class="disc-sec"><h2>Technische Tiefe und Architektur</h2><p>Der Ablauf ist wie folgt:</p><pre><code>git clone https://github.com/ornek/proje.git
+cd proje
+git checkout v2.0.0</code></pre><p>Auszeichnungen:</p><p><strong>Klon:</strong> Zum ersten Mal das gesamte Repository herunterladen.<br><strong>Kasse:</strong> Version oder Zweig im heruntergeladenen Repository ändern.<br><strong>Wechseln/Wiederherstellen:</strong> Befehle im modernen Git verzweigen und abrufen.<br><strong>Spärlich:</strong> Laden Sie nur den erforderlichen Ordner im riesigen Repository herunter.</p><p>Regel: Bestehen Sie nicht, während Sie Ihre Arbeit gespeichert haben, sondern übernehmen Sie sie zuerst oder speichern Sie sie.</p></section>
+<section class="disc-sec"><h2>Einsatz in verschiedenen Disziplinen</h2><p><strong>Bibliothek:</strong> Nehmen Sie das Buch nicht aus dem Regal und bringen Sie es auf den Tisch.<br><strong>Archiv:</strong> Entfernen Sie den Ordner aus dem Speicher und untersuchen Sie ihn.<br><strong>Foto:</strong> Lassen Sie sich nicht vom Negativen unter Druck setzen.</p></section>
+<section class="disc-sec"><h2>Häufig gestellte Fragen</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Lädt es nur Dateien herunter?</p><p class="dict-faq-a">Nein. Verlaufs- und Versionsinformationen sind ebenfalls enthalten, sodass Sie zur alten Version zurückkehren können.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Was ist der Unterschied zu Clone?</p><p class="dict-faq-a">Beim Klonen handelt es sich um den ersten Download, beim Auschecken um den Durchgang durch das heruntergeladene Repository. Die Reihenfolge geht in diese Richtung.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Wie kann ich zur alten Version zurückkehren?</p><p class="dict-faq-a">Es wird mit einem Tag oder Commit-Hash übergeben. Wenn ein gespeicherter Job vorhanden ist, wird dieser zuerst gespeichert.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Was ist Switch?</p><p class="dict-faq-a">Es ist der moderne Befehl zum Verzweigen. Da das Auschecken viel Arbeit macht, hat Git es in zwei Teile aufgeteilt: Wechsel zum Zweig und Wiederherstellung in der Datei.</p></div></div></section>
 <section class="disc-sec"><h2>Verwandte Begriffe</h2><div class="dict-related"><a href="/de/dictionary/git-push/">Git Push</a><a href="/de/dictionary/tech-stack/">Tech Stack</a><a href="/de/dictionary/cloning/">Cloning</a></div></section>
 <section class="disc-sec"><h2>Verwandte Werkzeuge</h2><div class="dict-related"><a href="/de/discover/checkout/">Checkout</a></div></section>
 <aside class="disc-cta"><p><strong>Entdecken Sie passende Werkzeuge und tägliche Berichte.</strong> Jeden Tag entstehen neue Fachbegriffe und Tools · sichern Sie sich den Vorabzugang zu TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-de" data-page-type="dictionary" data-content-slug="repository-checkout" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Ihre E-Mail-Adresse" autocomplete="email" required><button class="btn btn-primary" type="submit">Vorabzugang</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Ich habe den <a href="/de/privacy.html" target="_blank" rel="noopener">Datenschutzhinweis</a> gelesen und bin damit einverstanden, dass meine E-Mail-Adresse zu diesem Zweck verarbeitet wird.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/de/dictionary/">Alle Begriffe →</a></aside>

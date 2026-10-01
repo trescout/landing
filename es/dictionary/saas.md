@@ -2,23 +2,35 @@
 
 > Software as a Service
 
-Es un modelo de uso del software alquilándolo a través de Internet en lugar de instalarlo en su computadora.
+SaaS (Software as a Service, software como servicio) es un modelo de uso de aplicaciones mediante suscripción a través del navegador, sin necesidad de instalarlas en su ordenador.
 
-## Definición
-En el pasado, para utilizar un programa había que comprar un CD e instalarlo. En el modelo SaaS, simplemente abre su navegador y se conecta al software a través de Internet. Todo el mantenimiento y las actualizaciones son realizados por la empresa que ofrece el software.
+## Definición y origen de la palabra
+Antiguamente, para usar un programa, debía comprar un CD e instalarlo. En el modelo SaaS, usted abre su navegador y se conecta al software a través de Internet. El mantenimiento, las copias de seguridad y las actualizaciones corren a cargo de la empresa que ofrece el software. Por lo general, realiza el pago mediante una suscripción mensual o anual. Google Workspace, Salesforce y Netflix son ejemplos conocidos de este modelo.
 
-## Cómo funciona
-Se crea la membresía y se inicia sesión en el sistema a través del navegador de Internet.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Oficina: Correo electrónico, calendario y edición de documentos.Entretenimiento: Plataformas de series y música.Negocios: Seguimiento de clientes (CRM), contabilidad, recursos humanos.Educación: Plataformas de tareas y exámenes.
 
-## Dónde se usa
-Plataformas populares como Google Workspace, Netflix o Salesforce siguen este modelo.
+## Profundidad técnica y arquitectura
+Detrás de los productos SaaS funcionan los siguientes elementos:
 
-## Suele confundirse con
-Puede confundirse con PaaS; SaaS es para el usuario final, PaaS es para desarrolladores.
+## Cosas frecuentemente mezcladas
+Puede confundirse con PaaS. SaaS es una aplicación terminada, destinada al usuario final. PaaS es una plataforma donde los desarrolladores ejecutan sus propias aplicaciones. IaaS está aún más abajo: se alquilan servidores, discos y redes, y usted instala el resto.
+
+## Uso en diferentes disciplinas
+Agua municipal: Suscribirse a la red en lugar de cavar un pozo.Apartamento alquilado: El mantenimiento corre a cargo del propietario, el uso es suyo.Transporte público: Recibir servicios de transporte sin ser propietario de un vehículo.
 
 ## Preguntas frecuentes
 **¿Dónde se almacenan mis datos cuando uso SaaS?**
-Sus datos se almacenan en los servidores seguros de la empresa que proporciona el software.
+Se almacena en los centros de datos del proveedor. Asegúrese de revisar las condiciones de copia de seguridad, cifrado y acceso en el contrato.
+
+**¿Qué sucede si se corta Internet?**
+Las funciones en línea se detienen. Algunos productos ofrecen un funcionamiento limitado sin conexión, pero el uso completo requiere Internet.
+
+**¿Qué sucede con mis datos si cancelo la suscripción?**
+Por lo general, se otorga un período de gracia. Debe exportar sus datos antes de que finalice el plazo. Infórmese sobre el formato de exportación antes de cancelar.
+
+**¿Cuál es la diferencia con PaaS?**
+SaaS es una aplicación lista para usar, usted inicia sesión y la utiliza. PaaS es una plataforma vacía, usted instala su propio software sobre ella.
 
 
 ## Términos relacionados

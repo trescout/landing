@@ -2,23 +2,35 @@
 
 > Platform as a Service
 
-Es la provisión de la infraestructura necesaria para que los desarrolladores de software desarrollen y publiquen sus aplicaciones.
+PaaS (Platform as a Service, plataforma como servicio) es el alquiler de un entorno listo para ejecutar código.
 
-## Definición
-Los desarrolladores de software quieren centrarse sólo en sus códigos en lugar de ocuparse de tareas como configurar un servidor y realizar ajustes de seguridad. PaaS les ofrece un entorno de trabajo listo para usar donde pueden cargar sus códigos y abrirlos al mundo con un solo clic.
+## Definición y origen de la palabra
+El código se carga sin tener que lidiar con el servidor y la seguridad, y la plataforma lo ejecuta. La promesa de abrirse al mundo con un solo clic proviene de aquí. Heroku, Vercel y App Engine son ejemplos conocidos.
 
-## Cómo funciona
-Subes tu código a la plataforma y automáticamente lo ejecuta.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Web: Sitios publicados rápidamente.API: Backends sin mantenimiento.Prototipo: Pruebas de ideas.
 
-## Dónde se usa
-Se utiliza en plataformas de desarrolladores como Heroku, Vercel o Google App Engine.
+## Profundidad técnica y arquitectura
+Lo que ofrece la plataforma:
 
-## Suele confundirse con
-Puede confundirse con IaaS; IaaS proporciona sólo el hardware, mientras que PaaS proporciona todo lo necesario para ejecutar el software.
+## Cosas frecuentemente mezcladas
+Se confunde con IaaS. IaaS proporciona hardware, PaaS ofrece un entorno de ejecución. Uno es el terreno, el otro es una cocina equipada.
+
+## Uso en diferentes disciplinas
+Cocina: Cocina equipada.Apartamento: Alquiler amueblado.Escenario: Escenario listo con iluminación.
 
 ## Preguntas frecuentes
-**¿Es necesario utilizar PaaS?**
-No lo es, pero supone un gran ahorro de tiempo para los desarrolladores que no quieren ocuparse de la administración del servidor.
+**¿Es necesario PaaS?**
+No. Ahorra tiempo a quien quiere deshacerse de la gestión de servidores, pero resulta restrictivo para quien busca control.
+
+**¿Cuál es la diferencia de IaaS?**
+IaaS proporciona hardware, PaaS ofrece un entorno. Es una elección entre control y velocidad.
+
+**¿Existe el bloqueo (vendor lock-in)?**
+Sí, al integrarse en servicios propietarios. Los componentes portátiles se mantienen estándar.
+
+**¿Cuánto cuesta?**
+Es poco en negocios pequeños, aumenta con mucho tráfico. Se monitorea la factura y se establecen límites.
 
 
 ## Términos relacionados

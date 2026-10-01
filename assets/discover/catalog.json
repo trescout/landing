@@ -34016,7 +34016,12 @@
       }
     ],
     "last_seen": "2026-09-15",
-    "summary": "Vaultwarden, parola yönetim aracı Bitwarden ile uyumlu çalışan ve Rust diliyle geliştirilmiş açık kaynaklı bir sunucu yazılımıdır. Resmî olmayan bu alternatif, düşük sistem kaynağı tüketimiyle kendi sunucunuzda güvenli bir parola kasası çalıştırmanıza olanak tanır."
+    "summary": "Vaultwarden, parola yönetim aracı Bitwarden ile uyumlu çalışan ve Rust diliyle geliştirilmiş açık kaynaklı bir sunucu yazılımıdır. Resmî olmayan bu alternatif, düşük sistem kaynağı tüketimiyle kendi sunucunuzda güvenli bir parola kasası çalıştırmanıza olanak tanır.",
+    "tagline_en": "Vaultwarden is an open-source server software compatible with the password management tool Bitwarden and developed in Rust.",
+    "tagline_fr": "Vaultwarden est un logiciel de serveur open source développé en langage Rust, compatible avec l'outil de gestion de mots de passe Bitwarden.",
+    "tagline_pt": "Vaultwarden é um software de servidor de código aberto desenvolvido na linguagem Rust que funciona de forma compatível com a ferramenta de gerenciamento de senhas Bitwarden.",
+    "tagline_es": "Vaultwarden es un software de servidor de código abierto desarrollado en Rust que funciona de manera compatible con la herramienta de gestión de contraseñas Bitwarden.",
+    "tagline_de": "Vaultwarden ist eine in Rust entwickelte Open-Source-Serversoftware, die mit dem Passwort-Management-Tool Bitwarden kompatibel ist."
   },
   {
     "slug": "claude-plugins-community",
@@ -35346,7 +35351,12 @@
         "arsiv": true
       }
     ],
-    "last_seen": "2026-08-27"
+    "last_seen": "2026-08-27",
+    "tagline_en": "Privacy-focused alternative Twitter interface: displays Twitter content without running JavaScript, IP address and browser…",
+    "tagline_fr": "Interface Twitter alternative axée sur la confidentialité : affiche les contenus Twitter sans exécuter de JavaScript, l'adresse IP et le navigateur…",
+    "tagline_pt": "Interface alternativa do Twitter focada em privacidade: exibe conteúdos do Twitter sem executar JavaScript, protegendo seu endereço IP e navegador…",
+    "tagline_es": "Interfaz alternativa de Twitter centrada en la privacidad: muestra el contenido de Twitter sin ejecutar JavaScript, ocultando la dirección IP y el navegador…",
+    "tagline_de": "Datenschutzorientierte alternative Twitter-Oberfläche: Zeigt Twitter-Inhalte an, ohne JavaScript auszuführen, und schützt Ihre IP-Adresse und Ihren Browser..."
   },
   {
     "slug": "go-modern-guidelines",
@@ -35370,7 +35380,12 @@
         "yildiz": 3010,
         "onceki_yildiz": 1938
       }
-    ]
+    ],
+    "tagline_en": "Published by JetBrains, go-modern-guidelines helps artificial intelligence coding assistants write software in accordance with current Go standards…",
+    "tagline_fr": "Publié par JetBrains, go-modern-guidelines permet aux assistants de codage par intelligence artificielle de créer des logiciels conformes aux standards Go actuels…",
+    "tagline_pt": "O go-modern-guidelines, publicado pela JetBrains, ajuda os assistentes de codificação de inteligência artificial a escrever software de acordo com os padrões atuais de Go...",
+    "tagline_es": "go-modern-guidelines, publicado por JetBrains, es una guía que ayuda a los asistentes de codificación de inteligencia artificial a escribir software conforme a los estándares actuales de Go...",
+    "tagline_de": "Die von JetBrains veröffentlichten go-modern-guidelines unterstützen KI-Codierungsassistenten dabei, Software gemäß aktuellen Go-Standards zu schreiben…"
   },
   {
     "slug": "googletest",

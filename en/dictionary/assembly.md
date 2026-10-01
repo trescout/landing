@@ -1,32 +1,43 @@
 # What is Assembly?
 
-It is the process of bringing together various components or parts to form a complex system.
+Assembly refers to two basic concepts in computer science: First, the lowest-level symbolic programming language (Assembly Language) that directly governs the hardware processor (CPU); The second is to turn compiled software modules (.NET assembly) into a single distributable package.
 
-## Overview
-Assembly is the combining of different libraries, modules or hardware parts in the software world into a single working whole. You can think of it like laying the bricks of a building; Although each piece makes sense on its own, a functional structure emerges only after the assembly process. In software projects, this process is often intertwined with 'build' or 'compilation' steps.
+## 1. Low-level programming language (Assembly Language)
+The computer processor only understands binary signals (machine code / opcodes) 0 and 1. Assembly language consists of human-readable symbolic abbreviations (mnemonics) corresponding to these raw machine codes:
 
-*Analogy: It's like creating a finished car model by combining all the pieces in a Lego set; It is not a car when the parts stand alone, but they function when they are combined.*
+## 2. Processor registers and x86-64 architecture
+The most critical registers on a modern 64-bit x86-64 processor are:
 
-## How it works
-Developers bring together the pieces of code, libraries and configuration files they write to create a 'package'.
+## 3. CISC vs RISC: difference between x86-64 and ARM64
+x86-64 architecture works with CISC (Complex Instruction Set) philosophy; It has variable instruction sizes and rich instructions that can operate directly on memory. ARM64 (Apple Silicon, Mobile) is based on RISC (Reduced Instruction Set); It provides great superiority in energy efficiency with its fixed 32-bit command length and Load-Store architecture.
 
-## Where it is used
-It is used in software development processes, factory automation and installation of large systems.
+## 4. System calls (Syscall) and Linux x86-64 example
 
-## Commonly confused with
-Not to be confused with assembly language; The term is used here to mean 'unification process'.
+## 5. .NET Assembly and WebAssembly (WASM)
 
 ## Frequently asked questions
-**Why do we divide it into pieces?**
-For easier management, finding errors and reusing parts in other projects.
+**What does assembly mean and what does it do?**
+Assembly is the lowest-level symbolic programming language that corresponds 1 to 1 to the hardware instruction set of the computer processor. It is used to directly control CPU registers and memory.
+
+**What is the difference between Assembler and Compiler?**
+The compiler (C, C++, Rust) analyzes and optimizes and translates complex human logic and loops into machine code. Assembler, on the other hand, converts assembly instructions, which are already symbolic versions of machine code, directly into binary byte code.
+
+**Where is assembly language still used today?**
+It is actively used in operating system kernels (bootloader), hardware device drivers, reverse engineering, malware analysis, cyber vulnerability detection and embedded systems (IoT/microcontroller).
+
+**What is the difference between CISC and RISC?**
+CISC (x86-64) has a rich instruction set that can perform multiple subprocesses and memory accesses in a single instruction; RISC (ARM), on the other hand, is a simplified and energy-efficient architecture that runs each command in a single clock cycle.
 
 
 ## Related terms
+- [Memory Management](/en/dictionary/memory-management/)
+- [Runtime](/en/dictionary/runtime/)
 - [Compilation](/en/dictionary/compilation/)
-- [Bundling](/en/dictionary/bundling/)
-- [Deployment](/en/dictionary/deployment/)
+- [Apple Silicon](/en/dictionary/apple-silicon/)
+- [Emulator](/en/dictionary/emulator/)
 
 ## Related tools
+- [Ghidra](/en/discover/ghidra/)
 - [Apollo-11](/en/discover/apollo-11/)
 
 ---

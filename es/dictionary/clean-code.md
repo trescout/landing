@@ -1,19 +1,31 @@
 # ¿Qué es Clean Code?
 
-Es una estructura de código clara, simple y sin errores que otros desarrolladores de software pueden leer fácilmente.
+El código limpio es el código que los humanos pueden leer.
 
-## Definición
-El código limpio es código escrito de manera que no sólo las computadoras sino también los humanos puedan entenderlo. En lugar de estructuras complejas y entrelazadas, se prefieren códigos con nombres significativos y tareas divididas en partes claras y regulares. Este enfoque hace que el proyecto sea más fácil de mantener a largo plazo y reduce los errores.
+## Definición y origen de la palabra
+La máquina ejecuta todos los códigos, un humano no puede leer todos los códigos. Un nombre significativo, una función pequeña y un flujo simple aportan legibilidad. Robert Martin es el nombre de referencia de esta disciplina.
 
-## Cómo funciona
-Está escrito dando nombres significativos a las variables, minimizando funciones para realizar un solo trabajo y evitando complejidades innecesarias.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Equipo: Base de código común.Revisión: Comprobación de legibilidad.Cuidado: Volviendo al código antiguo.
 
-## Dónde se usa
-Es un principio fundamental para todos los equipos profesionales de desarrollo de software mantener la calidad del código.
+## Profundidad técnica y arquitectura
+Principios:
+
+## Uso en diferentes disciplinas
+Mesa: Área de trabajo ordenada.Estantes: Ordenado por género y autor.Jardín: Arreglo de ramas podadas.
 
 ## Preguntas frecuentes
-**¿No es suficiente que el código funcione?**
-Hacer que el código funcione es sólo el primer paso; El código limpio garantiza que otra persona pueda cambiar el código en el futuro.
+**¿No es suficiente con trabajar?**
+No es suficiente. El código de trabajo se guarda hoy, el código de lectura se guarda mañana.
+
+**¿Lo ralentiza?**
+Al principio si, en mantenimiento no. Genera dinero en total.
+
+**¿Cómo se mide?**
+Con tiempo de revisión y tasa de error. El número por sí solo no es suficiente.
+
+**¿Por dónde empezar?**
+De nombre y función. El código tocado se borra.
 
 
 ## Términos relacionados

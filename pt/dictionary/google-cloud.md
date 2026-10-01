@@ -2,23 +2,35 @@
 
 > Google Cloud Platform
 
-É uma plataforma de serviços de armazenamento de dados e execução de aplicações pela internet, oferecida pelo Google.
+Google Cloud (nome completo Google Cloud Platform) é um serviço em nuvem que aluga infraestrutura do Google.
 
-## Definição
-É um serviço em nuvem onde você aluga a enorme infraestrutura do Google em vez de configurar seus próprios servidores. Aqui você pode treinar modelos de inteligência artificial, hospedar sites ou realizar análises de big data. Você usa quantos recursos precisar e paga apenas pelo que usar.
+## Definição e origem da palavra
+Computação, armazenamento e inteligência artificial são alugados sem instalação de servidor. É um sistema de recursos conforme necessário e pagamento conforme o uso. Ele administra software empresarial, back-end móvel e negócios de dados.
 
-## Como funciona
-Ao criar uma conta, você escolhe as ferramentas que o Google oferece e instala seus aplicativos nelas.
+## Como conhecer e usar no dia a dia?
+Institucional: Aplicações empresariais.Móvel: Serviços de back-end.Dados: Armazém e análise.
 
-## Onde é usado
-Ele é usado em software empresarial, planos de fundo de aplicativos móveis e projetos de big data.
+## Profundidade Técnica e Arquitetura
+Serviços:
 
-## Costuma ser confundido com
-Pode ser confundido com o Google Drive; O Drive armazena arquivos, a nuvem executa aplicativos.
+## Coisas frequentemente misturadas
+Acredita-se que seja o Drive. O Drive armazena arquivos, a nuvem executa aplicativos. Um é um armário e o outro é uma oficina.
 
-## Perguntas frequentes
-**Por que devo usar isso e não meu próprio computador?**
-Por ser muito mais potente, nunca desliga e pode ser acessado de qualquer lugar do mundo.
+## Use em diferentes disciplinas
+Rede: Eletricidade da tomada.Central: Produção de aluguel.Armazém: Armazém para alugar.
+
+## Perguntas Frequentes
+**Por que não meu próprio computador?**
+A carga de energia, acesso e manutenção recai sobre a nuvem. A diferença aumenta quando a escala é necessária.
+
+**Quanto custa?**
+É pago conforme você o usa. O recurso ocioso é encerrado e um alarme de orçamento é definido.
+
+**Qual é a diferença da AWS?**
+Os nomes dos serviços mudam, a lógica é a mesma. O conhecimento da equipe determina a seleção.
+
+**É possível começar de graça?**
+Existem níveis limitados e créditos de teste. O limite é seguido.
 
 
 ## Termos relacionados

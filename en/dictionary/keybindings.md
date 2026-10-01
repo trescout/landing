@@ -6,10 +6,10 @@ Keybind (or keybinding) is the assignment of a keyboard key or key combination (
 The concept of "keybind" or "keybinding" is expressed in Turkish as key assignment, keyboard shortcut or key binding. Without the user having to move his hand from the keyboard to the mouse; It allows it to run commands such as opening a file, formatting code, making a search, or using an ability in the game in a tenth of a second.
 
 ## Why Is It So Important? (Efficiency and Ergonomics)
-Preservation of Mental Flow State: Reduces the friction between the developer's or player's thought speed and action speed to zero.
+Maintaining Mental Flow (Flow State): It reduces the friction between the developer's or player's thought speed and action speed to zero.
 
 ## Popular Keybinding Systems
-Vim / Neovim Modal Editing: Grammar-based legendary keyboard management philosophy such as ciw (change inside word), using the home row of the keyboard (hjkl) as the arrow key. VS Code and Modern Editors: Universal command palette opened with Cmd/Ctrl + Shift + P, line scrolling with Alt + Up/Down and multi-cursor management (Cmd/Ctrl + D). Terminal Multiplexers (tmux): Split panels and navigate between tabs with prefix keys such as Ctrl+B. Gaming Keybinds: WASD basic movement scheme, assignment of abilities to Q-E-R-F keys and mouse side buttons.
+Vim/Neovim Modal Editing: Grammar-based legendary keyboard management philosophy such as ciw (change inside word) that uses the main row of the keyboard (hjkl) as the arrow key.VS Code and Modern Editors: Universal command palette opened with Cmd/Ctrl + Shift + P, line scrolling with Alt + Up/Down and multi-cursor management (Cmd/Ctrl + D).Terminal Multiplexers (tmux): Split panels and navigate between tabs with prefix keys such as Ctrl+B.Game World (Gaming Keybinds): WASD basic movement scheme, assignment of abilities to Q-E-R-F keys and mouse side buttons.
 
 ## Commonly confused with
 Keyboard shortcut and keybind are often used synonymously. However, in practice, while shortcut refers to universal combinations (Ctrl+V, Alt+Tab) at the operating system level; Rather, keybind defines special assignments that the user can re-map according to their own habits in the editor or in-game.

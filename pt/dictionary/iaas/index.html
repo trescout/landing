@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>O que é IaaS? · Glossário · TreScout</title>
-<meta name="description" content="É o aluguel de recursos básicos de hardware como servidores virtuais e espaço de armazenamento pela internet.">
+<meta name="description" content="IaaS (Infrastructure as a Service, infraestrutura como serviço) é o aluguel de hardware. É o aluguel de recursos básicos de hardware como servidores virtua">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/pt/dictionary/iaas/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/iaas/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/iaas/">
 <link rel="alternate" type="text/markdown" href="/pt/dictionary/iaas.md">
 <meta property="og:title" content="O que é IaaS?">
-<meta property="og:description" content="É o aluguel de recursos básicos de hardware como servidores virtuais e espaço de armazenamento pela internet.">
+<meta property="og:description" content="IaaS (Infrastructure as a Service, infraestrutura como serviço) é o aluguel de hardware. É o aluguel de recursos básicos de hardware como servidores virtua">
 <meta property="og:url" content="https://trescout.com/pt/dictionary/iaas/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="pt_BR">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="O que é IaaS?">
-<meta name="twitter:description" content="É o aluguel de recursos básicos de hardware como servidores virtuais e espaço de armazenamento pela internet.">
+<meta name="twitter:description" content="IaaS (Infrastructure as a Service, infraestrutura como serviço) é o aluguel de hardware. É o aluguel de recursos básicos de hardware como servidores virtua">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "IaaS",
-  "description": "É o aluguel de recursos básicos de hardware como servidores virtuais e espaço de armazenamento pela internet.",
+  "description": "IaaS (Infrastructure as a Service, infraestrutura como serviço) é o aluguel de hardware.",
   "inLanguage": "pt-BR",
   "url": "https://trescout.com/pt/dictionary/iaas/",
   "inDefinedTermSet": {
@@ -55,16 +55,20 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/pt/dictionary/">← Glossário</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-06-27">Última atualização: 27 de junho de 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-09-22">Última atualização: 22 de setembro de 2026</time></div>
 <h1 class="disc-title">O que é <span class="disc-accent">IaaS</span>?</h1>
 <p class="dict-en">Infrastructure as a Service</p>
-<p class="disc-lead">É o aluguel de recursos básicos de hardware como servidores virtuais e espaço de armazenamento pela internet.</p>
-<section class="disc-sec"><h2>Definição</h2><p>Quando seu computador fica sem energia ou você precisa de um servidor, você aluga uma parte dos enormes data centers de empresas gigantes (como Amazon, Microsoft). Neste modelo, você instala o sistema operacional e o software, e eles são responsáveis ​​pelo hardware.</p></section>
-<div class="dict-analogy"><strong>Analogia:</strong> É como alugar um terreno baldio; O que você constrói nele depende inteiramente de você, basta alugar a infraestrutura do terreno.</div>
-<section class="disc-sec"><h2>Como funciona</h2><p>Os computadores virtuais são criados e gerenciados através de um painel na Internet.</p></section>
-<section class="disc-sec"><h2>Onde é usado</h2><p>É usado em provedores de nuvem como AWS, Azure e Google Cloud.</p></section>
-<section class="disc-sec"><h2>Costuma ser confundido com</h2><p>Pode ser confundido com PaaS; IaaS fornece o hardware básico, enquanto PaaS fornece um ambiente operacional pronto.</p></section>
-<section class="disc-sec"><h2>Perguntas frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">O IaaS é seguro?</p><p class="dict-faq-a">Sim, mas você é responsável pela segurança do sistema operacional e do software.</p></div></div></section>
+<p class="disc-lead">IaaS (Infrastructure as a Service, infraestrutura como serviço) é o aluguel de hardware.</p>
+<section class="disc-sec"><h2>Definição e origem da palavra</h2><p>Quando o poder não é suficiente, partes são alugadas de um grande centro de dados. O sistema operacional e o software são seus, a responsabilidade pelo hardware é do provedor. A analogia de um terreno vazio é apropriada: a infraestrutura está pronta, o edifício é seu.</p></section>
+<div class="dict-analogy"><strong>Analogia:</strong> Semelhante a alugar um terreno vazio; a infraestrutura está pronta, o edifício é seu.</div>
+<section class="disc-sec"><h2>Como conhecer e usar no dia a dia?</h2><p><strong>Site:</strong> Máquina de acordo com o tráfego.<br><strong>Backup:</strong> Disco remoto.<br><strong>Teste:</strong> Ambiente temporário.</p></section>
+<section class="disc-sec"><h2>Profundidade Técnica e Arquitetura</h2><p>Camadas:</p><p><strong>Máquina virtual:</strong> Fatia de processador e memória.<br><strong>Armazenamento:</strong> Espaço de bloco e objeto.<br><strong>Rede:</strong> Rede virtual e endereço.</p><p>Máquina como código:</p><pre><code>resource "aws_instance" "web" {
+  ami           = "ami-12345"
+  instance_type = "t3.micro"
+}</code></pre><p>Regra de custo: Máquina esquecida ligada gera cobrança. Disciplina de etiquetas e alarmes é essencial.</p></section>
+<section class="disc-sec"><h2>Coisas frequentemente misturadas</h2><p>Confunde-se com PaaS. IaaS fornece hardware, PaaS oferece ambiente pronto. Um é o terreno, o outro é o apartamento mobiliado.</p></section>
+<section class="disc-sec"><h2>Use em diferentes disciplinas</h2><p><strong>Terreno:</strong> Terreno vazio com infraestrutura.<br><strong>Armazém:</strong> Armazém com prateleiras prontas.<br><strong>Campo:</strong> Aluguel de terra arada.</p></section>
+<section class="disc-sec"><h2>Perguntas Frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">O IaaS é seguro?</p><p class="dict-faq-a">A infraestrutura é segura, a segurança interna é sua responsabilidade. Disciplina de patches e acesso é essencial.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Qual é a diferença do PaaS?</p><p class="dict-faq-a">IaaS fornece hardware, PaaS oferece um ambiente. Se você precisa de controle, escolha o primeiro; se deseja velocidade, escolha o segundo.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Como manter os custos sob controle?</p><p class="dict-faq-a">Desligue o que não está em uso, escolha o tamanho correto e configure alertas.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Quando escolher?</p><p class="dict-faq-a">Quando for necessário controle total e instalação personalizada. Para tarefas padrão, o PaaS é suficiente.</p></div></div></section>
 <section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/saas/">SaaS</a><a href="/pt/dictionary/paas/">PaaS</a><a href="/pt/dictionary/virtual-machines/">Virtual Machines</a></div></section>
 <section class="disc-sec"><h2>Ferramentas relacionadas</h2><div class="dict-related"><a href="/pt/discover/free-for-dev/">Free for Dev</a></div></section>
 <aside class="disc-cta"><p><strong>Explore ferramentas relacionadas e relatórios diários.</strong> Novos termos e ferramentas surgem todos os dias · junte-se ao acesso antecipado da TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-pt" data-page-type="dictionary" data-content-slug="iaas" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Seu e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Acesso antecipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Li o <a href="/pt/privacy.html" target="_blank" rel="noopener">aviso de privacidade</a> e concordo com o tratamento do meu e-mail para esta finalidade.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/pt/dictionary/">Todos os termos →</a></aside>

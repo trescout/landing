@@ -1,30 +1,40 @@
 # What is Bundler?
 
-It is a tool that combines and optimizes multiple files in a software project and turns them into a single structure that browsers can run.
+Bundler (module bundler) is a development tool that analyzes source codes (JavaScript, TypeScript, CSS, HTML, graphic and font assets) and external library dependencies divided into hundreds of independent parts in the modern web and software development ecosystem, and transforms these assets into optimized file packages (bundles) that browsers can run in the fastest and most efficient way.
 
-## Overview
-Modern web projects consist of hundreds of small files. Browsers have a hard time downloading so many files one by one. Bundler takes these files, links them together, and improves performance by cleaning up unnecessary parts.
+## What Does Bundler Mean and Why Did It Appear?
+In the early years of the web, sites consisted of a few <script> tags added sequentially into HTML. But as web applications became as complex as desktop software and grew into massive code bases consisting of thousands of modules, serious structural obstacles emerged:
 
-*Analogy: When constructing a building, it is like a logistics center that loads hundreds of different parts (bricks, pipes, cables) onto a single truck and delivers them to the construction site at once.*
+## How Does Bundler Work? Architecture in Depth
+The operation of a modern packager basically consists of three stages:
 
-## How it works
-During the development phase, you work with files individually. When you publish the project, bundler comes into play and packages all the files in a way that the browser can understand.
+## Critical Optimization Techniques
 
-## Where it is used
-It is indispensable in JavaScript-based web development projects.
-
-## Commonly confused with
-Can be mixed with compiler; compiler kodu başka bir dile çevirir, bundler ise dosyaları bir araya getirir.
+## Comparison of Packager Ecosystem
+Prominent tools that respond to different needs in the web ecosystem are:
 
 ## Frequently asked questions
-**Why don't we put everything in one file?**
-Very large files can slow down the browser; so bundler sometimes splits files into smart parts.
+**What is Bundler and why is it essential in modern web development?**
+Bundler; It is a tool that converts hundreds of modular source files, images and style files written by the developer into packages that the browser can process in a single and optimized way. It is considered mandatory in modern projects for file size optimization, network request reduction and browser compatibility.
+
+**What is the main difference between Webpack and Vite?**
+Webpack also compiles the entire project in the development environment and creates a single package in memory; As the project grows, the startup time increases. Vite, on the other hand, uses the browser's native ES Module (Native ESM) support in the development environment and compiles the files only when the browser requests them, so they are opened instantly, regardless of the project size.
+
+**What is tree-shaking and why does it only work in ES Modules?**
+Tree-shaking is the removal of functions and code blocks that are never used in the project from the final package. This can only be done safely in ESM format with static syntax such as import and export; Full analysis of dynamically callable CommonJS (require()) codes is not possible during the compilation phase.
+
+**What is the difference between Transpiler (Babel, SWC) and Bundler?**
+Transpiler just converts the syntax of the code (e.g. it translates modern TypeScript or ES6+ code to ES5). Bundler combines these converted independent files by resolving the dependency relationships between them and packages them under a single roof.
+
+**What does code splitting do?**
+It allows application code to be split into fragmented files instead of a single large file. The user only downloads the code of the page they are currently viewing, which significantly reduces initial load time and improves the user experience.
 
 
 ## Related terms
 - [Bundling](/en/dictionary/bundling/)
 - [Compilation](/en/dictionary/compilation/)
 - [Frontend Stack](/en/dictionary/frontend-stack/)
+- [Runtime](/en/dictionary/runtime/)
 
 ## Related tools
 - [Webpack](/en/discover/webpack/)

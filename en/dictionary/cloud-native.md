@@ -6,13 +6,13 @@ Cloud native is an approach to designing the application to take full advantage 
 The concept is collected under the umbrella of CNCF (Cloud Native Computing Foundation). The critical distinction here is this: Uploading a software to the cloud does not make it cloud native. Cloud native means that the application is built from the very beginning in small and independent parts, according to the dynamic structure of the cloud.
 
 ## How to Know and Use in Daily Life?
-Busy days: Capacity increases spontaneously as the traffic on the campaign day increases. Failure moment: When a server crashes, the work is silently transferred to another copy. Update: It is refreshed piece by piece while the application is running, not when it is closed.
+Busy days: Capacity automatically increases as traffic increases on the campaign day.Fault moment: Silent transfer of work to another copy when a server crashes.Update: It is refreshed piece by piece while the application is running, not when it is closed.
 
 ## Technical Depth and Architecture
 Parts of the cloud native stack:
 
 ## Use in Different Disciplines
-Prefabricated structure: Modular house where rooms can be added as needed. Electricity network: Power plants activated according to demand. Logistics: Distribution lines that open and close according to density.
+Prefabricated structure: Modular house where rooms can be added as needed.Electrical network: Power plants that come into operation according to demand.Logistics: Distribution lines that open and close according to density.
 
 ## Frequently Asked Questions
 **Does moving the application to the cloud make it cloud native?**

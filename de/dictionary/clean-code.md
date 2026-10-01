@@ -1,19 +1,31 @@
 # Was ist Clean Code?
 
-Es handelt sich um eine klare, einfache und fehlerfreie Codestruktur, die von anderen Softwareentwicklern leicht gelesen werden kann.
+Sauberer Code ist der Code, der von Menschen gelesen werden kann.
 
-## Definition
-Sauberer Code ist Code, der so geschrieben ist, dass ihn nicht nur Computer, sondern auch Menschen verstehen können. Anstelle komplexer und verflochtener Strukturen werden Codes mit aussagekräftigen Namen und Aufgaben, die in klare und regelmäßige Teile unterteilt sind, bevorzugt. Dieser Ansatz macht das Projekt langfristig einfacher zu warten und reduziert Fehler.
+## Definition und Wortherkunft
+Die Maschine führt jeden Code aus, ein Mensch kann nicht jeden Code lesen. Aussagekräftiger Name, kleine Funktion und einfacher Ablauf sorgen für Lesbarkeit. Robert Martin ist der Referenzname dieser Disziplin.
 
-## So funktioniert es
-Es wird geschrieben, indem man Variablen aussagekräftige Namen gibt, Funktionen auf eine einzelne Aufgabe minimiert und unnötige Komplexität vermeidet.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Team: Gemeinsame Codebasis.Überprüfung: Lesbarkeitsprüfung.Pflege: Zurückkehren zum alten Code.
 
-## Wo es eingesetzt wird
-Es ist ein grundlegendes Prinzip für alle professionellen Softwareentwicklungsteams, die Codequalität aufrechtzuerhalten.
+## Technische Tiefe und Architektur
+Grundsätze:
 
-## Häufige Fragen
-**Reicht es nicht, dass der Code funktioniert?**
-Den Code zum Laufen zu bringen, ist nur der erste Schritt. Sauberer Code stellt sicher, dass der Code in Zukunft von jemand anderem geändert werden kann.
+## Einsatz in verschiedenen Disziplinen
+Tisch: Aufgeräumter Arbeitsbereich.Regale: Sortiert nach Genre und Autor.Garten: Beschnittene Zweiganordnung.
+
+## Häufig gestellte Fragen
+**Reicht es nicht, um zu arbeiten?**
+Es ist nicht genug. Arbeitscode speichert heute, gelesener Code speichert morgen.
+
+**Verlangsamt es?**
+Am Anfang ja, in der Wartung nein. Es bringt insgesamt Geld ein.
+
+**Wie wird es gemessen?**
+Mit Überprüfungszeit und Fehlerquote. Zahl allein reicht nicht aus.
+
+**Wo soll ich anfangen?**
+Aus Name und Funktion. Der berührte Code wird gelöscht.
 
 
 ## Verwandte Begriffe

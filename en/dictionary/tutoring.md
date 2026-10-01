@@ -1,33 +1,41 @@
 # What is Tutoring?
 
-Artificial intelligence explains and guides a student like a private teacher.
+Tutoring (in Turkish, private tutoring or one-on-one guidance) is a personalized teaching process adapted to a student's knowledge level, deficiencies and speed of understanding.
 
-## Overview
-Artificial intelligence-based private lessons understand the student's level, identify their deficiencies and explain the subject in the most appropriate language. It not only gives the answer, but also teaches the student step by step how to solve the question.
+## 1. Etymological origin and basic definition: What does tutoring mean?
+The word tutoring derives from the Latin verb "tueri", meaning "to protect, to guard, to guard and to defend". It entered Anglo-French and Old English as the word tutor, which describes the responsibility of a guardian or guide, and since the 16th century, it has gained the identity of "private instructor who guides the student one-on-one" in the university and academic world.
 
-*Analogy: He is like a patient tutor who walks at the same pace as you, stops when you get tired, and shows you the shortest part of the way.*
+## 2. Tutoring in daily life and the EdTech ecosystem
+In daily life and in the digital world, the concept of tutoring appears in three common forms:
 
-## How it works
-The student asks a question or chooses a topic. By looking at past learning data, artificial intelligence chooses the best narrative method and starts an interactive dialogue.
+## 3. Tutoring in computer engineering and artificial intelligence architecture (AI Tutoring)
+The concept of tutoring in computer science came to life with Intelligent Tutoring Systems (ITS) that have been developed since the 1970s. Today, these systems, combined with generative artificial intelligence (LLM), work with complex engineering principles:
 
-## Where it is used
-It is used in educational technologies (EdTech), language learning applications and exam preparation platforms.
+## 4. Education science and philosophical dimension: Bloom's 2 Sigma problem
+A famous study conducted by educational scientist Benjamin Bloom in 1984 (Bloom's 2 Sigma Problem) has scientifically proven the importance of the concept of tutoring in the world:
 
 ## Commonly confused with
-It can be confused with just a question and answer (chatbot); The tutoring process includes a curriculum and learning objective.
 
 ## Frequently asked questions
-**Can a person replace the teacher?**
-Not exactly, but it is a powerful aid that makes teachers' jobs easier.
+**What does tutoring mean? What is its Turkish equivalent?**
+The word tutoring means "private tutoring, one-on-one guidance, private teaching or individual mentoring" in Turkish. It is of Latin origin and describes individual education shaped according to the needs of the student.
 
-**Does it work on everything?**
-Yes, but sometimes it can make mistakes on topics that require complex logic.
+**How does AI Tutoring work?**
+Instead of giving the answer directly, AI trainers use the Socratic dialogue method. It detects missing points with student knowledge tracking algorithms and generates step-by-step questions adapted to the student's level.
+
+**What is the difference between Tutoring and Teaching?**
+While teaching mostly involves conveying information (one-to-many) to a crowded class according to a standard plan, tutoring is a personalized one-to-one process that focuses on the speed of understanding of a single individual.
+
+**What is Bloom's 2 Sigma problem and how does it relate to tutoring?**
+In 1984, Benjamin Bloom showed that a student receiving one-on-one tutoring outperformed 98% of his peers in a traditional classroom (2 sigma difference). Artificial intelligence-based tutoring systems aim to scale this high success worldwide and make it accessible to everyone.
 
 
 ## Related terms
 - [Personalized Tutoring](/en/dictionary/personalized-tutoring/)
 - [AI Companion](/en/dictionary/ai-companion/)
 - [Lifelong Learning](/en/dictionary/lifelong-learning/)
+- [Prompt Engineering](/en/dictionary/prompt-engineering/)
+- [Productivity](/en/dictionary/productivity/)
 
 ## Related tools
 - [DeepTutor](/en/discover/deeptutor/)

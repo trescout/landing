@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>O que é Logs? · Glossário · TreScout</title>
-<meta name="description" content="Eles são registros com carimbo de data e hora das operações que um software executa em segundo plano e dos erros que encontra.">
+<meta name="description" content="Log, que significa registro em português, são linhas de eventos do sistema com carimbo de data/hora.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/pt/dictionary/logs/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/logs/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/logs/">
 <link rel="alternate" type="text/markdown" href="/pt/dictionary/logs.md">
 <meta property="og:title" content="O que é Logs?">
-<meta property="og:description" content="Eles são registros com carimbo de data e hora das operações que um software executa em segundo plano e dos erros que encontra.">
+<meta property="og:description" content="Log, que significa registro em português, são linhas de eventos do sistema com carimbo de data/hora.">
 <meta property="og:url" content="https://trescout.com/pt/dictionary/logs/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="pt_BR">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="O que é Logs?">
-<meta name="twitter:description" content="Eles são registros com carimbo de data e hora das operações que um software executa em segundo plano e dos erros que encontra.">
+<meta name="twitter:description" content="Log, que significa registro em português, são linhas de eventos do sistema com carimbo de data/hora.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Logs",
-  "description": "Eles são registros com carimbo de data e hora das operações que um software executa em segundo plano e dos erros que encontra.",
+  "description": "Log, que significa registro em português, são linhas de eventos do sistema com carimbo de data/hora.",
   "inLanguage": "pt-BR",
   "url": "https://trescout.com/pt/dictionary/logs/",
   "inDefinedTermSet": {
@@ -55,16 +55,17 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/pt/dictionary/">← Glossário</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-06-27">Última atualização: 27 de junho de 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-09-22">Última atualização: 22 de setembro de 2026</time></div>
 <h1 class="disc-title">O que é <span class="disc-accent">Logs</span>?</h1>
-<p class="disc-lead">Eles são registros com carimbo de data e hora das operações que um software executa em segundo plano e dos erros que encontra.</p>
-<section class="disc-sec"><h2>Definição</h2><p>Enquanto o software está em execução, eles anotam silenciosamente em um caderno o que estão fazendo em segundo plano. Quando ocorre um erro, os desenvolvedores abrem este notebook e verificam o que aconteceu e em que momento. Esses registros são a ferramenta mais importante para compreender a saúde do sistema.</p></section>
-<div class="dict-analogy"><strong>Analogia:</strong> É como a caixa preta de um avião; Tudo é registrado durante todo o voo e, caso haja algum problema, os registros podem ser examinados para entender o que aconteceu.</div>
-<section class="disc-sec"><h2>Como funciona</h2><p>Graças aos comandos integrados ao software, cada evento importante é gravado em um arquivo ou banco de dados.</p></section>
-<section class="disc-sec"><h2>Onde é usado</h2><p>É usado em servidores, aplicativos e processos de depuração.</p></section>
-<section class="disc-sec"><h2>Costuma ser confundido com</h2><p>Pode ser confundido com vestígios; Os logs são o registro de um evento, enquanto os rastreamentos são o caminho seguido por esse evento.</p></section>
-<section class="disc-sec"><h2>Perguntas frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Por que precisamos de registros?</p><p class="dict-faq-a">Quando o sistema trava, a única maneira de descobrir o motivo é lendo os logs.</p></div></div></section>
-<section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/observability/">Observability</a><a href="/pt/dictionary/qa/">QA</a></div></section>
+<p class="disc-lead">Log, que significa registro em português, são linhas de eventos do sistema com carimbo de data/hora.</p>
+<section class="disc-sec"><h2>Definição e origem da palavra</h2><p>&quot;Log&quot; significa diário de bordo: o capitão escreve o que aconteceu no caderno. O software também escreve linha por linha o que está fazendo em segundo plano. No momento de um erro, o caderno é aberto e a hora é verificada. É a primeira fonte de saúde do sistema.</p></section>
+<div class="dict-analogy"><strong>Analogia:</strong> É como a caixa-preta de um avião; mantém um registro durante todo o voo e, em caso de problema, retrocede-se para analisar.</div>
+<section class="disc-sec"><h2>Como conhecer e usar no dia a dia?</h2><p><strong>Apresentador:</strong> Depuração.<br><strong>Aplicação:</strong> Relatório de falha.<br><strong>Segurança:</strong> Rastreamento de eventos.</p></section>
+<section class="disc-sec"><h2>Profundidade Técnica e Arquitetura</h2><p>Regras de um bom registro:</p><p><strong>Carimbo de data/hora:</strong> Hora em cada linha.<br><strong>Nível:</strong> Distinção entre INFO e ERROR.<br><strong>Rotação:</strong> Arquivamento quando o arquivo cresce.<br><strong>Proibição de PII:</strong> Dados pessoais não entram no registro.</p><p>Linha de exemplo:</p><pre><code>2026-09-22T10:00:01 sipariş=4521 sonuc=ok sure_ms=38</code></pre><p>A pesquisa torna-se mais fácil neste formato. Texto desorganizado não pode ser pesquisado, registros organizados sim.</p></section>
+<section class="disc-sec"><h2>Coisas frequentemente misturadas</h2><p>Confundido com trace. Log é o registro do evento, trace é o caminho do evento. Um é uma foto, o outro é um filme.</p></section>
+<section class="disc-sec"><h2>Use em diferentes disciplinas</h2><p><strong>Caixa-preta:</strong> Dados de voo.<br><strong>Diário:</strong> Notas em ordem cronológica.<br><strong>Recibo de caixa:</strong> Registro de transações.</p></section>
+<section class="disc-sec"><h2>Perguntas Frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Por que o log é necessário?</p><p class="dict-faq-a">A causa da falha está no registro. Um sistema sem registros voa às cegas.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Onde é gravado?</p><p class="dict-faq-a">Em um arquivo ou sistema centralizado. Em produção, recomenda-se a coleta centralizada.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Por quanto tempo é armazenado?</p><p class="dict-faq-a">Depende da política. A depuração requer semanas, a auditoria requer anos.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Dados pessoais são registrados?</p><p class="dict-faq-a">Não. Senhas e identificações não entram no registro, são mascaradas.</p></div></div></section>
+<section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/observability/">Observability</a><a href="/pt/dictionary/qa/">QA</a><a href="/pt/dictionary/traces/">Traces</a></div></section>
 <section class="disc-sec"><h2>Ferramentas relacionadas</h2><div class="dict-related"><a href="/pt/discover/grafana/">Grafana</a><a href="/pt/discover/modly/">Modly</a></div></section>
 <aside class="disc-cta"><p><strong>Explore ferramentas relacionadas e relatórios diários.</strong> Novos termos e ferramentas surgem todos os dias · junte-se ao acesso antecipado da TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-pt" data-page-type="dictionary" data-content-slug="logs" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Seu e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Acesso antecipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Li o <a href="/pt/privacy.html" target="_blank" rel="noopener">aviso de privacidade</a> e concordo com o tratamento do meu e-mail para esta finalidade.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/pt/dictionary/">Todos os termos →</a></aside>
 <p class="disc-disclaimer">Esta explicação foi escrita em linguagem simples para a TreScout e <strong>traduzida automaticamente</strong> do original em turco · a versão turca é a que vale. Se algo parecer errado ou faltando, escreva para <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/logs/">Ler em turco →</a></p>

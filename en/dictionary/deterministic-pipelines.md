@@ -6,7 +6,7 @@ Deterministic pipeline is a pipeline that produces the same output in every run 
 "Deterministic" means deterministic: The outcome does not depend on chance or hidden circumstances. The process steps are bound by strict rules, and random variables are not included in the process. It is the basis of reliable software systems because it facilitates debugging and auditing.
 
 ## How to Know and Use in Daily Life?
-Finance: The same instruction file produces the same transfers every time. Scientific calculation: The same graph is produced with the same data and code. Software compilation: Producing the same package from the same source (repeatable compilation).
+Finance: The same instruction file produces the same transfers every time.Scientific calculation: The same graph appears with the same data and code.Software compilation: Production of the same package from the same source (repeatable compilation).
 
 ## Technical Depth and Architecture
 Sources and solutions that disrupt determinism:
@@ -15,7 +15,7 @@ Sources and solutions that disrupt determinism:
 Generative AI conversation models are generally non-deterministic: They may answer the same question differently on different days. Even if the temperature is reset, infrastructure differences may cause small changes. Therefore, artificial intelligence outputs should not be used directly as a registry in critical tasks, but should be subject to human control.
 
 ## Use in Different Disciplines
-Production line: Removing the same part from the same mold. Printing House: Taking the same print from the same mold. Laboratory: Repeating the same measurement with the same protocol.
+Production line: The same part coming out of the same mold.Printing press: Taking the same print from the same mold.Laboratory: Repeating the same measurement with the same protocol.
 
 ## Frequently Asked Questions
 **Why is it important?**

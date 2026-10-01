@@ -1,22 +1,31 @@
 # Was ist Chrome DevTools?
 
-Dabei handelt es sich um ein in den Webbrowser eingebettetes Entwicklertool, das dabei hilft, den Code von Websites zu untersuchen und Fehler zu beheben.
+Chrome DevTools ist das Entwicklerpanel im Browser.
 
-## Definition
-Chrome DevTools ermöglichen Webentwicklern, den Hintergrund von Websites im Browser anzuzeigen. Sie können das Aussehen der Seite ändern, Fehler im Code sofort erkennen und Leistungsprobleme analysieren. Es ist so etwas wie ein Röntgengerät für Websites.
+## Definition und Wortherkunft
+„DevTools“ bedeutet Entwicklertools. Der Hintergrund der Seite wird angezeigt, Fehler werden sofort erkannt und die Leistung wird gemessen. Es handelt sich um eine Röntgenaufnahme der Stellen.
 
-## So funktioniert es
-Sie können dieses Tool öffnen, indem Sie mit der rechten Maustaste auf eine beliebige Seite in Ihrem Browser klicken und „Inspizieren“ auswählen. Sie können die HTML- und CSS-Codes der Site im sich öffnenden Panel sehen und den Fehlern im Konsolenbereich folgen.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Entwicklung: Codeüberprüfung.Fehler: Konsolenverfolgung.Lernen: Standortanatomie.
 
-## Wo es eingesetzt wird
-Es wird in Webentwicklungsprozessen, beim Debuggen und zum Verständnis der Funktionsweise von Websites verwendet.
+## Technische Tiefe und Architektur
+Panels:
 
-## Häufige Fragen
-**Funktioniert es nur in Chrome?**
-Trotz des Namens sind ähnliche Tools in allen modernen Browsern wie Firefox, Edge und Safari verfügbar.
+## Einsatz in verschiedenen Disziplinen
+Gläser: Installation hinter der Wand.Röntgen: Interne Strukturansicht.Motorhaube: Motorraum.
 
-**Kann ich die Codes dauerhaft ändern?**
-Nein, die von Ihnen vorgenommenen Änderungen werden nur vorübergehend auf Ihrem Bildschirm angezeigt. Wenn Sie die Seite aktualisieren, wird alles in den vorherigen Zustand zurückversetzt.
+## Häufig gestellte Fragen
+**Nur Chrome?**
+Nein. Firefox, Edge und Safari bieten ähnliche Panels.
+
+**Ändert es sich dauerhaft?**
+Nein. Wenn Sie es aktualisieren, verschwindet es und die Datei ändert sich.
+
+**Sollte man es mit dem Handy versuchen?**
+Ja. Größe und Haptik werden mit Geräteemulation getestet.
+
+**Werden Aufzeichnungen geführt?**
+Betrag während der Sitzung. Für die kontinuierliche Überwachung ist ein separates Tool erforderlich.
 
 
 ## Verwandte Begriffe

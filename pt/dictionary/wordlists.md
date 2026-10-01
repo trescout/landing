@@ -1,22 +1,34 @@
 # O que é Wordlists?
 
-Estas são listas de palavras e senhas usadas com frequência para tentar fazer login nos sistemas.
+Wordlist, a lista de candidatos testados em testes de segurança.
 
-## Definição
-Essas listas, usadas em testes de segurança cibernética, contêm milhares ou milhões de combinações possíveis de senhas. Testes automatizados são realizados com essas listas para entender o quão forte é a proteção por senha de um sistema. Este processo é muitas vezes referido como um ataque de “força bruta”.
+## Definição e origem da palavra
+“Palavra” significa palavra e “lista” significa lista. Milhares de senhas possíveis são listadas e sua força de proteção é medida. É executado em laboratório e testes de penetração.
 
-## Como funciona
-O software de segurança tenta cada palavra desta lista, uma por uma; Se alguém pegar, o sistema está logado.
+## Como conhecer e usar no dia a dia?
+Laboratório: Medição de resistência.Controle: Auditoria de políticas.Educação: Aula de conscientização.
 
-## Onde é usado
-É usado em laboratórios de segurança cibernética e testes de penetração.
+## Profundidade Técnica e Arquitetura
+Lógica: A lista é testada, a senha fraca cai. Defesa: Senha longa, bloqueio e MFA. Regra: Tentar acessar o sistema sem permissão é crime; o teste deve ser abrangente e com autorização por escrito. O nome da ferramenta não é fornecido, o método é explicado.
 
-## Costuma ser confundido com
-Pode ser confundido com bancos de dados; estes são apenas arquivos de texto simples.
+## Coisas frequentemente misturadas
+Pensa-se que é um banco de dados. No entanto, são arquivos de texto simples. Um é a biblioteca, o outro é a lista.
 
-## Perguntas frequentes
-**Essas listas são legais?**
-Seu uso em testes de segurança é legal e necessário, mas atacar sistemas não autorizados é crime.
+## Use em diferentes disciplinas
+Caderno: Lista de combinações numéricas.Chaveiro: Chaves testadas.Roda de senha: Roda de probabilidade.
+
+## Perguntas Frequentes
+**Isso é legal?**
+No teste, sim; sem permissão, não. O escopo e a autorização são documentados.
+
+**Como se proteger?**
+Com senha longa, bloqueio e MFA. A lista caça as fracas.
+
+**Onde encontrar?**
+Existem conjuntos de segurança abertos. O objetivo é a defesa, não o ataque.
+
+**É eficaz?**
+Contra senhas fracas, sim. Uma política forte torna a lista inútil.
 
 
 ## Termos relacionados

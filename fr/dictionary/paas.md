@@ -2,23 +2,35 @@
 
 > Platform as a Service
 
-Il s'agit de la fourniture de l'infrastructure nécessaire aux développeurs de logiciels pour développer et publier leurs applications.
+Le PaaS (Platform as a Service, plateforme en tant que service) est la location d'un environnement prêt à l'emploi permettant d'exécuter du code.
 
-## Définition
-Les développeurs de logiciels souhaitent se concentrer uniquement sur leurs codes au lieu de s'occuper de tâches telles que la configuration d'un serveur et la définition des paramètres de sécurité. PaaS leur offre un environnement de travail prêt à l'emploi où ils peuvent télécharger leurs codes et les ouvrir au monde en un seul clic.
+## Définition et origine du mot
+Le code est déployé sans avoir à se soucier du serveur et de la sécurité, et la plateforme l'exécute. La promesse d'un déploiement mondial en un clic vient de là. Heroku, Vercel et App Engine en sont des exemples connus.
 
-## Comment ça marche
-Vous téléchargez votre code sur la plateforme et elle l'exécute automatiquement.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Web : Sites publiés rapidement.API : Back-ends sans maintenance.Prototype : Tests d'idées.
 
-## Où est-ce utilisé
-Il est utilisé sur les plateformes de développeurs telles que Heroku, Vercel ou Google App Engine.
+## Profondeur technique et architecture
+Ce que propose la plateforme :
 
-## Souvent confondu avec
-Peut être confondu avec IaaS ; IaaS fournit uniquement le matériel, tandis que PaaS fournit tout le nécessaire pour exécuter le logiciel.
+## Choses fréquemment mélangées
+C'est confondu avec l'IaaS. L'IaaS fournit le matériel, le PaaS offre un environnement d'exécution. L'un est un terrain, l'autre est une cuisine équipée.
 
-## Questions fréquentes
-**Est-il nécessaire d'utiliser du PaaS ?**
-Ce n'est pas le cas, mais c'est un gain de temps considérable pour les développeurs qui ne veulent pas s'occuper de l'administration du serveur.
+## Utilisation dans différentes disciplines
+Cuisine : Cuisine équipée.Appartement : Location meublée.Scène : Scène équipée avec éclairage.
+
+## Foire aux questions
+**Le PaaS est-il indispensable ?**
+Non. Il fait gagner du temps à ceux qui veulent se débarrasser de la gestion des serveurs, mais il est trop restrictif pour ceux qui recherchent le contrôle.
+
+**Quelle est la différence avec l'IaaS ?**
+L'IaaS fournit du matériel, le PaaS offre un environnement. C'est un choix entre contrôle et rapidité.
+
+**Y a-t-il un risque de verrouillage ?**
+Oui, si l'on s'intègre trop aux services propriétaires. Les composants portables sont maintenus selon des standards.
+
+**Qu'est-ce que ça coûte ?**
+C'est modeste pour les petites entreprises, mais cela augmente avec un trafic important. La facture est surveillée et des limites sont fixées.
 
 
 ## Termes liés

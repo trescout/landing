@@ -1,22 +1,34 @@
 # ¿Qué es Wordlists?
 
-Estas son listas de palabras y contraseñas de uso frecuente que se utilizan para intentar iniciar sesión en los sistemas.
+Wordlist (lista de palabras en turco) es la lista de candidatos evaluados en la prueba de seguridad.
 
-## Definición
-Estas listas, utilizadas en pruebas de ciberseguridad, contienen miles o millones de posibles combinaciones de contraseñas. Se realizan pruebas automatizadas con estas listas para comprender qué tan sólida es la protección con contraseña de un sistema. Este proceso a menudo se denomina ataque de "fuerza bruta".
+## Definición y origen de la palabra
+"Palabra" significa palabra y "lista" significa lista. Se enumeran miles de posibles contraseñas y se mide su nivel de protección. Se ejecuta en laboratorio y pruebas de penetración.
 
-## Cómo funciona
-El software de seguridad prueba cada palabra de esta lista una por una; Si uno lo detecta, el sistema inicia sesión.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Laboratorio: Medición de durabilidad.Supervisión: Auditoría de políticas.Educación: Lección de conciencia.
 
-## Dónde se usa
-Se utiliza en laboratorios de ciberseguridad y pruebas de penetración.
+## Profundidad técnica y arquitectura
+Lógica: se prueba la lista, se elimina la contraseña débil. Defensa: Contraseña larga, bloqueo y MFA. Regla: Probar el sistema sin permiso es un delito, la prueba es exhaustiva y con permiso por escrito. No se proporciona el nombre de la herramienta, se explica el método.
 
-## Suele confundirse con
-Puede confundirse con bases de datos; estos son simplemente archivos de texto sin formato.
+## Cosas frecuentemente mezcladas
+Se considera una base de datos. Sin embargo, son archivos de texto sin formato. Una es la biblioteca, la otra es la lista.
+
+## Uso en diferentes disciplinas
+Computadora portátil: Lista de combinación de números.Arnés clave: Claves probadas.Rueda de contraseña: Rueda de probabilidad.
 
 ## Preguntas frecuentes
-**¿Son legales estas listas?**
-Su uso en pruebas de seguridad es legal y necesario, pero atacar sistemas no autorizados es un delito.
+**¿Es legal?**
+Sí con pruebas, no sin permiso. El alcance y el permiso están documentados.
+
+**¿Cómo proteger?**
+Con contraseña larga, bloqueo y MFA. La lista se aprovecha de los débiles.
+
+**¿Dónde encontrarlo?**
+Hay conjuntos de seguridad abiertos. El objetivo es defender, no atacar.
+
+**¿Es efectivo?**
+Sí contra contraseña débil. Una política fuerte niega la lista.
 
 
 ## Términos relacionados

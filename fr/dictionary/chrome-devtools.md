@@ -1,22 +1,31 @@
 # Qu'est-ce que Chrome DevTools ?
 
-Il s'agit d'un outil de développement intégré au navigateur Web qui permet d'examiner les codes des sites Web et de corriger les erreurs.
+Chrome DevTools est le panneau de développement intégré au navigateur.
 
-## Définition
-Chrome DevTools permet aux développeurs Web de voir l'arrière-plan des sites dans le navigateur. Vous pouvez modifier l'apparence de la page, détecter instantanément les erreurs dans les codes et analyser les problèmes de performances. C'est un peu comme une machine à rayons X pour les sites Web.
+## Définition et origine du mot
+« DevTools » désigne les outils de développement. L'arrière-plan de la page est visible, les erreurs sont détectées instantanément et les performances sont mesurées. C'est une radiographie des sites.
 
-## Comment ça marche
-Vous pouvez ouvrir cet outil en cliquant avec le bouton droit sur n'importe quelle page de votre navigateur et en sélectionnant « Inspecter ». Vous pouvez voir les codes HTML et CSS du site dans le panneau qui s'ouvre et suivre les erreurs dans la section console.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Développement: Révision des codes.Erreur: Suivi des consoles.Apprentissage : Anatomie du site.
 
-## Où est-ce utilisé
-Il est utilisé dans les processus de développement Web, de débogage et pour comprendre le fonctionnement des sites Web.
+## Profondeur technique et architecture
+Panneaux :
 
-## Questions fréquentes
-**Est-ce que ça fonctionne uniquement dans Chrome ?**
-Malgré leur nom, des outils similaires sont disponibles dans tous les navigateurs modernes tels que Firefox, Edge et Safari.
+## Utilisation dans différentes disciplines
+Lunettes: Installation derrière le mur.Radiographie: Vue de la structure interne.Bonnet: Compartiment moteur.
 
-**Puis-je changer les codes de façon permanente ?**
-Non, les modifications que vous effectuez n'apparaîtront que temporairement sur votre écran, tout reviendra à son état précédent lorsque vous actualiserez la page.
+## Foire aux questions
+**Juste Chrome ?**
+Non. Firefox, Edge et Safari proposent des panneaux similaires.
+
+**Est-ce que ça change définitivement ?**
+Non. Lorsque vous l'actualisez, il disparaît et le fichier change.
+
+**Faut-il essayer le mobile ?**
+Oui. La taille et le toucher sont testés avec l'émulation de l'appareil.
+
+**Est-ce qu'il tient des registres ?**
+Montant en séance. La surveillance continue nécessite un outil distinct.
 
 
 ## Termes liés

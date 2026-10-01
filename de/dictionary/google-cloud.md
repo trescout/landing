@@ -2,23 +2,35 @@
 
 > Google Cloud Platform
 
-Dabei handelt es sich um eine von Google angebotene Plattform für Datenspeicherung und Anwendungsausführungsdienste über das Internet.
+Google Cloud (vollständiger Name Google Cloud Platform) ist ein Cloud-Dienst, der Google-Infrastruktur mietet.
 
-## Definition
-Es handelt sich um einen Cloud-Dienst, bei dem Sie die riesige Infrastruktur von Google mieten, anstatt eigene Server einzurichten. Hier können Sie Modelle der künstlichen Intelligenz trainieren, Websites hosten oder Big-Data-Analysen durchführen. Sie verbrauchen so viele Ressourcen wie Sie benötigen und zahlen nur für das, was Sie auch nutzen.
+## Definition und Wortherkunft
+Rechenleistung, Speicher und künstliche Intelligenz werden ohne Installation eines Servers gemietet. Es handelt sich um ein System von Ressourcen nach Bedarf und Bezahlung nach Bedarf. Er betreibt Unternehmenssoftware, mobile Backends und Datenunternehmen.
 
-## So funktioniert es
-Durch die Erstellung eines Kontos wählen Sie die von Google angebotenen Tools aus und installieren Ihre Anwendungen dort.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Institutionell: Geschäftsanwendungen.Mobile: Backend-Dienste.Daten: Lager und Analyse.
 
-## Wo es eingesetzt wird
-Es wird in Unternehmenssoftware, mobilen Anwendungshintergründen und Big-Data-Projekten verwendet.
+## Technische Tiefe und Architektur
+Leistungen:
 
-## Häufig verwechselt mit
-Es kann mit Google Drive verwechselt werden; Drive speichert Dateien, Cloud führt Anwendungen aus.
+## Häufig gemischte Dinge
+Es wird angenommen, dass es sich um Drive handelt. Drive speichert Dateien, Cloud führt Anwendungen aus. Einer ist ein Schrank und der andere ist eine Werkstatt.
 
-## Häufige Fragen
-**Warum sollte ich diesen nutzen und nicht meinen eigenen Computer?**
-Weil es viel leistungsfähiger ist, nie abschaltet und von überall auf der Welt darauf zugegriffen werden kann.
+## Einsatz in verschiedenen Disziplinen
+Netzwerk: Strom aus der Steckdose.Zentral: Mietproduktion.Lager: Lager zu vermieten.
+
+## Häufig gestellte Fragen
+**Warum nicht mein eigener Computer?**
+Die Last der Stromversorgung, des Zugriffs und der Wartung liegt in der Cloud. Der Unterschied vergrößert sich, wenn eine Skalierung erforderlich ist.
+
+**Wie hoch sind die Kosten?**
+Es wird bezahlt, wenn Sie es nutzen. Die ungenutzte Ressource wird heruntergefahren und ein Budgetalarm gesetzt.
+
+**Was ist der AWS-Unterschied?**
+Dienstnamen ändern sich, die Logik ist dieselbe. Teamwissen bestimmt die Auswahl.
+
+**Ist ein kostenloser Start möglich?**
+Es gibt begrenzte Stufen- und Testguthaben. Der Grenzwert wird eingehalten.
 
 
 ## Verwandte Begriffe

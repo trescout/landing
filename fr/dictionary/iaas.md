@@ -2,23 +2,35 @@
 
 > Infrastructure as a Service
 
-Il s'agit de la location de ressources matérielles de base telles que des serveurs virtuels et des espaces de stockage sur Internet.
+IaaS (Infrastructure as a Service, infrastructure en tant que service) consiste à louer du matériel informatique.
 
-## Définition
-Lorsque votre ordinateur n’a plus de courant ou que vous avez besoin d’un serveur, vous louez une partie des immenses centres de données d’entreprises géantes (comme Amazon, Microsoft). Dans ce modèle, vous installez le système d'exploitation et les logiciels, et ils sont responsables du matériel.
+## Définition et origine du mot
+Lorsque la puissance est insuffisante, une partie est louée dans un centre de données géant. Le système d'exploitation et le logiciel sont à votre charge, la responsabilité du matériel incombe au fournisseur. L'analogie du terrain vide est appropriée : l'infrastructure est prête, le bâtiment est à vous.
 
-## Comment ça marche
-Les ordinateurs virtuels sont créés et gérés via un panneau sur Internet.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Site : Machine selon le trafic.Sauvegarde : Disque distant.Test : Environnement temporaire.
 
-## Où est-ce utilisé
-Il est utilisé dans les fournisseurs de cloud tels qu'AWS, Azure et Google Cloud.
+## Profondeur technique et architecture
+Couches :
 
-## Souvent confondu avec
-Peut être confondu avec PaaS ; IaaS fournit le matériel de base, tandis que PaaS fournit un environnement d'exploitation prêt à l'emploi.
+## Choses fréquemment mélangées
+Souvent confondu avec le PaaS. L'IaaS fournit le matériel, le PaaS offre un environnement prêt à l'emploi. L'un est un terrain nu, l'autre est un appartement meublé.
 
-## Questions fréquentes
+## Utilisation dans différentes disciplines
+Terrain : Terrain nu avec infrastructure.Entrepôt : Entrepôt avec étagères prêtes.Champ : Location de terre labourée.
+
+## Foire aux questions
 **L'IaaS est-il sécurisé ?**
-Oui, mais vous êtes responsable de la sécurité du système d’exploitation et des logiciels.
+L'infrastructure est sécurisée, la sécurité interne est de votre ressort. La discipline en matière de correctifs et d'accès est indispensable.
+
+**Quelle est la différence avec le PaaS ?**
+L'IaaS fournit du matériel, le PaaS offre un environnement. Si vous voulez le contrôle, choisissez le premier ; si vous voulez de la rapidité, choisissez le second.
+
+**Comment maîtriser les coûts ?**
+Éteignez ce qui n'est pas utilisé, choisissez la bonne taille et configurez des alertes.
+
+**Quand le choisir ?**
+Lorsqu'un contrôle total et une installation personnalisée sont nécessaires. Pour un travail standard, le PaaS est suffisant.
 
 
 ## Termes liés

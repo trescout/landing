@@ -1,19 +1,31 @@
 # Was ist Repository Checkout?
 
-Dabei handelt es sich um den Vorgang, bei dem alle Dateien eines Softwareprojekts von einem zentralen Server auf Ihren eigenen Computer kopiert werden.
+Beim Auschecken des Repositorys wird eine bestimmte Version des Repositorys in Ihren Arbeitsbereich heruntergeladen.
 
-## Definition
-Beim Auschecken wird eine bestimmte Version eines Projekts vom Server heruntergeladen und in Ihren eigenen Arbeitsbereich heruntergeladen. Auf diese Weise können Sie auf den aktuellen Stand des Projekts zugreifen und Änderungen daran vornehmen. In der Softwarewelt ist es der grundlegende Schritt, eine lokale Kopie des Projekts zu erstellen.
+## Definition und Wortherkunft
+Sie holen sich die aktuelle Version des Projekts vom Server und bringen sie auf Ihren Schreibtisch. Es ist, als würde man ein Buch aus der Bibliothek ausleihen: Die Quelle bleibt, man arbeitet mit der Kopie. Verlaufs- und Versionsinformationen liegen der Kopie bei.
 
-## So funktioniert es
-Dies geschieht in der Regel über Tools wie Git, über das Terminal mit dem Befehl „git checkout“ oder über Schaltflächen in der Entwicklungsumgebung.
+## Wie kann man es kennen und im täglichen Leben anwenden?
+Neues Projekt: Das Repository zum ersten Mal herunterladen.Versionsmigration: Gehen Sie nicht zum alten Tag zurück und untersuchen Sie den Fehler.Versuchen Sie es mit Branch: Eröffnen Sie nicht die Filiale Ihres Freundes vor Ort.
 
-## Wo es eingesetzt wird
-Es wird verwendet, wenn Sie gerade ein Projekt starten oder zu einer anderen Version des Projekts wechseln müssen.
+## Technische Tiefe und Architektur
+Der Ablauf ist wie folgt:
 
-## Häufige Fragen
+## Einsatz in verschiedenen Disziplinen
+Bibliothek: Nehmen Sie das Buch nicht aus dem Regal und bringen Sie es auf den Tisch.Archiv: Entfernen Sie den Ordner aus dem Speicher und untersuchen Sie ihn.Foto: Lassen Sie sich nicht vom Negativen unter Druck setzen.
+
+## Häufig gestellte Fragen
 **Lädt es nur Dateien herunter?**
-Es enthält nicht nur die Dateien, sondern auch den Verlauf und die Versionsinformationen des Projekts.
+Nein. Verlaufs- und Versionsinformationen sind ebenfalls enthalten, sodass Sie zur alten Version zurückkehren können.
+
+**Was ist der Unterschied zu Clone?**
+Beim Klonen handelt es sich um den ersten Download, beim Auschecken um den Durchgang durch das heruntergeladene Repository. Die Reihenfolge geht in diese Richtung.
+
+**Wie kann ich zur alten Version zurückkehren?**
+Es wird mit einem Tag oder Commit-Hash übergeben. Wenn ein gespeicherter Job vorhanden ist, wird dieser zuerst gespeichert.
+
+**Was ist Switch?**
+Es ist der moderne Befehl zum Verzweigen. Da das Auschecken viel Arbeit macht, hat Git es in zwei Teile aufgeteilt: Wechsel zum Zweig und Wiederherstellung in der Datei.
 
 
 ## Verwandte Begriffe

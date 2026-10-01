@@ -8,7 +8,7 @@ CMS (Content Management System) is software that allows you to create, edit and 
 CMS manages the technical infrastructure of the site in the background. You add your texts, images and videos as if you were using a word processor. These systems, the best-known example of which is WordPress, run a significant portion of the sites on the internet. It allows you to manage a professional site without dealing with design and technical details.
 
 ## How to Know and Use in Daily Life?
-Blog: Write an article and publish it with one click. Corporate site: Announcement and page management. E-commerce: Product, price and stock entry. Education: Lecture notes and announcement board.
+Blog: Write an article and publish it with one click.Corporate site: Announcement and page management.E-commerce: Product, price and stock entry.Education: Lecture notes and notice board.
 
 ## Technical Depth and Architecture
 Classic CMS consists of three layers:
@@ -17,7 +17,7 @@ Classic CMS consists of three layers:
 It's similar to website builders, but CMS usually offer more customization and plugin support. The builder provides drag-and-drop ease, while the CMS is more flexible on the data and scale side.
 
 ## Use in Different Disciplines
-Publishing: The editorial desk in the magazine kitchen.Library: The catalog system that lines the shelves.Retail: The store layout that manages the aisle layout.
+Publishing: Editorial desk in the magazine kitchen.Library: Catalog system that lines the shelves.Retail: Store layout that manages the aisle plan.
 
 ## Frequently Asked Questions
 **Do I need to be a software developer to use CMS?**

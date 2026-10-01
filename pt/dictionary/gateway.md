@@ -1,22 +1,34 @@
 # O que é Gateway?
 
-É a porta que gerencia e faz a transição do tráfego de dados entre diferentes redes.
+Gateway (em português, porta de entrada), é o ponto de conexão que gerencia o tráfego entre diferentes redes.
 
-## Definição
-É como uma ponte que permite que duas redes diferentes se comuniquem. Por exemplo, o dispositivo que conecta a Internet da sua casa à Internet do mundo exterior é um gateway. Ele verifica se os dados vão para o endereço correto.
+## Definição e origem da palavra
+"Gate" significa portão e "way" significa caminho. É a ponte que permite que duas redes se comuniquem: o dispositivo que conecta a internet da sua casa ao mundo exterior é o exemplo típico. Ele analisa os dados recebidos e decide para qual rede devem ser enviados.
 
-## Como funciona
-Ele examina os dados recebidos, decide para qual rede devem ir e direciona o tráfego.
+## Como conhecer e usar no dia a dia?
+Modem doméstico: Conecta sua casa à rede do provedor.Gateway corporativo: Ponto de controle do tráfego do escritório.Nuvem: A porta de entrada para redes virtuais.
 
-## Onde é usado
-É encontrado em modems domésticos, portas de redes corporativas e sistemas em nuvem.
+## Profundidade Técnica e Arquitetura
+Funções do gateway:
 
-## Costuma ser confundido com
-Pode ser confundido com API Gateway; Enquanto o API Gateway gerencia serviços no mundo do software, o gateway opera no nível físico ou de rede.
+## Coisas frequentemente misturadas
+Pode ser confundido com o API Gateway. O API Gateway gerencia serviços de software, enquanto o gateway de rede opera no nível de rede. Um é a porta da aplicação, o outro é a porta de caminho.
 
-## Perguntas frequentes
-**Posso acessar a internet sem gateway?**
-Não, a sua rede local não consegue se conectar ao mundo exterior e permanece isolada.
+## Use em diferentes disciplinas
+Porta de fronteira: Inspeção e direcionamento dos visitantes.Porto: Desembaraço aduaneiro de navios.Recepção: Direcionamento do visitante para o andar correto.
+
+## Perguntas Frequentes
+**É possível acessar a internet sem um gateway?**
+Não. A rede local não consegue se conectar ao mundo exterior, permanecendo isolada.
+
+**Qual é a diferença para um API gateway?**
+O gateway transporta pacotes, o API gateway gerencia solicitações. Um é a camada de rede, o outro é a camada de aplicação.
+
+**Qual é usado em casa?**
+O gateway dentro do seu modem é suficiente. Não são necessárias configurações adicionais, o endereço é distribuído automaticamente.
+
+**Duas redes podem ser mantidas separadas?**
+Sim. Com regras de firewall, a passagem é bloqueada e as redes operam isoladas.
 
 
 ## Termos relacionados
@@ -27,6 +39,7 @@ Não, a sua rede local não consegue se conectar ao mundo exterior e permanece i
 ## Ferramentas relacionadas
 - [OmniRoute](/pt/discover/omniroute/)
 - [Fanqiang](/pt/discover/fanqiang/)
+- [Gitdiagram](/pt/discover/gitdiagram/)
 - [OpenWA](/pt/discover/openwa/)
 - [Grok2api](/pt/discover/grok2api/)
 

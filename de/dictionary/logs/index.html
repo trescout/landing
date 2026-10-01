@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Was ist Logs? · Glossar · TreScout</title>
-<meta name="description" content="Dabei handelt es sich um zeitgestempelte Aufzeichnungen der Vorgänge, die eine Software im Hintergrund ausführt, und der Fehler, auf die sie stößt.">
+<meta name="description" content="Ein Log ist eine zeitgestempelte Zeile von Systemereignissen. Dabei handelt es sich um zeitgestempelte Aufzeichnungen der Vorgänge, die eine Software im Hi">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/de/dictionary/logs/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/logs/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/logs/">
 <link rel="alternate" type="text/markdown" href="/de/dictionary/logs.md">
 <meta property="og:title" content="Was ist Logs?">
-<meta property="og:description" content="Dabei handelt es sich um zeitgestempelte Aufzeichnungen der Vorgänge, die eine Software im Hintergrund ausführt, und der Fehler, auf die sie stößt.">
+<meta property="og:description" content="Ein Log ist eine zeitgestempelte Zeile von Systemereignissen. Dabei handelt es sich um zeitgestempelte Aufzeichnungen der Vorgänge, die eine Software im Hi">
 <meta property="og:url" content="https://trescout.com/de/dictionary/logs/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="de_DE">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Was ist Logs?">
-<meta name="twitter:description" content="Dabei handelt es sich um zeitgestempelte Aufzeichnungen der Vorgänge, die eine Software im Hintergrund ausführt, und der Fehler, auf die sie stößt.">
+<meta name="twitter:description" content="Ein Log ist eine zeitgestempelte Zeile von Systemereignissen. Dabei handelt es sich um zeitgestempelte Aufzeichnungen der Vorgänge, die eine Software im Hi">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Logs",
-  "description": "Dabei handelt es sich um zeitgestempelte Aufzeichnungen der Vorgänge, die eine Software im Hintergrund ausführt, und der Fehler, auf die sie stößt.",
+  "description": "Ein Log ist eine zeitgestempelte Zeile von Systemereignissen.",
   "inLanguage": "de",
   "url": "https://trescout.com/de/dictionary/logs/",
   "inDefinedTermSet": {
@@ -55,16 +55,17 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/de/dictionary/">← Glossar</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossar · Dev</span><time class="dict-time" datetime="2026-06-27">Zuletzt aktualisiert: 27. Juni 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glossar · Dev</span><time class="dict-time" datetime="2026-09-22">Zuletzt aktualisiert: 22. September 2026</time></div>
 <h1 class="disc-title">Was ist <span class="disc-accent">Logs</span>?</h1>
-<p class="disc-lead">Dabei handelt es sich um zeitgestempelte Aufzeichnungen der Vorgänge, die eine Software im Hintergrund ausführt, und der Fehler, auf die sie stößt.</p>
-<section class="disc-sec"><h2>Definition</h2><p>Während die Software läuft, notieren sie stillschweigend in einem Notizbuch, was sie im Hintergrund tun. Wenn ein Fehler auftritt, öffnen Entwickler dieses Notizbuch und schauen sich an, was zu welchem ​​Zeitpunkt passiert ist. Diese Aufzeichnungen sind das wichtigste Instrument, um den Zustand des Systems zu verstehen.</p></section>
-<div class="dict-analogy"><strong>Analogie:</strong> Es ist wie die Blackbox eines Flugzeugs; Während des gesamten Fluges wird alles aufgezeichnet, und wenn es ein Problem gibt, können die Aufzeichnungen überprüft werden, um zu verstehen, was passiert ist.</div>
-<section class="disc-sec"><h2>So funktioniert es</h2><p>Dank der in der Software integrierten Befehle wird jedes wichtige Ereignis in eine Datei oder Datenbank geschrieben.</p></section>
-<section class="disc-sec"><h2>Wo es eingesetzt wird</h2><p>Es wird in Servern, Anwendungen und Debugging-Prozessen verwendet.</p></section>
-<section class="disc-sec"><h2>Häufig verwechselt mit</h2><p>Kann mit Spuren verwechselt werden; Protokolle sind eine Aufzeichnung eines Ereignisses, während Spuren der Pfad sind, dem dieses Ereignis folgt.</p></section>
-<section class="disc-sec"><h2>Häufige Fragen</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Warum brauchen wir Protokolle?</p><p class="dict-faq-a">Wenn das System abstürzt, können Sie die Ursache nur durch Lesen der Protokolle herausfinden.</p></div></div></section>
-<section class="disc-sec"><h2>Verwandte Begriffe</h2><div class="dict-related"><a href="/de/dictionary/observability/">Observability</a><a href="/de/dictionary/qa/">QA</a></div></section>
+<p class="disc-lead">Ein Log ist eine zeitgestempelte Zeile von Systemereignissen.</p>
+<section class="disc-sec"><h2>Definition und Wortherkunft</h2><p>&quot;Log&quot; bedeutet Logbuch eines Schiffes: Der Kapitän schreibt auf, was passiert ist. Auch die Software schreibt im Hintergrund Zeile für Zeile auf, was sie tut. Im Fehlerfall wird das Buch geöffnet und auf die Uhrzeit geschaut. Es ist die erste Quelle für die Systemgesundheit.</p></section>
+<div class="dict-analogy"><strong>Analogie:</strong> Es ist wie der Flugschreiber eines Flugzeugs; während des gesamten Fluges werden Aufzeichnungen geführt, und bei Problemen wird zurückgespult.</div>
+<section class="disc-sec"><h2>Wie kann man es kennen und im täglichen Leben anwenden?</h2><p><strong>Moderator:</strong> Fehlerbehebung.<br><strong>Anwendung:</strong> Absturzbericht.<br><strong>Sicherheit:</strong> Ereignisverfolgung.</p></section>
+<section class="disc-sec"><h2>Technische Tiefe und Architektur</h2><p>Regeln für gute Protokollierung:</p><p><strong>Zeitstempel:</strong> Uhrzeit in jeder Zeile.<br><strong>Ebene:</strong> Unterscheidung zwischen INFO und ERROR.<br><strong>Rotation:</strong> Archivierung bei Dateigrößenwachstum.<br><strong>PII-Verbot:</strong> Personenbezogene Daten werden nicht protokolliert.</p><p>Beispielzeile:</p><pre><code>2026-09-22T10:00:01 sipariş=4521 sonuc=ok sure_ms=38</code></pre><p>Die Suche wird in diesem Format erleichtert. Unstrukturierter Text kann nicht durchsucht werden, strukturierte Datensätze schon.</p></section>
+<section class="disc-sec"><h2>Häufig gemischte Dinge</h2><p>Wird oft mit Trace verwechselt. Ein Log ist eine Ereignisaufzeichnung, ein Trace ist der Pfad des Ereignisses. Das eine ist ein Foto, das andere ein Film.</p></section>
+<section class="disc-sec"><h2>Einsatz in verschiedenen Disziplinen</h2><p><strong>Blackbox:</strong> Flugdaten.<br><strong>Tagebuch:</strong> Chronologische Notizen.<br><strong>Kassenbon:</strong> Transaktionsprotokoll.</p></section>
+<section class="disc-sec"><h2>Häufig gestellte Fragen</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Warum werden Logs benötigt?</p><p class="dict-faq-a">Die Ursache eines Absturzes liegt in der Aufzeichnung. Ein System ohne Protokollierung fliegt blind.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Wo wird es geschrieben?</p><p class="dict-faq-a">In eine Datei oder ein zentrales System. In der Produktion wird eine zentrale Sammlung empfohlen.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Wie lange wird es aufbewahrt?</p><p class="dict-faq-a">Das hängt von der Richtlinie ab. Das Debugging erfordert Wochen, Audits erfordern Jahre.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Werden personenbezogene Daten geschrieben?</p><p class="dict-faq-a">Nein. Passwörter und Identitätsdaten werden nicht aufgezeichnet, sondern maskiert.</p></div></div></section>
+<section class="disc-sec"><h2>Verwandte Begriffe</h2><div class="dict-related"><a href="/de/dictionary/observability/">Observability</a><a href="/de/dictionary/qa/">QA</a><a href="/de/dictionary/traces/">Traces</a></div></section>
 <section class="disc-sec"><h2>Verwandte Werkzeuge</h2><div class="dict-related"><a href="/de/discover/grafana/">Grafana</a><a href="/de/discover/modly/">Modly</a></div></section>
 <aside class="disc-cta"><p><strong>Entdecken Sie passende Werkzeuge und tägliche Berichte.</strong> Jeden Tag entstehen neue Fachbegriffe und Tools · sichern Sie sich den Vorabzugang zu TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-de" data-page-type="dictionary" data-content-slug="logs" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Ihre E-Mail-Adresse" autocomplete="email" required><button class="btn btn-primary" type="submit">Vorabzugang</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Ich habe den <a href="/de/privacy.html" target="_blank" rel="noopener">Datenschutzhinweis</a> gelesen und bin damit einverstanden, dass meine E-Mail-Adresse zu diesem Zweck verarbeitet wird.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/de/dictionary/">Alle Begriffe →</a></aside>
 <p class="disc-disclaimer">Diese Erklärung wurde für TreScout in einfacher Sprache verfasst und <strong>maschinell übersetzt</strong> aus dem türkischen Original · maßgeblich ist die türkische Fassung. Wenn etwas falsch oder unvollständig wirkt, schreiben Sie an <a href="mailto:hello@trescout.com">hello@trescout.com</a>. <a href="https://trescout.com/dictionary/logs/">Auf Türkisch lesen →</a></p>

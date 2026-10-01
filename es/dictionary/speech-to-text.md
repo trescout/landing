@@ -1,22 +1,34 @@
 # ¿Qué es Speech-to-Text?
 
-Es una tecnología que escucha las palabras habladas y las convierte automáticamente en texto escrito.
+Speech-to-text (STT para abreviar, voz a texto) es la tecnología que convierte la voz en texto escrito.
 
-## Definición
-Es un proceso que analiza las ondas sonoras y las convierte en caracteres digitales. La inteligencia artificial distingue las entonaciones y palabras de la voz humana y las convierte en texto. Hoy en día funciona muy rápido y sin errores.
+## Definición y origen de la palabra
+Las ondas sonoras se traducen en atributos numéricos, el modelo reconoce palabras. La IA también lee la entonación y el contexto. No está libre de errores, pero su precisión es alta en grabaciones limpias.
 
-## Cómo funciona
-Los datos de audio provenientes de tu micrófono ingresan al sistema, la inteligencia artificial procesa estos datos y los refleja como texto en tu pantalla.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Reunión: Minutos automáticos.Asistente: Comando de voz.Subtitular: Texto de vídeo.
 
-## Dónde se usa
-Se utiliza en aplicaciones para tomar notas en reuniones, asistentes de voz y herramientas de subtítulos.
+## Profundidad técnica y arquitectura
+Línea:
 
-## Suele confundirse con
-Se puede confundir con Text-to-Speech (traducción de texto a voz); Este es exactamente el proceso opuesto.
+## Cosas frecuentemente mezcladas
+Se cree que es texto a voz. Convierte ese texto en sonido, este sonido en texto. Las dos son direcciones opuestas.
+
+## Uso en diferentes disciplinas
+Secretario: No tomes notas mientras hablas.Máquina de escribir: No escribas lo que se dice.Sala de subtítulos: Preparación del texto para su publicación.
 
 ## Preguntas frecuentes
 **¿Entiende cada acento?**
-Aunque los modelos modernos entienden la mayoría de los acentos, pueden cometer errores con idiomas muy raros o grabaciones de voz distorsionadas.
+Bueno con acentos comunes, los errores aumentan con lenguaje raro y registro roto.
+
+**¿Cuál es su precisión?**
+Tiene un alto nivel de grabación limpia, lo que reduce el ruido y la jerga. Se revisa el texto crítico.
+
+**¿Es compatible con turco?**
+Sí. Los modelos principales dominan el turco, se prueban el acento y la terminología.
+
+**¿Existe un riesgo para la privacidad?**
+En el servicio en la nube el sonido se apaga. En reuniones delicadas se prefiere el modelo local.
 
 
 ## Términos relacionados

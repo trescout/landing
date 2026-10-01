@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Was ist Clean Code? · Glossar · TreScout</title>
-<meta name="description" content="Es handelt sich um eine klare, einfache und fehlerfreie Codestruktur, die von anderen Softwareentwicklern leicht gelesen werden kann.">
+<meta name="description" content="Sauberer Code ist der Code, der von Menschen gelesen werden kann. Es handelt sich um eine klare, einfache und fehlerfreie Codestruktur, die von anderen Sof">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/de/dictionary/clean-code/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/clean-code/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/clean-code/">
 <link rel="alternate" type="text/markdown" href="/de/dictionary/clean-code.md">
 <meta property="og:title" content="Was ist Clean Code?">
-<meta property="og:description" content="Es handelt sich um eine klare, einfache und fehlerfreie Codestruktur, die von anderen Softwareentwicklern leicht gelesen werden kann.">
+<meta property="og:description" content="Sauberer Code ist der Code, der von Menschen gelesen werden kann. Es handelt sich um eine klare, einfache und fehlerfreie Codestruktur, die von anderen Sof">
 <meta property="og:url" content="https://trescout.com/de/dictionary/clean-code/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="de_DE">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="Was ist Clean Code?">
-<meta name="twitter:description" content="Es handelt sich um eine klare, einfache und fehlerfreie Codestruktur, die von anderen Softwareentwicklern leicht gelesen werden kann.">
+<meta name="twitter:description" content="Sauberer Code ist der Code, der von Menschen gelesen werden kann. Es handelt sich um eine klare, einfache und fehlerfreie Codestruktur, die von anderen Sof">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Clean Code",
-  "description": "Es handelt sich um eine klare, einfache und fehlerfreie Codestruktur, die von anderen Softwareentwicklern leicht gelesen werden kann.",
+  "description": "Sauberer Code ist der Code, der von Menschen gelesen werden kann.",
   "inLanguage": "de",
   "url": "https://trescout.com/de/dictionary/clean-code/",
   "inDefinedTermSet": {
@@ -55,14 +55,20 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/de/dictionary/">← Glossar</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossar · Dev</span><time class="dict-time" datetime="2026-07-03">Zuletzt aktualisiert: 3. Juli 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glossar · Dev</span><time class="dict-time" datetime="2026-09-22">Zuletzt aktualisiert: 22. September 2026</time></div>
 <h1 class="disc-title">Was ist <span class="disc-accent">Clean Code</span>?</h1>
-<p class="disc-lead">Es handelt sich um eine klare, einfache und fehlerfreie Codestruktur, die von anderen Softwareentwicklern leicht gelesen werden kann.</p>
-<section class="disc-sec"><h2>Definition</h2><p>Sauberer Code ist Code, der so geschrieben ist, dass ihn nicht nur Computer, sondern auch Menschen verstehen können. Anstelle komplexer und verflochtener Strukturen werden Codes mit aussagekräftigen Namen und Aufgaben, die in klare und regelmäßige Teile unterteilt sind, bevorzugt. Dieser Ansatz macht das Projekt langfristig einfacher zu warten und reduziert Fehler.</p></section>
-<div class="dict-analogy"><strong>Analogie:</strong> Es ist, als ob die Bücher in einer Bibliothek nicht zufällig, sondern nach Genre und Autor in regulären Regalen angeordnet wären. Sie werden sofort finden, was Sie suchen.</div>
-<section class="disc-sec"><h2>So funktioniert es</h2><p>Es wird geschrieben, indem man Variablen aussagekräftige Namen gibt, Funktionen auf eine einzelne Aufgabe minimiert und unnötige Komplexität vermeidet.</p></section>
-<section class="disc-sec"><h2>Wo es eingesetzt wird</h2><p>Es ist ein grundlegendes Prinzip für alle professionellen Softwareentwicklungsteams, die Codequalität aufrechtzuerhalten.</p></section>
-<section class="disc-sec"><h2>Häufige Fragen</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Reicht es nicht, dass der Code funktioniert?</p><p class="dict-faq-a">Den Code zum Laufen zu bringen, ist nur der erste Schritt. Sauberer Code stellt sicher, dass der Code in Zukunft von jemand anderem geändert werden kann.</p></div></div></section>
+<p class="disc-lead">Sauberer Code ist der Code, der von Menschen gelesen werden kann.</p>
+<section class="disc-sec"><h2>Definition und Wortherkunft</h2><p>Die Maschine führt jeden Code aus, ein Mensch kann nicht jeden Code lesen. Aussagekräftiger Name, kleine Funktion und einfacher Ablauf sorgen für Lesbarkeit. Robert Martin ist der Referenzname dieser Disziplin.</p></section>
+<div class="dict-analogy"><strong>Analogie:</strong> Es ist, als hätte man die Regale einer Bibliothek nach Genre und Autor geordnet.</div>
+<section class="disc-sec"><h2>Wie kann man es kennen und im täglichen Leben anwenden?</h2><p><strong>Team:</strong> Gemeinsame Codebasis.<br><strong>Überprüfung:</strong> Lesbarkeitsprüfung.<br><strong>Pflege:</strong> Zurückkehren zum alten Code.</p></section>
+<section class="disc-sec"><h2>Technische Tiefe und Architektur</h2><p>Grundsätze:</p><p><strong>Name:</strong> Der Name, der die Absicht ausdrückt.<br><strong>Dimension:</strong> Einzeljobfunktion.<br><strong>Wieder:</strong> Das gemeinsame Stück befindet sich an einem Ort.</p><p>Beispiel:</p><pre><code># önce
+def h(a, b):
+    return a + a*b
+# sonra
+def indirimli_fiyat(fiyat, oran):
+    return fiyat + fiyat * oran</code></pre><p>Regel: Das Ausführen von Code ist der erste Schritt, das Lesen von Code ist der zweite Schritt.</p></section>
+<section class="disc-sec"><h2>Einsatz in verschiedenen Disziplinen</h2><p><strong>Tisch:</strong> Aufgeräumter Arbeitsbereich.<br><strong>Regale:</strong> Sortiert nach Genre und Autor.<br><strong>Garten:</strong> Beschnittene Zweiganordnung.</p></section>
+<section class="disc-sec"><h2>Häufig gestellte Fragen</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Reicht es nicht, um zu arbeiten?</p><p class="dict-faq-a">Es ist nicht genug. Arbeitscode speichert heute, gelesener Code speichert morgen.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Verlangsamt es?</p><p class="dict-faq-a">Am Anfang ja, in der Wartung nein. Es bringt insgesamt Geld ein.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Wie wird es gemessen?</p><p class="dict-faq-a">Mit Überprüfungszeit und Fehlerquote. Zahl allein reicht nicht aus.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Wo soll ich anfangen?</p><p class="dict-faq-a">Aus Name und Funktion. Der berührte Code wird gelöscht.</p></div></div></section>
 <section class="disc-sec"><h2>Verwandte Begriffe</h2><div class="dict-related"><a href="/de/dictionary/refactoring/">Refactoring</a><a href="/de/dictionary/unit-testing/">Unit Testing</a><a href="/de/dictionary/engineering-skills/">Engineering Skills</a></div></section>
 <section class="disc-sec"><h2>Verwandte Werkzeuge</h2><div class="dict-related"><a href="/de/discover/clean-code-javascript/">Clean Code Javascript</a></div></section>
 <aside class="disc-cta"><p><strong>Entdecken Sie passende Werkzeuge und tägliche Berichte.</strong> Jeden Tag entstehen neue Fachbegriffe und Tools · sichern Sie sich den Vorabzugang zu TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-de" data-page-type="dictionary" data-content-slug="clean-code" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Ihre E-Mail-Adresse" autocomplete="email" required><button class="btn btn-primary" type="submit">Vorabzugang</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Ich habe den <a href="/de/privacy.html" target="_blank" rel="noopener">Datenschutzhinweis</a> gelesen und bin damit einverstanden, dass meine E-Mail-Adresse zu diesem Zweck verarbeitet wird.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/de/dictionary/">Alle Begriffe →</a></aside>

@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>O que é Repository Checkout? · Glossário · TreScout</title>
-<meta name="description" content="É o processo de copiar todos os arquivos de um projeto de software de um servidor central para o seu próprio computador.">
+<meta name="description" content="Check-out do repositório é o processo de download de uma versão específica do repositório para o seu espaço de trabalho.">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <link rel="canonical" href="https://trescout.com/pt/dictionary/repository-checkout/">
 <link rel="alternate" hreflang="tr" href="https://trescout.com/dictionary/repository-checkout/">
@@ -16,7 +16,7 @@
 <link rel="alternate" hreflang="x-default" href="https://trescout.com/en/dictionary/repository-checkout/">
 <link rel="alternate" type="text/markdown" href="/pt/dictionary/repository-checkout.md">
 <meta property="og:title" content="O que é Repository Checkout?">
-<meta property="og:description" content="É o processo de copiar todos os arquivos de um projeto de software de um servidor central para o seu próprio computador.">
+<meta property="og:description" content="Check-out do repositório é o processo de download de uma versão específica do repositório para o seu espaço de trabalho.">
 <meta property="og:url" content="https://trescout.com/pt/dictionary/repository-checkout/">
 <meta property="og:type" content="article">
 <meta property="og:locale" content="pt_BR">
@@ -27,14 +27,14 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@GetTreScout">
 <meta name="twitter:title" content="O que é Repository Checkout?">
-<meta name="twitter:description" content="É o processo de copiar todos os arquivos de um projeto de software de um servidor central para o seu próprio computador.">
+<meta name="twitter:description" content="Check-out do repositório é o processo de download de uma versão específica do repositório para o seu espaço de trabalho.">
 <meta name="twitter:image" content="https://trescout.com/og-image.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DefinedTerm",
   "name": "Repository Checkout",
-  "description": "É o processo de copiar todos os arquivos de um projeto de software de um servidor central para o seu próprio computador.",
+  "description": "Check-out do repositório é o processo de download de uma versão específica do repositório para o seu espaço de trabalho.",
   "inLanguage": "pt-BR",
   "url": "https://trescout.com/pt/dictionary/repository-checkout/",
   "inDefinedTermSet": {
@@ -55,14 +55,17 @@
 <main id="main">
 <article class="disc">
 <a class="disc-back" href="/pt/dictionary/">← Glossário</a>
-<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-07-03">Última atualização: 3 de julho de 2026</time></div>
+<div class="disc-top"><span class="disc-eyebrow">Glossário · Dev</span><time class="dict-time" datetime="2026-09-22">Última atualização: 22 de setembro de 2026</time></div>
 <h1 class="disc-title">O que é <span class="disc-accent">Repository Checkout</span>?</h1>
-<p class="disc-lead">É o processo de copiar todos os arquivos de um projeto de software de um servidor central para o seu próprio computador.</p>
-<section class="disc-sec"><h2>Definição</h2><p>Checkout é pegar uma versão específica de um projeto do servidor e baixá-la para seu próprio espaço de trabalho. Desta forma, você pode acessar o estado atual do projeto e começar a fazer alterações nele. No mundo do software, é a etapa básica de criação de uma cópia local do projeto.</p></section>
-<div class="dict-analogy"><strong>Analogia:</strong> É como pegar emprestado um livro de uma biblioteca, levá-lo até a mesa e começar a ler as páginas uma por uma, em vez de apenas saber o nome.</div>
-<section class="disc-sec"><h2>Como funciona</h2><p>Geralmente é feito usando ferramentas como Git, via terminal com o comando &#39;git checkout&#39;, ou via botões no ambiente de desenvolvimento.</p></section>
-<section class="disc-sec"><h2>Onde é usado</h2><p>É usado quando você está apenas iniciando um projeto ou precisa mudar para uma versão diferente do projeto.</p></section>
-<section class="disc-sec"><h2>Perguntas frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Ele só baixa arquivos?</p><p class="dict-faq-a">Ele traz não só os arquivos, mas também o histórico e informações de versão do projeto.</p></div></div></section>
+<p class="disc-lead">Check-out do repositório é o processo de download de uma versão específica do repositório para o seu espaço de trabalho.</p>
+<section class="disc-sec"><h2>Definição e origem da palavra</h2><p>Você obtém a versão atual do projeto do servidor e a leva para sua mesa. É como pegar um livro emprestado na biblioteca: a fonte permanece, você trabalha com a cópia. As informações de histórico e versão acompanham a cópia.</p></section>
+<div class="dict-analogy"><strong>Analogia:</strong> É como pegar um livro emprestado na biblioteca, levá-lo até a mesa e começar a ler as páginas uma por uma.</div>
+<section class="disc-sec"><h2>Como conhecer e usar no dia a dia?</h2><p><strong>Novo projeto:</strong> Baixando o repositório pela primeira vez.<br><strong>Migração de versão:</strong> Não volte para a tag antiga e examine o erro.<br><strong>Experimente o ramo:</strong> Não abra a filial do seu amigo localmente.</p></section>
+<section class="disc-sec"><h2>Profundidade Técnica e Arquitetura</h2><p>O fluxo é o seguinte:</p><pre><code>git clone https://github.com/ornek/proje.git
+cd proje
+git checkout v2.0.0</code></pre><p>Distinções:</p><p><strong>Clone:</strong> Baixando todo o repositório pela primeira vez.<br><strong>Confira:</strong> Alterando versão ou branch no repositório baixado.<br><strong>Trocar/Restaurar:</strong> Ramificação e recuperação de comandos no Git moderno.<br><strong>Escasso:</strong> Baixando apenas a pasta necessária no enorme repositório.</p><p>Regra: Não passe enquanto tiver o trabalho salvo, confirme ou salve-o primeiro.</p></section>
+<section class="disc-sec"><h2>Use em diferentes disciplinas</h2><p><strong>Biblioteca:</strong> Não tire o livro da estante e leve-o para a mesa.<br><strong>Arquivo:</strong> Remova a pasta do armazenamento e examine-a.<br><strong>Fotografia:</strong> Não aceite pressão do negativo.</p></section>
+<section class="disc-sec"><h2>Perguntas Frequentes</h2><div class="dict-faq"><div class="dict-faq-item"><p class="dict-faq-q">Ele só baixa arquivos?</p><p class="dict-faq-a">Não. Informações sobre histórico e versão também estão incluídas, para que você possa reverter para a versão antiga.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Qual é a diferença com Clone?</p><p class="dict-faq-a">Clone é o download inicial, checkout é a passagem pelo repositório baixado. A ordem é nessa direção.</p></div><div class="dict-faq-item"><p class="dict-faq-q">Como reverter para a versão antiga?</p><p class="dict-faq-a">É passado com uma tag ou hash de commit. Se houver um trabalho salvo, ele será armazenado primeiro.</p></div><div class="dict-faq-item"><p class="dict-faq-q">O que é mudar?</p><p class="dict-faq-a">É o comando moderno para ramificar. Como o checkout dá muito trabalho, o Git o divide em dois: mudar para o branch, restaurar para o arquivo.</p></div></div></section>
 <section class="disc-sec"><h2>Termos relacionados</h2><div class="dict-related"><a href="/pt/dictionary/git-push/">Git Push</a><a href="/pt/dictionary/tech-stack/">Tech Stack</a><a href="/pt/dictionary/cloning/">Cloning</a></div></section>
 <section class="disc-sec"><h2>Ferramentas relacionadas</h2><div class="dict-related"><a href="/pt/discover/checkout/">Checkout</a></div></section>
 <aside class="disc-cta"><p><strong>Explore ferramentas relacionadas e relatórios diários.</strong> Novos termos e ferramentas surgem todos os dias · junte-se ao acesso antecipado da TreScout.</p><form class="cta-form disc-cta-form js-subscribe" data-source="dictionary-pt" data-page-type="dictionary" data-content-slug="repository-checkout" data-cta-placement="dictionary_detail" action="/api/subscribe" method="post"><div class="form-row"><input class="input" type="email" name="email" placeholder="Seu e-mail" autocomplete="email" required><button class="btn btn-primary" type="submit">Acesso antecipado</button></div><label class="form-consent"><input type="checkbox" name="consent" required><span>Li o <a href="/pt/privacy.html" target="_blank" rel="noopener">aviso de privacidade</a> e concordo com o tratamento do meu e-mail para esta finalidade.</span></label><input type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true" class="hp-field"></form><a class="btn btn-ghost disc-cta-all" href="/pt/dictionary/">Todos os termos →</a></aside>

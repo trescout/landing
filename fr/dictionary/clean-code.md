@@ -1,19 +1,31 @@
 # Qu'est-ce que Clean Code ?
 
-Il s'agit d'une structure de code claire, simple et sans erreur qui peut être facilement lue par d'autres développeurs de logiciels.
+Le code propre est le code qui peut être lu par les humains.
 
-## Définition
-Un code propre est un code écrit de manière à ce que non seulement les ordinateurs mais aussi les humains puissent le comprendre. Aux structures complexes et entrelacées, on préfère des codes avec des noms significatifs et des tâches divisées en parties claires et régulières. Cette approche facilite la maintenance du projet sur le long terme et réduit les erreurs.
+## Définition et origine du mot
+La machine exécute tous les codes, un humain ne peut pas lire tous les codes. Un nom significatif, une petite fonction et un flux simple apportent de la lisibilité. Robert Martin est le nom de référence de cette discipline.
 
-## Comment ça marche
-Il est écrit en donnant des noms significatifs aux variables, en minimisant les fonctions pour effectuer un seul travail et en évitant toute complexité inutile.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Équipe: Base de code commune.Examen : Contrôle de lisibilité.Soins: Revenir à l'ancien code.
 
-## Où est-ce utilisé
-C'est un principe fondamental pour toutes les équipes professionnelles de développement de logiciels de maintenir la qualité du code.
+## Profondeur technique et architecture
+Principes :
 
-## Questions fréquentes
-**N'est-ce pas suffisant pour que le code fonctionne ?**
-Faire fonctionner le code n’est que la première étape ; Un code propre garantit que le code peut être modifié par quelqu'un d'autre à l'avenir.
+## Utilisation dans différentes disciplines
+Tableau: Espace de travail bien rangé.Étagères: Classés par genre et auteur.Jardin: Disposition des branches taillées.
+
+## Foire aux questions
+**N'est-ce pas suffisant de travailler ?**
+Ce n'est pas suffisant. Le code de travail enregistre aujourd'hui, le code lu enregistre demain.
+
+**Est-ce que cela ralentit ?**
+Au début oui, en maintenance non. Cela rapporte de l’argent au total.
+
+**Comment se mesure-t-il ?**
+Avec temps de révision et taux d’erreur. Le nombre seul ne suffit pas.
+
+**Par où commencer ?**
+Du nom et de la fonction. Le code touché est effacé.
 
 
 ## Termes liés

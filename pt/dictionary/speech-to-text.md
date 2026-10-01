@@ -1,22 +1,34 @@
 # O que é Speech-to-Text?
 
-É a tecnologia que ouve palavras faladas e as converte automaticamente em texto escrito.
+Speech-to-text (abreviado como STT, conversão de fala em texto) é a tecnologia que converte áudio em texto escrito.
 
-## Definição
-É um processo que analisa ondas sonoras e as converte em caracteres digitais. A inteligência artificial distingue as entonações e palavras da voz humana e as transforma em texto. Hoje em dia funciona muito rápido e sem erros.
+## Definição e origem da palavra
+As ondas sonoras são convertidas em atributos digitais e o modelo reconhece as palavras. A inteligência artificial também lê a entonação e o contexto. Não é infalível, mas tem alta precisão em gravações limpas.
 
-## Como funciona
-Os dados de áudio provenientes do seu microfone entram no sistema, a inteligência artificial processa esses dados e os reflete como texto na tela.
+## Como conhecer e usar no dia a dia?
+Reunião: Ata automática.Assistente: Comando de voz.Legenda: Texto de vídeo.
 
-## Onde é usado
-Ele é usado em aplicativos de anotações de reuniões, assistentes de voz e ferramentas de legenda.
+## Profundidade Técnica e Arquitetura
+Linha:
 
-## Costuma ser confundido com
-Pode ser confundido com Text-to-Speech (tradução de texto para fala); Este é exatamente o processo oposto.
+## Coisas frequentemente misturadas
+Pensa-se que é conversão de texto em fala. Aquilo converte texto em som, isto converte som em texto. Os dois são direções opostas.
 
-## Perguntas frequentes
+## Use em diferentes disciplinas
+Secretário(a): Tomar notas enquanto fala.Datilógrafo: Escrever o que é dito.Sala de legendagem: Preparar legendas para transmissão.
+
+## Perguntas Frequentes
 **Ele entende cada sotaque?**
-Embora os modelos modernos entendam a maioria dos sotaques, eles podem cometer erros com idiomas muito raros ou gravações de voz distorcidas.
+É bom em sotaques comuns; a taxa de erro aumenta em idiomas raros e gravações de baixa qualidade.
+
+**Qual é a precisão?**
+É alta em gravações limpas; ruído e jargão a reduzem. Textos críticos devem ser revisados.
+
+**Suporta turco?**
+Sim. Grandes modelos são fortes em turco, mas sotaques e terminologia devem ser testados.
+
+**Existe risco de privacidade?**
+Em serviços em nuvem, o áudio é enviado para fora. Para reuniões confidenciais, prefira um modelo local.
 
 
 ## Termos relacionados

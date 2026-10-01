@@ -1,19 +1,31 @@
 # ¿Qué es Repository Checkout?
 
-Es el proceso de copiar todos los archivos de un proyecto de software desde un servidor central a su propia computadora.
+La compra del repositorio es el proceso de descargar una versión específica del repositorio a su espacio de trabajo.
 
-## Definición
-Pagar consiste en tomar una versión específica de un proyecto del servidor y descargarla en su propio espacio de trabajo. De esta forma, podrás acceder al estado actual del proyecto y comenzar a realizar cambios en el mismo. En el mundo del software, es el paso básico de crear una copia local del proyecto.
+## Definición y origen de la palabra
+Obtienes la versión actual del proyecto del servidor y la llevas a tu escritorio. Es como pedir prestado un libro de la biblioteca: la fuente permanece, tú trabajas con la copia. La información del historial y la versión viene con la copia.
 
-## Cómo funciona
-Generalmente se realiza mediante herramientas como Git, a través de la terminal con el comando 'git checkout' o mediante botones en el entorno de desarrollo.
+## ¿Cómo saberlo y utilizarlo en la vida diaria?
+Nuevo proyecto: Descargando el repositorio por primera vez.Migración de versión: No vuelva a la etiqueta anterior y examine el error.Pruebe la rama: No abras la sucursal de tu amigo localmente.
 
-## Dónde se usa
-Se utiliza cuando recién estás comenzando un proyecto o necesitas cambiar a una versión diferente del proyecto.
+## Profundidad técnica y arquitectura
+El flujo es el siguiente:
+
+## Uso en diferentes disciplinas
+Biblioteca: No saques el libro del estante y lo lleves a la mesa.Archivo: Retire la carpeta del almacenamiento y examínela.Fotografía: No dejes que lo negativo te presione.
 
 ## Preguntas frecuentes
 **¿Solo descarga archivos?**
-Trae no solo los archivos, sino también el historial y la información de versión del proyecto.
+No. También se incluye información sobre el historial y la versión, por lo que puedes volver a la versión anterior.
+
+**¿Cuál es la diferencia con Clonar?**
+Clonar es la descarga inicial, el pago es el paso por el repositorio descargado. El orden va en esta dirección.
+
+**¿Cómo volver a la versión anterior?**
+Se pasa con una etiqueta o un hash de confirmación. Si hay un trabajo guardado, se almacena primero.
+
+**¿Qué es el interruptor?**
+Es el comando moderno para bifurcar. Dado que el proceso de pago requiere mucho trabajo, Git lo divide en dos: cambiar a la rama y restaurar al archivo.
 
 
 ## Términos relacionados

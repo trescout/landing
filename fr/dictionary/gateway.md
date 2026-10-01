@@ -1,22 +1,34 @@
 # Qu'est-ce que Gateway ?
 
-C'est le port qui gère et fait transiter le trafic de données entre différents réseaux.
+Une passerelle (gateway en anglais) est un point de connexion qui gère le trafic entre différents réseaux.
 
-## Définition
-C'est comme un pont qui permet à deux réseaux différents de communiquer entre eux. Par exemple, l’appareil qui connecte Internet chez vous à Internet dans le monde extérieur est une passerelle. Il vérifie que les données vont à la bonne adresse.
+## Définition et origine du mot
+Gate signifie porte et way signifie chemin. Il s'agit d'une passerelle permettant à deux réseaux de communiquer entre eux : l'appareil reliant l'internet de votre domicile au monde extérieur en est l'exemple typique. Il examine les données entrantes et décide vers quel réseau elles doivent être dirigées.
 
-## Comment ça marche
-Il examine les données entrantes, décide vers quel réseau elles doivent accéder et dirige le trafic.
+## Comment connaître et utiliser dans la vie quotidienne ?
+Modem domestique : Connecte votre maison au réseau du fournisseur.Passerelle d'entreprise : Point de contrôle du trafic de bureau.Cloud : La porte d'entrée entre les réseaux virtuels.
 
-## Où est-ce utilisé
-On le trouve dans les modems domestiques, les ports réseau d'entreprise et les systèmes cloud.
+## Profondeur technique et architecture
+Les fonctions de la passerelle :
 
-## Souvent confondu avec
-Peut être confondu avec API Gateway ; Alors qu'API Gateway gère les services dans le monde des logiciels, la passerelle fonctionne au niveau physique ou réseau.
+## Choses fréquemment mélangées
+Elle peut être confondue avec une passerelle API. La passerelle API gère les services logiciels, tandis que la passerelle réseau opère au niveau du réseau. L'une est une porte d'application, l'autre est une porte de routage.
 
-## Questions fréquentes
-**Puis-je accéder à Internet sans passerelle ?**
-Non, votre réseau local ne peut pas se connecter au monde extérieur et reste isolé.
+## Utilisation dans différentes disciplines
+Poste frontière : Contrôle et orientation des arrivants.Port : Passage des navires en douane.Réception: Orientation du visiteur vers le bon étage.
+
+## Foire aux questions
+**Peut-on accéder à Internet sans passerelle (gateway) ?**
+Non. Le réseau local ne peut pas se connecter au monde extérieur, il reste isolé.
+
+**Quelle est la différence avec une passerelle API (API gateway) ?**
+La passerelle réseau transporte des paquets, la passerelle API gère des requêtes. L'une est au niveau réseau, l'autre au niveau application.
+
+**Laquelle utilise-t-on à la maison ?**
+La passerelle intégrée à votre modem suffit. Aucun réglage supplémentaire n'est nécessaire, l'adresse est distribuée automatiquement.
+
+**Deux réseaux peuvent-ils être maintenus séparés ?**
+Oui. Le passage est bloqué par des règles de pare-feu et les réseaux fonctionnent de manière isolée.
 
 
 ## Termes liés
@@ -27,6 +39,7 @@ Non, votre réseau local ne peut pas se connecter au monde extérieur et reste i
 ## Outils liés
 - [OmniRoute](/fr/discover/omniroute/)
 - [Fanqiang](/fr/discover/fanqiang/)
+- [Gitdiagram](/fr/discover/gitdiagram/)
 - [OpenWA](/fr/discover/openwa/)
 - [Grok2api](/fr/discover/grok2api/)
 
