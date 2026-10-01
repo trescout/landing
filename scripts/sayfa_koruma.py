@@ -44,14 +44,17 @@ def zayiflatir(yeni_html, mevcut_yol, kaynak_yol=None):
         return None
     eski_bolum, eski_kelime = _olcu(eski)
     yeni_bolum, yeni_kelime = _olcu(yeni_html)
+    # Kaynağın bölüm sayısına ulaşan çıktı için YALNIZ bölüm kuralı esner;
+    # metin kuralı her zaman geçerli (elle zenginleştirilmiş, Türkçesinden uzun
+    # çeviri sayfası daha kısa bir makine çevirisiyle ezilmesin).
+    kaynak_yeterli = False
     if kaynak_yol and os.path.exists(kaynak_yol):
         try:
             kaynak_bolum, _ = _olcu(open(kaynak_yol, encoding="utf-8").read())
+            kaynak_yeterli = yeni_bolum >= kaynak_bolum
         except OSError:
-            kaynak_bolum = None
-        if kaynak_bolum is not None and yeni_bolum >= kaynak_bolum:
-            return None
-    if yeni_bolum < eski_bolum:
+            pass
+    if yeni_bolum < eski_bolum and not kaynak_yeterli:
         return f"bölüm {eski_bolum}→{yeni_bolum}"
     if eski_kelime and yeni_kelime < eski_kelime * ASGARI_METIN_ORANI:
         return f"metin {eski_kelime}→{yeni_kelime} kelime"

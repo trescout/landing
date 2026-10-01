@@ -179,6 +179,27 @@ def en_chrome():
     return nav, footer, (form.group(0) if form else ""), vercel
 
 
+def _paragraf_cevir(ic):
+    """Bir <p> içini çevirir. İçinde kod bloğu varsa kod olduğu gibi kalır;
+    <br> ile ayrılmış satırlar ve baştaki <strong> etiketi ayrı ayrı çevrilir
+    (metin() hepsini birleştirip "yanıtlar.Sızıntı" gibi yapıştırıyordu)."""
+    kod = re.findall(r"<pre[\s\S]*?</pre>", ic)
+    if kod:
+        return "".join(kod)
+    satirlar = []
+    for parca in re.split(r"<br\s*/?>", ic):
+        sm = re.match(r"\s*<strong>(.*?)</strong>(.*)$", parca, re.S)
+        if sm:
+            etiket, kalan = metin(sm.group(1)), metin(sm.group(2))
+            satir = (f"<strong>{esc(tr2en(etiket))}</strong> " if etiket else "") + (esc(tr2en(kalan)) if kalan else "")
+        else:
+            x = metin(parca)
+            satir = esc(tr2en(x)) if x else ""
+        if satir.strip():
+            satirlar.append(satir.strip())
+    return f"<p>{'<br>'.join(satirlar)}</p>" if satirlar else ""
+
+
 def bolumler(b):
     """Bölümleri LİSTE olarak döndürür · analoji Türkçedeki gibi ilk bölümün
     hemen ardına girsin diye (tek metin olsaydı sona eklenirdi)."""
@@ -204,9 +225,26 @@ def bolumler(b):
             if cips:
                 out.append(f'<section class="disc-sec"><h2>{esc(yeni)}</h2><div class="dict-related">{cips}</div></section>\n')
         else:
-            p = metin(blok(r"<p>(.*?)</p>", govde))
-            if p:
-                out.append(f'<section class="disc-sec"><h2>{esc(yeni)}</h2><p>{esc(tr2en(p))}</p></section>\n')
+            # Bölümün TAMAMI · eskiden yalnız ilk <p> alınıyordu; elle
+            # zenginleştirilmiş sayfalarda (ör. "Teknik Derinlik": 5 paragraf +
+            # kod) çeviri Türkçenin yarısında kalıyordu (benchmark: 310 → 172
+            # kelime). Paragraf ve liste maddeleri çevrilir, kod olduğu gibi kalır.
+            parcalar = []
+            for m2 in re.finditer(r"<(p|pre|ul|ol)\b[^>]*>(.*?)</\1>", govde, re.S):
+                etiket, ic = m2.group(1), m2.group(2)
+                if etiket == "pre":
+                    parcalar.append(m2.group(0))
+                elif etiket == "p":
+                    p_html = _paragraf_cevir(ic)
+                    if p_html:
+                        parcalar.append(p_html)
+                else:
+                    maddeler = "".join(f"<li>{esc(tr2en(metin(li)))}</li>"
+                                       for li in re.findall(r"<li\b[^>]*>(.*?)</li>", ic, re.S) if metin(li))
+                    if maddeler:
+                        parcalar.append(f"<{etiket}>{maddeler}</{etiket}>")
+            if parcalar:
+                out.append(f'<section class="disc-sec"><h2>{esc(yeni)}</h2>{"".join(parcalar)}</section>\n')
     return out
 
 
@@ -383,8 +421,22 @@ def main():
     chrome = en_chrome()
     if ONLY:
         terms = [t for t in terms if t["slug"] == ONLY]
-    # Önce bu dilde HİÇ OLMAYAN sayfalar · gerekçe discover-en.py main()
-    terms.sort(key=lambda t: os.path.exists(os.path.join(EN_DIR, t["slug"], "index.html")))
+    # Sıra: 1) bu dilde HİÇ OLMAYAN sayfalar (gerekçe discover-en.py main()),
+    # 2) Türkçesinden AZ bölüm taşıyanlar (elle zenginleştirilmiş Türkçe
+    # sayfaların çevrilmemiş bölümleri · 2026-10-01'de ~470 sayfa, alfabetik
+    # sırada 60 dk'lık sınırdan önce sıra gelmiyordu), 3) geri kalanlar.
+    def _h2(yol):
+        try:
+            return len(re.findall(r"<h2[^>]*>", open(yol, encoding="utf-8").read()))
+        except OSError:
+            return None
+    def _oncelik(t):
+        mevcut = _h2(os.path.join(EN_DIR, t["slug"], "index.html"))
+        if mevcut is None:
+            return 0
+        tr = _h2(os.path.join(TR_DIR, t["slug"], "index.html"))
+        return 1 if tr is not None and mevcut < tr else 2
+    terms.sort(key=_oncelik)
     if LIMIT:
         terms = terms[:LIMIT]
     global _sayfa_eksik
