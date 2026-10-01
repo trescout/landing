@@ -1,6 +1,6 @@
 # Gizlilik odaklı alternatif Twitter arayüzü
 
-Não foi possível produzir um resumo para este item hoje. Consulte o link da fonte para obter detalhes.
+Gizlilik odaklı alternatif Twitter arayüzü: JavaScript çalıştırmadan Twitter içeriklerini görüntüler, IP adresini ve tarayıcı…
 
 - ★ 13.705
 - Nim

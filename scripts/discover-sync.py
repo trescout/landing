@@ -64,6 +64,7 @@ def existing_urls():
 # ---- rapor GitHub item'ları ----
 def report_items():
     seen={}
+    gercek_ozet={}   # url → (ilk gerçek özetin tarihi, özet)
     source_jsons = [f for f in glob.glob(os.path.join(REPORTS, "*.json")) if is_turkish_report_json(f)]
     for f in sorted(source_jsons):
         try: d=json.load(open(f,encoding="utf-8"))
@@ -83,6 +84,12 @@ def report_items():
                 # 2026-09-27: hat 19 Eylül'den beri durmuştu; birikmiş raporlar
                 # birlikte işlenince yeni kayıtlar SON raporun tarihini aldı
                 # (financial-services ilk 21 Eylül, katalogda 25 Eylül).
+                # Yer tutucu özet kayda girmez · ilk GERÇEK özet aranır (aşağıda)
+                # Boş özet de gerçek sayılmaz · rapor artık özeti üretilemeyen
+                # kaydı yer tutucu yerine özetsiz yayınlıyor (app#95)
+                if (it.get("summary") or "").strip() and not yer_tutucu(it.get("summary")) \
+                        and (u not in gercek_ozet or date < gercek_ozet[u][0]):
+                    gercek_ozet[u]=(date, it.get("summary",""))
                 e=seen.get(u)
                 if e is None:
                     seen[u]={**it,"_date":date,"_ilk":date,"_gunler":{date:it.get("meta","")}}
@@ -92,6 +99,11 @@ def report_items():
                     seen[u]={**it,"_date":e["_date"],"_ilk":date,"_gunler":e["_gunler"]}
                 elif date > e["_date"]:
                     e["_date"]=date
+    for u,e in seen.items():
+        if yer_tutucu(e.get("summary")) or not (e.get("summary") or "").strip():
+            # İlk günün özeti yer tutucuysa raporlardaki ilk gerçek özet; hiç
+            # yoksa boş (tanıtım metni başlıktan kurulur, kayıt lite kalır).
+            e["summary"]=gercek_ozet.get(u,("",""))[1]
     return list(seen.values())
 
 
@@ -113,6 +125,19 @@ def parse_meta(meta):
     m2=re.match(r'^\s*([A-Za-z0-9+#. ]+?)\s*·',meta or ''); lang=m2.group(1).strip() if m2 else ""
     mom=re.search(r'(\+[\d.]+\s*bugün)',meta or ''); momentum=mom.group(1) if mom else ""
     return lang,stars,momentum
+
+# Raporda özet üretilemediğinde yazılan yer tutucu ("Bu öğenin özeti bugün
+# üretilemedi…") ve 25 Ağustos kurtarmasında TR alanına sızan Portekizcesi.
+# Katalog bunu özet sanıp tanıtım metni yapıyordu: vaultwarden (6 dilde),
+# go-modern-guidelines ve nitter (TR'de Portekizce) · 2026-10-01.
+YER_TUTUCU = re.compile(r"özeti bugün üretilemedi|não foi possível produzir um resumo|"
+                        r"summary (for this item )?could not be (produced|generated)|"
+                        r"n'a pas pu être produit|no se pudo (generar|producir)|konnte heute nicht", re.I)
+
+
+def yer_tutucu(metin):
+    return bool(YER_TUTUCU.search(metin or ""))
+
 
 def make_tagline(summary, fallback):
     """Özetin ilk cümlesi · gerekirse KELİME sınırında kes (mid-word kesme yok)."""
